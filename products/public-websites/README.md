@@ -38,9 +38,9 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [React widgets use within CMS](#react-widgets-governance) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | . |
-| [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
-| [Promo Banner](#promo-banner) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
+| [VA.gov Homepage](#vagov-homepage) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/README.md#translation-react-widgets) | . |
+| [Promo Banner](#promo-banner) | [Unauthed React healthcare widgets](#unauthed-react-widgets) |  .  |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
 
@@ -406,28 +406,42 @@ They may also have a standalone Resources and Support page (/resources/). (Not t
 * **Q3 2022 project**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
-## Translations
+## Translation React widgets
 
 **What is:**
 
-Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translated, to Spanish and Tagalog. The decoupled Drupal site creates challenges for translation, as we cannot easily use Drupal’s native capabilities for serving translated pages. Public Websites team is involved in: 
-* Maintaining currently translated pages
-* Supporting new translation of any pages that require it 
-* Q3 2022 are researching options for a more robust translation/localization solution
+Q4 2023: Full site translations are not yet available. Drupal functionality has been scoped and is owned by CMS team for future delivery. 
+Meantime: Some site content must be translated. When this is required, typically Sitewide CAIA (Content, Accessibility, IA) determine which pages and provide the translations as separate CMS nodes per translated page (e.g. English, Spanish, Tagalog).  Public Websites then implements a React widget on each of those pages, that acts as an in-page navigation / switcher. 
+
+Public Websites team: 
+* Maintains currently translated pages
+* Supports new translation widgets for any pages that require it 
 
 **Example translated content:**
 * URL: [https://www.va.gov/health-care/covid-19-vaccine/](https://www.va.gov/health-care/covid-19-vaccine/)
 * CMS: 
   * En: [https://staging.cms.va.gov/node/11463/edit](https://staging.cms.va.gov/node/11463/edit)
   * Es: [https://staging.cms.va.gov/node/16359/edit](https://staging.cms.va.gov/node/16359/edit)
-  * Tl: [https://staging.cms.va.gov/node/16413/edit](https://staging.cms.va.gov/node/16413/edit) 
+  * Tl: [https://staging.cms.va.gov/node/16413/edit](https://staging.cms.va.gov/node/16413/edit)
+* EN: https://www.va.gov/health-care/how-to-apply/
+* ES: https://www.va.gov/health-care/how-to-apply-esp/
+* EN: https://www.va.gov/health-care/after-you-apply/
+* ES: https://www.va.gov/health-care/after-you-apply-esp/
+* EN: https://www.va.gov/disability/eligibility/
+* ES: https://www.va.gov/disability/eligibility-esp/
+* EN: https://www.va.gov/disability/how-to-file-claim/
+* ES: https://www.va.gov/disability/how-to-file-claim-esp/
+* EN: https://www.va.gov/disability/after-you-file-claim/
+* ES: https://www.va.gov/disability/after-you-file-claim-esp/
+
+### CAIA's Requirements: 
+CAIA documentation for translation widgets / requirements: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
 
 
 **More info:**
 * A6 program GDrive folder: [Translations & i18n](https://drive.google.com/drive/u/1/folders/13eRn2gM759p5NM1p90bnWBZYzQxZ3MGd)
-* How current translations work: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
-* [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing upcoming work / research for translations (Q3 2022) 
-* **Q3 2022 project:** Upcoming translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
+* [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing CMS team work / research for Drupal translations
+* Q3 2022 project: Translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
 * [VFS Product Directory: Translated Pages](https://depo-platform-documentation.scrollhelp.site/getting-started/translated-pages)
 
 ---
