@@ -15,9 +15,7 @@ This study will test that those features are meeting Veteran's needs.
 
 Additionally, we want to generate some insights around how Veterans choose facilities or providers. This will help inform our approach to improving these flows in future initiatives.
 
-
 Also see [Product's initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-list/product-outline-appointment-list-2022.md).
-
 
 ### OCTO Priorities 
 
@@ -59,39 +57,50 @@ Retiring
 
 ## Research goals
 
-Primary: Verify via UAT that logged in Veterans are able to utilize recently added features and data is populating as expected.
+**UAT:** Verify via UAT that logged in Veterans are able to utilize recently added features and data is populating as expected.
 
-Secondary: Understand Veteran's mental models as they choose a facility or provider when scheduling an appointment. 
+**Mental Model Study:** Understand Veteran's mental models as they choose a facility or provider when scheduling an appointment. 
 
 ### Research questions
 
-1. Are participants able to navigate through the appointments feature?
-1. Are the navigation changes displaying correctly?
+**UAT:**
+1. Are participants able to navigate between to the appointments feature from My VA and MHV on VA.gov?
+1. Are participants able to navigate their appointments lists?
 1. Can participants easily print their appointments lists?
+1. Are users at Cerner facilities able to navigate to My VA Health?
+
+**Mental Model Study**
+1. Are participants able to start the scheduling process?
+2. Are participants able to select a facility and clinic?
+3. Are CC eligible participants able to select a provider?
+4. What other methods of scheduling would be helpful?
+5. What other information would be helpful when making their selections?
 
 ### Outcome
 
-We will use the findings to:
+We will use the _UAT_ findings to validate or improve:
+- the breadcrumb and URL updates for MHV on VA.gov.
+- the descriptive back link navigation on the details pages.
+- the print button design.
 
-- Validate breadcrumb and URL updates.
-- Validate the changes to the navigation descriptive back link.
-- To validate the print button design or make iterations based on feedback.
-- To understand and validate assumptions around the current facility/clinic selection process for direct scheduling.
-- To understand and validate assumptions around the current provider selection for community care appointments. 
+We will use the _mental model study_ finding to:
+- better understand participant expectations around facility and clinic selection.
+- better understand participant expectations around community care provider selection.
+- identify pain points or potential improvements, and use this to inform our approach to improving the scheduling process.
 
 ### Hypotheses
 
-When logged in Veterans are in the appointments feature on VA.gov:
+1. Participants will be able to easily navigate to the appointments tool from all entry points.
 
--   They will be able to navigate their appointments as expected.
--   They will be able to print a list of their (upcoming, pending, past) appointments. 
--   They will be able to find the information they need to attend/join their appointments.
+2. Participants will be able to easily print a list of their appointments. 
+
+3. Participants at Cerner facilities will be able to easily navigate to My VA Health.
+
+4. The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.
 
 ## Method
 
-To meet our primary goal, we'll use a moderated user acceptance test. 
-
-To meet our secondary goal, if time, we'll ask users to complete tasks related to selecting providers and clinics.
+We'll run a moderated test divided into two parts: an evaluative UAT study and a generative mental model study.
 
 ### Location
 
@@ -101,14 +110,17 @@ Remote, over Zoom.
 
 For moderated *desktop* usability test 
 - [Conversation guide](conversation-guide.md)
+- [Task tracker](https://docs.google.com/spreadsheets/d/1i4vXL-1MkC-QhdzWUneLyfaopI5UL0JPAI7uHux90DE/edit#gid=0)
 - [Observer Signup sheet](https://docs.google.com/spreadsheets/d/1psKVN-csDpXjvwFOEgGBUAdCzaF9M_Ua27pujRqaNzQ/edit?usp=sharing)
-- [Mural board for notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ab46bdc2-9241-4530-b4ae-5f5482510528)
+- [Mural board for observer notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ab46bdc2-9241-4530-b4ae-5f5482510528)
 
 ## Recruitment
 
 ### Recruitment approach
 
-Perigean will recruit 16 total participants for this study. We will ask Perigean to treat each of three groups as a separate recruitment effort: mobile and desktop.
+Perigean will:
+- recruit 16 total participants for this study.
+- schedule a brief kickoff call to run through the recruitment criteria before recruiting.
 
 ### Recruitment criteria
 
