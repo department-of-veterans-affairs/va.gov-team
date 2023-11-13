@@ -38,7 +38,7 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [React widgets use within CMS](#react-widgets-governance) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | . |
-| [VA.gov Homepage](#vagov-homepage) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/master/products/public-websites/README.md#translation-react-widgets) | . |
+| [VA.gov Homepage](#vagov-homepage) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets) | . |
 | [Promo Banner](#promo-banner) | [Unauthed React healthcare widgets](#unauthed-react-widgets) |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
