@@ -128,12 +128,15 @@ ________________________________________________________________________________
        - ✔️ 🟥[[UX] [Design] Create Final Wireframe](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68084)
             - Added mid-sprint 
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-      - 🟥Create research review ticket
+      - ⛔ BLOCKED 🟥Create research review ticket
+           - Dependent on CAIA ticket feedback 
       - 🟥Create a CAIA review ticket
       - ✔️ 🟥[[UX][Design] [Iterate on appt detail pages based on Matt feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69159)
       - ✔️ 🟥[[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418) ROLLOVER
       - 🟥[[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164) ROLLOVER
       - 🟥[[Content] [UX] Draft email template for file a BT claim notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68851)
+      - 🟥 [[UX][Design][Content] Create wireframe with content for when Veteran selects a direct link after 30 days](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68923)
+           - Pulled in at end of sprint on Monday, Nov 13 
 - **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Send out 45-minute Check-in Text Reminder with Check-in Link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)**
