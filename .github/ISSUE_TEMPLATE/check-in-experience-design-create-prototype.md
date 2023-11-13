@@ -27,6 +27,6 @@ As a [role], I want to [what] so that I can [do something].
 - [ ] No
       
 ## Acceptance Criteria
-- [ ] Work for the ticket tasks are complete
+- [ ] Work for the ticket tasks is complete
 - [ ] Work was reviewed by groups indicated above
-- [ ] If needed, provided Check-in PO with links or content for f/u tickets
+- [ ] If needed, provide Check-in PO with links or content for f/u tickets
