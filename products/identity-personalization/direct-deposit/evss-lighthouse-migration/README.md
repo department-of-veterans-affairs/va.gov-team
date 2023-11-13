@@ -93,8 +93,8 @@ As a person that receives payments from VA, I want to be able to easily view and
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |% of successful retrievals|90%|96%|94%|92%|94.71%|95%|96.65%|96.8%|94.61%|95.77%||
 |% of failed retrievals|10%|4%|6%|7%|5.29%|5%|3.35%|3.18%|5.39%|4.23%||
-|% of successful saves|84%|91%|85%|78%|90.45%|94.95%|93.11%|94.22%|93.05%|93.54||
-|% of save failures|16%|9%|15%|22%|9.55%|5.05%|6.89%|5.78%|6.95%|6.46||
+|% of successful saves|84%|91%|85%|78%|90.45%|94.95%|93.11%|94.22%|93.05%|93.54%||
+|% of save failures|16%|9%|15%|22%|9.55%|5.05%|6.89%|5.78%|6.95%|6.46%||
 
 
 ## Key deliverables
