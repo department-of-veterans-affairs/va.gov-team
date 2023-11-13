@@ -9,19 +9,20 @@
 | 9/26/23 | TBD | Inclusion of Proof of Veteran Status in Features, Updated images to be iPhone images and include Proof of Veteran Status | 
 
 ## How to update 
- - Send an email to:
+- Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
+- Content to update App description (see Github)
+- Once Github is update with the changes needed then send an email to to:
     - Donna Rodriguez treva.lutes@va.gov
     - Treva Lutes donna.rodriguez@va.gov
     - Gwendolyn McMillian gwendolyn.mcmillian@va.gov
     - Jackson Keener jkeener@reingold.com
     - CC Mobile PO 
  - Example email:
-    - <img width="485" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/5ae70d4f-4b27-4245-b033-5c36d306c6b1">
-
+    - Attach text file for app description
+    - Send Github link for them to get the new images 
 
 ## Things to Note
  - Zip file of images will not work when sending an email to the group above
  - Update Github page with the latest and greatest description (content) and (images)
  - Update change management section above
- - Relates to [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
  - VA team will implement the photos and text file - they can download the photos from this Github - so send them the link
