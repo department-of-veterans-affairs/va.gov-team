@@ -1,7 +1,7 @@
-# Conversation Guide
+# Conversation Guide - MHV on VA.gov UAT
 
 
-## **Moderator logistics**
+## Moderator logistics
 
 
 ### 2-3 days before the session:
@@ -16,7 +16,6 @@
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
-
 ### Starting the session:
 
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -24,12 +23,10 @@
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro:
 
+## Introduction (5 minutes)
 
-### When the participant joins:
+- Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______. Today we're going to ask for your feedback on the appointments section of VA.gov. Our discussion will help the team understand how to improve the site for Veterans in the future.
 
-Validate the participant uses the VA Health and Benefits website and get permission for observers to join.
-
-- Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______. Today we're going to ask for your feedback on the appointments section of VA.gov. Our discussion will help the team understand how to improve the site for Veterans in the future. 
 - Before we begin: Today we're going to ask you to login to VA.gov and test some features using your own account. We'll be asking you to share your screen, which means we'll be seeing your appointments, and potentially other data. We won't be using your personal health information for the study, and will redact it from any recordings or transcripts. Given that, do you feel comfortable proceeding?
    - If Yes, continue to next question
    - If No: I completely understand. We hope you'll join us for future studies. Do you have any questions or concerns for me before we end the session?
@@ -37,9 +34,6 @@ Validate the participant uses the VA Health and Benefits website and get permiss
 - Thank you, I appreciate that. Next, I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. Do you feel comfortable with having observers listen in on the session?
 
 _(If the participant agrees, let observers join. Each observer should come off mute and introduce themselves, and then go back on mute with video off.)_
-
-
-## **Introduction (5 minutes)**
 
 - There are a few things I'd like to mention:
     - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the mobile website and make it work better for everyone.
@@ -54,8 +48,6 @@ _(If the participant agrees, let observers join. Each observer should come off m
 
 _Start recording._
 
-
-
 - Is it ok if we record this session?
 
 
@@ -63,60 +55,43 @@ _Start recording._
 
 Before we look at the site, I have a few questions first, as it would be great to learn more about you and how you use the VA for health and benefits.
 
-
-
 - What type of device are you joining us on today? 
-- What VA services do you currently use?
-    - How do you typically access those services? Website, phone call, something else?
-- Are there any interactions with the VA that stand out to you (either positive or negative) that they could share?
 - How do you usually schedule and manage your VA appointments?
+   - Do you ever use MyHealtheVet, VA.gov, (_if Cerner_) or My VA Health?
 
 
-## **Section 2: Login and Screen share (5 minutes)**
+## **Section 2: Screen share (5 minutes)**
 
+- During our session today, I am going to ask you to login to VA.gov so we can see how the appointments tool works for you. To do this I will neeed you to share your screen. I can walk you through how to start the screen share. 
 
-
-- During our session today, I am going to have you imagine a series of Appointment related scenarios using VA.gov. To do this I will neeed you to share your screen. I can walk you through how to start the screen share. \
-_[Help participant share screen] \
+_Help participant share screen_
 _[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) \
 [Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
-- Great, I’m seeing your screen. 
-- Now, imagine you want to review your appointments on va.gov, show me where you go to login and go ahead and do it. (you can turn recording off if it shows the PW)
 
 
-### Section 3: Usability tasks (45 min)
+- Great, I’m seeing your screen.
+
+## Section 3: UAT Tasks (45 min)
+
+### Task 1: Log in (5-20 minutes)
+
+- Now, I'd like you to navigate to VA.gov.
+
+- From here, could you find your upcoming appointments?
+
+**Notes:**
+- What path did they take to upcoming appointments?
 
 
-#### Task 0: First impressions (5 minutes)
-
-
+### Task 2: Appointments Tool First impressions (5 minutes)
 
 - I want to direct your attention to the website now. What are your first impressions when you first click on the appointments tool and are directed to the appointment page.
     - Please describe this first screen. 
     - What stands out to you <span style="text-decoration:underline;">first</span> when you opened this website?
-- Now, I am going to give you a series of tasks for you to do on the website. Please talk aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+- Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 
-
-#### Task 1: Facility/clinic selection for direct scheduling(10 minutes)
-
-
-
-- PROMPT: You would like to schedule an appointment at a VA facility near you. Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
-- Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-    - _If not successful: Help them navigate to where they need to go. Note where they have trouble._
-
-
-#### Task 2: Provider selection for CC (10 minutes)
-
-
-
-- PROMPT: You need to make a community care appointment. How do you go about making a community care appointment with your provider? Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
-- Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-    - _If not successful: Help them navigate to where they need to go. Note where they have trouble._
-
-
-#### Task 3: Breadcrumb and URL updates/ Descriptive back (10 minutes)
+#### Task : Breadcrumb and URL updates/ Descriptive back (10 minutes)
 
 
 - PROMPT: You are curious the last time you visited your provider, where would you go to find out the date of your last appointment?  Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
@@ -127,54 +102,44 @@ Observe as they navigate. Are the breadcrumbs accurate? Are they using the descr
 #### Task 4: Print appointment details (10 minutes)
 
 
-
-- PROMPT: Imagine you want to print the details for an upcming appointment. Without activating anything, where do you think you’d find that?
+- PROMPT: Imagine you want to print the details for an upcoming appointment. Without activating anything, where do you think you’d find that?
 - TASK 1: Go ahead and use the website to complete the task but don't actually print it. 
      *_If not successful: Help them navigate to where they need to go. Note where they have trouble._
 - TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
 - TASK 2: If you have a pending appointment, go ahead and do the same thing. 
 
-#### Task 5: After visit summary (10 minutes)
-
-- PROMPT: Can you show me how you would get to an after-visit summary of a VA appointment you had with your provider?
-- TASK 1: Go ahead and use the website to navigate to view an appointment’s after-visit summary.
-   - _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
-
-- TASK 2: Can you please scroll down and open the first accordion ”Your appointment on X”. Scroll through the information and please click on any links.
-   - _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
-
-- TASK 3: Open the second accordion ”Your treatment plan from this appointment”. Scan the information and please click on any links.
-   - _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
-
-- TASK 4: Open the third accordion ”Your health information as of this appointment”. Scroll through that information and please click on any links.
-   - _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
-  
-- TASK 5: Open the Fourth accordion ”More information”. Scroll through the information and please click on any links.
-    - _If not successful: help them navigate. Note if the information is displayed as intended and whether user comments on anything that is confusing without prompting. Also, ask them to click on links.
-
-- TASK 6: Can you please show me how you would get to another After-visit summary from here?
-   - _If not successful: help them navigate. Note if the “Back to” link on top is functioning as expected.
+## Section 4: Mental Model Tasks (45 min)
 
 
-## *- Thank-You and Closing (5 minutes)**
+### Task : Facility/clinic selection for direct scheduling(10 minutes)
+
+- PROMPT: Say you wanted to schedule an appointment at your VA facility. Without activating anything, how do you think you would do that from here? You can look/swipe around the screen, just don’t activate anything.
+- I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
 
 
-#### website exit
+### Task : Provider selection for CC (10 minutes)
+
+- PROMPT: Say you wanted to make a community care appointment. 
+- Without activating anything, how do you think you would do that from here?
+- I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
+
+## Section 5: Thank-You and Closing (5 minutes)
 
 
+### Task: Website Exit
 
-- Ok, we are finished with the website today. You can stop sharing your screen. 
-
-
-#### Final thoughts
+- Ok, we are finished with the website today. You can stop sharing your screen, and feel free to close any windows you opened in the process. 
 
 
+### Wrap up questions
 
-- What do you like or dislike about the session today?
+- What did you like or dislike about the session today?
+
 - If you wanted to share your thoughts or feedback with the VA, how would you do it?
     - Have you ever done this before?
     - If so, how and when?
     - Where would you share feedback on issues with online tools like the website or the mobile website?
+ 
 - Anything else you wanted to share?
 
 Well we really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the website and improve it for Veterans.
@@ -182,10 +147,8 @@ Well we really appreciate you taking the time to share your thoughts with us. Yo
 Thank you so much again, and enjoy the rest of your day!
 
 
-## **Emergency Exit Strategy**
+## Emergency Exit Strategy
 
-We will be using the out of question exit strategy if an emergency arises:
+If we need to exit the session for any reason, use the following:
 
-
-
-- Exit strategy: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+- We have covered all the questions I have for you today. Thank you so much for your time and feedback.
