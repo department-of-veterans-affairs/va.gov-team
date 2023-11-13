@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: October 10, 2023 -- moved direct deposit lighthouse migration to completed projects**
+**Last Updated: October 10, 2023 -- updated completed projects**
 
 ## Table of Contents
 
