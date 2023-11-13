@@ -43,8 +43,8 @@ Research Questions
   - LIKELY TRUE - Veterans will easily understand the travel reimburesment claims.
 5. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the confirmation pages?
   - LIKELY TRUE - Veterans will understand that they have either successfully submitted their claim, or that their claim has failed to submit.
-6. Do Veterans understand the dot indicator on the appointment list indicates tasks to complete on the details page?
-  - LIKELY FALST
+6. Do Veterans understand the dot indicator status on the appointment list indicates tasks to complete on the details page?
+  - LIKELY TRUE - Veterans will understand they have a task to complete due to the content accompanying the dot indicator.
 7. Do Veterans understand that only one travel claim can be filed at a time for multiple appointments in one day at the same facility, but that multiple statuses could update simultaneously? 
   - LIKELY FALSE - Veterans will not realize that they can only file one claim at a time due to multiple CTAs being present.
 8. What would Veterans change or add, if anything, to improve filing a travel reimbursement claim for a past appointment? E.g., edit the address, upload receipts, etc.
@@ -94,7 +94,7 @@ Availability for a kick-off call:
 - Date and time of pilot session: TBD
 
 ### Research sessions
-- Planned dates of research: TBD
+- Planned dates of research: (Approximately) December 4-6, 2023
 
 ### Length of sessions
 TBD
