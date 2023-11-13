@@ -11,7 +11,7 @@ When we estimate with story points, we assign a point value to each item. The ra
 
 ### UX
 
-- Includes updating prototype interactions, if applicable. (E.g., on our Sketch production file Pages.)
+- Includes updating prototype interactions, if applicable. (E.g., on Sketch production file Pages.)
 - Includes time to update documentation or links in Git, Sketch, etc., if applicable. 
 - Includes time to update Annotations page, if applicable. (Could include inline annotations on the artboards/pages.)
 - Includes time to Create any needed markup into Sketch Page(s) for heading annotations, aria label values or link paths, if applicable. 
