@@ -1,5 +1,5 @@
 
-# DBEX Claims Service Endpoint Migration Release Plan
+# DBEX PPIU/Direct Deposit Service Endpoint Migration Release Plan
 
 ### NOTE:
 The Lighthouse team has communicated the following:
