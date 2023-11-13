@@ -11,14 +11,24 @@ assignees: ''
 As a [role], I want to [what] so that I can [do something].
 
 ## Tasks
-- [ ] Create the content 
+- [ ] Create the content
 
+### Who has validated or provided feedback?  
+- [ ] CAIA (or content and a11y SME)
+- [ ] Shared support, e.g., Angela Fowler (a11y) and Sara Sterkenburg (IA)
+- [ ] Platform design (e.g., office hours or post in #platform-design-system)
+- [ ] Other health app teams for cross-platform consistencies. E.g., Appointments, Mobile App, Kristen McConnell, etc. 
+- [ ] UX team
+- [ ] Check in team (e.g., PO, DM, engineers)  
+- [ ] VA OCTO PO's
+
+### Does Check-in PO need links or content for f/u tickets? 
+- [ ] Yes
+- [ ] No
+      
 ## Acceptance Criteria
-- [ ] Does CAIA (or content and a11y SME) need to review?
-- [ ] Do our shared support need to review? Angela Fowler (a11y) and Sara Sterkenburg (IA)
-- [ ] Does platform design need to review?
-- [ ] Do any other health app teams need to review for cross-platform consistencies? 
-- [ ] Does UX team review? 
-- [ ] Does check in team need to review via Slack?  
-- [ ] Do VA OCTO PO's need to approve? 
-- [ ] Does check in PO need links or content for f/u tickets?  
+- [ ] All tasks are complete
+- [ ] Have designated with checkmarks (above) who has validated or provided feedback
+- [ ] Have designated with checkmarks (above) if Check-in PO needs links or content for f/u tickets
+- [ ] If Check-in PO needs links or content for f/u tickets, have provided that information
+
