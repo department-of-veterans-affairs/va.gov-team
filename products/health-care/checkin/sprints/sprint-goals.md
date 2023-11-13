@@ -23,8 +23,8 @@ ________________________________________________________________________________
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
-- ❗ 🟦🟩 Production release 11/28 - 45-minute
-- ❗ 🟦🟩 Production release 11/28 - Travel pay
+- ❗ 🟦🟩 TBD: Roll out 45-minute & Travel to All of VISN 15
+- ❗ 🟦🟩 11/28: Roll out 45-minute & Travel to 6 additional VISNs TBD
 
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**     
