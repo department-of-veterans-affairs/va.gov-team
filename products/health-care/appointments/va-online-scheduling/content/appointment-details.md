@@ -1102,6 +1102,10 @@ You can join VA Video Connect up to 30 minutes prior to the start time.
 
 {Button with label: Join appointment}
 
+Provider
+{Provider name}
+
+
 ```
 
 ```Add to calendar```
@@ -1151,7 +1155,7 @@ This appointment occurred in the past.
 Type of care: {Type of Care}
 
 
-VA Video Connect using a VA device
+VA Video Connect using VA device
 
 Provider
 {Provider name}
@@ -1194,7 +1198,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 ```
 Type of care: {Type of Care}
 
-VA Video Connect using a VA device
+VA Video Connect using VA device
 
 Provider
 {Provider name}
