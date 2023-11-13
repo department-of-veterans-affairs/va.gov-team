@@ -69,8 +69,8 @@ Participants will try out a prototype presenting the “Email user flow (success
 Remote with Zoom
 
 ### Research Materials
-- Conversation guide
-- Prototype
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/conversation-guide.md)
+- [CodePen Prototype](https://codepen.io/team/va-cie/live/bGOmjGe)
 - Recruitment intake ticket
 
 ## Recruitment
