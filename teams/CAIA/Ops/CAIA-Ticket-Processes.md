@@ -93,29 +93,30 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 
 ## Tickets, Assignees, Labels and Fields
 **Ticket Types:**
-- Regular Ticket
-- Research Ticket
-- EPIC
-- Super Epic
-- Labels
-- Assignees
-- Fields
+- [Regular Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#1-regular-ticket-type)
+- [Research Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#2-caia-research-intake-ticket)
+- [EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#3-epic-ticket-type)
+- [Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#4-super-epic-ticket-type)
+- [Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#labels)
+- [Assignees](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#assignees)
+- [Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ghp-fields)
 
 <details><summary>Learn more about CAIA tickets, assignees, labels and fields</summary>
 
 ### Ticket Types
-There are four distinct ticket “types” that are relevant to CAIA:
+- There are four distinct ticket “types” that are relevant to CAIA. 
+- There are additional tickets within each discipline that are spun off of the intake tickets, based on the work being requested. 
 
 #### 1. Regular Ticket Type
 Generally, a ticket that has a specific task or tasks associated with it and is associated with a single CAIA discipline. For example the ticket may require content work. In some cases a single regular ticket may contain more than 1 CAIA discipline - for example a ticket requiring a content update and some IA work. 
 Whether to make that ticket into an EPIC is discretionary and gauged by the work estimate/complexity of the request. If it makes sense to make it an EPIC, do so. If not, and the multidisciplinary involvement is minor,  it can stay a regular ticket. Whatever is easiest for CAIA to track and complete the work.
 
 #### 2. CAIA Research Intake Ticket
-Resources for assistive technology research sessions [veiew this on the website]
+Resources for assistive technology research sessions [view this on the website]
 - Research with assistive technology users
 - Screen reader checklist
 - Disability etiquette
-- Testing your prototype wiht assistve technology users.
+- Testing your prototype with assistve technology users.
 
 #### 3. Epic Ticket Type
 A container for other tickets. EPICS are used as a vessel for attaching other tickets to, especially in cases where multiple work streams are involved with the work. For example, a collaboration cycle ticket might contain work from IA, a11y, and content, and so the EPIC is used as an anchor for all the tickets associated with the individual work tickets that are created to actually do the work.
