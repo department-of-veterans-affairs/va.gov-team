@@ -52,6 +52,7 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+            - 🟦 [[BE] Discovery Work for MAP API and Appointments Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68980)
             - 🟦 [[BE] Implement ClaimsToken class #68824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68824)
             - 🟦 [[BE] Create Client Class, Configuration methods #68684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68684)
             - 🟦 [[BE] Add token method to client class #68685](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68685)
@@ -65,10 +66,9 @@ ________________________________________________________________________________
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - 🟥 Let VeText know that they have some work to do (also call out Kay & Stephen) (need to complete this [ticket](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699) first)
     - **Sub Goal: Handle Missing Appointment Information**
-         - ⛔ BLOCKED (waiting for Appointments and Mobile App to make decisions) 
-              - 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
+         - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
     - **Sub Goal: Analyze current metrics to see what they tell us**       
-       - 🟩🟥 [[Analytics] Identify where largest drop off is within the 45MR flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699)
+       - 🟥 [[Analytics] Identify where largest drop off is within the 45MR flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699)
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**
