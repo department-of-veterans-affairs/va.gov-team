@@ -87,7 +87,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
         - [Grouped by Lane](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46)
 
 ## Tickets, Assignees and Labels
-- Ticket Types
+**Ticket Types:**
 - Regular Ticket
 - EPIC
 - Super Epic
@@ -123,6 +123,14 @@ Labels and assignees are tied to tickets.
 By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
 During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
 During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
+
+## Assignees
+
+By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
+During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
+
+During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
+
 
 
 </details>
