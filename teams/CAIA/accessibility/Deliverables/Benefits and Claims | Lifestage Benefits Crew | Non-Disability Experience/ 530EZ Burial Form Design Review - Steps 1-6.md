@@ -30,8 +30,8 @@
 ## Findings
 
 - [x] Findings Identified: `Completed`
-    - [ ] Major (defects 0-2): `The review has not been completed. `
-    - [x] Minor (defect 4): `The review has not been completed. `
+    - [x] Major (defects 0-2) `Review completed. No major findings`
+    - [x] Minor (defect 4): `Review completed. Findings below`
 - [ ] No Findings Identified
 
 ### Detailed Findings (with images)
