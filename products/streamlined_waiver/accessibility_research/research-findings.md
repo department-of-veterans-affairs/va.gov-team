@@ -5,7 +5,14 @@
 
 Date: 10/24/23 - 11/3/23
 
-[Charlotte Cesana - UX Researcher & Moderator] [charlotte.cesana@va.gov], [Megan Gayle - UX Researcher/Designer] [megan.gayle@govcio.com], [Joseph Lee - UX Designer] [joseph@cityfriends.tech]
+UX Team: 
+
+[Charlotte Cesana - UX Researcher & Moderator] [charlotte@cityfriends.tech], [Megan Gayle - UX Researcher/Designer] [megan.gayle@govcio.com], [Joseph Lee - UX Designer] [joseph@cityfriends.tech]
+
+Accessibility/CAIA Team:  
+
+[Angela Fowler - Accessibility Specialist] [angela.fowler@adhocteam.us], [Sarah Koomson - Accessibility Engineer] [Sarah.Koomson@oddball.io], [Sara Smith - Sitewide CAIA, 508 Accessibility Specialist] [Sara.Smith@oddball.io]
+
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -19,7 +26,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new).
+_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
 
 _The Veteran Journey_
 
