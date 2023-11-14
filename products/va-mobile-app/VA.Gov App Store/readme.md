@@ -11,6 +11,7 @@
 ## How to update 
 - Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
 - Content to update App description (see Github)
+   - Pull from existing Features section and replace; Help section is separate and maitained by this site 
 - Once Github is update with the changes needed then send an email to to:
     - Donna Rodriguez treva.lutes@va.gov
     - Treva Lutes donna.rodriguez@va.gov
@@ -27,3 +28,7 @@
  - Update Github page with the latest and greatest description (content) and (images)
  - Update change management section above
  - VA team will implement the photos and text file - they can download the photos from this Github - so send them the link
+ - VA Communication team may have update or tweaked the content shared a
+    - Example in the Feature section the content isn't what Mobile requested, instead was updated with VA Communications Team recommendation
+    - VA Communications also responsible for adding videos, downloadable training materials,
+ - Mobile should only modify   
