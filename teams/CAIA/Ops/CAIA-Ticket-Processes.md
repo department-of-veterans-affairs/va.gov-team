@@ -30,10 +30,11 @@ The purpose of this documentation is to establish a clear way of work for the CA
 1. [Global Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#global-definitions)
 2. [Ticket Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ticket-creation)
 3. Processes
-4. Ticket Closeout
-5. Meetings
-6. [Tickets, assignees, labels and fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-labels-and-fields)
-7. [Sample Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#sample-journey)
+4. Tasks `Needs Added`
+5. [Ticket Closeout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#closing-tickets)
+6. Meetings
+7. [Tickets, assignees, labels and fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-labels-and-fields)
+8. [Sample Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#sample-journey)
 
 <hr>
 
@@ -198,6 +199,10 @@ This field should be updated when the ticket is reviewed.
 
 </details>
 
+## Tasks
+`Needs Added`
+
+
 ## Sample Journey
 
 _This is a sample scenario for a high priority ticket created by a VFS team using the standard CAIA intake request form._ 
@@ -227,3 +232,49 @@ If  CAIA work on a ticket has been completed, the person working on that ticket 
 - Tickets that are closed should be reported by the CAIA team member on the capacity tracker, for the assignees involved. 
 </details>
 
+## Refinement Meetings
+- CAIA Ops Refinement
+- CAIA OCTO Refinement
+- Terry & Lily refinement
+
+<details><summary></summary>
+  
+### CAIA Ops Refinement
+- **When**: Monday each week
+- **Who**: 
+    - Delivery Lead - Terry
+    - Scrum Master - Lily
+    - Managing Editor - Laura
+    - Accessibility Lead - Sara
+    - IA Lead - Kristin
+- **Focus**:
+    - Review new intakes
+    - Review Blocked lane
+    - Review Backlog lane
+- **Owner**: Delivery Lead
+- **Objective**:
+    - Review new tickets in the `new stuff` column to determine priority, work required, and disciplines required to complete work. Get tickets into `ready`.
+    - All 3 disciplines will go through the `new stuff` column in GHProjects and assess tickets for readiness to work.
+    - Field data updated.
+    - If there is no involvement in the work by a specific CAIA discipline, assignees and labels associated with that discipline can be removed. 
+
+### CAIA OCTO Refinement:
+- **When**: Wednesdays
+- **Who**: 
+    - **OCTO** (Danielle, Randi, Martha, Beth)
+    - **CAIA Ops** (Terry, Lily, Eli)
+- **Lane Focus**: `new stuff` / `blocked` / `backlog`
+- **Owner**: OCTO
+- **Objective**: Review new tickets in the `blocked` and `backlog` columns and get input from OCTO leadership on work priority and scheduling, as well as potential timelines and assignments.
+
+### Terry & Lily refinement:
+- **When**: TBD
+- **Who**: All leads
+- **Lane Focus**: `ready`
+- **Owner**: Delivery Lead
+- **Objective**:
+    - Review tickets in `ready` column.
+    - Assign work to individual contributors.
+    - Add target dates and all relevant labels to ticket.
+
+</details>
