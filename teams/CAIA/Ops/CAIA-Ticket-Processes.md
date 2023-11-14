@@ -30,9 +30,9 @@ The purpose of this documentation is to establish a clear way of work for the CA
 1. [Global Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#global-definitions)
 2. [Ticket Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ticket-creation)
 3. Processes
-4. Tasks `Needs Added`
+4. [Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tasks) `Needs Added`
 5. [Ticket Closeout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#closing-tickets)
-6. Meetings
+6. [Meetings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#refinement-meetings)
 7. [Tickets, assignees, labels and fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-labels-and-fields)
 8. [Sample Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#sample-journey)
 
@@ -76,7 +76,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 </details>
 
 ## Ticket Creation
-[CAIA Intake Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) is filled out by VFS team. 
+**The [CAIA Intake Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) is filled out by VFS teams.** 
 ### Intake Process
 <details><summary>Toggle to view what takes place during ticket creation</summary>
   
@@ -107,7 +107,7 @@ Expand this section first, in order to use the anchor links below.
 <details><summary>Learn more about CAIA tickets, assignees, labels and fields</summary>
 
 ### Ticket Types
-- There are four distinct ticket ‘types’ that are relevant to CAIA. 
+- There are four distinct ticket `types` that are relevant to CAIA. 
 - There are additional tickets within each discipline that are spun off of the intake tickets, based on the work being requested. This is done via ‘tasks’.
 
 #### 1. Regular Ticket Type
@@ -226,7 +226,7 @@ If  CAIA work on a ticket has been completed, the person working on that ticket 
 ### Who can close out tickets? 
 <details><summary>Toggle to learn how to close a CAIA ticket</summary>
 
-  **Simple answer - YOU CAN!** 
+**Simple answer - YOU CAN!** 
 - If you believe the work you have done on a ticket has been satisfactorily concluded, you can move the ticket to `validate` or `closed`.
 - Tickets that are closed should have all of their fields completed, prior to closing out the ticket.
 - Tickets that are closed should be reported by the CAIA team member on the capacity tracker, for the assignees involved. 
@@ -237,7 +237,7 @@ If  CAIA work on a ticket has been completed, the person working on that ticket 
 - CAIA OCTO Refinement
 - Terry & Lily refinement
 
-<details><summary></summary>
+<details><summary>Toggle to view refinement meeting details</summary>
   
 ### CAIA Ops Refinement
 - **When**: Monday each week
