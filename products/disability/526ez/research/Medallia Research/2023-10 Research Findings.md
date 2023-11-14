@@ -41,6 +41,7 @@ The purpose of this research is to understand user pain points and areas of impr
    - Document management = 13
 6. Looked further into these categories to identify patterns and findings
 
+See the research deck for more details on our methodology, including templates other team members are welcome to adapt for their own use.
 
 ## Research Findings
 1. Veterans face blockers that require external support—but sometimes find that help difficult to get. 
