@@ -19,3 +19,12 @@ That team will designate a number of folks to attend, and CAIA will bring one ac
 - Set some high-level goals for deliverables that the CAIA accessibility specialist is expected to produce, if any
 
 Immediately following the meeting, the CAIA accessibility specialist will work with the CAIA team lead and/or CAIA project manager to identify their second, and to create a pinned thread within the `#caia-team-internal` channel on the DSVA Slack. This pinned thread will be where the supporting CAIA accessibility specialists will provide updates to the wider CAIA group, including CAIA's VA POs. 
+
+## Embedded
+
+`what to do while embedded`
+
+## Winding down and delivery
+
+`how to disengage, and prep delivery, transitioning away from embed`
+
