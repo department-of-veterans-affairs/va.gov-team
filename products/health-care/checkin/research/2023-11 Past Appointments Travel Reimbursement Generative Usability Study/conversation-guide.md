@@ -93,12 +93,7 @@ _**Note:** Use inclusive language as much as possible. If the participant is bli
   
 - Ok, so if you’re ready (I’ll share my screen to help our observers follow along) and we’ll start with the first term. And remember, there are no right or wrong answers.
 
-_Share screen with [slide deck of terms]([https://docs.google.com/presentation/d/1iIrZYINUNU-MzirNz54y_xH9VNyg4PeRXGbNe1dLn2I/edit?usp=sharing](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf
-
-
-
-
-))_
+_Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
 
 _Complete the following with all 11 statuses:_
 
