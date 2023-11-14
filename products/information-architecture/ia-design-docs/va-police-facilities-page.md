@@ -4,7 +4,7 @@
 **Team:** Sitewide Facilities
 Slack channel: #sitewide-facilities
 
-**IA Request:** **[67055](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=40842137)**
+**IA Request:** [67055](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=40842137)
 
 **On this page:**
 - [User/page flows](#flows)
