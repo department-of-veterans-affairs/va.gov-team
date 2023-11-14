@@ -119,3 +119,86 @@ _When complete_
 - Thank you! That concludes that activity. Now we’ll have you try out a prototype.
 
 
+## Task #2 - Usability Testing - 20 minutes
+
+- Ok, now I’m going to have you try out a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. I’ll send you a link.
+
+- In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
+
+- Do you have any questions about that before we get started?
+
+- Ok, I’m sending you the prototype in the chat/email. You can go ahead and select that link and share your screen.
+
+_Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
+
+----
+
+   [_**If needed: Instructions for opening chat**_]
+   - Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap (or select) the screen a menu will appear at the bottom of your screen.
+   - In that menu, tap (or select) “Chat."
+
+----
+
+- Now, I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today?
+
+- Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
+
+----
+
+  [ _**If needed: Screen Sharing Instructions - 2 Minutes**_]
+   - So, now I’ll talk you through how to share your screen.
+   - Tap (or select) the screen anywhere.
+   - And, as you tap the screen a menu will open at the bottom of your screen.
+   - In that menu, tap (or select) "Share." If you can’t find “Share” in that menu, you may need to tap the menu and drag it to the left to uncover more options.
+   - And, when you find the “Share” option, go ahead and select it.
+   - Then, tap (or select) "Screen."
+   - Then, tap the words, “Start Broadcast.”
+   - Now, tap (or select) anywhere on the paragraph at the top of the screen that starts with "Everything on your screen."
+
+----
+
+_**Participant starts at Email:**_
+
+- Now, imagine you just received this email from VA about filing for travel reimbursement after a visit to your VA Medical Center on November 13, 2023 at 8:00 a.m. 
+
+- Go ahead and review it.
+
+- Is there anything confusing about this information?
+
+- How does this compare to what you’d expect to be in an email like this?
+
+- Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here. 
+- _If needed:_
+  - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
+  - Is there anything confusing about this?
+  - Where did you expect this link to lead you?
+
+_**Participant is at Appointment list:**_
+
+- Ok, I’ll have you stop here. Was there anything confusing about that process? 
+
+- Where were you expecting to end up?
+
+- Now let’s take a look at what’s on this page. Can you briefly walk me through it?
+  - Things to watch for: Task cards, are they helpful? Do they mention them? 
+- _If needed:_
+  - What did you expect to be on this page?
+  - Is anything here confusing?
+
+- Without doing anything yet, tell me a little about what you’d do next.
+- _If needed:_ 
+  - Did you notice anything about filing for travel reimbursement on this page? 
+  - Did you notice the box at the top of the page? What does that mean to you?
+  - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
+
+- Ok, go ahead and go through the process of filing that claim - and talk me through what you’re doing.
+
+_**Participant navigates to past appointments > detail page > intro page > travel flow OR directly to travel flow from task card**_
+
+_**If on detail page:**_
+
+- Is there anything confusing about this page and the information included here?
+- _(Non-screen reader users)_ Did you notice the dot with a message? What does it seem like that was referring to?
+- _(Screen reader users)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
+  - Things to watch for: Is there confusion around the detail page H1 / aria label?
+
