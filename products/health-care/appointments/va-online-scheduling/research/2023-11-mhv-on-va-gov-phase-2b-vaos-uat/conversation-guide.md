@@ -85,13 +85,13 @@ PROMPT: First, I'd like you to navigate to VA.gov.
 
 PROMPT: From here, can you find your appointments?
 
-NOTE: Take note of the path they took to the appointments tool. In the last task, you'll ask them to return to any others they missed.
+_NOTE: Take note of the path they took to the appointments tool. In the last task, you'll ask them to return to any others they missed._
 
-_PAUSE When they have arrived on the appointments screen_
+_PAUSE When they have arrived on the appointments screen._
 
 PROMPT: Let's pause here for a moment. How was the process of logging in?
 
-PROMPT: It's at this point that we'll be able to see your appointments. If at any point you want to stop the session, you're free to do so.
+PROMPT: It's at this point that we'll be able to see your appointments. If, as we're looking at this, there's anything you don't want to share with us, let me know.
 
 ### Task : Appointments Tool First Impressions (5 minutes)
 
@@ -109,9 +109,9 @@ Tasks to test:
 
 PROMPT: Explore this tool. While you do, tell me about the information it provides.
 
-Once all tasks are complete,
+_Once all tasks are complete, ask the following._
 
-QUESTION: How is the appointments page is working for you? Were there any challenges? Is anything working well?
+QUESTION: How is the appointments page working for you? Were there any challenges? Is anything working well?
 
 _Use the following prompts only if they don't discover the features while exploring the pages_
 
@@ -119,48 +119,65 @@ _Use the following prompts only if they don't discover the features while explor
 - How would you review appointments you've requested but that haven't been scheduled yet?
 - How would you go back to your list of [appointments/requests]?
 
-**Things to Note:**
-
-Observe as they navigate. Are the breadcrumbs accurate? Are they using the descriptive back button? Do they mentions using it as they think out loud?"
-
 ### Task : Print appointment list
 
 Tasks to test: print an appointments list
 
 -----
 
-- PROMPT: Imagine you want to print the details for an upcoming appointment. Without activating anything, where do you think you’d find that?
-- TASK 1: Go ahead and use the website to complete the task but don't actually print it. 
-     *_If not successful: Help them navigate to where they need to go. Note where they have trouble._
-- TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
-- TASK 2: If you have a pending appointment, go ahead and do the same thing.
+PROMPT: How would you print your list of upcoming appointments? 
 
-### Task : (Non-Cerner) Navigate to MyHealtheVet using the breadcrumb 
+PROMPT: How would you print your list of past appointments?
+
+QUESTION: How is printing your lists working for you? Were there any challenges? Is anything working well?
+
+
+### Task : (Non-Cerner) Navigate to MyHealtheVet
 Tasks to test:
 - Navigate to the Appointments tool from the MHV on VA.gov home page.
 - Navigate to the MHV on VA.gov home page from the Appointments tool using the breadcrumb.
 
 ---
 
-### Task : (Cerner) Navigate to MyHealtheVet using the breadcrumb 
+PROMPT: How would you navigate to MyHealtheVet from here?
+
+_If they don't choose the breadcrumb_
+
+PROMPT: Are there any other ways on this page?
+
+PROMPT: Tell me about this page. How would you return to the appointments tool from here?
+
+PROMPT: Return to your appointments list.
+
+QUESTION: How is printing your lists working for you? Were there any challenges? Is anything working well?
+
+### Task : (Cerner) Navigate to MyVAHealth
 
 Tasks to test:
 - Navigate to My VA Health from the Appointments list.
-- Navigate to My VA Health from the facility selection page.
 - Navigate to My VA Health from MyVA.
-- Navigate to My VA Health from VA.gov.
 
 ----
+
+PROMPT: Return to the appointments tool.
+
+PROMPT: Tell me about the alert at the top of this page.
+
+PROMPT: Given the information here, what do you think My VA Health is?
+
+PROMPT: Review your appointments in My VA Health.
 
 ## Section 4: Mental Model Tasks (15 min)
 
 ### Task : Facility/Clinic Selection for Direct Scheduling(10 minutes)
 
-PROMPT: Say you wanted to schedule an appointment at your VA facility. Without activating anything, how do you think you would do that from here? You can look/swipe around the screen, just don’t activate anything.
+PROMPT: Return to the appointments list.
 
-I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
+PROMPT: Say you wanted to schedule an appointment at your VA facility. How do you think you would do that from here? 
 
-PAUSE on the facility selection page:
+PROMPT: I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything. Given that, please start the process of scheduling an appointment.
+
+_PAUSE on the facility selection page:_
 - How do you feel about selecting a facility here?
 - If you could have any other information about this facility, what would it be?
 
@@ -169,6 +186,10 @@ If possible, continue to the clinic selection page:
 - If you could have any other information about this clinic, what would it be?
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
+
+### Task : Navigate to my VA Health from Facility Selection
+
+Task to test: Navigate to My VA Health from the facility selection page.
 
 ### Task : Provider selection for community care (10 minutes)
 
