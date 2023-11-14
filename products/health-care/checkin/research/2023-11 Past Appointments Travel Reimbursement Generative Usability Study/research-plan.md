@@ -1,6 +1,5 @@
 # Past appointments travel reimbursement research - card sort and usability testing - October 2023
 
-_[DRAFT]_
 
 ## Background
 In June 2022, a review of the VA general health care travel reimbursement program was conducted – focusing on Beneficiary Travel Self-Service System (BTSSS) – which resulted in recommendations on improvements to the Veteran experience. One of those recommendations, amongst improving existing VA products and considering alternative paths to gathering beneficiary travel (BT) information from Veterans, was to integrate travel reimbursement into the patient check-in (PCI) ecosystem.
