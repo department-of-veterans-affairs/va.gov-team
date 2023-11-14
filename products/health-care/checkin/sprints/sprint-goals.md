@@ -134,7 +134,7 @@ ________________________________________________________________________________
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - ⛔ BLOCKED 🟥Create research review ticket
            - Dependent on CAIA ticket feedback 
-      - 🟥Create a CAIA review ticket
+      - ✔️ 🟥Create a CAIA review ticket
       - ✔️ 🟥[[UX][Design] [Iterate on appt detail pages based on Matt feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69159)
       - ✔️ 🟥[[UX][Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65418) ROLLOVER
       - 🟥[[UX][Design] Complete Prototype to Test with End Users](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67164) ROLLOVER
