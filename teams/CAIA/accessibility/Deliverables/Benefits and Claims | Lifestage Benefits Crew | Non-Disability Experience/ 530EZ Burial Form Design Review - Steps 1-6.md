@@ -14,7 +14,8 @@
 
 ## Testing Coverage: 
  
- Full review of updates for 530EZ Burial Form 
+-  Full review of updates for 530EZ Burial Form 
+-  Ticket Ref.: [[a11y Design Review] Benefits and Claims Non-Disability Experience: Burial Form Updates: Review Sketch Files #69302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69302)
  
 ### Manual
  * [x] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
@@ -32,6 +33,8 @@
     - [ ] Major (defects 0-2): `The review has not been completed. `
     - [x] Minor (defect 4): `The review has not been completed. `
 - [ ] No Findings Identified
+
+### Detailed Findings
 
 <details><summary>Toggle to Reveal Defect Findings from CAIA A11ys</summary>
 
