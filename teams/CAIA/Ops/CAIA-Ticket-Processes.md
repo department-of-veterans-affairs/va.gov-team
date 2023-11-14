@@ -91,7 +91,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 
 </details>
 
-## Tickets, Assignees and Labels
+## Tickets, Assignees, Labels and Fields
 **Ticket Types:**
 - Regular Ticket
 - Research Ticket
@@ -99,31 +99,32 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 - Super Epic
 - Labels
 - Assignees
+- Fields
 
-<details><summary>Learn more about CAIA tickets, assignees and labels</summary>
+<details><summary>Learn more about CAIA tickets, assignees, labels and fields</summary>
 
 ### Ticket Types
 There are four distinct ticket “types” that are relevant to CAIA:
 
-### Regular Ticket Type
+#### 1. Regular Ticket Type
 Generally, a ticket that has a specific task or tasks associated with it and is associated with a single CAIA discipline. For example the ticket may require content work. In some cases a single regular ticket may contain more than 1 CAIA discipline - for example a ticket requiring a content update and some IA work. 
 Whether to make that ticket into an EPIC is discretionary and gauged by the work estimate/complexity of the request. If it makes sense to make it an EPIC, do so. If not, and the multidisciplinary involvement is minor,  it can stay a regular ticket. Whatever is easiest for CAIA to track and complete the work.
 
-### CAIA Research Intake Ticket
+#### 2. CAIA Research Intake Ticket
 Resources for assistive technology research sessions [veiew this on the website]
 - Research with assistive technology users
 - Screen reader checklist
 - Disability etiquette
 - Testing your prototype wiht assistve technology users.
 
-### Epic Ticket Type
+#### 3. Epic Ticket Type
 A container for other tickets. EPICS are used as a vessel for attaching other tickets to, especially in cases where multiple work streams are involved with the work. For example, a collaboration cycle ticket might contain work from IA, a11y, and content, and so the EPIC is used as an anchor for all the tickets associated with the individual work tickets that are created to actually do the work.
 An example of how the individual work tickets are shown in EPIC can be seen below:
 
 An EPIC will usually not have team members assigned to it directly, as the EPIC is normally just used as a vessel, however, assignees may be added to indicate ownership or involvement with some or all of the ticket content of the EPIC. 
 For example, an accessibility audit ticket might contain 4 or 5 individual tickets with work being done by different members of the a11y team in different areas, but the a11y lead may be “assigned” in the EPIC as they have ownership of the collective work of the audit in general.
 
-### Super Epic Ticket Type
+#### 4. Super Epic Ticket Type
 Simply an EPIC used for tying together multiple related EPICS to align to a specific goal, area, or objective. And EPIC that contains other EPICS in a hierarchical system. Similar assigning and labeling rules apply to 
 SUPER EPICS that also apply to EPICS.
 Labels and assignees are tied to tickets.
@@ -133,12 +134,55 @@ Labels and assignees are tied to tickets.
 -  `sitewide CAIA` used to denote CAIA content involvement with the work.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
  - `sitewide IA`- used to denote that the CAIA Information Architecture team has work involvement.
- - `CAIA -a11y-research - used to denote CAIA research involvement for Assistive Technology support.
+ - `CAIA -a11y-research` - used to denote CAIA research involvement for Assistive Technology support.
 ### Assignees
 By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
 During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
 
 During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
+
+### GHP Fields
+The following fields are currently being used in GitHub Projects, and should be completed. 
+#### Assignees
+_Details can be found in the section above._
+#### Labels
+_Details can be found in the section above._ 
+#### Status
+#### Open Date
+The date the ticket was created. Can be pulled from the top of the ticket, where you can hover to view exact date.
+#### Closed Date
+#### Target Date
+If the ticket has a requested deadline or date the CAIA work needs to be completed by, enter that date here.
+#### Start Date
+The date that work on the ticket started, or was moved into `In Progress`
+#### Quick Fix
+#### Estimate
+The estimate of the work to be done, as a whole, by CAIA based on fib.
+#### Actual
+Once the ticket is closed, compare the estimate with the actual amount of work that was done. Add this number here.
+#### Priority
+Choose the drop-down that best applies to the work being requested. This helps to segment and sort CAIA's workload.
+- **High**: Work should be tackled asap
+- **Medium**: Work is standard or regular priority
+- **Normal**: Default label until evaluation has been completed.
+- **Low**: Low priority or non-urgent work
+- **Chipper**: A project available to work on as time allows. 
+#### Sprint
+Add the sprint that the work is done in. If it spans more than one sprint, this will need to be updated. 
+#### Copy Edit Date
+Date copy edit is required by.
+#### Originator
+Select one of the following options: 
+- CAIA Internal
+- Email Request
+- Slack Request
+- OCTO Priority
+- Intake Form
+- PO Ticket
+#### OCTO Priority
+This is a yes/no question, that is used in reporting to identify the percentage of work that is OCTO related.
+#### Last Checked
+This field should be updated when the ticket is reviewed. 
 
 </details>
 
