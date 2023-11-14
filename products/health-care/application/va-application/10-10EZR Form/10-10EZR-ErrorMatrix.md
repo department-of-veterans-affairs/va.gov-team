@@ -35,6 +35,8 @@ You can save your work in process. You’ll have 60 days from when you start or 
 | Introduction page + authenticated + enrolled in VA health care | [[p] Note:  Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out. | Review prefilled information | 
 | Prefilled alert message - Authenticated | [p] [p] We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. |  |
 | Auto Save - AUTHENTICATED | [p] Your application has been saved. It was last saved on [Month Day, Year at Time]. Your application ID number is [number]. |  | 
+| List and Loop - Dependents Section | [p] Be sure to enter all the required information for your dependent. We can only save your progress when you enter the required information. |  | 
+| List and Loop - Dependents Section | [p] Be sure to enter all the required information for your policy. We can only save your progress when you enter the required information. |  | 
 
 
 ### Access Messages
@@ -48,13 +50,17 @@ You can save your work in process. You’ll have 60 days from when you start or 
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
+| Dependents | ---------------- | ---------- |
 | Modal - Delete Confirmation | [h3] Remove this dependent? [p] This will remove [First Name Last Name] and all their information from your list of dependents. | Confirm or cancel |
 | Modal - Cancel Adding | [h3]Cancel adding this dependent? [p] If you cancel adding this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. | Confirm or cancel |
 | Modal - Cancel Editing | [h3] Cancel editing this dependent? [p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. | Confirm or cancel | 
-
+| Insurance | ---------------- | ---------- |
+| Modal - Delete Confirmation | [h3] Remove this insurance policy? [p] This will remove [Insurance Provider Name] and all their information from your list of insurance policies. | Confirm or cancel |
+| Modal - Cancel Adding | [h3]Cancel adding this insurance policy? [p] If you cancel adding this dependent, we won’t save their information. You’ll return to a screen where you can add or remove insurance policies. | Confirm or cancel |
+| Modal - Cancel Editing | [h3] Cancel editing this insurance policy? [p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove insurance policies. | Confirm or cancel | 
 
 ### Feedback Messages - Confirmation Page
 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
-| 
+| Submit successful | [h3] You've submitted your Health Benefits Update Form (VA Form 10-10EZR) [p] Once we’ve reviewed your submission, we'll update your information and contact you if there are any changes to your current health care benefits. |  | 
