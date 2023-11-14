@@ -61,9 +61,9 @@ During our session today, I am going to ask you to give us your feedback on the 
 
 To do this I will neeed you to share your screen. I can walk you through how to start the screen share. 
 
-_Help participant share screen_
-_[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) \
-[Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+_Help participant share screen:_
+- [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+- [Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 
 _If successful_
 - Great, I’m seeing your screen.
@@ -79,13 +79,13 @@ Tasks to test:
 
 ---
 
-Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, to help me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+Next I'm going to ask you to do some task that will help us see how the appointments tool is functioning. Please think out loud as you go, to help me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 PROMPT: First, I'd like you to navigate to VA.gov.
 
 PROMPT: From here, can you find your appointments?
 
-_NOTE: Take note of the path they took to the appointments tool. In the last task, you'll ask them to return to any others they missed._
+_NOTE: Take note of the path they take to the appointments tool. In the last task, you'll ask them to return to any others they missed._
 
 _PAUSE When they have arrived on the appointments screen._
 
@@ -127,10 +127,11 @@ Tasks to test: print an appointments list
 
 PROMPT: How would you print your list of upcoming appointments? 
 
-PROMPT: How would you print your list of past appointments?
+PROMPT: How would you print your list of past appointments? 
+    - Note that you don't need to physically print anything.
 
 QUESTION: How is printing your lists working for you? Were there any challenges? Is anything working well?
-
+    - Note that you don't need to physically print anything.
 
 ### Task : (Non-Cerner) Navigate to MyHealtheVet
 Tasks to test:
@@ -139,7 +140,7 @@ Tasks to test:
 
 ---
 
-PROMPT: How would you navigate to MyHealtheVet from here?
+PROMPT: How would you go to MyHealtheVet from here?
 
 _If they don't choose the breadcrumb_
 
@@ -149,7 +150,7 @@ PROMPT: Tell me about this page. How would you return to the appointments tool f
 
 PROMPT: Return to your appointments list.
 
-QUESTION: How is printing your lists working for you? Were there any challenges? Is anything working well?
+QUESTION: How is navigating to MyHealtheVet working for you? Were there any challenges? Is anything working well?
 
 ### Task : (Cerner) Navigate to MyVAHealth
 
@@ -187,19 +188,26 @@ If possible, continue to the clinic selection page:
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
-### Task : Navigate to my VA Health from Facility Selection
+### Task : (CERNER) Navigate to my VA Health from Facility Selection
 
 Task to test: Navigate to My VA Health from the facility selection page.
 
+----
+
+PROMPT: How would you schedule an appointment at [Cerner facility]?
+
+
 ### Task : Provider selection for community care (10 minutes)
+
+PROMPT: Return to your appointments list.
 
 Are you familiar with community care?
 
 _IF YES:_
-    - Tell me what you know about it. It helps us to hear about things in your own words to make sure we're using plain language when we describe them.
+    - Tell me what you know about it.
     - Have you ever scheduled an appointment through community care?
 
-PROMPT: Say you wanted to make a community care appointment. Without activating anything, how do you think you would do that from here?
+PROMPT: Say you wanted to make a community care appointment. How would you do that from here?
    - I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
 
 _Stop them on the provider list of the provider selection page._
