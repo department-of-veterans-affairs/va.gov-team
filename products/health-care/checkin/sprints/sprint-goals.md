@@ -161,8 +161,8 @@ ________________________________________________________________________________
         - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
              - Started, but is blocked by Appointments, Misty and Kristen to align on empty states. When identified, we will follow their direction and pull into a future sprint. Moved this to backlog. 
     - **Sub Goal: Analyze current metrics to see what they tell us**       
-       - 🟥[Research] Analyze GA Metrics
-       - 🟥[[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
+       - ✔️ 🟥[Research] Analyze GA Metrics
+       - ⛔ BLOCKED 🟥[[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**
     - ✔️ ❗ 🟥[Create a Poster Version that Includes Information about Submitting a Travel Claim During Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68734)
     - ✔️ ❗ 🟥[Update Travel MSA & Veteran FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68701)
