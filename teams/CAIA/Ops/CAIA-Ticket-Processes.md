@@ -145,10 +145,11 @@ VFS teams can request assistive technology research support through CAIA, where 
  - `sitewide IA`- used to denote that the CAIA Information Architecture team has work involvement.
  - `CAIA-a11y-research` - used to denote CAIA research involvement for Assistive Technology support.
 ### Assignees
-By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
-During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
-
-During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
+By default, newly created intake request tickets in Github will automatically assign Terry and Lily. 
+- CAIA Leads then review after Terry and Lily, that is Sara, Kristin, and Laura.
+- During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people.
+- Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
+- During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
 
 ### GHP Fields
 The following fields are currently being used in GitHub Projects, and should be completed. 
@@ -160,11 +161,13 @@ _Details can be found in the section above._
 #### Open Date
 The date the ticket was created. Can be pulled from the top of the ticket, where you can hover to view exact date.
 #### Closed Date
+The date the ticket was closed out by a CAIA team member.
 #### Target Date
 If the ticket has a requested deadline or date the CAIA work needs to be completed by, enter that date here.
 #### Start Date
 The date that work on the ticket started, or was moved into `In Progress`
 #### Quick Fix
+This is a yes/no question, in order to identify if this can be closed quickly or not.
 #### Estimate
 The estimate of the work to be done, as a whole, by CAIA based on fib.
 #### Actual
