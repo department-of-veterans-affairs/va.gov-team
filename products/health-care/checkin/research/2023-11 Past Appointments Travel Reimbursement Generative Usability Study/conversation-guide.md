@@ -243,4 +243,59 @@ _**Participant is on success page:**_
   - _Things to watch for: Does it occur to the participant to go to the appointments list/details page?_
 
 
+_**Participants might go to the details page or to the outside “Review your claim” link. Moderator should be ready for both scenarios.**_
+
+- Ok, thank you. We can move on. Now, if you wanted to check to see if you could file a travel reimbursement claim for your second appointment you had that day (Nov. 13 at 1:00 p.m.), what would you do next? 
+- _Things to watch for:_
+  - _Do they understand how to navigate to the appointment list?_
+  - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
+
+ 
+_**Participant is on details page for second appointment**_
+
+- Tell me about this appointment’s travel reimbursement claim status. What did you expect this status to be?
+- Why do you think this is ____ status? 
+  - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
+
+
+- Thank you. And lastly, if you still had questions about your claim status, how would you find out more info about that status?
+- Where did you expect that link to take you?
+  - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
+
+
+----
+
+_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet - have them navigate to the details page for a third appointment**_
+
+- And for the last task, can you walk me through how you would file for travel reimbursement for another one of your past appointments?
+
+_**On details page:**_
+- Is there anything confusing about this page and the information included here?
+- _(Non-screen reader users)_ Did you notice the dot with the 1 task to complete? What does it seem like that was referring to?
+- _(Screen reader users)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
+  - Things to watch for: Is there confusion around the detail page H1
+
+----
+
+## Post-Task Interview - 1-2 minutes
+- Ok, thank you! That’s everything we need to go through in the prototype.  
+- Do you have any questions for me or anything else you’d like to share?
+
+
+## Consent to use video clips
+- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with some of our VA colleagues?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA colleagues with the purpose of improving VA.gov and other digital experiences for Veterans.
+   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+
+
+## Thank you and Closing - 1 minute
+- Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+- Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+- Thank you so much again, and enjoy the rest of your day!
+
+
+## Emergency Exit
+
+- [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]
 
