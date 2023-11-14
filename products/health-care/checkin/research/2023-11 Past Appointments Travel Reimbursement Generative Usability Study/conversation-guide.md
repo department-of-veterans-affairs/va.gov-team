@@ -201,4 +201,46 @@ _**If on detail page:**_
 - _(Non-screen reader users)_ Did you notice the dot with a message? What does it seem like that was referring to?
 - _(Screen reader users)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - Things to watch for: Is there confusion around the detail page H1 / aria label?
+- Ok, go ahead and continue through the process of filing your claim
+
+**_Participant is on intro page:_**
+- Is there anything confusing about this page and the information included here?
+- Is there anything missing you’d expect to find on this page?
+- How clear are the steps for filing a travel reimbursement claim?
+- How clear are the two options to you for filing a claim?
+
+
+_**Participant is on travel questions:**_
+
+- What would you expect to happen if you selected “no” here?
+
+_**Participant is on contact information question:**_
+
+- I’ll have you pause here for a moment. Let’s pretend you were going through this and your address was wrong. What would you do? 
+- And then what would you expect to happen?
+- Ok, go ahead and continue.
+
+_**Participant is on review page:**_
+
+- I’ll stop you here again for a second. Can you tell me about this page?
+- Ok, go ahead and continue.
+
+_**Participant is on success page:**_
+
+- Talk to me about this page and the information included here. 
+
+- Tell me about your understanding of what’s happened to your claim.
+
+- How is this similar to or different from what you expected?
+  - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
+
+- How is this similar to or different from what you’ve experienced when submitting a travel claim in the past?
+
+- And what would you expect to happen next with your claim?
+  - _Things to watch for: Do they understand what happens now with their claim and how to find out more?_ 
+
+- And if you still had questions, walk me through how you would find out more about your claim?
+  - _Things to watch for: Does it occur to the participant to go to the appointments list/details page?_
+
+
 
