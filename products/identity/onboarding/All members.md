@@ -42,9 +42,10 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 ### UX
 
-- Clayton Zook - UX Designer/Researcher
+- Clayton Zook - UX Lead
 - Charlye Tran - UX Designer/Researcher
 - Josh Mantulonis - UX Researcher
+- Megan Driscoll - UX Content Designer
 
 ### Engineering
 - Joe Niquette - Security Engineer, Lead Engineer
