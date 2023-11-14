@@ -32,7 +32,7 @@ The purpose of this documentation is to establish a clear way of work for the CA
 3. Processes
 4. Ticket Closeout
 5. Meetings
-6. [Tickets, assignees, and labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-and-labels)
+6. [Tickets, assignees, labels and fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-labels-and-fields)
 7. [Sample Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#sample-journey)
 
 <hr>
