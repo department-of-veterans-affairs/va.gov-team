@@ -50,7 +50,7 @@ _*Start recording.*_
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
-## Warm up questions: 3 minutes 
+## Warm up questions - 3 minutes 
 Before we go to the prototype, let’s start with a few warm-up questions.
 - Have you been to a VA health facility for a medical appointment for yourself in the last 6 months?
 - Have you or a caregiver attempted to file for travel reimbursement for a VA or community care medical appointment  in the last 6 months? (Note: Could be either via paper form, BTSSS portal, or online check-in)
@@ -72,7 +72,7 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 
 - Great. Thank you.
 
-## General travel questions: 5-10 minutes
+## General travel questions - 5-10 minutes
 We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
 
 - Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience? 
