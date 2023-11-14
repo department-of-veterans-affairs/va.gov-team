@@ -99,7 +99,8 @@ Let’s start with a few warm-up questions.
 
 ## Third Task: [Intro page] - 5 minutes
 
-- Could you please sign into your VA.gov account the typical way you would do so?
+- You've previously looked at a mockup of the website, now we will look at the actual website.
+- Could you please open a new window and sign into your VA.gov account the typical way you would do so?
 - [Share link to (https://VA.gov/my-health/update-benefits-information-form-10-10ezr) in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
@@ -122,8 +123,11 @@ Let’s start with a few warm-up questions.
 **Participant questions** 
 - What are your expectations regarding the prefilling feature?
 
+**Household Financial Information** 
+- You can use fake information for fields like SSN and I can help prompt you with information if needed.
+
 **Stop the Participant at the REVIEW PAGE** 
-- Since we've reached the end of the form, we can stop the study here. And you close the web pages. 
+- Since we've reached the end of the form, we can stop the study here. And could you please close out of the window? We want to avoid submitting that form.
 - Once the final version is released and you are prompted to update your health care benefits information using this form, it may look a little different.
 - You can also stop screen sharing.
 
