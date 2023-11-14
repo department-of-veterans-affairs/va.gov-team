@@ -51,8 +51,8 @@ Learnings will help refine how we organize and group information within the new 
 
 ### Hypothesis
 
-1. Family members and caregivers will primarily navigate to the family member hub for information on benefits for themselves
-2. Family members and caregivers will primarily navigate to the family member hub to complete tasks related to managing and tracking their own benefits
+1. Family members and caregivers will navigate to the family member hub for information on benefits for themselves
+2. Family members and caregivers will navigate to the family member hub to complete tasks related to managing and tracking their own benefits
 3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits
 4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits
 

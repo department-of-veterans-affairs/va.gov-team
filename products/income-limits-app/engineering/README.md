@@ -27,6 +27,24 @@ Full details regarding Income Limits data / data sources can be found at [/produ
 ### Local Configuration
 - The Income Limits module is configured using the config gem in the `vets-api` repository.
 
+#### Importing Content
+Sidekiq is used to import content into the database. There are five Sidekiq scripts that accomplish this. Steps to run them are:
+
+- Start Sidekiq: `bundle exec sidekiq`
+- Open a rails console: `bin/rails console`
+- Run each script below in any order
+
+StdIncomeThresholdImport.new.perform
+
+GmtThresholdsImport.new.perform
+
+StdCountyImport.new.perform
+
+StdStateImport.new.perform
+
+StdZipcodeImport.new.perform
+
+
 ### The Check-In Module Endpoints
 - /income_limits/v1/limitsByZipCode/
 - /income_limits/v1/validateZipCode/

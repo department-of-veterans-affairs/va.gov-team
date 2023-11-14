@@ -29,12 +29,13 @@ There is not currently an experience on VA.gov for Veterans to find a representa
     1. **Landing page for representatives** 
         1. **Page views**
         2. **Unique page views**
-        3. **% of unique views** 
-        4. **Bounce rate** _What percent of users land on this page and immediately leave VA.gov without any interaction?_
-        5. **Entrance rate** _What percent of users enter the VA.gov site on this page?_
-        6. **Exit rate** _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
-        7. **Top previous pages by %** _What pages are users coming from?_
-        8. **Top next pages by %** _What pages are users visiting next?_
+           1. **% of unique page views from VSO/VA IP addresses** _How often are VSO and VA employees using our tool?_
+        4. **% of unique views** 
+        5. **Bounce rate** _What percent of users land on this page and immediately leave VA.gov without any interaction?_
+        6. **Entrance rate** _What percent of users enter the VA.gov site on this page?_
+        7. **Exit rate** _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
+        8. **Top previous pages by %** _What pages are users coming from?_
+        9. **Top next pages by %** _What pages are users visiting next?_
     2. **Find a Representative tool**
         1. Same data points as 1a above
 2. **Average number of searches per user** _Do users feel the need to search multiple times?_

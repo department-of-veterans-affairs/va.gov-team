@@ -7,10 +7,10 @@
 - VA Police have the authority to enforce Federal laws and partner with local law enforcement on crime response.
 - The partnership between local and VA law enforcement can include joint training, including active threat drills, crisis intervention training, and disaster response.
 - VA Police services include law enforcement, criminal investigations and crime prevention, exterior and interior patrols, physical security and workplace violence prevention.  They may use specialty or service elements, such as K-9, bicycle, and motorcycle patrols.
-- In 2020 there were 5,000 VA police officers and 150 VA police chiefs nationwide. In the Greater Los Angeles VA Police Department alone, here are over 88 appointed law enforcement officers with several enforcement teams such as: Vehicle Patrol, Bicycle Patrol, Traffic Enforcement, Criminal Investigations and Narcotics enforcement, Veterans Mental Evaluation Team (VMET), Training and Support Services. 
+- In 2020 there were 5,000 VA police officers and 150 VA police chiefs nationwide. In the Greater Los Angeles VA Police Department alone, here are over 88 appointed law enforcement officers with several enforcement teams such as: Vehicle Patrol, Bicycle Patrol, Traffic Enforcement, Criminal Investigations and Narcotics enforcement, Veterans Mental Evaluation Team (VMET), Training and Support Services. There are 140 police departments. 
 - By Legislative mandate, all VA police officers will be using body-worn and in-car cameras by the end of 2023. 
 - Partnerships known as the Veteran Mental Health Evaluation Team (VMET) are in use at a few locations around the country. VMET is a vetted approach that couples a licensed clinical social worker with VA police officers when responding to calls for service involving a Veteran who is experiencing a mental health crisis or who are at risk. This partnership is expected to not only reduce use of force incidents and Veterans placed under arrest, but also reduce the number of Veteran suicides by increasing participation in mental health treatment.
-- A similar approach, a Veteran Response Team (VRT), is used at four VA sites in the country. These teams direct Veterans into the clinical setting to address root causes, rather than into the justcie system and have been shown to increase health caare utilization following Veteran-police interactions. Data comparing health care utilization six months before and six months after police involvement showed a greater than 40% increase in outpatient mental health services and a 59% increase in outpatient substance abuse services. [Press release from March 2023](https://www.va.gov/wilmington-health-care/news-releases/va-and-law-enforcement-collaboration-leads-to-increase-in-health-care-utilization-study-finds/)
+- A similar approach, a Veteran Response Team (VRT), is used at four VA sites in the country. These teams direct Veterans into the clinical setting to address root causes, rather than into the justice system and have been shown to increase health caare utilization following Veteran-police interactions. Data comparing health care utilization six months before and six months after police involvement showed a greater than 40% increase in outpatient mental health services and a 59% increase in outpatient substance abuse services. [Press release from March 2023](https://www.va.gov/wilmington-health-care/news-releases/va-and-law-enforcement-collaboration-leads-to-increase-in-health-care-utilization-study-finds/)
 
 ## Problem Statement
 Legislation passed in 2022 requires VAMC websites to include data about VA police activity.
@@ -89,7 +89,7 @@ A few others have added info about the VA Police to the Prepare for your visit s
   - Data migration from legacy system to provide historical data (go live and prior)
   - API to be available
 
-**Data**
+## Data
 - Deidentified data is filtered by facility (identified by VISN and hierarchy, using station # i.e. 523 = Boston)in RMS dashboard
 - there is no public facing dashboard
 - Data is hosted within Azure Government cloud and comes into datastore near real-time
@@ -98,6 +98,40 @@ A few others have added info about the VA Police to the Prepare for your visit s
   - Option 1 - Power BI approach
   - Option 2 - Server connection to datastore on [whatever] frequency
  
+### Data elements
+**Prosecution data**
+- Ticketing
+  - Traffic and parking tickets
+  - Non-traffic (criminal) tickets)
+- Arrests
+
+**Professional Standards data**
+- Complaints and investigations
+- Numbers of sustained allegations
+- Numbers of disciplinary actions
+  - pending possible further cateogization based on HR input
+
+**Use of force**
+- Number of incidents involving the use of force
+- Number of incidents involving weapon discharge
+- This data is available with two different definitions
+  - FBI nationally standardized reporting for all federal agencies
+    - we will use this data, reported at a national level and received from the Office of Police services
+  - VA reporting standard
+ 
+Data for Prosecution, Professional standards, and Use of Force will come from separate databases but can reflect the same time period. 
+
+**Contact information**
+- We expect a POC for each facility
+- We will use "Police Service Administration" as title for contact info, rather than named individuals as these personnel can change
+- Expect non-emergency 24 hour phone number from csv provided by Office of Police Services
+  - can refresh annually
+- POST-MVP: Ability for local editor to add physical address and/or one or more phone number (including emergency number which varies locally)
+
+Other content should leverage what is available on Department.VA page 
+- Should include "How to obtain a Copy of a VA Police Report" with link to form
+- POST-MVP: Ability for local editor to relevant FAQs 
+
 ### Solution considerations
 - Facility level page
 - System level roll-out with facility breakdown
@@ -116,7 +150,6 @@ TBD
 
 ## Solution Narrative
 
-## Key Decisions
 ## Screenshots
 
 ## Stakeholders

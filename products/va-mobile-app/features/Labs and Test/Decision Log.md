@@ -4,5 +4,5 @@ It explains the reasons for each decision, so team members can identify their or
 
 |Date|Inquiry/Question|Decision/Answer|
 |--------|:-----------|:-------------|
-|Sept 2024 | Is this a priority for Mobile in Q4? | Its only a priority for Mobile BE to prefer initial integration given they have extra capacity and can work ahead on this |
+|Sept 2023 | Is this a priority for Mobile in Q4? | Its only a priority for Mobile BE to do initial integration given they have extra capacity and can work ahead on this. All other work no prioritized.  |
 |||

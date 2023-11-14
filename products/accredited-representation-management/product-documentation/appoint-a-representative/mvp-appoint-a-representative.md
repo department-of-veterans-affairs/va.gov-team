@@ -2,7 +2,7 @@
 
 Developed by the Accredited Representation Management team, the Appoint a Representative will support Veterans in a digital form fill of the 21-22/21-22a which is required for appointing a representative.  This will be paired with the [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to provide Veterans with insight into any existing representation, before they apply for new representation.
 
-The MVP will include desktop & mobile experiences
+The MVP will include desktop & mobile experiences and the pathway is `/src/applications/representative-appoint`
 
 1. **Chapter 1**: Veteran Personal Information
    1. Unauth: Enter Veteran Name and Date of Birth
@@ -41,3 +41,4 @@ The MVP will include desktop & mobile experiences
 1. Manage requests (can the vet cancel a request)
 1. Manage rep (can the vet cancel an existing rep)
 2. Satisfaction survey to assess the user perceptions of our product experience
+3. Consider how we might support situations where multiple representatives are assigned (Claim PoA vs. Claimant PoA)

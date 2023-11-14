@@ -55,15 +55,22 @@ How might we provide an online experience where the Veteran can quickly and easi
 |Veteran Validation errors |NEW |TBD | TBD |TBD |
 
 
-#### **Key Result #2:** Increase number of form submissions in a single session
+#### **Key Result #2:** Capture 75% of form submissions in a single session
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard
+     - Google Analytics Dashboard - TBD (NEW)
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
 |Single-session submissions |NEW |75% of submitted forms | TBD |TBD |
+
+
+#### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
+
+| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|EZR PDF Downloads |avg 10,400 monthly |3,000 monthly | TBD |TBD |
 
 
 ---
@@ -82,7 +89,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Build a standalone 10-10EZR form online
 - Provide an authenticated experience only
 - Check for enrolled or registered for VA health care
-- Pre-fill all available fields with data from Enrollment System
+- Pre-fill all available fields with data from Enrollment System - Veteran info and Insurance only
 - Include legal/regulatory verbiage on Review page (similar to 10-10EZ for copays, assignment of benefits, etc)
 - Allow Veterans to print Confirmation page
 - Enrollment system will trigger generic email confirming receipt of the form
@@ -93,6 +100,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Integrating update capabilities with VA.gov Profile Page or MHV on VA.gov 
 - Short Form flow
 - Printing generated PDF of the completed form after submission with all data input
+- Prefill on Dependents and Insurance - due to validation issue found with EZ (solution coming)
 
 ### Initiatives
 - [EZR online epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
@@ -115,19 +123,32 @@ In future iterations, we plan to review for alternative locations and other syst
      - [ ] Research
      - [ ] Contact Center guide
      - [x] Analytics
-     - [ ] Staging
-     - [ ] Privacy & Security
+     - [ ] Staging - Scheduled 11/17/2023
+     - [ ] Infrastructure, Privacy & Security
 
 ### Incident Response info
 - The 1010EZR form is a new form on VA.gov
 - Full form flow
-- Dependent Backend systems - TBD
+- Dependent Backend systems
+     - Enrollment System
 - [1010EZR - Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr)
+- Rollback & Fix plan (1-3 days to triage and implement fix)
+     - In the event of a security vulnerability incident, we will:
+          - Immediately - Turn off feature using feature toggle
+          - Immediately - Triage incident
+          - Day 1 - Assess viable solutions
+          - Day 1-3 - Implement solution
+          - Day 1-3 - Complete solution testing
+          - Day 1 - Implement additional monitoring, if applicable
+          - Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
+          - Day 1-3 - Complete post-mortem document
+          - Day 1-30 - Continue to monitor performance
+          - Day 1-10 - Proceed with Release Plan
 - Contacts:
-     - Product Manager - Alex Seelig (alex.seelig@agile6.com)
+     - Product Manager - Alex Seelig (alex.seelig@agile6.com), Heather Justice (heather.justice@adhocteam.us)
      - Product Owner - Patrick Bateman (patrick.bateman@va.gov)
-     - Lihan Li (lihan@adhocteam.us)
-     - Matt Long (matt.long@adhocteam.us)
+     - Backend: Lihan Li (lihan@adhocteam.us)
+     - Frontend: Matt Long (matt.long@adhocteam.us)
 
 ## Launch Dates
 - *Target Launch Date*

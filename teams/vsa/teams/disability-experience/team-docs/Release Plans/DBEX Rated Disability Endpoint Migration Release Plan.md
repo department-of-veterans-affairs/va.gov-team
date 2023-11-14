@@ -52,6 +52,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - This migration will make use of two flags: `disability_compensation_lighthouse_rated_disabilities_provider_background` and `disability_compensation_lighthouse_rated_disabilities_provider_foreground`
     - Representing the RD call in the submit flow and form flow, respectively
 - LH v2 does not have a controller mapped on the vets-api side, will have to monitor the RD job instead
+- 11/7 - LH will be making a change to the service their API calls, thus we will have to redo some tests
 
 < br >
 
@@ -195,11 +196,6 @@ Percentage of Users (and roughly how many users do you expect this to be): 1%
             Ticket(s) created to address: N/A
             - [x] Has the issue been resolved?
               - Fixed on LH side
-      -     Rollback reason: Discrepancy between EVSS and LH decision text display
-            Date: 10/16/23
-            Severity/Impact: Low - known issue, non-blocking
-            Ticket(s) created to address: N/A
-            - [] Has the issue been resolved?
 
 ### Stage B: Moderate ramp up
 #### Planning  
@@ -208,14 +204,14 @@ ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401
 Length of time: 
 Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
+  -     Rollback reason: Discrepancy between EVSS and LH decision text display
+            Date: 10/16/23
+            Severity/Impact: Low - known issue, non-blocking
+            Ticket(s) created to address: N/A
+            - [] Has the issue been resolved?
+    - 11/7 - LH will be making a change to the service their API calls, thus we will have to redo some tests
 
 ### Stage C: Another moderate ramp up
 #### Planning
@@ -224,13 +220,7 @@ ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401
 Length of time: 
 Percentage of Users (and roughly how many users do you expect this to be): 10% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 ### Stage D: Final moderate ramp up
@@ -240,13 +230,7 @@ ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401
 Length of time: 
 Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 ### Stage E: High traffic
@@ -256,34 +240,23 @@ ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401
 Length of time: 1 week
 Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 ### Stage F: Go Live!
 Date Started: 
 Percentage of Users (and roughly how many users do you expect this to be): 100% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 
 
 ## Post-launch Questions  
 To be completed once you have gathered your initial set of data, as outlined above.   
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?  
-2. What qualitative feedback have you gathered from users or other stakeholders, if any?  
-3. Which of the assumptions you listed in your product outline were/were not validated?  
-4. How might your product evolve now or in the future based on these results? 
-5. What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+2. Were there any metrics that could be considered useful post-rollout for auomated alerts?
+3. What qualitative feedback have you gathered from users or other stakeholders, if any?  
+4. Which of the assumptions you listed in your product outline were/were not validated?  
+5. How might your product evolve now or in the future based on these results? 
+6. What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?

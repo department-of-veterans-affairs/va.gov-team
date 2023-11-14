@@ -5,7 +5,7 @@ For more on our purpose, check out our [shared learnings from our big meeting in
 
 ## How do I join?
 Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
-- [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Josh at josh.kim@adhocteam.us for help.
+- [ ] Join our slack channel at `#trauma-practice`. Don't have access to slack? Reach out to Megan at megan.graham@adhocteam.us for help.
 - [ ] [Read how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
 - [ ] Introduce yourself on slack at `#trauma-practice` or at the next big meeting (this is 100% optional 💙)
 - [ ] [Join our next big meeting (email invite)](https://calendar.google.com/calendar/u/0/r/eventedit/cGg0aW8xaDhidmxtZWxqYjFtODNidWQ4amlfMjAyMzA5MTFUMjAwMDAwWiBtZWdhbi5ncmFoYW1AYWRob2N0ZWFtLnVz). Big groups are open to anyone, no sign up needed. You can [check out our agenda or add to it here (google docs)](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing).
@@ -39,10 +39,6 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 - [1 sentence on what brings you to this community]
 -->
 
-**Josh Kim**, Accessibility Lead on Benefits
-- joshkimux@gmail.com, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
-- I want to help make our work more sustainable, our impacts more just, our practice a little kinder, and folks from marginalized communities less excluded.
-
 **Liz Straghalis**, Researcher on VA Health and Benefits Mobile App
 - elizabeth.straghalis@gmail.com, [LinkedIn](https://www.linkedin.com/in/elizabeth-tutella-straghalis-b302343/)
 - I want to give people agency to show up and share their experience, to be fully present in difficult conversations, and to be a part of a community who is working to create spaces for new ways of working.
@@ -73,7 +69,11 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 
 **Julie Strothman**, OCTO Benefits Portfolio Designer / Researcher
 - julie.strothman@va.gov, she/her [Julie on LinkedIn](https://www.linkedin.com/in/jstrothman/)
-- I want to work with folks at VA OCTO to ensure participating in design research is safe and inclusive, and to ensure that people doing the work have the training and support they need.   
+- I want to work with folks at VA OCTO to ensure participating in design research is safe and inclusive, and to ensure that people doing the work have the training and support they need.
+
+**Charlotte Cesana**, Researcher, VA Debt Resolution Team
+- charlotte@cityfriends.tech, [LinkedIn](https://www.linkedin.com/in/charlottecesana/)
+- Interviews are an opportunity to connect with Veterans, to listen, and to learn. I'm interested in growing our community of practice to ensure that we cultivate an environment of safety and comfort for our participants at all times. 
 
 <hr/>
 
@@ -82,9 +82,9 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 
 - Rachael Dietkus
 - Martha Wilkes
+- Megan Graham
 - Lydia Hooper
 - Liz Straghalis
-- Josh Kim
 - Cindy Merrill
 - Brittany Iannuzzi
 - Charlotte Cesana
@@ -107,6 +107,7 @@ Took notes for a big meeting or small group? You've helped share and grow our le
 - Tyler Gindraux
 - Megan Graham
 - Julie Strothman
+- Pam Drouin
 
 #### How do I serve as a scribe?
 1. Volunteer at our next big meeting

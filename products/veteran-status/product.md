@@ -78,7 +78,7 @@ Timeline
 Discovery Sprint from  10/16/23 - 11//1/23
 Next step: present product concept to collab cycle
 Important Context and Decisions
-* Where does the new Veteran Status live? Profile? My VA? Somewhere on its own?
+* Where does the new Veteran Status live? Military Information Page? Profile? My VA? Somewhere on its own?
 * Allow for offline access? Might be good for older phones or areas with slow/unavailable wifi.
 * Availability for use online in online shopping environments?
 Open Questions

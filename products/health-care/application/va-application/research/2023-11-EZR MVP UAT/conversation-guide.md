@@ -12,6 +12,7 @@
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Open a new window and login into the test user account (228) for backup
 
 
 
@@ -42,8 +43,6 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **You'll be interacting with a beta version of the website today.** This tool has not been released and it may not function exactly the way you expect. Since it is linked to the VA system, it will show you your real information. Towards the end, I will remind you not to submit anything.
-
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
@@ -80,6 +79,7 @@ Let’s start with a few warm-up questions.
 
 ## Second Task: [Wayfinding - Static Page] - 5 minutes
 
+- **You'll be interacting with a beta version of the website today.** This tool has not been released and it may not function exactly the way you expect. Since it is linked to the VA system, it will show you your real information. Towards the end, I will remind you not to submit anything.
 - For this next scenario, imagine you just started a new job and your health insurance has changed because of it. Now, you've realized that you need to update your insurance details for your VA health care benefit. To do that, you decided to search on Google to find out how and where you can update your information. Google takes you to this page on VA.gov you're about to see. For this scenario, are you comfortable with sharing your screen and talking through your thought process?
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to (https://staging.va.gov/health-care/update-health-information-1/) in Zoom chat]
@@ -99,7 +99,8 @@ Let’s start with a few warm-up questions.
 
 ## Third Task: [Intro page] - 5 minutes
 
-- Could you please sign into your VA.gov account the typical way you would do so?
+- You've previously looked at a mockup of the website, now we will look at the actual website.
+- Could you please open a new window and sign into your VA.gov account the typical way you would do so?
 - [Share link to (https://VA.gov/my-health/update-benefits-information-form-10-10ezr) in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
@@ -116,11 +117,21 @@ Let’s start with a few warm-up questions.
 
 ## Fourth Task: [The Form] - 10 minutes
 
-- For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit unless you intend to update your health benefits information for real.
-- As you go through the form, could you please talk aloud about what you would need to do as you go.
+- For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit since we're still testing the form and its features.
+- As you go through the form, please use real information as if you were actually filling out the form. And could you please talk aloud about what you would need to do as you go?
 
 **Participant questions** 
 - What are your expectations regarding the prefilling feature?
+
+**Household Financial Information** 
+- You can use fake information for fields like SSN and I can help prompt you with information if needed.
+
+**Stop the Participant at the REVIEW PAGE** 
+- Since we've reached the end of the form, we want to avoid submitting the form and clearing the information you just entered.
+- To do that, please click on the "finish this form later" link located above the "Back" button.
+- Then click on the "Start a new form" button. This will clear out the information you've just entered.
+- From here, you can close out of this window and we have concluded our study. You can stop screen sharing as well.
+- Once the final version is released and you are prompted to update your health care benefits information using this form, it may look a little different.
 
 ### Things to watch for:
 

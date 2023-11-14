@@ -36,12 +36,16 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+* To send digital forms communications to Veterans, including confirmation and in-progress reminders, and more.
+* To provide Veterans with timely, actionable, and personalized notifications.
+* To add value to VA business line users for them to be able to gain insights on their notification use cases.
 
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
+### Metrics
+* We’re tracking form performance in Google Analytics (GA), and it's integrated with a VA Business Line-facing VA.gov VA Notify KPIs dashboard in DOMO.
+* Our top metrics include Total Notifications Sent, Delivery Rate, and The Top Reasons for Notifications Not Retrieved, etc.
+* We support VA Business Lines to customize analytics campaigns around notification use cases, e.g., the Education-Learn-More page campaign with VBA Education, where we set up UTM tracking on email templates to measure click-through rate by Veterans to access the page.
+* We launched User Researches to learn about Veterans feedback on notifications style and content.
+* We’re expanding our metrics and analytics tracking to understand our Self-Service User Interface usage by platform users.
 
 ---
 

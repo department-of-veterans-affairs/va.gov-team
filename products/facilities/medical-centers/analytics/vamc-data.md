@@ -46,7 +46,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632) (all urls)
 (based on clicks)
 | Button|  2020 | 2021 | 2022 | 2023 |
 | ---| --- | ---| ---| ---|
-| View all health services | 4,775 | 177,555 | 621, 929 | | 
+| View all health services | 4,775 | 177,555 | 621,929 | | 
 | Make an appointment | 4,341| 249,899 | 940,598 | | 
 | See all locations | 1,565| 112,171|  376,900| | 
 | Register for care | 1,393| 53,741| 315,337 | | 

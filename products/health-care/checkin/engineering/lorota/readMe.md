@@ -10,6 +10,13 @@
 
 [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/lorota/Lorota_simple_Sequence.png)
 
+## A simple explanation of LoRota
+LoRota acts as both an auth source and data store for check-in/pre-check-in. For check-in and pre-check-in we store appointment and demographics data in LoRota but this data is not related to authentication at all. The only auth part of LoRota is the UUID, last name, and DOB.
+
+LoRota entries are created from a request from VEText. VEText sends the auth details and data to be stored in LoRota and gets a UUID in return. On a GET endpoint using the UUID a read.basic payload is returned to indicate that the UUID exists and has an entry that can be authenticated into. On a POST endpoint using the UUID and last name/DOB in the payload, the read.full payload is returned if the DOB and last name are correct. The read.full payload consists of veteran and appointment data as well as any other contextual data related to the entry. 
+
+This combination of texting from a known number and entering the correct last name and DOB is the entire low auth solution. 
+
 ## Why use LoROTA?
 ###  Applications that use LoROTA do so for two reasons: 
 

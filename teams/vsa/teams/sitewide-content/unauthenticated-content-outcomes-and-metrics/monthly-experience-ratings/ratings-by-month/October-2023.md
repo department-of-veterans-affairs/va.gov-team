@@ -2,7 +2,7 @@
 
 ## Related overall scores
 - **Total customer satsifaction score:** 53.7% (0% change from last period)
-- **Average resources and support good/bad experience score:** X% "good" experience rating overall (XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 76% "good" experience rating overall (5,843 out of 7,731 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -55,6 +55,23 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1. 
+1. [How to file a VA travel reimbursement claim online](www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (20% good out of 75 total responses)
+2. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 176 total responses)
+3. [How to get help with concerns at a VA health facility](www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (37% good out of 51 total responses)
+4. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (38% good out of 101 total responses)
+5. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (39% out of 303 total responses)
+   
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20October%202023.xlsx?d=w634f3488d106494e9fbc399bdf0a9f13&csf=1&web=1&e=aTRrIh)
+
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 76% "good" average rating.
+- Performance isn't as high when broken down to individual pages:
+  - 18% of pages are scoring at 90% or higher "good"
+  - 46% of pages are meeting our goal of 75% or higher "good," while 54% of pages are scoring 70% or higher
+- 22% of pages are scoring at less than 50% "good," with 0% scoring at less than 10% "good"
+- PACT-related content continues to perform exceptionally well though lower than the previous month (Both the PACT Act and presumptive conditions pages have a >80% good rating).  
+- Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+  - Checking your claim status online
+  - Travel pay reimbursement
+  - Sign in and identity (including privacy and security)
+- The helpful phone numbers page continues to be one of our lowest-scoring pages by volume of responses. We've pulled Medallia data and and are currently reviewing this page to identify any potential content pain points.

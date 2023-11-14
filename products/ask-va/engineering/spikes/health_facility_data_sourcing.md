@@ -29,8 +29,12 @@ For the 2 that didn't match on id or name:
   * VHACO is a CRM only facility (not used in Portal).  It is a default routing location if the AVA agent cant determine what facility to send a request to
 
 ## Recommendation
-The recommendation would be to use the Lighthouse API for HealthCare facilities. The data from there should be the most up to date information available and would remove any need for a manual updating of the list availble. 
+The recommendation would be to use the Lighthouse API for HealthCare facilities but to limit the results to only those facilities that have routing rules specified for them (the 140 listed in the comparison document). The data from there should be the most up to date information available and would remove any need for a manual updating of the list availble. 
 
-We would deal with any health facilities that are NOT included in our Lighthouse results by using the VHACO facility Id that CRM Team uses today.
+Any health facilities that we allow for selection in the form that are not currently used by the CRM team, will get defaulted to the 101 VHACO facility id.  
 
-For NCHCS, we would use the facilities that CRM Team uses today.  
+For the NCHCS use case, we can either:
+  1. Replace the 14 medical centers that belong to NCHCS from the pick list on the form and only show NCHCS
+  2. Show the 14 medical centers and remove NCHCS as an option.  **Note:**  In order to avoid any impact to the routing rules on the back end, our form would convert the facility id's returned by selecting one of these 14 facilities to the current NCHCS facility id of "612"
+
+For the NCHCS use case, my recommendation is option 1. 

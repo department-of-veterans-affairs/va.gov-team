@@ -1,4 +1,4 @@
-# Data Definitions
+# Appointment Data Definitions
 
 Reference for data that VAOS displays for different appointment types.
 
@@ -16,6 +16,14 @@ The day and time of the appointment. May be in the future or the past.
 
 The name of the clinic where the appointment has been scheduled.
 
+##### Patient-friendly Clinic Name
+
+The same as clinic name but written so that it will make sense to the patient.
+
+
+#### Clinic Location
+
+They physical location of the clinic at the facility; for example, the building, floor, and room number.
 
 #### Facility Phone Number
 

@@ -4,8 +4,10 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - Complete any project-specific setup tasks for this study (List them below)
-   - Set-up Notetaking Board
+   - Set-up [Notetaking Board](https://app.mural.co/t/oddball4265/m/oddball4265/1697479225159/6a0d168b0c9bd95ad422a5250349bd8ecf71aa04?sender=ub6d328e737d4511e3f063904)
    - Check Prototype
+      - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
+      - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)  
 
 
 ### Day of the session
@@ -45,14 +47,10 @@ Before we start, I have a few things that I want to go over with you:
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
 ## Warm-up Questions (Optional) - 5 minutes
@@ -65,17 +63,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
-- How do you normally access VA.gov?  Can you share your screen with me and walk me through that process?
+- What device are you joining us with today?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  *observe if the user has a prepopulated password or uses a password manager or etc.*
    - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
-- Do you ever selection a sign out option?  If so, can you show me how?
-  - Do you ever sign back in after signing out? Can you describe that for me?
+[RESUME RECORDING]
 - How do you keep track of your password for signing into your VA account?
    - Have you ever had to reset your password? Can you describe that process for me?
+- Have you ever logged into a website like Netflix from both your phone and computer or another device at the same time?
+   - Are there any security concerns with this?
+   - [If yes] What do you think those concerns might be?
 - Some services online register where you sign in from and let you know if your account has been signed in from a device or even a location that is unusual for you. Have you ever gotten a notice like this, from any service?
-   - If so, what did you think? What did you do?
+   - If so, what did you think? What did you do (if anything)?
 - Have you ever had the need to sign out a device when you didn't have access to it? This could be on any service, not just VA, and for any reason. If so, can you recall why you did? Can you describe the steps you took?
-   - In the past have you used an option to sign out a single device? What about an option to sign out of all devices that are currently signed in?
-   - Do you feel like there is a difference in these two options or how you've used them in the past?
+   - In the past have you used an option to sign out a single device?
+   - What about an option to sign out of all devices that are currently signed in?
+   - Do you feel like there is a difference between these two options or has there been a difference in how you've used them in the past?
 
 ### Things to watch for:
 
@@ -84,33 +85,34 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: Prototype Walk-Through - 10 minutes
 
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
-   - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88&show-proto-sidebar=1)
-   - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=fmuY0h4DhYNhuRKR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54&show-proto-sidebar=1)
-- I would like for you to share your screen now and walk me through how you would complete the following steps.
-   - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-   - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
-- Let's pretend that you got a notification from the VA of a sign-in to your account, and that you don't recognize it, or you don't think it was you signing in.
-    - How would you expect to recieve a notification like this? [email, text, multiple ways?]
-    - Would you do anything with this information?
-       - If you wouldn't take any action based on this notification, what might you expct to happen?
-    - If you decided to take action, what would you do? [prompt] Would you go to VA.gov to sign into to your acount?
-    - Can you show me where you might go once signed into the VA to sign out of the device you didn't recognize?  Why would you start there?
-- **Username** page
-   - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
-   - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
-- **Profile** page
-  - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
-  - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
-  - [FAIL] (if they don't call out "Account Security") Ask them to read through the page again; if they are unable to point out "Manage Devices", gently guide them.
-      - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
-      - What do you think the term "Account Security" means on this page?
-      - For today, we'll navigate to the "Account Security" portion on this page.
-- **Manage Devices** page
-   - Can you walk me through what you're seeing here?
-   - What would you do next?
-   - What do you think about when seeing the button "sign out of device"? what about "sign out of all devices"?
-   - Have you ever done this or something simlar on another app or website? Can you tell me about that?
-   - TO BE UPDATED (Warning Indicator): Can you talk me through what you're seeing here?  What are your thoughts on this?
+   - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
+   - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
+   - [If participant is unable to pull up the prototype for them at this point.]
+- Have you ever manually signed out of your account?  If so, can you walk me through how?
+   - How often do you do that?
+- Can you share your screen now and walk me through how you would complete the following steps.
+- Let's pretend that you logged into your VA.gov account from your friend's computer, but you forgot to logout before you left.
+    - If you wanted to log out of your friend's device, what would you do? [pause]
+       - [If they don't respond with go to VA.gov]... Would you go to VA.gov to sign into to your acount? Can you show me what you would do once signed into VA.gov?  Why would you start there?
+   - **Username** page
+      - [SUCCESS] (selects username > profile OR "go to your profile") Allow them to continue walking you through.
+      - [FAIL] (explores other options) Ask them why they chose that area prior to guiding them to their profile. "Thanks for sharing that thought.  However, we'll start with navigating to your profile."
+   - **Profile** page
+     - Can you tell me what you would be looking for on this page at this point?  Does anything stand out to you to help you commplete your task?
+     - [SUCCESS] (sees the "Account Security" option) Allow them to continue walking you through.
+     - [FAIL] (if they don't call out "Account Security") ask them to read through the page again; if they are unable to point out "Manage Devices", prompt them for what they're looking for.
+         - What word or phrase would you be looking for in order to complete the task of signing out of all your devices.
+         - What do you think the term "Account Security" means on this page?
+         - For today, we'll navigate to the "Account Security" portion on this page.
+   - **Manage Devices** page
+      - Can you walk me through what you're seeing here?
+         - What does "Windows 11" indicate?  What type of device do you think that is?
+      - What would you do next?
+      - What do you think about when seeing the button "sign out" next to each device? What would happen if you clicked, "sign out of all devices"?
+         -  [Does the Veteran understand the implication of having to sign back into their account the next time?] 
+      - Have you ever done this or something simlar on another app or website? Can you tell me about that?
+   - **Connected Apps**
+      - What do you think this phrase means? 
 
 ### Things to watch for:
 
@@ -124,11 +126,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Sometimes it takes a while to develop and code changes that we want to make. If we could quickly put up the "sign out all" button while we work on the rest of what we showed you today, would you find that useful?
 - Is there any additional feedback you have for me at this point?
 - Any questions for me? 
-
-## Consent to use video clips
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
 ## Thank-You and Closing - X minutes

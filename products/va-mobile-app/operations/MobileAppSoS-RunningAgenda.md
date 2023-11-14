@@ -26,20 +26,8 @@
   * Review yellow projects
   * Any PO questions on existing projects?
  
-**Yellow: Deep Linking Appointments**- Currently Blocked Status
-  Summary: 2 Blockers, Resolve in progress
-
-**Blocker 1**
-  Eng:Blocker with Apts API (Retrieving Data with Upstream Service)
-  **Planned Fix:** PR is currently out and we should be unblocked this week
-  
-**Blocker 2:** Testing **(Appointments Team)**
-  Summary: Testing cannot be done in staging but must be done with production test accounts via the appts team
-  
- **PlannedFix/Next Steps:** Production validation testing will be done (Via the appts team) on various scenarios (**Use Cases provided to the team**)and MSA staff will enter data for us and test with production test accounts 
-
-**Risk:** Blocker 2 is with the appts team. The PO on that team will be informed when items are in production from our team and then will let us know when they are able to test.
-The risk here is time. If timing for that team extends, we may need to make a decision how long do we wait vs. rolling out without testing.
+Deep Linking Appointments (**Status-Yellow**)**-Testing to start via appts team this week.
+ 
 
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
@@ -52,6 +40,7 @@ The risk here is time. If timing for that team extends, we may need to make a de
     
 * **Other topics**
    * QA for Analytics - progress on Spike
+     * This will be worked in the upcoming Sprint (85)
 
 ## 10/31/23 Halloween Speical
 

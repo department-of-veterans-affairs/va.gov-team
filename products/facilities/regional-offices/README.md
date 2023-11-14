@@ -61,12 +61,29 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
 - Brigette Murray, VBA Office of Field Operations (Brigette.Murray@va.gov)
 
-
-
-
 ### **VBA Stakeholders:**
 - Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
 - Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
+
+### **Pilot MVP editors:**
+as of 11/6/2023 from Tanekwa to Michelle
+
+#### Albuquerque
+- Michael.Nelson9@va.gov
+- Cesar.Romero1@va.gov
+- Scott.Lajiness@va.gov
+
+#### Honolulu
+- Aiko.Shibuya@va.gov
+- Eileen.Asing@va.gov
+- Melynn.McWilliams@va.gov
+
+#### Houston
+- Daniel.Irizarry@va.gov
+- Thomas.Gibson@va.gov
+
+#### National Capital Region
+- Garcia.Williams@va.gov
 
 ### **Points of Contact from VBA RO pilot locations**
 [VBA Pilot Sites Selection.xlsx](https://dvagov.sharepoint.com/:f:/s/VBAVA.govmodernization/ElGAcEivodBFn5vZuP69aFUBpanKqq02M4JLkimn5zMfiQ?e=TJh0ir) [VA SharePoint]

@@ -2,6 +2,9 @@
 
 This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that VAOS follows.
 
+
+Please note: we are in the process of migrating this documentation to the [feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference). Check there for the most recent features.
+
 ## Application level
 
 In order to open VAOS on va.gov, a user must:

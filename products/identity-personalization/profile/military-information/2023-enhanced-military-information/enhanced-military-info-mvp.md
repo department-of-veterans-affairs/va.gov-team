@@ -1,6 +1,6 @@
 # MVP - Enhanced Military Information 
 
-**Last Updated: 11/3/2023 - Initial Drafting**
+**Last Updated: 11/7/2023** minor content changes
 
 `WIP`
 
@@ -8,11 +8,22 @@
 
 ## Table of Contents 
 
+- [Overview](#overview)
+- [MVP Goal](#mvp-goal)
+     - [MVP Data Elements](#mvp-data-elements)
+          - [Disability claim form (526EZ)](#disability-claim-526ez)
+- [Outcomes](#outcomes)
+- [Measuring Success](#measuring-success)
+- [Key deliverables / artifacts](#key-deliverables--artifacts)
+- [Key dates](#key-dates)
+- [Key decisions](#key-decisions)
+- [Design](#design)
+
 
 ## Overview
-We've been tasked with expanding the military information that is available to veterans in their VA.gov Profile. We're using the 526EZ form to inform our initial focus on the items that will most assist veterans when completing the 526EZ. 
+We've been tasked with expanding the military information that is available to veterans in their VA.gov Profile. We're using the 526EZ form to direct our focus to items that will assist veterans when completing the 526EZ. 
 
-The 526EZ electronic form is expanding to incorporate additional questions related to toxic exposure. When answering those questions, it's helpful for veterans to have military information on-hand. We're adding adding _units, deployment locations/dates, and military occupation_ which aligns with the questions within the form. 
+The 526EZ electronic form is expanding to incorporate additional questions related to toxic exposure. When answering those questions, it's helpful for veterans to have some military information on-hand. We're adding adding _units, deployment locations/dates, and military occupation_ which aligns with the questions within the form. 
 
 ## MVP Goal
 
@@ -35,7 +46,7 @@ The MVP data points we're focusing on are tightly linked with the 526EZ applicat
 3. deployment locations and start and end dates of deployments
 4. military occupational specialties
 
-#### Disability claim (526EZ)
+#### Disability claim form (526EZ)
 The online version of this form is being refreshed to match the paper version which asks additional questions around military information. With that in mind we're using this form to help prioritize the addition of data elements into the Profile that align with this form/application process. 
 
 - [Paper form](https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf)
@@ -79,7 +90,7 @@ The online version of this form is being refreshed to match the paper version wh
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
-- [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
+- [Mural for initial refinement](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
 - [Google Doc Project Outline](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
 - QA Plan
@@ -102,7 +113,8 @@ The online version of this form is being refreshed to match the paper version wh
 
 ## Design
 
-[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [mural for sensemaking / initial lo-fi mocks](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697125319596/c13810c02c96a58a4b6b72288c6b9a8d617f711a?sender=uaa72d11015d3f7c704a64191)
 
 ### Before
 

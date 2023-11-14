@@ -1,6 +1,6 @@
 # Default Send 
 
-**Updated: 10/26/2023** Launch Dates!
+**Updated: 11/7/2023** Launch Dates!
 
 ## Table of Contents
 
@@ -107,7 +107,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 |-------|-----------|-----------|
 | Launch to 25% | 10/25/2023 | 10/25/2023 |
 | Launch to 50% | 11/1/2023 | 10/31/2023 |
-| Launch to 100% | 11/8/2023 |  |
+| Launch to 100% | 11/8/2023 | 11/7/2023 |
 
 ### 1-week results at 100%
 ||Results|

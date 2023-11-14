@@ -1,5 +1,44 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 18
+Period - 11/08/2023 - 11/21/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Unit tests coverage to 80% for unblocking future code shipment
+   - [ ] Discovery for EMIS Migration testing
+   - [ ] EMIS Migration testing
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Release plan
+      - Benefits Claims Service
+        - [ ] Release plan
+- **Features**
+   - 526ez sync with paper version 
+       - Toxic Exoposure - unblocked work
+           - [ ] New mocks for timeframe location capture - TBD
+           - [ ] Copy updates from research and CAIA feedback
+           - [ ] Unblocked engineering work - if any
+       - [ ]  New military service questions - kick-off collab cycle - TBD
+       - [ ]  Implementation - Make homelessnessContact fields optional
+       - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
+         
+- **Other**
+  - Shadow Research
+    - [ ] Discussion Guide
+    - [ ] Recruitment 
+      
+- **Stretch Goals**
+  - Engineering
+     - [ ] PCIU Discovery
+  - Design
+     - [ ]
+  - Research
+     - [ ]
+  - Other
+     - [ ] Update 526ez Product Guide  
+             
+
 ## Sprint 17
 Period - 10/25/2023 - 11/07/2023
 ### Sprint goals 
@@ -15,26 +54,22 @@ Period - 10/25/2023 - 11/07/2023
           - Benefits Claims Service
             - [ ] DD Dashboard
 - **Features**
-   - 526ez changes to Intro pages
-      - [ ] Intro pages - review flow changes - Design
-      - Continue Implementation of unblocked Intro pages changes - Frontend Engineering
-         - [ ] Copy changes
-
    - 526ez sync with paper version 
        - [ ] New military service questions - kick-off collab cycle
-       - [ ] Toxic Exposure design changes 
+       - [ ] Toxic Exposure - potential design suggestions, copy updates and update to the content document with all post research reccomendations
+       - [ ] Toxic Exposure end to end mapping and identifying open questions
          
 - **Other**
-- - [ ] Shadow Research plan
+  - [ ] Shadow Research plan
+  - [ ] Teams 1 & 2 research effort - Review medallia survey data - Report   
       
-- - **Stretch Goals**
+- **Stretch Goals**
   - Engineering
+     - Discovery for EMIS Migration testing
      - PPIU - Direct Debit 
        - [ ] Release plan
-  - Research
-     - Teams 1 & 2 research effort - Review medallia survey data - Report    
-     - Audit of all changes as part of paper sync
-   
+   - Design
+      - Toxic Exposure copy updates
 ## Sprint 16
 Period - 10/11/2023 - 10/24/2023
 

@@ -131,8 +131,8 @@ November 2023
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: Steven Straily
+* Date and time of pilot session: November 8, 2023 at 4pm ET / 1pm PT 
 
 ### Research sessions
 * Planned dates of research: **November 13 - November 22**
