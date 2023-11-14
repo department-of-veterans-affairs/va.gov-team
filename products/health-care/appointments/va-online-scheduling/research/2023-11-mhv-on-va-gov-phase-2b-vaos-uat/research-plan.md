@@ -1,6 +1,5 @@
 # Research Plan for VAOS Appointments Usability 
 
-
 ## Background
 
 VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
@@ -15,14 +14,19 @@ This study will test that those features are meeting Veteran's needs.
 
 Additionally, we want to generate some insights around how Veterans choose facilities or providers. This will help inform our approach to improving these flows in future initiatives.
 
-Also see [Product's initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-list/product-outline-appointment-list-2022.md).
+Also see:
+- Phased Rollout for MHV on VA.gov - [Phase 1B](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1667322271773/26b9a1c19e3d4f1dbcc1dba4e4218a56f0fbb75a?wid=5-1680618107842)
+- [Phase 1B user flow](https://www.figma.com/file/0wG5mpi760FGvVh89phapu/User-flow-for-MHV-Portal-to-Appointments?type=whiteboard&node-id=935-2137&t=1fcwxkJG1yqTgL37-4)
+- [New appointments list navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/navigation-link/add-navigation-links-mhv.md)
+- [Add Cerner navigation option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/cerner-navigation-mhv-on-va.gov/cerner-navigation-initiative-brief.md)
+- [Print appointment list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/print-appointment-list/initiaitve-brief-print-appointment-list.md) 
 
 ### OCTO Priorities 
 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
--   Veterans and their families can find a single, authoritative source of information
--   Logged-in users have a personalized experience, with relevant and time-saving features
+- Veterans and their families can find a single, authoritative source of information
+- Logged-in users have a personalized experience, with relevant and time-saving features
 
 Increase 📈
 
