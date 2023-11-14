@@ -220,19 +220,30 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 Is there another way that you could do this task from this web page?
 
-### Task 4: [Learn about education benefits]
+### Task 4B: [Learn about education benefits]--IF HAVE VA DISABILITY
 Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What could you do from this web page?  
 
-*RECORD navigation: megamenu / footer / search / mobile search*
+*RECORD navigation: megamenu > Education and training / footer / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 Is there another way that you could do this task from this web page?
 
+### Task 4A: [Learn about disability compensation]--IF DON'T HAVE DISABILITY
+REWRITE!! What could you do from this web page? 
+
+*RECORD navigation: megamenu > Disability / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
+
 ### Task 5: [Find a Form]
-Let's say 
+Now you've decided to apply  
 
 *RECORD navigation: megamenu / footer / search / mobile search*
+
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
