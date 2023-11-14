@@ -25,7 +25,6 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 Status | GET /ping | Dynamics | 🟩 | 🟨 |  | [link](Status_Ping.md)  |
 Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link](Form_GetTopics.md) |
 Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link](Form_RetrieveBannerMessage.md) |
-Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  |  [link](Form_SubmitInquiry.md) |
 Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | inquiry by number | [link](Form_RetrieveInquiryStatus.md) |
 Form | GET /facilities?{id} | Lighthouse | ⬜ | ⬜ |  | [link](Form_MedicalFacilities.md) |
 Form | GET /facilities?{latlong} | Lighthouse | ⬜ | ⬜ |  | [link] |
@@ -41,6 +40,7 @@ Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ |  | [link](Dashb
 Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ |  | [link](Dashboard_UploadFile.md) |
 Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
 Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
+Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  |  [link](Form_SubmitInquiry.md) |
 Dashboard | ~PUT /profile/new~ | VA Profile | ⬜ | ⬜ | VA Profile  | [link] |
 Dashboard | ~POST /profile~ | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
 Form | ~GET /states~ | Dynamics | ⬜ | ⬜ |  | [link] |
