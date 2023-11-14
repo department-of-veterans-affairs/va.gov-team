@@ -156,7 +156,7 @@ ________________________________________________________________________________
             - 🚧 🟦 [[BE] Implement ClaimsToken class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68824)
                 - Added at the end of the sprint
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
-        - 🟥[[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
+        - ✔️ 🟥[[UX][Content] Create Content to Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67897)
     - **Sub Goal: Handle Missing Appointment Information**
         - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
              - Started, but is blocked by Appointments, Misty and Kristen to align on empty states. When identified, we will follow their direction and pull into a future sprint. Moved this to backlog. 
