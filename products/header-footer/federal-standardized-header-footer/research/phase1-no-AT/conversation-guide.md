@@ -201,16 +201,19 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - USA at top of page 
 - USA in footer 
 - VA seal in header
-- purpose
+- Purpose of page
 - Is this an official government website?
 
 *If participant needs prompting:*
 - What do you think this page is for?
 - Can you tell me about the very top of this page? *(USA Government)*
 - What does this mean to you?
-- Can you talk about what is below that? *(VA seal and dept. name)*
-- Can you scroll down and tell me what you see there? *(Footer)* 
+- Can you talk about what's below that? *(VA seal and dept. name)*
+- Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
  
+### Task 3: [Find VA location]
+
+
 ## Post-Task Interview - 7 minutes
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
