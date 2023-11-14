@@ -181,16 +181,10 @@ I would like you to share your screen with me so that I can see what you do duri
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
-### Task 1: [First impressions] 
-If you wanted to 
+### Task 1: [Open prototype] 
+I'd like you to look at a web page and tell me about what you see. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. 
 
-- *RECORD what they do: *
-
-
-### Task 2: [Open prototype] 
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share **your feedback** while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. 
-
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to use: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
+I will *[dictate/put into the Zoom chat]* the URL for you: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **TBD**)*
 
 Did you get the link? 
@@ -199,12 +193,23 @@ Did you get the link?
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 
-### Task 3: [ ]
-Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
+### Task 2: [First impressions]
+I would like you to tell me about what you see on this web page.
+Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
+*RECORD everything they say, including anything +/-/neutral about...*
+- USA at top of page 
+- USA in footer 
+- VA seal in header
+- purpose
+- Is this an official government website?
 
-
- 
+*If participant needs prompting:*
+- What do you think this page is for?
+- Can you tell me about the very top of this page? *(USA Government)*
+- What does this mean to you?
+- Can you talk about what is below that? *(VA seal and dept. name)*
+- Can you scroll down and tell me what you see there? *(Footer)* 
  
 ## Post-Task Interview - 7 minutes
 
