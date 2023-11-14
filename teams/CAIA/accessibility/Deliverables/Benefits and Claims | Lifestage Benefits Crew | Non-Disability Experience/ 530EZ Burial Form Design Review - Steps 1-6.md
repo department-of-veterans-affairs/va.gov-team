@@ -1,4 +1,4 @@
-# [Design Review a11y findings]: Product team 
+# [Design Review a11y findings]: Benefits and Claims | Lifestage Benefits Crew | Non-Disability Experience
 - [Prototype link](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/B7F2215E-001C-41F3-B803-9DFD96E7B129/canvas) 
 - [#benefits-non-disability](https://dsva.slack.com/archives/C057W3N9K2S)  
 
@@ -34,7 +34,7 @@
     - [x] Minor (defect 4): `The review has not been completed. `
 - [ ] No Findings Identified
 
-### Detailed Findings
+### Detailed Findings (with images)
 
 <details><summary>Toggle to Reveal Defect Findings from CAIA A11ys</summary>
 
