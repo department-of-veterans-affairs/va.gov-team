@@ -1,7 +1,8 @@
 # 10-10EZR Error Messages
 
 ## Source of Truth documents 
-[10-10EZR Error Messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694028526633/a5d8eba28e3acaba46de92e99fb8013fd1a56d3d?sender=uadf1ed7fe7c76f0914967329)
+- [10-10EZR Error Messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694028526633/a5d8eba28e3acaba46de92e99fb8013fd1a56d3d?sender=uadf1ed7fe7c76f0914967329)
+
 - Content / Design Audit and Living Document
 
 
@@ -45,6 +46,8 @@ You can save your work in process. You’ll have 60 days from when you start or 
 | -------- | ---------------- | ---------- |
 | Introduction page + authenticated + NOT enrolled in VA health care | [h3] You’re not currently enrolled in VA health care [p]This is a form to make updates to your information after enrollment. If you would like to enroll in VA health care complete the application. [link action primary] Apply for VA health care| Resolution = clicks to apply for health care / 10-10EZ Introduction page | 
 | Introduction page + authenticated + previous saved update form | [h3] Your health benefits updates form has been saved [p] Last saved on: [Date and time stamp] Your saved application will expire on [Month day, year]. If you are on a public computer, sign out of your account so your information stays secure. [action link primary] Continue your health benefits update form | Resolution = continue saved application |
+| Introduction page + Verification needed | Message
+[h3] Please verify your identity before updating your health benefits information [p bold] If you need information or help with verifying your identity: [ul] Read our identity verification FAQs [li] Or call us at 877-222-8387. [li] If you have any hearing loss, call TTY: 711. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. [primary button] Verify your identity | Resolution = Verify identity |
 
 ### Feedback Messages - Multiple Responses Modals
 
