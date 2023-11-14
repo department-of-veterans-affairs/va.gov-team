@@ -133,8 +133,8 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 ----
 
    [_**If needed: Instructions for opening chat**_]
-   - Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap (or select) the screen a menu will appear at the bottom of your screen.
-   - In that menu, tap (or select) “Chat."
+   - _Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap (or select) the screen a menu will appear at the bottom of your screen._
+   - _In that menu, tap (or select) “Chat."_
 
 ----
 
@@ -145,14 +145,14 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 ----
 
   [ _**If needed: Screen Sharing Instructions - 2 Minutes**_]
-   - So, now I’ll talk you through how to share your screen.
-   - Tap (or select) the screen anywhere.
-   - And, as you tap the screen a menu will open at the bottom of your screen.
-   - In that menu, tap (or select) "Share." If you can’t find “Share” in that menu, you may need to tap the menu and drag it to the left to uncover more options.
-   - And, when you find the “Share” option, go ahead and select it.
-   - Then, tap (or select) "Screen."
-   - Then, tap the words, “Start Broadcast.”
-   - Now, tap (or select) anywhere on the paragraph at the top of the screen that starts with "Everything on your screen."
+   - _So, now I’ll talk you through how to share your screen._
+   - _Tap (or select) the screen anywhere._
+   - _And, as you tap the screen a menu will open at the bottom of your screen._
+   - _In that menu, tap (or select) "Share." If you can’t find “Share” in that menu, you may need to tap the menu and drag it to the left to uncover more options._
+   - _And, when you find the “Share” option, go ahead and select it._
+   - _Then, tap (or select) "Screen."_
+   - _Then, tap the words, “Start Broadcast.”_
+   - _Now, tap (or select) anywhere on the paragraph at the top of the screen that starts with "Everything on your screen."_
 
 ----
 
