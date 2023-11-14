@@ -168,10 +168,7 @@ At least 2 participants must have upcoming appointments at facilities that use t
 
 **Secondary criteria:**
 
-8 participants who primarily use a desktop/laptop computer.
-- Participants must be able to attend sessions on their desktop/laptop computer.
-
-8 participants who primarily use a tablet or other mobile device.
+5 participants who primarily use a mobile device.
 - Participants must be able to attend sessions on a mobile device.
 
 - At least 4 veterans with a cognitive disabilty
@@ -236,6 +233,5 @@ Please do not schedule more than 3 sessions per day.
 -   Observers: 
     - Jeff Roof jeff.roof@adhocteam.us
     - Kristen McConnell Kristen.Mcconnell@va.gov
-    - Ben Brasso (To confirm)
-    - Christina Gednalske (To confirm)
-    - Lauren Russell (To confirm)
+    - Sara Sterkenberg sara.sterkenburg@adhocteam.us
+
