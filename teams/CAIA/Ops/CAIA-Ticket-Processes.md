@@ -76,7 +76,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 
 ## Ticket Creation
 [CAIA Intake Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) is filled out by VFS team. 
-### Intake Tickets: During & After
+### Intake Process
 <details><summary>Toggle to view what takes place during ticket creation</summary>
   
 - Ticket automatically assigns `Terry` and `Lily` and adds the `sitewide CAIA`label.
