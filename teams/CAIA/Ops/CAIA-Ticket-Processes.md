@@ -1,9 +1,6 @@
 # CAIA Ticket Processes
 ## Documentation Purpose
-The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes.
-- Ways of Working
-- CAIA Disciplines
-- Tools utilized
+_The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes._ 
 
 <details><summary>Toggle to view details on this documentation's purpose</summary>
 
@@ -39,14 +36,7 @@ The purpose of this documentation is to establish a clear way of work for the CA
 <hr>
 
 ## Global Definitions
-Review the terms and definitions utlizied by the CAIA Team. 
-- Ticket
-- Issue
-- EPIC
-- Task
-- Repository
-- Pipeline
-- Refinement
+_Review the terms and definitions utlizied by the CAIA Team._ 
 
 <details><summary>Toggle to view CAIA definitions</summary>
   
@@ -83,7 +73,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 - Ticket automatically assigns `Terry` and `Lily` and adds the `sitewide CAIA` label.
 - This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Stuff` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1).
     - **Default assignees:** Terry, Lily
-    - **Default Labels:** Sitewide CAIA
+    - **Default Labels:** `sitewide CAIA`
     - **Note:** A ticket must have the `sitewide CAIA` label to exist in GH Projects!
     - **Additional Views:**
         - [Grouped by Intake](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/3)
@@ -93,7 +83,9 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 </details>
 
 ## Tickets, Assignees, Labels and Fields
-Expand this section first, in order to use the anchor links below.
+
+<details><summary>Learn more about CAIA tickets, assignees, labels and fields</summary>
+
 ### Ticket Types
 - [Regular Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#1-regular-ticket-type)
 - [Research Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#2-caia-research-intake-ticket)
@@ -103,8 +95,6 @@ Expand this section first, in order to use the anchor links below.
 - [Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#labels)
 - [Assignees](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#assignees)
 - [Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ghp-fields)
-
-<details><summary>Learn more about CAIA tickets, assignees, labels and fields</summary>
 
 ### Ticket Types
 - There are four distinct ticket `types` that are relevant to CAIA. 
