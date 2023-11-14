@@ -131,18 +131,21 @@ We noted that in addition to JAWS and VoiceOver requiring different commands, th
 
 Additionally, the sample of Veterans we spoke to sometimes had different systems they used to navigate through the form. For example, one participant (P8, JAWS) navigated the page by having the screen reader read all of the links on the page. This overemphasized the header and footer of the page rather than the content on the form pages. P5 (JAWS) had to alternate in and out of Forms mode. P6 (VoiceOver) has peripheral vision and would use a combination of screen reader and clicking. 
 
+**2. The experience of navigating through the form if the participant was fully reliant on the screen reader (if blind) or if they were partially reliant on the screen reader (if low vision) presented different opportunities and challenges.**
 
-3. Finding two
+2 participants reported being visually impaired but not blind. These participants used the screen reader some of the time and their vision the rest of the time to progress through the form. P6 has peripheral vision and uses their screen reader 20% of the time. One of the challenges that surfaced was that certain elements on the page were visually bothersome to participants with low vision. For example, P6 stated that the auto-save colored box was bothering them.
 
-4. Finding three
+*How do you feel about the flash? It bothers me because it seems like I should be looking at it. If it flashes I should look at it. I don’t know what to do with it because it is flashing and not treating it like text. When it flashes you want to know what it is saying. I cant see what it says but I know it is flashing. (p6, VoiceOver)*
 
-5. Finding four
+One of the opportunities was that, low-vision participants could use their vision to click in places where the screen reader was not reading the intended text. 
 
-6. Finding five
+**3.  We found that users of screen readers were extraordinarily patient.**
 
-7. Finding six
+Although the login process was time consuming and frustrating, participants were in good spirits and eager to continue to complete tasks until our 90 minutes ran out. Login took anywhere from ~ 15 minutes - 50 minutes. There is an opportunity to make the VA.gov sign in experience more accessible.
 
-8. Finding seven
+For this study, we used a staging test account. The form link had to be shared with participants to their email or to the Zoom chat. Participants had to manually retrieve the email and open the link, navigate back to the Zoom, and share their screen. They had to go through the Wizard, intro page, and then the login page. The user ID and password were shared with them verbally.
+
+
 
 
 ## Details of Findings 
