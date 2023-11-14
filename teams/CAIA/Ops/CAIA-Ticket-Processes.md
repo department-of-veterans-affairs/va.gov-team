@@ -141,10 +141,16 @@ During planning, assignees will be added to tickets to indicate that there is a 
 
 **This is a sample scenario for a high priority ticket created by a VFS team using the standard CAIA intake request form** 
 
+<details><summary>Toggle to view a sample Ticket Journey</summary>
+  
 1. Intake comes in from the `VFS Team` on Thursday of week 1 in the sprint.
-2. GHP picks up the label and adds this new ticket to `New Stuff`  in GHP. The filter in this column put new tickets at the top, sorted by date. This is dependent on the`Date Opened` field being filled out.
+2. GHP picks up the  `sitewide CAIA`label and adds this new ticket to `New Stuff`  in GHP. The filter in this column put new tickets at the top, sorted by date. This is dependent on the`Date Opened` field being filled out.
 3. Email is also created and sent to everyone on the assignee list as the ticket is created
 4. Representative from xyz team should post a follow up notification in our DSVA Slack Channel
 5. Leads then look at the ticket on their week 1&2 Monday Refinement session and determine ticket priority, and needs to be completed by  date.
    - These fields are then filled out in the ticket in GHP and the ticket - now refined - moved to `Ready`
    - Someone is assigned to the work based on their current capacity/workload
+  
+<img width="532" alt="Main Table in GitHub Projects, showcasing the New Stuff lane" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/a4c18490-6dee-49c1-9e18-003d3557d84d">
+
+</details>
