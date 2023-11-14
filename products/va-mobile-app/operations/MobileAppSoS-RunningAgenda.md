@@ -40,6 +40,7 @@ Deep Linking Appointments (**Status-Yellow**)**-Testing to start via appts team 
     
 * **Other topics**
    * QA for Analytics - progress on Spike
+     * This will be worked in the upcoming Sprint (85)
 
 ## 10/31/23 Halloween Speical
 
