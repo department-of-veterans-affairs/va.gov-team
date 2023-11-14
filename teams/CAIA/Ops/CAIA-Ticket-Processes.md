@@ -89,6 +89,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 ## Tickets, Assignees and Labels
 **Ticket Types:**
 - Regular Ticket
+- Research Ticket
 - EPIC
 - Super Epic
 - Labels
@@ -97,19 +98,27 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 <details><summary>Learn more about CAIA tickets, assignees and labels</summary>
 
 ### Ticket Types
-There are three distinct ticket “types” that are relevant to CAIA:
+There are four distinct ticket “types” that are relevant to CAIA:
 
-### Regular ticket
+### Regular Ticket Type
 Generally, a ticket that has a specific task or tasks associated with it and is associated with a single CAIA discipline. For example the ticket may require content work. In some cases a single regular ticket may contain more than 1 CAIA discipline - for example a ticket requiring a content update and some IA work. 
 Whether to make that ticket into an EPIC is discretionary and gauged by the work estimate/complexity of the request. If it makes sense to make it an EPIC, do so. If not, and the multidisciplinary involvement is minor,  it can stay a regular ticket. Whatever is easiest for CAIA to track and complete the work.
 
-### EPIC
+### CAIA Research Intake Ticket
+Resources for assistive technology research sessions [veiew this on the website]
+- Research with assistive technology users
+- Screen reader checklist
+- Disability etiquette
+- Testing your prototype wiht assistve technology users.
+
+### Epic Ticket Type
 A container for other tickets. EPICS are used as a vessel for attaching other tickets to, especially in cases where multiple work streams are involved with the work. For example, a collaboration cycle ticket might contain work from IA, a11y, and content, and so the EPIC is used as an anchor for all the tickets associated with the individual work tickets that are created to actually do the work.
 An example of how the individual work tickets are shown in EPIC can be seen below:
 
 An EPIC will usually not have team members assigned to it directly, as the EPIC is normally just used as a vessel, however, assignees may be added to indicate ownership or involvement with some or all of the ticket content of the EPIC. 
 For example, an accessibility audit ticket might contain 4 or 5 individual tickets with work being done by different members of the a11y team in different areas, but the a11y lead may be “assigned” in the EPIC as they have ownership of the collective work of the audit in general.
-### SUPER EPIC
+
+### Super Epic Ticket Type
 Simply an EPIC used for tying together multiple related EPICS to align to a specific goal, area, or objective. And EPIC that contains other EPICS in a hierarchical system. Similar assigning and labeling rules apply to 
 SUPER EPICS that also apply to EPICS.
 Labels and assignees are tied to tickets.
@@ -120,12 +129,6 @@ Labels and assignees are tied to tickets.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
  - `sitewide IA`- used to donate that the CAIA Information Architecture team has work involvement.
 ### Assignees
-By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
-During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
-During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
-
-## Assignees
-
 By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
 During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
 
