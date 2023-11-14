@@ -182,7 +182,7 @@ At least 2 participants must have upcoming appointments at facilities that use t
 
 ### Prepare
 
-Test materials will be finalized by November 13th, 2023
+Test materials will be finalized by November 17th, 2023
 
 Pilot participant email: TBD
 Date and time of pilot session: TBD
