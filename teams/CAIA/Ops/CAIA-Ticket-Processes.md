@@ -106,38 +106,44 @@ Expand this section first, in order to use the anchor links below.
 <details><summary>Learn more about CAIA tickets, assignees, labels and fields</summary>
 
 ### Ticket Types
-- There are four distinct ticket “types” that are relevant to CAIA. 
-- There are additional tickets within each discipline that are spun off of the intake tickets, based on the work being requested. 
+- There are four distinct ticket ‘types’ that are relevant to CAIA. 
+- There are additional tickets within each discipline that are spun off of the intake tickets, based on the work being requested. This is done via ‘tasks’.
 
 #### 1. Regular Ticket Type
-Generally, a ticket that has a specific task or tasks associated with it and is associated with a single CAIA discipline. For example the ticket may require content work. In some cases a single regular ticket may contain more than 1 CAIA discipline - for example a ticket requiring a content update and some IA work. 
-Whether to make that ticket into an EPIC is discretionary and gauged by the work estimate/complexity of the request. If it makes sense to make it an EPIC, do so. If not, and the multidisciplinary involvement is minor,  it can stay a regular ticket. Whatever is easiest for CAIA to track and complete the work.
+- Generally, a ticket that has a specific task or tasks associated with it and is associated with a single CAIA discipline. For example the ticket may require content work.
+- In some cases a single regular ticket may contain more than one CAIA discipline - for example a ticket requiring a content update and some IA work. 
+- Whether to make that ticket into an EPIC is discretionary and gauged by the work estimate/complexity of the request.
+    - If it makes sense to make it an EPIC, do so.
+    - If not, and the multidisciplinary involvement is minor, it can stay a regular ticket.
+    - Ultimately, it is whatever is easiest for CAIA to track and complete the work.
 
 #### 2. CAIA Research Intake Ticket
-Resources for assistive technology research sessions [view this on the website]
-- Research with assistive technology users
-- Screen reader checklist
-- Disability etiquette
-- Testing your prototype with assistve technology users.
+VFS teams can request assistive technology research support through CAIA, where CAIA a11ys attend user research sessions and provide support for assistive technology sessions, in addition to taking a11y-related notes, used to generate a detailed deliverable, focused on a11y issues identified during the research sessions.
+- [There are resources for assistive technology research sessions that can be viewed on the Platform website](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
+    - [Research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
+    - [Screen reader checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
+    - [Disability etiquette](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
+    - [Testing your prototype with assistve technology users](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u)
 
 #### 3. Epic Ticket Type
-A container for other tickets. EPICS are used as a vessel for attaching other tickets to, especially in cases where multiple work streams are involved with the work. For example, a collaboration cycle ticket might contain work from IA, a11y, and content, and so the EPIC is used as an anchor for all the tickets associated with the individual work tickets that are created to actually do the work.
-An example of how the individual work tickets are shown in EPIC can be seen below:
-
-An EPIC will usually not have team members assigned to it directly, as the EPIC is normally just used as a vessel, however, assignees may be added to indicate ownership or involvement with some or all of the ticket content of the EPIC. 
-For example, an accessibility audit ticket might contain 4 or 5 individual tickets with work being done by different members of the a11y team in different areas, but the a11y lead may be “assigned” in the EPIC as they have ownership of the collective work of the audit in general.
+- A container for other tickets. EPICS are used as a vessel for attaching other tickets to, especially in cases where multiple work streams are involved with the work. 
+    - For example, a collaboration cycle ticket might contain work from IA, a11y, and content, and so the EPIC is used as an anchor for all the tickets associated with the individual work tickets that are created to actually do the work.
+    - An example of how the individual work tickets are shown in EPIC can be seen below:
+        - An EPIC will usually not have team members assigned to it directly, as the EPIC is normally just used as a vessel, however, assignees may be added to indicate ownership or involvement with some or all of the ticket content of the EPIC.
+        - For example, an accessibility audit ticket might contain 4 or 5 individual tickets with work being done by different members of the a11y team in different areas, but the a11y lead may be “assigned” in the EPIC as they have ownership of the collective work of the audit in general.
 
 #### 4. Super Epic Ticket Type
-Simply an EPIC used for tying together multiple related EPICS to align to a specific goal, area, or objective. And EPIC that contains other EPICS in a hierarchical system. Similar assigning and labeling rules apply to 
-SUPER EPICS that also apply to EPICS.
-Labels and assignees are tied to tickets.
+- Simply an EPIC used for tying together multiple related EPICS to align to a specific goal, area, or objective.
+- And EPIC that contains other EPICS in a hierarchical system.
+- Similar assigning and labeling rules apply to SUPER EPICS that also apply to EPICS.
+- Labels and assignees are tied to tickets.
 ### Labels
 4 main labels are used to indicate the CAIA work stream involved with the work:
 -  ‘sitewide CAIA’ Used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
 -  `sitewide CAIA` used to denote CAIA content involvement with the work.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
  - `sitewide IA`- used to denote that the CAIA Information Architecture team has work involvement.
- - `CAIA -a11y-research` - used to denote CAIA research involvement for Assistive Technology support.
+ - `CAIA-a11y-research` - used to denote CAIA research involvement for Assistive Technology support.
 ### Assignees
 By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
 During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
@@ -191,7 +197,7 @@ This field should be updated when the ticket is reviewed.
 
 ## Sample Journey
 
-**This is a sample scenario for a high priority ticket created by a VFS team using the standard CAIA intake request form** 
+_This is a sample scenario for a high priority ticket created by a VFS team using the standard CAIA intake request form._ 
 
 <details><summary>Toggle to view a sample Ticket Journey</summary>
   
