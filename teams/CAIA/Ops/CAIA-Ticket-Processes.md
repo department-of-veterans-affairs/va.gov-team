@@ -79,7 +79,7 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 ### Intake Process
 <details><summary>Toggle to view what takes place during ticket creation</summary>
   
-- Ticket automatically assigns `Terry` and `Lily` and adds the `sitewide CAIA`label.
+- Ticket automatically assigns `Terry` and `Lily` and adds the `sitewide CAIA` label.
 - This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Stuff` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1).
     - **Default assignees:** Terry, Lily
     - **Default Labels:** Sitewide CAIA
@@ -212,3 +212,15 @@ _This is a sample scenario for a high priority ticket created by a VFS team usin
 <img width="532" alt="Main Table in GitHub Projects, showcasing the New Stuff lane" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/124186314/a4c18490-6dee-49c1-9e18-003d3557d84d">
 
 </details>
+
+## Closing Tickets
+If  CAIA work on a ticket has been completed, the person working on that ticket can move the ticket to `validate`, or if no validation is required, a ticket can be moved directly to closed.
+### Who can close out tickets? 
+<details><summary>Toggle to learn how to close a CAIA ticket</summary>
+
+  **Simple answer - YOU CAN!** 
+- If you believe the work you have done on a ticket has been satisfactorily concluded, you can move the ticket to `validate` or `closed`.
+- Tickets that are closed should have all of their fields completed, prior to closing out the ticket.
+- Tickets that are closed should be reported by the CAIA team member on the capacity tracker, for the assignees involved. 
+</details>
+
