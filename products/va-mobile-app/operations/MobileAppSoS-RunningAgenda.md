@@ -26,7 +26,7 @@
   * Review yellow projects
   * Any PO questions on existing projects?
  
-**Yellow: Deep Linking Appointments**-Testing to start via appts team this week.
+Deep Linking Appointments (Status-Yellow)**-Testing to start via appts team this week.
  
 
 * **Standing question for the POs**
