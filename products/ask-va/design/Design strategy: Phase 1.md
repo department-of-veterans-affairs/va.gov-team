@@ -1,7 +1,7 @@
 # Design strategy: Phase 1
 *Ask VA Front-End*
 
-Last updated by @beckyphung on November 7, 2023 
+Last updated by @tygindraux on November 14, 2023 
 
 ## Product background
 
@@ -24,8 +24,6 @@ These KPIs will guide our decisions and help us measure success [[2](https://git
 1. Reduce the time it takes to submit a question
 2. Increase the percentage of submitters that successfully ask a question
 3. Meet the target VA.gov user satisfaction score
-
-**Note:** We will update this document to replaced KPIs with OKRs, once these are updated.
 
 ## Design strategy
 
