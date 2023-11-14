@@ -6,14 +6,14 @@ The following is a list of search analytics events and the variables being suppl
 
 #### Data Provided
 - 'search-page-path'{GA}: url of the page where search was initiated
-- 'search-query'{GA}: the query that a user input (not necessarily which suggestion they chose)
+- 'search-query'{GA}: the query from a user input (not necessarily which suggestion they chose)
 - 'search-selection'{GA}: will be set to "All VA.gov" for any site-wide searches we are concerned about
 - 'search-typeahead-enabled'{GA}: whether or not typeahead was enabled for this user (will be 100% on after launch)
 - 'sitewide-search-app-used': will be set to true during onsite search from the search menu bar, false all other times (including from the search page)
 - 'type-ahead-option-keyword-selected'{GA}: if a typeahead suggestion was selected, it will be here. if one was not selected, will be: (not set)
 - 'type-ahead-option-position': where in the options list did the above suggestion fall? will be: (not set) if suggestion is blank
-- 'type-ahead-options-list'{GA}: list of all suggestions presented,
-- 'type-ahead-options-count': number of suggestions presented, 
+- 'type-ahead-options-list'{GA}: list of all suggestions presented
+- 'type-ahead-options-count': number of suggestions presented
 
 ### Search Result Clicked
 - Event Name: "onsite-search-results-click"
