@@ -7,10 +7,10 @@
 - Product manager: Laura Steele 
 - Designer: Fiorella Glavez 
 
-## Auditor(s)
-- SK (Sarah Koomson)
-- Sara Smith
-- Jamie Klenetsky Fay 
+## CAIA Auditor(s)
+- SK (Sarah Koomson) - auditor
+- Sara Smith (ticket prep)
+- Jamie Klenetsky Fay - auditor
 
 ## Testing Coverage: 
  
