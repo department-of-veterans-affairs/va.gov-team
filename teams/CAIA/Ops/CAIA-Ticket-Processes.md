@@ -127,7 +127,8 @@ Labels and assignees are tied to tickets.
 -  ‘sitewide CAIA’ Used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
 -  `sitewide CAIA` used to denote CAIA content involvement with the work.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
- - `sitewide IA`- used to donate that the CAIA Information Architecture team has work involvement.
+ - `sitewide IA`- used to denote that the CAIA Information Architecture team has work involvement.
+ - `CAIA -a11y-research - used to denote CAIA research involvement for Assistive Technology support.
 ### Assignees
 By default, newly created intake request tickets in Github will automatically assign Terry and Lily and then 1 lead from each of the CAIA work streams. Currently that is Terry, Lily, Sara, Kristin, and Laura.
 During refinement, both assignees and labels can be removed from the ticket as appropriate after determining no involvement by those streams or people. Refined tickets will be moved to ready but may not have a specific team member assigned to the ticket.
