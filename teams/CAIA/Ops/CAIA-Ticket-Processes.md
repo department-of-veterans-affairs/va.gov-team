@@ -92,11 +92,13 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 </details>
 
 ## Tickets, Assignees, Labels and Fields
-**Ticket Types:**
+Expand this section first, in order to use the anchor links below.
+### Ticket Types
 - [Regular Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#1-regular-ticket-type)
 - [Research Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#2-caia-research-intake-ticket)
 - [EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#3-epic-ticket-type)
 - [Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#4-super-epic-ticket-type)
+### Ticket Details
 - [Labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#labels)
 - [Assignees](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#assignees)
 - [Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ghp-fields)
