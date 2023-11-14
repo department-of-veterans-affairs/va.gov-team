@@ -16,5 +16,4 @@ Additionally, participants using Cerner can:
 - Navigate to My VA Health from the Appointments list.
 - Navigate to My VA Health from the facility selection page.
 - Navigate to My VA Health from MyVA.
-- Navigate to My VA Health from VA.gov. 
 
