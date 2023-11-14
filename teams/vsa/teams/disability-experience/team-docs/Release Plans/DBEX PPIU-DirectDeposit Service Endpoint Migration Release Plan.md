@@ -46,6 +46,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Makes a call to `BenefitsClaims::Service` `get_claims`
     - Claims controller exists: `modules/claims_api/app/controllers/claims_api/v2/veterans/claims_controller.rb`
     - Supposedly EVSS as well? `app/controllers/v0/evss_claims_controller.rb`
+- Potential Risks:
+  - If LH breaks or our implementation is wrong, the user might not be able to submit because the translate action happens on the controller side. We would see it right away because we'd see user feedback right away because they wouldn't be able to submit. This is going to be part 2 of our dashboard (the #submit_all_claim dashabord would see that it's failed, and we could look to see if it's the direct_deposit call that's failing.) We'd see it right away because it's part of the foreground controller level rather than in a background job or prefill, etc. 
+  - In the in-progress part, the prefill wouldn't be prefilled and we wouldn't know there's an error because it gets swallowed before that point. We could see this on our dashboard (we're tracking this one.) 
 
 <br>
 
