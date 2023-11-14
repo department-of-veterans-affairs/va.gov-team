@@ -19,7 +19,8 @@
     - CC Mobile PO 
  - Example email:
     - Attach text file for app description
-    - Send Github link for them to get the new images 
+    - Send Github link for them to get the new images
+ - After email is sent, go to Microsoft Teams and DM Donna Rodriguez with the request  
 
 ## Things to Note
  - Zip file of images will not work when sending an email to the group above
