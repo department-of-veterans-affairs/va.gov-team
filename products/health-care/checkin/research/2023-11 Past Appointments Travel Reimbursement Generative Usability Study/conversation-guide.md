@@ -126,7 +126,7 @@ _When complete_
 
 - Do you have any questions about that before we get started?
 
-- Ok, I’m sending you the prototype in the chat/email. You can go ahead and select that link and share your screen.
+- Ok, I’m sending you the prototype in the chat/email. You can go ahead and select that link.
 
 _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 
