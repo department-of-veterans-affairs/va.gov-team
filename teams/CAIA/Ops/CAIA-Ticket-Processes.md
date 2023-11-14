@@ -32,7 +32,7 @@ The purpose of this documentation is to establish a clear way of work for the CA
 3. Processes
 4. Ticket Closeout
 5. Meetings
-6. Tickets, assignees, and labels
+6. [Tickets, assignees, and labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-and-labels)
 7. Sample Journey
 
 <hr>
@@ -135,6 +135,16 @@ During refinement, both assignees and labels can be removed from the ticket as a
 
 During planning, assignees will be added to tickets to indicate that there is a work involvement expectation from that team member. In other words, they’re doing the work.
 
-
-
 </details>
+
+## Sample Journey
+
+**This is a sample scenario for a high priority ticket created by a VFS team using the standard CAIA intake request form** 
+
+1. Intake comes in from the `VFS Team` on Thursday of week 1 in the sprint.
+2. GHP picks up the label and adds this new ticket to `New Stuff`  in GHP. The filter in this column put new tickets at the top, sorted by date. This is dependent on the`Date Opened` field being filled out.
+3. Email is also created and sent to everyone on the assignee list as the ticket is created
+4. Representative from xyz team should post a follow up notification in our DSVA Slack Channel
+5. Leads then look at the ticket on their week 1&2 Monday Refinement session and determine ticket priority, and needs to be completed by  date.
+   - These fields are then filled out in the ticket in GHP and the ticket - now refined - moved to `Ready`
+   - Someone is assigned to the work based on their current capacity/workload
