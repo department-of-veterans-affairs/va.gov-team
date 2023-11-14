@@ -130,6 +130,37 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **1. The ease of use of the financial status report form (streamlined waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
 
+**2. The experience of navigating through the form if the participant was fully reliant on the screen reader (if blind) or if they were partially reliant on the screen reader (if low vision) presented different opportunities and challenges.**
+
+**3.  We found that users of screen readers were extraordinarily patient.**
+
+
+**UX/UI findings**
+
+**Satisfaction Findings**
+
+**The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
+
+
+## Details of Findings 
+
+_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+
+
+_To add images: ![text](link - add image to github folder and link here with .png)_
+
+
+**Finding 1**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+
+**Navigation findings**
+
+**1. The ease of use of the financial status report form (streamlined waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
+
 Though we had a small sample, we do note that the 2 participants who struggled the most and were not successful signing in were using Dolphin Guide. Due to limitations of the Dolphin Guide technology, one participant was not able to activate the screen reader while in Zoom. This might be more indicative of a limitation of Dolphin Guide than of its success reading the FSR form. This should be noted for future AT studies that extra measures should be put in place for users of Dolphin Guide to successfully participate in AT interviews. 
 
 The 2 participants who completed the form until the review page (P5) and the confirmation page (P6) were using JAWS and VoiceOver, respectively. P9 (using VoiceOver) might have been successful in signing in to the form if there had not been a staging error. He reviewed the Wizard and Introduction pages. P8 (using JAWS) was able to sign in and got to the contact info section before running out of time. 
@@ -152,54 +183,25 @@ Although the login process was time consuming and frustrating, participants were
 
 For this study, we used a staging test account. The form link had to be shared with participants to their email or to the Zoom chat. Participants had to manually retrieve the email and open the link, navigate back to the Zoom, and share their screen. They had to go through the Wizard, intro page, and then the login page. The user ID and password were shared with them verbally.
 
+**UX/UI findings**
 
 
+**Satisfaction Findings**
 
-## Details of Findings 
+**The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+P5 likened their preference to filling out a paper form by hand in one sitting, and P6 also expressed wanting the form to be read to them.
 
+P5 felt the built in accessibility was good. P6 said it was "frustrating", however mentioned that they started to understand the <cancel> and <back> button.
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+*I personally would have all that information on one big form and just fill it out, like if I was writing it out by hand. Because the 'wizards' and all that stuff are extra steps that aren't necessary. You're going to enter the information one way or the other,  there are a couple of places in there where it was helpful and also some where it was confusing because you had to jump in and out of forms mode. If I could have got to this page and arrowed down and read the whole form at one time so I knew what was going to be asked of me, and go to forms mode until I hit submit, for me personally that would be easier.  - P5*
 
+*I think you're doing a good job with your accessibility features. There were no areas where I didn't know what it was. There are a few places where it could be tweaked. For the most part it was very accessible. - P5*
 
-**Finding 1**
+*It was frustrating. Because the screen reader it was skipping over things and not reading them to me. And the continue and the back was frustrating. Because to me, I'm in the form and it looks like with that cancel it looks like it was a form within a form. Which is confusing because I'm in just one form. And then some of the text it didn't go to. It would start with the heading and jump to options instead of reading the title of the options for me. - P6*
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+*However it's formatted in the system, or if - I would have something where it was built into the form where it would read it to you, like my gmail reads me my emails, my adobe acrobat has its own reader, a lot of the news stations now have this thing where it reads it to you. I don't know if that's possible where it reads it to you.
+Why do I need a whole screen reader? Why can't you just read it to me? - P6*
 
 
 ## Additional Insights
