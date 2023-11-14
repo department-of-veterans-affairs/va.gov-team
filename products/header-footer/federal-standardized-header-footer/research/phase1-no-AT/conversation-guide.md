@@ -184,6 +184,8 @@ I would like you to share your screen with me so that I can see what you do duri
 ### Task 1: [Open prototype] 
 I'd like you to look at a web page and tell me about what you see. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that we're still working on this, and some parts will work, and other parts will not.
 
+*Decide which prototype to show--desktop or mobile--based on device that participant is using during this session.*
+
 I will *[dictate/put into the Zoom chat]* the URL for you: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **TBD**)*
 
@@ -211,6 +213,8 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - What does this mean to you?
 - Can you talk about what's below that? *(VA seal and dept. name)*
 - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
+
+*RECORD navigation: header / footer / search / mobile search*
  
 ### Task 3: [Find VA location]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
