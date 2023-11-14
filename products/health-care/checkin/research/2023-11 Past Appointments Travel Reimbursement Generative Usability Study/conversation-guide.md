@@ -179,7 +179,7 @@ _**Participant is at Appointment list:**_
 - Where were you expecting to end up?
 
 - Now let’s take a look at what’s on this page. Can you briefly walk me through it?
-  - Things to watch for: Task cards, are they helpful? Do they mention them? 
+  - _Things to watch for: Task cards, are they helpful? Do they mention them?_ 
 - _If needed:_
   - What did you expect to be on this page?
   - Is anything here confusing?
@@ -199,7 +199,7 @@ _**If on detail page:**_
 - Is there anything confusing about this page and the information included here?
 - _(Non-screen reader users)_ Did you notice the dot with a message? What does it seem like that was referring to?
 - _(Screen reader users)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
-  - Things to watch for: Is there confusion around the detail page H1 / aria label?
+  - _Things to watch for: Is there confusion around the detail page H1 / aria label?_
 - Ok, go ahead and continue through the process of filing your claim
 
 **_Participant is on intro page:_**
@@ -283,7 +283,7 @@ _**On details page:**_
 
 ## Consent to use video clips
 - I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with some of our VA colleagues?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA colleagues with the purpose of improving VA.gov and other digital experiences for Veterans.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+   - _If yes:_ Is there any part of our discussion you would NOT want shared in a video clip?
 
 
 ## Thank you and Closing - 1 minute
