@@ -6,9 +6,8 @@ _[DRAFT]_
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - Complete any project-specific setup tasks for this study (List them below)
-- [ ] Double check prototype
-- [ ] Step 2
-- [ ] Step 3
+   - [ ] Double check prototype
+
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
