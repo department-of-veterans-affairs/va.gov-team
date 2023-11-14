@@ -49,7 +49,7 @@ _Start recording._
 
 ## Section 1: Warm-Up Questions (2 minutes)
 
-Before we look at the site, I have a few questions first, as it would be great to learn more about you and how you use the VA for health and benefits.
+Before we look at the site, I have a few questions. 
 
 - What type of device are you joining us on today? 
 - How do you usually schedule and manage your VA appointments?
@@ -57,12 +57,15 @@ Before we look at the site, I have a few questions first, as it would be great t
 
 ## Section 2: Screen share (5 minutes)
 
-- During our session today, I am going to ask you to login to VA.gov so we can see how the appointments tool works for you. To do this I will neeed you to share your screen. I can walk you through how to start the screen share. 
+During our session today, I am going to ask you to give us your feedback on the appointments tool on VA.gov.
+
+To do this I will neeed you to share your screen. I can walk you through how to start the screen share. 
 
 _Help participant share screen_
 _[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) \
 [Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 
+_If successful_
 - Great, I’m seeing your screen.
 
 ## Section 3: UAT Tasks (30-45 min)
@@ -76,18 +79,19 @@ Tasks to test:
 
 ---
 
-Now, I'd like you to navigate to VA.gov.
+Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, to help me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+
+PROMPT: First, I'd like you to navigate to VA.gov.
 
 PROMPT: From here, can you find your appointments?
 
+NOTE: Take note of the path they took to the appointments tool. In the last task, you'll ask them to return to any others they missed.
+
 _PAUSE When they have arrived on the appointments screen_
 
-PROMPT: How was the process of logging in?
+PROMPT: Let's pause here for a moment. How was the process of logging in?
 
-**Things to Note:**
-- Note any challenges with logging in.
-- What path did they take to the appointments tool?
-- Did they hit My VA? Static Landing Page?
+PROMPT: It's at this point that we'll be able to see your appointments. If at any point you want to stop the session, you're free to do so.
 
 ### Task : Appointments Tool First Impressions (5 minutes)
 
@@ -96,22 +100,24 @@ PROMPT: Tell me about this page.
 
 ### Task : Navigate around the appointments tool
 
-Tasks to test
+Tasks to test:
 - Navigate to their past appointments.
-- Navigate to a details page.
-- Navigate from a details page back to a list page using the back link.
 - Navigate to their pending appointments.
-
+- Navigate to a details page.
+   - Navigate from a details page back to a list page using the back link.
 ---
 
-Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+PROMPT: Explore this tool. While you do, tell me about the information it provides.
 
-PROMPT: You are curious the last time you visited your provider, where would you go to find out the date of your last appointment?  Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
+Once all tasks are complete,
 
-- Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-- Once they navigate to past appointments ask them to expand one of them.
+QUESTION: How is the appointments page is working for you? Were there any challenges? Is anything working well?
 
-PROMPT: How would you go back to your list of upcoming appointments?
+_Use the following prompts only if they don't discover the features while exploring the pages_
+
+- How would you review appointments you had earlier in the year?
+- How would you review appointments you've requested but that haven't been scheduled yet?
+- How would you go back to your list of [appointments/requests]?
 
 **Things to Note:**
 
