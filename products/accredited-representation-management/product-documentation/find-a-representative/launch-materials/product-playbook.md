@@ -12,7 +12,7 @@
 
 - DSVA Product Lead: Zach Goldfine, zachary.goldfine@va.gov
 - Team Product Manager: Lindsay Li-Smith, lindsay.li-smith@oddball.io
-- [Full team roster](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management#team)
+- [Full team roster](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management#team-members)
 
 ### Outage Contacts:
 
