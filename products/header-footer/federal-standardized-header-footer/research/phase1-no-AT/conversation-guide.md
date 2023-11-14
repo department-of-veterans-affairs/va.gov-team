@@ -194,18 +194,19 @@ Did you get the link?
 
 
 ### Task 2: [First impressions]
-I would like you to tell me about what you see on this web page.
+I would like you to take some time to look over this web page, and then tell me about it.
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
-*RECORD everything they say, including anything +/-/neutral about...*
+*RECORD everything they say, especially anything +/-/neutral about...*
 - USA at top of page 
 - USA in footer 
 - VA seal in header
 - Purpose of page
-- Is this an official government website?
+- Official government website?
+- From the VA?
 
 *If participant needs prompting:*
-- What do you think this page is for?
+- What do you think this page is for or about?
 - Can you tell me about the very top of this page? *(USA Government)*
 - What does this mean to you?
 - Can you talk about what's below that? *(VA seal and dept. name)*
@@ -214,7 +215,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 ### Task 3: [Find VA location]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
 
-*RECORD navigation: header / footer > VA forms / search / mobile search > Find a VA location*
+*RECORD navigation: header / footer > Find a VA location / search / mobile search > Find a VA location*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -228,7 +229,7 @@ Let's say that lately you've been having difficulty with your hearing, and you t
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 
-### Task 4B: [Learn about education benefits]--IF *HAVE* VA DISABILITY
+### OR Task 4B: [Learn about education benefits]--IF *HAVE* VA DISABILITY
 Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What could you do from this web page?  
 
 *RECORD navigation: megamenu > Education and training / footer / search / mobile search*
@@ -237,7 +238,7 @@ Let's say that you're considering going back to school to get your degree, and y
 
 
 ### Task 5: [Find a Form]
-Now you've decided to apply for [disability OR education] benefits. How would you do that online, starting from this web page?
+Now you've decided to apply for *[disability OR education]* benefits. How would you do that online, starting from this web page?
 
 *RECORD navigation: megamenu > Education and training or Disability / footer > VA forms / search / mobile search > Find a VA form*
 
@@ -247,7 +248,7 @@ Now you've decided to apply for [disability OR education] benefits. How would yo
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
 
-*RECORD navigation: megamenu / footer > Careers at VA / search / mobile search*
+*RECORD navigation: megamenu > Careers and employment / footer > Careers at VA / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
