@@ -1,14 +1,11 @@
 # Conversation Guide - MHV on VA.gov UAT
 
-
 ## Moderator logistics
-
 
 ### 2-3 days before the session:
 
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
 - Complete any project-specific setup tasks for this study
-
 
 ### Day of the session:
 
@@ -50,15 +47,13 @@ _Start recording._
 
 - Is it ok if we record this session?
 
-
-## Section 1: Warm-Up Questions (5 minutes)
+## Section 1: Warm-Up Questions (2 minutes)
 
 Before we look at the site, I have a few questions first, as it would be great to learn more about you and how you use the VA for health and benefits.
 
 - What type of device are you joining us on today? 
 - How do you usually schedule and manage your VA appointments?
    - Do you ever use MyHealtheVet, VA.gov, (_if Cerner_) or My VA Health?
-
 
 ## Section 2: Screen share (5 minutes)
 
@@ -68,52 +63,98 @@ _Help participant share screen_
 _[iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) \
 [Android: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 
-
 - Great, I’m seeing your screen.
 
-## Section 3: UAT Tasks (45 min)
+## Section 3: UAT Tasks (30-45 min)
 
 ### Task 1: Log in (5-20 minutes)
 
-- Now, I'd like you to navigate to VA.gov.
+Tasks to test:
+- Log in to VA.gov
+- Navigate to the Appointments tool from VA.gov.
+- Navigate to the Appointments tool from MyVA.
 
-- From here, could you find your upcoming appointments?
+---
 
-**Notes:**
-- What path did they take to upcoming appointments?
+Now, I'd like you to navigate to VA.gov.
 
+PROMPT: From here, can you find your appointments?
 
-### Task 2: Appointments Tool First impressions (5 minutes)
+_PAUSE When they have arrived on the appointments screen_
 
-- I want to direct your attention to the website now. What are your first impressions when you first click on the appointments tool and are directed to the appointment page.
-    - Please describe this first screen. 
-    - What stands out to you <span style="text-decoration:underline;">first</span> when you opened this website?
-- Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+PROMPT: How was the process of logging in?
 
+**Things to Note:**
+- Note any challenges with logging in.
+- What path did they take to the appointments tool?
+- Did they hit My VA? Static Landing Page?
 
-### Task : Breadcrumb and URL updates/ Descriptive back (10 minutes)
+### Task : Appointments Tool First Impressions (5 minutes)
 
-- PROMPT: You are curious the last time you visited your provider, where would you go to find out the date of your last appointment?  Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
+PROMPT: Tell me about this page. 
+   - What are your first impressions? What can you do here? 
+
+### Task : Navigate around the appointments tool
+
+Tasks to test
+- Navigate to their past appointments.
+- Navigate to a details page.
+- Navigate from a details page back to a list page using the back link.
+- Navigate to their pending appointments.
+
+---
+
+Now, I am going to give you a series of tasks for you to do on the website. Please think out loud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+
+PROMPT: You are curious the last time you visited your provider, where would you go to find out the date of your last appointment?  Without activating anything, where do you think you’d find that? You can look/swipe around the screen, just don’t activate anything.
+
 - Go ahead and use the website to complete the task. Once you’re there, stop and wait for the next instruction.
-Once they navigate to past appointments ask them to expand one of them. Now ask "how would you go back to your list of upcoming appointments?
+- Once they navigate to past appointments ask them to expand one of them.
+
+PROMPT: How would you go back to your list of upcoming appointments?
+
+**Things to Note:**
+
 Observe as they navigate. Are the breadcrumbs accurate? Are they using the descriptive back button? Do they mentions using it as they think out loud?"
 
-### Task 4: Print appointment details (10 minutes)
+### Task : Print appointment list
+
+Tasks to test: print an appointments list
+
+-----
 
 - PROMPT: Imagine you want to print the details for an upcoming appointment. Without activating anything, where do you think you’d find that?
 - TASK 1: Go ahead and use the website to complete the task but don't actually print it. 
      *_If not successful: Help them navigate to where they need to go. Note where they have trouble._
 - TASK 2: Navigate to a past appointment to do the same thing but again, you do not have to print anything.
-- TASK 2: If you have a pending appointment, go ahead and do the same thing. 
+- TASK 2: If you have a pending appointment, go ahead and do the same thing.
 
-## Section 4: Mental Model Tasks (-- min)
+### Task : (Non-Cerner) Navigate to MyHealtheVet using the breadcrumb 
+Tasks to test:
+- Navigate to the Appointments tool from the MHV on VA.gov home page.
+- Navigate to the MHV on VA.gov home page from the Appointments tool using the breadcrumb.
 
-### Task : Facility/clinic selection for direct scheduling(10 minutes)
+---
 
-- PROMPT: Say you wanted to schedule an appointment at your VA facility. Without activating anything, how do you think you would do that from here? You can look/swipe around the screen, just don’t activate anything.
-- I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
+### Task : (Cerner) Navigate to MyHealtheVet using the breadcrumb 
 
-Stop them on the facility selection page:
+Tasks to test:
+- Navigate to My VA Health from the Appointments list.
+- Navigate to My VA Health from the facility selection page.
+- Navigate to My VA Health from MyVA.
+- Navigate to My VA Health from VA.gov.
+
+----
+
+## Section 4: Mental Model Tasks (15 min)
+
+### Task : Facility/Clinic Selection for Direct Scheduling(10 minutes)
+
+PROMPT: Say you wanted to schedule an appointment at your VA facility. Without activating anything, how do you think you would do that from here? You can look/swipe around the screen, just don’t activate anything.
+
+I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
+
+PAUSE on the facility selection page:
 - How do you feel about selecting a facility here?
 - If you could have any other information about this facility, what would it be?
 
@@ -127,30 +168,26 @@ Thank you for sharing that. We'll stop here so we don't schedule this appointmen
 
 Are you familiar with community care?
 
-**IF YES:**
+_IF YES:_
     - Tell me what you know about it. It helps us to hear about things in your own words to make sure we're using plain language when we describe them.
     - Have you ever scheduled an appointment through community care?
 
 PROMPT: Say you wanted to make a community care appointment. Without activating anything, how do you think you would do that from here?
-- I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
+   - I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
 
 _Stop them on the provider list of the provider selection page._
 
-- How do you feel about selecting a provider here?
+- How was the process of selecting a provider here?
 - If you could have any other information about this provider, what would it be?
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
-**IF NO:**
- - You likely won't be able to schedule community care appointments, but let's check. Could you try to schedule a podiatry appointment? I won't ask you to schedule the appointment, we'll just start the process.
+_IF NO:_
+You likely won't be able to schedule community care appointments, but let's check. Could you try to schedule a podiatry appointment? I won't ask you to schedule the appointment, we'll just start the process.
 
 ## Section : Thank You and Closing (5 minutes)
 
-
-### Task: Website Exit
-
-- Ok, we are finished with the website today. You can stop sharing your screen, and feel free to close any windows you opened in the process. 
-
+PROMPT: Ok, we are finished with the website today. You can stop sharing your screen, and feel free to close any windows you opened in the process. 
 
 ### Wrap up questions
 
@@ -167,9 +204,8 @@ Well we really appreciate you taking the time to share your thoughts with us. Yo
 
 Thank you so much again, and enjoy the rest of your day!
 
-
 ## Emergency Exit Strategy
 
-If we need to exit the session for any reason, use the following:
+_If we need to exit the session for any reason, use the following:_
 
-- We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+We have covered all the questions I have for you today. Thank you so much for your time and feedback.
