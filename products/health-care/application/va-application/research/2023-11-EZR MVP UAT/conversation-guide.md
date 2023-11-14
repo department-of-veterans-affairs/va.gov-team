@@ -118,7 +118,7 @@ Let’s start with a few warm-up questions.
 ## Fourth Task: [The Form] - 10 minutes
 
 - For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit since we're still testing the form and its features.
-- As you go through the form, could you please talk aloud about what you would need to do as you go?
+- As you go through the form, please use real information as if you were actually filling out the form. And could you please talk aloud about what you would need to do as you go?
 
 **Participant questions** 
 - What are your expectations regarding the prefilling feature?
@@ -127,9 +127,11 @@ Let’s start with a few warm-up questions.
 - You can use fake information for fields like SSN and I can help prompt you with information if needed.
 
 **Stop the Participant at the REVIEW PAGE** 
-- Since we've reached the end of the form, we can stop the study here. And could you please close out of the window? We want to avoid submitting that form.
+- Since we've reached the end of the form, we want to avoid submitting the form and clearing the information you just entered.
+- To do that, please click on the "finish this form later" link located above the "Back" button.
+- Then click on the "Start a new form" button. This will clear out the information you've just entered.
+- From here, you can close out of this window and we have concluded our study. You can stop screen sharing as well.
 - Once the final version is released and you are prompted to update your health care benefits information using this form, it may look a little different.
-- You can also stop screen sharing.
 
 ### Things to watch for:
 
