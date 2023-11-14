@@ -166,13 +166,14 @@ Let’s start with a few questions...
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(RECORD)* 
 
-1. Do you have any experience with VA health care? 
+1. What VA benefits, if any, do you have experience with? 
+    - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
 
-1. Do you get disability compensation from VA?
-
+1. How do you typically get information and benefits from the VA? 
+    - *(Google / Facebook / MHV / eBenefits / Contact center call/email / VA.gov / ________________________)*
 
 ## User Tasks
-Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
+Now I'm going to ask you to do some things... 
 
 ### Screen sharing
 I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me the same thing you see on your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
@@ -180,7 +181,7 @@ I would like you to share your screen with me so that I can see what you do duri
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
-### Task 1: [] 
+### Task 1: [First impressions] 
 If you wanted to 
 
 - *RECORD what they do: *
