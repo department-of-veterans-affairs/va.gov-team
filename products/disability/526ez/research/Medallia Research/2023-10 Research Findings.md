@@ -6,7 +6,7 @@ Date: October 2023
 
 Nichole Nicholas, Julie Pedtke, & Evelyn Hilbrich-Davis
 
-View [Research readout](link here)
+View [Research readout]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/Medallia%20Research%20Share-Out.pdf))
 
 ## Executive Summary 
 The purpose of this research is to understand user pain points and areas of improvement when submitting the 526ez application and to evaluate how Medallia survey data can be used in our research practice. 
