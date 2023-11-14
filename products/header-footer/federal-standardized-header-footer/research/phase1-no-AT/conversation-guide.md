@@ -182,7 +182,7 @@ I would like you to share your screen with me so that I can see what you do duri
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 ### Task 1: [Open prototype] 
-I'd like you to look at a web page and tell me about what you see. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. 
+I'd like you to look at a web page and tell me about what you see. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that we're still working on this, and some parts will work, and other parts will not.
 
 I will *[dictate/put into the Zoom chat]* the URL for you: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **TBD**)*
@@ -212,6 +212,61 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
  
 ### Task 3: [Find VA location]
+I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
+
+*RECORD navigation: header / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
+### Task 4: [Learn about education benefits]
+Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What could you do from this web page?  
+
+*RECORD navigation: megamenu / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
+### Task 5: [Find a Form]
+Let's say 
+
+*RECORD navigation: megamenu / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
+### Task 6: [Careers at VA]
+Let's say 
+
+*RECORD navigation: megamenu / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
+
+### Task 7: [Mental health help]
+Let's say 
+
+*RECORD navigation: megamenu / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
+
+### Task X: []
+Let's say 
+
+*RECORD navigation: megamenu / footer / search / mobile search*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+Is there another way that you could do this task from this web page?
+
 
 
 ## Post-Task Interview - 7 minutes
