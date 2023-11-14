@@ -28,7 +28,7 @@ The purpose of this documentation is to establish a clear way of work for the CA
 
 ## Also in this Doc
 1. [Global Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#global-definitions)
-2. Ticket Creation
+2. [Ticket Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ticket-creation)
 3. Processes
 4. Ticket Closeout
 5. Meetings
