@@ -48,7 +48,8 @@ ________________________________________________________________________________
             - Note: Need to wait on new wireframe, was originally designed to go out with Unified Check-in: Priority 1 userflow. See above ticket
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - 🟥 Waiting for feedback from CAIA (TBD) (to finish up CodePen, identify participant research dates, submit research plan to Shane Strassberg, and submit CAIA ticket for research a11y support)
-      - 🟥 [[UX][Design][Content] Create wireframe with content for when Veteran selects a direct link after 30 days](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68923)
+      - 🟥 [[Design] Create wireframe for when Veteran selects direct link after 30 days](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68923)
+      - 🟥 [[Content] Create Content for when Veteran selects direct link after 30 days](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69879)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
@@ -81,7 +82,6 @@ ________________________________________________________________________________
          - 🟩 [[FE] Switch headings and body and icons to v3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69829)
          - 🟩 [[FE] DS v3 #3: Update slim alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
          - 🟩 [[FE] DS v3 #5: Update buttons](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65597) 
-
 
 -------------- END FUTURE / TENTATIVE ---------------
 __________________________________________________________________________________________________________________________________________________________
