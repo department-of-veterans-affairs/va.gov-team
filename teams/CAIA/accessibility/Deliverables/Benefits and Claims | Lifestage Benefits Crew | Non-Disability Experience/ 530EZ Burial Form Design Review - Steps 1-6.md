@@ -9,7 +9,7 @@
 
 ## CAIA Auditor(s)
 - SK (Sarah Koomson) - auditor
-- Sara Smith (ticket prep)
+- Sara Smith -ticket prep/deliverable final adjustments
 - Jamie Klenetsky Fay - auditor
 
 ## Testing Coverage: 
