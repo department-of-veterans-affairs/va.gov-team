@@ -73,3 +73,15 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 - **Reviewing and assessing tickets in the backlog** to ensure they do not get forgotten and seeing if they can be pulled into the current `Ready` or `In Progress` work streams.
 - **Reviewing and assessing tickets in “Blocked”** to see if they can be unblocked or if not, who needs to be notified or informed to get it unblocked.
 </details>
+
+## Ticket Creation
+1. [CAIA Intake Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) is filled out by VFS team. 
+2. Ticket automatically assigns `Terry` and `Lily` and adds the `sitewide CAIA`label.
+3. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Stuff` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1).
+    - **Default assignees:** Terry, Lily
+    - **Default Labels:** Sitewide CAIA
+    - **Note:** A ticket must have the `sitewide CAIA` label to exist in GH Projects!
+    - **Additional Views:**
+        - [Grouped by Intake](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/3)
+        - [Grouped by Tracked By](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/50)
+        - [Grouped by Lane](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46)
