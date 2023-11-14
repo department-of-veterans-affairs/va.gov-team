@@ -75,9 +75,9 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 ## General travel questions: 5-10 minutes
 We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
 
-- Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience?  (What's the experience now?) 
+- Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience? 
 
-- If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like?  (What’s the ideal situation?)
+- If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like? 
 
 - And can you tell me a little about how you think about your travel reimbursement claims in relation to your other claims, such as [EXAMPLE]?
 
