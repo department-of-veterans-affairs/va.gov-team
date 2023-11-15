@@ -8,8 +8,11 @@ Nichole Nicholas, Julie Pedtke, & Evelyn Hilbrich-Davis
 
 View [Research readout]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/Medallia%20Research%20Share-Out.pdf))
 
-## Executive Summary 
-The purpose of this research is to understand user pain points and areas of improvement when submitting the 526ez application and to evaluate how Medallia survey data can be used in our research practice. 
+**Jump to:**
+
+- [Methodology] (#methodology)
+- [Key Findings] (#key-findings)
+- [Recommendations] (#recommendations)
 
 ## Research Goals
 1. Identify and understand pain points and areas of improvement in the current user experience. 
@@ -43,7 +46,7 @@ The purpose of this research is to understand user pain points and areas of impr
 
 See the research deck for more details on our methodology, including templates other team members are welcome to adapt for their own use.
 
-## Research Findings
+## Key Findings
 1. Veterans face blockers that require external support—but sometimes find that help difficult to get. 
 
 2. Certain error messages can lead Veterans to frustrating encounters with the Contact Center. 
@@ -53,6 +56,8 @@ See the research deck for more details on our methodology, including templates o
 4. Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.
 
 5. Veterans reported evidence-related challenges throughout the application. 
+
+See the research deck for more details on our research findings.
 
 ## Recommendations
 Address blockers
