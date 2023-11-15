@@ -366,7 +366,7 @@ async function main() {
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
     //update completed ticket
-    await addLabelToIssue(epicId, labelId);
+    await addLabelToIssue(newTicketId, labelId);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
     await setEstimate(newTicketId);
     await addIssueToCurrentSprint(newTicketId);
