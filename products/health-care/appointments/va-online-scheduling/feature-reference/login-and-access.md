@@ -17,9 +17,9 @@ Appointments is authenticated and has some access requirements that Veterans mus
 - A message must display to any non-registered veterans informing them they must be registered at a VAMC to use VAOS.  
 
 **Technical Notes**
-- To determine registered facilities, front end uses the facilities information provided by the VA profile team. 
-- VA Profile teams gets the registered facilities from the VA’s Enrollment System team.
-- The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA when a veteran is registered and/or key information on veteran is edited (this task needs to be running in the VistA instance:  IVM Background Job).    
+- To determine registered facilities, front end uses the facilities information provided by the VA Profile team. 
+- The VA Profile team gets the registered facilities from the VA's Enrollment System team.
+- The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA to the Enrollment system when a veteran is registered and/or key information on veteran is edited in Vista. The IVM Background job must be queued to send the Z07s from VistA to the Enrollment System.        
 
 
 ## Specifications

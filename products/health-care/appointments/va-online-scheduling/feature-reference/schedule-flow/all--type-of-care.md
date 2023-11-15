@@ -13,7 +13,7 @@ Veterans are asked what type of care they'd like to receive.
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - A user must choose a type of care to enter any of the scheduling flows.
-- The type of care they choose, their community care eligibility, and the facilitie's configuration in CCM determines what methods they may be able to schedule by:
+- The type of care they choose, their community care eligibility, and the facility's configuration in CCM determines what methods they may be able to schedule by:
   - VAOS has preset types of care that may be scheduled by different methods (Direct Schedule, Request, etc.) - see the _Allowable methods of scheduling_ table.
   - Facilities can also configure (in CCM) the methods of scheduling that they allow for each type of care, within the VAOS limits.
   - See the community care requirements that follow for more on how this affects the scheduling methods.
@@ -41,16 +41,16 @@ Veterans are asked what type of care they'd like to receive.
 
 **1: Community Care requirements**
 - A user must be eligible for community care to request community care appointments.
-  - Community care eligibility is checked 
-    - After the type of care page
-    - If a user has chosen a type of care that supports community care:
+  - Community care eligibility is checked: 
+    - After the type of care page.
+    - If a user has chosen a type of care that supports community care.
   - A user is eligible if two checks pass:
-    - The user is registered at a site that is marked as accepting community care requests
-    - AND the community care eligibility API says that they're eligible for the type of care they chose
-    - If a user is community care eligible for the type of care they chose, 
-  - If a user is eligible for community care:
-    - If the user does not have a residential address, they are shown an alert on this page with a link to the va.gov profile.
-    - They will see a facility type page where they can choose between making a request for a VA appointment or for a community care provider.
+    - The user is registered at a site that is marked as accepting community care requests,
+    - AND the community care eligibility API says that they're eligible for the type of care they chose.
+  - If a user is community care eligible for the type of care they chose, 
+    - AND the user does not have a residential address, they are shown an alert on this page with a link to the va.gov profile.
+    - They will be shown the [choose location category page](./all--choose-location-category.md) where they can choose between making a request for a VA appointment or for a community care provider.
+    - AND they select Audiology, the user will be shown the [Choose a Type of Audiology Care page](./choose-a-type-of-audiology-care.md) to select a routine hearing exam or hearing add support.  
   - If a user is not eligible for community care:
     - AND the user selects Podiatry, a message informing the user to call the VAMC must display.
 - Primary care is available for CC only if the user has never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team]

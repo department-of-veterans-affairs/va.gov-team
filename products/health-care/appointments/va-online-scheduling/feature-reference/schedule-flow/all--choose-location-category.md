@@ -13,9 +13,20 @@ This question sends Veterans down either the path of finding care at a VA facili
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- Users are sent to the VA facilities page if they choose to make a request at a VA facility
+- Users are sent to the [VA facilities](./) page if they choose to make a request at a VA facility
 - Users are sent to the calendar page if they chose to make a community care request
     - This is not true if the user has chosen audiology, in which case they are first sent to a page to choose the specific type of audiology appointment they need
+
+- Community Care Specialty Care eligible veterans must be allowed to select either VA or Community Care if the following types of care have been previously selected.  
+   - Audiology and speech
+   - Nutrition
+   - Optometry
+- Community Care Primary Care eligible veterans must be able to select VA or Community Care.  
+- A user not eligible for Specialty or Primary Care Community Care must not be presented with the option to select community care.  
+
+
+
+
 
 ## Specifications
 

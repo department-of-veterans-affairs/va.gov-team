@@ -2,6 +2,7 @@
 
 ## Overview
 Veterans are asked to choose where they'd like to receive their care between a VA or community care facility. 
+
 ## User stories
 
 - As a Veteran I want to choose where I will receive care.
@@ -27,9 +28,18 @@ Veterans are asked to choose where they'd like to receive their care between a V
 
 ### Facility type page
 
-- Users are sent to the VA facilities page if they choose to make a request at a VA facility
-- Users are sent to the calendar page if they chose to make a community care request
-    - This is not true if the user has chosen audiology, in which case they are first sent to a page to choose the specific type of audiology appointment they need
+- Users are sent to the [Choose a VA location page](va-direct--choose-location.md) if they choose to make a request at a VA facility
+- Users are sent to the [Choose a preferred date page](./cc-request--preferred-date.md) if they chose to make a community care request
+    - EXCEPT if the user has chosen audiology, in which case they are first sent to a page to choose the specific type of audiology appointment they need.
+
+
+
+### Technical Notes
+   - VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  
+   - The API determines CC eligibility
+       - Checks the veteran’s community care eligibility code in the Enrollment System to see if eligibility code makes veteran eligible for Community Care.  Only certain CC eligibility codes make a veteran eligible for community care.  
+       - If a veteran does not have a community care eligibility code in the Enrollment System that enables veteran for Community Care, then the API will check drive time to any VAMC that offers that requested type of care.  Drive time standards are 30 minutes for Primary Care and 60 minutes for Specialty Care and is based on the drive times from veteran’s home address to any VA medical facility that offers that type of care.  
+       - Primary Care eligibility has an additional check.   To be eligible for primary care veteran must meet either of the above two conditions and must NOT have an assigned active Patient Aligned Care Team (PACT).  In other words, Community Care eligible veterans that have an active PACT are not allowed to request Community Care primary care.  
 
 ## Specifications
 

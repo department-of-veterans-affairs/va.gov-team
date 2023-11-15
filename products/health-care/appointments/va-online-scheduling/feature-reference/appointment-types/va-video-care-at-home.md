@@ -18,7 +18,7 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 - Follows [requirements for adding appointments to calendar](../tools/tool-add-to-calendar.md#requirements).
 - Follows [requirements for printing appointments](../tools/tool-print.md#requirements).
 
-- Video Visit at home appointments must display a link to join the appointment  
+- Display a link to join the appointment:
   - The video visit link must display as active for 30 minutes prior to the appointment and for 4 hours after.
   - Video Visit appointments (`kind = telehealth`) without telehealth links must display additional instructions to the veteran regarding the missing links
     
@@ -43,6 +43,11 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | Call to Reschedule Alert                                   | ✅        |      |          |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
+
+
+### Technical notes
+
+See [Creating Video Visits in VistA](../appointment-types/all-appointment-types.md#creating-video-visits-in-vista).
 
 ## Specifications
 
@@ -89,6 +94,7 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 - [State content](Add link)
 
 ## Technical design
+
 <!-- Endpoints and sample responses -->
 
 **Staging URL:** [Add staging URL]
