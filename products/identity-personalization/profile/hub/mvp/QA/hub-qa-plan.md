@@ -10,7 +10,7 @@
 |Description| Notes |
 |---|---|
 | [PM Ticket for Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68860)|  |
-| QA Testing Ticket |  |
+| [QA Testing Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69415) |  |
 | QA Plan / Scenarios | |
 |accessible qa test page|  |
 
