@@ -24,7 +24,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 - [ ] Address Validator in Lighthouse is ready for use (backend)
 
 
-#### Go/No Go meeting on 12/1 at 11:30p ET (8:30a PT)
+#### Go/No Go meeting on 12/1 at 11:30a ET (8:30a PT)
 
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
