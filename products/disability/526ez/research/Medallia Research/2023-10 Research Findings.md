@@ -8,11 +8,6 @@ Nichole Nicholas, Julie Pedtke, & Evelyn Hilbrich-Davis
 
 View [Research readout]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/Medallia%20Research%20Share-Out.pdf))
 
-**Jump to:**
-
-- [Methodology] (#methodology)
-- [Key Findings] (#key-findings)
-- [Recommendations] (#recommendations)
 
 ## Research Goals
 1. Identify and understand pain points and areas of improvement in the current user experience. 
