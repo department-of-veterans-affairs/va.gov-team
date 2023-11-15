@@ -137,9 +137,15 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **UX/UI findings**
 
+**4.   The login process was time-consuming and led to many participants running out of time to interact with the form.**
+
+**5.   Two participants were confused by the cancel button on the Work History List Loop**
+
+**6.   VoiceOver is not reading transition pages**
+
 **Satisfaction Findings**
 
-**The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
+**7.The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
 
 
 ## Details of Findings 
@@ -185,10 +191,26 @@ For this study, we used a staging test account. The form link had to be shared w
 
 **UX/UI findings**
 
+**4.  The login process was time consuming and led to many participants running out of time to interact with form.**
+
+The 2 participants that were unsuccessful in signing in were using Dolphin Guide. The front end team is exploring options for creating an unauthenticated form for future usability studies.
+
+**5.  Two participants were confused by the cancel button on the Work History List Loop**
+
+One participant stated they thought the "cancel" button would cancel the whole form (P6, VoiceOver).
+
+The same participant accidentally hit <back> and wasn’t sure where they were in the form.
+
+*I started to understand the cancel and the back button if it jumped ahead. And if it jumped ahead, I wasn't sure if it jumped ahead or back, because I don't know where I am in the form, in my head, because I don't… when I jumped, had I jumped ahead or back? - P6
+It was good that it didn't kick me out of the form entirely. But the use of the commands was a little confusing. Back or cancel. If it's cancel, I think I'm cancelling the entire form.  - P6*
+
+**6.  VoiceOver is not reading transition pages**
+
+This is an issue with Focus attribute and has been documented previously.
 
 **Satisfaction Findings**
 
-**The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
+**7. The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
 
 P5 likened their preference to filling out a paper form by hand in one sitting, and P6 also expressed wanting the form to be read to them.
 
@@ -208,6 +230,17 @@ Why do I need a whole screen reader? Why can't you just read it to me? - P6*
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
+**-   Expandable help section was not reading for 1 participant on VoiceOver (P6)**
+
+**-   The review page was confusing for P5 (JAWS)**
+
+*There were drop down boxes there that would show what I already had entered. It was in a heading and a drop down box inside of a list. That is rather confusing. I didn't know if I could hit enter on that or not. So I would take those drop downs out of the heading. You're putting 2 forms at once in the same place and that confuses me at least. - P5*
+
+**-   Signature field is not announced on JAWS (P5 didn't know he was signing a form)**
+
+**-   On certain form questions, the VoiceOver was jumping to the question selections without reading the question first (P6)**
+
+*Is there anything confusing on this page or something you are unsure of (Spouse’s Other Income page)? My screen reader jumps from the title to the selection. I can’t read the line above it. The other ones where the choices were yes or no it would eventually read the line above it. Okay there it goes I had to get the box up there to read it. - P6*
 
 ## Recommendations
 
