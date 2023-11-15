@@ -54,6 +54,14 @@ Clinics with the following attributes must NOT present to the Veteran for direct
 Stop codes for video telehealth -  https://coderepo.mobilehealth.va.gov/projects/MACM/repos/vaec-map-consul-staging-tf-appconfigs/browse/vaos-service.tf?at=sqa#25
 
 
+- The direct scheduling eligibility call is done first followed by the request eligibility call. VAOS calls a CDW stored procedure that looks for an active PACT assignment, finds the default Provider for the PACT and checks for the clinics associated with that Provider. Clinics are returned to VAOS and will be display unless filtered according to the business rules stated above.
+- For eligibility checks the past appointment can be at any location at either Child or Parent for eligibility to be true. Parent inherits any Child appointment(s) for eligibility check AND Children inherit Parent’s appointment(s) for eligibility check. 
+- Appointment status is only relevant when CCM/VATS is set to Yes Last Seen within 12 or 36 months. In VistA SDAM roll and scroll interface the status shows as Encounter Status/Appointment Status:  Act Req/Checked In. VSE GUI only displays the Appointment status. The Encounter status is NOT displayed. 
+-  VAMC staff would/should never set a clinic with a secondary stop code of 450, Compensation and Pension,  to Direct Schedule = YES.    If this is happening this is bad practice by the site and VAOS would show as a normal clinic appointment.  
+- The request limit for Primary Care is one. Specialty care can set to one or two as desired by the site.    
+
+
+
 ## Determining community care eligibliity
 - VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  
 - A user is eligible for community care if two checks pass:
