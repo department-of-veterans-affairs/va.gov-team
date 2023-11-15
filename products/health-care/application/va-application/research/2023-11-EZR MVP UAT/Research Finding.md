@@ -159,26 +159,26 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/transcripts)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699465139971/bb160160c2b0c2fc6bd32eedbdf01058da158e97?sender=ubf5503bf47b6eb1e92730053)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+- VA.gov website
 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+----
 
 
 ## Secondary research
@@ -189,12 +189,8 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 We talked to **x participants.**
 
