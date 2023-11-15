@@ -11,8 +11,8 @@
 |---|---|
 | [PM Ticket for Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68860)|  |
 | [QA Testing Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69415) |  |
-| QA Plan / Scenarios | |
-|accessible qa test page|  |
+| [QA Plan / Scenarios](https://docs.google.com/spreadsheets/d/1NfYZh4LFTVw8ZFbiv9AVkLipvxdzwwD7lKv3t7V8QMo/edit?usp=sharing) | |
+|accessible qa test page |  |
 
 
 ## QA Plan 
