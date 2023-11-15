@@ -111,13 +111,22 @@ _Hypothesis statement_
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 1. We hypothesize that the eFSR/Streamlined Waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
+
 **Maybe true**
 
+The FSR experience through the screen reader was not cohesive across participants due to different screen reader types and unique navigating styles. More details in finding #1. Still, it would appear that across these different experiences, there are improvements that can be made to enhance the screen reader experience. 
+
 2.  While we think it will be usable, we also believe that accessibility issues identified in an internal accessibility audit, may take away from the experience.
+
 **Likely true**
 
+This was confirmed in this study, and some of the issues already documented previously appeared in the interviews as well. 
+
 3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
+   
 **Likely true**
+
+This was true for the 2 participants that reached the end of the form. More details on finding 7. 
 
 
 ## Key Findings
@@ -246,6 +255,11 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 - One participant was very involved in a blind Veterans organization and he noted that he did not know any other JAWS users. Other blind Veterans that he knew did not use technology. He noted that it was important to mail information as opposed to email as these Veterans did not have email addresses.
 
+- One participant's sentiment about the introductory page request to know about financial assets being "scary" echoed what others said in a previous study
+>"it had a lot of threatening, scary concepts in there. You wanted to know about my assets and then later on it said they wont take a home or other things away from you. Then why would you ask, knowing it then of course you’d take them."
+>-P6
+>
+
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
@@ -259,6 +273,8 @@ _Put together initial recommendations here based on your findings along with sup
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
+
+UX team is currently working on implementation of recommendations. 
 
 
 ## Further research needed
@@ -288,6 +304,12 @@ Participants used a staging account to log in to https://staging.va.gov/manage-v
 ## Other supporting documents created
 
 [Streamlined Waiver (FSR) userflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?sender=ua78f969c4cddcbfe56b27885)
+
+[Internal Accessibility Audit]
+(https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66288)
+
+[Accessibility Planning Mural]
+(https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694032659442/5a2fcb1903a1f7bed360f9abe6784b1b701503c3?sender=u144a57b408dc250f8de06881)
 
 
 ## Secondary research
