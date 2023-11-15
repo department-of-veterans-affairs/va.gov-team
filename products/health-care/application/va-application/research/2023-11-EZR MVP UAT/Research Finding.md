@@ -27,38 +27,37 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. Before deciding to build this form, the team ran a generative research study, digging into one of the most common use cases for making an update to health care information (changing financial info). We learned in this study that most Veterans associated financial information with themselves and would expect to make updates to that information in either their VA profile or the MyHealth hub. While it would be preferable to only collect the information that has changed, per the Paperwork Reduction Act (PRA), we will collect all information together in one form submission. That means the MVP of the digital form will not differ much from the paper form, however, we plan to iterate on this approach in future versions. We'll usability test the MVP version of the new digital form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed. The four main sections are:
 
-_Then, describe your goals for this research_
+- Veteran information
+- Household financial information
+- Insurance information
+- Review
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+This MVP effort will go through the collaboration cycle and this study will happen post the midpoint review.
 
 
 ## Research Questions
 
-_Research questions here_
+*Wayfinding*
+   - Are participants able to find their way to the 10-10EZR?
+   - Is the wayfinding, such as the breadcrumbs and the form placement, clear to participants?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+*Intro Page Content*
+   - Do participants understand that they need to fill out a form to update their information?
+   - Is any of the content unclear or does it confuse participants, rather than make them more comfortable with starting the form?
+   - Is there any reason why participants would not fill out the form?
 
-
-* Question 
-* Question
-* Question
+*Usability*
+   - How do participants move through the form? Are there any blockers or points where they get stuck?
+   - Does any of the form content stand out or distract participants?
+   - Are participants able to complete the form without major issues?
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+We conducted hour-long moderated semi-structured interviews, including one task-based scenario, on Zoom from November 13-20, 2023.
 
 ## Hypotheses and Conclusions
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
 _Hypothesis statement_
 
