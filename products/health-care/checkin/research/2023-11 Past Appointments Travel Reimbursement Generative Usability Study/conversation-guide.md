@@ -255,11 +255,12 @@ _**Participant is on details page for second appointment**_
 - Why do you think this is ____ status? 
   - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
 
-
-- Thank you. And lastly, if you still had questions about your claim status, how would you find out more info about that status?
+- Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - Where did you expect that link to take you?
   - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
 
+- Thanks. And lastly, taking a moment to review this whole page. Is there anything confusing about this page and the information included here?
+  - _If not mentioned:_ What do you think "type of care not noted" means?
 
 ----
 
