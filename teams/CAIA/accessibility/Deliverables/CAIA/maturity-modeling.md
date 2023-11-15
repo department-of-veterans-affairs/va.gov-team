@@ -9,3 +9,14 @@ A few key considerations:
 - tool should prioritize helping teams over rating products
 - tool isn't meant to be punitive, but to provide a useful way for teams to identify their processes, and as a way for support groups like CAIA to quickly understand a team's approach to accessibility
 
+Facets to consider, as brainstormed by the wider community of practice for accessibility: 
+
+- does the team have an embedded accessibility specialist
+- has anyone on the team completed the champs program
+- does the team regularly produce testing plans that include accessibility
+- does the team have metrics that account for accessibility
+- is there collaboration between designers, engineers, and accessibility specialists
+- are experimental patterns reviewed by accessibility specialists before they are used
+- does the team regularly conduct inclusive research sessions
+- has the team successfully completed (some number of) staging reviews with no major accessibility findings
+- does the team annotate its prototypes with useful accessibility information
