@@ -17,13 +17,14 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 |---|---|
 ⬜ | Not Started |
 🟨 | In Progress |
+🟧 | Paused |
 🟩 | Done |
 🟥 | Blocked |
 
 | Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes | Docs |
 |---|---|---|:---:|:---:|---|---|:---:|
 Status | GET /ping | Dynamics | 🟩 | 🟨 | integration | | [link](Status_Ping.md)  |
-Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ | design | | [link](Form_GetTopics.md) |
+Form | GET /topics?[id] | Dynamics | 🟨 | ⬜ | design | | [link](Form_GetTopics.md) |
 Form | GET /alerts | Dynamics | ⬜ | ⬜ | design | | [link](Form_RetrieveBannerMessage.md) |
 Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | design | | [link](Form_RetrieveInquiryStatus.md) |
 Form | GET /facilities?[code] | Lighthouse | ⬜ | ⬜ | design |  | [link](Form_MedicalFacilities.md) |
@@ -37,5 +38,5 @@ Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | design | |  [link
 Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_SubmitAReply.md) |
 Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_UploadFile.md) |
 Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ | design | | [link] |
-Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
-Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ | design | |  [link](Form_SubmitInquiry.md) |
+Dashboard | GET /profile | VA Profile | 🟧 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
+Form | PUT /inquiry/new | Dynamics | 🟧 | ⬜ | design | |  [link](Form_SubmitInquiry.md) |
