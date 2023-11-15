@@ -220,7 +220,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 ### Task 3: [Find VA location]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
 
-*RECORD navigation: **header > Find a VA location** / search / **mobile search > Find a VA location***
+*RECORD navigation: **header > Find a VA location** / search / **mobile search > Find a VA location*** / footer
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
