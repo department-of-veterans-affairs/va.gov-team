@@ -128,10 +128,9 @@ Based on user research findings and navigation/traffic analytics, consider:
 - **Team Name**: Accredited Representation Management
 - **GitHub Label**: accredited-representation-management-team
 - **Slack channel**: #benefits-representation-management
-- Product POCs:
 - Stakeholders: Dr. Brandi Taylor (Office of Business Automation)
 
-#### Team Members
+#### Team Leads
  
  - **DEPO Lead**: Zach Goldfine
  - **PM**: Lindsay Li-Smith
