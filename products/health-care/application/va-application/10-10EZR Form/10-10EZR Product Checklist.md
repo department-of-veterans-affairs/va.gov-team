@@ -47,7 +47,7 @@
      - [Test cases](https://dsvavsp.testrail.****io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
      - [Test plans](https://dsvavsp.testrail.io/index.php?/runs/view/4963&group_by=cases:section_id&group_order=asc)
      - Test runs
-- Accessibility Testing ticket
+- [Accessibility Testing ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69253)
 - [Technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZR%20Form/Engineering) (architecture diagram, sequence diagram)
 - Any [new publicly-exposed endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/Engineering/Endpoints.md)
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
