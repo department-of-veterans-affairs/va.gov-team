@@ -641,27 +641,27 @@ _Finish this application later_
 # Request a Higher-Level Review
 VA Form 20-0996 (Higher-Level Review)
 
-_Success alert_
+Success alert:
 
-## You’ve successfully submitted your request
-We’ll review your request. We may contact you for more information or other documents.  print this page for your records.
+    Header: We’ve received your Higher-Level Review request
+    Body: After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
-### Request a Board Appeal (Form 10182)
+### Your information for this claim
 
-#### Your NAME
+#### Your name
 Veteran Name 
 
-#### Date submitted
+#### Date you filed your claim
 
 Month Day, Year
 
-#### Issue(s) submitted
+#### Issue(s) for review
 
-* My Issue
+• My Issue
 
-* Another Issue
+• Another Issue
 
-Button: [Print this for your records]
+Button: **Print this for your records**
 
 ### After you request a decision review
 
