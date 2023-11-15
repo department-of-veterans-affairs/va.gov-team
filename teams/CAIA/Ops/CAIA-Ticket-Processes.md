@@ -43,30 +43,20 @@ _The purpose of this documentation is to establish a clear way of work for the C
 _Review the terms and definitions utlizied by the CAIA Team._ 
 
 <details><summary>Toggle to view CAIA definitions</summary>
-  
-### Ticket
-A method to track a work requirement. In Github they are used to track issues at the repository level. Tickets contain the details of the issue and the steps or work required to meet the definition of done.
 
-### Issue
-An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue. With VA, however, tickets can contain more than one issue, and so the best way to think of it is that a ticket is a ‘bucket’ or ‘repository’ for issues.
+| **Term** | Definition |
+|------------------------|------------------|
+| **Ticket**                   | A method to track a work requirement. In Github they are used to track issues at the repository level. Tickets contain the details of the issue and the steps or work required to meet the definition of done.|
+| **Issue**                   |     An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue. With VA, however, tickets can contain more than one issue, and so the best way to think of it is that a ticket is a ‘bucket’ or ‘repository’ for issues.| 
+| **EPIC**                   |     An overarching grouping of tasks (or sub-tasks) that contain several smaller `Issues`, also known as `User Stories`. | 
+| **Task**                   |     In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be as simple as a checklist item, or they can be multi-functional, when it is converted into an issue. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will tell you the number of tasks completed and overall, along with a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) | 
+| **Repository**                   |     A place where a project’s files, version history, and resources live. In CAIA, we operate in the VA.gov-team repository.| 
+| **Pipeline**                   |     A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The start point for our pipeline is `New Stuff` and the end point is `Closed`.| 
+| **Refinement**                   |     The process of reviewing and assessing tickets in the various stages of the CAIA pipeline - Ready, Backlog etc - in an effort to progress them through the pipeline to a closed status. Includes the following: raw tickets, backlog and blocked. | 
+| **Refinement**: Raw Tickets| Reviewing & assessing raw tickets as they come into the `New Stuff` column.|
+| **Refinement**: Backlog |Reviewing and assessing tickets in the backlog to ensure they do not get forgotten and seeing if they can be pulled into the current `Ready` or `In Progress` work streams.|
+| **Refinement**: Blocked |Reviewing and assessing tickets in `Blocked`  to see if they can be unblocked or if not, who needs to be notified or informed to get it unblocked.|
 
-### EPIC
-An overarching grouping of tasks (or sub-tasks) that contain several smaller `Issues`, also known as `User Stories`.
-
-### Task
-In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be as simple as a checklist item, or they can be multi-functional, when it is converted into an issue. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will tell you the number of tasks completed and overall, along with a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
-
-### Repository
-A place where a project’s files, version history, and resources live. In CAIA, we operate in the VA.gov-team repository.
-
-### Pipeline
-A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The start point for our pipeline is `New Stuff` and the end point is `Closed`.
-
-### Refinement
-The process of reviewing and assessing tickets in the various stages of the CAIA pipeline - Ready, Backlog etc - in an effort to progress them through the pipeline to a closed status. Includes the following:
-- **Reviewing & assessing raw tickets** as they come into the `New Stuff` column.
-- **Reviewing and assessing tickets in the backlog** to ensure they do not get forgotten and seeing if they can be pulled into the current `Ready` or `In Progress` work streams.
-- **Reviewing and assessing tickets in “Blocked”** to see if they can be unblocked or if not, who needs to be notified or informed to get it unblocked.
 </details>
 
 ## Ticket Creation
