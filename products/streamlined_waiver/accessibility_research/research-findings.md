@@ -7,11 +7,11 @@ Date: 10/24/23 - 11/3/23
 
 UX Team: 
 
-[Charlotte Cesana - UX Researcher & Moderator] [charlotte@cityfriends.tech], [Megan Gayle - UX Researcher/Designer] [megan.gayle@govcio.com], [Joseph Lee - UX Designer] [joseph@cityfriends.tech]
+[Charlotte Cesana - UX Researcher & Moderator](charlotte@cityfriends.tech), [Megan Gayle - UX Researcher/Designer](megan.gayle@govcio.com), [Joseph Lee - UX Designer](joseph@cityfriends.tech)
 
 Accessibility/CAIA Team:  
 
-[Angela Fowler - Accessibility Specialist] [angela.fowler@adhocteam.us], [Sarah Koomson - Accessibility Engineer] [Sarah.Koomson@oddball.io], [Sara Smith - Sitewide CAIA, 508 Accessibility Specialist] [Sara.Smith@oddball.io]
+[Angela Fowler - Accessibility Specialist](angela.fowler@adhocteam.us), [Sarah Koomson - Accessibility Engineer](Sarah.Koomson@oddball.io), [Sara Smith - Sitewide CAIA, 508 Accessibility Specialist](Sara.Smith@oddball.io)
 
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
@@ -26,7 +26,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
+
 
 _The Veteran Journey_
 
@@ -153,23 +153,20 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
-
-Labels: label 1, label 2 
+Labels: Accessibility, AST: Screen readers, DSC: Accordions, DSC: Alert boxes, DSC: Additional info, DSC: Buttons, 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 
 **Navigation findings**
 
-**1. The ease of use of the financial status report form (streamlined waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
+**1. The ease of use of the Financial Status Report form (Streamlined Waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
 
 Though we had a small sample, we do note that the 2 participants who struggled the most and were not successful signing in were using Dolphin Guide. Due to limitations of the Dolphin Guide technology, one participant was not able to activate the screen reader while in Zoom. This might be more indicative of a limitation of Dolphin Guide than of its success reading the FSR form. This should be noted for future AT studies that extra measures should be put in place for users of Dolphin Guide to successfully participate in AT interviews. 
 
-The 2 participants who completed the form until the review page (P5) and the confirmation page (P6) were using JAWS and VoiceOver, respectively. P9 (using VoiceOver) might have been successful in signing in to the form if there had not been a staging error. He reviewed the Wizard and Introduction pages. P8 (using JAWS) was able to sign in and got to the contact info section before running out of time. 
+The 2 participants who completed the form until the review page (P5) and the confirmation page (P6) were using JAWS and VoiceOver, respectively. P11 (using VoiceOver) might have been successful in signing in to the form if there had not been a staging error. He reviewed the Wizard and Introduction pages. P8 (using JAWS) was able to sign in and got to the contact info section before running out of time. 
 
 We noted that in addition to JAWS and VoiceOver requiring different commands, they also read differently. 
 
@@ -177,15 +174,15 @@ Additionally, the sample of Veterans we spoke to sometimes had different systems
 
 **2. The experience of navigating through the form if the participant was fully reliant on the screen reader (if blind) or if they were partially reliant on the screen reader (if low vision) presented different opportunities and challenges.**
 
-2 participants reported being visually impaired but not blind. These participants used the screen reader some of the time and their vision the rest of the time to progress through the form. P6 has peripheral vision and uses their screen reader 20% of the time. One of the challenges that surfaced was that certain elements on the page were visually bothersome to participants with low vision. For example, P6 stated that the auto-save colored box was bothering them.
+2 participants reported being visually impaired but not totally blind. These participants used the screen reader some of the time and their vision the rest of the time to progress through the form. P6 has peripheral vision and uses their screen reader 20% of the time. One of the challenges that surfaced was that certain elements on the page were visually bothersome to participants with low vision as they knew the elements were there but did not know what they said or what purpose they had. For example, P6 stated that the auto-save green box was distracting them.
 
-*How do you feel about the flash? It bothers me because it seems like I should be looking at it. If it flashes I should look at it. I don’t know what to do with it because it is flashing and not treating it like text. When it flashes you want to know what it is saying. I cant see what it says but I know it is flashing. (p6, VoiceOver)*
+>"How do you feel about the flash? It bothers me because it seems like I should be looking at it. If it flashes I should look at it. I don’t know what to do with it because it is flashing and not treating it like text. When it flashes you want to know what it is saying. I cant see what it says but I know it is flashing." -P6 (VoiceOver)
 
-One of the opportunities was that, low-vision participants could use their vision to click in places where the screen reader was not reading the intended text. 
+Low-vision participants used their vision to click on places where the screen reader was not reading the intended text. 
 
 **3.  We found that users of screen readers were extraordinarily patient.**
 
-Although the login process was time consuming and frustrating, participants were in good spirits and eager to continue to complete tasks until our 90 minutes ran out. Login took anywhere from ~ 15 minutes - 50 minutes. There is an opportunity to make the VA.gov sign in experience more accessible.
+Although the login process was time consuming and frustrating, participants were in good spirits and eager to continue to complete tasks until our 90 minutes ran out. Login took anywhere from 15 to 50 minutes. There is an opportunity to make the VA.gov sign in experience more accessible.
 
 For this study, we used a staging test account. The form link had to be shared with participants to their email or to the Zoom chat. Participants had to manually retrieve the email and open the link, navigate back to the Zoom, and share their screen. They had to go through the Wizard, intro page, and then the login page. The user ID and password were shared with them verbally.
 
@@ -199,14 +196,15 @@ The 2 participants that were unsuccessful in signing in were using Dolphin Guide
 
 One participant stated they thought the "cancel" button would cancel the whole form (P6, VoiceOver).
 
-The same participant accidentally hit <back> and wasn’t sure where they were in the form.
+The same participant accidentally hit "back" and wasn’t sure where they were in the form.
 
-*I started to understand the cancel and the back button if it jumped ahead. And if it jumped ahead, I wasn't sure if it jumped ahead or back, because I don't know where I am in the form, in my head, because I don't… when I jumped, had I jumped ahead or back? - P6
-It was good that it didn't kick me out of the form entirely. But the use of the commands was a little confusing. Back or cancel. If it's cancel, I think I'm cancelling the entire form.  - P6*
+>"I started to understand the cancel and the back button if it jumped ahead. And if it jumped ahead, I wasn't sure if it jumped ahead or back, because I don't know where I am in the form, in my head, because I don't… when I jumped, had I jumped ahead or back?" - P6
 
-**6.  VoiceOver is not reading transition pages**
+>"It was good that it didn't kick me out of the form entirely. But the use of the commands was a little confusing. Back or cancel. If it's cancel, I think I'm cancelling the entire form."  - P6
 
-This is an issue with Focus attribute and has been documented previously.
+**6.  VoiceOver is not reading all information including the Transition page**
+
+There is an issue with Focus attribute and has been documented previously that is causing the Transition page to be skipped by VoiceOver users. Other components where information was not being read by VoiceOver include the "Additional Information" accordion component as well as information near a question on a form page.
 
 **Satisfaction Findings**
 
@@ -214,42 +212,48 @@ This is an issue with Focus attribute and has been documented previously.
 
 P5 likened their preference to filling out a paper form by hand in one sitting, and P6 also expressed wanting the form to be read to them.
 
-P5 felt the built in accessibility was good. P6 said it was "frustrating", however mentioned that they started to understand the <cancel> and <back> button.
+P5 felt the built in accessibility was good. P6 said it was "frustrating", however mentioned that they started to understand the "cancel" and "back" button.
 
 *I personally would have all that information on one big form and just fill it out, like if I was writing it out by hand. Because the 'wizards' and all that stuff are extra steps that aren't necessary. You're going to enter the information one way or the other,  there are a couple of places in there where it was helpful and also some where it was confusing because you had to jump in and out of forms mode. If I could have got to this page and arrowed down and read the whole form at one time so I knew what was going to be asked of me, and go to forms mode until I hit submit, for me personally that would be easier.  - P5*
 
 *I think you're doing a good job with your accessibility features. There were no areas where I didn't know what it was. There are a few places where it could be tweaked. For the most part it was very accessible. - P5*
 
-*It was frustrating. Because the screen reader it was skipping over things and not reading them to me. And the continue and the back was frustrating. Because to me, I'm in the form and it looks like with that cancel it looks like it was a form within a form. Which is confusing because I'm in just one form. And then some of the text it didn't go to. It would start with the heading and jump to options instead of reading the title of the options for me. - P6*
+>"It was frustrating. Because the screen reader it was skipping over things and not reading them to me. And the continue and the back was frustrating. Because to me, I'm in the form and it looks like with that cancel it looks like it was a form within a form. Which is confusing because I'm in just one form. And then some of the text it didn't go to. It would start with the heading and jump to options instead of reading the title of the options for me." - P6
 
-*However it's formatted in the system, or if - I would have something where it was built into the form where it would read it to you, like my gmail reads me my emails, my adobe acrobat has its own reader, a lot of the news stations now have this thing where it reads it to you. I don't know if that's possible where it reads it to you.
-Why do I need a whole screen reader? Why can't you just read it to me? - P6*
+>"However it's formatted in the system, or if – I would have something where it was built into the form where it would read it to you, like my gmail reads me my emails, my adobe acrobat has its own reader, a lot of the news stations now have this thing where it reads it to you. I don't know if that's possible where it reads it to you.
+Why do I need a whole screen reader? Why can't you just read it to me?" - P6
 
 
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-**-   Expandable help section was not reading for 1 participant on VoiceOver (P6)**
 
-**-   The review page was confusing for P5 (JAWS)**
+-   The Review page was confusing for P5 (JAWS)
 
-*There were drop down boxes there that would show what I already had entered. It was in a heading and a drop down box inside of a list. That is rather confusing. I didn't know if I could hit enter on that or not. So I would take those drop downs out of the heading. You're putting 2 forms at once in the same place and that confuses me at least. - P5*
+>"There were drop down boxes there that would show what I already had entered. It was in a heading and a drop down box inside of a list. That is rather confusing. I didn't know if I could hit enter on that or not. So I would take those drop downs out of the heading. You're putting 2 forms at once in the same place and that confuses me at least. "
+>-P5
 
-**-   Signature field is not announced on JAWS (P5 didn't know he was signing a form)**
+-   On the Confirmation page, P5 didn't know he was signing a form as the signature field was not announced on JAWS.
 
-**-   On certain form questions, the VoiceOver was jumping to the question selections without reading the question first (P6)**
+-  Expandable ["Additional information" component](https://design.va.gov/components/additional-info) was not reading for one participant on VoiceOver (P6).
 
-*Is there anything confusing on this page or something you are unsure of (Spouse’s Other Income page)? My screen reader jumps from the title to the selection. I can’t read the line above it. The other ones where the choices were yes or no it would eventually read the line above it. Okay there it goes I had to get the box up there to read it. - P6*
+-  On certain form questions, VoiceOver was jumping to the question selections without reading the question first (P6).
+
+ >  "Is there anything confusing on this page or something you are unsure of (Spouse’s Other Income page)? My screen reader jumps from the title to the selection. I can’t read the line above it. The other ones where the choices were yes or no it would eventually read the line above it. Okay there it goes I had to get the box up there to read it." - P6
+
+- After reading the Introduction/Steps page, one participant noted that the suggestion, "If you need help with your request, contact a local Veterans Service Organization (VSO)" was not helpful as it can take months to talk to a VSO. 
+
+- One participant was very involved in a blind Veterans organization and he noted that he did not know any other JAWS users. Other blind Veterans that he knew did not use technology. He noted that it was important to mail information as opposed to email as these Veterans did not have email addresses.
 
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Ensure that users are able to Focus on all elements of the page. VoiceOver users were unable to read the Transition page because it would not properly focus on certain elements of the page. 
+
+* Update buttons to read "back" and "continue". Avoid using buttons that read "cancel" as screenreader users may believe it cancels out the entire form.
+
 
 
 ## Next Steps
@@ -259,39 +263,37 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+We were not able to test the FSR with anyone who uses Dolphin Guide as this software is focused on one task at a time. Participants were unable to successfully screenshare while using Dolphin Guide.
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/streamlined_waiver/accessibility_research/transcripts)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+- [Mural board for notes, debriefs, and synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696346289615/93f9eb8128362c51c6e5a9d4cd91bea0c5a8de5d?sender=ua78f969c4cddcbfe56b27885)  
+- [Google Spreadsheet for notes](https://docs.google.com/spreadsheets/d/1YjkBWRCJ128471B3CkRLvyciI0O809xz/edit?usp=sharing&ouid=115672389253010174314&rtpof=true&sd=true)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+Participants used a staging account to log in to https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+[Streamlined Waiver (FSR) userflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?sender=ua78f969c4cddcbfe56b27885)
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+- [Streamlined Waiver (FSR) Research 08/2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/streamlined_waiver/research)
+- [Enhanced Finanncial Status Report Research 06/2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/enhanced_fsr)
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -300,7 +302,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Participant Baseline**
 
-This sample of participants was varied in terms of the type of screen reader they were using (JAWS, VoiceOver, or Dolphin Guide) and their level of proficiency with screen readers. P5 completed the form up to the review page, p6 completed the entire form up to confirmation page, P8 got to the form until 'contact info' section, P9 only saw the Wizard and Intro page. P3 and P7 did not get past the sign in process (they were both using Dolphin Guide).
+This sample of participants was varied in terms of the type of screen reader they were using (JAWS, VoiceOver, or Dolphin Guide) and their level of proficiency with screen readers. P5 completed the form up to the review page, p6 completed the entire form up to confirmation page, P8 got to the form until 'contact info' section, P11 only saw the Wizard and Intro page. P3 and P7 did not get past the sign in process (they were both using Dolphin Guide).
 
 * 2 participants were using Dolphin Guide, 2 participants were using JAWS, 2 participants were using VoiceOver
 
@@ -310,13 +312,13 @@ This sample of participants was varied in terms of the type of screen reader the
 
 * P5 has been using JAWS and has been using screen readers for 25 years. They use their arrow keys to navigate through a form and the tab key to fill out a form.
 
-* P6 has been using VoiceOver and stated they are more comfortable with VO on the phone than on Mac. They use VoiceOver only 20% of the time because they have peripheral vision. Stated VoiceOver differs between iPhone and Mac. They stated they use Adobe Acrobat to fill out forms (they like that they can download the form and it can read them the page).
+* P6 has been using VoiceOver and stated they are more comfortable with VoiceOver  on the phone than on Mac. They use VoiceOver only 20% of the time because they have peripheral vision. Stated VoiceOver differs between iPhone and Mac. They stated they use Adobe Acrobat to fill out forms (they like that they can download the form and it can read them the page).
 
 * P7 was using Dolphin Guide on the phone, the only type of screen reader they have ever used. To navigate through a page:  "It comes up and the verbal part talks to me and tells me what it does and reads it off to me what is on the screen then I can speak back. That’s where I am having the issue. Its not getting my words back. Today I am having all kinds of trouble it seems."
 
-* P8 has been using JAWS and stated they are 'fairly comfortable' using it and can do a variety of tasks with it (send emails, use excel spreadsheets). Said "I am not an expert but I can do it" and "learning to navigate is a continual learning process". Said they have a "system" to navigate pages and forms, they view heading lists and navigate by link. P8 had never visited the VA.gov website even though they go to the VA a lot.
+* P8 has been using JAWS and stated they are 'fairly comfortable' using it and can do a variety of tasks with it (send emails, use excel spreadsheets). Said "I am not an expert but I can do it" and "learning to navigate is a continual learning process". Said they have a "system" to navigate pages and forms, they view heading lists and navigate by link. P8 had never visited the VA.gov website even though they go to VA facilities a lot.
 
-* P9 has been using VoiceOver for 10 years and said they are "very comfortable" using it. Accomplishes tasks on desktop by keyboard and on the phone it's "swipe and touch gestures". The most recent form they filled out was for a VA Clinic which eventually they had to do over the phone because it wasn't completely accessible. Explains why:  "If it was yes or no it would read the question and it would say yes. It was a check box and the screen reader would say unchecked but there was no way to interact with the box to check it. Some sighted users could use the mouse to click and it would work but I couldn’t get it to work with my screen reader."
+* P11 has been using VoiceOver for 10 years and said they are "very comfortable" using it. Accomplishes tasks on desktop by keyboard and on the phone it's "swipe and touch gestures". The most recent form they filled out was for a VA Clinic which eventually they had to do over the phone because it wasn't completely accessible. Explains why:  "If it was yes or no it would read the question and it would say yes. It was a check box and the screen reader would say unchecked but there was no way to interact with the box to check it. Some sighted users could use the mouse to click and it would work but I couldn’t get it to work with my screen reader."
 
 **Recruitment criteria**
 
@@ -396,10 +398,14 @@ Disability and Assistive Technology (AT):
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Asian Veterans
+* Expat (living abroad)
+
+We did not ask the status on:
+* Cognitive disabilities
+* Immigrant origin
+* Other than honorable
+* LGTBQ+
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
