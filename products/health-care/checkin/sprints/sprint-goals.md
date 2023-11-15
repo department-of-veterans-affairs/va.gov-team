@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 11/15/2023 - 11/29/2023  -------------- FUTURE / TENTATIVE ---------------
+## 11/15/2023 - 11/29/2023  
 #### SPRINT GOALS
  - **GOAL: Ongoing Production Support**
  - **GOAL: Comply with the ATO**
@@ -81,7 +81,6 @@ ________________________________________________________________________________
          - 🟥 [[UX][Design] DS v3 #3: Update slim alerts to v3 in Production pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64829)
          - 🟥 [[Design] Switch to button pairs for v3 to Yes and No buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69841)
 
--------------- END FUTURE / TENTATIVE ---------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 11/1/2023 - 11/14/2023  
