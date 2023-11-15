@@ -108,9 +108,9 @@
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
 - [x] **Request [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67224) - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] [Complete QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67228) and [Accessibility QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67229)
-     - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
-     - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
+- [x] [Complete QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67228) and [Accessibility QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67229)
+     - [x] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
+     - [x] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
 - [x] **Request [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67227) - Refer back to the initial Collaboration Cycle Request ticket**
      - [ ] **Review findings with the team**
      - [ ] **Create tickets for work to be completed before launch**
@@ -118,8 +118,8 @@
 - [x] Update Error matrix documentation with any new error states
 - [x] Update any FE and/or BE Engineering documentation
 - [x] **Request [Privacy, Security, Infrastructure readiness review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67223) - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] **Update [Contact Center guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67220)**
-- [ ] **Submit Contact Center guide review ticket**
+- [x] **Update [Contact Center guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67220)**
+- [x] **Submit Contact Center guide review ticket**
 - [ ] **[Update Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67221)**
      - [ ] **Include E2E test results & signoff**
 - [ ] **Schedule or close all remaining tickets**
