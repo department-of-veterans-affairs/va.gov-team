@@ -68,7 +68,8 @@ Tools for Veterans to schedule or request appointments.
 | All flows | [Choose a type of audiology care](./schedule-flow/all--choose-a-type-of-audiology-care.md) |
 | VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
 | VA direct-schedule | [Cerner location redirect](./schedule-flow/va-direct--cerner-location-redirect.md) |
-| VA direct-schedule | [Choose a clinic](./schedule-flow/va-direct--choose-a-va-clinic.md) |
+| VA direct-schedule | [Choose a clinic](./schedule-flow/va-direct--choose-a-clinic.md) |
+| VA direct-schedule | [Preferred date](./schedule-flow/va-direct--preferred-date.md)
 | VA direct-schedule | [Choose a date](./schedule-flow/va-direct--choose-a-date.md) |
 | VA direct-schedule | [Reason for appointment](./schedule-flow/va-direct--reason-for-appointment.md) |
 | VA direct-schedule | [Confirm contact information](./schedule-flow/va-direct--contact-information.md) |

@@ -1,4 +1,4 @@
-# All type of care
+# Type of Care
 
 ## Overview
 Veterans are asked what type of care they'd like to receive.
@@ -33,10 +33,11 @@ Veterans are asked what type of care they'd like to receive.
 | Nutrition and food                                         | ✅         | ✅          | ✅          |                  |
 | Pharmacy                                                   | ✅         | ✅          |            |                  |
 | Podiatry                                                   |           |            | ✅          |                  |
-| Primary care                                               | ✅         | ✅          | ✅ (1)          |                  |
+| Primary care                                               | ✅         | ✅          | (1)          |                  |
 | Sleep medicine: Continuous Positive Airway Pressure (CPAP) | ✅         | ✅          |            |                  |
 | Sleep medicine: Sleep medicine and home sleep testing      | ✅         | ✅          |            |                  |
 | Social work                                                | ✅         | ✅          |            |
+
 
 
 **1: Community Care requirements**
@@ -53,7 +54,7 @@ Veterans are asked what type of care they'd like to receive.
     - AND they select Audiology, the user will be shown the [Choose a Type of Audiology Care page](./choose-a-type-of-audiology-care.md) to select a routine hearing exam or hearing add support.  
   - If a user is not eligible for community care:
     - AND the user selects Podiatry, a message informing the user to call the VAMC must display.
-- Primary care is available for CC only if the user has never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team]
+- (1) Primary care is available for CC only if the user has never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team]
 
  
 **Continute button logic**
@@ -64,6 +65,23 @@ Veterans are asked what type of care they'd like to receive.
 ### Technical notes
 - The types of care are tied to clinics via stop codes that are [determined by the VA](../vista-appointments-facilities-clinics.md#clinic-stop-codes)
 - VATS Mental Health used to utilize one primary stop with a set of various secondary stop codes.  This was changed and now Mental Health only uses one Mental Health primary stop code,  502, and no secondary stop codes.  This change is reflected in Clinic Configuration Manager (CCM) but not VATS.  
+
+- VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  
+- The API determines CC eligibility:
+    - Checks the veteran’s community care eligibility code in the Enrollment System to see if eligibility code makes veteran eligible for Community Care.  Only certain CC eligibility codes make a veteran eligible for community care.  
+    - If a veteran does not have a community care eligibility code in the Enrollment System that enables veteran for Community Care, then the API will check drive time to any VAMC that offers that requested type of care.  Drive time standards are 30 minutes for Primary Care and 60 minutes for Specialty Care and is based on the drive times from veteran’s home address to any VA medical facility that offers that type of care.  
+    - Primary Care eligibility has an additional check.   To be eligible for primary care veteran must meet either of the above two conditions and must NOT have an assigned active Patient Aligned Care Team (PACT).  In other words, Community Care eligible veterans that have an active PACT are not allowed to request Community Care primary care. 
+
+
+**Clinic restrictions**
+- Except for Primary Care and COVID all types of care have CCM Settings:  
+   1) Yes Any 
+   2) Yes Seen within Last 12 months 
+   3) Yes within last 36 months 
+   4) No     
+-  Primary Care Direct has only two settings, Yes with PACT and No. 
+- Unlike the other types of care which can have up to a limit of two requests at a time, Primary Care has a limit of one.  
+- COVID has Yes and No.  COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.  
 
 ## Specifications
 

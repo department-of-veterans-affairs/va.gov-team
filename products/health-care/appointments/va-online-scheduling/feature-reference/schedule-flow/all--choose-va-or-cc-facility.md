@@ -14,32 +14,17 @@ Veterans are asked to choose where they'd like to receive their care between a V
 
 ### Community care eligibility check
 
-- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
-    - Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
-    - Audiology (for either routine exam or hearing aid support)
-    - Optometry 
-    - Podiatry (currently only available for Community Care)
-    - Nutrition services
 
-- A user is eligibility if two checks pass:
-    - The user is registered at a site that is marked as accepting community care requests
-    - The community care eligibility api says that they're eligible for the type of care they chose
-- If a user is community care eligible for the type of care they chose, then they will see a facility type page where they can choose between making a request for a VA appointment or for a community care provider.
+- The user can choose between making a request for a VA appointment or for a community care provider.
+- This page shows if a user is community care eligible for the type of care they choose. A user who is not eligible for Specialty or Primary Care Community Care must not be presented with the option to select community care.  
 
-### Facility type page
-
-- Users are sent to the [Choose a VA location page](va-direct--choose-location.md) if they choose to make a request at a VA facility
-- Users are sent to the [Choose a preferred date page](./cc-request--preferred-date.md) if they chose to make a community care request
-    - EXCEPT if the user has chosen audiology, in which case they are first sent to a page to choose the specific type of audiology appointment they need.
+**Navigation logic**
+- If the user chooses to make a request at a VA facility, they are sent to the [Choose a VA location page](va-direct--choose-location.md) 
+- If they chose to make a community care request, users are sent to the [Choose a preferred date page](./cc-request--preferred-date.md) 
+    - EXCEPT if the user has chosen audiology, in which case they are first sent to a [page to choose the specific type of audiology appointment they need](./all--choose-a-type-of-audiology-care.md).
 
 
-
-### Technical Notes
-   - VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  
-   - The API determines CC eligibility
-       - Checks the veteran’s community care eligibility code in the Enrollment System to see if eligibility code makes veteran eligible for Community Care.  Only certain CC eligibility codes make a veteran eligible for community care.  
-       - If a veteran does not have a community care eligibility code in the Enrollment System that enables veteran for Community Care, then the API will check drive time to any VAMC that offers that requested type of care.  Drive time standards are 30 minutes for Primary Care and 60 minutes for Specialty Care and is based on the drive times from veteran’s home address to any VA medical facility that offers that type of care.  
-       - Primary Care eligibility has an additional check.   To be eligible for primary care veteran must meet either of the above two conditions and must NOT have an assigned active Patient Aligned Care Team (PACT).  In other words, Community Care eligible veterans that have an active PACT are not allowed to request Community Care primary care.  
+ 
 
 ## Specifications
 

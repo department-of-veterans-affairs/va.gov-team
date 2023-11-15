@@ -12,14 +12,6 @@ Veterans choose between an optometry and ophthalmology appointment.
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 - Eye care, sleep care, and audiology are sub-types, which a user can choose from the page after "type of care"
 
-- Community care eligibility is checked after the type of care page, if a user has chosen a type of care that supports community care:
-
-Primary care (if they have never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team])
-Audiology (for either routine exam or hearing aid support)
-Optometry
-Podiatry (currently only available for Community Care)
-Nutrition services
-
 
 ## Specifications
 
