@@ -20,9 +20,9 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install axios
+      - name: Install dependencies
         run: |
-          npm i axios
+          npm i axios axios-retry
 
       - name: Run  script
         env:
