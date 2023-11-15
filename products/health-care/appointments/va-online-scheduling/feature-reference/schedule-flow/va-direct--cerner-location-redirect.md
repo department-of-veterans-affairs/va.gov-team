@@ -8,9 +8,10 @@ Veterans are asked to choose if they would like to receive care at a Cerner faci
 
 ## Requirements
 
-### Functional
+**Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-**Schedule Cerner page
+
+**Schedule Cerner page**
 - If a user chose a Cerner facility on the facility choice page, no eligibility checks are performed and they're sent to this page.
 - The user is shown the facility contact information and given a link to the Cerner portal.
 - Users can progress no further from here, because VAOS does not support scheduling appointments at Cerner sites

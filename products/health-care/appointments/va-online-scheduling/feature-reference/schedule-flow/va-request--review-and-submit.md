@@ -1,4 +1,4 @@
-# Review and submit - VA Direct Schedule Flow
+# Review and submit - VA Request Flow
 
 ## Overview
 Veterans are asked to review the appointment details and submit. 
@@ -8,10 +8,11 @@ Veterans are asked to review the appointment details and submit.
 - As a Veteran I want to make sure my appointment information is correct before I submit my appointment. 
 - As scheduling staff I need the patient to review their appointment details so that they do not accidentally input incorrect information causing the patient to then need my assistance to cancel and reschedule. 
 
-### Functional
+## Requirements
+
+**Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-### Review page
 
 - The user is presented with the information entered on the previous pages in the form
 - Edit links in different sections take the user back to that page, and the user has to navigate back through the flow again after making their change

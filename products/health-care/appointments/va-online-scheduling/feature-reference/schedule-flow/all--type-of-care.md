@@ -14,11 +14,11 @@ Veterans are asked what type of care they'd like to receive.
 
 - A user must choose a type of care to enter any of the scheduling flows.
 - The type of care they choose, their community care eligibility, and the facility's configuration in CCM determines what methods they may be able to schedule by:
-  - VAOS has preset types of care that may be scheduled by different methods (Direct Schedule, Request, etc.) - see the _Allowable methods of scheduling_ table.
+  - VAOS has preset types of care that may be scheduled by different methods (Direct Schedule, Request, etc.) - see the _Allowable methods of scheduling_ table that follows.
   - Facilities can also configure (in CCM) the methods of scheduling that they allow for each type of care, within the VAOS limits.
   - See the community care requirements that follow for more on how this affects the scheduling methods.
 
-**Allowable methods of scheduling**
+### Allowable methods of scheduling**
 
 | Type of care                                               | VA Direct | VA Request | CC Request (1) | VA COVID Vaccine |
 | ---------------------------------------------------------- | --------- | ---------- | ---------- | ---------------- |
@@ -33,55 +33,30 @@ Veterans are asked what type of care they'd like to receive.
 | Nutrition and food                                         | ✅         | ✅          | ✅          |                  |
 | Pharmacy                                                   | ✅         | ✅          |            |                  |
 | Podiatry                                                   |           |            | ✅          |                  |
-| Primary care                                               | ✅         | ✅          | (1)          |                  |
+| Primary care                                               | ✅         | ✅          |          |                  |
 | Sleep medicine: Continuous Positive Airway Pressure (CPAP) | ✅         | ✅          |            |                  |
 | Sleep medicine: Sleep medicine and home sleep testing      | ✅         | ✅          |            |                  |
 | Social work                                                | ✅         | ✅          |            |
 
-
+See also [determining available types of care for scheduling](../backend-logic.md#determining-available-types-of-care-for-scheduling)
 
 **1: Community Care requirements**
 - A user must be eligible for community care to request community care appointments.
   - Community care eligibility is checked: 
-    - After the type of care page.
-    - If a user has chosen a type of care that supports community care.
-  - A user is eligible if two checks pass:
-    - The user is registered at a site that is marked as accepting community care requests,
-    - AND the community care eligibility API says that they're eligible for the type of care they chose.
+    - If a user has chosen a type of care that supports community care,
+    - After the user clicks continue on the type of care page.
   - If a user is community care eligible for the type of care they chose, 
     - AND the user does not have a residential address, they are shown an alert on this page with a link to the va.gov profile.
-    - They will be shown the [choose location category page](./all--choose-location-category.md) where they can choose between making a request for a VA appointment or for a community care provider.
+    - They will be shown the [choose location category page](./all--choose-va-or-cc-facility.md) where they can choose between making a request for a VA appointment or for a community care provider.
     - AND they select Audiology, the user will be shown the [Choose a Type of Audiology Care page](./choose-a-type-of-audiology-care.md) to select a routine hearing exam or hearing add support.  
   - If a user is not eligible for community care:
     - AND the user selects Podiatry, a message informing the user to call the VAMC must display.
-- (1) Primary care is available for CC only if the user has never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team]
-
+See also [determining community care eligibliity](../backend-logic.md#determining-community-care-eligibliity)
  
-**Continute button logic**
+**Page logic**
 - Eye care, sleep care, and audiology have sub-types, which a user can choose from on the next page
     - For audiology, users are shown the facility type page before choosing the specific audiology type
 
-
-### Technical notes
-- The types of care are tied to clinics via stop codes that are [determined by the VA](../vista-appointments-facilities-clinics.md#clinic-stop-codes)
-- VATS Mental Health used to utilize one primary stop with a set of various secondary stop codes.  This was changed and now Mental Health only uses one Mental Health primary stop code,  502, and no secondary stop codes.  This change is reflected in Clinic Configuration Manager (CCM) but not VATS.  
-
-- VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  
-- The API determines CC eligibility:
-    - Checks the veteran’s community care eligibility code in the Enrollment System to see if eligibility code makes veteran eligible for Community Care.  Only certain CC eligibility codes make a veteran eligible for community care.  
-    - If a veteran does not have a community care eligibility code in the Enrollment System that enables veteran for Community Care, then the API will check drive time to any VAMC that offers that requested type of care.  Drive time standards are 30 minutes for Primary Care and 60 minutes for Specialty Care and is based on the drive times from veteran’s home address to any VA medical facility that offers that type of care.  
-    - Primary Care eligibility has an additional check.   To be eligible for primary care veteran must meet either of the above two conditions and must NOT have an assigned active Patient Aligned Care Team (PACT).  In other words, Community Care eligible veterans that have an active PACT are not allowed to request Community Care primary care. 
-
-
-**Clinic restrictions**
-- Except for Primary Care and COVID all types of care have CCM Settings:  
-   1) Yes Any 
-   2) Yes Seen within Last 12 months 
-   3) Yes within last 36 months 
-   4) No     
--  Primary Care Direct has only two settings, Yes with PACT and No. 
-- Unlike the other types of care which can have up to a limit of two requests at a time, Primary Care has a limit of one.  
-- COVID has Yes and No.  COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.  
 
 ## Specifications
 

@@ -10,10 +10,8 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 
 ## Requirements
 
-### Functional
+**Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-
-### Calendar page (request path)
 
 - Users use a calendar picker to choose their preferred appointment time frames
 - Users are allowed to pick an AM and/or PM slot on each weekday, up to 3 slots.

@@ -9,18 +9,15 @@ Users must choose how they would like to be seen for this appointment.
 - As a <user type> I want <goal> so that <reason>
 
 ## Requirements
-### Preferred modality (request path)
+
+**Functional**
+<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - Users must choose the type of visit they'd like to have
     - Office visit
     - Phone call
     - Video appointment
 - After the user chooses the type of visit, they're sent to the contact info page
-
-**Functional**
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
 
 ## Specifications
 

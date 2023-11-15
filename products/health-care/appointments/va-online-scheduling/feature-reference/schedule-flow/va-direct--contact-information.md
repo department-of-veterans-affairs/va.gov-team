@@ -8,10 +8,10 @@ Veterans are asked to confirm their contact informarion.
 - As a Veteran I want to make sure my contact information is correct in the event the clinic needs to contact me. 
 - As scheduling staff I need accurate contact iformation in the event I need to contact the patient. 
 
-### Functional
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
+## Requirements
 
-### Contact information page
+**Functional**
+<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - A user can enter their phone number and email address on this page
 - The phone and email address fields are pre-populated with data from VA Profile

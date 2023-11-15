@@ -10,15 +10,12 @@ A user can choose the preferred language of their provider
 
 ## Requirements
 
-### Community care language page
+**Functional**
+<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - A user can choose the preferred language of their provider
 - After choosing a language, the user is sent to the reason for appointment page
   
-**Functional**
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
 
 ## Specifications
 

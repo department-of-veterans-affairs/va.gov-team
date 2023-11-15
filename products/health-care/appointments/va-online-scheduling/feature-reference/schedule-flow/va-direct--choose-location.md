@@ -10,7 +10,7 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 
 ## Requirements
 
-### Functional
+**Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 **Display the user's registered facilities**
@@ -54,24 +54,16 @@ Veterans are asked to choose where they'd like to receive the type of care they 
         - This is a front end check, done to reduce the confusion around what clinic a user should choose.
         - This will effectively override check 2, if that check is set to allow all users through in VATS.
 - **For the request path**, there are three potential checks:
-    1. Does the facility support requests (set in VATS)?
+    1. Does the facility support requests?
     2. Does the veteran have a recent enough visit?
         - This is controlled in VATS, and can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
     3. Is the user over the request limit for this type of care at this facility?
         - This is controlled in VATS and can be set to 1 or 2
 - If a user can direct schedule, they're sent to the clinic choice page
-- If a user can only make a request, they're sent to the request calendar page
+- If a user can only make a request, they're sent to the request calendar page 
 
-
-### Technical Notes
-
-- With VAOS-servicev2 we are now using MFSv2- which uses the Lighthouse Facilities API.
-- Lighthouse uses two data sources VAST and then CMS.  CMS data comes from a Facility Editor where the site personnel make actual changes to status, operating hours, etc.
-- Lighthouse's default is to use the CMS data first then VAST data . CMS data is more reliable, and updates are real time whereas VAST data can take a while to get updated.
-- Invalid VAOS facility classifications are NULL, Extended Care Site, MCS and Residential Care Site.  Sites with these classifications are filtered by the backend.  
-- A VA location will not display in the list if both Direct Schedule and Requests are set to NO in CCM.  
-
+See also [VA facility page data sources](../backend-logic.md#va-facility-page-data-sources)
 
 ## Specifications
 

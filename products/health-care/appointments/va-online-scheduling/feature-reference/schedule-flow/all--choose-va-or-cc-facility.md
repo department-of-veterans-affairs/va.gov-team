@@ -9,11 +9,8 @@ Veterans are asked to choose where they'd like to receive their care between a V
   
 ## Requirements
 
-### Functional
+**Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-
-### Community care eligibility check
-
 
 - The user can choose between making a request for a VA appointment or for a community care provider.
 - This page shows if a user is community care eligible for the type of care they choose. A user who is not eligible for Specialty or Primary Care Community Care must not be presented with the option to select community care.  
@@ -24,7 +21,6 @@ Veterans are asked to choose where they'd like to receive their care between a V
     - EXCEPT if the user has chosen audiology, in which case they are first sent to a [page to choose the specific type of audiology appointment they need](./all--choose-a-type-of-audiology-care.md).
 
 
- 
 
 ## Specifications
 

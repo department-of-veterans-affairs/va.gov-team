@@ -10,7 +10,8 @@ Users are given an option to choose from a list of providers
 
 ## Requirements
 
-### Community care request provider page
+**Functional**
+<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
 - Users are given an option to choose from a list of providers sorted by:
@@ -20,10 +21,8 @@ Users are given an option to choose from a list of providers
 - Only one provider can be chosen (Legacy VAOS can choose up to 3)
 - Users are sent to the community care language page (if they have a residential address) or the reason for appointment page (if they didn't have an address)
 
-**Functional**
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
+
+
 
 ## Specifications
 

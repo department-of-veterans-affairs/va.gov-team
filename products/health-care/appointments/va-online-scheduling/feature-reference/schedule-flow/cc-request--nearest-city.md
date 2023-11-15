@@ -8,14 +8,11 @@ Veterans need to select a city that is nearest to the parent facility if they ar
 - As a Veteran I want to select the nearest city to my parent facility to recieve care so that I can recieve coverage for my care. 
   
 ## Requirements
-### Nearest city page
-
-- If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
+
+- If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
 
 ## Specifications
 

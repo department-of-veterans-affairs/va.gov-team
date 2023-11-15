@@ -2,6 +2,7 @@
 
 ## Overview
 Veterans choose between an optometry and ophthalmology appointment.
+
 ## User stories
 
 - As a Veteran I want to schedule an appointment with the type of eye care that corresponds to my need. 

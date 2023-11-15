@@ -8,10 +8,10 @@ Veterans are asked the reason for their appointment.
 - As a Veteran I want to provide a reason for my appointment so that I am seen for the reason I described. 
 - As scheduling staff I use the reason for appointment to make sure the patient is seen according ot the need by the appropriate provider. 
 
-### Functional
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
+## Requirements
 
-### Reason for visit page
+**Functional**
+<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - Users can enter information about why they're making or requesting an appointment
 - For VA requests and direct scheduling:
