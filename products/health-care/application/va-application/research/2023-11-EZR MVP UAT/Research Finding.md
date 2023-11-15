@@ -1,14 +1,21 @@
 ---
 
-# EZR MVP UAT Research Findings 
+# [2023-11-EZR MVP UAT] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), 10-10EZR, 1010 Team**
 
-Date: MM/DD/YYYY
+Date: 11/2023
 
-[Designer 1] [email], [Designer 2] [email]
+*Designers*
+   - Angela Agosto (angela.agosto@adhocteam.us)
+   - Hieu Vo (hieu.vo@agile6.com)
+   - Jessica Stump (jessica.stump@adhocteam.us)
+   - Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ 
+   - [Research readout](link here)
+   - [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699465139971/bb160160c2b0c2fc6bd32eedbdf01058da158e97?sender=ubf5503bf47b6eb1e92730053)
+
 
 **Jump to:**
 
