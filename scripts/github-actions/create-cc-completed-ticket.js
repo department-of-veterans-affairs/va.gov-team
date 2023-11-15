@@ -21,7 +21,7 @@ const TICKET_STRINGS = {
   labelText: '### GitHub label for product'
 }
 
-const axiosInstanceZHClient = axios.create({
+const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
   headers: {
     Authorization: `Bearer ${ZENHUB_API_KEY}`,
@@ -29,11 +29,11 @@ const axiosInstanceZHClient = axios.create({
 });
 
 // instance for making ZenHub api calls
-const axiosInstanceZH = axiosRetry(axiosInstanceZHClient, {
+axiosRetry(axiosInstanceZH, {
   retries: 5, retryDelay: axiosRetry.exponentialDelay
 });
 
-const axiosInstanceGHClient = axios.create({
+const axiosInstanceGH = axios.create({
   baseURL: `https://api.github.com/repos/${owner}/${repo}/`,
   headers: {
     'Authorization': `Bearer ${GITHUB_TOKEN}`,
@@ -43,7 +43,7 @@ const axiosInstanceGHClient = axios.create({
 });
 
 // instance for making Github api calls
-const axiosInstanceGH = axiosRetry(axiosInstanceGHClient, {
+axiosRetry(axiosInstanceGH, {
   retries: 5, retryDelay: axiosRetry.exponentialDelay
 });
 

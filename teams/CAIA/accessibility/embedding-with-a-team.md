@@ -20,7 +20,7 @@ That team will designate a number of folks to attend, and CAIA will bring one ac
 
 ### Immediately following the meeting
 
-- CAIA accessibility specialist will work with the CAIA team lead and/or CAIA project manager to identify a second
+- CAIA accessibility specialist serving as the primary point of contact will work with the CAIA team lead and/or CAIA project manager to identify a second
 - Create a pinned thread within the `#caia-team-internal` channel on the DSVA Slack. This pinned thread will be where the supporting CAIA accessibility specialists will provide updates to the wider CAIA group, including CAIA's VA POs
 
 ## Embedded
