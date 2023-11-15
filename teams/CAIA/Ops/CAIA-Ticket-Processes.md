@@ -1,8 +1,14 @@
 # CAIA Ticket Processes
-## Documentation Purpose
-_The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes._ 
+_The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes. Sets out involvement and ownership of CAIA processes, ceremonies, and meetings related to ticketed work._
 
-<details><summary>Toggle to view details on this documentation's purpose</summary>
+## Documentation Purpose
+
+<details><summary>Toggle to view additional details about this documentation</summary>
+
+### CAIA Disciplines
+- Accessibility
+- Content
+- Information Architecture
 
 ### Ways of Working
 - Refinement
@@ -10,16 +16,12 @@ _The purpose of this documentation is to establish a clear way of work for the C
 - Planning
 - Outline meetings - purpose and cadence
 
-**Sets out involvement and ownership of CAIA processes, ceremonies, and meetings related to ticketed work.**
-
-### CAIA Disciplines
-- Accessibility
-- Content
-- Information Architecture
-
 ### Tools Utilized by CAIA
+#### Project Management
 - [GitHub Projects](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/3)
 - [GitHub (formerly Zenhub)](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/board)
+#### Reporting
+[CAIA Dashboard](https://lookerstudio.google.com/reporting/a5feda72-eb6d-4197-ad45-4c3a1e862fc9)
 
 </details>
 
