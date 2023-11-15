@@ -11,7 +11,7 @@
 - BE Engineer: Lihan Li, Chapley Watson
 - QA Engineer: Fletcher Bonds
 - Designer: Hieu Vo, David Kennedy
-- Researcher: Hieu Vo
+- Researcher: Jessica Stump, Katelyn Caillouet
 - Slack channel: #1010-health-apps
 - GitHub tag: 1010-ezr
 
