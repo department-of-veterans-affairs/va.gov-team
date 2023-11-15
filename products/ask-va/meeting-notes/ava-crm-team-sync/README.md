@@ -1,3 +1,43 @@
+## Meeting Notes for CRM Sync on 11/14/2023
+
+Daily scrums; VA Profile discussion
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Ruchi, Becky, Natalie
+* **AVA CRM Team:** Bharat, Wayne, Chris, Kathleen, Jamie, Shelby
+* **Note Taker:** Khoa
+
+### Key Takeaways:
+
+1. Natalie suggested a daily scrum meeting to cover our progress.
+   * AVA CRM - JD, Tina, Bharat
+   * AVA FE - Joe, Khoa, Jacob, Eddie (with Becky/Ruchi/Holly optional)
+2. Plan is to pull data from VA Profile rather than AVA Profile.
+   * Plan to leave missing pre-fill data blank on the form, and have the user enter the information, e.g. business email and phone.
+   * There is some data in the form that gets added back to AVA Profile on submit.
+   * Tina suggests pulling from VA, but filling in the missing data from AVA.
+   * Chris says that the users most affected by this gap are the most vocal.
+   * Chris added that the ID.me and Login.gov profiles are the users' personal profiles. Need a relationship to business side.
+   * It wsa suggested that we start the intake process to add the missing fields to VA Profile for a longer-term solution.
+   * Browsers remember previous inputs in most scenarios, but it was said that the VA-side browsers are configured to not do that.
+   * Tina volunteered to document the issues for the team, send to Natalie.
+  
+### Action Items:
+
+- [ ] Tina: Document the pitfalls of using VA Profile as the sole source of profile data.
+- [X] ~Natalie to set up daily scrums and facilite the same.~
+
+- [ ] Jacob: Is Lighthouse pulled from VAST? (11/14)
+- [ ] Jacob: Reach out to GI Bill team to see how their list is maintained and if there's an API for it. (11/14)
+- [X] ~Joe: Consolidate Category/Topic/Subtopic into a single endpoint in the API status doc.~
+- [ ] Joe/Eddie: Reach out to AVA CRM see what metadata is available from the unified Category/Topic/Subtopic endpoint.
+- [ ] Khoa: See `/ping` endpoint invoked from STAGING server (including the locked-down version of the endpoint).
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+
+---
+
 ## Meeting Notes for CRM Sync on 11/07/2023
 
 `/ping` is working; GitHub for API docs/status; Facilities
