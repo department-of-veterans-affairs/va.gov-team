@@ -1,5 +1,0 @@
-### Index
-
-- One
-- Two
-- Three
