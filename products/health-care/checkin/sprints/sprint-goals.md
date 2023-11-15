@@ -42,7 +42,7 @@ ________________________________________________________________________________
     - ❗ 🟦 [[BE] - Pass contextual data to CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68166)
 - **GOAL: [Support CERNER Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68271)**
     - **Sub Goal: [Get Demographics Data from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69812)**
-        - 🟦🟩🟪 [Meet with VA Profile Team to Get Questions Answered](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69813)
+        - 🟪 Follow up with Stephen on a good contact person for the VA Profile team
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ❗🟥 [[Content] [Design] Update content in Review page wireframe to coincide of eCheck-in production userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69713)
