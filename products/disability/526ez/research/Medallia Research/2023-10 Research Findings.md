@@ -6,7 +6,7 @@ Date: October 2023
 
 Nichole Nicholas, Julie Pedtke, & Evelyn Hilbrich-Davis
 
-View [Research readout]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/Medallia%20Research%20Share-Out.pdf))
+View Research readout ([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/Medallia%20Research%20Share-Out.pdf))
 
 
 ## Research Goals
