@@ -17,12 +17,11 @@ Research Questions
 1. From a full auth experience (on MyVA) via an email for filing a travel claim for a specific appointment, how easy or difficult is it for Veterans to navigate to file a travel reimbursement claim?
 2. How helpful are task cards (that are located above the Appointment list for upcoming appointments) in helping Veterans locate the travel reimbursement task they are expecting to file?
 3. How easy or difficult is it to understand the time left to file for a travel reimbursement claim for an appointment? 
-4. How easy or difficult is it to understand the submitted claim status and associated next steps from the confirmation page, appointment details page and appointments list page? 
-5. How easy or difficult is it to understand the submitted claim status, time left to file (and associated next steps) for a travel reimbursement claim (whether filed or not) on the confirmation pages?
-6. How easy or difficult is it to understand the status, time left to file (and associated next steps) of a travel reimbursement claim (whether filed or not) on the details pages?
-7. Do Veterans understand the dot indicator on the appointment list indicates tasks to complete on the details page? 
-8. Do Veterans understand that they can only file one travel claim for multiple appointments happening on the same day at the same facility, but that each of those travel claim statuses could update simultaneously? 
-9. What would Veterans change or add, if anything, to improve filing a travel reimbursement claim for a past appointment? E.g., edit the address, upload receipts, etc.
+4. How easy or difficult is it to understand the submitted claim status, time left to file (and associated next steps) for a travel reimbursement claim (whether filed or not) on the **confirmation pages**?
+5. How easy or difficult is it to understand the status, time left to file (and associated next steps) of a travel reimbursement claim (whether filed or not) on the **details pages**?
+6. Do Veterans understand the dot indicator on the appointment list indicates tasks to complete on the details page? 
+7. Do Veterans understand that they can only file one travel claim for multiple appointments happening on the same day at the same facility, but that each of those travel claim statuses could update simultaneously? 
+8. What would Veterans change or add, if anything, to improve filing a travel reimbursement claim for a past appointment? E.g., edit the address, upload receipts, etc.
 
 ### Secondary questions (already partially addressed in earlier research):
 1. What do Veterans expect to happen if their home address is incorrect when they are filing a mileage-only claim?
@@ -38,9 +37,9 @@ Research Questions
   - MAYBE TRUE - Veterans will notice the task card but may have questions around which appointment the card is referring to.
 3. How easy or difficult is it to understand the time left to file for a travel reimbursement claim for an appointment?
   - LIKELY TRUE
-4. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the details pages?
+4. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the **confirmation pages**?
   - LIKELY TRUE - Veterans will easily understand the travel reimburesment claims.
-5. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the confirmation pages?
+5. How easy or difficult is it to understand the status (and associated next steps) of a travel reimbursement claim (whether filed or not) on the **details pages**?
   - LIKELY TRUE - Veterans will understand that they have either successfully submitted their claim, or that their claim has failed to submit.
 6. Do Veterans understand the dot indicator status on the appointment list indicates tasks to complete on the details page?
   - LIKELY TRUE - Veterans will understand they have a task to complete due to the content accompanying the dot indicator.
