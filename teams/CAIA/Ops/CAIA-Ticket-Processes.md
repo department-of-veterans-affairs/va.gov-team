@@ -1,3 +1,5 @@
+`[WIP]`
+
 # CAIA Ticket Processes
 _The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes. Sets out involvement and ownership of CAIA processes, ceremonies, and meetings related to ticketed work._
 
@@ -29,7 +31,7 @@ _The purpose of this documentation is to establish a clear way of work for the C
 1. [Global Definitions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#global-definitions)
 2. [Ticket Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#ticket-creation)
 3. Processes
-4. [Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tasks) `Needs Added`
+4. [Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tasks) 
 5. [Ticket Closeout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#closing-tickets)
 6. [Meetings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#refinement-meetings)
 7. [Tickets, assignees, labels and fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md#tickets-assignees-labels-and-fields)
@@ -52,7 +54,7 @@ An issue is a discreet, well defined unit of work for a team or project. In Gith
 An overarching grouping of tasks (or sub-tasks) that contain several smaller `Issues`, also known as `User Stories`.
 
 ### Task
-In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. 
+In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be as simple as a checklist item, or they can be multi-functional, when it is converted into an issue. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will tell you the number of tasks completed and overall, along with a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
 
 ### Repository
 A place where a project’s files, version history, and resources live. In CAIA, we operate in the VA.gov-team repository.
@@ -68,7 +70,14 @@ The process of reviewing and assessing tickets in the various stages of the CAIA
 </details>
 
 ## Ticket Creation
-**The [CAIA Intake Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) is filled out by VFS teams.** 
+**The [CAIA Intake Request Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) is filled out by VFS teams.**  
+
+### Access Points
+- **DSVA Slack Channels:**
+    - [#accessibility-help](https://dsva.slack.com/archives/C8E985R32)
+    - [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH)
+- **VA Platform Website**
+    - [Touchpoint: Sitewide Content, Accessibility, and Information Architecture (CAIA) intake request](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/sitewide-content-and-ia-intake-request)
 ### Intake Process
 <details><summary>Toggle to view what takes place during ticket creation</summary>
   
@@ -192,7 +201,9 @@ This field should be updated when the ticket is reviewed.
 </details>
 
 ## Tasks
-`Needs Added`
+Tasks are used within Intake/Epics, as well as individual issue tickets to help divvy up the work, and make sure items are checked off and completed. Tasks can be plain text list items, or they can be comprehensive and turned into issues, with assignees, labels, etc. There can be multiple task lists do deliniate between disciplines, task groupings, etc.
+
+`Needs Reviewed`
 
 
 ## Sample Journey
