@@ -19,6 +19,7 @@ Every year, the Sitewide Content team needs to update various rates pages with n
     - **Tip:** You can open another past rates page to compare and make sure all of the page parts are updated. Also, you can paste relevant text and links.
   - Add current page link to page intro.
   - Remove past rates section from the bottom of page
+  - Change the URL. In the right rail, scroll down to "URL alias." Uncheck "Generate automatic URL alias" and manually change the path to follow the pattern for past rates pages (for example /disability/survivor-dic-rates/past-rates-2022/).
   - Click **Save as draft**.
     - **Tip:** Do this before updating the current page. You’ll need this Node ID/page title to add to the Past rates section on the current page. 
  4. Update current page.
