@@ -4,7 +4,7 @@ Daily scrums; VA Profile discussion
 
 ### Attendees:
 
-* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Ruchi, Becky, Natalie
+* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Ruchi, Tyler, Natalie
 * **AVA CRM Team:** Bharat, Wayne, Chris, Kathleen, Jamie, Shelby
 * **Note Taker:** Khoa
 
