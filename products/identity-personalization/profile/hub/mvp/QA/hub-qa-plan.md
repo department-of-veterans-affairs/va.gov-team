@@ -1,7 +1,7 @@
 
 
 ## QA Plan - Hub 
-**Last updated:** 10/02/2023 - updated statuses 
+**Last updated:** 11/15/2023 - drafted
 
 - [Hub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
 
