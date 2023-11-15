@@ -31,20 +31,9 @@ _Before enabling your feature toggle in production, you'll need to:_
 
 ***
 
-
 ## Rollback Process
 
-The following errors should trigger a Slack alert in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), which would then trigger the rollback process.
-1. Error logging in Sentry _:gear:_
-   1. Errors regarding Controller or endpoints (backend) _confirm with Jonathan_
-   2. Mapbox errors (frontend) _confirm with Colin_
-2. Error logging in DataDog :gear:
-   1. Network errors between vets-website and vets-api
-3. _Unexpected behaviors :gear: how will we know?_
-   1. _Bot behavior? Spike in activity (perhaps Rails already manages this type of activity)_
-   2. _Average number of searches per user > 5_
-   3. _% of searches with no results > 50%_
-   4. _Contact Center calls > 5 per day_
+While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
 1. Turn off the feature toggle
@@ -90,16 +79,18 @@ The following errors should trigger a Slack alert in [#benefits-representation-m
 
 ### Staged Rollout Metrics
 
-_Links to dashboard(s)_\
+_Links to dashboard(s)_
+
 The following metrics will be considered before advancing rollout to the next stage:
 
-1. Bounce rate for `/find-rep` < 1%
+1. Bounce rate for `/find-rep`
 2. Unique page views
 3. Number of searches
-4. Average number of searches per user < 4
-5. % of searches that do not return results < 10%
-6. _Error rate < 5% :gear:_
-7. _Contact Center calls < 5% of total searches :question:_
+4. Average number of searches per user 
+5. % of searches that do not return results 
+6. Errors in Sentry
+7. Errors in DataDog
+8. _Contact Center calls < 5% of total searches :question:_
 
 
 ### Stage A Results
@@ -109,8 +100,9 @@ The following metrics will be considered before advancing rollout to the next st
 - Number of searches:
 - Average number of searches per user:
 - % of searches that do not return results:
-- Types of errors logged:
-- Contact Center calls:
+- Errors logged in Sentry:
+- Errors logged in DataDog:
+- _Contact Center calls: :question:_
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 ***
@@ -128,8 +120,9 @@ _Continue to check in on the KPIs of your feature at periodic intervals to ensur
 - Number of searches:
 - Average number of searches per user:
 - % of searches that do not return results:
-- Types of errors logged:
-- Contact Center calls:
+- Errors logged in Sentry:
+- Errors logged in DataDog:
+- _Contact Center calls: :question:_
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
@@ -140,8 +133,9 @@ _Continue to check in on the KPIs of your feature at periodic intervals to ensur
 - Number of searches:
 - Average number of searches per user:
 - % of searches that do not return results:
-- Types of errors logged:
-- Contact Center calls:
+- Errors logged in Sentry:
+- Errors logged in DataDog:
+- _Contact Center calls: :question:_
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
