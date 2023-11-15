@@ -23,7 +23,7 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 
 | Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes | Docs |
 |---|---|---|:---:|:---:|---|---|:---:|
-Status | GET /ping | Dynamics | 🟩 | 🟨 | integration | | [link](Status_Ping.md)  |
+Status | GET /ping | Dynamics | 🟩 | 🟨 | integration | secrets store | [link](Status_Ping.md)  |
 Form | GET /topics?[id] | Dynamics | 🟨 | ⬜ | design | | [link](Form_GetTopics.md) |
 Form | GET /alerts | Dynamics | ⬜ | ⬜ | design | | [link](Form_RetrieveBannerMessage.md) |
 Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | design | | [link](Form_RetrieveInquiryStatus.md) |
