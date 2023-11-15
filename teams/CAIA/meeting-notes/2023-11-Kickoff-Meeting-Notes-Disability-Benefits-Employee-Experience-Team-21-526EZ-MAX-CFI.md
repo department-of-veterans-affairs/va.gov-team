@@ -32,14 +32,14 @@
 
 <details><summary>Toggle to view resources</summary>
     
-### **09/08/2023 Opened Collab Cycle Ticket**
-- [ ] [Collaboration Cycle Ticket 65251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
+### **11/6/2023 Opened Collab Cycle Ticket**
+- [ ] [Collaboration Cycle Ticket #69299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#69299)
     - [x] Design Intent ticket - `DONE 11/14/2023`
     - [ ] Midpoint Review (`TBD` - as of Kickoff Meeting) **- support requested for content, IA and a11y**
     - [ ] Staging Review (`TBD` - as of Kickoff Meeting) **- support requested for content, IA and a11y**
 
 ### CAIA Tickets 🎟️
-- [ ] [Epic/Intake ##69299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#69299)
+- [ ] [Epic/Intake ##69856](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#69856)
     - [ ] Accessibility Ticket **- requesting support**
     - [ ] IA Ticket **- requesting support**
     - [ ] Content Ticket **- requesting support**
