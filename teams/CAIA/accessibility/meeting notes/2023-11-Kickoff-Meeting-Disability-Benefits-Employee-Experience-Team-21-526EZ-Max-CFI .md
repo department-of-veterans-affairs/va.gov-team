@@ -1,7 +1,7 @@
-# CAIA Kickoff: [Team Name Goes Here]
+# CAIA Kickoff: Disability Benefits - Employee Experience Team: 21-526EZ, Max CFI 
 ## Meeting Details
-- **Date**: [Day], [Month] [Date], [Year]
-- **Time**: [00:00] – [00:00] [a.m./p.m.] [Timezone]
+- **Date**: TBD
+- **Time**: TBD
 - [Zoom Link](x)
 - [Google Doc Version](x) (Access Required)
 - [Microsoft Word Version](x)
