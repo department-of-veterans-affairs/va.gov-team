@@ -99,7 +99,7 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 - Updated existing routing rules to smart routing
 - Integration with VA Notify
 
-### Our High Level Plan in Four Phases
+### Our High Level Plan for Phase 1
 1. Discovery Spikes - Conducted quick, timeboxed explorations to determine effort for potential features
 2. **Create Prototype** (Current Status) - Develop coded prototype on staging.va.gov for usability test
 3. Usability Testing - Conduct usability tests with Veterans and dependents 
