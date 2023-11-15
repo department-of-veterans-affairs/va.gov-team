@@ -184,10 +184,15 @@ _**Participant is at Appointment list:**_
   - Is anything here confusing?
 
 - Without doing anything yet, tell me a little about what you’d do next.
-- _If needed:_ 
+- _If needed for task card:_ 
   - Did you notice anything about filing for travel reimbursement on this page? 
   - Did you notice the box at the top of the page? What does that mean to you?
   - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
+- _If needed for dismiss/close button in card:_
+  - What about the x/close button in the card. What would you expect to happen if you selected that?
+  - And what would you expect if you DID select that? 
+  - And if you dismiss it, how would you find that information again.
+
 
 - Ok, go ahead and go through the process of filing that claim - and talk me through what you’re doing.
 
