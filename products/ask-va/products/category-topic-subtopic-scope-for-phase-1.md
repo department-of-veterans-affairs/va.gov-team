@@ -25,7 +25,6 @@ The proposed changes are documented in [this spreadsheet](https://dvagov.sharepo
 - Removing or adding categories
 
 ## Evidence to support changes
-We have the following evidence to support these updates: 
 - Reviews with each business line, including meeting notes and email documentation
 - Reviews with VA.gov content team, who oversees all content on VA.gov
 - Alignment with the VA.gov content style guide
