@@ -13,20 +13,13 @@ Veterans are asked the reason for their appointment.
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- Users can enter information about why they're making or requesting an appointment
-- For VA requests and direct scheduling:
-    - A user must choose a purpose from a set list:
-        - Routine/Follow-up
-        - New issue
-        - Medication concern
-        - Other
-    - A user must also enter text describing the reason for their visit
-- For community care requests, a user can enter an optional reason for appointment
-- When on the direct path, the chosen purpose and reason text are combined and added to the bookingNotes field of the appointment
-- When on the request path, the reason text is added as a request message on the backend and the selected reason is added in the purpose of visit field
-- After a user enters their reason information, then
-    - For community care requests or the direct path, they're sent to the contact info page
-    - For VA requests, they're sent to the visit type page
+
+- Users can enter a reason for appointment.
+- A reason for appointment must be optional.  
+
+**Page navigation**
+After a user enters their reason information, then they're sent to the [contact info page](./cc-request--contact-information.md).
+    
 
 ## Specifications
 

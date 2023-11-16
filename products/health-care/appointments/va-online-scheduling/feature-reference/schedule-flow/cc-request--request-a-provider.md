@@ -1,4 +1,4 @@
-# Request a provider
+# Request a provider - community care request flow
 
 ## Overview
 Users are given an option to choose from a list of providers
@@ -10,19 +10,28 @@ Users are given an option to choose from a list of providers
 
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
-- Users are given an option to choose from a list of providers sorted by:
-    - Residential address (if they have a residential address on file) 
-    - User's current location (via their browsers's location information) 
-    - User's registered VistA sites
-- Only one provider can be chosen (Legacy VAOS can choose up to 3)
-- Users are sent to the community care language page (if they have a residential address) or the reason for appointment page (if they didn't have an address)
 
+- Users must be given an option to choose from a list of providers.
+   - A provider must not be required to continue with the Community Care request flow. 
+   - A message to veteran must be displayed to veteran if no PPMS providers are available.  
+- The list may be sorted by:
+    - Providers nearest a veteran’s home address if veteran has a valid home address in the VA profile.
+    - Providers nearest the closest city if veteran does NOT have a valid home address in the VA profile.
+      - The cities listed are the same from the [closest city page](./cc-request--nearest-city.md).
+    - User's current location (via their browsers's location information).
+- An option to update residential address must be available during provider selection.  
+- The user may only select one provider.
 
+**Page navigation**
+- `CONTINUE`: 
+  - If the user has a residential address, they are sent to the [choose a language page](./cc-request--choose-a-language.md).
+  - If the user doesn't have a residential address, they are sent to the [reason for appointment page](./cc-request--reason-for-appointment.md). 
 
+### Non-functional
+- Providers are fetched from the Provider Profile Management System (PPMS), using specialty codes mapped to the type of care the user has chosen for the selected provider.
 
 ## Specifications
 

@@ -10,17 +10,25 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- Users use a calendar picker to choose the time of their appointment
-- The calendar starts on the month of the preferred date
-- The earliest date allowed for scheduling is the day after the current day
-- The latest date allowed for scheduling is 395 days after the current date
-    - This may be further limited if the chosen VistA clinic has a max booking date that's less than 395 days. If that's the case, the front end will not receive any slots after this date
-    - The times shown are determined by the time slots returned to the front end based on the configuration of the selected VistA clinic
-- The times shown are in the time zone configured for the selected facility.
-- If the preferred date is the current date, then an urgent care warning is shown above the calendar
-- Once a time is chosen, the user is sent to the reason for visit page
+- User have a calendar picker to choose the time of their appointment.
+   - The calendar starts on the month of the [preferred date](./va-direct--preferred-date.md).
+   - The earliest date allowed for scheduling is the day after the current day.
+   - The latest date allowed for scheduling is 395 days after the current date.
+      - This may be further limited if the chosen VistA clinic has a max booking date that's less than 395 days. If that's the case, the front end will not receive any slots after this date.
+   - The times shown are in the time zone configured for the selected facility.
+   - If the [preferred date](./va-direct--preferred-date.md)is the current date, then an urgent care warning is shown above the calendar.
+
+**Page navigation:**
+- `CONTINUE` - Once a time is chosen, the user is sent to the [reason for visit page](./va-direct--reason-for-appointment.md).
+
+
+### Non-functional
+
+- The times shown are determined by the time slots returned to the front end based on the configuration of the selected VistA clinic.
+- VAOS must display available appointment date/times as indicated in the VistA system and following all VistA conventions for Max Number of Days for future scheduling.    
+
 
 ## Specifications
 

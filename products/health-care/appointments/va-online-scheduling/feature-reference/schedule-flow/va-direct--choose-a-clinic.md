@@ -21,7 +21,10 @@ Veterans are asked to choose the VA clinic where they'd like to receive the type
    - The user has an option to choose a different clinic. 
    - Choosing this will put the user in the VA request path starting at the [VA request preferred date page](va-request--preferred-date.md)
 
-See also: [Determining eligibility to schedule into a clinic](../backend-logic.md#determining-eligibility-to-schedule-into-a-clinic)
+See also: 
+- [Determining eligibility to schedule into a clinic](../backend-logic.md#determining-eligibility-to-schedule-into-a-clinic)
+- [Determining if user can schedule or request at clinic](../backend-logic.md#determining-if-user-can-schedule-or-request-appointment-at-clinic)
+
 
 
 ## Specifications

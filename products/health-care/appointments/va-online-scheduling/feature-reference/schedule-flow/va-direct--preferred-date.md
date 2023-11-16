@@ -10,13 +10,17 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- Users only see this page if they're on the direct schedule path
-- They must enter a date the same as or after today's date
-- After entering a date, the user is sent to the [direct schedule Choose a Date page](./va-direct--choose-a-date.md)
+- The date selected must be a date > today and less than 13 months (395 days).  
+- An message regarding urgent care must display if the date selected is the current date.
 
+**Page navigation:**
+- `CONTINUE` directs the user to the [direct schedule Choose a Date page](./va-direct--choose-a-date.md)
+
+### Non-functional
+- The date selected on this page must be stored in the VistA PID/CID (Preferred Indicated Date/Clinically Indicated date field.    
 
 ## Specifications
 

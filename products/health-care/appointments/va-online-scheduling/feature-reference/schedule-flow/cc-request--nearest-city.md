@@ -1,4 +1,4 @@
-#  Nearest city Community care page
+#  Nearest city - community care request flow
 
 ## Overview
 Veterans need to select a city that is nearest to the parent facility if they are registered at multiple VistA sites.
@@ -9,10 +9,19 @@ Veterans need to select a city that is nearest to the parent facility if they ar
   
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
+- If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to. 
+   - These are listed as cities.
+- A City must display if all the following are true:
+   - Veteran is registered at a VAMC in that city
+   - The VAMC has been designated by the Integrated Veteran Care (IVC) office as supporting community care.
+
+### Non-functional
+
+- When IVC designates a site as supporting Community Care that information is stored in the siteSupportingVAR collection in the var-utility database.  
+
 
 ## Specifications
 

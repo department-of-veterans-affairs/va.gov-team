@@ -13,11 +13,7 @@ Veterans are asked to confirm their contact informarion.
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- A user can enter their phone number and email address on this page
-- The phone and email address fields are pre-populated with data from VA Profile
-- If the user is on the request path, they they will also be required to choose a preferred time for the scheduler to call them: morning, afternoon, or evening
-    - User can choose any combination of these options
-- After contact information is entered, the user is sent to the review page
+- See [contact information page shared requirements](./shared-requirements.md#contact-information-requirements).
 
 
 ## Specifications

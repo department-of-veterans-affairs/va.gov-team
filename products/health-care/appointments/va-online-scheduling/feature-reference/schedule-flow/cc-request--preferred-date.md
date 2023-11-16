@@ -13,15 +13,8 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- Users use a calendar picker to choose their preferred appointment time frames
-- Users are allowed to pick an AM and/or PM slot on each weekday, up to 3 slots.
-- The calendar starts on the current month
-- The earliest date allowed for scheduling is 5 days after the current day
-    - If the 5th calendar day falls on a weekend (Saturday or Sunday), the following business day would be the next available date. Example: If the user is logged in on a Monday and trying to book an appointment request, slots would be available from the following Monday. 
-- The latest date allowed for scheduling is 120 days after the current date
-- Once preferred times are chosen, then:
-    - For community care requests, they're sent to the community care preferences page
-    - For VA requests, they're sent to the reason for visit page
+See [request calendar requirements](./shared-requirements.md#request-calendar-requirements).
+
 
 
 
