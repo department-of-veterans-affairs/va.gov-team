@@ -39,12 +39,21 @@ Examples of **no visible changes** include:
 
 - Changes to code that the user won’t see
 - Changes to accessible labels (aria-label, aria-labelledby, aria-describedby)
+
+## Will your work require introducing a new CMS Design System component or changes to an existing component?
+
+We ask this question to determine if there will need to be a [CMS Design System Experimental Addition Request](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=BlakeOrgan&labels=CMS+design+system%2C+CMS+design%2C+CMS+Team%2C+Needs+refining&projects=&template=cms-design-system-experimental-addition-request.md&title=Experimental+Design+for+%5Bcomponent+or+pattern+name%5D).
+
    
 ## Will your work require introducing a new Drupal module or changes to an existing module?
 
 We ask this question to determine if a module review touchpoint is necessary.
 
 Any new modules or changes to existing modules will need to be reviewed and approved by a designer, accessibility specialist, and developer on the CMS team before becoming a part of the CMS.
+
+## Will your work require introducing new input fields or making changes to existing input fields?
+
+If your CMS work might result in content data changing, you must ensure that all front ends that use that data are also changed.
 
 
 ## Do you need to capture any analytics or metrics?
