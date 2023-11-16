@@ -19,7 +19,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [ ] Tests by Holden (end to end) and Colin (unit tests)
-- [ ] QA by Michael + team
+- [ ] QA by Michael + ARM team
 - [ ] Mapbox is ready for use (frontend)
 - [ ] Address Validator in Lighthouse is ready for use (backend)
 
