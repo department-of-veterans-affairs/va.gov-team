@@ -64,7 +64,7 @@ The form will live under the new parent page for supporting forms.
 <img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9d4ab557-7fe2-414c-8652-35a70ceef750">
 
     
-4. **[VA’s duty to assist]((https://www.va.gov/resources/vas-duty-to-assist/))** - Add
+4. **[VA’s duty to assist](https://www.va.gov/resources/vas-duty-to-assist/)** - Add
   - Placement description: Under "What’s “duty to assist”?" section, specifically under "Permission to access your private medical records" subsection
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
