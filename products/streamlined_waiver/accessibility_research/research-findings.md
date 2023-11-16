@@ -114,13 +114,13 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 **Maybe true**
 
-The FSR experience through the screen reader was not cohesive across participants due to different screen reader types and unique navigating styles. More details in finding #1. Still, it would appear that across these different experiences, there are improvements that can be made to enhance the screen reader experience. 
+The FSR experience through the screen reader was not cohesive across participants due to different screen reader types and unique navigating styles. More details in finding #1. It would appear that across these different experiences, there are improvements that can be made to enhance the screen reader experience. 
 
 2.  While we think it will be usable, we also believe that accessibility issues identified in an internal accessibility audit, may take away from the experience.
 
 **Likely true**
 
-This was confirmed in this study, and some of the issues already documented previously appeared in the interviews as well. 
+This was confirmed in this study, and some of the accessibility issues already documented previously appeared in the interviews as well. 
 
 3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
    
@@ -154,7 +154,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Satisfaction Findings**
 
-**7.The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
+**7. The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time.**
 
 
 ## Details of Findings 
@@ -181,6 +181,11 @@ We noted that in addition to JAWS and VoiceOver requiring different commands, th
 
 Additionally, the sample of Veterans we spoke to sometimes had different systems they used to navigate through the form. For example, one participant (P8, JAWS) navigated the page by having the screen reader read all of the links on the page. This overemphasized the header and footer of the page rather than the content on the form pages. P5 (JAWS) had to alternate in and out of Forms mode. P6 (VoiceOver) has peripheral vision and would use a combination of screen reader and clicking. 
 
+>"The screen reader after I hit continue, it stays in form mode. I would like it to drop out so I use my arrow keys". "It's a screen reader preference thing." - P5 (JAWS, 25 years)
+>"It seems to skip to different parts of the page on its own. Like it's not just reading straight down from the top to the bottom. When I navigate through the page because I'm an impatient person I use H for headings all the time. But I was just using my arrow key to go down the screen." - P5 (JAWS, 25 years)
+
+>"I know this is the status report but I want to know about the links so I will do the search. A link list came up and there is a list associated with it. I go home and arrow down. Contact us is important because if you have a question or confused to can contact them. 6 of 63 links, there are a lot of links here. Homeless veteran, veteran women. I would like to know about that one (reads through all the links)" -P8 (JAWS, 18 years) 
+
 **2. The experience of navigating through the form if the participant was fully reliant on the screen reader (if blind) or if they were partially reliant on the screen reader (if low vision) presented different opportunities and challenges.**
 
 2 participants reported being visually impaired but not totally blind. These participants used the screen reader some of the time and their vision the rest of the time to progress through the form. P6 has peripheral vision and uses their screen reader 20% of the time. One of the challenges that surfaced was that certain elements on the page were visually bothersome to participants with low vision as they knew the elements were there but did not know what they said or what purpose they had. For example, P6 stated that the auto-save green box was distracting them.
@@ -200,6 +205,8 @@ For this study, we used a staging test account. The form link had to be shared w
 **4.  The login process was time consuming and led to many participants running out of time to interact with form.**
 
 The 2 participants that were unsuccessful in signing in were using Dolphin Guide. The front end team is exploring options for creating an unauthenticated form for future usability studies.
+
+>"When I do it on PC I don’t have many issues but I do have issues logging in with va.gov. I have to do it once or twice to get signed in. It's been awhile since I have done it... What it's not giving me on the phone is the keyboard to sign in. That’s frustrating. That’s what I was saying about the accessibility for apps on the phone. I think my phone is fairly new and I keep it updated. I have this issue with other sites on the iPhone. I know with uber its been an issue as well and a few others. I don’t know until I am on a website or an app." - P3
 
 **5.  Two participants were confused by the cancel button on the Work History List Loop**
 
@@ -223,15 +230,16 @@ P5 likened their preference to filling out a paper form by hand in one sitting, 
 
 P5 felt the built in accessibility was good. P6 said it was "frustrating", however mentioned that they started to understand the "cancel" and "back" button.
 
-*I personally would have all that information on one big form and just fill it out, like if I was writing it out by hand. Because the 'wizards' and all that stuff are extra steps that aren't necessary. You're going to enter the information one way or the other,  there are a couple of places in there where it was helpful and also some where it was confusing because you had to jump in and out of forms mode. If I could have got to this page and arrowed down and read the whole form at one time so I knew what was going to be asked of me, and go to forms mode until I hit submit, for me personally that would be easier.  - P5*
+>"I personally would have all that information on one big form and just fill it out, like if I was writing it out by hand. Because the 'wizards' and all that stuff are extra steps that aren't necessary. You're going to enter the information one way or the other,  there are a couple of places in there where it was helpful and also some where it was confusing because you had to jump in and out of forms mode. If I could have got to this page and arrowed down and read the whole form at one time so I knew what was going to be asked of me, and go to forms mode until I hit submit, for me personally that would be easier." - P5
 
-*I think you're doing a good job with your accessibility features. There were no areas where I didn't know what it was. There are a few places where it could be tweaked. For the most part it was very accessible. - P5*
+>"I think you're doing a good job with your accessibility features. There were no areas where I didn't know what it was. There are a few places where it could be tweaked. For the most part it was very accessible." - P5
 
 >"It was frustrating. Because the screen reader it was skipping over things and not reading them to me. And the continue and the back was frustrating. Because to me, I'm in the form and it looks like with that cancel it looks like it was a form within a form. Which is confusing because I'm in just one form. And then some of the text it didn't go to. It would start with the heading and jump to options instead of reading the title of the options for me." - P6
 
 >"However it's formatted in the system, or if – I would have something where it was built into the form where it would read it to you, like my gmail reads me my emails, my adobe acrobat has its own reader, a lot of the news stations now have this thing where it reads it to you. I don't know if that's possible where it reads it to you.
 Why do I need a whole screen reader? Why can't you just read it to me?" - P6
 
+>"Well I can only tell you as a JAWS user. I am finding that JAWS is telling me the headers, lists, buttons. It is giving me useful information as a JAWS user." - P8
 
 ## Additional Insights
 
@@ -258,7 +266,21 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 - One participant's sentiment about the introductory page request to know about financial assets being "scary" echoed what others said in a previous study
 >"it had a lot of threatening, scary concepts in there. You wanted to know about my assets and then later on it said they wont take a home or other things away from you. Then why would you ask, knowing it then of course you’d take them."
 >-P6
->
+
+- A few participants skipped past the introduction page where it lists all of the financial information they will need to share. This finding is consistent with previous studies done with Veterans that do not use screen readers.
+
+>"I went straight to that link because this is what I want to do. I'm not a big person to read help screens." - P5
+
+>"I hope there's nothing down below here because I'm not going to read it."
+>"For people like me, you should put that link down below this. When I get to where I think I need to start I just go." - P5
+
+- 2 participants said they do not have to pay for copays due to blindness being considered a catastrophic disability by VA.
+
+- One participant mentioned the importance of VA.gov higlighting access to crisis support. This same participant talked about the importance of accessible technology and services. 
+  
+>"The fact that you are in crisis and need to talk I cannot say how often that needs to be repeated. Someone may have thought they heard it and if they go onto the next page and they hear it any may think they need help or just to remind you that you are able to talk to someone. It is very important... The worst thing is that they don’t press the button but if they do you might be saving someone’s life. I am finding it useful because again I never used this before." -P8
+
+>The VA may provide tools but they aren’t going to pay for email and stuff. Then there are people that even if we don’t like it we have to meet them where there at. You have to me them where they are at if you want them to participate. Think of it like this if you’ve ever had an old lady dial into a station. Okay, back in the old days for radio you had to dial in to find out where you are. People are the same, you have to dial into their frequency. You’re on FM and they’re on AM, you will never talk to them." - P8
 
 ## Recommendations
 
