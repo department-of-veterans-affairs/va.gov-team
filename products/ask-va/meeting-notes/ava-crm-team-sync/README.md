@@ -1,3 +1,47 @@
+## Meeting Notes for CRM Sync on 11/16/2023
+
+Documentation; Various tasks
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Jacob, Joe, Natalie, Holly
+* **AVA CRM Team:** JD, Chris, Shelby, Bharat
+* **Note Taker:** Joe
+
+### Key Takeaways:
+
+1. JD/CC: Need to document mappings and transformations, to include calculated fields and queries. Needed for all API endpoints, but the majority will be trivial. They will update the team in the daily scrums, and call in the larger group if collaboration is needed.
+2. Joe and all FE devs will get AWS credentials and request permissions to manage the secrets store for connections to the Dynamics APIs.
+3. Status updates from the team were given. Action items added as needed.
+  
+### Action Items:
+
+- [ ] JD/CC: Document mappings, transformations, and calculated fields in the APIs.
+- [ ] Joe: Update API contract detail files with latest notes from CRM workshops.
+- [ ] Tina: Document the pitfalls of using VA Profile as the sole source of profile data.
+   - [X] ~Tina's notes~
+   - [ ] Move the teams chat notes to the github space? (Joe or designee)
+- [ ] Jacob: Is Lighthouse pulled from VAST? (11/14)
+- [ ] Jacob: Reach out to GI Bill team to see how their list is maintained and if there's an API for it. (11/14)
+- [ ] Joe/Eddie: Reach out to AVA CRM see what metadata is available from the unified Category/Topic/Subtopic endpoint.
+- [ ] Khoa: See `/ping` endpoint invoked from STAGING server (including the locked-down version of the endpoint).
+- [ ] Joe and Jacob to request zero tokens and access to the appropriate Azure resources.\
+   They will follow up with the support team and JD as needed for information on the resources to get access.
+- [ ] Joe and other FE devs to get AWS permissions to manage secrets for Dynamics API access
+   - [ ] AWS Login
+      - [X] ~Joe~
+      - [X] ~Eddie~
+      - [ ] Jacob
+      - [ ] Khoa
+   - [ ] AWS PutParameter permissions
+      - [ ] Joe
+      - [ ] Eddie
+      - [ ] Jacob
+      - [ ] Khoa
+
+---
+
+
 ## Meeting Notes for CRM Sync on 11/14/2023
 
 Daily scrums; VA Profile discussion
