@@ -264,7 +264,7 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 ### Task 7: [Mental health help]
 Let’s suppose that you've been going through some challenges in your life recently, and you want to talk to someone about how you're feeling. How would you do this? 
 
-*RECORD navigation: header > megamenu > Health care / **footer > Mental health** / search / mobile search*
+*RECORD navigation: **header > megamenu > Health care > View all in health care** / footer > Mental health / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
