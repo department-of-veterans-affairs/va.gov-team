@@ -8,7 +8,7 @@ If yes, then your Product Manager should submit the [CMS Collaboration Cycle Req
 ## Kickoff artifacts
 
 It is the Product Manager’s responsibility to ensure the product outline is attached to the Epic.
-The VFS team is responsible for providing all relevant and up-to-date links, screenshots, images, and designs of the product's as-is version.
+The team building on the CMS is responsible for providing all relevant and up-to-date links, screenshots, images, and designs of the product's as-is version.
 
 ## Questions about your product or feature:
 If you need more information about how to answer some of the questions that are asked in the kickoff ticket, you can find that below. These questions help us determine which practice areas to involve on the CMS team and which touchpoints that we recommend to your team.
