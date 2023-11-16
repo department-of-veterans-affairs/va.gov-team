@@ -245,7 +245,7 @@ Why do I need a whole screen reader? Why can't you just read it to me?" - P6
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-
+**UX/UI**
 -   The Review page was confusing for P5 (JAWS)
 
 >"There were drop down boxes there that would show what I already had entered. It was in a heading and a drop down box inside of a list. That is rather confusing. I didn't know if I could hit enter on that or not. So I would take those drop downs out of the heading. You're putting 2 forms at once in the same place and that confuses me at least. "
@@ -259,10 +259,6 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
  >  "Is there anything confusing on this page or something you are unsure of (Spouse’s Other Income page)? My screen reader jumps from the title to the selection. I can’t read the line above it. The other ones where the choices were yes or no it would eventually read the line above it. Okay there it goes I had to get the box up there to read it." - P6
 
-- After reading the Introduction/Steps page, one participant noted that the suggestion, "If you need help with your request, contact a local Veterans Service Organization (VSO)" was not helpful as it can take months to talk to a VSO. 
-
-- One participant was very involved in a blind Veterans organization and he noted that he did not know any other JAWS users. Other blind Veterans that he knew did not use technology. He noted that it was important to mail information as opposed to email as these Veterans did not have email addresses.
-
 - One participant's sentiment about the introductory page request to know about financial assets being "scary" echoed what others said in a previous study
 >"it had a lot of threatening, scary concepts in there. You wanted to know about my assets and then later on it said they wont take a home or other things away from you. Then why would you ask, knowing it then of course you’d take them."
 >-P6
@@ -273,6 +269,11 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 >"I hope there's nothing down below here because I'm not going to read it."
 >"For people like me, you should put that link down below this. When I get to where I think I need to start I just go." - P5
+
+**VA Experiences**
+- After reading the Introduction/Steps page, one participant noted that the suggestion, "If you need help with your request, contact a local Veterans Service Organization (VSO)" was not helpful as it can take months to talk to a VSO. 
+
+- One participant was very involved in a blind Veterans organization and he noted that he did not know any other JAWS users. Other blind Veterans that he knew did not use technology. He noted that it was important to mail information as opposed to email as these Veterans did not have email addresses.
 
 - 2 participants said they do not have to pay for copays due to blindness being considered a catastrophic disability by VA.
 
@@ -296,7 +297,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 _Next steps here. Include owners if appropriate._
 
-UX team is currently working on implementation of recommendations. 
+UX team is currently working on [implementation of recommendations](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/70022). 
 
 
 ## Further research needed
