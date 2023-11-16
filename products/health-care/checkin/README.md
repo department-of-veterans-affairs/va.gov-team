@@ -4,7 +4,7 @@
 - [Team Members](#team-members)
 - [Terminology](#terminology)
 - [Product](#product)
-- [Priorities and Backlog](#priorities-and-backlog)
+- [Priorities and Backlog](#priorities--backlog)
 - [Production Designs](#production-designs)
 - [Content](#content)
 - [Testing](#testing)
