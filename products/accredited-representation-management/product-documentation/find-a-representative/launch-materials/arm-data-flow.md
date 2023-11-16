@@ -76,7 +76,7 @@ The Representative and Organization MS Excel File is checked into the GitHub `de
 - `veteran_representatives`
 - `Veteran_organizations`
 
-We are using a spreadsheet from OGC to populate our accredited representative information in search results.  This data does contain personal information, but it is accredited representative and organization information -- not Veteran information -- that is intended for public use.  OGC believes this data is safe to use, but they are double checking.  If the need to protect information arises, we will reconsider how to solve for that.
+We are using a spreadsheet from OGC to populate our accredited representative information in search results.  This data does contain personal information, but it is accredited representative and organization information -- not Veteran information -- that is intended for public use.  To be safe, we will "sanitize" or delete any unnecessary data (accreditation dates, person who managed accreditation, database IDs, etc.) that may be potentially sensitive, to ensure we will only surface data that is known to be publicly available (already being served in the OGC tool).
 
 ## How is the data transferred, including information such as any encryption used?
 
