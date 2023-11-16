@@ -12,13 +12,13 @@ The proposed changes are documented in [this spreadsheet](https://dvagov.sharepo
 
 ## Priority of changes
 
-## Which updates are a "Must Have" in Phase 1
+### Which updates are a "Must Have" in Phase 1
 - Updating category, topic and subtopic names (1:1 changes)
 - Adding new topic or subtopic with an existing routing queue
 - Adding new topic or subtopic with a new routing queue
 - Removing current topic or subtopic
 
-## Which updates are a "Nice to Have" in Phase 1
+### Which updates are a "Nice to Have" in Phase 1
 
 - Including exceptions in ordering, for example, `Other` topic moves to last in the list
  
