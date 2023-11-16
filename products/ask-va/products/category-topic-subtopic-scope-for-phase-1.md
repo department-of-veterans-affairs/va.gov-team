@@ -29,4 +29,4 @@ We have the following evidence to support these updates:
 - Alignment with the VA.gov content style guide
 
 ## Next steps
-We need to a clear understanding of the development effort for the updates in order to prioritize them.
+We need to a clear understanding of the development effort for the updates in order to finish prioritizing them.
