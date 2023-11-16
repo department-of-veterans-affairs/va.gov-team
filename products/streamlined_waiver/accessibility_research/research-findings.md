@@ -109,11 +109,13 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 #### 1. We hypothesize that the eFSR/Streamlined Waiver form will be usable by Veterans that use screen readers. They will be able to understand it and fill it out.
 
 **Maybe true**
+
 The FSR experience through the screen reader was not cohesive across participants due to different screen reader types and unique navigating styles. More details in Finding #1. It would appear that across these different experiences, there are improvements that can be made to enhance the screen reader experience. 
 
 #### 2. While we think it will be usable, we also believe that accessibility issues identified in an internal accessibility audit, may take away from the experience.
 
 **Likely true**
+
 A participant who identified as being a beginner VoiceOver user faced some of the issues seen in the internal audit. These include:
 - Reading bullet points as "black square", which is a VoiceOver bug
 - Not reading items that had issues with the Focus attribute including one of the Additional Information components and the Transition page. (See Finding #6)
@@ -121,12 +123,13 @@ A participant who identified as being a beginner VoiceOver user faced some of th
 #### 3. We further hypothesize that the accessibility of the form will line up with the mental models that Veterans who use screen readers have about online forms.
    
 **Likely true**
+
 This was true for the 2 participants that reached the end of the form. More details on Finding #7. 
 
 
 ## Key Findings
 
-**Navigation findings**
+Navigation findings
 
 **1. The ease of use of the financial status report form (streamlined waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
 
@@ -135,7 +138,7 @@ This was true for the 2 participants that reached the end of the form. More deta
 **3.  We found that users of screen readers were extraordinarily patient.**
 
 
-**UX/UI findings**
+UX/UI findings
 
 **4.   The login process was time-consuming and led to many participants running out of time to interact with the form.**
 
@@ -143,7 +146,7 @@ This was true for the 2 participants that reached the end of the form. More deta
 
 **6.   VoiceOver is not reading all information on the form pages, including the Transition page**
 
-**Satisfaction Findings**
+Satisfaction Findings
 
 **7. The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time.**
 
@@ -160,7 +163,7 @@ Labels: Accessibility, AST: Screen readers, DSC: Accordions, DSC: Alert boxes, D
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 
-**Navigation findings**
+#### Navigation findings
 
 **1. The ease of use of the Financial Status Report form (Streamlined Waiver path) seemed to differ across participants based on the type of screen reader used and their level of proficiency with it, and unique navigation style.**
 
@@ -179,7 +182,7 @@ Additionally, the sample of Veterans we spoke to sometimes had different systems
 
 **2. The experience of navigating through the form if the participant was fully reliant on the screen reader (if blind) or if they were partially reliant on the screen reader (if low vision) presented different opportunities and challenges.**
 
-2 participants reported being visually impaired but not totally blind. These participants used the screen reader some of the time and their vision the rest of the time to progress through the form. P6 has peripheral vision and uses their screen reader 20% of the time. One of the challenges that surfaced was that certain elements on the page were visually bothersome to participants with low vision as they knew the elements were there but did not know what they said or what purpose they had. For example, P6 stated that the auto-save alert with a green background was distracting them.
+Two participants reported being visually impaired but not totally blind. These participants used the screen reader some of the time and their vision the rest of the time to progress through the form. P6 has peripheral vision and uses their screen reader 20% of the time. One of the challenges that surfaced was that certain elements on the page were visually bothersome to participants with low vision as they knew the elements were there but did not know what they said or what purpose they had. For example, P6 stated that the auto-save alert with a green background was distracting them.
 
 >"How do you feel about the flash?" 
 >"It bothers me because it seems like I should be looking at it. If it flashes I should look at it. I don’t know what to do with it because it is flashing and not treating it like text. When it flashes you want to know what it is saying. I cant see what it says but I know it is flashing." -P6 (VoiceOver)
@@ -196,7 +199,7 @@ Although the login process was time consuming and frustrating, participants were
 
 For this study, we used a staging test account. The form link had to be shared with participants to their email or to the Zoom chat. Participants had to manually retrieve the email and open the link, navigate back to the Zoom, and share their screen. They had to go through the Wizard, intro page, and then the login page. The user ID and password were shared with them verbally.
 
-**UX/UI findings**
+#### UX/UI findings
 
 **4.  The login process was time consuming and led to many participants running out of time to interact with form.**
 
@@ -224,7 +227,7 @@ There is an issue with Focus attribute and has been documented previously that i
 
 
 
-**Satisfaction Findings**
+#### Satisfaction Findings
 
 **7. The 2 participants that completed the form from start to finish felt that the form didn't flow as much as they would have wished, and wished for the convenience of hearing the entire form read to them at once. However,  they noted that the form got easier over time (p5 - JAWS user, 25 years; P6 - VoiceOver user,  2-5 years).**
 
@@ -298,7 +301,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 _Next steps here. Include owners if appropriate._
 
-UX team is currently working on [implementation of recommendations](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/70022). 
+Debt Resolution team is currently working on [implementation of recommendations](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/70022). 
 
 
 ## Further research needed
@@ -329,11 +332,11 @@ Participants used a staging account to log in to https://staging.va.gov/manage-v
 
 ## Other supporting documents created
 
-[Streamlined Waiver (FSR) userflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?sender=ua78f969c4cddcbfe56b27885)
+- [Streamlined Waiver (FSR) userflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?sender=ua78f969c4cddcbfe56b27885)
 
-[Internal Accessibility Audit](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66288)
+- [Internal Accessibility Audit](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/66288)
 
-[Accessibility Planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694032659442/5a2fcb1903a1f7bed360f9abe6784b1b701503c3?sender=u144a57b408dc250f8de06881)
+- [Accessibility Planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694032659442/5a2fcb1903a1f7bed360f9abe6784b1b701503c3?sender=u144a57b408dc250f8de06881)
 
 
 ## Secondary research
