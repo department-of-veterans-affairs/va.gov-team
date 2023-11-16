@@ -11,8 +11,7 @@
 
 
 ## Who Will Use the Product
-- Could* impact all Veterans using the VA Health and Benefits App 
-   *Dependent on what restrictions are used
+- Could impact all Veterans using the VA Health and Benefits App - Dependent on what restrictions are used
 
 ## Current Experience ##
  - VA Health and Benefits App - no screenshot restrictions - no pain points identified from Veterans
