@@ -55,7 +55,7 @@ The form will live under the new parent page for supporting forms.
 
 <img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/2e5cf56a-5887-4a1c-aaf3-00687a05422c">
 
-3. **[Reclamaciones complementarias](https://www.va.gov/decision-reviews/supplemental-claim-esp/))** - Add
+3. **[Reclamaciones complementarias](https://www.va.gov/decision-reviews/supplemental-claim-esp/)** - Add
   - Placement description: Under "¿Cómo presento una reclamación complementaria?" section
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
