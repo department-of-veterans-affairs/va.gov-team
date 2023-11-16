@@ -47,7 +47,19 @@ The form will live under the new parent page for supporting forms.
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
   - Notes:
 
-2. **[Supplemental claims](https://www.va.gov/decision-reviews/supplemental-claim/)** - Add
+2. **[About VA Form 21-4142](https://www.va.gov/find-forms/about-form-21-4142/)** - Add
+  - Placement description:
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
+  - Notes:
+
+3. **[About VA Form 21-4142a](https://www.va.gov/find-forms/about-form-21-4142a/)** - Add
+  - Placement description:
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
+  - Notes:
+
+4. **[Supplemental claims](https://www.va.gov/decision-reviews/supplemental-claim/)** - Add
   - Placement description: Under "How do I file a Supplemental Claim?" section
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
@@ -55,7 +67,7 @@ The form will live under the new parent page for supporting forms.
 
 <img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/2e5cf56a-5887-4a1c-aaf3-00687a05422c">
 
-3. **[Reclamaciones complementarias](https://www.va.gov/decision-reviews/supplemental-claim-esp/)** - Add
+5. **[Reclamaciones complementarias](https://www.va.gov/decision-reviews/supplemental-claim-esp/)** - Add
   - Placement description: Under "¿Cómo presento una reclamación complementaria?" section
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
@@ -63,8 +75,7 @@ The form will live under the new parent page for supporting forms.
 
 <img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9d4ab557-7fe2-414c-8652-35a70ceef750">
 
-    
-4. **[VA’s duty to assist](https://www.va.gov/resources/vas-duty-to-assist/)** - Add
+6. **[VA’s duty to assist](https://www.va.gov/resources/vas-duty-to-assist/)** - Add
   - Placement description: Under "What’s “duty to assist”?" section, specifically under "Permission to access your private medical records" subsection
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142
