@@ -19,9 +19,11 @@ The proposed changes are documented in [this spreadsheet](https://dvagov.sharepo
 - Removing current topic or subtopic
 
 ### "Nice to Have" changes for Phase 1
-
 - Including exceptions in ordering, for example, `Other` topic moves to last in the list
- 
+
+### Not in scope changes for Phase 1
+- Removing or adding categories
+
 ## Evidence to support changes
 We have the following evidence to support these updates: 
 - Reviews with each business line, including meeting notes and email documentation
