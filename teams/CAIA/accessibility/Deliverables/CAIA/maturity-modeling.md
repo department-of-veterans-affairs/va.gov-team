@@ -20,3 +20,6 @@ Facets to consider, as brainstormed by the wider community of practice for acces
 - does the team regularly conduct inclusive research sessions
 - has the team successfully completed (some number of) staging reviews with no major accessibility findings
 - does the team annotate its prototypes with useful accessibility information
+- how many current, open accessibility issues does the team have
+- does the team have unit tests in place that include accessibility
+
