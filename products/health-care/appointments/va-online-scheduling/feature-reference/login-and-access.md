@@ -9,18 +9,20 @@ Appointments is authenticated and has some access requirements that Veterans mus
 
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 - A user may only log into VAOS if all the following are true:  
   -  User is registered for care at a VA Medical Center (VAMC).
   -  User has a Premium MyHealtheVet, Id.me, Login.gov,  or DS Logon Level 2 login credential.     
 - A message must display to any non-registered veterans informing them they must be registered at a VAMC to use VAOS.  
 
-**Technical Notes**
-- To determine registered facilities, front end uses the facilities information provided by the VA Profile team. 
+### Non-functional
+- To determine registered facilities, front end uses the facilities information provided by the VA Profile team.
+   - Once the user logs in and is authenticated VAOS FE makes an call to the `/v0/user` the endpoint returns a response with a field called `vaProfile`.
+   - The `vaProfile` field contains a field called `facilities`.  
+   - The logic checks if the facilities field is empty. If the field is empty, then the code will determine if the user is ineligible to use VAOS because they have not been registered at a VA facility. 
 - The VA Profile team gets the registered facilities from the VA's Enrollment System team.
-- The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA to the Enrollment system when a veteran is registered and/or key information on veteran is edited in Vista. The IVM Background job must be queued to send the Z07s from VistA to the Enrollment System.        
-
+- The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA to the Enrollment system when a veteran is registered and/or key information on veteran is edited in Vista. The IVM Background job must be queued to send the Z07s from VistA to the Enrollment System.   
 
 ## Specifications
 
@@ -80,7 +82,7 @@ To see the current api responses:
   <summary>Sample response</summary>
 
 ```json
-[Add sample response]
+`"vaProfile": { "status": "OK", "birthDate": "20010531", "familyName": "Morgan", "gender": "M", "givenNames": [ "Cecil", "Matthew" ], "isCernerPatient": false, "facilities": [ { "facilityId": "983", "isCerner": false }, { "facilityId": "984", "isCerner": false } ], "vaPatient": true, "mhvAccountState": "OK" },` 
 ```
 
 </details>

@@ -71,7 +71,7 @@ Type of care
     -  In lieu of a modality icon `Community care` must display for Community Care appointments.
  
 ### Technical notes
-
+- Once the user lands on the VAOS homepage,  the appointment endpoint returns future booked appts (previous month through  1yr from next month) and proposed appt (3 months prior through next month) which contains locationID aka the facilityID (ie  984) along with the facility name (Dayton VA Medical Center). 
 - In VistA, all appointments are tied to an appointment request.  VAOS displays all types of appointments.  A user may cancel an appointment in VAOS that could be tied to a `Veteran`, `APPT`, `Consult`, `Return to Clinic`, `Procedure` requests type and canceling that appointment must reopen the original appointment request. The default cancel reason in VAOS is UNABLE TO KEEP APPOINTMENT and in VistA this reason has REOPEN REQUEST UPON CANCEL: YES.   
 - Office of Integrated Veteran Care's  (OIVC) stop code exclusion list is updated regularly as a MAS consul value with codes provided to the dev team by the OIVC.
 - When VAR/VAOS was first rolled out (circa 2015) two new REQUIRED fields were introduced: `DIRECT PATIENT SCHEDULING?` and, `DISPLAY CLIN APPT TO PATIENTS?`. There was NOT a post install to populate these required fields on existing clinics.  So, there could be clinics in production where these two data fields are `NULL`.  
@@ -83,7 +83,7 @@ Type of care
     - VAMC staff use VistA Roll and Scroll, Appointment Management and book into a clinic with secondary telehealth stop code OR 
     - VAMC staff have configured a clinic that has secondary telehealth stop code for direct scheduling and veteran self-schedules into that clinic.  
     - Telephone is always a primary stop code, never a secondary -- e.g., user would create a telephone clinic with either no secondary or primary care as a secondary stop code. There are several stop codes for telephone.  See https://issues.mobilehealth.va.gov/browse/EAS-1425.
-    
+- Leah 3/16/23: VAOS FE code is no longer calling the provider's endpoint in the backend when viewing the pending appointment details page. This addresed an invalid NPI issue. 
     
 
 
