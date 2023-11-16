@@ -5,15 +5,15 @@ Before engaging with the CMS Collaboration Cycle, please review the guidance and
 
 If yes, then your Product Manager should submit the [CMS Collaboration Cycle Request ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=BerniXiongA6&labels=CMS+Team%2C+Needs+Analysis%2C+CMS-Collab-Cycle%2C+Epic&projects=&template=cms-collaboration-cycle-request.yml&title=CMS+Collaboration+Cycle+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) and answer the kickoff questions. We'll update that Epic with recommended touchpoints and respond in the Slack post that you create.
 
-## Kickoff artifacts
+# Kickoff artifacts
 
 It is the Product Manager’s responsibility to ensure the product outline is attached to the Epic.
 The team building on the CMS is responsible for providing all relevant and up-to-date links, screenshots, images, and designs of the product's as-is version.
 
-## Questions about your product or feature:
+# Questions about your product or feature:
 If you need more information about how to answer some of the questions that are asked in the kickoff ticket, you can find that below. These questions help us determine which practice areas to involve on the CMS team and which touchpoints that we recommend to your team.
 
-### Are you doing user research with CMS editors?
+## Are you doing user research with CMS editors?
 
 We ask this question to determine if a research review touchpoint is necessary.
 
@@ -24,7 +24,7 @@ Examples of research with CMS Editors include:
 - Card sorting
   
    
-### Will your work result in visible changes to the user experience of the CMS?
+## Will your work result in visible changes to the user experience of the CMS?
 
 We ask this question to determine if a design intent touchpoint is necessary.
 
@@ -40,20 +40,20 @@ Examples of **no visible changes** include:
 - Changes to code that the user won’t see
 - Changes to accessible labels (aria-label, aria-labelledby, aria-describedby)
    
-### Will your work require introducing a new Drupal module or changes to an existing module?
+## Will your work require introducing a new Drupal module or changes to an existing module?
 
 We ask this question to determine if a module review touchpoint is necessary.
 
 Any new modules or changes to existing modules will need to be reviewed and approved by a designer, accessibility specialist, and developer on the CMS team before becoming a part of the CMS.
 
 
-### Do you need to capture any analytics or metrics?
+## Do you need to capture any analytics or metrics?
 
 We ask this question to determine if an Analytics Request touchpoint is necessary.
 
 
 
-### Will this work require creating/editing any CMS Knowledge Base articles?
+## Will this work require creating/editing any CMS Knowledge Base articles?
 
 We ask this question to determine if the CMS Help Desk will need to review any CMS Knowledge Base articles.
 
