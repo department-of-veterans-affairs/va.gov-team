@@ -12,15 +12,15 @@ These changes are documented in [this spreadsheet](https://dvagov.sharepoint.com
 - ["Nice to Have" updates for Phase 1](#nice-to-have-updates-for-phase-1)
 
 ## "Must Have" updates for Phase 1
-- Changes to category, topic and subtopic names only
+- Updating category, topic and subtopic names (1:1 changes)
 - Adding new topic or subtopic with an existing routing queue
-- Adding new topic or subtopic with a completely new routing queue
+- Adding new topic or subtopic with a new routing queue
 - Removing current topic or subtopic
 
 ## "Nice to Have" updates for Phase 1
 
-- Moving 'Other' topic or subtopic to the bottom of the list
-
+- Including exceptions in ordering, for example, `Other` topic moves to last in the list
+ 
 ### Evidence
 We'll have the following evidence to support these updates: 
 - Reviews with each business line, including meetings and email follow-ups
