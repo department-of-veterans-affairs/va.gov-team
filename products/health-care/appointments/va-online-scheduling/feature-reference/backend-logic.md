@@ -1,4 +1,4 @@
-# Backend Logic
+# Backend requirements and logic
 
 Logic used by tools and services to determine what is displayed in VAOS
 
@@ -6,7 +6,24 @@ Logic used by tools and services to determine what is displayed in VAOS
 ## Determining available types of care for scheduling
 
 - The types of care are tied to clinics via stop codes that are [determined by the VA](../vista-appointments-facilities-clinics.md#clinic-stop-codes)
-- VATS Mental Health used to utilize one primary stop with a set of various secondary stop codes.  This was changed and now Mental Health only uses one Mental Health primary stop code,  502, and no secondary stop codes.  This change is reflected in Clinic Configuration Manager (CCM) but not VATS.  
+- VATS Mental Health used to utilize one primary stop with a set of various secondary stop codes.  This was changed and now Mental Health only uses one Mental Health primary stop code,  502, and no secondary stop codes.  This change is reflected in Clinic Configuration Manager (CCM) but not VATS. 
+
+### Type of Care Mapping from VAOS to VistA
+
+| VAOS Types of Care/CCM              | VistA Name                         |
+| ----------------------------------- | ---------------------------------- |
+| Amputation Services                 | 211 PM&RS AMP CLINIC               |
+| Audiology                           | 203 AUDIOLOGY                      |
+| Pharmacy                            | 160 CLINICAL PHARMACY              |
+| CPAP                                | 349 SLEEP MEDICINE                 |
+| Food and Nutrition                  | 123 NUTRITION/DIETETICS-INDIVIDUAL |
+| MOVE! program                       | 372 WEIGHT MGMT & MOVE! PROG - IND |
+| Primary Care                        | 323 PRIMARY CARE/MEDICINE          |
+| Ophthalmology                       | 407 OPHTHALMOLOGY                  |
+| Optometry                           | 408 OPTOMETRY                      |
+| Outpatient Mental Health            | 502 MENTAL HEALTH CLINIC - IND     |
+| Sleep Medicine - Home Sleep Testing | 143 SLEEP STUDY                    |
+| Social Work                         | 125 SOCIAL WORK SERVICE            |
 
 ## Determining eligibility to schedule into a clinic
 
@@ -108,4 +125,55 @@ How the API determines CC eligibility:
 - A VA location will not display in the list if both Direct Schedule and Requests are set to NO in CCM. 
 
 
+## Creating appointments and requests in backend systems
+
+
+### VA Direct-scheduled Appointments in VistA
+-  Irrespective of the VistA clinic’s “Prohibit Access” setting, a VistA appointment must be allowed to be booked when Direct Scheduling flag AND the Display Flag for the clinic both = YES.
+-  A veteran must not be allowed to book an appointment at the same time as an existing appointment in that same VistA instance. 
+-  All direct scheduled appointments as entered in VAOS must write to the VistA system and create an entry in the SDEC Appointment file (409.84). 
+-  All direct scheduled appointments must write the following data to the VistA system:    
+   - VistA Purpose of Visit must be set to Scheduled.  
+   - VistA Appointment Type must be set to Regular
+   - VistA Appointment Made (User) must be set to SDESOITEAS,SRV
+   - VistA Request Type = Other than Not avail
+   - VistA Next Avail Type = Not indicated toa be next avail
+   - VistA PID/Preferred Date of Appointment must be set to the date selected as entered on When do you want to schedule page
+   -  VistA Patient Comments must be set as entered in the comment section on the Choose Reason for Appointment page.
+   - VistA Patient Comments must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS.  
+   - VistA Clinic wait time 1 must be set to the difference b/w the date the appointment was processed and the date of the appointment
+   - VistA Clinic wait time 2 must be set to the difference b/w the preferred date of the appointment (as entered in VAOS on the WHEN DO YOU WANT TO SCHEDULE page) and the date of the appointment.  
+
+### VA Requests in VistA
+-  All VA request appointments as entered in VAOS must write to the VistA system and create an entry in the SDEC Appointment Request file (409.85). 
+   - VistA Req Service/Specialty must be set to the Type of Care selected in VAOS.  (See mapping below)
+   - VistA Institution must be set to the Parent Location
+   - VistA Request Appointment Type set must be set to VETERAN
+   - VistA Originating user must be set to SDESOITEAS,SRV
+   - VistA Requested by must be set to Patient
+   - VistA PID/Preferred Date of Appointment must be set to the first date enter as entered on Choose date for appointment
+   - VistA Priority must be set to ASAP
+   - VistA Modality must be set as entered in VAOS on the Choose a type of appointment page.  
+        - VAOS Office Visit = Face to Face
+        - VAOS Telephone  = Phone Call
+        - VAOS Telehealth = Video
+- VistA Patient Comments must include the following:
+      - Location Selected in VAOS
+      - The second and third date preferences if entered on the Choose an appointment day and time page
+      - Email and phone number.  
+      - Comments must be set as entered on the Choose Reason for Appointment page must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS. 
+
+### Community Care Requests in HSRM
+- All community care requests must write the following data to the Health Systems Referral Management System (HSRM)
+      - Site ID
+      - Email
+      - Mobile Phone number
+      - Communication preference
+      - Request times
+      - Type of care
+      - Preferred contact time
+      - Preferred Language
+      - Preferred city
+      - Preferred state
+      - Comments
 

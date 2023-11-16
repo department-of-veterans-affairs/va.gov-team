@@ -13,13 +13,7 @@ Veterans are asked to review the appointment details and submit.
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- The user is presented with the information entered on the previous pages in the form
-- Edit links in different sections take the user back to that page, and the user has to navigate back through the flow again after making their change
-- After clicking Submit:
-    - When there is an error, an error alert will be shown under the button with information about what went wrong and how to contact the facility
-    - If a request was successfully made, the user is redirected to the detail page for that request
-        - A confirmation message is shown on the detail page
-    - If an appointment was made successfully, the appointment confirmation page is shown
+See [shared requirements for review pages](./shared-requirements.md#review-page-requirements)
 
 ## Specifications
 
