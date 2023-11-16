@@ -64,19 +64,24 @@
 - [Mural version](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286)
 - [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
 
+### Check In Demos
+- [Check in with travel reimbursement demo (hosted in DSVA)](https://dsva.slack.com/archives/C022AC2STBM/p1686319718443789)
+- [Check in with travel reimbursement demo (hosted in Sharepoint)](https://dvagov-my.sharepoint.com/:v:/r/personal/benjamin_brasso_va_gov/Documents/PCI%20travel%20reimbursement%20demo/PCI%20with%20travel%20pay%20demo.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=iOKf51)
+
 ## Priorities & Backlog
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
 
-## Production Wireframes in VA Sketch Cloud
-- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/6559E321-AF82-42D1-837D-75F9DB19DF15/canvas) in Sketch Cloud
-- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/37E0C5B9-D07D-4782-AF6B-6AD947AE0BE2/canvas) in Sketch Cloud
-- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0213EBFE-75F9-4C0E-805B-5E77F30A8F04/canvas) in Sketch Cloud
-- [In person Check-in with beneficiary travel reimbursement](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/A6E73D11-A95C-4EC0-A3B7-792CE5799C59/canvas) in Sketch Cloud
+## Production Designs
+- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/6559E321-AF82-42D1-837D-75F9DB19DF15/canvas) 
+- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/37E0C5B9-D07D-4782-AF6B-6AD947AE0BE2/canvas)
+- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0213EBFE-75F9-4C0E-805B-5E77F30A8F04/canvas)
+- [In person Check-in with beneficiary travel reimbursement](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/A6E73D11-A95C-4EC0-A3B7-792CE5799C59/canvas)
+- [In person Check-in with beneficiary travel reimbursement userflow](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0157CB5C-B33B-4324-B375-AC686EFA3B4A/canvas)
 
-## Other Design Artifacts 
+### Other Design Artifacts 
 - [Check in posters (for download)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
-- [Unified check in draft design](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas) in Sketch Cloud
+- [Unified check in draft design](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
 
 ## Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
