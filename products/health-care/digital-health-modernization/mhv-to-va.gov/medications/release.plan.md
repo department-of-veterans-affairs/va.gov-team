@@ -33,7 +33,7 @@ Throughout the phases, a rollout phase checklist is being completed and maintain
 - Qualitative user feedback process identified
 #### Phase 0 Success Criteria
 - All user experience feedback accounted for, prioritized, and have an agreed upon action plan.
-- Users are able to complete the actions that they intended for the site: Request renewal, track shipments, easily locate desired medication in the list, understand what actions can or can't be taken on that medication
+- Users are able to complete the actions that they intended for the site: Request refill, track shipments, easily locate desired medication in the list, understand what actions can or can't be taken on that medication
 
 ### Results:
 - Number of users: x 	
