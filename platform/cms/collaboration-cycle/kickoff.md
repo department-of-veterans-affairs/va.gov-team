@@ -15,7 +15,7 @@ If you need more information about how to answer some of the questions that are 
 
 ### Are you doing user research with CMS editors?
 
-We ask this question to determine if a research review is necessary.
+We ask this question to determine if a research review touchpoint is necessary.
 
 Examples of research with CMS Editors include:
 
@@ -26,7 +26,7 @@ Examples of research with CMS Editors include:
    
 ### Will your work result in visible changes to the user experience of the CMS?
 
-We ask this question to determine...
+We ask this question to determine if a design intent touchpoint is necessary.
 
 Examples of **visible changes** include:
 
@@ -42,16 +42,18 @@ Examples of **no visible changes** include:
    
 ### Will your work require introducing a new Drupal module or changes to an existing module?
 
-We ask this question to determine...
+We ask this question to determine if a module review touchpoint is necessary.
+
+Any new modules or changes to existing modules will need to be reviewed and approved by a designer, accessibility specialist, and developer on the CMS team before becoming a part of the CMS.
 
 
 ### Do you need to capture any analytics or metrics?
 
-We ask this question to determine...
+We ask this question to determine if an Analytics Request touchpoint is necessary.
 
 
 
 ### Will this work require creating/editing any CMS Knowledge Base articles?
 
-We ask this question to determine...
+We ask this question to determine if the CMS Help Desk will need to review any CMS Knowledge Base articles.
 
