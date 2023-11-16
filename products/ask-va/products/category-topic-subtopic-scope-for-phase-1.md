@@ -10,29 +10,23 @@ The proposed changes are documented in [this spreadsheet](https://dvagov.sharepo
 - which topics or subtopic to remove
 - order of category, topics and subtopics lists
 
-**Jump to**
-- ["Must Have" updates for Phase 1](#must-have-updates-for-phase-1)
-- ["Nice to Have" updates for Phase 1](#nice-to-have-updates-for-phase-1)
+## Priority of changes
 
-## "Must Have" updates for Phase 1
+## Which updates are a "Must Have" in Phase 1
 - Updating category, topic and subtopic names (1:1 changes)
 - Adding new topic or subtopic with an existing routing queue
 - Adding new topic or subtopic with a new routing queue
 - Removing current topic or subtopic
 
-## "Nice to Have" updates for Phase 1
+## Which updates are a "Nice to Have" in Phase 1
 
 - Including exceptions in ordering, for example, `Other` topic moves to last in the list
  
-### Evidence
-We'll have the following evidence to support these updates: 
-- Reviews with each business line, including meetings and email follow-ups
-- Reviews with the VA.gov content team, who oversees all content on VA.gov
+## Evidence to support changes
+We have the following evidence to support these updates: 
+- Reviews with each business line, including meeting notes and email documentation
+- Reviews with VA.gov content team, who oversees all content on VA.gov
 - Alignment with the VA.gov content style guide
-- (pending) Clear understanding of development effort for updates, especially the "Must Have" updates
 
-## Note that usability testing will **not** focus on:
-- the category, topic and subtopics names, apart from the health care category
-- the addition of new topics or removal of old topics
-- routing queues
-- moving 'other' to the bottom of the list (not present in the flow we're testing)
+## Next steps
+We need to a clear understanding of the development effort for the updates in order to prioritize them.
