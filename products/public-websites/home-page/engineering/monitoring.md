@@ -21,17 +21,11 @@ https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx?from_ts=1698262600630&
   * In logs window that opens, left sidebar, Status: only select Error and Warn (and Emergency, Debug as needed) to see the failure logs
 * Review the failure logs, and report any issues to the Platform team as needed.
 
-
-* Sample Runs area, and select "Failed Run".
-* In the Event list, Datadog will show each case the Synthetic monitor is testing, and which one failed. For the failure case, there will be a description and a screenshot (if available) to explain what happened.
-
+If no Events ALerts:
 * In the Monitor result that loads, Properties area will show a link: SYNTHETIC TEST: Name: [[PLATFORM] VA.gov Homepage Load] (link). Click that link.
 * The [PLATFORM] VA.gov Homepage Load synthetic test page will load.
-
-
-Example screenshot: 
-![Screenshot 2023-11-16 at 9 46 43 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/85581471/2d066429-06c9-4bc7-accc-2193a80b8ede)
-
+* Sample Runs area, and select "Failed Run".
+* In the Event list, see if any failed Events are reported.
 
 
 
