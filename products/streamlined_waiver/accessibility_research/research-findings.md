@@ -189,6 +189,7 @@ Two participants reported being visually impaired but not totally blind. These p
 
 Low-vision participants used their vision to click on places where the screen reader was not reading the intended text. 
 
+
 *Auto-save alert with green background*
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/images/auto-save-fsr.png" alt="green alert that appears to tell users that the form has been saved" width="500"/>
@@ -217,9 +218,16 @@ The same participant accidentally hit "back" and wasn’t sure where they were i
 
 >"It was good that it didn't kick me out of the form entirely. But the use of the commands was a little confusing. Back or cancel. If it's cancel, I think I'm cancelling the entire form."  - P6
 
+
+*"Cancel" and "Add employment record" buttons on Work History page*
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/images/add-cancel-buttons.png" alt="Cancel and Add buttons on Work History page" width="500"/>
+
+
 **6.  VoiceOver is not reading all information on the form pages, including the Transition page**
 
 There is an issue with Focus attribute and has been documented previously that is causing the Transition page to be skipped by VoiceOver users. Other components where information was not being read by VoiceOver include the "Additional Information" accordion component as well as information near a question on a form page.
+
 
 *Transition page*
 
