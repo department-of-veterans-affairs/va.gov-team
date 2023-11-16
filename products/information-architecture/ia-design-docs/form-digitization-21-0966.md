@@ -49,19 +49,19 @@ The form will live under the new parent page for supporting forms. Sitemap has a
   - Link destination: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
   - Notes:
 
-2. **[How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)** - Modify
+2. **[Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/)** - Add
+  - Placement description: Under "How do I notify VA of my intent to file?" section
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
+  - Notes:
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/ddd83a5b-a920-44d4-9b4f-a71dedb80ffb"
+
+3. **[How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)** - Add
   - Placement description: Currently, the form is mentioned in the "You can't use our online application right now" section
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
   - Notes: The pension form is currently down and so the intent to file form is mentioned in a gray box that will be removed once the form is relaunched, which will be in January 2024. We recommend working with Katherine Fung for when pension form is relaunched and the intent to file placement may move. She is the main point of contact for Content updates for this form.
 <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/2474c995-1d11-4b22-ad6e-d037a7f78074">
-
-3. **[Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/)** - Modify
-  - Placement description: Under "How do I notify VA of my intent to file?" section
-  - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
-  - Notes:
-<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/ddd83a5b-a920-44d4-9b4f-a71dedb80ffb">
 
 
 ## <a name="redirects"></a>Redirects <br>
