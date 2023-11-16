@@ -5,13 +5,12 @@
 - [Terminology](#terminology)
 - [Product](#product)
 - [Priorities and Backlog](#priorities-and-backlog)
-- [Production Wireframes in VA Sketch Cloud](#production-wireframes-in-va-sketch-cloud)
-- [Other Design Artifcats](#other-design-artifacts)
+- [Production Designs](#production-designs)
 - [Content](#content)
 - [Testing](#testing)
 - [Releases](#releases)
 - [Process](#process)
-- [Discovery and Research](#discovery-and-research)
+- [Research](#research)
 - [Translations](#translations)
 - [Engineering](#engineering)
 - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
@@ -45,9 +44,9 @@
 - [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Terminology
-- Pre-Registration: The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  
-- Pre-Check In: The Patient Check In (PCI) application workflow that occurs one to seven days before an appointment to collect Pre-Registration information. It is initiated after a Veteran confirms their appointment through an appointment reminder. 
-- Check In: The Patient Check In (PCI) application workflow that occurs within a window that is no more than 45 minutes before and up to 15 minutes after a Veteran's appointment. Online check in has logic to include pre-registration, checking in (which sets the VistA status to e-check-in: complete, and filing for travel reimbursment.  
+- **Pre-Registration:** The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  
+- **Pre-Check-In:** The Patient Check In (PCI) application workflow that occurs one to seven days before an appointment to collect Pre-Registration information. It is initiated after a Veteran confirms their appointment through an appointment reminder. 
+- **Check In:** The Patient Check In (PCI) application workflow that occurs within a window that is no more than 45 minutes before and up to 15 minutes after a Veteran's appointment. Online check in has logic to include pre-registration, checking in (which sets the VistA status to e-check-in: complete, and filing for travel reimbursment.  
 - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/acroynyms.md)
 
 ## Product 
@@ -105,7 +104,7 @@
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/sprintdemo)
 - [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 
-## Discovery and Research
+## Research
 - [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
 - [Beneficiary travel reimbursement discovery and research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/travel-reimbursement)
 
