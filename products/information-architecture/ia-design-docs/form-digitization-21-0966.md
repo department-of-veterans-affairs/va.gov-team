@@ -54,7 +54,7 @@ The form will live under the new parent page for supporting forms. Sitemap has a
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
   - Notes:
-<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/ddd83a5b-a920-44d4-9b4f-a71dedb80ffb"
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/ddd83a5b-a920-44d4-9b4f-a71dedb80ffb">
 
 3. **[How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)** - Add
   - Placement description: Currently, the form is mentioned in the "You can't use our online application right now" section
