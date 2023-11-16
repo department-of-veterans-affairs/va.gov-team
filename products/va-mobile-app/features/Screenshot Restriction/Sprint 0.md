@@ -1,54 +1,118 @@
-# Sprint 0 Product Brief Template 
+**Screenshot Restriction Sprint 0**
+- Date: Novemer 2023
+- Author: Adam Kasmier
 
-[Link to Epic]
+**Problem Definition**
+ - As the VA, I want to understand if the VA Health and Benefits App should / needs to add screenshot restrictions in order to improve the security of the app and meet industry standards.
 
-## Problem Statement
 
-### Current Experience ###
+**Opportunity and Impact**
+- Improve security within the app by preventing screenshots, screen recordings 
 
-* How does it currently function in the app or elsewhere?  How does this affect Veterans?  Highlight any current pain points.
 
-### Desired Outcomes ###
+**Who Will Use the Product**
+- Could* impact all Veterans using the VA Health and Benefits App 
+   *Dependent on what restrictions are used
 
-* What do we want the experience to be like for Veterans and/or other users?
+**Current Experience**
+ - VA Health and Benefits App - no screenshot restrictions - no pain points identified from Veterans
 
-## Assumptions and Level of Confidence
+**Desired Outcome**
+- Desired outcome not yet determined, this is exploratory on if VA Health and Benefits app should consider implementing screenshot restrictions and if so understanding the impact of implementing such changes
 
-1. What assumptions are we making about this problem?  How confident are we about these assumptions?
+**Findings** 
+- Why do some apps and website restriction screenshots
+   - Protect sensitive information (financial data, passwords, usernames, account numbers, copyright materials)
+   - Prevent hackers from logging in and capturing user information or accessing images and modifying them 
+- Tested app screenshots on a few other apps
+   - Discover Mobile
+      - Did not experience any screenshot prevention  - screenshotted in credit, debt, personal loan products - got financial data, profile data, income, etc  
+   - Cigna
+      - Did not experience any screenshot prevention  - screenshotted login page (username/password displayed), profile information, security questions, id card
+  - Charles Schwab
+      - Entire app seems to prevent screenshots 
+- Industry standards / findings
+  - Legally, screenshots are not illegal, the legality depends on what is done with it 
 
-## Risks
+- Screenshot restriction perception
+   - Sometimes screenshots are prevented cause of one's device settings or do not have enough space on their phone
+   - User sentiment is that screenshotting should be allowed and not be prevented 
+   - If you search for why screenshots prevented results will be flooded with how to get around it (videos, reddit, blogs, etc)
+     -  People are continuing to try and finding ways around the issue
+     -  Users have found that it doesn't work on their Apple device but works on Android (and vice versa) 
+     -  Ways around it (note sometime these gaps are closed by some devices /OS - sometime stay open) 
+         -  Easiest way around it - take a picture of the screen from another device
+         -  3rd party apps
+         -  Screencast to another device and then screenshot
+         -  Google Assistant
+         -  Print Screen
+         -  Google Chrome - report a page - takes a screenshot that was previously prevent - then keep it vs sending it
+     -  Screenshots are taken but are returned with a black screen and no messaging, or messaging after the fact to say its not allowed due to security reasons 
 
-1. What are the things that could throw a wrench in our efforts? 
-    1.  Are there steps we can take to mitigate these risks?
+**What implementation could look like in the app**
+- If we wanted to prevent screenshots in the app where would that be?
+   - Possible sensitive info
+      - Letters - claims number
+      - Payments Details - last 4 of the account number
+      - Sensitive info sent in SM   
+- Alternatives to screenshots (note: from a security perspective if someone gains access they can use these)
+   - print, share,
+   - Add setting for the Veteran to turn it on or off 
 
-## Business Goals
-* How would this benefit VA?
-* Which OCTO and Program goals does this tie to?
+**Risks**
+- Negatively impact the app relationship with Veterans by preventing Veterans from accessing the data how they need / want
+- Prevent Veterans from capturing data which has no other means of access (no share, no printing) other than screenshot
+- Inconsitency on how to implement screenshot prevention - impacted by device, OS, settings
+   - This will lead to it working for some Veterans and not for others - conflict / treatment perception
+   - Could prevent a screenshot today but changes lead to it working the next
+- Preventing screenshots to get information does not mean that their information can't be accessed in other areas of the app (decision letters) or by writing it down
+- Could negatively impact QA and Bug review as some screenshots may not be accessible
+- Could negatively impact Research being done as Research participants are unable to share screen / provide visuals
+- If Mobile prevents screenshots and Va.gov doesn't, users could leave Mobile and go to web 
 
-## Roadmap
 
-**V1**
+**Assumptions**
+- Actual code to prevent screenshots / screenrecording perceived as simple
+- Logic to determine what screens to prevent 
+- Management and code upkeep is high - adapt to devices, OS, settings, and other methods of getting around it
+- Increase in testing efforts for new releases and also monitoring of industry / system changes
+   
 
-* What scope would be included in the v1/MVP?  
 
-**V2 and beyond**
+**Open questions**
+- Who in the VA will be the owner and accountable partner on which pages should not be screenshotted or not? What does the VA consider as sensitive information? 
+- Can the Mobile app track / detect if when a screenshot is taken or unique users that do? In ordert to understand how often this action is currently happening, that has the possibility of being taken away 
+- Does having biometrics / two factor auth prevent the need for screenshot restriction?
+- Should we give the Veteran the ability to control if they can take screenshots?
+- If screenshot is the only option to capture / store data for a Veteran, once taken away how will they access it - print / share (not all features/pages have this option)?
+- Does VA.gov block any screenshots from being taken
 
-* What would we save for later iterations?
+**Closed questions**
 
-## Technical Approach
+**Success Metrics**
+- App Store rating
+- Review Reddit for feedback 
 
-*	Are there other VA groups or tools we need to work with?
+**Documentation / Sources:**
 
-## Measuring success 
+**Author Recommendation**
 
-*	What metrics can we watch to see if our efforts are reaching the desired outcomes?
+* Based on what we know now, Mobile should not pursue 
 
-## Stakeholders
+**Rationale**:
+- Mobile user industry sentitment is that they want access to their data through screenshots
+  - Tons and tons of articles on how to bypass - so users are trying to figure out away around
+  - Users can be load in forums and reviews when screenshots are not allowed 
+- Originally identified from a security / hacker concern - if someone else has access to their account they have access to
+- Currently using 2 factor authentication so there is an extra layer of security that was not previously there
+- A lot of extra work / processes likely will be needed to build and sustain 
+  - Account for all the variations of devices, OS, app versions
+  - Keeping consistency so that all devices work the same 
 
-* Who within VA do we need to ensure we work with?  Who has ‘veto’ power?
 
-## Open Questions
+**Other considerations:**
 
-* What do we need to learn before moving forward?
 
-## Important Links
+**Presentation takeaways:**
+
+
