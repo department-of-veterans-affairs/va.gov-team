@@ -70,13 +70,10 @@ TODO:
 - [ ] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
-- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true)
-    - Traffic is redirected to LH through the v0 (EVSS) controller
-    - The expected behavior is that LH traffic should be **proportionate** to v0 traffic
-    - v0 will act as a control as we progress through the rollout phases
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/69391
+- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: PPIU/Direct Deposit](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4?refresh_mode=sliding&from_ts=1700158863442&to_ts=1700162463442&live=true)
 - [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
-- List identified user emails/Slack handles:
+- List identified user emails/Slack handles (below list TBD):
     - Robin Garrison, @Robin Garrison
     - Mike Richard @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
@@ -124,16 +121,13 @@ How will you make the product available in production while limiting the number 
 <br>
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 - Ensure relative traffic lines up between eVSS and LH to the given allotment in Flipper
-- Ensure Sentry errors remain constant across batches
-- Ensure DataDog-reported HTTP status codes remain constant across batches
-- Monitor for new Call Center complaints
+- Ensure [Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/7/?environment=production) errors remain constant across batches
+- Monitor DataDog for any potential issues
+- Monitor for new Call Center complaints (#vsp-contact-center-support)
 - Monitor logs for any qualitative anomalies
 - Monitor latency
 
-Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true)
-    - Traffic is redirected to LH through the v0 (EVSS) controller
-    - The expected behavior is that LH traffic should be **proportionate** to v0 traffic
-    - v0 will act as a control as we progress through the rollout phases
+Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: PPIU/Direct Deposit](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4?refresh_mode=sliding&from_ts=1700158863442&to_ts=1700162463442&live=true)
 
 #### Rollback
 - Rollback if any of the following is encountered
