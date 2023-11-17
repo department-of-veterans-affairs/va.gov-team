@@ -1,6 +1,10 @@
 # Miscellaneous research notes
 
-A place to hold about personalization we've captured through research (either our team or anothers).
+**Last update:** 11/17/2023
+
+Many times, we hear feedback and observe behaviors about the authencticated experience in research studies that are meaningful, but not related to the main goals of the research study.  This means they're probably not captured in a findings report we can refer to later.
+
+This is a doc to capture these things for now. Enjoy HQ will probably be a better place for this document once the whole team has access to it.
 
 ## Personalization
 
