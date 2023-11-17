@@ -243,6 +243,8 @@ Let's say that you're considering going back to school to get your degree, and y
 
 
 ### Task 5: [Find a Form--CHANGE PER FEEDBACK FROM AMANDA?]
+Could you please go back to the original page that you were looking at?
+
 Now you've decided to apply for *[disability OR education]* benefits. How would you do that online, starting from this web page?
 
 *RECORD navigation: header > megamenu > Education and training or Disability / **footer > VA forms** / search / **mobile header > search > Find a VA form***
