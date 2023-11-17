@@ -16,7 +16,7 @@ None
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|Logged in user's ICN|
 
 ## Response
 
