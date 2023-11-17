@@ -1,4 +1,4 @@
-# [Design Review a11y findings]: Product team 
+# [Design Review a11y findings]: Product team name goes here
 - [Prototype link](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/B7F2215E-001C-41F3-B803-9DFD96E7B129/canvas) 
 - [#benefits-non-disability](https://dsva.slack.com/archives/C057W3N9K2S)  
 
