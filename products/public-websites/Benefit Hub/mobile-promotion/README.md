@@ -47,7 +47,7 @@ Increase the download/use/adoption of the VA.gov mobile app
 | ----- | ----- | ----- | ----- |
 |Downloads of VA.gov iOS Mobile App from banner campaign links (count per link and overall)|Not used in pilot|-----|Apple App Store Analytics: Aquisition report by campaign|
 |Downloads of VA.gov iOS Mobile App from banner campaign links as a percent of impressions from banner campaign links (per link and overall)|Not used in pilot|-----|Apple App Store Analytics: Aquisition report by campaign|
-|iOS use of VA.gov product landing pages (|-----|-----|Google Analytics: Avg Users Per Day|
+|iOS use of VA.gov product landing pages (|30.924|-----|Google Analytics: Avg Users Per Day|
 |Increased iOS App engagement with Refills |3,209|-----|Mobile Monthly Report<br>**Events**: Rx refills succeeded<br>**Raw count**|
 |Increased iOS App engagement with Tracking VA prescriptions|2,198|-----|Mobile Monthly Report<br>**Events**: Prescriptions tracking tab viewed<br>**Raw count**|
 |Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent)|5,848|-----|Mobile Monthly Report<br>**Events**: Secure messages sends/replies<br>**Raw count**|
