@@ -45,7 +45,7 @@ We are going to pause here and make sure you are set up to screen share when the
 - Which browser are you planning to use to work on the application? This could be Chrome, Microsoft Edge, Safari, etc. 
 - Did you have the opportunity to sign into VA.gov before joining us today? 
    - Are you signed in right now? 
-   - [if not] That’s ok! We will do it together once we get started. 
+   - [If not] That’s ok! We will do it together once we get started. 
 - In order for us to observe your work, we will need to ask you to share your screen.
    - Would you mind practicing screen sharing now? [Offer support if necessary]
 
@@ -56,7 +56,7 @@ We are going to pause here and make sure you are set up to screen share when the
 Wonderful, now we are all ready for the observation when it is time to begin. Two more points to discuss before getting started. 
 
 - Is it okay with you if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - [If unsure] An option we have is that we could stop recording for any pages that include sensitive information, like your SSN and bank account. We can provide a heads up when these pages are coming. Is that something you’d be interested in trying? [If still unsure, offer to not record.]
+   - If unsure: An option we have is that we could stop recording for any pages that include sensitive information, like your SSN and bank account. We can provide a heads up when these pages are coming. Is that something you’d be interested in trying? [If still unsure, offer to not record.]
 
 - I know the folks who invited you to participate in this interview asked if it was all right to allow people to observe this interview, but I want to double-check with you before we get going. Are you okay with a couple of additional observers during this session?
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
@@ -64,8 +64,8 @@ Wonderful, now we are all ready for the observation when it is time to begin. Tw
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
       - “Hi, I’m [NAME], and I’m a [ROLE] with the [PROJECT] team at VA.”
         
-[Start recording.]
-- I have started recording. I'd like to confirm: Do I have your permission to record my screen and the audio as we talk today?
+
+**- [Start recording.]** **I have started recording. I'd like to confirm: Do I have your permission to record my screen and the audio as we talk today?**
 
 ## Section 1 - Warm-Up Questions- 10 minutes
 Before we start our observations, let’s start with some warm-up questions. 
@@ -128,8 +128,11 @@ Closing Questions
  
 ## Thank-You and Closing - 5 minutes
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
 [For Veterans who did not finish the form] If you are willing, we are interested in trying to schedule another session so we can continue our observation. What do you think? You are also welcome to think about it and contact Perigean to schedule another session. [Moderator will not schedule next session in real time.] 
+
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
 Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
