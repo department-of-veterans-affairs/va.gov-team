@@ -43,20 +43,21 @@ Increase the download/use/adoption of the VA.gov mobile app
 
 ### MVP KPI measurements
 ***Note***: see [details in section below the table](#Using_Mobile_Analytics_Monthly_Report_for_engagement_monitoring) for more information on the data available on the Mobile Monthly Report dashboard
-| Product KPI | Baseline **MONTH, YEAR** | Target | Link to data source | 
+| Product KPI | Baseline **Jul-Aug, 2023** | Target | Link to data source | 
 | ----- | ----- | ----- | ----- |
-|Downloads of VA.gov iOS Mobile App from banner campaign links (count per link and overall)|-----|-----|Apple App Store Analytics: Aquisition report by campaign|
-|Downloads of VA.gov iOS Mobile App from banner campaign links as a percent of impressions from banner campaign links (per link and overall)|-----|-----|Apple App Store Analytics: Aquisition report by campaign|
-|iOS use of VA.gov product landing pages|-----|-----|Google Analytics|
-|Increased iOS App engagement with Refill and track your VA prescriptions function|-----|-----|Mobile Monthly Report<br>**Events**: Rx refills succeeded, Prescriptions tracking tab viewed<br>**Feature users**|
-|Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent)|-----|-----|Mobile Monthly Report<br>**Events**: SM sent<br>**Feature users**|
-|Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views)|-----|-----|Mobile Monthly Report<br>**Events**: Vaccine details opened<br>**Feature users**|
-|Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started)|-----|-----|Mobile Monthly Report<br>**Events**: Evidence uploads started<br>**Feature users**|
-|Increased iOS App engagement with Download common VA letters (Letter Downloads)|-----|-----|Mobile Monthly Report<br>**Events**: Clicked to download a letter<br>**Feature users**|
-|Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates)|-----|-----|Mobile Monthly Report<br>**Events**: Direct deposits updated (current for versions 2.0 and forward)<br>**Feature users**|
-|Increased iOS App engagement with Check your disability rating|-----|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Feature users**|
-|Increased iOS App engagement with Review your claim or appeal status|-----|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Feature users**|
-|Increased iOS App engagement with Review payments we’ve sent you|-----|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Feature users**|
+|Downloads of VA.gov iOS Mobile App from banner campaign links (count per link and overall)|Not used in pilot|-----|Apple App Store Analytics: Aquisition report by campaign|
+|Downloads of VA.gov iOS Mobile App from banner campaign links as a percent of impressions from banner campaign links (per link and overall)|Not used in pilot|-----|Apple App Store Analytics: Aquisition report by campaign|
+|iOS use of VA.gov product landing pages (|-----|-----|Google Analytics: Avg Users Per Day|
+|Increased iOS App engagement with Refills |3,209|-----|Mobile Monthly Report<br>**Events**: Rx refills succeeded<br>**Raw count**|
+|Increased iOS App engagement with Tracking VA prescriptions|2,198|-----|Mobile Monthly Report<br>**Events**: Prescriptions tracking tab viewed<br>**Raw count**|
+|Increased iOS App engagement with Send and receive secure messages from your VA health care team (Secure Messages Sent)|5,848|-----|Mobile Monthly Report<br>**Events**: Secure messages sends/replies<br>**Raw count**|
+|Increased iOS App engagement with Get your records for VA vaccines, such as COVID-19 (Vaccine Detail Views)|635|-----|Mobile Monthly Report<br>**Events**: Vaccine details opened<br>**Raw count**|
+|Increased iOS App engagement with Submit evidence for your claim or appeal (Claim Document Uploads Started)|61|-----|Mobile Monthly Report<br>**Events**: Evidence uploads started<br>**Raw count**|
+|Increased iOS App engagement with Download common VA letters (Letter Downloads)|8,954|-----|Mobile Monthly Report<br>**Events**: Successfully downloaded a letterr<br>**Raw count**|
+|Increased iOS App engagement with Update your direct deposit information (Veteran Direct Deposit Updates)|143|-----|Mobile Monthly Report<br>**Events**: Direct deposits updated (current for versions 2.0 and forward)<br>**Raw count**|
+|Increased iOS App engagement with Check your disability rating|???|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Raw count**|
+|Increased iOS App engagement with Review your claim or appeal status|15,809|-----|Mobile Monthly Report<br>**Events**: Clicks to expand a section on the Status tab on Claims Details screen<br>**Raw count**|
+|Increased iOS App engagement with Review payments we’ve sent you|???|-----|Mobile Monthly Report<br>**Events**: (none)<br>**Raw count**|
 
 #### Using Mobile Analytics Monthly Report for engagement monitoring
 For each KPI structured as “Increased iOS App engagement with ,” there are two possible types of engagement measurements that can be viewed on the Mobile Monthly Report dashboard.
@@ -84,8 +85,6 @@ All KPIs can be monitored by the former. Not all will have the latter.
 This data is not currently tracked (as of May 2023). As a result it may not specifically be MVP but fast-follow as the above measurements can provide indicators of success whereas some of these measures can provide definitive success metrics.
 | Product KPI | Baseline **MONTH, YEAR** | Target | Link to data source (e.g. GA, Domo) | 
 | ----- | ----- | ----- | ----- |
-| Downloads of VA.gov Mobile App via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | This information should be available in the Apple App Store analytics |
-| Use of VA.gov app instead of VA.gov web via SmartApp banner (**NEED Ability to measure or Remove from MVP**) | N/A | ----- | This information should be available in the Apple App Store analytics |
 
 
 ---
