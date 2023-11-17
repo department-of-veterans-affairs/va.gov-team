@@ -14,25 +14,41 @@ Verify Your Enrollment is replacing the WAVE tool which has been in existence in
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+Modernizing WAVE and moving it to VA.gov aligns with OCTO-DE's mission to update VA applications, create the best experience for all Veterans by streamlining the process to receive education benefits, and provide a seamless Veteran experience through the delivery of state-of-the-art technology by improving the functionality and experience of the application.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+VYE fits in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) in numerous phases and has meaningful moments, such as: 
+- Serving: Managing military and family obligations
+- Getting out: Engaging VA to access benefits and services
+- Starting up: Finding something to do
+- Reinventing myself: Acquiring the appropriate education, new skills, and credentials
+- Putting down roots: Taking care of my family
+- Putting down roots: Engaging VA to access benefits and services
 
-## Research Goals	
-What are you trying to learn from this research? 
+## Research Goals and Questions	
+**Evaluate the effectiveness of our proposed solution**
+- Are our perceptions of Veterans goals accurate (e.g., verification #1, checking history #2, managing profile #3, etc.)?
+- Is our proposed design simple for Veterans to use to accomplish their goals?
+- Are Veterans able to quickly and easily verify their enrollment? 
+- Do Veterans need additional touchpoints (e.g., emails) in order to accomplish their goals?
+- Is our two-page proposed design sufficient for users to easily find their desired information?
+- Can users easily update their address and direct deposit information?
+- Is the label, "Your Benefits Profile" sufficient to communicate the types of information contained in the profile? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+**Evaluate our place in the VA.gov system**
+- Are there other messages before or after interaction with VYE that our Veterans need?
+- How do our Veterans find VYE (e.g., email link, Google search, onsite search, navigation menus, etc.)?
+- How effective are these channels to Veterans for finding VYE/WAVE?
+- Would Veterans prefer to verify their enrollment over the phone or via text? 
+
+**What might we be missing in our understanding of our Veterans?**
+- Are they confused by the process of enrollment and how that information is communicated to the VA for verification?
+- Do they need more insight into backoffice processes (e.g., pending documents and processes)?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Evaluative findings will immediately affect the design and content of our MVP solution for VYE. 
 
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Additional generative research will help inform future solutions and enhancements to VYE (e.g., email notifications, IVR, text verification, integration with VA.gov profile, etc.). 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -40,6 +56,19 @@ What do you intend to learn and measure from this study? Think through these pro
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
+**The new VYE design will provide a much simpler process for Veterans to manage their enrollment verifications as compared to the overly complicated WAVE tool.** 
+- WAVE is challenging to navigate and use. 
+- A more streamlined and succint design will be sufficient for Veterans to manage their enrollment verifications.
+- In-context design clues will remove the need for complex user guides.
+- User do not need to see backoffice processes that are currently contained in "Pending Documents."
+
+**Veterans will be able to easily find and access the VYE application.**
+- Existing processes are sufficient to bring Veterans needing to verify enrollment to the VYE tool (e.g., email prompts, Google search, onsite search, etc.).
+- Veterans might prefer IVR or text-based verification processes for managing enrollment. 
+
+**There are things we don't know about our Veterans.**
+- We do not have documented research on our users and are anticipating learnings to come from open-ended conversation.  
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
