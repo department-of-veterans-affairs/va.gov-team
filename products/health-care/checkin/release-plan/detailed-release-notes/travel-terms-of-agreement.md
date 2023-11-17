@@ -9,8 +9,6 @@
 
 Veterans are required to agree to the VA's terms when submitting a travel reimbursement claim. This enhancement will add a review page that details the claim that is to be submitted and allow the Veteran to agree to the VA's terms. The Veteran will be required to agree to the terms to submit their claim when they check in. They will also be allowed to check in without agreeing to the terms, in which case the claim will need to be filed by the Veteran at a later time.
 
-This enhancement/priority includes a new landing page that follows the same task-based design pattern in both Online Check-in and Pre-Check-in. Veterans will have a better understanding of the tasks they need to complete before a health appointment and the differences between the two applications will become less important.
-
 ## Wireframes
 
 [Wireframe](https://www.sketch.com/s/a31fc97a-2d0c-4ef0-a698-7b73b773836f/p/B528AED2-D251-4879-9081-673DEAFDB0F1/canvas#Version)
