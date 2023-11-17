@@ -3,6 +3,8 @@
 ## Background
 [VYE Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/product-outline.md)
 
+ADD WAVE DEFINITION
+
 **What problem is your product trying to solve?**
 WAVE is currently non-compliant because it uses JavaScript, which is no longer sanctioned by the U.S. goverment because of data security concerns. This is a problem because WAVE holds Veterans' personally identifiable information.
 
@@ -18,12 +20,12 @@ Modernizing WAVE and moving it to VA.gov aligns with OCTO-DE's mission to update
 
 ### Veteran Journey
 VYE fits in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) in numerous phases and has meaningful moments, such as: 
-- Serving: Managing military and family obligations
-- Getting out: Engaging VA to access benefits and services
-- Starting up: Finding something to do
-- Reinventing myself: Acquiring the appropriate education, new skills, and credentials
-- Putting down roots: Taking care of my family
-- Putting down roots: Engaging VA to access benefits and services
+- Veterans actively serving: Managing military and family obligations
+- Veterans getting out: Engaging VA to access benefits and services
+- Veterans starting up: Finding something to do
+- Veterans reinventing themselves: Acquiring the appropriate education, new skills, and credentials
+- Veterans putting down roots: Taking care of my family
+- Veterans putting down roots: Engaging VA to access benefits and services
 
 ## Research Goals and Questions	
 **Evaluate the effectiveness of our proposed solution**
@@ -159,14 +161,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Ryan Gray ryan.gray1@va.gov
-- Research guide writing and task development: Ryan Gray ryan.gray1@va.gov	
-- Participant recruiting & screening: Ryan Gray ryan.gray1@va.gov
-- Project point of contact: Cassidy Beach cassidy.beach@va.gov, Ryan Gray ryan.gray1@va.gov
-- Participant(s) for pilot test: Ryan Gray ryan.gray1@va.gov
-- Accessibility specialist: TBD	
-- Note-takers: Ilyas Iman, Cassidy Beach, Naway Hussein 
-- Observers: The team will manage invites for observers.
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+## Team Roles		
+- **Moderator**: Ryan Gray ryan.gray1@va.gov
+- **Research guide writing and task development**: Ryan Gray ryan.gray1@va.gov	
+- **Participant recruiting & screening**: Ryan Gray ryan.gray1@va.gov
+- **Project point of contact**: Cassidy Beach cassidy.beach@va.gov, Ryan Gray ryan.gray1@va.gov
+- **Participant(s) for pilot test**: Ryan Gray ryan.gray1@va.gov
+- **Accessibility specialist**: TBD	
+- **Note-takers**: Ilyas Iman ilyas.iman@va.gov, Cassidy Beach cassidy.beach@va.gov, Naway Hussein nawar.hussein@va.gov
+- **Observers**: The team will manage invites for observers.
