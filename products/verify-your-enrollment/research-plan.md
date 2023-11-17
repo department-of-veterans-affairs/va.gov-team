@@ -81,6 +81,13 @@ Examples of common research methods include:
 - Usability testing - appropriate for evaluative research
 - User acceptance testing (UAT) - required before product release
 
+Chalkmark first-click testing
+Cardsort - IA, labeling
+NPS survey for existing users
+Semi-structed interview
+Usability test
+
+
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
 - Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
@@ -90,14 +97,7 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a mobile-first prototype based in Sketch. Participants may be asked to share their screen.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -105,19 +105,19 @@ If in person, include:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Conversation guide](https://va.gov) - _Coming soon_
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Conversation guide](https://va.gov) - _Coming soon_
+- [Prototype](https://va.gov) - _Coming soon_
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to email with instructions](https://va.gov) - _Coming soon_
+- [Link to prototype or OptimalSort session for group A](https://va.gov) - _Coming soon_
+- [Link to prototype or OptimalSort session for group B](https://va.gov) - _Coming soon_
 
 If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+- [Link to recruitment flyer](https://va.gov) - _Coming soon_
 	
 ## Recruitment	
 
