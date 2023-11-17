@@ -184,7 +184,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - What do you think should happen if you (_do something_)?
 - (_If participant can't find it_) Where would you expect to find that? (If still struggle, tell me it's under medical records.)
 - (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed?
-- 
+
 **Must ask:**
 - What would you normally do? 
 - (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
@@ -203,14 +203,13 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - If participant clicks on the mega menu during any task, don't let them go further, but ask:
    - What do you expect to find there?
    - What do you think the differences are between the main and secondary menus (pointing them out)?
-- Overall, how would you rate the experience of completing a various health related tasks? 1 being very difficult and 5 being very easy, and why? (if they have hard time recall, ask them to go back to the prototype and point out wherer.
+- Overall, how would you rate the experience of completing various health-related tasks? 1 being very difficult and 5 being very easy, and why? (if they have a hard time recalling, ask them to go back to the prototype and point out where).
 
 
+## Thank You and Closing - 1 minute
 
 **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
 - _If the participant says yes:_ Is there any part of our discussion that you would NOT want to be shared in a video clip? 
-
-## Thank You and Closing - 1 minute
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
