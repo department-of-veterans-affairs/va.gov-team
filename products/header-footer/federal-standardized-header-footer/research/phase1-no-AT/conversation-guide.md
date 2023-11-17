@@ -242,13 +242,14 @@ Let's say that you're considering going back to school to get your degree, and y
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 
-### Task 5: [Find a Form]
+### Task 5: [Find a Form--CHANGE PER FEEDBACK FROM AMANDA?]
 Now you've decided to apply for *[disability OR education]* benefits. How would you do that online, starting from this web page?
 
 *RECORD navigation: header > megamenu > Education and training or Disability / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
+- Is there another way that you could do this task from this web page?
 
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
