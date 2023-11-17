@@ -17,10 +17,46 @@ Appointments is authenticated and has some access requirements that Veterans mus
 - A message must display to any non-registered veterans informing them they must be registered at a VAMC to use VAOS.  
 
 ### Non-functional
-- To determine registered facilities, front end uses the facilities information provided by the VA Profile team.
-   - Once the user logs in and is authenticated VAOS FE makes an call to the `/v0/user` the endpoint returns a response with a field called `vaProfile`.
+- To determine registered facilities, the front end uses the facilities information provided by the VA Profile team.
+   - Once the user logs in and is authenticated VAOS FE makes an call to the `/v0/user` 
+   - the endpoint returns a response with a field called `vaProfile`.
    - The `vaProfile` field contains a field called `facilities`.  
-   - The logic checks if the facilities field is empty. If the field is empty, then the code will determine if the user is ineligible to use VAOS because they have not been registered at a VA facility. 
+   - If the field is empty, then the code will determine if the user is ineligible to use VAOS because they have not been registered at a VA facility. 
+
+<details>
+  <summary>Sample response - /v0/user vaProfile field</summary>
+  
+  Sample response from user in staging registered at 983 and 984
+
+  ```
+  https://staging-api.va.gov/v0/user
+
+  get the data>attribute>vaProfile to see all registered facilities
+  {
+      "status": "OK",
+      "birthDate": "19620101",
+      "familyName": "Mhvpsim",
+      "gender": "F",
+      "givenNames": [
+          "Psim"
+      ],
+      "isCernerPatient": false,
+      "facilities": [
+          {
+              "facilityId": "984",
+              "isCerner": false
+          },
+          {
+              "facilityId": "983",
+              "isCerner": false
+          }
+      ],
+      "vaPatient": true,
+      "mhvAccountState": "MULTIPLE"
+  }
+  ```
+</details>
+
 - The VA Profile team gets the registered facilities from the VA's Enrollment System team.
 - The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA to the Enrollment system when a veteran is registered and/or key information on veteran is edited in Vista. The IVM Background job must be queued to send the Z07s from VistA to the Enrollment System.   
 

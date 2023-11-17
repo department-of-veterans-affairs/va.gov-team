@@ -1,11 +1,11 @@
 # Backend requirements and logic
 
-Logic used by tools and services to determine what is displayed in VAOS
+Logic and requirements for tools and services that VAOS pulls data from.
 
 
 ## Determining available types of care for scheduling
 
-- The types of care are tied to clinics via stop codes that are [determined by the VA](../vista-appointments-facilities-clinics.md#clinic-stop-codes)
+- The types of care are tied to clinics via stop codes that are [determined by the VA](./vista-appointments-facilities-clinics.md#clinic-stop-codes)
 - VATS Mental Health used to utilize one primary stop with a set of various secondary stop codes.  This was changed and now Mental Health only uses one Mental Health primary stop code,  502, and no secondary stop codes.  This change is reflected in Clinic Configuration Manager (CCM) but not VATS. 
 
 ### Type of Care Mapping from VAOS to VistA
@@ -109,7 +109,7 @@ The default flow displayed must be as follows and must display  with appropriate
 - A user is eligible for community care if two checks pass:
     - The user is registered at a site that is marked as accepting community care requests,
     - AND the community care eligibility API says that they're eligible for the type of care they chose.
-    - Primary care is available for CC only if the user has never been seen by a VA primary care provider—i.e., assigned to a PACT [Patient Aligned Care Team]
+    - Primary care is available for CC only if the user has never been seen by a VA primary care provider—i.e., assigned to a PACT (Patient Aligned Care Team)
 
 How the API determines CC eligibility:
 - Checks the veteran’s community care eligibility code in the Enrollment System to see if eligibility code makes veteran eligible for Community Care.  Only certain CC eligibility codes make a veteran eligible for community care.  

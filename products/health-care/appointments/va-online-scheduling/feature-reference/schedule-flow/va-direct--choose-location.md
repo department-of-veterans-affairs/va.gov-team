@@ -20,8 +20,6 @@ Veterans are asked to choose where they'd like to receive the type of care they 
     - The facility classification is one of the following: 1) Multispecialty CBOC 2) Other Outpatient Services 3) Primary Care CBOC or 4) VA Medical Center (VAMC) 4) Health Care Center (HCC).  
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 
-
-
 **Allow user to sort facilities**
 - If multiple facilites are shown and the user has a residential address in VA Profile:
    - VAOS may only display a set number of facilities at time.
@@ -64,6 +62,65 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 - If a user can only make a request, they're sent to the request calendar page 
 
 See also [VA facility page data sources](../backend-logic.md#va-facility-page-data-sources)
+
+
+### Non-functional
+
+-  On Choose a VA location page, the application will display facilities that are direct schedule enabled. 
+-  User selects the facility (Cheyenne VAMC), then click `CONTINUE` button to get eligibility and clinics endpoints. 
+
+<details>  
+<summary>Sample Response: Showing two clinics returned for primary care at Cheyenne VAMC.</summary> 
+
+The display names are Green Team Clinic1 and CHY PC VAR2. 
+   **Getting the PACT names does not surface until the clinic endpoint which is several clicks after selecting type of care followed by facility location then checking for direct schedule and eligibility**.
+
+```
+https://staging-api.va.gov/vaos/v2/locations/983/clinics?clinical_service=primaryCare
+
+[
+    {
+        "id": "308",
+        "type": "clinics",
+        "attributes": {
+            "vistaSite": 983,
+            "id": "308",
+            "serviceName": "Green Team Clinic1",
+            "physicalLocation": null,
+            "phoneNumber": null,
+            "stationId": "983",
+            "stationName": "CHYSHR-Cheyenne VA Medical Center",
+            "primaryStopCode": 323,
+            "primaryStopCodeName": "PRIMARY CARE/MEDICINE",
+            "secondaryStopCode": null,
+            "secondaryStopCodeName": "*Missing*",
+            "patientDirectScheduling": null,
+            "patientDisplay": null,
+            "char4": null
+        }
+    },
+    {
+        "id": "848",
+        "type": "clinics",
+        "attributes": {
+            "vistaSite": 983,
+            "id": "848",
+            "serviceName": "CHY PC VAR2",
+            "physicalLocation": null,
+            "phoneNumber": null,
+            "stationId": "983",
+            "stationName": "CHYSHR-Cheyenne VA Medical Center",
+            "primaryStopCode": 323,
+            "primaryStopCodeName": "PRIMARY CARE/MEDICINE",
+            "secondaryStopCode": null,
+            "secondaryStopCodeName": "*Missing*",
+            "patientDirectScheduling": null,
+            "patientDisplay": null,
+            "char4": null
+        }
+    }
+]
+</details>
 
 ## Specifications
 
