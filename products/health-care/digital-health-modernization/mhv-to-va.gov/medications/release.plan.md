@@ -16,17 +16,13 @@ Throughout the phases, a rollout phase checklist is being completed and maintain
 ## Phase 0: Trusted Users
 
 ### Planning:
-- Phase 0 will be in two sub-phases to allow for identification and remediation of any major issues by a smaller subset of really close, trusted users. Phase 0a will begin with production deploy and PO testing and expand to 10-20 additional staff Veterans or family members of project staff. Phase 0b will expand the user base to include ~200-300 users that signed up to participate. 
+- Phase 0 will begin with production deploy and in-depth testing by Pharmacy PO. Upon go/no-go we will expand the user base to include ~200-300 users that signed up to participate by sending out an email invitation. 
 - Desired date range or test duration: November 2023- January 2024
-- Desired number of users: 10-20 in Phase 0a and up to 300 for 0b
+- Desired number of users: Send to approx 300 and and get feedback from at least 25 on the Medications list and Rx Refill. 
 - The group(s) from which you'll recruit test users: VFS/VSP/DEPO, existing MHV Coordinators and users, list of established testers collected for other parts of the portal
-- How you'll recruit test users: Recommendations from MHV leadership and coordinators for phase 0a and a direct message to those users about how and when to test. Phase 0b will be a blast email out from the shared inbox (BCC all users) with a direct follow up from one of the va.gov staff. 
+- How you'll recruit test users: Phase 0 will be a blast email out from the shared inbox (BCC all users) with a direct follow up from one of the va.gov staff. 
 - How you'll give test users access to the product: The production link has no restrictions, but can only be accessed via invite from an email. We are accepting the risk of additional users if our trusted users forward that link to others.
-#### Phase 0a Entry Criteria
-- All medication/prescription key data elements match across va.gov, MHV Classic, and VA Health and Benefits
-- Product Owner has confirmed that all launch blocking issues have been resolved.
-- va.gov Product, Design, and Engineering lead have confirmed that all requierments have been met
-#### Phase 0b Entry Criteria 
+#### Phase 0 Entry Criteria 
 - All major/launch-blocking issues found in Phase 0a remediated
 - Formal go from larger MHV on va.gov team received
 - System monitoring via DataDog is set up
