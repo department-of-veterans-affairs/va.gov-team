@@ -40,6 +40,10 @@ Increase the download/use/adoption of the VA.gov mobile app
 
 [Mobile Analytics dashboard](https://lookerstudio.google.com/u/0/reporting/e28cd59a-b2e5-4f29-8ae4-a4eea6d23f9c/page/p_5xc9k8cs5c)
 
+[Mobile App Promo Banner _ Pilot KPIs Analysis - Start Sept 2023.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13398212/Mobile.App.Promo.Banner._.Pilot.KPIs.Analysis.-.Start.Sept.2023.xlsx)
+
+
+
 
 ### MVP KPI measurements
 ***Note***: see [details in section below the table](#Using_Mobile_Analytics_Monthly_Report_for_engagement_monitoring) for more information on the data available on the Mobile Monthly Report dashboard
