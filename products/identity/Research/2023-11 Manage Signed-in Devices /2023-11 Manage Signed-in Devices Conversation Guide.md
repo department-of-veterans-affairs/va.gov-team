@@ -59,7 +59,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - When signing into VA.gov, what devices do you use?  (If participant hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they signed into VA.gov.
    - Follow that up with "Do you ever sign into VA.gov with anything other than your _______?"
-- Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?  Can you walk me through how you've done that?
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
@@ -107,6 +106,8 @@ Before we look at the website, let’s start with a few warm-up questions.
    - **Manage Devices** page
       - Can you walk me through what you're seeing here?
          - What does "Windows 11" indicate?  What type of device do you think that is?
+         - What do you think the word "current session" means?
+            - What do you think that indicates about the other devices?
       - What would you do next?
       - What do you think about when seeing the button "sign out" next to each device? What would happen if you clicked, "sign out of all devices"?
          -  [Does the Veteran understand the implication of having to sign back into their account the next time?] 

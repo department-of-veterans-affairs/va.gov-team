@@ -696,6 +696,7 @@ The homepage includes links to key traffic areas of the site. These links are re
 * URL: [https://www.va.gov/](https://www.va.gov/) 
 
 **More info:**
+* Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page
 * A6 program GDrive folder:[ Homepage](https://drive.google.com/drive/u/1/folders/1a-dg6-nWuqNTxO9lds4iqWHo5DxYj_z8)
 * **Q2/Q3 2022 project:**[Homepage redesign iteration:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) design refresh underway, prototype in staging.  Q3 user testing & will lead to design / build iteration for further testing. 
    * [[Epic] VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845) 

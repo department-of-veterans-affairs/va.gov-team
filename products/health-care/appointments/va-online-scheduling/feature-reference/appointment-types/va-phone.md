@@ -37,6 +37,9 @@ A scheduled telehealth appointment that the Veteran joins over the phone.
 | [Cancel Action](../tools/tool-cancel.md)                   | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
+### Technical Notes
+Telephone is always a primary stop code, never a secondary–e.g., users create a telephone clinic with only a primary telephone stop code or create a clinic with a primary telephone stop code and then a secondary like primary care.  There are several primary stop codes for telephone.  See https://issues.mobilehealth.va.gov/browse/EAS-1425.
+
 ## Specifications
 
 **User flows**
@@ -52,6 +55,9 @@ A scheduled telehealth appointment that the Veteran joins over the phone.
 - [Upcoming](../../content/appointment-details.md#va-phone-appointment---upcoming)
 - [Past](../../content/appointment-details.md#va-phone-appointment---past)
 - [Canceled](../../content/appointment-details.md#va-phone-appointment---canceled)
+
+
+
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->

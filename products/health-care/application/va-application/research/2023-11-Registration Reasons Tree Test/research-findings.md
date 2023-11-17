@@ -21,42 +21,54 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The concept of registration and enrollment, if they are steps in the process or the same thing, was found to be confusing during the initial generative research with Veterans. Choosing between these labels did not align with the Veteran's mental model of going about health care eligibility and the application process.
 
-_Then, describe your goals for this research_
+- [Link to generative mental model study folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Registration%20flow%20exploration)
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+Looking at this from the perspective of registration reasons as scenarios Veterans may have when applying for health care benefits and completing a 10-10EZ, we want to learn the paths taken within VA.gov and if the Veteran reports going to the existing application or another location on the website.
+
+**Registration reasons scenarios for this test**
+- Service Connected Only
+- C&P Disability Benefits Exam
+- Mental health care (Other)
+- Marriage/Family counseling
+- ART/IVF
+
+**Research Goals**
+- Learn more about **WHERE** on VA.gov do Veterans expect to complete tasks related to registration reasons.
+- Discover **WHAT** actions Veterans take prior to seeking care for registration reasons.
+- Learn more about the Veteran's mental model of what they are getting when they sign up for their registration reason vs enrolling in VA health care. 
 
 
 
 ## Research Questions
 
-_Research questions here_
+**Learn more about WHERE on VA.gov do Veterans expect to complete tasks related to registration reasons.**
+- Do Veterans navigate to the 10-10EZ for registration reasons?
+- If somebody is looking to sign up  for [registration reason scenario] from VA, how would they do that?
+- How easy is it for the Veterans to navigate to the [registration reason scenario] starting point?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+**Discover WHAT actions Veterans take prior to seeking care for registration reasons.**
+- Do Veterans mention offline channels as the preferred method of "registering" for these reasons?
+- What do Veterans expect to happen next when registering for [registration reason scenario]?
+- Do Veterans expect to have to take action (if needed) to enroll after registering?
 
 
-* Question 
-* Question
-* Question
+**Learn more about the Veteran's mental model of what they are getting when they sign up for their registration reason vs enrolling in VA health care.**
+- Do the registration reasons align with the Veterans' mental model of signing up for health care from the VA?
+- Do Veterans expect to get only the [registration reason] they signed up for or more health care benefits in their application? 
+
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+- Unmoderated tree test 
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+- We assume that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
+- We assume that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
+- We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
 
 
 ## Key Findings

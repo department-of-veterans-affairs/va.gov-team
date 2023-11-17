@@ -4,12 +4,18 @@
 
 **Method**: GET
 
-**Path**: /categories/:categoryId:/topics
+**Path**: /topics?[parentId]
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|categoryId|string|the category for which to get topics for|
+|parentId|string|the parent category or topic from which to retrieve a list of topics or subtopics|
+
+This parameter is optional. 
+
+1. If no {parenntId} is specified, a list of categories is returned.
+2. Passing in a selected category's {parentId} will retrieve a list of topics for that category.
+2. Passing in a selected topic's {parentId} will retrieve a list of subtopics for that topic.
 
 **Headers**:
 
@@ -18,7 +24,7 @@
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|The logged in user's ICN|
 
 ## Response
 

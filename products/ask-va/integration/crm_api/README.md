@@ -23,10 +23,10 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 
 | Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes | Docs |
 |---|---|---|:---:|:---:|---|---|:---:|
-Status | GET /ping | Dynamics | 🟩 | 🟨 | integration | secrets store | [link](Status_Ping.md)  |
-Form | GET /topics?[id] | Dynamics | 🟨 | ⬜ | design | | [link](Form_GetTopics.md) |
-Form | GET /alerts | Dynamics | ⬜ | ⬜ | design | | [link](Form_RetrieveBannerMessage.md) |
-Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | design | | [link](Form_RetrieveInquiryStatus.md) |
+Status | GET /ping | Dynamics | 🟩 | 🟨 | integration | secrets store | ☑ [link](Status_Ping.md)  |
+Form | GET /topics?[id] | Dynamics | 🟨 | ⬜ | development | | ☑ [link](Form_GetTopics.md) |
+Form | GET /alerts | Dynamics | ⬜ | ⬜ | design | | ☑ [link](Form_RetrieveBannerMessage.md) |
+Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | design | | ☑ [link](Form_RetrieveInquiryStatus.md) |
 Form | GET /facilities?[code] | Lighthouse | ⬜ | ⬜ | design |  | [link](Form_MedicalFacilities.md) |
 Form | GET /schools?[code] | Dynamics? | ⬜ | ⬜ | design | likely Dynamics | [link](Form_SchoolFacilityCodes.md) |
 Form | GET /zipcodes?{prefix} | Lighthouse? | ⬜ | ⬜ | design |  | [link](Form_ZipCodes.md)  |

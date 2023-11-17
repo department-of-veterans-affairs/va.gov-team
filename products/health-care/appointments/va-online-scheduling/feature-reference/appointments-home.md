@@ -14,14 +14,93 @@ Starting page to schedule or manage appointments.
 ### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can start the process for scheduling an appointment online.
-- User can navigate to their past appointments.
-- User can navigate to their pending appointments.
 - User can review a summary list of their [upcoming appointments](./appointment-lists/upcoming-list.md).
+- User can start the process for scheduling an appointment online.
+  - `Start scheduling` leads to the [Choose type of care page](./schedule-flow/all--type-of-care.md)
+- User can navigate to their [past appointments](./appointment-lists/past-list.md).
+- User can navigate to their [pending appointments](./appointment-lists/pending-list.md).
 
 **Alerts**
 - All messages to the user must provide an explanation of the issue and guidance for resolving the issue.  
 - If user is ineligible to use VAOS because they are not registered at a VA facility the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays.
+
+### Non-functional
+- Once the user lands on the VAOS homepage,  the appointment endpoint returns future booked appts (previous month through  1yr from next month) and proposed appt (3 months prior through next month) which contains locationID aka the facilityID (ie  984) along with the facility name (Dayton VA Medical Center). 
+
+<details>
+<summary>Sample Response: One appointment being returned</summary>
+
+```
+https://staging-api.va.gov/vaos/v2/appointments?_include=facilities,clinics&start=2022-10-30&end=2023-12-29&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled
+
+{
+    "id": "142100",
+    "type": "appointments",
+    "attributes": {
+        "id": "142100",
+        "identifier": [
+            {
+                "system": "http://med.va.gov/fhir/urn/vaos/vista/984/appointment/id",
+                "value": "3294;20221107.080000"
+            }
+        ],
+        "kind": "clinic",
+        "status": "booked",
+        "serviceType": "optometry",
+        "patientIcn": "1013124304V115761",
+        "locationId": "984",
+        "clinic": "3294",
+        "start": "2022-11-07T13:00:00Z",
+        "end": "2022-11-07T14:00:00Z",
+        "minutesDuration": 60,
+        "slot": {
+            "id": "3230323231313037313330303A323032323131303731343030",
+            "start": "2022-11-07T13:00:00Z",
+            "end": "2022-11-07T14:00:00Z"
+        },
+        "cancellable": true,
+        "extension": {
+            "ccLocation": {
+                "address": {}
+            },
+            "vistaStatus": [
+                "NO ACTION TAKEN"
+            ]
+        },
+        "serviceName": "DAY OPTOM/CONTACT LENS",
+        "physicalLocation": "BLDG 330, 6 NORTH",
+        "location": {
+            "id": "984",
+            "type": "appointments",
+            "attributes": {
+                "id": "984",
+                "vistaSite": "984",
+                "vastParent": "984",
+                "type": "va_health_facility",
+                "name": "Dayton VA Medical Center",
+                "classification": "VA Medical Center (VAMC)",
+                "timezone": {
+                    "timeZoneId": "America/New_York"
+                },
+                "lat": 39.74935,
+                "long": -84.2532,
+                "website": "https://www.dayton.va.gov/locations/directions.asp",
+                "phone": {
+                    "main": "937-268-6511"
+                },
+                "physicalAddress": {
+                    "type": "physical",
+                    "line": [
+                        "4100 West Third Street"
+                    ],
+                    "city": "Dayton",
+                    "state": "OH",
+                    "postalCode": "45428-9000"
+                },
+```
+</details>
+
+
 
 ## Specifications
 

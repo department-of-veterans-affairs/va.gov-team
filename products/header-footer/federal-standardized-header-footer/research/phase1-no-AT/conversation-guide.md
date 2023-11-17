@@ -216,19 +216,21 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 *RECORD navigation: header / footer / search / mobile search*
  
+
 ### Task 3: [Find VA location]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
 
-*RECORD navigation: header / footer > Find a VA location / search / mobile search > Find a VA location*
+*RECORD navigation: **header > Find a VA location** / search / **mobile search > Find a VA location*** / footer
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 Is there another way that you could do this task from this web page?
 
+
 ### Task 4A: [Learn about disability compensation]--IF *DON'T HAVE* VA DISABILITY
 Let's say that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for disability compensation. What could you do from this web page? 
 
-*RECORD navigation: megamenu > Disability / footer / search / mobile search*
+*RECORD navigation: header > **megamenu > Disability** / footer / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -236,7 +238,7 @@ Let's say that lately you've been having difficulty with your hearing, and you t
 ### OR Task 4B: [Learn about education benefits]--IF *HAVE* VA DISABILITY
 Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What could you do from this web page?  
 
-*RECORD navigation: megamenu > Education and training / footer / search / mobile search*
+*RECORD navigation: header > **megamenu > Education and training** / footer / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -244,28 +246,36 @@ Let's say that you're considering going back to school to get your degree, and y
 ### Task 5: [Find a Form]
 Now you've decided to apply for *[disability OR education]* benefits. How would you do that online, starting from this web page?
 
-*RECORD navigation: megamenu > Education and training or Disability / footer > VA forms / search / mobile search > Find a VA form*
-
+*RECORD navigation: header > megamenu > Education and training or Disability / **footer > VA forms** / search / **mobile search > Find a VA form***
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
+
 
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
 
-*RECORD navigation: megamenu > Careers and employment / footer > Careers at VA / search / mobile search*
+*RECORD navigation: header > megamenu > Careers and employment / **footer > Careers at VA** / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
+*If didn't find the footer link, ASK:* 
+- Is there another way that you could do this task from this web page?
 
 ### Task 7: [Mental health help]
 Let’s suppose that you've been going through some challenges in your life recently, and you want to talk to someone about how you're feeling. How would you do this? 
 
-*RECORD navigation: megamenu > Health care / footer > Mental health / search / mobile search*
+*RECORD navigation: **header > megamenu > Health care > View all in health care** / footer > Mental health / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-Is there another way that you could do this task from this web page?
 
+### Task 8: [Contact VA]
+Say that after using this website for a while, you didn't get all of your questions answered. How might you reach out to someone at the VA? 
+- *(if additional prompting needed)* Is there anything on this page that might help?
+
+*RECORD navigation: **header > Contact** or search / **footer > chatbot or AskVA or call** / mobile header > Menu > Contact us*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 ## Post-Task Interview - 7 minutes
 

@@ -34,6 +34,10 @@ See [user stories for all appointment types](./all-appointment-types#user-storie
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅    | ✅        |
 
+## Technical note
+
+A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with the type of care "Claim exam".
+
 ## Specifications
 
 **User flows:**

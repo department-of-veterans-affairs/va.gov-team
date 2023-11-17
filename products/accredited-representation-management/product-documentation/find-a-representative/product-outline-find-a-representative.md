@@ -101,6 +101,11 @@ Based on user research findings and navigation/traffic analytics, consider:
     1. v2 launch will include updates based on user research findings and navigation/traffic analytics
 
 ---
+## Product Playbook / Incident Response Plan
+
+[Find a Representative Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/launch-materials/product-playbook-incident-response-plan.md#find-a-representative-playbookincident-response-plan)
+
+---
 
 ## Solution Narrative
 
@@ -123,21 +128,11 @@ Based on user research findings and navigation/traffic analytics, consider:
 - **Team Name**: Accredited Representation Management
 - **GitHub Label**: accredited-representation-management-team
 - **Slack channel**: #benefits-representation-management
-- Product POCs:
-- Stakeholders: Dr. Brandi Taylor (Office of Business Strategy)
+- Stakeholders: Dr. Brandi Taylor (Office of Business Automation)
 
-#### Team Members
+#### Team Leads
  
  - **DEPO Lead**: Zach Goldfine
  - **PM**: Lindsay Li-Smith
  - **Engineering**: Holden Hinkle
  - **Research/Design**: Janelle Finnerty
-
-#### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
-

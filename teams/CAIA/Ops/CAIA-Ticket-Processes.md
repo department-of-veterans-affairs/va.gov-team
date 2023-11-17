@@ -43,30 +43,20 @@ _The purpose of this documentation is to establish a clear way of work for the C
 _Review the terms and definitions utlizied by the CAIA Team._ 
 
 <details><summary>Toggle to view CAIA definitions</summary>
-  
-### Ticket
-A method to track a work requirement. In Github they are used to track issues at the repository level. Tickets contain the details of the issue and the steps or work required to meet the definition of done.
 
-### Issue
-An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue. With VA, however, tickets can contain more than one issue, and so the best way to think of it is that a ticket is a ‘bucket’ or ‘repository’ for issues.
+| **Term** | Definition |
+|------------------------|------------------|
+| **Ticket**                   | A method to track a work requirement. In Github they are used to track issues at the repository level. Tickets contain the details of the issue and the steps or work required to meet the definition of done.|
+| **Issue**                   |     An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue. With VA, however, tickets can contain more than one issue, and so the best way to think of it is that a ticket is a ‘bucket’ or ‘repository’ for issues.| 
+| **EPIC**                   |     An overarching grouping of tasks (or sub-tasks) that contain several smaller `Issues`, also known as `User Stories`. | 
+| **Task**                   |     In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be as simple as a checklist item, or they can be multi-functional, when it is converted into an issue. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will tell you the number of tasks completed and overall, along with a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) | 
+| **Repository**                   |     A place where a project’s files, version history, and resources live. In CAIA, we operate in the VA.gov-team repository.| 
+| **Pipeline**                   |     A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The start point for our pipeline is `New Stuff` and the end point is `Closed`.| 
+| **Refinement**                   |     The process of reviewing and assessing tickets in the various stages of the CAIA pipeline - Ready, Backlog etc - in an effort to progress them through the pipeline to a closed status. Includes the following: raw tickets, backlog and blocked. | 
+| **Refinement**: Raw Tickets| Reviewing & assessing raw tickets as they come into the `New Stuff` column.|
+| **Refinement**: Backlog |Reviewing and assessing tickets in the backlog to ensure they do not get forgotten and seeing if they can be pulled into the current `Ready` or `In Progress` work streams.|
+| **Refinement**: Blocked |Reviewing and assessing tickets in `Blocked`  to see if they can be unblocked or if not, who needs to be notified or informed to get it unblocked.|
 
-### EPIC
-An overarching grouping of tasks (or sub-tasks) that contain several smaller `Issues`, also known as `User Stories`.
-
-### Task
-In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be as simple as a checklist item, or they can be multi-functional, when it is converted into an issue. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will tell you the number of tasks completed and overall, along with a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
-
-### Repository
-A place where a project’s files, version history, and resources live. In CAIA, we operate in the VA.gov-team repository.
-
-### Pipeline
-A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The start point for our pipeline is `New Stuff` and the end point is `Closed`.
-
-### Refinement
-The process of reviewing and assessing tickets in the various stages of the CAIA pipeline - Ready, Backlog etc - in an effort to progress them through the pipeline to a closed status. Includes the following:
-- **Reviewing & assessing raw tickets** as they come into the `New Stuff` column.
-- **Reviewing and assessing tickets in the backlog** to ensure they do not get forgotten and seeing if they can be pulled into the current `Ready` or `In Progress` work streams.
-- **Reviewing and assessing tickets in “Blocked”** to see if they can be unblocked or if not, who needs to be notified or informed to get it unblocked.
 </details>
 
 ## Ticket Creation
@@ -158,22 +148,22 @@ The following fields are currently being used in GitHub Projects, and should be 
 
 | **Field** | Definition |
 |------------------------|------------------|
-| Assignees                   | Details can be found in the section above.         |
-| Labels                   | Details can be found in the section above.         |
-| Status                   | New Stuff, Epics, Backlog, Blocked, Ready, In Progress, Validate or Closed         |
-| Open Date                   | The date the ticket was created. Can be pulled from the top of the ticket, where you can hover to view exact date.         |
-| Closed Date                   | The date the ticket was closed out by a CAIA team member.         |
-| Target Date                   | If the ticket has a requested deadline or date the CAIA work needs to be completed by, enter that date here.         |
-| Start Date                   | The date that work on the ticket started, or was moved into `In Progress`         |
-| Quick Fix                   | This is a yes/no question, in order to identify if this can be closed quickly or not.         |
-| Estimate                   | The estimate of the work to be done, as a whole, by CAIA based on fib.         |
-| Actual                   | Once the ticket is closed, compare the estimate with the actual amount of work that was done. Add this number here.         |
-| Priority                   | Choose the drop-down that best applies to the work being requested. This helps to segment and sort CAIA's workload. **High**: Work should be tackled asap. **Medium**: Work is standard or regular priority. **Normal**: Default label until evaluation has been completed.**Low**: Low priority or non-urgent work. **Chipper**: A project available to work on as time allows.         |
-| Sprint                   | Add the sprint that the work is done in. If it spans more than one sprint, this will need to be updated.         |
-| Copy Edit Date                   | Date copy edit is required by.         |
-| Originator                   | Select one of the following options: CAIA Internal; Email Request; Slack Request;OCTO Priority; Intake Form; or PO Ticket.         |
-| OCTO Priority                   | This is a yes/no question, that is used in reporting to identify the percentage of work that is OCTO related.         |
-| Last Checked                   | This field should be updated when the ticket is reviewed.         |
+| **Assignees**                   | Details can be found in the section above.         |
+| **Labels**                   | Details can be found in the section above.         |
+| **Status**                   | New Stuff, Epics, Backlog, Blocked, Ready, In Progress, Validate or Closed         |
+| **Open Date**                   | The date the ticket was created. Can be pulled from the top of the ticket, where you can hover to view exact date.         |
+| **Closed Date**                   | The date the ticket was closed out by a CAIA team member.         |
+| **Target Date**                  | If the ticket has a requested deadline or date the CAIA work needs to be completed by, enter that date here.         |
+| **Start Date**                  | The date that work on the ticket started, or was moved into `In Progress`         |
+| **Quick Fix**                   | This is a yes/no question, in order to identify if this can be closed quickly or not.         |
+| **Estimate**                   | The estimate of the work to be done, as a whole, by CAIA based on fib.         |
+| **Actual**                   | Once the ticket is closed, compare the estimate with the actual amount of work that was done. Add this number here.         |
+| **Priority**                   | Choose the drop-down that best applies to the work being requested. This helps to segment and sort CAIA's workload. **High**: Work should be tackled asap. **Medium**: Work is standard or regular priority. **Normal**: Default label until evaluation has been completed.**Low**: Low priority or non-urgent work. **Chipper**: A project available to work on as time allows.         |
+| **Sprint**                   | Add the sprint that the work is done in. If it spans more than one sprint, this will need to be updated.         |
+| **Copy Edit Date**                   | Date copy edit is required by.         |
+| **Originator**                   | Select one of the following options: CAIA Internal; Email Request; Slack Request;OCTO Priority; Intake Form; or PO Ticket.         |
+| **OCTO Priority**                   | This is a yes/no question, that is used in reporting to identify the percentage of work that is OCTO related.         |
+| **Last Checked**                   | This field should be updated when the ticket is reviewed.         |
 
 </details>
 

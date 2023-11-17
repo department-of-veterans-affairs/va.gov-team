@@ -1,5 +1,10 @@
 ### VAOS Direct Schedule Workflow 
 
+This content has been moved to the [VAOS feature reference](../../feature-reference/README.md)
+
+You can delete this page after 02/01/2024.
+
+<!--
 ### Technical Spec 
 
 - Once the user is authenitcated and logs in, the code makes a call to the user endpoint that returns user `vaProfile` which contains user registered facilities ID. In staging, it is 983 and 984
@@ -259,3 +264,5 @@ https://staging-api.va.gov/vaos/v2/locations/983/clinics?clinical_service=primar
     }
 ]
 ```
+
+-->

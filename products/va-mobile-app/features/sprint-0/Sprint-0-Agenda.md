@@ -17,7 +17,7 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* Screenshot Restriction
+* Screenshot Restriction (Adam)
     * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
     * what are industry standards?
     * where would we want to implement it in our app

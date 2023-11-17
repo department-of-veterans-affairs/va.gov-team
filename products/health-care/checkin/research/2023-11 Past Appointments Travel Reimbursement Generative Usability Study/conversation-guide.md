@@ -184,10 +184,15 @@ _**Participant is at Appointment list:**_
   - Is anything here confusing?
 
 - Without doing anything yet, tell me a little about what you’d do next.
-- _If needed:_ 
+- _If needed for task card:_ 
   - Did you notice anything about filing for travel reimbursement on this page? 
   - Did you notice the box at the top of the page? What does that mean to you?
   - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
+- _If needed for dismiss/close button in card:_
+  - What about the x/close button in the card. What would you expect to happen if you selected that?
+  - And what would you expect if you DID select that? 
+  - And if you dismiss it, how would you find that information again.
+
 
 - Ok, go ahead and go through the process of filing that claim - and talk me through what you’re doing.
 
@@ -255,11 +260,12 @@ _**Participant is on details page for second appointment**_
 - Why do you think this is ____ status? 
   - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
 
-
-- Thank you. And lastly, if you still had questions about your claim status, how would you find out more info about that status?
+- Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - Where did you expect that link to take you?
   - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
 
+- Thanks. And lastly, taking a moment to review this whole page. Is there anything confusing about this page and the information included here?
+  - _If not mentioned:_ What do you think "type of care not noted" means?
 
 ----
 
