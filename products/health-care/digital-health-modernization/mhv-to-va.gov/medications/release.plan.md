@@ -32,6 +32,8 @@ Throughout the phases, a rollout phase checklist is being completed and maintain
 - System monitoring via DataDog is set up
 - Qualitative user feedback process identified
 #### Phase 0 Success Criteria
+- At least 25 users have viewed the Medications Page
+- At least 5 users have submitted a refill
 - All user experience feedback accounted for, prioritized, and have an agreed upon action plan.
 - Users are able to complete the actions that they intended for the site: Request refill, track shipments, easily locate desired medication in the list, understand what actions can or can't be taken on that medication
 
