@@ -39,7 +39,14 @@ The form will live under the new parent page for supporting forms. Sitemap has a
   - Placement description: 4th option down
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/
+  - Notes:
+
+2. [**About VA Form 21-0972**](https://www.va.gov/find-forms/about-form-21-0972/) - Add
+  - Placement description:
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/
   - Notes: 
+
 
 ## <a name="redirects"></a>Redirects <br>
 
