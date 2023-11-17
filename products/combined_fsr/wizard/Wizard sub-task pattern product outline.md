@@ -6,17 +6,11 @@
 ## Outcome Summary
 The Financial Status Report (FSR) has been live in production since November 16, 2021.  The MVP experience was only for Veterans who wanted to submit a waiver for VBA or benefit overpayments. We then integrated the ability for Veterans to submit a waiver for medical copays (on September 19, 2022).  
 
-The "FSR Enhancement" release is focused on resolving known issues and problems across the experience. These enhancements include the following:
-- **List Loop Updates:** Improvements were made to list loops as the previous usability study showcased how Veterans had difficulty utilizing the list loop when it was presented as a dropdown. The updates also address accessibility issues that the dropdown version of the list loop had. List loops appear when entering employment and other income for themselves and their spouse, dependents, household assets, household expenses.
--  **Other Living Expenses:** Ability to add one or more additional living expenses not listed in the checklist, and describe what those
-   additional living expenses are for
-- **Content Updates:** On both static and application pages to better align with debt/copay content guide
-- **Card Format:** Switching from card format to a more minimalist and easy to understand format when presenting debt/copay bills to users.
-- **Debt Selection Update:** [Select debt/copay: before | after](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/combined_fsr/research/enhanced_fsr/images/debt-cards-update.png)
-- **Update Personal Info:** Allow Veterans to update phone number and address in addition to mailing address. [Contact info: before | after](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/contact-info-update.png?raw=true)
-- **Update Employment Info:** [Employment: before | after](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/job-listloops-update.png?raw=true)
-- **Update Dependent Info:** [Dependents: before | after](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/dependents-update.png?raw=true)
-- **Resolution Option Clarity:** Ensure resolution options are easier for Veterans to understand. [Resolution options: before | after](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/images/resolution-updates.png?raw=true)
+The "Wizard sub-task pattern" release is focused on The Wizard experience at the beginning of the FSR. This experience needs to be updated for a few reasons::
+- Better inclusion of copay paths.
+- Rework of overall design format/experience "one question per page"
+- Addition of a payment path
+- Connection with streamlined waiver
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
