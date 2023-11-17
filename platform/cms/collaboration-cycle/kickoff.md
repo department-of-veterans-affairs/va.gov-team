@@ -1,5 +1,5 @@
 # CMS Collaboration cycle kickoff request
-Before engaging with the CMS Collaboration Cycle, please review the guidance and questions below to help the CMS team determine what level of support, which practice areas, and which touchpoints are needed for your work. If you don’t know the answer to a question, then it’s too early for you to engage with the CMS Collaboration Cycle.
+Before engaging with the CMS Collaboration Cycle, please review the guidance and questions below to help the CMS team determine what level of support, which practice areas, and which touchpoints are needed for your work. If you don’t know the answer to a question, then it may be too early for you to engage with the CMS Collaboration Cycle.
 
 **Are you ready to engage with the Collaboration Cycle?**
 
