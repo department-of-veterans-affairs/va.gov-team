@@ -51,12 +51,6 @@ Evaluative findings will immediately affect the design and content of our MVP so
 Additional generative research will help inform future solutions and enhancements to VYE (e.g., email notifications, IVR, text verification, integration with VA.gov profile, etc.). 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
-
 **The new VYE design will provide a much simpler process for Veterans to manage their enrollment verifications as compared to the overly complicated WAVE tool.** 
 - WAVE is challenging to navigate and use. 
 - A more streamlined and succint design will be sufficient for Veterans to manage their enrollment verifications.
@@ -71,42 +65,23 @@ What do you intend to learn and measure from this study? Think through these pro
 - We do not have documented research on our users and are anticipating learnings to come from open-ended conversation.  
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+We will use a variety of methods to accomplish our research goals:
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+- Remote, moderated usability test and semi-structured interview
+- Chalkmark
+- OptimalSort
 
-Chalkmark first-click testing
-Cardsort - IA, labeling
-NPS survey for existing users
-Semi-structed interview
-Usability test
+A remote, moderated usability test and semi-structured interview will be the primary vehicle for gathering feedback during this research process. A single conversation guide will be produced to gather both evaluative and generative feedback. 
 
+We will utilize Chalkmark to provide evaluative results and first-click analysis for the prototype. Participants will be given a few simple tasks and will be asked where they would go to accomplish the task. 
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+OptimalSort will be used for an open card sort to ensure our labeling structure and overall flow will match users mental models. 
 
+  
 ### Location
-All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a mobile-first prototype based in Sketch. Participants may be asked to share their screen.
+All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Sketch-based prototype. Participants may be asked to share their screen.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Conversation guide](https://va.gov) - _Coming soon_
-
 For moderated usability tests: 
 - [Conversation guide](https://va.gov) - _Coming soon_
 - [Prototype](https://va.gov) - _Coming soon_
@@ -116,32 +91,44 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 - [Link to prototype or OptimalSort session for group A](https://va.gov) - _Coming soon_
 - [Link to prototype or OptimalSort session for group B](https://va.gov) - _Coming soon_
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](https://va.gov) - _Coming soon_
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+Our intended audience for this study is Veterans who have an active award for:
+- MGIB-Active Duty (Chapter 30)
+- MGIB Selected Reserve (Chapter 1606)
+- Reserve Educational Assistance Program (REAP, Chapter 1607)
+- Veterans Retraining Assistance Program (VRAP)
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+We will use Perigean to recruit participants. As such, we’d like to schedule a kickoff call with Perigean as soon as the research plan is approved, to review the survey and email content that will be sent to participants.
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We will be utilizing a lean maximum variation strategy for our studies, if possible. 
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+For remote, moderated usability interviews we would like 24 participants (assuming 16 completions). 
+
+For unmoderated Chalkmark and OptimalSort tests, we would like 27 participants each, according to the following cohorts (in groups of 9, according to [PRA "Fewer than 10" rule](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)): 
+- Veterans on Active Duty (Chapter 30)
+- Veterans in Selected Reserve (Chapter 1606)
+- Veterans with active award (for any above program) with disabilities
+
+Participants should meet VA MVS (Maximum Variation Sampling) criteria of:
+- 50% aged 55-64+
+- 50% with an identified cognitive disability
+- 50% primarily mobile users
+- 30% people of color
+- 25% in a rural area
+- 25% without a degree
+- 17% with immigrant origins
+- 10% women
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+Participants must have an active award for one of the following programs:
+- MGIB-Active Duty (Chapter 30)
+- MGIB Selected Reserve (Chapter 1606)
+- Reserve Educational Assistance Program (REAP, Chapter 1607)
+- Veterans Retraining Assistance Program (VRAP)
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
