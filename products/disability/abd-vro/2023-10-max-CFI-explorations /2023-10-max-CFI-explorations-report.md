@@ -269,19 +269,67 @@ Similar to our previous study, at least 1 participant saw the blue prototype tha
 
 **Recommendations**
 - In order to avoid misleading Veterans, investigate the level of effort it might take to determine & display the maximum standard rating for all conditions, not just tinnitus.
-******************
+
+**Finding 7: Seeing the maximum rating for all conditions was clear and helpful to a majority of participants.**
+
+Labels: Design System Patterns: Content Presentation
+
+![Purple - Maximum Possible Rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-10-max-CFI-explorations%20/Images/Purple%20Open.jpeg)
+
+In the purple prototype, we displayed the maximum rating for all conditions to see the impact that would make on Veteran perception of their eligibility. This provided the clearest explanation out of all the prototypes for which conditions still had room to apply for more benefits. When the purple prototype was viewed after another prototype, three of four participants mentioned how helpful it was to see the maximum possible rating. 
+
+> _“I like that it says your current and max possible - I see each thing that I’m eligible for an increase too.” - P7_
+
+This did cause 2 participants to suggest that seeing this might inspire them to apply for the maximum amount of benefits on all of their conditions.
+
+> _“This makes me feel like… how can we push to get the maximum possible rating?” -P5_
+
+**Recommendations**
+- Make a note for future discovery research around this issue if we decide to pursue displaying the maximum rating for all conditions, so that we don’t unintentionally increase the number of baseless claims submitted.
+
+**Finding 8: The majority of participants thought it made sense to see the conditions list separated by those at the maximum rating and those that are not.**
+
+Labels: Design System Patterns: Content Presentation
+
+![Yellow - One Conditions List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-10-max-CFI-explorations%20/Images/Yellow.jpeg) ![Green - Conditions List Separated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-10-max-CFI-explorations%20/Images/Green%20Closed.jpeg)
+
+We presented the information about maximum rating either within the individual condition boxes or underneath a separate header. Seeing the maxed-out conditions under a separate header helped draw participants’ attention to the difference between the two sets of conditions and helped them understand how to move forward. 
+
+> _“[The Green prototype] is set up better for Veterans that don’t understand the claims process. These can be increased, these - not so much.” - P14_
+
+While over half of participants favored seeing the list of conditions separated, some were confused by the way this separation was displayed. 
+
+> _“Are they connected? In the same group? They look separate just from scrolling… Where’s my tinnitus? Oh, it’s down here.” - P8_
+
+**Recommendations**
+- If it is possible to display the maximum rating for all conditions, do so in a separated list while considering design variations to keep the conditions list visually cohesive. 
+  - In the meantime, order the list to put the maxed-out conditions at the bottom.
+
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+- We saw similar results as our previous test where some participants were frustrated that the system did NOT block them from submitting when the guidance tells them they have already reached the max. We may want to consider ways to educate Veterans on why we won’t block them from submitting even if it is unlikely to increase the benefit claim.
+
+> _“Maybe they’re lazy in designing this because they didn’t put a parameter not to select things you’re already at the max for.” - P2_
+
+- We saw a few Veterans get frustrated that their place didn’t change within the stepper component at the top of the 526 as they were moving through the pages within the form. We have seen this confusion expressed in previous studies as well, so this might be an area this team would want to look into.
+
+Labels: Product: Form 526 ez
+
+> _“When I clicked [onto the next page] I expected it [the steps] to be 3 of 5 but it’s 2 of 5 still. If it stayed like that long I’d get frustrated.” - P8_
 
 
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
+* Overall Direction
+    * _Focus the next round of work on strengthening the current intervention within the 526EZ flow
+       * Discontinue work on Blue
+       * Discontinue work on the View My Rated Disabilities page (outside of the 526 flow)
+    * Assess the level of effort needed to provide maximum ratings for all conditions, not just tinnitus_
+
+
 * Recommendation 2
     * _Supporting evidence_
 
