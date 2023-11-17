@@ -1,6 +1,7 @@
 # UNIFIED CHECK-IN: PRIORITY 1 - NEW LANDING PAGE & ACCOMPANYING CONTENT CHANGES
 
 - [Description](#description)
+- [Wireframes](#wireframes)
 - [Changes to Pre-Check-in](#changes-to-pre-check-in)
 - [Changes to On-line Check-in](#changes-to-on-line-check-in)
 
