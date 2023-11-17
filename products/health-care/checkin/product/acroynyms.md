@@ -11,8 +11,9 @@
 - OCTO = Office of the CTO
 - OIT = Office of Information & Technology
 - OVAC = Office for Veterans Access to Care
-     - OVAC & Office of Community Care will become the Office for Integrated Veteran Care (IVC)on April 25, 2023. 
+     - OVAC & Office of Community Care will become the Office for Integrated Veteran Care (IVC) on April 25, 2023. 
 - VAOS = VA online scheduling (now known as Appointments)
+- VISN = Veterans Integrated Service Network (regional connected network of VA health facilities)
 - VEO = Veterans Experience Organization
 - VCM = Virtual Care Manager (which is the staff-facing application)
 - VMR = Virtual Medical Room
