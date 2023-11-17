@@ -182,11 +182,11 @@ I would like you to share your screen with me so that I can see what you do duri
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 ### Task 1: [Open prototype] 
-I'd like you to look at a web page and tell me about what you see. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that we're still working on this, and some parts will work, and other parts will not.
+I'd like you to look at a web page that I'm going to share with you. 
 
 *Decide which prototype to show--desktop or mobile--based on device that participant is using during this session.*
 
-I will *[dictate/put into the Zoom chat]* the URL for you: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
+I will *[dictate/put into the Zoom chat]* the URL: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **TBD**)*
 
 Did you get the link? 
@@ -196,7 +196,8 @@ Did you get the link?
 
 
 ### Task 2: [First impressions]
-I would like you to take some time to look over this web page, and then tell me about it.
+I would like you to take some time to look over this web page, and then tell me about it. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that some parts of the page will work, and other parts will not.
+
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 *RECORD everything they say, especially anything +/-/neutral about...*
@@ -220,11 +221,9 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 ### Task 3: [Find VA location]
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
 
-*RECORD navigation: **header > Find a VA location** / search / **mobile search > Find a VA location*** / footer
+*RECORD navigation: **desktop header > Find a VA location** / search / **mobile header > search > Find a VA location*** / footer
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
-
-Is there another way that you could do this task from this web page?
 
 
 ### Task 4A: [Learn about disability compensation]--IF *DON'T HAVE* VA DISABILITY
@@ -246,7 +245,7 @@ Let's say that you're considering going back to school to get your degree, and y
 ### Task 5: [Find a Form]
 Now you've decided to apply for *[disability OR education]* benefits. How would you do that online, starting from this web page?
 
-*RECORD navigation: header > megamenu > Education and training or Disability / **footer > VA forms** / search / **mobile search > Find a VA form***
+*RECORD navigation: header > megamenu > Education and training or Disability / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
