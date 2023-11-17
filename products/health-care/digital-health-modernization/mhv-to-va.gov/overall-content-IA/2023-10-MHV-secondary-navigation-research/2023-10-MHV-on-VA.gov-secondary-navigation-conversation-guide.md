@@ -27,14 +27,14 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5-10 minutes
 
-Thanks for joining us today! My name is Jenny and [NOTETAKER NAME] is taking notes.
-I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, I'll talk a little bit about what we'll be asking you today.  
+Thank you for joining us today! My name is Jenny and [NOTETAKER NAME] is taking notes.
+I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. Are you ok with them joining the call? But before we get to them, I'll talk a little bit about what we'll be doing today.  
 
-We are part of a team working on the health sections of the website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of activities that show how you would navigate the VA.gov website to access and manage health-related information and benefits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. We won't ask you for personal information and we'll only ask you very general questions about your own benefits - we'll focus on your thoughts on the changes we've made to the VA.gov website. 
+We are part of a team working on the health sections of the website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a set of activities that show how you would navigate the VA.gov website to access and manage health-related information and benefits. Most of what we'll be asking you is about your reactions to what you see on the website and where you might expect things to be. 
 
 It is worth noting that we will be using what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
 
-Before we start, I have a few things that I want to go over with you:
+Also, there are a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
@@ -57,10 +57,9 @@ Before we start, I have a few things that I want to go over with you:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-1. Do you normally use your phone or  desktop to do things on VA.gov?
+1. Do you normally use your phone, desktop, or laptop to do health-related activities on VA.gov?
 2. Tell me about the last time you used it. When was that? What did you use it for? 
    
-
 **Screen sharing instructions**
 
 First, I'd like you to share your screen so I can see how you navigate the site. Do you know how to share your screen? 
@@ -86,9 +85,11 @@ Just as a reminder, this is a prototype, which means that it will behave differe
 
 _Send link to prototype:_
 
-**So, today you are going to perform some healthcare-related activities on My HealtheVet on VA.gov. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
+**So, today you are going to perform some healthcare-related activities with this prototype. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
-**_Task 1a - MR and SM_** (Start from the signed-in MHV landing page) Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. How would you go about seeing those results? It would really help me if you could talk me through what you are thinking. 
+**(Start from the signed-in MHV landing page) Before I give you the task, can you tell me where you are at right now?**
+
+**_Task 1a - MR and SM_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. How would you go about seeing those results? It would really help me if you could talk me through what you are thinking. 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
@@ -97,6 +98,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on the second menu_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
+- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
 
 **Must ask:**
 - (_Pay attention to_) Where does participant click first, and ask why?
@@ -106,7 +108,16 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - What are your thoughts about the amount of time it took you to find the blood result?
 - Thinking about this task - is this something you’ve done before - looked up a test result on a va site? tell me about that.
 
+**After participant finishes the task:**
+- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
+- What was helpful, and what wasn’t? Why?
+- What did you like, and didn’t? Why?
+- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
+
+
 **_Task 1b - MR and SM_** hen, say you're not sure what the results mean because of the medical terminologies and you want to ask your doctor about it. Using the resources offered on this website, how would you go about doing that? It would really help me if you could talk me through what you are thinking
+
+- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
 
 **Must ask:**
 - What would you normally do? 
@@ -116,12 +127,19 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
 - Is this something you’ve done before? How did you approach it?
 
+**After participant finishes the task:**
+- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
+- What was helpful, and what wasn’t? Why?
+- What did you like, and didn’t? Why?
+- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
+
 **_Task 2 - Appointments_** (from where they left off) You need to make a new appointment with your new doctor, but you don't remember their name. You can check their name from your recent appointment visit. How would you would you go about finding their name on this website?
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
 - Why did you (_do that, go there, try that_)? 
 - What do you think should happen if you (_do something_)?
+- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
 
 **Must ask:**
 - What would you normally do? 
@@ -129,12 +147,19 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 - (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
 - Is this something you’ve done before? How did you approach it?
+
+**After participant finishes the task:**
+- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
+- What was helpful, and what wasn’t? Why?
+- What did you like, and didn’t? Why?
+- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
   
-**_Task 3 - Medications_** (from where they left off) Imagine that you have taken some medications for a while. You want to find information on how you can renew medications, and you want to check the expiration date for ordering refills for TACROLIMUS. How do you go about doing that from here? 
+**_Task 3 - Medications_** (from where they left off) Imagine that you have taken a medication named TACROLIMUS for a while, and you want to check the expiration date for ordering refills for TACROLIMUS. How do you go about doing that from here? 
 
 _Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
 - What are you thinking as you (_go somewhere, do something_)? 
 - What do you think should happen if you (_do something_)?
+- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
 
 **Must ask:**
 - What would you normally do? 
@@ -143,9 +168,12 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant clicks on mega menu, stop them from continuing_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 
-**If participant clicks on the mega menu during any task, don't let them go further, but ask:**
-- What do you expect to find there?
-- What do you think the differences are between the main and secondary menus (pointing them out)?
+**After participant finishes the task:**
+- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
+- What was helpful, and what wasn’t? Why?
+- What did you like, and didn’t? Why?
+- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
+
 
 **_Task 4 - MR_** (from where they left off) Imagine you have an overseas trip coming up, and you need to download all your vaccines to prove that you're safe to travel. Where would you go to do that?
 
@@ -155,6 +183,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
 - What do you think should happen if you (_do something_)?
 - (_If participant can't find it_) Where would you expect to find that? (If still struggle, tell me it's under medical records.)
+- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed?
 
 **Must ask:**
 - What would you normally do? 
@@ -163,11 +192,24 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
 - (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
 
+**After participant finishes the task:**
+- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
+- What was helpful, and what wasn’t? Why?
+- What did you like, and didn’t? Why?
+- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
+
+
+**OVERALL Qs**
+- If participant clicks on the mega menu during any task, don't let them go further, but ask:
+   - What do you expect to find there?
+   - What do you think the differences are between the main and secondary menus (pointing them out)?
+- Overall, how would you rate the experience of completing various health-related tasks? 1 being very difficult and 5 being very easy, and why? (if they have a hard time recalling, ask them to go back to the prototype and point out where).
+
+
+## Thank You and Closing - 1 minute
 
 **I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
 - _If the participant says yes:_ Is there any part of our discussion that you would NOT want to be shared in a video clip? 
-
-## Thank You and Closing - 1 minute
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
