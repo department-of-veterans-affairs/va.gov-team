@@ -1,6 +1,8 @@
 # Beneficiary Travel Self-Service System (BTSSS)
 
-BTSSS is a stand alone web application that allows Veterans to submit and manage claims to be paid back for mileage and other travel expenses to and from approved health care appointments, and to manage associated data.
+The goal of our team is to develop a Veteran-facing user experience that enables users to complete travel reimbursement tasks across VA.gov. As part of our project, we'll review the legacy BTSSS portal and partner with teams to integrate relevant features and functionality with BTSSS services.
+
+The legacy BTSSS portal is a stand alone web application that allows Veterans to submit and manage claims to be paid back for mileage and other travel expenses to and from approved health care appointments, and to manage associated data.
 
 ## About the Product
 
