@@ -115,7 +115,7 @@ about 5 to 10 minutes.
 
 - Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
   - [eScreening link](https://escreening.va.gov/but/assessment/home)
-  - participant is reading outloud. okay, about sexual orientatioation, irecently found out a lgbtq liason, their should be some point of contact .  I want the liason automatic contact me, but some people may find that intrusive so it would be good to ask them questiom.
+  - participant is reading outloud. okay, about sexual orientatioation, only recetly found out a lgbtq liason, their should be some point of contact .  I want the liason automatic contact me, but some people may find that intrusive so it would be good to ask them (if they want to be contacted).
 
 - [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
 
@@ -127,17 +127,16 @@ about 5 to 10 minutes.
 - [At the end of all the clinical reminders] 
 
   - What do you expect to happen next, since you answered these questions? i like the wording of stable housing since owning and renting a home is not everybody.
+  - not stable housing- does not pertain to me.
+  - food situation question- for me its never true. are there increments lower than 12 months? I would say 6 weeks- my friend had been on it- he not worried about it but I am worried (for freind).  In state (removed PII) im not familiar with, but i know it was not the salary they were making, I don't think its fine. but if they given this questionaire, 12 months is fine, but they might be worried in the last 6 weeks. no not other than the time fram
  
-  - not stable housing- no not to me.
-  - food situation question- for me its never true. are there increments loweer than 12 months. I would say 6 weeks my friend had been on it he not worried about it but I am worried (for him).  in minnisota im not familiar wih, but i know it was not the salry he was making, I don't think its fine. but if hes given this questionaire, 12 months is fine, but he might be worried in the last 6 weeks. no not other than the time fram
- 
-- last money fodd: 12 months its too long of a time frme. unless it is a new veteran and this is intial screen.  the answer would be never true forme.
+- last money food: 12 months its too long of a time frme. unless it is a new veteran and this is intial screen.  the answer would be never true for friend.
   -1 very easy
-  Toxic exposures 3.1: good, pretty, I dont hink I seen this quest. a list of bases and duty sessions that might be convered under that
+  Toxic exposures 3.1: good, pretty, I dont think I seen this questtion before- it would be good to have a list of bases and duty sessions that might be convered under that.
 
-  -comments of link of suvery: maybe the line should be shortedn to average time: its alot of words to sys letss than 5 minutes. im not going to look up the budget number. this isnt necessary to have as a limk
+  -comments of link of suvery: maybe the line should be shortedn to average time: its alot of words to say is  less than 5 minutes. im not going to look up the budget number. this isnt necessary to have as a link.
 
-  experienced taoxic exporsure: let me check yes and shee what happens. I can tell about contect that ists aire or water, but would like mor context of what type of toxic exposure, i want to know what I will be about to be scared about. will this go too mo my doctor. if Im filling it out i dont want to fill it our more than once, i want it to be in my record thay autimatically know to all my doctors. iwouldn;t eant it to be isoloated to just one doctor, i want it availbe to all doctors like pur
+  experienced toxic exporsure: let me check yes and see what happens. I can tell about contamenets that lists air or water, but would like more context of what type of toxic exposure, i want to know what I will should be be about to be scared about. will this go too mo my doctor. if Im filling it out i dont want to fill it our more than once, i want it to be in my record thay autimatically know to all my doctors. iwouldn;t eant it to be isoloated to just one doctor, i want it availbe to all doctors like pur           
 pulomongist.
 
 conserns about military exposre is too wording, shorten it.  i would acticpate a drop down menu to see what options would be. 
