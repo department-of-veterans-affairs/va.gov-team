@@ -1,13 +1,16 @@
 # Research Plan for VFS, VYE-Verify Your Enrollment, November 2023
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+[VYE Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/product-outline.md)
 
-[Link to product brief](url goes here).
+**What problem is your product trying to solve?**
+WAVE is currently non-compliant because it uses JavaScript, which is no longer sanctioned by the U.S. goverment because of data security concerns. This is a problem because WAVE holds Veterans' personally identifiable information.
+
+**Where is your product situated on VA.gov? (ex: auth vs. unauth)**
+WAVE is currently a standalone application being linked to from VA.gov. The new VYE tool is an authenticated tool that should sit under the "Education and training" section of the "VA Benefits and Health Care" menu.
+
+**What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?**
+Verify Your Enrollment is replacing the WAVE tool which has been in existence in its current state since 2003. Veterans utilizing education benefits through the MGIB-Active Duty (Chapter 30), MGIB Selected Reserve (Chapter 1606), Reserve Educational Assistance Program (REAP, Chapter 1607), or Veterans Retraining Assistance Program (VRAP) currently verify their benefits with WAVE.
 
 ### OCTO Priorities 
 
