@@ -70,8 +70,8 @@ Additional generative research will help inform future solutions and enhancement
 We will use a variety of methods to accomplish our research goals:
 
 - Remote, moderated usability test and semi-structured interview
-- Chalkmark
-- OptimalSort
+- Chalkmark (unmoderated)
+- OptimalSort (unmoderated)
 
 A remote, moderated usability test and semi-structured interview will be the primary vehicle for gathering feedback during this research process. A single conversation guide will be produced to gather both evaluative and generative feedback. 
 
