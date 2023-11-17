@@ -19,7 +19,7 @@ There will be no changes to Pre-Check-in.
 
 ## Changes to On-line Check-in
 
-- A new page is being added to the Veteran workflow when the Veteran answers 'Yes' to all travel questions. The new review page will show the details for the travel reimbursement claim (i.e. claiming mileage only, travelled using your own vehicle, and from your specified home address) and ask the Veteran to agree to the VA's terms in order to submit the claim. The Verteran can either agree to the terms and continue to check inn and submit the claim or not agree to the terms and check in without submitting the claim.
+- A new page is being added to the Veteran workflow when the Veteran answers 'Yes' to all travel questions. The new review page will show the details for the travel reimbursement claim (i.e. claiming mileage only, travelled using your own vehicle, and from your specified home address) and ask the Veteran to agree to the VA's terms in order to submit the claim. The Verteran can either agree to the terms and continue to check in and submit the claim or not agree to the terms and check in without submitting the claim.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/b2139ba6-4ceb-4737-bf78-fd93e403581c)
 
