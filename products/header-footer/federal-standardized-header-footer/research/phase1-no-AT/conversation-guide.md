@@ -279,6 +279,14 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
+### Task 9: [FOIA--DISCUSS w/AMANDA]
+ If you wanted to request a copy of your VA disability compensation application, how might you do that?
+
+*RECORD navigation: header / search / **footer > FOIA** / mobile header*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+
 ## Post-Task Interview - 7 minutes
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
