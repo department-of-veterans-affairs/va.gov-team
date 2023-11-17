@@ -9,3 +9,4 @@ Please contact Kristen McConnell (kristen.mcconnell@va.gov) if you would like to
 | Nov. 29, 2023 at 11 - Noon ET | Appointments | Kristen McConnell (kristen.mcconnell@va.gov) |
 | December |  |  |
 | January |  |  |
+| February | Medical Records | Marci McGuire (Marci.McGuire@va.gov) |
