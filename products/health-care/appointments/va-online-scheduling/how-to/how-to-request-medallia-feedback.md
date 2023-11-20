@@ -44,7 +44,7 @@ All in one file, on one tab
 | Week 43 October 23rd - 29th          | Peter Russo      | ✅ [68596](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68596) |
 | Week 44 October 30th - November 5th  | Ciera Maddox     | ✅ [69271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69271)|
 | Week 45 November 6th - 12th          | Ciera Maddox     | ✅ [69893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69893)|
-| Week 46 November 13th - 19th         | Peter Russo      |  |
+| Week 46 November 13th - 19th         | Peter Russo      | [70271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70271) |
 | Week 47 November 20th - 26th         | Ciera Maddox     |  |
 | Week 48 November 27th - December 3rd |                  |  |
 | Week 49 December 4th - 10th          |                  |  |
