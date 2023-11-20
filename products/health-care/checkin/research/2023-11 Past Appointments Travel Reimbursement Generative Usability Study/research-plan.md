@@ -125,7 +125,7 @@ Screener Q4: Do you normally need to resize font or use a magnification tool to 
 ```
 
 ```
-(Only if yes Q3) Screener Q5: Please list the name of the screen reader technology you intend to use during the session.
+(Only if yes to Q3) Screener Q5: Please list the name of the screen reader technology you intend to use during the session.
 
 - Open text field. Required.
 ```
