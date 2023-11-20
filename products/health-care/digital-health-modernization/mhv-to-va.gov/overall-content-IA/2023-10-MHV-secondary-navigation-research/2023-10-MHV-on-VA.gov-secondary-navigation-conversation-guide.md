@@ -83,7 +83,7 @@ Great, now the fun part begins. I'd like you to know that I will share a prototy
 
 Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. You will be signed in as a testing user, named Judy. It’s a fake account with fake information, so you won’t see your name and your personal information. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
 
-_Send link to prototype:_
+_Send link to prototype: https://www.sketch.com/s/02430c9f-e4cb-4945-b7bb-6ec2f81a0bd7/prototype/EB6BB9B5-0953-4D49-AFED-CF4F2AAB146B/a/EB6BB9B5-0953-4D49-AFED-CF4F2AAB146B?hotspots=false_
 
 **So, today you are going to perform some healthcare-related activities with this prototype. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 

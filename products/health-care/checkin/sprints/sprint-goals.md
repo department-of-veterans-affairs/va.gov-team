@@ -23,7 +23,7 @@ ________________________________________________________________________________
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
-- ❗ 🟩 [Roll Out on 11/15 at 5 pm ET to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
+- ✔️ ❗ 🟩 [Roll Out on 11/15 at 5 pm ET to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
 - ❗ 🟩 [Roll Out on 11/28 to 6 VISNs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69769)
 
 #### SPRINT TICKETS
@@ -34,12 +34,12 @@ ________________________________________________________________________________
     - **Sub Goal: [ATO Compliance: Resolve Pen Test Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68239)**
         - 🟪 Follow up with Stephen in next steps
  - **GOAL: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
-    - ❗ 🟩 [Roll Out on 11/15 at 5 pm ET to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
+    - ✔️ ❗ 🟩 [Roll Out on 11/15 at 5 pm ET to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
     - ❗ 🟩 [Roll Out on 11/28 to 6 VISNs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69769)
 - **GOAL: [Measure Time to Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68240)**
-    - ❗ 🟩 [[FE] Send context data during check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68165)
+    - ✔️ ❗ 🟩 [[FE] Send context data during check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68165)
     - ❗ 🟦 [[FE][CHIP] Integrate data into datadog metrics and dashboards for release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70002) 
-    - ❗ 🟦 [[BE] - Pass contextual data to CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68166)
+    - ✔️ ❗ 🟦 [[BE] - Pass contextual data to CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68166)
 - **GOAL: [Support CERNER Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68271)**
     - **Sub Goal: [Get Demographics Data from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69812)**
         - 🟪 Follow up with Stephen on a good contact person for the VA Profile team
@@ -73,7 +73,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**
-    - 🟩 [Look into issues with the scheduling tool not being able to initiate check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69888)
+    - ✔️ 🟩 [Look into issues with the scheduling tool not being able to initiate check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69888)
     - **Sub Goal: [Remove Logging for Certain 40x Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69994)**
         - 🟦 Gaurav to break this effort into work ticket; no work this sprint towards the effort; see this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69865)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**

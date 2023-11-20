@@ -1,5 +1,14 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Nov 21' 2023       
+### Participants: Rakshinda, Emily, Steve, Shannon 
+### Topics Covered:
+- VBA concern about Toxic Exposure delivery
+- Lighthouse ask for production ETA for migration
+- Ownership of items that come out of collab cycle from other teams
+- Ownership of maintaining code coverage for 526
+
+- 
 ### Date: Oct 26' 2023       
 ### Participants: Rakshinda, Shannon, Emily, Steve 
 ### Topics Covered:

@@ -17,7 +17,7 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 |---|---|
 ⬜ | Not Started |
 🟨 | In Progress |
-🟧 | Paused |
+🟦 | Paused |
 🟩 | Done |
 🟥 | Blocked |
 
@@ -32,11 +32,11 @@ Form | GET /schools?[code] | Dynamics? | ⬜ | ⬜ | design | likely Dynamics | 
 Form | GET /zipcodes?{prefix} | Lighthouse? | ⬜ | ⬜ | design |  | [link](Form_ZipCodes.md)  |
 Form | GET /states | Lighthouse | ⬜ | ⬜ | design | |  [link](Form_States.md) |
 Form | GET /countries | Lighthouse | ⬜ | ⬜ | design | | [link] |
-Dashboard | GET /inquiries | Dynamics | ⬜ | ⬜ | design | |  [link](Dashboard_RetrieveInquiries.md)  |
+Dashboard | GET /inquiries | Dynamics | ⬜ | ⬜ | design | | ☑ [link](Dashboard_RetrieveInquiries.md)  |
 Dashboard | GET /inquiries/search?{txt} | Dynamics | ⬜ | ⬜ | design | | [link] |
-Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | design | |  [link](Dashboard_RetrieveCorrespondence.md) |
-Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_SubmitAReply.md) |
+Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | design | | ☑ [link](Dashboard_RetrieveCorrespondence.md) |
+Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ | design |  | ☑ [link](Dashboard_SubmitAReply.md) |
 Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_UploadFile.md) |
 Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ | design | | [link] |
-Dashboard | GET /profile | VA Profile | 🟧 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
-Form | PUT /inquiry/new | Dynamics | 🟧 | ⬜ | design | |  [link](Form_SubmitInquiry.md) |
+Dashboard | GET /profile | VA Profile | 🟦 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
+Form | PUT /inquiry/new | Dynamics | 🟦 | ⬜ | design | |  [link](Form_SubmitInquiry.md) |

@@ -4,18 +4,18 @@
 
 **Method**: GET
 
-**Path**: /inquiries
+**Path**:  /inquiry/{id}/replies
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|inquiryNumber|string|Inquiry Number to Retrieve Correspondence For|
+|id|string|Inquiry Number to Retrieve Correspondence For|
 
 **Headers**:
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|User ICN|
 
 ## Response
 
@@ -40,6 +40,7 @@
                 "description": "description",
                 "message_type": "Valid values should be 722310000: Reply to VA and 722310001: Response from VA",
                 "enable_reply": true,
+                "isPersonal": true,
                 "attachmentNames": [
                     {
                         "id": "012345", 
@@ -88,7 +89,8 @@
 
 ## Notes
 
-* CC: No pagination, all valid correspondence will be returned.
+* ~CC: No pagination, all valid correspondence will be returned.~
 * CC: CRM will plan to mimic the current filtering on the portal view to only include Response and Reply messages. (Message Type = 722310000: Reply to VA and 722310001: Response from VA )
-* CC: Handling of attachments:  Do not need the actual file until the submitter elects to open it. Need to define attachment identifiers (name, ID) to be used for UX display and for file request API.
-* CC: Reply button: Where will you get the logic for turning the button on/off?
+* ~CC: Handling of attachments:  Do not need the actual file until the submitter elects to open it. Need to define attachment identifiers (name, ID) to be used for UX display and for file request API.~
+* ~CC: Reply button: Where will you get the logic for turning the button on/off?~
+  * JH: "enable_reply": true, ??
