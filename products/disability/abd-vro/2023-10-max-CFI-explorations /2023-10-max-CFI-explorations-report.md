@@ -5,7 +5,7 @@ Max CFI Explorations - Research Findings
 
 Date: 11/17/2023
 
-[Christine Steiffer] [christine.steiffer@agile6.com], [Kim Ladin] [kimladin@navapbc.com], [Carolyn Dew] [carolyn@navapbc.com]
+[Christine Steiffer](christine.steiffer@agile6.com), [Kim Ladin](kimladin@navapbc.com), [Carolyn Dew](carolyn@navapbc.com)
 
 **Jump to:**
 
@@ -35,11 +35,17 @@ This work supports [Octo Priority 7](https://github.com/department-of-veterans-a
 
 ## Research Goals
 **Project Goals:**
+
 Goal 1: Evaluate the effectiveness of different interventions of reducing the number of maxed-out tinnitus claims.
+
 Goal 2: Determine the value of showing the maximum possible rating for other conditions.
+
 Goal 3: Determine what the final design should be based on feedback from variations between models.
+
 **OCTO Goals:**
+
 Goal 1: Provide accurate and timely information to Veterans.
+
 Goal 2: Empower Veterans to make informed decisions over their disability claims.
 
 ## Research Questions
@@ -134,7 +140,7 @@ There are several numerical ways to assess the results of the testing. We show t
 | **Dissuasion after explanation** How many participants were dissuaded from filing **after** they read the explanatory text. | 67% (6) | 50% (5) | 25% (2) | 50% (4) |
 | **Participation assessment of dissuasion** At the end of each session, participants told us which prototype was more likely to influence their decision not to file. | 22% (2) | 30% (3) | 13% (1) | 50% (4) |
 
-Count of participants shown in ( )
+_Count of participants shown in ( )_
 
 The most important observation from these numbers is how close together they are. As a result, the decision about which designs to move forward with will depend on the qualitative feedback collected during this testing rather than on numerical results.
 
@@ -236,7 +242,7 @@ While more participants mentioned liking ‘Maximum Possible Rating’ or just �
 **Recommendations**
 - Use “maximum standard rating” or “highest standard rating”, with “maximum rating” as a short form when appropriate
 
-**Finding 5:There were mixed results on placement and behavior of the link to explanatory content.**
+**Finding 5: There were mixed results on placement and behavior of the link to explanatory content.**
 
 Labels: Design System Patterns: Content Presentation
 
@@ -259,7 +265,7 @@ Although the link in Yellow  was easier to see, users did not like going to a se
 - Explore whether the longer explanation could be contained within the main page
   - If not, explore where the explanation should live, and make sure it’s extremely easy to return to the application flow.
 
-**Finding 6:Providing the maximum rating for only tinnitus leads some Veterans to think all other conditions are not at the maximum rating.**
+**Finding 6: Providing the maximum rating for only tinnitus leads some Veterans to think all other conditions are not at the maximum rating.**
 
 Similar to our previous study, at least 1 participant saw the blue prototype that mimics our solution in production and (incorrectly) assumed all other conditions besides tinnitus were not at the maximum rating. The blue prototype listed migraines at 50% which is its maximum rating, but did not give any other specific indication that this was the maximum rating. This gives further weight to our concern that we are misleading Veterans with the current design.
 
@@ -321,150 +327,157 @@ Labels: Product: Form 526 ez
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+Overall Direction
+- Focus the next round of work on strengthening the current intervention within the 526EZ flow
+  - Discontinue work on Blue
+  - Discontinue work on the View My Rated Disabilities page (outside of the 526 flow)
+    - Assess the level of effort needed to provide maximum ratings for all conditions, not just tinnitus
 
-* Overall Direction
-    * _Focus the next round of work on strengthening the current intervention within the 526EZ flow
-       * Discontinue work on Blue
-       * Discontinue work on the View My Rated Disabilities page (outside of the 526 flow)
-    * Assess the level of effort needed to provide maximum ratings for all conditions, not just tinnitus_
+Explanation Text
+- Use explanation text to empower Veterans in making the best decision for their situation
+- Use the longer explanatory text
+- If possible, link to the explanation within the box for Tinnitus
+- Explore whether the longer explanation could be contained within the main page
+  - If not, explore where the explanation should live, and make sure it’s extremely easy to return to the application flow
 
+Wording
+- Use “maximum standard rating” or “highest standard rating”, with “maximum rating” as a short form when appropriate
 
-* Recommendation 2
-    * _Supporting evidence_
+Display 
+- If we can provide the maximum rating for all conditions, do so with two separate lists within the 526EZ flow
+  - In the meantime, order the list with Tinnitus at the bottom
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+Our next steps are to work with the appropriate teams to refine our design recommendations and create an accessible prototype to test with assistive technology users. The results of that test will help us determine if our new design will have a greater impact on the number of Veterans filing CFIs on conditions at the maximum rating than our current intervention. By exploring the effort needed to show the maximum rating for all conditions, we will have a better way to judge whether the impact will be worth the time it will take to make it happen.
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+Our next round of research will recruit users of assistive technology, those with cognitive disabilities and members of the LGBTQIA+ community, among others. We are building out the prototype in a tool  that is accessible for screen readers. While this previous round of testing included Veterans with cognitive disabilities, we might consider recruiting again from this population to ensure the solution we implement addresses their needs.
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Employee%20Experience/Research%20and%20Design/2023%2010%20Max%20CFI%20explorations%20preference%20testing/Max%20CFI%20Explorations%20Veteran%20Research%20Plan.docx?d=wf987e831ec4148cd880ea18f1b448e7c&csf=1&web=1&e=YOz183)
+[Conversation guide](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Employee%20Experience/Research%20and%20Design/2023%2010%20Max%20CFI%20explorations%20preference%20testing/Max%20CFI%20Explorations%20Veteran%20Conversation%20Guide.docx?d=w6948548315024b5088e119884bddbcbd&csf=1&web=1&e=WgnVt9)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Interview transcripts](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FEmployee%20Experience%2FResearch%20and%20Design%2F2023%2010%20Max%20CFI%20explorations%20preference%20testing%2FRecordings%20and%20Transcripts&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698183162672/82f141d730ea00f0c984bbf41cc3efe1d7867827?sender=f31b97a9-48af-4b33-ba7f-b22a70a81e05) 
 
+[Research Results Spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20business/Veteran%20Research/2023%2010%20Max%20CFI%20explorations%20preference%20testing/CFI%20Veteran%20Research%20Oct%202023%20-%20Results%20(002).xlsx?d=w38dc584c5b4541a6b1e630792d5876e1&csf=1&web=1&e=Ehjk5g) 
+
+[Research Repository](https://app.enjoyhq.com/projects/1o7nvamEy/overview) 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Sketch Prototype - Yellow](https://www.sketch.com/s/bf1a0cd3-1fae-4321-a081-82db48fa3d3a/a/qbM2nmz)
 
+[Sketch Prototype - Green](https://www.sketch.com/s/bf1a0cd3-1fae-4321-a081-82db48fa3d3a/a/w58znkE)
 
-## Other supporting documents created
+[Sketch Prototype - Purple](https://www.sketch.com/s/bf1a0cd3-1fae-4321-a081-82db48fa3d3a/a/71ADWxp)
 
-e.g. user flows, personas, etc.
-
+[Sketch Prototype - Blue](https://www.sketch.com/s/bf1a0cd3-1fae-4321-a081-82db48fa3d3a/a/w58z0mm)
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+[Initial Max CFI Research Report](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20business/Veteran%20Research/2023-07%20Claims%20for%20Increase%20Veteran%20Research?csf=1&web=1&e=r2I3kO) 
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **13 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 13
+* Caregivers: 0 
+* Family members of a Veteran: 0 
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6
+* Female: 7 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: _unknown_
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: _unknown_
+* Gay, lesbian, or bisexual: _unknown_
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 13
+* Tablet: 0
+* Smart phone: 1 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 5
+* 45-54: 4
+* 55-64: 3
+* 65+: 0
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 2
+* Master's degree: 4
+* Doctorate degree: 1
+* Unknown: 1
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: _unknown_
+* Rural: _unknown_
+* Unknown: _unknown_
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 7
+* Black: 4
+* Hispanic: 1
+* Biracial: 2
+* Asian: 1
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 7
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+This research does not include the perspectives of the following marginalized Veteran groups: - 
+* Mobile Users
+* Rural
+* Other than honorable
+* Immigrant origin
+* Expat
+* Hispanic
+* Biracial
+* LQBTQ+ Users
+* AT Users
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
