@@ -35,7 +35,7 @@ Form | GET /countries | Lighthouse | ⬜ | ⬜ | design | | [link] |
 Dashboard | GET /inquiries | Dynamics | ⬜ | ⬜ | design | | ☑ [link](Dashboard_RetrieveInquiries.md)  |
 Dashboard | GET /inquiries/search?{txt} | Dynamics | ⬜ | ⬜ | design | | [link] |
 Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | design | | ☑ [link](Dashboard_RetrieveCorrespondence.md) |
-Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_SubmitAReply.md) |
+Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ | design |  | ☑ [link](Dashboard_SubmitAReply.md) |
 Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_UploadFile.md) |
 Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ | design | | [link] |
 Dashboard | GET /profile | VA Profile | 🟦 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
