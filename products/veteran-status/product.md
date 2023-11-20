@@ -7,7 +7,7 @@ Veterans are often required to confirm their Veteran status to receive non-VA be
 2. Application is received, reviewed and the photo must be approved (exactly how long does this take?)<br>
 3. Veterans receive an email letting them know the status of application. They may be asked for additional info or evidence.<br>
 4. If eligible, Veteran receives digital VIC card (pdf) in an email.<br>
-5. Veterans must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).<br>
+5. Veterans must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).<br><br>
 Key pain points in the current process:
 Photo must be uploaded by veteran
 Photo must be approved by the VA
