@@ -14,4 +14,23 @@
 - (who else?)
 
 ## Findings
-(how do we want to split this up? By subjet area? By screen?)
+Our recommendations are outlined by screen.
+
+### Desktop prototype
+There are recommendations for the desktop prototype.
+
+#### Landing page
+- Update to match the content drafted in this Google document (link forthcoming).
+
+#### Introduction page
+- Update to match the content drafted in this Google document (link forthcoming).
+
+#### Step 1: Representative information
+
+#### Step 2: Claimant information
+
+#### Step 3: Your information
+
+#### Step 4: Representative permissions
+
+#### Step 5: Review information
