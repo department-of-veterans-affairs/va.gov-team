@@ -60,7 +60,7 @@ Approach:<br>
 * Make Veterans Status card/information available through “Profile” feature of VA.gov
 * Create Navigation links to the Page from the Profile
 * Create a feature toggle to makes feature available when toggled on and unavailable when toggled off
-* Toggle is initially set to Off
+* Toggle is initially set to Off<br>
 
 
 ## Technical Considerations
