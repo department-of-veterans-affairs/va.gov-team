@@ -3,11 +3,11 @@
 Provide simplified access to Veterans Status information to Veterans on VA.gov to ease their ability to access non-VA benefits and discounts.
 Problem Statement:
 Veterans are often required to confirm their Veteran status to receive non-VA benefits e.g., discounts and memberships. This confirmation typically occurs through the [Veteran ID Card (VIC)](https://www.va.gov/records/get-veteran-id-cards/vic/). But, the process to apply for and retrieve the Card can be cumbersome. The current process steps include:<br>
-Veteran applies for VIC card (requires doing the following: Fill out form (digital or paper), upload or print a photo to attach to form. Requires SSN, a digital copy of their DD214, DD256, DD257, or NGB22, a copy of a current and valid government-issued ID.
-Application is received, reviewed and the photo must be approved (exactly how long does this take?)
-Veterans receive an email letting them know the status of application. They may be asked for additional info or evidence.
-St If eligible, Veteran receives digital VIC card (pdf) in an email.
-Veterans must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).
+1. Veteran applies for VIC card (requires doing the following: Fill out form (digital or paper), upload or print a photo to attach to form. Requires SSN, a digital copy of their DD214, DD256, DD257, or NGB22, a copy of a current and valid government-issued ID.<br>
+2. Application is received, reviewed and the photo must be approved (exactly how long does this take?)<br>
+3. Veterans receive an email letting them know the status of application. They may be asked for additional info or evidence.<br>
+4. If eligible, Veteran receives digital VIC card (pdf) in an email.<br>
+5. Veterans must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).<br>
 Key pain points in the current process:
 Photo must be uploaded by veteran
 Photo must be approved by the VA
