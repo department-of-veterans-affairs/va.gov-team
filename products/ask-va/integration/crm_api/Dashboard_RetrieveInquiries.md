@@ -13,7 +13,7 @@ None
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|User ICN|
 
 ## Response
 
@@ -75,7 +75,7 @@ None
 
 ## Notes
 
-* CC: No Pagination - all inquiries for a submitter would be returned in the call
-* CC: Inactive inquiries and Status not (New, InProgress, ReOpened, Solved) will be filtered out by default
-* CC: Handling of Attachments -- Include an array of Attachment IDs for the inquiry.  Access is part of view inquiry process.
+* ~CC: No Pagination - all inquiries for a submitter would be returned in the call~
+* ~CC: Inactive inquiries and Status not (New, InProgress, ReOpened, Solved) will be filtered out by default~
+* ~CC: Handling of Attachments -- Include an array of Attachment IDs for the inquiry.  Access is part of view inquiry process.~
 
