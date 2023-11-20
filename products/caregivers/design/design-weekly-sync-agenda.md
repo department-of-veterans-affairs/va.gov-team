@@ -11,7 +11,8 @@ EZR issues discussed
 
 Hieu - UX issues found during Friday’s research UAT session
 - Review page when you try and edit Medicare Part A yes/no question and click Update Page run into an error - ticket #70261
-- Save in progress link, resetting yes/no unless Continue clicked first - ticket #70258
+    - Kristen notes that it is a Form Library issue, Review Page is heavily controlled by them.
+- Save in progress link button resets yes/no on the Mailing Address page - ticket #70258
 
 Insurance page 
 - Agreed with the arrangement of moving additional info component into main content as short term solution
