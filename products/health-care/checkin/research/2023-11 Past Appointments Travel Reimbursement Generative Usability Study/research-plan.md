@@ -212,7 +212,20 @@ Planned dates of research: **December 4-11, 2023**
   - 11am EST - 7pm EST (no AT sessions)
 
 ## Team Roles
-- Moderator: Christina Gednalske christina.gednalske@adhocteam.us
-- Secondary Moderator: Ben Brasso ben.brasso@agile6.com (Please invite to all sessions)
-- AT support: Angela Fowler angela.fowler@adhocteam.us (Please invite to AT sessions only) 
+- Moderators:
+  - Christina Gednalske christina.gednalske@adhocteam.us
+  - Ben Brasso ben.brasso@agile6.com 
+    
+- Research guide writing and task development
+  - Lead: Christina Gednalske christina.gednalske@adhocteam.us
+  - Ben Brasso ben.brasso@agile6.com
+
+- Participant recruiting & screening: Perigean
+  
+- Project point of contact: Christina Gednalske christina.gednalske@adhocteam.us
+  
+- Notetakers: Perigean
+  
+- AT support: Angela Fowler angela.fowler@adhocteam.us (Please invite to AT sessions only)
+  
 - Observers:
