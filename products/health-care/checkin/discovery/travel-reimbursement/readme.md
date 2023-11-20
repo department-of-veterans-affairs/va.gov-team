@@ -4,7 +4,7 @@
 
 MVP Targeting Fall/Winter 2022
 
-### Research
+## Research
 
 #### Previous Research on BTSSS Ecosystem
 - [Final Presentation - 18F - VA Travel Reimbursement PA.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822170/Final.Presentation.-.18F.-.VA.Travel.Reimbursement.PA.pdf)
