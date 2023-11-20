@@ -9,10 +9,10 @@ Veterans are often required to confirm their Veteran status to receive non-VA be
 4. If eligible, Veteran receives digital VIC card (pdf) in an email.<br>
 5. Veterans must print the digital VIC card (pdf) in order to use it (this cost is covered by the Veteran).<br><br>
 Key pain points in the current process:
-Photo must be uploaded by veteran
-Photo must be approved by the VA
-Veterans must pay to print the card
-Process is time consuming<br>
+* Photo must be uploaded by veteran
+* Photo must be approved by the VA
+* Veterans must pay to print the card
+* Process is time consuming<br>
 ### How might we statement: How might we ease the burden on Veterans to access discounts and memberships through a Digital experience  that requires fewer steps to obtain and requires only access to the VA.gov site? 
 
 ## Desired Outcomes
