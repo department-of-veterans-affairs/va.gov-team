@@ -165,15 +165,15 @@ How the API determines CC eligibility:
 
 ### Community Care Requests in HSRM
 - All community care requests must write the following data to the Health Systems Referral Management System (HSRM)
-      - Site ID
-      - Email
-      - Mobile Phone number
-      - Communication preference
-      - Request times
-      - Type of care
-      - Preferred contact time
-      - Preferred Language
-      - Preferred city
-      - Preferred state
-      - Comments
+   - Site ID
+   - Email
+   - Mobile Phone number
+   - Communication preference
+   - Request times
+   - Type of care
+   - Preferred contact time
+   - Preferred Language
+   - Preferred city
+   - Preferred state
+   - Comments
 
