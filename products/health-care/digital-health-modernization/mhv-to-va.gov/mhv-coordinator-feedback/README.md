@@ -8,5 +8,5 @@ Please contact Kristen McConnell (kristen.mcconnell@va.gov) if you would like to
 | Nov. 7, 2023 at 11 - Noon ET | Mobile App | Liz Straghalis (liz.straghalis@adhocteam.us) |
 | Nov. 29, 2023 at 11 - Noon ET | Appointments | Kristen McConnell (kristen.mcconnell@va.gov) |
 | December |  |  |
-| January |  |  |
+| January | Medications | Kay Lawyer (katherine.lawyer@va.gov) |
 | February | Medical Records | Marci McGuire (Marci.McGuire@va.gov) |
