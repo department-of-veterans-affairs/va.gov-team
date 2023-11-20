@@ -26,7 +26,7 @@ Appointments is authenticated and has some access requirements that Veterans mus
 <details>
   <summary>Sample response - /v0/user vaProfile field</summary>
   
-  Sample response from user in staging registered at 983 and 984
+  Sample response from user in staging registered at 983 and 984.
 
   ```
   https://staging-api.va.gov/v0/user
@@ -56,9 +56,6 @@ Appointments is authenticated and has some access requirements that Veterans mus
   }
   ```
 </details>
-
-- The VA Profile team gets the registered facilities from the VA's Enrollment System team.
-- The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA to the Enrollment system when a veteran is registered and/or key information on veteran is edited in Vista. The IVM Background job must be queued to send the Z07s from VistA to the Enrollment System.   
 
 ## Specifications
 
