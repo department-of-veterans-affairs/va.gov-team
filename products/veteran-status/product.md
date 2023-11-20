@@ -68,18 +68,18 @@ Veterans that are not honorably discharged shall not have access to the Veteran 
 For those veterans with an existing VIC card, where in the current system (API or FE) would the VIC live (i.e. how do we go about surfacing it?)?
 
 ## Post-MVP
-Areas to explore:
-Print function available from Veteran Status page (potentially with some sort of card-like form factor).  
-Unauthenticated user flow
-A consolidated ID card approach through engagement with VIC and other teams
-Broader use of ID.me amongst external non-VA benefit and discount providers
+Areas to explore:<br>
+* Print function available from Veteran Status page (potentially with some sort of card-like form factor).  
+* Unauthenticated user flow
+* A consolidated ID card approach through engagement with VIC and other teams
+* Broader use of ID.me amongst external non-VA benefit and discount providers<br>
 Implementation Information
 Timeline
 Discovery Sprint from  10/16/23 - 11//1/23
-Next step: present product concept to collab cycle
+Next step: present product concept to collab cycle?<br>
 Important Context and Decisions
 * Where does the new Veteran Status live? Military Information Page? Profile? My VA? Somewhere on its own?
 * Allow for offline access? Might be good for older phones or areas with slow/unavailable wifi.
 * Availability for use online in online shopping environments?
-Open Questions
+Open Questions<br>
 * What access to Veterans and non-VA Benefits providers will our team have for research purposes?
