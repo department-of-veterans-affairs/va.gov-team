@@ -112,8 +112,8 @@
      - [x] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [x] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
 - [x] **Request [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67227) - Refer back to the initial Collaboration Cycle Request ticket**
-     - [ ] **Review findings with the team**
-     - [ ] **Create tickets for work to be completed before launch**
+     - [x] **Review findings with the team**
+     - [x] **Create tickets for work to be completed before launch**
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
 - [x] Update Error matrix documentation with any new error states
 - [x] Update any FE and/or BE Engineering documentation
@@ -127,13 +127,13 @@
 - [ ] **Review this checklist for any missing artifacts**
 - [ ] **Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)**
 - [ ] **Conduct [Launch Go/No Go](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67222) with the team**
-     - [ ] **Review this checklist**
+     - [ ] **Review the checklist**
      - [ ] **Review Release Plan**
 - [ ] **Launch in a phased manner, according to Release Plan**
 - [ ] **Continuous check-ins with downstream system**
 - [ ] Create Usability and/or UAT research plan and conversation guide
 - [ ] **Request Research Plan review**
-- [ ] Conduct Usability/UAT sessions
+- [ ] Conduct Post-launch Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets for design and/or development
