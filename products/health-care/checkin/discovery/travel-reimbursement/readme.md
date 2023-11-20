@@ -5,10 +5,6 @@
 MVP Targeting Fall/Winter 2022
 
 
-### Meetings & Decisions 
-- [Meeting Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/meeting-notes.md)
-- [Decision Register](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/decision-register.md)
-
 ### Questions
 - [Running List of Answers to Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/answers-to-questions.md)
 
