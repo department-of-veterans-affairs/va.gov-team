@@ -4,6 +4,8 @@
 
 A scheduled examination that is scheduled as part of filing a disability claim.
 
+See: [VA Claim Exam (C&P Exam)](https://www.va.gov/disability/va-claim-exam/)
+
 ## User stories
 
 See [user stories for all appointment types](./all-appointment-types#user-stories.md).
