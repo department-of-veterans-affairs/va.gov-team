@@ -56,11 +56,11 @@ Create a Veterans Status page on VA.com that is only displayed to authenticated 
 * Discharge status 
 * VA Logo
 * Branch of Military logo<br>
-Approach:
-Make Veterans Status card/information available through “Profile” feature of VA.gov
-Create Navigation links to the Page from the Profile
-Create a feature toggle to makes feature available when toggled on and unavailable when toggled off
-Toggle is initially set to Off
+Approach:<br>
+* Make Veterans Status card/information available through “Profile” feature of VA.gov
+* Create Navigation links to the Page from the Profile
+* Create a feature toggle to makes feature available when toggled on and unavailable when toggled off
+* Toggle is initially set to Off
 
 
 ## Technical Considerations
