@@ -14,6 +14,30 @@
 
 ## Agenda
 
+## 11/28/23
+
+* **Q4 Projects in Progress**
+  * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Work is listed in PO's priority order based on SoS Sprint Tab 
+  * Current Sprint
+    * Sprint 
+   
+* **Project Status Updates**
+  * Review yellow projects
+  * Any PO questions on existing projects? 
+
+* **Standing question for the POs**
+  * Any new work we should be on the lookout for?
+  * Any priority shifts or other updates?
+
+
+* **Sprint Planning**
+   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+
+    
+* **Other topics**
+   * Monthly data interpretation (Liz & Greta)
+
 ## 11/14/23
 
 * **Q4 Projects in Progress**
