@@ -1,4 +1,4 @@
-# Health Wayfinding Secondary Navigation - Research [MM-DD-2023-P#]
+# Health Wayfinding Secondary Navigation Research [MM-DD-2023-P#]
 
 ## Warm-up Questions - 5 minutes
 M: Let’s start with a few questions... 
