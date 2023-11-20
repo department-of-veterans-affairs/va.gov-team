@@ -74,25 +74,47 @@ Remote with Zoom
 ## Recruitment
 Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions, which includes at least 5 completed sessions with Veterans with a cognitive impairment, 3 completed sessions with screen reader users, and 2 completed sessions with screen magnification or zoom users.
 
-All participants must have previously filed a travel reimbursement for a VA appointment (and ideally have had an issue with or confusion around the claim). **(need screener question)**
+All participants must have previously filed a travel reimbursement for a VA appointment (and ideally have had an issue with or confusion around the claim). 
 [Recruitment intake ticket]
 
+### Screener questions
+
+
+
+
 ## Timeline
+
+**December 4-11, 2023**
+
 
 ### Prepare
 We would like to request a 15 minute kick-off call with Perigean before recruiting begins.
 
 Availability for a kick-off call:
-- TBD
-- TBD
-- TBD
+- Monday, November 27, 11am EST - 5pm EST
 
 ### Pilot session
-- Pilot participant email: TBD
-- Date and time of pilot session: TBD
+- Pilot participant email: lee.delarm@agile6.com
+- Date and time of pilot session: Thursday, November 30th: 11am EST - 12pm EST
 
 ### Research sessions
-- Planned dates of research: (Approximately) December 4-6, 2023
+Planned dates of research: December 4-11, 2023
+
+**Availability for sessions (including AT sessions):**
+  
+- Monday, December 4
+  - 9:30am EST - 7pm EST
+- Tuesday, December 5
+  - 11am EST - 7pm EST
+- Wednesday, December 6
+  - 9:30am EST - 7pm EST
+- Thursday, December 7
+  - 9:30am EST - 7pm EST
+- Friday, December 8
+  - 11am EST - 7pm EST
+- Monday, December 11
+  - 11am EST - 7pm EST (no AT sessions)
+
 
 ### Length of sessions
 TBD
