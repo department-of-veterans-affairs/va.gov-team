@@ -3,7 +3,7 @@
 ### Date: Nov 21' 2023       
 ### Participants: Rakshinda, Emily, Steve, Shannon 
 ### Topics Covered:
-- VBA concern for Toxic Exposure delivery
+- VBA concern about Toxic Exposure delivery
 - Lighthouse ask for production ETA for migration
 - Ownership of items that come out of collab cycle from other teams
 - Ownership of maintaining code coverage for 526
