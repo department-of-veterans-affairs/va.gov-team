@@ -17,7 +17,7 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 |---|---|
 ⬜ | Not Started |
 🟨 | In Progress |
-🟧 | Paused |
+🟦 | Paused |
 🟩 | Done |
 🟥 | Blocked |
 
@@ -38,5 +38,5 @@ Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | design | |  [link
 Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_SubmitAReply.md) |
 Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ | design |  | [link](Dashboard_UploadFile.md) |
 Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ | design | | [link] |
-Dashboard | GET /profile | VA Profile | 🟧 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
-Form | PUT /inquiry/new | Dynamics | 🟧 | ⬜ | design | |  [link](Form_SubmitInquiry.md) |
+Dashboard | GET /profile | VA Profile | 🟦 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
+Form | PUT /inquiry/new | Dynamics | 🟦 | ⬜ | design | |  [link](Form_SubmitInquiry.md) |
