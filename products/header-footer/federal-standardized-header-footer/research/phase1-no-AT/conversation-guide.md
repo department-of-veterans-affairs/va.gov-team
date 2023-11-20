@@ -227,15 +227,15 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 
 ### Task 4: [Learn about disability compensation]
-Let's say that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
+Pretend that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
 
-*RECORD navigation: header > **megamenu > Disability** / footer / search / mobile search*
+*RECORD navigation: header > **megamenu > Disability > Eligibility** / footer / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 
 ### Task 5: [Find a Form]
-Let's say that you're considering going back to school to get your degree, and you'rd like to see if the VA can help you pay for it. How might you apply online?  
+Let's say that you're considering going back to school to get your degree, and you'd like to see if the VA can help you pay for it. How might you apply online?  
 
 *RECORD navigation: header > megamenu > Education and training / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
@@ -271,7 +271,7 @@ Say that after using this website for a while, you didn't get all of your questi
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 ### Task 9: [FOIA]
- Say that someone mentioned the Freedom of Information Act, and now you want to learn more about it. How might you do that from this web page?
+ Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
 
