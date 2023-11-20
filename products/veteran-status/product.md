@@ -77,9 +77,9 @@ Implementation Information
 Timeline
 Discovery Sprint from  10/16/23 - 11//1/23
 Next step: present product concept to collab cycle?<br>
-Important Context and Decisions
+Important Context and Decisions<br>
 * Where does the new Veteran Status live? Military Information Page? Profile? My VA? Somewhere on its own?
 * Allow for offline access? Might be good for older phones or areas with slow/unavailable wifi.
-* Availability for use online in online shopping environments?
+* Availability for use online in online shopping environments?<br>
 Open Questions<br>
 * What access to Veterans and non-VA Benefits providers will our team have for research purposes?
