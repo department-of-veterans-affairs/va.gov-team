@@ -87,7 +87,7 @@ _Send link to prototype: https://www.sketch.com/s/02430c9f-e4cb-4945-b7bb-6ec2f8
 
 **So, today you are going to perform some healthcare-related activities with this prototype. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
-**(Start from the signed-in MHV landing page) Before I give you the task, can you tell me where you are at right now?**
+**(Start from the signed-in MHV landing page) Before I give you the task, talk me through what you are seeing on the screen - where does it make you think you are on the site?**
 
 **_Task 1a - MR and SM_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. How would you go about seeing those results? It would really help me if you could talk me through what you are thinking. 
 
