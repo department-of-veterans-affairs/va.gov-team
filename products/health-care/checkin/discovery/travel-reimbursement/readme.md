@@ -6,12 +6,12 @@ MVP Targeting Fall/Winter 2022
 
 ## Research
 
-#### Previous Research on BTSSS Ecosystem
+### Previous Research on BTSSS Ecosystem
 - [Final Presentation - 18F - VA Travel Reimbursement PA.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822170/Final.Presentation.-.18F.-.VA.Travel.Reimbursement.PA.pdf)
 - [Final Report - 18F Path Analysis on Beneficiary Travel Self-Service System (BTSSS).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822171/Final.Report.-.18F.Path.Analysis.on.Beneficiary.Travel.Self-Service.System.BTSSS.pdf)
 - [18F & VA Travel Reimbursement PA Mid-Point.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12822172/18F.VA.Travel.Reimbursement.PA.Mid-Point.pdf)
 
-#### Research Findings from Check In
+### Research Findings from Check In
 - [Travel Reimbursement Findings from Interview with VA Bay Pines Healthcare System ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/bay-pines-interview-notes.md)<br>
 - [Research Synthesis from Bay Pines (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531778271/c07cb27bbf026415d07a1fc0ae39b972954ecf5c?sender=u37bb983bd3fc3cc00c7d3286)
 - [Research Findings from Bay Pines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/bay-pines-in-person-uat/research-findings.md#details-of-findings)
@@ -23,7 +23,7 @@ MVP Targeting Fall/Winter 2022
 - [Research Findings from Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-findings.md#key-findings)
 - [Wilkes-Barre Metrics Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre/research-presentation.md)
 
-##### Design Artifacts for Travel Reimbursement MVP in eCheck-in Research  
+### Design Artifacts for Travel Reimbursement MVP in eCheck-in Research  
 - [Initial user flow options (Sketch)](https://www.sketch.com/s/42a478e7-cb38-49e5-9500-9b21182873da/a/dlAA519)
 - [Initial user flow diagrams for prototypes (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531429305/6b986c4b53c47cd6da2809f5af30ad28a87644bb?sender=u37bb983bd3fc3cc00c7d3286)
 - [Prototype D (Post-research) (Sketch)](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6)
@@ -43,7 +43,7 @@ MVP Targeting Fall/Winter 2022
 - Little flexibility in the BTSSS API, assumed  none until something is needed. 
 - If a claim is submitted before an appoinment is checked out, the claim will go into manual review 
 
-## Future Iterations & Initiatives
+## Future Ideas
 
 - Asycnronous Claim Submission
 - Veteran notifiction
