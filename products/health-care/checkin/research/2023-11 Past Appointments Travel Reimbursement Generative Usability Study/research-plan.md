@@ -98,7 +98,16 @@ Availability for a kick-off call:
 - Date and time of pilot session: Thursday, November 30th: 11am EST - 12pm EST
 
 ### Research sessions
-Planned dates of research: December 4-11, 2023
+Planned dates of research: **December 4-11, 2023**
+
+### Length of sessions
+- Session length:
+  - 45 min for non-screenreader sessions
+  - 1.5 hour for screenreader sessions
+- Buffer time between sessions: 30 minutes
+- Maximum Sessions per day: 5
+
+### Availability
 
 **Availability for sessions (including AT sessions):**
   
@@ -115,16 +124,8 @@ Planned dates of research: December 4-11, 2023
 - Monday, December 11
   - 11am EST - 7pm EST (no AT sessions)
 
-
-### Length of sessions
-TBD
-
-### Availability
-- Session length:
-  - 45 min for non-screenreader sessions
-  - 1.5 hour for screenreader sessions
-- Buffer time between sessions: 30 minutes
-- Maximum Sessions per day: 6
-
 ## Team Roles
-TBD
+- Moderator: Christina Gednalske christina.gednalske@adhocteam.us
+- Secondary Moderator: Ben Brasso ben.brasso@agile6.com (Please invite to all sessions)
+- AT support: Angela Fowler angela.fowler@adhocteam.us (Please invite to AT sessions only) 
+- Observers:
