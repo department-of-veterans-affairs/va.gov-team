@@ -60,8 +60,34 @@ There are recommendations for the desktop prototype.
 We're aware this doesn't work perfectly as of Nov '23, but a ticket has been filed [with the DST](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2254), so it'll work properly once it's been fixed.
 
 ##### User's existing contact information
-- `accessibility` stuff
+There's an [existing implementation](https://staging.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995/introduction) of the pattern (must be logged in to view) that you can reference. We also took a video to see it in action:
+
+
+https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/03d2beb2-7cfe-487e-9434-8da8fe9e876a
+
+Follow this pattern, and note:
+- `accessibility` `must do` The "Edit" links need to be accessible to assistive technology users - they need accessible, descriptive names. You can use `aria-label` for this.
+- `accessibility` `must do` You’ll need to manage the focus on the “Successfully updated” message, so it reads out loud to a screen reader user. (They do this in the existing implementation, so follow their lead!)
+   
 
 #### Step 4: Representative permissions
+##### Authorization for Record Access
+- `accessibility` `must do` When the user says “No” and that alert comes up, you’ll need to make sure it has focus so that screen reader users actually hear the text in the alert. Make sure that the focus changes AFTER the user leaves the field, not before — a screen reader might cut off the field text otherwise.) You can follow these instructions when implementing. (Special thanks for Sarah Koosman, who came up with this solution in [another review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/templates/Design%20review%20template.md#step-2-sk---set-focus)!)
+    - Add an id to your alert component to make it easier to target with JavaScript, e.g., `<div id="alertComponent" role="alert">Your alert message</div>`
+    - Use JavaScript to set focus to the alert component after the user leaves the date input field:
+      ```
+      const dateInput = document.getElementById('yourDateInput'); // Replace with your actual date input element
+      const alertComponent = document.getElementById('alertComponent'); // Replace with the actual ID of your alert component
+
+      dateInput.addEventListener('blur', function () {
+      alertComponent.focus();
+      });
+      ```
+This code listens for the "blur" event on the date input field and then sets focus to the alert component. This ensures that when the user tabs out of the date input, the alert component will be the next element in focus, making it accessible to screen reader users.
+
+Make sure to replace `'yourDateInput'` and `'alertComponent'` with the actual IDs or element references for your specific input field and alert component.
 
 #### Step 5: Review information
+- `accessibility` `must do` "View full accredited representative policy" should be "Review" or "Read."
+- `accessibility` `must do` The "Edit" buttons must have accessible names - "Edit representative information," for example. You can use `aria-label` for this:<br>
+  `<button type=“button” aria-label=“Edit representative information”>Edit</button>`
