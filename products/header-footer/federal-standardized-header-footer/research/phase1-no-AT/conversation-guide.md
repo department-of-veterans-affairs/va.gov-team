@@ -226,32 +226,23 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 
-### Task 4A: [Learn about disability compensation]--IF *DON'T HAVE* VA DISABILITY
-Let's say that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for disability compensation. What could you do from this web page? 
+### Task 4: [Learn about disability compensation]
+Let's say that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
 
 *RECORD navigation: header > **megamenu > Disability** / footer / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 
-### OR Task 4B: [Learn about education benefits]--IF *HAVE* VA DISABILITY
-Let's say that you're considering going back to school to get your degree, and you're wondering if the VA can help you pay for it. What could you do from this web page?  
+### Task 5: [Find a Form]
+Let's say that you're considering going back to school to get your degree, and you'rd like to see if the VA can help you pay for it. How might you apply online?  
 
-*RECORD navigation: header > **megamenu > Education and training** / footer / search / mobile search*
-
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
-
-
-### Task 5: [Find a Form--CHANGE PER FEEDBACK FROM AMANDA? (to a task without "form" in the ask)]
-Could you please go back to the original page that you were looking at?
-
-Now you've decided to apply for *[disability OR education]* benefits. How would you do that online, starting from this web page?
-
-*RECORD navigation: header > megamenu > Education and training or Disability / **footer > VA forms** / search / **mobile header > search > Find a VA form***
+*RECORD navigation: header > megamenu > Education and training / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-- Is there another way that you could do this task from this web page?
+- *(If didn't use Find a Form)* Is there another way that you could do this task from this web page?
+- *(If need more prompting)* You're looking for the application to fill out on line.
 
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
@@ -263,10 +254,10 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 *If didn't find the footer link, ASK:* 
 - Is there another way that you could do this task from this web page?
 
-### Task 7: [Mental health help]
-Let’s suppose that you've been going through some challenges in your life recently, and you want to talk to someone about how you're feeling. How would you do this? 
+### Task 7: [Burial]
+Let's say that you're wondering whether you could be buried in a VA cemetery. How would you find out using this web page?  
 
-*RECORD navigation: **header > megamenu > Health care > View all in health care** / footer > Mental health / search / mobile search*
+*RECORD navigation: **header > megamenu > Burials and memorials > Eligibility** / footer / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -279,10 +270,12 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-### Task 9: [FOIA--DISCUSS w/AMANDA]
- If you wanted to request a copy of your VA disability compensation application, how might you do that?
+### Task 9: [FOIA]
+ Say that someone mentioned the Freedom of Information Act, and now you want to learn more about it. How might you do that from this web page?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
+
+*RECORD any feedback about the black/white footer area*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
