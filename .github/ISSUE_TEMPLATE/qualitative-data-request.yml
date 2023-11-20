@@ -22,7 +22,16 @@ body:
         - User Surveys
     validations:
       required: true
-  - type: input
+  - type: dropdown
+    id: data-request-type
+    attributes:
+      label: Data Source Type
+      description: For MyVA411 call center support data, select \"Support.\" For Medallia survey data, select \"User Surveys.\"
+      options:
+        - MyVA 411 
+        - Medallia
+    validations:
+      required: true - type: input
     id: start-date
     attributes:
       label: Date Range Start
