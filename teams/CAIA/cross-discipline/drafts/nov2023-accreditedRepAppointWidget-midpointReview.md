@@ -34,7 +34,7 @@ There are recommendations for the desktop prototype.
 - `content` `must do` Update to match the content drafted in this Google document (link forthcoming).
 
 #### Step 1: Representative information
-
+ 
 #### Step 2: Claimant information
 
 #### Step 3: Your information
@@ -86,6 +86,22 @@ Follow this pattern, and note:
 This code listens for the "blur" event on the date input field and then sets focus to the alert component. This ensures that when the user tabs out of the date input, the alert component will be the next element in focus, making it accessible to screen reader users.
 
 Make sure to replace `'yourDateInput'` and `'alertComponent'` with the actual IDs or element references for your specific input field and alert component.
+
+- `content` `must do` Updated content for step 4 screens
+  - [Step header] Accredited representative permissions
+  - [H2] Permission to access your medical records
+  - [Intro] To help with your VA benefits, this accredited representative may need to access your medical records. Without access, they may not be able to help you.
+  - [Link] Review our records release policy
+  - [Question] Can this accredited representative access your medical records?
+    - Yes, I give this accredited representative permission to access my records
+    - No, I don’t give this accredited representative permission to access my records
+  - [Accordion] This accredited representative will be able to access to your records until one of these are true:
+    - You appoint a new accredited representative, or
+    - You take back (revoke) the appointment of this accredited representative, or
+    - You send us a written notice that revokes this accredited representative’s access to your medical records
+  - [Within accordion] Note: No one outside of VA or the Court of Appeals for Veterans Claims will have access to your medical records without your written permission.
+
+
 
 #### Step 5: Review information
 - `accessibility` `must do` "View full accredited representative policy" should be "Review" or "Read."
