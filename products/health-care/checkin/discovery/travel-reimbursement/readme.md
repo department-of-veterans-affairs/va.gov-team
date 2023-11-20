@@ -61,3 +61,4 @@ MVP Targeting Fall/Winter 2022
 - [Userflow that includes Bene Travel Agreement](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0157CB5C-B33B-4324-B375-AC686EFA3B4A/canvas)
 - [Impact vs Feasibility Matrix for filing for past appointments](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692898808732/d9ae369abf85caa6afdc24b2743dba0989171eee?sender=u37bb983bd3fc3cc00c7d3286)
 - [Past appointments userflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695774555765/73dec2c323f80ae6cb2a6e0a646221e2aeb680c4?sender=u37bb983bd3fc3cc00c7d3286)
+- [Research Plan for Past Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/research-plan.md)
