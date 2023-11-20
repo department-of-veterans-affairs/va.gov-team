@@ -2,7 +2,7 @@
 ## Overview
 Provide simplified access to Veterans Status information to Veterans on VA.gov to ease their ability to access non-VA benefits and discounts.
 Problem Statement:
-Veterans are often required to confirm their Veteran status to receive non-VA benefits e.g., discounts and memberships. This confirmation typically occurs through the [Veteran ID Card (VIC)](https://www.va.gov/records/get-veteran-id-cards/vic/). But, the process to apply for and retrieve the Card can be cumbersome. The current process steps include:
+Veterans are often required to confirm their Veteran status to receive non-VA benefits e.g., discounts and memberships. This confirmation typically occurs through the [Veteran ID Card (VIC)](https://www.va.gov/records/get-veteran-id-cards/vic/). But, the process to apply for and retrieve the Card can be cumbersome. The current process steps include:<br>
 Veteran applies for VIC card (requires doing the following: Fill out form (digital or paper), upload or print a photo to attach to form. Requires SSN, a digital copy of their DD214, DD256, DD257, or NGB22, a copy of a current and valid government-issued ID.
 Application is received, reviewed and the photo must be approved (exactly how long does this take?)
 Veterans receive an email letting them know the status of application. They may be asked for additional info or evidence.
@@ -12,7 +12,7 @@ Key pain points in the current process:
 Photo must be uploaded by veteran
 Photo must be approved by the VA
 Veterans must pay to print the card
-Process is time consuming
+Process is time consuming<br>
 ### How might we statement: How might we ease the burden on Veterans to access discounts and memberships through a Digital experience  that requires fewer steps to obtain and requires only access to the VA.gov site? 
 
 ## Desired Outcomes
