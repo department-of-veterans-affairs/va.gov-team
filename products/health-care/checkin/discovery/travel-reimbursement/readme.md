@@ -4,10 +4,6 @@
 
 MVP Targeting Fall/Winter 2022
 
-
-### Questions
-- [Running List of Answers to Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/discovery/travel-reimbursement/answers-to-questions.md)
-
 ### Research
 
 #### Previous Research 
