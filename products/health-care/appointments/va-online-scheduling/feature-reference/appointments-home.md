@@ -25,7 +25,10 @@ Starting page to schedule or manage appointments.
 - If user is ineligible to use VAOS because they are not registered at a VA facility the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays.
 
 ### Non-functional
-- Once the user lands on the VAOS homepage,  the appointment endpoint returns future booked appts (previous month through  1yr from next month) and proposed appt (3 months prior through next month) which contains locationID aka the facilityID (ie  984) along with the facility name (Dayton VA Medical Center). 
+- Once the user lands on the VAOS homepage, the appointment endpoint returns:
+   - Future booked appointments from the previous month, through 1 year from the next month.
+   - Proposed appointments from the previous 3 months prior through the next month.
+   - This contains locationID, aka the facilityID (i.e.  984), along with the facility name (Dayton VA Medical Center). 
 
 <details>
 <summary>Sample Response: One appointment being returned</summary>
