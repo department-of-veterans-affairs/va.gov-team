@@ -57,7 +57,7 @@ Discharge status
 VA Logo
 Approach:
 Make Veterans Status card/information available through “Profile” feature of VA.gov
-Create Navigation links to the Page from the Profile and Badge
+Create Navigation links to the Page from the Profile
 Create a feature toggle to makes feature available when toggled on and unavailable when toggled off
 Toggle is initially set to Off
 
