@@ -23,7 +23,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: data-request-type
+    id: data-request-type?
     attributes:
       label: Data Source Type
       description: For MyVA411 call center support data, select \"MyVA 411.\" For Medallia survey data, select \"Medallia.\"
