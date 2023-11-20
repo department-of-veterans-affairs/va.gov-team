@@ -4,12 +4,12 @@
 
 **Method**: GET
 
-**Path**: /inquiries
+**Path**:  /inquiry/{id}/replies
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|~inquiryNumber~|~string~|~Inquiry Number to Retrieve Correspondence For~|
+|id|string|Inquiry Number to Retrieve Correspondence For|
 
 **Headers**:
 | Name | Type | Description |
