@@ -48,13 +48,14 @@ Veterans Status information immediately available in VA.gov for authenticated us
 
 ## Solution Approach
 MVP
-Create a Veterans Status page on VA.com that is only displayed to authenticated users.  Key data elements include:  
-Name
-Date of Birth
-Dates of Service
-Branch of Military (pick latest)
-Discharge status 
-VA Logo
+Create a Veterans Status page on VA.com that is only displayed to authenticated users.  Key data elements include:<br>
+* Name
+* Date of Birth
+* Dates of Service
+* Branch of Military (pick latest)
+* Discharge status 
+* VA Logo
+* Branch of Military logo<br>
 Approach:
 Make Veterans Status card/information available through “Profile” feature of VA.gov
 Create Navigation links to the Page from the Profile
