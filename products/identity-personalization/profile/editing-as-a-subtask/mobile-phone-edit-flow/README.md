@@ -91,9 +91,9 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 No pre-launch stats as this didn't exist prior. 
 |KPI/metric| 25% 10/25-10/30/2023| 50% 10/31-11/6/2023 | 100% 11/7-11/13/2023 | 1 month post-launch to 100% 11/7-12/5/2023| 2 months post-launch to 100% 11/7/2023-1/2/2024|
 |----------|:-:|:-:|:-:|:-:|:-:|
-|Number of saves of the add a mobile number form (success)|177|465||||
-|Number of saves of the add a mobile number form (failures)|1|7||||
-|Save success as a %| 99.44% |98.52%||||
+|Number of saves of the add a mobile number form (success)|177|465|958|||
+|Number of saves of the add a mobile number form (failures)|1|7|4|||
+|Save success as a %| 99.44% |98.52%|99.58%|||
 
 ---
 
