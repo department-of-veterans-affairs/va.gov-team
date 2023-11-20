@@ -26,7 +26,7 @@ body:
     id: data-source-type
     attributes:
       label: Data Source Type
-      description: For MyVA411 call center support data, select \"MyVA.411.\" For Medallia survey data, select \"Medallia.\"
+      description: For MyVA 411 data, select \"MyVA.411.\" For Medallia data, select \"Medallia.\"
       options:
         - MyVA.411 
         - Medallia
