@@ -31,7 +31,7 @@ Veterans Status information immediately available in VA.gov for authenticated us
 * An ID number is not required
 * The Web and Mobile experience shall be consistent but may utilize different form factors as applicable to their channel
 * A Veteran Status card displayed in the VA mobile app will be accepted by 3rd parties as official proof of Veteran status
-* There will be marketing support for the new Veteran status card (to drive new app downloads)
+* There will be marketing support for the new Veteran status card (to drive Veteran awareness)
 
 ## Measuring Success
 * Adoption is a key performance indicator.  We’ll track Veteran engagement and interaction.
