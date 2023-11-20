@@ -157,15 +157,15 @@ Screener Q8: Are there any additional accommodations we can provide to assist yo
 
 
 #### Secondary criteria:
-At least 4 participants who are women
-At least 4 participants who are 55 or older
-At least 3 participants who live in a rural area
-At least 2 participants with no degree
-At least 1 LGBTQ+ Veteran
-At least 3 Black Veterans
-At least 2 Latinx Veterans
-At least 1 Asian Veteran
-At least 1 Native Veteran
+- At least 4 participants who are women
+- At least 4 participants who are 55 or older
+- At least 3 participants who live in a rural area
+- At least 2 participants with no degree
+- At least 1 LGBTQ+ Veteran
+- At least 3 Black Veterans
+- At least 2 Latinx Veterans
+- At least 1 Asian Veteran
+- At least 1 Native Veteran
 
 
 
