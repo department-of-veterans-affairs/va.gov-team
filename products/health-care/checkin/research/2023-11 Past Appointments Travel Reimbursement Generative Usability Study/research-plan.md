@@ -177,8 +177,7 @@ Screener Q8: Are there any additional accommodations we can provide to assist yo
 ### Prepare
 We would like to request a 15 minute kick-off call with Perigean before recruiting begins.
 
-Availability for a kick-off call:
-- Monday, November 27, 11am EST - 5pm EST
+- Availability for a kick-off call: Monday, November 27, 11am EST - 5pm EST
 
 ### Pilot session
 - Pilot participant email: lee.delarm@agile6.com
