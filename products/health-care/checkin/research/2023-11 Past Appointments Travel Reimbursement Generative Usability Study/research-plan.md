@@ -57,9 +57,9 @@ Research Questions
   - MAYBE TRUE - Based on unified check-in generative research results, Veterans will be able to find how to navigate back to the appointment list, but might not notice they can do so without prompting.
 
 ## Methodology
-This research will be conducted as a remote, moderated study and will combine a presenting Veterans with a list of travel reimbursement claim status terms and usability test. The status questions will use a slide deck and the usability testing will use an accessible CodePen prototype built for mobile devices. 
+This research will be conducted as a remote, moderated study and will combine presenting Veterans with a list of travel reimbursement claim status terms with a usability test. For the status questions, we will use present the terms via slide deck and, for usability testing, we will have the participant use an accessible CodePen prototype built for mobile devices. 
 
-When reviewing travel reimbursement terms, participants will be asked about their interpretation of each term's meaning and the level of importance to the participant during the travel reimbursement process. Participants will then complete specific tasks within the CodePen prototype and will be asked follow-up questions to gain understanding of expectations and satisfaction.
+When reviewing travel reimbursement terms, participants will be asked about their interpretation of each term's meaning and how important they consider this status during the travel reimbursement process. Participants will then complete specific tasks within the CodePen prototype and will be asked follow-up questions to gain understanding of expectations and satisfaction.
 
 Participants will try out a prototype presenting the “Email user flow (successful submission).”
 
