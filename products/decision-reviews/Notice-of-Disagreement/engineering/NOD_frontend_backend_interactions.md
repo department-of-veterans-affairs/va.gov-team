@@ -6,8 +6,8 @@
 
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
-| BGS                  | -                  | 200        | Starts form. Shows Veteran details [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/bc348c63-6670-4a26-bca8-0efd77cdb7b3)
-|                      |                    | Any other  | Starts form. Shows Veteran details without SSN or VA file number [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/366f09ee-8121-43c6-a017-5d2a23d13317)
+| BGS                  | -                  | 200        | Starts form. <br> Shows Veteran details [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/bc348c63-6670-4a26-bca8-0efd77cdb7b3)
+|                      |                    | Any other  | Cannot start form. <br> Warning alert. <br> Header: This application is down for maintenance. <br> Body: We’re making some updates to this application. We’re sorry it’s not working right now. Please check back soon.	
 
 
 ## Prefill Veteran Contact Information
@@ -17,7 +17,7 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | Vet360               | -                  | 200        | Shows Veteran contact information
-|                      |                    | Any other  | -
+|                      |                    | Any other  | Cannot start form. <br> Warning alert. <br> Header: This application is down for maintenance. <br> Body: We’re making some updates to this application. We’re sorry it’s not working right now. Please check back soon.	
 
 ## Get Contestable Issues
 
