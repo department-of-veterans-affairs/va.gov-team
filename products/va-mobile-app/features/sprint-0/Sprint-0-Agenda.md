@@ -17,12 +17,7 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* Screenshot Restriction (Adam)
-    * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
-    * what are industry standards?
-    * where would we want to implement it in our app
-    * alternatives to screenshots - Print, generate PDF
-    * can it be turned off in OS settings?
+
 * After visit summary for appointments (Meko)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
@@ -47,7 +42,13 @@ The Sprint 0 meeting is a time to do the following:
 
 * [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
 * [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
-
+* [After visit summary for appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointments/Project%20-%20After%20Visit%20Summary/Sprint0.md) (Meko)
+* [Screenshot Restriction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Screenshot%20Restriction/Sprint%200.md) (Adam)
+    * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
+    * what are industry standards?
+    * where would we want to implement it in our app
+    * alternatives to screenshots - Print, generate PDF
+    * can it be turned off in OS settings?
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
