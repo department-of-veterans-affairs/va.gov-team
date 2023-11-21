@@ -1,5 +1,39 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 19
+Period - 11/22/2023 - 12/05/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] Unit tests coverage to 80% for unblocking future code shipment
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Canary launch
+      - Benefits Claims Service
+        - [ ] Update Datadog Dashboard
+- **Features**
+   - 526ez sync with paper version 
+       - Toxic Exoposure - unblocked work
+           - [ ] New mocks for timeframe location capture - TBD
+           - [ ] Engineering Discovery - How are fields on the current 526 mapped for conditions on paper form (Section V)  
+       -  New military service questions ?
+          - [ ] Implement new screen/flow changes
+
+- **Other**
+  - Shadow Research
+    - [ ] Shadow Research sessions
+    - [ ] Synthesis? 
+
+- **Stretch Goals**
+  - Engineering
+     - [ ] PCIU Discovery
+  - Design
+     - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
+  - Research
+     - [ ]
+  - Other
+     - [ ] 
+           
 ## Sprint 18
 Period - 11/08/2023 - 11/21/2023
 ### Sprint goals 
@@ -15,19 +49,13 @@ Period - 11/08/2023 - 11/21/2023
         - [ ] Release plan
 - **Features**
    - 526ez sync with paper version 
+       - [ ]  Discovery - Make VAMC fields optional - Backend investigation
        - Toxic Exoposure - unblocked work
-           - [ ] New mocks for timeframe location capture - TBD
            - [ ] Copy updates from research and CAIA feedback
-           - [ ] Unblocked engineering work - if any
-       - [ ]  New military service questions - kick-off collab cycle - TBD
-       - [ ]  Implementation - Make homelessnessContact fields optional
-       - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
-         
 - **Other**
   - Shadow Research
     - [ ] Discussion Guide
     - [ ] Recruitment 
-      
 - **Stretch Goals**
   - Engineering
      - [ ] PCIU Discovery
