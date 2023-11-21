@@ -153,15 +153,9 @@ All participants must be willing to log into their account and share information
    - Yes (Go onto Screener question 5)
    - No (Disqualify)
 ```
-**Screener Q5:** Please provide the email address you use for either Login.gov or ID.me that you use to sign into VA.gov.
-
-{P - is this needed?}
-
-`Open text field. Not required.`
- 
 At least 2 participants must have upcoming appointments at facilities that use the Cerner EHR.
 
-**Screener Q6:** Do you have upcoming appointments at any of the following facilities?
+**Screener Q5:** Do you have upcoming appointments at any of the following facilities?
 - Mann-Grandstaff VA Medical Center in Spokane, Washington
 - Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
 - VA Central Ohio Healthcare System in Columbus, Ohio  
