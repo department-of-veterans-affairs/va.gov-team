@@ -23,11 +23,16 @@ The data between the two systems matches up outside of two entries.  Those two e
 The CRM Team and the GI Bill team source their data from WEAMS.  WEAMS is the system of record for education facilities.  WEAMS does NOT have an API currently available.  An API is on the roadmap but not a priority so there is no definitive date for when it will be available. 
 
 ## Recommendation
+To address the Tasks directly: 
+1) There would be no gap between CRM Manual list and VA.gov.  However, there is no API available to pull the information from VA.gov so using VA.gov would require us building and supporting another component to pull and process data. This is NOT recommended.
+2) If we transitioned, there would be no impact to routing. 
+
 Considerations for recommendation: 
 *  Since both systems (GI Bill and CRM API) source their data from WEAMS, there will be no difference in the data if we used either one.  
 *  The GI Bill does NOT have an API available to pull data from their repository.  There IS a CSV file that would require either a separate manual step or service created to consume that data into our system.
 *  The CRM Team has agreed to create an API endpoint to provide education facilities to us.
 *  WEAMS, the system of record, does NOT have an API available currently.
+
 
 Our recommendation is to use the CRM Team API Endpoint for education facilities.  It is sourced from WEAMS and would reduce the complexity of the backend of AVA which would ease long term maintenance and reduce any possibilities of errors or mismatched data. 
 
