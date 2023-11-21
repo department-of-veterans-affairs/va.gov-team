@@ -14,7 +14,6 @@ _Follow the [best practices for creating feature toggles](https://depo-platform-
 ### Validation
 
 #### Technical Preparation
-
 _Before enabling your feature toggle in production, you'll need to:_
 
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
@@ -23,9 +22,12 @@ _Before enabling your feature toggle in production, you'll need to:_
 - [ ] Mapbox is ready for use (frontend)
 - [ ] Address Validator in Lighthouse is ready for use (backend)
 
+#### Content Preparation
+- [ ] New landing page content has been reviewed for accuracy and approved by stakeholders
+- [ ] The react widget has been added to the landing page
+- [ ] Entry points have been redirected to the landing page
 
 #### Go/No Go meeting on 12/1 at 11:30a ET (8:30a PT)
-
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
 

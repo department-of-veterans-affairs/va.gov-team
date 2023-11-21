@@ -57,9 +57,9 @@ Research Questions
   - MAYBE TRUE - Based on unified check-in generative research results, Veterans will be able to find how to navigate back to the appointment list, but might not notice they can do so without prompting.
 
 ## Methodology
-This research will be conducted as a remote, moderated study and will combine a card sort and usability test. The card sort will use Optimal Workshop and the usability testing will use an accessible CodePen prototype built for mobile devices. 
+This research will be conducted as a remote, moderated study and will combine presenting Veterans with a list of travel reimbursement claim status terms with a usability test. For the status questions, we will use present the terms via slide deck and, for usability testing, we will have the participant use an accessible CodePen prototype built for mobile devices. 
 
-In the card sort, participants will be asked to categorize a list of claim statuses by level of importance and will be asked questions about their interpretation of those terms’ meanings. Participants will then complete specific tasks within the CodePen prototype and will be asked follow-up questions to gain understanding of expectations and satisfaction.
+When reviewing travel reimbursement terms, participants will be asked about their interpretation of each term's meaning and how important they consider this status during the travel reimbursement process. Participants will then complete specific tasks within the CodePen prototype and will be asked follow-up questions to gain understanding of expectations and satisfaction.
 
 Participants will try out a prototype presenting the “Email user flow (successful submission).”
 
@@ -69,16 +69,103 @@ Remote with Zoom
 ### Research Materials
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/conversation-guide.md)
 - [CodePen Prototype](https://codepen.io/team/va-cie/live/bGOmjGe)
-- [Recruitment intake ticket]
 
 ## Recruitment
 Perigean to recruit a total of 18 Veterans in order to get 12 completed sessions, which includes at least 5 completed sessions with Veterans with a cognitive impairment, 3 completed sessions with screen reader users, and 2 completed sessions with screen magnification or zoom users.
 
 All participants must have previously filed a travel reimbursement for a VA appointment (and ideally have had an issue with or confusion around the claim). 
-[Recruitment intake ticket]
 
-### Screener questions
+### Recruitment approach
 
+Perigean will:
+- recruit 18 total participants for a total of at least 12 completed sessions
+- schedule a brief kickoff call to run through the recruitment criteria before recruiting.
+
+### Recruitment criteria
+
+#### Primary criteria
+1. All participants must be able to attend sessions on a mobile device
+2. All participants (or their caregiver) must have filed for travel reimbursement for a VA or community care medical appointment in the last 6 months
+3. At least 12 Veterans with a cognitive disability
+4. At least 5 participants must use assistive technology (3 screen reader users, 2 screen magnification users)
+
+#### Screener questions:
+1. All participants must be able to attend sessions on a mobile device.
+
+2. All participants (or their caregiver) must have filed for travel reimbursement for a VA or community care medical appointment in the last 6 months. (Note: Could be either via paper form, BTSSS portal, or online check-in.)
+
+```
+Screener Q1: Have you or a caregiver attempted to file for travel reimbursement for a VA or community care medical appointment in the last 6 months? (Note: Could be either via paper form, BTSSS portal, or online check-in.)
+
+   - Yes (Go to Screener question 2)
+   - No (Does not meet criteria for this study)
+```
+
+3. At least 12 Veterans with a cognitive disability must have a cognitive disability or impairment
+```
+Screener Q2: Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
+
+   - Yes (Go to Screener question 3)
+   - No (Does not meet criteria for cognitive impairment - Go to Screener question 3)
+```
+
+4. At least 3 participants (completed sessions) must use assistive technology
+```
+Screener Q3: Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone? (We ask this because we want to make sure that our application works for people who rely on these types of technologies.)
+
+   - Yes (Go to Screener question 5)
+   - No (Does not meet criteria for screen reader user - Go to Screener question 4)
+```
+
+```
+Screener Q4: Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet?
+
+   - Yes (Go to Screener question 5)
+   - No (Does not meet criteria for screen magnification/font resizing)
+```
+
+```
+(Only if yes to Q3) Screener Q5: Please list the name of the screen reader technology you intend to use during the session.
+
+- Open text field. Required.
+```
+
+```
+(Only if yes to Q3) Screener Q6:  We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader.
+
+Beginner, Intermediate, Advanced, Expert
+   - Beginner
+   - Intermediate
+   - Advanced
+   - Expert
+```
+
+```
+Screener Q7: Are you willing to use this assistive technology during the session?
+Yes / No - answer should be yes to satisfy criteria for AT user (both screen reader user OR screen magnification user)
+
+   - Yes (Go onto Screener question 8)
+   - No (Does not meet criteria for AT user - both screen reader user OR screen magnification user)
+```
+
+```
+Screener Q8: Are there any additional accommodations we can provide to assist you during the session?
+
+   - Yes 
+   - No
+```
+
+
+#### Secondary criteria:
+- At least 4 participants who are women
+- At least 4 participants who are 55 or older
+- At least 3 participants who live in a rural area
+- At least 2 participants with no degree
+- At least 1 LGBTQ+ Veteran
+- At least 3 Black Veterans
+- At least 2 Latinx Veterans
+- At least 1 Asian Veteran
+- At least 1 Native Veteran
 
 
 
@@ -90,8 +177,7 @@ All participants must have previously filed a travel reimbursement for a VA appo
 ### Prepare
 We would like to request a 15 minute kick-off call with Perigean before recruiting begins.
 
-Availability for a kick-off call:
-- Monday, November 27, 11am EST - 5pm EST
+- Availability for a kick-off call: Monday, November 27, 11am EST - 5pm EST
 
 ### Pilot session
 - Pilot participant email: lee.delarm@agile6.com
@@ -125,7 +211,20 @@ Planned dates of research: **December 4-11, 2023**
   - 11am EST - 7pm EST (no AT sessions)
 
 ## Team Roles
-- Moderator: Christina Gednalske christina.gednalske@adhocteam.us
-- Secondary Moderator: Ben Brasso ben.brasso@agile6.com (Please invite to all sessions)
-- AT support: Angela Fowler angela.fowler@adhocteam.us (Please invite to AT sessions only) 
+- Moderators:
+  - Christina Gednalske christina.gednalske@adhocteam.us
+  - Ben Brasso ben.brasso@agile6.com 
+    
+- Research guide writing and task development
+  - Lead: Christina Gednalske christina.gednalske@adhocteam.us
+  - Ben Brasso ben.brasso@agile6.com
+
+- Participant recruiting & screening: Perigean
+  
+- Project point of contact: Christina Gednalske christina.gednalske@adhocteam.us
+  
+- Notetakers: Perigean
+  
+- AT support: Angela Fowler angela.fowler@adhocteam.us (Please invite to AT sessions only)
+  
 - Observers:

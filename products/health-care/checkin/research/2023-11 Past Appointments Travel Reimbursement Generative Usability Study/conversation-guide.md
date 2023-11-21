@@ -264,7 +264,9 @@ _**Participant is on details page for second appointment**_
 - Where did you expect that link to take you?
   - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
 
-- Thanks. And lastly, taking a moment to review this whole page. Is there anything confusing about this page and the information included here?
+- Thanks. And lastly, taking a moment to review this whole page.
+  - What is most important to you on this page?
+  - Is there anything confusing about this page and the information included here?
   - _If not mentioned:_ What do you think "type of care not noted" means?
 
 ----

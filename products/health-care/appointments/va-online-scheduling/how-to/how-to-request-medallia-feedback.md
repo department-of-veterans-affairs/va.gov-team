@@ -22,7 +22,7 @@ A tool for Veterans to schedule and manage their appointments online
 
 **Survey URL(s), key term(s), case category or type**
 
-All comments under these URLS: 
+All comments under and including these URLS: 
 * [https://www.va.gov/health-care/schedule-view-va-appointments/](https://www.va.gov/health-care/schedule-view-va-appointments/)
 * [https://www.va.gov/my-health/appointments](https://www.va.gov/my-health/appointments)
 
@@ -34,7 +34,29 @@ All in one file, on one tab
 
 [Your VA email address]
 
-### Medallia Feedback Requests - Q3 2023
+### Medallia Feedback Requests - Q4 2023
+
+| Dates                                | Submitted by     | Status       |
+|--------------------------------------|------------------|--------------|
+| Week 40 October 2nd - 8th            | Melissa Lefevre  | ✅ [67104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67104) |
+| Week 41 October 9th - 15th           | Melissa Lefevre  | ✅ [67704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67704)|
+| Week 42 October 16th - 22nd          | Peter Russo      | ✅ [67831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67831) |
+| Week 43 October 23rd - 29th          | Peter Russo      | ✅ [68596](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68596) |
+| Week 44 October 30th - November 5th  | Ciera Maddox     | ✅ [69271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69271)|
+| Week 45 November 6th - 12th          | Ciera Maddox     | ✅ [69893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69893)|
+| Week 46 November 13th - 19th         | Peter Russo      | [70271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70271) |
+| Week 47 November 20th - 26th         | Ciera Maddox     |  |
+| Week 48 November 27th - December 3rd |                  |  |
+| Week 49 December 4th - 10th          |                  |  |
+| Week 50 December 11th - 17th         |                  |  |
+| Week 51 December 18th - 24th         |                  |  |
+| Week 52 December 25th - 31st         |                  |  |
+
+
+### Older requests
+
+<details>
+<summary>2023 Q3 Requests</summary>
 
 | Dates                                | Submitted by     | Status       |
 |--------------------------------------|------------------|--------------|
@@ -48,24 +70,7 @@ All in one file, on one tab
 | Week 37 September 11th - 17th        | Melissa Lefevre  | ✅ [65740](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65740) |
 | Week 38 September 18th - 24th        | Melissa Lefevre  | ✅ [66220](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66220) |
 | Week 39 September 25th - October 1st | Melissa Lefevre  | ✅ [66687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66687) |
-| Week 40 October 2nd - 8th            | Melissa Lefevre  | ✅ [67104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67104) |
-| Week 41 October 9th - 15th           | Melissa Lefevre  | ✅ [67704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67704)|
-| Week 42 October 16th - 22nd          | Peter Russo      | ✅ [67831](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67831) |
-| Week 43 October 23rd - 29th          | Peter Russo      | ✅ [68596](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68596) |
-| Week 44 October 30th - November 5th  | Ciera Maddox     | ✅ [69271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69271)|
-| Week 45 November 6th - 12th          | Ciera Maddox     | ✅ [69893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69893)|
-| Week 46 November 13th - 19th         | Peter Russo      |  |
-| Week 47 November 20th - 26th         | Ciera Maddox     |  |
-| Week 48 November 27th - December 3rd |                  |  |
-| Week 49 December 4th - 10th          |                  |  |
-| Week 50 December 11th - 17th         |                  |  |
-| Week 51 December 18th - 24th         |                  |  |
-| Week 52 December 25th - 31st         |                  |  |
-| Week 53 January 1st - 7th            |                  |  |
-| Week 54 January 8th - 14th           |                  |  |
-| Week 55 January 15th - 21st          |                  |  |
-| Week 56 January 22nd - 28th          |                  |  |
-| Week 57 January 29th - February 4th  |                  |  |
+</details>
 
 ## How to Process Feedback
 

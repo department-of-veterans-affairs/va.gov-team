@@ -479,5 +479,5 @@ This research does not include the perspectives of the following marginalized Ve
 * LQBTQ+ Users
 * AT Users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2023-10-max-CFI-explorations%20/Images/Recruitment%20Checker%20for%20Equality%20-%20Max%20CFI%20Study.png)

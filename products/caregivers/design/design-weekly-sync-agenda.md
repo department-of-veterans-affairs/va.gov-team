@@ -1,5 +1,31 @@
 # Design Weekly Sync Agenda
 
+
+## 2023-11-20
+Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Heather and Alex
+
+EZR issues discussed
+- A need for an alert on the EZR intro page when a Veteran has a status of PendingMT or Pending other, we talked about if this could be in phase 2 and MVP would only be for those who are already fully enrolled.
+- Thought of after the call… should the pendingMT alert on the EZ include a link to the EZR once it goes live?
+- Will work on a draft, but has other implications and talking about v2. We won’t be able to get early content review until next week. 
+
+Hieu - UX issues found during Friday’s research UAT session
+- Review page when you try and edit Medicare Part A yes/no question and click Update Page run into an error - ticket #70261
+    - Kristen notes that it is a Form Library issue, Review Page is heavily controlled by them.
+- Save in progress link button resets yes/no on the Mailing Address page - ticket #70258
+
+Insurance page 
+- Agreed with the arrangement of moving additional info component into main content as short term solution
+- Discussed pattern implications of current and future state with use cases including when prefilled and if that information would still be valuable
+
+EZ Intro page topics
+- Reviewed drafts. 
+- Follow up with forms / design system team on if the heading “What to know… “ is locked in or if we could adjust that.
+- Changed numbered headlines from stepper into h2s utilizing the newer page template
+- Also follow up to see if other teams have template or if there are/will be form templates for intro pages when an authenticated user has interacted with a form previously and/or was approved/denied
+
+Design will schedule a follow up meeting tomorrow on the save in progress pattern issue
+
 ## 2023-11-13
 
 Attendees: Angela, Jessica, Hieu, Katelyn

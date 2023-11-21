@@ -204,6 +204,10 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
    - What do you expect to find there?
    - What do you think the differences are between the main and secondary menus (pointing them out)?
 - Overall, how would you rate the experience of completing various health-related tasks? 1 being very difficult and 5 being very easy, and why? (if they have a hard time recalling, ask them to go back to the prototype and point out where).
+- (_Ask participant to go back to Lab and test results_) Open the section navigation and ask
+     - Then can you go back to the medical records page, and open the section navigation
+     - Now that you have looked at both, can you explain the differences?
+     - How would it have helped if you used it earlier, if at all?
 
 
 ## Thank You and Closing - 1 minute

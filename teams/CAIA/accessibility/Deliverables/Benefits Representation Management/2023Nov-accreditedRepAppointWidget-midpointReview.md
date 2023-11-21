@@ -1,41 +1,31 @@
-# [Midpoint Review CAIA findings]: Accredited Representation Management
+# Pre-Midpoint: CAIA Accessibility A11Y Findings: Accredited Representation Management: Appoint & Widget
 - [Prototype link](https://www.sketch.com/s/a75e9329-dae9-4984-867e-451d6e2fa836) 
 - [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
+- **Related Ticket:** [a11y Support] Accredited Representation Management: Appoint and Widget - Midpoint Review [#70363](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70363)
 
 ## Product team
 - OCTO-DE product owner: Zach Goldfine
 - Product manager: Lindsay Li-Smith
 - Designer: Michael Tri
 
-## Reviewers
+## Auditor
 - Jamie Klenetsky Fay
-- A Procik
-- Katherine Fung
-- (who else?)
 
 ## Findings
 Our recommendations are outlined by screen.
+### Date of Findings
+`11/21/2023`
 
 ### Desktop prototype
 There are recommendations for the desktop prototype.
 
 #### The prototype itself
-- `accessibility` `consideration` We recommend that you use accessibility annotations for things that aren't visible in the prototype: heading levels, associating form fields with their labels, any aria-labels. You can use this [annotation kit](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols). This will help your developers avoid issues down the line.
+- `consideration` We recommend that you use accessibility annotations for things that aren't visible in the prototype: heading levels, headings that are styled differently than their defaults (e.g., an `<H2>` styled as an `<H3>`), `<legend>` field labels for fieldsets (i.e., groups of related radio buttons or checkboxes), any aria-labels. You can use this [annotation kit](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols). This will help your developers avoid issues down the line.
 
 #### The widget itself
-- `accessibility` `must do` In the widget's error state, there's bolded text -  **What you can do** - that needs to be a semantic heading. You can use font-utility classes to style it in exactly the same way, while treating it as a heading:<br>
+- `must do` In the widget's error state, there's bolded text -  **What you can do** - that needs to be a semantic heading. You can use font-utility classes to style it in exactly the same way, while treating it as a heading:<br>
   `<h3 class=“vads-u-font-family—sans vads-u-font-size--md”>What you can do</h3>`
-- `accessibility` `consideration` It looks like you're using a [Card component](https://design.va.gov/components/card) to show the Vet's current representative. But according to the VADS, "A Card should be actionable," and in the widget's non-empty state, there's nothing actionable about it. It's possible that Platform would want you to use the [Featured content component](https://design.va.gov/components/featured-content) instead? I don't recommend changing anything just yet, but something to keep in mind.
-
-#### Landing page
-- `content` `must do` Update to match the content drafted in this Google document (link forthcoming).
-
-#### Introduction page
-- `content` `must do` Update to match the content drafted in this Google document (link forthcoming).
-
-#### Step 1: Representative information
-
-#### Step 2: Claimant information
+- `consideration` It looks like you're using a [Card component](https://design.va.gov/components/card) to show the Vet's current representative. But according to the VADS, "A Card should be actionable," and in the widget's non-empty state, there's nothing actionable about it. It's possible that Platform would want you to use the [Featured content component](https://design.va.gov/components/featured-content) instead? I don't recommend changing anything just yet, but something to keep in mind.
 
 #### Step 3: Your information
 ##### User's existing name, Social Security number, etc.
@@ -66,13 +56,13 @@ There's an [existing implementation](https://staging.va.gov/decision-reviews/sup
 https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/03d2beb2-7cfe-487e-9434-8da8fe9e876a
 
 Follow this pattern, and note:
-- `accessibility` `must do` The "Edit" links need to be accessible to assistive technology users - they need accessible, descriptive names. You can use `aria-label` for this.
-- `accessibility` `must do` You’ll need to manage the focus on the “Successfully updated” message, so it reads out loud to a screen reader user. (They do this in the existing implementation, so follow their lead!)
+-  `must do` The "Edit" links need to be accessible to assistive technology users - they need accessible, descriptive names. You can use `aria-label` for this.
+-  `must do` You’ll need to manage the focus on the “Successfully updated” message, so it reads out loud to a screen reader user. (They do this in the existing implementation, so follow their lead!)
    
 
 #### Step 4: Representative permissions
 ##### Authorization for Record Access
-- `accessibility` `must do` When the user says “No” and that alert comes up, you’ll need to make sure it has focus so that screen reader users actually hear the text in the alert. Make sure that the focus changes AFTER the user leaves the field, not before — a screen reader might cut off the field text otherwise.) You can follow these instructions when implementing. (Special thanks for Sarah Koosman, who came up with this solution in [another review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/templates/Design%20review%20template.md#step-2-sk---set-focus)!)
+- `must do` When the user says “No” and that alert comes up, you’ll need to make sure it has focus so that screen reader users actually hear the text in the alert. Make sure that the focus changes AFTER the user leaves the field, not before — a screen reader might cut off the field text otherwise.) You can follow these instructions when implementing. (Special thanks for Sarah Koosman, who came up with this solution in [another review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/templates/Design%20review%20template.md#step-2-sk---set-focus)!)
     - Add an id to your alert component to make it easier to target with JavaScript, e.g., `<div id="alertComponent" role="alert">Your alert message</div>`
     - Use JavaScript to set focus to the alert component after the user leaves the date input field:
       ```
@@ -87,7 +77,8 @@ This code listens for the "blur" event on the date input field and then sets foc
 
 Make sure to replace `'yourDateInput'` and `'alertComponent'` with the actual IDs or element references for your specific input field and alert component.
 
+
 #### Step 5: Review information
-- `accessibility` `must do` "View full accredited representative policy" should be "Review" or "Read."
-- `accessibility` `must do` The "Edit" buttons must have accessible names - "Edit representative information," for example. You can use `aria-label` for this:<br>
-  `<button type=“button” aria-label=“Edit representative information”>Edit</button>`
+- `must do` "View full accredited representative policy" should be "Review" or "Read."
+- `must do` The "Edit" buttons must have accessible names - "Edit representative information," for example. You can use `aria-label` for this:<br>
+  `<button type='button"'aria-label='Edit representative information'>Edit</button>`

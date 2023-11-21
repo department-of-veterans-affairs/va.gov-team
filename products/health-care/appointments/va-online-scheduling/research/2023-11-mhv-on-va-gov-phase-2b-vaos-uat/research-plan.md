@@ -153,25 +153,19 @@ All participants must be willing to log into their account and share information
    - Yes (Go onto Screener question 5)
    - No (Disqualify)
 ```
-**Screener Q5:** Please provide the email address you use for either Login.gov or ID.me that you use to sign into VA.gov.
-
-`Open text field. Not required.`
- 
 At least 2 participants must have upcoming appointments at facilities that use the Cerner EHR.
 
-**Screener Q6:** Do you have upcoming appointments at any of the following facilities?
-- Mann-Granstaff VA Medical Center in Spokane, Washington
-- Jonathan M. Wainwright Memorial VA Medical Center	in Walla Walla, Washington
+**Screener Q5:** Do you have upcoming appointments at any of the following facilities?
+- Mann-Grandstaff VA Medical Center in Spokane, Washington
+- Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
 - VA Central Ohio Healthcare System in Columbus, Ohio  
 - Roseburg VA Health Care System in Roseburg, Oregon
 - VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
 
 **Secondary criteria:**
 
-5 participants who primarily use a mobile device.
-- Participants must be able to attend sessions on a mobile device.
-
-- At least 4 veterans with a cognitive disabilty
+- At least 4 participants who attend sessions on a mobile device.
+- At least 4 participants with a cognitive disabilty
 - At least 2 Screenreader users
 - At least 2 screen magnification users
 - At least 1 LGBTQ+ Veteran
@@ -189,7 +183,7 @@ Date and time of pilot session: TBD
 
 ### Research sessions
 
-Research sessions will begin on or after Nov.27th, 2023
+Research sessions will begin on or after Nov.30th, 2023
 
 ### Length of sessions
 
@@ -201,6 +195,8 @@ Monday - Friday, 8:00 am - 5:00 pm EST
 
 NOT AVAILABLE:
 - Tuesday, 28 Nov 8:00 am - 2:00 pm EST
+- Wednesday, 29 Nov All Day
+
 
 Please add a 30 minute buffer between sessions.
 

@@ -93,4 +93,11 @@ Current URL | Redirect to | Notes
 <hr>
 
 ## <a name="notes"></a>Meetings notes and background info
+### November 20, 2023
+Connected with PM Tricia Baker to check on rollout timeline as we weren't seeing the above entry points implemented on the site. Tricia's update on this:
 
+`It was rolled out in Production in April, but we have since turned it off because the business line wrote an API to connect the data to it and they didn't want it to go to Central Mail anymore so it will probably stay off for awhile`
+
+URL is currently active so team is checking on this.
+
+[Slack thread](https://dsva.slack.com/archives/C044AGZFG2W/p1700516181169419)
