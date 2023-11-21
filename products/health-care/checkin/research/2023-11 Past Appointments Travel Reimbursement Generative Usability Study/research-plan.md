@@ -86,7 +86,7 @@ Perigean will:
 #### Primary criteria
 1. All participants must be able to attend sessions on a mobile device
 2. All participants (or their caregiver) must have filed for travel reimbursement for a VA or community care medical appointment in the last 6 months
-3. At least 4 participants must have followed up on a travel reimbursement claim status in the past
+3. At least 4 participants (or their caregiver) must have followed up on a travel reimbursement claim status in the past
 4. At least 12 Veterans with a cognitive disability
 5. At least 5 participants must use assistive technology (3 screen reader users, 2 screen magnification users)
 
@@ -102,7 +102,7 @@ Screener Q1: Have you or a caregiver attempted to file for travel reimbursement 
    - No (Does not meet criteria for this study)
 ```
 
-3. At least 4 participants must have followed up on a travel reimbursement claim status in the past
+3. At least 4 participants (or their caregiver) must have followed up on a travel reimbursement claim status in the past
 ```
 Screener Q2: Did you or your caregiver ever have to follow-up with VA or your VA Travel Office about the status of a claim you filed?
 
