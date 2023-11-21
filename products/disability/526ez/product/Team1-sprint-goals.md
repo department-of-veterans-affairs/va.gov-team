@@ -19,7 +19,7 @@ Period - 11/22/2023 - 12/05/2023
            - [ ] Engineering Discovery - How are fields on the current 526 mapped for conditions on paper form (Section V)  
        -  New military service questions 
           - [ ] Discovery for creating implementation tickets
-- **Reserach**
+- **Research**
   - Shadow Research
     - [ ] Shadow Research sessions
 
