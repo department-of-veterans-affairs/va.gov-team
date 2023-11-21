@@ -207,6 +207,7 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_Ask participant to go back to Lab and test results_) Open the section navigation and ask
      - Then can you go back to the medical records page, and open the section navigation
      - Now that you have looked at both, can you explain the differences?
+     - How would it have helped if you used it earlier, if at all?
 
 
 ## Thank You and Closing - 1 minute
