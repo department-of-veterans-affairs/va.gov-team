@@ -170,10 +170,8 @@ At least 2 participants must have upcoming appointments at facilities that use t
 
 **Secondary criteria:**
 
-5 participants who primarily use a mobile device.
-- Participants must be able to attend sessions on a mobile device.
-
-- At least 4 veterans with a cognitive disabilty
+- At least 4 participants who attend sessions on a mobile device.
+- At least 4 participants with a cognitive disabilty
 - At least 2 Screenreader users
 - At least 2 screen magnification users
 - At least 1 LGBTQ+ Veteran
