@@ -1,6 +1,7 @@
-# [Midpoint Review CAIA Accessibility findings]: Accredited Representation Management
+# Pre-Midpoint: CAIA Accessibility A11Y Findings: Accredited Representation Management: Appoint & Widget
 - [Prototype link](https://www.sketch.com/s/a75e9329-dae9-4984-867e-451d6e2fa836) 
 - [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
+- **Related Ticket:** [a11y Support] Accredited Representation Management: Appoint and Widget - Midpoint Review [#70363](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70363)
 
 ## Product team
 - OCTO-DE product owner: Zach Goldfine
@@ -12,6 +13,8 @@
 
 ## Findings
 Our recommendations are outlined by screen.
+### Date of Findings
+`11/21/2023`
 
 ### Desktop prototype
 There are recommendations for the desktop prototype.
