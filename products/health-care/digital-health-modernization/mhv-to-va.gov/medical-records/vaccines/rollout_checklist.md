@@ -1,5 +1,5 @@
 # Vaccines Phase 0 Rollout and Exit Criteria
-Each application moving to VA.gov (e.g., Secure Messaging, Medical Records, Medication,s Appointments) will follow the same process defined below. 
+Each application moving to VA.gov (e.g., Secure Messaging, Medical Records, Medications Appointments) will follow the same process defined below. 
 
 Delineation of phases: [https://dvagov.sharepoint.com/sites/vhaccmhvtovagovcomms/SitePages/timeline.aspx#what-to-expect-in-each-phase-of-a-feature’s-launch](https://dvagov.sharepoint.com/sites/vhaccmhvtovagovcomms/SitePages/timeline.aspx#what-to-expect-in-each-phase-of-a-feature’s-launch)
 
@@ -25,11 +25,9 @@ Application exists on VA.gov in a published, authenticated state, but can only b
 
 For an application to enter rollout Phase 0, the following must be true: 
 
- 
-
 ### Go/No-Go Team 
 
-- [ ] Go-no-go team established 
+- [X] Go-no-go team established 
      
 - [ ] Review established definition of done for MVP 
 
@@ -94,12 +92,11 @@ For an application to enter rollout Phase 0, the following must be true:
 - [ ] Research documented in Github 
 
 
-
 ### Accessibility 
 
 - [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
 
- 
+
 
 ### UX/UI  
 
@@ -121,7 +118,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-- [ ] All pages/components have latest content: 
+- [ ] All pages/components have latest content
 
 - [ ] Unit test coverage is sufficient 
 
@@ -176,7 +173,6 @@ For an application to enter rollout Phase 0, the following must be true:
 
      - RUM code implemented
 
- 
 
 ### Legal & Policy  
 
