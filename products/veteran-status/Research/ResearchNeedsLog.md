@@ -1,5 +1,9 @@
 # Future Research Needs Log 
 
+Have anything to add? Please reach out to Cara Frissell and/or leave your comments with your name in the Comments section below
+
+## Studies / Problems to Learn About
+
 ### Need 1: Use case discovery  --- NOW
 This study will explore how and when veterans want to use proof of veteran status.  It will seek to understand how and when vets use store discounts, what their current process is (when, where, medium, etc) and what their current pain points are.  It will use the critical incident technique to focus on a time when a vet wanted to use a discount at a store but was unable to do so.  
 
@@ -8,3 +12,6 @@ This study would operate under the premise that a user knows that there is a way
 
 ### Need 3: Post-launch follow up tracking? --- LATER? 
 Once we have launched the page, we need a way to monitor how it is being used.  This could include metrics from Google Analytics and/or pop-up feedback surveys.  
+
+
+## Open Comments
