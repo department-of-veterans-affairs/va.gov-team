@@ -7,7 +7,7 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | BGS                  | -                  | 200        | Starts form. <br> Shows Veteran details [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/bc348c63-6670-4a26-bca8-0efd77cdb7b3)
-|                      |                    | Any other  | -
+|                      |                    | Any other  | Cannot start form. <br> -
 
 ## Prefill Veteran Contact Information
 
@@ -16,7 +16,7 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | Vet360               | -                  | 200        | Shows Veteran contact information
-|                      |                    | Any other  | -
+|                      |                    | Any other  | Cannot start form. <br> -
 
 ## Get Contestable Issues
 
