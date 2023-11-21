@@ -4,21 +4,21 @@
 Period - 11/22/2023 - 12/05/2023
 ### Sprint goals 
 - **Expedited**
-   - [ ] Unit tests coverage to 80% for unblocking future code shipment
+   - [ ] EMIS Testing - if unblocked
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
        - PPIU - Direct Debit 
-         - [ ] Canary launch
-      - Benefits Claims Service
+         - [ ] Canary launch?
+      - Benefits Claims Service and Submit?
         - [ ] Update Datadog Dashboard
 - **Features**
    - 526ez sync with paper version 
        - Toxic Exoposure - unblocked work
            - [ ] New mocks for timeframe location capture - TBD
            - [ ] Engineering Discovery - How are fields on the current 526 mapped for conditions on paper form (Section V)  
-       -  New military service questions ?
+       -  New military service questions -** does it make sense to implement it now with where sumbmit is in migration?**
+          - [ ] **Do we need discovery for creating implementation tickets first?**
           - [ ] Implement new screen/flow changes
-
 - **Other**
   - Shadow Research
     - [ ] Shadow Research sessions
@@ -27,6 +27,7 @@ Period - 11/22/2023 - 12/05/2023
 - **Stretch Goals**
   - Engineering
      - [ ] PCIU Discovery
+     - [ ] Unit tests coverage to 80% for unblocking future code shipment
   - Design
      - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
   - Research
