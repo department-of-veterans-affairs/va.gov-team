@@ -102,9 +102,9 @@ This is faster than using the UI mode, and instead of passing a glob pattern, yo
 ### Run all unit tests within the profile.
 
 ``` bash
-yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js*
+yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js* --log-level trace
 ```
-A glob pattern can be substituted for single test file path as well, for when you are doing TDD on a test.
+A glob pattern can be substituted for single test file path as well, for when you are doing TDD on a test. The `--log-level trace` will add detailed trace logs when a tests fails. This can be a lot of noise added to terminal outputs, but can be very useful when trying to figure out exactly why a test fails.
 
 ---
 
