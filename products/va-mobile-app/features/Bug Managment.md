@@ -77,7 +77,8 @@ Steps
    - Once UX Review tickets are done then the original bug ticket is updated with findings and ready for engineering work to be prioritized 
 
 **4.) Product Managers on the Specialized Mobile Team prioritizes their own relevant bug tickets prioritizes their bug tickets as needed**
-- During prioritization PM on Mobile teams will need to coordinate with QA, if QA resources are needed to validate, if QA has capacity to test 
+- During prioritization PM on Mobile teams will need to coordinate with QA, if QA resources are needed to validate, if QA has capacity to test
+- If PM thinks that the ticket should be done by another team then its that PM's responsilibity to have that convo; PM will not go back to QA to reassess owner
 
 **6.) Bug tickets are then worked in the Sprint** 
 
