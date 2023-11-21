@@ -5,8 +5,6 @@ Delineation of phases: [https://dvagov.sharepoint.com/sites/vhaccmhvtovagovcomms
 
 Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1667322271773/26b9a1c19e3d4f1dbcc1dba4e4218a56f0fbb75a?sender=ude85bb253763b7bbdaf46656)
 
-# Secure Messaging Phase 0 Readiness
-
 ### Phase 0 Overview 
 
 Application exists on VA.gov in a published, authenticated state, but can only be found if users know the URL.  
