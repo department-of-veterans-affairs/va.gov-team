@@ -251,8 +251,7 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-*If didn't find the footer link, ASK:* 
-- Is there another way that you could do this task from this web page?
+- *(If didn't use footer)* Is there another way that you could do this task from this web page?
 
 ### Task 7: [Burial]
 Let's say that you're wondering whether you could be buried in a VA cemetery. How would you find out using this web page?  
@@ -274,6 +273,8 @@ Say that after using this website for a while, you didn't get all of your questi
  Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
+
+- *(If didn't use footer link)* Is there another way that you could do this task from this web page?
 
 *RECORD any feedback about the black/white footer area*
 
