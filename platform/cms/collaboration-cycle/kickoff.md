@@ -66,3 +66,6 @@ We ask this question to determine if an Analytics Request touchpoint is necessar
 
 We ask this question to determine if the CMS Help Desk will need to review any CMS Knowledge Base articles.
 
+- If a Knowledge Base article will need to be created or updated, you can use the "[Knowledge Base article - Create or update](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Knowledge+Base%2C+Needs+refining&projects=&template=knowledge-base-article.md&title=Create+new+KB+article+or+update++existing+article+%3A+%3Cinsert+topic+here%3E)" ticket template for your team to make the necessary changes.
+- If a Knowledge Base article will need to be reviewed by the CMS team, you can use the "[Knowledge Base article - Review](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Knowledge+Base%2C+Needs+refining&projects=&template=knowledge-base-article-review.md&title=Review+of+new+or+updated+KB+article+%3A+%3Cinsert+topic+here%3E)" ticket template for the CMS team to review your article before publishing to the Knowledge Base.
+
