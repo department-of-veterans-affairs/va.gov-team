@@ -20,7 +20,7 @@ Our recommendations are outlined by screen.
 There are recommendations for the desktop prototype.
 
 #### The prototype itself
-- `consideration` We recommend that you use accessibility annotations for things that aren't visible in the prototype: heading levels, associating form fields with their labels, any aria-labels. You can use this [annotation kit](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols). This will help your developers avoid issues down the line.
+- `consideration` We recommend that you use accessibility annotations for things that aren't visible in the prototype: heading levels, headings that are styled differently than their defaults (e.g., an `<H2>` styled as an `<H3>`), `<legend>` field labels for fieldsets (i.e., groups of related radio buttons or checkboxes), any aria-labels. You can use this [annotation kit](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols). This will help your developers avoid issues down the line.
 
 #### The widget itself
 - `must do` In the widget's error state, there's bolded text -  **What you can do** - that needs to be a semantic heading. You can use font-utility classes to style it in exactly the same way, while treating it as a heading:<br>
