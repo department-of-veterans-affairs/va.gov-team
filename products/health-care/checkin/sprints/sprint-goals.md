@@ -104,7 +104,7 @@ ________________________________________________________________________________
         - [No longer happening according to Kay](https://dsva.slack.com/archives/C022AC2STBM/p1700502335638729?thread_ts=1698076388.436609&cid=C022AC2STBM)
 - **GOAL: [Measure Time to Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68240)**
     - ✔️ ❗ 🟩 [[FE] Send context data during check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68165)
-    - ❗ 🟦 [[FE][CHIP] Integrate data into datadog metrics and dashboards for release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70002) 
+    - ✔️ ❗ 🟦 [[FE][CHIP] Integrate data into datadog metrics and dashboards for release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70002) 
     - ✔️ ❗ 🟦 [[BE] - Pass contextual data to CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68166)
 - **GOAL: [Support CERNER Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68271)**
     - **Sub Goal: [Get Demographics Data from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69812)**
