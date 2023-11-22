@@ -44,6 +44,7 @@ Yeah, sleep apenea and tinitus
 > Whenever I need to be contacted, they can send a message to my email and I can respond back to them. 
 
 - How would you expect to update your information online? What specific steps would you take?
+  > Yeah, I mainly deal with MHV. Sometimes when you call in, transfer here or there, work all day to contact them over the phone, but I can shoot them an email or whatever and get back to them at my earliest convenience. 
 
 ### Things to watch for:
 
@@ -58,6 +59,9 @@ Yeah, sleep apenea and tinitus
 - Please be sure to close any personal information, like email, Facebook, etc., before you share your screen.
 - [Share link to (https://staging.va.gov/health-care/update-health-information-1/) in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
+
+> 
+
 
 **Participant questions** 
 - How would you want to normally navigate to this page?
