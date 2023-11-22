@@ -37,13 +37,16 @@ Being able to get to something directly is good too. Because I would go to My He
 
 **Team/Researcher:** Authenticated experience, Liz Lantz
 
-**Date:** March 2023
+**Date:** January - April 2023
 
-**Link to study:** [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
+**Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/)
 
-**Takeaway:** The process of requesting travel reimbursement is a pain point. ([finding detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#the-process-of-requesting-travel-reimbursement-is-a-pain-point)
+**Takeaway:** This was a multi-method research study that included evaluating analytics, qualitative data, and user interviews.  Travel pay issues came up all areas.
+- [A review of qualitiative data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/qualitative-data-findings.md#what-do-people-have-trouble-finding-on-vagov) revealed that travel pay came up most frequently in comments related to not being able to find things on VA.gov
+- [Analytics showed keywords related to travel pay among top keywords](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/analytics-review-findings.md), suggesting people are having a hard time navigating to this information on the website.
+- The user interviews revealted the process of requesting travel reimbursement is a pain point. ([finding detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md#the-process-of-requesting-travel-reimbursement-is-a-pain-point)
 
->One thing that I’ve always told him that he needs to tell you when he’s doing one of these surveys [research studies] is about entering in for Travel benefits. It’s starting to get better but for the past year, it’s been unbelievable. And I mean, you really have to be a computer wiz to upload a travel letter. He says he goes to a provider outside of the VA, and he does for his back. But trying to get that letter, that he went to the appt, upload it so he can get travel benefits for it, is almost impossible. - P1 caregiver
+  >One thing that I’ve always told him that he needs to tell you when he’s doing one of these surveys [research studies] is about entering in for Travel benefits. It’s starting to get better but for the past year, it’s been unbelievable. And I mean, you really have to be a computer wiz to upload a travel letter. He says he goes to a provider outside of the VA, and he does for his back. But trying to get that letter, that he went to the appt, upload it so he can get travel benefits for it, is almost impossible. - P1 caregiver
 
 >I couldn’t do it [submit travel reimbursement without help]. You’ve got to go around the page so much. I have to have it big enough that I lose it. - P1, who has low vision and relies on magnification software to use computers
 
