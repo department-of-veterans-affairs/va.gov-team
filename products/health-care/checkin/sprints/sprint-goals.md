@@ -91,7 +91,7 @@ ________________________________________________________________________________
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
-- ✔️ ❗ 🟩 [Roll Out on 11/15 at 5 pm ET to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
+- ✔️❗ 🟩 [Roll Out on 11/15 at 5 pm ET to All of VISN 15](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69808)
 - ~❗ 🟩 [Roll Out on 11/28 to 6 VISNs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69769)~
 
 #### SPRINT TICKETS
@@ -117,13 +117,13 @@ ________________________________________________________________________________
        - ✔️ ❗🟥 [[Content] [Design] Update content in Review page wireframe to coincide of eCheck-in production userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69713)
        - ~❗🟩 [[FE]Create Review Page in eCheck-in flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68085)~
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-      - 🟥 Waiting for feedback from CAIA (TBD) (to finish up CodePen, identify participant research dates, submit research plan to Shane Strassberg, and submit CAIA ticket for research a11y support)
-      - 🟥 [[Design] Create wireframe for when Veteran selects direct link after 30 days](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68923)
-      - 🟥 [[Content] Create Content for when Veteran selects direct link after 30 days](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69879)
+      - ✔️ 🟥 Waiting for feedback from CAIA (TBD) (to finish up CodePen, identify participant research dates, submit research plan to Shane Strassberg, and submit CAIA ticket for research a11y support)
+      - ✔️ 🟥 [[Design] Create wireframe for when Veteran selects direct link after 30 days](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68923)
+      - ✔️ 🟥 [[Content] Create Content for when Veteran selects direct link after 30 days](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69879)
 - **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-            - ~🟦 [[BE] Implement ClaimsToken class #68824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68824)~
+            - ~ 🟦 [[BE] Implement ClaimsToken class #68824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68824)~
             - 🟦 [[BE] Create Client Class, Configuration methods #68684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68684)
             - 🟦 [[BE] Add token method to Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68685)
             - 🟦 [[BE] Implement Service class, add token method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68695)
@@ -134,7 +134,7 @@ ________________________________________________________________________________
             - ✔️ 🟩 [[FE] Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)
             - ✔️ 🟥 [[Design] Update Wireframes to New Day-of-Week Order in Appointments List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69902)
         - **EPIC: [Unified Check-in: Design & Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924)**           
-            - 🟥 [[UX][Design] Align inline annotations to correct components on artboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67723)
+            - ✔️ 🟥 [[UX][Design] Align inline annotations to correct components on artboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67723)
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - ✔️ 🟥 Let VeText know that they have some work to do (also call out Kay & Stephen) (need to complete this [ticket](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699) first)
     - **Sub Goal: Handle Missing Appointment Information**
@@ -150,7 +150,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
          - 🟥 [[Design] Switch headings and body and icons to v3 in Unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69831)
          - 🟥 [[Design] Switch headings and body and icons to v3 in Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69832)
-         - 🟥 [[UX][Design] DS v3 #3: Update slim alerts to v3 in Production pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64829)
+         - ✔️ 🟥 [[UX][Design] DS v3 #3: Update slim alerts to v3 in Production pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64829)
          - 🟥 [[Design] Switch to button pairs for v3 to Yes and No buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69841)
 
 __________________________________________________________________________________________________________________________________________________________
