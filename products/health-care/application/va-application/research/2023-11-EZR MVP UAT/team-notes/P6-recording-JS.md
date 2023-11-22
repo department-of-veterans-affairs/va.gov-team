@@ -98,14 +98,23 @@ Yeah, sleep apenea and tinitus
 > (sign in process via MHV)
 > My username and password is already prepopulated then they send me a text message of a code to my phone.
 > In the past had a few times had to contact them because I had to switch phones, my telphone number of file.
-> 
+> (troubles signing in and getting to intro page)
+
+(** USES staging via moderator)
+
+> Well, okay, as we mentioned before on the other page, this gives you basic information on how to update your VA health benefits, your financial information, spouse, income,
+> And keep your information updated and secondary insurance or whatever, to notate that.
+> I would read over it first, before I get started. that I am in the right place, doing the right thing.
 
 **Participant questions** 
 - Please summarize the most important information you found on the page to prepare for the form.
   >
-  >
+  
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
+  > It would be a 5 also
+  > User friendly
 - Do you have any suggestions or feedback for making the page and update process better?
+  > Nah
 
 ### Things to watch for:
 
@@ -117,6 +126,44 @@ Yeah, sleep apenea and tinitus
 
 - For this next task, we are going to have you go through the form as if you were prompted to update your information. This is a special beta version of the form, accessible via the email you provided before its official release. Please be careful not to submit unless you intend to update your health benefits information for real.
 - As you go through the form, could you please talk aloud about what you would need to do as you go.
+
+> Okay, First thing you want to do is verify the information; your name is spelled correctly. Your SSN and DOB and gender all correct.
+> Okay, yeah, if you live on a base, you click on that.
+> If not you just put in your actual address and click on yes or no if it is the same as your mailing address.
+> And if something came up and you could click on finish the form later, if not you could click continue.
+> If you have any apartment numbers or what not that would go in address line 2. 
+> you want to make sure if there is anything you need to add you can put that information in there
+
+-- Household information 
+
+> Then you have your marital status and select that and click continue.
+> Never married
+> If you have any dependents, my kid is older they don't live with me so I would put no
+> And then your gross and your income, I guess if you refer back to your previous taxes or whatever.
+> I can pretty much figure out what I make, so I can put that on there
+> On my computer at work I can go in there and it tells me what I make bi-weekly and annualy.
+> And then if you own a farm or property or business, but here put zero.
+> If you have child support income or something like that you put that, but zero.
+> I have a question what they consider non-reimubrsable medical expenses so you need to click that arrow right there
+> (reading info in additional info component)
+> That might help you on your eligibility, it increases what you can make
+> There is that dreaded student loan type of thing, zero in this case. I have finished but it is payback time now, yeah.
+> If you have funeral or burial expenses, but in this case put zero.
+
+- Insurance.
+  > See if you are eligible for Medicaid, it would be no
+  > And it would be Medicair part a for hospital, part b would be medical, but it would be no
+  > And if you have any other health coverage to add, put no and click continue.
+
+- Review page
+  > You have your information, your household information and your insurance information.
+  > Click on each segment, and verify everything is correct. You can edit it, if fine, go on to agreement.
+  > You have to confirm, click on that box. You have to read that, that is what the call the fine print (Agreement text, forced to pay a fine)
+  > Make sure you are submitting correct information. 
+
+- Error message in staging
+  > You might want to go back and double check your information and make sure everything is selected properly.
+  > 
 
 **Participant questions** 
 - What are your expectations regarding the prefilling feature?
@@ -131,9 +178,11 @@ Yeah, sleep apenea and tinitus
 ## Post-Task Interview - 2 minutes
 
 - Is there anything else you would like to add about what we talked about today?
+  > Issue with old address, recently got it corrected. The last check sent to the proper address. 
 - Any questions for me? 
 
 ## Consent to use video clips
 
 - I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+     > That is fine
