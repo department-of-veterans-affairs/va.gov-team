@@ -1,10 +1,10 @@
 # Personal Health Care Contacts Research - Topline Summary
 11/22/23
-Jonathan Nelson, VA.gov Cartography team and Liz Lantz, VA.gov Authenticated Experience, Profile
+Jonathan Nelson, VA.gov Cartography team - Liz Lantz, VA.gov Authenticated Experience, Profile
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/conversation-guide.md)
-- [Interview transcripts](va.gov-team/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/session-notes)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/discovery-research/2023-10-personal-health-care-contacts-usability/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/discovery-research/2023-10-personal-health-care-contacts-usability/conversation-guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts/discovery-research/2023-10-personal-health-care-contacts-usability/session-notes)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
