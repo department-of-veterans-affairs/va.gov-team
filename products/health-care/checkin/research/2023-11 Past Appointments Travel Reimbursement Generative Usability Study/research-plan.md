@@ -86,8 +86,9 @@ Perigean will:
 #### Primary criteria
 1. All participants must be able to attend sessions on a mobile device
 2. All participants (or their caregiver) must have filed for travel reimbursement for a VA or community care medical appointment in the last 6 months
-3. At least 12 Veterans with a cognitive disability
-4. At least 5 participants must use assistive technology (3 screen reader users, 2 screen magnification users)
+3. At least 4 participants (or their caregiver) must have followed up on a travel reimbursement claim status in the past
+4. At least 12 Veterans with a cognitive disability
+5. At least 5 participants must use assistive technology (3 screen reader users, 2 screen magnification users)
 
 #### Screener questions:
 1. All participants must be able to attend sessions on a mobile device.
@@ -101,37 +102,45 @@ Screener Q1: Have you or a caregiver attempted to file for travel reimbursement 
    - No (Does not meet criteria for this study)
 ```
 
-3. At least 12 Veterans with a cognitive disability must have a cognitive disability or impairment
+3. At least 4 participants (or their caregiver) must have followed up on a travel reimbursement claim status in the past
 ```
-Screener Q2: Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
+Screener Q2: Did you or your caregiver ever have to follow-up with VA or your VA Travel Office about the status of a claim you filed?
 
-   - Yes (Go to Screener question 3)
-   - No (Does not meet criteria for cognitive impairment - Go to Screener question 3)
-```
-
-4. At least 3 participants (completed sessions) must use assistive technology
-```
-Screener Q3: Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone? (We ask this because we want to make sure that our application works for people who rely on these types of technologies.)
-
-   - Yes (Go to Screener question 5)
-   - No (Does not meet criteria for screen reader user - Go to Screener question 4)
+   - Yes (Meets criteria for having followed up on a travel reimbursement claim status - Go to Screener question 3)
+   - No (Does not meet criteria for having followed up on a travel reimbursement claim status - Go to Screener question 3)
 ```
 
+4. At least 12 Veterans with a cognitive disability must have a cognitive disability or impairment
 ```
-Screener Q4: Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet?
+Screener Q3: Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
 
-   - Yes (Go to Screener question 5)
+   - Yes (Go to Screener question 4)
+   - No (Does not meet criteria for cognitive impairment - Go to Screener question 4)
+```
+
+5. At least 3 participants (completed sessions) must use assistive technology
+```
+Screener Q4: Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone? (We ask this because we want to make sure that our application works for people who rely on these types of technologies.)
+
+   - Yes (Go to Screener question 6)
+   - No (Does not meet criteria for screen reader user - Go to Screener question 5)
+```
+
+```
+Screener Q5: Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet?
+
+   - Yes (Go to Screener question 6)
    - No (Does not meet criteria for screen magnification/font resizing)
 ```
 
 ```
-(Only if yes to Q3) Screener Q5: Please list the name of the screen reader technology you intend to use during the session.
+(Only if yes to Q4) Screener Q6: Please list the name of the screen reader technology you intend to use during the session.
 
 - Open text field. Required.
 ```
 
 ```
-(Only if yes to Q3) Screener Q6:  We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader.
+(Only if yes to Q4) Screener Q7:  We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader.
 
 Beginner, Intermediate, Advanced, Expert
    - Beginner
@@ -141,15 +150,15 @@ Beginner, Intermediate, Advanced, Expert
 ```
 
 ```
-Screener Q7: Are you willing to use this assistive technology during the session?
+Screener Q8: Are you willing to use this assistive technology during the session?
 Yes / No - answer should be yes to satisfy criteria for AT user (both screen reader user OR screen magnification user)
 
-   - Yes (Go onto Screener question 8)
+   - Yes (Go onto Screener question 9)
    - No (Does not meet criteria for AT user - both screen reader user OR screen magnification user)
 ```
 
 ```
-Screener Q8: Are there any additional accommodations we can provide to assist you during the session?
+Screener Q9: Are there any additional accommodations we can provide to assist you during the session?
 
    - Yes 
    - No

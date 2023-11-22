@@ -13,7 +13,7 @@ The team building on the CMS is responsible for providing all relevant and up-to
 # Questions about your product or feature:
 If you need more information about how to answer some of the questions that are asked in the kickoff ticket, you can find that below. These questions help us determine which practice areas to involve on the CMS team and which touchpoints that we recommend to your team.
 
-## Are you doing user research with CMS editors?
+## Will you be doing user research with CMS editors?
 
 We ask this question to determine if a research review touchpoint is necessary.
 
@@ -56,7 +56,8 @@ Any new modules or changes to existing modules will need to be reviewed and appr
 If your CMS work might result in content data changing, you must ensure that all front ends that use that data are also changed.
 
 
-## Do you need to capture any analytics or metrics?
+## Will this work require you to capture any analytics or metrics?
+
 
 We ask this question to determine if an Analytics Request touchpoint is necessary.
 
@@ -65,4 +66,7 @@ We ask this question to determine if an Analytics Request touchpoint is necessar
 ## Will this work require creating/editing any CMS Knowledge Base articles?
 
 We ask this question to determine if the CMS Help Desk will need to review any CMS Knowledge Base articles.
+
+- If a Knowledge Base article will need to be created or updated, you can use the "[Knowledge Base article - Create or update](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Knowledge+Base%2C+Needs+refining&projects=&template=knowledge-base-article.md&title=Create+new+KB+article+or+update++existing+article+%3A+%3Cinsert+topic+here%3E)" ticket template for your team to make the necessary changes.
+- If a Knowledge Base article will need to be reviewed by the CMS team, you can use the "[Knowledge Base article - Review](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Knowledge+Base%2C+Needs+refining&projects=&template=knowledge-base-article-review.md&title=Review+of+new+or+updated+KB+article+%3A+%3Cinsert+topic+here%3E)" ticket template for the CMS team to review your article before publishing to the Knowledge Base.
 
