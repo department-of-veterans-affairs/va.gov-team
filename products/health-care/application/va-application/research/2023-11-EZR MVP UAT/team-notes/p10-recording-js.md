@@ -117,8 +117,42 @@ Let’s start with a few warm-up questions.
 > just shows your personal information shows you which if you need to update, if you want to call or just continue updating information.
 > It just give you your personal information. I guess you can verify it if you need to.
 
-> shows your email and address same thing. Just verify it.
+> verify phone number verify email, same thing, good change. Just change it.
+> That's not gonna change too often.
+> just type it in
 
+-- Household section -- 
+
+> Change marital status if you need to. 
+
+> Update your household finanical information, adding a dependent if you have one.
+> Click yes and contintue
+> (clear to who is a dependnet) Yes, I already know. I guess you could click who we consider and see. Yes, that is what I expected.
+
+> (provided depenent info to use verbally, no issues, make up SSN)
+> Or when did they become my dependent the date of birth, right?
+> But see that is not clear to me, they are my dependent when they are born, but don't become a dependent for VA purposes for 30% or more.
+> You can't add anybody unltil you're 30% or higher.
+> Maybe call somebody, or keep looking around. 
+
+- income / deductibles page
+- Uses fake info
+>  anything that stands out to you. Income, let's just say 300,000. Why not.
+> And income from farm property business, none of income, no
+
+- Aware of non-deductible medical expenses from personal experience
+> My own college or vocational educational, $5,000
+> No funeral burial expenses.
+
+- Insurance section
+  > Yeah, when when you're 100%, you are eligible for Medicare.
+  > So yes. you don't have to apply for it. But you are eligible to apply for a form of it.
+  > I got a notice saying I was eligible. That's all I know.
+  > Okay, yeah, I'm not familiar. I just know. I got a notice saying I could. I was eligible for either one of those. I don't know which one it was. and but I haven't looked into it, so I'll just say no, just to keep going, cause I don't. I don't know.
+> Okay, you'd say no, because you don't need it. Everything is covered. So I would need you. Don't need supplemental insurance.
+> You don't need additional health insurance.
+> I don't quite understand why, but I don't have any additional insurance.
+> maybe later I don't know. But right now I don't. (becuase at 100%)
 
 
 **Participant questions** 
@@ -134,9 +168,14 @@ Let’s start with a few warm-up questions.
 ## Post-Task Interview - 2 minutes
 
 - Is there anything else you would like to add about what we talked about today?
+  > Not really. It's pretty straightforward. I mean, you could call. You could do it in person. You could use the form. I think older veterans would prefer to do it in person. I don't like the phone.
+  > I prefer chatting. Or if if that's the option or  emailing, or you know, using this process to just update it.
+- human connection when doing it online 
+
 - Any questions for me? 
 
 ## Consent to use video clips
 
 - I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+> yes. I would have never so if I, if I had logged in all of my personal information, would have come up. I would have never been comfortable with that.
