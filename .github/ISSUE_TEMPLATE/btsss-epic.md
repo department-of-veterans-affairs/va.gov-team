@@ -2,7 +2,7 @@
 name: BTSSS Team Epic Template
 about: For BTSSS on VA.gov epics
 title: "[Epic]"
-labels: epic, beneficiary-travel 
+labels: epic,beneficiary-travel 
 assignees: ''
 
 
