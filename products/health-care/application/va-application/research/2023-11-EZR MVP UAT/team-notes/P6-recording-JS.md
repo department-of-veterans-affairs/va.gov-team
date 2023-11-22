@@ -60,14 +60,28 @@ Yeah, sleep apenea and tinitus
 - [Share link to (https://staging.va.gov/health-care/update-health-information-1/) in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
+> This gives information how to sign in to update your VA health benefits information.
+> Such as eligibility if you want to know, or add a dependent or whatever. (reading through side-nav as options to do first)
+> As I can see there are 7 different ways to sign in, I prefer to do MHV. They say my username and password save to my computer.
+> Used others before and not as user friendly, have to add characters and whatever. Can't remember your login information.
+> But dealing with your health information, not want to take lightly. That's why I use MHV, straigt forward.
+> As I see there are 4 different options to update; you can do it online like we just talked about.
+> Or speak to an agent and sign up that way, or request a VA from 10-10EZR and download and send it back, or when you go in person, you can go in and speak to one of the reps there and sign up that way.
+> I would prefer to do it online, personally.
+> I normally just stick to the information up top.
+> Not all people are computer savvy, they might need help (older Veterans) there is a spot you can work with enrollment specialists to get help.
 > 
-
 
 **Participant questions** 
 - How would you want to normally navigate to this page?
 - Did you have any questions about the information listed?
-- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
+- No, pretty straight forward. Health insurance is all something we have to do yearly, if you've done it once you can do it again.
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin?
+> 5
+  - Why did you give it that rating?
+    > It's user friendly its straightforward and detailed and gives you all the information you need 
 - Do you have any suggestions or feedback for making the page and update process better?
+  > what I like about it, if you have any question or whatever, it is highlighted on how to use the form, what you need, where to go
 
 ### Things to watch for:
 
@@ -81,8 +95,15 @@ Yeah, sleep apenea and tinitus
 - [Share link to (https://VA.gov/my-health/update-benefits-information-form-10-10ezr) in Zoom chat]
 - You arrived at this page. Please take a few minutes to review this page and explain what the content on this page means to you and then what you would do next.
 
+> (sign in process via MHV)
+> My username and password is already prepopulated then they send me a text message of a code to my phone.
+> In the past had a few times had to contact them because I had to switch phones, my telphone number of file.
+> 
+
 **Participant questions** 
 - Please summarize the most important information you found on the page to prepare for the form.
+  >
+  >
 - On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this page make you feel about the form you are about to begin? - Why did you give it that rating?
 - Do you have any suggestions or feedback for making the page and update process better?
 
