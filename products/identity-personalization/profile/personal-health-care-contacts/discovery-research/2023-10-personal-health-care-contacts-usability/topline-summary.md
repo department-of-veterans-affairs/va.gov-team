@@ -1,8 +1,6 @@
-(WIP)
-
 # Personal Health Care Contacts Research - Topline Summary
 11/22/23
-Jonathan Nelson, VA.gov Cartography team - Liz Lantz, VA.gov Authenticated Experience, Profile
+Jonathan Nelson, VA.gov Cartography team
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/discovery-research/2023-10-personal-health-care-contacts-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/discovery-research/2023-10-personal-health-care-contacts-usability/conversation-guide.md)
@@ -23,13 +21,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 Note: We'll double check the exact numbers for each of these findings during final synthesis
 
 ### Most participants looked for _Medical emergency contact_ and _Next of kin contact_ in their profile
-- The majortity of these participants talked about their profile on VA.gov
+- The majority of these participants talked about their profile on VA.gov
 - A couple mentioned their My HealtheVet profile
 
 ### Participants expected or wanted a way to edit or add both _Medical emergency contact_ and _Next of kin contact_ information on the _Personal health care contacts_ page. 
 - All 9 participants expected or wanted this functionality 
 
-### Most participants wanted at least two _Medical emergency contacts.
+### Most participants wanted at least two _Medical emergency contacts_.
 - Participants wanted multiple contacts listed in case the primary contact was not available.
 
 ### Most participants wanted at least two _Next of kin_ listed.
@@ -38,7 +36,7 @@ Note: We'll double check the exact numbers for each of these findings during fin
 ### Most participants wanted functionally to prioritize multiple _Medical emergency contacts_ and _Next of kin_ contacts. 
 
 ### (Most) Participants wanted "relationship" listed as well as "Home and Mobile" phone numbers. 
-- People specifcally talked about the importances of adding these data points so the VA would have more context when reaching out to the person.
+- People specifically talked about the importance of adding these data points so the VA would have more context when reaching out to the person.
 - One participant brought up the importance of labeling a home phone so that no one would accidentally try to send a text message to that number.
 
 ### It was clear to participants that both _Medical Emergency contact_ and _Next of kin contact_ are related only to health care. 
