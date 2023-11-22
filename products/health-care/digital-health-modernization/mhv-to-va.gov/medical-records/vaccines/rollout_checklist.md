@@ -64,7 +64,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Support staff trained
 
-- [ ] Process for handling technical / customer support issues exists 
+- [X] Process for handling technical / customer support issues exists 
 
  
 
