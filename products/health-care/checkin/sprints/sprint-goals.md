@@ -6,15 +6,15 @@ ________________________________________________________________________________
 ## 11/29/2023 - 12/12/2023  ---------- FUTURE / TENTATIVE --------------
 #### SPRINT GOALS
  - **GOAL: Ongoing Production Support**
- - **GOAL: Phased Roll Out of Travel & 45-Minute Features**
  - **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Phased Roll Out of Travel & 45-Minute Features**
     - **Sub Goal: Add Travel Claim Terms of Agreement**
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase usage of Pre-Check-in & Check-in**
-     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
-     - **Sub Goal: Explain to the Veteran why we Keep Asking them to Verify their Information**
+     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address tech & design debt**
+     - **Sub Goal: Remove Logging for Certain 40x Errors**
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
@@ -23,13 +23,13 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**     
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680) 
- - **GOAL: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
-    - ❗ 🟩 [Roll Out on 12/4 to ALL VISNs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)    
+    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
+       - ❗ 🟩 [Roll Out on 12/4 to ALL VISNs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)     
     - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ❗ 🟩 [[FE]Create Review Page in eCheck-in flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68085)
-       - 🟥 [[UX][Analytics] Add widget in GA Dashboard to pull in button and link selects on Review Page]()
+       - ❗ 🟥 [[UX][Analytics] Add widget in GA Dashboard to pull in button and link selects on Review Page]()
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - 🟥 Waiting for content feedback from CAIA
       - 🟥 [[Research]Conduct Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65416)
