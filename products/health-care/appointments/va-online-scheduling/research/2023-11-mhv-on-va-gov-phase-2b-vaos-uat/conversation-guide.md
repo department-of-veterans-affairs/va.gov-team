@@ -17,7 +17,7 @@
 
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
+- Check your screensharing setup and share permissions for participants.
 - When the participant is ready, begin the session with the following intro:
 
 ## Introduction (5 minutes)
