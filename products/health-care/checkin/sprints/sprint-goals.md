@@ -120,11 +120,13 @@ ________________________________________________________________________________
 - **GOAL: Increase usage of Pre-Check-in & Check-in**         
     - **Sub Goal: Unify the Pre-Check-in & Check-in experiences to decrease confusion**
         - **EPIC: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-            - 🟦 [[BE] Implement ClaimsToken class #68824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68824)
+            - ~🟦 [[BE] Implement ClaimsToken class #68824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68824)~
             - 🟦 [[BE] Create Client Class, Configuration methods #68684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68684)
-            - 🟦 [[BE] Add token method to client class #68685](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68685)
+            - 🟦 [[BE] Add token method to Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68685)
             - 🟦 [[BE] Implement Service class, add token method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68695)
             - 🟩 [[FE] Change Workflow to Go from Questions to Completion Page #688650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68865)
+            - 🟩 [[FE] Fix details links on landing page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70311)
+                - Added halfway through sprint
             - ✔️ 🟩 [Make Alerts Dismissible per Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68866)
             - ✔️ 🟩 [[FE] Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)
             - ✔️ 🟥 [[Design] Update Wireframes to New Day-of-Week Order in Appointments List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69902)
