@@ -1,6 +1,6 @@
 # Engineering Strategy for Phase 1 of Ask VA on va.gov
 
-Phase 1 of the Ask VA redesign is limited to bringing up the front end of the AVA application to va.gov design and accessibility standards hosted on va.gov. The existing Ask VA application will continue to live in Microsoft Dynamics, but the existing front-end (the Microsoft Dynamics portal) will no longer be used. The current portal will be deprecated within x months of deploying the new design. It will serve as a fallback if needed.
+Phase 1 of the Ask VA redesign is limited to bringing up the front end of the AVA application to VA.gov design and accessibility standards hosted on VA.gov. The existing Ask VA application will continue to live in Microsoft Dynamics, but the existing front-end (the Microsoft Dynamics portal) will no longer be used. The current portal will be deprecated within x months of deploying the new design. It will serve as a fallback if needed.
 
 ## The Problem: Where Do We Get Our Data?
 
