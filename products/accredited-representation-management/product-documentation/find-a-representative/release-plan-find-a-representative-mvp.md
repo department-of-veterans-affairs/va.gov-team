@@ -92,7 +92,6 @@ The following metrics will be considered before advancing rollout to the next st
 5. % of searches that do not return results 
 6. Errors in Sentry
 7. Errors in DataDog
-8. _Contact Center calls < 5% of total searches :question:_
 
 
 ### Stage A Results
@@ -104,7 +103,6 @@ The following metrics will be considered before advancing rollout to the next st
 - % of searches that do not return results:
 - Errors logged in Sentry:
 - Errors logged in DataDog:
-- _Contact Center calls: :question:_
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 ***
@@ -124,7 +122,8 @@ _Continue to check in on the KPIs of your feature at periodic intervals to ensur
 - % of searches that do not return results:
 - Errors logged in Sentry:
 - Errors logged in DataDog:
-- _Contact Center calls: :question:_
+- Contact Center calls:
+- Feedback survey submmissions:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
@@ -137,7 +136,8 @@ _Continue to check in on the KPIs of your feature at periodic intervals to ensur
 - % of searches that do not return results:
 - Errors logged in Sentry:
 - Errors logged in DataDog:
-- _Contact Center calls: :question:_
+- Contact Center calls:
+- Feedback survey submmissions:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
