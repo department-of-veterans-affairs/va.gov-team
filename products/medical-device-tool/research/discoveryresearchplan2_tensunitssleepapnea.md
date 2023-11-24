@@ -1,4 +1,4 @@
-# Research Plan for [Supply Reordering,Health Portfolio, December 2023]
+# Research Plan for Supply Reordering,Health Portfolio, December 2023
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
