@@ -285,7 +285,7 @@ Say that after using this website for a while, you didn't get all of your questi
 
 1. What do you think this page is for or about?
 1. What stands out to you on this page that indicates this is an official government website?
-    - *(More prompts if needed...)* to gather feedback on USA logo, VA Seal
+    - *(More prompts if needed...)* 
     - Can you tell me about the very top of this page? *(USA Government)*
     - Can you talk about what's below that? *(VA seal and dept. name)*
     - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
