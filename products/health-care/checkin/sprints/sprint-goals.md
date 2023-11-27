@@ -154,7 +154,7 @@ ________________________________________________________________________________
          - 🟥 [[Design] Switch headings and body and icons to v3 in Unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69831)
          - 🟥 [[Design] Switch headings and body and icons to v3 in Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69832)
          - ✔️ 🟥 [[UX][Design] DS v3 #3: Update slim alerts to v3 in Production pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64829)
-         - 🟥 [[Design] Switch to button pairs for v3 to Yes and No buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69841)
+         - ✔️ 🟥 [[Design] Switch to button pairs for v3 to Yes and No buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69841)
 
 __________________________________________________________________________________________________________________________________________________________
 
