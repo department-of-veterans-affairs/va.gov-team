@@ -36,9 +36,10 @@ _(If the participant agrees, let observers join.)_
 - Okay, I've let the observers in. Could the observers come on camera for a second and give a quick intro?
 
 - Before we begin, I want to give you some background on how today's session will go. Please stop me if you have any questions:
-    - I'm going to ask you to test out some features on MyHealtheVet and ask how they work for you. This will involve sharing your device's screen, which we'll run through in a minute.
+    - You will be testing out features that currently exist on VA.gov, using your current account.
+    - I'll ask you to complete tasks and give feedback on the tool you'll be testing.
     - There are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the appointments tool, not you.
-    - There's no expectation to provide any personal information that you don't want to. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+    - There is no expectation to provide any personal information that you don't want to. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
     - My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
     - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over. 
     - Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
