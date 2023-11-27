@@ -1,6 +1,6 @@
 # Engineering Strategy for Phase 1 of Ask VA on va.gov
 
-Phase 1 of the Ask VA redesign is limited to bringing up the front end of the AVA application to VA.gov design and accessibility standards hosted on VA.gov. The existing Ask VA application will continue to live in Microsoft Dynamics, but the existing front-end (the Microsoft Dynamics portal) will no longer be used. The current portal will be deprecated within x months of deploying the new design. It will serve as a fallback if needed.
+Phase 1 of the Ask VA redesign is limited to bringing up the front end of the AVA application to VA.gov design and accessibility standards hosted on VA.gov. The existing Ask VA application back-end will continue to live in Microsoft Dynamics, but the existing front-end (the Microsoft Dynamics portal) will no longer be used. We will deprecate the Dynamics portal at a later date after deploying the new design (exact timing tbd). It will serve as a fallback if needed.
 
 ## The Problem: Where Do We Get Our Data?
 
@@ -8,7 +8,7 @@ Some data, like inquiries and replies, only exist in the Dynamics CRM applicatio
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/dac35d01-c217-4822-b059-536ff933ff5c)
 
-In general, the strategic engineering decisions for where data is sourced in partnership with the va.gov platform team follow two guiding principles.
+In general, the strategic engineering decisions for where data is sourced in partnership with the VA.gov platform team follow two guiding principles.
 
 1. Use VA data sources (APIs) whenever possible.
 2. Don't break the existing Dynamics CRM or the process of routing inquiries to the agents using Dynamics CRM. 
@@ -28,12 +28,12 @@ Three options were assessed for pulling data from VA APIs or Dynamics APIs.
 * This violates the guiding principle we pull from VA APIs when possible. 
 * The existing workflow for updating data exacerbates the pattern of each application hosting its copy of centralized data. 
 * The Dynamics CRM application was written before many VA APIs were published. Data capture is on demand, so creates a lag for real time update. 
-* This will increase the amount of requests (additional seconds) we make to the VA APIs which then can make the app run slower due to the slow response time from VA APIs.
+* This will increase the amount of requests (additional seconds) we make to the VA APIs, which can make the app run slower due to the slow response time from VA APIs.
 
 **SUBMITTER IMPACT:**
 
 * There are inconsistencies between the AVA and VA profiles. 
-* There's a delay in updates to the data for VA APIs as the CRM team is made aware of the changes and manually updates their copy of the data, which is resulting in the submitter experiencing response time to their requests.  
+* There's a delay in updates to the data for VA APIs. The CRM team is made aware of the changes and manually updates their copy of the data, which is resulting in the submitter experiencing response time to their requests.  
 
 ### <ins>Merge VA Data + Dynamics Data as equal valid sources of data, as It's Retrieved</ins>
 
