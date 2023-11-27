@@ -44,10 +44,9 @@ _(If the participant agrees, let observers join.)_
     - Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
        - Given that, is it ok if I record the screen and the audio during our session today?
           - If NO: Not a problem, I may just stop you at points to confirm what I've seen.
- 
-- Do you have any questions about that?
-   - If NO and Recording OK: Great! I'm going to hit the record button now.
-   - If NO and Recording NOT OKAY: Great! Let's get started with a few questions.
+    - Do you have any questions about anything before we start?
+       - If NO and Recording OK: Great! I'm going to hit the record button now.
+       - If NO and Recording NOT OKAY: Great! Let's get started with a few questions.
 
 _Start recording._
 
@@ -55,7 +54,7 @@ _Start recording._
 
 ## Section 1: Warm-Up Questions (2 minutes)
 
-Before we look at the appointments tool, I have a few questions. 
+Before we look at the appointments tool, I have a couple of questions. 
 
 - What type of device are you using right now? 
 - How do you usually schedule and manage your VA appointments?
@@ -63,9 +62,7 @@ Before we look at the appointments tool, I have a few questions.
 
 ## Section 2: Screen share (5 minutes)
 
-Next, I am going to ask you to give your feedback on the appointments tool on VA.gov.
-
-I will need you to share your screen so I can see how you use the tool. Can I help walk you through how to start the screen share?
+Next, I will need you to share your screen so I can see how you use the tool. Can I help walk you through how to start the screen share?
 
 _Help participant share screen:_
 - [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
@@ -87,9 +84,9 @@ Tasks to test:
 
 ---
 
-So I'm going to ask you to do some tasks that will help us see how the appointments tool is functioning. Please think out loud as you work through these. This helps me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+So I'm going to ask you to do some tasks that will help us see how the appointments tool is functioning. Please think out loud as you work through these. This helps me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback. 
 
-PROMPT: First, I'd like you to go to the website VA.gov.
+PROMPT: First, I'd like you to go to the website "VA.gov".
 
 PROMPT: From here, I'd like you to find your appointments.
 - And just a reminder from here on, if there's anything you don't want to share with us, let me know.
@@ -107,11 +104,11 @@ Tasks to test:
 - Navigate to their past appointments.
 - Navigate to their pending appointments.
 - Navigate to a details page.
-   - Navigate from a details page back to a list page using the back link.
+- Navigate from a details page back to a list page using the back link.
 ```
 ---
 
-PROMPT: Explore your appointments. While you do, please describe it to me. I'm interested in your first impressions.
+PROMPT: Explore your appointments. While you do, please describe what you're seeing. I'm interested in your first impressions.
 
 _Once all tasks are complete, ask the following._
 
@@ -131,18 +128,18 @@ _Use the following prompts only if they don't discover the features while explor
 
 -----
 
-PROMPT: How would you print your list of upcoming/past appointments? 
+PROMPT: How would you print your list of [appointments|requests]? 
 - Note: You don't need to physically print anything.
 
-QUESTION: How is printing your lists working for you? Were there any challenges? Is anything working well?
-    - Note that you don't need to physically print anything.
+QUESTION: How is the print reature working for you? Were there any challenges? Is anything working well?
 
-### Task 5: (Non-Cerner) Navigate to MyHealtheVet
+### Task 5: Navigate to MyHealtheVet
 
 ```
 Tasks to test:
 - Navigate to the Appointments tool from the MHV on VA.gov home page.
 - Navigate to the MHV on VA.gov home page from the Appointments tool using the breadcrumb.
+- Navigate back to Appointments tool from MHV on VA.gov home page
 ```
 
 ---
@@ -151,7 +148,7 @@ PROMPT: From here, can you access other MyHealtheVet tools, like your messages o
 
 _If they don't choose the breadcrumb_
 
-PROMPT: Are there any other ways on this page?
+PROMPT: Are there any other ways to get there from the appointments page?
 
 _From the MHV on VA.gov portal_
 
@@ -181,8 +178,9 @@ If needed:
 - PROMPT: Given the information here, what do you think My VA Health is?
 - PROMPT: Click the link Go to My VA Health
 
-QUESTION: How did viewing your [Cerner facility] appointments working for you? Were there any challenges? Is anything working well?
+PROMPT: Can you return to your VA.gov appointments list from here?
 
+QUESTION: How did viewing your [Cerner facility] appointments working for you? Were there any challenges? Is anything working well?
 
 ### Task 7: Checklist
 
@@ -212,9 +210,9 @@ _Once all are completed, go to next section_
 ## Section 4: Mental Model Tasks (15 min)
 _If there's not enough time, skip to wrap up_
 
-### Task 8: Navigate to VA facility selection page
+### Task 8: Review VA facility selection page
 
-PROMPT: Since we have time, I want to look at one more thing. Could you return to the appointments list from here?
+PROMPT: Since we have time, I want to look at one more thing. Could you return to your appointments list from here?
 
 _Once on the appointments page_
 
@@ -247,7 +245,7 @@ QUESTION: How did scheduling your [Cerner facility] appointments work for you?
  - Is anything working well?
 
 
-### Task 10 Navigate to clinic selection page
+### Task 10: Review clinic selection page
 
 _Ask them to continue to the clinic selection page if not blocked by errors etc:_
 - How do you feel about selecting a clinic here?
@@ -257,7 +255,7 @@ _Ask them to continue to the clinic selection page if not blocked by errors etc:
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
-### Task 11 (CC eligible only): Provider selection for community care (10 minutes)
+### Task 11 (CC eligible only): Review provider selection (10 minutes)
 
 PROMPT: Return to your appointments list.
 
@@ -289,13 +287,8 @@ PROMPT: Ok, we are finished with the website today. You can stop sharing your sc
 ### Wrap up questions
 
 - What did you like or dislike about the session today?
-
-- If you wanted to share your thoughts or feedback with the VA, how would you do it?
-    - Have you ever done this before?
-    - If so, how and when?
-    - Where would you share feedback on issues with online tools like the website or the mobile website?
  
-- Anything else you wanted to share?
+- Is there anything else you want to share?
 
 Well we really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the website and improve it for Veterans.
 
