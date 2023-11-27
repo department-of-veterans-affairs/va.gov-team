@@ -55,17 +55,17 @@ _Start recording._
 
 ## Section 1: Warm-Up Questions (2 minutes)
 
-Before we look at the site, I have a few questions. 
+Before we look at the appointments tool, I have a few questions. 
 
-- What type of device are you joining us on today? 
+- What type of device are you using right now? 
 - How do you usually schedule and manage your VA appointments?
    - Do you ever use MyHealtheVet, VA.gov, (_if Cerner_) or My VA Health?
 
 ## Section 2: Screen share (5 minutes)
 
-Next, I am going to ask you to give us your feedback on the appointments tool on VA.gov.
+Next, I am going to ask you to give your feedback on the appointments tool on VA.gov.
 
-To do this I will neeed you to share your screen. Can I help walk you through how to start the screen share?
+I will need you to share your screen so I can see how you use the tool. Can I help walk you through how to start the screen share?
 
 _Help participant share screen:_
 - [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
@@ -87,23 +87,18 @@ Tasks to test:
 
 ---
 
-Next I'm going to ask you to do some tasks that will help us see how the appointments tool is functioning. Please think out loud as you work through these. This helps me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
+So I'm going to ask you to do some tasks that will help us see how the appointments tool is functioning. Please think out loud as you work through these. This helps me understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
-PROMPT: First, I'd like you to navigate to VA.gov.
+PROMPT: First, I'd like you to go to the website VA.gov.
 
 PROMPT: From here, I'd like you to find your appointments.
-- And just a reminder from here on, if, as we're looking at this, there's anything you don't want to share with us, let me know.
+- And just a reminder from here on, if there's anything you don't want to share with us, let me know.
 
 _NOTE: Take note of the path they take to the appointments tool. In the last task, you'll ask them to return to any others they missed._
 
-_PAUSE When they have arrived on the appointments screen. Take note of whether they have upcoming appointments_
+_PAUSE When they arrive on the appointments screen. Take note of whether they have upcoming appointments_
 
 PROMPT: Let's pause here for a moment. How was the process of logging in?
-
-### Task 2: Appointments tool first impressions (5 minutes)
-
-PROMPT: Tell me about this page. 
-   - What can you do here? 
 
 ### Task 3: Navigate around the appointments tool
 
@@ -116,11 +111,13 @@ Tasks to test:
 ```
 ---
 
-PROMPT: Explore this tool. While you do, tell me about the information it provides.
+PROMPT: Explore your appointments. While you do, please describe it to me. I'm interested in your first impressions.
 
 _Once all tasks are complete, ask the following._
 
-QUESTION: How is the appointments page working for you? Were there any challenges? Is anything working well?
+QUESTION: How is the appointments tool working for you? 
+- Were there any challenges?
+- Is anything working well for you?
 
 _Use the following prompts only if they don't discover the features while exploring the pages_
 
@@ -134,10 +131,8 @@ _Use the following prompts only if they don't discover the features while explor
 
 -----
 
-PROMPT: How would you print your list of upcoming appointments? 
-
-PROMPT: How would you print your list of past appointments? 
-    - Note that you don't need to physically print anything.
+PROMPT: How would you print your list of upcoming/past appointments? 
+- Note: You don't need to physically print anything.
 
 QUESTION: How is printing your lists working for you? Were there any challenges? Is anything working well?
     - Note that you don't need to physically print anything.
@@ -152,17 +147,19 @@ Tasks to test:
 
 ---
 
-PROMPT: How would you go to MyHealtheVet from here?
+PROMPT: From here, can you access other MyHealtheVet tools, like your messages or prescriptions?
 
 _If they don't choose the breadcrumb_
 
 PROMPT: Are there any other ways on this page?
 
-PROMPT: Tell me about this page. How would you return to the appointments tool from here?
+_From the MHV on VA.gov portal_
 
-PROMPT: Return to your appointments list.
+PROMPT: Tell me about this page. 
 
-QUESTION: How is navigating to MyHealtheVet working for you? Were there any challenges? Is anything working well?
+PROMPT: Could you return to the appointments tool from here?
+
+QUESTION: How is navigating around MyHealtheVet working for you? Were there any challenges? Is anything working well?
 
 ### Task 6 (CERNER ONLY): Navigate to MyVAHealth
 
@@ -171,16 +168,21 @@ Tasks to test:
 - Navigate to My VA Health from the Appointments list.
 - Navigate to My VA Health from MyVA.
 ```
-
 ----
 
-PROMPT: Return to the appointments tool.
+PROMPT: Could you return to the appointments tool?
 
-PROMPT: Tell me about the alert at the top of this page.
+_Once on the appointments home page_
 
-PROMPT: Given the information here, what do you think My VA Health is?
+PROMPT: Review your appointments at [Cerner facility].
 
-PROMPT: Review your appointments in My VA Health.
+If needed:
+- PROMPT: Tell me about the alert at the top of this page.
+- PROMPT: Given the information here, what do you think My VA Health is?
+- PROMPT: Click the link Go to My VA Health
+
+QUESTION: How did viewing your [Cerner facility] appointments working for you? Were there any challenges? Is anything working well?
+
 
 ### Task 7: Checklist
 
@@ -220,8 +222,9 @@ PROMPT: Say you wanted to schedule an appointment at your VA facility. How do yo
 
 _Once they find the Start scheduling link_
 
-PROMPT: I won't be asking you to schedule an appointment today, but I would like to ask you about some things at the beginning of the process. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything. 
-   - Does that make sense? If so, are you comfortable continuing?
+PROMPT: I won't be asking you to schedule an appointment today, but I would like to ask you about some questions the tool asks at the beginning of the process. I'll ask you to pause at a certain points, and I'll stop you before you schedule anything. 
+   - Does that make sense?
+   - If yes, are you comfortable continuing?
 
 _If yes_
 
@@ -239,6 +242,11 @@ _PAUSE on the facility selection page:_
 
 PROMPT: How would you schedule an appointment at [Cerner facility]?
 
+QUESTION: How did scheduling your [Cerner facility] appointments work for you? 
+ - Were there any challenges?
+ - Is anything working well?
+
+
 ### Task 10 Navigate to clinic selection page
 
 _Ask them to continue to the clinic selection page if not blocked by errors etc:_
@@ -255,9 +263,12 @@ PROMPT: Return to your appointments list.
 
 Are you familiar with community care?
 
+_IF NO_ 
+- That's fine. Some Veterans are eligible to schedule appointments at local facilities outside of VA. Let's check if the system gives you that option, then go from there.
+- Could you try to schedule a podiatry appointment? I won't ask you to schedule the appointment, we'll just start the process.
+
 _IF YES:_
-    - Tell me what you know about it.
-    - Have you ever scheduled an appointment through community care?
+- Have you ever scheduled an appointment through community care?
 
 PROMPT: Say you wanted to make a community care appointment. How would you do that from here?
    - I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
@@ -269,8 +280,7 @@ _Stop them on the provider list of the provider selection page._
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
-_IF NO:_
-You likely won't be able to schedule community care appointments, but let's check. Could you try to schedule a podiatry appointment? I won't ask you to schedule the appointment, we'll just start the process.
+
 
 ## Section 3: Thank You and Closing (5 minutes)
 
@@ -290,12 +300,6 @@ PROMPT: Ok, we are finished with the website today. You can stop sharing your sc
 Well we really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the website and improve it for Veterans.
 
 Thank you so much again, and enjoy the rest of your day!
-
-## Backup plans
-
-If they don't want to show their private information, they can turn off screen share and talk us through the navigation process.
-
-If that doesn't work, we can open a staging user and share our screen, but this should be a last resort since it doesn't give us great data about how this works in their context.
 
 ## Emergency Exit Strategy
 
