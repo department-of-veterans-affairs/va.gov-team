@@ -289,7 +289,7 @@ Say that after using this website for a while, you didn't get all of your questi
     - Can you tell me about the very top of this page? *(USA Government)*
     - Can you talk about what's below that? *(VA seal and dept. name)*
     - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
-1. Overall, about everything you're seen in this session...What worked *well* for you?
+1. Overall, about everything you've seen in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
