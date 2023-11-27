@@ -28,6 +28,8 @@ Do you help Veterans find new health care providers? For example, Veterans who a
 
 What are some tools you use to help Veterans schedule appointments?
 
+What are some of the struggles you've seen Veterans have when managing or scheduling appointments online?
+
 
 #### My VA Health (Cerner) Coordinators Only
 
