@@ -111,17 +111,17 @@ Tasks to test:
 
 PROMPT: Explore your appointments. While you do, please describe what you're seeing. I'm interested in your first impressions.
 
-_Once all tasks are complete, ask the following._
-
-QUESTION: How is the appointments tool working for you? 
-- Were there any challenges?
-- Is anything working well for you?
-
 _Use the following prompts only if they don't discover the features while exploring the pages_
 
 - How would you review appointments you had earlier in the year?
 - How would you review appointments you've requested but that haven't been scheduled yet?
 - How would you go back to your list of [appointments/requests]?
+
+_Once all tasks are complete, ask the following._
+
+QUESTION: How is the appointments tool working for you? 
+- Were there any challenges?
+- Is anything working well for you?
 
 ### Task 4: Print appointment list
 
@@ -132,12 +132,17 @@ _Use the following prompts only if they don't discover the features while explor
 PROMPT: How would you print your list of [appointments|requests]? 
 - Note: You don't need to physically print anything.
 
-QUESTION: How is the print reature working for you? Were there any challenges? Is anything working well?
+PROMPT: You don't need to physically print anything. Could you just look at this preview of the printout and let me know your thoughts? 
+- You can hit cancel when you're done.
+
+QUESTION: How is the print feature working for you? 
+- Were there any challenges?
+- Is anything working well?
 
 ### Task 5: Navigate to MyHealtheVet
 
 ```
-Tasks to test:
+Task checklist:
 - Navigate to the Appointments tool from the MHV on VA.gov home page.
 - Navigate to the MHV on VA.gov home page from the Appointments tool using the breadcrumb.
 - Navigate back to Appointments tool from MHV on VA.gov home page
@@ -145,11 +150,13 @@ Tasks to test:
 
 ---
 
-PROMPT: From here, can you access other MyHealtheVet tools, like your messages or prescriptions?
+PROMPT: From your appointment list, can you see a way to access other MyHealtheVet tools, like your messages or prescriptions?
 
-_If they don't choose the breadcrumb_
+_If they don't find the breadcrumb_
 
 PROMPT: Are there any other ways to get there from the appointments page?
+
+PROMPT: Go ahead and click that link to MyHealtheVet
 
 _From the MHV on VA.gov portal_
 
@@ -157,7 +164,9 @@ PROMPT: Tell me about this page.
 
 PROMPT: Could you return to the appointments tool from here?
 
-QUESTION: How is navigating around MyHealtheVet working for you? Were there any challenges? Is anything working well?
+QUESTION: How did navigating around MyHealtheVet working for you? 
+- Were there any challenges?
+- Is anything working well?
 
 ### Task 6 (CERNER ONLY): Navigate to MyVAHealth
 
@@ -172,7 +181,7 @@ PROMPT: Could you return to the appointments tool?
 
 _Once on the appointments home page_
 
-PROMPT: Review your appointments at [Cerner facility].
+PROMPT: Could you review your appointments at [Cerner facility]?
 
 If needed:
 - PROMPT: Tell me about the alert at the top of this page.
@@ -181,13 +190,15 @@ If needed:
 
 PROMPT: Can you return to your VA.gov appointments list from here?
 
-QUESTION: How did viewing your [Cerner facility] appointments working for you? Were there any challenges? Is anything working well?
+QUESTION: How did viewing your [Cerner facility] appointments work for you? 
+ - Were there any challenges?
+ - Is anything working well?
 
 ### Task 7: Checklist
 
 I'm just going pause for a moment to make sure we looked at everything so far.
 
-_Check that they completed all tasks. Redirect if needed_
+_Check that they completed all tasks. Redirect to a previous task if needed._
 
 All participants:
 - [ ] Log in to VA.gov
@@ -215,13 +226,13 @@ _If there's not enough time, skip to wrap up_
 
 PROMPT: Since we have time, I want to look at one more thing. Could you return to your appointments list from here?
 
-_Once on the appointments page_
+_Once on the appointments page,_
 
-PROMPT: Say you wanted to schedule an appointment at your VA facility. How do you think you would do that from here? 
+PROMPT: Say you wanted to schedule an appointment. How would you do that from here? 
 
 _Once they find the Start scheduling link_
 
-PROMPT: I won't be asking you to schedule an appointment today, but I would like to ask you about some questions the tool asks at the beginning of the process. I'll ask you to pause at a certain points, and I'll stop you before you schedule anything. 
+PROMPT: I won't be asking you to schedule an appointment today, but I would like to ask you about some things at the beginning of the process. I'll pause you at certain points, and I'll stop you before you schedule anything. 
    - Does that make sense?
    - If yes, are you comfortable continuing?
 
@@ -232,10 +243,12 @@ PROMPT: Given that, please start the process of scheduling a Primary care appoin
 _Note: Mental health may also be an option that brings up direct scheduling._
 
 _PAUSE on the facility selection page:_
-- How do you feel about selecting a facility here?
+- Tell me about this page.
 - Is anything confusing?
 - What, if anything, is helpful?
-- What else would be helpful?
+- What else would be helpful to have here, if anything?
+- If you were scheduling an appointment, which of these might you choose to schedule at?
+    - Why? 
 
 ### Task 9 (CERNER ONLY): Navigate to My VA Health from facility selection
 
@@ -249,10 +262,11 @@ QUESTION: How did scheduling your [Cerner facility] appointments work for you?
 ### Task 10: Review clinic selection page
 
 _Ask them to continue to the clinic selection page if not blocked by errors etc:_
-- How do you feel about selecting a clinic here?
 - Is anything confusing?
 - What, if anything, is helpful?
-- What else would be helpful?
+- What else would be helpful to have here, if anything?
+- If you were scheduling an appointment, which of these might you choose to schedule at?
+    - Why? 
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
@@ -274,12 +288,16 @@ PROMPT: Say you wanted to make a community care appointment. How would you do th
 
 _Stop them on the provider list of the provider selection page._
 
-- How was the process of selecting a provider here?
-- If you could have any other information about this provider, what would it be?
+PROMPT: Please add a provider. Tell me about the list.
+
+- Is anything confusing?
+- What, if anything, is helpful?
+- What else would be helpful to have here, if anything?
+- If you were scheduling an appointment, which of these might you choose to schedule with?
+    - Why? 
+
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
-
-
 
 ## Section 3: Thank You and Closing (5 minutes)
 
