@@ -23,7 +23,7 @@
 ## Introduction (5 minutes)
 
 - Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______.
-- Today I'm going to ask you to test out the appointments section of VA.gov. Our discussion will help the team understand how to improve the site for Veterans in the future.
+- Today I'm going to ask you to help test out the appointments section of VA.gov. Our discussion will help our team understand how to improve the site for Veterans in the future.
 - During the session, I'll ask you to login to VA.gov and test some features using your own account. We'll be asking you to share your screen, which means we'll be seeing your appointments, and potentially other health information. We won't be using your personal health information for the study, and will redact it from any notes we take.
 - Given that, do you feel comfortable proceeding?
    - If Yes, continue to next question
