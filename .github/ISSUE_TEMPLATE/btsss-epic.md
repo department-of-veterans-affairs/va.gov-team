@@ -7,7 +7,7 @@ assignees: ''
 
 
 --- 
-**[Note:]** _Use below for standard epic. Delete if iniative._ 
+**[Note:]** _Use below for standard epic. Delete if initiative._ 
 
 ## Description
 _What details are necessary for understanding the specific work racked by this epic?_
@@ -33,6 +33,8 @@ As a _____, I _____, so that _____.
 - [ ] Privacy & Security Review
 - [ ] Full Accessibility & 508 Audit
 
+## Acceptance Criteria
+- [ ] 
 
 ## Definition of Done
 - [ ] 

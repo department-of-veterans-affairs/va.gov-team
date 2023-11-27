@@ -14,6 +14,8 @@ _What details are necessary for understanding the specific work or request track
 ## User Story
 As a _____, I _____, so that _____.
 
+## Risks
+
 
 ## Acceptance Criteria
 - [ ] 
