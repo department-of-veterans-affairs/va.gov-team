@@ -196,7 +196,7 @@ Did you get the link?
 
 
 ### Task 2: [First impressions]
-I would like you to take some time to look over this web page, and then tell me about it. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that some parts of the page will work, and other parts will not.
+I would like you to take some time to look over this web page from top to bottom, and then tell me about it. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that some parts of the page will work, and other parts will not.
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
@@ -209,11 +209,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - From the VA?
 
 *If participant needs prompting:*
-- What do you think this page is for or about?
-- Can you tell me about the very top of this page? *(USA Government)*
-- What does this mean to you?
-- Can you talk about what's below that? *(VA seal and dept. name)*
-- Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
+- Please take a look at the *entire* web page. You can scroll all the way down to the bottom.
 
 *RECORD navigation: header / footer / search / mobile search*
  
@@ -253,10 +249,12 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 
 - *(If didn't use footer)* Is there another way that you could do this task from this web page?
 
-### Task 7: [Burial]
-Let's say that you're wondering whether you could be buried in a VA cemetery. How would you find out using this web page?  
+### Task 7: [Update your contact information with VA]
+You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this using this web page?  
 
-*RECORD navigation: **header > megamenu > Burials and memorials > Eligibility** / footer / search / mobile search*
+*RECORD navigation: **header > Sign in** / footer / search / mobile search*
+
+*(After participant clicks "Sign in", ask them to stop there. We just want to ensure that the Auth menu is findable.)*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -285,7 +283,13 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. What worked *well* for you?
+1. What do you think this page is for or about?
+1. What stands out to you on this page that indicates this is an official government website?
+    - *(More prompts if needed...)* to gather feedback on USA logo, VA Seal
+    - Can you tell me about the very top of this page? *(USA Government)*
+    - Can you talk about what's below that? *(VA seal and dept. name)*
+    - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
+1. Overall, about everything you're seen in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
