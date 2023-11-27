@@ -41,7 +41,7 @@ _(If the participant agrees, let observers join.)_
     - There's no expectation to provide any personal information that you don't want to. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
     - My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
     - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over. 
-    - Finally, we would like to record the session. We check these to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
+    - Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
        - Given that, is it ok if I record the screen and the audio during our session today?
           - If NO: Not a problem, I may just stop you at points to confirm what I've seen.
  
