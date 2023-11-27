@@ -7,7 +7,7 @@ Reminders assist clinical decision-making and also improve documentation and fol
  
 Clinical Reminders may be used for both clinical and administrative purposes.” 
 
-[Clinical Reminders Manager’s Manual](http://ttps://www.va.gov/vdl/documents/Clinical/CPRS-Clinical_Reminders/pxrm_2_mm.pdf)
+[Clinical Reminders Manager’s Manual](http://www.va.gov/vdl/documents/Clinical/CPRS-Clinical_Reminders/pxrm_2_mm.pdf)
 
 The volume of clinical reminders has been impacting the quality of the time the patient spends with the provider. Providers have also reported increased burden due to data entry and notification fatigue. Therefore, Veteran Health Administration (VHA) is in search of a tool that allows customizable and standardized health forms, screeners, and questionnaires to be sent to the patient to collect responses asynchronously. Through an earlier evaluation, it was identified that VA already has two digital questionnaire tools within our ecosystem, Behavioral Health Labs (BHL) and eScreening, that can meet many, but not all our process and technological needs. OCC, OCTO, and VHA program offices agreed to complete a pilot to gather more insight to compare the tools. This study will collect Veteran feedback on the tools.
 
