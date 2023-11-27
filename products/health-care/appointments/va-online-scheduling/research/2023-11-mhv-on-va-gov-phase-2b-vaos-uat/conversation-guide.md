@@ -22,24 +22,25 @@
 
 ## Introduction (5 minutes)
 
-- Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______. Today we're going to ask for your feedback on the appointments section of VA.gov. Our discussion will help the team understand how to improve the site for Veterans in the future.
-
-- Today we're going to ask you to login to VA.gov and test some features using your own account. We'll be asking you to share your screen, which means we'll be seeing your appointments, and potentially other health information. We won't be using your personal health information for the study, and will redact it from any notes we take. Given that, do you feel comfortable proceeding?
+- Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______.
+- Today I'm going to ask you to test out the appointments section of VA.gov. Our discussion will help the team understand how to improve the site for Veterans in the future.
+- During the session, I'll ask you to login to VA.gov and test some features using your own account. We'll be asking you to share your screen, which means we'll be seeing your appointments, and potentially other health information. We won't be using your personal health information for the study, and will redact it from any notes we take.
+- Given that, do you feel comfortable proceeding?
    - If Yes, continue to next question
    - If No: I completely understand. We won't be able to continue this session today but I do hope you'll join us for future studies. Do you have any questions or concerns for me before we end the session?
 
-- Thank you, I appreciate that. Next, I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It's completely fine if you choose to have the session without observers, so let me know what you’d prefer. Do you feel comfortable with having observers listen in on the session?
+- Thank you, I appreciate that. Next, I have a few people on the team who are interested in listening in to our session as observers. They're in the Zoom waiting room. It's completely fine if you choose to have the session without observers, so let me know what you'd prefer. Do you feel comfortable with having observers listen in on the session?
 
 _(If the participant agrees, let observers join.)_
 
-- Could the observers come off camera for a second and give a quick intro?
+- Okay, I've let the observers in. Could the observers come on camera for a second and give a quick intro?
 
-- Before we begin, I want to give you some background on how today's session will go:
-    - We're going to ask you to test out some features on MyHealtheVet and ask how they work for you. This will involve sharing your device's screen, which we'll run through in a minute.
-    - There are no right or wrong answers, and I won’t be offended by any opinions you express. 
+- Before we begin, I want to give you some background on how today's session will go. Please stop me if you have any questions:
+    - I'm going to ask you to test out some features on MyHealtheVet and ask how they work for you. This will involve sharing your device's screen, which we'll run through in a minute.
+    - There are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the appointments tool, not you.
     - There's no expectation to provide any personal information that you don't want to. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
     - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over. 
-    - Finally, we would like to record the session. We use this as backup in case we need to refer to to make sure our notes are accurate. The recordings will be destroyed after we do this.
+    - Finally, we would like to record the session. We check these to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
        - Given that, is it ok if I record the screen and the audio during our session today?
           - If NO: Not a problem, I may just stop you at points to confirm what I've seen. 
     - While we are so very grateful to have you here and get your feedback, the number one priority is making sure you feel comfortable in this session so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.
