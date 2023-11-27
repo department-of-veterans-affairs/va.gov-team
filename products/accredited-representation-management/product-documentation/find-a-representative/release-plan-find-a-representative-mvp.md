@@ -27,7 +27,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 - [ ] The react widget has been added to the landing page
 - [ ] Entry points have been redirected to the landing page
 
-#### Go/No Go meeting on 12/1 at 11:30a ET (8:30a PT)
+#### Go/No Go meeting on 12/8 at 2:30p ET (11:30a PT)
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
 
@@ -63,17 +63,11 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting on 12/1 at 11:30p ET (8:30a PT)**
-1. **Stage A: 10% of users**
-   1. Timing: 2 days (12/4-12/5)
-   2. Holden OOO, back 12/8
-2. **Stage B: 25% of users**
-   1. Timing: 2 days (12/6-12/10)
-3. **Stage C: 50% of users**
-   1. Timing: 2 days (12/11-12/13)
-4. **Stage D 100% of users**
-   1. Timing: 12/13
-   2. Will monitor closely through December 21 for any issues
+**Go/No Go meeting on 12/8 at 2:30p ET (11:30a PT)**
+1. Stage A: 10% of users on 12/11
+2. Stage B: 25% of users on 12/12
+3. Stage C: 50% of users from 12/13-12/17
+4. Stage D: 100% of users on 12/18
 
 **:snowflake: Code freeze: 12/22/2023 - 1/2/2024 :snowflake:**
 
