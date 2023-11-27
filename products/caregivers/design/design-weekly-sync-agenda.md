@@ -1,5 +1,24 @@
 # Design Weekly Sync Agenda
 
+## 2023-11-27
+Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, and Alex
+
+EZR issues discussed
+- Save-in-Progress
+    - The main consideration is a visual alert, similar experimental design of the Platform System team.
+    - Option 1: alert message within the multiple-response component card.
+    - Option 2: alert above the card, with the name listed.
+    - Kristen inquired if the component had been tested with the alert. Angela later confirmed that it had not been tested.
+    - Team needs to discuss with Dev if it is possible to bring the user to the incompleted page.
+    - The team has not discussed or mocked what this would look like on the Review Page.
+- Mean Test Status, Alert (Pending vs Enrolled)
+    - For the MVP, the team is thinking of several slim alerts. (Enrolled, Pending, and already filled out before the household financial section).
+    - MVP consideration: Should we consider blocking access to EZR if they already have a Mean Test for the current year?
+    - Discuss if the "mean test" is something the Veteran would understand. Kristen notes that the VA is looking to deprecate that term.
+    - Questions the team needs answering: what is the number of Veterans on the Pending List? Does enrollment change from Enrolled to Pending on Jan 1st?
+- The team notes that the MVP bugs are on the Dev's hand
+- Research Synthesis can be discussed on Tuesday since SIP and Mean Test is a priority.
+
 
 ## 2023-11-20
 Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Heather and Alex
