@@ -203,4 +203,36 @@ These are exposures of PII/PHI (in staging) we've encountered while setting up R
 
   <img width="450" alt="confirmation page inset with the Veteran's name and list of issues submitted" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/33130af1-982d-4a12-beb3-e51613a5b1e8">
 
+- Our team set up a header to be linked to an input using `aria-labelledby`. We discovered that a `data-dd-action-name` must be added to the input, label and header in order to prevent PII/PHI from being exposed. This also appears to apply to using `aria-describedby`
 
+  ```html
+  <div>
+    <input
+      type="checkbox"
+      id="test"
+      name="test"
+      aria-describedby="issue-0-description"
+      aria-labelledby="issue-0-title"
+      data-dd-action-name="Issue name"
+    />
+    <label
+      htmlFor="test"
+      data-dd-action-name="Issue name"
+    >
+      {' '} {/* empty label */}
+    </label>
+  </div>
+  
+  <h3
+    id="issue-0-title"
+    data-dd-action-name="Issue name"
+  >
+    Issue name to be hidden
+  </h3>
+  <div
+    id="issue-0-description"
+    data-dd-action-name="Issue description"
+  >
+    Issue description to be hidden
+  </div>
+  ```
