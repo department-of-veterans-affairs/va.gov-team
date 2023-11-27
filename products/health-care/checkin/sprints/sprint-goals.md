@@ -58,7 +58,7 @@ ________________________________________________________________________________
       - 🟥 [[Design] Create final wireframe for Refresh feature on Appointments List page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70483)
     - **Sub Goal: Handle Missing Appointment Information**
          - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
-              - Check In will pass along our research findings feedback to Misty and Peter to make final decisions on empty states.  
+              - Check In Team will pass along our research findings to Misty and Peter to make final decisions on empty states.  
     - **Sub Goal: Analyze current metrics to see what they tell us**       
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
