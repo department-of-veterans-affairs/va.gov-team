@@ -319,5 +319,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Record how many questions they saw (from survey results)
 
 ## Approvals
-- Dave Conlon (PO) on TBD 2023
+- Amanda Klausmeier (Sitewide UX/UI Lead) on Nov 27, 2023
 - Shane Strassberg (VA Research Ops) on TBD 2023
