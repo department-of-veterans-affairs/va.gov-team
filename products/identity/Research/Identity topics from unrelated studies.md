@@ -5,26 +5,22 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Team/Researcher:**
 - **Date:**
 - **Link to study:**
-- **Specific mention:**
 - **Takeaway**:
 
 ### Study name:
 - **Team/Researcher:**
 - **Date:**
 - **Link to study:**
-- **Specific mention:**
 - **Takeaway**:
 
 ### Study name:
 - **Team/Researcher:**
 - **Date:**
 - **Link to study:**
-- **Specific mention:**
 - **Takeaway**:
 
 ### Study name:
 - **Team/Researcher:**
 - **Date:**
 - **Link to study:**
-- **Specific mention:**
 - **Takeaway**:
