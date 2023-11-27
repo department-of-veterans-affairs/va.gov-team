@@ -20,8 +20,8 @@
 ## Intro - 5 minutes
 Thanks for joining us today! My name is Christina and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-Today we're going to talk about filing travel reimbursement claims for your VA medical appointments. 
-Before we start, I have a few things that I want to go over with you:
+- Today we're going to talk about filing travel reimbursement claims for your VA medical appointments. 
+- Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
