@@ -39,7 +39,11 @@ What is:
 
 Also noting from [Slack](https://dsva.slack.com/archives/CUB5X5MGF/p1695317588946409?thread_ts=1695237179.624729&cid=CUB5X5MGF): Daniel's understanding is that the /v0/forms endpoint is "public facing" api that requires no API key, and is owned by PW. This is a proxy that passes requests to the /servicies/va_forms/... route which is Lighthouse owned.
 
-### Alarming
+### Implications
+* **onDownloadLinkClick** function error = failure at `v0/forms` vets-api level, follow up with Platform team
+* **invalid PDF link** = failure at Lighthouse level, follow up with Lighthouse Forms team (#va-forms in DSVA slack).
+
+## Alarming
 As of Oct 2023, Sentry will not email / post to Slack. So: we've set Datadog up to pull in Sentry data, in order to get alarms, e.g. the 3 monitors below.
 
 
