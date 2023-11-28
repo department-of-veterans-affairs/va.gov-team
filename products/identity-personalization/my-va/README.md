@@ -20,7 +20,7 @@
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Projects](#projects)
-- [Measuring Success](#measuring-success)
+- [Analytics](#analytics)
 - [Platform Documentation](#Platform-Documentation)
 - [Design](#Design)
 - [Frontend](#Front-End)
