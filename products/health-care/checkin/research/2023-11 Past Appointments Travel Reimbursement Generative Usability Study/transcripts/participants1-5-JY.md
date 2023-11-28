@@ -67,12 +67,12 @@ Participant 3
 - Has never filed a travel claim 
 - How did you choose your primary care provider at the VA? He was assigned to me, I didn't have a hoice
 If you could pick your own doctor what would you look for? Experience - how long they've been practiving 
-- Do you see any providers outside of VA? Do you use different criteria? I had cancer - I was told that Fox Chase is the best cancer hospital in Philadelphia - the problem with the VA is that you can't get an appointmet for 2-3 months, can't wait that long - immunotherapy/chemo/etc appointments. 
+- Do you see any providers outside of VA? Do you use different criteria? I had cancer - I was told that redacted PII is the best cancer hospital - the problem with the VA is that you can't get an appointmet for 2-3 months, can't wait that long
 - Do you go online to get information about healthcare providers? No, not tech-savvy - can barely go on MyChart because o the sign-in uswername and password 
 
 - I don't see why they can't use my SSN and my name to log-in expect to just work 
 - it's hard enough paying my bills online, 
-- can use ffingerpeint for my chart - no computer 
+- can use fingerprint for my chart - no computer 
 - ask daughter for help with things - helps with almost everything - put the app on phone - once I got home and tried to get in there I couldn't,only for mychart can I use my fingerprint, the other one I can't . Not a VA mychart 
 
 - Have you ever scheduled an appointment with VA.gov, or fill a prescription 
