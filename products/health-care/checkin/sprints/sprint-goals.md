@@ -51,6 +51,7 @@ ________________________________________________________________________________
       - 🟥 [[UX] SPIKE: Identify Veteran pain points across updated PCI Service Blueprint](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70658)
 - **GOAL: Increase Usage of PCI**         
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+      - 🟩 [[FE] Change Workflow to Go from Questions to Completion Page #688650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68865)
       - 🟩 [[FE] [Bug] Add comma to success alert content](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70340)
       - 🟩 [[FE] Fix details links on landing page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70311)
       - 🟩 [[FE] - Unified e2e tests - day-of - group 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70319)
@@ -146,9 +147,8 @@ ________________________________________________________________________________
             - ✔️ 🟦 [[BE] Create Client Class, Configuration methods #68684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68684)
             - 🟦 [[BE] Add token method to Service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68685)
             - ✔️ 🟦 [[BE] Implement Service class, add token method](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68695)
-            - 🟩 [[FE] Change Workflow to Go from Questions to Completion Page #688650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68865)
-            - 🟩 [[FE] Fix details links on landing page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70311)
-                - Added halfway through sprint
+            - 🚧 🟩 [[FE] Change Workflow to Go from Questions to Completion Page #688650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68865) ROLLING OVER
+            - ✔️ 🟩 [[FE] Fix details links on landing page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70311)
             - ✔️ 🟩 [Make Alerts Dismissible per Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68866)
             - ✔️ 🟩 [[FE] Unified e2e test - define paths #68683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68683)
             - ✔️ 🟥 [[Design] Update Wireframes to New Day-of-Week Order in Appointments List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69902)
@@ -156,16 +156,14 @@ ________________________________________________________________________________
             - ✔️ 🟥 [[UX][Design] Align inline annotations to correct components on artboards](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67723)
     - **Sub Goal: [Explain to the Veteran why we Keep Asking them to Verify their Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67896)**
         - ✔️ 🟥 Let VeText know that they have some work to do (also call out Kay & Stephen) (need to complete this [ticket](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699) first)
-    - **Sub Goal: Handle Missing Appointment Information**
-         - ⛔ BLOCKED 🟥[[UX][Design] Create Final Wireframes w/ Annotations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68747)
     - **Sub Goal: Analyze current metrics to see what they tell us**       
-       - 🟥 [[Analytics] Identify where largest drop off is within the 45MR flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699)
+       - ✔️ 🟥 [[Analytics] Identify where largest drop off is within the 45MR flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69699)
        - ✔️ 🟥 [Research] Analyze GA Metrics
-       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
+       - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/67166)
 - **GOAL: Address tech & design debt**
     - ✔️ 🟩 [Look into issues with the scheduling tool not being able to initiate check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69888)
     - **Sub Goal: [Remove Logging for Certain 40x Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69994)**
-        - 🟦 Gaurav to break this effort into work ticket; no work this sprint towards the effort; see this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69865)
+        - ✔️ 🟦 Gaurav to break this effort into work ticket; no work this sprint towards the effort; see this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69865)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
          - ✔️ 🟥 [[Design] Switch headings and body and icons to v3 in Unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69831)
          - ✔️ 🟥 [[Design] Switch headings and body and icons to v3 in Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69832)
