@@ -71,3 +71,7 @@
 
 * CC: There are at least 50k of these.  We do not currently update the list from the SoR, but an Agent could add/update one at any time.
 * SoR (System of Record) is [WEAMS](https://www.va.gov/education/gi-bill-comparison-tool/)
+* states are abbreviated with certain exceptions: 
+```
+50 states + DC, American Samoa (AS), Guam (GU), Phillippines (PH), Puerto Rico (PR), US Virgin Islands (VI).  Then the 2 that dont have abbreviations: "Trust Territories", and "Foreign/Other"
+```
