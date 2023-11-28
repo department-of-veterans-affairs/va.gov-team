@@ -34,6 +34,7 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
    * Strength/dosage of drug
    * Instructions/directions for use (referred to as Indications and SIG)
    * Source of medication information (VA, Non-VA, Remote)
+   * NDC
    * Non-1164 requirements
      * Date prescription was ordered
      * Who ordered the prescription, and their facility
@@ -46,12 +47,14 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
       * Assosciated tracking number
+      * NDC
       * Any errors
     * For each past refill 
       * Date and time of refill request
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
       * Assosciated tracking number
+      * NDC
       * Any errors
     * For each past renewals
       * Date and time of renewal
