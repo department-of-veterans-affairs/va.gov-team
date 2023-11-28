@@ -58,7 +58,7 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
 ### Steps 
 Steps
 
-**1.) A bug ticket is created**
+**1.) A bug ticket is created by anyone**
 
 **2.) QA scrubs the bug ticket (adds labels, ensures it includes applicable info (test user, steps to repeat, etc)**
 - If bug ticket needs more information QA may assign the ticket to the ticket creator or appropriate Mobile team to get more details before it can progress 
@@ -76,23 +76,23 @@ Steps
    - For UX ticket they will have in their name UX Review and also be tagged with Bug and UX labels for finding
    - Once UX Review tickets are done then the original bug ticket is updated with findings and ready for engineering work to be prioritized 
 
-**4.) Product Managers on the Specialized Mobile Team prioritizes their own relevant bug tickets prioritizes their bug tickets as needed**
+**4.) Product Managers on the Specialized Mobile Team prioritizes their own relevant bug tickets within their team as needed**
 - During prioritization PM on Mobile teams will need to coordinate with QA, if QA resources are needed to validate, if QA has capacity to test
 - If PM thinks that the ticket should be done by another team then its that PM's responsilibity to have that convo; PM will not go back to QA to reassess owner
 
-**6.) Bug tickets are then worked in the Sprint** 
+**5.) Bug tickets are then worked in the Sprint** 
 
-**7a.) If Engineering resolves the ticket within point capacity**
+**6a.) If Engineering resolves the ticket within point capacity**
 - QA test and validates work and confirms issue is no longer a bug 
     - Issues that arise will lead to other bug tickets that may be worked in existing sprint 
 - Ticket is ready to be released
 
-**7b.) If ticket is not resolved within estimate, resolution will not happen that sprint** 
+**6b.) If ticket is not resolved within estimate, resolution will not happen that sprint** 
 - Engineering will add artifacts / information to the ticket such as - their findings, solution to resolve, are other teams are needed,  if its resolvable, if not resolvable a work around, and other applicable info for when the ticket is considered in a future sprint 
 - Engineer will update the ticket sizing to reflect their finding and anticipated solution 
 - Engineering will move the ticket to the Backlog Ready to Work for Product to consider for prioritization in the future 
 
-**10.)Product includes this ticket back in their Step 4 and repeat**
+**7.)Product includes this ticket back in their Step 4 and repeat**
 
 
 
