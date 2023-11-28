@@ -75,7 +75,7 @@ _For example, you may be drafting content, planning or synthesizing research, wa
 
 `Description goes here`
 
-### Collaboration cycle 
+## Collaboration cycle 
 If you’re going through the collaboration cycle with the governance team, link to the ticket:
 - **Ticket Number:** `xxxxxx`
 - **Ticket Opened:** `xx/xx/xxxx`
@@ -85,7 +85,7 @@ If you’re going through the collaboration cycle with the governance team, link
 
 **Note**: We ask that you partner with us **before** scheduling your midpoint review, **to ensure** we can agree on a deliverable and that there's time for your team to make changes.  
 
-#### Phases Completed
+### Phases Completed
 **Check any phases you’ve already completed:**
 - [ ] Design intent 
 - [ ] Midpoint review 
