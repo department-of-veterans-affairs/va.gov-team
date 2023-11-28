@@ -23,22 +23,22 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 
 Note: The CRM team will share endpoint designs with the front-end team as they complete them.
 
-| Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes | Docs |
-|---|---|---|:---:|:---:|---|---|:---:|
-Status | GET /ping | Dynamics | 🟩 | 🟨 | integration | Khoa pending correct configuration to test in staging  | ☑ [link](Status_Ping.md)  |
-Form | GET /topics?[id] | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | ☑ [link](Form_GetTopics.md) |
-Form | GET /announcements | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| ☑ [link](Form_RetrieveBannerMessage.md) |
-Form | GET /inquiry?{num} | Dynamics | 🟨 | ⬜ | design | | ☑ [link](Form_RetrieveInquiryStatus.md) |
-Form | GET /facilities?[code] | Lighthouse | 🟨 | ⬜ | design |  | [link](Form_MedicalFacilities.md) |
-Form | GET /schools?[code] | Dynamics? | 🟨 | ⬜ | design | likely Dynamics | [link](Form_SchoolFacilityCodes.md) |
-Form | GET /zipcodes?{prefix} | Lighthouse? | 🟨 | ⬜ | design |  | [link](Form_ZipCodes.md)  |
-Form | GET /states | Lighthouse | 🟨 | ⬜ | design | |  [link](Form_States.md) |
-Form | GET /countries | Lighthouse | 🟨 | ⬜ | design | | [link] |
-Dashboard | GET /inquiries | Dynamics | 🟨 | ⬜ | design | | ☑ [link](Dashboard_RetrieveInquiries.md)  |
-Dashboard | GET /inquiries/search?{txt} | Dynamics | 🟨 | ⬜ | design | | [link] |
-Dashboard | GET /inquiry/{id}/replies | Dynamics | 🟨 | ⬜ | design | | ☑ [link](Dashboard_RetrieveCorrespondence.md) |
-Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | 🟨 | ⬜ | design |  | ☑ [link](Dashboard_SubmitAReply.md) |
-Dashboard | PUT /attachment/new?{id} | Dynamics | 🟨 | ⬜ | design |  | [link](Dashboard_UploadFile.md) |
-Dashboard | GET /attachment?{id} | Dynamics | 🟨 | ⬜ | design | | [link] |
-Dashboard | GET /profile | VA Profile | 🟦 | ⬜ | design | VA Profile | [link](Dashboard_ReadMyProfile.md)  |
-Form | PUT /inquiry/new | Dynamics | 🟦 | ⬜ | design | |  [link](Form_SubmitInquiry.md) |
+| Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes |
+|---|---|---|:---:|:---:|---|---|
+Status | [GET /ping](Status_Ping.md) | Dynamics | 🟩 | 🟨 | integration | Khoa pending correct configuration to test in staging  | 
+Form | [GET /topics?{id}](Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | 
+Form | [GET /announcements](Form_RetrieveBannerMessage.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
+Form | [GET /inquiry?{num}](Form_RetrieveInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | | 
+Dashboard | [GET /inquiry/{id}/replies](Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
+Form | [GET /schools?{code}](Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Form | [PUT /inquiry/new](Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
+Dashboard | [PUT /inquiry/{id}/reply/new](Dashboard_SubmitAReply.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Dashboard | [PUT /attachment/new?{id}](Dashboard_UploadFile.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Dashboard | GET /attachment?{id} | Dynamics | 🟨 | ⬜ | design | | 
+Dashboard | [GET /inquiries](Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
+Form | [GET /zipcodes?{prefix}](Form_ZipCodes.md) | Lighthouse | N/A | ⬜ | design |  | 
+Form | [GET /states](Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
+Form | GET /countries | Lighthouse | N/A | ⬜ | design | | 
+Form | [GET /facilities?{code}](Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
+Dashboard | [GET /profile](Dashboard_ReadMyProfile.md)   | VA Profile | 🟦 | ⬜ | design | VA Profile | 
+
