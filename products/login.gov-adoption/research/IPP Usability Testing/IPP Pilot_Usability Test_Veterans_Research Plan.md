@@ -203,9 +203,75 @@ Please indicate the date and name of a mock participant for a pilot session. 
 
 ### Availability
 
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+Monday, 12/4
+8am-12pm ET
+2-6pm ET
+Researchers Available: 
+Sophia Philip (Unavailable from 10:30-11am ET and 4-4:30pm ET)
+Carl Dickerson
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+Tuesday, 12/5
+8am-1pm ET
+4-6pm ET
+Researchers Available:
+Sophia Philip (Unavailable from 4-5pm ET)
+Carl Dickerson
+Jose Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+
+Wednesday, 12/6
+8am-1pm ET 
+4-6pm ET
+Researchers Available:
+Sophia Philip (Unavailable from 10-11am ET and 12:30-1pm ET)
+Carl Dickerson (Unavailable from 12:30-1pm ET)
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+
+Monday, 12/11
+8am-11am ET
+1-6pm ET
+Researchers Available:
+Carl Dickerson
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+
+Tuesday, 12/12
+8am-1pm ET, 1:30pm-6pm ET
+Researchers Available:
+Carl Dickerson
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+
+Wednesday, 12/13
+8am-2pm ET, 3pm-6pm ET
+Researchers Available:
+Carl Dickerson (Unavailable from 1-2pm ET) 
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+
+Thursday, 12/14
+8am-12pm ET, 2-6pm ET
+Researchers Available:
+Sophia Philip (Unavailable from 3-4pm ET)
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+
+Friday, 12/15
+8am-12pm ET
+Researchers Available:
+Sophia Philip (Unavailable from 3-4pm ET)
+Carl Dickerson
+Josie Griffith
+Sofia Kirkman (Unavailable from 8-11am ET)
+	
+Team Roles
+Principal Investigator - Sophia Philip (Design Lead)
+Researcher - Sofia Kirkman (UX Designer)
+Researcher - Carl Dickerson (Content Strategist)
+Researcher - Josie Griffith (UX Designer)
 
 ### Team Roles
 
@@ -213,7 +279,9 @@ Principal Investigator - Sophia Philip (Design Lead), <sophia@themostudio.com>, 
 
 Researcher - Sofia Kirkman (UX designer), <sofia@themostudio.com>, <sofia.kirkman@va.gov>
 
-Researcher - [Carl Dickerson](mailto:carl@themostudio.com)(UX Designer), <carl@themostudio.com>, <carl.dickerson@va.gov>\
+Researcher - [Carl Dickerson](mailto:carl@themostudio.com)(Content Strategist), <carl@themostudio.com>, <carl.dickerson@va.gov>\
+
+Researcher - Josie Griffith (UX Designer), <josie@themostudio.com>
 
 ### Participant recruiting & screening
 
