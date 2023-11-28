@@ -36,13 +36,13 @@
         "code": 200, 
         "message": "OK", 
         "data": {
-          "facility": "Facility A",
-          "address1": "123 Fake Street",
-          "address2": "",
-          "city": "Somewhere"
-          "state": "Somestate"
-          "zip": "12345"
-          "phone": "1234567890"
+            "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
+            "city": "Somewhere"
+            "state": "Somestate",
+            "name": "10000013 - US Department of Justice Bureau",
+            "code": "10000013",
+            "institutionName": "US Department of Justice Bureau",
+            "regionalOffice": "307 - Buffalo"
         }
     }
 }
