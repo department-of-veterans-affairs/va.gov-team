@@ -95,23 +95,62 @@ The usability test guide will focus on showing participants a mobile-first proto
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Upon receiving our reminder email, the majority of Veterans said they would review their dependents—despite not expecting a need to update.
+   - Several Veterans said that although they would open the email eventually, they might put it off and mark it to return later, knowing it’s not a high priority for them. 
+   - Many Veterans expressed that they would want to review their dependents as a precaution, to ensure nothing had been entered incorrectly by either them or VA. 
+   - One mentioned quickly scanning the email for hard deadlines and requirements, and another mentioned they would at least skim the email to see if it applied to them.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. Most Veterans felt they could trust the prototype email.
+   - A couple of Veterans said that they would verify the domain of the sender if they had any suspicions it might be spam or a phishing attempt. 
+   - While most Veterans said they would click the link in the email prototype, a couple indicated they would go directly to VA.gov, either because they knew where to review their dependents or for safety reasons. One mentioned they might also just call the 1-800 number to talk to a real person.
+   - One Veteran, who was skeptical of the email, suggested introducing it as a new requirement so that Veterans understand why they’ve never seen something like it before.
 
-1. Finding one
+3. Veterans had mixed feelings about the focus on overpayments in the subject and body of the email.
+   - A majority of Veterans considered the reminder to be helpful and effective, noting this would prevent Veterans from accruing overpayments, especially for those who had divorced their spouse or whose children had turned 18. One mentioned that the risk of overpayments should be reiterated in the email, because readers are likely to skim past the first mention. 
+   - A few pointed out that, while they would not be concerned receiving this email personally, they could imagine other Veterans might feel stressed or upset seeing this in their inbox.
+   - Two Veterans felt the focus on overpayments came across as overly negative or self-interested, suggesting the email might mentioned underpayments as well and focus on the benefits and risks of dependent claims as a whole.
 
-2. Finding two
+4. Veterans are looking for a “one-stop-shop” on VA.gov that would allow them to review, manage, and stay informed on eligibility opportunities. 
+   - Several Veterans expected the links on the landing page to lead to a single page where they could both view and update their dependents. 
+   - Veterans also wanted more integration across programs to help eliminate redundant information, and so that they could learn about, track, and manage their benefits in a way that aligned with their dependents' life phases, i.e. a life-stages “roadmap.”
 
-3. Finding three
+5. Veterans expressed a preference for an email reminder, with mail as a second popular choice.
+   - Most preferred email based on convenience and speed, while others said a letter would feel more legitimate and could be easily shown as "proof" in the future. 
+   - Several Veterans mentioned an annual letter they receive regarding their compensation benefits, and said they'd expect dependent info to be included there (or thought that perhaps it already was). 
+   - We also explored the context of current notifications:
+      - Veterans were generally familiar with email and text notifications related to health appointments, and didn't mention any notifications about compensation benefits. 
+      - A couple Veterans did not recall ever receiving email or text from VA. 
+      - Only a few Veterans had received communications about dependent verification, and these were letters in the mail.
 
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+6. The Veterans we spoke to were aligned that an annual reminder would be appropriate for dependent benefits.
+Veterans would expect an annual reminder to include information about any upcoming changes to eligibility or new requirements. 
+Several Veterans said they would expect a general reminder to come at the beginning of the year when they might be looking out for other important communications, such as tax documents. 
+One Veteran believed they already received an annual reminder to check dependents in a benefits packet they receive at the beginning of the year. 
+In addition, several Veterans said that they would want reminders synced to upcoming events, such as in advance of a child turning 18. 
+One Veteran said that they'd only expect to receive personalized reminders on an as-needed basis, rather than a generic annual reminder.
+Veterans shared several scenarios where challenges arose with privacy, communication with dependents, and managing access to information.
+In some cases, spouses wanted to share information more easily, and had to create workarounds like shared email accounts for VA communications. 
+One Veteran said that he'd had difficulty managing his adult son's benefits, and has had to get him on three-way calls just to access basic information like confirmations that payments went through. 
+In cases where the Veteran was not married to their child's other parent, they shared the experience of being incorrectly assumed to be a spouse, and having difficulty granting permissions for child pick-up, etc. 
+Not everyone was clear on who might qualify as a dependent. Spouses and children were well understood, but stepchildren and parents were mentioned less frequently. There was also confusion around the process when a child turns 18.
+Veterans we spoke to learned about dependent benefits from a variety of sources, including their disability compensation award letters, word-of-mouth from family, friends, and coworkers, online forums like Facebook and Reddit, and in-person military base events. 
+Many said they would now go to VA.gov for information on how to manage their benefits, as well as Reddit, Facebook groups, and the benefits 1-800 number. 
+Two Veterans suggested we include information about adding parents as dependents since this is a less well-known benefit.
+Veterans were familiar with common reasons to add and remove dependents, but also brought their own motivations and concerns. 
+Veterans generally understood that adding dependents to their benefits could increase their compensation, and were familiar with divorce and children “aging out” of the program as the most common reasons to remove a dependent from their benefits. Those with a stable family didn’t think removing dependents was something they had to plan for. 
+Some perceived additional benefits; one Veteran thought that VA staff would take them more seriously if they knew there were people depending on them. 
+Another wanted to ensure their dependents would have easy access to benefits after the Veteran passed away.
+Two Veterans also mentioned that there could be privacy reasons to remove dependents, such as not wanting a current or former spouse to know about their benefit entitlement and wanting to keep personal information secure. 
+Veterans described the time-sensitive nature of benefits for children turning 18 or enrolled in school, and stressed the importance of learning about these benefits at the right time to avoid missing out.
+They expressed difficulty with absorbing large amounts of information at once (for example, when first getting their disability rating "package" of information), and instead wanted information to be presented as a roadmap to help them plan for the future.
+Veterans we spoke to who did not have the experience of removing a dependent and did not have upcoming changes were generally unaware of what would be involved in this process and did not feel they were able to plan further than a year or two in advance. 
+There was a strong interest in proactive communications tailored to the Veteran with information about eligibility and benefits based on dependents' life stages. 
+Veterans approached dependent benefits holistically, and do not necessarily distinguish between programs (healthcare vs compensation benefits vs active duty benefits, and so on). So they often expressed interest in receiving more information about related dependent benefits, such as CH 35, MRW, and health benefits. 
+Several Veterans had difficulty finding this information on their own. Some found the information they received when talking to representatives to be inconsistent, while others felt that certain benefits (such as active duty benefits their dependent was eligible for through another parent) were closed off to them as Veterans unless they went in person to a base.
+One Veteran mentioned that it can be frustrating when notified of benefits they were not eligible for, or could not access locally. For them, this raised false expectations and eroded trust.
+Veterans had some awareness of overpayments, but not a high level of confidence that they understood how to prevent them. 
+While few of the Veterans we spoke to had experience with overpayments personally, many had heard about it online, at events, or through word of mouth. A couple Veterans mentioned other types of overpayments they had experienced or heard about, including CH 35 and drill pay overpayments. 
+At least three Veterans were entirely unfamiliar with the concept of overpayments.
 
 
 ## Details of Findings 
