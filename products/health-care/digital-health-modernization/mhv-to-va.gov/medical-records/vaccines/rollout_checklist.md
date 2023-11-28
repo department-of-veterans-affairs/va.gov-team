@@ -108,9 +108,10 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
 
-- [ ] Product content approved and QAd/copy edited
+- [X] Product content approved and QAd/copy edited
 
-- [ ] FAQ content reviewed and approved by OCC, business owner, and where appropriate, subject matter experts.
+- [X] FAQ content reviewed and approved by OCC, business owner, and where appropriate, subject matter experts.
+     - Note: This was reviewed for Allergies.
 
  
 
