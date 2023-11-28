@@ -1,6 +1,6 @@
 # Initiative outline: Updates to My VA Health Care in support of MHV on VA.gov Migration
 
-**Last updated:** August 29, 2023 - first published
+**Last updated:** November 28, 2023 - success metrics updated MHV link + cerner updates
 
 ### Communications
 
