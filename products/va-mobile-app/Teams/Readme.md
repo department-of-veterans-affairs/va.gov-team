@@ -6,7 +6,3 @@
 | API  |Shared Services | Stacy Blackwood | Jayson (BE), Kris (BE) |  | | Starting Sprint 86 | va-mobile-api-engineering
 | QA and Release   | Shared Services| Adam Kasmier |Therese (QA), Tom (QA), Rachael (QA), DevOps (not yet hired) | Bug ticket scrubbing, release management, release testing, ticket testing and validation  | QA and Release | Starting SPrint 86 | va-mobile-app-qa| 
 
-
-**Shared Service Teams**
-- If capacity resources are needed from these teams it should be communicated and coordinated with the team ahead of time and planning
-- If there is capacity limitations on Shared Services team overall priority will need to determine that which will be managed my team PMs 
