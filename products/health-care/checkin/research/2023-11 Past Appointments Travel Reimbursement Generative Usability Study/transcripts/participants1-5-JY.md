@@ -32,28 +32,28 @@ Travel Claims Reimbursement Steps Test
 
 
 Participant 2
-- Has own benefits - used to have to go to east orange - get something signed and get money for travel - not in the last 2-3 years
-- 1) go to east orange 2) sit in an office 3) whatever appointments had had to get it signed to say they were there 4) hand it to imbursement window 5) get cash -- now it might just go to your service diabled account 
+- Has own benefits - used to have to go to redacted PII - get something signed and get money for travel - not in the last 2-3 years
+- 1) go to location 2) sit in an office 3) whatever appointments had had to get it signed to say they were there 4) hand it to imbursement window 5) get cash -- now it might just go to your service diabled account 
 
 - if you could wave a magic wand and make that travel reimbursmeent process - walk up and scan my service connected id and a check comes in the mail 0 there's a kiosk, would rather just use it to scan and travel - or it just goes into next month's disimbursement check in them mail
- - worst part is having to travel to east orange - seamless and 
+ - worst part is having to travel to location - seamless and 
 - disability claim - needs to be better - explain the VA math for disability - hire more people - make it easier to understand - 
 
 
 
 terms travel reimbursement  test :
 
-Claim Paid : getting money - never encountered term, not confusing, very important , it's what i'm owed
-In Manual Review : why is it a manual review,what did I miss, what did the VA not understand what did I not get, explain what a manual review, not rrelevant for travel , if it explained what it was about that would be easier, Manual Review is out of the ordinary 
-Approved for Payment : I'm getting paid but when? *very important*
-submitted for payment : did what I was supposed to do, now waiting for VA to respond *important*
-Payment Cancelled : what didn't I do right, why, *very important*
-Denied :  I'm upset, why? - I did what I was supposed, tell me why it was denied *very ipmortant*
-Claim Submitted : guess it's different than submitted for payment? I at submitted something you should have it on your desk 
-Saved : didn't submit it, have to come back to it, not confusing, not super important 
-Fiscal Rescinded : no idea 
-Incomplete : I didn't fill it out right, I want to know have some red fields maybe? important 
-On Hold : same thing did i not submit it, who has it on hold? why is it on hold?: 
+-Claim Paid : getting money - never encountered term, not confusing, very important , it's what i'm owed
+-In Manual Review : why is it a manual review,what did I miss, what did the VA not understand what did I not get, explain what a manual review, not rrelevant for travel , if it explained what it was about that would be easier, Manual Review is out of the ordinary 
+-Approved for Payment : I'm getting paid but when? *very important*
+-submitted for payment : did what I was supposed to do, now waiting for VA to respond *important*
+-Payment Cancelled : what didn't I do right, why, *very important*
+-Denied :  I'm upset, why? - I did what I was supposed, tell me why it was denied *very ipmortant*
+-Claim Submitted : guess it's different than submitted for payment? I at submitted something you should have it on your desk 
+-Saved : didn't submit it, have to come back to it, not confusing, not super important 
+-Fiscal Rescinded : no idea 
+-Incomplete : I didn't fill it out right, I want to know have some red fields maybe? important 
+-On Hold : same thing did i not submit it, who has it on hold? why is it on hold?: 
 
 big fan of less statuses the better, more choices leads to more confusion 
 
@@ -77,8 +77,7 @@ If you could pick your own doctor what would you look for? Experience - how long
 
 - Have you ever scheduled an appointment with VA.gov, or fill a prescription 
 
-round trip it's 20 miles - medical grant you work for 6 months at VA Hospital
-
+round trip it's 20 miles 
 I went to the basement - I have a bad memory -
 
 Need FaceID or Fingerprint - password - 
@@ -87,7 +86,7 @@ would not go to VSO because don't use app - refill prescription over the phone -
 
 does not like automated phone app - would use a kiosk 
 
-has not used kiosk at philadelphia VA 
+has not used kiosk at VA facility 
 
 
 Participant 5
@@ -120,5 +119,5 @@ Incomplete - someone didn't do the paeprwork correctly, something is off, staff 
 Fiscal Rescinded - means not getting any money, not confusing - you got it or you don't have it - call them and find out why 
 Claim Submitted - paperwork is in, but claim is  not completed yet 
 
-status can go down to 3-4 instead of like 10-12 , the WHY is what's important 
+status steps can go down to 3-4 instead of like 10-12 , the WHY is what's important 
 
