@@ -1,10 +1,10 @@
-| Mobile Team |  PM | Team | Focus | Team Ticket Label | Other Info |  Slack Channel 
-| ------------| ----| -----| -----| -------------| -----------|--------| 
-| Health and Benefits | Alayna Abell  | Kris, Dylan, Lauren | | Health |  Starting mid January | va-mobile-health-benefits|
-| Global | Ameet Sarkar | |  | global| Starting Sprint 85 | va-mobile-global |
-| Design System - shared services | Kelly Lein | | | | Ongoing since Q3 but modifying starting Sprint 86
-| API - shared services | Stacy Blackwood | Jayson, Kris | |  | Starting Sprint 86 | 
-| QA and Release  - shared services | Adam Kasmier |Therese, Tom, Rachael | Bug ticket scrubbing, release management, release testing, ticket testing and validation  | QA and Release | Starting SPrint 86 | va-mobile-app-qa| 
+| Mobile Team | Team Category| PM | Team | Focus | Team Ticket Label | Other Info |  Slack Channel 
+| ------------| ----| ----| -----| -----| -------------| -----------|--------| 
+| Health and Benefits | Flagship | Alayna Abell  | Kris (FE), Dylan (FE), Lauren (UX) | | Health |  Starting mid January | va-mobile-health-benefits|
+| Global | Flagship | Ameet Sarkar | Holly (UX), Jon (FE), Theo (FE), Chika (FE), Liz (Research), Misty (Content), Brea (UX - Accessibility), Greta (Data) |  | global | | started Sprint 84 | va-mobile-global 
+| Design System  | Shared Services |Kelly Lein | Narin (FE) | | | Ongoing since Q3 but modifying starting Sprint 86
+| API  |Shared Services | Stacy Blackwood | Jayson (BE), Kris (BE) |  | | Starting Sprint 86 | va-mobile-api-engineering
+| QA and Release   | Shared Services| Adam Kasmier |Therese (QA), Tom (QA), Rachael (QA), DevOps (not yet hired) | Bug ticket scrubbing, release management, release testing, ticket testing and validation  | QA and Release | Starting SPrint 86 | va-mobile-app-qa| 
 
 
 **Shared Service Teams**
