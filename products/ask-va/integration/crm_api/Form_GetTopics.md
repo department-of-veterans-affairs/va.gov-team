@@ -43,20 +43,20 @@ This parameter is optional.
         "message": "OK", 
         "data": [
             {
-                "AllowAttachments": true,
-                "RequiresAuthentication": true,
-                "Id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "Name": "topic 1",
-                "DisplayName": "topic 1",
-                "ParentId": "a6c3af1b-ec8c-ee11-8178-001dd804e106"
+                "allowAttachments": true,
+                "requiresAuthentication": true,
+                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "topic 1",
+                "displayName": "topic 1",
+                "parentId": "a6c3af1b-ec8c-ee11-8178-001dd804e106"
             },
             {
-                "AllowAttachments": false,
-                "RequiresAuthentication": true,
-                "Id": "c8c3af1b-ec8c-ee11-8178-001dd804e106",
-                "Name": "topic 2",
-                "DisplayName": "topic 2",
-                "ParentId": "d9c3af1b-ec8c-ee11-8178-001dd804e106"
+                "allowAttachments": false,
+                "requiresAuthentication": true,
+                "id": "c8c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "topic 2",
+                "displayName": "topic 2",
+                "parentId": "d9c3af1b-ec8c-ee11-8178-001dd804e106"
             },
         ] 
     }
