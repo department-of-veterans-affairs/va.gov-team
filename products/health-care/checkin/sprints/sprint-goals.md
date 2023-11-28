@@ -35,14 +35,14 @@ ________________________________________________________________________________
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - 🟥 Waiting for content feedback from CAIA
            - 🟥 Implement feedback from CAIA to Sketch and CodePen (should have by end of week Nov 27) (Create ticket, if needed)
-      - 🟥 [[Research]Conduct Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65416)
+      - 🟥 [[Research]Conduct Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65416)  
+  - **Sub Goal: [Cross-Product Discovery - Complete Multiple Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70700)**
+      - 🟥 [[UX] [Discovery] Identify a list of scenarios where Veterans could have >1 task to complete in a finite amount of time](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70695)
    - **Sub Goal: [Allow Veteran to File a Mileage-Only Claim for a Past Appointment](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68926)**
       - 🟥 [[Design] [UX] Update Userflow for filing a travel reimbursement claim for a past appointment for PCI](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70504)
       - 🟥 [[Content] [UX] Create Content for SMS notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70515)
       - 🟥 [[Design] [UX] Update (or create new) Service Blueprint with filing a travel reimbursement claim for a past appointment (and add travel reimbursement into eCheck-in)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70655)
       - 🟥 [[UX] SPIKE: Identify Veteran pain points across updated PCI Service Blueprint](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70658)
-  - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
-      - 🟥 [[UX] [Discovery] Identify a list of scenarios where Veterans could have >1 task to complete in a finite amount of time](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70695) 
 - **GOAL: Increase Usage of PCI**         
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
       - 🟩 [[FE] [Bug] Add comma to success alert content](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70340)
