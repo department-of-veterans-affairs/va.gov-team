@@ -77,13 +77,13 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Technical instrumentation is in place to track GA 
 
-- [ ] All steps of the collaboration cycle are complete; *Per agreement with Platform team, collab cycle willl be reengaged as all domains are ready for Phase 1*
+- [X] All steps of the collaboration cycle are complete; *Per agreement with Platform team, collab cycle willl be reengaged as all domains are ready for Phase 1*
 
 - [ ] All the MUST feedback complete; *Replicating the feedback from Allergies staging review for all domains, MHV-51155*
 
 - [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
-- [ ] Establish email box for the feedback loop 
+- [X] Establish email box for the feedback loop 
  
    
 # Confirm with the following teams that they are ready for rollout: 
@@ -102,11 +102,11 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### UX/UI  
 
-- [ ] Key design decisions added to decision log; *Sketch?*
+- [X] Key design decisions added to decision log; *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md*
 
 - [ ] Design documentation & briefs are up-to-date and linked in product Github; *Bryan will check our product outline and guide in GitHub to ensure it's updated*
 
-- [ ] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks; *Breadcrumbs currently contain one higher page in the hierarchy*
+- [X] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks; *Breadcrumbs currently contain one higher page in the hierarchy*
 
 - [X] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
 
