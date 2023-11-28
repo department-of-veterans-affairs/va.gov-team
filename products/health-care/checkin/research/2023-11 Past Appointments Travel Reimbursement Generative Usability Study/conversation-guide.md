@@ -140,6 +140,8 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 ----
 
 - Now, I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today?
+   - _If no:_ No problem. In that case, would you be able to describe to me what you are doing as you go through the prototype?
+     - _If no:_ _Moderator can choose to share their own screen._ I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound? _Skip to start of email._ 
 
 - Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
 
