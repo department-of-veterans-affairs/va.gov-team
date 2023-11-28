@@ -1,4 +1,5 @@
 **Overview**
+
 Overtime individual disciplines will identify technical debt or administrative items that they need to complete and do in order to keep the app, documents, and code up to date. In doing so Disciplines will idenitfy these opportunities, scope them, and work with the PM to get that work prioritized within identified capacity allocated for such work.
 
 **Other Info:**
@@ -7,6 +8,7 @@ Overtime individual disciplines will identify technical debt or administrative i
 - Note that individual teams may have their own unique processes and styles in managing this work within their teams - this no speccifics on this page 
   
 **Process after Sprint 86**
+
 1.) Technical debt or code upkeep work identified and shared with applicable teambs 
 2.) The applicable team (Global, API, QA, Health, Shared Services) to detail out the work and scope the effort
 3.) The applicable team (Global, API, QA, Health, Shared Services) to prioritize the work within their team or determine its prioritize in the backlog
