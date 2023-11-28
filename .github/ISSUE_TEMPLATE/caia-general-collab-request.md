@@ -33,6 +33,7 @@ _For example, you may be launching a new form, page, or product, or updating an 
 `What your team is working on goes here.`
 
 ### Describe how you would like to collaborate with CAIA
+
 _For example, you may need content collaboration to ensure a form is plain language or guidance to plan accessibility testing on a new tool._
 
 `CAIA Collaboration goes here.`
@@ -85,7 +86,7 @@ If you’re going through the collaboration cycle with the governance team, link
 **Note**: We ask that you partner with us **before** scheduling your midpoint review, **to ensure** we can agree on a deliverable and that there's time for your team to make changes.  
 
 #### Phases Completed
-**Check any phases you’ve already completed: **
+**Check any phases you’ve already completed:**
 - [ ] Design intent 
 - [ ] Midpoint review 
 - [ ] Staging 
