@@ -40,18 +40,18 @@ _For example, you may need content collaboration to ensure a form is plain langu
 ## Type of Collaboration 
 _Check all the types of collaboration you're requesting, below:_
 
-#### Content
+### Content
 - [ ] Creating new content 
 - [ ] Updating existing content 
 - [ ] Translating content 
 - [ ] Something else:  `insert type of collaboration`
 
-#### Accessibility
+### Accessibility
 - [ ] Wireframes or prototypes review
 - [ ] PDF review
 - [ ] User research support
 - [ ] Something else:  `insert type of collaboration`
-#### IA
+### IA
 - [ ] User flows
 - [ ] Page placement
 - [ ] URLs
