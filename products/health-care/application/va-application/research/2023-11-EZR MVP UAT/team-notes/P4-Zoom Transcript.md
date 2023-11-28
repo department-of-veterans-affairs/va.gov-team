@@ -876,7 +876,7 @@ P4: I don't think so. No.
 
 601
 01:04:21.250 --> 01:04:40.759
-Angela (Moderator): okay, Gotcha. Alright. Well, that is everything. And Charles, we really appreciate you taking the time to share your thoughts with us and thank you so much for dealing with the technical difficulties. And patiently, I'm really sorry about that. That is really helpful to us. So we can make this form as useful and clear as possible. Make sure that it works for all veterans. Lastly, perigee, and who sent you the invite for this session will be sending you a thank you note, and that will have a little blurb that you can pass along to other veterans. If you know anyone who may want to participate in research studies like this. Via email.
+Angela (Moderator): okay, Gotcha. Alright. Well, that is everything. And ----, we really appreciate you taking the time to share your thoughts with us and thank you so much for dealing with the technical difficulties. And patiently, I'm really sorry about that. That is really helpful to us. So we can make this form as useful and clear as possible. Make sure that it works for all veterans. Lastly, perigee, and who sent you the invite for this session will be sending you a thank you note, and that will have a little blurb that you can pass along to other veterans. If you know anyone who may want to participate in research studies like this. Via email.
 
 604
 01:05:00.640 --> 01:05:08.500
