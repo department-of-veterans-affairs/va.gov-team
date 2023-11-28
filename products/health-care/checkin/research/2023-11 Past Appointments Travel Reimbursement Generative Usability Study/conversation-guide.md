@@ -300,5 +300,14 @@ _**On details page:**_
 
 - Thank you so much again, and enjoy the rest of your day!
 
+----
+## Exit strategies
 
+### Sample exit strategies
+We recommend you plan a graceful exit strategy that you will feel comfortable using during a session. Your goal is to simply wrap up the session without any further incident or escalation. It is important not to blame the participant, since it could increase any distress or trauma they are experiencing. If you are exiting for a reason on your side, it’s best not to share any personal details, as it may create additional stress for all. Examples of exit strategies that have worked include:
 
+- **Out of questions:** "We have covered all the questions I have for you today. Thank you so much for your time and feedback."
+
+- **Blame technology:** "I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time."
+
+- **Backup Moderator:** This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
