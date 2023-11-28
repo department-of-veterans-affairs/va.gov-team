@@ -1,4 +1,4 @@
-# Retrieve Inquiry
+# Retrieve Inquiry Status
 
 ## Request
 
@@ -36,23 +36,7 @@
         "code": 200, 
         "message": "OK", 
         "data": {
-          "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
-          "inquiryNumber": "A-123456",
-          "inquiryStatus": "In Progress",
-          "submitterQuestion": "My question is...",
-          "lastUpdate": "1/1/1900",
-          "inquiryHasAttachments": true,
-          "inquiryHasBeenSplit": true,
-          "veteranRelationship": "self",
-          "schoolFacilityCode": "0123",
-          "inquiryTopic": "topic",
-          "inquiryLevelOfAuthentication": "Pseronal",
-          "attachmentNames": [
-            {
-              "id": "a123af1b-ec8c-ee11-8178-001dd804e106",
-              "name": "File A.pdf"
-            }
-          ]
+          "status": "In Progress"
         }
     }
 }
