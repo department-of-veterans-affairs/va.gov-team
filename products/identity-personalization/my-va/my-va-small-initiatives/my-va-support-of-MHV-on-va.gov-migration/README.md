@@ -78,7 +78,7 @@ Specifically for the health care section, once we add this link, we'll monitor t
 **Key Result: ...tk...**
 [GA report](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20231120&_u.date01=20231126/)
 
-|KPI|Baseline: <br />4 weeks pre-launch <br />(10/30/23 - 11/5/23)| Baseline: <br />3 weeks pre-launch <br />(11/6/23 - 11/12/23)| Baseline: <br />2 weeks pre-launch <br />(11/13/23- 11/19/23)| Baseline: <br />1 week pre-launch <br />(11/20/23 - 11/26/23)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
+|KPI| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
 |--------------------------|-------------------|---------------|---------------|-------------|-------------|----|----|----|
 | Engagement with MHV link |                   |               |               |             |             |    
 
