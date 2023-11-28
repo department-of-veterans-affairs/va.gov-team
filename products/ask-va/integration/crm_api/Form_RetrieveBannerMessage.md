@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /alerts
+**Path**: /announcements
 
 **Parameters**:
 None
