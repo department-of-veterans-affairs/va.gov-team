@@ -24,15 +24,13 @@ We want to determine if the current process is serving the veterans needs and is
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
+- What in the current ordering tool process is working and what is not?
+- What is a Veterans understanding of each supply type? And how do they currently go about getting more information on them?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
+The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. I think the study may show that Veterans have a hard time finding the tool without using search, and that understanding of supply types is pretty good, but not sure that many Veterans will want other supply types to be on VA.gov, and if they do, they will likely want it to be a part of MHV on VA.gov
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
