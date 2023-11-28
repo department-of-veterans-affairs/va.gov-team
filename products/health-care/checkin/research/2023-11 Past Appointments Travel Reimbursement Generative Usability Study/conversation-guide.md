@@ -119,15 +119,17 @@ _When complete_
 
 ## Task #2 - Usability Testing - 20 minutes
 
-- Ok, now I’m going to have you try out a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. I’ll send you a link.
+- Ok, now I’m going to have you try out a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 
 - Do you have any questions about that before we get started?
 
-- Ok, I’m sending you the prototype in the chat/email. You can go ahead and select that link.
+- Ok, I’m sending you the prototype link in the [chat/email]. 
 
 _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
+
+- You can go ahead and select that link.
 
 ----
 
@@ -169,7 +171,6 @@ _**Participant starts at Email:**_
 - _If needed:_
   - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
   - Is there anything confusing about this?
-  - Where did you expect this link to lead you?
 
 _**Participant is at Appointment list:**_
 
@@ -177,7 +178,7 @@ _**Participant is at Appointment list:**_
 
 - Where were you expecting to end up?
 
-- Now let’s take a look at what’s on this page. Can you briefly walk me through it?
+- Now let’s take a look at what’s on this page. Can you briefly review the page and tell me about it?
   - _Things to watch for: Task cards, are they helpful? Do they mention them?_ 
 - _If needed:_
   - What did you expect to be on this page?
@@ -190,8 +191,8 @@ _**Participant is at Appointment list:**_
   - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
 - _If needed for dismiss/close button in card:_
   - What about the x/close button in the card. What would you expect to happen if you selected that?
-  - And what would you expect if you DID select that? 
-  - And if you dismiss it, how would you find that information again.
+  - And if you dismiss it, how would you find that information again?
+  - And what would you expect if you DID NOT select that? 
 
 
 - Ok, go ahead and go through the process of filing that claim - and talk me through what you’re doing.
@@ -213,11 +214,11 @@ _**If on detail page:**_
 - How clear are the two options to you for filing a claim?
 
 
-_**Participant is on travel questions:**_
+_**Participant is on travel questions 1 & 2:**_
 
 - What would you expect to happen if you selected “no” here?
 
-_**Participant is on contact information question:**_
+_**Participant is on travel question 3 - contact information:**_
 
 - I’ll have you pause here for a moment. Let’s pretend you were going through this and your address was wrong. What would you do? 
 - And then what would you expect to happen?
@@ -248,7 +249,7 @@ _**Participant is on success page:**_
 
 _**Participants might go to the details page or to the outside “Review your claim” link. Moderator should be ready for both scenarios.**_
 
-- Ok, thank you. We can move on. Now, if you wanted to check to see if you could file a travel reimbursement claim for your second appointment you had that day (Nov. 13 at 1:00 p.m.), what would you do next? 
+- Ok, thank you. We can move on. Now, if you wanted to check to see if you could file a travel reimbursement claim for your second appointment you had that day (on Nov. 13 at 1:00 p.m.), what would you do next? 
 - _Things to watch for:_
   - _Do they understand how to navigate to the appointment list?_
   - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
@@ -257,8 +258,8 @@ _**Participants might go to the details page or to the outside “Review your cl
 _**Participant is on details page for second appointment**_
 
 - Tell me about this appointment’s travel reimbursement claim status. What did you expect this status to be?
-- Why do you think this is ____ status? 
-  - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
+- Why do you think this status is "In manual review"? 
+  - _Things to watch for: Do they understand why the second appointment was updated along with the first one? (Note: if this is not clear and there is time, moderator can decide to guide participant back to check the first appointment status to clarify)_ 
 
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - Where did you expect that link to take you?
@@ -271,7 +272,7 @@ _**Participant is on details page for second appointment**_
 
 ----
 
-_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet - have them navigate to the details page for a third appointment**_
+_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet - have them navigate to the details page for a third appointment (remaining appointment with dot indicator)**_
 
 - And for the last task, can you walk me through how you would file for travel reimbursement for another one of your past appointments?
 
