@@ -38,7 +38,7 @@ Dashboard | [GET /attachment?{id}](Dashboard_GetAttachment.md) | Dynamics | 🟨
 Dashboard | [GET /inquiries](Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
 Form | [GET /zipcodes?{prefix}](Form_ZipCodes.md) | Lighthouse | N/A | ⬜ | design |  | 
 Form | [GET /states](Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
-Form | GET /countries | Lighthouse | N/A | ⬜ | design | | 
+Form | [GET /countries](Form_GetCountries.md) | Lighthouse | N/A | ⬜ | design | | 
 Form | [GET /facilities?{code}](Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
 Dashboard | [GET /profile](Dashboard_ReadMyProfile.md)   | VA Profile | 🟦 | ⬜ | design | VA Profile | 
 
