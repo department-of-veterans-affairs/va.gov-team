@@ -1,108 +1,135 @@
-### Use this ticket to request collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
+---
+name: CAIA General Collaboration Request
+about: Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
+title: '[CAIA General Support]:<Team name><Support Needed>'
+labels: 'sitewide CAIA'
+assignees: '@Terry Nichols'
+---
 
+# CAIA General Collaboration 
+
+## About this ticket 
+
+Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
 
 ## About your team
 
-- Team name:  
-- OCTO-DE product owner:  
-- Product name: 
-- Product manager:  
-- Slack channel: 
-- Dedicated content writer on your team (if you have one):
-- Dedicated a11y specialist on your team (if you have one):
- 
+- **Team name**: `Insert official name`
+- **OCTO-DE product owner:** `Insert project owner`
+- **Product name:** `Insert product name`
+- **Product manager:**  `Insert product manager`
+- **Slack channel:** `Insert and link to DSVA Slack Channel`
+- **Dedicated content writer on your team (if you have one):** `Insert name and/or GH handle`
+- **Dedicated a11y specialist on your team (if you have one):** `Insert name and/or GH handle`
+
 ## About your request
-**Describe your project goals**
-What is your team working on? For example, you may be launching a new form, page, or product, or updating an existing one.  
 
-</br>
-</br>
-</br>
+### Describe your project goals
 
-**Describe what you want CAIA to collaborate on** 
-For example, you may need content collaboration to ensure a form is plain language or guidance to plan accessibility testing on a new tool. 
+`Your project goals go here.`
 
-</br>
-</br>
-</br>
+### What is your team working on?
+_For example, you may be launching a new form, page, or product, or updating an existing one._
 
-Check all the types of collaboration you're requesting:
-#### Content
+`What your team is working on goes here.`
+
+### Describe how you would like to collaborate with CAIA
+_For example, you may need content collaboration to ensure a form is plain language or guidance to plan accessibility testing on a new tool._
+
+`CAIA Collaboration goes here.`
+
+## Type of Collaboration 
+_Check all the types of collaboration you're requesting, below:_
+
+### Content
 - [ ] Creating new content 
 - [ ] Updating existing content 
 - [ ] Translating content 
-- [ ] Something else: 
-#### Accessibility
+- [ ] Something else: `insert type of collaboration`
+
+### Accessibility
 - [ ] Wireframes or prototypes review
 - [ ] PDF review
 - [ ] User research support
-- [ ] Something else: 
-#### IA
+- [ ] Something else: `insert type of collaboration`
+
+### IA
 - [ ] User flows
 - [ ] Page placement
 - [ ] URLs
 - [ ] Breadcrumbs and left nav placement
 - [ ] Redirects
-- [ ] Something else:
-</br>
-- [ ] If you're not sure what kind of support you need, check this box and we'll schedule an introductory meeting to learn more about your project.
+- [ ] Something else: `insert type of collaboration`
 
-</br>
+### Other
+- [ ] Check this box if you're not sure what kind of support you need, and we'll schedule an introductory meeting to learn more about your project.
 
 ## Collaboration timeframe
 
 We work on nearly every OCTO product and manage all unauthenticated content on VA.gov, so we will need to prioritize intake requests based on overall workload and VA and OCTO priorities.
 
-**Your timeline** 
-- [ ] Is this request tied to a Congressional mandate or timeline? (Check if yes) 
+### Your timeline
+- [ ] Check yes, if this request is tied to a Congressional mandate or timeline? 
 
-Describe where you are in your project's timeline. For example, you may be drafting content, planning or synthesizing research, waiting on an SME review, or scheduling your MVP launch date. Add dates for any upcoming milestones.
-</br>
-</br>
-</br>
+### Describe where you are in your project's timeline. 
+_For example, you may be drafting content, planning or synthesizing research, waiting on an SME review, or scheduling your MVP launch date._
+#### Description
+`Description goes here`
+#### Current Timeline Position
+- [ ] Drafting content
+- [ ] Designing prototypes
+- [ ] Planning research
+- [ ] Synthesizing research
+- [ ] Waiting on an SME review
+- [ ] Scheduling your MVP launch date
+- [ ] Other: `Insert where you are in your project's timeline`
 
-**Collaboration cycle** 
-If you’re going through the collaboration cycle with the governance team, link to the ticket:
+### Upcoming Milestones 
+Add dates for any upcoming milestones.
+- **Date:** `xx/xx/xxxx`
+- **Date:** `xx/xx/xxxx`
+  
+### Collaboration Cycle
 
-If you’re not going through the collaboration cycle, or you’re unsure, check here and we can follow up: 
-- [ ] Not going through collab cycle 
+#### If you’re going through the collaboration cycle with the governance team, link to the ticket:
+- **Ticket Number:** `xxxxxx`
+- **Ticket Opened:** `xx/xx/xxxx`
 
-Note: We ask that you partner with us before scheduling your midpoint review, to ensure we can agree on a deliverable and that there's time for your team to make changes.  
+#### If you’re not going through the collaboration cycle, or you’re unsure, check here and we can follow up: 
+- [ ] Not going through collab cycle
+- [ ] Unsure
 
-Check any phases you’ve already completed: 
+Note: _We ask that you partner with us **before** scheduling your midpoint review, **to ensure** we can agree on a deliverable and that there's time for your team to make changes._
+
+#### Check any phases you’ve already completed: 
 - [ ] Design intent 
 - [ ] Midpoint review 
 - [ ] Staging 
- 
-</br>
-  
+
 ## Supporting artifacts
 Please provide links to any supporting artifacts we might need to begin work. This can include your product outline, user flows, mockups and prototypes, draft content, etc.
+- [Supporting artifact <name>](https://va.gov) `placeholder link`
 
-<br>
-<br>
-<br>
 
 ## Next steps
+Refer to the **VFS Team Next Steps Task List**, below.
 
-**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag `@Terry Nichols`.**
+---
 
-A member of the CAIA team will aim to respond to your Slack message within 24 hours to acknowledge receipt - should we need any additional information regarding your request we will reach out to you to confirm.
-
-- The CAIA Operations group will meet to go over the info in your request and then reach out if we have any questions.
-- Depending on the request, it may make sense to schedule a kickoff meeting to better understand how we'll partner with you!
-
-- If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
-  
-- If you need a page/URL redirected, a URL changed or a vanity URL set up, please submit a [Redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+jilladams%2C+RLHecht&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request)
- 
- - If you are creating an [experimental design,](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) please [also contact the DST. ](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
-
-- If you are requesting [a11y support for user research,](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) please complete this form, next. 
-
-<br>
-
-## TASKS
-
-<br>
+```[tasklist]
+### VFS Team Next Steps 
+- [ ] **Once you’ve submitted this ticket**, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag `@Terry Nichols`. A member of the CAIA team will aim to respond to your Slack message within 24 hours to acknowledge receipt - should we need any additional information regarding your request we will reach out to you to confirm. The CAIA Operations group will meet to go over the info in your request and then reach out if we have any questions. Depending on the request, it may make sense to schedule a kickoff meeting to better understand how we'll partner with you!
+- [ ] **If you also need engineering support from the Public Websites team**, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
+- [ ] **If you need a page/URL redirected,** a URL changed or a vanity URL set up, please submit a [Redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+jilladams%2C+RLHecht&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request)
+- [ ] **If you are creating an [experimental design,](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?)** please [also contact the DST. ](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
+- [ ] **If you are requesting [a11y support for user research,](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)** please complete this form, next. 
+```
+```[tasklist]
+### General CAIA Tasks
+- [ ] Schedule Kickoff Call c/o @Terry Nichols/@strelichl
+- [ ] If needed, schedule CAIA Internal Pre-Kickoff Meeting c/o @Terry Nichols/@strelichl
+- [ ] Kickoff Internal Notes c/o @Terry Nichols/@strelichl
+- [ ] Kickoff Deliverable to VFS Team c/o @Terry Nichols/@strelichl
+- [ ] Delete VFS Team Next Steps tasks that `do not apply`.
+```
 
