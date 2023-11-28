@@ -39,31 +39,58 @@ The purpose of this research was to:
 
 ## Research Questions
 
-_Research questions here_
+- Do Veterans know who qualifies as a dependent?
+- Do Veterans understand that dependents can impact compensation benefits, not just be eligible for other benefits (education, etc.)?
+- Do Veterans understand the risk of debt / overpayment?
+- For those newly qualified because of the PACT Act, how do they know their dependents might now be eligible?
+- What would Veterans like to know about dependent benefits? (e.g. how much will it increase their compensation, how much debt might they accrue?)
+- How do Veterans find their dependent information currently? Where do they look, who do they go to for help?
+- Where would Veterans expect to manage their dependent info? On their Profile?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+
+- Will Veterans quickly determine the purpose of notification?
+- Will they follow/complete the primary CTA?
+- Are Veterans confident that the notification is coming from VA and is safe to engage with (not spam)?
+- How could we give them more confidence in taking action (e.g. directing them to sign in without needing to click on a link)
+- How do their preconceptions about VA play into all of the above? (e.g. they might believe the notification is from VA, but not trust VA generally)
+- What happens after they take action? Does the first landing page jive with the email content? Do they know what to do next?
+- Is there a need for a “one stop shop” where they can view and add/remove dependents all in the same flow? (Our hypothesis from past research is yes!)
+- Once on va.gov, are Veterans confident in their data security? 
 
 
-* Question 
-* Question
-* Question
+- What device would they use for various tasks (checking email, viewing dependents, adding or removing a dependent)?
+- Text vs email vs mail — where do they expect to receive info, what would they prefer, what do they actually read?
+- What is the right frequency and time of year for notifications (e.g. when school begins, when they’re doing their taxes, etc.)
+- What are opportunities for proactive reminders (eg. when a child reaches a certain age)
+- What information would Veterans want to receive in their notifications?
+
 
 ## Methodology 
 
-_Brief description of method chosen_
+We will use two distinct conversation guides:
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+- A semi-structured interview focused on learning how the Veteran understands dependent benefits overall
+- A usability test focused on evaluating perceived trustworthiness and effectiveness of proposed notification MVP
+
+We will use one interview guide per interview and alternate interviews so that we can gather evaluative and generative information in parallel. The dual guide approach will also allow us to be flexible and responsive to the participant if an individual session lends itself better to one or the other (for example, if a Veteran is having technical difficulties viewing the prototype, we can pivot from the evaluative to the generative guide).
+The semi-structured interview guide will focus on questions around the participant's knowledge of dependent benefits, prior experiences with dependent benefits, and expectations around wayfinding, navigation, and notification. This will inform future improvements and help us prioritize future improvements by need and impact. We'll recruit for participants with current dependents claimed on benefits and include screener questions aimed at representing a mix of dependent types and experience. 
+The usability test guide will focus on showing participants a mobile-first prototype of the email notification MVP that includes general messaging encouraging readers to review current dependents. We'll ask questions to uncover participants' comprehension of the message's intent, including who it's for, what it's warning against, and what it's asking of them as well as their expectations of how and where to take action and whether they would take action in response to the notification. We'll recruit for participants with current dependents claimed on benefits and include screener questions aimed at representing a mix of dependent types and experience with a focus on those cohorts most impacted by benefit overpayments: Veterans who have claimed spouses, minor children, and school-aged children. 
+
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. Do Veterans find our email notification MVP to be trustworthy and effective?
+   - **Hypothesis:** The majority of Veterans who need to make updates to their dependents will follow the call to action in the dependents verification notification. 
+   - **Mostly true.** A majority of the Veterans we spoke to said they would follow the call to action and log onto VA.gov based on our prototype. One said they would not take action, because they did not have any changes to report. (None of the Veterans interviewed had immediate changes for which they would need to update their dependent information.)
+2. What are Veterans’ device and notification preferences?
+   - **Hypothesis:** The majority of Veterans will expect email notifications. A significant cohort who previously only used paper forms, phone, or VSO offices will expect mail notifications. 
+   - **True, but limited by recruitment.** Our recruitment skewed towards Veterans familiar with VA.gov, with a majority who had managed dependent benefits online. Most Veterans we spoke with would expect and prefer an email notification. Several would expect a notification in the mail. Few people mentioned text messages.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+3. How do Veterans understand dependent benefits as they relate to compensation, and how do they navigate the process today?
+   - **Hypothesis:** Veterans will have some knowledge of the benefits and risks of claiming dependents through VA but they may not be aware of the extent to which they can be liable for paying back benefit overpayments.
+   - **Mostly true.** At least three Veterans were entirely unfamiliar with the concept of overpayments. Most had heard about it online, through word of mouth, or VA events.
 
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 ## Key Findings
