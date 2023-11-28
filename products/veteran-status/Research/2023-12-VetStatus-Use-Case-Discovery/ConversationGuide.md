@@ -1,14 +1,22 @@
 # Conversation Guide 
 
 ## Moderator logistics
+### Logistics to confirm periodically 
+Check Settings -> Meeting -> In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
+
+Check Settings -> Meeting -> In Meeting (Basic) > Sound notification when someone joins or leaves is OFF
+
+Check Settings -> Meeting -> In Meeting (Basic) > Screen sharing > Who can share > All Participants
+
+Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictures in a meeting ON
+
+
+
+
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Confirm notetaker availability
+- [ ]  Let notetaker know if anything has changed in the conversation guide
 
 
 ### Day of the session
@@ -16,7 +24,7 @@
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
+- Sign into Zoom website via Google as Perigean w/ credentials provided and start Zoom meeting 5-10 minutes before
 
 
 ### Starting the session
