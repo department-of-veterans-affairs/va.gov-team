@@ -46,7 +46,7 @@ Data collection will be remote and conducted using Zoom.
 
 ### Research materials
 
-- [Link to conversation guide](url goes here) 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/30fbddf84589e01c15d9588521428c5123b7a492/products/veteran-status/Research/2023-12-VetStatus-Use-Case-Discovery/2023-12-ConversationGuide.md) 
 
 	
 ## Recruitment	
