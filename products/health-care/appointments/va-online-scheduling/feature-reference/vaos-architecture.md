@@ -1,4 +1,6 @@
-# VAOS architecture - Mermaid.js experiment
+# VAOS architecture - Mermaid.js experiment [DRAFT]
+
+Experimenting with mermaid.js to add charts to markdown. Don't use for reference until finalized.
 
 ```mermaid
 
