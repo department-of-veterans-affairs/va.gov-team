@@ -74,12 +74,12 @@ _If successful_
 
 ## Section 3: UAT Tasks (30-45 min)
 
-### Task 1: Log in (5-20 minutes)
+### Task 1: Navigate to appts tool (5-20 minutes)
 
 ```
 Tasks to test:
 - Log in to VA.gov
-- Navigate to the Appointments tool from VA.gov.
+- Navigate to the Appointments tool from VA.gov home page (via static landing page).
 - Navigate to the Appointments tool from MyVA.
 ```
 
@@ -139,12 +139,13 @@ QUESTION: How is the print feature working for you?
 - Were there any challenges?
 - Is anything working well?
 
-### Task 4: Navigate to MyHealtheVet
+### Task 4: Navigate to MyHealtheVet Home Page
 
 ```
 Task checklist:
 - Navigate to the Appointments tool from the MHV on VA.gov home page.
 - Navigate to the MHV on VA.gov home page from the Appointments tool using the breadcrumb.
+- Navigate to MHV on VA.gov home page using the navbar button
 - Navigate back to Appointments tool from MHV on VA.gov home page
 ```
 
@@ -168,12 +169,13 @@ QUESTION: How did navigating around MyHealtheVet working for you?
 - Were there any challenges?
 - Is anything working well?
 
-### Task 5 (CERNER ONLY): Navigate to MyVAHealth
+### Task 5 (CERNER ONLY): Navigate to My VA Health
 
 ```
 Tasks to test:
-- Navigate to My VA Health from the Appointments list.
+- Navigate to My VA Health from the Appointments tool.
 - Navigate to My VA Health from MyVA.
+- Navigate back to Appointments tool from My VA Health.
 ```
 ----
 
@@ -259,7 +261,7 @@ QUESTION: How did scheduling your [Cerner facility] appointments work for you?
  - Is anything working well?
 
 
-### Task 9: Review clinic selection page
+### Task 8: Review clinic selection page
 
 _Ask them to continue to the clinic selection page if not blocked by errors etc:_
 - Is anything confusing?
@@ -270,7 +272,7 @@ _Ask them to continue to the clinic selection page if not blocked by errors etc:
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
-### Task 10 (CC eligible only): Review provider selection (10 minutes)
+### Task 9 (CC eligible only): Review provider selection (10 minutes)
 
 PROMPT: Return to your appointments list.
 
