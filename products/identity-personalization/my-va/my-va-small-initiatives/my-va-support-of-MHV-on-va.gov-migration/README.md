@@ -65,7 +65,7 @@ Specifically for the health care section, once we add this link, we'll monitor t
 
 **Key Result: We see a decline in engagement on the health care secondary links on My VA** (_within margin as determined by average fluctuation prior to launch_) 
 
-|KPI|Baseline: <br />4 weeks pre-launch <br />(10/30/23 - 11/5/23)| Baseline: <br />3 weeks pre-launch <br />(11/6/23 - 11/12/23)| Baseline: <br />2 weeks pre-launch <br />(11/13/23- 11/19/23)| Baseline: <br />1 week pre-launch <br />(11/20/23 - 11/26/23)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
+|KPI|Baseline: <br />4 weeks pre-launch <br />(10/30/23 - 11/5/23)|Baseline: <br />3 weeks pre-launch <br />(11/6/23 - 11/12/23)|Baseline: <br />2 weeks pre-launch <br />(11/13/23- 11/19/23)|Baseline: <br />1 week pre-launch <br />(11/20/23 - 11/26/23)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
 |------------------------------------------------------------------------------|------------------|---------------|---------------|-------------|---|---|---|---|
 | Engagement with "Go to your inbox" link                                      |     40,417       |    37,238     |    48,019     |    34,101   |   |   |   |   |      
 | Engagement with "Schedule and manage your appointments" link                 |     26,570       |    24,821     |    28,295     |    19,924   |   |   |   |   |   
