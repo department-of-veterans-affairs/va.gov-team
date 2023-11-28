@@ -125,7 +125,8 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Unit test coverage is sufficient 
 
-- [ ] Accessibility test coverage is sufficient; *Needs additional attention* 
+- [ ] Accessibility test coverage is sufficient; *PR to update tests: https://github.com/department-of-veterans-affairs/vets-website/pull/26895*
+
 
 - [ ] End-to-end test coverage is sufficient; *Needs additional attention* 
 
