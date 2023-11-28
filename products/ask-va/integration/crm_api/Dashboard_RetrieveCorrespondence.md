@@ -34,13 +34,12 @@
         "message": "OK", 
         "data": [
             {
-                "created_on": "1/2/23",
-                "selection_criteria": "message_id",
+                "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
+                "modifiedon": "1/2/23",
                 "status_reason": "Completed/Sent",
                 "description": "description",
                 "message_type": "Valid values should be 722310000: Reply to VA and 722310001: Response from VA",
                 "enable_reply": true,
-                "isPersonal": true,
                 "attachmentNames": [
                     {
                         "id": "012345", 
