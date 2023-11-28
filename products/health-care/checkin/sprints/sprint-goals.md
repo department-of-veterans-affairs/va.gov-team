@@ -16,6 +16,7 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
      - **Sub Goal: Remove Logging for Certain 40x Errors**
      - **Sub Goal: Switch Components to Design System v. 3**
+     - **Sub Goal: Adhere to VA Content Guidelines for H1 Character Counts**
  
 #### PLANNED RELEASES 
 - ❗ 🟩 [Roll Out on 12/4 to ALL VISNs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)
@@ -73,6 +74,9 @@ ________________________________________________________________________________
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
         - 🟩 [[FE] Update slim alerts to USDWS v3 in production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65493)
         - 🟥 [[Design] Switch body and links to v3 in Production file and Unified Check In file on Design Page (and symbols)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70661)
+    - **Sub Goal: [Adhere to VA Content Guidelines for H1 Character Counts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70676)**
+         - 🟥 [[UX][Content] Audit production and unified check-in headings](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70673)
+
      
 ---------- END FUTURE / TENTATIVE --------------
 __________________________________________________________________________________________________________________________________________________________
