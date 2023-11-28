@@ -28,7 +28,7 @@ Note: The CRM team will share endpoint designs with the front-end team as they c
 Status | [GET /ping](Status_Ping.md) | Dynamics | 🟩 | 🟨 | integration | Khoa pending correct configuration to test in staging  | 
 Form | [GET /topics?{id}](Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | 
 Form | [GET /announcements](Form_RetrieveBannerMessage.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
-Form | [GET /inquiry?{num}](Form_RetrieveInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | | 
+Form | [GET /inquiry?{num}](Form_GetInquiry.md) | Dynamics | 🟨 | ⬜ | design | | 
 Dashboard | [GET /inquiry/{id}/replies](Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
 Form | [GET /schools?{code}](Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
 Form | [PUT /inquiry/new](Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
