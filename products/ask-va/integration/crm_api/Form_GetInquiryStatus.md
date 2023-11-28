@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /inquiry/:inquiryNumber:/status
+**Path**: /inquirystatus?:inquiryNumber:
 
 **Parameters**:
 | Name | Type | Description |
