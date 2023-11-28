@@ -126,6 +126,7 @@ _Why would your business want this to exist?_
 
 - [My VA Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
 - [My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
+- [Additional analytics resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/product/analytics)
 
 ## Projects
 
