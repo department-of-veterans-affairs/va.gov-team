@@ -19,6 +19,7 @@ Application exists on VA.gov in a published, authenticated state, but can only b
 
 - Public websites, My VA continue to point users to the MHV application. 
 
+*Currently, all pages are available in production (with mock data) if a user knows the URL, however we have a fix for this that will be implemented soon.*
 
 
 ## Phase 0: Pre-Rollout Readiness Checklist 
@@ -58,7 +59,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
       - [ ] MHV Coordinators  
 
-      - [ ] Facility POCs 
+      - [ ] Facility POCs
+ 
+      - *Product guide has no changes planned until ready for Phase 1*
 
 - [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
@@ -74,9 +77,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Technical instrumentation is in place to track GA 
 
-- [ ] All steps of the collaboration cycle are complete  
+- [ ] All steps of the collaboration cycle are complete; *Per agreement with Platform team, collab cycle willl be reengaged as all domains are ready for Phase 1*
 
-- [ ] All the MUST feedback complete 
+- [ ] All the MUST feedback complete; *Replicating the feedback from Allergies staging review for all domains, MHV-51155*
 
 - [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
@@ -94,19 +97,18 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Accessibility 
 
-- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
-
+- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed; *Confirming with Bobby that outcomes will be documented in GitHub*
 
 
 ### UX/UI  
 
-- [ ] Key design decisions added to decision log 
+- [ ] Key design decisions added to decision log; *Sketch?*
 
-- [ ] Design documentation & briefs are up-to-date and linked in product Github 
+- [ ] Design documentation & briefs are up-to-date and linked in product Github; *Bryan will check our product outline and guide in GitHub to ensure it's updated*
 
-- [ ] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
+- [ ] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks; *Breadcrumbs currently contain one higher page in the hierarchy*
 
-- [ ] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
+- [X] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
 
 - [X] Product content approved and QAd/copy edited
 
@@ -117,40 +119,44 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Engineering  
 
-- [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
+- [X] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-- [ ] All pages/components have latest content
+- [ ] All pages/components have latest content; *MHV-52038, waiting on https://github.com/department-of-veterans-affairs/vets-website/pull/26859*
 
-- [ ] Unit test coverage is sufficient 
+- [X] Unit test coverage is sufficient 
 
-- [ ] Accessibility test coverage is sufficient 
+- [ ] Accessibility test coverage is sufficient; *Needs additional attention* 
 
-- [ ] End-to-end test coverage is sufficient 
+- [ ] End-to-end test coverage is sufficient; *Needs additional attention* 
 
-- [ ] Functional issues resolved 
+- [ ] Functional issues resolved; *Confirm that vaccines MHV/FHIR work has been deployed to prod* 
 
-- [ ] Engineering information documented and stored in GitHub 
+- [X] Engineering information documented and stored in GitHub;
 
-- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page
+     - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png*
+     - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png*
+     - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/process/phr-refresh.md*
+
+- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page; *Marci is investigating this item*
  
 
 ### Performance and Monitoring  
 
-- [ ] Application performance SLOs exist 
+- [ ] Application performance SLOs exist; *MHV-52177, SLOs in preparation for Phase 1*
 
-- [ ] Downstream services tested at 2x average load for prior 12 months 
+- [ ] Downstream services tested at 2x average load for prior 12 months; *MHV-52176, load testing in preparation for Phase 1* 
 
-- [ ] DataDog monitors exist 
+- [ ] DataDog monitors exist; *MHV-51521*
 
-- [ ] Alerts exist 
+- [ ] Alerts exist; *MHV-51521* 
 
    - PagerDuty 
 
     - Slack 
 
-- [ ] On-call rotation exists 
+- [ ] On-call rotation exists; *Set up notifications for that channel*
 
-- [ ] Technical support escalation policy exists 
+- [ ] Technical support escalation policy exists; *Marci will investigate, possibly for Phase 1*
 
  
 ### Analytics & Metrics  
@@ -161,21 +167,23 @@ For an application to enter rollout Phase 0, the following must be true:
 
     - Access 
 
-    - Dashboard exists 
+    - Dashboard exists; *Bryan will investigate w/ Anne*
 
 - [ ] Domo 
     - Access 
 
-    - Dashboard exists 
+    - Dashboard exists; *Mike will investigate*
 - [ ] Datadog 
      - Access 
 
-     - Dashboard exists 
+     - Dashboard exists; *MHV-51520*
 
      - RUM code implemented
 
 
 ### Legal & Policy  
+
+*Marci will follow up on these items*
 
 - [ ] Application reviewed for potential legal implications 
 
