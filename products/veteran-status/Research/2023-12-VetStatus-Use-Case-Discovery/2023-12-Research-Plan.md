@@ -25,9 +25,7 @@ This research fits into all of the Veteran’s Journey post-service, but most sp
 
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+This study will explore how and when veterans use veteran discounts at retail service providers.  We will learn more about how and when veterans use veteran specific discounts in retail stores and non-VA health care providers; what their current process is (when, where, medium, etc), what tools they use and what stumbling blocks they encounter. 
 
 ### Outcome
 This research will provide greater insight into the veterans’ experience accessing veteran discounts.  This will inform content and approach for the Veteran Status product as documented in the Product Brief.  
@@ -57,9 +55,9 @@ Data collection will be remote and conducted using Zoom.
 
 We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean.  Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes.
 
-Tuesday, 12/5/22 11am EST
-Tuesday, 12/5/22 11:30am EST
-Tuesday, 12/5/22 2pm EST
+- Tuesday, 12/5/22 11am EST
+- Tuesday, 12/5/22 11:30am EST
+- Tuesday, 12/5/22 2pm EST
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
 
