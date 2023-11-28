@@ -1,16 +1,12 @@
-<br>**This is a template, PLEASE MAKE A COPY**
-
----
-
 # Dependents Research, September 2023, Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Dependent Verification, Benefits and Claims - Dependent Experience**
 
 Date: 11/24/2023
 
-Julie Pedtke julie.pedtke@coforma.io, Ajia Wallace ajia.wallace@softrams.com 
+Julie Pedtke [julie.pedtke@coforma.io](mailto:julie.pedtke@coforma.io), Ajia Wallace [ajia.wallace@softrams.com](mailto:ajia.wallace@softrams.com)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf)
 
 **Jump to:**
 
@@ -22,12 +18,22 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Are there moments that matter?
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+- Getting out: Engaging VA to access benefits and services
+- Putting down roots: Taking care of my family
+- Retiring: Finding additional sources of income
+
+Veterans can get additional compensation for a qualified spouse, child, and parent if they have a combined disability rating of at least 30%. To verify dependent status, VA mails Form 21-0538 to Veterans with dependents only every eight years. The burden is on the Veteran to notify VA of any changes in dependent status in between these infrequent notifications. This results in significant over and underpayments, costing VA ~ $250 million per year and burdening Veterans with debt.
+
+An online dependent verification feature was developed in 2021, but was put on pause due to concerns with its limited reach. 
+As an MVP, we are developing an annual email notification to remind Veterans to verify their dependents more frequently. We’re also exploring future enhancements and new features.
+
+The purpose of this research was to:
+- Learn how Veterans understand dependent benefits and risks as they relate to compensation, and how they navigate the process today.
+- Evaluate the perceived trustworthiness and effectiveness of our proposed notification.
+- Learn Veterans’ device and notification preferences.
 
 
 
