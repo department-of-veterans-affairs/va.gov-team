@@ -68,20 +68,21 @@ We work on nearly every OCTO product and manage all unauthenticated content on V
 ### Your timeline 
 - [ ] Check yes, if this request is tied to a Congressional mandate or timeline? 
 
-#### Description
-Describe where you are in your project's timeline. For example, you may be drafting content, planning or synthesizing research, waiting on an SME review, or scheduling your MVP launch date. Add dates for any upcoming milestones.
+### Description
+**Describe where you are in your project's timeline.** 
+_For example, you may be drafting content, planning or synthesizing research, waiting on an SME review, or scheduling your MVP launch date. Add dates for any upcoming milestones._
 
 `Description goes here`
 
 ### Collaboration cycle 
-- If you’re going through the collaboration cycle with the governance team, link to the ticket:
-    - **Ticket Number:** `xxxxxx`
-    - **Ticket Opened:** `xx/xx/xxxx`
-- If you’re not going through the collaboration cycle, or you’re unsure, check here and we can follow up: 
+If you’re going through the collaboration cycle with the governance team, link to the ticket:
+- **Ticket Number:** `xxxxxx`
+- **Ticket Opened:** `xx/xx/xxxx`
+- If you’re not going through the collaboration cycle, or you’re unsure, check here, and we can follow up: 
     - [ ] Not going through collab cycle
     - [ ] Unsure
 
-**Note**: We ask that you partner with us before scheduling your midpoint review, to ensure we can agree on a deliverable and that there's time for your team to make changes.  
+**Note**: We ask that you partner with us **before** scheduling your midpoint review, **to ensure** we can agree on a deliverable and that there's time for your team to make changes.  
 
 #### Phases Completed
 **Check any phases you’ve already completed: **
@@ -99,8 +100,7 @@ Please provide links to any supporting artifacts we might need to begin work. Th
     - A member of the CAIA team will aim to respond to your Slack message within 24 hours to acknowledge receipt - should we need any additional information regarding your request we will reach out to you to confirm.
     - The CAIA Operations group will meet to go over the info in your request and then reach out if we have any questions.
     - Depending on the request, it may make sense to schedule a kickoff meeting to better understand how we'll partner with you!
-See tasks.
-- [ ] Please review the VFS Team Tasks below.
+- [ ] Please review the remaining next steps in the **VFS Team Tasks** section, listed below.
 
 ## TASKS
 
@@ -116,24 +116,26 @@ See tasks.
 
 ```[tasklist]
 ### a11y Tasks
-- [ ] https://github.com/department-of-veterans-affairs/va.gov-team/issues/67921
-- [ ] https://github.com/department-of-veterans-affairs/va.gov-team/issues/68979
+- [ ] A11y Task 1
+- [ ] A11y Task 2
 ```
 
 ```[tasklist]
 ### Content Tasks
-- [ ] Content task 1
+- [ ] Content Task 1
+- [ ] Content Task 2
 ```
 
 ```[tasklist]
 ### IA Tasks
-- [ ] Jenny does a quick audit of all the things
+- [ ] IA Task 1
+- [ ] IA Task 2
 ```
 
 ```[tasklist]
 ### CAIA Ops
-- [x] Set up kickoff meeting - Terry/Lily
-- [ ] Provide deliverable to VFS team
+- [x] Set up kickoff meeting - @coforma-terry and @strelichl 
+- [ ] Provide GitHub Deliverable to VFS team post kickoff
 ```
 
 
