@@ -18,6 +18,7 @@ Where does your product fit into the [Veteran journey]? This product would fall 
 What are you trying to learn from this research? 
 
 Goal 1: Have some foundational research to figure out how Veterans interact with the supply reordering tool 
+
 Goal 2: What do Veterans know and need to reorder different supply types than we currently have in the tool (like TENS units, nebulizers, blood pressure monitors)
 ### Outcome
 We want to determine if the current process is serving the veterans needs and is as intuitive as possible for the future state of this product. How can the process/content we share improve?
