@@ -19,7 +19,7 @@ ________________________________________________________________________________
      - **Sub Goal: Adhere to VA Content Guidelines for H1 Character Counts**
  
 #### PLANNED RELEASES 
-- ❗ 🟩 [Roll Out on 12/4 to ALL VISNs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)
+- ❗ 🟩 [Roll Out Travel and 45-minute Features to All VISNs on 12/5](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**     
@@ -27,7 +27,7 @@ ________________________________________________________________________________
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
-       - ❗ 🟩 [Roll Out on 12/4 to ALL VISNs](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)     
+       - ❗ 🟩 [Roll Out Travel and 45-minute Features to All VISNs on 12/5](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)     
     - **Sub Goal: [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)**
        - ❗ 🟩 [[FE]Create Review Page in eCheck-in flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68085)
        - ❗ 🟥 [[UX][Analytics] Add widget in GA Dashboard to pull in button and link selects on Review Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70484)
