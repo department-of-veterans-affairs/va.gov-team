@@ -79,7 +79,7 @@ Specifically for the health care section, once we add this link, we'll monitor t
 [GA report](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20231120&_u.date01=20231126/)
 
 |KPI| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
-|--------------------------|-------------------|---------------|---------------|-------------|-------------|----|----|----|
+|--------------------------|-------------------|---------------|---------------|-------------|
 | Engagement with MHV link |                   |               |               |             |             |    
 
 #### Hypothesis 3: tk...
