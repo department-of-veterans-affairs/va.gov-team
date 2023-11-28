@@ -59,8 +59,12 @@ Conversation guide (coming soon)
 ## Timeline 
 * Write conversation guide 
   * Sprint 98 (Nov 22 – Dec 5) 
-* Pilot session, recruitment, and research sessions 
-  * Over the course of Sprint 99 (Dec 6 – Dec 19) and Sprint 100 (Dec 20 – Jan 2) 
+* Pilot session and recruitment 
+  * Sprint 99 (Dec 6 – Dec 19)   
+* Research session 1
+  * Sprint 100 (Dec 20 – Jan 2)
+* Research session 2
+  * Sprint 101 (Jan 3 - Jan 16)
 
 ## Team Roles
 * Moderator: Jo Agnitti 
