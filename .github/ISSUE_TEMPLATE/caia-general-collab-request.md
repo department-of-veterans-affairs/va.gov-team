@@ -95,7 +95,12 @@ Please provide links to any supporting artifacts we might need to begin work. Th
 
 
 ## Next steps
+- [ ] Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag `@Terry Nichols`.
+    - A member of the CAIA team will aim to respond to your Slack message within 24 hours to acknowledge receipt - should we need any additional information regarding your request we will reach out to you to confirm.
+    - The CAIA Operations group will meet to go over the info in your request and then reach out if we have any questions.
+    - Depending on the request, it may make sense to schedule a kickoff meeting to better understand how we'll partner with you!
 See tasks.
+- [ ] Please review the VFS Team Tasks below.
 
 ## TASKS
 
@@ -103,7 +108,6 @@ See tasks.
 
 ```[tasklist]
 ### VFS Team Tasks
-- [ ] Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag `@Terry Nichols`. A member of the CAIA team will aim to respond to your Slack message within 24 hours to acknowledge receipt - should we need any additional information regarding your request we will reach out to you to confirm. The CAIA Operations group will meet to go over the info in your request and then reach out if we have any questions. Depending on the request, it may make sense to schedule a kickoff meeting to better understand how we'll partner with you!
 - [ ] If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
 - [ ] If you need a page/URL redirected, a URL changed or a vanity URL set up, please submit a [Redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+jilladams%2C+RLHecht&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request)
 - [ ] If you are creating an [experimental design,](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) please [also contact the DST. ](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
