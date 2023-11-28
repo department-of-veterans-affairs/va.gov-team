@@ -15,8 +15,8 @@ Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictu
 
 ### 2-3 days before the session
 
-- [ ] Confirm notetaker availability
-- [ ]  Let notetaker know if anything has changed in the conversation guide
+- Confirm notetaker availability
+- Let notetaker know if anything has changed in the conversation guide
 
 
 ### Day of the session
@@ -38,15 +38,15 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Cara and I'm a Researcher with the VA.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today, I’d like to ask you some questions about how you access and use discounts provided to veterans by retailers.  
 
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 - 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -54,7 +54,6 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
@@ -67,54 +66,53 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Current VA benefits usage
 
-Before we look at the website, let’s start with a few warm-up questions.
+**1**. What kinds of devices do you use?  How comfortable are you with each one?
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+**2.** How do you currently access VA benefits and services? What do you do digitally and what do you do in person? How do you decide what to do?
 
-## First Task: [TASK NAME] - X minutes
+**3.** What veteran IDs do you currently have?  Which have you had in the past, post - service? Tell me about how you use them.
 
-- Step 1
-- Step 2
+**4.** Have you ever submitted for travel reimbursement from the VA?
+      - If yes: How did you do so? Online? Kiosk? Mail?  What made you do so?  Why did you pick online/mail/kiosk?
 
-### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+## Current discount usage
 
-## Second Task: [TASK NAME] - X minutes
+**5.**  What retailers or retail categories would you say you shop at regularly? 
+      
+      - What do you shop in-store?
+      - What do you shop online?
 
-- Step 1
-- Step 2
+**6.**  Historically, how have you learned about veteran specific discount programs?  Where have you learned about them?
 
-### Things to watch for:
+**7.**  When was the last time you successfully  used a veteran specific discount at a retailer or non-VA healthcare facility? 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+**8.**  Tell me about the last time you used a veteran discount.
+      
+      - Why did you want to use it?
+      - Where were you?  What was it for?
+      - How did you access the discount?  
+      - Did you plan to use the discount before you went shopping?
 
-## Third Task: [TASK NAME] - X minutes
+**9.**  Have you ever tried to access a veteran discount offered by a service provider but been denied?
+     
+      - Tell me about this experience.  
+      - Where were you? What discount were you trying to access?
+      - Who denied the discount? (Cashier, manager, etc.)
+      - What reason were you given for the denial?
 
-- Step 1
-- Step 2
+**10.**  Have you ever wanted to use a veteran specific discount but been able to do so? Any experience in line with what we have discussed that we have not covered?   
 
-### Things to watch for:
+## Desired usage
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+**11.**  We have talked about how you currently use and access veteran discounts, but if it were up to you, how would you like to access veteran specific discounts? Tell me how you would use and access these discounts.  
 
-## Post-Task Interview - X minutes
+_Time permitting_
 
-- Question 1
-- Question 2
-- Any questions for me? 
+**12.**  Where would you expect to find these tools?  Where would you like to access them?
+
 
 ## Consent to use video clips
 
@@ -122,7 +120,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing 
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
