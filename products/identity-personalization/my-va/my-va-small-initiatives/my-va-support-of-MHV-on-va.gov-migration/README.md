@@ -65,20 +65,21 @@ Specifically for the health care section, once we add this link, we'll monitor t
 
 **Key Result: We see a decline in engagement on the health care secondary links on My VA** (_within margin as determined by average fluctuation prior to launch_) 
 
-|KPI|Baseline: <br />4 weeks pre-launch <br />(mm/dd/yy - mm/dd/yy)| Baseline: <br />3 weeks pre-launch <br />(mm/dd/yy - mm/dd/yy)| Baseline: <br />2 weeks pre-launch <br />(mm/dd/yy - mm/dd/yy)| Baseline: <br />1 week pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
+|KPI|Baseline: <br />4 weeks pre-launch <br />(10/30/23 - 11/5/23)| Baseline: <br />3 weeks pre-launch <br />(11/6/23 - 11/12/23)| Baseline: <br />2 weeks pre-launch <br />(11/13/23- 11/19/23)| Baseline: <br />1 week pre-launch <br />(11/20/23 - 11/26/23)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
 |------------------------------------------------------------------------------|------------------|---------------|---------------|-------------|---|---|---|---|
-| Engagement with "Go to your inbox" link                                      |                  |               |               |             |   |   |   |   |      
-| Engagement with "Schedule and manage your appointments" link                 |                  |               |               |             |   |   |   |   |   
-| Engagement with "Refill and track your prescriptions" link                   |                  |               |               |             |   |   |   |   |
-| Engagement with "Request travel reimbursement" link                          |                  |               |               |             |   |   |   |   |    
-| Engagement with "Get your VA medical records and lab and test results" link  |                  |               |               |             |   |   |   |   |   
+| Engagement with "Go to your inbox" link                                      |     40,417       |    37,238     |    48,019     |    34,101   |   |   |   |   |      
+| Engagement with "Schedule and manage your appointments" link                 |     26,570       |    24,821     |    28,295     |    19,924   |   |   |   |   |   
+| Engagement with "Refill and track your prescriptions" link                   |     22,322       |    21,896     |    25,577     |    19,398   |   |   |   |   |
+| Engagement with "Request travel reimbursement" link                          |      8,707       |     8,321     |     9,725     |     6,886   |   |   |   |   |    
+| Engagement with "Get your VA medical records and lab and test results" link  |     13,338       |    13,290     |    15,163     |     9,977   |   |   |   |   |   
 
 #### Hypothesis 2: We will initially see significant engagement with the new link to MHV
 
 **Key Result: ...tk...**
+[GA report](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20231120&_u.date01=20231126/)
 
-|KPI|Baseline: <br />1 month pre-launch <br />(mm/dd/yy - mm/dd/yy)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
-|--------------------------|-------------------|---------------|---------------|-------------|-------------|
+|KPI|Baseline: <br />4 weeks pre-launch <br />(10/30/23 - 11/5/23)| Baseline: <br />3 weeks pre-launch <br />(11/6/23 - 11/12/23)| Baseline: <br />2 weeks pre-launch <br />(11/13/23- 11/19/23)| Baseline: <br />1 week pre-launch <br />(11/20/23 - 11/26/23)| Week 1 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 2 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 3 post-launch<br />(mm/dd/yy - mm/dd/yy)| Week 4 post-launch<br />(mm/dd/yy - mm/dd/yy)|
+|--------------------------|-------------------|---------------|---------------|-------------|-------------|----|----|----|
 | Engagement with MHV link |                   |               |               |             |             |    
 
 #### Hypothesis 3: tk...
