@@ -31,6 +31,7 @@
 2) When documentation sync is complete, the phase will go to "development" with two white boxes until development starts.
 3) When development starts, the box will go yellow.
 4) When an endpoint is deployed to staging, the box will go green and the phase will go to "integration".
+5) When integration testing is complete and the endpoint has been deployed to production, the status will go to "production"
 
 ## Status
 
