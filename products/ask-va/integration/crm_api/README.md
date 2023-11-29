@@ -1,27 +1,21 @@
-## README.md
+# API Integration Status
 
-This is the list of APIs that the VA.gov UI will consume, in priority order. The priority was determined by:
+|Color | Status | Description |
+|---|---|---|
+⬜ | Not Started | Not started |
+🟨 | In Progress | design or development work has begun |
+🟦 | Paused | research is incomplete or product decisions need to be made |
+🟩 | Done | endpoint is deployed and accessible in staging environment |
+🟥 | Blocked | work cannot continue until issues are resolved |
 
-1. Ping endpoint first, as the simplest test of the plumbing.
-2. Form APIs before Dashboard APIs (since we'll be working on Forms first).
-3. APIs that can only be fed by Dynamics APIs (data that only lives in Dynamics).
-4. All other endpoints, in the general order that we plan to attack them.
 
-## Hey! The Links Don't Work!
+| Phase | Description |
+|:---:|---|
+| design | documentation being generated and synced between teams | 
+| development | design is complete and both teams are working on building their respective endpoint |
+| integration | endpoints are deployed to staging for both teams. Communication between the endpoints is being validated |
+| production | endpoints are deployed to production for both teams. |
 
-The links in this document are intentionally disabled. The AVA CRM Team and the AVA FE Team are currently collaborating on the API design and definitions. As the details are ironed out, the subordinate pages will be cleaned up and linked from this document.
-
-## API Integration Status
-
-|Color | Status |
-|---|---|
-⬜ | Not Started |
-🟨 | In Progress |
-🟦 | Paused |
-🟩 | Done |
-🟥 | Blocked |
-
-Note: The CRM team will share endpoint designs with the front-end team as they complete them.
 
 | Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes |
 |---|---|---|:---:|:---:|---|---|
