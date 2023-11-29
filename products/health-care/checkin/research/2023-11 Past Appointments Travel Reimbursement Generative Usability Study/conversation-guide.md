@@ -174,6 +174,9 @@ _**Participant starts at Email:**_
   - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
   - Is there anything confusing about this?
 
+_**Participant is at Mock Sign in page:**_
+- At this point you'd need to sign in to va.gov, but go ahead and choose any option, since this is just a prototype that is representing the sign in steps.
+
 _**Participant is at Appointment list:**_
 
 - Ok, I’ll have you stop here. Was there anything confusing about that process? 
