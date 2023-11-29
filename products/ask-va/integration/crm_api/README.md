@@ -1,5 +1,12 @@
 # API Integration Status
 
+## Notes
+* AVA CRM Team maintains an API Contract document that lives separately from this repo.
+* The documentation here is kept in sync with the AVA CRM Team API Contract document
+* The endpoints described here are between AVA FE's backend and the AVA CRM Team's API
+
+## Legend
+
 |Color | Status | Description |
 |---|---|---|
 ⬜ | Not Started | Not started |
@@ -16,6 +23,7 @@
 | integration | endpoints are deployed to staging for both teams. Communication between the endpoints is being validated |
 | production | endpoints are deployed to production for both teams. |
 
+## Status
 
 | Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes |
 |---|---|---|:---:|:---:|---|---|
