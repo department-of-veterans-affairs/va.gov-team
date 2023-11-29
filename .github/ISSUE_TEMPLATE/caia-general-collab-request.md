@@ -78,10 +78,9 @@ _For example, you may be drafting content, planning or synthesizing research, wa
 ## Collaboration cycle 
 If you’re going through the collaboration cycle with the governance team, link to the ticket:
 - **Ticket Number:** `xxxxxx`
-- **Ticket Opened:** `xx/xx/xxxx`
 - If you’re not going through the collaboration cycle, or you’re unsure, check here, and we can follow up: 
     - [ ] Not going through collab cycle
-    - [ ] Unsure
+
 
 **Note**: We ask that you partner with us **before** scheduling your midpoint review, **to ensure** we can agree on a deliverable and that there's time for your team to make changes.  
 
