@@ -5,8 +5,8 @@ Under the IDEA Act, all user facing forms need to be digitized. Form 10-10d is t
 ## Problem Statement
 Veterans and family members of Veterans must currently download and fill out the PDF and then mail it in for processing. They need an easy way to access and complete the forms digitally.
 
-How might we make it easier for family members and beneficiaries to apply for and receive benefits?
-How might we improve the experience of family members and beneficiaries applying for benefits online?
+- How might we make it easier for family members and beneficiaries to apply for and receive benefits?
+- How might we improve the experience of family members and beneficiaries applying for benefits online?
 
  
 ## Desired User Outcomes
@@ -18,9 +18,9 @@ How might we improve the experience of family members and beneficiaries applying
 5. Veterans and family members receive a notification letting them know their form was successfully submitted or not. 
 
 ## Undesired User Outcomes
-Confusion around online application process and steps
-Application takes longer to fill out online than the PDF form
-Uncertainty around personal information being submitted online
+- Confusion around online application process and steps
+- Application takes longer to fill out online than the PDF form
+- Uncertainty around personal information being submitted online
 
 
 ## Desired Business Outcomes
