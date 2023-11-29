@@ -71,11 +71,11 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `School facility`||
 |All other categories|Don't include school fields||
 
-## Medical facility
+## `Medical facility`
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`||
 |Category = `Health care` and topic = all other topics|Don't include medical facility||
 |Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`||
-|Category = `Debt` and topic ≠ `Health care copay detb`|Don't include medical facility||
-|All other categories|Don't include medical facility||
+|Category = `Debt` and topic ≠ `Health care copay detb`|Don't include `Medical facility`||
+|All other categories|Don't include `Medical facility`||
