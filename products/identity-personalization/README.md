@@ -22,7 +22,7 @@
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
-|Daniel Miller| Full Stack Engineer|...|
+|Daniel Miller| Full Stack Engineer|daniel.miller@agile6.com|
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 
 ## Our products

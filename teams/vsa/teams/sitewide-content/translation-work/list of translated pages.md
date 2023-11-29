@@ -18,3 +18,5 @@
 | [The Program of Comprehensive Assistance for Family Caregivers](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/) | Spanish | 9/7/23 |
 | [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim-esp/) | Spanish | 10/20/23 |
 | [Report harassment or sexual assault at VA](https://www.va.gov/report-harassment-esp/) | Spanish | 10/20/23 | 
+| [Accessibility at VA](https://www.va.gov/accessibility-at-va-esp) | Spanish | 11/15/23 | 
+| [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation-esp/) | Spanish | 11/16/23 | 

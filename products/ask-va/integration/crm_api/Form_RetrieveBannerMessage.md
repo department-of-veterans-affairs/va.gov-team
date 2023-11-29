@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /alerts
+**Path**: /announcements
 
 **Parameters**:
 None
@@ -16,7 +16,7 @@ None
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|Logged in user's ICN|
 
 ## Response
 
@@ -33,7 +33,18 @@ None
     "status": { 
         "code": 200, 
         "message": "OK", 
-        "data": ["Issue 1 that is Impacting Submitters", "Issue 2 that is Impacting Submitters"] 
+        "data": [
+            { "text": "Issue 1 that is Impacting Submitters",
+              "startDate": "2023-10-31T01:30:00.000-05:00",
+              "endDate":   "2023-11-28T01:30:00.000-05:00",
+              "isPortal":  true
+            },
+            { "text": "Issue 2 that is Impacting Submitters",
+              "startDate": "2023-10-31T01:30:00.000-05:00",
+              "endDate":   "2023-11-28T01:30:00.000-05:00",
+              "isPortal":  false
+            }
+         ] 
     }
 }
 ```
@@ -44,4 +55,4 @@ None
 
 ## Notes
 
-* CC: This endpoint is necessary to retrieve any known issues on the portal that impact submitters or if we have planned maintenance an SA in CRM is able to create messages that display on the portal
+* ~CC: This endpoint is necessary to retrieve any known issues on the portal that impact submitters or if we have planned maintenance an SA in CRM is able to create messages that display on the portal~

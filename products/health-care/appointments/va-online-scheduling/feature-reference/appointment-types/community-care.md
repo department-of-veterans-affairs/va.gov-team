@@ -25,7 +25,7 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | Status: Canceled                                           |          |      | ✅        |
 | Type of Care                                               | ✅        | ✅    | ✅        |
 | Provider Name                                              | ✅        | ✅    | ✅        |
-| Treatment Specialty                                        | ✅        | ✅    | ✅        |
+| Treatment Specialty*                                        | ✅        | ✅    | ✅        |
 | Provider Address                                           | ✅        | ✅    | ✅        |
 | Directions Link                                            | ✅        | ✅    | ✅        |
 | Provider Phone Number                                      | ✅        | ✅    | ✅        |
@@ -33,6 +33,8 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | Call to Reschedule Alert                                   | ✅        |      |          |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
+
+*See: [Treatment Specialty](../data-definitions.md#treatment-specialty)
 
 ## Specifications
 

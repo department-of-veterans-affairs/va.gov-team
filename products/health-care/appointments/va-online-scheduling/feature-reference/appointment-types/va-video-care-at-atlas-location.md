@@ -30,7 +30,7 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 | Type of Care                                               | ✅        | ✅    | ✅        |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
-| ATLAS Location Name                                        | ✅        | ✅    | ✅        |
+| ATLAS Location Name                                        | 1        | 1    | 1        |
 | ATLAS Location Address                                     | ✅        | ✅    | ✅        |
 | Directions Link                                            | ✅        | ✅    | ✅        |
 | Appointment Code                                           | ✅        |      |          |
@@ -38,6 +38,8 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 | Call to Reschedule Alert                                   | ✅        |      |
+
+1. ATLAS location name data should be included but is not currently available. - PR 11/20/2023
 
 ## Specifications
 

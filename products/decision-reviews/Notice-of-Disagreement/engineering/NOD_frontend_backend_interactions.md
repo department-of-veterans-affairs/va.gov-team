@@ -6,9 +6,8 @@
 
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
-| BGS                  | -                  | 200        | Starts form. Shows Veteran details [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/bc348c63-6670-4a26-bca8-0efd77cdb7b3)
-|                      |                    | Any other  | Starts form. Shows Veteran details without SSN or VA file number [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/366f09ee-8121-43c6-a017-5d2a23d13317)
-
+| BGS                  | -                  | 200        | Starts form. <br> Shows Veteran details [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/bc348c63-6670-4a26-bca8-0efd77cdb7b3)
+|                      |                    | Any other  | Cannot start form. <br> -
 
 ## Prefill Veteran Contact Information
 
@@ -17,7 +16,7 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | Vet360               | -                  | 200        | Shows Veteran contact information
-|                      |                    | Any other  | -
+|                      |                    | Any other  | Cannot start form. <br> -
 
 ## Get Contestable Issues
 
@@ -26,7 +25,7 @@
 | External System(s)   | # of occurences    | Responses  | Outcome / Message
 | -------------------- | ------------------ | ---------- | --------- 
 | Lighthouse           | 1 per submission   | 200        | Shows list of contestable issues
-|                      |                    | Any other  | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/51d7d945-f75a-4305-a4ad-8e6eca06abf8)
+|                      |                    | 404, 502, 403, 504, Any other | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/51d7d945-f75a-4305-a4ad-8e6eca06abf8)
 
 
 ## Evidence Upload (before submission) 
@@ -66,3 +65,4 @@
 | -------------------- | ------------------------- | ---------------------------- | --------- 
 | N/A (only vets-api)  | Many per submission       | 200                          | Slim success alert. <br> We've saved your application. We saved it on `Date`, at `time`. Your application ID number is `ID number` [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/7f56ad4e-27f2-42f0-a4b3-ed6824125380)
 |                      |                           | Any other                    | Slim error alert. <br> We're sorry. We're unable to connect to VA.gov. Please check that you're connected to the Internet, so we can save your application in progress. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/2f1003f9-f390-4d80-bb4d-e3e7a2911407)
+|                      |                           | 400, 504, 403, 404, 401      | Slim error alert. <br> We're sorry, but we're having some issues and are working to fix them. You can continue filling out the request, but it will not be automatically saved as you fill it out. [Screenshot](https://user-images.githubusercontent.com/14334046/282623512-85b993f5-9983-471f-9c10-7e803c0f1021.png)

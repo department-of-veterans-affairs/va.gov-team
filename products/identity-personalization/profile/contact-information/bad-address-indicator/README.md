@@ -126,6 +126,7 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 
 ### Metrics to track once the email notification goes out
 
+The metrics weeren't ultimately tracked when launched. [The GA Dashboard for this can be found here.](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 <details>  <summary>Bad address email</summary>  
 
 ### Objective: Reduce number of people with the bad address indicator

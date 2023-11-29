@@ -4,6 +4,8 @@
 
 A scheduled examination that is scheduled as part of filing a disability claim.
 
+See: [VA Claim Exam (C&P Exam)](https://www.va.gov/disability/va-claim-exam/)
+
 ## User stories
 
 See [user stories for all appointment types](./all-appointment-types#user-stories.md).
@@ -33,6 +35,10 @@ See [user stories for all appointment types](./all-appointment-types#user-storie
 | Call to Reschedule Alert                                   | ✅         | ✅    | ✅        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅    | ✅        |
+
+## Technical note
+
+A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with the type of care "Claim exam".
 
 ## Specifications
 

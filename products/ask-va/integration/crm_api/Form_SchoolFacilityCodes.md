@@ -36,13 +36,13 @@
         "code": 200, 
         "message": "OK", 
         "data": {
-          "facility": "Facility A",
-          "address1": "123 Fake Street",
-          "address2": "",
-          "city": "Somewhere"
-          "state": "Somestate"
-          "zip": "12345"
-          "phone": "1234567890"
+            "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
+            "city": "Somewhere"
+            "state": "Somestate",
+            "name": "10000013 - US Department of Justice Bureau",
+            "code": "10000013",
+            "institutionName": "US Department of Justice Bureau",
+            "regionalOffice": "307 - Buffalo"
         }
     }
 }
@@ -71,3 +71,7 @@
 
 * CC: There are at least 50k of these.  We do not currently update the list from the SoR, but an Agent could add/update one at any time.
 * SoR (System of Record) is [WEAMS](https://www.va.gov/education/gi-bill-comparison-tool/)
+* states are abbreviated with certain exceptions: 
+```
+50 states + DC, American Samoa (AS), Guam (GU), Phillippines (PH), Puerto Rico (PR), US Virgin Islands (VI).  Then the 2 that dont have abbreviations: "Trust Territories", and "Foreign/Other"
+```

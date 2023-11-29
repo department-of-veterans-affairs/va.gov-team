@@ -793,7 +793,7 @@ VA Video Connect at home
 You can join this meeting from your home or anywhere you have a secure internet connection.
 You can join VA Video Connect up to 30 minutes prior to the start time.
 
-Join appointment
+{Button with label: Join appointment}
 
 You'll be meeting with
 {Provider name}
@@ -1095,12 +1095,17 @@ none
 ```
 Type of care: {Type of Care}
 
-VA Video Connect using a VA device
+VA Video Connect using VA device
 
-You can join this video meeting using a device provided by VA.
+You can join this meeting from your home or anywhere you have a secure internet connection.
+You can join VA Video Connect up to 30 minutes prior to the start time.
 
-You'll be meeting with
+{Button with label: Join appointment}
+
+Provider
 {Provider name}
+
+
 ```
 
 ```Add to calendar```
@@ -1113,22 +1118,8 @@ Need to make changes?
 Contact this facility if you need to reschedule or cancel your appointment:
 
 {Facility name}
-Type of care: {Type of Care}
-
-VA Video Connect at a VA location
-
-You must join this meeting from this VA location:
-
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Clinic location}
 Main phone: {phone number} (TTY: 711)
 
-You'll be meeting with
-{Provider name}
 ```
 
 ---
@@ -1164,7 +1155,7 @@ This appointment occurred in the past.
 Type of care: {Type of Care}
 
 
-VA Video Connect using a VA device
+VA Video Connect using VA device
 
 Provider
 {Provider name}
@@ -1207,7 +1198,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 ```
 Type of care: {Type of Care}
 
-VA Video Connect using a VA device
+VA Video Connect using VA device
 
 Provider
 {Provider name}

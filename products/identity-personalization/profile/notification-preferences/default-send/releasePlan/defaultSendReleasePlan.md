@@ -112,10 +112,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### 1-week results at 100%
 ||Results|
 |---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|Number of unique users:|Edit as a subtask:958  Default Send:8,479|
+|Any issues with VA handling/processing?|Nothing abnormal|
+|Types of errors logged:| standard errors we've seen prior to launch (really only changed the UI so nothing else changed)|
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?|none|
 |If yes, what:||
 
 

@@ -1,5 +1,58 @@
 # Design Weekly Sync Agenda
 
+## 2023-11-27
+Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, and Alex
+
+EZR issues discussed
+- Save-in-Progress
+    - The main consideration is a visual alert, similar experimental design of the Platform System team.
+    - Option 1: alert message within the multiple-response component card.
+    - Option 2: alert above the card, with the name listed.
+    - Kristen inquired if the component had been tested with the alert. Angela later confirmed that it had not been tested.
+    - Team needs to discuss with Dev if it is possible to bring the user to the incompleted page.
+    - The team has not discussed or mocked what this would look like on the Review Page.
+- Mean Test Status, Alert (Pending vs Enrolled)
+    - For the MVP, the team is thinking of several slim alerts. (Enrolled, Pending, and already filled out before the household financial section).
+    - MVP consideration: Should we consider blocking access to EZR if they already have a Mean Test for the current year? Kristen notes that the main reason for EZR is to capture the Mean Test and we currently have Enrolled terminality, this will require a Content update.
+    - Discuss if the "mean test" is something the Veteran would understand. Kristen notes that the VA is looking to deprecate that term.
+    - Questions the team needs answering: what is the number of Veterans on the Pending List? Does enrollment change from Enrolled to Pending on Jan 1st?
+- The team notes that the MVP bugs are on the Dev's hand
+- Research Synthesis can be discussed on Tuesday since SIP and Mean Test alert is a priority.
+
+
+## 2023-11-20
+Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Heather and Alex
+
+EZR issues discussed
+- A need for an alert on the EZR intro page when a Veteran has a status of PendingMT or Pending other, we talked about if this could be in phase 2 and MVP would only be for those who are already fully enrolled.
+- Thought of after the call… should the pendingMT alert on the EZ include a link to the EZR once it goes live?
+- Will work on a draft, but has other implications and talking about v2. We won’t be able to get early content review until next week. 
+
+Hieu - UX issues found during Friday’s research UAT session
+- Review page when you try and edit Medicare Part A yes/no question and click Update Page run into an error - ticket #70261
+    - Kristen notes that it is a Form Library issue, Review Page is heavily controlled by them.
+- Save in progress link button resets yes/no on the Mailing Address page - ticket #70258
+
+Insurance page 
+- Agreed with the arrangement of moving additional info component into main content as short term solution
+- Discussed pattern implications of current and future state with use cases including when prefilled and if that information would still be valuable
+
+EZ Intro page topics
+- Reviewed drafts. 
+- Follow up with forms / design system team on if the heading “What to know… “ is locked in or if we could adjust that.
+- Changed numbered headlines from stepper into h2s utilizing the newer page template
+- Also follow up to see if other teams have template or if there are/will be form templates for intro pages when an authenticated user has interacted with a form previously and/or was approved/denied
+
+Design will schedule a follow up meeting tomorrow on the save in progress pattern issue
+
+## 2023-11-13
+
+Attendees: Angela, Jessica, Hieu, Katelyn
+
+- Team discussed the minor changes in the conversation guide of the EZR MVP UAT: added instruction to sign in to a backup account, moved the "beta version" blurb closer to the scenario, and added a blurb at the Review section.
+- Coordination with Sara Sterkenburg on MHV team to update the link on the MHV Landing Page: we have looped her in a while back but will waiting for an exact launch date before pinging her team to the link.
+- Jessica noted that most SHOULD feedback items on the STAGING REVIEW comment have been picked up or it is a Form's Library limitation/constraint.
+
 ## 2023-11-06
 
 Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, Alex, Heather, Emily

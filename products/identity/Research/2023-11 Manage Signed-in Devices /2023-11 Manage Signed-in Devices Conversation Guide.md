@@ -4,8 +4,10 @@
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 - Complete any project-specific setup tasks for this study (List them below)
-   - Set-up Notetaking Board
+   - Set-up [Notetaking Board](https://app.mural.co/t/oddball4265/m/oddball4265/1697479225159/6a0d168b0c9bd95ad422a5250349bd8ecf71aa04?sender=ub6d328e737d4511e3f063904)
    - Check Prototype
+      - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
+      - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)  
 
 
 ### Day of the session
@@ -57,11 +59,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - When signing into VA.gov, what devices do you use?  (If participant hesitates, give them time to answer without providing examples.  If they are unable to answer, ask them which device they used the last time they signed into VA.gov.
    - Follow that up with "Do you ever sign into VA.gov with anything other than your _______?"
-- Have you ever connected any other devices to your VA.gov account e.g. an apple watch or FitBit?  Can you walk me through how you've done that?
 
 ## First Task: Signing into VA.gov - 5 minutes (Understanding password management)
 
-- How do you normally access VA.gov?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  *observe if the user has a prepopulated password or uses a password manager or etc.*
+- What device are you joining us with today?  Would you be willing to share your screen with me and walk me through that process?  We'll pause the recording to protect any sensitive information.  [PAUSE RECORDING]  *observe if the user has a prepopulated password or uses a password manager or etc.*
    - MOBILE DEVICE: [If they are able to access VA.gov without signing in...] How often do you have to enter your username and password to get into the VA.gov website?  Have you ever had any difficulty with signing in? 
 [RESUME RECORDING]
 - How do you keep track of your password for signing into your VA account?
@@ -82,17 +83,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Prototype Walk-Through - 10 minutes
 
-
-- Have you ever manually signed out of your account?  If so, can you walk me through how?
-
 - I'm now going to show you a prototype. This is a website design that we are thinking about using. It may look like the real VA.gov but it is not real, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
    - [Desktop prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1301-88&t=4dbsIvuJfCFPcesT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1301%3A88)
    - [Mobile prototype link](https://www.figma.com/proto/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=1311-54&t=M8JIqmZjKIytXcZz-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1311%3A54)
+   - [If participant is unable to pull up the prototype for them at this point.]
+- Have you ever manually signed out of your account?  If so, can you walk me through how?
+   - How often do you do that?
 - Can you share your screen now and walk me through how you would complete the following steps.
-[If participant is unable to pull up the prototype]
-   - I'm going to share with you a prototype that you can use to walk me through so that you are not having to share your actual information.
-      - [Mobile screen share help](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-      - [Desktop screen share help](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
 - Let's pretend that you logged into your VA.gov account from your friend's computer, but you forgot to logout before you left.
     - If you wanted to log out of your friend's device, what would you do? [pause]
        - [If they don't respond with go to VA.gov]... Would you go to VA.gov to sign into to your acount? Can you show me what you would do once signed into VA.gov?  Why would you start there?
@@ -109,6 +106,8 @@ Before we look at the website, let’s start with a few warm-up questions.
    - **Manage Devices** page
       - Can you walk me through what you're seeing here?
          - What does "Windows 11" indicate?  What type of device do you think that is?
+         - What do you think the word "current session" means?
+            - What do you think that indicates about the other devices?
       - What would you do next?
       - What do you think about when seeing the button "sign out" next to each device? What would happen if you clicked, "sign out of all devices"?
          -  [Does the Veteran understand the implication of having to sign back into their account the next time?] 

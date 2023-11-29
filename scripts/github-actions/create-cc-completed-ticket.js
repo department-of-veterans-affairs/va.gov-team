@@ -1,4 +1,5 @@
 const axios = require('axios');
+const axiosRetry = require('axios-retry');
 
 const {
   GITHUB_TOKEN,
@@ -13,7 +14,13 @@ const CUSTOMER_SUPPORT_EPIC_NAME = 'Governance Team Collaboration Cycle Customer
 
 const [owner, repo] = GITHUB_REPOSITORY.split('/');
 
-// instance for making ZenHub api calls
+const TICKET_STRINGS = {
+  teamName: '### VFS team name',
+  productName: '### Product name',
+  featureName: '### Feature name',
+  labelText: '### GitHub label for product'
+}
+
 const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
   headers: {
@@ -21,7 +28,11 @@ const axiosInstanceZH = axios.create({
   }
 });
 
-// instance for making Github api calls
+// instance for making ZenHub api calls
+axiosRetry(axiosInstanceZH, {
+  retries: 5, retryDelay: axiosRetry.exponentialDelay
+});
+
 const axiosInstanceGH = axios.create({
   baseURL: `https://api.github.com/repos/${owner}/${repo}/`,
   headers: {
@@ -29,6 +40,11 @@ const axiosInstanceGH = axios.create({
     'Content-Type': 'application/json',
     'Accept': 'application/vnd.github.v3+json',
   }
+});
+
+// instance for making Github api calls
+axiosRetry(axiosInstanceGH, {
+  retries: 5, retryDelay: axiosRetry.exponentialDelay
 });
 
 // extract data from issue body bordered by two strings
@@ -41,14 +57,24 @@ function extract(first, last, issue) {
 
 // assemble the relevant data from the issue body for the title
 function parse(issue) {
-  const teamName = extract('### VFS team name', '### Product name', issue);
-  const productName = extract('### Product name', '### Feature name', issue);
-  const featureName = extract('### Feature name', '### GitHub label for product', issue);
+  const teamName = extract(TICKET_STRINGS.teamName, TICKET_STRINGS.productName, issue);
+  const productName = extract(TICKET_STRINGS.productName, TICKET_STRINGS.featureName, issue);
+  const featureName = extract(TICKET_STRINGS.featureName, TICKET_STRINGS.labelText, issue);
   return { teamName, productName, featureName };
 }
 
-// generate the title of the "created" ticket
-function getTitleInfo(issueBody) {
+// make sure ticket body can be parsed
+function checkIfTicketValid(issueBody) {
+  for (const value of Object.values(TICKET_STRINGS)) {
+    if (!issueBody.includes(value)) {
+      return false;
+    }
+  }
+  return true;
+}
+
+//get the current touchpoint of the CC-Request ticket
+function getTouchpoint() {
   const labelMap = {
     'cc-kickoff': 'Kickoff',
     'design-intent': 'Design Intent',
@@ -56,14 +82,20 @@ function getTitleInfo(issueBody) {
     'staging-review': 'Staging Review'
   }
 
-  const touchpoint = labelMap[EVENT_LABEL];
+  return labelMap[EVENT_LABEL];
+}
 
-  const { teamName, productName, featureName } = parse(issueBody);
-  let titleInfo = `Completed: ${touchpoint} - ${teamName} - ${productName}`;
-  if (productName !== featureName && featureName) {
-    titleInfo = `${titleInfo}/${featureName}`
+// generate the title of the "created" ticket
+function getTitleInfo(issueBody) {
+  let title = `Completed: ${getTouchpoint()}`;
+  if (checkIfTicketValid(issueBody)) {
+    const { teamName, productName, featureName } = parse(issueBody);
+    title = `${title} - ${teamName} - ${productName}`;
+    if (featureName && productName !== featureName) {
+      title = `${title}/${featureName}`
+    }
   }
-  return titleInfo;
+  return title;
 }
 
 // retrieve GH ticket
@@ -212,15 +244,19 @@ async function addIssueToCurrentSprint(id) {
 }
 
 // get the id of an epic based upon title of a ZenHub issue
-async function getEpicId(epicTitle) {
+async function getEpicId(epicTitle, returnLabelId) {
   const query = `query epicsFromWorkspace($workspaceId: ID!, $epicTitle: String!) {
     workspace(id: $workspaceId) {
       epics (first: 1, query: $epicTitle) {
         nodes {
           id
           issue {
-            title
-            number
+            labels {
+              nodes {
+                id
+                name
+              }
+            }
           }
         }
       }
@@ -234,8 +270,16 @@ async function getEpicId(epicTitle) {
       epicTitle
     }
   });
-  const [{ id }] = data.data.workspace.epics.nodes;
-  return id;
+  
+  const [{ id: epicId, issue }] = data.data.workspace.epics.nodes;
+  let labelId = null;
+
+  // get the id of the label added to the CC Request ticket so that it can be added to the completed ticket
+  if (returnLabelId) {
+    const [{ id }] = issue.labels.nodes.filter(label => label.name === EVENT_LABEL);
+    labelId = id;
+  }
+  return { epicId, labelId };
 }
 
 // add an issue to an array of epics
@@ -286,24 +330,43 @@ async function setEstimate(issueId) {
   });
 }
 
+async function addLabelToIssue(issueId, labelId) {
+  const query = `mutation AddLabelsToIssues($input: AddLabelsToIssuesInput!) {
+    addLabelsToIssues(input: $input) {
+      clientMutationId
+    }
+  }`;
+  
+  await axiosInstanceZH.post('', {
+    query,
+    variables: {
+      input: {
+        issueIds: [issueId],
+        labelIds: [labelId]
+      }
+    }
+  });
+}
+
 async function main() {
   try {
     // generate title for created ticket
-    const data = await getGHIssue(ISSUE_NUMBER);
-    const title = getTitleInfo(data.body);
+    const { title, body, milestone } = await getGHIssue(ISSUE_NUMBER);
+    const newTitle = getTitleInfo(body);
 
     // create completed ticket
     const repoId = await getVaGovTeamRepoId();
-    const { id: newTicketId, number: newTicketNumber } = await createIssue(title, repoId);
+    const { id: newTicketId, number: newTicketNumber } = await createIssue(newTitle, repoId);
   
     // add milestone to new ticket
-    await addMilestone(newTicketNumber, data.milestone.number);
+    await addMilestone(newTicketNumber, milestone.number);
 
-    //get id of epics
-    const epicId = await getEpicId(data.title);
-    const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
+    //get ids of epics
+    const { epicId, labelId } = await getEpicId(title, true);
+    const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
     //update completed ticket
+    await addLabelToIssue(newTicketId, labelId);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
     await setEstimate(newTicketId);
     await addIssueToCurrentSprint(newTicketId);

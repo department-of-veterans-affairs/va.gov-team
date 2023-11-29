@@ -38,9 +38,9 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [React widgets use within CMS](#react-widgets-governance) |
 | [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | . |
-| [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
-| [Promo Banner](#promo-banner) |  [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
+| [VA.gov Homepage](#vagov-homepage) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets) | . |
+| [Promo Banner](#promo-banner) | [Unauthed React healthcare widgets](#unauthed-react-widgets) |  .  |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
 
@@ -406,28 +406,42 @@ They may also have a standalone Resources and Support page (/resources/). (Not t
 * **Q3 2022 project**: adding reusable Q&As to Resources & Support content type: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
 
 
-## Translations
+## Translation React widgets
 
 **What is:**
 
-Q3 2022, only a set of COVID- and PACT-act-related pages on VA.gov are translated, to Spanish and Tagalog. The decoupled Drupal site creates challenges for translation, as we cannot easily use Drupal’s native capabilities for serving translated pages. Public Websites team is involved in: 
-* Maintaining currently translated pages
-* Supporting new translation of any pages that require it 
-* Q3 2022 are researching options for a more robust translation/localization solution
+Q4 2023: Full site translations are not yet available. Drupal functionality has been scoped and is owned by CMS team for future delivery. 
+Meantime: Some site content must be translated. When this is required, typically Sitewide CAIA (Content, Accessibility, IA) determine which pages and provide the translations as separate CMS nodes per translated page (e.g. English, Spanish, Tagalog).  Public Websites then implements a React widget on each of those pages, that acts as an in-page navigation / switcher. 
+
+Public Websites team: 
+* Maintains currently translated pages
+* Supports new translation widgets for any pages that require it 
 
 **Example translated content:**
 * URL: [https://www.va.gov/health-care/covid-19-vaccine/](https://www.va.gov/health-care/covid-19-vaccine/)
 * CMS: 
   * En: [https://staging.cms.va.gov/node/11463/edit](https://staging.cms.va.gov/node/11463/edit)
   * Es: [https://staging.cms.va.gov/node/16359/edit](https://staging.cms.va.gov/node/16359/edit)
-  * Tl: [https://staging.cms.va.gov/node/16413/edit](https://staging.cms.va.gov/node/16413/edit) 
+  * Tl: [https://staging.cms.va.gov/node/16413/edit](https://staging.cms.va.gov/node/16413/edit)
+* EN: https://www.va.gov/health-care/how-to-apply/
+* ES: https://www.va.gov/health-care/how-to-apply-esp/
+* EN: https://www.va.gov/health-care/after-you-apply/
+* ES: https://www.va.gov/health-care/after-you-apply-esp/
+* EN: https://www.va.gov/disability/eligibility/
+* ES: https://www.va.gov/disability/eligibility-esp/
+* EN: https://www.va.gov/disability/how-to-file-claim/
+* ES: https://www.va.gov/disability/how-to-file-claim-esp/
+* EN: https://www.va.gov/disability/after-you-file-claim/
+* ES: https://www.va.gov/disability/after-you-file-claim-esp/
+
+### CAIA's Requirements: 
+CAIA documentation for translation widgets / requirements: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
 
 
 **More info:**
 * A6 program GDrive folder: [Translations & i18n](https://drive.google.com/drive/u/1/folders/13eRn2gM759p5NM1p90bnWBZYzQxZ3MGd)
-* How current translations work: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/README.md) 
-* [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing upcoming work / research for translations (Q3 2022) 
-* **Q3 2022 project:** Upcoming translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
+* [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing CMS team work / research for Drupal translations
+* Q3 2022 project: Translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
 * [VFS Product Directory: Translated Pages](https://depo-platform-documentation.scrollhelp.site/getting-started/translated-pages)
 
 ---
@@ -649,23 +663,23 @@ Public Websites manages the unauthed version of 5 React Healthcare widgets relat
 
 Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. Three flavors of EHR: 
 * MyHealtheVet - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.
-* Cerner - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner through 2022; migrations on pause as of July 2022. For Veterans who have patient records at a Cerner facility, CTAs that point to Cerner will also appear and take those users out to Cerner's digital platform.
-* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Cerner data is pulled in via APIs.
+* Oracle Health (formerly Cerner) - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner (at the time) through 2022; migrations on pause as of July 2022. For Veterans who have patient records at an Oracle Health facility, CTAs that point to Oracle Health will also appear and take those users out to Oracle Health's digital platform.
+* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Oracle Health data is pulled in via APIs.
 
 As other Health care teams are updating these CTAs, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
 
 **Governance / Content:**
 
 * Content is provided by Sitewide Content team
-* Cerner cutover information is publicized in DSVA slack: #vagov-cerner-launch-coordination
+* Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
 
 **More info:**
 * A6 program GDrive folder:[ React Widgets](https://drive.google.com/drive/u/1/folders/1BnLFus_BECGARlCfoSKKexaGe7KiLqzo)
-* [Healthcare system cutover to Cerner: runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
+* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
 * [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
 * **Q2/Q3 2022 project:** Active effort to replace old hard coded data file with Drupal as source of truth for which healthcare records management system is used by a VA medical center system. 
-   * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Cerner-Support/cms-source-of-truth) (github)
-* Cerner cutovers have been complex and no additional facilities will move to Cerner in 2022. Cerner cutovers should resume in 2023.
+   * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github)
+* Oracle Health cutovers have been complex and no additional facilities will move to Oracle Health in 2022. Oracle Health cutovers should resume in 2023.
 
 
 ## VA.gov Homepage
@@ -682,6 +696,7 @@ The homepage includes links to key traffic areas of the site. These links are re
 * URL: [https://www.va.gov/](https://www.va.gov/) 
 
 **More info:**
+* Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page
 * A6 program GDrive folder:[ Homepage](https://drive.google.com/drive/u/1/folders/1a-dg6-nWuqNTxO9lds4iqWHo5DxYj_z8)
 * **Q2/Q3 2022 project:**[Homepage redesign iteration:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) design refresh underway, prototype in staging.  Q3 user testing & will lead to design / build iteration for further testing. 
    * [[Epic] VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845) 

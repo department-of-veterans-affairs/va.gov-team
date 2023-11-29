@@ -11,7 +11,7 @@ Agenda
 
 - Slides - [Sprint 83 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13301567/Sprint.83.-.VA.Mobile.App.Demo.Slides.pdf)
 
-- Video - 
+- Video - [Sprint 83 - VA Mobile App Demo Recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/demo/2023-11-08%2014.07.10%20Sprint%2083%20Demo.mp4)
 
 ---  
 **Demo Sprint 82 10/25/23** 

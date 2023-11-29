@@ -20,4 +20,11 @@ MyVAHealth Unified Sign In inherits the rules from the standard user attribute p
     - If a user has more than one Corp ID attribute the user `IS` permitted to login
     - If a user has one or less Corp ID attributes the user `IS` permitted to login
 
+## Requirements
+Starting a list of requirements, for now this is not exhaustive.
+
+1. Redirect URLs from va.gov to Cerner/MVH/MyVAHealth/Oracle Health (OH) should not contain the clear session param. This used to be a requirement which is why its added here.
+2. authenticated=true is a required param for all successfully authenticated users to OH. This allows OH to properly process the user as authenticated before attempting to send them through the authentication flow again. This is more of a quality of life feature from OH, which if not in place now causes a loop in authentication.
+
+
 EOF

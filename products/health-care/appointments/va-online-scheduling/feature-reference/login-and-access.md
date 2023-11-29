@@ -9,18 +9,53 @@ Appointments is authenticated and has some access requirements that Veterans mus
 
 ## Requirements
 
-**Functional**
+### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 - A user may only log into VAOS if all the following are true:  
   -  User is registered for care at a VA Medical Center (VAMC).
   -  User has a Premium MyHealtheVet, Id.me, Login.gov,  or DS Logon Level 2 login credential.     
 - A message must display to any non-registered veterans informing them they must be registered at a VAMC to use VAOS.  
 
-**Technical Notes**
-- To determine registered facilities, front end uses the facilities information provided by the VA profile team. 
-- VA Profile teams gets the registered facilities from the VA’s Enrollment System team.
-- The Enrollment System creates records based on HL7 Z07 messages that are triggered in VistA when a veteran is registered and/or key information on veteran is edited (this task needs to be running in the VistA instance:  IVM Background Job).    
+### Non-functional
+- To determine registered facilities, the front end uses the facilities information provided by the VA Profile team.
+   - Once the user logs in and is authenticated VAOS FE makes an call to the `/v0/user` 
+   - the endpoint returns a response with a field called `vaProfile`.
+   - The `vaProfile` field contains a field called `facilities`.  
+   - If the field is empty, then the code will determine if the user is ineligible to use VAOS because they have not been registered at a VA facility. 
 
+<details>
+  <summary>Sample response - /v0/user vaProfile field</summary>
+  
+  Sample response from user in staging registered at 983 and 984.
+
+  ```
+  https://staging-api.va.gov/v0/user
+
+  get the data>attribute>vaProfile to see all registered facilities
+  {
+      "status": "OK",
+      "birthDate": "19620101",
+      "familyName": "Mhvpsim",
+      "gender": "F",
+      "givenNames": [
+          "Psim"
+      ],
+      "isCernerPatient": false,
+      "facilities": [
+          {
+              "facilityId": "984",
+              "isCerner": false
+          },
+          {
+              "facilityId": "983",
+              "isCerner": false
+          }
+      ],
+      "vaPatient": true,
+      "mhvAccountState": "MULTIPLE"
+  }
+  ```
+</details>
 
 ## Specifications
 
@@ -80,7 +115,7 @@ To see the current api responses:
   <summary>Sample response</summary>
 
 ```json
-[Add sample response]
+`"vaProfile": { "status": "OK", "birthDate": "20010531", "familyName": "Morgan", "gender": "M", "givenNames": [ "Cecil", "Matthew" ], "isCernerPatient": false, "facilities": [ { "facilityId": "983", "isCerner": false }, { "facilityId": "984", "isCerner": false } ], "vaPatient": true, "mhvAccountState": "OK" },` 
 ```
 
 </details>

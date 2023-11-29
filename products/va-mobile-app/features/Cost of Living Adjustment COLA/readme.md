@@ -39,3 +39,9 @@
     - Availability Framework - not yet ready to use - should be used for future COLA 
     - App Store - relies on Veterans going to the App store to get updates - typically only uses go to the App Store when they download - promotional text was considered but mobile never used 
     - Maintenance Windows - recommended to be used by VA 
+
+## 2023 Results
+ - Engineering identified that some API calls went around the maintenance windows for both web and mobile. Tim Wright to sync with Jayson and Jon to investigate
+ - 2 ticket spun off
+    - [7336  CU - Disable unnecessary API calls (Disability Rating/Payment History) while in downtime](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7336)
+    - [7337 CU - Spike - Review Maint Window Code for efficiency/reporting improvements](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7337)

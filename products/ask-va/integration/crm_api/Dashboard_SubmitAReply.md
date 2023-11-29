@@ -4,18 +4,18 @@
 
 **Method**: POST
 
-**Path**: /inquiries/:inquiryNumber:/reply
+**Path**: /inquiries/:id:/reply/new
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|inquiryNumber|string|Inquiry Number that is being replied to|
+|id|string|Inquiry Number that is being replied to|
 
 **Headers**:
 | Name | Type | Description |
 |---|---|---|
-|Authorization (optional)|JWT?|Token for access to the CRM API|
-|secid (optional)|string|User security identifier|
+|Authorization|JWT?|Token for access to the CRM API|
+|ICN|string|User ICN|
 
 
 **Body**:

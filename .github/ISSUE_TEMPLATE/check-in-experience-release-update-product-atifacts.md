@@ -17,7 +17,6 @@ Update various product artifacts, as necessary, based on the feature release.
 - [ ] Create a Content ticket with updated screenshots for changes to the Resources & Support (R&S) articles in VA.gov, if necessary
 - [ ] Create a Contact Center review ticket & schedule a review
     - [ ] Put the link to the ticket in the main collab cycle ticket
-- [ ] Update MSA & Veteran FAQs, if necessary
 
 ## Acceptance Criteria
 - [ ] Product Guides are up-to-date and ready to be published to Git

@@ -10,17 +10,24 @@ assignees: ''
 ## User Story
 As a [role], I want to [what] so that I can [do something].
 
-## User Workflow
-- Given I
-- When I
-- Then I
-
 ## Tasks
-- [ ] Create final mockups with callouts 
-- [ ] Decide: Should a content and accessibility review be part of this ticket or separate tickets due to scope?
+- [ ] Create final wireframes with content
+- [ ] Create any needed markup into Sketch Page(s) for heading annotations, aria label values or link paths
 
+### Who needs to review? Check all that apply.   
+- [ ] CAIA (or content and a11y SME)
+- [ ] Shared support, e.g., Angela Fowler (a11y) and Sara Sterkenburg (IA)
+- [ ] Platform design (e.g., office hours or post in #platform-design-system)
+- [ ] Other health app teams for cross-platform consistencies. E.g., Appointments, Mobile App, Kristen McConnell, etc. 
+- [ ] UX team
+- [ ] Check in team (e.g., PO, DM, engineers)  
+- [ ] VA OCTO PO's (e.g., Kay, Kristen, Mark, Stephen)
+
+### Does Check-in PO need links or content for f/u tickets? 
+- [ ] Yes
+- [ ] No
+      
 ## Acceptance Criteria
-- [ ] UI review meeting with product/UX team for feature capabilities
-- [ ] UI review meeting with engineering for layout and callouts (can be the same meeting as above)
-- [ ] Wireframe available on Sketch Cloud
-- [ ] If the wireframes applies to an error state or text message, then update the [GitHub source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md) documentation.
+- [ ] Work for the ticket tasks is complete
+- [ ] Work was reviewed by groups indicated above
+- [ ] If needed, provide Check-in PO with links or content for f/u tickets
