@@ -1,4 +1,4 @@
-# Update  Profile
+# Profile Syncing
 
 ## Notes
 * Current system allows for directly updating profile.
