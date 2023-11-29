@@ -1,4 +1,4 @@
-# Retrieve Banner Message
+# Retrieve Announcements
 
 ## Request
 
