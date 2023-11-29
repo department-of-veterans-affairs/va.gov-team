@@ -18,7 +18,7 @@ Discussion of LoE for Category/Topic/Subtopic changes
 ### Action Items:
 
 - [X] ~Holly: Update the comments in [ticket #375](https://github.com/department-of-veterans-affairs/ask-va/issues/375) with a summary of this meeting.~
-- [ ] Shelby: Review Category/Topic/Subtopic changes in Teams spreadsheet; Provide a LoE estimate for each type of change present in the sheet (new, rename, deleted, …)
+- [ ] Shelby: Review Category/Topic/Subtopic changes in Teams spreadsheet; Provide a LoE estimate for each type of change present in the sheet (new, rename, deleted, …) by Tuesday's CRM Sync.
 
 ---
 
