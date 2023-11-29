@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: October 3, 2023 -- updating team members**
+**Last updated: November 29, 2023 -- updating team members**
 
 ## Where to find us 
 
@@ -19,7 +19,7 @@
 |Alex Parker| Delivery manager | alexandria.parker@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
-|Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
+|Matt Marino|	Designer | Matt.marino@adhocteam.us  |
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 |Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
 |Daniel Miller| Full Stack Engineer|daniel.miller@agile6.com|
