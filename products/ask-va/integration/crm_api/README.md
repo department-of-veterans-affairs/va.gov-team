@@ -3,7 +3,10 @@
 ## Notes
 * AVA CRM Team maintains an API Contract document that lives separately from this repo.
 * The documentation here is kept in sync with the AVA CRM Team API Contract document
-* The endpoints described here are between AVA FE's backend and the AVA CRM Team's API
+* The endpoints described here are between AVA FE's backend and external system endpoints
+    *  When source is "Dynamics", that is an endpoint being developed by the AVA CRM Team
+    *  When source is "Lighthouse", that is an endpoint that exists in [VA Lighthouse APIs](https://developer.va.gov/explore)
+    *  When source is "VA Profile", that is referring to the VA.Gov Profile system
 
 ## Legend
 
