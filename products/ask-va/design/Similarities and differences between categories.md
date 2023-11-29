@@ -21,11 +21,10 @@ Note: If we say that a category is the "same" as another, an exception to their 
 
 The `Life insurance` category is a good base, just like [**Vanilla**](https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need). It's straightforward, with few conditionals, and many other categories mimic (or build on) it. Also, all [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) are enabled consistently.
 
-Almost all categories will follow the same pattern as `Life insurance`, which forks into four sections in Chapter 3, depending on whether a submitter is asking:
+Almost all categories will follow the same pattern as `Life insurance`, which forks depending on whether a question is about:
+- my own benefits
+- someone's else benefits
 - a general question
-- about me, the Veteran
-- for the dependent of a Veteran
-- on behalf of a Veteran
 
 **Review this category here:**
 - [Design requirements: Life insurance](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1700063756788/72670fdab3f8f6bf7a9b4b59d0bc96885608918c?sender=u65f0a75fc7c68f2a5a2a9545)
@@ -56,16 +55,20 @@ Almost all categories will follow the same pattern as `Life insurance`, which fo
 ### Health care aka All-Day Lasagna 🍝
 
 The `Health care` category builds on the **The Vanilla Flow**. At first glance, it looks simple but it's actually pretty complex - like an **[All-Day Lasagna](https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta)** – because:
-- sometimes it includes [Search Facility: VA Medical Center] in Chapter 3
+- sometimes it requires [Medical facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#medical-facility) in Chapter 3
 - it's [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) vary greatly depending on the topic which changes the contact flow and submission page
-- sometimes it includes the Veteran's [Zip code] in Chapter 4, even if the submitter isn't being contacted by US Mail
+- sometimes it requires the Veteran's [Zip code] in Chapter 4, even if they're not the submitter and/or the submitter isn't being contacted by US Mail
 
 We've chosen this flow to test with users first, because it's complex. While this category **does not** require authentication, for testing we will include this as a requirement so we can test the most risky path.
 
 **Review this category here:**
-- [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695423328470/f9c5091530a62f5966b628c21cb9b85ace70d62a?sender=u65f0a75fc7c68f2a5a2a9545)
-- [Sketch: Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871)
-- [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
+- [Design requirements: Health care](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699913320432/e9ee21db6c75f92c3d29ad007979f91aa5d695d4?sender=u65f0a75fc7c68f2a5a2a9545)
+- [Sketch: Health care - Chapters 1-2](https://sketch.com/s/8cf9349c-9860-4f4e-9ae2-ac819b1ab030)
+- [Sketch: Health care - Chapter 3.1 (My own benefits)](https://sketch.com/s/b821a5f0-666c-42b6-8f71-277555553c94)
+- [Sketch: Health care - Chapter 3.2 (Someone else's benefits)](https://sketch.com/s/d21085bf-1304-4146-846c-7a879595ac4e)
+- [Sketch: Health care - Chapter 3.3 (General question)](https://sketch.com/s/ab66a5d2-0fdd-4704-a7de-7e0b60940a39)
+- [Sketch: Health care - Chapter 4](https://sketch.com/s/b2c8e27e-0e72-4a8e-8fe9-b6c533f1a417)
+- [Sketch: Search facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
 
 ---
 
@@ -80,19 +83,16 @@ It will follow the same pattern as `Category` = `Veteran Readiness and Employmen
 
 #### If Topic ≠ Veteran Readiness and Employment
 All other `Topics` in `Education benefits and work study` will follow a different structure. This makes it unique, like having **[Salad for Breakfast](https://www.google.com/search?sca_esv=576631001&q=Is+it+OK+to+have+salad+for+breakfast%3F&sa=X&ved=2ahUKEwjhj9qjoZKCAxXfI0QIHUSdCsIQzmd6BAgZEAY&biw=1803&bih=851&dpr=1)**:
+- in Chapter 2:
+  - it does not fork based on what the question is about, like **The Vanilla Flow** 
 - in Chapter 3:
-  - it does not fork into the same four sections as **The Vanilla Flow**
   - it asks the submitter's relationship to the Veteran in order to determine whether it's a **business or personal relationship**
-  - it includes [Select: State of school]
-  - if it's a personal relationship, it includes [Select: State of residency]
-  - if it's a business relationship, it includes [Search Facility: School Facility]
-- in Chapter 4:
-  - there is always only one contact section (the submitter)
+  - it includes [School fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#school-fields)
   - it only asks for [Social security number or service number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#social-security-number-or-service-number) and [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth) if it's a personal inquiry
   - email is the only [contact option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md) which changes the contact flow and submission page
 
 **Review this category here:**
-- [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695420804280/52101311ba374dec5e60aa33de63a2fe7f16102b?sender=u65f0a75fc7c68f2a5a2a9545)
+- [Design requirements: Education](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1700082547481/b8b93399a46930674772074a326f21d5d1840609?sender=u65f0a75fc7c68f2a5a2a9545)
 - [Sketch: Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3)
 - [Sketch: Veteran Readiness and Employment](https://sketch.com/s/d5ab371b-3b77-4fef-a616-aa1345675f7c)
 - [Sketch: Search Facility](https://sketch.com/s/9a9968fd-01c9-4f51-b7be-076b25a3b019)
