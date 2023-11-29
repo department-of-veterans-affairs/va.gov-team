@@ -37,7 +37,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the frontend feature toggle
+1. Turn off the frontend feature toggle `find_a_representative`
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
