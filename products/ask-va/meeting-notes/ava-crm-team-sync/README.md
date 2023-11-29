@@ -1,3 +1,27 @@
+## Meeting Notes for CRM Sync on 11/29/2023
+
+Discussion of LoE for Category/Topic/Subtopic changes
+
+### Attendees:
+
+* **AVA FE Team:** Holly, Becky, Ruchi, Eddie, Jacob, Natalie, Joe
+* **AVA CRM Team:** Chris, Jamie, Shelby, JD, Bharat
+
+### Key Takeaways:
+
+1. Natalie: looking for a Level of Effort for the Category/Topic/Subtopic changes
+2. Chris: name-change-only items can likely be done in 1 sprint
+3. Shelby: need to account for each type of change (new, deleted, edited names)
+4. Tech Note: The names can affect the flow of the CRM logic as some conditional logic is driven by the display names (rather than their backing id/key). Suggestion from the devs on both sides is to add a new column to hold the display names for the new portal, then let the API send those names instead of the current names. This will allow the new portal to use the updated names, and allow for minimal (if any) changes in the CRM logic.
+    * This should address the issue that Chris mentioned in an email on the name changes and reporting issues. 
+  
+### Action Items:
+
+- [X] ~Holly: Update the comments in [ticket #375](https://github.com/department-of-veterans-affairs/ask-va/issues/375) with a summary of this meeting.~
+- [ ] Shelby: Review Category/Topic/Subtopic changes in Teams spreadsheet; Provide a LoE estimate for each type of change present in the sheet (new, rename, deleted, …)
+
+---
+
 ## Meeting Notes for CRM Sync on 11/16/2023
 
 Documentation; Various tasks
