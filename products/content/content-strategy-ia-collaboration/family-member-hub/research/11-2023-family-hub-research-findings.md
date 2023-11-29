@@ -86,7 +86,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
      - It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
      - Participants selected responses in the Veteran benefit hubs 47% of the time, versus selecting answers in the family member hub only 30% of the time. When participants did select answers in the family member hub, the answers were mostly incorrect
 
-3. Participants navigated to and selected answers in the family member hub almost 3 times more than the Veteran benefit hubs for tasks specific to survivor benefits
+3. Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits
       - Participants navigated directly to the family member hub 60% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time
       - Participants navigated directly to the survivors section of the family member hub 39% of the time, and indirectly 45% of the time
       - Participants selected answers within the family member hub 61% of the time, versus selecting answers in the Veteran benefit hubs only 24% of the time
@@ -94,7 +94,13 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
       - There were 3 tasks specific to survivors
       - There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
 
-5. Finding four
+4. Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver
+      - Participants navigated directly to the family member hub 56% of the time, versus navigating directly to any Veteran benefit hub 37% of the time
+      - Participants navigated directly to the caregivers section of the family member hub 44% of the time, and indirectly 51% of the time
+      - Participants selected answers within the caregiver section of the afmily member hub 41% of the time, versus selecting answers in the Veteran benefits hubs 33% of the time
+      - Although the family member hub was high destination, only 2/3 of the answers selected there were in the caregiver section
+      - There was 1 task specific to caregivers
+      - There was slightly more activity within the caregiver section of the family member hub over the Veteran benefit hubs, but this analysis only includes 1 task, so further evaluation may be needed
 
 6. Finding five
 
