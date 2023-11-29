@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /lookup/facilities/school/:facilityId:
+**Path**: /schools?{facilityId}
 
 **Parameters**:
 | Name | Type | Description |
