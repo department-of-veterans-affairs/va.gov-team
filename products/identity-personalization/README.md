@@ -16,7 +16,7 @@
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
-|Dotti Cummings| Delivery manager | dorothy.cummings@agile6.com |
+|Alex Parker| Delivery manager | alexandria.parker@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
 |Angela Agosto|	Designer|	angela.agosto@adhocteam.us|
