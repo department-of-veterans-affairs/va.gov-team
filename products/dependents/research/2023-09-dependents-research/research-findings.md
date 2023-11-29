@@ -165,44 +165,21 @@ _For each finding, list details with supporting quotes and images when possible.
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
+Labels: AUD: Dependents
+AUD: Veterans
+BNFT: Disability
+EnjoyHQ
+PRDT: Pension 21P-527 EZ
+PRDT: VA-notify
+PRDT: 0538 Dependent-verification-letter
+Product
+RESRCH: Evaluative
+RESRCH: Interviews
+VETJNY: Getting out Military
+VETJNY: Putting down roots
+VETJNY: Taking care of themselves
 
-**Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+Refer to [research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf) for detailed findings and supporting quotes. 
 
 
 ## Additional Insights
@@ -276,46 +253,44 @@ Refer to [Dependents past research review Mural](https://app.mural.co/t/coforma8
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Refer to [Recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/415) for recruitment criteria specific to this project.
 
-We talked to **x participants.**
+We talked to **15 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 24
+* Caregivers: 0
+* Family members of a Veteran: 0
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 19
+* Female: 5
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 1
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5
+* Tablet: 0
+* Smart phone: 3
+* Assistive Technology: 0
 
 
 Age:
 * 25-34: x
 * 35-44: x
 * 45-54: x
-* 55-64: x
+* 55-64: 4
 * 65+: x
-* Unknown: x
+* Unknown: 20
 
 
 Education:
@@ -325,26 +300,26 @@ Education:
 * Bachelor's degree: x
 * Master's degree: x
 * Doctorate degree: x
-* Unknown: x
+* Unknown: 24
 
 
 Geographic location:
 * Urban: x
-* Rural: x
-* Unknown: x
+* Rural: 14
+* Unknown: 10
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 14
+* Black: 6
+* Hispanic: 1
+* Biracial: 3
+* Asian: 2
+* Native: 3
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
+* Cognitive: 12
 * AT beginner: x
 * AT advanced user: x
 * Desktop screen reader: x
@@ -358,13 +333,13 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+ - Don’t have a degree
+ - Other than honorable discharge
+ - Immigrant origin
+ - Expat (living abroad)
+ - Identify as Transgender or Nonbinary
+ - Assistive Tech Users
+
+[VA Recruitment checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/inclusive-research-spreadsheet.png)
