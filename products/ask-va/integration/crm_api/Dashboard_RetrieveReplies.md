@@ -1,4 +1,4 @@
-# Retrieve Correspondence
+# Retrieve Replies
 
 ## Request
 
