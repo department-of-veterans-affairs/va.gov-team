@@ -6,7 +6,7 @@
 Feature Toggle Name:
 
 - frontend `find_a_representative`
-- backend `find_a_rep`;
+- backend `find_a_rep`
 
 The backend feature toggle will remain on for all users, the frontend feature toggle will be the gatekeeper to manage user visibility during our staged rollout
 
