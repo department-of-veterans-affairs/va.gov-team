@@ -154,8 +154,7 @@ The usability test guide will focus on showing participants a mobile-first proto
    - Several Veterans had difficulty finding this information on their own. Some found the information they received when talking to representatives to be inconsistent, while others felt that certain benefits (such as active duty benefits their dependent was eligible for through another parent) were closed off to them as Veterans unless they went in person to a base.
    - One Veteran mentioned that it can be frustrating when notified of benefits they were not eligible for, or could not access locally. For them, this raised false expectations and eroded trust.
 
-12. Veterans had some awareness of overpayments, but not a high level of confidence that they understood how to prevent them. 
-   - While few of the Veterans we spoke to had experience with overpayments personally, many had heard about it online, at events, or through word of mouth. A couple Veterans mentioned other types of overpayments they had experienced or heard about, including CH 35 and drill pay overpayments. 
+12. Veterans had some awareness of overpayments, but not a high level of confidence that they understood how to prevent them. - While few of the Veterans we spoke to had experience with overpayments personally, many had heard about it online, at events, or through word of mouth. A couple Veterans mentioned other types of overpayments they had experienced or heard about, including CH 35 and drill pay overpayments. 
    - At least three Veterans were entirely unfamiliar with the concept of overpayments.
 
 
