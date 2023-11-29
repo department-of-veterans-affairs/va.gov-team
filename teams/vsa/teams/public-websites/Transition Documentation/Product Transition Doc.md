@@ -128,7 +128,7 @@ Brief plain-language description of this product
 ### Emergency and Promotional Banners
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/emergency-banner)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert)
 - Product outline -N/A
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
