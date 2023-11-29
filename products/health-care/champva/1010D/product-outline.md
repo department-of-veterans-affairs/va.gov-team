@@ -71,8 +71,7 @@ Uncertainty around personal information being submitted online
 
 ## Solution Approach
 - We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
-- Connect with CAIA on migration effort happening in parallel
--- CAIA kickoff scheduled 11/29
+- Connect with CAIA on migration effort happening in parallel (CAIA kickoff scheduled 11/29)
 
 --- 
 
