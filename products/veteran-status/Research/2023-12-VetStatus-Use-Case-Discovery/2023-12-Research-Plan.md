@@ -104,7 +104,7 @@ We will keep track of participant demographic information (identified gender, ag
 	- Within the past 6 - 4 months 
 	- Within the past 3 months
 
-5. Do you have and use the VA Mobile App?
+5. Do you have and use the VA Health and Benefits mobile app? (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
 	- Yes
   	- No
 
