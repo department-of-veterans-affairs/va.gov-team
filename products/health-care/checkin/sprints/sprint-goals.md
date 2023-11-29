@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Ongoing Production Support**     
-    - 🟦 [LoROTA Security Issue]()
+    - 🚧 🟦 [LoROTA Security Issue]()
         - Added at the end of the sprint
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ✔️ ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680) 
