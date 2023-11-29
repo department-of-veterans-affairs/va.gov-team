@@ -5,8 +5,8 @@ Under the IDEA Act, all user facing forms need to be digitized. Form 10-10d is t
 ## Problem Statement
 Veterans and family members of Veterans must currently download and fill out the PDF and then mail it in for processing. They need an easy way to access and complete the forms digitally.
 
-How might we make it easier for family members and beneficiaries to apply for and receive benefits?
-How might we improve the experience of family members and beneficiaries applying for benefits online?
+- How might we make it easier for family members and beneficiaries to apply for and receive benefits?
+- How might we improve the experience of family members and beneficiaries applying for benefits online?
 
  
 ## Desired User Outcomes
@@ -18,9 +18,9 @@ How might we improve the experience of family members and beneficiaries applying
 5. Veterans and family members receive a notification letting them know their form was successfully submitted or not. 
 
 ## Undesired User Outcomes
-Confusion around online application process and steps
-Application takes longer to fill out online than the PDF form
-Uncertainty around personal information being submitted online
+- Confusion around online application process and steps
+- Application takes longer to fill out online than the PDF form
+- Uncertainty around personal information being submitted online
 
 
 ## Desired Business Outcomes
@@ -30,9 +30,10 @@ Uncertainty around personal information being submitted online
 3. Reduce number of paper forms mailed and faxed. 
 
 ## Undesired Business Outcomes
-Increase in number of incomplete or incorrect applications
-Lack of awareness in Veteran community around ability to fill out application online
-Online information not being transferred successfully for processing
+
+- Increase in number of incomplete or incorrect applications
+- Lack of awareness in Veteran community around ability to fill out application online
+- Online information not being transferred successfully for processing
 
 
 ---
@@ -64,14 +65,13 @@ Online information not being transferred successfully for processing
 ---
 
 ## Assumptions
-Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
-Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
+- Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
+- Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
 
 
 ## Solution Approach
-We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
-Connect with CAIA on migration effort happening in parallel
-CAIA kickoff scheduled 11/29
+- We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
+- Connect with CAIA on migration effort happening in parallel (CAIA kickoff scheduled 11/29)
 
 --- 
 
@@ -88,11 +88,21 @@ CAIA kickoff scheduled 11/29
 ## Solution Narrative
 
 ### Current Status
-Research and discovery work 
-Workflow creation in Figma
-Preparing to set up user interviews
-‘Skeleton’ built out for initial dev testing
+- Research and discovery work 
+- Workflow creation in Figma
+- Preparing to set up user interviews
+- ‘Skeleton’ built out for initial dev testing
 
+### Questions
+
+- eligibility in workflow
+- documentation for eligibility
+- notifications?
+- end to end data submission processes/storage
+- auth states
+- existing metrics
+  
+  
 ### Key Decisions
 
 ---
@@ -120,7 +130,7 @@ Preparing to set up user interviews
  
 - DEPO Lead: Premal Shah
  - PM: Bo Altes, Mary Wang
- - Engineering: Don Shin, Michael Clement
+ - Engineering: Don Shin, Michael Clement, Rachel Eiting
  - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke, Jamie Fiore, Syd Hoeper
  
  
