@@ -65,11 +65,11 @@ This document is for our design team to communicate field rules to our engineeri
 ## School fields
 |If|Then|Unless|
 |:--|:--|:--|
-|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school`||
-|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of residency`||
-|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not include `School facility field`||
-|Relationship to the Veteran = Business (eg. SCO)|Require `State of school`||
-|Relationship to the Veteran = Business (eg. SCO)|Require `School facility`||
-|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not ask for `State of residency`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of residency`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not include `School facility field`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `School facility`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not ask for `State of residency`||
 
 ## Medical facility
