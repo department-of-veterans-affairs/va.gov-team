@@ -26,6 +26,12 @@
 | integration | endpoints are deployed to staging for both teams. Communication between the endpoints is being validated |
 | production | endpoints are deployed to production for both teams. |
 
+## Process
+1) When working on syncing documentation the phase will be "design".
+2) When documentation sync is complete, the phase will go to "development" with two white boxes until development starts.
+3) When development starts, the box will go yellow.
+4) When an endpoint is deployed to staging, the box will go green and the phase will go to "integration".
+
 ## Status
 
 | Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes |
