@@ -16,7 +16,7 @@ Any questions before we start?
 
 ## Main Questions
 
-There are a lot of steps in scheduling, managing, and attending appointments. For example (list). Where do you spend the most time helping Veterans?
+There are a lot of steps in scheduling, managing, and attending appointments. From finding a provider to tracking an appointment, to finding their way through a facility. Where do you spend the most time helping Veterans?
 
 Overall, what are some of the main ways you help Veterans with the appointment scheduling process?
 - What are some of the biggest issues that come up?
