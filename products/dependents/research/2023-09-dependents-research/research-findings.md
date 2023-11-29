@@ -207,47 +207,63 @@ Brief description
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+Refer to [research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf) for secondary and additional insights.
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+_This is a summary of needs identified in our research that we'll build recommendations around in 12/2023_
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+**Ensure our email notification builds trust and understanding**
+ - Consider more positive language about not missing out on benefits
+ - Add context on the risk of benefit overpayments for those who are unfamiliar, and emphasize the connection between updating info and preventing overpayments 
+ - Explore adding language that makes it clear this is a new ask to review annually
+ - Expand the list of examples in the email to raise awareness on eligibility (eg, for parents and stepchildren)
+ - Send the notification early in the year when folks are on the lookout for documents
+
+**Make the process of adding and removing dependents easier on VA.gov**
+ - Align with other benefits teams (Pension, 10-10, Profile) on how we add/remove dependents
+ - Combine the ability to review current and add/remove dependents onto a single page
+
+**Help Veterans better understand upcoming changes and dependent benefits for which they’re eligible**
+ - Consider a fast-follow notification ahead of minor children turning 18
+ - Explore a picklist feature that includes upcoming dates and other programs dependents might be eligible for
+ - Break down information on static pages around specific dependents and life stages
+
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
+Julie Pedtke [julie.pedtke@coforma.io](mailto:julie.pedtke@coforma.io) and Gaige Dickerson [gaige.dickerson@softrams.com](gaige.dickerson@softrams.com) will identify actionable recommendations from identified needs in 12/2023
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+Refer to [research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf) for demographics that may not have been included. 
 
+Might conduct further research with Veterans who have 
+ - Experienced overpayments due to dependents
+ - Had to remove a spouse as a dependent due to death or divorce
+ - Claimed a parent or permanently disabled child as a dependent
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/research-plan.md)
 
-[Conversation guide](link here)
+[Generative conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/conversation-guide-gen.md)
 
-[Interview transcripts](link here)
+[Evaluative conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/conversation-guide-eval.md)
+
+[Interview transcripts TBA](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699898419840/856f7b7f447423fc5139c790d817769993825240?sender=u25797e1e73ca47c67e3c4331)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
+Refer to [research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf) for PDF of tested prototype.
 
 ## Other supporting documents created
 
@@ -256,9 +272,7 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+Refer to [Dependents past research review Mural](https://app.mural.co/t/coforma8350/m/coforma8350/1694619937289/4f169b9a54342b534b260bae79d0fd1a14b89225?sender=u25797e1e73ca47c67e3c4331)
 
 
 ## Who we talked to 
