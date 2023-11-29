@@ -32,7 +32,7 @@
 |---|---|---|:---:|:---:|---|---|
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟨 | integration | Khoa pending correct configuration to test in staging  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | 
-Form | [GET /announcements](crm_api/Form_RetrieveBannerMessage.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
+Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | Inquiry Status Retrieval| 
 Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
