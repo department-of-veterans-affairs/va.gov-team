@@ -34,27 +34,27 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Social security number` or `Service number`
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and topic ≠ `VR&E`|Require `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
+|Category = `Education benefits and work study` and topic ≠ `VR&E`|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
-|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
+|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
-|All other categories|Require `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
+|All other categories|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Date of birth`
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and topic ≠ `VR&E`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category = `Education benefits and work study` and topic ≠ `VR&E`|Require Veteran's `Date of Birth` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
-|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Display text input for `Date of Birth` (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Date of Birth` in `Chapter 3`|`Relationship to the Veteran` = `Business relationship`|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
-|All other categories|Display text input for `Date of Birth` (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|All other categories|Require Veteran's `Date of Birth` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Branch of service`
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Display select menu for `Branch of Service` (**Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Require Veteran's `Branch of Service` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
-* While agents are not able to look this up using their MPI search tool in the CRM, this data **is** in MPI.
+* While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
 ## `DoD/EDIPI number`
 * This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
