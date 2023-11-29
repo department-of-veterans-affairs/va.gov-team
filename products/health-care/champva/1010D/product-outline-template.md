@@ -1,31 +1,38 @@
 
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
----
-
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Under the IDEA Act, all user facing forms need to be digitized. Form 10-10d is the application for CHAMPVA benefits for the spouse or child of a Veteran with disabilities or the surviving spouse or child of a Veteran who has died. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Veterans and family members of Veterans must currently download and fill out the PDF and then mail it in for processing. They need an easy way to access and complete the forms digitally.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+How might we make it easier for family members and beneficiaries to apply for and receive benefits?
+How might we improve the experience of family members and beneficiaries applying for benefits online?
+
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+1. Veterans and family members can easily find the form they are looking for on VA.gov. 
+2. Veterans and family members can complete and digitally submit the forms they are looking for on VA.gov. 
+3. Veterans and family members can upload applicable documents related to their form submission to VA.gov and include the attachments in their submission. 
+4. Each form has an appropriate digital experience that is accessible, user-friendly, uses plain language in accordance with VA.gov’s content style guide.
+5. Veterans and family members receive a notification letting them know their form was successfully submitted or not. 
 
 ## Undesired User Outcomes
+Confusion around online application process and steps
+Application takes longer to fill out online than the PDF form
+Uncertainty around personal information being submitted online
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+1. Provide an experience similar to that provided to Veterans on VA.gov for family members and beneficiaries. 
+2. Expedite the application process for these three programs by digitizing forms. 
+3. Reduce number of paper forms mailed and faxed. 
 
 ## Undesired Business Outcomes
+Increase in number of incomplete or incorrect applications
+Lack of awareness in Veteran community around ability to fill out application online
+Online information not being transferred successfully for processing
 
 
 ---
@@ -33,50 +40,37 @@
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+- # of downloads
+- # of digital submissions
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+* # of Downloads
+* # of submissions by mail or fax
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: Provide a high quality digital experience for Veterans and their families to apply for health care benefits 
+  - Key result: Increase % of Veterans and families who update their health care benefits online
+  - Key result: Reduce number of downloads from VA.gov
+  - Key result: Increase number of submissions in a single session
+- Objective: Faster delivery of benefits for Veterans and their families
+  - Key result: Reduce processing and approval time 
+  - Key result: Reduce time to notification of submission
 
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
+Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
+
 
 ## Solution Approach
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
+Connect with CAIA on migration effort happening in parallel
+CAIA kickoff scheduled 11/29
 
 --- 
-
-## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
 - *Target Launch Date*
@@ -91,6 +85,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
+Research and discovery work 
+Workflow creation in Figma
+Preparing to set up user interviews
+‘Skeleton’ built out for initial dev testing
 
 ### Key Decisions
 
@@ -106,26 +104,23 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-<details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: IVC
+- GitHub Label: champ-vfmp-forms (?)
+- Slack channel: #ivc-forms
+- Product POCs: Bo Altes, Mary Wang
+- Stakeholders: Lauren Alexanderson, Eunice Garcia
 
-</details>
 
 #### Team Members
 
-<details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+- DEPO Lead: Premal Shah
+ - PM: Bo Altes, Mary Wang
+ - Engineering: Don Shin, Michael Clement
+ - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke, Jamie Fiore, Syd Hoeper
  
-</details>
+ 
 
 
 #### Stakeholders
