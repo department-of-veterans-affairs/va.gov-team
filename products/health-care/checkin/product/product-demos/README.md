@@ -2,7 +2,7 @@
 
 ## Check in with travel reimbursement 
 - [Check in with travel reimbursement demo (hosted in DSVA)](https://dsva.slack.com/archives/C022AC2STBM/p1686319718443789)
-- [Check in with travel reimbursement demo (hosted in Sharepoint)](https://dvagov-my.sharepoint.com/:v:/r/personal/benjamin_brasso_va_gov/Documents/PCI%20travel%20reimbursement%20demo/PCI%20with%20travel%20pay%20demo.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=iOKf51)
+- [Check in with travel reimbursement demo (hosted in Sharepoint)](https://dvagov-my.sharepoint.com/:v:/g/personal/benjamin_brasso_va_gov/EYgpFPbin_JDj6YQJCxbdmkBsQ-4WaY8okaGZbQAFM9bkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=hUzz68)
 - [Download video locally](https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/1c3bca62-ebe7-4f14-a14c-b14fc6a81134)
 
 
