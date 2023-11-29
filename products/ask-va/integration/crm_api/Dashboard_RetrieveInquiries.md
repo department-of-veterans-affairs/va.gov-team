@@ -32,6 +32,7 @@ None
         "message": "OK", 
         "data": [
             {
+                "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
                 "inquiryNumber": "A-123456",
                 "inquiryStatus": "In Progress",
                 "submitterQuestion": "My question is... ",

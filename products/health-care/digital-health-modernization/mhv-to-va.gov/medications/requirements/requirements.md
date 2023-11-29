@@ -7,7 +7,8 @@
 | 4/26/23        | Coulton Bunney   |Created document                                                                                                     |
 | 4/27/23        | Coulton Bunney   |Added initial draft of overview and use cases                                                                        |
 | 4/28/23        | Coulton Bunney   |Added initial draft of requirements                                                                                  |
-| 7/20/23        | Kay Lawyer       |Updated to match design and logic                                                                                    |
+| 7/20/23        | Kay Lawyer       |Updated to match design and logic      
+| 11/28/23        | Coulton Bunney     |Added NDC |
 
 ## Table of Contents
 - [Overview](#overview)
@@ -34,6 +35,7 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
    * Strength/dosage of drug
    * Instructions/directions for use (referred to as Indications and SIG)
    * Source of medication information (VA, Non-VA, Remote)
+   * NDC (to be used to link to informational content)
    * Non-1164 requirements
      * Date prescription was ordered
      * Who ordered the prescription, and their facility
@@ -46,12 +48,14 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
       * Assosciated tracking number
+      * NDC (to be used to show drug image and description)
       * Any errors
     * For each past refill 
       * Date and time of refill request
       * Date and time requested medication was dispensed
       * Date and time dispensed medication was shipped
       * Assosciated tracking number
+      * NDC (to be used to show drug image and description)
       * Any errors
     * For each past renewals
       * Date and time of renewal

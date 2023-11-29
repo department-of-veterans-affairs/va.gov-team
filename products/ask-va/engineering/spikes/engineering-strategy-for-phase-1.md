@@ -1,6 +1,6 @@
 # Engineering Strategy for Phase 1 of Ask VA on va.gov
 
-Phase 1 of the Ask VA redesign is limited to bringing up the front end of the AVA application to VA.gov design and accessibility standards hosted on VA.gov. The existing Ask VA application back-end will continue to live in Microsoft Dynamics, but the existing front-end (the Microsoft Dynamics portal) will no longer be used. We will deprecate the Dynamics portal at a later date after deploying the new design (exact timing tbd). It will serve as a fallback if needed.
+Phase 1 of the Ask VA redesign is limited to bringing up the front end of the AVA application to VA.gov design and accessibility standards hosted on VA.gov. The existing Ask VA application backend will continue to live in Microsoft Dynamics, but the existing front-end (the Microsoft Dynamics portal) will no longer be used. After deploying the new design (exact timing TBD), we will deprecate the Dynamics portal. It will serve as a fallback if needed.
 
 ## The Problem: Where Do We Get Our Data?
 
@@ -27,15 +27,15 @@ Three options were assessed for pulling data from VA APIs or Dynamics APIs.
 
 * This violates the guiding principle we pull from VA APIs when possible. 
 * The existing workflow for updating data exacerbates the pattern of each application hosting its copy of centralized data. 
-* The Dynamics CRM application was written before many VA APIs were published. Data capture is on demand, so creates a lag for real time update. 
-* This will increase the amount of requests (additional seconds) we make to the VA APIs, which can make the app run slower due to the slow response time from VA APIs.
+* The Dynamics CRM application was written before many VA APIs were published. Data capture is on demand, creating a lag for real-time updates. 
+* This will increase the requests (additional seconds) we make to the VA APIs, which can make the app run slower due to the slow response time from VA APIs.
 
 **SUBMITTER IMPACT:**
 
 * There are inconsistencies between the AVA and VA profiles. 
-* There's a delay in updates to the data for VA APIs. The CRM team is made aware of the changes and manually updates their copy of the data, which is resulting in the submitter experiencing response time to their requests.  
+* There's a delay in updates to the data for VA APIs. The CRM team is made aware of the changes and manually updates their copy of the data, which results in the submitter experiencing slower response time to their requests.  
 
-### <ins>Merge VA Data + Dynamics Data as equal valid sources of data, as It's Retrieved</ins>
+### <ins>Merge VA Data + Dynamics Data as equally valid sources of data, as It's Retrieved</ins>
 
 **PROS:** 
 
@@ -43,7 +43,7 @@ Three options were assessed for pulling data from VA APIs or Dynamics APIs.
 
 **CONS:** 
 
-* This makes the new code more complex and fragile, increases the frequency and duration of retrieving data during cache misses, and creates a new hybrid view of the data that only lives in the new Ask VA application. 
+* This makes the new code more complex and fragile, increases the frequency and duration of retrieving data during cache misses, and creates a new hybrid view of the data that only lives in the latest Ask VA application. 
 * Can create a potential conflict when data sources do not match. 
 
 **SUBMITTER IMPACT:** 
@@ -63,7 +63,7 @@ Three options were assessed for pulling data from VA APIs or Dynamics APIs.
 
 **SUBMITTER IMPACT:** 
 
-* The system would have to handle instances (i.e. transforming data) where data exists in the VA system but not handled by the Dynamics workflows.
+* The system would have to handle instances (i.e., transforming data) where data exists in the VA system but is not handled by the Dynamics workflows.
 
 ## The Recommendation
 
@@ -120,18 +120,18 @@ flowchart TB
 
 ### Educational Facility lookups [Supporting Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/education_facility_data_sourcing.md)
 
-Since both systems (GI Bill and CRM API) source their data from WEAMS, there will be no difference in the data if we used either one.
+Since both systems (GI Bill and CRM API) source their data from WEAMS, there will be no difference in the data if we use either.
 
-* The GI Bill does NOT have an API available to pull data from their repository. There IS a CSV file that would require either a separate manual step or service created to consume that data into our system.
+* The GI Bill does NOT have an API available to pull data from their repository. There IS a CSV file that would require either a separate manual step or a service to be created to consume that data in our system.
 * The CRM Team has agreed to create an API endpoint to provide education facilities to us.
-* WEAMS, the system of record, does NOT have an API available currently.
+* WEAMS, the system of record, does NOT currently have an API available.
 
 
 ### Healthcare Facilities [Supporting Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/health_facility_data_sourcing.md)
 
-* We are going to pull data for the 140 Medical Centers from Lighthouse.
+* We will pull data for the 140 Medical Centers from Lighthouse.
 * We will use the names provided by Lighthouse as the names to show to users on the front end
-* Instead of showing the two VAMCs under the Northern California Health Care System, Sacramento and Martinez Medical Centers, we will show Northern California Health Care System with a facility id of 612.
+* Instead of showing the two VAMCs under the Northern California Health Care System, Sacramento, and Martinez Medical Centers, we will show the Northern California Health Care System with a facility ID of 612.
 
 ## How we can integrate both data sources based on our recommendation 
 

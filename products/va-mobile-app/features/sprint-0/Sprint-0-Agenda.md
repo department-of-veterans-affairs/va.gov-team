@@ -42,7 +42,6 @@ The Sprint 0 meeting is a time to do the following:
 ## Ready to Present
 
 * [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
-* [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
 * [After visit summary for appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointments/Project%20-%20After%20Visit%20Summary/Sprint0.md) (Meko)
 * [Screenshot Restriction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Screenshot%20Restriction/Sprint%200.md) (Adam)
     * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
@@ -61,7 +60,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
-## 11/2/12
+## 11/30/12
 * [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
 
 ## 11/2/12

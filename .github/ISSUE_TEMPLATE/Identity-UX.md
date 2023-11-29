@@ -13,7 +13,7 @@ assignees: ''
 - [ ] Reviewed by UX Team
 - [ ] Reviewed by PMs
 - [ ] Documentation has been updated
-- [ ] Put published research in drive
+- [ ] Add finalized research to Github
 
 
 #### Product notes

@@ -36,15 +36,6 @@ Get info for the veteran to pre-populate information on the form
 | Lighthouse           | 1 per submission   | 200        | Shows list of contestable issues
 |                      |                    | Any other  | Error alert. <br> Header: We can't load your issues right now <br> Body: You can come back later, or if you'd like to add your issue manually, you can select "Add a new issue" to get started. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/cf41503b-68a3-40e9-8096-fb15f24f4b32)
 
-## Evidence Upload (before submission) 
-
-  Putting user uploaded file into S3
-
-| External System(s)   | # of occurences                            | Responses                        | Outcome / Message
-| -------------------- | -------------------------------------------| -------------------------------- | --------- 
-| AWS S3               | Any per submission, including 0 (optional  | 200                              | Prompt for document type [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/e7ab26df-9bf2-47d7-8727-f00c5667e99c)
-|                      |                                            | 422 Locked PDF w/ wrong password | Inline error. <br> We can't unlock your PDF. Save your file without a password and try uploading it again. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/af4371a1-9b09-4865-96c2-da453646e613)
-|                      |                                            | Any other                        | Inline error. <br> Header: We're sorry. We had a connection problem. Please try again. [Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/37049625/1dd28c24-eddb-49a4-86ae-36ced237047c)
 
 ## Overall Higher Level Review Submission
 

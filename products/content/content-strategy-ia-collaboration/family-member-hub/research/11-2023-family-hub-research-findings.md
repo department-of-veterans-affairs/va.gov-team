@@ -36,10 +36,17 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 
 ## Hypotheses and Conclusions
 
-1. Family members and caregivers will navigate to the family member hub for information on benefits for themselves
-2. Family members and caregivers will navigate to the family member hub to complete tasks related to managing and tracking their own benefits
-3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits
-4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits
+**1. Family members and caregivers will navigate to the family member hub for information on benefits for themselves**
+    - _Definitely true. _ For the 5 tasks related to finding benefit information for themselves, 59% of the particpants navigated directly to the family member hub, versus only 32% who navigated to one of the benefit hubs first.  Overall, 64% of the participants visited the family member hub at some point to complete the tasks.
+
+**2. Family members and caregivers will navigate to the family member hub to complete tasks related to managing and tracking their own benefits**
+    - _Maybe true._  For the 3 tasks related to managing their own health and benefits, only 33% of the participants navigated directly to the family member hub, versus 55% who navigated to one of the benefit hubs first. Overall, 42% of the participants visited the family member hub at some point to complete the tasks. 
+    
+**3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits**
+    - _Maybe true._  For the 3 tasks specific to survivor benefits, 39% of the participants navigated directly to the survivors section of the family member hub.  Overall, 45% of the participants visited the survivors section of the family member hub at some point to complete the tasks.
+
+**4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits**
+    - _Likely true._  For the 1 task specific to caregiver benefits, 44% of the participants navigated directly to the caregiver section of the family member hub.  Overall, 51% of the participants visited the caregivers section of the family member hub at some point to complete the task. 
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 

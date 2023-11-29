@@ -66,10 +66,6 @@
 - [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
 - [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
-### Check In Demos
-- [Check in with travel reimbursement demo (hosted in DSVA)](https://dsva.slack.com/archives/C022AC2STBM/p1686319718443789)
-- [Check in with travel reimbursement demo (hosted in Sharepoint)](https://dvagov-my.sharepoint.com/:v:/r/personal/benjamin_brasso_va_gov/Documents/PCI%20travel%20reimbursement%20demo/PCI%20with%20travel%20pay%20demo.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=iOKf51)
-
 ### Priorities & Backlog
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)

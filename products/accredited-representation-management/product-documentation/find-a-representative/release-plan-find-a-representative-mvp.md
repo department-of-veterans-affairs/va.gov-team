@@ -5,11 +5,10 @@
 
 Feature Toggle Name:
 
-- the vets-website `findARepresentativeShowApplication`
-- the vets-api `find_a_representative_show_application`&#x20;
+- frontend `find_a_representative`
+- backend `find_a_rep`
 
-_Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles)._
-
+The backend feature toggle will remain on for all users, the frontend feature toggle will be the gatekeeper to manage user visibility during our staged rollout
 
 ### Validation
 
@@ -27,7 +26,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 - [ ] The react widget has been added to the landing page
 - [ ] Entry points have been redirected to the landing page
 
-#### Go/No Go meeting on 12/1 at 11:30a ET (8:30a PT)
+#### Go/No Go meeting on 12/8 at 2:30p ET (11:30a PT)
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
 
@@ -38,7 +37,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the feature toggle
+1. Turn off the frontend feature toggle `find_a_representative`
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
@@ -56,24 +55,18 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 12/4-12/13
-- Limited production access will be controlled through our vets-website `findARepresentativeShowApplication` vets-website feature toggle
+- Rollout date range: 12/11-12/18
+- Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
 - Lindsay will monitor metrics (detailed below) for relevant insights
 - Errors will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting on 12/1 at 11:30p ET (8:30a PT)**
-1. **Stage A: 10% of users**
-   1. Timing: 2 days (12/4-12/5)
-   2. Holden OOO, back 12/8
-2. **Stage B: 25% of users**
-   1. Timing: 2 days (12/6-12/10)
-3. **Stage C: 50% of users**
-   1. Timing: 2 days (12/11-12/13)
-4. **Stage D 100% of users**
-   1. Timing: 12/13
-   2. Will monitor closely through December 21 for any issues
+**Go/No Go meeting on 12/8 at 2:30p ET (11:30a PT)**
+1. Stage A: 10% of users on 12/11
+2. Stage B: 25% of users on 12/12
+3. Stage C: 50% of users from 12/13-12/17
+4. Stage D: 100% of users on 12/18
 
 **:snowflake: Code freeze: 12/22/2023 - 1/2/2024 :snowflake:**
 

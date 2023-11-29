@@ -6,7 +6,9 @@ High level:
 * **Forms DB** is the single source of truth for Form PDFs and Forms metadata. [Forms DB Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
 * Forms data (including URLs to PDF files) is migrated nightly from the Forms DB to Drupal CMS, into the VA Forms content type, via Drupal migration.
 * VA Forms API in Lighthouse then pulls Forms data from the Drupal CMS nightly, via sidekiq job.
+  * `https://api.va.gov/services/va_forms/v0/forms`: Owned by Lighthouse
 * [VA.gov Find a Form](https://www.va.gov/find-forms/) makes calls through vets-api to pull form data from the Lighthouse Forms API.
+  * `https://api.va.gov/v0/forms`: Public Websites-owned vets-api proxy to the https://api.va.gov/services/va_forms/v0/forms endpoint
 * VA.gov Form Detail pages (e.g. https://www.va.gov/find-forms/?q=21-0966) display data housed in Drupal CMS.
 
 ### Ownership
@@ -20,6 +22,7 @@ High level:
 * Data migration from Forms DB to Drupal
 * Drupal CMS editorial experience
 * Display of Forms data in VA.gov, specifically Find a Form & Form Detail pages.
+* Vets-api endpoint `https://api.va.gov/v0/forms` and triaging related issues.
 
 ## Forms DB migration into Drupal CMS: Data Flow & Documentation
 [Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md) - describes the data path from the Forms DB > Drupal CMS > Lighthouse > Front-end. 

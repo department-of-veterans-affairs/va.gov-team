@@ -4,12 +4,12 @@
 
 **Method**: GET
 
-**Path**: /topics?[parentId]
+**Path**: /topics?{id}
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|parentId|string|the parent category or topic from which to retrieve a list of topics or subtopics|
+|id|string|the parent category id or topic id from which to retrieve a list of topics or subtopics|
 
 This parameter is optional. 
 
@@ -43,13 +43,21 @@ This parameter is optional.
         "message": "OK", 
         "data": [
             {
-                "id": "1",
-                "topic": "topic 1"
+                "allowAttachments": true,
+                "requiresAuthentication": true,
+                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "topic 1",
+                "displayName": "topic 1",
+                "parentId": "a6c3af1b-ec8c-ee11-8178-001dd804e106"
             },
             {
-                "id": "2",
-                "topic": "topic 2"
-            }
+                "allowAttachments": false,
+                "requiresAuthentication": true,
+                "id": "c8c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "topic 2",
+                "displayName": "topic 2",
+                "parentId": "d9c3af1b-ec8c-ee11-8178-001dd804e106"
+            },
         ] 
     }
 }
