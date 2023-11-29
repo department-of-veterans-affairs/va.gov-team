@@ -63,8 +63,8 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
    - **Mid Term: Refine the design of the HP alert banner to optimize readibility and Home Page UX overall**
      - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
-     - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner
-     - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/emergency-banner/VA-Emergency-alerts-spec.pdf
+     - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert
+     - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/full-width-alert/design/VA-Emergency-alerts-spec.pdf
 
 ## Hypothesis or Bet
 

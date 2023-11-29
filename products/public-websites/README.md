@@ -283,33 +283,10 @@ The Announcement entry point uses React to bind to an element inside an announce
 
 ## Full-width Alert
 
-aka: Banner
-
-**What is:**
-Banners are fixed content at the top of the page used for dismissible announcements such as new tools, news, etc. 
-
-Publishing/updating a full width banner alert triggers a content release.
-
-Use case: OPIA could get a call at any time day or night and need to be able to update information to be prominently displayed. So: OPIA owns 1 node (of 2) of this content type, and can update or remove as needed, and save/publish to trigger a content release.
-
-Currently, www.va.gov supports two types of Full Width Alerts:
-1. **Informational alerts,** which are used to provide helpful information to a user or something that warrants attention. Not used for negative consequences.
-2. **Warning alerts,** which are used to warn a user, such as when there are negative consequences, but necessary when something has gone wrong.
-
-You can read more about these alert types in the [VA Design System](https://design.va.gov/components/alert) or read more about Full Width Alerts in the (opens in a new window).
-
-**Example content:**
-* CMS: 
-  * [https://staging.cms.va.gov/banner/covid-19-vaccines-at-va](https://staging.cms.va.gov/banner/covid-19-vaccines-at-va)  
-  * OPIA standing banner: [https://staging.cms.va.gov/node/33217/edit](https://staging.cms.va.gov/node/33217/edit) 
-
-
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
-* **Governance:** [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner/2019-banner-docs) 
-* Old info, some useful references: [https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf) 
+aka: Banner, in the CMS
 
 **More info:**
+* Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert/
 * A6 program GDrive folder: [Banners](https://drive.google.com/drive/u/1/folders/1DAT-Pr_xEwNcnpqClgXFrvycF8MpS5Z4)
 * [Banner](https://design.va.gov/components/banner) : va.gov design system - describes usage / positioning
 * [Knowledge Base](https://staging.cms.va.gov/node/34828)
@@ -317,7 +294,7 @@ You can read more about these alert types in the [VA Design System](https://desi
    * Q42021 notes re: character count / governance, name change to full-width alert: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md) 
    * Homepage-only banner needed for OPIA (Q1 2021) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) 
    * Design considerations / use cases (Q2 2020) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md) 
-   * Initial build (Q2 2020): [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner) 
+   * Initial build (Q2 2020): [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert) 
 
 
 ## Promo Banner
