@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: October 24, 2023
+Last updated by @tygindraux: November 29, 2023
 
 This document is for our design team to communicate field rules to our engineering and product folks.
 
@@ -20,7 +20,7 @@ This document is for our design team to communicate field rules to our engineeri
 |:--|:--|:--|
 |All categories|Require `Gender identity` in `Chapter 3` for the submitter||
 
-- Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
+- Submitter can be the Veteran, a family member, or another third party.
 - **Update 10/23:** We recommend that this field is removed. This document will be updated once the decision is final.
 
 ## `Pronouns`
@@ -28,17 +28,17 @@ This document is for our design team to communicate field rules to our engineeri
 |:--|:--|:--|
 |All categories|Require `Pronouns` in `Chapter 3` for the submitter **and** whomever the inquiry is about||
 
-* Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
-* Who the inquiry is about can be the Veteran or dependent, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
+- Submitter can be the Veteran, a family member, or another third party.
+- Who the inquiry is about can be the Veteran or a family member.
 
 ## `Social security number` or `Service number`
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and topic ≠ `VR&E`|Display `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category = `Education benefits and work study` and topic ≠ `VR&E`|Require `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
-|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Display `Social Security Number or Service Number` component (*Required) in `Contact information` in `Chapter 4 of 5: Contact information`|`Relationship to the Veteran` = `Business relationship`|
+|Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
-|All other categories|Display `Social Security Number or Service Number` component (*Required) in `Veteran information` in `Chapter 4 of 5: Personal information`|`Who are you asking a question for?` = `A general question`|
+|All other categories|Require `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Date of birth`
 |If|Then|Unless|
