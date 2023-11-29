@@ -12,6 +12,8 @@ This document is for our design team to communicate field rules to our engineeri
 - [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)
 - [DoD/EDIPI number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#dodedipi-number)
 - [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#when-contact-options-are-enableddisabled)
+- [School facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#school-facility)
+- [Medical facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#medical-facility)
 
 ## `Gender identity`
 |If|Then|Unless|
@@ -59,3 +61,15 @@ This document is for our design team to communicate field rules to our engineeri
 
 ## When contact options are enabled/disabled
 * Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
+
+## School facility
+|If|Then|Unless|
+|:--|:--|:--|
+|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require State of school||
+|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require State of residency||
+|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not include School facility field||
+|Relationship to the Veteran = Business (eg. SCO)|Require State of school||
+|Relationship to the Veteran = Business (eg. SCO)|Require School facility||
+|Relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not ask for State of residency||
+
+## Medical facility
