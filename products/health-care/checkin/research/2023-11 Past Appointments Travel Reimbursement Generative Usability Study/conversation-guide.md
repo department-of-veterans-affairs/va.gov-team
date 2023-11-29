@@ -197,10 +197,10 @@ _**Participant is at Appointment list:**_
 - _If needed for dismiss/close button in card:_
   - What about the x/close button in the card. What would you expect to happen if you selected that?
   - And if you did select that to dismiss it, how would you find that information again?
-  - And what would you expect if you DID NOT select that? 
+  - And what would you expect to happen if you DID NOT select that x/close button? 
 
 
-- Ok, go ahead and go through the process of filing that claim - and talk me through what you’re doing.
+- Ok, go ahead and go through the process you'd follow to file that claim now - and talk me through what you’re doing.
 
 _**Participant navigates to past appointments > detail page > intro page > travel flow OR directly to travel flow from task card**_
 
@@ -216,12 +216,12 @@ _**If on detail page:**_
 - Is there anything confusing about this page and the information included here?
 - Is there anything missing you’d expect to find on this page?
 - How clear are the steps for filing a travel reimbursement claim?
-- How clear are the two options to you for filing a claim?
-
+- And how clear are the two options for filing a claim?
+- Ok, go ahead and continue.
 
 _**Participant is on travel questions 1 & 2:**_
 
-- What would you expect to happen if you selected “no” here?
+- For the purposes of this study, I'll have you answer "yes" to these questions, but what would you expect to happen if you selected “no” here?
 
 _**Participant is on travel question 3 - contact information:**_
 
@@ -232,6 +232,7 @@ _**Participant is on travel question 3 - contact information:**_
 _**Participant is on review page:**_
 
 - I’ll stop you here again for a second. Can you tell me about this page?
+- Is there anything confusing about this page?
 - Ok, go ahead and continue.
 
 _**Participant is on success page:**_
@@ -254,7 +255,7 @@ _**Participant is on success page:**_
 
 _**Participants might go to the details page or to the outside “Review your claim” link. Moderator should be ready for both scenarios.**_
 
-- Ok, thank you. We can move on. Now, if you wanted to check to see if you could file a travel reimbursement claim for your second appointment you had that day (on Nov. 13 at 1:00 p.m.), what would you do next? 
+- Ok, thank you. We can move on. Now, if you wanted to check on travel reimbursement for your second appointment you had that same day (on Nov. 13 at 1:00 p.m.), what would you do next? 
 - _Things to watch for:_
   - _Do they understand how to navigate to the appointment list?_
   - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
@@ -263,15 +264,16 @@ _**Participants might go to the details page or to the outside “Review your cl
 _**Participant is on details page for second appointment**_
 
 - Tell me about this appointment’s travel reimbursement claim status. What did you expect this status to be?
-- Why do you think this status is "In manual review"? 
-  - _Things to watch for: Do they understand why the second appointment was updated along with the first one? (Note: if this is not clear and there is time, moderator can decide to guide participant back to check the first appointment status to clarify)_ 
+- Why do you think this status is "In manual review" when you haven't gone through the process filing a travel reimbursement claim for this appointment yet? 
+  - _Things to watch for: Do they understand why the second appointment was updated along with the first one? (Note: if this is not clear and there is time, moderator can decide to guide participant back to check the first appointment detail card status to clarify they are the same)_
+
 
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - Where did you expect that link to take you?
   - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
 
 - Thanks. And lastly, taking a moment to review this whole page.
-  - What is most important to you on this page?
+  - Overall, what information is most important to you on this page for a past appointment?
   - Is there anything confusing about this page and the information included here?
   - _If not mentioned:_ What do you think "type of care not noted" means?
 
@@ -279,9 +281,11 @@ _**Participant is on details page for second appointment**_
 
 _**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet - have them navigate to the details page for a third appointment (remaining appointment with dot indicator)**_
 
-- And for the last task, can you walk me through how you would file for travel reimbursement for another one of your past appointments?
+- And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
+- _Things to watch for: Does the participant understand that the Wednesday appointment (with 1 task to complete) is the other appointment they can file for?_
 
 _**On details page:**_
+- And what would you do next from this page?
 - Is there anything confusing about this page and the information included here?
 - _(Non-screen reader users)_ Did you notice the dot with the 1 task to complete? What does it seem like that was referring to?
 - _(Screen reader users)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
