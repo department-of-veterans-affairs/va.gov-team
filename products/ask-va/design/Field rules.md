@@ -18,7 +18,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Gender identity`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Display `Gender identity` component (*Required) for `Submitter` in `Chapter 4 of 5: Personal information`||
+|All categories|Require `Gender identity` in `Chapter 3` for the submitter||
 
 - Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
 - **Update 10/23:** We recommend that this field is removed. This document will be updated once the decision is final.
@@ -26,7 +26,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Pronouns`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Display `Pronouns` component (*Required) for `Submitter` **and** `Who the inquiry is about` in `Chapter 4 of 5: Personal information`||
+|All categories|Require `Pronouns` in `Chapter 3` for the submitter **and** whomever the inquiry is about||
 
 * Submitter can be the Veteran, dependent, or a third party, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
 * Who the inquiry is about can be the Veteran or dependent, depending on how they answer `Who are you asking a question for?` and/or `Are you the Veteran?` and/or `Are you the dependent?`
