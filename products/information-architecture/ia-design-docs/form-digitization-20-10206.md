@@ -1,5 +1,5 @@
 # IA Design for Privacy Act Form 20-10206
-**STATUS: In progress**
+**STATUS: Shared with team**
 
 **Team:** Veteran facing forms
 
@@ -51,7 +51,7 @@ This is a list of proposed entry points. We recommend checking page performance 
 <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/55889933-b880-41f2-bc66-0d25c6e54c56">
 
 2. **Records left nav** - Add
-  - Placement description: Under “Get your records and documents”, 4th option down. Below the records options that are currently available on the modernized site. Get Veteran IDs is 3rd down on the moment but we can update the left nav so it matches the hubpage order.
+  - Placement description: Under “Get your records and documents”, 4th option down. Below the records options that are currently available on the modernized site. Get Veteran IDs is 3rd down at the moment but we can update the left nav so it matches the hubpage order.
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
   - Notes: We can update the left nav order so that when the new online form is published, it should be the 4th option and match the order in the hubpage. When folks click on the link from the left nav, it'll take them directly to `/introduction` page of the form flow
@@ -89,7 +89,7 @@ This is a list of proposed entry points. We recommend checking page performance 
 7. **[FOIA Requests](https://department.va.gov/foia/foia-requests/)** - Add
   - Placement description: Below “How are VA FOIA Requests Handled?”, there is a section for “Personal Records”
   - Link label: TBD by Sitewide Content
-  - Link destination: 
+  - Link destination: www.va.gov/records/request-personal-records-form-20-10206
   - Notes: We would need to connect with the team that manages this site to add entry point here.
  <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6a635c95-63e9-4892-a0dd-ae2b7bc09d81">   
 
