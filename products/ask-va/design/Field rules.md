@@ -73,3 +73,7 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Do not ask for `State of residency`||
 
 ## Medical facility
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`|
+|Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`|
