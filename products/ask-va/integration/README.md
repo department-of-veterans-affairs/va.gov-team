@@ -35,7 +35,7 @@ Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | d
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | Inquiry Status Retrieval| 
-Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
+Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟨 | ⬜ | design | |
 Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
 Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
 Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟨 | ⬜ | design |  | 
