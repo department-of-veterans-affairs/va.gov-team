@@ -37,16 +37,32 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 ## Hypotheses and Conclusions
 
 **1. Family members and caregivers will navigate to the family member hub for information on benefits for themselves**
-    - _Definitely true. _ For the 5 tasks related to finding benefit information for themselves, 59% of the particpants navigated directly to the family member hub, versus only 32% who navigated to one of the benefit hubs first.  Overall, 64% of the participants visited the family member hub at some point to complete the tasks.
+    - _Definitely true._  
+      - Participants navigated directly to the family member hub 59% of the time, versus navigating directly to any Veteran benefit hub 32% of the time
+      - Participants navigated indirectly to the family member hub 64% of the time 
+      - There were 5 tasks related to finding benefit information for themselves
+      - There was almost twice the amount of activity within the family member hub than the Veteran benefit hubs
 
 **2. Family members and caregivers will navigate to the family member hub to complete tasks related to managing and tracking their own benefits**
-    - _Maybe true._  For the 3 tasks related to managing their own health and benefits, only 33% of the participants navigated directly to the family member hub, versus 55% who navigated to one of the benefit hubs first. Overall, 42% of the participants visited the family member hub at some point to complete the tasks. 
+    - _Maybe true._  
+      - Participants navigated directly to the family member hub 33% of the time, versus navigating directly to any Veteran benefit hub 55% of the time
+      - Participants navigated indirectly to the family member hub 42% of the time 
+      - There were 3 tasks related to managing their own health and benefits
+      - It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
     
 **3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits**
-    - _Maybe true._  For the 3 tasks specific to survivor benefits, 39% of the participants navigated directly to the survivors section of the family member hub.  Overall, 45% of the participants visited the survivors section of the family member hub at some point to complete the tasks.
+    - Likely true._  
+      - Participants navigated directly to the survivors section of the family member hub 39% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time 
+      - Participants navigated indirectly to the survivors section of the family member hub 45% of the time
+      - There were 3 tasks specific to survivors
+      - There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
 
 **4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits**
-    - _Likely true._  For the 1 task specific to caregiver benefits, 44% of the participants navigated directly to the caregiver section of the family member hub.  Overall, 51% of the participants visited the caregivers section of the family member hub at some point to complete the task. 
+    - Maybe true._  
+      - Participants navigated directly to the caregivers section of the family member hub 44% of the time, versus navigating directly to any Veteran benefit hub 37% of the time
+      - Participants navigated indirectly to the caregivers section of the family member hub 51% of the time 
+      - There was 1 task specific to caregivers
+      - There was slightly more activity within the caregiver section of the family member hub over the Veteran benefit hubs, but this analysis only includes 1 task, so further evaluation may be needed
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
@@ -86,7 +102,7 @@ Labels: label 1, label 2
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+Participants visited the family hub and the veteran hubs equally 
 
 > _Supporting data: Quote here_
 
