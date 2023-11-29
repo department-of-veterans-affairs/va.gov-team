@@ -37,9 +37,9 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - X weeks - x/xx/xx - x/xx/xx
+     - 1.5 weeks - 11/13/23 - 11/21/23
 - Desired number of users:
-     - X participants
+     - 5 participants
 - How you'll recruit the right production test users:
      - Perigean recruiting
 - How you'll conduct the testing:
@@ -66,26 +66,39 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - x/xx/xx - x/xx/xx
+     - 11/27/23 - 12/08/23
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 
-### Objective: 
-#### **Key Result #1:
+### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
+#### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Data source
+     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Google Analytics Dashboard - TBD (NEW)
 
+| Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------------- |-------------- |-------------- |
+|Paper Submissions |TBD |TBD | TBD |TBD |
+|Online Submissions |NEW |TBD | TBD |TBD |
+|Submission Failures |NEW |TBD | TBD |TBD |
+|Veteran Validation errors |NEW |TBD | TBD |TBD |
 
-| Product KPI  |Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
-|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+#### **Key Result #2:** Capture 75% of form submissions in a single session
 
-#### **Key Result #2:** 
+- Data source
+     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Google Analytics Dashboard
 
-Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|Single-session submissions |NEW |75% of submitted forms | TBD |TBD |
 
-| Product KPI | Target | End of 25%| End of 50%| End of 75%| Post-Launch 1 month|Post-Launch 3 months|
-|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+#### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
+| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |-------------- |
+|EZR PDF Downloads |avg 10,400 monthly |3,000 monthly | TBD |TBD |
 
 
 
@@ -93,8 +106,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
-     - Product Manager
-     - Data Analyst
+     - Product Manager - Alex Seelig, Heather Justice
+     - Data Analyst - Luis Simauchi
 
 
 
@@ -107,6 +120,25 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Length of time:
      - 3 days
 - Percentage of Users (and roughly how many users do you expect this to be):
+     - 10% of authenticated Veterans 
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage B: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time:
+     - 2-3 days
+- Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
 
 #### Results
@@ -117,7 +149,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 50% of users
+### Stage C: 50% of authenticated Veterans
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -136,7 +168,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 75% of users
+### Stage D: 75% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -145,7 +177,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Length of time:
      - 2-3 days
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 75%
+     - 75% of authenticated Veterans
 
 #### Results
 
@@ -155,14 +187,14 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 100% of users
+### Stage E: 100% of users
 
 #### Planning
 
 - Length of time:
      - 2-3 days
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 100%
+     - 100% of authenticated Veterans
 
 #### Results
 

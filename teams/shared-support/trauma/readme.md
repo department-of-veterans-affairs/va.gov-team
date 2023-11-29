@@ -69,7 +69,11 @@ Attended a big meeting or small group? Lurk on our slack channel? Then you're _o
 
 **Julie Strothman**, OCTO Benefits Portfolio Designer / Researcher
 - julie.strothman@va.gov, she/her [Julie on LinkedIn](https://www.linkedin.com/in/jstrothman/)
-- I want to work with folks at VA OCTO to ensure participating in design research is safe and inclusive, and to ensure that people doing the work have the training and support they need.   
+- I want to work with folks at VA OCTO to ensure participating in design research is safe and inclusive, and to ensure that people doing the work have the training and support they need.
+
+**Charlotte Cesana**, Researcher, VA Debt Resolution Team
+- charlotte@cityfriends.tech, [LinkedIn](https://www.linkedin.com/in/charlottecesana/)
+- Interviews are an opportunity to connect with Veterans, to listen, and to learn. I'm interested in growing our community of practice to ensure that we cultivate an environment of safety and comfort for our participants at all times. 
 
 <hr/>
 
@@ -103,6 +107,7 @@ Took notes for a big meeting or small group? You've helped share and grow our le
 - Tyler Gindraux
 - Megan Graham
 - Julie Strothman
+- Pam Drouin
 
 #### How do I serve as a scribe?
 1. Volunteer at our next big meeting

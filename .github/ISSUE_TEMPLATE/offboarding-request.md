@@ -29,6 +29,10 @@ Please provide the following information about the individual being offboarded:
   >
 - GitHub username: _(Please include @ symbol)_
   >
+- COR:
+  >
+- PM:
+  >
 - additional access they may have: _(First line formatted with access titles only. Additional notes may be added on second line after the list.)_
   > ex: SOCKS, Pagerduty, Google analytics, etc.
 

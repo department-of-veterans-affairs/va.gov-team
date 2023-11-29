@@ -13,7 +13,7 @@ None
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|User ICN|
 
 ## Response
 
@@ -32,6 +32,7 @@ None
         "message": "OK", 
         "data": [
             {
+                "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
                 "inquiryNumber": "A-123456",
                 "inquiryStatus": "In Progress",
                 "submitterQuestion": "My question is... ",
@@ -75,7 +76,7 @@ None
 
 ## Notes
 
-* CC: No Pagination - all inquiries for a submitter would be returned in the call
-* CC: Inactive inquiries and Status not (New, InProgress, ReOpened, Solved) will be filtered out by default
-* CC: Handling of Attachments -- Include an array of Attachment IDs for the inquiry.  Access is part of view inquiry process.
+* ~CC: No Pagination - all inquiries for a submitter would be returned in the call~
+* ~CC: Inactive inquiries and Status not (New, InProgress, ReOpened, Solved) will be filtered out by default~
+* ~CC: Handling of Attachments -- Include an array of Attachment IDs for the inquiry.  Access is part of view inquiry process.~
 

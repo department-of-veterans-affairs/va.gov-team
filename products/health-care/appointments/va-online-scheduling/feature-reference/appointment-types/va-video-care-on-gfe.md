@@ -1,4 +1,4 @@
-# VA Video Care at home appointment
+# VA Video Care on GFE (Government Furnished Equipment)
 
 ## Overview
 

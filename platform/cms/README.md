@@ -63,11 +63,11 @@ Documentation about the CMS lives in various places
 ### CMS Team
 - Erika Washburn, VA Product Owner, Slack `@Erika Washburn`
 - Berni Xiong, Senior Delivery Manager - Slack `@Berni Xiong`
-- Marcia Ortiz, Product Manager
+- Marcia Ortiz, Senior Product Manager
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - John Luo, Software Quality Architect
-- Ari Perez, DevOps Engineer (Currently backfilling for Eric Oliver through 11/10/2023)
-- Eric Oliver, DevOps Engineer - Slack `@Eric Oliver` (Currently on parental leave through 10/26/2023)
+- Ari Perez, DevOps Engineer (on A6 contract through Dec-2023)
+- Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
 - Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`

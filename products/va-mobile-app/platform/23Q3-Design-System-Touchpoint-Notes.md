@@ -5,6 +5,15 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 11/21/23
+*   Review Button component in Storybook
+*   Discuss Color Tokens
+*   Review Alert component
+
+### Action Items
+- [ ] Create ticket to reconcile White Button variant in app on Login Screen
+- [ ] Request to add dark mode colors tokens to VADS
+
 ## 10/12/23
 *   Discuss Review/Feedback process (based on Service Blueprint work)
      -  How and where and who do we want to have a review/approval process?

@@ -50,11 +50,29 @@
   - Link destination: 
   - Notes: Add entry point in search results for Form 21-0779
     
-3. **[Additional forms](https://www.va.gov/supporting-forms-for-claims/)** - Add
-  - Placement description: 
+3. **[Evidence to support VA pension, DIC, or accrued benefits claims
+](https://www.va.gov/resources/evidence-to-support-va-pension-dic-or-accrued-benefits-claims/)** - Add
+  - Placement description: Under "What the evidence must show" section and under accordion "For increased Veterans Pension benefits based on Aid and Attendance or being housebound", there's an area with additional forms.
   - Link label: TBD by Sitewide Content
   - Link destination: 
   - Notes:
+
+<img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/78d945f8-a616-4150-af7e-2725b7637419">
+
+4. **[Evidence needed for your disability claim](https://www.va.gov/disability/how-to-file-claim/evidence-needed/)** - Add
+  - Placement description: Under "Additional evidence for certain benefits" section and under accordion "Aid and Attendance benefits and Housebound allowance".
+  - Link label: TBD by Sitewide Content
+  - Link destination: 
+  - Notes:
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/17128036-bda8-4eed-ab21-56cf4c694395">
+
+5. **[Fully developed claim for a VA pension](https://www.va.gov/pension/how-to-apply/fully-developed-claim/)** - Add
+  - Placement description: Under "Special situations" section.
+  - Link label: TBD by Sitewide Content
+  - Link destination: 
+  - Notes:
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/319d2cf1-969d-4930-bdf6-62119f630be5">
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  

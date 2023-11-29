@@ -22,6 +22,16 @@ body:
         - User Surveys
     validations:
       required: true
+  - type: dropdown
+    id: data-source-type
+    attributes:
+      label: Data Source Type
+      description: For MyVA 411 data, select \"MyVA.411.\" For Medallia data, select \"Medallia.\"
+      options:
+        - MyVA.411 
+        - Medallia
+    validations:
+      required: true
   - type: input
     id: start-date
     attributes:

@@ -1,6 +1,14 @@
 # VAOS product and business rules
 
+We have migrated this documentation to the [feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference). 
+
+This file can be deleted after 02/01/24
+
+<!--
+
 This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that VAOS follows.
+
+
 
 ## Application level
 
@@ -222,3 +230,4 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - The appointment confirmation page is shown after a successful directly scheduled appointment
 - It is meant to look like the appointment detail page
 
+-->

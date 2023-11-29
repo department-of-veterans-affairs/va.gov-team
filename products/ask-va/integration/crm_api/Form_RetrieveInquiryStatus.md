@@ -18,7 +18,7 @@
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
-|secid|string|User security identifier|
+|ICN|string|The logged in user's ICN|
 
 ## Response
 
@@ -64,3 +64,5 @@
 </table>
 
 ## Notes
+
+The data returned is the same structure as the dashboard list of inquiries, but will contain the one inquiry that matches the inquiry number provided.

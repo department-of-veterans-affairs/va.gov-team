@@ -1,6 +1,6 @@
 ## README.md
 
-This is the list of APIs that the va.gov UI will consume, in priority order. The priority was determined by:
+This is the list of APIs that the VA.gov UI will consume, in priority order. The priority was determined by:
 
 1. Ping endpoint first, as the simplest test of the plumbing.
 2. Form APIs before Dashboard APIs (since we'll be working on Forms first).
@@ -17,33 +17,28 @@ The links in this document are intentionally disabled. The AVA CRM Team and the 
 |---|---|
 ⬜ | Not Started |
 🟨 | In Progress |
+🟦 | Paused |
 🟩 | Done |
 🟥 | Blocked |
 
-| Artifact | Endpoint | Source | API Status | Integration | Notes | Docs |
-|---|---|---|:---:|:---:|---|:---:|
-Status | GET /ping | Dynamics | 🟩 | 🟨 |  | [link] |
-Form | GET /topics?[id] | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | GET /alerts | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | PUT /inquiry/new | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | GET /inquiry?{num} | Dynamics | ⬜ | ⬜ | inquiry by number | [link] |
-Dashboard | GET /inquiries | Dynamics | ⬜ | ⬜ | dahsboard inquiries | [link] |
-Dashboard | GET /inquiries/search?{txt} | Dynamics | ⬜ | ⬜ | inquiry and reply search | [link] |
-Dashboard | GET /inquiry/{id}/replies | Dynamics | ⬜ | ⬜ | | [link] |
-Dashboard | PUT /inquiry/{id}/reply/new | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | PUT /attachment/new?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
-Dashboard | GET /attachment?{id} | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | GET /facilities?{id} | Lighthouse | ⬜ | ⬜ |  | [link] |
-Form | GET /facilities?{latlong} | Lighthouse | ⬜ | ⬜ |  | [link] |
-Form | GET /facilities/ed?{id} | Dynamics? | ⬜ | ⬜ | likely Dynamics | [link] |
-Form | GET /facilities/ed?{latlong} | Dynamics? | ⬜ | ⬜ | likely Dynamics | [link] |
-Form | GET /zipcodes?{prefix} | Lighthouse? | ⬜ | ⬜ |  | [link] |
-Form | GET /states | Lighthouse | ⬜ | ⬜ |  | [link] |
-Form | GET /countries | Lighthouse | ⬜ | ⬜ |  | [link] |
-Dashboard | GET /profile | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
-Dashboard | ~PUT /profile/new~ | VA Profile | ⬜ | ⬜ | VA Profile  | [link] |
-Dashboard | ~POST /profile~ | VA Profile | ⬜ | ⬜ | VA Profile | [link] |
-Form | ~GET /states~ | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | ~GET /provinces~ | Dynamics | ⬜ | ⬜ |  | [link] |
-Form | ~GET /inquiry?[id]~ | Dynamics | ⬜ | ⬜ | | [link] |
-Form | ~PUT /attachment?[id]~ | Dynamics | ⬜ | ⬜  |  | [link] |
+Note: The CRM team will share endpoint designs with the front-end team as they complete them.
+
+| Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes |
+|---|---|---|:---:|:---:|---|---|
+Status | [GET /ping](Status_Ping.md) | Dynamics | 🟩 | 🟨 | integration | Khoa pending correct configuration to test in staging  | 
+Form | [GET /topics?{id}](Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | 
+Form | [GET /announcements](Form_RetrieveBannerMessage.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
+Dashboard | [GET /inquiries](Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
+Form | [GET /inquirystatus?{inquiry_number}](Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | Inquiry Status Retrieval| 
+Dashboard | [GET /inquiry/{id}/replies](Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
+Form | [GET /schools?{code}](Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Form | [PUT /inquiry/new](Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
+Dashboard | [PUT /inquiry/{id}/reply/new](Dashboard_SubmitAReply.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Dashboard | [PUT /attachment/new?{id}](Dashboard_UploadFile.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Dashboard | [GET /attachment?{id}](Dashboard_GetAttachment.md) | Dynamics | 🟨 | ⬜ | design | | 
+Form | [GET /zipcodes?{prefix}](Form_ZipCodes.md) | Lighthouse | N/A | ⬜ | design |  | 
+Form | [GET /states](Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
+Form | [GET /countries](Form_GetCountries.md) | Lighthouse | N/A | ⬜ | design | | 
+Form | [GET /facilities?{code}](Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
+Dashboard | [GET /profile](Dashboard_ReadMyProfile.md)   | VA Profile | 🟦 | ⬜ | design | VA Profile | 
+

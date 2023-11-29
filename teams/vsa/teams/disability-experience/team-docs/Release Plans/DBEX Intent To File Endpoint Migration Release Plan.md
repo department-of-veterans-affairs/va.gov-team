@@ -35,7 +35,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Stage C: 10%
     - [x] Stage D: 25%
     - [x] Stage E: 50%
-    - [ ] Stage F: Go live!
+    - [x] Stage F: Go live!
 - [ ] Post-launch questions
 
 
@@ -245,16 +245,10 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 
 ### Stage F: Go Live!
-- Date Started: 
+- Date Started: 10/2
 - Percentage of Users (and roughly how many users do you expect this to be): 100% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies:
 - Rollbacks:
 
 <br>
@@ -262,8 +256,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ## Post-launch Questions  
 To be completed once you have gathered your initial set of data, as outlined above.   
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?  
-2. What qualitative feedback have you gathered from users or other stakeholders, if any?  
-3. Which of the assumptions you listed in your product outline were/were not validated?  
-4. How might your product evolve now or in the future based on these results? 
-5. What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+2. Were there any metrics that could be considered useful post-rollout for auomated alerts?
+3. What qualitative feedback have you gathered from users or other stakeholders, if any?  
+4. Which of the assumptions you listed in your product outline were/were not validated?  
+5. How might your product evolve now or in the future based on these results? 
+6. What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?

@@ -1,6 +1,6 @@
 # EVSS > LH Disabilities Rating API Migration
 
-**Updated:** 08/15/2023
+**Updated:** 11/14/2023 answered post launch questions
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 ## Overview 
 
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) <br>
-[Inititve Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/inititiveBrief.md) 
+[Inititve Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag/evssMigrationToLH) 
 
 
 ## Important Artifacts 
@@ -137,9 +137,9 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-2. What qualitative feedback have you gathered from users or other stakeholders, if any?
-3. Which of the assumptions you listed in your product outline were/were not validated? 
-4. How might your product evolve now or in the future based on these results?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"? - things are looking great! We've not seen a dip in the statistics with the migration to the new endpoint
+2. What qualitative feedback have you gathered from users or other stakeholders, if any? - none
+3. Which of the assumptions you listed in your product outline were/were not validated? - n/a this was a migration so it wasn't really a new build where we'd have assumptions to check 
+4. How might your product evolve now or in the future based on these results? - not really applicable as again this was a migration to a new endpoint
 
 

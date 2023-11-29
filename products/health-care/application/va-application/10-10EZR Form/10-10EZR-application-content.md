@@ -7,13 +7,13 @@
 
 --- 
 
-Pages listed below **Need to include URL**
+Pages listed below
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 ### Page: Introduction - UNAUTHENTICATED VIEW, other status component below
 
-#### URL: /health-care/-----/introduction
+#### URL: /my-health/update-benefits-information-form-10-10ezr/introduction
 
 
 [h1] Update your VA health benefits information 
@@ -122,7 +122,7 @@ If you are on a public computer, sign out of your account so your information st
 
 ### Page: Personal Information - Authenticated View
 
-#### URL: /health-care/----/veteran-information/profile-information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -131,7 +131,7 @@ If you are on a public computer, sign out of your account so your information st
 [end progress bar]
 
 
-[p] Confirm your information before you continue.
+[p] This is the personal information we have on file for you.
 
 [read only block component]
 - [p bold] Name
@@ -166,7 +166,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Mailing address - AUTHENTICATED View
 
-#### URL: /health-care/----/veteran-information/veteran-address
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/mailing-address
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -225,7 +225,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Home address
 
-#### URL: /health-care/- - - - /veteran-information/veteran-home-address
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/home-address
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -275,7 +275,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Phone and email address - AUTHENTICATED View
 
-#### URL: /health-care/----/veteran-information/veteran-phone-email-address
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/contact-information
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -314,7 +314,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Marital status - AUTHENTICATED View (Pre-filled path: Previously reported married with spouse information prefilled)
 
-#### URL: /health-care/----/household-information/marital-status
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/marital-status
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -346,7 +346,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Spouse information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/spouse information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/spouse-personal-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -397,7 +397,7 @@ Month Day Year (dropdowns)
 
 ### Page: Spouse information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/spouse-additional-information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/spouse-additional-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -510,7 +510,7 @@ Month Day Year (dropdowns)
 
 ### Page: Review Dependents - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/dependents
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -595,7 +595,7 @@ An unmarried child (including adopted children or stepchildren)
 
 ### Page: Dependent information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -659,7 +659,7 @@ Month Day Year (dropdowns)
 
 ### Page: Dependent education expenses - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-education-expenses
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/Dependent-education-expenses
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -696,7 +696,7 @@ Month Day Year (dropdowns)
 
 ### Page: Dependent additional information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-additional-info
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -740,7 +740,7 @@ Month Day Year (dropdowns)
 
 ### Page: Dependent financial support- AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-financial-support
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -788,7 +788,7 @@ One-time payment financial support
 
 ### Page: Dependent annual income - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-financial-support
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -852,7 +852,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Veteran's annual income - AUTHENTICATED View (No prefill for income or deductible from previous year)
 
-#### URL: /health-care/----/household-information/veteran-annual-income
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/veteran-annual-income
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -916,7 +916,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Spouse's annual income - AUTHENTICATED View 
 
-#### URL: /health-care/----/household-information/Spouse-annual-income
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/spouse-annual-income
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -980,7 +980,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: deductible expenses - AUTHENTICATED View 
 
-#### URL: /health-care/----/household-information/Spouse-annual-income
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/deductible-expenses
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1060,7 +1060,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Medicaid - AUTHENTICATED View (Pre-filled screens)
 
-#### URL: /health-care/----/insurance-information/Medicaid
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/medicaid-eligibility
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1099,7 +1099,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Medicare - AUTHENTICATED View (Pre-filled screens)
 
-#### URL: /health-care/----/insurance-information/Medicare
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-enrollment
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1168,7 +1168,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Medicare Effective Date - AUTHENTICATED View (Pre-filled screens)
 
-#### URL: /health-care/----/insurance-information/medicare-part-a-effective-date
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-effective-date
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1194,17 +1194,45 @@ Enter your dependent's net annual income from a farm, property, or business from
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
+------------------------------------------------------------------------------
+## Step 3 Insurance information -  New Insurance
+------------------------------------------------------------------------------
+### Page: Insurance Policies - AUTHENTICATED View (CONDITIONAL, no previous Insurance Info)
 
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/policies
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
 
+[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
 
+We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+
+Do you have health insurance coverage to add?(*Required)
+
+[component radio select]
+
+[add info content]
+[p] Why giving us your health insurance information may help you: 
+[ul]
+**Giving us your health insurance information helps you for these reasons:**
+- We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copay, we may be able to use the payments from your provider to cover some or all of your copay.
+- Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+
+[radio select options]
+- Yes
+- No
 
 ------------------------------------------------------------------------------
 ## Step 3 Insurance information - Review Insurance
 ------------------------------------------------------------------------------
 
-### Page: Review Dependents - AUTHENTICATED View
+### Page: Review Insurance - AUTHENTICATED View (CONDITIONAL, Previously entered Insurance Info)
 
-#### URL: /health-care/----/household-information/Review-Insurance
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/policies
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1264,7 +1292,7 @@ Your private insurance provider may apply your VA health care charges toward you
 
 ### Page: Insurance Policy - AUTHENTICATED View (CONDITIONAL - New Policy)
 
-#### URL: /health-care/----/household-information/-------
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/policy-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1321,9 +1349,9 @@ Your private insurance provider may apply your VA health care charges toward you
 ## Step 6 Review 
 ------------------------------------------------------------------------------
 
-URL: health-care/---------review-and-submit
-Page: Review (Successful)
+### Page: Review (Successful)
 
+#### URL: /my-health/update-benefits-information-form-10-10ezr/review-and-submit
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1370,9 +1398,9 @@ You’ve read and accept our privacy policy.
 ## Step 6 Review 
 ------------------------------------------------------------------------------
 
-URL: health-care/---------review-and-submit
-Page: Review (Unsuccessful Submission)
+### Page: Review (Unsuccessful Submission)
 
+#### URL: /my-health/update-benefits-information-form-10-10ezr/review-and-submit
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1389,10 +1417,10 @@ Page: Review (Unsuccessful Submission)
 [p] By submitting this application, you agree to these statements:
 
 [ul]
-You’ll pay any VA copays for care or services (including urgent care) that may apply, based on your priority group and other factors.
-You agree that we can contact you at the email, home phone number, and mobile phone number you gave us in the application.
-You agree to the assignment of benefits so we can bill your other health insurance or other responsible party for charges of non service-connected VA medical care or services.
-You’ve read and accept our privacy policy.
+- You’ll pay any VA copays for care or services (including urgent care) that may apply, based on your priority group and other factors.
+- You agree that we can contact you at the address and any email or phone number you gave us in this application.
+- You agree to the assignment of benefits so we can bill your other health insurance or other responsible party for any charges for non-service-connected VA medical care or services that may apply.
+- You’ve read and accept our privacy policy.
 [a = https://staging.va.gov/privacy-policy/]Read our privacy policy[/a]
 
 [additional information component]
@@ -1428,7 +1456,7 @@ Confirmation
 ------------------------------------------------------------------------------
 ### Page: Confirmation
 
-#### URL: health-care/- - - --/confirmation
+#### URL: /my-health/update-benefits-information-form-10-10ezr/confirmation
 
 [h1] Update your VA health benefits information
   [subtitle] Health Benefits Update Form (VA Form 10-10EZR)

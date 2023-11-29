@@ -4,12 +4,46 @@ Please log key decisions related to the below practice areas, including date, wh
 
 # Medical records design decisions
 
+## Nov 22, 2023
+
+### State of product
+* Phase 0
+* Domains included: Allergies, [NEW] Vaccines
+* Final designs for Phase 0, Vaccines launch
+
+### General product design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The product will have a left navigation bar |  The introduction of a second domain necessitates secondary navigation  |
+| A user can download either a PDF or a Text file |  Due to avaialble eng time, donwloading a text file was completed earlier than expected. A11y advised that text files are more easily used by folks who read Braille.  |
+
+### Vaccines specific design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
+| The list view page for allergies will be at the URL …/my-health/medical-records/vaccines/ |   |
+| A details page for allergies will be at the URL …/my-health/medical-records/vaccines/vaccine_ID |     |
+| The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|
+| A user can print from the list view. When they do, they receive a print out of all of their vaccines |     |
+| A user can print from the details view. When they do, they receive a print out of the details for just that vaccine |     |
+| A user can download from the list view. When they do, they receive either a PDF or text file that includes a list of all of their vaccines |   |
+| A user can download from the details view. When they do, they receive either a PDF or text file that includes just the details of that vaccine |      |
+| A user will be presented information on the consequences of downloading on a public computer | |
+| The list view will present each vaccine in a card format. That card will include both the vaccine logged and the date it was received as entered into the EHR by a provider. | A user may get the same vaccine yearly, and therefore we need a second identifier to differenitate. Given a user cannot receive the same vaccine on the same day, date received fits the bill. |
+| The H1 of the details view will be the vaccine name. Directly underneath the H1 will be date received information | | 
+| In the details view for a vaccine, a user will be shown vaccine name, date received, location received, and provider notes | |
+| The field reaction will not be shown at launch. | This was based on feedback from SMEs. There are still many qustions about how the field is used in the field. We want to track down these reasons to properly explain this field to users. This must be resolved before moving MR to Phase 1 |
+| The following data can be shown to users once verified by KBS and if they are available. They do not need to be included at launch into phase 0: Vaccine series information, Manufacturer, Site (such as left arm), Vaccine status (such as completed) and Lot number. | These are important pieces of data for patients, but ahve not been shown in MHV in the past. Therefore, we must first verify their accuracy with KBS.|
+| The following field should not be shown to users: CPT code, who administered the code | After discussion, the SMEs determined they were not needed for patient view and may cause confusion. A user would still be able to get this information by asking their provider directly or submitting a full records request.|
+
+
+
 ## Oct 4, 2023
 
 ### State of product
 * Phase 0
 * Domains included: Allergies
-* Final designs for Phase 0, Allergy launch
+* [Final designs for Phase 0, Allergy launch](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
 
 ### General product design decisions
 | Decision | Reasoning |

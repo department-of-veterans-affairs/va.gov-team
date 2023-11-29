@@ -7,7 +7,7 @@ Reminders assist clinical decision-making and also improve documentation and fol
  
 Clinical Reminders may be used for both clinical and administrative purposes.” 
 
-[Clinical Reminders Manager’s Manual](http://ttps://www.va.gov/vdl/documents/Clinical/CPRS-Clinical_Reminders/pxrm_2_mm.pdf)
+[Clinical Reminders Manager’s Manual](http://www.va.gov/vdl/documents/Clinical/CPRS-Clinical_Reminders/pxrm_2_mm.pdf)
 
 The volume of clinical reminders has been impacting the quality of the time the patient spends with the provider. Providers have also reported increased burden due to data entry and notification fatigue. Therefore, Veteran Health Administration (VHA) is in search of a tool that allows customizable and standardized health forms, screeners, and questionnaires to be sent to the patient to collect responses asynchronously. Through an earlier evaluation, it was identified that VA already has two digital questionnaire tools within our ecosystem, Behavioral Health Labs (BHL) and eScreening, that can meet many, but not all our process and technological needs. OCC, OCTO, and VHA program offices agreed to complete a pilot to gather more insight to compare the tools. This study will collect Veteran feedback on the tools.
 
@@ -64,6 +64,16 @@ Sessions will take place via Zoom meetings.
   - Nov. 29 from 9:30 to 5 ET
   - Nov. 30 from 9 to 5 ET
   - Dec. 1 from 9:30 to 3 ET
+  - 12/4 from 9-12, 2-5 ET
+  - 12/5 from 9-12 ET
+  - 12/6 from 9-1:30 ET
+  - 12/7 from 9-Noon ET
+  - 12/8 from 9-10, 11-Noon, 2-3 ET
+  - 12/11 from 9-1, 4-5 ET
+  - 12/12 from 9-12:30 ET
+  - 12/13 from 9-3 ET
+  - 12/14 from 9-11:15, 12-2:00 ET
+  - 12/15 from 1-5 ET
 
 #### Recruitment criteria
 [Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/398)

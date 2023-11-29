@@ -32,25 +32,43 @@ Product Managers are responsible for keeping these directories up-to-date and we
 ## Team
 
 ### VA Product Owners
-- Cody Reinhold
-- John Rahagi
+- Tom Black
 
 ### Product and Program Management
-- Nick Soutouras - Product Leadership
-
+- Danielle Baranowski - Program Manager
+- Mike King - Product Manager
+- Jim Connelly - Product Manager
+- Lisa Lindsey - Delivery Manager
 
 ### UX
-- Amanda Porter - UX Designer/Researcher
-- Sam Vang - UX Designer/Researcher
+
+- Clayton Zook - UX Lead
+- Charlye Tran - UX Designer/Researcher
+- Josh Mantulonis - UX Researcher
+- Megan Driscoll - UX Content Designer
 
 ### Engineering
-- Joe Niquette - Engineering Lead
-- Trevor Bosaw - Backend Engineer
+- Joe Niquette - Security Engineer, Lead Engineer
+
+#### Backend
+- Trevor Bosaw - Backend Lead
 - John Bramley - Backend Engineer
-- Alex Garcia - Frontend Engineer
-- Jhonny Gonzalez - Frontend Engineer
-- Sylvester Lee - Security Engineer
-- Ian Hundree - DevOps Engineer
+- Richard Davis - Backend Engineer
+- Daniel da Silva - Backend Engineer
+- Riley Anderson - Backend Engineer
+
+#### Frontend
+- Alex Garcia - Frontend Lead
+- Afia Caruso - Frontend Engineer
+- Antonette Caldwell - Frontend Engineer
+- Afia Caruso - Frontend Engineer
+- Ian Magenta - Frontend Engineer
+- Caitlin Neathawk - Frontend Engineer
+
+#### DevOps
+- Vid Jovanovic - DevOps Engineer
+- Josh Houston - DevOps Engineer
+- Zac Yellowhorse - DevOps Engineer
 
 
 ## Communications

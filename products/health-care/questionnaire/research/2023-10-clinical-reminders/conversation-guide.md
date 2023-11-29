@@ -77,7 +77,9 @@ Before we start, a few things I want to mention:
 - How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
   - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
     - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
+    - [eScreening text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening-text.jpg)
     - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
+    - [BHL text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Text.png)
 
 - How far in advance of your appointment did you receive this notification? 
 

@@ -26,17 +26,17 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-|    P4 `Reschedule`                   |          10/25/2023        |     Dolphin               |     Intermediate            |     Windows                 |    Chrome         |     Desktop        |
-|    P5                    |        10/27/2023          |        JAWS            |         Intermediate        |           Windows           |             | Desktop            |
-|       P7                 |            10/30/2023      |                    |                 |                      |             |             |
-|   P8                     |          10/31/2023        |                    |                 |                      |             |             |
-|   P9                     |              11/1/2023    |                    |                 |                      |             |             |
-|       P10                 |                 11/3/2023 |                    |                 |                      |             |             |
+|    P4 `1/2 Session`                   |          10/25/2023        |     Dolphin               |     Intermediate            |     Windows                 |    Chrome         |     Desktop        |
+|    P5                    |        10/27/2023          |        JAWS            |         Intermediate        |           Windows           |    Chrome         | Desktop            |
+|       P7 `No Show`                 |            10/30/2023      |      Unsure (Screen reader was set up for user)              |   Intermediate              | Android                     | Chrome, Firefox      |  Mobile                   |
+|   P8      `1/2 Session`               |          10/31/2023        | JAWS                    | Intermediate                 | Windows                     | Chrome            |    Desktop         |
+|   P9 `No Show`                    |              11/1/2023    |    N/A                |    N/A             |  N/A                    | N/A            | N/A            |
+|       P10   `1/2 Session`             |                 11/3/2023 |  Voiceover                  |  Intermediate               | Mac                    |  Safari           |  Desktop           |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 
 
-**Participants who successfully completed sessions: XX**
+**Participants who successfully completed sessions: 1**
 
 ## Transcripts
 [Transcripts Folder for Debt Resolution Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/c312723a9f11ddde0199374b6720dfd784883b25/products/streamlined_waiver/accessibility_research/transcripts)

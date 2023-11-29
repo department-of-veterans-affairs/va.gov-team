@@ -24,7 +24,7 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
 - Pending and canceled requests from VistA must display in VAOS if all the following are true:
   - VistA Type Request Type = VETERAN AND 
   - `Create Date` is  <= 120 days.   
-- Pending and canceled requests from HSRM must display in VAOS if the Create Date is  <= 120 days.   
+- Pending and canceled requests from HSRM must display in VAOS if the `Create Date` is  <= 120 days.   
 - Order requests by date/time the request was created. 
   - Most recent requests appear at the top of the list.
 - All pending requests must be cancellable.
@@ -35,7 +35,8 @@ As a Veteran, I want an overview of appointments I've requested to see if they h
   - CURRENT STATUS: CLOSED    
   - DATE DISPOSITIONED: current date      
   - DISPOSITIONED BY: SDESOITEAS,SRV
-  - DISPOSITION: VET SELF-CANCEL        
+  - DISPOSITION: VET SELF-CANCEL
+- In VSE GUI, VAOS request can be dispositioned as follows: Death, Removed-Non VA Care, Removed-Scheduled/Assigned, Removed-VA Contract Care, Removed-No Longer Required, Entered in Error and Failure to Respond.  Except for Removed-Scheduled/Assigned, the other reasons when selected must show the request as cancelled and must display in the Cancelled section of pending appointments.           
 
 ## Specifications
 
