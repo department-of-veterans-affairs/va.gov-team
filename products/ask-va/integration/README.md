@@ -36,7 +36,7 @@ Form | [GET /announcements](Form_RetrieveBannerMessage.md) | Dynamics | 🟨 | �
 Dashboard | [GET /inquiries](Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
 Form | [GET /inquirystatus?{inquiryNumber}](Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | Inquiry Status Retrieval| 
 Dashboard | [GET /inquiry/{id}/replies](Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
-Form | [GET /schools?{code}](Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Form | [GET /schools?{facilityId}](Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
 Form | [PUT /inquiry/new](Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
 Dashboard | [PUT /inquiry/{id}/reply/new](Dashboard_SubmitAReply.md) | Dynamics | 🟨 | ⬜ | design |  | 
 Dashboard | [PUT /attachment/new?{inquiryNumber}](Dashboard_UploadFile.md) | Dynamics | 🟨 | ⬜ | design |  | 
