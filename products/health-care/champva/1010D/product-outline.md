@@ -30,9 +30,10 @@ Uncertainty around personal information being submitted online
 3. Reduce number of paper forms mailed and faxed. 
 
 ## Undesired Business Outcomes
-Increase in number of incomplete or incorrect applications
-Lack of awareness in Veteran community around ability to fill out application online
-Online information not being transferred successfully for processing
+
+- Increase in number of incomplete or incorrect applications
+- Lack of awareness in Veteran community around ability to fill out application online
+- Online information not being transferred successfully for processing
 
 
 ---
@@ -64,14 +65,14 @@ Online information not being transferred successfully for processing
 ---
 
 ## Assumptions
-Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
-Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
+- Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
+- Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
 
 
 ## Solution Approach
-We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
-Connect with CAIA on migration effort happening in parallel
-CAIA kickoff scheduled 11/29
+- We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
+- Connect with CAIA on migration effort happening in parallel
+-- CAIA kickoff scheduled 11/29
 
 --- 
 
