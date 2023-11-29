@@ -34,12 +34,12 @@ Status | [GET /ping](Status_Ping.md) | Dynamics | 🟩 | 🟨 | integration | Kh
 Form | [GET /topics?{id}](Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | 
 Form | [GET /announcements](Form_RetrieveBannerMessage.md) | Dynamics | 🟨 | ⬜ | design | CRM team to complete design of all endpoints by 11/29| 
 Dashboard | [GET /inquiries](Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | design | | 
-Form | [GET /inquirystatus?{inquiry_number}](Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | Inquiry Status Retrieval| 
+Form | [GET /inquirystatus?{inquiryNumber}](Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | design | Inquiry Status Retrieval| 
 Dashboard | [GET /inquiry/{id}/replies](Dashboard_RetrieveCorrespondence.md) | Dynamics | 🟨 | ⬜ | design | |
 Form | [GET /schools?{code}](Form_SchoolFacilityCodes.md) | Dynamics | 🟨 | ⬜ | design |  | 
 Form | [PUT /inquiry/new](Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
 Dashboard | [PUT /inquiry/{id}/reply/new](Dashboard_SubmitAReply.md) | Dynamics | 🟨 | ⬜ | design |  | 
-Dashboard | [PUT /attachment/new?{id}](Dashboard_UploadFile.md) | Dynamics | 🟨 | ⬜ | design |  | 
+Dashboard | [PUT /attachment/new?{inquiryNumber}](Dashboard_UploadFile.md) | Dynamics | 🟨 | ⬜ | design |  | 
 Dashboard | [GET /attachment?{id}](Dashboard_GetAttachment.md) | Dynamics | 🟨 | ⬜ | design | | 
 Form | [GET /zipcodes?{prefix}](Form_ZipCodes.md) | Lighthouse | N/A | ⬜ | design |  | 
 Form | [GET /states](Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
