@@ -18,7 +18,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Gender identity`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Require `Gender identity` in `Chapter 3` for the submitter||
+|All categories|Require submitter's `Gender identity` in `Chapter 3`||
 
 - Submitter can be the Veteran, a family member, or another third party.
 - **Update 10/23:** We recommend that this field is removed. This document will be updated once the decision is final.
@@ -26,7 +26,7 @@ This document is for our design team to communicate field rules to our engineeri
 ## `Pronouns`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Require `Pronouns` in `Chapter 3` for the submitter **and** whomever the inquiry is about||
+|All categories|Require submitter's and whomever the inquiry is about's `Pronouns` in `Chapter 3`||
 
 - Submitter can be the Veteran, a family member, or another third party.
 - Who the inquiry is about can be the Veteran or a family member.
@@ -69,9 +69,13 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of residency`||
 |Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school`||
 |Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `School facility`||
+|All other categories|Don't include school fields||
 
 ## Medical facility
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`|
-|Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`|
+|Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`||
+|Category = `Health care` and topic = all other topics|Don't include medical facility||
+|Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`||
+|Category = `Debt` and topic ≠ `Health care copay detb`|Don't include medical facility||
+|All other categories|Don't include medical facility||
