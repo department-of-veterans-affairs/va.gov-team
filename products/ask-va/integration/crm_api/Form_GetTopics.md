@@ -4,12 +4,12 @@
 
 **Method**: GET
 
-**Path**: /topics?[parentId]
+**Path**: /topics?{id}
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|parentId|string|the parent category or topic from which to retrieve a list of topics or subtopics|
+|id|string|the parent category id or topic id from which to retrieve a list of topics or subtopics|
 
 This parameter is optional. 
 
