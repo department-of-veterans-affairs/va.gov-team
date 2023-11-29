@@ -55,6 +55,7 @@ Internal:
 **V2 and beyond**
 
 * Continue to revisit this decision on an annual basis
+* [Formalize test plan for newly-released OS versions](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/3563)
 
 ## Technical Approach
 
