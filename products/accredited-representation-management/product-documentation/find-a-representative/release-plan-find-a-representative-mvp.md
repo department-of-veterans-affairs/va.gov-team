@@ -56,7 +56,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 12/4-12/18
+- Rollout date range: 12/11-12/18
 - Limited production access will be controlled through our vets-website `findARepresentativeShowApplication` vets-website feature toggle
 - Lindsay will monitor metrics (detailed below) for relevant insights
 - Errors will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
