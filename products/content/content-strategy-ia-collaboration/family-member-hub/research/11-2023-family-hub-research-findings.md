@@ -73,19 +73,38 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. Participants primarily navigated to the family member hub in 4/5 tasks related to getting benefits for themselves
+     - Participants navigated directly to the family member hub 59% of the time, versus navigating directly to any Veteran benefit hub 32% of the time
+     - Participants navigated indirectly to the family member hub 64% of the time 
+     - There was almost twice the amount of activity within the family member hub than the Veteran benefit hubs
+     - Participants selected responses in the family member hub 62% of the time, veresus selecting answers in a Veteran benefit hub 33% of the time. When participants selected answers in the Veteran benefit hubs, the answers were mostly incorrect.
+     - The only exception to these results was the task for applying for transferred GI Bill benefits - for this task, participants navigated to the Veteran education benefits hub twice as often.  In addition, once in the Veteran education benefits hub, very few participants found the correct answer and instead selected an incorrect response 81% of the time 
 
-2. Finding two
+2. Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub
+     - Participants navigated directly to the family member hub 33% of the time, versus navigating directly to any Veteran benefit hub 55% of the time
+     - Participants navigated indirectly to the family member hub 42% of the time 
+     - It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
+     - Participants selected responses in the Veteran benefit hubs 47% of the time, versus selecting answers in the family member hub only 30% of the time. When participants did select answers in the family member hub, the answers were mostly incorrect
 
-3. Finding three
+3. Participants navigated to and selected answers in the family member hub almost 3 times more than the Veteran benefit hubs for tasks specific to survivor benefits
+      - Participants navigated directly to the family member hub 60% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time
+      - Participants navigated directly to the survivors section of the family member hub 39% of the time, and indirectly 45% of the time
+      - Participants selected answers within the family member hub 61% of the time, versus selecting answers in the Veteran benefit hubs only 24% of the time
+      - Although the family member hub was high destination, only half of the answers selected there were in the section specific to survivors
+      - There were 3 tasks specific to survivors
+      - There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
 
-4. Finding four
+5. Finding four
 
-5. Finding five
+6. Finding five
 
-6. Finding six
+7. Finding six
 
-7. Finding seven
+8. The "common tasks" section of the family member hub was rarely utilized
+  - <5% navigated to it in any task
+  - It was viewed most for the fiduciary task (15%) than any other task, which isn't the correct location for that task
+  - 12% of participants looked here for travel pay - never directly - and once there all of them selected the travel pay option in this section 
+  - It is 3 clicks to get to the "common tasks" section in the family hub, 5 clicks to get to the "Manage" section of the benefits within the family hub, and 3 clicks to get to the "manage" section within the Veteran benefit hubs
 
 
 ## Details of Findings 
