@@ -3,7 +3,7 @@
 **Last updated:** November 16 , 2023 (updates to user does not have health care use case)
 
 ## Overview of Health Care:
-- This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS) to give the user dynamic content updates for upcoming appointments and unread messages.
+- This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS, or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
 - This feature also contains links to useful, top-task health care features: prescription refills, travel reimbursement, and VA medical records and test results.
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
