@@ -587,7 +587,7 @@ VA.gov uses search.gov as its engine. Public Websites owns that integration, and
 * [On Site Search - product docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search)
 * Design system: [Search input](https://design.va.gov/components/search-input)
 * Search.gov indexing documentation: https://search.gov/indexing/indexing-with-searchgov.html 
-* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency) 
+* 2021: consistent UI styling for search implementations: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives/search-ui-consistency](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives/search-ui-consistency) 
 * [VFS Product Directory: Search](https://depo-platform-documentation.scrollhelp.site/getting-started/search)
 
 
