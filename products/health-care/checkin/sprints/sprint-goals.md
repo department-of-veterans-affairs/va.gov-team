@@ -3,7 +3,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
-## 11/29/2023 - 12/12/2023  ---------- FUTURE / TENTATIVE --------------
+## 11/29/2023 - 12/12/2023  
 #### SPRINT GOALS
  - **GOAL: Support Production**
  - **GOAL: Make Travel Claims Easier**
@@ -69,8 +69,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Adhere to VA Content Guidelines for H1 Character Counts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70676)**
         - 🟥 [[UX][Content] Audit production and unified check-in headings](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70673)
 
-     
----------- END FUTURE / TENTATIVE --------------
 __________________________________________________________________________________________________________________________________________________________
 
 ## 11/15/2023 - 11/28/2023  
