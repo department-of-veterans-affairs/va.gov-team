@@ -20,6 +20,7 @@
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
 |Previous Research Summary slide deck|Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Link](https://docs.google.com/presentation/d/16s9L1zCopBFH-_C3Bm0f6arFul7d-asn7T3Sfa5d1dw/edit?usp=sharing)|Feb 2023|
+|526 Application Shadowing Research| Shadowing research for the 526 application| [Link] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)|November 2023|
 
 ## Design
 |Title|Description|Link|Version|
