@@ -88,11 +88,18 @@ Uncertainty around personal information being submitted online
 ## Solution Narrative
 
 ### Current Status
-Research and discovery work 
-Workflow creation in Figma
-Preparing to set up user interviews
-‘Skeleton’ built out for initial dev testing
+- Research and discovery work 
+- Workflow creation in Figma
+- Preparing to set up user interviews
+- ‘Skeleton’ built out for initial dev testing
 
+### Questions
+
+- eligibility in workflow
+- notifications?
+- end to end data submission processes/storage
+- auth states
+  
 ### Key Decisions
 
 ---
