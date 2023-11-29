@@ -5,11 +5,10 @@
 
 Feature Toggle Name:
 
-- the vets-website `findARepresentativeShowApplication`
-- the vets-api `find_a_representative_show_application`&#x20;
+- frontend `find_a_representative`
+- backend `find_a_rep`;
 
-_Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles)._
-
+The backend feature toggle will remain on for all users, the frontend feature toggle will be the gatekeeper to manage user visibility during our staged rollout
 
 ### Validation
 
@@ -38,7 +37,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the feature toggle
+1. Turn off the frontend feature toggle
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
@@ -57,7 +56,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 ## Staged Rollout Details
 
 - Rollout date range: 12/11-12/18
-- Limited production access will be controlled through our vets-website `findARepresentativeShowApplication` vets-website feature toggle
+- Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
 - Lindsay will monitor metrics (detailed below) for relevant insights
 - Errors will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
