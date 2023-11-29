@@ -4,13 +4,11 @@
 
 Thank you for taking the time to talk to us today! I’m a __________________ on the Appointments team. We are responsible for the scheduling and appointments tools on VA.gov. Today we are interested in hearing about the challenges you face helping Veterans schedule and manage their appointments.
 
-[Show slide of tool just to level set?]
+Before we start, let's do a quick round of introductions. I'll start with my team.
+
+Just to level set, this is the area we're focused on in VA.gov.
 
 I'll start with a few questions about areas we're focusing on right now, then open it up to anything else that you'd like to talk about.
-
-Before we start, let's do a quick round of introductions. 
-
-I have a few questions to start, then I'll open up to your general concerns/feedback. 
 
 Any questions before we start?
 
