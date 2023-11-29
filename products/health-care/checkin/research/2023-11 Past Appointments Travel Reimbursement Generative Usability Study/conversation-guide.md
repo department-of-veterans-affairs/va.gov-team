@@ -196,7 +196,7 @@ _**Participant is at Appointment list:**_
   - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
 - _If needed for dismiss/close button in card:_
   - What about the x/close button in the card. What would you expect to happen if you selected that?
-  - And if you dismiss it, how would you find that information again?
+  - And if you did select that to dismiss it, how would you find that information again?
   - And what would you expect if you DID NOT select that? 
 
 
