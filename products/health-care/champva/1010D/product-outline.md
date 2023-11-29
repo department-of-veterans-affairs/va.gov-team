@@ -106,14 +106,6 @@ Veterans and family members of Veterans must currently download and fill out the
 ### Key Decisions
 
 ---
-   
-## Screenshots
-
-### Before
-
-### After
-
----
 
 #### Communications
 
