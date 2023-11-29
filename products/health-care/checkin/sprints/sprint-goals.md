@@ -17,7 +17,6 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
      - **Sub Goal: Remove Logging for Certain 40x Errors**
      - **Sub Goal: Switch Components to Design System v. 3**
-     - **Sub Goal: Adhere to VA Content Guidelines for H1 Character Counts**
  
 #### PLANNED RELEASES 
 - ❗ 🟩 [Roll Out Travel and 45-minute Features to All VISNs on 12/5](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)
@@ -66,8 +65,6 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
     - **Sub Goal: [Remove Logging for Certain 40x Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69994)**
         - 🟦 [[BE] Don't report 401 exceptions from LoROTA to Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70746)
-    - **Sub Goal: [Adhere to VA Content Guidelines for H1 Character Counts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70676)**
-        - 🟥 [[UX][Content] Audit production and unified check-in headings](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70673)
 
 __________________________________________________________________________________________________________________________________________________________
 
