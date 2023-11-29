@@ -1,1 +1,31 @@
 
+
+
+
+#Summary
+
+
+#Introduction
+The ever-increasing number of accounts that users have to manage are burdening factors, as users frequently forget their passwords, resulting in losing access to their accounts.
+
+
+##Passkeys
+- Passkeys refer only to WebAuthn/FIDO credentials, and not to the many other keys and protocols, such as PIV, OTP, or OpenPGP Card, available in the YubiKey 5 Series.
+Any passwordless FIDO credential is a passkey. 
+Passkeys are a password replacement that provide faster, easier, and more secure sign-ins to websites and apps across a user’s devices. 
+
+Unlike passwords, passkeys are resistant to phishing, are always strong, and are designed so that there are no shared secrets.
+
+They simplify account registration for apps and websites, are easy to use, work across all of a user’s devices, and even other devices within physical proximity.
+
+From a technical standpoint, passkeys are FIDO credentials that are discoverable by browsers or housed within native applications or security keys for passwordless authentication. 
+
+Passkeys replace passwords with cryptographic key pairs for phishing-resistant sign-in security and an improved user experience. The cryptographic keys are used from end-user devices (computers, phones, or security keys) for user authentication.
+
+Passkeys that are managed by phone or computer operating systems are automatically synced between the user’s devices via a cloud service. The cloud service also stores an encrypted copy of the FIDO credential. 
+
+Single-device passkeys : Designed to be available only from a single device from which they cannot be copied. For example, a physical security key could contain multiple single-device passkeys.
+
+Synced passkeys : Passkeys that are synced between user’s devices via a cloud service.
+
+Device-bound passkeys : Those that never leave a single device (including those on UAF apps).
