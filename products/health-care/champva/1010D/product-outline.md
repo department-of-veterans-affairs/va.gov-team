@@ -47,7 +47,7 @@ Online information not being transferred successfully for processing
 
 #### Baseline KPI Values
 
-- number of Downloads
+- number of downloads
 - number of submissions by mail or fax
 
 ### Objectives and Key results (OKRs)
