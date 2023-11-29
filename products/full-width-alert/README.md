@@ -16,11 +16,18 @@ PO: Dave Conlon
 ## Publishing
 Publishing/updating a full width alert triggers a Drupal content release, which publishes the content / alert to VA.gov
 
+Full width alerts can appear on any page in VA.gov, by PATH. 
+This includes pages that are React apps.
+* at build time, js on every page looks up whether there is an alert to present for that page, and if so, includes the banner markup as part of the HTML output
+* Banners are outside the div that vets-website application gets mounted in, and are not part of the React application
+
+ Extensive Slack thread with more information: https://dsva.slack.com/archives/CT4GZBM8F/p1701286965295299?thread_ts=1701281219.862839&cid=CT4GZBM8F
+
+ 
 ## Usage
 Currently, www.va.gov supports two types of Full Width Alerts:
 1. **Informational alerts,** which are used to provide helpful information to a user or something that warrants attention. Not used for negative consequences.
 2. **Warning alerts,** which are used to warn a user, such as when there are negative consequences, but necessary when something has gone wrong.
-
 
 You can read more about these alert types in the [VA Design System](https://design.va.gov/components/alert) or read more about Full Width Alerts in the (opens in a new window).
 
