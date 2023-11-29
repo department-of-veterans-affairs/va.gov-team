@@ -40,12 +40,15 @@ Online information not being transferred successfully for processing
 
 
 ### Key Performance Indicators (KPIs)
+
 - # of downloads
-- # of digital submissions
+- # of digital submissio
+
 
 #### Baseline KPI Values
-* # of Downloads
-* # of submissions by mail or fax
+
+- # of Downloads
+- # of submissions by mail or fax
 
 ### Objectives and Key results (OKRs)
 
