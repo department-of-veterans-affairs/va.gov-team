@@ -80,8 +80,8 @@ Brief plain-language description of this product
 ### Search UI Consistency
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/search-ui-consistency/product-outline.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives/search-ui-consistency)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-ui-consistency/product-outline.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
