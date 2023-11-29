@@ -6,8 +6,6 @@ ________________________________________________________________________________
 ## 11/29/2023 - 12/12/2023  ---------- FUTURE / TENTATIVE --------------
 #### SPRINT GOALS
  - **GOAL: Support Production**
- - **GOAL: Comply with the ATO**
-    - **Sub Goal: ATO Compliance: Resolve Pen Test Issues**
  - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Phased Roll Out of Travel & 45-Minute Features**
     - **Sub Goal: Add Travel Claim Terms of Agreement**
@@ -30,9 +28,6 @@ ________________________________________________________________________________
     - ❗ 🟦 [LoROTA Security Issue]()
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
- - **GOAL: Comply with the ATO**
-    - **Sub Goal: ATO Compliance: Resolve Pen Test Issues**
-        - ❗ 🟩 [Resolve Pen Test Issue #1-4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68145)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: [Phased Roll-out of Travel & 45-Minute Features](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66721)**
        - ❗ 🟩 [Roll Out Travel and 45-minute Features to All VISNs on 12/5](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/69770)     
@@ -68,14 +63,10 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE] Look into duplicate claim errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70412)
-    - 🟩 [SPIKE: Can we use the new Design System's minimal header component?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69082)
     - **Sub Goal: [Remove Logging for Certain 40x Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69994)**
         - 🟦 [[BE] Don't report 401 exceptions from LoROTA to Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70746)
-    - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
-        - 🟩 [[FE] Update slim alerts to USDWS v3 in production](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65493)
     - **Sub Goal: [Adhere to VA Content Guidelines for H1 Character Counts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70676)**
-         - 🟥 [[UX][Content] Audit production and unified check-in headings](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70673)
+        - 🟥 [[UX][Content] Audit production and unified check-in headings](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70673)
 
      
 ---------- END FUTURE / TENTATIVE --------------
