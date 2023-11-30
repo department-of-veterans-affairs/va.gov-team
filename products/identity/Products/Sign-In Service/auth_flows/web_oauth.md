@@ -13,13 +13,12 @@
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md).
 
 ### `vets-api` & `vets-api-mockdata` Repositories
 
-In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
-
-`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
+1. In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
+2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Client Config
 
@@ -46,7 +45,7 @@ When registering a Client Config for a web or cookie integration with SiS, set t
 
 ## Sign in Service Public Routes
 
-The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true`. Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
+The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true`. Routes that are authenticated require a valid SiS `access_token`, as well as an `anti_csrf_token` if your Client Config is configured for it. The `/refresh` route requires a `refresh_token` as well as the optional anti-CSRF token.
 
 ### GET Routes
 
@@ -59,10 +58,6 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 #### [Introspect](../endpoints/introspect.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/introspect`
-
-##### `vets-api` User Endpoint
-
-Web clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
 
 #### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
 
@@ -80,15 +75,20 @@ Web clients of SiS have access to the serialized User endpoint at `staging-api.v
 - `staging-api.va.gov/v0/sign_in/token`
 - params: `code`, `code_verifier`, `grant_type`
 
-##### Info Token
-
-Cookie clients of SiS will receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
-
 #### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
 
 - `staging-api.va.gov/v0/sign_in/refresh`
+- params: `refresh_token`
 
-## Cookie OAuth Workflow
+## Web Oauth Workflow
+
+1. User lands on [VA.gov](http://va.gov/) or another web client wanting to sign in via OAuth.
+2. User clicks on the button to sign in with their credential service provider (CSP).
+3. Client calls the SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
+4. SiS redirects to CSP website for user to enter credentials.
+5. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
+6. SiS API redirects user to `[environment]/auth/login/callback` with a `code` query parameter and `state` that is verified client side
+7. Vets-website makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token + Info Token Cookies
 
 1. User lands on [VA.gov](http://va.gov/) or another web client wanting to sign in via OAuth.
 2. User clicks on the button to sign in with their credential service provider (CSP).
