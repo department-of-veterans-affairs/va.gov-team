@@ -1,6 +1,6 @@
 # Ideas for Future Research Ideas 'Brainstorm' Log 
 
-These are not planned or prioritized.  This is a running list of ideas that have not been evaluated or prioritized.  Questions? Please reach out to Cara Frissell or Micah Taylor
+This is a running list of ideas for research related to Travel Pay.  Ideas on this list have **not** been evaluated, planned or prioritized.  If it's on this list, that does not automatically mean a study will happen.  All ideas will have to go through an evaluation and prioritization process.  Those items can be found at TBD.  Questions? Please reach out to Cara Frissell or Micah Taylor
 
 ### Idea 1: 'Listening tour' painful parts 
 A study or 'listening tour' whereby we would observe veterans using the current online experience and document what part of the process they stumbled upon.  This would help us learn where the most painful parts of the process are. Analytics and other feedback mechanisms would be helpful here. 
