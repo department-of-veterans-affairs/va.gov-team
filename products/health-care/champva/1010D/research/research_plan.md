@@ -1,11 +1,9 @@
 # Research Plan for Integrated Veteran Care (IVC) Team, Form 10-10D, December 2023
 
 ## Background
-This research is to be conducted on a protoype of [Form 10-10D](https://www.va.gov/find-forms/about-form-10-10d/), which is a component of the application for [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/). At the time this research plan is being written, Form 10-10D is a fillable PDF that applicants must print and mail in. The overall goal of the project is to create a fully digitized form that Veterans and/or family members can use to streamline their application process.
+This research is to be conducted on a protoype of [Form 10-10D](https://www.va.gov/find-forms/about-form-10-10d/), which is a component of the application for [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/). At the time this research plan is being written, Form 10-10D is a fillable PDF that applicants must print and mail in. The overall goal of the [project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/product-outline.md) is to create a fully digitized form that Veterans and/or family members can use to streamline their application process.
 
 The purpose of this research is to explore the usability of our prototyped Form 10-10D and identify opportunities to improve the experience. Based on participant feedback, we will iterate on the prototype and implement it on va.gov.
-
-[Link to product brief](url goes here).
 
 ### OCTO Priorities 
 1. Enhance Veterans’ personalized online experience
@@ -16,11 +14,13 @@ The purpose of this research is to explore the usability of our prototyped Form 
   - Moment: taking care of my family
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+The IVC team aims to understand:
+- Differences between the needs of Veterans filling out this form on behalf of their family members and the needs of family members filling out this form themselves
+- How and when in their journeys participants fill out Form 10-10D
+- Enhancements that can be made to Form 10-10D to improve the applicant experience
 
 ### Outcome
+The findings from this research will help the IVC team better understand the needs of different types of applicants when filling out Form 10-10D.  
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
