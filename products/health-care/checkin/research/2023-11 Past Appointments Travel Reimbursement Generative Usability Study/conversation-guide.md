@@ -39,9 +39,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 
-- **Would you be comfortable if we decided to use a clip of our session with you to help partners at VA understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans, which can help them better understand what Veterans go through when using VA.gov and our digital products. We don't know at this point if we will use any, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this later - once you know what we've discussed. We blur out any information that could possibly be used to identify you, like your on screen image, and these clips will not be shared outside of the VA. 
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - _If yes:_ **Once I start recording, I am going to once more confirm that you are okay with me recording this session and using a recorded clip from our discussion.**
+   - _If yes:_ **Once I start recording, I am going to once more confirm that you are okay with me recording this session.**
 
 _*Start recording.*_
 
@@ -296,12 +294,6 @@ _**On details page:**_
 ## Post-Task Interview - 1-2 minutes
 - Ok, thank you! That’s everything we need to go through in the prototype.  
 - Do you have any questions for me or anything else you’d like to share?
-
-
-## Consent to use video clips
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with some of our VA colleagues?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA colleagues with the purpose of improving VA.gov and other digital experiences for Veterans.
-   - _If yes:_ Is there any part of our discussion you would NOT want shared in a video clip?
-
 
 ## Thank you and Closing - 1 minute
 - Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
