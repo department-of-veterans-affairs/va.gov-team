@@ -193,7 +193,6 @@ _**Participant is at Appointment list:**_
   - And if you did select that to dismiss it, how would you find that information again?
   - And what would you expect to happen if you DID NOT select that x/close button? 
 
-
 - Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to file that claim now.
 
 _**Participant navigates to past appointments > detail page > intro page > travel flow OR directly to travel flow from task card**_
@@ -226,23 +225,16 @@ _**Participant is on review page:**_
 _**Participant is on success page:**_
 
 - Talk to me about this page and the information included here. 
-
 - Tell me about your understanding of what’s happened to your claim.
-
 - How is this similar to or different from what you expected?
   - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
- 
 - Did you notice this claim mentions two appointments? Why do you think that is?
-  - _If needed:_ Why do you think the second appointment is listed here when you have only gone through the process filing a travel reimbursement claim once? 
+  - _If needed:_ Why do you think the second appointment is listed here when you've only gone through the process filing a travel reimbursement claim once? 
     - _Things to watch for: Do they understand the second appointment is part of the same claim?_
-
 - Ok, and what would you expect to happen next with your claim?
-
 - If you still had questions right now, how you would find out more about your claim?
-
 - _If participant selects "Review your claim" link:_
   - Where did you expect that link to take you?
-
 - _If needed, prompt to appointment list and details page with:_
   - And did you notice the "Review your past appointments" link? Go ahead and select that.
   - And go ahead and select the link for the second appointment on the list.
