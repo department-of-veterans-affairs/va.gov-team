@@ -24,10 +24,17 @@ The findings from this research will help the IVC team better understand the nee
 
 ### Research questions
 - **Differences between the needs of Veterans filling out this form on behalf of their family members and the needs of family members filling out this form themselves**
-	-  What are the different pain points each group might experience?
- 	- What are the expectations of each group?
-- How and when in their journeys participants fill out Form 10-10D
-- Enhancements that can be made to Form 10-10D to improve the applicant experience
+	- What are the different pain points each group might experience, and how do they differ?
+ 	- What are the expectations of each group, and how do they differ?
+- **How and when in their journeys participants fill out Form 10-10D**
+  	- How did participants learn about the program?
+  	- Do they wish they'd learned about it at a different time or in a different way?
+  	- What could be improved about the overall journey?
+  	- How can we clarify the steps users need to take to apply for CHAMPVA benefits?
+- **Enhancements that can be made to Form 10-10D to improve the applicant experience**
+	- What are pain points participants experience when interacting with the prototype?
+	- What vocabulary needs to be defined and/or simplified?
+	- What points of confusion do participants experience?
 
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
