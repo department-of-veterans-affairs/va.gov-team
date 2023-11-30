@@ -94,6 +94,7 @@ Before we start, I have a few things that I want to go over with you:
       - Why did you want to use it?
       - Where were you?  What was it for?
       - How did you access the discount?  
+            - Probe for: Did they have to validate? Who was validating their status? Did that person say what they were looking for? What did they use to validate? 
       - Did you plan to use the discount before you went shopping?
 
 **9.**  Have you ever tried to use a veteran specific discount at a retailer but been denied??
