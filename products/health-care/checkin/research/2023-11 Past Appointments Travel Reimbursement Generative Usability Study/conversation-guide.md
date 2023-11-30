@@ -18,28 +18,27 @@
 
 
 ## Intro - 5 minutes
-Thanks for joining us today! My name is Christina and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Christina and [NOTETAKER NAME] is here taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 - Today we're going to talk about filing travel reimbursement claims for your VA medical appointments. 
 - Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers and we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to, and whether you choose to participate or not will not affect your benefits in any way with the VA. If you'd like to stop the session or don't want to answer a question for any reason at any time, that's no problem. Just let me know.
+- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - _If no: Use Slack to kindly ask the observers to leave the Zoom._
    - _If yes: Admit observers._
    - _Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov._ 
    - _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth_
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. And none of your actions will affect your VA information or benefits.
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 
-   - _If yes:_ **Once I start recording, I am going to once more confirm that you are okay with me recording this session.**
+   - _If yes:_ **Ok, once I start recording, I am going to once more confirm that you are okay with me recording this session.**
 
 _*Start recording.*_
 
@@ -59,19 +58,18 @@ Before we go to the prototype, let’s start with a few warm-up questions.
   - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
   - How long have you been using that technology?
 
-
 - _If the participant is using screen magnification:_
   - Are you using a screen magnification tool today? If so, what type? (For example, Zoom.)
   - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
   - How long have you been using that technology?
-
 
 - Great. Thank you.
 
 ## General travel questions - 5-7 minutes
 We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
 
-- Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience? 
+- Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience?
+  - _If needed:_ You mentioned ___. Could you tell me more about that? 
 
 - If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like? 
 
@@ -84,13 +82,11 @@ We have a few different activities we’ll complete during this session. To star
 _**Note:** Use inclusive language as much as possible. If the participant is blind or low-vision, the moderator can still share their screen to help observers follow along, but explain this to the Veteran._
 
 - Thank you! Now we’re going to go through some terms that relate to travel reimbursement claim statuses.
-  
-- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claims at different steps in the submission and review process. If we can understand more about how you think of claim statuses, we can then present them in an expected and helpful way.
-  
-- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past. You might recognize these from when you last filed a travel reimbursement claim.
-  
-- Ok, so if you’re ready we can get started with the first term. And remember, there are no right or wrong answers.
-- (_for non-screen reader users_) Ok, I’ll go ahead and share my screen
+- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claim statuses at different steps in the submission and review process. 
+- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past, so you might recognize these from when you last filed a travel reimbursement claim.
+- And remember, there are no right or wrong answers.
+- Ok, so if you’re ready we can get started with the first term.
+- (_for non-screen reader users_) I’ll go ahead and share my screen
 
 _Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
 
@@ -98,7 +94,7 @@ _Complete the following with all 11 statuses:_
 
 - Ok, so the (first/next/last) term is _____
   
-  - What does this mean to you (in the context of the status of a travel reimbursement claim that you've filed)?
+  - What does this mean to you (in the context of the status of a travel reimbursement claim)?
   - Is there anything confusing about this term?
     - _Optional:_ What would you call it instead?
   - How important is it for you to know this claim status (during the travel reimbursement process)?
@@ -109,12 +105,12 @@ _After going through all terms_
 
 _When complete_
 
-- Thank you! That concludes that activity. Now we’ll have you try out a prototype.
+- Thank you! That concludes that activity. Now we'll move on to the prototype.
 
 
 ## Task #2 - Usability Testing - 20 minutes
 
-- Ok, so I'll have you go through a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
+- Ok, so now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 
@@ -124,7 +120,7 @@ _When complete_
 
 _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 
-- You can go ahead and select that link.
+- You can go ahead and select that link. And let me know when you have that open. 
 
 ----
 
@@ -134,9 +130,9 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 
 ----
 
-- Now, I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today?
+- Ok, now I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today?
    - _If no:_ No problem. In that case, would you be able to describe to me what you are doing as you go through the prototype?
-     - _If no:_ _(for non-screen reader users) Moderator can choose to share their own screen._ I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound? _Skip to start of email._ 
+     - _(If still no, for non-screen reader users): Moderator can choose to share their own screen._ I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound? _Skip to start of email._ 
 
 - Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
 
@@ -254,6 +250,7 @@ _**Participant is on details page for second appointment**_
 - Thinking about the page overall, what information is most important to you on this page (for a past appointment)?
 - Is there anything confusing about this page?
 - What do you think "type of care not noted" means?
+
 
 - Ok, thanks. Now, could you tell me about this appointment’s travel reimbursement claim status?
 - What did you expect this status to be?
