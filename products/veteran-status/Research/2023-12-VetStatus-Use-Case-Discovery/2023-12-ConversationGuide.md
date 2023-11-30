@@ -103,7 +103,7 @@ Before we start, I have a few things that I want to go over with you:
       - Who denied the discount? (Cashier, manager, etc.)
       - What reason were you given for the denial?
 
-**10.**  Have you ever wanted to use a veteran specific discount but been able to do so? Any experience in line with what we have discussed that we have not covered?   
+**10.**  Have you ever wanted to use a veteran specific discount but **NOT** been able to do so? Any experience in line with what we have discussed that we have not covered?   
 
 ## Desired usage
 
