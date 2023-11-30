@@ -18,7 +18,7 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* After visit summary for appointments (Meko)
+* After visit summary for appointments (TBD)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
