@@ -118,7 +118,7 @@ Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.
 * Planned dates of research: Monday, 12/18/23 - Thursday, 12/22/23
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 45 - 60 minutes (book for 60 min)
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 3
   
