@@ -161,16 +161,26 @@ _List all labels that apply to this finding from the [research repository label 
 ## Additional Insights
 
 - Health care task
-  - This task had similar success rates and slightly higher directness than the health care tree test done with family and caregivers in 2023, despite requiring additional clicks
-    - In the 2024 test, the task was worded more towards being a caregiver, and the top answer was the PCAFC program selected in the family member hub (32%)
-    - In the 2023 test, the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (48%)
+  - This task had similar success and directness as the health care tree test done with family and caregivers in 2023, despite requiring additional clicks
+    - In the 2024 test, the task was worded more towards being a caregiver, and the top answer was the PCAFC program selected in the family member hub (32%), the health care option was second (20%)
+    - In the 2023 test (CB), the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (50%)
     - In 2024, the options in the family member hub required 1-2 more clicks to get to the same answer compared to the structure tested in 2023
+      - 2024: 4 clicks to select PCAFC, 5 clicks to select health and disability programs
+      - 2023: 3 clicks to select PCAFC, 3 clicks to select health care
+    - Labeling in the 2024 version was also longer
+      - Family and caregiver benefits > All benefits for spouses, children, and parents > Health care and disabilities > Family and caregiver health and disability programs
+      - Family member benefits > Health care
    
-- Mental health care task was significantly 
+- Mental health care task was significantly more successful (78%) compared to the baseline caregiver test (37%)
   - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
-  - In 2023, selections were evenly made between the family member hub (18%) and the health care hub (17%)
-  - This shift could be related to the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
+  - In 2023 (CB), selections were most often made in the health care hub (30%), compared to the family member hub (2%) 
+  - This shift could be related to
+    - the change in the label of the family member hub from "Family member benefits" to "Family and caregiver benefits"
+    - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
+    - Mental health option in the health care hub was under more resources rather than within the get benefits section
 
+- Travel pay tasks
+  - 
 
 ## Recommendations
 
