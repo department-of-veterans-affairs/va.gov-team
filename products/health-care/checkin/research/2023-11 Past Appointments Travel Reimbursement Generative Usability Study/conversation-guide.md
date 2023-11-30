@@ -216,15 +216,9 @@ _**If on detail page:**_
 - And how clear are the two options for filing a claim?
 - Ok, go ahead and continue.
 
-_**Participant is on travel questions 1 & 2:**_
+_**Participant is on travel questions 1 & 2 & 3:**_
 
-- For the purposes of this study, I'll have you answer "yes" to these questions, but what would you expect to happen if you selected “no” here?
-
-_**Participant is on travel question 3 - contact information:**_
-
-- I’ll have you pause here for a moment. Let’s pretend you were going through this and your address was wrong. What would you do? 
-- And then what would you expect to happen?
-- Ok, go ahead and continue.
+- For the purposes of this study, you can go ahead and answer "yes" to these questions.
 
 _**Participant is on review page:**_
 
@@ -241,7 +235,7 @@ _**Participant is on success page:**_
 - How is this similar to or different from what you expected?
   - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
  
-REMOVE?? - How is this similar to or different from what you’ve experienced when submitting a travel claim in the past?
+**REMOVE??** - How is this similar to or different from what you’ve experienced when submitting a travel claim in the past?
  
 - Did you notice this claim mentions two appointments?
   - How is that similar or different to what you expected? 
@@ -254,18 +248,15 @@ REMOVE?? - How is this similar to or different from what you’ve experienced wh
 - And if you still had questions, walk me through how you would find out more about your claim?
   - _Things to watch for: Does it occur to the participant to go to the appointments list/details page?_
 
-
-_**Participants might go to the details page or to the outside “Review your claim” link. Moderator should be ready for both scenarios.**_
-
-- Where did you expect that link to take you?
+- _If following "Review your claim" link _: Where did you expect that link to take you?
 
 - Ok, thank you. We can move on. Now, if you wanted to check on the travel reimbursement status for one of these appointments, what would you do next?
-- _If needed:_ Did you notice the Review your past appointments link? Go ahead and select that.
+- _If needed, prompt with:_
+  - Did you notice the "Review your past appointments" link? Go ahead and select that.
+  - And you can select the link for the second appointment on the list.
 - _Things to watch for:_
   - _Do they understand how to navigate to the appointment list?_
   - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
-
-
  
 _**Participant is on details page for second appointment**_
 
