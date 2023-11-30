@@ -234,30 +234,30 @@ _**Participant is on success page:**_
  
 - Did you notice this claim mentions two appointments? Why do you think that is?
   - _If needed:_ Why do you think the second appointment is listed here when you have only gone through the process filing a travel reimbursement claim once? 
-    - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
+    - _Things to watch for: Do they understand the second appointment is part of the same claim?_
 
-- And what would you expect to happen next with your claim?
+- Ok, and what would you expect to happen next with your claim?
 
 - If you still had questions right now, how you would find out more about your claim?
 
-- _If participant selects "Review your claim" link:_ Where did you expect that link to take you?
+- _If participant selects "Review your claim" link:_
+  - Where did you expect that link to take you?
 
 - _If needed, prompt to appointment list and details page with:_
-  - Did you notice the "Review your past appointments" link? Go ahead and select that.
-  - And then go ahead and select the link for the second appointment on the list.
+  - And did you notice the "Review your past appointments" link? Go ahead and select that.
+  - And go ahead and select the link for the second appointment on the list.
  
 _**Participant is on details page for second appointment**_
 
 - _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
-  - _Things to watch for: Is there confusion around the detail page H1 / aria label?_
+  - _Things to watch for: Is there any confusion around the detail page H1 / aria label?_
 
-- Tell me about this appointment’s travel reimbursement claim status.
+- Thinking about the page overall, what information is most important to you on this page (for a past appointment)?
+- Is there anything confusing about this page?
+- What do you think "type of care not noted" means?
+
+- Ok, thanks. Now, could you tell me about this appointment’s travel reimbursement claim status?
 - What did you expect this status to be?
-
-- Ok, now take a moment to review this whole page.
-  - Overall, what information is most important to you on this page for a past appointment?
-  - Is there anything confusing about this page and the information included here?
-  - What do you think "type of care not noted" means?
  
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - _If participant selects "Review claim" link:_ Where did you expect that link to take you?
