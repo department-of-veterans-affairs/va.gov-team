@@ -1,6 +1,6 @@
 # Ideas for Future Research Ideas 'Brainstorm' Log 
 
-These are not planned or prioritized.  This is a running list of ideas that have not been evaluated or prioritized.  Questions? Please reach out to Cara Frissell
+These are not planned or prioritized.  This is a running list of ideas that have not been evaluated or prioritized.  Questions? Please reach out to Cara Frissell or Micah Taylor
 
 ### Idea 1: 'Listening tour' painful parts 
 A study or 'listening tour' whereby we would observe veterans using the current online experience and document what part of the process they stumbled upon.  This would help us learn where the most painful parts of the process are. Analytics and other feedback mechanisms would be helpful here. 
