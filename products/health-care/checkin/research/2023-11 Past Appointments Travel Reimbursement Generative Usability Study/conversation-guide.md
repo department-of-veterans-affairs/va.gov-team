@@ -221,11 +221,11 @@ _**Participant is on success page:**_
 (**_If participant selects "Review your claim" link_**)
   - Where did you expect that link to take you?
 
-(**_If needed, prompt to appointment list and details page_**)
+(**_If participant needs prompting to get to appointment list and details page_**)
   - And did you notice the "Review your past appointments" link? Go ahead and select that.
   - And go ahead and select the link for the second appointment on the list.
  
-_**Participant is on details page for second appointment**_
+_**Participant is on details page for second appointment:**_
 
 - _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - _Things to watch for: Is there any confusion around the detail page H1 / aria label?_
