@@ -238,15 +238,14 @@ _**Participant is on details page for second appointment**_
 
 - _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - _Things to watch for: Is there any confusion around the detail page H1 / aria label?_
-
 - Thinking about the page overall, what information is most important to you on this page (for a past appointment)?
 - Is there anything confusing about this page?
 - What do you think "type of care not noted" means?
 
 
+
 - Ok, thanks. Now, could you tell me about this appointment’s travel reimbursement claim status?
 - What did you expect this status to be?
- 
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - _If participant selects "Review claim" link:_
   - Where did you expect that link to take you?
