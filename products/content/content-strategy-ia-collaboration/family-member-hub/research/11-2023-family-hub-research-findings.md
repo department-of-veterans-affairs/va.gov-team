@@ -179,8 +179,21 @@ _List all labels that apply to this finding from the [research repository label 
     - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
     - Mental health option in the health care hub was under more resources rather than within the get benefits section
 
-- Travel pay tasks
+- Travel pay task had similar task succes rate
+  - In both the current and the 2023 CB study, participants primarily selected answers under "Manage benefits" within the health care hub
+  - In the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub 27% of the time
+  - In the CB study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
+  - Hypothesis???
+ 
+- Accrued benefits
+  - Initial path:  Disability hub (20%), Family member hub (56%)
+  - Selections: Disability hub (22%), Family hub (61%)
+  - Task specifically mentioned a disability claim and visitors still predominantly navigated to the family member hub and selected answers there
+  - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this service and/or the label
+ 
+- Fiduciary benefits
   - 
+
 
 ## Recommendations
 
