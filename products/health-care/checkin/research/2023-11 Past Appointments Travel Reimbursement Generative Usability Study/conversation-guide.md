@@ -241,7 +241,7 @@ _**Participant is on details page for second appointment:**_
 
 ----
 
-_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits - have them navigate to the details page for a third appointment (appointment with dot indicator)**_
+_**OPTIONAL if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a third appointment (appointment with dot indicator).**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
 - _If needed:_
