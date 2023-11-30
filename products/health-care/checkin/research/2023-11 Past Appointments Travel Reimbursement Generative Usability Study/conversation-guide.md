@@ -31,8 +31,8 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - _If no: Use Slack to kindly ask the observers to leave the Zoom._
    - _If yes: Admit observers._
-   - _Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov._ 
-   - _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth_
+     - _Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov._ 
+     - _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth_
 - **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. And none of your actions will affect your VA information or benefits.
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
