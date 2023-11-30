@@ -259,7 +259,8 @@ _**Participant is on details page for second appointment**_
 - What did you expect this status to be?
  
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
-- _If participant selects "Review claim" link:_ Where did you expect that link to take you?
+- _If participant selects "Review claim" link:_
+  - Where did you expect that link to take you?
 
 
 ----
