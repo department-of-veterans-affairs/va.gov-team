@@ -16,11 +16,11 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456
 **OKR to measure the success of notifications reminding editors to review and update their webpage content** (_launched 10.01.2023_)
 - % of editors who have logged into CMS in the last 30 days (RCS leadsership and team editors excluded)
 
-| Metric | Baseline measured 9.19.23 | November 2023 | December 2023 | 1Q 2024 | 2Q 2024|
-|---|---|---|---|---|---|
-| Total # of editors | 497 |582|---|---|---|
-| % which have never logged in | 11% (54) |9% |---|---|---|
-| % which logged in during the 30 days prior | 16% (78) | 40% |---|---|---|
+| Metric | Baseline measured 9.19.23 | October 2023 | November 2023 | December 2023 | 1Q 2024 | 2Q 2024|
+|---|---|---|---|---|---|---|
+| Total # of editors | 497 |582| 529 |---|---|---|
+| % which have never logged in | 11% (54) | 9% | 9% (48- 7 of which are new editors this month) |---|---|---|
+| % which logged in during the 30 days prior | 16% (78) | 40% |40% (212)|---|---|---|
 
 ## Roll-out phase
 
