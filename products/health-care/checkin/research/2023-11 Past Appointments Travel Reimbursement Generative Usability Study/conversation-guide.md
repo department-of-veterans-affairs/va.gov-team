@@ -241,9 +241,6 @@ _**Participant is on details page for second appointment**_
 - Thinking about the page overall, what information is most important to you on this page (for a past appointment)?
 - Is there anything confusing about this page?
 - What do you think "type of care not noted" means?
-
-
-
 - Ok, thanks. Now, could you tell me about this appointment’s travel reimbursement claim status?
 - What did you expect this status to be?
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
