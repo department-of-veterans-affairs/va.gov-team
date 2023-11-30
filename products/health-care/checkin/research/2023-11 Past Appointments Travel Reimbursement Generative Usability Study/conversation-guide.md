@@ -102,7 +102,7 @@ _Complete the following with all 11 statuses:_
   - Optional:
     - Have you encountered this term before when filing (for travel reimbursement)?
     - Is there anything confusing about this term?
-    - _(if needed)_ What would you call it instead?
+    - What would you call it instead?
     - How important is it for you to know this claim status (during the travel reimbursement process)?
  
 _After going through all terms_
@@ -116,7 +116,7 @@ _When complete_
 
 ## Task #2 - Usability Testing - 20 minutes
 
-- Ok, now I’m going to have you try out a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
+- Ok, so I'll have you go through a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 
@@ -138,7 +138,7 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 
 - Now, I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today?
    - _If no:_ No problem. In that case, would you be able to describe to me what you are doing as you go through the prototype?
-     - _If no:_ _Moderator can choose to share their own screen._ I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound? _Skip to start of email._ 
+     - _If no:_ _(for non-screen reader users) Moderator can choose to share their own screen._ I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound? _Skip to start of email._ 
 
 - Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
 
@@ -172,7 +172,7 @@ _**Participant starts at Email:**_
   - Is there anything confusing about this?
 
 _**Participant is at Mock Sign in page:**_
-- At this point you'd need to sign in to va.gov, but go ahead and choose any option, since this is just a prototype that is representing the sign in steps.
+- At this point you would sign in to va.gov, but go ahead and choose any option, since this is just a prototype representing sign in.
 
 _**Participant is at Appointment list:**_
 
@@ -187,17 +187,17 @@ _**Participant is at Appointment list:**_
   - Is anything here confusing?
 
 - Without doing anything yet, tell me a little about what you’d do next.
-- _If needed for task card:_ 
+- _If task card was not mentioned:_ 
   - Did you notice anything about filing for travel reimbursement on this page? 
   - Did you notice the box at the top of the page? What does that mean to you?
   - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
-- _If needed for dismiss/close button in card:_
+- _If dismiss/close button in card was not mentioned:_
   - What about the x/close button in the card. What would you expect to happen if you selected that?
   - And if you did select that to dismiss it, how would you find that information again?
   - And what would you expect to happen if you DID NOT select that x/close button? 
 
 
-- Ok, go ahead and go through the process you'd follow to file that claim now - and talk me through what you’re doing.
+- Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to file that claim now.
 
 _**Participant navigates to past appointments > detail page > intro page > travel flow OR directly to travel flow from task card**_
 
@@ -259,6 +259,9 @@ _**Participant is on success page:**_
   - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
  
 _**Participant is on details page for second appointment**_
+
+- _(Screen reader users - if not yet addressesed)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
+  - _Things to watch for: Is there confusion around the detail page H1 / aria label?_
 
 - Tell me about this appointment’s travel reimbursement claim status.
 - What did you expect this status to be?
