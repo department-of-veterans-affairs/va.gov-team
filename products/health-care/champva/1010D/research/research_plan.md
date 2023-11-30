@@ -20,10 +20,15 @@ The IVC team aims to understand:
 - Enhancements that can be made to Form 10-10D to improve the applicant experience
 
 ### Outcome
-The findings from this research will help the IVC team better understand the needs of different types of applicants when filling out Form 10-10D.  
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The findings from this research will help the IVC team better understand the needs of different types of applicants when filling out Form 10-10D. It will also provide insights needed to iterate upon and refine our initial prototype of Form 10-10D.
 
 ### Research questions
+- **Differences between the needs of Veterans filling out this form on behalf of their family members and the needs of family members filling out this form themselves**
+	-  What are the different pain points each group might experience?
+ 	- What are the expectations of each group?
+- How and when in their journeys participants fill out Form 10-10D
+- Enhancements that can be made to Form 10-10D to improve the applicant experience
+
 Consider bucketing research questions under research goals. For each question, think about:
 - What will I do with what I learn from this question?
 - Does this question serve the goals of my study?
