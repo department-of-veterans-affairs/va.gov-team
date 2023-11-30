@@ -1,4 +1,4 @@
-# VA.gov Mobile OAuth Integration
+# VA.gov Mobile/API OAuth Integration
 
 ## Version History
 
@@ -7,27 +7,20 @@
 |       0.1      | Trevor Bosaw, John Bramley, Josh Scanish, Joe Niquette |    3/17/22    | Initial creation                                                                           |
 |       0.2      |                      Joe Niquette                      |    3/25/22    | Added new introspection response example, moved some sections around for better formatting |
 |       0.3      |                      John Bramley                      |    7/05/22    | Updates for mobile vs. web authentication |
-|0.4| John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
-|0.5| John Bramley | 9/25/23 | Updates with `ClientConfig` information |
+| 0.4 | John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
+| 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 
-## Description & Prerequisites
+## Prerequisites
 
-This document describes how our mobile/API-based OAuth partners can integrate with the Sign in Service. Before starting local development the following prerequisites should be completed:
+### Postman Collection
 
-1. In order to successfully develop against a local instance of Sign in Service [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
 
-2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
+### `vets-api` & `vets-api-mockdata` Repositories
 
-#### Differences between web & mobile workflows
+In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 
-##### Info Token
-
-The use of the `/token` endpoint will facilitate automatic logout due to user inactivity on web based versions of the SiS. The intent is the web app will read the `vagov_info_token` cookie and extract the refresh token expiration to determine when to display the inactivity modal and subsequent auto logout.
-
-##### Introspection
-
-Web based apps will not require the use of an introspection endpoint because the web based version will use internal user storage mechanisms. For this reason we recommend utilizing the `vets-api/v0/user` endpoint with Bearer authorization passing the access_token.
-
+`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Client Config
 
@@ -42,97 +35,72 @@ When registering a Client Config for a mobile or API integration with SiS, set t
 - `pkce`: true
 - `certificates`: nil
 
-## Postman Collection
-
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md). This collection is set up for both web/cookie & API-based authentication.
-
-### Sequence Diagram
+## Sequence Diagram
 
 ![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/PKCE_Oauth.md)
 
-### Technical Diagram
+## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/20125855/177562919-43b99aa7-287b-475b-aa2f-da0e00c05a5c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
 
-## Sign in Service Public Routes:
+## Sign in Service Public Routes
+
+The Sign in Service routes necessary for a mobile/API integration are listed below. Routes that are authenticated require a valid SiS `access_token` passed through Bearer Auth. Refresh token authenticated routes requires a `refresh_token` request parameter.
 
 ### GET Routes
 
-#### Sign in Page 
-
-- `staging.va.gov/sign-in/?oauth=true`
-
-##### [Authorization URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md)
+#### [Authorization](../endpoints/authorize.md)
 
 - `staging-api.va.gov/v0/sign_in/authorize`
-- params: `type`, `client_id`, `acr`, `code_challenge`, `code_challenge_method`
-- optional params: `state`
+- params: `acr`, `type`, `code_challenge`, `code_challenge_method`, `client_id`
+- optional params: `state`, `operation`
 
-##### [Introspect URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/introspect.md)
+#### [Introspect](../endpoints/introspect.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/introspect`
-- params: `authentication`
 
-##### [Revoke all Sessions URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all_sessions.md)
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/revoke_all_sessions`
-- params: `authentication`
 
-##### [Logout URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/logout.md)
+#### [Logout](../endpoints/logout.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/logout`
-- params: `authentication`
-- optional parameters: `anti_csrf_token`
+- params: `client_id`
 
 ### POST Routes
 
-##### [Token URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md)
+#### [Token](../endpoints/token.md)
 
 - `staging-api.va.gov/v0/sign_in/token`
-- params: `grant_type`, `code_verifier`, `code`
-- optional params: `anti_csrf_token`
+- params: `code`, `code_verifier`, `grant_type`
 
-##### [Refresh URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/refresh.md)
+#### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
 
 - `staging-api.va.gov/v0/sign_in/refresh`
 - params: `refresh_token`
-- optional params: `anti_csrf_token`
 
-##### [Revocation URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke.md)
+##### [Revoke](../endpoints/revoke.md) - refresh token authenticated route
 
 - `staging-api.va.gov/v0/sign_in/revoke`
-- params: `refresh_token`
-- optional params: `anti_csrf_token`
 
-## Oauth Workflow
+## API OAuth Workflow
 
-1. VAMobile redirects user to: `staging.va.gov/sign-in` with the following parameters:
-    - application: `vamobile`
-    - oauth: `true`
-    - code_challenge: takes the client-created `code_verifier` and SHA-256 hashes it. The client stores the `code_verifier` and uses it in later SiS calls to validate their requests with vets-api
-2. User clicks on the button to sign in with their credential service provider (CSP)
-3. VA.gov calls vets-api OAuth `/authorize` endpoint with specific query parameters outlined in the Parameters Table below
-4. User authenticates with CSP
-5. CSP calls SiS `/callback` endpoint, vets-api creates auth code
-6. User redirected to `vamobile://login-success` with auth code and CSP type in the query params
-    - `vamobile://login-success?code=9406c906-1923-4525-adf0-ba63e98ef3f6&type=logingov`
-7. VAMobile makes a POST call to the SiS `/token` endpoint to get Access Token + Refresh Token + potentially Anti-CSRF Token
-
-  ```json
-    {
-      "data": {
-        "access_token": "<accessTokenHash>",
-        "refresh_token": "<refreshTokenHash>",
-        "anti_csrf_token": "<antiCsrfTokenHash>"
-      }
-    }
-  ```
-
-8. VAMobile uses Access Token in Authorization header to call the `/introspect` endpoint and other authentication-protected routes:
+1. User selects which credential service provider (CSP) they would like to authenticate with in the client application.
+2. Client directs user to SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
+3. SiS redirects to CSP website for user to enter credentials.
+4. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
+5. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
+6. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token`&  `vagov_refresh_token`
+  | Token Name | Description |
+  | --- | --- |
+  | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
+  | vagov_refresh_token | May contain user information, used to obtain new tokens |
+7. Client uses access token to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `Authorization: Bearer <accessTokenHash>`
     - response: `"data": { user_data }`
-9. When access token reaches expiry VAMobile uses the Refresh token to get new tokens by calling the `/refresh` endpoint. New token cookies are returned in a JSON payload identical to those returned from the `/token` endpoint.
+8. Client uses the refresh token to get an new tokens (when access token reaches expiry) by querying the `/refresh` endpoint. New tokens are returned in a JSON payload identical to those returned from the `/token` endpoint.
 
 ## Parameters
 

@@ -1,4 +1,4 @@
-# VA.gov Web OAuth Integration
+# VA.gov Web/Cookie OAuth Integration
 
 ## Version History
 
@@ -6,19 +6,20 @@
 | --- | --- | --- | --- |
 | 0.1 | Trevor Bosaw, John Bramley, Alex Garcia, Joe Niquette | 6/24/2022 | Initial creation |
 | 0.2 | John Bramley | 7/05/2022 | Updates for mobile vs. web authentication |
-|0.4| John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
-|0.5| John Bramley | 9/25/23 | Updates with `ClientConfig` information |
+| 0.4 | John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
+| 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 
 ## Prerequisites
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
 
 ### `vets-api` & `vets-api-mockdata` Repositories
 
-1. In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
-2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
+In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
+
+`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Client Config
 
@@ -38,14 +39,14 @@ When registering a Client Config for a web or cookie integration with SiS, set t
 ![vagovweboauth (1)](https://user-images.githubusercontent.com/71290526/175662350-1ecccfcf-4da3-4370-9483-5b15c263d428.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/Web_OAuth.md)
 
-### Technical Diagram
+## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
 ## Sign in Service Public Routes
 
-The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true`. Routes that are authenticated require a valid SiS `access_token`, as well as an `anti_csrf_token` if your Client Config is configured for it. The `/refresh` route requires a `refresh_token` as well as the optional anti-CSRF token.
+The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true`. Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
 
 ### GET Routes
 
@@ -58,6 +59,10 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 #### [Introspect](../endpoints/introspect.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/introspect`
+
+##### `vets-api` User Endpoint
+
+Web clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
 
 #### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
 
@@ -75,33 +80,33 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 - `staging-api.va.gov/v0/sign_in/token`
 - params: `code`, `code_verifier`, `grant_type`
 
+##### Info Token
+
+Cookie clients of SiS will receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
+
 #### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
 
 - `staging-api.va.gov/v0/sign_in/refresh`
-- params: `refresh_token`
 
-## Web Oauth Workflow
+## Cookie OAuth Workflow
 
 1. User lands on [VA.gov](http://va.gov/) or another web client wanting to sign in via OAuth.
 2. User clicks on the button to sign in with their credential service provider (CSP).
 3. Client calls the SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
 4. SiS redirects to CSP website for user to enter credentials.
 5. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
-6. SiS API redirects user to `[environment]/auth/login/callback` with a `code` query parameter and `state` that is verified client side
-7. Vets-website makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token + Info Token Cookies
-
+6. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
+7. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token`, `vagov_refresh_token`, `vagov_anti_csrf_token`, & `vagov_info_token` cookies, stored in the browser.
   | Cookie Name | Description |
   | --- | --- |
-  | vagov_access_token | Access token used to access authenticated pages on va.gov, contains no user information |
+  | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
   | vagov_refresh_token | May contain user information, used to obtain new tokens |
   | vagov_anti_csrf_token | Optional, currently disabled feature to preven cross-site request forgery |
-  | vagov_info_token | Token used by the frontend to determine timeout counters |
-
-8. Vets-api stores Access Token + Refresh Token + Anti-CSRF Token in cookies
-9. Vets-website uses Access Token cookie to hit the `/introspect` endpoint and other authentication-protected routes:
+  | vagov_info_token | Used by client to determine timeout counters |
+8. Client uses access token cookie to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `vagov_access_token=<accessTokenHash>`
     - response: `"data": { user_data }`
-10. Vets-website uses the Refresh token to get an new Access Token + Refresh Token (when Access token reaches expiry) by hitting the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
+9. Client uses the refresh token to get an new tokens (when access token reaches expiry) by querying the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
 
 ## Parameters
 
