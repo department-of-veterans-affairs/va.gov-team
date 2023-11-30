@@ -148,11 +148,8 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 _**Participant starts at Email:**_
 
 - Now, imagine you just received this email from VA about filing for travel reimbursement after two visits to your VA Medical Center on November 13th, 2023. 
-
 - Go ahead and review it.
-
 - Is there anything that's confusing about this information?
-
 - How does this compare to what you’d expect to be in an email like this?
 
 - Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here. 
