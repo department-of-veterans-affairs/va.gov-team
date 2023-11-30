@@ -100,22 +100,17 @@ _Complete the following with all 11 statuses:_
   - How important is it for you to know this claim status (during the travel reimbursement process)?
  
 _After going through all terms_
-
 - Were there any other terms you expected to be here that were not included?
 
 _When complete_
-
 - Thank you! That concludes that activity. Now we'll move on to the prototype.
 
 
 ## Task #2 - Usability Testing - 20 minutes
 
 - Ok, so now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
-
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
-
 - Do you have any questions about that before we get started?
-
 - Ok, I’m sending you the prototype link in the [chat/email]. 
 
 _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
