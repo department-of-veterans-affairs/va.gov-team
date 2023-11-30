@@ -26,7 +26,7 @@ Internal:
 
 ### Desired Outcomes ###
 
-* We re-establish the process for deciding what OS versions we will support, with guardrails in place to make sure it's revisited on an annual basis.
+* We re-establish the process for deciding what OS versions we will support, with guardrails in place to make sure it's revisited on an annual (or more frequent) basis.
 * We update our supported versions from the June 2021 decision, and do the work necessary to implement that decision.
 
 ## Assumptions and Level of Confidence
@@ -54,12 +54,12 @@ Internal:
 
 **V2 and beyond**
 
-* Continue to revisit this decision on an annual basis
+* Continue to revisit this decision on a recurring basis
 * [Formalize test plan for newly-released OS versions](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/3563)
 
 ## Technical Approach
 
-*	Are there other VA groups or tools we need to work with?
+*	OS version support changes could be internal-only (what we test with, where we'll fix bugs), soft stop (message using availability framework on login screen, for instance "hey you still have access but should update your OS for the best results"), or hard stop (do not allow login without update). Availability framework (firebase setup) does allow targeting by device OS version.
 
 ## Measuring success 
 
