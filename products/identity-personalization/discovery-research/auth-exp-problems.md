@@ -106,7 +106,7 @@ This is problematic because it creates a feeling of uncertainty about what will 
 - The lack of personalization makes it hard to understand what information actually applies to the logged-in user ([details above](#the-amount-of-content-on-the-website-combined-with-the-absence-of-personalization-makes-it-really-difficult-to-understand-what-information-applies-to-me)).
 - We display calls to action about downloading the mobile app when when know someone is logged-in on a desktop site and can’t take action.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/mobile-cta-desktop.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/mobile-cta-on-desktop.png" width="50%" />
 
 *Screenshot above shows a call to action to download a mobile app on a desktop device.*
 
