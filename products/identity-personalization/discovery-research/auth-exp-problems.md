@@ -3,11 +3,15 @@
 November 30, 2023<br />
 Liz Lantz, Authenticated Experience
 
+## Goals
 This is an informal document to capture problems on VA.gov, once a user has logged into the website.  I identified these problems using my knowledge of user experience best practices, and by comparing the experience of completing tasks on VA.gov to other modern websites used by many people like Amazon.com, Epic’s My Chart, Blue Cross Blue Shield, and Bank of America.
 
 The goal of this exercise was simply to identify these issues, so recommendations or solutions are not included in this document.
 
-**Note:** Since accessibility reviews are baked into the majority of VA.gov features and tools, I didn’t include an accessibility audit as part of this work. 
+### Caveats
+- Since accessibility reviews are baked into the majority of VA.gov features and tools, I didn’t include an accessibility audit as part of this work.
+- This review was conducted on a laptop, so there are likely mobile-specific issues not captured here.
+
 ## Signing into the website
 This isn’t new - we know this is a huge pain point for Veterans.
 - Having multiple credentials to choose from is confusing.
@@ -140,3 +144,4 @@ This is problematic because it creates a feeling of uncertainty about what will 
 ## Next steps
 1. Noodle on this list and determine how we want to proceed as a team.
 2. Even though accessibility reviews are baked into the VA.gov development process, there are likely many accessibility problems left to discover.  We could conduct a dedicated review as a separate task, or review open [GitHub tickets with the ￼`accessibility`￼ label](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+) to understand known issues.
+3. For an even deeper dive, we could conduct the same, or a pared down version, of this review on a mobile device, as there are likely problems specific to mobile that weren't identified here.
