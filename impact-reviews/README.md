@@ -21,7 +21,7 @@ _Presentations occur at noon ET_
 |----|----|----|----|----|
 | Benefits Team 1 - Squad 2 (Decision Reviews & CST) | Sade Ragsdale | Supplemental Claims - A means of appealling a disability claims decision by requesting VA review new and relevant evidence| April 28, 2023 | December 7, 2023 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | December 7, 2023 |
-| _Debt Resolution_ | _Tom Davis_| _FSR/Streamlined Waiver_ | _August 30, 2023_ | January 11, 2024 |
+| Debt Resolution | Tom Davis| FSR/Streamlined Waiver | August 30, 2023| January 11, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 11, 2024 |
 | Authenticated Experience - Profile | Travis Cahill | Multi-feature: editing as a subtask and default send<br /> - editing as a subtask: allows users to edit in place instead of having to leave notification preferences to add/edit personal info, e.g. phone number<br /> - default send: foundational element to support email as a channel in order to support MHV notification preferences, and notification preferences from other partners that may require email | October 25, 2023 | February 1, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | February 1, 2024 |
