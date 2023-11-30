@@ -152,7 +152,7 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 
 _**Participant starts at Email:**_
 
-- Now, imagine you just received this email from VA about filing for travel reimbursement after a visit to your VA Medical Center on November 13, 2023 at 8:00 a.m. 
+- Now, imagine you just received this email from VA about filing for travel reimbursement after two visits to your VA Medical Center on November 13th, 2023. 
 
 - Go ahead and review it.
 
