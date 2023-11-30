@@ -240,8 +240,13 @@ _**Participant is on success page:**_
 
 - How is this similar to or different from what you expected?
   - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
-
-- How is this similar to or different from what you’ve experienced when submitting a travel claim in the past?
+ 
+REMOVE?? - How is this similar to or different from what you’ve experienced when submitting a travel claim in the past?
+ 
+- Did you notice this claim mentions two appointments?
+  - How is that similar or different to what you expected? 
+  - Why do you think the second appointment is listed here when you have only gone through the process filing a travel reimbursement claim once? 
+    - _Things to watch for: Do they understand why the second appointment was updated along with the first one? 
 
 - And what would you expect to happen next with your claim?
   - _Things to watch for: Do they understand what happens now with their claim and how to find out more?_ 
@@ -252,31 +257,33 @@ _**Participant is on success page:**_
 
 _**Participants might go to the details page or to the outside “Review your claim” link. Moderator should be ready for both scenarios.**_
 
-- Ok, thank you. We can move on. Now, if you wanted to check on travel reimbursement for your second appointment you had that same day (on Nov. 13 at 1:00 p.m.), what would you do next? 
+- Where did you expect that link to take you?
+
+- Ok, thank you. We can move on. Now, if you wanted to check on the travel reimbursement status for one of these appointments, what would you do next?
+- _If needed:_ Did you notice the Review your past appointments link? Go ahead and select that.
 - _Things to watch for:_
   - _Do they understand how to navigate to the appointment list?_
   - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
 
+
  
 _**Participant is on details page for second appointment**_
 
-- Tell me about this appointment’s travel reimbursement claim status. What did you expect this status to be?
-- Why do you think this status is "In manual review" when you haven't gone through the process filing a travel reimbursement claim for this appointment yet? 
-  - _Things to watch for: Do they understand why the second appointment was updated along with the first one? (Note: if this is not clear and there is time, moderator can decide to guide participant back to check the first appointment detail card status to clarify they are the same)_
+- Tell me about this appointment’s travel reimbursement claim status.
+- What did you expect this status to be?
 
-
+- Ok, now take a moment to review this whole page.
+  - Overall, what information is most important to you on this page for a past appointment?
+  - Is there anything confusing about this page and the information included here?
+  - _If not mentioned:_ What do you think "type of care not noted" means?
+ 
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - Where did you expect that link to take you?
   - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
 
-- Thanks. And lastly, taking a moment to review this whole page.
-  - Overall, what information is most important to you on this page for a past appointment?
-  - Is there anything confusing about this page and the information included here?
-  - _If not mentioned:_ What do you think "type of care not noted" means?
-
 ----
 
-_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet - have them navigate to the details page for a third appointment (remaining appointment with dot indicator)**_
+_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) - have them navigate to the details page for a third appointment (remaining appointment with dot indicator)**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
 - _Things to watch for: Does the participant understand that the Wednesday appointment (with 1 task to complete) is the other appointment they can file for?_
