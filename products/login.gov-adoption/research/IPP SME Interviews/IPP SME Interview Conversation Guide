@@ -1,152 +1,119 @@
-# Research Plan for Login.gov Adoption, In-Person Identity Proofing Subject Matter Expert Interviews
+# Conversation Guide 
+
+Introduction
+
+Welcome, thank you for joining us today. My name is ____, my pronouns are _____ and I am a _______(ROLE). As we mentioned in our initial outreach, we are part of the Login.gov Adoption team working under VA OCTO. Our work is focused on improving the sign in experience for Veterans. Today, we are going to ask you questions about in person verification services that currently exist as well as get your input on a possible service we are considering. 
+
+Before we start, a few things I want to mention:
+
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** We want to improve these services to better meet Veterans needs. I will not be offended by any opinions you express, and I welcome your feedback. Please note that only the members of this team will view the recording and no individual responses will be shared with your supervisor or anyone else in a way that identifies you.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
+*Start recording.*
+
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+
+Context
+
+Veteran Affairs has been tasked with providing increased protection and access to its services and benefits without indirectly excluding Veterans. This has been ushered in by three executive orders to increase trust, improve customer experience and security, and ensure Veterans have equitable access to services and benefits. As mentioned, Login.gov Adoption, under VA OCTO, is focused on educating Veterans on how to adopt and use Login.gov and ID.me. Identity verification is a necessary step in creating these accounts. One consideration we are exploring is providing in-person identity proofing on site at Veteran Affairs facilities so that Veterans may have more options when they need to complete identity verification.
+
+Your perspective is crucial to understanding how this service might be feasible given it is intended to be supported by onsite VA staff. From prior research and SME interviews, we understand there are in-person identity verification processes in place already, for example, setting up a MHV premium account. We hope to learn from processes such as these to better inform what would be needed for in-person identity proofing for accounts like Login.gov.
+Agenda
+The first part of our interview will be structured to better understand your current work experience and how identity verification processes work in your current role and workspace. As well as how you have seen identity verification processes set up for other VA staff.
+
+The second part of the interview will feature a potential service that we are designing for in-person identity proofing for Veterans to verify their identity to set up a Login.gov account. We will show you the anticipated workflow and want to get your feedback on aspects we should consider.
+Part I
+
+Can you please tell us about your professional background and experiences?
+
+What is your current role and responsibilities?
+
+What do you know about in-person verification or in-person identity proofing?
+
+Where have you seen in-person verification or in-person identity proofing done within the VA or by Veterans, and maybe not in the VA?
+
+If they do not mention in the prior section, ask about their experiences with in-person verification? 
+What was their role?
+What did in-person verification look like as a service for Veterans and for the staff responsible? 
+What worked for those in-person verification services?
+What were the challenges?
+What were assumptions made that we should be aware of?
 
 
-## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+If they do not mention in the prior section, ask about their current experiences with in-person verification? 
+How does it show up in their workday? 
+What does the service look like to them? 
+To Veterans?
+What works for those in-person verification services?
+What are the challenges?
+What are assumptions made that we should be aware of?
 
-[Link to product brief](url goes here).
+We have heard that for identity verification for MHV Premium there is no standard procedure for MHV Identity Verifiers given that the role is not compensated and done in tandem with employees other responsibilities?
+What works with that format?
+What does not work?
+What is something you think might improve the VA staff or Identity verifier experience?
+Are there examples in other departments or even outside of VA that you think could be beneficial for in-person verification?
 
-### OCTO Objectives 
+Thank you for sharing your insights.
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Part II
+We are now going to switch to the second part of this interview. We are going to show you some images that provide information on a possible in-person identity proofing service we are designing. Our goal is to better understand what the VA staff role may look like in this service. In this service, the VA staff role is referred to as a “proofing agent”. We have designed it based on previous research but we need your input to further improve the VA staff experience as well as the Veterans. We welcome any and all types of feedback and suggestions as we want to ensure that this service is feasible to implement. 
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
 
-## Research Goals	
-What are you trying to learn from this research? 
+Show the sitemap
+Here is a flow chart of the in-person identity proofing service featuring both what the Veteran must do and what the proofing agent needs to do as well as assumptions and requirements we have drafted. Please take a moment to review, you are welcome to ask questions as you look at it. 
+Follow Up Questions and Comments
+What are your initial thoughts?
+Is there anything missing?
+Is there anything that you like?
+Is there anything that concerns or confuses you?
+Review the assumptions and requirements
+Ask follow up questions about the feasibility or realisticness of these assumptions and requirements
+If they have not mentioned the proofing agent, ask them the questions again but tell them to focus on the steps for the proofing agent.
+Troubleshooting Strategies
+What might a primary coordinator need to do to authorize another coordinator for our in-person proofing service?
+What does this look like if a backup is needed? How is the backup designated?
+How feasible does this overall process feel for MHV coordinators among their current tasks?
+How might you expect Veterans to feel during this process?
+We are considering MHV coordinators as candidate for proofing agents, 
+Are there other stakeholder groups we might consider
+If yes, who can we follow up with? 
+In previous research, we have learned that when a service is being piloted, misinformation can spread. What can we do to anticipate and reduce misinformation?
+What can we do to ensure more receptivity from proofing agent stakeholders?
+What can we do to ensure more receptivity from Veteran stakeholders?
+Review Proofing Agent stakeholder map
+These are possible sites and candidates to conduct IPP, is there anyone missing?
+We have also listed considerations on the right based on previous interviews you’ve participated in. 
+What are other considerations not mentioned here we should include? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Thank you for sharing your time and insights. Your input is incredibly valuable in ensuring we are envisioning a feasible and meaningful service. 
 
-### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Recruitment Ask
+We are planning a pilot for this service and are looking to recruit VA staff who might be potential proofing agent candidates for this service. Would it be possible to reach out after this interview to recruit [you or members of your team] to participate in either a remote or in-person pilot? 
 
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Closing
+Thank you again for joining us today. Do you have any more questions for us?
 
-### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+If you have any follow up questions, you are welcome to follow up with either the research lead or product lead of the Login.gov Adoption Team:
+lauren.morris3@va.gov
+sophia.philip@va.gov
 
-## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Appendix
+If time allows and the interviewee might provide more information on the service blueprint we will show the following artifact and ask these questions:
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
-- If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
-
-### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-
-## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
-
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
-
-### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
-
-Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-What dates do you plan to do research? 
-
-### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
-
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
-
+Show the service blueprint. 
+You are looking at a service blueprint, this is a diagram that helps show all the actions that a Veteran may or may not see throughout a service. Please take a moment to review the blueprint, you are welcome to ask questions as you look at it. 
+What are your initial thoughts?
+Is there anything missing?
+Is there anything that you like?
+Is there anything that concerns or confuses you? 
+Show the service blueprint featuring only proofing agent view
+You are looking at the same service blueprint but now only the boxes that show proofing agent, or VA staff, actions are in focus. 
+Is there anything missing?
+Is there anything that you like?
+Is there anything that concerns or confuses you? 
 
