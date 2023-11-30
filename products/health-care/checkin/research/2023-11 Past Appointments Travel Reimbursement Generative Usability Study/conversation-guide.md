@@ -218,10 +218,10 @@ _**Participant is on success page:**_
 - If you still had questions right now, how you would find out more about your claim?
 
 
-**_If participant selects "Review your claim" link:_**
+(**_If participant selects "Review your claim" link:_**)
   - Where did you expect that link to take you?
 
-**- _If needed, prompt to appointment list and details page with:_**
+(**_If needed, prompt to appointment list and details page with:_**)
   - And did you notice the "Review your past appointments" link? Go ahead and select that.
   - And go ahead and select the link for the second appointment on the list.
  
