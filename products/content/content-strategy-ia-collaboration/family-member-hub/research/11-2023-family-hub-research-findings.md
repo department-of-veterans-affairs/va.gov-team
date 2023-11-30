@@ -183,11 +183,24 @@ _List all labels that apply to this finding from the [research repository label 
     - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
     - Mental health option in the health care hub was under more resources rather than within the get benefits section
 
+- Transferred GI Bill benefits - 32% task success, 78% directness
+  - Initial path: Education (56%), Family member hub (27%)
+  - Selections: Education (66%), FAmily member hub (24%)
+  - Although the majority of participants navigated to and selected answers in the Education benefits hub, only 12% selectedt the correct answer there; 29% selected options for Veterans to apply for GI Bill benefits, and 12% selected the task intended for Veterans to transfer their benefits - this option would provide instructions and crosslinking to the content specific to the family member.
+  - This is a complicated task if you are not familiar with education benefits for dependents - it requires the Veteran to first transfer the benefits to you and then you need to apply for those transferred benefits
+  - When participants went to the family member hub, most of them were able to find the correct option
+
 - Travel pay task had similar task succes rate
   - In both the current and the 2023 CB study, participants primarily selected answers under "Manage benefits" within the health care hub
   - In the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub 27% of the time
   - In the CB study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
   - Hypothesis??? Why did the results flip between the baseline study and the current study?
+
+- Payment history - 42% success, 68% directness
+  - Initial path: Family member hub (46%), Disability (12%), PEnsion (17%)
+  - Selections: Family member hub (54%), Disability (17%), Pension (17%)
+  - 32% went directly to the Family member hub survivor-specfic benefits section, and most then selected either the survivors pension program or DIC - these pages would likely have cross-links to the payments, but their primary focus is on the benefit itself, not the payments you are already receiving
+  - 17% selected accrued benefits
  
 - Accrued benefits - 22% success, 73% directness
   - Initial path:  Disability hub (20%), Family member hub (56%)
