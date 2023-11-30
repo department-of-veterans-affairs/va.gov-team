@@ -3,12 +3,10 @@
 
 ### Development
 
-Feature Toggle Name:
+Feature Toggles:
 
-- frontend `find_a_representative`
-- backend `find_a_rep`
-
-The backend feature toggle will remain on for all users, the frontend feature toggle will be the gatekeeper to manage user visibility during our staged rollout
+1.  `find_a_representative_enable_api` will be enabled prior to staged rollout
+2.  `find_a_representative_enable_frontend` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
 
 ### Validation
 
@@ -26,7 +24,7 @@ _Before enabling your feature toggle in production, you'll need to:_
 - [ ] The react widget has been added to the landing page
 - [ ] Entry points have been redirected to the landing page
 
-#### Go/No Go meeting on 12/8 at 2:30p ET (11:30a PT)
+#### Go/No Go meeting on 12/11 at 2p ET (11a PT)
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
 
@@ -55,18 +53,18 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 12/11-12/18
+- Rollout date range: 12/12-12/18
 - Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
 - Lindsay will monitor metrics (detailed below) for relevant insights
 - Errors will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting on 12/8 at 2:30p ET (11:30a PT)**
-1. Stage A: 10% of users on 12/11
-2. Stage B: 25% of users on 12/12
-3. Stage C: 50% of users from 12/13-12/17
-4. Stage D: 100% of users on 12/18
+**Go/No Go meeting on 12/11 at 2p ET (11a PT)**
+1. Stage A: 10% of users on 12/12
+2. Stage B: 25% of users on 12/13
+3. Stage C: 50% of users from 12/14-12/17
+4. Stage `D: 100% of users on 12/18
 
 **:snowflake: Code freeze: 12/22/2023 - 1/2/2024 :snowflake:**
 
