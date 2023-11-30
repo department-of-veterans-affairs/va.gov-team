@@ -7,6 +7,7 @@ This is an informal document to capture problems on VA.gov, once a user has logg
 
 The goal of this exercise was simply to identify these issues, so recommendations or solutions are not included in this document.
 
+**Note:** Since accessibility reviews are baked into the majority of VA.gov features and tools, I didn’t include an accessibility audit as part of this work. 
 ## Signing into the website
 This isn’t new - we know this is a huge pain point for Veterans.
 - Having multiple credentials to choose from is confusing.
@@ -28,7 +29,8 @@ This isn’t new - we know this is a huge pain point for Veterans.
 - Clicking on a websites logo to get back to the homepage is a common standard in websites today. Our logo goes back to the root of va.gov, which has generic, unpersonalized content that isn’t very helpful to an authenticated user.
 - The authenticated menu is sparse, yet at the same time duplicates other prominent links in the header.
 
-TK: screenshot of About VA menu
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/about-va-mega-menu.png" width=“300" />
+*Screenshot above shows About VA mega menu, desktop view*
 
 ### The website uses common navigation tools inconsistently, which adds to the cognitive load of getting around the website.
 - There are 3 different types of sub-navigation on the site. Benefit hubs, VAMC detail pages, and the profile all have different, which behave and look different on desktop and mobile (screenshot below).  
@@ -37,7 +39,7 @@ TK: screenshot of About VA menu
 
 TK: screenshot of different sub-navigation
 
-### Links don’t always behave the same way on the website.
+### Links don’t always behave the same way across the website.
 This is problematic because it creates a feeling of uncertainty about what will happen when a link is clicked. I’ve observed Veterans avoid navigation entirely or clicking any ambiguous links on the site because they’re not sure what will happen and they’re concerned about getting signed out by accident.
 - There are links all over the website that take a person away from va.gov, usually without any hint that it’s about to happen. This causes Veterans to conflate VA websites. A few examples are:
   - Search results
@@ -60,7 +62,7 @@ This is problematic because it creates a feeling of uncertainty about what will 
 - The amount of content on many pages pushes the most important information way down. For example, on the Claim Status Tool, the desktop view displays claim information “below the fold” on a standard size laptop monitor. 
 
   TK: screenshot of CST
-### Filling out forms on the website is buggy and inconsistent
+### Filling out applications on the website is buggy and inconsistent
 - Some forms allow you to complete the from an unauthenticated state, and others don’t. That means these problems exist for both types of users
 - I encountered multiple inconsistencies and bugs with pre-fill on the various forms I checked out:
   - My form application pre-fills some data from my profile initially, but doesn't reflect updates I make to my profile after a draft application is saved.
@@ -86,4 +88,42 @@ This is problematic because it creates a feeling of uncertainty about what will 
 ### There’s very little to signal that the site knows who I am or that I’m signed in.
 - The “true” homepage content isn't personalized at all. Nothing on the page changes once signed in, other than the call to action to create an account disappears.
 - Some pages still talk about signing in, even though you’re already signed in. One example is the VA Payment History tool.
+- The lack of personalization makes it hard to understand what information actually applies to the logged-in user ([details above](#the-amount-of-content-on-the-website-combined-with-the-absence-of-personalization-makes-it-really-difficult-to-understand-what-information-applies-to-me)).
+- We display calls to action about downloading the mobile app when when know someone is logged-in on a desktop site and can’t take action.
+
+TK: mobile CTA
+### The site surfaces no notifications or alerts to inform me about time-sensitive things that pertain only to me.
+- If I have benefits that require an annual review or update of information, there’s nothing on the site to help me remember to do that.
+- If there’s something important that I need to know about related to my benefits (message from my doctor, update in my claim status), I have to learn and remember the specific location to look on the website to see that information for every single benefit I have.
+
+### The website shows me information about myself that I can’t act on online.
+- In the profile, there are multiple pieces of information you have to call or update in person (legal name, DOB, and personal health care contacts are coming soon).
+- There are places throughout the site where we reference things that you have to access some way other than VA.gov, such as the DD214.
+
+### I can't easily switch between accounts.
+- Many Veterans have multiple sets of benefits to manage either because they are a caregiver, have dependents, or are a health delegate. There’s no way to toggle between accounts.
+- We know from conversations with Veterans that this leads to people sharing account information and logging in on their behalf.
+
 ## Visual, interaction, and content design
+### The overall look of authenticated tools on the site is fairly bland with a lot of empty white space and boxes. 
+- As you move throughout the site, it because hard to easily distinguish things from page to page because everything looks so similar.
+- We have a common pattern of stacking content on desktop . This pushes important content further down the page than is probably necessary.
+
+### There are choppy and disorienting transitions throughout the site.
+- VA.gov has lots of redirects. They can be disorienting, especially when you see flashes of other pages along the way. This is true in the unauthenticated experience as well.
+- If you're going through a form flow where the page lengths are different, the browser scroll position doesn't change. Sometimes this means you lose the context of the page and the footer takes up most of the viewport (video below). This is true in the unauthenticated experience as well.
+### There are inconsistent behaviors when moving from page to page on the site.
+- If you try to leave a form with unsaved changes, the site asks you if you want to leave in different ways. Sometimes there’s a custom VA.gov modal and other times there's a browser pop up.  The modals have different button labels and headings.
+- Transitioning between pages within a tool isn't always the same. For example, in the claim status tool, some "view detail" links feel like they're jumping you to the top of the same page even though a new URL loads, and others feel like a whole new page is loading.  
+
+### We have visual inconsistencies in how the same type of information is displayed on the site.
+- There are at least 6 different ways lists of links are presented on the site ([examples on Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701044250903/5b3495239169c934c4fbf620eb50178b1952c97d?wid=0-1701113640090)). Some, but not all are [documented in the design system.](https://design.va.gov/components/link/collection).
+- Status is communicated differently in cards throughout the site. 
+  - The status of benefit application drafts on cards and warnings is communicated differently, and it’s also different than the status of claims is displayed in cards.
+  - In the claim status tool, status are displayed differently within the same page (screenshot below).
+  - It’s possible status is communicated in another way for health tools; they seemed to be down each time I tried to check with a staging user.
+
+TK: CST status screenshot
+## Next steps
+1. Noodle on this list and determine how we want to proceed as a team.
+2. Even though accessibility reviews are baked into the VA.gov development process, there are likely many accessibility problems left to discover.  We could conduct a dedicated review as a separate task, or review open [GitHub tickets with the ￼`accessibility`￼ label](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+) to understand known issues.
