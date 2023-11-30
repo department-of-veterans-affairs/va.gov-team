@@ -44,7 +44,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 _*Start recording.*_
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+
 
 ## Warm up questions - 3 minutes 
 Before we go to the prototype, let’s start with a few warm-up questions.
