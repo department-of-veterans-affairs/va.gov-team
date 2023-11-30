@@ -21,18 +21,27 @@ Joshua Matulonis - josh.matulonis@oddball.io
 
 
 # Introduction
-Passwordless methods adoption is growing.
+The adoption of passwordless methods is growing.
 
-The ever-increasing number of accounts that users have to manage are burdening factors, as users frequently forget their passwords, resulting in losing access to their accounts.
+Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in the next 12 to 18 months (2024), facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
 
-Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in the next 12 to 18 months, facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
+Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage are frustrating as passwords are frequently forgotten and account access is lost.
 
+FIDO2 is a new open web standard that offers a promising approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices, such as security keys. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
+
+ FIDO2 also offers a number of other benefits over passwords, including:
+
+    - Improved usability: Security keys are easy to use and do not require users to remember or type complex passwords.
+    - Consistent user experience: FIDO2 is supported by virtually all browsers and has native implementations on Android and Windows.
+    - Support for various authenticator devices: FIDO2 supports a wide range of authenticator devices, including security keys, Trusted Platform Modules, Android keystore, and Apple TouchID.
+
+In short, FIDO2 offers a number of advantages over traditional passwords, making it a promising candidate for the future of authentication.
 
 ## Passkeys
 - Passkeys refer only to WebAuthn/FIDO credentials, and not to the many other keys and protocols, such as PIV, OTP, or OpenPGP Card, in the YubiKey 5 Series.
 - Any passwordless FIDO credential is a passkey. 
 - Passkeys are a password replacement that provide faster, easier, and more secure sign-ins to websites and apps across a user’s devices. 
-- Passkeys are resistant to phishing and are designed so that there are no shared secrets.
+- Passkeys are resistant to phishing and are designed to not share secrets.
 - Simplify account registration for apps and websites, are easy to use, work across all of a user’s devices, and other devices within physical proximity.
 - From a technical standpoint, passkeys are FIDO credentials that are discoverable by browsers or housed within native applications or security keys for passwordless authentication. 
 - Passkeys replace passwords with cryptographic key pairs for phishing-resistant sign-in security and an improved user experience. The cryptographic keys are used from end-user devices (computers, phones, or security keys) for user authentication.
@@ -87,6 +96,7 @@ The user on the client (”Sign in with a passkey” button) sequence for passke
 
 # FIDO
 The FIDO Alliance (founded in 2011) is a consortium of hundreds of organizations worldwide with the goal to improve online security. 
+    - Members include Google, Facebook, Microsoft, Amazon, VISA, and the World Wide Web Consortium (W3C).
 
 Billions of users have reviewed their specifications, with FIDO U2F, a protocol for a phishing-proof second factor (mostly physical security keys)(uses passwords for first authentication factor) being widely supported and rolled out at nearly all major identity providers. 
 
@@ -213,22 +223,18 @@ Research studies are demonstrating a growing positive affective reaction of part
 
 # Appendix
 1. Apple. “Latest News.” Apple Developer, 27 September 2023, https://developer.apple.com/news/?id=mgdnfp8w. Accessed 16 October 2023.
-Arora, Sunpreet. “Avoiding Lock Outs: Proactive FIDO Account Recovery using Managerless Group Signatures.” Cryptology ePrint Archive, 11 November 2022, https://eprint.iacr.org/2022/1555. Accessed 16 October 2023.
+2. Arora, Sunpreet. “Avoiding Lock Outs: Proactive FIDO Account Recovery using Managerless Group Signatures.” Cryptology ePrint Archive, 11 November 2022, https://eprint.iacr.org/2022/1555. Accessed 16 October 2023.
 Beyond Identity. “What is FIDO2?” Beyond Identity, 2023, https://www.beyondidentity.com/glossary/fido2. Accessed 20 October 2023.
-Brinkmann, Martin. “The downsides to using passkeys.” BetaNews, 30 May 2023, https://betanews.com/2023/05/30/the-downsides-to-using-passkeys/. Accessed 23 October 2023.
-Covert, Tammy. “What is FIDO vs FIDO2? – Super Computing Frontiers.” Super Computing Frontiers, 5 October 2022, https://www.supercomputingfrontiers.com/what-is-fido-vs-fido2/. Accessed 20 October 2023.
-
-Das, Sanchari. “Why Johnny Doesn't Use Two Factor A Two-Phase Usability Study of the FIDO U2F Security Key.” Financial Cryptography, https://www.ifca.ai/fc18/preproceedings/111.pdf. Accessed 29 November 2023.
-Farke, Florian. ““You still use the password after all” – Exploring FIDO2 Security Keys in a Small Company.” USENIX, 11 August 2020, https://www.usenix.org/system/files/soups2020-farke.pdf. Accessed 29 November 2023.
-Gosschalk, Kevin. “Arkose Labs Named 2020 Gartner Cool Vendor for IAM & Fraud Detection.” Arkose Labs, 2 June 2020, https://www.arkoselabs.com/blog/gartner-cool-vendor/. Accessed 13 October 2023.
-
-Hata, Max. “FIDO White Paper Multiple Authenticators.” FIDO Alliance, June 2020, https://media.fidoalliance.org/wp-content/uploads/2020/06/FIDO_White_Paper_Multiple_Authenticators_CDWG.pdf. Accessed 26 October 2023.
-
-Huber, Lesa. “Towards Implementing Inclusive Authentication Technologies for Older Adults.” Who Are You?! Adventures in Authentication Workshop (WAY), 11 August 2019, https://wayworkshop.org/2019/papers/way2019-das.pdf. Accessed 29 November 2023.
-Imbault, Fabien. “Managing authorization grants beyond OAuth 2.” GI Digital Library, 2021, https://dl.gi.de/server/api/core/bitstreams/9050b09b-c162-4d1c-b294-2ae5efea2c6b/content. Accessed 29 November 2023.
-Lyastani, Sanam. “Is FIDO2 the Kingslayer of User Authentication? A Comparative Usability Study of FIDO2 Passwordless Authentication.” IEEE, vol. 2020, no. 1, 2020, pp. 268-285. ieee, https://ieeexplore.ieee.org/abstract/document/9152694.
-Microsoft. “Authentication methods and features - Microsoft Entra.” Microsoft Learn, 19 September 2023, https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods. Accessed 16 October 2023.
-
-passkeys.io. “How do passkeys work?” Passkeys.io, https://www.passkeys.io/technical-details. Accessed 29 November 2023.
-Stewart's, Geordie. “Why Do They Do What They Do?: A Study of What Motivates Users to (Not) Follow Computer Security Advice.” USENIX, 24 June 2016, https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-fagan.pdf. Accessed 29 November 2023.
-Wolf, Flynn. ““Pretty Close to a Must-Have:” Balancing Usability Desire and Security Concern in Biometric Adoption.” CHI 2019 Paper, CHI, 4 May 2019, https://dl.acm.org/doi/pdf/10.1145/3290605.3300381. Accessed 20 Nov 2023.
+3. Brinkmann, Martin. “The downsides to using passkeys.” BetaNews, 30 May 2023, https://betanews.com/2023/05/30/the-downsides-to-using-passkeys/. Accessed 23 October 2023.
+4. Covert, Tammy. “What is FIDO vs FIDO2? – Super Computing Frontiers.” Super Computing Frontiers, 5 October 2022, https://www.supercomputingfrontiers.com/what-is-fido-vs-fido2/. Accessed 20 October 2023.
+5. Das, Sanchari. “Why Johnny Doesn't Use Two Factor A Two-Phase Usability Study of the FIDO U2F Security Key.” Financial Cryptography, https://www.ifca.ai/fc18/preproceedings/111.pdf. Accessed 29 November 2023.
+6. Farke, Florian. ““You still use the password after all” – Exploring FIDO2 Security Keys in a Small Company.” USENIX, 11 August 2020, https://www.usenix.org/system/files/soups2020-farke.pdf. Accessed 29 November 2023.
+7. Gosschalk, Kevin. “Arkose Labs Named 2020 Gartner Cool Vendor for IAM & Fraud Detection.” Arkose Labs, 2 June 2020, https://www.arkoselabs.com/blog/gartner-cool-vendor/. Accessed 13 October 2023.
+8. Hata, Max. “FIDO White Paper Multiple Authenticators.” FIDO Alliance, June 2020, https://media.fidoalliance.org/wp-content/uploads/2020/06/FIDO_White_Paper_Multiple_Authenticators_CDWG.pdf. Accessed 26 October 2023.
+9. Huber, Lesa. “Towards Implementing Inclusive Authentication Technologies for Older Adults.” Who Are You?! Adventures in Authentication Workshop (WAY), 11 August 2019, https://wayworkshop.org/2019/papers/way2019-das.pdf. Accessed 29 November 2023.
+10. Imbault, Fabien. “Managing authorization grants beyond OAuth 2.” GI Digital Library, 2021, https://dl.gi.de/server/api/core/bitstreams/9050b09b-c162-4d1c-b294-2ae5efea2c6b/content. Accessed 29 November 2023.
+11. Lyastani, Sanam. “Is FIDO2 the Kingslayer of User Authentication? A Comparative Usability Study of FIDO2 Passwordless Authentication.” IEEE, vol. 2020, no. 1, 2020, pp. 268-285. ieee, https://ieeexplore.ieee.org/abstract/document/9152694.
+12. Microsoft. “Authentication methods and features - Microsoft Entra.” Microsoft Learn, 19 September 2023, https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods. Accessed 16 October 2023.
+13. passkeys.io. “How do passkeys work?” Passkeys.io, https://www.passkeys.io/technical-details. Accessed 29 November 2023.
+14. Stewart's, Geordie. “Why Do They Do What They Do?: A Study of What Motivates Users to (Not) Follow Computer Security Advice.” USENIX, 24 June 2016, https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-fagan.pdf. Accessed 29 November 2023.
+15. Wolf, Flynn. ““Pretty Close to a Must-Have:” Balancing Usability Desire and Security Concern in Biometric Adoption.” CHI 2019 Paper, CHI, 4 May 2019, https://dl.acm.org/doi/pdf/10.1145/3290605.3300381. Accessed 20 Nov 2023.
