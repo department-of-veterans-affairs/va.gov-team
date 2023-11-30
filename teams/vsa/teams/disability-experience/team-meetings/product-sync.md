@@ -9,6 +9,10 @@
   - Do we continue on with partial 4142 work?
      - Is it still higher in priority than other ideas?
      - Do we want to tackle evidence upload as a whole, something else?    
+- Primary path failures, general review of Validation Errors, Service unavailable, and Niche errors that we believe wont return
+- Updates "user signed-at date on all ancillary forms"
+- Bugs submitted by Kimberly - considering they are old can we lower priority. Some mention a bug that we have looked at before and can finish after doc upload migration is complete
+
   
 ### Date: Nov 21' 2023       
 ### Participants: Rakshinda, Emily, Steve 
