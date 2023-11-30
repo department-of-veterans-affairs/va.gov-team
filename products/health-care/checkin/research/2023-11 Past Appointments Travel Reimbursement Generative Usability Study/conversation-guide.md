@@ -151,11 +151,10 @@ _**Participant starts at Email:**_
 - Go ahead and review it.
 - Is there anything that's confusing about this information?
 - How does this compare to what you’d expect to be in an email like this?
-
 - Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here. 
-- _If needed:_
-  - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
-  - Is there anything confusing about this?
+  - _If needed:_
+    - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
+    - Is there anything confusing about this?
 
 _**Participant is at mock sign in page:**_
 - At this point you would sign in to va.gov, but go ahead and choose any option, since this is just a prototype representing sign in.
