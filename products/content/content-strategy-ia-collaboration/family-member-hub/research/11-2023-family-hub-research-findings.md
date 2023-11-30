@@ -161,7 +161,15 @@ _List all labels that apply to this finding from the [research repository label 
 ## Additional Insights
 
 - Health care task
-  - In both this test and the previous health care portal test with family and caregivers, 
+  - This task had similar success rates and slightly higher directness than the health care tree test done with family and caregivers in 2023, despite requiring additional clicks
+    - In the 2024 test, the task was worded more towards being a caregiver, and the top answer was the PCAFC program selected in the family member hub (32%)
+    - In the 2023 test, the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (48%)
+    - In 2024, the options in the family member hub required 1-2 more clicks to get to the same answer compared to the structure tested in 2023
+   
+- Mental health care task was significantly 
+  - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
+  - In 2023, selections were evenly made between the family member hub (18%) and the health care hub (17%)
+  - This shift could be related to the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
 
 
 ## Recommendations
