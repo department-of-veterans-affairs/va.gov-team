@@ -98,12 +98,10 @@ _Complete the following with all 11 statuses:_
 
 - Ok, so the (first/next/last) term is _____
   
-  - What does this word/phrase mean to you (in the context of the status of a travel reimbursement claim that you've filed)?
-  - Optional:
-    - Have you encountered this term before when filing (for travel reimbursement)?
-    - Is there anything confusing about this term?
-    - What would you call it instead?
-    - How important is it for you to know this claim status (during the travel reimbursement process)?
+  - What does this mean to you (in the context of the status of a travel reimbursement claim that you've filed)?
+  - Is there anything confusing about this term?
+    - _Optional:_ What would you call it instead?
+  - How important is it for you to know this claim status (during the travel reimbursement process)?
  
 _After going through all terms_
 
@@ -162,7 +160,7 @@ _**Participant starts at Email:**_
 
 - Go ahead and review it.
 
-- Is there anything confusing about this information?
+- Is there anything that's confusing about this information?
 
 - How does this compare to what you’d expect to be in an email like this?
 
@@ -171,7 +169,7 @@ _**Participant starts at Email:**_
   - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
   - Is there anything confusing about this?
 
-_**Participant is at Mock Sign in page:**_
+_**Participant is at mock sign in page:**_
 - At this point you would sign in to va.gov, but go ahead and choose any option, since this is just a prototype representing sign in.
 
 _**Participant is at Appointment list:**_
@@ -190,7 +188,6 @@ _**Participant is at Appointment list:**_
 - _If task card was not mentioned:_ 
   - Did you notice anything about filing for travel reimbursement on this page? 
   - Did you notice the box at the top of the page? What does that mean to you?
-  - Did you notice anything inside the list of appointments related to filing for travel reimbursement?
 - _If dismiss/close button in card was not mentioned:_
   - What about the x/close button in the card. What would you expect to happen if you selected that?
   - And if you did select that to dismiss it, how would you find that information again?
@@ -222,7 +219,7 @@ _**Participant is on travel questions 1 & 2 & 3:**_
 
 _**Participant is on review page:**_
 
-- I’ll stop you here again for a second. Can you tell me about this page?
+- I’ll stop you here for a second. Can you tell me about this page?
 - Is there anything confusing about this page?
 - Ok, go ahead and continue.
 
@@ -233,9 +230,7 @@ _**Participant is on success page:**_
 - Tell me about your understanding of what’s happened to your claim.
 
 - How is this similar to or different from what you expected?
-  - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
- 
-**REMOVE??** - How is this similar to or different from what you’ve experienced when submitting a travel claim in the past?
+  - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?
  
 - Did you notice this claim mentions two appointments?
   - How is that similar or different to what you expected? 
