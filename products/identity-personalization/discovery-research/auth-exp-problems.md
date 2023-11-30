@@ -29,7 +29,8 @@ This isn’t new - we know this is a huge pain point for Veterans.
 - Clicking on a websites logo to get back to the homepage is a common standard in websites today. Our logo goes back to the root of va.gov, which has generic, unpersonalized content that isn’t very helpful to an authenticated user.
 - The authenticated menu is sparse, yet at the same time duplicates other prominent links in the header.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/about-va-mega-menu.png" width=“300" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/about-va-mega-menu.png" width="50%" />
+
 *Screenshot above shows About VA mega menu, desktop view*
 
 ### The website uses common navigation tools inconsistently, which adds to the cognitive load of getting around the website.
@@ -37,7 +38,9 @@ This isn’t new - we know this is a huge pain point for Veterans.
 - The use of breadcrumbs is not consistent across the site. This means I have to rely on different ways to get around, and re-learn this as I move throughout the site ([examples on Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701044250903/5b3495239169c934c4fbf620eb50178b1952c97d?wid=0-1701135909073)).
 - This is applies to the unauthenticated experience as well.
 
-TK: screenshot of different sub-navigation
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/sub-nav-varieties.png" width="50%" />
+
+*Screenshot above shows 3 different approaches to sub-navigation on different types of VA.gov pages, desktop view*
 
 ### Links don’t always behave the same way across the website.
 This is problematic because it creates a feeling of uncertainty about what will happen when a link is clicked. I’ve observed Veterans avoid navigation entirely or clicking any ambiguous links on the site because they’re not sure what will happen and they’re concerned about getting signed out by accident.
@@ -61,7 +64,11 @@ This is problematic because it creates a feeling of uncertainty about what will 
 - I have to work to find the VAMCs I’m affiliated with or that are close to my home,  even though both pieces of info are known to VA.gov when I’m logged in.
 - The amount of content on many pages pushes the most important information way down. For example, on the Claim Status Tool, the desktop view displays claim information “below the fold” on a standard size laptop monitor. 
 
-  TK: screenshot of CST
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/cst-above-fold.png" width="50%" />
+
+*Screenshot above the initial desktop view of the Claim Status Tool, where no claim statuses display in the viewport.*
+
+  
 ### Filling out applications on the website is buggy and inconsistent
 - Some forms allow you to complete the from an unauthenticated state, and others don’t. That means these problems exist for both types of users
 - I encountered multiple inconsistencies and bugs with pre-fill on the various forms I checked out:
@@ -91,7 +98,10 @@ This is problematic because it creates a feeling of uncertainty about what will 
 - The lack of personalization makes it hard to understand what information actually applies to the logged-in user ([details above](#the-amount-of-content-on-the-website-combined-with-the-absence-of-personalization-makes-it-really-difficult-to-understand-what-information-applies-to-me)).
 - We display calls to action about downloading the mobile app when when know someone is logged-in on a desktop site and can’t take action.
 
-TK: mobile CTA
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/mobile-cta-desktop.png" width="50%" />
+
+*Screenshot above shows a call to action to download a mobile app on a desktop device.*
+
 ### The site surfaces no notifications or alerts to inform me about time-sensitive things that pertain only to me.
 - If I have benefits that require an annual review or update of information, there’s nothing on the site to help me remember to do that.
 - If there’s something important that I need to know about related to my benefits (message from my doctor, update in my claim status), I have to learn and remember the specific location to look on the website to see that information for every single benefit I have.
@@ -123,7 +133,10 @@ TK: mobile CTA
   - In the claim status tool, status are displayed differently within the same page (screenshot below).
   - It’s possible status is communicated in another way for health tools; they seemed to be down each time I tried to check with a staging user.
 
-TK: CST status screenshot
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/screenshots/auth-exp-problems/claim-status-discrepancy.png" width="50%" />
+
+*Screenshot above shows two stacked cards displaying status in different ways in the same tool.*
+
 ## Next steps
 1. Noodle on this list and determine how we want to proceed as a team.
 2. Even though accessibility reviews are baked into the VA.gov development process, there are likely many accessibility problems left to discover.  We could conduct a dedicated review as a separate task, or review open [GitHub tickets with the ￼`accessibility`￼ label](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+) to understand known issues.
