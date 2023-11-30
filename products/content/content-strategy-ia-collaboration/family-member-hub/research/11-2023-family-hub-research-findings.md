@@ -73,7 +73,11 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-
+1. Participants primarily navigated to the family member hub in 4/5 tasks related to getting benefits for themselves
+2. Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub
+3. Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits
+4. Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver
+5. The "common tasks" section of the family member hub was rarely utilized
 
 
 ## Details of Findings 
