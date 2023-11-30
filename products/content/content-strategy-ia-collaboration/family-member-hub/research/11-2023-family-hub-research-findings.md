@@ -183,16 +183,21 @@ _List all labels that apply to this finding from the [research repository label 
   - In both the current and the 2023 CB study, participants primarily selected answers under "Manage benefits" within the health care hub
   - In the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub 27% of the time
   - In the CB study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
-  - Hypothesis???
+  - Hypothesis??? Why did the results flip between the baseline study and the current study?
  
-- Accrued benefits
+- Accrued benefits - 22% success, 73% directness
   - Initial path:  Disability hub (20%), Family member hub (56%)
   - Selections: Disability hub (22%), Family hub (61%)
   - Task specifically mentioned a disability claim and visitors still predominantly navigated to the family member hub and selected answers there
   - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this service and/or the label
+  - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
  
-- Fiduciary benefits
-  - 
+- Fiduciary benefits - 29% success, 29% directness
+  - Initial path: Disability (22%), family member hub (20%), pension hub (12%), service member hub (34%)
+  - Selections: Disability (27%), family member hub (44%), pension hub (15%), service member hub (5%)
+  - Top answerS: Become a fiduciary (29%), Disability > Change direct deposit (10%), Disability > Get help from an accredited rep (7%)
+  - All but one person who navigated directly to the service member hub immediately backed out of it, most often choosing the family hub next
+  - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
 
 
 ## Recommendations
