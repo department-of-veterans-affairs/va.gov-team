@@ -9,16 +9,20 @@
 |0.4| John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
 |0.5| John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 
-## Description & Prerequisites
+## Prerequisites
 
-This document describes how our web-based OAuth partners can integrate with the Sign in Service. Before starting local development the following prerequisites should be completed:
+### Postman Collection
 
-1. In order to successfully develop against a local instance of Sign in Service [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md).
+
+### `vets-api` & `vets-api-mockdata` Repositories
+
+1. In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Client Config
 
-In order to make use of the Sign in Service clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
+In order to make use of the Sign in Service clients must first [register a `Client Configuration`](../configuration/client_config.md).
 
 When registering a Client Config for a web or cookie integration with SiS, set the following attributes:
 
@@ -29,11 +33,7 @@ When registering a Client Config for a web or cookie integration with SiS, set t
 - `pkce`: true
 - `certificates`: nil
 
-## Postman Collection
-
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md). This collection is set up for both web/cookie & API-based authentication.
-
-### Sequence Diagram
+## Sequence Diagram
 
 ![vagovweboauth (1)](https://user-images.githubusercontent.com/71290526/175662350-1ecccfcf-4da3-4370-9483-5b15c263d428.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/Web_OAuth.md)
@@ -43,63 +43,50 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 ![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
-## Sign in Service Public Routes:
+## Sign in Service Public Routes
+
+The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true`. Routes that are authenticated require a valid SiS `access_token`, as well as an `anti_csrf_token` if your Client Config is configured for it. The `/refresh` route requires a `refresh_token` as well as the optional anti-CSRF token.
 
 ### GET Routes
 
-#### Sign in Page 
-
-- `staging.va.gov/sign-in/?oauth=true`
-
-##### [Authorization URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md)
+#### [Authorization](../endpoints/authorize.md)
 
 - `staging-api.va.gov/v0/sign_in/authorize`
 - params: `acr`, `type`, `code_challenge`, `code_challenge_method`, `client_id`
-- optional params: `state`
+- optional params: `state`, `operation`
 
-##### [Introspect URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/introspect.md)
+#### [Introspect](../endpoints/introspect.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/introspect`
-- params: `authentication`
 
-##### [Revoke all Sessions URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all_sessions.md)
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/revoke_all_sessions`
-- params: `authentication`
 
-##### [Logout URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/logout.md)
+#### [Logout](../endpoints/logout.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/logout`
-- params: `authentication`
-- optional parameters: `anti_csrf_token`
+- params: `client_id`
 
 ### POST Routes
 
-#### [Token URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md)
+#### [Token](../endpoints/token.md)
 
 - `staging-api.va.gov/v0/sign_in/token`
-- params: `grant_type`, `code_verifier`, `code`
-- optional params: `anti_csrf_token`
+- params: `code`, `code_verifier`, `grant_type`
 
-#### [Refresh URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/refresh.md)
+#### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
 
 - `staging-api.va.gov/v0/sign_in/refresh`
 - params: `refresh_token`
-- optional params: `anti_csrf_token`
 
-#### [Revocation URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke.md)
+## Web Oauth Workflow
 
-- `staging-api.va.gov/v0/sign_in/revoke`
-- params: `refresh_token`
-- optional params: `anti_csrf_token`
-
-## Oauth Workflow
-
-1. User lands on [VA.gov](http://va.gov/) wanting to sign in via OAuth
-2. User clicks on the button to sign in with their credential service provider (CSP)
-3. Vets-website calls the vets-api OAuth `/authorize` endpoint with specific query parameters outlined in the Parameters Table below
-4. Vets-api redirects to CSP website for user to enter credentials
-5. CSP calls Sign-in-Service (SiS) API endpoint `/callback` to create an auth code
+1. User lands on [VA.gov](http://va.gov/) or another web client wanting to sign in via OAuth.
+2. User clicks on the button to sign in with their credential service provider (CSP).
+3. Client calls the SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
+4. SiS redirects to CSP website for user to enter credentials.
+5. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
 6. SiS API redirects user to `[environment]/auth/login/callback` with a `code` query parameter and `state` that is verified client side
 7. Vets-website makes a POST call to the SiS API `/token` endpoint to get Access Token + Refresh Tokens + Anti-CSRF Token + Info Token Cookies
 

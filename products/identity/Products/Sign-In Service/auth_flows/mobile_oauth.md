@@ -18,6 +18,17 @@ This document describes how our mobile/API-based OAuth partners can integrate wi
 
 2. `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
+#### Differences between web & mobile workflows
+
+##### Info Token
+
+The use of the `/token` endpoint will facilitate automatic logout due to user inactivity on web based versions of the SiS. The intent is the web app will read the `vagov_info_token` cookie and extract the refresh token expiration to determine when to display the inactivity modal and subsequent auto logout.
+
+##### Introspection
+
+Web based apps will not require the use of an introspection endpoint because the web based version will use internal user storage mechanisms. For this reason we recommend utilizing the `vets-api/v0/user` endpoint with Bearer authorization passing the access_token.
+
+
 ### Client Config
 
 In order to make use of the Sign in Service clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).

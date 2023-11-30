@@ -13,7 +13,7 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 
 ### Sign in Service Postman Collection
 
- Creating and testing a Service Account authentication configuration is most easily done with the [SiS Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json), which has all of the necessary routes configured and will automatically populate environmental variables with the appropriate codes & tokens when they are returned.
+ Creating and testing a Service Account authentication configuration is most easily done with the [SiS Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json), which has all of the necessary routes configured and will automatically populate environmental variables with the appropriate codes & tokens when they are returned.
 
 ## Service Account Config Registration
 
