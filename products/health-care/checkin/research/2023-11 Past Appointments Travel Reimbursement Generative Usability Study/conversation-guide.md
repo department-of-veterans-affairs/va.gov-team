@@ -232,12 +232,11 @@ _**Participant is on success page:**_
 - How is this similar to or different from what you expected?
   - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
  
-- Did you notice this claim mentions two appointments?
-  - Why do you think the second appointment is listed here when you have only gone through the process filing a travel reimbursement claim once? 
+- Did you notice this claim mentions two appointments? Why do you think that is?
+  - _If needed:_ Why do you think the second appointment is listed here when you have only gone through the process filing a travel reimbursement claim once? 
     - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
 
 - And what would you expect to happen next with your claim?
-  - _Things to watch for: Do they understand what happens now with their claim and how to find out more?
 
 - If you still had questions right now, how you would find out more about your claim?
 
@@ -245,11 +244,11 @@ _**Participant is on success page:**_
 
 - _If needed, prompt to appointment list and details page with:_
   - Did you notice the "Review your past appointments" link? Go ahead and select that.
-  - And then you can go ahead and select the link for the second appointment on the list.
+  - And then go ahead and select the link for the second appointment on the list.
  
 _**Participant is on details page for second appointment**_
 
-- _(Screen reader users - if not yet addressesed)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
+- _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - _Things to watch for: Is there confusion around the detail page H1 / aria label?_
 
 - Tell me about this appointment’s travel reimbursement claim status.
@@ -258,7 +257,7 @@ _**Participant is on details page for second appointment**_
 - Ok, now take a moment to review this whole page.
   - Overall, what information is most important to you on this page for a past appointment?
   - Is there anything confusing about this page and the information included here?
-  - _If not mentioned:_ What do you think "type of care not noted" means?
+  - What do you think "type of care not noted" means?
  
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
 - _If participant selects "Review claim" link:_ Where did you expect that link to take you?
@@ -271,12 +270,12 @@ _**If the participant hasn’t gone to a details page for an appointment with th
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
 - _If needed:_
   - _(non-screen reader users):_ Did you notice the dot with the 1 task to complete? What does it seem like that's referring to?
-  - _(screen-reader users)_
+  - _(screen-reader users)_: Did you notice anything indicating there might be something to do for an appointment?
 
 _**On details page:**_
 - Is there anything confusing about this page and the information included here?
 - _(Non-screen reader users)_ Thinking back to the dot with the 1 task to complete? What does it seem like that was referring to?
-- _(Screen reader users - if not yet addressesed)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
+- _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - _Things to watch for: Is there confusion around the detail page H1_
 - And what would you do next from this page? 
 
