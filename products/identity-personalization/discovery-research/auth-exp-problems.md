@@ -141,7 +141,7 @@ This is problematic because it creates a feeling of uncertainty about what will 
 
 *Screenshot above shows two stacked cards displaying status in different ways in the same tool.*
 
-## Next steps
+## Potential next steps
 1. Noodle on this list and determine how we want to proceed as a team.
 2. Even though accessibility reviews are baked into the VA.gov development process, there are likely many accessibility problems left to discover.  We could conduct a dedicated review as a separate task, or review open [GitHub tickets with the ￼`accessibility`￼ label](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+) to understand known issues.
 3. For an even deeper dive, we could conduct the same, or a pared down version, of this review on a mobile device, as there are likely problems specific to mobile that weren't identified here.
