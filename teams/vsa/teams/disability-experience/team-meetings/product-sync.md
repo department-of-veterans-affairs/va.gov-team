@@ -1,11 +1,21 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Nov 30' 2023       
+### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
+### Topics Covered:
+- Questions about 526 like whether new military service questions(21D and E) should be made required or not
+  - Do we ask Emily/David Reis/both? What's a good communication channel for these kinds of questions without waiting for the biweekly VBA check-in?
+- How do we want to approach identifiying and prioritizing work for next year, esp research and design as they could be freed up by end of December?
+  - Do we continue on with partial 4142 work?
+     - Is it still higher in priority than other ideas?
+     - Do we want to tackle evidence upload as a whole, something else?    
+  
 ### Date: Nov 21' 2023       
 ### Participants: Rakshinda, Emily, Steve 
 ### Topics Covered:
 - VBA concern about Toxic Exposure delivery
  - Emily to connect with VBA 
-- Lighthouse ask for production ETA for migration
+- Lighthouse asked for production ETA for migration
 - Copy Emily on the email thread 
   - Ownership of items that come out of collab cycle from other teams
 - Ownership of maintaining code coverage for 526
