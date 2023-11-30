@@ -230,28 +230,22 @@ _**Participant is on success page:**_
 - Tell me about your understanding of what’s happened to your claim.
 
 - How is this similar to or different from what you expected?
-  - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?
+  - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
  
 - Did you notice this claim mentions two appointments?
-  - How is that similar or different to what you expected? 
   - Why do you think the second appointment is listed here when you have only gone through the process filing a travel reimbursement claim once? 
-    - _Things to watch for: Do they understand why the second appointment was updated along with the first one? 
+    - _Things to watch for: Do they understand why the second appointment was updated along with the first one?_
 
 - And what would you expect to happen next with your claim?
-  - _Things to watch for: Do they understand what happens now with their claim and how to find out more?_ 
+  - _Things to watch for: Do they understand what happens now with their claim and how to find out more?
 
-- And if you still had questions, walk me through how you would find out more about your claim?
-  - _Things to watch for: Does it occur to the participant to go to the appointments list/details page?_
+- If you still had questions right now, how you would find out more about your claim?
 
-- _If following "Review your claim" link _: Where did you expect that link to take you?
+- _If participant selects "Review your claim" link:_ Where did you expect that link to take you?
 
-- Ok, thank you. We can move on. Now, if you wanted to check on the travel reimbursement status for one of these appointments, what would you do next?
-- _If needed, prompt with:_
+- _If needed, prompt to appointment list and details page with:_
   - Did you notice the "Review your past appointments" link? Go ahead and select that.
-  - And you can select the link for the second appointment on the list.
-- _Things to watch for:_
-  - _Do they understand how to navigate to the appointment list?_
-  - _Were they able to find their way to the details page for the 2nd appointment and check on their claim status?_
+  - And then you can go ahead and select the link for the second appointment on the list.
  
 _**Participant is on details page for second appointment**_
 
@@ -267,22 +261,24 @@ _**Participant is on details page for second appointment**_
   - _If not mentioned:_ What do you think "type of care not noted" means?
  
 - Thank you. And then, if you still had questions about your claim status, how would you find out more info about that status?
-- Where did you expect that link to take you?
-  - _Things to watch for: Did they go to the "Review claim” link. Did they expect it to go to BTSSS or somewhere else?_
+- _If participant selects "Review claim" link:_ Where did you expect that link to take you?
+
 
 ----
 
-_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) - have them navigate to the details page for a third appointment (remaining appointment with dot indicator)**_
+_**If the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits - have them navigate to the details page for a third appointment (appointment with dot indicator)**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
-- _Things to watch for: Does the participant understand that the Wednesday appointment (with 1 task to complete) is the other appointment they can file for?_
+- _If needed:_
+  - _(non-screen reader users):_ Did you notice the dot with the 1 task to complete? What does it seem like that's referring to?
+  - _(screen-reader users)_
 
 _**On details page:**_
-- And what would you do next from this page?
 - Is there anything confusing about this page and the information included here?
-- _(Non-screen reader users)_ Did you notice the dot with the 1 task to complete? What does it seem like that was referring to?
-- _(Screen reader users)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
-  - Things to watch for: Is there confusion around the detail page H1
+- _(Non-screen reader users)_ Thinking back to the dot with the 1 task to complete? What does it seem like that was referring to?
+- _(Screen reader users - if not yet addressesed)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
+  - _Things to watch for: Is there confusion around the detail page H1_
+- And what would you do next from this page? 
 
 ----
 
