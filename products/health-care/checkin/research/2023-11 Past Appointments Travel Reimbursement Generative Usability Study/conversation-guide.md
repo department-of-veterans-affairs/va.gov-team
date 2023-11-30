@@ -23,7 +23,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 - Today we're going to talk about filing travel reimbursement claims for your VA medical appointments. 
 - Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 
@@ -89,7 +89,8 @@ _**Note:** Use inclusive language as much as possible. If the participant is bli
   
 - I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past. You might recognize these from when you last filed a travel reimbursement claim.
   
-- Ok, so if you’re ready (I’ll share my screen to help our observers follow along) and we’ll start with the first term. And remember, there are no right or wrong answers.
+- Ok, so if you’re ready we can get started with the first term. And remember, there are no right or wrong answers.
+- (_for non-screen reader users_) Ok, I’ll go ahead and share my screen
 
 _Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
 
@@ -97,14 +98,12 @@ _Complete the following with all 11 statuses:_
 
 - Ok, so the (first/next/last) term is _____
   
-  - What does this word/phrase mean to you in the context of the status of a travel reimbursement claim that you've filed?
-    
-  - Have you encountered this term before when filing for travel reimbursement?
-    
-  - Is there anything confusing about this term?
-    - _(if appropriate/if the participant says they wouldn’t use that term)_ What would you call it instead?
-      
-  - How important is it for you to know this claim status during the travel reimbursement process?
+  - What does this word/phrase mean to you (in the context of the status of a travel reimbursement claim that you've filed)?
+  - Optional:
+    - Have you encountered this term before when filing (for travel reimbursement)?
+    - Is there anything confusing about this term?
+    - _(if needed)_ What would you call it instead?
+    - How important is it for you to know this claim status (during the travel reimbursement process)?
  
 _After going through all terms_
 
