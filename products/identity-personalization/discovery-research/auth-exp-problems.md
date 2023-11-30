@@ -83,6 +83,10 @@ This is problematic because it creates a feeling of uncertainty about what will 
 - Some applications that pre-fill from profile data advise the user that changes made to their data in the application won't get updated in their profile. Others do not offer this info, even though they're pulling info from the profile in the same way.
   - The info about not saving to the profile is lost on the page among all the other content.
 
+### We don't do a good job of telling people what to next once they've applied.
+- Some forms have a button, others have a link, that says "Go back to VA.gov" at the bottom of their confirmation page. They're already on VA.gov. And a link shouldn't look like a button.
+- There's no personalized calls to action to help people figure out what else might be useful for them to do.
+
 ### Lots of errors are encountered as a person tries to access tools.
 - There were many times on the staging site that an error message showed in place of a tool, either because the logged-in user didn’t have a relevant benefit, or because the tool wasn’t loading properly.
 - Other times, the tools did load, but took a significant amount of time, even with a fast internet connection
