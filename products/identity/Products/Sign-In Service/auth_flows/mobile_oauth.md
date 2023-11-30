@@ -13,7 +13,7 @@
 ## Prerequisites
 
 ### Postman Collection
-
+vets-api/
 The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
 
 ### `vets-api` & `vets-api-mockdata` Repositories
@@ -21,17 +21,6 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 
 `vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
-
-#### Differences between web & mobile workflows
-
-##### Info Token
-
-The use of the `/token` endpoint will facilitate automatic logout due to user inactivity on web based versions of the SiS. The intent is the web app will read the `vagov_info_token` cookie and extract the refresh token expiration to determine when to display the inactivity modal and subsequent auto logout.
-
-##### Introspection
-
-Web based apps will not require the use of an introspection endpoint because the web based version will use internal user storage mechanisms. For this reason we recommend utilizing the `vets-api/v0/user` endpoint with Bearer authorization passing the access_token.
-
 
 ### Client Config
 
