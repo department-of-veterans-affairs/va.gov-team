@@ -96,7 +96,7 @@ Before we start, I have a few things that I want to go over with you:
       - How did you access the discount?  
       - Did you plan to use the discount before you went shopping?
 
-**9.**  Have you ever tried to access a veteran discount offered by a service provider but been denied?
+**9.**  Have you ever tried to use a veteran specific discount at a retailer but been denied??
      
       - Tell me about this experience.  
       - Where were you? What discount were you trying to access?
