@@ -117,4 +117,7 @@ Payments *NEW*
 - Editing or adding a direct deposit account
 - Viewing payment details
 
+Home/Profile
+- Viewing veteran status card *NEW*
+
 ## Important Links
