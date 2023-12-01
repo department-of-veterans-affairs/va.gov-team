@@ -1,11 +1,22 @@
 # DBEX Document Upload Service Migration Release Plan
 
-## Outstanding Items
-
 ## Overview Checklist
 - [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
     - [ ] Pre-release Testing
+      - [X] Tools Access
+      - [ ] Dashboard
+      - [ ] Code Completion
+      - [ ] Manual Testing
+    - [ ] Review Cases
+    - [ ] Canary
+- [ ] Phase II: Staged Rollout 
+    - [ ] Stage A: 0.5%
+    - [ ] Stage B: 5%
+    - [ ] Stage C: 10%
+    - [ ] Stage D: 25%
+    - [ ] Stage E: 50%
+    - [ ] Stage F: Go live!
+- [ ] Post-launch questions
 
 ## Phase I: Internal Testing and Review
 
@@ -22,7 +33,7 @@
   - [ ] Implement staging dashboard
   - [ ] Implement prod dashboard
 
-- Code Completion
+- [ ] Code Completion
   - [ ] Backfill solution: SupportingEvidenceAttachment vs. LighthouseSupportingEvidenceAttachment
   - [ ] Code completion and approval
   - [ ] Staging sanity check: upload supporting evidence to confirm it works in staging currently
@@ -43,36 +54,13 @@
 - [ ] Sync with VA re: anything special we need to do (believe we can cancel the claim immediatley after so it doesnt get processed)
 - [ ] Identify users from this list we can use in prod as Canaray users
 
-
-## Overview Checklist
-- [ ] Phase I: Internal Testing and Review
-    - [ ] Pre-release Testing
-      - [X] Tools Access
-      - [ ] Dashboard
-      - [ ] Code Completion
-      - [ ] Manual Testing
-    - [ ] Review Cases
-    - [ ] Canary
-- [ ] Phase II: Staged Rollout 
-    - [ ] Stage A: 0.5%
-    - [ ] Stage B: 5%
-    - [ ] Stage C: 10%
-    - [ ] Stage D: 25%
-    - [ ] Stage E: 50%
-    - [ ] Stage F: Go live!
-- [ ] Post-launch questions
-
-
 ## Phase II - Staged Rollout (also known as unmoderated production testing)
 ### Metrics
 How will you make the product available in production while limiting the number of users who can find/access it: [Flipper Dashboard](https://api.va.gov/flipper/features)
 <br>
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
-- Monitor relative success rate of 
-
-
-
-Links to dashboard(s) showing "success criteria" metrics: TBDR
+- Monitor relative success rate of uploads to Lighthouse vs EVSS. 
+- Links to dashboard(s) showing "success criteria" metrics: TBD
 
 #### Rollback
 - Rollback if any of the following is encountered
