@@ -46,53 +46,22 @@ The findings from this research will:
 - Demonstrate where copy needs to be rewritten to enhance clarity
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+**Usability study**
+A usability study will be conducted remotely via Zoom using the Perigean contract. A remote moderator will begin with introduction questions about their experience with applying for benefits. They will then be asked to complete a series of tasks on a Figma prototype.
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Participants will be showed one of the following four flows:
+1. An authenticated experience where the user has additional health insurance to report
+2. An authenticated experience where the user does not have additional health insurance to report
+3. An unauthenticated experience where the user has additional health insurance to report
+4. An unauthenticated experience where the user does not have additional health insurance to report
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Participants will be encouraged to talk through their exploration of the flow. Remote observers and note takers will be in attendance.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
