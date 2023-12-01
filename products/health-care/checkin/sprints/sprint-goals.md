@@ -3,6 +3,39 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 12/13/2023 - 12/26/2023  ------- FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+ - **GOAL: Support Production**
+ - **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
+- **GOAL: Increase Usage of PCI**
+     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address Tech Debt**
+     - **Sub Goal: Switch Components to Design System v. 3**
+ 
+#### PLANNED RELEASES 
+- NONE
+  
+#### SPRINT TICKETS
+- **GOAL: Support Production**     
+    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
+- **GOAL: Make Travel Claims Easier**   
+   - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+        - TBD  
+- **GOAL: Increase Usage of PCI**         
+    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - TBD
+- **GOAL: Address Tech Debt**
+    - 🟦 [[BE] [Request] Don't use "k" to represent thousand; can we use the actual number?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70962)
+    - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
+        - TBD
+
+------- END FUTURE / TENTATIVE ------
+
+__________________________________________________________________________________________________________________________________________________________
+
 ## 11/29/2023 - 12/12/2023  
 #### SPRINT GOALS
  - **GOAL: Support Production**
