@@ -21,7 +21,7 @@ Joshua Matulonis - josh.matulonis@oddball.io
 
 
 # Introduction
-The adoption of passwordless methods is growing.
+The adoption of passwordless methods for authentication is growing.
 
 Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in the next 12 to 18 months (2024), facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
 
@@ -149,7 +149,7 @@ FIDO Authentication categorized by user interactions:
 
 
 ## Government Use of FIDO
-1. GSA - Login. gov
+### GSA & Login. gov
 
 In response to a rising number of phishing attacks, the government required a user-friendly, efficient, and cost-effective “phish-proof” multi-factor authentication (MFA) technology. 
 
@@ -170,7 +170,7 @@ GSA required registration of a second MFA option
 June 2019, ~27,000 FIDO2 keys registered (Adoption rate ~3% of all new users) 
  - A significant increase from initial rollout.
 
-### Deployment and UX
+## Deployment and UX
 Login.gov supports FIDO2 through the use of FIDO security keys and built-in FIDO authenticators like Windows Hello biometrics.  
 
 For users, these are all referred to as “security keys” during user onboarding. 
@@ -179,14 +179,23 @@ The process for setting up FIDO2 at login.gov:
 1. Creating a new login.gov account 
   - User enters their email address and creates a password. Login.gov will first send an auto-generated email for the new user to confirm their email address. 
 2. Select method of MFA
-  - Then, they are instructed to select and set up MFA from a menu of options, including SMS OTP, FIDO2 security keys, and backup codes. 
+  - They are instructed to select and set up MFA from a menu of options, including SMS OTP, FIDO2 security keys, and backup codes. 
   - To set up FIDO2, the user selects the “Security Key” option. 
   - The user can create a nickname for their security key. 
 3. Set up Security Key
-  - User is prompted to either insert a hardware security key into their computer and touch it or, if their device has a supported built-in authenticator, be prompted to use it by looking into the camera or touching a biometric sensor (for two examples). 
+  - User is prompted to either insert a hardware security key into their computer and touch it or, if their device has a supported built-in authenticator, be prompted to use it by either looking into the camera or touching a biometric sensor. 
 - The user is presented with a “success screen” and they can then access their login.gov account.
 - Selecting “Remember Device” prevents MFA need on that device for 30 days.
 
+
+## Barriers to FIDO/Passkey Adoption
+1. Users are lacking mental models and knowledge about the security of passwordless authentication including:
+  - FIDO protocols are designed from the ground up to protect user privacy. 
+  - The protocols do not provide information that can be used by different online services to collaborate and track a user across the services. 
+  - Biometric information, if used, never leaves the user’s device.
+2. Token-based authentication problems such as expiration timing, lack of cross domain support, and risk of mixed content rails in websites.
+3. In case of 1FA, users may associate possession of the authenticator with a belief that no one else can access the account and that losing the device may lead to an unauthorized account access.
+4. It may not be suitable for use in all situations where there is a need to use a security key (such as public computers without connectivity or when giving account access to a trusted person (how can it be shared?))
 
 ## Opportunities to Increase Adoption 
 1. User Education - Specifically, informing users that they have the option to enroll with FIDO2 and educating them about what FIDO is and how to set it up.
@@ -196,22 +205,20 @@ The process for setting up FIDO2 at login.gov:
    - Extra clarity around using the device's name instead of the security key language to keep the security key option for users who have the physical security key and adding additional options for users with built-in authenticators (i.e. “use your Android phone,” or “use your Windows Hello device,” etc).  
 
 3. “MFA Checkup” Feature - Addresses real-world problem when users change their smartphone and lose their backup codes. 
-   - Login.gov could notify (such as within a modal) the user of the methods available or provide the user with the option to replace a method. 
+   - Login.gov could notify (such as within a modal) the user of the methods available or provide the user with the option to replace a method.
+  
+## Research Recommendations
+Research studies are demonstrating a growing positive affective reaction of participants toward passwordless authentication after application of recommendations including: 
+  - To umderstand users thinking systematically abour passkeys, designers should draw from existing models about physical keys (such as possessing a key means another can't access the account; spare keys can & should be used; advising them to not store with personally identifying information; associate account with the correct physical key).
+  - FIDO2 doesn't define the the authenticator's form, just its capabilities and protocols.
+     - Determine user preferences of authenticator form and features (such as using currently owned devices or designing for personalized authentication).
+ - Inform users of situations where they may not be able to use passwordless authentication, as they may be unable to predict the consequences of combining client devices with authenticators.
+ - Permit users to securely revoke access to their account without having to complete account recovery for themselves before being able to possibly freeze accounts.
+ - Reusing an authenticator across websites amplifies the risk of losing access to multiple accounts at once.
+ - Explain how security keys work and distinguish them from USB drives in a “Learn more” text.
+    - The security key is unlike a USB drive in that they won't contain malware, viruses, or hacks that infect their device when a security key is inserted.
 
 
-## Barriers to FIDO/Passkey Adoption
-1. Users are lacking mental models and knowledge about the security of passwordless authentication including:
-  - FIDO protocols are designed from the ground up to protect user privacy. 
-  - The protocols do not provide information that can be used by different online services to collaborate and track a user across the services. 
-  - Biometric information, if used, never leaves the user’s device.
-2. Token-based authentication problems
-3. In case of 1FA, users may associate possession of the authenticator with a belief that no one else can access the account and that losing the device may lead to an unauthorized account access.
-4. It may not be suitable for use in all situations where there is a need to use a security key (such as public computers without connectivity or when giving account access to a trusted person (how can it be shared?))
-
-
-Research studies are demonstrating a growing positive affective reaction of participants toward passwordless authentication.
-
-- Does this indicate users are ready to replace passwords?
 
 # Research Questions
 1. "Do end-users accept FIDO2-based authentication as a single factor? If not, which factors could inhibit an adoption by end-users and which potential paths exist to address the end-user concerns?
