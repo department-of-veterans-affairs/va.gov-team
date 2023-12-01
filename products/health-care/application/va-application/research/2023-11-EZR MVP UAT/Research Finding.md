@@ -14,7 +14,7 @@ Date: 11/2023
 
    
    - [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699465139971/bb160160c2b0c2fc6bd32eedbdf01058da158e97?sender=ubf5503bf47b6eb1e92730053)
-
+   - [Presentation Deck](https://docs.google.com/presentation/d/1VZPfiwz-IVVaNRSsJnEm2YWM8-sBBUJsJtg3zUsZzEA/edit#slide=id.g24ad602b585_0_36)
 
 **Jump to:**
 
@@ -87,12 +87,6 @@ Participants will know what they need to do based on the intro page on the form.
 4. Finding 4 - Veterans found the pre-fill feature intuitive and time-saving.
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 
 **Finding 1 - Veterans prefer notification through email or text.**
 
