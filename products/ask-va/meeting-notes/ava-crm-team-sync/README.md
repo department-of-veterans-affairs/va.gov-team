@@ -1,3 +1,25 @@
+## Meeting Notes for CRM Sync on 11/30/2023
+
+Worked through Get Topics and Submit Inquiry
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Natalie, Becky,  
+* **AVA CRM Team:** JD, Catherine, Bharat, Chris, Joanne, Timothy,
+
+### Key Takeaways:
+
+1. Made progress on the hairy parts of the last two endpoints - get topics and submit inquiry.
+2. Worked through Get Topics and Submit Inquiry. Lots of notes were taken for this meeting, but they're detailed and technical. Adding to the contract docs in github.
+  
+### Action Items:
+
+- [ ] Joe: Update the comments in existing contract docs with notes from this meeting.
+- [ ] Shelby: Review Category/Topic/Subtopic changes in Teams spreadsheet; Provide a LoE estimate for each type of change present in the sheet (new, rename, deleted, …) by Tuesday's CRM Sync.
+- [ ] Joe/Jacob: Review new information on possible existing schools API.
+
+---
+
 ## Meeting Notes for CRM Sync on 11/29/2023
 
 Discussion of LoE for Category/Topic/Subtopic changes
