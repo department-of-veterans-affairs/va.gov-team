@@ -46,7 +46,7 @@
 - AWS SQS
 - (maybe) DynamoDB
 
-![Diagram](./assets/mvp.smexchange.drawio.png)
+![Diagram](./assets/mvp.drawio.png)
 
 ## Sequence
 
