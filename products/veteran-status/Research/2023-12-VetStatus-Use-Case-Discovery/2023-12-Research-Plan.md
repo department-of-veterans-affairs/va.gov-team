@@ -38,7 +38,7 @@ This research will provide greater insight into the veterans’ experience acces
 
 
 ## Methodology	
-We will conduct remote interviews with 8 veterans over Zoom. These interviews will include questions relating to how veterans access veteran specific discounts at different retailers.
+We will conduct remote interviews with minimum 8 veterans over Zoom. These interviews will include questions relating to how veterans access veteran specific discounts at different retailers.
 
 
 ### Location
@@ -59,8 +59,6 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Tuesday, 12/5/22 11:30am EST
 - Tuesday, 12/5/22 2pm EST
 
-We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
-
 
 ### Recruitment criteria
 8 - 12 (minimum 8)
@@ -79,7 +77,7 @@ We will keep track of participant demographic information (identified gender, ag
 - Some have a Veterans Identification Card (VIC), some do not
 - Some have and use the Flagship Mobile app, some do not
 - Some have visited a VA facility within the past 11 months
-- Ideally at least 3 participants use Assistive Technology
+- Ideally at least 3 participants use visual Assistive Technology, such as a screenreader 
 - Diverse sample group, more fully detailed in request ticket 
 
 #### Screener Questions
