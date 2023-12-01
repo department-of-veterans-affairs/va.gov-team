@@ -6,7 +6,7 @@ labels: [Figma-access]
 body:
   - type: markdown
     attributes:
-    label: Requestor Name
+      label: Requestor Name
   - type: input
     id: requestor-name
     attributes:
