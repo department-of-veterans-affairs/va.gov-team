@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Campaign Landing Page Initiative Post MVP
 #### Overview
 
 <details>
