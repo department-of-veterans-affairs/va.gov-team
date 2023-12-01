@@ -11,7 +11,12 @@ Some data, like inquiries and replies, only exist in the Dynamics CRM applicatio
 In general, the strategic engineering decisions for where data is sourced in partnership with the VA.gov platform team follow two guiding principles.
 
 1. Use VA data sources (APIs) whenever possible.
-2. Don't break the existing Dynamics CRM or the process of routing inquiries to the agents using Dynamics CRM. 
+2. Don't break the existing Dynamics CRM or the process of routing inquiries to the agents using Dynamics CRM.
+
+These KPIs will guide our decisions and help us measure success:
+* Reduce the time it takes to submit a question.
+* Increase the percentage of submitters that successfully ask a question.
+* Meet the target VA.gov user satisfaction score.
 
 ## The Options: Data Sourcing
 
