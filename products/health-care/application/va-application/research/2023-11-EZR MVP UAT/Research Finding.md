@@ -59,31 +59,33 @@ We conducted hour-long moderated semi-structured interviews, including one task-
 
 ## Hypotheses and Conclusions
 
-_Hypothesis statement_
+Participants will understand that some information is prefilled and will be able to update and submit the information.
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+   - **likely true**
+   - The overwhelming majority of the participants displayed positive reactions to the pre-fill feature, noting it was helpful and time saving.
+Participants may be frustrated if they want to only update one section of the form vs. multiple sections because they will have to go through the form linearly.
 
+Participants will understand they need to update information.
+   - **likely true**
+   - While 8 out of 10 participants found the form easy and user-friendly, at least 2 of the participants were frustrated that the form did not direct them to the prompted task of updating health insurance information.
+
+Participants may be frustrated if they want to only update one section of the form vs. multiple sections because they will have to go through the form linearly.
+   - **likely true**
+   - Most participants mentioned they have updated their information previously, with 4 participants mentioning they've used the online portal.
+
+Participants will know what they need to do based on the intro page on the form.
+   - **Not enough information**
+   - While Veterans rated the intro page highly and indicated that they felt prepared to start the form, several were surprised by detailed questions about their spouse, financial information, and health insurance information.
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Finding 1 - Veterans prefer notification through email or text.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. Finding 2 - Veterans show confusion/discomfort over providing financial information.
 
-1. Finding one
+3. Finding 3 - Veterans generally found the 10-10EZR online form clear and user-friendly.
 
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+4. Finding 4 - Veterans found the pre-fill feature intuitive and time-saving.
 
 ## Details of Findings 
 
@@ -93,43 +95,65 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Finding 1 - Veterans prefer notification through email or text.**
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZR], [VETJNY: Seeking support for an acute health event, maintaining my health]
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Veterans want to receive a personalized email with a call-to-action and link, directing them to update or change the required information.
 
-Brief description
+**Finding details:
+   - 7 out of 10 Veterans talked about email when asked about their preferred mode of notifications. 
+   - 4 out of 10 Veterans mentioned wanting it in text as well, or as an alternative.
 
-> _Supporting data: Quote here_
+   >P4: "I like working on the bigger screen. Having to keyboard those types of things."
 
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+   >P8: "When they text or email me...they put like some sort of link in there...I would say that would take me directly to it, but because of the way we have to log in I know it won't be direct."
 
 
-**Finding 3**
+**Finding 2 - Veterans show confusion/discomfort over providing financial information**
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZR], [VETJNY: Seeking support for an acute health event, maintaining my health]
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Veterans, especially those with a high service-connected disability rating, express suspicion or confusion about having to provide detailed income and tax information.
 
-Brief description
+**Finding details:
+   - 5 out of 10 Veterans were surprised that the form was asking for detailed financial information. 
+   - 2 Veterans were suspicious of VA asking for income information, mentioning that VA must communicate with the IRS or the IRS already has their income information on file.
 
-> _Supporting data: Quote here_
+> P5: "I feel like that would be on my tax return...you guys haven't asked this before - never filled this in before."
 
-> _Supporting data: Quote here_
+> P9: "Okay... I am just laughing. The VA form 1010EZ... hahaha. Because that is the IRS form. Doesn't it make you laugh?"
+
+**Finding 3 - Veterans generally found the 10-10EZR online form clear and user-friendly**
+
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZR], [VETJNY: Seeking support for an acute health event, maintaining my health]
+
+Veterans generally have a positive experience going through the form, noting the helpful pre-filling feature, save-for-later feature, and clear & straightforward questions.
+
+**Finding details:
+   - 8 out of 10 Veterans gave generally positive feedback going through the form.
+   - 2 out of 10 Veteran expressed their dissatisfaction with not getting to the prompted task of insurance information update right away.
+
+> P2: "I couldn't make it any better than it is."
+
+> P4: "Oh, good. I get to add my spouse. So when I did this before I had to mail it in. So this is really nice."
+
+> P8: "I still haven't seen the form, the portion of the form where I'm just updating my health insurance information."
+
+**Finding 4 - Veterans found the pre-fill feature intuitive and time-saving.**
+
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Content], [PRDT: Form 10-10 EZR], [VETJNY: Seeking support for an acute health event, maintaining my health]
+
+Veterans generally have a positive attitude towards the pre-fill feature, noting that it would save them time typing it in and indicates that the VA already has their information.
+
+**Finding details:
+   - 9 out of 10 Veterans found the feature to be helpful and time-saving.
+   - 1 out of 10 Veterans understand being asked to verify pre-filled information but do not want to fill out information beyond the prompted task of health insurance update.
+   - All Veterans were observed to review their information for accuracy.
+
+> P3: "It's pulling from my information. So that saves time versus me having to type it in."
+
+> P9: "Pre-filling that they already know or that the information is there. I'm happy. Less to type in."
 
 
 ## Additional Insights
