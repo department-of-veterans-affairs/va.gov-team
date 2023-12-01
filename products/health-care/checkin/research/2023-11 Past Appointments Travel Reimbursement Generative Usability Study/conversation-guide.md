@@ -178,9 +178,9 @@ _**Participant is at Appointment list:**_
   - And what would you expect to happen if you DID NOT select that x/close button? 
 - Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to file that claim now.
 
-_**Participant navigates to past appointments > detail page > intro page > travel flow OR directly to travel flow from task card**_
+_**Participant navigates directly to travel intro page from task card OR to past appointments > detail page > travel intro page**_
 
-_**If on detail page:**_
+(_**If participant goes through detail page:**_)
 
 - Is there anything confusing about this page and the information included here?
 - _(Non-screen reader users)_ Did you notice the dot with a message? What does it seem like that was referring to?
@@ -195,7 +195,7 @@ _**If on detail page:**_
 - And how clear are the two options for filing a claim?
 - Ok, go ahead and continue.
 
-_**Participant is on travel questions 1 & 2 & 3:**_
+_**Participant is on travel questions:**_
 
 - For the purposes of this study, you can go ahead and answer "yes" to these questions.
 
