@@ -1,25 +1,19 @@
 # FIDO & FIDO2 and Passkeys.md
 
-Date: 11/29/2023
-
-Joshua Matulonis - josh.matulonis@oddball.io
-
-[Associated Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?sender=u4dc1c26b5a09e4d460e45806)
+- Date: 11/29/2023
+- Joshua Matulonis - josh.matulonis@oddball.io
+- [Associated Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?sender=u4dc1c26b5a09e4d460e45806)
 
 
 **Jump to:**
 
 
-[Introduction](#Introduction)
-[Passkeys](#Passkeys)
-
-[FIDO](#FIDO)
-
-[Government Use of FIDO](#Government_Use_of_FIDO)
-
-[Barriers to Adoption & Research Recommendations](#Barriers_to_FIDO/Passkey_Adoption)
-
-[Appendix](#appendix)
+- [Introduction](#Introduction)
+- [Passkeys](#Passkeys)
+- [FIDO](#FIDO)
+- [Government Use of FIDO](#Government_Use_of_FIDO)
+- [Barriers to Adoption & Research Recommendations](#Barriers_to_FIDO/Passkey_Adoption)
+- [Appendix](#appendix)
 
 
 
