@@ -1,12 +1,13 @@
 name: Figma Access Request
-description: To request access to Figma
-assignees: naomimarcussen
-title: Figma access for [individual]
-labels: [Figma-access]
+description: Request access to Figma
+title: "Figma access for [individual]"
+labels: ["Figma-access"]
+assignees: 
+  - naomimarcussen
 body:
   - type: markdown
     attributes:
-      label: Requestor Name
+      value: Complete this form to request access to Figma.
   - type: input
     id: requestor-name
     attributes:
