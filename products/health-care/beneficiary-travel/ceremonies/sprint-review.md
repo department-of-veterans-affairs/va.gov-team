@@ -1,5 +1,15 @@
 # BTSSS on VA.gov Sprint Review
 
+## 11/20/2023 - 12/01/2023
+
+**Agenda**
+- Review [sprint goals](./sprint-goals.md#11202023---12012023) (Lauren)
+- Experience gaps discovery update (Micah, Cara)
+- Architecture discovery update (Kevin)
+- Q&A with team and stakeholders
+
+[Meeting Recording]()
+
 ## 11/06/2023 - 11/17/2023
 
 **Agenda**
