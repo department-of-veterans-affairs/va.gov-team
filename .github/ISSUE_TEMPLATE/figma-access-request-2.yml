@@ -1,7 +1,8 @@
 name: Figma Access Request
 description: To request access to Figma
+assignees: naomimarcussen
 title: Figma access for [individual]
-labels: []
+labels: [Figma-access]
 body:
   - type: markdown
     attributes:
@@ -36,7 +37,6 @@ body:
       label: Product Manager (PM) name 
       description: Provide the name of the Product Manager working with the person requesting access
     validations:
-
   - type: textarea
     id: additional-notes
     attributes:
