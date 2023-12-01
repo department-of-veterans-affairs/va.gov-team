@@ -209,8 +209,8 @@ The process for setting up FIDO2 at login.gov:
   
 ## Research Recommendations
 Research studies are demonstrating a growing positive affective reaction of participants toward passwordless authentication after application of recommendations including: 
-  - To umderstand users thinking systematically abour passkeys, designers should draw from existing models about physical keys (such as possessing a key means another can't access the account; spare keys can & should be used; advising them to not store with personally identifying information; associate account with the correct physical key).
-  - FIDO2 doesn't define the the authenticator's form, just its capabilities and protocols.
+  - To understand users thinking systematically abour passkeys, designers should draw from existing models about physical keys (such as possessing a key means another can't access the account; spare keys can & should be used; advising them to not store with personally identifying information; associate account with the correct physical key).
+  - FIDO2 doesn't define the the authenticator's form, just its capabilities and protocols. This is an opportunity for designers!
      - Determine user preferences of authenticator form and features (such as using currently owned devices or designing for personalized authentication).
  - Inform users of situations where they may not be able to use passwordless authentication, as they may be unable to predict the consequences of combining client devices with authenticators.
  - Permit users to securely revoke access to their account without having to complete account recovery for themselves before being able to possibly freeze accounts.
