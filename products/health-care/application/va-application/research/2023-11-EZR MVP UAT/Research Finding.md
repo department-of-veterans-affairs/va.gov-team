@@ -12,8 +12,7 @@ Date: 11/2023
    - Jessica Stump (jessica.stump@adhocteam.us)
    - Katelyn Caillouet (katelyn.caillouet@agile6.com) 
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ 
-   - [Research readout](link here)
+   
    - [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699465139971/bb160160c2b0c2fc6bd32eedbdf01058da158e97?sender=ubf5503bf47b6eb1e92730053)
 
 
@@ -158,17 +157,25 @@ Veterans generally have a positive attitude towards the pre-fill feature, noting
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+Due to the short and focused nature of the study, we do not believe this study had secondary insights worth discussing. 
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+[Draft]
+* Recommendation 1 - Provide short-form for Veterans with disability ratings of 50% and above.
+    *  5 out of 10 Veterans were surprised that the form was asking for detailed financial information.
+    *  7 out of 10 Veterans have a service-connected disability rating of 50% or higher.
+    *  Health care enrollment does not ask for financial information of Veterans with service-connected disability rating of 50% or higher.
+* Recommendation 2 - Provide minor updates to the form content to be more clear and concise. 
+    * P1: "Would like to have info about why they need the spouse’s SSN"
+    * P9: "Let's see it tells me how to update my VA benefits, but WHY would I want to update? Why?"
+    * P10: "Veterans, especially one with stable income and retired, would want a compelling reason or mandatory requirement to fill out the form."
+    * (Additional minor examples within the mural)
+ * Recommendation 3 - Explore ways the Veteran can update their information without going through the whole form.
+    * P7: "I'm anchoring myself mentally because my goal is to update my health insurance information so I want to make sure I'm in the right place."
+    * P8: "I still haven't seen the form, the portion of the form where I'm just updating my health insurance information."
+   
 
 
 ## Next Steps
@@ -178,8 +185,7 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+This research was short and focused, we will need to do a full usability study.
 
 ## Appendix
 
@@ -188,6 +194,8 @@ _If there are demographics that were not included in this study or you discovere
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/conversation-guide.md)
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/transcripts)
+
+[Team Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/team-notes)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-11-EZR%20MVP%20UAT/team-notes)
 
 
 ## Tools used for Synthesis
@@ -202,14 +210,12 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Other supporting documents created
 
-----
+- [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699465139971/bb160160c2b0c2fc6bd32eedbdf01058da158e97?sender=ubf5503bf47b6eb1e92730053)
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+N/A
 
 
 ## Who we talked to 
@@ -219,85 +225,88 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 We talked to **x participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 5 
+* Female: 5 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Tablet: 2 
+* Smart phone: 3 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 0
+* 45-54: 1
+* 55-64: 2
+* 65+: 7
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 5
+* Master's degree: 2
+* Doctorate degree: 1
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 0
+* Rural: 1
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 0
+* Black: 4
+* Hispanic: 0
+* Biracial: 2
+* Asian: 0
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 1
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
+does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Hispanic
+* Asian
+* Native
+* No Degree
+* LGBTQ+ 
+* Other than honorable discharge, expat or living abroad 
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+VA Recuitment Checker
+
+ <img width="738" alt="Screenshot 2023-12-01 " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/117132709/677bdbe3-380b-4780-a895-941fc7dd25c1">
+
