@@ -1,0 +1,51 @@
+name: Figma Access Request
+description: To request access to Figma
+title: Figma access for [individual]
+labels: []
+body:
+  - type: markdown
+    attributes:
+    label: Requestor Name
+  - type: input
+    id: requestor-name
+    attributes:
+      label: Your Name
+      description: Please provide the name of the person requesting access
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Your Email
+      description: Please provide the work email for the person requesting access
+      placeholder: jane.doe@company.com
+    validations:
+      required: true
+  - type: input
+    id: team-name
+    attributes:
+      label: Team
+      description: Please provide the name of the team
+      placeholder: Profile Team
+    validations:
+      required: true
+  - type: input
+    id: pm-name
+    attributes:
+      label: Product Manager (PM) name 
+      description: Provide the name of the Product Manager working with the person requesting access
+    validations:
+
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Use this section to add notes.
+      placeholder: I need this access because of <reason>
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+        
