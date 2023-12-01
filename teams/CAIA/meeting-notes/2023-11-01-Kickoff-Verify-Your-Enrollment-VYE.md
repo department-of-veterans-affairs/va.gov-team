@@ -30,7 +30,7 @@
 - **10/12/2023 Opened Collaboration Cycle Ticket**
 - [x] Collaboration Cycle Ticket [#67530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67530) - if applicable
     - [x] Design Intent ticket (10/19/2023)
-    - [ ] Midpoint Review (TBD - as of Kickoff Meeting)
+    - [ ] Midpoint Review (December 4, 2023 at 3:30-4:00pm EST)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
@@ -55,7 +55,7 @@
 - Product manager: Jason Wolf and Cassidy Beach
 - Designer: Ryan Gray
 - No content
-- No A11y
+- A11y: [[a11y Research] VYE Research (Dec 2023)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69086)
 
 ### CAIA Teams
 #### CAIA

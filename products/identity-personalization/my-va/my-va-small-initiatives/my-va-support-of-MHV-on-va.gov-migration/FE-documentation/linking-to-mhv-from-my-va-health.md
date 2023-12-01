@@ -1,5 +1,10 @@
-# My VA Health Care Frontend Documentation
-Last updated: December 1, 2023 - updated Cerner handling
+# My VA Health Care FE documentation: Addition of MHV landing page link to My VA Health Care section (WIP)
+
+**Last updated:** December 1, 2023 (first published)
+
+_Insert brief explanation of this update to the health care section of My VA._
+
+For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -7,24 +12,27 @@ We show this section for every LOA3 user.
 ## UX Specs
 
 ### If a user does not have VA health care
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+- Desktop (link latest sketch file)
+- Mobile (link latest sketch file)
 
 #### **Content**
 
 You have no health care information to show.
 
 **Secondary link**
+(_needs updating to include MHV link_)
 - When a user does not have health care, a secondary link should appear for [Apply for VA health care](https://www.va.gov/health-care/apply/application/introduction)
-- See more about the [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#apply-for-va-health-care-link)link
+- See more on the [Apply for VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#apply-for-va-health-care-link)
 
 **Positioning**
+(_needs updating to include MHV link_)
 - The text should appear on the lefthand side on desktop, directly under the "Health care" header.
 - The secondary link should appear directly below the text, on the lefthand side on desktop.
 
 ---
 
 ### Next appointment card
+(_needs updating to include MHV link_)
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
 
@@ -56,15 +64,13 @@ Location
 
 - Next appointment: Static text that appears this way for every appointment card
 - Date: Date of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
-  - Note: Follow formatting in Sketch file (i.e. Tuesday, June 1, 2022)  
 - Time: Time of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
-  - Note: Follow formatting in Sketch file (i.e. Time: 9:00 a.m. ET)
 - Location: Location of the soonest appointment in the [appointments tool](https://va.gov/my-health/appointments)
 
 ---
 
 ### If a user has VA health care but does not have any upcoming appointments scheduled
-
+(_needs updating to include MHV link_)
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ECC10511-998E-4BD9-9D9F-B87E0ADC477B)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6D7BBA0-BD00-42E1-A445-5C81FBEE0307)
 
@@ -80,9 +86,8 @@ You have no upcoming appointments to show.
 
 - This text should appear on the lefthand side on desktop.
 - It should appear directly below the "Health care" header.
----
 
-### If a user receives VA health care at a Cerner facility
+---
 
 ### If a user receives VA health care at a Cerner facility
 
@@ -134,7 +139,6 @@ For **any other facility, go to My HealtheVet.**
 **Positioning**
 - This alert should appear directly below the health care header and nothing else should be shown in the section besides this alert.
 
-
 ---
 
 ### Apply for VA health care link
@@ -154,7 +158,23 @@ Use font awesome icon `file-medical` for icon
 [Apply for VA health care](https://www.va.gov/health-care/apply/application/introduction)
 
 ---
+### Visit My HealtheVet on VA.gov link
 
+[screenshot]
+_fill in details for new link - follow examples below_
+
+**Show**
+- For all LOA3 users
+
+**Positioning**
+- TK
+- TK
+
+#### Content
+TK
+
+
+---
 ### Go to your inbox link
 
 With unread messages:
@@ -209,8 +229,8 @@ Use font awesome icon `calendar` for icon
 - For users who have VA health care but do not have any upcoming appointments.
 
 **Positioning**
-- This link should appear under the "Go to your inbox" link, second in the list of links when it applies.
-- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Send a secure message to your health care team" link if that applies, or at the top of the stack of health care links if the user has unread messages. 
+- The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -228,8 +248,7 @@ Use font awesome icon `prescription-bottle` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Schedule and manage your appointments" link if that applies, or under the inbox link if the user has an upcoming appointment.
-- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Schedule and manage your appointments" link if that applies, or at the top of the stack of health care links if the user has unread messages and appointments. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -247,8 +266,7 @@ Use font awesome icon `suitcase` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Refill and track your prescriptions" link.
-- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Refill and track your prescriptions" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -266,8 +284,7 @@ Use font awesome icon `file-medical` for icon
 - For users who have VA health care.
 
 **Positioning**
-- This link should appear under the "Request travel reimbursement" link.
-- The stack of links appears on the lefthand side on desktop if the user does not have any upcoming appointments. Otherwise, it appears on the righthand side on desktop.
+- This link should appear under the "Request travel reimbursement" link. The stack of links appears on the lefthand side on desktop if the user does not have any unread messages or upcoming appointments. Otherwise, it appears on the righthand side on desktop.
 
 #### Content
 
@@ -311,23 +328,31 @@ Use font awesome icon `file-medical` for icon
 
 **Positioning**
 - This should appear under the 'Health care' header on the lefthand side on desktop.
+- If the user has unread messages, then this error appears below the unread messages alert and all secondary links appear on the right on desktop.
 
 **Secondary links**
-- When this error shows, the following secondary links should appear on the lefthand side on desktop:
+- When this error shows and the user doesn't have unread messages, the following secondary links should appear on the lefthand side on desktop:
   - [Send a secure message to your health care team](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
   - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
   - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
   - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
+- When this error shows and the user has unread messages, the following secondary links should appear on the righthand side on desktop:
+  - [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions)
+  - [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/)
+  - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
+
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
+- [Mobile without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
+- [Mobile with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
 
 
 ### Error State 3: The messaging API call fails
 
 #### Visual specs
-- When the messaging API call fails, we do not show an error message - we show the [Go to your inbox](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#send-a-secure-message-to-your-health-care-team-link) link in the list of links in the health care section.
+- When the messaging API call fails, we do not show an error message - we show the [Send a secure message to your heath care team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#send-a-secure-message-to-your-health-care-team-link) link in the list of links in the health care section.
 - Follow all other specs for when this secondary link shows.
 
 #### Mock-ups

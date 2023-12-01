@@ -14,7 +14,7 @@ Date: 11/2023
 
    
    - [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699465139971/bb160160c2b0c2fc6bd32eedbdf01058da158e97?sender=ubf5503bf47b6eb1e92730053)
-
+   - [Presentation Deck](https://docs.google.com/presentation/d/1VZPfiwz-IVVaNRSsJnEm2YWM8-sBBUJsJtg3zUsZzEA/edit#slide=id.g24ad602b585_0_36)
 
 **Jump to:**
 
@@ -26,7 +26,7 @@ Date: 11/2023
 
 
 ## Research Goals
-The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. Before deciding to build this form, the team ran a generative research study, digging into one of the most common use cases for making an update to health care information (changing financial info). We learned in this study that most Veterans associated financial information with themselves and would expect to make updates to that information in either their VA profile or the MyHealth hub. While it would be preferable to only collect the information that has changed, per the Paperwork Reduction Act (PRA), we will collect all information together in one form submission. That means the MVP of the digital form will not differ much from the paper form, however, we plan to iterate on this approach in future versions. We'll usability test the MVP version of the new digital form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed. The four main sections are:
+The Health Benefits Update Form (10-10EZR) is a new online version of a currently paper-only form. It's used to update personal, insurance, or financial information for Veterans currently enrolled in health care benefits. Most commonly, this looks like adding or removing a dependent or updating income information. Before deciding to build this form, the team ran a generative research study, digging into one of the most common use cases for making an update to health care information (changing financial info). We learned in this study that most Veterans associate financial information with themselves and would expect to make updates to that information in either their VA profile or the MyHealth hub. While it would be preferable to only collect the information that has changed, per the Paperwork Reduction Act (PRA), we will collect all information together in one form submission. That means the MVP of the digital form will not differ much from the paper form, however, we plan to iterate on this approach in future versions. We'll usability test the MVP version of the new digital form to ensure it meets the needs of VA.gov users. The form contains 4 sections, and for MVP, must be completed and submitted in its entirety to be processed. The four main sections are:
 
 - Veteran information
 - Household financial information
@@ -87,12 +87,6 @@ Participants will know what they need to do based on the intro page on the form.
 4. Finding 4 - Veterans found the pre-fill feature intuitive and time-saving.
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
 
 **Finding 1 - Veterans prefer notification through email or text.**
 

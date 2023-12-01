@@ -430,11 +430,11 @@ We’ve prefilled some of your information from your account. If you need to cor
 ### Page Title: Applicant details {h3 heading with h5 styling}
 
 {If Veteran}
-Provide the details for the person you are filling out the application for (called the applicant). 
+Provide the details for the person you're filling out the application for (called the applicant). 
 {end if Veteran}
 
 {if non-Veteran}
-Provide the details for the person you’ are filling out the application for (called the applicant). 
+Provide the details for the person you're filling out the application for (called the applicant). 
 Then we'll ask for the details for the Veteran or service member the applicant is connected to.
 {end if non-Veteran}
 

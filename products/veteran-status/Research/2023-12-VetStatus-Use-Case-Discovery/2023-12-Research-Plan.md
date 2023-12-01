@@ -38,7 +38,7 @@ This research will provide greater insight into the veterans’ experience acces
 
 
 ## Methodology	
-We will conduct remote interviews with 8 veterans over Zoom. These interviews will include questions relating to how veterans access veteran specific discounts at different retailers.
+We will conduct remote interviews with minimum 8 veterans over Zoom. These interviews will include questions relating to how veterans access veteran specific discounts at different retailers.
 
 
 ### Location
@@ -59,8 +59,6 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Tuesday, 12/5/22 11:30am EST
 - Tuesday, 12/5/22 2pm EST
 
-We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
-
 
 ### Recruitment criteria
 8 - 12 (minimum 8)
@@ -79,11 +77,11 @@ We will keep track of participant demographic information (identified gender, ag
 - Some have a Veterans Identification Card (VIC), some do not
 - Some have and use the Flagship Mobile app, some do not
 - Some have visited a VA facility within the past 11 months
-- Ideally at least 3 participants use Assistive Technology
+- Ideally at least 3 participants use visual Assistive Technology, such as a screenreader 
 - Diverse sample group, more fully detailed in request ticket 
 
 #### Screener Questions
-1.  Do you have a Veteran Identification Card?
+1.  Do you have a Veteran Identification Card? A Veteran ID Card (VIC) is a digital, previously physical, form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses.  (For verification purposes, this is how to apply for the VIC card: https://www.va.gov/records/get-veteran-id-cards/vic/)
 	- Yes
 	- No 
 
@@ -104,7 +102,7 @@ We will keep track of participant demographic information (identified gender, ag
 	- Within the past 6 - 4 months 
 	- Within the past 3 months
 
-5. Do you have and use the VA Health and Benefits mobile app? (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
+5. Do you have and use the VA Health and Benefits mobile app? The official VA Health and Benefits mobile allows you to manage your VA health care, benefits and payments from your mobile phone or tablet.  (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
 	- Yes
   	- No
 
