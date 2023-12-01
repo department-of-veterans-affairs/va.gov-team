@@ -124,7 +124,7 @@ The FIDO Alliance then developed a system combining the proof-of-possession fact
     - User is signed in.
 
 ## FIDO Authentication Features
-FIDO Authentication categorized by user interactions:
+FIDO Authenticators categorized by user interactions:
 - Touch
   - Touch security key for user presence check
 - Type
@@ -192,9 +192,9 @@ The process for setting up FIDO2 at login.gov:
 
 ## Barriers to FIDO/Passkey Adoption
 1. Users are lacking mental models and knowledge about the security of passwordless authentication including:
-  - FIDO protocols are designed from the ground up to protect user privacy. 
-  - The protocols do not provide information that can be used by different online services to collaborate and track a user across the services. 
-  - Biometric information, if used, never leaves the user’s device.
+   - FIDO protocols are designed from the ground up to protect user privacy. 
+   - The protocols do not provide information that can be used by different online sites to collaborate data and track users. 
+   - Biometric information, if used, never leaves the user’s device.
 2. Token-based authentication problems such as expiration timing, lack of cross domain support, and risk of mixed content rails in websites.
 3. In case of 1FA, users may associate possession of the authenticator with a belief that no one else can access the account and that losing the device may lead to an unauthorized account access.
 4. It may not be suitable for use in all situations where there is a need to use a security key (such as public computers without connectivity or when giving account access to a trusted person (how can it be shared?))
