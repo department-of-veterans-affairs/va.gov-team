@@ -18,6 +18,8 @@ Joshua Matulonis - josh.matulonis@oddball.io
 
 [Government Use of FIDO](#Government_Use_of_FIDO)
 
+[Barriers to Adoption & Research Recommendations](#Barriers_to_FIDO/Passkey_Adoption)
+
 [Appendix](#appendix)
 
 
@@ -190,7 +192,7 @@ The process for setting up FIDO2 at login.gov:
 - Selecting “Remember Device” prevents MFA need on that device for 30 days.
 
 
-## Barriers to FIDO/Passkey Adoption
+# Barriers to FIDO/Passkey Adoption
 1. Users are lacking mental models and knowledge about the security of passwordless authentication including:
    - FIDO protocols are designed from the ground up to protect user privacy. 
    - The protocols do not provide information that can be used by different online sites to collaborate data and track users. 
