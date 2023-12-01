@@ -1,4 +1,4 @@
-
+# FIDO & FIDO2 and Passkeys.md
 
 Date: 11/29/2023
 
@@ -11,7 +11,6 @@ Joshua Matulonis - josh.matulonis@oddball.io
 
 
 [Introduction](#Introduction)
-
 [Passkeys](#Passkeys)
 
 [FIDO](#FIDO)
