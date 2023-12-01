@@ -29,7 +29,7 @@
 
 ## High Level diagram
 
-[High level diagram](./assets/MHV%20Oracle%20Health%20Integrations%20-%20Messaging%20(1).png)
+![High level diagram](./assets/MHV%20Oracle%20Health%20Integrations%20-%20Messaging%20(1).png)
 
 ## MVP Diagram
 
