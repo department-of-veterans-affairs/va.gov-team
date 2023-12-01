@@ -47,6 +47,7 @@ The findings from this research will:
 
 ## Methodology	
 **Usability study**
+
 A usability study will be conducted remotely via Zoom using the Perigean contract. A remote moderator will begin with introduction questions about their experience with applying for benefits. They will then be asked to complete a series of tasks on a Figma prototype.
 
 Participants will be showed one of the following four flows:
@@ -63,16 +64,10 @@ Participants will be encouraged to talk through their exploration of the flow. R
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 	
-## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+## Participants and Recruitment	
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+Our intended audience is Veterans, spouses of Veterans, and family Caregivers for Veterans. Participants will be recruited by Perigean.
 
 Pro tip:
 - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
@@ -82,9 +77,15 @@ Pro tip:
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+We would like to work with Perigean to recruit for 15 full sessions. Therefore, we request that 20 sessions be scheduled.
 
 **Primary criteria (must-haves)**
+- User groups:
+	- At least 7 Veterans
+	- At least 13 spouses of Veterans or family caregivers
+- Device
+	-  
+
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
