@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: October 31, 2023 - updates to Projects section**
+**Last updated: December 1, 2023 - added links to latest FE documentation**
 
 ### Communications
 
@@ -134,7 +134,7 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Status|
 |----|----|---|
-| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | Ready for development | 
+| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | In development | 
 |[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | In development |
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 
@@ -215,8 +215,16 @@ _Why would your business want this to exist?_
  </details>
 
 ## Front End
-
-- [Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- [General: Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- Latest FE documentation:
+   - [White card use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component/white-card-component-FE-documentation.md)
+   - [LOA1 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates/LOA1-FE-documentation.md)
+   - [Claims and appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
+   - [Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration/FE-documentation/linking-to-mhv-from-my-va-health.md)
+   - [Outstanding Debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/outstanding-debts-FE-documentation.md)
+   - [Benefit Payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/benefit-payments-FE-documentation.md)
+   - [Education & Training](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
+   - [Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md#my-va-benefit-application-drafts-frontend-documentation) 
 
 ## Back End
 
