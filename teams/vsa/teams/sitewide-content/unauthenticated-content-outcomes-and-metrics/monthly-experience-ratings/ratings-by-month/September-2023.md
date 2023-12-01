@@ -25,7 +25,10 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - 
+  - 35% (35 of 100) R&S pages have a 75% or higher "good" score
+  - 34% (34 of 100) R&S pages have a 51% - 74% "good" score
+  - 31% (31 of 100) R&S pages have a 50% or lower "good" score
+ 
 - **Breakdown of resources and support scores by 10s:**
 
 
