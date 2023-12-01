@@ -74,6 +74,9 @@ Before we start, I have a few things that I want to go over with you:
 
 **3.** What veteran IDs do you currently have?  Which have you had in the past, post - service? Tell me about how you use them.
 
+      - Probe for: What do they use when? For what? What makes them pick a specific card?  How do they describe each    
+      card, its purpose and use?  
+
 **4.** Have you ever submitted for travel reimbursement from the VA?
       - If yes: How did you do so? Online? Kiosk? Mail?  What made you do so?  Why did you pick online/mail/kiosk?
 
@@ -94,7 +97,11 @@ Before we start, I have a few things that I want to go over with you:
       - Why did you want to use it?
       - Where were you?  What was it for?
       - How did you access the discount?  
-            - Probe for: Did they have to validate? Who was validating their status? Did that person say what they were looking for? What did they use to validate? 
+            - Probe for: 
+               - Did they have to validate? 
+               - Who was validating their status? 
+               - Did that person say what they were looking for? 
+               - What did they use to validate? 
       - Did you plan to use the discount before you went shopping?
 
 **9.**  Have you ever tried to use a veteran specific discount at a retailer but been denied??
