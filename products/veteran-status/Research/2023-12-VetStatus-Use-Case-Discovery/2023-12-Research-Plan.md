@@ -81,7 +81,7 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Diverse sample group, more fully detailed in request ticket 
 
 #### Screener Questions
-1.  Do you have a Veteran Identification Card? A Veteran ID Card (VIC) is a digital, previously physical, form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses.
+1.  Do you have a Veteran Identification Card? A Veteran ID Card (VIC) is a digital, previously physical, form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses.  (For verification purposes, this is how to apply for the VIC card: https://www.va.gov/records/get-veteran-id-cards/vic/)
 	- Yes
 	- No 
 
@@ -102,7 +102,7 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 	- Within the past 6 - 4 months 
 	- Within the past 3 months
 
-5. Do you have and use the VA Health and Benefits mobile app? (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
+5. Do you have and use the VA Health and Benefits mobile app? The official VA Health and Benefits mobile allows you to manage your VA health care, benefits and payments from your mobile phone or tablet.  (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
 	- Yes
   	- No
 
