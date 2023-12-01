@@ -215,7 +215,7 @@ _**Participant is on success page:**_
   - _If needed:_ Why do you think the second appointment is listed here when you've only gone through the process filing a travel reimbursement claim once? 
   - _Things to watch for: Do they understand the second appointment is part of the same claim?_
 - Ok, and what would you expect to happen next with your claim?
-- If you still had questions right now, how you would find out more about your claim?
+- If you still had questions right now, how would you find out more about your claim?
 
 
 [**_If participant selects "Review your claim" link_**]
