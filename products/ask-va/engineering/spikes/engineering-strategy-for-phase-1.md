@@ -133,9 +133,15 @@ Since both systems (GI Bill and CRM API) source their data from WEAMS, there wil
 * We will use the names provided by Lighthouse as the names to show to users on the front end
 * Instead of showing the two VAMCs under the Northern California Health Care System, Sacramento, and Martinez Medical Centers, we will show the Northern California Health Care System with a facility ID of 612.
 
+### Business fields in AVA profile (pending)
+
+* The VA Profile API does not store business information for a user. There are business fields in the AVA Profile we will need to prefill the form. The AVA FE team is investigating possible solutions for the missing business fields in the VA Profile.
+
 ## How we can integrate both data sources based on our recommendation 
 
 We created an API facade for our new application to allow for UI development before these critical data decisions have been made. The new user interface hits this facade, and the facade redirects the request to the actual source of the data for that specific endpoint. This allows us to swap out data sources (when a decision has been made) without affecting the UI.
+
+* Note: The AVA FE engineering team will work with design to identify instances where data exists in VA but not Dynamics and decide how to transform/map the data.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/cfa3a31f-2ca2-4381-a630-6024f4daadd1)
 
