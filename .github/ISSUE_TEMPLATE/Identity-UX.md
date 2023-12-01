@@ -10,17 +10,21 @@ assignees: ''
 ### Description of UX Tasks
 
 
+
+#### Documention
+- 
+
+
+#### Product notes
+
+
+
 #### Acceptance Criteria
 - [ ] Reviewed by UX Team
 - [ ] Reviewed by PMs
 - [ ] Documentation has been updated
 - [ ] Add finalized research to Github
 
-
-#### Documention
-- 
-
-#### Product notes
 
 
 ## How to configure this issue
