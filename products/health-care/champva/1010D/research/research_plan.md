@@ -31,16 +31,19 @@ The goals of this research are to:
 8. What is the overall sentiment about the experience?
 
 ### Hypothesis
-1. 
-
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+Our hypothesis is that users will be able to navigate through the form relatively easily, but may have issues with the following:
+- Understanding why they're being asked for certain information, including:
+	- Sponsor's date of death
+ 	- Whether the Sponsor died during service
+ 	- Contact information 
+  - Redundancy of information, such as asking for an address, email address, and phone number for each applicant
+  - Understanding their progress through the form
+  - How to correctly report other insurance information
 
 ### Outcome
-The findings from this research will help the IVC team better understand the needs of different types of applicants when filling out Form 10-10D. It will also provide insights needed to iterate upon and refine our initial prototype of Form 10-10D.
+The findings from this research will: 
+- Provide insights needed to iterate upon and refine our initial prototype of Form 10-10D
+- Demonstrate where copy needs to be rewritten to enhance clarity
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
