@@ -20,11 +20,11 @@
 # Introduction
 The adoption of passwordless methods for authentication is growing.
 
-Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in by end of 2024, facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
+Gartner projects that multiprotocol “mobile MFA” apps will become mainstream by the end of 2024, facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
 
 Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage is frustrating as passwords are frequently forgotten and account access is lost.
 
-FIDO2 is a new open web standard that offers a promising approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices, such as security keys. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
+The FIDO Alliance has created solutions for overcoming the limitations of passwords. FIDO can be used in 1FA and/or MFA to replace passwords with stronger and more convenient authentication methods, such as biometric authentication (e.g., fingerprint or facial recognition) or security keys. This can help to reduce the risk of account takeovers, as biometrics and security keys are more difficult to phish or steal than passwords. FIDO2 is a new open web standard that offers a unique approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
 
  FIDO2 also offers a number of other benefits over passwords, including: 
  
@@ -92,7 +92,7 @@ The user on the client (”Sign in with a passkey” button) sequence for passke
 The FIDO Alliance (founded in 2011) is a consortium of hundreds of organizations worldwide with the goal to improve online security. 
     - Members include Google, Facebook, Microsoft, Amazon, VISA, and the World Wide Web Consortium (W3C).
 
-Billions of users have reviewed their specifications, with FIDO U2F, a protocol for a phishing-proof second factor (mostly physical security keys)(also uses passwords for first authentication factor) being widely supported and rolled out at nearly all major identity providers. 
+Billions of users have reviewed their FIDO U2F specs, a protocol for a phishing-proof second factor (mostly physical security keys)(also uses passwords for first authentication factor) being widely supported and rolled out at nearly all major identity providers.
 
 The FIDO Alliance then developed a system combining the proof-of-possession factor of U2F with the device’s unlock mechanisms and biometrics, which is how WebAuthn was born.
 
