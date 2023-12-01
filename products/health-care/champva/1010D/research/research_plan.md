@@ -14,39 +14,33 @@ The purpose of this research is to explore the usability of our prototyped Form 
   - Moment: taking care of my family
 
 ## Research Goals	
-The IVC team aims to understand:
-- Differences between the needs of Veterans filling out this form on behalf of their family members and the needs of family members filling out this form themselves
-- How and when in their journeys participants fill out Form 10-10D
-- Enhancements that can be made to Form 10-10D to improve the applicant experience
+The goals of this research are to:
 
-### Outcome
-The findings from this research will help the IVC team better understand the needs of different types of applicants when filling out Form 10-10D. It will also provide insights needed to iterate upon and refine our initial prototype of Form 10-10D.
+1. Determine whether or not the flow and copy in the 10-10D prototype are usable and understandable for those filling out the form on their own behalf and those filling it out for someone else
+2. Determine whether or not the flow and copy are usable and understandable for participants who do have other forms of health insurance and those who don't have other forms of health insurance
+3. Determine whether or not the prototype is usable and understandable in both an authenticated and unauthenticated state
 
 ### Research questions
-- **Differences between the needs of Veterans filling out this form on behalf of their family members and the needs of family members filling out this form themselves**
-	- What are the different pain points each group might experience, and how do they differ?
- 	- What are the expectations of each group, and how do they differ?
-- **How and when in their journeys participants fill out Form 10-10D**
-  	- How did participants learn about the program?
-  	- Do they wish they'd learned about it at a different time or in a different way?
-  	- What could be improved about the overall journey?
-  	- How can we clarify the steps users need to take to apply for CHAMPVA benefits?
-- **Enhancements that can be made to Form 10-10D to improve the applicant experience**
-	- What are pain points participants experience when interacting with the prototype?
-	- What vocabulary needs to be defined and/or simplified?
-	- What points of confusion do participants experience?
-
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+1. Are participants able to use and understand the partially pre-populated form as an authenticated user?
+2. Are participants able to use and understand the form as an unauthenticated user?
+3. Are participants able to use and understand the form when filling it out for themselves and when filling it out for someone else?
+4. Are participants able to easily add more than one applicant for the form?
+5. What are opportunties to streamline the flow and make the form feel less redundant for users?
+6. Are participants able to easily understand how to upload supplementary documents and why they're being asked for those documents?
+7. Do participants who have other health insurance understand why are asked to fill out additional information and add additional documents?
+8. What is the overall sentiment about the experience?
 
 ### Hypothesis
+1. 
+
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
+### Outcome
+The findings from this research will help the IVC team better understand the needs of different types of applicants when filling out Form 10-10D. It will also provide insights needed to iterate upon and refine our initial prototype of Form 10-10D.
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
