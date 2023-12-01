@@ -117,9 +117,12 @@ Before we start, I have a few things that I want to go over with you:
 
 **11.**  We have talked about how you currently use and access veteran discounts, but if it were up to you, how would you like to access veteran specific discounts? Tell me how you would use and access these discounts.  
 
+**12.**  Where would you expect to find these tools?  Where would you like to access them?  What would you call them?
+
 _Time permitting_
 
-**12.**  Where would you expect to find these tools?  Where would you like to access them?
+**13.**  Do you have the VA Health and Benefits mobile app?
+      - If yes: When did you notice it? Have you used it? What has your experience been with it been like? 
 
 
 ## Consent to use video clips
