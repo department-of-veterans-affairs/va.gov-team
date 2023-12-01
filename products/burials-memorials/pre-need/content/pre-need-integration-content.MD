@@ -1400,8 +1400,8 @@ Form 40-10007
 ### Page Title: None {h3 heading with h5 styling}
 
 - Did your sponsor serve under another name? (*Required) {radio buttons}
-- Yes
-- No
+    - Yes
+    - No
 
 {If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 5 of 7: Burial benefits.}
 
@@ -1433,8 +1433,8 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 - Did the sponsor serve under another name? (*Required) {radio buttons}
-- Yes
-- No
+    - Yes
+    - No
 
 {If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 5 of 7: Burial benefits.}
 
@@ -1580,9 +1580,9 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 - Is there anyone currently buried in a VA national cemetery under your eligibility? (*Required) {radio buttons}
-- Yes
-- No
-- I don't know
+    - Yes
+    - No
+    - I don't know
 
 {If **Yes**, proceed to next page to provide name of deceased person; if **No** or **I don't know**, skip next page for providing name of deceased person and continue to desired cemetery page.}
 
@@ -1613,11 +1613,10 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: None {h3 heading with h5 styling}
 
-
 - Is there anyone currently buried in a VA national cemetery under the applicant's eligibility? (*Required) {radio buttons}
-- Yes
-- No
-- I don't know
+    - Yes
+    - No
+    - I don't know
 
 {If **Yes**, proceed to next page to provide name of deceased person; if **No** or **I don't know**, skip next page for providing name of deceased person and continue to desired cemetery page.}
 
@@ -1650,9 +1649,9 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 - Is there anyone currently buried in a VA national cemetery under the sponsor’s eligibility? (*Required) {radio buttons}
-- Yes
-- No
-- I don't know
+    - Yes
+    - No
+    - I don't know
 
 {If **Yes**, proceed to next page to provide name of deceased person; if **No** or **I don't know**, skip next page for providing name of deceased person and continue to desired cemetery page.}
 
@@ -1689,7 +1688,7 @@ Provide the details of the person(s) currently buried in a VA national cemetery 
 - Deceased's first name (*Required) {text field}
 - Deceased's last name (*Required) {text field}
 
-Add another name of deceased person {secondary button}
+Add another deceased person {secondary button}
 
 [Finish this application later]()
 
@@ -1723,7 +1722,7 @@ Provide the details of the person(s) currently buried in a VA national cemetery 
 - Deceased's first name (*Required) {text field}
 - Deceased's last name (*Required) {text field}
 
-Add another name of deceased person {secondary button}
+Add another deceased person {secondary button}
 
 [Finish this application later]()
 
@@ -1757,7 +1756,7 @@ Provide the details of the person(s) currently buried in a VA national cemetery 
 - Deceased's first name (*Required) {text field}
 - Deceased's last name (*Required) {text field}
 
-Add another name of deceased person {secondary button}
+Add another deceased person {secondary button}
 
 [Finish this application later]()
 
