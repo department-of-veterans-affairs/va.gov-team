@@ -198,6 +198,7 @@ The process for setting up FIDO2 at login.gov:
 2. Token-based authentication problems such as expiration timing, lack of cross domain support, and risk of mixed content rails in websites.
 3. In case of 1FA, users may associate possession of the authenticator with a belief that no one else can access the account and that losing the device may lead to an unauthorized account access.
 4. It may not be suitable for use in all situations where there is a need to use a security key (such as public computers without connectivity or when giving account access to a trusted person (how can it be shared?))
+   - Note: CTAP2 (Client-to-Authenticator Protocol 2), a hardware-based protocol that allows a security key to communicate directly with the computer, without the need for a browser, can be used for offline authentication. It is not supported by all FIDO2 security keys.
 
 ## Opportunities to Increase Adoption 
 1. User Education - Specifically, informing users that they have the option to enroll with FIDO2 and educating them about what FIDO is and how to set it up.
