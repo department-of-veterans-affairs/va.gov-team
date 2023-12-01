@@ -43,9 +43,4 @@ body:
       label: Additional Notes
       description: Use this section to add notes.
       placeholder: I need this access because of <reason>
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
-        
+        ---        
