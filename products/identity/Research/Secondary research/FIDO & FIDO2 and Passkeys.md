@@ -82,7 +82,7 @@ The user on the client (”Sign in with a passkey” button) sequence for passke
    - User prompted for verification with a biometric or a PIN and using a stored passkey to sign the challenge. 
    - The signed challenge as well as the username and the credential ID of the used passkey are returned by the function.
 3. Finalize passkey authentication : Client sends signed challenge, username, and credential ID back to the server. 
- - The server checks if the username and credential ID are known.
+   - The server checks if the username and credential ID are known.
    - If known, server uses public key to check the validity of the signed challenge. 
    - If the signed challenge can be successfully verified by the public key, the server can safely assume that the user was in possession of the passkey and create a session or hand out an authorization token.
 
