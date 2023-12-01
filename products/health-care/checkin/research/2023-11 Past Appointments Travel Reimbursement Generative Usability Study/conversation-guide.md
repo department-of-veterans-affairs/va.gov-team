@@ -180,7 +180,7 @@ _**Participant is at Appointment list:**_
 
 _**Participant navigates directly to travel intro page from task card OR to past appointments > detail page > travel intro page**_
 
-(_**If participant goes through detail page:**_)
+[_**If participant goes through detail page:**_]
 
 - Is there anything confusing about this page and the information included here?
 - _(Non-screen reader users)_ Did you notice the dot with a message? What does it seem like that was referring to?
@@ -218,10 +218,10 @@ _**Participant is on success page:**_
 - If you still had questions right now, how you would find out more about your claim?
 
 
-(**_If participant selects "Review your claim" link_**)
+[**_If participant selects "Review your claim" link_**]
   - Where did you expect that link to take you?
 
-(**_If participant needs prompting to get to appointment list and details page_**)
+[**_If participant needs prompting to get to appointment list and details page_**]
   - And did you notice the "Review your past appointments" link? Go ahead and select that.
   - And go ahead and select the link for the second appointment on the list.
  
@@ -241,7 +241,7 @@ _**Participant is on details page for second appointment:**_
 
 ----
 
-_**OPTIONAL if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a third appointment (appointment with dot indicator).**_
+_**OPTIONAL: if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a third appointment (appointment with dot indicator).**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
 - _If needed:_
