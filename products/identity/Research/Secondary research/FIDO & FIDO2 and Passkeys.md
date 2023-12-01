@@ -124,7 +124,7 @@ The FIDO Alliance then developed a system combining the proof-of-possession fact
     - User is signed in.
 
 ## FIDO Authentication Features
-FIDO Authenticators categorized by user interactions:
+FIDO Authenticators categorized by user interactions (link to [Likelihood to Cause Accessibility Challenges Matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?wid=0-1699281032419):
 - Touch
   - Touch security key for user presence check
 - Type
