@@ -84,7 +84,8 @@ We would like to work with Perigean to recruit for 15 full sessions. Therefore, 
 	- At least 7 Veterans
 	- At least 13 spouses of Veterans or family caregivers
 - Device
-	-  
+	- 25% on phone or tablet
+ 	- 75% on desktop	  
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
