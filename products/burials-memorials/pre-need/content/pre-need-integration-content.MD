@@ -851,6 +851,7 @@ Has the sponsor died? (*Required) {radio buttons}
 - I don't know
 
 { If **Yes**, continue to next page asking date the sponsor died. If **No** or **I don't know**, will not see next page asking the date the sponsor died, and will continue to Sponsor's Mailing Address/Contact Details page}
+
 [Finish this application later]()
 
 [Back | Continue] {buttons} 
