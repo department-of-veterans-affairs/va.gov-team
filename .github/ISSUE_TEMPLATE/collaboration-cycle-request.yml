@@ -55,13 +55,14 @@ body:
     id: team-label
     attributes:
       label: GitHub label for team
+      description: Enter a label from the va.gov-team repo. Your team label must be different than your product label.
     validations:
       required: true
   - type: input
     id: product-label
     attributes:
       label: GitHub label for product
-      description: Enter a label from the va.gov-team repo.
+      description: Enter a label from the va.gov-team repo. Your product label must be different than your team label.
     validations:
       required: true
   - type: input
