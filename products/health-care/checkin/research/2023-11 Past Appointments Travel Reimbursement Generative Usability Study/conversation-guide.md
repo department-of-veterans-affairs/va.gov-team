@@ -74,7 +74,7 @@ We have a few different activities we’ll complete during this session. To star
 - If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like? 
 
 - We know there's different types of VA claims like disability claims, pension claims, travel reimbursement claims. Could you tell us about how you view your travel reimbursement claims compared to any other VA claims you've had?
-  - How is travel reimbursement similar or different to the other claims?
+  - _If not mentioned:_ How is travel reimbursement similar or different to the other claims?
 
 
 ## Task #1: BTSSS status questions - 10 minutes
