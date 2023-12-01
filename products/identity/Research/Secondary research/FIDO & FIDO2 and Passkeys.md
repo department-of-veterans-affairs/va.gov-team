@@ -25,7 +25,7 @@ The adoption of passwordless methods is growing.
 
 Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in the next 12 to 18 months (2024), facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
 
-Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage are frustrating as passwords are frequently forgotten and account access is lost.
+Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage is frustrating as passwords are frequently forgotten and account access is lost.
 
 FIDO2 is a new open web standard that offers a promising approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices, such as security keys. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
 
@@ -35,7 +35,6 @@ FIDO2 is a new open web standard that offers a promising approach to passwordles
   - Consistent user experience: FIDO2 is supported by virtually all browsers and has native implementations on Android and Windows.
   - Support for various authenticator devices: FIDO2 supports a wide range of authenticator devices, including security keys, Trusted Platform Modules, Android keystore, and Apple TouchID.
 
-In short, FIDO2 offers a number of advantages over traditional passwords, making it a promising candidate for the future of authentication.
 
 # Passkeys
 - Passkeys refer only to WebAuthn/FIDO credentials, and not to the many other keys and protocols, such as PIV, OTP, or OpenPGP Card, in the YubiKey 5 Series.
