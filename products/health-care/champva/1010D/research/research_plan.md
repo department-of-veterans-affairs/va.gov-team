@@ -36,9 +36,9 @@ Our hypothesis is that users will be able to navigate through the form relativel
 	- Sponsor's date of death
  	- Whether the Sponsor died during service
  	- Contact information 
-  - Redundancy of information, such as asking for an address, email address, and phone number for each applicant
-  - Understanding their progress through the form
-  - How to correctly report other insurance information
+- Redundancy of information, such as asking for an address, email address, and phone number for each applicant
+- Understanding their progress through the form
+- Understanding to correctly report other insurance information
 
 ### Outcome
 The findings from this research will: 
