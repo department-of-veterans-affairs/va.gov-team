@@ -66,7 +66,7 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 - Great. Thank you.
 
 ## General travel questions - 5-7 minutes
-We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
+- We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
 
 - Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience?
   - _If needed:_ You mentioned ___. Could you tell me more about that? 
