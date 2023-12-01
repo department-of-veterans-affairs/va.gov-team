@@ -81,7 +81,7 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Diverse sample group, more fully detailed in request ticket 
 
 #### Screener Questions
-1.  Do you have a Veteran Identification Card?
+1.  Do you have a Veteran Identification Card? A Veteran ID Card (VIC) is a digital, previously physical, form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses.
 	- Yes
 	- No 
 
