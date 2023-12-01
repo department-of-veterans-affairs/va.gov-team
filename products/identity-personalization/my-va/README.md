@@ -176,7 +176,7 @@ _Why would your business want this to exist?_
 - [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
 - My VA flows
   - [Claims and appeals](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4444BC2A-797F-4000-A125-31B83F7E817F/canvas)
-  - [Health care](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)(draft)
+  - [Health care](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)
   - [Outstanding debts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
   - [Benefit payments](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGgwY0O)
   - [Education and training](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4D97AF62-70A3-4455-9ED2-96051880E836/canvas)
@@ -220,7 +220,7 @@ _Why would your business want this to exist?_
    - [White card use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component/white-card-component-FE-documentation.md)
    - [LOA1 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates/LOA1-FE-documentation.md)
    - [Claims and appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
-   - [Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration/FE-documentation/linking-to-mhv-from-my-va-health.md)
+   - [Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration/FE-documentation/linking-to-mhv-from-my-va-health.md) (WIP)
    - [Outstanding Debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/outstanding-debts-FE-documentation.md)
    - [Benefit Payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/benefit-payments-FE-documentation.md)
    - [Education & Training](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
