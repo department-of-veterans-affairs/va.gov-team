@@ -26,7 +26,7 @@ Joshua Matulonis - josh.matulonis@oddball.io
 # Introduction
 The adoption of passwordless methods for authentication is growing.
 
-Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in the next 12 to 18 months (2024), facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
+Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in by end of 2024, facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
 
 Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage is frustrating as passwords are frequently forgotten and account access is lost.
 
