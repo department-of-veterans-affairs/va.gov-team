@@ -149,7 +149,7 @@ Are you filling out this application for yourself or for someone else? (*Require
 {additional-info text}
 
 One of these descriptions must be true for the applicant (the person you’re filling out this application for):
--   They have an illness, injury, or other health condition that prevents them from making decisions for themselves or providing the information needed to complete forms **or**
+- They have an illness, injury, or other health condition that prevents them from making decisions for themselves or providing the information needed to complete forms **or**
 - They physically can’t sign the application
 
 {end additional-info text}
@@ -231,7 +231,8 @@ Your application will be saved on every change. Your application ID number is NN
 
 {additional-info text}
 
-Once you've submitted this application, we'll send you an email confirmation. We may contact you by phone or mail if we need more information about this application.
+Once you've submitted this application, we'll send you an email confirmation. 
+We may contact you by phone or mail if we need more information about this application.
 
 {end additional-info text}
 
@@ -380,18 +381,18 @@ Since you're applying for eligibility determination, first we'll ask for your de
 - Your middle name {text field, prefill if present}
 - Your last name (*Required) {text field, prefill if present}
 - Suffix {dropdown, prefill if present}
-- Jr.
-- Sr.
-- II
-- III
-- IV
-- V
+    - Jr.
+    - Sr.
+    - II
+    - III
+    - IV
+    - V
 - Maiden name {text field}
 - Social Security number (*Required) {text field, prefill if present}
 - Your date of birth (*Required) {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.)
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Your birth city or county {Required} {text input} **{only shown if Veteran applicant}**
 - Your birth state or territory {Required} {text input} **{only shown if Veteran applicant}**
 
@@ -441,18 +442,18 @@ Then we'll ask for the details for the Veteran or service member the applicant i
 - Applicant's middle name {text field, prefill if present}
 - Applicant's last name (*Required) {text field, prefill if present}
 - Applicant's suffix {dropdown, prefill if present}
-- Jr.
-- Sr.
-- II
-- III
-- IV
-- V
+    - Jr.
+    - Sr.
+    - II
+    - III
+    - IV
+    - V
 - Applicant's maiden name {text field}
 - Applicant's Social Security number (*Required) {text field, prefill if present}
 - Applicant's date of birth (*Required) {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Applicant's birth city or county {Required} {text input} **{only shown if Veteran applicant}**
 - Applicant's birth state or territory {Required} {text input} **{only shown if Veteran applicant}**
 
@@ -594,7 +595,7 @@ What’s your race? (*Required) {checkboxes} {Hint text: You can select more tha
 - Other
 - Prefer not to answer
 
-- Other comment (*Required) {text area - displays when "Other” option is selected} {Text: Enter the race that best describes you)
+- Enter the race that best describes you (*Required) {text area - displays when "Other” option is selected}
 
 [Finish this application later]()
 
@@ -676,7 +677,7 @@ What's the applicant's race? (*Required) {checkboxes} {Hint text: You can select
 - Other
 - Prefer not to answer
 
-- Other comment (*Required) {text area - displays when "Other” option is selected} {Text: Enter the race that best describes the applicant}
+- Enter the race that best describes the applicant (*Required) {text area - displays when "Other” option is selected}
 
 [Finish this application later]()
 
@@ -768,18 +769,18 @@ Provide the details for the Veteran or service member the applicant is connected
 - Sponsor's middle name {text field}
 - Sponsor's last name (*Required) {text field}
 - Sponsor's suffix {dropdown}
-- Jr.
-- Sr.
-- II
-- III
-- IV
-- V
+    - Jr.
+    - Sr.
+    - II
+    - III
+    - IV
+    - V
 - Sponsor's maiden name {text field}
 - Sponsor's Social Security number (*Required) {text field}
 - Sponsor's date of birth (*Required) {memorable date input} {Hint text:  Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Sponsor's birth city or county {Required} {text input}
 - Sponsor's birth state or territory {Required} {text input}
 
@@ -878,9 +879,9 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 When did the sponsor die? {memorable date input} {Hint text:  Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 
 {When continuing, user will not see following page asking Sponsor's Mailing Address/Contact Details, and will continue to Sponsor Demographics page.}
 
@@ -1018,7 +1019,7 @@ What’s the sponsor’s race? (*Required) {checkboxes} {Hint text: You can sele
 - Other
 - Prefer not to answer
 
-Other comment (*Required) {text area} {Text: Enter the race that best describes the sponsor}
+Enter the race that best describes the sponsor (*Required) {text area - displays when "Other” option is selected}
 
 [Finish this application later]()
 
@@ -1048,12 +1049,12 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Your military details {h3 heading with h5 styling}
 
 - Current military status (*Required) {dropdown} {Hint text: You can add more service history information later in this application.}
-- Active duty
-- Reserve/National Guard
-- Retired active duty
-- Retired Reserve/National Guard
-- Veteran
-- Other
+    - Active duty
+    - Reserve/National Guard
+    - Retired active duty
+    - Retired Reserve/National Guard
+    - Veteran
+    - Other
 - Military Service number {text input} {Hint text: If it’s different than your Social Security number}
 - VA claim number {text input} {Hint text:  If you don't have a VA claim number, leave this blank.}
 
@@ -1093,12 +1094,12 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Applicant's military details {h3 heading with h5 styling}
 
 - Applicant's current military status (*Required) {dropdown} {Hint text: You can add more service history information later in this application.}
-- Active duty
-- Reserve/National Guard
-- Retired active duty
-- Retired Reserve/National Guard
-- Veteran
-- Other
+    - Active duty
+    - Reserve/National Guard
+    - Retired active duty
+    - Retired Reserve/National Guard
+    - Veteran
+    - Other
 - Applicant's Military Service number {text input} {Hint text: If it’s different than your Social Security number}
 - Applicant's VA claim number {text input} {Hint text: If they don't have a VA claim number, leave this blank.}
 
@@ -1138,14 +1139,14 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Sponsor's military details {h3 heading with h5 styling}
 
 - Sponsor's current military status (*Required) {dropdown} {Hint text: You can add more service history information later in this application.}
-- Active duty
-- Death related to Inactive duty training {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
-- Died on active duty {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
-- Reserve/National Guard
-- Retired active duty
-- Retired Reserve/National Guard
-- Veteran
-- Other
+    - Active duty
+    - Death related to Inactive duty training {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
+    - Died on active duty {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
+    - Reserve/National Guard
+    - Retired active duty
+    - Retired Reserve/National Guard
+    - Veteran
+    - Other
 - Sponsor’s Military Service number {text input} {Hint text: If it’s different than their Social Security number}
 - Sponsor's VA claim number {text input} {Hint text: If they don't have a VA claim number, leave this blank.}
 
@@ -1188,22 +1189,22 @@ Your application will be saved on every change. Your application ID number is NN
 - State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
 - Highest rank attained {text input with autosuggest; narrows choices depending on branch of service selected}
 - Service start date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Service end date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Discharge character of service {dropdown}
-- Honorable
-- General
-- Entry Level Separation
-- Dishonorable
-- Other Than Honorable
-- Bad Conduct
-- Uncharacterized
-- Other
+    - Honorable
+    - General
+    - Entry Level Separation
+    - Dishonorable
+    - Other Than Honorable
+    - Bad Conduct
+    - Uncharacterized
+    - Other
 
 Add another service period {secondary button}
 
@@ -1239,22 +1240,22 @@ Your application will be saved on every change. Your application ID number is NN
 - Applicant's highest rank attained {text input with autosuggest; narrows choices depending on branch of service selected}
 - State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
 - Applicant's service start date {memorable date input} {Hint text:  Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Applicant's service end date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Applicant's discharge character of service {dropdown}
-- Honorable
-- General
-- Entry Level Separation
-- Dishonorable
-- Other Than Honorable
-- Bad Conduct
-- Uncharacterized
-- Other
+    - Honorable
+    - General
+    - Entry Level Separation
+    - Dishonorable
+    - Other Than Honorable
+    - Bad Conduct
+    - Uncharacterized
+    - Other
 
 Add another service period {secondary button}
 
@@ -1289,22 +1290,22 @@ Your application will be saved on every change. Your application ID number is NN
 - State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
 - Sponsor's highest rank attained {text input with autosuggest; narrows choices depending on branch of service selected}
 - Sponsor's service start date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Sponsor's service end date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
-- Month
-- Day
-- Year
+    - Month
+    - Day
+    - Year
 - Sponsor's discharge character of service {dropdown}
-- Honorable
-- General
-- Entry Level Separation
-- Dishonorable
-- Other Than Honorable
-- Bad Conduct
-- Uncharacterized
-- Other
+    - Honorable
+    - General
+    - Entry Level Separation
+    - Dishonorable
+    - Other Than Honorable
+    - Bad Conduct
+    - Uncharacterized
+    - Other
 
 Add another service period {secondary button}
 
@@ -1468,12 +1469,12 @@ Your application will be saved on every change. Your application ID number is NN
 - Your previous middle name {text field}
 - Your previous last name (*Required) {text field}
 - Your previous suffix {dropdown}
-- Jr.
-- Sr.
-- II
-- III
-- IV
-- V
+    - Jr.
+    - Sr.
+    - II
+    - III
+    - IV
+    - V
 
 [Finish this application later]()
 
@@ -1506,12 +1507,12 @@ Your application will be saved on every change. Your application ID number is NN
 - Applicant's previous middle name {text field}
 - Applicant's previous last name (*Required) {text field}
 - Applicant's previous suffix {dropdown}
-- Jr.
-- Sr.
-- II
-- III
-- IV
-- V
+    - Jr.
+    - Sr.
+    - II
+    - III
+    - IV
+    - V
 
 [Finish this application later]()
 
@@ -1544,12 +1545,12 @@ Your application will be saved on every change. Your application ID number is NN
 - Sponsor's previous middle name {text field}
 - Sponsor's previous last name (*Required) {text field}
 - Sponsor's previous suffix {dropdown}
-- Jr.
-- Sr.
-- II
-- III
-- IV
-- V
+    - Jr.
+    - Sr.
+    - II
+    - III
+    - IV
+    - V
 
 [Finish this application later]()
 
@@ -1927,11 +1928,11 @@ Upload file {secondary button} {After uploading at least one file, button label 
 {Uploaded document size}
 
 - What kind of file is this (*Required) {dropdown}
-- Discharge
-- Marriage-related
-- Dependent-related
-- Letter
-- Other
+    - Discharge
+    - Marriage-related
+    - Dependent-related
+    - Letter
+    - Other
 - File name (*Required) {text input}
 
 Delete file {secondary button}
