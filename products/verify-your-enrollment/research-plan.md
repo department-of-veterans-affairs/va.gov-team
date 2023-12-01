@@ -3,13 +3,11 @@
 ## Background
 [VYE Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/product-outline.md)
 
-ADD WAVE DEFINITION
-
 **What problem is your product trying to solve?**
-WAVE is currently non-compliant because it uses JavaScript, which is no longer sanctioned by the U.S. goverment because of data security concerns. This is a problem because WAVE holds Veterans' personally identifiable information.
+The Web Automated Verification of Enrollment (WAVE) is a legacy, noncompliant feature that uses JavaScript, which is no longer sanctioned by the U.S. goverment because of data security concerns. This is a problem because WAVE holds Veterans' personally identifiable information. This is being replaced with Verify Your Enrollment (VYE) on VA.gov. 
 
 **Where is your product situated on VA.gov? (ex: auth vs. unauth)**
-WAVE is currently a standalone application being linked to from VA.gov. The new VYE tool is an authenticated tool that should sit under the "Education and training" section of the "VA Benefits and Health Care" menu.
+WAVE is currently a standalone application being linked to from VA.gov. The new VYE tool is an authenticated tool that will sit under the "Education and training" section of the "VA Benefits and Health Care" menu. VYE uses VA 22-8979. 
 
 **What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?**
 Verify Your Enrollment is replacing the WAVE tool which has been in existence in its current state since 2003. Veterans utilizing education benefits through the MGIB-Active Duty (Chapter 30), MGIB Selected Reserve (Chapter 1606), Reserve Educational Assistance Program (REAP, Chapter 1607), or Veterans Retraining Assistance Program (VRAP) currently verify their benefits with WAVE.
@@ -29,10 +27,13 @@ VYE fits in the [Veteran journey](https://github.com/department-of-veterans-affa
 
 ## Research Goals and Questions	
 **Evaluate the effectiveness of our proposed solution**
-- Are our perceptions of Veterans goals accurate (e.g., verification #1, checking history #2, managing profile #3, etc.)?
+- Are our perceptions of Veterans goals accurate?
+  - Verification #1
+  - Checking history #2
+  - Managing profile #3
 - Is our proposed design simple for Veterans to use to accomplish their goals?
 - Are Veterans able to quickly and easily verify their enrollment? 
-- Do Veterans need additional touchpoints (e.g., emails) in order to accomplish their goals?
+- Do Veterans need additional touchpoints (e.g., emails) to accomplish their goals?
 - Is our two-page proposed design sufficient for users to easily find their desired information?
 - Can users easily update their address and direct deposit information?
 - Is the label, "Your Benefits Profile" sufficient to communicate the types of information contained in the profile? 
@@ -41,11 +42,11 @@ VYE fits in the [Veteran journey](https://github.com/department-of-veterans-affa
 - Are there other messages before or after interaction with VYE that our Veterans need?
 - How do our Veterans find VYE (e.g., email link, Google search, onsite search, navigation menus, etc.)?
 - How effective are these channels to Veterans for finding VYE/WAVE?
-- Would Veterans prefer to verify their enrollment over the phone or via text? 
+- Would Veterans prefer to verify their enrollment over the phone or via text as opposed to verifying via a web application? 
 
 **What might we be missing in our understanding of our Veterans?**
-- Are they confused by the process of enrollment and how that information is communicated to the VA for verification?
-- Do they need more insight into backoffice processes (e.g., pending documents and processes)?
+- Are Veterans confused by the process of enrollment and how that information is communicated to the VA for verification?
+- Do Veterans need more insight into backoffice processes (e.g., pending documents and processes)?
 
 ### Outcome
 Evaluative findings will immediately affect the design and content of our MVP solution for VYE. 

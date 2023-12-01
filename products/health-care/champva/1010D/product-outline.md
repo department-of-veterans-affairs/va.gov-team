@@ -1,3 +1,4 @@
+# Product Outline: Form 10-10d CHAMPVA Benefits Application
 
 ## Overview
 Under the IDEA Act, all user facing forms need to be digitized. Form 10-10d is the application for CHAMPVA benefits for the spouse or child of a Veteran with disabilities or the surviving spouse or child of a Veteran who has died. 
@@ -41,10 +42,6 @@ Veterans and family members of Veterans must currently download and fill out the
 
 
 ### Key Performance Indicators (KPIs)
-
-- number of downloads
-- number of digital submissions
-
 
 #### Baseline KPI Values
 
@@ -95,8 +92,6 @@ Veterans and family members of Veterans must currently download and fill out the
 
 ### Questions
 
-- eligibility in workflow
-- documentation for eligibility
 - notifications?
 - end to end data submission processes/storage
 - auth states
@@ -104,14 +99,6 @@ Veterans and family members of Veterans must currently download and fill out the
   
   
 ### Key Decisions
-
----
-   
-## Screenshots
-
-### Before
-
-### After
 
 ---
 

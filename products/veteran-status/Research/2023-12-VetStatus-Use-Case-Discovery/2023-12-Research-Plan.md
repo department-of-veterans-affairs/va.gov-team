@@ -53,7 +53,7 @@ Data collection will be remote and conducted using Zoom.
 
 ### Recruitment approach
 
-We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean.  Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes.
+We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
 
 - Tuesday, 12/5/22 11am EST
 - Tuesday, 12/5/22 11:30am EST
@@ -63,7 +63,7 @@ We will keep track of participant demographic information (identified gender, ag
 
 
 ### Recruitment criteria
-8
+8 - 12 (minimum 8)
 
 **Primary criteria (must-haves)**
 
@@ -72,18 +72,15 @@ We will keep track of participant demographic information (identified gender, ag
 - Must have been denied a veteran discount at least once in the past 6 months
 - Veterans only
 
-**Some participants must**
-- Must have used a veteran specific discount at least once in the past 3 months
-- Must have been denied a veteran discount at least once in the past 3 months
-- Must receive healthcare from the VA 
-- Must have a Veterans Identification Card (VIC)
-- Must have and use the Flagship Mobile app
-- Must be aged 55+
-- Must identify as female or non-binary
-- Must have visited a VA facility within the past 6 months
-- Must have a terminal high school degree
-- Ideally some have a cognitive disability 
-- Ideally some use AT
+**Desired sample**
+- Some have used a veteran specific discount at least once in the past 3 months
+- Some have been denied a veteran discount at least once in the past 3 months
+- Mix of healthcare usage: some receive healthcare from the VA, some do not 
+- Some have a Veterans Identification Card (VIC), some do not
+- Some have and use the Flagship Mobile app, some do not
+- Some have visited a VA facility within the past 11 months
+- Ideally at least 3 participants use Assistive Technology
+- Diverse sample group, more fully detailed in request ticket 
 
 #### Screener Questions
 1.  Do you have a Veteran Identification Card?
@@ -107,11 +104,9 @@ We will keep track of participant demographic information (identified gender, ag
 	- Within the past 6 - 4 months 
 	- Within the past 3 months
 
-5. Which of the following devices do you use regularly?
-	- Smartphone 
-	- Desktop 
-	- Laptop
-	- Tablet 
+5. Do you have and use the VA Health and Benefits mobile app? (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
+	- Yes
+  	- No
 
 
 ## Timeline
@@ -123,7 +118,7 @@ Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.
 * Planned dates of research: Monday, 12/18/23 - Thursday, 12/22/23
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 45 - 60 minutes (book for 60 min)
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 3
   

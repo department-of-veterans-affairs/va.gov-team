@@ -23,9 +23,6 @@ Danielle Thierry, OCTO Lead Content Strategist
 - Determine if moving family and caregiver related content under a single benefit hub for that audience will improve the discoverability and findability of relevant benefit information.
 - Determine if highlighting caregiver and survivor benefits helps improve discoverability and findability of those specific benefits.
 
-**Hypotheses**
-
-
 
 ## Methodology 
 
@@ -37,39 +34,41 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 ## Hypotheses and Conclusions
 
 **1. Family members and caregivers will navigate to the family member hub for information on benefits for themselves**
-    - _Definitely true. _ For the 5 tasks related to finding benefit information for themselves, 59% of the particpants navigated directly to the family member hub, versus only 32% who navigated to one of the benefit hubs first.  Overall, 64% of the participants visited the family member hub at some point to complete the tasks.
+  - _Definitely true._  
+      - Participants navigated directly to the family member hub 59% of the time, versus navigating directly to any Veteran benefit hub 32% of the time
+      - Participants navigated indirectly to the family member hub 64% of the time 
+      - There were 5 tasks related to finding benefit information for themselves
+      - There was almost twice the amount of activity within the family member hub than the Veteran benefit hubs
 
 **2. Family members and caregivers will navigate to the family member hub to complete tasks related to managing and tracking their own benefits**
-    - _Maybe true._  For the 3 tasks related to managing their own health and benefits, only 33% of the participants navigated directly to the family member hub, versus 55% who navigated to one of the benefit hubs first. Overall, 42% of the participants visited the family member hub at some point to complete the tasks. 
+  - _Maybe true._  
+      - Participants navigated directly to the family member hub 33% of the time, versus navigating directly to any Veteran benefit hub 55% of the time
+      - Participants navigated indirectly to the family member hub 42% of the time 
+      - There were 3 tasks related to managing their own health and benefits
+      - It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
     
 **3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits**
-    - _Maybe true._  For the 3 tasks specific to survivor benefits, 39% of the participants navigated directly to the survivors section of the family member hub.  Overall, 45% of the participants visited the survivors section of the family member hub at some point to complete the tasks.
+  - Likely true._  
+      - Participants navigated directly to the survivors section of the family member hub 39% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time 
+      - Participants navigated indirectly to the survivors section of the family member hub 45% of the time
+      - There were 3 tasks specific to survivors
+      - There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
 
 **4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits**
-    - _Likely true._  For the 1 task specific to caregiver benefits, 44% of the participants navigated directly to the caregiver section of the family member hub.  Overall, 51% of the participants visited the caregivers section of the family member hub at some point to complete the task. 
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+  - Maybe true._  
+      - Participants navigated directly to the caregivers section of the family member hub 44% of the time, versus navigating directly to any Veteran benefit hub 37% of the time
+      - Participants navigated indirectly to the caregivers section of the family member hub 51% of the time 
+      - There was 1 task specific to caregivers
+      - There was slightly more activity within the caregiver section of the family member hub over the Veteran benefit hubs, but this analysis only includes 1 task, so further evaluation may be needed
 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+1. Participants primarily navigated to the family member hub in 4/5 tasks related to getting benefits for themselves
+2. Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub
+3. Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits
+4. Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver
+5. The "common tasks" section of the family member hub was rarely utilized
 
 
 ## Details of Findings 
@@ -80,48 +79,122 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**Finding 1: Participants primarily navigated to the family member hub in 4/5 tasks related to getting benefits for themselves**
 
 Labels: label 1, label 2 
-
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- Participants navigated directly to the family member hub 59% of the time, versus navigating directly to any Veteran benefit hub 32% of the time
+- Participants navigated indirectly to the family member hub 64% of the time 
+- There was almost twice the amount of activity within the family member hub than the Veteran benefit hubs
+- Participants selected responses in the family member hub 62% of the time, veresus selecting answers in a Veteran benefit hub 33% of the time. When participants selected answers in the Veteran benefit hubs, the answers were mostly incorrect.
+- The only exception to these results was the task for applying for transferred GI Bill benefits - for this task, participants navigated to the Veteran education benefits hub twice as often.  In addition, once in the Veteran education benefits hub, very few participants found the correct answer and instead selected an incorrect response 81% of the time
+- These results echo similar results found in last year's tree tests focused on health care where.  In all 3 of those tests with family and caregivers, those participants directly navigated to the family member hub more often than the health care hub.
+- Tasks included: health care, transferred GI bill benefits, mental health care, survivor compensation, and accrued benefits
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
+**Finding 2: Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub**
 
 Labels: label 1, label 2 
-
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- Participants navigated directly to the family member hub 33% of the time, versus navigating directly to any Veteran benefit hub 55% of the time
+- Participants navigated indirectly to the family member hub 42% of the time
+- It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
+- Participants selected responses in the Veteran benefit hubs 47% of the time, versus selecting answers in the family member hub only 30% of the time. When participants did select answers in the family member hub, the answers were mostly incorrect
+- Tasks included: payment history, travel pay, and prescriptions
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
+**Finding 3: Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits**
 
 Labels: label 1, label 2 
-
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+- Participants navigated directly to the family member hub 60% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time
+- Participants navigated directly to the survivors section of the family member hub 39% of the time, and indirectly 45% of the time
+- Participants selected answers within the family member hub 61% of the time, versus selecting answers in the Veteran benefit hubs only 24% of the time
+- Although the family member hub was high destination, only half of the answers selected there were in the section specific to survivors
+- There were 3 tasks specific to survivors
+- There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
+- Tasks included: survivor compensation, accrued benefits, payment history
 
-> _Supporting data: Quote here_
+**Finding 4: Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver**
 
-> _Supporting data: Quote here_
+Labels: label 1, label 2 
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
+- Participants navigated directly to the family member hub 56% of the time, versus navigating directly to any Veteran benefit hub 37% of the time
+- Participants navigated directly to the caregivers section of the family member hub 44% of the time, and indirectly 51% of the time
+- Participants selected answers within the caregiver section of the afmily member hub 41% of the time, versus selecting answers in the Veteran benefits hubs 33% of the time
+- Although the family member hub was high destination, only 2/3 of the answers selected there were in the caregiver section
+- There was 1 task specific to caregivers
+- There was slightly more activity within the caregiver section of the family member hub over the Veteran benefit hubs, but this analysis only includes 1 task, so further evaluation may be needed
+_- Comparison to previous health care IA test
+  - In both tests the most common path_
+- Task included: health care
+
+**Finding 5: The "common tasks" section of the family member hub was rarely utilized**
+
+Labels: label 1, label 2 
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+- <5% navigated to it in any task
+- It was viewed most for the fiduciary task (15%) than any other task, which isn't the correct location for that task
+- 12% of participants looked here for travel pay - never directly - and once there all of them selected the travel pay option in this section 
+- It is 3 clicks to get to the "common tasks" section in the family hub, 5 clicks to get to the "Manage" section of the benefits within the family hub, and 3 clicks to get to the "manage" section within the Veteran benefit hubs
+   
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+1. Health care task
+  - This task had similar success and directness as the health care tree test done with family and caregivers in 2023, despite requiring additional clicks
+    - In the 2024 test, the task was worded more towards being a caregiver, and the top answer was the PCAFC program selected in the family member hub (32%), the health care option was second (20%)
+    - In the 2023 test (CB), the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (50%)
+    - In 2024, the options in the family member hub required 1-2 more clicks to get to the same answer compared to the structure tested in 2023
+      - 2024: 4 clicks to select PCAFC, 5 clicks to select health and disability programs
+      - 2023: 3 clicks to select PCAFC, 3 clicks to select health care
+    - Labeling in the 2024 version was also longer
+      - Family and caregiver benefits > All benefits for spouses, children, and parents > Health care and disabilities > Family and caregiver health and disability programs
+      - Family member benefits > Health care
+   
+2. Mental health care task was significantly more successful (78%) compared to the baseline caregiver test (37%)
+  - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
+  - In 2023 (CB), selections were most often made in the health care hub (30%), compared to the family member hub (2%) 
+  - This shift could be related to
+    - the change in the label of the family member hub from "Family member benefits" to "Family and caregiver benefits"
+    - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
+    - Mental health option in the health care hub was under more resources rather than within the get benefits section
+
+3. Transferred GI Bill benefits - 32% task success, 78% directness
+  - Initial path: Education (56%), Family member hub (27%)
+  - Selections: Education (66%), FAmily member hub (24%)
+  - Although the majority of participants navigated to and selected answers in the Education benefits hub, only 12% selectedt the correct answer there; 29% selected options for Veterans to apply for GI Bill benefits, and 12% selected the task intended for Veterans to transfer their benefits - this option would provide instructions and crosslinking to the content specific to the family member.
+  - This is a complicated task if you are not familiar with education benefits for dependents - it requires the Veteran to first transfer the benefits to you and then you need to apply for those transferred benefits
+  - When participants went to the family member hub, most of them were able to find the correct option
+
+4. Travel pay task had similar task succes rate
+  - In both the current and the 2023 CB study, participants primarily selected answers under "Manage benefits" within the health care hub
+  - In the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub 27% of the time
+  - In the CB study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
+  - Hypothesis??? Why did the results flip between the baseline study and the current study?
+
+5. Payment history - 42% success, 68% directness
+  - Initial path: Family member hub (46%), Disability (12%), PEnsion (17%)
+  - Selections: Family member hub (54%), Disability (17%), Pension (17%)
+  - 32% went directly to the Family member hub survivor-specfic benefits section, and most then selected either the survivors pension program or DIC - these pages would likely have cross-links to the payments, but their primary focus is on the benefit itself, not the payments you are already receiving
+  - 17% selected accrued benefits
+ 
+6. Accrued benefits - 22% success, 73% directness
+  - Initial path:  Disability hub (20%), Family member hub (56%)
+  - Selections: Disability hub (22%), Family hub (61%)
+  - Task specifically mentioned a disability claim and visitors still predominantly navigated to the family member hub and selected answers there
+  - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this service and/or the label
+  - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
+ 
+7. Fiduciary benefits - 29% success, 29% directness
+  - Initial path: Disability (22%), family member hub (20%), pension hub (12%), service member hub (34%)
+  - Selections: Disability (27%), family member hub (44%), pension hub (15%), service member hub (5%)
+  - Top answerS: Become a fiduciary (29%), Disability > Change direct deposit (10%), Disability > Get help from an accredited rep (7%)
+  - All but one person who navigated directly to the service member hub immediately backed out of it, most often choosing the family hub next
+  - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
 
 
 ## Recommendations

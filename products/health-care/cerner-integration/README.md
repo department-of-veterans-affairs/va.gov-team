@@ -9,8 +9,7 @@ This is a folder for the Cerner integration work.
 
 | Product  | Status |  Note(s) |
 | ------------- | ------------- | ------------- |
-| Patient Check-in (PCI)  | Data Mapping  | Task Order awarded. |
-| VEText (part of PCI)  |  Data Mapping | Task Order awarded. |
+| VEText 2.0 (for Patient Check-in)  |  2 year ATO granted | Task Order awarded. |
 | Applications for Visit Summaries (AVS) | Future Phase  |  |
 | MyHealtheVet (MHV) |  | ------------- |
 | [Covid-19 Patient Manager](https://github.com/department-of-veterans-affairs/covid-patient-manager/) (CPM) | Deployed in P0630 | ------------- |

@@ -17,6 +17,9 @@ Julie Pedtke [julie.pedtke@coforma.io](mailto:julie.pedtke@coforma.io), Ajia Wal
 - [Who we talked to](#who-we-talked-to)
 
 
+## Research Readout
+[Recording available on SharePoint](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/Dependents%20research%20readout?csf=1&web=1&e=dUuiEg)
+
 ## Research Goals
 
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Are there moments that matter?
@@ -77,6 +80,9 @@ The semi-structured interview guide will focus on questions around the participa
 The usability test guide will focus on showing participants a mobile-first prototype of the email notification MVP that includes general messaging encouraging readers to review current dependents. We'll ask questions to uncover participants' comprehension of the message's intent, including who it's for, what it's warning against, and what it's asking of them as well as their expectations of how and where to take action and whether they would take action in response to the notification. We'll recruit for participants with current dependents claimed on benefits and include screener questions aimed at representing a mix of dependent types and experience with a focus on those cohorts most impacted by benefit overpayments: Veterans who have claimed spouses, minor children, and school-aged children. 
 
 
+
+## Prototype
+[Dependent Verification Email Sketch](https://www.sketch.com/s/149b2ccf-af21-4c71-9ca8-2ef2ae8af9fc) (PDF also included at the end of the [findings deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/Dependents%20Research%20Readout%202023.pdf))
 
 ## Hypotheses and Conclusions
 

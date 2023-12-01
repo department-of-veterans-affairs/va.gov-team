@@ -3,6 +3,39 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+## 12/13/2023 - 12/26/2023  ------- FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+ - **GOAL: Support Production**
+ - **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
+- **GOAL: Increase Usage of PCI**
+     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address Tech Debt**
+     - **Sub Goal: Switch Components to Design System v. 3**
+ 
+#### PLANNED RELEASES 
+- NONE
+  
+#### SPRINT TICKETS
+- **GOAL: Support Production**     
+    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
+- **GOAL: Make Travel Claims Easier**   
+   - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
+        - TBD  
+- **GOAL: Increase Usage of PCI**         
+    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - TBD
+- **GOAL: Address Tech Debt**
+    - 🟦 [[BE] [Request] Don't use "k" to represent thousand; can we use the actual number?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70962)
+    - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
+        - TBD
+
+------- END FUTURE / TENTATIVE ------
+
+__________________________________________________________________________________________________________________________________________________________
+
 ## 11/29/2023 - 12/12/2023  
 #### SPRINT GOALS
  - **GOAL: Support Production**
@@ -37,7 +70,7 @@ ________________________________________________________________________________
        - ✔️ ❗ 🟥 [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70766)
        - ❗ 🟥 [[UX][Analytics] Add widget in GA Dashboard to pull in button and link selects on Review Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70484)
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-      - 🟥 Waiting for content feedback from CAIA
+      - ✔️ 🟥 Waiting for content feedback from CAIA
            - 🟥 Implement feedback from CAIA to Sketch and CodePen (should have by end of week Nov 27) (Create ticket, if needed)
       - 🟥 [[Research]Conduct Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65416)  
   - **Sub Goal: [Cross-Product Discovery - Complete Multiple Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70700)**
@@ -55,10 +88,10 @@ ________________________________________________________________________________
       - 🟦 [[BE] Implement get_appointments method in client class](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68686)
       - 🟦 [[BE] Implement get_appointments method in service class](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68696)
       - 🟥 [[UX] SPIKE: Determine if/when we need to account for canceled appts scenarios for unified check in Priority 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68281)
-      - 🟥 [[Design][SPIKE] Determine whether we need to change the position on page or UI of the Refresh button and feature](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70362)
+      - ✔️ 🟥 [[Design][SPIKE] Determine whether we need to change the position on page or UI of the Refresh button and feature](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70362)
       - 🟥 [[Design] Create final wireframe for Refresh feature on Appointments List page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70483)    
     - **Sub Goal: Analyze current metrics to see what they tell us**       
-       - 🟪🟥 Meet to discuss 45-minute metrics per [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69699)
+       - ✔️ 🟪🟥 Meet to discuss 45-minute metrics per [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69699)
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
 - **GOAL: Address Tech Debt**

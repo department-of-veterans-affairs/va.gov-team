@@ -5,6 +5,11 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 12/07/23
+*   Incorporating our docs with VADS
+    * Who would we work with from VADS?
+    * desired outcomes
+      
 ## 11/21/23
 *   Review Button component in Storybook
 *   Discuss Color Tokens
