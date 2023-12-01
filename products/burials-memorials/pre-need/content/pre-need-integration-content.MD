@@ -1338,8 +1338,8 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 - Did you serve under another name? (*Required) {radio buttons}
-- Yes
-- No
+    - Yes
+    - No
 
 {If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 4 of 6: Burial benefits.}
 
@@ -1372,8 +1372,8 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 - Did the applicant serve under another name? (*Required) {radio buttons}
-- Yes
-- No
+    - Yes
+    - No
 
 {If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 4 of 6: Burial benefits.}
 
