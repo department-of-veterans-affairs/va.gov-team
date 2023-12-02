@@ -11,7 +11,7 @@ body:
   - type: input
     id: requestor-name
     attributes:
-      label: Your Name
+      label: Name
       description: Please provide the name of the person requesting access
       placeholder: Jane Doe
     validations:
@@ -22,6 +22,14 @@ body:
       label: Your Email
       description: Please provide the work email for the person requesting access
       placeholder: jane.doe@company.com
+    validations:
+      required: true
+  - type: input
+    id: requestor-role
+    attributes:
+      label: Name
+      description: Please provide the role of the person requesting access
+      placeholder: FE Engineer
     validations:
       required: true
   - type: input
