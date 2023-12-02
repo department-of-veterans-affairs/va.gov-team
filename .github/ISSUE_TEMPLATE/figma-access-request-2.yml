@@ -43,4 +43,3 @@ body:
     attributes:
       label: Additional Notes
       description: Use this section to add notes.
-      placeholder: I need this access because of <reason>
