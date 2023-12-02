@@ -19,7 +19,7 @@ body:
   - type: input
     id: email
     attributes:
-      label: Your Email
+      label: Email
       description: Please provide the work email for the person requesting access
       placeholder: jane.doe@company.com
     validations:
@@ -27,7 +27,7 @@ body:
   - type: input
     id: requestor-role
     attributes:
-      label: Name
+      label: Role
       description: Please provide the role of the person requesting access
       placeholder: FE Engineer
     validations:
