@@ -1,7 +1,7 @@
 name: Figma Access Request
 description: Request access to Figma
 title: "Figma access for [individual]"
-labels: ["Figma-access"]
+labels: ['figma-access-request']
 assignees: 
   - naomimarcussen
 body:
