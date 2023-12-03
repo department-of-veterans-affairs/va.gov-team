@@ -250,10 +250,11 @@ _**OPTIONAL: if the participant hasn’t gone to a details page for an appointme
 
 _**On details page:**_
 - Is there anything confusing about this page and the information included here?
-- _(Non-screen reader users)_ Thinking back to the dot with the 1 task to complete? What does it seem like that was referring to?
+- _(Non-screen reader users)_ Thinking back to the dot with the 1 task to complete, what does it seem like that was referring to?
 - _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - _Things to watch for: Is there confusion around the detail page H1_
-- And what would you do next from this page? 
+- _(Screen reader users)_ And thinking back to the indication that there's something to do for this appointment, what does it seem like that was referring to?
+- What would you do next from this page? 
 
 ----
 
