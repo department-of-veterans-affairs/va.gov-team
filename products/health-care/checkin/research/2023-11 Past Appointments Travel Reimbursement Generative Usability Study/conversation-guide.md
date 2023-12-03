@@ -212,7 +212,7 @@ _**Participant is on success page:**_
 - How is this similar to or different from what you expected?
   - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
 - Did you notice this claim mentions two appointments? Why do you think that is?
-  - _If needed:_ Why do you think the second appointment is listed here when you've only gone through the process filing a travel reimbursement claim once? 
+  - _If needed:_ Why do you think the second appointment is included here when you've only gone through the process of filing a travel reimbursement claim once? 
   - _Things to watch for: Do they understand the second appointment is part of the same claim?_
 - Ok, and what would you expect to happen next with your claim?
 - If you still had questions right now, how would you find out more about your claim?
