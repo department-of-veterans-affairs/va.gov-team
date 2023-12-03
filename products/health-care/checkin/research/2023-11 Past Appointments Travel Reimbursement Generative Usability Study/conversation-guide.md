@@ -265,7 +265,7 @@ _**On details page:**_
 ## Thank you and Closing - 1 minute
 - Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-- Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+- Thanks! And lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans who might be interested in participating in future research studies as well.
 
 - Thank you so much again, and enjoy the rest of your day!
 
