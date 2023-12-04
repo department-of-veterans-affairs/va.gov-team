@@ -94,10 +94,8 @@ CAIA IA makes sure that Veterans and family can find the products, and that the 
 - Redirects: is this product replacing a page that we need to redirect? <br>
 Note that if we are redirecting content or tools from legacy pages (eBenefits, the ‘old’ VA websites), a lot of stakeholder coordination is needed with those folks. Connect with those stakeholders early!
 - Best Bets: If you go to va.gov/search and type in ‘pension’, you’ll see 2 results under “our top recommendations”.  We can help set up which URLS appear under top recs for different keywords, helping your page be more findable in search results.<br>
-<br>
 
 ### Accessibility
-
 <details><summary>Toggle to view additional details about this section</summary>
 The Content, Accessibility, and Information Architecture team, or CAIA, is a cross-functional team of folks here to help your team deliver the highest quality product possible to Veterans.<br>
   
