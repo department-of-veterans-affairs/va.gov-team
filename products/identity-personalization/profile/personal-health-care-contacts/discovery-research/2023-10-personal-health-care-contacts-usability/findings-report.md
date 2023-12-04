@@ -57,13 +57,9 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 1. 
 
 ## Details of Findings 
-### 1) 9 of 11 participants were able to update a VA.gov profile with in-line editing with relative ease.
+### 1) Starting from the unauthenticated state of VA.gov landing page, participants expected that they would need to sign in to view their "medical emergency contact" and "next of kin" information on file. 
 
-We started our sessions by asking participants to update sections on the contact information page. All participants intuitively understood how to go from “read-only” to “edit” mode, to complete forms, and to save their changes. 
-
-All but 1 participant easily navigated the longer address form. The 1 participant who did not had mistakenly checked the “I live on a United States military base” without realizing it and got  confused by the corresponding form fields.
-
-Notably, the “alert followed by a modal” pattern that can occur in a couple of edge-case flows did not cause confusion or prevent any participant from successfully completing their task.
+We 
 
 ---
 
