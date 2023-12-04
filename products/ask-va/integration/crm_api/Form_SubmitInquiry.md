@@ -161,3 +161,7 @@ Country: Lighthouse – map list ot list, map by standard country codes? Make su
 * JD: figure out other fields that inquiry requires that are not listed. (fields to send that are missing, fields that can be calculated)
 * Get correspondence - will send string display label, we return labels not values ?? JD: may not apply here, so might  want to discuss more if we come across these.
 
+### References
+
+1. Vet’s first name, last name, dob, icn to  match to patient, else generate patient
+2. The lists are in the ticket that's tracking this comparison work.
