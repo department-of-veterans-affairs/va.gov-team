@@ -836,11 +836,6 @@ User tries to add 101 issues:
      Header: You've reached the maximum number of allowed selected issues
      Body: You're limited to 100 selected issues for each Notice of Disagreement request. If you'd like to select more than 100,  submit this request. Then create a new request for the remaining issues.
 
-PDF upload errors:
-
-    Header: We couldn't upload your PDF
-    Body: Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
-
 User tries to submit with missing/invalid information:
 
      Header: Some information in your request is missing or not valid.
