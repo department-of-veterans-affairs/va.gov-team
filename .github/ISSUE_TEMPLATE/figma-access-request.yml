@@ -3,7 +3,7 @@ description: Request access to Figma
 title: "Figma access for [individual]"
 labels: ['figma-access-request']
 assignees: 
-  - naomimarcussen, andreahewitt-odd
+  - naomimarcussen, andreahewitt-odd, @department-of-veterans-affairs/platform-design
 body:
   - type: markdown
     attributes:
@@ -51,4 +51,3 @@ body:
     attributes:
       label: Additional Notes
       description: Use this section to add notes.
-CC: @department-of-veterans-affairs/platform-design
