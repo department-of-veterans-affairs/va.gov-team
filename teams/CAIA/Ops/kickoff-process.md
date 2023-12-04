@@ -11,6 +11,11 @@ V1.0
 
 ## Overview
 This document is designed to serve as a guide for how the Centralized Content, Accessibility, and Information Architecture Team conducts and organizes kickoff meetings with VFS teams and also serves as a source of information for teams on what to expext during this process
+
+The CAIA Team have a regular weekly slot for teams to schedule a kickoff with CAIA on Wednesdays at 12PM ET, for 2 30 minutes slots.
+Once a kickoff meeting has been scheduled we will share it on the CAIA shared calendar, the link for which is below:<br>
+[CAIA Shared Calender](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago)
+
 <br>
 ## What is CAIA?
 The Content, Accessibility, and Information Architecture team includes experts in 3 key areas, plus delivery. We work together to partner with your team throughout the lifecycle of your product.
