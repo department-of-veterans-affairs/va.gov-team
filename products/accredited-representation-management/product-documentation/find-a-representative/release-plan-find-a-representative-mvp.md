@@ -64,7 +64,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 3. Stage C: 50% of users from 12/14-12/17
 4. Stage D: 100% of users on 12/18
 
-**:snowflake: Code freeze: 12/22/2023 - 1/2/2024 :snowflake:**
+**Code freeze: 12/22/2023 - 1/2/2024**
 
 *** 
 
