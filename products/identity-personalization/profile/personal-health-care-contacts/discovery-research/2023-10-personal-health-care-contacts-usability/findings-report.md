@@ -63,9 +63,12 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 
 When asked how a participant would ensure the VA has the correct information on file, all 9 participants were able to recognize and articulate how they would start that process by signing in. 
 
-- 4 participants navigated directly sign in > Profile (on VA.gov) > Profile hub 
-- 2 participants attempted to navigate to the My HealtheVet profile (as they related it to health) but at "second guess" went to the VA.gov profile 
-- 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information
+After signing in/or articulating that process: 
+
+- 4 participants navigated directly to the Profile hub (sign in > Profile > Profile Hub) 
+- 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but At "second guess", this participant went to the VA.gov profile
+- 1 participant "keyword forged" the landing page and used the mega menu to navigate to the healthcare hub section. 
+- 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information and navigate to profile
 - 1 participant was confused by staging user name in the authenticated menu and could not locate information in profile
 
 <img width="1114" alt="Screenshot 2023-12-04 at 12 22 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/b263346b-fe69-455e-82eb-6e9503903711">
