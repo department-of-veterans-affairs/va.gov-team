@@ -4,7 +4,7 @@
 V1.0
 
 ## Contents
-- Overview
+- [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#overview)
 - [What is the purpose of this document?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-the-purpose-of-this-document)
 - [Why does my team need a kickoff meeting?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#why-does-my-team-need-a-kickoff-meeting)
 - [How can I schedule a kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-can-i-schedule-a-kickoff-meeting-with-caia)
