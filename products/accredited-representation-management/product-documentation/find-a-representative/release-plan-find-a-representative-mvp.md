@@ -62,7 +62,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 1. Stage A: 10% of users on 12/12
 2. Stage B: 25% of users on 12/13
 3. Stage C: 50% of users from 12/14-12/17
-4. Stage `D: 100% of users on 12/18
+4. Stage D: 100% of users on 12/18
 
 **:snowflake: Code freeze: 12/22/2023 - 1/2/2024 :snowflake:**
 
@@ -79,6 +79,24 @@ The following metrics will be considered before advancing rollout to the next st
 
 
 ### Stage A Results
+
+1. Errors in Sentry:
+2. Errors in DataDog:
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+
+### Stage B Results
+
+1. Errors in Sentry:
+2. Errors in DataDog:
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+
+### Stage C Results
+
+1. Errors in Sentry:
+2. Errors in DataDog:
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+
+### Stage D Results
 
 1. Errors in Sentry:
 2. Errors in DataDog:
