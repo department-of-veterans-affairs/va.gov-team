@@ -2,13 +2,14 @@
 
 ## Assumptions (Need to be validated and Open to challenged)
 
-- MHV is the source of truth for all Messaging data
+- ✅ MHV is the source of truth for all Messaging data
 - We need to map OH data into our own model to support capabilities that are not supported by OH
 - Between the FHIR APIs and OH SM APIs we have all the data we need
 - The existing MHV SM API (the one used by va.gov today) can be reused for the SM Exchange
 - OH is sending data to an URL via a webhook in an Atom feed format
 - The only reason we are sending data back to OH is so that the message shows up in the OH clinician UI
 - The correct and data is availible through the process (example: we can get the facility information at the correct time)
+- The SM Exchange and MHV and OH commincate using RESTful APIs
 
 ## Technical Measures of Success
 
@@ -41,18 +42,19 @@
 
 ### Tech Stack
 
-- Java 
-- AWS Lambda
-- AWS SQS
-- (maybe) DynamoDB
+![Diagram](./assets/sm%20exchange.v1.drawio.png)
 
-![Diagram](./assets/mvp.drawio.png)
+
 
 ## Sequence
 
-### Sending Data
+### MHV to OH 
 
-### Receiving Data
+![Sequence diagram of MHV to OH](./assets/MVH%20to%20OH.svg)
+
+### OH to MHV 
+
+![Sequence diagram of OH to MHV](./assets/OH%20to%20MHV.png)
 
 ## APIs needed
 
@@ -63,3 +65,8 @@
 ## Unknowns
 
 - How does the OH Atom feed handle a failed push
+
+
+## Notes
+
+- Initial load on first patient accesss
