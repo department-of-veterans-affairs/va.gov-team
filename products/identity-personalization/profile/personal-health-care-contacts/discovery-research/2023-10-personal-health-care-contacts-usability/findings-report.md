@@ -60,22 +60,32 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 ## Details of Findings 
 ### 1) Starting from the unauthenticated state of VA.gov landing page, all 9 participants expected that they would need to sign in to view their "Medical emergency contact" and "Next of kin" information on file. 
 
-The majority of participants were able to recognize and articulate how they would start that process.
+9 of 9 participants were able to recognize and articulate how they would start that process.
 
 ---
 
-### 2) 6 of 9 participants sought information about "Medical emergency contact" and "Next of kin contact" within their VA.gov profile. 
+### 2) Most participants (6 of 9) sought information about "Medical emergency contact" and "Next of kin contact" within their VA.gov profile. 
 
 - 4 participants navigated directly to profile on VA.gov
 - 2 participants attempted to navigate to the My HealtheVet profile (as they related it to health) but at "second guess" went to the VA.gov profile 
 - 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information
 - 1 participant was confused by staging user name in the authenticated menu and could not locate information in profile 
 
-
-
 ---
 
-### 3) 
+### 3) The majority of participants understood the "Profile hub" page and used the "Personal health care contacts" section to navigate/view emergency contact and next of kin information. 
+
+- 6 participants navigated with ease (some relying on hint text)
+- 1 participant went "Contact information" first before navigating to "Personal health care contacts" page
+
+*Note* 2 participants were having technical challenges during this portion of the study
+
+![screencapture-staging-va-gov-profile-2023-12-04-11_41_05](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ad4a64d3-01dd-4810-83d5-92b593538dbd)
+
+
+landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.
+
+picture of profile hub 
 
 ---
 
