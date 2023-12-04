@@ -82,21 +82,34 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 
 ![screencapture-staging-va-gov-profile-2023-12-04-11_41_05](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ad4a64d3-01dd-4810-83d5-92b593538dbd)
 
+---
 
-landing page to be a place to manage their health and at first glance recognized how the landing page could be used to accomplish broad health tasks.
+### 4) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
+All 9 participants expected or wanted this functionality
 
-picture of profile hub 
+P1: “well, I would expect information or instructions about how to be able to do it myself. IT's fine with me like this but it would be nice if I could do it myself on this website.”
+
+P3: "You should be able to click on it to make a change and it should give you the option."
+
+P6: "Man that’s horrible! You should be able to do it on the website." 
 
 ---
 
-### 4) 
+### 5) Most participants wanted at least two Medical emergency contacts. 
+
+- 9 of 9 participants wanted multiple contacts listed in case the primary contact was not available. 
+
+<img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/41254bc9-06a8-4344-8286-67bb27118634">
+
 ---
 
-### 5) 
+### 6) Most participants wanted at least two Next of kin listed. 
 
----
+- 7 of the 9 participants wanted multiple next of kin contacts listed.
+- 2 participants felt that one Next of kin would be sufficient.
+  
+<img width="690" alt="Screenshot 2023-12-04 at 11 58 17 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/dc347285-4ac4-4b54-a314-89d3b8dc2e72">
 
-### 6) 
 
 ## Additional Insights
 ### 
