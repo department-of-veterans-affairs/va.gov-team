@@ -284,14 +284,11 @@ Your application will be saved on every change. Your application ID number is XX
 
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-#### You have a contested claim
-A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to. If our decision involves a contested claim, the Board must receive your completed form within **60 days** from the date listed on your decision notice. 
+**If our decision involves a contested claim**, the Board must receive your completed form within **60 days** from the date listed on your decision notice. A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to.
 
-#### You have a claim from the old appeals system
-If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system **dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-
-* Within **60 days** from the date on the SSOC letter, **or**
-* Within **1 year** of the decision date by the agency of original jurisdiction
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within 60 days from the date on the SSOC letter, **or**
+- Within 1 year of the decision date by the agency of original jurisdiction
 
 Please understand that by listing any issues currently pending in the old system, you are specifically opting those issues into the new decision review process if you continue with this submission. We won’t continue to process your appeal in the old system.
 
