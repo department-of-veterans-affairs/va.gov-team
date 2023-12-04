@@ -1,5 +1,13 @@
 **Jump to:**
 
+[Veteran Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-2)
+
+[Issues for Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-5)
+
+[Board Review Option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-14)
+
+[Review your Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-18)
+
 [Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-19)
 
 [Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#error)
@@ -207,7 +215,7 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 VA Form 10182 (Notice of Disagreement)
 
-## Step 1 of 4: Veteran details
+## Step 1 of 4: Veteran information
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
