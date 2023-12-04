@@ -249,17 +249,7 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 
 - *(If didn't use footer)* Is there another way that you could do this task from this web page?
 
-### Task 7: [Update your contact information with VA]
-You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this using this web page?  
-
-*RECORD navigation: **header > Sign in** / footer / search / mobile search*
-
-*(After participant clicks "Sign in", ask them to stop there. We just want to ensure that the Auth menu is findable.)*
-
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
-
-
-### Task 8: [Contact VA]
+### Task 7: [Contact VA]
 Say that after using this website for a while, you didn't get all of your questions answered. How might you reach out to someone at the VA? 
 - *(if additional prompting needed)* Is there anything on this page that might help?
 
@@ -267,14 +257,31 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-### Task 9: [FOIA]
+### Task 8: [FOIA]
  Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
 
-- *(If didn't use footer link)* Is there another way that you could do this task from this web page?
+- *(If didn't use footer)* Is there another way that you could do this task from this web page?
 
 *RECORD any feedback about the black/white footer area*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+### Task 9: [Update your contact information with VA]
+Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this using this web page?  
+
+*RECORD navigation: **header > Sign in** / footer / search / mobile search*
+
+- *(If didn't use Sign in)* Is there another way that you could do this task from this web page?
+
+*(If needed, prompt participant to use Login.gov, click to enter info)*
+
+*(See* Chris *or* Sign Out *in top right corner)*
+
+*RECORD navigation: **Sign in > Chris OR Menu > Profile***
+
+*(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
