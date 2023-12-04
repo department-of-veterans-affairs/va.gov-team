@@ -66,19 +66,15 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Veterans prefer Live Chat to calling
+1. Veterans prefer Live Chat to calling in the majority of scenarios
 
-2. All the Veterans raised concerns about privacy and security
+2. All Veterans raised concerns about privacy and security
 
 3. Veterans wish for fast access to support
 
 4. Veterans and Live Agents desire a more connected experience
 
 5. Authenticating Live Chat interactions builds trust
-   
-7. Finding six
-
-8. Finding seven
 
 
 ## Details of Findings 
@@ -135,12 +131,12 @@ Furthermore, authenticated Chat allows the Live Agents to locate and access the 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+_Additional interviews with Veterans._
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+_Talk with Veterans who live overseas._
 
 
 ## Appendix
