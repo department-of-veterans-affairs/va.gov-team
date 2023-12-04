@@ -55,6 +55,18 @@ Any new modules or changes to existing modules will need to be reviewed and appr
 
 If your CMS work might result in content data changing, you must ensure that all front ends that use that data are also changed.
 
+Examples of field changes that require CMS Team review:
+- Changing cardinality / allowed number of values
+- Changing translatability
+- Reusing an existing field on a new content type
+- etc.
+  
+Examples of field changes that don't require CMS Team review:
+- Updating help text, field label, or default value
+- Changing the field widget settings
+- Referencing an existing field on a new content type
+- etc.
+
 
 ## Will this work require you to capture any analytics or metrics?
 
