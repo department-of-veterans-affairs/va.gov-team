@@ -43,28 +43,31 @@ The Content, Accessibility, and Information Architecture team includes experts i
 ## The CAIA Team
 ### Delivery 
 
-Terry Nichols, Delivery Lead and PM (A11y & IA)<br>
-Lily Strelich, Scrum Master (Content)
+- Terry Nichols, Delivery Lead and PM (A11y & IA)<br>
+- Lily Strelich, Scrum Master (Content)
+
 ### Accessibility
 
-Sara Smith, A11y Lead<br>
-(SK) Sarah Koomson, A11y Specialist<br>
-Eli Mellen, A11y Specialist<br>
-Jamie Klenetsky Fay, A11y Specialist<br>
-Evan Burnett, A11y Specialist<br>
+- Sara Smith, A11y Lead<br>
+- Sarah "SK" Koomson, A11y Specialist<br>
+- Eli Mellen, A11y Specialist<br>
+- Jamie Klenetsky Fay, A11y Specialist<br>
+- Evan Burnett, A11y Specialist<br>
+
 ### Information Architecture 
-Kristin Ouellette, IA Lead<br>
-Jenny Mayo, IA Specialist<br>
+- Kristin Ouellette, IA Lead<br>
+- Jenny Mayo, IA Specialist<br>
 
 ### Content
-Laura Willwerth, Managing Editor<br>
-A Procik, Editor<br>
-Megan Zehnder, Copy Editor<br>
-Chelsea Levinson, Copy Editor<br>
-Ana Beltran, Bilingual Copy Editor<br>
-Derek Beyer, Writer<br>
-Aliyah Blackmore, Writer<br>
-Katherine Fung, Writer<br>
+- Laura Willwerth, Managing Editor<br>
+- A Procik, Editor<br>
+- Megan Zehnder, Copy Editor<br>
+- Chelsea Levinson, Copy Editor<br>
+- Ana Beltran, Bilingual Copy Editor<br>
+- Derek Beyer, Writer<br>
+- Aliyah Blackmore, Writer<br>
+- Katherine Fung, Writer<br>
+
 ## How we collaborate with your team
 
 If your team has dedicated content, IA, or accessibility experts, we’ll support their work. If you don’t have dedicated experts in these areas, we’ll collaborate with your designers, researchers, and other team members.
