@@ -51,5 +51,4 @@ body:
     attributes:
       label: Additional Notes
       description: Use this section to add notes.
-
 CC: @department-of-veterans-affairs/platform-design
