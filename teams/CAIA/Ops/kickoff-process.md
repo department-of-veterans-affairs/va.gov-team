@@ -8,11 +8,10 @@ V1.0
 - [What is the purpose of this document?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/kickoff-process.md#what-is-the-purpose-of-this-document)
 - [Why does my team need a kickoff meeting?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/kickoff-process.md#why-does-my-team-need-a-kickoff-meeting)
 - [How can I schedule a kickoff meeting with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/Ops/kickoff-process.md#how-can-i-schedule-a-kickoff-meeting-with-caia)
-- When are CAIA kickoff meetings?
-- What do I need to do to prepare for our kickoff meeting with CAIA?
-- What is CAIA?
-- How we collaborate with your team
-- Process
+- [When are CAIA kickoff meetings?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#when-are-the-caia-kickoff-meetings)
+- [What do I need to do to prepare for our kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-do-i-need-to-do-to-prepare-for-our-kickoff-with-caia)
+- [What is CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-caia)
+- [How we collaborate with your team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-we-collaborate-with-your-team)
 
 # Overview
 ## What is the purpose of this document?
