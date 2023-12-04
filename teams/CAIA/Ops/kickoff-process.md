@@ -13,7 +13,7 @@ V1.0
 This document is designed to serve as a guide for how the Centralized Content, Accessibility, and Information Architecture Team conducts and organizes kickoff meetings with VFS teams and also serves as a source of information for teams on what to expext during this process
 <br>
 ## What is CAIA?
-The Content, Accessibility, and Information Architecture team includes experts in these 3 areas. We work together to partner with your team throughout the lifecycle of your product.
+The Content, Accessibility, and Information Architecture team includes experts in 3 key areas, plus delivery. We work together to partner with your team throughout the lifecycle of your product.
 <br>
 #The CAIA Team
 ### Delivery 
