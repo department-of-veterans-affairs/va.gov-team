@@ -68,7 +68,7 @@ The Content, Accessibility, and Information Architecture team includes experts i
 - Aliyah Blackmore, Writer<br>
 - Katherine Fung, Writer<br>
 
-## How we collaborate with your team
+# How we collaborate with your team
 
 If your team has dedicated content, IA, or accessibility experts, we’ll support their work. If you don’t have dedicated experts in these areas, we’ll collaborate with your designers, researchers, and other team members.
 If you’re going through the VA.gov Collaboration Cycle, we can help you prepare for your touchpoints with the Platform Governance team and make changes based on their feedback. 
@@ -96,7 +96,7 @@ Note that if we are redirecting content or tools from legacy pages (eBenefits, t
 - Best Bets: If you go to va.gov/search and type in ‘pension’, you’ll see 2 results under “our top recommendations”.  We can help set up which URLS appear under top recs for different keywords, helping your page be more findable in search results.<br>
 <br>
 
-### How CAIA can help your team with accessibility
+### Accessibility
 
 <details><summary>Toggle to view additional details about this section</summary>
 The Content, Accessibility, and Information Architecture team, or CAIA, is a cross-functional team of folks here to help your team deliver the highest quality product possible to Veterans.<br>
