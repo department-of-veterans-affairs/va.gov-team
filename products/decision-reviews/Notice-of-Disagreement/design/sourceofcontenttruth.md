@@ -302,6 +302,18 @@ If you have questions or need help filling out this form,  call our MYVA411 mai
 
 If you have hearing loss, call TTY: [711](tel:711).
 
+**PROPOSED Changes**
+```
+#### You have a contested claim
+A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to. If our decision involves a contested claim, the Board must receive your completed form within **60 days** from the date listed on your decision notice. 
+
+#### You have a claim from the old appeals system
+If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system **dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+
+* Within **60 days** from the date on the SSOC letter, **or**
+* Within **1 year** of the decision date by the agency of original jurisdiction
+```
+
 ---
 
 # Request a Board Appeal
