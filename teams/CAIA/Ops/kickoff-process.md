@@ -5,11 +5,11 @@ V1.0
 
 ## Contents
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#overview)
-- [What is the purpose of this document?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-the-purpose-of-this-document)
-- [Why does my team need a kickoff meeting?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#why-does-my-team-need-a-kickoff-meeting)
-- [How can I schedule a kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-can-i-schedule-a-kickoff-meeting-with-caia)
-- [When are CAIA kickoff meetings?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#when-are-the-caia-kickoff-meetings)
-- [What do I need to do to prepare for our kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-do-i-need-to-do-to-prepare-for-our-kickoff-with-caia)
+  - [What is the purpose of this document?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-the-purpose-of-this-document)
+  - [Why does my team need a kickoff meeting?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#why-does-my-team-need-a-kickoff-meeting)
+  - [How can I schedule a kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-can-i-schedule-a-kickoff-meeting-with-caia)
+  - [When are CAIA kickoff meetings?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#when-are-the-caia-kickoff-meetings)
+  - [What do I need to do to prepare for our kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-do-i-need-to-do-to-prepare-for-our-kickoff-with-caia)
 - [What is CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-caia)
 - [How we collaborate with your team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-we-collaborate-with-your-team)
 
@@ -19,6 +19,10 @@ This document is designed to serve as a guide for how the Centralized Content, A
 
 ## Why does my team need a kickoff meeting?
 After submitting an intake request form with CAIA is often a really good idea for our team to meet with yours to get a better understanding of how we can work together and collaborate most effectively. It also gives us an opportunity to ask any questions or clarify any details. And sometimes this information is a little hard to discern from an intake alone.
+
+A kickoff meeting is particularly useful if you and your team are working on a new product or phase that's going to benefit from a partnership with CAIA - for example, a new form, or a new tool. In which case, a kickoff is a great idea.
+
+If though you just need to request a small update to a page, URL, or content check, that's probably not going to require a kickoff meeting - though it may staill make sense to meet if the requirements are large and complex enough.
 
 ## How can I schedule a kickoff meeting with CAIA?
 After you have submitted your intake ticket, reach out to us in our [DSVA Slack chanel](https://dsva.slack.com/archives/C01K37HRUAH) and we can set something up. CAIA will create the meeting but leave it open for you to add whoever you need to from your team.
@@ -35,6 +39,19 @@ Reading through this document is a great start, particularly the section the exp
 
 - Have I invited everyone on my team who needs to be on the kickoff?
 - Do I have links to all my product/project artifacts such as Mural/Sketch files etc
+
+## Steps for kickoff
+Below is the process for setting up a CAIA kickoff meeting:
+
+1. Make sure you have submitted an intake request ticket using [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
+1. If you have worked with us before, or you are not launching a new product that is going through the collaboration cycle, then use this ["General Collab Request"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cstrelichl&labels=sitewide+CAIA&projects=&template=caia-general-collab-request.md&title=%5BCAIA+General+Support%5D%3A%3CTeam+name%3E%3CSupport+Needed%3E) ticket instead.
+1. Let us know in our [DSVA Slack Channel](https://dsva.slack.com/archives/C01K37HRUAH) that you have submitted an intake request ticket.
+1. Someone on the CAIA team will respond in that Slack channel and see if we need to spin up a kickoff meeting.
+1. Check the [CAIA Shared Calendar](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago) to find a time that works for you.
+1. Attend the kickoff with CAIA!
+
+## What are the outcomes of the kickoff with CAIA?
+During the kickoff meeting we'll get too know more about your team and what it is you'd like to partner with CAIA on. At the end of the meeting, we'll hopefully be able to determine what the next steps are for your team, and from the CAIA team. 
 
 # What is CAIA?
 The Content, Accessibility, and Information Architecture team includes experts in 3 key areas, plus delivery. We work together to partner with your team throughout the lifecycle of your product.
