@@ -55,9 +55,9 @@ Data collection will be remote and conducted using Zoom.
 
 We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
 
-- Tuesday, 12/5/22 11am EST
-- Tuesday, 12/5/22 11:30am EST
 - Tuesday, 12/5/22 2pm EST
+- Tuesday, 12/5/22 3pm EST
+- Wednesday, 12/6/22 11:30am EST
 
 
 ### Recruitment criteria
@@ -108,6 +108,14 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 
 
 ## Timeline
+
+### Recruitment approach with Perigean
+
+We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
+
+- Tuesday, 12/5/22 2pm EST
+- Tuesday, 12/5/22 3pm EST
+- Wednesday, 12/6/22 11:30am EST
 
 ### Prepare
 Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.
