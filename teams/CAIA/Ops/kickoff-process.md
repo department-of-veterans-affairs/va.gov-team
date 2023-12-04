@@ -52,11 +52,13 @@ Maintain the VA.gov content style guide and help align content across the VA.gov
 What does CAIA IA do?
 Teams are rightfully focused on designing and releasing their specific thing, but they often don’t have time or context to dig into the broad IA implications for their new or changed product. 
 CAIA IA makes sure that Veterans and family can find the products, and that the overall IA of the site directs them to their top needs. When a new product launches, we help with the following:<br>
-User journey, entry points, and important relationships: What triggers a veteran/user needing this product, and how will they know it exists and find it? What areas on the site will link to this product? What other products or pages should crosslink to this product?
-Page placement: where will the page live in our va.gov sitemap and why?
-URLs and Breadcrumbs: what should the URL be and why?
-Redirects: is this product replacing a page that we need to redirect? Note that if we are redirecting content or tools from legacy pages (eBenefits, the ‘old’ VA websites), a lot of stakeholder coordination is needed with those folks. Connect with those stakeholders early!
-Best Bets: If you go to va.gov/search and type in ‘pension’, you’ll see 2 results under “our top recommendations”.  We can help set up which URLS appear under top recs for different keywords, helping your page be more findable in search results.<br>
+- User journey, entry points, and important relationships: What triggers a veteran/user needing this product, and how will they know it exists and find it? <br>
+- What areas on the site will link to this product? What other products or pages should crosslink to this product?<br>
+- Page placement: where will the page live in our va.gov sitemap and why?<br>
+- URLs and Breadcrumbs: what should the URL be and why?<br>
+- Redirects: is this product replacing a page that we need to redirect? <br>
+Note that if we are redirecting content or tools from legacy pages (eBenefits, the ‘old’ VA websites), a lot of stakeholder coordination is needed with those folks. Connect with those stakeholders early!
+- Best Bets: If you go to va.gov/search and type in ‘pension’, you’ll see 2 results under “our top recommendations”.  We can help set up which URLS appear under top recs for different keywords, helping your page be more findable in search results.<br>
 <br>
 ### How CAIA can help your team with accessibility
 <details><summary>Toggle to view additional details about this section</summary>
