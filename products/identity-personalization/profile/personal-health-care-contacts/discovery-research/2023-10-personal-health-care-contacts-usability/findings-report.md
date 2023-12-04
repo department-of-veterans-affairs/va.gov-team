@@ -69,7 +69,10 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 - 4 participants navigated directly to profile on VA.gov
 - 2 participants attempted to navigate to the My HealtheVet profile (as they related it to health) but at "second guess" went to the VA.gov profile 
 - 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information
-- 1 participant was confused by staging user name in the authenticated menu and could not locate information in profile 
+- 1 participant was confused by staging user name in the authenticated menu and could not locate information in profile
+
+<img width="1114" alt="Screenshot 2023-12-04 at 12 22 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/b263346b-fe69-455e-82eb-6e9503903711">
+
 
 ---
 
@@ -110,6 +113,24 @@ P6: "Man that’s horrible! You should be able to do it on the website."
   
 <img width="690" alt="Screenshot 2023-12-04 at 11 58 17 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/dc347285-4ac4-4b54-a314-89d3b8dc2e72">
 
+### 7) Some (have to get numbers) participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
+
+### 8) (Most) Participants wanted "relationship" listed as well as "Home and Mobile" phone numbers.
+
+- Participants specifically talked about the importance of adding these data points so the VA would have more context when reaching out to the person.
+- One participant brought up the importance of labeling a home phone so that no one would accidentally try to send a text message to that number.
+- 2 participants expected all the information that the VA has on file about emergency contacts and next of kin to be displayed on the Personal health care contacts page
+
+P7: “Whatever information that I gave them that I thought as enough to be able to get ahold of them.” 
+
+P8: “you're going to have to provide a wealth of information to get in touch with them”
+
+
+### 9) It was clear to participants that both Medical Emergency contact and Next of kin contact are related only to health care.
+
+### 10) Medical" in Medical emergency contact caused some confusion with participants. However, all participants understood the term Emergency contact.
+
+- At least two participants thought Medical emergency contact was a contact they could reach out to if they had an emergency and needed assistance right away, similar to 911.
 
 ## Additional Insights
 ### 
