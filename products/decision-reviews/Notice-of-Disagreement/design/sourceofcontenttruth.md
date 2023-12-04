@@ -686,7 +686,7 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 VA Form 10182 (Notice of Disagreement)
 
-## Step 4 of 4: Review your requestc
+## Step 4 of 4: Review your request
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
