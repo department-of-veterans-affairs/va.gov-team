@@ -733,19 +733,23 @@ Postal code
 ### Issues for review
 
 ##### Request an extension [Edit]
-Are you requesting an extension **Yes**
+Are you requesting an extension? **blank/No/Yes**
 
 Reason for extension **Added reason for extension**
 
-##### Denial of VA health care benefits [Edit]
-Are you appealing a denial of VA health care benefits? **Yes**
+##### Appealing denial of VA health care benefits [Edit]
+Are you appealing a denial of VA health care benefits? **blank/no/Yes**
 
 #### Issue for review [Edit]
 
 ##### Issue
+Service connection for Issue is (not) granted with an evualuation of #% effecitive [date].
+
+Current rating: **#%**
+
 Decision date: **XX X, XXXX**
 
-##### Disagreement with issue decision on decision date [Edit]
+##### Disagreement with Issue decision on decision date [Edit]
 The service connection **Selected**
 
 Something else: **A few words**
