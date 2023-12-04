@@ -18,7 +18,7 @@ Feature Toggles:
 - [x] Address Validator in Lighthouse is ready for use (backend)
 
 #### Content Preparation
-- [ ] New landing page content has been reviewed for accuracy and approved by stakeholders
+- [x] New landing page content has been reviewed for accuracy and approved by stakeholders
 - [ ] The react widget has been added to the landing page
 - [ ] Entry points have been redirected to the landing page
 
@@ -52,7 +52,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 ## Staged Rollout Details
 
 - Rollout date range: 12/12-12/18
-- Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
+- Limited production access will be controlled through the frontend feature toggle `find_a_representative_enable_frontend` 
 - Lindsay will monitor metrics (detailed below) for relevant insights
 - Errors will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
@@ -70,36 +70,26 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ### Staged Rollout Metrics
 
-_Links to dashboard(s)_
+_Links to Datadog and Sentry dashboard(s)_
 
 The following metrics will be considered before advancing rollout to the next stage:
 
-1. Bounce rate for `/find-rep`
-2. Unique page views
-3. Number of searches
-4. Average number of searches per user 
-5. % of searches that do not return results 
-6. Errors in Sentry
-7. Errors in DataDog
+1. Errors in Sentry
+2. Errors in DataDog
 
 
 ### Stage A Results
 
-- Bounce rate for `/find-rep`:
-- Unique page views:
-- Number of searches:
-- Average number of searches per user:
-- % of searches that do not return results:
-- Errors logged in Sentry:
-- Errors logged in DataDog:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+1. Errors in Sentry:
+2. Errors in DataDog:
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ***
 
 
 ## Post Launch Metrics
 
-_Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal._
+_Links to Google Analytics and DOMO dashboards_
 
 
 ### 1-Week Results
