@@ -1,5 +1,42 @@
 # Design Weekly Sync Agenda
 
+## 2023-12-04
+Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
+
+EZ/R issues discussed
+- Research Synthesis
+    - Findings were not launch blocking
+    - Every participant had minor hiccups and things they would like to clarify but it is not consistent location where that occurs. 
+- Status, PendingMT is Post MVP
+    - Content has looked at the info.
+    - For MVP, we will skip the financial information if they already done the Means Test.
+- Education Expenses question verbiage
+    - Team found that education expense verbiage is awkward.
+    - Jessica notes that it is more about dependent age vs dependent income. Currently, the conditional is based on the depedent's age when it should be around the dependent's income.
+    - The main question: how is this information impacting the veteran health care?
+- EC/NOK
+    - There is a max/min number of EC and NoK within the Enrollment System?
+    - Alex notes that we're should start with only one EC/NoK
+    - Question for dev: does it wipe the data of the previous one when you ending a new one?
+- Save-in-progress
+    - Update for Kristen; the team wants to appoarch this problem and solve it correctly the first time.
+    - Note for Frontend stating that feature flag does not work here since the team does not have access to the the form data functions. We should consider CodePin.
+    - Angela to clarify the feature flag with Matt Long.
+    - Kristen ask if this can be tested with other feature of the EZR? The team notes that is the intention.
+- EZ Intro Page
+    - Flagged by platform because it has subway stepping component. There is a recommendation to go towards the current, shorter introduction page standard.
+    - Current Alert is flagged because it is not in current form library. But this alert pushes the user to sign in to get current status.
+    - Kristen: Did the 526 dropped the Alert from the top? Conceptually, the layout is the same the 10-10 team. Jessica will look into that.
+
+Registration issues discussed
+- Registration Tree Test
+    - 35 test completed
+    - Team starting to synthesis the study.
+    - Not much succecss with where we hypothesize.
+    - The testers wants an apointment schedule as part of the process.
+    - VS is excited with the disability section.
+
+
 ## 2023-11-27
 Attendees: Angela, Jessica, Hieu, Katelyn, Kristen, and Alex
 
