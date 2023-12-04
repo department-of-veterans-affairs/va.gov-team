@@ -48,6 +48,7 @@ This parameter is optional.
                 "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
                 "name": "topic 1",
                 "displayName": "topic 1",
+                "rankOrder": 999,
                 "parentId": "a6c3af1b-ec8c-ee11-8178-001dd804e106"
             },
             {
@@ -56,6 +57,7 @@ This parameter is optional.
                 "id": "c8c3af1b-ec8c-ee11-8178-001dd804e106",
                 "name": "topic 2",
                 "displayName": "topic 2",
+                "rankOrder": 999,
                 "parentId": "d9c3af1b-ec8c-ee11-8178-001dd804e106"
             },
         ] 
@@ -68,3 +70,5 @@ This parameter is optional.
 </table>
 
 ## Notes
+
+* Topics sorted by rank for categories, as most popular order. New UI will sort by rank, then alpha, where Rank = NULL for alphabetical, then Rank = 999 for Other. Shouldn’t be extra effort. JD: if we start putting the 999 into other, could change the current portal’s roll-out. Avoid sort inconsistencies on the existing portal if the new portal cannot be rolled out. RankOrder. Add that to schema. (JH: Done)
