@@ -77,38 +77,12 @@ Before we go to the prototype, let’s start with a few warm-up questions.
   - _If not mentioned:_ How is travel reimbursement similar or different to the other claims?
 
 
-## Task #1: BTSSS status questions - 10 minutes
-
-_**Note:** Use inclusive language as much as possible. If the participant is blind or low-vision, the moderator can still share their screen to help observers follow along, but explain this to the Veteran._
-
-- Thank you! Now we’re going to go through some terms that relate to travel reimbursement claim statuses.
-- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claim statuses at different steps in the submission and review process. 
-- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past, so you might recognize these from when you last filed a travel reimbursement claim.
-- And remember, there are no right or wrong answers.
-- Ok, so if you’re ready we can get started with the first term.
-- (_for non-screen reader users_) I’ll go ahead and share my screen
-
-_Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
-
-_Complete the following with all 11 statuses:_
-
-- Ok, so the (first/next/last) term is _____
-  
-  - What does this mean to you (in the context of the status of a travel reimbursement claim)?
-  - Is there anything confusing about this term?
-    - _Optional:_ What would you call it instead?
-  - How important is it for you to know this claim status (during the travel reimbursement process)?
- 
-_After going through all terms_
-- Were there any other terms you expected to be here that were not included?
-
-_When complete_
-- Thank you! That concludes that activity. Now we'll move on to the prototype.
+-------
 
 
-## Task #2 - Usability Testing - 20 minutes
+## Task #1 - Usability Testing - 20 minutes
 
-- Ok, so now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
+- Ok, thank you! So now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 - Do you have any questions about that before we get started?
 - Ok, I’m sending you the prototype link in the [chat/email]. 
@@ -259,8 +233,34 @@ _**On details page:**_
 
 ----
 
+## Task #2: BTSSS status questions - 10 minutes
+
+- Thank you! That’s everything we need to go through in the prototype. Now we’re going to go through some terms that relate to travel reimbursement claim statuses.
+- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claim statuses at different steps in the submission and review process. 
+- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past, so you might recognize these from when you last filed a travel reimbursement claim.
+- And remember, there are no right or wrong answers.
+- Ok, so if you’re ready we can get started with the first term.
+- (_for non-screen reader users_) I’ll go ahead and share my screen
+
+_Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
+
+_Complete the following with all 11 statuses:_
+
+- Ok, so the (first/next/last) term is _____
+  
+  - What does this mean to you (in the context of the status of a travel reimbursement claim)?
+  - Is there anything confusing about this term?
+    - _Optional:_ What would you call it instead?
+  - How important is it for you to know this claim status (during the travel reimbursement process)?
+ 
+_After going through all terms_
+- Were there any other terms you expected to be here that were not included?
+
+
+-------
+
 ## Post-Task Interview - 1-2 minutes
-- Ok, thank you! That’s everything we need to go through in the prototype.  
+- Ok, thank you! That concludes that activity and is everything we need to go through today.  
 - Do you have any questions for me or anything else you’d like to share?
 
 ## Thank you and Closing - 1 minute
