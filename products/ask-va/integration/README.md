@@ -44,7 +44,7 @@ Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | ⬜ | ⬜ | design | | 
 Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | ⬜ | ⬜ | design | |
 Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | Dynamics | ⬜ | ⬜ | design |  | 
-Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟦 | ⬜ | design | |  
+Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | ⬜ | ⬜ | design | |  
 Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | ⬜ | ⬜ | design |  | 
 Dashboard | [PUT /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.md) | Dynamics | ⬜ | ⬜ | design |  | 
 Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | ⬜ | ⬜ | design | | 
