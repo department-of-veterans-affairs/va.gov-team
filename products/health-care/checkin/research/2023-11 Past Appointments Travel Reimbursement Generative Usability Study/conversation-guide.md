@@ -244,9 +244,10 @@ _**Participant is on details page for second appointment:**_
 _**OPTIONAL: if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a fourth appointment (appointment with dot indicator).**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
-  - _(non-screen reader users):_ Did you notice the dot with the 1 task to complete?
+- _(non-screen reader users):_ Did you notice the dot with the 1 task to complete?
   - What does it seem like that's referring to?
-  - _(screen-reader users)_: Did you notice anything indicating there might be something to do for an appointment? What does it seem like that's referring to?
+- _(screen-reader users)_: Did you notice anything indicating there might be something to do for an appointment?
+  - What does it seem like that's referring to?
 
 _**On details page:**_
 - Is there anything confusing about this page and the information included here?
