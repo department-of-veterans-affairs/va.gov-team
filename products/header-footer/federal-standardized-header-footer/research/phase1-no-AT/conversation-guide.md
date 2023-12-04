@@ -238,7 +238,7 @@ Let's say that you're considering going back to school to get your degree, and y
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
 - *(If didn't use Find a Form)* Is there another way that you could do this task from this web page?
-- *(If need more prompting)* You're looking for the application to fill out on line.
+- *(If need more prompting)* You're looking for the application to fill out online.
 
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
@@ -277,7 +277,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *(If needed, prompt participant to use Login.gov, click to enter info)*
 
-*(See* Chris *or* Sign Out *in top right corner)*
+*(See previous page and* Chris *or* Sign Out *in top right corner)*
 
 *RECORD navigation: **Sign in > Chris OR Menu > Profile***
 
