@@ -80,19 +80,17 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 ## Details of Findings 
 
 
-**Veterans prefer Live Chat to calling**
+**Veterans prefer Live Chat in the majority of situations**
 
-Veterans prefer Live Chat to calling when they have general questions on VA services and benefits; regarding routine medical care, benefits, mortgage or small business loans, etc. 
 A hypothesis we had was that Veterans may find Live Chat to be inadequate in sensitive or stressful situations. However, we found Veterans prefer Live Chat in the majority of situations they tend to reach out to VA for. 
+
 Matching what we heard from Live Agents, Veterans shared that sensitive topics can actually be easier to discuss through Chat than by phone since it allows the Veteran the ability to take their time responding as needed, yet there is still a human on the other side who can empathize with their situation.
 Calling in to VA can take up to an hour or more at times, and the Veteran may have to sacrifice this time while on hold. However, if the Veteran is on Live Chat, they are able to multitask, which is advantageous to Veterans who are engaged in their workday or caring for their families.
 Veterans shared some inquiries are complex or very detailed and may require a discussion over the phone. There was consensus among the Veterans that they would prefer to hear directly from their medical providers since they have awareness of their history. 
-Another use case a Veteran mentioned was in regards to payment information. If the Veteran needs to disclose their account and routing number, they would be more comfortable providing these details over the phone. 
 
 > _“During work hours it is more convenient to Chat versus wait on the phone. I can do other things while I’m on Chat.” - Veteran Interview 3_
 
 > _“Anything medical wise I would like to hear directly from my physician or nurse since they know me…It’s more comfortable for me to hear directly from my health care team because I can hear tones and inflections in their voice.” - Veteran Interview 5_
-
 
 **All the Veterans raised concerns about privacy and security.**
 
