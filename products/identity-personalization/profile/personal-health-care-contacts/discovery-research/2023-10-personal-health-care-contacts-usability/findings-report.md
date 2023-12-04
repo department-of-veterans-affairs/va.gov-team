@@ -55,16 +55,22 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 
 ## Key Findings
 1. 
+2. 
 
 ## Details of Findings 
-### 1) Starting from the unauthenticated state of VA.gov landing page, participants expected that they would need to sign in to view their "medical emergency contact" and "next of kin" information on file. 
+### 1) Starting from the unauthenticated state of VA.gov landing page, participants expected that they would need to sign in to view their "Medical emergency contact" and "Next of kin" information on file. 
 
-We 
+The majority of participants were able to recognize and articulate how they would start that process.
 
 ---
 
-### 2) 
+### 2) 6 of 8 participants sought information about "Medical emergency contact" and "Next of kin contact" within their VA.gov profile. 
 
+- 4 participants navigated directly to profile on VA.gov
+- 2 participants attempted to navigate to the My HealtheVet profile (as they related it to health) but at "second guess" went to the VA.gov profile 
+- 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information
+  
+- 1 participant was inconclusive as they were confused by staging user name in the authenticated menu. 
 
 
 ---
