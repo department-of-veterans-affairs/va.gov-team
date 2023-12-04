@@ -1,15 +1,17 @@
 name: Figma Access Request
-description: To request access to Figma
-title: Figma access for [individual]
-labels: []
+description: Request access to Figma
+title: "Figma access for [individual]"
+labels: ['figma-access-request']
+assignees: 
+  - naomimarcussen
 body:
   - type: markdown
     attributes:
-  
+      value: Complete this form to request access to Figma.
   - type: input
     id: requestor-name
     attributes:
-      label: Your Name
+      label: Name
       description: Please provide the name of the person requesting access
       placeholder: Jane Doe
     validations:
@@ -17,42 +19,35 @@ body:
   - type: input
     id: email
     attributes:
-      label: Your Email
+      label: Email
       description: Please provide the work email for the person requesting access
       placeholder: jane.doe@company.com
     validations:
       required: true
   - type: input
-    id: team-name
+    id: requestor-role
     attributes:
-      label: Team, Role, and Company of the target individual
-      description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
-      placeholder: Team Moose, Antler Development, Alces LLC
+      label: Role
+      description: Please provide the role of the person requesting access
+      placeholder: FE Engineer
     validations:
       required: true
   - type: input
+    id: team-name
     attributes:
-      label: Product Manager (PM) name and email
-      description: Provide the name and email of the Product Manager working with the person requesting access
+      label: Team
+      description: Please provide the name of the team
+      placeholder: Profile Team
     validations:
       required: true
-  
-  - type: textarea
-    id: figma-access
+  - type: input
+    id: pm-name
     attributes:
-      label: Desired Figma Access
-      description: Please list which role in Figma you are requesting (viewer-restricted or editor) Learn more about Figma roles (insert link to Figma accounts at the VA when published).
-      placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
-  
+      label: Product Manager (PM) name 
+      description: Provide the name of the Product Manager working with the person requesting access
+    validations:
   - type: textarea
     id: additional-notes
     attributes:
       label: Additional Notes
       description: Use this section to add notes.
-      placeholder: I need this access because of <reason>
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
-        

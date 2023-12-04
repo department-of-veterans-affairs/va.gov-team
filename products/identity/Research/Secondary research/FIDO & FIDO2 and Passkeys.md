@@ -1,35 +1,30 @@
+# FIDO & FIDO2 and Passkeys.md
 
-
-Date: 11/29/2023
-
-Joshua Matulonis - josh.matulonis@oddball.io
-
-[Associated Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?sender=u4dc1c26b5a09e4d460e45806)
+- Date: 11/29/2023
+- Joshua Matulonis - josh.matulonis@oddball.io
+- [Associated Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?sender=u4dc1c26b5a09e4d460e45806)
 
 
 **Jump to:**
 
 
-[Introduction](#Introduction)
-
-[Passkeys](#Passkeys)
-
-[FIDO](#FIDO)
-
-[Government Use of FIDO](#Government_Use_of_FIDO)
-
-[Appendix](#appendix)
+- [Introduction](#Introduction)
+- [Passkeys](#Passkeys)
+- [FIDO](#FIDO)
+- [Government Use of FIDO](#Government_Use_of_FIDO)
+- [Barriers to Adoption & Research Recommendations](#Barriers_to_FIDO/Passkey_Adoption)
+- [Appendix](#appendix)
 
 
 
 # Introduction
 The adoption of passwordless methods for authentication is growing.
 
-Gartner projects that multiprotocol “mobile MFA” apps will become mainstream in the next 12 to 18 months (2024), facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
+Gartner projects that multiprotocol “mobile MFA” apps will become mainstream by the end of 2024, facilitating the transition to FIDO2 as the preferred approach and enabling passwordless MFA.
 
 Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage is frustrating as passwords are frequently forgotten and account access is lost.
 
-FIDO2 is a new open web standard that offers a promising approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices, such as security keys. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
+The FIDO Alliance has created solutions for overcoming the limitations of passwords. FIDO can be used in 1FA and/or MFA to replace passwords with stronger and more convenient authentication methods, such as biometric authentication (e.g., fingerprint or facial recognition) or security keys. This can help to reduce the risk of account takeovers, as biometrics and security keys are more difficult to phish or steal than passwords. FIDO2 is a new open web standard that offers a unique approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
 
  FIDO2 also offers a number of other benefits over passwords, including: 
  
@@ -87,7 +82,7 @@ The user on the client (”Sign in with a passkey” button) sequence for passke
    - User prompted for verification with a biometric or a PIN and using a stored passkey to sign the challenge. 
    - The signed challenge as well as the username and the credential ID of the used passkey are returned by the function.
 3. Finalize passkey authentication : Client sends signed challenge, username, and credential ID back to the server. 
- - The server checks if the username and credential ID are known.
+   - The server checks if the username and credential ID are known.
    - If known, server uses public key to check the validity of the signed challenge. 
    - If the signed challenge can be successfully verified by the public key, the server can safely assume that the user was in possession of the passkey and create a session or hand out an authorization token.
 
@@ -97,7 +92,7 @@ The user on the client (”Sign in with a passkey” button) sequence for passke
 The FIDO Alliance (founded in 2011) is a consortium of hundreds of organizations worldwide with the goal to improve online security. 
     - Members include Google, Facebook, Microsoft, Amazon, VISA, and the World Wide Web Consortium (W3C).
 
-Billions of users have reviewed their specifications, with FIDO U2F, a protocol for a phishing-proof second factor (mostly physical security keys)(also uses passwords for first authentication factor) being widely supported and rolled out at nearly all major identity providers. 
+Billions of users have reviewed their FIDO U2F specs, a protocol for a phishing-proof second factor (mostly physical security keys)(also uses passwords for first authentication factor) being widely supported and rolled out at nearly all major identity providers.
 
 The FIDO Alliance then developed a system combining the proof-of-possession factor of U2F with the device’s unlock mechanisms and biometrics, which is how WebAuthn was born.
 
@@ -124,7 +119,7 @@ The FIDO Alliance then developed a system combining the proof-of-possession fact
     - User is signed in.
 
 ## FIDO Authentication Features
-FIDO Authenticators categorized by user interactions:
+FIDO Authenticators categorized by user interactions (link to [Likelihood to Cause Accessibility Challenges Matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?wid=0-1699281032419):
 - Touch
   - Touch security key for user presence check
 - Type
@@ -190,7 +185,7 @@ The process for setting up FIDO2 at login.gov:
 - Selecting “Remember Device” prevents MFA need on that device for 30 days.
 
 
-## Barriers to FIDO/Passkey Adoption
+# Barriers to FIDO/Passkey Adoption
 1. Users are lacking mental models and knowledge about the security of passwordless authentication including:
    - FIDO protocols are designed from the ground up to protect user privacy. 
    - The protocols do not provide information that can be used by different online sites to collaborate data and track users. 

@@ -148,7 +148,7 @@ _Send [Prototype link](https://codepen.io/team/va-cie/live/bGOmjGe)_
 _**Participant starts at Email:**_
 
 - Now, imagine you just received this email from VA about filing for travel reimbursement after two visits to your VA Medical Center on November 13th, 2023. 
-- Go ahead and review it.
+- Go ahead and review it. (and feel free to think out loud as you go)
 - Is there anything that's confusing about this information?
 - How does this compare to what you’d expect to be in an email like this?
 - Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here. 
@@ -212,10 +212,10 @@ _**Participant is on success page:**_
 - How is this similar to or different from what you expected?
   - _Things to watch for: Do they understand what their travel reimbursement status is and what it means?_
 - Did you notice this claim mentions two appointments? Why do you think that is?
-  - _If needed:_ Why do you think the second appointment is listed here when you've only gone through the process filing a travel reimbursement claim once? 
+  - _If needed:_ Why do you think the second appointment is included here when you've only gone through the process of filing a travel reimbursement claim once? 
   - _Things to watch for: Do they understand the second appointment is part of the same claim?_
 - Ok, and what would you expect to happen next with your claim?
-- If you still had questions right now, how you would find out more about your claim?
+- If you still had questions right now, how would you find out more about your claim?
 
 
 [**_If participant selects "Review your claim" link_**]
@@ -241,7 +241,7 @@ _**Participant is on details page for second appointment:**_
 
 ----
 
-_**OPTIONAL: if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a third appointment (appointment with dot indicator).**_
+_**OPTIONAL: if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a fourth appointment (appointment with dot indicator).**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
 - _If needed:_
@@ -250,10 +250,11 @@ _**OPTIONAL: if the participant hasn’t gone to a details page for an appointme
 
 _**On details page:**_
 - Is there anything confusing about this page and the information included here?
-- _(Non-screen reader users)_ Thinking back to the dot with the 1 task to complete? What does it seem like that was referring to?
+- _(Non-screen reader users)_ Thinking back to the dot with the 1 task to complete, what does it seem like that was referring to?
 - _(Screen reader users - if not yet addressed earlier on)_ Tell me about how this page reads out. Is there anything that's different from what you expected?
   - _Things to watch for: Is there confusion around the detail page H1_
-- And what would you do next from this page? 
+- _(Screen reader users)_ And thinking back to the indication that there's something to do for this appointment, what does it seem like that was referring to?
+- What would you do next from this page? 
 
 ----
 
@@ -264,7 +265,7 @@ _**On details page:**_
 ## Thank you and Closing - 1 minute
 - Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-- Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+- Thanks! And lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans who might be interested in participating in future research studies as well.
 
 - Thank you so much again, and enjoy the rest of your day!
 

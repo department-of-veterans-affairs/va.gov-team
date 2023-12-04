@@ -243,7 +243,7 @@ Let's say that you're considering going back to school to get your degree, and y
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
 
-*RECORD navigation: header > megamenu > Careers and employment / **footer > Careers at VA** / search / mobile search*
+*RECORD navigation: header > megamenu > Careers and employment > Find VA careers and support / **footer > Careers at VA** / search / mobile search*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
