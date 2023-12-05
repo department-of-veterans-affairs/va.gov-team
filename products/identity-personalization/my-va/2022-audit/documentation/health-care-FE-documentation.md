@@ -107,7 +107,7 @@ To manage your health care at these facilities, go to My VA  Health:
 - (**Health care facility name**)
 - (**Health care facility name**)
 
-[Go to My VA Health](https://patientportal.myhealth.va.gov/clear-session?to=https%3A%2F%2Fstaging-patientportal.myhealth.va.gov%3Fauthenticated%3Dtrue)
+[Go to My VA Health](https://patientportal.myhealth.va.gov/)
 
 Having trouble opening My VA Health?
 
