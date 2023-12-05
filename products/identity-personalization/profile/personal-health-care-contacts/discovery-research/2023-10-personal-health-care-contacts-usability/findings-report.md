@@ -76,14 +76,11 @@ After signing in/or articulating that process:
 
 ### 2) Once on the Profile Hub, the majority of participants were able to navigate to the "Personal health care contacts" section of the profile with relative ease.
 
-Participants went to the "Personal health care contacts"  
-
-- 6 participants navigated with ease (some relying on hint text)
-- 1 participant went "Contact information" first before navigating to "Personal health care contacts" page
-
-*Note* 2 participants were having technical challenges during this portion of the study
+6 of 7 participants went to the "Personal health care contacts" to view their emergency contact and next of kin information (2 participants were having technical difficulty). 1 participant went to the "Contact information" section of profile before heading to the "Personal health care contacts" page. 
 
 > The first thing I think is to go to profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
+
+> "OK there we go. "Personal health care contacts" saw it right away - P8
 
 ![screencapture-staging-va-gov-profile-2023-12-04-11_41_05](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ad4a64d3-01dd-4810-83d5-92b593538dbd)
 
