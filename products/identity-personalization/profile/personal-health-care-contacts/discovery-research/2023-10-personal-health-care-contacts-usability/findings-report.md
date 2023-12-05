@@ -90,7 +90,7 @@ Two participants thought Medical emergency contact was a contact they could reac
 
 > It means I would have access - quick access - to the VA to be able to get a hold of someone to be able to talk to them right away. - P1
 
-> Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. 
+> Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. - P3 
 
 <img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba00b3e3-2b3b-4a34-8c3a-700265065709">
 
