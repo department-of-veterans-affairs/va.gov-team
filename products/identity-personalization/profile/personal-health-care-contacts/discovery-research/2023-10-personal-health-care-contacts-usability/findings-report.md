@@ -65,9 +65,9 @@ When asked how a participant would ensure the VA has the correct information on 
 
 After signing in/or articulating that process: 
 
-- 4 participants navigated directly to the Profile hub (sign in > Profile > Profile Hub) 
+- 4 participants navigated directly to the Profile hub (sign in > Profile > Profile Hub)
 - 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov profile
-- 1 participant "keyword forged" the landing page and used the mega menu to navigate to the healthcare hub section. After, not finding what they were looking for, they went to profile.
+- 1 participant "keyword forged" the landing page and used the mega menu to navigate to the healthcare hub section. After, not finding what they were looking for, they went to profile
 - 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information and navigate to profile
 - 1 participant was confused by the staging user name in the authenticated menu and could not locate information in profile
 
@@ -75,7 +75,7 @@ After signing in/or articulating that process:
 
 ### 2) Once on the Profile Hub, the majority of participants were able to navigate to the "Personal health care contacts" section of the profile with relative ease.
 
-6 of 7 participants went to the "Personal health care contacts" to view their emergency contact and next of kin information (2 participants were having technical difficulty during this portion of the study). 1 participant went to the "Contact information" section of profile before heading to the "Personal health care contacts" page. 
+6 of 7 participants went to the "Personal health care contacts" to view their emergency contact and next of kin information (2 participants were having technical difficulty during this portion of the study). 1 participant went to the "Contact information" section of profile first before heading to the "Personal health care contacts" page. 
 
 > The first thing I think is to go to profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
 
@@ -84,7 +84,16 @@ After signing in/or articulating that process:
 
 ---
 
-### 3) How did they understand EC and NOK (see note book)
+### 3) Most participants (7 of 9) understood the concept of Medical emergency contact. "Medical" in Medical emergency contact caused confusion with 2 participants. All participants understood the term Emergency contact. 
+
+Two participants thought Medical emergency contact was a contact they could reach out to at the VA if they had an emergency and needed assistance right away, similar to 911. When asked about the meaning of  "Emergency contact," these two participants comprehended it as the person to be contacted in case of an emergency." 
+
+> It means I would have access - quick access - to the VA to be able to get a hold of someone to be able to talk to them right away. - P1
+
+> Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. 
+
+<img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba00b3e3-2b3b-4a34-8c3a-700265065709">
+
 
 ---
 ### 4) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
