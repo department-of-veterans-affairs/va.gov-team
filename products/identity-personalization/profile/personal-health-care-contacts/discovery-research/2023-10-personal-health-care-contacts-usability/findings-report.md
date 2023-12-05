@@ -1,4 +1,4 @@
-# Personal Health Care Contacts Research Findings 
+# (WIP) Personal Health Care Contacts Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Cartographers**
 
@@ -99,21 +99,19 @@ When asked later in the session about Emergency contact,
 <img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba00b3e3-2b3b-4a34-8c3a-700265065709">
 
 ---
-### 4) Most participants (6 of 9) associated Next of kin with "family" and initially  did not differentiate between Medical emergency contact and Next of kin contact. However, once participants arrived on the "Personal health care contacts" page they relied on hint text to distinguish between the two concepts. 
+### 4) Most participants (6 of 9) associated Next of kin with "family" and initially  did not differentiate between Medical emergency contact and Next of kin contact (often viewing it as a family emergency contact). However, once participants arrived on the "Personal health care contacts" page they relied on hint text to distinguish between the two concepts. 
 
 > They are about the same thing, ain't it? - P2
 
-> P: Means to me anyone like a brother, sister, son, daughter that would be notified about a medical emergency other than a spouse.
->
-> M: Why not spouse?
->
-> P: Kin usually means blood - P4
+> Means to me anyone like a brother, sister, son, daughter that would be notified about a medical emergency other than a spouse. - P4 
 
+> In general terms, I would think it's the person to contact if something were to happen to me. However, Kin means family so I imagine it has to be some kind of blood relative, other than spouse or partner... - P8
 
+<img width="690" alt="Screenshot 2023-12-04 at 11 58 17 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba620a3f-5496-48b6-8b6b-a616559a9e9d">
 
+### 5) Participants expected or wanted a way to edit both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
 
-### 5) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
-All 9 participants expected or wanted this functionality
+All 9 participants expected or wanted functionality to edit and add contacts on the page. 
 
 P1: “well, I would expect information or instructions about how to be able to do it myself. IT's fine with me like this but it would be nice if I could do it myself on this website.”
 
@@ -121,9 +119,11 @@ P3: "You should be able to click on it to make a change and it should give you t
 
 P6: "Man that’s horrible! You should be able to do it on the website." 
 
+<img width="1046" alt="Screenshot 2023-12-05 at 4 34 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/029d71aa-ffb1-41e2-9c54-1b0fc51d0b91">
+
 ---
 
-### 5) Most participants wanted at least two Medical emergency contacts. 
+### 5) 9 of 9 participants wanted at least two Medical emergency contacts and most participants (7 of 9) 
 
 - 9 of 9 participants wanted multiple contacts listed in case the primary contact was not available. 
 
