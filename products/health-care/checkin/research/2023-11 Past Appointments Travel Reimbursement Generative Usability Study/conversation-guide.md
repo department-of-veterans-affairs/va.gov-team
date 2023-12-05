@@ -196,7 +196,8 @@ _**Participant is on success page:**_
 
 [**_If participant needs prompting to get to appointment list and details page_**]
   - And did you notice the "Review your past appointments" link? Go ahead and select that.
-  - And go ahead and select the link for the second appointment on the list.
+  - From here, how would you learn more about the status for the second appointment that day?
+    - _If needed:_ go ahead and select the link for the second appointment on the list.
  
 _**Participant is on details page for second appointment:**_
 
