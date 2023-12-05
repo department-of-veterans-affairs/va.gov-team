@@ -32,8 +32,14 @@ Consider bucketing research questions under research goals. For each question, t
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. I think the study may show that Veterans have a hard time finding the tool without using search, and that understanding of supply types is pretty good, but not sure that many Veterans will want other supply types to be on VA.gov, and if they do, they will likely want it to be a part of MHV on VA.gov
-- Remember to constrain the hypothesis to the goals of your study!
+
+The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. 
+
+Hypothesis 1: Veterans will identify a few pain points when using the current system. Also, some Veterans may have a hard time finding the tool without using search.
+
+ Hypothesis 2: Veteran understanding of supply types is pretty good, and only some Veterans will want other supply types to be avaialble to order on VA.gov, and if they do, they will likely want it to be a part of MHV on VA.gov
+
+
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
