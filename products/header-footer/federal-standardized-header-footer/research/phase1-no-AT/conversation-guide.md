@@ -62,10 +62,8 @@ Before we start, I want to go over a few things:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
-- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
-  
-  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image and name. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA online resources. These clips will not be shared outside of the VA. We don't know at this point if we will or won't do this, but I'd like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
-  - Knowing this, **would you be comfortable if we decided to use a clip of our session** to help our partners understand Veterans' experiences?
+- We like to record to confirm that we’ve captured your opinions accurately and may share video clips with our colleagues at the VA to show user feedback. We won’t link anything you choose to share in the session to any information that identifies you, and we’ll remove your face and name from any videos that we share.
+**Are you comfortable if I record my screen and audio as we talk today?**
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *Select Record, then Record to the cloud.*
@@ -221,6 +219,8 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
+*(NOTE: if wrong page ever opens, ask p to refresh page)*
+
 
 ### Task 4: [Learn about disability compensation]
 Pretend that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
@@ -237,7 +237,7 @@ Let's say that you're considering going back to school to get your degree, and y
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-- *(If didn't use Find a Form)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
 - *(If need more prompting)* You're looking for the application to fill out online.
 
 ### Task 6: [Careers at VA]
@@ -247,7 +247,7 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-- *(If didn't use footer)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
 
 ### Task 7: [Contact VA]
 Say that after using this website for a while, you didn't get all of your questions answered. How might you reach out to someone at the VA? 
@@ -262,7 +262,7 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
 
-- *(If didn't use footer)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
 
 *RECORD any feedback about the black/white footer area*
 
@@ -273,7 +273,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *RECORD navigation: **header > Sign in** / footer / search / mobile search*
 
-- *(If didn't use Sign in)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use Sign in)* Is there another way that you could do this task from this web page?
 
 *(If needed, prompt participant to use Login.gov, click to enter info)*
 
@@ -303,9 +303,9 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 ## Thank You and Closing - 3 minutes
 
-I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA online resources. 
-- **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
-- *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
+**Are you still okay if we use any video or audio clips from this session?** 
+- *(yes / no)*
+- *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
 **We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
