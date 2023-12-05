@@ -81,8 +81,9 @@ After signing in/or articulating that process:
 > The first thing I think is to go to profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
 
 > "OK there we go. "Personal health care contacts" saw it right away - P8
+<img width="713" alt="Screenshot 2023-12-04 at 9 57 08 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bc6bb558-5dd6-40eb-b9fa-23753bbf5017">
 
-<img width="713" alt="Screenshot 2023-12-04 at 9 57 08 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/23ab4d0b-b454-47f1-ad66-06c1a823f60e">
+
 
 ---
 
