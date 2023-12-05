@@ -169,7 +169,7 @@ The Content, Accessibility, and Information Architecture team, or CAIA, is a cro
 
 </details>
 
-### How we relate to the Collaboration Cycle
+### How CAIA A11ys relate to the Collaboration Cycle
 
 <details><summary>Toggle to learn how CAIA A11ys differ from the Collaboration Cycle</summary>
 
@@ -184,7 +184,7 @@ Note that CAIA can assist teams going through the Collaboration Cycle, but CAIA 
 
 </details>
 
-### Services we offer
+### Services CAIA A11ys offer
   
 What follows is a menu of the services we offer. No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the #accessibility-help or the #sitewide-content-accessibility-ia channels. You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on Zoom.<br>
 
