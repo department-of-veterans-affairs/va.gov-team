@@ -66,24 +66,24 @@ When asked how a participant would ensure the VA has the correct information on 
 After signing in/or articulating that process: 
 
 - 4 participants navigated directly to the Profile hub (sign in > Profile > Profile Hub) 
-- 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but At "second guess", this participant headed to the VA.gov profile
+- 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov profile
 - 1 participant "keyword forged" the landing page and used the mega menu to navigate to the healthcare hub section. After, not finding what they were looking for, they went to profile.
 ---
 - 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information and navigate to profile
 - 1 participant was confused by the staging user name in the authenticated menu and could not locate information in profile
 
-<img width="1114" alt="Screenshot 2023-12-04 at 12 22 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/b263346b-fe69-455e-82eb-6e9503903711">
-
-> The first thing I think is to go to profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
-
 ---
 
-### 3) The majority of participants understood the "Profile hub" page and used the "Personal health care contacts" section to navigate/view emergency contact and next of kin information. 
+### 2) Once on the Profile Hub, the majority of participants were able to navigate to the "Personal health care contacts" section of the profile with relative ease.
+
+Participants went to the "Personal health care contacts"  
 
 - 6 participants navigated with ease (some relying on hint text)
 - 1 participant went "Contact information" first before navigating to "Personal health care contacts" page
 
 *Note* 2 participants were having technical challenges during this portion of the study
+
+> The first thing I think is to go to profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
 
 ![screencapture-staging-va-gov-profile-2023-12-04-11_41_05](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ad4a64d3-01dd-4810-83d5-92b593538dbd)
 
