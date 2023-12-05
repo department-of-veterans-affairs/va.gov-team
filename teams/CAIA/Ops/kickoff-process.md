@@ -40,6 +40,9 @@ Reading through this document is a great start, particularly the section the exp
 - Have I invited everyone on my team who needs to be on the kickoff?
 - Do I have links to all my product/project artifacts such as Mural/Sketch files etc
 
+## When can I expect feedback from CAIA?
+The CAIA team partners with almost all teams across va.gov as well as other none OCTO VA partners and so we usually have a lot in our pipeline at any given time. That said, if your work is tied to a Congressionally mandated timeline then that work will be prioritized, otherwise CAIA has to prioritize your request with the rest of our work. We will always endeavor to accommodate teams as best we can though.
+
 ## Steps for kickoff
 Below is the process for setting up a CAIA kickoff meeting:
 
