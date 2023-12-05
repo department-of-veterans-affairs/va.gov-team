@@ -1,6 +1,6 @@
 # Ask VA statuses and triggers
 
-Last updated by @beckyphung on November 6, 2023
+Last updated by @tygindraux: December 5, 2023
 
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
@@ -11,7 +11,9 @@ This documents describes different Ask VA inquiry statuses and when they are ass
 
 ## Statuses and when they are displayed
 
-We'll display these statuses and descriptive text in Ask VA when it moves to VA.gov. We've revised the [legacy statuses](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). The triggers will remain the same, but they might be revisited in the [future]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-work)).
+We'll display these statuses and descriptive text in Ask VA when it moves to VA.gov. We've revised the [legacy statuses](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). On December 5, 2023, Laura from CAIA reviewed the statuses to ensure they align with other statuses on VA.gov.
+
+The triggers will remain the same, but they might be revisited in the [future]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-work)).
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
