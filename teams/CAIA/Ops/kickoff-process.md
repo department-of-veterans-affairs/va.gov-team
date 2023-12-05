@@ -23,30 +23,32 @@ This document is designed to serve as a guide for how the Centralized Content, A
 
 ## Why does my team need a kickoff meeting?
 
-After submitting an intake request form with CAIA is often a really good idea for our team to meet with yours to get a better understanding of how we can work together and collaborate most effectively. It also gives us an opportunity to ask any questions or clarify any details. And sometimes this information is a little hard to discern from an intake alone.
-
-A kickoff meeting is particularly useful if you and your team are working on a new product or phase that's going to benefit from a partnership with CAIA - for example, a new form, or a new tool. In which case, a kickoff is a great idea.
-
-If though you just need to request a small update to a page, URL, or content check, that's probably not going to require a kickoff meeting - though it may staill make sense to meet if the requirements are large and complex enough.
+After submitting [an intake request form with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) it is often a really good idea for our team to meet with yours to get a better understanding of how we can "kickoff" our work together and collaborate, most effectively. 
+- It also gives us an opportunity to ask, and answer, any questions - or clarify details. Sometimes, this information is a little hard to discern from an intake form, alone.
+- A kickoff meeting is particularly useful if you and your team are working on a new product or phase that's going to benefit from a partnership with CAIA - for example, a new form, or a new tool. In which case, a kickoff is a great idea.
+- If, though, you just need to request a small update to a page, URL, or content check, that's probably not going to require a kickoff meeting; however, it may still make sense to meet, if the requirements are large and complex enough.
 
 ## How can I schedule a kickoff meeting with CAIA?
 
-After you have submitted your intake ticket, reach out to us in our [DSVA Slack chanel](https://dsva.slack.com/archives/C01K37HRUAH) and we can set something up. CAIA will create the meeting but leave it open for you to add whoever you need to from your team.
+After you have submitted your [CAIA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) ...
+- [ ] Reach out to us in our [DSVA Slack chanel](https://dsva.slack.com/archives/C01K37HRUAH), and we can set something up. 
+- [ ] CAIA will create the initial meeting; however, we will leave it open for you to include whomever you need, from your team.
 
-Please also note that due to the volume of teams we work with, please aloow at least a week for us to get prepped for our meeting.
+_Please also note that due to the volume of teams we work with, please allow at least a week for us to get prepped for the meeting._
 
 ## When are the CAIA kickoff meetings?
 
-The CAIA Team have a regular weekly slot for teams to schedule a kickoff with CAIA on Wednesdays at 12PM ET, for 2 30 minutes slots.
-Once a kickoff meeting has been scheduled we will share it on the CAIA shared calendar, the link for which is below:<br>
-[CAIA Shared Calender](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago)
+- The CAIA Team has time set aside each week, for teams to schedule a kickoff with CAIA:
+    - Kickoff meetings will be held on Wednesdays between 12 and 1 PM ET.
+    - There are two, 30-minute-slots available.
+- Once a kickoff meeting has been scheduled CAIA will share it on the [CAIA Shared Calender](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago)
 
 ## What do I need to do to prepare for our kickoff with CAIA?
 
-Reading through this document is a great start, particularly the section the explains what it is that CAIA actually does. Then, the following checklist is useful:
+Reading through this document is a great start, particularly the section that explains what it is that CAIA, actually, does. Afterwards, the following checklist is useful:
 
-- Have I invited everyone on my team who needs to be on the kickoff?
-- Do I have links to all my product/project artifacts such as Mural/Sketch files etc
+- [ ] Have I invited everyone on my team who needs to be on the kickoff?
+- [ ] Do I have links to all my product/project artifacts such as Mural/Sketch files etc
 
 ## When can I expect feedback from CAIA?
 
