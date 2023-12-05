@@ -6,12 +6,13 @@ ________________________________________________________________________________
 ## 12/13/2023 - 12/26/2023  ------- FUTURE / TENTATIVE ------
 #### SPRINT GOALS
  - **GOAL: Support Production**
+    - **Sub Goal: CHIP Security Issues**
  - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase Usage of PCI**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Address Tech Debt**
+- **GOAL: Address Tech Debt**   
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
@@ -19,6 +20,8 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**     
+    - **Sub Goal: CHIP Security Issues**
+        - TBD (Brian to create ticket(s))
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**   
