@@ -30,7 +30,7 @@
 - **10/12/2023 Opened Collaboration Cycle Ticket**
 - [x] Collaboration Cycle Ticket [#67530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67530) - if applicable
     - [x] Design Intent ticket (10/19/2023)
-    - [ ] Midpoint Review (December 4, 2023 at 3:30-4:00pm EST)
+    - [x] Midpoint Review (December 4, 2023 at 3:30-4:00pm EST)
     - [ ] Staging Review (TBD - as of Kickoff Meeting)
 
 ## CAIA Tickets 🎟️
