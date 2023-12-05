@@ -35,8 +35,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
      - _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth_
 - **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. And none of your actions will affect your VA information or benefits.
 
-- **We like to record to confirm that we’ve captured your opinions accurately and may share video clips with our colleagues at the VA to show user feedback.** We won’t link anything you choose to share in the session to any information that identifies you, and we’ll remove your face and name from any videos that we share.
-  - **Are you comfortable if I record my screen and audio as we talk today?**
+- **We like to record to confirm that we’ve captured your opinions accurately and may share video clips with our colleagues at the VA to show user feedback.** We won’t link anything you choose to share in the session to any information that identifies you, and we’ll remove your face and name from any videos that we share. **Are you comfortable if I record my screen and audio as we talk today?**
 
 - _If yes:_ **Ok, once I start recording, I am going to once more confirm that you are okay with me recording this session.**
 
