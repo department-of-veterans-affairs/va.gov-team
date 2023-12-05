@@ -1,18 +1,27 @@
 # Unauthenticated page experience ratings: November 2023
 
 ## Related overall scores
-- **Total customer satsifaction score:** XX (X% change from last period)
+- **Total customer satsifaction score:** 54.3 (0% change from last period)
 - **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
 
 ## Experience ratings (1 to 5 scale)
 
 ### 5 pages with the highest experience ratings 
 All pages have ratings of 4 or above.
-- 
+- [Appointment pre-check-in](https://www.va.gov/health-care/appointment-pre-check-in) (Note: Authenticated page that's a collaboration with appointments product team)
+- [Coronavirus FAQs: What Veterans need to know](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/)
+- [VA payments history](https://www.va.gov/va-payment-history/payments) (Note: Authenticated page)
+- [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/)
+- [Disability compensation rates](https://www.va.gov/disability/compensation-rates/veteran-rates/)
   
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
-- 
+- Auth/login (Note: Authenticated experience)
+- [Request your military service records](https://www.va.gov/records/get-military-service-records/)
+- VAMC: Hines health care/programs (Note: This is a VAMC section. The most common page with low ratings is the facility's [BTSSS page](https://www.va.gov/hines-health-care/programs/beneficiary-travel-self-service-system-btsss/))
+- [Get your VA medical records online](https://www.va.gov/health-care/get-medical-records/)
+- VAMC: South Texas health care locations (Note: This is a VAMC section)
+  
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
