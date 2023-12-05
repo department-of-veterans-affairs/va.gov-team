@@ -26,6 +26,7 @@ We want to determine if the current process is serving the veterans needs and is
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
 - What in the current ordering tool process is working and what is not?
+- How easy or difficult is it for Veteran to find where to reorder supplies?
 - What is a Veterans understanding of each supply type? And how do they currently go about getting more information on them?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
