@@ -1,40 +1,6 @@
 ## Top-line Discovery to Determine:
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of Homepage news and benefit promo information, Homepage Top Pages links, and Full-width banners for time-sensitive or frequently refreshed content, and in the case of banners, in limited quantity. 
 
-
-
-#### Monthly project updates:
-
----
-
-## Headlines
-**VA stakeholders** - 
-
-**OCTO lead** - Dave Conlon
-
-**Is this project tracked to an upcoming event or congressional deadline?** No
-
-## Details
-
-**Which OCTO team should do this and what is currently on their roadmap?**  Sitewide
-
-**Which OCTO priority does this work support?** - 
-
-**What is the user impact and scale of impact?** - 
-
-**Who would manage this product long term?**  Public Websites
-
-**How much leverage will this create to solve more problems in the future?** -  
-
-**How great is the cost of inaction? (e.g., Can it wait? Must it be done by us?)** - 
-
----
-## Business Case
-
-### Problem Statement
-
-How might we ensure a better site-user experience by encouraging appropriate use of Homepage news and benefit promo information, Homepage Top Pages links, and Full-width banners for time-sensitive or frequently refreshed content, and in the case of banners, in limited quantity. 
-
 ### Artifacts
 * [Figma Prototype](https://www.figma.com/file/n2F9Y0QhjNoeNyQ4zv2VER/Full-Width-Banner-Alerts?type=design&node-id=0-1&mode=design&t=PZCybZOYzgEY1ADP-0)
 
@@ -48,7 +14,6 @@ Below is a list of where considerable work will need to be performed in order to
 * Answer: In short, no. The framework isn’t meant to be modified much for purposes other than to meet the needs of 6102. Overall, we have two options: 
   * Expand the framework to be more flexible with types of notifications, cadences, and entity types - a very large lift (more than 2 sprints for engineering); or 
   * Implement a new framework which meets our criteria - a large lift (at least 2 sprints)
-
 
 ##### Full-width Banner GAPs
 
@@ -167,7 +132,6 @@ Email recipients: Notifications framework currently sends to the "last modified 
     * Maximum End date from Date of Creation?
        * Should we have a maximum timeframe that a full-width banner can display, so that folks don't 'game' the system and put an end date far in the future so they aren't peppered with notifications? If so, what is a reasonable max?
 
-
 #### Affected users and stakeholders
 
 * CMS Editors of:
@@ -190,80 +154,3 @@ Email recipients: Notifications framework currently sends to the "last modified 
 
 * If the goal is also to auto-fill the space where the archived banner/block/etc. displayed (if the editor doesn't replace it in a timely fashion), then the hypothesis can be: 
   * We believe that by providing notifications to editors alerting them that their content will be auto-archived, auto-archiving on the date stated, and if no new content is uploaded by an editor, auto-filling with timely Veteran-centered information then we will achieve two things: no longer displaying stale information in VA.gov to Veterans and other users, as well as providing rotating, timely information in spaces where there is no editor entered info.
-
-
-## Assumptions
-* An MVP for notifications to editors for, and auto-archiving of ,Banners will be implemented and released first
-* Implementing solutions for Homepage news and benefit promo information, Homepage Top Pages links is dependent on the effort it will take to update notifications and auto-archiving so that it's usable by these other types of content.
-
-
-## Acceptance Criteria for Full-Width Banner Notifications & Auto-archiving [INCOMPLETE DRAFT]
-- [ ] **AC1: Editor creates a new full-width banner and is required to choose a date range**
-   * GIVEN an Editor is creating a Full width banner, 
-   * WHEN they are entering and choosing information, 
-   * THEN they will see that they are required to choose a date range for the banner of [minimum date range] to [maximum date range], 
-   * AND they will see help text alerting them that when the End Date occurs, the content will be auto-archived, and can't be resurrected.
-
-- [ ] **AC1: Editor edits an existing full-width banner when still within chosen date range, and can extend the end date**
-   * GIVEN an Editor has created a Full width banner, 
-   * AND it is within the date range chosen for that banner, 
-   * WHEN they go to edit the banner, 
-   * THEN they will see that they are able to extend the end date when the banner displays, 
-   * AND the banner will continue to display until that end date.
-
-- [ ] **AC1: Editor receives their 1st notification email that in X number of days, their full-width banner will be auto-archived and no longer display**
-   * GIVEN an Editor has created a Full width banner, 
-   * AND it is X number of days before the end date on the date range chosen for that banner, 
-   * THEN the 1st notification email will be sent to the editor who created the banner alerting them their full-width banner will be auto-archived and no longer display EOD on X date.
-   * AND if no action is taken, the banner is auto-archived
-
-- [ ] **AC1: Editor receives their 2nd notification email that in X number of days, their full-width banner will be auto-archived and no longer display**
-   * GIVEN an Editor has created a Full width banner, 
-   * AND it is X number of days before the end date on the date range chosen for that banner, 
-   * THEN the 2nd notification email will be sent to the editor who created the banner alerting them their full-width banner will be auto-archived and no longer display EOD on X date.
-   * AND if no action is taken, the banner is auto-archived
-
-- [ ] **AC1: Editor receives notification email their full-width banner has been auto-archived and no longer displays**
-   * GIVEN an Editor has created a Full width banner, 
-   * AND it is EOD on the End Date of the date range chosen for that banner, 
-   * THEN the a notification email will be sent to the editor who created the banner alerting them their full-width banner has been auto-archived.
-   * AND if no action is taken, the banner is auto-archived
-
-
-- [ ] Requires KB article update
-- [ ] a11y review
-
-### Change management triage
-
-The change represented by this user story will:
-- [ ] Be a site-wide change to appearance or key functionality (such as log-in process)
-- [ ] Be a specific change that requires more than 30 minutes of work by a user to meet a publishing requirement
-- [ ] Remove a piece of functionality (such as restricting editing functions, or “hardening”)
-- [ ] Require action by some or all users by a specific deadline
-- [ ] Change the front end and be highly visible to the public
-- [ ] Noticeable performance improvements (publishing speed, predictability)
-
-If you selected an item above, use the [Change Management Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/change-management) to create a CM epic and associated tickets.
-
-If you did not select an item above, update issues/PRs in GitHub but don’t plan for change management.
-
-
-## Design principles
-
-Veteran-centered
-- [ ] `Single source of truth`: Increase reliability and consistency of content on VA.gov by providing a single source of truth.
-- [ ] `Accessible, plain language`: Provide guardrails and guidelines to ensure content quality.
-- [ ] `Purposely structured content`: Ensure Content API can deliver content whose meaning matches its structure.
-- [X] `Content lifecycle governance`: Produce tools, processes and policies to maintain content quality throughout its lifecycle.
-
-Editor-centered
-- [X] `Purpose-driven`: Create an opportunity to involve the editor community in VA’s mission and content strategy goals.
-- [ ] `Efficient`: Remove distractions and create clear, straightforward paths to get the job done.
-- [ ] `Approachable`: Offer friendly guidance over authoritative instruction.
-- [ ] `Consistent`: Reduce user’s mental load by allowing them to fall back on pattern recognition to complete tasks.
-- [X] `Empowering`: Provide clear information to help editors make decisions about their work.
-
-
-## Runbook
-<optional>
-
