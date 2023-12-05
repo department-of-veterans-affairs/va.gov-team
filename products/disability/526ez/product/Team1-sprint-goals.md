@@ -10,12 +10,15 @@ Period - 12/06/2023 - 12/19/2023
          - [ ] Canary launch
          - [ ] Launch 1% and next based on the outcome 
       - Benefits Claims Service and Submit
-        - [ ] Update Datadog Dashboard
         - [ ] Canary launch for Benefits Claims
+      - Submit endpoint
+        - [ ] Integration test with LH release in sandbox - if available
 - **Features**
    - 526ez sync with paper version 
        - Toxic Exoposure - unblocked work
-           - [ ] New mocks for timeframe location capture 
+           - [ ] New mocks for timeframe location capture
+           - [ ] FE Engineering - Create tickets for build
+           - [ ] Start work, if unblocked
 - **Research**
   - Shadow Research
     - [ ] Shadow Research sessions
