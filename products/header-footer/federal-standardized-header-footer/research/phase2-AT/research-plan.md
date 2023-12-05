@@ -117,7 +117,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 ### Screening Questions
 
 1. Do you use screen reader or screen magnifier technology **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
-    1. No *(disqualify for assistive tech; go to question #5 for non-assistive tech)*
+    1. No *(disqualify)*
     2. Yes *(ask next question)*
 
 1. Are you willing to join the Zoom session using this assistive technology? 
@@ -129,7 +129,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
     1. 2-5 years *(ask next question)*
     1. More than 5 years *(ask next question)* 
 
-1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND qualify for assistive tech AND ask rest of questions)*
+1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask rest of questions)*
 
 1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
     1. Smartphone  
@@ -142,7 +142,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 
 1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve. 
      1. No  
-     1. Yes *(RECRUIT 2 for each phase)*
+     1. Yes *(RECRUIT 2)*
 
 
 ## Timeline--TBD
@@ -187,7 +187,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for Phase 2 sessions): TBD 	
-- **Note-takers: Perigean	(in github)**
+- **Note-takers: Perigean (in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
 ## Approvals
