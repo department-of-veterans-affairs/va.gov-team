@@ -58,6 +58,7 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Tuesday, 12/5/22 2pm EST
 - Tuesday, 12/5/22 3pm EST
 - Wednesday, 12/6/22 11:30am EST
+- Wednesday, 12/6/22 1:30pm EST
 
 
 ### Recruitment criteria
@@ -126,6 +127,7 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Tuesday, 12/5/22 2pm EST
 - Tuesday, 12/5/22 3pm EST
 - Wednesday, 12/6/22 11:30am EST
+- Wednesday, 12/6/22 1:30pm EST
 
 ### Prepare
 Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.
