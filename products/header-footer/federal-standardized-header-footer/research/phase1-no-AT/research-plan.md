@@ -92,8 +92,8 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 - **Phase 1: Non-assistive technology users**  
   -  Perigean to Recruit **10 Veterans and 4 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. Criteria are also in this [recruitment intake ticket TBD](). 
 
-- **Phase 2: Assistive technology users** 
-  -  Perigean to Recruit **14 Veterans, caregivers, and family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
+- Phase 2: Assistive technology users 
+  -  Perigean to Recruit 14 Veterans, caregivers, and family members of Veterans who meet the below criteria in order to get a minimum of 8 completed sessions. Criteria are also in this [recruitment intake ticket TBD]().
  
 
 ### Required criteria (in decreasing order of priority)
@@ -165,33 +165,34 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 
 
 
-## Timeline--TBD
+## Timeline
 
 ### Prepare
 There are 2 phases of research. Before recruitment starts for each phase, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
 Amanda and Cindy are available for a kickoff call during any of these times: 
-- **DATES** TIMES TBD ET
+- **Thu Dec 7** TIMES TBD ET
+- **Fri Dec 8** TIMES TBD ET
 
 Our email addresses are cindy.merrill@adhocteam.us and amanda.klausmeier@va.gov
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We have scheduled the following two **pilot tests**:
-- Pilot 1: **DATE at TIME TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **DATE at TIME TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 1: **Dec 11 at TIME TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 2: **Dec 12 at TIME TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
 * Planned dates of research: 
-  - **Phase 1: TBD, 2023** 
-  - **Phase 2: TBD, 2023** 
+  - **Phase 1: December 15-22, 2023** 
+  - Phase 2: TBD, 2024
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 ### Length of sessions
 * Session length: 
   - Phase 1: **60 minutes** (non-assistive tech users)
-  - Phase 2: **90 minutes** (assistive tech users)
+  - Phase 2: 90 minutes (assistive tech users)
 * Buffer time between sessions: 1 hour
 * Maximum sessions per day: 3
 
@@ -199,7 +200,12 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-TBD, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Dec 15, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Dec 18, 2023 | 12-1, 2-3, 5-6, 7-8 pm 
+Dec 19, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Dec 20, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Dec 21, 2023 | 12-1, 2-3, 5-6, 7-8 pm
+Dec 22, 2023 | 12-1, 2-3, 5-6, 7-8 pm
 
 
 ## Team Roles	
@@ -210,7 +216,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for Phase 2 sessions): TBD 	
-- Note-takers: Perigean	(in github)
+- **Note-takers: Perigean	(in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
 ## Approvals
