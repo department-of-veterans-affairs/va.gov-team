@@ -4,9 +4,13 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: November/DD/2023
+Date: December 2023
 
-[Designer 1] [email], [Designer 2] [email]
+*Designers*
+   - Angela Agosto (angela.agosto@adhocteam.us)
+   - Hieu Vo (hieu.vo@agile6.com)
+   - Jessica Stump (jessica.stump@adhocteam.us)
+   - Katelyn Caillouet (katelyn.caillouet@agile6.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -166,21 +170,20 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-Registration%20Reasons%20Tree%20Test/research-plan.md#research-plan-for-health-enrollment-team-10-10ez-registration-reasons-tree-test-november-2023))
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural synthesis board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1700003975101/6149b2a464425891624dd5bd0508b70164fa0920?sender=uadf1ed7fe7c76f0914967329)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+Optimal Workshop Unmoderated Tree Test
+
+- [Results link](https://app.optimalworkshop.com/treejack/dj540s05/io60v1go/shared-results)
 
 
 ## Other supporting documents created
