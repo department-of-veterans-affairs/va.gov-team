@@ -1,5 +1,5 @@
 # IA Design for Privacy Act Form 20-10206
-**STATUS: Shared with team**
+**STATUS: Completed**
 
 **Team:** Veteran facing forms
 
@@ -93,11 +93,16 @@ This is a list of proposed entry points. We recommend checking page performance 
   - Notes: We would need to connect with the team that manages this site to add entry point here.
  <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6a635c95-63e9-4892-a0dd-ae2b7bc09d81">   
 
+8. **[Supporting Forms page](https://va.gov/supporting-forms-for-claims/)** - Add
+  - Placement description:
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/records/request-personal-records-form-20-10206
+  - Notes: This will be the main entry point for the form so that a react widget can be implemented. Breadcrumbs and URL will stay the same and the official home for this form is in the Records hubpage.
+
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
 
-Our understanding is that [Form VA3288](https://www.va.gov/find-forms/about-form-3288) is being replaced by 20-10206, but isn’t currently in the digitizing forms pipeline and hasn’t been updated since 2020. We recommend that if the team gets next steps for Form VA3288 and it's a form that is being taken down, to connect with CAIA as well as stakeholders to identify whether this page could be redirected.
- 
+Our understanding is that [Form VA3288](https://www.va.gov/find-forms/about-form-3288) is being replaced by 20-10206, but isn’t currently in the digitizing forms pipeline and hasn’t been updated since 2020. We recommend that if the team gets next steps for Form VA3288 and it's a form that is being taken down, to connect with CAIA to plan out stakeholder outreach and identify whether this page could be redirected.
 
 ## <a name="bestbets"></a>Best Bets <br>
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
