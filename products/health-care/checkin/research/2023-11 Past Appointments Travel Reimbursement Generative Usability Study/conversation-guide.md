@@ -72,8 +72,7 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 
 - If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like? 
 
-- We know there's different types of VA claims like disability claims, pension claims, travel reimbursement claims. Could you tell us about how you view your travel reimbursement claims compared to any other VA claims you've had?
-  - _If not mentioned:_ How is travel reimbursement similar or different to the other claims?
+- How would you describe travel claims in relation to your other benefits, like disability claims?
 
 
 -------
