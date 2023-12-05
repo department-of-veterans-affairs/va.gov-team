@@ -82,10 +82,11 @@ After signing in/or articulating that process:
 > "OK there we go. "Personal health care contacts" saw it right away - P8
 <img width="713" alt="Screenshot 2023-12-04 at 9 57 08 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bc6bb558-5dd6-40eb-b9fa-23753bbf5017">
 
-
-
 ---
 
+### 3) How did they understand EC and NOK (see note book)
+
+---
 ### 4) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
 All 9 participants expected or wanted this functionality
 
