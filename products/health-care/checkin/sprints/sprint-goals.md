@@ -24,7 +24,6 @@ ________________________________________________________________________________
 - **GOAL: Make Travel Claims Easier**   
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65423)
-        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**         
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟦🟩 [[FE] [BE] Design Feature Implementation and Create All Task Tickets](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?epics=Z2lkOi8vcmFwdG9yL0VwaWMvMTA4MjIyNg)
@@ -36,6 +35,9 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
         - 🟥 [[Content] Ensure content for cancelled appt alert (from prod) during pre-check-in is consistent with unified check in messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71166)
         - 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
+  - **Sub Goal: Analyze current metrics to see what they tell us**       
+       - 🟥 [Research] Analyze GA Metrics
+       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71205)
 - **GOAL: Address Tech Debt**
     - 🟦 [[BE] [Request] Don't use "k" to represent thousand; can we use the actual number?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70962)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
