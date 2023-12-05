@@ -10,7 +10,7 @@
 
 [Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-19)
 
-[Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#error)
+[Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#current-nod-errors)
 
 [Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#email)
 
