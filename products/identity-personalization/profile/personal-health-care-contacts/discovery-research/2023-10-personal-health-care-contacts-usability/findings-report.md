@@ -68,7 +68,6 @@ After signing in/or articulating that process:
 - 4 participants navigated directly to the Profile hub (sign in > Profile > Profile Hub) 
 - 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov profile
 - 1 participant "keyword forged" the landing page and used the mega menu to navigate to the healthcare hub section. After, not finding what they were looking for, they went to profile.
----
 - 2 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information and navigate to profile
 - 1 participant was confused by the staging user name in the authenticated menu and could not locate information in profile
 
