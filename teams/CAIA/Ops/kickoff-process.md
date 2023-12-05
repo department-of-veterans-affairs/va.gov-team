@@ -69,9 +69,7 @@ During the kickoff meeting we'll get too know more about your team and what it i
 ## What is CAIA?
 The Content, Accessibility, and Information Architecture team includes experts in 3 key areas, plus delivery. We work together to partner with your team throughout the lifecycle of your product.
 
-
-### The CAIA Team
-The CAIA Team consists of: 
+**The CAIA Team consists of:**
 - Delivery/Ops
 - Accessibility
 - Information Architecture
