@@ -86,7 +86,7 @@ After signing in/or articulating that process:
 
 ### 3) Most participants (7 of 9) understood the concept of Medical emergency contact. "Medical" in Medical emergency contact caused confusion with 2 participants. All participants understood the term Emergency contact. 
 
-Two participants thought Medical emergency contact was a contact they could reach out to at the VA if they had an emergency and needed assistance right away, similar to 911. When asked about the meaning of  "Emergency contact," these two participants comprehended it as the person to be contacted in case of an emergency." 
+2 participants thought Medical emergency contact was a contact they could reach out to at the VA if they had an emergency and needed assistance right away, similar to 911. When asked about the meaning of "Emergency contact," these two participants comprehended it as the person to be contacted in case of an emergency." 
 
 > It means I would have access - quick access - to the VA to be able to get a hold of someone to be able to talk to them right away. - P1
 
@@ -99,7 +99,18 @@ When asked later in the session about Emergency contact,
 <img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba00b3e3-2b3b-4a34-8c3a-700265065709">
 
 ---
-### 4) Participants 
+### 4) Most participants (6 of 9) associated Next of kin with "family" and initially  did not differentiate between Medical emergency contact and Next of kin contact. However, once participants arrived on the "Personal health care contacts" page they relied on hint text to distinguish between the two concepts. 
+
+> They are about the same thing, ain't it? - P2
+
+> P: Means to me anyone like a brother, sister, son, daughter that would be notified about a medical emergency other than a spouse.
+>
+> M: Why not spouse?
+>
+> P: Kin usually means blood - P4
+
+
+
 
 ### 5) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
 All 9 participants expected or wanted this functionality
