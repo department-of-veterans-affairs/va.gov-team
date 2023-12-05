@@ -30,11 +30,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-
-Today we're going to talk about disability compensation claims and the Claim Status Tool. 
-
+Thanks for joining us today! My name is Skyler, and I'm going to be guiding you through the session today. Today we're going to talk about disability compensation claims and the Claim Status Tool.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -59,36 +55,47 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- Have you used VA.gov before?
+- If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
+- How else do you generally interact with the VA, if at all?
+- Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
+- If yes, how many times? Have you ever done it on VA.gov?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: CST Home Page - 5 minutes
 
-- Step 1
-- Step 2
+So let's say you are signed into your VA.gov account and you're looking at this page. 
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Do you know what this page is? If yes, what is it?
+- Describe to me what you're seeing here.
+- Let's say you're waiting for this top claim to be decided. What would you say is the status of the claim, based on what you see here? And what does that status mean to you?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant recognize the Claim Status Tool?
+- Do they recognize which claim is in progress?
+- Do they understand the status of the claim based on the content provided?
+- How accurate is their understanding of the status based only on what they see here?
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Status tab - 5 minutes
+
+[Participant clicks into the in-progress claim]
+
+- Based on what you see here, what would you say is the status of this claim?
+- Do you feel like you have a better understanding of the claim status than you did before? The same? Worse?
+- Do you feel satisfied with this amount of knowledge about the claim status? Why or why not?
+- If you wanted to understand more about what is going on with your claim, where would you go from here?
+
+### Things to watch for:
+
+- How much additional information about what's going on "behind the scenes" does the Status tab provide?
+- Do Veterans seem to want more understanding of what's happening than what is provided on the Status tab?
+- Do Veterans know to navigate to the Overview tab to find out more details about what's going on with their claim?
+
+## Third Task: Overview tab - 15 minutes
 
 - Step 1
 - Step 2
