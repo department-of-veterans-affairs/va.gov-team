@@ -88,7 +88,7 @@ To provide a detailed account of the requirements gathered from stakeholders, en
 
 | Requirement ID | Description | Source | Related Test Cases | Design Elements | 
 
-| -------------- | ----------- | ------ | ------------------ | --------------- | 
+| -------------- | :---------: | :----: | :----------------: | --------------: | 
 
 | 2.1            | WAVE to VYE | Shay, 8/8/23 | TC-01, TC-02 | DE-01, DE-02    | 
 
