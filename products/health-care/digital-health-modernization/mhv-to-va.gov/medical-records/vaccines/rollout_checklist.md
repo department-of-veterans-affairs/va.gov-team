@@ -79,7 +79,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] All steps of the collaboration cycle are complete; *Per agreement with Platform team, collab cycle willl be reengaged as all domains are ready for Phase 1*
 
-- [ ] All the MUST feedback complete; *Replicating the feedback from Allergies staging review for all domains, MHV-51155*
+- [X] All the MUST feedback complete; *Replicating the feedback from Allergies staging review for all domains, MHV-51155*
 
 - [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
@@ -121,7 +121,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-- [ ] All pages/components have latest content; *MHV-52038, waiting on https://github.com/department-of-veterans-affairs/vets-website/pull/26859*
+- [X] All pages/components have latest content; *MHV-52038, waiting on https://github.com/department-of-veterans-affairs/vets-website/pull/26859*
 
 - [X] Unit test coverage is sufficient 
 
@@ -147,7 +147,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Downstream services tested at 2x average load for prior 12 months; *MHV-52176, load testing in preparation for Phase 1* 
 
-- [ ] DataDog monitors exist; *MHV-51521*
+- [X] DataDog monitors exist; *MHV-51521*
 
 - [ ] Alerts exist; *MHV-51521* 
 
