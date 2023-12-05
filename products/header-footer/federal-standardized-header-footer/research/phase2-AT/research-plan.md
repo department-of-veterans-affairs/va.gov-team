@@ -186,7 +186,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD
-- Accessibility specialist (for Phase 2 sessions): TBD 	
+- Accessibility specialist: TBD 	
 - **Note-takers: Perigean (in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
