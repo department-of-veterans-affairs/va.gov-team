@@ -123,9 +123,17 @@ P6: "Man that’s horrible! You should be able to do it on the website."
 
 ---
 
-### 5) 9 of 9 participants wanted at least two Medical emergency contacts and most participants (7 of 9) 
+### 6) 9 of 9 participants wanted at least two Medical emergency contacts and most participants (7 of 9) wanted multiple next of kin contacts listed.
 
-- 9 of 9 participants wanted multiple contacts listed in case the primary contact was not available. 
+- Participants wanted multiple contacts listed in case the primary contact was not available.
+
+When asked how many Medical emergency contacts participants expected to be list, 
+
+> I would’ve thought 2. The primary and a secondary. - P6
+
+One participant stated when referring to Next of kin, 
+
+> Two, because a lot of times medical decisions need to be made, and if you’re waiting for a return call, an alternate person would be helpful, because I would want to be treated right away. Always good with primary and alternate. Just one is not beneficial at all. - P4
 
 <img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/41254bc9-06a8-4344-8286-67bb27118634">
 
@@ -138,7 +146,7 @@ P6: "Man that’s horrible! You should be able to do it on the website."
   
 <img width="690" alt="Screenshot 2023-12-04 at 11 58 17 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/dc347285-4ac4-4b54-a314-89d3b8dc2e72">
 
-### 7) Some (have to get numbers) participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
+### 7) addtonal insite:  Some (have to get numbers) participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
 
 ### 8) (Most) Participants wanted "relationship" listed as well as "Home and Mobile" phone numbers.
 
