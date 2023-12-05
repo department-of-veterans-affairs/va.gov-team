@@ -5,7 +5,7 @@ V1.0
 
 ## Contents
 - [What is CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-caia)
-  - [The CIA Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#the-caia-team) 
+  - [The CAIA Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#the-caia-team) 
 - [How we collaborate with your team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-we-collaborate-with-your-team)
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#overview)
   - [What is the purpose of this document?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-the-purpose-of-this-document)
