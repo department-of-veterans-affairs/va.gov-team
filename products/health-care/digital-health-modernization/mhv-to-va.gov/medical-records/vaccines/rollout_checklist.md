@@ -104,7 +104,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Key design decisions added to decision log; *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/decision-log.md*
 
-- [ ] Design documentation & briefs are up-to-date and linked in product Github; *Bryan will check our product outline and guide in GitHub to ensure it's updated*
+- [X] Design documentation & briefs are up-to-date and linked in product Github; *Bryan will check our product outline and guide in GitHub to ensure it's updated*
 
 - [X] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks; *Breadcrumbs currently contain one higher page in the hierarchy*
 
