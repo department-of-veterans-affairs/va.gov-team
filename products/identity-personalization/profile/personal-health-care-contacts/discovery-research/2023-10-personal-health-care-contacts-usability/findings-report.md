@@ -153,19 +153,18 @@ One participant stated when referring to Next of kin,
 
 ### 8) Participants considered "name" and "phone number(s)" as crucial information within both the Medical emergency contact and Next of kin contact sections. 
 
-- 2 participants thought multiple phone numbers (e.g. home, work, mobile) would be important 
-- 3 participants mentioned "relationship"  
-	- Participants specifically talked about the importance of adding these 	data points so the VA would have more context when reaching out to the 		person.
+2 participants thought multiple phone numbers (e.g. home, work, mobile) would be important. One participant brought up the importance of labeling a home phone so that no one would accidentally try to send a text message to that number.
+
+3 participants mentioned "relationship" as important. Participants specifically talked about the importance of adding these data points so the VA would have more context when reaching out to the person.
    
-- One participant brought up the importance of labeling a home phone so that no one would accidentally try to send a text message to that number.
 - 2 participants expected all the information that the VA has on file about emergency contacts and next of kin to be displayed on the Personal health care contacts page
 
-P7: “Whatever information that I gave them that I thought as enough to be able to get ahold of them.” 
+> Whatever information that I gave them that I thought as enough to be able to get ahold of them. - P7
 
-P8: “you're going to have to provide a wealth of information to get in touch with them”
+> If you want this person contacted, you're going to have to provide a wealth of information to get in touch with them - P8 
 
 
-### 9) It was clear to participants that both Medical Emergency contact and Next of kin contact are related only to health care.
+### 9) It was clear to participants that both Medical Emergency contact and Next of kin contact are related only to health care only. 
 
 
 
