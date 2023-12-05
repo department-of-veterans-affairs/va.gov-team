@@ -21,7 +21,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**     
     - **Sub Goal: CHIP Security Issues**
-        - TBD (Brian to create ticket(s))
+        - 🟦 [[CHIP] - CHIP security scan issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71271)
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**   
