@@ -101,13 +101,17 @@ When asked later in the session about Emergency contact,
 ---
 ### 4) Most participants (6 of 9) associated Next of kin with "family" and initially  did not differentiate between Medical emergency contact and Next of kin contact. 
 
-Participants frequently interpreted "Next of kin" as a family member designated emergency contact. Once on the Personal health care page, partipants relied on the hint text to distinguish between the two concepts. 
+Participants frequently interpreted "Next of kin" as a family member designated emergency contact. Once on the Personal health care page, participants relied on the hint text to distinguish between the two concepts. 
 
 > They are about the same thing, ain't it? - P2
 
 > Means to me anyone like a brother, sister, son, daughter that would be notified about a medical emergency other than a spouse. - P4 
 
 > In general terms, I would think it's the person to contact if something were to happen to me. However, Kin means family so I imagine it has to be some kind of blood relative, other than spouse or partner... - P8
+
+One participant stated when viewing the Personal health care contacts page, 
+
+> It's nice to have what the Next of kin actually meant. - P7 
 
 <img width="690" alt="Screenshot 2023-12-04 at 11 58 17 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba620a3f-5496-48b6-8b6b-a616559a9e9d">
 
@@ -125,11 +129,17 @@ P6: "Man that’s horrible! You should be able to do it on the website."
 
 ---
 
-### 6) 9 of 9 participants wanted at least two Medical emergency contacts and most participants (7 of 9) wanted multiple next of kin contacts listed.
+### 6) 6 of 8 participants found the information and understood the process of updating their Personal health care contacts if needed. 
 
-- Participants wanted multiple contacts listed in case the primary contact was not available.
+2 participants did not see the needed information but once prompted, understood the content. 
 
-When asked how many Medical emergency contacts participants expected to be list, 
+**Note:** One participant was having technical trouble during this portion of the study 
+
+### 7) 9 of 9 participants wanted at least two Medical emergency contacts and most participants (7 of 9) wanted multiple next of kin contacts listed.
+
+Participants wanted multiple contacts listed in case the primary contact was not available.
+
+When asked how many Medical emergency contacts participants expected to be listed, 
 
 > I would’ve thought 2. The primary and a secondary. - P6
 
@@ -141,18 +151,12 @@ One participant stated when referring to Next of kin,
 
 ---
 
-### 6) Most participants wanted at least two Next of kin listed. 
+### 8) Participants considered "name" and "phone number(s)" as crucial information within both the Medical emergency contact and Next of kin contact sections. 
 
-- 7 of the 9 participants wanted multiple next of kin contacts listed.
-- 2 participants felt that one Next of kin would be sufficient.
-  
-<img width="690" alt="Screenshot 2023-12-04 at 11 58 17 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/dc347285-4ac4-4b54-a314-89d3b8dc2e72">
-
-### 7) addtonal insite:  Some (have to get numbers) participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
-
-### 8) (Most) Participants wanted "relationship" listed as well as "Home and Mobile" phone numbers.
-
-- Participants specifically talked about the importance of adding these data points so the VA would have more context when reaching out to the person.
+- 2 participants thought multiple phone numbers (e.g. home, work, mobile) would be important 
+- 3 participants mentioned "relationship"  
+	- Participants specifically talked about the importance of adding these 	data points so the VA would have more context when reaching out to the 		person.
+   
 - One participant brought up the importance of labeling a home phone so that no one would accidentally try to send a text message to that number.
 - 2 participants expected all the information that the VA has on file about emergency contacts and next of kin to be displayed on the Personal health care contacts page
 
@@ -166,7 +170,8 @@ P8: “you're going to have to provide a wealth of information to get in touch w
 
 
 ## Additional Insights
-### 
+### Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
+
 
 ---
 
