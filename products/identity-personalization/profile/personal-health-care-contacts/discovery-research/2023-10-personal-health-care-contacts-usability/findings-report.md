@@ -94,15 +94,14 @@ When asked later in the session about Emergency contact,
 
 > Yeah, if I were to have a medical procedure, that's a person they could contact to give them information about what's going on on my behalf. - P1
 
-This participant interrupted 
-
 > Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. - P3 
 
 <img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba00b3e3-2b3b-4a34-8c3a-700265065709">
 
-
 ---
-### 4) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
+### 4) Participants 
+
+### 5) Participants expected or wanted a way to edit or add both Medical emergency contact and Next of kin contact information on the Personal health care contacts page.
 All 9 participants expected or wanted this functionality
 
 P1: “well, I would expect information or instructions about how to be able to do it myself. IT's fine with me like this but it would be nice if I could do it myself on this website.”
@@ -143,9 +142,7 @@ P8: “you're going to have to provide a wealth of information to get in touch w
 
 ### 9) It was clear to participants that both Medical Emergency contact and Next of kin contact are related only to health care.
 
-### 10) Medical" in Medical emergency contact caused some confusion with participants. However, all participants understood the term Emergency contact.
 
-- At least two participants thought Medical emergency contact was a contact they could reach out to if they had an emergency and needed assistance right away, similar to 911.
 
 ## Additional Insights
 ### 
