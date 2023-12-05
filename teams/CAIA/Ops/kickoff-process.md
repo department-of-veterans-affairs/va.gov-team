@@ -21,8 +21,8 @@ This document is designed to serve as a guide for how the Sitewide Content, Acce
 
 ### Why does my team need a kickoff meeting?
 
-After submitting [an intake request form with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) it is often a really good idea for our team to meet with yours to get a better understanding as to how we can "kickoff" our work together and collaborate, most effectively. 
-- It also gives us an opportunity to ask, and answer, any questions - or clarify details.
+After submitting [an intake request form with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) it is often a really good idea for our team to meet with yours - to get a better understanding as to how we can "kickoff" our work together and collaborate, most effectively. 
+- It also gives us an opportunity to ask, and answer questions - or clarify details.
     - Sometimes, this information is a little hard to discern from an intake form, alone.
 - **New products or product phase:** A kickoff meeting is particularly useful if you and your team are working on a new product or phase that's going to benefit from a partnership with CAIA - for example, a new form, or a new tool. In which case, a kickoff is a great idea.
 - **Small updates:** If, though, you just need to request a small update to a page, URL, or content check, that's probably not going to require a kickoff meeting; however, it may still make sense to meet, if the requirements are large and complex enough.
@@ -54,7 +54,7 @@ Reading through this document is a great start, particularly the section that ex
 
 We guide and work alongside teams across nearly every OCTO digital product. We also work with partners across VA to lead content migration and manage all unauthenticated content on VA.gov. And we're always working to expand the VA.gov content style guide and our IA and accessibility documentation. We need to prioritize all intake requests based on our overall workload and VA and OCTO priorities.
 
-Tell us about your product's timeline. And we'll work with you to meet timeline needs as best we can.
+_Tell us about your product's timeline. And we'll work with you to meet timeline needs as best we can._
 
 ### Kickoff Steps
 
@@ -68,7 +68,8 @@ Tell us about your product's timeline. And we'll work with you to meet timeline 
 - [ ] Attend the kickoff with CAIA!
 
 ### What are the outcomes of the kickoff with CAIA?
-During the kickoff meeting we'll get too know more about your team and what it is you'd like to partner with CAIA on. At the end of the meeting, we'll hopefully be able to determine what the next steps are for your team, and from the CAIA team. 
+
+During your kickoff meeting, we'll get to know more about your team, and what it is you would like to partner with us on. At the end of the meeting, we'll, hopefully, be able to determine what the next steps will be for your team, and from the CAIA team. Depending on the scope of your project, we may need to schedule a follow-up meeting. 
 
 ## What is CAIA?
 The Content, Accessibility, and Information Architecture team includes experts in 3 key areas, plus delivery. We work together to partner with your team throughout the lifecycle of your product.
