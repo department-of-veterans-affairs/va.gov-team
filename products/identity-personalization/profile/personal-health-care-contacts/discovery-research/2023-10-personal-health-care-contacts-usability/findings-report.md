@@ -99,7 +99,9 @@ When asked later in the session about Emergency contact,
 <img width="768" alt="Screenshot 2023-12-04 at 11 57 31 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/ba00b3e3-2b3b-4a34-8c3a-700265065709">
 
 ---
-### 4) Most participants (6 of 9) associated Next of kin with "family" and initially  did not differentiate between Medical emergency contact and Next of kin contact (often viewing it as a family emergency contact). However, once participants arrived on the "Personal health care contacts" page they relied on hint text to distinguish between the two concepts. 
+### 4) Most participants (6 of 9) associated Next of kin with "family" and initially  did not differentiate between Medical emergency contact and Next of kin contact. 
+
+Participants frequently interpreted "Next of kin" as a family member designated emergency contact. Once on the Personal health care page, partipants relied on the hint text to distinguish between the two concepts. 
 
 > They are about the same thing, ain't it? - P2
 
