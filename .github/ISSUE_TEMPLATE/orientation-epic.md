@@ -2,7 +2,7 @@
 name: New VFS Team Member Template
 about: For orienting new VFS teams/members to Platform policies/practices
 title: New VFS Team Member Template [Your name here]
-labels: analytics-insights, analytics-request, governance-team, platform-orientation, new-vfs-team-member
+labels: governance-team, platform-orientation, new-vfs-team-member, platform-tech-team-support
 assignees: ''
 
 ---
