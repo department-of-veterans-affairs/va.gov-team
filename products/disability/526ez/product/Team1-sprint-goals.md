@@ -9,7 +9,7 @@ Period - 12/06/2023 - 12/19/2023
        - PPIU - Direct Debit 
          - [ ] Canary launch
          - [ ] Launch 1% and next based on the outcome 
-      - Benefits Claims Service and Submit
+      - Benefits Claims Service 
         - [ ] Canary launch for Benefits Claims
       - Submit endpoint
         - [ ] Integration test with LH release in sandbox - if available
