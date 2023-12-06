@@ -7,18 +7,17 @@
 
 ## Table of Contents 
 
--  [Communications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#communications)
--  [Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#roles)
--  Partners
--  Overview
--  MVP
--  Problem Statement
--  Product Goals
--  Proposed Solutions/Phases
--  Measuring Success
--  Key Deliverables
--  Key Dates
--  Design
+- [Communications](#communications)
+- [Roles](#roles)
+- [Overview](#overview)
+- [MVP](#mvp)
+- [Problem Statement](#problem-statement)
+- [Product Goals](#product-goals)
+- [Proposed Solutions/Phases](#proposed-solutionphases)
+- [Measuring Success](#measuring-success)
+- [Key Deliverables](#key-deliverables--artifacts)
+- [Key Dates](#key-dates)
+- [Design](#design)
 
 ## Communications
 
