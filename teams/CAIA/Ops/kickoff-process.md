@@ -79,6 +79,8 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
 
 During your kickoff meeting, we'll get to know more about your team, and what it is you would like to partner with us on. At the end of the meeting, we'll, hopefully, be able to determine what the next steps will be for your team, and from the CAIA team. Depending on the scope of your project, we may need to schedule a follow-up meeting. 
 
+The meeting will be recording and we'll link to it in the ticket as well as document what the next steps are.
+
 ## What is CAIA?
 The Content, Accessibility, and Information Architecture team includes experts in 3 key areas, plus delivery. We work together to partner with your team throughout the lifecycle of your product.
 
