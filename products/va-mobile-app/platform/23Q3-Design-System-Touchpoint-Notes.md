@@ -10,6 +10,7 @@ Agenda:
     * Who would we work with from VADS?
     * desired outcomes
 *   Sharing Icons with VADS?
+*   Design Token strategy
 *   Q1 Planning
 *   va-mobile-library repo - moving tickets
       
