@@ -180,7 +180,7 @@ Notifications provide relevant and timely information about some event.
 * **[What makes users disable push notifications? — BusinessofApps](https://www.businessofapps.com/marketplace/push-notifications/research/push-notifications-statistics/?source=post_page---------------------------)**
     * **opt-in rates for app push notifications:**
         *  Android OS ranges from 49% to 95%, with **medium equal to 81%**
-        *  iOS ranges from 29% to 73%, with** medium equal to 51%**.
+        *  iOS ranges from 29% to 73%, with **medium equal to 51%**.
         *  iOS users must actively consent to push notifications, whereas Android automatically enables push notifications.
     * **Frequency of pushes vs unsubscribes:**  unsubscribes remain below 1% up to five pushes per day 
 
