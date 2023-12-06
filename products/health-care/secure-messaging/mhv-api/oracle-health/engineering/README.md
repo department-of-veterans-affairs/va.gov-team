@@ -40,25 +40,37 @@
 - Send a message to OH (or a cURL)
 - Send a message from OH to MHV 
 
-### Tech Stack
+### More detailed diagram
 
-![Diagram](./assets/sm%20exchange.v1.drawio.png)
+![Diagram](./assets/sm%20exchange.v2.drawio.png)
 
+### Notes
 
+- All communcation between the SM Exchange and MVH are RESTful API Calls
+- All communcation between the SM Exchange and OH are RESTful API Calls
+- Using a Queue to handle the parsing and translation of messages
+  - Since this will be a longer running task, a queue provides a resilant way to handle messages
+  - Keeps the action of recieving message light and fast
+- Services that need mocked 
+  - OH FHIR APIs
+  - OH Messaging API
+  - OH Atom Feed
 
 ## Sequence
 
 ### MHV to OH 
 
-![Sequence diagram of MHV to OH](./assets/MVH%20to%20OH.svg)
+![Sequence diagram of MHV to OH](./assets/MHV%20to%20OH.v2.svg)
 
 ### OH to MHV 
 
-![Sequence diagram of OH to MHV](./assets/OH%20to%20MHV.png)
+![Sequence diagram of OH to MHV](./assets/OH%20to%20MHV.v2.svg)
 
 ## APIs needed
 
 ### MHV
+
+- TBD
 
 ### Cerner
 
@@ -70,7 +82,3 @@
 
 - How does the OH Atom feed handle a failed push
 
-
-## Notes
-
-- Initial load on first patient accesss
