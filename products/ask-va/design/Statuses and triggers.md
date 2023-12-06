@@ -18,7 +18,7 @@ The triggers will remain the same, but they might be revisited in the [future]((
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
 |`New`|We received your question. We’ll review it soon.|The systems automatically sets the status to `New` when a question is submitted.|
-|`In progress`|We're currently reviewing your question.|The system automatically sets the status to `In progress` **after an agent has responded.***|
+|`In progress`|We're currently reviewing your question.|The system automatically sets the status to `In progress` after an agent has responded.|
 |`Solved`|We answered your question. If you have an additional question, please submit a new question.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details.|
 |`Reopened`|We received your reply. We'll respond soon.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
 |`Closed`|We closed your question after 60 days.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
