@@ -105,7 +105,7 @@ ________________________________________________________________________________
       - 🟥 [[Design] Create final wireframe for Refresh feature on Appointments List page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70483)    
     - **Sub Goal: Analyze current metrics to see what they tell us**       
        - ✔️ 🟪🟥 Meet to discuss 45-minute metrics per [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69699)
-       - 🟥 [Research] Analyze GA Metrics
+       - ✔️ 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/68086)
 - **GOAL: Address Tech Debt**
     - **Sub Goal: [Remove Logging for Certain 40x Errors](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69994)**
