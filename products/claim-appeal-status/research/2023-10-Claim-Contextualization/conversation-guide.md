@@ -115,7 +115,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Do Veterans understand the graphic? Does it seem to be helpful?
 - Do Veterans understand that claims may go back and forth between steps? How do they feel about that?
 
-## Fourth Task: Checking Back In on the Claim - 15 minutes
+## Fourth Task: Checking Back on the Claim - 15 minutes
 
 Now let's imagine you log out, a couple more weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
 
