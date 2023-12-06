@@ -280,8 +280,8 @@ Let's say that you recently moved and want to make sure that your mail and benef
 *(See previous page and* Chris *or* Sign Out *in top right corner)*
 
 *RECORD navigation: 
-- *(desktop) Chris > Profile* 
-- *(mobile) Menu > My Profile > Profile*
+- *(desktop) **Chris > Profile*** 
+- *(mobile) **Menu > My Profile > Profile***
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
