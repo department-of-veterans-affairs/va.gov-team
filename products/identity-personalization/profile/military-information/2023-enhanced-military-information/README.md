@@ -7,7 +7,7 @@
 
 ## Table of Contents 
 
--  Communications
+-  [Communications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#communications)
 -  [Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#roles)
 -  Partners
 -  Overview
