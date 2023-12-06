@@ -4,6 +4,7 @@
 Period - 12/06/2023 - 12/19/2023
 ### Sprint goals 
 - **Expedited**
+   - [ ] #71011 - User Signed at Date for ancillary forms (form4142, form0781, form8940) should be distinguished from programatic submission date
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
        - PPIU - Direct Debit 
