@@ -18,8 +18,7 @@ Period - 12/06/2023 - 12/19/2023
    - 526ez sync with paper version 
        - Toxic Exoposure - unblocked work
            - [ ] New mocks for timeframe location capture
-           - [ ] FE Engineering - Create tickets for build
-           - [ ] Start work, if unblocked
+           - [ ] Discovery for mock-ups in progress
 - **Research**
   - Shadow Research
     - [ ] Shadow Research sessions
@@ -28,7 +27,9 @@ Period - 12/06/2023 - 12/19/2023
 - **Stretch Goals**
   - Engineering
      - [ ] PCIU Discovery
-     - [ ] Unit tests coverage to 80% for unblocking future code shipment
+     - [ ] Unit tests coverage to 80% plus buffer for unblocking future code shipment
+     - [ ] FE Engineering - Create tickets for build for TE when unblocked
+     - [ ] Start work, if unblocked
   - Design
      - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
   - Research
