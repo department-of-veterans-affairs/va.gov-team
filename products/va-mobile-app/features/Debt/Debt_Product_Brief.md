@@ -1,4 +1,4 @@
-# Sprint 0 Product Brief Template - Copy this
+# VA Debt within Health & Benefits Mobile App - Product Brief 
 
 [#4352](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4352)
 
