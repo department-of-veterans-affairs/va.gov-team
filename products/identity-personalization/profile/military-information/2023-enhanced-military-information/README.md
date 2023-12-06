@@ -64,8 +64,6 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Proposed Solution/Phases
 
-[insert a chart here and link off to each phase]
-
 |Phase|Short Description (w/link)|Details|
 |:-:|---|---|
 |1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)||
