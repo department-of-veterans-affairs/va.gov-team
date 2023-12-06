@@ -20,3 +20,7 @@
   10.) Review what meetings are critical and needed for QA to attend vs optional 
   
   11.) Explore the possibility of keeping the last 2 days of the sprint open from QA to focus on just testing 
+
+  12.) Require visual QA tickets that UX needs to complete prior to QA starting testing 
+
+  13.) Make Visual QA tickets required for MVP 
