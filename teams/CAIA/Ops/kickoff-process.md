@@ -15,7 +15,7 @@
 
 ## Overview
 
-### Kickoff Purpose
+### Kickoff Purpose 🤷‍♂️
 
 #### What is the purpose of this document? 📄
 
