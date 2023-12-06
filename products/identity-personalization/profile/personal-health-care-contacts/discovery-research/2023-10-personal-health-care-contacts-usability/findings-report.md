@@ -49,6 +49,10 @@ We conducted remote usability and interview sessions with Zoom. The interviews c
 ## Hypotheses and Conclusions
 _Hypothesis 1:_ Participants will sign in, go to the "Profile", then navigate to “Personal health care contacts” in order to view EC and NOK information.  
 
+Profile           |  Personal health care contacts
+:-------------------------:|:-------------------------:
+![MyHealth](https://user-images.githubusercontent.com/58444931/235532742-5adbb883-b3e4-41a6-982c-aaf64bc0f40a.png)|![Landingpage](https://user-images.githubusercontent.com/58444931/235532223-55138331-93f7-4728-98b7-2bb5dc039437.png)
+
 _Hypthesis 2:_ Participants will understand the EC and NOK information and understand how to update information. 
 
 _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK information in place. 
