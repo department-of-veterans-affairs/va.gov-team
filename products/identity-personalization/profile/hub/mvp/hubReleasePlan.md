@@ -30,8 +30,8 @@
 - [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability) 
 - [Analytics Dashboard for Search](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
      - for the hub our goal is "Objective #1: Reduce searches from within profile for items in the profile"
-- [QA Testing Ticket
-- [QA Spreadsheet
+- [QA Testing Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69415)
+- [QA Spreadsheet](https://docs.google.com/spreadsheets/d/1NfYZh4LFTVw8ZFbiv9AVkLipvxdzwwD7lKv3t7V8QMo/edit#gid=0)
 
 
 
