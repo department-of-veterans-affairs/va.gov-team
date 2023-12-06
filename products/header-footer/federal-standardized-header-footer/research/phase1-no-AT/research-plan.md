@@ -184,4 +184,4 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Dave Conlon (PO) on Nov 7, 2023
-- Shane Strassberg (VA Research Ops) on TBD
+- Shane Strassberg (VA Research Ops) on Dec 6, 2023
