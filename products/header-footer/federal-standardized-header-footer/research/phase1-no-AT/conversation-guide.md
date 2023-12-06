@@ -20,7 +20,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype:* **TBD and TBD**
+- *Open a standalone browser window to prototypes:* **TBD and TBD**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -279,7 +279,9 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *(See previous page and* Chris *or* Sign Out *in top right corner)*
 
-*RECORD navigation: **(desktop) Chris > Profile / (mobile) Menu > My Profile***
+*RECORD navigation: 
+- *(desktop) Chris > Profile* 
+- *(mobile) Menu > My Profile > Profile*
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
