@@ -132,6 +132,9 @@ P6: "Man that’s horrible! You should be able to do it on the website."
 
 **Note:** One participant was having technical trouble during this portion of the study 
 
+<img width="746" alt="Screenshot 2023-12-06 at 4 30 38 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/b63e3afb-0ad1-439c-b3b2-6a00d97fe1cb">
+
+
 ### 7) 9 of 9 participants wanted at least two **Medical emergency contacts** and most participants (7 of 9) wanted multiple **Next of kin** contacts listed.
 
 Participants wanted multiple contacts listed in case the primary contact was not available. 
