@@ -19,6 +19,7 @@ Period - 12/06/2023 - 12/19/2023
        - Toxic Exoposure - unblocked work
            - [ ] New mocks for timeframe location capture
            - [ ] Discovery for mock-ups in progress
+      - Service History changes from mid-point, if capacity
 - **Research**
   - Shadow Research
     - [ ] Shadow Research sessions
