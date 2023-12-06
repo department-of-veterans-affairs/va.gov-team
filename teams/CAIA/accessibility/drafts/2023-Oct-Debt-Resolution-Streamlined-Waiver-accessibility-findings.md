@@ -1,3 +1,4 @@
+`[NO LONGER A WIP - NOT COMPLETED DUE TO PARTICIPATION]`
 # About this Research Study
 - **Study Name:** Debt Resolution: Streamlined Waiver
 - **Study Dates:** October 24 - November 3, 2023
