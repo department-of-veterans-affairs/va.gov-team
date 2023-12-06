@@ -155,6 +155,8 @@ export default function ParentComponent({ children }) {
 }
 
 // New
+import { Outlet } from 'react-router-dom-v5-compat';
+
 export default function ParentComponent({ children }) {
   return (
     <Outlet />
