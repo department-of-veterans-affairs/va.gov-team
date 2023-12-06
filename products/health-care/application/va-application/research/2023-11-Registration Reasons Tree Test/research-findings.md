@@ -199,17 +199,18 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
  Recruited 8 cohorts 
-- COHORT 1 = All NOT enrolled in VA health care benefits
-- COHORT 2 = All NOT enrolled in VA health care benefits
-
+- COHORT 1 = All NOT enrolled in VA health care benefits (Women) (4 completed)
+- COHORT 2 = All NOT enrolled in VA health care benefits (Men) (5 completed)
+- COHORT 3 = All NOT enrolled in VA health care benefits (18-34 years old) (2 completed)
+- COHORT 4 = All NOT enrolled in VA health care benefits (35 - 54 years old) (4 completed)
+- COHORT 5 = All NOT enrolled in VA health care benefits (55+ years old) (5 completed)
+- COHORT 6 = All NOT enrolled in VA health care benefits Disability rating  (2 completed)
+- COHORT 7 = All NOT enrolled in VA health care benefits Disability rating (Cognitive Impairment) (8 completed)
+- COHORT 8 = All ARE enrolled in VA health care benefits All receive disability compensation (5 completed)
 
 
 **35 participants** completed the unmoderated tree test tasks and questions.
