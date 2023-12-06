@@ -96,8 +96,11 @@ We will use the findings to:
     * Do Veterans know how to prepare for their appointment?
     * What do Veterans expect to do on the details page?
     * What is the first action veterans take on an appointment details page.
-* **CTA’s:**
+* **CTA's:**
     * What is the first action veterans take on an appointment details page.
+* **Tasks**
+   * What is the findability of the actions in the details pages (AVS, pre-check-in)
+     
 
 
 ## Method
