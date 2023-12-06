@@ -15,3 +15,8 @@
   
   8.) Consider having Mobile teams update detox testing vs having QA do it - some FE do it already today 
   
+  9.) Create a PR turn around policy for QA review 
+  
+  10.) Review what meetings are critical and needed for QA to attend vs optional 
+  
+  11.) Explore the possibility of keeping the last 2 days of the sprint open from QA to focus on just testing 
