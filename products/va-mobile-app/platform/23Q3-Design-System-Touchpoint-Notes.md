@@ -10,6 +10,7 @@ Agenda:
     * Who would we work with from VADS?
     * desired outcomes
 *   Q1 Planning
+*   va-mobile-library repo - moving tickets
       
 ## 11/21/23
 *   Review Button component in Storybook
