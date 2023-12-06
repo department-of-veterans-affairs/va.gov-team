@@ -22,8 +22,8 @@ Please log key decisions related to the below practice areas, including date, wh
 |-----------------------------------------------------------------------------------------------|-----------------| 
 | The field for reactions will not be displayed as part of the vaccine data in production.                                  | After significant research and review of data, it was determined that CPRS 32b, which removed the reaction field from vaccines, was released Sep 29, 2022 and all sites (except those on Cerner) should have installed it by Dec 16, 2022.  This change made recording reactions as part of the vaccines record obsolete, and as a result, Dr. Josephs recommended that we not display it.  
 | The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
-| The list view page for allergies will be at the URL …/my-health/medical-records/vaccines/ |   |
-| A details page for allergies will be at the URL …/my-health/medical-records/vaccines/vaccine_ID |     |
+| The list view page for vaccines will be at the URL …/my-health/medical-records/vaccines/ |   |
+| A details page for vaccines will be at the URL …/my-health/medical-records/vaccines/vaccine_ID |     |
 | The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|
 | A user can print from the list view. When they do, they receive a print out of all of their vaccines |     |
 | A user can print from the details view. When they do, they receive a print out of the details for just that vaccine |     |
