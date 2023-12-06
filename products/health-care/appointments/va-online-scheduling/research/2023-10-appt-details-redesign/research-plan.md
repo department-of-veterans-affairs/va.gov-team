@@ -95,6 +95,7 @@ We will use the findings to:
     * Do Veterans know where to go for their appointment?
     * Do Veterans know how to prepare for their appointment?
     * What do Veterans expect to do on the details page?
+    * Do Veterans know how to join their telehealth appointments.
     * What is the first action veterans take on an appointment details page.
 * **CTA's:**
     * What is the first action veterans take on an appointment details page.
