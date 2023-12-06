@@ -68,7 +68,8 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 - We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
 
 - Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience?
-  - _If needed:_ You mentioned ___. Could you tell me more about that? 
+  - _If needed:_ You mentioned ___. Could you tell me more about that?
+  - Do you create multiple claims for different appts on the same day?
 
 - If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like? 
 
