@@ -216,7 +216,7 @@ N/A
 
 **Recruitment criteria**
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
 * Veterans: 10
