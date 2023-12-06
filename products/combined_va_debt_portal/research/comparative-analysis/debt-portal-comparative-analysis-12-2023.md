@@ -19,6 +19,28 @@ Summary of some of the comments that were made about the issues on the Debt Port
       
     
 
+
+
+## Goals
+
+## This comparative analysis aimed to observe the following:
+
+-   How do sites show a summary of bills?
+    
+-   How do they organize the contents of a bill?
+    
+-   How do they show actions for specific bills?
+    
+-   How can users pay their bills?
+    
+-   How do they display an account number (if applicable)? (This is needed to pay on Pay.gov and Pay.VA.gov)
+    
+
+  
+
+This analysis will look at the following sites:
+
+
 1.  The Debt Portal contains information on both copays as well as overpayments. For this comparative analysis we’re interested in health care related sites as well as sites that focus on loan payments.
    
       -   Labcorp – Clinical laboratory
@@ -38,42 +60,6 @@ Summary of some of the comments that were made about the issues on the Debt Port
     
       -   MyHealtheVet – healthcare hub that displays links to handle medical care such as making a doctor’s appointment.
     
-
-## Goals
-
-## This comparative analysis aimed to observe the following:
-
--   How do sites show a summary of bills?
-    
--   How do they organize the contents of a bill?
-    
--   How do they show actions for specific bills?
-    
--   How can users pay their bills?
-    
--   How do they display an account number (if applicable)? (This is needed to pay on Pay.gov and Pay.VA.gov)
-    
-
-  
-
-Looking at the following types of sites:
-
--   Insurance
-    
--   Health care providers
-    
--   Loan repayment
-    
-
-  
-
-The second portion of this analysis will look at sites that other government sites that Veterans may interact with to pay their bills or take care of their health:
-
--   Pay.gov
-    
--   Pay.VA.gov
-    
--   MyHealtheVet
     
 
   
