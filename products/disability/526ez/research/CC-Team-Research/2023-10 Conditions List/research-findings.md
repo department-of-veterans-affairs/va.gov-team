@@ -120,7 +120,7 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 ## Key Findings
 
-1. [Most participants found the component easy to use for entering and saving conditions.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.n81bfn63kex2)
+1. [Most participants found the component easy to use for entering and saving conditions.](#Most-participants-found-the-component-easy-to-use-for-entering-and-saving-conditions.)
 
 2. [Participants selected conditions from the autosuggestions most of the time.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.bhaylkh6183j)
 
