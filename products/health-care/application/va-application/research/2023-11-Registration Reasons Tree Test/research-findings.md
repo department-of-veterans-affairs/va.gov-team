@@ -206,7 +206,11 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We recruited 8 cohorts 
+ Recruited 8 cohorts 
+- COHORT 1 = All NOT enrolled in VA health care benefits
+- COHORT 2 = All NOT enrolled in VA health care benefits
+
+
 
 **35 participants** completed the unmoderated tree test tasks and questions.
 
@@ -217,8 +221,8 @@ Audience segment:
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 28
+* Female: 7
 
 
 LGBTQ+: Unknown - did not ask in screener questions
@@ -235,21 +239,21 @@ Devices used during study: Unknown - did not ask in screener questions
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 6
+* 35-44: 12
+* 45-54: 5
+* 55-64: 2
+* 65+: 3
+* Unknown: 2
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
+* High school degree or equivalent: 4
+* Some college (no degree): 9
+* Associate's degree, trade certificate or vocational training: 6
+* Bachelor's degree: 12
+* Master's degree: 4
+* Doctorate degree: 1
 * Unknown: x
 
 
