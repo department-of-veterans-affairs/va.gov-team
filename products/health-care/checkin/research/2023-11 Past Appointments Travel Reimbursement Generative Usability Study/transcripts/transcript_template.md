@@ -1,8 +1,7 @@
 ## P_ Transcript 
 
-Date: 
-
-Moderator: 
+- Date: 
+- Moderator: 
 
 ## Transcription 
 
