@@ -7,6 +7,19 @@
 
 ## Table of Contents 
 
+-  Communications
+-  [Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md#roles)
+-  Partners
+-  Overview
+-  MVP
+-  Problem Statement
+-  Product Goals
+-  Proposed Solutions/Phases
+-  Measuring Success
+-  Key Deliverables
+-  Key Dates
+-  Design
+
 ## Communications
 
 - **Github labels**: authenticated-experience, military-info
