@@ -124,13 +124,13 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 2. [Participants selected conditions from the autosuggestions most of the time.](#participants-selected-conditions-from-the-autosuggestions-most-of-the-time.)
 
-3. [Some participants faced difficulties finding their conditions in the suggested condition list.](#some-participants-faced-difficulties-finding-their-conditions-in-the-suggested-condition-list.)
+3. [Some participants faced difficulties finding their conditions in the suggested condition list.](#some-participants-faced-difficulties-finding-their-conditions-in-the-suggested-condition-list)
 
-4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search, other page and component elements caused confusion and interaction difficulties.)
+4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search-other-page-and-component-elements-caused-confusion-and-interaction-difficulties.)
 
-5. [Some participants did not realize they could submit free text within the same component that offers autosuggestions.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.1rd1gffqfzb2)
+5. [Some participants did not realize they could submit free text within the same component that offers autosuggestions.](#some-participants-did-not-realize-they-could-submit-free-text-within-the-same-component-that-offers-autosuggestions)
 
-6. [Most of the time, Veterans know what conditions they have based on what they are experiencing, past medical exams and diagnoses, even if they sometimes forget the exact term. For many Veterans, the bigger challenge is understanding what conditions can be service-connected.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.j243lljhz09d)
+6. [Most of the time, Veterans know what conditions they have based on what they are experiencing, past medical exams and diagnoses, even if they sometimes forget the exact term. For many Veterans, the bigger challenge is understanding what conditions can be service-connected.](#most-of-the-time-Veterans)
 
 7. [Veterans are concerned about the accuracy of their claim, but the nature and degree of concern varies.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.4rcdxgnbd0ei)
 
