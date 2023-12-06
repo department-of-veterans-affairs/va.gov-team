@@ -7,7 +7,7 @@ Initial research will test with Veterans and beneficiaries to validate that it c
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer)
 
-[Link to card in research repo TBD]()
+[Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/447)
 
 ### OCTO Priorities 
 
@@ -92,7 +92,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
--  Perigean to recruit **9 Veterans and 3 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. Criteria are also in this [recruitment intake ticket TBD](). 
+-  Perigean to recruit **9 Veterans and 3 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. Criteria are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/446). 
 
 ### Required criteria (in decreasing order of priority)
   - *Primary criteria:*
@@ -179,7 +179,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD
-- **Note-takers: Perigean	(in github)**
+- **Note-takers: Perigean (in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
 ## Approvals
