@@ -23,6 +23,6 @@
 
   12.) Require visual QA tickets that UX needs to complete prior to QA starting testing 
 
-  13.) Make Visual QA tickets required for MVP 
+  13.) Make Visual QA tickets required for MVP - push Visual QA responsibilities on UX and less on QA 
 
   14.) Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days? 
