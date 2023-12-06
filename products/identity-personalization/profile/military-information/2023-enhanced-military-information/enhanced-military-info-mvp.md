@@ -42,7 +42,7 @@ For the MVP, our work does this by:
 The MVP data points we're focusing on are tightly linked with the 526EZ application process. See the initiative outline for the larger list of data elements that will eventually be incorporated. 
 
 1. dates of, and branches of, service (already supported) - incorporating active vs. inactive duty 
-2. ~units with which the Veteran or Service member served~ the data quality simply isn't there given a recent call on 12/6
+2. ~units with which the Veteran or Service member served~ [the data quality simply isn't there given call on 12/6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/meeting-notes/2023-12-06-data-sync.md)
 3. deployment locations and start and end dates of deployments
 4. military occupational specialties
 
