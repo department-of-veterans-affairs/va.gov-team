@@ -9,6 +9,7 @@ Agenda:
 *   Incorporating our docs with VADS
     * Who would we work with from VADS?
     * desired outcomes
+*   Sharing Icons with VADS?
 *   Q1 Planning
 *   va-mobile-library repo - moving tickets
       
