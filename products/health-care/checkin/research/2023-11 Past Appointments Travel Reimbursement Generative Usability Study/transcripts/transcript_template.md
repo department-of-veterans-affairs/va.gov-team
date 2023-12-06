@@ -16,6 +16,8 @@
 - What device are you using to join this session today?
   > 
 
+-----
+
 ### General travel questions - 5-7 minutes
 
 - Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience? 
@@ -136,7 +138,7 @@
 - Were there any other terms you expected to be here that were not included?
   > 
 
-
+-----
 ### Post-Task Interview - 1-2 minutes
 
 - Do you have any questions for me or anything else you’d like to share?
