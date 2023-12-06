@@ -52,18 +52,23 @@ All pages have ratings of 2 or below.
 2. [How to check in with your smartphone for some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (91% good out of 1,002 responses)
 3. [Managing your VA.gov profile](www.va.gov/resources/managing-your-vagov-profile/) (82% good out of 476 total responses)
 4. [VETtext for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (95% good out of 285 total responses)
-5. [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (
+5. [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (95% good out of 172 total responses)
 
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1. 
+1.  [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (37% out of 252 total responses)
+2.  [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (16% good out of 154 total responses)
+3. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (42% good out of 99 total responses)
+4. [How to get help with concerns at a VA health facility](www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (26% good out of 39 total responses)
+5. [DS Logon FAQs](www.va.gov/resources/ds-logon-faqs/) (28% good out of 25 total responses)
+
 ## Analysis
 [Resources and support ratings spreadsheet]
-- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 77% "good" average rating.
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 75% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
-  - 19% of pages are scoring at 90% or higher "good"
-  - 35% of pages are meeting our goal of 75% or higher "good," while 49% of pages are scoring 70% or higher
-- 28% of pages are scoring at less than 50% "good," with 8% scoring at less than 10% "good" (though 9 of those are based on 1-2 total responses)
+  - 22% of pages are scoring at 90% or higher "good"
+  - 49% of pages are meeting our goal of 75% or higher "good," while 56% of pages are scoring 70% or higher
+- 16% of pages are scoring at less than 50% "good," with 0% scoring at less than 10% "good" 
 - 2 of the top-scoring pages are related to the PACT Act and presumptive conditions (with the presumptive conditions list page getting a 100% "good" score). PACT-related content continues to perform exceptionally well.
 - Health care content is generally among the highest-scoring content in both experience ratings (1-5) and "good"/"bad" ratings, with the exception of travel pay reimbursement.
 - Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
