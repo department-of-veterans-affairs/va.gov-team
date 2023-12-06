@@ -97,7 +97,7 @@ Participants for this study: 8 Veterans. We would like to request a kickoff call
 **Primary criteria (must-haves)**
 All participants have used VA.gov (in any capacity, whether to file some kind of claim or to access information). 
 * Experience with disability benefits
-  * 4 Veterans (50%) who have never filed for disability, but who intend to within a year. 
+  * 4 Veterans (50%) who have never filed for disability, but who intend to within a year **on va.gov**. 
   * 4 Veterans (50%) who have filed for disability benefits before on va.gov.
 * Time of service 
   * At least 2 Veterans (target 4 Veterans) who served in 1990 or before.
