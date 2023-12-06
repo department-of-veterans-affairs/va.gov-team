@@ -149,8 +149,8 @@ Appointments: Appointments will be found in “appointments” section of My Hea
 
 ## Launch Dates
 - *Phase 0 Launch Date*
-  - October 2023 - Allergies - [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/allergies/rollout_checklist.md)
-  - December 2023 - Vaccines - [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/vaccines/rollout_checklist.md)
+  - October 2023 - Allergies - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/allergies/rollout_checklist.md)
+  - December 2023 - Vaccines - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/vaccines/rollout_checklist.md)
   - December 2023 - Care Summaries/Notes
 
 ---
