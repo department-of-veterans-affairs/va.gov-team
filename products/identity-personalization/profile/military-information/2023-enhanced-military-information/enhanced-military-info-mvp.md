@@ -1,6 +1,6 @@
 # MVP - Enhanced Military Information 
 
-**Last Updated: 11/7/2023** minor content changes
+**Last Updated: 12/6/2023** updated the data elements
 
 `WIP`
 
