@@ -233,7 +233,7 @@ Pretend that lately you've been having difficulty with your hearing, and you thi
 ### Task 5: [Find a Form]
 Let's say that you're considering going back to school to get your degree, and you'd like to see if the VA can help you pay for it. How might you apply online?  
 
-*RECORD navigation: header > megamenu > Education and training / **footer > VA forms** / search / **mobile header > search > Find a VA form***
+*RECORD navigation: header > megamenu > Education and training > How to apply / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -279,7 +279,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *(See previous page and* Chris *or* Sign Out *in top right corner)*
 
-*RECORD navigation: **Sign in > Chris OR Menu > Profile***
+*RECORD navigation: **(desktop) Chris > Profile / (mobile) Menu > My Profile***
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
