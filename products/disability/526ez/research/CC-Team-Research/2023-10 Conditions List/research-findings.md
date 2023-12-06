@@ -120,13 +120,13 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 ## Key Findings
 
-1. [Most participants found the component easy to use for entering and saving conditions.](#Most-participants-found-the-component-easy-to-use-for-entering-and-saving-conditions.)
+1. [Most participants found the component easy to use for entering and saving conditions.](#most-participants-found-the-component-easy-to-use-for-entering-and-saving-conditions)
 
-2. [Participants selected conditions from the autosuggestions most of the time.](#Participants-selected-conditions-from-the-autosuggestions-most-of-the-time.)
+2. [Participants selected conditions from the autosuggestions most of the time.](#participants-selected-conditions-from-the-autosuggestions-most-of-the-time.)
 
-3. [Some participants faced difficulties finding their conditions in the suggested condition list.  ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.cmjbd7iz7myy)
+3. [Some participants faced difficulties finding their conditions in the suggested condition list.](#some-participants-faced-difficulties-finding-their-conditions-in-the-suggested-condition-list.)
 
-4. [Besides the search, other page and component elements caused confusion and interaction difficulties. ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.ur2xc851a8js)
+4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search, other page and component elements caused confusion and interaction difficulties.)
 
 5. [Some participants did not realize they could submit free text within the same component that offers autosuggestions.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.1rd1gffqfzb2)
 
