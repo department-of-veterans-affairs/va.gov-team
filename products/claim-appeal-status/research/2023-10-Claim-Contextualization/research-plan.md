@@ -93,5 +93,5 @@ Dates TBD
 - Participant recruiting & screening: Perigean
 - Project point of contact: Skyler Schain (skyler@coforma.io)
 - Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy(david.kennedy@adhocteam.us)
 - Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
