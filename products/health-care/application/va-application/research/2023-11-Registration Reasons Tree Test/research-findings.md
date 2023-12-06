@@ -206,12 +206,14 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We recruited 8 cohorts 
+
+**35 participants** completed the unmoderated tree test tasks and questions.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 35 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
@@ -219,13 +221,13 @@ Gender:
 * Female: x 
 
 
-LGBTQ+:
+LGBTQ+: Unknown - did not ask in screener questions
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
 
-Devices used during study: 
+Devices used during study: Unknown - did not ask in screener questions
 * Desktop: x 
 * Tablet: x 
 * Smart phone: x 
@@ -251,43 +253,47 @@ Education:
 * Unknown: x
 
 
-Geographic location:
+Geographic location: - did not ask in screener questions
 * Urban: x
 * Rural: x
-* Unknown: x
+* Unknown: 35
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 21
+* Black: 4
+* Hispanic: 7
+* Biracial: 2
+* Asian: 3
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 9
+* AT beginner: NA
+* AT advanced user: NA
+* Desktop screen reader: NA
+* Mobile screen reader: NA
+* Magnification/Zoom: NA
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: NA
+* Hearing aids: NA
+* Sighted keyboard: NA
+* Captions: NA
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1091371841)
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+This research does not include the perspectives of the following marginalized Veteran groups - we did not recruit for these segments:
+* Other than honorable discharge
+* Rural 
+* Immigrant Origin
+* Living Abroad
+* Native
+* LGBTQ+
+
+<img width="1123" alt="Screenshot 2023-12-05 at 4 59 32 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/1d2000c9-d959-43dd-99b8-973d1b26d432">
+
+
