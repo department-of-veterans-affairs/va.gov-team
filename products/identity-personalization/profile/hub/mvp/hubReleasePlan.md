@@ -72,6 +72,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 - [Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
+- [AE Sandbox for monitoring](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
 
 
 ## Go Live
@@ -79,11 +80,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 For metrics see the product outline as each phase has metrics tracked there. 
 
 ### Planning 
+Since this is a cosmetic shift without complex logic unique to individual users. We s
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% |  |  |
-| Launch to 50% |  |  |
-| Launch to 100% |  |  |
+| Launch to 100% | 12/19/2023 |  |
 
 ### 1-week results at 100%
 ||Results|
