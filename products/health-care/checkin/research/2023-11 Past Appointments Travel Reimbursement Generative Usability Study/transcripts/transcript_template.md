@@ -33,107 +33,108 @@ Moderator:
 **Email**
 
 - Is there anything confusing about this information?
->
+  >
 
 - How does this compare to what you’d expect to be in an email like this?
+  >
 
 - Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here.
-> 
+  > 
 
 **Appointment list**
 
 - Ok, I’ll have you stop here. Was there anything confusing about that process? 
-> 
+  > 
 
 - Where were you expecting to end up?
+  >
 
 - Now let’s take a look at what’s on this page. Can you briefly review the page and tell me about it?
-> 
+  > 
 
 - What about the x/close button in the card? What would you expect to happen if you selected that?
-> 
+  > 
 
 - And if you did select to dismiss it, how would you find that information again?
-> 
+  > 
 
 **Intro page**
 
 -Is there anything confusing about this page and the information included here?
-> 
+  > 
 
 - Ok, go ahead and continue.
-> 
+  > 
 
 **Review page**
 
 - I’ll stop you here for a second. Can you tell me about this page?
-> 
+  > 
 
 - Ok, go ahead and continue.
-> 
+  > 
 
 **Success page**
 
 - Talk to me about this page and the information included here.
-> 
+  > 
 
 **Past appointments page**
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
-> 
+  > 
 
 **Appointment details page w/ action link**
 
 - Is there anything confusing about this page and the information included here?
-> 
+  > 
 
 **Appointment details page that's been filed**
 
-> 
+  > 
 
 - What do you think "type of care not noted" means?
->
+  >
 
 
 
 ### Task #2: BTSSS status questions - 10 minutes
 
 - Submitted for Payment
-> 
+  > 
  
 - Payment Canceled
-> 
+  > 
  
 - Denied
-> 
+  > 
 
 - Approved for Payment
-> 
+  > 
 
 - In Manual Review
-> 
+  > 
 
 - On Hold
-> 
+  > 
 
 - Saved
->  
+  >  
 
 - Claim Paid
-> Accepted and paid.
-> 
+  > 
 
 - Incomplete
-> 
+  > 
 
 - Fiscal Rescinded
-> 
+  > 
 
 - Claim Submitted
-> 
+  > 
 
 - Were there any other terms you expected to be here that were not included?
-> 
+  > 
 
 
 ### Post-Task Interview - 1-2 minutes
