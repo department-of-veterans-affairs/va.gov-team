@@ -1,4 +1,4 @@
-# SM Exchange
+# [WIP] SM Exchange
 
 ## Assumptions (Need to be validated and Open to challenged)
 
