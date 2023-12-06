@@ -32,9 +32,9 @@ For an application to enter rollout Phase 0, the following must be true:
      
 - [ ] Review established definition of done for MVP 
 
-- [ ] Go-no-go meeting(s) scheduled 
-     - [ ] After readiness & staging review 
-     - [ ] Accessibility is included  
+- [X] Go-no-go meeting(s) scheduled 
+     - [X] After readiness & staging review 
+     - [X] Accessibility is included  
 
 - [ ] Team members and go/no-go decisions are added to the product decision log  
 
@@ -55,11 +55,11 @@ For an application to enter rollout Phase 0, the following must be true:
 
 -  Product guides developed and shared with: 
 
-      - [ ] Contact Centers 
+      - [X] Contact Centers 
 
-      - [ ] MHV Coordinators  
+      - [X] MHV Coordinators  
 
-      - [ ] Facility POCs
+      - [X] Facility POCs
  
       - *Product guide has no changes planned until ready for Phase 1*
 
@@ -81,7 +81,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] All the MUST feedback complete; *Replicating the feedback from Allergies staging review for all domains, MHV-51155*
 
-- [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
+- [X] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
 - [X] Establish email box for the feedback loop 
  
@@ -92,7 +92,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] QA / user acceptance testing completed  
 
-- [ ] Research documented in Github 
+- [X] Research documented in Github 
 
 
 ### Accessibility 
