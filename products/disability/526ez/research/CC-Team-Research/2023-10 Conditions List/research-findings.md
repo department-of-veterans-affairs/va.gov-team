@@ -122,7 +122,7 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 1. [Most participants found the component easy to use for entering and saving conditions.](#Most-participants-found-the-component-easy-to-use-for-entering-and-saving-conditions.)
 
-2. [Participants selected conditions from the autosuggestions most of the time.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.bhaylkh6183j)
+2. [Participants selected conditions from the autosuggestions most of the time.](#Participants-selected-conditions-from-the-autosuggestions-most-of-the-time.)
 
 3. [Some participants faced difficulties finding their conditions in the suggested condition list.  ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.cmjbd7iz7myy)
 
