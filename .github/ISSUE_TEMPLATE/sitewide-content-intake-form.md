@@ -1,6 +1,6 @@
 ---
 name: Sitewide Content, Accessibility, and IA Intake Form
-about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team. If you’re already partnering with us on an initiative (review the note at the top of this ticket template).
+about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
 title: "<Type of Request> from <Team>"
 labels: sitewide CAIA, sitewide content-product support
 assignees: strelichl,coforma-terry
