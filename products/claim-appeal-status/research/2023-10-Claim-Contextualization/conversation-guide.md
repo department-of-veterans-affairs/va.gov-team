@@ -95,7 +95,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Do Veterans seem to want more understanding of what's happening than what is provided on the Status tab?
 - Do Veterans know to navigate to the Overview tab to find out more details about what's going on with their claim?
 
-## Third Task: Overview Tab Part 1 - 15 minutes
+## Third Task: Overview Tab - 15 minutes
 
 [Participant clicks into the Overview tab]
 
