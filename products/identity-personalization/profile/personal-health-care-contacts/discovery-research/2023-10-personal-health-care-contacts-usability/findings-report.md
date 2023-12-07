@@ -50,7 +50,8 @@ We conducted remote usability and interview sessions with Zoom. The interviews c
 
 **_Hypothesis 1:_** Participants will sign in, go to the VA.gov Profile, then navigate to _Personal health care contacts_ in order to view _Emergency contact_ and _Next of kin_ information.  
 
-**True:** Since most participants looked for this information within their VA.gov Profil (see findings 1 and 2). 
+**True:** 
+- Since most participants looked for this information within their VA.gov Profil (see findings 1 and 2). 
 
 Profile           |  Personal health care contacts
 :-------------------------:|:-------------------------:
@@ -81,7 +82,7 @@ Profile           |  Personal health care contacts
 
 ## Details of Findings 
 
-### 1) Participants expected that they would need to sign in to VA.gov to review Medical emergency contact and next of kin information, and most participants (6 of 9) looked within their profile. 
+### 1) Participants expected that they would need to sign in to VA.gov to review _Medical emergency contact_ and _Next of kin_ information, and most participants (6 of 9) looked within their profile.
 
 When asked how a participant would ensure the VA has the correct information on file, all 9 participants were able to recognize and articulate how they would start that process by signing in. 
 
@@ -95,7 +96,7 @@ After signing in/or articulating that process:
 
 ---
 
-### 2) Once on the Profile, the majority of participants were able to navigate to the "Personal health care contacts" section of the Profile with relative ease.
+### 2) Once on the Profile, the majority of participants were able to navigate to the _Personal health care contacts_ section of the Profile with relative ease.
 
 6 of 7 participants went to the "Personal health care contacts" to view their emergency contact and next of kin information (2 participants were having technical difficulty during this portion of the study). 1 participant went to the "Contact information" section of Profile first before heading to the "Personal health care contacts" page. 
 
@@ -107,7 +108,7 @@ After signing in/or articulating that process:
 
 ---
 
-### 3) Most participants (7 of 9) understood the concept of Medical emergency contact. "Medical" in Medical emergency contact caused confusion with 2 participants. All participants understood the term Emergency contact.
+### 3) Most participants (7 of 9) understood the concept of _Medical emergency contact_. "Medical" in _Medical emergency contact_ caused confusion with 2 participants. All participants understood the term _Emergency contact_.
 
 2 participants thought Medical emergency contact was a contact they could reach out to at the VA if they had an emergency and needed assistance right away, similar to 911. When asked about the meaning of "Emergency contact," these two participants comprehended it as the person to be contacted in case of an emergency.
 
@@ -123,7 +124,7 @@ When asked later in the session about **Emergency contact,**
 
 —--
 
-### 4) Most participants (6 of 9) associated **Next of kin** with family and initially did not differentiate between **Medical emergency contact** and **Next of kin contact.** 
+### 4) 4. Most participants (6 of 9) associated _Next of kin_ with family and initially did not differentiate between _Medical emergency contact_ and _Next of kin contact_.
 
 Participants frequently interpreted "Next of kin" as a family member designated emergency contact. Once on the **Personal health care contacts** page, participants relied on the hint text to distinguish between the two concepts. 
 
@@ -143,7 +144,7 @@ Once on the **Personal health care contacts** page participants stated,
 ![Next of kin info](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e2dc3250-e3a9-4a83-b039-1478a547818d)
 
 ---
-### 5) Participants wanted a way to edit both **Medical emergency contact** and **Next of kin contact** information on the **Personal health care contacts** page.
+### 5) 5. Participants wanted a way to edit both _Medical emergency contact_ and _Next of kin contact_ information on the _Personal health care contacts_ page.
 
 All 9 participants wanted functionality to edit and add contacts on the page.
 
@@ -155,10 +156,9 @@ All 9 participants wanted functionality to edit and add contacts on the page.
 
 <img width="1046" alt="Screenshot 2023-12-05 at 4 34 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/cbad7811-3cc5-4996-a17d-23a62dfd8709">
 
-
 ---
 
-### 6) 6 of 8 participants found the information about how to update their **Personal health care contacts** and understood the process. 
+### 6) 6 of 8 participants found the information about how to update their _Personal health care contacts_ and understood the process.
 
 2 participants did not notice the component to learn how to update their information but once prompted by the moderator, understood the content. 
 
@@ -167,7 +167,7 @@ All 9 participants wanted functionality to edit and add contacts on the page.
 <img width="746" alt="Screenshot 2023-12-06 at 4 30 38 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/b63e3afb-0ad1-439c-b3b2-6a00d97fe1cb">
 
 
-### 7) 9 of 9 participants wanted at least two **Medical emergency contacts** and most participants (7 of 9) wanted multiple **Next of kin** contacts listed.
+### 7) 9 of 9 participants wanted at least two _Medical emergency contacts_ and most participants (7 of 9) wanted multiple _Next of kin_ contacts listed.
 
 Participants wanted multiple contacts listed in case the primary contact was not available. 
 
@@ -181,7 +181,7 @@ One participant stated when referring to next of kin,
 
 ---
 
-### 8) Participants considered "name" and "phone number(s)" as crucial information within both the Medical emergency contact and Next of kin contact sections. 
+### 8) Participants considered "name" and "phone number(s)" as crucial information within both the _Medical emergency contact_ and _Next of kin contact_ sections.
 
 2 participants thought multiple phone numbers (e.g. home, work, mobile) would be important. 1 participant brought up the importance of labeling a home phone so that no one would accidentally try to send a text message to that number.
 
@@ -194,7 +194,7 @@ One participant stated when referring to next of kin,
 > If you want this person contacted, you're going to have to provide a wealth of information to get in touch with them - P8 
 
 
-### 9) Participants clearly understood that both the Medical Emergency contact and Next of Kin contact were specifically associated with health care.
+### 9) Participants clearly understood that both the _Medical Emergency contact_ and _Next of kin contact_ were specifically associated with health care.
 
 Of the 6 participants asked, those participants understood that this information did not pertain to other benefits.  
 
