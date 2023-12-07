@@ -70,15 +70,15 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 
 ## Hypotheses and Conclusions
 
-- We assume that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
+We assume that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
 - **Maybe true**
 - For the C&P exam task, Facilities and locations was the highest first click destination at 37%. Other tasks with appointments did not have as high of a first click rate on the locations hub. Users also navigated to the benefit hubs (disability or health care) 54% of the time.
 
-- We assume that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
+We assume that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
 - **Likely false**
 - Reason: Participants had a low success rate for this task at 23% and often navigated to the disability hub.
 
-- We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
+We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
 - **Maybe true**
 - The direct path to the 10-10EZ application / get benefits node was low and many other areas of the site were navigated to.
 
@@ -228,11 +228,84 @@ Score: 2/10
 
 
 
+### Registration Reason:  C&P Disability Benefits Exam
+
+This task included the highest percentage of participants going to the Facilities hub of the site on first click, the second area most navigated to was the disability hub.
+
+Success Rate: 26%
+Directness: 49%
+Score: 2/10
+
+**Hypothesis destinations**
+- Home > VA Benefits and Health Care > Disability > Additional resources > VA claim exam
+
+**Participant destinations**
+- Home > Facilities and locations > Services and locations > Health services
+- Home > VA Benefits and Health Care > Disability > Get benefits
+- Home > VA Benefits and Health Care > Disability > Manage your benefits > View disability rating
+- Home > VA Benefits and Health Care > Health care > Manage your benefits 
+- Home > VA Benefits and Health Care > Health care > More info and resources
+
+**First click paths**
+VA Benefits and Health Care = 55%
+Facilities and locations = 35%
+Search = 8%
+General support = 3%
+
+
+### Registration Reason:  Marriage/Family counseling
+
+This task included more participants navigating to the general support hub over other tasks and had the lowest success rate/directness suggesting registering for VA health care does not align with Veteran's mental model for this task.
+
+Success Rate: 11%
+Directness: 34%
+Score: 1/10
+
+**Hypothesis destinations**
+- Home > VA Benefits and Health Care > Health care > Get benefits > Apply for health care
+- Home > VA Benefits and Health Care > Health care > More info and resources> Health needs and conditions > Health topics A-Z
+
+**Participant destinations**
+- Home > VA Benefits and Health Care > Family member benefits
+- Home > VA Benefits and Health Care > Education and training
+- Home > Facilities and locations > Services and locations > Health services
+- Home > VA Benefits and Health Care > Health care > Get benefits > About VA health benefits
+
+**First click paths**
+- VA Benefits and Health Care = 69%
+- Facilities and locations = 7%
+- Search = 5%
+- General support = 17%
+- Veteran outreach = 2%
 
 
 
+### Registration Reason:  ART/IVF
 
+This task included the most participants navigating to the search hub of the site and a wide spread of other areas suggestion confusion on where to look when signing up for this benefit.
 
+Success Rate: 31%
+Directness: 54%
+Score: 2/10
+
+**Hypothesis destinations**
+- Home > VA Benefits and Health Care > Health care > Get benefits > Apply for health care
+- Home > VA Benefits and Health Care > Health care > More info and resources> Health needs and conditions > Health topics A-Z
+- Home > VA Benefits and Health Care > Health care > More info and resources > Health needs and conditions > Womens health needs
+
+**Participant destinations**
+- Home > Facilities and locations > Services and locations > Health services
+- Home > Search
+- Home > VA Benefits and Health Care > Family member benefits
+- Home > VA Benefits and Health Care > Health care > Get benefits > Eligibility
+
+**First click paths**
+- VA Benefits and Health Care = 62%
+- Facilities and locations = 14%
+- Personal information and authentication = 2%
+- Search = 12%
+- General support = 5%
+- Veteran outreach = 5%
 
 
 ## Additional Insights
