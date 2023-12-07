@@ -47,7 +47,8 @@ Evaluate if the proposed designs are understandable and useful across participan
 We conducted remote usability and interview sessions with Zoom. The interviews consisted of a combination of tasks and direct questions. We conducted the study in the staging environment, with a test user created specifically for the purpose of this study.
 
 ## Hypotheses and Conclusions
-_Hypothesis 1:_ Participants will sign in, go to the VA.gov Profile, then navigate to _Personal health care contacts_ in order to view _Emergency contact_ and _Next of kin_ information.  
+
+**_Hypothesis 1:_** Participants will sign in, go to the VA.gov Profile, then navigate to _Personal health care contacts_ in order to view _Emergency contact_ and _Next of kin_ information.  
 
 **True:** Since most participants looked for this information within their VA.gov Profil (see findings 1 and 2). 
 
@@ -55,27 +56,28 @@ Profile           |  Personal health care contacts
 :-------------------------:|:-------------------------:
 |![desktop](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bf5f5378-1633-4235-87c8-6c53266ef07e)|![Next of kin info  - emergency contact and next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/8fddbbf9-7c17-42e3-bde0-ba8e5236063a)
 
-_Hypthesis 2:_ Participants will understand the _Emergency contact_ and _Next of kin_ information and understand how to update information. 
+**_Hypthesis 2:_** Participants will understand the _Emergency contact_ and _Next of kin_ information and understand how to update information. 
 
 **Partially true:** 
 - Participants understood the concept of _Emergency contact_ (see finding 3)
 - Participants often conflated _Next of kin_ and _Emergency contact_ (see finding 4) but relied on the hint text to distinguish between the two concepts.
 - Participants understood how to update information. 
 
-_Hypthesis 3:_ Participants will want to be able to edit or add _Emergnecy contact_ and _Next of kin_ information in place. 
+**_Hypthesis 3:_** Participants will want to be able to edit or add _Emergnecy contact_ and _Next of kin_ information in place. 
 
-- Definitely true: All participants wanted functionality to edit and add contacts on the page (see finding 5). 
+**Definitely true:**
+- All participants wanted functionality to edit and add contacts on the page (see finding 5). 
 
 ## Key Findings
-1. Participants expected that they would need to sign in to VA.gov to review Medical emergency contact and next of kin information, and most participants (6 of 9) looked within their profile.
-2. Once on the Profile Hub, the majority of participants were able to navigate to the "Personal health care contacts" section of the Profile with relative ease.
-3. Most participants (7 of 9) understood the concept of Medical emergency contact. "Medical" in Medical emergency contact caused confusion with 2 participants. All participants understood the term Emergency contact.
-4. Most participants (6 of 9) associated **Next of kin** with family and initially did not differentiate between **Medical emergency contact** and **Next of kin contact.**
-5. Participants wanted a way to edit both **Medical emergency contact** and **Next of kin contact** information on the **Personal health care contacts** page.
-6. 6 of 8 participants found the information about how to update their **Personal health care contacts** and understood the process.
-7. 9 of 9 participants wanted at least two **Medical emergency contacts** and most participants (7 of 9) wanted multiple **Next of kin** contacts listed.
-8. Participants considered "name" and "phone number(s)" as crucial information within both the Medical emergency contact and Next of kin contact sections.
-9. Participants clearly understood that both the Medical Emergency contact and Next of Kin contact were specifically associated with health care.
+1. Participants expected that they would need to sign in to VA.gov to review _Medical emergency contact_ and _Next of kin_ information, and most participants (6 of 9) looked within their profile.
+2. Once on the Profile, the majority of participants were able to navigate to the _Personal health care contacts_ section of the Profile with relative ease.
+3. Most participants (7 of 9) understood the concept of _Medical emergency contact_. "Medical" in _Medical emergency contact_ caused confusion with 2 participants. All participants understood the term _Emergency contact_.
+4. Most participants (6 of 9) associated _Next of kin_ with family and initially did not differentiate between _Medical emergency contact_ and _Next of kin contact_.
+5. Participants wanted a way to edit both _Medical emergency contact_ and _Next of kin contact_ information on the _Personal health care contacts_ page.
+6. 6 of 8 participants found the information about how to update their _Personal health care contacts_ and understood the process.
+7. 9 of 9 participants wanted at least two _Medical emergency contacts_ and most participants (7 of 9) wanted multiple _Next of kin_ contacts listed.
+8. Participants considered "name" and "phone number(s)" as crucial information within both the _Medical emergency contact_ and _Next of kin contact_ sections.
+9. Participants clearly understood that both the _Medical Emergency contact_ and _Next of kin contact_ were specifically associated with health care.
 
 ## Details of Findings 
 
@@ -93,7 +95,7 @@ After signing in/or articulating that process:
 
 ---
 
-### 2) Once on the Profile Hub, the majority of participants were able to navigate to the "Personal health care contacts" section of the Profile with relative ease.
+### 2) Once on the Profile, the majority of participants were able to navigate to the "Personal health care contacts" section of the Profile with relative ease.
 
 6 of 7 participants went to the "Personal health care contacts" to view their emergency contact and next of kin information (2 participants were having technical difficulty during this portion of the study). 1 participant went to the "Contact information" section of Profile first before heading to the "Personal health care contacts" page. 
 
