@@ -100,7 +100,9 @@ When asked later in the session about **Emergency contact,**
 
 > Yeah, if I were to have a medical procedure, that's a person they could contact to give them information about what's going on on my behalf. - P1
 
-> Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. - P3 
+> Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. - P3
+
+![MEC](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/7567cfb0-6280-46f5-a25f-eadfe453a75e)
 
 —--
 
