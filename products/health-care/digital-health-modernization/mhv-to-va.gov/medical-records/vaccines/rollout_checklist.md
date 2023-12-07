@@ -22,7 +22,7 @@ Application exists on VA.gov in a published, authenticated state, but can only b
      - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/P-tPztN1RWeImHsoMJ63Jw/a50123418w177519031p176188361/_.useg=builtin1/)
      - [DataDog](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1699377357310&to_ts=1701969357310&live=true)
 - [X] Product guide created and shared with support personnel 
-- [ ] Support/issue reporting process and R&R has been defined
+- [X] Support/issue reporting process and R&R has been defined
 	- [X] Key team members have access to the feedback mailbox
  		- [X] Marci McGuire		
   		- [X] Bryan Riley
