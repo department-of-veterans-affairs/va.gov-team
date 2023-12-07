@@ -1,4 +1,4 @@
-# (WIP) Personal Health Care Contacts Research Findings 
+# Personal Health Care Contacts Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Cartographers**
 
