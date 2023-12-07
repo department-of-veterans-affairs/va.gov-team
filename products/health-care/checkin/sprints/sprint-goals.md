@@ -52,6 +52,7 @@ ________________________________________________________________________________
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
         - 🟥 [[Design] Switch body and links to v3 in Production file and Unified Check In file on Design Page (and symbols)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70661)
+        - 🟩 [[FE] Switch headings and body and icons to v3 in prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69829)
 
 ------- END FUTURE / TENTATIVE ------
 
