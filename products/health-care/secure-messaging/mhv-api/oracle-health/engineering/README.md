@@ -42,7 +42,7 @@
 
 ### More detailed diagram
 
-![Diagram](./assets/sm%20exchange.v2.drawio.png)
+![Diagram](./assets/sm%20exchange.v3.drawio.png)
 
 ### Notes
 
