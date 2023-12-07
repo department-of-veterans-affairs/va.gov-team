@@ -1,5 +1,26 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Dec 7th 2023       
+### Participants:  
+### Topics Covered:
+
+- 4142 failures
+  - First action is to review past 90 days of failures and get a clean list of unique failures
+  - Open question:
+    - Is order of operation?: 1. Transform data to pass Central Mail regex 2. Reprocess known failures 3. Migrate to Benefits API
+      - Would any 526 submission with a failed 4142 submission block VBA from processing their claim?   
+    - Who is contact at Central Mail where we can get current Regex rules?
+    - How should we handle current known failures? Resend throigh central mail once regex fix in place?
+    - Should we / can we identify past 4142 failures prior to 90 days ago?
+   
+- Simple forms for benefits ITF submission
+  - Forms team is digitizing the standalone process to submit an ITF for benefits
+  - In addition to a logged in use case that uses the ITF end point in same manner as 526 they are introducing a new use case where the Veteran can submit an ITF without logging in.
+  - In this case there is a risk that the date of submission will not be the same date used by VBA once it is processed through Central Mail.
+    - Question: can we confirm that we need ITF submission date to = date of submission, not date it is processed through Central Mail?   
+
+
+
 ### Date: Nov 30' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
 ### Topics Covered:
