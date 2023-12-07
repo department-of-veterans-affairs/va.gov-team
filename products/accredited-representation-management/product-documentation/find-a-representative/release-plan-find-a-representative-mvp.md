@@ -53,8 +53,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 - Rollout date range: 12/12-12/18
 - Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
-- Lindsay will monitor metrics (detailed below) for relevant insights
-- Errors will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
+- Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
