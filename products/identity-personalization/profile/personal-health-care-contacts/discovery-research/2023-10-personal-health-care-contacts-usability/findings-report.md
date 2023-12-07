@@ -89,18 +89,18 @@ When asked how a participant would ensure the VA has the correct information on 
 After signing in/or articulating that process: 
 
 - 4 participants navigated directly to the Profile (sign in > Profile)
-- 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov profile
-- 1 participant explored the landing page and used the mega menu to navigate to the healthcare hub section. After, not finding what they were looking for, they went to Profile
-- 3 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information and navigate to the Profile
+- 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov Profile
+- 1 participant explored the landing page and used the mega menu to navigate to the health care hub section. After, not finding what they were looking for, they went to Profile
+- 3 participants attempted to search "emergency contact" or "next of kin" and were unable to find information and navigate to the Profile
 ![Profilehub](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/2b97fb07-0260-4725-9c8b-a80c01556e6a)
 
 ---
 
 ### 2) Once on the Profile, the majority of participants were able to navigate to the _Personal health care contacts_ section of the Profile with relative ease.
 
-6 of 7 participants went to the "Personal health care contacts" to view their emergency contact and next of kin information (2 participants were having technical difficulty during this portion of the study). 1 participant went to the "Contact information" section of Profile first before heading to the "Personal health care contacts" page. 
+6 of 7 participants went to the _Personal health care contacts_ to view their emergency contact and next of kin information (2 participants were having technical difficulty during this portion of the study). 1 participant went to the _Contact information_ section of Profile first before heading to the _Personal health care contacts_ page. 
 
-> The first thing I think is to go to Profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
+> The first thing I think is to go to Profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is. - P7
 
 > OK, there we go. "Personal health care contacts" saw it right away - P8
 
@@ -110,11 +110,11 @@ After signing in/or articulating that process:
 
 ### 3) Most participants (7 of 9) understood the concept of _Medical emergency contact_. "Medical" in _Medical emergency contact_ caused confusion with 2 participants. All participants understood the term _Emergency contact_.
 
-2 participants thought Medical emergency contact was a contact they could reach out to at the VA if they had an emergency and needed assistance right away, similar to 911. When asked about the meaning of "Emergency contact," these two participants comprehended it as the person to be contacted in case of an emergency.
+2 participants thought _Medical emergency contact_ was a contact they could reach out to at the VA if they had an emergency and needed assistance right away, similar to 911. When asked about the meaning of "Emergency contact," these two participants comprehended it as the person to be contacted in case of an emergency.
 
 > It means I would have access - quick access - to the VA to be able to get a hold of someone to be able to talk to them right away. - P1
 
-When asked later in the session about **Emergency contact,** 
+When asked later in the session about _Emergency contact,_ 
 
 > Yeah, if I were to have a medical procedure, that's a person they could contact to give them information about what's going on on my behalf. - P1
 
@@ -126,7 +126,7 @@ When asked later in the session about **Emergency contact,**
 
 ### 4) 4. Most participants (6 of 9) associated _Next of kin_ with family and initially did not differentiate between _Medical emergency contact_ and _Next of kin contact_.
 
-Participants frequently interpreted "Next of kin" as a family member designated emergency contact. Once on the **Personal health care contacts** page, participants relied on the hint text to distinguish between the two concepts. 
+Participants frequently interpreted _Next of kin_ as a family member designated emergency contact. Once on the _Personal health care contacts_ page, participants relied on the hint text to distinguish between the two concepts. 
 
 When first asked participants stated, 
 
@@ -135,7 +135,8 @@ When first asked participants stated,
 > Means to me anyone like a brother, sister, son, daughter that would be notified about a medical emergency other than a spouse. - P4 
 
 > In general terms, I would think it's the person to contact if something were to happen to me. However, kin means family so I imagine it has to be some kind of blood relative, other than spouse or partner... - P8
-Once on the **Personal health care contacts** page participants stated, 
+
+Once on the _Personal health care contacts_ page participants stated, 
 
 > It's nice to have what the Next of kin actually meant. - P7 
 
@@ -171,7 +172,7 @@ All 9 participants wanted functionality to edit and add contacts on the page.
 
 Participants wanted multiple contacts listed in case the primary contact was not available. 
 
-When asked how many **Medical emergency contacts** participants expected to be listed, 
+When asked how many _Medical emergency contacts_ participants expected to be listed, 
 
 > I would’ve thought 2. The primary and a secondary. - P6
 
@@ -208,9 +209,10 @@ When asked if this information is related to other benefits,
 
 
 ## Additional Insights
-### Participants recognized the value of the "Personal health care contacts" page as it indicated whether their information was up to date. 
-### Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
 
+### Participants recognized the value of the "Personal health care contacts" page as it indicated whether their information was up to date. 
+
+### Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
 
 ---
 
