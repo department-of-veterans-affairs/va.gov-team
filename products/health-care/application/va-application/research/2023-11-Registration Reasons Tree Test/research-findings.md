@@ -71,37 +71,22 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 ## Hypotheses and Conclusions
 
 - We assume that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
+  **Maybe true**
 - We assume that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
 - We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Veterans are not navigating to the EZ form for registration reasons
+2. Confusion around registration and enrollment terminology within the health care benefits space
+3. Veterans reported a preference to sign up online but wanted additional benefits in-person
+4. For some of the registration reasons, scheduling appointments while signing up was a preference.
+5. Wanting the VA to reccommend and inform of more benefits
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
 
 
 ## Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 **Finding 1**
@@ -156,6 +141,13 @@ _Put together initial recommendations here based on your findings along with sup
     * _Supporting evidence_
 * Recommendation 2
     * _Supporting evidence_
+
+
+
+## Task Details
+
+
+
 
 
 ## Next Steps
