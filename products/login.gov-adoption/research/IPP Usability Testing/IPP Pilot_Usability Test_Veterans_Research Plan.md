@@ -142,33 +142,47 @@ For the usability test, the goal is to recruit 10 Veterans total for individual 
 
 
 Screener Questions
-Login Credentials; Have you ever created a Login.gov account?
-Yes
-No
- How often do you use your Login.gov account?
-Never
-Rarely
-Occasionally
-Frequently
-Very Frequently 
+Login Credentials; Have you ever created a Login.gov or an ID.Me account? 
+ID.me 
+Login.gov
+Neither 
+ How often do you use your Login.gov or ID.me? 
+Never Login.gov 
+Never ID.me 
+Sometimes Login.gov 
+Sometimes ID.me 
+Always Login.gov 
+Always ID.me 
+I don't have either Login.gov or ID.me 
 
 
 Do you currently use any of the other following login credentials, select all that apply?
-ID.me
+
 My HealtheVet
 DS Logon
+Other 
 
-Have you tried verifying your identity online? This means, did you ever have to provide identity documents to say you are who you say you are when logging into a service.
-Yes, if yes is selected, ask question 4a
-No, if no is selected, skip to question 5
-
-4a. Did you ever fail or have to try multiple times?
-Yes
+Have you tried verifying your identity online? This means, did you ever have to provide identification documents to say you are who you say you are when logging into a service.
+Yes and I have a verified account. 
+Yes and was unsuccessful in creating a verified account. 
 No
 
 Cognitive Considerations; Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
-
-Screen reader; Do you use a screen reader? If so, what type of screen reader do you use? On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader? [1, 2, 3, 4, 5] 
+Yes 
+No
+Do you currently have or have had experience with homelessness? 
+Yes 
+No 
+Do you currently work for the VA?
+Yes 
+No
+Do you use a screen reader? If so, what time of screen reader do you use?
+Yes, VoiceOver
+Yes, JAWs
+Yes, other
+No
+On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader? [1, 2, 3, 4, 5]
+ 
 
 
 ### Research materials 
