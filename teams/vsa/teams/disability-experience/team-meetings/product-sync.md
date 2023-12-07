@@ -16,7 +16,10 @@
   - In addition to a logged in use case that uses the ITF end point in same manner as 526 they are introducing a new use case where the Veteran can submit an ITF without logging in.
   - In this case there is a risk that the date of submission will not be the same date used by VBA once it is processed through Central Mail.
     - Question: can we confirm that we need ITF submission date to = date of submission, not date it is processed through Central Mail?
-  
+- Document user experience during maintenance windows/outages
+    - Identify different types of outages
+    - Start with discovery of UX during code roll and planned maintenance in our control
+
 ### Date: Nov 30' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
 ### Topics Covered:
