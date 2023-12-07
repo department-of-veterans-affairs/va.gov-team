@@ -19,28 +19,28 @@ Research Report PDF (To come)
 
 ## Research Goals
 
-The purpose of this research is to assess users' understanding, reactions, and expectations to the proposed Emergency contact and Next of kin feature within the VA.gov profile.
+The purpose of this research is to assess users' understanding, reactions, and expectations to the proposed Emergency contact and Next of kin feature within the VA.gov Profile.
 
 Evaluate how easily users are able to find this information.
 Evaluate if the proposed designs are understandable and useful across participant types (sighted and low/no vision) and screen sizes (mobile and desktop).
 
 ## Research Questions
-1. Are users able to navigate to the Emergency contact and Next of kin information from an unauthenticated state?
+1. Are users able to navigate to the _Emergency contact_ and _Next of kin_ information from an unauthenticated state?
  
-	- Is it intuitive to find this information within VA.gov profile?
+	- Is it intuitive to find this information within VA.gov Profile?
 
 2. What are users' reactions to and understanding of the proposed designs? 
 
-	- Is it clear that the “Personal health care contacts” only pertain to health care? 
+	- Is it clear that the _Personal health care contacts_ only pertain to health care? 
 	- Is it clear to users how to update their information? 
-	- Do participants understand what is meant by “Next of kin” information? 
+	- Do participants understand what is meant by _Next of kin_ information? 
 
-3. What is the user mental model around Emergency contact and Next of kin information? 
+3. What is the user mental model around _Emergency contact_ and _Next of kin_ information? 
 	- How do veterans define emergency contact and next of kin?
 	- How is the “read only” data useful to Veterans?
-	- How many Emergency contacts and Next of kin contacts do people want/expect to list/see?'
+	- How many _Emergency contacts_ and _Next of kin_ contacts do people want/expect to list/see?
 	- When or where do people expect to be asked about this information? 	
-	- What type of information for both Emergency contact and Next of kin do users expect to need to provide?
+	- What type of information for both _Emergency contact_ and _Next of kin_ do users expect to need to provide?
 
 
 ## Methodology 
