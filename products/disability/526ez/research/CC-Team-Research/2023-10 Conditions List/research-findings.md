@@ -1,4 +1,4 @@
-#Conditions List Veteran Research Findings 
+# Conditions List Veteran Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, Contention Classification**
 
@@ -130,17 +130,17 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 5. [Some participants did not realize they could submit free text within the same component that offers autosuggestions.](#some-participants-did-not-realize-they-could-submit-free-text-within-the-same-component-that-offers-autosuggestions)
 
-6. [Most of the time, Veterans know what conditions they have based on what they are experiencing, past medical exams and diagnoses, even if they sometimes forget the exact term. For many Veterans, the bigger challenge is understanding what conditions can be service-connected.](#most-of-the-time-Veterans)
+6. [Most of the time, Veterans know what conditions they have based on what they are experiencing, past medical exams and diagnoses, even if they sometimes forget the exact term. For many Veterans, the bigger challenge is understanding what conditions can be service-connected.](#most-of-the-time-veterans-know-what-conditions-they-have-based-on-what-they-are-experiencing-past-medical-exams-and-diagnoses-even-if-they-sometimes-forget-the-exact-term-for-many-veterans-the-bigger-challenge-is-understanding-what-conditions-can-be-service-connected)
 
-7. [Veterans are concerned about the accuracy of their claim, but the nature and degree of concern varies.](#Veterans-are-concerned-about-the-accuracy-of-their-claim-but-the-nature-and-degree-of-concern-varies)
+7. [Veterans are concerned about the accuracy of their claim, but the nature and degree of concern varies.](#veterans-are-concerned-about-the-accuracy-of-their-claim-but-the-nature-and-degree-of-concern-varies)
 
 Additional Insights
 
-8. [Veterans submit disability claims for new conditions at various times in their journey as a Veteran and for various reasons. Relevant support and resources to prepare and submit their claim will depend on these circumstances.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.7ls2vg9xs8sy)
+8. [Veterans submit disability claims for new conditions at various times in their journey as a Veteran and for various reasons. Relevant support and resources to prepare and submit their claim will depend on these circumstances.](#veterans-submit-disability-claims-for-new-conditions-at-various-times-in-their-journey-as-a-Veteran-and-for-various-reasons-relevant-support-and-resources-to-prepare-and-submit-their-claim-will-depend-on-these-circumstances)
 
-9. [It is not technology that holds Veterans back from submitting disability claims digitally. Veterans who plan to use VSOs in the future (in lieu of submitting online) seek a trusted resource to support them.  ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.ese2zup9obb3)
+9. [It is not technology that holds Veterans back from submitting disability claims digitally. Veterans who plan to use VSOs in the future (in lieu of submitting online) seek a trusted resource to support them.](#it-is-not-technology-that-holds-Veterans-back-from-submitting-disability-claims-digitally-veterans-who-plan-to-use-vsos-in-the-future-in-lieu-of-submitting-online-seek-a-trusted-resource-to-support-them)
 
-10. [Using a VSO for disability claim submission can mean relinquishing control. ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.1vcdmlsi1dm4)
+10. [Using a VSO for disability claim submission can mean relinquishing control.](#using-a-vso-for-disability-claim-submission-can-mean-relinquishing-control)
 
 
 ## Details of Findings
