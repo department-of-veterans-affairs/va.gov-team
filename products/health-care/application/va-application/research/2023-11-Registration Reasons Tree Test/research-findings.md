@@ -98,9 +98,8 @@ We hypothesize that Veterans who do are eligible to register for NSC reasons, ex
 
 **Finding 1 - Veterans are not navigating to the EZ form for registration reasons**
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Benefit hubs], [PRDT: health-care-application], [RESRCH: Tree Test], [RESRCH: Unmoderated], [VETJNY: Getting out Military], [VETJNY: Taking care of themselves] 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 All tasks under 35% success rate. Other hubs and areas of the site were often navigated to over health care > get benefits > apply page suggesting that registration reasons we tested did not align with applying/enrolling VA health care in the Veteran's mental model. 
 
@@ -114,7 +113,7 @@ All tasks under 35% success rate. Other hubs and areas of the site were often na
 
 **Finding 2 - Confusion around registration and enrollment terminology within the health care benefits space**
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Benefit hubs], [PRDT: health-care-application], [RESRCH: Tree Test], [RESRCH: Unmoderated], [VETJNY: Getting out Military], [VETJNY: Taking care of themselves] 
 
 
 The common themes were that either registration and enrollment was the same thing; or the theme that they were steps in the process of applying and qualifying. 
@@ -127,8 +126,8 @@ The common themes were that either registration and enrollment was the same thin
 
 
 **Finding 3**
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Benefit hubs], [PRDT: health-care-application], [RESRCH: Tree Test], [RESRCH: Unmoderated], [VETJNY: Getting out Military], [VETJNY: Taking care of themselves] 
 
-Labels: label 1, label 2 
 
 Most participants reported online being their preference of signing up for health care benefits but for learning about additional benefits, in person and email were the top methods reported. 
 
@@ -140,7 +139,8 @@ Most participants reported online being their preference of signing up for healt
 
 **Finding 4**
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Benefit hubs], [PRDT: health-care-application], [RESRCH: Tree Test], [RESRCH: Unmoderated], [VETJNY: Getting out Military], [VETJNY: Taking care of themselves] 
+
 
 Four of the tasks when asked, the majority of participants reported wanting to schedule their first appointment when they are signing up for that benefit/registration reason. 
 
@@ -154,7 +154,9 @@ Four of the tasks when asked, the majority of participants reported wanting to s
 
 **Finding 5**
 
-Labels: label 1, label 2 
+Labels: [AUD: Veterans], [BNFT: Healthcare], [PRDT: Benefit hubs], [PRDT: health-care-application], [RESRCH: Tree Test], [RESRCH: Unmoderated], [VETJNY: Getting out Military], [VETJNY: Taking care of themselves] 
+
+
 
 The post task question for 3 tasks asked about being informed of what they are eligible for - getting help from the VA and being told what they qualify for and the specific steps they have to take.
 
@@ -319,15 +321,18 @@ _Put together initial recommendations here based on your findings along with sup
 
 -- DRAFT --
 
-* Recommendation 1
-    * Follow the Veteran's mental model around the registration and enrollment terms and process.  
+* Align with Veteran's mental model
+    * Follow the Veteran's mental model around the registration and enrollment terms, process and eligibility determiniations. This could create a more streamlined process for the Veterans when signing up and applying for health care benefits.
 
 
-* Recommendation 2
+
+* Veteran health service needs for entrances into "registering"
     * _Supporting evidence_
 
 
 
+* More visibility into health services that are personalized based on eligibility
+    * _Supporting evidence_
 
 
 
