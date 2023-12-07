@@ -236,11 +236,11 @@ When asked if this information is related to other benefits,
 - All 9 participants wanted functionality to edit and add contacts on the page.
   
 ## Next Steps
-- Review with Cartography team and align on recommendations
-- Share findings with stakeholders and other teams working on VA.gov
+- Review with Cartography and Authenticated Experience team and align on recommendations and next steps 
+- Share findings with stakeholders and larger VA.gov
 
 ## Further research needed
-- Design 
+
 
 ## Appendix
 
