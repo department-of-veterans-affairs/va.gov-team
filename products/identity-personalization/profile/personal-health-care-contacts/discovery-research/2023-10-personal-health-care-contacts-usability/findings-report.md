@@ -128,7 +128,7 @@ Once on the **Personal health care contacts** page participants stated,
 ---
 ### 5) Participants wanted a way to edit both **Medical emergency contact** and **Next of kin contact** information on the **Personal health care contacts** page.
 
-All 9 participants wanted functionality to edit and add contacts on the page. 
+All 9 participants wanted functionality to edit and add contacts on the page.
 
 > well, I would expect information or instructions about how to be able to do it myself. It's fine with me like this but it would be nice if I could do it myself on this website. - P1
 
@@ -136,7 +136,8 @@ All 9 participants wanted functionality to edit and add contacts on the page.
 
 > Man that’s horrible! You should be able to do it on the website. - P6
 
-<img width="986" alt="Screenshot 2023-12-06 at 4 26 33 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bfef602c-825c-412a-b823-30ee0c68ea14">
+<img width="1046" alt="Screenshot 2023-12-05 at 4 34 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/cbad7811-3cc5-4996-a17d-23a62dfd8709">
+
 
 ---
 
@@ -190,6 +191,7 @@ When asked if this information is related to other benefits,
 
 
 ## Additional Insights
+### Participants recognized the value of the "Personal health care contacts" page as it indicated whether their information was up to date. 
 ### Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
 
 
