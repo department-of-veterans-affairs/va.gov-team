@@ -126,7 +126,7 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 3. [Some participants faced difficulties finding their conditions in the suggested condition list.](#some-participants-faced-difficulties-finding-their-conditions-in-the-suggested-conditions-list)
 
-4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search-other-page-and-component-elements-caused-confusion-and-interaction-difficulties.)
+4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search-other-page-and-component-elements-caused-confusion-and-interaction-difficulties)
 
 5. [Some participants did not realize they could submit free text within the same component that offers autosuggestions.](#some-participants-did-not-realize-they-could-submit-free-text-within-the-same-component-that-offers-autosuggestions)
 
