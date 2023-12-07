@@ -51,7 +51,8 @@ _Hypothesis 1:_ Participants will sign in, go to the "Profile", then navigate to
 
 Profile           |  Personal health care contacts
 :-------------------------:|:-------------------------:
-|![Profilehub](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/92493225-ab58-4845-b921-906f3dd09412)|![Personalhealthcarecontacts](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e8edd145-cc20-4bee-9f3a-3b7bd63dfe42)
+|![desktop](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bf5f5378-1633-4235-87c8-6c53266ef07e)|![Next of kin info  - emergency contact and next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/8fddbbf9-7c17-42e3-bde0-ba8e5236063a)
+
 
 
 
