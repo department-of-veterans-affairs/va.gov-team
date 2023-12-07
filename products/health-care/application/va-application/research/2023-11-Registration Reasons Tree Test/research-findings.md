@@ -352,7 +352,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 ## Appendix
 
-[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-Registration%20Reasons%20Tree%20Test/research-plan.md#research-plan-for-health-enrollment-team-10-10ez-registration-reasons-tree-test-november-2023))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-Registration%20Reasons%20Tree%20Test/research-plan.md#research-plan-for-health-enrollment-team-10-10ez-registration-reasons-tree-test-november-2023)
 
 
 
@@ -471,7 +471,7 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1091371841)
+[Completed VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1091371841)
 
 
 This research does not include the perspectives of the following marginalized Veteran groups - we did not recruit for these segments:
