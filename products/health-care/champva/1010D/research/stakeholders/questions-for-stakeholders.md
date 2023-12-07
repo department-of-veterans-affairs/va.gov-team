@@ -10,8 +10,8 @@
 #### Spouses
 
 3. ~~If a sponsor’s former spouse remarried before 55 but then the remarriage ended, are they eligible for CHAMPVA again after age 55?~~
-4. ~~ Are spouses who are 65+ years old and turned 65 BEFORE June 5, 2001 **always** eligible for CHAMPVA if they’re enrolled in Medicare Part B? What if they’ve remarried?~~
-5. ~~   Are spouses who are 65+ years old and turned 65 AFTER June 5, 2001 **always** eligible for CHAMPVA if they’re eligible for Medicare? What if they are eligible but haven’t enrolled? What if they’ve remarried?~~
+4. ~~Are spouses who are 65+ years old and turned 65 BEFORE June 5, 2001 **always** eligible for CHAMPVA if they’re enrolled in Medicare Part B? What if they’ve remarried?~~
+5. ~~Are spouses who are 65+ years old and turned 65 AFTER June 5, 2001 **always** eligible for CHAMPVA if they’re eligible for Medicare? What if they are eligible but haven’t enrolled? What if they’ve remarried?~~
 6. ~~Is a former spouse eligible for CHAMPVA if the Veteran has remarried, but they have not?~~
 7. Are folks who were in long-term domestic partnerships with a sponsor eligible for CHAMPVA if they were not legally married? 
     1. If yes, does it have to be a romantic partnership? 
@@ -19,7 +19,7 @@
 
 #### Children
 
-8. ~~ If a Veteran claimed a child who is currently between the ages of 18 - 23 as a dependent **AND** that child is enrolled in college or another educational institution **BUT **the Veteran has died, is the child eligible for CHAMPVA?~~
+8. ~~If a Veteran claimed a child who is currently between the ages of 18 - 23 as a dependent **AND** that child is enrolled in college or another educational institution **BUT **the Veteran has died, is the child eligible for CHAMPVA?~~
 
 #### Family caretakers
 
@@ -77,9 +77,9 @@
 ### Section 2: Applicant information
 
 32. Is there a limit to the number of applicants under one sponsor?
-33. ~~Can children of sponsors apply for their newborns? Does the answer differ depending on if the child is over or under 18? ~~
-    10. ~~Or can only spouses apply for newborns? ~~
-    11. ~~What if the sponsor and their unmarried partner are expecting a child - can they still apply for the newborn? ~~
+33. ~~Can children of sponsors apply for their newborns? Does the answer differ depending on if the child is over or under 18?~~
+    10. ~~Or can only spouses apply for newborns?~~
+    11. ~~What if the sponsor and their unmarried partner are expecting a child - can they still apply for the newborn?~~
     12. ~~Can an unmarried partner apply for benefits for themselves, or only their child?~~
 34. It seems like only people with certain relationships to the Veteran are eligible: spouses, children, and family caretakers. Are there any other relationships that might make a person eligible for CHAMPVA?
 35. How is the applicant’s email address used?
