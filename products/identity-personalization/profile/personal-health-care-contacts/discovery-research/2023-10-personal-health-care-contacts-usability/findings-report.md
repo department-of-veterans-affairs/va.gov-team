@@ -130,11 +130,13 @@ Once on the **Personal health care contacts** page participants stated,
 
 All 9 participants wanted functionality to edit and add contacts on the page. 
 
-P1: “well, I would expect information or instructions about how to be able to do it myself. It's fine with me like this but it would be nice if I could do it myself on this website.”
+> well, I would expect information or instructions about how to be able to do it myself. It's fine with me like this but it would be nice if I could do it myself on this website. - P1
 
-P3: "You should be able to click on it to make a change and it should give you the option."
+> You should be able to click on it to make a change and it should give you the option. - P3
 
-P6: "Man that’s horrible! You should be able to do it on the website." 
+> Man that’s horrible! You should be able to do it on the website. - P6
+
+<img width="986" alt="Screenshot 2023-12-06 at 4 26 33 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bfef602c-825c-412a-b823-30ee0c68ea14">
 
 ---
 
