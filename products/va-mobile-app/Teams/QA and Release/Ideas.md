@@ -28,3 +28,7 @@
   14.) Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days? 
 
   15.) create standard / process for when there are inclusion / changes to be made to releases 
+
+  16.) Document hot fix process / requirements / timing 
+
+  17.) How to educate / onboard external teams in regards to QA testing, testing requirements (detox, etc0) 
