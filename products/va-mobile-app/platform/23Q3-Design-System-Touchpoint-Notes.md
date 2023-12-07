@@ -8,9 +8,27 @@ Agenda:
 ## 12/07/23
 *   Incorporating our docs with VADS
     * Who would we work with from VADS?
+      * ??
+      * Ryan to find out - Matt Dingee
     * desired outcomes
+      * Add documentation for Mobile component into the VADS docs
+      * Forgiveness over permission from VADS group
+      * create a ticket to propose adding something to VADS documentation
+        * do something simple to start
+        * want to start the conversation 
 *   Sharing Icons with VADS?
+    *   VADS is moving to Google Icons instead of FontAwesome in 2024
+    *   Some changes we would need may happen with the transition anyway
+    *   Ryan to find out who we should work with on VADS team - Matt Dingee
+    *   Service Branch logos should be shared as well, we just need the .svg
 *   Design Token strategy
+    *   We are looking into how we can use VADS Design Tokens directly
+      *   We will definitely be able to use their 'primitive' tokens (basic colors)
+      *   Not sure yet about other kinds of tokens like typography, but we think it's possible
+        *   We can add mobile-specific things on top of that
+      *   VADS is missing some USWDS colors so we could pull directly from USWDS
+      *   Ryan: if we could just have VADS bring in all colors we need from USWDS so we only pull from VADS, would that be easier?  Narin: yeah
+        *   Ask Matt Dingee about them adding more colors
 *   Q1 Planning
 *   va-mobile-library repo - moving tickets
       
