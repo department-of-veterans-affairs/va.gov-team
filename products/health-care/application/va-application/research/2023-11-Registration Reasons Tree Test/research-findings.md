@@ -327,12 +327,12 @@ _Put together initial recommendations here based on your findings along with sup
 
 
 * Veteran health service needs for entrances into "registering"
-    * _Supporting evidence_
+    * Allow for more links to sign up for health care from the perspective of the Veteran - what care or health service are they seeking to sign up for
 
 
 
 * More visibility into health services that are personalized based on eligibility
-    * _Supporting evidence_
+    * Personalized recommendations to Veterans via email or in-person at appointments to better understand additional health care services they are eligible for. 
 
 
 
