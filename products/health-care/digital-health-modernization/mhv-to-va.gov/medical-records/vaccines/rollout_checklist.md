@@ -95,7 +95,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Go-no-go team established 
      
-- [ ] Review established definition of done for MVP 
+- [X] Review established definition of done for MVP 
 
 - [X] Go-no-go meeting(s) scheduled 
      - [X] After readiness & staging review 
@@ -103,12 +103,12 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Team members and go/no-go decisions are added to the product decision log  
 
-- [ ] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
+- [X] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
  
 
 ### Communication  
 
-- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+- [X] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
 - [ ] Email to trusted users is shared with contact center teams and coordinators  
 
@@ -128,9 +128,9 @@ For an application to enter rollout Phase 0, the following must be true:
  
       - *Product guide has no changes planned until ready for Phase 1*
 
-- [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
+- [X] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
-- [ ] Support staff trained
+- [X] Support staff trained
 
 - [X] Process for handling technical / customer support issues exists 
 
@@ -138,9 +138,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Product 
 
-- [ ] Intended product outcomes are documented and broadly communicated 
+- [X] Intended product outcomes are documented and broadly communicated 
 
-- [ ] Technical instrumentation is in place to track GA 
+- [X] Technical instrumentation is in place to track GA 
 
 - [X] All steps of the collaboration cycle are complete; *Per agreement with Platform team, collab cycle willl be reengaged as all domains are ready for Phase 1*
 
@@ -155,14 +155,14 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### User feedback / research  
 
-- [ ] QA / user acceptance testing completed  
+- [X] QA / user acceptance testing completed  
 
 - [X] Research documented in Github 
 
 
 ### Accessibility 
 
-- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed; *Confirming with Bobby that outcomes will be documented in GitHub*
+- [X] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed; *Confirming with Bobby that outcomes will be documented in GitHub*
 
 
 ### UX/UI  
@@ -195,7 +195,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] End-to-end test coverage is sufficient; *Needs additional attention* 
 
-- [ ] Functional issues resolved; *Confirm that vaccines MHV/FHIR work has been deployed to prod* 
+- [X] Functional issues resolved; *Confirm that vaccines MHV/FHIR work has been deployed to prod* 
 
 - [X] Engineering information documented and stored in GitHub;
 
@@ -214,7 +214,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] DataDog monitors exist; *MHV-51521*
 
-- [ ] Alerts exist; *MHV-51521* 
+- [X] Alerts exist; *MHV-51521* 
 
    - PagerDuty 
 
@@ -227,7 +227,7 @@ For an application to enter rollout Phase 0, the following must be true:
  
 ### Analytics & Metrics  
 
-- [ ] Google Analytics 
+- [X] Google Analytics 
 
     - Event tags exist 
 
@@ -235,7 +235,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
     - Dashboard exists; *Bryan will investigate w/ Anne*
 
-- [ ] Domo 
+- [X] Domo 
     - Access 
 
     - Dashboard exists; *Mike will investigate*
