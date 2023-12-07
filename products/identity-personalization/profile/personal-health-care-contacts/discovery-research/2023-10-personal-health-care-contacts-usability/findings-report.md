@@ -123,7 +123,9 @@ Once on the **Personal health care contacts** page participants stated,
 
 > Well, if it's the person who can represent your health care wishes, typically you only put one person - P8
 
+![Next of kin info](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e2dc3250-e3a9-4a83-b039-1478a547818d)
 
+---
 ### 5) Participants wanted a way to edit both **Medical emergency contact** and **Next of kin contact** information on the **Personal health care contacts** page.
 
 All 9 participants wanted functionality to edit and add contacts on the page. 
