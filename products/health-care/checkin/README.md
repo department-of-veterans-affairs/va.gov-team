@@ -11,6 +11,7 @@
 - [Research](#research)
 - [Engineering](#engineering)
 - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
+- [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
