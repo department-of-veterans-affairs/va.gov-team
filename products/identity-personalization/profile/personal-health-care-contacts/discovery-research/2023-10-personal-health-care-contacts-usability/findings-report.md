@@ -59,8 +59,15 @@ _Hypthesis 2:_ Participants will understand the EC and NOK information and under
 _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK information in place. 
 
 ## Key Findings
-1. 
-2. 
+1. Participants expected that they would need to sign in to VA.gov to review Medical emergency contact and next of kin information, and most participants (6 of 9) looked within their profile.
+2. Once on the Profile Hub, the majority of participants were able to navigate to the "Personal health care contacts" section of the Profile with relative ease.
+3. Most participants (7 of 9) understood the concept of Medical emergency contact. "Medical" in Medical emergency contact caused confusion with 2 participants. All participants understood the term Emergency contact.
+4. Most participants (6 of 9) associated **Next of kin** with family and initially did not differentiate between **Medical emergency contact** and **Next of kin contact.**
+5. Participants wanted a way to edit both **Medical emergency contact** and **Next of kin contact** information on the **Personal health care contacts** page.
+6. 6 of 8 participants found the information about how to update their **Personal health care contacts** and understood the process.
+7. 9 of 9 participants wanted at least two **Medical emergency contacts** and most participants (7 of 9) wanted multiple **Next of kin** contacts listed.
+8. Participants considered "name" and "phone number(s)" as crucial information within both the Medical emergency contact and Next of kin contact sections.
+9. Participants clearly understood that both the Medical Emergency contact and Next of Kin contact were specifically associated with health care.
 
 ## Details of Findings 
 
