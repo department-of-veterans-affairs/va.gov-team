@@ -12,7 +12,7 @@ Date: December 2023
    - Jessica Stump (jessica.stump@adhocteam.us)
    - Katelyn Caillouet (katelyn.caillouet@agile6.com)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout - DRAFT, move link to PDF on github once complete]([link here](https://docs.google.com/presentation/d/12bAdo_7uoi1ab7n2tnmaed01RFbMMuYtZub-IdAGvtU/edit?usp=sharing))
 
 
 **Jump to:**
@@ -71,9 +71,16 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 ## Hypotheses and Conclusions
 
 - We assume that for the appointment registration scenarios - like a C&P exam - Veteran's will navigate to the disability claims or locations hubs in the tree test.
-  **Maybe true**
+- **Maybe true**
+- For the C&P exam task, Facilities and locations was the highest first click destination at 37%. Other tasks with appointments did not have as high of a first click rate on the locations hub. Users also navigated to the benefit hubs (disability or health care) 54% of the time.
+
 - We assume that for service connected care, Veteran's will navigate to the health care hub and the apply for benefits node.
+- **Likely false**
+- Reason: Participants had a low success rate for this task at 23% and often navigated to the disability hub.
+
 - We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
+- **Maybe true**
+- The direct path to the 10-10EZ application / get benefits node was low and many other areas of the site were navigated to.
 
 
 ## Key Findings
@@ -163,6 +170,69 @@ The post task question for 3 tasks asked about being informed of what they are e
 ## Task Details
 
 
+### Registration Reason: Service Connected Only
+
+Most participants would not navigate to the 10-10EZ introduction page when seeking this health care benefit, but most went to the disability hub of the site.
+
+Success Rate: 23%
+Directness: 51%
+Score: 2/10
+
+**Hypothesis destinations**
+- Home > VA Benefits and Health Care > Health care > Get benefits > Apply for health care
+- Home > VA Benefits and Health Care > Disability > Additional resources > VA claim exam
+- Home > VA Benefits and Health Care > Disability > Get benefits > After you file claim
+
+**Participant other destinations**
+- Home > VA Benefits and Health Care > Disability > Get benefits > Eligibility
+- Home > VA Benefits and Health Care > Health care > More info and resources
+- Home > General support > Contact us
+- Home > Facilities and locations > Services and locations
+
+**First click paths**
+- VA Benefits and Health Care = 88%
+- Facilities and locations = 7%
+- Search = 2%
+- General support = 2%
+
+
+
+### Registration Reason: Mental health care (Other) 
+
+This task/registration reason had the highest success rate, however a variety of other areas were navigated to including Facilities and locations and support and search hubs. Most participants wanted to schedule their first appointment at the time of signing up online.
+
+Success Rate: 34%
+Directness: 49%
+Score: 2/10
+
+
+**Hypothesis destinations**
+- Home > VA Benefits and Health Care > Health care > Get benefits > Apply for health care
+- Home > VA Benefits and Health Care > Health care > More info and resources > Health needs and conditions > Mental health > PTSD
+- Home > VA Benefits and Health Care > Health care > More info and resources > Health needs and conditions > Mental health > Depression
+- Home > VA Benefits and Health Care > Health care > More info and resources > Health needs and conditions > Mental health > Suicide Prevention
+
+**Participant other destinations**
+- Home > Facilities and locations > Services and locations > Health services
+- Home > VA Benefits and Health Care > Health care > Manage your benefits
+- Home > VA Benefits and Health Care > Disability 
+- Home > VA Benefits and Health Care > Disability > Get benefits > File a claim
+
+**First click paths**
+- VA Benefits and Health Care = 78%
+- Facilities and locations = 8%
+- Search = 8%
+- General support = 3%
+- Veteran outreach = 3%
+- VA Organizational content = 3%
+
+
+
+
+
+
+
+
 
 
 ## Additional Insights
@@ -174,8 +244,12 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
+-- DRAFT --
+
 * Recommendation 1
-    * _Supporting evidence_
+    * Follow the Veteran's mental model around the registration and enrollment terms and process.  
+
+
 * Recommendation 2
     * _Supporting evidence_
 
