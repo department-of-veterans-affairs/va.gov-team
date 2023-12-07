@@ -48,6 +48,12 @@ You can save your work in process. You’ll have 60 days from when you start or 
 | Introduction page + authenticated + previous saved update form | [h3] Your form is in progress and was last saved on [November 2, 2023, at 9:58 a.m. PDT] [p] You can continue your form now, or come back later to finish your form. Your form will expire on January 1, 2024. [primary button] Continue your form [secondary button] Start a new form | Resolution = continue saved or start a new form |
 | Introduction page + Verification needed | Message
 [h3] Please verify your identity before updating your health benefits information [p bold] If you need information or help with verifying your identity: [ul] Read our identity verification FAQs [li] Or call us at 877-222-8387. [li] If you have any hearing loss, call TTY: 711. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. [primary button] Verify your identity | Resolution = Verify identity |
+| Introduction page + Income on file of Year (MT/RX Test x2) | Message
+[h3] You can skip questions on this form  [p] Our records show that you already shared your household financial information for 2022. You can only share your household financial information only once each year.  [p] Example: If you share your 2022 income in 2023, you can’t share financial information again in 2023. You’ll need to wait until 2024 to share your 2023 information. [p]You can use this form to update your personal or insurance information. [p] If you’re struggling to pay your copays, you can request help. [link] Find out how to request financial hardship assistance | Resolution = Update only personal and insurance information |
+
+
+
+
 
 ### Feedback Messages - Multiple Responses Modals
 
@@ -67,3 +73,9 @@ You can save your work in process. You’ll have 60 days from when you start or 
 | Scenario | Abridged Message | Resolution |
 | -------- | ---------------- | ---------- |
 | Submit successful | [h3] You've submitted your Health Benefits Update Form (VA Form 10-10EZR) [p] Once we’ve reviewed your submission, we'll update your information and contact you if there are any changes to your current health care benefits. |  | 
+
+
+### Feedback Messages - Household Financial Information Section
+| Scenario | Abridged Message | Resolution |
+| -------- | ---------------- | ---------- |
+| MT/RX Test x2 for Year | [h3] You can skip questions on this form  [p] Our records show that you already shared your household financial information for 2022. You can only share your household financial information only once each year. [p] Example: If you share your 2022 income in 2023, you can’t share financial information again in 2023. You’ll need to wait until 2024 to share your 2023 information. [p] Next we’ll ask about your insurance information. | Skip household financial information section | 

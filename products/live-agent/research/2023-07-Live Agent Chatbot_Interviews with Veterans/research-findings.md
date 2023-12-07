@@ -62,110 +62,87 @@ H3: There will be some scenarios where text-based chat works really well and oth
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Veterans prefer Live Chat to calling in the majority of scenarios
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. All Veterans raised concerns about privacy and security
 
-1. Finding one
+3. Veterans wish for fast access to support
 
-2. Finding two
+4. Veterans and Live Agents desire a more connected experience
 
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+5. Authenticating Live Chat interactions builds trust
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+
+**Veterans prefer Live Chat in the majority of situations**
+
+A hypothesis we had was that Veterans may find Live Chat to be inadequate in sensitive or stressful situations. However, we found Veterans prefer Live Chat in the majority of situations they tend to reach out to VA for. 
+
+Matching what we heard from Live Agents, Veterans shared that sensitive topics can actually be easier to discuss through Chat than by phone since it allows the Veteran the ability to take their time responding as needed, yet there is still a human on the other side who can empathize with their situation.
+Calling in to VA can take up to an hour or more at times, and the Veteran may have to sacrifice this time while on hold. However, if the Veteran is on Live Chat, they are able to multitask, which is advantageous to Veterans who are engaged in their workday or caring for their families.
+Veterans shared some inquiries are complex or very detailed and may require a discussion over the phone. There was consensus among the Veterans that they would prefer to hear directly from their medical providers since they have awareness of their history. 
+
+> _“During work hours it is more convenient to Chat versus wait on the phone. I can do other things while I’m on Chat.” - Veteran Interview 3_
+
+> _“Anything medical wise I would like to hear directly from my physician or nurse since they know me…It’s more comfortable for me to hear directly from my health care team because I can hear tones and inflections in their voice.” - Veteran Interview 5_
+
+**All the Veterans raised concerns about privacy and security.**
+
+Veterans voiced that they feel more comfortable discussing certain topics through Chat if they are asked to authenticate their ID prior to starting the Chat. Veterans place a high value on their privacy and expect VA to have systems in place to protect their information. 
+Additionally, Veterans expect for Live Chat at VA to perform similarly to Live Chat they come across on other websites. They wonder why VA is not able to locate who they are automatically, since this is a feature, they often run into on Live Chat.
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+**Veterans wish for fast access to support.**
 
+Live Chat is key to improving Veteran satisfaction as it is the most effective way to reduce contact wait times. In a 2021 survey, nearly 40% of Americans reported experiencing wait times of more than five minutes when calling a federal agency [Rogerson, Comm100]. Contact centers at VA have reported that call wait times can be up to an hour at times. Instead, Veterans can often reach a Live Agent through Chat in under a minute. Live Chat increases the ability for Veterans to access VA and request support. Veterans appreciate being able to reach someone and resolve their inquiry in much less time than by phone or secure message.
 
-**Finding 1**
+**Veterans and Live Agents desire a more connected experience.**
 
-Labels: label 1, label 2 
+Veterans desire a universal VA Live Chat experience. Veterans encounter a different Live Chat experience depending on what department they reach, based on the Chat software the Contact Center is using and their protocols. 
+Veterans would prefer a standard log-in process, the ability to be transferred to another department when needed, and for the system to locate who they are automatically, among other features.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _"It needs to be tailored to my information and VA information, but I've never found that. Where is my payment, when is my next appointment?... If they could do that, that's what I want them to do." -MCT Omnichannel Experience Co-Design_
 
-Brief description
+On the Live Agents side, they juggle multiple systems. They have the Chat program, CRM, VA intranet, and other resources open on their screens. They desire a more streamlined, integrated workflow that does not require as many programs and manual steps.
 
-> _Supporting data: Quote here_
+**Authenticating Live Chat interactions builds trust.**
 
-> _Supporting data: Quote here_
+Concerns with privacy and security surface frequently in interviews with Veterans. Authenticating the Chat interaction helps to increase the trust Veterans have to share information. Authenticated Chat is not appropriate for all departments at VA, but there is opportunity to consider where and when to authenticate to enhance Veteran trust and satisfaction.
 
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+Furthermore, authenticated Chat allows the Live Agents to locate and access the user’s profile and information. Veterans prefer when they do not need to share as many personal details and the Live Agent can personalize the Chat to their unique needs. [See: VHA Virtual Agent Research]
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* Given the research performed and the insights gleaned, stronger integration across Contact Centers would greatly aid the Veteran experience across the entire VA landscape.
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Enabling this is a matter of creating a platform that provides strong connections to consumers of the data, and allows Contact Centers to independently, and through self-service, create more enriching Chat experiences.
+  
+* Similarly, a closer integration of Live Chat between Channels is something Veterans have told us they desire. This aligns with the goals of the Seamless CX program.
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+_Additional interviews with Veterans._
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+_Talk with Veterans who live overseas._
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/live-agent/research/2023-07-Live%20Agent%20Chatbot_Interviews%20with%20Veterans/research-plan.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/live-agent/research/2023-07-Live%20Agent%20Chatbot_Interviews%20with%20Veterans/conversation-guide.md)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+[Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688136464005/4081da9effbdde4e98f9f7a57d47071ad38271a7?sender=uaa89db49fc2f3e90dae20968)
 
 ## Pages and applications used
 
@@ -174,19 +151,14 @@ Link to prototypes or pages that were tested
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+[User Flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688136464005/4081da9effbdde4e98f9f7a57d47071ad38271a7?sender=uaa89db49fc2f3e90dae20968)
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+[Desk Research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688136464005/4081da9effbdde4e98f9f7a57d47071ad38271a7?sender=uaa89db49fc2f3e90dae20968)
 
 ## Who we talked to 
-
-**Recruitment criteria**
 
 We talked to **5 Veterans.**
 

@@ -12,7 +12,7 @@
 ## Feature background
 Collaboration to bring UI Consistency to search tools: Global search, Find a form, Resources and support
 
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/search-ui-consistency/product-outline.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-ui-consistency/product-outline.md)
 
 - [Search UI Consistency Epic on Zenhub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/21055)
 

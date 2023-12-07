@@ -1,5 +1,43 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 20
+Period - 12/06/2023 - 12/19/2023
+### Sprint goals 
+- **Expedited**
+   - [ ] #71011 - User Signed at Date for ancillary forms (form4142, form0781, form8940) should be distinguished from programatic submission date
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Canary launch
+         - [ ] Launch 1% and next based on the outcome 
+      - Benefits Claims Service 
+        - [ ] Canary launch for Benefits Claims
+      - Submit endpoint
+        - [ ] Integration test with LH release in sandbox - if available
+- **Features**
+   - 526ez sync with paper version 
+       - Toxic Exoposure - unblocked work
+           - [ ] New mocks for timeframe location capture
+           - [ ] Discovery for mock-ups in progress
+      - Service History changes from mid-point, if capacity
+- **Research**
+  - Shadow Research
+    - [ ] Shadow Research sessions
+    - [ ] Synthesis
+
+- **Stretch Goals**
+  - Engineering
+     - [ ] PCIU Discovery
+     - [ ] Unit tests coverage to 80% plus buffer for unblocking future code shipment
+     - [ ] FE Engineering - Create tickets for build for TE when unblocked
+     - [ ] Start work, if unblocked
+  - Design
+     - [ ]  Audit for 526ez for all paper to digital form changes - Discovery
+  - Research
+  - Other
+     - [ ] 
+
+
 ## Sprint 19
 Period - 11/22/2023 - 12/05/2023
 ### Sprint goals 
@@ -15,7 +53,6 @@ Period - 11/22/2023 - 12/05/2023
    - 526ez sync with paper version 
        - Complete VAMC optional fields backend investigation
        - Toxic Exoposure - unblocked work
-           - [ ] New mocks for timeframe location capture - TBD
            - [ ] Engineering Discovery - How are fields on the current 526 mapped for conditions on paper form (Section V)  
        -  New military service questions 
           - [ ] Discovery for creating implementation tickets

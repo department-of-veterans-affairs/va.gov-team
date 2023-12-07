@@ -1,5 +1,8 @@
 ## Decision log - Police Transparency
 
+### 12/6/2023 MVP scope
+In sprint planning, it was decided that with one full sprint left before code freeze, the scope of the Police page would be limited to displaying contact information (phone number) and FAQs. FAQs are already built in Drupal and can be edited. Contact information was provided this day as a csv file. The csv file is currently missing facility ID. The field Telephone Ops contains the information that should be used for contact numbers. It is generally at the system level, so one number will be displayed per system for MVP. This information will be in Drupal to be displayed on the front end.
+
 ### 11/15/2023 Police contact information source
 From Michelle: Understanding about local editor input/access changed during a conversation with Police Services leadership in which we learned a single 24/7 non-emergency phone number will be made available via csv and any additional phone numbers and/or physical address will be best known/owned by local staff.
 

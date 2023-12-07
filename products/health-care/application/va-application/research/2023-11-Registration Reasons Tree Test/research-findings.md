@@ -4,9 +4,13 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: November/DD/2023
+Date: December 2023
 
-[Designer 1] [email], [Designer 2] [email]
+*Designers*
+   - Angela Agosto (angela.agosto@adhocteam.us)
+   - Hieu Vo (hieu.vo@agile6.com)
+   - Jessica Stump (jessica.stump@adhocteam.us)
+   - Katelyn Caillouet (katelyn.caillouet@agile6.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -166,21 +170,20 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-11-Registration%20Reasons%20Tree%20Test/research-plan.md#research-plan-for-health-enrollment-team-10-10ez-registration-reasons-tree-test-november-2023))
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural synthesis board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1700003975101/6149b2a464425891624dd5bd0508b70164fa0920?sender=uadf1ed7fe7c76f0914967329)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+Optimal Workshop Unmoderated Tree Test
+
+- [Results link](https://app.optimalworkshop.com/treejack/dj540s05/io60v1go/shared-results)
 
 
 ## Other supporting documents created
@@ -196,33 +199,40 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+ Recruited 8 cohorts 
+- COHORT 1 = All NOT enrolled in VA health care benefits (Women) (4 completed)
+- COHORT 2 = All NOT enrolled in VA health care benefits (Men) (5 completed)
+- COHORT 3 = All NOT enrolled in VA health care benefits (18-34 years old) (2 completed)
+- COHORT 4 = All NOT enrolled in VA health care benefits (35 - 54 years old) (4 completed)
+- COHORT 5 = All NOT enrolled in VA health care benefits (55+ years old) (5 completed)
+- COHORT 6 = All NOT enrolled in VA health care benefits Disability rating  (2 completed)
+- COHORT 7 = All NOT enrolled in VA health care benefits Disability rating (Cognitive Impairment) (8 completed)
+- COHORT 8 = All ARE enrolled in VA health care benefits All receive disability compensation (5 completed)
 
-We talked to **x participants.**
+
+**35 participants** completed the unmoderated tree test tasks and questions.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 35 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 28
+* Female: 7
 
 
-LGBTQ+:
+LGBTQ+: Unknown - did not ask in screener questions
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
 
-Devices used during study: 
+Devices used during study: Unknown - did not ask in screener questions
 * Desktop: x 
 * Tablet: x 
 * Smart phone: x 
@@ -230,61 +240,65 @@ Devices used during study:
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 6
+* 35-44: 12
+* 45-54: 5
+* 55-64: 2
+* 65+: 3
+* Unknown: 2
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
+* High school degree or equivalent: 4
+* Some college (no degree): 9
+* Associate's degree, trade certificate or vocational training: 6
+* Bachelor's degree: 12
+* Master's degree: 4
+* Doctorate degree: 1
 * Unknown: x
 
 
-Geographic location:
+Geographic location: - did not ask in screener questions
 * Urban: x
 * Rural: x
-* Unknown: x
+* Unknown: 35
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 21
+* Black: 4
+* Hispanic: 7
+* Biracial: 2
+* Asian: 3
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 9
+* AT beginner: NA
+* AT advanced user: NA
+* Desktop screen reader: NA
+* Mobile screen reader: NA
+* Magnification/Zoom: NA
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: NA
+* Hearing aids: NA
+* Sighted keyboard: NA
+* Captions: NA
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1091371841)
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+This research does not include the perspectives of the following marginalized Veteran groups - we did not recruit for these segments:
+* Other than honorable discharge
+* Rural 
+* Immigrant Origin
+* Living Abroad
+* Native
+* LGBTQ+
+
+<img width="1123" alt="Screenshot 2023-12-05 at 4 59 32 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/1d2000c9-d959-43dd-99b8-973d1b26d432">
+
+

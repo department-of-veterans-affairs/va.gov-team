@@ -46,7 +46,7 @@ Today, I’d like to ask you some questions about how you access and use discoun
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 30 - 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 - 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.  We may also end sooner than that, and if we have covered everything I want to cover I'd love give your time back to you.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -74,6 +74,9 @@ Before we start, I have a few things that I want to go over with you:
 
 **3.** What veteran IDs do you currently have?  Which have you had in the past, post - service? Tell me about how you use them.
 
+      - Probe for: What do they use when? For what? What makes them pick a specific card?  How do they describe each    
+      card, its purpose and use?  
+
 **4.** Have you ever submitted for travel reimbursement from the VA?
       - If yes: How did you do so? Online? Kiosk? Mail?  What made you do so?  Why did you pick online/mail/kiosk?
 
@@ -94,24 +97,32 @@ Before we start, I have a few things that I want to go over with you:
       - Why did you want to use it?
       - Where were you?  What was it for?
       - How did you access the discount?  
+            - Probe for: 
+               - Did they have to validate? 
+               - Who was validating their status? 
+               - Did that person say what they were looking for? 
+               - What did they use to validate? 
       - Did you plan to use the discount before you went shopping?
 
-**9.**  Have you ever tried to access a veteran discount offered by a service provider but been denied?
+**9.**  Have you ever tried to use a veteran specific discount at a retailer but been denied??
      
       - Tell me about this experience.  
       - Where were you? What discount were you trying to access?
       - Who denied the discount? (Cashier, manager, etc.)
       - What reason were you given for the denial?
 
-**10.**  Have you ever wanted to use a veteran specific discount but been able to do so? Any experience in line with what we have discussed that we have not covered?   
+**10.**  Have you ever wanted to use a veteran specific discount but **NOT** been able to do so? Any experience in line with what we have discussed that we have not covered?   
 
 ## Desired usage
 
 **11.**  We have talked about how you currently use and access veteran discounts, but if it were up to you, how would you like to access veteran specific discounts? Tell me how you would use and access these discounts.  
 
+**12.**  Where would you expect to find these tools?  Where would you like to access them?  What would you call them?
+
 _Time permitting_
 
-**12.**  Where would you expect to find these tools?  Where would you like to access them?
+**13.**  Do you have the VA Health and Benefits mobile app?
+      - If yes: When did you notice it? Have you used it? What has your experience been with it been like? 
 
 
 ## Consent to use video clips

@@ -1,5 +1,16 @@
 # BTSSS on VA.gov Sprint Goals
 
+## 12/04/2023 - 12/15/2023
+### Goals
+- Identify claim experience gaps in effort to:
+  - Decide "first feature" for development VA.gov
+  - Decide focus for research study 
+- Update objectives based on discovery and stakeholder discussions
+
+### Notes
+- This sprint is the first sprint of Initiative 2.0 in the overall project timeline
+
+
 ## 11/20/2023 - 12/01/2023
 ### Goals
 - Identify claim experience gaps in effort to:

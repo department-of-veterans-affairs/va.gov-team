@@ -4,12 +4,12 @@
 
 **Method**: GET
 
-**Path**: /attachment?:attachmentId:
+**Path**: /attachment?:id:
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
-|attachmentId|string|the id of the attachment|
+|id|string|the id of the attachment|
 
 **Headers**:
 | Name | Type | Description |

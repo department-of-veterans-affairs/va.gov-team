@@ -95,8 +95,8 @@ There are currently 4 best bets set up around this project
 
 | Best Bet                                             | Changes needed?                                                              | What changes                                                                   |   |   |
 |------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---|---|
-| https://benefits.va.gov/vso/index.asp                | Yes                                                                          | Remove this best bet and set up an identical one for the new landing page |   |   |
-| https://www.va.gov/disability/get-help-filing-claim/ | Yes                                                                          | Remove this best bet and set up an identical one for the new R+S page          |   |   |
+| https://benefits.va.gov/vso/index.asp                | Yes                                                                          | Remove this best bet and set up an identical one for new R+S page once it launches |   |   |
+| https://www.va.gov/disability/get-help-filing-claim/ | Yes                                                                          | Remove this best bet and set up an identical one for the new landing page          |   |   |
 | va.gov/find-forms/about-form-21-22/                  | No - the form isn’t changing with the MVP, so no need to change the best bet | NA                                                                             |   |   |
 | va.gov/find-forms/about-form-21-22a/                 | No - the form isn’t changing with the MVP, so no need to change the best bet | NA                                                                             |   |   |
 

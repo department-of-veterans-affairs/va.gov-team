@@ -97,6 +97,9 @@ TBD how best to capture and display this as a KPI but we'll need to create a fun
 - November 2023: Development
 - October 2023: Kickoff & Design
 
+### Documentation
+- FE documentation
+
 ### Screenshots
    ### Before (Cerner handling)
    ![Screenshot 2023-10-31 at 1 13 05 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/f69667f8-806b-4ae0-b048-4ebdef57d1d6)

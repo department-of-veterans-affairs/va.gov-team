@@ -77,7 +77,7 @@ As a user, I want to be able to:
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
 
 ### Services
-- Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html).
+- Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/getting-started/va-profile).
 - Confirmation emails for when people update contact information come from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html).
 
 ### How to Access and Test

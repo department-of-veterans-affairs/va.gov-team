@@ -2,7 +2,7 @@
 
 ## Update status
 - 7.13.23: Creating document and adding content that is with SMEs for an accuracy check before usability testing
-Please use [Word doc](https://dvagov-my.sharepoint.com/:w:/g/personal/danielle_thierry_va_gov/ESmD5P5nmjhPrE7BmMnMpGMBORL7c_BFQfORmHrpIyFBKw?e=iaEcFG) for now until I can get this fully updated.
+Please use [Word doc](https://dvagov-my.sharepoint.com/:w:/g/personal/danielle_thierry_va_gov/EexjTD76bnVOl8snKt6nK5gBkAXVlsaQ4NrcEx17Cu4sNQ?e=FoNWeV) for now until I can get this fully updated.
 
 
 ## Screen-by-screen flow

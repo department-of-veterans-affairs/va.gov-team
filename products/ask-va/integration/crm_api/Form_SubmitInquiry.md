@@ -43,9 +43,7 @@ None
                "dependantZipCode": "12345",
                "emailAddress": "peter.parker@mail.com",
                "emailConfirmation": "peter.parker@mail.com",
-               "facilityCode": "222333",
                "firstName" : "Peter",
-               "fullName": "Peter Parker",
                "gender": "M",
                "inquiryAbout": "A general question",
                "inquiryCategory": "Topic",
@@ -61,8 +59,6 @@ None
                "levelOfAuthentication": "Personal",
                "medicalCenter": "Med Center",
                "middleName": "Ben",
-               "modifiedOn": "2023-01-19 03:14:07",
-               "patient": "34567",
                "preferredName": "Pete",
                "pronouns": "he, him",
                "schoolFacilityNumber": "12345",
@@ -96,7 +92,6 @@ None
                "veteranEmailConfirmation": "ben.parker@mail.com",
                "veteranEnrolled": false,
                "veteranFirstName": "Ben",
-               "veteranFullName": "Ben Parker",
                "veteranICN": "12345-12345",
                "veteranLastName": "Parker",
                "veteranMiddleName": "Sam",
@@ -150,3 +145,23 @@ None
 ## Notes
 
 * CC: Success should return the Inquiry Number and the Queue SLA (queue.iris_sla) for inclusion on the Confirmation page
+
+* Delete: (JH: done)
+  * FacilityCode (duplicate of MedicalCenter), 
+  * FullName is auto-calculated
+  * modifiedOn (auto stamp),
+  * patient**, 
+  * veteranFullName (calculated)
+* Optionsets (picklists/enums) e.g. BranchOfService***, get list from CRM API (new API getoptionset?{setId}; others include ContactMethod (GetInTouch); Countries; DependentRelationship; In CRM Spreadsheet, OptionSets … two types: global, inquirySource –
+Country: Lighthouse – map list ot list, map by standard country codes? Make sure that we don’t have any in Lighthouse that aren’t in CRM ****; JD: marked spreadsheet with the ones that could be an API for OptionSets; Green = API, Peach = VA.gov list with mapping baked in on CRM side (e.g. country)
+* Yes/No as boolean for passing OptionSet value to submit inquiry e.g.submitterDependent, … marked in spreadsheet
+* veteransState (not the extra “s”) OptionSet in spreadsheet?
+* Dates sent as string UTC (see spreadsheet)
+* Lookups (999, “USA”) will be string numbers (“999”)
+* JD: figure out other fields that inquiry requires that are not listed. (fields to send that are missing, fields that can be calculated)
+* Get correspondence - will send string display label, we return labels not values ?? JD: may not apply here, so might  want to discuss more if we come across these.
+
+### References
+
+1. Vet’s first name, last name, dob, icn to  match to patient, else generate patient
+2. The lists are in the ticket that's tracking this comparison work.

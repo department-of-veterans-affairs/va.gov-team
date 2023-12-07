@@ -49,10 +49,13 @@ Ensure the correct feature flipper(s) are enabled.
 
 
 ### Adverse Findings Summary
+
+`No issues were encountered`
+
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-| |  |  |  |  |  |  |  | 
-| |  |  |  |  |  |  |  | 
+| |No issues were encountered  |  |  |  |  |  |  | 
+
 
 
 

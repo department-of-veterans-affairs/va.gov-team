@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm i axios axios-retry
+          npm i axios@1.6.1 axios-retry@3.8.1
 
       - name: Run  script
         env:

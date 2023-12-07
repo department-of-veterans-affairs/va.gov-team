@@ -18,7 +18,7 @@ The Sprint 0 meeting is a time to do the following:
 
 
 
-* After visit summary for appointments (Meko)
+* After visit summary for appointments (TBD)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
@@ -42,8 +42,7 @@ The Sprint 0 meeting is a time to do the following:
 ## Ready to Present
 
 * [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
-* [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
-* [After visit summary for appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointments/Project%20-%20After%20Visit%20Summary/Sprint0.md) (Meko)
+* [After visit summary for appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointments/Project%20-%20After%20Visit%20Summary/Sprint0.md) (TBD)
 * [Screenshot Restriction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Screenshot%20Restriction/Sprint%200.md) (Adam)
     * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
     * what are industry standards?
@@ -54,17 +53,23 @@ The Sprint 0 meeting is a time to do the following:
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| Spike of QA Analytics<br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) <br><br> [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) <br><br> [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md)| [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
+| Spike of QA Analytics<br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) <br><br> [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) <br><br> [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md) <br><br> [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
 
 
 
 
 ## Working session notes
 
-## 11/2/12
+## 11/30/23
 * [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
+   * turns out we do have officially supported OS versions, but they haven't been updated since launch
+      * We do NOT have an experience in the app to block or warn users
+   * we should take into account OS version usage and any other tech considerations when deciding which versions to support
+   * We should reassess supported versions on a reegular cadence
+   * We could use waygates/availability framework to enforce this
+   * May need to handle access to medical records separately from supported OS versions since medical records need to be accessible longer. 
 
-## 11/2/12
+## 11/2/23
 * [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md)  (Greta/Therese)
 
 ## 10/19/23

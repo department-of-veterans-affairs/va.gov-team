@@ -38,7 +38,7 @@ This research will provide greater insight into the veterans’ experience acces
 
 
 ## Methodology	
-We will conduct remote interviews with 8 veterans over Zoom. These interviews will include questions relating to how veterans access veteran specific discounts at different retailers.
+We will conduct remote interviews with minimum 8 veterans over Zoom. These interviews will include questions relating to how veterans access veteran specific discounts at different retailers.
 
 
 ### Location
@@ -53,17 +53,16 @@ Data collection will be remote and conducted using Zoom.
 
 ### Recruitment approach
 
-We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean.  Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes.
+We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
 
-- Tuesday, 12/5/22 11am EST
-- Tuesday, 12/5/22 11:30am EST
 - Tuesday, 12/5/22 2pm EST
-
-We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
+- Tuesday, 12/5/22 3pm EST
+- Wednesday, 12/6/22 11:30am EST
+- Wednesday, 12/6/22 1:30pm EST
 
 
 ### Recruitment criteria
-8
+8 - 12 (minimum 8)
 
 **Primary criteria (must-haves)**
 
@@ -72,21 +71,28 @@ We will keep track of participant demographic information (identified gender, ag
 - Must have been denied a veteran discount at least once in the past 6 months
 - Veterans only
 
-**Some participants must**
-- Must have used a veteran specific discount at least once in the past 3 months
-- Must have been denied a veteran discount at least once in the past 3 months
-- Must receive healthcare from the VA 
-- Must have a Veterans Identification Card (VIC)
-- Must have and use the Flagship Mobile app
-- Must be aged 55+
-- Must identify as female or non-binary
-- Must have visited a VA facility within the past 6 months
-- Must have a terminal high school degree
-- Ideally some have a cognitive disability 
-- Ideally some use AT
+**Desired sample**
+- Some have used a veteran specific discount at least once in the past 3 months
+- Some have been denied a veteran discount at least once in the past 3 months
+- Mix of healthcare usage: some receive healthcare from the VA, some do not 
+- Some have a Veterans Identification Card (VIC), some do not
+- Some have and use the Flagship Mobile app, some do not
+- Some have visited a VA facility within the past 11 months
+- Ideally at least 3 participants use visual Assistive Technology, such as a screenreader 
+- Diverse sample group, more fully detailed in request ticket.  Ideally this would look like: 
+	- 4 / 8 aged 55 - 64+ 
+	- 4 / 8 mobile users
+	- 3 / 8 use visual AT (such as screen readers)
+	- 2 / 8 no degree
+	- 2 / 8 women 
+	- 2 / 8 identify as Black
+	- 1 / 8 identify as Hispanic 
+	- 1 / 8 identify as Asian
+	- 1 / 8 identify as LGBTQ
+
 
 #### Screener Questions
-1.  Do you have a Veteran Identification Card?
+1.  Do you have a Veteran Identification Card? A Veteran ID Card (VIC) is a digital, previously physical, form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses.  (For verification purposes, this is how to apply for the VIC card: https://www.va.gov/records/get-veteran-id-cards/vic/)
 	- Yes
 	- No 
 
@@ -97,24 +103,31 @@ We will keep track of participant demographic information (identified gender, ag
 
 3. When was the last time you successfully used a veteran specific discount at a retailer or civilian health care provider? 
 	- I have never successfully used a veteran specific discount _(Disqualify)_
-	- Within the past 12 - 7 months _(Disqualify)_  
-	- Within the past 6 - 4 months 
+	- Within the past 7 - 12 months _(Disqualify)_  
+	- Within the past 4 - 6 months 
 	- Within the past 3 months
 
 4. When was the last time you were denied an available veteran specific discount at a retailer or civilian health care provider? 
 	- I have never been denied an available veteran discount (Disqualify)
-	- Within the past 12 - 7 months (Disqualify)  
-	- Within the past 6 - 4 months 
+	- Within the past 7 - 12 months (Disqualify)  
+	- Within the past 4 - 6 months 
 	- Within the past 3 months
 
-5. Which of the following devices do you use regularly?
-	- Smartphone 
-	- Desktop 
-	- Laptop
-	- Tablet 
+5. Do you have and use the VA Health and Benefits mobile app? The official VA Health and Benefits mobile allows you to manage your VA health care, benefits and payments from your mobile phone or tablet.  (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
+	- Yes
+  	- No
 
 
 ## Timeline
+
+### Recruitment approach with Perigean
+
+We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
+
+- Tuesday, 12/5/22 2pm EST
+- Tuesday, 12/5/22 3pm EST
+- Wednesday, 12/6/22 11:30am EST
+- Wednesday, 12/6/22 1:30pm EST
 
 ### Prepare
 Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.
@@ -123,7 +136,7 @@ Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.
 * Planned dates of research: Monday, 12/18/23 - Thursday, 12/22/23
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 45 - 60 minutes (book for 60 min)
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 3
   

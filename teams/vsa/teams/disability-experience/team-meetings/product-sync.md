@@ -1,11 +1,42 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Nov 30' 2023       
+### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
+### Topics Covered:
+- Questions about 526 like whether new military service questions(21D and E) should be made required or not
+  - Do we ask Emily/David Reis/both? What's a good communication channel for these kinds of questions without waiting for the biweekly VBA check-in?
+    - Send a slack/email to Emily and David
+    - Shannon - can we get a default guidance on what field is optional?
+        - Lean towards not making them required
+           - Check if the field is in VBMS/BGS and is required when making this decision
+- How do we want to approach identifiying and prioritizing work for next year, esp research and design as they could be freed up by end of December?
+  - Do we continue on with partial 4142 work?
+     - Is it still higher in priority than other ideas?
+     - Do we want to tackle evidence upload as a whole, something else?    
+- Backup path failures, general review of Validation Errors, Service unavailable, and Niche errors that we believe wont return
+   -   Increasing backup path retries to 14 from 5
+   -   Timeframe between retries doubles between every retry (14 retries will land between 2-3 days)
+   -   Will be around .01% for backup path failures
+   -   Niche errors - will only monitor for now
+- Updates "user signed-at date on all ancillary forms"
+   - User signed-dates are incorrect
+   - Dating the ancillary forms with the ancillary form creation date stamp and not the pdf creation date.
+     - pdf creation date could be upto 1 year after ITF date and ancillary forms can get dated upto a year after the 526 form date
+     - Could create a problem for batch processing
+- Bugs submitted by Kimberly - considering they are old can we lower priority. Some mention a bug that we have looked at before and can finish after doc upload migration is complete
+     -  Mostly old bugs
+     -  Review after document upload service is complete
+     -  Respond to Kimberley to close the loop on issue communication
+- Issue Management operationalization
+   - Jen B is looking at over all strategy for Benefits Portfolio
+   - 
+  
 ### Date: Nov 21' 2023       
 ### Participants: Rakshinda, Emily, Steve 
 ### Topics Covered:
 - VBA concern about Toxic Exposure delivery
  - Emily to connect with VBA 
-- Lighthouse ask for production ETA for migration
+- Lighthouse asked for production ETA for migration
 - Copy Emily on the email thread 
   - Ownership of items that come out of collab cycle from other teams
 - Ownership of maintaining code coverage for 526

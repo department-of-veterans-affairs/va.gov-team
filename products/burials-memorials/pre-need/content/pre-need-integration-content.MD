@@ -1,49 +1,49 @@
- # VA Form 40-10007: Apply for pre-need eligibility determination - Integration Content Document
+# VA Form 40-10007: Apply for pre-need eligibility determination - Integration Content Document
 
 Tablet/Desktop breadcrumb:
-[Home](https://www.va.gov/) > [Burials and memorials](https://www.va.gov/burials-memorials/) > [Pre-need burial eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/) > Apply for pre-need eligibility determination  
+[Home](https://www.va.gov/) > [Burials and memorials](https://www.va.gov/burials-memorials/) > [Pre-need burial eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/) > Apply for pre-need eligibility determination 
 
-Mobile breadcrumb:  
+Mobile breadcrumb: 
 < [Pre-need burial eligibility](https://www.va.gov/burials-memorials/pre-need-eligibility/)
+
 
 # Form title: Apply for pre-need eligibility determination {h1}
 
-Equal to VA Form 40-10007 (Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery)
+Equal to VA Form 40-10007 (Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery).
 
-{if logged out, informational alert}  
+{if logged out, informational alert} 
+
 ## Sign in now to save your work in progress {h2}
 
-Here’s how signing in now helps you:  
-
+Here’s how signing in now helps you: 
 * We can fill in some of your information for you to save you time.
-* You can save your work in progress. You’ll have 60 days from when you start or make updates to your application to come back and finish it.  
+* You can save your work in progress. You’ll have 60 days from when you start or make updates to your application to come back and finish it. 
+**Note:** You can sign in after you start your application, but you’ll lose any information you already filled in. 
 
-**Note:** You can sign in after you start your application, but you’ll lose any information you already filled in.  
-
-Sign in to start your application {blue primary button}  
+Sign in to start your application {blue primary button} 
 
 Start your application without signing in {link}
 
-{end if logged out}  
+{end if logged out} 
 
-{if logged in, informational alert}  
+{if logged in, informational alert} 
 
-**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.  
+**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out. 
 
-Start the pre-need eligibility application {link - action}  
+Start the pre-need eligibility application {link - action} 
 
-{end if logged in}  
+{end if logged in} 
 
-## Follow the steps below to get started {h2 with h3 styling}
+## Follow these steps to get started {h2 with h3 styling}
 
 {subway map}
 
-### 1. Prepare {h3}
+### 1. Gather your information {h3}
 
-#### When you apply, be sure to have these on hand: {h4}
+#### Here’s what you’ll need to apply: {h4}
 
 * Personal information (including Social Security number and date of birth).
-* Military history or the military history of the Veteran or service member who’s sponsoring your application.
+* Military history or the military history of the Veteran or service member you’re connected to.
 * The name of the VA national cemetery preferred for burial.
 [Find a VA national cemetery (opens in a new tab)](https://staging.va.gov/find-locations)
 
@@ -55,20 +55,21 @@ A copy of your or your sponsor’s DD214 or other separation files
 
 * **If you’re applying as the legally married spouse or surviving spouse of a Veteran or service member,** you’ll need your personal information (including Social Security number and date of birth).
 * **If you’re preparing the application on behalf of someone else,** you can upload supporting files or an affidavit showing you can complete the application on their behalf.
-* **If you’re preparing the application for an unmarried adult child of a Veteran or service member,** you can also upload supporting files with details about the adult child’s disability.  
+* **If you’re preparing the application for an unmarried adult dependent child of a Veteran or service member,** you can also upload supporting files with details about the adult child’s disability. 
+
 
 #### What if I need help filling out my application? {h4}
 
-An accredited representative, like a Veterans Service Officer (VSO), can help you fill out your claim.
-[Get help filing your claim (opens in a new tab)](https://staging.va.gov/disability/get-help-filing-claim/)
+An accredited representative, like a Veterans Service Officer (VSO), can help you fill out your application.
+[Get help filing from an accredited representative (opens in a new tab)](https://staging.va.gov/disability/get-help-filing-claim/)
 
 ### 2. Apply [h3]
 
-Complete the pre-need eligibility determination form. After submitting the form, you’ll get a confirmation message that you can print for your records.
+Complete the pre-need eligibility determination form. After submitting the form, you’ll get a confirmation message that you can print for your records. This application should take about 20 minutes.
 
 {if signed out}
 
-Sign in to start your application {blue primary button}  
+Sign in to start your application {blue primary button} 
 
 Start your application without signing in {link}
 
@@ -80,13 +81,9 @@ Start the pre-need eligibility application {link - action}
 
 {end if signed in}
 
-### 3. VA review {h3}
+### 3. After you apply {h3}
 
-We’ll let you know by phone or mail if we need more information.
-
-### 4. Decision {h3}
-
-You'll get a notice in the mail about the decision after we process your claim.
+We’ll contact you by phone or mail if we need more information. Once we process the application, we’ll mail you a letter with our decision.
 
 {end subway map}
 
@@ -113,7 +110,7 @@ View Privacy Act Statement {secondary button}
 
 **Need help?**
 
-Call the National Cemetery Scheduling Office at [800-535-1117]() ([TTY: 711]()), and select option 4. We’re here Monday through Friday, 8:00 a.m. to 5:30 p.m ET. 
+Call the National Cemetery Scheduling Office at [800-535-1117]() ([TTY: 711]()), and select option 4. We’re here Monday through Friday, 8:00 a.m. to 5:30 p.m. ET. 
 
 For benefit-related questions, call VA Benefits and Services at [800-827-1000]() ([TTY: 711]()). We’re here Monday through Friday, 8:00 a.m. to 7:30 p.m. ET.
 
@@ -124,7 +121,7 @@ For benefit-related questions, call VA Benefits and Services at [800-827-1000]()
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 1 of 7: Preparer information {h2}
 
@@ -151,22 +148,22 @@ Are you filling out this application for yourself or for someone else? (*Require
 
 {additional-info text}
 
-One of these descriptions must be true about the applicant you’re filling out this application for:
-- They have a disability that prevents them from making decisions for themselves or providing the information needed to complete forms, **or**
--  They physically can’t sign the application
+One of these descriptions must be true for the applicant (the person you’re filling out this application for):
+- They have an illness, injury, or other health condition that prevents them from making decisions for themselves or providing the information needed to complete forms **or**
+- They physically can’t sign the application
 
 {end additional-info text}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}   
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 1 of 7: Preparer information {h2} {viewable if applying for someone else}
 
@@ -185,7 +182,7 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Your details {h3 heading with h5 styling}
 
 Since you're filling out this application for someone else, first we'll ask for your details. 
-Later on, we'll ask about the person you’re filling out this application for (called the applicant).
+Then we'll ask about the person you’re filling out this application for (called the applicant).
 
 - Your first name (*Required) {text input} {prefill from sponsor fields}
 - Your last name (*Required) {text input} {prefill from sponsor fields}
@@ -196,9 +193,10 @@ Later on, we'll ask about the person you’re filling out this application for (
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 1 of 7: Preparer information {h2} {viewable if applying for someone else}
 
@@ -233,9 +231,8 @@ Your application will be saved on every change. Your application ID number is NN
 
 {additional-info text}
 
-If we need more information about your application, we'll contact you by phone.
-
-We’ll send you an email confirming that you’ve submitted your application.
+Once you've submitted this application, we'll send you an email confirmation. 
+We may contact you by phone or mail if we need more information about this application.
 
 {end additional-info text}
 
@@ -248,7 +245,7 @@ We’ll send you an email confirming that you’ve submitted your application.
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for self} 
 
@@ -266,7 +263,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: None {h3 heading with h5 styling}
 
-What is your relationship to the Veteran or service member sponsoring your benefits? (*Required)
+What's your relationship to the Veteran or service member you're connected to? (*Required)
 
 - I’m the Veteran or service member {if selected, chapter title should update to: **Step 2 of 6: Applicant information**}
 - Husband
@@ -277,11 +274,11 @@ What is your relationship to the Veteran or service member sponsoring your benef
 - Adult dependent stepson
 - Other 
 
-{additional-info link} What “adult dependent” child means {end additional-info link}
+{additional-info link} Who we consider an adult dependent child {end additional-info link}
 
 {additional-info text}
 
-We consider someone an adult dependent child if either of these is true:
+We consider someone an adult dependent child if either of these descriptions is true:
 - They became permanently physically or mentally disabled and unable to support themselves before the age of 21, **or** 
 - They became permanently physically or mentally disabled and unable to support themselves before the age of 23, if they were enrolled full time in a school or training program at the time their disability started 
 **Note:** Adult dependent children must be unmarried to be eligible for burial in a VA national cemetery.
@@ -290,14 +287,14 @@ We consider someone an adult dependent child if either of these is true:
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 7: Applicant information {h2} {if applying for someone else}
 
@@ -313,11 +310,12 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
+
 ### Page Title: None {h3 heading with h5 styling}
 
 You told us you're filling out this application for someone else. Now we'll ask you about their details (the applicant).
 
-What is the applicant’s relationship to the Veteran or service member sponsoring their benefits? (*Required)
+What's the applicant's relationship to the Veteran or service member they're connected to? (*Required)
 
 - Applicant is the Veteran or service member {if selected, chapter title should update to: **Step 2 of 6: Applicant information**}
 - Husband
@@ -328,11 +326,11 @@ What is the applicant’s relationship to the Veteran or service member sponsori
 - Adult dependent stepson
 - Other 
 
-{additional-info link} What “adult dependent” child means {end additional-info link}
+{additional-info link} Who we consider an adult dependent child {end additional-info link}
 
 {additional-info text}
 
-We consider someone an adult dependent child if either of these is true:
+We consider someone an adult dependent child if either of these descriptions is true:
 - They became permanently physically or mentally disabled and unable to support themselves before the age of 21, **or** 
 - They became permanently physically or mentally disabled and unable to support themselves before the age of 23, if they were enrolled full time in a school or training program at the time their disability started 
 **Note:** Adult dependent children must be unmarried to be eligible for burial in a VA national cemetery.
@@ -341,14 +339,14 @@ We consider someone an adult dependent child if either of these is true:
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for self **and** applicant is a Veteran} 
 **OR**
@@ -372,10 +370,11 @@ We’ve prefilled some of your information from your account. If you need to cor
 
 {end blue background info alert}
 
+
 ### Page Title: Your details {h3 heading with h5 styling}
 
 {if non-Veteran}
-Since you're applying for eligibility determination, first we'll ask for your details. Later on,  we'll ask for the details of the Veteran or service member sponsoring your benefits.
+Since you're applying for eligibility determination, first we'll ask for your details. Then we'll ask for the details for the Veteran or service member you’re connected to.
 {end if non-Veteran}
 
 - Your first name (*Required) {text field, prefill if present}
@@ -390,7 +389,7 @@ Since you're applying for eligibility determination, first we'll ask for your de
     - V
 - Maiden name {text field}
 - Social Security number (*Required) {text field, prefill if present}
-- Your date of birth (*Required) {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- Your date of birth (*Required) {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.)
     - Month
     - Day
     - Year
@@ -399,12 +398,12 @@ Since you're applying for eligibility determination, first we'll ask for your de
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for someone else **and** applicant is a Veteran} 
 **OR**
@@ -431,12 +430,12 @@ We’ve prefilled some of your information from your account. If you need to cor
 ### Page Title: Applicant details {h3 heading with h5 styling}
 
 {If Veteran}
-Provide the details for the person you are filling out the application for (called the applicant). 
+Provide the details for the person you're filling out the application for (called the applicant). 
 {end if Veteran}
 
 {if non-Veteran}
-Provide the details for the person you are filling out the application for (called the applicant). 
-Later on, we'll ask for the details of the Veteran or service member the applicant is connected to.
+Provide the details for the person you're filling out the application for (called the applicant). 
+Then we'll ask for the details for the Veteran or service member the applicant is connected to.
 {end if non-Veteran}
 
 - Applicant's first name (*Required) {text field, prefill if present}
@@ -451,7 +450,7 @@ Later on, we'll ask for the details of the Veteran or service member the applica
     - V
 - Applicant's maiden name {text field}
 - Applicant's Social Security number (*Required) {text field, prefill if present}
-- Applicant's date of birth (*Required) {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- Applicant's date of birth (*Required) {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
@@ -460,13 +459,14 @@ Later on, we'll ask for the details of the Veteran or service member the applica
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for self or someone else **and** applicant is a Veteran} 
 **OR**
@@ -500,7 +500,6 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Sub Title if applying for someone else: Applicant's contact details {h3 heading with h5 styling}
 
-
 - Phone number (*Required) {text input}
 - Email address (*Required) {text input}
 
@@ -508,18 +507,11 @@ Your application will be saved on every change. Your application ID number is NN
 
 {additional-info text}
 
-If we need more information about your application, we'll contact you by phone.
-We’ll send you an email confirming that you’ve submitted your application.
+Once you've submitted this application, we'll send you an email confirmation. 
+We may contact you by phone or mail if we need more information about this application.
 
 {end additional-info text}
 
-{additional-info link **if applying for someone else**} Why we ask for contact details {end additional-info link}
-
-{additional-info text}
-
-If we need more information about your application, we may reach out by phone or email.
-
-{end additional-info text}
 
 [Finish this application later]()
 
@@ -530,7 +522,7 @@ If we need more information about your application, we may reach out by phone or
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for self as a Veteran}
 
@@ -548,7 +540,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Your demographics {h3 heading with h5 styling}
 
-We require demographic information as part of this application. We use this information for statistical purposes only. We don't use this information to determine eligibility for benefits.
+We require demographic information as part of this application. We use this information for statistical purposes only. 
 
 What’s your marital status? (*Required) {radio buttons}
 - Single
@@ -568,7 +560,7 @@ What’s your sex? (*Required) {radio buttons}
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for self as a Veteran}
 
@@ -586,15 +578,15 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Your demographics {h3 heading with h5 styling}
 
-We require demographic information as part of this application. We use this information for statistical purposes only. We don't use this information to determine eligibility for benefits.
+We require demographic information as part of this application. We use this information for statistical purposes only. 
 
-What ethnicity best describes you? (*Required) {radio buttons}
+What's your ethnicity? (*Required) {radio buttons}
 - Hispanic or Latino
 - Not Hispanic or Latino
 - Unknown
 - Prefer not to answer
 
-Which categories best describe you? (*Required) {checkboxes} {Hint text: You may check more than one.}
+What’s your race? (*Required) {checkboxes} {Hint text: You can select more than one option.}
 - American Indian or Alaskan Native
 - Asian
 - Black or African American
@@ -603,15 +595,16 @@ Which categories best describe you? (*Required) {checkboxes} {Hint text: You may
 - Other
 - Prefer not to answer
 
-- Other categories comment {text area - displays when "Other option is selected} {Hint text: Please specify the categories that best describe you.}
+- Enter the race that best describes you (*Required) {text area - displays when "Other” option is selected}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
+
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for someone else who's a Veteran}
 
@@ -629,7 +622,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Applicant demographics {h3 heading with h5 styling}
 
-We require demographic information as part of this application. We use this information for statistical purposes only. We don't use this information to determine eligibility for benefits.
+We require demographic information as part of this application. We use this information for statistical purposes only. 
 
 What’s the applicant's marital status? (*Required) {radio buttons}
 - Single
@@ -649,7 +642,7 @@ What’s the applicant's sex? (*Required) {radio buttons}
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 2 of 6: Applicant information {h2} {if applying for someone else who's a Veteran}
 
@@ -667,15 +660,15 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Applicant demographics {h3 heading with h5 styling}
 
-We require demographic information as part of this application. We use this information for statistical purposes only. We don't use this information to determine eligibility for benefits.
+We require demographic information as part of this application. We use this information for statistical purposes only. 
 
-What ethnicity best describes the applicant? (*Required) {radio buttons}
+What's the applicant's ethnicity? (*Required) {radio buttons}
 - Hispanic or Latino
 - Not Hispanic or Latino
 - Unknown
 - Prefer not to answer
 
-Which categories best describe the applicant? (*Required) {checkboxes} {Hint text: You may check more than one.}
+What's the applicant's race? (*Required) {checkboxes} {Hint text: You can select more than one option.}
 - American Indian or Alaskan Native
 - Asian
 - Black or African American
@@ -684,7 +677,7 @@ Which categories best describe the applicant? (*Required) {checkboxes} {Hint tex
 - Other
 - Prefer not to answer
 
-- Other categories comment {text area - displays when "Other option is selected} {Hint text: Please specify the categories that best describe the applicant.}
+- Enter the race that best describes the applicant (*Required) {text area - displays when "Other” option is selected}
 
 [Finish this application later]()
 
@@ -692,9 +685,10 @@ Which categories best describe the applicant? (*Required) {checkboxes} {Hint tex
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for someone else **and** applicant is a non-Veteran}
 
@@ -724,19 +718,21 @@ Are you the applicant's sponsor? (*Required) {radio buttons}
 
 You're the sponsor if you're the Veteran or service member who the applicant is connected to.If 
 
-you’re not the sponsor, you’ll still need to provide the details for the Veteran or service member who the applicant is connected to.
+If you’re not the sponsor, you’ll still need to provide the details for the Veteran or service member who the applicant is connected to.
 
 {end additional-info text}
 
 [Finish this application later]()
 
+
 [Back | Continue] {buttons} 
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran}
 
@@ -754,18 +750,19 @@ Your application will be saved on every change. Your application ID number is NN
 
 {if they viewed and indicated YES to "Are you the sponsor?" field, will see blue background color only info alert:}
 
-We’ve prefilled some of your information since you indicated you’re the also the preparer. If you need to correct anything, you can edit the form fields below.
+We’ve prefilled your details since you indicated you’re the applicant’s sponsor. If you need to correct anything, you can edit the fields below.
 
 {end background color only info alert}
+
 
 ### Page Title: Sponsor details {h3 heading with h5 styling}
 
 {if applying for self as a non-Veteran}
-Provide details for the Veteran or service member who you're connected to (called your sponsor).
+Provide the details for the Veteran or service member who you're connected to.
 {end if statement}
 
 {if applying for someone else who's a non-Veteran}
-Provide the details for the Veteran or service member who the applicant is connected to (called the sponsor).
+Provide the details for the Veteran or service member the applicant is connected to.
 {end if statement}
 
 - Sponsor's first name (*Required) {text field}
@@ -780,7 +777,7 @@ Provide the details for the Veteran or service member who the applicant is conne
     - V
 - Sponsor's maiden name {text field}
 - Sponsor's Social Security number (*Required) {text field}
-- Sponsor's date of birth (*Required) {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- Sponsor's date of birth (*Required) {memorable date input} {Hint text:  Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
@@ -789,15 +786,16 @@ Provide the details for the Veteran or service member who the applicant is conne
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
-## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran; not viewable if previously selected **Yes** to "Are you the applicant's sponsor?" question}
+## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self **and** applicant is a non-Veteran question}
 
 {dynamic content if signed in}
 
@@ -813,28 +811,59 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: None {h3 heading with h5 styling}
 
-We'll now ask you questions about your sponsor's death. We understand that the questions may be difficult to answer, but your answers will help us determine eligibility for your application.
+We'll ask you questions about your sponsor's death. We understand that the questions may be difficult to answer, but your answers will help us determine eligibility for your application.
 
 Has the sponsor died? (*Required) {radio buttons}
 - Yes
 - No
 - I don't know
 
-{ If **Yes**, continue to next page asking date the sponsor died. 
-If **No** or **I don't know**, will not see next page asking the date the sponsor died, and will continue to Sponsor's Mailing Address/Contact Details page}
+{ If **Yes**, continue to next page asking date the sponsor died. If **No** or **I don't know**, will not see next page asking the date the sponsor died, and will continue to Sponsor's Mailing Address/Contact Details page}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
-## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran **and** previously selected **Yes** to "Has the sponsor passed away?" question; not viewable if previously selected **Yes** to "Are you the applicant's sponsor?" question}
+## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for someone else **and** applicant is a non-Veteran; not viewable if previously selected **Yes** to "Are you the applicant's sponsor?" question}
+
+{dynamic content if signed in}
+
+{if filling out form for first time}We'll save your application on every change. {end}
+
+{if returning to fill out form}Your application will be saved on every change. Your application ID number is NNNNN.{end}
+
+{end dynamic content}
+
+### Page Title: None {h3 heading with h5 styling}
+
+We'll ask you questions about the sponsor's death. We understand that the questions may be difficult to answer, but your answers will help us determine eligibility for the applicant.
+
+Has the sponsor died? (*Required) {radio buttons}
+- Yes
+- No
+- I don't know
+
+{ If **Yes**, continue to next page asking date the sponsor died. If **No** or **I don't know**, will not see next page asking the date the sponsor died, and will continue to Sponsor's Mailing Address/Contact Details page}
+
+[Finish this application later]()
+
+[Back | Continue] {buttons} 
+
+---
+---
+
+# Form Title: Apply for pre-need eligibility determination {h1}
+
+Form 40-10007 
+
+## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran **and** previously selected **Yes** to "Has the sponsor died" question; not viewable if previously selected **Yes** to "Are you the applicant's sponsor?" question}
 
 {dynamic content if signed in}
 
@@ -850,27 +879,28 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: None {h3 heading with h5 styling}
 
-When did the sponsor die? {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
-- Month
-- Day
-- Year
+When did the sponsor die? {memorable date input} {Hint text:  Enter 2 digits for the month and day and 4 digits for the year.}
+    - Month
+    - Day
+    - Year
 
 {When continuing, user will not see following page asking Sponsor's Mailing Address/Contact Details, and will continue to Sponsor Demographics page.}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** non-Veteran}
 
-**Note that if preparer indicated sponsor passed away, they should not see this page for sponsor's mailing address/contact details**
+
+**Note that if preparer indicated sponsor died, they should not see this page for sponsor's mailing address/contact details**
 
 {dynamic content if signed in}
 
@@ -903,7 +933,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 {additional-info text}
 
-If we need more information about your application, we may reach out by phone or email.
+We may contact the sponsor by phone or mail if we need more information about this application.
 
 {end additional-info text}
 
@@ -913,9 +943,10 @@ If we need more information about your application, we may reach out by phone or
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran}
 
@@ -929,11 +960,12 @@ We'll save your application on every change.
 Your application will be saved on every change. Your application ID number is NNNNN.
 {end}
 
+
 {end dynamic content}
 
 ### Page Title: Sponsor demographics {h3 heading with h5 styling}
 
-We require demographic information as part of this application. We use this information for statistical purposes only. We don't use this information to determine eligibility for benefits.
+We require demographic information as part of this application. We use this information for statistical purposes only. 
 
 What’s the sponsor's marital status? (*Required) {radio buttons}
 - Single
@@ -950,9 +982,10 @@ What’s the sponsor's sex? (*Required) {radio buttons}
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 7: Sponsor information {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran}
 
@@ -970,7 +1003,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Sponsor demographics {h3 heading with h5 styling}
 
-We require demographic information as part of this application. We use this information for statistical purposes only. We don't use this information to determine eligibility for benefits.
+We require demographic information as part of this application. We use this information for statistical purposes only. 
 
 What's the sponsor's ethnicity? (*Required) {radio buttons}
 - Hispanic or Latino
@@ -978,7 +1011,7 @@ What's the sponsor's ethnicity? (*Required) {radio buttons}
 - Unknown
 - Prefer not to answer
 
-Which categories best describe the sponsor? (*Required) {checkboxes} {Hint text: You may check more than one.}
+What’s the sponsor’s race? (*Required) {checkboxes} {Hint text: You can select more than one option.}
 - American Indian or Alaskan Native
 - Asian
 - Black or African American
@@ -987,17 +1020,18 @@ Which categories best describe the sponsor? (*Required) {checkboxes} {Hint text:
 - Other
 - Prefer not to answer
 
-Other categories comment {text area} {Hint text: Please specify the categories that best describe the sponsor.}
+Enter the race that best describes the sponsor (*Required) {text area - displays when "Other” option is selected}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for self **and** applicant is a Veteran}
 
@@ -1016,35 +1050,35 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Your military details {h3 heading with h5 styling}
 
 - Current military status (*Required) {dropdown} {Hint text: You can add more service history information later in this application.}
-    - Active Duty
+    - Active duty
     - Reserve/National Guard
-    - Retired Active Duty
+    - Retired active duty
     - Retired Reserve/National Guard
     - Veteran
     - Other
 - Military Service number {text input} {Hint text: If it’s different than your Social Security number}
-- VA claim number {text input} {Hint text: If known}
+- VA claim number {text input} {Hint text:  If you don't have a VA claim number, leave this blank.}
 
 {additional-info link} What is a "VA claim number"? {end additional-info link}
 
 {additional-info text}
 
-In the past, VA issued a unique identifier called a “VA claim number” to people requesting VA benefits or services. VA no longer issues VA claim numbers. As such, most people requesting VA benefits or services do not have a VA claim number.
+We used to give a VA claim number to every person who applied for VA benefits or services. We no longer give people these numbers. But if you have one, you can provide it here.
 
 {end additional-info text}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
-## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for  someone else **and** applicant is a Veteran}
+## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for someone else **and** applicant is a Veteran}
 
 {dynamic content if signed in}
 
@@ -1061,33 +1095,33 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Applicant's military details {h3 heading with h5 styling}
 
 - Applicant's current military status (*Required) {dropdown} {Hint text: You can add more service history information later in this application.}
-    - Active Duty
+    - Active duty
     - Reserve/National Guard
-    - Retired Active Duty
+    - Retired active duty
     - Retired Reserve/National Guard
     - Veteran
     - Other
 - Applicant's Military Service number {text input} {Hint text: If it’s different than your Social Security number}
-- Applicant's VA claim number {text input} {Hint text: If known}
+- Applicant's VA claim number {text input} {Hint text: If they don't have a VA claim number, leave this blank.}
 
 {additional-info link} What is a "VA claim number"? {end additional-info link}
 
 {additional-info text}
 
-In the past, VA issued a unique identifier called a “VA claim number” to people requesting VA benefits or services. VA no longer issues VA claim numbers. As such, most people requesting VA benefits or services do not have a VA claim number.
+We used to give a VA claim number to every person who applied for VA benefits or services. We no longer give people these numbers. But if you have one, you can provide it here.
 
 {end additional-info text}
 
 [Finish this application later]()
 
-[Back | Continue] {buttons}  
+[Back | Continue] {buttons} 
 
 ---
 ---
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 7: Sponsor military history {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran} }
 
@@ -1106,22 +1140,22 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: Sponsor's military details {h3 heading with h5 styling}
 
 - Sponsor's current military status (*Required) {dropdown} {Hint text: You can add more service history information later in this application.}
-    - Active Duty
-    - Death Related to Inactive Duty Training {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
-    - Died on Active Duty {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
+    - Active duty
+    - Death related to Inactive duty training {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
+    - Died on active duty {not viewable if viewed and selected **Yes** to "Are you the applicant's sponsor?" question}
     - Reserve/National Guard
-    - Retired Active Duty
+    - Retired active duty
     - Retired Reserve/National Guard
     - Veteran
     - Other
 - Sponsor’s Military Service number {text input} {Hint text: If it’s different than their Social Security number}
-- Sponsor's VA claim number {text input} {Hint text: if known}
+- Sponsor's VA claim number {text input} {Hint text: If they don't have a VA claim number, leave this blank.}
 
 {additional-info link} What is a "VA claim number"? {end additional-info link}
 
 {additional-info text}
 
-In the past, VA issued a unique identifier called a “VA claim number” to people requesting VA benefits or services. VA no longer issues VA claim numbers. As such, most people requesting VA benefits or services do not have a VA claim number.
+We used to give a VA claim number to every person who applied for VA benefits or services. We no longer give people these numbers. But if you have one, you can provide it here.
 
 {end additional-info text}
 
@@ -1131,9 +1165,10 @@ In the past, VA issued a unique identifier called a “VA claim number” to peo
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for self **and** applicant is a Veteran} }
 
@@ -1149,15 +1184,16 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-### Page Title: Your service periods {h3 heading with h5 styling}
+### Page Title: Your service period(s) {h3 heading with h5 styling}
 
 - Branch of service (*Required) {text input with autosuggest}
-- Highest rank attained {text input with autosuggest; narrows choices depending on Branch of Service selected}
-- Service start date {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
+- Highest rank attained {text input with autosuggest; narrows choices depending on branch of service selected}
+- Service start date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
-- Service end date {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- Service end date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
@@ -1182,7 +1218,7 @@ Add another service period {secondary button}
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for someone else **and** applicant is a Veteran} }
 
@@ -1198,15 +1234,17 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-### Page Title: Applicant's service periods {h3 heading with h5 styling}
+### Page Title: Applicant's service period(s) {h3 heading with h5 styling}
 
 - Applicant's branch of service (*Required) {text input with autosuggest}
-- Applicant's highest rank attained {text input with autosuggest; narrows choices depending on Branch of Service selected}
-- Applicant's service start date {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
+- Applicant's highest rank attained {text input with autosuggest; narrows choices depending on branch of service selected}
+- State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
+- Applicant's service start date {memorable date input} {Hint text:  Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
-- Applicant's service end date {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- Applicant's service end date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
@@ -1228,9 +1266,10 @@ Add another service period {secondary button}
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 7: Sponsor military history {h2} {if applying for self or someone else **and** applicant is a non-Veteran} }
 
@@ -1246,15 +1285,16 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
-### Page Title: Sponsor's service periods {h3 heading with h5 styling}
+### Page Title: Sponsor's service period(s) {h3 heading with h5 styling}
 
 - Sponsor's branch of service (*Required) {text input with autosuggest}
-- Sponsor's highest rank attained {text input with autosuggest; narrows choices depending on Branch of Service selected}
-- Sponsor's service start date {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- State {dropdown} {Hint text: For National Guard Service only} {Only viewable if National Guard selection is made for branch of service question}
+- Sponsor's highest rank attained {text input with autosuggest; narrows choices depending on branch of service selected}
+- Sponsor's service start date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
-- Sponsor's service end date {memorable date input} {Hint text: Please enter two digits for the month and day and four digits for the year.}
+- Sponsor's service end date {memorable date input} {Hint text: Enter 2 digits for the month and day and 4 digits for the year.}
     - Month
     - Day
     - Year
@@ -1276,9 +1316,10 @@ Add another service period {secondary button}
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for self **and** applicant is a Veteran} 
 
@@ -1300,7 +1341,7 @@ Your application will be saved on every change. Your application ID number is NN
     - Yes
     - No
 
-{If **Yes**, will continue to next page asking for Previous Name details; if **No**, will skip next page asking Previous Name details and continue to Step 4 of 6: Burial Benefits.}
+{If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 4 of 6: Burial benefits.}
 
 [Finish this application later]()
 
@@ -1311,7 +1352,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 6: Applicant military history {h2} {if applying for someone else **and** applicant is a Veteran} 
 
@@ -1327,13 +1368,14 @@ Your application will be saved on every change. Your application ID number is NN
 
 {end dynamic content}
 
+
 ### Page Title: None {h3 heading with h5 styling}
 
 - Did the applicant serve under another name? (*Required) {radio buttons}
     - Yes
     - No
 
-{If **Yes**, will continue to next page asking for Previous Name details; if **No**, will skip next page asking Previous Name details and continue to Step 4 of 6: Burial Benefits.}
+{If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 4 of 6: Burial benefits.}
 
 [Finish this application later]()
 
@@ -1344,7 +1386,36 @@ Your application will be saved on every change. Your application ID number is NN
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
+
+## Chapter Title: Step 4 of 7: Sponsor military history {h2} {if applying for self **and** applicant is a non-Veteran} 
+
+{dynamic content if signed in}
+
+{if filling out form for first time}We'll save your application on every change. {end}
+
+{if returning to fill out form}Your application will be saved on every change. Your application ID number is NNNNN.{end}
+
+{end dynamic content}
+
+### Page Title: None {h3 heading with h5 styling}
+
+- Did your sponsor serve under another name? (*Required) {radio buttons}
+    - Yes
+    - No
+
+{If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 5 of 7: Burial benefits.}
+
+[Finish this application later]()
+
+[Back | Continue] {buttons} 
+
+------
+------
+
+# Form Title: Apply for pre-need eligibility determination {h1}
+
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 7: Sponsor military history {h2} {if applying for self or someone else **and** applicant is a non-Veteran} 
 
@@ -1366,7 +1437,7 @@ Your application will be saved on every change. Your application ID number is NN
     - Yes
     - No
 
-{If **Yes**, will continue to next page asking for Previous Name details; if **No**, will skip next page asking Previous Name details and continue to Step 5 of 7: Burial Benefits.}
+{If **Yes**, will continue to next page asking for previous name details; if **No**, will skip next page asking previous name details and continue to Step 5 of 7: Burial benefits.}
 
 [Finish this application later]()
 
@@ -1374,9 +1445,10 @@ Your application will be saved on every change. Your application ID number is NN
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 3 of 6: Military history {h2} {viewable if applying for self **and** applicant is a Veteran **and** answered **Yes** to serving under another name question} 
 
@@ -1414,9 +1486,9 @@ Your application will be saved on every change. Your application ID number is NN
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
-## Chapter Title: Step 3 of 6: Military history {h2} {viewable if applying for  someone else **and** applicant is a Veteran **and** answered **Yes** to serving under another name question} 
+## Chapter Title: Step 3 of 6: Military history {h2} {viewable if applying for someone else **and** applicant is a Veteran **and** answered **Yes** to serving under another name question} 
 
 {dynamic content if signed in}
 
@@ -1452,7 +1524,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 7: Sponsor military history {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran **and** answered **Yes** to serving under another name question} 
 
@@ -1487,9 +1559,10 @@ Your application will be saved on every change. Your application ID number is NN
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 6: Burial benefits {h2} {if applying for self **and** applicant is a Veteran}
 
@@ -1523,7 +1596,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 6: Burial benefits {h2} {if applying for someone else **and** applicant is a Veteran}
 
@@ -1555,9 +1628,10 @@ Your application will be saved on every change. Your application ID number is NN
 ---
 ---
 
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 5 of 7: Burial benefits {h2} {if applying for self or someone else **and** applicant is a non-Veteran}
 
@@ -1592,7 +1666,7 @@ Your application will be saved on every change. Your application ID number is NN
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 6: Burial benefits {h2} {viewable if applying for self **and** applicant is a Veteran **and** answered **Yes*** to having a person currently buried}
 
@@ -1610,12 +1684,12 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Name of deceased person(s) {h3 heading with h5 styling}
 
-Please provide the details of the person(s) currently buried in a VA national cemetery under your eligibility.
+Provide the details of the person(s) currently buried in a VA national cemetery under your eligibility.
 
 - Deceased's first name (*Required) {text field}
 - Deceased's last name (*Required) {text field}
 
-Add another name of deceased {secondary button}
+Add another deceased person {secondary button}
 
 [Finish this application later]()
 
@@ -1626,7 +1700,7 @@ Add another name of deceased {secondary button}
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 6: Burial benefits {h2} {viewable if applying for someone else **and** applicant is a Veteran **and** answered **Yes*** to having a person currently buried}
 
@@ -1644,12 +1718,12 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Name of deceased person(s) {h3 heading with h5 styling}
 
-Please provide the details of the person(s) currently buried in a VA national cemetery under the applicant's eligibility.
+Provide the details of the person(s) currently buried in a VA national cemetery under the applicant's eligibility.
 
 - Deceased's first name (*Required) {text field}
 - Deceased's last name (*Required) {text field}
 
-Add another name of deceased {secondary button}
+Add another deceased person {secondary button}
 
 [Finish this application later]()
 
@@ -1660,7 +1734,7 @@ Add another name of deceased {secondary button}
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 5 of 7: Burial benefits {h2} {viewable if applying for self or someone else **and** applicant is a non-Veteran **and** answered **Yes*** to having a person currently buried}
 
@@ -1678,12 +1752,12 @@ Your application will be saved on every change. Your application ID number is NN
 
 ### Page Title: Name of deceased person(s) {h3 heading with h5 styling}
 
-Please provide the details of the person(s) currently buried in a VA national cemetery under the sponsor’s eligibility.
+Provide the details of the person(s) currently buried in a VA national cemetery under the sponsor’s eligibility.
 
 - Deceased's first name (*Required) {text field}
 - Deceased's last name (*Required) {text field}
 
-Add another name of deceased {secondary button}
+Add another deceased person {secondary button}
 
 [Finish this application later]()
 
@@ -1692,9 +1766,10 @@ Add another name of deceased {secondary button}
 ---
 ---
 
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 6: Burial benefits {h2} {if applying for self **and** applicant is a Veteran}
 **OR**
@@ -1715,10 +1790,10 @@ Your application will be saved on every change. Your application ID number is NN
 ### Page Title: None {h3 heading with h5 styling}
 
 - Which VA national cemetery would you prefer to be buried in? {text input with autosuggest}
+- Find a VA national cemetery (opens in a new tab) {link: https://www.va.gov/find-locations}
 
-Find a VA national cemetery {link: https://www.va.gov/find-locations}
+**Note:** This doesn’t guarantee you’ll be buried in your preferred cemetery, but we’ll try to fulfill your wishes. If space is unavailable, we'll work with your family to assign a gravesite in a cemetery with available space at the time of need.
 
-**Please note:** This doesn’t guarantee you’ll be buried in your preferred cemetery, but we’ll try to fulfill your wishes. If space is unavailable, we'll work with your family to assign a gravesite in a cemetery with available space at the time of need.
 
 [Finish this application later]()
 
@@ -1729,7 +1804,7 @@ Find a VA national cemetery {link: https://www.va.gov/find-locations}
 
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 4 of 6: Burial benefits {h2} {if applying for someone else **and** applicant is a Veteran}
 **OR**
@@ -1751,9 +1826,9 @@ Your application will be saved on every change. Your application ID number is NN
 
 - Which VA national cemetery would the applicant prefer to be buried in? {text input with autosuggest}
 
-Find a VA national cemetery {link: https://www.va.gov/find-locations}
+Find a VA national cemetery (opens in a new tab) {link: https://www.va.gov/find-locations}
 
-**Please note:** This doesn’t guarantee the applicant will be buried in their preferred cemetery, but we’ll try to fulfill their wishes. If space is unavailable, we'll work with their family to assign a gravesite in a cemetery with available space at the time of need.
+**Note:** This doesn’t guarantee the applicant will be buried in their preferred cemetery, but we’ll try to fulfill their wishes. If space is unavailable, we'll work with their family to assign a gravesite in a cemetery with available space at the time of need.
 
 [Finish this application later]()
 
@@ -1761,9 +1836,10 @@ Find a VA national cemetery {link: https://www.va.gov/find-locations}
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 5 of 6: Supporting files {h2} {if applying for self or someone else **and** applicant is Veteran}
 **Or**
@@ -1791,7 +1867,7 @@ You can upload your files from the device you’re using to submit this applicat
 
 **If you're applying for yourself** {bordered accordion}
 
-You can upload a copy of your or your sponsor’s DD214 or other separation papers. This will help us figure out if you qualify for burial in a VA national cemetery based on your or your sponsor’s military status and service history.   
+You can upload a copy of your or your sponsor’s DD214 or other separation papers. This will help us figure out if you qualify for burial in a VA national cemetery based on your or your sponsor’s military status and service history. 
 
 {end bordered accordion}
 
@@ -1802,16 +1878,16 @@ You can upload a copy of their sponsor’s DD214 or other separation papers. If 
 You can upload files or an affidavit (a written statement of facts confirmed by an oath or affirmation) showing that you’re:
 - The applicant’s court-appointed representative, **or**
 - The applicant’s caregiver (including a spouse or other relative), **or**
-- An attorney or agent acting on behalf of the applicant under a durable power of attorney, **or**
-- The manager or principal officer of an institution in which the applicant is being cared for
+- An authorized attorney or agent acting on behalf of the applicant under a durable power of attorney, **or**
+- The manager or principal officer of an institution in which the applicant receives care.
 
 To show you have the authority to prepare the application on behalf of the applicant, you can fill out and upload one of the following forms:
-- Appointment of Veterans Service      Organization as Claimant’s       Representative (VA Form 21-22)            {download link} Download VA Form 21-22 (PDF, 4 pages) {end download link}
-- Appointment of Individual as       Claimant’s Representative (VA Form 21-22a)
-{download link Download VA Form 21-22a (PDF,3 pages) {end download link}     
+- Appointment of Veterans Service Organization as Claimant’s Representative (VA Form 21-22) {download link} Download VA Form 21-22 (PDF, 4 pages) {end download link} Or
+- Appointment of Individual as Claimant’s Representative (VA Form 21-22a)
+{download link} Download VA Form 21-22a (PDF,3 pages) {end download link} 
 
-**If you’re preparing the application for an unmarried adult child of a Veteran or service member,** you can also upload files with details about the adult child’s disability. The Veteran or guardian of the child should ask the child’s current doctor to verify the files. These files should include:  
-- The date of the disability’s onset, **and**
+**If you’re preparing the application for an unmarried adult dependent child of a Veteran or service member,** you can also upload files with details about the adult child’s disability. The Veteran or guardian of the child should ask the child’s current doctor to verify the files. These files should include: 
+- The date when the disability began, **and**
 - A description of the physical or mental disability, **and**
 - A description of how dependent the child who has a disability is on the Veteran, **and**
 - The marital status of the child
@@ -1820,9 +1896,9 @@ To show you have the authority to prepare the application on behalf of the appli
 
 **Can I mail or fax files?** {bordered accordion}
 
-We can process your request more quickly if you upload your files here. If you can’t upload your files:     
-1. Make copies of the files.     
-2. Make sure you write your name and confirmation number on every page. You will receive a confirmation number once you submit this application.    
+We can process your request more quickly if you upload your files here. If you can’t upload your files: 
+1. Make copies of the files.  
+2. Make sure you write your name and confirmation number on every page. You will receive a confirmation number once you submit this application.  
 3. Submit application and supporting files to the VA by mail:
 
 {address block} 
@@ -1871,7 +1947,7 @@ Delete file {secondary button}
 ---
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 6 of 6: Review application {h2} {viewable if applying for self or someone else **and** Veteran}
 
@@ -1910,9 +1986,10 @@ Please read and accept the [privacy policy](). {checkbox}
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 ## Chapter Title: Step 7 of 7: Review application {h2} {viewable if applying for self or someone else **and** non-Veteran}
 
@@ -1952,9 +2029,10 @@ Please read and accept the [privacy policy](). {checkbox}
 
 ---
 ---
+
 # Form Title: Apply for pre-need eligibility determination {h1}
 
-Form 40-10007  
+Form 40-10007 
 
 {success alert}
 **You've submitted your application**
@@ -1979,14 +2057,15 @@ You’ll receive a confirmation email shortly. We’ll let you know by mail or p
 
 Print this page {primary button}
 
-### Do you have more files you need to submit? {h3 heading with h4 styling}
+### Do you have more documents you need to submit? {h3 heading with h4 styling}
 
-To mail or fax additional files:     
-1. Make copies of the files.     
+To mail or fax additional documents: 
+1. Make copies of the documents.  
 2. Make sure you write your name and confirmation number on every page.
-3. Submit application and supporting files to the VA by mail:
+3. Submit application and supporting documents to the VA by mail:
 
 {address block} 
+
 
 NCA Intake Center
 P.O. Box 5237

@@ -1,12 +1,14 @@
 ---
 name: CAIA General Collaboration Request
-about: Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
+about: WIP Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
 title: '[CAIA General Support]:<Team name><Support Needed>'
 labels: 'sitewide CAIA'
 assignees: 'coforma-terry,strelichl'
 ---
 
 # CAIA General Collaboration 
+
+`WIP`
 
 Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
 
@@ -78,10 +80,9 @@ _For example, you may be drafting content, planning or synthesizing research, wa
 ## Collaboration cycle 
 If you’re going through the collaboration cycle with the governance team, link to the ticket:
 - **Ticket Number:** `xxxxxx`
-- **Ticket Opened:** `xx/xx/xxxx`
 - If you’re not going through the collaboration cycle, or you’re unsure, check here, and we can follow up: 
     - [ ] Not going through collab cycle
-    - [ ] Unsure
+
 
 **Note**: We ask that you partner with us **before** scheduling your midpoint review, **to ensure** we can agree on a deliverable and that there's time for your team to make changes.  
 

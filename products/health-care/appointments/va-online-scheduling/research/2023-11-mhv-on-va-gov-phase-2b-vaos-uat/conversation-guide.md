@@ -228,7 +228,7 @@ _If there's not enough time, skip to wrap up_
 
 PROMPT: Since we have time, I want to look at one more thing. Could you return to your appointments list from here?
 
-_Once on the appointments page,_
+_Once on the appointments page_
 
 PROMPT: Say you wanted to schedule an appointment. How would you do that from here? 
 
@@ -238,19 +238,19 @@ PROMPT: I won't be asking you to schedule an appointment today, but I would like
    - Does that make sense?
    - If yes, are you comfortable continuing?
 
-_If yes_
+_If YES_
 
-PROMPT: Given that, please start the process of scheduling a Primary care appointment.
+PROMPT: Please start the process of scheduling a Primary care appointment.
 
 _Note: Mental health may also be an option that brings up direct scheduling._
 
 _PAUSE on the facility selection page:_
 - Tell me about this page.
+- If you were scheduling an appointment, which of these might you choose to schedule at?
+    - Why?
 - Is anything confusing?
 - What, if anything, is helpful?
-- What else would be helpful to have here, if anything?
-- If you were scheduling an appointment, which of these might you choose to schedule at?
-    - Why? 
+- What else would be helpful to have here, if anything? 
 
 ### Task 8 (CERNER ONLY): Navigate to My VA Health from facility selection
 
@@ -261,45 +261,40 @@ QUESTION: How did scheduling your [Cerner facility] appointments work for you?
  - Is anything working well?
 
 
-### Task 8: Review clinic selection page
+### Task 9: Review clinic selection page
 
 _Ask them to continue to the clinic selection page if not blocked by errors etc:_
+
+- Tell me about this page
+- If you were scheduling an appointment, which of these might you choose to schedule at?
+  - Why? 
 - Is anything confusing?
 - What, if anything, is helpful?
 - What else would be helpful to have here, if anything?
-- If you were scheduling an appointment, which of these might you choose to schedule at?
-    - Why? 
 
 Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
-### Task 9 (CC eligible only): Review provider selection (10 minutes)
+### Task 10 (CC eligible only): Review provider selection (10 minutes)
 
 PROMPT: Return to your appointments list.
 
-Are you familiar with community care?
+_Once on list_
 
-_IF NO_ 
-- That's fine. Some Veterans are eligible to schedule appointments at local facilities outside of VA. Let's check if the system gives you that option, then go from there.
-- Could you try to schedule a podiatry appointment? I won't ask you to schedule the appointment, we'll just start the process.
-
-_IF YES:_
-- Have you ever scheduled an appointment through community care?
-
-PROMPT: Say you wanted to make a community care appointment. How would you do that from here?
+PROMPt: Could you try to schedule a podiatry appointment? 
    - I won't be asking you to schedule an appointment today, but I would like you to use the website to start the task. I'll ask you to pause when I have questions, and I'll stop you before you schedule anything.
 
 _Stop them on the provider list of the provider selection page._
 
-PROMPT: Please add a provider. Tell me about the list.
+PROMPT: Please add a provider. 
 
-- Is anything confusing?
+- Tell me about the list.
+- If you were scheduling an appointment, which of these might you choose to schedule with?
+    - Why?
+- Is anything confusing in the list?
 - What, if anything, is helpful?
 - What else would be helpful to have here, if anything?
-- If you were scheduling an appointment, which of these might you choose to schedule with?
-    - Why? 
-
-
-Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
+ 
+PROMPT: Thank you for sharing that. We'll stop here so we don't schedule this appointment. Could you return the appointments tool from here? 
 
 ## Section 3: Thank You and Closing (5 minutes)
 

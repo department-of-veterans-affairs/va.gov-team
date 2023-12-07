@@ -13,8 +13,7 @@ Accessibility/CAIA Team:
 
 [Angela Fowler - Accessibility Specialist](angela.fowler@adhocteam.us), [Sarah Koomson - Accessibility Engineer](Sarah.Koomson@oddball.io), [Sara Smith - Sitewide CAIA, 508 Accessibility Specialist](Sara.Smith@oddball.io)
 
-
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDRtQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7396a143447d4aeaca516a991ff820fffce618cd/Accessibility-FSR%20Streamlined-Waiver-Research-Findings-readout.pdf)
 
 **Jump to:**
 
@@ -326,6 +325,8 @@ Only one participant who tested the full FSR form was a VoiceOver user and they 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/streamlined_waiver/accessibility_research/transcripts)
+
+[Readout](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDRtQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7396a143447d4aeaca516a991ff820fffce618cd/Accessibility-FSR%20Streamlined-Waiver-Research-Findings-readout.pdf)
 
 
 ## Tools used for Synthesis

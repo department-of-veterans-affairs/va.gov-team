@@ -12,7 +12,7 @@
 ## Launched Form Notifications 
 |Form Number  |Form Name |User State |Email Used |Launch Date | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 21-0845 | Authorize VA to release your information to a third party source | Authenticated and Unauthenticated | Form | In Progress | 
+| 21-0845 | Authorize VA to release your information to a third party source | Authenticated and Unauthenticated | Form | November 2023 | 
 | 21-0972 | Sign VA claim forms as an alternate signer | Authenticated and Unauthenticated | Form | October 2023 | 
 | 22-10203 | Apply for the Rogers STEM Scholarship | Authenticated and Unauthenticated | Form | October 2023 | 
 | 21P-0847 | Request to be a substitute claimant for a deceased claimant | Authenticated and Unauthenticated | Form | October 2023 | 

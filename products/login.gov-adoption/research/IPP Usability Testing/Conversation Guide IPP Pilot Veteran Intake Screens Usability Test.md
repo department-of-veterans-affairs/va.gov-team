@@ -2,13 +2,51 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is [NAME], thank you for sharing your time today.
+
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to that…
 
 Today we're going to talk about verifying your identity with Login.gov and observe how you interact with a program that we’re designing to help you sign up for in-person identity proofing at a local VA medical center.
 
 
 Before we start, I have a few things that I want to go over with you:
+
+## Tech Checklist
+
+“I want to make sure your technology is ready to go for this session. Someone may have gone over a list of technical questions when you registered. I'm going to quickly run through those again just to make sure I have the right information.”
+Device and browser
+- Are you using a computer or mobile phone during our session today?
+- Mac or Windows?
+- iOS or Android?
+
+What browser are you using today?
+
+If not joined by Zoom already
+
+Do you have Zoom installed?
+
+If on Zoom but can’t share screen
+
+If on mobile, you can find instructions for helping participants on iPhone or Android share their screen
+If assistive tech is being used
+
+Do you have a screen reader on this device?
+
+What kind of screen reader do you use?
+
+Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+
+How long have you been using it?
+
+Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low?
+
+If high, be prepared to have them repeat anything that can't be heard or understood I may need to pause you at times and ask you what you're hearing if I can't make out what's being read.
+
+Are you using a screen magnifier today?
+
+Are there any other assistive technologies that you use?
+
+*If the participant has low vision, they may require captions which needs to be turned on in advanced settings
 
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
@@ -59,39 +97,39 @@ I'm going to send you a link in the zoom chat. Please open it up in a web browse
 
 Okay, now I'm going to ask you to share your screen on Zoom so that we can look at the prototype together.
 
-[Zoom Share Screen Directions](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom)
-
-<br>Please read the directions, think aloud, and walk me through your thought process as you complete the task of signing up for in-person identity verification. Between tasks, or as you speak, I may stop to ask questions. (Bullet questions are suggested follow-ups to help the moderator engage with the respondent if there are additional questions not answered while reading aloud)
-
+Zoom Share Screen Directions
+MODERATOR: Please read the directions, think aloud, and walk me through your thought process as you complete the task of signing up for in-person identity verification. Between tasks, or as you speak, I may stop to ask questions. (Bullet questions are suggested follow-ups to help the moderator engage with the respondent if there are additional questions not answered while reading aloud)
 
 
-**Screen 1: In-person identity proofing**
-- What is this screen telling you?
-- What are some actions you might take?
-- It looks like you’re thinking… did you have something in mind that you’re not seeing here?
+
+Screen 1: In-person identity proofing
+What is this screen telling you?
+What are some actions you might take?
+It looks like you’re thinking… did you have something in mind that you’re not seeing here?
 
 
 **Screen 2: Choose a nearby site**
 - What do you need to do at this step?
 - It looks like you’re thinking… did you have something in mind that you’re not seeing here?
-- If they have not tried typing in a zip code or have typed in one that does not correspond to the hardcoded sites, the researcher should say: “Try typing in 21201 or 21218”
 - From your past experiences registering for an appointment and/or finding a VA location, is this what you expect to see?
 - When picking a VA location, what considerations do you make to choose one location over another? Alt: what impacts your decisions to choose one location over another?
+- Please click the "Search" button to see the next screen. 
 
 
 
-**Screen 3: Confirm site**
-- What do you need to do at this step?
-- How is what this screen is asking you to do different from the last?
-- It looks like you’re thinking… did you have something in mind that you’re not seeing here?
+
+Screen 3: Confirm site
+What do you need to do at this step?
+How is what this screen is asking you to do different from the last?
+It looks like you’re thinking… did you have something in mind that you’re not seeing here?
 
 
 
-**Screen 4: Verify in-person**
-- What did you just do?
-- What is the purpose of this screen?
-- What do you do after closing out this screen? How do you remember what is shared here?
-- It looks like you’re thinking… did you have something in mind that you’re not seeing here?
+Screen 4: Verify in-person
+What did you just do?
+What is the purpose of this screen?
+What do you do after closing out this screen? How do you remember what is shared here?
+It looks like you’re thinking… did you have something in mind that you’re not seeing here?
 
 ### Things to watch/listen for:
 
@@ -113,45 +151,45 @@ If no, ask, what would you need to see to know who sent you this email?
 
 This email is from Login.gov and includes your walk-in appointment details. Please read over this email to yourself and let us know your reactions as you read. In this exercise, we want you to walk us through what you understand your next steps are going to be and also any expectations you have for when you get to the VA medical center.
 
-**Follow-up questions:**
-- What would you do upon receiving this email?
-- What information sticks out to you and seems the most important?
-- Are there any tasks that you need to complete after receiving this email?
-- Do you anticipate any challenges in following up on the tasks in this email?
-- What is this email missing that you would need to successfully go to your appointment to complete in-person identity verification?
- When is this information important to receive and review? (Probe for multiple times necessary? E.g., reminders.)
+Follow-up questions:
+What would you do upon receiving this email?
+What information sticks out to you and seems the most important?
+Are there any tasks that you need to complete after receiving this email?
+Do you anticipate any challenges in following up on the tasks in this email?
+What is this email missing that you would need to successfully go to your appointment to complete in-person identity verification?
+When is this information important to receive and review? (Probe for multiple times necessary? E.g., reminders.)
 
 ## In-Person Identity Proofing Experience
 I am now going to describe what we intend to see happen during the in-person identity proofing experience in a step-by-step fashion. At each step, I will ask you questions about your thoughts on the intended steps a Veteran needs to take to complete in-person identity proofing. 
 
-1. Go to the VAMC that you selected in the application
-   - How would you do that?
-   - What would make this easy or difficult to go within 10 days?
-2. Locate the proofing agent. The proofing agent is a specific authorized employee who can help you verify your account in person.
-   - How would you do that?
-3. Present your case number to the proofing agent. 
-   - How would you find your confirmation number? Where would you go if you did not have it written down?
-4. Present your proofing materials to the proofing agent.
-   - State issued ID, OR
-   - VHIC and proof of address
-5. The proofing agent asks you to sign into VA.gov to complete your proofing. How would you do that?
-   - How would you describe what you just did to a friend or someone else?
-   - What questions might you have for the proofing agent?
-6. Use Login.gov account
-   - What would you use it for?
-   - Is there any other information you would need in order to be able to use your Login.gov account?
-7. Afterward, you would be mailed a letter confirming you elected to verify your identity in person. You only need to reply if you did not elect to verify your identity in person in order to notify Veteran Affairs of fraud. 
-   - What are your thoughts on the letter that is mailed?
-   - What would make this easy or difficult to receive a letter?
-   - If someone were to receive a letter and they did not elect to verify their identity, how might they report this fraud? 
+Go to the VAMC that you selected in the application
+How would you do that?
+What would make this easy or difficult to go within 10 days?
+Locate the proofing agent. The proofing agent is a specific authorized employee who can help you verify your account in person.
+How would you do that?
+Present your case number to the proofing agent. 
+How would you find your confirmation number? Where would you go if you did not have it written down?
+Present your proofing materials to the proofing agent.
+State issued ID, OR
+VHIC and proof of address
+The proofing agent asks you to sign into VA.gov to complete your proofing. How would you do that?
+How would you describe what you just did to a friend or someone else?
+What questions might you have for the proofing agent?
+Use Login.gov account
+What would you use it for?
+Is there any other information you would need in order to be able to use your Login.gov account?
+Afterward, you would be mailed a letter confirming you elected to verify your identity in person. You only need to reply if you did not elect to verify your identity in person in order to notify Veteran Affairs of fraud. 
+What are your thoughts on the letter that is mailed?
+What would make this easy or difficult to receive a letter?
+If someone were to receive a letter and they did not elect to verify their identity, how might they report this fraud? 
 
 
 ## Post-Task Interview - 5 minutes
 
-1. Now knowing how the process goes, how would you describe this process to a fellow Veteran?
-2. After experiencing this process, could you tell us why or why not you would elect to do in-person proofing? 
-3. How did you feel about the steps of the verification process that you saw today? Did it meet your expectations? Were there any surprises? Anything missing that you think might make it easier?
-4. Anything else you'd like the team to know as we continue improving this application?
+Now knowing how the process goes, how would you describe this process to a fellow Veteran?
+After experiencing this process, could you tell us why or why not you would elect to do in-person proofing? 
+How did you feel about the steps of the verification process that you saw today? Did it meet your expectations? Were there any surprises? Anything missing that you think might make it easier?
+Anything else you'd like the team to know as we continue improving this application?
 ## Thank-You and Closing - 2 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
@@ -162,3 +200,65 @@ Thank you so much again, and enjoy the rest of your day!
 
 ##
 
+
+## Exit Strategy
+
+### For Participant:
+Be mindful of participant's behavior
+
+If they appear to be distressed, take a moment to check in with them
+
+Offer to bypass a question
+
+Suggest taking a short break
+
+If they continue to give signs of distress, offer an opportunity to gracefully exit the session.
+
+Use a sample exit strategy
+
+Thank them profusely for their time and feedback
+
+Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+
+Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+Backup Moderator: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
+
+### For researchers:
+Pause your research activity.
+
+You could say “I need to take a few minutes to set up the next task” or “I need a short break, please give me a couple of minutes”
+
+Contact the recruiting team (Perigean) using the Slack direct message set up at the start of the study
+
+Describe the scenario in as much detail as you are comfortable
+
+As you are able, be available to answer questions.
+If it’s best for you to end your participation in the session and you’ve set it ahead of time, hand off session to a backup moderator.
+e.g “for this next part, [researcher] will take over”
+
+If it’s best to end the session, gracefully close the session with one of your practiced exit strategies.
+
+Let the participant know that the recruiting team will follow up with them.
+
+Inform the recruiting team that the session has been ended.
+
+When the session has ended
+
+Take care of your mental and emotional health
+
+Being made to feel unsafe or uncomfortable during research can be a traumatizing experience
+
+Take time to pause and assess your own energy, emotional comfort, and capacity
+
+Let your team know if you need any support.
+Consider a debrief with your team and/or the observers on the call as on opportunity to acknowledge this experience and consider how we can better support researchers and participants moving forward.
+
+### Sample exit strategies
+We recommend you plan a graceful exit strategy that you will feel comfortable using during a session. Your goal is to simply wrap up the session without any further incident or escalation. It is important not to blame the participant, since it could increase any distress or trauma they are experiencing. If you are exiting for a reason on your side, it’s best not to share any personal details, as it may create additional stress for all. Examples of exit strategies that have worked include:
+
+Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+
+Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+Backup Moderator: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.

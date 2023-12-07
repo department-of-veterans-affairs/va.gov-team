@@ -2,10 +2,22 @@
 
 `DRAFT`
 
-**Last Updated: 11/3/2023**
+**Last Updated: 12/6/2023** updated ToC
 
 
 ## Table of Contents 
+
+- [Communications](#communications)
+- [Roles](#roles)
+- [Overview](#overview)
+- [MVP](#mvp)
+- [Problem Statement](#problem-statement)
+- [Product Goals](#product-goals)
+- [Proposed Solutions/Phases](#proposed-solutionphases)
+- [Measuring Success](#measuring-success)
+- [Key Deliverables](#key-deliverables--artifacts)
+- [Key Dates](#key-dates)
+- [Design](#design)
 
 ## Communications
 
@@ -63,8 +75,6 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 
 ## Proposed Solution/Phases
-
-[insert a chart here and link off to each phase]
 
 |Phase|Short Description (w/link)|Details|
 |:-:|---|---|

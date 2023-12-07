@@ -13,7 +13,7 @@ This document sets expectations for Product Owners outside of OCTO we work close
 |Product Owner (VES)| Natalie Morales and Andrea Schneider|
 
 ## Product Owner (VES)
-Product Owners from the Veteran Experience Services (VES) team manage products in different product lines similarly to OCTO POs.   
+Product Owners from the Veteran Experience Services (VES) team manage products in different product lines similarly to OCTO POs. This role is to primarily fill the gap between the back-end and front-end team by managing communication and coordination between the teams.
 
 ### Prioritization
 - Share and provide timely guidance on VES priorities, goals, objectives, and desired outcomes

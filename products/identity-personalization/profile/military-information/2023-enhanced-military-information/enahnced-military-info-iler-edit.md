@@ -1,6 +1,6 @@
 
 
-
+ not continuing to build out this documentation until we've determined more on phase 1
 
 <details>
 <summary>MOVE THIS TO THE RESPECTIVE PHASES</summary>

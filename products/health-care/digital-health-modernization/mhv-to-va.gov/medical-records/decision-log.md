@@ -20,9 +20,10 @@ Please log key decisions related to the below practice areas, including date, wh
 ### Vaccines specific design decisions
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
+| The field for reactions will not be displayed as part of the vaccine data in production.                                  | After significant research and review of data, it was determined that CPRS 32b, which removed the reaction field from vaccines, was released Sep 29, 2022 and all sites (except those on Cerner) should have installed it by Dec 16, 2022.  This change made recording reactions as part of the vaccines record obsolete, and as a result, Dr. Josephs recommended that we not display it.  
 | The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
-| The list view page for allergies will be at the URL …/my-health/medical-records/vaccines/ |   |
-| A details page for allergies will be at the URL …/my-health/medical-records/vaccines/vaccine_ID |     |
+| The list view page for vaccines will be at the URL …/my-health/medical-records/vaccines/ |   |
+| A details page for vaccines will be at the URL …/my-health/medical-records/vaccines/vaccine_ID |     |
 | The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|
 | A user can print from the list view. When they do, they receive a print out of all of their vaccines |     |
 | A user can print from the details view. When they do, they receive a print out of the details for just that vaccine |     |
@@ -32,7 +33,7 @@ Please log key decisions related to the below practice areas, including date, wh
 | The list view will present each vaccine in a card format. That card will include both the vaccine logged and the date it was received as entered into the EHR by a provider. | A user may get the same vaccine yearly, and therefore we need a second identifier to differenitate. Given a user cannot receive the same vaccine on the same day, date received fits the bill. |
 | The H1 of the details view will be the vaccine name. Directly underneath the H1 will be date received information | | 
 | In the details view for a vaccine, a user will be shown vaccine name, date received, location received, and provider notes | |
-| The field reaction will not be shown at launch. | This was based on feedback from SMEs. There are still many qustions about how the field is used in the field. We want to track down these reasons to properly explain this field to users. This must be resolved before moving MR to Phase 1 |
+| The field reaction for vaccines will not be shown at launch. | This was based on feedback from SMEs. There are still many qustions about how the field is used in the field. We want to track down these reasons to properly explain this field to users. This must be resolved before moving MR to Phase 1 |
 | The following data can be shown to users once verified by KBS and if they are available. They do not need to be included at launch into phase 0: Vaccine series information, Manufacturer, Site (such as left arm), Vaccine status (such as completed) and Lot number. | These are important pieces of data for patients, but ahve not been shown in MHV in the past. Therefore, we must first verify their accuracy with KBS.|
 | The following field should not be shown to users: CPT code, who administered the code | After discussion, the SMEs determined they were not needed for patient view and may cause confusion. A user would still be able to get this information by asking their provider directly or submitting a full records request.|
 

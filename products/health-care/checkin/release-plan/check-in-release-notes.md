@@ -12,6 +12,9 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 12/5/2023
+- Enabled the 45-minute check-in link SMS and travel claim submission during check-in features for all facilities
+  
 ### 11/15/2023
 - Enabled the 45-minute check-in link SMS and travel claim submission during check-in features for the following Wichita stations
     - 589A7 Robert J. Dole VA Medical Center

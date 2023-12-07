@@ -29,7 +29,7 @@ The team outlined their flows for the reactivation step in [this Mural](https://
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
-No IA recommendations to form flow URLs or breadcrumbs at this moment. Recommending updating base URL so it is up to date with standards. Team is deciding on when this URL change could happen, as part of MVP changes or in a later version.
+No IA recommendations to form flow URLs or breadcrumbs at this moment. Recommending updating base URL so it is up to date with standards. Team confirmed that a URL update can be slated for the next version as the MVP relaunch date is set for January 2024 and not within scope at this moment.
 
 Proposed URL: www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez
 

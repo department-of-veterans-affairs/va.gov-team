@@ -2,7 +2,7 @@
 
 ## Request
 
-**Method**: POST
+**Method**: PUT
 
 **Path**: /inquiries/:id:/reply/new
 

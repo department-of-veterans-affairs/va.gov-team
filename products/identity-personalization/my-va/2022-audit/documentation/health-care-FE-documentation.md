@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: October 31, 2023
+Last updated: December 1, 2023 - updated Cerner handling
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -84,8 +84,12 @@ You have no upcoming appointments to show.
 
 ### If a user receives VA health care at a Cerner facility
 
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/VradRV8)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGlJVpL)
+### If a user receives VA health care at a Cerner facility
+
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
+- [Desktop - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Ryd9gKQ)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
+- [Mobile - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/L4PYeML)
 
 **Show**
 
@@ -95,12 +99,41 @@ You have no upcoming appointments to show.
 
 - If we detect that a user does not receive VA health care services from any Cerner facility via the [Drupal integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-opt-in-to-drupal-as-the-source-of-truth-for).
 
-#### UX specs
+#### **Content**
 
-- When we detect that a user has received care at a Cerner facility, we show all health care links (Visit My HealtheVet on VA.gov, Go to your inbox, Schedule and manage your appointments, Refill and track your prescriptions, Request travel reimbursement, and Get your VA medical records and lab and test results) and no other cards or empty state text in the section.
+**Choose the right health portal**
+
+To manage your health care at these facilities, go to My VA  Health:
+- (**Health care facility name**)
+- (**Health care facility name**)
+
+[Go to My VA Health](https://patientportal.myhealth.va.gov/)
+
+Having trouble opening My VA Health?
+
+*Expanded content:* 
+
+Try these steps:
+- Disable your browser's pop-up blocker
+- Sign in to My VA Health with the same account you used to sign in to VA.gov
+
+For **any other facility, go to My HealtheVet.**
+
+[Go to My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)
+
+**Content specs**
+
+- The health care facility names should use the Drupal integration to show only the names of facilities that a user receives VA health care at that are Cerner facilities. **This content is dynamic.**
+
+#### Visual specs
+
+- Use the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--warning) for the Cerner alert.
+- Use the [additional info](https://design.va.gov/components/additional-info) component for the dropdown that says "Having trouble opening My VA Health?"
+- Use the [secondary action link](https://design.va.gov/components/link/action#secondary) for the "Go to My VA Health" and "Go to My HealtheVet" CTA links.
 
 **Positioning**
-- This alert should appear directly below the health care header and nothing else should be shown in the section besides the links.
+- This alert should appear directly below the health care header and nothing else should be shown in the section besides this alert.
+
 
 ---
 

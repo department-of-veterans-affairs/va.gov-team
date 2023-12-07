@@ -94,6 +94,8 @@ const { router } = this.props;
 router.push('your-claims');
 
 // New
+import { useNavigate } from 'react-router-dom-v5-compat';
+
 const navigate = useNavigate();
 
 // NOTE: navigate uses relative routing, see the section on `<Link>`
@@ -155,6 +157,8 @@ export default function ParentComponent({ children }) {
 }
 
 // New
+import { Outlet } from 'react-router-dom-v5-compat';
+
 export default function ParentComponent({ children }) {
   return (
     <Outlet />

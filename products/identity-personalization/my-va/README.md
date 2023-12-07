@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: October 31, 2023 - updates to Projects section**
+**Last updated: December 1, 2023 - Removing notifications as a feature**
 
 ### Communications
 
@@ -42,7 +42,7 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 | Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A|MPI| Go through [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) instead of going straight to MPI|
 |Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | EVSS | Go through [#benefits-ce-disability_exp_1](https://dsva.slack.com/archives/C04KW0B46N5)|
 |Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)| VA Profile | Go through the profile team, or contact VA Profile ([#va-profile](https://dsva.slack.com/channels/va-profile); main contact is Mike Richard) directly|
-|Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify | VANotify| [#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public); Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
+|~Notifications~ We decomissioned our MVP and have put notifications work on hold as of Fall 2023| ~This section displays recent notifications.~| ~Email/text notifications managed through VANotify~ | ~VANotify~| ~[#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public); Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)~|
 |Claim status| This shows someone's most recent claim status update and links to the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | Lighthouse | Go through [#benefits-claim-appeal-status](https://dsva.slack.com/channels/benefits-claim-appeal-status) |
 |Health care -- Appointment info | This section shows someone's next upcoming appointment info, if applicable, and links to the appointment tool.| [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) | VAOS | Go through  [#vaos-team](https://dsva.slack.com/channels/vaos-team)|
 |Health care -- Unread messages| This section shows if someone has unread messages, and links to the secure messaging tool.| N/A - Unread messages are currently in My Healthevet| MHV| Go through [#mhv-secure-messaging](https://dsva.slack.com/channels/mhv-secure-messaging)|
@@ -134,7 +134,7 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Status|
 |----|----|---|
-| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | Ready for development | 
+| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | In development | 
 |[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | In development |
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 
@@ -215,8 +215,16 @@ _Why would your business want this to exist?_
  </details>
 
 ## Front End
-
-- [Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- [General: Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- Latest FE documentation:
+   - [White card use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component/white-card-component-FE-documentation.md)
+   - [LOA1 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates/LOA1-FE-documentation.md)
+   - [Claims and appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
+   - [Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration/FE-documentation/linking-to-mhv-from-my-va-health.md) (WIP)
+   - [Outstanding Debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/outstanding-debts-FE-documentation.md)
+   - [Benefit Payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/benefit-payments-FE-documentation.md)
+   - [Education & Training](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
+   - [Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md#my-va-benefit-application-drafts-frontend-documentation) 
 
 ## Back End
 

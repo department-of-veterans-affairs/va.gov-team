@@ -1,6 +1,6 @@
 # List of contact options
 
-Last updated by @tygindraux: October 13, 2023
+Last updated by @tygindraux: December 5, 2023
 
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
 
@@ -42,7 +42,9 @@ When a submitter can choose between ≥ 2 contact options, we need to include a 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Contact-preference.png)
 
-When a submitter cannot choose between ≥ 2 contact options, for example, only email is `ENABLED`, this question is omitted from the form. In this case, we need to update the submission page to let a submitter know how they can expect to be contacted. Here's an example from [Ask VA - Sketch - Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3).
+When a submitter cannot choose between ≥ 2 contact options, for example, only email is `ENABLED`, this question is omitted from the form.
+
+In all cases, the submission page should let a submitter know how they can expect to be contacted. Here's an example from [Ask VA - Sketch - Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3).
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Submission-response-email.png)
 
