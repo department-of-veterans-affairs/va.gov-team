@@ -47,6 +47,7 @@ _*Start recording.*_
 ## Warm up questions - 3 minutes 
 Before we go to the prototype, let’s start with a few warm-up questions.
 - Have you been to a VA health facility for a medical appointment for yourself in the last 6 months?
+- Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
 - Have you or a caregiver attempted to file for travel reimbursement for a VA or community care medical appointment  in the last 6 months? (Note: Could be either via paper form, BTSSS portal, or online check-in)
 - What device are you using to join this session today?
 
