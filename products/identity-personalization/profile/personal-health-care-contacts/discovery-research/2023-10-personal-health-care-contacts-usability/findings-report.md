@@ -54,9 +54,6 @@ Profile           |  Personal health care contacts
 |![desktop](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bf5f5378-1633-4235-87c8-6c53266ef07e)|![Next of kin info  - emergency contact and next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/8fddbbf9-7c17-42e3-bde0-ba8e5236063a)
 
 
-
-
-
 _Hypthesis 2:_ Participants will understand the EC and NOK information and understand how to update information. 
 
 _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK information in place. 
@@ -77,6 +74,7 @@ After signing in/or articulating that process:
 - 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov profile
 - 1 participant explored the landing page and used the mega menu to navigate to the healthcare hub section. After, not finding what they were looking for, they went to Profile
 - 3 participants attempted to search "Emergency contact" or "next of kin" and were unable to find information and navigate to the Profile
+![Profilehub](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/2b97fb07-0260-4725-9c8b-a80c01556e6a)
 
 ---
 
@@ -87,6 +85,8 @@ After signing in/or articulating that process:
 > The first thing I think is to go to Profile and then I'd look for stuff here. "Personal health care contacts," I would think. And bada bing, there it is." - P7
 
 > OK, there we go. "Personal health care contacts" saw it right away - P8
+
+![PHCC](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/c82e60e7-b51a-4889-870d-49860cdd5127)
 
 ---
 
