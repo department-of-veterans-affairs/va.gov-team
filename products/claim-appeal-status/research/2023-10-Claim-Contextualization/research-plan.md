@@ -45,9 +45,9 @@ Semi-structured interviews
 Remote on Zoom
 
 ### Research materials
-[Conversation guide] TBD
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
 
-[Research prototype] TBD
+[Research prototype] WIP
 	
 ## Recruitment	
 
@@ -64,8 +64,7 @@ The intended audiences is Veterans who at some point filed a disability compensa
 
 20 total participants:
 
-- 10 mobile users
-- 10 desktop users
+- 20 mobile users
 - Race: 5 Black Veterans, 5 Hispanic Veterans, 10 Veterans of any other race
 - 10 women Veterans
 
