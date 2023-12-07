@@ -7,6 +7,8 @@
 - *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
 
 **10-15 min before session**: 
+- Slack Perigean notetaker the link to notetaking doc in github
+
 - *Post p# and "observer instructions" in #feedback-backchannel*
   - *@mention team members*
   - *Share brief summary of participant demographic info*
@@ -281,7 +283,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *RECORD navigation: 
 - *(desktop) **Chris > Profile*** 
-- *(mobile) **Menu > My Profile > Profile***
+- *(mobile) **Menu > Chris > Profile***
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
