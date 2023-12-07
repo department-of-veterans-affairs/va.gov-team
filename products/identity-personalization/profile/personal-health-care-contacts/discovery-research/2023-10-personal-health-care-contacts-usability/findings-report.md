@@ -51,7 +51,10 @@ _Hypothesis 1:_ Participants will sign in, go to the "Profile", then navigate to
 
 Profile           |  Personal health care contacts
 :-------------------------:|:-------------------------:
-![MyHealth](https://user-images.githubusercontent.com/58444931/235532742-5adbb883-b3e4-41a6-982c-aaf64bc0f40a.png)|![Landingpage](https://user-images.githubusercontent.com/58444931/235532223-55138331-93f7-4728-98b7-2bb5dc039437.png)
+|![Profilehub](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/92493225-ab58-4845-b921-906f3dd09412)|![Personalhealthcarecontacts](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e8edd145-cc20-4bee-9f3a-3b7bd63dfe42)
+
+
+
 
 _Hypthesis 2:_ Participants will understand the EC and NOK information and understand how to update information. 
 
@@ -98,7 +101,7 @@ When asked later in the session about **Emergency contact,**
 
 > Emergency contact? In the event of an emergency, it could be your relative, wife, a brother or sister. Doesn't have to be a relative but you have someone designated in case of an emergency. - P3 
 
-—
+—--
 
 ### 4) Most participants (6 of 9) associated **Next of kin** with family and initially did not differentiate between **Medical emergency contact** and **Next of kin contact.** 
 
@@ -177,8 +180,6 @@ When asked if this information is related to other benefits,
 > I don't see how it's related to the GI bill… - P3 
 
 > I wouldn't think so, it does say medical emergency contact. - P7
-
-
 
 
 ## Additional Insights
