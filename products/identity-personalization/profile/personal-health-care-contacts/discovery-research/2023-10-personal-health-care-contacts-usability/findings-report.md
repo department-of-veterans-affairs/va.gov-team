@@ -47,14 +47,19 @@ Evaluate if the proposed designs are understandable and useful across participan
 We conducted remote usability and interview sessions with Zoom. The interviews consisted of a combination of tasks and direct questions. We conducted the study in the staging environment, with a test user created specifically for the purpose of this study.
 
 ## Hypotheses and Conclusions
-_Hypothesis 1:_ Participants will sign in, go to the "Profile", then navigate to “Personal health care contacts” in order to view EC and NOK information.  
+_Hypothesis 1:_ Participants will sign in, go to the VA.gov Profile, then navigate to _Personal health care contacts_ in order to view _Emergency contact_ and _Next of kin_ information.  
+
+**True:** Since most participants looked for this information within their VA.gov Profile.
 
 Profile           |  Personal health care contacts
 :-------------------------:|:-------------------------:
 |![desktop](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/bf5f5378-1633-4235-87c8-6c53266ef07e)|![Next of kin info  - emergency contact and next of kin](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/8fddbbf9-7c17-42e3-bde0-ba8e5236063a)
 
 
-_Hypthesis 2:_ Participants will understand the EC and NOK information and understand how to update information. 
+_Hypthesis 2:_ Participants will understand the _Emergency contact_ and _Next of kin_ information and understand how to update information. 
+
+**Partially true:** 
+- 
 
 _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK information in place. 
 
