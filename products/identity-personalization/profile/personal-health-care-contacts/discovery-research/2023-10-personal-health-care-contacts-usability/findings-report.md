@@ -210,9 +210,9 @@ When asked if this information is related to other benefits,
 
 ## Additional Insights
 
-### Participants recognized the value of the "Personal health care contacts" page as it indicated whether their information was up to date. 
-
-### Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
+- Participants recognized the value of the _Personal health care contacts_ page as it indicated whether their information was up to date. 
+- Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.  
+- Some participants expressed frustration with loging into VA.gov. 
 
 ---
 
