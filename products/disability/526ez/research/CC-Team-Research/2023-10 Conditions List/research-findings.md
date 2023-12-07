@@ -237,9 +237,7 @@ Additional Insights
 
 - Some participants used broader terms like "PAC" for PACT Act-related conditions or "Derma" for dermatological conditions, perhaps expecting related conditions to appear or to be able to select the general term. However, the component displays suggestions that most closely match the participant's input string, which might not align with their expectation. 
 
-![](https://lh7-us.googleusercontent.com/gRoeQrD-1iVR5cTjo1i-Ukbl3-bOdRG0mds766hAJCmcS1WgkzDXACg-MdKBPMAxROFi3DyLW3c63RkOfp8UbNe_kDjTZzTcOWpjJz6ywhwKADq6TUMDGgdogNNJ-MUVCEwh6dmNiJHiPJpWi1Bsmic)                  
-
-
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image6.png)                  
 ###### Image 1: Autosuggestions for  “hearing”
 
 ### Besides the search, other page and component elements caused confusion and interaction difficulties. 
@@ -254,9 +252,9 @@ Additional Insights
 
   - One participant misclicked but quickly corrected their selection when they realized the mistake.
 
-- For the most part, participants navigated the left/right/bilateral options for specific conditions without significant issues. However, the suggested list does not organize the terms by body part (i.e., bursitis in knee, bilateral; bursitis in knee, left; bursitis in knee, right)  \[see image 2], so participants had to scroll and read carefully in order to select the right option. 
+- For the most part, participants navigated the left/right/bilateral options for specific conditions without significant issues. However, the suggested list does not organize the terms by body part (i.e., bursitis in knee, bilateral; bursitis in knee, left; bursitis in knee, right), so participants had to scroll and read carefully in order to select the right option. 
 
-![](https://lh7-us.googleusercontent.com/g0H_wQ_pv9k5Y4rUP_YPxQlwoAfw5xbCgXaGP2V1jJJRBq9TWhmrLuUtFqZXu68JrvSZnwlMBvVgNEWvPUUt5F0497UvA8GRmgwq4io1tRnBbYzLH4ryoGBmhtZc5kcsCundX0z67qhqISymfUIiGog)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image5.png)
 
 
 ###### Image 2: Autosuggestions for  “bursitis” 
@@ -539,7 +537,7 @@ Our research identified these reasons for filing, broken out by time period in t
 
 \[Conversation guide]\(https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/conversation-guide.md)
 
-\[Interview transcripts]\(link here)
+\[Interview transcripts]\(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/Session%20Notes)
 
 
 ### Tools used for Synthesis
@@ -555,15 +553,15 @@ Our research identified these reasons for filing, broken out by time period in t
 
 1\. Introductory page
 
-![](https://lh7-us.googleusercontent.com/WjB8f19KyrOEmfQLfAA8NXoRsNQXffW4GEamCGG0Lzf-kA8d1bthCawNIGzk8VKOtRrMbUdbyupFj2saSyiS1YSES7izBORu0uyIHpY09PLP99c5169b7LqULdSxP3kB3IBjZhvZHiH-QSMEXYIVlaw)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image2.png)
 
 2\. Screen for entering conditions to claim
 
-![](https://lh7-us.googleusercontent.com/zsK43Y-JUmIdT2hXkXXuti0kV1gDuSqsqtxF0LUWDCKYu47GJd5L50_rOoSur4CYs2vLcWnht9oo1UKU6QV8cqReUq5L-HyVobd0xq6mIcLA7t4XAUNxpp5sh4ZKvaKEey42YqyZSMqt3mbelCPVHi0)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image3.png)
 
 3\. Example of type ahead functionality 
 
-![](https://lh7-us.googleusercontent.com/UksTCnqZF3_3i01JkCZ5RlMIugXaUZiCIYGfLolr9dx6ifFYFDGeRcUZyzLP9MUt_EM_9CvMD_1jwFJz5xL2vjF8Wtxahtn_Goh-sQzuCY8N1NjLGT0qj6RDatm69fb8oVOGQahESBP2gLRL6c5aR_A)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image4.png)
 
 
 ### [Other supporting documents created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#other-supporting-documents-created)
@@ -715,7 +713,7 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to
 
-[_VA recruitment checker_](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
+[_VA recruitment checker_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image1.png)
 
 This research does not include the perspectives of the following marginalized Veteran groups: 
 
@@ -733,6 +731,6 @@ This research does not include the perspectives of the following marginalized Ve
 
 - User of assistive technology 
 
-![](https://lh7-us.googleusercontent.com/JQmdFB--Pwvs3sBnDKSsD1jL9Hptmt98XcIulvAvqtgZd_B3TNxKRV_-6MPalhXW0YG2l6KaBtDzrECwNYgJ1f_Z3tQ1rvN5aOftvz2X-y59m_5fknCzmDVbFAMgBQTIbS39EjbUoVNvbWjhyPZWXt4)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image1.png)
 
 _\[insert screenshot of completed recruitment checker]_ !\[VA-recruitment-checker]\(link - add image to github folder and link here with .png)
