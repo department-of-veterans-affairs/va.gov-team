@@ -1,12 +1,14 @@
 ---
 name: CAIA General Collaboration Request
-about: Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
+about: WIP Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
 title: '[CAIA General Support]:<Team name><Support Needed>'
 labels: 'sitewide CAIA'
 assignees: 'coforma-terry,strelichl'
 ---
 
 # CAIA General Collaboration 
+
+`WIP`
 
 Use this ticket to request general collaboration with the Sitewide Content, Accessibility, and Information Architecture (CAIA) team.
 
