@@ -207,24 +207,40 @@ When asked if this information is related to other benefits,
 
 > I wouldn't think so, it does say medical emergency contact. - P7
 
+---
 
 ## Additional Insights
 
 - Participants recognized the value of the _Personal health care contacts_ page as it indicated whether their information was up to date. 
-- Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.  
-- Some participants expressed frustration with loging into VA.gov. 
+- Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts. 
+- Some participants expressed frustration with logging into VA.gov. 
 
 ---
 
 ## Recommendations
-### 
 
+### Place _Personal health care contacts_ within VA.gov Profile
+(Supported by findings 1 and 2)
+-  Participants (6 of 9) looked within their Profile for their _Emergency contact_ and _Next of kin_ information. 
 
+### Keep the dedicated _Personal health care contacts_ section of Profile for the _Emergency contact_ and _Next of kin_ information 
+(Supported by finding 1 and 2)
+- 6 of 7 participants went to the _Personal health care contacts_ to view their emergency contact and next of kin information
+
+### Remove "Medcial" from _Medical emergency contact_ 
+(Supported by finding 3)
+- A couple participants thought _Medical emergency contact_ was similar to 911. All participants understood the concept of _Emergency contact_
+
+### Enable edit functionality 
+(Supported by finding 5)
+- All 9 participants wanted functionality to edit and add contacts on the page.
+  
 ## Next Steps
-- 
+- Review with Cartography team and align on recommendations
+- Share findings with stakeholders and other teams working on VA.gov
 
 ## Further research needed
-- 
+- Design 
 
 ## Appendix
 
