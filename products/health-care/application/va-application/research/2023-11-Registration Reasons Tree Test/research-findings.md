@@ -159,6 +159,12 @@ The post task question for 3 tasks asked about being informed of what they are e
 
 
 
+
+## Task Details
+
+
+
+
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
@@ -175,7 +181,6 @@ _Put together initial recommendations here based on your findings along with sup
 
 
 
-## Task Details
 
 
 
@@ -188,8 +193,15 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+This research does not include the perspectives of the following marginalized Veteran groups - we did not recruit for these segments:
+* Other than honorable discharge
+* Rural 
+* Immigrant Origin
+* Living Abroad
+* Native
+* LGBTQ+
 
+  
 
 ## Appendix
 
@@ -200,6 +212,7 @@ _If there are demographics that were not included in this study or you discovere
 ## Tools used for Synthesis
 
 [Mural synthesis board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1700003975101/6149b2a464425891624dd5bd0508b70164fa0920?sender=uadf1ed7fe7c76f0914967329)
+[Optimal Workshop Tree Test Downloads](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-11-Registration%20Reasons%20Tree%20Test/OptimalWorkshopDownloads)
 
 
 ## Pages and applications used
