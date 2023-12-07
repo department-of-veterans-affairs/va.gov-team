@@ -177,7 +177,7 @@ One participant stated when referring to next of kin,
 > If you want this person contacted, you're going to have to provide a wealth of information to get in touch with them - P8 
 
 
-### 9) It was clear to participants that both **Medical Emergency contact** and **Next of kin** contact are related to health care only. 
+### 9) Participants clearly understood that both the Medical Emergency contact and Next of Kin contact were specifically associated with health care.
 
 Of the 6 participants asked, those participants understood that this information did not pertain to other benefits.  
 
