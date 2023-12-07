@@ -82,7 +82,8 @@ The following metrics will be considered before advancing rollout to the next st
 
 1. Errors in Sentry:
 2. Errors in DataDog:
-3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+3. Are console errors still happening on page click?  _suspected to be a Staging-specific issue, this will validate suspicions_
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage B Results
 
