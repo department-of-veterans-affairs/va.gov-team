@@ -8,6 +8,71 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 ### Phase 0 Overview 
 
 Application exists on VA.gov in a published, authenticated state, but can only be found if users know the URL.  
+## To enter Phase 0 (Trusted Users)
+- [X]  Collab cycle successfully completed and all critical and major defects addressed
+- [X]  Minor and cosmetic defects have been prioritized and added to backlog
+- [X] Product documentation is up to date
+	- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements.md#vaccines)
+	- [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1)
+	- [System Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png)
+	- [Data Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png)
+	- [UI/UX]
+	- [User documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_Draft.docx)
+- [X] Monitoring has been set up (Analytics/Datadog)
+     - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/P-tPztN1RWeImHsoMJ63Jw/a50123418w177519031p176188361/_.useg=builtin1/)
+     - [DataDog](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1699377357310&to_ts=1701969357310&live=true)
+- [X] Product guide created and shared with support personnel 
+- [ ] Support/issue reporting process and R&R has been defined
+	- [X] Key team members have access to the feedback mailbox
+ 		- [X] Marci McGuire		
+  		- [X] Bryan Riley
+   		- [X] Lichelle Bain
+      - [X] Roles and Responsibilities
+		- We will follow the strategy documented in [MHV on VA.gov Veteran Feedback: Triaging feedback and strategizing response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/93b59fbf6afdbeb85bcedb92a4945e8c30dad478/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/Triaging-Veteran-feedback-guidance.md)
+  - The mailbox rotation (TBD) will also be documented in the DSVA [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS) Slack channel.
+  - Phase 0 issues and feedback will be recorded in [a log on SharePoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/rollout/Phase%200/MR%20to%20VA.gov%20Feedback%20for%20Phase%200.xlsx?d=w2342617057e54407991f447e3315c1ae&csf=1&web=1&e=g7YRAE).
+- [X] Goals and exit criteria have been established for phase 0 and agreed upon with product owner
+	- Goals:
+		- Real users have had an opportunity to use the application in a Production environment
+  		- Users have provided feedback on any challenges or issues they encounter
+    		- The delivery team has had the opportunity to monitor logs and identify any issues that were not detected during early testing
+      		- The delivery team has had the opportunity to remediate show-stopper issues before we make the application available to a wider audience
+  	- Exit criteria:
+		- At least 25 trusted users have logged in Medical Records from the email-provided link
+		- At least 10 trusted users have viewed their list of vaccines
+  		- At least 10 trusted users have viewed an vaccine detail page
+  		- At least 10 users have requested a PDF of their vaccines list
+    		- At least 10 users have requestd a PDF of their detailed vaccines
+      		- Any issues identified in the logs (timeouts, errors, etc) have been researched and documented
+        	- Errors related to primary events are caught, have user-friendly error message in the UI, and generate Slack alerts in the appropriate channel
+    			-  Server availability
+         		-  Application availability
+         		-  Service availability
+           		-  Data refresh
+             		-  Request for vaccines list, vaccine details, or PDF
+      		- Any show-stopper issues have been remediated
+        	- All non-show-stopper issues have been prioritized and added to the backlog
+		- All other Medical Records domains have met their own Phase 0 criteria
+- [X] Communications working group has prepared (and had approved)
+	- [X] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership 
+- [ ] Change management and comms have been notified
+- [X] Mobile app team has been notified / coordinated with to try to sync changes. 
+- [X] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
+	- All use cases tested and validated in production, starting from sign-in at all entry points.
+           - No defects identified.
+           - Fast follow improvements noted and documented. 
+	- Any risks are captured for go-no-go
+           - No risks identified 
+- [X] Has been reviewed by product owners and they have acknowledged that requirements have been met
+	- Product owners includes the OCC product owner, OCTO product/design/engineering leads 
+- [X] Has been reviewed by clinical or other SMEs and they have acknowledged that it adheres to legal and/or policy requirements, governance standards
+- [X] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
+	- [X] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
+- [X] Trusted users have been identified
+- [ ] Go/No Go meeting conducted
+	- [ ] Outcomes of go-no-go documented 
+- [ ] Communication has gone out to trusted users
+- [ ] Communication goes out to other key audiences
 
 ### Phase 0 User Access:
 
