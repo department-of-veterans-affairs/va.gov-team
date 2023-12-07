@@ -98,9 +98,12 @@ User should have at least one vaccine in their record.
    - Vaccines data
    - Date and time stamps
 ﻿
-## Use case 9: As a user I do not want to see data that was erroneously entered into my record
+## Use case 9: As a user I do not want to see data that was entered in error or deleted from my record.
 ### Setup:
 User should have at least one vaccine that was "entered in error"
 ### Steps:
 1. Navigate to the Vaccines page
-2. Verify that the vaccine flagged as "entered in error" does not appear 
+2. Verify vaccine entered on list page.
+3. Vaccine is deleted from VistA
+4. User returns to Vaccines page
+5. Verify that the vaccine "entered in error" no longer appears 
