@@ -1,5 +1,11 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Dec 07' 2023       
+### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
+### Topics Covered:
+- 
+- 
+  
 ### Date: Nov 30' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
 ### Topics Covered:
