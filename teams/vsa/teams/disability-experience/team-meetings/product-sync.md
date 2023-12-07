@@ -19,7 +19,10 @@
 - Document user experience during maintenance windows/outages
     - Identify different types of outages
     - Start with discovery of UX during code roll and planned maintenance in our control
-
+- Priorities for Team 1
+    - LH Migration 
+    - Toxic Exposure
+    - Other 526 sync with 2022 paper form
 ### Date: Nov 30' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
 ### Topics Covered:
