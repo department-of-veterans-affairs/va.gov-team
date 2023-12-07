@@ -89,43 +89,74 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 ## Details of Findings 
 
 
-**Finding 1**
+**Finding 1 - Veterans are not navigating to the EZ form for registration reasons**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+All tasks under 35% success rate. Other hubs and areas of the site were often navigated to over health care > get benefits > apply page suggesting that registration reasons we tested did not align with applying/enrolling VA health care in the Veteran's mental model. 
 
-> _Supporting data: Quote here_
+**Finding Details**
+- Task 1 (Service Connected Only) = 23% Success 
+- Task 2 (Mental Health / Other) = 34% Success
+- Task 3 (C&P Exam) = 26% Success
+- Task 4 (Marriage/Family Counseling) = 11% Success
+- Task 5 (ART/IVF) = 31% Success
 
-> _Supporting data: Quote here_
 
-
-**Finding 2**
+**Finding 2 - Confusion around registration and enrollment terminology within the health care benefits space**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+The common themes were that either registration and enrollment was the same thing; or the theme that they were steps in the process of applying and qualifying. 
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+**Finding details**
+- (11) Commented around the steps in the process of applying/signing up and qualifying after VA review to enroll and get benefits.
+- (8) Commented that registration and enrollment was the same thing
+- (5) Commented that it was different and it was about eligibility
+- (4) Commented both were just about getting help from the VA
 
 
 **Finding 3**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Most participants reported online being their preference of signing up for health care benefits but for learning about additional benefits, in person and email were the top methods reported. 
 
-Brief description
+**Finding details**
+- Pre-Study Question: 90% would prefer to sign up for a health care benefit online
+- Informed of Additional Benefits Preference: At an appointment/in person (17), Email (29), Letter in the mail (18)
 
-> _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
+
+**Finding 4**
+
+Labels: label 1, label 2 
+
+Four of the tasks when asked, the majority of participants reported wanting to schedule their first appointment when they are signing up for that benefit/registration reason. 
+
+**Finding details**
+- Task 1 (Service Connected Only) = NA
+- Task 2 (Mental Health / Other) = 91.4%
+- Task 3 (C&P Exam) = 88.6%
+- Task 4 (Marriage/Family Counseling) = 85.7%
+- Task 5 (ART/IVF) = 77.1%
+
+
+**Finding 5**
+
+Labels: label 1, label 2 
+
+The post task question for 3 tasks asked about being informed of what they are eligible for - getting help from the VA and being told what they qualify for and the specific steps they have to take.
+
+**Finding details**
+- Service Connected Only Task - Help from the VA (8), Qualify + Steps (5), Call (6)
+- Mental Health Task - Help from the VA (4), Qualify + Steps (5), Call (6), More Paperwork (5)
+- Marriage/Family Counseling Task: Help from the VA (10), Qualify + Steps (5), Call (5), Sign up again (4)
+
+
 
 
 ## Additional Insights
