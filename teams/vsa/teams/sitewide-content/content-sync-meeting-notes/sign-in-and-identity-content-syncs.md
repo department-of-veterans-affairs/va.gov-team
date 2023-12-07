@@ -1,5 +1,14 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**December 7, 2023**
+-
+Attendees: Aliyah, Lauren, Laura, Clayton, Carl, Ngozi, Megan, and Matt 
+- Megan (writer on the CORE identity team) joined our meeting.
+- Login.gov adoption team changed their team name to use language that better explains what the team is doing
+- Creating an account and signing in to VA.gov pages - Danielle previewed some changes to these pages with Laura (12/7). They will go through the comms review proccess.
+- Privacy and security on VA.gov FAQ page - Clayton added an agenda item to review/update a few pieces of content on this page. We let the team know that there's a plan to redirect this page to this privacy policy page - https://www.va.gov/privacy-policy/. Terms of use will cover many of the security items listed on the privacy and security page.
+- Timing to complete identity verification with Login.gov or ID.me - Sophia/Clayton were chatting about this earlier in the week. Clayton has an action item to research this with CSPs.
+
 **November 9, 2023**
 -
 We cancelled the meeting. There were no agenda items.
