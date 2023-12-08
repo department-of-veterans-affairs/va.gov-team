@@ -100,7 +100,7 @@ The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was 
 
 Rate limit history:
 - 240 requests / min = the orignal rate limit  ([slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1691433561014359?thread_ts=1691430186.980299&cid=CBU0KDSB1), from Kristen Brown)
-- 500/min = New rate limit as of 8/8, after our increase request
+- 500/min = New rate limit as of 8/8/2023, after our increase request
 
 ---
 
@@ -118,7 +118,7 @@ As of 8/1/23:
 |Name|Role|
 |----|----|
 |Dave Conlon	| Find a VA Form Product Owner|
-|Wes Rowe   |Product Manager, Agile 6|
+|Fran Cross   |Product Manager, Agile 6|
 |Jill Adams |Delivery Manager, Agile 6|
 |Daniel Sasser    |Backend engineer, Agile 6|
 |Steve Wirt	| Facilities Team, Forms/Drupal subject matter expert, Civic Actions|
