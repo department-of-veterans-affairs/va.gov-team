@@ -108,10 +108,10 @@ _Data will be updated in the [phase1-data](https://github.com/department-of-vete
  ## **Data Collection Tools**
 | **Tool** | **Data Type** | **Access** | **Status** | 
 | --- | --- | --- | --- | 
-| Datadog | Web traffic / User behavior | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | Waiting on resolution of 'Send' tracking issue, need to set up dashboard |
+| Datadog | Web traffic / User behavior | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | Running |
 | Domo | Dashboard to aggregate various sources | N/A | Analytics team cannot have ready in time, Medallia and Salesforce will only be current to end of previous month |
 | Google Analytics | Web traffic / User behavior | [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | GA4 expected to be set up by end of calendar year |
-| Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov | Set to begin 11/3/2023 |
+| Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov | Running |
 | MHV feedback email | Trusted user feedback | Lichelle Bain processes, Anne Kennedy has access | Running |
 
 ### **Collection and Analysis Reporting Plan**
