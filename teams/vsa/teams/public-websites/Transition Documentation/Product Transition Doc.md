@@ -48,15 +48,15 @@ Brief plain-language description of this product
 ### Home Page Banner 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page-banner)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page-banner)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
 ### Home Page 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page)
 - Product outline - N/A
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A

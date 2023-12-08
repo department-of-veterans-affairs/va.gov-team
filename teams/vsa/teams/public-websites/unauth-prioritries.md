@@ -49,18 +49,18 @@
           - COVID Questions: Leave through end of year, then check with Danielle (will likely remain up into 2022)
     - Home Page 
       - **Home Page Alert Banner to make process/functionality more "systematic" (e.g. enable this via CMS)**
-        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md)
+        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md)
         - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
           - [OCTO-DE Project Board Card](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/425)
           - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
           - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
           - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners)
       - **Home Page Evolution** 
-        - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
+        - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/top-tasks-links/product-brief.md)
         - User Research planned to test adding link to search at bottom of Top Tasks boxes
         - Next Steps: Provided an overview of this to members of the Sitewide Crew on 8/3; the new PO/Crew Chief will need to help drive this forward.
       - **New Mobile header (Research initiative)**
-        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
+        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/new-mobile-header/product-outline.md)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
         - [ ] Research Plan - in-production test will require big tech lift for Mobile header; easier to do interactive prototype/usability test.
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
