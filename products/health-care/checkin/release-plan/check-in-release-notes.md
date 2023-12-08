@@ -12,6 +12,120 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 12/7/2023
+- Added a review page to eCheck-in that contains the VA's terms of agreement that a Veteran must agree to in order to file a mileage-only travel reimbursement claim
+    - [Epic 68073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)
+      
+### 12/5/2023
+- Enabled the 45-minute check-in link SMS and travel claim submission during check-in features for all facilities
+  
+### 11/15/2023
+- Enabled the 45-minute check-in link SMS and travel claim submission during check-in features for the following Wichita stations
+    - 589A7 Robert J. Dole VA Medical Center
+    - 589G2 Dodge City, Kansas CBOC
+    - 589G3 Liberal, Kansas CBOC
+    - 589G4 Hays, KS
+    - 589G5 Parsons, Kansas CBOC
+    - 589G7 Hutchinson, KS
+    - 589GW Salina, Kansas CBOC
+    - 589MB IDES McConnel AFB
+    - 589QB Sedgwick County VA Clinic
+    - 589QE Wichita 1 VA Mobile Clinic
+      
+### 10/30/2023
+- We now proactively send Veterans 45-minutes before their health care appointment a text message that contains their customized check-in link. Veterans will now be able to complete online check-in without having to text "check in" to 53079 to receive the check-in link. NOTE: the feature is currently only enabled for station 657 facilities.
+    - [Epic 63466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466)
+
+### 10/26/2023
+- CHIP v3.4.1: Adds updated dependencies
+
+### 10/25/2023
+- CHIP v3.4.0: Enables Veterans to use the 45-minute reminder to begin their check-in user flow
+
+### 10/12/2023
+- Updated Check-in travel pages to use the additional info component for alerts to reduce confusion for Veterans
+    - [Ticket 65480](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65480)
+
+### 10/11/2023
+- Updated content in the Needs Help section on All Pre-Check-in and Check-in Pages to be more clear to the Veterans
+    - [Ticket 65479](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65479)
+
+### 10/10/2023
+- In order to support piloting features at specific locations, added to Pre-Check-in and Online Check-in the ability to enable features at the facility or clinic level
+    - [Ticket 66778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66778)
+
+### 10/3/2023
+- Updated Pre-Check-in and eCheck-in pages to add content that clarifies what next-of-kin means in a VA context
+    - [Ticket 65844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65844#issuecomment-1745644284)
+- Updated the last name and date-of-birth form components to use version 3 of the Design System
+    - [Ticket 65490](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65490#issuecomment-1745711758)
+- Updated the accordion components to use version 3 of the Design System
+    - [Ticket 65494](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65494)
+
+### 10/2/2023
+- Updated the logic to check if the Veteran has already submitted a travel claim for a day & facility to use the same facility identifier that BTSSS uses
+    - [Ticket 65628](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65628)
+
+### 9/27/2023
+- Updated content in the eCheck-in travel & confirmation pages Needs Help Section to help Veterans understand where to go for questions about filing a travel reimbursement claim
+    - [Ticket 65477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65477)
+
+### 9/11/2023
+- Updated cCheck-in to allow a Veteran to submit 1 travel claim per facility per day
+    - [Epic 60843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60843)
+
+### 8/31/2023
+- Updated eCheck-in to add new content to the "Would you like to file a travel reimbursement claim now?" question page to give the Veteran some basic travel reimbursement eligibility information so that they can make a decision about whether to file a claim
+    - [Epic 63928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63928)
+
+### 8/28/2023
+- Updated eCheck-in Travel pages to add content that clarifies what next-of-kin means in a VA context
+    - [Ticket 62927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62927)
+-  Updated eCheck-in to use the same mobile phone number the Veteran used to initiate a check-in to text the Veteran their travel claim submission status; this was done to avoid inconsistent mobile phone number data that may prevent the Veteran from receiving the text
+    - [Ticket 62436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62436)
+
+### 8/1/2023
+- New feature added to eCheck-in that allows Veterans to submit a mileage-only travel reimbursement claim as part of the online check-in process
+    - NOTE: not available for Veterans who have more than 1 appointment
+    - NOTE: feature is currently available at 4 Wilkes-Barre facilities; the feature will be enabled for additional facilities using a phased approach 
+    - [Epic 40265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40265)
+
+### 6/22/2023
+- Added a visual element (eyebrow) to the eCheck-in workflow questions and appointment pages to provide context to the Veteran that they are using online check-in
+    - [Ticket 59168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59168#event-9618489930)
+- Updated the Need Help section to include "TTY" in the "TTY 711" link
+    - [Ticket 59401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59401)
+
+### 6/21/2023
+- Removed the aria-live attribute from the "Back to last screen" breadcrumb link to accommodate Veterans who use screen readers.
+    - [Ticket 59315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59315)
+
+### 6/19/2023
+- Changed the HTML for the appointments list in Pre-Check-in and eCheck-in from an ordered list to an unordered list to accommodate Veterans who use screen readers.
+    - [Ticket 59306](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59306)
+
+### 6/16/2023
+- In an effort to prevent Veterans from receiving a Pre-Check-in link for a cancelled appointment, modified the CHIP API to return an error from initiate-precheckin if the appointment has been cancelled.
+    - [Ticket 59414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59414)
+
+### 6/2/2023
+- Updated the "in-person appointment" title in Pre-Check-in and eCheck-in to use a hypen 
+    - [Ticket 59082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59082)
+- Updated eCheck-in to prevent Veterans from returning to the check-in questions after completing check-in
+    - [Ticket 58862](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58862)
+
+### 4/28/2023
+- Updated Pre-Check-in and eCheck-in to display the Facility Address with other appointment details.
+    - [Ticket 52132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52132)
+
+### 4/20/2023
+- Changed alert text when Veteran is too early to check in.
+    - [Ticket 54511](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54511)
+
+### 4/10/2023
+- Updated Pre-Check-in to hide the "What if I have questions about my appointment?" accordion when there is no clinic phone number available to display.
+    - [Ticket 56186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56186)
+
 ### 3/14/2023
 - Changes made to Pre-Check-in and eCheck-in to standardize how appointment information is displayed across Veteran-facing applications. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
     - [Epic 49261](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/45315)

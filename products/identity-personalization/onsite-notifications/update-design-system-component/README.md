@@ -1,11 +1,13 @@
-# Project outline: Update Design System Component
+# Project outline: Update Design System Component on My VA
 
-**Last updated: March 20, 2023**
+**Last updated: July 21, 2023 - updated key dates**
 
 ### Communications
 
-- **GitHub Label**: vsa-authenticated-exp; onsite-notifications
+- **GitHub Label**: authenticated-experience; onsite-notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Epic** [#59398](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59398)
+- **Collaboration Cyle Epic:** [#55405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55405)
 
 ### Roles
 
@@ -74,6 +76,10 @@ TBD
 - Summer 2022: Designed new component in partnership with the design system team
 - August 2022: Tested the new component in payments V2 research
 - March 2023: Collab cycle and development kick-off
+- April - June 2023: Development
+- June 2023: Review with Design System Team
+- July 2023: Prelaunch activities
+
 
 ## Backend
 

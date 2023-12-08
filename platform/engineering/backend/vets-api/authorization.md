@@ -1,9 +1,12 @@
-----
+---- 
 
-# We're moving our docs! 
-### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/integrations/Authorization.721387554.html) on the Platform website.
 
-### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
 
 ----
 

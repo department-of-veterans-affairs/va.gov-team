@@ -1,4 +1,14 @@
+---- 
 
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Word List
 
 The words on this list are relevant to the Veteran-facing Services Platform (VSP) team and require clarification so we are consistent in our documentation. Some possible reasons for a word being on this list include:

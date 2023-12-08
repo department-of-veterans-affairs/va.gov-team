@@ -18,6 +18,5 @@ The CMS team manages the Drupal CMS. Here are some reasons you may need their as
 - You have a problem finding something or learning how to do something within Drupal
 - You've published content and it's not showing up on the live site
 - You've noticed something not working or doing something unusual while you're working on a Drupal page
-- You need to do an audit of something that is only found on Drupal pages
 
-If you need help from the CMS team, open a CMS Support Help Request ticket in the #cms-support Slack channel. Use the + icon at the bottom of the Slack window to pull up the ticket. You can also check the [CMS Knowledge Base](https://prod.cms.va.gov/help) for articles that might help. You must be on the VA network for this link to work. 
+If you need help from the CMS team, open a[ CMS Support Help Request ticket](https://va-gov.atlassian.net/servicedesk/customer/portal/3/group/8/create/26). You can also check the [CMS Knowledge Base](https://prod.cms.va.gov/help) for articles that might help. You must be on the VA network for these links to work. 

@@ -1,5 +1,28 @@
 # Decision log - Income Limits app
 
+## Will not phase roll-out
+
+- We decided internally not to phase the roll-out, as the app is replacing missing functionality and it's relatively low-risk.
+
+## Engineering decisions during implementation phase
+
+- Special case where GMT < NMT (i.e., low cost-of-living counties) – In ticket [13590](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13590), we decided that the API should always return NMT and GMT and let consuming products decide how/whether to display thresholds in this special case. (The Income Limits app will not display GMT in that case.)
+- Zip code validation – we added an endpoint for FE apps to validate whether a user-submitted 5-digit number is in fact a zip code in our database. This was necessary to provide immediate validation to users in case of a data entry error.
+
+## 5/16 locked UX flow (pending stakeholder review)
+Present: Wes, Dave Conlon, Danielle Thierry, Jordan Wood, Cindy Merrill
+
+App start screen/landing page
+- No yes/no questions will be asked (e.g., about receiving pension) to intercept Veterans who don't need to use this tool at all. We will rely on Benfit Hub content to provide that education, including the content on the first screen of the I.L. app.
+- Previous year data will be made available as a second CTA link on the start screen. The primary CTA will be for current income limits.
+Dependents screen
+- A simple-but-accurate definition of dependents will be always visible. More complex rules will be in an expanding additional-info component
+- Detailed description of how to calculate income and deductions will be an external page, linked from the results screen. Content will initially be a reusable Q&A node, later move to Resources & Support.
+- The team subsequently aligned via slack that the intro screen would be built in Drupal, and the react app would begin with the first question.
+
+## 4/13 discussion and 4/17 email
+DaveC decided that the MVP can be launched with minor uncertainties from SMEs around edge cases and pension recipients. Therefore: We will not include questions about Housebound and A&A benefits, since our best info says pension recipients always get travel and free meds.
+
 ## 3/2/23 decision regarding A&A and Housebound
 **Decision:** 
 
@@ -14,6 +37,8 @@ Notes:
 - The old wizard indicated that Veterans receive "Free medications and beneficiary travel reimbursement" (Rx and BT) at different income limits depending on whether they receive A&A, HB, or neither.
 
 On 3/2 we corresponded by email with Linsdey Peace, who verified this interpretation and confirmed the old wizard was incorrect when it presented different thresholds for Veterans receiving A&A, Housebound, or neither.
+
+(Note: We subsequently tested a prototype that had three yes-no questions about whether the participant receives pension, A&A or HB benefits. We did this to see how Veterans would respond to additional simple questions.)
 
 
 ## 2/22/23 meeting with VHA stakeholders

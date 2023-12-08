@@ -1,22 +1,28 @@
-# Comparison of Data Fields Displayed on MHV on VA.gov, Mobile App, and AVS
+# Comparison of Data Fields Displayed on MHV on VA.gov, Mobile App, and AVS (Printed PDF)
 
 Comparison of section labels are found on a different [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/data-fields.md) page.
 
 ## [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/data-domains/allergies/allergies-brief.md)
 
-| Data Field | MHV on VA.gov | AVS |
-|:-----------|:---------|:----------|
-| Allergy name | Yes | Yes |
-| Date entered | Yes | No |
-| Severity | Yes | No |
-| Allergy type | Yes | No |
-| VA drug class | Yes | No |
-| Reaction | Yes | Yes |
-| Observed/Historical | Yes | Yes (Verified with date) |
-| Location | Yes | No |
-| Comments | Yes | No |
+| Data Field | MHV on VA.gov | AVS | Vista Field |
+|:-----------|:---------|:---------|:----|
+| Allergy name | Yes | Yes | [PATIENT ALLERGIES](https://vivian.worldvista.org/dox/Global_XkdNUigxMjAuOA==.html) -> REACTANT |
+| Date entered | Yes | No ||
+| Severity | Yes | No | [PATIENT ALLERGIES](https://vivian.worldvista.org/dox/Global_XkdNUigxMjAuOA==.html) -> HISTORICAL SEVERITY |
+| Allergy type | Yes | No ||
+| VA drug class | Yes | No ||
+| Reaction | Yes | Yes ||
+| Observed/Historical | Yes | Yes (Verified with date) ||
+| Location | Yes | No ||
+| Comments | Yes | No ||
 
-## Appointments
+### References
+
+* AVS source: https://github.com/department-of-veterans-affairs/avs/blob/d5648f5a11e25691014e6ff4b5fd65aeee6ecde5/ll-avs-web/src/main/java/gov/va/med/lom/avs/client/action/SheetAction.java#L3113
+* Vista broker source: https://github.com/department-of-veterans-affairs/octo-vista-broker/blob/4fc09ffa5fd97d0bdeac403be346e1e8f6c67fd9/ll-vistabroker-ejb3/src/main/java/gov/va/med/lom/vistabroker/dao/impl/AllergiesReactantsDaoImpl.java#L20
+* https://vivian.worldvista.org/dox/Remote_Procedure_ORQQAL_LIST.html
+
+## Appointments (WIP)
 | Data Field | MHV on VA.gov | Mobile App | AVS |
 |:-----------|:---------|:----------|:----------|
 | Scheduled upcoming in-person appointments |  |  | Yes |

@@ -1,0 +1,100 @@
+name: Vets-api Sidekiq Admin UI Access Request
+description: For requesting access to the Sidekiq Admin UI
+title: Sidekiq Admin UI access for [individual]
+labels: ['external-request', 'platform-tech-team-support', 'ops-access-request', 'sidekiq-access-request']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        :warning: **_Prerequisites_**  
+
+        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
+        
+        :wave: **_Instructions_**
+        1. Change the **Title** to include target individual
+        1. Add the label used by the target individual's team (eg: `BAH-526`)
+        1. Do not remove any of the existing labels.
+        1. Complete required fields and select environments you need access to.
+        1. If Production access is required, please  If you have not started the E-QIP process, do NOT submit this ticket. 
+        1. Fill in "Additional Notes" with any information requested by the other steps.
+  - type: input
+    id: requestor-name
+    attributes:
+      label: Your Name
+      description: Please provide the name of the target individual
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: gh-handle
+    attributes:
+      label: Your GitHub handle (Sidekiq Admin UI access is managed through GitHub)
+      description: Please provide the work GitHub handle of the target individual
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: input
+    id: aws-username
+    attributes:
+      label: Your dsvagovcloud AWS user name (if applicable)
+      description: If you have previously been granted AWS access, list your dsvagovcloud AWS user name
+      placeholder: First.Last
+  - type: input
+    id: team-name
+    attributes:
+      label: Team, Role, and Company of the target individual
+      description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
+      placeholder: Team Moose, Antler Development, Alces LLC
+    validations:
+      required: true
+  - type: dropdown
+    id: cor-name
+    attributes:
+      label: COR Name
+      description: The name of the Contracting Officer's Representative (COR) covering the target individual.
+      options:
+        - Cecila Lee
+        - Courtney Bethea
+        - Crystal Moultrie
+        - Doris Lin
+        - Vilay Senthep
+        - Eunice Garcia
+        - Delano McVay
+        - Jennifer O'Day
+        - Laurene "Reney" Cook
+        - Rolanda Copeland
+        - Other - please specify in 'Additional Notes'
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Please confirm if you are on the VFS Team Roster or Platform Team Roster
+      description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
+      options:
+        - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+        - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
+  - type: checkboxes
+    attributes:
+      label: Sidekiq UI Access requested for the following environments
+      description: Only choose the environments you NEED. Additional requirements for Prod are listed below
+      options:
+        - label: dev
+        - label: staging
+        - label: sandbox
+        - label: production (if requesting, justify prod access in 'Additional Notes' section)
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: If PRODUCTION ACCESS is required, confirm/complete ONE of the following
+      description: If you have not submitted your E-QIP questionaire, Production access will not be provided.
+      options:
+        - label: "I have an AWS Username and it is listed in [here](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf)"
+        - label: "I currently have access to vets-api Production Terminal via ArgoCD"
+        - label: "I've attached a screenshot of my E-QIP Transmittal Notice E-mail (Drag or Copy/Paste in Additional Notes Section below)"
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Use this section to add notes, such as justification for the access request, COR information when 'Other' was selected, E-QIP screenshot, etc.
+      placeholder: I need this access because of <reason>

@@ -6,12 +6,12 @@ Our backlog is a list of all upcoming features and things to be done by the team
 
 **Frequency**: Sprintly (bi-weekly)
 
-**Meeting length:** 30 minutes
+**Meeting length:** 45 minutes
 
 **Agenda template:**
-* What wasn’t completed last sprint that needs to be completed? (5 minutes)
 * What came up that needs to be fixed? (10 minutes)
-* What needs to get done to move our product forward? What’s the highest priority? (10 minutes)
+* What needs to get done to move our product forward? What’s the highest priority? (5 minutes)
+* Review work that will be deemed "ready" (25 minutes)
 * What’s something that could come down the pipeline that would disrupt everything? (5 minutes)
 
 **Github**
@@ -23,7 +23,15 @@ Our backlog is a list of all upcoming features and things to be done by the team
 3. Define the features that can help you solve the problem.
 
 ## Sprint Planning Meeting
-*TBD
+
+**Frequency**: Sprintly (bi-weekly)
+
+**Meeting length:** 45 minutes
+
+**Agenda template:**
+* Confirm any planned PTO (5 minutes)
+* What wasn’t completed last sprint that needs to be completed? (20 minutes)
+* What needs to get done to move our product forward? What’s the highest priority? (20 minutes)
 
 
 ## Stand Up
@@ -67,25 +75,23 @@ Our backlog is a list of all upcoming features and things to be done by the team
       - Scrum master
       - Team members
       - Optional: product owner
-2. Google Draw
-3. Draw a 2×2 square on the whiteboard (Thinking Google Draw)
-4. Duration: 2 hours
+2. Rotating platform
+3. Duration: 1 hour
 
 ### Moderation
-1. 1 statement on 1 sticky note
-       * Max 2 sticky notes, 
-       * Then put it on the wall, 
+1. 1 statement on 1 sticky note 
+       * Then put it on the "wall", 
        * Silence
-2. Describe the squares on the whiteboard
-      - Smiley face: things you liked or what went good?
-      - Frown face: things you disliked or what went bad?
-      - Flowers: things you appreciate or whom to thank?
-      - Light bulb: ideas that you have or what can be improved/changed?
-3. 5-10 minutes:  then put sticky notes on the whiteboard
-4. Every team members says a few sentences about their sticky notes
+2. Describe the squares on the whiteboard or place in the designated area
+      - Things you liked or what went good?
+      - Things you disliked or what went bad?
+      - Things you appreciate or whom to thank?
+      - Ideas that you have or what can be improved/changed?
+3. 5-10 minutes:  then put sticky notes on the whiteboard or place in the designated area
+4. Every team members says a few sentences about their notes
 5. Questions:
-      - Smiley face: how can we repeat it?
-      - Frown face: how can we change it for the future?
+      - Gow can we repeat it?
+      - How can we change it for the future?
       - Ideas: can we implement it?
       - In parallel – create the actions
 6. Add a square on the whiteboard where you write down actions (things that should be changed, improved, repeated and also ideas etc.)

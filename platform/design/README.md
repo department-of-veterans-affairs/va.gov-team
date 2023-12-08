@@ -1,3 +1,18 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
+
 # Design
 The Platform Design team supports teams building on VA.gov by providing guidance, feedback, and other resources to ensure that we maintain consistent and human-centered design across the site.
 ### Table of contents

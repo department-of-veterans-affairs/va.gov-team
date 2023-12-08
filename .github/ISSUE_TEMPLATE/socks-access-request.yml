@@ -57,6 +57,7 @@ body:
       label: Access Type Requesting
       description: Provide level of access you belive you will need. If you are unsure you can [click here](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml) and see what your team members are currently in.
       options:
+        - ' '
         - automation
         - automation_external
         - developers

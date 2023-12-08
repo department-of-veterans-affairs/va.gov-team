@@ -1,3 +1,13 @@
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
+
 # 508 Checklist
 
 This checklist is a work-in-progress. Currently, this is a rather high-level overview of general practices and considerations. Line items were pulled from various team sources and a few personal additions.

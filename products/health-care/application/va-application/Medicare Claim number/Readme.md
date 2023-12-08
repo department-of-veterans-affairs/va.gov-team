@@ -99,8 +99,13 @@ Collab Cycle not applicable for this change
 
 - May 2022: Design work finalized
 - July 2022: Development work finalized
-- July 2022: Complete QA?
-- August 22, 2022: Launched to 25% of users
+- July 2022: Complete QA
+- August 8, 2022: Launched to 25% of users
+- August 10, 2022: Flipped feature toggle to remove from Production due to negative impact to Veterans.  See [Post-Mortem document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/2022/2022-08-10%20-%20Unable%20to%20proceed%20through%2010-10EZ%20Insurance%20section.md)
+- August 14, 2022: Relaunch to 25% of users
+- August 15, 2022: Launch to 50% of users
+- August 19, 2022: Launched to 100% of users
+
 
 
 ---

@@ -41,15 +41,14 @@ Depending on how a Veteran applies for benefits, they may have more or less flex
 3. Most participants (at least 6/10) believe that they need their DD214 (not just the information on it) to apply for any VA benefit or service.
 4. Depending on how Veterans apply for VA benefits and services, they may or may not need to provide information about their service history and/or a copy of their DD214.
 5. Though they may not *need* their DD214, having a copy of it facilitates application for VA benefits and for other non-VA veterans' privileges, memberships, and discounts. 
-6. Veterans use their service history information, whether from a DD214 or not, for reasons other than proving that they served in the military.
-7. Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
-8. Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
-9. It's not rare for Veterans to lack easy access to their DD214.
-10. 4/10 participants raised confusions about the DD214.
-11. Participants like the idea of being able to access service history information AND their DD214 easily online. 
-12. Participants do not think of the VA Profile as a potential place to access their service history information.
-13. Participants are confused about the service dates that show up in the Military Information section of their Profile. 
-14. Military Information means a broad range of things to participants.
+6. Veterans use service history information such as dates and locations to piece together timelines, which assist with applying for benefits to cover service-related injuries or to piece together the dates and locations of other events.
+7. Veterans use service history information such as trainings, commendations, and position descriptions for professional reasons after the military, whether that is building out a resume or otherwise demonstrating qualifications for a role.
+8. It's not rare for Veterans to lack easy access to their DD214.
+9. 4/10 participants raised confusions about the DD214.
+10. Participants like the idea of being able to access service history information AND their DD214 easily online. 
+11. Participants do not think of the VA Profile as a potential place to access their service history information.
+12. Participants are confused about the service dates that show up in the Military Information section of their Profile. 
+13. Military Information means a broad range of things to participants.
 
 ## Details of Findings 
 

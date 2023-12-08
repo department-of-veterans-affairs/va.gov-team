@@ -106,7 +106,7 @@ _*As of November 2021, we get these stats from the VA Profile team as it's not d
 
 ## MVP approach
 
-Please see the [communications preferences MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for detailed documentation on the MVP requirements.
+Please see the [communications preferences MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/product/communications-permissions-mvp-definition.md) for detailed documentation on the MVP requirements.
 
 ## Status
 

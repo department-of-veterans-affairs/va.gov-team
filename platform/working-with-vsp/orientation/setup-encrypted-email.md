@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Setup encrypted email at VA
 
 Sending or receiving sensitive information within VA requires you to setup encrypted email for your VA email address. The encryption is done via a key and certificate that is contained in your PIV card. Keep in mind that you have to do this for each PIV you receive over time, and going through a PIV renewal means that you lose access to all of your old encrypted email since they dispose of the old card for you.

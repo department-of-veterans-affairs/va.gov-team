@@ -34,7 +34,7 @@
 
 **State 3: Error state - We can not connect to the disability endpoint / unable to retrieve disability rating**
 
-- Show nametag with name, branch service, and no disability rating, but link to disability overview page. In the event the disability endpoint is down, we can degrade gracefully and show a generic "View disability rating" link instead of the customized link with the rating. We realize this means that some people who do not have a disability rating may see that link, and that is OK.
+- Show nametag with name, branch service, and no disability rating, but link to disability overview page. In the event the disability endpoint is down, we can degrade gracefully and show a generic "Your disability rating" link instead of the customized link with the rating. We realize this means that some people who do not have a disability rating may see that link, and that is OK.
 
 ----
 

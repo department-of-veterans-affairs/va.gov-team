@@ -10,10 +10,16 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 
 | Planned Release    | Estimated Release | Short Description |
 | :----------------- | :--------- | :--------------  |
-| [Move Action Link on Pre-Check-in Intro Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/action-link.md) | TBD | [Epic 52054](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52054) Due to high bounce rates on the Pre-Check-in landing/intro page, we will be moving the action link to the top of the page. This link is where Veterans initiate the verification of their demographics, emergency contact, and next of kin information to complete Pre-Check-in for a health appointment. Initially released to 20% of Veterans but will increase availability daily while monitoring usage metrics.
-| [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/travel-reimbursement.md) | TBD | [Epic 40265](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/40265) Allows Veterans to submit a mileage-only travel reimbursement  claim when they use eCheck-in to check-in for an in-person appointment |
-| Pass Users to Check-in when Access Pre-Check-in Link during the Check-in Window | TBD | [Epic 46631](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/department-of-veterans-affairs/va.gov-team/46631) Allows Veterans who access a Pre-Check-in link on the day of their appointment and during the check-in window to automatically be redirected to Check-in so that they can check-in for their appointment without having to text or scan a QR code |
-| Unified Pre-Check-in/eCheck-in Experience | TBD | [Epic 49924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49924) Creates a user interace layout that is the same between Pre-Check-in and eCheck-in |
+| [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/travel-terms-of-agreement.md) | Released 12/7/2023 | Veteran will be asked to agree to the travel claims terms of agreement in order to submit a mileage-only travel reimbursement claim during check-in [Epic 68073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)|
+| [Unified Check-in Experience: Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md) | ~2/2024 | New landing page & associated content changes<br>[Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) |
+| Unified Check-in Experience: Priority 2 | TBD | Minor updates to Details page |
+| Unified Check-in Experience: Priority 3 | TBD | New completion page format & updates to demographics pages |
+| Unified Check-in Experience: Priority 4 | TBD | New message and error page formats |
+| Unified Check-in Experience: Priority 5 | TBD | View action statuses for upcoming appointments |
+| Unified Check-in Experience: Priority 6 | TBD | Ability to complete a task not associated with the appointment for the link clicked |
+| Unified Check-in Experience: Priority 7 | TBD | Updates to Details page |
+| Unified Check-in Experience: Priority 8 | TBD | Updates to Need help section |
+| Unified Check-in Experience: Priority 9 | TBD | Access regardless if link expired or have no appointments |
 
 
 

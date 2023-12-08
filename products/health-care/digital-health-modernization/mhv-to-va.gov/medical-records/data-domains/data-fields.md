@@ -31,13 +31,17 @@ The lab and test result section includes the following types of labs and tests.
 
 **Overall question:** Can we use "Labs" as the type for chem/hem, pathology, and microbiology? Is there a reason these must be different on the front end?
 
+**Note:** We figured out that "Pathology" is parallel to "Labs & tests" in Blue Button. So we replaced it in this table with the types grouped under pathology in BB.
+
 |Lab type | Suggested label | Notes             | Questions           |
 |:----------------------|:----------------|:------------------|:--------------------|
-|Chemistry/hematology|Labs|||
-|Pathology |Labs||
-|Microbiology |Labs||
-|Radiology |X-rays and imaging tests | 
-|EKG |EKGs (electrocardiograms) |Historical category |Are new EKGs added to medical records? |
+|Chemistry/hematology|Lab| |Are these types helpful? These terms are not plain language and difficult to replace or explain in this context. Can we change all non-radiology non-EKG tests to "labs"?|
+|Surgical pathology |Lab||
+|Cytology|Lab||
+|Electronic microscopy|Lab||
+|Microbiology |Lab||
+|Radiology |Imaging | 
+|EKG |Clinical |Historical category. May want to find more PL label than "clinical" |Are new EKGs added to medical records? |
 
 
 ### Results
@@ -54,10 +58,10 @@ Lab and test results include the following information
 |All|Lab type |Type of test | _None_||Do patients need the type in addition to the specific test name in the list view? Or could we remove this?|
 |All|Title of lab report|Test|[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Suggest using this as the card header in list view, H1 in detail view. If there's no title/test name available, we could pull in the type of test as the card header in list, H1 in detail. |
 |All|Date collected |Date |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|Hard to find single date label for all types — "collected" doesn't work for Radiology or EKG| Can we map date fields from different types into a single "Date" field for list view, but use different "Date" labels in detail views? Or do we need all labels to stay consistent between list and detail views?|
-|All|Ordering provider |Provider|_None_||Is there a need to specify "provider who ordered test"? Or is it clear that this is what "provider" means in this context?|
+|All|Ordering provider |Ordered by|_None_|||
 |:test_tube: **CHEMISTRY / HEMATOLOGY**|
-|Chemistry/hematology|Lab test| |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. If there's a panel-level test name, suggest using this as card header in list, H1 in detail. Not all tests will have this panel-level name|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
-|Chemistry/hematology > Specific test |Test name | Test |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
+|Chemistry/hematology|Lab test| _None, header without label_|[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|Some Chem/Hem tests include subtests in a panel — like lipid panel with LDL, HDL, etc. If there's a panel-level test name, suggest using this as card header in list, H1 in detail. Not all tests will have this panel-level name|Does USCDI include a panel-level element? Or do we map both the panel and the subtests to "Tests" in USCDI?|
+|Chemistry/hematology > Specific test |Test name | _None, header without label_ |[Tests](https://www.healthit.gov/isa/taxonomy/term/676/uscdi-v1)|
 |Chemistry/hematology > Specific test|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
 |Chemistry/hematology > Specific test|Units |_Confirm if field needed_| _None_|| Can we remove the "Units" field, and add the units to the result and reference range?|
 |Chemistry/hematology > Specific test|Reference range | Standard range |_None_||Does the reference range adjust based on patient demographics or conditions?|
@@ -66,7 +70,7 @@ Lab and test results include the following information
 |Chemistry/hematology > Specific test |Interpretation |_Need more info <br> Depending on answers to questions, this could be "Provider explanation" or something similar_  |_None_ || What types of information does this include? What guidance do providers see for field? <br> Who inputs this and the comments field? Ordering provider? PC? Lab technician? We don't want the user to think they can add their own comments.<br> Is interpretation of lab results included in the Values/Results USCDI field?|
 |Chemistry/hematology|Date/time collected| Date and time collected |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Chemistry/hematology|Specimen| Sample tested |_None_|
-|Chemistry/hematology|Ordering provider| Provider |_None_|
+|Chemistry/hematology|Ordering provider| Ordered by |_None_|
 |Chemistry/hematology|Ordering location| Ordering location |_None_|
 |Chemistry/hematology|Collected location| Collecting location |_None_|
 |Chemistry/hematology|Comments|Provider notes | _None_||How is this different from Interpretation field? |
@@ -78,8 +82,9 @@ Lab and test results include the following information
 |Microbiology|Date collected|Date collected |_None_|
 |Microbiology|Date completed|Date completed |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Microbiology|Results| Results |[Values/Results](https://www.healthit.gov/isa/taxonomy/term/681/uscdi-v1)|
-|Microbiology|Site/specimen| Sample tested |_None_|
-|Microbiology|Ordering provider| Provider |_None_|
+|Microbiology|Site/specimen| Sample from|_None_|May reference a structure; e.g., FOOT or a substance; e.g., BLOOD VENOUS|
+|Microbiology|Collection sample| Sample tested |_None_|Examples: URINE or SWAB|
+|Microbiology|Ordering provider|Ordered by |_None_|
 |Microbiology|Ordering location|Ordering location|_None_|
 |Microbiology|Collected location|Collecting location |_None_|
 |Microbiology| | _Confirm if field exists in tool_|[Laboratory Report Narrative](https://www.healthit.gov/isa/taxonomy/term/2881/uscdi-v1)|USCDI v1 includes this as a type under Clinical Notes. In USCDI v2+, this clinical note type was removed.|Does this field exist in tool?|
@@ -95,7 +100,7 @@ Lab and test results include the following information
 |Radiology|Procedure/test name |Test |[Diagnostic imaging test](https://www.healthit.gov/isa/taxonomy/term/2466/uscdi-v2)|From USCDI v2|Is this the same as "Title of lab report" in the All category above?|
 |Radiology|Date/time exam performed |Date and time |[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
 |Radiology|Ordering location|Ordering location |_None_|
-|Radiology|Requesting provider| Provider | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label, if needed. But "Provider" may be enough here.|
+|Radiology|Requesting provider| Ordered by | _None_| | In Chem/Hem and Microbio, the field is labeled “Ordering Provider”. Should this change? A from content: Let's pick a consistent order/request label.|
 |Radiology|Reason for study| Reason for test |_None_|
 |Radiology|Performing location|Imaging location |_None_|
 |Radiology|Clinical history|_Need more info <br> Depending on answer to questions, could be "Related health history"_ |_None_| | What does this mean? Is this medical history related to the reason for this test? |
@@ -116,22 +121,22 @@ Lab and test results include the following information
 
 |Category|Data field       |  Suggested label | Notes             | Questions           |
 |:----------------------|:--------------------|:------------------|:------------------|:--------------------|
-|VA Note|Title|
-|VA Note|Date and time|_Need more info_||If "Date and time signed" is a different field, what is this date and time?|
-|VA Note|Location|
-|VA Note|Signed by|
-|VA Note|Co-signed by|
-|VA Note|Date and time signed|
-|VA Note|Last updated|
+|VA Note|Title|_None, header without label_|
+|VA Note|Date and time|_Need more info_|This field doesn't appear in designs|If "Date and time signed" is a different field, what is this date and time?|
+|VA Note|Location|Location|
+|VA Note|Signed by|Signed by|
+|VA Note|Co-signed by|Co-signed by|
+|VA Note|Date and time signed|Date and time signed|
+|VA Note|Last updated|Last updated|
 |VA Note|Note|Provider notes|
-|Admission & Discharge Summary|
-|Admission & Discharge Summary|Admission date|
+|Admission & Discharge Summary|Admission and discharge summary|
+|Admission & Discharge Summary|Admission date|Admission date (date you entered the hospital)|Added parenthetical definitions for admission date and discharge date — these can either go in the field label itself or just beneath it|
 |Admission & Discharge Summary|Location|Location|
-|Admission & Discharge Summary|Admitting physician|Provider who admitted you|
-|Admission & Discharge Summary|Discharge date|
-|Admission & Discharge Summary|Discharge physician|Provider who discharged you|
-|Admission & Discharge Summary|Last updated|
-|Admission & Discharge Summary|Discharge summary|
+|Admission & Discharge Summary|Admitting physician|Admitted by |
+|Admission & Discharge Summary|Discharge date|Discharge date (date you left the hospital)|
+|Admission & Discharge Summary|Discharge physician|Discharged by |
+|Admission & Discharge Summary|Last updated|Last updated|
+|Admission & Discharge Summary|Discharge summary||If the whole thing is called "Admission and discharge summary," why is this field only "Discharge summary"?|
 
 ### Vaccines
 
@@ -186,14 +191,14 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Vital sign       | Suggested label           | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Blood pressure |Blood pressure |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)<br>[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)||USCDI has separate elements for systolic and diastolic. Do we receive BP data as 1 field or 2?|
-|Respiration|Breathing rate|[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)| | |
-|Pulse rate|Heart rate|[Heart rate](https://www.healthit.gov/isa/taxonomy/term/851/uscdi-v1)|
+|Blood pressure |Blood pressure |[Systolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/836/uscdi-v1)<br>[Diastolic blood pressure](https://www.healthit.gov/isa/taxonomy/term/831/uscdi-v1)|Noting we're suggesting no units on BP — 2 numbers separated by a slash is the most familiar way to present this data|USCDI has separate elements for systolic and diastolic. Do we receive BP data as 1 field or 2?|
+|Respiration|Breathing rate|[Respiratory rate](https://www.healthit.gov/isa/taxonomy/term/856/uscdi-v1)|Suggested units label "breaths per minute"| |
+|Pulse rate|Heart rate|[Heart rate](https://www.healthit.gov/isa/taxonomy/term/851/uscdi-v1)|Suggested units label "beats per minute"|
 |Temperature |Temperature |[Body temperature](https://www.healthit.gov/isa/taxonomy/term/861/uscdi-v1)| | |
-|Height|Height|[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)| | |
-|Weight |Weight |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)| | |
-|Pulse oximetry |Blood oxygen level |[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)| | |
-|Pain|Pain level|_None_|
+|Height|Height|[Body height](https://www.healthit.gov/isa/taxonomy/term/841/uscdi-v1)|Suggested units label "X feet, X inches" | |
+|Weight |Weight |[Body weight](https://www.healthit.gov/isa/taxonomy/term/846/uscdi-v1)|Suggested units label "pounds" | |
+|Pain|Pain level|_None_||Is pain always on a scale of 1 to 10? <br> Can we offer more detail about what the pain level refers to? Is it the patient's overall perceived level of pain at the moment?|
+| ||[Pulse oximetry](https://www.healthit.gov/isa/taxonomy/term/866/uscdi-v1)|Not currently included in MHV | |
 | | |[Inhaled oxygen concentration](https://www.healthit.gov/isa/taxonomy/term/871/uscdi-v1)|Not currently included in MHV | |
 | | |BMI Percentile (2-20 years)|Not currently included in MHV | |
 |||Weight-for-length Percentile (Birth - 36 Months)|Not currently included in MHV | |
@@ -208,9 +213,9 @@ Note: USCDI also includes 3 vitals for babies and children: BMI (2-20 years), we
 
 |Data field       | Suggested label | USCDI v1 data element mapping | Notes             | Questions           |
 |:------------------------|:-----------------------|:-----------------------|:-------------------|:---------------------|
-|Measurement ||[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) |Each vital sign listed includes both the vital sign and specification for measurement|
+|Measurement |Result|[List of vital signs](https://www.healthit.gov/isa/uscdi-data-class/vital-signs#uscdi-v1) |Each vital sign listed includes both the vital sign and specification for measurement|
 |Date/time collected|Date|[Author time stamp](https://www.healthit.gov/isa/taxonomy/term/796/uscdi-v1)|
-|Location|| |
+|Location||Location|
 |Comments |Provider notes||
 
 

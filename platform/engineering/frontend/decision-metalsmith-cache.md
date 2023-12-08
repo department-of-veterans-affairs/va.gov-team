@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Metalsmith local JSON cache decision
 
 In [#22861](https://app.zenhub.com/workspaces/vsp---frontend-tools-5fc9325744944e0015ed1861/issues/department-of-veterans-affairs/va.gov-team/22861) we investigated two approaches to increasing the local GraphQL cache size beyond 500mb. One method is to continue storing everything in a single JSON file, but write and read it incrementally instead of as a single chunk. The other is to store each page in a separate JSON file. The size limit of either method is much higher.

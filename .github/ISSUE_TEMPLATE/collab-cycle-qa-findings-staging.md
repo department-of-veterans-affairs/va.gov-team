@@ -17,6 +17,8 @@ assignees: ''
 #### VFS feature name
 
 #### Point of Contact/Reviewers
+
+
 ---
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
 #### Regression Test Plan 
@@ -35,7 +37,15 @@ assignees: ''
 - [ ] Standard has been met
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
-#### Unit Test Coverage 
+#### Unit Test Coverage
+- Lines %:
+
+- Functions %:
+
+- Statements %:
+
+- Branches %:
+
 - [ ] Standard has been met
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
@@ -51,6 +61,7 @@ assignees: ''
 - Add your name, practice area, and GH handle under Point of Contact/Reviewers
 - Complete the QA Standards section, making sure to include an "Explanation of failure to meet standard" for every Standard the product does not meet.
 - Link to the Collaboration Cycle Request epic
+- Add epic's milestone
 - Add assignees: 
   - VFS PM
   - Yourself (optional)

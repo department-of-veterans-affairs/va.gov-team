@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Design.va.gov
 Design.va.gov was constructed as a single source of truth to help designers and developers quickly build web projects for the VA that provide Veterans with a consistent, accessible user experience using any technology stack using Formation, VA.gov's front-end framework built on top of the U.S. Web Design System. It not only offers live code examples of components, but it also documents how to combine those components with content strategy, plain language, and design best practices to solve Veterans' needs.
 

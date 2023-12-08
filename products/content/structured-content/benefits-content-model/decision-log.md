@@ -20,6 +20,38 @@ Public websites epic covering content design and general discovery for this work
 
 ## Decision log
 
+### 9/12 MVP kickoff to CAIA
+- For MVP period we will relax role restrictions so that Content Editors can create/edit Official Benefit Name and API ID
+- CAIA will take a period of a few sprints to enter content into the MVP taxonomy and gather feedback. We will reconvene PW and CAIA to receive that feedback and determine next steps.
+
+### 4/19 Clarifications meeting wtih Dave & Danielle
+- Nested text-plus-header paragraph type is definitely MVP; it's very likely we'll need it and building now will avoid double-handling of content by content team
+- Public Websites will bring a working proof-of-concept to CMS Collab Cycle when ready.
+
+
+### 3/29 & 3/30 & 4/6 MVP Spec finalization meeting with Dave & Danielle
+Taxonomy – we aligned around the team's recommendation to make this a taxonomy in Drupal instead of a content type. Similar to VA Services Taxonomy.
+
+Editor experience decisions:
+- we erred on the side of flexibility in most cases. E.g., char limits are soft (suggestions), allow multiples for entity references like pre-requisite benefits
+- Legislation will be a URL, should link to congress.gov copy of legislation (maybe a future taxonomy of its own)
+- Two fields (API ID, official name) should not be editable after first save except by Admins. Intention is to prevent these from drifting without necessary change management.
+  - Workflow module will be necessary to make this work.
+
+Things that fell out of MVP:
+- Category - DC & DT said this is more complicated than it appears, was a mess for R&S. Hence, for MVP benefit terms will not have a reference to a category or Hub
+- Plain language name is now "Alternate benefit name", a single field, with help text telling Editors to use commas to saparate names, including Acronyms (no longer its own field)
+- "Related VA Forms Guidance" - MVP will not have a new field; editors will look at "when to use" field in Forms content model and determine if this separate field will be needed.
+- Preparing to apply - post-MVP; editors to monitor whether this should be its own field or inherit from Forms content model (or something else).
+
+
+Possible addition to MVP:
+- Nested text-plus-header content type (paragraph)
+  - There was strong interest in a "limited rich text" field that could include headers of multiple levels.
+  - For accessibility reasons, it's crucial that the headings be relative to each other without specifying the absolute level in html (e.g., h3).
+  - This is a new invention, it's a topic of discussion among content professionals and no drupal modules are available.
+
+
 ### 2/13 How to Apply audit workshop
 Dave C, Danielle T, Dave P, Jill, Wes, Steve, Randi
 

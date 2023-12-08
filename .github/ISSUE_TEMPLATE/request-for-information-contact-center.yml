@@ -1,0 +1,88 @@
+name: Request for Information
+description: Please use this form to request information for tier 2/3 support from all appropriate CRMs.
+title: "Request for Information (RFI)"
+labels: [ "VSP-contact-center", "request-for-information-cc" ]
+assignees:
+  - Kimberley2019, ATMiddleton
+body:
+  - type: markdown
+    attributes:
+      value: |
+          ## What this form is for
+          The Contact Center Team is responsible for tier 2/3 support along with associated and data and reporting. Please use this form to request information from our team for specific issues, challenges, bugs, error messages that users may expereience when using your tool(s).
+          Information is based off of tier 1 agents phone conversation with user and may not produce all information you are in need of.  
+          
+          *Please allow 5 business days for delivery.*
+  - type: dropdown
+    id: data-request-type
+    attributes:
+      label: Information Type Requested
+      description: MyVA411 call center support data, AVA support information 
+      options:
+        - Support
+    validations:
+      required: true
+  - type: input
+    id: start-date
+    attributes:
+      label: Date Range Start
+      placeholder: MM-DD-YYYY
+    validations:
+      required: true
+  - type: input
+    id: end-date
+    attributes:
+      label: Date Range End
+      placeholder: MM-DD-YYYY
+    validations:
+      required: true
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name(s)
+      description: Please provide the name(s) of your tool(s).
+      placeholder: Claim Status Tool
+    validations:
+      required: true
+  - type: textarea
+    id: product-description
+    attributes:
+      label: Tool Description
+      description: Please provide a high level description (one or two sentences) of your tool(s) and the issue(s) you want our team to be on the lookout for. 
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: product-urls
+    attributes:
+      label: Tool URL and term(s)
+      description: Please Please provide the root directory(ies) for your tool(s).  This will help us to determine if the issues being experienced are with your tool. When providing specific terms to search for, please include those terms as well as common alternate spellings.
+      placeholder: "Terms: can't see, can't move past, won't allow, claim status tool"
+    validations:
+      required: true
+  - type: textarea
+    id: data-delivery
+    attributes:
+      label: File Delivery Format
+      description: All information will be delivered via encrypted email on VA Network
+      placeholder: 
+    validations:
+      required: true
+  - type: input
+    id: va-email
+    attributes:
+      label: VA Email Address(es)
+      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared with a non-VA email address.
+      placeholder: johndoe@va.gov
+    validations:
+      required: true
+  - type: textarea
+    id: add-assignee-labels
+    attributes:
+      label: Add Assignee and Labels     
+      value: |
+          If not already done so, please ensure @Kimberley2019 is set as the assignee for this issue and "VSP-contact-center" and "request-for-information-cc" are set as labels.
+          Please leave this field as is when submitting.
+    validations:
+      required: false
+

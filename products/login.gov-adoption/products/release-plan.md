@@ -7,7 +7,7 @@ Our priority, as set by OCTO, is to migrate Veterans who are using legacy creden
 
 Our product will address this with 3 sets of features:
 - *Organic adoption* whereby a Veteran creates an IAL2 Login.gov account "from scratch." 
-- *Grandfathering* whereby a Veteran defers identity proofing and receives an IAL1 Login.gov account.
+- *Deferred identity proofing* whereby a Veteran defers identity proofing and receives an IAL1 Login.gov account.
 - *Inherited proofing* whereby a Veteran skips identity proofing through inheritance and receives an IAL2 Login.gov account. 
 
 This release plan seeks to test each of these feature sets "in the wild" at a smaller scale, and learn:

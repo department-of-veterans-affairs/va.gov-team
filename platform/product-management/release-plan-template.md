@@ -1,3 +1,4 @@
+
 <!-- markdownlint-disable MD024 -->
 # Release Plan Template
 
@@ -7,7 +8,7 @@ So: **how might we craft a release plan to test our product "in the wild" at a s
 
 Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
 
-## When to use this release plane
+## When to use this release plan
 
 If you answer yes to any of the questions below, you'll need to create a release plan using this template.
 

@@ -38,7 +38,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 ### Planning
 
 - Desired date range: 
-   - 04/24/23 - 04/28/23
+   - 05/17/23 - 06/07/23
 - How will you make the product available in production while limiting the number of users who can find/access it: 
    - VA.gov feature flag `va_online_scheduling_appointment_list`
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -54,7 +54,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: 4 hours to 1 day
-- Percentage of Users 5% (11,509 users) to 10% (23,019 users) 
+- Percentage of Users 10% (23,019 users) 
 
 #### Results:
 - Number of unique users: x
@@ -84,7 +84,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: 04/24/23
+- Desired date: 05/17/23
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum

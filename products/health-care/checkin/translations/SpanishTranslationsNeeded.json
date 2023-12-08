@@ -1,0 +1,20 @@
+{
+    "you-created-a-travel-claim-already": "You've created a travel claim already.",
+    "pre-check-in-no-longer-available--info-message": "We\u2019re sorry. Pre-check-in is no longer available for your appointment time. Ask a staff member for help to check in.",
+    "with": "with",
+    "appointment": "appointment",
+    "when": "When",
+    "what": "What",
+    "where-to-attend": "Where to attend",
+    "reason-for-visit": "Reason for visit",
+    "appointment-day": "{{ date, day }}, {{ date, monthDay }} at {{ date, time }}",
+    "back-to-appointments": "Back to appointments",
+    "details": "Details",
+    "details-for-appointment": "Details for {{ type }} appointment at {{ time, time }}",
+    "directions-to-location": "Directions to {{ location }}",
+    "directions": "Directions",
+    "were-sorry-this-link-has-expired": "We\u2019re sorry. This link has expired.",
+    "trying-to-check-in-for-an-appointment--info-message": "Trying to check in for an appointment? Text <0>check in</0> to <1></1>.",
+    "were-sorry-cant-file-travel-file-later--info-message": "We\u2019re sorry. We can\u2019t file a travel reimbursement claim for you now. But you can still file within <0>30 days</0> of the appointment.",
+    "processing-travel-claim": "<0>We\u2019re processing your travel reimbursement claim request.</0> We\u2019ll send you a text message with the submission status of your travel reimbursement claim."
+}

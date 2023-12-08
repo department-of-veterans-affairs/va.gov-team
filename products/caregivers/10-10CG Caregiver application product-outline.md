@@ -119,14 +119,16 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 |10-10 CG|65.83%|66.01%	|70.23%	|67.06%	|67.88%	|72.64%| 79.26%|71.97%|68.89%|67.23%|66.70%|66.63%|
 
 
-- *Key result 2: Increase % of caregivers who obtain approval for benefits* - **TBD from CG Team**
+- *Key result 2: Increase % of caregivers who obtain approval for benefits* -
+- **Data caveat**: Data pulled from the Caregiver Record Management Application (CARMA) provides a snapshot in time at the point the report was ran each month. 
+CARMA data is agile due to appeal outcomes, reinstatements, delayed data entry, and data corrections. Updated reports will result in updates to previously reported data points.
 
-|Metric| Jan|	Feb|Mar|Apr|May|
+|2023 Metric| Jan|Feb|Mar|Apr|May|
 |-------|----|----|----|----|----|
-|Apps Approved| 1,800|1,800|TBD|TBD|TBD|
-|Online Apps Approved|1,200|1,140|TBD|TBD|TBD|
-|Apps Denied|8,000|7,000|TBD|TBD|TBD|
-|Online Apps Denied|6,000|5,200|TBD|TBD|TBD|
+|Apps Approved| 1,800|1,800|1850|1635|1550|
+|Online Apps Approved|1,200|1,140|1150|1010|945|
+|Apps Denied|8,000|7,000|7670|6630|7320|
+|Online Apps Denied|6,000|5,200|5600|4870|5325|
 
 #### Objective 2: Decrease time from submission to decision
 

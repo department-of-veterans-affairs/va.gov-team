@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 ### Overview
 
 The Vets.gov team has pioneered a technical solution for building online forms significantly faster, increasing the speed by which we can build a prototype of a form by at least eightfold. This technical solution not only makes teams more efficient and delivers critical services to users faster, it also incorporates UX and design best practices by making use of the U.S. Web Design Standards, ensuring a consistent look and feel across the platform.

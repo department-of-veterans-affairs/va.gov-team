@@ -32,7 +32,7 @@ Check In Experience consists of five main containers (see components section for
 - Built with reactJS
 - Calls vets-api to:
   - Establish session
-  - Authorize Veteran based on matched phone number, lastName and lastFour
+  - Authorize Veteran based on matched phone number, lastName and dob
   - Refresh list of appointments
   - Check in for a specific appointment
 - [vets-website Architecture](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-architecture.1855324196.html)

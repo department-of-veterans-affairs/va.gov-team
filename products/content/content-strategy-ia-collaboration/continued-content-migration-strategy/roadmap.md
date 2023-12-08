@@ -26,20 +26,31 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
   
 ## Recently completed
 - Education rates content
-
+- VEText FAQs (va.gov/health/vetext_faqs.asp)
+- Dental program (va.gov/healthbenefits/vadip/)
+- Some persona pages on main TeamSite nav (others need more extensive work/planning)
   
 ## Currently in progress
-- **Community care content for Veteran and other beneficiary pages (R&S pilot partner):** Costs and billings section migrated in September 2022. Aiming for completion of full migration in February 2023.
-- **Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner):** Aiming for completion in March 2023
-- **Regional offices:** Aiming for estimated completed by FY2023-Q2 for Pilot office, FY2023-Q4 for complete roll-out
 
-## Next up
+### Veteran persona page
 
-### Single pages among top 1,000 urls by pageviews
+- In planning for strategy for a "getting started as a Veteran" resources page
 
-These are single pages that require a relatively low level of effort to migrate and are on the "top 1,000 urls" by pageviews list that is a focus of current accessibility efforts. Some have serious accessibility issues so prioritizing migration is a win for both migration and accessibility.
+### Community care content for Veteran and other beneficiary pages (R&S pilot partner)
+- Costs and billings section migrated in September 2022.
+- Broader work paused for a time due to IVC restructuring. Aiming for completion of full migration by end of June 2023.
 
-We need to confirm with our VA partners, but I would anticipate that we could complete migration of some of these pages by Q2 FY2023.
+### Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner)
+
+- Aiming for completion in June 2023.
+
+### Income limits tool
+
+- In research
+
+### Benefits.va.gov (top 1,000 pages focus first)
+
+Working to migrate these top 1,000 pages as well as planning for other pages within benefits.va.gov:
 
 - benefits.va.gov/gibill/isaksonroe/verification_of_enrollment.asp
 - benefits.va.gov/benefits/applying.asp
@@ -53,16 +64,12 @@ We need to confirm with our VA partners, but I would anticipate that we could co
 - benefits.va.gov/vocrehab/subsistence_allowance_rates.asp
 - benefits.va.gov/compensation/types-compensation.asp
 - benefits.va.gov/insurance/choose.asp
-- benefits.va.gov/benefits/banking.asp
-- benefits.va.gov/gibill/comparison_chart.asp
+- benefits.va.gov/benefits/banking.asp <br>
+~benefits.va.gov/gibill/comparison_chart.asp~ DONE <br>
 - benefits.va.gov/gibill/docs/wavechart.asp
 - benefits.va.gov/compensation/mailingaddresses.asp
-- va.gov/health/vetext_faqs.asp
-- va.gov/healthbenefits/vadip/ - will redirect no later than 11.30.22
-- va.gov/dental/dental-clinic-locations-finder.asp
-- Remaining life insurance pages already on board as slated for migration
 
-### Full sections and subdomains
+### Full sections and subdomains associated with top 1,000 URLs initiative
 
 These full sections and subdomains are high priority because they have:
 - Benefit and service content for Veterans and other beneficiaries

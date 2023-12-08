@@ -9,9 +9,9 @@ Welcome to the Identity team. This directory contains information needed to Onbo
 ### Current Team Objectives
 
 
-**Sign-in Service Pilot**  
+**Sign in Service Pilot**  
 _Current Status:_ Actively working on this.  Currently working on second phase of work.  
-We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
+We are developing a pilot sign in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
 
 **Inherited Proofing**  
 _Current Status:_ Initial research is done.  Next up is accessibility research.
@@ -32,25 +32,43 @@ Product Managers are responsible for keeping these directories up-to-date and we
 ## Team
 
 ### VA Product Owners
-- Cody Reinhold
-- John Rahagi
+- Tom Black
 
 ### Product and Program Management
-- Nick Soutouras - Product Leadership
-
+- Danielle Baranowski - Program Manager
+- Mike King - Product Manager
+- Jim Connelly - Product Manager
+- Lisa Lindsey - Delivery Manager
 
 ### UX
-- Amanda Porter - UX Designer/Researcher
-- Sam Vang - UX Designer/Researcher
+
+- Clayton Zook - UX Lead
+- Charlye Tran - UX Designer/Researcher
+- Josh Mantulonis - UX Researcher
+- Megan Driscoll - UX Content Designer
 
 ### Engineering
-- Joe Niquette - Engineering Lead
-- Trevor Bosaw - Backend Engineer
+- Joe Niquette - Security Engineer, Lead Engineer
+
+#### Backend
+- Trevor Bosaw - Backend Lead
 - John Bramley - Backend Engineer
-- Alex Garcia - Frontend Engineer
-- Jhonny Gonzalez - Frontend Engineer
-- Sylvester Lee - Security Engineer
-- Ian Hundree - DevOps Engineer
+- Richard Davis - Backend Engineer
+- Daniel da Silva - Backend Engineer
+- Riley Anderson - Backend Engineer
+
+#### Frontend
+- Alex Garcia - Frontend Lead
+- Afia Caruso - Frontend Engineer
+- Antonette Caldwell - Frontend Engineer
+- Afia Caruso - Frontend Engineer
+- Ian Magenta - Frontend Engineer
+- Caitlin Neathawk - Frontend Engineer
+
+#### DevOps
+- Vid Jovanovic - DevOps Engineer
+- Josh Houston - DevOps Engineer
+- Zac Yellowhorse - DevOps Engineer
 
 
 ## Communications

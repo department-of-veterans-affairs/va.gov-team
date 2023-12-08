@@ -1,1 +1,1 @@
-
+Reference [Check-in team's JSON file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/spanish-round-3/spanish-round-3.json) as an example

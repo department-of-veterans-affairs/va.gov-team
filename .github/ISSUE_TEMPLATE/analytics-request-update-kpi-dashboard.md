@@ -16,7 +16,7 @@ Use this ticket template to request an update to your existing KPI dashboard. To
 
 ### Expected delivery timelines
 
-Once you’ve submitted this ticket template, your KPI dashboard update request will be pulled into the Analytics team’s workflow the following Wednesday during Platform Sprint Planning or Refinement. We expect to deliver your completed dashboard within the next sprint. 
+The Analytics team will notify you once this ticket has been pulled into a sprint. 
 
 
 ## Instructions for the VFS team
@@ -27,9 +27,9 @@ First, tell us what type of change you need to make:
 - [ ] **Content**: Add or remove pages included
 - [ ] Other_____________________________
 
-Next, use the original [KPI request template](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) or [(downloaded Excel version)](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/1586823275/KPI%20Dashboard%20Product%20Details%20Template%20-%20MAKE%20A%20COPY.xlsx?inst-v=ced1f4dd-e997-4aa2-9ae8-2cebe369b42f) you filled out to update your information. If you are not able to find that spreadsheet, reach out to the Analytics team on #vfs-platform-support for a new spreadsheet that reflects what we currently have on file.
+Next, use the original [KPI request template](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) you filled out to update your information. If you are not able to find that spreadsheet, reach out to the Analytics team on #vfs-platform-support for a new spreadsheet that reflects what we currently have on file.
 
-- [ ] Make a copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988) [(or download Excel version)](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/1586823275/KPI%20Dashboard%20Product%20Details%20Template%20-%20MAKE%20A%20COPY.xlsx?inst-v=ced1f4dd-e997-4aa2-9ae8-2cebe369b42f)
+- [ ] Make a copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1gipo-h3GCeVPsw6t6tEHJM5dtJMvotVm0LUgbpAeqZY/edit#gid=981224988)
 - [ ] Complete worksheet as instructed
 - [ ] Link your completed spreadsheet here: ______
 - [ ] Check your sharing settings to make sure the Analytics team will be able to access it

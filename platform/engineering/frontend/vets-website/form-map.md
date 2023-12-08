@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Form Map - Where Does This Stuff Come From?
 
 In this doc, we'll explain where the content you see on the form actually comes from. The file locations in this doc assumes you created a simple form using the Yeoman generator, saving the app in `new-form` and giving it a root URL of `/new-form` (questions 2 and 4 in the generator).

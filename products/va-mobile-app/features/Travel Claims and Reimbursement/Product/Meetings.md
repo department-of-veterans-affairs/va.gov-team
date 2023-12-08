@@ -1,4 +1,34 @@
-3/15 Meeting agenda: 
+4/10 Matt/Adam chat
+ * Travel Claims and reimbursement is off the table for Q2 and not something that should be referenced at this time for considerations
+ * Matt said to send him the use cases and not to talk to Mark Dewey as our team is not supposed to communicate on Travel Claims, so the use cases I send Matt he will forward to Rachel who then will talk to Mark 
+
+
+3/22 Weekly Meeting agenda: 
+ * Leads reviewed with Adam what they did on 3/20 and also the use cases identified
+ * Leads pushed to share all the use cases
+ * Identified another use case to add to their six, in-app notifications, which makes the use case total 7
+ * From a leads perspecitive TCR was now on hold until future prioritization which was believed given PO push on TCR from the 3/15 SoS convo from Chris J
+ * Discussed meeting early Q2 keep communication with Leads going
+
+3/21 SoS Meeting agenda: 
+ * Travel Claims and reimbursement was a topic with Chris J
+ * Travel Reimbursement Step 1 review - Adam [Travel Claims and Reimbursement Step 1 Product Canvas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12499886/Travel.Claims.and.Reimbursement.Step.1.Product.Canvas.pdf)
+
+ * OCTO trying to get API team to refocus on Travel but they are still working on other priorities
+ * Real time API may not be available until end of Summer 2023
+ * Are there other versions of this API that will be available sooner?
+ * Chris thinks we could move forward without RT APIs and once its submitted whenever we get a response then tell the Vet even if its seconds / minutes/ hour later 
+ * Told Chris I would follow-up with him when I am back on the use cases and then share it with Mark
+
+3/20 Travel Claims Use Case Review 
+ * Meko was walking through the leads on the overall Travel Claims Reimbursement Experience and user flow prior to identifying and finalizing use cases 
+ * use cases identified were documented on the mural board (https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1678367303512/32e5c8830a50f953be69ecc024c5efa9a4cd3419?sender=u7ec1ac1ea3bde48882e36908)
+ * Adam was not in attendnance 
+
+3/16 SoS Meeting agenda: 
+ * Travel Claims and Reimbursement were discussed 
+
+3/15 Weekly Meeting agenda: 
  * Review used case in Mural - not completed 
  * Vote from use cases in mural - not completed 
  * Review draft timeline - completed 

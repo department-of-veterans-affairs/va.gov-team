@@ -77,7 +77,7 @@ _Note: This is a WIP checklist._
 
 - [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
 
-- [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out on the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
+- [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out on the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "por sus siglas en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, por sus siglas en inglés)." For all following instances, just use the acronym. 
 
 ## Bulleted lists
 

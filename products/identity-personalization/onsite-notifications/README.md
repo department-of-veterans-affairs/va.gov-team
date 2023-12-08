@@ -1,6 +1,8 @@
-# Product outline: Onsite Notifications (ie. personalized notifications that show on VA.gov)
+# Product outline: Personalized notifications & alerts on VA.gov (onsite notifications)
 
-**Last updated: February 13, 2023 -- added link to "adding a new notification" doc**
+**Last updated: October 31, 2023 -- updated note and projects section**
+
+NOTE: On October 3, 2023, the Notifications section on My VA (onsite notifications MVP) was removed from production. The feature was hidden behind a feature flag (and will eventually be removed from code) after the team and stakeholders determined this feature was not the right solution for elevating personalized updates at this time.
 
 ### Communications
 
@@ -9,17 +11,7 @@
 
 ### Roles
 
-#### On-site notifications team
-
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Berni Xiong| Delivery Manager | berni.xiong@agile6.com |
-|Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Allison Lu| FE Engineer|	allison@cityfriends.tech |
-|Derrick Ellerbie| Full Stack Engineer | Derrick.ellerbie@Agile6.com|
-
+[Onsite notifications are maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 #### Partners
 
@@ -37,13 +29,14 @@
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Projects](#projects)
+- [Security](#security)
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design](#design)
 
 ## Overview
 
-VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. The authenticated experience team aims to cover information around the third and final pillar -- notifications that show to logged-in users on VA.gov.
+VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify and VEText platforms team builds and manage email and text notification. The authenticated experience team aims to cover information around the third and final pillar -- personalized notifications and alerts that show to logged-in users on VA.gov.
 
 ## Onsite notification criteria
 
@@ -62,7 +55,8 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Problem Statement
 
-- As a customer of the VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
+- As a customer of VA, I need to know if there are tasks I need to complete so that I can receive or manage my benefits.
+- As a customer of VA, I need to know if VA has taken an action that affects my health and benefits, even if no action is required from me (eg. VA shipped a prescription).
 
 ## User outcomes
 
@@ -74,17 +68,16 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ### Undesired User Outcomes
 
-- Confusion or lack of syncing between on-site notifications/action items and email, text, or mail communications (data integrity). We can avoid this by building on the VANotify platform to ensure a synchronous experience between email, text, and notifications on VA.gov.
-- An overwhelming amount of notifications makes it so that this update feels more like noise than a helpful tool.
+- Not alerting users to important updates.
+- Confusion or lack of syncing between in how notifications are handled across VA.gov (data integrity). We can avoid this through close coordination with other VA.gov teams, the VA mobile team, and VANotify.
+- Notifications feeling like noise because there are too many of them. 
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
-- To create a unified experience through the VANotify platform. 
-- Once the notification infrastructure is in place, it will be easy for VA business lines to get necessary action items in front of users with little lift.
-- We'll be able to build more nuanced logic to get messages in front of certain audiences (eg. show a notification to all people who have a BVS hearing within the next 30 days). 
-- We'll be able to show notifications on more than one page, or in a central location (eg. a notification center) that is accessible from all pages.
+- We create a unified, consistent experience for how notifications/alerts are handled across VA.gov.
+- We create a unified, consistent experience for how information is surfaced on VA.gov and in the VA mobile app.
 
 ### Undesired Business Outcomes
 
@@ -97,28 +90,46 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ## Projects
 
-|Project| Launch date|
+### Current projects
+
+|Project| Status|
 |-------|------------|
-|[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| In development|
-|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | In development  |
-|[Onsite notifications v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
+| Notification center MVP | On hold |
+|[Scaling onsite notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|On hold|
+
+### Completed projects & enhancements
+
+<details>
+
+<summary>Completed projects & enhancements</summary>
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | Removed from production |
+|[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| Discovery work complete Spring 2023|
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
+
+</details>
+
+
+## Security
+[Onsite Notifications Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/mvp/launch-materials/onsite-notifications-security-playbook.md)
 
 ## Backend
 
-### How it works
+### How the VANotify integration works
 
-We receive on-site notifications from [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
+We receive on-site notifications from [VA Notify](https://depo-platform-documentation.scrollhelp.site/developer-docs/partner-services-upstream-services). For the MVP, the system works as follows:
 
 - The debt management center backend (DMC) will add debts for a given set of users. Those debts will show up in the debt tool in VA.gov.
-- Once a day, the DMC backend will send a batch request to VANotify to send out notifications to folks alerting them that they have a new debt.
-- VANotify will then send out notifications:
+- Once a day, the DMC backend will send a batch request to VA Notify to send out notifications to folks alerting them that they have a new debt.
+- VA Notify will then send out notifications:
   - An email notification (this existed prior to the on-site notification MVP and was an entirely separate effort).
   - A notification that shows on someone's My VA personalized dashboard if they are logged in and identity-verified (LOA3) on VA.gov.
-  - Users receive notifications based on their preferences. Email notifications can be turned off; on-site notifications can not. 
-- If VANotify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show the "you have a new debt" notification and to whom.
+  - Users receive notifications based on their preferences. Email notifications can be turned off; _on-site notifications can not_. 
+- If VA Notify determines it should send the "you have a new debt" notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us (My VA) to show the "you have a new debt" notification and to whom.
 
-[Additional technical documentation from VANotify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
+[Additional technical documentation from VA Notify on how the on-site notification functionality works on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/onsite-notifications/README.md#workflow-overview)
 
 See [Onsite Notification Technical Overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/onsite_notifications/technical-overview.md) for more detailed technical workflows and explanations about the solution.
 
@@ -130,13 +141,13 @@ Currently, there is only one notification to test (2022). In the future, there m
 
 ## Frontend
 
-### Overview
+### How the VANotify integration works
 
-- The frontend connects to VANotify via an API we set up.
-- Currently, the frontend code stores the content for on-site notifications. This may be stored by VANotify some time in the future, but not for the MVP.
-- If VANotify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
+- The frontend connects to VA Notify via an API we set up.
+- Currently, the frontend code stores the content for on-site notifications. This may be stored by VA Notify some time in the future, but not for the MVP.
+- If VA Notify determines it should send a notification to VA.gov, it will send a `user id` and `template id` to VA.gov. This is what tells us to show which notification and to whom.
 
-### When are the notifications fetched from the server?
+#### When are the notifications fetched from the server?
 
 The notifications are pulled on load using a GET request to the api `/v0/onsite_notifications` if they have no MPI errors and they are an LOA3 user. 
 
@@ -145,11 +156,11 @@ The notifications are pulled on load using a GET request to the api `/v0/onsite_
 * If there is an error on the backend preventing notifications from appearing, then we do not display the Notifications section on the page.
 * If there is an error when the user attempts to dismiss the notification, we show an error.
 
-### If a user dismisses a notification
+#### If a user dismisses a notification
 
 When a user dismisses a notification, we send a PATCH request to the api `/v0/onsite_notifications/${id}`. If they have an error we show the dismissal failed error. If there is no error we remove the notification from the page.
 
-### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
+#### [Adding a new notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/frontend/adding-new-onsite-notification.md)
 
 ## Design
 

@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Cypress 6.x Upgrade Guide
 
 The upgrade from Cypress 4.8 to Cypress 6.x introduces several changes to test structure, syntax, and other aspects of Cypress tests. This guide covers key changes that are most likely to affect existing tests. There are a handful of deprecated methods that should be updated before the core Cypress library no longer supports them, which is expected to happen in the next major release (7.x), we recommend making these changes by the end of March 2021, to safely avoid any issues resulting from the next update. Please carefully read the guidance below. If you have any questions please drop by #vsp-testing-tools-team to get support.

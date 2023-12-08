@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # <a id="using"></a>Using the va.gov-team Repo
 Determine where your file should go and how to name them...
 

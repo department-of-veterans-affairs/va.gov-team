@@ -11,7 +11,7 @@ CMS Team work includes:
 - Data Migration for Product teams usng Drupal  
 - CMS Application Architecture & Quality Control
 - CMS Training and User Support
-- Accelerated Publishing Effort (currently on hold as of September 2022)
+- Accelerated Publishing/Next.js 
 - Content Ops: Editorial Workflows, Content Strategy, Modeling, Governance
 - Drupal Product Strategy & Launch Runbooks 
 - User Account & Permissions Governance
@@ -36,9 +36,7 @@ Products owned by Public Websites
 1. The Benefits **Outreach hub** at https://www.va.gov/outreach-and-events/
 1. **Resources and support** www.va.gov/resources
 1. **Campaign Landing Page** 
-
-Products owned by Decisions Tools team
-1. **VA forms** www.va.gov/find-forms (formerly owned by Public Websites) 
+1. **VA forms** www.va.gov/find-forms (formerly owned by Decision Tools Team) 
 
 Content libraries that are shared across products
 1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
@@ -63,27 +61,27 @@ Documentation about the CMS lives in various places
 ## How to Reach Us
 
 ### CMS Team
-- Dave Conlon, VA Product Owner, Slack `@Dave Conlon`
-- Erika Washburn, Lead Product Manager - Slack `@Erika Washburn`
-- Dawn Pruitt, Delivery Manager - Slack `@Dawn Pruitt`
-- Eric Oliver, DevOps Lead - Slack `@Eric Oliver`
-- Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
-- Laura Flannery, Accessibility Lead - Slack `@Laura Flannery`
-- Blake Organ, Content Designer- Slack `@Blake Organ`
+- Erika Washburn, VA Product Owner, Slack `@Erika Washburn`
+- Berni Xiong, Senior Delivery Manager - Slack `@Berni Xiong`
+- Marcia Ortiz, Senior Product Manager
+- Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
+- John Luo, Software Quality Architect
+- Ari Perez, DevOps Engineer (on A6 contract through Dec-2023)
+- Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
+- Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
+- Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
-- Elijah Lynn, DevOps & Application Engineer, Slack `@Elijah Lynn`
+- Tony Taylor, Drupal Developer - Slack `@Tony Taylor`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
-- Nate Douglas, Software/DevOps Engineer and QA Lead, Slack `@Nathan Douglas`
 
-Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
+### Shared resource from Sitewide team:
+- Laura Flannery, Web Accessibility Lead - Slack `@Laura Flannery`
 
-Slack channels:
+### Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
 - [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team)
-
-
 
 ## Table of contents
 

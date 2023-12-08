@@ -1,6 +1,14 @@
 # VAOS product and business rules
 
+We have migrated this documentation to the [feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference). 
+
+This file can be deleted after 02/01/24
+
+<!--
+
 This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that VAOS follows.
+
+
 
 ## Application level
 
@@ -75,10 +83,12 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - Facilities are shown on this page if:
     - They are associated with a VistA site where the user is registered, and
     - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
-- If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address
+- If the user has a residential address in VA Profile, then facilities are shown sorted by distance from that address:
+   - Users can choose to sort the facilities by how close they are to their current (browser) location instead of residential address.
+   - The distance to the facility is shown in miles.
+   - The distance is calculated as a straight line between the Veteran's residential address or location and the facility address.
+   - Facilities that are within 100 miles of the residential address or current location (if currently being used) and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options. 
 - If the user does not have a residential address, the facilities are shown in alphabetical order
-- Users can choose to sort the facilities by how close they are to their current (browser) location
-- Facilities that are within 100 miles of the residential address or current location (if currently being used) and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options.
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 - If the user is registered at a Cerner site, facilities in that site are always shown on this page and include a link to the Cerner portal below the radio button
 - If a user choose a Cerner facility and clicks Continue, they're sent to the schedule Cerner page
@@ -152,7 +162,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests, they're sent to the community care preferences page
     - For VA requests, they're sent to the reason for visit page
 
-### Community care closest city page
+### Nearest city page
 
 - If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
 
@@ -188,7 +198,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests or the direct path, they're sent to the contact info page
     - For VA requests, they're sent to the visit type page
 
-### Visit type page (request path)
+### Preferred modality (request path)
 
 - Users must choose the type of visit they'd like to have
     - Office visit
@@ -220,3 +230,4 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - The appointment confirmation page is shown after a successful directly scheduled appointment
 - It is meant to look like the appointment detail page
 
+-->

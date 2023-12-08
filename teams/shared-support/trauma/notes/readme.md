@@ -1,3 +1,35 @@
+## [November 13, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-11-13.md)
+`Big Meeting` `Strategy`
+- Discussed tips on how to do active listening with veterans
+
+## [August 7, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-08-07.md)
+`Big Meeting` `Strategy`
+- Discussed how to share what we're learning as a community
+
+## [June 26, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-06-26.md)
+`Big Meeting` `Onboarding`
+- Discussed how to embed trauma informed guidance into VA onboarding
+
+## [May 23, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-05-23.md)
+`Big Meeting` `Shareout`
+- Usability testing with homeless Veterans
+- Turning the doorknob moments
+
+## [May 1, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-05-01.md)
+`Big Meeting` `Community Guidelines` `Strategy`
+- Shared why we joined this community to contribute to our vision and strategy
+- Discussed how best to grow small groups
+
+## [April 17, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-04-17.md)
+`Big Meeting` `Participant Safety` `Community Guidelines`
+- We'll be meeting on May 1 for a community guidelines activity, be there (or if not, no worries, we'll have async stuff prepared!)
+- We had a conversation about participant safety in the Perigean recruitment process
+
+## [April 3, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-04-03.md)
+`Big Meeting` `Strategy` `Community Guidelines`
+- Discussed how to push for trauma-informed work as contractors against the inertia of non-trauma informed practices
+- Figured out next steps for determining our community guidelines
+
 ## [March 20, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-03-20.md)
 `Big Meeting` `Strategy` `Community Guidelines`
 - Talked about how to maintain and protect our community guidelines and people

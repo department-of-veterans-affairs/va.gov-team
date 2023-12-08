@@ -1,19 +1,29 @@
-name: "Accessibility Audit Epic"
-description: "Create an epic for an a11y audit outside of the collaboration cycle"
-title: "[A11y Audit]: "
-labels: ["508/Accessibility, Epic"]
+name: "Accessibility Maintenance Audit"
+description: "Create an epic for a maintenance a11y audit outside of the collaboration cycle"
+title: "[Maintenance A11y Audit]: "
+labels: ["epic, accessibility, a11y-testing, sitewide CAIA, sitewide accessibility"]
 assignees: []
 body:
 - type: markdown
   attributes:
-    value: "## Details and Definition of done"
+    value: "## Instructions for specialist"
 - type: markdown
   attributes:
     value: |
-      1. Review and acknowledge all issues added to this audit epic.
+      [Follow these instructions on how to conduct a maintenance audit](https://docs.google.com/document/d/1nrpUyjtbfMkVd8uxxSzEvLzBHOZbwTbw6g0gKbo2nJY/edit?usp=sharing)
+- type: markdown
+  attributes:
+    value: "## Audit Details"
+- type: textarea
+  id: review
+  attributes:
+    label: Definition of done
+    description: Provide a list of test users and any relevant instructions. [Link to VA a11y dashboard](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing)
+    value: |
+      1. Review and acknowledge all issues added to this maintenance audit.
       2. Fix and/or document decisions made for all issues.
       3. A11y specialist will review documented decisions or validating fixes for all tickets.
-      4. A11y specialist will update the product page on the [VA a11y dashboard](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing).
+      4. A11y specialist will update the product page on the VA a11y dashboard.
       5. A11y specialist will close this ticket.
 - type: input
   id: auditor
@@ -46,11 +56,23 @@ body:
   attributes:
     label: Screen Reader
     options:
-      - label: Firefox and NVDA
-      - label: Edge and JAWS
-      - label: iOS Safari and VoiceOver (Mobile)
-      - label: Safari and Voiceover (Desktop)
-      - label: Chrome and Talkback
+      - label: Windows, Chrome, JAWS 
+      - label: iPhone, iOS Safari, VoiceOver 
+- type: textarea
+  id: other
+  attributes:
+    label: Other tests
+    description: Provide a list of any other tests conducted
+    value: |
+      1. for example, Dragon Naturally Speaking on Chrome on Windows
+      2.
+      3.
+      ...
+- type: input
+  id: sheet
+  attributes:
+    label: Audit sheet link
+    description: Provide a link to any sheets or tools used for the audit; [you can use this complex audit google sheet](https://docs.google.com/spreadsheets/d/1QXwkudLtG8aX7g5NGuwW_CgNHEmvV59hPRCoQORlA7Q/edit?usp=sharing)
 - type: markdown
   attributes:
     value: "## Staging URL and Credentials"
@@ -74,7 +96,6 @@ body:
       2.
       3.
       ...
-    render: bash
 - type: markdown
   attributes:
     value: "[Passwords for test users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/a11y-audit.md#:~:text=user%2B%3F%3F%40gmail.com-,Passwords,-Footer)"

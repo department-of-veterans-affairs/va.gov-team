@@ -1,3 +1,15 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
 # Design checklist for Usability Testing Prep and Staging Review
 Here’s a list of things we will be looking for when we review your designs:
 - [ ] New design patterns have been vetted by DSVA and documented

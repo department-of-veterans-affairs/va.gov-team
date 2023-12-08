@@ -1,0 +1,8 @@
+{
+"ERROR_CLINIC_NOT_ENABLED": "Humihingi kami ng paumanhin. Hindi pa naka-enable ang online na pag-check in para sa iyong klinika. Humingi ng tulong sa miyembrong kawani."
+"ERROR_MULTIPLE_PATIENTS": "Humihingi kami ng paumanhin. Nagkaroon ng problema sa paghahanap ng iyong rekord ng pasyente. Humingi ng tulong sa miyembrong kawani."
+"CHECK_IN_LATE_ERROR": "Humihingi kami ng paumanhin. Hindi na makakapag-check in online para sa oras ng iyong appointment. Humingi ng tulong sa miyembrong kawani."
+"PRE_CHECK_IN": "Para matulungan kaming makapaghanda para sa iyong appointment, mangyaring kumpletuhin ang pre-check-in: https://www.va.gov/{shorturl}"
+"PRE_CHECK_IN_UNIFIED": "Nakumpirma na ang iyong appointment sa VA sa {Date} sa ganap na {Time}. Upang makapaghanda para sa iyong appointment, tingnan kung napapanahon ang iyong impormasyon: https://www.va.gov/{shorturl}"
+"CHECK_IN_UNIFIED": "Oras na para mag-check in para sa iyong appointment sa VA sa {Date} sa ganap na {Time}. Simulan na ang pag-check in ngayon: https://www.va.gov/{shorturl} Kung nahihirapan kang mag-check in, magtanong sa isang miyembrong kawani sa pasilidad ng iyong VA." 
+}

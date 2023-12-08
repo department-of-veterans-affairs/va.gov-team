@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Scheduled Downtime Process for VA.gov
 
 ## WORK IN PROGRESS
@@ -10,7 +21,7 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 ### Start here: for *all* scheduled downtime
 
-1. Team initiating downtime (VSP or other) documents the exact date and time you anticipate the downtime happening and the systems that will be taken down:
+1. Team initiating downtime documents the exact date and time you anticipate the downtime happening and the systems that will be taken down:
     - Systems affected: system name 1, system name 2, etc.
     - Proposed date and time for staging: DayOfWeek, Month Date, YYYY, from h:mm AM/PM to h:mm AM/PM
     - Proposed date and time for production: DayOfWeek, Month Date, YYYY, from h:mm AM/PM to h:mm AM/PM
@@ -24,14 +35,14 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 1. Make an announcement at the weekly Team of Teams meeting and notify [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) in Slack at least 1 week in advance
 
-1. Post a Slack notification of the downtime in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) channel at least 4 days in advance, ccing @Jen Lee so that the team is aware and that the appropriate parties will be notified. 
+1. Post a Slack notification of the downtime in [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) channel at least 4 days in advance, ccing @Dave Conlon so that the team is aware and that the appropriate parties will be notified. 
 
-1. Once the planned downtime has been announced in the [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) and [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) channels, VSP content lead (@peggygannon) will create a content ticket for the downtime messages. 
+1. Once the planned downtime has been announced in the [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) and [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) channels, Sitewide content lead (@Danielle Thierry ) will create a content ticket for the downtime messages. 
 
 1. **For downtime messages that will appear sitewide on static pages:**
-    - Peggy will add Jen Lee and [#vsa-public-website](https://dsva.slack.com/channels/vsa-public-website) dev to the content ticket as reviewer.
-    - VSA-public-website dev will create PR using the approved message and add Peggy Gannon as reviewer. (Jen Lee as optional reviewer.)
-    - Once PR has been reviewed/approved, [#vsa-public-website](https://dsva.slack.com/channels/vsa-public-website) dev can implement it.
+    - Danielle Thierry will add Dave Conlon and [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) dev to the content ticket as reviewer.
+    - Sitewide-public-websites dev will create PR using the approved message and add Danielle Thierry as reviewer. (Dave Conlon as optional reviewer.)
+    - Once PR has been reviewed/approved, [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites) dev can implement it.
  
 1. **For downtime messages that will appear in applications, tools, and on sign-in modules:**
     - Applications, tools, and sign-in modules will show automated notifications when the associated service is unavailable, but no advance or custom messaging will be shown in these locations.
@@ -49,3 +60,7 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 Standardized scheduled downtime messages and design components can be found here: 
  
 https://design.va.gov/patterns/messaging-dictionary
+
+
+# Changelog
+2023-05-08 - @jilladams - Update references to Public Websites with current PO / Slack channel.

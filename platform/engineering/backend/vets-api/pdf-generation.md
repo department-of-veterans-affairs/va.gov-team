@@ -7,6 +7,7 @@
 
 ----
 
+
 # Vets API PDF Generation
 
 Vet-API provides PDF generation options that can be used to convert

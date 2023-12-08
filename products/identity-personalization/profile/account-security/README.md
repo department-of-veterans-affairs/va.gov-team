@@ -1,6 +1,6 @@
 # Account Security Product Outline
 
-**Last updated: October 26, 2022**
+**Last updated: August 1, 2023**
      
 ## Table of Contents
 
@@ -41,9 +41,7 @@ As a user I need to:
 
 ## Projects
 
-|Project or enhancement|Launch/Completion date|
-|----|----|
-|[Combine profile and account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#readme)| September 2020|
+[For a list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
 ## Analytics
 - [GA dashboard for account security](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
@@ -51,7 +49,7 @@ As a user I need to:
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md)
 
-There is no singular backend that supports this section. Largely, this section is a frontend that links off to various tools depending on whether the user has verified their identity or set up 2FA, or what sign-in service they use.
+There is no singular backend that supports this section. Largely, this section is a frontend that links off to various tools depending on whether the user has verified their identity or set up 2FA, or what sign in service they use.
 
 ### Services
 

@@ -1,7 +1,11 @@
 ## Check In Sequence Diagrams
 
 ### Initiate Check-in
-When Veterans send the text "check in" to the designated number, VEText receives the text and intiates the check-in process. CHIP retrieves the relevant data through VistA APIs, puts the data in LoROTA, sets the status and generates and sends the shortened URL back to the Veteran.
+The check-in flow can be initiated in 2 ways: 
+* veterans send the text "check in" to the designated number
+* VEText initiates the process 45 minutes before the appointment
+
+In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves the relevant data through VistA APIs, puts the data in LoROTA, sets the status and generates and sends the shortened URL back to the Veteran.
 
 ```mermaid
 sequenceDiagram
@@ -14,8 +18,13 @@ sequenceDiagram
     participant cw as Clinician Workflow
     participant url as URL Shortener Service
 
+    alt veteran initiated check-in
     vet->>+vt: text "check-in"
     vt->>-c: initiate check-in
+    end
+    alt 45 min reminder
+    vt->>c: initiate check-in
+    end
     activate c
     alt valid
       par
@@ -34,8 +43,10 @@ sequenceDiagram
       end
         c->>+l: save appointments
         l--)-c: documentId
-        c->>+va: set status (E-CHECK-IN STARTED)
-        va--)-c: status set
+        alt veteran initiated check-in
+            c->>+va: set status (E-CHECK-IN STARTED)
+            va--)-c: status set
+        end
         c->>+url: get short url
         url--)-c: short url
         c->>+t: call
@@ -112,6 +123,10 @@ sequenceDiagram
         end
         api->>+l: GET data
         l--)-api: data
+        alt check-in started flag not set
+            api->>+c: POST /setECheckInStarted
+            c--)-api: success
+        end
         api--)-web: serialized data (appointments + demographics)
         opt demographics confirmations needed
             web--)vet: demographics page

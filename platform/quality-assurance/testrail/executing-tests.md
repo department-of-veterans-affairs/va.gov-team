@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Executing tests in TestRail
 
 *Preconditions: You are currently viewing the "Overview" page for your project.  And, you have created a test run that contains the test cases you wish to execute.*

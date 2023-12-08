@@ -1,69 +1,115 @@
 ---
 name: Sitewide Content, Accessibility, and IA Intake Form
-about: To request support with content, accessibility, or IA from Sitewide Content, Accessibility, and IA team
-title: "<Type of Request> from <Team>"
-labels: sitewide CAIA, sitewide content-product support, Sitewide IA, sitewide content, sitewide accessibility
-assignees: RLHecht, coforma-terry
+about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
+title: "[CAIA Intake] <Team Name>: <Initiative Name>"
+labels: sitewide CAIA, sitewide content-product support
+assignees: strelichl,coforma-terry
 
 ---
+# Content, accessibility, information architecture (CAIA) new initiative collaboration request
 
-## What does your team need support for? Check all that apply.
-- [ ] Launching one or more unauthenticated pages, online forms, apps, or tools on VA.gov
-- [ ] Making revisions to one or more existing VA.gov pages
-- [ ] Something else 
- 
- *Give a brief description of what your team needs support with.*
+Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
 
-## Will this new product be released incrementally (for instance 25% of users initially)? 
-  - [ ] Yes
-  - [ ] No
- 
-**Note:** If you checked yes, we'll reach out to discuss details about the content in the react widget.
-  
-## When do you expect to launch your product to 100% of users?
-  
-*Please provide an estimated date so our team can create other relevant tickets.*
-  
-## Supporting artifacts
-*Please provide supporting artifacts as available.*
-
-- Link to product outline:
-- Link to or attach user flows:
-- Link to prototype or mockups:
-- Link to any epics/issues that may be helpful:
-
-## Will this work be going through the Collaboration Cycle?
-- [ ] Yes 
-- [ ] No
-
-## When does this work need to be done?
-- Estimated launch date:
-- Estimated staging review date:
-- Content, Accessibility, and IA work needed by: 
-
-## Do you plan to bring this to an upcoming content office hours session?
-- [ ] Yes, benefit content office hours (Thursdays, 3:00 p.m. to 3:45 p.m. ET)
-- [ ] Yes, health  content office hours (Thursdays, 11:00 a.m. to 11:30 a.m. ET)
-- [ ] Yes, unauth office hours (Mondays, 11:00 a.m. to 11:30 a.m. ET)
-- [ ] No, but I'd like to schedule time to talk about this request
-- [ ] No, let's work asynchronously and meet if needed
-
-**Note:** If we think this work would benefit from a collaborative session with you, we may ask you to bring it to office hours or set up a separate time to meet.
+**Note:** If you’re already partnering with us on an initiative, you don't need to fill out this request form. If you don’t have access to your initiative’s CAIA epic, post a message in the [#sitewide-content-accessibility-ia](https://dsva.slack.com/channels/sitewide-content-acessibility-ia) slack channel and tag `@Terry Nichols` and `@Lily Strelich`.
 
 ## About your team
 
-- Team name: 
--	OCTO-DE product owner: 
--	Product manager: 
--	Designer: 
--	FE engineer: 
--	Product/team Slack channel:
+- **Team name**: `Insert name`
+- **OCTO product owner:** `Insert product owner`
+- **Product name:** `Insert product name`
+- **Product manager:**  `Insert product manager`
+- **Slack channel:** `Insert and link to OCTO slack channel`
+- **Dedicated content writer on your team (if you have one):** `Insert name and/or GH handle`
+- **Dedicated a11y specialist on your team (if you have one):** `Insert name and/or GH handle`
+ 
+## About your initiative
 
+### Which of these descriptions best fits the work we’ll partner on?
+Select all that apply.
+- [ ] Digitizing a new form
+- [ ] Creating a new digital tool
+- [ ] Updating an existing form or tool
+- [ ] Translating a form or tool into Spanish
+- [ ] Adding new unauthenticated content to VA.gov
+- [ ] Updating existing unauthenticated content on VA.gov
+- [ ] Something else:  `insert description`
+
+### What's the nature of your initiative and desired outcomes?
+
+`Tell us briefly about your work and the outcomes you’re aiming to achieve.`
+
+## Collaboration timeframe
+
+**Note:** We work on nearly every OCTO product and manage all unauthenticated content on VA.gov, so we will need to prioritize intake requests based on overall workload and VA and OCTO priorities.
+
+### Is this work tied to a Congressional mandate, change in law or policy, or upcoming event with a specific deadline?
+- [ ] Yes
+- [ ] No
+- [ ] I’m not sure
+
+### Where are you at in your timeline?
+Tell us briefly about what you're working on now (such as initial discovery, wireframing, or usability research planning) and add any known dates for upcoming milestones or deadlines.
+
+`Enter your description here`
+
+## Collaboration cycle 
+
+### Which phases of the collaboration cycle have you completed?
+Select all that apply.
+- [ ] Design intent 
+- [ ] Midpoint review 
+- [ ] Staging 
+- [ ] None. This initiative isn’t going through the collaboration cycle.
+
+### Collaboration cycle ticket 
+
+If you’re going through the collaboration cycle, provide your ticket number and link:
+- **Ticket Number:** `xxxxxx`
+
+## Supporting artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content.
+- [Supporting artifact <name>](https://va.gov) `placeholder link`
 
 ## Next steps
+- [ ] Post a link to this issue in the [#sitewide-content-sitewide-content-accessibility-ia](https://dsva.slack.com/channels/sitewide-content-accessibility-ia) slack channel and tag `@Terry Nichols`. We’ll reply within 24 hours to acknowledge receipt. We'll then review the artifacts in more detail and work with you to determine timing for collaboration. Depending on the work, we may schedule a kickoff meeting to better understand how we'll partner together.
+- [ ] Review the remaining next steps in the **VFS team tasks** section here.
 
-**Once you’ve submitted this ticket, please post a link to this issue in the [#sitewide-content-ia](https://dsva.slack.com/channels/sitewide-content-ia) Slack channel and tag Randi Hecht.**
+## Tasks
 
-If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
-  
-If you need a page/URL redirected, a URL changed or a vanity URL set up, please submit a [Redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=ia&template=redirect-request.md&title=Redirect+Request)
+<br>
+
+```[tasklist]
+### VFS team tasks
+- [ ] **If you also need engineering support from the public websites team**, fill out their intake request form as well.<br> [Open a public websites intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
+- [ ] **If you're requesting a page/URL redirect, a URL change, or a vanity URL**, submit an additional request for this work. <br> [Open a redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+jilladams%2C+RLHecht&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request)
+- [ ] **If you're creating an experimental design**, also contact the design system team. <br> [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) <br> [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
+- [ ] **If you're requesting a11y support for usability research**, submit a research support request next. <br> [Open an a11y research support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
+```
+
+```[tasklist]
+### CAIA a11y tasks
+- [ ] A11y task 1
+- [ ] A11y task 2
+```
+
+```[tasklist]
+### CAIA content tasks
+- [ ] Content task 1
+- [ ] Content task 2
+```
+
+```[tasklist]
+### CAIA IA tasks
+- [ ] IA task 1
+- [ ] IA task 2
+```
+
+```[tasklist]
+### CAIA operations
+- [ ] Set up kickoff meeting - @coforma-terry and @strelichl 
+- [ ] Provide GitHub deliverable to VFS team post kickoff
+```
+
+
+
+

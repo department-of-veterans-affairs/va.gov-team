@@ -19,7 +19,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to web page:* **[bit.ly/41Yy7wz](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=0%3A1&node-id=5%3A1001&viewport=1731%2C1829%2C0.48&scaling=min-zoom&starting-point-node-id=5%3A1001&hotspot-hints=0&hide-ui=1)**
+- *Open a standalone browser window to web page:* **[https://bit.ly/3zuL4Be](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=201%3A1943&node-id=202-4360&viewport=1270%2C1287%2C0.36&scaling=min-zoom&starting-point-node-id=202%3A3001&hotspot-hints=0)**
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -36,7 +36,7 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
-There are a few of my teammates who would like to observe this session and take notes. **Would it be OK with you if I invited them to join us?**
+There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
 - *(NOTETAKER & OBSERVERS JOIN w/cameras ON )* We have a few people from the team listening in today: there's [NAME] *(wave or say "hi")*, [NAME] *(wave or say "hi")*, etc. *(If I don't know the name of one of the observers, ask them to please turn on their camera and say their name aloud)*
@@ -56,9 +56,9 @@ Before we start, I want to go over a few things:
 
 *Start recording to the cloud.*
 
-*Click Live Transcript and **Enable**, or Show Captions*. 
+*Click Live Transcript and **Enable**, or **Show Captions**.* 
 
-*Click Live Transcript > View Full Transcript*
+*Click **Live Transcript > View Full Transcript***
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -67,10 +67,10 @@ Before we start, I want to go over a few things:
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
-- iPad: Broadcast screen
+- iPad: **Broadcast screen**
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
@@ -104,7 +104,7 @@ Let’s start with a few questions...
 
 
 ## User Tasks
-Now I'm going to ask you to do some things... 
+Now I'm going to ask you to do some things... ***Reassure if p nervous or says they feel dumb or embarrassed***
 
 ### Screen sharing
 I would like you to share your phone screen with me so that I can see what you do during this session. You might want to first close any apps that you don’t want me to see.
@@ -120,6 +120,8 @@ I would like you to share your phone screen with me so that I can see what you d
 
 *if they have a VA pension, do they say that income limits don't apply to them? Y / N / ____________*
 
+I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
+
 Can you show me how you would find out if you're eligible for VA health care with your current income?
 
 - *RECORD what they do: Google / VA.gov / words looking/searching for: _______________________*
@@ -128,25 +130,26 @@ Can you show me how you would find out if you're eligible for VA health care wit
 
 ### Task 2: [Open prototype] 
 
-I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive, and so before clicking anywhere, I'd like you to tell me what you might do.
+I have a web page that I'd like you to look at while you're sharing your screen with me over Zoom. It's a prototype that isn't very interactive–some things work, and many things do not. I'd like you to talk to me about what you want to do BEFORE you click anything.
 
-While you're looking at the prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, and what you're unsure about. I'm looking for **your feedback**, including any issues that you see or questions that you have. 
-
-I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **bit.ly/41Yy7wz**
-- *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'll have you start from a URL that I'm going to *[dictate/put into the Zoom chat]* for you to click on: **https://bit.ly/3zuL4Be**
+- *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Do you see the link? 
 
-*If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
+- *If see “unsupported browser” error, ask to try a different browser or device, or share my screen and mouse control*
+- *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 What are your impressions of what you're looking at? *(RECORD)*
 
 Could you try to use this to find out if you're eligible for VA health care with your current income? Please explain what you want to do before clicking anywhere.
-- *(Click: income limits--under "Will I need to pay..." or "Does VA verify..."?)*
+- *(Click: income limits--under "Will I need to pay..." (w/other links) or "Does VA verify..." (lone link)?)*
 
 ### Task 3: [Intro page of app] 
 Let's talk before you click anywhere...What are your impressions of this page?
 What do you think you can do here?
+
+*(does p think this tool will ask about disability rating and other factors, or income limits?)*
 
 Do you think this tool would be useful for you or not? WHY?
 *(want to get a sense for HOW useful it might be for them)*
@@ -159,7 +162,7 @@ If not, who would it be useful for?
 ### Task 4: [Answer questions in app] 
 How would you use this? Please talk me through what you would do, but **do not** click anywhere yet.
 
-- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your own information, but it will jump to a new screen with some information already filled out. I'd like to you tell me what you would enter for yourself or what questions you have about it.
+- *(when click on an entry field and then see different info)* This prototype isn't interactive enough to let you enter your own information, but it will jump to a new screen with some information already filled out. I'd like you to tell me what you would enter for yourself or what questions you have about it.
 
 - *(RECORD all comments and anything confusing re the interactions on each screen of the prototype:)*
   - *Pension--*  
@@ -197,6 +200,7 @@ If your salary last year was around $90,000, what might that mean? *(RECORD)*
 How sure are you that these benefits *would apply* if your salary was around $90,000?
 
 - *(Could probe)* How certain are you that you *don't qualify for more benefits*? 
+- Is there anything that might affect the income number that you use here? *(e.g., deductions)*
 
 What if your salary was around $100,000? *(RECORD)*
 
@@ -221,7 +225,8 @@ How did this tool help or not help you decide what to do?
 
 ### Task 7: [Check info entered]
 Now you want to check whether you entered your location correctly. How could you do that? 
-- *(RECORD: Review info link / Back in browser to review page or zip code screen / ________________)*
+- *(RECORD: Review info entered > Edit / Back in browser to review page or zip code screen / ________________)*
+  - *Any difficulty finding the “Review info entered” link? Y / N*
 - *If surprised by dependents screen, ask what they expected to see (Continue button --> Review page?)*
 
 ### Task 8: [Change year]
@@ -243,7 +248,7 @@ Suppose that you’re in the process of appealing a health care claim from 2021,
 ## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. How or where would you expect to find this app that you just used?
+1. How or where would you expect to find this tool that you just used?
 1. What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?

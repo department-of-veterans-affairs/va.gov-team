@@ -12,10 +12,10 @@ Part 2 Remote
 # Background
 
 
-### In an effort to build continuous research into the mobile app team, we are looking to meet with Veterans who currently use the VA Health and Benefits app in order to understand the specific details of their current experience.
+#### In an effort to build continuous research into the mobile app team, we are looking to meet with Veterans who currently use the VA Health and Benefits app in order to understand the specific details of their current experience.
 
 
-### This research initiative will focus on uncovering the experience Veterans have using the VA Health and Benefits app. We will build on the insights surfaced in the original discovery research studies conducted prior to the app’s launch, and through this initiative we will seek to uncover new insights in order to help shape the app’s future roadmap.
+#### This research initiative will focus on uncovering the experience Veterans have using the VA Health and Benefits app. We will build on the insights surfaced in the original discovery research studies conducted prior to the app’s launch, and through this initiative we will seek to uncover new insights in order to help shape the app’s future roadmap.
 
 
 ### **OCTO Objectives**

@@ -32,24 +32,30 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us - Product manager
-- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com -- Product manager
-- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us - Sr UX Design/Research
-- David "DK" Kennedy | david.kennedy@va.gov / david.kennedy@adhocteam.us - UX Designer
-- Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us - Sr Frontend Engineer
-- Erin Flaherty | erin.flaherty@va.gov / erin.flaherty@adhocteam.us - Sr Frontend/QA Engineer
-- Lihan Li | han.li@va.gov / lihan@adhocteam.us - Backend Engineer
-- Joshua Drumm | joshua.drumm@agile6.com - Backend Engineer
-- Luis Simauchi | luis.simauchi@adhocteam.us -- Sr Data Analyst
+- Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice" - Product manager
+- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
+- Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
+- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
+- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto" - UX Design/Research
+- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
+- Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
+- Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
+- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com / GH "jadon1979" - Full Stack Engineer
+- Lihan Li | han.li@va.gov / lihan@adhocteam.us / GH "lihanli" - Backend Engineer
+- Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
+- Fletcher Bonds | VA EMAIL TBD / fletcher.bonds@adhocteam.us / GH "fbonds" - Sr Engineer/QA
+- Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
 
 
 ### OCTO-DE team
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
+- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov - Content writer
+- Danielle Thierry | danielle.thierry@va.gov - Lead Content writer
 
 ---
 

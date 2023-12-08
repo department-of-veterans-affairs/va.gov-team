@@ -102,5 +102,6 @@ _Are other features dependent on this one? What do we need from partners? What d
 - Existing functionality for searching VHA (including Vet Centers), VBA and NCA facilities will be maintained. 
 
 ### Key Links
-_Links to requirements documentation, wireframes/mock-ups, research, etc._
-
+- [UI: Consistent community urgent care results, regardless of path #9615](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9615)
+- [Add to query parameters for FL troubeshooting #19366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19366)
+- [Merge and sort urgent care mash-up results on the FL front end #19959](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19959)

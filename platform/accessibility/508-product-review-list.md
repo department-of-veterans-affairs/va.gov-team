@@ -1,4 +1,14 @@
-\*This page will no longer be maintained as of 4/29/2021. Another work product is in progress for tracking and reporting accessibility health for products across VA.gov. Please contact Platform team if you have any questions.
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
+
+> ⚠️ @joshkimux has went through all remaining tickets and added labels for them to be tracked in the [new a11y product health dashboard here](https://docs.google.com/spreadsheets/d/1lgzMiZZ-0rBPDuB2gRupBAjsyF0WTe005VvEHYrMxww/edit?usp=sharing)
 
 # Product list for 508 testing
 
@@ -118,7 +128,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
-### Design System
+### Design System 
 
 **Maintainer:** VSP<br/>
 **Audit Status:** _[Audit completed by VSP as of June 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)_<br/>
@@ -133,42 +143,21 @@ Each application or logical section of the site will have a heading and a detail
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Forms Library
+### Forms Library 
 
 **Maintainer:** VSP<br/>
 **Audit Status:** _Engineering review underway by VSP as of May 2020._<br/>
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Aforms)**<br/>
 
 **Open Issues**
-- [[COGNITION]: STEM Standalone - Heading levels SHOULD only increase by one - #12339](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12343)<br/>
-**Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [sitewide, forms - 508-defect-2 [KEYBOARD]: Profile 2.0 - Focus MUST be managed when users switch from the read-only to edit in place UI - #11965](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11965)<br/>
-**Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
-**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: Inline error messages are announcing to IE11 + JAWS when error appears and when it disappears - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: STEM Standalone - Home phone number SHOULD be formatted like mobile number on the review form page - #12340](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12343)<br/>
-**Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-- [[SEMANTIC HTML]: Fieldsets SHOULD NOT be nested in another fieldset in forms library constructs - #12718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
-**Production** | **Opened:** August 21, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-- [[SCREENREADER]: VET TEC - NVDA does not read the error if I forget to agree to the privacy policy - #1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
-**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-- [[IMPROVEMENT]: STEM Standalone - CONSIDER using a higher resolution image for the personal check in Step 5 - #12343](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12343)<br/>
-**Production** | **Opened:** August 10, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
-- [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-**Production** | **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-- [[COGNITION]: CONSIDER revising content and adding aria-describedby to online form calls to action - #12723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12723)<br/>
-**Production** | **Opened:** August 21, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
-- [508-defect-4 [SEMANTIC HTML]: Multi-step form headers should not have extra ARIA attributes - #19953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19953)<br/>
-**Production** | **Opened:** February 12, 2021 | **Severity:** 508-defect-4 - **_Trivial_**
+
 
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Sitewide
+### Sitewide 
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -234,7 +223,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Sitewide TTY Review
+### Sitewide TTY Review 
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
@@ -608,7 +597,7 @@ Back to [Table of Contents](#table-of-contents)
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### VFS Education
+### VFS Education 🔖
 
 #### Colmery Act Opt Out
 

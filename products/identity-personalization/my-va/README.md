@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: March 28, 2023 - added Getting started md file to Frontend section**
+**Last updated: December 1, 2023 - Removing notifications as a feature**
 
 ### Communications
 
@@ -9,15 +9,7 @@
 
 ### Roles
 
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Bernadette Xiong| Delivery Manager | berni.xiong@agile6.com |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Angela Agosto |Designer| angela.agosto@adhocteam.us |
-|Allison Lu| FE Engineer|	allison@cityfriends.tech |
-|Derrick Ellerbie | Full Stack Engineer | derrick.ellerbie@Agile6.com|
+[My VA is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 
 ### Table of Contents
@@ -28,11 +20,12 @@
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Projects](#projects)
-- [Measuring Success](#measuring-success)
+- [Analytics](#analytics)
 - [Platform Documentation](#Platform-Documentation)
 - [Design](#Design)
 - [Frontend](#Front-End)
 - [Backend](#Back-End)
+- [Security](#Security)
 - [How to Access and Test](#How-to-Access-and-Test)
 
 
@@ -47,10 +40,10 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 |My VA feature| Description | Parent tool on VA.gov | Backend systems | Backend partner contact info|
 |-------------|-------------|--------------------|-----------------|------------------------------|
 | Nametag - Full name| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in the full name for all LOA3 users.| N/A|MPI| Go through [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) instead of going straight to MPI|
-|Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | EVSS | Go through [#benefits-disability-experience](https://dsva.slack.com/channels/benefits-disability-experience)|
+|Nametag - Disability rating| The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's disability rating, if applicable.| [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/) | EVSS | Go through [#benefits-ce-disability_exp_1](https://dsva.slack.com/archives/C04KW0B46N5)|
 |Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)| VA Profile | Go through the profile team, or contact VA Profile ([#va-profile](https://dsva.slack.com/channels/va-profile); main contact is Mike Richard) directly|
-|Notifications| This section displays recent notifications.| Email/text notifications managed through VANotify | VANotify| [#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public); Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)|
-|Claim status| This shows someone's most recent claim status update and links to the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | EVSS | Go through [#benefits-claim-appeal-status](https://dsva.slack.com/channels/benefits-claim-appeal-status) |
+|~Notifications~ We decomissioned our MVP and have put notifications work on hold as of Fall 2023| ~This section displays recent notifications.~| ~Email/text notifications managed through VANotify~ | ~VANotify~| ~[#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public); Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)~|
+|Claim status| This shows someone's most recent claim status update and links to the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | Lighthouse | Go through [#benefits-claim-appeal-status](https://dsva.slack.com/channels/benefits-claim-appeal-status) |
 |Health care -- Appointment info | This section shows someone's next upcoming appointment info, if applicable, and links to the appointment tool.| [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) | VAOS | Go through  [#vaos-team](https://dsva.slack.com/channels/vaos-team)|
 |Health care -- Unread messages| This section shows if someone has unread messages, and links to the secure messaging tool.| N/A - Unread messages are currently in My Healthevet| MHV| Go through [#mhv-secure-messaging](https://dsva.slack.com/channels/mhv-secure-messaging)|
 |Outstanding debts| This section shows someone's most recent debts and copays. | [Manage your VA debt](https://staging.va.gov/manage-va-debt/summary/)|DMDC for debts; Not sure for copays | Go through [#benefits-debt-resolution](https://dsva.slack.com/channels/benefits-debt-resolution)|
@@ -133,10 +126,43 @@ _Why would your business want this to exist?_
 
 - [My VA Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1167851935%3FuserId%3D1322887837)
 - [My VA dashboard in Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20220525&_u.date01=20220531/)
+- [Additional analytics resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/product/analytics)
 
 ## Projects
 
-[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md).
+### Current projects
+
+|Project|Epic|Status|
+|----|----|---|
+| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | In development | 
+|[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | In development |
+|My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
+
+### Completed projects & enhancements
+
+<details>
+
+<summary>Completed projects & enhancements</summary>
+
+|Project|Epic|Launch/Completion date|
+|----|----|----|
+|[Remove "notifications" section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#project-outline-on-site-notifications-mvp)|[#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611) | October 3, 2023|
+|[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates)| [#63424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
+|[Updates to appointments links + Cerner alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#updates-to-appointment-links-and-cerner-alert) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | September 2023 |
+|[Dot indicator experiment + implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/README.md) | [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788) | September 2023 |
+|[Benefit Application Drafts enhancments (Hiding the "what benefits does VA offer menu")](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/benefit-application-drafts-updates)| [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)|September 2023|
+|[Claim status EVSS > Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#readme)| [#54403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/54403) | August 28, 2023 |
+|[Show all sections all the time (aka My VA audit)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2022-audit#project-outline-my-va-audit-updates-and-documentation)| [#41934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41934) | April 25, 2023 |
+|Launch VAOS v2 integration | [#41202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41202)|December 19, 2022|
+|Update Cerner module to be powered by Drupal | [#47956](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47956)| Launched December 13, 2022|
+|[Payments and debts V2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#v2-updating-payments-and-debts-to-address-usability-issues-may-2022---december-2022)| [#43332](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337) | Launch completed December 12, 2022|
+|[My VA redirect](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-redirect#readme)| [#41223](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41223) | Completed September 12, 2022|
+|[Add payments & financials section to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#mvp-adding-payments-and-debts-to-my-va-october-2021---may-2022-1)| [#43337](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43337) | Launch completed May 2022|
+|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)| [#25886](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25886) | Completed August 2021|
+|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | [#6326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326) | Launch completed July 2021 |
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | | Launch completed Spring 2018 |
+
+</details>
 
 ## Platform Documentation
 
@@ -149,8 +175,12 @@ _Why would your business want this to exist?_
 - [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
 - [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
 - My VA flows
-  - [Debts & copays](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
+  - [Claims and appeals](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4444BC2A-797F-4000-A125-31B83F7E817F/canvas)
+  - [Health care](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)
+  - [Outstanding debts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
   - [Benefit payments](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGgwY0O)
+  - [Education and training](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4D97AF62-70A3-4455-9ED2-96051880E836/canvas)
+  - [Benefit application drafts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/E3464BF1-33D0-4FE6-8B5A-35CD5B7AC594/canvas)
 
 ### Screenshots
 
@@ -177,15 +207,33 @@ _Why would your business want this to exist?_
  ![My VA w/onsite notifications and payments V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/19911c5a-6d17-40f2-94a4-7cefed5d7d7f.png)
  
  </details>
+ 
+ <details><summary>Implementation of Audit UX Improvements (reduction of conditional states) -- April 2023</summary>
+ 
+ ![My VA audit UX improvements 2023](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/5ef20fa8-b0cc-4099-b8e3-df9782c71961)
+ 
+ </details>
 
 ## Front End
-
-- [Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- [General: Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
+- Latest FE documentation:
+   - [White card use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component/white-card-component-FE-documentation.md)
+   - [LOA1 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates/LOA1-FE-documentation.md)
+   - [Claims and appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/claims-and-appeals-FE-documentation.md)
+   - [Health Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration/FE-documentation/linking-to-mhv-from-my-va-health.md) (WIP)
+   - [Outstanding Debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/outstanding-debts-FE-documentation.md)
+   - [Benefit Payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/benefit-payments-FE-documentation.md)
+   - [Education & Training](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
+   - [Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md#my-va-benefit-application-drafts-frontend-documentation) 
 
 ## Back End
 
+- [My VA Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/backend_documentation.md#my-va-backend-documentation)
 - [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
 - [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
+
+## Security
+Latest security playbook: [My VA Health Care section - Dot Indicator on Unread Health Care Messages Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/launch-materials/dot-indicator-on-my-va-security-playbook.md)
 
 ## How to Access and Test
 

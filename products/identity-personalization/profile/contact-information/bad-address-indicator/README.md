@@ -1,6 +1,6 @@
 # Project outline: Add a bad address indicator for mailing addresses
 
-**Last Updated: January 3, 2023**
+**Last Updated: November 9, 2023** add link to GA dashboard
 
 ### Communications
 
@@ -126,9 +126,12 @@ Our main objective is to reduce the amount of mail returned to the VA. However, 
 
 ### Metrics to track once the email notification goes out
 
+The metrics weeren't ultimately tracked when launched. [The GA Dashboard for this can be found here.](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 <details>  <summary>Bad address email</summary>  
 
 ### Objective: Reduce number of people with the bad address indicator
+
+- [GA Dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/_u.date00=20231001&_u.date01=20231031/)
 
 **Key Result #1** -- Establish baseline metric for what % of 10K people receiving this email update their mailing address (we will determine this by seeing how many of them have the bad address indicator removed)
 

@@ -30,14 +30,18 @@
 ## CMS account verification
 
 **VAMC**
-- Person to contact for verification: Stan Gardner or Lisa Trombley (who will check with VHA Digital Media)
+- Person to contact for verification: VHA Digital Media
 - How to reach them: Slack channel vamc-editor-support
 - Training required for prod account activation? Yes.
+- After editor completes training: in Prod, make sure the editor has the roles of Content Creator-VAMC and Content Publisher, and change their status to Active.
 
 **Vet Center**
 - Person to contact for verification: email jessica.schiefer@va.gov
 - How to reach them: email
 - Training required for prod account activation? no, but have Michelle send kick-off email with attachments
+
+**Veterans Benefits Administration**
+- Regional Office Pilot MVP will consist of editors from 7 selected offices. Their names come directly from VBA central, so no ad hoc requests should be coming in. If they do, please alert Michelle to discuss with VBA central.
 
 **Benefits hubs**
 - Person to contact for verification: Randi Hecht and Danielle Thierry

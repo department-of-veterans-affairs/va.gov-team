@@ -7,24 +7,24 @@ Welcome to the Identity folder. This directory contains information about user i
 ## Current Team Objectives
 
 
-### [Sign-in Service](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/42469) 
+### [Sign in Service](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/42469) 
 _Current Status:_ Actively working on this.  Currently performing testing.
-We are working to stand up a new sign-in service for VA.gov, and ultimately other VA and .gov properties.  The goal is to replace the existing SSOe solution with a newer, faster, and more cost-effective solution built on modern, scalable technologies.  We are currently performing initial tests of our web-based Sign-in Service, as well as working with the VA.go mobile team to implement the service within their app.  Our target for the mobile app is to begin limited user testing in September.
+We are working to stand up a new sign in service for VA.gov, and ultimately other VA and .gov properties.  The goal is to replace the existing SSOe solution with a newer, faster, and more cost-effective solution built on modern, scalable technologies.  We are currently performing initial tests of our web-based Sign in Service, as well as working with the VA.go mobile team to implement the service within their app.  Our target for the mobile app is to begin limited user testing in September.
 
 **Key Information**
 - Our new service is built and on VA.gov, however we use flippers to enable/disable it for testing
-- Most recent tests for 10% and 30% of VA.gov users went well, documentation is available in the Sign-in Service Directory
-- Limiting factor is that our sign-in service does not work with outbound SSO.  Users coming _to_ VA.gov from elsewhere will be automatically signed in, but users going from VA.gov to other properties such as MHV will have to sign in again.
+- Most recent tests for 10% and 30% of VA.gov users went well, documentation is available in the Sign in Service Directory
+- Limiting factor is that our sign in service does not work with outbound SSO.  Users coming _to_ VA.gov from elsewhere will be automatically signed in, but users going from VA.gov to other properties such as MHV will have to sign in again.
 - Our service offers improvements in both sign-in time and issue resolution time over the existing service.
 
 **What's next**
-- Flagship mobile rollout: We will need to support this team as they roll our Sign-in Service out.
+- Flagship mobile rollout: We will need to support this team as they roll our Sign in Service out.
 - VA.gov rollout: We would like to permanently shift 30% of user traffic on VA.gov to our service.  This will help us identify and resolve any issues, and provide us with valuable data.
-- Partner rollout: Bringing other VA properties such as MHV onto our sign-in service will add SSO functionality 
-- Terms and Conditions: The VA is working to roll out unified terms and conditions, we want to implement this in our sign-in service.  See the Terms and Conditions item below for more details.
+- Partner rollout: Bringing other VA properties such as MHV onto our sign in service will add SSO functionality 
+- Terms and Conditions: The VA is working to roll out unified terms and conditions, we want to implement this in our sign in service.  See the Terms and Conditions item below for more details.
 
 **Why does it matter?**  
-The existing system (IAM/ISAM) is built on older technology.  It provides a less than ideal user experience due to issues with certain browsers, long sign-in times, and a high cost to the VA.  Additionally, it is an opaque system where we are reliant on a third-party (IAM) for any fixes.  Our sign-in service is built on a modern technology stack, offers improved performance and significant cost savings, as well as allowing for future development and easy resolution of issues.  
+The existing system (IAM/ISAM) is built on older technology.  It provides a less than ideal user experience due to issues with certain browsers, long sign-in times, and a high cost to the VA.  Additionally, it is an opaque system where we are reliant on a third-party (IAM) for any fixes.  Our sign in service is built on a modern technology stack, offers improved performance and significant cost savings, as well as allowing for future development and easy resolution of issues.  
 
 
 ### [Inherited Proofing ](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/34838) 
@@ -44,9 +44,9 @@ Due to recent (2020) executive orders, legacy CSP's such as My HealtheVet and DS
 At present, our objective is for Design (Amanda) and Front-end (Alex, Afia) to update our wireframes based on our research and then migrate those wireframes into code.  Once this is done, we just need to wait for Login.gov to complete their side of things.  Our goal is to begin transitioning eligible users before EOY 2022.
 
 ### [Terms and Conditions](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/45895)
-_Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign-in service.  
+_Current Status:_ Waiting for the OCC team running this to decouple from Cerner.  This will allow the solution to be implemented with the current SSOe workflow, as well as our upcoming sign in service.  
 
-Within the VA and its associated properties such as MHV, there is a need to roll out a unifed Terms and Conditions for users to accept.  The goal of this work is to provide a single point for updating and tracking acceptance of the Terms and Conditions in a clean, auditable manner.  At present this work is relatively minimal on our part, as the existing solution is being decoupled from CERNER and rolled into the IAM/SSOe user flow.  However, as we roll out our sign-in service, we will need to implement the existing solution with an eye towards potentially making our own.
+Within the VA and its associated properties such as MHV, there is a need to roll out a unifed Terms and Conditions for users to accept.  The goal of this work is to provide a single point for updating and tracking acceptance of the Terms and Conditions in a clean, auditable manner.  At present this work is relatively minimal on our part, as the existing solution is being decoupled from CERNER and rolled into the IAM/SSOe user flow.  However, as we roll out our sign in service, we will need to implement the existing solution with an eye towards potentially making our own.
 
 **Key Information**
 - Goal is for a single set of terms and conditions across all VA properties
@@ -55,7 +55,7 @@ Within the VA and its associated properties such as MHV, there is a need to roll
 - When a new version is released, users should be presented with that and have to accept again 
 
 **What's Next**
-- Once the existing solution is decoupled from Cerner (by the OCC Team), we should evaluate it for implementation in the sign-in service
+- Once the existing solution is decoupled from Cerner (by the OCC Team), we should evaluate it for implementation in the sign in service
 - We will likely need to do some work in support of the system being utilized by IAM in the interim
 
 ### [VA Identity Asset Identification and Improvement](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/department-of-veterans-affairs/va.gov-team/47224)

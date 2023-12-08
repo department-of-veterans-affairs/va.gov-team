@@ -51,7 +51,8 @@ Veterans find it difficult to submit a travel reimbursement claim and often wait
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43074)
 
 ### Initiative Launch Dates
-- December 2022
+- Pilot - June 26 - July 31 2023
+- Release - TBD
    
 ## Screenshots
 

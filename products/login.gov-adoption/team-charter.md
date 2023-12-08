@@ -50,7 +50,7 @@ If you cannot attend please notify the team in the slack #cedar-identity-product
 
 ### Sprint Planning: 
 
-This is a bi-weekly meeting on the 1st Thursday of every sprint. It lasts up to 4 hours. We use this meeting to outline team and member focus, dicuss and estimate user stories, and set goals for sprint. This meeting is attended by the Product Team, PM, DSVA Lead, and the VA Product Owner 
+This is a bi-weekly meeting on the 1st Thursday of every sprint. It lasts up to 4 hours. We use this meeting to outline team and member focus, dicuss and estimate user stories, and set goals for sprint. 
 
 Prior to Sprint Planning
 * User Stories should be estimated using Story Points 
@@ -76,14 +76,14 @@ An activity held in preparation for Sprint Planning to:
 
 ### Backlog Refinement:
 
-Thi is a bi-weekly meeting on the 2nd Thursday of every sprint where the Product Owner and PM groom the Backlog (description below), along with available members of the Product Team. It lasts up to 2 hours. We use this meeting to assess and update workloads for the remainder of sprint and loosely discuss next/future sprint(s). To do this, we walk through each team member's Zenhub tickets to make sure tickets are ready to be discussed by sprint planning. By the end of refinement:
+Thi is a bi-weekly meeting on the 2nd Thursday of every sprint where the Product Owner and PM groom the Backlog (description below), along with available members of the Team. It lasts up to 2 hours. We use this meeting to assess and update workloads for the remainder of sprint and loosely discuss next/future sprint(s). To do this, we walk through each team member's Zenhub tickets to make sure tickets are ready to be discussed by sprint planning. By the end of refinement:
 - 100% of tickets have are associated with an epic.
 - 100% of tickets have acceptance criteria.
 - 100% of tickets are appropriately labeled.
 
-We each review `needs-grooming` tickets within our associated discipline (determined by the right GitHub label e.g. `frontend`) before refinement.
+We each review `needs-refinement` tickets within our associated discipline (determined by the right GitHub label e.g. `frontend`) before refinement.
 
-* Grooming may include the following:
+* Refinement may include the following:
   * Adding items
   * Removing Items
   * Changing Priority
@@ -119,7 +119,7 @@ Each VSA product team has the opportunity to share things they’re most excited
 
 ### Sprint Retrospective:
 
-This is a bi-weekly meeting on the 2nd Wednesday of every sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. It is timeboxed at 1.5 hours. 
+This is a bi-weekly meeting on the 2nd Wednesday of every sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. It is timeboxed at 1 hour. [Retrospective Board](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1677768711421/aad15b9308afe560c52a1beddefe388840ae239d?sender=u258844ddcb06996a24bf4390)
 
 * Retrospective discussion points:
   * What went well?

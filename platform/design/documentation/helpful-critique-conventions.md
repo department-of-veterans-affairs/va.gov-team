@@ -1,3 +1,15 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
 Note: this is somewhat duplicative of [an exisiting design review doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/documentation/design-review-process.md) but I don't have time to merge the two at the moment
 
 # Critique conventions

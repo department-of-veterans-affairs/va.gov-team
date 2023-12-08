@@ -94,7 +94,7 @@ Answer: You can find more detailed data in Domo and can filter by template and/o
 
 ### Onsite notifications we should definitely add
 
-[Link to screenshots from VA Notify platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/notifications-v2/product/VANotify-template-screenshots.md)
+[Link to screenshots from VA Notify platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/product/VANotify-template-screenshots.md)
 
 Based on my discovery above, I think the following are immediate candidates for onsight notifications:
 

@@ -1,12 +1,27 @@
-# Sign-in Service (SiS)
+# Sign in Service (SiS)
 
 ## Overview
-The Sign-in Service was created to solve the shortcomings identified with the current VA.gov authentication solution. The new service provides a more reliable and faster user experience, increases the ability to iterate on enhancing user satisfaction, and provides a more cost-effective solution to VA while increasing transparency for login issues.
+
+The Sign in Service was created to solve the shortcomings identified with the current VA.gov authentication solution. The new service provides a more reliable and faster user experience, increases the ability to iterate on enhancing user satisfaction, and provides a more cost-effective solution to VA while increasing transparency for login issues.
 
 ### Our OAuth workflows
-Sign-in Service makes use of the PKCE, or `Proof Key for Code Exchange`, OAuth flow. PCKE makes use of a dynamically generated client secret to bridge the potential security gap between user authentication and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). Sign-in Service is configured to serve both browser authentication from vets-website and mobile/API authentication for the VA mobile app and other third-party services. The two workflows are largely similar but have key differences on how they handle OAuth authentication.
-- [Website / Cookie Authentication Guide](Sign-in-service_Web-OAuth.md)
-- [Mobile / API Authentication Guide](Sign-in-service_Mobile-OAuth.md)
+
+Sign in Service makes use of the PKCE, or `Proof Key for Code Exchange`, OAuth flow. PCKE makes use of a dynamically generated client secret to bridge the potential security gap between user authentication and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). Sign in Service is configured to serve both browser authentication from vets-website and mobile/API authentication for the VA mobile app and other third-party services. The two workflows are largely similar but have key differences on how they handle OAuth authentication.
+
+- [Website / Cookie Authentication Guide](auth_flows/web_oauth.md)
+- [Mobile / API Authentication Guide](auth_flows/mobile_oauth.md)
+
+### JWT Auth & Service Account Auth
+
+Sign in Service has been updated to allow for two types of backend authentication:
+
+- [Private Key JWT](auth_flows/private_key_jwt.md): This flow allows a backend API unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by their pre-registered private key.
+
+- [Service Account Auth](auth_flows/service_account.md): this flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
+
+### Client Configuration
+
+In order to make use of the Sign in Service clients must register a `Client Configuration` to manage their authentication type, URI redirects, token durations, and other configurable options. More information on how to create and configure your applications Client Configuration [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
 
 ### Differences between web & mobile workflows
 

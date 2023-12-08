@@ -1,0 +1,118 @@
+﻿FSR URLS,,
+Chapter,Page,URL
+Veteran Information,Veteran information,/veteran-information
+,Available debts,/all-available-debts
+,Contact information,/contact-information
+,Current contact information,/current-contact-information
+,Edit mobile phone,/edit-mobile-phone
+,Edit email address,/edit-email-address
+,Edit mailing address,/edit-mailing-address
+,Spouse information,/spouse-information
+,Spouse name,/spouse-name
+,Dependents,/dependents-count
+,Dependent ages,/dependent-ages
+,,
+Household Income,Employment,/employment
+,Employment records (nonenhanced),/employment-records
+,Employment question,/employment-question
+,Employment records (enhanced),/enhanced-employment-records
+,Employment work dates,/employment-work-dates
+,Gross monthly income,/gross-monthly-income
+,Payroll deduction checklist,/deduction-checklist
+,Payroll deduction input list,/deduction-values
+,Employment history summary,/employment-history
+,Income,/income/:index
+,Benefits,/benefits
+,Benefits (enhanced),/your-benefits
+,Edit enhanced benefits,/edit-benefits
+,Social security,/social-security
+,Social security records,/social-security-records
+,Additional income,/additional-income
+,Additional income records,/additional-income-records
+,Additional income checklist,/additional-income-checklist
+,Additional income values,/additional-income-values
+,Other income summary,/other-income-summary
+,Add other income,/add-other-income
+,Spouse information,/spouse-information
+,Spouse name,/spouse-name
+,Spouse employment question,/enhanced-spouse-employment-question
+,Spouse employment records (enhanced),/enhanced-spouse-employment-records
+,Spouse employment work dates,/spouse-employment-work-dates
+,Spouse gross monthly income (enhanced),/spouse-gross-monthly-income
+,Spouse payroll deduction checklist,/spouse-deduction-checklist
+,Spouse payroll deduction input list,/spouse-deduction-values
+,Spouse employment history,/spouse-employment-history
+,Spouse employment,/spouse-employment
+,Spouse employment records,/spouse-employment-records
+,Spouse income,/spouse/income/:index
+,Spouse benefits,/spouse-benefits
+,Spouse benefit records,/spouse-benefit-records
+,Spouse social security,/spouse-social-security
+,Spouse social security records,/spouse-social-security-records
+,Spouse additional income,/spouse-additional-income
+,Spouse additional income records,/spouse-additional-income-records
+,Spouse additional income checklist,/spouse-additional-income-checklist
+,Spouse additional income values,/spouse-additional-income-values
+,Spouse other income summary,/spouse-other-income-summary
+,Spouse add other income,/spouse-add-other-income
+,Dependents,/dependents
+,Dependent count,/dependents-count
+,Dependent records,/dependent-records
+,Dependent ages,/dependent-ages
+,,
+Household Assets,Cash on hand,/cash-on-hand
+,Cash in bank,/cash-in-bank
+,Streamlined short transition page,/skip-questions-explainer
+,Monetary assets,/monetary-assets
+,Monetary checklist,/monetary-asset-checklist
+,Monetary asset values,/monetary-asset-values
+,Real estate,/real-estate-assets
+,Real estate records,/real-estate-asset-records
+,Real estate (enhanced),/enhanced-real-estate-assets
+,Real estate records (enhanced),/enhanced-real-estate-asset-records
+,Vehicles,/vehicles
+,Vehicle records,/vehicle-records
+,Vehicle records (enhanced),/your-vehicle-records
+,Vehicles summary,/vehicles-summary
+,Recreational vehicles,/recreational-vehicles
+,Recreational vehicle records,/recreational-vehicle-records
+,Other assets,/other-assets
+,Other asset records,/other-asset-records
+,Other assets checklist,/other-assets-checklist
+,Other assets summary,/other-assets-summary
+,Add other asset,/add-other-asset
+,,
+Household Expenses,Expenses explainer,/expenses-explainer
+,Expenses explainer,/expenses-explainer
+,Household expenses checklist,/household-expenses-checklist
+,Household expenses input list,/household-expenses-values
+,Utilities,/utilities
+,Utility records,/utility-records
+,Utility bill checklist,/utility-bill-checklist
+,Utility bill values,/utility-bill-values
+,Utility bill summary,/utility-bill-summary
+,Add utility bill,/add-utility-bill
+,Repayments,/repayments
+,Repayment records,/repayment-records
+,Credit card bills,/credit-card-bills
+,Add edit credit card bill,/your-credit-card-bills
+,Credit card bill summary,/credit-card-bills-summary
+,Installment contracts,/installment-contracts
+,Add edit installment contract,/your-installment-contracts
+,Installment contract summary,/installment-contracts-summary
+,Other expenses,/other-expenses
+,Other expenses checklist,/other-expenses-checklist
+,Other expenses values,/other-expenses-values
+,Other expenses summary,/other-expenses-summary
+,Add other expenses,/add-other-expense
+,Strealined longform transition page,/skip-questions-explainer
+,,
+Resolution Options,Option explainer,/option-explainer
+,Resolution option,/resolution-option/:index
+,Resolution comment,/resolution-comment/:index
+,Resolution waiver check,/resolution-waiver-agreement/:index
+,Resolution comments,/resolution-comments
+,,
+Bankruptcy Attestation,Bankruptcy history,/bankruptcy-history
+,Bankruptcy history records,/bankruptcy-history-records
+,Bankruptcy history records (enhanced),/enhanced-bankruptcy-history-records

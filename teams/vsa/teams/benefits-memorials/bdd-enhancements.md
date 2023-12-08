@@ -6,7 +6,7 @@
 <details>
  <Summary>Examples:</Summary>
  
- - *Product: On-site Search | Initiative: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md)*
+ - *Product: On-site Search | Initiative: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md)*
  - *Product: VA.gov Profile | Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
  - *Product: Disability Claims | Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
  

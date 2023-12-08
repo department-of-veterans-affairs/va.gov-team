@@ -1,8 +1,8 @@
 <h2>Preferred Name & Gender Identity </h2>
 
-Epic: [4028](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028)
+Epic: [Profile: Preferred Name & Gender Identification Issue #: 4028](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4028)
 
-Epic: [4505](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4505)
+Epic: [Profile Nav Update - Breakout Personal Info & Contact Info Issue #: 4505](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4505)
 
 <h3>Goal</h3>
 

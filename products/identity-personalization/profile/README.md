@@ -1,11 +1,11 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: January 24, 2023**
+**Last Updated: October 10, 2023 -- updated completed projects**
 
 ## Table of Contents
 
 - [POCs](#pocs)
-- [Overview & features](#overview--features)
+- [Products & features](#products--features)
 - [Is VA Profile the same thing as the VA.gov profile?](#is-va-profile-the-same-thing-as-the-vagov-profile)
 - [Problem Statement](#problem-statement)
 - [Opportunities](#opportunities)
@@ -25,28 +25,20 @@
 
 #### Roles  
   
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|TBD |Product Manager|-|
-|Berni Xiong| Delivery Manager|berni.xiong@agile6.com|
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Florence McCafferty| Designer |Florence.McCafferty@agile6.com|
-|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-|TBD| Full Stack Engineer |-|
-|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
+[The VA.gov profile is maintained by the authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team).
 
 ---
 
-## Overview & features
+## Products & features
 
 The [VA.gov profile](https://staging.va.gov/profile) provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
 
-|Profile feature| Description | Backend tool | Backend tool contact info|
+|Profile product/feature| Description | Backend tool | Backend tool contact info|
 |---------------|-------------|--------------|--------------------------|
 |[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Full name| Shows  the full name for all LOA3 users.| MPI| [#vsp-identity](https://dsva.slack.com/channels/vsp-identity) |
 |[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Disability rating| Shows someone's disability rating, if applicable.| EVSS | [#benefits-disability-experience](https://dsva.slack.com/channels/benefits-disability-experience)| 
 |[Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) - Military info|Shows someone's military branch, if applicable.|VA Profile | [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
+|Profile Hub|Current work in progress|n/a|n/a|
 [Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)| Shows full name, date of birth, preferred name, gender identity, and disability rating| MPI for full name; VA Profile for gender identity and preferred name; EVSS for disability rating| MPI ([#vsp-identity](https://dsva.slack.com/channels/vsp-identity)); [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov); EVSS ([#evss-prod](https://dsva.slack.com/channels/evss-prod))|
 |[Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)| Shows home and mailing addresses, phone numbers, and email address| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
 |[Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)| Shows military branch(es) of service and service period(s)| VA Profile | [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)
@@ -55,6 +47,7 @@ The [VA.gov profile](https://staging.va.gov/profile) provides a centralized plac
 |[Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)| Allows people to update whether they'd like to receive particular notifications, and in what format| VA Profile| [#va-profile](https://dsva.slack.com/channels/va-profile) or Mike Richard (Michael.Richard2@va.gov)|
 |[Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/README.md)| Allows people to verify their identity and add 2FA | N/A | If there is an identity-related issue, contact [#vsp-identity](https://dsva.slack.com/channels/vsp-identity)|
 |[Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps)| Allows people to disconect third-party apps from their account | Lighthouse | Carey Otto (carey.otto@adhocteam.us)|
+|[Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/editing-as-a-subtask/README.md)|Allows users to more seamlessly update information 'in place'. Example opening notification settings, seeing an alert that in order to receive notifications a phone number must be on file, following a link to add a number.| | |
 
 ## Is VA Profile the same thing as the VA.gov profile?
 
@@ -103,12 +96,93 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Projects
 
-[Please see our roadmap for all current and past projects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md).
+### Current projects
+
+|Project|Status|
+|----|----|
+|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Preparing for Staging Review|
+|Enhanced Military Information|Discovery/Initial Design|
+
+### Completed projects & enhancements
+
+<details>
+
+<summary>Completed projects & enhancements</summary>
+
+#### General 
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Authenticated Menu Updates (adding Letters and Dependents)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter)|October 4, 2023|
+|[Disability rating EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md) |September 2023 |
+|[Semantic list improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618)|March 2023|
+|[MHV Profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Presented to stakeholders June 2022|
+|[Updated layout and button styles for better screen reader experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665) | Launched July 2021 | 
+|[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Launch completed October 2020|
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
+
+#### Personal information
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| Launched January 19, 2023|
+|[Ability to view and update preferred name and gender identity in the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)| June 2022|
+|[Remove "Gender" (aka sex assigned at birth) from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36009) | February 2022 |
+
+#### Contact information
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)|Launched completed October 24, 2022|
+|[Restricted character set for address fields to certain alphabetic and alphanumeric characters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45400)| August 2022|
+|[Modal that asks if you want to update your mailing address when you update your home address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33732)| July 2022|
+|[Remove requirement for international postal code](https://github.com/department-of-veterans-affairs/va.gov-team/issues/39775)| April 2022 |
+|[Remove Fax number field from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35975) | February 2022 |
+|[Add confirmation email for contact info updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8383) | Launched June 2021 |
+|[Add contact info FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)| Launched April 2021|
+|[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020||
+|[Add APO/FPO/DPO options for military base addresses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3209)| January 2020|
+|[VA Profile (formerly Vet360) initial integration for contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1) | Launch completed Summer 2018 |
+
+#### Military information
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Add DD214 link to military info page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48782)| November 22, 2022|
+|[Re-integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme) |August 2022|
+
+#### Direct desposit information
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Direct deposit for comp & pen EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readmee)| October 10, 2023|
+|[Remove conditional logic to show direct deposit section only to users who receive payments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40722)| June 2022|
+|[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Launch completed April 2021 |
+|[Direct deposit for comp & pen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/compensation-pension-project-outline.md) | Launch completed Jan 2020|
+
+
+
+#### Notification preferences
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Notification preferences: Default send & adding email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/default-send#readme)|Launched November 2023|
+|[Notification preferences: Editing as a subtask](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)|Launched November 2023|
+|[Add Board of Veteran's Appeals status update notification preference](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47441)|Live to 100% December 19, 2022|
+[Notification preferences MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/README.md) | Launched November 2021 |
+
+
+#### Account security
+
+|Project or enhancement|Launch/Completion date|
+|----|----|
+|[Account Security: Update designs to support 508 updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)|Launched February 2, 2023|
+
+</details>
 
 ## Analytics
 
-These are the GA dashboards we use to track profile analytics:
-
+- [Profile Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
 - [Personal information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 - [Contact information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [Address validation GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)

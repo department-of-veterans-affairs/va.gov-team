@@ -1,3 +1,13 @@
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
+
 # Writing 508 issue tickets
 
 Accessibility issues may be particularly challenging to document. Communicating why it matters and the potential remediation techniques needs to be coherent for the audience, which may range from product managers to designers to developers. 

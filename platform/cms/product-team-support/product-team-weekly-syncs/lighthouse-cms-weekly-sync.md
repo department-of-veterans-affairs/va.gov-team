@@ -2,35 +2,197 @@
 
 <details><summary>About this meeting</summary>
 
-- Mondays 3-3:30pm ET 
-- Meeting owner:
-- Facilitator: 
+- Mondays 4-4:45pm ET, https://us06web.zoom.us/j/83857365234?pwd=aGFvZUx4d0FWaGpDdnBxaTg0emN2QT09
+- Meeting owner: Jill Adams
+- Facilitator: Kamari Patrick
 - Standing agenda: 
   - Migrations
     - From VAST
     - To Lighthouse
   - Retiring VBA Facilities db, Making CMS source of truth
-- Regular participants: Dave Conlon, James Costa, Joshua Jennings, Jay Darnell, Joseph Justice, Stephen Smythe, Dotti Cummings, Kamari Patrick, Adam, Christian Burk.
+- Regular participants: 
+  - Facilities Team: Dave Conlon (PO), Michelle Middaugh (new PO 4/24/23), Kamari Patrick (PM), Jill Adams (DM), Steve Wirt & Christian Burk (CMS Engineers), Ryan Kock (FE engineer)
+  - Lighthouse: James Costa (PO), Brendan Winn (PM), Dana Harris, Joseph Justice, Adam ?
 
 </details>
+
+## MEETING NOTES MOVING
+To [Lighthouse/CMS Sync Notes (Google doc)](https://docs.google.com/document/d/1Esq3zdNulcbe84xeJwm6O5tu7gVbgvFzWObyfbkKDjA/edit?usp=sharing)
+
+## Monday, April 24, 2023
+### Standing topics
+
+**LH synthetic data + testable end points**
+* Nothing new from dev side (Adam). Still internal to work out path forward.
+* 4/17 Action item to test viable data: still in progress.
+
+
+**Make CMS source of truth for for Vet Centers & VAMC-related facilities** 
+* Does not yet apply to VBA / NCA facilities
+* Facilities team will provide the greenlight to Lighthouse when functionality is ready to test.
+  * Old PR for this work exists & needs to be refreshed / verified.
+  * **Action item:** Steve to work with Adam on testing when Fac work is ready. ~early May timing (Sprint 83), we think.
+* Adam has verified that Lighthouse is implemented to add new field to parser and persist to internal cache. Not yet tied into reload process, which will wait until test data is in and verified. For now, will still come from the manual CSV.
+* In terms of how frequently data is reloaded, goal is to minimize the length of time in which a Veteran could be getting a 404. 
+  * Steve’s expectation: Drupal save will push the URL to Lighthouse. We need to verify which way data goes (push vs. pull) and any time lag.  
+  * **Future action item:** Runbooks will need to be updated with final results re: the Lighthouse delay overnight vs. URL being generated, to be explicit with timing / expectations.
+
+**Open Data Model Needs:**
+* WIP in current sprint ending 4/25. 
+* 3 fields that are not exactly booleans: `field_walk_ins_accepted`, `field_referral_required`, `field_online_scheduling_available`
+  * Data structure = `Yes`, `No`, `Unspecified`, as workaround to unblock Editors who may not know definitively whether yes/no. Since the option exists, it's used for many VAMCs. 
+  * Lighthouse expects a boolean value. CMS sends `Unspecified` as an empty string. Lighthouse parser is stripping NULL values, so empty string gets removed, and Lighthouse doesn’t know the difference between NULL vs. Unspecified vs. missing data. 
+  * Options to mitigate: 
+    1. Enforce Editors update the data to Yes/No. 
+      * Per DaveC, not a viable option with any sort of reasonable response time.
+    2. We could remove the Unspecified option, which would force Editors to update the value on next save. 
+      * **Decision**: DaveC: We will not prioritize removing this option currently. 
+    3. Update `Unspecified` to send as `No` or FALSE.
+      * **Decision:** Dana Harris: It's too risky to modify the meaning of the data. We will not go this route.
+    4. Update the Lighthouse parser to handle empty strings.
+      * **Action item:** Adam to verify whether the parser can be updated to handle empty strings
+    5. CMS update to push `Unspecified` through as an actual string, rather than N/A / empty being sent today.
+      * We'll pursue this if parser update doesn't work out.
+
+**Data into lower environment** 
+* Steve is working on Services getting added to push, and Lighthouse working to read the format of the new services. 
+* Blocked by Open Data Model work above
+
+**Mental Health Numbers:**
+* Goal: determine a primary mental health phone number per mental health service that will be sent to Lighthouse at the top Facility level
+Next steps: 
+Facilities team talking to office mental health 
+First action item for new VA PO Michelle Middaugh; start date is today, currently in onboarding 
+Facilities enhancement for CMS: as an editor, signify which phone number in my mental health facility service is the mental health phone of record for my facility.
+
+**CAPS (Community Access Point Sites): post-V1 effort**
+* No updates to previously proposed schema. Adam & co can verify when implementation begins.
+* Endpoints / call patterns: Endpoints will update. Next steps will come as we near v1 launch. Kamari can flag to request mock endpoints if needed meantime.
+
+
+**Articles documentation for editors after v1 goes live:** 
+* Documentation has been iterating / progressing.
+* Not complete but making progress in a shared document.
+
+### One-off topic: 
+Michelle ramp up – add as ongoing topic starting with 5/1 meeting
+
+
+
+## Monday, April 17, 2023
+### Standing topics
+
+**LH synthetic data + testable end points**
+* Make sandbox data synthetic 
+* Action item for lighthouse to make sure testing viable data is still supported 
+
+**Make CMS source of truth for facility URLs** 
+* Lighthouse has the structure to ingest the data 
+* Lighthouse team will give the green light 
+
+
+**NCA data model card**
+* Pull from 2 data sources (XML and table in CDW [same naming pattern as VBA])
+  * 1st determine if facilities exist THEN XML (this may be reversed in the future)
+  * Action items: lighthouse team add links in slack 
+
+
+**Open Data Model Needs:**
+* Haven’t enacted model yet, timeline?
+  * Kamari will look for existing card
+  * Look to put this into Sprint 82
+
+
+**Data into lower environment** 
+* Blocked by Open data model needs. Will be a v1 blocker.
+
+
+**Mental Health Numbers:**
+* Lighthouse can only accommodate a single mental health number
+* Facilities team to find a way to send a single number to the top/Facility level
+  * VHA Digital Media: Validating numbers for first pass 
+  * Office of mental health contact: Prior to the mail group being created Elena was main POC. More often than she's the one responding still while utilizing the mailgroup for content updates regarding Mental Health numbers.
+    * VHA OMNHSP MH Facility Locator
+    * Email: mhfacilitylocator@va.gov
+    * Main POC: Elena Cherkasova
+    * Email: Elena.Cherkasova@va.gov
+    * cc Branden in these conversations 
+
+
+**UX follow up on mural** 
+* Understand the why behind the decisions 
+* Facility health services shows front end layout 
+  * This was an analysis of the data as presented by VISN 
+  * Where is this service located within a VAMC?
+  * Research in va.gov repo
+  * Are service modalities additional service locations OR within existing service locations
+* Topic closed out.
+
+
+**CAPS (Community Access Point Sites):**
+* No update, still post-v1
+
+**Articles documentation for editors after v1 goes live:** 
+* Next step discuss with Jenny HL, documentation will live where editors will go
+* Include James Costa and Branden Winn in the convo cc Joshua Jennings 
+* Iteratively improve
+* A concise plan: when can we say that the editor updated details is good enough
+  * Lives on CMS article pages somewhere 
+
+
+
+## Monday, April 10, 2023
+
+### Standing topics
+**Open Data Model Needs:**
+* update data model and send dummy payload 
+* Confirm CMS can push data into lower environment 
+
+**Mental Health Numbers:**
+* Kamari to talk to VHA Digital Media about potential changes needed
+* Need to discuss how mental health numbers get to Lighthouse in general 
+
+**Data into lower environment** 
+* Lighthouse sandbox env. moving away from prod data - data needs to be production like, should be apparent that it's synthetic but NOT prod data) * (discuss when Dave C. + James is present) 
+* Lower env. all point to sandbox, makes it difficult to test things because the data is so out of date 
+* Need to test with data that is not synthetic 
+* Maybe exposing another env. like staging 
+
+**UX follow up on mural** 
+* A lot of context lives with Dave C.; we can use a future meeting to do this
+* Trying to understand what is informing these decisions to inform how data is being presented  
+
+**CAPS (Community Access Point Sites):**
+* post v1 effort 
+* Agreeing on X date that facilities team and lighthouse will discuss schema 
+* Run through everything and make sure it make sense 
+* Can start before v1 goes live (after confirmation on mental health numbers we can start this) 
+
+**Articles documentation for editors after v1 goes live:** 
+* Joshua Jennings to send existing documentation 
+https://lighthouseva.slack.com/files/UD6M316N5/F04JFSE6M7D/lh_cms_documentation_notes.docx
+* We can start on this now 
+
+
 ## Monday, March 27, 2023
 
 Standing Topics: 
+* where are you keeping this number? Tuesday morning we may have an answer
 
-Open Data Model Needs:
-*     update data model and send dummy payload 
-*     get data into lower environment (should be apparent that it's synthetic but NOT prod data) (discuss when James is present) 
-*         UX follow up on mural (3 weeks from now in this meeting)
+* Open Data Model Needs:
+  * update data model and send dummy payload 
+  * get data into lower environment (should be apparent that it's synthetic but NOT prod data) (discuss when James is present) 
+  * UX follow up on mural (3 weeks from now in this meeting)
 
 
 * CAPS (Community Access Point Sites):
-*   post v1 effort 
+  * post v1 effort 
 
 * Mental Health Numbers: Kamari to talk to VHA Digital Media about potential changes needed
 
 * Articles documentation for editors after v1 goes live: 
-*   make VHA digital media
-*   Joshua Jennings to send existing documentation 
+  * make VHA digital media
+  * Joshua Jennings to send existing documentation 
 
 * VBA Services Data Model: no update this week 
 
@@ -41,13 +203,14 @@ One Off Topics
 
 ## Monday, March 20, 2023
 * Open Data Model Needs:
-*   Need to agree on what we (CMS) are sending and what lighthouse is accpeting 
-*   After this is complete we can push a sample data set 
-*   
+  * Need to agree on what we (CMS) are sending and what lighthouse is accpeting 
+  * After this is complete we can push a sample data set 
+
+
 * Mental Health Numbers
-*   This topic is still open, currently only show one phone number 
-*   Need to confirm legislation to confirm need to show multiple phone numbers at top level AND/OR if a primary number needs to be identified 
-*   Propsed is one main number at the top level and the service level has the other multiple phone numbers 
+  * This topic is still open, currently only show one phone number 
+  * Need to confirm legislation to confirm need to show multiple phone numbers at top level AND/OR if a primary number needs to be identified 
+  * Propsed is one main number at the top level and the service level has the other multiple phone numbers 
 
 ## Monday, March 13, 2023
 * Topics

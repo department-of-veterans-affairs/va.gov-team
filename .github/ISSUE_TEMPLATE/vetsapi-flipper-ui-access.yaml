@@ -1,0 +1,64 @@
+name: Vets-api Flipper UI Access Request
+description: For requesting access to the Flipper UI
+title: Flipper UI access for [individual]
+labels: ['external-request', 'platform-tech-team-support', 'ops-access-request', 'flipper-access-request']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        :warning: **_Prerequisites_**  
+
+        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster), have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed in [Atlas](https://dev.va.gov/atlas), or be a Federal User/have an affiliation with OCTO
+        
+        :wave: **_Instructions_**
+        1. Change the **Title** to include target individual
+        1. Add the label used by the target individual's team (eg: `BAH-526`)
+        1. Do not remove any of the existing labels.
+        1. Complete required fields.
+  - type: input
+    id: requestor-name
+    attributes:
+      label: Your Name
+      description: Please provide the name of the target individual
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: gh-handle
+    attributes:
+      label: Your GitHub handle (Flipper UI access is managed through GitHub)
+      description: Please provide the work GitHub handle of the target individual
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: input
+    id: team-name
+    attributes:
+      label: Team, Role, and Company of the target individual
+      description: Please provide the name of the team, their role on that team, and the name of the company the target individual works for
+      placeholder: Team Moose, Antler Development, Alces LLC
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Please confirm if you are on Atlas, Platform Team Roster or are a Federal User
+      description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
+      options:
+        - label: "[Atlas](https://dev.va.gov/atlas)"
+        - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
+        - label: "Federal User (Bill Chapman will need to confirm)"
+  - type: checkboxes
+    attributes:
+      label: Flipper UI Access requested for the following environments
+      description: Only request Production access if it is necessary
+      options:
+        - label: Lesser Environments (Dev/Staging/Sandbox)
+        - label: Production (if requesting, justify prod access below)
+    validations:
+      required: true
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Reason for Production Access (If requested)
+      description: Please provide justification for Production (feature flags you own, etc)
+      placeholder: I need this access because of <reason>

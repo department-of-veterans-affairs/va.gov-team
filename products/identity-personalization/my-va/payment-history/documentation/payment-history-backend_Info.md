@@ -2,7 +2,7 @@
 
 ### Updated August 18 2022
 
-Currently, when the MyVA dashboard page loads, a request (Step 1) to get payment history data is always sent to vets-api.
+Currently, when the My VA dashboard page loads, a request (Step 1) to get payment history data is always sent to vets-api.
 
 The following diagram illustrates the basic flow of data when a "successful" request is made for a user's payment history data:
 

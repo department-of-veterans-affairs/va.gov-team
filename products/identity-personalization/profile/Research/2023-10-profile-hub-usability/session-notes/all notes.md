@@ -1,0 +1,1 @@
+All session notes are in this following [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696351120913/09ee09c0f6042e254cb75f7671ab213f356b3c49?sender=uba9bdb782b0d1026e46b0140).

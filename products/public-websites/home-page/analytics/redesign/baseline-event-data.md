@@ -237,5 +237,5 @@ The following data visualizations are from the Baseline wayfinding analysis, Apr
 
 ##  Other search tools
 
-- [Pageviews for other search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md#usage-data-apr-1-2020---apr-1-2021) | 4/1/20 - 4/1/21
+- [Pageviews for other search tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md#usage-data-apr-1-2020---apr-1-2021) | 4/1/20 - 4/1/21
 

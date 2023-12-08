@@ -1,6 +1,6 @@
 # Decision Review Requests and Appeals Digital Experience Outline
 - GitHub Label: [benefits team 1, squad 2]
-- Slack channel: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- Slack channel: [#benefits-ce-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
 
 ### Table of Contents
 
@@ -146,6 +146,11 @@ WIP: Needs research into existing costs (in time, money, and quality-of-life) of
 
 Note that BVA has expressed that they are getting "hammered" with mail.
 
+#### Baseline Backend KPIs
+- [Supplemental Claims](products/decision-reviews/Supplemental-Claims/engineering/backend_KPIs.md)
+- [Higher Level Review](products/decision-reviews/higher-level-review/engineering/backend_KPIs.md)
+- [Notice of Disagreement](products/decision-reviews/Notice-of-Disagreement/engineering/backend_KPIs.md)
+
 #### Baseline KPIs
 to be added
 
@@ -188,6 +193,13 @@ TBD after launch
 - Design: Handoff from Carola to Benefits and Memorials designers occurred on 9/18. Additional research and design work in progress.
 - Development: FE identified work items to build out skeleton and individual form steps to work on during the next sprint or two.
 
+**April 2022**
+- Request for Board Appeal (Notice of Disagreement) form launch
+
+**March 2023**
+- Supplemental Claim form launch
+
+
 ## Solution Narrative
 - Late April: Product appears on CTO list of high value targets
 - Early May: Kicked off API discovery, scaffolded project
@@ -220,6 +232,7 @@ TBD after launch
 |Name|Role|Email|
 |----|----|-----|
 |Matt Self|DSVA Lead| matt.self@va.gov |
+|Julie Strothman|DSVA Design Lead| julie.strothman@va.gov |
 |Sade Ragsdale |Product Manager| sade@coforma.io |
 |Eileen Chi |Designer| eileen.chi@coforma.io |
 |Eugene Lynch | Engineer| eugene.lynch@coforma.io |

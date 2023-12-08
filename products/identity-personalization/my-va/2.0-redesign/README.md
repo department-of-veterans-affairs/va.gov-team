@@ -1,24 +1,15 @@
 # Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated July 2021
+Last updated June 2023 - updated team roles
 
 ## Communications
 
 - **GitHub Label**: vsa-authenticated-exp; personalization-2.0; my-va-dashboard
 - **Slack channel**: vsa-authd-exp
+- **Development epic:** [#6326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6326)
 
 ### Roles
-
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|AJ Jakabcin |Product Manager| ana@adhocteam.us |
-|Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
-|Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Cassandra Allen |Designer| callen@governmentcio.com |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+[Please see the My VA product outline for the current My VA team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#roles).
 
 ## Table of Contents
 

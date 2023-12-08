@@ -10,13 +10,17 @@
 
 ### 1.1 Benefit and service content
 
-#### 1.1.1 Benefit hub content
+#### 1.1.1 Core benefit content
 
 Basic information Veterans and other beneficiaries need to quickly and easily discover, apply for, track, and manage VA benefits.
+
+**Home:** Modernized VA.gov benefit hubs
 
 #### 1.1.2 Supplemental benefit and service content
 
 Supplemental information to empower Veterans and other beneficiaries to fully understand their VA benefits and related tools or services
+
+**Home:** Modernized VA.gov resources and support section
 
 #### 1.1.3 Location-specific benefit and service content
 

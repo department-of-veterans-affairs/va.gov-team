@@ -14,7 +14,7 @@ Production: https://api.va.gov/v0/sign_in/authorize
 | Query parameter | Description |
 | --- | --- |
 |`type`| CSP type. Values: `logingov`, `idme`, `dslogon`, `mhv` |
-| `client_id` | Determines cookie vs. API authentication. Values: `web`, `vaweb`, `mobile`, `vamobile`, `vamock` |
+| `client_id` | Determines cookie vs. API authentication. Values: `vaweb`, `vamobile`, `vamock`, `vamobile_test`, `sample_client_web`, `sample_client_api` |
 | `acr` | Level of authentication requested, dependant on CSP. Values: `loa1`, `loa3`, `ial1`, `ial2`, `min` |
 | `code_challenge` | Used internally by SiS to hash & encode a value to verify good requests |
 | `code_challenge_method` | Hashing algorithm. Values: `S256` |
@@ -26,7 +26,7 @@ Production: https://api.va.gov/v0/sign_in/authorize
 ```
 staging-api.va.gov/v0/sign_in/authorize
   ?type=logingov
-  &client_id=web
+  &client_id=vaweb
   &acr=ial2
   &code_challenge=VALUE=
   &code_challenge_method=S256

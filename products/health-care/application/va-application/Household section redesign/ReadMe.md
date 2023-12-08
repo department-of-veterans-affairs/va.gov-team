@@ -19,7 +19,7 @@ The 10-10EZ is easier for applicants to understand and complete without having t
      - (examples: Pause to talk to spouse, have to find financial paperwork, need to finish taxes, etc.)
 - We have noticed a 12-month trend of drop-offs around the Financial Disclosure page (4%), the Annual Income page (5.2%) and Spouse page (6.9%).  
      - it was first brought to our attention because they showed the highest drop-off rates of all the pages in the form, compared to the other pages with an average of 0-2% exit rates.
-- HEC team (especially Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
+- HEC team (Also from HEC Director, Stacey Echols) also has heard this section is painful and is eager to update to improve completion rate (in their mind this is next after short form)
 
 ## Desired User Outcomes
 - Applicants will be able to proceed through the application easily and confidently
@@ -48,16 +48,15 @@ The 10-10EZ is easier for applicants to understand and complete without having t
 #### **Key Result #1:** Reduce drop-off/exit rate for the Household section pages by a third.
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Note: Total Apps started do not include Short Form flow, as those applications do not flow through the section we are monitoring
 
-| Product KPI | 2021| 2022 | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |-------------- |
-|Total Apps started |173,669|231,725 |N/A | TBD |TBD |
-|Household section |13.7% (23,803)|9.1% (21,074) |7% | TBD |TBD |
-|Financial Disclosure |4% (1,464)|0.3% (477) | no change |TBD |TBD |
-|Spouse Info |%|% | TBD |TBD |TBD |
-|Dependent info |%|% |% | TBD |TBD |
-|Annual Income |26.3% (40,791) |11.4% (14,772) | 8% |TBD |TBD |
-|Deductible Expenses |6.2% (9,704)|7% (9,116) | 5% |TBD |TBD |
+| Product KPI | 2021| 2022 | Jan-Jun 2023 |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+|Total Apps started |173,669|346,625 |81,431 |N/A  |21,353 |73,238 |
+|Household section drop-off |14% (23,803)|28% (98,209) |34% (27,715) |10% |39% (10,346) |24% (17,555) |
+|Financial Disclosure |4% (1,464)|0.3% (477) | 0% (no drop) |no change | 20% (4,148) |2.1% (1,211) |
+|Annual Income |26.3% (40,791) |30% (75,416) | 24% (12,417) |10% |23% (3,722) |29% (16,087) |
+|Deductible Expenses |6% (9,704)|8% (13,911) | 8% (3,296) |5% |3% (432) |9% (3,404) |
 
 
 #### **Key Result #2:** Increase application submissions by 5%, and submissions within a single session by 5%
@@ -65,10 +64,10 @@ This is based on a third of current exit rates converting to successful submissi
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
-| Product KPI | 2022 Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|Application Submissions | 58% (137.5k)  | 63% | TBD|TBD|
-|Single-session Submissions | 67% (92k) | 72% | TBD|TBD|
+| Product KPI | 2022 Baseline | Jan-Jun 2023 | Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |
+|Application Submissions | 59.8% (138,687k)  | 61.4% (63,084) | 65% |78.6% (20,926) |78.9% (57,784)|
+|Single-session Submissions | 60.5% (83,941) | 62.2% (39,232) | 77%  |72.7% (15,205) |72.25% (41,749)|
 
 
 #### **Key Result #3:** Veterans feel prepared when they begin the Household section
@@ -115,19 +114,29 @@ Data source - Call Center team/TBD
 ### Collaboration Cycle
 
 - Collab Cycle ticket [#47766](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/47766)
-     - [x] Design Intent 10/14/22
+     - [x] Design Intent
      - [x] Content and IA
      - [x] Research
      - [x] Midpoint
-     - [ ] Contact Center guide
-     - [ ] Analytics
-     - [ ] Staging
-     - [ ] Privacy & Security
+     - [x] Contact Center guide
+     - [N/A] Analytics
+     - [x] Staging
+     - [x] Privacy & Security
 
 ### Incident Response info
-- The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions
-- Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
-- 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+- The 1010EZ form is currently in production; we are only changing the content and flow of the application's questions.  The information being sent after submission to the Enrollment System remains unchanged.
+- There are no new endpoints implemented with this change
+- This change applies to the full application flow, as well as the Short Form flow (less than 50% disability rating) ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
+- We will use the following 1010EZ applications for any latency or errors being logged
+     - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
+     - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+- If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
+     - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
+- Main POCs:
+     - Heather Justice (heather.justice@adhocteam.us) - Product Manager
+     - Matt Long (matt.long@adhocteam.us) - Engineering lead
+     - Patrick Bateman (patrick.bateman@adhocteam.us) - Product Owner
 
 ---
 ## Key deliverables
@@ -140,10 +149,10 @@ Data source - Call Center team/TBD
 - [Technical documentation folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/engineering)
 - How to access and test
     - [Staging env](https://staging.va.gov/health-care/apply/application/introduction)
-    - Testing documentation - TestRail
+    - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/reports/overview/10)
     - [Household section test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Staging%20Review_QA/Household%20Section%20Optimization%20Use%20Cases.md)
-    - Household section a11y test case documentation
-- Release plan
+    - [Household section a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58694)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Household%20section%20redesign/Product/Household%20section%20optimization%20-%20Release%20Plan.md)
 - [Production env](https://www.va.gov/health-care/apply/application/introduction)
 
 
@@ -153,11 +162,10 @@ Data source - Call Center team/TBD
 - June 2022: Kickoff with outline & begin design
 - Oct 2022: Design work ready
 - Dec 2022: Usability testing kickoff
-- ???? 2022: Finalize designs, development
-- ???? 2022: Complete QA
-- ???? 2022: Complete UAT
-- ???? 2022: Launched to ???% of users
-
+- June 2023: Finalize designs, development
+- June 2023: Complete QA
+- Aug 2023: Launched to 100% of users (8/11)
+- Sept 2023: Complete UAT
 
 ---
    

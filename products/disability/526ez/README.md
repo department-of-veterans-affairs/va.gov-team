@@ -7,6 +7,7 @@
 - GitHub Label: disability-experience
 - Slack channel: #benefits-disability-experience
 - VA.gov link: /disability/file-disability-claim-form-21-526ez/introduction
+- Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1680617210045)
 - Demo video link: n/a
 - [Test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-claims.md)
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
@@ -45,11 +46,20 @@
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
-- Product Owner: Matt Self (matthew.self2@va.gov)
-- Product manager: Rakshinda Aslam
-- Design and Research: Lydia Hooper, Nyantee Asherman
-- Engineering: Aurora Hampton, Eddie Glenn, Cole Voss, Seth Darr, Christine Cereca
+- Product Owner: Jen Bertsch (Jennifer.Bertsch@va.gov) , Emily Theis (emily.theis@va.gov)
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
+  
+ Team 1: 
+- Product manager: Rakshinda Aslam
+- Design and Research: Lydia Hooper, Kate Allbee, Evelyn Davis
+- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommasina Miller
+- Delivery: Anneliese LaTempa
+
+ Team 2:
+- Product manager: Austin Price
+- Design and Research: Julie Pedtke, Nichole Nicholas
+- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Micah Frazier
+- Delivery: Sarah Ortiz Shields
 

@@ -81,6 +81,7 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
     - Photos
     - Facility names
 
+VBA MVP Workshop Mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/agilesixapplications0942/1675614510747/a485dae7279407fe366cc1051d53321fcb5625c1?wid=3-1541793000972&sender=u0b235d03cbd64f7f93673243
 
 #### Likely out of MVP Scope
 - Leadership profiles
@@ -90,4 +91,5 @@ If we cross-walk the features of the RO websites and the Facility Locator detail
 - Translated version of pages
   - Example - https://benefits.va.gov/sanjuan/es/
 
-**Product sitemap:** https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9
+**Product sitemap:** 
+https://app.moqups.com/Rnc4BDEKrA/view/page/a9e1a59e9

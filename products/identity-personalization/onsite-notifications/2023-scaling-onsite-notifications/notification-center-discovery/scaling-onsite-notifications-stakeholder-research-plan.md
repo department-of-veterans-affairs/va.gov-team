@@ -68,12 +68,13 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Angela Agosto
 - Project point of contact: Angela Agosto
 - Note-takers: Will use Zoom transcription
-- Observers:	
-  - samara.strauss@va.gov
+- Observers (all optional):	
+  - chante.lantosswett@va.gov
   - ana@adhocteam.us
   - berni.xiong@agile6.com
   - allison@cityfriends.tech
   - derrick.ellerbie@Agile6.com
+  - florence.mccafferty@agile6.com
   - liz.lantz@adhocteam.us
   - Beverly.Nelson@va.gov
   - melanie.jones@oddball.io

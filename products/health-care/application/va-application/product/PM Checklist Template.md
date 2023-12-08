@@ -5,9 +5,9 @@
 
 ### Product Team
 - OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: Heather Justice, Mark Fallows
+- Product Manager: 
 - FE Engineer: 
-- BE Engineer: Lihan Li
+- BE Engineer: 
 - Designer:
 - Researcher:
 - Slack channel: #1010-health-apps
@@ -50,7 +50,6 @@
 
 <details>
 
-### PM Responsibility to perform or track
 - [ ] **Create Initiative Brief with the Problem Statement and as many details known**
      - [ ] **Update the Initiative Brief after each step with links to the artifacts and more details known**
 - [ ] Discovery
@@ -63,12 +62,7 @@
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
 - [ ] **Create Epic to identify the problem and solution**
-- [ ] **Sign up for a Product Review session to present the initiative (~after Design Intent)**
-- [ ] **Sign up for an Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)**
-
-
-
-### APM Responsibility to perform or track
+- [ ] Optional - **Sign up for a Product Review session to present the initiative (~after Design Intent)**
 - [ ] Create corresponding stories to align with the work needed (start with this list!)
 - [ ] Initial design
      - [ ] Lo-Fi design ideas
@@ -140,7 +134,7 @@
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets for design and/or development
-
+- [ ] **PM to sign up for an Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)**
 
 
 </details>

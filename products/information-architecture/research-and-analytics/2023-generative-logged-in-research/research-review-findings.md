@@ -4,7 +4,7 @@ Liz Lantz, Authenticated Experience
 
 Additional updates and notes by Samara Strauss, Auth experience PO
 
-Last updated: March 7, 2023
+Last updated: April 26, 2023
 
 ## Background
 We’re aware of some high-level problems people have navigating the logged in experience on VA.gov — eg. if a link isn’t on the homepage or My VA, people tend to have trouble finding what they need. However, we’ve never conducted more holistic research that evaluates navigating the logged in experience. 
@@ -51,7 +51,7 @@ Only one study had insights into this question: the homepage redesign usability 
 #### What are the known challenges do people have navigating the logged in experience (eg. reliance on homepage/My VA links)?
 1. People get frustrated navigating links that are not relevant to them, or feel like the website is generic rather than personalized to them.
 	- [My VA 2.0 2020 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#people-want-a-task-based-logged-in-homepage-tailored-to-them)
-	- [Action items discovery, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
+	- [Action items discovery, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md#key-findings)
 	- [Mobile App IA Usability, Detailed Findings, question 6.ii.a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#detailed-findings)
 
 **Outstanding question**: Do people feel the site is only too generic when they are logged-in (assuming yes)? What level of personalization do they expect in the navigation?
@@ -105,22 +105,22 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 
 **Outstanding question**: Does this hold up when we add the layer of a visual navigation on top of a tree test? Is the delineation about "Get" and "Manage", or something else?
 
-4. Users want multiple ways of getting to the same information.
+3. Users want multiple ways of getting to the same information.
 	- [Health Hub Tree Test Finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1/HH_ResearchFindings.pdf)	
 	- [My VA 2.0 Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-want-new-information-to-be-clear-to-them-when-they-log-in-and-expect-to-receive-new-information-through-multiple-channels)
 	- [Action items discovery, Central Alerts finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#central-alerts-page-1)
 	- [Mobile App Open Card Sort, Finding 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)
 	- In the homepage redesign usability testing ([round 1, finding 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#3-of-the-20-top-tasks-tested-9-tasks-were-completed-successfully-by-everyone-and-4-were-completed-by-only-half-of-those-who-tried-them)), we saw participants take very different paths to complete the same thing. The study also [recommends that we ensure all top tasks can be accomplished via searching *and* browsing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-findings.md#beyond-the-home-page-out-of-scope-but-can-discuss-with-other-teams)
-5. Increased depth of hierarchy (ex: Claims being under Benefits) does not necessarily negatively impact people’s perception of ease of use/navigation. In fact, subcategories may improve clarity and better align to Veteran’s mental models.
+4. Increased depth of hierarchy (ex: Claims being under Benefits) does not necessarily negatively impact people’s perception of ease of use/navigation. In fact, subcategories may improve clarity and better align to Veteran’s mental models.
 	- [Mobile App IA Usability, Finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#study-tasks) 
 	- [Mobile app closed card sort, recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-report.md#we-recommend-the-following-changes-to-the-high-level-ia-to-improve-clarity-between-categories-and-better-match-participants-mental-models)
 	- [2023 VA mobile app IA and Navigation project summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/2023%20VA%20Mobile%20App%20-%20IA%20%26%20Navigation%20Project%20Summary.pdf)
-6. Visual indicators, such as a red dot for alerts, combined with clear labeling make it easy for people to understand something needs their attention.
+5. Visual indicators, such as a red dot for alerts, combined with clear labeling make it easy for people to understand something needs their attention.
 	- [Action items discovery, Central Alerts finding 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#central-alerts-page-1)
 
 **Outstanding question**: What other wayfinding methods besides navigational terms should we consider?
 
-7. The mobile app IA (which is similar to VA.gov) is easy and intuitive for people to navigate and learn, even when they’re brand-new to the app.
+6. The mobile app IA (which is similar to VA.gov) is easy and intuitive for people to navigate and learn, even when they’re brand-new to the app.
 	- [Mobile App IA Usability, Key Findings 1 and 3, and Detailed Findings, Question 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md#study-tasks)
 	- [2023 VA mobile app IA and Navigation project summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/2023%20VA%20Mobile%20App%20-%20IA%20%26%20Navigation%20Project%20Summary.pdf)
 
@@ -139,7 +139,8 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 1. What do people without accounts do when they try to accomplish a task that requires one?
 - The [homepage redesign research (round 2)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/2022-09-redesign-usability-round2/research-findings.md#further-research-needed) calls this out as something to do more research on.
 2. What are expectations do people have who are *not* Veterans around a personalized va.gov experience?
-- The Digital Health Modernization Generative Study noted that “the inability to delineate actions between users of a single MHV account causes friction and confusion.” (Insight 8). 
+- The Digital Health Modernization Generative Study noted that “the inability to delineate actions between users of a single MHV account causes friction and confusion.” ([Insight 8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md#insight-8-the-inability-to-delineate-actions-between-users-of-a-single-mhv-account-causes-friction-and-confusion)). 
+- VSO's had a hard time finding Connected Apps in the [Representative OAuth and Connected Apps Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Developer%20Platform%20Research/2023-03-Representative%20OAuth%20and%20Connected%20Apps%20Research%20Report_with%20VSOs)
 
 **Outstanding question**: How do needs and expectations around moving through VA.gov differ between user types (eg. veterans vs. service members vs. families/caregivers/dependents)?
 
@@ -189,3 +190,4 @@ The mobile app open card sort ([finding 1](https://github.com/department-of-vete
 *  [My VA 2.0 discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md) 
 * [Digital Health Modernization Generative Research Study 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md)
 * [Profile military info research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/topline-summary.md#when-asked-to-show-me-where-theyd-expect-to-find-their-military-info-on-vagov-starting-from-the-my-va-screen-participants-mostly-went-to-the-search-bar-as-their-first-step)
+* [Representative OAuth and Connected Apps Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Developer%20Platform%20Research/2023-03-Representative%20OAuth%20and%20Connected%20Apps%20Research%20Report_with%20VSOs)

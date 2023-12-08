@@ -1,18 +1,21 @@
-# Initiative outline: Scaling onsite notifications
+# Initiative outline: Scaling the VANotify integration for onsite notifications
 
-**Last updated: March 20, 2023**
+**Last updated: August 15, 2023 -- added key dates.**
 
 ### Communications
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Development Epic:** [50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758)
+- **Collab Cycle Epic:** TK - not yet created
 
 ### Roles
 
-[Please see the on-site notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#readme)
+[Please see the onsite notifications product outline for the current team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications#readme)
 
 ### Table of Contents
 
+- [August 2023 -- Re-evaluating the VANotify/onsite (VA.gov) notifications strategy](#re-evaluating-the-vanotifyonsite-vagov-notifications-strategy) 
 - [Overview](#overview)
 - [Problems](#problems)
 - [Questions](#questions)
@@ -25,6 +28,42 @@
 - [Backend](#backend)
 - [Frontend](#frontend)
 - [Design](#design)
+
+## Re-evaluating the VANotify/onsite (VA.gov) notifications strategy
+
+**As of August 2023, we made the decision to put the initiative to scale VANotify support of onsite notifications on hold. The following document was circulated around OCTO and relevant VA.gov teams to explain this pause.**
+
+### We all agree that:
+
+1. The vision for VANotify -- a single system that can send emails, texts, and notifications to VA.gov -- is a sound.
+2. We do not want other VA stakeholders creating their own one-off, silo’d notifications solutions. Similarly, VA.gov teams should be working together to create a consistent notification experience, not working in silos on their individual products.
+3. The top user priority on VA.gov is to be able to quickly navigate to items which require action or attention. In turn, this makes guiding people to their action items and important updates the top priority of the logged-in experience on VA.gov.
+
+### Problems:
+
+1. **We haven’t been able to scale onsite notifications in 6+ months** -- and not for lack of trying on the parts of the auth experience and VANotify teams. Each time we meet to discuss a good candidate for a new onsite notification, there are technical constraints that prevent us from leveraging it. If we aren’t able to scale a feature after 6+ months of effort, this is a signal that we might want to reevaluate our strategy.
+2. **There is high variability in how each backend sends data to VANotify** --The aforementioned technical constraints have been caused not by VANotify, but by the wide variability in how each backend system integrates with VANotify, and what data they pass to VANotify to enable emails/texts. Usually, the problem has been with how veteran look-up is done. While this is a fixable problem, it is only fixable with additional work by each individual backend team, which is significantly more effort than we’d originally hoped would be required for onsite notifications.
+
+### What’s next – short-term:
+
+#### A pause on using VANotify to support onsite notifications
+
+We should take a pause and reevaluate how we can best leverage VANotify. There may still be some use cases for onsite notifications that would best be supported by VANotify and may not require as much additional development and support. 
+
+#### Think through other ways to highlight action items and important updates
+
+We know what information is important to veterans. We should explore other tools – like alert icons or tags – and how they can support a larger notification strategy. This doesn’t preclude us from using VANotify to support the onsite notifications strategy in the future.
+
+### What’s next – long-term:
+
+#### Larger revisiting of VANotify and its role in onsite notifications
+
+We may want to consider revisiting what the goals and expectations are for VANotify as it pertains VA.gov notifications. If there are things we want/need/expect this system to do over time, those things should be clearly outlined and fit into broader VANotify development.
+
+
+-----
+
+**The rest of this document captures details about this initiative before we closed it down.**
 
 ## Overview
 
@@ -154,9 +193,28 @@ TBD
 - **Notification center discovery** - Should start towards the end of Q1 CY2023; will continue and likely be completed in Q2.
 - **New notification design** - Put new notification design through collab cycle/build (OK if this ends up launching Q3).
 
-#### Out of scope
+#### To start, if time: Notification center MVP
 
-- Adding a notification center to the navigation
+[Notes are also in Samara's maternity leave plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/sprint-objectives/maternity-leave-plan-2023.md#onsite-notifications-v2-scale-notifications-feature)
+
+**Why**
+
+This was initially slated for Q3 CY2023, but I am moving this up. We had anticipated waiting on this until we had a new notification to add; however, [after a discussion with the MHV health apartment team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/meeting-notes/mhv-authexp-vanotify-4.3.23.md), it's clear we might need to move quickly on this once a new notification is ready. We don't want to be in a position where a new notification is ready and we have to wait to launch it until we've updated the notification functionality to accommodate this.
+
+**What this is**
+
+At most, this would be a page we could link to from My VA/the health apartment/anywhere on the site to view all notifications.
+
+**What this is not**
+
+- This does not involve any changes to the nav or any notification indicators to start (though this is likely to happen eventually).
+- This is not a sub-page of My VA, at least URL-wise. It should be treated as something that can be linked to from anywhere, or eventually grow into a global tool.
+
+**Steps involved**
+
+- Technical discovery to determine scope
+- Design/research
+- The rest of the collab cycle
 
 ### Q3 CY2023
 
@@ -164,16 +222,13 @@ TBD
 
 - **New notification design** - Launch new notification design if not launched in Q2.
 - **New notifications** - Add new notifications if there is anything appropriate for us to add.
-
-#### To start
-
-- **Adding a notification center** - This might take a few different forms. An initial MVP could be a page that links from My VA but is not in the nav. Exact approach will be TBD depending on discovery and product/design thinking. 
+- **If possible**: Launch notification center MVP.
 
 ### Q4 CY2023
 
 #### To complete
 
-- **Launch notification center** - Launch notification center MVP.
+- **Launch notification center** - If not done in Q3 CY2023.
 - **New notifications** - Add new notifications if there is anything appropriate for us to add.
 
 ## Key deliverables
@@ -192,6 +247,8 @@ TBD
 - January 2023: Project discovery; Scope V2
 - February 2023: Technical discovery; Continued notifications discovery
 - March 2023: Determination that there are no good candidate for immediately adding a new onsite notification; pivoting project to notification center discovery and putting the new notification design through the collab cycle.
+- April - June 2023: Samara on maternity leave
+- July 2023: Samara returns; Determination made to pause efforts to scale the VANotify integration.
 
 ## Backend
 

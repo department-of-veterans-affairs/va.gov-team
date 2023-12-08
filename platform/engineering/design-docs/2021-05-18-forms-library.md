@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 **THIS DOCUMENT IS SUPERSEDED BY THE VA Forms System Core Design Document (WIP) DOCUMENT IN CONFLUENCE: https://vfs.atlassian.net/wiki/spaces/FLT/pages/2025029667/VA+Forms+System+Core+Design+Document+WIP**
 
 

@@ -41,6 +41,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 
 ## Product artifacts
 - [Homepage redesign initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/initiative-brief.md)
+- ["One-pager" for stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/VA-homepage-improvements%20-%201-pager%20July%202023.pdf)
 - [Homepage design iteration timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/timeline.md)
 - [Proposed content rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/homepage-content-rubric.md) _how content was chosen for the release version and how future content will be evaluated for placement in Popular links, Search tools menus, and promos on the homepage_
 - Launch artifacts
@@ -74,7 +75,7 @@ Veterans have evolved too - from never logging in to understanding that some tas
 - Product Owner: Dave Conlon (OCTO-DE)
 - Designer: Ryan Thurlwell (OCTO-DE)
 - Design lead: Matt Dingee (OCTO-DE)
-- Product Manager: Michelle Middaugh (Ad Hoc)
+- Product Manager: Wes Rowe (Agile 6))
 - Engineering: Public Websites (Agile 6)
 - Research: Cindy Merrill (Ad Hoc)
 

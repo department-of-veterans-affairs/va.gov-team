@@ -13,11 +13,11 @@ That's what this Release Plan Template is for!
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration:  completed in QA
+- Desired number of users: n/a
+- How you'll recruit the right production test users: random sample/QA
+- How you'll conduct the testing: via canary test
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
 
 ### Results:
 - Number of users: x
@@ -64,10 +64,12 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date range:  8/21/23 - 8/30/23
+- How will you make the product available in production while limiting the number of users who can find/access it: Use of Feature toggles.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Successful submissions, *reported contact center calls < 2 calls*
+- Link to the dashboard(s) showing "success criteria" metrics:
+- https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20221201&amp;_u.date01=20230221&amp;explorer-segmentExplorer.segmentId=analytics.eventLabel&amp;explorer-table.plotKeys=%5B%5D&amp;explorer-table.filter=fsr-5655&amp;explorer-table.secSegmentId=analytics.eventAction&amp;explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22fsr-5655%22,0%5D%5D&amp;_r.drilldown=analytics.eventCategory:Transactions
+- Who is monitoring the dashboard(s)?: BE Developer (Scott James) and PM (Tom Davis), DM (Heather Rienks)
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
@@ -77,35 +79,63 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Length of time: 2 days (8/21- 8/22)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% 
 
 #### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+- Number of unique users: ~30
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: Yes, Huron
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
 
-### Stage B: moderate
+### Stage B: 25% of users
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+- Length of time: 2 days (8/23-8/24)
+- Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+- Number of unique users: ~55
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: Yes, VBS/Huron file transfer
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Yes, Revert nil change
 
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
+### Stage C: 50% of users
 
-## Go Live!
+#### Planning
+
+- Length of time: 4 days (8/25- 8/29)
+- Percentage of Users (and roughly how many users do you expect this to be): 50%
+
+#### Results
+
+- Number of unique users: ~233
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: No
+- Types of errors logged:
+--BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
+--No such file or directory @ rb_sysopen - tmp/pdfs/5655_b119e499-8e61-41ec-8000-69353043cb64_final.pdf
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
+
+### Stage D: 100% of users (8/30)
+
+#### Planning
+
+- Length of time: N/A
+- Percentage of Users (and roughly how many users do you expect this to be): 100%
+
+#### Results
+
+- Number of unique users: ~899
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: Yes
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? No
 
 ### Planning:
 - Desired date: mm/dd/yy
@@ -116,24 +146,18 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: ~899
+- Any issues with VA handling/processing?:  Yes
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil}
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of unique users: ~3800
+- Any issues with VA handling/processing?: Yes
+- Types of errors logged: BackendServiceException: {:status=>500, :detail=>nil, :code=>"VA900", :source=>nil} - BackendServiceException: {:source=>"VaNotify::Service", :code=>"VANOTIFY_400"}
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
 
 ## Post-launch Questions 
 

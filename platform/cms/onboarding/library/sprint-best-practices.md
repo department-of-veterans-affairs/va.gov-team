@@ -63,9 +63,9 @@ Sprint goals ought to be proposed to the team and OCTO-DE by the team's Product 
 
 1. Align with achieving quarterly goals.
 2. Be limited to no more than five goals per team, per sprint.
-3. Be captured in Confluence sprint reports.
+3. Be captured in  sprint reports.
 4. Be communicated with OCTO-DE during the sprint with regards to status at the mid-sprint check-in (or earlier if projected to slip).
-5. Be prioritized as the highest priority items for the team that sprint and assigned the “High Priority” status in ZenHub.
+5. Be prioritized as the highest priority items for the team that sprint and assigned the “High Priority” status or otherwise marked somehow in Github/Zenhub as a Sprint Goal (e.g. label).
 6. If they are not completed, OCTO-DE’s expectation is that they are completed in the following sprint or dropped with an agreed upon justification.
 
 ## Sprint planning
@@ -74,7 +74,7 @@ Sprint goals ought to be proposed to the team and OCTO-DE by the team's Product 
 2. To plan the work to be done based on capacity, roadmap, and prioritization from our Product Owners.
 
 ### Best practices
-1. Prior to sprint planning, each team member will update their previous sprint’s issues on the Zenhub board with the latest status information and comments.
+1. Prior to sprint planning, each team member will update their previous sprint’s issues on the sprint board with the latest status information and comments.
 2. Any cards added to the sprint, particularly those identified as sprint goals, will be assigned to a specific person.
 3. Any cards added to the sprint will have been previously refined with enough detail for someone to understand the issue and its definition of done.
 4. It will have a point estimation and clear acceptance criteria to complete.
@@ -98,17 +98,10 @@ Sprint goals ought to be proposed to the team and OCTO-DE by the team's Product 
   - [ ] Check individual assignments.
 
 ## OCTO-DE mid-sprint check in
-At the middle of each sprint, VFS-CMS Product Managers and Delivery Managers meet with OCTO-DE POs to go over the status of sprint goals and any risks identified that may affect delivery of those goals. The expectation from OCTO-DE is that if any goals need to slip they are delivered in the following sprint. The team should communicate any risks to sprint goal delivery by the scrum before this mid-sprint check in.
+At the middle of each sprint, Product Managers and Delivery Managers meet with OCTO-DE POs to go over the status of sprint goals and any risks identified that may affect delivery of those goals. The expectation from OCTO-DE is that if any goals need to slip they are delivered in the following sprint. The team should communicate any risks to sprint goal delivery by the scrum before this mid-sprint check in.
 
 ### Mid-Sprint adjustments
-As issues are worked on, they will move through the ZenHub pipelines as follows:
-1. When an issue is started, it will be moved to the “In Progress” Pipeline.
-2. When the issue’s respective PR is submitted, or the work product is ready for review, the card will be moved to “Review/QA” Pipeline.
-3. Once an issue is reviewed it may take two paths:
-  - If the issue has a PO review label, it will be moved to the PO review Pipeline for demo in a tugboat preview instance to the respective PO. 
-    - Once PO approved, it may be merged and deployed to production .
-  - If no PO review label, the issue may be merged and deployed to production .
-4. Any issue moved into the Sprint after Sprint Planning must be assigned an “Unplanned Work” (if PO prioritized) or "Stretch" (if pulled in due to capacity) label.
+Any issue moved into the Sprint after Sprint Planning must be assigned an “Unplanned Work” (if PO prioritized) or "Stretch" (if pulled in due to capacity) label.
 
 ## Demos
 Demos are held at the end of each sprint for all teams at the same time. Everyone is expected to demo the work that they have completed to the team and stakeholders.
@@ -134,7 +127,7 @@ Retros are held at the end of each sprint separately, per team. The goal is to h
 ## Reporting
 At the beginning of each sprint, a sprint report is generated in [Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/424181765/Sprint+Goals+and+Ship+Reports). The purpose of this report is to track agreed upon sprint goals for each team and how they relate to the project’s overall objectives, and give visibility into the team’s velocity and other work. This report is sent to OCTO-DE by COB of the next business day after the sprint has ended.
 
-Monthly reports are also sent to OCTO-DE by COB of the 5th day of the following month. They are essentially a roll up of all sprint reports during that period and are captured in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/201294029/CMS2020+Monthly+Reporting).
+Monthly reports are also sent to OCTO-DE by COB of the 7th day of the following month. (Or: in time for the monthly status report meeting, often the 1st Tuesday of the month.) They are essentially a roll up of all sprint reports during that period and are captured in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/201294029/CMS2020+Monthly+Reporting).
 
 ### Best practices
 1. During sprint planning, the sprint’s goals should be captured in that sprint’s report.

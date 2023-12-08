@@ -2,13 +2,13 @@
 
 ## Overview
 
-Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
+Income is one aspect that determine's a Veteran's eligibility for benefits from VA. An [existing application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) (no longer working) allows Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents.
 
-[See Mural of existing application here.](https://app.mural.co/t/vagov6717/m/vagov6717/1657807571797/ee2497db0a9c637538f51e38546ffe3eaea508c0?sender=ua604735c5cf1162b042a4310)
+[See Mural of existing application here.](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1657807571797/ee2497db0a9c637538f51e38546ffe3eaea508c0?wid=0-1658947024174)
 
 ## Problem Statement
 
-The [existing Income Limits web application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) is difficult to maintain the data to accurately provide information to Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents. In addition, the current application lacks plain language or clearly defined use cases/usability design and testing to validate that it is intuitively aligned to problems for the Veteran and providing information that is clear and easy to understand.
+The [existing Income Limits web application](https://www.va.gov/healthbenefits/apps/explorer/AnnualIncomeLimits/HealthBenefits) (no longer working) is difficult to maintain the data to accurately provide information to Veterans, their caregivers, family members, and others to look up the financial thresholds based on location and number of dependents. In addition, the current application lacks plain language or clearly defined use cases/usability design and testing to validate that it is intuitively aligned to problems for the Veteran and providing information that is clear and easy to understand.
 
 How might we rebuild this application so that we clearly define the Veteran use cases for this application and modernize the application to better align with how Veterans need to make use of income, location, dependent information as it relates to VA benefit eligibility?
 
@@ -23,22 +23,20 @@ How might we rebuild this application so that we clearly define the Veteran use 
  
 ## Desired User Outcomes
 
-- Veteran understands in plain language how income/location/dependents are used as a component to their eligibility for benefits.
+- Veteran understands in plain language what income limits might apply to them based on their location and number of dependents and at a high level what benefits are associated with each income range.
 - Moving on from “What might I be eligible for?” to action (applying) with a better understanding of the evaluation process.
 - In the case of an optional life change, Veteran has more information on which to base a decision.
 
 ## Undesired User Outcomes
 
-*I'm not sure these are right* 
-
-- Confusion or frustration with tool itself.
-- Feeling confused by the information presented by the tool.
 - Discouraging a Veteran from pursuing benefits.
+- Confusion or frustration with tool itself or information presented by the tool.
+- Feeling that a definitive answer about benefit eligibility comes from the app, as opposed to the application process.
 
 ## Desired Business Outcomes
 
 - Increase the use of VA’s self-service tools, and reduce phone calls to the VA.
-- Better serve veterans by helping them get faster access to information about some factors affecting benefit eligibility.
+- Better serve veterans by helping them get faster access to information about how income affects benefit level and eligibility.
 
 ## Undesired Business Outcomes
 
@@ -54,26 +52,30 @@ How might we rebuild this application so that we clearly define the Veteran use 
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
+| Category | KPI | Baseline as of date | Target | Link to data source  |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| Funnel: reach results screen (GA)   | Open an accordion | n/a | [find typical range] | [domo dash TBD] |
+| Funnel: Apply now | % of accordion openers who click "Apply now" on the results screen | n/a | 2.0% | [domo dash TBD] |
+| Satisfaction | C-sat scores from Medallia (Overall satisfaction and VAgov experience rating) | n/a | ≥[check par for VAgov] | domo dash |
+| Focused interaction | How many accordions opened per user | n/a | 2 (warning = 3, problem = 4+) | [domo]
+| Business impact/confusion | Call center traffic about /income-limits | n/a | [find docs about this data ] | [see docs] |
+| Secondary funnel: Learn more | % of accordion openers who follow a learn-more link | n/a | 3% | [domo] |
+| Secondary funnel: neutral/positive impact to Learn/apply journey | [talk to content team about health monitoring]
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
+_Is any baseline data available for old Teamsite version?_
 
 
 ---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- The primary use case is to funnel people into Apply now
+- Secondary use case is to help people on their learning journey
+- Opening one or two accordions indicates focus on a user's actual income and how their benefits may be impacted
+- The accordion pattern is more effective than displaying a table (verified in usability research)
+- Aid-and-attendance and Housebound thresholds were determined unnecessary for Veteran scenarios
+- Veterans don't need/want details about how thresholds are calculated (GMT, NMT, 10% addition, etc.)
 
 ## Solution Approach
 
@@ -82,17 +84,19 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
+We will use a multi-step "subtask pattern" to gather key inputs from the Veteran and display the income limits that are relevant to them. 
+
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- Initiative name | [Link to Initiative Brief](#)
 
 --- 
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
 - *Target Launch Date*
@@ -110,6 +114,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Key Decisions
 
+See decision log in this folder.
+
 ---
    
 ## Screenshots
@@ -124,11 +130,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Sitewide Public Websites
+- GitHub Label: Public Websits
+- Slack channel: #sitewide-public-websites
+- Product POCs: Wes Rowe (PM)
+- Stakeholders: see below
 
 </details>
 
@@ -136,10 +142,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Dave Conlon
+ - PM: Wes Rowe
+ - Engineering: Daniel Sasser
+ - Research/Design: Jordan Wood
  
 </details>
 

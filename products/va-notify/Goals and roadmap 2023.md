@@ -14,12 +14,12 @@ Our goals are tied to one or more of our themes:
 * Self Service / Governance
 * Quality / Personal Experience
 * Platform Capabilites
-* Performance, Monitoring & Security
+* Performance, Monitoring, Maintainability & Security
 
 ### Notify Team
 
 #### VEText SMS Migration - Twilio Provider Support
-##### Theme: Performance, Monitoring & Security, Platform Capabilities
+##### Theme: Performance, Monitoring, Maintainability & Security, Platform Capabilities
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience; Integrate the health portal features into VA.gov
 
 VEText reaches millions of Veterans with pertinent health-related SMS notifications like appointment reminders, open appointment slot management, I am here, etc. VA Notify is working to support these existing notifications and will support multiple notification providers.
@@ -56,45 +56,33 @@ In early 2023, VA Profile is adding functionality to validate all existing phone
 
 Once VA Profile has added this functionality, VA Notify will enhance our contact lookup process to proactively check phone numbers and make updates if we discover a phone number is invalid. This will increase visibility into which phone numbers are invalid and allow other features to be built within VA.gov and VA Profile around flagging invalid contact information and sending notifications to request updates.
 
-#### Enhancing the Claim Experience - VES Event Bus
+#### Enhancing Platform Capabilities
 ##### Theme(s): Platform Capabilities, Quality / Personal Experience
 ##### OCTO Objective(s): Enhance Veterans' personalized online experience
 
-Uncertainty around the claims review process is a significant pain point for Veterans. VA Notify intends to resolve this by working with VBMS, VA.gov, and the claims status tool to evaluate the end to end Veteran experience and ensure informative notifications are sent to Veterans when a claim is in review, supplemental materials are needed, documents are available to review, claim status has changed, and a decision has been made.  There are also opportunities to notify Veterans should they appeal a decision on a claim.  VA Notify collaborates with Claim stakeholders and partners to add and enhance notification opportunities for Veterans. 
-
-#### Support for Mass/Bulk Notifications
-##### Theme(s): Platform Capabilities
-##### OCTO Objective(s): Enhance Veterans' personalized online experience
-
-VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
-
-#### Email Encryption
-##### Theme(s): Platform Capabilities, Quality / Personal Experience, Performance, Monitoring, & Security
-##### OCTO Objective(s): Enhance Veterans' personalized online experience
-
-Some notification use cases include sensitive information like PII or PHI. We cannot send this through non-encrypted or non-authenticated channels like email or SMS. We will investigate options to address this problem so Veterans can get the information they need through a secure, digital solution. 
-
-#### Support for Cisco Webex Connect (IMImobile)
-##### Theme(s): Quality / Personal Experience, Platform Capabilities
-##### OCTO Objective(s): Enhance Veterans' personalized online experience
-
-The Veterans Experience Office (VEO) is furthering its partnership with Cisco to address AudioCARE needs for Veteran prescription and appointment use cases. As the enterprise notification solution for VA, VA Notify will continue to be provider agnostic. VA Notify currently supports Amazon services and Twilio and will add support for Cisco to ensure we can meet notification needs for all VA business lines, regardless of the provider.
-
-#### Support for CC/BCC on Email Notifications
-##### Theme(s): Self-Service / Governance, Quality / Personal Experience
-##### OCTO Objective(s): Enhance Veterans' personalized online experience 
-
-The need for CC/BCC functionality frequently surfaces when discussing potential use cases with business lines. For example, this functionality is essential when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
+To support more types of notifications and expand VA onboarding, we are adding functionality like: EDIPI identifier support, personalisation redaction, explicit consent logic, and more.
 
 ### Strike Team
 
-#### Promote templates from Staging to Prod
+#### Email Confirmation Notifications for Forms
+##### Theme(s): Platform Capabilities
+
+As we look to improve the customer experience, we want to support business lines in sending notifications to users that have completed their online forms. In addition to working with business lines to create notifications for their forms, we are also working with the Forms team, in order to support notifications for newly digitized forms. Completed notifications can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations).
+
+
+#### Promote Templates from Staging to Prod
 ##### Theme(s): Self Service / Governance
 
 We know from our users that copying template content from our staging environment to our prod environment is a pain point.  Our goal is have users enter content and/or make changes to content in staging then promote that template to production.  This feature will eliminate the pain point and give our team more governance over what gets launched into production and when. 
 
 
-#### Personilized Dashboard 
+#### Whitelist
+##### Theme(s): Self Service / Governance, Performance, Monitoring, & Security
+
+We want to provide clients the ability to manage their own Whitelists in order to safely test notifications. It will allow business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality but enhanced security as well by reducing client testing delays, which varied from hours to days previously and eliminating all manual effort for internal staff - saving 30 minutes per requested change.
+
+
+#### Personalized Dashboard 
 ##### Theme(s): Self Service / Governance
 
 Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. We want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
@@ -108,133 +96,151 @@ VA Notify is designed to be provider agnostic. We added support for a new provid
 
 This work is carrying over from Q3/Q4 CY2022 because the notification provider decision changed from Amazon to Twilio.
  
-**Expected launch date**: March 2023
+**Launched**: April 2023
 
 #### Franchise Fund Billing Reports
 We will be using the Franchise Fund to bill our business lines for SMS charges and we are working on a format/template for the Franchise Fund to receive a billing statement from us for each business line.
 
-**Expected launch date**: March 2023
+**Launched**: April 2023
 
-#### Explicit Opt-in Functionality
-Some business lines like Comp & Pen and QuickSubmit require an explicit opt-in as opposed to a default opt-in strategy. Default opt-in means that we can notify the Veteran as long as they have not explictly asked to be opted-out of the applicable notification. Explicit opt-in means that we only want to notify Veterans if they have explicitly made a selection on VA.gov to receive the applicable notification.
-
-#### Restart Compensation and Pension Payment Notification Work
-As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team ingest payment events and trigger disability and pension payment SMS notifications to Veterans.
-
-**Expected launch date**: July 2023
-
-#### Performance, Monitoring and Security 
+#### Performance, Monitoring, Maintainability and Security 
 To keep our platform performing at its best, we plan to execute the following:
 * Platform Upgrades (Flask, Celery, etc.)
 * Adding enhanced Datadog Monitoring
-* Implement Notification Microservices, starting with Push Notifications to improve performance
 
-**Expected launch date**: March 2023
+**This is ongoing work throughout the year.**
 
 ### Strike Team
-
-#### Promote to Production (MVP)  - SSUI 
-Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
-
-**Expected launch date**: March/April 2023
 
 #### Developer Resources (MVP) - SSUI
 To reduce the development time needed to integrate with VA Notify, we want to make sure developers can easily access all the information they need from within the Self-Service Portal.  A ‘Developer’ tab will include three sections: Technical Documentation, API Documentation, and Technical Contacts. ‘Technical Documentation’ informs developers about VA Notify architecture and the services we offer.  ‘API Documentation’ using Swagger helps developers understand the endpoints, methods, parameters, and responses of our API more effectively with interactive documentation. Additionally, ‘Technical Contacts’ lists VA Notify team member names and emails so developers can reach out if they have any questions.
 
-**Expected launch date**: Febuary 2023
+**Launched**: Febuary 2023
 
 #### Service Management  - SSUI 
 As VA Notify continues to onboard business lines and notification suites are expanded, it is crucial business lines are able and empowered to manage their own notification services, lest VA Notify end up a support team. Functionality such as copying service details to a clipboard, modifying permitted notification types, inviting and managing users, and managing notifications not only reduces onboarding time, it facilitates the continued evaluation and maintenance of notifications.
 
-**Expected launch date**: February 2023
-
-#### VA.gov Forms
-* 22-5490 Education Benefit Application
-
-**Expected launch date**: February 2023
-
-* 22-1990 (Application for VA Education Benefits)
-
-**Expected launch date**: March 2023
-
-
-
+**Launched**: January/February 2023
 
 ## The rest of the year
 
 ### Q2 CY2023 (April - June)
 ### Notify Team
 
-#### Onsite Notification Enhancements
-As we introduce new onsite notification use cases in partnership with VA.gov, we will enhance the integration to provide valuable, timely information to Veterans.
+#### Explicit Opt-in Functionality
+Some business lines like Comp & Pen and QuickSubmit require an explicit opt-in as opposed to a default opt-in strategy. Default opt-in means that we can notify the Veteran as long as they have not explictly asked to be opted-out of the applicable notification. Explicit opt-in means that we only want to notify Veterans if they have explicitly made a selection on VA.gov to receive the applicable notification.
 
-**Expected launch date**: April 2023
+**Launched**: June 2023
 
-#### Continued work on Compensation and Pension Payment Notifications
-We are working to integrate with BIA's event bus to receive payment events and trigger notifications.
+#### Restart Compensation and Pension Payment Notification Work
+As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team ingest payment events and trigger disability and pension payment SMS notifications to Veterans.
 
-**Expected launch date**: July 2023
+**Expected launch date**: Dec 2023
 
-#### VA Profile Phone Validation
-After VA Profile adds this new feature, VA Notify will enhance the existing contact info lookup integration to ensure we are only sending to valid Veteran phone numbers.
+#### Performance, Monitoring, Maintainability and Security
+To keep our platform performing at its best, we plan to execute the following:
+* Scalability and disaster recovery improvements
 
-**Expected launch date**: June 2023
+**This is ongoing work throughout the year.**
+
+### Strike Team
+
+#### Promote to Production (MVP)  - SSUI 
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Launched**: June 2023
+
+#### Whitelist (MVP) - SSUI
+Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality, but enhanced security as well.
+
+**Launched**: June 2023
+
+### Q3 - Q4 CY2023 (July - December)
+### Notify Team
 
 #### Expand Veteran Identifier Support: EDIPI
 We are working with eBenefits, VADIR, and EVSS to migrate their early comm notifications to VA Notify as they move to VA.gov. We will add support for the EDIPI identifier, so that VA Notify can look up communication preferences and contact information on eBenefit recipients.
 
-**Expected launch date**: May 2023
+**Launched**: Aug 2023
 
-#### Performance, Monitoring and Security
+#### V3 Email and SMS Endpoints
+As notification volume rapidly increases through new notifications, notification growth, and notification migrations, VA Notify is enhancing endpoint performance.
+
+**Expected launch date**: Oct 2023
+
+#### Onsite Notification Enhancements
+As we introduce new onsite notification use cases in partnership with VA.gov, we will enhance the integration to provide valuable, timely information to Veterans.
+
+**Expected launch date**: Nov 2023
+
+#### Continued work on Compensation and Pension Payment Notifications
+We are working to integrate with BIA's event bus to receive payment events and trigger notifications.
+
+**Expected launch date**: Dec 2023
+
+#### VA Profile Phone Validation
+After VA Profile adds this new feature, VA Notify will enhance the existing contact info lookup integration to ensure we are only sending to valid Veteran phone numbers.
+
+**Expected launch date**: Dec 2023
+
+#### Performance, Monitoring, Maintainability and Security
 To keep our platform performing at its best, we plan to execute the following:
-* Performance Testing
-* Continued implementation of Notification Microservices
-* Platform Upgrades
+* Scalability and disaster recovery improvements
+* Database upgrades
+* Regression test suite automation
 
-**Expected launch date**: June 2023
+**This is ongoing work throughout the year.**
 
 ### Strike Team
 
-#### VA.gov Forms
-* 22-5495 (Dependents’ Request for Change of Program or Place of Training)
+#### Promote to Production (Phase 1) - SSUI - Email for Admins
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-**Expected launch date**: April 2023
+**Launched**: July 2023
 
-* 22-1995 (Request for Change of Program or Place of Training)
+#### Promote to Production (Phase 1) - SSUI - Email for Editors
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-**Expected launch date**: April 2023
+**Expected launch date**: September 2023
 
-* 22-0994 (Application for Veteran Employment Through Technology Education Courses (VET TEC).
-
-**Expected launch date**: May 2023
-
-* 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)
-
-**Expected launch date**: March 2023 (This one may be more complicated because it already has a notification)
-
-#### User Roles - SSUI
-Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
-
-**Expected launch date**: April/May 2023
-
-#### White Listing - SSUI
+#### Whitelist (Post-MVP) - SSUI
 Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality, but enhanced security as well.
 
-**Expected launch date**: May/June 2023
+**Expected launch date**: September 2023
 
-### Q3 - Q4 CY2023 (July - December)
+#### Promote to Production (Phase 3) - SSUI - SMS for Admins
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Expected launch date**: October 2023
+
+#### Promote to Production (Phase 4) - SSUI - SMS for Editors
+Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
+
+**Expected launch date**: November 2023
+
+## Deprioritized for 2023
+
 ### Notify Team
-#### CISCO webex connect integration
-We are expanding our notification provider integrations to include Cisco, so we can support more VA notification use cases like VEO AudioCARE.
+
+#### Support for Mass/Bulk Notifications
+
+VA Notify currently supports automated, individualized notification events. However, other use cases may be ad-hoc or one-time and should send to a defined list of recipients. VA Notify will  research these opportunities within the VA and build functionality to support these one-off notifications.
 
 #### Email Encryption
-We will implement a secure solution to deliver sensitive information to Veterans digitally.
+
+Some notification use cases include sensitive information like PII or PHI. We cannot send this through non-encrypted or non-authenticated channels like email or SMS. We will investigate options to address this problem so Veterans can get the information they need through a secure, digital solution. 
+
+#### Support for Cisco Webex Connect (IMImobile)
+
+The Veterans Experience Office (VEO) is furthering its partnership with Cisco to address AudioCARE needs for Veteran prescription and appointment use cases. As the enterprise notification solution for VA, VA Notify will continue to be provider agnostic. VA Notify currently supports Amazon services and Twilio and will add support for Cisco to ensure we can meet notification needs for all VA business lines, regardless of the provider.
+
+#### Support for CC/BCC on Email Notifications
+
+The need for CC/BCC functionality frequently surfaces when discussing potential use cases with business lines. For example, this functionality is essential when considering the PACT Act, as copied VSO’s, VSR’s, and/or caregivers can receive the exact same information the Veteran receives and immediately provide guidance, support, and advocacy throughout the review process. Another potential benefit of CC/BCC is the collection of feedback from copied parties to improve notifications as processes change.
+
 
 #### SMTP/Internal Notification Support
 We want the notification experience to be the same regardless of the recipient having an external email address or an internal VA.gov address. Currently VA Notify emails are labelled as "EXTERNAL" when sent to va.gov recipients.
-
-#### CC/BCC Support
-We want to allow business lines to incorporate supporting recipients into emails, like VSOs/VSRs, so Veterans get the notifications they need with the help they need from approved individuals.
 
 #### Multi-Account Support for Providers
 As VA business lines acquire their own provider account(s), VA Notify must add support to send notifications through the appropriate provider and account (Amazon Pinpoint, Twilio, Cisco, etc.).
@@ -244,6 +250,9 @@ VA Notify currently partners with VEText to send push notifications for the Flag
 
 ### Strike Team
 
+#### Secondary User Roles - SSUI
+Defining permission-based roles within the Self-Service Portal helps business lines maintain higher security practices in line with VA standards when establishing and maintaining teams, especially when team members can turn over frequently.  Business lines will be able to define who within their team can create and edit notifications, customize service details, and publish notifications from staging to production. 
+
 #### Email Editor Enhancements
 Our user research suggests that using markdown to write emails within the Self-Service Portal is a major barrier to entry. Not only do users have to learn markdown to customize notifications, they have to save their notification drafts to preview them. In our mission to create a one-stop shop for business lines to create and maintain notifications, replacing the markdown editor with a free text editor and adding a preview pane is crucial to facilitate the creation of notifications.  
 
@@ -252,6 +261,3 @@ During onboarding, VA Notify meets with business lines to learn about their proc
 
 #### Service Configurations
 When it comes to SMS notifications, not only does text content have to be informative and concise, but Veterans have to trust the sender. Enabling service level administrators to assign 10-DLC/Short codes at a service level for SMS notifications ensures they can send consistent notifications from numbers that Veterans trust.
-
-#### Consolidating Notifications Across VA
-Currently, Veterans receive notifications from multiple channels. Messaging across these channels is not consistent or well-balanced, which leads to a fragmented online experience for Veterans. Moving form confirmation notifications from Govdelivery to VA Notify is a step in the right direction because it allows VA Notify to better identify and optimize the overall Veteran online notification experience.

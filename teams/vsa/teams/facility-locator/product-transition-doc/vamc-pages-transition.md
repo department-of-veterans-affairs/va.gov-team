@@ -73,7 +73,7 @@ The most critical path items are listed below but do not represent the total of 
   - **Billing and insurance** - Epic [#37366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37366)
 - **Lovell federal health care** - Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [**Initiative brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
     - _next up: research on dual eligibles to validate design for switching between DoD and VA experiences_
-- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+- **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770)
     - _next up: Veteran research_
       - [_research plan_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) 
       - [_conversation guide_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md)

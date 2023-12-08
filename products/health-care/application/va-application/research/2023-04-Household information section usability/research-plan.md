@@ -1,7 +1,7 @@
 # Research Plan for [1010 Team, 10-10EZ, Household financial information section usability/UAT]
 
 ## Background
-The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting it this section being a focus of a recent optimization effort (Epic # ). 
+The Health Care Application (10-10EZ) enables Veterans to access and apply for VA health care easily with any device at any time, with or without assistance. The household information section/step has been observed as a section of the applicaiton with high drop-off rates and being a pain point in research, resulting in this section being a focus of a recent optimization effort ([Epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)). 
 
 The household information section includes questions on:
 - Financial disclosure
@@ -10,7 +10,7 @@ The household information section includes questions on:
 - Annual income
 - Deductible expenses
 
-This optimization effort has gone through colloboration cycle (ticket number link) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses. 
+This optimization effort has gone through [colloboration cycle](https://github.com/department-of-veterans-affairs/va.gov-team/issues/47766) and this study will happen post-staging review. This research study is focusing on an iteration of one specific section - the household financial information - including the ability to add multiple dependents using the new experimental pattern (and components) for mutliple responses with a multi-page response. 
 
 We will focus on testing for the following use cases during this study: 
 - Applicant is married with 2 dependents.
@@ -55,17 +55,19 @@ What are you trying to learn from this research?
 
 
 ### Outcome
-These learnings will allow us to evaluate for additional gaps prior to launching these updates to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
+These learnings will allow us to evaluate for additional gaps during the rollout of these updates to production. The findings and recommendations will be categorized as to if there are any blockers and what can be addressed in future interations.
 
 
 ### Research questions
 **Goal 1: Test the usability of the experimental pattern for adding multiple dependents to the household financial information section.**
-- When arriving at the dependent questions, is there any confusion on who the user should add here? (Who does the VA consider a dependent)
-- Are any of the content/questions unclear or cause the user to pause?
-- Can users easily move through the pages of dependent questions? 
-- Are the questions grouped by topic (one-thing-per-page) as it would make sense to the user?  
-- After adding their first dependent, do users know how to make changes or remove a dependent from the application?
-- Do users comment on the progress bar during this process?
+- When arriving at the dependent questions, is there any confusion on who the participant should add here? (Who does the VA consider a dependent?)
+- Are any of the content/questions unclear or cause the participant to pause?
+- Can participants easily move through the pages of dependent questions? 
+- Are the questions grouped by topic (one-thing-per-page) as it would make sense to the participant?  
+- After adding their first dependent, do participants know how to make changes or remove a dependent from the application?
+- Do participants comment on the progress bar during this process?
+- Are participants able to make adjustments to their dependents from the review page easily or do they struggle?
+- Do participants seem to be confident when making edits on the review page or hesitant?
 
 
 **Goal 2: Determine if the there are any issues for assistive tech users when they add multiple dependents to the application.**
@@ -75,22 +77,22 @@ These learnings will allow us to evaluate for additional gaps prior to launching
 - Can users easily edit and make changes or is this process a pain point?
 - Do users using screen magnification have any issues with the action button placement on the dependent cards or the confirmation modals?
 - Does the progress bar or other form elements make it more challenging for assistive tech users?
+- Can participants edit from the review page or does this present any challenges?
 
 
 **Goal 3: Determine if the updated content for the household information section is clear and understandable or if any areas of confusion remain.**
-- Do users seem to struggle or question any of the content revisions on the onboarding page?
-- Do users seem frustrated or appreciative of the extra pages with information (onboarding and documents needed)?
-- Do users interact with the additional info components to learn more? Which ones? Do they feel confident or confused after reading that information?
-
+- Do participants seem to struggle or question any of the content revisions on the onboarding page?
+- Do participants seem frustrated or appreciative of the extra pages with information (onboarding and documents needed)?
+- Do participants interact with the additional info components to learn more? Which ones? Do they feel confident or confused after reading that information?
+- Do participants find any questions difficult to understand or seem to need more information to answer?
 
 
 ### Hypothesis
-
-- Users will easily be able to add multiple dependents and move through the pages of questions.
-- Users will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
-- Users will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit. 
+- Partipants will easily be able to add multiple dependents and move through the pages of questions.
+- Partipants will appreciate the confirmation when destructive actions - such as remove or cancel - are initiated. (modals)
+- Partipants will call out the edit flow for dependents as they have to go through all the pages and can't direcly edit, would suggest they would appreciate a more direct route to edit. 
 - The onboarding/documents page is well received as being clear and informational leading to a more positive perception about sharing this information.
-- The content helps the user answer questions confidently and accuratley. 
+- The content helps the participant answer questions confidently and accuratley. 
 
 
 
@@ -107,49 +109,61 @@ Remote, moderated via Zoom.
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/conversation-guide.md)
-- [Link to staging (once development / staging review complete)](url goes here)
-
+- [Link to staging (once development / staging review complete)](https://staging.va.gov/health-care/apply/application/introduction)
+- [Link to recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/360)
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Our intended audience for this reasearch are Veterans and we will be using and leveraging Perigean to recruit participants.
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Our intended audience for this research are Veterans and we will be using and leveraging Perigean to recruit participants.
 
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-Veterans: completed 10; requested 15
-
-
+**Veterans: Completed 6; requested 9**
 
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+- All must have a disability rating of 40% or below 
+- All must currently or in the past claimed dependents (on their tax returns)
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+- At least 2 using a screen reader during the session
+- At least 2 are using a mobile device during the session
+- Diverse mix of age ranges
+- No more than 1 participant with a Bachelor's degree or higher
+- At least 2 participants who are Black
+- At least 2 participants who are Hispanic
+
+
+
+### Screener questions
+
+
+For all: 
+- Do you have a disability rating of over 50%? (Proceed if no, if yes, disqualify)
+- Do you currently or in the past claimed dependents on your tax return? (Proceed if yes, if no, disqualify)
+
+
+For recruiting 2 screen reader users
+- (a) Do you need to use assistive technology to use the internet such as VoiceOver on an Apple device, TalkBack on an Android device, or JAWS on a computer? (Proceed to question b if yes, if no, disqualify)
+- (b) Are you able to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+
+For recuriting 2 mobile users
+- Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria)
+
+
 
 
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -158,27 +172,50 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Pilot participant email:
 * Date and time of pilot session: 
 
+
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: **August 21 - August 25, 2023**
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 1 hour
+* Buffer time between sessions: 1 hour
+* Maximum Sessions per day: 2
+
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
+
+
+| **Team Availability** | **Time (ET)** 	|
+| --------------------- | --------------------- |
+| August 21, 2023  	|  11am - 5pm ET 	|
+| August 22, 2023  	|  11am - 5pm ET 	|
+| August 23, 2023  	|  11am - 4pm ET 	|
+| August 24, 2023  	|  10am - 4pm ET 	|
+| August 25, 2023  	|  10am - 4pm ET 	|
+
+
+
+
+ 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Moderator: David Kennedy (david.kennedy@adhocteam.us) and team
+- Research guide writing and task development: Jessica Stump (jessica.stump@adhocteam.us)	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Moderators
+- Participant(s) for pilot test: 
+- Note-takers: Perigean, 1010 Team
+- Observers: Heather Justice (heather.justice@adhocteam.us), Matt Long (matt.long@adhocteam.us), Jessica Stump (jessica.stump@adhocteam.us), Katelyn Caillouet (katelyn.caillouet@agile6.com), Hieu Vo (hieu.vo@agile6.com) 
+Observers: [link to sign up post on Slack](https://dsva.slack.com/docs/T03FECE8V/F05M2V3T4FM)
+
+
+> **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+- Kristen McConnell (kristen.mcconnell@va.gov)
+
+
+
+## Approvals 
+- Kristen McConnell (kristen.mcconnell@va.gov) on August 4, 2023
+

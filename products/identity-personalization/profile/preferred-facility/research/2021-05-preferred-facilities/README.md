@@ -1,1 +1,1 @@
-Research findings are [in the VAOS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md).
+Research findings are [in the VAOS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research).

@@ -7,7 +7,7 @@ Jump to:
 * [Addresses, phone numbers, hours, map thumbnails &#8595; ]([#addresses-phone-numbers-hours-map-thumbnails)
 * [Services &#8595; ](#services)
 * [Facility status &#8595; ](#facility-status)
-* [COVID health status &#8595; ](#covid-health-status)
+* Facility & CMS Team workflows
 
 ## Addresses, phone numbers, hours, map thumbnails
 
@@ -18,9 +18,9 @@ VHA Clinics | Email the name of the facility and the missing or inaccurate detai
 Vet Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Center Outstations | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
-NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
-Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. 
+NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 
  ## Services
  
@@ -33,7 +33,7 @@ Vet Center Outstations | N/A - services are standardized and not dynamic/databas
 Vet Centers Community Access Point  | N/A - No Services
 NCA Cemeteries | N/A - No Services
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
-Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Dave Conlon, VA Product Owner at david.conlon@va.gov
+Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
  
  ## Facility Status
  
@@ -47,18 +47,21 @@ Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.
 NCA Cemeteries | Contact Lisa Hollenbeck (Lisa.Hollenbeck2@va.gov) in NCA 
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
 Community care providers and pharmacies (usually non-VA facilities)	| N/A
-
-## COVID health status
-
-Note: These will likely be deprecated soon.
-
-  Facility type	|	Process
----	|	---
-VHA Medical Centers or VA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor
-VHA Medical Centers or VA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor
-Vet Centers | N/A
-Vet Center Outstations | N/A
 Vet Centers Community Access Point  | N/A
 NCA Cemeteries | N/A
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	N/A
 Community care providers and pharmacies (usually non-VA facilities)	| N/A
+
+
+## Facilities & CMS Team workflows
+
+### Facilities team
+If Facilities team learns about any incorrect Facility data, contact VHA DM for follow up with the relevant Editor.
+
+### Helpdesk (CMS Team)
+If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, flag with Editors to follow the runbook above.
+
+If Editors haven’t taken action after CMS Team suggests next steps, CMS team should contact Facilities team to escalate to VHA DM team. Create a post in DSVA Slack, #facilities-support, and include the following:
+ * Identify which facility needs Editor action (provide a link)
+ * Ask for escalation to VHA DM
+ * Tag Facilities DM & PM, and cc: CMS Team DM & PM

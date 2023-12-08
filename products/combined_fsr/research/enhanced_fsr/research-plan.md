@@ -106,12 +106,10 @@ How will this research advance your product to the next phase in the design proc
     
 3.  What do Veterans expect to happen after they submit/complete their request? (comprehension)
     	-   What communications do Veterans expect to receive about their request?
-    
 
 4.  Do Veterans understand what assets and expenses to include in each section? (comprehension)
     	-   Does clarifying content in the “Real Estate” and “Vehicle” section help Veterans understand what kind of property and vehicles to include?
     
-
 5.  How understandable is the new list loop format, UI, and UX? (usability)
     	-   How learnable is it?
     
@@ -119,9 +117,7 @@ How will this research advance your product to the next phase in the design proc
     
 	-   Are Veterans able to add custom items using the “Add additional …” action link?
     
-
-6.  How understandable are other non-list loop specific changes? (usability)
-        
+6.  How understandable are other non-list loop specific changes (contact info, resolution options)? (usability)
 
 7.  How do Veterans feel about the amount of effort this form requires? (satisfaction)
     
@@ -130,27 +126,19 @@ How will this research advance your product to the next phase in the design proc
 ### Hypothesis
 *What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.*
 
-1.  Veterans will understand the purpose of the form and why they need to fill out
-    
-2.  Veterans will be able to easily edit their contact information
-    
-3.  Veterans will be able to easily select their VA benefit information
-    
-4.  Veterans will be able to easily use the new list & loop pattern
-    
-5.  Veterans will have questions regarding what assets and expenses to include
-    
-6.  Veterans will need to gather information to fill out certain sections *
-    
-7.  Some Veterans may need help to fill out the form and will need assistance in finding information and filling out the form
-    
-8.  Veterans satisfaction with the form will exceed what they would expect based on their past experience filling out government forms
-    
-9.  Veterans will say there are too many pages on the form
-    
-10.  Veterans will want to see their progress in a meaningful way
-    
-11.  Veterans will understand the resolution options but will have questions on how their selection is handled
+**Assumptions**: 
+- They have co-pay or benefit overpayment debt or both 
+- They need/want to fill out the FSR form because of financial need/hardship
+- They are already engaged with the VA in some form (receiving care from VHA,receiving benefits VBA)
+
+Primary Hypothesis
+
+Veterans will be able to easily understand and fill out the form given the new list & loop pattern, be able to edit their contact information, view and edit their VA benefits, and easily view and understand the resolution options. 
+
+Secondary Hypothesis
+
+The enhanced FSR format and language will be easy to digest, and most will be able to fill out the form independently (accessibility). 
+
 
 ## Method	
 *Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*
@@ -166,7 +154,7 @@ Remote - on Zoom.
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
--   [Conversation guide](https://docs.google.com/document/d/1mzaBaPrwa6o5QDTtJhxJhetDYZ7x8WhRQZ10yCSt8mM/edit#)
+-   [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/enhanced_fsr/conversation-guide.md)
   
 -  [FSR form on VA.gov](http://va.gov/manage-va-debt/request-debt-help-form-5655/)
   
@@ -234,7 +222,7 @@ Note: The following demographic criteria is our goal, but we understand that his
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-**Desired timeline: begin moderating sessions 4/3/2023 - 4/10/2023**
+**Desired timeline: begin moderating sessions 4/26/2023 - 5/4/2023**
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -245,7 +233,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 -   Date and time of pilot session: 
 
 ### Research sessions
-**Planned dates of research: begin moderating sessions 4/26/2023 - 5/4/2023**
+**Planned dates of research: begin moderating sessions 4/26/2023 - 5/5/2023**
 
 ### Length of sessions
 
@@ -255,12 +243,30 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 -   Max number of sessions per day: 2
 
+### Kickoff Call with Perigean: Availability
+
+Friday 4/7/23: window 8am PT / 11am ET - 12pm PT / 3pm ET, 
+
+Monday 4/10: window 1pm PT / 4pm ET - 2pm PT / 5pm ET
+
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 participants recruited, 18 time slots available, for 6 participants minimum***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 	Monday - Friday begin sessions at 10am ET and end sessions at 6pm ET
+	
+	2 Max per day
+	
+	Wednesday, April 26 - 10am ET - 6pm ET
+	Thursday, April 27 - 10am ET - 6pm ET
+	Friday, April 28 - 10am ET - 6pm ET
+	Monday, May 1st - 10am ET - 6pm ET
+	Tuesday, May 2nd - 10am ET - 6pm ET
+	Wednesday, May 3rd - 10am ET - 6pm ET
+	Thursday, May 4th - 10am ET - 6pm ET
+	Friday, May 5th - 10am ET - 6pm ET
+	As needed if minimum number of participants not attained: Monday, May 8th and Tuesday May 9th - 10am ET - 6pm ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -270,7 +276,7 @@ Please list the people who will be serving in each role. **Include the primary p
     
 -   Participant recruiting & screening: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@govcio.com)
     
--   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@gcio.com)
+-   Project point of contact: [Charlotte Cesana](mailto:charlotte@cityfriends.tech), [Megan Gayle](mailto:megan.gayle@govcio.com)
     
 -   Participant(s) for pilot test: TBD
     
@@ -278,5 +284,5 @@ Please list the people who will be serving in each role. **Include the primary p
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
 
-	megan.gayle@gcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@govcio.com, heather.rienks@va.gov, matthew.self2@va.gov, jill.anderson3@va.gov, andrew.rodiek@govcio.com, brandyn.sullins@govcio.com, aaron.ponce@agile6.com, scott.james@govcio.com
+	megan.gayle@govcio.com, joseph@cityfriends.tech, charlotte@cityfriends.tech, denise.coveyduc@va.com, heather.rienks@agile6.com, matthew.self2@va.gov, jill.anderson3@va.gov, andrew.rodiek@govcio.com, brandyn.sullins@govcio.com, aaron.ponce@agile6.com, scott.james@govcio.com, kevin.suarez@agile6.com, thomas.davis@govcio.com
 

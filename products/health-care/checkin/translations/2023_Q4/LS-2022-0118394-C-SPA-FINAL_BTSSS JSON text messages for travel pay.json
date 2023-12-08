@@ -1,0 +1,5 @@
+{
+  "btsss-response-text-error-general": "Lo sentimos. Algo no ha funcionado. Presente su reclamación por gastos de viaje en línea dentro de 30 días en https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/ (en inglés)",
+  "btsss-response-text-error-claim-exists": "Ya ha presentado una reclamación para su cita del 30-09-2023. Puede verificar el estado de su reclamación en https://va.gov/accessva-travel-claim (en inglés)",
+  "btsss-response-text-success": "Hemos recibido su reclamación de reembolso por gastos de viaje del 30-09-2023. Número de reclamación TC202207000011666 Verifique el estado de su reclamación en https://va.gov/accessva-travel-claim (en inglés)"
+}

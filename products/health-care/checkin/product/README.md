@@ -1,39 +1,39 @@
 # Product Outline - Patient Check-in: Pre-Check-in & eCheck-in 
 
 ## Overview
-The patient check-in (PCI) product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The Modernized Check-In team created the portion of the ecosystem that enables a Veteran to utilize their smartphone to “check in” through VA.gov. 
+The patient check-in (PCI) product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The Modernized Check-in Team created the portion of the ecosystem that enables a Veteran to utilize their smartphone to check in through VA.gov. 
 
-![image](https://user-images.githubusercontent.com/86678742/199791829-6b0dfd35-9a7f-4a86-86c2-20e93529843e.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/93271257/47b7e504-2df9-4307-849e-c7bc84f6912e)
 
 ## Problem Statement
-Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran can be instructed to check-in with a staff member once they arrive for their appointment.
+Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran is instructed to check-in with a staff member once they arrive for their appointment.
 
-eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which comprises the time up to 45 minutes before & 15 minutes after the appointment. The eCheck-in application is intented to replace the check-in functionality on the kiosks currently used at VA facilities. 
+eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which starts 45 minutes before and ends 15 minutes after the scheduled appointment time. The eCheck-in application is intended to replace the check-in functionality on the kiosks currently used at VA facilities. 
 
 ## Desired User Outcomes
  - Veterans can easily and quickly check in for their appointments using their mobile device
  - Veterans can easily and quickly perform authentication to check in for their appointments
  - Veterans routinely choose the mobile check-in over face-to-face check-in experiences
- - Wait times between arrival and completion of check-in are improved
+ - Wait times between arrival and completion of check-in decrease
  
 ## Desired Business Outcomes
- - Staff are freed to perform patient-care 
+ - Staff are freed to perform patient care 
  - Infrasturcture for unified digital healthcare is created
- - Wait times between arrival and completion of check-in are improved
+ - Wait times between arrival and completion of check-in decrease
  
 ## Undesired User Outcomes
  - The only alternative to using kiosks is face-to-face check-in
- - Increased face-to-face interactions
+ - The amount of face-to-face interactions increases
  - Veterans must perform face-to-face check-ins
  - Veterans have an experience that is inferior or less intuitive than the current physical kiosks 
  - Veterans choose face-to-face interactions over the modbile check-in
- - Wait times between arrival and completion of check-in are increased
+ - Wait times between arrival and completion of check-in increase
 
 ## Undesired Business Outcomes
  - The only alternative to using kiosks is face-to-face check-in
- - Increased face-to-face interactions
+ - The amount of face-to-face interactions increases
  - Veterans must perform face-to-face check-ins
- - Wait times between arrival and completion of check-in are increased
+ - Wait times between arrival and completion of check-in increase
  
 ## Measuring Success
 
@@ -56,14 +56,19 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 
 #### [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#pre-check-in)
 
+[Update product guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
 ### Production Wireframes in VA Sketch Cloud
-- [In person Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/BE60720E-7D9D-46BD-AF86-6332C23E7D8B) in Sketch Cloud
-- [In person Check-in](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/prototype/a/9F9F9F9F-E205-4F5E-9177-DD4AD750828C) in Sketch Cloud
-- [Telephone Pre-Check-in](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/prototype/a/407FA16E-4716-43C8-8898-B25F96F61001) in Sketch Cloud
+- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/D830D75A-3B87-4A5F-9EAF-622D2913AF5D) in Sketch Cloud
+- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/F5EF96F6-7B82-4D03-95F5-7DAB610B8617) in Sketch Cloud
+- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/EA3E9DDA-30E8-47AB-8335-C31F3A0AFB5C) in Sketch Cloud
 
 ## Launch Strategy
 - Limited availability release to St. Louis in early 2022
 - General availability rollout to 1 VISN per week to support training needs
+
+## Incident Response Plan (Production Support)
+
+- [Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
 ## Initiatives
 
@@ -71,11 +76,12 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Status: Released on 5/2/2022
 - Purpose: Allow Veterans to check in to their appointment on the day of their appointment so that staff members are notified of their arrival
 - Functionality:
-     - Veteran, during the check-in window and once arriving for their appointment, uses their mobile device to text "check in" to a VA code (can also scan a QR code to pre-populate the text)
+     - Veteran, during the check-in window and once arriving for their appointment, uses their mobile device to text "check in" to a VA code
      - Veteran receives a customized link to the eCheck-in application
-     - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and DOB
+     - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and date of birth
      - Veteran selects the appointment for which they want to check in and checks-in
      - Once check-in is complete, the VA facility will be notified that the Veteran has checked in 
+- Applies to: In-person appointments only
 
 #### [Pre-check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
@@ -83,13 +89,23 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Functionality:
      - Veteran receives a request via text to confirm a VA health appointment
      - Veteran confirms their appointment and receives a link to complete Pre-Check-in
-     - Veteran loads the Pre-Check-in application and verifies their identity by entering their Last Name and DOB
+     - Veteran loads the Pre-Check-in application and verifies their identity by entering their Last Name and date of birth
      - Veteran reviewes their contact, emergency contact, and next-of-kin information and indicates if the information is correct or needs to be updated
      - Once pre-check-in is complete, the VA facility will be notified as to whether the Veteran will need to update their information at the time of their appointment
      - If the Veteran needs to update their information, they are directed to check-in with a staff member at the time of their appointment
+- Applies to: In-person and phone appointments only
+
+#### Support for Phone Appointments
+ - Status: Released
+ - Purpose: Added Pre-Check-in support for phone appointments
+ - Additional Info: Based on the conversation in this [slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1682438155187729?thread_ts=1682432660.843999&cid=C022AC2STBM), the following decisions have been made:
+      - We will not support video/telehealth appointments in Pre-Check-in and eCheck-in because 
+          - Video appointments use telehealth software that includes notifications and instructions for the appointments, therefore, Pre-Check-in & eCheck-in are not needed and would conflict with these telehealth applications 
+          - Video appointments typically don't involve MSA staff interacting with the Veteran prior to the appointment with the doctor 
+      - We will not support Community Care appointments in Pre-Check-in and eCheck-in because they are maintained outside of the VA's system and would be problematic to integrate with  
 
 #### Spanish Language Support 
-- Status: Released on 6/28/2022
+- Status: Released on 7/7/2022
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Spanish
 
 #### Tagalog Language Support 
@@ -98,9 +114,9 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 
 #### [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
 - Status: In development
-- Purpose: Allow Veterans to submit a mileage-only travel reimbursement claim for their trip to a VA health appointment as an alternative to submitting the claim through the kiosk, Beneficiary Travel Self Service System (BTSSS), or travel office.
+- Purpose: Allow Veterans to submit a mileage-only travel reimbursement claim request for their trip to a VA health appointment as an alternative to submitting the claim through the kiosk, Beneficiary Travel Self Service System (BTSSS), or travel office
 - Functionality:
-     - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim when they check-in for an appointment
+     - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
 
 
 

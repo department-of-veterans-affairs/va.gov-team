@@ -113,11 +113,15 @@ Okay. You can get started by using the check in poster.
 
 ## Section 4: Mobile App
 
-- And, do you have the VA Health and Benefits Mobile app? 
+- And, do you use the VA Health & Benefits mobile app?
+
+*(Hint: The app icon is a blue background with VA letters. Located in the App/Play stores as VA Health & Beneifts. Launched in July 2020, it has features to check your claim or appeal, appointments and refill prescriptions.)*
 
 *If they answered "Yes" to having the mobile app:* 
 
-- And, what would you think about checking in to your appointment on the mobile app versus how you checked in today? 
+- And, how, if at all, would you expect to check in to your appointment using the mobile app versus doing what you did today? What would you expect that to be like? 
+
+*If "No," proceed to next section.* 
 
 ## Closing - Less than 1 minute 
 

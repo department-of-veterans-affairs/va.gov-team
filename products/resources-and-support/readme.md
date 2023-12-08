@@ -1,1 +1,0 @@
-Product: Resources and support

@@ -1,6 +1,6 @@
 # Personal Information Use Cases
 
-**Last updated:** August 22, 2022
+**Last updated:** August 1, 2023
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -24,4 +24,4 @@ There are no validation use cases for this feature.
 - [Something has gone wrong and VA.gov can't display legal name and/or disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/system-cant-display-disability-rating-or-legal-name.md)
 
 ## Flow diagrams
-- [High-level add/edit flow with screenshots](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/8E8C2FD5-BE91-45C2-BD5F-D71E27903187/canvas)
+- [Mobile page of Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/BE56DBF8-B1BF-4A60-9379-DC9F2C5098BB/canvas) has user flow

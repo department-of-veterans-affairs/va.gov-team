@@ -1,5 +1,5 @@
 # My VA Claims and Appeals Frontend Documentation
-Last updated: October 26, 2022
+Last updated: August 1, 2023
 
 ## When to show the ‘Claims and appeals’ section
 We show this section for every LOA3 user.
@@ -70,7 +70,7 @@ A max of **one** status card should be showing at any given time for a user.
 Use font awesome icon `file-lines` for icon
 
 **Show**
-- For users who do not have a claim or appeal update to show as outlined above.
+- For all LOA3 users.
 
 **Positioning**
 - This link should appear on the lefthand side on desktop as the first link in the list, above "Manage all claims and appeals".
@@ -91,8 +91,7 @@ Use font awesome icon `file-lines` for icon
 - For all LOA3 users.
 
 **Positioning**
-- If user has a claim or appeal status update card to show, this link should appear on the righthand side of the page on desktop.
-- If a user does not have a claim or appeal status update card to show, this link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
+- This link should appear on the lefthand side on desktop, below the "Learn how to file a claim" link.
 
 #### Content
 [Manage all claims and appeals](https://www.va.gov/claim-or-appeal-status/)
@@ -104,7 +103,7 @@ Use font awesome icon `file-lines` for icon
 ### Error State 1: The claims API call fails
 
 #### Visual specs
-- Use the [error alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--error) for the error message.
+- Use the [warning alert component](https://design.va.gov/components/alert#warning-alert) for the error message.
 >**We can't access your claims or appeals information**
 >
 >We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.

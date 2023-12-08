@@ -5,11 +5,10 @@ This document provides guidance about how to respond to incidents such as outage
 
 |Name|Role|Email|
 |----|----|-----|
-|Matthew Self            |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Zach Goldfine            |Product Owner, Gov't Lead| zachary.goldfine@va.gov |
 |Sade Ragsdale |Product Manager| sade@coforma.io|
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
-|Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
-|Rocio de Santiago | BE Engineer | rocio@coforma.io |
+|Eugene Lynvh | BE Engineer | eugene.lynch@coforma.io |
 |Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
 |Drew Fisher | Engineer, Lighthouse | drew.fisher@adhocteam.us |
 

@@ -54,7 +54,7 @@ The Facilities team portfolio includes the following unauthenticated products:
 
 ## Engineering
 - [Facility Locator documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
-- [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
+- [Facility Locator issue response and technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/technical-documentation.md#incident-response)
 - [PPMS troubleshooting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
 - [Creating vcr tapes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/PPMS%20Troubleshooting.md)
 - [Integration with Lighthouse](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facility-locator-integration-with-lighthouse.md)

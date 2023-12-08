@@ -1,5 +1,20 @@
 Content + Localization Team's Documents
 
+# Current state of localization as if Oct 2023
+Translations are handled almost entirely within the browser. 
+Drupal CMS has undertaken a project to implement translations in the CMS, but that is not broadly in use.
+
+# Content team requirements 
+Based on https://github.com/department-of-veterans-affairs/va.gov-team/issues/53916
+
+- Pages are slotted as siblings to the English versions in the hierarchy
+- URLs are the same as the English version with a 3 character language code appended to the end of the URL (i.e. "esp" for spanish, "tag" for tagalog, any additional languages will need to be defined)
+- Each page has a toggle to switch between languages at the top of the page
+- The breadcrumb current page segment is translated
+- The title tags are translated
+- The left nav updates the current page and child pages to the appropriate language - it was confirmed that each nav option is tagged with a language so it is read appropriately when intermingled with english options
+- Pages are linked to/referenced in the language resource page (spanish and tagalog)
+
 # Engineering and Architecture
 
 ## Frontend

@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Liquid Template Unit Testing Framework
 
 The Liquid Template Unit Testing Framework was created to replace Cypress for unit testing the logic in `liquid` templates because Cypress is slow, heavy, and is overkill for this purpose. More importantly, this framework provides us with total control over the test data which is critical for testing `liquid` templates, something that Cypress does not provide. For example, a you can test a given `liquid` template against any number of fixtures that represent different entries into the Drupal CMS, so bugs in `liquid` templates can be discovered more quickly.

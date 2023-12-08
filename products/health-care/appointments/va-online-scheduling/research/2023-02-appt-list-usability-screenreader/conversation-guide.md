@@ -45,7 +45,9 @@ There are a few things I want to mention about today's session:
 
    - There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your thoughts, so that we can improve the appointment features and make it work better for everyone.
     
-   - There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+   - You will be interacting with your VA.gov account today. We would like to enable the updated appointments feature and have you browse it. This means anything you do here could affect your account, but we will not be asking you to make any changes today. We will want to look at your appointments list, so we may see your upcoming appointments and history. We won't share this with anyone outside of the session.
+   **Just to confirm**: Would you be comfortable sharing this information during this session? If not, that is completely fine.
+       - If no: would you be comfortable with logging in and describing what you see?
     
    - This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
     
@@ -104,15 +106,17 @@ Thanks!
 
 We're going to run through a series of tasks related to managing your health care appointments at VA. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-## Task 1: Find the appointments list.
+## Task 1: Log in to VA.gov
 
 STARTING POINT: [va.gov appointment list](https://www.va.gov/health-care/schedule-view-va-appointments)
 
 PROMPT: Go ahead and login to your account using your email address and password. 
 
-## Task 2: Log in to VA.gov
+## Task 2: Find the appointments list.
 
 PROMPT: Next, say you wanted to find out what health appointments you have scheduled for the next month. Show me how you would find that from here.
+
+And just to confirm, are you okay sharing your health appointment info during this session?
 
 #### Things to watch for:
 
@@ -168,7 +172,7 @@ Tell me about some of the appointments you have had in the past.
 
 ## Post-Task Interview
 
-- Does anything you saw today reflect how you manage your health care appointments? 
+- Does anything we went over today reflect how you manage your health care appointments? 
 
 - What tools do you use to track and manage your appointments.
 

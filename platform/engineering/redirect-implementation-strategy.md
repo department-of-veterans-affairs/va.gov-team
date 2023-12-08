@@ -1,6 +1,6 @@
 # Redirect Implementation Strategy
 
-Last update: 1/6/23 — see change history below
+Last update: 5/4/23 — see change history below
 
 ---
 
@@ -25,13 +25,16 @@ As a veteran, I want to my old www.subdomain.va.gov or www.va.gov/something book
 
 ## Redirect Types / Examples
 
-|Current Page/URL | Redirect to | Type of redirect / implementation required | Code owner |
-|---|---|---|---|
-|www.va.gov/*| www.va.gov/* | Same-domain redirect within VA.gov (Server-side)| devops revproxy [redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/redirects.yml) |
-|vets.gov/*| www.va.gov/* | Vets.gov cross-domain redirect (Server-side)| devops revproxy [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/vetsgov-redirects.yml) |
-|pittsburgh.va.gov/* | www.va.gov/* | Full site redirect (Server-side)| Managed by WebOps |
-|benefits.va.gov/* (TeamSite loading proxy-rewrite) | www.va.gov/* | Page-level cross-domain redirect (Client-side )| vets-website [crossDomainRedirects.json](https://github.com/department-of-veterans-affairs/vets-website/blob/2d8d4321e81013dcec06be752e68c75d4236fee9/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json) |
-|ebenefits.va.gov/* | www.va.gov/* | Do not expect to route this through platform team, as site is not TeamSite, full site redirect |  |
+| # | Type of redirect / implementation required | Current Page/URL | Redirect to | Code / owner |
+|---|---|---|---|---|
+|[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#1-same-domain-redirect-redirect-within-wwwvagov) | Same-domain redirect within VA.gov <br>(Server-side)|www.va.gov/* | www.va.gov/* | devops revproxy [redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/redirects.yml), with IA signoff |
+|[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#2-vetsgov-cross-domain-redirect-page-level-redirect-from-vetsgov-to-wwwvagov) | Vets.gov cross-domain redirect, page level <br>(Server-side)| vets.gov/* | www.va.gov/* | devops revproxy [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/vetsgov-redirects.yml) |
+|[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#2-vetsgov-cross-domain-redirect-page-level-redirect-from-vetsgov-to-wwwvagov) | Full site redirect from subdomain > va.gov <br>(Server-side)| pittsburgh.va.gov | www.va.gov | Managed by WebOps |
+|[4a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/ injected header <br>(Client-side) | benefits.va.gov/* (TeamSite loading proxy-rewrite) | www.va.gov/* | vets-website [crossDomainRedirects.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json) |
+|[4b](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/o injected header <br>(Client-side )| subdomain.va.gov/* (TeamSite not loading proxy-rewrite) | www.va.gov/* | Follow [WebOps KB article](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) steps, TeamSite admins must execute |
+|[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#5-redirects-from-subdomains-subdomainvagov-to-subdomains-subdomainvagov) | Subdomain > Subdomain redirect | subdomain.va.gov/* | subdomain.va.gov/* | TBD nature of the subdomain, details below | 
+|[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#6-other) | Any subdomain redirect that is not a TeamSite loading proxy-rewrite | | | ESECC, details below |
+
 
 
 ---
@@ -98,7 +101,7 @@ _Any other notes_
 ### 3) Full site redirects from subdomains (subdomain.va.gov) to www.va.gov 
 
 _Server-side or client-side_
-Server side. Requires technical contacts and access to the hosting server.
+- Server side. Requires technical contacts and access to the hosting server.
 
 
 _When to do this?_
@@ -178,7 +181,7 @@ _Any other notes_
 - Level of difficulty: low if proxy-rewrite is in play; high if not (dependent on VA stakeholders)
 
 
-### 5) Redirects from subdomains (subdomain.va.gov) to subdomains (subdomain.va.gov)
+### 5) Redirects from subdomains (subdomain.va.gov/* ) to subdomains (subdomain.va.gov/* )
 
 This type of request has additional nuances. 
 
@@ -186,9 +189,11 @@ This type of request has additional nuances.
 Then the owners of the subdomain may be able to perform the redirect. This requires stakeholder involvement. 
 
 **If the subdmoain _is_ a TeamSite**
+WebOps will not act on this, as they only handle full-site redirects.
+
 The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
 
-If the TeamSite admins are unable to update the site, they may request a client-side redirect,  via the same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). 
+If the TeamSite admins are unable to update the site, they may request a client-side redirect, via the same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). 
 - Example: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11662. To date (Jan 2023) this approach is theoretically viable but in practice, we have not been able to get it working.
 
 
@@ -229,6 +234,8 @@ Some extra contact information: VA TIC Gateway Operations
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
+
+_5/4/23 - @jilladams updated table of examples and references to match narrative details lower in page._
 
 _1/6/23 - @jilladams updated to consolidate info from VSA Public Websites implementation notes. Updated technical notes for current._
 

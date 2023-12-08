@@ -22,8 +22,8 @@ High-level overview of our current projects:
 - [Main epics Zenhub board](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
 
 The main board rolls up tickets from two other boards: 
-* [Engineering board]() - Work currently being developed
-* [Product/design board]() - Product, design, and research
+- [Engineering board]() - Work currently being developed
+- [Product/design board]() - Product, design, and research
 
 ## Documentation
 
@@ -85,7 +85,7 @@ This GitHub folder is the central document hub for the VAOS product, but other i
 - Kristen McConnell
 
 **Program Management**
-- Katie Riddle
+- Lauren Ernest
 
 **Product Management**
 - Jeff Roof (lead)
@@ -113,13 +113,13 @@ Find team members and channels in the [DSVA Slack Space]().
 
 | Channel | Used for | 
 |---|---|
-| **#vaos-team** | Start here. Main channel for any general product, engineering, or design questions for VAOS front-end or backend teams, including: <br> - Team announcements, broad notifications <br> - Coordinated communication related to rollouts, releases, and launches <br> - SQA- and testing-related questions. |
-| #vaos-fe-meetup | VAOS FE team internal discussions. Private channel for [VAOS FE team members](#team-members). |
-| #vaos-engineering | VAOS engineering PPG channel. | 
-| #vaos-eng | Engineering practice and technical discussions. |
-| #vaos-alerts | Grafana alerts | 
+| **#appointments-team** | Start here. Main channel for any general product, engineering, or design questions for Appointments front-end or backend teams, including: <br> - Team announcements, broad notifications <br> - Coordinated communication related to rollouts, releases, and launches <br> - SQA- and testing-related questions. |
+| #appointments-fe-meetup | appointments FE team internal discussions. Private channel for [Appointments FE team members](#team-members). |
+| #vaos-engineering | Appointments BE and FE team engineering PPG channel. | 
+| #appointments-fe-eng | FE team Engineering practice and technical discussions. |
+| #appointments-alerts | Grafana alerts | 
 | #vaos-pull-requests | Pull request reminders |
-| #va-appointments-ux | User experience questions and coordination for VAOS, check-in, and mobile teams |
+| #appointments-ux | User experience questions and coordination for Appointments, Check-in, and Mobile app teams |
 
 ## Who We Work With
 

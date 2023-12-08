@@ -1,6 +1,6 @@
 {
   "name": "Codespace devcontainer config for the va.gov-team repository",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
   "hostRequirements": {
    "cpus": 8,
    "memory": "16gb",

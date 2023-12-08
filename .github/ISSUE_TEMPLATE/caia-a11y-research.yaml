@@ -1,0 +1,117 @@
+name: "Assistive Technology Research Support Ticket (CAIA)"
+description: "Request support for research with disabled Veterans using assistive technology"
+title: "[CAIA A11y Research]: Team name, product name"
+labels: ["508/Accessibility, sitewide CAIA, sitewide accessibility, CAIA-a11y-research"]
+assignees: [coforma-terry]
+body:
+- type: markdown
+  attributes:
+    value: "## Your team's information"
+- type: textarea
+  id: team
+  attributes:
+    label: Who's on your team?
+    description: This will help us reach out to you if needed
+    value: |
+      Team name:
+      OCTO-DE product owner:
+      Product manager:
+      Designer:
+      FE engineer:
+      Product/team Slack channel:
+      ...
+    render: bash
+  validations:
+    required: true
+
+- type: dropdown
+  id: champion-1
+  attributes:
+    label: Do you have an accessibility champion?
+    description: If you don't have one, totally ok! Let us know if you're interested in becoming one. [Learn more about becoming an Accessibility Champion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community)
+
+    options:
+      - No, we don't have a champion (yet)
+      - No, but we are interested in training one!
+      - Yes, we have a champion
+  validations:
+    required: true
+
+- type: input
+  id: champion-2
+  attributes:
+    label: If you have an accessibility champion, what's their name?
+    description: We'll aim to partner with them if they have time.
+  validations:
+    required: false
+    
+- type: input
+  id: champion-3
+  attributes:
+    label: Is anyone on your team interested in becoming an accessibility champion?
+    description: We'll reach out to them separately to get them started on their journey!
+  validations:
+    required: false
+
+- type: markdown
+  attributes:
+    value: "## Research details"
+- type: checkboxes
+  id: research-details
+  attributes:
+    label: Calendar checking
+    description: Before moving forwards, please [review our capacity calendar for CAIA availability](https://calendar.google.com/calendar/u/0/embed?src=c_f982350fc73a8162a1088ab14d00dd37335b2b559a60d6b67eb8021416f81c2a@group.calendar.google.com&ctz=America/Chicago)
+    options:
+      - label: Based on this calendar, confirm we have specialists who can support your study in your desired timeframe
+      - label: Confirm you are filing this support ticket at least 1 week in advance of said timeframe, so we have enough heads up to provide support
+
+- type: checkboxes
+  id: calendar
+  attributes:
+    label: Have you reviewed the CAIA capacity calendar?
+    description: Make sure your research's timeframe occurs when we have time to support y'all
+    options:
+      - label: Yes, we have reviewed the CAIA capacity calendar and can confirm specialists are available to support in our research timeframe
+  validations:
+    required: true
+    
+- type: input
+  id: timeframe
+  attributes:
+    label: When is the timeframe for your testing?
+  validations:
+    required: true
+    
+- type: textarea
+  id: artifacts
+  attributes:
+    label: Supporting artifacts (if any)
+    description: If relevant, please provide supporting artifacts as available
+    value: |
+      - [Product outline](Insert URL here between the parenthesis)
+      - [User flows](Insert URL here between the parenthesis)
+      - [Prototype or mockups](Insert URL here between the parenthesis)
+      - [Research plan](Insert URL here between the parenthesis)
+      - [Research conversation guide](Insert URL here between the parenthesis)
+      - [Epics/issue that may be helpful](Insert URL here between the parenthesis)
+      ...
+  validations:
+    required: true
+- type: checkboxes
+  id: next-steps
+  attributes:
+    label: Next steps
+    description: Complete these after submitting this ticket with your CAIA specialist
+    options:
+      - label: Post a link to this ticket in the accessibility-help Slack channel and tag Terry Nichols.
+      - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
+      - label: CAIA Specialists are assigned to your research, be sure to add the respective a11y specialist(s) to your session invites (include the Zoom or Teams link). 
+      - label: CAIA Specialists review your conversation guide and research plan
+      - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
+      - label: CAIA specialists will provide you an optional feedback form to let us know how we can support y'all better into the future.
+      - label: CAIA Specialists create a research notes template
+      - label: CAIA Post research, specialists will add accessibility findings to your research folder
+     
+      
+      
+

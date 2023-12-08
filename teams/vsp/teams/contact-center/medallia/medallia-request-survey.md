@@ -31,5 +31,3 @@ We currently have one recommended survey for Veteran-facing Services:
   - 5 = Very satisfied
 
 We recommend the above survey templates to create consistency across va.gov services. If you have any questions, please reach out to the VSP contact center team on the DSVA Slack channel, #vfs-platform-support, and begin your message with `VA.gov survey inquiry`.
-
-We are not implementing custom surveys at this time, but @jwoodman5 and the contact center team welcome your input if you have specific types of survey questions and implementations you're interested in.

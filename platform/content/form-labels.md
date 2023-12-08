@@ -1,4 +1,4 @@
-# This file is outdated. For the most recent version of this list, please go to [VA.gov form label masterlist](https://design.va.gov/patterns/form-labels) in the design system. 
+# This file is outdated. For the most recent version of this list, please go to [VA.gov form label masterlist](https://design.va.gov/content-style-guide/form-labels) in the design system. 
 
 
 

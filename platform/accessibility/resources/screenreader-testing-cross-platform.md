@@ -1,3 +1,13 @@
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
+
 # Getting Started with Screen Reader Testing
 
 Screen readers are an important part of the accessibility testing process. Users with low, partial, or no vision depend on screen readers to interpret web pages and help them navigate.

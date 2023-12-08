@@ -1,6 +1,6 @@
 # Profile Application - Getting Started and General Overview
 
-Update: March 4, 2022
+Update: November 21, 2023
 
 - [Purpose](#purpose)
 - [Overview](#overview)
@@ -102,40 +102,21 @@ This is faster than using the UI mode, and instead of passing a glob pattern, yo
 ### Run all unit tests within the profile.
 
 ``` bash
-yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js*
+yarn test:unit src/applications/personalization/profile/tests/**/*.unit.spec.js* --log-level trace
 ```
-A glob pattern can be substituted for single test file path as well, for when you are doing TDD on a test.
+A glob pattern can be substituted for single test file path as well, for when you are doing TDD on a test. The `--log-level trace` will add detailed trace logs when a tests fails. This can be a lot of noise added to terminal outputs, but can be very useful when trying to figure out exactly why a test fails.
 
 ---
 
 ### Generate test coverage for a specific app folder.
 
 ``` bash
-yarn test:coverage --app-folder personalization
+yarn test:coverage --app-folder personalization --coverage-html
 ```
 
 The app name passed in needs to be relatice to the root src/applications/ folder, so profile or dashboard are not valid names, so personalization will run coverage for those apps and all other apps in the folder.
 
-Then run:
-
-``` bash
-node script/app-coverage-report.js
-```
-
-To view more details, you can open `coverage/coverage-summary.json` after the coverage report is generated
-
-Note: some engineers may want to look at a file by file coverage report using the 'html' coverage reporter. The Istanbul package provides such reports, but producing these reports requires some modification to the current unit test node script. Below is a command that can be used to produce a coverage html report in the `./coverage` of vets website.
-
-``` bash
-LOG_LEVEL=debug NODE_ENV=test nyc --all --include 'src/applications/personalization/**' --reporter=html mocha --reporter mocha-multi-reporters --reporter-options configFile=config/mocha-multi-reporter.json --no-color --retries 5 --max-old-space-size=4096 --config config/mocha.json --recursive './src/applications/personalization/**/*.unit.spec.js?(x)'
-```
-
-It's a lengthy command, but if you dissect the `script/run-unit-test.js` node script you can see where it was derived from.
-
-
-
-
-
+Then open the `coverage/index.html` file in your browser to view the coverage report application.
 
 
 ## Other tips and resources for working on the VA Profile front end application

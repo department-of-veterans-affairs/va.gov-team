@@ -24,3 +24,5 @@ All VFSs (aka VA.gov features and products)
 
 ### [/teams](./teams)
 Internal resources for all teams currently building on or in support of VA.gov.
+
+![Journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/508%20compliant%20Journey%20Map.pdf)

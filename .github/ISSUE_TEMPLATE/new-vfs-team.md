@@ -2,7 +2,7 @@
 name: New VFS Team
 about: For orienting new VFS teams to Platform policies/practices
 title: New VFS Team [Insert team name here]
-labels: analytics-insights, governance-team, platform-orientation
+labels: analytics-insights, governance-team, platform-orientation, new-vfs-team
 assignees: ''
 
 ---
@@ -56,10 +56,12 @@ Add your team's practice and contact information below.
 
 ## ToT (Team of Teams) 
 - [ ] Join the #team-of-teams-slide-collection channel
-- [ ] Contact `@Julia Badillo` and/or `@Erica Robbins [GovCIO_VetsPS]` to receive Team of Teams Agenda and Protocol for reference
-- [ ] Introduce yourself with your name, team, and crew
+- [ ] Introduce yourself (i.e. provide name, team, and crew) to  `@Julia Badillo` and/or `@Erica Robbins [GovCIO_VetsPS]` to receive Team of Teams Agenda and Protocol for reference
 - [ ] #vfs-all-teams channel provides a Slack-Bot reminder 5 minutes prior to all Team of Teams meetings and includes a Zoom link
 - [ ] Use the #vfs-all-teams channel Zoom link provided to create your own calendar invite to attend all Team of Teams meetings
+
+## Introduce your team on slack
+- [ ] Introduce your team on the #vfs-all-teams Slack channel. Include team name, Product Manager, Product Owner, what crew your team is on, and what products you're supporting on VA.gov.
 
 ## Platform Orientation for your team members
 In addition to providing information to Platform and completing necessary tasks at the team level, there are also tasks that need to be completed at the individual level. As a team leader, you will need to: 
@@ -73,8 +75,7 @@ In addition to providing information to Platform and completing necessary tasks 
 - [ ] If an edit to your team's product page needs to be made, see the [user guide](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory-user-guide)
 
 ## ATO (Authorization to Operate) orientation
-- [ ] Reach out to Faith Arthur on Slack
-- [ ] Request and schedule an ATO team orientation
+- [ ] Post in the #platform-security Slack channel to request and schedule an ATO team orientation
 - [ ] Confirm that the orientation has been completed
 
 

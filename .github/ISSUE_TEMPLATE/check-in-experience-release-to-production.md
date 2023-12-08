@@ -17,18 +17,21 @@ assignees: ''
 - [ ] Publish updated Product Guides to Git, if necessary
 
 ## DESIGN TASKS
-- [ ]  Merge final wireframes (and/or poster) to Abstract main branch and collection, if necessary
+- [ ]  Merge final wireframes (and/or poster) in Sketch, if necessary
 - [ ]  Merge Sketch files (and/or poster) to VA Sketch cloud, if necessary
 - [ ]  Verify [production prototypes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product#production-wireframes-in-va-sketch-cloud) are updated
 - [ ] If poster is updated, create PDFs and update poster links in [Git](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
 
 ## PRODUCT TASKS
+- [ ] Close the Collab Cycle ticket
 - [ ] Create release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
 - [ ] Remove corresponding entry from the [Planned Releases page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
 - [ ] Send release notification via slack in the [check-in-expreience](https://dsva.slack.com/archives/C022AC2STBM) channel 
    - Text = "Modernized Check-in Production Release on <date>. Release notes can be found here" 
    - Link = include link to the release notes for the date of the production release
    - Call-outs = include call outs to
+      - Kay Lawyer
+      - Kristen McConnell
       - Stephen Barrs
       - Patrick Bateman
       - Shawn Adams
@@ -37,6 +40,8 @@ assignees: ''
    - Text = "Modernized Check-in Production Release on <date>. Release notes can be found here" 
    - Link = include link to the release notes for the date of the production release
    - Send email to
+      - Kay Lawyer
+      - Kristen McConnell
       - Stephen Barrs
       - Patrick Bateman
       - Shawn Adams

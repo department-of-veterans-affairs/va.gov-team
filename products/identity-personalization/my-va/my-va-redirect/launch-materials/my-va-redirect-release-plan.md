@@ -25,7 +25,7 @@
 - **Number of users:**
      - 13 scheduled, 10 completed 
 - **Number of bugs identified / fixed:**
-     - reported issues with sign-in service returning errors to the Identity team, nothing that our team can control
+     - reported issues with sign in service returning errors to the Identity team, nothing that our team can control
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
      - No
 

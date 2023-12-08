@@ -1,3 +1,7 @@
+**Jump to**
+
+[Error Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/design/sourceofcontenttruth.md#error-messaging)
+
 # Supplemental Claim Content Source of Truth
 
 **_SIGNED OUT_**
@@ -59,6 +63,14 @@ You can file a Supplemental Claim if you meet at least 1 of these requirements:
 - You have new and relevant evidence that we didn’t consider before, or
 - You have a condition that we now consider presumptive (such as under the PACT Act)
 
+What's a presumptive condition? (expand)
+
+>For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+>
+>If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+>
+>[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
 **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
@@ -70,14 +82,6 @@ You can file a Supplemental Claim if you have new and relevant evidence that we 
 If you don’t think this is the right form for you, you can go back to answer the questions again.
 
 [Go back to the questions]()
-
-What's a presumptive condition? (expand)
-
->For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
->
->If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
->
->[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
@@ -113,7 +117,7 @@ Here's how signing in now helps you:
 
 Respondent burden: 15 minutes
 
-OMB Control #: 2900-0862
+OMB Control #: 2900-0886
 
 Expiration date: 4/30/2024
 
@@ -121,6 +125,16 @@ Privacy Act Statement
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
+
+---
+
+### Privacy Act Statement
+
+**Respondent Burden:** We need this information to determine your eligibility for benefits (38 U.S.C. 3471). Title 38, United States Code, allows us to ask for this information. We estimate that you will need an average of 15 minutes to review the instructions, find the information, and complete this form. The VA cannot conduct or sponsor a collection of information unless a valid OMB (Office of Management and Budget) control number is displayed. You are not required to respond to a collection of information if this number is not displayed. Valid OMB control numbers can be located on the [OMB Internet Page (opens in a new tab)](www.reginfo.gov/public/do/PRAMain). If desired, you can call 800-827-1000 to get information on where to send comments or suggestions about this form.
+
+**Privacy Act Notice:** VA will not disclose information collected on this form to any source other than what has been authorized under the Privacy Act of 1974 or Title 38, Code of Federal Regulations 1.576 for routine uses (i.e., civil or criminal law enforcement, congressional communications, epidemiological or research studies, the collection of money owed to the United States, litigation in which the United States is a party or has an interest, the administration of VA programs and delivery of VA benefits, verification of identity and status, and personnel administration) as
+identified in the following VA systems of records published in the Federal Register: 58/VA21/22/28, Compensation, Pension, Education and Veterans Readiness and Employment Records -VA; 55VA26 Loan Guaranty Home, Condominium and Manufactured Home Loan Applicant Records, Specially Adapted Housing Applicant Records, and Vendee Loan Applicant Records -VA; and 36VA29, Veterans and Armed Forces Personnel Programs of Government Life Insurance -VA. Your obligation to respond is required to obtain or retain benefits. VA uses your SSN to identify your claims file. Providing your SSN will help ensure that your records are properly associated with your claim file. Giving us your SSN account information is voluntary. Refusal to provide your
+SSN by itself will not result in the denial of benefits. VA will not deny an individual benefits for refusing to provide his or her SSN unless the disclosure of the SSN is required by a Federal Statute of law in effect prior to January 1, 1975, and still in effect. The requested information is considered relevant and necessary to determine maximum benefits under the law. The responses you submit are considered confidential (38 U.S.C. 5701). Information submitted is subject to verification through computer matching programs with other agencies. 
 
 ---
 
@@ -142,6 +156,14 @@ You can file a Supplemental Claim if you meet at least 1 of these requirements:
 - You have new and relevant evidence that we didn’t consider before, or
 - You have a condition that we now consider presumptive (such as under the PACT Act)
 
+What's a presumptive condition? (expand)
+
+>For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
+>
+>If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
+>
+>[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
+
 You can file a Supplemental Claim if you have new and relevant evidence that we didn't have when we reviewed your case before. You can file your claim anytime, but we recommend you file within 1 year from the date on your decision letter.
 
 **Note:** You can’t file a Supplemental Claim if you have a fiduciary claim or a contested claim.
@@ -153,14 +175,6 @@ You can file a Supplemental Claim if you have new and relevant evidence that we 
 If you don’t think this is the right form for you, you can go back to answer the questions again.
 
 [Go back to the questions]()
-
-What's a presumptive condition? (expand)
-
->For some conditions, we automatically assume (or “presume”) that your service caused your condition. We call these “presumptive conditions.”
->
->If you have a presumptive condition, you don’t need to prove that your service caused the condition. You only need to meet the service requirements for the presumption.
->
->[Learn more about the PACT Act](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/)
 
 #### 2. Gather your information
 Here’s what you’ll need to apply: 
@@ -187,7 +201,7 @@ What happens after I apply? (expand) \
 
 How long this form may take: 15 minutes
 
-OMB Control #: 2900-0862
+OMB Control #: 2900-0886
 
 Expiration date: 4/30/2024
 
@@ -236,7 +250,7 @@ What's an Intent to File? (expand) \
 
 >When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
-**_CONTINUE_**
+**_Back_** | **_Continue_**
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
@@ -251,7 +265,7 @@ What's an Intent to File? (expand) \
 
 >When you submit an Intent to File, you're telling us that you plan to file a claim. This sets a potential start date (called an effective date) for when you could start getting benefits. It gives you time to prepare your claim and gather supporting documents. And it means that your start date for benefits may be earlier than the date you file your claim.
 
-**_CONTINUE_**
+**_Back_** | **_Continue_**
 
 **Need help?**
 If you need help with this form, call us at <a href="tel:+18006982411" aria-label="8 0 0. 6 9 8. 2 4 1 1.">800-698-2411</a> (<a href="tel:711" aria-label="TTY. 7 1 1.">TTY: 711</a>). Then select 0. We’re here 24/7.
@@ -555,7 +569,7 @@ We'll save your application every time you add or update information.
 
 How do I know if I have private medical records (expand)
 
->If you were treated by a private doctor, including a Veteran’s Choice doctor, you’ll have private medical records. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
+>You have private medical records If you were treated by a private doctor, including a Veteran’s Choice doctor. We’ll need to see those records to make a decision on your claim. A Disability Benefits Questionnaire is an example of a private medical record.
 
 **_Back_** | **_Continue_**
 
@@ -930,44 +944,73 @@ document type
 
 Confirmation
 
-## Thank you for filing a Supplemental Claim
+## Your Supplemental Claim
 
-When we've completed our review, we'll mail you a decision packet with the details of our decision.
+### Thank you for filing a Supplemental Claim
 
-## Your information for this claim
+We’ve received your Supplemental Claim application. After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
-### Your name
+### Your information for this Supplemental Claim
+
+#### Your name
 
 NAME
 
-### Date you filed your claim
+#### Date you filed your Supplemental Claim
 
 Month XX, XXXX
 
-### Issue(s) for review
+#### Issue(s) you'd like us to review
 
 - Issue
 - Issue
 
-BUTTON: Print this confirmation </br>
-LINK: Download your completed claim (PDF)
+### Download a copy for your records
 
-## What to expect next
+If you’d like your own copy of this confirmation page and a copy of your completed Supplemental Claim, you can download them now.
 
-If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam for you.
+**Note:** These documents are for your records only. We already have your completed Supplemental Claim. We ask that you don’t send us another copy.
 
-When we've completed your review, we'll mail you a decision packet with the details of our decision. [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+[[LINK] Download a copy of your Supplemental Claim (PDF)]()
 
-If you requested a decision review and haven’t heard back from us yet, please don’t request another review. Call us instead.
 
-**Note:** You can choose to have a hearing at any point in the claims process. Contact us online through Ask VA to request a hearing. [Contact us through Ask VA](https://ask.va.gov)
+### What to expect next
 
-You can also call us at [1-800-827-1000]() (TTY:711).
+You don’t need to do anything unless we send you a letter asking for more information. If we need more information for your Supplemental Claim, we may ask you to have a claim exam. 
+
+### How to contact us if you have questions
+
+You can ask us a question online thorugh Ask VA.
+
+[Contact us through Ask VA](https://ask.va.gov)
+
+Or call us at [1-800-827-1000]() (TTY:711).
+
+**If you don’t hear back from us about your Supplemental Claim**, don’t file another claim or request another type of decision review. Contact us online or call us instead. 
+
+**Note:** You can request a hearing about your Supplemental Claim at any time during the decision review process. 
 
 [Track the status of your claim](https://staging.va.gov/track-claims/your-claims)
 
 ### Need help?
 If you need help with this form, call us at [1-800-827-1000]() (TTY:711). Then select 0. We’re here 24/7.
+
+---
+
+## PDF Downlaod
+
+PDF of confirmation page information
+
+PDF of completed form with the watermark: ALREADY FILED ONLINE
+
+### Additional documents in your online application
+You submitted these documents as evidence: 
+- Evidence1.pdf
+- Evidence2.pdf
+- Evidence3.pdf
+  
+You also submitted this form to give us permission to request your private medical records: 
+- Authorization to disclose information to the Department of Veterans Affairs (VA form 21-4142)
 
 ---
 

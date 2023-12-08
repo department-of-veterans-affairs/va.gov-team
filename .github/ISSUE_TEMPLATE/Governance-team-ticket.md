@@ -29,10 +29,14 @@ _To be completed by peer reviewer_
 ## Acceptance Criteria
 - [ ] _Placeholder AC_
 
+## Team Notification
+- [ ] Slack post on #platform-governance-team
+- [ ] Presentation at Weekly Initiative Meeting
+- [ ] No notification needed
+
 ## How to prepare this issue
 ### Refinement
 - [ ] Ticket has user story, description, tasks, and acceptance criteria
-- [ ] Ticket has [additional appropriate labels](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2220359751/WIP+Tech+Debt+Ticket+Organization), if applicable
 - [ ] Ticket has been sized 
 - [ ] Once all above items are checked, add the 'Ready' label.
 ### Planning

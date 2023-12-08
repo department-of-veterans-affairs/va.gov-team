@@ -1,10 +1,11 @@
 # Product outline: Military information in the VA.gov profile
 
-**Last Updated: January 11, 2023**
+**Last Updated: September 8, 2023** added military information project, updated GH labels
 
 ### Table of Contents
 
-- [POCs](#pocs)
+- [Communications](#communications)
+- [Roles](#roles)
 - [Overview](#overview)
 - [User problem statements](#user-problem-statements)
 - [Analytics](#analytics)
@@ -13,11 +14,17 @@
 - [Backend](#backend)
 - [Design and UX](#design-and-ux)
 
-### POCs
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
-#### Roles  
+### Communications 
+- **Github labels:** authenticated-experience, military-info
+- **Slack channels**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
+
+### Roles  
+
+**OCTO Team**
+
 [This is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
+
 
 ## Overview
 
@@ -38,9 +45,11 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 ## Projects
 
-|Project|Launch date|
-|-------|-----------|
-|[Integrate military information through VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/vaprofile-integration#readme)| Launched August 2022|
+[For a complete list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
+
+|Project/Inititive|Epic|Launch date|
+|---|---|---|
+| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)| Intake|
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
@@ -65,4 +74,6 @@ The following provides a description of the different termination reason codes:
 ## Design and UX
 - [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
-- [High-level user flow with screenshots](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/v/nqRRpz/a/l1LzOgv/r/EYLLpY)
+- [User flow on mobile page of Sketch files has u](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/p/D6D40E33-BC4E-4A06-90C7-879C59AD49F4/canvas)
+
+## Frontend 

@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Sentry overview
 
 Sentry [members](http://sentry.vfs.va.gov/settings/vets-gov/members/) (users) can be members of many [teams](http://sentry.vfs.va.gov/settings/vets-gov/teams/) and a team can be a part of one or more projects.   An issue in Sentry can be assigned to an individual member or a team. 

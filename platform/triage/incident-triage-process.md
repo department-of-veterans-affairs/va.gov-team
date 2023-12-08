@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Triage Process - including Tier 2 and 3 Support
 
 *Note: this is an MVP process and we will continue to capture pain points as we test this out and learn what works well and what doesn't. It is intended to change as we learn!*

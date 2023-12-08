@@ -30,7 +30,7 @@ Is the homepage the appropriate location compared to a Campaign landing page, ba
 Measured by 
 - presence of link, promo content, or duplicate access via benefit hub on the body of the homepage 
 
-[_See how this rubric was applied during the launch of the homepage_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/popular-links-menu.md)
+[_See how this rubric was applied during the launch of the homepage_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/top-pages-menu.md)
 
 
 

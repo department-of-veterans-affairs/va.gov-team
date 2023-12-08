@@ -1,0 +1,22 @@
+{
+  "back-to-todays-appointments": "Balik sa mga appointment sa araw na ito",
+  "you-created-a-travel-claim-already": "Nagawa na ninyo ang inyong travel claim.",
+  "sorry-something-went-wrong-on-our-end-with-filing-your-travel-claim": "Paumanhin, nagkaproblema sa panig namin. Hindi kami makakapag-file ng travel reimbursement claim para sa inyo sa kasalukuyan. Ngunit maaari pa rin kayong mag-file sa loob ng <0>30 araw</0> ng appointment.",
+  "pre-check-in-no-longer-available--info-message": "Paumanhin. Hindi na makakapag-pre-check in para sa oras ng inyong appointment. Humingi ng tulong sa miyembrong kawani para magkapag-check in.",
+  "with": "sa",
+  "appointment": "appointment",
+  "when": "Kailan",
+  "what": "Ano",
+  "where-to-attend": "Saan pupunta",
+  "reason-for-visit": "Dahilan ng pagbisita",
+  "appointment-day": "{{ date, day }}, {{ date, monthDay }} sa {{ date, time }}",
+  "back-to-appointments": "Balik sa mga appointment",
+  "details": "Mga detalye",
+  "details-for-appointment": "Mga detalye para sa {{ type }} na appointment sa {{ time, time }}",
+  "directions-to-location": "Mga direksyon papunta sa {{ location }}",
+  "directions": "Mga direksyon",
+  "were-sorry-this-link-has-expired": "Paumanhin. Nag-expire na ang link na ito.",
+  "trying-to-check-in-for-an-appointment--info-message": "Sinusubukang mag-check in para sa appointment? I-text ang <0>check in</0> sa <1></1>.",
+  "were-sorry-cant-file-travel-file-later--info-message": "Paumanhin. Hindi kami makakapag-file ng travel reimbursement claim para sa inyo sa kasalukuyan. Ngunit maaari pa rin kayong mag-file sa loob ng <0>30 araw</0> ng appointment.",
+  "processing-travel-claim": "<0>Kasalukuyang pinoproseso namin ang inyong hiniling na travel reimbursement claim.</0> Padadalhan namin kayo ng text message na may status ng pagsusumite ng inyong travel reimbursement claim."
+}

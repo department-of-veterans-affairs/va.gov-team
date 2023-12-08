@@ -1,4 +1,12 @@
+----
 
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
 ## Screenreader Behavior With Fieldset, Legend, Labels
 
 * **Testing conducted:** the Date Picker, currently in production: [Apply for Healthcare - Vets.gov](https://staging.va.gov/health-care/apply/application/introduction)

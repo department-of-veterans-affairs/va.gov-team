@@ -17,7 +17,7 @@
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
 |Eugene Lynch | Engineer| eugene.lynch@coforma.io |
 |Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
-|Rocio de Santiago | BE Engineer | rocio@coforma.io |
+|Rocio de Santiago | FE Engineer | rocio@coforma.io |
 |Josh Kim | A11y lead | josh.kim@adhocteam.us |
 |Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
 |Drew Fisher | Engineer, Lighthouse | drew.fisher@adhocteam.us |
@@ -123,7 +123,7 @@ We want users to choose the right (best) decision review option; that means we d
 ## Links to the dashboard(s) 
 
 - Google Analytics
-- Domo
+- [Domo](https://va-gov.domo.com/page/447193050)
 - [Grafana - Claims and Appeals](https://grafana.vfs.va.gov/d/WxQ9lkUGz/claims-and-appeals-alerts?orgId=1&from=now-7d&to=now)
 - [Grafana - Supplemental Claims](https://grafana.vfs.va.gov/d/ejdUuxTVk/sc-supplemental-claims-dashboard?orgId=1)
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/10/?project=4&statsPeriod=7d)

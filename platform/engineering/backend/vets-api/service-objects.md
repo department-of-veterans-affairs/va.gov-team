@@ -7,6 +7,7 @@
 
 ----
 
+
 # Vets API Service Objects
 
 Calls to external service endpoints are done through service objects.

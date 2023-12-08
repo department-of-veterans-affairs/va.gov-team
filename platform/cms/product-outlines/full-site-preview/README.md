@@ -1,6 +1,8 @@
 # Full Site Preview
 
-_Last updated: 12/23/20_
+This product has not launched as of October 30, 2023. This will be a part of a larger effort to replace content-build with Next-Build.
+
+_Last updated: 10/30/23
 
 ## Problem statement
 

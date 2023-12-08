@@ -1,3 +1,13 @@
+----
+
+# We've moved our docs! 
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform support team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+----
+
 # What we mean when we talk about buttons coded as links
 
 This question was posed to us by a self-identified screen reader “power user”. The user asked during a research session if a link was styled as a button. That led to the research we are presenting here. We will seek to answer two key questions:

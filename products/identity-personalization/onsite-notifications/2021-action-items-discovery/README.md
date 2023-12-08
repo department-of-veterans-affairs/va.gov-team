@@ -1,6 +1,6 @@
 # Project outline: Action items discovery
 
-Last updated May 19, 2021
+Last updated April 25, 2023
 
 ### Communications
 
@@ -91,4 +91,4 @@ We plan to conduct a few sprints of discovery to learn more about how we could e
 
 ### Key Deliverables
 
-[Action items discovery research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)
+[Action items discovery research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md)

@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # Engineering Design Docs
 
 VSP has a practice of writing "design docs" for engineering projects in order to best set up the project implementation for success. Design docs serve a variety of purposes, including identifying likely pitfalls, communication about technical plans, consensus-building, and documentation to future stakeholders.

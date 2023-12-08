@@ -1,11 +1,15 @@
 # Project outline: On-site notifications MVP
 
-**Last updated: January 27, 2023 - updated metrics**
+**Last updated: October 3, 2023 - updated key dates, added note about removing feature**
+
+**NOTE:** On October 3, 2023, the Notifications section on My VA was removed from production. The feature was hidden behind a feature flag (and will eventually be removed from code) after the team and stakeholders determined this feature was not the right solution for elevating personalized updates at this time.
 
 ### Communications
 
 - **GitHub Label**: vsa-authenticated-exp; notifications
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Development epic:** [#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
+- **Collaboration Cycle kick-off:** [#32151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32151)
 
 ### Roles
 
@@ -29,7 +33,7 @@
 
 VA.gov is in the process of implementing a comprehensive communication strategy to support email, text, and in-app (ie. on VA.gov) notifications. Currently, the VANotify team  builds and manages email notification support for VA.gov, and they are working in tandem with VEText to integrate support for text messages into their platform. 
 
-The third and final pillar -- notifications that show to logged-in users on VA.gov -- is finally ready for MVP development by the auth. experience team. For our MVP, we plan to focus on **one** singular notification to start building the infrastructure to manage more robust on-site notification needs in the future. 
+The third and final pillar -- notifications that show to logged-in users on VA.gov -- is finally ready for MVP development by the auth. experience team. For our MVP, we plan to focus on **one** singular notification to start building the infrastructure to manage more robust on-site notification needs in the future.
 
 **MVP use case**: We will show an on-site notification when a new debt is added in someone's VA.gov account.
 
@@ -122,6 +126,7 @@ The following is needed for the MVP build:
 - October 13, 2022: Launch to 25%
 - October 17, 2022: Launch to 50%
 - October 24, 2022: Launch to 100%
+- October 3, 2023: _Feature was removed from production for all users (Hidden behind a feature flag)_
 
 ## Backend
 

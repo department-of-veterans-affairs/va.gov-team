@@ -1,3 +1,14 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
 # End-to-end tests
 
 End-to-end tests are created using Cypress, the documentation for which is maintained by the Frontend Tools team [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end). Detailed information is available at the [root documentation page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end) including --

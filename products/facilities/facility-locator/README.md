@@ -1,79 +1,66 @@
 # Facility Locator README 
 
-[Key resources](#key-resources) 
+> Index of links to key resources
 
-[Facility Locator resources](#facility-locator-resources)
+## Product overview
+The Facility Locator is an unauthenticated search tool which can be used to find VA facilities and services. It leverages 
+- the public-facing Lighthouse Facilities API for VA owned and operated facilities
+- a separate, external and non-public database, Provider Profile Management System (PPMS) for Community Care (VA network) locations
+- map functionality from [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/)
 
-[Practice specific](#practice-specific-resources)
-- [Product](#product)
-- [Engineering](#engineering)
-- [Design/research](#design-research)
+Search results connect to modernized websites for VAMCs and Vet Centers or legacy detail pages which provide basic location and service information for VBA and cemeteries.
 
-[What to know about the product](#what-to-know-about-the-product)
+## Team
+- Product Owner: Michelle Middaugh (suzanne.middaugh@va.gov)
+- Facility API/Lighthouse Product Owner: Dawn Pruitt 
+- Product Manager: Jane Xiong 
+- Zenhub label: Facilities, Facility Locator
+- Slack channel: #sitewide-facilities
 
-[Legacy info about the Facility Locator](#legacy-info-about-the-facility-locator)
 
-## Key resources 
+## Product
+- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md) | September 2023 
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
+  - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie) _requires VA network connection_
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
+- [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/analytics)
+- [Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/01804e1226822c291a483adf25424f3143f48940/products/facilities/facility-locator/product/solution-narrative/README.md)
 
-- [**VSA Facilities Team transition folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
-- [**VSA Facilities Team Research and Design Hub document**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
-
-## Facility Locator resources
-- [**VSA Facility Locator product transition document**](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) | March 2022
-- [**Issue response**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
-- [**Error states**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md)
+## Engineering
+- [Engineering Index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
+- [Technical Documentation and Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/technical-documentation.md)
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/error_states.md)
 - [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
 
-## Practice specific resources
+## UX
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
+- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
+- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research#readme)
 
-### Product 
 
-- [**Product Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md)
-- [**Product Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
-
-### Engineering
-- [**Engineering Index**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
-
-### Design-research
-
-- [**Design folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
-- [**Research folder**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
-- [**Research summary**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/README.md)
-
+## Legacy artifacts
+The following were last updated in March 2022
+- [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) 
+- [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) 
+- [VSA Facility Locator product transition document](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/vsa/teams/facility-locator/product-transition-doc/facility-locator-transition.md) 
 
 ---
 
-## What to know about the product 
-- va.gov/find-locations
-- It is VA's single source of truth for Veterans and beneficiaries to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
-- It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
-- Previously powered by the non-public-facing Vets API for VA facilities
-- Now powered by the public-facing [Lighthouse Facilities API](https://developer.va.gov/explore/facilities) for VA facilities
-- It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/> (which was changed to an annual license version, effective Oct 1, 2019, facilitated by Nancy Smith of Oddball)
-- It serves many purposes, from finding basic facility address and phone information to preparing for a visit, to understanding eligiblity for community care
-
-### Other notes
+<details>
+  <summary> Legacy info about the Facility Locator</summary>
 
 - Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator>
 
------
-## Legacy info about the Facility Locator
-
-<details>
-  <summary> Product and system stakeholders </summary>
+**Product and system stakeholders**
 - VA Product owner: David Conlon 
 - VA.gov Lead: Chris Johnston 
 - Facility API Product Owner: Dave Mazik 
 - VSSC Analyst/Engineer: Chad Holmes 
 - Michael Villeneuve: He runs GEOBISL, and wrote custom queries that pass data from CDW to vets-api.
 - Information Architecture: Mikki Northius, @Mikki on Slack
-</details>
-  
-<details>
-  <summary> VHA business stakeholders </summary>
 
+**VHA business stakeholders** 
 All of these folks help drive the vision and implementation of VA Community Care benefits.
-
 - Dr. Kamron Matthews: Works directly with community health care networks and regions for Veterans to receive community care benefits.
   - Zach Fain: Does a lot of implemntation work for networks
   - Tobie Wethington: Project Manager for community provider data from PPMS (used in Facility locator for Community Care Urgent Care, Community Care Provider Locator)
@@ -81,10 +68,8 @@ All of these folks help drive the vision and implementation of VA Community Care
 - Dr. Leo Greenstone: Business sponsor to have AbleVets team build their community care provider lookup on Facility Locator
 - Dr. Mark Upton: Has an interest in community care urgent care facilities
 - All about the 2019-2020 roadmap to make the next version of the product even better for users.
-</details>
 
-<details>
-  <summary> Product goals </summary>
+**Product goals**
 - Switch primary data source from Vets API to Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
 - Reach parity with all legacy VA facility locator tools, so they can be depracated
   - Main legacy facility locator: https://www.va.gov/directory/guide/home.asp
@@ -101,11 +86,8 @@ All of these folks help drive the vision and implementation of VA Community Care
 - Create/update new VBA service taxonomy and NCA service taxonomy, with new structured content designed, and powered by Drupal
 - Make it faster
 - Fix bugs
-  </details>
 
-  <details>
-  <summary> Design problems </summary> 
-
+**Design problems**
     - Users don't have a way to get to urgent care facilities
   - See the following research study documentation:
     1. Main research repo: <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research>
@@ -116,7 +98,7 @@ All of these folks help drive the vision and implementation of VA Community Care
 - Facility API data often does not load or show up on facility detail pages
 - Web browser's location/geo-location functionality doesn't always work (or work well) on facility search page
 
-## What to research
+**Research topics**
 - Pain points and bright spots with the current product (i.e., evaluative usability testing)
 - Users' mental models for VA facilities and services, including community care
   - Specifically, how users think about in-network emergency care, urgency care, and urgent care pharmacy facilities
@@ -129,4 +111,4 @@ All of these folks help drive the vision and implementation of VA Community Care
 - How to better architect how we call data from the community care database
 - All the data sources! How can we better streamline our data sources, and structured product content on the UI, so users get a consistent product experience
     
-    </details>
+  </details>

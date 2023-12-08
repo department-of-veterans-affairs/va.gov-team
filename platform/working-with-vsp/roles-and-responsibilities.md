@@ -1,3 +1,17 @@
+---- 
+
+
+# We've moved our docs!
+
+### This document is no longer maintained.
+
+### Please visit the [Platform website](https://depo-platform-documentation.scrollhelp.site/) for the latest information or contact the Platform Support Team via [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1).
+
+
+----
+
+
+
 # Roles and Responsibilities Between Veteran Facing Services (VFS) Teams and the Veteran Facing Services Platform (VSP)
 
 During the summer of 2020, a series of workshops was held to help clarify and document what aspects of different practices involved in building applications for Veterans on VA.gov are provide by VSP versus what are the responsibility of a VFS team.
