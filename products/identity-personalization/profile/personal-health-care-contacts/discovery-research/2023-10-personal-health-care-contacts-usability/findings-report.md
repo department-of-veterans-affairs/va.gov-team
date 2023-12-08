@@ -122,7 +122,7 @@ When asked later in the session about _Emergency contact,_
 
 ![MEC](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/7567cfb0-6280-46f5-a25f-eadfe453a75e)
 
-—--
+---
 
 ### 4) 4. Most participants (6 of 9) associated _Next of kin_ with family and initially did not differentiate between _Medical emergency contact_ and _Next of kin contact_.
 
@@ -172,11 +172,11 @@ All 9 participants wanted functionality to edit and add contacts on the page.
 
 Participants wanted multiple contacts listed in case the primary contact was not available. 
 
-When asked how many _Medical emergency contacts_ participants expected to be listed, 
+When asked how many _Medical emergency contacts_ participants expected to be listed, people said they wanted 2.
 
 > I would’ve thought 2. The primary and a secondary. - P6
 
-One participant stated when referring to next of kin, 
+One participant stated when referring to next of kin:
 
 > Two, because a lot of times medical decisions need to be made, and if you’re waiting for a return call, an alternate person would be helpful, because I would want to be treated right away. Always good with primary and alternate. Just one is not beneficial at all. - P4
 
@@ -197,9 +197,9 @@ One participant stated when referring to next of kin,
 
 ### 9) Participants clearly understood that both the _Medical Emergency contact_ and _Next of kin contact_ were specifically associated with health care.
 
-Of the 6 participants asked, those participants understood that this information did not pertain to other benefits.  
+Of the 6 participants we asked, those participants understood that this information did not pertain to other benefits.  
 
-When asked if this information is related to other benefits, 
+When asked if this information is related to other benefits, participants commented:
 
 > I wouldn't think so, no. - P1 
 
