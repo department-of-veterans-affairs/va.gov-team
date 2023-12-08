@@ -80,7 +80,7 @@
   <summary>Sitewide Intake</summary>
   
 - [Link to Platform Page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/sitewide-content-and-ia-intake-request)
-- [Create intake issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
+- [X] [Create intake issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
 - **When to start the process:** 
   - After Platform updates the collab cycle ticket
 - **Link the following documents**
