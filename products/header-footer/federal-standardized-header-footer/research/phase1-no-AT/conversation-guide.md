@@ -66,8 +66,8 @@ Before we start, I want to go over a few things:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
-- We like to record to confirm that we’ve captured your opinions accurately and may share video clips with our colleagues at the VA to show user feedback. We won’t link anything you choose to share in the session to any information that identifies you, and we’ll remove your face and name from any videos that we share.
-**Are you comfortable if I record my screen and audio as we talk today?**
+- We like to record to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+**Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *Select Record, then Record to the cloud.*
@@ -291,6 +291,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 *RECORD navigation: 
 - *(desktop) **Chris > Profile*** 
 - *(mobile) **Menu > Chris > Profile***
+- *Any feedback about their name as menu (for Auth)*
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
