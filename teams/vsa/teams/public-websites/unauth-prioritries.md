@@ -5,7 +5,7 @@
 **Unauth Product Teams**
 
 - [2021 Roadmap (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad?sender=johnhashimoto4253): Living roadmap with key initiatives and activities
-- [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/README.md): Key commonalities and helpful guidance about how we work, with links to Team Charters, Folders and a description of role/responsibilities for Product leads.
+- [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/how-we-work/README.md): Key commonalities and helpful guidance about how we work, with links to Team Charters, Folders and a description of role/responsibilities for Product leads.
 - [Veteran Facing Tools (VFT) Zenhub Sprint Board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?repos=133843125,31788863): Filterable ZenHub board outlining sprint plans across unauth teams.
 
 ## Public Websites 

@@ -72,8 +72,8 @@ Brief plain-language description of this product
 ### How we work 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work#readme) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/how-we-work)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/how-we-work#readme) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
