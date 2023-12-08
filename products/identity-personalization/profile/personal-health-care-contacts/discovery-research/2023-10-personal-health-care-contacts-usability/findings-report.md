@@ -206,10 +206,19 @@ When asked if this information is related to other benefits, participants commen
 
 ## Additional Insights
 
-- Participants recognized the value of the _Personal health care contacts_ page as it indicated whether their information was up to date. 
-- Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts. 
+- Participants recognized the value of the _Personal health care contacts_ page as it indicated whether their information was up to date.
+
+> It would give me peace of mind that if I go to the VA for an emergency, there shouldn't be an issue knowing what my wishes are and how to carry them out. - P8
+
+> It allows me to make sure the information is in place - P9
+
+- Some participants wanted functionally to prioritize multiple Medical emergency contacts and Next of kin contacts.
+
 - Some participants expressed frustration with logging into VA.gov. 
 
+> Last time I tried to get into my VA profile, I ended up on 5 or 6 different websites and each of them sent me back to the login screen so it sent me in circles. I never really got to what I was trying to get. - P5
+
+> The only frustration with me for the website still, there are 3-4 different links that I can use to log in...I think my issues with ID.me is that I have 2 accounts and I get so confused about which one I'm supposed to use...That's the only thing I've really had any issues with [logging in] - P9
 ---
 
 ## Recommendations
