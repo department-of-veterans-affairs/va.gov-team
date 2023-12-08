@@ -1,155 +1,308 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for ARM Team, Authenticated Appoint a Representative Form User Test, 01/2024<a id="research-plan-for-arm-team-authenticated-appoint-a-representative-form-user-test-012024"></a>
 
-## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+## Background<a id="background"></a>
 
-[Link to product brief](url goes here).
+The Office of the Chief Technology Officer (OCTO) is seeking to migrate Veteran and Power of Attorney (PoA) experiences from the legacy Stakeholder Enterprise Platform (SEP) product and eBenefits platform to VA.gov.
 
-### OCTO Priorities 
+The primary goal is to make it easier, safer, and faster for Veterans to assign and manage Power of Attorney (PoA), and explore new ways that VA.gov can better support Veterans who choose to interact with VA through a representative.
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+[Link to product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/accredited-representation-management/product-outline.md)
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
 
-## Research Goals	
-What are you trying to learn from this research? 
+### OCTO Priorities<a id="octo-priorities"></a>
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- **Enhance Veterans’ personalized online experience**: team is developing a widget to provide authenticated Veterans clear insight into existing representation as well as a simplified experience for digitally submitting a request for representation using their information on file.
 
-### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+- **Fast-track disability claims, starting with PACT Act claims**: many Veterans who are applying for disability benefits are working with representatives; our product will help these Veterans understand and manage their representation on VA.gov.
 
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Full list of [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md).
 
-### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
-## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+### Veteran Journey<a id="veteran-journey"></a>
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Veterans can get the help of a representative at any point in the journey where they are submitting benefits. Such as; starting up, taking care of myself, retiring, and aging.
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) for reference.
 
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
+## Research Goals<a id="research-goals"></a>
 
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+- Understand Veterans' motivations for seeking representation, why they selected their representative, and what that experience has been like.
 
-### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
+- Understand usability of the authenticated Appoint a Representative flow (21-22/21-22a form) on both desktop and mobile devices.
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
+### Outcome<a id="outcome"></a>
 
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- Information on Veterans’ motivations and behaviors surrounding representatives will inform the MVP and future experiences.
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- User testing will inform adjustments to the 21-22(a) form flows to improve usability.
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+
+### Research questions<a id="research-questions"></a>
+
+1. What prompts Veterans to find representation?
+
+2. What has the Veterans’ experience been with their representatives?
+
+3. Do Veterans’ understand the information shown? Is there any information missing?
+
+4. What are Veterans’ expectations of the experience?
+
+5. Are there any challenges with using the experience?
+
+6. Are the next steps clear and actionable?
+
+
+### Hypothesis<a id="hypothesis"></a>
+
+1. Veterans understand a representative's abilities, and proactively seek their support.
+
+2. Veterans’ have criteria when searching for a representative to ensure they meet their needs.
+
+3. Veterans will prefer to sign-in to simplify the form experience and save their progress.
+
+4. Veterans will want to provide full access to their information to their representatives so they can better support them.
+
+5. Veterans will prefer plain language legal copy, as it will be easier to understand.
+
+6. Veterans will prefer to use the online form to fill out the 21-22(a) in order to reduce error, rather than downloading and filling out on their own.
+
+
+## Methodology<a id="methodology"></a>
+
+**Semi-structured interview** / The interviewer will ask the Veterans a series of questions to learn about their representative selection process and engagement with their representative.
+
+**Usability testing** / Veterans will be asked to engage with a live prototype to test usability, understandability of content, and desirability of features.
+
+
+### Location<a id="location"></a>
+
+Remote on Zoom
+
+
+### Research materials<a id="research-materials"></a>
+
+- [Link to conversation guide](https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-01-ARM-appointarep-usertest/conversation-guide.md)
+
+- [Link to mobile prototype A, proposed legal](https\://www\.sketch.com/s/a75e9329-dae9-4984-867e-451d6e2fa836/prototype/F68BAB55-E083-411A-A706-CD4251A38CB7/a/F68BAB55-E083-411A-A706-CD4251A38CB7)  
+
+- [Link to mobile prototype B, original legal](https\://www\.sketch.com/s/a75e9329-dae9-4984-867e-451d6e2fa836/prototype/EC0A2247-E3A4-415D-9DB7-C3796C104CCC/a/EC0A2247-E3A4-415D-9DB7-C3796C104CCC) 
+
+- [Link to desktop prototype A, proposed legal](https\://www\.sketch.com/s/a75e9329-dae9-4984-867e-451d6e2fa836/prototype/CB1C3151-23CF-40F6-9928-30D7900D7F25/a/CB1C3151-23CF-40F6-9928-30D7900D7F25) 
+
+- [Link to desktop prototype B, original legal](https\://www\.sketch.com/s/a75e9329-dae9-4984-867e-451d6e2fa836/prototype/72737C69-C0CD-46A6-A41F-0BF3EB00A93B/a/72737C69-C0CD-46A6-A41F-0BF3EB00A93B) 
+
+
+## Recruitment<a id="recruitment"></a>
+
+### Recruitment approach<a id="recruitment-approach"></a>
+
+Our target audience are 12 Veterans (with expectations of speaking to 8) who are actively searching for a representative or currently have a representative, with an even split of desktop and mobile users.
+
+
+### Recruitment criteria<a id="recruitment-criteria"></a>
+
+**Requesting a kick-off call**
+
+- 12/15/2023 anytime from 9 - 11 AM EST or 1 - 4 PM EST
+
+**Primary criteria**
+
+- Representative Support
+
+  - **6** / Veterans actively searching for a representative to support with a claim or benefit
+
+  - **6** / Veterans with a representative supporting them with a claim or benefit, that they began working with within the last 3 - 6 months
+
+- Representative Type
+
+  - **1 - 8** / Veterans with a VSO (Veteran Service Organization or Officer)
+
+  - **2+** / Veterans with an attorney representative
+
+  - **2+** / Veteran with a claims agent representative
+
+- VA Benefit Type
+
+  - **2+** / Veterans receiving representative support for any VA benefit other than disability
+
+- Device
+
+  - **6** / primarily desktop users
+
+  - **6** / primarily mobile users
+
+**Secondary criteria**
+
+- **3+** / people of color
+
+- **2+** / with cognitive disability
+
+- **1+** / women
+
+- **1+** / LGBTQ+
+
+- **0 - 6** / participants in a representative role
+
+Generated using VA \[[maximum variation sampling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Lean-MVS-Strategy)] method.
+
+**Screener questions**
+
+1. The following statements will be referring to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation.
+
+   - _I am currently looking for a representative to support me with a VA benefit, such as disability, pension, or education_
+
+   - _For the last 3 - 6 months I have been getting support from a representative with a VA benefit, such as disability, pension, or education_
+
+   - _More than 6 months ago I received support from a representative with a VA benefit, such as disability, pension, or education_
+
+   - _I have never worked with a representative and am not currently looking for representation_
+
+2) What type of representative are you looking for support from, or are currently getting support from?
+
+	- _Veteran Service Organization (VSO)_
+
+	- _Veteran Service Officer (VSO)_
+
+	- _Attorney_
+
+	- _Claims Agent_
+
+	- _None of the above_
+
+	- _I’m not sure_
+
+3. What VA benefit do you need, or have, representative support for?
+
+	- _Burial and memorials_
 	
-## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
-### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-* Planned dates of research:
-
-### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
-
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+	- _Careers and employment_
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+	- _Disability_
+	
+	- _Disability Decision Review or Appeal_
+	
+	- _Education and training_
+	
+	- _Health care_
+	
+	- _Housing assistance_
+	
+	- _Life insurance_
+	
+	- _Pension_
+	
+	- _Other_
+
+4. Do you currently help Veterans with their benefits in any of the following roles?
+
+   - _I work or volunteer at a Veteran Service Organization (VSO)_
+
+   - _I’m a Veteran Service Officer_
+
+   - _I’m an attorney_
+
+   - _I’m a claims agent_
+
+   - _I help other Veterans, but am not a member of an organization_
+
+   - _None of the above_
+
+5) Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+   - _Yes_
+
+   - _No_
+
+   - _Prefer not to answer_
+
+6. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+
+   - _Yes_
+
+   - _No_
+
+   - _Prefer not to answer_
+
+
+## Timeline<a id="timeline"></a>
+
+- [ ] 11/27 / Create research plan and conversation guide
+
+- [ ] 12/08 / Update documentation based on team feedback
+
+- [ ] 12/11 / Submit for \[[collaboration cycle research review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review)]
+
+- [ ] 12/13 / Collaboration cycle research review done, update to reflect feedback
+
+- [ ] 12/15 / Perigean kick-off call
+
+- [ ] 12/18 / Start recruitment with Perigean
+
+- [ ] 12/20 / Complete pilot session
+
+- [ ] 01/03 - 01/12 / Conduct interviews
+
+- [ ] 01/15 - 01/25 / Analysis and reporting
+
+- [ ] 01/26 / Final presentation
+
+Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
+
+- Prototype completion
+
+- Review process both with direct team and collaboration cycle
+
+- Recruitment
+
+
+### Prepare <a id="prepare"></a>
+
+When will the thing you are testing be finalized? 11/22/2023
+
+Required: please indicate the date and name of a mock participant for a pilot session.
+
+- Pilot participant email: Rebecca Blakiston, rebecca.blakiston@adhocteam.us
+
+- Date and time of pilot session: 12/20/2023 at 3 - 4 PM EST
+
+
+### Research sessions <a id="research-sessions"></a>
+
+- Planned dates of research: 01/03 - 01/12
+
+
+### Length of sessions<a id="length-of-sessions"></a>
+
+- Session length: 75 minutes (1 hour and 15 minutes)
+
+- Buffer time between sessions: 1 hour
+
+- Maximum Sessions per day: 2
+
+
+### Availability<a id="availability"></a>
+
+- Monday 9 AM – 4 PM EST
+
+- Wednesday - Friday 9 AM – 4 PM EST
+
+
+## Team Roles <a id="team-roles"></a>
+
+Please list the people who will be serving in each role. Include the **primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers**. If you need Perigean to take notes for you, indicate that next to Notetaker
+
+- **\*Moderator:** Janelle Finnerty, 248-303-2329, janelle.finnerty\@oddball.io
+
+- **Research guide writing and task development:** Janelle Finnerty
+
+- **Participant recruiting & screening:** Perigean
+
+- **Project point of contact:** Janelle Finnerty
+
+- **Participant(s) for pilot test:** Rebecca Blakiston, rebecca.blakiston@adhocteam.us
+
+- **\*Accessibility specialist (for sessions where support for assistive technology may be needed):** N/A
+
+- **\*Notetakers:** Janelle will forward invites based on sign-up sheet.
