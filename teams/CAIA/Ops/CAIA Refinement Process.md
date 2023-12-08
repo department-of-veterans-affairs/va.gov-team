@@ -2,7 +2,12 @@
 `Current WIP Version: V1.0`
 
 ## In this document
-- Item 1
+- Overview
+  - Purpose of this document
+  - Purpose of CAIA ops Refinement
+  - Refinement Frequency
+  - Who participates in refinement?
+- Process 
 - Item 2
 - Item 3
 
@@ -34,6 +39,8 @@ The following roles particiapte in CAIA Ops refinement
 - CAIA Scrum Master/Product Manager
 - CAIA Discipline Leads
 - OCTO Discipline Leads
+
+## Process
 
 ### Order of operations
 
