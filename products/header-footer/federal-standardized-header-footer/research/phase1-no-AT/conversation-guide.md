@@ -192,6 +192,7 @@ I'd like you to look at a web page that I'm going to share with you.
 I will *[dictate/put into the Zoom chat]* the URL: 
 - Smartphone: **https://bit.ly/3RJL5vb** 
 - Desktop/tablet: **https://bit.ly/3t6rbRt**
+- *(Might need to hold tablet horizontally so easier to read)*
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide the full link)*
 
 Did you get the link? 
