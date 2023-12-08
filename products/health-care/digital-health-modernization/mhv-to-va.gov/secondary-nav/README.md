@@ -19,7 +19,7 @@ Our proposed solution is a secondary nav – i.e., secondary to the VAgov heade
 
 **Problem artifacts**
 - [Report on approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/health-integrated-navigation.md)
-- Research readout: [Secondary nav component usability/generative study]()
+- Research readout: [Secondary nav component usability/generative study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/MHV%20on%20VA.gov%20Secondary%20Nav.%20Research%20Readout.pdf)
 - Competitive analysis of secondary nav across the internet: [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uebde62ceb342c6477fb09406)
 
 ## Desired User Outcomes
