@@ -88,7 +88,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
-- [Link to prototype TBD]()
+- Links to prototypes: [Smartphone](https://bit.ly/3RJL5vb), [Desktop/tablet](https://bit.ly/3t6rbRt)
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
