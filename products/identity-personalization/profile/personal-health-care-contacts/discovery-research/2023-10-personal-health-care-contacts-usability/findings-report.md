@@ -51,7 +51,7 @@ We conducted remote usability and interview sessions with Zoom. The interviews c
 **_Hypothesis 1:_** Participants will sign in, go to the VA.gov Profile, then navigate to _Personal health care contacts_ in order to view _Emergency contact_ and _Next of kin_ information.  
 
 **True:** 
-- Since most participants looked for this information within their VA.gov Profil (see findings 1 and 2). 
+- Since most participants looked for this information within their VA.gov Profile (see findings 1 and 2). 
 
 Profile           |  Personal health care contacts
 :-------------------------:|:-------------------------:
@@ -64,7 +64,7 @@ Profile           |  Personal health care contacts
 - Participants often conflated _Next of kin_ and _Emergency contact_ (see finding 4) but relied on the hint text to distinguish between the two concepts.
 - Participants understood how to update information. 
 
-**_Hypthesis 3:_** Participants will want to be able to edit or add _Emergnecy contact_ and _Next of kin_ information in place. 
+**_Hypthesis 3:_** Participants will want to be able to edit or add _Emergency contact_ and _Next of kin_ information in place. 
 
 **Definitely true:**
 - All participants wanted functionality to edit and add contacts on the page (see finding 5). 
