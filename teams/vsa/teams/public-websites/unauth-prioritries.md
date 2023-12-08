@@ -71,7 +71,7 @@
       - Reducing hierarchy/links in left-nav for Hub pages (as Content moves pages into R&S)
       - Back button or other design element to return to Tier 1 from R&S
       - Larger item - CMS: COPE Single Q-and-A
-      - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
+      - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-hubs/initiatives/benefit-hub-optimization-initiative-brief.md)
 
   - **Maintain**
     - Resources & Support (with enhanced Video template in backlog)

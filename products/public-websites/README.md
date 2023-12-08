@@ -76,7 +76,7 @@ Benefits hubs / detail pages feature strongly in the VA.gov header (aka the “m
 
 **More info:**
 * A6 program GDrive folder:[ Benefits Hubs](https://drive.google.com/drive/u/1/folders/1nvQwXSxHGqHdN6qgEUte5z2fXyJvRJxH)
-* [2018-2019 Benefit hub optimization effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub) (github)
+* [2018-2019 Benefit hub optimization effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs) (github)
 * [VFS Product Directory: Benefits Hubs](https://depo-platform-documentation.scrollhelp.site/getting-started/benefits-hubs)
 
 
@@ -793,6 +793,8 @@ More info:
 
 
 ## React widgets use within CMS
+
+Sitewide content team documentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md
 
 [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919)
 

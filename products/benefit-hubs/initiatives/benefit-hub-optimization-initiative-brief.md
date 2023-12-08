@@ -27,7 +27,7 @@ Focus Area: Benefit Hubs
 
 **Related product(s)**
 
-- Benefit Hub | [Public Website Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub) 
+- Benefit Hub | [Public Website Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs) 
 
 ## Problem
 * Problem Defined: The original goal of the benefit hubs was to have a path for Veterans to follow in order to complete Tier 1 benefit actions.  It was also to provide navigational experience that would optimize wayfinding to the easiest way to find and action upon any VA services.  However, when we migrated the benefit hubs into Drupal thier wasn't any "content model" redesign, which was determined to be too "blobby" to make rigid in current state.  We've now reached the point that the benefit hubs require an IA flattening and rework for "clear path" navigation in order to optimize the Veteran-facing experience along with conversion paths to the benefit hubs. 

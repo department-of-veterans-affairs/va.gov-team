@@ -9,7 +9,7 @@ Currently there is limited marketing of the VA.gov mobile app from within the be
 Increase the download/use/adoption of the VA.gov mobile app
 
 **Related/Associated product(s)**
-- [Benefit hub product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
+- [Benefit hub product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs)
 - [ VA.gov Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app) 
 
 ## Problem

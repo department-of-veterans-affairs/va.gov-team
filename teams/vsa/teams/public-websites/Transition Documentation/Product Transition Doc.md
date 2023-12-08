@@ -32,8 +32,8 @@ Brief plain-language description of this product
 ### Benefit Hub
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-hubs/Benefit%20Hub%20Optimization%20Initiative%20Brief.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
