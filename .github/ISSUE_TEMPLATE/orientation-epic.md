@@ -38,7 +38,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### General
 
-- [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
+- [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session (schedule via Calendly) or watch the [latest recorded session](https://www.youtube.com/watch?v=hsB_K4B79EQ)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) for an overview of VA.gov
 - [ ] Watch [VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
@@ -67,7 +67,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Learn how we do [research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va)
 - [ ] Watch the [getting started with design videos](https://depo-platform-documentation.scrollhelp.site/research-design/getting-started-with-design)
 - [ ] Get oriented to the [Design System](https://design.va.gov/)
-- [ ] Get oriented to the [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+- [ ] Get oriented to the [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
 - [ ] For [Design orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Design&researchorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 
