@@ -80,7 +80,7 @@ We assume that for service connected care, Veteran's will navigate to the health
 
 We hypothesize that Veterans who do are eligible to register for NSC reasons, expect to sign up from a variety of locations on the site specific to the care they are seeking, such as mental health or counseling care.
 - **Maybe true**
-- The direct path to the 10-10EZ application / get benefits node was low and many other areas of the site were navigated to.
+- Participants navigated to many other areas of the site than the direct path to the 10-10EZ application / get benefits. Direct navigation to the 10-10EZ node was low. More information, though, is needed to confirm Veteran expectations around navigation.
 
 
 ## Key Findings
