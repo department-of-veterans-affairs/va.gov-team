@@ -13,8 +13,9 @@ assignees: michelle-dooley
 Use this ticket template to request a new standardized KPI dashboard or an update to an existing KPI dashboard on Domo for your product. 
 
 **Tell us what you need done:**
-- [ ] New Dashboard
-- [ ] Update to existing dashboard 
+- [ ] [New Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/analytics-request-kpi-dashboard.md#for-updates-to-existing-dashboards)
+- [ ] [Updates to Existing Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/analytics-request-kpi-dashboard.md#for-updates-to-existing-dashboards)
+
 
 Standardized dashboards are currently available for [Forms](https://va-gov.domo.com/page/447193050?userId=853813555), [Content](https://va-gov.domo.com/page/426422632), & [Search](https://va-gov.domo.com/page/1964748112) products only. To see if you should request a standardized dashboard, check [Should I request a standardized KPI dashboard](https://docs.google.com/presentation/d/16mRcslbkWtW44rlsfQGXZnHtQ3GoLjn6GpFnd3Gvva8/edit#slide=id.p). If you’re not sure which dashboard(s) your product(s) qualify for, check the [Eligibility Dashboard](https://va-gov.domo.com/page/1550814739).
 
