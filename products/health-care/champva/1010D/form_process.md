@@ -231,3 +231,8 @@
 - Update veteran-facing-forms daily with updated submissions and errors
   - Open a ticket for developer to research errors
   </details>
+
+# **Miscellaneous**
+- VetText discovery [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67829)
+- Product directory update
+- Public websites/content migration initiative alignment [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67834)
