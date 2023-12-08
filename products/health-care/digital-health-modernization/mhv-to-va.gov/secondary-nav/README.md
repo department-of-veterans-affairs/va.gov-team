@@ -8,10 +8,6 @@
 - MHV-on-VAgov Landing Page | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
 
 Research has shown two important things about how Veterans use health care tools (eg secure messaging):
 1. Veterans are very used to the MHV National Portal and have found ways to navigate it
@@ -19,7 +15,12 @@ Research has shown two important things about how Veterans use health care tools
 
 By the end of Q3, 2024, millions of Veterans will be trying to use the new health care tools on VAgov because the National Portal is being sunsetted. We need to design a more coherent experience for the MHV tools, so that Veterans are able to stay within MHV tools if they want. (But they can still benefit from integration with the rest of VAgov if they choose to.)
 
-Our solution is being called a "Secondary Nav" – secondary to the primary navigation of the header/mega-menu.
+Our proposed solution is a secondary nav – i.e., secondary to the VAgov header/mega-menu.
+
+**Problem artifacts**
+- [Report on approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/health-integrated-navigation.md)
+- Research readout: [Secondary nav component usability/generative study]()
+- Competitive analysis of secondary nav across the internet: [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uebde62ceb342c6477fb09406)
 
 ## Desired User Outcomes
 
@@ -35,14 +36,12 @@ Our solution is being called a "Secondary Nav" – secondary to the primary nav
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-- Fewer Veterans "reject" MHV-on-VAgov (opt out while they still have that option)
 - Support load is minimized across transition from MHV national portals (MHV and Oracle) to VAgov – e.g., call center
 - Providers feel transition is sustainable
 
 ## Undesired Business Outcomes
+- Veterans "reject" MHV-on-VAgov (opt out while they still have that option)
+- Providers/health care staff exhibit added strain or burnout due to increased burden
 
 ---
 ## Measuring Success
