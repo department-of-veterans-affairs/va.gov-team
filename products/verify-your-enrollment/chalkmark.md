@@ -1,7 +1,8 @@
 ## First Task: Navigate to VYE (VA.gov)
-1. Show us how you would find the place you would expect to verify your school enrollment? 
+1. Show us how you would find the place you would expect to verify your school enrollment? _This task is intended to help us understand how users get to WAVE. Do they Google it? Do they use onsite search on VA.gov? Do they navigate via onsite navigation?_
 
-_Prototype_
+
+_Navigate to Prototype_
 
 ## Second Task: Enrollment periods to verify
 - You've come to the site to verify your latest enrollment. Please verify your enrollment.
