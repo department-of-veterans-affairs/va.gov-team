@@ -13,7 +13,7 @@
 
 - Identify Stakeholders  
 - User Story & Workflow 
-- [X]Product Outline- github
+- [X] Product Outline- github
   - Create a new folder for each new form 
   - Add Product Outline to the folder
 - Create Issue templates for developer in our repository
