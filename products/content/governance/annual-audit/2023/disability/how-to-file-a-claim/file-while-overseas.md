@@ -42,7 +42,7 @@
 ### Tracking details
 
 - **SME** Robert Eakman (Matt)
-- **Date response received:** 10/20
+- **Date response received:** 10/20/23
 
 ### Responses
 
