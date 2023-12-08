@@ -11,7 +11,7 @@ The Resources & Support section of VA.gov relies heavily on Q&As and multiple FA
 
 **If no,** this content doesn't warrant an FAQ in Veteran and beneficary-content. This may be content better suited for a press release, congressional report, or other content space.
 
-### Criteria 2:** 
+### Criteria 2: 
 
 It may warrant an FAQ--or a different solution. If the question is promotional or serving the needs of VA rather than our customers, it doesn't belong in Veteran-facing content.
 - Is the question broad or generic (i.e. How do I apply for VA disability benefits?): Handle in site content with clearly labeled headers, not FAQ. This content most likely already exists in a benefit hub.
