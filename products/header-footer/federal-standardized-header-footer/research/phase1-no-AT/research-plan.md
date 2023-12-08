@@ -147,8 +147,8 @@ Please invite Cindy (cindy.merrill@adhocteam.us) and Amanda (amanda.klausmeier@v
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We will schedule 1-2 **pilot tests**:
-- Pilot 1: **Dec 11 at TIME TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **Dec 12 at TIME TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 1: **Dec 11 at 5:30 pm ET** with Joe Morris (joe.morris@adhocteam.us)
+- Pilot 2: **Dec 12 at 2 pm ET** with Keith Adkins (keith.adkins@adhocteam.us)
 
 ### Research sessions
 * Planned dates of research: **December 15-22, 2023** 
