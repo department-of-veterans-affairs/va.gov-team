@@ -20,8 +20,9 @@
 - Jonathan Nelson - Designer
 - Keith Cheung - Designer
 - Carlos Felix - Technical Architect
-- Eric Voshall - Full stack Developer
+- Daniel Cloud - Full stack Developer
 - Richard Davis - Full stack Developer
+- Jim Zaccardo - Full stack Developer
 - Angela Fowler - Accessibilty Specialist
 - Sara Sterkenburg - Information Architect
 
