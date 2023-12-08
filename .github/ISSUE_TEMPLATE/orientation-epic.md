@@ -38,7 +38,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 ### General
 
-- [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session (schedule via Calendly) or watch the [latest recorded session](https://www.youtube.com/watch?v=hsB_K4B79EQ)
+- [ ] For [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session.
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) for an overview of VA.gov
 - [ ] Watch [VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=yzl6nyLmqkA&ab_channel=PlatformCrew)
