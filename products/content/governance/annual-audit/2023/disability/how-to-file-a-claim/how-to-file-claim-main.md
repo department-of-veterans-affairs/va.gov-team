@@ -48,8 +48,8 @@ H3: You can also file for disability compensation in any of these ways
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:**
+- **SME** Robert Eakman (Matt)
+- **Date response received:** 10/20/23
 
 ### Additional questions/comments to ask SME
 
@@ -61,6 +61,6 @@ H3: You can also file for disability compensation in any of these ways
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
   - **Response:** 
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** Requested a link to the C&P exam page--or explain that the exam isn't for treatment, but for evaluation. Comment: "We often receive complaints of a "bad exam" due to not understanding what C&P exams are for."
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
-  - **Response:** 
+  - **Response:** No. 
