@@ -64,8 +64,8 @@ Brief plain-language description of this product
 ### How to apply Wizards 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/README.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/how-to-apply-wizards/README.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 

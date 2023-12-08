@@ -789,7 +789,7 @@ Higher-level review: [owned by Benefits team](https://depo-platform-documentatio
 
 
 More info:
-* [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
+* [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards) 
 
 
 ## React widgets use within CMS
