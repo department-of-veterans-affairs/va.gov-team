@@ -37,7 +37,7 @@ In order to pull the correct data for your product, we need your help to define 
 - [ ] Complete worksheet as instructed
 - [ ] Link your completed spreadsheet here: ______
 - [ ] Check your sharing settings to make sure the Analytics team will be able to access it
-- [ ] Add your team label to follow progress
+- [ ] **Add your team label to follow progress**
 
 ## For Updates to Existing Dashboards 
 
