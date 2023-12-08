@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA.gov Cartographers**
 
-11/29/2023
+12/08/2023
 
 Jonathan Nelson, jonathan.nelson@adhocteam.us
 
@@ -19,10 +19,10 @@ Research Report PDF (To come)
 
 ## Research Goals
 
-The purpose of this research is to assess users' understanding, reactions, and expectations to the proposed Emergency contact and Next of kin feature within the VA.gov Profile.
+The purpose of this research is to assess users' understanding, reactions, and expectations to the proposed Emergency contact and Next of kin feature within the VA.gov Profile. We wanted to achieve the specific goals of:
 
-Evaluate how easily users are able to find this information.
-Evaluate if the proposed designs are understandable and useful across participant types (sighted and low/no vision) and screen sizes (mobile and desktop).
+- Evaluating how easily users are able to find this information.
+- Evaluating if the proposed designs are understandable and useful across participant types (sighted and low/no vision) and screen sizes (mobile and desktop).
 
 ## Research Questions
 1. Are users able to navigate to the _Emergency contact_ and _Next of kin_ information from an unauthenticated state?
