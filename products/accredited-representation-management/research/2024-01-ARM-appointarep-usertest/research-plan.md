@@ -265,7 +265,7 @@ Required: please indicate the date and name of a mock participant for a pilot se
 
 - Pilot participant email: Rebecca Blakiston, rebecca.blakiston@adhocteam.us
 
-- Date and time of pilot session: 12/20/2023 at 3 - 4 PM EST
+- Date and time of pilot session: 12/20/2023 at 1130AM EST/930AM MT
 
 
 ### Research sessions <a id="research-sessions"></a>
