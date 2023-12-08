@@ -322,12 +322,13 @@ _Put together initial recommendations here based on your findings along with sup
 -- DRAFT --
 
 * Align with Veteran's mental model
-    * Follow the Veteran's mental model around the registration and enrollment terms, process and eligibility determiniations. This could create a more streamlined process for the Veterans when signing up and applying for health care benefits.
-
+    * Align with the Veteran's mental model around the registration and enrollment terms, process and eligibility determiniations. This could create a more streamlined process for the Veterans when signing up and applying for health care benefits.
+    * This process could look like a simple registration step, checking eligibility then determining enrollment. 
 
 
 * Veteran health service needs for entrances into "registering"
-    * Allow for more links to sign up for health care from the perspective of the Veteran - what care or health service are they seeking to sign up for
+    * Allow for more links to sign up for health care from the perspective of the Veteran - what care or health service are they seeking to sign up for.
+    * Make sure to allow for a simplified path where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
 
 
 
@@ -340,7 +341,7 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+* Test prototype flow where registration is a step in the process.
 
 
 ## Further research needed
