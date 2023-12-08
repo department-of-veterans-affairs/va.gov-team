@@ -52,3 +52,122 @@ Our solution is being called a "Secondary Nav" – secondary to the primary nav
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+
+#### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+### Objectives and Key results (OKRs)
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+- Objective:
+  - Key result: 
+  - Key result: 
+
+
+---
+
+## Assumptions
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+
+## Solution Approach
+
+- *What are you going to build now, and why have you decided to start there?*
+- *Why this solution / approach over other solutions / approaches?*
+- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
+- Initiative | [Link to Initiative Brief](#)
+
+--- 
+
+---
+
+## Discovery
+### Assumptions/Risks
+> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
+> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
+
+- **Value Risks** (will people use it): 
+  - .
+- **Usability Risks** (can people figure out how to use it):
+  - On mobile, users may not interact with hidden components because they don't notice them
+  - On mobile, users may get confused by visual similarity of any hidden menu options
+  - On mobile, a persistent navigation at the top of the page could make pages harder to use
+- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+- **Accessibilty risks**
+  - Adding a second navigation structure will introduce challenges for tab order and screen reader order
+  
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - Examples: 
+    - VA stakeholder testing, marketing, compliance requirements 
+
+## Launch Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+  - tbd
+
+---
+
+## Solution Narrative
+
+### Current Status
+
+### Key Decisions
+
+---
+   
+## Screenshots
+
+### Before
+
+### After
+
+---
+
+#### Communications
+*Where will you discuss this initiative?*
+
+<details>
+
+- Team Name: Cartographers (MHV on VAgov)
+- GitHub Label(s): Cartographers
+- Slack channel: mhv-on-vagov-cartography-team
+- Product POCs: Wesley Rowe (PM), Patrick Bateman (PO)
+
+</details>
+
+#### Team Members
+
+<details>
+ 
+ - DEPO Lead: 
+ - PM: 
+ - Engineering:
+ - Research/Design: 
+ 
+</details>
+
+#### Stakeholders
+*What offices/departments are critical to make this initiative successful?*
+
+<details>
+  
+- Office/Department:
+- Contact(s): 
+ 
+</details>
+
+---
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
+<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
