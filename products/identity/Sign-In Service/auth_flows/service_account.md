@@ -4,6 +4,7 @@
 
 | Version Number | Author | Revision Date | Description of Change |
 | --- | --- | --- | --- |
+| 0.2 | Dick Davis | 12/8/2023 | Include instructions for `access_token_user_attributes` |
 | 0.1 | John Bramley | 8/10/2023 | Initial creation |
 
 ## Summary
@@ -25,6 +26,7 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 | `scopes` | array | one or more string URL permissions granted to the client | ['http://localhost:3000/sign_in/client_configs'] |
 | `access_token_audience` | string | URL of the requesting account | http://localhost:4000 |
 | `access_token_duration` | DateTime | duration of access token; maximum of 5 minutes | 5.minutes |
+| `access_token_user_attributes` | array | properties allowed for `user_attributes` claim in access token | ['icn'] |
 | `certificates` | array | one or more public certs provided by the client | ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCC..."] |
 
 ### Manual Service Account Config Creation
@@ -38,6 +40,7 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
     scopes: ['http://localhost:3000/sign_in/client_configs'],
     access_token_audience: 'http://localhost:4000',
     access_token_duration: 5.minutes,
+    access_token_user_attributes: ['icn'],
     certificates: ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCCQCd5yxC1/1eSTANBgkqhkiG9w0BAQsFADBDMQswCQYDVQQGEwJV\nUzEPMA0GA1UECAwGT3JlZ29uMREwDwYDVQQHDAhQb3J0bGFuZDEQMA4GA1UECgwH\nT2RkYmFsbDAeFw0yMzA3MjAxMzM2MTFaFw0yNDA3MTkxMzM2MTFaMEMxCzAJBgNV\nBAYTAlVTMQ8wDQYDVQQIDAZPcmVnb24xETAPBgNVBAcMCFBvcnRsYW5kMRAwDgYD\nVQQKDAdPZGRiYWxsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw15I\nxiDnedSaypN4J85mpqnW/lEhUVBOab8WH6yHP/TAybwuEA1g5FlvsK+JI8daB9ww\ntj5jEO7lVObrLXDj9n2nvA05UxaoeSihVJcZZyXeqszyceV5Jy19cQFeHQsNCH/f\n2rgWupyCe6UrqK8l9K/F5MILXLoDDKE1a/2mdoWl7dPy9eCBfkuoptKsWp/UYSzE\nUOeveppS+fqvcyoJIRO1vMqt7Lf07RhxmzOEOF71IzxTUDbI/RLgO+LgEHPHOg9J\nW7Tubh0RvKD2W7xqMDQF/81t+Y+LQ8+jnpE/7LUrHWUMmQHd5BXECFoBi/XiR01t\ndcBtKdQfwmRydoPMZQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQC/2iLSxm+0Eehq\ntxZq7h8CMTMuOueLVeTu/UY9zT/juvobTmwgsKqYLmKx4JC7Ioycn7z1diX0LeEV\nECcMV0dIYgNDQ9J1pEVA1GJX72d3za45ZlY9R0tujDD8eynx/rxbimv5KaxmNmBA\na/2qmpxHyy2F4ZjHX4w60CYRVHvqNzSjCUpHkMw+40P89I3YStFhW64i3lpm7YRJ\nAsf3Uq21LI1T9xWECQ6YBDeRHeyn2EOqAYe/xLV23AXP1pID3Mso+KpXch7Nsemc\nKRXpqqNAsSZqbyXm3Wwf5zR7zKwTE2E5UfpQxlcQMFJi6HJKOua/6ujsm9JimNlr\n2FRiU/DM\n-----END CERTIFICATE-----\n"]
   })
   ```
@@ -73,6 +76,7 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 | `scopes` | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
 | `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
 | `jti` | string | a random identifier that can be used by the client to log & audit their Service Account interactions | '2ed8a21d207adf50eb935e32d25a41ff' |
+| `user_attributes` | object | optional attributes for the user to be included with the access token | `{ "icn" => '1234' }` |
 
 
 - Create a Service Account assertion payload:
@@ -86,7 +90,8 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
     "exp": 1691702791,
     "scopes": ["http://localhost:3000/sign_in/client_configs"],
     "service_account_id": "9caf51576cd6fe65b662588584ed97b1",
-    "jti": "2ed8a21d207adf50eb935e32d25a41ff"
+    "jti": "2ed8a21d207adf50eb935e32d25a41ff",
+    "user_attributes": { 'icn' => 1234 }
   }
   ```
   
@@ -145,6 +150,7 @@ assertion=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vaWRlbnRpdHktZGFzaGJvYXJkLWFwa
 |JWT `iss`|ServiceAccountConfig `access_token_audience`|400|`Service account assertion issuer is not valid`|
 |JWT `aud`|`<SiS-environment>/sign_in/token`|400|`Service account assertion audience is not valid`|
 |JWT `scopes`|ServiceAccountConfig `scopes` (must include all asserted)|400|`Service account assertion scopes are not valid`|
+|JWT `user_attributes`|ServiceAccountConfig `access_token_user_attributes` (individual properties must be specified in config)|400|`Assertion user attributes are not valid`|
 
 ## Service Account Access Token Validation
 
