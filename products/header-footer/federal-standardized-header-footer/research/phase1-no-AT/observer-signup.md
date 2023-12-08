@@ -5,11 +5,17 @@
 - You can **sign up for an OPEN observer slot** by emailing Cynthia.Merrill@va.gov 
 - Then you will receive invites to the session and an optional debrief meeting afterwards
 
+
 Date | Time (ET) | Participant | Observer 1 | Observer 2 | Observer 3
+
 ------------------|--------------|---------|----------|-----
-Dec 15, 2023 | P1 Veteran | 12-1 | Jordan | Amanda | OPEN
+
+Dec 15, 2023 | 12-1 | P1 Veteran | Jordan | OPEN | OPEN
 
 
+Date | Time (ET) | 
+-----------------|--------------
+Dec 15, 2023 | 12-1 | P1
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
