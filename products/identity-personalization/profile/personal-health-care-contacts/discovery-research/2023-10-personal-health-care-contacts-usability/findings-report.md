@@ -92,7 +92,6 @@ After signing in/or articulating that process:
 - 1 participant attempted to navigate to the My HealtheVet profile as they related this information to health (sign in > My HealtheVet) but at "second guess", this participant headed to the VA.gov Profile
 - 1 participant explored the landing page and used the mega menu to navigate to the health care hub section. After, not finding what they were looking for, they went to Profile
 - 3 participants attempted to search "emergency contact" or "next of kin" and were unable to find information and navigate to the Profile
-![Profilehub](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/2b97fb07-0260-4725-9c8b-a80c01556e6a)
 
 ---
 
@@ -155,15 +154,11 @@ All 9 participants wanted functionality to edit and add contacts on the page.
 
 > Man that’s horrible! You should be able to do it on the website. - P6
 
-<img width="1046" alt="Screenshot 2023-12-05 at 4 34 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/cbad7811-3cc5-4996-a17d-23a62dfd8709">
-
 ---
 
 ### 6) 6 of 8 participants found the information about how to update their _Personal health care contacts_ and understood the process.
 
 2 participants did not notice the component to learn how to update their information but once prompted by the moderator, understood the content. 
-
-**Note:** One participant was having technical trouble during this portion of the study 
 
 <img width="746" alt="Screenshot 2023-12-06 at 4 30 38 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/b63e3afb-0ad1-439c-b3b2-6a00d97fe1cb">
 
@@ -241,6 +236,7 @@ When asked if this information is related to other benefits, participants commen
 
 ## Further research needed
 
+No further research needed
 
 ## Appendix
 
