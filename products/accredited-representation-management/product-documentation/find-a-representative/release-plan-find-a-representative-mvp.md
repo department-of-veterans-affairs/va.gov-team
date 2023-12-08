@@ -22,6 +22,9 @@ Feature Toggles:
 - [ ] The react widget has been added to the landing page
 - [ ] Entry points have been redirected to the landing page
 
+#### Data Consideration
+- [ ] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
+
 #### Go/No Go meeting on 12/11 at 2p ET (11a PT)
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
