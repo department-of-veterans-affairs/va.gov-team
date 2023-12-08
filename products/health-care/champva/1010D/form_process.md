@@ -233,7 +233,10 @@
   </details>
 
 # **Miscellaneous**
-<details></details>
-- VetText discovery [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67829)
+<details>
+  <summary>Miscellaneous</summary>summary>
+- **VetText discovery** 
+  [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67829)
 - Product directory update
 - Public websites/content migration initiative alignment [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67834)
+</details>
