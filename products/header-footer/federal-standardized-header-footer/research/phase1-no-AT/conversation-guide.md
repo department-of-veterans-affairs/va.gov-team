@@ -7,7 +7,7 @@
 - *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
 
 **10-15 min before session**: 
-- Slack Perigean notetaker the link to notetaking doc in github
+- Slack Perigean notetaker the link to notes doc in github
 
 - *Post p# and "observer instructions" in #feedback-backchannel*
   - *@mention team members*
@@ -22,7 +22,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototypes:* **TBD and TBD**
+- *Open standalone browser windows with prototypes:*
+  - Mobile: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
+  - Desktop: **TBD** (zoom chat) or **bit.ly/TBD** (dictate) 
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -163,6 +165,7 @@ Let’s start with a few questions...
 	- Thanks for confirming that.
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
+    - *(If not the expected device, ask to rejoin that way)*
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(RECORD)* 
 
@@ -184,10 +187,12 @@ I would like you to share your screen with me so that I can see what you do duri
 ### Task 1: [Open prototype] 
 I'd like you to look at a web page that I'm going to share with you. 
 
-*Decide which prototype to show--desktop or mobile--based on device that participant is using during this session.*
+*Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
-I will *[dictate/put into the Zoom chat]* the URL: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
-- *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **TBD**)*
+I will *[dictate/put into the Zoom chat]* the URL: 
+- Mobile: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
+- Desktop: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
+- *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide the full link)*
 
 Did you get the link? 
 
@@ -278,6 +283,8 @@ Let's say that you recently moved and want to make sure that your mail and benef
 - *(IF TIME & if didn't use Sign in)* Is there another way that you could do this task from this web page?
 
 *(If needed, prompt participant to use Login.gov, click to enter info)*
+
+*(If needed, prompt participant to pretend that their name is "Chris")*
 
 *(See previous page and* Chris *or* Sign Out *in top right corner)*
 
