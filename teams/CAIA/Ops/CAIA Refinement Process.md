@@ -2,12 +2,12 @@
 `Current WIP Version: V1.0`
 
 ## In this document
-- Overview
-  - Purpose of this document
-  - Purpose of CAIA ops Refinement
-  - Refinement Frequency
-  - Who participates in refinement?
-- Process 
+- [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#overview)
+  - [Purpose of this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#purpose-of-this-document)
+  - [Purpose of CAIA ops Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#purpose-of-caia-ops-refinement)
+  - [Refinement Frequency](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#refinement-frequency)
+  - [Who participates in refinement?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#who-participates-in-refinement)
+- [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#process)
 - Item 2
 - Item 3
 
