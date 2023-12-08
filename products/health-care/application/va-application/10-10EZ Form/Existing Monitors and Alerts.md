@@ -35,7 +35,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
 - Determine if a maintenance banner needs to be in place to stop further failures
 - Obtain Veteran contact information (Name, Phone number, Email address)
-- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to Amanda Scully and Antonio Presley (Confirm these names with PO)
+- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
      - Explain what has happened (submission failure) and provide the Veteran contact info.
      - Copy PO (Patrick Bateman) and Crew lead (Lauren Alexanderson)
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
