@@ -1,5 +1,4 @@
 # Research Plan for Facility locator mobile map
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 Briefly describe the background of your product. Consider:
@@ -7,7 +6,7 @@ Briefly describe the background of your product. Consider:
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+[Facility locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
 
 ### OCTO Priorities 
 
@@ -15,8 +14,16 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+- Starting up
+- Taking care of myself
+- Reinventing myself
+- Putting down roots
+- Retiring
+- Aging
+- Dying
+  
 Are there moments that matter? 
-
+- 
 ## Research Goals	
 What are you trying to learn from this research? 
 
