@@ -65,8 +65,6 @@ These consistencies are recommendations, rather than rules. They outline common 
 + [ ] Featured content isn't too long
 ### Table of contents
 + [ ] Tables include 3 or more H2s
-+ [ ] Tables exclude H2s for sections that link to other webpages
-  + Example: Exclude "past rates" and "more information" on this [webpage](https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/)
 ### Links
 + [ ] Link text to external websites include the target (where) and purpose (why)
   + Example: "Request your records using eVetRecs on the national archives website"
