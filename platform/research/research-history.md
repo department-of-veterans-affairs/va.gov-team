@@ -371,7 +371,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### November 2 - 4 : Wizard Migration Usability Study
 *Public Websites: Liz Lantz, Christian Valla, Megan Gayle, Josh Kim*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards/discovery/research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards/discovery/research)
 - **Keywords:** wizard pattern, education benefits, alerts
 
 #### September 17 - November 9 : IRIS / Contact Center Content Process Research
