@@ -23,8 +23,8 @@
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
 - *Open standalone browser windows with prototypes:*
-  - Mobile: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
-  - Desktop: **TBD** (zoom chat) or **bit.ly/TBD** (dictate) 
+  - Smartphone: **https://bit.ly/3RJL5vb** 
+  - Desktop/tablet: **https://bit.ly/3t6rbRt**  
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -190,8 +190,8 @@ I'd like you to look at a web page that I'm going to share with you.
 *Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
 I will *[dictate/put into the Zoom chat]* the URL: 
-- Mobile: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
-- Desktop: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
+- Smartphone: **https://bit.ly/3RJL5vb** 
+- Desktop/tablet: **https://bit.ly/3t6rbRt**
 - *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide the full link)*
 
 Did you get the link? 
@@ -284,13 +284,11 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *(If needed, prompt participant to use Login.gov, click to enter info)*
 
-*(If needed, prompt participant to pretend that their name is "Chris")*
-
-*(See previous page and* Chris *or* Sign Out *in top right corner)*
+*(See previous page and* My Tools *or* Sign Out *in top right corner)*
 
 *RECORD navigation: 
-- *(desktop) **Chris > Profile*** 
-- *(mobile) **Menu > Chris > Profile***
+- *(desktop) **My Tools > Profile*** 
+- *(mobile) **Menu > My Tools > Profile***
 - *Any feedback about their name as menu (for Auth)*
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
