@@ -234,7 +234,8 @@
 
 # **Miscellaneous**
 <details>
-  <summary>Miscellaneous</summary>summary>
+  <summary>Miscellaneous</summary>
+  
 - **VetText discovery** 
   [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67829)
 - Product directory update
