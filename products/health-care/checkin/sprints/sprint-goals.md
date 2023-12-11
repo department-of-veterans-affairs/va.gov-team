@@ -10,8 +10,10 @@ ________________________________________________________________________________
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase Usage of PCI**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
+     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks
      - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Address Tech Debt**   
+- **GOAL: Address Tech Debt**
+     - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**       
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
@@ -40,8 +42,6 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
         - 🟥 [[Content] Ensure content for cancelled appt alert (from prod) during pre-check-in is consistent with unified check in messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71166)
         - 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
-  - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)**
-       - 🟥 [[UX][Content] AUDIT: Audit production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70673)
   - **Sub Goal: [Cross-Product Discovery - Complete Multiple Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70700)**
        - TBD
   - **Sub Goal: Analyze current metrics to see what they tell us**       
@@ -51,6 +51,8 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71205)
 - **GOAL: Address Tech Debt**
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
+    - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
+       - 🟥 [[UX][Content] AUDIT: Audit production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70673)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
         - 🟥 [[Design] Switch body and links to v3 in Production file and Unified Check In file on Design Page (and symbols)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70661)
         - 🟩 [[FE] Switch headings and body and icons to v3 in prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69829)
