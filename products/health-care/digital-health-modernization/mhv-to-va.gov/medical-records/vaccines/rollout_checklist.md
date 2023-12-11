@@ -55,7 +55,7 @@ Application exists on VA.gov in a published, authenticated state, but can only b
 		- All other Medical Records domains have met their own Phase 0 criteria
 - [X] Communications working group has prepared (and had approved)
 	- [X] all necessary communication materials have been drafted & reviewed by OCC and OCTO leadership 
-- [ ] Change management and comms have been notified
+- [X] Change management and comms have been notified
 - [X] Mobile app team has been notified / coordinated with to try to sync changes. 
 - [X] Schedule and complete user acceptance testing with development team, OCTO team, Product Owner, and other necessary technical personnel
 	- All use cases tested and validated in production, starting from sign-in at all entry points.
@@ -69,8 +69,8 @@ Application exists on VA.gov in a published, authenticated state, but can only b
 - [X] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
 	- [X] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
 - [X] Trusted users have been identified
-- [ ] Go/No Go meeting conducted
-	- [ ] Outcomes of go-no-go documented 
+- [X] Go/No Go meeting conducted
+	- [X] Outcomes of go-no-go documented 
 - [ ] Communication has gone out to trusted users
 - [ ] Communication goes out to other key audiences
 
@@ -101,7 +101,7 @@ For an application to enter rollout Phase 0, the following must be true:
      - [X] After readiness & staging review 
      - [X] Accessibility is included  
 
-- [ ] Team members and go/no-go decisions are added to the product decision log  
+- [X] Team members and go/no-go decisions are added to the product decision log  
 
 - [X] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
  
@@ -112,7 +112,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Email to trusted users is shared with contact center teams and coordinators  
 
-- [ ] MHV SharePoint page announcing this shift is updated with information about phase 0 
+- [X] MHV SharePoint page announcing this shift is updated with information about phase 0 
 
  
 
