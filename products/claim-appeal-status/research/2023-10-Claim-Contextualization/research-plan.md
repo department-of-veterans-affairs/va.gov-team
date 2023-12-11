@@ -35,7 +35,7 @@ With this research we hope to learn how well our designs solve the comprehension
 - After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do feel after seeing this information?
 
 ### Hypotheses
-- The new Overview tab will provide useful information to the Veterans about what is happening to a claim at each step in the process, which will lead them to feeling more informed and satisfied with the information provided in CST.
+- Veterans will find value in the information provided in the Overview tab.
 - Veterans will have a clear understanding of what is happening at each step of the process.
 - Veterans will understand that it is normal for claims to go back and forth between steps.
 
