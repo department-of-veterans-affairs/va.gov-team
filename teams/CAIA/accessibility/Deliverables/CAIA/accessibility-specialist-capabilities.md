@@ -55,6 +55,3 @@ These roles could work in either a centralized (CAIA) context or embedded in del
 - Capable of running test plans, helping to ensure accessible outcomes
 - Reach, works with 1 - 4 teams at a time, can help to validate fixes as reported through an accessibility escalation pathway
 - Current example, Sarah Koomson
-
-
-0
