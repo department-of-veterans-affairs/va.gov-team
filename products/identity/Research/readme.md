@@ -14,5 +14,6 @@
    - [the identity subfolder named - login.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/5ab5826e440cb5bf2874aaa5b3a4f3d7ed32e875/products/identity/login.gov)
    - [the identity subfolder named - Inherited Proofing/MHV Inherited Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/cfb2d60894c4838be57c75eb066600ae90d58fc0/products/identity/Inherited%20Proofing/MHV%20Inherited%20Proofing)
    - [the identity subfolder named - mhv/mhv-account-creation/mhv-upgrade](https://github.com/department-of-veterans-affairs/va.gov-team/tree/cfb2d60894c4838be57c75eb066600ae90d58fc0/products/identity/login/mhv/mhv-account-creation/mhv-upgrade/research)
-- Additional research about login.gov and credential migration can be found in the [Login.gov Adoption team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/8f3127aa839f6a14936c3fb94ff5e207abc472bf/products/login.gov-adoption/research)
+- Additional research about login.gov and credential migration can be found in
+   - [Login.gov Adoption team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/8f3127aa839f6a14936c3fb94ff5e207abc472bf/products/login.gov-adoption/research)
 
