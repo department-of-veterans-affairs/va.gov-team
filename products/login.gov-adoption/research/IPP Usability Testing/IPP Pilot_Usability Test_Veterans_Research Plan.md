@@ -314,10 +314,13 @@ Sophia Philip | <sophia@themostudio.com> | <sophia.philip@va.gov>\
 
 
 ### Participant(s) for pilot test
-TBD
+Alison Maddox (Interanl MO employee)| Email upon request
 
 ### Note-takers 
-TBD
+Lauren Morris | lauren@themostudio.com
+Anu Das | anu@themostudio.com
 
 ### Observers
-TBD
+Rahul Vyas | rahul@themostudio.com
+Lauren Morris | lauren@themostudio.com
+Anu Das | Anu@themostudio.com
