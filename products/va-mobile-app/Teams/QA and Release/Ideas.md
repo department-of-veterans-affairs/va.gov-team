@@ -5,7 +5,7 @@
 | ---- | ------ | ------ | 
 |  Require unit tests to be completed before feature goes into production |  I have gotten positive backing from Binny, Kelly and Stacy |  Adam | 
 |  Require detox UI updates to be part of new changes before going to production - reduce QA backlog work and improve testing quality / timing | I have gotten positive backing from Binny, Kelly and Stacy |  Adam | 
-|  Have engineering do some preliminary demo mode test before QA - seen demo mode broken or changes not there in QA that could have been caught earlier if engineering did it  |  Adam | 
+|  Have engineering do some preliminary demo mode test before QA - seen demo mode broken or changes not there in QA that could have been caught earlier if engineering did it  | | Adam | 
 |  Have Demo mode be updated with any changes - this impacts detox testing and manual testing  |  |  Adam | 
 |  Consider having Mobile teams update detox testing vs having QA do it - some FE do it already today | |   Adam | 
 |  Create a PR turn around policy for QA review ; Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days?  | |  Adam |  
@@ -18,8 +18,9 @@
 |  Document hot fix process / requirements / timing | | | 
 |  How to educate / onboard external teams in regards to QA testing, testing requirements (detox, etc.)  | | | 
 |  Release / RC tester for 1Q 2024 | | Team | 
-|  New cadence of meetings for 2024 | Waiting till after Mobile team's keep / delete team meeting review | Team | 
-
+|  New cadence of meetings for 2024 | Waiting till after Mobile team's keep / delete team meeting review | Adam | 
+| New ticket templates for items Mobile team doesn't do a great job remember Feature flag (depending on how implementing & releasing), Maintenance windows, Availability framework, Analytics (metrics, audiences, etc), App-review-triggering action, Updating demo mode |  Ticket idea for the future — there are a number of things we need to think about (and often code, but sometimes it doesn’t apply) for any given epic and we’re not great about remembering them.It’d be great to have them in the template so Product (or anyone else in the feature team) doesn’t need to remember them.  | | |
+| Improve QA sizing | Past convos forced QA to put sizing in the comments. Revisit to see if this is still sufficient | 
 
 
 
