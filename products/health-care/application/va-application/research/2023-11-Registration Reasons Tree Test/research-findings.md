@@ -85,11 +85,11 @@ We hypothesize that Veterans who do are eligible to register for NSC reasons, ex
 
 ## Key Findings
 
-1. Veterans are not navigating to the EZ form for registration reasons
+1. Veterans are not navigating to the 10-10EZ form for registration reasons
 2. Confusion around registration and enrollment terminology within the health care benefits space
 3. Veterans reported a preference to sign up online but wanted additional benefits in-person
-4. For some of the registration reasons, scheduling appointments while signing up was a preference.
-5. Wanting the VA to reccommend and inform of more benefits
+4. For some of the registration reasons, scheduling the appointment while signing up was a preference
+5. Wanting the VA to recommend and inform of more benefits
 
 
 
