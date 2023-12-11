@@ -215,6 +215,29 @@ Please indicate the date and name of a mock participant for a pilot session. 
 
 60 minutes, allow for buffer time within 60 minutes should participant be running late
 
+### Research Session Schedule
+
+[See spreadsheet](https://docs.google.com/spreadsheets/d/1KnPQbhykWDZ9a4BPb0UqoUDz7mMVjDXNBaGFeHaHFZE/edit#gid=0)
+
+P#	Date	Time EST	Moderator	Notetaker 1	Notetaker 2	Observer 1	Observer 2
+P1	Monday, December 11	10-11 AM	Carl	Sofia	Josie 	Lauren	
+P2	Monday, December 11	2-3 PM	Carl	Sofia	Josie 		
+P3	Monday, December 11	4-5 PM	Sofia	Carl	Anu		
+P4	Wednesday, December 13	10-11 AM	Josie	Sofia			
+P5	Wednesday, December 13	12-1 PM	Sofia	Lauren			
+P6	Wednesday, December 13	3-4PM	Josie	Sofia		Anu	
+P7	Thursday, December 14	10-11 AM	Sophia	Lauren			
+P8	Thursday, December 14	2-3 PM	Sophia	Josie		Lauren	
+See row 18							
+P10	Monday, December 18	11 AM - 12 PM	Josie	Carl	Sofia		
+P11	Monday, December 18	2-3 PM	Sophia	Carl	Sofia		Rahul 
+P12	Monday, December 18	4-5 PM	Sofia	Josie		Anu	Rahul 
+P13	Tuesday, December 19	11 AM - 12 PM	Carl	Sophia	Sofia		
+P14	Tuesday, December 19	4-5 PM	Sophia	Josie			
+P9	Wednesday, December 20	4-5 PM	Josie	Sophia		Anu	
+P15	Friday, December 22	10-11 AM	Sofia	Lauren			Rahul
+
+
 ### Availability
 
 #### Monday, 12/4
