@@ -23,28 +23,29 @@ What browser are you using today?
 
 If not joined by Zoom already
 
-Do you have Zoom installed?
+- Do you have Zoom installed?
 
 If on Zoom but can’t share screen
 
-If on mobile, you can find instructions for helping participants on iPhone or Android share their screen
+- If on mobile, you can find instructions for helping participants on iPhone or Android share their screen
+
 If assistive tech is being used
 
-Do you have a screen reader on this device?
+- Do you have a screen reader on this device?
 
-What kind of screen reader do you use?
+- What kind of screen reader do you use?
 
-Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+- Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
 
-How long have you been using it?
+- How long have you been using it?
 
-Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low?
+- Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low?
 
-If high, be prepared to have them repeat anything that can't be heard or understood I may need to pause you at times and ask you what you're hearing if I can't make out what's being read.
+	- If high, be prepared to have them repeat anything that can't be heard or understood I may need to pause you at times and ask you what you're hearing if I can't make out what's being read.
 
-Are you using a screen magnifier today?
+- Are you using a screen magnifier today?
 
-Are there any other assistive technologies that you use?
+- Are there any other assistive technologies that you use?
 
 *If the participant has low vision, they may require captions which needs to be turned on in advanced settings
 
