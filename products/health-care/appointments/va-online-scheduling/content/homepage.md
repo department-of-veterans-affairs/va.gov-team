@@ -91,8 +91,11 @@ Breadcrumb: `VA.gov home > My HealtheVet > Appointments > Pending appointments`
 
 **PAGE CONTENT**
 
-These appointment requests haven’t been scheduled yet.
-
+```diff
+- These appointment requests haven’t been scheduled yet.
++ Appointments that you request will show here until staff review and schedule them.
+@@GH71716@@
+```
     [Secondary Nav]
         (Link) Upcoming  
         (Link - Selected) Pending (#)  
