@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checks for stale pr
-        uses: actions/stale@v6
+        uses: actions/stale@v9
         with:
           repo-token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           days-before-issue-stale: 90
