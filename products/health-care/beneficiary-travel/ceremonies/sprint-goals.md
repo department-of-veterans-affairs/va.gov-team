@@ -5,7 +5,7 @@
 - Identify claim experience gaps in effort to:
   - Decide "first feature" for development VA.gov
   - Decide focus for research study 
-- Start scaffold (sandbox space) on VA.gov
+- Update objectives based on discovery and stakeholder discussions
 
 ### Notes
 - This sprint is the first sprint of Initiative 2.0 in the overall project timeline

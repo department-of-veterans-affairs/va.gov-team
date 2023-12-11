@@ -55,9 +55,10 @@ Data collection will be remote and conducted using Zoom.
 
 We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
 
-- Tuesday, 12/5/22 11am EST
-- Tuesday, 12/5/22 11:30am EST
 - Tuesday, 12/5/22 2pm EST
+- Tuesday, 12/5/22 3pm EST
+- Wednesday, 12/6/22 11:30am EST
+- Wednesday, 12/6/22 1:30pm EST
 
 
 ### Recruitment criteria
@@ -78,7 +79,17 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 - Some have and use the Flagship Mobile app, some do not
 - Some have visited a VA facility within the past 11 months
 - Ideally at least 3 participants use visual Assistive Technology, such as a screenreader 
-- Diverse sample group, more fully detailed in request ticket 
+- Diverse sample group, more fully detailed in request ticket.  Ideally this would look like: 
+	- 4 / 8 aged 55 - 64+ 
+	- 4 / 8 mobile users
+	- 3 / 8 use visual AT (such as screen readers)
+	- 2 / 8 no degree
+	- 2 / 8 women 
+	- 2 / 8 identify as Black
+	- 1 / 8 identify as Hispanic 
+	- 1 / 8 identify as Asian
+	- 1 / 8 identify as LGBTQ
+
 
 #### Screener Questions
 1.  Do you have a Veteran Identification Card? A Veteran ID Card (VIC) is a digital, previously physical, form of photo ID you can use to get discounts offered to Veterans at many restaurants, hotels, stores, and other businesses.  (For verification purposes, this is how to apply for the VIC card: https://www.va.gov/records/get-veteran-id-cards/vic/)
@@ -92,14 +103,14 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 
 3. When was the last time you successfully used a veteran specific discount at a retailer or civilian health care provider? 
 	- I have never successfully used a veteran specific discount _(Disqualify)_
-	- Within the past 12 - 7 months _(Disqualify)_  
-	- Within the past 6 - 4 months 
+	- Within the past 7 - 12 months _(Disqualify)_  
+	- Within the past 4 - 6 months 
 	- Within the past 3 months
 
 4. When was the last time you were denied an available veteran specific discount at a retailer or civilian health care provider? 
 	- I have never been denied an available veteran discount (Disqualify)
-	- Within the past 12 - 7 months (Disqualify)  
-	- Within the past 6 - 4 months 
+	- Within the past 7 - 12 months (Disqualify)  
+	- Within the past 4 - 6 months 
 	- Within the past 3 months
 
 5. Do you have and use the VA Health and Benefits mobile app? The official VA Health and Benefits mobile allows you to manage your VA health care, benefits and payments from your mobile phone or tablet.  (For verification purposes, this is the health and benefits mobile app: https://mobile.va.gov/app/va-health-and-benefits)?
@@ -108,6 +119,15 @@ We will partner with Perigean to recruit Veterans.  We request a kickoff meeting
 
 
 ## Timeline
+
+### Recruitment approach with Perigean
+
+We will partner with Perigean to recruit Veterans.  We request a kickoff meeting with Perigean to align on what is needed and desired from the sample.  Availability for potential kickoff meeting times with Perigean, depending on their availability is below. 
+
+- Tuesday, 12/5/22 2pm EST
+- Tuesday, 12/5/22 3pm EST
+- Wednesday, 12/6/22 11:30am EST
+- Wednesday, 12/6/22 1:30pm EST
 
 ### Prepare
 Pilot: Week of December 11, 2023.  Pilot participant and time to be decided.

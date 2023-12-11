@@ -142,33 +142,47 @@ For the usability test, the goal is to recruit 10 Veterans total for individual 
 
 
 Screener Questions
-Login Credentials; Have you ever created a Login.gov account?
-Yes
-No
- How often do you use your Login.gov account?
-Never
-Rarely
-Occasionally
-Frequently
-Very Frequently 
+Login Credentials; Have you ever created a Login.gov or an ID.Me account? 
+ID.me 
+Login.gov
+Neither 
+ How often do you use your Login.gov or ID.me? 
+Never Login.gov 
+Never ID.me 
+Sometimes Login.gov 
+Sometimes ID.me 
+Always Login.gov 
+Always ID.me 
+I don't have either Login.gov or ID.me 
 
 
 Do you currently use any of the other following login credentials, select all that apply?
-ID.me
+
 My HealtheVet
 DS Logon
+Other 
 
-Have you tried verifying your identity online? This means, did you ever have to provide identity documents to say you are who you say you are when logging into a service.
-Yes, if yes is selected, ask question 4a
-No, if no is selected, skip to question 5
-
-4a. Did you ever fail or have to try multiple times?
-Yes
+Have you tried verifying your identity online? This means, did you ever have to provide identification documents to say you are who you say you are when logging into a service.
+Yes and I have a verified account. 
+Yes and was unsuccessful in creating a verified account. 
 No
 
 Cognitive Considerations; Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
-
-Screen reader; Do you use a screen reader? If so, what type of screen reader do you use? On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader? [1, 2, 3, 4, 5] 
+Yes 
+No
+Do you currently have or have had experience with homelessness? 
+Yes 
+No 
+Do you currently work for the VA?
+Yes 
+No
+Do you use a screen reader? If so, what time of screen reader do you use?
+Yes, VoiceOver
+Yes, JAWs
+Yes, other
+No
+On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experienced are you with using a screen reader? [1, 2, 3, 4, 5]
+ 
 
 
 ### Research materials 
@@ -200,6 +214,28 @@ Please indicate the date and name of a mock participant for a pilot session. 
 ### Length of sessions
 
 60 minutes, allow for buffer time within 60 minutes should participant be running late
+
+### Research Session Schedule
+
+[See spreadsheet](https://docs.google.com/spreadsheets/d/1KnPQbhykWDZ9a4BPb0UqoUDz7mMVjDXNBaGFeHaHFZE/edit#gid=0)
+
+| P# | Date | Time EST | Moderator | Notetaker 1 | Notetaker 2 | Observer 1 | Observer 2 |
+| P1 | Monday, December 11 | 10-11 AM | Carl | Sofia | Josie | Lauren |  |
+| P2 | Monday, December 11 | 2-3 PM | Carl | Sofia | Josie |  |  |
+| P3 | Monday, December 11 | 4-5 PM | Sofia | Carl | Anu |  |  |
+| P4 | Wednesday, December 13 | 10-11 AM | Josie | Sofia |  |  |  |
+| P5 | Wednesday, December 13 | 12-1 PM | Sofia | Lauren |  |  |  |
+| P6 | Wednesday, December 13 | 3-4PM | Josie | Sofia |  | Anu |  |
+| P7 | Thursday, December 14 | 10-11 AM | Sophia | Lauren |  |  |  |
+| P8 | Thursday, December 14 | 2-3 PM | Sophia | Josie |  | Lauren |  |
+| See row 18 |  |  |  |
+| P10 | Monday, December 18 | 11 AM - 12 PM | Josie | Carl | Sofia |  |  |
+| P11 | Monday, December 18 | 2-3 PM | Sophia | Carl | Sofia |  | Rahul |
+| P12 | Monday, December 18 | 4-5 PM | Sofia | Josie |  | Anu | Rahul |
+| P13 | Tuesday, December 19 | 11 AM - 12 PM | Carl | Sophia | Sofia |  |  |
+| P14 | Tuesday, December 19 | 4-5 PM | Sophia | Josie |  |  |  |
+| P9 | Wednesday, December 20 | 4-5 PM | Josie | Sophia |  | Anu |  |
+| P15 | Friday, December 22 | 10-11 AM | Sofia | Lauren |  |  | Rahul |
 
 ### Availability
 
@@ -300,10 +336,13 @@ Sophia Philip | <sophia@themostudio.com> | <sophia.philip@va.gov>\
 
 
 ### Participant(s) for pilot test
-TBD
+Alison Maddox (Interanl MO employee)| Email upon request
 
 ### Note-takers 
-TBD
+Lauren Morris | lauren@themostudio.com
+Anu Das | anu@themostudio.com
 
 ### Observers
-TBD
+Rahul Vyas | rahul@themostudio.com
+Lauren Morris | lauren@themostudio.com
+Anu Das | Anu@themostudio.com

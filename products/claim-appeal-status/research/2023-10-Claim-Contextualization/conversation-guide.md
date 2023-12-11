@@ -1,4 +1,4 @@
-# WIP - Conversation Guide 
+# Conversation Guide 
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -30,11 +30,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-
-Today we're going to talk about disability compensation claims and the Claim Status Tool. 
-
+Thanks for joining us today! My name is Skyler, and I'm going to be guiding you through the session today. Today we're going to talk about disability compensation claims and the Claim Status Tool.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -59,50 +55,96 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- Have you used VA.gov before?
+- If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
+- How else do you generally interact with the VA, if at all?
+- Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
+- If yes, how many times? Have you ever done it on VA.gov?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: CST Home Page - 5 minutes
 
-- Step 1
-- Step 2
+So let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a couple weeks ago, and you're logging in to check and see if there's been an update.
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Do you know what this page is? If yes, what is it?
+- Describe to me what you're seeing here.
+- Let's say you're waiting for this top claim to be decided. What would you say is the status of the claim, based on what you see here? And what does that status mean to you?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant recognize the Claim Status Tool?
+- Do they recognize which claim is in progress?
+- Do they understand the status of the claim based on the content provided?
+- How accurate is their understanding of the status based only on what they see here?
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: Status Tab - 5 minutes
 
-- Step 1
-- Step 2
+[Participant clicks into the in-progress claim]
+
+- Based on what you see here, what would you say is the status of this claim?
+- Do you feel like you have a better understanding of the claim status than you did before? The same? Worse?
+- Do you feel satisfied with this amount of knowledge about the claim status? Why or why not?
+- If you wanted to understand more about what is going on with your claim, where would you go from here?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How much additional information about what's going on "behind the scenes" does the Status tab provide?
+- Do Veterans seem to want more understanding of what's happening than what is provided on the Status tab?
+- Do Veterans know to navigate to the Overview tab to find out more details about what's going on with their claim?
 
-## Post-Task Interview - X minutes
+## Third Task: Overview Tab - 15 minutes
 
-- Question 1
-- Question 2
+[Participant clicks into the Overview tab]
+
+- Now tell me what you see here.
+- Based on what you see here, how would you describe the state of this claim?
+- Is there anything that is particularly useful about what you see here?
+- Is there anything that is particularly confusing about what you see here?
+- [Focus on the graphic] What do you think this is trying to communicate?
+- [Focus on the "May repeat" message] What do you think this is trying to communicate?
+- Is there any information you're not seeing here that you'd like to see?
+- What would you expect to happen next with the claim?
+
+### Things to watch for:
+
+- Is it clear to the Veteran what step their claim is in?
+- What content is most useful to the Veteran? Least helpful or confusing?
+- Do Veterans understand the graphic? Does it seem to be helpful?
+- Do Veterans understand that claims may go back and forth between steps? How do they feel about that?
+
+## Fourth Task: Checking Back on the Claim - 15 minutes
+
+Now let's imagine you log out, a couple more weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
+
+[Refresh to CST home page]
+
+- Where would you go to check for updates to the claim?
+  
+[If Status Tab]
+- Based on what you see here, how would you describe the state of this claim?
+- Is there any information you're not seeing here that you'd like to see?
+- Is there anywhere else you would go to find more information about the claim?
+
+[If Overview Tab]
+- Based on what you see here, how would you describe the state of this claim?
+- Why do you think the claim is on the step it's currently on?
+- Is there any information you're not seeing here that you'd like to see?
+- What would you expect to happen next with the claim?
+
+### Things to watch for:
+
+- Is it clear to the Veteran how to check on the status of the claim from the CST home page?
+- Does the Veteran feel the need to check the Overview tab to check on the claim, or do they feel like the Status tab is enough?
+- In the Overview tab, does the Veteran seem to understand why the claim has gone "back" a step?
+- Does the Veteran have a good understanding of what might happen to the claim next?
+
+## Post-Task Interview - 5 minutes
+
+- Overall, what did you think of what you saw today? Was it clear or confusing?
+- If you could wave a magic wand and change anything about checking your claim status on VA.gov, what would it be?
 - Any questions for me? 
 
 ## Consent to use video clips
@@ -111,7 +153,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -124,8 +166,3 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
-

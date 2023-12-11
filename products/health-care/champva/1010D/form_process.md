@@ -13,7 +13,7 @@
 
 - Identify Stakeholders  
 - User Story & Workflow 
-- Product Outline- github
+- [X] Product Outline- github
   - Create a new folder for each new form 
   - Add Product Outline to the folder
 - Create Issue templates for developer in our repository
@@ -50,7 +50,7 @@
 - [Create Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=collab-cycle-review%2Ccollaboration-cycle%2CCC-Request&template=collaboration-cycle-request.yml&title=Collaboration+Cycle+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
     - Add label: forms-audit-digitize so it shows up on our board
     - Assign Product Manager and Designer to ticket
-    - Notify vfs-platform-support with the ticket number
+    - [X] Notify vfs-platform-support with the ticket number
         - Governance Team
         - Collab Cycle
 - Product Outline
@@ -80,7 +80,7 @@
   <summary>Sitewide Intake</summary>
   
 - [Link to Platform Page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/sitewide-content-and-ia-intake-request)
-- [Create intake issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
+- [X] [Create intake issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
 - **When to start the process:** 
   - After Platform updates the collab cycle ticket
 - **Link the following documents**
@@ -231,3 +231,13 @@
 - Update veteran-facing-forms daily with updated submissions and errors
   - Open a ticket for developer to research errors
   </details>
+
+# **Miscellaneous**
+<details>
+  <summary>Miscellaneous</summary>
+  
+- VetText discovery 
+  [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67829)
+- Product directory update
+- Public websites/content migration initiative alignment [Github ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/67834)
+</details>

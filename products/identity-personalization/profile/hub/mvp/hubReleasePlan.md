@@ -30,8 +30,8 @@
 - [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-09-profile-hub-usability) 
 - [Analytics Dashboard for Search](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
      - for the hub our goal is "Objective #1: Reduce searches from within profile for items in the profile"
-- [QA Testing Ticket
-- [QA Spreadsheet
+- [QA Testing Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69415)
+- [QA Spreadsheet](https://docs.google.com/spreadsheets/d/1NfYZh4LFTVw8ZFbiv9AVkLipvxdzwwD7lKv3t7V8QMo/edit#gid=0)
 
 
 
@@ -72,6 +72,7 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 - [Success metrics on project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
+- [AE Sandbox for monitoring](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
 
 
 ## Go Live
@@ -79,11 +80,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 For metrics see the product outline as each phase has metrics tracked there. 
 
 ### Planning 
+Since this is a cosmetic shift without complex logic unique to individual users. We s
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% |  |  |
-| Launch to 50% |  |  |
-| Launch to 100% |  |  |
+| Launch to 100% | 12/19/2023 |  |
 
 ### 1-week results at 100%
 ||Results|

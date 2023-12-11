@@ -13,7 +13,7 @@ Date: 11/10/2021
 
 **Jump to:**
 
-[Hypotheses and conclusions](#hypothesis-and-conclusions)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
 [Key findings](#key-findings)
 

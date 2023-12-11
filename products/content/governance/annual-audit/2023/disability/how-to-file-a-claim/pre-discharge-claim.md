@@ -43,14 +43,15 @@
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:** 
+- **SME** Robert Eakman (Matt)
+- **Date response received:** The SME approved our changes on 12/6.
 
 ### Responses
 
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** Yes.
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** He requsted that we move up the Self Assessment Form link. We tweaked the eligibility box and added a note.
+  - He also let us know that the servicemember's treating physicial initiates the IDES referral, so we tweaked a sentence to make it active. 
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
-  - **Response:** 
+  - **Response:** No. 

@@ -1,5 +1,5 @@
 # Outstanding Debts Frontend Documentation
-Last updated: July 17, 2023
+Last updated: December 8, 2023 - updated url for "Manage your VA debt"
 
 ### Background
 This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Outstanding Debts section on My VA.
@@ -26,7 +26,7 @@ We show this section for every LOA3 user.
 
 Updated on [date]
 
-[Manage your VA debt](https://www.va.gov/manage-va-debt/your-debt)
+[Manage your VA debt](https://www.va.gov/manage-va-debt/summary/debt-balances/)
 
 **Content sources**
 

@@ -35,10 +35,9 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
      - _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth_
 - **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. And none of your actions will affect your VA information or benefits.
 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
+- **We like to record to confirm that we’ve captured your opinions accurately and may share video clips with our colleagues at the VA to show user feedback.** We won’t link anything you choose to share in the session to any information that identifies you, and we’ll remove your face and name from any videos that we share. **Are you comfortable if I record my screen and audio as we talk today?**
 
-   - _If yes:_ **Ok, once I start recording, I am going to once more confirm that you are okay with me recording this session.**
+- _If yes:_ **Ok, once I start recording, I am going to once more confirm that you are okay with me recording this session.**
 
 _*Start recording.*_
 
@@ -48,6 +47,7 @@ _*Start recording.*_
 ## Warm up questions - 3 minutes 
 Before we go to the prototype, let’s start with a few warm-up questions.
 - Have you been to a VA health facility for a medical appointment for yourself in the last 6 months?
+- Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
 - Have you or a caregiver attempted to file for travel reimbursement for a VA or community care medical appointment  in the last 6 months? (Note: Could be either via paper form, BTSSS portal, or online check-in)
 - What device are you using to join this session today?
 
@@ -69,46 +69,20 @@ Before we go to the prototype, let’s start with a few warm-up questions.
 - We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about your previous experience filing a travel reimbursement claim.
 
 - Talk to me about the last time you filed a travel claim. Can you describe the steps for us, as well as your experience?
-  - _If needed:_ You mentioned ___. Could you tell me more about that? 
+  - _If needed:_ You mentioned ___. Could you tell me more about that?
+  - Do you create multiple claims for different appts on the same day?
 
 - If you could wave a magic wand and make the travel reimbursement process how you’d want it, what would it be like? 
 
-- We know there's different types of VA claims like disability claims, pension claims, travel reimbursement claims. Could you tell us about how you view your travel reimbursement claims compared to any other VA claims you've had?
-  - _If not mentioned:_ How is travel reimbursement similar or different to the other claims?
+- How would you describe travel claims in relation to your other benefits, like disability claims?
 
 
-## Task #1: BTSSS status questions - 10 minutes
-
-_**Note:** Use inclusive language as much as possible. If the participant is blind or low-vision, the moderator can still share their screen to help observers follow along, but explain this to the Veteran._
-
-- Thank you! Now we’re going to go through some terms that relate to travel reimbursement claim statuses.
-- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claim statuses at different steps in the submission and review process. 
-- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past, so you might recognize these from when you last filed a travel reimbursement claim.
-- And remember, there are no right or wrong answers.
-- Ok, so if you’re ready we can get started with the first term.
-- (_for non-screen reader users_) I’ll go ahead and share my screen
-
-_Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
-
-_Complete the following with all 11 statuses:_
-
-- Ok, so the (first/next/last) term is _____
-  
-  - What does this mean to you (in the context of the status of a travel reimbursement claim)?
-  - Is there anything confusing about this term?
-    - _Optional:_ What would you call it instead?
-  - How important is it for you to know this claim status (during the travel reimbursement process)?
- 
-_After going through all terms_
-- Were there any other terms you expected to be here that were not included?
-
-_When complete_
-- Thank you! That concludes that activity. Now we'll move on to the prototype.
+-------
 
 
-## Task #2 - Usability Testing - 20 minutes
+## Task #1 - Usability Testing - 20 minutes
 
-- Ok, so now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
+- Ok, thank you! So now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 - Do you have any questions about that before we get started?
 - Ok, I’m sending you the prototype link in the [chat/email]. 
@@ -223,7 +197,8 @@ _**Participant is on success page:**_
 
 [**_If participant needs prompting to get to appointment list and details page_**]
   - And did you notice the "Review your past appointments" link? Go ahead and select that.
-  - And go ahead and select the link for the second appointment on the list.
+  - From here, how would you learn more about the status for the second appointment that day?
+    - _If needed:_ go ahead and select the link for the second appointment on the list.
  
 _**Participant is on details page for second appointment:**_
 
@@ -244,9 +219,10 @@ _**Participant is on details page for second appointment:**_
 _**OPTIONAL: if the participant hasn’t gone to a details page for an appointment with the travel claim CTA yet (or at all) and time permits. Have them navigate to the details page for a fourth appointment (appointment with dot indicator).**_
 
 - And for the last task, can you walk me through how you would start filing for travel reimbursement for another one of your past appointments?
-- _If needed:_
-  - _(non-screen reader users):_ Did you notice the dot with the 1 task to complete? What does it seem like that's referring to?
-  - _(screen-reader users)_: Did you notice anything indicating there might be something to do for an appointment?
+- _(non-screen reader users):_ Did you notice the dot with the 1 task to complete?
+  - What does it seem like that's referring to?
+- _(screen-reader users)_: Did you notice anything indicating there might be something to do for an appointment?
+  - What does it seem like that's referring to?
 
 _**On details page:**_
 - Is there anything confusing about this page and the information included here?
@@ -258,8 +234,35 @@ _**On details page:**_
 
 ----
 
+## Task #2: BTSSS status questions - 10 minutes
+
+- Thank you! That’s everything we need to go through in the prototype. Now we’re going to go through some terms that relate to travel reimbursement claim statuses.
+- This activity will help understand how Veterans, like you, are thinking about travel reimbursement claim statuses at different steps in the submission and review process. 
+- I’ll be going through some words and phrases that represent different claim statuses you might have encountered in the past, so you might recognize these from when you last filed a travel reimbursement claim.
+- And remember, there are no right or wrong answers.
+- Ok, so if you’re ready we can get started with the first term.
+- (_for non-screen reader users_) I’ll go ahead and share my screen
+
+_Share screen with [slide deck of terms](https://github.com/department-of-veterans-affairs/va.gov-team/files/13357166/Travel.Reimbursement.Claim.Terms.pdf)_
+
+_Complete the following with all 11 statuses:_
+
+- Ok, so the (first/next/last) term is _____
+  
+  - What does this mean to you (in the context of the status of a travel reimbursement claim)?
+  - Is there anything confusing about this term?
+    - _Optional:_ What would you call it instead?
+  - How important is it for you to know this claim status (during the travel reimbursement process)?
+ 
+_After going through all terms_
+- Were there any other terms you expected to be here that were not included?
+
+
+-------
+
 ## Post-Task Interview - 1-2 minutes
-- Ok, thank you! That’s everything we need to go through in the prototype.  
+- Ok, thank you! That concludes that activity and is everything we need to go through today.
+- Lastly, I'd like to confirm: **Are you still okay if we use any video or audio clips from this session?"**
 - Do you have any questions for me or anything else you’d like to share?
 
 ## Thank you and Closing - 1 minute

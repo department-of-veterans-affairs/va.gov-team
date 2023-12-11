@@ -17,17 +17,24 @@ Veterans can cancel appointments through VAOS.
   - COVID appointment 
   - Compensation and Pension exam appointment
   - Video Visit appointment.
+ 
+### Status Message
+- The canceled appointment displays a status indicating who canceled it.
+- Canceled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the Veteran cancelled the appointment.
+  - In this case, the alert message is "You canceled your appointment."  
+- Canceled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.
+  - In this case, the alert message is "Facility canceled your appointment." 
+ 
+**Non-functional/Backend**
 - A VA appointment may only be cancelled if either of the following is true:
   - Clinic has Prohibit Access = NO/NULL (VistA Hospital Location file #44)   OR
-  - Clinic has  Prohibit Access = YES and VIAB proxy user is IN the privileged user list (VistA Hospital Location file #44).
+  - Clinic has Prohibit Access = YES and VIAB proxy user is IN the privileged user list (VistA Hospital Location file #44).
 - The VistA system must be updated when an appointment is cancelled:  
   -  A VAOS initiated cancelled appointment must file in VistA with status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) and VistA Cancel Reason = `UNABLE TO KEEP APPOINTMENT`
   - The original appointment request must be reopened in the VistA system if a VA appointment is cancelled in VAOS.  
  
-**Alerts**  
-- Canceled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the veteran cancelled the appointment.  
-- Canceled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.  
-- A message must display to the veteran if the system fails to cancel the appointment.  
+
+
 
 
 ## Specifications
@@ -55,11 +62,11 @@ Veterans can cancel appointments through VAOS.
 ## Alerts and conditional states
 <!-- Any alerts that could display for this feature and what triggers them. -->
 
-### [Alert description]
+### System fails to cancel appointment
 <!-- Add a new section for each alert -->
 
 **Alert trigger**
-[Description of what causes this alert to display]
+A message must display to the veteran if the system fails to cancel the appointment.  
 
 **Alert UI**
 - [User flow](Add link)

@@ -1,21 +1,22 @@
-# SM Exchange
+# [WIP] SM Exchange
 
 ## Assumptions (Need to be validated and Open to challenged)
 
-- MHV is the source of truth for all Messaging data
+- ✅ MHV is the source of truth for all Messaging data
 - We need to map OH data into our own model to support capabilities that are not supported by OH
 - Between the FHIR APIs and OH SM APIs we have all the data we need
 - The existing MHV SM API (the one used by va.gov today) can be reused for the SM Exchange
 - OH is sending data to an URL via a webhook in an Atom feed format
 - The only reason we are sending data back to OH is so that the message shows up in the OH clinician UI
-- The correct and data is availible through the process (example: we can get the facility information at the correct time)
+- The correct  data is available through the process (example: we can get the facility information at the correct time)
+- The SM Exchange and MHV and OH communicate using RESTful APIs
 
 ## Technical Measures of Success
 
 - The SM Exchange is an isolated system between MHV and OH
 - The Messaging backend (MHV) is fully abstracted away from the SM Exchange
 - The SM Exchange does not have any knowledge or dependency on MHV database structure or the OH database structure
-- The arichecture is scalable, monitorable and resilent 
+- The architecture is scalable, monitorable and resilent 
 
 ## MVP Target
 
@@ -39,27 +40,45 @@
 - Send a message to OH (or a cURL)
 - Send a message from OH to MHV 
 
-### Tech Stack
+### More detailed diagram
 
-- Java 
-- AWS Lambda
-- AWS SQS
-- (maybe) DynamoDB
+![Diagram](./assets/sm%20exchange.v3.drawio.png)
 
-![Diagram](./assets/mvp.drawio.png)
+### Notes
+
+- All communcation between the SM Exchange and MVH are RESTful API Calls
+- All communcation between the SM Exchange and OH are RESTful API Calls
+- Using a Queue to handle the parsing and translation of messages
+  - Since this will be a longer running task, a queue provides a resilient way to handle messages
+  - Keeps the action of recieving a message light and fast
+- Services that need to be mocked 
+  - OH FHIR APIs
+  - OH Messaging API
+  - OH Atom Feed
 
 ## Sequence
 
-### Sending Data
+### MHV to OH 
 
-### Receiving Data
+![Sequence diagram of MHV to OH](./assets/MHV%20to%20OH.v2.svg)
+
+### OH to MHV 
+
+![Sequence diagram of OH to MHV](./assets/OH%20to%20MHV.v2.svg)
 
 ## APIs needed
 
 ### MHV
 
+- TBD
+
 ### Cerner
+
+- OH Messaging API 2.0 docs: https://wiki.cerner.com/pages/releaseview.action?pageId=1962423118
+- Understanding Messaging API Considerations doc: https://wiki.cerner.com/display/public/reference/Understand+Messaging+REST+2.0+Considerations+for+Consumers
+- Info on translating from VA.gov user `CRNR200` id to OH FHIR Patient Identifier: https://dsva.slack.com/archives/CMT4MFPS6/p1701186719575159?thread_ts=1701184169.148299&cid=CMT4MFPS6
 
 ## Unknowns
 
 - How does the OH Atom feed handle a failed push
+

@@ -1,3 +1,11 @@
+---
+name: Benefits management tools user story
+about: Creating user stories for reporting Benefits management tools team
+title: '[Tool] description'
+labels: benefits-management-tools,benefits-team-1
+assignees: ''
+---
+
 ## Value Statement
 **_As a_** user type
 **_I want to_** job to be done

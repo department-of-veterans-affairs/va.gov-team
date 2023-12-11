@@ -7,8 +7,8 @@
 ### Product Team
 - OCTO-DE Product Lead: Patrick Bateman
 - Product Manager: Alex Seelig, Heather Justice
-- FE Engineer: Matt Long
-- BE Engineer: Lihan Li, Chapley Watson
+- FE Engineer: Matt Long, Matt Kerns
+- BE Engineer: Lihan Li, Joshua Drumm, Chapley Watson
 - QA Engineer: Fletcher Bonds
 - Designer: Hieu Vo, David Kennedy
 - Researcher: Jessica Stump, Katelyn Caillouet
@@ -51,7 +51,7 @@
 - [Technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZR%20Form/Engineering) (architecture diagram, sequence diagram)
 - Any [new publicly-exposed endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/Engineering/Endpoints.md)
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
-- [Product guide for contact center](https://docs.google.com/document/d/1ZKmQZYKdBe_4tJoGbERlB7ElRYrDNNO4/edit#heading=h.gjdgxs) - **UPDATE THIS LINK WHEN IN GH**
+- [Product guide for contact center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZR%20Form/Product%20Guide)
 
 </details>
      
@@ -97,15 +97,15 @@
 - [x] **Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67225) - Refer back to the initial Collaboration Cycle Request ticket**
 - [x] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [x] Schedule research sessions with Perigean
-- [ ] Conduct research sessions
-     - [ ] Synthesize research findings
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design
+- [x] Conduct research sessions
+     - [x] Synthesize research findings
+     - [x] Review findings with the team
+     - [x] Make any necessary tickets/changes for design
 - [x] **Create Use Cases**
      - [x] **Identify test users**
 - [x] **Create Release Plan**
-- [ ] **[Engage downstream system team for End-to-End QA coordination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67230)**
-     - [ ] **Create E2E use cases and document results**
+- [x] **[Engage downstream system team for End-to-End QA coordination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67230)**
+     - [x] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
 - [x] **Request [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67224) - Refer back to the initial Collaboration Cycle Request ticket**
 - [x] [Complete QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67228) and [Accessibility QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67229)
@@ -114,7 +114,7 @@
 - [x] **Request [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67227) - Refer back to the initial Collaboration Cycle Request ticket**
      - [x] **Review findings with the team**
      - [x] **Create tickets for work to be completed before launch**
-- [ ] Complete any Design and/or Development work from Usability/UAT sessions
+- [x] Complete any Design and/or Development work from Usability/UAT sessions
 - [x] Update Error matrix documentation with any new error states
 - [x] Update any FE and/or BE Engineering documentation
 - [x] **Request [Privacy, Security, Infrastructure readiness review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67223) - Refer back to the initial Collaboration Cycle Request ticket**

@@ -3,7 +3,7 @@
 
 **Last Updated: 11/3/2023 - Initial Drafting**
 
-`WIP`
+`WIP` not continuing to build out this documentation until we've determined more on phase 1
 
 ## [Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/README.md)
 

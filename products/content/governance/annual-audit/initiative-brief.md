@@ -2,7 +2,7 @@
 
 ## Overview
 
-By law, VA must regularly audit all VA.gov content. The primary requirement of this audit is to make sure that VA.gov content remains timely, accurate, and available to Veterans and other beneficiaries. The Office of the CTO's VA.gov content, accessibility, and information architecture team also uses this opportunity to audit content against current standards to ensure that all content is easy for all Veterans and beneficiaries to find, understand, and use to do the tasks and make the right decisions they need to to fully access and manage their VA benefits.
+By law, VA must regularly audit all VA.gov content. The primary requirement of this audit is to make sure that VA.gov content remains timely, accurate, and available to Veterans and other beneficiaries. The Office of the CTO's VA.gov content, accessibility, and information architecture team also uses this opportunity to audit content against current standards to ensure that all content is easy for all Veterans and beneficiaries to find, understand, and use to do the tasks and make the right decisions to fully access and manage their VA benefits.
 
 ## Products impacted
 

@@ -1,6 +1,6 @@
 # Default Send 
 
-**Updated: 11/7/2023** Launch Dates!
+**Updated: 12/5/2023** Stats
 
 ## Table of Contents
 
@@ -122,10 +122,10 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 ### 1-month results at 100%
 ||Results|
 |---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
+|Number of unique users:|35,717|
+|Any issues with VA handling/processing?| No, 99.79% successful saves |
+|Types of errors logged:| NA |
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| No|
 |If yes, what:||
 
 ## Post-launch Questions 

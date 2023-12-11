@@ -9,6 +9,8 @@
 > - **Status - Claim Received**  
 > What VBMS state results in the status "Claim received" displayed in the CST? Can a claim be "received" before going into initial review?
 
+See a more comprehensive inventory of claim file values and attributes in the [VBMS CST - Value Map](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Manage[…]x?d=w085668ae03b147babde5ca7443a9a506&csf=1&web=1&e=eAZci3) on DSVA Sharepoint (requires remote access).
+
 ### Attributes
 ##### Claim
 - Claim ID

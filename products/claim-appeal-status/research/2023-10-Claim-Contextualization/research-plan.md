@@ -1,4 +1,4 @@
-# Research Plan: Claim Contextualization Concept Testing
+# Research Plan: Claim Contextualization
 
 Benefits Management Tools · October 2023
 
@@ -7,7 +7,10 @@ In [previous research](https://github.com/department-of-veterans-affairs/va.gov-
 
 We have also seen in the same research a dissatisfaction with the current representation of the various "stages" in the claim process. In particular, we've gotten feedback that "Evidence Gathering, Review, and Decision" is not a very helpful description of what's happening with the claim, because it covers such a broad range of steps and activity related to the claim. 
 
-With the [Improved Claim Process Understanding Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md), we set out to "improve veterans' understanding of the claims process in the CST, helping them distinguish their responsibilities from those of the VA, and guide them effectively in evidence submission." In this study, we will test designs created to help meet those goals. 
+The [Improved Claim Process Understanding Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md) highlights a number of Veteran pain points with the current CST experience. With this design and research effort, we aim to address the following: 
+> As a veteran with an open disability claim, my preconceived expectations about the claims process frequently clash with the reality, causing me to become frustrated when the claim stagnates at a particular phase, or unexpectedly reverts to a previous phase.
+
+> As a veteran tracking my open disability claim through the CST, I am mislead by the depicted claims process timeline, which incorrectly suggests a linear process and fails to illustrate the common occurrence of claims cycling between phases. This inaccuracy creates false expectations and compounds the difficulty of waiting for results 
 
 ### OCTO Priorities 
 
@@ -20,7 +23,7 @@ This work supports a Veteran whenever they are filing a disability compensation 
 ## Research Goals
 
 - Assess how well Veterans understand what is happening at each step of the claim adjudication process.
-- Assess whether Veterans understand the steps that are available to them to increase the likelihood of a favorable claim outcome. 
+- Assess whether the new timeline design creates a more accurate mental model for Veterans about how a claim moves through the claim adjudication process.
 
 ### Outcome
 With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful?
@@ -29,12 +32,12 @@ With this research we hope to learn how well our designs solve the comprehension
 
 - How do Veterans react to this content? Do they find it useful?
 - Does this new design set better expectations for how the claim will move between stages? Do Veterans understand why and how the claim might move back and forth between certain stages?
-- After seeing this design, do Veterans understand actions available to them at each step in the process that might help strengthen their claim?
+- After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do feel after seeing this information?
 
 ### Hypotheses
-- The new design will set better expectations about the claim process, demonstrating to Veterans that it is not always linear. 
-- Veterans will feel more informed overall about how the claims process works, and what's going on behind the scenes.
-- Veterans will feel more informed by this information, and will better understand what they might do in order to improve the likelihood of a favorable outcome for their claim.
+- The new Overview tab will provide useful information to the Veterans about what is happening to a claim at each step in the process, which will lead them to feeling more informed and satisfied with the information provided in CST.
+- Veterans will have a clear understanding of what is happening at each step of the process.
+- Veterans will understand that it is normal for claims to go back and forth between steps.
 
 ## Methodology	
 Semi-structured interviews
@@ -43,9 +46,9 @@ Semi-structured interviews
 Remote on Zoom
 
 ### Research materials
-[Conversation guide] TBD
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
 
-[Research prototype] TBD
+[Research prototype] WIP
 	
 ## Recruitment	
 
@@ -62,8 +65,7 @@ The intended audiences is Veterans who at some point filed a disability compensa
 
 20 total participants:
 
-- 10 mobile users
-- 10 desktop users
+- 20 mobile users
 - Race: 5 Black Veterans, 5 Hispanic Veterans, 10 Veterans of any other race
 - 10 women Veterans
 
@@ -93,5 +95,5 @@ Dates TBD
 - Participant recruiting & screening: Perigean
 - Project point of contact: Skyler Schain (skyler@coforma.io)
 - Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	Josh Kim (josh.kim@adhocteam.us)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy(david.kennedy@adhocteam.us)
 - Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)

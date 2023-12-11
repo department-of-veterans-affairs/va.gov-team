@@ -7,6 +7,8 @@
 - *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
 
 **10-15 min before session**: 
+- Slack Perigean notetaker the link to notes doc in github
+
 - *Post p# and "observer instructions" in #feedback-backchannel*
   - *@mention team members*
   - *Share brief summary of participant demographic info*
@@ -20,7 +22,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype:* **TBD and TBD**
+- *Open standalone browser windows with prototypes:*
+  - Smartphone: **https://bit.ly/3RJL5vb** 
+  - Desktop/tablet: **https://bit.ly/3t6rbRt**  
 - *Paste link into Slack so ready to paste into Zoom chat*
 
 - *Do Not Disturb ON so no notifications*
@@ -62,10 +66,8 @@ Before we start, I want to go over a few things:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
-- I'd like to record my screen and audio as we talk today to confirm that we have captured your opinions accurately. I will delete the recording after I complete analysis. We won’t link anything you choose to share in the session to your name or any information that could identify you. **Are you comfortable if I record my screen and audio as we talk today?**
-  
-  - Last thing: One of the ways that we share findings with our partners across VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image and name. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA online resources. These clips will not be shared outside of the VA. We don't know at this point if we will or won't do this, but I'd like to ask ahead of time. I'll also confirm at the end of this session that this is okay with you, so you will get a chance to veto this once you know what we've discussed. 
-  - Knowing this, **would you be comfortable if we decided to use a clip of our session** to help our partners understand Veterans' experiences?
+- We like to record to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+**Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - *(If yes:)* Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *Select Record, then Record to the cloud.*
@@ -163,6 +165,7 @@ Let’s start with a few questions...
 	- Thanks for confirming that.
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
+    - *(If not the expected device, ask to rejoin that way)*
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(RECORD)* 
 
@@ -184,10 +187,13 @@ I would like you to share your screen with me so that I can see what you do duri
 ### Task 1: [Open prototype] 
 I'd like you to look at a web page that I'm going to share with you. 
 
-*Decide which prototype to show--desktop or mobile--based on device that participant is using during this session.*
+*Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
-I will *[dictate/put into the Zoom chat]* the URL: **TBD** (zoom chat) or **bit.ly/TBD** (dictate)
-- *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide a direct link: **TBD**)*
+I will *[dictate/put into the Zoom chat]* the URL: 
+- Smartphone: **https://bit.ly/3RJL5vb** 
+- Desktop/tablet: **https://bit.ly/3t6rbRt**
+- *(Might need to hold tablet horizontally so easier to read)*
+- *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide the full link)*
 
 Did you get the link? 
 
@@ -221,6 +227,8 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
+*(NOTE: if wrong page ever opens, ask p to refresh page)*
+
 
 ### Task 4: [Learn about disability compensation]
 Pretend that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
@@ -233,12 +241,12 @@ Pretend that lately you've been having difficulty with your hearing, and you thi
 ### Task 5: [Find a Form]
 Let's say that you're considering going back to school to get your degree, and you'd like to see if the VA can help you pay for it. How might you apply online?  
 
-*RECORD navigation: header > megamenu > Education and training / **footer > VA forms** / search / **mobile header > search > Find a VA form***
+*RECORD navigation: header > megamenu > Education and training > How to apply / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-- *(If didn't use Find a Form)* Is there another way that you could do this task from this web page?
-- *(If need more prompting)* You're looking for the application to fill out on line.
+- *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
+- *(If need more prompting)* You're looking for the application to fill out online.
 
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
@@ -247,19 +255,9 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-- *(If didn't use footer)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
 
-### Task 7: [Update your contact information with VA]
-You recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this using this web page?  
-
-*RECORD navigation: **header > Sign in** / footer / search / mobile search*
-
-*(After participant clicks "Sign in", ask them to stop there. We just want to ensure that the Auth menu is findable.)*
-
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
-
-
-### Task 8: [Contact VA]
+### Task 7: [Contact VA]
 Say that after using this website for a while, you didn't get all of your questions answered. How might you reach out to someone at the VA? 
 - *(if additional prompting needed)* Is there anything on this page that might help?
 
@@ -267,14 +265,34 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
-### Task 9: [FOIA]
+### Task 8: [FOIA]
  Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
 
-- *(If didn't use footer link)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
 
 *RECORD any feedback about the black/white footer area*
+
+*RECORD: directly / indirectly successful / needed help / unsuccessful*
+
+### Task 9: [Update your contact information with VA]
+Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this using this web page?  
+
+*RECORD navigation: **header > Sign in** / footer / search / mobile search*
+
+- *(IF TIME & if didn't use Sign in)* Is there another way that you could do this task from this web page?
+
+*(If needed, prompt participant to use Login.gov, click to enter info)*
+
+*(See previous page and* My Tools *or* Sign Out *in top right corner)*
+
+*RECORD navigation: 
+- *(desktop) **My Tools > Profile*** 
+- *(mobile) **Menu > My Tools > Profile***
+- *Any feedback about their name as menu (for Auth)*
+
+*(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
 *RECORD: directly / indirectly successful / needed help / unsuccessful*
 
@@ -296,9 +314,9 @@ Say that after using this website for a while, you didn't get all of your questi
 
 ## Thank You and Closing - 3 minutes
 
-I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners. Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA online resources. 
-- **Is it OK if we decide to use a recorded clip from our discussion today to share with other VA partners?** *(yes / no)*
-- *(If participant says yes:)* Is there any part of our discussion that you would NOT want shared in a video clip?
+**Are you still okay if we use any video or audio clips from this session?** 
+- *(yes / no)*
+- *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
 **We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
@@ -320,4 +338,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Amanda Klausmeier (Sitewide UX/UI Lead) on Nov 27, 2023
-- Shane Strassberg (VA Research Ops) on TBD 2023
+- Shane Strassberg (VA Research Ops) on Dec 6, 2023

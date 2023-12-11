@@ -10,8 +10,8 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 
 | Planned Release    | Estimated Release | Short Description |
 | :----------------- | :--------- | :--------------  |
-| [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/travel-terms-of-agreement.md) | ~12/2023 | Veteran will be asked to agree to the travel claims terms of agreement in order to submit a mileage-only travel reimbursement claim during check-in [Epic 68073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)|
-| [Unified Check-in Experience: Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md) | ~1/2024 | New landing page & associated content changes<br>[Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) |
+| [Add Travel Claim Terms of Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/travel-terms-of-agreement.md) | Released 12/7/2023 | Veteran will be asked to agree to the travel claims terms of agreement in order to submit a mileage-only travel reimbursement claim during check-in [Epic 68073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)|
+| [Unified Check-in Experience: Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md) | ~2/2024 | New landing page & associated content changes<br>[Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) |
 | Unified Check-in Experience: Priority 2 | TBD | Minor updates to Details page |
 | Unified Check-in Experience: Priority 3 | TBD | New completion page format & updates to demographics pages |
 | Unified Check-in Experience: Priority 4 | TBD | New message and error page formats |

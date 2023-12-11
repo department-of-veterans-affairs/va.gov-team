@@ -60,7 +60,7 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Working session notes
 
-## 11/30/12
+## 11/30/23
 * [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
    * turns out we do have officially supported OS versions, but they haven't been updated since launch
       * We do NOT have an experience in the app to block or warn users
@@ -69,7 +69,7 @@ The Sprint 0 meeting is a time to do the following:
    * We could use waygates/availability framework to enforce this
    * May need to handle access to medical records separately from supported OS versions since medical records need to be accessible longer. 
 
-## 11/2/12
+## 11/2/23
 * [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md)  (Greta/Therese)
 
 ## 10/19/23

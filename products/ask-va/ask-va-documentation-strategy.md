@@ -1,4 +1,5 @@
 # Ask VA documentation strategy
+Last updated by @beckyphung on 12/11/2023 
 
 This strategy offers guidelines, not hard-and-fast rules, on where Ask VA integration team documentation lives. We aim to align internally on when and where to work and store documents. 
 Our goal is to work in the open as much as possible to foster knowledge transfer across VA, OCTO, and the public. 
@@ -56,7 +57,10 @@ On the other hand, new contractors may not have access to the VA network for mon
 ### Strategy
 For ease of collaboration, **working documents** belong in Google. Working documents need frequent collaboration via comments and edits.
 
-We’ll move Google documents into SharePoint or GitHub once they’re more complete.
+We’ll move Google documents into SharePoint or GitHub once they’re more complete. If a ticket in Zenhub includes a Google doc, we'll add a task to: 
+- keep the doc in Google,
+- move to the doc to SharePoint, or
+- move the doc to GitHub
 
 ### Examples of working documents
 - Meeting notes

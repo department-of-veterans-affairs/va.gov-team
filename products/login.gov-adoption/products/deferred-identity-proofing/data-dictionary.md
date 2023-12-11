@@ -58,7 +58,7 @@ CSPIDs have a prefix, a credential identifier code, that identifies the CSP whic
 
 Note: The credential identifier code identifies the user's credential type versus Credential Service Provider (CSP).  The nuanced distinction is apparent with CAC, which can be used to authenticate on DS Logon or AccessVA. In other words, records with CSPID containing 200DOD don't signify that a DS Logon account exists. Although more 97% of applicable 200DOD records do have DS Logon, as confirmed by the lastUsed field.
 
-In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used to track the methods to authenticate with a CSP.  The IAM export contains the last method used associated with each credential.
+In May 2018, IAM MPI began tracking a “CSP Method” parameter which is used to track the methods to authenticate with a CSP.  The IAM export contains the (first used if multiple are applicable) csp method associated with each credential.
 
 
 <table>

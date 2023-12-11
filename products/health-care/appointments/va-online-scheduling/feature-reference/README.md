@@ -78,7 +78,7 @@ Tools for Veterans to schedule or request appointments.
 | VA request | [Reason for appointment](./schedule-flow/va-request--reason-for-appointment.md) |
 | VA request | [Preferred modality](./schedule-flow/va-request--preferred-modality.md) |
 | VA request | [Confirm contact information](./schedule-flow/va-request--contact-information.md) |
-| VA request | [Review and submit](./va-request--schedule-flow/va-request--review-and-submit.md) |
+| VA request | [Review and submit](./schedule-flow/va-request--review-and-submit.md) |
 | CC request | [Preferred date](./schedule-flow/cc-request--preferred-date.md) |
 | CC request | [Nearest city](./schedule-flow/cc-request--nearest-city.md) |
 | CC request | [Request a provider](./schedule-flow/cc-request--request-a-provider.md) |
