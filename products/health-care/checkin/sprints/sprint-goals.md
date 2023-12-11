@@ -55,7 +55,7 @@ ________________________________________________________________________________
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
     - **Sub Goal: Migrate Sktech Files to Figma**
         - 🟥 [[UX] [Design] Move files to Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71690)
-        - 🟥 [[UX] [Design] Identify what needs to be cleaned up in files](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71691)
+             - 🟥 [[UX] [Design] Identify what needs to be cleaned up in files](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71691)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
        - 🟥 [[UX][Content] AUDIT: Audit production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70673)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
