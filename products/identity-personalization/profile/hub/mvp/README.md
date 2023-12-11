@@ -1,4 +1,4 @@
-# Project outline: Profile hub MVP
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/f6d472cc-0a2b-4c0d-b73b-fcda985c8e00)# Project outline: Profile hub MVP
 
 **Last Updated: September 12, 2023 -- Updated KPIs**
 
@@ -121,8 +121,21 @@ To solve for these problems, we are building a profile hub page, which resolves 
 </details>
    
 ### Before
+<details>
+  <summary>Before Hub Launch </summary>
+  
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/1ef8e7b3-8d71-4f31-8a60-26cb52beb97b)
+
+</details>
+
 
 ### After
+<details>
+  <summary>After Hub Launch </summary>
+Not maintained, see sketch files
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/0c7f3df6-500e-4d2a-b480-ebe52ad36010)
 
-## Frontend
+</details>
+
+
 
