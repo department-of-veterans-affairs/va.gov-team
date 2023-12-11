@@ -13,6 +13,7 @@ ________________________________________________________________________________
      - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
+     - **Sub Goal: Migrate Sktech Files to Figma**
      - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**       
      - **Sub Goal: Switch Components to Design System v. 3**
  
@@ -52,6 +53,8 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71205)
 - **GOAL: Address Tech Debt**
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
+    - **Sub Goal: Migrate Sktech Files to Figma**
+        - 🟥 [Develop a Plan to Transition to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67767)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
        - 🟥 [[UX][Content] AUDIT: Audit production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70673)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
