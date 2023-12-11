@@ -140,7 +140,7 @@ It looks like you’re thinking… did you have something in mind that you’re 
 - [Does the participant have any strong reactions to tasks that are presented to them?]
 
 ## Second Task: Visualize and walkthrough expectations of the In-person experience - 15 minutes
-Thank you for all of your feedback on our application. Now, we’re going to switch gears and discuss what happens next after you’ve gone through the online process to create a case number for in-person identity proofing. I’m going to share my screen now. [Share screen of confirmation email]
+Thank you for all of your feedback on our application. Now, I’m going to ask you to click anywhere on your screen. This will take us to the next page that we will discuss.
 
 
 
