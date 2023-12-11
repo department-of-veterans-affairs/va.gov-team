@@ -21,7 +21,7 @@
 |  New cadence of meetings for 2024 | Waiting till after Mobile team's keep / delete team meeting review | Adam | 
 | New ticket templates for items Mobile team doesn't do a great job remember Feature flag (depending on how implementing & releasing), Maintenance windows, Availability framework, Analytics (metrics, audiences, etc), App-review-triggering action, Updating demo mode |  Ticket idea for the future — there are a number of things we need to think about (and often code, but sometimes it doesn’t apply) for any given epic and we’re not great about remembering them.It’d be great to have them in the template so Product (or anyone else in the feature team) doesn’t need to remember them.  | | |
 | Improve QA sizing | Past convos forced QA to put sizing in the comments. Revisit to see if this is still sufficient | 
-
+| Should QA have a standing meeting with different disciplines | Ability to improve relationships and discuss cross discipline improvements / ideas | | 
 
 
 | Closed items | Resolution | Date |
