@@ -1,5 +1,5 @@
 ## 10-10EZR URLs
-- As of 11/1/2023
+- As of 11/12/2023
 
 ### Here is the list of URLs for the 10-10EZR MVP online, with conditional pages explained:
   - va.gov/my-health/update-benefits-information-form-10-10ezr/introduction
