@@ -6,11 +6,14 @@
 - Main POC: Joshua Faulkner via Slack within our team channel #1010-health-apps
 - [Staging QA test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
 - [MVP End-to-End testing ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70627)
+- Test users must have a Disability rating less than 50%
+     - Joshua Faulkner can update user data in ES
+          - Provide name and test info (last 4 of SSN) to identify test user
 
 ### Test cases
 #### Copay test already exists for previous year (financials already on file)
 - #1 High Income - Financial data submitted when financials exist already (Means test already run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
           - No dependents
@@ -24,7 +27,7 @@
           - Copay test not run, as there was financial data already on record.
 
 - #2 High income - Financial & Insurance data submitted when financials exist already (Means test already run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
           - No dependents
@@ -44,7 +47,7 @@
           - Insurances added to record
 
 - #4 Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
           - No dependents
@@ -63,7 +66,7 @@
           - Insurances removed from record
 
 - #3 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
           - Dependent, add child
@@ -88,7 +91,7 @@
 
 #### Copay test does not exist for previous year (no financials on record)
 - #7 High Income - Spouse removed (divorced/widowed), Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as married, with at least one dependent, insurance exists, and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Divorced or widowed (no support provided)
           - Dependent, add child (same as before)
@@ -109,7 +112,7 @@
           - Insurance is removed from record (unsure about this result)
 
 - #5 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials DO NOT exist (Means test not yet run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
           - Dependent, add same child and a new child
@@ -131,7 +134,7 @@
           - All Insurances are added to record
 
 - #7 High Income - Spouse removed (divorced/widowed), Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as married, with at least one dependent, Insurance exists, and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Divorced or widowed (no support provided)
           - No Dependent
@@ -152,7 +155,7 @@
           - Insurance is removed from record (unsure about this result)
 
 - #5 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
-     - Test user 40
+     - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
           - Dependent, add child
