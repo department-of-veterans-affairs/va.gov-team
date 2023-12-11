@@ -38,7 +38,8 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
-|All other categories|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
+|All other categories|Require Veteran's `Social Security Number or Service Number` in `Chapter 3` if |`What's your question about` = `It's a general question`|
+|All other categories; if question is about the family member|Require family member's `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Date of birth`
 |If|Then|Unless|
@@ -48,6 +49,7 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Date of Birth` in `Chapter 3`|`Relationship to the Veteran` = `Business relationship`|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
 |All other categories|Require Veteran's `Date of Birth` in `Chapter 3`|`What's your question about` = `It's a general question`|
+|All other categories; if question is about the family member|Require family member's `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Branch of service`
 |If|Then|Unless|
