@@ -98,14 +98,14 @@
 - [x] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [x] Schedule research sessions with Perigean
 - [x] Conduct research sessions
-     - [ ] Synthesize research findings
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design
+     - [x] Synthesize research findings
+     - [x] Review findings with the team
+     - [x] Make any necessary tickets/changes for design
 - [x] **Create Use Cases**
      - [x] **Identify test users**
 - [x] **Create Release Plan**
-- [ ] **[Engage downstream system team for End-to-End QA coordination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67230)**
-     - [ ] **Create E2E use cases and document results**
+- [x] **[Engage downstream system team for End-to-End QA coordination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67230)**
+     - [x] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
 - [x] **Request [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67224) - Refer back to the initial Collaboration Cycle Request ticket**
 - [x] [Complete QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67228) and [Accessibility QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67229)
