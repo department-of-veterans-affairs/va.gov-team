@@ -285,12 +285,14 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *(If needed, prompt participant to use Login.gov, click to enter info)*
 
-*(See previous page and* My Tools *or* Sign Out *in top right corner)*
+*(See previous page and* Cameron/Sign Out *in top right corner)*
+
+- *(If p is confused by Cameron)* Pretend that instead of “Cameron”, *your* first name was there.
 
 *RECORD navigation: 
-- *(desktop) **My Tools > Profile*** 
-- *(mobile) **Menu > My Tools > Profile***
-- *Any feedback about their name as menu (for Auth)*
+- *(desktop) **Cameron > Profile*** 
+- *(mobile) **Menu > Cameron > Profile***
+- *Any feedback about name as menu (for Auth)*
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
@@ -307,6 +309,10 @@ Let's say that you recently moved and want to make sure that your mail and benef
     - Can you tell me about the very top of this page? *(USA Government)*
     - Can you talk about what's below that? *(VA seal and dept. name)*
     - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
+
+1. How often do you use VA.gov?
+1. Do you use the VA mobile app? If so, how often?
+
 1. Overall, about everything you've seen in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
