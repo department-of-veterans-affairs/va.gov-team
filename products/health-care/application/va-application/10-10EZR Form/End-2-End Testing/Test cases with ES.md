@@ -46,7 +46,7 @@
           - Copay test not run, as there was financial data already on record.
           - Insurances added to record
 
-- #4 Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
+- #3 Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
@@ -65,7 +65,7 @@
           - Copay test not run, previous test on record
           - Insurances removed from record
 
-- #3 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
+- #4 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
@@ -90,7 +90,7 @@
 ---
 
 #### Copay test does not exist for previous year (no financials on record)
-- #7 High Income - Spouse removed (divorced/widowed), Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- #5 High Income - Spouse removed (divorced/widowed), Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as married, with at least one dependent, insurance exists, and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Divorced or widowed (no support provided)
@@ -111,7 +111,7 @@
           - Dependent is retained on record
           - Insurance is removed from record (unsure about this result)
 
-- #5 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- #6 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
@@ -154,7 +154,7 @@
           - Dependent is removed from record
           - Insurance is removed from record (unsure about this result)
 
-- #5 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- #7 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
