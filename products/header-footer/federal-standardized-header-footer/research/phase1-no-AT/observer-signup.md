@@ -13,10 +13,10 @@ Dec 15, 2023 | 2-3 pm ET | P2 Veteran | OPEN | OPEN | OPEN
 Dec 18, 2023 | 12-1 pm ET | P3 Veteran | OPEN | OPEN | OPEN
 Dec 18, 2023 | 2-3 pm ET | P4 Veteran | OPEN | OPEN | OPEN
 Dec 19, 2023 | 12-1 pm ET | P5 Veteran | OPEN | OPEN | OPEN
-Dec 19, 2023 | 2-3 pm ET | P6 Veteran's family member & caregiver | OPEN | OPEN | OPEN
+Dec 19, 2023 | 2-3 pm ET | P6 Veteran's family member & caregiver | Amanda Klausmeier | OPEN | OPEN
 Dec 19, 2023 | 7-8 pm ET | P7 Veteran, Veteran's family member, & Service member | OPEN | OPEN | OPEN
 Dec 20, 2023 | 12-1 pm ET | P8 Veteran | OPEN | OPEN | OPEN
-Dec 20, 2023 | 2-3 pm ET | P9 Veteran | OPEN | OPEN | OPEN
+Dec 20, 2023 | 2-3 pm ET | P9 Veteran | Amanda Klausmeier | OPEN | OPEN
 Dec 20, 2023 | 7-8 pm ET | P10 Veteran | OPEN | OPEN | OPEN
 Dec 21, 2023 | 2-3 pm ET | P11 Veteran, Veteran's family member, & caregiver | OPEN | OPEN | OPEN
-Dec 21, 2023 | 7-8 pm ET | P12 Veteran | OPEN | OPEN | OPEN
+Dec 21, 2023 | 7-8 pm ET | P12 Veteran | Amanda Klausmeier | OPEN | OPEN
