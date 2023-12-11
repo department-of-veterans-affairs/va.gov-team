@@ -106,6 +106,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - [Focus on the graphic] What do you think this is trying to communicate?
 - [Focus on the "May repeat" message] What do you think this is trying to communicate?
 - Is there any information you're not seeing here that you'd like to see?
+- On a scale of 1-5 how would you rate this page, 1 being least useful and 5 being most useful?
 - What would you expect to happen next with the claim?
 
 ### Things to watch for:
