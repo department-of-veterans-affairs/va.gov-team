@@ -10,6 +10,8 @@ Each role maps to a need or gap currently existing within OCTO. These titles are
 
 These roles could work in either a centralized (CAIA) context or embedded in delivery teams. Each role, though, includes a note suggesting the "reach" that the role should have to be optimally effective.
 
+There are many situations where a specialist may fit into more than one category -- this is expected, but probably shouldn't be optimized for, e.g. we shouldn't assume a unicorn who can fill 3 roles at once is better than having 2 experts who can share those 3 roles.
+
 All of this work is [informed by WCAG's suggestions](https://www.w3.org/WAI/planning/arrm/roles/).
 
 ### Accessibility Product Owner
