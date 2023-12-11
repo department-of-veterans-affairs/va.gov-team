@@ -180,10 +180,11 @@ I am now going to describe what we intend to see happen during the in-person ide
 - Use Login.gov account
 	- What would you use it for?
 	- Is there any other information you would need in order to be able to use your Login.gov account?
+
 Afterward, you would be mailed a letter confirming you elected to verify your identity in person. You only need to reply if you did not elect to verify your identity in person in order to notify Veteran Affairs of fraud. 
-	- What are your thoughts on the letter that is mailed?
-	- What would make this easy or difficult to receive a letter?
-	- If someone were to receive a letter and they did not elect to verify their identity, how might they report this fraud? 
+ - What are your thoughts on the letter that is mailed?
+ - What would make this easy or difficult to receive a letter?
+ - If someone were to receive a letter and they did not elect to verify their identity, how might they report this fraud? 
 
 
 ## Post-Task Interview - 5 minutes
