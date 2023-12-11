@@ -8,7 +8,7 @@ Date: September 12, 2023
 - Amanda Porter | ajohnson@clarityinnovates.com
 - Charlye Tran | charlye@bluetiger.digital
 
-[Research readout (to come)](link here)
+[Research readout]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0b791bb973acc5ac9bc20d19c5b3c6a89fda09d0/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20Use%20Research%20Readout.pdf))
 
 Jump to:
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
