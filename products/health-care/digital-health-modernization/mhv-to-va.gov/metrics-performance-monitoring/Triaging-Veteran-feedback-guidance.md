@@ -20,7 +20,7 @@ A single traffic control officer will be responsible for the initial triage and 
 
 All messages will receive the default response with the traffic control officer sending the following: 
 
-"_Thank you for submitting feedback on My HealtheVet on VA.gov. Your message will be reviewed by our delivery teams for action. Please note a member of our delivery team may follow up with you to gather more information. For support requests please see: https://www.va.gov/contact-us/. 
+"Thank you for submitting feedback on My HealtheVet on VA.gov. Your message will be reviewed by our delivery teams for action. Please note a member of our delivery team may follow up with you to gather more information. For support requests, please see: https://www.va.gov/contact-us/. 
 
 _Sincerely,_ 
 
