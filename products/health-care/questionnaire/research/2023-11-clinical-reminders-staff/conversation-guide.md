@@ -57,7 +57,12 @@ Before we start, I want to mention a couple things:
 - If you could change one thing about setting up [BHL or eScreening], what would it be?
   
 ## Questions for Toxic Exposure Screening (TES) Navigator
-- 
+- What is your role as a TES Navigator?
+- Are you directly involved in the Clinical Reminders Pilot? How so and to what extent?
+- Can you tell us about the training you received for your role as a TES Navigator?
+- As a TES Navigator, what is your workflow, or what do you think your workflow should consist of? Another words, what would be your ideal workflow?
+- Have you received or heard any feedback about the toxic exposure screening from providers or other staff members? And what are Veterans saying about it?
+  
 
 ## Thank-You and Closing - 3 minutes 
 Is there anything else that we haven't talked about that you'd like to share with me?

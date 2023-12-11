@@ -2,7 +2,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME], thank you for sharing your time today.
+Thanks for joining us today! My name is [NAME], and I will be guiding you through this research session.
 
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to that…
 
@@ -23,28 +23,29 @@ What browser are you using today?
 
 If not joined by Zoom already
 
-Do you have Zoom installed?
+- Do you have Zoom installed?
 
 If on Zoom but can’t share screen
 
-If on mobile, you can find instructions for helping participants on iPhone or Android share their screen
+- If on mobile, you can find instructions for helping participants on iPhone or Android share their screen
+
 If assistive tech is being used
 
-Do you have a screen reader on this device?
+- Do you have a screen reader on this device?
 
-What kind of screen reader do you use?
+- What kind of screen reader do you use?
 
-Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+- Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
 
-How long have you been using it?
+- How long have you been using it?
 
-Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low?
+- Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low?
 
-If high, be prepared to have them repeat anything that can't be heard or understood I may need to pause you at times and ask you what you're hearing if I can't make out what's being read.
+	- If high, be prepared to have them repeat anything that can't be heard or understood I may need to pause you at times and ask you what you're hearing if I can't make out what's being read.
 
-Are you using a screen magnifier today?
+- Are you using a screen magnifier today?
 
-Are there any other assistive technologies that you use?
+- Are there any other assistive technologies that you use?
 
 *If the participant has low vision, they may require captions which needs to be turned on in advanced settings
 
@@ -119,17 +120,17 @@ It looks like you’re thinking… did you have something in mind that you’re 
 
 
 Screen 3: Confirm site
-What do you need to do at this step?
-How is what this screen is asking you to do different from the last?
-It looks like you’re thinking… did you have something in mind that you’re not seeing here?
+- What do you need to do at this step?
+- How is what this screen is asking you to do different from the last?
+- It looks like you’re thinking… did you have something in mind that you’re not seeing here?
 
 
 
 Screen 4: Verify in-person
-What did you just do?
-What is the purpose of this screen?
-What do you do after closing out this screen? How do you remember what is shared here?
-It looks like you’re thinking… did you have something in mind that you’re not seeing here?
+- What did you just do?
+- What is the purpose of this screen?
+- What do you do after closing out this screen? How do you remember what is shared here?
+- It looks like you’re thinking… did you have something in mind that you’re not seeing here?
 
 ### Things to watch/listen for:
 
@@ -152,44 +153,46 @@ If no, ask, what would you need to see to know who sent you this email?
 This email is from Login.gov and includes your walk-in appointment details. Please read over this email to yourself and let us know your reactions as you read. In this exercise, we want you to walk us through what you understand your next steps are going to be and also any expectations you have for when you get to the VA medical center.
 
 Follow-up questions:
-What would you do upon receiving this email?
-What information sticks out to you and seems the most important?
-Are there any tasks that you need to complete after receiving this email?
-Do you anticipate any challenges in following up on the tasks in this email?
-What is this email missing that you would need to successfully go to your appointment to complete in-person identity verification?
-When is this information important to receive and review? (Probe for multiple times necessary? E.g., reminders.)
+- What would you do upon receiving this email?
+- What information sticks out to you and seems the most important?
+- Are there any tasks that you need to complete after receiving this email?
+- Do you anticipate any challenges in following up on the tasks in this email?
+- What is this email missing that you would need to successfully go to your appointment to complete in-person identity verification?
+- When is this information important to receive and review? (Probe for multiple times necessary? E.g., reminders.)
 
 ## In-Person Identity Proofing Experience
 I am now going to describe what we intend to see happen during the in-person identity proofing experience in a step-by-step fashion. At each step, I will ask you questions about your thoughts on the intended steps a Veteran needs to take to complete in-person identity proofing. 
 
-Go to the VAMC that you selected in the application
-How would you do that?
-What would make this easy or difficult to go within 10 days?
-Locate the proofing agent. The proofing agent is a specific authorized employee who can help you verify your account in person.
-How would you do that?
-Present your case number to the proofing agent. 
-How would you find your confirmation number? Where would you go if you did not have it written down?
-Present your proofing materials to the proofing agent.
-State issued ID, OR
-VHIC and proof of address
-The proofing agent asks you to sign into VA.gov to complete your proofing. How would you do that?
-How would you describe what you just did to a friend or someone else?
-What questions might you have for the proofing agent?
-Use Login.gov account
-What would you use it for?
-Is there any other information you would need in order to be able to use your Login.gov account?
+- Go to the VAMC that you selected in the application
+	- How would you do that?
+	- What would make this easy or difficult to go within 10 days?
+- Locate the proofing agent. The proofing agent is a specific authorized employee who can help you verify your account in person.
+	- How would you do that?
+- Present your case number to the proofing agent. 
+	- How would you find your confirmation number? Where would you go if you did not have it written down?
+- Present your proofing materials to the proofing agent.
+	- State issued ID, OR
+	- VHIC and proof of address
+- The proofing agent asks you to sign into VA.gov to complete your proofing.
+	- How would you do that?
+- How would you describe what you just did to a friend or someone else?
+- What questions might you have for the proofing agent?
+- Use Login.gov account
+	- What would you use it for?
+	- Is there any other information you would need in order to be able to use your Login.gov account?
+
 Afterward, you would be mailed a letter confirming you elected to verify your identity in person. You only need to reply if you did not elect to verify your identity in person in order to notify Veteran Affairs of fraud. 
-What are your thoughts on the letter that is mailed?
-What would make this easy or difficult to receive a letter?
-If someone were to receive a letter and they did not elect to verify their identity, how might they report this fraud? 
+ - What are your thoughts on the letter that is mailed?
+ - What would make this easy or difficult to receive a letter?
+ - If someone were to receive a letter and they did not elect to verify their identity, how might they report this fraud? 
 
 
 ## Post-Task Interview - 5 minutes
 
-Now knowing how the process goes, how would you describe this process to a fellow Veteran?
-After experiencing this process, could you tell us why or why not you would elect to do in-person proofing? 
-How did you feel about the steps of the verification process that you saw today? Did it meet your expectations? Were there any surprises? Anything missing that you think might make it easier?
-Anything else you'd like the team to know as we continue improving this application?
+- Now knowing how the process goes, how would you describe this process to a fellow Veteran?
+- After experiencing this process, could you tell us why or why not you would elect to do in-person proofing? 
+- How did you feel about the steps of the verification process that you saw today? Did it meet your expectations? Were there any surprises? Anything missing that you think might make it easier?
+- Anything else you'd like the team to know as we continue improving this application?
 ## Thank-You and Closing - 2 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.

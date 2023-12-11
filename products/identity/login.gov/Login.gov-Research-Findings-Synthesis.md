@@ -1,25 +1,18 @@
 # VA.gov Sign-in/ Login.gov Research Findings 
-**Identity Team**<br>
+**Identity Team**
 
-Date: 08/24/2021
-
-[Amanda Porter] [ajohnson@clarityinnovates.com]
-
-[Research Report PDF] (link here)
-
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-research-plan.md).
+- Date: 08/24/2021
+- [Amanda Porter] [ajohnson@clarityinnovates.com]
+- [Research Report PDF] (link here)
+- View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-research-plan.md)
 
 **Jump to:**
-
-[Hypotheses and conclusions](insert link to section)
-
-[Key findings](insert link to section)
-
-[Recommendations](insert link to section)
-
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
+Jump to:
+- [Hypotheses and conclusions](#hypothesis-and-conclusions)
+- [Key findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Further research needed](#further-research-needed)
+- [Who we talked to](#who-we-talked-to)
 
 # Research Goals
 
@@ -145,11 +138,9 @@ _If there are demographics that were not included in this study or you discovere
 
 # Appendix
 
-[Research plan](link here)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-conversation-guide.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
 
 ## Tools used for Synthesis
 
