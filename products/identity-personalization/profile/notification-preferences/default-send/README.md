@@ -1,6 +1,6 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated:** 11/7/23, launch dates and launch stats
+**Last Updated:** 12/5/23, launch dates and launch stats
 
 ### Communications
 
