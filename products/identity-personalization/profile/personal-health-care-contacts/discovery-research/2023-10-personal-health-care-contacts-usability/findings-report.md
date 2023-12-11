@@ -238,6 +238,10 @@ When asked if this information is related to other benefits, participants commen
 ### Enable edit functionality 
 (Supported by finding 5)
 - All 9 participants wanted functionality to edit and add contacts on the page.
+
+### Allow users to add multiple _Emegency_ and _Next of kin_ contacts
+(Supported by finding 7) 
+- 9 of 9 participants wanted at least two (a primary and secondary) _Medical emergency contacts_ and most participants (7 of 9) wanted two _Next of kin_ contacts listed.
   
 ## Next Steps
 - Review with Cartography and Authenticated Experience team and align on recommendations and next steps 
