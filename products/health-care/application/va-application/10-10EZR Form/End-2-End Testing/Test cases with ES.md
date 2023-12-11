@@ -133,7 +133,7 @@
           - New Dependent is added to record
           - All Insurances are added to record
 
-- #7 High Income - Spouse removed (divorced/widowed), Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- #7 High Income - Spouse removed (divorced/widowed), Dependent removed, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as married, with at least one dependent, Insurance exists, and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Divorced or widowed (no support provided)
