@@ -2,7 +2,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME], thank you for sharing your time today.
+Thanks for joining us today! My name is [NAME], and I will be guiding you through this research session.
 
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to that…
 
