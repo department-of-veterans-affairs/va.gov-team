@@ -10,6 +10,17 @@ Each role maps to a need or gap currently existing within OCTO. These titles are
 
 These roles could work in either a centralized (CAIA) context or embedded in delivery teams. Each role, though, includes a note suggesting the "reach" that the role should have to be optimally effective.
 
+All of this work is [informed by WCAG's suggestions](https://www.w3.org/WAI/planning/arrm/roles/).
+
+### Accessibility Product Owner
+
+- Aligns with Client or Product Owner
+- Serves as the primary owner of accessibility and usability for the entire space
+- The accessibility escalation pathway ultimately ends with this person
+- Responsible for maintaining and nurturing the culture of accessibility, able to delegate tasks and ensure that a roadmap is being adhered to
+- Reach, the entire ecosystem
+- Current example, Martha Wilkes
+
 ### Accessibility Strategist
 
 - Aligns with Product Manager
