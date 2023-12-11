@@ -1,4 +1,4 @@
-## 2024 Plan  
+## Q4 2023  Plan  
  - 1 designated QA resource per team in which each person will attend their meetings / riturals and bring relevant info back to home QA team
    - Therese - Global
    - Tom - Health and Benefits
@@ -6,3 +6,6 @@
    - Rachael - Overarching QA person  (design system, API, automation, floating to help other areas)
    - Adam - handle Releasing once Jennifer transitions off
  - Team will revisit this process frequently to see how things are going with this process 
+
+## Q1 2024
+- Believe Q4 2023 plan will continue but will need to revisit based on how all the teams coordinate once all the teams are set-up and maturing 
