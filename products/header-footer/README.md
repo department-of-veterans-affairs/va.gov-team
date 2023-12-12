@@ -112,10 +112,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Team Members
 
  - OCTO Lead: Dave Conlon
- - PM: Wes Rowe
- - Engineering: Ryan Koch
- - Design: Ryan Thurlwell
- - Research: TBD
+ - PM: Fran Cross
+ - Engineering: Randi Mays et al
+ - Design: Jordan Woods and Amanda Klausmeier
+ - Research: Cindy Merrill
 
  
 
