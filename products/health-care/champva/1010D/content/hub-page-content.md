@@ -26,8 +26,10 @@ Covered services include:
 
 
 When you’re signed up for CHAMPVA, you’ll get a copy of the CHAMPVA Program Guide. This guide will tell you more about covered and non-covered services and supplies.
-Download the CHAMPVA Program Guide (PDF) 
-Download fact sheets on CHAMPVA benefits
+
+[Download the CHAMPVA Program Guide (PDF)](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/programguides/CHAMPVA-Guide.pdf) 
+
+[Download fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
 
 
 ### Get more information
