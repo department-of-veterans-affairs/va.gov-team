@@ -167,7 +167,7 @@ Let’s start with a few questions...
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. *(RECORD)* 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
@@ -189,11 +189,12 @@ I'd like you to look at a web page that I'm going to share with you.
 
 *Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
-I will *[dictate/put into the Zoom chat]* the URL: 
+I will *[text/dictate/put into the Zoom chat]* the URL: 
 - Smartphone: **https://bit.ly/3RJL5vb** 
 - Desktop/tablet: **https://bit.ly/3t6rbRt**
+- *(If text)* Could the notetaker please text the link?
+- *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
-- *(If asked, reassure that this is a legitimate link to what I want you to test. Could instead provide the full link)*
 
 Did you get the link? 
 
@@ -226,7 +227,7 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 *RECORD navigation: **desktop header > Find a VA location** / search / **mobile header > search > Find a VA location*** / footer
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 *(NOTE: if wrong page ever opens, ask p to refresh page)*
 
@@ -236,7 +237,7 @@ Pretend that lately you've been having difficulty with your hearing, and you thi
 
 *RECORD navigation: header > **megamenu > Disability > Eligibility** / footer / search / mobile search*
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 
 ### Task 5: [Find a Form]
@@ -244,7 +245,7 @@ Let's say that you're considering going back to school to get your degree, and y
 
 *RECORD navigation: header > megamenu > Education and training > How to apply / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 - *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
 - *(If need more prompting)* You're looking for the application to fill out online.
@@ -254,7 +255,7 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 
 *RECORD navigation: header > megamenu > Careers and employment > Find VA careers and support / **footer > Careers at VA** / search / mobile search*
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 - *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
 
@@ -264,7 +265,7 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD navigation: **header > Contact** or search / **footer > chatbot or AskVA or call** / mobile header > Menu > Contact us*
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 ### Task 8: [FOIA]
  Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
@@ -275,10 +276,10 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD any feedback about the black/white footer area*
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 ### Task 9: [Update your contact information with VA]
-Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. How would you do this using this web page?  
+Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
 
 *RECORD navigation: **header > Sign in** / footer / search / mobile search*
 
@@ -297,7 +298,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
 
-*RECORD: directly / indirectly successful / needed help / unsuccessful*
+*RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 
 ## Post-Task Interview - 7 minutes
