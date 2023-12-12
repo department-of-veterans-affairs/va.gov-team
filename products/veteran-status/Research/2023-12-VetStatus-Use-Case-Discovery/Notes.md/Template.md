@@ -3,7 +3,7 @@
 -	Indicate in bold when moderator speaks. 
 -	Give initials M for moderator and P for participant.
 -	Note the time of the interview
--	Title the notes using the following format: 2023-07-P(#)-device-gender-age.md
+-	Title the notes using the following format: 2023-12-time-P(#)-device-gender-age.md
 -	Indicate in (_italics_) when you’re describing a behavior. E.g., “umm, I think I should do this (_clicks on sign in button_).” 
 
 ## Current VA benefits usage
