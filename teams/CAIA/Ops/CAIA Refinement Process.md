@@ -8,8 +8,8 @@
   - [Refinement Frequency](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#refinement-frequency)
   - [Who participates in refinement?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#who-participates-in-refinement)
 - [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#process)
-- Order of Operations 
-- Item 3
+- [Order of Operations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#order-of-operations) 
+
 
 ## Overview
 
