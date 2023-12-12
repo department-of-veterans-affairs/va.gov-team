@@ -49,7 +49,7 @@
 ---
 
 #### Copay test does not exist for previous year (no financials on record)
-- [ ] #6 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- [ ] #4 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
@@ -70,9 +70,9 @@
           - Spouse is added to record
           - Dependent is added to record
           - Medicare added to record
-          - Private Insurance is retained (previously existing)
+          - Private Insurance is added/retained (if previously existing)
 
-- [x] #8 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- [x] #5 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
@@ -92,4 +92,4 @@
           - Copay test is run, as there was no financial data on record.
           - Spouse is added to record
           - Dependent is added to record
-          - Insurance information is retained on record (previously existing)
+          - Insurance information is added/retained on record (if previously existing)
