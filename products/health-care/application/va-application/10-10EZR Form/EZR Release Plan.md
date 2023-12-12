@@ -48,15 +48,12 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN]: 
-  - [FILL_IN]: 
-  - [FILL_IN]: 
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: 10 Participants
+- Number of bugs identified / fixed: 2 bugs found, related to Forms Library. Will address in future iteration.
+  - [#70261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70261)
+  - [#70258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70258) 
+- Was any downstream service affected by the change?: NO
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? NO
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
