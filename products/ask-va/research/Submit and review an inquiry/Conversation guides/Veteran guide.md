@@ -2,7 +2,7 @@
 
 Ask VA Integration Team
 
-Last updated by @tygindraux: October 2, 2023
+Last updated by @tygindraux: December 12, 2023
 
 ## Moderator logistics
 
@@ -32,7 +32,7 @@ Last updated by @tygindraux: October 2, 2023
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is `TYLER or BECKY`, I’m a researcher from the VA.
+Thanks for joining us today! My name is `TYLER`, I’m a researcher from the VA.
 
 I work on improving VA.gov so it's easier for Veterans to contact the VA online if they have a question.
 
