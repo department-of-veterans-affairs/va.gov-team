@@ -12,17 +12,18 @@
 
 ### Test cases
 #### Copay test already exists for previous year (financials already on file)
-- [x] #1 High Income - No Financial data submitted, Insurance information submitted (financials exist already - Means test already run for previous year)
+- [x] #1 NO Income - No Financial data submitted, Insurance information submitted (financials exist already - Means test already run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
-          - Not married
-          - No dependents
+          - Spouse pages skipped
+          - Dependents pages skipped
           - Income/Deductibles pages skipped
           - Medicaid - Yes
           - Medicare - Yes, Eff date and 11 digit claim number M1234567890 added
           - Insurance Policy entered - A987654
      - Expected Results:
           - Rx test and Copay test not run, previous test on record
+          - Insurance info added/updated
 
 - [x] NOT APPLICABLE #2 High income - Financial & Insurance data submitted when financials exist already (Means test already run for previous year)
      - Test users 11, 40, 228
@@ -99,19 +100,6 @@
           - Rx test and Copay test not run, previous test on record
           - Insurances removed from record (if previously existing)
 
-- [ ] #4 NO Income - Add Spouse, Dependent, & Insurance data submitted when financials already exist (Means test already run for previous year)
-     - Test users 11, 40, 228
-          - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
-          - Married, add spouse
-          - Dependent, add child
-          - Medicaid - Yes
-          - Medicare - Yes, Eff date and 11 digit claim number M1234567890 added
-          - Insurance Policy entered - A987654
-     - Expected Results:
-          - Rx test and Copay test not run, previous test on record
-          - Spouse is added to record
-          - Dependent is added to record
-          - All Insurances are retained on record
 ---
 
 #### Copay test does not exist for previous year (no financials on record)
