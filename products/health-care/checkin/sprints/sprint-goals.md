@@ -22,7 +22,6 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**     
-    - ❗ 🟦 [[CHIP] - CHIP security scan issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71271)
     - ❗ 🟦 [[BE] - Encrypt and log phone numbers for BTSSS error responses](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71509)
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
@@ -91,6 +90,7 @@ ________________________________________________________________________________
     - [[BE] platform support and vets-api recloning issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71380)
         - Added towards end of sprint
     - ✔️ ❗ 🟦 [LoROTA Security Issue]()
+    - ✔️ ❗ 🟦 [[CHIP] - CHIP security scan issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71271)
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ✔️ ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**
