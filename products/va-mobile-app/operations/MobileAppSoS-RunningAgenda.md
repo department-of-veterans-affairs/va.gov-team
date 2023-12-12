@@ -19,8 +19,6 @@
 * **Q4 Projects in Progress**
   * Look at [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
   * Work is listed in PO's priority order based on SoS Sprint Tab 
-  * Current Sprint
-    * Sprint 
    
 * **Project Status Updates**
   * Review yellow projects
@@ -29,7 +27,6 @@
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
   * Any priority shifts or other updates?
-
 
 * **Sprint Planning**
    * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
