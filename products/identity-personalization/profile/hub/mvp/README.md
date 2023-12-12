@@ -124,7 +124,6 @@ To solve for these problems, we are building a profile hub page, which resolves 
 <details>
   <summary>Before Hub Launch </summary>
   
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/1ef8e7b3-8d71-4f31-8a60-26cb52beb97b)
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/f6d472cc-0a2b-4c0d-b73b-fcda985c8e00)
 
 </details>
@@ -133,7 +132,9 @@ To solve for these problems, we are building a profile hub page, which resolves 
 ### After
 <details>
   <summary>After Hub Launch </summary>
+  
 Not maintained, see sketch files
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/0c7f3df6-500e-4d2a-b480-ebe52ad36010)
 
 </details>
