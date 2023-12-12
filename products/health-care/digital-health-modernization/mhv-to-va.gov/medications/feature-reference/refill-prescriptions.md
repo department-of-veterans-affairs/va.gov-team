@@ -14,7 +14,7 @@ Ability to refill prescriptions
 ### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review a summary list of their [upcoming appointments](./appointment-lists/upcoming-list.md).
+- User can review a list of their prescriptions .
 - User can start the process for scheduling an appointment online.
   - `Start scheduling` leads to the [Choose type of care page](./schedule-flow/all--type-of-care.md)
 - User can navigate to their [past appointments](./appointment-lists/past-list.md).
