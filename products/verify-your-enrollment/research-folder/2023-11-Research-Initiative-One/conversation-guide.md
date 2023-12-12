@@ -3,12 +3,7 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Ensure prototype is in working order - links to prototype, in-prototype links
 
 
 ### Day of the session
@@ -30,15 +25,15 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Ryan Gray and Ilyas Iman is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about the Verify Your Enrollment tool that the VA uses to help Veterans manage their GI Bill Enrollments.
 
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -63,49 +58,97 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+**About you**
+1. Do you currently receive education benefits under the GI Bill or will you be eligible in the future?
+   - If yes: under which program do you receive them (Montgomery GI Bill, Post-9/11 GI Bill)
+   - If no: skip to next question.
+2. Do you have a service-connected disability at VA?
+   - If yes: what is your disability rating?
+   - If no, skip to next question.
 
-## First Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+**About how you use the VA website**
+1. Do you have a disability that interferes with your ability to use websites, like a vision impairment?
+2. How often do you use the VA website?
+3. What are the primary reasons you use the VA website?
+4. How easy or difficult do you find it to accomplish your primary reasons for visiting the site?
+
+
+**About your education benefits**
+If currently receiving benefits:
+1. Do you verify your enrollment through the website?
+2. Have you ever had any problems verifying your enrollment, like enrollment information being incorrect?
+3. Are you aware of any other methods for verifying your enrollment?
+4. Would you prefer to verify your enrollment over the phone through an automated system?
+5. If available, would you like to verify your enrollment via text message?
+
+If not yet receiving education benefits: 
+1. 
+
+**Ask participant to share screen**
+1. Explain process for sharing in Zoom
+2. Verify we can see the screen
+
+## First Task: Navigate to VYE - 3 minutes
+1. If currently utilizing GI Bill benefits, how do you normally get to the website to verify your enrollment? If not, go to next task.
+2. Open VA.gov in your browser
+3. Show us how you would find the place you would expect to verify your school enrollment? 
 
 ### Things to watch for:
+- Does the participant mention email messages from the VA? 
+- Does the participant immediately jump to the search box or try to navigate through site menus? 
+- Does the participant log in and navigate through authenticated sections?
+- If so, is the participant aware that they may be sharing personal information on their screen, and are they okay with that?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+## Second Task: Open the prototype - 2 minutes
+- You should have received a link to the prototype site we would like to you to view. If not, we have just posted the link in the Zoom chat, as well.
+- Please open the prototype in your browser by clicking the link
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Third Task: Enrollment periods to verify - 1 minute
+- Do you have any enrollment periods to verify?
+- How would you verify it? 
 
 ### Things to watch for:
+- Does the participant understand the purpose of verifying their enrollment?
+- Does the participant notice the alert section at the top of the screen with the current periods needing enrollment verification?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## Fourth Task: Error in enrollment information - 2 minutes
+- You notice there is an error in your enrollment information. What would you do? 
 
-## Post-Task Interview - X minutes
+### Things to watch for:
+- Does the participant notice the error prompt?
 
-- Question 1
-- Question 2
+## Fifth Task: Verify enrollment - 1 minutes
+- Go ahead and try to verify your enrollment and let me know if you're successful
+- When do you expect your money to be deposited? 
+
+### Things to watch for:
+- Does the participant notice the success message?
+
+## Sixth Task: Update Direct Deposit - 2 minutes
+- You have changed banks and need to update your direct deposit information so payment gets to your new account. How would you do this? 
+
+### Things to watch for:
+- Does the participant understand that the Benefits profile link is the correct place to update the information?
+- Does the participant try to go to the global VA profile to do so?   
+
+## Seventh Task: Verify past payment amount - 2 minutes
+- You have a question about how much was deposited for the month of February 2022.
+- Can you find out how much was deposited to your account?  
+
+### Things to watch for:
+- Does the participant understand that the history continues via the pagination links?
+
+## Eighth Task: Remaining benefits - 2 minutes
+- You have a question about your remaining benefits and when they expire. How would you find the answer?
+
+### Things to watch for:
+- Does the participant expect to find this with his verification history or in the profile?
+
+## Post-Task Interview - 2 minutes
+- Are there any other questions about your enrollment verifications that you have?
+- Would you come back to the website to see status updates on your pending payments or would you feel satisfied with the timeframe for payment you noticed today? 
+- Anything else you would like to share, even if unrelated to what you've seen today?
 - Any questions for me? 
 
 ## Consent to use video clips
@@ -114,7 +157,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -131,3 +174,4 @@ Thank you so much again, and enjoy the rest of your day!
 ## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
 - [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+
