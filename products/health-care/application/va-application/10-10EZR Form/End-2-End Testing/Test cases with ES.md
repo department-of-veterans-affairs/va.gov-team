@@ -131,8 +131,8 @@
           - Dependent, add same child and a new child
           - Gross Income $15,000
           - Net Farm/business income $15,000
-          - Other income $4,000
-          - Spouse income $26,000
+          - Other income $5,000
+          - Spouse income $25,000
           - Medical deductible $1,000
           - College deductible $1,500
           - Funeral/burial deductible $2,000
