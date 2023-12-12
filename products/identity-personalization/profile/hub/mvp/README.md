@@ -86,6 +86,17 @@ To solve for these problems, we are building a profile hub page, which resolves 
 |dd214|||||||
 |direct deposit|||||||
 
+## AE Sandbox 
+Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
+
+<details>
+  <summary>example screen grab of the board</summary>
+not maintained 
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/63d4760b-3136-4f84-bc33-ef7624df91ea)
+
+
+</details>
 
 ## Key deliverables
 
