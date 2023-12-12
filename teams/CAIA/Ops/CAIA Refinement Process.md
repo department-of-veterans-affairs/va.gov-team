@@ -8,7 +8,7 @@
   - [Refinement Frequency](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#refinement-frequency)
   - [Who participates in refinement?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#who-participates-in-refinement)
 - [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#process)
-- Item 2
+- Order of Operations 
 - Item 3
 
 ## Overview
@@ -43,7 +43,27 @@ The following roles particiapte in CAIA Ops refinement
 ## Process
 
 ### Order of operations
+Using Github Project, navigate to the [main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1)
+The default view for this is newest items are at the top.
 
-## First Pass
+1. Run through the "New Stuff" column first.
+    - Assign estimate, priority, and last checked fields. OCTO will help determine priority level.
+    - Add comments to help signify action taken or decision made.
+    - Update "Last checked" field with today's date.
+
+3. Run through Blocked column starting with items items with the oldest "last checked" date.
+    - Determine if item is still blocked.
+    - Determine if priority level has changed.
+    - Update estimate if applicable.
+    - Update "Last checked" field with today's date.
+    - Add comments to help signify action taken or decision made.
+
+4. Run through Backlog column starting with items items with the oldest "last checked" date.
+    - Determine if item is still blocked.
+    - Determine if priority level has changed.
+    - Update estimate if applicable.
+    - Update "Last checked" field with today's date.
+    - Add comments to help signify action taken or decision made.
+
 
 
