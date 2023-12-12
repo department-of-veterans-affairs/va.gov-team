@@ -1,35 +1,29 @@
 # Initiative: Content Type Notifications for Aging Content
 
 ## Overview
-
+Full-width banners in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement date limits and notifications based on those limits.
 
 ## Problem Statement
-
-
-
+How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial default timeframe (probably 7 days), that can then be extended.
 
 ## Desired User Outcomes
-
-
+Veterans, their caregivers and other users of VA.gov will see only current information helpful to them.
 
 ## Undesired User Outcomes
+Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
 
 ## Desired Business Outcomes
-
+Editors are automatically notified when full-width banners they’ve published are expiring, and they are prompted to extend, or remove and update, with fresh content.
 
 ## Undesired Business Outcomes
+Editors ignore the notification emails, and their content is not refreshed (and when the future auto-archive initiative is implemented, their content no longer displays).
 
-- Veteran frustration
-
----
 ## Measuring Success
-
-
+90% of full-width banners are updated due to editors receiving notification emails, ensuring the content doesn’t become stale, or in the case where the banner is for an event or is timeboxed, is replaced at the end of the event end date.
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+* KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
+* 
 * _**Limit 5-6 KPIs per product**__
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
@@ -38,7 +32,9 @@
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+Baseline Values consist of a list of current Full-width banners in PROD, and then follow-up for the MVP will be confirming editors received notifications, and manually checking to see if they updated their content.
+
+For this particular implementation, there isn’t a way to obtain metrics from GA
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
@@ -47,25 +43,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: 
   - Key result: 
 
-
 ---
 
 ## Assumptions
 
 ## Solution Approach
-
-- *What are you going to build now, and why have you decided to start there?*
-
-
-- *Why this solution / approach over other solutions / approaches?*
-  
-
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- We are building an An MVP will be built that extends the current notification functionality, which will enable the future iterations of auto-archiving full-width banners, as well as implementing notifications for content blocks.
+- We decided to start with full-width banners because there is already a notification framework developers may be able to leverage, and even if they can’t and need to build from scratch, it will be the smallest lift necessary in order to deploy something usable and meaningful.
+ - We have explicitly decided not to include notifications for content blocks, or auto-archiving, because it would be too large a lift. We’re starting with an MVP so we can implement and release a minimum viable product, get feedback, and then continue with the other iterations.
+- The solution will evolve to auto-archiving content, and then extending all functionality to content blocks.
  
-
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
- 
-
 ### How we are approaching the solution
 
 
