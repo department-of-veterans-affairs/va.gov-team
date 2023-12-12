@@ -49,10 +49,10 @@ How might we provide an online experience where the Veteran can quickly and easi
 
 | Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Paper Submissions |TBD |TBD | TBD |TBD |
-|Online Submissions |NEW |TBD | TBD |TBD |
-|Submission Failures |NEW |TBD | TBD |TBD |
-|Veteran Validation errors |NEW |TBD | TBD |TBD |
+|Paper Submissions |15,000 |4,000 (25%) | TBD |TBD |
+|Online Submissions |NEW |11,000 (75%) | TBD |TBD |
+|Submission Failures |NEW |None | TBD |TBD |
+|Veteran Validation errors |NEW |None | TBD |TBD |
 
 
 #### **Key Result #2:** Capture 75% of form submissions in a single session
@@ -63,14 +63,14 @@ How might we provide an online experience where the Veteran can quickly and easi
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Single-session submissions |NEW |75% of submitted forms | TBD |TBD |
+|Single-session submissions |NEW |75% of submitted forms (8,250)| TBD |TBD |
 
 
 #### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|EZR PDF Downloads |avg 10,400 monthly |3,000 monthly | TBD |TBD |
+|EZR PDF Downloads |avg 10,400 monthly |2,600 monthly (25%) | TBD |TBD |
 
 
 ---
