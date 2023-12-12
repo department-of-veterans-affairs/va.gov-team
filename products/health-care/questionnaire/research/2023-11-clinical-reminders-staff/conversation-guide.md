@@ -60,7 +60,7 @@ Before we start, I want to mention a couple things:
 
 ### Involvement with Clinical Reminders Pilot - 3 minutes
 - Are you directly involved in the Clinical Reminders Pilot? How so and to what extent?
-- Were you trained on the escreening or BHL tool? [*Note to moderator-if Yes, move on to "Learning the tool" and "Configurating the tool" sections; if participant answers No, move on to next question]
+- Were you trained on the escreening or BHL tool? [*Note to moderator-if Yes, move on to "Learning the tool" and "Configurating the tool" sections; if participant answers No, move on to next question.]
 - As a TES Navigator, what training did you receive on evaluating the clinical reminders.
 - Have you received or heard any feedback about the toxic exposure screening from providers or other VA staff? And what are Veterans saying about it?
 
