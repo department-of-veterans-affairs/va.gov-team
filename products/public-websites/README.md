@@ -404,6 +404,8 @@ Public Websites team:
 * ES: https://www.va.gov/health-care/how-to-apply-esp/
 * EN: https://www.va.gov/health-care/after-you-apply/
 * ES: https://www.va.gov/health-care/after-you-apply-esp/
+* EN: https://www.va.gov/health-care/eligibility/
+* ES: https://www.va.gov/health-care/eligibility-esp/
 * EN: https://www.va.gov/disability/eligibility/
 * ES: https://www.va.gov/disability/eligibility-esp/
 * EN: https://www.va.gov/disability/how-to-file-claim/
