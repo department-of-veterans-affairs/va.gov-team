@@ -104,13 +104,16 @@ not maintained
 
 - [Project epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)
 - [Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2023-10-profile-hub-usability) 
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/hubReleasePlan.md)
 
 ## Key dates
 
 - July 2023: Initial discussions; project kickoff
 - August 2023: Design and design intent review
 - September 2023: Build
+- October 2023: Usability Testing
+- November 2023: Build corrections
+- December 2023: Launch
 
 ## Design
 <details>
