@@ -1,6 +1,6 @@
 # The CMS Design System
 
-The CMS Design System can be found in [Figma](https://www.figma.com/file/ScABI31f3MRFEvQ8WitVPa/CMS-Design-System?node-id=0%3A1&t=AXPUlwFGV2OXQAEF-0). The CMS Team launched the CMS Design System in Q1 2022 in correlation with the Drupal Claro theme upgrade.  
+The CMS Design System can be found in [Figma](https://www.figma.com/file/LAlrfgqFJgCV9EIq7eyDcw/CMS-Design-System?type=design&node-id=530-442&mode=design). The CMS Team launched the CMS Design System in Q1 2022 in correlation with the Drupal Claro theme upgrade.  
 
 ## Problem statement
 
@@ -51,7 +51,7 @@ As a VFS Product Owner / VFS Product Designer,
 [The CMS Design System](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4000)
 
 ## Artifacts
-- [CMS Design System](https://www.figma.com/file/ScABI31f3MRFEvQ8WitVPa/CMS-Design-System?node-id=0%3A1&t=AXPUlwFGV2OXQAEF-0)
+- [CMS Design System](https://www.figma.com/file/LAlrfgqFJgCV9EIq7eyDcw/CMS-Design-System?type=design&node-id=530-442&mode=design)
 - [WIP CMS Design System Documentation](https://airtable.com/appZqEm8Tf9zMA48P/tbl3VIAwBfAUQpQqo/viwH5MHLkdthLeu2H?blocks=hide)
 - [CMS DS Component / Pattern inventory](https://airtable.com/appKn8xeWg0SkIphM/tblSKI3lIgLugkSy3/viwzzO2oEyrXeevnK?blocks=hide)
 
