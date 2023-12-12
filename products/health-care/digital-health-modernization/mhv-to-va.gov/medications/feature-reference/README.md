@@ -1,5 +1,5 @@
 
-# Appointments Feature Reference
+# Medications Feature Reference
 
 ## Overview
 
