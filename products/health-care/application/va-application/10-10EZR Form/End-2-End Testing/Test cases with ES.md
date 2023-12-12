@@ -12,7 +12,7 @@
 
 ### Test cases
 #### Copay test already exists for previous year (financials already on file)
-- [ ] #1 High Income - Financial data submitted when financials exist already (Means test already run for previous year)
+- [x] #1 High Income - Financial data submitted when financials exist already (Means test already run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
@@ -26,7 +26,7 @@
           - Rx test run but no change, test user is over the income limit for Rx concessions.
           - Copay test not run, as there was financial data already on record.
 
-- [ ] #2 High income - Financial & Insurance data submitted when financials exist already (Means test already run for previous year)
+- [x] #2 High income - Financial & Insurance data submitted when financials exist already (Means test already run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
@@ -154,7 +154,7 @@
           - Dependent is removed from record
           - Insurance is removed from record (unsure about this result)
 
-- [ ] #8 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
+- [x] #8 Low Income - Spouse, Dependent, & Financial data submitted when financials DO NOT exist (Means test not yet run for previous year)
      - Test users 11, 12, 15, 38, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data has been removed from ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
