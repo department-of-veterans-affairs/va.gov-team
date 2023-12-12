@@ -24,7 +24,7 @@
      - Expected Results:
           - Rx test and Copay test not run, previous test on record
 
-- [x] #2 High income - Financial & Insurance data submitted when financials exist already (Means test already run for previous year)
+- [x] NOT APPLICABLE #2 High income - Financial & Insurance data submitted when financials exist already (Means test already run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
@@ -40,9 +40,9 @@
           - Insurance Policy entered - A987654
      - Expected Results:
           - Rx test and Copay test not run, previous test on record
-          - Insurances added to record
+          - Insurances added to record~
 
-- [ ] #3 Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
+- [ ] #3 NOT APPLICABLE Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
@@ -60,7 +60,7 @@
           - Rx test and Copay test not run, previous test on record
           - Insurances removed from record
 
-- [ ] #4 High Income - Spouse, Dependent, Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
+- [ ] #4 NOT APPLICABLE High Income - Spouse, Dependent, Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Married, add spouse
@@ -81,7 +81,7 @@
           - Dependent is added to record
           - All Insurances are retained on record
 
-- [ ] #3 Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
+- [ ] NOT APPLICABLE #3 Low Income - Financial & Insurance data submitted when financials already exist (Means test already run for previous year)
      - Test users 11, 40, 228
           - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
           - Not married
@@ -98,6 +98,20 @@
      - Expected Results:
           - Rx test and Copay test not run, previous test on record
           - Insurances removed from record (if previously existing)
+
+- [ ] #4 NO Income - Add Spouse, Dependent, & Insurance data submitted when financials already exist (Means test already run for previous year)
+     - Test users 11, 40, 228
+          - Ensure user is showing as not married, no dependents and all financial data is existing in ES (Coordinate with Joshua Faulkner)
+          - Married, add spouse
+          - Dependent, add child
+          - Medicaid - Yes
+          - Medicare - Yes, Eff date and 11 digit claim number M1234567890 added
+          - Insurance Policy entered - A987654
+     - Expected Results:
+          - Rx test and Copay test not run, previous test on record
+          - Spouse is added to record
+          - Dependent is added to record
+          - All Insurances are retained on record
 ---
 
 #### Copay test does not exist for previous year (no financials on record)
