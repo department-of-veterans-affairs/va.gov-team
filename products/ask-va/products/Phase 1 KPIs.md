@@ -1,4 +1,5 @@
 # How do we know that Phase 1 - Front End Portal Redesign for AVA has been successful?
+Last updated by @beckyphung on December 12, 2023
 
 **Acceptance Criteria for the Product:** 
 - [This scope is achieved](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/edit?usp=drive_open&ouid=101501728404306985792).
