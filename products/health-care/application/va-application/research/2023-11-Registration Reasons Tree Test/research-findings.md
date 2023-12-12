@@ -326,10 +326,10 @@ _Put together initial recommendations here based on your findings along with sup
     * This process could look like a simple registration step, checking eligibility then determining enrollment. 
 
 
-* Veteran health service needs for entrances into "registering"
+* Veteran health service needs as entrances into "registering"
     * Allow for more links to sign up for health care from the perspective of the Veteran - what care or health service are they seeking to sign up for.
-    * Make sure to allow for a simplified path where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
-
+    * The locations hub and health care servicers could be an area to recommend link to health care "registration"
+    * Make sure to allow for a simplified path online where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
 
 
 * More visibility into health services that are personalized based on eligibility
@@ -341,8 +341,10 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Next Steps
 
-* Test prototype flow where registration is a step in the process.
+* Workshops to use research findings from this and a past study, along with desk and SME research, to draft a visual to represent the various health care benefits sign up process holistically 
 
+* Determine if it makes sense to test a prototype flow where registration is a step in the process.
+* 
 
 ## Further research needed
 
