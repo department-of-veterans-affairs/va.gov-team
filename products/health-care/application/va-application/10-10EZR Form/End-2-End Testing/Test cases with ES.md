@@ -61,7 +61,7 @@
           - Medical deductible $1,000
           - College deductible $1,500
           - Funeral/burial deductible $2,000
-          - Medicaid - NO
+          - Medicaid - Yes
           - Medicare - Yes, Eff date 11/1/2020 and 11 digit claim number M1234567890 added
           - Insurance - No
      - Expected Results:
@@ -86,7 +86,7 @@
           - Funeral/burial deductible $0
           - Medicaid - No
           - Medicare - No
-          - Insurance Policy - No
+          - Insurance Policy entered - A987654
      - Expected Results:
           - Rx test run is updated, test user is under the income limit for Rx concessions.
           - Copay test is run, as there was no financial data on record.
