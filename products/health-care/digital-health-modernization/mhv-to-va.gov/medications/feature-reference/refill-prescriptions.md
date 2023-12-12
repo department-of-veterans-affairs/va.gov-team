@@ -1,13 +1,11 @@
-# Appointments home page
+# Refill prescriptions feature
 
 ## Overview
-Starting page to schedule or manage appointments.
 
+Ability to refill prescriptions
 ## User stories
 
-- As a Veteran, I want a starting point for my appointment scheduling and management tasks.
-- As a Veteran, I want to be able to schedule appointments online.
-- As a Veteran, I want to be able to find my upcoming, past, and pending appointments.
+- As a Veteran, I want to be able to refill eligible VA prescriptions 
 
 ## Requirements
 
