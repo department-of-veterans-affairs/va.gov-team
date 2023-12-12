@@ -22,7 +22,10 @@
    
 * **Project Status Updates**
   * Review yellow projects
-  * Any PO questions on existing projects? 
+  * Any PO questions on existing projects?
+    *  Availability Framework
+    *  Home Screen
+    *  Monthly data interpretation
 
 * **Standing question for the POs**
   * Any new work we should be on the lookout for?
