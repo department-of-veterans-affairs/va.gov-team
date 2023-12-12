@@ -86,7 +86,7 @@ Before we start, I want to go over a few things:
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share *(on phone, may need to scroll sideways)* or Share Screen *(on computer, button is green).*
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share *(on phone, may need to scroll sideways or click **More...**)* or Share Screen *(on computer, button is green).*
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
@@ -207,6 +207,7 @@ I would like you to take some time to look over this web page from top to bottom
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 *RECORD everything they say, especially anything +/-/neutral about...*
+- life insurance
 - USA at top of page 
 - USA in footer 
 - VA seal in header
