@@ -23,9 +23,9 @@ It is important to revisit items in blocked and backlog to ensure items do not g
 
 Refinement is an essential part of the effective management and prioritization of work and allows for awareness and planning of new tickets as they  enter the CAIA pipeline.
 The primary outcomes of CAIA Ops Refinement can be summarized as:
-- Reviewing all new intake requests in "New Stuff" column
-- Simplification of user stories/ticket requirements ensuring we are working on the highest-priority tasks during each sprint
-- Filling out ticket custom fields with relevant data
+- Reviewing all new intake requests in "New Stuff" column.
+- Simplification of user stories/ticket requirements ensuring we are working on the highest-priority tasks during each sprint.
+- Filling out ticket custom fields with relevant data.
 - Refined intake tickets should be:
   - clear enough, so they understand what VFS teams or stakeholders are asking for and why they are asking for it.
   - Small enough, so the items should be small enough to get done within a sprint or to comply with the definition of done.
@@ -34,11 +34,11 @@ The primary outcomes of CAIA Ops Refinement can be summarized as:
 CAIA Ops Refinement is carried out every Monday at 3PM ET.
 
 ### Who participates in refinement?
-The following roles particiapte in CAIA Ops refinement
-- CAIA Project Manager
-- CAIA Scrum Master/Product Manager
-- CAIA Discipline Leads
-- OCTO Discipline Leads
+The following roles particiapte in CAIA Ops refinement.
+- CAIA Project Manager.
+- CAIA Scrum Master/Product Manager.
+- CAIA Discipline Leads.
+- OCTO Discipline Leads.
 
 ## Process
 There are 3 key objectives for refinement:
@@ -73,11 +73,13 @@ The default view for this is newest items are at the top.
 
 ### Priority levels
 
-1. Urgent - should be started immediately
-2. High - Should be started ASAP
-3. Medium - Not quite high but above normal
-4. Normal - Default for all new items
-5. `rgb(251, 239, 255)` Chipper - An item that is not high priority that can be worked on as time allows
-6. Low - Should be worked on after higher priority items
-7. Icebox - Items that cannot be closed but are not actively being worked on or are indefinelely delayed
+1. **Urgent** - Should be started immediately.
+2. **High** - Should be started ASAP.
+3. **Medium** - Not quite high but above normal.
+4. **Normal** - Default for all new items.
+5. **Chipper** - An item that is not high priority that can be worked on as time allows.
+6. **Low** - Should be worked on after higher priority items.
+7. **Icebox** - Items that cannot be closed but are not actively being worked on or are indefinelely delayed or blocked.
+
+
 
