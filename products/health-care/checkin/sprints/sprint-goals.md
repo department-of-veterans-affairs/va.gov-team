@@ -42,8 +42,6 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
         - 🟥 [[Content] Ensure content for cancelled appt alert (from prod) during pre-check-in is consistent with unified check in messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71166)
         - 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
-  - **Sub Goal: [Cross-Product Discovery - Complete Multiple Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70700)**
-       - TBD
   - **Sub Goal: Analyze current metrics to see what they tell us**       
        - 🟩 [[Analytics] [FE] Append GA event with a 45MR param in check in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71440)
        - 🟥 [[Analytics] [UX] Add GA event with a 45MR param in GA Dashboard widget](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71632)
@@ -51,7 +49,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71205)
 - **GOAL: Address Tech Debt**
-    - 🟦 [[FE] [BUG] When Provider Name is blank, no content should be shown, including "with"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71772)
+    - 🟩 [[FE] [BUG] When Provider Name is blank, no content should be shown, including "with"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71772)
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
     - **Sub Goal: Migrate Sktech Files to Figma**
         - 🟥 [[UX] Read through platform documentation on Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71698)
