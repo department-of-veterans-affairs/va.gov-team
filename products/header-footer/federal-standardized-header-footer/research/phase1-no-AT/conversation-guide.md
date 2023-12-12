@@ -248,7 +248,7 @@ Let's say that you're considering going back to school to get your degree, and y
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 - *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
-- *(If need more prompting)* You're looking for the application to fill out online.
+- *(If need more prompting)* You're looking for the application form to fill out online.
 
 ### Task 6: [Careers at VA]
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
@@ -279,6 +279,8 @@ Say that after using this website for a while, you didn't get all of your questi
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 ### Task 9: [Update your contact information with VA]
+Could you please refresh the current page in your browser? *(so sign in works)*
+
 Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
 
 *RECORD navigation: **header > Sign in** / footer / search / mobile search*
@@ -305,7 +307,6 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-1. What do you think this page is for or about?
 1. What stands out to you on this page that indicates this is an official government website?
     - *(More prompts if needed...)* 
     - Can you tell me about the very top of this page? *(USA Government)*
