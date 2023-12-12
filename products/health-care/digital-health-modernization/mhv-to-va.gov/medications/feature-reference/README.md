@@ -5,21 +5,18 @@
 
 Product, business, and technical documentation of [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications) features.
 
-## Access the Medications Tool
+##Medications Tool
 
 | Feature | Usage | 
 |---|---|
 | [Login and access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/login-and-access.md) | Authentication and access rules. |
 | [Medications portal]() | Starting page to schedule or manage appointments |
 
-
 ## Refill Prescriptions
 
 | Feature | Usage | 
 |---|---|
-| [Upcoming appointments](./appointment-lists/upcoming-list.md) | View all future and in progress appointments |
-| [Past appointments](./appointment-lists/past-list.md) | View all appointments from the last two years |  
-| [Pending appointments](./appointment-lists/pending-list.md) | View all pending and canceled requests | 
+|[Refill prescriptions] | Refill an existing prescription |
 
 
 ### Appointment summary views
