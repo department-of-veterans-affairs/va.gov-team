@@ -88,6 +88,8 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**     
+    - [[BE] platform support and vets-api recloning issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71380)
+        - Added towards end of sprint
     - ✔️ ❗ 🟦 [LoROTA Security Issue]()
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ✔️ ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
