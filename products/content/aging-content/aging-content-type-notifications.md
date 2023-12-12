@@ -54,7 +54,19 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - The solution will evolve to auto-archiving content, and then extending all functionality to content blocks.
  
 ### How we are approaching the solution
+#### High-level Requirements
 
+
+
+#### Questions
+- Q: Default date range: For any content (including Full-width banners), do you want the default date range to auto-populate at 7 days,
+ but be editable up to 10, 30, ? number of days to accommodate events or other celebration/recognitions that last an entire month, like National Military Appreciation Month, Military Family Month, Pride month, etc.?
+  - A:
+- Q: Notifications: Do we still want three notifications, and should they be at the same cadence regardless of the date range?
+    - Example:  7 day date range = 1 reminder notification three days before end date; 1 reminder the morning of the end date; and when we
+ get auto-archiving implemented in a future phase, a notification when the content is actually archived.
+       - This would mean folks will get two notifications in one day, first thing in the morning and then late that night. Should we just send them one email on the morning of the end date telling them it will be archived at midnight that night?
+    - Example: 30 day date range = 1 reminder X number of days.
 
 --- 
 
@@ -78,7 +90,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 | Decision | Date | Participants |
 |----------|-------------|--------------------|
-| Exclude conditions from MVP  | 4/25/2023 | Danielle, Dave, Mikki |
+| Implementation will be split into iterations, with MVP consisting of Full-width Banner Date Limits and Notifications for Aging Content, while also providing the ability for future implementation of other content types | 12/4/2023 | Dave Conlon |
+| The following is excluded from the MVP: date limits and notifications for content blocks, auto-archiving full-width banners, other content types, or content blocks | 12/6/2023 | Dave Conlon |
+
 
 ---
    
