@@ -3,7 +3,7 @@
 
 ## Overview
 
-Product, business, and technical documentation of [Medications] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications) features.
+Product, business, and technical documentation of [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications) features.
 
 ## Access the Medications Tool
 
