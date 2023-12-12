@@ -32,7 +32,7 @@ Before we start, I want to mention a couple things:
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult is it to use [BHL or eScreening]?
 - Has the quality of the time you spend with patients improved or worsen due to this process? Why?
 - Have your workflows been affected either positively or negatively? How?
-- Do you feel this process maintains an appropriate level of safety and clinical intergrity? Why?
+- Do you feel this process maintains an appropriate level of safety and clinical integrity? Why?
 - Was your data entry simplified? How?
 - Have you noticed a decrease or increase in the notifications you receive about clinical reminders?
 - Would you agree or disagree with the following statement? Overall clinic reminder burden has been reduced.
