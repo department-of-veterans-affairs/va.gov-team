@@ -165,7 +165,7 @@ Tech Stack
 **Is there anything our team can use for local testing to get familiar with VA Notify prior to building the notification trigger code?**
 - We have [postman collections](https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman) that can be used for testing
 
-**Tips for using Postman!**
+### Tips for using Postman
 
 You must populate the following variables:
 - service-api-key = [api key we provided via encrypted email]
