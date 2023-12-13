@@ -38,10 +38,6 @@ These examples demonstrate the similarity, from the submitter's perspective.
 In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. These fields will still be pre-filled from AVA Profile:
 
 ##### Business phone and email
-In the new Ask VA flow, this is how we will determine if a question is a business inquiry:
-- What's your question about == Someone else's VA benefits
-- What's your relationship to the Veteran? == I’m connected to the Veteran through my work (for example, as a School Certifying Official or fiduciary)
-
 - Business phone
   - There is only one phone field in the Ask VA flow.
   - If the question is a business inquiry, then AVA Profile will pre-fill the front-end **Mobile phone number** field with the back-end Business phone field
@@ -50,6 +46,10 @@ In the new Ask VA flow, this is how we will determine if a question is a busines
   - There is only one email field in the Ask VA flow.
   - If the question is a business inquiry, then AVA Profile will pre-fill the front-end **Email address** field with the back-end Business phone field
   - Else, VA Profile will pre-fill the Email address field
+
+  In the new Ask VA flow, this is how we will determine if a question is a business inquiry:
+- What's your question about == Someone else's VA benefits
+- What's your relationship to the Veteran? == I’m connected to the Veteran through my work (for example, as a School Certifying Official or fiduciary)
 
 ##### Other fields
 - Suffix
