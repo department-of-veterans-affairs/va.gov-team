@@ -23,7 +23,7 @@ There are 2 main ticket's that CAIA will use in it's pipeline:
 
 ### General Collaboration Request
 
-**Title**
+### Title
 The title section contains the name of the ticket with the following naming convention
 
 - [] is used for the ticket type
@@ -32,14 +32,50 @@ The title section contains the name of the ticket with the following naming conv
 The ticket title also conatains the following ticket information
 
 - Ticket Status - See in the Custom Field Section Below
-- Number of tasks completed and tasks in total
+- Number of tasks completed and total number of tasks
 - Who opened the ticket and when
 
 ![Title](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/73d12ae7-751e-4dec-a900-57dd94339b48)
 
-**Main Body**
+### Main Body
 
 The main body of the the standard intake request consists of the following sections
 
-- **Assignees** - thei sifdnkejfe
+- **About your team** - Details information on the team requesting collaboration with CAIA Includes details such as
+  - OCTO Product Owner
+  - Slack Channel
+  - Content Writer on team (if applicable)
+- About your request - Details information about the nature of the collaboration request
+
+![Main Body](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/e58c76ec-7278-4016-ab95-de36cab48546)
+
+
+### Custom Field Section
+This section contains filed data that is important for filyering and tracking issues within the CAIA pipeline. They include
+
+- **Assignees** - Shows who is involved in the work being done on the ticket
+- **Labels** - Sometimes known as tags - these allow for CAIA to 'tag' which discipline needs to be involved with the work. Current labels for CAIA are
+  - sitewide CAIA
+  - sitewide content
+  - sitewide IA
+  - sitewide accessibility
+- Milestone - not currently used
+- Status - the following tickets statuses exist in CAIA and relate to which swimlane the ticket will show in the [Main Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46) view in Github Projects
+  -  New Intakes
+  -  EPICS
+  -  Backlog
+  -  OCTO Audits
+  -  Blocked
+  -  Ready
+  -  In Progress
+  -  Validate
+  -  Closed
+
+
+![Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/f321f7c3-5cc4-4fd8-a7b6-43f95fc1fbad)
+
+
+
+
+
 
