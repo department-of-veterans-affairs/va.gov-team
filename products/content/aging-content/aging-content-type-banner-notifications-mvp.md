@@ -13,7 +13,7 @@ How might we ensure a better site-user experience by ensuring alignment to our V
 - It’s Time to “VAX to the MAX!” (outdated)
 
 ## Desired User Outcomes
-Veterans, their caregivers and other users of VA.gov will see only current information helpful to them.
+Veterans, their caregivers and other users of VA.gov will see banners with only emergency or vital information helpful to them.
 
 ## Undesired User Outcomes
 Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
