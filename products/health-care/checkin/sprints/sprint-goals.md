@@ -29,9 +29,11 @@ ________________________________________________________________________________
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - 🟦 [[BE] Update Sequence Diagram for Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71783)
         - 🟦 [[BE] Implement Facilities API Client Class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - 🟦 [[BE] Implement Service class for Facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Facilities API Payload Serializer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
+        - 🟦 [[BE] Implement VAOS Appointment Serializer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
         - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698) 
         - 🟩 [[FE] - Add review button to pre-check-in details page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71267)
         - 🟩 [[FE] - Pre-check-in content updates](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71266)
@@ -63,9 +65,6 @@ ________________________________________________________________________________
         - 🟩 [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
 
 ------- END FUTURE / TENTATIVE ------
-
-__________________________________________________________________________________________________________________________________________________________
-
 
 __________________________________________________________________________________________________________________________________________________________
 
