@@ -160,9 +160,8 @@ Thank you for your time in having this call. I honor your decision to stop and w
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-1. I understand you are a (*Veteran / Family member).* Is that right? 
-	- *(If Family member, confirm:)* Are you a family member of a Veteran? Are you also a Veteran yourself?
-	- Thanks for confirming that.
+1. I understand you are a (*Veteran / Family member / Caregiver).* Is that right? 
+    - Thanks for confirming that.
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
