@@ -114,7 +114,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 3 days
+     - 6 days
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans 
 
@@ -145,26 +145,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of authenticated Veterans
 
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time:
-     - 2-3 days
-- Percentage of Users (and roughly how many users do you expect this to be):
-     - 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users
+### Stage C: 75% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -183,12 +165,12 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 100% of users
+### Stage D: 100% of users
 
 #### Planning
 
 - Length of time:
-     - 2-3 days
+     - 7 days of heavy monitoring
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
 
