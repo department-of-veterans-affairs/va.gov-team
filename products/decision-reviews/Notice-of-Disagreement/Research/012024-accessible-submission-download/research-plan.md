@@ -1,6 +1,8 @@
 # DRAFT /  Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
 ## Background
-In this exploratory study, we seek to understand how Veterans that use assistive technology to review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
+In previous studies, we found that Veterans have a desire to save a copy of their submitted forms. As the submission PDF currently exists, it is not accessible to Veterans with visual impairments that are using assistive technology. We are proposing providing an HTML page that allows Veterans who are using assistive technology to review their submission, as well as an optional download.
+
+In this exploratory study, we seek to understand how Veterans who use assistive technology would review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
 
 We believe it is important to help Veterans using assistive technology to access a record of their online submissions.
 
