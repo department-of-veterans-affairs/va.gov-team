@@ -100,9 +100,6 @@ ________________________________________________________________________________
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟦🟩 [[FE] [BE] Design Feature Implementation and Create All Task Tickets](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?epics=Z2lkOi8vcmFwdG9yL0VwaWMvMTA4MjIyNg)
-        - Rolled over from last sprint
-            - 🟦 [[BE] Implement Response class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
-            - 🟦 [[BE] Implement get_appointments method in service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)        - 
         - 🟩 [[FE] - Add travel review page to unified](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71432)
         - 🟥 [[Content] Ensure content for cancelled appt alert (from prod) during pre-check-in is consistent with unified check in messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71166)
   - **Sub Goal: Analyze current metrics to see what they tell us**        
