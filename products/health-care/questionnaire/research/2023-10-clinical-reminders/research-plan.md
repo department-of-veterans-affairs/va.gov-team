@@ -56,14 +56,31 @@ Sessions will take place via Zoom meetings.
 - Maximum Sessions per day: 3	 
 
 ### Research sessions
-- Planned dates of research:
-
-  - December 18th 9:00 am to Noon ET
-  - December 19th 11:00 am to 1:00 pm ET
-  - December 21st 9:00 am to Noon ET
-  - January 4th  9:00 am to Noon ET
-  - January 5th  9:00 am to 3:00 pm ET
- 
+- Planned dates of research 
+  - Method 1 to be used for recruiting during these dates:
+    - Nov. 17 from 9 to 3 ET
+    - Nov. 20 from 9 to 5 ET
+    - Nov. 27 from 9 to 5 ET
+    - Nov. 28 from 9:30 to 3 ET
+    - Nov. 29 from 9:30 to 5 ET
+    - Nov. 30 from 9 to 5 ET
+    - Dec. 1 from 9:30 to 3 ET
+    - 12/4 from 9-12, 2-5 ET
+    - 12/5 from 9-12 ET
+    - 12/6 from 9-1:30 ET
+    - 12/7 from 9-Noon ET
+    - 12/8 from 9-10, 11-Noon, 2-3 ET
+    - 12/11 from 9-1, 4-5 ET
+    - 12/12 from 9-12:30 ET
+    - 12/13 from 9-3 ET
+    - 12/14 from 9-11:15, 12-2:00 ET
+    - 12/15 from 1-5 ET
+    - 12/18 from 9-Noon ET
+    - 12/19 from 11 - 1 ET
+    - 12/21 from 9 - Noon ET
+    - 1/4 from 9 - Noon ET
+    - 1/5 from 9 - 3 ET
+  - Method 3 to be used for recruiting during these dates:
 
 
 #### Recruitment criteria
