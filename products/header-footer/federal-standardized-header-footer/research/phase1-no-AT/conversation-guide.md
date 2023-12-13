@@ -279,7 +279,7 @@ Say that after using this website for a while, you didn't get all of your questi
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 ### Task 9: [Update your contact information with VA]
-Could you please refresh the current page in your browser? *(so sign in works)*
+Could you please refresh the current page in your browser? *(so login works)*
 
 Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
 
