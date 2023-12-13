@@ -40,7 +40,7 @@ sequenceDiagram
 ```mermaid
 flowchart TB
     question1{What is your question about}-->|Someone else's benefits|Is_Business_Case
-    question2{What is your relationship to the Veteran}-->|I’m connected to the Veteran through my work, for example: as a School Certifying Official or fiduciary|Is_Business_Case
+    question2{What is your relationship to the Veteran}-->|Connected to the Veteran through my work|Is_Business_Case
 ```
 
 ## Pre-Populated Field Sourcing
