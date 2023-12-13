@@ -6,6 +6,7 @@
 - [ ] Add Threading to the model
 - [ ] Add Messaging pool handling to the sequence diagrams
 - [ ] Add FHIR APIs
+- [ ] Add teams responsbilities 
 
 ## Assumptions (Need to be validated and Open to challenged)
 
@@ -50,7 +51,7 @@
     - query the  MHV API with OH MessageId
     - The MHV API does some locking/checking before inserting into the MHV datastore
 
-## Threads Creation
+### Threads Creation
 
 - For a new message when does the tread Id get created?
   - How can get a Thread Id? 
@@ -60,9 +61,11 @@
     - Sending it in with out and Core MHV handles that
 
 
-## Historical Data
+### Historical Data
 
 - For the migration, could we use the same feed processor in the SM Exchange
+  - We should, see [below](#create-session)
+- How are we determining a Patient is new?
 
 
 
@@ -82,9 +85,14 @@
 
 ![Diagram](./assets/sm%20exchange.v5.drawio.png)
 
+
+### Tech stack
+
+- AWS Lambdas, using JavaScript
+- Queue: Existing queu technology
+
 ### Notes
 
-- We should use Lambdas
 - All communcation between the SM Exchange and MVH are RESTful API Calls
 - All communcation between the SM Exchange and OH are RESTful API Calls
 - Using a Queue to handle the parsing and translation of messages
@@ -98,6 +106,10 @@
   - OH Atom Feed
 
 ## Sequence
+
+### Create Session 
+
+![Sequence diagram of Creating a new Session](./assets/Create%20Session.v1.svg)
 
 ### MHV to OH 
 
