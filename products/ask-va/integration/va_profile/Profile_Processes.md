@@ -21,12 +21,12 @@ No information can be pre-populated for unauthenticated users of the AVA Form.
 ## Authenticated Form Flow
 ```mermaid
 flowchart TB
-    subgraph AVA_Form_Interaction
+    subgraph AVA Form Interaction
     AVA_Form-->business_entity_logic{is business inquiry}
     business_entity_logic{is business inquiry}-->AVA_Profile_Retrieval
     AVA_Profile_Retrieval-->Predefined-AVA-Process{{Pre-Defined Logic For Merging Data Only Found in AVA Profile}}-->AVA_Form
     end
-    subgraph VA-gov
+    subgraph VA.gov
     Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
     Authenticated_User-->|pre populates with va profile data|AVA_Form
     end
@@ -35,10 +35,14 @@ flowchart TB
 ## Authenticated Dashboard Flow
 ```mermaid
 flowchart TB
-    Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
-    Authenticated_User-->AVA_Dashboard
+    subgraph AVA Dashboard Interaction
     AVA_Dashboard-->|user identifier|AVA_BE-Retrieve-Inquiries
-    AVA_BE-Retrieve-Inquiries-->|Inquiry Data that includes distinction for business inquiries|AVA_Dashboard
+    AVA_BE-Retrieve-Inquiries-->|Inquiry Data that includes distinction for business inquiries|AVA_Dashboard    
+    end
+    subgraph VA.gov
+    Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
+    Authenticated_User-->|pre populates with va profile data|AVA_Dashboard
+    end
 ```
 
 ## Pre-Defined Process for Login and VA Profile Data Retrieval
@@ -54,8 +58,10 @@ sequenceDiagram
 ## Pre-Defined Logic For Merging Data Only Found in AVA Profile
 ```mermaid
 flowchart TB
+    subgraph AVA Form Interaction
     question1{What is your question about}-->|Someone else's benefits|Is_Business_Case
     question2{What is your relationship to the Veteran}-->|Connected to the Veteran through my work|Is_Business_Case
+    end
 ```
 
 ## Pre-Populated Field Sourcing
