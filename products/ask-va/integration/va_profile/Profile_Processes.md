@@ -3,8 +3,9 @@
 ## Description
 When an authenticated user visits the AVA Form, some fields pre-populate.  
 
-The data for a field can come from either VA Profile or AVA Profile. VA Profile is considered to be the main source of profile information, so any field that has data in both VA Profile and AVA Profile will use the data from VA Profile. However, if the field only has data in AVA Profile, that data will be used instead.
+The data for a field can come from either the VA Profile or AVA Profile. VA Profile is considered the primary source of profile information, so any field with data in both VA Profile and AVA Profile, or VA Profile alone, will use the data from VA Profile. However, if the field only has data in the AVA Profile, the AVA Form will use that data instead.
 
+No information can be pre-populated for unauthenticated users of the AVA Form.
 
 ## Login Flow
 ```mermaid
