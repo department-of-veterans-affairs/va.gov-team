@@ -42,7 +42,7 @@ Content libraries that are shared across products
 1. **Banners and alerts** (owned primarily by Public Websites, but other products can create alert blocks)
 1. **Media library** (videos, images, PDFs)
 
-## A guide to CMS Documentation 
+## Guide to CMS Documentation 
 
 Documentation about the CMS lives in various places
 * The CMS itself houses [CMS Knowledge Base](https://prod.cms.va.gov/help) (VA network access and CMS login required). 
