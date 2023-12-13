@@ -19,7 +19,8 @@
 
 ### UX Design
   * [VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md)
-    * [MVP direction Low-fi (Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv/rEDDF)
+    * [MVP direction Low-fi - Oct 2023(Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv/rEDDF)
+    * [MVP direction Low-fi - revisions - Dec 20203 (Balsamiq)](tbd)
     * High fidelity visual design (Figma)
       
 
