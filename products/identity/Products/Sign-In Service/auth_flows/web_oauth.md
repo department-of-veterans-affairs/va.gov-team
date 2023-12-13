@@ -15,7 +15,7 @@
 
 The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
 
-### `vets-api` & `vets-api-mockdata` Repositories
+### Local `vets-api` & `vets-api-mockdata` Repositories
 
 In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 
@@ -53,16 +53,14 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 #### [Authorization](../endpoints/authorize.md)
 
 - `staging-api.va.gov/v0/sign_in/authorize`
-- params: `acr`, `type`, `code_challenge`, `code_challenge_method`, `client_id`
+- params: `type`, `client_id`, `acr`, `code_challenge`, `code_challenge_method`
 - optional params: `state`, `operation`
 
 #### [Introspect](../endpoints/introspect.md) - authenticated route
 
 - `staging-api.va.gov/v0/sign_in/introspect`
 
-##### `vets-api` User Endpoint
-
-Web clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
+- Web clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
 
 #### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
 
@@ -80,9 +78,7 @@ Web clients of SiS have access to the serialized User endpoint at `staging-api.v
 - `staging-api.va.gov/v0/sign_in/token`
 - params: `code`, `code_verifier`, `grant_type`
 
-##### Info Token
-
-Cookie clients of SiS will receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
+  Cookie clients of SiS will also receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
 
 #### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
 
@@ -101,29 +97,28 @@ Cookie clients of SiS will receive a `vagov_info_token`, which contains token an
   | --- | --- |
   | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
   | vagov_refresh_token | May contain user information, used to obtain new tokens |
-  | vagov_anti_csrf_token | Optional, currently disabled feature to preven cross-site request forgery |
+  | vagov_anti_csrf_token | Optional feature to preven cross-site request forgery |
   | vagov_info_token | Used by client to determine timeout counters |
 8. Client uses access token cookie to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `vagov_access_token=<accessTokenHash>`
     - response: `"data": { user_data }`
 9. Client uses the refresh token to get an new tokens (when access token reaches expiry) by querying the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
 
-## Parameters
+## Parameters & Return Values
 
 | Name | Description | Value Type | Example Values |
 | --- | --- | --- | --- |
-| access_token | Value returned by /token endpoint | String | [See Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) |
-| acr | The level of user authentication asked for. Web logins require IAL2/LoA3, no IAL1/LoA1 users will be returned | String | `ial2`, `loa3`, `min` |
-| authentication | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access_token | String | `Authorization: Bearer {{encoded_access_token}}` |
-| client_id | Determines cookie-based (web) or API-based (mobile) authentication | String | partner identifier, for web auth use `vaweb`, `vamock`, or `sample_client_web` |
+| acr | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
+| client_id | A unique name identifying your ClientConfig. | String | `vaweb`, `vamock`, `sample_client_web` |
 | code | Authentication code provided by vets-api to be exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
-| code_challenge | Value created by vets-api and passed in param to login modal | Base64url | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
+| code_challenge | 	Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | code_challenge_method | Client specified, most common value is S256 | String | `S256` |
-| code_verifier | Value created and stored by client | String | `f2413353d83449c501b17e411d09ebb4` |
-| grant_type |  Only value allowed at this time is authorization_code | String | `authorization_code` |
-| ICN | User identifier from MPI | String | `1012829228V424035` |
-| oauth | MUST be true, used in backend | Boolean | `true` |
-| refresh_token | Value returned by /token endpoint, must be URI-encoded when passed as URL parameter. | String | [See Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/sis_postman_v1.json) |
+| code_verifier | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
+| grant_type |  Specifies authentication type, `authorization_code` is required for PKCE auth | String | `authorization_code` |
+| vagov_access_token | Encoded token returned by `/token` endpoint | String | `eyJhbGciOiJSUzI1NiJ9...` |
+| vagov_anti_csrf_token | Encoded token returned by `/token` endpoint to prevent CSRF attacks | String | `efc7b88e5baa009d2cc0e1cf7c6d31b4` |
+| vagov_info_token | URL-encoded token containing access_token & refresh_token expirations | String | `%7B%22access_token_expiration%22%3A%222023-12-12T17%3A51%3A31.988Z%22%2C%22refresh_token_expiration%22%3A%222023-12-12T18%3A16%3A31.965Z%22%7D` |
+| vagov_refresh_token | Encoded token returned by `/token` endpoint, must be URI-encoded when passed as URL parameter. | String | `"v1:insecure+data+A6ZXlKMWMyVnlYM1Yx...` |
 | type | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
 | user_uuid | Value returned from vets-api that maps the user from the usermodel to the current session | String | `ac899729-5de1-4968-973f-b9dc896f6b03`
 
@@ -132,31 +127,31 @@ Cookie clients of SiS will receive a `vagov_info_token`, which contains token an
 ### Access Token JWT
 
 - Access token is a JWT encoded and signed with a private key stored on vets-api
-  - Eventually the public key associated with this will be published in a well known configuration
+  - The public key associated with this can be found at `https://dev-api.va.gov/sign_in/openid_connect/certs`
+- Web/Cookie access_token expiration time must be `5.minutes`
 - Access token stores the following fields:
-  - anti_csrf_token
-  - created_time
-  - expiration_time
-  - last_regeneration_time
-  - parent_refresh_token_hash
-  - refresh_token_hash
-  - session_handle
-  - user_uuid
-  - version
-  - aud
-  - Client_id
-  - Jti
-  - Sub
-  - Iat
+  - `iss`: issuer of the token, `va.gov sign in`
+  - `aud`: token audience, derived from `ClientConfig`
+  - `client_id`: the client's string identifier
+  - `jti`: unique identifier for the JWT
+  - `sub`: subject of token, vets-api `user_uuid`
+  - `exp`: the expiry time of the token
+  - `iat`: the creation time of the token
+  - `session_handle`: the handle of the session the access token is connected to
+  - `refresh_token_hash`: a hash tying the access token to the refresh token that it is connected to
+  - `parent_refresh_token_hash`: the refresh_token_hash of the current refresh token's parent, if one exists
+  - `anti_csrf_token`: the anti-CSRF token string that corresponds to the session's anti-CSRF token
+  - `last_regeneration_time`: the time that the session was most recently refreshed
+  - `version`: the version of SiS that the access token was generated with
+  - `user_attributes`: optional user attributes that can be included for client authentication purposes
 
 ### Anti CSRF Token
 
-- Typically this must be used for /refresh calls, and must match the anti_csrf_token given in the latest /token endpoint call, or latest /refresh call
-- Currently this is disabled, and can be safely ignored
+- Optional additional protection for `/refresh` and `/revoke` calls to prevent CSRF attacks, this must match the anti_csrf_token given in the latest `/token` endpoint call or latest `/refresh` call
 
 ### Code Verifier / Code Challenge
 
-- Code verifier is a random string value
+- Code verifier is a random string value generated and held by the client.
   - `code_verifier = '5787d673fb784c90f0e309883241803d'`
 - Code challenge is a hashed urlsafe_encoded value from code_verifier:
 
@@ -167,65 +162,19 @@ Cookie clients of SiS will receive a `vagov_info_token`, which contains token an
   => "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="
   ```
 
-### Logout Endpoint
+- Clients should generate both values, pass the code *challenge* method (as well as code challenge method - `S256`) during `/authorize`, then the code *verifier* along with their received authorization code during `/token`.
 
-- This endpoint expects a valid access token from the user to be present when calling the `logout` endpoint. This function will allow a user to logout of the session associated with the access token. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
+### Info Token
+
+- Provides access_token and refresh_token expiration times for ease of clients in managing user sessions.
 
 ### Refresh Token
 
 - Refresh token is encrypted and stored as an opaque string object for client
   - Values stored in refresh token are only relevant for internal sign in service behavior
-
-### Revoke All Sessions Endpoint
-
-- This endpoint expects a valid access token from the user to be present when calling the `revoke_all_sessions` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
-- This endpoint currently is not callable by vets-website but will be released in a future version.
-
-### Token Expiration
-
-- `Access_token` = 5 minutes
-- `Refresh_token` = 30 minutes
-
-### User Introspect / Information Endpoints
-
-- The introspection endpoint is used to request user data. The introspection endpoint expects the use of the access token to get the user information. The data that is returned is a json formatted string.
-
-```
-{
-  "data": {
-    "id": "",
-    "type": "users",
-    "attributes": {
-      "uuid": "876f0f36-6b12-4273-babe-12144eaa2d57",
-      "first_name": "FAKEY",
-      "middle_name": null,
-      "last_name": "MCFAKERSON",
-      "birth_date": "1938-10-06",
-      "email": "faker.fake@fake.com",
-      "gender": "M",
-      "ssn": "123456789",
-      "birls_id": null,
-      "authn_context": "logingov",
-      "icn": "1012852978V019884",
-      "edipi": "1320002080",
-      "active_mhv_ids": ["12210827", "123456"],
-      "sec_id": null,
-      "vet360_id": null,
-      "participant_id": "600152407",
-      "cerner_id": null,
-      "cerner_facility_ids": [],
-      "vha_facility_ids": ["200MH", "989", "360", "200MHS", "648"],
-      "id_theft_flag": false,
-      "verified": true,
-      "access_token_ttl": 300
-    }
-  }
-}
-```
-
-- Web-authenticated users can also access the traditional `vets-api/v0/users` endpoint for more extensive user information. This route is covered by SiS authentication and requires the same valid access token as the `introspect` endpoint.
+- Web/Cookie refresh_token expiration time must be `30.minutes`
 
 ## Logging and Monitoring
 
 - [Sign in service errors in Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=staging&project=3&query=is%3Aunresolved+%22signincontroller%22&statsPeriod=14d)
-- [Sign in service metrics](https://app.datadoghq.com/dashboard/97h-d7e-tgr/joeidentitytestboard?from_ts=1655910414991&to_ts=1656083214991&live=true)
+- Metrics for Sign in Service in both production and staging environments can be found on the [VSP Identity Monitor Dashboard](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard)
