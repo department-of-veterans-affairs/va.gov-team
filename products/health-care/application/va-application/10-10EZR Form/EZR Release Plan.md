@@ -114,7 +114,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 6 days
+     - 7 days (Tues-Mon 12/18-25)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans 
 
@@ -133,7 +133,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 2-3 days
+     - 3 days (Tues-Wed 12/26-27)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
 
@@ -153,7 +153,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 2-3 days
+     - 5 days (Thurs-Mon 12/28-1/1)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
 
@@ -170,7 +170,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 7 days of heavy monitoring
+     - Tuesday 1/2
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
 
