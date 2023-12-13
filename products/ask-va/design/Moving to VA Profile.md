@@ -29,10 +29,12 @@ These examples demonstrate the similarity, from the submitter's perspective.
 ### User journey on va.gov/contact-us/ask-va
 
 1. Submitter signs in.
-2. Submitter's information is pre-filled in the form when possible (pulling from VA Profile).
-3. Submitter goes to their VA.gov profile to makes any changes to information that was pre-filled (for example, they have a new phone number), saves them and returns to the form.
-4. Submitter fills in fields that were not pre-filled.
-5. Submitter sends inquiry.
+2. For fields that exist in both VA Profile and AVA Profile: Submitter's information is pre-filled from VA Profile
+    - Submitter goes to their VA.gov profile to makes any changes to information that was pre-filled (for example, they have a new phone number), saves them and returns to the form.
+4. Fields that do NOT exist in VA Profile and exist in AVA Profile: Submitter's information is pre-filled from AVA Profile
+    - Submitter makes any changes to information that was pre-filled within the form (for example, they have a new phone number). 
+7. Submitter fills in fields that were not pre-filled.
+8. Submitter sends inquiry.
 
 #### How their journey changes
 In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. These fields will still be pre-filled from AVA Profile:
