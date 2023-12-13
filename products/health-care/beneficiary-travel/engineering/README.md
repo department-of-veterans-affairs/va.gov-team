@@ -9,13 +9,13 @@
 - BTSSS API Technical Lead: Jorge Gomez-danes Mejia
 
 
-## Authenication
+## Authentication
 
 To get access keys; send a request to btsss_support@va.gov. cc'Mark Dewey and they will handle the request. 
 
 ### OAuth/JWT policy
 
-The BTSSS Claims Ingest API utilizes the Oauth 2.0 protocol. This authentication process is handled by VAEC. The api follows a stand system to system 0Auth flow. We use VEIS for the authenication provider. Calls for the token are made to the VEIS service and then token is passed to the Claims API in the header. You will get a client secret, client id, and scope. The client secret and client id are the same for all enviroments, the scope changes as you are promoted from QA to production.  
+The BTSSS Claims Ingest API utilizes the OAuth 2.0 protocol. This authentication process is handled by VAEC. The api follows a stand system to system 0Auth flow. We use VEIS for the authentication provider. Calls for the token are made to the VEIS service and then token is passed to the Claims API in the header. You will get a client secret, client id, and scope. The client secret and client id are the same for all environments, the scope changes as you are promoted from QA to production.  
 
 ### Subscription Key
 
@@ -23,7 +23,7 @@ Since there is resource sharing happening behind the scenes, a Subscription Key 
 
 For QA, you will need to pass the key as a header named `OCP-APIM-Subscription-Key`. 
 
-For produciton, you need 2 headers, `OCP-APIM-Subscription-Key-E` `OCP-APIM-Subscription-Key-S`.  Both are required to be passed to ensure load balanced calls function properly.
+For production, you need 2 headers, `OCP-APIM-Subscription-Key-E` `OCP-APIM-Subscription-Key-S`.  Both are required to be passed to ensure load balanced calls function properly.
 
 ### Client ID
 
@@ -44,15 +44,15 @@ Notes
 
 > In not specific order
 
-1. As a Veteran, I can submit 1 claim per appointment per faciltiy per day
+1. As a Veteran, I can submit 1 claim per appointment per facility per day
 1. The API will submit a claim for an appointment in any state, but only a checked-out/completed appointment can create a successful claim
-1. As soon as a claim is submited, the status availible for query
+1. As soon as a claim is submitted, the status available for query
 1. The endpoint can be called with just an appointment date or an appointment date and time. Only passing in the date will fail if there are multiple appointments. If there is only 1 appointment that its possible to pass in just the date. If the date and time are provided then it does some checking around the `1 claim per day per facility` rule.
 1. The only stop codes that are automatically rejected are the codes for telehealth. All other stope codes go through manual process if not automatically accepted. The BTSSS team is currently working through more documentation and configuration for this. 
 
 ## Known Issues 
 
-- The API sometimes attaches the wrong payment faiclity. We are looking into how fix that
+- The API sometimes attaches the wrong payment facility. We are looking into how fix that
 - If no date is supplied for submitting a claim, and the Veteran has multiple appointments on that day, the API throws an `invalid datetime` error
 - The submit claim endpoint is very slow, but a new, more performant endpoint is underdevelopment and ETA of fall 2023
 
