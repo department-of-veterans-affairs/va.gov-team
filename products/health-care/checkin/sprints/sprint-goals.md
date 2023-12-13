@@ -142,7 +142,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**     
-    - [[BE] platform support and vets-api recloning issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71380)
+    - ✔️ [[BE] platform support and vets-api recloning issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71380)
         - Added towards end of sprint
     - ✔️ ❗ 🟦 [LoROTA Security Issue]()
     - ✔️ ❗ 🟦 [[CHIP] - CHIP security scan issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71271)
