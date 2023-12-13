@@ -13,7 +13,10 @@ No information can be pre-populated for unauthenticated users of the AVA Form.
   *  A user can submit a form in VA.gov and expect the same default information across the system
   *  Updates to profile happen explicitly.
       * They can change things on a per-submission basis without having to worry about changing their default values.
-  *  User has a single place to record their preferences.  
+  *  User has a single place to record their preferences.
+* AVA Profile Benefits:
+  * Information specific to AskVA can be stored.
+  * Can be updated implicitly with each form submission.
 
 ## Authenticated Form Flow
 ```mermaid
