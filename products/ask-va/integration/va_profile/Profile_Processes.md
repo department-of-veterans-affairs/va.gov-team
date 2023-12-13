@@ -78,4 +78,4 @@ flowchart TB
 | Suffix | AVA Profile | Suffix |
 
 ## Resources
-* [VA Profile Spike]()
+* [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
