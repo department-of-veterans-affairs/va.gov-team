@@ -22,14 +22,18 @@ No information can be pre-populated for unauthenticated users of the AVA Form.
 ### Authenticated Form Flow
 ```mermaid
 flowchart TB
+    subgraph AVA CRM
+    AVA_CRM-Retrieve-Profile<-->AVA-CRM-Data-Store[(CRM Data Store)]
+    end
     subgraph AVA Form Interaction
-    AVA_Form-->business_entity_logic{is business inquiry}
-    business_entity_logic{is business inquiry}-->AVA_Profile_Retrieval
-    AVA_Profile_Retrieval-->Predefined-AVA-Process{{Pre-Defined Logic For Merging Data Only Found in AVA Profile}}-->AVA_Form
+    business_entity_logic{is business inquiry}-->|yes|AVA_BE-Profile_Retrieval
+    business_entity_logic{is business inquiry}-->|no|AVA_Form
+    AVA_BE-Profile_Retrieval<-->|user icn|AVA_CRM-Retrieve-Profile
+    AVA_BE-Profile_Retrieval-->|2|Predefined-AVA-Process{{Pre-Defined Logic For Merging Data Only Found in AVA Profile}}-->AVA_Form
     end
     subgraph VA.gov
     Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
-    Authenticated_User-->|pre populates with va profile data|AVA_Form
+    Authenticated_User-->|Va Profile Data|business_entity_logic{is business inquiry}
     end
 ```
 
@@ -37,12 +41,15 @@ flowchart TB
 ```mermaid
 flowchart TB
     subgraph AVA Dashboard Interaction
-    AVA_Dashboard-->|user identifier|AVA_BE-Retrieve-Inquiries
-    AVA_BE-Retrieve-Inquiries-->|Inquiry Data that includes distinction for business inquiries|AVA_Dashboard    
+    AVA_BE-Get-Inquiries-->|Inquiry Data that includes distinction for business inquiries|AVA_Dashboard
+    end
+    subgraph AVA CRM
+    AVA_CRM-Retrieve-Inquiries<-->AVA-CRM-Data-Store[(CRM Data Store)]
     end
     subgraph VA.gov
     Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
-    Authenticated_User-->|pre populates with va profile data|AVA_Dashboard
+    Authenticated_User-->|user ICN|AVA_BE-Get-Inquiries
+    AVA_BE-Get-Inquiries<-->|user ICN|AVA_CRM-Retrieve-Inquiries
     end
 ```
 
