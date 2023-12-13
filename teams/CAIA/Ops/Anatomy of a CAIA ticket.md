@@ -24,6 +24,7 @@ There are 2 main ticket's that CAIA will use in it's pipeline:
 ### General Collaboration Request
 
 ### Title
+![Title](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/73d12ae7-751e-4dec-a900-57dd94339b48)
 The title section contains the name of the ticket with the following naming convention
 
 - [] is used for the ticket type
@@ -35,10 +36,9 @@ The ticket title also conatains the following ticket information
 - Number of tasks completed and total number of tasks
 - Who opened the ticket and when
 
-![Title](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/73d12ae7-751e-4dec-a900-57dd94339b48)
 
 ### Main Body
-
+![Main Body](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/e58c76ec-7278-4016-ab95-de36cab48546)
 The main body of the the standard intake request consists of the following sections
 
 - **About your team** - Details information on the team requesting collaboration with CAIA Includes details such as
@@ -47,10 +47,8 @@ The main body of the the standard intake request consists of the following secti
   - Content Writer on team (if applicable)
 - About your request - Details information about the nature of the collaboration request
 
-![Main Body](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/e58c76ec-7278-4016-ab95-de36cab48546)
-
-
 ### Custom Field Section
+![Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/f321f7c3-5cc4-4fd8-a7b6-43f95fc1fbad)
 This section contains filed data that is important for filyering and tracking issues within the CAIA pipeline. They include
 
 - **Assignees** - Shows who is involved in the work being done on the ticket
@@ -72,7 +70,7 @@ This section contains filed data that is important for filyering and tracking is
   -  Closed
 
 
-![Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/f321f7c3-5cc4-4fd8-a7b6-43f95fc1fbad)
+
 
 
 
