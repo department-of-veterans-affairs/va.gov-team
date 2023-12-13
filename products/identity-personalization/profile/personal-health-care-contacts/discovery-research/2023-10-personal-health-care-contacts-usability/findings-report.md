@@ -123,7 +123,7 @@ When asked later in the session about _Emergency contact,_
 
 ---
 
-### 4) 4. Most participants (6 of 9) associated _Next of kin_ with family and initially did not differentiate between _Medical emergency contact_ and _Next of kin contact_.
+### 4) Most participants (6 of 9) associated _Next of kin_ with family and initially did not differentiate between _Medical emergency contact_ and _Next of kin contact_.
 
 Participants frequently interpreted _Next of kin_ as a family member designated emergency contact. Once on the _Personal health care contacts_ page, participants relied on the hint text to distinguish between the two concepts. 
 
