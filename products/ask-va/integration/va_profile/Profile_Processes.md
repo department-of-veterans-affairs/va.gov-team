@@ -7,16 +7,6 @@ The data for a field can come from either the VA Profile or AVA Profile. VA Prof
 
 No information can be pre-populated for unauthenticated users of the AVA Form.
 
-## Login Flow
-```mermaid
-sequenceDiagram
-    VA-gov->>IDP: Initiate Login Process
-    IDP->>VA-gov: success
-    VA-gov->>VA-profile: Initiate retrieval of user profile information
-    VA-profile->>VA-gov: Authenticated User's Profile Information
-    VA-gov->>AVA_Form: User directs to AVA_Form
-```
-
 ## Authenticated Form Flow
 ```mermaid
 flowchart TB
@@ -34,6 +24,23 @@ flowchart TB
     Authenticated_User-->AVA_Dashboard
     AVA_Dashboard-->|user identifier|AVA_BE-Retrieve-Inquiries
     AVA_BE-Retrieve-Inquiries-->|Inquiry Data that includes distinction for business inquiries|AVA_Dashboard
+```
+
+## Pre-Defined Process for Login and VA Profile Data Retrieval
+```mermaid
+sequenceDiagram
+    VA-gov->>IDP: Initiate Login Process
+    IDP->>VA-gov: success
+    VA-gov->>VA-profile: Initiate retrieval of user profile information
+    VA-profile->>VA-gov: Authenticated User's Profile Information
+    VA-gov->>AVA_Form: User directs to AVA_Form
+```
+
+## Pre-Defined Logic For Merging Data Only Found in AVA Profile
+```mermaid
+flowchart TB
+    question1{What is your question about}-->|Someone else's benefits|Is_Business_Case
+    question2{What is your relationship to the Veteran}-->|I’m connected to the Veteran through my work, for example: as a School Certifying Official or fiduciary|Is_Business_Case
 ```
 
 ## Pre-Populated Field Sourcing
