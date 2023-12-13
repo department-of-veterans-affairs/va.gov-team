@@ -17,8 +17,9 @@ No information can be pre-populated for unauthenticated users of the AVA Form.
 * AVA Profile Benefits:
   * Information specific to AskVA can be stored.
   * Can be updated implicitly with each form submission.
-
-## Authenticated Form Flow
+ 
+## Flows
+### Authenticated Form Flow
 ```mermaid
 flowchart TB
     subgraph AVA Form Interaction
@@ -32,7 +33,7 @@ flowchart TB
     end
 ```
 
-## Authenticated Dashboard Flow
+### Authenticated Dashboard Flow
 ```mermaid
 flowchart TB
     subgraph AVA Dashboard Interaction
@@ -45,7 +46,7 @@ flowchart TB
     end
 ```
 
-## Pre-Defined Process for Login and VA Profile Data Retrieval
+### Pre-Defined Process for Login and VA Profile Data Retrieval
 ```mermaid
 sequenceDiagram
     VA-gov->>IDP: Initiate Login Process
@@ -55,7 +56,7 @@ sequenceDiagram
     VA-gov->>AVA_Form: User directs to AVA_Form
 ```
 
-## Pre-Defined Logic For Merging Data Only Found in AVA Profile
+### Pre-Defined Logic For Merging Data Only Found in AVA Profile
 ```mermaid
 flowchart TB
     subgraph AVA Form Interaction
@@ -75,3 +76,6 @@ flowchart TB
 | Business phone | AVA Profile | Business Phone |
 | Business email | AVA Profile | Business Email |
 | Suffix | AVA Profile | Suffix |
+
+## Resources
+* [VA Profile Spike]()
