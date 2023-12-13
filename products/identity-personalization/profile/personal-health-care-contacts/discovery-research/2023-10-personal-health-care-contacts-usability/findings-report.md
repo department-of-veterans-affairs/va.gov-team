@@ -231,7 +231,7 @@ When asked if this information is related to other benefits, participants commen
 (Supported by finding 1 and 2)
 - 6 of 7 participants went to the _Personal health care contacts_ to view their emergency contact and next of kin information
 
-### Remove "Medcial" from _Medical emergency contact_ 
+### Remove "Medical" from _Medical emergency contact_ 
 (Supported by finding 3)
 - A couple participants thought _Medical emergency contact_ was similar to 911. All participants understood the concept of _Emergency contact_
 
