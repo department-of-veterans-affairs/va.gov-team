@@ -44,11 +44,11 @@ In the new Ask VA flow, this is how we will determine if a question is a busines
 
 - Business phone
   - There is only one phone field in the Ask VA flow.
-  - If the question is a business inquiry, then AVA Profile will pre-fill the front-end Mobile phone number field with the back-end Business phone field
+  - If the question is a business inquiry, then AVA Profile will pre-fill the front-end **Mobile phone number** field with the back-end Business phone field
   - Else, VA Profile will pre-fill the Mobile phone number field
 - Business email
   - There is only one email field in the Ask VA flow.
-  - If the question is a business inquiry, then AVA Profile will pre-fill the front-end Email address field with the back-end Business phone field
+  - If the question is a business inquiry, then AVA Profile will pre-fill the front-end **Email address** field with the back-end Business phone field
   - Else, VA Profile will pre-fill the Email address field
 
 ##### Other fields
