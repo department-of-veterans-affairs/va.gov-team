@@ -169,7 +169,7 @@ Let’s start with a few questions...
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
-    - *RECORD: health care / education / career services / disability / housing loans / pension / life insurance / burial benefits / __________*
+    - *RECORD: health care / education / career services / disability / home loans / pension / life insurance / burial benefits / __________*
 
 1. How do you typically get information and benefits from the VA? 
     - *(Google / Facebook / MHV / eBenefits / Contact center call/email / VA.gov / ________________________)*
