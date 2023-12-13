@@ -179,12 +179,12 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-- 1/9 Tuesday 9-6
-- 1/10 Wednesday 9-6
-- 1/11 Thursday 9-6
-- 1/12 Friday 9-6
-- 1/16 Tuesday 9-6
-- 1/17 Wednesday 9-6
+- 1/9 Tuesday 9-1, 2-4, 5-6
+- 1/10 Wednesday 9-1, 2-4, 5-6
+- 1/11 Thursday 9-1, 2-4, 5-6
+- 1/12 Friday 9-1, 2-4, 5-6
+- 1/16 Tuesday 9-1, 2-4, 5-6
+- 1/17 Wednesday 9-1, 2-4, 5-6
 
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
