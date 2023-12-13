@@ -139,137 +139,92 @@ This document outlines the data in VA.gov Profile (interface) compared to the AV
 | | Pronouns I use |
 
 
-VA profile: Contact information
-VA profile fields
-AVA fields
-Mailing address: Country (*Required)
+### VA profile: Contact information
 
-
-Mailing address: Street address (*Required)
-
-
-Mailing address: Street address 2
-
-
-Mailing address: Street address 3
-
-
-Mailing address: City (*Required)
-
-
-Mailing address: State (*Required)
-
-
-Mailing address: Zip code (*Required)
-
-
-Home address: Country (*Required)
-Country
-Home address: Street address (*Required)
-Street
-Home address: Street address 2
-Suite/Apt/Other
-Home address: Street address 3
-
-
-Home address: City (*Required)
-City
-Home address: State (*Required)
-State
-Home address: Zip code (*Required)
-Zip Code
-Home phone number (*Required)
-
-
-Extension (6 digits maximum)
-
-
-Work phone number (U.S. numbers only) (*Required)
-Business Phone
-Extension (6 digits maximum)
-
-
-Mobile phone number (U.S. numbers only) (*Required)
-Personal Phone
-Extension (6 digits maximum)
-
-
-Contact email: Email Address (*Required)
-Personal E-mail
-Sign-in email: View or edit your sign-in email at ID.me
+| VA profile fields | AVA fields |
+| ----------------- | ---------- |
+| Mailing address: Country (*Required) | |
+| Mailing address: Street address (*Required) | |
+| Mailing address: Street address 2 | |
+| Mailing address: Street address 3 | |
+| Mailing address: City (*Required) | |
+| Mailing address: State (*Required) | |
+| Mailing address: Zip code (*Required) | |
+| Home address: Country (*Required) | Country |
+| Home address: Street address (*Required) | Street |
+| Home address: Street address 2 | Suite/Apt/Other |
+| Home address: Street address 3 | |
+| Home address: City (*Required) | City |
+| Home address: State (*Required) | State |
+| Home address: Zip code (*Required) | Zip Code |
+| Home phone number (*Required) | |
+| Extension (6 digits maximum) | |
+| Work phone number (U.S. numbers only) (*Required) | Business Phone |
+| Extension (6 digits maximum) | |
+| Mobile phone number (U.S. numbers only) (*Required) | Personal Phone |
+| Extension (6 digits maximum) | |
+| Contact email: Email Address (*Required) | Personal E-mail |
+| Sign-in email: View or edit your sign-in email at ID.me | |
+| | Business Email |
+| | School State |
+| | School Facility Code |
 
 
 
+### VA profile: Military information
 
-Business Email
+| VA profile fields | AVA fields |
+| ----------------- | ---------- |
+| [Military Branch] | Branch of Service |
+| | Service Number - Recommend removal |
+| | Claim Number - Recommend removal |
+| [Service start date] | Veteran Service Start Date |
+| [Service end date] | Veteran Service End Date |
 
-
-School State
-
-
-School Facility Code
-
-
-
-VA profile: Military information
-VA profile fields
-AVA fields
-[Military Branch]
-Branch of Service
-
-
-Service Number - Recommend removal
-
-
-Claim Number - Recommend removal
-[Service start date]
-Veteran Service Start Date
-[Service end date]
-Veteran Service End Date
-
-
-VA profile: Notification settings
-VA profile fields
-AVA fields
-Email Address (*Required)
-
-
-Mobile phone number (U.S. numbers only) (*Required)
-
-
-
+### VA profile: Notification settings
+| VA profile fields | AVA fields |
+| ----------------- | ---------- |
+| Email Address (*Required) | |
+| Mobile phone number (U.S. numbers only) (*Required) | |
 
 Outside of the fields suggested for removal, the only difference is the business and school information.
 
-If a user has an AVA profile but does not have a VA.gov profile, they will have one when they sign in for the first time. Their VA.gov profile will contain data passed to VA Profile from the auth provider (this is similar to ask.va.gov). We can recommend they fill in the rest of their profile before starting a new question if they want parts of the form to be prefilled.
+If a user has an AVA profile but does not have a VA.gov profile, they will have one when they sign in for the first time. _Their VA.gov profile will contain data passed to VA Profile from the auth provider (this is similar to ask.va.gov)._ We can recommend they fill in the rest of their profile before starting a new question if they want parts of the form to be prefilled.
 
-With our new design, what fields will not be available in VA profile that the user will need to fill in going forward?
+#### With our new design, what fields will not be available in VA profile that the user will need to fill in going forward?
 
 Example: Pronouns were previously available in AVA Profile but no available in VA Profile.
 
-Discussion on AVA Profile & VA Profile Data Sourcing for Business and Personal Inquiries & Facility Codes
 
-Phase 1 (Business and Personal Inquiries)
-Guiding Principle : Wherever possible pull data to pre-populate for Submitter
-Use VA Profile as the source of truth for the submitter.  
-Fields that exist in both VA Profile and AVA Profile:
-Default to using the VA Profile version of that data. 
-Fields that do NOT exist in VA Profile and exist in AVA Profile:
-Pull that information from AVA Profile.
-If the business inquiries - submitter updates their information, trigger to be sent to the CRM Team to update the info in AVA Profile - ONLY for fields we are pulling from AVA.
-If the personal inquiries- will allow for the submitter to update VA profile information.
-Suggestion: 
-* AVA Profile would create an endpoint on their side that receives an ICN and returns AVA Form fields.  
-* The VA.gov frontend would merge the AVA profile and VA Profile data to fill out the frontend form accordingly.
-Phase 1 (School Facility Codes and State of School)
-Pull the saved facility codes from AVA Profile, and if the submitter edits this, we send this information to the CRM Team to update in AVA.
-Need to think through how the UI would need to be updated (ex selection of school facility). 
+
+
+
+
+## Discussion on AVA Profile & VA Profile Data Sourcing for Business and Personal Inquiries & Facility Codes
+
+1. **Phase 1 (Business and Personal Inquiries)**\
+Guiding Principle: _Wherever possible pull data to pre-populate for Submitter_
+   * Use VA Profile as the source of truth for the submitter.  
+   * Fields that exist in both VA Profile and AVA Profile:
+      * Default to using the VA Profile version of that data. 
+   * Fields that do NOT exist in VA Profile and exist in AVA Profile:
+      * Pull that information from AVA Profile.
+   * If the business inquiries - submitter updates their information, trigger to be sent to the CRM Team to update the info in AVA Profile - ONLY for fields we are pulling from AVA.
+   * If the personal inquiries- will allow for the submitter to update VA profile information.\
+Suggestion:
+      * AVA Profile would create an endpoint on their side that receives an ICN and returns AVA Form fields.  
+      * The VA.gov frontend would merge the AVA profile and VA Profile data to fill out the frontend form accordingly.
+
+2. **Phase 1 (School Facility Codes and State of School)**
+   * Pull the saved facility codes from AVA Profile, and if the submitter edits this, we send this information to the CRM Team to update in AVA.
+   * Need to think through how the UI would need to be updated (ex selection of school facility). 
 
 Language would be updated, and content would be updated to ensure a smooth process. We need to think through the impact on content. 
 
-Post Phase 1- Best case scenario for submitter
-Role based experience defining their experience - and how does this impact AVA UX/ UI? For example:
-If I am making a business inquiry ask for (and prefill) my business email address on the account 
-If I am making a personal inquiry ask (and prefill)  for my personal email address on the account
-Question for the Education team: Will another tool in the future serve the Education team’s need for business submitters to upload attachments?
-Analytics question: What % of submitters have both personal and business inquiries right now? Exactly when did the CRM team update AVA with business/personal categorization? Note that this % might not be entirely accurate because inquiries weren’t retroactively recategorized unless the submitter requested it directly.
+### Post Phase 1- Best case scenario for submitter
+
+* Role based experience defining their experience - and how does this impact AVA UX/ UI? For example:
+   * If I am making a business inquiry ask for (and prefill) my business email address on the account 
+   * If I am making a personal inquiry ask (and prefill)  for my personal email address on the account
+* Question for the Education team: Will another tool in the future serve the Education team’s need for business submitters to upload attachments?
+* Analytics question: What % of submitters have both personal and business inquiries right now? Exactly when did the CRM team update AVA with business/personal categorization? Note that this % might not be entirely accurate because inquiries weren’t retroactively recategorized unless the submitter requested it directly.
