@@ -1,8 +1,8 @@
 # DRAFT /  Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
 ## Background
-In this exploratory study, we seek to understand how Veterans that use screen readers review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
+In this exploratory study, we seek to understand how Veterans that use assistive technology to review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
 
-We believe it is important to help Veterans using screen readers to access a record of their online submissions.
+We believe it is important to help Veterans using assistive technology to access a record of their online submissions.
 
 Participants will walk through a code prototype on staging.
 
