@@ -21,11 +21,15 @@ No information can be pre-populated for unauthenticated users of the AVA Form.
 ## Authenticated Form Flow
 ```mermaid
 flowchart TB
-    Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
-    Authenticated_User-->|pre populates with va profile data|AVA_Form
+    subgraph AVA_Form_Interaction
     AVA_Form-->business_entity_logic{is business inquiry}
     business_entity_logic{is business inquiry}-->AVA_Profile_Retrieval
     AVA_Profile_Retrieval-->Predefined-AVA-Process{{Pre-Defined Logic For Merging Data Only Found in AVA Profile}}-->AVA_Form
+    end
+    subgraph VA-gov
+    Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
+    Authenticated_User-->|pre populates with va profile data|AVA_Form
+    end
 ```
 
 ## Authenticated Dashboard Flow
