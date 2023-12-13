@@ -4,7 +4,7 @@
 Full-width banners in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement date limits and notifications based on those limits (banners should only display for seven (7) days
 
 ## Problem Statement
-How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial default timeframe (probably 7 days), that can then be extended.
+How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial seven (7) day default timeframe that can then be extended by an editor editing the content.
 
 #### Examples of Stale Banners
 - How Veterans Can Register to Vote
