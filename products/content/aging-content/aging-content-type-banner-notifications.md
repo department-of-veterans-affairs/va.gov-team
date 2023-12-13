@@ -6,6 +6,12 @@ Full-width banners in VA.gov become stale and aren’t monitored or updated on a
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial default timeframe (probably 7 days), that can then be extended.
 
+#### Examples of Stale Banners
+- How Veterans Can Register to Vote
+- National Buddy Check Week (for one week in October; still up in late November)
+- Recognizing LGBTQ+ Veterans During Pride Month (still up several months after Pride Month)
+- It’s Time to “VAX to the MAX!” (outdated)
+
 ## Desired User Outcomes
 Veterans, their caregivers and other users of VA.gov will see only current information helpful to them.
 
@@ -24,7 +30,6 @@ Editors ignore the notification emails, and their content is not refreshed (and 
 ### Key Performance Indicators (KPIs)
 * KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
 * 
-* _**Limit 5-6 KPIs per product**__
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
@@ -37,13 +42,9 @@ Baseline Values consist of a list of current Full-width banners in PROD, and the
 For this particular implementation, there isn’t a way to obtain metrics from GA
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
-  - Key result: 
-  - Key result: 
-
----
+  - Key result: Content editors ensure that relevant, current information is displayed/delivered via Full-width banners so that Veterans, their caregivers, and other VA.gov users recognize that they should pay attention to Full-width banners and they don't become invisible as stale or irrelavent.
 
 ## Assumptions
 
