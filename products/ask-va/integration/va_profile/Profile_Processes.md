@@ -29,7 +29,7 @@ flowchart TB
     business_entity_logic{is business inquiry}-->|yes|AVA_BE-Profile_Retrieval
     business_entity_logic{is business inquiry}-->|no|AVA_Form
     AVA_BE-Profile_Retrieval<-->|user icn|AVA_CRM-Retrieve-Profile
-    AVA_BE-Profile_Retrieval-->|2|Predefined-AVA-Process{{Pre-Defined Logic For Merging Data Only Found in AVA Profile}}-->AVA_Form
+    AVA_BE-Profile_Retrieval-->|AVA profile data|Predefined-AVA-Process{{Pre-Defined Logic For Merging Data Only Found in AVA Profile}}-->AVA_Form
     end
     subgraph VA.gov
     Predefined-Login-Process{{Pre-Defined Process for Login and VA Profile Data Retrieval}}-->Authenticated_User
