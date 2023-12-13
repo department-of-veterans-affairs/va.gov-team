@@ -23,6 +23,10 @@
 | Should QA have a standing meeting with different disciplines | Ability to improve relationships and discuss cross discipline improvements / ideas | | 
 | Determine a process /strategy to handle App store required updates (submit [new policy declaration](https://adhoc.slack.com/archives/C0212B872MT/p1701981196387319) for the app and other updates needed to continue using the app store | Tim Wright its a one-off thing they did however heard from others that this is normal. Need to identify what updates Mobile has to make in order to use the App store and a process around it | | 
 | Should Mobile have a code freeze that aligns with VA | 2024 Code Freeze 12/22 - 1/2/24 ; however mobile is releasing on 1/2 | 
+| Identify processes in which there is a lot of risk, especially instances were there is only 1 person reponsible or has access that could lead to a fatal error | Came from Therese's comment during 12/13 PO OKR meeting | | 
+
+
+
 
 | Closed items | Resolution | Date |
 | ----- | ----- | -------| 
