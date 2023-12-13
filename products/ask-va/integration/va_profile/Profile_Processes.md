@@ -7,6 +7,14 @@ The data for a field can come from either the VA Profile or AVA Profile. VA Prof
 
 No information can be pre-populated for unauthenticated users of the AVA Form.
 
+## Benefits of pre-population
+* Reduces friction between user and submitting their inquiry
+* VA Profile Benefits:
+  *  A user can submit a form in VA.gov and expect the same default information across the system
+  *  Updates to profile happen explicitly.
+      * They can change things on a per-submission basis without having to worry about changing their default values.
+  *  User has a single place to record their preferences.  
+
 ## Authenticated Form Flow
 ```mermaid
 flowchart TB
