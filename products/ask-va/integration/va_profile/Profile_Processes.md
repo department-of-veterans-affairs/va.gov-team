@@ -68,6 +68,26 @@ flowchart TB
 ## Pre-Populated Field Sourcing
 | Pre-Populated Field | Source | Source Field |
 |:--|:--|:--|
+| Submitter DoB | VA Profile |  |
+| Submitter SSN | VA Profile |  |
+| Submitter First Name | VA Profile |  |
+| Submitter Middle Name | VA Profile |  |
+| Submitter Last Name | VA Profile |  |
+| Preferred Name | VA Profile || 
+| Submitter Gender | VA Profile ||
+| Submitter Home Address | VA Profile || 
+| Submitter Home City | VA Profile || 
+| Submitter Home State | VA Profile || 
+| Submitter Home Zip  | VA Profile || 
+| Submitter Phone  | VA Profile || 
+| Submitter Email  | VA Profile || 
+| Submitter Branch of Service  | VA Profile || 
+| Submitter Service Dates  | VA Profile || 
+| Submitter Service Number  | VA Profile || 
+| Submitter Business Phone  | AVA Profile || 
+| Submitter Business Email  | AVA Profile || 
+| Submitter School Facility Code  | AVA Profile || 
+| Submitter State of School  | AVA Profile || 
 | Suffix | AVA Profile | Suffix |
 | Pronouns | AVA Profile | Pronouns I use |
 | School State | AVA Profile | School State |
@@ -75,7 +95,7 @@ flowchart TB
 | Service Number | AVA Profile | Service Number |
 | Business phone | AVA Profile | Business Phone |
 | Business email | AVA Profile | Business Email |
-| Suffix | AVA Profile | Suffix |
+
 
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
