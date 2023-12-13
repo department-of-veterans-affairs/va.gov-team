@@ -111,7 +111,17 @@ N/A - brand new product
 
 ### After
 
+### Artifacts
 
+#### Tickets
+- [Super Epic Aging content notifications for banners & blocks #16127](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16127)
+  - [EPIC Aging content MVP: Add date range fields and send notifications for Full-width banner content type #15504](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15504)
+    - [Aging Content - Banner Implement Date fields on Full-width banner content form #16417](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
+    - [Aging Content - Banner Expiry Drupal: Implement Banner expiration logic in CMS #15505](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15505)
+    - [Aging Content - Banner Drupal: Implement Full width banner content notification email #15506](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15506)
+    - [Aging Content - Banners Change management: Aging banner content notifications #15653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15653)
+    - 
+  
 
 ---
 
