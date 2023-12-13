@@ -80,7 +80,7 @@
 
 ### More detailed diagram
 
-![Diagram](./assets/sm%20exchange.v4.drawio.png)
+![Diagram](./assets/sm%20exchange.v5.drawio.png)
 
 ### Notes
 
