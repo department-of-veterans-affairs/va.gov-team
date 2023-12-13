@@ -76,7 +76,6 @@ ________________________________________________________________________________
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase Usage of PCI**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
-     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
      - **Sub Goal: Migrate Sktech Files to Figma**
