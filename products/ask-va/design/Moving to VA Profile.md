@@ -1,6 +1,6 @@
 # Moving to VA Profile
 
-Last updated by @tygindraux on November 7, 2023
+Last updated by @beckyphung on December 13, 2023
 
 This document outlines how the move to VA Profile from Ask VA (AVA) Profile will impact submitters.
 
@@ -37,6 +37,11 @@ These examples demonstrate the similarity, from the submitter's perspective.
 #### How their journey changes
 In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. These fields will still be pre-filled from AVA Profile:
 
+##### Business phone and email
+In the new Ask VA flow, this is how we will determine if a question is a business inquiry:
+- What's your question about == Someone else's VA benefits
+- What's your relationship to the Veteran? == I’m connected to the Veteran through my work (for example, as a School Certifying Official or fiduciary)
+
 - Business phone
   - There is only one phone field in the Ask VA flow.
   - If the question is a business inquiry, then AVA Profile will pre-fill the front-end Mobile phone number field with the back-end Business phone field
@@ -45,6 +50,8 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
   - There is only one email field in the Ask VA flow.
   - If the question is a business inquiry, then AVA Profile will pre-fill the front-end Email address field with the back-end Business phone field
   - Else, VA Profile will pre-fill the Email address field
+
+##### Other fields
 - Suffix
 - Pronouns
 - School State
