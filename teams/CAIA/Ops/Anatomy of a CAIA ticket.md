@@ -41,7 +41,7 @@ The title section contains the name of the ticket with the following naming conv
 
 The ticket title also conatains the following ticket information
 
-- Ticket Status - See in the Custom Field Section Below
+- Ticket Status - See in the [Custom Field Section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section) Below
 - Number of tasks completed and total number of tasks
 - Who opened the ticket and when
 
