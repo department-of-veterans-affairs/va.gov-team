@@ -144,7 +144,7 @@ Once on the _Personal health care contacts_ page participants stated,
 ![Next of kin info](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/e2dc3250-e3a9-4a83-b039-1478a547818d)
 
 ---
-### 5) 5. Participants wanted a way to edit both _Medical emergency contact_ and _Next of kin contact_ information on the _Personal health care contacts_ page.
+### 5) Participants wanted a way to edit both _Medical emergency contact_ and _Next of kin contact_ information on the _Personal health care contacts_ page.
 
 All 9 participants wanted functionality to edit and add contacts on the page.
 
