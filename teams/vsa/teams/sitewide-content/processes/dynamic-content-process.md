@@ -1,7 +1,17 @@
 # Dynamic content in Drupal: Implementation and removal process
 
 ## Goal
-To allow product teams to feature dynamic content as needed for UAT testing and staged rollouts. Then to move content back into Drupal once a product team has completed UAT testing/staged rollout. This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows the sitewide content, accessibility, and IA team to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.
+To allow product teams to feature dynamic content as needed for user acceptance testing (UAT) and staged rollouts. Then to move content back into Drupal once a product team has completed UAT testing/staged rollout. This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows the sitewide content, accessibility, and IA team to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.
+
+## Relevant terms
+
+**Dynamic content:** Content that changes depending on the user's state or a feature toggle. We talk about "dynamic content" in relation to "static content," which is the default type of content in Drupal. 
+
+**React widget:** Content that is dynamic. Developers create a widget in React and provide a code to the CAIA team. 
+
+**Feature toggle** or **flipper:** A feature that the product team uses to control how the dynamic content is displayed. 
+
+
 
 ## How the sitewide content, accessibility, and IA team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
 
