@@ -16,7 +16,7 @@
 vets-api/
 The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
 
-### `vets-api` & `vets-api-mockdata` Repositories
+### Local `vets-api` & `vets-api-mockdata` Repositories
 
 In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 
@@ -26,7 +26,7 @@ In order to successfully develop against a local instance of Sign in Service, [v
 
 In order to make use of the Sign in Service clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
 
-When registering a Client Config for a mobile or API integration with SiS, set the following attributes:
+When registering a Client Config for a mobile or API integration with SiS, the following attributes as so:
 
 - `authentication`: 'api'
 - `anti_csrf`: `false`
@@ -46,7 +46,7 @@ When registering a Client Config for a mobile or API integration with SiS, set t
 
 ## Sign in Service Public Routes
 
-The Sign in Service routes necessary for a mobile/API integration are listed below. Routes that are authenticated require a valid SiS `access_token` passed through Bearer Auth. Refresh token authenticated routes requires a `refresh_token` request parameter.
+The Sign in Service routes necessary for an PI integration are listed below. Routes that are authenticated require a valid SiS `access_token` passed through Bearer Auth. Refresh token authenticated routes requires a `refresh_token` request parameter.
 
 ### GET Routes
 
@@ -102,28 +102,53 @@ The Sign in Service routes necessary for a mobile/API integration are listed bel
     - response: `"data": { user_data }`
 8. Client uses the refresh token to get an new tokens (when access token reaches expiry) by querying the `/refresh` endpoint. New tokens are returned in a JSON payload identical to those returned from the `/token` endpoint.
 
-## Parameters
+## Parameters & Return Values
 
-| Name                  | Description                                                                                                                                      | Value Type |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| client_id           | partner identifier, for API auth use `vamobile`, `vamobile_test`, or `sample_client_api` | String     |
-| code_challenge_method | Client specified, most common value is `S256`                                                                                                    | String     |
-| oauth                 | MUST be `true`, used in backend                                                                                                                  | Boolean    |
-| CSP                   | Values can be: `logingov`, `dslogon`, `mhv`, `idme`. All of which will be IAL2 or LOA3 calls, no LOA1 or IAL1 users will be returned to vamobile | String     |
-| code_challenge        | Value created by vamobile client and passed in param to unified sign in page                                                                     | Base64url  |
-| grant_type            | `authorization_code` , only value allowed at this time                                                                                           | String     |
-| authentication         | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access token                                                                                                          | String     |
-| code_verifier         | Value created, used to create the client's `code_challenge`, and stored by client                                                                                                             | String     |
-| access_token          | Value returned by /token endpoint                                                                                                                | String     |
-| refresh_token         | Value returned by /token endpoint                                                                                                                | String     |
-| user_uuid             | Value returned from vets-api that maps the user from the usermodel to the current session                                                        | String     |
-| ICN                   | User identifier from MPI                                                                                                                         | Int        |
+| Name | Description | Value Type | Example Values |
+| --- | --- | --- | --- |
+| acr | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
+| authentication         | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access token | String | `Bearer eyJhbGciOiJSUzI1NiJ9...` |
+| client_id | A unique name identifying your ClientConfig. | String | `sample_client_api` |
+| code | Authentication code provided by vets-api to be exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
+| code_challenge | Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
+| code_challenge_method | Client specified, most common value is S256 | String | `S256` |
+| code_verifier | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
+| grant_type |  Specifies authentication type, `authorization_code` is required for PKCE auth | String | `authorization_code` |
+| vagov_access_token | Encoded token returned by `/token` endpoint | String | `eyJhbGciOiJSUzI1NiJ9...` |
+| vagov_refresh_token | Encoded token returned by `/token` endpoint, must be URI-encoded when passed as URL parameter. | String | `"v1:insecure+data+A6ZXlKMWMyVnlYM1Yx...` |
+| type | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
+| user_uuid | Value returned from vets-api that maps the user from the user model to the current session | String | `ac899729-5de1-4968-973f-b9dc896f6b03`
 
 ## Service Descriptions
 
+### Access Token JWT
+
+- Access token is a JWT encoded and signed with a private key stored on vets-api
+  - The public key associated with this can be found at `https://staging-api.va.gov/sign_in/openid_connect/certs`
+- API access_token expiration time must be `30.minutes`
+- Access token stores the following fields:
+  - `iss`: issuer of the token, `va.gov sign in`
+  - `aud`: token audience, derived from `ClientConfig`
+  - `client_id`: the client's string identifier
+  - `jti`: unique identifier for the JWT
+  - `sub`: subject of token, vets-api `user_uuid`
+  - `exp`: the expiry time of the token
+  - `iat`: the creation time of the token
+  - `session_handle`: the handle of the session the access token is connected to
+  - `refresh_token_hash`: a hash tying the access token to the refresh token that it is connected to
+  - `parent_refresh_token_hash`: the refresh_token_hash of the current refresh token's parent, if one exists
+  - `anti_csrf_token`: the anti-CSRF token string that corresponds to the session's anti-CSRF token (not used in API auth)
+  - `last_regeneration_time`: the time that the session was most recently refreshed
+  - `version`: the version of SiS that the access token was generated with
+  - `user_attributes`: optional user attributes that can be included for client authentication purposes
+
+### Client Configuration
+
+- Specifies individual client configuration, stored in the vets-api database and used to validate client request parameters and create tokens. More information can be found in the [Client Configuration](../configuration/client_config.md) page.
+
 ### Code Verifier / Code Challenge
 
-- Code verifier is a random string value
+- Code verifier is a random string value generated and held by the client.
   - `code_verifier = '5787d673fb784c90f0e309883241803d'`
 - Code challenge is a hashed urlsafe_encoded value from code_verifier:
 
@@ -134,89 +159,15 @@ The Sign in Service routes necessary for a mobile/API integration are listed bel
   => "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="
   ```
 
-### Access Token JWT
+- Clients should generate both values, pass the code *challenge* method (as well as code challenge method - `S256`) during `/authorize`, then the code *verifier* along with their received authorization code during `/token`.
 
-- Access token is a JWT encoded and signed with a private key stored on vets-api
-  - Eventually the public key associated with this will be published in a well known configuration
-- Access token stores the following fields:
-  - Iss
-  - aud
-  - Client_id
-  - Jti
-  - Sub
-  - Exp
-  - Iat
-  - Session_handle
-  - Refresh_token_hash
-  - Parent_refresh_token_hash
-  - Anti_csrf_token
-  - Last_regeneration_time
-  - version
-
-### Opaque Refresh Token
+### Refresh Token
 
 - Refresh token is encrypted and stored as an opaque string object for client
   - Values stored in refresh token are only relevant for internal sign in service behavior
-
-### Token Expiration
-
-- `Access_token` = 5 minutes
-- `Refresh_token` = 30 minutes
-
-### Anti CSRF Token
-
-- Typically this must be used for /refresh calls, and must match the anti_csrf_token given in the latest /token endpoint call, or latest /refresh call
-- Currently this is disabled, this can be safely ignored
-
-### User Info/Introspect Endpoint
-
-- The introspection endpoint is used to request user data. The introspection endpoint expects the use of the access token to get the user information. The data that is returned is a json formatted string.
-
-``` json
-{
-  "data": {
-    "id": "",
-    "type": "users",
-    "attributes": {
-      "uuid": "876f0f36-6b12-4273-babe-12144eaa2d57",
-      "first_name": "FAKEY",
-      "middle_name": null,
-      "last_name": "MCFAKERSON",
-      "birth_date": "1938-10-06",
-      "email": "faker.fake@fake.com",
-      "gender": "M",
-      "ssn": "123456789",
-      "birls_id": null,
-      "authn_context": "logingov",
-      "icn": "1012852978V019884",
-      "edipi": "1320002080",
-      "active_mhv_ids": ["12210827", "123456"],
-      "sec_id": null,
-      "vet360_id": null,
-      "participant_id": "600152407",
-      "cerner_id": null,
-      "cerner_facility_ids": [],
-      "vha_facility_ids": ["200MH", "989", "360", "200MHS", "648"],
-      "id_theft_flag": false,
-      "verified": true,
-      "access_token_ttl": 300
-    }
-  }
-}
-```
-
-## Revoke All Endpoint
-
-- This endpoint has not yet been implemented to take any action (it will not logout all endpoints) as of 9/28/22. We have the item on the roadmap with the current restriction around how this will feature will be presented to the user.
-- This endpoint expects a valid access token from the user to be present when calling the `revoke_all` endpoint. This function will allow a user to logout of all sessions currently associated with the logged in user according to the valid access token being passed into the request. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke_all.md).
-
-## Revocation Endpoint
-
-- This endpoint will allow a user to logout of the current session, not impacting other sessions for the same user on another device. The function should remove the access and refresh tokens from the endpoint and invalidate the refresh token on the backend. More information about how the endpoint works can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/revoke.md).
+- API refresh_token expiration time must be `45.days`
 
 ## Logging and Monitoring
 
-The following links will provide information about the SiS.
-
-- Applications logs related to the sign in service in [Datadog](https://vagov.ddog-gov.com/dashboard/3di-esj-7wy/identity-log-queries?index=%2A&tpl_var_deployment_env%5B0%5D=vagov-staging&from_ts=1664276154825&to_ts=1664290554825&live=true) (includes a few other identity related logs but provides examples of queries that can be run for SiS related information)
-- Sign in service [errors in Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/?groupStatsPeriod=auto&project=4&project=3&query=is%3Aunresolved+assigned%3A%23vsp-identity+controller_name%3Asign_in&statsPeriod=30d)
+- [Sign in service errors in Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=staging&project=3&query=is%3Aunresolved+%22signincontroller%22&statsPeriod=14d)
+- Metrics for Sign in Service in both production and staging environments can be found on the [VSP Identity Monitor Dashboard](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vsp-identity-monitor-dashboard)

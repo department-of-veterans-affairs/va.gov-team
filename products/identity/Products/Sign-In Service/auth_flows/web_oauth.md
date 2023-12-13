@@ -19,13 +19,13 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 
 In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 
-`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
+`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sur e you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Client Config
 
 In order to make use of the Sign in Service clients must first [register a `Client Configuration`](../configuration/client_config.md).
 
-When registering a Client Config for a web or cookie integration with SiS, set the following attributes:
+When registering a Client Config for a web or cookie integration with SiS, the following attributes as so:
 
 - `authentication`: 'cookie'
 - `anti_csrf`: `true`
@@ -46,7 +46,7 @@ When registering a Client Config for a web or cookie integration with SiS, set t
 
 ## Sign in Service Public Routes
 
-The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true`. Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
+The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true` for web clients that wish to use the [Unified Sign In Page](../../Unified%20Sign%20In%20Pages/README.md). Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
 
 ### GET Routes
 
@@ -109,7 +109,7 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 | Name | Description | Value Type | Example Values |
 | --- | --- | --- | --- |
 | acr | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
-| client_id | A unique name identifying your ClientConfig. | String | `vaweb`, `vamock`, `sample_client_web` |
+| client_id | A unique name identifying your ClientConfig. | String | `sample_client_web` |
 | code | Authentication code provided by vets-api to be exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
 | code_challenge | 	Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | code_challenge_method | Client specified, most common value is S256 | String | `S256` |
@@ -120,14 +120,14 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 | vagov_info_token | URL-encoded token containing access_token & refresh_token expirations | String | `%7B%22access_token_expiration%22%3A%222023-12-12T17%3A51%3A31.988Z%22%2C%22refresh_token_expiration%22%3A%222023-12-12T18%3A16%3A31.965Z%22%7D` |
 | vagov_refresh_token | Encoded token returned by `/token` endpoint, must be URI-encoded when passed as URL parameter. | String | `"v1:insecure+data+A6ZXlKMWMyVnlYM1Yx...` |
 | type | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
-| user_uuid | Value returned from vets-api that maps the user from the usermodel to the current session | String | `ac899729-5de1-4968-973f-b9dc896f6b03`
+| user_uuid | Value returned from vets-api that maps the user from the user model to the current session | String | `ac899729-5de1-4968-973f-b9dc896f6b03`
 
 ## Service Descriptions
 
 ### Access Token JWT
 
 - Access token is a JWT encoded and signed with a private key stored on vets-api
-  - The public key associated with this can be found at `https://dev-api.va.gov/sign_in/openid_connect/certs`
+  - The public key associated with this can be found at `https://staging-api.va.gov/sign_in/openid_connect/certs`
 - Web/Cookie access_token expiration time must be `5.minutes`
 - Access token stores the following fields:
   - `iss`: issuer of the token, `va.gov sign in`
@@ -148,6 +148,10 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 ### Anti CSRF Token
 
 - Optional additional protection for `/refresh` and `/revoke` calls to prevent CSRF attacks, this must match the anti_csrf_token given in the latest `/token` endpoint call or latest `/refresh` call
+
+### Client Configuration
+
+- Specifies individual client configuration, stored in the vets-api database and used to validate client request parameters and create tokens. More information can be found in the [Client Configuration](../configuration/client_config.md) page.
 
 ### Code Verifier / Code Challenge
 
