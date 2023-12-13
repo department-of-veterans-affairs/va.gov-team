@@ -88,7 +88,7 @@ In Step 4, when we pull from VA Profile, there are certain fields that don't exi
 |Home address: Zip code (*Required)|Zip Code|
 |Home phone number (*Required)||
 |Extension (6 digits maximum)||
-|Work phone number (U.S. numbers only) (*Required)|Business email|
+|Work phone number (U.S. numbers only) (*Required)|Business phone|
 |Extension (6 digits maximum)||
 |Mobile phone number (U.S. numbers only) (*Required)|Personal Phone|
 |Extension (6 digits maximum)||
