@@ -1,5 +1,5 @@
 # Ask VA Phase 1 - Product Outline
-Last updated by @beckyphung: October 26, 2023
+Last updated by @beckyphung on December 13, 2023
 
 **Jump to:**
 - [Overview](#overview)
@@ -57,10 +57,10 @@ As a Veteran
 
 AVA Dashboard
 As an authenticated submitter
->I am not able to see the status of my submitted inquiries and manage my replies.\
+>I am not able to see the status of my submitted inquiries and manage my replies.
 
 ### Desired Business Objectives
-Our updates for Phase 1 will bring the current Ask VA up to VA.gov design, content, and accessibility standards and sunset the existing front-end portal of AVA after a sufficient transition period of around 6 months.
+Our updates for Phase 1 will bring the current Ask VA up to VA.gov design, content, and accessibility standards and sunset the existing front-end portal of AVA after a sufficient transition period.
 
 ## Measuring Success
 
