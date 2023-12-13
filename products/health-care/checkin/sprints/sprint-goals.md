@@ -1,7 +1,10 @@
 # SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
-__________________________________________________________________________________________________________________________________________________________
+
+<details>
+<summary>FUTURE SPRINT - 12/27</summary>
+______________________________________________________________________________________________________________________________________________________
 
 ## 12/27/2023 - 1/9/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
@@ -65,10 +68,10 @@ ________________________________________________________________________________
         - 🟩 [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
 
 ------- END FUTURE / TENTATIVE ------
+</details>
+_____________________________________________________________________________________________________________________________________________________
 
-__________________________________________________________________________________________________________________________________________________________
-
-## 12/13/2023 - 12/26/2023  ------- FUTURE / TENTATIVE ------
+## 12/13/2023 - 12/26/2023 
 #### SPRINT GOALS
  - **GOAL: Support Production**
  - **GOAL: Make Travel Claims Easier**
@@ -107,7 +110,7 @@ ________________________________________________________________________________
        - 🟩 [[Analytics] [FE] Append GA event with a 45MR param in check in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71440)
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71205)
-- **GOAL: Address Tech Debt**.gov-team/issues/71772)
+- **GOAL: Address Tech Debt**
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
     - **Sub Goal: Migrate Sktech Files to Figma**
         - 🟥 [[UX] Read through platform documentation on Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71698)
@@ -115,8 +118,6 @@ ________________________________________________________________________________
        - 🟥 [[UX][Content] AUDIT: Audit production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70673)
     - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
         - 🟥 [[Design] Switch body and links to v3 in Production file and Unified Check In file on Design Page (and symbols)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70661)
-
-------- END FUTURE / TENTATIVE ------
 
 __________________________________________________________________________________________________________________________________________________________
 
