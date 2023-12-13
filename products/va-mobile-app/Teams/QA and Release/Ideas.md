@@ -21,6 +21,7 @@
 | New ticket templates for items Mobile team doesn't do a great job remember Feature flag (depending on how implementing & releasing), Maintenance windows, Availability framework, Analytics (metrics, audiences, etc), App-review-triggering action, Updating demo mode |  Ticket idea for the future — there are a number of things we need to think about (and often code, but sometimes it doesn’t apply) for any given epic and we’re not great about remembering them.It’d be great to have them in the template so Product (or anyone else in the feature team) doesn’t need to remember them.  | | |
 | Improve QA sizing | Past convos forced QA to put sizing in the comments. Revisit to see if this is still sufficient | 
 | Should QA have a standing meeting with different disciplines | Ability to improve relationships and discuss cross discipline improvements / ideas | | 
+| Determine a process /strategy to handle App store required updates (submit [new policy declaration](https://adhoc.slack.com/archives/C0212B872MT/p1701981196387319) for the app and other updates needed to continue using the app store | Tim Wright its a one-off thing they did however heard from others that this is normal. Need to identify what updates Mobile has to make in order to use the App store and a process around it | | 
 
 
 | Closed items | Resolution | Date |
