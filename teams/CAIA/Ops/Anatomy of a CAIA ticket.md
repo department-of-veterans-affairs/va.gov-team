@@ -19,6 +19,8 @@
 This document is designed to detail how to fill out and create a CAIA ticket ensuring all the custom filed data is correctly entered.
 It also details the steps required when closing out a ticket.
 
+For details of the CAIA ticket process itself, please refer to the following document - [CAIA-Ticket Prcocess](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-Ticket-Processes.md)
+
 # Ticket Anatomy
 ## Ticket Types
 There are 2 main ticket's that CAIA will use in it's pipeline:
