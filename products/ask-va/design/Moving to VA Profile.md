@@ -33,7 +33,7 @@ These examples demonstrate the similarity, from the submitter's perspective.
     - Fields in both VA Profile and AVA Profile - Submitter's information is pre-filled from VA Profile
        - Submitter goes to their VA.gov profile to makes any changes to information that was pre-filled (for example, they have a new phone number), saves them and returns to the form.
     - Fields that do NOT exist in VA Profile and exist in AVA Profile - Submitter's information is pre-filled from AVA Profile
-       - Submitter makes any changes to information that was pre-filled within the form (for example, they have a new phone number). 
+       - Submitter makes any changes within the form to pre-filled information (for example, they have a new phone number). 
 7. Submitter fills in fields that were not pre-filled.
 8. Submitter sends inquiry.
 
