@@ -95,8 +95,6 @@ ________________________________________________________________________________
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**   
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
-        - 🟥 [[Research]Conduct Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65416)
-            - Rolled over from last sprint
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65423)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
@@ -159,7 +157,7 @@ ________________________________________________________________________________
        - ✔️ ❗ 🟥 [[UX][Analytics] Add widget in GA Dashboard to pull in button and link selects on Review Page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70484)
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**
       - ✔️ 🟥 Waiting for content feedback from CAIA - Implement feedback from CAIA to Sketch and CodePen (should have by end of week Nov 27) (Create ticket, if needed)
-      - 🚧 🟥 [[Research]Conduct Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65416)  
+      - ✔️ 🟥 [[Research]Conduct Research Study](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/65416)  
   - **Sub Goal: [Cross-Product Discovery - Complete Multiple Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70700)**
       - ✔️ 🟥 [[UX] [Discovery] Identify a list of scenarios where Veterans could have >1 task to complete in a finite amount of time](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/70695)
 - **GOAL: Increase Usage of PCI**         
