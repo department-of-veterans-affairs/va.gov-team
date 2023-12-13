@@ -150,7 +150,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: 12/18/2023-12/31/2023
 
 ### Length of sessions
 Each research session will be 45-minutes long with a buffer time of 15 mins between sessions. We’d like a maximum of two sessions per day.
@@ -158,6 +158,15 @@ Each research session will be 45-minutes long with a buffer time of 15 mins betw
 For sessions with AT, sessions should be scheduled for 75 minutes with a buffer of 15 minutes between sessions and a maximum of two sessions per day. 
 
 ### Availability
+12/18 - 8am - 11am, 12pm - 1:30pm, 2pm - 530pm
+12/19 - 8am - 1:30pm, 2pm - 5:30pm
+12/20 - 8am - 1pm, 2pm - 3:30pm, 4pm - 5:30pm
+12/21 - 8am - 1pm, 1:30pm - 5:30pm
+12/22 - 10am - 1pm, 2pm - 5:30pm
+12/27 - 8am - 3:30pm, 4pm - 5:30pm
+12/28 - 8am - 1pm, 1:30pm - 5:30pm
+12/29 - 8am - 1pm, 2pm - 5:30pm
+
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
