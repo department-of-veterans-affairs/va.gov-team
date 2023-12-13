@@ -47,9 +47,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Assumptions
 
-- Full-width banners are to be used for emergencies or actions a veteran needs to take; they should never be used for (month-long) celebrations or general news. 
+- Full-width banners are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published.
+- They should never be used for (month-long) celebrations or general news. 
 - They should only display for seven (7) days. If for some reason the time it's being displayed needs to extend past seven (7) days, the editor needs to edit the content, at which time the 'clock' is reset and it will be good for another seven days. They must add a note stating why they are extending it.
-- If they aren't going to extend it, they need to archive it.
+- If the editor isn't going to extend it, they need to archive it.
 
 ## Solution Approach
 - We are building an An MVP will be built that extends the current notification functionality, which will enable the future iterations of auto-archiving full-width banners, as well as implementing notifications for content blocks.
@@ -64,10 +65,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor sees a date range when creating new full-width banner content | AS a content editor who is creating a content type of Full-width banner, I WILL see From/To date ranges required which will control the display of the banner, AND I will be able to edit the 'From' date, AND the To date will then default to seven (7) days in the future, AND will not be editable during creation of the the content | The from/to date fields will be required. |
+| Content Editor sees a date range when creating new full-width banner content | AS a content editor who is creating a content type of Full-width banner, I WILL see From/To date ranges required which will control the display of the banner, AND I will be able to edit the 'From' date, AND the To date will then default to seven (7) days in the future, AND will not be editable during creation of the the content | The from/to date fields will be required. The "From" date will be editable, but the "To" (end) date will not be editable. |
 | Content Editor receives email three (3) days prior to end date | AS a content editor who created a full-width banner content type, I WILL receive an email alert three (3) days prior to the end date on (of the seven day date range), SO THAT I know I need to either need to (1) edit the content, thus resetting the seven day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 0001 the morning of the end date | AS a content editor who created a full-width banner content type, I WILL receive an email alert at 0001 the day of the end date, SO THAT I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. |
-| Content Editor receives email at 2359 the night of the end date alerting them their content was archived | AS a content editor who created a full-width banner content type, I WILL receive an email alert three at 2359 the night of the end date alerting me that my content was auto-archived, SO THAT I know it is no longer displaying, and I can take whatever appropriate action at that time. | Note that although we will be implementing this notification, we don't want it to actually fire or be sent until auto-archiving is implemented (post-MVP). |
+| Content Editor receives email at 12:01AM (0001) the morning of the end date | AS a content editor who created a full-width banner content type, I WILL receive an email reminding me of the end date at 12:01AM (0001) the day of the end date, SO THAT I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
+| Content Editor receives email at 11:59PM (2359) the night of the end date alerting them their content was archived | AS a content editor who created a full-width banner content type, I WILL receive an email alert at 2359 the night of the end date alerting me that my content was auto-archived, SO THAT I know it is no longer displaying, and I can take whatever appropriate action at that time. | Note that although we will be implementing this notification, we don't want it to actually fire or be sent until auto-archiving is implemented (post-MVP). TBD email content. |
+| Content Editor edits the banner with the intent of extending the published date range | AS a content editor who created a full-width banner content type, I WILL edit the banner, SO THAT the published date range is reset to seven days, e.g. the start date is 'today', and end date is seven days later, inclusive. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
 
 
 
