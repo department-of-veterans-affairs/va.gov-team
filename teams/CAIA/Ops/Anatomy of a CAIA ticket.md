@@ -87,7 +87,7 @@ This section contains filed data that is important for filyering and tracking is
 - **Closed Date** - the date the ticket was closed - when closing a ticket, be sure to fill out this field!
 - **Target date** - when evalluating a ticket in refinement, if there is a Congressionally mandated completion date, for example, the date that CAIA needs to complete this work is added here. Otherwise it can be used as a general "we'd like to get this work done by this date' field.
 - **Quick fix** - select "Yes" if this work can be completed quickly - i.e. in a day or less
--** Estimate** - the level of effort required for this ticket - usually only used on Task tickets, rather than EPICS. Is determined using basic "T-Shirt sizes" scrum estimating technique using 2, 4, 8, 12, or 16 to indicate the amount of work needed.
+- **Estimate** - the level of effort required for this ticket - usually only used on Task tickets, rather than EPICS. Is determined using basic "T-Shirt sizes" scrum estimating technique using 2, 4, 8, 12, or 16 to indicate the amount of work needed.
 - **Actual** - when closing a ticket, add the actual amount of work needed to complete the work, based on the same T-short scal as the estimate (above).
 - **Priority** - used to indicate how urgent a piece of work is, based on the following scale
   - **Urgent** - needs to be prioritzed above all other work and completed asap.
@@ -97,12 +97,12 @@ This section contains filed data that is important for filyering and tracking is
   - **Low** - typically added to items in backlog that are not concidered high enough priority to be currently worked on
   - **Chipper** - special status for work that is generally not a high priority item but that can be worked on as time and capacity allows. Generally long term initiatives and items with no fixed deadline
   - **Icebox** - items cannot be closed but all work has ceased and is prioritized below 'low' priority. These items need to be checked periodically and are typically items that have not been worked on for 6 months or longer or are indefintely blocked.
-  - Sprint - Used for planning when the work in this ticket should be scheduled.
-  - Blocked by - used to indicate which OCTO crew is blocking the work
-  - Reason Blocked - general text field to  add detail to the reason the ticket is blocked
-  - Copy edit ddate - typically used by content to indicate when copy edit work needs to be completed by
-  - Originator - shows how the ticket entered the CAIA pipeline - i.e. Created by CAIA, a direct OCTO request, Inatke form by team etc
-  - Last Checked - used to show the last time a ticket was checked, typically in backlog or blocked to ensure tickets do not go stale in the pipeline
+- **Sprint** - Used for planning when the work in this ticket should be scheduled.
+- **Blocked by** - used to indicate which OCTO crew is blocking the work
+- **Reason Blocked** - general text field to  add detail to the reason the ticket is blocked
+- **Copy edit date** - typically used by content to indicate when copy edit work needs to be completed by
+- **Originator** - shows how the ticket entered the CAIA pipeline - i.e. Created by CAIA, a direct OCTO request, Inatke form by team etc
+- **Last Checked** - used to show the last time a ticket was checked, typically in backlog or blocked to ensure tickets do not go stale in the pipeline
 
 
 
