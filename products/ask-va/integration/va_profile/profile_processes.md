@@ -1,22 +1,23 @@
-# Profile Processes
+# Profile Processes for Ask VA
+This document outlines how and which fields in the Ask VA (AVA) form prefill from either the existing AVA Profile or VA Profile.
 
 ## Description
-When an authenticated user visits the AVA Form, some fields pre-populate.  
+When an authenticated user visits the AVA form, some fields will become prefilled.  
 
-The data for a field can come from either the VA Profile or AVA Profile. VA Profile is considered the primary source of profile information, so any field with data in both VA Profile and AVA Profile, or VA Profile alone, will use the data from VA Profile. However, if the field only has data in the AVA Profile, the AVA Form will use that data instead.
+The data for a field can come from either VA Profile or AVA Profile. VA Profile is considered the primary source of profile information. Any field with data in VA Profile or both VA Profile and AVA Profile will use the data from VA Profile. However, if the field only has data in AVA Profile, the AVA form will use that data instead.
 
-No information can be pre-populated for unauthenticated users of the AVA Form.
+No information can be prefilled for unauthenticated users of the AVA Form.
 
-## Benefits of pre-population
-* Reduces friction between user and submitting their inquiry
-* VA Profile Benefits:
-  *  A user can submit a form in VA.gov and expect the same default information across the system
-  *  Updates to profile happen explicitly.
+## Benefits of prefill
+* Reduces friction between the user and submitting their inquiry
+* VA Profile benefits:
+  *  The user can submit a form in VA.gov and expect the same default information across the system
+  *  Updates to profile happen explicitly
       * They can change things on a per-submission basis without having to worry about changing their default values.
-  *  User has a single place to record their preferences.
-* AVA Profile Benefits:
-  * Information specific to AskVA can be stored.
-  * Can be updated implicitly with each form submission.
+  *  The User has a single place to record their preferences
+* AVA Profile benefits:
+  * Information specific to Ask VA can be stored
+  * Can be updated implicitly with each form submission
  
 ## Flows
 ### Authenticated Form Flow
