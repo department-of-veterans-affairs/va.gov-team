@@ -1,6 +1,10 @@
 # Profile Processes
 
 ## Description
+When an authenticated user visits the AVA Form, some fields pre-populate.  
+
+The data for a field can come from either VA Profile or AVA Profile. VA Profile is considered to be the main source of profile information, so any field that has data in both VA Profile and AVA Profile will use the data from VA Profile. However, if the field only has data in AVA Profile, that data will be used instead.
+
 
 ## Login Flow
 ```mermaid
@@ -30,7 +34,15 @@ flowchart TB
     AVA_Dashboard-->|user identifier|AVA_BE-Retrieve-Inquiries
     AVA_BE-Retrieve-Inquiries-->|Inquiry Data that includes distinction for business inquiries|AVA_Dashboard
 ```
-## Notes
-* Current system allows for directly updating profile.
-    * If we are using VA Profile, maybe we can create/update a profile when the user submits their first inquiry.  This will allow us to collect the information we need to create a profile and allow the user to update their profile information as needed.
-    * Alternatively, we redirect the user to VA Profile if they want to update their profile information.
+
+## Pre-Populated Field Sourcing
+| Pre-Populated Field | Source | Source Field |
+|:--|:--|:--|
+| Suffix | AVA Profile | Suffix |
+| Pronouns | AVA Profile | Pronouns I use |
+| School State | AVA Profile | School State |
+| School Facility | AVA Profile | School Facility Code |
+| Service Number | AVA Profile | Service Number |
+| Business phone | AVA Profile | Business Phone |
+| Business email | AVA Profile | Business Email |
+| Suffix | AVA Profile | Suffix |
