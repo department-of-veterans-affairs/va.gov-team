@@ -1,12 +1,16 @@
 # Form 526 Document Uploads: Uploads Success Polling
 
-_(IN PROGRESS: Solution Architecture to follow; deprioritizing this until later in the week of 12/11/23)_
+**TLDR beyond just having the ability to track the status of document uploads as they make their way further through the system, we need to answer the question of what that status means to us and what we would do with that information. Other systems upstream have retries in place and their own process for handling issues. On our end perhaps the goal should be making the Veteran aware there are issues upstream holding up their documents and therefore their claim**
 
 ### Open Questions
-- [ ] Does the document have to make it to Claims Evidence AND BGS before the document ends up in the eFolder?
+- [ ] ~~Does the document have to make it to Claims Evidence AND BGS before the document ends up in the eFolder?~~ No - when Claims Evidence succeeds it ends up in the eFolder, only then can they pass that on to BGS.
+- [ ] What happens if it ends up in the eFolder but doesn't make it to BGS? Does the claim get stuck/lost?
 - [ ] Do Claims Evidence and BGS also have a point of failure after they receive the document? How far do we want to look ahead? 
 - [ ] Now that we can get this information, what do we do with it? Send an alert if there is a failure? Monitor in DataDog? Let the veteran know there was an issue further downstream and we are working on it?
+- [ ] Ask Lighthouse for more detail on what could go wrong at the Claims Evidence and BGS stage. Server failure, what else?
 - [X] Confirm the "uploads/status" endpoint on Lighthouse is in fact a POST request (it is document that way but seems like it should be a GET request)
+- [ ] Will Lighthouse "cache" or save completed document records in their system after they have succesfully made it all the way through? Or will they eventually delete them because they will pile up over time.
+- [ ] Do we want to keep our record of the submission status?
 
 ## Overview
 
@@ -25,7 +29,7 @@ In the future, thse documents will be submitted to Lighthouse instead, following
 
 ## The Problem
 
-According to Lighthouse, a "success" response from an upload to the Benefits Documents API does _not_ indicate the document made it all the way to a veteran's eFolder and through the rest of the process. They are basically just telling us:
+According to Lighthouse, a "success" response from an upload to the new Benefits Documents API does _not_ indicate the document made it all the way to a veteran's eFolder and through the rest of the process. They are basically just telling us:
 
 1. They received the file
 2. It passed their validaiton checks (correct metadata, file not too big)
@@ -65,7 +69,7 @@ TLDR the way it works:
           }
 ```
 
-As you can see, this will give us an idea of all the follow up steps Lighthouse takes after we handoff the document to them, and where they are in the process.
+As you can see, this will give us an idea of all the follow-up steps Lighthouse takes after we handoff the document to them, and where they are in the process.
 
 ## Proposal - Vets API Solution
 
@@ -80,4 +84,12 @@ Note Lighthouse may have their own process in place for handling failures furthe
 
 ## Proposal - New Model Schema
 
-(TBD; I have some ideas for this but need to set aside time to flesh them out)
+Note, this is tailored to this document upload use case specifically, we may want a more universal solution to polling different status updates from other systems we hand off to:
+```
+Form526DocumentSubmission
+
+form_526_submission_id (fk)
+form_attachment_id (optional fk - for the user supplied documents)
+lighthouse_request_id (id Lighthouse gives us for each document uploaded)
+lighthouse_status: status for our purposes (pending, done, failed) DOES NOT MAP TO EVERY STATE IN LIGHTHOUSE RESPONSE. We may not care about each step, just whether it succeeded in making it all the way through or not.
+```
