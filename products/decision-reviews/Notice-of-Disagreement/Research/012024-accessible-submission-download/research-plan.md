@@ -114,7 +114,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
    b) No (disqualify)  
     
 4.  **Check the statement(s) that best applies to you:**  
-   a) I use screen readers (VoiceOver, Talkback, JAWS, NVDA, DolphinGuide are examples)  
+   a) I use screen readers (VoiceOver, Talkback, JAWS, NVDA, Dolphin are examples)  
    b) I use text-to speech software (Speechify or WordTalk are examples) (disqualify if they only select B)  
    c) I do not use screen readers (disqualify)  
    d) I do not use text-to speech software (disqualify)
