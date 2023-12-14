@@ -13,12 +13,12 @@
 - ✅ MHV is the source of truth for all Messaging data
 - We need to map OH data into our own model to support capabilities that are not supported by OH
 - Between the FHIR APIs and OH SM APIs we have all the data we need
-- ✅The existing MHV SM API (the one used by va.gov today) can be reused for the SM Exchange
-  - Or atleast thats the goal
-- ✅OH is sending data to an URL via a webhook in an Atom feed format
+- ✅ The existing MHV SM API (the one used by va.gov today) can be reused for the SM Exchange
+  - Or at least that's the goal
+- ✅ OH is sending data to an URL via a webhook in an Atom feed format
 - The only reason we are sending data back to OH is so that the message shows up in the OH clinician UI
 - The correct data is available through the process (example: we can get the facility information at the correct time)
-- ✅The SM Exchange and MHV and OH communicate using RESTful APIs
+- ✅ The SM Exchange and MHV and OH communicate using RESTful APIs
 
 ## Technical Measures of Success
 
@@ -30,14 +30,14 @@
 ## MVP Target
 
 - create an endpoint that can be hit with a cURL command and sends a message to OH
-- create an endpoint that can consume OH Atom feed and that can upload a message to the MHV
+- create an endpoint that can consume OH Atom feed and triggers uploading a message to the MHV store
 
 ## Unknowns to work through
 
 ###  Auth between MHV and SM Exchange
 
-- With the MHV APIs and SM Exchange being different systems, how are we going authentication? 
-- Does the Existing MHV API support system to system authencitation?
+- With the MHV APIs and SM Exchange being different systems, how are we going to perform authentication? 
+- Does the Existing MHV API support system to system authentication?
 
 ### OH ATOM Feed
 
@@ -48,17 +48,17 @@
   - This should be an extreme use case, and doesn't need to be solved this iteration
   - Does the existing MVH API (the one used by va.gov) do any duplicate message handling? Should it?
   - Ideas include:
-    - query the  MHV API with OH MessageId
+    - query the MHV API with OH MessageId
     - The MHV API does some locking/checking before inserting into the MHV datastore
 
 ### Threads Creation
 
-- For a new message when does the tread Id get created?
+- For a new message when does the thread Id get created?
   - How can get a Thread Id? 
     - MVH API? 
       - API endpoint that accepts a OH Message Id and returns a MHV Core Thread id
-    - Asking for it <- prefferred ->
-    - Sending it in with out and Core MHV handles that
+    - Asking for it <- preferred ->
+    - Sending it in without a thread Id and Core MHV handles that
 
 
 ### Historical Data
@@ -89,12 +89,12 @@
 ### Tech stack
 
 - AWS Lambdas, using JavaScript
-- Queue: Existing queu technology
+- Queue: Existing queue technology
 
 ### Notes
 
-- All communcation between the SM Exchange and MVH are RESTful API Calls
-- All communcation between the SM Exchange and OH are RESTful API Calls
+- All communication between the SM Exchange and MVH are RESTful API Calls
+- All communication between the SM Exchange and OH are RESTful API Calls
 - Using a Queue to handle the parsing and translation of messages
   - Since this will be a longer running task, a queue provides a resilient way to handle messages
   - Keeps the action of recieving a message light and fast
@@ -123,9 +123,7 @@
 
 ### MHV
 
-> Do not have docs yet
-
-- Create new Message
+- [MHV Secure Messaging ICD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/engineering/MHV_Secure_Messaging_API_Veteran_2.5.pdf) (2021, there may be a more recent version)
 
 ### Cerner
 
