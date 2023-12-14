@@ -106,6 +106,7 @@ flowchart TB
 * Change Email field from Personal Email to Business Email
 * Fill out School Facility Code, if required
 * Fill out School State, if required
+* Fill out Service Number, if required
 
 
 ## Resources
