@@ -1,6 +1,6 @@
 # Moving to VA Profile
 
-Last updated by @beckyphung on December 13, 2023
+Last updated by @beckyphung on December 14, 2023
 
 This document outlines how the move to VA Profile from Ask VA (AVA) Profile will impact submitters.
 
@@ -32,7 +32,7 @@ These examples demonstrate the similarity, from the submitter's perspective.
 2. Submitter's information is pre-filled:
     - Fields in both VA Profile and AVA Profile - Submitter's information is pre-filled from VA Profile
        - Submitter goes to their VA.gov profile to makes any changes to information that was pre-filled (for example, they have a new phone number), saves them and returns to the form.
-       - Submitter can also edit the fields within the form, which will not make updates to their VA.gov profile data. [See guidance from the VA Design System here](https://design.va.gov/components/form/prefill).
+       - Submitter can also edit most fields within the form, which will not make updates to their VA.gov profile data. [See guidance from the VA Design System here](https://design.va.gov/components/form/prefill).
     - Fields that do NOT exist in VA Profile and exist in AVA Profile - Submitter's information is pre-filled from AVA Profile
        - Submitter makes any changes within the form to pre-filled information (for example, they have a new phone number). 
 7. Submitter fills in fields that were not pre-filled.
