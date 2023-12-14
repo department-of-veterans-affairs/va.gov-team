@@ -66,8 +66,8 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor sees a date range when creating new full-width banner content | AS a content editor who is creating a content type of Full-width banner, I WILL see From/To date ranges required which will control the display of the banner, AND I will be able to edit the 'From' date, AND the To date will then default to seven (7) days in the future, AND will not be editable during creation of the the content | The from/to date fields will be required. The "From" date will be editable, but the "To" (end) date will not be editable. |
-| Content Editor receives email three (3) days prior to end date | AS a content editor who created a full-width banner content type, I WILL receive an email alert three (3) days prior to the end date on (of the seven day date range), SO THAT I know I need to either need to (1) edit the content, thus resetting the seven day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor sees a date range when creating new full-width banner content | **AS A** content editor who is creating a content type of Full-width banner, **I WILL** see Start/End date ranges required which will control the display of the banner, **AND I WILL** be able to edit the 'Start' date, **AND** the End date will then default to seven (7) days in the future, **AND** will not be editable during creation of the the content | The Start/End date fields will be required. The "Start" date will be editable, but the "End" (end) date will not be editable. |
+| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a full-width banner content type, **I WILL** receive an email alert three (3) days prior to the End date on (of the seven day date range), **SO THAT** I know I need to either need to (1) edit the content, thus resetting the seven day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
 | Content Editor receives email at 12:01AM (0001) the morning of the end date | AS a content editor who created a full-width banner content type, I WILL receive an email reminding me of the end date at 12:01AM (0001) the day of the end date, SO THAT I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
 | Content Editor receives email at 11:59PM (2359) the night of the end date alerting them their content was archived | AS a content editor who created a full-width banner content type, I WILL receive an email alert at 2359 the night of the end date alerting me that my content was auto-archived, SO THAT I know it is no longer displaying, and I can take whatever appropriate action at that time. | Note that although we will be implementing this notification, we don't want it to actually fire or be sent until auto-archiving is implemented (post-MVP). TBD email content. |
 | Content Editor edits the banner with the intent of extending the published date range | AS a content editor who created a full-width banner content type, I WILL edit the banner, SO THAT the published date range is reset to seven days, e.g. the start date is 'today', and end date is seven days later, inclusive. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
@@ -105,11 +105,13 @@ For this particular implementation, there isn’t a way to obtain metrics from G
    
 ## Screenshots
 
-### Before
+- [Figma mockups](https://www.figma.com/file/n2F9Y0QhjNoeNyQ4zv2VER/Full-Width-Banner-Alerts?type=design&node-id=0-1&mode=design&t=tHpd9W87gsWuQEB8-0)
 
-N/A - brand new product
+### Before
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/147188767/4b99e804-f350-432e-9c63-21c08186c8be)
 
 ### After
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/147188767/fafbdb0a-96e4-4317-bb3d-127ae275c950)
 
 ### Artifacts
 
