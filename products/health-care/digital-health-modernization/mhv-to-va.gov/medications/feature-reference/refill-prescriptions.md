@@ -15,11 +15,9 @@ Ability to refill prescriptions
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 - User can review a list of their prescriptions .
-- User can start the process for scheduling an appointment online.
-  - `Start scheduling` leads to the [Choose type of care page](./schedule-flow/all--type-of-care.md)
-- User can navigate to their [past appointments](./appointment-lists/past-list.md).
-- User can navigate to their [pending appointments](./appointment-lists/pending-list.md).
-
+- User can successfuly view details and see status of their medication
+- User can understand if medication is refillable/not refillable
+- User can refill all eligible medications
 **Alerts**
 - All messages to the user must provide an explanation of the issue and guidance for resolving the issue.  
 - If user is ineligible to use VAOS because they are not registered at a VA facility the [alert that user is not registered at a VA facility](#alert-that-user-is-not-registered-at-a-va-facility) displays.
