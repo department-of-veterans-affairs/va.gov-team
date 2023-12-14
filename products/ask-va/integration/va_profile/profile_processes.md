@@ -54,7 +54,7 @@ flowchart TB
     CRM-API<-->Dataverse((Data Sources))
     end
     subgraph AVA FrontEnd
-    VA.gov<-->VetsApi
+    AVA-Form<-->VetsApi
     VetsApi<-->Rediis((Rediis))
     VetsApi<-->DB((DB))
     end    
