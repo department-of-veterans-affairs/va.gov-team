@@ -6,6 +6,10 @@ labels: 'accredited-representation-management-team, bug'
 assignees: ''
 
 ---
+## Expected vs. Actual
+**Expected**: _What did you expect to happen?_
+
+**Actual**: _What actually happened?_
 
 ## Steps to Reproduce
 _Outline the steps to recreate this bug_
