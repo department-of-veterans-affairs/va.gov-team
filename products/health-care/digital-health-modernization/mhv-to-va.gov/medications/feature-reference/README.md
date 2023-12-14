@@ -10,12 +10,16 @@ Product, business, and technical documentation of [Medications](https://github.c
 | Feature | Usage | 
 |---|---|
 | [Login and access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/login-and-access.md) | Authentication and access rules. |
-| [Medications portal]() | Starting page to schedule or manage appointments |
+| [Medications landing page]() | Starting page to schedule or manage appointments |
 
 ## Refill Prescriptions
 
 | Feature | Usage | 
 |---|---|
 |[Refill prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) | Refill an existing prescription |
+|[Renewal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) | |\
+[No Refills Available]
+[View Drug Image]
+[View Tracking Information]
 
 
