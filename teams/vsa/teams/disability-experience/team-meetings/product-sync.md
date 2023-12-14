@@ -26,6 +26,7 @@
        - Dump in 15E   
    -   Addition hazard of type "Other" - Only one for MVP?
    -   Radiobutton captions in column 2 for all radio buttons
+- Shipping code with feature flag off before staging review with Governance team
 
 ### Date: Dec 07' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
