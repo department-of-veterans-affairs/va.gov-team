@@ -20,7 +20,7 @@ Education benefits and work study
 |Jacqueline Mikoley|Education: Buffalo|
 |Lisa Eaton|Education: Muskogee|
 |Kendra Stewart|Work Study|
-|Kevin White|Work Study|
+|Courtney White|Work Study|
 
 ### Engagements
 
