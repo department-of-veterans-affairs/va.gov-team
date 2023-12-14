@@ -16,4 +16,4 @@ The Collaboration Cycle is a series of touchpoints during which teams building o
 ## Touchpoints
 
 1. [Kickoff request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/collaboration-cycle/kickoff.md)
-2. Design Intent
+2. [Design Intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/collaboration-cycle/design-intent.md)
