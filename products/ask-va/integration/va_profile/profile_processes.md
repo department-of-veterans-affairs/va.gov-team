@@ -42,7 +42,6 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
 | Submitter State of School  | AVA Profile | patient.iris_schoolstate | 
 | Suffix | AVA Profile | patient.iris_suffix |
-| Service Number | AVA Profile | patient.submitter_provided_service_number |
 | Business phone | AVA Profile | patient.telephone1 |
 | Business email | AVA Profile | patient.emailaddress2 |
  
