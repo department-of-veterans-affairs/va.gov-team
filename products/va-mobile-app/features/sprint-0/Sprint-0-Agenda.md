@@ -14,11 +14,6 @@ The Sprint 0 meeting is a time to do the following:
 
 
 ## Future Sprint 0s (not yet ready)
-
-
-
-
-* After visit summary for appointments (TBD)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
@@ -41,7 +36,6 @@ The Sprint 0 meeting is a time to do the following:
 
 ## Ready to Present
 
-* [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
 * [After visit summary for appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointments/Project%20-%20After%20Visit%20Summary/Sprint0.md) (TBD)
 * [Screenshot Restriction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Screenshot%20Restriction/Sprint%200.md) (Adam)
     * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
@@ -59,6 +53,16 @@ The Sprint 0 meeting is a time to do the following:
 
 
 ## Working session notes
+
+## 12/14/23
+* [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
+   * POs would like this to be considered for Q1 2024
+   * Project expected to be part of the Global teams initiatives for consideration\
+   * Epic created [7169](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7169)
+* Had a quick discussion on Screenshot Prevention
+   * POs asked when we talk about this to have another topic to discuss ask it will likely not take the whole time based on our initial discussions
+* Mentioned to POs that the Sprint 0 meeting / process likely to change with the new team structure
+* When discussing After Visit Summary, Rachel would like a heads up as she plans to invite others to attend 
 
 ## 11/30/23
 * [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
