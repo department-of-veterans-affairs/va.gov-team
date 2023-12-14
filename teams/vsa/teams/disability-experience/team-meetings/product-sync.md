@@ -8,10 +8,24 @@
   - Approach to determine following?:
     - "We may want them to actually go both places -- to the efolder AND to central mail. But we'll need to confirm the desired behavior with 
       david and possibly OBI (office of business integration, who owns the mail portal and mail automation) before implementing."
+      **Notes:**
+      - VBA uses a contractor to reach out for private medical records(PMR)
+      - There is currently automation in place to send out for PMR
+      - Need to figure out the options/details for the desired behavior
+      - Catherine Kane(sp?) in OBI
+      - David/OCTO/OBI to make a decision
+  Document Upload migration
+      - How does polling work today?
+      - How should polling work for 526/other products
+      - Ancillary forms(4142, others?)
+      - Should 526 submission include upload of all documents? Needs discovery
+      - Do we create 781 and upload?
+        - Yes, we think - Austin  
 - Toxic Exposure Questions
    -   Additional dates for location - send them to 15 B, C, D or E?
+       - Dump in 15E   
    -   Addition hazard of type "Other" - Only one for MVP?
-
+   -   Radiobutton captions in column 2 for all radio buttons
 
 ### Date: Dec 07' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
