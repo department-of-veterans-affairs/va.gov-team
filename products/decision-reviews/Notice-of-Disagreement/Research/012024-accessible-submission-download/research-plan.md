@@ -1,10 +1,10 @@
 # DRAFT /  Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
 ## Background
-In previous studies, we found that Veterans have a desire to save a copy of their submitted forms. As the submission PDF currently exists, it is not accessible to Veterans with visual impairments that are using assistive technology. We are proposing providing an HTML page that allows Veterans who are using assistive technology to review their submission, as well as an optional download.
+In previous studies, we found that Veterans have a desire to save a copy of their submitted forms. As the submission PDF currently exists, it is not accessible to Veterans with visual impairments that are using screen readers. We are proposing providing an HTML page that allows Veterans who are using screen readers to review their submission, as well as an optional download.
 
-In this exploratory study, we seek to understand how Veterans who use assistive technology would review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
+In this exploratory study, we seek to understand how Veterans who use screen readers would review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
 
-We believe it is important to help Veterans using assistive technology to access a record of their online submissions.
+We believe it is important to help Veterans using screen readers to access a record of their online submissions.
 
 Participants will walk through a code prototype on staging.
 
@@ -31,30 +31,30 @@ This research also touches on aging and managing new needs for those that develo
 
 ## Research Goals
 What are you trying to learn from this research?
-1.  Evaluate the effectiveness and value of the accessible submitted appeal page for Veterans using assistive technology.
-2.  Understand how Veterans using assistive technology are currently accessing and storing a copy of their appeal submission.
-3.  Understand where Veterans using assistive technology expect to access records of their submitted appeals. 
+1.  Evaluate the effectiveness and value of the accessible submitted appeal page for Veterans using screen readers.
+2.  Understand how Veterans using screen readers are currently accessing and storing a copy of their appeal submission.
+3.  Understand where Veterans using screen readers expect to access records of their submitted appeals. 
 
 ### Outcome
 - We believe the results from the study will help inform accessibility best practices for our team going forward.
 
 ### Research questions
-### GOAL 1: Evaluate the effectiveness and value of the accessible submitted appeal copy page for Veterans using assistive technology.
-- Do Veterans using assistive technology know that they can review a copy of their submission through the confirmation page?
-- Do Veterans using assistive technology seek to review a copy of their submission?
+### GOAL 1: Evaluate the effectiveness and value of the accessible submitted appeal copy page for Veterans using screen readers.
+- Do Veterans using screen readers know that they can review a copy of their submission through the confirmation page?
+- Do Veterans using screen readers seek to review a copy of their submission?
 
-### GOAL 2: Understand how Veterans using assistive technology are getting copies of their submitted form.
-- How do Veterans using assistive technology access a copy of their submission?
-- How do Veterans using assistive technology save a copy of their submission?
+### GOAL 2: Understand how Veterans using screen readers are getting copies of their submitted form.
+- How do Veterans using screen readers access a copy of their submission?
+- How do Veterans using screen readers save a copy of their submission?
 
-### GOAL 3: Understand where Veterans using assistive technology expect to access records of their submitted form.
-- Where do Veterans using assistive technology expect to access a record of their submitted form?
-- What do Veterans using assistive technology want to do with a copy of their submission?
+### GOAL 3: Understand where Veterans using screen readers expect to access records of their submitted form.
+- Where do Veterans using screen readers expect to access a record of their submitted form?
+- What do Veterans using screen readers want to do with a copy of their submission?
 
 ### Hypothesis
-1. We hypothesize that the copy of the submission page will be usable by Veterans using assistive technology. They will be able to understand it and save it.
-2. We hypothesize that there is a need for Veterans, including those using assistive technology, to save a copy of their submission.
-3. We hypothesize that Veterans using assistive technology would want to return to copy of submission page at a later time.
+1. We hypothesize that the copy of the submission page will be usable by Veterans using screen readers. They will be able to understand it and save it.
+2. We hypothesize that there is a need for Veterans, including those using screen readers, to save a copy of their submission.
+3. We hypothesize that Veterans using screen readers would want to return to copy of submission page at a later time.
 
 ## Methodology
 -   Accessibility testing with a usability study approach
@@ -107,22 +107,22 @@ c) In the last 5-10 years
 d) 10 + years  
 e) My entire life
 
-3.  **Do you need to use assistive technology to use technology and the internet, such as VoiceOver on an iPhone or a Mac, TalkBack on an Android device, or JAWS on a Windows computer?**  
+3.  **Do you need to use screen readers to use technology and the internet, such as VoiceOver on an iPhone or a Mac, TalkBack on an Android device, or JAWS on a Windows computer?**  
    a) Yes  
    b) No (disqualify)  
     
 4.  **Check the statement(s) that best applies to you:**  
-a) I use assistive technology (VoiceOver, Talkback, JAWS, NVDA are examples)  
+a) I use screen readers (VoiceOver, Talkback, JAWS, NVDA are examples)  
 b) I use text-to speech software (Speechify or WordTalk are examples) (disqualify if they only select B)  
-c) I do not use assistive technology (disqualify)  
+c) I do not use screen readers (disqualify)  
 d) I do not use text-to speech software  
 
-5.  **Are you able to join the Zoom session using this assistive technology?**  
+5.  **Are you able to join the Zoom session using this screen readers?**  
 a) Yes  
 b) Yes, with some help  
 c) No (disqualify)  
 
-6.  **List the name of the assistive technology or software you will use during the session. (Fill in)**  
+6.  **List the name of the screen readers or software you will use during the session. (Fill in)**  
     
 7.  **Please check the statement) that best applies to you:**  
  a) I am very comfortable using screen readers   
@@ -193,7 +193,7 @@ Please list the people who will be serving in each role. Include the primary pho
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Eileen Chi
 -   Participant(s) for pilot test: TBD
--   Accessibility specialist (for sessions where support for assistive technology may be needed): TBD
+-   Accessibility specialist (for sessions where support for screen readers may be needed): TBD
 -   Note-takers: Ruben Sun / Eileen Chi, Sade Ragsdale  
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side)
   - David Kennedy
