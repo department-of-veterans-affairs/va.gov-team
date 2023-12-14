@@ -102,7 +102,7 @@ flowchart TB
 ```
 
 ### Pre-Defined Logic For Merging Data Only Found in AVA Profile
-* Change Phone Number field from Personal Phone to Business Phone
+* Change Mobile Phone Number field from Personal Phone to Business Phone
 * Change Email field from Personal Email to Business Email
 * Fill out School Facility Code, if required
 * Fill out School State, if required
