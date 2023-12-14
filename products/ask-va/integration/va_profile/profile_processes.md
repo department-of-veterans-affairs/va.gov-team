@@ -39,14 +39,12 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter Branch of Service  | VA Profile |  | 
 | Submitter Service Dates  | VA Profile |  | 
 | Submitter Service Number  | VA Profile |  | 
-| Submitter School Facility Code  | AVA Profile | School Facility Code | 
-| Submitter State of School  | AVA Profile | State of School | 
-| Suffix | AVA Profile | Suffix |
-| School State | AVA Profile | School State |
-| School Facility | AVA Profile | School Facility Code |
-| Service Number | AVA Profile | Service Number |
-| Business phone | AVA Profile | Business Phone |
-| Business email | AVA Profile | Business Email |
+| Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
+| Submitter State of School  | AVA Profile | patient.iris_schoolstate | 
+| Suffix | AVA Profile | patient.iris_suffix |
+| Service Number | AVA Profile | patient.submitter_provided_service_number |
+| Business phone | AVA Profile | patient.telephone1 |
+| Business email | AVA Profile | patient.emailaddress2 |
  
 ## Flows
 ### Authenticated Form Flow
