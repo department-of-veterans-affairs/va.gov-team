@@ -41,8 +41,8 @@ These examples demonstrate the similarity, from the submitter's perspective.
 #### How their journey changes
 In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. These fields will still be pre-filled from AVA Profile:
 
-- Suffix
-- Pronouns
+- Suffix (can potentially come from VA Profile)
+- Pronouns (can potentially come from VA Profile)
 - School State
 - School Facility
 - Service Number
