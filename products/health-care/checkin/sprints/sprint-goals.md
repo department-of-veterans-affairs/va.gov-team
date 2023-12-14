@@ -24,7 +24,8 @@ ________________________________________________________________________________
 - NONE
   
 #### SPRINT TICKETS
-- **GOAL: Support Production**     
+- **GOAL: Support Production**
+    - 🟩 [[FE] Exclude VVC Appointments from Pre-Check-in AND Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72011) 
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**   
