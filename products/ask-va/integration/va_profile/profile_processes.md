@@ -2,9 +2,9 @@
 This document outlines how and which fields in the Ask VA (AVA) form prefill from either the existing AVA Profile or VA Profile. We consolidated information from our [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md) and [Moving to VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Moving%20to%20VA%20Profile.md) docs in GitHub.
 
 ## Description
-When an authenticated user visits the AVA form, some fields will become prefilled.  
+When an authenticated user visits the AVA form, some fields will be pre-filled.  
 
-The data for a field can come from either VA Profile or AVA Profile. VA Profile provides authoritative data source on profile data ([learn more in their SharePoint site](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB)). Any field with data in VA Profile or both VA Profile and AVA Profile will use the data from VA Profile. However, if the field only has data in AVA Profile, the AVA form will use that data instead.
+The pre-filled data for a field can come from either VA Profile or AVA Profile. VA Profile provides authoritative data source on profile data ([learn more in their SharePoint site](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB)). Any field with data in VA Profile or both VA Profile and AVA Profile will use the data from VA Profile. However, if the field only has data in AVA Profile, the AVA form will use that data instead.
 
 No information can be prefilled for unauthenticated users of the AVA Form.
 
