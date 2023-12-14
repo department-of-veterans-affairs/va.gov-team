@@ -8,6 +8,9 @@
   - Approach to determine following?:
     - "We may want them to actually go both places -- to the efolder AND to central mail. But we'll need to confirm the desired behavior with 
       david and possibly OBI (office of business integration, who owns the mail portal and mail automation) before implementing."
+- Toxic Exposure Questions
+   -   Additional dates for location - send them to 15 B, C, D or E?
+   -   Addition hazard of type "Other" - Only one for MVP?
 
 
 ### Date: Dec 07' 2023       
