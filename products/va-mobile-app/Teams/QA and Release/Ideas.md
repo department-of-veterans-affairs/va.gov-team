@@ -28,7 +28,7 @@
 | QA requirements / checklist that people need to follow before work gets to QA | Provide clear exact direction as to what QA needs to happen before it gets to the test, note this list may be what QA wants but isn't what is delivered today and that is fine | | |  
 | Update Slack Profile to reflect new team focus | This will also help when Mobile starts bringing in external teams to work as it will be easier for them to track the right person done | | | 
 | Meeting Sprint Cleaning | QA team members to review their recurring meetings to assess if they are still needed |
-
+| PM strategy to get involved with testing in order to jump in if needed | | | 
 
 
 | Closed items | Resolution | Date |
