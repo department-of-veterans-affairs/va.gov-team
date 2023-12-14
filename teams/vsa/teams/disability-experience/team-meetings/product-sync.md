@@ -1,5 +1,15 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Dec 14' 2023       
+### Participants: Rakshinda, Austin, Emily, Shannon 
+### Topics Covered:
+
+- 4142 Failures
+  - Approach to determine following?:
+    - "We may want them to actually go both places -- to the efolder AND to central mail. But we'll need to confirm the desired behavior with 
+      david and possibly OBI (office of business integration, who owns the mail portal and mail automation) before implementing."
+
+
 ### Date: Dec 07' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
 ### Topics Covered:
