@@ -46,7 +46,21 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Business email | AVA Profile | patient.emailaddress2 |
 
   * Denotes, the path to this data hasn't been determined yet 
- 
+
+## General Architecture
+```mermaid
+flowchart TB
+    subgraph CRM
+    CRM-API<-->Dataverse((Data Sources))
+    end
+    subgraph AVA CRM
+    VA.gov<-->AVA-BE
+    VetsApi<-->Rediis((Rediis))
+    VetsApi<-->DB((DB))
+    end    
+    VetsApi<-->CRM-API
+```
+
 ## Flows
 ### Authenticated Form Flow
 ```mermaid
