@@ -11,10 +11,10 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 ## Benefits of prefill
 * Reduces friction for the submitter submitting their inquiry
 * VA Profile benefits:
-  *  The submitter can submit a form in VA.gov and expect the same default information across the system
+  *  The submitter can submit a form in VA.gov and expect the same default information across VA.gov
   *  Updates to profile happen explicitly
       * The submitter can change things on a per-submission basis without having to worry about changing their default values.
-  *  The submitter has a single place to record their preferences
+  *  The submitter has a single place to record their preferences for all VA.gov forms
 * AVA Profile benefits:
   * Inquiry information that is specific to the submitter can be stored
   * Inquiry information can be updated implicitly when the submitter submits their inquiry
