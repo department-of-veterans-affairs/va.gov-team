@@ -23,7 +23,7 @@ Benefits issues outside the U.S., which includes:
 |Jacqueline Mikoley|Education: Buffalo|
 |Lisa Eaton|Education: Muskogee|
 |Kendra Stewart|Work Study|
-|Kevin White|Work Study|
+|Courtney White|Work Study|
 |Scott Hadley|NCC (National Call Center)|
 |Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
 |Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
