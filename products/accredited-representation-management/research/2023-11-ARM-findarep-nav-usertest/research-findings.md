@@ -16,19 +16,19 @@ Janelle Finnerty, janelle.finnerty\@oddball.io
 
 - [Methodology](#methodology)
 
-- [Key findings](#key-findings)
+- [Key Findings](#key-findings)
 
-- [Detail of findings](#detail-of-findings)
+- [Detail of Findings](#details-of-findings)
 
 - [Tasks and Conclusions](#tasks-and-conclusions)
 
 - [Recommendations](#recommendations)
 
-- [Additional insights](#additional-insights)
+- [Additional Insights](#additional-insights)
 
 - [Next Steps](#next-steps)
 
-- [Further research needed](#further-research-needed)
+- [Further Research Needed](#further-research-needed)
 
 - [Appendix ](#appendix)
 
