@@ -9,7 +9,7 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| TBD | Toggle to enable users to see the newly created 10-10EZR form |
+| ezr_prod_enabled | Toggle to enable users to see the newly created 10-10EZR form |
 
 ## Step 2: Validation
 
