@@ -30,7 +30,8 @@ Before enabling your feature toggle in production, you'll need to:
 ### Define the Rollback process
 
 - PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to disable the toggle and begin triage.
-- The static page can be managed through Drupal, and unpublished if there is a problem with the EZR form.
+- We have a content widget for the static page that will work with the feature toggle
+     - The static page can be managed through Drupal, and unpublished if there is a problem with the EZR form.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
