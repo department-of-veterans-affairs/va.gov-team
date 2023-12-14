@@ -1,5 +1,5 @@
 # Design Intent
-Did we recommend a Design Intent in the Collaboration Cycle Request ticket? If so, follow the below guidelines to get started.
+Did the CMS team recommend a Design Intent in your CMS Collaboration Cycle Request ticket? If so, follow the below guidelines to get started.
 
 ## Owner
 CMS Team
