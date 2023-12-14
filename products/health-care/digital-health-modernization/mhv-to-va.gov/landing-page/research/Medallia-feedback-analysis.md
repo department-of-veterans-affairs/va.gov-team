@@ -24,6 +24,10 @@ Summary: roughly a 50/50 split on “good” vs. “bad” experience with My He
 * Low scores: 1 & 2  (24)
 * High scores: 4 & 5 (26)
 
+Other: 
+* Users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large.
+* Users who give high scores for their overall experience also gave higher scores regarding their familiarity with VA.gov, were more trustworthy of the VA, and reported higher scores for their experience with the VA writ large.
+
 ## VFS Questionnaire
 
 TOTAL RESPONSES: 37 
