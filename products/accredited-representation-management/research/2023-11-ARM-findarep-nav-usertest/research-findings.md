@@ -8,6 +8,31 @@ Janelle Finnerty, janelle.finnerty\@oddball.io
 
 [Research readout](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EWAOMH2Q5F1PgQTIjL_4rlMBovJsEKKJnLeHtRZO9lfTdQ?e=YxojQU)
 
+**Jump to:**
+
+- [Research Goals](#research-goals)
+
+- [Research Questions](#research-questions)
+
+- [Methodology](#methodology)
+
+- [Key findings](#key-findings)
+
+- [Detail of findings](#detail-of-findings)
+
+- [Tasks and Conclusions](#tasks-and-conclusions)
+
+- [Recommendations](#recommendations)
+
+- [Additional insights](#additional-insights)
+
+- [Next Steps](#next-steps)
+
+- [Further research needed](#further-research-needed)
+
+- [Appendix ](#appendix)
+
+
 ## Research Goals<a id="research-goals"></a>
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)<a id="veteran-journey"></a>
