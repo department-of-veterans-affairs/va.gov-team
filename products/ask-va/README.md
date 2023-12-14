@@ -14,14 +14,16 @@ AVA on the modernized VA.gov platform will be a digital support channel that wor
 
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|VA Product Owner|Chante Lantos-Swett|chante.lantosswett@va.gov|
-|VA Product Owner|Andrea Schneider|andrea.schneider3@va.gov|
+|Product Owner (OCTO)|Chante Lantos-Swett|chante.lantosswett@va.gov|
+|Interim Product Owner (OCTO), Designer|Becky Phung|becky.phung@va.gov|
+|Product Owner (VES)|Natalie Morales|natalie.morales@va.gov|
+|Product Owner (VES)|Andrea Schneider|andrea.schneider3@va.gov|
 |Program Manager|Emily Allan|emily@oddball.io|
 |Product Manager|Ruchi Shah|ruchi.shah@thoughtworks.com|
 |Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
 |Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
+|Engineer|Hemesh Patel|hemesh.patel@docme360.com|
 |UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
 |UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
-|OCTO Designer|Becky Phung|becky.phung@va.gov|
