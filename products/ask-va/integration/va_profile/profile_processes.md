@@ -18,6 +18,35 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 * AVA Profile benefits:
   * Inquiry information that is specific to the submitter can be stored
   * Inquiry information can be updated implicitly when the submitter submits their inquiry
+
+## Prefilled field sourcing
+| Prefilled field | Source | Source field |
+|:--|:--|:--:|
+| Submitter Home Address | VA Profile | addressLine1, addressLine2, addressLine3| 
+| Submitter Home City | VA Profile | cityName | 
+| Submitter Home State | VA Profile | state.stateName or province.provinceName | 
+| Submitter Home Zip  | VA Profile | zipCode5 | 
+| Submitter Phone  | VA Profile | countryCode, areaCode, phoneNumber, phoneNumberExt | 
+| Submitter Email  | VA Profile | emailAddressText | 
+| Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
+| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
+| Submitter DoB | VA Profile |  |
+| Submitter SSN | VA Profile |  |
+| Submitter First Name | VA Profile |  |
+| Submitter Middle Name | VA Profile |  |
+| Submitter Last Name | VA Profile |  |
+| Submitter Gender | VA Profile |  |
+| Submitter Branch of Service  | VA Profile |  | 
+| Submitter Service Dates  | VA Profile |  | 
+| Submitter Service Number  | VA Profile |  | 
+| Submitter School Facility Code  | AVA Profile | School Facility Code | 
+| Submitter State of School  | AVA Profile | State of School | 
+| Suffix | AVA Profile | Suffix |
+| School State | AVA Profile | School State |
+| School Facility | AVA Profile | School Facility Code |
+| Service Number | AVA Profile | Service Number |
+| Business phone | AVA Profile | Business Phone |
+| Business email | AVA Profile | Business Email |
  
 ## Flows
 ### Authenticated Form Flow
@@ -72,35 +101,6 @@ flowchart TB
     question2{What is your relationship to the Veteran}-->|Connected to the Veteran through my work|Is_Business_Case
     end
 ```
-
-## Prefilled field sourcing
-| Prefilled field | Source | Source field |
-|:--|:--|:--:|
-| Submitter Home Address | VA Profile | addressLine1, addressLine2, addressLine3| 
-| Submitter Home City | VA Profile | cityName | 
-| Submitter Home State | VA Profile | state.stateName or province.provinceName | 
-| Submitter Home Zip  | VA Profile | zipCode5 | 
-| Submitter Phone  | VA Profile | countryCode, areaCode, phoneNumber, phoneNumberExt | 
-| Submitter Email  | VA Profile | emailAddressText | 
-| Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
-| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
-| Submitter DoB | VA Profile |  |
-| Submitter SSN | VA Profile |  |
-| Submitter First Name | VA Profile |  |
-| Submitter Middle Name | VA Profile |  |
-| Submitter Last Name | VA Profile |  |
-| Submitter Gender | VA Profile |  |
-| Submitter Branch of Service  | VA Profile |  | 
-| Submitter Service Dates  | VA Profile |  | 
-| Submitter Service Number  | VA Profile |  | 
-| Submitter School Facility Code  | AVA Profile | School Facility Code | 
-| Submitter State of School  | AVA Profile | State of School | 
-| Suffix | AVA Profile | Suffix |
-| School State | AVA Profile | School State |
-| School Facility | AVA Profile | School Facility Code |
-| Service Number | AVA Profile | Service Number |
-| Business phone | AVA Profile | Business Phone |
-| Business email | AVA Profile | Business Email |
 
 
 ## Resources
