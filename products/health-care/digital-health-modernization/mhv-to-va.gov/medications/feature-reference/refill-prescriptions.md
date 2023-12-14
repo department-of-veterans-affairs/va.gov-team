@@ -48,7 +48,6 @@ Ability to refill prescriptions
 
 **Alert trigger**
 
-VAOS checks if the facilities field that comes back from `vaProfile` is empty. If it is, this alert replaces all content on the page.
 
 **Alert UI**
 - [User flow](Add link)
@@ -58,39 +57,22 @@ VAOS checks if the facilities field that comes back from `vaProfile` is empty. I
 ## Technical design
 <!-- Endpoints and sample responses -->
 
-**Staging URL:** [Add staging URL]
+**Staging URL:** [https://staging.va.gov/my-health/medications?next=loginModal&oauth=false]
 
 **Staging base URL:** https://staging-api.va.gov/
 
 **Prod base URL:** https://api.va.gov/
 
 **Endpoints**
-`replace-with-endpoint-1`
-
-`replace-with-endpoint-2`
-
-To see the current api responses:
-- Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
-- Search for `https://api.va.gov/vaos/v2/apidocs`
-
-<details>
-  <summary>Sample response</summary>
-
-```json
-"vaProfile": { "status": "OK", "birthDate": "20010531", "familyName": "Morgan", "gender": "M", "givenNames": [ "Cecil", "Matthew" ], "isCernerPatient": false, "facilities": [ { "facilityId": "983", "isCerner": false }, { "facilityId": "984", "isCerner": false } ], "vaPatient": true, "mhvAccountState": "OK" },
-```
-
-</details>
-
+`
 
 
 
 ## Development testing
-<!-- Unit tests, API tests -->
+
 
 ### [Call name] call
 
-[How to use the VCR test framework](https://www.rubydoc.info/gems/vcr/VCR)
   
 <details>
   <summary><b>VCR cassette</b></summary>
