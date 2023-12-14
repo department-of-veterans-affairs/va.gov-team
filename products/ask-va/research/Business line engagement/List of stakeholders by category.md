@@ -16,7 +16,7 @@ Last updated by @tygindraux: October 16, 2023
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Jacqueline Mikoley|Education: Buffalo|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Lisa Eaton|Education: Muskogee|
 |`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kendra Stewart|Work study|
-|`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Kevin White|Work study|
+|`Education benefits and work study` <br> `Benefits issues outside the U.S.`|Courtney White|Work study|
 |`Disability compensation` <br> `Benefits issues outside the U.S.`|Scott Hadley|NCC (National Call Center)|
 |`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Veteran Readiness and Employment`|Robert Eakman|VBA-OTED|
 |`Disability compensation` <br> `Benefits issues outside the U.S.` <br> `Burials and memorials` <br> `Debt for benefit overpayments and copay bills` <br> `Decisions reviews and appeals` <br> `Guardianship, custodianship, or fiduciary issues` <br> `Pension` <br> `Survivor benefits` <br> `Veteran Readiness and Employment`|Breon Johnson|VBA-ART|
