@@ -92,7 +92,7 @@ sequenceDiagram
     VA-gov->>AVA_Form: User directs to AVA_Form
 ```
 
-### Pre-Defined Logic For Merging Data Only Found in AVA Profile
+### Determination of Business Inquiry
 ```mermaid
 flowchart TB
     subgraph AVA Form Interaction
@@ -100,6 +100,12 @@ flowchart TB
     question2{What is your relationship to the Veteran}-->|Connected to the Veteran through my work|Is_Business_Case
     end
 ```
+
+### Pre-Defined Logic For Merging Data Only Found in AVA Profile
+* Change Phone Number field from Personal Phone to Business Phone
+* Change Email field from Personal Email to Business Email
+* Fill out School Facility Code, if required
+* Fill out School State, if required
 
 
 ## Resources
