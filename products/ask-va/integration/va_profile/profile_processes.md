@@ -9,7 +9,7 @@ The pre-filled data for a field can come from either VA Profile or AVA Profile. 
 No information can be prefilled for unauthenticated users of the AVA Form.
 
 ## Benefits of prefill
-* Reduces friction for the submitter submitting their inquiry
+* Reduces friction for the submitter filling out the form
 * VA Profile benefits:
   *  The submitter can submit a form in VA.gov and expect the same default information across VA.gov
   *  Updates to profile happen explicitly
