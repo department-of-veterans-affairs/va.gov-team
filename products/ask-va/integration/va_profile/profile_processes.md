@@ -35,7 +35,7 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter First Name | VA Profile | * |
 | Submitter Middle Name | VA Profile | * |
 | Submitter Last Name | VA Profile | * |
-| Submitter Suffix | VA Profile |  |
+| Submitter Suffix | VA Profile | * |
 | Submitter Gender | VA Profile | * |
 | Submitter Branch of Service  | VA Profile | * | 
 | Submitter Service Dates  | VA Profile | * | 
