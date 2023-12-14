@@ -82,20 +82,20 @@ flowchart TB
 | Submitter Home Zip  | VA Profile | zipCode5 | 
 | Submitter Phone  | VA Profile | countryCode, areaCode, phoneNumber, phoneNumberExt | 
 | Submitter Email  | VA Profile | emailAddressText | 
+| Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
+| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
 | Submitter DoB | VA Profile |  |
 | Submitter SSN | VA Profile |  |
 | Submitter First Name | VA Profile |  |
 | Submitter Middle Name | VA Profile |  |
 | Submitter Last Name | VA Profile |  |
-| Preferred Name | VA Profile | | 
-| Submitter Gender | VA Profile | |
-| Submitter Branch of Service  | VA Profile || 
-| Submitter Service Dates  | VA Profile || 
-| Submitter Service Number  | VA Profile || 
+| Submitter Gender | VA Profile |  |
+| Submitter Branch of Service  | VA Profile |  | 
+| Submitter Service Dates  | VA Profile |  | 
+| Submitter Service Number  | VA Profile |  | 
 | Submitter School Facility Code  | AVA Profile | School Facility Code | 
 | Submitter State of School  | AVA Profile | State of School | 
 | Suffix | AVA Profile | Suffix |
-| Pronouns | AVA Profile | Pronouns I use |
 | School State | AVA Profile | School State |
 | School Facility | AVA Profile | School Facility Code |
 | Service Number | AVA Profile | Service Number |
