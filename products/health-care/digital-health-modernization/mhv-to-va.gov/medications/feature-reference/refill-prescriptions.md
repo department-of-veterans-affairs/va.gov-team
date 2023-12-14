@@ -26,7 +26,7 @@ Ability to refill prescriptions
 
 [User flow](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/a/GoqqApY) 
 
-[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2287-43222&mode=design&t=iXQLoUr7rK9TPy7w-4)
+[Page template](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/p/21DEC478-8C80-4CE4-8412-DBBCE5F17DEA/canvas)
 
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/homepage.md#upcoming-appointments)
 
