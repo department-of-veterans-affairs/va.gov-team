@@ -54,5 +54,5 @@ Form | [GET /states](lighthouse/Form_States.md) | Lighthouse | N/A | ⬜ | desig
 Form | [GET /countries](lighthouse/Form_GetCountries.md) | Lighthouse | N/A | ⬜ | design | | 
 Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
 Dashboard | [GET /profile](va_profile/Dashboard_ProfileSyncing.md)   | VA Profile | 🟦 | ⬜ | design | VA Profile | 
-Form | GET /optionset?{name} | Dynamics | 🟦 | ⬜ | design | CRM Lookups | 
+Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟦 | ⬜ | design | CRM Lookups | 
 
