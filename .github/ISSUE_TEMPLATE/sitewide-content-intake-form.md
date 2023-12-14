@@ -87,28 +87,23 @@ Provide links to any supporting artifacts that can help us better understand you
 ```
 
 ```[tasklist]
+### CAIA operations
+- [ ] Initial Review - @coforma-terry and @strelichl 
+```
+
+```[tasklist]
 ### CAIA a11y tasks
-- [ ] A11y task 1
-- [ ] A11y task 2
 ```
 
 ```[tasklist]
 ### CAIA content tasks
-- [ ] Content task 1
-- [ ] Content task 2
 ```
 
 ```[tasklist]
 ### CAIA IA tasks
-- [ ] IA task 1
-- [ ] IA task 2
 ```
 
-```[tasklist]
-### CAIA operations
-- [ ] Set up kickoff meeting - @coforma-terry and @strelichl 
-- [ ] Provide GitHub deliverable to VFS team post kickoff
-```
+
 
 
 
