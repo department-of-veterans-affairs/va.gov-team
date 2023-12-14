@@ -81,15 +81,17 @@ Inclusive recruitment prioritizing a full sample of **Veterans that use screen r
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
 
-**5 completed sessions with Veterans that use screen readers, please recruit 8 Veterans**
+**5 completed sessions with Veterans that use screen readers, please recruit 10 Veterans**
 
 Primary criteria (must-haves) What demographics, experience, and scenarios do you need participants to meet to effectively run your study?
 - All participants must be Veterans
+- 3/2 split between desktop/mobile users
 - Inclusive, diverse sample with respect to race/ethnicity, age, gender, educational attainment, financial status
 - All must be on a computer or mobile device that utilizes screen reader technology
 - During the session, be willing to share a web browser window on their device
 - Have a working microphone on their device
 - Have Zoom downloaded to their device prior to the session and know how to share their screen
+
   
 **Please collect basic demographic information on participants in addition to the screener questions**
 
