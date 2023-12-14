@@ -14,11 +14,10 @@ Ability to refill prescriptions
 ### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- User can review a list of their prescriptions .
-- User can successfuly view details and see status of their medication
-- User can understand if medication is refillable/not refillable
-- User can submit a refill request for all eligible medications
-
+- When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
+- For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality.
+- When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
+- Once a med has been dispensed, start the process over again.
 ### Non-functional
 
 
