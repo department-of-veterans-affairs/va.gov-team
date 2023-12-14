@@ -53,8 +53,8 @@ flowchart TB
     subgraph CRM
     CRM-API<-->Dataverse((Data Sources))
     end
-    subgraph AVA CRM
-    VA.gov<-->AVA-BE
+    subgraph AVA FrontEnd
+    VA.gov<-->VetsApi
     VetsApi<-->Rediis((Rediis))
     VetsApi<-->DB((DB))
     end    
