@@ -39,15 +39,15 @@ What are you trying to learn from this research?
 - We believe the results from the study will help inform accessibility best practices for our team going forward.
 
 ### Research questions
-### GOAL 1: Evaluate the effectiveness and value of the accessible submitted appeal copy page for Veterans using screen readers.
+#### GOAL 1: Evaluate the effectiveness and value of the accessible submitted appeal copy page for Veterans using screen readers.
 - Do Veterans using screen readers know that they can review a copy of their submission through the confirmation page?
 - Do Veterans using screen readers seek to review a copy of their submission?
 
-### GOAL 2: Understand how Veterans using screen readers are getting copies of their submitted form.
+#### GOAL 2: Understand how Veterans using screen readers are getting copies of their submitted form.
 - How do Veterans using screen readers access a copy of their submission?
 - How do Veterans using screen readers save a copy of their submission?
 
-### GOAL 3: Understand where Veterans using screen readers expect to access records of their submitted form.
+#### GOAL 3: Understand where Veterans using screen readers expect to access records of their submitted form.
 - Where do Veterans using screen readers expect to access a record of their submitted form?
 - What do Veterans using screen readers want to do with a copy of their submission?
 
@@ -96,55 +96,55 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 **Screener Questions**:
  1.  **We’re asking these questions because we want to be sure our website works well for visually impaired people and assistive technologies.**  
 **Please select the statement that best applies to you:**  
- a) I am visually impaired but not blind.  
- b) I am blind.  
- c)  I have normal vision or near normal vision. (disqualify)  
+    a) I am visually impaired but not blind.  
+    b) I am blind.  
+    c) I have normal vision or near normal vision. (disqualify)  
 
  2.  **How long have you been blind or visually impaired?**   
-a) In the last 2 years  
-b) In the last 2 - 5 years  
-c) In the last 5-10 years  
-d) 10 + years  
-e) My entire life
+   a) In the last 2 years  
+   b) In the last 2 - 5 years  
+   c) In the last 5-10 years  
+   d) 10 + years  
+   e) My entire life
 
 3.  **Do you need to use screen readers to use technology and the internet, such as VoiceOver on an iPhone or a Mac, TalkBack on an Android device, or JAWS on a Windows computer?**  
    a) Yes  
    b) No (disqualify)  
     
 4.  **Check the statement(s) that best applies to you:**  
-a) I use screen readers (VoiceOver, Talkback, JAWS, NVDA are examples)  
-b) I use text-to speech software (Speechify or WordTalk are examples) (disqualify if they only select B)  
-c) I do not use screen readers (disqualify)  
-d) I do not use text-to speech software  
+   a) I use screen readers (VoiceOver, Talkback, JAWS, NVDA, DolphinGuide are examples)  
+   b) I use text-to speech software (Speechify or WordTalk are examples) (disqualify if they only select B)  
+   c) I do not use screen readers (disqualify)  
+   d) I do not use text-to speech software (disqualify)
 
 5.  **Are you able to join the Zoom session using this screen readers?**  
-a) Yes  
-b) Yes, with some help  
-c) No (disqualify)  
+   a) Yes  
+   b) Yes, with some help  
+   c) No (disqualify)  
 
-6.  **List the name of the screen readers or software you will use during the session. (Fill in)**  
+6.  **List the name of the screen readers or software you will use during the session. (Fill in)**
     
-7.  **Please check the statement) that best applies to you:**  
+8.  **Please check the statement) that best applies to you:**  
  a) I am very comfortable using screen readers   
  b) I am comfortable using screen readers  
  c) I am still learning how to use screen readers  
 
-8. **Select the statement(s) that apply to you: (Check all that apply)**  
+9. **Select the statement(s) that apply to you: (Check all that apply)**  
   a) I have submitted a claim  
   b) I have submitted a decision review / appeal  
   c) I have not submitted a benefits claim
 
-9. **Select the statement(s) that apply to you: (Check all that apply)**  
-  a) I submitted a form on VA.gov by myself  
-  b) I submitted a form on VA.gov with the help of others
-  c) I have never submitted a form on VA.gov 
+10. **Select the statement(s) that apply to you: (Check all that apply)**  
+   a) I submitted a form on VA.gov by myself  
+   b) I submitted a form on VA.gov with the help of others
+   c) I have never submitted a form on VA.gov
     
 **Follow Up Call:**
 Please follow up by phone with prospective participants with these (4) questions and please let us know what they say. 
-1. **We want to confirm that you use a screen reader due to low vision or blindness** 
-2. **What is the name of the screen reader technology you are using?**   
-3. **Are you comfortable joining a Zoom call using your screen reader technology?**  
-4. **We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?**  
+1. We want to confirm that you use a screen reader due to low vision or blindness
+2. What is the name of the screen reader technology you are using?
+3. Are you comfortable joining a Zoom call using your screen reader technology?
+4. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session? 
 
 **Secondary criteria (nice-to-haves) What criteria would strengthen your results?**
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants who use screenreaders.
@@ -163,7 +163,6 @@ Planned dates of research:
 
     
 ### Length of sessions
-
 Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours):
 -   60 minutes
     
