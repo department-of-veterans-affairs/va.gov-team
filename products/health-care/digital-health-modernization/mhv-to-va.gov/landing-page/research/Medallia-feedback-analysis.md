@@ -10,6 +10,9 @@ Two different surveys:
 * VFS questionnaire: 37 users
 
 ## A11y Questionnaire: Overall Veteran experience score
+
+TOTAL RESPONSES: 56
+
 _On a scale of 1-5, where 5 is high._
 * 1 (19 users)
 * 2 (5 users)
@@ -22,6 +25,9 @@ Summary: roughly a 50/50 split on “good” vs. “bad” experience with My He
 * High scores: 4 & 5 (26)
 
 ## VFS Questionnaire
+
+TOTAL RESPONSES: 37 
+
 **Question 1: Were you able to do your task today? **
 * No: 31 users  (83%)
 * Yes: 4 users  (11%)
