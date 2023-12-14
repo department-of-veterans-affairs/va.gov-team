@@ -117,8 +117,10 @@ sequenceDiagram
 ```mermaid
 flowchart TB
     subgraph AVA Form Interaction
-    question1{What is your question about}-->|Someone else's benefits|Is_Business_Case
+    question1{What is your question about}-->|Someone else's benefits|question2{What is your relationship to the Veteran}
     question2{What is your relationship to the Veteran}-->|Connected to the Veteran through my work|Is_Business_Case
+    question1{What is your question about}-->|NOT Someone else's benefits|NOT_Business_Case
+    question2{What is your relationship to the Veteran}-->|NOT Connected to the Veteran through my work|NOT_Business_Case
     end
 ```
 
