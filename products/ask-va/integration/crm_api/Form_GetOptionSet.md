@@ -15,7 +15,7 @@
 
 1. inquiryabout
 2. inquirysource
-3. iris inquirytype
+3. inquirytype
 4. levelofauthentication
 5. suffix
 6. veteranrelationship
