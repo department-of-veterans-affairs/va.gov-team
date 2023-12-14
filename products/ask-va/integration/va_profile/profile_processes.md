@@ -35,13 +35,13 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter First Name | VA Profile | * |
 | Submitter Middle Name | VA Profile | * |
 | Submitter Last Name | VA Profile | * |
+| Submitter Suffix | VA Profile |  |
 | Submitter Gender | VA Profile | * |
 | Submitter Branch of Service  | VA Profile | * | 
 | Submitter Service Dates  | VA Profile | * | 
 | Submitter Service Number  | VA Profile | * | 
 | Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
 | Submitter State of School  | AVA Profile | patient.iris_schoolstate | 
-| Suffix | AVA Profile | patient.iris_suffix |
 | Business phone | AVA Profile | patient.telephone1 |
 | Business email | AVA Profile | patient.emailaddress2 |
 
