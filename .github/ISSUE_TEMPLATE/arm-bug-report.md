@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-## Background
-_What background/context has led to this work?  What problem are we trying to solve?_
+## Steps to Reproduce
+_Outline the steps to recreate this bug_
 
-## Tasks
-- [ ] _Outline steps to complete_
+## Examples
+_Include screenshots or screen recordings of the bug you're reporting_
 
 ---
 #### How to configure this issue
-1. Label with practice area (`backend`, `frontend`, `design`, `research`)
+1. Label with practice area (`backend`, `frontend`)
 2. Label for MVP work? (`mvp`)
 3. Add an estimate 
 4. Attach an Epic (what body of work is this a part of?)
