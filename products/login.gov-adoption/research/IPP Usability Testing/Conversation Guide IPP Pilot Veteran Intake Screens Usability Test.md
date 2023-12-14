@@ -99,7 +99,7 @@ I'm going to send you a link in the zoom chat. Please open it up in a web browse
 Okay, now I'm going to ask you to share your screen on Zoom so that we can look at the prototype together.
 
 Zoom Share Screen Directions
-MODERATOR: We are going to start off by pretending you have just made a Login.gov account and you have been prompted to verify your identity. In this test, we will pretend that Login.gov has offered you to verify online or in-person and you have chosen the in person option. After you click that option you arrive on this first screen.
+MODERATOR: We are going to start off by pretending you have just made a Login.gov account and you have been prompted to verify your identity. In this test, we will pretend that Login.gov has offered you to verify online or in-person and you have chosen the in person option. After you click the verify in-person option, you arrive on this first screen.
 
 Please read the directions, think aloud, and walk me through your thought process as you complete the task of signing up for in-person identity verification. Between tasks, or as you speak, I may stop to ask questions. (Bullet questions are suggested follow-ups to help the moderator engage with the respondent if there are additional questions not answered while reading aloud)
 
