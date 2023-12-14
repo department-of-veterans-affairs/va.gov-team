@@ -61,10 +61,17 @@ Question 3: What task were you trying to do today?
 * **Missing context or explanation** for users to interpret/understand their medical information (1 user)
 * **Helpdesk wasn’t working** or unavailable to solve a problem (1 user)
 
+### Fixable(?) problems
+* 3 users were caught in a loop of trying to register for MHV, or trying to upgrade to a Premium account
+* 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
+* 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
+* 1 user wanted but couldn't figure out how to enter flu shot data to their medical record
+
 ## Joys users expressed
 * Learned new things (1 user)
 * Ease of use and clear navigation (7 users)
 * Saw correct information (2 users)
+
 
 
 
