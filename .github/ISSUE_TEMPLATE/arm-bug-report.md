@@ -1,6 +1,6 @@
 ---
 name: ARM Bug Report
-about: General issues for the ARM team
+about: Reporting bugs as they relate to the ARM team
 title: ''
 labels: 'accredited-representation-management-team, bug'
 assignees: ''
