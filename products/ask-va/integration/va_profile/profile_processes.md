@@ -92,6 +92,13 @@ sequenceDiagram
     VA-gov->>AVA_Form: User directs to AVA_Form
 ```
 
+### Pre-Defined Logic For Merging Data Only Found in AVA Profile
+* Change Mobile Phone Number field from Personal Phone to Business Phone
+* Change Email field from Personal Email to Business Email
+* Fill out School Facility Code, if required
+* Fill out School State, if required
+* Fill out Service Number, if required
+
 ### Determination of Business Inquiry
 ```mermaid
 flowchart TB
@@ -100,14 +107,6 @@ flowchart TB
     question2{What is your relationship to the Veteran}-->|Connected to the Veteran through my work|Is_Business_Case
     end
 ```
-
-### Pre-Defined Logic For Merging Data Only Found in AVA Profile
-* Change Mobile Phone Number field from Personal Phone to Business Phone
-* Change Email field from Personal Email to Business Email
-* Fill out School Facility Code, if required
-* Fill out School State, if required
-* Fill out Service Number, if required
-
 
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
