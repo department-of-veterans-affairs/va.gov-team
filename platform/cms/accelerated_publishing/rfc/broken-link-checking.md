@@ -7,7 +7,7 @@
 
 _Explain the current state of the feature._
 
-We currently have two link checking systems in place around CMS and Content Build.
+We currently have two link checking systems in place around CMS and Content Build: a Content Build broken link check plugin and a Drupal module [Node Link Report](#nlb).
 
 ### Content Build broken link checks
 
@@ -16,12 +16,6 @@ Content Build runs a [broken link check](https://github.com/department-of-vetera
 1. Content Build has knowledge of every page & file it is handling in the form of a list of paths
 2. Content Build parses each HTML page, finds any links, images, or other files, and checks each of those links to see if it is in the list from
 3. If it does not find that item in the list from step 1, it is a broken link.
-
-### Node Link Report
-
-[Node Link Report](https://www.drupal.org/project/node_link_report) is a helpful Drupal module that checks in-page content and provides notifications if it contains broken links. It checks internal and external links, with some limitations.
-
-There is no problem with Node Link Report continuing to operate as it is now. This RFC does not propose any changes to the VA.gov CMS's use of Node Link Report.
 
 ## Motivation
 
@@ -124,3 +118,9 @@ _What other alternatives solutions were considered, why weren't they chosen?_
 **We considered an architecture for Content Build and Next Build where the two systems would be more tightly coupled.** In particular, Next Build content would be included as part of the 'files' that Content Build manages. This would effectively allow the Content Build broken link system to continue, because it would have access to all files at once.
 
 We abandoned this idea because it would make Next Build dependent on Content Build, which means we would see no speed gains from Next Build. It is also generally a good idea to ensure that systems are not interdependent on each other, as they become harder to disentangle later. Our goal ultimately is to retire Content Build, and so we do not want to depend on its systems for this critical functionality.
+
+### <a name="nlb"></a>What about Node Link Report?
+
+[Node Link Report](https://www.drupal.org/project/node_link_report) is a helpful Drupal module that checks in-page content and provides notifications if it contains broken links. It checks internal and external links, with some limitations.
+
+There is no problem with Node Link Report continuing to operate as it is now. This RFC does not propose any changes to the VA.gov CMS's use of Node Link Report.
