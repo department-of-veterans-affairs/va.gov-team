@@ -1,5 +1,5 @@
 ---
-name: ARM Bug Report Issue
+name: ARM Bug Report
 about: General issues for the ARM team
 title: ''
 labels: 'accredited-representation-management-team, bug'
