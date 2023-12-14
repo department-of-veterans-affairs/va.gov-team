@@ -8,10 +8,10 @@
 |  Have engineering do some preliminary demo mode test before QA | seen demo mode broken or changes not there in QA that could have been caught earlier if engineering did it which delays the entire ticket | Adam | [7538](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7538) |
 |  Have Demo mode be updated with any changes | this impacts detox testing and manual testing  | Adam | [7539](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7539)  | 
 |  Consider having Mobile teams update detox testing vs having QA do it | Some FE do it today, may be more of a strategy discussion on if Mobile wants this and if not what that means.  | | [7540](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7540)   | 
-|  Create a PR turn around policy for QA review | Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days? |  Adam |  
-|  Review what meetings are critical and needed for QA to attend vs optional | Will require teams to review their calendars to list all their meetings and review | Team | 
-|  Explore the possibility of keeping the last 2 days of the sprint open from QA to focus on just testing   | Is this something that would be valuable| Team |
-|  Require visual QA tickets that UX needs to complete prior to QA starting testing | Instances this is forgotten or unknown if its completed | Adam | 
+|  Create a PR turn around policy for QA review | Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days? |  Adam |  [7541](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7541) |
+|  Review what meetings are critical and needed for QA to attend vs optional | Will require teams to review their calendars to list all their meetings and review | Team |  [7542](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7542) |
+|  Explore the possibility of keeping the last 2 days of the sprint open from QA to focus on just testing   | Is this something that would be valuable| Team | [7543](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7543) | 
+|  Require visual QA tickets that UX needs to complete prior to QA starting testing | Instances this is forgotten or unknown if its completed | Adam | [7544](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7544) |
 |  Create a policy on steps to include new work after release branch has been cut |  In progress - shared draft with Tom on 12/11 | Adam | 
 |  Document QA work within the Kanban board columns | Understand QA's possible work within each column. External teams can leverage this in handling their own columns. Could be used for onboarding | | 
 |  Document hot fix process / requirements / timing | We rarely do this but would like to get it documented if not already | | 
@@ -26,6 +26,9 @@
 | Identify processes in which there is a lot of risk, especially instances were there is only 1 person reponsible or has access that could lead to a fatal error | Came from Therese's comment during 12/13 PO OKR meeting | | 
 | Should Mobile Release have its own freeze during Christmas time | Given holidays we have fewer people to handle testing, bug fixes, and also signoffs in a timely / efficient manner | Adam |
 | QA requirements / checklist that people need to follow before work gets to QA | Provide clear exact direction as to what QA needs to happen before it gets to the test, note this list may be what QA wants but isn't what is delivered today and that is fine | | |  
+| Update Slack Profile to reflect new team focus | This will also help when Mobile starts bringing in external teams to work as it will be easier for them to track the right person done | | | 
+| Meeting Sprint Cleaning | QA team members to review their recurring meetings to assess if they are still needed |
+
 
 
 | Closed items | Resolution | Date |
