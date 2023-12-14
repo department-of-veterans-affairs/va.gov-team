@@ -93,6 +93,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
 ### Questions
 
+- auth states
 - notifications?
 - end to end data submission processes/storage and error handling
 - existing metrics
