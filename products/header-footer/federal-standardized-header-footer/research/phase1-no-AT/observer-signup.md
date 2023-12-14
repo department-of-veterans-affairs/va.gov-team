@@ -8,7 +8,7 @@
 
 Date | Time | Participant | Observer 1 | Observer 2 | Observer 3
 ------------------|--------------|---------|----------|-----|------
-Dec 15, 2023 | 12-1 pm ET | P1 Veteran | Dave Conlon | Randi Mays | Samara Strauss
+Dec 15, 2023 | 12-1 pm ET | P1 Veteran | Dave Conlon | Randi Mays | Anne Petersen
 Dec 15, 2023 | 2-3 pm ET | P2 Veteran | Dave Conlon | Samara Strauss | OPEN
 Dec 18, 2023 | 12-1 pm ET | P3 Veteran | Jill Adams | Chris Kim | Pam Drouin
 Dec 18, 2023 | 2-3 pm ET | P4 Veteran | Laura Flannery | Jordan Wood | OPEN
