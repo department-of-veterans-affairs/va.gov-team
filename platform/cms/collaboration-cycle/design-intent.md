@@ -20,7 +20,7 @@ Required participants from your team:
 - Designer(s)
 - Product Manager
 
-The participants above will not be invited to the meeting by the CMS team. You are responsible for ensuring everyone required to be in attendance is invited. We encourage you to invite other members of your team as well, including:
+The participants above will not be invited to the meeting by the CMS team. The Product Manager for your team is responsible for ensuring everyone required to be in attendance is invited. We encourage you to invite other members of your team as well, including:
 - Content, IA, accessibility, and QA specialists who will be working on the product
 - Other VA stakeholders
 
