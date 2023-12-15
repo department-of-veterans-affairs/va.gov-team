@@ -376,7 +376,7 @@ _\*Included all searches that have a variation of the main term. Top search term
 
 The following recommendations support these business objectives and desired outcomes:
 
-### Business Objectives<a id="desired-business-outcomes"></a>
+### Business Objectives<a id="business-objectives"></a>
 1. Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov
 2. Veterans are able to successfully find a representative through our Find a Representative tool
 
