@@ -4,6 +4,22 @@ VA NON-DISABILITY BENEFITS · Burial benefits MVP redesign
 
 Designer: [Fiorella](https://github.com/fiorella-io)
 
+## Bug 1
+The "Benefits selection" title gets deleted
+
+#### Steps to replicate
+- On step 4, only select "Transportation" as a benefit
+- Get to the Review page
+- Expand the "Benefits selection" section
+- Select either Burial allowance or Plot allowance and click "Update page"
+- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
+- Click "Update page"
+- Remove the new benefits that were added
+- Click "Update page"
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/11b6831f-1a14-463d-9998-2f0b8fb57685" width="80%">
+<br><br><br>
+
+
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/bc5bf2b8-dcf4-44db-a707-a7ed8ef7ebae" width="35%" align="right">
 
 ## Issue 1 - Severe
@@ -33,7 +49,7 @@ A claimant cannot upload files on the review page blocking submission
 #### Steps to replicate
 - On step 4, only select "Transportation" as a benefit
 - Get to the Review page
-- Expand the "Benefit selection" section
+- Expand the "Benefits selection" section
 - Select either Burial allowance or Plot allowance and click "Update page"
 - Resolve the error(s) triggered by adding all required information on the new section(s) that appeared and click "Update page"
 
@@ -54,7 +70,7 @@ Section errors that get triggered due to adding additional benefits stay persist
 #### Steps to replicate
 - On step 4, only select "Transportation" as a benefit
 - Get to the Review page
-- Expand the "Benefit selection" section
+- Expand the "Benefits selection" section
 - Select either Burial allowance or Plot allowance and click "Update page"
 - Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
 - Click "Update page". This will trigger errors in the "Additional information" section
