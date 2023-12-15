@@ -68,31 +68,15 @@ Additional generative research will help inform future solutions and enhancement
 - We do not have documented research on our users and are anticipating learnings to come from open-ended conversation.  
 
 ## Methodology	
-We will use a variety of methods to accomplish our research goals:
+We will use a remote, moderated usability test and semi-structured interview. A remote, moderated usability test and semi-structured interview will be the primary vehicle for gathering feedback during this research process. A single conversation guide will be produced to gather both evaluative and generative feedback. 
 
-- Remote, moderated usability test and semi-structured interview
-- Chalkmark (unmoderated)
-- OptimalSort (unmoderated)
-
-A remote, moderated usability test and semi-structured interview will be the primary vehicle for gathering feedback during this research process. A single conversation guide will be produced to gather both evaluative and generative feedback. 
-
-We will utilize Chalkmark to provide evaluative results and first-click analysis for the prototype. Participants will be given a few simple tasks and will be asked where they would go to accomplish the task. 
-
-OptimalSort will be used for an open card sort to ensure our labeling structure and overall flow will match users mental models. 
-
-  
 ### Location
 All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Sketch-based prototype. Participants may be asked to share their screen.
 
 ### Research materials
 For moderated usability tests: 
-- [Conversation guide](https://va.gov) - _Coming soon_
-- [Prototype](https://va.gov) - _Coming soon_
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](https://va.gov) - _Coming soon_
-- [Link to prototype or OptimalSort session for group A](https://va.gov) - _Coming soon_
-- [Link to prototype or OptimalSort session for group B](https://va.gov) - _Coming soon_
+- [Conversation guide]([https://va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/conversation-guide.md))
+- [Prototype]([https://va.gov](https://www.sketch.com/s/0c023f07-db31-4bba-9c92-1f70343f060f/prototype/ECF13B7E-5E08-4053-BEEC-11AD5A15805D/a/ECF13B7E-5E08-4053-BEEC-11AD5A15805D)
 
 	
 ## Recruitment	
@@ -110,11 +94,6 @@ We will be utilizing a lean maximum variation strategy for our studies, if possi
 
 ### Recruitment criteria
 For remote, moderated usability interviews we would like 24 participants (assuming 16 completions). 
-
-For unmoderated Chalkmark and OptimalSort tests, we would like 27 participants each, according to the following cohorts (in groups of 9, according to [PRA "Fewer than 10" rule](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)): 
-- Veterans on Active Duty (Chapter 30)
-- Veterans in Selected Reserve (Chapter 1606)
-- Veterans with active award (for any above program) with disabilities
 
 Participants should meet VA MVS (Maximum Variation Sampling) criteria of:
 - 50% aged 55-64+
@@ -140,7 +119,6 @@ Write any recruitment criteria for experience or scenarios as screener questions
 
 
 ## Timeline
-- 12/? 
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -150,7 +128,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: 12/18/2023-12/31/2023
+* Planned dates of research: 12/22/2023-12/31/2023 - would like to start earlier, if possible
 
 ### Length of sessions
 Each research session will be 45-minutes long with a buffer time of 15 mins between sessions. We’d like a maximum of two sessions per day.
