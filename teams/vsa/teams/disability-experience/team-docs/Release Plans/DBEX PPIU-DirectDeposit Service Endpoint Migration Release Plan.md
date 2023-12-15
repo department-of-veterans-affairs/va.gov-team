@@ -55,27 +55,26 @@ TODO:
 ### Pre-release Testing
 - [x] Complete pre-launch tasks: N/A
 - [x] Inform Lighthouse about increased traffic for the direct deposit endpoint
-- [ ] Complete manual testing with production credentials in Argo and ensure that our provider and factory are working
-- [ ] Confirm K8 manifest repository has references to correct environment variable paths in AWS Parameter Store (dsvagovcloud)
-- [ ] Create and execute a Testrail test plan
+- [x] Complete manual testing with production credentials in Argo and ensure that our provider and factory are working
+- [x] Confirm K8 manifest repository has references to correct environment variable paths in AWS Parameter Store (dsvagovcloud)
+- [x] Create and execute a Testrail test plan
     - Pre-test link: https://dsvavsp.testrail.io/index.php?/cases/view/52565
     - Canary link: https://dsvavsp.testrail.io/index.php?/cases/view/52579
-- [ ] Complete Review Case below
+- [x] Complete Review Case below
 
 ### Review Cases
-- [ ] Does the existing DataDog monitoring have sufficient coverage?
-- [ ] Have a successful TestRail test plan been executed?
-- [ ] Do we have a point of contact on LH to coordinate with?
-- [ ] Has the team reviewed and timeboxed the release intervals?
-- [ ] Have PO(s) been made aware and approved of the plan? 
+- [x] Does the existing DataDog monitoring have sufficient coverage?
+- [x] Have a successful TestRail test plan been executed?
+- [x] Do we have a point of contact on LH to coordinate with?
+- [x] Has the team reviewed and timeboxed the release intervals?
+- [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/69391
 - Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: PPIU/Direct Deposit](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4?refresh_mode=sliding&from_ts=1700158863442&to_ts=1700162463442&live=true)
-- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles (below list TBD):
     - Robin Garrison, @Robin Garrison
-    - Mike Richard @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
