@@ -40,7 +40,7 @@
 |---|---|---|:---:|:---:|---|---|
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | complete |  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟨 | ⬜ | development | CRM team waiting on new team to start pair programing later this week | 
-Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟨 | ⬜ | development | CRM team to complete design of all endpoints by 11/29| 
+Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟨 | ⬜ | development | CRM team to complete design of all endpoints by 12/21| 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | development | | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | development | | 
 Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟨 | ⬜ | development | |
