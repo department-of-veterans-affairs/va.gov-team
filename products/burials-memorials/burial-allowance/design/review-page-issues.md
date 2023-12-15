@@ -24,7 +24,30 @@ A claimant can submit blank required information
 <br><br><br><br>
 
 
-## Issue 2 
+
+## Issue 2 - Severe
+A claimant cannot upload files on the review page blocking submission
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/1337590f-85ad-471e-87a2-c93e09f1df07" align="right" width="35%">
+
+
+#### Steps to replicate
+- On step 4, only select "Transportation" as a benefit
+- Get to the Review page
+- Expand the "Benefit selection" section
+- Select either Burial allowance or Plot allowance and click "Update page"
+- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
+- Expand the "Additional information" section and click "Edit"
+- Add any required information
+- Click "Submit application"
+You can't upload the required file to fix this error blocking you from submitting the form
+
+#### Possible Solution
+1) Add an "upload file" button and allow upload files on the Review page
+2) Add an "upload file" button and return the claimant to Step 5 to upload the file there
+<br><br><br><br>
+
+
+## Issue 3 
 When updating the "Date of death" and "Date of burial" of the deceased Veteran, the claimant does not get informed if these dates are more than 2 years from our current date.
 
 #### Steps to replicate
@@ -41,7 +64,7 @@ Add the existing note on step 2 to the corresponding section on the Review page.
 
 <img width="20%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80d7d2ed-6daf-4c9c-ba5d-ce585173b011">
 
-## Issue 3
+## Issue 4
 A claimant can add multiple blank previous names the deceased Veteran served under without having to enter a name first. This behavior is different than the same section in Step 3. On Step 3 you are not allowed to add additional names unless you add a name first.
 
 #### Steps to replicate
@@ -58,7 +81,7 @@ As mentioned in Issue 1, the claimant is allowed to submit this application with
 
 <br><br>
 
-## Issue 4
+## Issue 5
 
 
 
