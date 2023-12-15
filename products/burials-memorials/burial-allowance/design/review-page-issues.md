@@ -4,7 +4,7 @@ VA NON-DISABILITY BENEFITS · Burial benefits MVP redesign
 
 Designer: [Fiorella](https://github.com/fiorella-io)
 
-## Bug 1
+## Bug
 The "Benefits selection" title gets deleted
 
 #### Steps to replicate
@@ -117,6 +117,25 @@ As mentioned in Issue 1, the claimant is allowed to submit this application with
 <br><br>
 
 ## Issue 6
+The claimant does not know what additional actions should be taken to resolve errors triggered
 
+#### Steps to replicate example 1
+- On step 4, only select "Transportation" as a benefit
+- Get to the Review page
+- Expand the "Benefits selection" section
+- Select either Burial allowance or Plot allowance and click "Update page"
+This triggers errors on a new section that appears. The claimant is not informed that they need to add all required information
+<img width="35%" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/f3512af6-32a9-463c-8ad6-117c69694de2">
 
+ 
+#### Steps to replicate example 2
+- On step 4, only select "Transportation" as a benefit
+- Get to the Review page
+- Expand the "Benefits selection" section
+- Select either Burial allowance or Plot allowance and click "Update page"
+- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
+- Click "Update page". This will trigger errors in the "Additional information" section.
+- Expand the "Additional information" section
+The claimant here is not informed that they need to upload a new file that is required
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80066328-aa4c-4f15-b008-4028afef2d59" width="35%">
 
