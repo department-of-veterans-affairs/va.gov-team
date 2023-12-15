@@ -147,8 +147,8 @@ For detailed protocol on each part of the study, see:
       * [2022 - VA Mobile App - Navigation UI Direction Recommendation - PO presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/2022%20-%20VA%20Mobile%20App%20-%20Navigation%20UI%20Direction%20Recommendation%20PO%20presentation.pdf) (May 2022)
   * **Implementation**
       * [VA Mobile App - Screen Roundup (mural)](https://app.mural.co/invitation/mural/adhoccorporateworkspace2583/1644341290076?sender=u28718b63c8993f515e0b2240&key=74759cd5-45ad-43d9-aee3-a58fb949aa73) (February 2022)
-      * [Screen-by-screen audit of changes: VA Mobile App- IA Audit](https://docs.google.com/spreadsheets/d/1nLZdbcZS2nAnsVz12TwsHF2OU5nNeWZoJ0bSFuiKF_A/edit#gid=0)
-      * [High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1)
+      * [Screen-by-screen audit of changes: VA Mobile App- IA Audit spreadsheet](https://docs.google.com/spreadsheets/d/1nLZdbcZS2nAnsVz12TwsHF2OU5nNeWZoJ0bSFuiKF_A/edit#gid=0)
+      * [High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1) (Oct 2022)
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
     *  [Findings for VA Mobile App IA & Navigation Research: Usability Study (Low-fi)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md) (August-September 2022)
