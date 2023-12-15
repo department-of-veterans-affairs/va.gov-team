@@ -5,7 +5,7 @@ Did the CMS team recommend a Design Intent in your CMS Collaboration Cycle Reque
 CMS Team
 
 ## Timing
-Request this touchpoint when you have an idea of how to solve the problem statement provided in your Product Outline and have at minimum drafted the required design artifacts listed below.
+Request this touchpoint when you have an idea of how to solve the problem statement provided in your Product Outline and have at minimum drafted the artifacts listed down in the "Required design artifacts" section of this page.
 
 Design Intent meetings require a 2 day lead time before a meeting is held. This is required in order to allow enough time for a Designer on the CMS team to review your artifacts and prepare their feedback for your team.
 
