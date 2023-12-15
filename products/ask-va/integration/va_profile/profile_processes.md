@@ -123,9 +123,22 @@ flowchart TB
     end
 ```
 
+## VA Profile vs VA.gov Profile
+
+Questions: 
+1. What is the purpose for each system? 
+2. Does everybody get an ICN who logs into VA.gov?
+3. Is VA Profile available to ALL people that will try to access AskVA (veteran and non-veteran)?
+
+| Criteria | VA Profile | VA.gov Profile |
+|---|---|---|
+| When you authenticate to one of the supported IDPs, is a record in this system created? | | |
+| Is the information in this system accessible to AskVA (in VetsAPI)? | | |
+| POC for the system | | |
+
+
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
 * [Moving to VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Moving%20to%20VA%20Profile.md)
 
-## Outstanding Questions
-* Is VA Profile available to ALL people that will try to access AskVA (veteran and non-veteran)
+
