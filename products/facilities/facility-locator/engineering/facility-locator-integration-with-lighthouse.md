@@ -1,4 +1,4 @@
-# Facility Locator - Lighthouse Integration 
+# March 2022: Facility Locator - Lighthouse Integration proposal
 
 ## Problem Statement
 The current integration between the Facility Locator and Lighthouse does not allow Lighthouse to identify the source of traffic, is not secure, and is not the most efficient method.    
