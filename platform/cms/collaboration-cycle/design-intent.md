@@ -39,7 +39,7 @@ When scheduling your Design Intent meeting, your team will be required to provid
 - Any other relevant artifacts you have so far
 
 ## Objective
-For your team to get feedback on the user experience and your product’s overall design.
+For your team to get high-level feedback from the CMS team on the user experience of your proposed design solution.
 
 After reading over the Product Outline provided by your team, the CMS Team uses this meeting to gain a deeper understanding of your product/feature, including the goals/direction of the product, the intended user flow, and the overall scope of the initiative.
 
