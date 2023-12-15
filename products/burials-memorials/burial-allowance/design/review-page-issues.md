@@ -4,6 +4,8 @@ VA NON-DISABILITY BENEFITS · Burial benefits MVP redesign
 
 Designer: [Fiorella](https://github.com/fiorella-io)
 
+Existing accessibility tickets to consider: [61549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61549)
+
 ## Bug
 The "Benefits selection" title gets deleted
 
@@ -156,7 +158,9 @@ The global error alert at the bottom of the page is too generic, and the claiman
 - Click "Update page" and then "Submit application"
 
 #### Possible Solution
-1) Add more information on the error alert, and list impacted sections as links that when clicked expand the right section. [Related ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56934) | [https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/WdljmnnDesigns for this solution]()
+1) Add more information on the error alert, and list impacted sections as links that when clicked expand the right section. [Related ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56934) | [Design for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/Wdljmnn)
+
+
 
   
 
