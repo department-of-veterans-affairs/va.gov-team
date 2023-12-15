@@ -94,7 +94,6 @@ These errors will be shown even if the editor's original intention was not to ed
 ## Post-launch
 - [ ] CMS Engineers monitor Datadog
 - [ ] CMS Help Desk monitor issues post launch and escalate any critical bugs to team
-### CMS Help Desk
+## CMS Help Desk
 Editors should report issues by [creating a ticket via JIRA](https://va-gov.atlassian.net/servicedesk/customer/portal/3) that will go directly to CMS Help Desk
-
 
