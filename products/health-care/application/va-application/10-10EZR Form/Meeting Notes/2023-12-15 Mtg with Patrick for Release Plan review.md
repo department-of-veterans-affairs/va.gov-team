@@ -9,7 +9,7 @@
 - Ramp up after New year
 
 ### Action items
-- [ ] Contact JF for availability and backups during phased release, specifically over holidays
+- [x] Contact JF for availability and backups during phased release, specifically over holidays
 - [ ] Confirm functionality of widget static page based on Feature Toggle with Matt L
 - [ ] Confirm for static unpublishing team availability
 - [ ] Discuss on Monday during Sync on updates, Go/No Go and HEC communications
