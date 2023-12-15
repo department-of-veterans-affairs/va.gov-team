@@ -1,6 +1,6 @@
 # NOK/EC Load Estimates
 
-The VA Profile team requested "volume estimates" for API traffic.
+The VA Profile team requested volume estimates for API traffic.
 
 - Peak transactions per second (read)
 - Peak transactions per second (write)
