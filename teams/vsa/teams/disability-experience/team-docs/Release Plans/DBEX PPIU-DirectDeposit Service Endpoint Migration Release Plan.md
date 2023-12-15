@@ -26,10 +26,10 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ## Overview Checklist
 - Notes
-- [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
-    - [ ] Pre-release Testing
-    - [ ] Review Cases
+- [x] Phase I: Internal Testing and Review
+    - [x] Internal Testing and Review
+    - [x] Pre-release Testing
+    - [x] Review Cases
 - [ ] Phase II: Staged Rollout
     - [ ] Canary
     - [ ] Stage A: 1%
