@@ -126,3 +126,6 @@ flowchart TB
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
 * [Moving to VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Moving%20to%20VA%20Profile.md)
+
+## Outstanding Questions
+* Is VA Profile available to ALL people that will try to access AskVA (veteran and non-veteran)
