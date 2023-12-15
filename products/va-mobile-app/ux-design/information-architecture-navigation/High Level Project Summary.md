@@ -151,7 +151,7 @@ For detailed protocol on each part of the study, see:
       * [VA Mobile App - High fidelity screen templates for navigation model - Figma](https://www.figma.com/file/cdp7Be4UdYesq9fXeqaOgt/%F0%9F%9A%A2-Navigation2.0---ScreenTemplates---Shipped---VAMobile?node-id=0%3A1&t=MLR0Wl9QqzHyZTRd-1) (October 2022)
  
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
-    *  [VA Mobile App - Findings for VA Mobile App IA & Navigation Research: Usability Study (Low-fi)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md) (August-September 2022)
+    *  [VA Mobile App - Findings for VA Mobile App IA & Navigation Research: Usability Study (Low-fi wireframe concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/usability-testing/new%20navigation%20usability/usability-findings.md) (August-September 2022)
   
 
 
