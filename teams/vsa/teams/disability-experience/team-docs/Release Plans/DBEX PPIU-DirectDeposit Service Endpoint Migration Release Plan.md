@@ -77,41 +77,32 @@ TODO:
     - Robin Garrison, @Robin Garrison
     - Mike Richard @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
-- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
     - If opting for asynchronous time:
-        - [ ] Note individual scheduled dates and times next to each identified user
-        - [ ] Note testing steps:
-            1. Login to your va.gov account in prod
-            2. Navigate to `va.gov/disability/file-disability-claim-form-21-526ez/start`
-            3. Answer the questions as follows:
-                "Are you on active duty right now?" > "No"
-                "I'm filing a new claim"
-                
-                Alternatively, skip the form by navigating to the "If you know X form is right, click here"
-            4. On the /introduction screen, select "Start the Disability Compensation Application"
-            5. On the first `/veteran-information` screen, please note for us
-                - The current time, date, and timezone
-                - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
-                - The city your browser is making the request from
-              
-            6. Press ‘Continue’
-            7. Under the “Step 1 of 5: Veteran Details” header, there should be a line with your Application ID number
-                - Please note your Application ID for us
-            8. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
-            9. Close your browser and repeat steps 2-4
-            10. On the first `/veteran-information` screen, please note the current time and date
-        - [ ] Record testing steps in TestRail
-        - [ ] Share testing steps with each user
-- [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+        - [x] Note individual scheduled dates and times next to each identified user
+        - [x] Note testing steps
+            - [ ] Make sure your testing steps include recording useful information and when to record them. At a minimum , this is usually:
+                - Their current time, date, and timezone
+                - Whether they have an existing submission, ITF, RDs, etc.
+                - The city your browser is making the request from (useful for helping to identify them in qualitative logs)
+                - An example recording step would be:
+                    10. On the first `/veteran-information` screen, please note the current time and date
+        - [x] Record testing steps in TestRail
+        - [x] Share testing steps with each user
+- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [ ] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
-- [ ] Ensure qualitatively that the feature works as intended for users
+- [x] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
 - [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
+        - We currently do not have a way to block adjudication on volunteer-submitted claims. Therefore, we can't safely have our prod users test submit flows unless they actually have a claim to process (unlikely)
+            - We will move to an RCT pattern to remediate this. This involves using a random selection of our actual users in combination with alerts to catch any errors that might occur
+            - Also looking into a feature-flagged block to adjudication in the submit logic, if possible
+            - 
 
 <br>
 
