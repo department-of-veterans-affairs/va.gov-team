@@ -151,8 +151,9 @@ The claimant here is not informed that they need to upload a new file that is re
 ## Issue 7 - Nice to have
 <img width="35%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/74587196-f203-418b-8b55-fdf453788f6e">
 
-#### Steps to replicate
 The global error alert at the bottom of the page is too generic, and the claimant is not informed of the sections that need to be fixed.
+
+#### Steps to replicate
 - On step 4, only select "Transportation" as a benefit
 - Get to the Review page
 - Expand the "Benefits selection" section
