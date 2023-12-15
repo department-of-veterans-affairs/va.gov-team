@@ -25,7 +25,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - 🟩 [[FE] Exclude VVC Appointments from Pre-Check-in AND Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72011) 
+    - ❗ ?????????? 🟩 [[FE] Exclude VVC Appointments from Pre-Check-in AND Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72011) 
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**   
@@ -55,7 +55,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71838)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71867)        
+    - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71867)        
     - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
         - Does this need to get rolled over?
     - **Sub Goal: Migrate Sktech Files to Figma**
