@@ -38,7 +38,7 @@ A claimant can submit blank required information
 - You can also choose to click "Update page" and then click "Submit application"
 
 #### Possible Solution
-1) Automatically trigger an error when "Yes" is selected to the "Did the Veteran serve under another name?" question. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/mP0x9bg)
+1) Automatically trigger an error when "Yes" is selected to the "Did the Veteran serve under another name?" question. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/mP0x9bg) OR
 2) Trigger errors when "Submit application" is clicked
 <br><br><br><br><br>
 
@@ -62,7 +62,7 @@ A claimant cannot upload files on the review page blocking submission
 You can't upload the required file to fix this error blocking you from submitting the form
 
 #### Possible Solution
-1) Add an "upload file" button and allow upload files on the Review page
+1) Add an "upload file" button and allow upload files on the Review page OR
 2) Add an "upload file" button and return the claimant to Step 5 to upload the file there
 <br><br>
 
@@ -81,7 +81,7 @@ Section errors that get triggered due to adding additional benefits stay persist
 - Click "Update page". This should remove the errors in the "Additional information" section, but there section errors stay persistent
 
 #### Possible Solution
-1) Removing benefits in the "Benefit selection" section, should also remove any triggered errors in other interconnected sections
+1) Removing benefits in the "Benefits selection" section, should also remove any triggered errors in other interconnected sections
 <br>
 
 ## Issue 4 
