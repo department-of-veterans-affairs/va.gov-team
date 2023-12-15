@@ -97,9 +97,9 @@ When updating the "Date of death" and "Date of burial" of the deceased Veteran, 
 Add the existing note on step 2 to the corresponding section on the Review page. [Design for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/OeYMxak)
 
 
-<img width="20%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80d7d2ed-6daf-4c9c-ba5d-ce585173b011">
 
 ## Issue 5
+<img width="20%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80d7d2ed-6daf-4c9c-ba5d-ce585173b011">
 A claimant can add multiple blank previous names the deceased Veteran served under without having to enter a name first. This behavior is different than the same section in Step 3. On Step 3 you are not allowed to add additional names unless you add a name first.
 
 #### Steps to replicate
@@ -125,7 +125,10 @@ The claimant does not know what additional actions should be taken to resolve er
 - Expand the "Benefits selection" section
 - Select either Burial allowance or Plot allowance and click "Update page"
 This triggers errors on a new section that appears. The claimant is not informed that they need to add all required information
-<img width="35%" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/f3512af6-32a9-463c-8ad6-117c69694de2">
+<img width="30%" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/f3512af6-32a9-463c-8ad6-117c69694de2">
+
+#### Possible Solution
+1) Adding additional copy to let the claimant know there is additional required information that needs to be entered, and highlighting the blank sections with missing information. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/bLZ2xm0)
 
  
 #### Steps to replicate example 2
@@ -137,5 +140,24 @@ This triggers errors on a new section that appears. The claimant is not informed
 - Click "Update page". This will trigger errors in the "Additional information" section.
 - Expand the "Additional information" section
 The claimant here is not informed that they need to upload a new file that is required
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80066328-aa4c-4f15-b008-4028afef2d59" width="35%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80066328-aa4c-4f15-b008-4028afef2d59" width="30%">
+<br>
+
+## Issue 7 - Nice to have
+<img width="35%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/74587196-f203-418b-8b55-fdf453788f6e">
+
+#### Steps to replicate
+The global error alert at the bottom of the page is too generic, and the claimant is not informed of the sections that need to be fixed.
+- On step 4, only select "Transportation" as a benefit
+- Get to the Review page
+- Expand the "Benefits selection" section
+- Select either Burial allowance or Plot allowance and click "Update page"
+- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
+- Click "Update page" and then "Submit application"
+
+#### Possible Solution
+1) Add more information on the error alert, and list impacted sections as links that when clicked expand the right section. [Related ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56934) | [https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/WdljmnnDesigns for this solution]()
+
+  
+
 
