@@ -44,7 +44,7 @@ For your team to get feedback on the user experience and your product’s overal
 After reading over the Product Outline provided by your team, the CMS Team uses this meeting to gain a deeper understanding of your product/feature, including the goals/direction of the product, the intended user flow, and the overall scope of the initiative.
 
 ## Agenda
-This is the first opportunity for the CMS Team to view your product and the proposed solution to your problem statement provided as part of your Product Outline. You’ll introduce your new work initiative and discuss existing solutions in the problem space. You’ll present your wireframe/prototype and walk through the user flow.
+This is the first opportunity for the CMS Team to view your product and the proposed solution to your problem statement provided as part of your Product Outline. You’ll introduce your new work initiative and discuss existing solutions in the problem space. You’ll walk through the user flow and  present any other relevant design artifacts.
 
 The CMS team will then ask questions and provide feedback relevant to the product.
 
