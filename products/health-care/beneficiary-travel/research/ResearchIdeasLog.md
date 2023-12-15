@@ -16,3 +16,6 @@ This study would build upon extant research to understand and document the physi
 
 ### Idea 4: How money hits the bank
 This study would dive into how the funds are transferred into the Vet account, that process and pain points.
+
+### Idea 5: Status updates on VA.gov 
+Having to "double log in" to BTSSS in order to see the status of a claim is a known pain point.  If we were to give Vets visibility into this status on VA.gov, where would it live? Where would Vets look for this info? What is the user mental model? **This has been prioritized and will commence in January 2024**, pending research findings from the Check-in team.
