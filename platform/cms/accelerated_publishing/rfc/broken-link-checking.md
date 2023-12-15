@@ -14,7 +14,7 @@ We currently have two link checking systems in place around CMS and Content Buil
 Content Build runs a [broken link check](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/stages/build/plugins/modify-dom/check-broken-links/index.js) for every build via a custom plugin. This works as follows:
 
 1. Content Build has knowledge of every page & file it is handling in the form of a list of paths
-2. Content Build parses each HTML page, finds any links, images, or other files, and checks each of those links to see if it is in the list from
+2. Content Build parses each HTML page, finds any links it thinks are internal to  pages, images, or other files, and checks each of those links to see if it is in the list from
 3. If it does not find that item in the list from step 1, it is a broken link.
 
 ## Motivation
