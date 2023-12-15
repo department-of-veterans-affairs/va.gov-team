@@ -222,6 +222,8 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
  
 
 ### Task 3: [Find VA location]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
 
 *RECORD navigation: **desktop header > Find a VA location** / search / **mobile header > search > Find a VA location*** / footer
@@ -232,6 +234,8 @@ I'd like you to imagine that you're planning a trip to another city, and you wan
 
 
 ### Task 4: [Learn about disability compensation]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
 Pretend that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
 
 *RECORD navigation: header > **megamenu > Disability > Eligibility** / footer / search / mobile search*
@@ -240,6 +244,8 @@ Pretend that lately you've been having difficulty with your hearing, and you thi
 
 
 ### Task 5: [Find a Form]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
 Let's say that you're considering going back to school to get your degree, and you'd like to see if the VA can help you pay for it. How might you apply online?  
 
 *RECORD navigation: header > megamenu > Education and training > How to apply / **footer > VA forms** / search / **mobile header > search > Find a VA form***
@@ -250,6 +256,8 @@ Let's say that you're considering going back to school to get your degree, and y
 - *(If need more prompting)* You're looking for the application form to fill out online.
 
 ### Task 6: [Careers at VA]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
 
 *RECORD navigation: header > megamenu > Careers and employment > Find VA careers and support / **footer > Careers at VA** / search / mobile search*
@@ -259,6 +267,8 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 - *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
 
 ### Task 7: [Contact VA]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
 Say that after using this website for a while, you didn't get all of your questions answered. How might you reach out to someone at the VA? 
 - *(if additional prompting needed)* Is there anything on this page that might help?
 
@@ -267,6 +277,8 @@ Say that after using this website for a while, you didn't get all of your questi
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 ### Task 8: [FOIA]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
  Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
@@ -278,6 +290,8 @@ Say that after using this website for a while, you didn't get all of your questi
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 ### Task 9: [Update your contact information with VA]
+*(make sure that p is at top of page w/header menus closed, or ask to do this)*
+
 Could you please refresh the current page in your browser? *(so login works)*
 
 Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
