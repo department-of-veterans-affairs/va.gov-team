@@ -35,7 +35,8 @@ A claimant cannot upload files on the review page blocking submission
 - Get to the Review page
 - Expand the "Benefit selection" section
 - Select either Burial allowance or Plot allowance and click "Update page"
-- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
+- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared and click "Update page"
+
 - Expand the "Additional information" section and click "Edit"
 - Add any required information
 - Click "Submit application"
@@ -44,10 +45,27 @@ You can't upload the required file to fix this error blocking you from submittin
 #### Possible Solution
 1) Add an "upload file" button and allow upload files on the Review page
 2) Add an "upload file" button and return the claimant to Step 5 to upload the file there
-<br><br><br><br>
+<br><br>
 
+## Issue 3 - Severe
+<img width="35%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/b343a225-000f-4e27-a598-d9e924d78af9">
+Section errors that get triggered due to adding additional benefits stay persistent, even after removing those benefits, blocking claimants from submitting the form
 
-## Issue 3 
+#### Steps to replicate
+- On step 4, only select "Transportation" as a benefit
+- Get to the Review page
+- Expand the "Benefit selection" section
+- Select either Burial allowance or Plot allowance and click "Update page"
+- Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
+- Click "Update page". This will trigger errors in the "Additional information" section
+- Remove the new benefits that were added
+- Click "Update page". This should remove the errors in the "Additional information" section, but there section errors stay persistent
+
+#### Possible Solution
+1) Removing benefits in the "Benefit selection" section, should also remove any triggered errors in other interconnected sections
+<br>
+
+## Issue 4 
 When updating the "Date of death" and "Date of burial" of the deceased Veteran, the claimant does not get informed if these dates are more than 2 years from our current date.
 
 #### Steps to replicate
@@ -55,7 +73,7 @@ When updating the "Date of death" and "Date of burial" of the deceased Veteran, 
 - Get to the review page
 - Expand the "Veteran information"
 - Change the year to 2019 or less
-- No warning note gets triggered here like it does in Step 2
+- No warning note gets triggered here as it does in Step 2
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/8bb88a1d-44a1-4846-9143-93e2b0df6a1d" width="60%">
 
 #### Possible Solution
@@ -64,7 +82,7 @@ Add the existing note on step 2 to the corresponding section on the Review page.
 
 <img width="20%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80d7d2ed-6daf-4c9c-ba5d-ce585173b011">
 
-## Issue 4
+## Issue 5
 A claimant can add multiple blank previous names the deceased Veteran served under without having to enter a name first. This behavior is different than the same section in Step 3. On Step 3 you are not allowed to add additional names unless you add a name first.
 
 #### Steps to replicate
@@ -81,7 +99,7 @@ As mentioned in Issue 1, the claimant is allowed to submit this application with
 
 <br><br>
 
-## Issue 5
+## Issue 6
 
 
 
