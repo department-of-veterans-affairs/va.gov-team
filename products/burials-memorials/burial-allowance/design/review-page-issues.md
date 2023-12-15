@@ -130,7 +130,7 @@ This triggers errors on a new section that appears. The claimant is not informed
 <img width="30%" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/f3512af6-32a9-463c-8ad6-117c69694de2">
 
 #### Possible Solution
-1) Adding additional copy to let the claimant know there is additional required information that needs to be entered, and highlighting the blank sections with missing information. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/bLZ2xm0)
+1) Adding content to let the claimant know there is additional required information that needs to be entered, and highlighting the blank sections with missing information. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/bLZ2xm0)
 
  
 #### Steps to replicate example 2
@@ -144,6 +144,9 @@ This triggers errors on a new section that appears. The claimant is not informed
 The claimant here is not informed that they need to upload a new file that is required
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80066328-aa4c-4f15-b008-4028afef2d59" width="30%">
 <br>
+
+#### Possible Solution
+1) Adding content to let the claimant know that they need to upload a file. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/v/QQrV9x/a/zyZLKGM)
 
 ## Issue 7 - Nice to have
 <img width="35%" align="right" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/74587196-f203-418b-8b55-fdf453788f6e">
