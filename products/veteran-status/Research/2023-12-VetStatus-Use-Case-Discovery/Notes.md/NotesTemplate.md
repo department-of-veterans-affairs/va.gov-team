@@ -18,7 +18,7 @@
 
 
 
-* **What do they use when?**
+* What do they use when?
 * For what? 
 * What makes them pick a specific card? 
 * How do they describe each card, its purpose and use? 
@@ -40,10 +40,10 @@
 
 
 
-* **Why did you want to use it?**
-* **Where were you?  What was it for?**
-* **How did you access the discount?  **
-* **Probe for: **
+* Why did you want to use it?
+* Where were you?  What was it for?
+* How did you access the discount?  
+* Probe for: 
     * **Did they have to validate? **
     * **Who was validating their status? **
     * **Did that person say what they were looking for? **
