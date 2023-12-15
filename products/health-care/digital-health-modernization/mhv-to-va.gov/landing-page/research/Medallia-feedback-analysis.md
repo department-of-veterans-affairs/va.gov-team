@@ -6,10 +6,13 @@ Overall: 93 total responses
 * Tablet users: 3
 
 Two different surveys: 
-* A11y questionnaire: 56 users
+* A11 questionnaire: 56 users
 * VFS questionnaire: 37 users
 
-## A11y Questionnaire: Overall Veteran experience score
+## A11 Questionnaire – Intercept survey
+
+Key c-sat score name: "VA.gov experience"
+Delivery: Intercept modal (randomly offered to a small percentage of users; appears in report for URL where modal appeared)
 
 TOTAL RESPONSES: 56
 
@@ -28,7 +31,10 @@ Other:
 * Users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large.
 * Users who give high scores for their overall experience also gave higher scores regarding their familiarity with VA.gov, were more trustworthy of the VA, and reported higher scores for their experience with the VA writ large.
 
-## VFS Questionnaire
+## VFS Questionnaire - Feedback button
+
+Key c-sat score name: "What is your overall satisfaction with this site?"
+Delivery: Feedback button at bottom of page
 
 TOTAL RESPONSES: 37 
 
