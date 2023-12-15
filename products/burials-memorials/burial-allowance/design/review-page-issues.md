@@ -62,7 +62,7 @@ A claimant cannot upload files on the review page blocking submission
 You can't upload the required file to fix this error blocking you from submitting the form
 
 #### Possible Solution
-1) Add an "upload file" button and allow upload files on the Review page OR
+1) Add an "upload file" button and allow upload files on the Review page. Designs for this solution: [Expanded](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/zyZLKGM)| [Editable](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/v/QQrV9x/a/ZVRPny3) OR
 2) Add an "upload file" button and return the claimant to Step 5 to upload the file there
 <br><br>
 
@@ -113,7 +113,7 @@ A claimant can add multiple blank previous names the deceased Veteran served und
 As mentioned in Issue 1, the claimant is allowed to submit this application with multiple empty previous names
 
 #### Possible Solution
-1) Once "Yes" is selected for the "Did the Veteran serve under another name?" question and new fields appear, delete the "Add another name" until "Update" has been clicked. Designs for this solution: [Editable](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/mP0x9bg) | [Updated/Saved](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/j4D2yVW)
+1) Once "Yes" is selected for the "Did the Veteran serve under another name?" question and new fields appear, delete the "Add another name" until "Update" has been clicked. Designs for this solution: [Editable](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/mP0x9bg) | [Updated/Saved](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/j4D2yVW) OR
 2) Once "Add another name" is clicked, trigger inline errors
 
 <br><br>
@@ -140,7 +140,7 @@ This triggers errors on a new section that appears. The claimant is not informed
 - Select either Burial allowance or Plot allowance and click "Update page"
 - Resolve the error(s) triggered by adding all required information on the new section(s) that appeared
 - Click "Update page". This will trigger errors in the "Additional information" section.
-- Expand the "Additional information" section
+- Expand the "Additional information" section.
 The claimant here is not informed that they need to upload a new file that is required
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/80066328-aa4c-4f15-b008-4028afef2d59" width="30%">
 <br>
@@ -159,6 +159,7 @@ The global error alert at the bottom of the page is too generic, and the claiman
 
 #### Possible Solution
 1) Add more information on the error alert, and list impacted sections as links that when clicked expand the right section. [Related ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56934) | [Design for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/Wdljmnn)
+
 
 
 
