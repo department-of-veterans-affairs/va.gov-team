@@ -17,12 +17,13 @@ The "Benefits selection" title gets deleted
 - Remove the new benefits that were added
 - Click "Update page"
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/11b6831f-1a14-463d-9998-2f0b8fb57685" width="80%">
-<br><br><br>
+<br><br>
 
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/bc5bf2b8-dcf4-44db-a707-a7ed8ef7ebae" width="35%" align="right">
 
 ## Issue 1 - Severe
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/bc5bf2b8-dcf4-44db-a707-a7ed8ef7ebae" width="35%" align="right">
+
 A claimant can submit blank required information
 
 
@@ -37,7 +38,7 @@ A claimant can submit blank required information
 #### Possible Solution
 1) Automatically trigger an error when "Yes" is selected to the "Did the Veteran serve under another name?" question. [Designs for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/mP0x9bg)
 2) Trigger errors when "Submit application" is clicked
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 
