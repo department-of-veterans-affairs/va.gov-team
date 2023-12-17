@@ -1,12 +1,11 @@
 # My VA: Benefit Applications Drafts Use Cases
 
-**Last updated:** December 1, 2023 - updated user flow link
+**Last updated:** December 17, 2023 - removed reference to expandable benefit menu
 
 ## Overview of Benefit Application Drafts:
 
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
-- This feature on My VA contains an expandable dropdown with a list of VA benefits links.
 - This feature shows a card for any benefit applications that a user has started and saved but not yet submitted, or text stating that the user has no benefit application drafts.
   - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
 
