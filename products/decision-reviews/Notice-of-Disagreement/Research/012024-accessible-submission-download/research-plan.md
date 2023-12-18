@@ -55,6 +55,7 @@ What are you trying to learn from this research?
 1. We hypothesize that the copy of the submission page will be usable by Veterans using screen readers. They will be able to understand it and save it.
 2. We hypothesize that there is a need for Veterans, including those using screen readers, to save a copy of their submission.
 3. We hypothesize that Veterans using screen readers would want to return to copy of submission page at a later time.
+4. We hypothesize that two of the four methods of storing results (PDF and printing) will be less valuable if a Veteran is blind and/or rely on a screen reader.
 
 ## Methodology
 -   Accessibility testing with a usability study approach
