@@ -39,5 +39,7 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
 
 ## Post-MVP
 
-1. Consider adding [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to the experience
-2. Integrate with OGC APIs for direct access to accredited representative data
+1. Partner with OGC and ARF to consider additional search parameters (email, website, remote support, gender, service area, capacity, ratings, attorney specialization)
+2. Satisfaction survey to assess the user perceptions of our product experience
+3. Consider adding [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to the experience
+4. Integrate with OGC APIs for direct access to accredited representative data
