@@ -258,10 +258,10 @@ Score: 2/10
 - Home > VA Benefits and Health Care > Health care > More info and resources
 
 **First click paths**
-VA Benefits and Health Care = 55%
-Facilities and locations = 35%
-Search = 8%
-General support = 3%
+- VA Benefits and Health Care = 55%
+- Facilities and locations = 35%
+- Search = 8%
+- General support = 3%
 
 **Results Confidence Validity**
 - Med-High
@@ -346,7 +346,8 @@ Score: 2/10
     * The locations pages/hub and the disability hub are the more prominent areas of the site to focus on possible registartion entrances. 
 
 * Make sure to allow for a simplified path online where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
-    * Consider the journeys.
+    * Consider the journeys of each individual registration reason.
+    * Create journey maps out of research findings and include working sessions with stakeholders as part of the process. 
 
 
 * More visibility into health services that are personalized based on eligibility
@@ -358,11 +359,12 @@ Score: 2/10
 
 ## Next Steps
 
+* Determine top registration reasons to work on first.
+* Collaborate with HEC stakeholders in journey map creation
+* Low-fi wireframes of "health care benefits application hub" concept.
+* Test the low-fi wireframes with Veterans.
 
 
-* Workshops to use research findings from this and a past study, along with desk and SME research, to draft a visual to represent the various health care benefits sign up process holistically 
-
-* Determine if it makes sense to test a prototype flow where registration is a step in the process.
 
 
 
