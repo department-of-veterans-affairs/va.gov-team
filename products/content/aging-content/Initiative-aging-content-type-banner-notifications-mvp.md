@@ -1,7 +1,7 @@
 # Initiative: Full Width Banner Content Type Notifications - Aging Content (MVP)
 
 ## Overview
-Content in general, and for the purpose of this Initiative, Full-width banners in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. Full-width banners should be used only for informational alerts or warning alerts.
+Content in general, and for the purpose of this Initiative, Full-width banners in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the alert is needed, or the banner is used for something other than its purpose. Full-width banners should be used only for informational alerts or warning alerts.
 
 Currently, there is a Notification system set on a 365 day cadence from set from the banner's  Created date or if subsequently edited, Last Edited date.
 
