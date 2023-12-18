@@ -117,8 +117,8 @@ Before we start, I have a few things that I want to go over with you:
 
 **11.**  We have talked about how you currently use and access veteran discounts, but if it were up to you, how would you like to access veteran specific discounts? Tell me how you would use and access these discounts.  
 
-**12.**  Where would you expect to find these tools (to access discounts)?  Where would you like to access them?  What would you call them?
-
+**12.**  Where would you expect to find these tools (to access discounts)?  Where would you like to access them?  **What would you call them?
+**
 **13.** What would you expect to find around or associated with these tools? 
 
 _Time permitting_
