@@ -123,7 +123,7 @@
 
 ### MHV
 
-- [MHV Secure Messaging ICD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/engineering/MHV_Secure_Messaging_API_Veteran_2.5.pdf) (2021, there may be a more recent version)
+- [MHV Secure Messaging ICD 2.0.0](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/sm/ICDs/SM-API%20Interface%20Control%20Document%202.0.0%20Veteran.doc.docx)
 
 ### Cerner
 
