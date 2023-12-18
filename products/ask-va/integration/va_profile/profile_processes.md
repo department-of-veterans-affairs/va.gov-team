@@ -27,8 +27,8 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter EDIPI | VA.gov Profile - MPI | edipi |
 | Submitter SSN | VA.gov Profile - MPI | ssn |
 | Submitter First Name | VA.gov Profile - identity | first_name |
-| Submitter Middle Name | VA Profile - identity | middle_name |
-| Submitter Last Name | VA Profile - identity | last_name |
+| Submitter Middle Name | VA.gov Profile - identity | middle_name |
+| Submitter Last Name | VA.gov Profile - identity | last_name |
 | Submitter Suffix | VA.gov Profile - identity | suffix |
 | Submitter Home Address | VA.gov Profile  - MPI | address.street & address.street2| 
 | Submitter Home City | VA.gov Profile  - MPI | address.city | 
