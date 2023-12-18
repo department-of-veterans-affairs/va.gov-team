@@ -103,13 +103,13 @@ For this particular feature, there isn’t a way to obtain metrics from GA
    
 ## Screenshots
 
-- [Figma mockups](https://www.figma.com/file/n2F9Y0QhjNoeNyQ4zv2VER/Full-Width-Banner-Alerts?type=design&node-id=0-1&mode=design&t=tHpd9W87gsWuQEB8-0)
+N/A
 
 ### Before
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/147188767/4b99e804-f350-432e-9c63-21c08186c8be)
+N/A
 
 ### After
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/147188767/fafbdb0a-96e4-4317-bb3d-127ae275c950)
+N/A
 
 ### Artifacts
 
