@@ -96,7 +96,7 @@
 
 ---
    
-## Screenshots
+## Screenshots (to be updated after usability testing)
 
 ### Confirmation page
 
