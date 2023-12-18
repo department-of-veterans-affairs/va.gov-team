@@ -1,6 +1,6 @@
 # Feature Outline: Profile Hub
 
-**Last Updated: July 28, 2023**
+**Last Updated: December 18, 2023** launch date
 
 ### Communications
 
@@ -69,7 +69,7 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 |Project|Epic|Launch date|
 |---|---|---|
-|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md) |[#40593](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)||
+|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md) |[#40593](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40593)|12/18/2023|
 
 ## Design
 
