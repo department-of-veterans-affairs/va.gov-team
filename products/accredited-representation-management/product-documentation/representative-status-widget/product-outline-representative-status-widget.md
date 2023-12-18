@@ -94,8 +94,6 @@ As we work towards this MVP, we will also be considering how this widget may sup
 - **Team Name**: Accredited Representation Management
 - **GitHub Label**: accredited-representation-management-team
 - **Slack channel**: #benefits-representation-management
-- Product POCs:
-- Stakeholders: Dr. Brandi Taylor (Office of Business Strategy)
 
 #### Team Members
  
@@ -103,3 +101,6 @@ As we work towards this MVP, we will also be considering how this widget may sup
  - **PM**: Lindsay Li-Smith
  - **Engineering**: Holden Hinkle
  - **Research/Design**: Janelle Finnerty
+
+#### Stakeholders
+ - Dr. Brandi Taylor (Office of Business Strategy)
