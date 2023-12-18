@@ -120,16 +120,7 @@ Based on user research findings and navigation/traffic analytics, consider:
 
 #### Team Members
  
- - **DEPO Lead**: Zach Goldfine
+ - **DEPO Lead**: Jennifer Bertsch
  - **PM**: Lindsay Li-Smith
  - **Engineering**: Holden Hinkle
  - **Research/Design**: Janelle Finnerty
-
-#### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
-
