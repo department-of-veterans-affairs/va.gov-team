@@ -124,4 +124,4 @@ Based on user research findings and navigation/traffic analytics, consider:
  - **Research/Design**: Janelle Finnerty
 
 #### Stakeholders
- - Dr. Brandi Taylor (Office of Business Strategy)
+ - Dr. Brandi Traylor (Office of Business Strategy)
