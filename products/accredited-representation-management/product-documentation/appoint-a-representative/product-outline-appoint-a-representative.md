@@ -115,8 +115,6 @@ Based on user research findings and navigation/traffic analytics, consider:
 - **Team Name**: Accredited Representation Management
 - **GitHub Label**: accredited-representation-management-team
 - **Slack channel**: #benefits-representation-management
-- Product POCs:
-- Stakeholders: Dr. Brandi Taylor (Office of Business Strategy)
 
 #### Team Members
  
@@ -124,3 +122,6 @@ Based on user research findings and navigation/traffic analytics, consider:
  - **PM**: Lindsay Li-Smith
  - **Engineering**: Holden Hinkle
  - **Research/Design**: Janelle Finnerty
+
+#### Stakeholders
+ - Dr. Brandi Taylor (Office of Business Strategy)
