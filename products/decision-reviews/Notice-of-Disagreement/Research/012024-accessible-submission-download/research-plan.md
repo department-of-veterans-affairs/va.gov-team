@@ -157,6 +157,17 @@ Note: The following demographic criteria is our goal, but we understand that his
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
+
+Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screnner questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
+
+Eileen is available for a kickoff call during any of these times:
+- 1/4 4PM ET
+- 1/4 2-5PM ET
+
+Please invite Eileen (eileen.chi@coforma.io) and Sade (sade.ragsdale@coforma.io) to the kickoff call.
+
+**Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
+
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 -   Pilot participant email: 
 -   Date and time of pilot session: 
