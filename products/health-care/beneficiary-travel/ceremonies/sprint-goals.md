@@ -1,5 +1,15 @@
 # BTSSS on VA.gov Sprint Goals
 
+## 12/18/2023 - 12/29/2023
+### Goals
+- Wrap up in progress work
+- Prep for research in the new year
+- Decision: Assumption for where the status of a claim will display
+
+### Notes
+- Limited capacity with Christmas holiday and additional team PTO
+  - Sprint review cancelled for holiday OOO so work will be incorporated in next sprint review
+
 ## 12/04/2023 - 12/15/2023
 ### Goals
 - Identify claim experience gaps in effort to:
