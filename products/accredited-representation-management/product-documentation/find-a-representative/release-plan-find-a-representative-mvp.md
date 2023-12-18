@@ -11,9 +11,9 @@ Feature Toggles:
 ### Validation
 
 #### Technical Preparation
-- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
-- [x] Unit tests and E2E tests are complete
-- [x] QA by Michael + ARM team
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
+- [ ] Unit tests and E2E tests are complete
+- [ ] QA by Michael + ARM team
 - [x] Mapbox is ready for use (frontend)
 - [x] Address Validator in Lighthouse is ready for use (backend)
 
@@ -25,7 +25,7 @@ Feature Toggles:
 #### Data Consideration
 - [ ] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
 
-#### Go/No Go meeting on 12/11 at 2p ET (11a PT)
+#### Go/No Go meeting TBD
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
 
@@ -54,19 +54,17 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 12/12-12/18
+- Rollout date range: TBD
 - Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
 - Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting on 12/11 at 2p ET (11a PT)**
-1. Stage A: 10% of users on 12/12
-2. Stage B: 25% of users on 12/13
-3. Stage C: 50% of users from 12/14-12/17
-4. Stage D: 100% of users on 12/18
-
-**Code freeze: 12/22/2023 - 1/2/2024**
+**Go/No Go meeting TBD**
+1. Stage A: 10% of users on TBD
+2. Stage B: 25% of users on TBD
+3. Stage C: 50% of users on TBD
+4. Stage D: 100% of users on TBD
 
 *** 
 
