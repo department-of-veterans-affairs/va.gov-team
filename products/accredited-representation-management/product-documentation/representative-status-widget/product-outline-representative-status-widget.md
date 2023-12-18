@@ -99,16 +99,7 @@ As we work towards this MVP, we will also be considering how this widget may sup
 
 #### Team Members
  
- - **DEPO Lead**: Zach Goldfine
+ - **DEPO Lead**: Jennifer Bertsch
  - **PM**: Lindsay Li-Smith
  - **Engineering**: Holden Hinkle
  - **Research/Design**: Janelle Finnerty
-
-#### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
-
