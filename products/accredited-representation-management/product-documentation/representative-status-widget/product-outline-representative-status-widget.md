@@ -103,4 +103,4 @@ As we work towards this MVP, we will also be considering how this widget may sup
  - **Research/Design**: Janelle Finnerty
 
 #### Stakeholders
- - Dr. Brandi Taylor (Office of Business Strategy)
+ - Dr. Brandi Traylor (Office of Business Strategy)
