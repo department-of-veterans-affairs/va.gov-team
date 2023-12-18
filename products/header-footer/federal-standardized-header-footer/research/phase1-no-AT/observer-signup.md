@@ -14,9 +14,9 @@ Dec 18, 2023 | 12-1 pm ET | P3 Veteran | Anne Petersen | Chris Kim | Pam Drouin
 Dec 18, 2023 | 2-3 pm ET | P4 Veteran | Laura Flannery | Jordan Wood | Dave Pickett
 Dec 19, 2023 | 12-1 pm ET | P5 Veteran | Michael Kinnunen | Fran Cross | Pam Drouin
 Dec 19, 2023 | 2-3 pm ET | P6 Veteran's family member & caregiver | Amanda Klausmeier | Laura Flannery | Jordan Wood
-Dec 19, 2023 | 7-8 pm ET | P7 Veteran, Veteran's family member, & Service member | Jill Adams | OPEN | OPEN
+Dec 19, 2023 | 7-8 pm ET | P7 Veteran, Veteran's family member, & Service member | Jill Adams | Dan Williams | OPEN
 Dec 20, 2023 | 12-1 pm ET | P8 Veteran | Samara Strauss | Liz Lantz | Jeana Clark
-Dec 20, 2023 | 2-3 pm ET | P9 Veteran | Amanda Klausmeier | Liz Lantz | OPEN
+Dec 20, 2023 | 2-3 pm ET | P9 Veteran | Amanda Klausmeier | Liz Lantz | Dan Williams
 Dec 20, 2023 | 7-8 pm ET | P10 Veteran | OPEN | OPEN | OPEN
 Dec 21, 2023 | 2-3 pm ET | P11 Veteran, Veteran's family member, & caregiver | Fran Cross | Jill Adams | Randi Mays
-Dec 21, 2023 | 7-8 pm ET | P12 Veteran | Amanda Klausmeier | Dave Pickett | OPEN
+Dec 21, 2023 | 7-8 pm ET | P12 Veteran | Amanda Klausmeier | Dave Pickett | Dan Williams
