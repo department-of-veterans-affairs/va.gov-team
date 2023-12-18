@@ -81,10 +81,10 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]| 25% | 50% | 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|:-:|:-:|:-:|:-:|:-:|:-:|
-|dd214|||||||
-|direct deposit|||||||
+|KPI/metric|Baseline: 1 month pre-launch [add dates]| 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
+|----------|:-:|:-:|:-:|:-:|
+|dd214|||||
+|direct deposit|||||
 
 ## Analytics 
 Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
