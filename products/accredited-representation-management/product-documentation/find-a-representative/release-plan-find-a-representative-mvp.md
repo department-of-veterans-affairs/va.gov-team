@@ -40,7 +40,7 @@ While we cannot think of any events that would be critical enough to merit a rol
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
-   2. Tag relevant teammates (Holden, Jonathan, Colin, Lindsay, Michael, Janelle, Zach, Lesley, Alex, Steve)
+   2. Tag relevant teammates (Holden, Jonathan, Colin, Lindsay, Michael, Janelle, Jennifer, Lesley, Alex, Sam, Steve)
 3. Create a ticket to document:
    1. A summary of what caused the rollback process
    2. Confirmation that the feature toggle has been turned off (or that a PR has been submitted)
