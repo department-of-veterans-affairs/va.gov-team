@@ -10,12 +10,15 @@ Dependency Verification gives a quick and easy opportunity for a Veteran to upda
 Veterans are currently required to update their dependents by mailed paper letter only every 8 years. This results in a very low quality feedback loop of what dependents are intended to be on award.
 
 ## Solution
-- Email Veterans asking them to verify the dependents on their dependents by directing them to the existing "view dependents" page on VA.gov.
+- Email Veterans asking them to verify the dependents on their benfits by directing them to the existing "view dependents" page on VA.gov.
 
 ## Considered Solutions
-- Using existing Diary Entries, we can determine if the Veteran needs to update their verification and show them a list of their dependents and ask if they are correct.  If they are correct, we submit a 21-0538 on thier behalf that will route through Centralized Mail and update their Diary Entry to ask again in 1 year.  Else, the Veteran is given an iopportunity to update their dependents if needed.
-- It has been discussed to update the Diary Entry directly, but there are a few challenges with that as it is unknown if editing those numbers can be done safely by us. We are currently using a modal window to present the list of dependents.
-- [Modal solution](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ebenefits/dependency-verification#:~:text=modal%2D-,README,-.md) (developed in 2021 but release was cancelled) 
+- [Modal solution](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ebenefits/dependency-verification#:~:text=modal%2D-,README,-.md) (developed in 2021 but release was cancelled)
+   - Using existing Diary Entries, we can determine if the Veteran needs to update their verification and show them a list of their dependents and ask if they are correct.  If they are correct, we submit a 21-0538 on thier behalf that will route through Centralized Mail and update their Diary Entry to ask again in 1 year.  Else, the Veteran is given an iopportunity to update their dependents if needed.
+   - It has been discussed to update the Diary Entry directly, but there are a few challenges with that as it is unknown if editing those numbers can be done safely by us. We are currently using a modal window to present the list of dependents.
+- Email notification: Send an annual email to Veterans with dependents on their benefits asking them to review their dependents by visiting the existing "view dependents" page on VA.gov
+- Text notification: Send an annual text to Veterans with dependents on their benefits asking them to review their dependents by visiting the existing "view dependents" page on VA.gov
+
  
 ## Desired User Outcomes
 
@@ -27,12 +30,14 @@ Veterans are currently required to update their dependents by mailed paper lette
 - Veterans ignore the email and another type of intercept would be needed.
 
 ## Desired Business Outcomes
-- The VA will save close to $250 M a year in overpayments.
 - Veterans receive the benefits they are entitled to.
+- Veterans will not owe the VA money.
+- The VA will save close to $250 M a year in overpayments.
 - Congressional obligations will be met.
 
 ## Undesired Business Outcomes
-
+- The email notification does not increase the number and frequency of dependent updates.
+- The email notificatino does not lead to a decreate in overpayments.
 
 ---
 ## Measuring Success
@@ -91,7 +96,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - September 2023
+  - January 2023
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
@@ -102,7 +107,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Current Status
 - CAIA review complete
-- BE testing some Centralized Mail pdfs
+- Distribution list requested from PA&I
+- VBA stakeholders to review email text
 
 ### Key Decisions
 - We are working closely with OCTO and the VBA Dependent team.
@@ -125,7 +131,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: Benefits Non-Disability Experience
 - GitHub Label: #tree
 - Slack channel: #benefits-ce-non_disability_exp
-- Product POCs: 
+- Product POCs: Laura Steele, Emily Theis (OCTO)
 - Stakeholders: Brandi Traylor (VBA Dependent Team)
 
 </details>
