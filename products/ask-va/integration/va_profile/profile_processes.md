@@ -22,21 +22,22 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 ## Prefilled field sourcing
 | Prefilled field | Source | Source field |
 |:--|:--|:--:|
-| Submitter ICN | VA.gov Profile | icn |
-| Submitter EDIPI | VA.gov Profile | edipi |
-| Submitter SSN | VA.gov Profile | ssn |
-| Submitter First Name | VA.gov Profile | given_names |
-| Submitter Middle Name | VA Profile | * |
-| Submitter Last Name | VA Profile | * |
-| Submitter Suffix | VA.gov Profile | suffix |
-| Submitter Home Address | VA.gov Profile | address.street & address.street2| 
-| Submitter Home City | VA.gov Profile | address.city | 
-| Submitter Home State | VA.gov Profile | address.state | 
-| Submitter Home Zip  | VA.gov Profile | address.zip | 
-| Submitter Phone  | VA.gov Profile | home_phone | 
-| Submitter Email  | VA.gov Profile | email | 
-| Submitter Gender | VA.gov Profile | gender |
-| Submitter DoB | VA.gov Profile | birth_date |
+| Submitter CSP UUID | VA.gov Profile - identity | uuid |
+| Submitter ICN | VA.gov Profile - MPI | icn |
+| Submitter EDIPI | VA.gov Profile - MPI | edipi |
+| Submitter SSN | VA.gov Profile - MPI | ssn |
+| Submitter First Name | VA.gov Profile - identity | first_name |
+| Submitter Middle Name | VA Profile - identity | middle_name |
+| Submitter Last Name | VA Profile - identity | last_name |
+| Submitter Suffix | VA.gov Profile - identity | suffix |
+| Submitter Home Address | VA.gov Profile  - MPI | address.street & address.street2| 
+| Submitter Home City | VA.gov Profile  - MPI | address.city | 
+| Submitter Home State | VA.gov Profile  - MPI | address.state | 
+| Submitter Home Zip  | VA.gov Profile  - MPI | address.zip | 
+| Submitter Phone  | VA.gov Profile  - MPI | home_phone | 
+| Submitter Email  | VA.gov Profile - identity | email | 
+| Submitter Gender | VA.gov Profile - identity | gender |
+| Submitter DoB | VA.gov Profile - identity | birth_date |
 | Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
 | Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
 | Submitter Branch of Service  | VA Profile | * | 
