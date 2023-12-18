@@ -1,5 +1,23 @@
 # Design Weekly Sync Agenda
 
+## 2023-12-11
+Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
+
+- EZR research - Katelyn to reach out to design Platform peeps to get the team on the schedule for end of January to present at the Monday VA design/research/content sync, Hieu to start work on a combo presentation deck (will need to open a ticket for this)
+  
+- EZR research - Alex, we want to present to HEC at some point in January too; future parking lot planning item to chat more
+
+- Dependents verbiage/flow - the flow updates we are in agreement; will work with Aliyah this week to get the reported income content draft created. Noting here to tackle later - in the future see if the income questions on the form can be simplified down to what really impacts health care benefits.
+
+- SIP - more looking into the other teams and what version they have; working on getting CodePen templates setup for testing
+
+- Registration - Need to schedule a research readout for this week first, then a workshop session either next week or after the new year/Holidays. Workshop session  registration next steps and mapping.
+
+- Kristen's comment:
+    - Recommendation: does not have to be limited to the product/team, think of it as a holistic service.
+    - For Registration, what would be the ideal workflow for the Veterans?
+
+
 ## 2023-12-04
 Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
 
