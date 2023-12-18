@@ -69,36 +69,25 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 3. Only a small percentage of Veterans are interested in appointing individual representatives in a VSO
 
 ## Solution Approach
-Our immediate goal for the Find a Representative MVP is to mirror the representative search functionality on eBenefits, but with a more consistent and intuitive experience that lives directly on VA.gov.  
-
-We will be conducting a usability test on the Find a Representative MVP and a month after launch, we will iterate on this tool for a v2 that incorporates findings from user research findings and navigation/traffic analytics. The v2 could include:
-1. Additional search parameters, including individual representatives in Veteran Service Organizations
-2. Satisfaction survey to assess the user perceptions of our product experience
-3. Integration with OGC APIs for direct access to accredited representative data
-4. Adjustment/addition of entry points to the Find a Representative tool
-
-
+Our immediate goal for the Find a Representative MVP is to mirror the representative search functionality on eBenefits, but with critical/impactful updates found through user research.  Ultimately, we hope to provide a more consistent and intuitive "Find a Representative" experience that lives directly on VA.gov.  
 
 --- 
 
 ## Launch Strategy
 ### MVP Launch 
-1. Any VA.gov links to eBenefits or OGC that set expectations around searching for a representative will be re-routed to the Find a Representative tool
-    1. Note: Any links on VA.gov that set expectations around appointing a representative will be re-routed to Appoint a Representative when that MVP launches
-2. A landing page for "Find and appoint a VA accredited representative" (rooted in the Resources and Support section of VA.gov) will include a link to the Find a Representative tool
-    1. TBD: There will be multiple entry points into the landing page, stemming from the main navigation as well as in-context with related benefits pages
+A landing page "Get help from a VA accredited representative or VSO" (rooted in the Resources and Support section of VA.gov) will include a link to the Find a Representative tool.  There will be multiple entry points into the landing page, stemming from the main navigation as well as in-context with related benefits pages.  
+
+[Complete outline of Redirects and Best Bets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/manage-accredited-representative.md) 
+
+### Launch Dates
+MVP target launch date: March 2024
+
+The MVP launch will mirror the rep search functionality on eBenefits, with critical and impactful enhancements based on user research findings
   
-### v2 Launch
-Based on user research findings and navigation/traffic analytics, consider:
-1. Adjusting/adding entry points
-2. Enhancements to the Find a Representative experience
+### Future
+When our [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) goes live, we will work with stakeholders to redirect related pages within [eBenefits]([https://www.ebenefits.va.gov/ebenefits/vso-search).  
 
-## Launch Dates
-1. MVP target launch date: December 2023
-    1. MVP launch will mirror the rep search functionality on eBenefits
-
-2. v2 target launch date: February 2024
-    1. v2 launch will include updates based on user research findings and navigation/traffic analytics
+We may also redirect the [legacy OGC representative search](https://www.va.gov/ogc/apps/accreditation/index.asp), if there are no downstream effects.  
 
 ---
 ## Product Playbook / Incident Response Plan
@@ -110,29 +99,27 @@ Based on user research findings and navigation/traffic analytics, consider:
 ## Solution Narrative
 
 ### Current Status
+In development
 
 ### Key Decisions
+1. An MVP originally scheduled for Dec 2023 launch was decidedly a "No Go" from the team, due to the data powering our search results being only ~50% accurate.  While the ARM team does not own this data, there are shared concerns with providing inaccurate search results to our users.
+   1. To remedy this decision, the team has decided to implement solutions in our product to address this issue.  The team will also be working directly with OGC to really representatives for updatec contact information.
 
 ---
    
-## Screenshots
-
-### Before
-
-### After
-
----
 
 #### Communications
 
 - **Team Name**: Accredited Representation Management
 - **GitHub Label**: accredited-representation-management-team
 - **Slack channel**: #benefits-representation-management
-- Stakeholders: Dr. Brandi Taylor (Office of Business Automation)
 
 #### Team Leads
  
- - **DEPO Lead**: Zach Goldfine
+ - **DEPO Lead**: Jennifer Bertsch
  - **PM**: Lindsay Li-Smith
  - **Engineering**: Holden Hinkle
  - **Research/Design**: Janelle Finnerty
+
+#### Stakeholders
+ - Dr. Brandi Traylor (Office of Business Strategy)
