@@ -2,9 +2,11 @@
 
 *Ask VA Integration Team*
 
+Last updated by @tygindraux: December 19, 2023
+
 ## Background
 
-
+This document was created by the Ask VA Integration team after gathering insights from the Education and Work Study teams.
 
 ### Problems
 
@@ -30,8 +32,6 @@
 
 ## Next steps
 
-Given the potential risks of adding an `Uploading documents` topic, we first should connect with the OCTO team who is already reviewing QuickSubmit. After that, we can make a more informed decision about
-
-## References
-
-- [Spreadsheet](https://docs.google.com/spreadsheets/d/1AlUqvwn49ah2gHniTwx3x0afOPliKgURo575e73OH40/edit#gid=1192783561) we reviewed.
+Given the potential risk of adding a topic for uploading documents, as well as the overlap with QuickSubmit, for now, we'd like to:
+- hold off adding this as a topic in Ask VA
+- connect with the OCTO team who is already reviewing QuickSubmit
