@@ -67,6 +67,10 @@ Looking at this from the perspective of registration reasons as scenarios Vetera
 
 - Unmoderated tree test 
 
+#### Notes on Validity
+- We found out after the study closed and post-syntheseis some of the top-level tiers of Search, General Support, and Veteran Outreach should not have been represented as top level tiers in the tree, as they are not navigated to in this way on the site, even though the tree reflected the URL IA.
+- We noted the tasks where there was a higher percentage of first tasks clicks on these hubs as having validity concerns. 
+
 
 ## Hypotheses and Conclusions
 
@@ -135,7 +139,7 @@ Most participants reported online being their preference of signing up for healt
 - Pre-Study Question: 90% would prefer to sign up for a health care benefit online
 - Informed of Additional Benefits Preference: At an appointment/in person (17), Email (29), Letter in the mail (18)
 
-
+**Note**
 
 **Finding 4**
 
@@ -197,6 +201,8 @@ Score: 2/10
 - Search = 2%
 - General support = 2%
 
+**Results Confidence Validity**
+- High
 
 
 ### Registration Reason: Mental health care (Other) 
@@ -229,7 +235,10 @@ Score: 2/10
 - VA Organizational content = 3%
 
 
+**Results Confidence Validity**
+- Med-High
 
+  
 ### Registration Reason:  C&P Disability Benefits Exam
 
 This task included the highest percentage of participants going to the Facilities hub of the site on first click, the second area most navigated to was the disability hub.
@@ -253,6 +262,9 @@ VA Benefits and Health Care = 55%
 Facilities and locations = 35%
 Search = 8%
 General support = 3%
+
+**Results Confidence Validity**
+- Med-High
 
 
 ### Registration Reason:  Marriage/Family counseling
@@ -280,7 +292,8 @@ Score: 1/10
 - General support = 17%
 - Veteran outreach = 2%
 
-
+**Results Confidence Validity**
+- Low-Medium
 
 ### Registration Reason:  ART/IVF
 
@@ -309,27 +322,31 @@ Score: 2/10
 - General support = 5%
 - Veteran outreach = 5%
 
+**Results Confidence Validity**
+- Low-Medium
+
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+- From the Veteran's point of view, the line is blurry between disability and health care benefits. Comments and quotes re-iterate the theme that they are a package deal to the Veteran when they are applying. 
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
--- DRAFT --
 
 * Align with Veteran's mental model
     * Align with the Veteran's mental model around the registration and enrollment terms, process and eligibility determiniations. This could create a more streamlined process for the Veterans when signing up and applying for health care benefits.
-    * This process could look like a simple registration step, checking eligibility then determining enrollment. 
+    * This process could look like a simple registration step, checking eligibility then determining enrollment.
+    * Test the concept of a health care application hub via low-fi wireframes and 
 
 
 * Veteran health service needs as entrances into "registering"
     * Allow for more links to sign up for health care from the perspective of the Veteran - what care or health service are they seeking to sign up for.
-    * The locations hub and health care servicers could be an area to recommend link to health care "registration"
-    * Make sure to allow for a simplified path online where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
+    * The locations hub under health care services locations could be an area to recommend link to health care "registration"
+    * The locations pages/hub and the disability hub are the more prominent areas of the site to focus on possible registartion entrances. 
+
+* Make sure to allow for a simplified path online where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
+    * Consider the journeys.
 
 
 * More visibility into health services that are personalized based on eligibility
@@ -341,10 +358,13 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Next Steps
 
+
+
 * Workshops to use research findings from this and a past study, along with desk and SME research, to draft a visual to represent the various health care benefits sign up process holistically 
 
 * Determine if it makes sense to test a prototype flow where registration is a step in the process.
-* 
+
+
 
 ## Further research needed
 
