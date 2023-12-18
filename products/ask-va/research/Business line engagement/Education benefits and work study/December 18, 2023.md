@@ -32,6 +32,6 @@ This document was created by the Ask VA Integration team after gathering insight
 
 ## Next steps
 
-Given the potential risk of adding a topic for uploading documents, as well as the overlap with QuickSubmit, for now, we'd like to:
+Given the risk of adding a topic for uploading documents and the overlap with QuickSubmit, we will:
 - hold off adding this as a topic in Ask VA
-- connect with the OCTO team who is already reviewing QuickSubmit
+- connect with the OCTO team who is reviewing QuickSubmit
