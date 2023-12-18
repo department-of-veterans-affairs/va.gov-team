@@ -3,7 +3,7 @@
 ## Overview
 Content in general, and for the purpose of this Initiative, Full-width banners in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the alert is needed, or the banner is used for something other than its purpose. Full-width banners should be used only for informational alerts or warning alerts.
 
-Currently, there is a Notification system set on a 365 day cadence from set from the banner's  Created date or if subsequently edited, Last Edited date.
+Currently, there is a Notification system set on a 365 day cadence from the banner's Created date or if subsequently edited, Last Edited date.
 
 To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement the ability for the notification system to send notification emails based on a cadence specific to particular content types, e.g. Full-Width banners will only display for seven (7) days, and notifications will be sent three days before the 7th day (telling them they need to edit to add a note that it is still needed, or archive the banner by the seventh day), then the morning of the 7th day (telling them they need to either edit to add a note that the banner is still needed, or archive), when auto-archiving is implemented, a notification will be sent telling them the banner was archived.
 
