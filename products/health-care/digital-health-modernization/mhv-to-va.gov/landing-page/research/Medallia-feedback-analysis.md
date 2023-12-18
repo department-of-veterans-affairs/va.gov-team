@@ -23,7 +23,7 @@ _On a scale of 1-5, where 5 is high._
 * 4 (10 users)
 * 5 (16 users)
 
-Summary: roughly a 50/50 split on “good” vs. “bad” experience with My HealtheVet
+Summary: roughly a 50/50 split on “good” vs. “bad” experience with My HealtheVet, with a CSAT of 46%
 * Low scores: 1 & 2  (24)
 * High scores: 4 & 5 (26)
 
@@ -44,6 +44,13 @@ TOTAL RESPONSES: 37
 * _no answer_: 2 users (6%)
 
 **Question 2: What is your overall satisfaction with this site? **
+* 1 (21 users)
+* 2 (6 users)
+* 3 (2 users)
+* 4 (3 users)
+* 5 (_no users_)
+
+Summary: 3/37 users gave a 4 or 5: 8% CSAT Score
 _On a scale of 1-5, where 5 is high._
 * For users who could not complete their task, the average score was: 1.25 
 * For users who did complete their task, the average score was: 3.5 
