@@ -1,5 +1,26 @@
 # Design Weekly Sync Agenda
 
+## 2023-12-18
+Attendees: Angela, Hieu, Jessica, Katelyn, And Kristen
+
+- Figma: The team notes that Multiple Component Card is not yet a Figma Component
+
+- EZR MVP Veteran Testing: Heather is looking for Veterans to test the end-to-end form. We would be looking for lower Priority Group (Veterans that would be required to provide financial information).
+
+- Registration: 
+  - Team discussion potential next steps as we like the hub approach the VES team represented, it aligns with the Veterans’ mental model. 
+  - The difficult part is how to tell that story to the HEC stakeholders. 
+  - Katelyn notes the HEC likes to have visuals to share, perhaps we can create a Journey Map in PDF for them.
+  - Jessica notes the importance of including the HEC folks in some of the process (Veteran’s journey map, study quotes).
+
+- Updated Dependent Flow
+  - Only updating copy in at the Education Expense if the user adds more than a zero in gross annual income.
+  - Flow has to be simplified, no longer a technical burden.
+
+- After the EZR MVP launch
+  - Kristen brought up Facilities API. The drop-down is dated and does not connect with current data. Jessica notes that CareGiver’s facility has similar functionality we can utilize.
+
+
 ## 2023-12-11
 Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
 
