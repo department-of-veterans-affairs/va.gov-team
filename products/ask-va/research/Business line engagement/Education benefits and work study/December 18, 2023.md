@@ -16,7 +16,7 @@
 
 ### How might we?
 
-- How might we make it simple for submitters to just upload a document?
+- How might we make it simple for submitters to just send a document?
 - How might we make it faster for VCEs to recognize which inquiries are simply document uploads?
 - How might we make it clear to people who have questions about submitting documents, or questions and need to upload documents, which topic to use?
 - How might we help submitters check whether they picked the right topic?
