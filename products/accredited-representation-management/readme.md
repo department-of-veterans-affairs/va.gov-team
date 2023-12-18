@@ -17,7 +17,7 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 
 ## Team Members
 
-- DSVA Product Owner: Zach Goldfine, zachary.goldfine@va.gov
+- DSVA Product Owner: Jennifer Bertsch, Jennifer.Bertsch@va.gov
 - Product Manager: Lindsay Li-Smith, lindsay.li-smith@oddball.io
 - [Full ARM team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/5)
 
