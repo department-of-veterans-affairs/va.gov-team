@@ -12,7 +12,7 @@
 - This makes it difficult to sort which inquiries are document-only, which wastes VCEs time sorting through.
 - If we include a ‘Uploading documents (only)’ topic, then submitters who have questions about uploading documents, or questions and need to upload a document, may choose this topic incorrectly.
 - Work Study uses the question field to search for inquiries that may have been routed to the wrong queues and belong to them. If there’s a topic that doesn’t include a question field, it will be difficult for them to filter and find it.
-- We recommend that people use QuickSubmit when they just need to upload a document, but there can still be follow-up questions inquiring if they receive the documents which duplicates workload for agents.
+- The Education service recommends that people use QuickSubmit when they just need to upload a document, but there can still be follow-up questions inquiring if they receive the documents which duplicates workload for agents.
 
 ### How might we?
 
