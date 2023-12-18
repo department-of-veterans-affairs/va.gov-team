@@ -10,6 +10,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
  - **GOAL: Support Production**
  - **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Let Veterans Know when BTSSS is Down** 
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase Usage of PCI**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
@@ -29,6 +30,9 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Make Travel Claims Easier**   
+   - **Sub Goal: [Let Veterans Know when BTSSS is Down](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72045)**
+       - 🟥 [Determine if there is a Pattern for In-App System Down Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72046)
+       - 🟥 [[Design] Create Final Wireframes & Content for Letting Veteran Know BTSSS is Down](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72047)
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**       
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
