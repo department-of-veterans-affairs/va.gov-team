@@ -6,7 +6,7 @@ Last updated by @tygindraux: December 18, 2023
 
 ## Background
 
-This document was created by the Ask VA Integration team after gathering insights from the Education and Work Study teams.
+This document was created by the Ask VA Integration team after gathering insights from Education and Work Study, and Beth Potts, OCTO Content Lead.
 
 ### Problem
 
