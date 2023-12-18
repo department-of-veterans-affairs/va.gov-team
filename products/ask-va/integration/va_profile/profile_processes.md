@@ -22,21 +22,23 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 ## Prefilled field sourcing
 | Prefilled field | Source | Source field |
 |:--|:--|:--:|
-| Submitter Home Address | VA Profile | addressLine1, addressLine2, addressLine3| 
-| Submitter Home City | VA Profile | cityName | 
-| Submitter Home State | VA Profile | state.stateName or province.provinceName | 
-| Submitter Home Zip  | VA Profile | zipCode5 | 
-| Submitter Phone  | VA Profile | countryCode, areaCode, phoneNumber, phoneNumberExt | 
-| Submitter Email  | VA Profile | emailAddressText | 
-| Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
-| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
-| Submitter DoB | VA Profile | * |
-| Submitter SSN | VA Profile | * |
-| Submitter First Name | VA Profile | * |
+| Submitter ICN | VA.gov Profile | icn |
+| Submitter EDIPI | VA.gov Profile | edipi |
+| Submitter SSN | VA.gov Profile | ssn |
+| Submitter First Name | VA.gov Profile | given_names |
 | Submitter Middle Name | VA Profile | * |
 | Submitter Last Name | VA Profile | * |
-| Submitter Suffix | VA Profile | * |
-| Submitter Gender | VA Profile | * |
+| Submitter Suffix | VA.gov Profile | suffix |
+| Submitter Home Address | VA.gov Profile | address.street & address.street2| 
+| Submitter Home City | VA.gov Profile | address.city | 
+| Submitter Home State | VA.gov Profile | address.state | 
+| Submitter Home Zip  | VA.gov Profile | address.zip | 
+| Submitter Phone  | VA.gov Profile | home_phone | 
+| Submitter Email  | VA.gov Profile | email | 
+| Submitter Gender | VA.gov Profile | gender |
+| Submitter DoB | VA.gov Profile | birth_date |
+| Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
+| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
 | Submitter Branch of Service  | VA Profile | * | 
 | Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number | 
 | Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
