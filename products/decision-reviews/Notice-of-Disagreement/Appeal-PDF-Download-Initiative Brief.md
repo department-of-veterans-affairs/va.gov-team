@@ -4,7 +4,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to review and/or download a PDF copy of a submitted appeal, so veterans can store it in their personal records.
+* Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records.
 
 **Related/Associated product(s)**
 - Request a Board Appeal VA Form 10182 | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement) 
@@ -69,7 +69,7 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
-- Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), starting with Board Appeal and link to an authenticated HTML page that also links to an already created endpoint that lets users download a copy of their completed form.
+- (WIP draft of solution approach) Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), starting with Board Appeal and link to an authenticated HTML page that also links to an already created endpoint that lets users download a copy of their completed form.
 - Lighthouse has created an endpoint that adds a watermark to the completed PDF package.
 
 #### Go-to-market 
