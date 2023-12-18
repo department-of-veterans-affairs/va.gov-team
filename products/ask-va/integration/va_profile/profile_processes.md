@@ -107,8 +107,8 @@ flowchart TB
 sequenceDiagram
     VA-gov->>IDP: Initiate Login Process
     IDP->>VA-gov: success
-    VA-gov->>VA-profile: Initiate retrieval of user profile information
-    VA-profile->>VA-gov: Authenticated User's Profile Information
+    VA-gov->>MPI: Initiate retrieval of user profile information
+    MPI->>VA-gov: Authenticated User's Profile Information
     VA-gov->>AVA_Form: User directs to AVA_Form
 ```
 
