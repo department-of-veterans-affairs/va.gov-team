@@ -19,12 +19,16 @@ No information can be prefilled for unauthenticated users of the AVA Form.
   * Inquiry information that is specific to the submitter can be stored
   * Inquiry information can be updated implicitly when the submitter submits their inquiry
 
-## Prefilled field sourcing
+## Identity ID sourcing
 | Prefilled field | Source | Source field |
 |:--|:--|:--:|
 | Submitter CSP UUID | VA.gov Profile - identity | uuid |
 | Submitter ICN | VA.gov Profile - MPI | icn |
 | Submitter EDIPI | VA.gov Profile - MPI | edipi |
+
+## Prefilled field sourcing
+| Prefilled field | Source | Source field |
+|:--|:--|:--:|
 | Submitter SSN | VA.gov Profile - MPI | ssn |
 | Submitter First Name | VA.gov Profile - identity | first_name |
 | Submitter Middle Name | VA.gov Profile - identity | middle_name |
