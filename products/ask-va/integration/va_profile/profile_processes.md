@@ -29,19 +29,19 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 ## Prefilled field sourcing
 | Prefilled field | Source | Source field |
 |:--|:--|:--:|
-| Submitter SSN | VA.gov Profile - MPI | ssn |
 | Submitter First Name | VA.gov Profile - identity | first_name |
 | Submitter Middle Name | VA.gov Profile - identity | middle_name |
 | Submitter Last Name | VA.gov Profile - identity | last_name |
 | Submitter Suffix | VA.gov Profile - identity | suffix |
+| Submitter Email  | VA.gov Profile - identity | email | 
+| Submitter Gender | VA.gov Profile - identity | gender |
+| Submitter DoB | VA.gov Profile - identity | birth_date |
+| Submitter SSN | VA.gov Profile - MPI | ssn |
 | Submitter Home Address | VA.gov Profile  - MPI | address.street & address.street2| 
 | Submitter Home City | VA.gov Profile  - MPI | address.city | 
 | Submitter Home State | VA.gov Profile  - MPI | address.state | 
 | Submitter Home Zip  | VA.gov Profile  - MPI | address.zip | 
 | Submitter Phone  | VA.gov Profile  - MPI | home_phone | 
-| Submitter Email  | VA.gov Profile - identity | email | 
-| Submitter Gender | VA.gov Profile - identity | gender |
-| Submitter DoB | VA.gov Profile - identity | birth_date |
 | Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
 | Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
 | Submitter Branch of Service  | VA Profile | * | 
