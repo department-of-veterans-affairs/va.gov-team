@@ -8,9 +8,9 @@ Last updated by @tygindraux: December 18, 2023
 
 This document was created by the Ask VA Integration team after gathering insights from the Education and Work Study teams.
 
-### Problems
+### Problem
 
-- Sometimes inquiries don't require a question, submitters just need to send a document. But the question field is required in the form, so submitters write something in this field regardless.
+- Sometimes AVA inquiries don't require a question, submitters just need to send a document. But the question field is required in the form, so submitters write something in this field regardless.
 - This makes it difficult to sort which inquiries are document-only, which wastes VCEs time sorting through.
 - If we include a ‘Uploading documents (only)’ topic, then submitters who have questions about uploading documents, or questions and need to upload a document, may choose this topic incorrectly.
 - Work Study uses the question field to search for inquiries that may have been routed to the wrong queues and belong to them. If there’s a topic that doesn’t include a question field, it will be difficult for them to filter and find it.
