@@ -100,8 +100,10 @@ TODO:
     - Note any anomalies here:
         - We currently do not have a way to block adjudication on volunteer-submitted claims. Therefore, we can't safely have our prod users test submit flows unless they actually have a claim to process (unlikely)
             - We will move to an RCT pattern to remediate this. This involves using a random selection of our actual users in combination with alerts to catch any errors that might occur
+                - RCT test largely successful
             - Also looking into a feature-flagged block to adjudication in the submit logic, if possible
-            - 
+                - Update to add feature flag: https://github.com/department-of-veterans-affairs/vets-api/pull/14901#pullrequestreview-1787286162
+                - Did this work in practice?
 
 <br>
 
