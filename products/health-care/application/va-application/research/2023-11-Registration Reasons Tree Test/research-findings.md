@@ -335,22 +335,22 @@ Score: 2/10
 
 
 * Align with Veteran's mental model
-    * Align with the Veteran's mental model around the registration and enrollment terms, process and eligibility determiniations. This could create a more streamlined process for the Veterans when signing up and applying for health care benefits.
+    * Align with the Veteran's mental model around the registration and enrollment terms, process and eligibility prioritization. This could create a more streamlined process for the Veterans when signing up and applying for health care benefits.
     * This process could look like a simple registration step, checking eligibility then determining enrollment.
-    * Test the concept of a health care application hub via low-fi wireframes and 
+    * Test the concept of a health care application hub via low-fi wireframes and storyboards.
 
 
-* Veteran health service needs as entrances into "registering"
+* Veteran health services/registration reasons need a variety of paths on VA.gov to complete the form/application.
     * Allow for more links to sign up for health care from the perspective of the Veteran - what care or health service are they seeking to sign up for.
     * The locations hub under health care services locations could be an area to recommend link to health care "registration"
     * The locations pages/hub and the disability hub are the more prominent areas of the site to focus on possible registartion entrances. 
 
-* Make sure to allow for a simplified path online where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
+* Ensure there is a simplified path online where the Veteran can learn about more health care benefits if they want to move from registration only to enrollment in medical benefits package.
     * Consider the journeys of each individual registration reason.
     * Create journey maps out of research findings and include working sessions with stakeholders as part of the process. 
 
 
-* More visibility into health services that are personalized based on eligibility
+* More visibility into health services and care available that are personalized based on eligibility
     * Personalized recommendations to Veterans via email or in-person at appointments to better understand additional health care services they are eligible for. 
 
 
