@@ -138,6 +138,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - 1/2-1/7/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
+     - about 25 submissions per day
 
 #### Results
 
@@ -158,6 +159,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - 1/8-1/10/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
+     - about 75-100 submissions per day
 
 #### Results
 
@@ -175,6 +177,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - 1/11/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
+     - about 1,000 per week
 
 #### Results
 
