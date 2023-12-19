@@ -34,7 +34,7 @@
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|The logged in user's ICN|
 
-## Response [NEEDS CRM REVIEW]
+## Response [NEEDS JOE Updates]
 
 <table>
 <tr>
@@ -51,28 +51,20 @@
         "message": "OK", 
         "data": [
             {
-                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "orange",
-                "displayName": null,
-                "rankOrder": null
+                "id": 1,
+                "name": "orange"
             },
             {
-                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "grape",
-                "displayName": null,
-                "rankOrder": null
+                "id": 2,
+                "name": "grape"
             },
             {
-                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "apple",
-                "displayName": "granny smith",
-                "rankOrder": null
+                "id": 3,
+                "name": "apple"
             },
             {
-                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "Other",
-                "displayName": "Foreign / Other",
-                "rankOrder": 999
+                "id": 4,
+                "name": "Other"
             }
         ] 
     }
@@ -86,3 +78,6 @@
 ## Notes [NEEDS CRM REVIEW]
 
 None.
+(JOE: Verify that this matches what JD sent in Teams)
+(JOE: Include the "iris_" prefix for names, but not automatically)
+JD: Have a message id, to help track specific transactions -- include in all responses from all endpoints? if we include one, it will be used, otherwise it will be generated for us and passed back. 
