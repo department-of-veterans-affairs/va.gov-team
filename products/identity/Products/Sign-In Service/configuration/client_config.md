@@ -122,3 +122,11 @@ j7BJ4dDDJsQXB8hIxY+Fq5OyU5q9W0A2oIrvbvRazdoh
 ```
 
 This string can then be copied (within an array) into your Client Config's `certificates`. To utilize your generated `private.pem` key in a `/token` request, see the [Private Key JWT auth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/auth_flows/private_key_jwt.md).
+
+#### Access Token Attributes
+
+Some clients may wish to include identifying user attributes, derived from the CSP, in the returned access token. A Sign in Service [`Client Config`](../configuration/client_config.md) can have its `access_token_attributes` property set to specify one or more of the following user attributes for inclusion:
+
+- `first_name`
+- `last_name`
+- `email`

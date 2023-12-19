@@ -106,6 +106,7 @@ The Sign in Service routes necessary for an PI integration are listed below. Rou
 
 | Name | Description | Value Type | Example Values |
 | --- | --- | --- | --- |
+| access_token | Encoded token returned by `/token` endpoint | String | `eyJhbGciOiJSUzI1NiJ9...` |
 | acr | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
 | authentication         | [Bearer authentication](https://swagger.io/docs/specification/authentication/bearer-authentication) passing an access token | String | `Bearer eyJhbGciOiJSUzI1NiJ9...` |
 | client_id | A unique name identifying your ClientConfig. | String | `sample_client_api` |
@@ -114,8 +115,7 @@ The Sign in Service routes necessary for an PI integration are listed below. Rou
 | code_challenge_method | Client specified, most common value is S256 | String | `S256` |
 | code_verifier | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
 | grant_type |  Specifies authentication type, `authorization_code` is required for PKCE auth | String | `authorization_code` |
-| vagov_access_token | Encoded token returned by `/token` endpoint | String | `eyJhbGciOiJSUzI1NiJ9...` |
-| vagov_refresh_token | Encoded token returned by `/token` endpoint, must be URI-encoded when passed as URL parameter. | String | `"v1:insecure+data+A6ZXlKMWMyVnlYM1Yx...` |
+| refresh_token | Encoded token returned by `/token` endpoint, must be URI-encoded when passed as URL parameter. | String | `"v1:insecure+data+A6ZXlKMWMyVnlYM1Yx...` |
 | type | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
 | user_uuid | Value returned from vets-api that maps the user from the user model to the current session | String | `ac899729-5de1-4968-973f-b9dc896f6b03`
 
