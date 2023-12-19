@@ -1,7 +1,7 @@
 # CAIA Intake Process:
 
 ## Current Version
-V1.0
+WIP
 
 # Contents
 - Overview
