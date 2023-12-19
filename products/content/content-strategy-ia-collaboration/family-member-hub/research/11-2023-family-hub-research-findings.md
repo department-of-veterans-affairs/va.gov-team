@@ -49,10 +49,10 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 ## Key Findings
 
 1. Participants primarily navigated to and selected answers in the family member hub when looking for benefits for themselves
-2. Participants utilized the family member hub to complete tasks related to managing their benefits slightly more than the family member hub, but with unsuccessful results
-3. Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits
-4. Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver
-5. The "common tasks" section of the family member hub was rarely utilized
+2. Participants utilized the family member hub for tasks related to managing their benefits, but not consistently or with high success
+3. The survivor and caregiver specific sections were a common destination for tasks related to getting benefits for those sub-audiences
+4. The “common tasks” section of the family member hub was rarely utilized
+5. Participants struggled with the accrued benefits and fiduciary tasks
 
 
 ## Details of Findings 
@@ -78,7 +78,7 @@ _List all labels that apply to this finding from the [research repository label 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/da80a9e6-5f69-4839-a1ee-55709b10a2dd)
 
 
-**Finding 2: Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub**
+**Finding 2: Participants utilized the family member hub for tasks related to managing their benefits, but not consistently or with high success**
 
 Labels: label 1, label 2 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
@@ -93,44 +93,39 @@ _List all labels that apply to this finding from the [research repository label 
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/1034f38a-6443-494d-b886-fbdc33aba33e)
 
 
-**Finding 3: Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits**
+**Finding 3: The survivor and caregiver specific sections were a common destination for tasks related to getting benefits for those sub-audiences**
 
 Labels: label 1, label 2 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-- Participants navigated directly to the family member hub 60% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time
-- Participants navigated directly to the survivors section of the family member hub 39% of the time, and indirectly 45% of the time
-- Participants selected answers within the family member hub 61% of the time, versus selecting answers in the Veteran benefit hubs only 24% of the time
-- Although the family member hub was high destination, only half of the answers selected there were in the section specific to survivors
-- There were 3 tasks specific to survivors
-- There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
+- Although there was some drop-off in those that navigated from the family hub to the survivor or caregiver sections, those sections were still more often directly navigated to than the Veteran benefit hubs for tasks specific to those sub-audiences
+- This was true for tasks related to getting benefits for themselves, but not for the one task related to managing their benefits (view payment history)
+- Participants that navigated to those specific sections were highly likely to select an answer there, and were correct more often than when they selected answers in other areas
 - Tasks included: survivor compensation, accrued benefits, payment history
 
-**Finding 4: Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver**
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/84b69c4b-d4c1-4973-a150-5ff324a4079b)
+
+
+**Finding 4: The “common tasks” section of the family member hub was rarely utilized**
 
 Labels: label 1, label 2 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-- Participants navigated directly to the family member hub 56% of the time, versus navigating directly to any Veteran benefit hub 37% of the time
-- Participants navigated directly to the caregivers section of the family member hub 44% of the time, and indirectly 51% of the time
-- Participants selected answers within the caregiver section of the afmily member hub 41% of the time, versus selecting answers in the Veteran benefits hubs 33% of the time
-- Although the family member hub was high destination, only 2/3 of the answers selected there were in the caregiver section
-- There was 1 task specific to caregivers
-- There was slightly more activity within the caregiver section of the family member hub over the Veteran benefit hubs, but this analysis only includes 1 task, so further evaluation may be needed
-_- Comparison to previous health care IA test
-  - In both tests the most common path_
-- Task included: health care
+- Despite being higher up in the tree compared to similar options in family member hub, participants only navigated to the “common tasks” section 7% of the time for tasks related to managing benefits or supporting Veterans (4 tasks)
+- It was most viewed for the fiduciary task (15%), which didn’t have a correct answer in that location
+- 12% of the participants looked in this section for the travel pay tasks, and all of them ultimately selected the correct answer there (all indirect responses)
 
-**Finding 5: The "common tasks" section of the family member hub was rarely utilized**
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/da967e74-013e-4ad8-a535-6f1086474ca0)
 
-Labels: label 1, label 2 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+**Finding 5: Participants struggled with the accrued benefits and fiduciary tasks**
 
-- <5% navigated to it in any task
-- It was viewed most for the fiduciary task (15%) than any other task, which isn't the correct location for that task
-- 12% of participants looked here for travel pay - never directly - and once there all of them selected the travel pay option in this section 
-- It is 3 clicks to get to the "common tasks" section in the family hub, 5 clicks to get to the "Manage" section of the benefits within the family hub, and 3 clicks to get to the "manage" section within the Veteran benefit hubs
-   
+- For accrued benefits, 32% of the answers selected in the family member hub were incorrect answers that were right next to (siblings of) the correct option labeled “Accrued benefits”. This likely indicates that the participants do not understand the terminology
+- For fiduciary information, 34% of the participants went directly to the service member hub, however, all but 1 of the participants immediately backed out of it
+- The top answers for the fiduciary task were Family hub > Become a fiduciary (29%), Disability > Change direct deposit (10%), and Disability > Get help from an accredited rep (7%)
+- Neither of these topics fit into a single existing benefit category, adding to the challenge of placement and findability
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/685b3e85-9d0d-4015-b69d-cd6bbb2ccd7c)
+
 
 ## Additional Insights
 
