@@ -12,7 +12,7 @@ The current system Content Build uses to check links will no longer work once we
 - For production, the scan would run from outside the VA internal network, and so it would more closely reflect what the Veteran experiences than the current check
 
 **Challenges**
-- Broken link scans will no longer take place at build time, which means that broken links may be present on VA.gov for longer before detected
+- Broken link scans will no longer take place at build time, which means that broken links may be present on VA.gov for slightly longer before detected
 
 
 ## Background
