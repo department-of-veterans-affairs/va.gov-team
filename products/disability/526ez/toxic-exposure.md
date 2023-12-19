@@ -44,11 +44,27 @@ See Sketch file: [526 toxic exposure](https://www.sketch.com/s/c353146f-eceb-462
 
 ### Entry point to toxic exposure questions
 
-The current approach is to keep the "How is your condition related to your service" question unchanged.
+#### Current approach 
 
-<img width="306" alt="How is your condition related to your service question, showing 4 radio button options" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b0ea39bc-5c35-49d5-ae24-d0e5872cd31c">
+The current approach is to keep the "How is your condition related to your service?" question unchanged.
+
+<img width="306" alt="Screenshot of 'How is your condition related to your service?' question, showing 4 radio button options" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b0ea39bc-5c35-49d5-ae24-d0e5872cd31c">
 
 
 Later, we ask if any conditions are related to toxic exposure and list all newly entered conditions in checkboxes. The Veteran can check which, if any, of these conditions are related to toxic exposure.
 
-<img width="280" alt="Are any of your conditions related to toxic exxposure question, showing a checkbox for each newly entered condition and a final checkbox of 'I am not claiming any conditions related to toxic exposure' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/abee8798-0a25-4627-8150-b76bcbd9142a">
+<img width="280" alt="Screenshot of 'Are any of your conditions related to toxic exxposure?' question, showing a checkbox for each newly entered condition and a final checkbox of 'I am not claiming any conditions related to toxic exposure' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/abee8798-0a25-4627-8150-b76bcbd9142a">
+
+#### Other approaches considered
+
+We considered adding a radio button indicating toxic exposure to the "How is your condition related to your service?" question.
+
+<img width="316" alt="Screenshot of 'How is your condition related to your service?' question - a variation with an additional radio button of 'My condition was caused by toxic exposure during my military service' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/1a72c2b8-c7c9-4cde-b0a2-b813fd8f48d0">
+
+
+#### Rationale
+
+Keeping these two questions ("How is your condition related to your service?" and "Are any of your conditions related to toxic exposure during your military service?") separate will eventually (when we add the toxic exposure section for all types of disability claims) allow the Veteran to indicate toxic exposure along with any other existing answer for "How is your condition related to your service?". 
+
+If we added a radio button of "My condition was caused by toxic exposure during my military service" to the "How is your condition related to your service?" question, we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
+
