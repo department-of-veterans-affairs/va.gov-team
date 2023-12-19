@@ -81,6 +81,14 @@ Sessions will take place via Zoom meetings.
     - 1/4 from 9 - Noon ET
     - 1/5 from 9 - 3 ET
   - Method 3 to be used for recruiting during these dates:
+    - Jan. 8, 9 - 4 ET
+    - Jan. 9, 11 - 3 ET
+    - Jan. 10, 10-3
+    - Jan. 11, 9-11, 12:15-2:00, 3:30-5:00 ET
+    - Jan. 12, 9 - 3 ET
+    - Jan. 15, 9 - 5 ET
+    - Jan. 16, 10 - 3 ET
+    - Jan. 17, 10 - 3 ET 
 
 
 #### Recruitment criteria
