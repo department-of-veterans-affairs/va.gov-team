@@ -43,7 +43,7 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
   - _Likely true._ - Participants looked within the surivors section of the family member more often than the Veteran benefit hubs in 2 of the 3 related tasks
 
 **4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits**
-  - _Maybe true._  - Participants looked within the caregiver section of the family member hub slightly more than the Veteran benefit hub in the 1 related tasks
+  - _Maybe true._  - Participants looked within the caregiver section of the family member hub slightly more than the Veteran benefit hub in the 1 related tasks. Marking as "maybe true" given there was only 1 task. 
 
 
 ## Key Findings
