@@ -133,7 +133,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
  c) I am still learning how to use screen readers  
 
 9. **Select the statement(s) that apply to you: (Check all that apply)**  
-  a) I have submitted a claim  
+  a) I have submitted a benefits claim  
   b) I have submitted a decision review / appeal  
   c) I have not submitted a benefits claim (disqualify)
 
