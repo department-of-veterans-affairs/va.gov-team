@@ -53,12 +53,11 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 ## Assumptions
 
 - Full-width banners are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published.
-- They should never be used for (month-long) celebrations or general news. 
-- They should only display for seven (7) days. If for some reason the time it's being displayed needs to extend past seven (7) days, the editor needs to edit the content, at which time the 'clock' is reset and it will be good for another seven days. They must add a note stating why they are extending it.
-- If the editor isn't going to extend it, they need to archive it, or the content will be auto-archived.
+- They should only display for seven (7) days; they should never be used for (month-long) celebrations or general news. If for some reason the time it's being displayed needs to extend past seven (7) days, the editor needs to edit the content and add a note in the Revision log message, then Save, at which time the 'clock' is reset and it will be good for another seven days.
+- If the editor isn't going to extend it, they need to archive it, or the content will be auto-archived in a future story/implementation.
 
 ## Solution Approach
-- We are building an An MVP will be built that extends the current notification functionality, which will enable the future iterations of auto-archiving full-width banners, as well as implementing notifications for content blocks.
+- MVP will be built that extends the current notification functionality, which will enable the future iterations of auto-archiving full-width banners, as well as implementing notifications for content blocks.
 - We decided to start with full-width banners because there is already a notification framework developers may be able to leverage, and even if they can’t and need to build from scratch, it will be the smallest lift necessary in order to deploy something usable and meaningful.
  - We have explicitly decided not to include notifications for content blocks, or auto-archiving, because it would be too large a lift. We’re starting with an MVP so we can implement and release a minimum viable product, get feedback, and then continue with the other iterations.
 - The solution will evolve to auto-archiving content, and then extending all functionality to content blocks.
