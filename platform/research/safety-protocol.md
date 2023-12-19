@@ -29,7 +29,7 @@ Witnessing an emergency can be a traumatizing experience. Be sure to take time t
 ### Creating a safe space for participants
 Although we may not intend it, research sessions inherently create a power dynamic where the moderator is in control: participants don't know what questions they will be asked, what tasks they will be given, and the moderator represents the VA. Before you start your research study, consider ways that you can create a psychologically safe space for participants that shifts the power dynamic in favor of the participant. 
 
-**Get an accessibility review.** Our VSP Accessibility team (@vagov-accessibility on Slack) can provide expert advice on effective and ethical research design for participants with various disabilities. Ensure your research methods and conversation guide are appropriate for our particpant population. Be prepared to be creative to accommodate disabilities. 
+**Get an accessibility review.** Our VSP Accessibility team (@vagov-accessibility on Slack) can provide expert advice on effective and ethical research design for participants with various disabilities. Ensure your research methods and conversation guide are appropriate for our participant population. Be prepared to be creative to accommodate disabilities. 
 
 **Be mindful of participant's behavior.** If they appear to be distressed, take a moment to check in with them. Allow them to bypass questions if they need to. Help them feel comfortable to take breaks if they need to. 
 
