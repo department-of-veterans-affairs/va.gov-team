@@ -53,7 +53,8 @@ See [profile product outline](https://github.com/department-of-veterans-affairs/
 ## Frontend
 
 ## Design and UX
-- [Sketch files](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
+- [Sketch files deprecated early 2024](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
+- [Figma files onboarding early 2024](https://www.figma.com/file/eMR2XSTGnWQgF2YEphWK8O/Profile---Connected-Apps?type=design&node-id=0-1&mode=design&t=WTDFhunwQn2SA1Ec-0)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases)
 
 ### Flow diagrams
