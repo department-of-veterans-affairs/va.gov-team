@@ -36,12 +36,24 @@
 
 
 ### Major (defects 0-2)
-(example) `Review completed. No major findings`
+#### Color contrast: "Required" label
+- **Defect level:** `a11y-defect-1`
+- **Experience standard:** `06` `02`
+- **Issue:** Wherever a form field is labeled as REQUIRED, the "Required" label is using a color that doesn't meet WCAG AA color constrast standards. Visually impaired users may have trouble reading the text. The current color is `#FF0000`.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/959841cd-795e-43ec-ab0b-db800dac1753)
+- **Recommendation:** Use `vads-color-secondary-dark` (hex: `#b50909`) (from the [VADS color palette](https://design.va.gov/foundation/color-palette)) as your color token.
+- **Result:** This will pass color contrast checks and is consistent with the rest of the design system (see [this example](https://design.va.gov/components/form/checkbox#required-1) of a "Required" label using the correct color).
+
+
 
 ### Minor (defect 4) Best Practices and Considerations 
 
-#### (a heading)
-some info
+#### Use the VADS color palette: buttons, progress bar, checkboxes
+- **Defect level:** `a11y-defect-4`
+- **Experience standard:** `04` `07`
+- **Issue:** Buttons, the progress bar, and checkboxes across the Sketch file as using `#0071BC` as the BLUE color. This doesn't align with the design system.
+- **Recommendation:** Use `vads-color-primary` (hex: `#005ea2`) (from the [VADS color palette](https://design.va.gov/foundation/color-palette)) as your color token in these components.
+- **Result:** Components will align with the VADS, and will be easier to update down the line.
 
 
 
