@@ -127,22 +127,23 @@ _List all labels that apply to this finding from the [research repository label 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/685b3e85-9d0d-4015-b69d-cd6bbb2ccd7c)
 
 
-## Additional Insights
+## Task level insights
 
-1. Health care task
+1. Health care task - 66% task success, 78% directness
   - This task had similar success and directness as the health care tree test done with family and caregivers in 2023, despite requiring additional clicks
     - In the 2024 test, the task was worded more towards being a caregiver, and the top answer was the PCAFC program selected in the family member hub (32%), the health care option was second (20%)
-    - In the 2023 test (CB), the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (50%)
-    - In 2024, the options in the family member hub required 1-2 more clicks to get to the same answer compared to the structure tested in 2023
-      - 2024: 4 clicks to select PCAFC, 5 clicks to select health and disability programs
-      - 2023: 3 clicks to select PCAFC, 3 clicks to select health care
-    - Labeling in the 2024 version was also longer
-      - Family and caregiver benefits > All benefits for spouses, children, and parents > Health care and disabilities > Family and caregiver health and disability programs
-      - Family member benefits > Health care
+    - In the 2023 test (Health apartment caregiver baseline study), the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (50%)
+  - In 2024, the options in the family member hub required 1-2 more clicks to get to the same answer compared to the structure tested in 2023
+    - 2024: 4 clicks to select PCAFC, 5 clicks to select health and disability programs
+    - 2023: 3 clicks to select PCAFC, 3 clicks to select health care
+  - Labeling in the 2024 version was also longer
+    - Family and caregiver benefits > All benefits for spouses, children, and parents > Health care and disabilities > Family and caregiver health and disability programs
+    - Family member benefits > Health care
    
-2. Mental health care task was significantly more successful (78%) compared to the baseline caregiver test (37%)
-  - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
-  - In 2023 (CB), selections were most often made in the health care hub (30%), compared to the family member hub (2%) 
+2. Mental health care - 78% task success, 71% directness
+  - Mental health care task was significantly more successful (78%) compared to the baseline caregiver test (37%)
+    - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
+    - In 2023 (Health apartment caregiver baseline study), selections were most often made in the health care hub (30%), compared to the family member hub (2%) 
   - This shift could be related to
     - the change in the label of the family member hub from "Family member benefits" to "Family and caregiver benefits"
     - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
@@ -151,33 +152,38 @@ _List all labels that apply to this finding from the [research repository label 
 3. Transferred GI Bill benefits - 32% task success, 78% directness
   - Initial path: Education (56%), Family member hub (27%)
   - Selections: Education (66%), FAmily member hub (24%)
-  - Although the majority of participants navigated to and selected answers in the Education benefits hub, only 12% selectedt the correct answer there; 29% selected options for Veterans to apply for GI Bill benefits, and 12% selected the task intended for Veterans to transfer their benefits - this option would provide instructions and crosslinking to the content specific to the family member.
+  - Although the majority of participants navigated to and selected answers in the Education benefits hub, only 12% selected tthe correct answer there; 29% selected options for Veterans to apply for GI Bill benefits, and 12% selected the task intended for Veterans to transfer their benefits - this option would provide instructions and crosslinking to the content specific to the family member.
   - This is a complicated task if you are not familiar with education benefits for dependents - it requires the Veteran to first transfer the benefits to you and then you need to apply for those transferred benefits
   - When participants went to the family member hub, most of them were able to find the correct option
 
 4. Travel pay task had similar task succes rate
-  - In both the current and the 2023 CB study, participants primarily selected answers under "Manage benefits" within the health care hub
-  - In the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub 27% of the time
-  - In the CB study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
-  - Hypothesis??? Why did the results flip between the baseline study and the current study?
+  - In both the current and the 2023 (Health apartment caregiver baseline study) study, participants primarily selected answers under "Manage benefits" within the health care hub
+    - However, in the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub only 27% of the time
+    - In the 2023 study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
+  - Of those participants that navigated to the family member hub in the current study, 76% left the hub without selecting an answer at some point
+    - Of those that navigated to the family member hub > all benefits for spouses, children, and parent, 27% left the section
+    - Of those that navigated to the family member hub > caregiver section, 38% left the section
+    - Of those that navigated to the family member hub > common tasks for managing your health and benefits section (12%), 0 left the section, and 100% selected a correct answer there
+    - These numbers indicate that participants expected to find this task within the family member hub, but could not find it
 
 5. Payment history - 42% success, 68% directness
-  - Initial path: Family member hub (46%), Disability (12%), PEnsion (17%)
+  - Initial path: Family member hub (46%), Disability (12%), Pension (17%)
   - Selections: Family member hub (54%), Disability (17%), Pension (17%)
-  - 32% went directly to the Family member hub survivor-specfic benefits section, and most then selected either the survivors pension program or DIC - these pages would likely have cross-links to the payments, but their primary focus is on the benefit itself, not the payments you are already receiving
+  - 32% went directly to the Family member hub survivor-specfic benefits section, and most then selected either the survivors pension program or DIC - these pages would likely have cross-links to the payments, but their primary focus is on the benefit itself, not the payments you are already receiving, so they were considered incorrect answers
   - 17% selected accrued benefits
+  - Participants primirily looked for this feature alongside the corresponding benefit - this could be a result of how our site is and has been structured
  
 6. Accrued benefits - 22% success, 73% directness
-  - Initial path:  Disability hub (20%), Family member hub (56%)
-  - Selections: Disability hub (22%), Family hub (61%)
-  - Task specifically mentioned a disability claim and visitors still predominantly navigated to the family member hub and selected answers there
-  - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this service and/or the label
+  - Initial path:  Family member hub (56%), Disability hub (20%)
+  - Selections: Family hub (61%), Disability hub (22%)
+  - Task specifically mentioned a disability claim and visitors still predominantly scrolled past this option in the top level of the nav, and navigated to the family member hub
+  - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this label and/or service
   - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
  
 7. Fiduciary benefits - 29% success, 29% directness
-  - Initial path: Disability (22%), family member hub (20%), pension hub (12%), service member hub (34%)
-  - Selections: Disability (27%), family member hub (44%), pension hub (15%), service member hub (5%)
-  - Top answerS: Become a fiduciary (29%), Disability > Change direct deposit (10%), Disability > Get help from an accredited rep (7%)
+  - Initial path: Family member hub (20%), disability (22%), pension hub (12%), service member hub (34%)
+  - Selections:  Family member hub (44%), disability (27%), pension hub (15%), service member hub (5%)
+  - Top answers: Family member hub > Become a fiduciary (29%), Disability > Change direct deposit (10%), Disability > Get help from an accredited rep (7%)
   - All but one person who navigated directly to the service member hub immediately backed out of it, most often choosing the family hub next
   - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
 
