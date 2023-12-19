@@ -6,7 +6,7 @@ Product: Sade Ragsdale
 
 Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 
-# Conversation Guide for Benefits Decision Reviews - Board Appeal, May 2023
+# Conversation Guide for Benefits Decision Reviews - Accessible record of an appeal submission, Jan 2024
 ## Starting the session
 * Keep observers in the waiting room to ask the participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to the participant when they are admitted to the session. 
 * In the Attendees section, make sure everyone except the participant is on mute.
