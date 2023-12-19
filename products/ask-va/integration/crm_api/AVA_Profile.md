@@ -97,6 +97,8 @@ None
 
 ## Notes
 
+* JD: ensure we're receiving optionset ids and returning. if not, specify how it deviates. for example: passing state as 2-char code, ...
+
 * CC: When a user logs in and AccessVA passes you the SecID, if it is not found by CRM, we currently just create a new profile for the user. If we're changing how profiles are handled, you may need/want a different behavior?
 
 * JH: If there are fields that we need from AVA Profile, we probably need to keep the same behavior when not found by CRM. Most data from VA Profile, extra fields from AVA ??
