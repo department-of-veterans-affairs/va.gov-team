@@ -54,6 +54,22 @@
 - **Recommendation:** Use `vads-color-primary` (hex: `#005ea2`) (from the [VADS color palette](https://design.va.gov/foundation/color-palette)) as your color token in these components.
 - **Result:** Components will align with the VADS, and will be easier to update down the line.
 
-
-
-</details>
+#### Use the VADS "textarea" component for better usability
+- **Defect level, if launched:**
+- **Experience standard:**
+- **Issue:** There's a textarea with a big `<label>` with a maximum character count, and no indication of error handling. This _might_ be accessible as is, but it might not:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/9431619f-c0be-4e1c-bb55-a0191caba3b0)
+- **Recommendation:** Use the [VADS textarea component](https://design.va.gov/components/form/textarea). It'll handle the error handling, character count, and accessibility considerations for each. Here's code you can use, once you're at that stage:
+```
+<va-textarea
+  hint="For example: I operated loud machinery while in the service and this caused me to lose my hearing."
+  label="Briefly describe the injury or illness that caused your condition."
+  max-length="400"
+             message-aria-describedby="No more than 400 characters"
+  name="my-input"
+  onBlur={function noRefCheck(){}}
+  onInput={function noRefCheck(){}}
+  placeholder="No more than 400 characters"
+/>
+```
+- **Result:** The textarea will be much easier to manage on your end, and easier for users to fill out on the front end.
