@@ -2,6 +2,7 @@
 
 - Date: 2023-12-13
 - Related Issue: [Accelerated Publishing broken link checking (epic)](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14454)
+- Status: Draft
 
 ## High Level Summary
 The current system Content Build uses to check links will no longer work once we begin transitioning to Next Build. This RFC proposes replacing that checker with a scan that runs from outside the VA Network and reports broken links on a regular basis (hourly or more frequently).
