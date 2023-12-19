@@ -70,8 +70,8 @@
             },
             {
                 "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "other",
-                "displayName": "other",
+                "name": "Other",
+                "displayName": "Foreign / Other",
                 "rankOrder": 999
             }
         ] 
