@@ -48,7 +48,7 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 
 ## Key Findings
 
-1. Participants navigated to and selected answers within the family member hub significantly more often than the Veteran benfeit hubs for tasks related to getting benefits for themselves
+1. Participants primarily navigated to and selected answers in the family member hub when looking for benefits for themselves
 2. Participants utilized the family member hub to complete tasks related to managing their benefits slightly more than the family member hub, but with unsuccessful results
 3. Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits
 4. Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver
@@ -63,18 +63,21 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1: Participants primarily navigated to the family member hub in 4/5 tasks related to getting benefits for themselves**
+**Finding 1: Participants primarily navigated to and selected answers in the family member hub when looking for benefits for themselves**
 
 Labels: label 1, label 2 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-- Participants navigated directly to the family member hub 59% of the time, versus navigating directly to any Veteran benefit hub 32% of the time
+- Participants navigated directly to the family member hub almost twice as often (59%) as the Veteran benefit hub (30%) in 4 out of 5 tasks related to getting benefits for themselves
 - Participants navigated indirectly to the family member hub 64% of the time 
-- There was almost twice the amount of activity within the family member hub than the Veteran benefit hubs
-- Participants selected responses in the family member hub 62% of the time, veresus selecting answers in a Veteran benefit hub 33% of the time. When participants selected answers in the Veteran benefit hubs, the answers were mostly incorrect.
+- Participants selected responses in the family member hub 62% of the time, veresus selecting answers in a Veteran benefit hub 27% of the time.
+- Participants that selected answers in the Veteran benefit hubs, were often incorrect (76% of the time) – they often selected content specific to Veterans rather than family members.
 - The only exception to these results was the task for applying for transferred GI Bill benefits - for this task, participants navigated to the Veteran education benefits hub twice as often.  In addition, once in the Veteran education benefits hub, very few participants found the correct answer and instead selected an incorrect response 81% of the time
-- These results echo similar results found in last year's tree tests focused on health care where.  In all 3 of those tests with family and caregivers, those participants directly navigated to the family member hub more often than the health care hub.
+- These results echo similar results found in last year's tree tests focused on health care where.  In all 3 of those tests with family and caregivers, participants directly navigated to the family member hub more often than the health care hub as well.
 - Tasks included: health care, transferred GI bill benefits, mental health care, survivor compensation, and accrued benefits
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/da80a9e6-5f69-4839-a1ee-55709b10a2dd)
+
 
 **Finding 2: Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub**
 
