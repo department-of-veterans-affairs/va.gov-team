@@ -59,7 +59,7 @@
 - **Experience standard:**
 - **Issue:** There's a textarea with a big `<label>` with a maximum character count, and no indication of error handling. This _might_ be accessible as is, but it might not:
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/9431619f-c0be-4e1c-bb55-a0191caba3b0)
-- **Recommendation:** Use the [VADS textarea component](https://design.va.gov/components/form/textarea). It'll handle the error handling, character count, and accessibility considerations for each. Here's code you can use, once you're at that stage:
+- **Recommendation:** Use the [VADS textarea component](https://design.va.gov/components/form/textarea). It'll handle the error handling, character count, and accessibility considerations for each. You'll need to include both the `placeholder` and `message-aria-describedby` attributes so that users of assistive tech are aware that there's a character limit. Here's code you can use, once you're at that stage:
 ```
 <va-textarea
   hint="For example: I operated loud machinery while in the service and this caused me to lose my hearing."
