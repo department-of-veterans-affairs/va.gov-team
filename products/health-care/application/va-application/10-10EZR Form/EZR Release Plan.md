@@ -116,7 +116,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 12/18/2023-1/2/2024
+     - 12/20/2023-1/2/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 10 submissions per day
