@@ -52,7 +52,7 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 2. Participants utilized the family member hub for tasks related to managing their benefits, but not consistently or with high success
 3. The survivor and caregiver specific sections were a common destination for tasks related to getting benefits for those sub-audiences
 4. The “common tasks” section of the family member hub was rarely utilized
-5. Participants struggled with the accrued benefits and fiduciary tasks
+5. Most participants seemed unclear or unfamiliar with what accrued benefits and fiduciary services are or where they would be
 
 
 ## Details of Findings 
@@ -117,7 +117,7 @@ _List all labels that apply to this finding from the [research repository label 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/da967e74-013e-4ad8-a535-6f1086474ca0)
 
-**Finding 5: Participants struggled with the accrued benefits and fiduciary tasks**
+**Finding 5: Most participants seemed unclear or unfamiliar with what accrued benefits and fiduciary services are or where they would be**
 
 - For accrued benefits, 32% of the answers selected in the family member hub were incorrect answers that were right next to (siblings of) the correct option labeled “Accrued benefits”. This likely indicates that the participants do not understand the terminology
 - For fiduciary information, 34% of the participants went directly to the service member hub, however, all but 1 of the participants immediately backed out of it
