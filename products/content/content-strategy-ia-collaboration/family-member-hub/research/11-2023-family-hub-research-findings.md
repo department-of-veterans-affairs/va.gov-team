@@ -69,7 +69,6 @@ Labels: label 1, label 2
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 - Participants navigated directly to the family member hub almost twice as often (59%) as the Veteran benefit hub (30%) in 4 out of 5 tasks related to getting benefits for themselves
-- Participants navigated indirectly to the family member hub 64% of the time 
 - Participants selected responses in the family member hub 62% of the time, veresus selecting answers in a Veteran benefit hub 27% of the time.
 - Participants that selected answers in the Veteran benefit hubs, were often incorrect (76% of the time) – they often selected content specific to Veterans rather than family members.
 - The only exception to these results was the task for applying for transferred GI Bill benefits - for this task, participants navigated to the Veteran education benefits hub twice as often.  In addition, once in the Veteran education benefits hub, very few participants found the correct answer and instead selected an incorrect response 81% of the time
@@ -84,11 +83,15 @@ _List all labels that apply to this finding from the [research repository label 
 Labels: label 1, label 2 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-- Participants navigated directly to the family member hub 33% of the time, versus navigating directly to any Veteran benefit hub 55% of the time
-- Participants navigated indirectly to the family member hub 42% of the time
-- It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
-- Participants selected responses in the Veteran benefit hubs 47% of the time, versus selecting answers in the family member hub only 30% of the time. When participants did select answers in the family member hub, the answers were mostly incorrect
+- Participants navigated directly to the family member hub and Veteran benefit hub somewhat equally for 2 of the 3 tasks 
+- Those that visited the family hub rarely got the answer correct – only 7% of the time – compared to 48% correct answers within the Veteran benefit hub
+- For payment history, the most common destination and selections were in the survivor section, which was considered incorrect in this test
+- For travel pay, 15% went directly to the service member hub, 26% visited it at some point, and 12% selected an answer there
+- For the task related to refilling a prescription, almost all participants completed this task within the health care benefit hub. 
 - Tasks included: payment history, travel pay, and prescriptions
+
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/1034f38a-6443-494d-b886-fbdc33aba33e)
+
 
 **Finding 3: Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits**
 
