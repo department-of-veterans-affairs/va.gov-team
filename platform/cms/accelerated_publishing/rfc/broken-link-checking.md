@@ -3,6 +3,17 @@
 - Date: 2023-12-13
 - Related Issue: [Accelerated Publishing broken link checking (epic)](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14454)
 
+## High Level Summary
+The current system Content Build uses to check links will no longer work once we begin transitioning to Next Build. This RFC proposes replacing that checker with a scan that runs from outside the VA Network and reports broken links on a regular basis (hourly or more frequently).
+
+**Advantages**
+- The new report would include external and internal links together
+- For production, the scan would run from outside the VA internal network, and so it would more closely reflect what the Veteran experiences than the current check
+
+**Challenges**
+- Broken link scans will no longer take place at build time, which means that broken links may be present on VA.gov for longer before detected
+
+
 ## Background
 
 _Explain the current state of the feature._
@@ -60,6 +71,10 @@ Our system must do the following
 - It must not create an impediment to the build process.
 - It must report the broken links into a central location that can respond to the issues.
 
+Problems we are not looking to solve at this time:
+
+- This proposal does not aim to change how broken links are reported. Currently broken links are reported into a Slack channel for triage by User Support, and we would continue to do that. Updating the notifications is a worthy project, but outside of scope here.
+
 ### Crawler Proposal
 
 A straight-forward way would be to create a site crawler that checks va.gov pages, follows any links found, and reports any that return a non-200/300 response. This would operate as a CI process on VA.gov's published content.
@@ -68,7 +83,7 @@ All content published by Content Build and Next Build is listed in sitemap.xml f
 
 Advantages:
 
-- This would be relatively simple to create.
+- This would be relatively simple to create, with some caveats (for example, Node Link Report gives many false broken link alerts due to remote servings giving bad responses which [necessitates a long list of ignored domains](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/config/sync/node_link_report.settings.yml#L7-L98); we may run into similar problems)
 - May be able to be largely addressed by of-the-shelf software. or entirely. [The Node.js ecosystem has several broken link checking packages](https://www.npmjs.com/search?q=broken%20link), for example.
 - Both internal and external links would be collected together into one report.
 
@@ -92,6 +107,7 @@ Challenges:
 
 - Publishing new groups of pages that link to each other could present challenges, as they are not on production yet and cannot be checked there.
 - Broken link reports would come in quick bursts, which could present challenges to CMS User Support, who are currently responsible for triaging broken link issues.
+- This would not capture broken links due to pages that are *removed*; those require a full site scan.
 
 ### Combined proposal
 
@@ -115,7 +131,10 @@ Some of these risks have been discussed above.
 
 _What other alternatives solutions were considered, why weren't they chosen?_
 
-**We considered an architecture for Content Build and Next Build where the two systems would be more tightly coupled.** In particular, Next Build content would be included as part of the 'files' that Content Build manages. This would effectively allow the Content Build broken link system to continue, because it would have access to all files at once.
+
+### Keeping the old system
+
+We considered an architecture for Content Build and Next Build where the two systems would be more tightly coupled. In particular, Next Build content would be included as part of the 'files' that Content Build manages. This would effectively allow the Content Build broken link system to continue, because it would have access to all files at once.
 
 We abandoned this idea because it would make Next Build dependent on Content Build, which means we would see no speed gains from Next Build. It is also generally a good idea to ensure that systems are not interdependent on each other, as they become harder to disentangle later. Our goal ultimately is to retire Content Build, and so we do not want to depend on its systems for this critical functionality.
 
