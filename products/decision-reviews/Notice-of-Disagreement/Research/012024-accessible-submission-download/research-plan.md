@@ -135,7 +135,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 9. **Select the statement(s) that apply to you: (Check all that apply)**  
   a) I have submitted a claim  
   b) I have submitted a decision review / appeal  
-  c) I have not submitted a benefits claim
+  c) I have not submitted a benefits claim (disqualify)
 
 10. **Select the statement(s) that apply to you: (Check all that apply)**  
    a) I submitted a form on VA.gov by myself  
