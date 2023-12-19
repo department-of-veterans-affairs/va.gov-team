@@ -5,6 +5,10 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 12/21/23
+*   Recurring touchopint with VADS team
+
+  
 ## 12/07/23
 *   Incorporating our docs with VADS
     * Who would we work with from VADS?
