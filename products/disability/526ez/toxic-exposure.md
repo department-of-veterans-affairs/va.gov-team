@@ -66,5 +66,7 @@ We considered adding a radio button indicating toxic exposure to the "How is you
 
 Keeping these two questions ("How is your condition related to your service?" and "Are any of your conditions related to toxic exposure during your military service?") separate will eventually (when we add the toxic exposure section for all types of disability claims) allow the Veteran to indicate toxic exposure along with any other existing answer for "How is your condition related to your service?". 
 
-If we added a radio button of "My condition was caused by toxic exposure during my military service" to the "How is your condition related to your service?" question, we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
+If we used the "other approach considered", we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
 
+### Indicating dates for locations
+…
