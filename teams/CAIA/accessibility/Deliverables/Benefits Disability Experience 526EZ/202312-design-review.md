@@ -39,7 +39,7 @@
 #### Form inputs without semantic labels
 - **Defect level, if launched:** `a11y-defect-1`
 - **Experience standard:** `04` `06`
-- **Issue:** Every form input needs a semantic label - this is how assistive technology users are able to figure out what a form field is for. Currently, the month/year fields don't have labels of their own, only the group does - the fields instead rely on placeholder text, which [aren't accessible as a standalone solution](https://www.a11yproject.com/posts/placeholder-input-elements/):
+- **Issue:** Every form input needs a semantic label - this is how assistive technology users are able to figure out what a form field is for. Currently, the month/year fields don't have labels of their own, only the group does - the fields instead rely on placeholder text, which [aren't accessible as a standalone solution](https://www.a11yproject.com/posts/placeholder-input-elements/):<br>
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/c66d2282-98b5-457f-a680-313b4c15ed66)
 - **Recommendation:** Use the existing VADS [month/year component](https://design.va.gov/storybook/?path=/docs/components-va-date--month-year) instead.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/85eb433f-b54d-4ec6-8bda-5db8163c884f)
@@ -55,11 +55,13 @@
 - **Result:** Components will align with the VADS, and will be easier to update down the line.
 
 #### Use the VADS "textarea" component for better usability
-- **Defect level, if launched:**
-- **Experience standard:**
-- **Issue:** There's a textarea with a big `<label>` with a maximum character count, and no indication of error handling. This _might_ be accessible as is, but it might not:
+- **Defect level, if launched:** `a11y-defect-4`
+- **Experience standard:** `04` `07`
+- **Issue:** There's a textarea with a big `<label>` with a maximum character count, and no indication of error handling. This _might_ be accessible as is, but it might not be:<br>
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/9431619f-c0be-4e1c-bb55-a0191caba3b0)
-- **Recommendation:** Use the [VADS textarea component](https://design.va.gov/components/form/textarea). It'll handle the error handling, character count, and accessibility considerations for each. You'll need to include both the `placeholder` and `message-aria-describedby` attributes so that users of assistive tech are aware that there's a character limit. Here's code you can use, once you're at that stage:
+- **Recommendation:** Use the [VADS textarea component](https://design.va.gov/components/form/textarea). <br>
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/87f0a6c2-230e-4c38-b65b-23f2eaa4a005)<br>
+It'll handle the error handling, character count, and accessibility considerations for each. You'll need to include both the `placeholder` and `message-aria-describedby` attributes so that users of assistive tech are aware that there's a character limit. Here's code you can use, once you're at that stage:
 ```
 <va-textarea
   hint="For example: I operated loud machinery while in the service and this caused me to lose my hearing."
