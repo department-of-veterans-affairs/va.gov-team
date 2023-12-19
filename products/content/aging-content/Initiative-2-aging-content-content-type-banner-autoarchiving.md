@@ -86,7 +86,7 @@ Note: Auto-archiving will be in a future initiative, and along with that functio
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Q1 2024 (an actual date will be determined soon)
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -97,12 +97,13 @@ Note: Auto-archiving will be in a future initiative, and along with that functio
 ## Solution Narrative
 
 ### Current Status
+2023-12-19: Groomed and edited this MVP initiative
 
 ### Key Decisions
 
 | Decision | Date | Participants |
 |----------|-------------|--------------------|
-| Implementation will be split into iterations, with MVP consisting of Full-width Banner Date Limits and Notifications for Aging Content, while also providing the ability for future implementation of other content types | 12/4/2023 | Dave Conlon |
+| Implementation will be split into iterations, with MVP consisting of Full-width Banner 7 day timeframe and notifications for Full-width banner content type, while also providing the ability for future implementation of other content types, and auto-archiving | 12/4/2023 | Dave Conlon |
 | The following is excluded from the MVP: date limits and notifications for content blocks, auto-archiving full-width banners, other content types, or content blocks | 12/6/2023 | Dave Conlon |
 
 
