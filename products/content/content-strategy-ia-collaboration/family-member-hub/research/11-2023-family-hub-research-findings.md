@@ -129,7 +129,7 @@ _List all labels that apply to this finding from the [research repository label 
 
 ## Task level insights
 
-1. Health care task - 66% task success, 78% directness
+**1. Health care task - 66% task success, 78% directness**
   - This task had similar success and directness as the health care tree test done with family and caregivers in 2023, despite requiring additional clicks
     - In the 2024 test, the task was worded more towards being a caregiver, and the top answer was the PCAFC program selected in the family member hub (32%), the health care option was second (20%)
     - In the 2023 test (Health apartment caregiver baseline study), the task was worded as a spouse or caregiver, and the top answer was the health care option within the family member hub (50%)
@@ -139,8 +139,26 @@ _List all labels that apply to this finding from the [research repository label 
   - Labeling in the 2024 version was also longer
     - Family and caregiver benefits > All benefits for spouses, children, and parents > Health care and disabilities > Family and caregiver health and disability programs
     - Family member benefits > Health care
-   
-2. Mental health care - 78% task success, 71% directness
+
+**2. Compensation - **
+
+
+**3. Accrued benefits - 22% success, 73% directness**
+  - Initial path:  Family member hub (56%), Disability hub (20%)
+  - Selections: Family hub (61%), Disability hub (22%)
+  - Task specifically mentioned a disability claim and visitors still predominantly scrolled past this option in the top level of the nav, and navigated to the family member hub
+  - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this label and/or service
+  - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
+
+**4. Transferred GI Bill benefits - 32% task success, 78% directness**
+  - Initial path: Education (56%), Family member hub (27%)
+  - Selections: Education (66%), FAmily member hub (24%)
+  - Although the majority of participants navigated to and selected answers in the Education benefits hub, only 12% selected tthe correct answer there; 29% selected options for Veterans to apply for GI Bill benefits, and 12% selected the task intended for Veterans to transfer their benefits - this option would provide instructions and crosslinking to the content specific to the family member.
+  - This is a complicated task if you are not familiar with education benefits for dependents - it requires the Veteran to first transfer the benefits to you and then you need to apply for those transferred benefits
+  - When participants went to the family member hub, most of them were able to find the correct option
+
+
+**5. Mental health care - 78% task success, 71% directness**
   - Mental health care task was significantly more successful (78%) compared to the baseline caregiver test (37%)
     - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
     - In 2023 (Health apartment caregiver baseline study), selections were most often made in the health care hub (30%), compared to the family member hub (2%) 
@@ -148,15 +166,11 @@ _List all labels that apply to this finding from the [research repository label 
     - the change in the label of the family member hub from "Family member benefits" to "Family and caregiver benefits"
     - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
     - Mental health option in the health care hub was under more resources rather than within the get benefits section
+ 
+**6. Military records - **
+  - 
 
-3. Transferred GI Bill benefits - 32% task success, 78% directness
-  - Initial path: Education (56%), Family member hub (27%)
-  - Selections: Education (66%), FAmily member hub (24%)
-  - Although the majority of participants navigated to and selected answers in the Education benefits hub, only 12% selected tthe correct answer there; 29% selected options for Veterans to apply for GI Bill benefits, and 12% selected the task intended for Veterans to transfer their benefits - this option would provide instructions and crosslinking to the content specific to the family member.
-  - This is a complicated task if you are not familiar with education benefits for dependents - it requires the Veteran to first transfer the benefits to you and then you need to apply for those transferred benefits
-  - When participants went to the family member hub, most of them were able to find the correct option
-
-4. Travel pay task had similar task succes rate
+**7. Travel pay task had similar task succes rate**
   - In both the current and the 2023 (Health apartment caregiver baseline study) study, participants primarily selected answers under "Manage benefits" within the health care hub
     - However, in the 2024 study, participants navigated directly to the family member hub 46% of the time, and the health care hub only 27% of the time
     - In the 2023 study, participants navigated directly to the family member hub only 10% of the time, and the health care hub 47% of the time
@@ -166,21 +180,17 @@ _List all labels that apply to this finding from the [research repository label 
     - Of those that navigated to the family member hub > common tasks for managing your health and benefits section (12%), 0 left the section, and 100% selected a correct answer there
     - These numbers indicate that participants expected to find this task within the family member hub, but could not find it
 
-5. Payment history - 42% success, 68% directness
+**8. Payment history - 42% success, 68% directness**
   - Initial path: Family member hub (46%), Disability (12%), Pension (17%)
   - Selections: Family member hub (54%), Disability (17%), Pension (17%)
-  - 32% went directly to the Family member hub survivor-specfic benefits section, and most then selected either the survivors pension program or DIC - these pages would likely have cross-links to the payments, but their primary focus is on the benefit itself, not the payments you are already receiving, so they were considered incorrect answers
-  - 17% selected accrued benefits
+    - 32% went directly to the Family member hub survivor-specfic benefits section, and most then selected either the survivors pension program or DIC - these pages would likely have cross-links to the payments, but their primary focus is on the benefit itself, not the payments you are already receiving, so they were considered incorrect answers
+    - 17% selected accrued benefits
   - Participants primirily looked for this feature alongside the corresponding benefit - this could be a result of how our site is and has been structured
  
-6. Accrued benefits - 22% success, 73% directness
-  - Initial path:  Family member hub (56%), Disability hub (20%)
-  - Selections: Family hub (61%), Disability hub (22%)
-  - Task specifically mentioned a disability claim and visitors still predominantly scrolled past this option in the top level of the nav, and navigated to the family member hub
-  - Once in the family member hub, 37% of the answers were incorrect siblings of accrued benefits, possibly indicating a lack of familiarity with this label and/or service
-  - This task is clearly challenging to complete; further assessment is needed to understand how well this service and name is known to veterans and family members
- 
-7. Fiduciary benefits - 29% success, 29% directness
+**9. Prescriptions - **
+  - 
+
+**10. Fiduciary benefits - 29% success, 29% directness**
   - Initial path: Family member hub (20%), disability (22%), pension hub (12%), service member hub (34%)
   - Selections:  Family member hub (44%), disability (27%), pension hub (15%), service member hub (5%)
   - Top answers: Family member hub > Become a fiduciary (29%), Disability > Change direct deposit (10%), Disability > Get help from an accredited rep (7%)
