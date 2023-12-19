@@ -84,7 +84,7 @@ Section errors that get triggered due to adding additional benefits stay persist
 1) Removing benefits in the "Benefits selection" section, should also remove any triggered errors in other interconnected sections
 <br>
 
-## Issue 4 
+## ~Issue 4~ 
 When updating the "Date of death" and "Date of burial" of the deceased Veteran, the claimant does not get informed if these dates are more than 2 years from our current date.
 
 #### Steps to replicate
@@ -96,8 +96,7 @@ When updating the "Date of death" and "Date of burial" of the deceased Veteran, 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/8bb88a1d-44a1-4846-9143-93e2b0df6a1d" width="60%">
 
 #### Possible Solution
-Add the existing note on step 2 to the corresponding section on the Review page. [Design for this solution](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/OeYMxak)
-
+Based on the feedback we got during our midpoint review, we will remove this alert and add it as additional instructions to this page.
 
 
 ## Issue 5
