@@ -51,7 +51,7 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 <details>  <summary>Project Details</summary>
  
 ### Overview
-**Note: as of December 8, 2023, we were asked to put this work on hold until all MHV health tools were available to all users on on VA.gov**
+**Note: as of December 8, 2023, we were asked to put this work on hold until all MHV health tools were available to all users on VA.gov**
 
 The health wayfinding study from earlier in 2023 showed that some folks had a hard time finding/navigating to the new MHV landing page from My VA, and therefore had a hard time finding additional health information not shown on My VA.
 
