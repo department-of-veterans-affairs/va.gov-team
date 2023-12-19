@@ -20,11 +20,11 @@ No information can be prefilled for unauthenticated users of the AVA Form.
   * Inquiry information can be updated implicitly when the submitter submits their inquiry
 
 ## Identity ID sourcing
-| Prefilled field | Source | Source field |
-|:--|:--|:--:|
-| Submitter CSP UUID | VA.gov Profile - identity | uuid |
-| Submitter ICN | VA.gov Profile - MPI | icn |
-| Submitter EDIPI | VA.gov Profile - MPI | edipi |
+| Prefilled field | Source | Source field | Description |
+|:--|:--|:--:|:--|
+| Submitter CSP UUID | VA.gov Profile - identity | uuid | Generated when a user registers at one of the IDPs |
+| Submitter ICN | VA.gov Profile - MPI | icn | Generated when a user verifies their identity with one of the IDPs | 
+| Submitter EDIPI | VA.gov Profile - MPI | edipi | DoD number used for veterans, contractors, and govt civilians |
 
 ## Prefilled field sourcing
 | Prefilled field | Source | Source field |
