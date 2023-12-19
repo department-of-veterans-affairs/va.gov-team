@@ -10,7 +10,7 @@ After interviewing Pension and Burial SMEs we learned that both 527 Pension and 
 ## Solution
 To solve this we decided to 1) deactivate both forms as soon as possible. [You'll be able to read more about our deactivation plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/design/pension-burial-deactivation.md). And 2) Identify the missing fields and redesign the forms to include those fields as an MVP. 
 
-There were some concerns from our stakeholders about deactivating the Burial benefits form so it was decided to not deactivate the Burial benefits form and to quickly redesign it. 
+There were some concerns from our stakeholders about deactivating the Burial benefits form so it was decided to not deactivate the Burial benefits form and to pivot our focus to redesigning it. 
 
 ### Paper form vs existing online form
 [We identified](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1691611069028) which new fields we needed to add to the online form.
