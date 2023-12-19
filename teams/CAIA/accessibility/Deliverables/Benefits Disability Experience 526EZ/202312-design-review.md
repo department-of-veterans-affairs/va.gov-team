@@ -44,9 +44,16 @@
 - **Recommendation:** Use `vads-color-secondary-dark` (hex: `#b50909`) (from the [VADS color palette](https://design.va.gov/foundation/color-palette)) as your color token.
 - **Result:** This will pass color contrast checks and is consistent with the rest of the design system (see [this example](https://design.va.gov/components/form/checkbox#required-1) of a "Required" label using the correct color).
 
+#### Form inputs without semantic labels
+- **Defect level:** `a11y-defect-1`
+- **Experience standard:** `04` `06`
+- **Issue:** Every form input needs a semantic label - this is how assistive technology users are able to figure out what a form field is for. Currently, the month/year fields don't have labels of their own, only the group does - the fields instead rely on placeholder text, which [aren't accessible as a standalone solution](https://www.a11yproject.com/posts/placeholder-input-elements/):
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/c66d2282-98b5-457f-a680-313b4c15ed66)
+- **Recommendation:** Use the existing VADS [month/year component](https://design.va.gov/storybook/?path=/docs/components-va-date--month-year) instead.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/85eb433f-b54d-4ec6-8bda-5db8163c884f)
+- **Result:** Using the component will give you a proper fieldset, legend, and label for the form fields, and error handling too! Users of assistive technology will be able to figure out what each form field is for.
 
-
-### Minor (defect 4) Best Practices and Considerations 
+### Minor (defects 3-4) Best Practices and Considerations 
 
 #### Use the VADS color palette: buttons, progress bar, checkboxes
 - **Defect level:** `a11y-defect-4`
