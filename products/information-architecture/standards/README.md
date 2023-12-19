@@ -13,6 +13,7 @@
 - [Search best bets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) - Draft standards complete, will be continuing to evaulate draft approach
 - [SEO best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md)
 - [Template: Benefit hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) - work in progress
+- [User Flow Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/user-flow-guidance.md)
 - Additional IA standards to come...
 
 **VA.gov experience standards**
