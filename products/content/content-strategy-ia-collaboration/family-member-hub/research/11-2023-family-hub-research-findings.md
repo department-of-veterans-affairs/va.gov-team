@@ -140,8 +140,10 @@ _List all labels that apply to this finding from the [research repository label 
     - Family and caregiver benefits > All benefits for spouses, children, and parents > Health care and disabilities > Family and caregiver health and disability programs
     - Family member benefits > Health care
 
-**2. Compensation - **
-
+**2. Compensation - 63% task success, 66% directness**
+  - Initial path: Family member hub (78%), pension 7(%), service member hub (7%)
+  - Selections: Family member hub (80%), pension hub (5%), service member hub (5%)
+  - Accrued benefits was selected 12% of the time from two places within the family member hub
 
 **3. Accrued benefits - 22% success, 73% directness**
   - Initial path:  Family member hub (56%), Disability hub (20%)
@@ -157,7 +159,6 @@ _List all labels that apply to this finding from the [research repository label 
   - This is a complicated task if you are not familiar with education benefits for dependents - it requires the Veteran to first transfer the benefits to you and then you need to apply for those transferred benefits
   - When participants went to the family member hub, most of them were able to find the correct option
 
-
 **5. Mental health care - 78% task success, 71% directness**
   - Mental health care task was significantly more successful (78%) compared to the baseline caregiver test (37%)
     - In 2024, selections were most often made within the family member hub (68%), compared to the health care hub (4%)
@@ -167,8 +168,9 @@ _List all labels that apply to this finding from the [research repository label 
     - the task verbiage with added "as you support the Veteran in your family" making the task sound more related to caregiver support.  The 2024 test saw more selections made for the caregiver programs (12%) compared to 2023 (3%)
     - Mental health option in the health care hub was under more resources rather than within the get benefits section
  
-**6. Military records - **
-  - 
+**6. Military records - 68% task success, 73% directness**
+  - 80% of the participants navigated directly to the Records hub
+  - Most common incorrect answer was "Complete list of discharge documents" - 22% selected that answer
 
 **7. Travel pay task had similar task succes rate**
   - In both the current and the 2023 (Health apartment caregiver baseline study) study, participants primarily selected answers under "Manage benefits" within the health care hub
@@ -187,8 +189,12 @@ _List all labels that apply to this finding from the [research repository label 
     - 17% selected accrued benefits
   - Participants primirily looked for this feature alongside the corresponding benefit - this could be a result of how our site is and has been structured
  
-**9. Prescriptions - **
-  - 
+**9. Prescriptions - 80% task success, 44% directness**
+  - 88% of the participants went directly to the Veteran health care hub
+    - 38% of those first went to the More resources section
+    - 17% of those first went to the Get benefits section
+    - 11% of those turned around and left the health care hub
+  - The spoke nave was "Manage benefits" rather than "Manage health care and benefits", which may have impacted the humber directly navigating to this section 
 
 **10. Fiduciary benefits - 29% success, 29% directness**
   - Initial path: Family member hub (20%), disability (22%), pension hub (12%), service member hub (34%)
