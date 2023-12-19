@@ -34,38 +34,22 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 ## Hypotheses and Conclusions
 
 **1. Family members and caregivers will navigate to the family member hub for information on benefits for themselves**
-  - _Definitely true._  
-      - Participants navigated directly to the family member hub 59% of the time, versus navigating directly to any Veteran benefit hub 32% of the time
-      - Participants navigated indirectly to the family member hub 64% of the time 
-      - There were 5 tasks related to finding benefit information for themselves
-      - There was almost twice the amount of activity within the family member hub than the Veteran benefit hubs
+  - _Definitely true._  - Participants looked within the family member hub significantly more than the Veteran benefit hubs in 4 of the 5 related tasks
 
 **2. Family members and caregivers will navigate to the family member hub to complete tasks related to managing and tracking their own benefits**
-  - _Maybe true._  
-      - Participants navigated directly to the family member hub 33% of the time, versus navigating directly to any Veteran benefit hub 55% of the time
-      - Participants navigated indirectly to the family member hub 42% of the time 
-      - There were 3 tasks related to managing their own health and benefits
-      - It was more common for participants to look within the Veteran benefit hubs for these types of tasks, however, over time, a more robust family member hub could increase the activity in this section
+  - _Likely true._  - Participants looked within the family member hub slightly more than the Veteran benefit hubs 2 of the 3 related tasks, and significantly less for 1 task
     
 **3. Survivors will navigate to the section labeled "Survivors" in the family member hub to find information on benefits**
-  - Likely true._  
-      - Participants navigated directly to the survivors section of the family member hub 39% of the time, versus navigating directly to any Veteran benefit hub only 27% of the time 
-      - Participants navigated indirectly to the survivors section of the family member hub 45% of the time
-      - There were 3 tasks specific to survivors
-      - There was slightly more activity within the surivors section of the family member hub over the Veteran benefit hubs, however, over time, a more robust family member hub could continue to increase the activity in this section
+  - _Likely true._ - Participants looked within the surivors section of the family member more often than the Veteran benefit hubs in 2 of the 3 related tasks
 
 **4. Caregivers will navigate to the section labeled "Caregivers" in the family member hub to find information on benefits**
-  - Maybe true._  
-      - Participants navigated directly to the caregivers section of the family member hub 44% of the time, versus navigating directly to any Veteran benefit hub 37% of the time
-      - Participants navigated indirectly to the caregivers section of the family member hub 51% of the time 
-      - There was 1 task specific to caregivers
-      - There was slightly more activity within the caregiver section of the family member hub over the Veteran benefit hubs, but this analysis only includes 1 task, so further evaluation may be needed
+  - _Maybe true._  - Participants looked within the caregiver section of the family member hub slightly more than the Veteran benefit hub in the 1 related tasks
 
 
 ## Key Findings
 
-1. Participants primarily navigated to the family member hub in 4/5 tasks related to getting benefits for themselves
-2. Participants utilized the Veteran benefit hubs to complete tasks related to managing their benefits slightly more than the family member hub
+1. Participants navigated to and selected answers within the family member hub significantly more often than the Veteran benfeit hubs for tasks related to getting benefits for themselves
+2. Participants utilized the family member hub to complete tasks related to managing their benefits slightly more than the family member hub, but with unsuccessful results
 3. Participants navigated to and selected answers in the family member hub over 2 times more than the Veteran benefit hubs for tasks specific to survivor benefits
 4. Participants navigated to and selected answers in the family member hub more often than the Veteran benefit hubs for the task specific to a caregiver
 5. The "common tasks" section of the family member hub was rarely utilized
