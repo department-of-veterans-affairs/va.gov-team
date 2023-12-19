@@ -34,7 +34,7 @@
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|The logged in user's ICN|
 
-## Response [NEEDS UPDATE]
+## Response [NEEDS CRM REVIEW]
 
 <table>
 <tr>
@@ -51,23 +51,29 @@
         "message": "OK", 
         "data": [
             {
-                "allowAttachments": true,
-                "requiresAuthentication": true,
                 "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "topic 1",
-                "displayName": "topic 1",
-                "rankOrder": 999,
-                "parentId": "a6c3af1b-ec8c-ee11-8178-001dd804e106"
+                "name": "orange",
+                "displayName": null,
+                "rankOrder": null
             },
             {
-                "allowAttachments": false,
-                "requiresAuthentication": true,
-                "id": "c8c3af1b-ec8c-ee11-8178-001dd804e106",
-                "name": "topic 2",
-                "displayName": "topic 2",
-                "rankOrder": 999,
-                "parentId": "d9c3af1b-ec8c-ee11-8178-001dd804e106"
+                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "grape",
+                "displayName": null,
+                "rankOrder": null
             },
+            {
+                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "apple",
+                "displayName": "granny smith",
+                "rankOrder": null
+            },
+            {
+                "id": "b7c3af1b-ec8c-ee11-8178-001dd804e106",
+                "name": "other",
+                "displayName": "other",
+                "rankOrder": 999
+            }
         ] 
     }
 }
@@ -77,6 +83,6 @@
 </tr>
 </table>
 
-## Notes [NEEDS UPDATE]
+## Notes [NEEDS CRM REVIEW]
 
 None.
