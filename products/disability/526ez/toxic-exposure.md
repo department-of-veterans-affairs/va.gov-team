@@ -27,7 +27,7 @@ See Sketch file: [526 toxic exposure](https://www.sketch.com/s/c353146f-eceb-462
 
 ## Project background
 
-@evelynhilbrichdavis led usability research in August 2023. See [research findings](https://docs.google.com/presentation/d/1VLqXexB72C_fPjUyw1MwL2Pjznvsg_q_UYbg16xk-iM/edit#).  
+[@evelynhilbrichdavis](https://github.com/evelynhilbrichdavis) led usability research in August 2023. See [research findings](https://docs.google.com/presentation/d/1VLqXexB72C_fPjUyw1MwL2Pjznvsg_q_UYbg16xk-iM/edit#).  
 
 ## Outstanding questions and next steps
 
@@ -44,3 +44,11 @@ See Sketch file: [526 toxic exposure](https://www.sketch.com/s/c353146f-eceb-462
 
 ### Entry point to toxic exposure questions
 
+The current approach is to keep the "How is your condition related to your service" question unchanged.
+
+<img width="306" alt="How is your condition related to your service question, showing 4 radio button options" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b0ea39bc-5c35-49d5-ae24-d0e5872cd31c">
+
+
+Later, we ask if any conditions are related to toxic exposure and list all newly entered conditions in checkboxes. The Veteran can check which, if any, of these conditions are related to toxic exposure.
+
+<img width="280" alt="Are any of your conditions related to toxic exxposure question, showing a checkbox for each newly entered condition and a final checkbox of 'I am not claiming any conditions related to toxic exposure' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/abee8798-0a25-4627-8150-b76bcbd9142a">
