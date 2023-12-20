@@ -8,8 +8,6 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Link to study:**
 - **Takeaway**:
 ----
-
-## Copy this section
 ### Study name: Federal HF usability testing--Phase 1
 - **Team/Researcher:** Sitewide, Cindy Merrill
 - **Date:** 12/20/20203
