@@ -106,11 +106,13 @@ flowchart TB
 ```mermaid
 sequenceDiagram
     VA.gov->>IDP: Initiate Login Process
-    IDP->>VA-gov: UUID
-    VA-gov->>VA.gov-Profile: Authenticated User's Profile Information
+    IDP->>VA.gov: UUID
+    VA.gov->>VA.gov-Profile: UUID
+    VA.gov-Profile->>VA.gov-Accounts: Initiate retrieval of user information
     VA.gov-Profile->>MPI: Initiate retrieval of user information
     VA.gov-Profile->>VA-Profile: Initiate retrieval of user information
     VA.gov-Profile->>Other-Sources: Initiate retrieval of user information
+    VA.gov-Accounts->>VA.gov-Profile: Returns Information
     MPI->>VA.gov-Profile: Returns Information
     VA-Profile->>VA.gov-Profile: Returns Information
     Other-Sources->>VA.gov-Profile: Returns Information
