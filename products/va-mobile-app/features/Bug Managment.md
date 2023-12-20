@@ -96,6 +96,8 @@ Steps
 
 ### Bug Severity as of 1/22/2023
 <img width="460" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/f33c5a44-3059-46d7-84e6-6e0ee27d8fc0">
+<img width="524" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/2b6a7035-0e82-43fd-b69f-81f636bf3e84">
+
 <img width="588" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/16b27cec-32ec-43d8-abbc-dbc017680dda">
 <img width="577" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/61e7c341-f1d4-4f60-a183-698b8867132c">
 
