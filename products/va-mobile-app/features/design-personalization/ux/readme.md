@@ -19,17 +19,9 @@ This work explores potential apporaches for brining personalized experiences to 
     * Homescreen-specific design strategy for personalization
 
 ### UX Design
-#### Personalized home screen design process**  
 **Work planning**
   * [Personalization + Personalized Home Screen -  work planning (figjam)](https://www.figma.com/file/fQfBPKtLWbwEnPIFeaBaXf/Personalization-work-planning?type=whiteboard&node-id=66%3A575&t=AeF4Blig86OJDwwh-1)
     * Discovery, Design, Research & Production work plan  
 
-**Wireframes**
+**Personalized home screen design process**
 * [VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md)
-    * [MVP direction Low-fi - Oct 2023(Balsamiq)](https://balsamiq.cloud/s4uw4la/pnnwuqv/rEDDF)
-    * [MVP direction Low-fi - revisions - Dec 2023 (Balsamiq)](tbd)
-
-**High fidelity visual design epxlorations
-**
-##### Personalized home screen design 
-    * High fidelity visual design (Figma)
