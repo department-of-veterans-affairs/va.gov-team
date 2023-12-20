@@ -138,19 +138,16 @@ flowchart TB
     end
 ```
 
-## VA Profile vs VA.gov Profile
+## VA.gov Profile vs VA Profile vs AVA Profile
+### What
+*  **VA.gov Profile:**  This is a consolidation service that relies on multiple VA systems that are considered sources of truth for specific kinds of data. Access is via VA.gov API and [VA.gov Profile Page](https://www.va.gov/profile).
+*  **VA Profile:** This is a datastore that contains multiple tables that store information for users that interact with the VA.  Access is via VA Profile API
+*  **AVA Profile:** This is a datastore that contains user information specific to the AskVA form.  Currently there is no API available, however you can [track progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/README.md) of the one being built.
 
-Questions: 
-1. What is the purpose for each system? 
-2. Does everybody get an ICN who logs into VA.gov?
-3. Is VA Profile available to ALL people that will try to access AskVA (veteran and non-veteran)?
-
-| Criteria | VA Profile | VA.gov Profile |
-|---|---|---|
-| When you authenticate to one of the supported IDPs, is a record in this system created? | | |
-| Is the information in this system accessible to AskVA (in VetsAPI)? | | |
-| POC for the system | | |
-
+### How
+* A VA.gov profile is generated for every verified user.
+* A VA Profile is available to anybody with an ICN in MPI who has provided contact information is eligible to be in VA Profile
+    * EXCEPTION: excludes VA employees unless they are veterans - the authoritative system for VA employees are HR Smarts(maybe)
 
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
