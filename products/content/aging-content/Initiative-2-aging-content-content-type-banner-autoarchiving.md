@@ -122,6 +122,7 @@ Note: Auto-archiving will be in a future initiative, and along with that functio
 
 #### Tickets
 - [Super Epic Aging content notifications for banners & blocks #16127](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16127)
+    - [Aging Content - Banner: Implement (7) day timeframe for Full-width banners (MVP) #16417](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
   
   
 
