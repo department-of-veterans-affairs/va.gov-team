@@ -121,7 +121,7 @@ It'll handle the error handling, character count, and accessibility consideratio
   - If the user enters "other relevant locations," how does the following screen populate (the bold text)? ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/0b148217-3eb8-46b0-a007-2b5596e872a5) **This applies across the form - anywhere a user can enter in something specific, and the form programatically takes that response to populate the copy on another screen**
 - **Ideas:** We have a couple of ideas here:
   - You could remove "Not sure," and use copy to make it clear that the user can leave the checkboxes blank. "Only check off locations you know you served in."
-  - You can use the one thing per page model: First, ask if the person knows where they served. _Then_ ask the location.
+  - You can use the one thing per page model: First, have a checkbox that says "I served somewhere else." If that's selected, they're taken to a new page where they can enter in the locations.
   - If the user served in multiple locations and needs to add them to the text field, perhaps you could programatically add the necessary formatting so that the form can parse it properly (commas, for example)
 
 #### Repeated headings: [condition name]
