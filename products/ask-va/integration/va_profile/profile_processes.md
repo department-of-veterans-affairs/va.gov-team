@@ -27,29 +27,29 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter EDIPI | VA.gov Profile - MPI | edipi | DoD number used for veterans, contractors, and govt civilians |
 
 ## Prefilled field sourcing
-| Prefilled field | Source | Source field |
-|:--|:--|:--:|
-| Submitter First Name | VA.gov Profile - identity | first_name |
-| Submitter Middle Name | VA.gov Profile - identity | middle_name |
-| Submitter Last Name | VA.gov Profile - identity | last_name |
-| Submitter Suffix | VA.gov Profile - identity | suffix |
-| Submitter Email  | VA.gov Profile - identity | email | 
-| Submitter Gender | VA.gov Profile - identity | gender |
-| Submitter DoB | VA.gov Profile - identity | birth_date |
-| Submitter SSN | VA.gov Profile - MPI | ssn |
-| Submitter Home Address | VA.gov Profile  - MPI | address.street & address.street2| 
-| Submitter Home City | VA.gov Profile  - MPI | address.city | 
-| Submitter Home State | VA.gov Profile  - MPI | address.state | 
-| Submitter Home Zip  | VA.gov Profile  - MPI | address.zip | 
-| Submitter Phone  | VA.gov Profile  - MPI | home_phone | 
-| Preferred Name | VA.gov Profile  - MPI | preferredName | 
-| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
-| Submitter Branch of Service  | AVA Profile | * | 
-| Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number | 
-| Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
-| Submitter State of School  | AVA Profile | patient.iris_schoolstate | 
-| Business phone | AVA Profile | patient.telephone1 |
-| Business email | AVA Profile | patient.emailaddress2 |
+| Prefilled field | Source | Source field | Notes |
+|:--|:--|:--:|:--|
+| Submitter First Name | VA.gov Profile - identity | first_name | |
+| Submitter Middle Name | VA.gov Profile - identity | middle_name | |
+| Submitter Last Name | VA.gov Profile - identity | last_name | |
+| Submitter Suffix | VA.gov Profile - identity | suffix | |
+| Submitter Email  | VA.gov Profile - identity | email |  |
+| Submitter Gender | VA.gov Profile - identity | gender | |
+| Submitter DoB | VA.gov Profile - identity | birth_date | |
+| Submitter SSN | VA.gov Profile - MPI | ssn | |
+| Submitter Home Address | VA.gov Profile  - MPI | address.street & address.street2|  |
+| Submitter Home City | VA.gov Profile  - MPI | address.city |  |
+| Submitter Home State | VA.gov Profile  - MPI | address.state |  |
+| Submitter Home Zip  | VA.gov Profile  - MPI | address.zip |  |
+| Submitter Phone  | VA.gov Profile  - MPI | home_phone |  |
+| Preferred Name | VA.gov Profile  - MPI | preferredName |  |
+| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName | waiting on court ruling to make it available on va.gov profile page|
+| Submitter Branch of Service  | VA Profile | <military service history> | This information is available in VA Profile and is read only because it comes straight from DoD.  There can be many results so need to consider that when defaulting to one |
+| Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number |  |
+| Submitter School Facility Code  | AVA Profile | patient.school_facility_code |  |
+| Submitter State of School  | AVA Profile | patient.iris_schoolstate |  |
+| Business phone | AVA Profile | patient.telephone1 | |
+| Business email | AVA Profile | patient.emailaddress2  | |
 
   * Denotes, the path to this data hasn't been determined yet 
 
