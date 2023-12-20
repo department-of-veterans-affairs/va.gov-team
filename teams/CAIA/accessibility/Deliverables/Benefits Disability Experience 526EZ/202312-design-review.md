@@ -51,7 +51,7 @@
 <details>
  <summary>Best Practices and Considerations </summary>
 
- #### Use accessibility annotations before handoff to dev
+ #### Use accessibility annotations before handoff to dev - label headings
 - **Issue:** "Hidden" information, like heading levels and aria text, can't be easily derived from a visual mockup alone. Developers could inadvertently code an inaccessible product because those aren't defined in the prototype.
 - **Recommendation:** Use the [VA's annotation library](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols?g=Accessibility%2520tags) in your mockup.
 - **Result:** A more accessible final product, and less work for your developers.
@@ -142,6 +142,7 @@ It'll handle the error handling, character count, and accessibility consideratio
   - You could remove "Not sure," and use copy to make it clear that the user can leave the checkboxes blank. "Only check off locations you know you served in."
   - You can use the one thing per page model: First, have a checkbox that says "I served somewhere else." If that's selected, they're taken to a new page where they can enter in the locations.
   - If the user served in multiple locations and needs to add them to the text field, perhaps you could programatically add the necessary formatting so that the form can parse it properly (commas, for example)
+  - You could add a button that says “Add another location” which dynamically shows another field to enter next location.
 
 #### Repeated headings: [condition name]
 - **Issue:** The [condition name] (for example, "Toxic exposure"), is repeated as a header (presumably an `H3`?) across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. Many assistive tech users use headings to navigate, and this wouldn't indicate the content of the page to them.
