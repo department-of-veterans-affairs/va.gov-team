@@ -43,8 +43,8 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter Home Zip  | VA.gov Profile  - MPI | address.zip |  |
 | Submitter Phone  | VA.gov Profile  - MPI | home_phone |  |
 | Preferred Name | VA.gov Profile  - MPI | preferredName |  |
-| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName | waiting on court ruling to make it available on va.gov profile page|
-| Submitter Branch of Service  | VA Profile | <military service history> | This information is available in VA Profile and is read only because it comes straight from DoD.  There can be many results so need to consider that when defaulting to one |
+| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName | waiting on court ruling to make it available on va.gov profile page<br/><br/>Can pull this information from AVA Profile until then |
+| Submitter Branch of Service  | VA Profile | <military service history> | This information is available in VA Profile and is read only because it comes straight from DoD.<br/><br/>  There can be many results so need to consider that when defaulting to one |
 | Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number |  |
 | Submitter School Facility Code  | AVA Profile | patient.school_facility_code |  |
 | Submitter State of School  | AVA Profile | patient.iris_schoolstate |  |
