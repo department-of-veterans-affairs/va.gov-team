@@ -1,9 +1,13 @@
 # Family and Caregiver Benefit Hub Implementation Plan
 
 ## Final scope and design
-- Scope and design decisions based on research
-- IA design
-- Additional research efforts
+- Document scope and design decisions based on research
+- Finalize IA design
+- Identify any additional research needed
+- Audit VFS products impacted by design approach and identify changes needed
+- Establish a roll-out approach for the overall structure and individual hubs
+- Identify key stakeholders
+- Define a communications plan
 
 ## Product impacts
 
@@ -19,7 +23,7 @@
 - Landing page design
 
 
-## Benefit hub roll-out
+## Roll-out approach
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach
 - Establish the overall structure needed in the new family member hub and build out appropriate landing pages and links
@@ -30,9 +34,9 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - Move any existing content pages
 - Implement redirects
 
-Hub | Work start | Stakeholder
+Hub | Order | Work start
 --- | --- | ---
-Health care | | 
+Health care | 1 | 
 Disability | | 
 Education | | 
 Careers | | 
@@ -41,6 +45,18 @@ Housing | |
 Life insurance | | 
 Burials and memorials | | 
 Records | | 
+
+## Stakeholders
+
+### OCTO stakeholders
+- Portfolio leads:  Chris Johnston, Lauren Alexanderson, Zach Goldfine
+
+### OCTO Product stakeholders
+
+
+### Health and benefits stakeholders
+- VHA Digital Comms: Jenny Hieland-Ludke
+
 
 ## Communication plan
 - Communication to OCTO stakeholders
