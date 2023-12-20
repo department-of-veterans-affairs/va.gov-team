@@ -1,4 +1,4 @@
-# Keywords
+# Terminology & Definitions
 
 **Jump to:**
 
