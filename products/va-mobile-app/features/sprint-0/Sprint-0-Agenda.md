@@ -10,7 +10,7 @@ The Sprint 0 meeting is a time to do the following:
 * Review product briefs that we can pull from in a future quarter
 * Allow time with POs to ask questions or seek feedback on Sprint 0s in progress
 
-[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md) \
+[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md)
 
 
 ## Future Sprint 0s (not yet ready)

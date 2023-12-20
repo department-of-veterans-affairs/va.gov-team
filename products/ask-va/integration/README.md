@@ -53,6 +53,6 @@ Form | [GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md) | Lighthouse | N/A 
 Form | [GET /states](lighthouse/Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
 Form | [GET /countries](lighthouse/Form_GetCountries.md) | Lighthouse | N/A | ⬜ | design | | 
 Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
-Dashboard | [GET /profile](va_profile/Dashboard_ProfileSyncing.md)   | VA Profile / Dynamics | 🟦 | ⬜ | design | CRM/FE teams to complete design by 12/21 | 
+Dashboard | [GET /profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/va_profile/profile_processes.md)   | VA Profile / Dynamics | 🟦 | ⬜ | design | CRM/FE teams to complete design by 12/21 | 
 Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟦 | ⬜ | design | CRM/FE teams to complete design by 12/21 | 
 

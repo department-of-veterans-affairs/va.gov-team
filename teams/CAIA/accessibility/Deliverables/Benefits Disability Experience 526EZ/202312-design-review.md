@@ -16,19 +16,21 @@
  Full review of Toxic Exposure updates to 526EZ form
  
 ### Manual
- * [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
- * [ ] Color blindness checks
- * [ ] Buttons vs links
- * [ ] Cognitive flow
- * [ ] Design consistency across screens
+ * [x] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
+ * [x] Color blindness checks
+ * [x] Buttons vs links
+ * [x] Cognitive flow
+ * [x] Design consistency across screens
  
 ### Screen Reader
- * [ ] Behavior & navigation advice 
+ * [x] Behavior & navigation advice 
 
 ## Findings
 
-### Must fix
-#### Color contrast: "Required" label
+<details>
+ <summary>Must fix</summary>
+
+ #### Color contrast: "Required" label
 - **Defect level, if launched:** `a11y-defect-1`
 - **Experience standard:** `06` `02`
 - **Issue:** Wherever a form field is labeled as REQUIRED, the "Required" label is using a color that doesn't meet WCAG AA color constrast standards. Visually impaired users may have trouble reading the text. The current color is `#FF0000`.
@@ -44,9 +46,12 @@
 - **Recommendation:** Use the existing VADS [month/year component](https://design.va.gov/storybook/?path=/docs/components-va-date--month-year) instead.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/85eb433f-b54d-4ec6-8bda-5db8163c884f)
 - **Result:** Using the component will give you a proper fieldset, legend, and label for the form fields, and error handling too! Users of assistive technology will be able to figure out what each form field is for.
+</details> 
 
-### Best Practices and Considerations 
-#### Use accessibility annotations before handoff to dev
+<details>
+ <summary>Best Practices and Considerations </summary>
+
+ #### Use accessibility annotations before handoff to dev
 - **Issue:** "Hidden" information, like heading levels and aria text, can't be easily derived from a visual mockup alone. Developers could inadvertently code an inaccessible product because those aren't defined in the prototype.
 - **Recommendation:** Use the [VA's annotation library](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols?g=Accessibility%2520tags) in your mockup.
 - **Result:** A more accessible final product, and less work for your developers.
@@ -86,8 +91,22 @@ It'll handle the error handling, character count, and accessibility consideratio
 />
 ```
 - **Result:** The textarea will be much easier to manage on your end, and easier for users to fill out on the front end.
+</details>
 
-### CONTENT
+<details><summary>CONTENT</summary>
+
+ #### Conditional logic: "Not sure" checkbox
+- **Defect level, if launched:** `a11y-defect-1`
+- **Experience standard:** `11` `22`
+- **Issue:** The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of.<br>
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/409d33fb-a8d7-4337-acc3-3e82154475cf)
+
+- **Recommendation:** We have some ideas ideas:
+   - You can remove the "Not sure" box entirely, and let the user keep the month / year blank if they aren't sure of the dates. You'll need to add copy - "If you're not sure when you served, leave the dates blank."
+   - OR, you can use the [one thing per page](https://design.va.gov/patterns/help-users-to/complete-a-sub-task#design-principles) approach. First, ask the user if they know when they served, yes or no/not sure. If they know, THEN bring them to a page where they can enter the dates; if they don't know, skip the dates screen.
+- **Results:** Either of these solutions would avoid issues of field changes not being announced to assistive technology users, and help them avoid confusion over those on-page changes.
+
+
 #### Preserving focus order: "What is toxic exposure?" placement
 - **Defect level, if launched:** `a11y-defect-2`
 - **Experience standard:** `11` `08`
@@ -136,3 +155,4 @@ It'll handle the error handling, character count, and accessibility consideratio
 <h4>When you served</h4>
 ```
 - **Result:** This will make the content of the page clearer for users of assistive tech.
+</details>
