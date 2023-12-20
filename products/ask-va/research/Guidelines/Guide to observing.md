@@ -13,7 +13,7 @@ This guide is based on:
 * Remind yourself of the research objectives.
 * Clear your space, find your headphones and mute distractions, like Slack notifications.
 * Sign in to Zoom and change the display name to your first or preferred name.
-* Open (or join) `#feedback-backchannel` on DSVA Slack and find the thread for your session.
+* Open (or join) `#feedback-backchannel` on DSVA Slack. Find the thread for your session.
 * Open the notes board in Mural (you can find a link in the meeting invitation or `#feedback-backchannel` thread). Find your session.
 
 ## At the start of the session
