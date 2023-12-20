@@ -116,7 +116,7 @@ sequenceDiagram
     MPI->>api.va.gov/user: Returns Information
     VA-Profile->>api.va.gov/user: Returns Information
     Other-Sources->>api.va.gov/user: Returns Information
-    api.va.gov/user->>VA.gov: User Information compiled and returned
+    api.va.gov/user->>VA.gov: Consolidated User Profile returned
     VA.gov->>AskVA: User navigates to AskVA Form
 ```
 
