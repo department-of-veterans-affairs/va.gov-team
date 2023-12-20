@@ -25,7 +25,7 @@
 - *Open standalone browser windows with prototypes:*
   - Smartphone: **https://bit.ly/3RJL5vb** 
   - Desktop/tablet: **https://bit.ly/3t6rbRt**  
-- *Paste link into Slack so ready to paste into Zoom chat*
+- *Paste link into Zoom chat (but don't hit enter)*
 
 - *Do Not Disturb ON so no notifications*
 
