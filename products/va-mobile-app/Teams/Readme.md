@@ -1,3 +1,6 @@
+<img width="869" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/33d0ed79-0627-45f2-a02f-e34a97181f17">
+
+
 | Mobile Team | Team Category| PM | Team | Focus | Team Ticket Label | Other Info |  Slack Channel 
 | ------------| ----| ----| -----| -----| -------------| -----------|--------| 
 | Health and Benefits | Flagship | Alayna Abell (fully onboarded 1/22/24) | Kris (FE), Dylan (FE), Lauren (UX) | | Health |  Team starting 1/22; in the mean time will fill in work per convo with Tim with bugs, code upkeep, react native given no remaining Q4 Health Work | va-mobile-health-benefits|
