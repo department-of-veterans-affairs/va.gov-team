@@ -1,5 +1,5 @@
 # VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement
-September 2023
+September 2023-present
 
 This work explores potential personalized home screen design approaches for the VA Mobile app, systematically evaluated and narrowed down to a finalist for MVP using a [success criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md#criteria-for-evaluating-personalized-home-screen-approaches) established by the team & product owners.
 
@@ -10,20 +10,26 @@ The design explorations below will include collecting & evaluating concepts from
 
 ### Design Explorations
 #### Low-fi/Wireframes
-**Round 1**
-* Low-fi Home screen - Initial Wireframe Explorations [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB03B) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization-%20Home%20screen%20-%20initial%20explorations.pdf)
-* Low-fi Home screen Explorations + Audit: First round, Finalists for product & feasability review & MVP rec [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20exploration%20audit.pdf)
+* **Round 1** (Dec 2021-June 2022; Sep 2023)
+  * Low-fi Home screen - Initial Wireframe Explorations [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB03B) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization-%20Home%20screen%20-%20initial%20explorations.pdf)
+  * Low-fi Home screen Explorations + Audit: First round, Finalists for product & feasability review & MVP rec [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20exploration%20audit.pdf)
 
-**Round 2**  
-* Low-fi Home screen - round 2 - Explorations (pivot) [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB0B9) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20explorations%20round%202.pdf)   
-* Low-fi Home screen - round 2 - Recommended MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/r47B3) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20MVP.pdf)   
+* **Round 2** (Oct 2023)
+  * Low-fi Home screen - round 2 - Explorations (pivot) [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB0B9) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20explorations%20round%202.pdf)   
+  * Low-fi Home screen - round 2 - Recommended MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/r47B3) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20MVP.pdf)   
 
-**Round 3**
-* Low-fi Home screen - round 3 - Explorations + Revised MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rC00A) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20MVP%20revisions.pdf)
+* **Round 3** (Dec 2023)
+  * Low-fi Home screen - round 3 - Explorations + Revised MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rC00A) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20MVP%20revisions.pdf)
 
 #### High-fi/Visual Design
-* High fidelity visual design (Figma)
+* **Round 1** (Nov 2023)
+  * Round 1: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827-5426&mode=design&t=bTa3MSZcKOsrMobw-4)  [pdf]
 
+* **Round 2** (Dec 2023)
+  * Round 2: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1183-1483&mode=design&t=bTa3MSZcKOsrMobw-4)  [pdf]
+ 
+* **Round 3** (Dec 2023)
+  * Round 3: High fidelity visual design [Figma]()  [pdf]
 
 ### Success Criteria for Evaluating Personalized Home Screen Approaches
 Choosing a design direction for the personalized home screen involves balancing user, business, and technical considerations. We will use the following criteria as a guide to systematically audit our personalized home screen design explorations and narrow options down to the direction/s we intend to move forward with.
