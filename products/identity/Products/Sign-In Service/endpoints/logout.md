@@ -1,10 +1,11 @@
 # Logout
 
-### Description
-This endpoint destroys the user session associated with the access token that is included in the call, revoking the usage of all of that session's tokens. This is an authenticated route: an Access Token must be passed, either through Bearer Authentication for mobile/API or a cookie for web/cookie authentication.
+## Description
+
+Destroys the user session associated with the `access_token` that is included in the call, revoking the usage of all of that session's tokens. This is an authenticated route: an `access_token` must be passed.
 
 
-### Token endpoint
+## Logout Endpoint
 
 ```
 Staging: https://staging-api.va.gov/v0/sign_in/logout

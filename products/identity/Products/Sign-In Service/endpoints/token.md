@@ -13,7 +13,7 @@ Production: 'https://api.va.gov/v0/sign_in/token'
 
 ## [Cookie](../auth_flows/web_oauth.md) & [API](../auth_flows/mobile_oauth.md) PKCE Auth
 
-PKCE is the standard end-user authentication flow, provisioning an `access_token` & `refresh_token`, as well as an optional `anti_csrf_token` and an `info_token` for cookie auth clients. It requires the `code` returned to the client's specified `redirect_uri` at the end of the `/authorize` flow, as well as the `code_verifier` that matches the `code_challenged` used to authenticate.
+PKCE is the standard end-user authentication flow, provisioning an `access_token` & `refresh_token`, as well as an optional `anti_csrf_token` and an `info_token` for cookie auth clients. It requires the `code` returned to the client's specified `redirect_uri` at the end of the `/authorize` flow, as well as the `code_verifier` that matches the `code_challenged` used to authenticate. API clients will receive a JSON response with the new tokens, cookie clients will have cookies set to the new token values.
 
 ### Authorization Parameters
 

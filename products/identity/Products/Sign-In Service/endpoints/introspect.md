@@ -1,33 +1,49 @@
 # Introspect
 
-### Description
-Used to get user data from the `/introspect` endpoint. This is an authenticated route: an Access Token must be passed, either through Bearer Authentication for mobile/API or a cookie for web/cookie authentication.
+## Description
 
-### Token endpoint
+Used to obtain serialized user data from the vets-api User object. This is an authenticated route: an `access_token` must be passed.
 
-```
+## Introspect Endpoint
+
+```jsx
 Staging: https://staging-api.va.gov/v0/sign_in/introspect
 Production: https://api.va.gov/v0/sign_in/introspect
 ```
 
-| Client ID | Header key | Value |
-| --- | --- | --- |
-| mobile | `Authorization` | `Bearer <accessTokenHash>` |
-| web | `vagov_access_token` | `<accessTokenHash>` |
+## Introspect Parameters
 
+| Parameter | Description | Value Type | Example Values |
+| --- | --- | --- | --- |
+| `access_token` | Sign in Service access token | String | `eyJhbGci0...` |
 
+### Cookie & API Auth
 
-*Sample request*
+The manner in which the `access_token` is passed to Sign in Service for validation is dependent on the client's auth type, controlled through their `ClientConfig`.
 
+#### API Sample Request
+
+API clients will pass their token through Bearer Authentication, setting the `Authorization` header to `Bearer <access_token>`.
+
+```bash
+# API Request
+curl --location 'http://localhost:3000/v0/sign_in/introspect' \
+--header 'Authorization: Bearer eyJhbGciOiJSUzI1NiJ9...'
 ```
-// Receives accessToken from storage
 
-staging-api.va.gov/v0/sign_in/introspect
-Headers: ...
-  Authorization: Bearer eyJWT...
+#### Cookie Sample Request
+
+Cookie clients will use the `vagov_access_token` cookie set for them as a result of a successful `/token` or `/refresh` call to pass the `access_token`.
+
+```bash
+# Cookie Request
+curl --location 'http://localhost:3000/v0/sign_in/introspect' \
+--header 'Set-Cookie: vagov_access_token=eyJhbGciOiJSUzI1NiJ9...'
 ```
 
-*Sample response*
+### Sample Response
+
+Regardless of the client's type, a successful SiS response will return a JSON `data` object that contains the user's most important attributes and identifiers.
 
 ```json
 {
@@ -37,13 +53,13 @@ Headers: ...
    "attributes": {
       "uuid": "876f0f36-6b12-4273-babe-12144eaa2d57",
       "first_name": "FAKEY",
-      "middle_name": null,
+      "middle_name": "FAUX",
       "last_name": "MCFAKERSON",
       "birth_date": "1938-10-06",
       "email": "faker.fake@fake.com",
       "gender": "M",
       "ssn": "123456789",
-      "birls_id": null,
+      "birls_id": "445566",
       "authn_context": "logingov",
       "icn": "1012852978V019884",
       "edipi": "1320002080",
