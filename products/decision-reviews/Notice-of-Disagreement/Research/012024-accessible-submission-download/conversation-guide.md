@@ -48,9 +48,9 @@ Next, I want to get our tech set up.
 ### Screenshare prompt
 * So we can understand how you’re navigating this form, we’d like you to share your screen.
 * If participants cannot share their screen, walk them through screen sharing.
-  * ~[Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)~
-  * ~[iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)~
-  * ~[Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)~
+  * [Screenreader Screen Share Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
+  * [iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+  * [Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 * Would you prefer that I send the link to Zoom chat, to your email, or by another method?
   * If another method, confirm their contact number/email address.  [Ask Perigean to send email, check Subject line to make sure it’s clear]
 
