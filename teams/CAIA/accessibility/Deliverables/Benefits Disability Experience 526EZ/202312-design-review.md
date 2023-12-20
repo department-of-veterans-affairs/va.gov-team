@@ -46,6 +46,17 @@
 - **Result:** Using the component will give you a proper fieldset, legend, and label for the form fields, and error handling too! Users of assistive technology will be able to figure out what each form field is for.
 
 ### Best Practices and Considerations 
+#### Use accessibility annotations before handoff to dev
+- **Issue:** "Hidden" information, like heading levels and aria text, can't be easily derived from a visual mockup alone. Developers could inadvertently code an inaccessible product because those aren't defined in the prototype.
+- **Recommendation:** Use the [VA's annotation library](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/symbols?g=Accessibility%2520tags) in your mockup.
+- **Result:** A more accessible final product, and less work for your developers.
+
+#### Toxic exposure summary: Don't use the table pattern
+- **Defect level, if launched:** `a11y-defect-4`
+- **Experience standard:** `04` `07`
+- **Issue:** There are two versions of the "Summary of TE Copy" screen - a [heading/list view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/9296F74D-6473-4C1F-8407-EAF63AF051E1), and a [table view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/5A997037-3409-4151-A92A-0E445EF0974D). The VADS's [table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.
+- **Recommendation:** Use your [heading/list view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/9296F74D-6473-4C1F-8407-EAF63AF051E1), or a description list, not the table view.
+- **Result:** Assistive tech users should have an easier time understanding the summary page, and you'll follow VADS guidelines.
 
 #### Use the VADS color palette: buttons, progress bar, checkboxes
 - **Defect level, if launched:** `a11y-defect-4`
