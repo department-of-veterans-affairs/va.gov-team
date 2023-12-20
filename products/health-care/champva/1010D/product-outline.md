@@ -52,7 +52,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
 - Objective: Provide a high quality digital experience for Veterans and their families to apply for health care benefits 
   - Key result: Increase % of Veterans and families who update their health care benefits online
-  - Key result: Reduce number of downloads from VA.gov
+  - Key result: Reduce time it takes to fill out application
   - Key result: Increase number of submissions in a single session
 - Objective: Faster delivery of benefits for Veterans and their families
   - Key result: Reduce processing and approval time 
