@@ -105,11 +105,16 @@ flowchart TB
 ### Pre-Defined Process for Login and VA Profile Data Retrieval
 ```mermaid
 sequenceDiagram
-    VA-gov->>IDP: Initiate Login Process
+    VA.gov->>IDP: Initiate Login Process
     IDP->>VA-gov: UUID
-    VA-gov->>MPI: Initiate retrieval of user profile information
-    MPI->>VA-gov: Authenticated User's Profile Information
-    VA-gov->>AVA_Form: User directs to AVA_Form
+    VA-gov->>VA.gov-Profile: Authenticated User's Profile Information
+    VA.gov-Profile->>MPI: Initiate retrieval of user information
+    VA.gov-Profile->>VA-Profile: Initiate retrieval of user information
+    VA.gov-Profile->>Other-Sources: Initiate retrieval of user information
+    MPI->>VA.gov-Profile: Returns Information
+    VA-Profile->>VA.gov-Profile: Returns Information
+    Other-Sources->>VA.gov-Profile: Returns Information
+    VA.gov-Profile->>VA.gov: User Information compiled and returned
 ```
 
 ### Pre-Defined Logic For Merging Data Only Found in AVA Profile
