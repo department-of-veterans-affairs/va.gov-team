@@ -42,9 +42,9 @@ No information can be prefilled for unauthenticated users of the AVA Form.
 | Submitter Home State | VA.gov Profile  - MPI | address.state | 
 | Submitter Home Zip  | VA.gov Profile  - MPI | address.zip | 
 | Submitter Phone  | VA.gov Profile  - MPI | home_phone | 
-| Preferred Name | VA Profile | genderIdentityTraits.preferredName | 
+| Preferred Name | VA.gov Profile  - MPI | preferredName | 
 | Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
-| Submitter Branch of Service  | VA Profile | * | 
+| Submitter Branch of Service  | AVA Profile | * | 
 | Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number | 
 | Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
 | Submitter State of School  | AVA Profile | patient.iris_schoolstate | 
