@@ -21,7 +21,7 @@ Disability compensation, disability benefits, toxic exposure, PACT Act, 526 ez
 
 We are adding a toxic exposure section to the 526 ez disability benefits claim form, allowing Veterans to specify some aspects of their service history that might qualify them for additional disability benefits related to toxic exposure. This brings the digital form into parity with the paper 526 ez form on these exposure questions. 
 
-For our initial release, we will include this toxic exposure section only for new conditions (not already-rated conditions), as an MVP.
+For our initial release, we will include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase), as an MVP.
 
 See Sketch file: [526 toxic exposure](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f) (will soon be migrated to Figma) and the annotations within it for details.
 
