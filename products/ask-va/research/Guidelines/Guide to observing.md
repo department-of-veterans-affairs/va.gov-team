@@ -14,9 +14,7 @@ This guide is based on:
 * Clear your space, find your headphones and mute distractions, like Slack notifications.
 * Sign in to Zoom and change the display name to your first or preferred name.
 * Open (or join) `#feedback-backchannel` on DSVA Slack and find the thread for your session.
-* If you signed up to take notes during the session:
-    * open the notes board in Mural (you can find a link in the meeting invitation or `#feedback-backchannel` thread)
-    * find your session on the board
+* Open the notes board in Mural (you can find a link in the meeting invitation or `#feedback-backchannel` thread). Find your session.
 
 ## At the start of the session
 
