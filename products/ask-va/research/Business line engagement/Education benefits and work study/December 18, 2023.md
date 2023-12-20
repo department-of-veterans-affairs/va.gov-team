@@ -1,12 +1,12 @@
 # December 18, 2023: Uploading documents topic
 
-*Ask VA Integration Team*
+*Ask VA Front-End Team*
 
 Last updated by @tygindraux: December 18, 2023
 
 ## Background
 
-This document was created by the Ask VA Integration team after gathering insights from Education and Work Study, and Beth Potts, OCTO Content Lead.
+This document was created by the Ask VA front-end team after gathering insights from Education and Work Study, and Beth Potts, OCTO Content Lead.
 
 ### Problem
 
