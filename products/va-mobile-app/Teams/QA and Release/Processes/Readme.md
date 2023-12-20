@@ -235,7 +235,7 @@ QA has to sign off on the ticket prior to merging branches into develop (develop
 - [Existing Bug Handling Process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Bug%20Managment.md)
 
 
-## [QA Testing Toold and Their Purpose](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/Resources)
+## [QA Testing Tools and Their Purpose](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/Resources)
 
 | Tool | Purpose | How is it accessed | 
 | ---- | ------- | ------------------ |
@@ -246,5 +246,13 @@ QA has to sign off on the ticket prior to merging branches into develop (develop
 | 1Password Valuts | Test user password storage | 1Password access | 
 | Github Pages | Documenting storage, processes, policies. May be migration to confluence in the future. Reviewing documentation. Need public space as the process to save doucmentation to Github is tedious.  | Github account with applicable repos | 
 | Detox | Automated end to end testing | Reach out to your Mobile Team's QA agent | 
- 
+
+## Other topics to consider including: 
+ * Team member bio / links to how they work best (Therese's doc)
+ * Link to our mission, vision, goals
+ * Document OKR / KPIs
+ * When to engage QA
+ * Processes team is responsible for
+ * QA limitations (devices, OS, analytics)
+ * QA requirements 
 
