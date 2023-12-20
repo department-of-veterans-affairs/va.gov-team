@@ -23,13 +23,13 @@ The design explorations below will include collecting & evaluating concepts from
 
 #### High-fi/Visual Design
 * **Round 1** (Nov 2023)
-  * Round 1: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827-5426&mode=design&t=bTa3MSZcKOsrMobw-4)  [pdf]
+  * Round 1: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827-5426&mode=design&t=bTa3MSZcKOsrMobw-4) [pdf]
 
 * **Round 2** (Dec 2023)
-  * Round 2: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1183-1483&mode=design&t=bTa3MSZcKOsrMobw-4)  [pdf]
+  * Round 2: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1183-1483&mode=design&t=bTa3MSZcKOsrMobw-4) [pdf]
  
 * **Round 3** (Dec 2023)
-  * Round 3: High fidelity visual design [Figma]()  [pdf]
+  * Round 3: High fidelity visual design [Figma]() [pdf]
 
 ### Success Criteria for Evaluating Personalized Home Screen Approaches
 Choosing a design direction for the personalized home screen involves balancing user, business, and technical considerations. We will use the following criteria as a guide to systematically audit our personalized home screen design explorations and narrow options down to the direction/s we intend to move forward with.
