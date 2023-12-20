@@ -8,8 +8,7 @@ This work explores potential apporaches for brining personalized experiences to 
   * [VA Mobile app - Personalization: North Star - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/personalization-northstar-design-strategy-worksheet-2023.md) |  [doc](https://docs.google.com/document/d/1gZ-FjEPQyKK2peZHm6CPJW8C3jl8dLCr/edit#heading=h.gjdgxs) 
  (2023)
     * Personalization "umbrella" design strategy
-*  * [ARCHIVED: VA Mobile app - Personalization - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/personalization-design-strategy-worksheet-2022.md) (May-Jun 2022)
-     * Deprecated 
+*  * [ARCHIVED: VA Mobile app - Personalization - Design Strategy Worksheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/%20personalization-design-strategy-worksheet-2022.md) (May-Jun 2022)
 
 ## Personalization - Home Screen
 ### UX Strategy
