@@ -25,6 +25,7 @@ Period - 12/20/2023 - 01/02/2024
     - [ ] Synthesis and draft report outline
 - **Stretch Goals**
      - Design and Content updates - Service History changes from mid-point, if capacity
+     - Migrate sketch files to Figma
 
 
 ## Sprint 20
