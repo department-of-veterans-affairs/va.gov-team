@@ -46,20 +46,20 @@
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
-- Product Owner: Jen Bertsch (Jennifer.Bertsch@va.gov) , Emily Theis (emily.theis@va.gov)
+- Product Owner:  Emily Theis (emily.theis@va.gov)
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
   
  Team 1: 
 - Product manager: Rakshinda Aslam
-- Design and Research: Lydia Hooper, Kate Allbee, Evelyn Davis
+- Design and Research: Mike Eng, Kate Allbee, Evelyn Davis
 - Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommasina Miller
 - Delivery: Anneliese LaTempa
 
  Team 2:
 - Product manager: Austin Price
 - Design and Research: Julie Pedtke, Nichole Nicholas
-- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Micah Frazier
+- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal
 - Delivery: Sarah Ortiz Shields
 
