@@ -107,16 +107,16 @@ flowchart TB
 sequenceDiagram
     VA.gov->>IDP: Initiate Login Process
     IDP->>VA.gov: UUID
-    VA.gov->>VA.gov-Profile: UUID
-    VA.gov-Profile->>VA.gov-Accounts: Initiate retrieval of user information
-    VA.gov-Profile->>MPI: Initiate retrieval of user information
-    VA.gov-Profile->>VA-Profile: Initiate retrieval of user information
-    VA.gov-Profile->>Other-Sources: Initiate retrieval of user information
-    VA.gov-Accounts->>VA.gov-Profile: Returns Information
-    MPI->>VA.gov-Profile: Returns Information
-    VA-Profile->>VA.gov-Profile: Returns Information
-    Other-Sources->>VA.gov-Profile: Returns Information
-    VA.gov-Profile->>VA.gov: User Information compiled and returned
+    VA.gov->>api.va.gov/user: UUID
+    api.va.gov/user->>VA.gov-Accounts: Initiate retrieval of user information
+    api.va.gov/user->>MPI: Initiate retrieval of user information
+    api.va.gov/user->>VA-Profile: Initiate retrieval of user information
+    api.va.gov/user->>Other-Sources: Initiate retrieval of user information
+    VA.gov-Accounts->>api.va.gov/user: Returns Information
+    MPI->>api.va.gov/user: Returns Information
+    VA-Profile->>api.va.gov/user: Returns Information
+    Other-Sources->>api.va.gov/user: Returns Information
+    api.va.gov/user->>VA.gov: User Information compiled and returned
 ```
 
 ### Pre-Defined Logic For Merging Data Only Found in AVA Profile
