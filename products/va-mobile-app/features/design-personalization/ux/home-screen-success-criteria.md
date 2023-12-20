@@ -12,8 +12,7 @@ The design explorations below will include collecting & evaluating concepts from
 #### Low-fi/Wireframes
 **Round 1**
 * Low-fi Home screen - Initial Wireframe Explorations [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB03B) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization-%20Home%20screen%20-%20initial%20explorations.pdf)
-* Low-fi Home screen Explorations + Audit - first round + Finalists for product & feasability review [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20exploration%20audit.pdf)
-* Low-fi Home screen - Recommended MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFAC0) [pdf]  
+* Low-fi Home screen Explorations + Audit: First round, Finalists for product & feasability review & MVP rec [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20exploration%20audit.pdf)
 
 **Round 2**  
 * Low-fi Home screen Explorations - round 2 (pivot) [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB0B9) [pdf]  
