@@ -1,6 +1,6 @@
 # Family and Caregiver Benefit Hub Implementation Plan
 
-## Final scope and design
+## Next steps
 - Document scope and design decisions based on research
 - Finalize IA design
 - Identify any additional research needed
