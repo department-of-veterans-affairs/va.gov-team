@@ -16,7 +16,7 @@ The design explorations below will include collecting & evaluating concepts from
 * Low-fi Home screen - Recommended MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFAC0) [pdf]  
 
 **Round 2**  
-* [Low-fi Home screen Explorations - round 2 (pivot) [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB0B9) [pdf]  
+* Low-fi Home screen Explorations - round 2 (pivot) [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB0B9) [pdf]  
 * Low-fi Home screen - round 2 - Recommended MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/r47B3) [pdf]  
 
 **Round 3**  
