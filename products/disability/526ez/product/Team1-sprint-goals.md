@@ -4,6 +4,7 @@
 Period - 12/20/2023 - 01/02/2024
 ### Sprint goals 
 - **Expedited**
+ - [ ] Add date stamps on form 0781 
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
        - PPIU - Direct Debit 
