@@ -6,7 +6,14 @@ This page contains quantitative data intended to measure whether the home screen
 
 While lagging indicators, like task completion rate and retention rate are strong indicators of value for Veterans, qualitative feedback, through user interviews, would provide a faster and more holistic view on whether the feature was successful.
 
-|Category | Metric Type| Metric | Description | Hypothesis | Numerator | Denominator | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
-| -------- | -------- | ---------- | -------| -------| -------| -------| -------| -------| -------| -------|
-|Feature Adoption|Observational| Personalized home screen adoption|Measures the percentage of Veterans that have a version of the app with the new home screen| N/A - this metric is to observe how many are using the new home screen | # of Veterans using an app version with the new home screen 
+### Metric Description
 
+|Category | Metric Type| Metric | Description | Hypothesis | Numerator | Denominator 
+| -------- | -------- | ---------- | ---------- | ---------- | -------| -------|
+| Feature Adoption | Observational | Personalized home screen adoption | Measures the percentage of Veterans that have a version of the app with the new home screen | N/A - this metric is to observe how many are using the new home screen | # of Veterans using an app version with the new home screen | # of Veterans using the app |
+| Home screen load speed | The speed at which the home screen loads | N/A - this metrics is to observe how long it takes the home screen to load. | # of seconds for the home screen to load | N/A
+
+### Metric Tracking
+
+| Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
+| -------- | -------- | ---------- | -----------------| -----------------| 
