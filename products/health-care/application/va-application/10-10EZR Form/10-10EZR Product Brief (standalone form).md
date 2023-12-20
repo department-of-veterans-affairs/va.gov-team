@@ -89,10 +89,11 @@ In future iterations, we plan to review for alternative locations and other syst
 - Build a standalone 10-10EZR form online
 - Provide an authenticated experience only
 - Check for enrolled or registered for VA health care
-- Pre-fill all available fields with data from Enrollment System - Veteran info and Insurance only
+- Pre-fill all available fields with data from Enrollment System - Veteran info and Medicare/Medicaid Insurance only
 - Include legal/regulatory verbiage on Review page (similar to 10-10EZ for copays, assignment of benefits, etc)
 - Allow Veterans to print Confirmation page
 - Enrollment system will trigger generic email confirming receipt of the form
+- Skipping Household section if a Means test is already on record for the Veteran
 
  
 **Out of scope**:
@@ -100,7 +101,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Integrating update capabilities with VA.gov Profile Page or MHV on VA.gov 
 - Short Form flow
 - Printing generated PDF of the completed form after submission with all data input
-- Prefill on Dependents and Insurance - due to validation issue found with EZ (solution coming)
+- Prefill on Dependents and Private Insurance - due to validation issue found with EZ (solution coming)
 
 ### Initiatives
 - [EZR online epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
@@ -120,11 +121,11 @@ In future iterations, we plan to review for alternative locations and other syst
      - [N/A] Design Intent
      - [x] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
      - [x] Midpoint - Scheduled 10/27/2023
-     - [ ] Research
-     - [ ] Contact Center guide
+     - [x] Research
+     - [x] Contact Center guide
      - [x] Analytics
-     - [ ] Staging - Scheduled 11/17/2023
-     - [ ] Infrastructure, Privacy & Security
+     - [x] Staging - Scheduled 11/17/2023
+     - [x] Infrastructure, Privacy & Security
 
 ### Incident Response info
 - The 1010EZR form is a new form on VA.gov
@@ -154,10 +155,10 @@ In future iterations, we plan to review for alternative locations and other syst
 - *Target Launch Date*
   - 11/27/2023
 - *Actual Launch Date* 
-  - tbd
+  - 12/20/2023
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - Evaluate: End of December 2023
-  - Impact Review: January/February 2024
+  - Evaluate: End of January 2024
+  - Impact Review: February/March 2024
 
 ---
 
@@ -165,7 +166,7 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### Current Status
 - New form being built online
-     - 12/12/2023 - ES Fix for dependents info should be deployed to SQA today, we should be able to complete our E2E testing.
+     - 12/20/2023 - EZR Form launched at 10% over the holiday week
 
 #### Key deliverables
 
@@ -177,11 +178,11 @@ In future iterations, we plan to review for alternative locations and other syst
 - [Technical documentation folder]
 - How to access and test
     - [Staging env](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
-    - Testing documentation - TestRail
+    - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/runs/view/4963&group_by=cases:section_id&group_order=asc)
     - [Test/Use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
-    - A11y test case documentation
+    - [A11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69253)
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
-- Production env
+- [Production env](https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
 
 ### Key Decisions
 - 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.
@@ -212,7 +213,9 @@ In future iterations, we plan to review for alternative locations and other syst
 - Nov: Complete QA
 - Nov: Complete UAT
 - Dec: Complete E2E testing
-- Dec: Launched to ???% of users
+- Dec 20: Launched to 10% of users
+- Jan: Complete phased launch
+- Jan 11: Launch at 100%
 ---
    
 ## Screenshots
@@ -244,7 +247,7 @@ TBD
  
  - DEPO Lead: Patrick Bateman
  - PM: Alex Seelig
- - Engineering: Matt Long (FE), Lihan Li (BE)
+ - Engineering: Matt Long (FE), Lihan Li (BE), Joshua Drumm (BE)
  - QA: Fletcher Bonds
  - Research/Design: Hieu Vo
  
@@ -261,6 +264,7 @@ TBD
      - Simone Gully
      - Shana Watson
      - Jessica Soza
+     - Bryan Burgan
      - Jennifer Mdoe
      - Ambroja Watson
      - Amanda Scully
