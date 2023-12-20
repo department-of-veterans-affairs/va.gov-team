@@ -202,7 +202,7 @@ Did you get the link?
 
 
 ### Task 2: [First impressions]
-I would like you to take some time to look over this web page from top to bottom, and then tell me about it. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. Note that some parts of the page will work, and other parts will not.
+I would like you to take some time to look over this web page from top to bottom, and then tell me about it. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. 
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
@@ -226,7 +226,9 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
 
-*RECORD navigation: **desktop header > Find a VA location** / search / **mobile header > search > Find a VA location*** / footer
+Note that some parts of the page will work, and other parts will not. Please tell me what you plan to click on before you do it.
+
+*RECORD navigation: **desktop header > Find a VA location** / search / **mobile header > menu or search > Find a VA location*** / footer
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
