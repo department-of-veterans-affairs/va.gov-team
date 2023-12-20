@@ -1,4 +1,4 @@
-2024 Calendar Year: Mobile Team OKRs and Org Chart 
+**2024 Calendar Year: Mobile Team OKRs and Org Chart**
 
 As of December 13, 2024
 
