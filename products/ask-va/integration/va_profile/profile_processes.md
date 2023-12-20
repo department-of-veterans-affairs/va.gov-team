@@ -117,6 +117,7 @@ sequenceDiagram
     VA-Profile->>api.va.gov/user: Returns Information
     Other-Sources->>api.va.gov/user: Returns Information
     api.va.gov/user->>VA.gov: User Information compiled and returned
+    VA.gov->>AskVA: User navigates to AskVA Form
 ```
 
 ### Pre-Defined Logic For Merging Data Only Found in AVA Profile
