@@ -1,6 +1,6 @@
 # Observing research on the Ask VA Integration team
 
-Last updated by @tygindraux: July 7, 2023
+Last updated by @tygindraux: December 20, 2023
  
 This guide is based on:
 * [VA.gov Platform: Guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
