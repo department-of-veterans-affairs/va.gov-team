@@ -101,16 +101,16 @@ It'll handle the error handling, character count, and accessibility consideratio
 - **Issue:** The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of.<br>
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/409d33fb-a8d7-4337-acc3-3e82154475cf)
 
-- **Recommendation:** We have some ideas ideas:
+- **Recommendation:** We have some ideas:
    - You can remove the "Not sure" box entirely, and let the user keep the month / year blank if they aren't sure of the dates. You'll need to add copy - "If you're not sure when you served, leave the dates blank."
    - OR, you can use the [one thing per page](https://design.va.gov/patterns/help-users-to/complete-a-sub-task#design-principles) approach. First, ask the user if they know when they served, yes or no/not sure. If they know, THEN bring them to a page where they can enter the dates; if they don't know, skip the dates screen.
 - **Results:** Either of these solutions would avoid issues of field changes not being announced to assistive technology users, and help them avoid confusion over those on-page changes.
 
 
-#### Preserving focus order: "What is toxic exposure?" placement
+#### Preserving focus order: "What if I have more than one date range?" placement
 - **Defect level, if launched:** `a11y-defect-2`
 - **Experience standard:** `11` `08`
-- **Issue:** The placement of the "What is toxic exposure?" Additional info component could make things tricky. In its current state, it's hard to know what the `label` is and what's regular paragraph text. The use might expect to be able to click on "When did you serve in [X]?" and be able to access the fields - but the Additional info component stands between them:<br>
+- **Issue:** The placement of the "What if I have more than one date range?" Additional info component could make things tricky. In its current state, it's hard to know what the `label` is and what's regular paragraph text. The use might expect to be able to click on "When did you serve in [X]?" and be able to access the fields - but the Additional info component stands between them:<br>
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/4a511fcb-62be-40d0-b484-25a836971101)
 - **Recommendation:** You can structure the page using (as mentioned previously) the VADS [month/year component](https://design.va.gov/storybook/?path=/docs/components-va-date--month-year). Make sure that the `legend` for each makes sense out of context - some users will only tab through a page, not reading the non-interactive elements:
 ```
@@ -129,7 +129,10 @@ It'll handle the error handling, character count, and accessibility consideratio
     [month] [year]
 ```
 - **Result:** This will be much easier for assistive technology users to navigate through. The field `labels` will be adjacent to their inputs.
-
+- **Questions:**
+   - Does the user need to know what to do with multiple date ranges BEFORE they enter in their dates, or AFTER? In theory, it's good to have the key action of the page - in this case, entering dates - receiving focus first. But if it's important that they know what to do with multiple date ranges before they start enter in those dates, then keep it as is.
+   - If entering the dates is optional, as noted in [Sprint Review DEMO](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/p/31E761E3-613F-403E-9DC8-5614EE5EE3F3/canvas#Comment), maybe the copy should make that very apparent - "Entering dates is optional." Or is it possible to skip this screen entirely, if it's not required?
+  
 #### Confusing flow: "List other relevant locations" text input
 - **Defect level, if launched:** `a11y-defect-4`
 - **Experience standard:** `02` `07`
@@ -145,7 +148,8 @@ It'll handle the error handling, character count, and accessibility consideratio
       - If the answer is Yes, then show the screen with all the checkboxes
   - If the user served in multiple locations and needs to add them to the text field, perhaps you could programatically add the necessary formatting so that the form can parse it properly (commas, for example)
   - You could add a button that says “Add another location” which dynamically shows another field to enter next location.
-
+- **Question:** What does the user do next, if they select "None of these locations?" Is there a separate user path?
+  
 #### Repeated headings: [condition name]
 - **Issue:** The [condition name] (for example, "Toxic exposure"), is repeated as a header (presumably an `H3`?) across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. Many assistive tech users use headings to navigate, and this wouldn't indicate the content of the page to them.
 - **Recommendations:**
