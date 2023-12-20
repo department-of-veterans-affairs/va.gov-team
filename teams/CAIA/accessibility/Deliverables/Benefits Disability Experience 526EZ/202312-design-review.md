@@ -36,7 +36,7 @@
 - **Recommendation:** Use `vads-color-secondary-dark` (hex: `#b50909`) (from the [VADS color palette](https://design.va.gov/foundation/color-palette)) as your color token.
 - **Result:** This will pass color contrast checks and is consistent with the rest of the design system (see [this example](https://design.va.gov/components/form/checkbox#required-1) of a "Required" label using the correct color).
 
-#### Form inputs without semantic labels
+#### Form inputs without semantic labels: Month/year fields
 - **Defect level, if launched:** `a11y-defect-1`
 - **Experience standard:** `04` `06`
 - **Issue:** Every form input needs a semantic label - this is how assistive technology users are able to figure out what a form field is for. Currently, the month/year fields don't have labels of their own, only the group does - the fields instead rely on placeholder text, which [aren't accessible as a standalone solution](https://www.a11yproject.com/posts/placeholder-input-elements/):<br>
@@ -86,3 +86,53 @@ It'll handle the error handling, character count, and accessibility consideratio
 />
 ```
 - **Result:** The textarea will be much easier to manage on your end, and easier for users to fill out on the front end.
+
+### CONTENT
+#### Preserving focus order: "What is toxic exposure?" placement
+- **Defect level, if launched:** `a11y-defect-2`
+- **Experience standard:** `11` `08`
+- **Issue:** The placement of the "What is toxic exposure?" Additional info component could make things tricky. In its current state, it's hard to know what the `label` is and what's regular paragraph text. The use might expect to be able to click on "When did you serve in [X]?" and be able to access the fields - but the Additional info component stands between them:<br>
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/4a511fcb-62be-40d0-b484-25a836971101)
+- **Recommendation:** You can structure the page using (as mentioned previously) the VADS [month/year component](https://design.va.gov/storybook/?path=/docs/components-va-date--month-year). Make sure that the `legend` for each makes sense out of context - some users will only tab through a page, not reading the non-interactive elements:
+```
+[paragraph]Tell us when you served in Afghanistan. Answer as best as you can. You don’t need to have exact dates.
+
+[additional info component]What if I have….
+
+[month / year component]
+ [legend] When you first served in Afghanistan
+ [fieldset] 
+    [month] [year]
+
+[month / year comnponent]
+ [legend] When you last served in Afghanistan
+ [fieldset] 
+    [month] [year]
+```
+- **Result:** This will be much easier for assistive technology users to navigate through. The field `labels` will be adjacent to their inputs.
+
+#### Confusing flow: "List other relevant locations" text input
+- **Defect level, if launched:** `a11y-defect-4`
+- **Experience standard:** `02` `07`
+- **Issue:** We have questions about this:<br>
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/cdfb82a3-d460-499e-aba4-7f2b68f38f26)
+  - Is "not sure" required here?
+  - If the user selects "none of these locations," are they required to enter into the "list other relevant locations" field?
+  - If the user enters "other relevant locations," how does the following screen populate (the bold text)? ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/0b148217-3eb8-46b0-a007-2b5596e872a5) **This applies across the form - anywhere a user can enter in something specific, and the form programatically takes that response to populate the copy on another screen**
+- **Ideas:** We have a couple of ideas here:
+  - You could remove "Not sure," and use copy to make it clear that the user can leave the checkboxes blank. "Only check off locations you know you served in."
+  - You can use the one thing per page model: First, ask if the person knows where they served. _Then_ ask the location.
+  - If the user served in multiple locations and needs to add them to the text field, perhaps you could programatically add the necessary formatting so that the form can parse it properly (commas, for example)
+
+#### Repeated headings: [condition name]
+- **Issue:** The [condition name] (for example, "Toxic exposure"), is repeated as a header (presumably an `H3`?) across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. Many assistive tech users use headings to navigate, and this wouldn't indicate the content of the page to them.
+- **Recommendations:**
+  - OPTION 1: Change the heading to be more specific to the content of the page.
+      - "Where did you serve with toxic exposure?"
+      - "Toxic exposure: When did you serve?"
+  - OPTION 2: Add another heading
+```
+<h3>Toxic exposure</h3>
+<h4>When you served</h4>
+```
+- **Result:** This will make the content of the page clearer for users of assistive tech.
