@@ -28,12 +28,30 @@ When you’re signed up for CHAMPVA, you’ll get a copy of the CHAMPVA Program 
 [Download fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
 
 ### Am I eligible for health benefits through CHAMPVA?
-Ypu may be eligible for CHAMPVA Heath benefits if youre relationship to the Veteran is listed below. 
-- Spouses or children that don’t qualify for TRICARE
-- Spouses or children of a Veteran who’s been rated permanently and totally disabled for a service-connected disability by a VA regional office
-- Spouses or children of a Veteran who died from a VA-rated service-connected disability
-- Surviving spouses or children of a Veteran who was at the time of death rated permanently and totally disabled from a service-connected disability
-- Surviving spouses or children of a service member who died in the line of duty, not due to misconduct
+You may be eligible for CHAMPVA Health benefits if you or your children don't qualify for TRICARE and you match one of following criteria 
+- Spouses, children or stepchildren of a Veteran who’s been rated permanently and totally disabled for a service-connected disability by a VA regional office
+- Spouses children or stepchildren of a Veteran who died from a VA-rated service-connected disability
+- Surviving spouses children or stepchildren of a Veteran who was at the time of death rated permanently and totally disabled from a service-connected disability
+- Surviving spouses children or stepchildren of a service member who died in the line of duty, not due to misconduct
+- Children or stepchildren between the ages of 18 or 23 that are enrolled in school and whose parent was a Veteran rated permanently and totally disabled for a service-connected disability by a VA regional office
+- Children or stepchildren between the ages of 18 or 23 that are enrolled in school and whose parent was a Veteran who died from a VA-rated service-connected disability
+- Surviving children or stepchildren between the ages of 18 or 23 that are enrolled in school and whose parent was a Veteran who was at the time of death rated permanently and totally disabled from a service-connected disability
+- Surviving children or stepchildren between the ages of 18 or 23 that are enrolled in school and whose parent was a service member who died in the line of duty, not due to misconduct
+- A family member caring for a Veteran with disabilities, and you’re not entitled to care or services through another health plan
+- Spouses or family members caretakers under 65 years old with both Medicare Parts A and B, and otherwise eligible for CHAMPVA
+- Spouses or family members caretakers that turned 65 before June 5, 2001, and you’re entitled to either Medicare Part A or B
+- Surviving spouses of a a Veteran who was at the time of death rated permanently and totally disabled from a service-connected disability under 65 years old with both Medicare Parts A and B, and otherwise eligible for CHAMPVA
+- Spouses or family members caretakers that turned 65 before June 5, 2001, and you’re entitled to either Medicare Part A or B
+
+  Spouses
+  Spouses of a Veteran who’s been rated permanently and totally disabled for a service-connected disability by a VA regional office may be eligible for CHAMPVA Benefits
+
+  Children
+  Stepchildren
+  Surviving Spouses
+  Surviving Children
+  Family Member or caretaker
+  
 - 
 Add a contact number for questions related to this
 
@@ -66,9 +84,19 @@ This document is not required but may help to speed up processing times of your 
 Find out how to request military service records online, by mail, or by fax </details>
 
 <details><summary>Documents related to any dependent children you’re including in your application</summary>
-A copy of each child’s birth certificate or adoption papers
-School certification of enrollment for children ages 18-23.
+- A copy of each child’s birth certificate or adoption papers
+- School certification of enrollment for children ages 18-23.
 Download our fact sheet on school enrollment certification requirements (PDF)</details>
+
+<details><summary>Documents related to new or expectant parents<summary>
+- Once the baby is born, you’ll need to get a Social Security number for your baby by applying at the nearest Social Security Administration office, and
+- You’ll need to set up the baby’s status as a dependent of the Veteran sponsor by contacting your nearest VA regional office.
+
+Medical claims can’t be paid until you sign your baby up under CHAMPVA, so please get them a Social Security number and set their status as a dependent as soon as possible. 
+
+Find a Social Security office near you
+
+Find a VA regional office near you</details>
 
 <details><summary>If you’re a surviving spouse who remarried but is once again single, submit copy of the legal document that ended your marriage.</summary>
 This legal document that provides confirmation of your ended marriage with a deceased Veteran may be a divorce decree, death certificate, or annulment decree.</details>
