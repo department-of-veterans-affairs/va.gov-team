@@ -36,7 +36,7 @@ The low-fi design explorations below will include collecting & evaluating high-l
 
 * **Round 1** (Dec 2021-June 2022; Sep 2023)
   * Low-fi Home screen - Initial Wireframe Explorations [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rB03B) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization-%20Home%20screen%20-%20initial%20explorations.pdf)
-  * Low-fi Home screen Explorations + Audit: First round audit, Finalists for product & feasability review, MVP recommendation [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20exploration%20audit.pdf)
+  * Low-fi Home screen - Audit, Finalists for product & feasability review, Recommended MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rFCBA) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20exploration%20audit.pdf)
     * Narrowed posible approaches using [Success Criteria for Evaluating Personalized Home Screen Approaches](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md#personalized-home-screen-design-process)
 
 * **Round 2** (Oct 2023)
