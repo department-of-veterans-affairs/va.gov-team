@@ -34,8 +34,8 @@
 - [x] Change pronouns from "VA/we'll" to "you'll" regarding what evidence you'll need
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 10.8
-- After edits: 10.8
+- Before edits: 8.9
+- After edits: 8.8
 
 - [ ] Backlog ticket for further review created if needed
 
@@ -43,13 +43,13 @@
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:** 
+- **SME** Robert (Matt) Eakman
+- **Date response received:** 12/6/23
 
 ### Responses
 
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** From SME: "Under "Original claim-the first claim you file for disability benefits" it states: "A current physical or mental disability from a medical professional or layperson (someone who’s not a trained professional)," I'm not certain "layperson" is optimal after discussing a required diagnosis. Layperson is used several times on this page in the same context." (We removed layperson phrase throughout page)
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
   - **Response:** 
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
