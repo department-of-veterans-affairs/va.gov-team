@@ -95,7 +95,7 @@ If yes, how might you explain it to a friend?
 
 This is another definition that is used, identity verification is a process to make sure someone is who they say they are. In a moment, I'll share with you an application that we’ve been working on to help you verify your identity in-person at a local VA medical center.
 
-You’ll be asked to complete certain tasks on screen. As you attempt to complete these tasks, I’m going to ask that you try something called "thinking aloud.” I want you to reflect on what you heard and tell me what you might do next.
+You’ll be asked to complete certain tasks on screen. As you attempt to complete these tasks, I’m going to ask that you try something called "thinking aloud.” I want you to reflect on what you heard and tell me what you might do next. An example might be describing how you like to make toast. You may describe what it's like to make toast.
 
 
 Do you have any questions about the think-aloud style I’ve described?
