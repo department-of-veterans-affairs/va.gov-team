@@ -81,6 +81,8 @@ We will test the following steps:
 * Chapter 4: Review and submit
 * Submission page
 
+![Screenshot from Mural showing diagram of test journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Test-journey-Round-1-Jan-2024.png)
+
 Diagram of test journey, [also available in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702577156510/63987723a59c971b96105858b484e9061622c235?wid=0-1703093103991).
 
 ### Research materials
