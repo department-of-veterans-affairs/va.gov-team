@@ -64,7 +64,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 
 ## Details of Findings 
 
-**Finding 1**
+#### Finding 1
 
 **OCTO product owners have trust in the Authenticated Experience team to scale this feature and had only very high-level thoughts about how notifications might appear on VA.gov.** We were somewhat surprised by the lack of strong opinions about how notifications should look and function on VA.gov. We did get some high-level feedback to consider, but overall, OCTO product owners seem to trust the Authenticated Experience team to determine the best approach.
 
@@ -83,7 +83,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * In the interview with the mobile app leads, Ryan Thurlwell expressed that our team should propose a solution and then just make sure the OCTO product owners are okay with it and indicated that stakeholder research isn't necessary for us to come to a conclusion that will work well.
 
 
-**Finding 2**
+#### Finding 2
 
 **Product owners for VFS teams have already thought about what types of notifications are most important to surface.** We could likely start building a backlog of notification types to support based on what we heard from OCTO product owners in this research study. Most of these notification types are not currently feasible but will be within the next 6 months to 2 years.
 
@@ -110,7 +110,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Dave Conlon brought up the PACT Act as an example where notifications could be automatic and intelligent because we know their service history and can send them a notification that they may be eligible, and then provide subsequent notifications if and when they apply for those benefits.
 
 
-**Finding 3**
+#### Finding 3
 
 **We heard some common themes about challenges to consider with scaling notifications, like giving users some control so notifications don't become noise, and the need for notifications to talk to each other across any interfaces where they appear.** 
 
@@ -145,7 +145,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Chris Johnston said we can build Veteran trust by proactively notifying them about things they may not be aware of, like if there's a change in their dependent status, their disability payments may change (and help them avoid debt).
 
 
-**Finding 4**
+#### Finding 4
 
 **A notification center on VA.gov may need to support messages as well as notifications in the future.** 
 
@@ -158,7 +158,7 @@ We conducted stakeholder interviews via Zoom with OCTO product owners:
 * Chris Johnston mentioned that we don't want to burden the user with having to remember if something was a message or a notification if those things are separate and they want to go back and reference it, so that's a good reason to have them in the same place.
 
 
-**Finding 5**
+#### Finding 5
 
 **There will be special accessibility considerations for scaling notifications on VA.gov.**
 
