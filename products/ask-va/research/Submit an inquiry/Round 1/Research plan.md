@@ -5,14 +5,14 @@ Ask VA Front-End Team
 Last updated by @tygindraux: December 20, 2023
 
 **Jump ahead to:**
-- Background
-- Research goals
-- Methodology
-- Recruitment
-- Timeline
-- Research sessions
-- Team roles
-- Approved by
+- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#background)
+- [Research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#research-goals)
+- [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#methodology)
+- [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#recruitment)
+- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#timeline)
+- [Research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#research-sessions)
+- [Team roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#team-roles)
+- [Approved by](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#approved-by)
 
 ## Background
 
@@ -160,7 +160,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 Pilot participant email: [TBC]
 Date and time of pilot session: [TBC]
 
-### Research sessions
+## Research sessions
 
 - Length of sessions: 1 hour
 - Buffer between sessions: 1 hour
