@@ -14,7 +14,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 ## Edge cases
 
 ### Flags
-There are no flags associated with this feature.
+There are no direct flags associated with this feature. However indirectly, if a user's account is flagged they will be unable to see this section of the profile. [For more details on blocking see the account security FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/frontend_documentation.md#fiduciary-flag--blocked-profile-logic).
 
 ### Validation
 There are no validation use cases for this feature.
