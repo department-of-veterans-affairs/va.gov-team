@@ -44,12 +44,13 @@ How might we provide an online experience where the Veteran can quickly and easi
 #### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
 
 - Data source
-     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - [Google Analytics submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231220&_u.date01=20231221&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22ezr--submission%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart/)
 
+**Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
 | Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Paper Submissions |15,000 |4,000 (25%) | TBD |TBD |
+|Paper Submissions |15,000 (estimated) |4,000 (25%) | TBD |TBD |
 |Online Submissions |NEW |11,000 (75%) | TBD |TBD |
 |Submission Failures |NEW |None | TBD |TBD |
 |Veteran Validation errors |NEW |None | TBD |TBD |
