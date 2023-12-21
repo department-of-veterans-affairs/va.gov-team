@@ -1,5 +1,13 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Dec 21' 2023       
+### Participants: Rakshinda, Austin, Emily, Shannon 
+### Topics Covered:
+- Toxic Exposure
+  - Concern around not offering TE for Claims for Increase in the MVP
+-    
+
+
 ### Date: Dec 14' 2023       
 ### Participants: Rakshinda, Austin, Emily, Shannon 
 ### Topics Covered:
