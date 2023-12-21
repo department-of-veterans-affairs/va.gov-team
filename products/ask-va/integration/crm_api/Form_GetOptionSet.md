@@ -13,17 +13,17 @@
 
 **Allowed Values:**
 
-1. inquiryabout
-2. inquirysource
-3. inquirytype
-4. levelofauthentication
-5. suffix
-6. veteranrelationship
-7. branchofservice
-8. country
-9. dependentrelationship
-10. getintouch
-11. province
+1. iris_inquiryabout
+2. iris_inquirysource
+3. iris_inquirytype
+4. iris_levelofauthentication
+5. iris_suffix
+6. iris_veteranrelationship
+7. iris_branchofservice
+8. iris_country
+9. iris_dependentrelationship
+10. iris_getintouch
+11. iris_province
 
 **Headers**:
 
@@ -34,7 +34,7 @@
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|The logged in user's ICN|
 
-## Response [NEEDS JOE Updates]
+## Response ~[NEEDS JOE Updates]~
 
 <table>
 <tr>
@@ -77,7 +77,10 @@
 
 ## Notes [NEEDS CRM REVIEW]
 
-None.
-(JOE: Verify that this matches what JD sent in Teams)
-(JOE: Include the "iris_" prefix for names, but not automatically)
-JD: Have a message id, to help track specific transactions -- include in all responses from all endpoints? if we include one, it will be used, otherwise it will be generated for us and passed back. 
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a parameter in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+
+## Action Items
+
+- [x] JOE: Include the "iris_" prefix for names, but not automatically
+- [ ] JOE: Verify that this matches what JD sent in Teams
+- [ ] JOE: Add `message_id` to all responses?
