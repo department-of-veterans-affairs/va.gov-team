@@ -4,12 +4,13 @@
 
 **Method**: GET
 
-**Path**: /optionset?{name}
+**Path**: /optionset?{name}&[message_id]
 
 **Parameters**:
 | Name | Type | Description |
 |---|---|---|
 |name|string|the key of the  optionset to retrieve|
+|message_id|string|an optional guid for correlating events for troubleshooting|
 
 **Allowed Values:**
 
@@ -48,7 +49,8 @@
 { 
     "status": { 
         "code": 200, 
-        "message": "OK", 
+        "message": "OK",
+        "message_id": "f3acbf6e-8d55-4d99-895c-86e4c41f8aa2", 
         "data": [
             {
                 "id": 1,
