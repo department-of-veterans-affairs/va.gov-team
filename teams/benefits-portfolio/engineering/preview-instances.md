@@ -2,11 +2,14 @@
 
 A preview instance is a standalone deployment linked to an open Pull Request in the vets-api or vets-website repositories. 
 
-When a PR is created a preview instance is automatically created. If you open a PR against vets-website, the deployment will use your website code + staging vets-api. If your PR is against vets-api then staging vets-website will be used. I am unaware of any mechanism to use a preview instance for both at this time.
+To leverage a preview instance, you must have SOCKS enabled on your machine 
 
-Documentation for this feature can be found in the Platform Docs
+SOCKS Documentation: https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy
 
-https://depo-platform-documentation.scrollhelp.site/developer-docs/review-instances
+
+When a PR is created a preview instance is automatically created. If you open a PR against vets-website, the deployment will use your website code + staging vets-api. If your PR is against vets-api then staging vets-website will be used. I am unaware of any mechanism to use a preview instance for both at this time. \
+
+Preview Instance Documentation: https://depo-platform-documentation.scrollhelp.site/developer-docs/review-instances
 
 ---
 
