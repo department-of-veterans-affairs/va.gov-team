@@ -6,8 +6,19 @@
 - Toxic Exposure
   - Concern around not offering TE for Claims for Increase in the MVP
 - Polling Block'o'palooza
-
-
+  - Polling solution for each pathway for document upload
+  - batch process for 4.2 needs to be done before migration
+  - Document pre-reqs for submit migration - team 2
+  - Block submit canary launch for a polling solution and success response with VBMS ID
+  - Submit, Backup submission , Document Upload, ancillary forms
+    -  What's the time period for polling and receiving actual request response
+    -  Simple Form has already implemented this for Benefits Intake - they handle a package vs 526 claims, documents and forms
+  - Pair Team 1/2 for this development
+    - Start a discovery ticket on polling and display solution
+    - Sam is already involved
+- EVSS sends success, retriable and non-retriable error
+- Austin creating a summary document
+       
 ### Date: Dec 14' 2023       
 ### Participants: Rakshinda, Austin, Emily, Shannon 
 ### Topics Covered:
