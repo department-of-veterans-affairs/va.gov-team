@@ -791,6 +791,47 @@ Success alert:
     Header: We’ve received your Board Appeal request
     Body: After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
+#### Request a Board Appeal (Form 10182)
+for Veteran Name 
+
+#### Date you filed your claim
+
+Month Day, Year
+
+#### You’ve selected these issues for review
+
+• My Issue
+
+• Another Issue
+
+Button: **Print this confirmation**
+
+### After you request a decision review
+
+When we’ve completed your review, we will physically mail you a decision packet that includes details about our decision. Learn more about what happens after you request a review.
+
+### What should I do while I wait?
+
+You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
+
+If you requested an appeal and haven’t heard back from us yet, please don’t request another appeal. Call us at 800-827-1000.
+
+Button: [Check the status of your appeal](#)
+
+**Note:**  Please allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
+
+---
+## PROPOSED Copy Changes
+
+# Request a Board Appeal
+
+VA Form 10182 (Notice of Disagreement)
+
+Success alert:
+
+    Header: We’ve received your Board Appeal request
+    Body: After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
+
 ### Your information for this claim
 
 #### Your name
