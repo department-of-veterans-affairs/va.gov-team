@@ -5,7 +5,7 @@
 ### Topics Covered:
 - Toxic Exposure
   - Concern around not offering TE for Claims for Increase in the MVP
--    
+- Polling Block'o'palooza
 
 
 ### Date: Dec 14' 2023       
