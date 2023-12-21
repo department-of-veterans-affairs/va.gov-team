@@ -70,6 +70,8 @@ VSOs serve Veterans, and their activities may encompass a range of services, suc
 
 Examples of VSOs include the American Legion, County Veteran Service Offices, Disabled American Veterans, and Veterans of Foreign Wars.
 
+[Veteran Service Organization information from Congressional Research Service, 11/1/2022, VSO Frequently Asked Questions.](https://crsreports.congress.gov/product/pdf/R/R46412#:~:text=A%20VSO%20is%20%E2%80%9Ccongressionally%20chartered,Association%20of%20America%20in%202009.)
+
 #### Veteran Service Officers
 
 Can help Veterans gather evidence and file their claims, decision reviews, and appeals. They can also communicate with VA about the case on the Veterans behalf.
