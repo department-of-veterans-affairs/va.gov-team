@@ -105,6 +105,12 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Is there anything that is particularly confusing about what you see here?
 - [Focus on the graphic] What do you think this is trying to communicate?
 - [Focus on the "May repeat" message] What do you think this is trying to communicate?
+
+[Have the Participant click into each of the six steps. Ask this question for each step.]
+
+- Describe in your own words what is happening at this step of the process.
+
+[Overall questions]
 - Is there any information you're not seeing here that you'd like to see?
 - On a scale of 1-5 how would you rate this page, 1 being least useful and 5 being most useful?
 - On a scale of 1-5, how would you rate the level of detail provided by this page?
