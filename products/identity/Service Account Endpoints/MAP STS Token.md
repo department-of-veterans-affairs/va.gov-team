@@ -34,7 +34,7 @@ This endpoint requires user information contained within the `user_attributes` c
 ```
 POST staging-api.va.gov/v0/map_services/chatbot/token
 Headers:
-  Authorization: <service account access token>
+  Authorization: Bearer <service account access token>
 ```
 
 ## Sample response
