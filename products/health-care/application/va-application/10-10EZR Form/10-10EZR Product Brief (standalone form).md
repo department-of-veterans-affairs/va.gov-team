@@ -45,7 +45,7 @@ How might we provide an online experience where the Veteran can quickly and easi
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard - TBD (NEW)
+     - [Google Analytics submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231220&_u.date01=20231221&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22ezr--submission%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart/)
 
 | Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
@@ -59,7 +59,7 @@ How might we provide an online experience where the Veteran can quickly and easi
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard - TBD (NEW)
+     - [Google Analytics PDF Downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231217&_u.date01=20231221&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart&_r.drilldown=analytics.eventAction:PDF%20Downloaded%20-%20Download%20VA%20Form%2010-10EZR/)
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
