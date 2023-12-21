@@ -19,8 +19,8 @@
 - Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 8.9
+- After edits: 8.8
 
 - [ ] Backlog ticket for further review created if needed
 
