@@ -28,8 +28,8 @@
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:** 
+- **SME** Robert (Matt) Eakman
+- **Date response received:** 12/6/23
 
 ### Responses
 
