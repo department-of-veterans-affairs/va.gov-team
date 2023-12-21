@@ -46,11 +46,33 @@ They can legally represent a Veteran, service member, dependent, or survivor bef
 
 Accredited representatives include Veteran Service Officers, attorneys, and claims agents.
 
-### 3. [Veteran Service Organization (VSO)](https://www.benefits.va.gov/vso/)
+### 3. [Veteran Service Organization / Veteran Service Officers (VSO)](https://www.benefits.va.gov/vso/)
 
-Can help Veterans gather evidence and file their claims, decision reviews, and appeals. They can also communicate with VA about the case on the Veterans behalf.
+Veteran Service Officers work for Veteran Service Organizations and share the acryonym of VSO.
+
+#### [Veteran Service Organizations](https://crsreports.congress.gov/product/pdf/R/R46412#:~:text=A%20VSO%20is%20%E2%80%9Ccongressionally%20chartered,Association%20of%20America%20in%202009.)
+
+Veterans Service Organizations (VSOs) are organizations that aid and serve Veterans, servicemembers, dependents, and survivors.
+
+VSOs may fall into one or more of the following categories:
+
+- congressionally chartered organizations;
+- organizations recognized by VA;
+- national organizations;
+- state, county, or tribal governmental organizations;
+- regional or local organizations; or
+- nonprofit organizations.
+
+VSOs serve Veterans, and their activities may encompass a range of services, such as
+- providing programming for Veterans in their communities, such as job fairs;
+- organizing events to raise money for a subset of Veterans, such as housing for homeless Veterans; or
+- providing access to accredited Veterans service representatives who can help Veterans when they apply for VA benefits.
 
 Examples of VSOs include the American Legion, County Veteran Service Offices, Disabled American Veterans, and Veterans of Foreign Wars.
+
+#### Veteran Service Officers
+
+Can help Veterans gather evidence and file their claims, decision reviews, and appeals. They can also communicate with VA about the case on the Veterans behalf.
 
 VSO representatives have completed training and passed tests about VA claims and benefits. They provide services to Veterans and their families at no cost.
 
