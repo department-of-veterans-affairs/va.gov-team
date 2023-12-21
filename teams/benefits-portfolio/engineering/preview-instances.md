@@ -7,7 +7,7 @@ To leverage a preview instance, you must have SOCKS enabled on your machine
 SOCKS Documentation: https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy
 
 
-When a PR is created a preview instance is automatically created. If you open a PR against vets-website, the deployment will use your website code + staging vets-api. If your PR is against vets-api then staging vets-website will be used. I am unaware of any mechanism to use a preview instance for both at this time. \
+When a PR is created a preview instance is automatically created. If you open a PR against vets-website, the deployment will use your website code + staging vets-api. If your PR is against vets-api then staging vets-website will be used. I am unaware of any mechanism to use a preview instance for both at this time. 
 
 Preview Instance Documentation: https://depo-platform-documentation.scrollhelp.site/developer-docs/review-instances
 
@@ -47,11 +47,11 @@ There will be a line in the log that displays your http and ssh urls
 
 
 
-Using the ssh in a terminal will allow you to view instance logs for both website and API, as well as run the rails terminal. See the documentation for examples. [https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes)  \
+Using the ssh in a terminal will allow you to view instance logs for both website and API, as well as run the rails terminal. See the documentation for examples. [https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes)  
 
 
 
-### Some useful SSH commands \
+### Some useful SSH commands 
 
 
 Tail the website logs to determine if when your deployment is done \
@@ -63,7 +63,7 @@ Tail the vets-api logs \
 Access the vets-api rails console \
 ` cd ~/vets-api; docker-compose -f docker-compose.review.yml exec vets-api bundle exec rails c`
 
-### Working with vets-apli \
+### Working with vets-api 
 vets-api is deployed using a similar URL as the website
 * Feature Flipper URL
   * `http://<instance>-api.review.vetsgov-internal/flipper/features`
