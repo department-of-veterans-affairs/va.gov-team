@@ -5,6 +5,7 @@
 ### Topics Covered:
 - Toxic Exposure
   - Concern around not offering TE for Claims for Increase in the MVP
+    
 - Polling Block'o'palooza
   - Polling solution for each pathway for document upload
   - batch process for 4.2 needs to be done before migration
