@@ -10,7 +10,16 @@ Created: 2023-12-21
 - Apps have some control over what the `DowntimeNotification` would hide during downtime. An app like the MHV Landing Page could show a notification without hiding any links if desired.
 - "Automated" downtime notifications does not appear to be covered by the existing Downtime Notification implementation.
 
+## Current priorities
+
+1. Have all MHV on VA.gov applications present a downtime notification based on the "general"/"all" service defined in PagerDuty. The MHV application teams have a PR for this: [MHV-52770 downtime notifications](https://github.com/department-of-veterans-affairs/vets-website/pull/27233)
+1. Get additional PagerDuty "services" created for individual MHV applications, so we can set a downtime notification around particular MHV applications. The `DowntimeNotification` supports checking multiple "external services," so once the PagerDuty services are created, and are defined in [devops code](https://github.com/department-of-veterans-affairs/devops/blob/67c1711a18486e0425bfb4795bb375bbe9fea31a/ansible/deployment/config/vets-api/prod-settings.local.yml.j2#L320) and [externalServices.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/monitoring/DowntimeNotification/config/externalServices.js), teams can update their applications to also respect application-specific downtime.
+
 ## Potential enhancements
+
+## Refactor Downtime notification component
+
+A [draft PR to refactor the DowntimeNotification component](https://github.com/department-of-veterans-affairs/vets-website/pull/27215) was started while investigating the functionality of the current component.
 
 ### Automated notifications
 
