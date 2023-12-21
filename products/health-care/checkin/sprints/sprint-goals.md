@@ -162,6 +162,7 @@ ________________________________________________________________________________
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - ✔️ 🟦🟩 [[FE] [BE] Design Feature Implementation and Create All Task Tickets](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?epics=Z2lkOi8vcmFwdG9yL0VwaWMvMTA4MjIyNg)
+        - 🟦 [[BE] - Figure out which facilities endpoint to use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72147)
         - ✔️ 🟩 [[FE] - Add travel review page to unified](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71432)
         - 🟩 [[FE] - Unified e2e tests - day-of - group 4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70322)
         - 🟩 [[FE] - Unified demographics fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72443)
