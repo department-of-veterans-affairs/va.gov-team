@@ -147,7 +147,7 @@ flowchart TB
 ### How
 * A VA.gov profile is generated for every verified user.
 * Anybody with an ICN in MPI who has provided contact information is eligible to be in VA Profile
-    * EXCEPTION: excludes VA employees unless they are veterans - the authoritative system for VA employees are HR Smarts(maybe)
+    * EXCEPTION: excludes VA employees unless they are veterans - the authoritative system for VA employees are HR Smarts
 
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)
