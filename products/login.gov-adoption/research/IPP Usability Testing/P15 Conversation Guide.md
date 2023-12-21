@@ -6,7 +6,7 @@ Thanks for joining us today! My name is [NAME], and I will be guiding you throug
 
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to that…
 
-Today we're going to talk about verifying your identity with Login.gov and observe how you interact with a program that we’re designing to help you sign up for in-person identity proofing at a local VA medical center.
+Today we're going to talk about verifying your identity with Login.gov and how you would interact with a program that we’re designing to help you sign up for in-person identity proofing at a local VA medical center.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -52,7 +52,7 @@ If assistive tech is being used
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 
-- 
+
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 
   
@@ -63,7 +63,7 @@ If assistive tech is being used
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant, eg/ Hi, I’m ____ and I do research for VA.gov)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
     
-- **You'll be interacting with a prototype today.** This is a demo application we created that will mimic the experience of being on Login.gov. Some areas of the prototype will be clickable, and some will not. Since it's not a real application, none of your actions will affect your VA information or benefits. This application is adapted for screenreaders, however, you may notice that this experience will differ from what you are used to on a real website. These differences are largely due to the platform we used to develop the prorotype. However, we welcome you to point out these differences so that we improve the experience in the future.
+- **You'll be interacting with a prototype today.** This is a demo application we created that will mimic the experience of being on Login.gov. Some areas of the prototype will be clickable, and some will not. Since it's not a real application, none of your actions will affect your VA information or benefits. This application is adapted for screenreaders, however, you may notice that this experience will differ from what you are used to on a real website. These differences are largely due to the platform we used to develop the prorotype. However, we welcome you to point out these differences so that we improve the experience in the future. I will be controlling our prototype today and acting as your hands. You may tell me where you would like to go and you may ask me to repeat information at any time.
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately, this is like a fancy way of taking notes. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and rather than listing your name, we will give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
