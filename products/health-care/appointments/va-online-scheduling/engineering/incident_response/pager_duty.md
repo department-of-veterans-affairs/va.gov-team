@@ -29,8 +29,8 @@ To enable this message:
     1. For Staging open https://dsva.pagerduty.com/service-directory/PK8LY9N
     2. For Production open https://dsva.pagerduty.com/service-directory/PFDNA11
 2. Click Add a maintenance window at the bottom
-3. Make sure the "Which services are affected" box says
-    1."Staging: VAOS" for Staging
+3. Make sure the "Which services are affected" box says:
+    1. "Staging: VAOS" for Staging
     2. "VAOS" for Production
 5. Choose your desired time frame
 6. Click Create button
