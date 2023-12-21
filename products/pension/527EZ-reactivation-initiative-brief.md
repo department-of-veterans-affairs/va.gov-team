@@ -3,6 +3,8 @@
 * The digital pension 527EZ form was recently found to be several versions behind the paper form. The online form was is missing fields that are now required to process pension claims. Any user who submitted a digital 527 claim received a development letter asking them to resubmit their claim using the paper form.
 
 * Due to this, the digital pension benefits form was officially deactivated from VA.gov on Wednesday, November 8, 2023. At the moment, any visitor who goes to VA.gov for Pension benefits information will see copy informing them that the online form is temporarily deactivated, and it explains other options to submit an appication for Pension benefits in the meantime (mail, QuickSubmit, or in-person).
+
+* The Pension Benefits team is working to redesign and build a minimum viable product version of the online Pension form that will make the digital form processable for the business and contribute to an improved user experience for veterans.
 ---
 
 ## Outcome Summary
