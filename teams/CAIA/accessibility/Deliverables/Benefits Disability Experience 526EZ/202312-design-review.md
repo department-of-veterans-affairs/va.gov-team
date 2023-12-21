@@ -60,7 +60,7 @@
 - **Defect level, if launched:** `a11y-defect-4`
 - **Experience standard:** `04` `07`
 - **Issue:** There are two versions of the "Summary of TE Copy" screen - a [heading/list view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/9296F74D-6473-4C1F-8407-EAF63AF051E1), and a [table view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/5A997037-3409-4151-A92A-0E445EF0974D). The VADS's [table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.
-- **Recommendation:** Use your [heading/list view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/9296F74D-6473-4C1F-8407-EAF63AF051E1), or a description list, not the table view.
+- **Recommendation:** Use your [heading/list view](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/v/wJaQbw/a/uuid/9296F74D-6473-4C1F-8407-EAF63AF051E1).
 - **Result:** Assistive tech users should have an easier time understanding the summary page, and you'll follow VADS guidelines.
 
 #### Use the VADS color palette: buttons, progress bar, checkboxes
