@@ -36,8 +36,9 @@ With this research we hope to learn how well our designs solve the comprehension
 
 ### Hypotheses
 - Veterans will find value in the information provided in the Overview tab.
-- Veterans will have a clear understanding of what is happening at each step of the process.
+- Veterans will have a clear understanding of what happens at each step of the process.
 - Veterans will understand that it is normal for claims to go back and forth between steps.
+- Veterans will find that the new timeline provides a detailed picture of what is happening with a claim.
 
 ## Methodology	
 Semi-structured interviews
