@@ -28,7 +28,7 @@ This research supports the following OCTO FY24 priority:
 
 ### Veteran journey
 
-Ask VA can support Veterans, caregivers and other submitters at all stages of the Veteran journey, from starting up to aging.
+Ask VA can support Veterans, their family members, and other submitters at all stages of the Veteran journey, from starting up to aging.
 
 ## Research goals
 
