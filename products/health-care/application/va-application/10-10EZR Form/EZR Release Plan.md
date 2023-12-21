@@ -73,27 +73,31 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
 
 - Data source
-     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard - TBD (NEW)
+     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - [Google Analytics submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231220&_u.date01=20231221&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22ezr--submission%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart/)
 
+**Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
 | Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Paper Submissions |15,000 |4,000 (25%) | TBD |TBD |
+|Paper Submissions |15,000 (estimated) |4,000 (25%) | TBD |TBD |
 |Online Submissions |NEW |11,000 (75%) | TBD |TBD |
 |Submission Failures |NEW |None | TBD |TBD |
 |Veteran Validation errors |NEW |None | TBD |TBD |
+
 
 #### **Key Result #2:** Capture 75% of form submissions in a single session
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard
+     - [Google Analytics PDF Downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231217&_u.date01=20231221&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart&_r.drilldown=analytics.eventAction:PDF%20Downloaded%20-%20Download%20VA%20Form%2010-10EZR/)
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Single-session submissions |NEW |75% of submitted forms (8,250) | TBD |TBD |
+|Single-session submissions |NEW |75% of submitted forms (8,250)| TBD |TBD |
+
 
 #### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
+
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
 |EZR PDF Downloads |avg 10,400 monthly |2,600 monthly (25%) | TBD |TBD |
@@ -102,6 +106,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
      - Product Manager - Alex Seelig, Heather Justice
