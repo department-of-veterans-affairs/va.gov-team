@@ -37,7 +37,10 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 1. 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address before signing in.
 
 ### Footer
-1. 
+1. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
+1. **Four of 10 participants described the difference between the footer links with a blue *vs.* black background** as VA/you vs. legal/federal.
+1. One participant plus one pilot participant said that the footer was too large. A different participant commented on the lack of organization/categories in the black section of footer links.
+1. Another participant didn't scroll all the way to the bottom of the page but only up to the USA logo, which looked like the bottom of the page to him. He said that he usually doesn't use footer links on web pages because it's just information about the company.
 
 ### How recognize as an official government website
 1. Most (7 of 10) participants said that they would look at the URL to see if it's *.gov* or *VA.gov*.
@@ -55,7 +58,11 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
      > *"Just unnecessary real estate being used there at that point" (p8).* 
 
 
-1. Only **one person loved the colored USA logo**, and this was a Veteran who had worked professionally on branding and logos. He 
+1. Only **one person loved the colored USA logo**, and this was a Veteran who had worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
+> *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored it, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it" (p2).*
+
+> *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (p10).*
+
 1. **Two participants liked the black/white USA logo** in the footer better than the colored one in the header because it stands out, looks good, and seems more official. 
 > *"It just seems a little bit more boring and professional to me" (p8).*
 
