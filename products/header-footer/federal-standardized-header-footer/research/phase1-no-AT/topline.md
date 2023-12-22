@@ -22,17 +22,18 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 
 ## Preliminary Findings
 ### Usability Successes
-1. 
+1. One participant noticed the different fonts between the header/footer and the page content. They said that they preferred the font in the header bar and the US Department of Veterans Affairs because of its sharp/clean edges (vs. the blurry/rounded letters in the life insurance content).
+1. Both pilot participants (also Veterans) said unprompted that they liked the font size. One of them said, *"I didn't have to get out my reading glasses to read anything" (pilot 1).*
 
 ### How recognize as an official government website
 1. Most participants said that they would look at the URL to see if it's .gov or VA.gov
 
 ### Authentication (task: change mailing address with VA)
-1. After signing in using the prototype, 3 of 10 participants didn't recognize that they were actually signed in because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't easy for everyone to notice.
-1. 3 of 5 phone users easily found the Auth menu (under "Cameron" in the mobile header menu), but the other 2 phone users had difficulty. We might want to consider moving the Auth menu out of the mobile header menu.
-1. 3 of 5 desktop users readily opened the Auth menu (by clicking on "Cameron"), but the other 2 had difficulty. Results might have been different if the menu had the participant's real name.
-1. After opening the Auth menu, all participants readily clicked on the Profile menu. However, 2 participants then wondered aloud if they should try My VA instead (didn't work in the prototype).
-1. 3 of 10 participants went to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address, and then signed in afterwards.
+1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't easy for everyone to notice.
+1. **Two of 5 *phone* users had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 phone users found it easily.  We might want to consider moving the Auth menu out of the mobile header menu.
+1. **Two of 5 *desktop* users had difficulty finding the Auth menu** (by clicking on "Cameron"), but the other 3 found it easily. Results might have been different if the menu had shown the participant's real name.
+1. **After opening the Auth menu, all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try My VA instead (didn't work in the prototype).
+1. 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address before signing in.
 
 ### Logos 
 1. no VA OK
