@@ -74,7 +74,7 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 ### Updates to AVA CRM Functionality
 **(15) Inquiry Routing Update**
 - ‘Veterans Affairs-Debt’ inquiries submitted by a SCO on behalf of a Veteran, are now routed to the ‘Debt Management Center School Debt’ queue.
-> Impact: Update routing queue in our label spreadsheet.
+> Impact: This is what we already have documented in our [label spreadsheet](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=558740714), so it appears that there's no change to our documentation needed.
 
 **(16) Inquiry Routing Update**
 - ‘VA Property Management - Homes for Sale/VA Release Estate Owned Properties’ inquiries are now routed to the VBA-LGY PMOU queue.
