@@ -1383,7 +1383,7 @@ Majority synthesis done post-its
 #### Week of November 6, 2017: Discharge Upgrade Wizard
 *Kudos Team, research lead: Natalie Moore*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
 
 ### October 2017
 

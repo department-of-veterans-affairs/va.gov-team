@@ -174,7 +174,7 @@ Initial GitHub Issue: https://github.com/department-of-veterans-affairs/vets.gov
 Page delivers customized content based on reason Veteran wants to upgrade discharge, date of discharge, branch of service, etc., which is collected via a short wizard (4-6 questions). No PII collected; no data stored; no backend. The wizard would be a series of questions that would conditionally show content (e.g., recommended forms/steps for updating discharge records, caveats, advice, background information) to the Veteran based on relevance.  Page also includes a few paragraphs of accordion content. 
 
 ## Current Status
-- Current working doc on the content is [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/dw-content.md)
+- Current working doc on the content is [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/dw-content.md)
 
 ## How to Access and Test
 - Link: https://www.va.gov/discharge-upgrade-instructions/
