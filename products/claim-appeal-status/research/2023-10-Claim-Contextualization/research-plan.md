@@ -1,6 +1,6 @@
 # Research Plan: Claim Contextualization
 
-Benefits Management Tools · October 2023
+Benefits Management Tools · December 2023
 
 ## Background
 In [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-findings.md#secondary-findings), we have found that Veterans find limited value in the claim process overview in its current form. 
@@ -67,6 +67,8 @@ The intended audiences is Veterans who at some point filed a disability compensa
 20 total participants:
 
 - 20 mobile users
+- 10 Veterans who filed a disability compensation claim in the past 1 month
+- 10 Veterans who had a disability compensation claim recently closed, and that claim took longer than the average 125 days to be processed
 - Race: 5 Black Veterans, 5 Hispanic Veterans, 10 Veterans of any other race
 - 10 women Veterans
 
