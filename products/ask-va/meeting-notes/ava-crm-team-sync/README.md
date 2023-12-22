@@ -1,3 +1,162 @@
+## Meeting Notes for CRM Sync on 12/21/2023
+
+OptionSet wrapped; Profile pushed
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Eddie, Khoa, Hemesh, Becky,
+* **AVA CRM Team:** Shelby, Kyle, Tina, Chris, JD, 
+
+### Key Takeaways:
+
+1. New agenda flow announced: non-tech up front, tech at end, so folks can drop off sooner if desired
+2. Wrapped up discussion on `GET /optionset?{name}` endpoint (12/21)
+3. Pushed `/profile?{id}` endpoint to (01/02)
+  
+### Action Items:
+
+- [ ] Joe: Integrate JD's Teams chat notes into the `/optionset?{name}` docs
+- [ ] Joe: verify that `message_id` is common to all API endpoints; document
+- [ ] Joe: Tweak Tuesday Sync Team Names in Invite (VA and gmail)
+    * Blocked, waiting on naming decision that better represents our teams' roles
+- [ ] Joe: Send links to:
+     - [ ] Flow Diagrams
+     - [ ] Endpoints Status and Specs
+     - [ ] Sync Meeting Notes
+     - [ ] Design screenshots of the new UX
+
+---
+
+## Meeting Notes for CRM Sync on 12/19/2023
+
+Intros, Intake, and Updates
+
+### Attendees:
+
+* **AVA FE Team:** Becky, Holly, Hemesh, Jacob, Khoa, Joe, 
+* **AVA CRM Team:** Joanne, Shelby, Arisa, Kyle, Chris, 
+
+### Key Takeaways:
+
+1. Introductions from FE and (our new) CRM members
+2. Becky reviewed VA Profile intake form with team
+3. Quick review of `/optionset?{name}` endpoint and updates to status doc
+  
+### Action Items:
+
+- [X] Joe: Update comments/dates in status doc
+- [X] Jacob: Capture profile flow visually
+- [ ] Joe: Send links to:
+     - [ ] Flow Diagrams
+     - [ ] Endpoints Status and Specs
+     - [ ] Sync Meeting Notes
+     - [ ] Design screenshots of the new UX
+
+---
+
+## Meeting Notes for CRM Sync on 12/14/2023
+
+Review of `/profile` and `/optionset` endpoints
+
+### Attendees:
+
+* **AVA FE Team:** 
+* **AVA CRM Team:** 
+
+### Key Takeaways:
+
+1. Reviewed `/optionset?{name}` endpoint, incl. list of valid names
+2. JD mentioned the `message_id` correlation id for messages; Joe to integrate
+  
+### Action Items:
+
+- [ ] Jacob: Capture profile flow, visually
+- [ ] Joe: Update `/optionset?{name}` status and docs, based on review
+
+---
+
+## Meeting Notes for CRM Sync on 12/12/2023
+
+Profile(s) sourcing; Facility codes; Attachments; The Flow
+
+### Attendees:
+
+* **AVA FE Team:** 
+* **AVA CRM Team:** 
+
+### Key Takeaways:
+
+1. Discussed AVA Profile & VA Profile Data Sourcing for Business and Personal Inquiries
+	1. Pull rom VA Profile, gaps from AVA Profile
+	2. Profile data travels with inquiry payload
+	3. AVA CRM will need to decide when/if to update AVA Profile fields
+	4. 
+2. Discussed Facility Codes
+	1. Multiple medical facilities may be associated with a submitter (ex: visit one facility today, another in 2 weeks)
+	2. There is a "home" medical facility that the agents reference
+	3. Medical facility not traditionally pre-filled, but school facility is
+3. Discussed possibility of using a separate tool for Educational uploads
+	1. Not on Ed team's radar now
+	2. Uploads can trigger questions in normal flow, so may be beneficial to have in same system (AVA)
+	3. To see how big an impact this would be, discussed analytics
+	4. Data is there (in App Insights), but will take work to mine that data
+4. Natalie proposed separate meeting for Thursday to review visual flow
+  
+### Action Items:
+
+- [ ] AVA FE: Capture Profile(s) flow visually; Present Thursday
+
+---
+
+## Meeting Notes for CRM Sync on 12/07/2023
+
+Lookups, AVA CRM LOE, Country Corrections
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Jacob, Khoa, Natalie, Becky
+* **AVA CRM Team:** Chris, Shelby,
+
+### Key Takeaways:
+
+1. Captured in the Action Items, below
+  
+### Action Items:
+
+- [ ] AVA FE: Verify list of states from VA side includes: states, provinces, military bases, ...
+- [ ] Shelby to share email update on LOE with Ruchi, Holly, Joe, Natalie
+	- Relevant tickets are #375, along with #397, #372, #376
+- [ ] Look into suggesting corrections to the VA list of countries as some are incorrect
+	- [ ] Chris to research the final changes . decisions to be made, hand off to FE team for follow up
+	- [ ] FE to track down decision makers for VA data, submit requests
+
+---
+
+## Meeting Notes for CRM Sync on 12/05/2023
+
+CRM Estimated LOE, Review Instances, Listing and Referencing Countries
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Holly, Ruchi
+* **AVA CRM Team:** Chris, JD, Tina, Shelby, Jaime, Tim Robinson, Wayne Eberly (New), Wandy Espana (New), Oroni George (New), Maria King (New), Catherine Morrison (New),
+
+### Key Takeaways:
+
+1. Shelby updated Natalie with the estimated LOE documentation
+2. Khoa shared how we're using Review Instance servers for faster code iteration
+3. Favor VA country list, patch missing with CRM's list, values for VA will be mapped to CRM values BEFORE submitting the inquiry
+  
+### Action Items:
+
+- [ ] Shelby to share email update on LOE with Ruchi, Holly, Joe, Natalie
+	- Relevant tickets are #375, along with #397, #372, #376
+- [ ] Look into suggesting corrections to the VA list of countries as some are incorrect
+	- [ ] Chris to research the final changes . decisions to be made, hand off to FE team for follow up
+	- [ ] FE to track down decision makers for VA data, submit requests
+
+---
+
 ## Meeting Notes for CRM Sync on 11/30/2023
 
 Worked through Get Topics and Submit Inquiry
