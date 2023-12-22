@@ -78,13 +78,13 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 
 **(16) Inquiry Routing Update**
 - ‘VA Property Management - Homes for Sale/VA Release Estate Owned Properties’ inquiries are now routed to the VBA-LGY PMOU queue.
-> Impact: Update routing queue in our label spreadsheet.
+> Impact: We have updated the routing queue in our [label spreadsheet](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=558740714) to match this change.
 
 **(17) Topic Routing Update**
 - ‘Appeal located at a regional office’ topic is now renamed as ‘Supplemental Claim’
 - ‘Appeal located specifically at BVA Appeal (DC)’ topic is renamed to ‘Appeal at Board of Veterans Appeal (DC)’.
 - A new topic, ‘Higher-Level Review’ is now available and routes to ‘VBA-ART’
-> Impact: Update topic names, add new topic and check routing is still correct in our label spreadsheet.
+> Impact: We have updated the current label names in our [label spreadsheet](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=558740714) to match these changes. However, we will keep our recommendations as-is, which will include, removing the 'Higher-Level Review' (new) topic and renamed the 'Supplemental Claim' topic to 'Higher-Level Reviews or Supplemental Claims'.
 
 **(18) Inquiry ReRouting Update**
 - We resolved a bug that was sending duplicated new inquiry confirmation emails when inquiries were re-routed. Submitters will no longer receive an email when their inquiry is re-routed.
@@ -110,11 +110,11 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 **(23) Portal Update**
 - When submitting an inquiry to the VA Debt category with a topic of Education and the submitter is an SCO, either the ‘School Facility Code’ or ‘State of School’ will be required.
 - Providing the ‘School Facility Code’ or ‘State of School’ will make the other field no longer required.
-> Impact: I need to check that I understand this correctly; but it sounds like only either or is required now, not both. If that’s true, we need to update all design documentation.
+> Impact: We should confirm this with Chris. It appears that only either or is required now, not both. I'm unclear why the change is only for the debt category. Once we confirm the change, we need to update all design documentation. 
 
 **(24) Portal Update**
 - To ensure consistent naming conventions for authorized submitters, we have implemented common naming convention rules for submission.
-> Impact: I’m unclear on what this actually means. We may need to check with Chris.
+> Impact: We should confirm what this means with Chris. I'm unclear.
 
 ### Updates to AVA Reporting
 **(25) Inquiry Details Update**
