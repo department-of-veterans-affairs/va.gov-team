@@ -7,6 +7,6 @@ General info, notes and miscellaneous
 
 ### Systems
 - CP&E: Claims Processing and Eligibility - Eligibility system where records are stored and decisions are made
-- DCDM: Document Control Data Management - 
+- DCDM: Document Control Data Management 
 - CMP: Centralized Mail Portal
 - VES: Veterans enrollment system
