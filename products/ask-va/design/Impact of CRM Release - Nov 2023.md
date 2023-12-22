@@ -49,7 +49,8 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 **(9) Inquiry Action Update**
 - Inquiry Action forms have been updated to match field display forms on the ‘Reroute to GI Bill’ field.
 - The label for ‘Reroute to PATSr’ field has been renamed to ‘Reroute to Medical Facility (PATSR).’
-> Impact: None; but this is an interesting example of the CRM team responding to issues with incorrect routing, by adjusting the label description.
+- This label name was updated because Agents are more familiar with Medical Centers, than the system name of (PATSR).
+> Impact: None; but this is an interesting example of the CRM team responding to feedback from agents and adjusting the label description.
 
 **(10) Inquiry Correspondence Update**
 - We have set the default font and size to New Times Roman size 12 to ensure consistency. We have hidden the ribbon buttons that control font and size.
@@ -88,7 +89,8 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 
 **(18) Inquiry ReRouting Update**
 - We resolved a bug that was sending duplicated new inquiry confirmation emails when inquiries were re-routed. Submitters will no longer receive an email when their inquiry is re-routed.
-> Impact: None; but this is interesting that submitters used to receive an email when their inquiry was re-routed and now they won’t. I’m curious what led to the change, if not user research.
+- This was a bug fix that was only occurring when agents re-routed inquiries to PATSR. We have never notified submitters of re-routes.
+> Impact: None.
 
 **(19) Inquiry ReRouting Update**
 - AVA users can now re-route an inquiry that was re-routed from PATS-R back to PATS-R.
@@ -110,11 +112,13 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 **(23) Portal Update**
 - When submitting an inquiry to the VA Debt category with a topic of Education and the submitter is an SCO, either the ‘School Facility Code’ or ‘State of School’ will be required.
 - Providing the ‘School Facility Code’ or ‘State of School’ will make the other field no longer required.
+- This was a bug fix that was created when we added the SFC (School Facility Code) or State of School options to the debt category in our prior release. The behavior was always meant to mirror the GI Bill SFC/State of School behavior, where only one is required.
 > Impact: We should confirm this with Chris. It appears that only either or is required now, not both. I'm unclear why the change is only for the debt category. Once we confirm the change, we need to update all design documentation. 
 
 **(24) Portal Update**
 - To ensure consistent naming conventions for authorized submitters, we have implemented common naming convention rules for submission.
-> Impact: We should confirm what this means with Chris. I'm unclear.
+- Edit: This shouldn’t have appeared under portal updates. The story enforces capitalization rules within CRM for Submitters’ names. Ex: names submitted in all caps would be changed to first letter capitalization for each name.
+> Impact: None
 
 ### Updates to AVA Reporting
 **(25) Inquiry Details Update**
