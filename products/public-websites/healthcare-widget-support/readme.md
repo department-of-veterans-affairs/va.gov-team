@@ -14,8 +14,8 @@ As of July 2023, each of these 5 products has its own team on the Health Tools c
 | --- | --- | --- | --- | 
 | Refill prescriptions | MHV Medications | Raquel Robertson | Kay Lawyer | 
 | Medical Records | MHV Medical Records | Bryan Riley | Marci McGuire | 
-| Secure Messaging | MHV Secure Messaging | Bryan Riley | Marci McGuire | 
+| View Lab or test result | MHV Medical Records | Bryan Riley | Marci McGuire | 
 | Make an appointment | Appointments Team | Jeff Roof | Kay Lawyer |
-| View Lab or test result | | | |
+| Secure Messaging | MHV Secure Messaging | Bryan Riley | Marci McGuire | 
 
 Epic tracking the idea of transitioning ownership of the React widgets from Public Websites to Health Tools teams: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16547
