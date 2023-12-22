@@ -24,22 +24,40 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 ## Preliminary Findings
 ### Usability Successes
 1. **None of the 10 participants mentioned missing the "VA" logo**, so it seems to be fine to not have that on the page.
-1. None of the 10 participants commented on font size, but both pilot participants (who were Veterans) said unprompted that they **liked the font size**. One of them said, *"I didn't have to get out my reading glasses to read anything, so that was that was a big plus for me" (pilot 1).* 
+1. None of the 10 participants commented on font size, but both pilot participants (who were Veterans) said unprompted that they **liked the font size**. 
+>*"I didn't have to get out my reading glasses to read anything, so that was that was a big plus for me" (pilot 1).* 
 1. One participant noticed the different fonts between the header/footer and the page content. They said that they **preferred the font in the header bar** and the US Department of Veterans Affairs because of its sharp/clean edges (vs. the blurry/rounded letters in the life insurance content).
 
+
+### Authentication (task: change mailing address with VA)
+1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't easy for everyone to notice.
+1. ***Two of 5 phone* users had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 found it easily.  We might want to consider moving the Auth menu out of the mobile header menu.
+1. ***Two of 5 desktop* users had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name.
+1. **After opening the Auth menu, all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try *My VA* instead (didn't work in the prototype).
+1. 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address before signing in.
+
+### Footer
+1. 
 
 ### How recognize as an official government website
 1. Most (7 of 10) participants said that they would look at the URL to see if it's *.gov* or *VA.gov*.
 
-### Authentication (task: change mailing address with VA)
-1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't easy for everyone to notice.
-1. **Two of 5 *phone* users had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 phone users found it easily.  We might want to consider moving the Auth menu out of the mobile header menu.
-1. **Two of 5 *desktop* users had difficulty finding the Auth menu** (by clicking on "Cameron"), but the other 3 found it easily. Results might have been different if the menu had shown the participant's real name.
-1. **After opening the Auth menu, all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try My VA instead (didn't work in the prototype).
-1. 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address before signing in.
+### USA Logos 
+1. **Six participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
+   - not telling you anything new (3 participants) 
+    - might be phishing (2)
+    - fake and cheesy (1)
+    - taking up real estate on the page (1) 
+     > *"Amateurish to me, so I would immediately, if I saw it on a .gov website think that I'm being phished" (p8).*
 
-### Logos 
-1. no VA OK
+     > *"Thought it was fake like it was just added on...Why is that important for it to be there? It is redundant to me because it's the **US** Department of Veterans Affairs" (p4).*
+
+     > *"Just unnecessary real estate being used there at that point" (p8).* 
+
+
+1. Only **one person loved the colored USA logo**, and this was a Veteran who had worked professionally on branding and logos. He 
+1. **Two participants liked the black/white USA logo** in the footer better than the colored one in the header because it stands out, looks good, and seems more official. 
+> *"It just seems a little bit more boring and professional to me" (p8).*
 
 ## Next Steps
 - Synthesize data
