@@ -114,7 +114,7 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 
 **(24) Portal Update**
 - To ensure consistent naming conventions for authorized submitters, we have implemented common naming convention rules for submission.
-> Impact on our work right now: I’m unclear on what this actually means. We may need to check with Chris.
+> Impact: I’m unclear on what this actually means. We may need to check with Chris.
 
 ### Updates to AVA Reporting
 **(25) Inquiry Details Update**
