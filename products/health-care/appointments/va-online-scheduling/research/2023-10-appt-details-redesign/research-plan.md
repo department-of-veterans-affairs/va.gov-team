@@ -56,10 +56,15 @@ Retiring
 
 
 
-1. Testing changes in details page content
-2. Testing hierarchy of details page information
-3. Evaluating the use of buttons and links. 
-4. Testing changes to the cancelation flow 
+1. Evaluate the pertinance of details page information.
+2. Testing hierarchy of details page information.
+3. Evaluate how understandable the empty states.
+4. Evaluating the use of buttons and links.
+5. Test the findability of the After Visit Summary.
+6. Test navigation to and from the Next of Kin/Emergency Contact
+7. Test changes to the cancelation flow.
+8. Test print flow.
+   
 
 
 ### Outcome
