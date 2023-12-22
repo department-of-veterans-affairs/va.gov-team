@@ -19,7 +19,8 @@
 
 ## Process: 
 * Download the [In Use Mobile Product Guide from Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs/In%20use%20version0)
-   * Given its a Word Doc and Ad Hoc does not have access to editting Word documents, you will need to go to [Google Drive](https://drive.google.com/drive/u/0/folders/1CSjxUSTORK8MH7NqffA_1aeaMd4xHqZy) to get an editable version  
+   * Given its a Word Doc and Ad Hoc does not have access to editting Word documents, you will need to go to [Google Drive](https://drive.google.com/drive/u/0/folders/1CSjxUSTORK8MH7NqffA_1aeaMd4xHqZy) to get an editable version
+   * Open up existing and create a Copy with updating the version number accordingly if old was 7.2 then new is 7.3
 * Modify it accordingly and update the change management
 * Be sure to look to see if other areas in the document need to be updated
    * Example if its a component, navigation, style change then likely multiple images / content needs to be changed 
