@@ -1,4 +1,4 @@
-# DRAFT /  Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
+# Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
 ## Background
 In previous studies, we found that Veterans have a desire to save a copy of their submitted forms. As the submission PDF currently exists, it is not accessible to Veterans with visual impairments that are using screen readers. We are proposing providing an HTML page that allows Veterans who are using screen readers to review their submission, as well as an optional download.
 
