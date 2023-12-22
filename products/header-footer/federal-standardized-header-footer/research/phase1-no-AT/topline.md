@@ -17,9 +17,8 @@ The purpose of this research was to get user feedback on **wayfinding using the 
 
 ## Participants
 We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Service member (some people had multiple roles).
-- *Half (5 of 10) used a smartphone* during the session and saw the mobile version of the prototype
-- *Half (5 of 10)* used a tablet or computer during the session and saw the *desktop version* of the prototype
-
+- Half (5 of 10) saw the **mobile** version of the prototype from a smartphone 
+- Half (5 of 10) saw the **desktop** version of the prototype from a tablet or computer 
 
 ## Preliminary Findings
 ### Usability Successes
@@ -28,11 +27,15 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 ### How recognize as an official government website
 1. Most participants said that they would look at the URL to see if it's .gov or VA.gov
 
-### Authentication 
-1. 
+### Authentication (task: change mailing address with VA)
+1. After signing in using the prototype, 3 of 10 participants didn't recognize that they were actually signed in because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't easy for everyone to notice.
+1. 3 of 5 phone users easily found the Auth menu (under "Cameron" in the mobile header menu), but the other 2 phone users had difficulty. We might want to consider moving the Auth menu out of the mobile header menu.
+1. 3 of 5 desktop users readily opened the Auth menu (by clicking on "Cameron"), but the other 2 had difficulty. Results might have been different if the menu had the participant's real name.
+1. After opening the Auth menu, all participants readily clicked on the Profile menu. However, 2 participants then wondered aloud if they should try My VA instead (didn't work in the prototype).
+1. 3 of 10 participants went to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address, and then signed in afterwards.
 
 ### Logos 
-1. 
+1. no VA OK
 
 ## Next Steps
 - Synthesize data
