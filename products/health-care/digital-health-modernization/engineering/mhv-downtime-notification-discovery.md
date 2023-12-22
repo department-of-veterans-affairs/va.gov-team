@@ -1,14 +1,15 @@
-# MHV on va.gov downtime notifications
+# MHV on VA.gov downtime notifications
 
 Created: 2023-12-21
 
 ## In Brief
 
-- In late 2023, teams working on MHV on va.gov began implementing downtime notifications using the Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations.
+- In late 2023, teams working on MHV on VA.gov began implementing downtime notifications using the Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations.
 - The initial work is to add notifications when "all" of MHV is down. Using PagerDuty, a person can manually set a maintenance window or mark that an `mhv` service as down. **Decision needed on what should count as general/all for MHV**
 - It was proposed that `mhv-` services be defined in PagerDuty, e.g. `mhv-medications`, so individual apps could have individual downtime downtime notifications
 - Apps have some control over what the `DowntimeNotification` would hide during downtime. An app like the MHV Landing Page could show a notification without hiding any links if desired.
-- "Automated" downtime notifications does not appear to be covered by the existing Downtime Notification implementation.
+- "Automated" downtime notifications do not appear to be covered by the existing Downtime Notification implementation.
+- If multiple `mhv-` services are defined, the Landing Page could indicate to the user what parts of MHV on VA.gov are unavailable
 
 ## Current priorities
 
@@ -17,9 +18,15 @@ Created: 2023-12-21
 
 ## Potential enhancements
 
-## Refactor Downtime notification component
+### Refactor Downtime notification component
 
 A [draft PR to refactor the DowntimeNotification component](https://github.com/department-of-veterans-affairs/vets-website/pull/27215) was started while investigating the functionality of the current component.
+
+### Landing page lists which services are down
+
+The MHV on VA.gov landing page leads to multiple MHV services, so it might make sense to show information about what services are unavailable when the downtime/outage is for some, but not all MHV services.
+
+The existing Downtime Notification implementation can be made aware of multiple services. Some exploration is needed to determine whether the multiple custom messages are possible with the current component, or what additional work would be needed to implement this in an accessible and understandable way.
 
 ### Automated notifications
 
