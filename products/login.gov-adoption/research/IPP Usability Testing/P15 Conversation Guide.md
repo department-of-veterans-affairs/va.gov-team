@@ -55,6 +55,8 @@ If assistive tech is being used
 
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 
+    
+- **You'll be interacting with a prototype today.** This is a demo application we created that will mimic the experience of being on Login.gov. Some areas of the prototype will be clickable, and some will not. Since it's not a real application, none of your actions will affect your VA information or benefits. This application is adapted for screenreaders, however, you may notice that this experience will differ from what you are used to on a real website. These differences are largely due to the software we used to develop the prorotype. This software is called Figma and it is a tool that designers at VA use to plan out their websites before they launch. We welcome you to point out the differences between your typical screenreader experience and the one you have today so that we improve the experience in the future. I will be controlling our prototype today and acting as your hands. You may tell me where you would like to go and you may ask me to pause the screenreader or repeat information at any time.
   
 - **Are you okay with a couple of additional observers during this session? The observers will introduce themselves briefly and then turn their cameras off during the session. They will also be taking notes during the session of what we discuss.**
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going.
@@ -62,8 +64,6 @@ If assistive tech is being used
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant, eg/ Hi, I’m ____ and I do research for VA.gov)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-    
-- **You'll be interacting with a prototype today.** This is a demo application we created that will mimic the experience of being on Login.gov. Some areas of the prototype will be clickable, and some will not. Since it's not a real application, none of your actions will affect your VA information or benefits. This application is adapted for screenreaders, however, you may notice that this experience will differ from what you are used to on a real website. These differences are largely due to the platform we used to develop the prorotype. However, we welcome you to point out these differences so that we improve the experience in the future. I will be controlling our prototype today and acting as your hands. You may tell me where you would like to go and you may ask me to repeat information at any time.
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately, this is like a fancy way of taking notes. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and rather than listing your name, we will give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
@@ -95,19 +95,20 @@ If yes, how might you explain it to a friend?
 
 This is another definition that is used, identity verification is a process to make sure someone is who they say they are. In a moment, I'll share with you an application that we’ve been working on to help you verify your identity in-person at a local VA medical center.
 
-You’ll be asked to complete certain tasks on screen. As you attempt to complete these tasks, I’m going to ask that you try something called "thinking aloud.” I want you to reflect on what you heard and tell me what you might do next. An example might be describing how you like to make toast. You may describe what it's like to make toast.
+You’ll be asked to complete certain tasks on screen. As you attempt to complete these tasks, I’m going to ask that you try something called "thinking aloud.” I want you to reflect on what you heard and tell me what you might do next. An example might be describing how you like to make toast. When someone asks you how you make toast, you might describe it like that you like it lightly browned with a little bit of butter and a lot of raspberry jam.
 
+Do you have any questions about the think-aloud style I’ve described?\
 
-Do you have any questions about the think-aloud style I’ve described?
+Okay, now I'm going to share my screen so that our observers can see what we are talking about as we go. [pause to share]
 
-I'm going to send you a link in the zoom chat. Please open it up in a web browser, and then let me know once you see it. [Pause for confirmation]
+Okay, now I am sharing my scree.
 
-Okay, now I'm going to ask you to share your screen on Zoom so that we can look at the prototype together.
+## Prototype
+We are going to start off by pretending you have just made a Login.gov account and you have been prompted to verify your identity. In this test, we will pretend that Login.gov has offered you to verify online or in-person and you have chosen the in person option. After you select the verify in-person option, you arrive on this first screen.
 
-Zoom Share Screen Directions
-MODERATOR: We are going to start off by pretending you have just made a Login.gov account and you have been prompted to verify your identity. In this test, we will pretend that Login.gov has offered you to verify online or in-person and you have chosen the in person option. After you select the verify in-person option, you arrive on this first screen.
+I am going to set up my screen reader and navigate to the prototype which may sound a little clumsy. You will need to be prepared to listen when the screen reader says "link, Header". We may pause the screenreader, but if we restart the screen reader it will repeat all of the information from the page on the top. This is one of the differences between our prototype on Figma and a real website.
 
-Please read the directions, think aloud, and walk me through your thought process as you complete the task of signing up for in-person identity verification. Between tasks, or as you speak, I may stop to ask questions. (Bullet questions are suggested follow-ups to help the moderator engage with the respondent if there are additional questions not answered while reading aloud)
+Make sure that you think aloud by describing what the screen's content makes you think about and about what you might do next. Between tasks, or as you speak, I may stop to ask questions. (Bullet questions are suggested follow-ups to help the moderator engage with the respondent if there are additional questions not answered while reading aloud)
 
 
 
@@ -118,14 +119,16 @@ It looks like you’re thinking… did you have something in mind that you’re 
 
 
 **Screen 2: Choose a nearby site**
+Before you get started with giving feedback you will notice that I added a zipcode here. This is because our prototype does not actually have a search function so I preprogrammed this zipcode for all participants.
+
 - What do you need to do at this step?
 - It looks like you’re thinking… did you have a question about anything on this screen?
 - From your past experiences registering for an appointment and/or finding a VA location, is this what you expect to encounter?
 - When picking a VA location, what considerations do you make to choose one location over another? Alt: what impacts your decisions to choose one location over another?
 - Let's click the Search button.
+**When I click the Search button, you will hear the screenreader read out some of the same content you heard here. Please continue to listen as there will be some new content further down the screen.**
 
-
-
+**We are going to select the Baltimore VA Medical Center**
 
 Screen 3: Confirm site
 - What do you need to do at this step?
@@ -153,16 +156,17 @@ Thank you for all of your feedback on our application. Now, I’m going to ask y
 
 
 
-If you recall, the last screen that you saw in the previous exercise was the confirmation screen that you’d successfully created a case number. It told you some things that you’ll need to bring to your appointment and that you’d also get a confirmation email. So, imagine that you’ve now logged into your email and found this confirmation.
+If you recall, the last screen that you heard in the previous exercise was the confirmation screen that you’d successfully created a case number. It told you some things that you’ll need to bring to your appointment and that you’d also get a confirmation email. So, imagine that you’ve now logged into your email and found this confirmation.
 
 Can you tell who sent you this email?
-If no, ask, what would you need to see to know who sent you this email?
+If no, ask, what would you need to know who sent you this email?
 
 This email is from Login.gov and includes your walk-in appointment details. Please read over this email to yourself and let us know your reactions as you read. In this exercise, we want you to walk us through what you understand your next steps are going to be and also any expectations you have for when you get to the VA medical center.
 
 Follow-up questions:
 - What would you do upon receiving this email?
 - What information sticks out to you and seems the most important?
+- What would you do to find out more information.
 - Are there any tasks that you need to complete after receiving this email?
 - Do you anticipate any challenges in following up on the tasks in this email?
 - What is this email missing that you would need to successfully go to your appointment to complete in-person identity verification?
@@ -177,7 +181,7 @@ I am now going to describe the in-person identity proofing experience in a step-
 - Locate the proofing agent. The proofing agent is a specific authorized employee who can help you verify your account in person.
 	- How would you do that?
 - Present your case number to the proofing agent. 
-	- How would you find your confirmation number? Where would you go if you did not have it written down?
+	- How would you find your confirmation number?
 - Present your proofing materials to the proofing agent.
 	- State issued ID, OR
 	- VHIC and proof of address
