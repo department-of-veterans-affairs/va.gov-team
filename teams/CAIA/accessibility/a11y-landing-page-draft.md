@@ -38,8 +38,13 @@ All of us are responsible for the accessibility of our products. And every disci
 
 ## Get help from accessibility specialists
 
-**There are two routes to access support from accessibility specialists.**
-### Route 1: Collaboration Cycle
+
+There are two routes to access support from accessibility specialists:
+1. During the Collaboration Cycle, from the Governance team
+2. At any point in your product's lifecycle, from CAIA and other accessibility specialists
+
+
+### Route 1: Collaboration Cycle support from Governance
 Teams **creating new features or products** are required to go through the Collaboration Cycle, which includes accessibility reviews. The Collaboration Cycle is managed by the Governance team.
 <details><summary>Learn about the Collaboration Cycle</summary>
 
@@ -52,7 +57,7 @@ Teams engage with the Collaboration Cycle throughout their product’s/feature�
 
 </details>
 
-### Route 2: General accessiblity support
+### Route 2: General accessiblity support from CAIA
 Teams **at any point in the product/feature lifecycle** can get general accessibility support from the Sitewide Content, Accessibility, and Information Architecture (CAIA) team. They can also reach out to specialists on Slack.
 
 ⚠️**Note**: Any ticket(s) given, on either route, will drive your team towards a more accessible product.
@@ -86,23 +91,6 @@ You can reach out to CAIA whether you're in the Collaboration Cycle or not.
     - As of 12/21/2023 Office Hours are on Tuesdays at 4 PM Eastern.
     - Join via [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
 </details>
-
-### What is the difference between Governance and CAIA? 
-
-Sitewide CAIA partners with the VFS team early on and throughout the product lifecycle process to provide them with the information, guidance, and resources needed to build exceptional veteran-facing products.
-
-- **Governance**: Advisory Role
-- **CAIA**: Project Support Role
-
-[Lean more about Governance and CAIA.](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/faqs#CollaborationCycleFAQ-WhatisthedifferencebetweenGovernanceandCAIA?) 
-
-
-
-
-
-
-
-
 
 
 ### How accessibility specialists work
