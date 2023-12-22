@@ -4,13 +4,17 @@ In previous studies, we found that Veterans have a desire to save a copy of thei
 
 In this exploratory study, we seek to understand how Veterans who use screen readers would review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
 
-We believe it is important to help Veterans using screen readers to access a record of their online submissions.
+We believe it is important to support Veterans using screen readers to access a record of their online submissions.
 
 Participants will walk through a code prototype on staging.
 
 Staging link: TBD
 
 ### OCTO Priorities
+This research supports 2 of the 2024 OCTO Objectives:
+Our digital experiences are the best way to access VA health care and benefits.
+Our platforms are the best way to deliver products at VA.
+
 This research supports OCTO 2023 priorities 2 and 6:
 - Solidify the VA.gov platform
 - Enhance Veterans’ personalized online experience
@@ -33,7 +37,7 @@ This research also touches on aging and managing new needs for those that develo
 What are you trying to learn from this research?
 1.  Evaluate the effectiveness and value of the accessible submitted appeal page for Veterans using screen readers.
 2.  Understand how Veterans using screen readers are currently accessing and storing a copy of their appeal submission.
-3.  Understand where Veterans using screen readers expect to access records of their submitted appeals. 
+3.  Understand where Veterans using screen readers expect to access, and how they expect to use  a copy of their submission.
 
 ### Outcome
 - We believe the results from the study will help inform accessibility best practices for our team going forward.
@@ -47,7 +51,7 @@ What are you trying to learn from this research?
 - How do Veterans using screen readers access a copy of their submission?
 - How do Veterans using screen readers save a copy of their submission?
 
-#### GOAL 3: Understand where Veterans using screen readers expect to access records of their submitted form.
+#### GOAL 3.  Understand where Veterans using screen readers expect to access, and how they expect to use  a copy of their submission.
 - Where do Veterans using screen readers expect to access a record of their submitted form?
 - What do Veterans using screen readers want to do with a copy of their submission?
 
