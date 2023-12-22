@@ -82,7 +82,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 Pilot participant email: rocio@coforma.io
 
-Date and time of pilot session: Thursday, Jan 11, 2024.
+Date and time of pilot session: Thursday, Jan 11, 2024 at 12-1 PM ET
 
 ### Research sessions
 January 16-19
