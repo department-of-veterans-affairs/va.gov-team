@@ -1,4 +1,4 @@
-# VA.gov Web/Cookie OAuth Integration
+# VA.gov Cookie OAuth Integration
 
 ## Version History
 

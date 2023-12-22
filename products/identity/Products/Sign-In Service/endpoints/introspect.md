@@ -4,7 +4,7 @@
 
 Used to obtain serialized user data from the vets-api User object. This is an authenticated route: an `access_token` must be passed.
 
-## Introspect Endpoint
+## Introspect Endpoint - GET
 
 ```jsx
 Staging: https://staging-api.va.gov/v0/sign_in/introspect
@@ -16,6 +16,7 @@ Production: https://api.va.gov/v0/sign_in/introspect
 | Parameter | Description | Value Type | Example Values |
 | --- | --- | --- | --- |
 | `access_token` | Sign in Service access token | String | `eyJhbGci0...` |
+| `anti_csrf_token` | Optional anti-CSRF token, required if `enable_anti_csrf` is enabled. | String | `efc7b88e5baa009d2cc0e1cf7c6d31b4` |
 
 ### Cookie & API Auth
 
@@ -27,7 +28,7 @@ API clients will pass their token through Bearer Authentication, setting the `Au
 
 ```bash
 # API Request
-curl --location 'http://localhost:3000/v0/sign_in/introspect' \
+curl -x GET --location 'http://localhost:3000/v0/sign_in/introspect' \
 --header 'Authorization: Bearer eyJhbGciOiJSUzI1NiJ9...'
 ```
 
@@ -37,7 +38,7 @@ Cookie clients will use the `vagov_access_token` cookie set for them as a result
 
 ```bash
 # Cookie Request
-curl --location 'http://localhost:3000/v0/sign_in/introspect' \
+curl -x GET --location 'http://localhost:3000/v0/sign_in/introspect' \
 --header 'Set-Cookie: vagov_access_token=eyJhbGciOiJSUzI1NiJ9...'
 ```
 

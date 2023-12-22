@@ -4,14 +4,14 @@
 
 Used to get the tokens associated with a user's session. This guide is divided into three sections, one for each of the different SiS auth flows that all use `/token` to request sesion tokens.
 
-## Token endpoint
+## Token Endpoint - POST
 
 ```jsx
 Staging: 'https://staging-api.va.gov/v0/sign_in/token'
 Production: 'https://api.va.gov/v0/sign_in/token'
 ```
 
-## [Cookie](../auth_flows/web_oauth.md) & [API](../auth_flows/mobile_oauth.md) PKCE Auth
+## [Cookie](../auth_flows/cookie_oauth.md) & [API](../auth_flows/api_oauth.md) PKCE Auth
 
 PKCE is the standard end-user authentication flow, provisioning an `access_token` & `refresh_token`, as well as an optional `anti_csrf_token` and an `info_token` for cookie auth clients. It requires the `code` returned to the client's specified `redirect_uri` at the end of the `/authorize` flow, as well as the `code_verifier` that matches the `code_challenged` used to authenticate. API clients will receive a JSON response with the new tokens, cookie clients will have cookies set to the new token values.
 
@@ -19,9 +19,9 @@ PKCE is the standard end-user authentication flow, provisioning an `access_token
 
 | Parameter | Description | Value Type | Example Values |
 | --- | --- | --- | --- |
-| grant_type |  Specifies authentication type, `authorization_code` for PKCE | String | `authorization_code` |
-| code | Authentication code sent by SiS to the registered ClientConfig's `redirect_uri` after end user authenticates with CSP, exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
-| code_verifier | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
+| `grant_type` |  Specifies authentication type, `authorization_code` for PKCE | String | `authorization_code` |
+| `code` | Authentication code sent by SiS to the registered ClientConfig's `redirect_uri` after end user authenticates with CSP, exchanged for tokens | String | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
+| `code_verifier` | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
 
 #### Code Verifier / Code Challenge
 
@@ -57,7 +57,7 @@ Some clients may wish to include identifying user attributes, derived from the C
   1234abc
 */
 
-staging-api.va.gov/v0/sign_in/token
+POST staging-api.va.gov/v0/sign_in/token
   ?grant_type=authorization_code
   &code=12345678-1234-5678-abc9-def77abc9f9f
   &code_verifier=1234abc

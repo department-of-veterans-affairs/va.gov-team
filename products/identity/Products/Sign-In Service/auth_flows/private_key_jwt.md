@@ -8,15 +8,52 @@
 
 ## Summary
 
-Private Key JWT Authentication allows a backend client unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by their pre-registered private key. It differs from PKCE auth only during the initial request for tokens, when the client has not yet obtained SiS credentials. Integrations with the rest of the SiS routes are managed through [API](./mobile_oauth.md) authentication.
+Private Key JWT Authentication allows a backend client unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by their pre-registered private key. It differs from PKCE auth only during the initial request for tokens, when the client has not yet obtained SiS credentials. Integrations with the rest of the SiS routes are managed through [API](./api_oauth.md) authentication.
 
+### Service Account Authentication
+
+The backend JWT flow described here is an alternate way for a client to finish a user authentication that was started by a different application. It is a separate feature from [Service Account Authorization](../auth_flows/service_account.md), an entirely backend-to-backend process meant to authenticate *applications*, not users, with SiS. Both features do rely upon private/public key pairs, and the same public certificate can be registered with both a Client Configuration and a Service Account.
 
 ## Client Configuration
 
 The usage of Private Key JWT auth vs PKCE auth is controlled in [your client's `Client Config`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md) via the `pkce` and `certificates` settings.
 
+- `authentication`: api
 - `pkce`: false
-- `certificates`: ["your-public-cert"]
+- `certificates`: ["your-public-cert", "your-second-public-cert"]
+
+### Creating and Registering Public Certificates
+
+A new public/private key pair can be created through your terminal:
+
+```bash
+> openssl req -nodes -x509 -days 365 -newkey rsa:2048 -keyout private.pem -out public.crt
+# Follow the key creation prompts, ~> private.pem, public.crt
+> cat public.crt
+-----BEGIN CERTIFICATE-----
+MIIDfTCCAmWgAwIBAgIUQZ5wNPDE+Jd10AlihrgvIl9zjPUwDQYJKoZIhvcNAQEL
+BQAwTjELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAkNPMQ8wDQYDVQQHDAZEZW52ZXIx
+ITAfBgNVBAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDAeFw0yMzA5MjUxNTMx
+NDZaFw0yNDA5MjQxNTMxNDZaME4xCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJDTzEP
+MA0GA1UEBwwGRGVudmVyMSEwHwYDVQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBM
+dGQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDoLWO32DweS1K/jj0b
+sHwaww3lsGOIDMixkE53nAONZywQjl7g6hotkUuX1z58ly+TGCPVOyMVBAH+BMic
+V6w6hPCEg3AkTUFcS9Xhxg0xLzxl928aMxfSnIJZqmehH+5HnReGwLw3R66EmBEb
+7IygMTTrNoAkJdDMNblqhzMagRiOxNfMG+vaBkLYJG7q/QnOS511v+vfcZKBEgkD
+OLWnpScodJgSl4Svj0T14DwAwvQaGnSxjBpNB8hVXfjkdh+PJMJqfXA2CUoLccfs
+9hLF/6Pn/6Sp3CAzW3xc7q6Kq49NJRj474LYkgJ47j9fTS9sINOm5BS8o4TmXubw
+oaaBAgMBAAGjUzBRMB0GA1UdDgQWBBTekmBo+ZvN8kyaZjFNx3Fnx3Dt+jAfBgNV
+HSMEGDAWgBTekmBo+ZvN8kyaZjFNx3Fnx3Dt+jAPBgNVHRMBAf8EBTADAQH/MA0G
+CSqGSIb3DQEBCwUAA4IBAQAVsJIc5GYS7Px1T2kFQisBKzFloUePtZ+6I3LPb5UG
+aVFh4C6Wa0/xEcBiYkenbRwH4X2ZnblLhp0ZS4dlaFTw4pLMKzQ0YjotDrqUmdnx
+pbH5itDSIMD4ChGeRhfXUGxYwaX4Kz7WIpZ5abVx4QYUkZEDDafOMqyWLc/uIzky
+FEaoNO98mC8bc3XvkrqFMYHcv9r8zMbKkpZZnYskqiADs60nT7AZ9w+oXieuTwkO
+sxS0LKpt5wAnZ/J/my68mHUJLoOLXIeiQwf/6BGzmGIfzKfPmIIyDc2/rG/EXXSi
+j7BJ4dDDJsQXB8hIxY+Fq5OyU5q9W0A2oIrvbvRazdoh
+-----END CERTIFICATE-----
+```
+
+This string can then be copied and inserted (within an array) into your Client Config's `certificates`.
 
 ## Sequence Diagram
 

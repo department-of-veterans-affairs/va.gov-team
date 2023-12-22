@@ -26,9 +26,9 @@ Sign in Service provides four distinct methods of authorization, with options fo
 
 The standard SiS authorization flow for end users makes use of the PKCE, or `Proof Key for Code Exchange` OAuth 2.0 standard. PCKE makes use of a dynamically generated client secret to bridge the potential security gap between user authorization and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). This PKCE flow functions with browser-managed cookies to enable web auth, and API request headers for mobile and API auth.
 
-* [Website / Cookie Authorization Guide](auth_flows/web_oauth.md)
+* [Website / Cookie Authorization Guide](auth_flows/cookie_oauth.md)
 
-* [Mobile / API Authorization Guide](auth_flows/mobile_oauth.md)
+* [Mobile / API Authorization Guide](auth_flows/api_oauth.md)
 
 ### JWT Auth & Service Account Auth
 

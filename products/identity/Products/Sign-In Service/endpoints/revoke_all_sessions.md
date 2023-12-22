@@ -1,26 +1,34 @@
 # Revoke All Sessions
 
-### Description
-This endpoint looks up all of a user's sessions using their `user_uuid`, then revokes them. This is an authenticated route: an Access Token must be passed, either through Bearer Authentication for mobile/API or a cookie for web/cookie authentication.
+## Description
 
-### Token endpoint
+Uses the `user_uuid` stored in the `access_token` that is included in the call to look up all of a user's sessions, then destroys them - revoking all of the tokens tied to those sessions.
 
-```
+## Revoke All Sessions Endpoint - GET
+
+```jsx
 Staging: https://staging-api.va.gov/v0/sign_in/revoke_all_sessions
 Production: https://api.va.gov/v0/sign_in/revoke_all_sessions
 ```
 
-| Client ID | Header key | Value |
-| --- | --- | --- |
-| mobile | `Authorization` | `Bearer <accessTokenHash>` |
-| web | `vagov_access_token` | `<accessTokenHash>` |
+## Revoke All Sessions Parameters
 
-*Sample request*
+| Parameter | Description | Value Type | Example Values |
+| --- | --- | --- | --- |
+| `access_token` | Sign in Service access token | String | `eyJhbGci0...` |
+| `anti_csrf_token` | Optional anti-CSRF token, required if `enable_anti_csrf` is enabled. | String | `efc7b88e5baa009d2cc0e1cf7c6d31b4` |
+
+## Sample Request
 
 ```javascript
-staging-api.va.gov/v0/sign_in/revoke_all_sessions
+// API request
+GET staging-api.va.gov/v0/sign_in/revoke_all_sessions?access_token=eyJhbGci0...
+
+// Cookie request
+// vagov_access_token=eyJhbGci0...
+GET staging-api.va.gov/v0/sign_in/revoke_all_sessions
 ```
 
-*Sample response*
+## Sample Response
 
 If all steps are performed successfully the API will respond with a 200 status and no other data.
