@@ -113,7 +113,7 @@ On November 17, 2023, the CRM team sent out a release which impacted the portal 
 - When submitting an inquiry to the VA Debt category with a topic of Education and the submitter is an SCO, either the ‘School Facility Code’ or ‘State of School’ will be required.
 - Providing the ‘School Facility Code’ or ‘State of School’ will make the other field no longer required.
 - This was a bug fix that was created when we added the SFC (School Facility Code) or State of School options to the debt category in our prior release. The behavior was always meant to mirror the GI Bill SFC/State of School behavior, where only one is required.
-> Impact: We should confirm this with Chris. It appears that only either or is required now, not both. I'm unclear why the change is only for the debt category. Once we confirm the change, we need to update all design documentation. 
+> Impact: The behaviour (either/or) wasn't clear to us before. We need to update all design documentation so these fields are either/or, whenever they're present.
 
 **(24) Portal Update**
 - To ensure consistent naming conventions for authorized submitters, we have implemented common naming convention rules for submission.
