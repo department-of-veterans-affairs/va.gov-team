@@ -22,6 +22,7 @@
    * Given its a Word Doc and Ad Hoc does not have access to editting Word documents, you will need to go to [Google Drive](https://drive.google.com/drive/u/0/folders/1CSjxUSTORK8MH7NqffA_1aeaMd4xHqZy) to get an editable version
    * Open up existing and create a Copy with updating the version number accordingly if old was 7.2 then new is 7.3
 * Modify it accordingly and update the change management
+   * After modifying please review the rest of the document to ensure spacing and formatting is okay, if not adjust accordingly  
 * Be sure to look to see if other areas in the document need to be updated
    * Example if its a component, navigation, style change then likely multiple images / content needs to be changed 
 * Once the Product Guide is completely updated see [Veteran Support/ Contact Center document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) for direction on how to proceed
