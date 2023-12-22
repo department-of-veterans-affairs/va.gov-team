@@ -22,8 +22,9 @@ This work supports a Veteran whenever they are filing a disability compensation 
 
 ## Research Goals
 
-- Assess how well Veterans understand what is happening at each step of the claim adjudication process.
-- Assess whether the new timeline design creates a more accurate mental model for Veterans about how a claim moves through the claim adjudication process.
+- Assess how well the design explains the overall claim process for Veterans who are less familiar with the process and CST.
+- Assess whether the new timeline design creates an accurate mental model for Veterans about how a claim moves through the claim adjudication process.
+- Assess whether the design does a better job of explaining the details of the claim process for Veterans who have experienced the pain of a claim getting "stuck" in one of the step process for a long time.
 
 ### Outcome
 With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful?
@@ -49,7 +50,7 @@ Remote on Zoom
 ### Research materials
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
 
-[Research prototype] WIP
+[Research prototype](https://www.figma.com/proto/bWELjWsVqkf3BDx0PXqqam/CST-Claims-Process-exploration?page-id=50%3A2324&type=design&node-id=151-11070&t=aNXbSGJ3NjEf3Adn-0&scaling=min-zoom&starting-point-node-id=151%3A11070)
 	
 ## Recruitment	
 
@@ -60,15 +61,15 @@ The intended audiences is Veterans who at some point filed a disability compensa
 ### Recruitment criteria
 
 **Screener question**
-> Have you filed a disability compensation claim with the VA in the last 10 years? [Answer should be yes to qualify.]
+> Have you filed a disability compensation claim with the VA in the last 1 month? 
 
 **Primary criteria (must-haves)**
 
 20 total participants:
 
 - 20 mobile users
-- 10 Veterans who filed a disability compensation claim in the past 1 month
-- 10 Veterans who had a disability compensation claim recently closed, and that claim took longer than the average 125 days to be processed
+- 10 Veterans who filed their first disability compensation claim in the past 1 month. (We are looking to get feedback from Veterans who are not very familiar with the Claim Status Tool).
+- 10 Veterans who had a disability compensation claim recently closed, and that claim took longer than the average 125 days to be processed. (We are also looking to get feedback from Veterans who are more familiar with the tool, and felt like their claim was "stuck" in the process for longer than they would have hoped).
 - Race: 5 Black Veterans, 5 Hispanic Veterans, 10 Veterans of any other race
 - 10 women Veterans
 
@@ -81,13 +82,16 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 Pilot participant email: rocio@coforma.io
 
-Date and time of pilot session: TBD
+Date and time of pilot session: Thursday, Jan 11, 2024.
 
 ### Research sessions
-Dates TBD
+January 16-19
+January 22-26
 
 ### Length of sessions
-1 hour
+- Session length: 1 hour
+- Buffer time between sessions: 1 hour
+- Maximum Sessions per day: 3
 
 ### Availability
 8 AM - 6 PM ET
