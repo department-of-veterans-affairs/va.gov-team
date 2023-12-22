@@ -9,8 +9,8 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [User logs in with a LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/next-of-kin-emergency-contact/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-- [User logs in with a LOA3 account to view Next of Kin / Emergency Contact info]([tbd](https://www.sketch.com/s/99bac82d-4c95-4d4c-9587-2a931ed464de))
-- [User logs in with a LOA3 account to edit Next of Kin / Emergency Contact info (v2 feature not yet implemented)]([tbd](https://www.sketch.com/s/99bac82d-4c95-4d4c-9587-2a931ed464de))
+- [User logs in with a LOA3 account to view Next of Kin / Emergency Contact info](https://www.sketch.com/s/99bac82d-4c95-4d4c-9587-2a931ed464de)
+- [User logs in with a LOA3 account to edit Next of Kin / Emergency Contact info (v2 feature not yet implemented)](https://www.sketch.com/s/99bac82d-4c95-4d4c-9587-2a931ed464de)
 
 ## Edge cases
 
