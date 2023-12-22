@@ -1,5 +1,26 @@
 This is a weekly sync to coordinate content about sign-in options on VA.gov. 
 
+**December 22, 2023**
+-
+Attendees: Aliyah, Lauren, Clayton, Carl, Phil, Camille, Megan D., Rachel, and Jeana
+
+**FAQ coordination/CLP:**
+- Update for awareness -secure sign in team coordinating coordinating with Danielle about updates to FAQ pages to include information about known issues. They've also been keeping an eye on blog posts and social media comments for information that points to any known issues.
+- Carl submitted information for a new CLP.
+
+**Estimated timing:**
+- Login.gov - no specific data from Login.gov on online and in-person proofing. Login.gov feels that the average timing is about 10 minutes (online only).
+- ID.me - data shows average timing (if someone does this alone) is about 4 minutes and 28 minutes if someone has to call a "trusted referee" during the process.
+- Login.gov just completed a study about in-person proofing. No results posted yet, but we can keep an eye on this.
+- Clayton suspects that we currently use 5 to 10 minutes based on the info sign in partners. We can continue conversation about how to adjust/address this.
+
+**Verify language on VA.gov forms:**
+- Aliyah updated that there is language about verifying identity across forms on VA.gov. There will be a larger effort to address this so that's it's closely tied to sign in and identity updates. No final decision about content for all forms during our call.
+- For awareness, we took a look at the content Megan Z. (CAIA team) worked on with Rachel and Jeana for Veterans facing forms.
+- Clayton and Megan D. expressed concerns about there being no link or information about what the term "verifying" means and flagged some potential updates to the Verifying your identity page to include a sentence about why we require this.
+
+Aliyah shared the link from Danielle about the updates to the Get a Premium MHV page. That pages is currently being reviewed. 
+
 **December 7, 2023**
 -
 Attendees: Aliyah, Lauren, Laura, Clayton, Carl, Ngozi, Megan, and Matt 
