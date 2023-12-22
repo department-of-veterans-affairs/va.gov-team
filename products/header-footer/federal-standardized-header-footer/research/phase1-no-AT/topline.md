@@ -23,7 +23,10 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 
 ## Preliminary Findings
 ### Usability Successes
-1. **
+1. 
+
+### How recognize as an official government website
+1. Most participants said that they would look at the URL to see if it's .gov or VA.gov
 
 ### Authentication 
 1. 
