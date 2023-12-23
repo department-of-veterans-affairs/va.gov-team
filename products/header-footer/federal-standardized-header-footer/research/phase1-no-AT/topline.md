@@ -5,7 +5,7 @@ Cindy Merrill, Sitewide Public Websites team, December 22, 2023
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
 
-This topline summary is a preliminary summary of research findings observed in the research sessions. The purpose is to share what was heard in the sessions before the holiday break and transition to planning Phase 2 of the research.
+This topline summary is a preliminary summary of research findings observed in the research sessions. The purpose is to share what was learned in the sessions before the holiday break and transition to planning Phase 2 of the research.
 
 ## Introduction
 The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer, as well as Veteran sentiment on the new USA logo branding**. 
