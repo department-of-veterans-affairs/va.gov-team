@@ -110,60 +110,30 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-<details>
+- Team Name: Sitewide Public Websites
+- Team information: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites#pw-contact
 
-- Team Name: Decision Tools
-- Team GitHub Label: vsa-decision-tools
-- Product GitHub label: dt-discharge-upgrade-wizard
-- Team Slack channel: [vsa-decision-tools](https://dsva.slack.com/archives/C01DWJFD45D)
-- Product Slack channel: [#dischargeupdate](https://dsva.slack.com/archives/C5KRNQLSU)
-- Product POCs: 
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: John Hashimoto
- - PM: Marci McGuire
- - Engineering:  Zach Morel
- - Research/Design: Cassandra Allen (Design), Cindy Merrill (Research)
- 
-</details>
 
 
 #### Stakeholders
-
-<details>
- 
 - Kayla Williams, OPIA
 - John Santos, OPIA
 - Margarete Ashmore, CIV OSD OUSD P-R
 - Military branch review boards (RB)
 - Military branch boards for correction of military records (BCMR)
  
-</details>
 
-
-<hr>
+---
 
 # Previous Discharge Upgrade Wizard Product Outline
 
 A tool to help Veterans find information about how to upgrade their discharge status. 
 
 ## Stakeholders and Product Team
-- GitHub Label: dt-discharge-upgrade-wizard
-
-- Slack channel: #dischargeupdate(https://dsva.slack.com/channels/dischargeupdate)
 - Keywords: Discharge, Discharge Update, Discharge Upgrade, Discharge Wizard
 - Product POCs: 
   - DOD - Alexander W. Reber REBER, GS-13 USAF HAF SAF/MRBX
   - PO - John Hashimoto (USDS, OCTO-DE)
-  - PM - Marci McGuire (GCIO)
-  - Front End Engineer: Zach Morel
-  - Designer: Cassandra Allen
 
 ## User Problem Statement
 Information on how to upgrade a discharge status for eligible Veterans is not currently provided in its entirety on any government page, and is not provided in a user-friendly format anywhere on the internet.
@@ -173,8 +143,6 @@ Initial GitHub Issue: https://github.com/department-of-veterans-affairs/vets.gov
 ## Solution Narrative
 Page delivers customized content based on reason Veteran wants to upgrade discharge, date of discharge, branch of service, etc., which is collected via a short wizard (4-6 questions). No PII collected; no data stored; no backend. The wizard would be a series of questions that would conditionally show content (e.g., recommended forms/steps for updating discharge records, caveats, advice, background information) to the Veteran based on relevance.  Page also includes a few paragraphs of accordion content. 
 
-## Current Status
-- Current working doc on the content is [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/dw-content.md)
 
 ## How to Access and Test
 - Link: https://www.va.gov/discharge-upgrade-instructions/
@@ -199,9 +167,5 @@ Page delivers customized content based on reason Veteran wants to upgrade discha
 - Original GitHub Label: discharge tool
 - Former Slack channels: #dischargeupdate(https://dsva.slack.com/channels/dischargeupdate), [#griffins-team](https://dsva.slack.com/channels/griffins-team)
 - Keywords: Discharge, Discharge Update, Discharge Upgrade, Discharge Wizard
-- Product POCs: 
-  - DOD - Hendricks, Ryan A Lt Col USAF OSD OUSD P-R (US)
-  - VA - Gabriel Zucker
-  - Ad Hoc - Ben Barone
-  - Engineering POCs: Ben Shyong
+- Public Websites took ownership on dissolution of Decision Tools team (Q4 2021?)
 
