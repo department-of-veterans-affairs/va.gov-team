@@ -5,12 +5,7 @@ Cindy Merrill, Sitewide Public Websites team, December 22, 2023
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
 
-This topline summary is a high level, top-of-mind summary of trends observed in the research sessions, but is not the final result of working with the data discovered. *The information in this document may change, following a deeper review and analysis of the data gathered.*
-
-**The goal of this document is as follows:**
- - To make sure everyone who observed the study is in alignment with the perceived findings
- - To gain insight from the team/stakeholders and determine specific directions to pursue as we analyze the data
- - To jump start synthesis by quickly organizing high-level themes
+This topline summary is a preliminary summary of research findings observed in the research sessions.
 
 ## Introduction
 The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer, including the new USA logo and VA seal**. 
@@ -27,6 +22,7 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 1. None of the 10 participants commented on font size, but both pilot participants (who were Veterans) said unprompted that they **liked the font size**. 
 >*"I didn't have to get out my reading glasses to read anything, so that was that was a big plus for me" (pilot 1).* 
 1. One participant noticed the different fonts between the header/footer and the page content. They said that they **preferred the font in the header bar** and the US Department of Veterans Affairs because of its sharp/clean edges (vs. the blurry/rounded letters in the life insurance content).
+1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. 4 of 10 participants breezed through all the tasks, but others were challenged by some tasks, especially when they were too focused on only the header and missed links in the footer, or too focused on only the footer and missed links in the header. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participant who had difficulty finding the Auth menu).
 
 
 ### Authentication (task: change mailing address with VA)
@@ -43,7 +39,15 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 1. Another participant didn't scroll all the way to the bottom of the page but only up to the USA logo, which looked like the bottom of the page to him. He said that he usually doesn't use footer links on web pages because it's just information about the company.
 
 ### How recognize as an official government website
-1. Most (7 of 10) participants said that they would look at the URL to see if it's *.gov* or *VA.gov*.
+1. Most (7 of 10) participants said that they would look at the URL to see if it's *.gov* or *VA.gov* because the words and graphics could be spoofed. 
+1. Participants also mentioned other features of the site:
+     - VA seal (7)
+     - "An official website of the U.S. Department of Veterans Affairs" in the footer (5)
+     - "U.S. Department of Veterans Affairs" in the header (4)
+     - USA Government" in header (3)
+     - This is what VA pages look like with logo, typeface, accordions (3) 
+     - "USA" logo in footer (1)
+     - "Veterans Crisis Line" (1)
 
 ### USA Logos 
 1. **Six participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
