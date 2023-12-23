@@ -25,3 +25,16 @@ The wizard pattern has been deprecated by DST in favor of the Subtask pattern. T
 
 ## Epic
 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12043
+
+## Stakeholders
+TBD -- previous contacts are no longer correct stakeholders
+Sitewide Content team working on stakeholder identification (12/23)
+
+## Content
+Phase 1 goal: Update to Sub-task pattern (1 question per page), and update content that does not require review
+Phase 2 goal: After modern stakeholders have been identified and updated content provided: update content & logic flow as needed
+
+### Updated logic flow
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=u0b235d03cbd64f7f93673243
+
+
