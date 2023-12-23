@@ -5,15 +5,15 @@ Cindy Merrill, Sitewide Public Websites team, December 22, 2023
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
 
-This topline summary is a preliminary summary of research findings observed in the research sessions.
+This topline summary is a preliminary summary of research findings observed in the research sessions. The purpose is to share what was heard in the sessions before the holiday break and transition to planning Phase 2 of the research.
 
 ## Introduction
-The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer, including the new USA logo and VA seal**. 
+The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer, as well as Veteran sentiment on the new USA logo branding**. 
 
 ## Participants
 We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Service member (some people had multiple roles).
-- Half (5 of 10) saw the **mobile** version of the prototype from a smartphone 
-- Half (5 of 10) saw the **desktop** version of the prototype from a tablet or computer 
+- Half (5 of 10) saw the **mobile** version of the prototype from a smartphone.
+- Half (5 of 10) saw the **desktop** version of the prototype from a tablet or computer.
 - Most participants had **experience using *VA.gov*** and/or the VA mobile app. Only one participant (a caregiver and spouse of a Veteran) had never used them before, and 2 other participants had used them only once or twice.  
 
 ## Preliminary Findings
@@ -21,20 +21,20 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 1. **None of the 10 participants mentioned missing the "VA" logo**, so it seems to be fine to not have that on the page.
 1. None of the 10 participants commented on font size, but both pilot participants (who were Veterans) said unprompted that they **liked the font size**. 
 >*"I didn't have to get out my reading glasses to read anything, so that was that was a big plus for me" (pilot 1).* 
-1. One participant noticed the different fonts between the header/footer and the page content. They said that they **preferred the font in the header bar** and the US Department of Veterans Affairs because of its sharp/clean edges (vs. the blurry/rounded letters in the life insurance content).
-1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. 4 of 10 participants breezed through all the tasks, but others were challenged by some tasks, especially when they were too focused on only the header and missed links in the footer, or too focused on only the footer and missed links in the header. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participant who had difficulty finding the Auth menu).
+1. One participant noticed the different fonts between the header/footer and the page content. They **preferred the font in the header bar** and the *U.S. Department of Veterans Affairs* because of its sharp/clean edges (*vs.* the blurry/rounded letters in the life insurance content).
+1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. 4 of 10 participants breezed through all the tasks, though others were challenged by some tasks, especially when too focused on only the header and missed links in the footer, or too focused on only the footer and missed links in the header. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participants who had difficulty finding the Auth menu).
 
 
-### Authentication (task: change mailing address with VA)
-1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't easy for everyone to notice.
+### Authentication task
+1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't enough for everyone to notice.
 1. ***Two of 5 phone* users had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 found it easily.  We might want to consider moving the Auth menu out of the mobile header menu.
 1. ***Two of 5 desktop* users had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name.
 1. **After opening the Auth menu, all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try *My VA* instead (didn't work in the prototype).
-1. 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address before signing in.
+1. It was interesting that 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address before signing in.
 
 ### Footer
 1. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
-1. **Four of 10 participants described the difference between the footer links with a blue *vs.* black background** as VA/you vs. legal/federal.
+1. **Four of 10 participants described the difference between the footer links with a blue *vs.* black background** as VA/you vs. legal/federal. The other participants didn't articulate a difference between the two sections.
 1. One participant plus one pilot participant said that the footer was too large. A different participant commented on the lack of organization/categories in the black section of footer links.
 1. Another participant didn't scroll all the way to the bottom of the page but only up to the USA logo, which looked like the bottom of the page to him. He said that he usually doesn't use footer links on web pages because it's just information about the company.
 
@@ -44,8 +44,8 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
      - VA seal (7)
      - "An official website of the U.S. Department of Veterans Affairs" in the footer (5)
      - "U.S. Department of Veterans Affairs" in the header (4)
-     - USA Government" in header (3)
-     - This is what VA pages look like with logo, typeface, accordions (3) 
+     - "USA Government" in header (3)
+     - Logo, typeface, and accordions of other VA pages (3) 
      - "USA" logo in footer (1)
      - "Veterans Crisis Line" (1)
 
@@ -62,14 +62,15 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
      > *"Just unnecessary real estate being used there at that point" (p8).* 
 
 
-1. Only **one person loved the colored USA logo**, and this was a Veteran who had worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
+1. Only **one person loved the colored USA logo**, and this was a Veteran who had previously worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
 > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored it, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it" (p2).*
 
 > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (p10).*
 
-1. **Two participants liked the black/white USA logo** in the footer better than the colored one in the header because it stands out, looks good, and seems more official. 
+1. **Two participants liked the black/white USA logo in the footer better than the colored one** in the header because it stands out, looks good, and seems more official. 
 > *"It just seems a little bit more boring and professional to me" (p8).*
 
 ## Next Steps
-- Synthesize data
-- Write research report
+- Plan Phase 2 of research
+- Do more data synthesis
+- Write full research report
