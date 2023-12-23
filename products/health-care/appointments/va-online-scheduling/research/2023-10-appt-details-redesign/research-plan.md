@@ -60,10 +60,10 @@ Retiring
 2. Testing hierarchy of details page information.
 3. Evaluate how understandable the empty states.
 4. Evaluating the use of buttons and links.
-5. Test the findability of the After Visit Summary.
+5. Test the findability of the after Visit Summary.
 6. Test navigation to and from the Next of Kin/Emergency Contact
 7. Test changes to the cancelation flow.
-8. Test print flow.
+8. Evaluate print page.
    
 
 
@@ -75,10 +75,13 @@ We will use the findings to:
 
 1. Make any necessary changes to finalize the appointment details designs.
 2. Make any necessary changes to finalize the new cancellation flow.
+3. Make any necessary changes to finalize the after visit summary entry point.
+   * Relay findings to the after visit summary team
+5. Make any necessary changes to finalize the pre check-in entry point.
+   * Relay findings to the profile team.
 
 
 ### Hypotheses
-
 
 
 * **Cancelation**:
@@ -86,11 +89,16 @@ We will use the findings to:
 * **Details Pages:**
     * Participants will be able to find their appointment information easily.
 * **CTA’s**:
-    * On an upcoming appointment details page, participants will find the secondary buttons before finding the join appointment CTA. 
+    * On an upcoming appointment details page, participants will find the secondary buttons before finding the join appointment CTA.
+* **After Visit Summary**
+    * Participants will be able to easily find their after visit summary
+* **Pre Check-in**
+    * Participants will understand the pre check-in task.
+    * Participants will be able to easily navigate to health care contacts page.
+    * Participants will be able to navigate back to the appointments page.
 
 
 ### Research Questions
-
 
 
 * **Cancelation:**
@@ -100,12 +108,17 @@ We will use the findings to:
     * Do Veterans know where to go for their appointment?
     * Do Veterans know how to prepare for their appointment?
     * What do Veterans expect to do on the details page?
-    * Do Veterans know how to join their telehealth appointments.
-    * What is the first action veterans take on an appointment details page.
+    * Do Veterans know how to join their telehealth appointments?
+    * What is the first action veterans take on an appointment details page?
 * **CTA's:**
-    * What is the first action veterans take on an appointment details page.
-* **Tasks**
-   * What is the findability of the actions in the details pages (AVS, pre-check-in)
+    * What is the first action veterans take on an appointment details page?
+    * Can Veterans distinguish between the different tasks on the details page?
+* **After Visit Summary**
+    * How easily can the veteran find their after visit summary?
+* **Pre Check-in**
+    * Do Veterans understand what pre check-in is?
+    * Can Veterans easily navigate to the profile page for pre check-in?
+    * Can Veterans easily get back to their appointments?
      
 
 
@@ -137,12 +150,10 @@ Perigean will recruit 12 participants for this study who are active MyHealtheVet
 Primary criteria
 
 
-
 * 6 participants who primarily use a desktop/laptop computer.
 * 6 participants who primarily use a mobile device.
 
 Secondary criteria:
-
 
 
 * At least 1 veteran with a cognitive disability
