@@ -1,5 +1,6 @@
 # Background on Discharge Upgrades 
 Credit: [Stripes.com](https://www.stripes.com/news/veterans/thousands-of-veterans-with-bad-paper-discharges-might-not-know-they-can-upgrade-1.647817#:~:text=Since%20the%20measure%20went%20into,Sen.)
+Oct 7, 2020
 
 WASHINGTON — Veterans kicked out of the military due to negative behavior related to post-traumatic stress disorder, traumatic brain injury and sexual trauma have been upgrading their discharges after a 2017 law change, but there are potentially thousands of others left without access to care or benefits because of less-than-honorable discharges.
 

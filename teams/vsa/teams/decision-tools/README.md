@@ -36,7 +36,7 @@ Unauthenticated Experience for VA.gov
 ### Product Portfolio:
 - [Find a VA Form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
 - [Find a Yellow Ribbon School](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/README.md)
-- [Discharge Upgrade Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/readme.md)
+- [Discharge Upgrade Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/readme.md)
 
 ### Responsibilities:
 1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to make decisions about qualifying and applying for VA benefits.

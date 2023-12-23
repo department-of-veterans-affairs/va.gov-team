@@ -750,7 +750,7 @@ https://www.va.gov/discharge-upgrade-instructions/questions
 The discharge update wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview. 
 
 **More info:**
-* [Discharge Update wizard product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
+* [Discharge Upgrade wizard product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
 
 ## Downtime messaging

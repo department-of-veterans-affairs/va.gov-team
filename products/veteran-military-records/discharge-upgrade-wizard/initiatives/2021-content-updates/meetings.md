@@ -116,7 +116,7 @@
 ### Pre-Meeting Notes
 - Bug I observed - the drop-down does not have 1992 as an option. Pre-1992 is there, but not 1992 itself.
 - How it works - different sections of content are shown based on the user's answers.
-- Content logic documented at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/dw-content.md
+- Content logic documented at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/dw-content.md
 - Mapping out logic in Mural: https://app.mural.co/t/vsa8243/m/vsa8243/1621532440874/8a3ee02c63bf5216b24fb01025e1e109b43d5407
 
 ### Meeting Notes
