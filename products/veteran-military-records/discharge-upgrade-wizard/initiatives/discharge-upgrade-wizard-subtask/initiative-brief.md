@@ -22,3 +22,6 @@ Based on learnings from the PACT Act wizard, this effort will improve the abilit
 ## Background
 
 The wizard pattern has been deprecated by DST in favor of the Subtask pattern. The Discharge Upgrade Wizard needs to be converted to a subtask pattern. Designs for this can be found in [this Sketch file](https://www.sketch.com/s/20ea8818-8846-4f47-b341-7dc0ee6fc57e).
+
+## Epic
+https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12043
