@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-**Last Updated:** Oct 5, 2023
+**Last Updated:** December 26, 2023 (added Figma links)
 
 ## Table of Contents
 
@@ -133,7 +133,8 @@ Needs to be filled out by Adam.
 
 ## Design & UX
 
-- [Personal information sketch files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
+- [Personal information sketch files, to be deprecated in early 2024](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
+- [Figma files, onboarding in early 2024](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0%3A98&mode=design&t=ZBL2UgsSlzGXuQlA-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/use-cases)
 - [Personal information revision UX decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/design/personal-info-ux-decisions.md)
 
