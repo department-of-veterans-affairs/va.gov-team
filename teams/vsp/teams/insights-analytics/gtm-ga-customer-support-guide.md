@@ -48,7 +48,7 @@
 
 ### General
 - Almost every ticket will more than likely need _some_ data layer specification provided, that said now with our [design system standardization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking), some will require much less custom `recordEvent` pushes than others based on the amount of customization requested
-- Nonethless, when a data layer specification is supplied, a comment should be left clearly calling out the specification for VFS developers to implement with a tag to the appropriate developer (reference [VFS roster](https://www.va.gov/atlas/product_directory/team_members)
+- Nonethless, when a data layer specification is supplied, a comment should be left clearly calling out the specification for VFS developers to implement with a tag to the appropriate developer (reference [the VFS team list](https://www.va.gov/atlas/product_directory/team_members)
 - One of the first things that is good to identify is whether the page is a static page or not AND if it's available within staging currently -- this will help identify how much of the app will automatically be tracked, see sections below for each scenario
 - The following table should serve as a reference for documenting the data layer:
 

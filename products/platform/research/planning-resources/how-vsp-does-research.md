@@ -160,7 +160,7 @@ Create a spreadsheet of potential participants, and include the following inform
 *   Accepted? (Yes/no)
 *   Date scheduled
 
-If your users are VFS team members, you can refer to the[ VFS Roster](https://www.va.gov/atlas/product_directory/team_members) to find up-to-date list of VFS teams. If your users are Veterans, please reach out to Lauren Alexanderson to review your research plan, conversation guide and help recruit Veterans.
+If your users are VFS team members, you can refer to the [team list in Atlas](https://www.va.gov/atlas/product_directory/team_members) to find up-to-date list of VFS teams. If your users are Veterans, please reach out to Lauren Alexanderson to review your research plan, conversation guide and help recruit Veterans.
 
 
 
