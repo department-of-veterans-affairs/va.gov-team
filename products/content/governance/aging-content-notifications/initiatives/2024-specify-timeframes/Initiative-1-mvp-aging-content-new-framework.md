@@ -26,7 +26,7 @@ Veterans, their caregivers and other users of VA.gov will see banners with only 
 Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
 
 ## Desired Business Outcomes
-If Editors don't take action to either extend or archive their full-width banner content, then when the End Date/Time is reached, the content will be auto-archived. Note that notifications to Editors is part of the [MVP Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/aging-content/Initiative-aging-content-type-banner-notifications-mvp.md)
+If Editors don't take action to either extend or archive their full-width banner content, then when the End Date/Time is reached, the content will be auto-archived. Note that notifications to Editors is part of the [MVP Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/2024-specify-timeframes/Initiative-2-aging-content-type-banner-notifications.md)
 
 ## Undesired Business Outcomes
 Editors ignore the notification emails, and content they meant to extend is auto-archived and needs to be manually recreated (auto-archiving is permanent).
