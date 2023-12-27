@@ -1,4 +1,12 @@
 # My HealtheVet Medallia feedback 
+Medallia feedback on My HealtheVet is collected via two distinct surveys: 
+* A11 "Intercept" survey - launches a modal window inviting users to take the survey; it intercepts 5% of sessions where the user visits 3 or more pages.
+* VFS "Feedback button" survey - used to collect user feedback for specific Veteran Facing Services; it is accessed by a floating feedback button on the right-hand side of specific URLs. Access to this survey is persistent and is more likely to be sought by Veterans who are experiencing a pain point online.
+
+Sitewide Medallia information (more global than healthcare-only responses) can be found on this [Domo dashboard](https://va-gov.domo.com/page/825663825). 
+
+## Summary
+High-level data spanning both surveys
 
 <table>
   <caption><b>Overall metrics by date range</b></caption>
