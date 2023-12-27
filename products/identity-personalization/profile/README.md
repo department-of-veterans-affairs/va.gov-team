@@ -100,8 +100,8 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 |Project|Status|
 |----|----|
-|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Preparing for Staging Review|
 |Enhanced Military Information|Discovery/Initial Design|
+|Authenticated Menu + Redesigned Header/Footer|Discovery|
 
 ### Completed projects & enhancements
 
@@ -113,6 +113,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Launched December 19, 2023|
 |[Authenticated Menu Updates (adding Letters and Dependents)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter)|October 4, 2023|
 |[Disability rating EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md) |September 2023 |
 |[Semantic list improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618)|March 2023|
