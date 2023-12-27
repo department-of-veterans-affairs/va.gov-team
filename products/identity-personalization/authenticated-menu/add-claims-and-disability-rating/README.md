@@ -36,7 +36,7 @@ Sitewide Public Websites
 
 We had substantial success by adding [letters and dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/README.md) to the Authenticated Menu in 2023. 
 
-We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Claims_** and **_Disability Rating_** inforamtion. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experiance team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
+We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Claims_** and **_Disability Rating_** information. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
 
 ## Problem Statement
 
@@ -48,11 +48,11 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-- By elevating Claims and Disability Rating inforamtion in the authenticated menu, users should be able to more easily find these tools.
+- By elevating Claims and Disability Rating information in the authenticated menu, users should be able to more easily find these tools.
 
 ### Undesired User Outcomes
 
-- Users still look for Claims and Disability Rating inforamtion in the profile.
+- Users still look for Claims and Disability Rating information in the profile.
 
 ## Business Outcomes
 
@@ -60,7 +60,7 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Adding links to Claims and Disability Rating inforamtion in the authenticated menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
+- Adding links to Claims and Disability Rating information in the authenticated menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
 - Our first experiment in this menu helped prove out that we can/should more holistically leverage the authenticated menu to support the authenticated experience, we're hoping to see a continued trend here that the authenticated menu can be a helpful tool for the logged in experience 
 
 ### Undesired Business Outcomes
@@ -72,7 +72,7 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 ### Objective #1: Increase findability of Claims and Disability Rating 
 
 
-**KPI: See variations on "Claims" and "Disability Rating" inforamtion entirely removed from the top 10 search terms within the profile.**
+**KPI: See variations on "Claims" and "Disability Rating" information entirely removed from the top 10 search terms within the profile.**
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
@@ -126,8 +126,6 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 |Clicks into "**disability rating**" from the authenticated menu|||||
 
 **KPI: Track what kind of impact adding Claims and Disability Rating to the auth menu has on pageviews.**
-
-Note: Increaseing pageviews was not originally part of our goals. We decided to document these metrics post-launch given the substantial change caused by adding these links to the auth menu.
 
 - add link to [Pageviews for claims page]()
 - add link to [Pageviews for disability rating page]()
