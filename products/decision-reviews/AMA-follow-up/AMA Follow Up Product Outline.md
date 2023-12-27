@@ -1,12 +1,12 @@
 # Appeal Modernization Process (AMA)- Follow Up Changes Outline
 
-# Communications
+# Communications 2020
  - Team Name: Public Websites
  - GitHub Label: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
  - Slack channel: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
  
 
-# Team Members
+# Team Members, 2020
 |Name|Role|
 |----|----|
 |Jennifer Lee	| Public Websites Product Owner|
