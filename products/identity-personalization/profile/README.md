@@ -98,10 +98,18 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ### Current projects
 
+Current projects are actively managed in the AE Profile Github project. See [this page of the project for the roadmap by phase](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/39), or see [this page for a classic gantt chart roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10). 
+
 |Project|Status|
 |----|----|
 |Enhanced Military Information|Discovery/Initial Design|
-|Authenticated Menu + Redesigned Header/Footer|Discovery|
+|Authenticated Menu Expansion (as part of Redesigned Header/Footer)|Preparing for Usability Testing|
+|MHV Migration / Email as a Channel|Dev|  
+|Maintenance Period Alerts|Dev|
+|CICD|Dev|
+|DD C&P migration from EVSS to LH|Post Launch|
+|Editing as a subtask|Post Launch|
+|Default Send/Checkboxes|Post Launch|
 
 ### Completed projects & enhancements
 
