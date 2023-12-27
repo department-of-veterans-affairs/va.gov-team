@@ -184,7 +184,7 @@ Question 3: What task were you trying to do today?
 ## Problems users faced
 
 <table>
-  <caption><b>Overall metrics by date range</b></caption>
+  <caption><b>Problems encountered by users</b></caption>
   <tr>
     <td></td>
     <th scope="col">4/1/23-10/31/23</th>
@@ -192,32 +192,32 @@ Question 3: What task were you trying to do today?
   </tr>
   <tr>
     <th scope="row">Technical problems</th>
-    <td>--</td>
+    <td>12 responses</td>
     <td>8 responses</td>
   </tr>
   <tr>
     <th scope="row">Login/access issues</th>
-    <td>--</td>
+    <td>11 responses</td>
     <td>15 responses</td>
   </tr>
   <tr>
     <th scope="row">Findability</th>
-    <td>--</td>
+    <td>5 responses</td>
     <td>1 response</td>
   </tr>
   <tr>
-    <th scope="row">Confusing or missing context or explanation</th>
-    <td>--</td>
+    <th scope="row">Missing context or explanation</th>
+    <td>1 response</td>
     <td>4 responses</td>
   </tr>
   <tr>
     <th scope="row">Couldn't get help</th>
-    <td>--</td>
-    <td>1 responses</td>
+    <td>1 response</td>
+    <td>1 response</td>
   </tr>
   <tr>
     <th scope="row">Issues with travel reimbursement</th>
-    <td>--</td>
+    <td>2 responses</td>
     <td>2 responses</td>
   </tr>
   <tr>
@@ -232,23 +232,36 @@ Question 3: What task were you trying to do today?
   </tr>
 </table>
 
-* **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content) (12 users)
-* **Login issues** (11 users)
-* **Findability** - couldn’t find something (5 users)
-* **Issues with travel reimbursement** (2 users)
-* **Missing context or explanation** for users to interpret/understand their medical information (1 user)
-* **Helpdesk wasn’t working** or unavailable to solve a problem (1 user)
+**Additional context around problems users encountered:**
+* **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content)
+* **Login issues**
+* **Findability** - couldn’t find something 
+* **Issues with travel reimbursement** 
+* **Missing context or explanation** for users to interpret/understand their medical information
+* **Couldn't get help** from call center or the MHV Helpdesk was unresponsive. 
+* **No updates for claims** or process seemed opaque / users want more transparency around status
 
 ### Fixable(?) problems
-* 3 users were caught in a loop of trying to register for MHV, or trying to upgrade to a Premium account
+* 6 users were caught in a loop of trying to register for MHV, or trying to upgrade to a Premium account
 * 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
 * 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
 * 1 user wanted but couldn't figure out how to enter flu shot data to their medical record
+* 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
+* 1 user was unable to add a second address to their profile (need different billing and shipping addresses)
+* 1 user described desire for information sheets and help with terminology around a diagnosis for family members to help them navigate medical appointments. 
 
 ## Joys users expressed
-* Learned new things (1 user)
-* Ease of use and clear navigation (7 users)
-* Saw correct information (2 users)
+* Learned new things 
+* Ease of use and clear navigation 
+* Saw correct information
+
+## Positive quotes from Veterans
+* "I feel like they [VA.gov] are doing a great job." - 12/3/23, Desktop user
+* "Feels secure getting on. Easy navigation." 12/5/23, Desktop user
+* "All information was readily available." - 12/9/23, Desktop user
+* "I am not an educated person or very good with computers, but the VA site has been very easy for me to use." - 11/1/23, Desktop user
+* "The new format [on VA.gov] is a lot easier to use." - 11/7/23, Desktop user
+* "Easy logon, easy navigation. Perfect experience." - 11/18/23, Desktop user
 
 
 
