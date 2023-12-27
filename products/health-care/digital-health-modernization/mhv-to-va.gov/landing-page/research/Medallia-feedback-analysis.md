@@ -102,6 +102,53 @@ High-level data spanning both surveys
   </tr>
 </table>
 
+<table>
+  <caption><b>Trust levels with the VA</b></caption>
+  <tr>
+    <td></td>
+    <th scope="col">4/1/23-10/31/23</th>
+    <th scope="col">11/1/23-12/15/23</th>
+  </tr>
+  <tr>
+    <th scope="row">Total responses</th>
+    <td>56</td>
+    <td>64</td>
+  </tr>
+  <tr>
+    <th scope="row">VA.gov trust</th>
+    <td>--</td>
+    <td>
+      <li>Score 1: 13 users</li>
+      <li>Score 2: 8 users</li>
+      <li>Score 3: 11 users</li>
+      <li>Score 4: 8 users</li>
+      <li>Score 5: 19 users</li>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">General VA trust</th>
+    <td>--</td>
+    <td>
+      <li>Score 1: 16 users</li>
+      <li>Score 2: 6 users</li>
+      <li>Score 3: 21 users</li>
+      <li>Score 4: 4 users</li>
+      <li>Score 5: 9 users</li>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Trust in VA commitment to Veterans</th>
+    <td>--</td>
+    <td>
+      <li>Score 1: 9 users</li>
+      <li>Score 2: 7 users</li>
+      <li>Score 3: 10 users</li>
+      <li>Score 4: 13 users</li>
+      <li>Score 5: 16 users</li>
+    </td>
+  </tr>
+</table>
+
 Other: 
 * Users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large.
 * Users who give high scores for their overall experience also gave higher scores regarding their familiarity with VA.gov, were more trustworthy of the VA, and reported higher scores for their experience with the VA writ large.
