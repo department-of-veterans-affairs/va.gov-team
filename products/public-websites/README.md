@@ -6,6 +6,11 @@ April 2022: Public Websites products are currently maintained by the [Sitewide P
 
 VA Product Owner = Dave Conlon (@davidconlon)
 
+### Intake
+If you need help with a product listed below, file a [Public websites intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2CFranECross&labels=Public+Websites%2CNeeds+refining&projects=&template=public-websites-intake.yml&title=PW+intake%3A+%3CType+of+Request%3E+from+%3CTeam%3E) and post the link to the team's slack channel, listed below. 
+
+All requests will be refined and planned according to other team priorities, so please make us aware of your timing requirements as soon as you're able, for urgent requests.
+
 ### Slack
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
