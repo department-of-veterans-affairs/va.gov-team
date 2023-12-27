@@ -102,11 +102,14 @@ Current projects are actively managed in the AE Profile Github project. See [thi
 
 |Project|Status|
 |----|----|
-|Enhanced Military Information|Discovery/Initial Design|
+|Alert Consistency|Discovery|
+|Enhanced Military Information|Design|
 |Authenticated Menu Expansion (as part of Redesigned Header/Footer)|Preparing for Usability Testing|
 |MHV Migration / Email as a Channel|Dev|  
 |Maintenance Period Alerts|Dev|
-|CICD|Dev|
+|CICD (tech debt)|Dev|
+|USWDS V3 Component Updates (technical debt)|Dev|
+|Migrate to Figma (design technical debt)|Dev|
 |DD C&P migration from EVSS to LH|Post Launch|
 |Editing as a subtask|Post Launch|
 |Default Send/Checkboxes|Post Launch|
