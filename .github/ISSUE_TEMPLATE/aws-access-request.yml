@@ -110,7 +110,9 @@ body:
     attributes:
       label: E-QIP Transmittal Confirmation
       description: |
-        Your transmittal confirmation should contain the words "Transmittal Notice" in the subject of the email. If it doesn't, your E-QIP has not begun processing on the VA side. **NOTE: Do not submit PDF copies of your E-QIP document! These usually contain your social security number and other PII**
+        **NOTE: Do not submit PDF copies of your E-QIP document! These usually contain your social security number and other PII**
+
+        Your transmittal confirmation should contain the words "Transmittal Notice" in the subject of the email. If it doesn't, your E-QIP has not begun processing on the VA side.
       placeholder: Drag your transmittal confirmation email screenshot here
     validations:
       required: true
