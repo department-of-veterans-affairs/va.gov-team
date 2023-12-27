@@ -219,7 +219,7 @@ The following information comes from **VA Profile**:
 - Military information
 - Notification preferences
 
-The following information comes from **EVSS**:
+The following information comes from **Lighthouse**:
 
 - Direct deposit for comp & pen
 
