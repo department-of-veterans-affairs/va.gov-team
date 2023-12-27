@@ -182,6 +182,56 @@ Question 3: What task were you trying to do today?
 
 
 ## Problems users faced
+
+<table>
+  <caption><b>Overall metrics by date range</b></caption>
+  <tr>
+    <td></td>
+    <th scope="col">4/1/23-10/31/23</th>
+    <th scope="col">11/1/23-12/15/23</th>
+  </tr>
+  <tr>
+    <th scope="row">Technical problems</th>
+    <td>--</td>
+    <td>8 responses</td>
+  </tr>
+  <tr>
+    <th scope="row">Login/access issues</th>
+    <td>--</td>
+    <td>15 responses</td>
+  </tr>
+  <tr>
+    <th scope="row">Findability</th>
+    <td>--</td>
+    <td>1 response</td>
+  </tr>
+  <tr>
+    <th scope="row">Confusing or missing context or explanation</th>
+    <td>--</td>
+    <td>4 responses</td>
+  </tr>
+  <tr>
+    <th scope="row">Couldn't get help</th>
+    <td>--</td>
+    <td>1 responses</td>
+  </tr>
+  <tr>
+    <th scope="row">Issues with travel reimbursement</th>
+    <td>--</td>
+    <td>2 responses</td>
+  </tr>
+  <tr>
+    <th scope="row">No updates for claims</th>
+    <td>--</td>
+    <td>1 response</td>
+  </tr>
+  <tr>
+    <th scope="row">Confusion around two MHV experiences</th>
+    <td>--</td>
+    <td>1 response</td>
+  </tr>
+</table>
+
 * **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content) (12 users)
 * **Login issues** (11 users)
 * **Findability** - couldn’t find something (5 users)
