@@ -23,4 +23,4 @@ www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/
 6. Please tag the issue with:
 - Content and IA team labels  - `content-ia-team` and `ia` 
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
-- Assign issue to @mnorthuis, @meganhkelley
+- Assign issue to @mnorthuis
