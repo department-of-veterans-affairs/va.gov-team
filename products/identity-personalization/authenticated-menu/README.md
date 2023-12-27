@@ -67,6 +67,7 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 |Project/Inititive|Epic|Launch date|
 |---|---|---|
+|
 |Add Letters and Dependents links ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter))|[EPIC \| Profile \| Authenticated Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)| Launched October 4, 2023|
 
 ## Design
