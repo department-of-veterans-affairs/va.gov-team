@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: October 10, 2023 -- updated completed projects**
+**Last Updated: 12/27/2023 -- updated projects**
 
 ## Table of Contents
 
