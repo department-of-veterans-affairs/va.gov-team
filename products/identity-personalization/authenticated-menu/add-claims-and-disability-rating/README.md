@@ -15,6 +15,10 @@
 
 [This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
+### Partners 
+Sitewide Public Websites
+- **Slack channel**: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
+  
 ### Table of Contents
 
 - [Overview](#overview)
@@ -32,11 +36,11 @@
 
 We had significant success by adding [letters and dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/README.md) to the Authenticated Menu in 2023. 
 
-We're hoping to build on that success by expanding the tools linked from the Authenticated Menu. 
+We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to Claims and Disability Rating inforamtion. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experiance team can help support by running usability testing with the new design incorporating the additional tools. 
 
 ## Problem Statement
 
-Users have trouble finding dependent information and where to 
+[We analyzed user activity on the site](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71332) to determine which pages veterans are visiting most often and the searches. The most frequently visited pages are also frequently searched leading us to conclude these items being incorporated into the authenticated menu would increase the visibility of these pages that have high traffic.   
 
 ## User Outcomes
 
@@ -44,11 +48,11 @@ Users have trouble finding dependent information and where to
 
 *Why would a user want to use this? With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-- By elevating dependent and letters in the authenticated menu, users should be able to more easily find these tools.
+- By elevating Claims and Disability Rating inforamtion in the authenticated menu, users should be able to more easily find these tools.
 
 ### Undesired User Outcomes
 
-- Users still look for dependent and letters in the profile.
+- Users still look for Claims and Disability Rating inforamtion in the profile.
 
 ## Business Outcomes
 
@@ -56,60 +60,59 @@ Users have trouble finding dependent information and where to
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Adding links to dependents and letters to the personalized menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
-- This may help prove out that we can/should more holistically leverage the authenticated menu to support the authenticated experience.
+- Adding links to Claims and Disability Rating inforamtion in the authenticated menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
+- Our first experiment in this menu helped prove out that we can/should more holistically leverage the authenticated menu to support the authenticated experience, we're hoping to see a continued trend here that the authenticated menu can be a helpful tool for the logged in experience 
 
 ### Undesired Business Outcomes
 
-- Adding these links to the authenticated menu doesn't move metrics, and we're back at square one.
+- Adding these links to the authenticated menu doesn't move metrics
 
 ## Measuring Success
 
 ### Objective #1: Increase findability of Claims and Disability Rating 
 
-**When filling in data -- update dates to be 1 month pre-launch and every week for one month post launch (to 100%)**
 
-**KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms within the profile.**
+**KPI: See variations on "Claims" and "Disability Rating" inforamtion entirely removed from the top 10 search terms within the profile.**
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#3 (and 6,8)|#2 (and 3,8)|#3 (and #10)|#4 (and 6,9,10)|#5|#5|
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1 (and 2,4,9)|#1 (and 4,5,10)|#1|#2|#3|#1|
+|Search rank for "**claims**” or similar from the profile (record whatever variation has the highest rank)|||||||
+|Search rank for "**disability rating**” or similar from the profile (record whatever variation has the highest rank)|||||||
 
 **KPI: See overall reduction in "dependents" and "letters" searches within the profile.**
 
-|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**letters**” searches in the top 10 profile searches|189|121|63 (-48% from 1-week pre-launch)|111 (-9% from 1-week pre-launch: +76% from 1-week post-launch)|27 (-78% from 1-week pre-launch)|33 (-73% from 1-week pre-launch) |
-|Raw number of "**dependents**” searches in the top 10 profile searches|426|239|55 (-77% from 1-week pre-launch)|41 (-83% from 1-week pre-launch)|33 (-86% from 1-week pre-laumch)|51 (-79% from 1-week pre-launch)|
+|Raw number of "**claims**” searches in the top 10 profile searches|||||||
+|Raw number of "**disability rating**” searches in the top 10 profile searches|||||||
 
 **KPI: See variations on "dependents" and "letters" entirely removed from the top 10 search terms on VA.gov as a whole.**
 
 [Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
 
-|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**letters**” or similar from the profile (record whatever variation has the highest rank)|#2 (5,9)|#3 (and 5)|#2 (and 10)|#2 (and 10)|#2|#2|
-|Search rank for "**dependents**” or similar from the profile (record whatever variation has the highest rank)|#1|#1|#3|#5|#6|#7|
+|Search rank for "**claims**” or similar from the profile (record whatever variation has the highest rank)|||||||
+|Search rank for "**disability rating**” or similar from the profile (record whatever variation has the highest rank)|||||||
 
 **KPI: See overall reduction in "dependents" and "letters" searches on VA.gov as a whole.**
 
-|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**letters**” searches in the top 10 VA.gov searches|3,549|2,665|1,653 (-38% from 1-week pre-launch)|1,755 (-34% from 1-week pre-launch; +6% from 1-week post-launch)|1078 (-60% from 1-week pre-launch)|1,025 (-62% from 1-week pre-launch)|
-|Raw number of "**dependents**” searches in the top 10 VA.gov searches|1,929|1,762|957 (-46% from 1-week pre-launch)|834 (-53% from 1-week pre-launch)|810 (-54% from 1-week pre-launch)|752 (-57% from 1-week pre-launch)|
+|Raw number of "**claims**” searches in the top 10 VA.gov searches|||||||
+|Raw number of "**disability rating**” searches in the top 10 VA.gov searches|||||||
 
 **KPI: See no increase in bounce rates from the Dependents and Letters pages (increase in bounce rate = people found the page but not what they were looking for).**
 
-- [Bounce rate for Letters page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Frecords~2Fdownload-va-letters~2Fletters~2Fconfirm-address~2F/)
-- [Bounce rate for Dependents page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fview~2F/)
+- add link to [Bounce rate for claims page]()
+- add link to [Bounce rate for disability rating page]()
 
-|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Bounce rate for "**Letters**” |1.98%|2.23%|0.96%|1.33%|0.57%|1.13%|
-|Bounce rate for "**Dependents**”|0.55%|0.27%|0.89%|0.24%|0.52%|0.89%|
+|Bounce rate for "**claims**” |||||||
+|Bounce rate for "**disability rating**”|||||||
 
 ### Objective #2: Explore using authenticated menu as a place to elevate links to tools.
 
@@ -117,10 +120,10 @@ Users have trouble finding dependent information and where to
 
 [GA Dashboard for Auth Menu](https://analytics.google.com/analytics/web/#/dashboard/jTwco5hFRBmuXcjZN9YSPA/a50123418w177519031p176188361/_u.date00=20230901&_u.date01=20231004)
 
-|KPI/metric|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
-|----------|-------------|---------------|-------------------|-------------------|
-|Clicks into "**Letters**" from the authenticated menu |44,825|50,170|52,545|50,681|
-|Clicks into "**Dependents**" from the authenticated menu|23,204|25,611|27,597|26,397|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
+|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
+|Clicks into "**claims**" from the authenticated menu |||||||
+|Clicks into "**disability rating**" from the authenticated menu|||||||
 
 **KPI: Track what kind of impact adding Letters and Dependents to the auth menu has on pageviews.**
 
@@ -129,10 +132,10 @@ Note: Increaseing pageviews was not originally part of our goals. We decided to 
 - [Pageviews for Letters page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Frecords~2Fdownload-va-letters~2Fletters~2Fconfirm-address~2F/)
 - [Pageviews for Dependents page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fview-change-dependents~2Fview~2F/)
 
-|KPI/metric|Baseline: 2 weeks pre-launch [9/20 - 9/26/2023]|Baseline: 1 week pre-launch [9/27 - 10/3/2023]|1 week post-launch to 100% [10/4 - 10/10]|2 weeks post-launch to 100% [10/11 - 10/17]| 3 weeks post-launch to 100% [10/18 - 10/24]|4 weeks post-launch [10/25 - 10/31]|
+|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
 |----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Pageviews for "**Letters**” |48,255|48,396|89,967 (+86% from 1-week pre-launch)|97,549 (+102% from 1-week pre-launch)|99,070 (+105% from 1-week pre-launch)|95,496 (+97% from 1-week pre-launch)|
-|Pageviews for "**Dependents**”|16,937|16,295|37,349 (+129% from 1-week pre-launch)|41,045 (+152% from 1-week pre-launch)|43,103 (+165% from 1-week pre-launch)|41,638 (+155% from 1-week pre-launch)|
+|Pageviews for "**claims**” |||||||
+|Pageviews for "**disability rating**”|||||||
 
 ## Key deliverables
 
