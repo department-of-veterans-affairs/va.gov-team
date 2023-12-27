@@ -1,6 +1,6 @@
 # Product Outline: Authenticated Menu
 
-**Last Updated: October 4, 2023 -- updated launch date for dependents/letters**
+**Last Updated: December 27, 2023** added new project initiative
 
 ### Table of Contents
 
