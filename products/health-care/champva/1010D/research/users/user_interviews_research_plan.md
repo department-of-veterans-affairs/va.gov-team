@@ -2,9 +2,9 @@
 **This file IS NOT ready for review.**
 
 ## Background
-This research is to be conducted on a protoype of [Form 10-10D](https://www.va.gov/find-forms/about-form-10-10d/), which is a component of the application for [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/). At the time this research plan is being written, Form 10-10D is a fillable PDF that applicants must print and mail in. The overall goal of the [project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/product-outline.md) is to create a fully digitized form that Veterans and/or family members can use to streamline their application process.
+This research will consist of open-ended questions regarding [Form 10-10D](https://www.va.gov/find-forms/about-form-10-10d/), which is a component of the application for [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/). At the time this research plan is being written, Form 10-10D is a fillable PDF that applicants must print and mail in. The overall goal of the [project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/product-outline.md) is to create a fully digitized form that Veterans and/or family members can use to streamline their application process.
 
-The purpose of this research is to explore the usability of our prototyped Form 10-10D and identify opportunities to improve the experience. Based on participant feedback, we will iterate on the prototype and implement it on va.gov.
+The purpose of this research is to explore the process of applying for CHAMPVA benefits and filling out Form 10-10D to identify opportunities to improve the experience. Based on participant feedback, we will iterate on the prototype presented in design intent, conduct at least one round of [user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/user_testing_research_plan.md), and implement the new Form 10-10D on va.gov.
 
 ### OCTO Priorities 
 1. Enhance Veterans’ personalized online experience
@@ -17,63 +17,53 @@ The purpose of this research is to explore the usability of our prototyped Form 
 ## Research Goals	
 The goals of this research are to:
 
-1. Determine whether or not the flow and copy in the 10-10D prototype are usable and understandable for those filling out the form on their own behalf and those filling it out for someone else
-2. Determine whether or not the flow and copy are usable and understandable for participants who do have other forms of health insurance and those who don't have other forms of health insurance
-3. Determine whether or not the prototype is usable and understandable in both an authenticated and unauthenticated state
+1. Understand the user experience in applying for CHAMPVA benefits
+2. Identify current pain points with the CHAMPVA application process and Form 10-10D specifically 
+3. Determine user wants and needs for the CHAMPVA application process and Form 10-10D specifically
 
 ### Research questions
-1. Are participants able to use and understand the partially pre-populated form as an authenticated user?
-2. Are participants able to use and understand the form as an unauthenticated user?
-3. Are participants able to use and understand the form when filling it out for themselves and when filling it out for someone else?
-4. Are participants able to easily add more than one applicant for the form?
-5. What are opportunties to streamline the flow and make the form feel less redundant for users?
-6. Are participants able to easily understand how to upload supplementary documents and why they're being asked for those documents?
-7. Do participants who have other health insurance understand why are asked to fill out additional information and add additional documents?
-8. What is the overall sentiment about the experience?
+**For users that have applied for CHAMPVA benefits in the past:**
+1. Why do participants apply for CHAMPVA benefits?
+2. What were participants' experiences when applying for CHAMPVA benefits?
+3. How do particpants believe the application process can be improved?
+   
+**For users that have never applied for CHAMPVA benefits:**
+4. Why have these participants not applied for CHAMPVA benefits?
+5. What difficiulties do participants expect when applying for CHAMPVA benefits?
+6. How do participants believe that a digitization effort could improve the application process?
 
-### Hypothesis
-Our hypothesis is that users will be able to navigate through the form relatively easily, but may have issues with the following:
-- Understanding why they're being asked for certain information, including:
-	- Sponsor's date of death
- 	- Whether the Sponsor died during service
- 	- Contact information 
-- Redundancy of information, such as asking for an address, email address, and phone number for each applicant
-- Understanding their progress through the form
-- Understanding to correctly report other insurance information
+### Hypotheses
+**For users that have applied for CHAMPVA benefits in the past:**
+1. Participants who **have** applied for CHAMPVA benefits will have done so because they believe they will substantially benefit from the program.
+2. Participants experience confusion and frustration around the application process, especially surrounding supplementary documentation.
+3. Participants will hope that, because VA has much of the information that Form 10-10D asks for, much of the process can be automated for them.
+   
+**For users that have never applied for CHAMPVA benefits:**
+4. Participants who **have not** applied for CHAMPVA benefits will not have done so because they do not understand the benefits of the program or because they believe the application will be too difficult.
+5. Participants will expect the application process to be confusing and that it will take a long time.
+6. Participants will hope that the digitization effort will reduce the amount of time it will take to apply for benefits, or that they can be directly matched with programs that will benefit them.
 
 ### Outcome
 The findings from this research will: 
-- Provide insights needed to iterate upon and refine our initial prototype of Form 10-10D
-- Demonstrate where copy needs to be rewritten to enhance clarity
+- Illuminate the user experience when applying for CHAMPVA benefits and how the digitization efforts can improve the experience
+- Provide insights to understand the service design of the CHAMPVA program
+- Provide insights needed to iterate upon and refine our initial prototype of Form 10-10D before user testing
 
 ## Methodology	
-**Usability study**
+**Open-ended user interivews**
 
-A usability study will be conducted remotely via Zoom using the Perigean contract. A remote moderator will begin with introduction questions about their experience with applying for benefits. They will then be asked to complete a series of tasks on a Figma prototype.
+Open-ended user interivews will be conducted remotely via Zoom using the Perigean contract. A remote moderator will begin with warm-up questionss. They participants will then be asked a series of questions about their experience with or perception of applying for CHAMPVA benefits.
 
-Participants will be showed one of the following four flows:
-1. An authenticated experience where the user has additional health insurance to report
-2. An authenticated experience where the user does not have additional health insurance to report
-3. An unauthenticated experience where the user has additional health insurance to report
-4. An unauthenticated experience where the user does not have additional health insurance to report
+Remote observers and note takers will be in attendance.
 
-Participants will be encouraged to talk through their exploration of the flow. Remote observers and note takers will be in attendance.
-
-### [WIP] Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
+### Research materials
 
 - [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
 	
 ## [WIP] Participants and Recruitment	
 
 ### [WIP] Recruitment approach
-Our intended audience is Veterans, spouses of Veterans, and family Caregivers for Veterans. Participants will be recruited by Perigean.
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+Our intended audience is Veterans, spouses of Veterans, and family Caregivers for Veterans who can sponsor or are eligible for CHAMPVA benefits. Participants will be recruited by Perigean.
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
@@ -82,11 +72,11 @@ We would like to work with Perigean to recruit for 15 full sessions. Therefore, 
 
 **[WIP] Primary criteria (must-haves)**
 - User groups:
-	- At least 7 Veterans
-	- At least 13 spouses of Veterans or family caregivers
-- Device
-	- 25% on phone or tablet
- 	- 75% on desktop	  
+	- At least 4 Veterans
+	- At least 9 spouses of Veterans or family caregivers
+- Application status:
+	- 60% have applied for CHAMPVA benefits
+ 	- 40% have not applied for CHAMPVA benefits, but are eligible for the program	  
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
@@ -112,9 +102,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### [WIP] Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 45 - 60 minutes
+* Buffer time between sessions: 30 minutes 
+* Maximum Sessions per day: 3 sessions
 
 ### [WIP] Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
