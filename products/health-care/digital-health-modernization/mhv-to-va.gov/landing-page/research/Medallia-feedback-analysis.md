@@ -54,6 +54,7 @@ High-level data spanning both surveys
 ## Details: A11 Intercept survey
 
 * Key c-sat score name: "VA.gov experience"
+  * Calculated by combining counts of high scores (4 & 5s) against the total number of responses (i.e. 32 high scores /64 responses = 50% CSAT)
 * Delivery: Intercept modal (randomly offered to a small percentage of users; appears in report for URL where modal appeared)
 * Customer scoring rubric: respondents score their overall experience on a scale of 1 to 5, where 5 is high. 
 
@@ -72,38 +73,34 @@ High-level data spanning both surveys
   <tr>
     <th scope="row">Overall CSAT</th>
     <td>46%</td>
-    <td>--</td>
+    <td>50%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
     <td>19 users</td>
-    <td>--</td>
+    <td>21 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
     <td>5 users</td>
-    <td>--</td>
+    <td>8 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
     <td>6 users</td>
-    <td>--</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
     <td>10 users</td>
-    <td>--</td>
+    <td>8 users</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
     <td>16 users</td>
-    <td>--</td>
+    <td>24 users</td>
   </tr>
 </table>
-
-Summary: roughly a 50/50 split on “good” vs. “bad” experience with My HealtheVet, with a CSAT of 46%
-* Low scores: 1 & 2  (24)
-* High scores: 4 & 5 (26)
 
 Other: 
 * Users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large.
