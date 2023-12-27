@@ -152,7 +152,8 @@ Note: Increaseing pageviews was not originally part of our goals. We decided to 
 
 ## Design
 
-- Add link to Sketch files
+- Current Auth Menu
+- [Public Websites Redesign](https://www.sketch.com/s/4558672b-741f-4d59-84f0-796020d3ef57/p/35AABFD6-32D4-4484-A092-69366F2D69EA/canvas)
    
 ### Before
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b3c9247e-2707-49a8-a3c2-73a3fcaa52ba)
