@@ -75,6 +75,21 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 1. Participants will be able to easily navigate to the appointments tool from all entry points.
 
+We didn't test all entry points with all participants. Results below indicate the number of participants who passed through the point listed:
+
+**Login (all)**
+<abbr title="">About half</abbr> of our participants had trouble during the login process, and <abbr title="8 out of 12">most</abbr> reported that they generally find login to be frustrating.
+
+**My VA (11)**
+All but one participant was able to navigate easily from My VA to Appointments (one used other entry points.) The one who struggled was a Cerner user, so they didn't have a direct path to the appointments tool from My VA.
+
+**Static landing page (all)** 
+<abbr title="9 out of 12">Most participants</abbr> were able to navigate to the Appointments tool through the static landing page. 5 complained about information overload on this page, or that it was frustrating to land on it after logging in. One would have abandoned the process at this page if they had to deal with it outside of the test.
+
+**My HealtheVet**
+We started most participants on VA.gov, so generally they had
+
+
 2. Participants will be able to easily print a list of their appointments. 
 
 3. Participants at Cerner facilities will be able to easily navigate to My VA Health.
