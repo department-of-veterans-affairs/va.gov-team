@@ -67,12 +67,11 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 |Project/Inititive|Epic|Launch date|
 |---|---|---|
-|
+|Add Claims Status Tool & Disability Rating |[Authenticated Menu Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452)| |
 |Add Letters and Dependents links ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter))|[EPIC \| Profile \| Authenticated Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)| Launched October 4, 2023|
 
 ## Design
 
-- Link to latest sketch files
-- Link to any documentation (needs to be created)
+- [Sketch](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas)https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas 
 
 ## Frontend
