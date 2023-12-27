@@ -12,6 +12,7 @@ ________________________________________________________________________________
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Exclude VVC and CVT from eCheck-in**
      - **Sub Goal: Change wording for wait time after checking in**
+     - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
      - **Sub Goal: Handle VVC Appointments**
      - **Sub Goal: Handle CVT Appointments**
      - **Sub Goal: Let Veterans Know when BTSSS is Down** 
@@ -38,6 +39,9 @@ ________________________________________________________________________________
          - TBD
      - **Sub Goal: Change wording for wait time after checking in**
          - TBD
+     - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
+         - 🟥 [[UX] [Content] Decide whether to have modality-specific error pages or modality-agnostic error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72429)
+         - 🟥 [[UX] [Content] Decide whether to have modality-specific accordion content or modality-agnostic accordion content](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72431) 
      - **Sub Goal: Handle CVT Appointments**
          - TBD
      - **Sub Goal: Handle VVC Appointments**
