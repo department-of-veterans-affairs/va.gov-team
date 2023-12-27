@@ -1,8 +1,13 @@
 # Discharge Upgrade Wizard Product Outline 
 
+2024 live product: https://www.va.gov/discharge-upgrade-instructions/
 
 ## Overview
 The Discharge Upgrade Wizard provides information and guidance to discharged service members who want to request a upgrade to their discharge status. 
+
+### Technical detail
+Page delivers customized content based on reason Veteran wants to upgrade discharge, date of discharge, branch of service, etc., which is collected via a wizard. No PII collected; no data stored; no backend. The wizard is a series of questions that conditionally shows content (e.g., recommended forms/steps for updating discharge records, caveats, advice, background information) to the Veteran based on relevance. Page also includes a few paragraphs of accordion content.
+
 
 ## Problem Statement
 Some service members who received a less-than-honorable discharge in the past were not eligible to receive some Veteran benefits.  With the passage of the 2017 Fairness for Veterans Act, all branches of the military now consider them to have a strong case for a discharge upgrade if they can show their discharge was connected to:
