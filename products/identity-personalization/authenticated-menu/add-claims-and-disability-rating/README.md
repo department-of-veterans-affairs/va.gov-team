@@ -36,7 +36,7 @@ Sitewide Public Websites
 
 We had substantial success by adding [letters and dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/README.md) to the Authenticated Menu in 2023. 
 
-We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to Claims and Disability Rating inforamtion. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experiance team can help support by running usability testing with the new design incorporating the additional tools. 
+We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Claims_** and **_Disability Rating_** inforamtion. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experiance team can help support by running usability testing with the new design incorporating the additional tools. 
 
 ## Problem Statement
 
