@@ -255,7 +255,7 @@ Question 3: What task were you trying to do today?
 * Ease of use and clear navigation 
 * Saw correct information
 
-## Positive quotes from Veterans
+### Positive quotes from Veterans
 * "I feel like they [VA.gov] are doing a great job." - 12/3/23, Desktop user
 * "Feels secure getting on. Easy navigation." 12/5/23, Desktop user
 * "All information was readily available." - 12/9/23, Desktop user
