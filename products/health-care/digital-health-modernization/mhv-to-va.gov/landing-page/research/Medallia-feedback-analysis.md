@@ -21,7 +21,7 @@ High-level data spanning both surveys
   <tr>
     <th scope="row">Total responses</th>
     <td>93</td>
-    <td>118</td>
+    <td>117</td>
   </tr>
   <tr>
     <th scope="row">A11 Intercept Survey</th>
