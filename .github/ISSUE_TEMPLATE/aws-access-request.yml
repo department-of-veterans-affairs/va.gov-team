@@ -48,14 +48,6 @@ body:
         - Other - please specify in 'Additional Notes'
     validations:
      required: true
-  - type: checkboxes
-    attributes:
-      label: E-QIP Transmittal Date
-      description: Have you started your E-QIP process? If not, do not submit this ticket. Ask your Vendor Onboarding Representative to confirm
-      options:
-      - label: Check this box if you have an E-QIP transmittal date.
-    validations:
-      required: true
   - type: input
     id: requestor-name
     attributes:
