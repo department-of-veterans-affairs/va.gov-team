@@ -12,6 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 12/22/2023
+- Disabled Pre-Check-in and eCheck-in for all phone, CVT, and VVC appointments based on this stop code list
+   - [Ticket 72261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72261)
+   - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/499b36ad-3231-48a6-9324-082270f5de3a)
+
 ### 12/7/2023
 - Added a review page to eCheck-in that contains the VA's terms of agreement that a Veteran must agree to in order to file a mileage-only travel reimbursement claim
     - [Epic 68073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)
