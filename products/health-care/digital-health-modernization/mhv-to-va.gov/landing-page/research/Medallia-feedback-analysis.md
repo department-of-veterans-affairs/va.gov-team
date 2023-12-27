@@ -26,30 +26,29 @@ High-level data spanning both surveys
   <tr>
     <th scope="row">A11 Intercept Survey</th>
     <td>56 responses</td>
-    <td>--</td>
+    <td>64 responses</td>
   </tr>
   <tr>
     <th scope="row">VFS Feedback Button Survey</th>
     <td>37 responses</td>
-    <td>--</td>
+    <td>53 responses</td>
   </tr>
   <tr>
     <th scope="row">Desktop users</th>
     <td>70</td>
-    <td>--</td>
+    <td>102</td>
   </tr>
   <tr>
     <th scope="row">Mobile users</th>
     <td>20</td>
-    <td>--</td>
+    <td>12</td>
   </tr>
   <tr>
     <th scope="row">Tablet users</th>
     <td>3</td>
-    <td>--</td>
+    <td>3</td>
   </tr>
 </table>
-
 
 
 ## Details: A11 Intercept survey
@@ -68,7 +67,7 @@ High-level data spanning both surveys
   <tr>
     <th scope="row">Total responses</th>
     <td>56</td>
-    <td>--</td>
+    <td>64</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
