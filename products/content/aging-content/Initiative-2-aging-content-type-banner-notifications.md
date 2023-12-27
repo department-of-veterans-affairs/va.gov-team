@@ -1,4 +1,4 @@
-# Initiative: Framwork for Configurable Aging Content Notifications - (Aging Content MVP)
+# Initiative 2: Implement Full-width Banner Aging Content Notifications Using New Framework
 
 ## Overview
 Content in general, and for the purpose of this Initiative, Full-width banners in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the alert is needed, or the banner is used for something other than its purpose. Full-width banners should be used only for informational alerts or warning alerts.
