@@ -121,20 +121,20 @@ Current projects are actively managed in the AE Profile Github project. See [thi
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
-|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|Launched December 19, 2023|
+|[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|December 19, 2023|
 |[Authenticated Menu Updates (adding Letters and Dependents)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter)|October 4, 2023|
 |[Disability rating EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md) |September 2023 |
 |[Semantic list improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19618)|March 2023|
 |[MHV Profile research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)|Presented to stakeholders June 2022|
-|[Updated layout and button styles for better screen reader experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665) | Launched July 2021 | 
-|[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Launch completed October 2020|
+|[Updated layout and button styles for better screen reader experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665) | July 2021 | 
+|[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) |  October 2020|
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 #### Personal information
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
-|[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| Launched January 19, 2023|
+|[Personal Info page: Add full name and disability rating fields](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49651)| January 19, 2023|
 |[Ability to view and update preferred name and gender identity in the VA.gov profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)| June 2022|
 |[Remove "Gender" (aka sex assigned at birth) from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36009) | February 2022 |
 
