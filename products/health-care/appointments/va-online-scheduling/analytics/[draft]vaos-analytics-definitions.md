@@ -48,6 +48,10 @@ The documentation is to provide definition and clarity as to how we are tracking
 ## Full List  
 | Event Label (custom event name from data layer) | Parameters | Definition |
 |-----|----------|-----|
+vaos-breadcrumb-/my-health-clicked | |
+vaos-breadcrumb-health-care-clicked | |
+vaos-breadcrumb-home-clicked | |
+vaos-breadcrumb-schedule-managed-clicked | |
 vaos-cancel-appointment-submission | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation was attempted
 vaos-cancel-appointment-submission-failed | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission wasn't successful
 vaos-cancel-appointment-submission-successful | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission was successful
