@@ -63,9 +63,9 @@ For this particular feature, there isn’t a way to obtain metrics from GA.
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation, instead of 365 days after, **SO THAT** I know I need to either need to (1) edit the content, adding a note that it's still needed, and thus resetting the thirty day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 12:01AM (0001) the morning of the end date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content, **I WILL** receive an email reminding me of the end date at 12:01AM (0001) the morning of the thirtyth day, **SO THAT** I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
-| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Home Page Benefit Promo Block content type, **I WILL** edit the banner and add a comment that the banner is still needed, **SO THAT** the published date range is reset to thirty days, e.g. the start date is 'today', and end date is thirty days later, inclusive, **AND** I will receive an email alert three (3) days prior to the thirtyth day after editing the content, instead of 365 days after. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
+| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation, instead of 365 days after, **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 30 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor receives email at 12:01AM (0001) the morning of the 30th day | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content, thus extending the timeframe, **I WILL** receive an email at 12:01AM (0001) the morning of the 30th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
+| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Home Page Benefit Promo Block content type, **I WILL** edit the Home Page Benefit Promo Block and add a comment that the content is still needed, **SO THAT** the published date range is reset to 30 days from 'today', e.g. the start date is 'today', and end date is 30 days later, inclusive, **AND** I will receive an email alert three (3) days prior to the 'new' 30th day after editing the content, instead of 365 days after. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date (unless the editor again edits and resets the dates).|
 
 --- 
 
@@ -95,7 +95,7 @@ For this particular feature, there isn’t a way to obtain metrics from GA.
    
 ## Screenshots
 
-N/A
+TBD example
 
 ### Before
 N/A
