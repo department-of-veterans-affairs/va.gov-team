@@ -5,7 +5,7 @@
 Allow for auto-archving of content based on the time frames assigned to a content-type
 
 ## Overview
-Content in general, and for the purpose of this Initiative, content types of Full-width Banners, Home Page News Spotlight Blocks, and Home Page Benefit Promo Blocks in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. 
+Content in general, and for the purpose of this Initiative, content types of Full-width Banners, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. 
 
 A new notification [framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md) has been created for the content types mentioned above, wherein specific notification timeframes may be assigned to specific content types.
 
@@ -111,8 +111,7 @@ Goal: Create a framework for auto-archiving, either a new on, or by adding on to
 
 | Decision | Date | Participants |
 |----------|-------------|--------------------|
-| Implementation will be split into iterations, with MVP consisting of Full-width Banner 7 day timeframe and notifications for Full-width banner content type, while also providing the ability for future implementation of other content types, and auto-archiving | 12/4/2023 | Dave Conlon |
-| The following is excluded from the MVP: date limits and notifications for content blocks, auto-archiving full-width banners, other content types, or content blocks | 12/6/2023 | Dave Conlon |
+
 
 
 ---
@@ -137,7 +136,6 @@ Associated Initiatives:
 - [Initiative 4: Implement Home Page News Spotlight Blocks Aging Content Notifications Using New Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-home-page-news-promo-block/Initiative-4-aging-content-home-page-news-spotlight-block.md)
 - Initiative 5: Aging Content New Framework for Auto-Archiving Content (this document
 - 
-
 
 Epic:
 - [Super Epic Aging content notifications for banners & blocks #16127](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16127)
