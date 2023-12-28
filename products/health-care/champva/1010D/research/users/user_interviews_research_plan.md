@@ -72,20 +72,20 @@ We would like to work with Perigean to recruit for 15 full sessions. Therefore, 
  		- OK if they have not received a decision on their application yet
    		- OK if they did not receive the benefits 
     
-  - Demographics:
-  	- At least 8 participants age 55-64+- At least 8 participants have cognitive disability
-   	- At least 4 participants live in a rural area
-    	- At least 4 participants have no degree
-    	- At least 2 participants are women
-     - At least 1 participant is an expat (living abroad)
-     - At least 3 participants are Black
-     - At least 2 participants are Hispanic
-     - At least 1 participant is Asian
-     - At least 1 participant is Native
-     - At least 1 participant is gay, lesbian, or bisexual
-     - At least 1 participant is transgender, nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
-     - At least 3 participants use screen readers
-     - At least 1 participant uses some other kind of assistive technology
+- Demographics:
+  - At least 8 participants age 55-64+- At least 8 participants have cognitive disability
+  - At least 4 participants live in a rural area
+  - At least 4 participants have no degree
+  - At least 2 participants are women
+  - At least 1 participant is an expat (living abroad)
+  - At least 3 participants are Black
+  - At least 2 participants are Hispanic
+  - At least 1 participant is Asian
+  - At least 1 participant is Native
+  - At least 1 participant is gay, lesbian, or bisexual
+  - At least 1 participant is transgender, nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
+  - At least 3 participants use screen readers
+  - At least 1 participant uses some other kind of assistive technology
 
 **Secondary criteria (nice-to-haves)**
 - At least 4 participants completed their CHAMPVA application on a mobile device (tablet okay)
