@@ -1,4 +1,4 @@
-# Initiative 3: Implement Home Page News Spotlight Blocks Aging Content Notifications Using New Framework
+# Initiative 4: Implement Home Page News Spotlight Blocks Aging Content Notifications Using New Framework
 
 ## Elevator Statement
 Using the new Framework developed in Initiative 1, wire up Home Page News Spotlight Blocks to the new framework and implement a 30-day timeframe & notifications.
