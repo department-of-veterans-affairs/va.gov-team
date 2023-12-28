@@ -83,12 +83,12 @@ We would like to work with Perigean to recruit for 15 full sessions. Therefore, 
 	- 25% on phone or tablet
  	- 75% on desktop
  
-  - Demographics:
+- Demographics:
   	- At least 8 participants age 55-64+
-   	- At least 8 participants have cognitive disability
-    	- At least 4 participants live in a rural area
-     	- At least 4 participants have no degree
-      	- At least 2 participants are women
+  	- At least 8 participants have cognitive disability
+   	- At least 4 participants live in a rural area
+   	- At least 4 participants have no degree
+   	- At least 2 participants are women
       	- At least 1 participant is an expat (living abroad)
       	- At least 3 participants are Black
       	- At least 2 participants are Hispanic
