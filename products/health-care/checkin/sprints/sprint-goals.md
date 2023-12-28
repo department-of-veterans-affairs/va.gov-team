@@ -105,7 +105,7 @@ ________________________________________________________________________________
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Exclude VVC and CVT from eCheck-in**
          - ✔️ ❗ 🟩 [[FE] Exclude VVC and CVT from eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72261)
-         - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72615)
+         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72615)
      - **Sub Goal: Change wording for wait time after checking in**
          - ❗ 🟥 [[Content] Create Content to tell Veterans to see staff at their appt time if they haven't been called back yet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72247)
          - ❗ 🟥 [[Design] Create Final Wireframes in production Sketch file for confirmation pages to use pattern from unified check in experience's confirmation pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72243) 
