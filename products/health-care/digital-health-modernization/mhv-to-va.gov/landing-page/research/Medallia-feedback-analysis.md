@@ -192,47 +192,47 @@ Question 3: What task were you trying to do today?
   </tr>
   <tr>
     <th scope="row">Technical problems</th>
-    <td>12 responses</td>
-    <td>8 responses</td>
+    <td>12 users</td>
+    <td>8 users</td>
   </tr>
   <tr>
     <th scope="row">Login/access issues</th>
-    <td>11 responses</td>
-    <td>15 responses</td>
+    <td>11 users</td>
+    <td>15 users</td>
   </tr>
   <tr>
     <th scope="row">Findability</th>
-    <td>5 responses</td>
-    <td>1 response</td>
+    <td>5 users</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Missing context or explanation</th>
-    <td>1 response</td>
-    <td>4 responses</td>
+    <td>1 user</td>
+    <td>4 users</td>
   </tr>
   <tr>
     <th scope="row">Couldn't get help</th>
-    <td>1 response</td>
-    <td>1 response</td>
+    <td>1 user</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Issues with travel reimbursement</th>
-    <td>2 responses</td>
-    <td>2 responses</td>
+    <td>2 users</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">No updates for claims</th>
     <td>--</td>
-    <td>1 response</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Confusion around two MHV experiences</th>
     <td>--</td>
-    <td>1 response</td>
+    <td>1 user</td>
   </tr>
 </table>
 
-**Additional context around problems users encountered:**
+**Additional context around problems encountered:**
 * **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content)
 * **Login issues**
 * **Findability** - couldn’t find something 
