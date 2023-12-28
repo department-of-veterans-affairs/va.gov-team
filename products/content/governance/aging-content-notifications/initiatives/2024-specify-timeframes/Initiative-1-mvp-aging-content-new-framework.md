@@ -59,12 +59,16 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 - They should only display for seven (7) days; they should never be used for (month-long) celebrations or general news. If for some reason the time it's being displayed needs to extend past seven (7) days, the editor needs to edit the content and add a note in the Revision log message, then Save, at which time the 'clock' is reset and it will be good for another seven days.
 - If the editor isn't going to extend it, they need to archive it, or the content will be auto-archived in a future story/implementation.
 
-## Solution Approach
-- MVP will be a framework that will enable, through code, different notification timeframes to be assigned to different content types. Future iterations will encompass enabling different notification timeframes for content blocks (home page promo and home page news), as well a auto-archiving full-width banners and content blocks. [Discovery here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/discovery-for-content-types-and-blocks-aging-content.md) 
-- We decided to start with full-width banners because there is already a notification framework developers may be able to leverage, and even if they can’t and need to build from scratch, it will be the smallest lift necessary in order to deploy something usable and meaningful.
- - We have explicitly decided not to include in the MVP notifications for content blocks, or auto-archiving, because it would be too large a lift. We’re starting with an MVP so we can implement and release a minimum viable product, get feedback, and then continue with the other iterations.
+## In Scope for the MVP:
+Goal: Create a framework, either new or by adjusting the existing 365-day notification framework, to make timeframes and notifications configurable for different content types, such as full-width banners, home page promo blocks, and home page promo news. The framework should enable different timeframes to be assigned (via code, not by the editor) to each content type, if desired. The framework should be extendable to other content types, if desired in the future. Note that the auto-archiving mechanism will be in a future iteration.
+ 
+- As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below, which will be implemented after the framework is completed.
+  - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
+  - Home Page Promo Block:  content type is assigned a 21-day timeframe with notifications sent to the editors three (3) days before Day 21, and the morning of Day 21. (Note that 21 days is just being used as an example. (Note that this content block will actually be configured to 30 days; the 21 days mentioned above was just to illustrate that different timeframes may be assigned in the future.)
+  - Home Page News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30. 
  
 ### How we are approaching the solution
+- By either altering the existing framework, or creating a new framework.
 
 #### High-level Requirements
 
