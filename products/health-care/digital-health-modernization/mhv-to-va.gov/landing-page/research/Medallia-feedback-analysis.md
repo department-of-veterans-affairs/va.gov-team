@@ -196,12 +196,12 @@ Question 3: What task were you trying to do today?
   <tr>
     <th scope="row">Login/access issues</th>
     <td>11 users</td>
-    <td>15 users</td>
+    <td>27 users</td>
   </tr>
   <tr>
     <th scope="row">Findability</th>
     <td>5 users</td>
-    <td>1 user</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">Missing context or explanation</th>
@@ -216,7 +216,7 @@ Question 3: What task were you trying to do today?
   <tr>
     <th scope="row">Issues with travel reimbursement</th>
     <td>2 users</td>
-    <td>2 users</td>
+    <td>3 users</td>
   </tr>
   <tr>
     <th scope="row">No updates for claims</th>
@@ -225,6 +225,11 @@ Question 3: What task were you trying to do today?
   </tr>
   <tr>
     <th scope="row">Confusion around two MHV experiences</th>
+    <td>--</td>
+    <td>5 users</td>
+  </tr>
+  <tr>
+    <th scope="row">Issues ordering medical supplies</th>
     <td>--</td>
     <td>1 user</td>
   </tr>
@@ -245,11 +250,16 @@ Likely about MHV National Portal:
 * 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
 * 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
 * 1 user wanted but couldn't figure out how to enter flu shot data to their medical record
+* 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
 
 Likely about MHV on VA.gov: 
 * 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
 * 1 user was unable to add a second address to their profile (need different billing and shipping addresses)
-* 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments. 
+* 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments.
+
+## Possible future enhancements? 
+* 1 user expected to be able to update/change their address online
+* 1 user was unable to verify private insurance online
 
 ## Joys users expressed
 * Learned new things 
