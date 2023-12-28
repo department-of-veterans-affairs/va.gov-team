@@ -25,16 +25,14 @@ What are you trying to learn from this research?
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
 1. What language can we use for military occupational specialities (MOS) that will make sense to veterans across branches and experience levels?
+   - How can we label the whole section?
+   - What makes the most sense to include for their "job titles" or the related codes?
 2. How have veterans used their MOS data, especially as it relates to the PACT act?
    - How did they get it?
    - How did they relay it back to VA, if at all?
 3. What data about their MOS is useful to see in their profile?
+4. What do veterans do, or want to do, if their MOS data feels incomplete or inaccurate?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
