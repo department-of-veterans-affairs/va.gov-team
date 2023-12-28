@@ -14,7 +14,7 @@ To provide timely information to Veterans and other users of VA.gov, and to ensu
 #### Examples of Stale Home Page Benefit Promo Blocks
 
 ## Desired User Outcomes
-Veterans, their caregivers and other users of VA.gov will see banners with only emergency or vital information helpful to them.
+Veterans, their caregivers and other users of VA.gov will see Home Page Benefit Promo blocks with current, timely information.
 
 ## Undesired User Outcomes
 Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
@@ -40,7 +40,7 @@ Editors ignore the notification emails, and their content is not refreshed (and 
 #### Baseline KPI Values
 Baseline Values consist of a list of current Home Page Benefit Promo Blocks in PROD, and then follow-up for the MVP will be confirming editors received notifications, and manually checking to see if they updated their content.
 
-For this particular feature, there isn’t a way to obtain metrics from GA
+For this particular feature, there isn’t a way to obtain metrics from GA.
 
 ### Objectives and Key results (OKRs)
 
@@ -49,8 +49,8 @@ For this particular feature, there isn’t a way to obtain metrics from GA
 
 ## Assumptions
 
-- Home Page Benefit Promo Blocks are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published; they should never be used for (month-long) celebrations or general news. 
-- They should only display for thirty (30) days. If for some reason the time it's being displayed needs to extend past thirty (30) days, the editor needs to edit the content with a comment stating this, at which time the 'clock' is reset and it will display for another thirty days, and the notifications will be sent accordingly.
+- Home Page Benefit Promo Blocks are to be used timely, relevant information relevant to Veterans benefits.
+- The editor is not able to define the timeframe; it will be configured to 30 days using the new framework. If for some reason the time it's being displayed needs to extend past thirty (30) days, the editor needs to edit the content with a comment stating this, at which time the 'clock' is reset and it will display for another thirty days, and the notifications will be sent accordingly.
 - If the editor isn't going to extend it, they will archive it.
 
 ## Solution Approach
@@ -63,7 +63,7 @@ For this particular feature, there isn’t a way to obtain metrics from GA
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content, **I WILL** receive an email alert three (3) days prior to the thirtyth day after content creation, instead of 365 days after, **SO THAT** I know I need to either need to (1) edit the content, adding a note that it's still needed, and thus resetting the thirty day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation, instead of 365 days after, **SO THAT** I know I need to either need to (1) edit the content, adding a note that it's still needed, and thus resetting the thirty day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
 | Content Editor receives email at 12:01AM (0001) the morning of the end date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content, **I WILL** receive an email reminding me of the end date at 12:01AM (0001) the morning of the thirtyth day, **SO THAT** I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
 | Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Home Page Benefit Promo Block content type, **I WILL** edit the banner and add a comment that the banner is still needed, **SO THAT** the published date range is reset to thirty days, e.g. the start date is 'today', and end date is thirty days later, inclusive, **AND** I will receive an email alert three (3) days prior to the thirtyth day after editing the content, instead of 365 days after. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
 
