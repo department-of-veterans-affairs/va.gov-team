@@ -5,7 +5,7 @@ Medallia feedback on My HealtheVet is collected via two distinct surveys:
 
 Sitewide Medallia information (more global than healthcare-only responses) can be found on this [Domo dashboard](https://va-gov.domo.com/page/825663825). 
 
-Note: _These survey responses are collected on VA.gov, but as of December 2023 we believe most responses reflect Veteran experiences on the My HealtheVet National Portal. It may be unclear for some time which My HealtheVet experience the feedback is reporting on, but we will try to do the best we can to separate the feedback based on detailed qualitative responses from Veterans when possible._
+Note: _These survey responses are collected on VA.gov, and several clearly comment on features that are a part of MHV on VA.gov. But as of December 2023 we believe many responses reflect Veteran experiences on the My HealtheVet National Portal. It may be unclear for some time which My HealtheVet experience the feedback is reporting on, but we will try to do the best we can to separate the feedback based on detailed qualitative responses from Veterans when possible._
 
 
 ## Summary
