@@ -83,9 +83,6 @@ Goal: Create a framework, either new or by adjusting the existing 365-day notifi
 
 
 Note: Auto-archiving will be in a future initiative, and along with that functionality, a third notification email will be implemented that will be sent when the content is archived.
-
-
-
 --- 
 
 ## Launch Strategy
