@@ -234,7 +234,7 @@ Question 3: What task were you trying to do today?
 
 **Additional context around problems encountered:**
 * **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content)
-* **Login issues**
+* **Login issues** - could also include registration (My HealtheVet National Portal)
 * **Findability** - couldn’t find something 
 * **Issues with travel reimbursement** 
 * **Missing context or explanation** for users to interpret/understand their medical information
