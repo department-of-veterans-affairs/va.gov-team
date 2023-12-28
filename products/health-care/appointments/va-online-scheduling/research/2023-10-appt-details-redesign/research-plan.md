@@ -56,39 +56,34 @@ Retiring
 
 
 
-1. Evaluate the pertinance of details page information.
-2. Testing hierarchy of details page information.
-3. Evaluate how understandable the empty states.
-4. Evaluating the use of buttons and links.
-5. Test the findability of the after Visit Summary.
+1. Evaluate the pertinence of details page information.
+2. Test hierarchy of details page information.
+3. Evaluate how understandable the empty states are.
+4. Evaluate the use of buttons and links.
+5. Test the findability of the After Visit Summary.
 6. Test navigation to and from the Next of Kin/Emergency Contact
 7. Test changes to the cancelation flow.
-8. Evaluate print page.
-   
-
+8. Evaluate the print page.
 
 ### Outcome
 
 We will use the findings to:
-
-
 
 1. Make any necessary changes to finalize the appointment details designs.
 2. Make any necessary changes to finalize the new cancellation flow.
 3. Make any necessary changes to finalize the after visit summary entry point.
    * Relay findings to the after visit summary team
 5. Make any necessary changes to finalize the pre check-in entry point.
-   * Relay findings to the profile team.
+   * Relay findings to the Check-in and Profile teams.
 
 
 ### Hypotheses
 
-
 * **Cancelation**:
     * Participants will be able to cancel their appointments easily.
 * **Details Pages:**
-    * Participants will be able to find their appointment information easily.
-* **CTA’s**:
+    * Participants will be able to find and understand their appointment information easily.
+* **CTAs**:
     * On an upcoming appointment details page, participants will find the secondary buttons before finding the join appointment CTA.
 * **After Visit Summary**
     * Participants will be able to easily find their after visit summary
@@ -97,9 +92,7 @@ We will use the findings to:
     * Participants will be able to easily navigate to health care contacts page.
     * Participants will be able to navigate back to the appointments page.
 
-
 ### Research Questions
-
 
 * **Cancelation:**
     * Do Veterans know how to cancel their appointment?
@@ -124,7 +117,7 @@ We will use the findings to:
 
 ## Method
 
-We'll run a moderated usability test on the appointment details pages using a figma prototype.
+We'll run a moderated usability test on the appointment details pages using a Figma prototype.
 
 
 ## Location
@@ -144,11 +137,12 @@ Prototype link TBD
 
 Perigean will recruit 12 participants for this study who are active MyHealtheVet or VA.gov. 
 
+<!-- I'd recommend recruiting 16 participants to make sure we end up with the end goal of 12 -->
+
 
 ## Recruitment criteria
 
 Primary criteria
-
 
 * 6 participants who primarily use a desktop/laptop computer.
 * 6 participants who primarily use a mobile device.
@@ -198,4 +192,5 @@ TBD
 * Project point of contact: Ciera Maddox
 * Participant(s) for pilot test: TBD
 * Note-takers:TBD
-* Observers: TBD
+* Observers:
+    * Peter Russo - peter.russo@adhocteam.us 
