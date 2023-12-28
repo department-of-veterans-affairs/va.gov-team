@@ -84,20 +84,20 @@ We would like to work with Perigean to recruit for 15 full sessions. Therefore, 
  	- 75% on desktop
  
 - Demographics:
-  	- At least 8 participants age 55-64+
-  	- At least 8 participants have cognitive disability
-   	- At least 4 participants live in a rural area
-   	- At least 4 participants have no degree
-   	- At least 2 participants are women
-      	- At least 1 participant is an expat (living abroad)
-      	- At least 3 participants are Black
-      	- At least 2 participants are Hispanic
-      	- At least 1 participant is Asian
-      	- At least 1 participant is Native
-      	- At least 1 participant is gay, lesbian, or bisexual
-      	- At least 1 participant is transgender, nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
-      	- At least 3 participants use screen readers
-      	- At least 2 participants use some other kind of assistive technology
+  - At least 8 participants age 55-64+
+  - At least 8 participants have cognitive disability
+  - At least 4 participants live in a rural area
+  - At least 4 participants have no degree
+  - At least 2 participants are women
+  - At least 1 participant is an expat (living abroad)
+  - At least 3 participants are Black
+  - At least 2 participants are Hispanic
+  - At least 1 participant is Asian
+  - At least 1 participant is Native
+  - At least 1 participant is gay, lesbian, or bisexual
+  - At least 1 participant is transgender, nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
+  - At least 3 participants use screen readers
+  - At least 2 participants use some other kind of assistive technology
 
 ## [WIP] Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
