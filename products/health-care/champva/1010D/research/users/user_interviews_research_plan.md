@@ -60,48 +60,50 @@ Remote observers and note takers will be in attendance.
 
 - [Link to conversation guide](url goes here)
 	
-## [WIP] Participants and Recruitment	
+## Participants and Recruitment	
 
 ### [WIP] Recruitment approach
-Our intended audience is Veterans, spouses of Veterans, and family Caregivers for Veterans who can sponsor or are eligible for CHAMPVA benefits. Participants will be recruited by Perigean.
+Our intended audience is Veterans, spouses of Veterans, and family Caregivers for Veterans who can sponsor or are [eligible for CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/). Participants will be recruited by Perigean.
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
-### [WIP] Recruitment criteria
+### Recruitment criteria
 We would like to work with Perigean to recruit for 15 full sessions. Therefore, we request that 20 sessions be scheduled.
 
-**[WIP] Primary criteria (must-haves)**
+**Primary criteria (must-haves, all numbers out of 15)**
 - User groups:
-	- At least 4 Veterans
-	- At least 9 spouses of Veterans or family caregivers
+	- At least 4 Veterans 
+	- At least 10 spouses, children, or caregivers of Veterans
+ 	- The remaining participant may belong to either user group
+   
 - Application status:
-	- 60% have applied for CHAMPVA benefits
- 	- 40% have not applied for CHAMPVA benefits, but are eligible for the program	  
+	- 9 have applied for CHAMPVA benefits
+ 	- 6 have not applied for CHAMPVA benefits, but are eligible for the program
+    
+  - Demographics:
+  	- At least 8 participants age 55-64+
+   	- At least 8 participants have cognitive disability
+    	- At least 4 participants live in a rural area
+     	- At least 4 participants have no degree
+      	- At least 2 participants are women
+      	- At least 1 participant is an expat (living abroad)
+      	- At least 3 participants are Black
+      	- At least 2 participants are Hispanic
+      	- At least 1 participant is Asian
+      	- At least 1 participant is Native
+      	- At least 1 participant is gay, lesbian, or bisexual
+      	- At least 1 participant is transgender, nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
+      	- At least 3 participants use screen readers
+      	- At least 1 participant uses some other kind of assistive technology
 
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**[WIP] Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+**Secondary criteria (nice-to-haves)**
+- At least 4 participants completed their CHAMPVA application on a mobile device (tablet okay)
 
 ## [WIP] Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-### [WIP] Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
 ### [WIP] Research sessions
 * Planned dates of research:
 
-### [WIP] Length of sessions
+### Length of sessions
 * Session length: 45 - 60 minutes
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 3 sessions
@@ -111,14 +113,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
-## [WIP] Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+## Team Roles		
+- Moderator: Rachael Penfil (rachael.penfil@adhocteam.us) or Steven Straily (steven.straily@agile6.com)
+- Research guide writing and task development (usually but not always same as moderator): Rachael Penfil 	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Rachael Penfil	
+- Participant(s) for pilot test: N/A - open-ended interviews
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Rachael Penfil
+- Note-takers: Jamie Fiore (jamie.fiore@adhocteam.us), Brian Wilke (brian.wilke@copilot.llc), Syd Hoeper (syd.hoeper@adhocteam.us)
+- Observers: Bo Altes (bo.altes@agile6.com), Mary Wang (mary.wang@adhocteam.us), Premal Shah (premal.shah@va.gov), Devi Hill (devi.hill@agile6.com), Melissa Schaff (melissa.schaff@agile6.com)
