@@ -62,7 +62,7 @@ Remote observers and note takers will be in attendance.
 	
 ## Participants and Recruitment	
 
-### [WIP] Recruitment approach
+### Recruitment approach
 Our intended audience is Veterans, spouses of Veterans, and family Caregivers for Veterans who can sponsor or are [eligible for CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/). Participants will be recruited by Perigean.
 
 ### Recruitment criteria
