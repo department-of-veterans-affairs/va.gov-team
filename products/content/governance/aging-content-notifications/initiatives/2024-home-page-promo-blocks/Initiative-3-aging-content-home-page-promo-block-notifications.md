@@ -3,13 +3,13 @@
 ## Elevator Statement
 Using the new Framework developed in Initiative 1, wire up Home Page Promo Blocks to the new framework and implement a 30-day timeframe & notifications.
 
-## Overview
-Content in general, and for the purpose of this Initiative, Home Page Promo Blocks in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the promotion or event they were created for is over, or the block is used for something other than its purpose.
-
-To provide timely information to Veterans and other users of VA.gov, and ensure Home Page Promo Blocks are replaced and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page Promo Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive). The emails should be configurable per content type as well.
-
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Home Page Promo Block content types will be published for an initial thirty (30) day default timeframe that can then be extended by an editor editing the content to add a note that the content is still needed, which will reset the thirty day window, and start the alerts again.
+
+## Overview
+For the purpose of this Initiative, Home Page Promo Blocks (and content in general) in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the promotion or event they were created for is over.
+
+To provide timely information to Veterans and other users of VA.gov, and to ensure Home Page Promo Blocks are replaced when appropriate and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page Promo Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive). The emails should be configurable per content type as well.
 
 #### Examples of Stale Home Page Promo Blocks
 
