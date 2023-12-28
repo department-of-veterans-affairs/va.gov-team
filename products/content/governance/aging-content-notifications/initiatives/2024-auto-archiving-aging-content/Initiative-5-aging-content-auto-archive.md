@@ -1,5 +1,5 @@
 
-# Initiative 1: Aging Content New Framework for Auto-Archiving Content
+# Initiative 5: Aging Content New Framework for Auto-Archiving Content
 
 ## Elevator Statement
 Allow for auto-archving of content based on the time frames assigned to a content-type
@@ -51,28 +51,29 @@ Editors ignore the notification emails, and content they meant to extend is auto
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-Baseline Values consist of a list of current Full-width banners in PROD, and report on auto-archiving.
+Baseline Values consist of a list of current Full-width banners, as well as the Home Page Benefit Promo block and Home Page News Spotlight block.
 
 For this particular implementation, there isn’t a way to obtain metrics from GA.
 
 ### Objectives and Key results (OKRs)
 
 - Objective:
-  - Key result: Content editors ensure that relevant, current information is displayed/delivered via Full-width banners so that Veterans, their caregivers, and other VA.gov users recognize that they should pay attention to Full-width banners and they don't become invisible as stale or irrelavent.
+  - Key result: Content editors ensure that relevant, current information is displayed/delivered via Full-width Banners, the Home Page News Spotlight block and the Home Page Benefit Promo block so that Veterans, their caregivers, and other VA.gov users recognize that they should pay attention to the content, and they don't become invisible as stale or irrelavent.
 
 ## Assumptions
 
-- Full-width banners are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published.
-- They should only display for seven (7) days; they should never be used for (month-long) celebrations or general news. If for some reason the time it's being displayed needs to extend past seven (7) days, the editor needs to edit the content and add a note in the Revision log message, then Save, at which time the 'clock' is reset and it will be good for another seven days.
-- If the editor isn't going to extend it, they need to archive it, or the content will be auto-archived in a future story/implementation.
+- Full-width banners are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published. They should only display for seven (7) days and be auto-archived on Day 7, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
+- Home Page Benefit Promo blokcs are to be used for promotional information for Veterans. They should only display for seven (30) days and be auto-archived on Day 30, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
+- - Home Page News Spotlight blokcs are to be used for news and information relevant to Veterans. They should only display for seven (30) days and be auto-archived on Day 30, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
 
-## In Scope for the MVP:
-Goal: Create a framework, either new or by adjusting the existing 365-day notification framework, to make timeframes and notifications configurable for different content types, such as full-width banners, home page promo blocks, and home page promo news. The framework should enable different timeframes to be assigned (via code, not by the editor) to each content type, if desired. The framework should be extendable to other content types, if desired in the future. Note that the auto-archiving mechanism will be in a future iteration.
+## In Scope for this Initiative:
+Goal: Create a framework for auto-archiving, either a new on, or by adding on to the new notification framework. The framework should be extendable to other content types, if desired in the future. 
  
 - As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below, which will be implemented after the framework is completed.
   - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
   - Home Page Promo Block:  content type is assigned a 21-day timeframe with notifications sent to the editors three (3) days before Day 21, and the morning of Day 21. (Note that 21 days is just being used as an example. (Note that this content block will actually be configured to 30 days; the 21 days mentioned above was just to illustrate that different timeframes may be assigned in the future.)
-  - Home Page News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30. 
+  - Home Page News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30.
+- Note that actually configuring the various content types will be handled in future initiatives. This is purely to build the framework.
  
 ### How we are approaching the solution
 - By either altering the existing framework, or creating a new framework.
@@ -82,21 +83,15 @@ Goal: Create a framework, either new or by adjusting the existing 365-day notifi
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content editor sees informational text about the new 7 day timeframe for Full-width banners | **AS A** Content Editor, **I WANT** to know what the timeframe expectation for the content type I'm creating/editing, **SO THAT** I’m aware I will receive notifications within that timeframe alerting me that I should update and extend the time, or archive the banner. | |
-| Content Editor receives email three (3) days prior to end date configured for the content type they are creating/editing | **AS A** content editor who created a content type where the timeframe is configured using the new notification framework, **I WILL** receive an email alert three (3) days prior to the End date of the date range assigned to the content type, **SO THAT** I know I need to either need to (1) edit the content, thus resetting the timeframe window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 12:01AM (0001) the morning of the end date | **AS A** content editor who created a content type using the new notification framework, **I WILL** receive an email reminding me of the end date at 12:01AM (0001) the day of the end date, **SO THAT** I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
-| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a content type using the new notification framework, **I WILL** edit the content, **SO THAT** the published date range is reset to <timeframe configured> days, e.g. the start date is 'today', and end date is configured timeframe-days later, inclusive. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
-| Developer edits the date range of a particular content type e.g. full width banner, home page promo banner, home page news banner | **AS A** drupal developer, **I NEED** the ability to change the date range of a content type of banner to any date range I want e.g. 7 days, or 21 days, or any range that's been decided upon, **SO THAT** the published date range is now the new date range, **AND** notificiation emails are still sent on the 3 day, morning of last day, (and when archived) cadence. | |
+| Content is auto-archived based on the timeframe assigned to it | **AS A** PO/PM, **I WANT** to know that content will be auto-archived on the last day of the timeframe assigned to it, **SO THAT** Veterans, their caregivers and other VA.gov users see only current, relevant information | |
 
-
-Note: Auto-archiving will be in a future initiative, and along with that functionality, a third notification email will be implemented that will be sent when the content is archived.
 --- 
 
 ## Launch Strategy
 
 ## Launch Dates
 - *Target Launch Date*
-  - Q1 2024 (an actual date will be determined soon)
+  - Q2 2024 (an actual date will be determined soon)
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -107,7 +102,10 @@ Note: Auto-archiving will be in a future initiative, and along with that functio
 ## Solution Narrative
 
 ### Current Status
-2023-12-19: Groomed and edited this MVP initiative
+| Date | Status | Author |
+|-------------------|------------------|-------------------|
+| 12/28/2023 | Created Initiative | Fran Cross |
+| |  |
 
 ### Key Decisions
 
@@ -131,8 +129,21 @@ Note: Auto-archiving will be in a future initiative, and along with that functio
 ### Artifacts
 
 #### Tickets
+
+Associated Initiatives:
+- [Initiative 1: (MVP) Aging Content New Framework for Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md)
+- [Initiative 2: Implement Full-width Banner Aging Content Notifications Using New Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-full-width-banner-notifications/Initiative-2-aging-content-type-banner-notifications.md)
+- [Initiative 3: Implement Home Page Benefit Promo Blocks Aging Content Notifications Using New Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-home-page-promo-blocks/Initiative-3-aging-content-home-page-promo-block-notifications.md)
+- [Initiative 4: Implement Home Page News Spotlight Blocks Aging Content Notifications Using New Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-home-page-news-promo-block/Initiative-4-aging-content-home-page-news-spotlight-block.md)
+- Initiative 5: Aging Content New Framework for Auto-Archiving Content (this document
+- 
+
+
+Epic:
 - [Super Epic Aging content notifications for banners & blocks #16127](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16127)
     - [Aging Content - Banner: Implement (7) day timeframe for Full-width banners (MVP) #16417](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
+ 
+
   
   
 
