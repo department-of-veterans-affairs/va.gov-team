@@ -254,6 +254,7 @@ Question 3: What task were you trying to do today?
 * Learned new things 
 * Ease of use and clear navigation 
 * Saw correct information
+* Feel secure on VA.gov
 
 ### Positive quotes from Veterans
 * "I feel like they [VA.gov] are doing a great job." - 12/3/23, Desktop user
