@@ -26,7 +26,7 @@ ________________________________________________________________________________
      - **Sub Goal: Switch Components to Design System v. 3**
  
 #### PLANNED RELEASES 
-- NONE
+- Change wording for wait time after checking in
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
