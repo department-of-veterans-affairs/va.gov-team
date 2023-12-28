@@ -26,7 +26,7 @@ Start here ---> [Facility Locator README](https://github.com/department-of-veter
 
 | Feature | Background| Epic | Design/Research repo | Status (Latest feature link) |
 | :---| :--- | :--- | :--- |:--- |
-| Mobile experience | [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/mobile-experience) | Mobile search expectations (Veteran population) [#5761](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5761)| [Prototype to be tested (UXPin)](https://preview.uxpin.com/c60117d778b6116d11f6fc707a5ac6d953d91aa0#/pages/136040014?mode=chidfm) | Parked
+| Mobile experience | [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research) | Mobile search expectations (Veteran population) [#5761](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5761)| [Prototype to be tested (UXPin)](https://preview.uxpin.com/c60117d778b6116d11f6fc707a5ac6d953d91aa0#/pages/136040014?mode=chidfm) | Parked
 
 See also Operating status/facility level alerts (cross-product)
 
