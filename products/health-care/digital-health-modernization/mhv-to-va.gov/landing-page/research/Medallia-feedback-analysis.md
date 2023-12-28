@@ -123,37 +123,37 @@ Other:
   <tr>
     <th scope="row">Total responses</th>
     <td>37</td>
-    <td>--</td>
+    <td>53</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
     <td>8%</td>
-    <td>--</td>
+    <td>11.3%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
     <td>21 users</td>
-    <td>--</td>
+    <td>30 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
     <td>6 users</td>
-    <td>--</td>
+    <td>8 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
     <td>2 users</td>
-    <td>--</td>
+    <td>4 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
     <td>3 users</td>
-    <td>--</td>
+    <td>1 user</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
     <td>none</td>
-    <td>--</td>
+    <td>5 users</td>
   </tr>
   <tr>
     <th scope="row">Could user complete their task?</th>
@@ -161,14 +161,12 @@ Other:
      <li>No (31 users / 83%)</li>
      <li>Yes (4 users / 11%)</li>
     </td>
-    <td>--</td>
+    <td>
+      <li>No (47 users / 88.6%)</li>
+      <li>Yes (6 users / 11%)</li>
+    </td>
   </tr>
 </table>
-
-Summary: 3/37 users gave a 4 or 5: 8% CSAT Score
-* For users who could not complete their task, the average score was: 1.25 
-* For users who did complete their task, the average score was: 3.5 
-
 
 Question 3: What task were you trying to do today? 
 * Schedule appointment
