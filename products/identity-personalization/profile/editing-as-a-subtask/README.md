@@ -1,7 +1,7 @@
 
 # Feature Overview: Editing as a Sub-Task 
 
-**Last updated:** 9/1/23 (added links to Sketch)
+**Last updated:** 12/28/23 (added links to Figma)
 
 ## Table of Contents 
 
@@ -97,13 +97,12 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 ## Design & UX
 
-### Sketch files
-- [Mobile](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas)
-- [Desktop](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d)
+### Design files
+- [Mobile Sketch file](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas), will be deprecated in early 2024
+- [Desktop Sketch file](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d), will be deprecated in early 2024
+- [Figma mobile and desktop](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A2&mode=design&t=AIofPOnozor4flxz-1), will be onboarding early 2024
 
 ### Flow diagrams
 - This user flow can be kicked off from anywhere on VA.gov
-- A visualization of the flow, once kicked off, will live on the [mobile page](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas) of our Sketch files (not yet created as of 9/1/23)
-
-
+- A visualization of the flow is on the Mobile page of the design files linked above.
 
