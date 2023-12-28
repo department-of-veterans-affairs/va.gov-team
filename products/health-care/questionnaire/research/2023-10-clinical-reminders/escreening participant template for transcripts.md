@@ -1,4 +1,4 @@
-# Participant 3: eScreening  
+# Participant X: eScreening  
 
 - Moderator (M): Were you notified via text or email?
 - Participant 
