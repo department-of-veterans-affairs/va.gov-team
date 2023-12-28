@@ -106,7 +106,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/map-enhancements/phase-1-limit-search-to-250-miles/release-plan.md) (#go-to-market-strategy)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2021-map-enhancements/phase-1-limit-search-to-250-miles/release-plan.md) (#go-to-market-strategy)
 
 ## Launch Dates
 - *Target Launch Date*
@@ -119,7 +119,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Links to relevant documentation
 
 - [Competitive analysis PDF](https://app.zenhub.com/files/133843125/315c0bd6-e7c8-4144-9222-19670e7b25e2/download) used to inform wireframes
-- [Recommendations based on analysis with supporting visual examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/map-enhancements/Map%20Behavior%20-%20Recommendations.pdf)
+- [Recommendations based on analysis with supporting visual examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2021-map-enhancements/Map%20Behavior%20-%20Recommendations.pdf)
 
 ## Solution Narrative
 
