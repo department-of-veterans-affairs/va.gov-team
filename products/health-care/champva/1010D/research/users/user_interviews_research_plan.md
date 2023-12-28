@@ -115,7 +115,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles		
 - Moderator: Rachael Penfil (rachael.penfil@adhocteam.us) or Steven Straily (steven.straily@agile6.com)
-- Research guide writing and task development (usually but not always same as moderator): Rachael Penfil 	
+- Research guide writing and task development (usually but not always same as moderator): Rachael Penfil and Steven Straily
 - Participant recruiting & screening: Perigean
 - Project point of contact: Rachael Penfil	
 - Participant(s) for pilot test: N/A - open-ended interviews
