@@ -84,8 +84,6 @@ ________________________________________________________________________________
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Exclude VVC and CVT from eCheck-in**
      - **Sub Goal: Change wording for wait time after checking in**
-     - **Sub Goal: Handle VVC Appointments**
-     - **Sub Goal: Handle CVT Appointments**
      - **Sub Goal: Let Veterans Know when BTSSS is Down** 
  - **GOAL: Make Travel Claims Easier**    
     - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
@@ -93,7 +91,6 @@ ________________________________________________________________________________
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
-     - **Sub Goal: Migrate Sktech Files to Figma**
      - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**       
      - **Sub Goal: Switch Components to Design System v. 3**
  
