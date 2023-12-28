@@ -11,7 +11,11 @@ For the purpose of this Initiative, Home Page News Spotlight Blocks (and content
 
 To provide timely information to Veterans and other users of VA.gov, and to ensure Home Page News Spotlight Blocks are replaced when appropriate and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page News Spotlight Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive). The emails should be configurable per content type as well.
 
-#### Examples of Stale Home Page News Spotlight Blocks
+### Examples of Stale Home Page News Spotlight Blocks
+- the article this news spotlight navigates to was published in May 2023.
+  
+<img width="598" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/147188767/a18f156d-c425-49ba-8aa0-1ef20f91b78f">
+
 
 ## Desired User Outcomes
 Veterans, their caregivers and other users of VA.gov will see Home Page News Spotlight blocks with current, timely information.
