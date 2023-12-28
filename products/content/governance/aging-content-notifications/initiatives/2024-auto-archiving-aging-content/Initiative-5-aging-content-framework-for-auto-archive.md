@@ -2,7 +2,7 @@
 # Initiative 5: Aging Content New Framework for Auto-Archiving Content
 
 ## Elevator Statement
-Allow for auto-archving of content based on the notification time frames assigned to a content-type
+Create a framework to allow for auto-archving of content based on the notification time frames assigned to a content-type
 
 ## Overview
 Content in general, and for the purpose of this Initiative, content types of Full-width Banners, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. 
