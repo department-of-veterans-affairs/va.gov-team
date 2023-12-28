@@ -1,4 +1,5 @@
 # Legacy Locators
+_Last update: 2020-06-08_
 
 This list of locators was taken from https://github.com/department-of-veterans-affairs/vets.gov-team/issues/1528
 

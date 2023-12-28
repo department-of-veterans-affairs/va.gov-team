@@ -25,7 +25,7 @@
 - Post-launch KPI 1: Click through rate beginning with COVID-19 alert banner through to the facility-level operating status information
 - Post-launch KPI 2: Number of calls to contact center about facility status  
   - March 2020 = 235 calls
-- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/go-no-go.md)
+- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/go-no-go.md)
 
 ### 1-month results:
 - Post-launch KPI 1: Click through rate beginning with COVID-19 alert banner through to the facility-level operating status information
@@ -54,4 +54,4 @@ _To be completed once you have gathered your initial set of data, as outlined ab
    - We may need to add information for duration (how long will the facility be closed/services affected?) and may need to display planned/future events for Veterans planning visits in the future. There may also be an opportunity to "push" the information to Veterans by collaborating with other teams. 
 
 ## VSA Initiative Impact Review
-[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/Facility-level%20operating%20status%20impact%20review.pdf)
+[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/Facility-level%20operating%20status%20impact%20review.pdf)

@@ -4,27 +4,27 @@ This document will focus on the new facility-level alert feature within VA.gov's
 
 ## Table of Contents
 
-[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#user-journey)
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#user-journey)
 
-[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#user-stories--use-cases)
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#user-stories--use-cases)
 
-[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#project-rationale)
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#project-rationale)
 
-[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#project-scope-and-scale)
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#project-scope-and-scale)
 
-[Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#not-currently-in-scope)
+[Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#not-currently-in-scope)
 
-[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#measuring-success)
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#measuring-success)
 
-[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#dependencies)
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#dependencies)
 
-[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#risk-factors)
+[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#risk-factors)
 
-[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#rejected-solutions)
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#rejected-solutions)
 
 [Definition of Done/Go-to-market Strategy](#definition-of-done---go-to-market-strategy)
 
-[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#key-links)
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md#key-links)
 
 ### User Journey
 - Access to VA facilities and services may have been impacted by COVID-19 and Veterans need up to date information as part of Facility Locator's search results.

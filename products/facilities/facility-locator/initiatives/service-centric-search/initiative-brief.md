@@ -3,7 +3,7 @@
 It has long been recognized that the Facility Locator's facility-centric search is not consistent with the Veteran task-based mental model. _As a Veteran, I want to be able to search by service so that I can find a location that can meet my need._
 
 **Related/Associated product(s)**
-- [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+- [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md)
 - [EPIC #13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13801) 
 
 **Resources**

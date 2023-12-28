@@ -18,8 +18,8 @@ The purpose of this document is to document the Facility Locator launch timeline
 ### Launch Date
 - Code complete 2/20/2020
 - Urgent care alert to Production 3/17/2020
-### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mvp-feature-brief.md)
-### [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mvp-release-plan.md)
+### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-urgent-care/mvp-feature-brief.md)
+### [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-urgent-care/mvp-release-plan.md)
 
 ---
 
@@ -27,7 +27,7 @@ The purpose of this document is to document the Facility Locator launch timeline
 ### Summary
 ### Launch Date
 - Production 4/22/2020
-### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md)
+### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts/feature-brief.md)
 ### [Release Plan]
 
 ---

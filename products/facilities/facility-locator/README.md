@@ -19,7 +19,7 @@ Search results connect to modernized websites for VAMCs and Vet Centers or legac
 
 
 ## Product
-- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md) | September 2023 
+- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md) | September 2023 
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
   - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie) _requires VA network connection_
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)

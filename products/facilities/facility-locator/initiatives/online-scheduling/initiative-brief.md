@@ -5,7 +5,7 @@ Online scheduling is available for _some_ Veterans at _some_ VA health facilitie
 As an unauthenicated experience, the Facility Locator cannot provide the most complete set of services available for online scheduling for a particular Veteran. However, new mandates are making some services (such as primary care and metnal health care) available for online scheduling by all Veterans. 
 
 **Related/Associated product(s)**
-- [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+- [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md)
 - [EPIC #27454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27454)
 
 ## Problem

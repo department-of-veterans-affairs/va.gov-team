@@ -21,7 +21,6 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 - Templates
   - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
 - Examples 
-  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/3q-facilities-team-roadmap.md)
 
 
 ### Product Outline
@@ -29,7 +28,7 @@ Product Outlines serve as the top-level description of the product a team owns. 
 
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
-  - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+  - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md)
   - [Reviews Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/vsp-collaboration-cycle/product-outline.md)
   - [VA Forms API Product Outline](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/VA%20Forms%20API%20Product%20Outline.md)
   

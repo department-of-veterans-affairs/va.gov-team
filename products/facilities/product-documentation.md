@@ -106,7 +106,7 @@ See also Operating status/facility level alerts (cross-product)
 
 | Feature | Background | Feature | Epic | Design/Research repo | Status (Latest feature link) |
 | :---| :--- | :--- | :--- | :--- |:--- |
-| Operating status/facility level alerts |[Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product/facility-level-alerts) | [Epic #9530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9530)| [Spec for Vet Center expandable alert](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138515145)| [In production](https://www.va.gov/find-locations) |
+| Operating status/facility level alerts |[Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/2020-facility-level-alerts) | [Epic #9530](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9530)| [Spec for Vet Center expandable alert](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138515145)| [In production](https://www.va.gov/find-locations) |
 
 #### Feature Documentation
 

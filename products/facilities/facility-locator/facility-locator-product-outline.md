@@ -9,7 +9,7 @@
 - [Roadmap](#roadmap)
 - [Scope and assumptions](#scope-and-assumptions)
 - [Artifacts](#artifacts)
-- [Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#team)
+- [Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md#team)
 
 # Product overview
 The Facility Locator is an unauthenticated search tool which can be used to find VA facilities and services. It leverages 

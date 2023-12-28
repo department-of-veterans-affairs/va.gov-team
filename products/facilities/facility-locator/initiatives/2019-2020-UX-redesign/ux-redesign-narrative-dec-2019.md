@@ -2,8 +2,8 @@
 
 The purpose of this document is to provide a narrative of the iterations and decisions made during the UX redesign.
 It is preceded by 
-- [Beginning September/October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-sept-2019.md)
-- [v1: November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-nov-2019.md)
+- [Beginning September/October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2019-2020-UX-redesign/ux-redesign-narrative-sept-2019.md)
+- [v1: November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2019-2020-UX-redesign/ux-redesign-narrative-nov-2019.md)
 
 ## v2: December 2019
 
@@ -31,4 +31,4 @@ This iteration also included some map modifications made after user research rev
 
 Timeline continues:
 
-- [v3: February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-feb-2020.md)
+- [v3: February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2019-2020-UX-redesign/ux-redesign-narrative-feb-2020.md)
