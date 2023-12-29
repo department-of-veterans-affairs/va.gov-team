@@ -1,4 +1,6 @@
 # Facilities API fields
+_Last updated: 2019-10-17_
+
 from DSVA|Health Care Content and Taxonomy data
 
 - Properties/name

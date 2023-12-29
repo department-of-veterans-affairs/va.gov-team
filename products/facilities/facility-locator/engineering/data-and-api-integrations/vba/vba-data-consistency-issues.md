@@ -1,3 +1,13 @@
+# Veterans Benefit Administration (VBA) Facility data integration
+
+## TODO
+2023-12-28
+1. Do we need this? Is it covered under Lighthouse integration? 
+2. Document Sandy's DB. There's a starting point, maybe, in products/facilities/naming-schema/README.md.
+
+
+
+## 2016 notes
 *Documenting consistency issues with VBA facility data. Accurate as of 10/24/2016. Will attempt to update as issues are resolved but the source of truth should always be the data itself.*
 
 [Query page](https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/VBA_Facilities/FeatureServer/0/query)

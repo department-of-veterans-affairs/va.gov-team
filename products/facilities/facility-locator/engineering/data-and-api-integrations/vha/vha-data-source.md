@@ -1,4 +1,8 @@
 # VHA Data source
+_Last updated: 2019-10-8_
+
+TODO: This doc was relevant during the initial Facility Locator build. Modern era (2023), not sure if we need it or should archive it. 
+
 
 https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/VHA%20Access%20to%20Care.md
 

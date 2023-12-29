@@ -1,8 +1,7 @@
 ## Hours of Operation
+_Last updated: 2023-06-21_
 
-This page will capture the variations in the ways hours of operations is being conveyed by the various VA facilities and the business decisions made to standardize the input.
-
-**(WIP: Pending input from business and content experts)**
+This page tracks the variations in the ways hours of operations are being conveyed by the various VA facilities and the business decisions made to standardize the input.
 
 | Data input | Display |
 |---|---|
