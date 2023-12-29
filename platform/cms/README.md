@@ -63,11 +63,9 @@ Documentation about the CMS lives in various places
 - John Luo, Software Quality Architect
 - Ari Perez, DevOps Engineer (on A6 contract through Dec-2023)
 - Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
-- Tolase Akinwale, DevOps Engineer- Slack `@Tolase`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
 - Edmund Dunn, Senior Drupal Developer- Slack `@Edmund Dunn`
-- Tony Taylor, Drupal Developer - Slack `@Tony Taylor`
 - Stefanie Gray, Helpdesk Manager, Slack `@Stefanie Gray`
 - Troy Griffin, Helpdesk and Training Manager, Slack `@Troy Griffin`
 
