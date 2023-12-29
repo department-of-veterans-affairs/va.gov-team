@@ -23,7 +23,11 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
 
 ## Phase 0  
 
-### Use cases 
+### Use cases
+<details>
+<summary> <strong></strong>List of use cases</strong>  </summary>
+<br>
+   
 1. As a user, I can learn about the medications tool, what is included, and how to complete certain actions.
 2. As a user, I can see a list of all the medications I have on file with the VA. This includes both active medications and inactive/historical medications, and non-VA medications captured by VA staff. \
     * For Phase 0 and 1, this does not include medications that are only on file at Cerner-based VA facilities.
@@ -38,20 +42,19 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
 12. As a user, I can view key data about a medication, some of which is outlined in VHA Directive 1164. 
 11. As a user, I can see a timeline of past fills/refills/renewals for each prescription.
 12. Use of pagination to show all past medications- not separate space to show meds. 
+</details>
 
-###  Requirements
+### Requirements
 
-There should be three primary pages for medications
-- List view of all medications
-- Details view for each medication 
-- Informational page about the medications tool
+<details>
+<summary>List view of all medications</summary>
+</br>
 
-[View Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
+This page provides the user with a list of their medications on file at the VA.
 
-#### :page_facing_up: List view of all medications
-This page presents the user with a list of their medications on file at the VA.
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
 
-##### Content
 * H1 for this page should be Medications
 * For each medication in list, include the following information
   * Name, dosage, form of medication
@@ -72,6 +75,7 @@ This page presents the user with a list of their medications on file at the VA.
   * By last filled or documented date
   * Alphabetically by status
   * Alphabetically by name
+* For each medication, a user should be able to click on the first line of the card (name, strength, and form) to view detailed information about that medication
 * For each active prescription in the list with no original fill
   * Ability to fill this prescription by pressing a single button
   * When pressed, provide immediate loading indicator inline
@@ -84,43 +88,40 @@ This page presents the user with a list of their medications on file at the VA.
   * If unsuccessful, provide inline error alert
 * For each medication in the list that needs renewed (active with no refills or inactive)
   * Provide link to information about how to renew a medication
+</details> 
 
----
-#### Page: Details view
-##### H1
-< Name and dosage of medication >
+<details>
+<summary>Details view for each medication</summary>
+</br>
 
-##### Content 
-Details should include 
-* About
-* Rx #
-* Instructions 
-* Quantity 
-* Refills left
-* Status
-* Ordered on date
-* Expiration date
-* Image
-* Medication description- container, shape, imprint, scored- needs new API or end point added to API to get 
-* Timeline of past fills, refills renewals
-    * For each past fill 
-      * Rx #
-      * Date and time of fill request
-      * Date and time requested medication was dispensed
-      * Date and time dispensed medication was shipped
-      * Image
-      * Any errors
-    * For each past refill 
-      * Rx #
-      * Date and time of refill request
-      * Date and time requested medication was dispensed
-      * Date and time dispensed medication was shipped
-      * Image
-      * Any errors
-    * For each past renewals
-      * Date and time of renewal
-      * Person who renewed
-      * 
+This page provides the user with details for a single medication on file with the VA.
+
+#### Content 
+Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+
+* H1 for this page should be the name, strength, and form of the medication
+* VA prescription details should include 
+   * Last filled date
+   * Information about the current status - see phase 0 content document
+   * Current status
+   * Definition of current status
+   * Refills left
+   * Prescription expiration date
+   * Rx number
+   * Date originally prescribed
+   * Provider who originally prescribed
+   * Facility at which originally prescribed
+   * Pharmacy phone number to call to get additional information
+   * Instructions
+   * Reason for use (indication)
+   * Quantity for each fill/refill
+   * Refill history, where each entry includes
+     * Refill number, or if original fill, it should say original fill
+     * Filled date (dispened, not estimated)
+     * Shipped date, if shipped
+     * Medication image
+     * Medication description
+
 ##### Functionality 
 
 * Link to allergies list
@@ -138,7 +139,8 @@ Details should include
 Fill or refill error alert
 * Tell patient if a med was unable to be filled due to issue. \
 * This should be a dismissable alert
----
+</details>
+
 #### Refilling a medication
 * When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
 * For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality. 
@@ -148,6 +150,11 @@ Fill or refill error alert
 #### Renewing a medication
 For MVP:
 * 15 days before X date (need to decide which one), alert user that a VA prescription has **no** refills left and what actions a user should take to get a VA prescription renewed. 
+
+</details>
+
+### Phase 0 assets
+* Shipped product should exactly align with the content written in [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
 
 Post Phase 0:
 * As a user, I can refill multiple prescriptions at once using a refill all button.
