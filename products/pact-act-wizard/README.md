@@ -1,6 +1,7 @@
+# PACT Act Wizard Product Overview
 
 ## Overview
-Provide a (relatively) easy way for a Veteran or Veteran's representative (family member, caregiver, other) to understand whether the PACT Act may apply to them, affect their benefit eligibility, etc. 
+The PACT Act Wizard was built to provide a (relatively) easy way for a Veteran or Veteran's representative (family member, caregiver, other) to understand whether the PACT Act may apply to them, affect their benefit eligibility, etc. 
 
 ## Problem Statement
 The [PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967/text) is intended to significantly improve healthcare access and funding for Veterans who were exposed to toxic substances during military service. The law itself is not easy for a Veteran to read and understand whether or not it directly affects them and their benefits.
@@ -140,7 +141,7 @@ N/A - brand new product
 - People:
   - OCTO-DE Leads: Dave Conlon & Danielle Theirry
   - OCTO-DE IA: Mikki Northuis
-  - PM: Wesley Rowe (A6)
+  - PM: Fran Cross (A6)
   - DM: Jill Adams (A6)
   - Engineering:
   - Design:

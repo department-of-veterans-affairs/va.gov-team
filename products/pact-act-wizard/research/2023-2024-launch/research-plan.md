@@ -84,7 +84,7 @@ We will conduct **remote moderated usability testing** to observe research parti
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. 
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/2023-2024-launch/conversation-guide.md)
 - [Link to prototype](https://www.surveymonkey.com/r/KKVHSFV)
 	
 ## Recruitment
