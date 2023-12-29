@@ -117,8 +117,8 @@ ________________________________________________________________________________
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
-        - 🟦 [[BE] Determine JSON response format for appointments and facilities info to vets-website](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72557)'
-        - 🟦 [[BE] Solution design for upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72703)'
+        - 🟦 [[BE] Determine JSON response format for appointments and facilities info to vets-website](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72557)
+        - 🟦 [[BE] Solution design for upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72703)
         - 🟦 [[BE] - Figure out which facilities endpoint to use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72147)
         - 🟩 [[FE] - Add review button to pre-check-in details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71267)
         - 🟩 [[FE] - Unified demographics fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72443)
