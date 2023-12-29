@@ -27,7 +27,7 @@ The Outreach & Events hub contains several pages outlined in the diagram below.
 <details>
   <summary><strong>Outreach & Events current users flow</strong> (Click to show diagram)</summary>
   
-  ![Outreach & Events current users flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O%26E_User_Paths_1.png)
+  ![Outreach & Events current users flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design/O%26E_User_Paths_1.png)
 </details>
 
 ---
@@ -106,7 +106,7 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 <details>
   <summary><strong>Outreach & Events initial wireframing of filtering feature</strong> (Click to show diagram)</summary>
   
-  ![Outreach & Events Use cases/flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Usecase_Workflows_1.png)
+  ![Outreach & Events Use cases/flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design/O&E_Usecase_Workflows_1.png)
 </details>
 
 ---
@@ -120,9 +120,9 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 <details>
   <summary><strong>Outreach & Events screen concepts</strong> (Click to show diagram)</summary>
   
-  ![Wireframes of MVP filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Wireframes_2.png)
+  ![Wireframes of MVP filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design/O&E_Wireframes_2.png)
   
-  ![Wireframes of future state filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Wireframes_3.png)
+  ![Wireframes of future state filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design/O&E_Wireframes_3.png)
 </details>
 
 ---

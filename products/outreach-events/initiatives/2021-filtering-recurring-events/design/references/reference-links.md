@@ -7,7 +7,7 @@
 
 ### Outreach and events calendar
 
-[O&E hub page link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
+[O&E hub page link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design)
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |

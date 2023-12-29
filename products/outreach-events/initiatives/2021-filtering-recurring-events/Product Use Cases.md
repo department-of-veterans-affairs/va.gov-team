@@ -27,7 +27,7 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
   -   User clicks on CTA button on event listings and is no rerouted to registration process
 
 * **Link to designs**
-  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
@@ -40,7 +40,7 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
   -  User clicks on selection but is taken to different selection (not intended selection)
 
 * **Link to designs**
-  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
@@ -54,7 +54,7 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
   -   User is able to click on selected links in event listing from recurring events expander 
 
 * **Link to designs**
-  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design) 
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design) 
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
@@ -65,7 +65,7 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
   -   User clicks on header breadcrumb to navigate back to Outreach & Events main page and is not routed 
 
 * **Link to designs**
-  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/initiatives/2021-filtering-recurring-events/design)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]

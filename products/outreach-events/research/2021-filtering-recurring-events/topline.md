@@ -2,8 +2,8 @@
 
 Cindy Merrill, Public Websites team, Dec 10, 2021
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/conversation-guide.md)
 
 This topline summary is a high level, top-of-mind summary of trends observed in the research sessions, but is not the final result of working with the data discovered. *The information in this document may change, following a deeper review and analysis of the data gathered.*
 

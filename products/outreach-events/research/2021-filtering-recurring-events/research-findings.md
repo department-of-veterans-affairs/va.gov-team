@@ -10,17 +10,17 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 **Jump to:**
 
-[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-findings.md#hypotheses-and-conclusions)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#key-findings)
+[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-findings.md#recommendations)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#further-research-needed)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-findings.md#further-research-needed)
 
-[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#appendix)
+[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-findings.md#who-we-talked-to)
 
 <br>
 
@@ -147,7 +147,7 @@ Note: None of the research participants had ever seen the Outreach Events page o
 2. One participant was concerned about the ease of coming back to register for additional occurrences of a given event and **hoped that their information would be saved so they wouldn't have to enter it every time**. Can we save the information entered previously? Or can we pre-populate the user's contact information if they're currently logged into VA.gov?
 3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag. Below _(left)_ is the flag on VA.gov with 3 rows of stars that form a  different shape from the stars in the real American flag _(below right from Wikipedia)_ with 9 rows that form a rectangle. (CURRENTLY BEING WORKED ON)
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/Amer-flag-VAgov.png"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/Amer-flag-wikipedia.png" width="10%" height="10%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/Amer-flag-VAgov.png"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/Amer-flag-wikipedia.png" width="10%" height="10%">
 
 # Recommendations
 The recommendations for MVP have been discussed with the Public Websites team, and the status and next steps are documented in CAPS.
@@ -182,16 +182,16 @@ We would like to test these design features with participants who use screen rea
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/conversation-guide.md)
 
-[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/research/notes)
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/research/2021-filtering-recurring-events/notes)
 
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/analysis/Outreach%20%26%20Events%20notes%20%26%20data%20analysis.xlsx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/analysis/Outreach%20%26%20Events%20notes%20%26%20data%20analysis.xlsx)
 
 ## Pages and applications used
 
@@ -200,17 +200,17 @@ We would like to test these design features with participants who use screen rea
 [Mobile prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
 
 ### Screenshot of Event List
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/event-list.png" width="30%" height="30%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/event-list.png" width="30%" height="30%">
 
 ### Screenshot of the Date Filter options
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/date-filter.png" width="30%" height="30%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/date-filter.png" width="30%" height="30%">
 
 ### Screenshot of Date Entry via dropdowns
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/date-entry.png" width="30%" height="30%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/date-entry.png" width="30%" height="30%">
 
 ### Screenshot of Event Detail for a recurring event
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/event-detail-top.png" width="30%" height="30%">
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/event-detail-bottom.png" width="30%" height="30%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/event-detail-top.png" width="30%" height="30%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/event-detail-bottom.png" width="30%" height="30%">
 
 # Who we talked to 
 We talked to **8 participants.**
@@ -272,4 +272,4 @@ This research may not include the perspectives of the following underserved Vete
 
 <br>
 
-![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/recruitment-checker.png)
+![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/images/recruitment-checker.png)
