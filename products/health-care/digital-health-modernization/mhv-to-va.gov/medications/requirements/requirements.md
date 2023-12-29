@@ -102,6 +102,11 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 * H1 for this page should be the name, strength, and form of the medication
 * VA prescriptions should include the following details
    * Last filled date
+   * If applicable, shipping tracking information for 15 days after shipment
+      * Tracking number
+      * Shipped on date
+      * Delivery service (e.g. Fedex)
+      * Prescriptions in this package
    * Information about the current status - see phase 0 content document
    * Current status
    * Definition of current status
@@ -133,6 +138,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 #### Functionality 
 * Ability to download details of current medication as a PDF
 * Ability to print the currently in view details of medication
+* For 15 days after shipment, a user should be able to click on a shipment tracking number which opens up tracking information on the respective delivery service's website
 * If prescription has status active with no original fill
   * Ability to fill this prescription by pressing a single button
   * When pressed, provide immediate loading indicator inline
@@ -151,11 +157,39 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 * [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
 * [Sketch designs](https://www.figma.com/file/ErrBlPKh9aDxVRu9Ua6OlJ/RX-IMPORT-from-Sketch-FOR-REFERENCE?type=design&t=V4EbDpyXVox5ZrJg-6)
 
-Post Phase 0:
+### Key design decisions
+<details>
+<summary>List of key design decisions</summary>
+</br>
+   
+| Decision       | Reasoning     |
+|----------------| ---------------- |
+|For phase 0 MVP, users will only be able to fill prescriptions one at a time. |Individual refills are a must have fuctionality and are considered MVP. Bulk refilling improves efficiency but is not required for users. |
+|Meds on VA.gov will not include self-entered medications.|Research showed that self-entered meds aren't ever seen by doctors, only by patients. This creates confusion where a patient thinks their doctor is aware of self-entered meds. Closing this gap requires much more investment and research. Therefore, self-entered medications is considered a separate initiative and will be made available through means other than VA.gov, such as via pre-visit questionnaires.|
+|For phase 0 MVP, users will only be able to sort medications. There will be no filter or search capability.|Filtering and searching are not must-haves. However, sorting was thought to be must-have due to the potential of the list view to include hundreds of meds and there needed to be some way to organize it to find what you are looking for. Phase 0 feedback will provide the proper evidnece needed to decide how to invest in filtering and searching.|
+|The list view will provide just enough information to identify which med you are looking for, and nothing more. This includes name, strength, dose, last filled date, and status.|The combination of these fields will enable user recognition and create unique cards. Rx # is not easily recognized and instructions are too verbose and likely not unique to a particular prescription.|
+|Cards in the list view will include status and a brief plain langauge explainer of that status where needed.| Including statues on the cards allows for sorting alphabetically by status and in the future can be used for easier understanding of filters. However, research showed that statuses were difficult for users to define and so we also included a plain language description to make sure users took the right actions in response. Statuses cannot be easily updated due to PBM Directive 1164.|
+|The about medications page will stay around post-phase 0.|It includes important information about what is and is not included in the medications tool, which is infomration that is required to be included within the tool to comply with VA directive 1164.|
+|Users must call the automated pharmacy renewal phone number or send a SM to renew an Rx.|Building a push-button renewal functionality would take a lot of work and time, and is not a must have. Relying on phone or SM is at parity with the current tool.|
+
+</details>
+
+
+### Post phase 0 possible improvements
+<details>
+<summary>List of possible improvements</summary>
+</br>
+
+None of the following improvements are required, but were discussed during the design of Phase 0 MVP and shelved for future consideration.
+
 * As a user, I can refill multiple prescriptions at once using a refill all button.
-* When a med is active, a refill is not in process, and there **no** refills left, a user should be able to request a renewal by pressing an action link. 
-* When pressing the action link, initiate a pre-filled secure message to the ordering provider's triage group. In this screen, also provide a number to call AudioCare. A user should be able to edit the triage group name and also add a note.
-* Process form or something that shows where the prescription is in the process
+* As a user, I can search for and find a prescription by name or reason for use.
+* As a user, I can filter my list of meds by status.
+* As a user, I can view a description of my filled medication based on NDC.
+* As a user, I can view additional information about my prescription based on NDC. This could leverage the Veterans Health Library or Krames.
+* As a user, I can initiate a pre-filled secure message to the ordering provider's triage group to renew a medication.
+</details>
+
 
 ## Phase 1
 
