@@ -19,7 +19,7 @@ Last updated: November 2019
 This table appears to be legacy discovery information. It should become a display of modern integration data for what is included in the Facility Locator, and how it's integrated, as a topline summary. 
 
 | **Source** | **Contains** | **Owner** | **API endpoint** | **Notes** |
-| --- | --- |--- | --- |
+| --- | --- |--- | --- | --- |
 | GIS 	| VHA facility basic info (address, hours, lat/long, name, type) | | | Pulled daily through a Sidekiq job into the vets-api Postgres database |
 | ArcGIS  | VBA facility basic info (address, hours, lat/long, name, type) | ESRI Support, GeoBISL POC is Michael Villeneuve (michael.villeneuve@va.gov) | | Pulled daily through a Sidekiq job into the vets-api Postgres database. Backed by a "Facility locator" table in CDW with information provided by the VSSC team. |  
 | ArcGIS | NCA facility basic info (address, hours, lat/long, name, type) | ESRI Support, GeoBISL POC is Michael Villeneuve (michael.villeneuve@va.gov)  | Cemetery: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/cemetery_data/cems.xml| Pulled daily through a Sidekiq job into the vets-api Postgres database. Backed by a "Facility locator" table in CDW with information provided by the VSSC team. |  
