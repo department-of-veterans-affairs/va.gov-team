@@ -65,7 +65,6 @@ ________________________________________________________________________________
      - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
         - 🟩 [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
     - **Sub Goal: Migrate Sktech Files to Figma**
-        - 🟥 [[UX] [Design] [Spike] Test run moving files to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72466)
         - 🟥 [[UX] [Design] Move files to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71690)
         - 🟥 [[UX] [Design] Identify what needs to be cleaned up in files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71691)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
