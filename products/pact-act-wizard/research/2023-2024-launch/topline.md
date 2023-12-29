@@ -2,8 +2,8 @@
 
 Cindy Merrill, Sitewide Public Websites team, October 10, 2023
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/conversation-guide.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/2023-2024-launch/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/research/2023-2024-launch/conversation-guide.md)
 
 This topline summary is a high level, top-of-mind summary of trends observed in the research sessions, but is not the final result of working with the data discovered. *The information in this document may change, following a deeper review and analysis of the data gathered.*
 
