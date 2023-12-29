@@ -53,7 +53,7 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
 This page provides the user with a list of their medications on file at the VA.
 
 #### IA
-URL: `.../my-health/medications`
+URL: `.../my-health/medications`  
 Breadcrumbs: No
 
 #### Content
@@ -101,7 +101,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 This page provides the user with details for a single medication on file with the VA.
 
 #### IA
-URL: `.../my-health/medications\prescription_id`
+URL: `.../my-health/medications\prescription_id`  
 Breadcrumbs: Yes, `Medications > <Med name, strength, form>`
 
 #### Content 
@@ -168,7 +168,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 This page provides the user with information about the medications tool as well as how to renew a med.
 
 #### IA
-URL: `.../my-health/medications/about-medications`
+URL: `.../my-health/medications/about-medications`  
 Breadcrumbs: Yes, `Medications > About medications`
 
 #### Content
