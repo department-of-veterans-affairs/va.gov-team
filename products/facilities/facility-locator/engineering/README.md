@@ -8,12 +8,12 @@ To run the Facility Locator locally, you can run the front-end only, or you will
 
 Technical documentation is broken up, then, into 3 sections: 
 1. Working with the Facility Locator
-  * Vets-api / backend
-  * Front-end
+   * Vets-api / backend
+    * Front-end
 2. Data sources / API integrations
 3. Supporting the Facility Locator
-  * [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#incident-response)
-  * [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#technical-diagrams)
+    * [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#incident-response)
+    * [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#technical-diagrams)
 
 
 
@@ -60,12 +60,12 @@ https://np.dws.ppms.va.gov/v1.0/ProviderLocator?address=40.415217,-74.057114&max
 
 
 # Data sources & API integrations
-`/engineering/data-and-api-integrations` contains information about each data integration in the Facility Locator. 
+`[/engineering/data-and-api-integrations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations)` contains information about each data integration in the Facility Locator. 
 
 Each subfolder contains an implementation .md file with details specific to that integration. 
 
-## Endpoint descriptions 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/data-and-api-integrations/README.md
+## API Endpoint descriptions 
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations#api-data
 
 # Supporting the Facility Locator
 
