@@ -75,7 +75,39 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 1. Participants will be able to easily navigate to the appointments tool from all entry points.
 
+_Definitely False_
+
 We didn't test all entry points with all participants. Results below indicate the number of participants who passed through the point listed:
+
+
+
+
+2. Participants will be able to easily print a list of their appointments.
+
+_Definitely True_
+
+3. Participants at Cerner facilities will be able to easily navigate to My VA Health.
+
+_Not enough information_
+
+Two participants were at Cerner facilities, so we don't have enough information to draw a conclusion.
+
+4. The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.
+
+
+
+
+## Key Findings
+
+_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+
+1. Logging in was the biggest challenge to accessing the appointments tool.
+
+Half of participants ran into trouble while logging in, and all commplained that the process of logging in can be frustrating.
+
+Once they logged in, X participants easily navigated to the appointments list
 
 **Login (all)**
 <abbr title="">About half</abbr> of our participants had trouble during the login process, and <abbr title="8 out of 12">most</abbr> reported that they generally find login to be frustrating.
@@ -87,29 +119,30 @@ All but one participant was able to navigate easily from My VA to Appointments (
 <abbr title="9 out of 12">Most participants</abbr> were able to navigate to the Appointments tool through the static landing page. 5 complained about information overload on this page, or that it was frustrating to land on it after logging in. One would have abandoned the process at this page if they had to deal with it outside of the test.
 
 **My HealtheVet**
-We started most participants on VA.gov, so generally they had
+We started most participants on VA.gov, so they usually encountered the My HealtheVet National Portal after they had seen the appointments tool and the MHV on VA.gov home page. This was the most challenging path to appointments, and we'll cover it in the finding [TBD]
+
+1. Participants easily navigated the appointments list.
+
+X participants had no trouble opening a details page and exploring their appointments.
+
+X participants struggled with the Pending option.
+
+X participants couldn't find their past appointments without help.
+
+2. Participants easily navigated to the MHV on VA.gov home page.
+
+Only one participant was unable to navigate to the MHV on VA.gov home page. All others were able to use at least one method:
+- X used the breadcrumb
+- X used the My HealtheVet button on the navbar
+- X used the dropdown in the Profile menu
+
+3. All participants were able to easily find and use the print button.
+
+4. Navigating multiple portals was a barrier to finding appointment information.
+
+We asked participants to explore My HealtheVet fro the MHV on VA.gov home page. Most went to Secure Messaging, some to medical history. Afterwards, we asked them if they could find a way to schedule an appointment.
 
 
-2. Participants will be able to easily print a list of their appointments. 
-
-3. Participants at Cerner facilities will be able to easily navigate to My VA Health.
-
-4. The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.
-
-
-## Key Findings
-
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
 
 5. Finding five
 
