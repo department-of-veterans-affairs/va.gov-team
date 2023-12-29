@@ -16,7 +16,7 @@ When following this guide to create a `ClientConfig` it is recommended to also r
 
 ## Client Config Attributes
 
-The [Client Config model](app/models/sign_in/client_config.rb) has the following attributes:
+The Client Config model has the following attributes:
 
 | Attribute | Data Type | Description | Sample Value | Auth Flow |
 | --- | --- | --- | --- | --- |

@@ -1,20 +1,32 @@
 # Service Account Configuration
 
-## Description
+## Version History
 
-## Attributes
-
- ServiceAccountConfigs have the following attributes:
-
-| attribute | data type | description | sample value |
+| Version Number | Author | Revision Date | Description of Change |
 | --- | --- | --- | --- |
-| `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
-| `description` | string | custom text description of account integration | Some Sign in Service Client |
+| 0.1 | John Bramley | 12/29/2023 | Initial creation |
+
+## Summary
+
+Sign in Service [Service Account](../auth_flows/service_account.md) clients are managed through a `ServiceAccountConfig` class within vets-api. In order to perform a Service Account authentication with SiS a valid ServiceAccountConfig must be present.
+
+When following this guide to create a `ServiceAccountConfig` it is recommended to also refer to the Service Account auth guide linked above, which will details individual settings necessary for that authentication type.
+
+## Service Account Config Attributes
+
+ The Service Account Config model has the following attributes:
+
+| Attribute | Data Type | Description | Sample Value |
+| --- | --- | --- | --- |
+| `service_account_id` | uuid | unique identifier for account connection | `9caf51576cd6fe65b662588584ed97b1` |
+| `description` | string | custom text description of account integration | `Some Sign in Service Client` |
 | `scopes` | array | one or more string URL permissions granted to the client | ['http://localhost:3000/sign_in/client_configs'] |
-| `access_token_audience` | string | URL of the requesting account | http://localhost:4000 |
-| `access_token_duration` | DateTime | duration of access token; maximum of 5 minutes | 5.minutes |
+| `access_token_audience` | string | URL of the requesting account | `http://localhost:4000` |
+| `access_token_duration` | DateTime | duration of access token; must be 5 minutes | `5.minutes` |
 | `certificates` | array | one or more public certs provided by the client | ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCC..."] |
-| `access_token_user_attributes` | array | optional user attribute parameters, specified by the client, to be included in the generated token | ['icn', 'type', 'credential_id'] |
+| `access_token_user_attributes` | array | optional user attributes, provided by the client, to be included in the generated token; allowed values: `icn`, `type`, `credential_id` | { 'type': 'logingov', 'credential_id': '169d813b-7bf4-4ab7-85b6-e97c7198be1e' } |
+
+## Creating a Service Account Config
 
 ### Manual Service Account Config Creation
 
@@ -23,7 +35,7 @@
   ```ruby
   service_account_config = SignIn::ServiceAccountConfig.new({
     service_account_id: SecureRandom.hex,
-    description: 'Sample Client API',
+    description: 'Sample Service Account Client',
     scopes: ['http://localhost:3000/sign_in/client_configs'],
     access_token_audience: 'http://localhost:4000',
     access_token_duration: 5.minutes,
@@ -33,9 +45,30 @@
 
 ### Seeded Service Account Config Creation
 
-- the `vets-api` development seed file contains a configuration for multiple Service Account Configs similar to the one above; to populate them run `rails db:seed` from `vets-api` root and confirm through a rails console or Postgres that the entries created.
+- The `vets-api` development seed file contains configurations for multiple Service Account Configs similar to the one above; to populate them run `rails db:seed` from `vets-api` root and confirm through a rails console or Postgres that the entries were created.
 
-### `service_account_id` & Private Certificates
+```ruby
+# rails client
+`SignIn::ServiceAccountConfig`.all
+  =>                                                                                         
+[<SignIn::ServiceAccountConfig:0x00007f2c9216f510
+  id: 1,                                                                                    
+  service_account_id: "01b8ebaac5215f84640ade756b645f28",                                   
+  description: "VA Identity Dashboard API"...>]
+```
 
-- Regardless of the source of your Service Account Config, copy the `service_account_id` that you randomly generated or passed in, it will be required in your service account assertion.
+```bash
+# Postgres
+psql -U postgres
+\c vets-api
+SELECT service_account_id, description FROM service_account_configs;
+        service_account_id        |        description        
+----------------------------------+---------------------------
+ 01b8ebaac5215f84640ade756b645f28 | VA Identity Dashboard API
+ 88a6d94a3182fd63279ea5565f26bcb4 | Chatbot
+```
+
+## Service Account Assertion & Private Certificates
+
+- Regardless of the source of your Service Account Config, copy the `service_account_id` that you randomly generated or passed in, it will be required in your [Service Account assertion](../auth_flows/service_account.md#service-account-token-request).
 - You will need the private key paired with the certificate you registered; the certificate in the example above & the development seed config is paired with the [SiS test service account private key](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/fixtures/sign_in/sample_service_account.pem).

@@ -37,12 +37,12 @@ When registering a Client Config for a web or cookie integration with SiS, the f
 ## Sequence Diagram
 
 ![vagovweboauth (1)](https://user-images.githubusercontent.com/71290526/175662350-1ecccfcf-4da3-4370-9483-5b15c263d428.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/Web_OAuth.md)
+[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/Diagrams/Web_OAuth.md)
 
 ## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
+[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
 ## Sign in Service Public Routes
 

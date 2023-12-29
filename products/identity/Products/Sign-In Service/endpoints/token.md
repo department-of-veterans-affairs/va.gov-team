@@ -143,21 +143,21 @@ The Service Account auth flow will return an `access_token` that is distinct fro
 ### Sample request
 
 ```ruby
-# current_time = Time.now.to_i
-# token = {
-#   'iss' => 'http://localhost:4000',
-#   'sub' => 'email_address@gmail.com',
-#   'aud' => 'http://127.0.0.1/v0/sign_in/token',
-#   'iat' => current_time,
-#   'exp' => current_time + 300,
-#   'scopes' => ['http://localhost:3000/v0/account_controls/credential_index'],
-#   'service_account_id' => '01b8ebaac5215f84640ade756b645f28',
-#   'jti' => '2ed8a21d207adf50eb935e32d25a41ff',
-#   'user_attributes' => { 'icn' => '1012667122V019349' }
-# }
-# private_key = OpenSSL::PKey::RSA.new(File.read('private_key.pem'))
-# JWT.encode(token, private_key, 'RS256')
-# => "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHrw..."
+current_time = Time.now.to_i
+token = {
+  'iss' => 'http://localhost:4000',
+  'sub' => 'email_address@gmail.com',
+  'aud' => 'http://127.0.0.1/v0/sign_in/token',
+  'iat' => current_time,
+  'exp' => current_time + 300,
+  'scopes' => ['http://localhost:3000/v0/account_controls/credential_index'],
+  'service_account_id' => '01b8ebaac5215f84640ade756b645f28',
+  'jti' => '2ed8a21d207adf50eb935e32d25a41ff',
+  'user_attributes' => { 'icn' => '1012667122V019349' }
+}
+private_key = OpenSSL::PKey::RSA.new(File.read('private_key.pem'))
+JWT.encode(token, private_key, 'RS256')
+=> "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHrw..."
 
 staging-api.va.gov/v0/sign_in/token
   ?grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant%2Dtype%3Ajwt%2Dbearer

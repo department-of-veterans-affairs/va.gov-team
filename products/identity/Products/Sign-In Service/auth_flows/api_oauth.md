@@ -38,12 +38,12 @@ When registering a Client Config for a mobile or API integration with SiS, the f
 
 ## Sequence Diagram
 
-![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Sign%20In%20Service/Diagrams/PKCE_Oauth.md)
+![pkce_oauth_diagram](https://user-images.githubusercontent.com/71290526/158837072-3e777557-e223-4a9c-948b-dd312f2b88cb.png)[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/Diagrams/PKCE_Oauth.md)
 
 ## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/20125855/177562919-43b99aa7-287b-475b-aa2f-da0e00c05a5c.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
+[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
 
 ## Sign in Service Public Routes
 

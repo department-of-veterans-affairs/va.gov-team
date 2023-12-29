@@ -19,9 +19,15 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 
 - A [`ServiceAccountConfig`](../configuration/service_account_config.md) must be registered with appropriate SiS environment in order to receive Service Account access_tokens. This database object provides SiS with the client's public certificates and scoped permissions used to authenticate requests and provision scoped access tokens.
 
+## Service Account Flow
+
+### Technical Diagram
+
+![Service Account Auth Flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/71290526/4cac8550-66cf-4678-a015-12d0b2b03b03)
+
 ## Service Account Token Request
 
-- Service Account authentication uses the same [`POST /token`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md) endpoint as standard user authentication to request a token. The two are differentiated by their `grant_type` params:
+- Service Account authentication uses the same [`POST /token`](../endpoints/token.md#service-account-auth) endpoint as standard user authentication to request a token. The two are differentiated by their `grant_type` params:
 - The params sent in the request MUST include:
   - `grant_type`: `urn:ietf:params:oauth:grant-type:jwt-bearer`
     - this needs to be URL-encoded if going through a browser: `urn%3Aietf%3Aparams%3Aoauth%3Agrant%2Dtype%3Ajwt%2Dbearer`
@@ -34,7 +40,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 | attribute | data type | description | sample value |
 | --- | --- | --- | --- |
 | `iss` | string | issuer of Service Account assertion, must matched the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
-| `sub` | string | email of the user requesting the action | vets.gov.user+0@gmail.com |
+| `sub` | string | email of the user requesting the action | `vets.gov.user+0@gmail.com` |
 | `aud` | string | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token |
 | `iat` | integer | current time in Unix/Epoch (10 digit) format | 1691702191 |
 | `exp` | integer | assertion should have a 5 minute (300 second) duration | 1691702791 |
@@ -68,6 +74,11 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
     => "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHrw..."
   ```
 
+- This Assertion JWT will be validated to ensure
+  - The JWT is properly signed by the expected Service Account using the ServiceAccountConfig stored public certificates.
+  - The token is not expired.
+  - The requested permissions are appropriate - *all* scopes in the assertion are a subset of the scopes in the saved ServiceAccountConfig.
+
 ### Example Request
 
 ```
@@ -84,6 +95,16 @@ assertion=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjQwMDAiLCJzdWIiO
 
 - Sign in Service responds with a JSON object in `application/json` format, response data is held within an initial `data` key.
 - `access_token` contains the encoded JWT access token, signed by Sign in Service's private key
+- The returned token has the following attributes:
+
+- `iss`: SiS Issuer (`va.gov sign in`)
+- `aud`: URL of Service Account making the token assertion
+- `jti`: a random unique identifier
+- `sub`: email address of user requesting delegated access
+- `iat`: creation time in epoch
+- `exp`: expiration time in epoch (5 minutes after creation time)
+- `version`: version number
+- `scope`: array of URL strings for scoped authorization
 
 ### Example Response
 
@@ -151,6 +172,10 @@ JWT.decode(encoded_token, public_key.public_key, true, { algorithm: 'RS256' }).f
 
 - Make a request to `<vets-api-environment>/v0/account_controls/credential_index`, passing your access token (including the ICN you are querying) with Bearer auth.
   - The URL you request must match the `scopes` of the Service Account access token; they are compared before access is granted.
+- The access token will be validated against the following criteria:
+  - The JWT signature will be validated against SiS's public key.
+  - The token will be validated to ensure it is not expired.
+  - The scope or scopes in the JWT will be validated against the currently requested URL to ensure there is a match.
 - If your access token is accepted then `/client_config` will return a `200` response with data on the credentials tied to the requested ICN.
 
 ```bash
