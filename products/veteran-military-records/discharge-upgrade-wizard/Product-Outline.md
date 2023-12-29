@@ -57,7 +57,7 @@ Some service members who received a less-than-honorable discharge in the past we
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Q1 2024: [Update to subtask pattern](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/discharge-upgrade-wizard-subtask/initiative-brief.md)
+- Q1 2024: [Update to subtask pattern](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask/initiative-brief.md)
 - [2021 content updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2021-content-updates/initiative-brief.md)
 
 

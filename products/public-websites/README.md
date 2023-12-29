@@ -437,7 +437,7 @@ https://www.va.gov/discharge-upgrade-instructions
 
 The discharge upgrade wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview as of 2022. 
 
-Q1 2024 will include an [initiative to rebuild the tool using the DS sub-task pattern](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/discharge-upgrade-wizard-subtask), and to modernize content.
+Q1 2024 will include an [initiative to rebuild the tool using the DS sub-task pattern](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask), and to modernize content.
 
 **More info:**
 * [Discharge Upgrade wizard product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
