@@ -57,6 +57,8 @@ ________________________________________________________________________________
        - 🟦 [[BE] Implement VAOS Appointment Serializer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
   - **Sub Goal: Analyze current metrics to see what they tell us**               
+       - 🟩 [[BUG] [FE] Check if 45MR GA event is appending correctly](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7267172)
+       - 🟩 [[BUG] [FE] Adjust "no" demo GA event values for 45MR](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72662)
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72314)
 - **GOAL: Address Tech Debt**            
