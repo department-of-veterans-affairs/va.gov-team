@@ -76,12 +76,12 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
   * Alphabetically by status
   * Alphabetically by name
 * For each medication, a user should be able to click on the first line of the card (name, strength, and form) to view detailed information about that medication
-* For each active prescription in the list with no original fill
+* For each prescription with status active in the list with no original fill
   * Ability to fill this prescription by pressing a single button
   * When pressed, provide immediate loading indicator inline
   * If successful, provide inline success alert and update card information
   * If unsuccessful, provide inline error alert
-* For each active prescription in the list with refills left
+* For each prescription in the list with status active and with refills left
   * Ability to refill this prescription by pressing a single button
   * When pressed, provide immediate loading indicator inline
   * If successful, provide inline success alert and update card information
@@ -100,7 +100,7 @@ This page provides the user with details for a single medication on file with th
 Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
 
 * H1 for this page should be the name, strength, and form of the medication
-* VA prescription details should include 
+* VA prescriptions should include the following details
    * Last filled date
    * Information about the current status - see phase 0 content document
    * Current status
@@ -120,41 +120,36 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
      * Filled date (dispened, not estimated)
      * Shipped date, if shipped
      * Medication image
-     * Medication description
+* Non-VA prescriptions should include the following details
+  * Date documented
+  * Instructions
+  * Reason for use
+  * Status: Non-VA
+  * Definition of statusWhen you started taking this medication
+  * Documented by
+  * Documented at this facility
+  * Provider notes 
 
-##### Functionality 
-
-* Link to allergies list
-* Ability to refill this prescription (when applicable)
-* Ability to renew this prescription (when applicable)
-* Learn more about a status in context
-* Tracking alert that shows
-* For each package in shipment
-  * Tracking number and link 
-  * Date shipped
-  * Delivery service
-  * Other prescriptions in package 
-* This alert should go away 15 days after most recent shipped date
-
-Fill or refill error alert
-* Tell patient if a med was unable to be filled due to issue. \
-* This should be a dismissable alert
+#### Functionality 
+* Ability to download details of current medication as a PDF
+* Ability to print the currently in view details of medication
+* If prescription has status active with no original fill
+  * Ability to fill this prescription by pressing a single button
+  * When pressed, provide immediate loading indicator inline
+  * If successful, provide inline success alert and update details information
+  * If unsuccessful, provide inline error alert
+* If prescription has status active with refills left
+  * Ability to refill this prescription by pressing a single button
+  * When pressed, provide immediate loading indicator inline
+  * If successful, provide inline success alert and update card information
+  * If unsuccessful, provide inline error alert
+* If prescription needs renewed (active with no refills or inactive)
+  * Provide link to information about how to renew a medication
 </details>
 
-#### Refilling a medication
-* When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
-* For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality. 
-* When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
-* Once a med has been dispensed, start the process over again.
-
-#### Renewing a medication
-For MVP:
-* 15 days before X date (need to decide which one), alert user that a VA prescription has **no** refills left and what actions a user should take to get a VA prescription renewed. 
-
-</details>
-
-### Phase 0 assets
-* Shipped product should exactly align with the content written in [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
+### Assets
+* [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
+* [Sketch designs](https://www.figma.com/file/ErrBlPKh9aDxVRu9Ua6OlJ/RX-IMPORT-from-Sketch-FOR-REFERENCE?type=design&t=V4EbDpyXVox5ZrJg-6)
 
 Post Phase 0:
 * As a user, I can refill multiple prescriptions at once using a refill all button.
