@@ -1,6 +1,6 @@
 # Vet Center Detail Page - MVP Design 
 
-- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
+- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/discovery-brief.md)
 - [Vet Center Design - root directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design) - Project summary
 
 ## MVP design (final for 2021 launch) 
@@ -133,7 +133,7 @@ Team aligned on lack of awareness being the #1 problem to solve for Vet Centers.
 
 ### Discovery - Interview synthesis
 
-[Link to Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md)
+[Link to Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/research-findings.md)
 
 
 ## Sprint 31 (ending Oct 6, 2020)
@@ -141,7 +141,7 @@ Team aligned on lack of awareness being the #1 problem to solve for Vet Centers.
 ### Discovery
 Study to understand a Vet Center client’s experience, impression and relationship with Vet Centers.
 
-[Link to Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-plan.md)
+[Link to Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/research-plan.md)
 
 
 ## Iteration 1 - Sprint 30
@@ -185,7 +185,7 @@ Outcomes: Recommendations from team
 ## Discovery - Sprint 29
 
 ### Discovery
-- [Research Findings: Outreach Specialist Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/research-findings.md)
+- [Research Findings: Outreach Specialist Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/outreach-specialist-interviews/research-findings.md)
 - [Vet Centers taxonomy DRAFT](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EYZ6B8_w_GJGi93wBq3_x8MBZ4zZgwE9V7earuu0MfDeRg?e=GfbrNS)
 
 ## Inherited Work:

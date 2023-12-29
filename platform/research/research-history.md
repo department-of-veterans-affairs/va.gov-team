@@ -224,7 +224,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### March 18 - April 9 2021 : Vet Center Services Unmoderated Taxonomy Study
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 41
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy/taxonomy-study)
 - List of keywords: Vet Centers, mental health care, PTSD, health services, counseling, transition care, keywords
 
 ### February 2021
@@ -269,7 +269,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### Januray 29 - Feb 4, 2021 : Vet Center Product - Usability V2
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 11 (10 Veterans, 4 Vet Center clients, 1 Army reservist)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 #### Jan 21 - Feb 05: VAOS Appointments List Usability Study
@@ -318,7 +318,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### December 9-16 : Vet Center Product - Usability V1
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 9 (All Veterans, 2 Vet Center clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-usability-tests)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 
@@ -397,7 +397,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 15 participants (8 clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews)
 
 ### August 2020
 
@@ -418,7 +418,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/outreach-specialist-interviews)
 
 #### August 19-20: VA.gov mobile study (mobile month)
 *VSA: Shawna Hein and Liz Lantz*

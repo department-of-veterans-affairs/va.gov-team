@@ -373,11 +373,11 @@ This service was easily found by all participants who’ve already engaged in Me
 
 ## Appendix
 
-#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/client-usability-tests/research-plan.md)
+#### [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests/research-plan.md)
 
-#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/client-usability-tests/conversation-guide.md)
+#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests/conversation-guide.md)
 
-#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests/session-notes)
+#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests/session-notes)
 
 #### [Quantitative Synthesis Spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/Ea53iF-R2WlMm6WrDdLqirsB1d9SM1IBh0VelwV--KDbGw?e=uhd0Ac)
 

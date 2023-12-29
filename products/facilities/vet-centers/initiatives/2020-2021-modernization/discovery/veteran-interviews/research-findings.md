@@ -233,9 +233,9 @@ to Vet needs, eg PTSD, MST [Language analysis to inform this]
 
 ## Appendix
 
-#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/conversation-guide.md)
+#### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/conversation-guide.md)
 
-#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
+#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews)
 
 #### [Synthesis qualitative spreadsheet](https://adhocteam-my.sharepoint.com/:x:/g/personal/leyda_hughes_adhocteam_onmicrosoft_com/EU1R6aqGYuBJsTF2t7xbj1kBddrCk1f8PSgVyqzCvAdnsA)
 

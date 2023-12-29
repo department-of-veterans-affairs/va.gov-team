@@ -22,7 +22,7 @@
 Vet Center pages were created to establish web presence for this group of underutilized VA facilities and the services they deliver. The Vet Center MVP was informed by a group of 10 Vet Center outreach specialists and was intentionally designed to be lean, providing information about Vet Center services and the locations where they are available.  They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - Vet Center national and local Vet Center facility.
 
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/product-brief.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632) 
 
 ## Vet Center pages product approach 
@@ -46,7 +46,7 @@ Jessica Schiefer | Jessica.Schiefer@va.gov | Communications, RCS (Vet Center POC
 The most critical path items are listed below but do not represent the total of issues on the backlog.
 
 ### Now
-- **Publish remaining District 1 and 4 pages** | [Publishing runbook - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md) 
+- **Publish remaining District 1 and 4 pages** | [Publishing runbook - March 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/publishing-runbook.md) 
 - **Request redirects as pages are published**
   - Facility Locator detail pages -> Lighthouse 
   - Legacy directory location and key staff pages -> Public Websites
@@ -67,7 +67,7 @@ The most critical path items are listed below but do not represent the total of 
 
 ### Product
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/product)
-- [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy)
+- [Service taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy)
 - Results from Vet Center surveys from [October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20October%202021%20(1).pptx) and [January 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/Vet%20Center%20Survey%20January%202022.pptx)
 - [CMS Vet Center Knowledge Base](https://prod.cms.va.gov/help/vet-center)
 - [CMS product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf) | December 2020
@@ -75,7 +75,7 @@ The most critical path items are listed below but do not represent the total of 
 - [Vet Center content workbook - last updated version](https://dvagov-my.sharepoint.com/:w:/r/personal/suzanne_middaugh_va_gov/Documents/Vet%20Centers/Vet%20Center%20Content%20Workbook%20March%202022_final.docx?d=w7f89750fcfc54855bb83a23f2c757950&csf=1&web=1&e=f8RjIt) _requires a VA network connection_
 - [Vet Center website development status page](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
 - [Vet Center status spreadsheet used for redirect tracking](https://prod.cms.va.gov/help/vet-centers/vet-center-website-development-status) _requires a VA network connection_
-- [Vet Center runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product/publishing-runbook.md)
+- [Vet Center runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/publishing-runbook.md)
 
 
 ### Design-research

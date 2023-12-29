@@ -240,7 +240,7 @@ Responses were analyzed by word frequency and by theme. Anxiety was the #1 sympt
 
 - Add common PTSD symptoms to “Mental health care”.
 
-- Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md): “small”, “safe”, “intimate”, “confidential”, etc. to combat: “big”, “intimidating”, “bureaucratic” in describing how it’s delivered at a Vet Center.
+- Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/research-findings.md): “small”, “safe”, “intimate”, “confidential”, etc. to combat: “big”, “intimidating”, “bureaucratic” in describing how it’s delivered at a Vet Center.
 
 ## Card sort analysis
 
@@ -322,7 +322,7 @@ Participants were asked: Anything else that you think that the VA should know ab
 - “PTSD care”  - OK to use
   - Incorporate symptoms in plain language. Work with a clinician to include more symptoms.
   - Add common PTSD symptoms to “Mental health care”.
-  - Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md).
+  - Incorporate and emphasize anxiety-mitigating words and concepts from [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/research-findings.md).
 
 - Categorization: Name services and categories according to 1) what Veterans want help with, 2) what they are likely to search for, 3) what Vet Centers can provide, regardless of delivery mechanism.
 
@@ -335,7 +335,7 @@ Participants were asked: Anything else that you think that the VA should know ab
 
 # Appendix
 
-[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-plan.md)
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy/taxonomy-study/research-plan.md)
 
 [Study layout](https://app.mural.co/t/vsa8243/m/vsa8243/1615484762327/0a1d9d3a4e906166357a07521fd3d3eb958f4567)
 

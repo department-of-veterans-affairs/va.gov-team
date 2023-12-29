@@ -58,6 +58,21 @@ _Why should this project be a priority?_
 ### Project Scope and Scale
 _What's in and what's out?_
 
+## What we need to do
+
+- Understand the relationship between Vet Center, Outstation, and Community Access Point and convey this "catchment area" relationship
+- Capture the hours and location of Community Access Points and integrate into Faciltiies API (do we worry about services for MVP?)
+- Research, design, and write new content for "Prepare for your visit" section
+- Research, design, and write Vet Center services taxonomy
+- Research, design, and write (first draft/pilot) local facility content for each Vet Center service
+- Build Vet Center facilities in Drupal
+- Build VHA Vet Center services taxonomy in Drupal, and integrate into the Facilities API
+- Build and publish new front-end VA Vet Center facility product
+- Research, design, and write new content for new facility products
+- Develop national and local content maintenance capabilities
+- Train VA local and national content maintainers
+
+
 **3Q 2020**
 - By establishing Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers
 
@@ -123,7 +138,7 @@ A separate, but adjacent, effort will be needed to replace vetcenters.va.gov.
 
 ### Decisions 
 
-[Link to decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/decision-log.md)
+[Link to decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/decision-log.md)
 
 
 ### Measuring success
@@ -161,20 +176,43 @@ _Are other features dependent on this one? What do we need from partners? What d
 - Veterans/active service members/families can search for services using standard taxonomy. 
 - Vet Center services are aligned with existing health service taxonomy. 
 
+
+
+## Old/legacy Vet Center websites
+
+Eventually, we need to reach parity with our new Vet Center products so we can turn off all the old sites. There is not much on these pages so this can likely be achieved through MVP.
+
+- [Example Facility Locator facility detail page](https://www.va.gov/find-locations/facility/vc_0201V)
+- [Example Facilities and Leadership directory page](https://www.va.gov/directory/guide/facility.asp?ID=619)
+
+We need to consider what to do with the Vet Center program site: https://www.vetcenter.va.gov/ as this site may be partially offices site, partially veteran-facing
+
+Vet Centers do not have their own facility detail pages outside the Faciltiy Locator tool, however the pages from Facilities and Leadership directory are publicly available and can act as these pages.
+
+## Assumptions and early discussions
+
+- Critical that we convey the Community Access Point and Outstation locations and hours (services?) so that Veterans are aware that locations may be closer to him/her than previously thought through products like Facility Locator
+- Use schema.org and markup on Front-end to ensure that google/bing location cards are utilized in search results.
+- Vet Centers are an under-utilized and -promoted benefit/service for Veterans, so we will need to find a way to explain the value proposition of a Vet Center and link to this from the Vet Center facility product and/or indicate this as part of the facility product (more research needed)
+- ~~We need to design a Make An Appointment page that applies to all Vet Centers (not MVP)~~
+- We need to design a Connect With A Counselor Now page that applies to all Vet Centers (not MVP)
+- Vet Centers form a lot of partnerships with local community groups, so they need an Events section to highlight and promote events (not MVP)
+
+
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-[Initial Design files](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)
+[Initial Design files](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/design-readme.md)
 
 [Brand Analysis Report, March 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/VetCenters_BrandAnalysisReport_03272020.pdf)
 
 [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery)
 
-[Findings from Outreach specialist stakeholder interviews, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/Vet%20Centers%20Discovery%20-%20Research%20Findings%20.pdf)
+[Findings from Outreach specialist stakeholder interviews, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/outreach-specialist-interviews/Vet%20Centers%20Discovery%20-%20Research%20Findings%20.pdf)
 
-[Findings from Vet Center Client Research, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/Vet-Centers-Client-Research-Findings.pdf)
+[Findings from Vet Center Client Research, September 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/Vet-Centers-Client-Research-Findings.pdf)
 
-[Findings from Research Findings: Vet Center - non-client, Veteran, December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-usability-tests/research-findings.md)
+[Findings from Research Findings: Vet Center - non-client, Veteran, December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-usability-tests/research-findings.md)
 

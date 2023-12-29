@@ -1,6 +1,6 @@
 # Vet Center publishing runbook
 
-The following tasks outline the process from iniitial district kickoff to individual Vet Center publishing
+The following tasks outline the process from initial district kickoff to individual Vet Center publishing
 |	Task	|	Responsibility
 |	---	|	---
 |	In conjunction with Jessica and Dave,  determine next district, identify dates for kickoff and soft deadline	|	Facilities PM, VA PO and RCS
