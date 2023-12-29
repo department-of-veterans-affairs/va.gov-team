@@ -44,20 +44,19 @@ These errors will be shown even if the editor's original intention was not to ed
 ### Internal Communication of new feature
 * Facilities PO/PM/DM 
   * Type: async
-  * Assignee: Marcia and Berni
-* VFS-CMS & Sitewide All Team Demo Time! (meeting)
-  * Type: demo
-  * Assignee: TBD
+  * Assignee: Marcia
 * Team of Team (ToT)
    * Type: slide for ToT
   * Assignee: Marcia and Berni
+  * Date: January 02, 2024
 ### External Communication of new feature
 * VHA-DM Office Hours
    * Type: demo
   * Assignee: Marcia or Berni
+  * TBD - Confirm omit demo with Erika
 ### Documentation
-* KB article (if applicable): add link here
-* Drupal login alert (if applicable): add verbiage and publish date
+* KB article (if applicable): https://prod.cms.va.gov/help/cms-basics/alternative-text
+
 ## Engineer tasks ?
 ## Blockers
 * Blocker 1
@@ -65,10 +64,6 @@ These errors will be shown even if the editor's original intention was not to ed
 * Block 2
   * Impact: 
 ## Pre-launch
-* Training:
-    * Teams:
-    * Start date: 
-    * End date: 
 * Testing:
     * Teams:
     * Start date: 
@@ -94,6 +89,8 @@ These errors will be shown even if the editor's original intention was not to ed
 ## Post-launch
 - [ ] CMS Engineers monitor Datadog
 - [ ] CMS Help Desk monitor issues post launch and escalate any critical bugs to team
-## CMS Help Desk
+### CMS Help Desk
 Editors should report issues by [creating a ticket via JIRA](https://va-gov.atlassian.net/servicedesk/customer/portal/3) that will go directly to CMS Help Desk
+
+
 
