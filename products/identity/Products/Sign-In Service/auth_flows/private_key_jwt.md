@@ -59,6 +59,10 @@ This string can then be copied and inserted (within an array) into your Client C
 
 ## Technical Diagram
 
+## Flow Diagrams
+
+- [Unauthenticated request flow](../flow%20diagrams/private_key_jwt/unauthenticated-new-session.png)
+
 ## Public Routes
 
 ### [Token](../endpoints/token.md)

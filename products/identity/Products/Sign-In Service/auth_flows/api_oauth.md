@@ -45,6 +45,20 @@ When registering a Client Config for a mobile or API integration with SiS, the f
 ![image](https://user-images.githubusercontent.com/20125855/177562919-43b99aa7-287b-475b-aa2f-da0e00c05a5c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
 
+## Flow Diagrams
+
+### Frontend Client
+
+- [Unauthenticated request flow](../flow%20diagrams/pkce/frontend%20driven/unauthenticated-new-session.png)
+- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-expired-access-token.png)
+- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-valid-access-token.png)
+
+### Backend Client
+
+- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-expired-access-token.png)
+- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-valid-access-token.png)
+
+
 ## Sign in Service Public Routes
 
 The Sign in Service routes necessary for an PI integration are listed below. Routes that are authenticated require a valid SiS `access_token` passed through Bearer Auth. Refresh token authenticated routes requires a `refresh_token` request parameter.

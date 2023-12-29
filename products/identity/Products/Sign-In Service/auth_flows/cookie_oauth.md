@@ -44,6 +44,14 @@ When registering a Client Config for a web or cookie integration with SiS, the f
 ![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
 [Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
+## Flow Diagrams
+
+### Frontend Client
+
+- [Unauthenticated request flow](../flow%20diagrams/pkce/frontend%20driven/unauthenticated-new-session.png)
+- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-expired-access-token.png)
+- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-valid-access-token.png)
+
 ## Sign in Service Public Routes
 
 The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true` for web clients that wish to use the [Unified Sign In Page](../../Unified%20Sign%20In%20Pages/README.md). Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
