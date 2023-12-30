@@ -5,6 +5,11 @@ The VA.gov [Outreach Events calendar](https://www.va.gov/outreach-and-events/eve
   
 For this initiative, we will implement a series of functional, UX and CMS-based authoring enhancements that will more fully mature the Outreach Hub events calendar product, making it more personalized and useful for VA.gov users and easier to curate-manage by VA business stakeholders.
 
+
+EPICS: 
+* Recurring Events: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1956
+* Events V2 filters: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435
+
 ## The Problem to be Solved
 
 * Problem Defined: How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach-and-events/events/) more personalized for users (e.g. find events by date, time, event type, etc.) and easier to manage/curate for VA business users.
