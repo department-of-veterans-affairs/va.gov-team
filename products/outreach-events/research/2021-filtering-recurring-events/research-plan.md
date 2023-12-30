@@ -5,7 +5,7 @@ The Outreach & Events calendar provides a listing of upcoming national VA events
 1. Filtering events by date range
 1. Viewing recurring events together
 
-[Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/Artifacts/Initiative%20Briefing.md)
+[Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/products/outreach-events/initiatives/2021-filtering-recurring-events/initiative-briefing.md)
 
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md)
 
@@ -56,7 +56,7 @@ We will conduct remote moderated usability research sessions via Zoom. Research 
 - *Observer: Angela Fowler will observe sessions with participants using a screen reader*
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/research/2021-filtering-recurring-events/conversation-guide.md)
 - [Link to prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
 
 
