@@ -64,9 +64,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - How else do you generally interact with the VA, if at all?
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
-
-- What military information do you recall being asked for have to provide when you submitted your claim?
-- How did you get that information (memory, had to look it up, etc)?
+- [Time permitting] What military information do you recall being asked for have to provide when you submitted your claim?
+- [Time permitting] How did you get that information (memory, had to look it up, etc)?
 
 ## First Task: CST Home Page - 5 minutes
 
