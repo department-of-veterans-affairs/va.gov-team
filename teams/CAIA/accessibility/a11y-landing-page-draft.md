@@ -30,7 +30,36 @@ We aim to follow [inclusive design best practices](https://github.com/department
 ## Accessibility by discipline
 All of us are responsible for the accessibility of our products. And every discipline has a role:
 
-<details><summary>Researchers</summary></details>
+<details><summary>Researchers</summary>
+
+### Accessibility for researchers
+
+The best way to ensure that a product is accessible is to test it with users of assistive technology. Designing for complex needs first - like aging Veterans above the age of 55 or Veterans with disabilities - means designing for the future of **all** Veterans who age or acquire disabilities later in life. (Learn about [inclusive research practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md).)
+
+#### Get help
+The CAIA team can support your inclusive research sessions by:
+- Reviewing your research plan
+- Providing technical support during sessions with assistive technology (AT) users
+- Observing sessions with AT users from an accessibility point of view, and provide findings
+
+Put in an[ AT Research Support Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&projects=&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) with CAIA to get started.
+
+#### Recruiting participants
+- Use the [MVS sampling method](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#maximum-variation-sampling) to recruit participants that use assistive technology
+- Include mobile participants, or have a separate study for mobile usability testing
+- Read more about [inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md)
+
+#### Preparing prototypes for assistive technology users
+- Review [types of assitive technologies and how to modify your prototypes](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u)
+- Consider [creating your prototype in CodePen](https://depo-platform-documentation.scrollhelp.site/research-design/accessible-prototyping-with-codepen) for the most accurate results
+
+#### Research sessions
+- Read VA's guide to [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
+- Follow the [screen reader checklist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist)
+- Learn [how to be respectful of participants with disabilities](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
+
+
+</details>
 
 <details><summary>Designers</summary></details>
 
