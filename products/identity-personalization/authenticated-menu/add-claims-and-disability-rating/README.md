@@ -2,7 +2,7 @@
 
 `First Draft`
 
-**Last Updated: December 27, 2023**
+**Last Updated: January 2, 2024: Samara updated KPI section**
 
 ### Communications
 
@@ -69,40 +69,9 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 ## Measuring Success
 
-### Objective #1: Increase findability of Claims and Disability Rating 
+### Objective #1: TBD
 
-
-**KPI: See variations on "Claims" and "Disability Rating" information entirely removed from the top 10 search terms within the profile.**
-
-[Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
-
-|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
-|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**claims**” or similar from the profile (record whatever variation has the highest rank)|||||||
-|Search rank for "**disability rating**” or similar from the profile (record whatever variation has the highest rank)|||||||
-
-**KPI: See overall reduction in "Claims" and "Disability Rating" searches within the profile.**
-
-|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
-|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**claims**” searches in the top 10 profile searches|||||||
-|Raw number of "**disability rating**” searches in the top 10 profile searches|||||||
-
-**KPI: See variations on "Claims" and "Disability Rating" entirely removed from the top 10 search terms on VA.gov as a whole.**
-
-[Search results can be found on the Profile Domo dashboard](https://va-gov.domo.com/page/1834995012?userId=66061986)
-
-|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
-|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Search rank for "**claims**” or similar from the profile (record whatever variation has the highest rank)|||||||
-|Search rank for "**disability rating**” or similar from the profile (record whatever variation has the highest rank)|||||||
-
-**KPI: See overall reduction in "Claims" and "Disability Rating" searches on VA.gov as a whole.**
-
-|KPI/metric|Baseline: 2 weeks pre-launch []|Baseline: 1 week pre-launch []|1 week post-launch to 100% []|2 weeks post-launch to 100% []| 3 weeks post-launch to 100% []|4 weeks post-launch []|
-|----------|-------------|---------------|-------------------|-------------------|-------------------|-------------------|
-|Raw number of "**claims**” searches in the top 10 VA.gov searches|||||||
-|Raw number of "**disability rating**” searches in the top 10 VA.gov searches|||||||
+### Samara needs to figure out KPIs
 
 **KPI: See no increase in bounce rates from the Claims and Disability Rating pages (increase in bounce rate = people found the page but not what they were looking for).**
 
