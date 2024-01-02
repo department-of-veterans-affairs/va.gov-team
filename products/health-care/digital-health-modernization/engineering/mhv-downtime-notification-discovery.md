@@ -26,7 +26,7 @@ A [draft PR to refactor the DowntimeNotification component](https://github.com/d
 
 The MHV on VA.gov landing page leads to multiple MHV services, so it might make sense to show information about what services are unavailable when the downtime/outage is for some, but not all MHV services.
 
-The existing Downtime Notification implementation can be made aware of multiple services. Some applications also use custom components to render notifications rather than use the default `DowntimeApproaching` and `Down` components, as supported by the `DowntimeNotification` component via a `render prop`.
+The existing Downtime Notification implementation can be made aware of multiple services. Some applications also use custom components to render notifications rather than use the default `DowntimeApproaching` and `Down` components, as supported by the `DowntimeNotification` component via a `render prop`. The tradeoff is that the app would need to handle the `downtimeApproaching` vs `down` states itself; This is a minor detail.
 
 ### Automated notifications
 
