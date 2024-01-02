@@ -65,6 +65,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 
+- What military information do you recall being asked for have to provide when you submitted your claim?
+- How did you get that information (memory, had to look it up, etc)?
+
 ## First Task: CST Home Page - 5 minutes
 
 So let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a couple weeks ago, and you're logging in to check and see if there's been an update.
