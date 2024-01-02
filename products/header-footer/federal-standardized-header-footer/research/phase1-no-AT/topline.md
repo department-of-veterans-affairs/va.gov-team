@@ -11,7 +11,7 @@ This topline summary is a preliminary summary of research findings observed in t
 The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer, as well as Veteran sentiment on the new USA logo branding**. 
 
 ## Participants
-On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Service member (some people had multiple roles).
+On December 15-21, 2023, we talked over Zoom with **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Service member (some people had multiple roles).
 - Half (5 of 10) saw the **mobile** version of the prototype from a smartphone.
 - Half (5 of 10) saw the **desktop** version of the prototype from a tablet or computer.
 - Most (7 of 10) participants had **extensive experience using *VA.gov*** and/or the VA mobile app. Only one participant (a caregiver and spouse of a Veteran) had never used them before, and 2 other participants had used them only once or twice.  
@@ -30,7 +30,7 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
 1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't enough for everyone to notice.
 1. After signing in, ***2 of 5 phone users* had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 found it easily.  
 1. After signing in, ***2 of 5 desktop users* had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name. Interesting that the same number of desktop and mobile users had difficulty.
-1. After signing in and opening the Auth menu, **all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try *My VA* instead (didn't work in the prototype).
+1. After signing in and opening the Auth menu, **all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try *My VA* instead (which didn't work in the prototype).
 
 ### Footer
 10. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
