@@ -11,10 +11,10 @@ This topline summary is a preliminary summary of research findings observed in t
 The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer, as well as Veteran sentiment on the new USA logo branding**. 
 
 ## Participants
-We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Service member (some people had multiple roles).
+On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Service member (some people had multiple roles).
 - Half (5 of 10) saw the **mobile** version of the prototype from a smartphone.
 - Half (5 of 10) saw the **desktop** version of the prototype from a tablet or computer.
-- Most participants had **experience using *VA.gov*** and/or the VA mobile app. Only one participant (a caregiver and spouse of a Veteran) had never used them before, and 2 other participants had used them only once or twice.  
+- Most (7 of 10) participants had **extensive experience using *VA.gov*** and/or the VA mobile app. Only one participant (a caregiver and spouse of a Veteran) had never used them before, and 2 other participants had used them only once or twice.  
 
 ## Preliminary Findings
 ### Usability Successes
@@ -36,7 +36,7 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
 ### Footer
 10. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
 1. **Four of 10 participants described the difference between the footer links with a blue *vs.* black background** as VA/you *vs.* legal/federal. The other participants didn't articulate a difference between the two sections.
-1. One participant plus one pilot participant said that the footer was too large. A different participant commented on the lack of organization or categories in the black section of footer links. (Since this feedback isn't from multiple study participants, we won't make any changes but will track if there's any more feedback on this in Phase 2.)
+1. One study participant and one pilot participant said that the footer was too large. A different participant commented on the lack of organization or categories in the black section of footer links. (Since this feedback isn't from multiple study participants, we won't make any changes but will track if there's any more feedback on this in Phase 2.)
 1. Another participant didn't scroll all the way to the bottom of the page but only down to the USA logo, which looked like the bottom of the page to him. He said that he usually doesn't use footer links on web pages because it's just information about the company. (Since this feedback is from only one participant, we won't make changes but will track if there's any more feedback on this in Phase 2.)
 
 ### How recognize as an official government website
@@ -51,7 +51,7 @@ We talked to **10 people**--9 Veterans, 2 Caregivers, 2 family members, and 1 Se
      - "Veterans Crisis Line" (1)
 
 ### USA Logos 
-16. **Six participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
+16. **Six of 10 participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
     - not telling you anything new (3 participants) 
     - might be phishing (2)
     - fake and cheesy (1)
