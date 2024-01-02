@@ -14,7 +14,7 @@ What is:
 * Monitor that checks for 200 (success) responses from the `v0/search` API endpoint
 * Alarms if success rates fall below 97%
 
-[Video](https://us06web.zoom.us/rec/play/1Ea8wq1sRg2QssQox4fJ5TICQZPxBYQq05VncjI0Hyl8-gnao9RbxHQL1rNo1yI9K2yV63MAN9vXVhPh.LOjbjqtrOAjdoQFh?canPlayFromShare=true&from=my_recording&startTime=1698786445000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FE5dbb6Ewhi7ILpS2qMwZ1WmEnRa1caieprd3UEQWmlTVGCSKSKCORZeFrodBHPI.o6MlyTOrLC1En0z1%3FstartTime%3D1698786445000)https://us06web.zoom.us/rec/play/1Ea8wq1sRg2QssQox4fJ5TICQZPxBYQq05VncjI0Hyl8-gnao9RbxHQL1rNo1yI9K2yV63MAN9vXVhPh.LOjbjqtrOAjdoQFh?canPlayFromShare=true&from=my_recording&startTime=1698786445000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FE5dbb6Ewhi7ILpS2qMwZ1WmEnRa1caieprd3UEQWmlTVGCSKSKCORZeFrodBHPI.o6MlyTOrLC1En0z1%3FstartTime%3D1698786445000 where Adrian Rollett steps through some triage for this monitor
+[Video](https://us06web.zoom.us/rec/play/1Ea8wq1sRg2QssQox4fJ5TICQZPxBYQq05VncjI0Hyl8-gnao9RbxHQL1rNo1yI9K2yV63MAN9vXVhPh.LOjbjqtrOAjdoQFh?canPlayFromShare=true&from=my_recording&startTime=1698786445000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FE5dbb6Ewhi7ILpS2qMwZ1WmEnRa1caieprd3UEQWmlTVGCSKSKCORZeFrodBHPI.o6MlyTOrLC1En0z1%3FstartTime%3D1698786445000) where Adrian Rollett steps through some triage for this monitor
 Passcode: 55$kzl1+
 
 * Scroll down to Status & History. Click-drag and highlight the red or orange warn/error timeframe, to zoom/highlight it
