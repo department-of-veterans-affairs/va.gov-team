@@ -34,13 +34,11 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
 1. Before signing in, 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address.
 
 ### Footer
-10. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
+11. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
 1. **Four of 10 participants described the difference between the footer links with a blue *vs.* black background** as VA/you *vs.* legal/federal. The other participants didn't articulate a difference between the two sections.
-1. One study participant and one pilot participant said that the footer was too large. A different participant commented on the lack of organization or categories in the black section of footer links. (Since this feedback isn't from multiple study participants, we won't make any changes but will track if there's any more feedback on this in Phase 2.)
-1. Another participant didn't scroll all the way to the bottom of the page but only down to the USA logo, which looked like the bottom of the page to him. He said that he usually doesn't use footer links on web pages because it's just information about the company. (Since this feedback is from only one participant, we won't make changes but will track if there's any more feedback on this in Phase 2.)
 
 ### How recognize as an official government website
-14. Most (7 of 10) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
+13. Most (7 of 10) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
 1. Participants also mentioned other features of the page:
      - VA seal (7)
      - "An official website of the U.S. Department of Veterans Affairs" in the footer (5)
@@ -51,7 +49,7 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
      - "Veterans Crisis Line" (1)
 
 ### USA Logos 
-16. **Six of 10 participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
+15. **Six of 10 participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
     - not telling you anything new (3 participants) 
     - might be phishing (2)
     - fake and cheesy (1)
@@ -73,6 +71,6 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
     > *"It just seems a little bit more boring and professional to me" (p8).*
 
 ## Next Steps
-- Plan Phase 2 of research
+- Plan and conduct Phase 2 of research
 - Do more data synthesis
-- Write full research report
+- Write full research report for Phase 1 and 2
