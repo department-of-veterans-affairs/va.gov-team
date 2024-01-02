@@ -1,5 +1,13 @@
 # BTSSS on VA.gov Sprint Goals
 
+## 1/1/2024 - 1/12/2024
+### Goals
+- Prep for research study: research plan draft, conversation guide draft, coordination with Perigean
+- Decision: Assumption for where the status of a claim will display
+
+### Notes
+- Collab cycle - partial Research Review (with Shane)
+
 ## 12/18/2023 - 12/29/2023
 ### Goals
 - Wrap up in progress work
@@ -10,7 +18,7 @@
 - Limited capacity with Christmas holiday and additional team PTO
   - Sprint review cancelled for holiday OOO so work will be incorporated in next sprint review
 
-## 12/04/2023 - 12/15/2023
+## 12/4/2023 - 12/15/2023
 ### Goals
 - Identify claim experience gaps in effort to:
   - Decide "first feature" for development VA.gov
@@ -21,7 +29,7 @@
 - This sprint is the first sprint of Initiative 2.0 in the overall project timeline
 
 
-## 11/20/2023 - 12/01/2023
+## 11/20/2023 - 12/1/2023
 ### Goals
 - Identify claim experience gaps in effort to:
   - Decide "first feature" for development VA.gov
@@ -34,7 +42,7 @@
 - This sprint is the last sprint of Initiative 1.0 in the overall project timeline
 
 
-## 11/06/2023 - 11/17/2023
+## 11/6/2023 - 11/17/2023
 ### Goals
 - Decide "first feature" for VA.gov
   - Determine partnering teams, if applicable
