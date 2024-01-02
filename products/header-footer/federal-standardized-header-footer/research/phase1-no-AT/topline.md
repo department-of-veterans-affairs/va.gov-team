@@ -21,7 +21,7 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
 1. **None of the 10 participants mentioned missing the "VA" logo**, so it seems to be fine to not have that on the page.
 1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. 4 of 10 participants breezed through all the tasks, though others were challenged by some tasks, especially when too focused on only the header and missed links in the footer, or too focused on only the footer and missed links in the header. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participants who had difficulty finding the Auth menu).
 1. None of the 10 participants commented on font size, but both pilot participants (who were Veterans) said unprompted that they **liked the font size**. 
-   >*"I didn't have to get out my reading glasses to read anything, so that was that was a big plus for me" (pilot 1).* 
+   >*"I didn't have to get out my reading glasses to read anything, so that was a big plus for me" (pilot 1).* 
 4. One participant noticed the different fonts between the header/footer and the page content. They **preferred the font in the header bar** and the *U.S. Department of Veterans Affairs* because of its sharp/clean edges (*vs.* the blurry/rounded letters in the life insurance content). Note that the blurry text may have been from screenshot images of existing content, which won't be used in Phase 2 of the research when the page content will be coded.
 
 
@@ -31,16 +31,15 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
 1. After signing in, ***2 of 5 phone users* had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 found it easily.  
 1. After signing in, ***2 of 5 desktop users* had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name. Interesting that the same number of desktop and mobile users had difficulty.
 1. After signing in and opening the Auth menu, **all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try *My VA* instead (didn't work in the prototype).
-1. Before signing in, 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address.
 
 ### Footer
-11. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
+10. **Four of 5 participants on phones had difficulty understanding the differences between the accordions in the mobile footer** *(Information for, More resources, Connect with us, and Contact us)*. One person said that "Connect with us" and "Contact us" seemed too similar and thus confusing. During the sessions, all four opened up one accordion after the other, scanning for relevant links and not understanding what might be in each from its name. Perhaps the accordion names could be made more meaningful and distinctive.
 1. **Four of 10 participants described the difference between the footer links with a blue *vs.* black background** as VA/you *vs.* legal/federal. The other participants didn't articulate a difference between the two sections.
 
 ### How recognize as an official government website
-13. Most (7 of 10) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
+12. Most (7 of 10) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
 1. Participants also mentioned other features of the page:
-     - VA seal (7)
+     - **VA seal** (7)
      - "An official website of the U.S. Department of Veterans Affairs" in the footer (5)
      - "U.S. Department of Veterans Affairs" in the header (4)
      - "USA Government" in header (3)
@@ -49,12 +48,12 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
      - "Veterans Crisis Line" (1)
 
 ### USA Logos 
-15. **Six of 10 participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
+14. **Six of 10 participants thought the colored USA logo in the header was unnecessary and maybe harmful** with varying degrees of sentiment: 
     - not telling you anything new (3 participants) 
-    - might be phishing (2)
+    - **might be phishing** (2)
     - fake and cheesy (1)
     - taking up real estate on the page (1) 
-     > *"Amateurish to me, so I would immediately, if I saw it on a .gov website think that I'm being phished" (p8).*
+     > *"Amateurish to me, so I would immediately if I saw it on a .gov website think that I'm being phished" (p8).*
 
      > *"Thought it was fake like it was just added on...Why is that important for it to be there? It is redundant to me because it's the **US** Department of Veterans Affairs" (p4).*
 
@@ -63,7 +62,7 @@ On December 15-21, 2023, we talked over Zoom to **10 people**--9 Veterans, 2 Car
 
 1. Only **one person loved the colored USA logo**, and this was a Veteran who had previously worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
 
-   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored it, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it" (p2).*
+   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it" (p2).*
 
    > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (p10).*
 
