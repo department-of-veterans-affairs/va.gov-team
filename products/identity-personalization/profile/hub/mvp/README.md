@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated: September 12, 2023 -- Updated KPIs**
+**Last Updated: January 2, 2024** updated metrics
 
 ### Communications
 
@@ -89,14 +89,52 @@ To solve for these problems, we are building a profile hub page, which resolves 
 ## Analytics 
 Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
 
+For more complete list [see this report](https://analytics.google.com/analytics/web/?authuser=0#/analysis/a50123418w177519031p176188361/edit/_K1zzMjpQ2qxlfcC--aNiw) 
+
 <details>
   <summary>example screen grab of the relevant section</summary>
 not maintained 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/63d4760b-3136-4f84-bc33-ef7624df91ea)
 
-
 </details>
+
+### Baseline Metrics for Hub vs Side Nav
+
+|                                                                                      | 2023.12.19-2023.12.26 |              |
+|--------------------------------------------------------------------------------------|-----------------------|--------------|
+| **Event Action**                                                                        | **Users**                 | **Total Events** |
+| **Grand totals**                                                                        | 34992                 | 99261        |
+|                                                                                      |                       |              |
+| **Side Nav**                                                                             |                       |              |
+| Navigation - Side - Profile - Personal information                                   | 6924                  | 8214         |
+| Navigation - Side - Profile - Notification settings                                  | 5264                  | 5932         |
+| Navigation - Side - Profile - Military information                                   | 7265                  | 8414         |
+| Navigation - Side - Profile - Direct deposit information                             | 5931                  | 7504         |
+| Navigation - Side - Profile - Contact information                                    | 6935                  | 8233         |
+| Navigation - Side - Profile - Connected apps                                         | 3174                  | 3334         |
+| Navigation - Side - Profile - Account security                                       | 4393                  | 4928         |
+|                                                                                      |                       |              |
+| **Profile Hub**                                                                          |                       |              |
+| Navigation - Link Click - View payment history                                       | 4736                  | 5507         |
+| Navigation - Link Click - Update your sign-in info on the My HealtheVet website      | 82                    | 88           |
+| Navigation - Link Click - Update your sign-in info on the Login.gov website          | 98                    | 101          |
+| Navigation - Link Click - Update your sign-in info on the ID.me website              | 185                   | 190          |
+| Navigation - Link Click - Update your sign-in info on the DS Logon website           | 114                   | 123          |
+| Navigation - Link Click - Update your mobile phone number                            | 157                   | 165          |
+| Navigation - Link Click - Profile Hub - Review your military information             | 6393                  | 6920         |
+| Navigation - Link Click - Profile Hub - Review account security                      | 607                   | 652          |
+| Navigation - Link Click - Profile Hub - Manage your personal information             | 11183                 | 12325        |
+| Navigation - Link Click - Profile Hub - Manage your direct deposit information       | 4402                  | 5497         |
+| Navigation - Link Click - Profile Hub - Manage your contact information              | 7677                  | 8337         |
+| Navigation - Link Click - Profile Hub - Manage notification settings                 | 1623                  | 1664         |
+| Navigation - Link Click - Profile Hub - Manage connected apps                        | 1149                  | 1179         |
+| Navigation - Link Click - Profile Hub -                                              | 6763                  | 7870         |
+| Navigation - Link Click - Learn how to verify your identity on VA.gov                | 114                   | 118          |
+| Navigation - Link Click - Learn how to request your DD214 and other military records | 1247                  | 1309         |
+| Navigation - Link Click - Add a phone number to your profile                         | 652                   | 656          |
+| Navigation - Link Click - Account security                                           | 1                     | 1            |
+
 
 ## Key deliverables
 
