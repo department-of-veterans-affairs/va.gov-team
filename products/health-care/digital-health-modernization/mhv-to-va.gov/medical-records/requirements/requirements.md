@@ -93,9 +93,10 @@ Medical records v1.0 consists of 6 data domains.
 </details>
 
 <details>
-<summary>Design assets</summary>  
+<summary>Related documents</summary>  
   
 * [Sketch file](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
+* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=nPAS0M&nav=eyJoIjoiMjExMTI5NTc3MiJ9)
   
 </details>
 
