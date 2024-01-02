@@ -44,13 +44,12 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
 12. Use of pagination to show all past medications- not separate space to show meds. 
 </details>
 
-### Requirements
-
-<details>
-<summary>List view of all medications</summary>
-</br>
+### List view
 
 This page provides the user with a list of their medications on file at the VA.
+
+<details>
+<summary>Requirements</summary>
 
 #### IA
 URL: `.../my-health/medications`  
@@ -94,11 +93,12 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
   * Provide link to information about how to renew a medication
 </details> 
 
-<details>
-<summary>Details view for each medication</summary>
-</br>
+### Details view
 
 This page provides the user with details for a single medication on file with the VA.
+
+<details>
+<summary>Requirements</summary>
 
 #### IA
 URL: `.../my-health/medications\prescription_id`  
@@ -161,11 +161,12 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
   * Provide link to information about how to renew a medication
 </details>
 
-<details>
-<summary>About medications information page</summary>
-</br>
+### About medications
 
 This page provides the user with information about the medications tool as well as how to renew a med.
+
+<details>
+<summary>Requirements</summary>
 
 #### IA
 URL: `.../my-health/medications/about-medications`  
