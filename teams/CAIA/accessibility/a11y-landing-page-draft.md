@@ -110,7 +110,7 @@ Depending on the VFS team's needs, the content, accessibility, and information a
   CAIA will adjust to your needs. Depending on the product and team in question, CAIA may opt to provide feedback in the team's Slack channel, or as comments in a mockup.
 
 For more detailed, thorough reviews, CAIA accessibility specialists will write up their findings and add them to GitHub. They'll share a link to the findings with the team via Slack and any related GitHub issue tickets. 
-- **Product reviews** include existing and potential accessibility issues, and proposed solutions.
+- **Product reviews** include existing and potential accessibility issues, and proposed solutions. In general, this is [what CAIA looks for](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md) and [what tools CAIA uses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/what-accessibility-tools-we-use.md) to audit a product.
 - **User research findings** include accessibility issues found during testing, participant quotes, and research synthesis from the CAIA team.
 
 Examples:
