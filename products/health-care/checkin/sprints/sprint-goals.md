@@ -14,6 +14,7 @@ ________________________________________________________________________________
      - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
      - **Sub Goal: Handle VVC Appointments**
      - **Sub Goal: Handle CVT Appointments**
+     - **Sub Goal: Handle Phone Appointments**
      - **Sub Goal: Let Veterans Know when BTSSS is Down** 
 - **GOAL: Increase Usage of PCI**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
