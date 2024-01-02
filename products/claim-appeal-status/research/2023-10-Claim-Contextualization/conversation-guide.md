@@ -98,7 +98,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 [Participant clicks into the Overview tab]
 
 - Now tell me what you see here.
-- Based on what you see here, how would you describe the state of this claim?
+- Based on what you see here, how would you describe the state of this claim? [Claim will be in Step 3: Evidence Gathering]
 - Is there anything that is particularly useful about what you see here?
 - Is there anything that is particularly confusing about what you see here?
 - [Focus on the graphic] What do you think this is trying to communicate?
@@ -125,12 +125,12 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 
 Now let's imagine you log out, a couple of weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
 
-[Refresh to CST home page]
+[Tap VA.gov header to jump to next scenario]
 
 - Where would you go to check for updates to the claim?
   
 [Status Tab]
-- Based on what you see here, how would you describe the state of this claim?
+- Based on what you see here, how would you describe the state of this claim? [Claim will be in Step 4: Rating]
 - Is there any information you're not seeing here that you'd like to see?
 - Is there anywhere else you would go to find more information about the claim?
 
@@ -151,14 +151,13 @@ Now let's imagine you log out, a couple of weeks go by, and you log back in. You
 
 Now let's imagine you log out, a couple of days go by, and you log back in. You want to check to see if there are any updates to the claim.
 
-[Refresh to CST home page]
+[Tap VA.gov header to jump to next scenario]
 
 - Where would you go to check for updates to the claim?
   
-[Status Tab]
-- Based on what you see here, how would you describe the state of this claim?
-- Is there any information you're not seeing here that you'd like to see?
-- Is there anywhere else you would go to find more information about the claim?
+[Status tab]
+- Based on what you see here, how would you describe the state of this claim? [Claim will be back in Step 3: Evidence Gathering]
+- What's your initial reaction to that?
 
 [Overview Tab]
 - Based on what you see here, how would you describe the state of this claim?
@@ -168,10 +167,9 @@ Now let's imagine you log out, a couple of days go by, and you log back in. You 
 
 ### Things to watch for:
 
-- Does the Veteran feel the need to check the Overview tab to check on the claim, or do they feel like the Status tab is enough?
 - In the Overview tab, does the Veteran seem to understand why the claim has gone "back" a step?
-- Does the Veteran have a good understanding of what might happen to the claim next?
 - How does the Veteran feel about the claim being back in Step 3? Frustrated? Confused? Neutral?
+- Does the Veteran have a good understanding of what might happen to the claim next?
 
 
 ## Post-Task Interview - 5 minutes
