@@ -28,4 +28,4 @@ This is how the content is structured:
 
 ## Research
 
-See related [Directory of taxonomy research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/taxonomy/readme.md#directory-of-taxonomy-research)
+See related [Directory of taxonomy research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/readme.md#directory-of-taxonomy-research)

@@ -1,13 +1,21 @@
 # Veterans Benefit Administration (VBA) Facility data integration
 
-## TODO
-2023-12-28
-1. Do we need this? Is it covered under Lighthouse integration? 
-2. Document Sandy's DB. There's a starting point, maybe, in products/facilities/naming-schema/README.md.
+
+## 2024 notes
+
+VBA data is maintained in an old database called "Sandy's DB."
+Sandy's DB is maintained by Michelle Middaugh. 
+
+LH pulls in some VBA data from Sandy's DB indirectly through BISL. For the Facility Locator, we display VBA data from Lighthouse.
+
+There is additional VBA data in Sandy's DB that Lighthouse doesn't care about. The Facilities team migrates more of that data into CMS for VBA purposes, and will eventually deprecate Sandy's DB and the CMS will be the source of truth for VBA data. 
 
 
 
 ## 2016 notes
+### TODO
+1. Do we need this? Is it covered under Lighthouse integration? 
+
 *Documenting consistency issues with VBA facility data. Accurate as of 10/24/2016. Will attempt to update as issues are resolved but the source of truth should always be the data itself.*
 
 [Query page](https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/VBA_Facilities/FeatureServer/0/query)
