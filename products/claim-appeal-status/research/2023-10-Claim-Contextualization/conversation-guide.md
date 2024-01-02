@@ -77,7 +77,6 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 
 - Does the participant recognize the Claim Status Tool?
 - Do they recognize which claim is in progress?
-- Do they understand the status of the claim based on the content provided?
 - How accurate is their understanding of the status based only on what they see here?
 
 ## Second Task: Status Tab - 5 minutes
@@ -85,7 +84,6 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 [Participant clicks into the in-progress claim]
 
 - Based on what you see here, what would you say is the status of this claim?
-- Do you feel like you have a better understanding of the claim status than you did before? The same? Worse?
 - Do you feel satisfied with this amount of knowledge about the claim status? Why or why not?
 - If you wanted to understand more about what is going on with your claim, where would you go from here?
 
@@ -112,7 +110,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 
 [Overall questions]
 - Is there any information you're not seeing here that you'd like to see?
-- On a scale of 1-5 how would you rate this page, 1 being least useful and 5 being most useful?
+- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - On a scale of 1-5, how would you rate the level of detail provided by this page?
 - What would you expect to happen next with the claim?
 
@@ -123,20 +121,20 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Do Veterans understand the graphic? Does it seem to be helpful?
 - Do Veterans understand that claims may go back and forth between steps? How do they feel about that?
 
-## Fourth Task: Checking Back on the Claim - 15 minutes
+## Fourth Task: Checking Back on the Claim a Few Days Later - 10 minutes
 
-Now let's imagine you log out, a couple more weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
+Now let's imagine you log out, a couple of weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
 
 [Refresh to CST home page]
 
 - Where would you go to check for updates to the claim?
   
-[If Status Tab]
+[Status Tab]
 - Based on what you see here, how would you describe the state of this claim?
 - Is there any information you're not seeing here that you'd like to see?
 - Is there anywhere else you would go to find more information about the claim?
 
-[If Overview Tab]
+[Overview Tab]
 - Based on what you see here, how would you describe the state of this claim?
 - Why do you think the claim is on the step it's currently on?
 - Is there any information you're not seeing here that you'd like to see?
@@ -148,6 +146,33 @@ Now let's imagine you log out, a couple more weeks go by, and you log back in. Y
 - Does the Veteran feel the need to check the Overview tab to check on the claim, or do they feel like the Status tab is enough?
 - In the Overview tab, does the Veteran seem to understand why the claim has gone "back" a step?
 - Does the Veteran have a good understanding of what might happen to the claim next?
+
+## Fifth Task: Checking Back on the Claim a Few Days Later - 10 minutes
+
+Now let's imagine you log out, a couple of days go by, and you log back in. You want to check to see if there are any updates to the claim.
+
+[Refresh to CST home page]
+
+- Where would you go to check for updates to the claim?
+  
+[Status Tab]
+- Based on what you see here, how would you describe the state of this claim?
+- Is there any information you're not seeing here that you'd like to see?
+- Is there anywhere else you would go to find more information about the claim?
+
+[Overview Tab]
+- Based on what you see here, how would you describe the state of this claim?
+- Why do you think the claim is on the step it's currently on?
+- Is there any information you're not seeing here that you'd like to see?
+- What would you expect to happen next with the claim?
+
+### Things to watch for:
+
+- Does the Veteran feel the need to check the Overview tab to check on the claim, or do they feel like the Status tab is enough?
+- In the Overview tab, does the Veteran seem to understand why the claim has gone "back" a step?
+- Does the Veteran have a good understanding of what might happen to the claim next?
+- How does the Veteran feel about the claim being back in Step 3? Frustrated? Confused? Neutral?
+
 
 ## Post-Task Interview - 5 minutes
 
