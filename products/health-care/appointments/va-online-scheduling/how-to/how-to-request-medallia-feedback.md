@@ -23,12 +23,14 @@ A tool for Veterans to schedule and manage their appointments online.
 **Survey URL(s), key term(s), case category or type**
 
 ```
-Keyword: appointment
+**Note**: Please include the City and State each comment originated from, if possible.
+
+Keyword: appointment (from any URL)
 
 AND All comments under and including these URLS and their subpaths:
 
-https://www.va.gov/health-care/schedule-view-va-appointments/
-https://www.va.gov/my-health/appointments
+- `https://www.va.gov/health-care/schedule-view-va-appointments/`
+- `https://www.va.gov/my-health/appointments`
 ```
 
 **File delivery format**
@@ -39,7 +41,29 @@ All in one file, on one tab
 
 [Your VA email address]
 
-### Medallia Feedback Requests - Q4 2023
+### Medallia Feedback Requests - Q1 2024
+
+| Dates                 | Submitted By | Ticket | Status |
+| --------------------- | ------------ | ---- | ------ |
+| Week 1 Dec 31–Jan 06  | Peter Russo  | []() |        |
+| Week 2 Jan 07–Jan 13  | Peter Russo  | []() |        |
+| Week 3 Jan 14–Jan 20  | Peter Russo  | []() |        |
+| Week 4 Jan 21–Jan 27  | Peter Russo  | []() |        |
+| Week 5 Jan 28–Feb 03  | Peter Russo  | []() |        |
+| Week 6 Feb 04–Feb 10  |              | []() |        |
+| Week 7 Feb 11–Feb 17  |              | []() |        |
+| Week 8 Feb 18–Feb 24  |              | []() |        |
+| Week 9 Feb 25–Mar 02  |              | []() |        |
+| Week 10 Mar 03–Mar 09 |              | []() |        |
+| Week 11 Mar 10–Mar 16 |              | []() |        |
+| Week 12 Mar 17–Mar 23 |              | []() |        |
+| Week 13 Mar 24–Mar 30 |              | []() |        |
+
+
+### Older requests
+
+<details>
+<summary>2023 Q4 Requests</summary>
 
 | Dates                                | Submitted by     | Status       |
 |--------------------------------------|------------------|--------------|
@@ -55,10 +79,9 @@ All in one file, on one tab
 | Week 49 December 4th - 10th          | Peter Russo      | ✅ [71661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71661) |
 | Week 50 December 11th - 17th         | Peter Russo      | ✅ [72130](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72130) |
 | Week 51 December 18th - 24th         | Peter Russo      | ✅ [72564](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72564) |
-| Week 52 December 25th - 31st         | Peter Russo      |  |
+| Week 52 December 25th - 31st         | Peter Russo      | [72767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72767) |
 
-
-### Older requests
+</details>
 
 <details>
 <summary>2023 Q3 Requests</summary>
