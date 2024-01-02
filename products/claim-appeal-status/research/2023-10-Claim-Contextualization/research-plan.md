@@ -3,7 +3,7 @@
 Benefits Management Tools · December 2023
 
 ## Background
-In [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-findings.md#secondary-findings), we have found that Veterans find limited value in the claim process overview in its current form. 
+In [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-findings.md#secondary-findings), we have found that Veterans find limited value in the claim process Overview tab in its current form. 
 
 We have also seen in the same research a dissatisfaction with the current representation of the various "stages" in the claim process. In particular, we've gotten feedback that "Evidence Gathering, Review, and Decision" is not a very helpful description of what's happening with the claim, because it covers such a broad range of steps and activity related to the claim. 
 
@@ -33,11 +33,11 @@ With this research we hope to learn how well our designs solve the comprehension
 
 - How do Veterans react to this content? Do they find it useful?
 - Does this new design set better expectations for how the claim will move between stages? Do Veterans understand why and how the claim might move back and forth between certain stages?
-- After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do feel after seeing this information?
+- After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do they feel after seeing this information?
 
 ### Hypotheses
 - Veterans will find value in the information provided in the Overview tab.
-- Veterans will have a clear understanding of what happens at each step of the process.
+- Veterans will have a good understanding of generally what happens at each step of the process (they don't need to understand every little detail).
 - Veterans will understand that it is normal for claims to go back and forth between steps.
 - Veterans will find that the new timeline provides a detailed picture of what is happening with a claim.
 
@@ -97,10 +97,10 @@ January 22-26
 8 AM - 6 PM ET
 	
 ## Team Roles	
-- Moderator: Skyler Schain (skyler@coforma.io)	
-- Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler@coforma.io)
+- Moderator: Skyler Schain (skyler.schain@coforma.io)	
+- Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler.schain@coforma.io)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Skyler Schain (skyler@coforma.io)
+- Project point of contact: Skyler Schain (skyler.schain@coforma.io)
 - Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy(david.kennedy@adhocteam.us)
 - Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
