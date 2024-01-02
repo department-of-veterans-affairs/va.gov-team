@@ -1,4 +1,6 @@
-# Medical Records Requirements
+This requirements document was archived on 1/2/2023.  Click [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements) for current version.
+
+# Medical Records Requirements - ARCHIVED
 
 ## Table of Contents
 - [General](#general)
