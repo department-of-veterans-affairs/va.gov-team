@@ -55,22 +55,26 @@ Medical records v1.0 consists of 6 data domains.
 
 <details>
 <summary>List view requirements</summary>
-  
+
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
 <summary>Details view requirements</summary>
-
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
@@ -104,22 +108,26 @@ Medical records v1.0 consists of 6 data domains.
 
 <details>
 <summary>List view requirements</summary>
-  
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
 <summary>Details view requirements</summary>
-
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
@@ -150,22 +158,26 @@ Medical records v1.0 consists of 6 data domains.
 
 <details>
 <summary>List view requirements</summary>
-  
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
 <summary>Details view requirements</summary>
-
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
@@ -181,22 +193,26 @@ Medical records v1.0 consists of 6 data domains.
 
 <details>
 <summary>List view requirements</summary>
-  
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
 <summary>Details view requirements</summary>
-
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
@@ -213,21 +229,25 @@ Medical records v1.0 consists of 6 data domains.
 <details>
 <summary>List view requirements</summary>
   
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
 <summary>Details view requirements</summary>
-
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
@@ -243,22 +263,26 @@ Medical records v1.0 consists of 6 data domains.
 
 <details>
 <summary>List view requirements</summary>
-  
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
 <summary>Details view requirements</summary>
-
+ 
+---
 #### IA
 
 #### Content
 
 #### Functionality
+---
 </details>
 
 <details>
