@@ -101,7 +101,7 @@ not maintained
 
 ### Baseline Metrics for Hub vs Side Nav
 
-| **Event Action**                                                                         | **Users**                 | **%users** | **Total Events** | **% total events** |
+| **Event Action**                                                                         | **Users**                 | **%users** | **Events** | **% total events** |
 |--------------------------------------------------------------------------------------|-----------------------|--------|--------------|----------------|
 | **Side Nav**                                                                             |                       |        |              |                |
 | Navigation - Side - Profile - Personal information                                   | 6924                  | 19.79% | 8214         | 8.28%          |
