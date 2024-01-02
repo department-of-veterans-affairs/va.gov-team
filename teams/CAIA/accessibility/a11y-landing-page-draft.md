@@ -3,7 +3,7 @@
 
 <details><summary>Toggle to view details about this Work in Progress Landing Page</summary>
   <br>
-The goal of this page is to provide a well-organized clearinghouse of information about the VA's accessibility practices. Our mission - to point VFS teams to the information, tools, and people they need to make VA.gov accessible, beyond compliance.
+The goal of this page is to provide a well-organized clearinghouse of information about VA's accessibility practices. Our mission - to point VFS teams to the information, tools, and people they need to make VA.gov accessible, beyond compliance.
 
 ## About this page
 The structure and content of this page is based on:
@@ -13,7 +13,7 @@ The structure and content of this page is based on:
 </details>
 
 # Accessibility on VA.gov
-The VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
+VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
 - We strive to make VA.gov as accessible for Veterans as possible.
 - We aim to do more than pass a Section 508 audit - we focus on usability, not just compliance.
 - We "shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
