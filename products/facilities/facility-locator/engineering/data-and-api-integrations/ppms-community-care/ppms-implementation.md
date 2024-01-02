@@ -1,6 +1,11 @@
-# Provider Profile Management System (PPMS) implementation details
+# Provider Profile Management System (PPMS) / Community Care implementation details
 _last updated: 2023-12-28_
 
+VA Community Care, https://www.va.gov/COMMUNITYCARE/: VA provides care to Veterans through community providers when VA cannot provide the care needed. Community care is based on specific eligibility requirements, availability of VA care, and the needs and circumstances of individual Veterans
+
+Community Care may also be referred to as Choice Act, MISSION Act, or veterans choice.
+
+Facility Locator integrates with Community Care data, to display Community Care providers in provider search results. 
 
 **Provider data elements for Facility Locator**
 - Providers in Community Care need three data elements: 
@@ -9,8 +14,35 @@ _last updated: 2023-12-28_
   - care site (where) to be available to the Facility Locator
 * PPMS/Community Care data is returned as JSON with the `ProviderSerializer`.
 
+**TODO**: Validate all the data below as being modern / relevant
+
+
+## Owners / Support
+PPMS team own the PPMS data / endpoints. 
+
+PPMS hosts PPMS Integration Office Hours:
+* Weekly on Tuesdays
+* 1pm ET
+* [MS Teams call link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA4M2RkOTItM2E4OS00MzY4LWFhZjctYjM1MTdhYTQ5NjI1%40thread.v2/0?context=%7b%22Tid%22%3a%22e95f1b23-abaf-45ee-821d-b7ab251ab3bf%22%2c%22Oid%22%3a%220af18ed8-f144-4baf-ae78-4bb0789af688%22%7d)
+
+
+## Provider Core Training
+PPMS provides trainings to providers. 
+"Department of Veterans Affairs (VA) has created the Provider Core Training so that Veterans can be offered care from the highest quality providers available. Referring Veterans to Providers who have completed the Provider Core Training ensures that Veterans are receiving high-quality care in the community."
+
+When providers complete those trainings, their data in PPMS will return values that show completed trainings. In 2023, an effort was started to make it possible for Facility Locator users to filter providers by completed trainings. 
+
+As of Jan 2024, we have designs and planned research, and have integrated the API for  training data into vets-api endpoints. Training data is not exposed to the FE yet, because only 1-2% of providers have completed the relevant trainings. 
+
+Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14225
+
+
 ## PPMS Provider Locator Sequence, optimized v1 query
 ![PPMS Provider Locator Sequence, optimized v1 query](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/v1%20ppms%20provider%20locator%20sequence.png)
+
+
+## Development for PPMS
+Requires vets-api console access. File a ticket to request, e.g. https://github.com/department-of-veterans-affairs/va.gov-team/issues/59791
 
 
 ## PPMS Endpoints
@@ -37,11 +69,24 @@ Subscription keys for endpoints called by the Facility Locator are in the AWS Sy
 
 Please contact a member of the [@cms-devops-engineers](https://app.slack.com/client/T03FECE8V/CT4GZBM8F/user_groups/S01JXBLLMJL) group in the DSVA Slack to add, modify, or to get information about a Parameter Store secret.
 
+### Training data
+Example endpoint: https://api.va.gov/facilities_api/v1/ccp/provider?specialties%5B%5D=101YP2500X&page=1&per_page=10&radius=26&address=268%20High%20Street,%20Morgantown,%20West%20Virginia%2026505,%20United%20States&bbox%5B%5D=-80.705944&bbox%5B%5D=38.879681&bbox%5B%5D=-79.205944&bbox%5B%5D=40.379681&latitude=39.629681&longitude=-79.955944
+
+The following DWS endpoints allow downstream partners to pull Provider Training Information. The updates are currently deployed to INT (NPROD)
+
+`get /ProviderLocator`
+`get /Providers`
+`get /ProviderServices`
+
+The following Provider Training information is provided in these endpoints:
+
+Course Name
+Course Code
+Course Completion Date
+Course Expiration Date
 
 
-## PPMS and Lighthouse Mashups
-- "Mash-up" searches for all urgent care locations (Community care/PPMS + VA) are performed on the front end.
-- "Mash-up" searches for all emergency care locations (Community care/PPMS + VA) are performed on the front end
+
 
 ## PPMS troubleshooting
    These are the tools to diagnose problems
@@ -53,31 +98,17 @@ Please contact a member of the [@cms-devops-engineers](https://app.slack.com/cli
    - Monitoring tools
      - [Graphana](http://grafana.vfs.va.gov/d/000000048/facility-locator-ppms?orgId=1)
      - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/?query=is%3Aunresolved+FacilitiesApi&statsPeriod=14d)
-   - Helpfull Scripts I've included
+   - Helpful Scripts:
      - `vcr.rb` a single file bundler enabled app to generate vcr tapes outside `vets-api`
      - `request-to-curl` this is what I use to generate the `curl` command from any given url
    - Useful things to know about `vets-api`
      - `FacilitiesApi::V1::PPMS::Configuration` includes some commented out Middleware
        - `curl` will log the request its attempting to make to `STDOUT`
        - `logger` logs the body of the response to `STDOUT`
-
-
-
-  - PPMS is making a change to their API
-    - How to update the VCR tapes
-  - Requests to PPMS are Failing
-    - PPMS is returning a stack trace
-    - The Breaker keeps tripping
-    - PPMS is returning an empty body
-    - PPMS requests are timing out
-  - Requests to PPMS are SLOW
-    - Forward Proxy is showing slow responses
-    - PPMS says that they don’t see an issue
     - The [TIC](https://github.com/department-of-veterans-affairs/devops/blob/master/docs%2Faws-dx-transit-spoke-architecture%2Farchitecture.md)
-  - PPMS Responses make no sense
 
 ### PPMS is making a change to their API (when??)
-TODO: 2023-12-28: IS this still real?  VCR TAPES??
+TODO: 2023-12-28: IS the below still real?  VCR TAPES??
 
 #### How to update the VCR tapes
   SSH into a staging box, make note of the internal IP Address. As a non root user run the `vcr.rb` script with the `-R` record flag. It will create the vcr tapes and copy them into the `/tmp` directory of the staging box.

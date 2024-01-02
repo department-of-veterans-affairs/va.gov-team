@@ -98,7 +98,7 @@ See also Operating status/facility level alerts (cross-product)
 
 #### Product Documentation
 [VA Service Taxonomy Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy)
-[Health Services Taxonomy: Community care Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/taxonomy/community-care-taxonomy-feature-brief.md)
+[Health Services Taxonomy: Community care Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/community-care-taxonomy-feature-brief.md)
 [Vaccination taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vaccination-taxonomy)
 
 
