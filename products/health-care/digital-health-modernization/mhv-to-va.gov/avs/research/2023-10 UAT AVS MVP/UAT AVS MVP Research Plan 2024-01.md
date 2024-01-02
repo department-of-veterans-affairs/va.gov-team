@@ -21,11 +21,12 @@ After Visit Summaries (AVS) serve many purposes*, including:
 
 ### Outcome
 We will use the findings to:
--Validate breadcrumb and URL updates.
--Validate the changes to the navigation descriptive back link.
+ 
 - Validate the After-visit summary MVP is populating with user data as intended.
 - Validate the After-visit summary MVP’s interactive elements are behaving as intended.
 - Validate the After-visit summary MVP is accessible for screen reader and low vision users.
+- Validate breadcrumb and URL updates.
+- Validate the changes to the navigation descriptive back link.
 
 
 ### Research questions
