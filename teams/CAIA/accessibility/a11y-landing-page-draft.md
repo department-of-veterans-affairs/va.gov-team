@@ -98,27 +98,45 @@ You can reach out to CAIA whether you're in the Collaboration Cycle or not.
 </details>
 
 
-### How accessibility specialists work
+### How accessibility specialists provide feedback
 
-<details><summary>Toggle to view how accessibility specialists work to help your team</summary>
+Accessibility specialists may engage with you in Slack, leave comments on your Figma mockups, write up their findings, or create formal GitHub issue tickets.
 
-#### Tickets
+<details><summary>Feedback from the CAIA team</summary>
 
-#### Deliverables/Next Steps
+#### Feedback from the CAIA team
+Depending on the VFS team's needs, the content, accessibility, and information architecture CAIA workstreams will work together to review products.
+  
+  CAIA will adjust to your needs. Depending on the product and team in question, CAIA may opt to provide feedback in the team's Slack channel, or as comments in a mockup.
 
-#### Service Menu
-`short description`
-🔗 `link out`
+For more detailed, thorough reviews, CAIA accessibility specialists will write up their findings and add them to GitHub. They'll share a link to the findings with the team via Slack and any related GitHub issue tickets. 
+- **Product reviews** include existing and potential accessibility issues, and proposed solutions.
+- **User research findings** include accessibility issues found during testing, participant quotes, and research synthesis from the CAIA team.
 
-##### Guidance Process
+Examples:
+- [Design review deliverable](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md)
+- [Midpoint review deliverable](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Representation%20Management/2023Nov-accreditedRepAppointWidget-midpointReview.md)
+- [User research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Core%20Identity%20Team/2023-Aug-accessibility-findings-Identity-Core.md)
+</details>
 
-##### Documentation
+<details><summary>Collaboration Cycle tickets</summary>
 
-##### Product Health
+#### Collaboration Cycle tickets
 
-##### Reports
+During a Collaboration Cycle Staging Review, accessibility specialists will review your product. If they find any accessibility issues, they’ll write a ticket for each issue that outlines:
+- The issue (often with screenshots or video examples)
+- A proposed solution
+- The [VA experience standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html) related to the issue
+- The [defect severity level](https://depo-platform-documentation.scrollhelp.site/developer-docs/Accessibility-defect-severity-rubric.1906671954.html)
 
-##### User Research
+Learn more about [Staging Review Issue tickets](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/anatomy-of-a-staging-review-issue-ticket).
+</details>
+
+<details><summary>Writing your own tickets</summary>
+
+#### Writing your own tickets
+
+If you’re reviewing your product for accessibility issues, you can write your own tickets to keep track of your findings and close them upon completion. [Learn how to write good accessibility tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-to-write-good-accessibility-tickets.md).
 
 </details>
 
