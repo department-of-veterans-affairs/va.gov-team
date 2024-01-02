@@ -12,9 +12,8 @@ ________________________________________________________________________________
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in**
      - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
-     - **Sub Goal: Handle VVC Appointments**
-     - **Sub Goal: Handle CVT Appointments**
-     - **Sub Goal: Handle Phone Appointments**
+     - **Sub Goal: Pre-Check-in: Handle All VA Appointment Modalities (i.e. CVT, VVC, phone, in-person)**
+     - **Sub Goal: eCheck-in: Handle All VA Appointment Modalities (i.e. CVT, VVC, phone, in-person)**     
      - **Sub Goal: Let Veterans Know when BTSSS is Down** 
 - **GOAL: Increase Usage of PCI**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
@@ -40,15 +39,15 @@ ________________________________________________________________________________
      - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
          - 🟥 [[UX] [Content] Decide whether to have modality-specific error pages or modality-agnostic error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72429)
          - 🟥 [[UX] [Content] Decide whether to have modality-specific accordion content or modality-agnostic accordion content](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72431) 
-     - **Sub Goal: [Handle CVT Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
+     - **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
          - 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72594)
          - 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72595)
-         - 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In](https://github.com/department-of-veterans-affairs/va.gov-team/issues/726207)
-         - 🟩🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72638)
-         - Begin frontend & CHIP work to make progress
-     - **Sub Goal: [Handle VVC Appointments](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72238)**
          - 🟥 [[UX][Design] Create Final Wireframes & Content for Video appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72598)
          - 🟥 [[UX][Content][Design] Create Final Wireframes & Content for Video appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72599)
+         - 🟩🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72638)
+         - Begin frontend & CHIP work to make progress
+     - **Sub Goal: [eCheck-in: Handle 2 Modalities (in-person, CVT)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72238)**
+         - 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In](https://github.com/department-of-veterans-affairs/va.gov-team/issues/726207)
          - 🟩🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72636)
          - Begin frontend & CHIP work to make progress
      - **Sub Goals: [Handle Phone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72768)**
