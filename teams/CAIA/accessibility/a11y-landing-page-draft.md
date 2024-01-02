@@ -61,7 +61,41 @@ Put in an[ AT Research Support Ticket](https://github.com/department-of-veterans
 
 </details>
 
-<details><summary>Designers</summary></details>
+<details><summary>Designers</summary>
+
+### Accessibility for designers
+
+Creating visual designs with accessibility in mind will go a long way in making your end product accessible to all Veterans.
+
+#### Apply accessibility best practices
+- (WHAT SHOULD GO HERE? is there a good "here are the basics of visual accessible design" article we can point to?)
+
+#### Use VA Design System components
+Don't re-create the wheel! The [VA Design System ](https://design.va.gov/)(VADS) is here to help. VADS Components are well-documented and have been reviewed for accessibility issues. Whenever possible, default to using an existing component or pattern in your designs.
+- [VA Design System components Sketch library](https://www.sketch.com/s/610156b6-f281-4497-81f3-64454fc72156/symbols)
+- [VA Design System components Figma library](https://www.figma.com/file/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?type=design&mode=design&t=Ld7dhuyaPcerrnPF-0)
+
+#### Use accessibility annotations
+A lot can be lost in translation when handing off your designs to a developer. Use accessibility annotations to make your intentions clear. It's especially important to annotate information that is semantically important, but not obvious on visual inspection:
+- Heading levels (`H1`, `H2`, etc.)
+- Anything that's using non-default styling (for example, an `H3` that's styled to look like an `H2`)
+- Text that's only accessible via assistive technology - alt text, aria-labels (for example, an "Edit" link with the `aria-label` "Edit address")
+- Focus management between pages or screens
+- Tab/focus order
+- Any elements requiring `aria`
+- Alt text for images/icons
+- `Legend` and `fieldset`, if you're creating a form
+
+Use these kits to make your annotations:
+- [VA Annotations Sketch library](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727)
+- [VA Annotations Figma library](https://www.figma.com/file/CZcnWfQOwtLqPm4WA5paYG/VADS-Annotation-Kit?type=design&node-id=415-1135&mode=design&t=Ld7dhuyaPcerrnPF-0)
+
+#### Consider prototyping in CodePen
+You'll eventually test with users of assistive technology (AT). In general, AT works best with coded prototypes. Before research begins, you should consider [creating your prototype in CodePen](https://depo-platform-documentation.scrollhelp.site/research-design/accessible-prototyping-with-codepen) for the most accurate research results.
+
+
+
+</details>
 
 <details><summary>Developers</summary></details>
 
