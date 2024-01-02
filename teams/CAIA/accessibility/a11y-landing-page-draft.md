@@ -136,7 +136,9 @@ Learn more about [Staging Review Issue tickets](https://depo-platform-documentat
 
 #### Writing your own tickets
 
-If you’re reviewing your product for accessibility issues, you can write your own tickets to keep track of your findings and close them upon completion. [Learn how to write good accessibility tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-to-write-good-accessibility-tickets.md).
+If you’re reviewing your product for accessibility issues, you can write your own tickets to keep track of your findings and close them upon completion. 
+
+[Learn how to write good accessibility tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-to-write-good-accessibility-tickets.md). And here are [tickets for common accessibility issues](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues) to help you get started.
 
 </details>
 
