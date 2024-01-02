@@ -18,7 +18,7 @@
 This document lays out the requirements for medical records on VA.gov. It is broken out by data domains and phases. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
 
 Medical records v1.0 consists of 6 data domains. 
-* Allergies
+* Allergies and reactions
 * Vaccines
 * Health conditions
 * Vitals
@@ -51,13 +51,14 @@ Medical records v1.0 consists of 6 data domains.
 | For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |
 </details>
 
-### Allergies  
+### Allergies and reactions 
 
 <details>
 <summary>List view requirements</summary>
 
 ---
 #### IA
+URL: `/my-health/medical-records/allergies`
 
 #### Content
 
@@ -70,6 +71,7 @@ Medical records v1.0 consists of 6 data domains.
  
 ---
 #### IA
+URL: `/my-health/medical-records/allergies/allergy_id`
 
 #### Content
 
@@ -96,14 +98,9 @@ Medical records v1.0 consists of 6 data domains.
 | The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
 </details>
 
-<details>
-<summary>Related documents</summary>  
-  
-* [Sketch file](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
+* [Phase 0 launch Sketch file](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=nPAS0M&nav=eyJoIjoiMjExMTI5NTc3MiJ9)
   
-</details>
-
 ### Vaccines
 
 <details>
@@ -111,6 +108,7 @@ Medical records v1.0 consists of 6 data domains.
  
 ---
 #### IA
+URL: `/my-health/medical-records/vaccines`
 
 #### Content
 
@@ -123,6 +121,7 @@ Medical records v1.0 consists of 6 data domains.
  
 ---
 #### IA
+URL: `/my-health/medical-records/vaccines/vaccine_id`
 
 #### Content
 
