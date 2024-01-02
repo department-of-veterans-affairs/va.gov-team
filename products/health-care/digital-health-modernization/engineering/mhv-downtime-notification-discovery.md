@@ -26,7 +26,7 @@ A [draft PR to refactor the DowntimeNotification component](https://github.com/d
 
 The MHV on VA.gov landing page leads to multiple MHV services, so it might make sense to show information about what services are unavailable when the downtime/outage is for some, but not all MHV services.
 
-The existing Downtime Notification implementation can be made aware of multiple services. Some exploration is needed to determine whether the multiple custom messages are possible with the current component, or what additional work would be needed to implement this in an accessible and understandable way.
+The existing Downtime Notification implementation can be made aware of multiple services. Some applications also use custom components to render notifications rather than use the default `DowntimeApproaching` and `Down` components, as supported by the `DowntimeNotification` component via a `render prop`.
 
 ### Automated notifications
 
@@ -40,6 +40,9 @@ PagerDuty has "incident" service integrations, which theoretically could be set 
 
 What the Platform refers to as downtime is tied to what PagerDuty calls [maintenance windows](https://support.pagerduty.com/docs/maintenance-windows). A PagerDuty user can schedule a maintenance window or immediately put a service in maintenance mode. How this affects a website or service depends on how PagerDuty has been integrated with the website or service. For VA.gov Frontend applications, the `DowntimeNotification` component was created to show one of two types alerts and optionally hide content.
 
+### Customization Example: Appointments
+
+VAOS, aka Appointments, customizes what the `DowntimeNotification` renders. In [numerous places](https://github.com/search?q=repo%3Adepartment-of-veterans-affairs%2Fvets-website+DowntimeNotification+path%3A%2F%5Esrc%5C%2Fapplications%5C%2Fvaos%5C%2F%2F&type=code) the VAOS app imports the platform component and uses the component's `render` prop to render a [custom DowntimeMessage component](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/components/VAOSApp/DowntimeMessage.jsx).
 
 
 ## Related links
