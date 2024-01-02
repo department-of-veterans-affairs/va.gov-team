@@ -80,11 +80,11 @@ To solve for these problems, we are building a profile hub page, which resolves 
 **KPI: The top 10 searches from the profile should not include any content that exists within the profile.**
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
-
-|KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|:-:|:-:|:-:|:-:|
-|dd214|||||
-|direct deposit|||||
+/
+|KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 100% | 1 week post-launch to 100% [12/19-12/25/2023]| 2 weeks post-launch to 100% [12/26/2023-1/1/2024]| 3 weeks post-launch to 100% [1/2-1/8/2024]| 4 weeks post-launch to 100% [1/9-1/15/2024]|
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|
+|dd214|167(ranked 3rd)|16 (ranked 13th)|16 (ranked 13th)||||
+|direct deposit|188 (ranked 1st)|27(ranked 4th)|31 (ranked 2nd)||||
 
 ## Analytics 
 Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
