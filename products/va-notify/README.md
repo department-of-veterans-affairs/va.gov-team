@@ -1,8 +1,3 @@
-# ❗Important End of Year Scheduling Info for New Notifications
-As we reach the end of the year please be aware that VA Notify will not be starting any new notification intakes in December as we focus on supporting those in progress and wrapping up 2023 initiatives. Kick-off meetings for new intake forms submitted during December will be scheduled in January.
-
-Please be mindful of launching new notifications in December before the holidays unless there is a business critical deadline. There is a [VA platform code freeze 12/22 - 1/2/2024](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Holidayreleasefreezeschedule), which also includes limited support.
-
 # VA Notify, Enterprise Notification Platform
 
 **Mission**
