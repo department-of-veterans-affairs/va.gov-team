@@ -47,7 +47,7 @@ _The following steps are performed by the **Platform Support** team. Detailed in
  - [ ] Requested removal from DSVA Slack (if applicable. Search for them in Slack)
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
- - [ ] Remove from [VFS Team Roster](https://www.va.gov/atlas/product_directory/team_members) (if applicable)
+ - [ ] Remove from [Platform Atlas](https://www.va.gov/atlas/product_directory/team_members) (if applicable)
  - [ ] SOCKS access removed (if applicable. Search their email in [config.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml))
    > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml). You'll need the user's email address associated with their public key (found in `config.yml`). Merge the PR.
  - [ ] AWS access removed (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
@@ -57,8 +57,8 @@ _The following steps are performed by the **Platform Support** team. Detailed in
  - [ ] Pagerduty access removed (if applicable. Check [pd users](https://dsva.pagerduty.com/users-new))
  - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled
  - [ ] Datadog (if applicable. Check [Datadog users](https://vagov.ddog-gov.com/organization-settings/users))
-    - [ ] Disable in Datadog UI
-    - [ ] [Submit an ECC request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog)
+    - [ ] Disable in Datadog UI (must be done by a datadog admin)
+    - [ ] [Submit an ECC request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) (Only necessary if they were in the Datadog UI)
  - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
  - [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview))
  - [ ] Google analytics and Domo access removed (if applicable. Make sure the `analytics-insights` label is on this Issue)
