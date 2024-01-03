@@ -68,7 +68,17 @@ Put in an[ AT Research Support Ticket](https://github.com/department-of-veterans
 Creating visual designs with accessibility in mind will go a long way in making your end product accessible to all Veterans.
 
 #### Apply accessibility best practices
-- (WHAT SHOULD GO HERE? is there a good "here are the basics of visual accessible design" article we can point to?)
+`I grabbed these links from W3C, do they suffice?` When designing an interface, follow these best practices:
+- [Provide sufficient contrast between foreground and background](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
+- [Don’t use color alone to convey information](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
+- [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
+- [Provide clear and consistent navigation options](https://www.w3.org/WAI/tips/designing/#provide-clear-and-consistent-navigation-options)
+- [Ensure that form elements include clearly associated labels](https://www.w3.org/WAI/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
+- [Provide easily identifiable feedback](https://www.w3.org/WAI/tips/designing/#provide-easily-identifiable-feedback)
+- [Use headings and spacing to group related content](https://www.w3.org/WAI/tips/designing/#use-headings-and-spacing-to-group-related-content)
+- [Create designs for different viewport sizes](https://www.w3.org/WAI/tips/designing/#create-designs-for-different-viewport-sizes)
+- [Include image and media alternatives in your design](https://www.w3.org/WAI/tips/designing/#include-image-and-media-alternatives-in-your-design)
+- [Provide controls for content that starts automatically](https://www.w3.org/WAI/tips/designing/#provide-controls-for-content-that-starts-automatically)
 
 #### Use VA Design System components
 Don't re-create the wheel! The [VA Design System ](https://design.va.gov/)(VADS) is here to help. VADS Components are well-documented and have been reviewed for accessibility issues. Whenever possible, default to using an existing component or pattern in your designs.
