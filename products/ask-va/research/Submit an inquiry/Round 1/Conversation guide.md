@@ -82,6 +82,29 @@ There are a few other things I want to mention before we start:
 
 I’ve started recording. I'd like to confirm again: **Are you comfortable if I record my screen and the audio as we talk today?**
 
+## Warm up (5 minutes)
+
+Alright, it sounds like we’re ready to get started. I'd like to begin by learning more about your experience with VA and our online services.
+
+- How long have you been a Veteran?
+- How often do you go online to use VA services, like, schedule a medical appointment or check your benefits?
+- Have you ever contacted VA online or over the phone?
+  - `IF NO`
+    - Why might you contact VA?
+    - If you were going to contact VA, would you prefer to call, go online or get in touch another way?
+  - `IF YES`
+    - Can you tell me about a time when you contacted VA?
+    - Do you usually contact VA `PHONE OR ONLINE`? Why?
+    - How do you usually contact VA? Why?
+      - `IF ONLINE` Did you use your phone, tablet or computer?
+    - How was the support you received?
+
+**Key things to note:**
+
+- Why do they choose to contact VA (instead of elsewhere, or another task)?
+- How do they decide which channel to use when they contact VA?
+
+
 ## Approved by:
 
 - [PENDING] Becky Phung, PO on [DATE]
