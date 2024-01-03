@@ -1,4 +1,4 @@
-# Initiative 1: (MVP) Aging Content Notifications New Framework
+[# Initiative 1: (MVP) Aging Content Notifications New Framework
 
 ## Elevator Statement
 Allow for content-type specific time frames for email reminders with unique messaging.
@@ -156,3 +156,4 @@ Note: Extending the (or building a new) framework to accommodate Content Blocks 
 - Content Editors
 - CAIA
 
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md
