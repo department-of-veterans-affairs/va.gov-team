@@ -87,7 +87,7 @@ Diagram of test journey, [also available in Mural](https://app.mural.co/t/depart
 
 ### Research materials
 
-* [Conversation guide](add link)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
 * [Mobile prototype](add link)
 * [Desktop prototype](add link)
 * [Mural: Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702577156510/63987723a59c971b96105858b484e9061622c235?wid=0-1703093103991)
