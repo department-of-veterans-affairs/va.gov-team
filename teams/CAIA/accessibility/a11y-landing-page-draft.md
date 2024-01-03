@@ -27,12 +27,12 @@ VA is here to serve American Veterans, and [approximately 40% of of them have an
 We aim to follow [inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices
 ) in all of our work.
 
-## Accessibility by discipline
+## Accessibility resources by discipline
 All of us are responsible for the accessibility of our products. And every discipline has a role:
 
 <details><summary>Researchers</summary>
 
-### Accessibility for researchers
+### Resources for researchers
 
 The best way to ensure that a product is accessible is to test it with users of assistive technology. Designing for complex needs first - like aging Veterans above the age of 55 or Veterans with disabilities - means designing for the future of **all** Veterans who age or acquire disabilities later in life. (Learn about [inclusive research practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md).)
 
@@ -63,7 +63,7 @@ Put in an[ AT Research Support Ticket](https://github.com/department-of-veterans
 
 <details><summary>Designers</summary>
 
-### Accessibility for designers
+### Resources for designers
 
 Creating visual designs with accessibility in mind will go a long way in making your end product accessible to all Veterans.
 
