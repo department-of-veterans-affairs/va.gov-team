@@ -49,3 +49,7 @@ vagov_refresh_token=<refreshTokenHash> // v1:secure+data+AZX9...
 vagov_anti_csrf_token=<antiCsrfTokenHash> // be5aac9...
 vagov_info_token=<infoToken> // %7B%3Aaccess_token_expiration%3D%3
 ```
+
+### Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#refresh---sign_inrefresh).

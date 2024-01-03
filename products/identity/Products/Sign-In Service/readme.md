@@ -8,7 +8,7 @@ The Sign in Service was created to solve the shortcomings identified with the cu
 
 #### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](Sign-in-service_Postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](postman.md).
 
 #### SiS Quickstart
 
@@ -50,11 +50,11 @@ Most clients will find either the cookie or API PKCE flows to be appropriate to 
 
 1. User opens their client (VA.gov / VA mobile app) to sign in via OAuth.
 2. User clicks on the button to sign in with their credential service provider (CSP).
-3. Client calls the vets-api Sign-in-Service (SiS) OAuth `/authorize` endpoint with specific query parameters outlined in the [`/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) document.
+3. Client calls the vets-api Sign-in-Service (SiS) OAuth `/authorize` endpoint with specific query parameters outlined in the [`/authorize`](./endpoints/authorize.md) document.
 4. Vets-api redirects to CSP website for user to enter credentials.
 5. After the user authenticates with the CSP it calls SiS API endpoint `/callback` to create an auth code.
 6. SiS API redirects user to the client with a `code` query parameter.
-7. Client makes a call to the SiS API [`/token`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/token.md) endpoint to get `Access Token` + `Refresh Token` + `Anti-CSRF Token`, stored in cookies (web authorization) or returned as a JSON payload (API authorization). Web auth will include an additional `Info Token` that tracks the expiry times of the other tokens.
+7. Client makes a call to the SiS API [`/token`](./endpoints/token.md) endpoint to get `Access Token` + `Refresh Token` + `Anti-CSRF Token`, stored in cookies (web authorization) or returned as a JSON payload (API authorization). Web auth will include an additional `Info Token` that tracks the expiry times of the other tokens.
 
     ```json
     {
@@ -67,7 +67,7 @@ Most clients will find either the cookie or API PKCE flows to be appropriate to 
     ```
 
 8. Client stores access token + refresh token.
-9. Client uses access token in cookies (web auth) or Bearer Authorization header (API auth) to call the [`/introspect`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/introspect.md) endpoint and receive user information.
+9. Client uses access token in cookies (web auth) or Bearer Authorization header (API auth) to call the [`/introspect`](./endpoints/introspect.md) endpoint and receive user information.
 
     ```json
     "data": {
@@ -81,7 +81,7 @@ Most clients will find either the cookie or API PKCE flows to be appropriate to 
     }
     ```
 
-10. Once the access token reaches expiry client passes their refresh token to the [`/refresh`]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/refresh.md)) endpoint to get a new set of tokens: a new `Access Token` + `Refresh Token` will be returned, as well as a new `Anti-CSRF Token` and/or `Info Token` if they are currently in use.
+10. Once the access token reaches expiry client passes their refresh token to the [`/refresh`]((./endpoints/refresh.md)) endpoint to get a new set of tokens: a new `Access Token` + `Refresh Token` will be returned, as well as a new `Anti-CSRF Token` and/or `Info Token` if they are currently in use.
 
 ```json
   {

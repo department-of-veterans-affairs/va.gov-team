@@ -5,6 +5,7 @@
 | Version Number | Author | Revision Date | Description of Change |
 | --- | --- | --- | --- |
 | 0.1 | John Bramley | 9/25/2023 | Initial creation |
+| 0.2 | John Bramley | 1/03/24 | `auth_flows` refactor |
 
 ## Summary
 

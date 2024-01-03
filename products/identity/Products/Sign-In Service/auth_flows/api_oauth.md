@@ -9,13 +9,13 @@
 |       0.3      |                      John Bramley                      |    7/05/22    | Updates for mobile vs. web authentication |
 | 0.4 | John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
 | 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
+| 0.6 | John Bramley | 1/03/24 | `auth_flows` refactor |
 
 ## Prerequisites
 
 ### Postman Collection
 
-vets-api/
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
 
 ### Local `vets-api` & `vets-api-mockdata` Repositories
 
@@ -58,10 +58,9 @@ When registering a Client Config for a mobile or API integration with SiS, the f
 - [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-expired-access-token.png)
 - [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-valid-access-token.png)
 
-
 ## Sign in Service Public Routes
 
-The Sign in Service routes necessary for an PI integration are listed below. Routes that are authenticated require a valid SiS `access_token` passed through Bearer Auth. Refresh token authenticated routes requires a `refresh_token` request parameter.
+The Sign in Service routes necessary for an API integration are listed below. Routes that are authenticated require a valid SiS `access_token` passed through Bearer Auth. Refresh token authenticated routes requires a `refresh_token` request parameter.
 
 ### GET Routes
 

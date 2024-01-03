@@ -21,7 +21,7 @@ Production: 'https://api.va.gov/v0/sign_in/authorize'
 | `code_challenge` | Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | `code_challenge_method` | Client specified, most common value is S256 | String | `S256` |
 | `code_verifier` | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
-| `state` | Optional string that can be taken in the `authorize` call and returned with the `callback` redirect for the client's verification purposes. | String | `kFflCkxk1K6gQUf...` |
+| `state` | Optional string that can be taken in the `authorize` call and returned with the `callback` redirect for the client's verification purposes. Minimum 22 characters. | String | `kFflCkxk1K6gQUf...` |
 
 ### Code Verifier / Code Challenge
 
@@ -75,3 +75,7 @@ staging.va.gov/auth/callback
   &state=<CLIENT_STATE>
   &type=logingov
 ```
+
+#### Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#authorize---sign_inauthorize).

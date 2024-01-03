@@ -5,6 +5,7 @@
 | Version Number | Author | Revision Date | Description of Change |
 | --- | --- | --- | --- |
 | 0.1 | John Bramley | 12/29/2023 | Initial creation |
+| 0.2 | John Bramley | 1/03/2024 | `configuration` refactor |
 
 ## Summary
 

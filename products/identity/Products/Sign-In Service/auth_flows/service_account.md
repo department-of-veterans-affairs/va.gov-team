@@ -4,8 +4,9 @@
 
 | Version Number | Author | Revision Date | Description of Change |
 | --- | --- | --- | --- |
-| 0.2 | Dick Davis | 12/8/2023 | Include instructions for `access_token_user_attributes` |
 | 0.1 | John Bramley | 8/10/2023 | Initial creation |
+| 0.2 | Dick Davis | 12/8/2023 | Include instructions for `access_token_user_attributes` |
+| 0.3 | John Bramley | 1/03/24 | `auth_flows` refactor |
 
 ## Summary
 
@@ -13,7 +14,7 @@ The Sign in Service offers a private key JWT flow to allow API authentication an
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage Service Account authentication tokens. Documentation on how to use the SiS Postman collection can be found [here](../Sign-in-service_Postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage Service Account authentication tokens. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
 
 ## Service Account Config Registration
 

@@ -82,6 +82,10 @@ vagov_anti_csrf_token=<antiCsrfTokenHash> // be5aac9...
 vagov_info_token=<infoToken> // %7B%3Aaccess_token_expiration%3D%3
 ```
 
+### Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#end-user-tokens).
+
 ## [Private Key JWT](../auth_flows/private_key_jwt.md) Auth
 
 Private Key JWT Auth functions identically to PKCE auth except in how tokens are requested. A successful response will return the same `access_token`, `refresh_token`, and optional `anti_csrf_token` as the PKCE auth flow. It also uses the `code` returned by SiS, and a signed JWT to prove the client's authenticity instead of the `code_verifier` linked to the original `code_challenge`. For more information on how to build the JWT payload and sign it, see the [Private Key JWT](../auth_flows/private_key_jwt.md) auth flow guide.
@@ -129,6 +133,10 @@ staging-api.va.gov/v0/sign_in/token
 }
 ```
 
+### Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#end-user-tokens).
+
 ## [Service Account](../auth_flows/service_account.md) Auth
 
 The Service Account auth flow will return an `access_token` that is distinct from the PKCE/Private Key JWT auth flows. This auth flow is unconnected to any previous SiS calls, and thus only requires a properly formatted signed JWT that is validated against a preregistered `ServiceAccountConfig`. For more information on how to build the JWT payload and sign it, see the [Service Account](../auth_flows/service_account.md) auth flow guide.
@@ -174,3 +182,7 @@ staging-api.va.gov/v0/sign_in/token
   }
 }
 ```
+
+### Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#service-account-access-token).
