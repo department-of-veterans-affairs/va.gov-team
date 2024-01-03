@@ -83,7 +83,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 
 ## Second Task: Status Tab - 5 minutes
 
-[Participant clicks into the in-progress claim]
+[Have the participant click into the in-progress claim]
 
 - Based on what you see here, what would you say is the status of this claim?
 - Do you feel satisfied with this amount of knowledge about the claim status? Why or why not?
