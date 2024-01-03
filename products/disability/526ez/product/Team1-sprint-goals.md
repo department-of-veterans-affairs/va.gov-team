@@ -29,7 +29,6 @@ Period - 01/03/2024 - 01/16/2024
   - Migrate sketch files to Figma - Identify scope and create tickets for migration
     
 - **Stretch Goals**
-     - Design and Content updates - Service History changes from mid-point, if capacity
      - Migrate sketch files to Figma - continued
      - Audit for 526ez for all paper to digital form changes - Start discovery
 
