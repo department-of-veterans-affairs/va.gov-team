@@ -8,7 +8,7 @@ Sitewide Medallia information (more global than healthcare-only responses) can b
 Note: _These survey responses are collected on VA.gov, and several clearly comment on features that are a part of MHV on VA.gov. But as of December 2023 we believe many responses reflect Veteran experiences on the My HealtheVet National Portal. It may be unclear for some time which My HealtheVet experience the feedback is reporting on, but we will try to do the best we can to separate the feedback based on detailed qualitative responses from Veterans when possible._
 
 
-## Summary
+## Highlights
 High-level data spanning both surveys
 
 <table>
