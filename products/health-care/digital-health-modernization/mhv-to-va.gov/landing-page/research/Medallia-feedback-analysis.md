@@ -251,7 +251,6 @@ Likely about MHV National Portal:
 * 6 users were caught in a loop of trying to register for MHV, or trying to upgrade to a Premium account
 * 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
 * 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
-* 1 user wanted but couldn't figure out how to enter flu shot data to their medical record
 * 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
 
 Likely about MHV on VA.gov: 
