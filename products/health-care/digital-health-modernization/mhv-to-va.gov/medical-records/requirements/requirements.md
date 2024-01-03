@@ -76,9 +76,9 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 * List should be paginated, with 10 allergies per page
 * For each allergy, a user should be able to click on the first line of the card (Allergy name) to view detailed information about that allergy
 * Ability to download a full list of allergies as a PDF
- * PDF should include detailed information about each allergy
+   * PDF should include detailed information about each allergy
 * Ability to print all allergies
- * Print out should include detailed information about each allergy
+   * Print out should include detailed information about each allergy
 ---
 </details>
 
