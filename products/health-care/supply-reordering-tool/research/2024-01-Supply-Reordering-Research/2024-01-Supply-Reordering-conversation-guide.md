@@ -33,7 +33,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about Supply Reordering.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -63,12 +63,10 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
+1. 
 2. 
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Tree Test/Mental Model] - 15 minutes
 
 - Step 1
 - Step 2
