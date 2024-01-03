@@ -6,12 +6,16 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Review participant list for participant name and screener question responses
+- [ ] Check Settings \> In Meeting (Advanced) \> Automated captions, Full transcript, Save captions are all ON
+- [ ] Review VA Platform's Research Checklist.
+
 
 
 ### Day of the session
+- _Post p# and "observer instructions" in_ [_#feedback-backchannel_](https://dsva.slack.com/messages/C40B45NJK/details/)
+- _@mention team members_
+- _Share brief summary of participant demographic info_
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
