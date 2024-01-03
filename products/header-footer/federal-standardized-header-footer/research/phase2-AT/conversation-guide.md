@@ -34,11 +34,7 @@
 *CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes 
-***(At first ONLY MODERATOR & PARTICIPANT, *not* notetaker)***
-
 Thank you for joining us today! My name is Cindy. How are you doing today?
-
-*(Brief conversation)*
 
 I work on making technology easier for Veterans to use in order to get information and benefits from the VA. 
 
@@ -46,7 +42,7 @@ What I *hope to do today* is to get your feedback on something new that we're wo
 
 What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I cannot make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
-I have a colleague with us in this session who will be taking notes.
+I have a colleague with us in this session who will be taking notes. Laura is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session.
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker.
@@ -164,6 +160,12 @@ Let’s start with a few questions...
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+1. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
+
+1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
+
+1. How long have you been using a screen *(screen reader / magnifier)*?
+
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
@@ -186,7 +188,7 @@ I'd like you to look at a web page that I'm going to share with you.
 
 *Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
-I will *[text/dictate/put into the Zoom chat]* the URL: **TBD**
+I will *[text/dictate/put into the Zoom chat]* the URL: ***TBD***
 - *(If text)* Could the notetaker please text the link?
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
@@ -210,11 +212,14 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - Purpose of page
 - Official government website?
 - From the VA?
+- Footer
 
 *If participant needs prompting:*
 - Please take a look at the *entire* web page. You can scroll all the way down to the bottom.
 
 *RECORD navigation: header / footer / search / mobile search*
+
+*Did they scroll all the way down to the bottom of the page, below USA logo? Y / N*
  
 
 ### Task 3: [Find VA location]
@@ -323,6 +328,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
     - Can you tell me about the very top of this page? *(USA Government)*
     - Can you talk about what's below that? *(VA seal and dept. name)*
     - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
+      - *(Any comments about size, organization, etc?)*
 
 1. How often do you use VA.gov?
 1. Do you use the VA mobile app? If so, how often?
