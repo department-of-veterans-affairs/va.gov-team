@@ -103,44 +103,6 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Logging in was the biggest challenge to accessing the appointments tool.
-
-Half of participants ran into trouble while logging in, and all commplained that the process of logging in can be frustrating.
-
-Once they logged in, X participants easily navigated to the appointments list
-
-**Login (all)**
-<abbr title="">About half</abbr> of our participants had trouble during the login process, and <abbr title="8 out of 12">most</abbr> reported that they generally find login to be frustrating.
-
-**My VA (11)**
-All but one participant was able to navigate easily from My VA to Appointments (one used other entry points.) The one who struggled was a Cerner user, so they didn't have a direct path to the appointments tool from My VA.
-
-**Static landing page (all)** 
-<abbr title="9 out of 12">Most participants</abbr> were able to navigate to the Appointments tool through the static landing page. 5 complained about information overload on this page, or that it was frustrating to land on it after logging in. One would have abandoned the process at this page if they had to deal with it outside of the test.
-
-**My HealtheVet**
-We started most participants on VA.gov, so they usually encountered the My HealtheVet National Portal after they had seen the appointments tool and the MHV on VA.gov home page. This was the most challenging path to appointments, and we'll cover it in the finding [TBD]
-
-1. Participants easily navigated the appointments list.
-
-X participants had no trouble opening a details page and exploring their appointments.
-
-X participants struggled with the Pending option.
-
-X participants couldn't find their past appointments without help.
-
-2. Participants easily navigated to the MHV on VA.gov home page.
-
-Only one participant was unable to navigate to the MHV on VA.gov home page. All others were able to use at least one method:
-- X used the breadcrumb
-- X used the My HealtheVet button on the navbar
-- X used the dropdown in the Profile menu
-
-3. All participants were able to easily find and use the print button.
-
-4. Navigating multiple portals was a barrier to finding appointment information.
-
-We asked participants to explore My HealtheVet fro the MHV on VA.gov home page. Most went to Secure Messaging, some to medical history. Afterwards, we asked them if they could find a way to schedule an appointment.
 
 
 
@@ -172,35 +134,99 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 2**
+### All participants complained that logging in can be frustrating.
+
+<abbr title="">About half</abbr> of our participants had trouble during the login process, and <abbr title="8 out of 12">most</abbr> reported that they generally find login to be frustrating.
+
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+### <abbr title="8 out of 12">Most</abbr> participants were confused when navigating across multiple portals to find the appointments tool.
 
-> _Supporting data: Quote here_
+We started off by asking participants to go to VA.gov and find their appointments. Later, we asked them to find other health tools, then navigate back to appointments. 
 
-> _Supporting data: Quote here_
+Participants struggled when navigating across portals. 4 were confused as to why information was duplicated across portals.
+
+Some paths to the appointments tool were more challenging than others.
+
+**Cerner**
+Our two Cerner participants easily navigated to Cerner using different paths [Which paths?]. Once they were in Cerner, they could not easily navigate back to VA.gov. This is by design, as Cerner opens in a new tab from VA.gov, and has no links back to VA.gov.
 
 
-**Finding 3**
+**My HealtheVet National Portal**
+5 participants complained of information overload on the Manage your VA Appointments page and NP appointments list. Both pages required a lot of scrolling to get to the tool or call to action.
 
-Labels: label 1, label 2 
+**Static landing page** 
+<abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through the static landing page. 5 complained about information overload on this page, or that it was frustrating to land on it after logging in. 4 were frustrated that they had to click the same button twice to access the appointments tool. One said they would have abandoned the process at this page if they had to deal with it outside of the test.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+**MHV on VA.gov home page.**
+All but one participant were able to navigate to the MHV on VA.gov home page from the Appointments tool:
+- 6 used the breadcrumb
+- 9 used the My HealtheVet button on the navbar
+- 2 used the dropdown in the Profile menu
 
-Brief description
+The one who couldn't find a path to the page was on a mobile device.
 
-> _Supporting data: Quote here_
+2 participants expected to go directly to the appointments tool when they clicked the link to "Schedule and manage appointments" and were confused when they landed back on the static landing page. [Note how many participants took this path.]
 
-> _Supporting data: Quote here_
+**My VA**
+We tested this path with 11 participants. 10 were able to navigate easily from My VA to the Appointments tool. 
+
+The one who struggled was a Cerner user who didn't have a direct path to the appointments tool from My VA.
+
+### All participants easily navigated details pages.
+
+All participants quickly understood how to open details pages. 
+
+Two users didn't use the descriptive back link. One was on a mobile device, and favored using the browser back button at the bottom of their screen instead. Another was on desktop and also used the browser back button. Neither showed any sign of being confused about navigating back to the list view.
+
+
+### [#] participants struggled to understand their pending appointments.
+
+- 2 participants expected that the number next to Pending (0) should refer to their upcoming appointments.
+- 1 associated pending appointments with those requested through secure messages.
+- 2 had a moment of confusion before selecting the Pending link
+
+
+### [#] participants easily found their past appointments
+
+Of those that had trouble: 
+- 2 left the appointments tool to look for their past appointments in their health history.
+- 1 didn't see the navigation links.
+
+
+### All participants were able to easily find and use the print button.
+
+Navigating multiple portals was a barrier to finding appointment information.
+
+We asked participants to explore My HealtheVet fro the MHV on VA.gov home page. Most went to Secure Messaging, some to medical history. Afterwards, we asked them if they could find a way to schedule an appointment.
+
 
 
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+
+## Participants wanted a more personalized experience for selecting facilities.
+
+3 participants reported seeing unfamiliar or unexpected facilities in the list, such as those that were very far away. 3 wanted to see the facility they currently go to listed first. And 2 were confused that their Primary Care facility wasn't the only one listed when they selected Primary Care. 
+
+Another participant said that their provider changes much more often than location, they would prefer to choose from providers based on their availability here. 
+
+And 1 mentioned they'd like to have availability as the first option to choose from.
+
+2 mentioned that it was easy to find the distance to the facility, and 2 others easily found their desired facility.
+
+## Participants were confused about the request calendar.
+
+4 participants thought the request calendar was showing availability, and they would be able to schedule from there. 1 said they didn't trust that scheduling in this way would lead to an actual appointment.
+
+## Participants were confused by the alert that told them Community Care was unavialable for podiatry.
+
+2 participants said that they currently receive community care for podiatry, and were frustrated at this message.
+
+![Alert that displays when community care is not available for a given type of care](./images/CC%20alert.png)
 
 
 ## Recommendations
