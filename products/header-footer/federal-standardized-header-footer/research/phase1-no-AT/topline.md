@@ -55,19 +55,24 @@ On December 15-21, 2023, we talked over Zoom with **10 people**--9 Veterans, 2 C
     - taking up real estate on the page (1) 
      > *"Amateurish to me, so I would immediately if I saw it on a .gov website think that I'm being phished" (p8).*
 
-     > *"Thought it was fake like it was just added on...Why is that important for it to be there? It is redundant to me because it's the **US** Department of Veterans Affairs" (p4).*
+     > *"Am I getting spoofed right now, and I'm going to put in my information and have my identity stolen?" (p7).*
+
+     > *"It looked weird there to me. Thought it was fake like it was just added on...It is redundant to me because it's the **US** Department of Veterans Affairs...We all know that we serve, so we know that it's part of the government...I just don't understand the importance of it being there" (p4).*
 
      > *"Just unnecessary real estate being used there at that point" (p8).* 
 
 
 1. Only **one person loved the colored USA logo**, and this was a Veteran who had previously worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
 
-   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it" (p2).*
+   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it...It's very well done. It's very well considered, and it's awesome. I've done a lot of this work in the past." (p2).*
 
    > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (p10).*
 
 18. **Two participants liked the black/white USA logo in the footer better than the colored one** in the header because it stands out, looks good, and seems more official. 
     > *"It just seems a little bit more boring and professional to me" (p8).*
+
+    > *"It's not some...scam website that at the top it looks cheesy to me...It's just it looks very nice...at the bottom it's like a seal of approval of this is an official website...it just looks very good...I just think it's simple. I like that. It's colorless. It has the eagle" (p4).*
+
 
 ## Next Steps
 - Plan and conduct Phase 2 of research
