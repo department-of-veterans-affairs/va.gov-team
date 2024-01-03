@@ -12,6 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 1/2/2024
+- Updated slim alerts and icons to use version 3 of the Design System
+    - [Ticket 65493](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
+    - [Ticket 69829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69829)
+
 ### 12/22/2023
 - Disabled Pre-Check-in and eCheck-in for all phone, CVT, and VVC appointments based on this stop code list
    - [Ticket 72261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72261)
