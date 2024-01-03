@@ -1,6 +1,6 @@
 # Federal Standardized Header/Footer (Phase 1) Usability Testing -- Topline Summary
 
-Cindy Merrill, Sitewide Public Websites team, January 2, 2024
+*Cindy Merrill, Sitewide Public Websites team, January 3, 2024*
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
@@ -56,7 +56,7 @@ On December 15-21, 2023, we talked over Zoom with **10 people**--9 Veterans, 2 C
 
      > *"Just cause it says USA Government don't mean nothing" (p11).*
 
-     > *" I don't think the U.S.A. Government at the top is necessary...Why, somebody would want it, I guess, to give them the warm and fuzzies that it's a government website...you gotta watch out for scamming scam websites and phishing and all that other stuff. Just putting U.S.A. Government at the top does not make it official to me" (p3).*
+     > *" I don't think the U.S.A. Government at the top is necessary...Why somebody would want it, I guess, to give them the warm and fuzzies that it's a government website...you gotta watch out for scamming scam websites and phishing and all that other stuff. Just putting U.S.A. Government at the top does not make it official to me" (p3).*
 
        > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (p10).*
     
@@ -66,7 +66,7 @@ On December 15-21, 2023, we talked over Zoom with **10 people**--9 Veterans, 2 C
 
      > *"It looked weird there to me. Thought it was fake like it was just added on...It is redundant to me because it's the **US** Department of Veterans Affairs...We all know that we serve, so we know that it's part of the government...I just don't understand the importance of it being there" (p4).*
 
-     > *"Just unnecessary real estate being used there at that point. So unless I'm able to click on it and go to another government resource, I don't really see a need for it...doesn't necessarily seem to blend in with the page. It's just like something added up top there. (p8).* 
+     > *"Just unnecessary real estate being used there at that point. So unless I'm able to click on it and go to another government resource, I don't really see a need for it...doesn't necessarily seem to blend in with the page. It's just like something added up top there (p8).* 
 
 
 1. Only **one person loved the colored USA logo**, and this was a Veteran who had previously worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
@@ -76,9 +76,9 @@ On December 15-21, 2023, we talked over Zoom with **10 people**--9 Veterans, 2 C
    > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (p10).*
 
 18. **Two participants liked the black/white USA logo in the footer better than the colored one** in the header because it stands out, looks good, and seems more official. 
-    > *"This bottom one seems a little bit more official to me...states an official website...more boring and professional to me" (p8).*
+    > *"This bottom one seems a little bit more official to me...states an official website...more boring and professional" (p8).*
 
-    > *"It's not some...scam website that at the top it looks cheesy to me...It's just it looks very nice...at the bottom it's like a seal of approval of this is an official website...it just looks very good...I just think it's simple. I like that. It's colorless. It has the eagle" (p4).*
+    > *"It's not some...scam website that at the top it looks cheesy to me...Looks very nice...at the bottom it's like a seal of approval, this is an official website...it just looks very good...it's simple. I like that. It's colorless. It has the eagle" (p4).*
 
 
 ## Next Steps
