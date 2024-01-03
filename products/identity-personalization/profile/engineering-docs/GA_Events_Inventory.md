@@ -1,13 +1,13 @@
 
 # GA events in authenticated experience team owned code
 
-- Summary
-- API Call Events
-- Other Events
-- My VA Events
-- Profile Events
-- Platform shared code events
-- Takeaways
+- [Summary](#summary)
+- [API Call Events](#api-call-events)
+- [Other Events](#other-events)
+- [My VA Events](#my-va-events)
+- [Profile Events](#profile-events)
+- [Platform shared code events](#platform-shared-code-events)
+- [Conclusion/Takeaways](#takeaways)
 
 ## Summary
 - 257 references to `recordEvent` across the applications and platform code
