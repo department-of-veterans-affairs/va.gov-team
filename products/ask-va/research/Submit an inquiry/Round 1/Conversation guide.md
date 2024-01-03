@@ -35,7 +35,7 @@ Last updated by @tygindraux: January 3, 2024
 ## Agenda (60 minutes)
 
 - [Intro - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#intro-5-minutes)
-- Warm up - 5 minutes
+- [Warm up - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#warm-up-5-minutes)
 - Start page - 5 minutes
 - Chapter 1: Category and topic - 5 minutes
 - Chapter 2: Your question - 8 minutes
@@ -94,7 +94,6 @@ Alright, it sounds like we’re ready to get started. I'd like to begin by learn
     - If you were going to contact VA, would you prefer to call, go online or get in touch another way?
   - `IF YES`
     - Can you tell me about a time when you contacted VA?
-    - Do you usually contact VA `PHONE OR ONLINE`? Why?
     - How do you usually contact VA? Why?
       - `IF ONLINE` Did you use your phone, tablet or computer?
     - How was the support you received?
@@ -104,6 +103,51 @@ Alright, it sounds like we’re ready to get started. I'd like to begin by learn
 - Why do they choose to contact VA (instead of elsewhere, or another task)?
 - How do they decide which channel to use when they contact VA?
 
+## Start page (5 minutes)
+
+Thanks, it’s helpful to learn about your experience with VA.
+
+Next, I’d like to share some ideas to get your feedback.
+
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
+
+> Send link in Zoom chat.
+
+- Can you please open the link in the chat?
+- Have you shared your screen on Zoom before?
+  - `IF YES` Great. Can you please share your screen?
+  - `IF NO` I’ll walk you through how to do that…
+
+Thanks! Now I’m able to see your screen too.
+
+> Screen: Start page
+
+Okay, now that we have this open, we’re not going to click on anything yet. 
+
+First, I'll give you a second to read the page more closely.
+
+- Can you tell me what you notice first on this page?
+- What is this page about?
+
+For the rest of our conversation, I’d like you to imagine that you need to ask VA a question. Let's say it's a question about a recent experience you had at a VA medical center.
+
+- What would you do first if you wanted to ask a question about an experience you had at a VA medical center?
+  - Where would you click?
+  - Why would you click `Sign in`(or) `Continue without signing in`?
+- Does it seem like you need to sign in, in order to start?
+  - What if your question was about education benefits?
+- Are there any (other) benefits of signing in?
+- How long would you expect it to take to ask a question?
+- What do you expect to happen when we click `Continue without signing in`?
+
+Let’s go ahead and click `Continue without signing in`.
+
+**Key things to note:**
+
+- Where are they most likely to click first?
+- Is it clear when they need to sign in or when it is optional?
+- Are the benefits of signing in (besides when it’s required) clear?
+- Is the purpose of Ask VA clear at this point?
 
 ## Approved by:
 
