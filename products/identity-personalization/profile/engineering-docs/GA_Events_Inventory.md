@@ -1,10 +1,20 @@
 
-GA events in authenticated experience team owned code
+# GA events in authenticated experience team owned code
+
+- Summary
+- API Call Events
+- Other Events
+- My VA Events
+- Profile Events
+- Platform shared code events
+- Takeaways
+
+## Summary
 - 257 references to `recordEvent` across the applications and platform code
 	- 88 of these references are in the `tests` folder, and so they will not need to be migrated per say, but any changed events will need to have tests updated where needed to have their event payloads match
 - This number is approximate, because there are some abstracted functions that don't use the `recordEvent` function directly
 	- Example: `src/applications/personalization/dashboard/helpers.jsx` includes a `recordDashboardClick` helper function that does this kind of abstraction
-- *IMPORTANT*: there are is additional code within `src/platform/user/profile` of vets website that we also own. This is where 36 of the references to `recordEvent` calls are located, and they are [documented at the end of this document here](TODO url inserted here)
+- *IMPORTANT*: there are is additional code within `src/platform/user/profile` of vets website that we also own. This is where 36 of the references to `recordEvent` calls are located, and they are [documented at the end of this document here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/GA_Events_Inventory.md#platform-level-code-that-authenticated-experience-owns)
 - Also note this is not exhaustive and I may have missed some calls as this is based on a best guess of where all this code is called, and really picking through things one file at a time may need to be done to fully cover any instances that are unique
   - One example of where this _might_ happen is if the `recordEvent` is imported as a different name, because well its a 'default export' from it's file so it can actually be imported as any name unfortunately. This is one reason that I personally try to avoid using default exports, and instead try to stick to named exports so that imports are explicitly referenced as such names.  
 
@@ -33,7 +43,7 @@ src/applications/personalization/components/IdentityNotVerified.jsx
 
 ---
 
-## Dashboard Events
+## My VA Events
 
 src/applications/personalization/dashboard/components/benefit-application-drafts/ApplyForBenefits.jsx
 ```
@@ -739,7 +749,7 @@ src/platform/user/profile/vap-svc/containers/VAPServiceProfileField.jsx
       'profile-section': this.props.analyticsSectionName,
     });
 ```
-## Broad summary and takeaways
+## Takeaways
 
 My VA product has only these two events:
 - `dashboard-navigation`
