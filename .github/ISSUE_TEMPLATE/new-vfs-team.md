@@ -55,10 +55,7 @@ Add your team's practice and contact information below.
 - [ ] This information has been added.
 
 ## ToT (Team of Teams) 
-- [ ] Join the #team-of-teams-slide-collection channel
-- [ ] Introduce yourself (i.e. provide name, team, and crew) to  `@Julia Badillo` and/or `@Erica Robbins [GovCIO_VetsPS]` to receive Team of Teams Agenda and Protocol for reference
-- [ ] #vfs-all-teams channel provides a Slack-Bot reminder 5 minutes prior to all Team of Teams meetings and includes a Zoom link
-- [ ] Use the #vfs-all-teams channel Zoom link provided to create your own calendar invite to attend all Team of Teams meetings
+- [ ] Contact `@Julia Badillo` or `@Erica Robbins [GovCIO_VetsPS]` on the #team-of-teams-slide-collection channel to receive an invite to the Team of Teams meeting and the Team of Teams Agenda and Protocol for reference
 
 ## Introduce your team on slack
 - [ ] Introduce your team on the #vfs-all-teams Slack channel. Include team name, Product Manager, Product Owner, what crew your team is on, and what products you're supporting on VA.gov.
