@@ -1,4 +1,4 @@
-# Initiative 1: (MVP) Aging Content New Framework for Notifications
+# Initiative 1: (MVP) Aging Content Notifications New Framework
 
 ## Elevator Statement
 Allow for content-type specific time frames for email reminders with unique messaging.
@@ -10,9 +10,9 @@ Currently, there is a Notification system set on a 365 day cadence from set from
 
 To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement the ability for the notification system to send notification emails based on a cadence specific to particular content types, e.g. Full-Width banners will only display for seven (7) days, and notifications will be sent three days before the 7th day (telling them they need to edit to add a note that it is still needed, or archive the banner by the seventh day), then the morning of the 7th day (telling them they need to either edit to add a note that the banner is still needed, or archive). 
 
-If possible, this should also accommodate Home Page Benefit Promo Blocks, and Home Page News Spotlight Blocks, which will be set at 30 day notification sequences (future stories/initiative to actually implement). Take note that if other banner types are created in the future, then this framework needs to be extendable to accommodate them as well.
+If possible, this should be extendable to accommodate Home Page Benefit Promo Blocks, and Home Page News Spotlight Blocks which will be set at 30 day notification sequences (future stories/initiative to actually implement). Take note that if other banner types are created in the future, then this framework needs to be extendable to accommodate them as well.
 
-If not possible, then another framework to accommodate blocks should be created in later endeavor.
+If not possible, then another framework to accommodate blocks should be created post-MVP.
 
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial seven (7) day default timeframe that can then be extended by editing to add a note that the banner is still needed, which will reset the seven day window, and start the alerts again.
@@ -24,13 +24,13 @@ How might we ensure a better site-user experience by ensuring alignment to our V
 - It’s Time to “VAX to the MAX!” (outdated)
 
 ## Desired User Outcomes
-Veterans, their caregivers and other users of VA.gov will see banners with only emergency or vital information helpful to them.
+Veterans, their caregivers and other users of VA.gov will see banners with only emergency or vital information helpful to them, and display relevant, timely information.
 
 ## Undesired User Outcomes
 Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
 
 ## Desired Business Outcomes
-If Editors don't take action to either extend or archive their full-width banner content, then when the End Date/Time is reached, the content will be auto-archived. Note that notifications to Editors is part of the [MVP Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/2024-specify-timeframes/Initiative-2-aging-content-type-banner-notifications.md)
+When editors receive the notification emails regarding their content, they do one of two things; either edit their content so that the timeframe is 'reset' for another X number of days (the timeframe associated to the specific content they are working on), or they archive the content.
 
 ## Undesired Business Outcomes
 Editors ignore the notification emails, and content they meant to extend is auto-archived and needs to be manually recreated (auto-archiving is permanent).
@@ -55,7 +55,7 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 ### Objectives and Key results (OKRs)
 
 - Objective:
-  - Key result: Content editors ensure that relevant, current information is displayed/delivered via Full-width banners so that Veterans, their caregivers, and other VA.gov users recognize that they should pay attention to Full-width banners and they don't become invisible as stale or irrelavent.
+  - Key result: Content editors ensure that relevant, current information is displayed/delivered via Full-width Banners so that Veterans, their caregivers, and other VA.gov users recognize that they should pay attention to Full-width banners and they don't become invisible as stale or irrelavent.
 
 ## Assumptions
 
@@ -64,12 +64,14 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 - If the editor isn't going to extend it, they need to archive it, or the content will be auto-archived in a future story/implementation.
 
 ## In Scope for the MVP:
-Goal: Create a framework, either new or by adjusting the existing 365-day notification framework, to make timeframes and notifications configurable for different content types, such as full-width banners, home page promo blocks, and home page promo news. The framework should enable different timeframes to be assigned (via code, not by the editor) to each content type, if desired. The framework should be extendable to other content types, if desired in the future. Note that the auto-archiving mechanism will be in a future iteration.
+Goal: Create a framework, either new or by adjusting the existing 365-day notification framework, to make timeframes and notifications configurable for different content types, with full-width banners being the MVP goal.
+
+The framework should enable different timeframes to be assigned (via code, not by the editor) to each content type, if desired. The framework should be extendable to other content types in the future, such as other banner types, as well as content blocks. Note that the auto-archiving mechanism will also be in a future iteration.
  
-- As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below, which will be implemented after the framework is completed.
+- As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below. The actual implementation of the various content types mentioned below will be in future stories/initiatives, and implemented after the framework is completed.
   - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
   - Home Page Promo Block:  content type is assigned a 21-day timeframe with notifications sent to the editors three (3) days before Day 21, and the morning of Day 21. (Note that 21 days is just being used as an example. (Note that this content block will actually be configured to 30 days; the 21 days mentioned above was just to illustrate that different timeframes may be assigned in the future.)
-  - Home Page News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30. 
+  - Home Page Spotlight News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30. 
  
 ### How we are approaching the solution
 - By either altering the existing framework, or creating a new framework.
@@ -79,21 +81,20 @@ Goal: Create a framework, either new or by adjusting the existing 365-day notifi
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content editor sees informational text about the new 7 day timeframe for Full-width banners | **AS A** Content Editor, **I WANT** to know what the timeframe expectation for the content type I'm creating/editing, **SO THAT** I’m aware I will receive notifications within that timeframe alerting me that I should update and extend the time, or archive the banner. | |
-| Content Editor receives email three (3) days prior to end date configured for the content type they are creating/editing | **AS A** content editor who created a content type where the timeframe is configured using the new notification framework, **I WILL** receive an email alert three (3) days prior to the End date of the date range assigned to the content type, **SO THAT** I know I need to either need to (1) edit the content, thus resetting the timeframe window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 12:01AM (0001) the morning of the end date | **AS A** content editor who created a content type using the new notification framework, **I WILL** receive an email reminding me of the end date at 12:01AM (0001) the day of the end date, **SO THAT** I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
-| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a content type using the new notification framework, **I WILL** edit the content, **SO THAT** the published date range is reset to <timeframe configured> days, e.g. the start date is 'today', and end date is configured timeframe-days later, inclusive. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
-| Developer edits the date range of a particular content type e.g. full width banner, home page promo banner, home page news banner | **AS A** drupal developer, **I NEED** the ability to change the date range of a content type of banner to any date range I want e.g. 7 days, or 21 days, or any range that's been decided upon, **SO THAT** the published date range is now the new date range, **AND** notificiation emails are still sent on the 3 day, morning of last day, (and when archived) cadence. | |
+| Content Editor is able to receive an email three (3) days prior to end date configured for the content type they are creating/editing | **AS A** content editor who created a content type where the timeframe is configured using the new notification framework, **I WILL** receive an email alert three (3) days prior to the End date of the date range assigned to the content type, **SO THAT** I know I need to either need to (1) edit the content, thus resetting the timeframe window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor is able to receive an email at 12:01AM (0001) the morning of the end date | **AS A** content editor who created a content type using the new notification framework, **I WILL** receive an email reminding me of the end date at 12:01AM (0001) the day of the end date, **SO THAT** I know I need to either need to edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
+| Content Editor is able to edit the banner with the intent of extending the published date range | **AS A** content editor who created a content type using the new notification framework, **I WILL** edit the content, **SO THAT** the published date range is reset to <timeframe configured> days, e.g. the start date is 'today', and end date is configured timeframe-days later, inclusive. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date, just before mignight of the 'new' end date (unless the editor again edits and resets the dates).|
+| Developer is able to assign any date range to a particular content type e.g. full width banner, home page promo banner, home page news banner | **AS A** drupal developer, **I NEED** the ability to set or change the date range of a content type of banner to any date range I want e.g. 7 days, or 21 days, or any range that's been decided upon, **SO THAT** the published date range is now the new date range, **AND** notificiation emails are still sent on the 3 day, morning of last day, (and when archived) cadence. | |
 
 
-Note: Auto-archiving will be in a future initiative, and along with that functionality, a third notification email will be implemented that will be sent when the content is archived.
+Note: Extending the (or building a new) framework to accommodate Content Blocks is in a future initiative. Auto-archiving will be in a future initiative, and along with that functionality, a third notification email will be implemented that will be sent when the content is archived.
 --- 
 
 ## Launch Strategy
 
 ## Launch Dates
 - *Target Launch Date*
-  - Q1 2024 (an actual date will be determined soon)
+  - Q1 2024 for this framework (an actual date will be determined soon)
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
