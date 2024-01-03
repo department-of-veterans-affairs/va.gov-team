@@ -547,7 +547,7 @@ Thank you for your time today, I completely understand your decision to stop.
 
 Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
 
-### If the participant is fine to continue, but you aren't.
+### If the participant is fine to continue, but you aren't
 
 I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
 
