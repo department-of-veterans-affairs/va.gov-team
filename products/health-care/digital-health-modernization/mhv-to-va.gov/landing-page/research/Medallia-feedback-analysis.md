@@ -254,11 +254,11 @@ Likely about MHV National Portal:
 
 Likely about MHV on VA.gov: 
 * 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
-* 1 user was unable to add a second address to their profile (need different billing and shipping addresses)
 * 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments.
 
 ## Possible future enhancements? 
 * 1 user expected to be able to update/change their address online
+* 1 user expected the ability to add a second address to their profile (need different billing and shipping addresses)
 * 1 user was unable to verify private insurance online
 
 ## Joys users expressed
