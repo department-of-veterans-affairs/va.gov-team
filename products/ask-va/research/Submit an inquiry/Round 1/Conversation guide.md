@@ -133,7 +133,7 @@ For the rest of our conversation, I’d like you to imagine that you need to ask
 
 - What would you do first if you wanted to ask a question about an experience you had at a VA medical center?
   - Where would you click?
-  - Why would you click `Sign in`(or) `Continue without signing in`?
+  - Why would you click `Sign in` (or) `Continue without signing in`?
 - Does it seem like you need to sign in, in order to start?
   - What if your question was about education benefits?
 - Are there any (other) benefits of signing in?
@@ -148,6 +148,51 @@ Let’s go ahead and click `Continue without signing in`.
 - Is it clear when they need to sign in or when it is optional?
 - Are the benefits of signing in (besides when it’s required) clear?
 - Is the purpose of Ask VA clear at this point?
+
+## Chapter 1: Category and topic (5 minutes)
+
+> Screen: Category
+
+Okay, so I mentioned earlier that we’re imagining that you want to ask a question about an experience you recently had at a VA medical center. With that in mind…
+
+- Can you show me what you would do first on this page?
+  - Why would you choose `Health care` or [whatever they choose]?
+- Why do you think the VA is asking you this question?
+- How important do you think it is to answer this question correctly?
+- How long do you think this process is going to take?
+- Before we move on, what do you expect to see on the next page?
+- How would you move on to the next question? Can you show me?
+
+Great, next we’ll click 'Continue'.
+
+**Key things to notice:**
+- Do they recognize why they need to choose a category?
+- Do they think it’s important to choose the right one?
+- Is it straightforward to use the select menu?
+- Do they choose `Health care` without being prompted?
+- Do they notice the progress bar? Does it impact their idea of how long the form is?
+
+> Screen: Topic
+
+Before we click on anything…
+
+- Can you tell me what you would do first on this page?
+- (Why do you think VA is asking you this question?)
+- (How important do you think it is to answer this question correctly?)
+- How is this question different from the last one you answered?
+- What does it mean, where it says, ‘Your category and topic’?
+- What if you couldn’t find an option that fit your needs, what would you do?
+
+Great. Let’s go ahead and choose `Getting care at a local VA medical center` and then click `Continue`.
+
+**Key things to notice:**
+- Do they notice a difference between this page (topic) and the previous (category)?
+- Is it clear you can only choose 1 option?
+- Do they choose `Getting care at a local VA medical center` without being prompted?
+- Is there any confusion about the running summary?
+- If they can’t find an option, what would they do?
+
+
 
 ## Approved by:
 
