@@ -20,6 +20,7 @@ ________________________________________________________________________________
  
 #### PLANNED RELEASES 
 - eCheck-in: Handle 2 Modalities (in-person, CVT)
+- Let Veterans Know when BTSSS is Down
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -30,7 +31,7 @@ ________________________________________________________________________________
          - ❗ 🟥 [[Content] Update SMS Notifications for check in to address Veterans not being present after checking in online](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72851)
          - ❗ 🟥 [[Design] [Content] Create Final Wireframes with content for ID Verification page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72853)
      - **Sub Goal: [eCheck-in: Handle 2 Modalities (in-person, CVT)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72238)**
-          - ❗ 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In](https://github.com/department-of-veterans-affairs/va.gov-team/issues/726207)
+         - ❗ 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In](https://github.com/department-of-veterans-affairs/va.gov-team/issues/726207)
          - ❗ 🟩 [[FE][CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
          - ❗ 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)         
          - ❗ 🟩 [[FE] Check-In Error Page content updates - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)
@@ -39,7 +40,12 @@ ________________________________________________________________________________
          - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72631)
          - ❗ 🟥 [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72629)
          - ❗ 🟩🟪🟥 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72632)
-             - **Question: How are we releasing this? FF or should we just wait to do the work to un-exclude last????????** 
+             - **Question: How are we releasing this? FF or should we just wait to do the work to un-exclude last????????**
+     - **Sub Goal: Let Veterans Know when BTSSS is Down** 
+         - 🟩 [[FE] Let Veteran Know when BTSSS is Down](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72876)
+         - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72630)
+         - 🟥 [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72625)
+         - 🟩🟪🟥 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72879)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
        - 🟦 TBD
