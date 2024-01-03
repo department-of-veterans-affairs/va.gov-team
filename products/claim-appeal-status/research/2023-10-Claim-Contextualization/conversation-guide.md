@@ -86,7 +86,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 [Have the participant click into the in-progress claim]
 
 - Based on what you see here, what would you say is the status of this claim?
-- Do you feel satisfied with this amount of knowledge about the claim status? Why or why not?
+- Do you feel like this tells you everything you need to know about the claim? Why or why not?
 - If you wanted to understand more about what is going on with your claim, where would you go from here?
 
 ### Things to watch for:
