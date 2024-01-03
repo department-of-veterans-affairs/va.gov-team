@@ -37,7 +37,7 @@ Last updated by @tygindraux: January 3, 2024
 - [Intro - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#intro-5-minutes)
 - [Warm up - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#warm-up-5-minutes)
 - [Start page - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#start-page-5-minutes)
-- Chapter 1: Category and topic - 5 minutes
+- [Chapter 1: Category and topic - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-1-category-and-topic-5-minutes)
 - Chapter 2: Your question - 8 minutes
 - Chapter 3: Personal information - 12 minutes
 - Chapter 4: Review and submit - 10 minutes
