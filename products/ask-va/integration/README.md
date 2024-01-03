@@ -40,6 +40,7 @@
 |---|---|---|:---:|:---:|---|---|
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | complete |  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | 🟨 | development | CRM team handed off to FE team for integration | 
+Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟨 | ⬜ | development | | 
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟨 | ⬜ | development | | 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟨 | ⬜ | development | | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟨 | ⬜ | development | | 
@@ -49,10 +50,9 @@ Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟨 | �
 Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟨 | ⬜ | development |  | 
 Dashboard | [PUT /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.md) | Dynamics | 🟨 | ⬜ | development |  | 
 Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟨 | ⬜ | development | | 
+Dashboard | [GET /profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/va_profile/profile_processes.md)   | VA Profile / Dynamics | 🟦 | ⬜ | design | CRM team to provide example response for all profile values | 
 Form | [GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md) | Lighthouse | N/A | ⬜ | design |  | 
 Form | [GET /states](lighthouse/Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
 Form | [GET /countries](lighthouse/Form_GetCountries.md) | Lighthouse | N/A | ⬜ | design | | 
 Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
-Dashboard | [GET /profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/va_profile/profile_processes.md)   | VA Profile / Dynamics | 🟦 | ⬜ | design | CRM/FE teams to complete design by 1/2 | 
-Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟦 | ⬜ | design | CRM/FE teams to complete design by 12/21 | 
 
