@@ -63,8 +63,9 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. 
-2. 
+1. Have you ordered a medical device or supply before and can you tell us what that is?
+2. Have you used MyHealthEVet before?
+   
 
 ## First Task: [Tree Test/Mental Model] - 15 minutes
 
@@ -78,7 +79,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Usability Test on Product ] - 15 minutes
 
 - Step 1
 - Step 2
@@ -89,10 +90,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
 
 ### Things to watch for:
 
@@ -100,11 +97,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Post-Task Interview - X minutes
+## Interview - 30 minutes 
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- (If Veteran re-orders supplies from VA.gov) How did you find out about the supply reordering process? Can you tell us about the experience of your first reorder?
+- From your understanding, is it unique that VA provides reordering for free?
+- How do you know when you are eligible to reorder a supply? Are there reminders that are already happening?
+- If a supply isn't available and you are told to talk to your provider, then how would you do that?
+- In your experience/opinion, are we missing any devices?
 
 ## Consent to use video clips
 
