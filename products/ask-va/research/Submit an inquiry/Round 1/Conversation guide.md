@@ -528,6 +528,7 @@ We can use this strategies to prepare for difficult situations.
 I'm sorry you're [not feeling well]. Do you feel up for continuing? You'll be paid even if we stop early.
 
 > If they choose to continue
+
 Okay, just let me know if you change your mind.
 
 ### If the participant is showing signs of upset or distress
