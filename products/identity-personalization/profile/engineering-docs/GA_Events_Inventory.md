@@ -6,7 +6,8 @@
 - [Other Events](#other-events)
 - [My VA Events](#my-va-events)
 - [Profile Events](#profile-events)
-- [Platform shared code events](#platform-shared-code-events)
+- [View Dependents Events](#view-dependents-events)
+- [Platform shared code events](#platform-level-code-that-authenticated-experience-owns)
 - [Conclusion/Takeaways](#takeaways)
 
 ## Summary
