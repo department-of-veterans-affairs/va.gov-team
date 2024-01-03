@@ -21,6 +21,7 @@ Period - 01/03/2024 - 01/16/2024
            - [ ] Front-end - start build
            - [ ] Design
              - [ ] Accessibility updates for MVP
+             - [ ] New Toxic Exposure validation/error screen mocks
              - [ ] Complete document clean up
 - **Research**
   - Shadow Research
