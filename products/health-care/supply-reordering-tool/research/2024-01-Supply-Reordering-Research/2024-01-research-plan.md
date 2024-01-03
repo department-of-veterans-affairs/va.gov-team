@@ -1,4 +1,4 @@
-# Research Plan for [Supply Reordering, Health Portfolio, December 2023- January 2024]
+# Research Plan for Supply Reordering, Health Portfolio, January 2024]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -12,32 +12,30 @@ This works hits several different OCTO priorities, but particularly the priority
 maximize satisfaction, reliability, availability, & security and enhance the Veteran logged-in experience. Eventually, we will be integrating this function into the MHV on VA.gov health portal. 
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey]? This product would fall into  "Taking care of myself". Usually supplies are needed for chronic conditions, supply reordering is a repeated process through the Veteran's lifetime/as long as they have a certain diagnosis. 
+Where does your product fit into the Veteran journey? This product would fall into  "Taking care of myself". Usually supplies are needed for chronic conditions, supply reordering is a repeated process through the Veteran's lifetime/as long as they have a certain diagnosis. 
 
 ## Research Goals	
 What are you trying to learn from this research? 
 
-Goal 1: Have some foundational research to figure out how Veterans interact with the supply reordering tool 
+Goal 1: Understand how Veterans currently order and re-order supplies
+Goal 2: Get insight into usability/navigation concerns, (i.e - how are error states understood)
 
-Goal 2: What do Veterans know and need to reorder different supply types than we currently have in the tool (like TENS units, nebulizers, blood pressure monitors)
 ### Outcome
-We want to determine if the current process is serving the veterans needs and is as intuitive as possible for the future state of this product. How can the process/content we share improve?
+We want to determine if the current process is serving Veterans' needs and is as intuitive as possible for the future state of this product. How can the process improve?
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
-- What in the current ordering tool process is working and what is not?
-- How easy or difficult is it for Veteran to find where to reorder supplies?
-- What is a Veterans understanding of each supply type? And how do they currently go about getting more information on them?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- What is the end-to-end process for Veterans who want to order/re-order supplies? How can we incorporate that knowledge into our current system?
+- How do Veterans interact with the new form on VA.gov?
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
 The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. 
 
-Hypothesis 1: Veterans will identify a few pain points when using the current system. Also, some Veterans may have a hard time finding the tool without using search.
-
- Hypothesis 2: Veteran understanding of supply types is pretty good, and only some Veterans will want other supply types to be avaialble to order on VA.gov, and if they do, they will likely want it to be a part of MHV on VA.gov
+Hypothesis 1: Veterans will tell us about the clinician/VAMC interactions that are involved in being eligible to reorder/order supplies 
+Hypothesis 2: Veterans will identify a few pain points when using the new form. Also, some Veterans may have a hard time finding the tool without using search. 
 
 
 
@@ -45,13 +43,10 @@ Hypothesis 1: Veterans will identify a few pain points when using the current sy
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
 Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
+- Semi-structured interviews - The bulk of the study will be interview-style, the questions will allow us to have a better baseline understanding of how Veterans currently reorder supplies and also highlight anything in the process we are missing. 
+- Tree testing/card sorting - Medical supplies and prescription - understanding mental model of where these should be? Information architecture questions tree testing (10-10 has base VA.gov tree in a tree test). We will start on VA.gov and see where Veterans go. 
+- Usability testing - This will be on production to test some usability questions we have for the current form.
+  
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
 - Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
@@ -61,14 +56,7 @@ Additional resources:
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Will be remote on Zoom 
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -114,8 +102,9 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+- Have you been prescribed a medical device by a VA Medical Provider in the past 5-10 years?
+- LOA Level 3
+  
 
 > Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
@@ -136,24 +125,24 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: <1 hour 
+* Buffer time between sessions : 30 minutes 
+* Maximum Sessions per day: N/A
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. January 25th - February 2nd 
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Moderator: Kristen McConnell/Jasmine Yohannan 
+- Research guide writing and task development (usually but not always same as moderator): Kristen McConnell/Jasmine Yohannan 
+- Participant recruiting & screening: Perigean 
+- Project point of contact: Jasmine Yohannan/Patrick Bateman 	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
+- Note-takers:	N/A
+- Observers: N/A
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
 
