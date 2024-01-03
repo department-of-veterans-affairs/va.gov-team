@@ -168,7 +168,9 @@ Other:
   </tr>
 </table>
 
-Question 3: What task were you trying to do today? 
+### Tasks users were trying to accomplish
+Survey question 3: what task were you trying to do today? 
+
 * Schedule appointment
 * View/find appointment details
 * Message or contact a provider
