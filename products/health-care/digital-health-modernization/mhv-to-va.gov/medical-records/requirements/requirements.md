@@ -52,17 +52,33 @@ Medical records v1.0 consists of 6 data domains.
 </details>
 
 ### Allergies and reactions 
-
 <details>
 <summary>List view requirements</summary>
 
 ---
 #### IA
-URL: `/my-health/medical-records/allergies`
+URL: `/my-health/medical-records/allergies`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 
 #### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=GCFvPm&nav=eyJoIjoiMTc4NzA2MTAwOSJ9).
+
+* H1 for this page should be `Allergies and reactions`
+* Intro text at top of page that explains what you will find in this section of the medical record
+* Intro text that informs a patient what to do if their information is incorrect
+* Additional info that explains information about printing and downloading allergies information
+* For each allergy in list, include the following information
+  * Allergy or reaction name
+  * Date entered into the record
 
 #### Functionality
+* List should be paginated, with 10 allergies per page
+* For each allergy, a user should be able to click on the first line of the card (Allergy name) to view detailed information about that allergy
+* Ability to download a full list of allergies as a PDF
+ * PDF should include detailed information about each allergy
+* Ability to print all allergies
+ * Print out should include detailed information about each allergy
 ---
 </details>
 
@@ -96,6 +112,7 @@ URL: `/my-health/medical-records/allergies/allergy_id`
 | The H1 of the details view will be the allergy name. Directly underneath the H1 will be date entered information | | 
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
 | The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
+| We will not include a link to send a SM if allergies info is incorrect. Instead, we will just tell a patient to inform their provider at their next appointment. | Based on feedback from Dr. Josephs, updating allergies information can wait until a patient's next appointment. This is also thought to decrease unecessary SMs.|
 </details>
 
 * [Phase 0 launch Sketch file](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
