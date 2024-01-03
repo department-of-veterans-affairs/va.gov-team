@@ -192,6 +192,243 @@ Great. Let’s go ahead and choose `Getting care at a local VA medical center` a
 - Is there any confusion about the running summary?
 - If they can’t find an option, what would they do?
 
+## Chapter 2: Your question (8 minutes)
+
+> Screen: What’s your question about?
+
+Before we click on anything, I’ll remind you that you’re asking a question about a recent experience at a VA medical center.
+
+- Can you tell me what you would do first on this page?
+- Why did you choose `My own benefits` (or) `Someone else’s benefits` (or) `General question`?
+  - What do they think [option they didn’t choose] means?
+  - Can you imagine contacting VA about [option they didn’t choose]?
+- How much longer do you think this form is?
+
+Okay, we’ll go ahead and choose `My own benefits` and `Continue`.
+
+**Key things to notice:**
+- Do they notice that the chapter name changed and progress bar advanced?
+- Do they choose `My own benefits` without being prompted?
+
+> Screen: Tell us the reason you're contacting
+
+Before we click on anything…
+
+- Can you tell me what you would do on this page?
+- Why do you think the VA is asking you this?
+- (Is there anything else you’d like to share about this question?)
+
+Go ahead and click `Continue` and we’ll move on.
+
+**Key things to notice:**
+- Do the options confuse them, given the name of the service?
+- Is it clear why the VA would ask this question?
+
+> Screen: What’s your question? [Empty]
+
+- Okay, what is this asking you to do?
+- (What goes in this box?)
+- Do you have any hesitation about typing your question into this box?
+- Is there any other information that you expect to share with the VA?
+
+So, with this prototype, we can’t actually type anything into the box. Instead, we’re going to click `inside the box`, and we’ll pretend like you typed in your question.
+
+**Key things to notice:**
+- Do they have any hesitation about typing in their question?
+- Is there any surprise or frustration with how long it’s taken to get to this question?
+
+> Screen: What’s your question? [Pre-filled]
+
+Now, you can see that your question has been filled in. We’ll pretend like you typed that in yourself.
+
+- What do you expect to happen next, after you put in your question?
+
+Okay, let’s go ahead and click `Continue`.
+
+## Chapter 3: Personal information (12 minutes)
+
+> Screen: Your relationship to the Veteran
+
+So first off, why do you think VA is asking you this question?
+What would you choose?
+Is there anything else you notice on this page?
+
+Let’s choose `I’m the Veteran` and `Continue`.
+
+Key things to notice:
+Do they notice that the chapter name changed and progress bar advanced?
+Do they choose `I’m the Veteran` without being prompted?
+Is there any surprise or frustration that the question field (previous page) was not the end of the form?
+
+> Screen: Employee
+
+Why is VA asking you this question?
+Can you show me what you would do on this page?
+
+For today, let’s choose `No` and `Continue`.
+
+Key things to notice:
+Are they confused about the purpose of the question?
+Are they an employee?
+
+> Screen: Tell us about yourself [Empty]
+
+First, can you describe this page to me? What’s included?
+
+We’re not going to fill in your information. For today, we’re just going to go through this page, and I’d like you to tell me how you’d answer the question. You don’t actually need to tell me your personal information, I’m more focused on how you would put in your information.
+
+So, for example, I might say, “I’d start by typing my first name in this box.” And so on.
+
+What would do first?
+And in this next field?
+[Continue until bottom of the page - Gender]
+Is that all of the fields you need to fill in on this page?
+Why do you think VA needs this information?
+Is there any information on this page that you would not like to give the VA?
+Is there any other information that you expect to share with the VA?
+
+(If it’s not mentioned yet) I noticed that it asks for a social security number or service number.
+
+What does that mean?
+Does that mean you would share both your social security number and service number?
+Do you have a service number?
+
+Now, since you’re not able to fill in your information with this prototype, let’s click on the `First name` field and pretend like you filled it in.
+
+Key things to notice:
+Is it clear that you need to enter either a SSN or a SN, not both?
+Are they surprised that VA needs all of this information?
+Do they skip or not notice any fields on the page? For example, date of birth.
+Is it straightforward to answer each question? For example, you can check multiple pronouns.
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Tell us about yourself [Pre-filled]
+
+Great. So we’ll pretend like you filled in this page. And click `Continue`.
+
+> Screen: Medical facility [Empty search]
+
+Can you describe this page to me? What is this page asking you to do?
+Do you know why the VA is asking for your medical facility? Why?
+Can you tell me what you would do first to search for your medical facility?
+What does search by name mean?
+What does search by location mean?
+Would you choose to search by name or location? Why?
+If you wanted to search by location, what would you click?
+
+We’ll pretend like you live in [TBC city name] and you searched [TBC search term].
+
+Go ahead and click `Search`.
+
+Key things to notice:
+Do they notice that there’s two tabs without being prompted?
+Is the difference between search by name and location clear?
+Do they understand how to change tabs?
+Which option would they choose and why?
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Medical facility [Results]
+
+Okay, so we’re pretending that you searched [TBC search term] and next you see this list.
+
+What would you do next on this page? Can you show me?
+
+Let’s click [TBC facility name] and then click `Continue`.
+
+Key things to notice:
+Do they understand that they need to choose an option in the list and then click continue, without being prompted?
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Phone and email [Empty]
+
+Okay, now before we talk about this page I just want to check in.
+
+How much longer do you think this form will be?
+If you compare this form to a similar form you’ve filled out in the past, does it feel longer or shorter?
+Is there anything that’s surprised you about this form so far?
+
+Great. Let’s talk about this page.
+
+Can you describe how you’d fill in this page?
+Why is the VA asking for this information?
+
+Okay, well since we can’t type your information today, we’ll click the ‘Phone number’ box and pretend like we filled it in.
+
+Key things to notice:
+Are they surprised at the length of the form, or anything else?
+Have they noticed the progress bar yet?
+Is it clear why VA needs their phone number and email address?
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Phone and email [Pre-filled]
+
+Now you can click `Continue` and we’ll move on.
+
+> Screen: Contact preference
+
+Before we click anything…
+
+What is this page asking for?
+Which option would you normally choose?
+
+Today, we’re going to pretend like you prefer the VA to send you a response in the mail. 
+
+Can you show me what you would do?
+
+Great, let’s click `US mail` and `Continue`.
+
+Key things to notice:
+How do they normally prefer to be contacted?
+Does this make them wonder why they gave their email and phone number on the previous page?
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Country
+
+Before we click anything…
+
+Can you tell me what you would do on this page?
+What does this mean, where it says, “I receive mail outside of the United States on a U.S. military base.”?
+
+For today, let’s choose `United States` and `Continue`.
+
+Key things to notice:
+Do they live in the United States?
+Does the military base option cause any confusion?
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Address [Empty]
+
+I’ll give you a few moments to look through this page.
+
+Is there anything that stands out to you on this page? Anything unclear?
+Why is the VA asking for your address?
+
+Okay, we’ll pretend like you filled in this page. You can click `Street address`.
+
+Key things to notice:
+Is anything confusing about the address page?
+Do they remember that they chose to be contacted by US mail?
+Are they surprised or frustrated by the length of the form?
+
+> Screen: Address [Pre-filled]
+
+And now that your information is filled in, we’ll click `Continue`.
+
+> Screen: Address validation 
+
+What is this page asking you to do?
+(Do you notice anything else?)
+Why do you think you’re seeing this message?
+We won’t click anything yet, but can you describe what you would do on this page?
+Which address would you choose? Why?
+What do you expect to see on the next page?
+
+Let’s go ahead and click `Continue`.
+
+Key things to notice:
+Is the address validation surprising, confusing, unclear?
+Are they surprised or frustrated by the length of the form?
+
 
 
 ## Approved by:
