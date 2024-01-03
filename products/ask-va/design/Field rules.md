@@ -11,10 +11,10 @@ This document is for our design team to communicate field rules. The primary aud
 - [Date of birth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#date-of-birth)
 - [Branch of service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#branch-of-service)
 - [DoD/EDIPI number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#dodedipi-number)
-- [Tell us the reason you're contacting us]()
 - [School fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#school-fields)
 - [Medical facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#medical-facility)
 - [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#when-contact-options-are-enableddisabled)
+- [Tell us the reason you're contacting us]()
 
 ## `Gender identity`
 |If|Then|Unless|
@@ -62,10 +62,6 @@ This document is for our design team to communicate field rules. The primary aud
 ## `DoD/EDIPI number`
 * This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
 
-## Tell us the reason you're contacting us
-
-* This field is required. We're currently exploring whether we can recommend it for removal.
-
 ## School fields
 |If|Then|Unless|
 |:--|:--|:--|
@@ -84,3 +80,7 @@ This document is for our design team to communicate field rules. The primary aud
 
 ## When contact options are enabled/disabled
 * Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
+
+## Tell us the reason you're contacting us
+
+* This field is required. We're currently exploring whether we can recommend it for removal.
