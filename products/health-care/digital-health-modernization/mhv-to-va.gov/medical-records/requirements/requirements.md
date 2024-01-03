@@ -6,6 +6,7 @@
 |----------------| ---------------- | ----------------------|
 | 1/2/23       | Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
 |1/2/23        | Coulton Bunney   | Set up structure |
+|1/2/23        | Coulton Bunney   | Updated allergies and vaccines information |
 
 
 ## Table of Contents  
