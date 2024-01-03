@@ -14,7 +14,7 @@ This document is for our design team to communicate field rules. The primary aud
 - [School fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#school-fields)
 - [Medical facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#medical-facility)
 - [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#when-contact-options-are-enableddisabled)
-- [Tell us the reason you're contacting us]()
+- [Tell us the reason you're contacting us](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#tell-us-the-reason-youre-contacting-us)
 
 ## `Gender identity`
 |If|Then|Unless|
