@@ -1,9 +1,53 @@
 # SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
+<details>
+<summary>FUTURE SPRINT - 1/24 through 2/6</summary>
+______________________________________________________________________________________________________________________________________________________
+
+## 1/24/2023 - 2/6/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+ - **GOAL: Support Production**
+ - **GOAL: Address Usage Issues**
+     - **Sub Goal: Pre-Check-in: Handle All VA Appointment Modalities (i.e. CVT, VVC, phone, in-person)**
+     - **Sub Goal: eCheck-in: Handle All VA Appointment Modalities (i.e. CVT, VVC, phone, in-person)**     
+- **GOAL: Increase Usage of PCI**
+     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address Tech Debt**
+     - **Sub Goal: Migrate Sktech Files to Figma**
+     - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**       
+ 
+#### PLANNED RELEASES 
+- Change wording for wait time after checking in
+  
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
+ - **GOAL: Address Usage Issues**     
+     - **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
+         - ❗ TBD
+     - **Sub Goal: [eCheck-in: Handle 2 Modalities (in-person, CVT)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72238)**
+         - ❗ TBD
+- **GOAL: Increase Usage of PCI**
+    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+       - 🟦 TBD
+  - **Sub Goal: Analyze current metrics to see what they tell us**               
+       - 🟥 [Research] Analyze GA Metrics
+       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72314)
+- **GOAL: Address Tech Debt**            
+     - 🟩 [Add an allDemographicsCurrentUUID Mock UUID for check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72829)
+     - **Sub Goal: Migrate Sktech Files to Figma**
+        - TBD
+    - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
+       - TBD
+
+------- END FUTURE / TENTATIVE ------
+</details>
 
 <details>
-<summary>FUTURE SPRINT - 1/10 through 1/12</summary>
+<summary>FUTURE SPRINT - 1/10 through 1/23</summary>
 ______________________________________________________________________________________________________________________________________________________
 
 ## 1/10/2023 - 1/23/2024  ------- FUTURE FUTURE / TENTATIVE ------
