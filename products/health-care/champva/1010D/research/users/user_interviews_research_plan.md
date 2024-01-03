@@ -50,7 +50,7 @@ After completion of the interviews, a qualitative thematic analysis of the data 
 
 ### Research materials
 
-- [Link to conversation guide](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/conversation_guide_user_interviews.md)
 	
 ## Participants and Recruitment	
 
