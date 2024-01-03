@@ -247,20 +247,16 @@ Survey question 3: what task were you trying to do today?
 * **No updates for claims** or process seemed opaque / users want more transparency around status
 
 ### Fixable(?) problems
-Likely about MHV National Portal: 
-* 6 users were caught in a loop of trying to register for MHV, or trying to upgrade to a Premium account
 * 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
 * 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
-* 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
-
-Likely about MHV on VA.gov: 
-* 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
-* 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments.
+* **TICKET CREATED 1/24**: 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
+* **FIX IN PROGRESS 12/23**: 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
 
 ## Possible future enhancements? 
 * 1 user expected to be able to update/change their address online
 * 1 user expected the ability to add a second address to their profile (need different billing and shipping addresses)
 * 1 user was unable to verify private insurance online
+* 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments.
 
 ## Joys users expressed
 * Learned new things 
