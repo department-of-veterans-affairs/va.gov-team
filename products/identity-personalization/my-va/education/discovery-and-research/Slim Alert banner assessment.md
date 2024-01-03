@@ -26,7 +26,7 @@ This is being rolled out to Production either this sprint (ending 1/2/24) or nex
 
 The content of the Slim Alert was crafted by Skyler with advising from Laura Willwerth of CAIA. 
 
-##How is that information determined?
+## How is that information determined?
 Any evidence request prompts this same notification with all its contents (there is clear room for opportunity for CST to improve messaging that is more informative and direct).
 
 
