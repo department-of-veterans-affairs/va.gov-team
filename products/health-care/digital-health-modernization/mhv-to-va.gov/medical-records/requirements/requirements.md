@@ -86,13 +86,30 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 <summary>Details view requirements</summary>
  
 ---
+ 
 #### IA
-URL: `/my-health/medical-records/allergies/allergy_id`
+URL: `/my-health/medical-records/allergies/allergy_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to allergies`
 
 #### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=1oQALv&nav=eyJoIjoiMjY5MDA1OTg2In0%3D).
+
+* H1 for this page should be name of the allergy or reaction
+* For each allergy, include the following information
+  * Allergy or reaction name
+  * Date entered into the record
+  * Signs and symptoms (previously called Reaction)
+  * Type of allergy
+  * Location that the allergy was entered into the record
+  * Whether the allergy is observed or historical
+  * Notes entered by the provider
 
 #### Functionality
----
+* Ability to download details of current allergy as a PDF
+* Ability to print the currently in view details of allergy
+ 
+ ---
 </details>
 
 <details>
