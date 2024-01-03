@@ -151,16 +151,16 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **TBD** 12 - 5 pm ET
-- **TBD** 12 - 5 pm ET
+- **Jan 17** 12 - 5 pm ET
+- **Jan 18** 12 - 5 pm ET
 
 Please invite Cindy (cindy.merrill@adhocteam.us) and Amanda (amanda.klausmeier@va.gov) to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 We will schedule 1-2 **pilot tests**:
-- Pilot 1: **TBD at TIME TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **TBD at TIME TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 1: **Jan 23 at TIME TBD ET** with TBD (tbd@adhocteam.us)
+- Pilot 2: **Jan 25 at TIME TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
 Planned dates of research: **Jan 29 - Feb 6, 2024**
@@ -176,7 +176,14 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-TBD, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Jan 29, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Jan 30, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Jan 31, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Feb 1, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Feb 2, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Feb 5, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+Feb 6, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
+
 
 
 ## Team Roles	
