@@ -4,7 +4,6 @@
 ## Background
 Briefly describe the background of your product. Consider:
 - The Supply Reordering tool seeks to relieve the burden from the Veteran of going to DLC for reordering devices and filling out a form via mail, or calling to reorder their devices by going to VA.gov instead. DLC also has seen a drastic reduction in the use of their contact centers for supply reorders, which allows them to use their time towards other goals. You need to sign into VA.gov (authenticated) to place a re-order. The tool is currently an iteration of what was once a tool only for hearing aids and batteries reorders, we have now added CPAP supplies.
-[Link to product brief](url goes here).
 
 ### OCTO Priorities 
 
@@ -68,16 +67,14 @@ For moderated interviews:
 
 For moderated usability tests: 
 - [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Production link](https://www.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form/introduction)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
+For [unmoderated testing:](will be done on optimal workshop) 
 - [Link to email with instructions](url goes here)
 - [Link to prototype or OptimalSort session for group A](url goes here)
 - [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
+
 ## Recruitment	
 
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
@@ -122,17 +119,26 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: January 25th, 2024 - February 2nd, 2024 
 
 ### Length of sessions
 * Session length: <1 hour 
 * Buffer time between sessions : 30 minutes 
-* Maximum Sessions per day: N/A
+* Maximum Sessions per day: 4
+
+
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. January 25th - February 2nd 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+January 25th - February 2nd 
+| Day | Date | Times (Eastern time zone) |
+| --- | --- | --- |
+| Thursday | January 25th | 8:00am – 4:00pm, 5:00pm – 8:00pm |
+| Friday | January 26th | 8:00am – 8:00pm,|
+| Monday | January 29th | 8:00am – 11:00am, 3:00pm – 8:00pm |
+| Tuesday | January 30th | 8:00am – 11:00am, 3:00pm – 8:00pm |
+| Wednesday | January 31st | 8:00am – 3:30pm, 6:00pm – 8:00pm |
+| Thursday | February 1st | 8:00am – 3pm, 6:00pm – 8:00pm |
+| Friday | February 2nd | 8:00am – 8:00pm |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
