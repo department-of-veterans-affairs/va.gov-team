@@ -71,7 +71,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. Have you used MyHealthEVet before?
    
 
-## First Task: [Tree Test/Mental Model] - 15 minutes
+## First Task: [Tree Test/Mental Model] - 10 minutes
 
 - Step 1
 - Step 2
@@ -101,7 +101,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Interview - 30 minutes 
+## Interview - 20 minutes 
 
 - (If Veteran re-orders supplies from VA.gov) How did you find out about the supply reordering process? Can you tell us about the experience of your first reorder?
 - From your understanding, is it unique that VA provides reordering for free?
@@ -115,7 +115,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
