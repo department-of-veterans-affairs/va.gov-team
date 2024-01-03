@@ -79,7 +79,7 @@ There will be 2 phases of research:
 
 - **Phase 2: Assistive technology users** 
   - Both desktop and mobile users 
-  - 1 coded prototype that's accessible and responsive (CodePen likely) 
+  - 1 coded prototype that's accessible and responsive (CodePen) 
   - 90-minute sessions 
   - [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer/research/phase2-AT)
 
@@ -93,12 +93,12 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
-  -  Perigean to recruit **14 Veterans, caregivers, and family member**s of Veterans who meet the below criteria in order to get a minimum of 8 completed sessions. Criteria are also in this [recruitment intake ticket TBD]().
+  -  Perigean to recruit **14 Veterans, caregivers, or family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
  
 
 ### Required criteria (in decreasing order of priority)
   - *Primary criteria:*
-    - **ALL** must use a screen reader or screen magnifier every time they access the Internet 
+    - **ALL** must use a screen reader or screen magnifier **every time** they access the Internet 
     - **At least 3** have a smartphone or tablet and are willing to use it for the session and... 
       - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
       - Are willing to share over Zoom a web browser window on their mobile device 
@@ -116,16 +116,16 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 
 ### Screening Questions
 
-1. Do you use screen reader or screen magnifier technology **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
-    1. No *(disqualify)*
+1. Do you use a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+    1. No *(DISQUALIFY)*
     2. Yes *(ask next question)*
 
-1. Are you willing to join the Zoom session using this assistive technology? 
-    1. No *(disqualify)* 
+1. Are you willing to join the Zoom session using your screen reader or screen magnifier? 
+    1. No *(DISQUALIFY)* 
     1. Yes *(ask next question)*  
 
-1. How long have you been using this screen reader or screen magnifier technology? 
-    1. Less than 2 years *(disqualify)* 
+1. How long have you been using this screen reader or screen magnifier? 
+    1. Less than 2 years *(DISQUALIFY)* 
     1. 2-5 years *(ask next question)*
     1. More than 5 years *(ask next question)* 
 
@@ -136,13 +136,13 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
     1. Computer 
     1. Tablet 
 
-1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. 
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
      1. No
-     2. Yes *(RECRUIT and RECORD as having a cognitive disability)*
+     2. Yes *(RECRUIT 2 and RECORD as having a cognitive disability)*
 
 1. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve. 
      1. No  
-     1. Yes *(RECRUIT 2)*
+     1. Yes *(RECRUIT 2 and RECORD as LGBTQ+)*
 
 
 ## Timeline--TBD
@@ -163,7 +163,7 @@ We will schedule 1-2 **pilot tests**:
 - Pilot 2: **TBD at TIME TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
-* Planned dates of research: TBD, 2024**
+Planned dates of research: **Jan 29 - Feb 6, 2024**
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -176,7 +176,7 @@ We would like to request that **Perigean calls each participant** to remind them
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-TBD, 2024 | 12-1:30, 2:30-4, TBD pm
+TBD, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
 
 
 ## Team Roles	
@@ -188,7 +188,7 @@ Please list the people who will be serving in each role.
 - Participant(s) for pilot test: TBD
 - Accessibility specialist: TBD 	
 - **Note-takers: Perigean (in github)**
-- Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
+- Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, Laura Flannery, OFCIO, USWDS.) 
 
 ## Approvals
 - Dave Conlon (PO) on Nov 7, 2023
