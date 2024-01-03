@@ -1,6 +1,7 @@
 
 # Slim Alert Component Assessment
-<i>This assessment was made during Sprint 26 of 2023 (ending on 1/2/24)</i>
+<i>This assessment was made during Sprint 26 of 2023 (ending on 1/2/24)</i><br>
+**As of 1/3/24, the slim alert can be seen in action in staging for user vets.gov.user+23@gmail.com**
 
 This documentation is part of issue <a href = "https://github.com/department-of-veterans-affairs/va.gov-team/issues/71290">#71290</a><br>
 (Also for refernece, <a href = "https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/1975">The CST issue for the creation of the Slim Alert<a/> )
@@ -19,7 +20,7 @@ As of right now, there is only a general, catch-all message that appears on all 
 
 According to Skyler Schein, there has been no formal discussion on his end about other types of scenarios or use cases for the Slim Alert banner for CST or other aspects of VA.gov.   
 
-This is being rolled out to Production either this sprint (ending 1/2/24) or next. 
+This has had a 25% rollout out to Production as of 1/3/24.
 
 ## What type of information is being communicated via the alert?
 “An item in this claim needs your attention” is all that the Slim Alert states, along with the alert icon. There are no button or link CTAs that appear in the Slim Alert banner.
