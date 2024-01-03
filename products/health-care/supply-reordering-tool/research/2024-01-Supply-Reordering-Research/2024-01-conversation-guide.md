@@ -71,17 +71,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. Have you used MyHealthEVet before?
    
 
-## First Task: [Tree Test/Mental Model] - 10 minutes
+## Task 0 Tree Test/Mental Model - 10 minutes
 
-- Step 1
+- Step 1 : I am going to share a link with you. The purpose of this exercise is to figure out where you might go to find out more about Supply Reordering, or even place your order.
 - Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
 
 ## Second Task: [Usability Test on Product ] - 15 minutes
 
