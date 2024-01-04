@@ -144,10 +144,10 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase 
 #### Planning  
-- Date Started:
-- ZH Tracking:
-- Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 0.5%
+- Date Started: 1/4/2024
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/70826
+- Length of time: 3 days
+- Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
 - Anomalies
 - Rollbacks:
