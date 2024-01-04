@@ -210,6 +210,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 |Cards in the list view will include status and a brief plain langauge explainer of that status where needed.| Including statues on the cards allows for sorting alphabetically by status and in the future can be used for easier understanding of filters. However, research showed that statuses were difficult for users to define and so we also included a plain language description to make sure users took the right actions in response. Statuses cannot be easily updated due to PBM Directive 1164.|
 |The about medications page will stay around post-phase 0. It will be housed as a child of medications IA-wise.|It includes important information about what is and is not included in the medications tool, which is information that is required to be included within the tool to comply with VA directive 1164.|
 |Users must call the automated pharmacy renewal phone number or send a SM to renew an Rx.|Building a push-button renewal functionality would take a lot of work and time, and is not a must have. Relying on phone or SM is at parity with the current tool.|
+|All medications, historical, documented, and active will be provided to users in a single list. |  |
 
 </details>
 
