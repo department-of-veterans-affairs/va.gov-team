@@ -3,11 +3,7 @@
 
 | Idea / Open Item | Comments | Owner | Ticket | 
 | ---- | ------ | ------ | ----- | 
-|  Require unit tests to be completed before feature goes into production |  I have gotten positive backing from Binny, Kelly and Stacy. Requesting approval during PM sync 1/3/2024 |  Adam | [7536](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7536) |
-|  Require detox UI updates to be part of new changes before going to production - reduce QA backlog work and improve testing quality / timing | I have gotten positive backing from Binny, Kelly and Stacy. Requesting approval during PM sync 1/3/2024 |  Adam | [7537](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7537) | 
-|  Have engineering do some preliminary demo mode test before QA | seen demo mode broken or changes not there in QA that could have been caught earlier if engineering did it which delays the entire ticket. Requesting approval during PM sync 1/3/2024 | Adam | [7538](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7538) |
-|  Have Demo mode be updated with any changes | this impacts detox testing and manual testing. Requesting approval during PM sync 1/3/2024  | Adam | [7539](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7539)  | 
-|  Consider having Mobile teams update detox testing vs having QA do it | Some FE do it today, may be more of a strategy discussion on if Mobile wants this and if not what that means.  | | [7540](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7540)   | 
+|  Consider having Mobile teams update detox testing vs having QA do it | Some FE do it today, may be more of a strategy discussion on if Mobile wants this and if not what that means.  | Tim confirmed on 1/4 that he would like engineering to do this eventually | [7540](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7540)   | 
 |  Create a PR turn around policy for QA review | Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days? |  Adam |  [7541](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7541) |
 |  Review what meetings are critical and needed for QA to attend vs optional | Will require teams to review their calendars to list all their meetings and review | Team |  [7542](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7542) |
 |  Explore the possibility of keeping the last 2 days of the sprint open from QA to focus on just testing   | Is this something that would be valuable| Team | [7543](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7543) | 
@@ -28,6 +24,7 @@
 | QA requirements / checklist that people need to follow before work gets to QA | Provide clear exact direction as to what QA needs to happen before it gets to the test, note this list may be what QA wants but isn't what is delivered today and that is fine | | |  
 | Update Slack Profile to reflect new team focus | This will also help when Mobile starts bringing in external teams to work as it will be easier for them to track the right person done | | | 
 | PM strategy to get involved with testing in order to jump in if needed | | | 
+| PR Strategy to support e2e testing (detox UI) for existing and new features | Brought up by Tim on 1/4 as currently it would require XL branches for modifications and also impact approval process |  
 
 
 | Closed items | Resolution | Date |
@@ -36,3 +33,9 @@
 | Teams assigned a QA Agent | Therese - Global; Tom - Health and Benefits; Rachael - API / Design System / Floater | Nov 2023 |
 | Release RC Tester Agent for rest of the quarter | Tom | Nov 2023 
 | Team ticket label | QA and Release | Nov 2023 | 
+| Require unit tests to be completed before feature goes into production - ticket [7536](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7536) | New MVP requirement ; Tim confirmed unit tests should already be required today |  1/4/2024 PM Sync |
+|  Require detox UI (e2e test) updates to be part of new changes before going to production - ticket [7537](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7537)  | PM approval ; Tim has concerns with handling existing feature e2e tests with existing PR strategy but is okay with new features  |  1/4/2024 PM Sync |  
+|  Have Demo mode be updated with any changes this impacts detox testing and manual testing. Ticket [7539](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7539).| Team PMs to add this to their MVP requirements for any future production changes | PM approval 1/4/24 PM Sync| 
+|  Have engineering do some preliminary demo mode test before. Check to see if demo mode broken or changes not there in QA that could have been caught earlier if engineering did it which delays the entire ticket. Ticket [7538](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7538) | Team PMs to add this to their MVP requirements for any future production changes | PM approval 1/4/2024 PM Sync | 
+
+
