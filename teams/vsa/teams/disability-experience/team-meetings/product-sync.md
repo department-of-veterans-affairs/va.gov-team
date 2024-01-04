@@ -1,5 +1,16 @@
 # Benefits Disability Experience - Product sync 
 
+
+### Date: Jan 4' 2024       
+### Participants: Rakshinda, Austin, Emily, Shannon, Steve 
+### Topics Covered:
+- Toxic Exposure - Polling
+   - Is there an option of asking Lighthouse to change the polling implementation?
+   - Concerns around scalability and questions around "how many times/how often/when do we stop/what then?"
+   - Team 1 is currently in discovery mode for polling solution for 526 submission
+   - Team 1 and 2 to look at all the use cases to see if different components need to be built for back-up submission (batch) or document upload ( different service)
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access? 
 ### Date: Dec 21' 2023       
 ### Participants: Rakshinda, Austin, Emily, Shannon 
 ### Topics Covered:
