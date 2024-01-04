@@ -23,7 +23,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## **Research Goals**
 
-- Ascertain Veterans' understanding of the need for the sync and how the process will affect their contact information?
+- Ascertain Veterans' understanding of the need for the sync and how the process will affect their contact information.
 - Identify any usability issues Veterans may experience with syncing their email and phone numbers.
 
 ## **Outcome**
