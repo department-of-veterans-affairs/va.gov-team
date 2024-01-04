@@ -1,16 +1,14 @@
-`[WIP] Landing Page`
-# Accessibility Landing Page
+# [WIP] Accessibility Landing Page
 
-<details><summary>Toggle to view details about this Work in Progress Landing Page</summary>
-  <br>
 The goal of this page is to provide a well-organized clearinghouse of information about VA's accessibility practices. Our mission - to point VFS teams to the information, tools, and people they need to make VA.gov accessible, beyond compliance.
 
-## About this page
 The structure and content of this page is based on:
 - [CAIA's documentation content inventory](https://docs.google.com/spreadsheets/d/1YsMFmvgD4hEc93KTaTPJwvR5heHsCNgC3cwj53Eu3Ys/edit#gid=737007164)  
 - [CAIA's modeling exercise](https://airtable.com/app0xn5tf3PzkmRgN/tblRWeBHtjv1iaJbf/viwXbamm2X62BkHL5?blocks=hide)
 
-</details>
+Page draft starts below:
+
+*****
 
 # Accessibility on VA.gov
 VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
