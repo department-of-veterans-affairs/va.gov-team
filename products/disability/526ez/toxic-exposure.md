@@ -14,7 +14,7 @@ Disability compensation, disability benefits, toxic exposure, PACT Act, 526 ez
 
 1. Design: [@Kate-allbee](https://github.com/Kate-allbee),  [@mengA6](https://github.com/mengA6)
 2. Front end engineering: [@christinec-fftc](https://github.com/christinec-fftc) 
-3. Research: [@evelynhilbrichdavis](https://github.com/evelynhilbrichdavis)
+3. Research: Lydia Hooper, Shannon Ford, [@evelynhilbrichdavis](https://github.com/evelynhilbrichdavis)
 4. Product: [@RakshindaAslam](https://github.com/RakshindaAslam) 
 
 ## Current design
