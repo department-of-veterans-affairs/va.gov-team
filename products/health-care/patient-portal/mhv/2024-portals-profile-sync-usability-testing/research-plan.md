@@ -43,7 +43,6 @@ _Hypothesis 1:_ Most Veterans will successfully connect their MHV and VA contact
 
 _Hypothesis 2:_ Many Veterans will struggle to understand that they will only have one set of contact information after the sync.
 
-_Hypothesis 3:_ Most Veterans will understand that syncing their contacts will not affect their benefits.
 
 ## **Methodology**
 
