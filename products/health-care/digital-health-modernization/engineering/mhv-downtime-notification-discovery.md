@@ -70,6 +70,18 @@ The Design system documents a `MaintenanceBanner` component that looks similar t
 
 VAOS, aka Appointments, customizes what the `DowntimeNotification` renders. In [numerous places](https://github.com/search?q=repo%3Adepartment-of-veterans-affairs%2Fvets-website+DowntimeNotification+path%3A%2F%5Esrc%5C%2Fapplications%5C%2Fvaos%5C%2F%2F&type=code) the VAOS app imports the platform component and uses the component's `render` prop to render a [custom DowntimeMessage component](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/components/VAOSApp/DowntimeMessage.jsx).
 
+#### `DowntimeMessage` example
+
+ The following is a screenshot of the `DowntimeMessage` component that would appear due to a PagerDuty maintenance window: 
+ 
+![VA Appointments showing DowntimeMessage](https://github.com/department-of-veterans-affairs/va.gov-team/assets/279327/ac0d5e49-9b30-4e5d-a2ef-551662447aeb)
+
+#### `AppUnavailable` example
+
+The following shows an alert that the Appointments app displays based on the value of a feature toggle:
+
+![VA Appointments showing AppUnavailable](https://github.com/department-of-veterans-affairs/va.gov-team/assets/279327/bf5b2bd1-8ac8-42a7-9d86-f8a41dc16f53)
+
 
 ## Related links
 
