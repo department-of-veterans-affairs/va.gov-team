@@ -17,13 +17,11 @@
 | Improve QA sizing | Past convos forced QA to put sizing in the comments. Revisit to see if this is still sufficient | 
 | Should QA have a standing meeting with different disciplines | Ability to improve relationships and discuss cross discipline improvements / ideas | | 
 | Determine a process /strategy to handle App store required updates (submit [new policy declaration](https://adhoc.slack.com/archives/C0212B872MT/p1701981196387319) for the app and other updates needed to continue using the app store | Tim Wright its a one-off thing they did however heard from others that this is normal. Need to identify what updates Mobile has to make in order to use the App store and a process around it | | 
-| Should Mobile have a code freeze that aligns with VA | 2024 Code Freeze 12/22 - 1/2/24 ; however mobile is releasing on 1/2 | 
+| Should Mobile have a code freeze that aligns with VA | 2024 Code Freeze 12/22 - 1/2/24 ; however mobile is releasing on 1/2 | | [7629](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7629)
 | Identify processes in which there is a lot of risk, especially instances were there is only 1 person reponsible or has access that could lead to a fatal error | Came from Therese's comment during 12/13 PO OKR meeting | | 
-| Should Mobile Release have its own freeze during Christmas time | Given holidays we have fewer people to handle testing, bug fixes, and also signoffs in a timely / efficient manner | Adam |
 | QA requirements / checklist that people need to follow before work gets to QA | Provide clear exact direction as to what QA needs to happen before it gets to the test, note this list may be what QA wants but isn't what is delivered today and that is fine | | |  
-| Update Slack Profile to reflect new team focus | This will also help when Mobile starts bringing in external teams to work as it will be easier for them to track the right person done | | | 
-| PM strategy to get involved with testing in order to jump in if needed | | | 
-| PR Strategy to support e2e testing (detox UI) for existing and new features | Brought up by Tim on 1/4 as currently it would require XL branches for modifications and also impact approval process |  
+| Process / strategy to get PM involved with testing in order to jump in if needed | Expecting this will need to wait till Adam is back from Paternity leave | | [7630](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7630) | 
+| PR Strategy to support e2e testing (detox UI) for existing and new features | Brought up by Tim on 1/4 as currently it would require XL branches for modifications and also impact approval process. Meeting 1/12  |  
 
 
 | Closed items | Resolution | Date |
