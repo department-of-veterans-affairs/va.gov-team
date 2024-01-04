@@ -28,8 +28,8 @@ For more monthly/quarterly data in 2024, please see
 **2023**
 | 	Metric	| 	Q1 2023	| 	Q2 2023	| 	Q3 2023 | Q4 2023
 | --- | ---| ---|  --- | ---
-| 	Unique users	| 	3,609,013	| 	3,616,872	| 	3,546,054 | |
-| 	Total interactions	| 	5,151,114	| 	4,940,032	| 	5,015,803||
+| 	Unique users	| 	3,609,013	| 	3,616,872	| 	3,546,054 |13,743,703 |
+| 	Total interactions	| 	5,151,114	| 	4,940,032	| 	5,015,803| 20,726,570|
 
 **2024**
 | 	Metric	| 	Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
@@ -39,20 +39,20 @@ For more monthly/quarterly data in 2024, please see
 
 **Annual metrics**
 | Metric | 2020 | 2021 | 2022 | 2023 | 2024
-| ---| --- | ---| ---| ---| 
+| ---| --- | ---| ---| ---| ---|
 | New users| 68% | 71%| 73% | 72% | |
 | Returning users | 32% |29% |27% | 28% ||
 | User interaction rate | 38% |38%  |41% | 41% ||
-| Total interaction clicks | 133,694 |3,528,200 | 16,264,909|  ||
-| Average clicks per user | 1.2 |1.25 |1.35 | ||
-| Average scroll depth | 61.6% |61.0% | 59% | 50% ||
+| Total interaction clicks | 133,694 |3,528,200 | 16,264,909| 17,068,997 ||
+| Average clicks per user | 1.2 |1.25 |1.35 |1.24 ||
+| Average scroll depth | 61.6% |61.0% | 59% | 53.5%||
 | Desktop |61.8% |45.4% |43.2%| 43.3% ||
 | Mobile |34.0% |52.0% | 54.7%| 55.1%||
 
 ### Top 5 button interactions 
 (based on clicks)
 | Button|  2020 | 2021 | 2022 | 2023 |2024
-| ---| --- | ---| ---| ---|
+| ---| --- | ---| ---| ---|---|
 | View all health services | 4,775 | 177,555 | 621,929 | 437,140 | |
 | Make an appointment | 4,341| 249,899 | 940,598 | 733,809 | |
 | See all locations | 1,565| 112,171|  376,900|328,893 | |
@@ -65,7 +65,7 @@ For more monthly/quarterly data in 2024, please see
 Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/page/426422632)
 
 |Service | 2021 | 2022 | 2023 | 2024
-| ---| --- | ---| ---| 
+| ---| --- | ---| ---| ---|
 | Primary care| 8,766 | 75,813|29,781 | |
 | Mental health care| 5,894 | 45,566| 14,505||
 | COVID-19 vaccines| 4,265 | 10,282| 2,279| |
