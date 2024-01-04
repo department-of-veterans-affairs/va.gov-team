@@ -1,6 +1,6 @@
 # Disability Benefits Experience Teams 1 & 2
 
-Last Updated - 08/17/2023
+Last Updated - 01/04/2024
 
 ## Where to find us
 - GitHub Label: disability-experience
