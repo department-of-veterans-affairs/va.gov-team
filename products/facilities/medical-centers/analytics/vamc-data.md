@@ -1,5 +1,6 @@
 ## VAMC page data
 Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632) (all urls)
+For more monthly/quarterly data in 2024, please see 
 
 - [Users and interactions](#users-and-interactions)
 - [Top 5 button interactions](#top-5-button-interactions)
@@ -30,41 +31,47 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632) (all urls)
 | 	Unique users	| 	3,609,013	| 	3,616,872	| 	3,546,054 | |
 | 	Total interactions	| 	5,151,114	| 	4,940,032	| 	5,015,803||
 
+**2024**
+| 	Metric	| 	Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
+| --- | ---| ---|  --- | ---
+| 	Unique users	| | | 
+| 	Total interactions	| | | |	
+
 **Annual metrics**
-| Metric | 2020 | 2021 | 2022 | 2023 |
+| Metric | 2020 | 2021 | 2022 | 2023 | 2024
 | ---| --- | ---| ---| ---| 
-| New users| 68% | 71%| 73% | | 
-| Returning users | 32% |29% |27% | |
-| User interaction rate | 38% |38%  |41% | |
-| Total interaction clicks | 133,694 |3,528,200 | 16,264,909| |
-| Average clicks per user | 1.2 |1.25 |1.35 | |
-| Average scroll depth | 61.6% |61.0% | 59% | |
-| Desktop |61.8% |45.4% |43.2%| |
-| Mobile |34.0% |52.0% | 54.7%| |
+| New users| 68% | 71%| 73% | 72% | |
+| Returning users | 32% |29% |27% | 28% ||
+| User interaction rate | 38% |38%  |41% | 41% ||
+| Total interaction clicks | 133,694 |3,528,200 | 16,264,909|  ||
+| Average clicks per user | 1.2 |1.25 |1.35 | ||
+| Average scroll depth | 61.6% |61.0% | 59% | 50% ||
+| Desktop |61.8% |45.4% |43.2%| 43.3% ||
+| Mobile |34.0% |52.0% | 54.7%| 55.1%||
 
 ### Top 5 button interactions 
 (based on clicks)
-| Button|  2020 | 2021 | 2022 | 2023 |
+| Button|  2020 | 2021 | 2022 | 2023 |2024
 | ---| --- | ---| ---| ---|
-| View all health services | 4,775 | 177,555 | 621,929 | | 
-| Make an appointment | 4,341| 249,899 | 940,598 | | 
-| See all locations | 1,565| 112,171|  376,900| | 
-| Register for care | 1,393| 53,741| 315,337 | | 
-| Pharmacy |948 | 18,713 | 122,215 | |
+| View all health services | 4,775 | 177,555 | 621,929 | 437,140 | |
+| Make an appointment | 4,341| 249,899 | 940,598 | 733,809 | |
+| See all locations | 1,565| 112,171|  376,900|328,893 | |
+| Register for care | 1,393| 53,741| 315,337 | 284,956 | |
+| Pharmacy |948 | 18,713 | 122,215 | 112,534 ||
 
 ### Top 5 facility services 
 (based on click interactions on accordions)
 
 Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/page/426422632)
 
-|Service | 2021 | 2022 | 2023 |
+|Service | 2021 | 2022 | 2023 | 2024
 | ---| --- | ---| ---| 
-| Primary care| 8,766 | 75,813| | 
-| Mental health care| 5,894 | 45,566| |
-| COVID-19 vaccines| 4,265 | 10,282| | 
-| Laboratory and pathology| 3,135 | 23,781| |
-| Audiology and speech | 2,796 | 22,697 ||
-| Pharmacy |2,796 | 19,036 | | 
+| Primary care| 8,766 | 75,813|29,781 | |
+| Mental health care| 5,894 | 45,566| 14,505||
+| COVID-19 vaccines| 4,265 | 10,282| 2,279| |
+| Laboratory and pathology| 3,135 | 23,781|8,135 ||
+| Audiology and speech | 2,796 | 22,697 | 11,443||
+| Pharmacy |2,796 | 19,036 | 5,952 | |
 
 
 
