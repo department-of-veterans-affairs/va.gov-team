@@ -55,8 +55,7 @@ Data collection will be remote. We will use Zoom.
 
 ## **Research materials**
 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/mhv/2024-portals-profile-sync-usability-testing)
-
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2024-portals-profile-sync-usability-testing/conversation-guide.md)
 - [Link to desktop prototype](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/mhv/2024-portals-profile-sync-usability-testing)
 
 - [Link to mobile prototype]
