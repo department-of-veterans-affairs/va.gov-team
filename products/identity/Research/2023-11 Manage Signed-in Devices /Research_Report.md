@@ -1,5 +1,13 @@
-Office of the CTO - Digital Experience (OCTO-DE), Sign in, Core/Surge Identity Team
+# 2023-12 Manage Devices Research Findings
 
+**Office of the CTO - Digital Experience (OCTO-DE), Manage Signed-in Devices, Core Identity team**
+
+- [Research readout]()
+- Researchers
+  - Charlye Tran | charlye@bluetiger.digital
+  - Clayton Zook | clayton.zook@oddball.io
+ 
+    
 ### Research Goals:
 
 -   Explore Veterans' knowledge of personal device management as well as management of concurrent sessions on multiple devices.
@@ -8,8 +16,6 @@ Office of the CTO - Digital Experience (OCTO-DE), Sign in, Core/Surge Identity T
     
 -   Test the user flow for how a Veteran would access device management and signing out of multiple devices at once.
     
-
-  
 
 ### Research Questions:
 
@@ -22,9 +28,7 @@ Office of the CTO - Digital Experience (OCTO-DE), Sign in, Core/Surge Identity T
 -   Is there any confusion regarding connected applications and device management?
     
 
-  
-
-### Hypotheses:
+### Hypotheses and Conclusions:
 
 -   Veterans will be split on their understanding of a rationale for signing out of all devices.
     
