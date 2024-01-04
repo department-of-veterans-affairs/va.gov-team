@@ -48,25 +48,24 @@ These errors will be shown even if the editor's original intention was not to ed
 * Team of Team (ToT)
    * Type: slide for ToT
   * Assignee: Marcia and Berni
-  * Date: January 02, 2024
+  * Date: January 09, 2024
 ### External Communication of new feature
 * VHA-DM Office Hours
-   * Type: demo
+   * Type: async
   * Assignee: Marcia or Berni
-  * TBD - Confirm omit demo with Erika
 ### Documentation
-* KB article (if applicable): https://prod.cms.va.gov/help/cms-basics/alternative-text
+* KB article: https://prod.cms.va.gov/help/cms-basics/alternative-text
 
 ## Engineer tasks
 - [ ] Prepare branch for merge
 ## Blockers
 * None
 ## Pre-launch
-* Testing: Complete, Dec, 2023
+* Testing: Completed December 2023
 
-* Code merge freeze: not needed
+* Code merge freeze: Not needed
 
-* PR Reviews: Complete Dec 2023
+* PR Reviews: Completed December 2023
 
 ## Day of Launch
 - [ ] Merge PR into main
@@ -76,6 +75,5 @@ These errors will be shown even if the editor's original intention was not to ed
 - [ ] CMS Help Desk monitor issues post launch and escalate any critical bugs to team
 ### CMS Help Desk
 Editors should report issues by [creating a ticket via JIRA](https://va-gov.atlassian.net/servicedesk/customer/portal/3) that will go directly to CMS Help Desk
-
 
 
