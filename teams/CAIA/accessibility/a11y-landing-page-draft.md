@@ -42,7 +42,7 @@ The CAIA team can support your inclusive research sessions by:
 - Providing technical support during sessions with assistive technology (AT) users
 - Observing sessions with AT users from an accessibility point of view, and provide findings
 
-Put in an[ AT Research Support Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&projects=&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) with CAIA to get started.
+Put in an [AT Research Support Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&projects=&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) with CAIA to get started.
 
 #### Recruiting participants
 - Use the [MVS sampling method](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#maximum-variation-sampling) to recruit participants that use assistive technology
@@ -68,7 +68,7 @@ Put in an[ AT Research Support Ticket](https://github.com/department-of-veterans
 Creating visual designs with accessibility in mind will go a long way in making your end product accessible to all Veterans.
 
 #### Apply accessibility best practices
-`I grabbed these links from W3C, do they suffice?` When designing an interface, follow these best practices:
+When designing an interface, follow these best practices:
 - [Provide sufficient contrast between foreground and background](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
 - [Don’t use color alone to convey information](https://www.w3.org/WAI/tips/designing/#dont-use-color-alone-to-convey-information)
 - [Ensure that interactive elements are easy to identify](https://www.w3.org/WAI/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
@@ -107,11 +107,37 @@ You'll eventually test with users of assistive technology (AT). In general, AT w
 
 </details>
 
-<details><summary>Developers</summary></details>
+<details><summary>Developers</summary>
 
-<details><summary>Product Managers</summary></details>
+### Resources for developers
 
-`Maybe we can adapt this?` [GH page: Expectations Per Discipline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/expectations-per-discipline.md)
+Following accessibility best practices and VA's guidelines will result in more accessible products for all Veterans.
+
+#### Apply accessibility best practices
+- [Associate a label with every form control](https://www.w3.org/WAI/tips/developing/#associate-a-label-with-every-form-control)
+- [Include alternative text for images](https://www.w3.org/WAI/tips/developing/#include-alternative-text-for-images)
+- [Identify page language and language changes](https://www.w3.org/WAI/tips/developing/#identify-page-language-and-language-changes)
+- [Use mark-up to convey meaning and structure](https://www.w3.org/WAI/tips/developing/#use-mark-up-to-convey-meaning-and-structure)
+- [Help users avoid and correct mistakes](https://www.w3.org/WAI/tips/developing/#help-users-avoid-and-correct-mistakes)
+- [Reflect the reading order in the code order](https://www.w3.org/WAI/tips/developing/#reflect-the-reading-order-in-the-code-order)
+- [Write code that adapts to the user’s technology](https://www.w3.org/WAI/tips/developing/#write-code-that-adapts-to-the-users-technology)
+- [Provide meaning for non-standard interactive elements](https://www.w3.org/WAI/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
+- [Ensure that all interactive elements are keyboard accessible](https://www.w3.org/WAI/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+
+#### Use VA Design System components
+Don't re-create the wheel! If you're looking for a specific component, turn to the [VA Design System ](https://design.va.gov/) before you create something new.
+- [Components](https://design.va.gov/components/): Components are interactive and non-interactive UI elements that can be grouped together or presented individually.
+- [Patterns](https://design.va.gov/patterns/): Patterns are solutions and researched best practices for solving user-focused tasks and recurring user interface design problems, like multi-part web forms and progressive disclosure.
+- [Templates](https://design.va.gov/templates/): Templates, or page layouts, compose components within a single page. A layout can contain multiple variations of a component depending on the context.
+- [Foundational elements](https://design.va.gov/foundation/): These include colors, breakpoints, icons, typography, spacing units, and utility classes.
+
+#### Test as you develop your product
+Review the [accessibility section of VA Platform](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-testing) for information about TestRail, end-to-end testing with Cypress, screen reader testing, and more.
+
+</details>
+
+`Or we could use this model instead?` [GH page: Expectations Per Discipline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/expectations-per-discipline.md)
+
 
 
 ## Get help from accessibility specialists
