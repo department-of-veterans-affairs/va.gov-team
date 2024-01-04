@@ -27,7 +27,7 @@ See Sketch file: [526 toxic exposure](https://www.sketch.com/s/c353146f-eceb-462
 
 ## Project background
 
-[@evelynhilbrichdavis](https://github.com/evelynhilbrichdavis) led usability research in August 2023. See [research findings](https://docs.google.com/presentation/d/1VLqXexB72C_fPjUyw1MwL2Pjznvsg_q_UYbg16xk-iM/edit#).  
+Lydia Hooper led usability research in August 2023. See [research findings](https://docs.google.com/presentation/d/1VLqXexB72C_fPjUyw1MwL2Pjznvsg_q_UYbg16xk-iM/edit#).  
 
 ## Outstanding questions and next steps
 
