@@ -11,10 +11,34 @@ Page draft starts below:
 *****
 
 # Accessibility on VA.gov
+
+This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
+
+**This page contains guidelines, not mandates.** Following these steps will help ensure your team launches products that meet [VA’s vision](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy#ModernizedVA.govAccessibilityStrategy-Vision): "that every disabled Veteran and caregiver has guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations."
+
+## On this page
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+   - [Our mission](#our-mission)
+   - [Strategy and standards](#strategy-and-standards)
+   - [Accessibility resources by discipline](#accessibility-resources-by-discipline)
+      - [Resources for researchers](#resources-for-researchers)
+      - [Resources for designers](#resources-for-designers)
+      - [Resources for developers](#resources-for-developers)
+   - [Get help from accessibility specialists](#get-help-from-accessibility-specialists)
+   - [Ensure that your work is Section 508 compliant](#ensure-that-your-work-is-section-508-compliant)
+   - [Improve your skills](#improve-your-skills)
+
+<!-- TOC end -->
+
+## Our mission
 VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
 - We strive to make VA.gov as accessible for Veterans as possible.
 - We aim to do more than pass a Section 508 audit - we focus on usability, not just compliance.
 - We "shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
+
+
 
 
 ## Strategy and standards
