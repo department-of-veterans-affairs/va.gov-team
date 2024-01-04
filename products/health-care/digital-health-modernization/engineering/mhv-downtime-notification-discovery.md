@@ -60,6 +60,12 @@ PagerDuty has "incident" service integrations, which theoretically could be set 
 
 What the Platform refers to as downtime is tied to what PagerDuty calls [maintenance windows](https://support.pagerduty.com/docs/maintenance-windows). A PagerDuty user can schedule a maintenance window or immediately put a service in maintenance mode. How this affects a website or service depends on how PagerDuty has been integrated with the website or service. For VA.gov Frontend applications, the `DowntimeNotification` component was created to show one of two types alerts and optionally hide content.
 
+### Maintenance banner
+
+The Design system documents a `MaintenanceBanner` component that looks similar to the `va-alert` component, but is [used only for site-wide messages](https://design.va.gov/components/banner/maintenance#usage):
+
+> This component is ONLY for site-wide system status messages. There is no other appropriate use.
+
 ### Customization Example: Appointments
 
 VAOS, aka Appointments, customizes what the `DowntimeNotification` renders. In [numerous places](https://github.com/search?q=repo%3Adepartment-of-veterans-affairs%2Fvets-website+DowntimeNotification+path%3A%2F%5Esrc%5C%2Fapplications%5C%2Fvaos%5C%2F%2F&type=code) the VAOS app imports the platform component and uses the component's `render` prop to render a [custom DowntimeMessage component](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/components/VAOSApp/DowntimeMessage.jsx).
