@@ -5,6 +5,7 @@
 **Before all sessions**:
 - *Review participant list for participant name and screener question responses*
 - *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
+- *Wear HEADPHONES to prevent the user's screen reader from echoing back to them, which is distracting*
 
 **10-15 min before session**: 
 - Slack Perigean notetaker the link to notes doc in github
