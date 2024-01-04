@@ -1,6 +1,8 @@
-# MHV on VA.gov downtime notifications
+# Discovery: MHV on VA.gov downtime notifications
 
 Created: 2023-12-21
+
+This document is intended to answer questions around "How might MHV on VA.gov alert users about EHR system downtime?", per [va.gov-team/issues/70798](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70798). There is a platform-recommended approach for downtime notifications which can guide "single service" or "overall" downtime. For a "list of applications/services that are down" notification, relevant to a landing page that points to many different applications, there is some prior art.
 
 ## In Brief
 
@@ -11,9 +13,27 @@ Created: 2023-12-21
 - "Automated" downtime notifications do not appear to be covered by the existing Downtime Notification implementation.
 - If multiple `mhv-` services are defined, the Landing Page could indicate to the user what parts of MHV on VA.gov are unavailable
 
+## Recommendations
+
+### Appliations should use the existing Downtime notification
+
+MHV application teams should use the Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations. MHV applications should create application-specific "external service" entries and use that in addition to an MHV-wide entry.
+
+| MHV application | External service key | Notes |
+| - | - | - |
+| MHV-wide | `mhv` | [Already exists](https://github.com/department-of-veterans-affairs/vets-website/blob/3d41a1ee7dc50997887951ec7af4cd52653a5a47/src/platform/monitoring/DowntimeNotification/config/externalServices.js#L32) | 
+| Appointments | `mhv-appointments` | They already have `vaos`, unsure if change is really needed |
+| Medical Records | `mhv-medical-records` |  |
+| Medications | `mhv-medications` |  |
+| Secure Messaging | `mhv-secure-messaging` |  |
+
+### MHV Landing page should implement a `MultiDowntimeNotification`
+
+Tthe MHV Landing does not represent one particular service, so it should show MHV-wide downtime or a list of services that are down or will go down. To this end, the MHV Landing page should create a `MultiDowntimeNotification` component that can be used in conjunction with the existing `DowntimeNotification` component and supporting code.
+
 ## Current priorities
 
-1. Have all MHV on VA.gov applications present a downtime notification based on the "general"/"all" service defined in PagerDuty. The MHV application teams have a PR for this: [MHV-52770 downtime notifications](https://github.com/department-of-veterans-affairs/vets-website/pull/27233)
+1. Have all MHV on VA.gov applications present a downtime notification based on the "general"/"all" service defined in PagerDuty. The MHV application teams have already created this: [MHV-52770 downtime notifications](https://github.com/department-of-veterans-affairs/vets-website/pull/27233)
 1. Get additional PagerDuty "services" created for individual MHV applications, so we can set a downtime notification around particular MHV applications. The `DowntimeNotification` supports checking multiple "external services," so once the PagerDuty services are created, and are defined in [devops code](https://github.com/department-of-veterans-affairs/devops/blob/67c1711a18486e0425bfb4795bb375bbe9fea31a/ansible/deployment/config/vets-api/prod-settings.local.yml.j2#L320) and [externalServices.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/monitoring/DowntimeNotification/config/externalServices.js), teams can update their applications to also respect application-specific downtime.
 
 ## Potential enhancements
