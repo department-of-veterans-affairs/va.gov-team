@@ -27,22 +27,21 @@
     
 -   Is there any confusion regarding connected applications and device management?
     
-
+### Methodology:
+-  Remote usability testing will evaluate the prototype with participants. We’ll use Perigean’s Zoom account for these remote sessions. We plan to test with both mobile and desktop users and with assistive tech users.
+-  
 ### Hypotheses and Conclusions:
 
 -   Veterans will be split on their understanding of a rationale for signing out of all devices.
-    
+	-   Mostly False
 -   Most Veterans will never have used the option of signing out of all of their devices on other websites.
-    
+	-   Mostly True
 -   Veterans will need an explanation of the implications of signing out of all their devices in order to make an informed decision to proceed.
-    
+	-   False
 -   Veterans will expect the platform to take accountability for their security e.g. if there are suspected instances of malware, phishing scams, etc. the VA.gov website will automatically end all user sessions and inform the Veteran.
-    
+	- Mostly True
 -   Veterans are willing to sacrifice security for convenience of not having to sign back into their devices.
-    
-
-### Methodology:
--  Remote usability testing will evaluate the prototype with participants. We’ll use Perigean’s Zoom account for these remote sessions. We plan to test with both mobile and desktop users and with assistive tech users.
+	-   False
 
 ### Key Findings:
 
