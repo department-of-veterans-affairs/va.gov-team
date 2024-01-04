@@ -12,6 +12,8 @@ Page draft starts below:
 
 # Accessibility on VA.gov
 
+`version 1.0.0` `last updated 1/4/24`
+
 This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
 
 **This page contains guidelines, not mandates.** Following these steps will help ensure your team launches products that meet [VA’s vision](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy#ModernizedVA.govAccessibilityStrategy-Vision): "that every disabled Veteran and caregiver has guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations."
