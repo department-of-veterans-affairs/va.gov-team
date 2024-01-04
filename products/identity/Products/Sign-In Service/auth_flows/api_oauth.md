@@ -51,7 +51,7 @@ When registering a Client Config for a mobile or API integration with SiS, the f
 
 - [Unauthenticated request flow](../flow%20diagrams/pkce/frontend%20driven/unauthenticated-new-session.png)
 - [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-expired-access-token.png)
-- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-valid-access-token.png)
+- [Previously Authenticated - access_token valid request flow](../flow%20diagrams/pkce/frontend%20driven/authenticated-valid-access-token.png)
 
 ### Backend Client
 
