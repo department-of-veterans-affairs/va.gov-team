@@ -21,6 +21,8 @@
 
 This document lays out the requirements for Medications on VA.gov. It is broken out by the phases. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
 
+* [Initial discovery report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery/Finding%20%26%20recommendations/Full%20report.md)
+
 ## Phase 0  
 
 ### Use cases
@@ -195,6 +197,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 ### Assets
 * [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
 * [Sketch designs](https://www.figma.com/file/ErrBlPKh9aDxVRu9Ua6OlJ/RX-IMPORT-from-Sketch-FOR-REFERENCE?type=design&t=V4EbDpyXVox5ZrJg-6)
+* [Usability testing report, round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1/Rx_Findings_Readout.pdf)
+* [Usability testing report, round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT/rx-round2-findings.pdf)
 
 ### Key design decisions
 <details>
