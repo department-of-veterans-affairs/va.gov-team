@@ -1,7 +1,7 @@
 # RFC: Content Proxy Location Fallback
 
 - Date: 2024-01-03
-- Related Issue: _git/zenhub issue if applicable_
+- Related Issue: [va.gov-cms #14469](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14469) (Content Build / Next Build traffic routing)
 
 ## Background
 Currently VA.gov uses a single S3 bucket as its source for content files that are served to web requests. [Traffic is relayed by the reverse proxy to this S3 bucket](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/templates/nginx_website_server.conf.j2#L393).
@@ -81,3 +81,7 @@ There were two primary issues with this approach:
 3. Next Build will not serve from an S3 bucket forever. Our initial launch of Next Build is similar to Content Build in that it generates static HTML and pushes it to an S3 bucket. However, the desired state for Next Build is to be a persistently running application that receives incoming requests and builds & caches responses on demand. This is a fundamentally different situation to an S3-provided web server.
 
     We expect that Next Build and Content Build will coexist for at least several months from initial launch, as it will take teams time to migrate their products out of Content Build and into Next Build. We ideally would like to launch Next Build-as-application-server before that migration is complete. For that reason, we need to be able to direct traffic to two destinations that are dissimilar, and the shared S3 bucket approach is not viable.
+
+**3. Sub-proxy.** Another possibility would be leaving the reverse proxy almost entirely as is, and setting up a small EC2/nginx instance that performs the role of traffic router. In the reverse proxy, `web_server.content_proxy_url` would then point to this new EC2/nginx instance and delegate any routing work to that second nginx instance.
+
+The proposed changes seem simple enough that making them in the reverse proxy directly would be preferable to adding an additional layer of infrastructure. However, we would be very open to feedback that this approach is preferable embedding the fallback logic directly in the reverse proxy configuration.
