@@ -43,7 +43,72 @@
 -   Veterans are willing to sacrifice security for convenience of not having to sign back into their devices.
 	-   False
 
-### Key Findings:
+### Key Findings (General):
+
+-   Most Veterans did not have security concerns with being logged into concurrent sessions on their accounts. Some saw using the internet as having an inherent risk but did not consider signing out of their devices as primary safeguard.
+    
+
+	-   Related to Hypothesis 1
+    
+
+-   Most Veterans stated that they had not leveraged the sign out of all devices option on any other websites. A couple were able to state that they had logged out of a streaming account or Facebook account, but it took prodding for them to recall they had taken such an action.
+    
+
+	-   Related to Hypothesis 2, Question 3
+    
+
+-   Veterans did not have difficulty with choosing to sign out of their devices remotely when presented with the option and understood the inherent implications (that they'd lose their sessions and would be prompted to sign back in), and they did not express any hesitation to complete the action.
+    
+
+	-   Related to Hypothesis 3
+    
+
+-   Most Veterans recognized that the systems would log them out after a certain time out period. However, they did not solely leave security considerations up to the platform(s)/applications; they also protected their accounts with MFA options when it wasn't too cumbersome or closed out their applications/browsers.
+    
+
+	-   Related to Hypothesis 4 and 5
+    
+
+-   Surprisingly, Veterans understood that being timed out was a security protocol intended to protect them so they understood that they would always have to re-enter their credentials to gain access to VA.gov. However, some Veterans expressed frustration at the time it took to complete logging in process, especially once MFA was added as an additional security measure.
+    
+
+	-   Related to Hypothesis 5
+    
+
+-   Most Veterans recognized that the systems would log them out after a certain time out period. However, they did not solely leave security considerations up to the platform(s)/applications; they also protected their accounts with MFA options when it wasn't too cumbersome or they proactively closed out their applications/browsers.
+    
+
+	-   Related to Hypothesis 4 and 5
+    
+
+### Key Findings (Design):
+
+-   Veterans assumed that hitting the “sign out” option under their name/profile would sign them out of all devices.
+    
+-   Once Veterans were informed about the new manage devices feature, most were able to navigate to the “Account Security” card to find the option.
+    
+-   Veterans desired a confirmation prior to and after signing out of a singular device and all devices.
+    
+
+  
+
+### Key Findings (Password):
+
+-   Most Veterans we spoke to used password management options through their phone or computer. Some still used pen and paper or memory to keep track of their passwords.
+    
+-   Some Veterans used MyHealtheVet because it allowed them to keep using their same passwords year after year.
+    
+-   Several of the Veterans used MFA during the sign on process.
+    
+-   Most Veterans would attempt to change their password if they suspected their accounts were tampered with or there was a sign in from a device they did not recognize.
+    
+
+  
+  
+
+### Key Findings (Connected Apps):
+
+-   Veterans don’t know or understand what connected apps are and have not connected other applications to their VA.gov accounts. None reported connecting any devices e.g. a fitness tracker to their account.
 
 
 ### Who we talked to 
