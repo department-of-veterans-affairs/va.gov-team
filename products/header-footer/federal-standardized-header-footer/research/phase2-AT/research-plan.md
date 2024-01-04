@@ -106,6 +106,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
       - Are willing to share over Zoom a web browser window on their mobile device 
       - Have a working microphone on their mobile device 
     - **At least 5** have a computer and are willing to use it for the session  
+    - **At least 7** are Veterans
   - *Secondary criteria:*
      - At least 2 people are age 55 or older 
      - At least 2 people 35 or under 
