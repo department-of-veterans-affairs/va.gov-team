@@ -184,7 +184,7 @@ You can reach out to CAIA whether you're in the Collaboration Cycle or not.
 #### Other ways to contact accessibility specialists
 - **Embedded accessibility specialists:** Several product teams have embedded accessibility specialists.
     - If you're on one of those teams, reach out to your specialist for help and advice.
-    - If your team does not have a dedicated a11y, please submit a ticket with CAIA for support.
+    - If your team does not have a dedicated accessibility specialist, please submit a ticket with CAIA for support.
 - **Slack**: VA accessibility specialists are available on Slack the [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) channel.
     - No worries if you don't know what exactly you need.
     - Ask your question and a specialist will help you as soon as possible.
