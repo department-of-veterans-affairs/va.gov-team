@@ -64,71 +64,63 @@ We recruited participants who either used their desktop or mobile devices to acc
 We talked with **13 participants** out of 15 participants who were recruited
 
 Gender:
-* Male: 
-* Female:  
+* Male: 6
+* Female:  7
 
 LGBTQ+:
-* Transgender:  
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 
-* Gay, lesbian, or bisexual: 
+* Transgender:  x
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
+* Gay, lesbian, or bisexual: x
 
 
 Devices used during study: 
-* Desktop: 7
-* Tablet: 1
-* Smart phone: 5
+* Desktop: 5
+* Tablet: 0
+* Smart phone: 8
 * Assistive Technology: 0
 
 
 Age:
 * 25-34: 0
-* 35-44: 5
-* 45-54: 5
-* 55-64: 1
-* 65+: 2
-* Unknown: x
+* 35-44: 1
+* 45-54: 2
+* 55-64: 4
+* 65+: 6
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): 2
-* Associate's degree, trade certificate or vocational training: 2
-* Bachelor's degree: 3
-* Master's degree: 6
+* High school degree or equivalent: 2
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 2
+* Master's degree: 5
 * Doctorate degree: 0
 * Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
+* Urban: 10
+* Rural: 3
 * Unknown: 13
 
 
 Race:
 * White: 9
-* Black: 3
-* Hispanic: 1
+* Black: 1
+* Hispanic: 0
 * Biracial: 1
-* Asian: 0
-* Native: 0
+* Asian: 1
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
 * Cognitive: 5
-* AT beginner: 0
-* AT advanced user: 2 (only 1 used AT during the session)
-* Desktop screen reader: 2 (none used during the sessions, one used magnification, the other used no AT during session)
-* Mobile screen reader: 2 (none used during the session because prototype was not compatible)
-* Magnification/Zoom: 1
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 1 (did not use during session
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
 
 
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
-* We didn't get a completed session with a user who used a screen reader during session.
-* We didn't talk with anyone who identitfies as Asian or Native
+* We didn't get a completed session with any users who identified as LGBTQ+.
+* We didn't talk with anyone who identitfies as Black.
+* We didn't speak to anyone who leveraged an assistive device.
