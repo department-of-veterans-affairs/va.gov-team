@@ -1,6 +1,6 @@
 ## VAMC page data
 Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632) (all urls)
-For more monthly/quarterly data in 2024, please see 
+For more monthly/quarterly data in 2024, please see [2024 VAMC data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md)
 
 - [Users and interactions](#users-and-interactions)
 - [Top 5 button interactions](#top-5-button-interactions)
