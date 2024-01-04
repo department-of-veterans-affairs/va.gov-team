@@ -1,6 +1,6 @@
 
 # Slim Alert Component Assessment
-<i>This assessment was made during Sprint 26 of 2023 (ending on 1/2/24)</i><br>
+<i>This assessment was made during Sprint 26 of 2023 (ending on 1/2/24), last updated 1/4/24</i><br>
 **As of 1/3/24, the slim alert can be seen in action in staging for user vets.gov.user+23@gmail.com**
 
 This documentation is part of issue <a href = "https://github.com/department-of-veterans-affairs/va.gov-team/issues/71290">#71290</a><br>
@@ -30,6 +30,17 @@ The content of the Slim Alert was crafted by Skyler with advising from Laura Wil
 ## How is that information determined?
 Any evidence request prompts this same notification with all its contents (there is clear room for opportunity for CST to improve messaging that is more informative and direct).
 
+How is implementation being monitored, and how is success being measured?
+<a href = "https://dsva.slack.com/archives/C06C551UAFQ/p1704399254272719">From Jacob Worrell on 1/4/24</a>: we're using DataDog to track error responses. As far as tracking success, we're looking at leading indicators like
+<Ul>
+  <li> event interactions for the view details link</li>
+  <li> # of evidence submissions</li>
+</Ul>
+Lagging outcome indicators:
+<ul>
+  <li>Average response time for evidence requests.</li>
+</ul>
+The above is theoretically being tracked using VBMS timestamps, but is difficult data to obtain sometimes."
 
 ## How might this be used in My VA?
 The Slim Alert banner could potentially be used for any card that relates to user-required action or attention. Some hypotheticals:
