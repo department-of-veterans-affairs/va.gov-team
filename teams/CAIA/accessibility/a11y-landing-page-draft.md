@@ -222,8 +222,8 @@ Examples:
 During a Collaboration Cycle Staging Review, accessibility specialists will review your product. If they find any accessibility issues, they’ll write a ticket for each issue that outlines:
 - The issue (often with screenshots or video examples)
 - A proposed solution
-- The [VA experience standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html) related to the issue
-- The [defect severity level](https://depo-platform-documentation.scrollhelp.site/developer-docs/Accessibility-defect-severity-rubric.1906671954.html)
+- The [VA experience standard](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards) related to the issue
+- The [defect severity level](https://depo-platform-documentation.scrollhelp.site/developer-docs/Accessibility-defect-severity-rubric)
 
 Learn more about [Staging Review Issue tickets](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/anatomy-of-a-staging-review-issue-ticket).
 </details>
