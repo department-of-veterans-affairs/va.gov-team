@@ -11,21 +11,13 @@ This is a technical design document for implementing upcoming appointments in Pa
 
 ## Ubiquitous Language
 
-**Check-in**
+**Check-in** *The process for Veterans to “check in” for their appointment once they arrive at the facility that confirms to the staff that the patient has arrived and are ready to be seen by the provider.*
 
-The process for Veterans to “check in” for their appointment once they arrive at the facility that confirms to the staff that the patient has arrived and are ready to be seen by the provider.
+**Pre Check-in** *The process for Veterans to answer certain pre-visit questions, like confirming their contact information, emergency contact and Next of Kin information. This saves them time on the day of their appointment when checking in.*
 
-**Pre Check-in**
+**VAOS** *VA online scheduling service*
 
-The process for Veterans to answer certain pre-visit questions, like confirming their contact information, emergency contact and Next of Kin information. This saves them time on the day of their appointment when checking in.
-
-**VAOS**
-
-VA online scheduling service
-
-**MAP**
-
-Mobile Application Platform
+**MAP** *Mobile Application Platform*
 
 **Clinic**
 
@@ -37,13 +29,9 @@ Mobile Application Platform
 
 The core functionality provided by this feature consists of showing upcoming appointments to the Veterans when they login to check-in or pre check-in for their appointments (as shown in the wireframes below). Please refer to Unified check-in and pre check-in [user flows](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0F9F62F0-68A0-4C8B-9105-A92D0A6448DB/canvas) and [wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas).
 
-![Appointments List Page](images/appointments-list-page.png)
-
-Appointments List Page
-
-![Appointments Details Page](images/appointments-details-page.png)
-
-Appointments Details Page
+| Appointments List Page | Appointments Details Page |
+| :---: | :---: |
+| ![Appointments List Page](images/appointments-list-page.png) | ![Appointments Details Page](images/appointments-details-page.png)
 
 ## Design
 
