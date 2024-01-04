@@ -4,7 +4,9 @@
 - Related Issue: [va.gov-cms #14469](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14469) (Content Build / Next Build traffic routing)
 
 ## Background
-Currently VA.gov uses a single S3 bucket as its source for content files that are served to web requests. [Traffic is relayed by the reverse proxy to this S3 bucket](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/templates/nginx_website_server.conf.j2#L393).
+The changes proposed in this RFC are designed to address bringing [Next Build / Accelerated Publishing](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6577) to production. Next Build is a new front-end build system intended to replace [Content Build](https://github.com/department-of-veterans-affairs/content-build) as the mechanism by which CMS content is built delivered to the Veteran.
+
+Currently VA.gov uses a single S3 bucket as storage for the output of Content Build and the source for content files that are served to web requests. [Traffic is relayed by the reverse proxy to this S3 bucket](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/templates/nginx_website_server.conf.j2#L393).
 
 This [VA EKS architecture document](https://vfs.atlassian.net/wiki/spaces/OT/pages/2231304195/Platform+Infrastructure+Diagrams#EKS-Architecture) is a good high-level overview of how traffic flow works. We are specifically addressing traffic to 'Website' in this proposal:
 
@@ -13,14 +15,16 @@ This [VA EKS architecture document](https://vfs.atlassian.net/wiki/spaces/OT/pag
 We are not proposing any changes to API traffic handling. Only web content requests would be affected.
 
 ## Motivation
-Content publishing will migrate from Content Build to Next Build gradually, as products are implemented in Next Build and able to be published there. This rollout will be greatly simplified if each system publishes to its own S3 bucket, rather than to the same bucket.
+Content publishing will migrate from Content Build to Next Build gradually, as products are implemented in Next Build and able to be published there. It is unlikely that we could migrate every type of content currently built by Content Build prior to taking Next Build to production. Coexistance of the two systems will be necessary during the migration and rollout.
+
+This rollout will be greatly simplified if each system publishes to its own S3 bucket, rather than to the same bucket (reasons for this are given in the Alternatives section below). However, web requests will need to be routed to the appropriate S3 bucket.
 
 We propose an addition to the reverse proxy which would direct web traffic to the new Next Build bucket first. If content is available at that bucket, it is served. If a 4xx/5xx response is returned, the reverse proxy would then direct traffic to the Content Build server.
 
 ## Design
 This diagram shows roughly what we propose: ![Diagram showing updated infrastructure](assets/revproxfallback.drawio.png)
 
-At an nginx level, this is accomplished by adding `proxy_intercept_errors on;` to the primary location configuration and adding a named fallback location as the handler for those errors. The primary `proxy_pass` location would point to the Next Build S3 bucket, and the fallback location `proxy_pass` would point to the Content Build S3 bucket.
+At an nginx level, this is accomplished by adding `proxy_intercept_errors on;` to the primary location configuration for web content and adding a named fallback location as the handler for those errors. The primary `proxy_pass` location would point to the Next Build S3 bucket, and the fallback location `proxy_pass` would point to the Content Build S3 bucket.
 
 The Veteran should see no difference; to them, all content will be served from 'www.va.gov'. Also, any files that are currently managed via direct S3 URI would continue to function without alteration (i.e. https://prod-va-gov-assets.s3-us-gov-west-1.amazonaws.com/img/plus-white.svg and the like).
 
@@ -53,30 +57,32 @@ We then added files to the "new" bucket, such that we would expect increasing am
 ## Risks
 1. **Latency.** As discussed in the Proof of concept section, our primary concern was that this design obviously introduces latency to any request that we expect to be filled by the Content Build S3 bucket, since a 404 request/response cycle from the Next Build S3 bucket is required in order for traffic to subsequently reach the Content Build bucket.
 
-    We ran tests on an equivalent configuration using two S3 buckets, and found that the average latency introduced to the Content Build (i.e. fallback) requests was **0.07 seconds**. This amount of latency is non-zero but does not represent a significant change in Veteran experience.
+    As described above, we ran tests on an equivalent configuration using two S3 buckets, and found that the average latency introduced to the Content Build (i.e. fallback) requests was **0.07 seconds**. This amount of latency is non-zero but does not represent a significant change in Veteran experience.
 
     We'd also note that this latency is only introduced for Content Build content. As content is moved to Next Build, it will effectively be delivered faster by no longer being subject to the fallback case.
 
-2. **Stability** Obviously, any change to a critical system infrastructure like the reverse proxy comes with risks and the potential for unforeseen consequence. It is our hope that this can be mitigated and addressed by evaluation by Platform infrastructure workers who are most familiar with the reverse proxy and larger traffic flow concerns and then the Accelerated Publish team adjusting the proposal based on that evaluation.
+2. **Stability** Obviously, any change to a critical system infrastructure like the reverse proxy comes with risks and the potential for unforeseen consequence. It is our hope that this can be mitigated and addressed by evaluation by Platform Devops COP members who are most familiar with the reverse proxy and larger traffic flow concerns. Any recommendations would then fall to the Accelerated Publish team to implement.
 
 ## Alternatives
 **1. Load balancing with rules**. Prior to coming to the nginx fallback solution, we explored the idea of using a load balancer to direct traffic to one S3 bucket or another. In theory, load balancer rules could be used to send traffic to one place or another.
 
 There were two primary issues with this approach:
 
-1.  The number of load balancer rules required would be beyond what AWS LBs handle. There is not a clean correspondance between the URLs/routes of VA.gov content and the type of content it is. It is not possible to clearly state 'I want all content of type X to go to one place' based on URL. Given that, there would need to be an individual rule for each URL that would need to go to one bucket or another. Next Build is already building over 10,000 pages of Content Build content. This would require a number of LB rules that AWS does not support.
+1.  The number of load balancer rules required would be beyond what AWS ALB's handle. There is not a clean correspondance between the URLs/routes of VA.gov content and the type of content it is. It is not possible to clearly state 'I want all content of type X to go to one place' based on URL.
 
-2.  Content can be added at will be VA editors without engineering involvement. If a piece of content that is published by Next Build were added, a new LB rule would be required, and this would need to be handled by CMS -> LB communication. This would potentially be possible if the number of rules were sufficiently small, but we decided this would be a brittle setup prone to failure, and moreover that even if possible it would be engineering work that would be discarded.
+    Given that, there would need to be an individual rule for each URL to determine which bucket that request would go to. Next Build is already building over 10,000 pages of Content Build content. This would require a number of ALB rules that AWS does not support. AWS ALB's support 100 rules by default. This is adjustable, but in our case it would need to be adjusted multiple times to accommodate content growth.
+
+2.  Content can be added at will be VA editors without engineering involvement. If a piece of content that is published by Next Build were added, a new ALB rule would be required, and this would need to be handled by CMS -> ALB communication. This would potentially be possible if the number of rules were sufficiently small, but we decided this would be a brittle setup prone to failure, and moreover that even if possible it would be engineering work that would be discarded.
 
 **2. Shared S3 destination**. We also looked at the possibility of publishing Next Build content to the same location as Content Build does, i.e. simply using the existing S3 bucket for both systems. This presents a few problems:
 
-1. Content Build uses a delete-on-sync system to remove content that is no longer present in its build. If a page exists on the S3 bucket, and that page is removed from a new build (because it was archived, say), upon the sync to S3, everything that is not in the new build is removed from the S3 remote.
+1. Content Build uses a delete-on-sync mechanism to remove content that is no longer present in its build. If a page exists on the S3 bucket, and that page is removed from a new build (because it was archived, say), upon the sync to S3, everything that is not in the new build is removed from the S3 remote.
 
     This complicates a shared S3 bucket scenario. If content is no longer published by Content Build and is instead published by Next Build, Content Build's delete-on-sync would remove any content that Next Build created. We would need to remove delete-on-sync from Content Build and replace it with a different mechanism for content removal.
 
     Content Build is a complex and fragile application & process, and our bias has been towards changing it as little as possible while developing Next Build. We think that bias is relevant here.
 
-2. Content Build and Next Build will run on independent cycles. While we will make every effort to ensure that content is not being built redundantly - that is, content moved to Next Build also continues to be built by Content Build - there is no guarantee that every case will be caught. This could result in the two systems overwriting each other's content output, which would be a confusing situation to diagnose and rectify. It also could cause strange variations in the content presented to the Veteran.
+2. Content Build and Next Build will run on independent cycles. While we will make every effort to ensure that content is not being built redundantly - that is, content moved to Next Build should not also continue to be built by Content Build - there is no guarantee that every case will be caught. This could result in the two systems overwriting each other's content output, which would be a confusing situation to diagnose and rectify. It also could cause strange variations in the content presented to the Veteran.
 
 3. Next Build will not serve from an S3 bucket forever. Our initial launch of Next Build is similar to Content Build in that it generates static HTML and pushes it to an S3 bucket. However, the desired state for Next Build is to be a persistently running application that receives incoming requests and builds & caches responses on demand. This is a fundamentally different situation to an S3-provided web server.
 
@@ -84,4 +90,4 @@ There were two primary issues with this approach:
 
 **3. Sub-proxy.** Another possibility would be leaving the reverse proxy almost entirely as is, and setting up a small EC2/nginx instance that performs the role of traffic router. In the reverse proxy, `web_server.content_proxy_url` would then point to this new EC2/nginx instance and delegate any routing work to that second nginx instance.
 
-The proposed changes seem simple enough that making them in the reverse proxy directly would be preferable to adding an additional layer of infrastructure. However, we would be very open to feedback that this approach is preferable embedding the fallback logic directly in the reverse proxy configuration.
+The proposed changes seem simple enough that making them in the reverse proxy directly would be preferable to adding an additional layer of infrastructure. However, we are very open to feedback that the sub-proxy approach is preferable to embedding the fallback logic directly in the reverse proxy configuration.
