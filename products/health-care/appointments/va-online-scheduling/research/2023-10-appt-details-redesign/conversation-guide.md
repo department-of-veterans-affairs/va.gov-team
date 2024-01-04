@@ -1,1 +1,112 @@
+# Conversation Guide 
 
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- Mute your Slack notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) to your observers. 
+
+Note to observers in thread: 
+- You do not need to change your name to "observer"
+- I might ask you to unmute your mic briefly just to say hello. 
+
+### Starting the session
+
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your screensharing setup and share permissions for participants.
+- When the participant is ready, begin the session with the following intro*
+
+## Intro - 5 minutes
+
+Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______.
+
+Today I'm going to ask you to help test out the appointments tool on VA.gov. Your feedback will help our team understand how to improve the site for Veterans in the future.
+
+I also have a few people on the team who are interested in listening in to our session as observers. They're in the Zoom waiting room. It's completely fine if you choose to have the session without observers, so let me know what you'd prefer. Do you feel comfortable with having observers listen in on the session?
+
+(If the participant agrees, let observers join.)
+
+Okay, I've let the observers in. Could the observers come on camera for a second and give a quick intro?
+
+Before we begin, I want to give you some background on how today's session will go. Please stop me if you have any questions:
+
+- You will be testing out the appointments tool on va.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is innacurate.
+- I will have you share your screen and ask you to complete various tasks and give feedback as you go.
+- Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the appointments tool, not you.
+- There is no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
+- My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+- This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over.
+- Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
+   - Given that, is it ok if I record the screen and the audio during our session today?
+
+**If NO:** Not a problem, I may just stop you at points to confirm what I've seen.
+
+Do you have any questions about anything before we start?
+**If NO and Recording OK:** Great! I'm going to hit the record button now.
+**If NO and Recording NOT OKAY:** Great! Let's get started with a few questions.
+
+**Start recording.**
+
+Just to confirm on the record, do I have your permission to record the session today?
+
+Thank you! 
+
+As I said, today you will be interacting with a prototype of the design. In order to do that, I’ll need you to share your screen.
+
+I’ll walk you through the process of sharing your screen, then I'll send you a link to the prototype.
+
+* First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today?
+
+* Great, that helps me troubleshoot with you if we run into any problems.
+
+Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
+
+* Use chat to send user [link to desktop prototype.]
+
+* Use chat to send user [link to mobile prototype.]
+
+* Talk participant through screen sharing so they can share their screen.
+
+As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
+
+#### If can't share
+
+* Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
+
+#### After prototype is open
+
+Thanks!
+
+What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
+
+## Scenario 1: - 5 minutes
+You previously scheduled a primary care appointment and want to know where the appointment is, how would you do that from here?
+
+**Follow up:** Tell me about this page. 
+
+#### Things to watch for:
+
+- _Can the participant find their appointment?_
+- _Can participant find where their appointment is?_
+
+
+
+## Post-Task Interview - 5 minutes
+
+- Does anything you saw today reflect how you manage your health care appointments? 
+
+- Of everything you saw today, what was the most confusing, or challenging?
+
+- What worked well?
+
+- What could we do better?
+
+## Thank-You and Closing - 5 minutes
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Great, well thank you so much again, and enjoy the rest of your day!
+
+## Emergency Exit
+
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
