@@ -3,7 +3,7 @@
 
 | Idea / Open Item | Comments | Owner | Ticket | 
 | ---- | ------ | ------ | ----- | 
-|  Consider having Mobile teams update detox testing vs having QA do it | Some FE do it today, may be more of a strategy discussion on if Mobile wants this and if not what that means.  | Tim confirmed on 1/4 that he would like engineering to do this eventually | [7540](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7540)   | 
+|  Consider having engineers updating / creating detox testing vs having QA do it | Some FE do it today, may be more of a strategy discussion on if Mobile wants this and if not what that means.  | Tim confirmed on 1/4 that he would like engineering to do this eventually | [7540](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7540)   | 
 |  Create a PR turn around policy for QA review | Set a PR review SLA - say a PR is assigned to you to review then have it closed in 2 business days? |  Adam |  [7541](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7541) |
 |  Review what meetings are critical and needed for QA to attend vs optional | Will require teams to review their calendars to list all their meetings and review | Team |  [7542](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7542) |
 |  Explore the possibility of keeping the last 2 days of the sprint open from QA to focus on just testing   | Is this something that would be valuable| Team | [7543](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7543) | 
