@@ -19,7 +19,7 @@ Core idea is currently a MHV first and that we should be shoving OH data into MH
 ### What we gain
 
 - Leverage existing infrastructure. Even though its good/bad/ugly, it still mostly works
-- By in from leadership
+- Buy-in from leadership
 
 ## Complication
 
@@ -27,19 +27,19 @@ After implementing a prototype we are uncovering a bunch of risks and warning fl
 
 Ideally, MHV knows nothing about OH, but as we are digging into the problem, we are slowly becoming more tightly coupled with OH. 
 
-Why this is bad: When looking at this on a `years` level, its going to be hard to maintain. 
+Why this is bad: When looking at this on a `years` level, its going to be hard to maintain. In the presumed future state of OH being the only EHR for VA, the SM API will end up having un-used functionality and code that has to be either maintained or pulled out.
 
 ### More specific problems/risks
 
 > In no specific order
 
-- Big Data synchronization is going to be a Problem,  
-  - The ATOM *only* does new message, not deleted or any other status updates  (such as if the message is read or deleted)
+- Big Data synchronization is going to be a Problem
+  - The ATOM *only* does new message, not deleted or any other status updates (such as if the message is read or deleted)
 - two sources of truth (SoT) for information
   - Veterans message SoT is MHV, a Clinicians SoT is OH
 - MHV has 2 decades of technical debt
   - including performance issues, downtown, sub-par monitoring, and slow release and planning cycles
-- MHV is knowing a bunch about OH and becoming tightly coupled
+- MHV is embodying quite a bit of knowledge of OH and becoming tightly coupled
 
 
 ## Solution
@@ -75,7 +75,7 @@ could also be used to provide APIs solve Pooling problems (such who can a Vetera
 > In no specific order
 
 - Building something greenfield is a Big Non-trivial risk
-   - Are *just* rebuilding MHV without the current MHV baggage? 
+   - Are we *just* rebuilding MHV without the current MHV baggage? 
 - The political/contracting landscape might make this a hard sell
 - Again, new thing === big risk. 
 
@@ -85,9 +85,9 @@ could also be used to provide APIs solve Pooling problems (such who can a Vetera
 
 We need to solve the integration problem first with the MHV team. This will let us do some work around API development and getting into OH to solve these problems 
 
-For Oct 24, we help MHV build out the current plan, with the accepted risks and constraints. This will help solve the integration problems with OH. And its built in such a way that we can pivot to the. 
+For Oct 24, we help MHV build out the current plan, with the accepted risks and constraints. This will help solve the integration problems with OH. And its built in such a way that we can pivot to the new thing. 
 
-Once we  we hit an MVP of 
+Once we hit an MVP of 
 
 - Sending a messaging to OH from MHV
 - Sending a messaging to MHV from OH
@@ -105,8 +105,8 @@ There is a world in which the existing MHV SM API iterates into SMExI and that m
 ### Concrete next steps
 
 - Get buy in from leadership that SMExI is a good long term solution
-  - Id risks with the current 
-- Finish the Toy Prototype and that to the MHV team and walk through what we learned
+  - ID risks with the current solution
+- Finish the Toy Prototype and show that to the MHV team and walk through what we learned
 - Work with the the MHV team on next PI of tasks
 - OCTO engineers could be prototyping what this looks like while the MHV team works on the current implementation
 
