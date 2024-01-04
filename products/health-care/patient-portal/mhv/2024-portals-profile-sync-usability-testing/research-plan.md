@@ -23,7 +23,7 @@ This research fits into these points of a Veteran's Journey:
 
 ## **Research Goals**
 
-- Ascertain Veterans' understanding of the need for the sync and how the process will affect their access to My HealtheVet and MHV on VA.gov.
+- Ascertain Veterans' understanding of the need for the sync and how the process will affect their contact information?
 - Identify any usability issues Veterans may experience with syncing their email and phone numbers.
 
 ## **Outcome**
@@ -35,7 +35,7 @@ The results of this study will help us determine if our designs provide the best
 1. Can Veterans select, edit, add, remove, and verify their contact information?
 2. Do Veterans understand the process of syncing their MHV and VA contact information?
   1. Do they understand why this step is necessary?
-  2. What effect do they think this will have on their ability to manage their healthcare?
+  
 
 ## **Hypothesis**
 
