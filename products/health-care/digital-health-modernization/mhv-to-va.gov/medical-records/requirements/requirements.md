@@ -7,6 +7,7 @@
 | 1/2/23       | Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
 |1/2/23        | Coulton Bunney   | Set up structure |
 |1/3/23        | Coulton Bunney   | Updated allergies and vaccines information |
+|1/4/23 | Coulton Bunney | Added key research and data documents|
 
 
 ## Table of Contents  
@@ -31,6 +32,10 @@ Medical records v1.0 consists of 6 data domains.
   * Pathology reports
   * Microbiology reports
   * Radiology reports
+ 
+**Key documents**
+* [VistA -> PHR/MHV mapping document](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/data%20mapping/MHV%20Documentation/MHV_PHR_API_to_FHIR_mapping.xlsx?d=w076667839ced465ca2506582e76618fb&csf=1&web=1&e=DFvMpe)
+* [PHR FHIR mapping IG](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/data%20mapping/MHV%20Documentation/MHV_PHR_API_to_FHIR_mapping.xlsx?d=w076667839ced465ca2506582e76618fb&csf=1&web=1&e=iL2Zld)
 
 ## Phase 0
 
