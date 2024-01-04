@@ -55,11 +55,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 See also our [Research Plan section on recruitment criteria] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20Use%20research%20plan.md#recruitment-criteria) 
 
-We recruited participants who either used their desktop or mobile devices to access Va.gov.
-   - 3 screen reader participants
-      - at least 1 who is less experienced using screen reader
-      - at least 1 who is more experienced using screen reader 
-   - 3 (all) joining session on desktop
+We recruited participants who either used their desktop or mobile devices to access Va.gov.  We wanted a mix between the various devices in order to test this new user flow.
 
 We talked with **13 participants** out of 15 participants who were recruited
 
