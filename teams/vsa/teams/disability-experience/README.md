@@ -21,7 +21,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Emily Theis | OCTO Product Owner | emily.theis@va.gov | emilytheis |
 | Shannon Ford | OCTO Design Lead | shannon.ford1@va.gov | shannonkford |
 | Rakshinda Aslam | Product Manager | rakshinda.aslam@agile6.com | RakshindaAslam |
-| Lydia Hooper | UX Researcher and Designer | lydia.hooper@agile6.com | lydiahooper |
+| Mike Eng | UX Researcher and Designer | mike.eng@agile6.com | mengA6 |
 | Aurora Hampton | Engineer | aurora.hampton@agile6.com | ahay-agile6 |
 | Seth Darr | Engineer | seth.darr@agile6.com | sethdarragile6 |
 | Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 |
@@ -32,7 +32,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Tommasina Miller | Engineer | tommasinamiller@navapbc.com | tommasina-va |
 | Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
-| Micah Frazier | Engineer | micah.frazier@oddball.io | micahaspyr |
+| Scott Regenthal | Engineer | scott.regenthal@oddball.io | freeheeling |
 | Sam Stuckey | Engineer | sam.stuckey@oddball.io | SamStuckey |
 | Nathan Burgess  | Engineer | nathan.burgess@coforma.io | NB28VT |
 | Thomas Blackwell | Engineer | thomas.blackwell@coforma.io | tblackwe |
