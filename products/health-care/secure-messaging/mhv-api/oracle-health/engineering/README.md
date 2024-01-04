@@ -113,7 +113,47 @@
 
 ### MHV to OH 
 
-![Sequence diagram of MHV to OH](./assets/MHV%20to%20OH.v2.svg)
+```mermaid
+sequenceDiagram
+
+    box LightCyan MHV
+    participant MHVES as Event Source
+    participant MHVSM as SM Message API
+    participant MHVMH as SM Message History API
+    participant MHVAH as SM Message Attachment API
+    end
+
+    box MintCream SM Exchange
+    participant MEL as RESTful Event Listener
+    participant MEIQ as Incoming Message Queue
+    participant MEP as Message Processor
+    participant MEDB as Exchange Database
+    participant MEOQ as Outgoing Message Queue
+    participant MES as Message Sender
+    end
+
+    box Orange Oracle Health (via DAS SPOE)
+    participant OHF as r4 FHIR Patient API
+    participant OHM as Messaging 2.0 API
+    participant OHCAMM as Cerner CareAware MultiMedia
+    end
+
+    MHVES->>MEL: POST { icn, messageId, receivingPoolId }
+    MEL->>MEIQ: Parse and store message
+
+    MEIQ->>MEP: Receive incoming message
+    MEP-->MHVSM: Fetch message data
+    MEP-->MHVMH: Retrieve previous messages in thread
+    MEP-->MEDB: Query for most recent OH Message ID in thread
+    MEP-->OHF: Retrieve OH Patient ID for ICN
+    Note over MEP: Unifies retrieved data and translates message format
+    MEP->>MEOQ: Store message
+
+    MEOQ->>MES: Receive translated message
+    MES-->MHVAH: Retrieve message attachments
+    MES->>OHCAMM: POST message attachments
+    MES->>OHM: POST message to Outbox
+```
 
 ### OH to MHV 
 
