@@ -161,6 +161,7 @@ Let’s start with a few questions...
     - *(If not the expected device, ask to rejoin that way)*
 
 1. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
+    - *(If **Dophin** screen reader, won't be able to share screen on Zoom)*
 
 1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
 
@@ -178,6 +179,8 @@ Let’s start with a few questions...
 Now I'm going to ask you to do some things... 
 
 ### Screen sharing
+*(If **Dophin** screen reader, won't be able to share screen on Zoom, so will need to open the prototype and listen to them and their screen reader while they navigate. Ask them to talk aloud about what's going on.)*
+
 I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me the same thing you see on your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
 
 - *(refer to Screen sharing instructions above, if needed)*
