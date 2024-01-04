@@ -4,7 +4,7 @@
 ### Date: Jan 4' 2024       
 ### Participants: Rakshinda, Austin, Emily, Shannon, Steve 
 ### Topics Covered:
-- Toxic Exposure - Polling
+- Submission Polling
    - Is there an option of asking Lighthouse to change the polling implementation?
    - Concerns around scalability and questions around "how many times/how often/when do we stop/what then?"
    - Team 1 is currently in discovery mode for polling solution for 526 submission
