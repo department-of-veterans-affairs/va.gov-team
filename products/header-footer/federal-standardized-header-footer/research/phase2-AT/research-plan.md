@@ -196,7 +196,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD
-- Accessibility specialist: Laura Flannery? *(NEED TO CONFIRM)*	
+- Accessibility specialist: Laura Flannery or someone from CAIA *(NEED TO CONFIRM)*	
 - **Note-takers: Perigean (in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 

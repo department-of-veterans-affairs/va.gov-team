@@ -42,7 +42,7 @@ What I *hope to do today* is to get your feedback on something new that we're wo
 
 What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I cannot make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
-I have a colleague with us in this session who will be taking notes. Laura is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session.
+I have a colleague with us in this session who will be taking notes. *[Laura/CAIA person]* is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session.
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker.
@@ -166,7 +166,7 @@ Let’s start with a few questions...
 
 1. How long have you been using a screen *(screen reader / magnifier)*?
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, *(if NOT using screen reader)* put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
