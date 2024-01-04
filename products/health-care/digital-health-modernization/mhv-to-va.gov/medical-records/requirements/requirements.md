@@ -137,7 +137,9 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 | We will not include a link to send a SM if allergies info is incorrect. Instead, we will just tell a patient to inform their provider at their next appointment. | Based on feedback from Dr. Josephs, updating allergies information can wait until a patient's next appointment. This is also thought to decrease unecessary SMs.|
 </details>
 
-* [Phase 0 launch Sketch file](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
+> [!WARNING]
+> This file needs updated once it is moved over to Figma.
+> * [Phase 0 launch Sketch file](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=nPAS0M&nav=eyJoIjoiMjExMTI5NTc3MiJ9)
   
 ### Vaccines
@@ -225,7 +227,9 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 | The following field should not be shown to users: CPT code, who administered the code | After discussion, the SMEs determined they were not needed for patient view and may cause confusion. A user would still be able to get this information by asking their provider directly or submitting a full records request.|
 </details>
 
-* [Phase 0 launch Sketch file](https://www.sketch.com/s/a3419c37-f716-4b09-8853-2c6c8284ed85)
+> [!WARNING]
+> This file needs updated once it is moved over to Figma.
+> * [Phase 0 launch Sketch file](https://www.sketch.com/s/a3419c37-f716-4b09-8853-2c6c8284ed85)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=okyHLO&nav=eyJoIjoiMTEyNDQyMDU5MSJ9)
 
 ### Health conditions
@@ -234,12 +238,32 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 <summary>List view requirements</summary>
  
 ---
+
 #### IA
+URL: `/my-health/medical-records/vaccines`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 
 #### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=wQXUDK&nav=eyJoIjoiMjk4MzYxNTUyIn0).
+
+* H1 for this page should be `Vaccines`
+* Intro text at top of page that explains what you will find in this section of the medical record
+* Intro text that informs a patient that reactions to vaccines can be found in the allergies section
+* Additional info that explains what to know about printing and downloading vaccines information
+* For each vaccine in list, include the following information
+  * Vaccine name
+  * Date patient received the vaccine
 
 #### Functionality
+* List should be paginated, with 10 vaccines per page
+* For each vaccine, a user should be able to click on the first line of the card (vaccine name) to view detailed information about that vaccine
+* Ability to download a full list of vaccines as a PDF
+   * PDF should include detailed information about each vaccine
+* Ability to print all vaccines
+   * Print out should include detailed information about each vaccine
 ---
+
 </details>
 
 <details>
@@ -262,6 +286,12 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 |-----------------------------------------------------------------------------------------------|-----------------|
 | | |
 </details>
+
+> [!WARNING]
+> This file needs added once it is cleaned up.
+> * Phase 0 launch design file
+* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=okyHLO&nav=eyJoIjoiMTEyNDQyMDU5MSJ9)
+
 
 ### Vitals
 
