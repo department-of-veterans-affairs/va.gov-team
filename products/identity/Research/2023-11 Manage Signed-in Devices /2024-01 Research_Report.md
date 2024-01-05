@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Manage Signed-in Devices, Core Identity team**
 
-- [Research readout]()
+- [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]d-in%20Devices%20/Manage%20Devices%20-%20Research%20Readout.pdf)
 - Researchers
   - Charlye Tran | charlye@bluetiger.digital
   - Clayton Zook | clayton.zook@oddball.io
