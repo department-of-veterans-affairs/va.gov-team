@@ -117,6 +117,38 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 -   Veterans don’t know or understand what connected apps are and have not connected other applications to their VA.gov accounts. None reported connecting any devices e.g. a fitness tracker to their account.
 
 
+### Recommendations
+
+#### Recommendations - Manage Devices (current feature)
+
+|   | Recommendation  |
+|---|---|
+| 1 | Indicate time period for which the devices are shown e.g. 45 days.  |
+| 2 | Replace sign out button with “signed out” for devices that are no longer active.  |
+| 3 | Add in disclaimer that the user will be logged out of all sessions including the current session and will need to log back in if they confirm “sign out of all devices”.  |
+| 4 | Hyperlink “changing your password” in the body text.  |
+| 5 | Work with _____ to create a communication plan for feature roll-out since this is a new user experience.  |
+
+#### Recommendations - Future Feature Enhancements
+
+|   | Recommendation  |
+|---|---|
+| 1  | Under Account Security, add in a bullet for “Manage Devices”  |
+| 2  | Research on how we might align how the “manage devices” feature can be leveraged to protect account security (alongside features like changing your password and etc.)  |
+| 3  | Gather metrics and conduct further research to identify future features  |
+
+
+
+#### Recommendations - Security
+
+1.  Users have an expectation that they will be automatically logged out of their sessions in 30 minutes; if we are extending this time period to 45 days, Veterans should be educated on the security implications of concurrent sessions.
+    
+2.  Collaborate with CSPs to ensure how we might educate Veterans on account security is consistent, e.g. password management, password reset, usage of MFA, etc.
+    
+3.  Consider proactive measures to warn Veterans about suspicious logins from new devices or locations.
+
+
+
 ### Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
