@@ -150,7 +150,7 @@ not maintained
 - September 2023: Build
 - October 2023: Usability Testing
 - November 2023: Build corrections
-- December 2023: Launch
+- December 18, 2023: Launched to 100%
 
 ## Design
 <details>
