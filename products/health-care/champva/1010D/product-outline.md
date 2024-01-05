@@ -88,13 +88,13 @@ Veterans and family members of Veterans must currently download and fill out the
   - tbd
 
 - Collaboration Cycle
-[ ] CAIA kickoff: 11/29/23
-[ ] Design Intent: 1/9/24
-[ ] Research:
-[ ] Midpoint: 
-[ ] Analytics:
-[ ] Staging:
-[ ] Security:
+  - [ ] CAIA kickoff: 11/29/23
+  - [ ] Design Intent: 1/9/24
+  - [ ] Research:
+  - [ ] Midpoint:
+  - [ ] Analytics:
+  - [ ] Staging:
+  - [ ] Security:
 ---
 
 ## Solution Narrative
