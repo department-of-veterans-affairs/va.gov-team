@@ -73,7 +73,6 @@ Before we start, a few things I want to mention:
 
 ## First Task: Notifications - 10 minutes 
 
-
 - How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
   - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
     - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
@@ -101,11 +100,9 @@ Before we start, a few things I want to mention:
 
 ## Second Task: Complete the clinical reminders - 20 minutes 
 
-  
-
 - Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
-  - [eScreening link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fescreening.va.gov%2Fbut%2FassessmentEmailLogin%3Fcode%3D2JmUuszlN1bfe636sBzCEQ%253D%253D&data=05%7C01%7C%7C508afc1463974977ea4208dbdbbfcedb%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638345389069890219%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JMIAh6kCGRa6HKIBAnZ9yU8dc%2Bhyr0sbk2CbJxJyKHQ%3D&reserved=0)
-
+  - [eScreening and BHL links](https://dvagov.sharepoint.com/:w:/r/sites/OCTOOCCSelf-ScreeningQuestionnairePilot/Shared%20Documents/General/Pilot%20documents%20(Eval%20plan,%20Project%20Plan,%20etc)/Tool%20Links%20for%20Veteran%20Interviews.docx?d=w50a92e8a483e4bbaaaffc5b4f9717cc6&csf=1&web=1&e=bOG38Q)
+    
 - [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
 
 - [On each screen] Are there any terms that seem unfamiliar or confusing to you? 
