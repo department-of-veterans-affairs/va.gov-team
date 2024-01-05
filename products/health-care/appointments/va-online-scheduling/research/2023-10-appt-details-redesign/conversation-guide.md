@@ -30,7 +30,7 @@ Okay, I've let the observers in. Could the observers come on camera for a second
 
 Before we begin, I want to give you some background on how today's session will go. Please stop me if you have any questions:
 
-- You will be testing out the appointments tool on va.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is innacurate.
+- You will be testing out the appointments tool on va.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is inaccurate.
 - I will have you share your screen and ask you to complete various tasks and give feedback as you go.
 - Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the appointments tool, not you.
 - There is no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
@@ -152,7 +152,7 @@ You had a podiatry appointment last month and want to review what was discussed 
 
 #### Things to watch for:
 
-- _Can participant easilty find their after visit summary?_
+- _Can participant easily find their after visit summary?_
 - _Can participant easily navigate back from their after visit summary??_
 
 ## 7: Appointment request
