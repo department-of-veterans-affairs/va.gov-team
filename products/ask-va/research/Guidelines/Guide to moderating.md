@@ -12,7 +12,7 @@ This guide is based on:
 
 * Review the conversation guide and have it ready.
 * Review the prototype and have it ready.
-* Clear your space, find your headphones and mute distractions, like Slack notifications.
+* Clear your space, find your headphones and mute distractions, like Slack notifications. Be prepared to have your camera on.
 * Sign in to the Perigean Zoom meeting (you will be the host) and change the display name to your first name.
 * Turn on transcriptions by clicking `LIVE TRANSCRIPT` in the bottom toolbar. Then, in the `Live Transcription` section, click `ENABLE`.
 * Open the `#feedback-backchannel` on DSVA Slack. Start a thread, like this:
