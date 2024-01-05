@@ -54,12 +54,12 @@ ________________________________________________________________________________
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support eCheck-in for CERNER Sites**
  - **GOAL: Address Usage Issues**
-     - **Sub Goal: Change wording for wait time after checking in**
      - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
+     - **Sub Goal: Change wording for wait time after checking in**
+     - **Sub Goal: Let Veterans Know when BTSSS is Down**
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
      - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**     
 - **GOAL: Increase PCI Usage**
-     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
