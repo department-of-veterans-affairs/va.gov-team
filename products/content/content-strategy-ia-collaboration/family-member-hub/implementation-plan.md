@@ -108,5 +108,25 @@ Records | |
 
 ## Communication plan
 - Communication to OCTO stakeholders
+  - 1.11.24 team meeting
+  - Upcoming OCTO Monday design meeting (Mikki to schedule)
+  - Share with OCTO benefits colleagues in next benefits/content/IA check in
+  - Share with Chris
+  - Share with health portfolio
+  - CAIA deep dive
 - Initial communication to all impacted stakeholders
-- Ongoing ocmmunication with stakeholders during roll-out
+  - Present to the survivor group (Danielle to reach out to Melissa R to schedule)
+  - Share in next 1:1 with Jenny H-L from VHA digital media
+  - Share with IVC program office
+  - Share in kickoffs with each administrative group
+  - Share in digital media syncs
+  - Share with OPIA as a follow up to earlier meetings
+  
+- Ongoing communication with stakeholders during roll-out
+
+## Implementation next steps
+
+- Danielle and team to build out landing page drafts in Drupal
+- Mikki to finalize the IA structure
+
+
