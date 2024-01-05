@@ -369,5 +369,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Record how many questions they saw (from survey results)
 
 ## Approvals
-- Amanda Klausmeier (Sitewide UX/UI Lead) on TBD
+- Amanda Klausmeier (Sitewide UX/UI Lead) on January TBD, 2024
 - Shane Strassberg (VA Research Ops) on TBD

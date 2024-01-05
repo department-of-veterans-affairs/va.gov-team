@@ -201,5 +201,5 @@ Please list the people who will be serving in each role.
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
 ## Approvals
-- Dave Conlon (PO) on Nov 7, 2023
+- Amanda Klausmeier (Sitewide UX/UI Lead) on January 4, 2024
 - Shane Strassberg (VA Research Ops) on TBD
