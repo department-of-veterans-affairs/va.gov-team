@@ -276,13 +276,13 @@ For today, let’s choose `No` and `Continue`.
 
 > Screen: Tell us about yourself [Empty]
 
-- First, can you describe this page to me? What’s included?
+- First, can you summarize this page for me?
 
 We’re not going to fill in your information. For today, we’re just going to go through this page, and I’d like you to tell me how you’d answer the question. You don’t actually need to tell me your personal information, I’m more focused on how you would put in your information.
 
 So, for example, I might say, “I’d start by typing my first name in this box.” And so on.
 
-- What would do first?
+- What would you do first?
 - And in this next field?
 - (Continue until bottom of the page - Gender)
 - Why do you think VA needs this information?
