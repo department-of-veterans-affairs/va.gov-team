@@ -44,6 +44,7 @@
 	-   False
 
 ### Key Findings (General):
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`,  `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 -   Most Veterans did not have security concerns with being logged into concurrent sessions on their accounts. Some saw using the internet as having an inherent risk but did not consider signing out of their devices as primary safeguard.
     
@@ -82,10 +83,13 @@
     
 
 ### Key Findings (Design):
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 -   Veterans assumed that hitting the “sign out” option under their name/profile would sign them out of all devices.
+	
     
 -   Once Veterans were informed about the new manage devices feature, most were able to navigate to the “Account Security” card to find the option.
+	-   
     
 -   Veterans desired a confirmation prior to and after signing out of a singular device and all devices.
     
@@ -93,6 +97,7 @@
   
 
 ### Key Findings (Password):
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 -   Most Veterans we spoke to used password management options through their phone or computer. Some still used pen and paper or memory to keep track of their passwords.
     
@@ -107,6 +112,7 @@
   
 
 ### Key Findings (Connected Apps):
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 -   Veterans don’t know or understand what connected apps are and have not connected other applications to their VA.gov accounts. None reported connecting any devices e.g. a fitness tracker to their account.
 
