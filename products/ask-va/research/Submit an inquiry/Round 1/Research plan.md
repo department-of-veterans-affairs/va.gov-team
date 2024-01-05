@@ -176,14 +176,14 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Thursday, Jan 25|12-1pm, 2-3pm, 3-4pm|
-|Friday, Jan 26|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
+|Thursday, Jan 25|11am-12pm, 1-2pm|
+|Friday, Jan 26|11am-12pm, 1-2pm|
 |Monday, Jan 29|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
 |Tuesday, Jan 30|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
 |Wednesday, Jan 31|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Thursday, Feb 1|12-1pm, 2-3pm, 3-4pm|
-|Friday, Feb 2|12-1pm, 2-3pm, 3-4pm|
-|Monday, Feb 5|12-1pm, 2-3pm, 3-4pm|
+|Thursday, Feb 1|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
+|Friday, Feb 2|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
+|Monday, Feb 5|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
 	
 ## Team roles
 
