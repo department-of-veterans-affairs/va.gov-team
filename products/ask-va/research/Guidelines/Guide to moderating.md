@@ -17,7 +17,7 @@ This guide is based on:
 * Turn on transcriptions by clicking `LIVE TRANSCRIPT` in the bottom toolbar. Then, in the `Live Transcription` section, click `ENABLE`.
 * Open the `#feedback-backchannel` on DSVA Slack. Start a thread, like this:
 
-      P1 - Ask VA, Submit an Inquiry research starts in 10 minutes 🧵
+      P1 - Ask VA: Round 1 research starts in 10 minutes 🧵
 
 * Copy these instructions into the thread:
 
