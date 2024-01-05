@@ -14,7 +14,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456
   
 ## Vet Center editor stats
 **OKR to measure the success of notifications reminding editors to review and update their webpage content** (_launched 10.01.2023_)
-- % of editors who have logged into CMS in the last 30 days (RCS leadsership and team editors excluded)
+- % of editors who have logged into CMS in the last 30 days (RCS leadership and team editors excluded)
 
 | Metric | Baseline measured 9.19.23 | October 2023 | November 2023 | December 2023 | 1Q 2024 | 2Q 2024|
 |---|---|---|---|---|---|---|
