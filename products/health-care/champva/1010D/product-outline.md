@@ -113,9 +113,9 @@ Veterans and family members of Veterans must currently download and fill out the
 - existing metrics
   
 #### Deliverables
-Design:
-Release:
-Staging: 
+- Design:
+- Release:
+- Staging: 
 
 ### Key Decisions
 
