@@ -33,7 +33,7 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 ---
 
 ## Overview
-In 2023, it was discovered that the online 21P-530 form was several versions behind it's paper counterpart. Because of this, the online form was missing key fields needed for efficient and effective claim processing. A project was undertaken to quickly add all missing fields, remove obsolete fields, and address any critical accessibilty issues.
+In 2023, it was discovered that the online 21P-530 form was several versions behind its paper counterpart. Because of this, the online form was missing key fields needed for efficient and effective claim processing. A project was undertaken to quickly add all missing fields, remove obsolete fields, and address any critical accessibilty issues.
 
 ## Problem Statement
 All online applications for burial benefits (530EZ) forms require additional development because required information is missing. This missing information causes delays in claim processing, places undo burden on applicants, and ultimately delays the receipt of benefits. Individuals submitting this form are often family members of deceased Veterans, caretakers of deceased Veterans, VSOs, social workers, funeral homes. By updating the online form to align with the most recent paper version, the number of online claims requiring development will be reduced and benefits will be received faster.
