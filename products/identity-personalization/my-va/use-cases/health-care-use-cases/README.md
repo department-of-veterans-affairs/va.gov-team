@@ -26,4 +26,4 @@ There are no flags associated with this feature.
 
 
 ## Flow diagrams
-- [User flow for health care on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)
+- [User flow for health care on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7253&mode=design)
