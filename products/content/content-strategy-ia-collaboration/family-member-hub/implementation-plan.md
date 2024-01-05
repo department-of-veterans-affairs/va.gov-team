@@ -14,19 +14,19 @@
 ### Product teams
 - Identify all products impacted by this effort that will require content, design, development, URL changes, and/or redirects
   -   Health care:
-      - Caregiver form (10-10CG) is in family member, but will have to move so will have a URL change.
-      - CHAMPVA form is in development. We'll need to make sure the form launches at the URL it will live at or will be able to move post-launch.
+      - **Caregiver form (10-10CG)** is in family member, but will have to move so will have a URL change.
+      - **CHAMPVA** form is in development. We'll need to make sure the form launches at the URL it will live at or will be able to move post-launch.
       - There will be more health care forms, but this work should be done before they launch.
   - Disability:
       - DIC: No live forms. Check with benefits on timing for forms and coordinate URL. This will be a tricky one because it's the 534-EZ which is for DIC, Pension, and Accrued benefits. There's also a 535-EZ for parent pension. There's another form for Accrued benefits. And there's a supporting form.
   - Education:
-      - DEA (22-5490) (also for FRY): Form will move into the family member hub and will require a URL change.
-      - Use transferred benefits (22-1990E): Form will move into the family member hub and will require a URL change.
+      - **DEA (22-5490) (also for FRY):** Form will move into the family member hub and will require a URL change.
+      - **Use transferred benefits (22-1990E):** Form will move into the family member hub and will require a URL change.
       - STEM: Won't move because it's for both Veterans and family members.
   - Careers
    - PCPG (25-8832): Won't move because this is for Veterans and dependents.
   - Pension
-    - Same form as DIC
+    - Same form as DIC.
   - Housing
     - Surviving spouse COE: Forms are not online at this time. Will need to connect with benefits as forms get digitized.
     - Life insurance
@@ -34,7 +34,7 @@
     - Burials
       - Pre-need: Form won't move because it's for Veterans and family members.
       - None of the memorial item forms are online at this time.
-      - Burial allowance: This should move into family member hub, but we may need to have more conversation about it.
+      - **Burial allowance:** This should move into family member hub, but we may need to have more conversation about it.
 
 ### Benefit hub and navigation 
 - Primary nav, home page, benefit hub pages, side nav, search
@@ -49,6 +49,7 @@
   - Future: Exploration around dynamically pulling in top Q&As or top R&S pages.
 - Left nav:
   - We'll need to implement this. We'll need to determine what we want to call the spokes.
+  - How do we want to handle the references to family member programs in the benefit hubs? We don't want to remove those, but we also don't want to have duplicative pages in both the benefit hubs and the family member hubs.
 - Footer:
   - Add "Family member" link in the audience column for footer.
 - Search
@@ -61,7 +62,17 @@
 
 ## Roll-out approach
 
-Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach
+Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
+
+- Health care (Health care and disability in family member hub)
+- Education
+- Disability
+- Pension 
+- Life insurance
+- Careers
+- Housing
+- Burials
+
 - Establish the overall structure needed in the new family member hub and build out appropriate landing pages and links
   - Is it possible to publish this structure with links pointing at the existing placement of all content?
   - Do we only publish the structure supporting a single hub as we work on it or can we launch the full structure?
