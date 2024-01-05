@@ -44,7 +44,6 @@ This test helped us achieve two goals:
 1. Verify via UAT that logged in Veterans are able to utilize recently added features and data is populating as expected.
 2. Understand Veteran's expectations as they choose a facility or provider when scheduling an appointment. 
 
-
 ## Research Questions
 
 **UAT:**
@@ -64,7 +63,7 @@ We asked 12 participants to log in to their VA.gov account and complete a series
 ## Hypotheses and Conclusions
 
 
-_Participants will be able to easily navigate to the appointments tool from all entry points._
+_**Participants will be able to easily navigate to the appointments tool from all entry points.**_
 
 _Definitely False_
 
@@ -73,19 +72,19 @@ Participants struggled with logging in and navigating to the Appointments tool f
 The easiest to use entry point was through My VA, followed by the MHV on VA.gov portal home.
 
 
-_Participants will be able to easily print a list of their appointments._
+_**Participants will be able to easily print a list of their appointments.**_
 
 _Definitely True_
 
 No participant had any trouble finding and using the print button.
 
-_Participants at Cerner facilities will be able to easily navigate to My VA Health._
+_**Participants at Cerner facilities will be able to easily navigate to My VA Health.**_
 
 _Likely True, Not enough information_
 
 We only spoke to two participants who were registered at Cerner facilities, so we don't have enough information to draw a conclusion. However, those participants were redirected to the Oracle Health portal at multiple points.
 
-_The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations._
+_**The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.**_
 
 _Likely False, not enough information_
 
@@ -164,7 +163,7 @@ The one who struggled was a Cerner user who didn't have a direct path to the app
 
 ### All participants easily navigated appointment details pages.
 
-Labels: 
+Labels: IA, list view, details view
 
 All participants quickly understood how to open details pages. 
 
@@ -176,7 +175,7 @@ Neither showed any sign of being confused about navigating back to the list view
 
 ### Most participants easily found their past appointments
 
-Labels: 
+Labels: IA, subnav
 
 Of those that had trouble: 
 - 2 left the appointments tool to look for their past appointments in their health history.
@@ -184,16 +183,18 @@ Of those that had trouble:
 
 ### Some participants struggled to understand their pending appointments.
 
-Labels: 
+Labels: Content, requests, pending appointments
 
 - 2 participants expected that the number next to Pending (0) should refer to their upcoming appointments.
 - 1 associated pending appointments with those requested through secure messages.
 - 2 had to think for a moment before selecting the Pending link
 
 
-### All participants were able to easily find and use the print button.
+### All participants were able to easily use the print feature.
 
-Labels: 
+Labels: Print, tertiary button
+
+Participants were able to easily find and use the print button.
 
 
 ## Scheduling Insights
@@ -201,19 +202,23 @@ Labels:
 
 ### Participants wanted a more personalized experience for selecting facilities.
 
-3 participants reported seeing unfamiliar or unexpected facilities in the list, such as those that were very far away. 3 wanted to see the facility they currently go to listed first. And 2 were confused that their Primary Care facility wasn't the only one listed when they selected Primary Care. 
+Labels: Scheduling, personalization
 
-Another participant said that their provider changes much more often than location, they would prefer to choose from providers based on their availability here. 
+3 participants saw unfamiliar or unexpected facilities in the list, such as those that were very far away. 3 wanted to see the facility they currently go to listed first. And 2 were confused that the facility where they currently receive Primary Care wasn't the first or only one listed when they selected Primary Care. 
 
-And 1 mentioned they'd like to have availability as the first option to choose from.
+1 mentioned they'd like to have availability as the first option to choose from. Another participant said that their provider changes much more often than location, so they would prefer to choose from providers based on their availability. 
 
-2 mentioned that it was easy to find the distance to the facility, and 2 others easily found their desired facility.
+2 said that it was easy to find the distance to the facility, and 2 others called out that they easily found their desired facility.
 
 ## Participants were confused about the request calendar.
 
-4 participants thought the request calendar was showing availability, and they would be able to schedule from there. 1 said they didn't trust that scheduling in this way would lead to an actual appointment.
+Labels: Scheduling, request, date picker
 
-## Participants were confused by the alert that told them Community Care was unavialable for podiatry.
+4 participants thought the request calendar was showing the clinic's availability for scheduling an appointment. 1 said they didn't trust that scheduling in this way would lead to an actual appointment.
+
+## Participants were confused by the alert that told them Community Care was unavailable for podiatry.
+
+Labels: Scheduling, community care, alerts
 
 2 participants said that they currently receive community care for podiatry, and were frustrated at this message.
 
@@ -242,125 +247,123 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/research-transcripts/2023-11-mhv-on-va-gov-phase-2b-vaos-uat)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ufbf7b24834e1195c028f5337)
+
+Task tracker spreadsheet TBD
 
 
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+**Primary criteria**
 
-We talked to **x participants.**
+- All participants must have upcoming appointments at the time of the study.
+- All participants must be willing to log into their account and share information about their appointments with the research team.
+- At least 2 participants must have upcoming appointments at facilities that use the Cerner EHR.
+
+**Secondary criteria:**
+
+- At least 4 participants who attend sessions on a mobile device.
+- At least 4 participants with a cognitive disabilty
+- At least 2 Screenreader users
+- At least 2 screen magnification users
+- At least 1 LGBTQ+ Veteran
+- At least 1 Native Veteran
+- At least 1 who lives in a rural area
+
+We talked to **12 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 12 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 8 
+* Female: 4 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Part of the LGBTQ+ community: 1
+* Transgender: Unknown
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: Unknown
+* Gay, lesbian, or bisexual: Unknown
+
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop/laptop: 10 
+* Tablet: 0 
+* Smart phone: 2 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 8
+* 45-54: 1
+* 55-64: 0
+* 65+: 3
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 4
+* Master's degree: 6
+* Doctorate degree: 1
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 7
+* Rural: 5
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 9
+* Black: 1
+* Hispanic: 3
+* Biracial: 2
+* Asian: 1
+* Native: 1
 
 
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+Disability and Assistive Technology (AT): 
+* Cognitive: 2
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* Assistive tech
+* No degree
+* Other than honorable
+* Immigrant origin
+* Expat
+
+[Recruitment checker results](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=379060411)
+
+![Screenshot of recruitment checker](<Screenshot 2024-01-05 at 1.59.12 PM.png>)
