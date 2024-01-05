@@ -308,19 +308,17 @@ Now, since you’re not able to fill in your information with this prototype, le
 
 Great. So we’ll pretend like you filled in this page. And click `Continue`.
 
-> Screen: Medical facility [Empty search]
+> Screen: Health facility [Empty search]
 
 - Can you describe this page to me? What is this page asking you to do?
-- Do you know why the VA is asking for your medical facility? Why?
-- Can you tell me what you would do first to search for your medical facility?
+- Do you know why the VA is asking for your health facility? Why?
+- Can you tell me what you would do first to search for your health facility?
 - What does search by name mean?
 - What does search by location mean?
 - Would you choose to search by name or location? Why?
 - If you wanted to search by location, where would you click?
 
-We’ll pretend like you live in [TBC city name] and you searched [TBC search term].
-
-Go ahead and click `Search`.
+For today, we'll say you live in New York and you we'll pretend like you start typing in "New." You can click on the box. 
 
 **Key things to notice:**
 - Do they notice that there’s two tabs without being prompted?
@@ -329,16 +327,35 @@ Go ahead and click `Search`.
 - Which option would they choose and why?
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Medical facility [Results]
+> Screen: Medical facility [Search results: List]
 
-Okay, so we’re pretending that you searched [TBC search term] and next you see this list.
+Okay, so you typed in "New" and now...
 
-- What would you do next on this page? Can you show me?
+- What are we seeing?
 
-Let’s click [TBC facility name] and then click `Continue`.
+Let's say your health facility is called James J. Peters.
+
+- What would you do next? Can you show me?
+
+Let’s click James J. Peters Department of Veterans Affairs Medical Center in the Bronx.
+
+**Key things to notice:**
+- Do they understand they can choose an option in the list now?
+- Are they surprised or frustrated by the length of the form?
+
+> Screen: Medical facility [Search results: Radio buttons]
+
+- Can you show me what you would do next?
+
+What if you realized James J. Peters wasn't actually your health facility. We won't click on anything, but...
+
+- Can you tell me what you would do if you needed to choose a different option?
+
+Okay great, let's go and ahead and click 'Continue.'
 
 **Key things to notice:**
 - Do they understand that they need to choose an option in the list and then click continue, without being prompted?
+- Is it clear that they're still reviewing search results?
 - Are they surprised or frustrated by the length of the form?
 
 > Screen: Phone and email [Empty]
