@@ -83,31 +83,37 @@ Spanning both surveys
     <th scope="row">Overall CSAT</th>
     <td>46%</td>
     <td>50%</td>
+    <td>36%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
     <td>19 users</td>
     <td>21 users</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
     <td>5 users</td>
     <td>8 users</td>
+    <td>3 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
     <td>6 users</td>
     <td>2 users</td>
+    <td>4 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
     <td>10 users</td>
     <td>8 users</td>
+    <td>1 user</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
     <td>16 users</td>
     <td>24 users</td>
+    <td>4 users</td>
   </tr>
 </table>
 
