@@ -62,18 +62,10 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 
 
-
-
-
 ## Analytics / Measuring Success
 
 
-## Feature Overview
- |Where|Status|
- |---|:-:|
- |Notification Settings Alert / CTA link| Pre Launch| 
 
-### What to know about this feature
 
 
 ## Future places to use this feature 
