@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: User has VA health care and does or does not have unread messages
 
-**Last updated:** October 27, 2023
+**Last updated:** January 5, 2024 (removal of reference to MyHealtheVet link on My VA)
 
 For LOA3 users who sign in and have VA health care and unread messages, we will show an indicator next to the "Go to your inbox" link in the Health care section of My VA, as well as other useful health care links. When a user does not have any unread messages, they will see the link to "Go to your inbox" in this section of My VA but without any indicator next to it.
 
@@ -22,7 +22,7 @@ For LOA3 users who sign in and have VA health care and unread messages, we will 
 
 ### Other health care links
 - When a user does not have any upcoming appointments, they will see a link to [“Schedule and manage your appointments”](https://va.gov/my-health/appointments) in the link list in this section.
-- All users who receive VA health care also see links in the Health care section for [Visit My HealtheVet on VA.gov](https://va.gov/my-health/), [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data).
+- All users who receive VA health care also see links in the Health care section for [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data).
 - If the user has an upcoming appointment, all secondary links show on the right hand side on desktop.
 
 ## How to reproduce
@@ -31,5 +31,5 @@ For LOA3 users who sign in and have VA health care and unread messages, we will 
 - Once logged in, you will be redirected to My VA.
 - Verify that if they have unread messages, you see a red indicator next to the "Go to your inbox" link that links to the secure messaging portal in My HealtheVet.
 - Verify that if they do not have any unread messages, you do not see a red indicator next to the "Go to your inbox" link.
-- Verify that you see secondary links to "Visit My HealtheVet on VA.gov", “Refill and track your prescriptions”, “Request travel reimbursement”, and “Get your VA medical records and lab and test results” and that these links appear on the right hand side on desktop if the user has upcoming appointments.
+- Verify that you see secondary links to “Refill and track your prescriptions”, “Request travel reimbursement”, and “Get your VA medical records and lab and test results” and that these links appear on the right hand side on desktop if the user has upcoming appointments.
 - Verify that if the user does not have upcoming appointments, the secondary links appear on the left hand side on desktop.
