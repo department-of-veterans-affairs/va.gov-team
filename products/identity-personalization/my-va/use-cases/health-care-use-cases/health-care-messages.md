@@ -11,7 +11,7 @@ For LOA3 users who sign in and have VA health care and unread messages, we will 
 ### User has unread message(s)
 
 - When a user has unread messages, they will see a red indicator next to the "Go to your inbox" link to indicate that they have unread messages.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZOP0Rqa)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A305&mode=design&t=0sqAEWapTl9rGnyL-1)
 - [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ACC876AD-8A95-4CF0-BC33-814C674A33D4)
 
 ### User does not have any unread messages
