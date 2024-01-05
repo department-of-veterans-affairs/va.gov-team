@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: 12/27/2023 -- updated projects**
+**Last Updated: 1/5/2024 -- added data dog dashboard**
 
 ## Table of Contents
 
@@ -98,7 +98,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ### Current projects
 
-Current projects are actively managed in the AE Profile Github project. See [this page of the project for the roadmap by phase](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/39), or see [this page for a classic gantt chart roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10). 
+Current projects are actively managed in the AE Profile Github project, the chart below is not as actively managed. See [this page of the project for the roadmap by phase](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/39), or see [this page for a classic gantt chart roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10). 
 
 |Project|Status|
 |----|----|
@@ -194,7 +194,9 @@ Current projects are actively managed in the AE Profile Github project. See [thi
 
 ## Analytics
 
+### Domo
 - [Profile Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
+### GA 
 - [Personal information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 - [Contact information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [Address validation GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
@@ -203,6 +205,9 @@ Current projects are actively managed in the AE Profile Github project. See [thi
 - [Notification preferences GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
 - [Account security GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
 - [Connected apps GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
+
+### Data Dog
+- [AE Profile Data Dog Monitors](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?view=spans)
 
 ## Backend
 
