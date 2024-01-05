@@ -103,7 +103,7 @@ Current projects are actively managed in the AE Profile Github project, the char
 |Project|Status|
 |----|----|
 |Alert Consistency|Discovery|
-|Enhanced Military Information|Design|
+|Enhanced Military Information|Design Intent (1/5/2024)/Dev|
 |Authenticated Menu Expansion (as part of Redesigned Header/Footer)|Preparing for Usability Testing|
 |MHV Migration / Email as a Channel|Dev|  
 |Maintenance Period Alerts|Dev|
