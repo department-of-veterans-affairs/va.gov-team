@@ -23,10 +23,11 @@ This guide is based on:
 
       How to observe this session:
       
-      * Please review [these guidelines](add link) before you join the session.
-      * If you signed up to take notes today, please use this [Mural board](add link).
+      * If you're notetaking, review [these guidelines](add link) before you join.
+      * If you're observing, review [these guidelines](add link) before you join.
+      * Open [this Mural board](add link).
       * Once (if) the participant agrees to have you join, I'll let you in from the Zoom waiting room.
-      * Instead of using the Zoom chat, please use this 🧵.
+      * Use this 🧵 and don't use the Zoom chat. Thanks!
 
 ## At the start of the session
 
