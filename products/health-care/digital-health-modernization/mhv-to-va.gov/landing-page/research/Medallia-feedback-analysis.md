@@ -183,12 +183,14 @@ Other:
     <td>
      <li>No (31 users / 83%)</li>
      <li>Yes (4 users / 11%)</li>
-     <li>Yes (2 users /  </li>
     </td>
     <td>
       <li>No (47 users / 88.6%)</li>
       <li>Yes (6 users / 11%)</li>
     </td>
+    <td>
+      <li> No (9 users / 81%)</li>
+      <li>Yes (2 users / 18%)</li></td>
   </tr>
 </table>
 
