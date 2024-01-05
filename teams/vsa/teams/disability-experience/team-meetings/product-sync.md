@@ -6,6 +6,9 @@
 ### Topics Covered:
 - Submission Polling
    - Is there an option of asking Lighthouse to change the polling implementation?
+     - Emily, Steve to reach out to Janet, Micheal Harlow on this
+     - Team 1 and 2 to look at options other than polling
+     - Look at best practices for sync responses
    - Concerns around scalability and questions around "how many times/how often/when do we stop/what then?"
    - Team 1 is currently in discovery mode for polling solution for 526 submission
    - Team 1 and 2 to look at all the use cases to see if different components need to be built for back-up submission (batch) or document upload ( different service)
