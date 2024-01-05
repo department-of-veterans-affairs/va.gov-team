@@ -1,4 +1,4 @@
-# Moderating research on the Ask VA Front End Team
+# Moderating research on the Ask VA Front End team
 
 Last updated by @tygindraux: January 5, 2024
  
