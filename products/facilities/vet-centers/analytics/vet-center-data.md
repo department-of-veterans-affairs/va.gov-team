@@ -78,21 +78,21 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456
 
 ### Top services
 (based on clicks on accordions)
-| Accordion | 1Q 2023 | 2Q 2023 | 3Q 2023 | 4Q 2023
-| ---| --- | ---| ---| ---| 
-Mental health care  	|	11,820	|	12,032	|	12,076 |11,408 |
-Veteran connections  	|	10,950	|	11,251	|	11,987 | 10,825 |
-Couples and family counseling  	|	9,103	|	9,435	|	9,876 | 9,577 |
-PTSD care  	|	8,778	|	8,753	|	8,555| 8,140|
-Community engagement  	|	7,578	|	7,615	|	7,686| 7,883 |
-Grief and bereavement counseling  	|	4,269	|	4,439	|	4,201|4,321 |
-Military sexual trauma care  	|	4,159	|	4,169	|	3,912| 3,858|
-Returning service member care	|	4,053	|	4,018	|	3,944| 4,102 |
-Whole health  	|	2,951	|	2,871	|	2,700| 3,113 |
-Suicide prevention  	|	2,943	|	3,021	|	2,802|2,726 |
-Addiction and substance use care  	|	2,928	|	4,297	|	4,210|4,340 |
-Homeless Veteran care | | | | 1,579
-Women Veteran care | | | | 1,419
+| Accordion | Required?| 1Q 2023 | 2Q 2023 | 3Q 2023 | 4Q 2023
+| ---| --- | ---| ---| ---| ---|
+Mental health care  	|Required 	|	11,820	|	12,032	|	12,076 |11,408 |
+Veteran connections  	|Required 	|	10,950	|	11,251	|	11,987 | 10,825 |
+Couples and family counseling  	|Required 	|	9,103	|	9,435	|	9,876 | 9,577 |
+PTSD care | 	Required 	|	8,778	|	8,753	|	8,555| 8,140|
+Community engagement | Required	|	7,578	|	7,615	|	7,686| 7,883 |
+Grief and bereavement counseling  	|Required 	|	4,269	|	4,439	|	4,201|4,321 |
+Military sexual trauma care  	|Required 	|	4,159	|	4,169	|	3,912| 3,858|
+Returning service member care	|Required 	|	4,053	|	4,018	|	3,944| 4,102 |
+Whole health  	|Optional 	|	2,951	|	2,871	|	2,700| 3,113 |
+Suicide prevention  	|Required 	|	2,943	|	3,021	|	2,802|2,726 |
+Addiction and substance use care | Required 	|	2,928	|	4,297	|	4,210|4,340 |
+Homeless Veteran care |Optional | | | | 1,579
+Women Veteran care |Optional | | | | 1,419
 
 ### Other interactions
 (based on clicks on links)
