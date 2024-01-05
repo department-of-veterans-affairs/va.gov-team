@@ -41,7 +41,7 @@ I work on making technology easier for Veterans to use in order to get informati
 
 What I *hope to do today* is to get your feedback on something new that we're working on. 
 
-What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may look at things that have caused you frustration, and I want you to know up front that I cannot make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
+What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may talk about things that have caused you frustration, and I want you to know up front that I cannot make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
 I have a colleague with us in this session who will be taking notes. *[Laura/CAIA person]* is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session.
 
@@ -81,22 +81,22 @@ Before we start, I want to go over a few things:
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share *(on phone, may need to scroll sideways or click **More...**)* or Share Screen *(on computer, button is green).*
+- In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a button that says Share *(on phone, may need to scroll sideways or click **More...**)* or Share Screen *(on computer, button is green).*
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the button that says **Share**. You will then see options for what to share. Please choose **"Screen"** (phone) or your web browser.
+- Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: **Broadcast screen**
 
-- *Backup plan if they cannot figure out how to share screen:*
-  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control--doesn't work w/iPhones]* Can you click and see if you can move your mouse around on my screen?
+- ~~*Backup plan if they cannot figure out how to share screen:*~~
+  - ~~Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control--doesn't work w/iPhones]* Can you click and see if you can move your mouse around on my screen?~~
 
-## Instructions for finding Zoom chat (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
+## Instructions for finding Zoom chat--NOT for screen readers
+- In the Zoom application on your phone or computer, there's a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
-    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and there should be more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handling Trauma-Triggering
@@ -184,13 +184,13 @@ Now I'm going to ask you to do some things...
 
 *(If we can't hear the screen reader)* Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
-I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me the same thing you see on your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
+I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
 
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
 ### Task 1: [Open prototype] 
-I'd like you to look at a web page that I'm going to share with you. 
+I'd like you to check out a web page that I'm going to share with you. 
 
 *Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
@@ -201,12 +201,12 @@ I will *[text/dictate/put into the Zoom chat]* the URL: ***TBD***
 
 Did you get the link? 
 
-- *If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
+- *If “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 
 ### Task 2: [First impressions]
-I would like you to take some time to look over this web page from top to bottom, and then tell me about it. I'm interested in your impressions of what you see, any questions that you have, and how you feel about it. 
+I would like you to take some time to check out this web page from top to bottom, and then tell me about it. I'm interested in your impressions of what's there, any questions that you have, and how you feel about it. 
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
@@ -221,7 +221,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - Footer
 
 *If participant needs prompting:*
-- Please take a look at the *entire* web page. You can scroll all the way down to the bottom.
+- Please check out the *entire* web page. You can scroll all the way down to the bottom.
 
 *RECORD navigation: header / footer / search / mobile search*
 
@@ -255,21 +255,21 @@ Pretend that lately you've been having difficulty with your hearing, and you thi
 ### Task 5: [Find a Form]
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
-Let's say that you're considering going back to school to get your degree, and you'd like to see if the VA can help you pay for it. How might you apply online?  
+Let's say that you're considering going back to school to get your degree, and you'd like to know if the VA can help you pay for it. How might you apply online?  
 
 *RECORD navigation: header > megamenu > Education and training > How to apply / **footer > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 - *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
-- *(If need more prompting)* You're looking for the application form to fill out online.
+- *(If need more prompting)* You want to find the application form to fill out online.
 
 ### Task 6: [Careers at VA]
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
 
-*RECORD navigation: header > megamenu > Careers and employment > Find VA careers and support / **footer > Careers at VA** / search / mobile search*
+*RECORD navigation: header > megamenu > Careers and employment > Find VA careers and support / **footer > More resources (mobile only) > Careers at VA** / search / mobile search*
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
@@ -333,13 +333,13 @@ Let's say that you recently moved and want to make sure that your mail and benef
     - *(More prompts if needed...)* 
     - Can you tell me about the very top of this page? *(USA Government)*
     - Can you talk about what's below that? *(VA seal and dept. name)*
-    - Can you scroll down and tell me what you see there? *(Footer--blue and black parts)* 
+    - Can you scroll down and tell me what's there? *(Footer--blue and black parts)* 
       - *(Any comments about size, organization, etc?)*
 
 1. How often do you use VA.gov?
 1. Do you use the VA mobile app? If so, how often?
 
-1. Overall, about everything you've seen in this session...What worked *well* for you?
+1. Overall, about everything on the web pages in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
