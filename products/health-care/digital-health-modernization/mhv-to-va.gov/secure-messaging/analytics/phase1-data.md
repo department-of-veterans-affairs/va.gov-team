@@ -22,17 +22,17 @@ _WTD = Week to Date, LTD = Launch to Date_
 
 ## **Secondary Metrics**
 
-| **Date** | **Use of 'Go back to previous version of secure messaging'** | 
-| --- | --- |
-| Phase 0 | 0 |
-| 11/6 - 11/12/23 |151|
-| 11/13 - 11/19/23 | 158 |
-|  11/20 - 11/26/23 | 135 |
-|11/27 - 12/3/23  | 179 |
-| 12/4 - 12/10/23 | 141 |
-| 12/11 - 12/17/23 | 143 |
-| 12/18 - 12/24/23 | 129 |
-| 12/25 - 12/31/23 | 90 |
+| **Date** | **Use of 'Go back to previous version of secure messaging'** | **% of Sessions** |
+| --- | --- | ---|
+| Phase 0 | 0 ||
+| 11/6 - 11/12/23 |151| 0.6%|
+| 11/13 - 11/19/23 | 158 | 0.6% |
+|  11/20 - 11/26/23 | 135 | 0.6% |
+|11/27 - 12/3/23  | 179 |0.8% |
+| 12/4 - 12/10/23 | 141 |0.7% |
+| 12/11 - 12/17/23 | 143 |0.8% |
+| 12/18 - 12/24/23 | 129 |0.8% |
+| 12/25 - 12/31/23 | 90 |0.7% |
 
 ## **Performance Metrics**
 _WTD = Week to Date, LTD = Launch to Date_
