@@ -56,8 +56,8 @@ ________________________________________________________________________________
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in**
      - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
-     - **Sub Goal: Pre-Check-in: Handle All VA Appointment Modalities (i.e. CVT, VVC, phone, in-person)**
-     - **Sub Goal: eCheck-in: Handle All VA Appointment Modalities (i.e. CVT, VVC, phone, in-person)**     
+     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**     
 - **GOAL: Increase PCI Usage**
      - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
@@ -93,7 +93,7 @@ ________________________________________________________________________________
          - 🟩🟪🟥 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72879)
      - **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
          - ❗ 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
-     - **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
+     - **Sub Goal: [eCheck-in: Handle 2 Modalities (in-person, CVT)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72238)**
          - ❗ 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)  
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
