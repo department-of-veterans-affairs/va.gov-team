@@ -79,21 +79,95 @@ Thanks!
 
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-## Scenario 1: - 5 minutes
-You previously scheduled a primary care appointment and want to know where the appointment is, how would you do that from here?
+## 1: Upcoming In-Person Appointment
+You know you have an appointment scheduled with Dr. Ralph Scott and want to know more information about it. How would you do that from here. 
 
-**Follow up:** Tell me about this page. 
+**Follow up:** 
+- What are your thoughts on this page?
+- What other tasks do you notice on this page?
 
 #### Things to watch for:
 
-- _Can the participant find their appointment?_
-- _Can participant find where their appointment is?_
+- _Can participant find **where** their appointment will be?_
+- _Can participant understand the information on the details page?_
 
+## 2: Pre check-in task - 5 minutes
+**If participant notices pre check-in, have them click "Review your personal healthcare contacts"**
 
+Go ahead and complete any tasks on this page. (Go to review your personal healthcare contacts.
 
-## Post-Task Interview - 5 minutes
+**Follow up:** 
+- What do/did you expect when you clicked that link?
 
-- Does anything you saw today reflect how you manage your health care appointments? 
+#### Things to watch for:
+
+- _Does participant notice the link?_
+- _Is the link percieved as a task?_
+- _Can participate find their way back from personal healthcare contacts page?_
+
+## 3: Upcoming video appointment
+You also have a video appointment scheduled with Allison Carter next month. You want more information on the appointment, how would you do that from here?
+
+**Follow up:** 
+- What are your thoughts on this page?
+- How would you get ready for this appoitment?
+- If this appointment were happening now, how would you attend?
+
+#### Things to watch for:
+
+- _Can participant find information on how to prepare for their appointment?_
+- _Does participant understand how to join their appointment?_
+- _Does participant notice the "join appoitnment" link before the other CTA's?_
+
+## 4: Phone appointment
+You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
+
+**Follow up:** 
+- How do you attend this appointment?
+- What else can you do from this page?
+
+#### Things to watch for:
+
+- _Does participant understand how to attend this appointment?_
+
+## 5: Cancelation
+You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
+
+**Follow up:** 
+- If you decided that you no longer wanted this appointment, how would you go about canceling it?
+- **Confirmation your cancelation:** What would you expect to see if you hit "Yes, cancel appointment"?
+- **Confirmation your cancelation:** What would you expect to see if you hit "No, do not cancel"?
+- **Appointment Canceled:** What can you do from here?
+
+#### Things to watch for:
+
+- _Can particpant find the cancelation button?_
+- _What does participant expect from canceling an appointment?_
+
+## 6: After visit summary
+You had a podiatry appointment last month and want to review what was discussed in the appointment. Where would you go to find that information?
+
+**Follow up:** 
+- Tell me about the experience of finding that information.
+
+#### Things to watch for:
+
+- _Can participant easilty find their after visit summary?_
+- _Can participant easily navigate back from their after visit summary??_
+
+## 7: Appointment request
+You made an appointment request and wanted to check on the status. How would you do that from here?
+
+**Follow up:** 
+- Tell me about the experience of finding that information.
+
+#### Things to watch for:
+
+- _Can participant find pending appoitments?_
+- _Does participant understand pending appointments?_
+- _Does participant understand the information on the details page?_
+
+## Post-Task Interview - 5 minutes 
 
 - Of everything you saw today, what was the most confusing, or challenging?
 
