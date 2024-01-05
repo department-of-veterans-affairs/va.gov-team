@@ -10,10 +10,8 @@ usability, and desirability of proposed enhancements.
 
 Veterans can file a request for a board appeal if they are dissatisfied or
 disagree with a VA decision on their benefits claim in hopes of receiving a
-higher benefits rating. Following release in April 2022, The Request for Board
-Appeal online form was released in April 2022. A post-launch [evaluative
-study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/research-findings.md)
-led to the following proposed enhancements:
+higher benefits rating. Following release in April 2022, a post-launch [evaluative
+study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/042023%20NoD%20Evaluative%20Research/research-findings.md) was conducted, leading to the following proposed enhancements:
 
 ### Context and Expectation-Setting Enhancements
 
