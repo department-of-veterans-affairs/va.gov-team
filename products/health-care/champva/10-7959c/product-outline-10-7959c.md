@@ -1,7 +1,5 @@
 
-# Product Outline - 10-7959c 
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
+# Product Outline - 10-7959c CHAMPVA Other Health Insurance (OHI) Certification
 ---
 
 ## Overview
