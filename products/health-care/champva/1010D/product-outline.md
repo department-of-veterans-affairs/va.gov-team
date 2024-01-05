@@ -87,7 +87,7 @@ Veterans and family members of Veterans must currently download and fill out the
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
 
-Collaboration Cycle
+- Collaboration Cycle
 [ ] CAIA kickoff: 11/29/23
 [ ] Design Intent: 1/9/24
 [ ] Research:
@@ -112,7 +112,11 @@ Collaboration Cycle
 - end to end data submission processes/storage and error handling
 - existing metrics
   
-  
+#### Deliverables
+Design:
+Release:
+Staging: 
+
 ### Key Decisions
 
 ---
