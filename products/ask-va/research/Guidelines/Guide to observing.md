@@ -1,6 +1,6 @@
 # Observing research on the Ask VA Integration team
 
-Last updated by @tygindraux: December 20, 2023
+Last updated by @tygindraux: January 5, 2024
  
 This guide is based on:
 * [VA.gov Platform: Guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
@@ -10,9 +10,9 @@ This guide is based on:
 
 ## Before the session
 
-* Remind yourself of the research objectives.
-* Clear your space, find your headphones and mute distractions, like Slack notifications.
-* Sign in to Zoom and change the display name to your first or preferred name.
+* Read the research plan to remind yourself of the research objectives.
+* Clear your space, find your headphones and mute distractions, like Slack notifications. Be prepared to have your camera on.
+* Sign in to Zoom and change the display name to your first or preferred name (your name shouldn't be "Observer").
 * Open (or join) `#feedback-backchannel` on DSVA Slack. Find the thread for your session.
 * Open the notes board in Mural (you can find a link in the meeting invitation or `#feedback-backchannel` thread). Find your session.
 
