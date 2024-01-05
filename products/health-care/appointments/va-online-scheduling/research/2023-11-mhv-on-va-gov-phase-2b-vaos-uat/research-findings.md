@@ -58,6 +58,8 @@ This test helped us achieve two goals:
 
 ## Methodology 
 
+FFRLKLJ.
+
 We asked 12 participants to log in to their VA.gov account and complete a series of tasks. 2 of the participants were registered at facilities that use Oracle Health/Cerner. 
 
 ## Hypotheses and Conclusions
@@ -67,16 +69,10 @@ _**Participants will be able to easily navigate to the appointments tool from al
 
 _Definitely False_
 
-Participants struggled with logging in and navigating to the Appointments tool from the My HealtheVet National Health portal. Participants at Oracle Health facilities struggled to navigate to the tool, though this is working as intended; most paths redirect them to the Oracle Health portal.
+Participants struggled with logging in and navigating to the Appointments tool from the My HealtheVet National Health Portal. Participants who were registered at Oracle Health facilities struggled to navigate to the tool, though this is working as intended; most paths redirect them to the Oracle Health portal.
 
-The easiest to use entry point was through My VA, followed by the MHV on VA.gov portal home.
+My VA was the easiest entry point for participants, followed by the MHV on VA.gov portal home.
 
-
-_**Participants will be able to easily print a list of their appointments.**_
-
-_Definitely True_
-
-No participant had any trouble finding and using the print button.
 
 _**Participants at Cerner facilities will be able to easily navigate to My VA Health.**_
 
@@ -88,7 +84,13 @@ _**The process of selecting a facility, clinic, or provider during scheduling wi
 
 _Likely False, not enough information_
 
-We were unable to consistently ask participants the same questions because different clinic configurations create different scheduling experiences. We also were unable to find a path to community care with any participant, so were unable to view provider selection. However, we did find that many aspects of scheduling didn't meet participant expectations, especially around the facilities we show for each type of care.
+We were unable to consistently ask participants the same questions because different clinic configurations create different scheduling experiences. We also were unable to find a path to community care with any participant, so were unable to view provider selection. However, we did find that many aspects of scheduling didn't meet participant expectations, especially around the facilities we show for each type of care. 
+
+_**Participants will be able to easily print a list of their appointments.**_
+
+_Definitely True_
+
+No participant had any trouble finding and using the print button.
 
 ## Key Findings
 
@@ -112,7 +114,7 @@ The two that did not complain or have trouble were both mobile users.
 
 Participants found 2-factor authentication to be the most frustrating issue, followed by the requirement to login multiple times to different portals, and confusion around the multiple methods for logging in.
 
-> I had a problem with this the other day where it asked me to log on again. That made no sense to me 'cause it already knew I was logged on, because up at the top right screen it says, "log out" and on the left side of the top screen it has my name, and my military service, and when I last accessed my account. So I have a go to My VA appointments, where it says 'Manage Appointments at...' And then it says, "Go to My Appointments" - where it asked me to log in again. And I never got to where I wanted to go. So you can see that the very next page is "Sign in to view/schedule/cancel your appointments online." This sucks. Why? Why do I have to sign in again? - P12
+> I had a problem with this the other day, where it asked me to log on again. That made no sense to me 'cause it already knew I was logged on, because up at the top right screen it says, "log out" and on the left side of the top screen it has my name, and my military service, and when I last accessed my account. So I have a go to My VA appointments, where it says 'Manage Appointments at...' And then it says, "Go to My Appointments" - where it asked me to log in again. And I never got to where I wanted to go. So you can see that the very next page is "Sign in to view/schedule/cancel your appointments online." This sucks. Why? Why do I have to sign in again? - P12
 
 Related finding: [Logging in was the biggest navigation challenge for participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md#logging-in-was-the-biggest-navigation-challenge-for-participants), Appointment list screenreader usability study, 05/2023
 
@@ -125,7 +127,9 @@ We started off by asking participants to go to VA.gov and find their appointment
 - My HealtheVet National Portal
 - My VA Health - the Oracle Health portal (participants who are registered at Oracle Health facilities.)
 
-In general, participants struggled when navigating across these portals, but some paths to the Appointments tool were more challenging than others.
+In general, participants struggled when navigating across these portals, but some paths to the Appointments tool were more challenging than others. An assessment of the key pages from most-challenging to easiest follows.
+
+> Okay, I'm gonna try to go back. I'm a little concerned that I'm gonna have to sign in again. But here we go. [Opens MHV on VA.gov portal] Oh, weird! Okay, this one has a different screen, too, from the normal MHV one. So I guess I'm not super familiar with this landing page. The initial one that I saw before is one that I'm more familiar with. - P9 discovering that there are two different health portals.
 
 **Oracle Health portal (My VA Health)**  
 The 2 participants at Oracle Health facilities easily navigated to the Oracle Health portal. Once they were in that portal, they could not easily navigate back to VA.gov. This is by design, as the Oracle Health portal opens in a new tab from VA.gov, and has no links back to VA.gov.
@@ -135,15 +139,15 @@ The 2 participants at Oracle Health facilities easily navigated to the Oracle He
 
 3 participants struggled to use the "Manage appointments at" page, which directs users to either VA.gov or Cerner. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they never attend in the list.
 
-![Page that moves users to VAOS. List of five facilities, where each   is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL.](./images/MHV%20Manage%20appts%20screen.png)  
+![Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL.](./images/MHV%20Manage%20appts%20screen.png)  
 _Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL._
 
 **VA.gov "Schedule and Manage Appointments" page** 
-<abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through this page. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of opening the Appointments tool. 4 were frustrated that they had to click the same button twice to access the Appointments tool after they logged in. One said they would have abandoned the process at this page if they had to deal with it outside of the test.
+<abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through this page. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of opening the Appointments tool. 4 were frustrated that they had to click the same button twice to access the Appointments tool after they logged in. One said they would have abandoned the process at this page if they were dealing with this outside the context of a study, they would have abandoned the process.
 
 **MHV on VA.gov portal home page.**
 All but one participant were able to easily navigate to the MHV on VA.gov home page from the Appointments tool without prompting:
-- 9 used the My HealtheVet button on the navbar.
+- 9 used the My HealtheVet button on the main site navigation.
 - 7 used the breadcrumb.
 - 2 used the dropdown in the Profile menu.
 
@@ -175,7 +179,7 @@ Neither showed any sign of being confused about navigating back to the list view
 
 ### Most participants easily found their past appointments
 
-Labels: IA, subnav
+Labels: IA, subnavigation
 
 Of those that had trouble: 
 - 2 left the appointments tool to look for their past appointments in their health history.
@@ -229,20 +233,19 @@ Labels: Scheduling, community care, alerts
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
+* Consider redirecting Veterans directly to the Appointment list after they log into the Schedule and Manage appointments page.
+* Consider relocating the content on the VA.gov Schedule and Manage appointments page.
     * _Supporting evidence_
-* Recommendation 2
+* On the MHV on VA.gov portal, replace the link to the Schedule and Manage appointments page with a direct link to the scheduling flow.
     * _Supporting evidence_
+* On the MHV National portal, remove the page that transitions users to VA.gov appointments.
+    * The functionality on this page is handled when the user arrives at VA.gov
+* Consider displaying the option to review Pending appointments only if the Veteran has pending or canceled appointment requests.
 
 
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
 ## Appendix
@@ -258,7 +261,8 @@ _If there are demographics that were not included in this study or you discovere
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ufbf7b24834e1195c028f5337)
 
-Task tracker spreadsheet TBD
+Task tracker spreadsheet TBD.
+
 
 
 
@@ -276,8 +280,8 @@ Task tracker spreadsheet TBD
 **Secondary criteria:**
 
 - At least 4 participants who attend sessions on a mobile device.
-- At least 4 participants with a cognitive disabilty
-- At least 2 Screenreader users
+- At least 4 participants with a cognitive disability
+- At least 2 screen reader users
 - At least 2 screen magnification users
 - At least 1 LGBTQ+ Veteran
 - At least 1 Native Veteran
@@ -307,7 +311,7 @@ LGBTQ+:
 Devices used during study: 
 * Desktop/laptop: 10 
 * Tablet: 0 
-* Smart phone: 2 
+* Smartphone: 2 
 * Assistive Technology: 0
 
 
