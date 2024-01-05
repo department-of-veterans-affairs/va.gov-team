@@ -265,8 +265,12 @@ Survey question 3: what task were you trying to do today?
 
 **Additional context around problems encountered:**
 * **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content)
+  * Site says I don't have appointments
+  * Red notification dot for messages doesn't go away
+  * Feedback button not working on some pages
 * **Login issues** - could also include registration (My HealtheVet National Portal)
-* **Findability** - couldn’t find something 
+* **Findability** - couldn’t find something
+  * How to upload a form
 * **Issues with travel reimbursement** 
 * **Missing context or explanation** for users to interpret/understand their medical information
 * **Couldn't get help** from call center or the MHV Helpdesk was unresponsive. 
@@ -279,10 +283,11 @@ Survey question 3: what task were you trying to do today?
 * **FIX IN PROGRESS 12/23**: 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
 
 ## Possible future enhancements? 
+* 1 user was looking for a way to upload a form
 * 1 user expected to be able to update/change their address online
 * 1 user expected the ability to add a second address to their profile (need different billing and shipping addresses)
 * 1 user was unable to verify private insurance online
-* 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments.
+* 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments
 
 ## Joys users expressed
 * Learned new things 
@@ -290,7 +295,8 @@ Survey question 3: what task were you trying to do today?
 * Saw correct information
 * Feel secure on VA.gov
 
-### Positive quotes from Veterans
+### Quotes from Veterans
+* "The page loading is slow, the system is not intuitive, you've added the need for more "clicks" to navigate." - 1/5/24, Desktop user
 * "I feel like they [VA.gov] are doing a great job." - 12/3/23, Desktop user
 * "Feels secure getting on. Easy navigation." 12/5/23, Desktop user
 * "All information was readily available." - 12/9/23, Desktop user
