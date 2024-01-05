@@ -1,7 +1,7 @@
 # Initiative Brief: Editing as a Sub-Task 
 ### Initial Launch with Mobile Phone Number Add/Update 
 
-**Last updated: December 11, 2023 --** Updated metrics
+**Last updated: January 5, 2024 --** Updated metrics
 
 #### Overview
 
