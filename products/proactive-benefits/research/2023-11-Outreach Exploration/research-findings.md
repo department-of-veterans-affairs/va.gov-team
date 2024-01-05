@@ -10,15 +10,15 @@ Daniela Jones <daniela.jones@coforma.io>
 
 **Jump to:**
 
-- Hypotheses and conclusions
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
 
-- Key findings
+- [Key findings](#summary-of-key-findings)
 
-- Recommendations
+- [Recommendations](#recommendations)
 
-- Further research needed
+- [Further research needed](#further-research-needed)
 
-- Who we talked to
+- [Who we talked to](#who-we-talked-to)
 
 
 ## Research Readout
