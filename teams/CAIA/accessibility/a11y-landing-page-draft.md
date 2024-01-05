@@ -12,7 +12,7 @@ Page draft starts below:
 
 # Accessibility on VA.gov
 
-`version 1.0.0` `last updated 1/4/24`
+`version 1.0.0` `last updated 1/5/24`
 
 This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
 
@@ -104,6 +104,8 @@ When designing an interface, follow these best practices:
 Don't re-create the wheel! The [VA Design System ](https://design.va.gov/)(VADS) is here to help. VADS Components are well-documented and have been reviewed for accessibility issues. Whenever possible, default to using an existing component or pattern in your designs.
 - [VA Design System components Sketch library](https://www.sketch.com/s/610156b6-f281-4497-81f3-64454fc72156/symbols)
 - [VA Design System components Figma library](https://www.figma.com/file/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?type=design&mode=design&t=Ld7dhuyaPcerrnPF-0)
+
+Designing a form? Use [VA's common form pattern templates](https://www.figma.com/file/ht0ih1JzdyRGZYvvvN8jxQ/Form-templates---BETA---Veteran-Facing-Forms-team?type=design&node-id=112-13359&mode=design&t=GTU8TV4ONFLifJCs-0) (Figma).
 
 #### Use accessibility annotations
 A lot can be lost in translation when handing off your designs to a developer. Use accessibility annotations to make your intentions clear. It's especially important to annotate information that is semantically important, but not obvious on visual inspection:
