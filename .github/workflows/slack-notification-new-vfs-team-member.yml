@@ -1,0 +1,21 @@
+name: Notify Slack
+
+on:
+  issues:
+    types:
+      - created
+
+jobs:
+  ticket-creation:
+    name: Create Completed Ticket
+    runs-on: ubuntu-latest
+    if: ${{ contains(github.event.issue.labels.*.name, 'platform-tech-team-support') &&
+        (contains(github.event.issue.title, 'New VFS Team Member') || 
+        contains(github.event.issue.title, 'Platform Orientation Template'))
+        }}
+    steps:
+      - name: Send Slack message
+        uses: archive/github-actions-slack@v1.0.3
+        with:
+          slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          slack-channel: platform-infrastructure-alerts
