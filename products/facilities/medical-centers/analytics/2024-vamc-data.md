@@ -1,15 +1,24 @@
-**2024 VAMC page data**
+# 2024 VAMC page data
 
 Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 
-## VAMC editor stats
+- [VAMC editor stats](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#vamc-editor-stats)
+- [Summary data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#summary-data)
+- [Top 5 button interactions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-5-button-interactions)
+- [Top 15 health services at system level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-15-health-services-at-system-level)
+- [Top 15 health services at facility level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-15-health-services-at-facility-level)
+- [Unique pageviews on required health service pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-required-health-service-pages)
+- [Unique pageviews on other specified pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-other-specified-pages)
+- [Monthly Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#monthly-satisfaction-scores)
 
+## VAMC editor stats
 | Metric | Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
 |---|---|---|---|---|
 | Total # of editors | | | |
 | % which have never logged in | | | |
 | % which logged in during the 30 days prior | | | |
 
+## Summary data
 | 	Metric	| 	Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
 | --- | ---| ---|  --- | ---
 | Unique users	| | | |
@@ -35,7 +44,6 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 
 ### Top 15 health services at system level
 (based on click interactions on accordions)
-
 Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.domo.com/page/426422632)
 
 |Service | 	Q4 2023 | Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
@@ -58,7 +66,6 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 
 ### Top 15 health services at facility level
 (based on click interactions on accordions)
-
 Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/page/426422632)
 
 |Service | 	Q4 2023 | Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
