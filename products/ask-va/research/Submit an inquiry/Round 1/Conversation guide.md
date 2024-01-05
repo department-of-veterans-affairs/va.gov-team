@@ -40,7 +40,7 @@ Last updated by @tygindraux: January 3, 2024
 - [Chapter 1: Category and topic - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-1-category-and-topic-5-minutes)
 - [Chapter 2: Your question - 8 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-2-your-question-8-minutes)
 - [Chapter 3: Personal information - 12 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-3-personal-information-12-minutes)
-- [Chapter 4: Review and submit - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-4-review-and-submit-10-minutes)
+- [Chapter 4: Review and submit - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-4-review-and-submit)
 - [Submission page - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#submission-page-5-minutes)
 - [Cool down - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#cool-down-5-minutes)
 
