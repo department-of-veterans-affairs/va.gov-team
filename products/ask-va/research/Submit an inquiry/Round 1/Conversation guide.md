@@ -134,6 +134,7 @@ First, I'll give you a second to read the page more closely.
 For the rest of our conversation, I’d like you to imagine that you need to ask VA a question. Let's say it's a question about a recent experience you had at a VA medical center.
 
 - What would you do first if you wanted to ask a question about an experience you had at a VA medical center?
+  - Can you tell me, without clicking anything yet?
   - Where would you click?
   - Why would you click `Sign in` (or) `Continue without signing in`?
 - Does it seem like you need to sign in, in order to start?
@@ -159,7 +160,7 @@ Okay, so I mentioned earlier that we’re imagining that you want to ask a quest
 
 - Can you show me what you would do first on this page?
   - Why would you choose `Health care` or [whatever they choose]?
-- Why do you think the VA is asking you this question?
+- Before we click anything else, why do you think the VA is asking you this question?
 - How important do you think it is to answer this question correctly?
 - How long do you think this process is going to take?
 - Before we move on, what do you expect to see on the next page?
@@ -463,7 +464,9 @@ Go ahead and click `Edit` (Contact information).
   - Why do you think that is?
   - What if you wanted to change your contact preference? What would you do?
 
-Great. Let’s go ahead and submit your question (click, `Submit question`).
+Great. Let’s go ahead and click `Cancel`.
+
+And now we're ready to submit your question (Go ahead and click, `Submit question`).
 
 **Key things to notice:**
 - Is it clear that this is nearly the end of the form, before you submit your question?
