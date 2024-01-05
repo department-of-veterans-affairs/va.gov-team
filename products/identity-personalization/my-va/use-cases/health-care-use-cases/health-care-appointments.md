@@ -20,8 +20,8 @@ For LOA3 users who sign in and have VA health care, we will show a card with dyn
 - When a user does not have any upcoming appointments, they will see text in this section that states “You have no upcoming appointments to show.”
 	- When a user has unread messages, this text shows directly below the messages alert  on the left hand side on desktop.
 - When a user does not have any upcoming appointments, they will see a link to [“Schedule and manage your appointments”](https://va.gov/my-health/appointments) in the link list in this section.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A370&mode=design&t=0sqAEWapTl9rGnyL-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A820&mode=design&t=0sqAEWapTl9rGnyL-1)
 
 ### Other health care links
 
