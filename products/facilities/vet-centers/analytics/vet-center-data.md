@@ -1,4 +1,6 @@
 ## Vet Center page data (Roll-out through 2023)
+Or view [2024 Vet Center page data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/analytics/2024-vet-center-data.md)
+
 Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
 
 - [Vet Center editor stats](#vet-center-editor-stats)
