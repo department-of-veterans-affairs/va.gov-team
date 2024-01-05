@@ -287,11 +287,11 @@ Rhe VA trauma community is a grassroots, volunteer led multi-disciplinary commun
 - How to design for Veterans with [Traumatic Brain Injuries](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2177892586/Traumatic+Brain+Injury+TBI)
 
 ### Technical considerations
-- [Buttons vs links](https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit#slide=id.ge8045de9aa_0_0)
-- [Focus management](https://docs.google.com/presentation/d/1XSy61Hhh3SFic_3fS_DotQ_QfPbTEKeuVIE7gH2O4aI/edit#slide=id.g100cc953fd1_0_0) and [focus tracking](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2206531715/Focus+Tracking) `these might be too duplicative??`
-- [Headings](https://docs.google.com/presentation/d/1iYnPVPYzPsESY2miDtNhg3aEtve9IEnr8_TuEevInZA/edit?usp=sharing)
-- [Links](https://docs.google.com/presentation/d/14AwUoFOg_Ix1Txl9oePtPD1ntOpylBWwBJMYq9f5vmo/edit?usp=sharing)
-- [Live regions](https://docs.google.com/presentation/d/1-r6xRByAcqF4AiHTh6ffZ7GmoWZevjiwkjjcLp3K52k/edit?usp=sharing)
+- [Buttons vs links and action links](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Buttons-and-Links-and-Action-Links)
+- [Focus management](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Focus-Management) and [focus tracking](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2206531715/Focus+Tracking) `these might be too duplicative??`
+- [Headings](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Headings)
+- [Links](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Links)
+- [Live regions](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Live-Regions)
 
 ### Assistive technology
 - [Getting started with keyboard navigation and screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc02-getting-started-with-keyboard-navigation-and-screen-readers)
