@@ -166,6 +166,11 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 #### Results:  
 - Anomalies
 - Rollbacks:
+    -       Rollback reason: Window of no traffic recorded, slightly higher overall error rate than expected based on EVSS side
+            Date: 1/5/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
 
 <br>
 
