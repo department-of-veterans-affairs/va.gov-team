@@ -49,7 +49,7 @@
   - Future: Exploration around dynamically pulling in top Q&As or top R&S pages.
 - Left nav:
   - We'll need to implement this. We'll need to determine what we want to call the spokes.
-  - How do we want to handle the references to family member programs in the benefit hubs? We don't want to remove those, but we also don't want to have duplicative pages in both the benefit hubs and the family member hubs.
+  - How do we want to handle the references to family member programs in the benefit hubs? We don't want to remove those, but we also don't want to have duplicative pages in both the benefit hubs and the family member hubs. We may have duplicative landing pages for family member benefits for a bit.
 - Footer:
   - Add "Family member" link in the audience column for footer.
 - Search
@@ -64,18 +64,19 @@
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
 
-- Health care (Health care and disability in family member hub)
-- Education
-- Disability
-- Pension 
-- Life insurance
-- Careers
-- Housing
-- Burials
+1. Top-level hub and landing pages
+2. Health care (Health care and disability in family member hub)
+4. Education
+5. Disability
+6. Pension
+7. Life insurance
+8. Careers
+9. Housing
+10. Burials
 
 - Establish the overall structure needed in the new family member hub and build out appropriate landing pages and links
-  - Is it possible to publish this structure with links pointing at the existing placement of all content?
-  - Do we only publish the structure supporting a single hub as we work on it or can we launch the full structure?
+  - Is it possible to publish this structure with links pointing at the existing placement of all content? Yes.
+  - Do we only publish the structure supporting a single hub as we work on it or can we launch the full structure? Answered above. We're going to build out the hub and top level landing pages and then built out by hub.
 - Build out new content and modified Veteran content as needed to support and gain stakeholder approval as needed
 - Complete any design and development work needed to support moving forms/tools to their new location
 - Move any existing content pages
