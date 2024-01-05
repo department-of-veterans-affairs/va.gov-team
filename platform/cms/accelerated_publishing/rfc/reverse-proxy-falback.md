@@ -2,7 +2,7 @@
 
 - Date: 2024-01-04
 - Related Issue: [va.gov-cms #14469](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14469) (Content Build / Next Build traffic routing)
-- Status: for review and comment
+- Status: open for review and comment
 
 ## Background
 The changes proposed in this RFC are designed to address bringing [Next Build / Accelerated Publishing](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6577) to production. Next Build is a new front-end build system intended to replace [Content Build](https://github.com/department-of-veterans-affairs/content-build) as the mechanism by which CMS content is built and delivered to the Veteran.
