@@ -93,7 +93,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
-  -  Perigean to recruit **10 Veterans, caregivers, or family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
+  -  Perigean to recruit **11 Veterans, caregivers, or family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
  
 
 ### Required criteria (in decreasing order of priority)
@@ -101,12 +101,15 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
     - **ALL** must use a screen reader or screen magnifier **every time** they access the Internet 
       - **5** must use a screen reader
       - **5** must use a screen magnifier
-    - **At least 3** have a smartphone or tablet and are willing to use it for the session and... 
-      - Have Zoom downloaded to their mobile device prior to the session and know how to share their screen 
-      - Are willing to share over Zoom a web browser window on their mobile device 
-      - Have a working microphone on their mobile device 
-    - **At least 5** have a computer and are willing to use it for the session  
-    - **At least 7** are Veterans
+     - **At least 5** have a computer and are willing to use it for the session
+     - **At least 3** have a smartphone and are willing to use it for the session 
+     - **ALL** 
+        - Have Zoom downloaded to their device prior to the session and know how to share their screen 
+        - Are willing to share over Zoom a web browser window 
+        - Have a working microphone on their device 
+      
+    - **At least 8** are Veterans
+
   - *Secondary criteria:*
      - At least 2 people are age 55 or older 
      - At least 2 people 35 or under 
@@ -154,8 +157,8 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **Jan 17** 12 - 5 pm ET
 - **Jan 18** 12 - 5 pm ET
+- **Jan 19** 12 - 5 pm ET
 
 Please invite Cindy (cindy.merrill@adhocteam.us) and Amanda (amanda.klausmeier@va.gov) to the kickoff call.
 
@@ -166,7 +169,7 @@ We will schedule 1-2 **pilot tests**:
 - Pilot 2: **Jan 25 at TIME TBD ET** with TBD (tbd@adhocteam.us)
 
 ### Research sessions
-Planned dates of research: **Jan 29 - Feb 6, 2024**
+Planned dates of research: **Jan 29 - Feb 7, 2024**
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -186,7 +189,7 @@ Feb 1, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
 Feb 2, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
 Feb 5, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
 Feb 6, 2024 | 12-1:30, 3:30-5, 6-7:30 pm
-
+Feb 7, 2024 | 3:30-5, 6-7:30 pm
 
 
 ## Team Roles	
