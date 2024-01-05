@@ -17,36 +17,43 @@ Spanning both surveys
     <td></td>
     <th scope="col">4/1/23-10/31/23</th>
     <th scope="col">11/1/23-12/15/23</th>
+    <th scope="col">12/16/23-1/5/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
     <td>93</td>
     <td>117</td>
+    <td>25</td>
   </tr>
   <tr>
     <th scope="row">A11 Intercept Survey</th>
     <td>56 responses</td>
     <td>64 responses</td>
+    <td>14 responses</td>
   </tr>
   <tr>
     <th scope="row">VFS Feedback Button Survey</th>
     <td>37 responses</td>
     <td>53 responses</td>
+    <td>11 responses</td>
   </tr>
   <tr>
     <th scope="row">Desktop users</th>
     <td>70</td>
     <td>102</td>
+    <td>23</td>
   </tr>
   <tr>
     <th scope="row">Mobile users</th>
     <td>20</td>
     <td>12</td>
+    <td>2</td>
   </tr>
   <tr>
     <th scope="row">Tablet users</th>
     <td>3</td>
     <td>3</td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -64,11 +71,13 @@ Spanning both surveys
     <td></td>
     <th scope="col">4/1/23-10/31/23</th>
     <th scope="col">11/1/23-12/15/23</th>
+    <th scope="col">12/16/23-1/5/23</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
     <td>56</td>
     <td>64</td>
+    <td>14</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
