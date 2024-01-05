@@ -72,31 +72,47 @@ Before we start, a few things I want to mention:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## First Task: Notifications - 10 minutes 
+- Prior to your appointment, did you answer questions online to help your provider prepare for your appointment?
+- If yes,
+  - How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
+    - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
+      - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
+      - [eScreening text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening-text.jpg)
+      - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
+      - [BHL text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Text.png)
 
-- How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
-  - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
-    - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
-    - [eScreening text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening-text.jpg)
-    - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
-    - [BHL text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Text.png)
+  - How far in advance of your appointment did you receive this notification? 
 
-- How far in advance of your appointment did you receive this notification? 
+    - Do you feel that you were given enough time or not enough time to answer the questions prior to your appointment? 
 
-  - Do you feel that you were given enough time or not enough time to answer the questions prior to your appointment? 
+    - Would you want to receive this notification at a different time prior to your appointment than you did, such as earlier to later? Why? 
 
-  - Would you want to receive this notification at a different time prior to your appointment than you did, such as earlier to later? Why? 
+    - Please review the information in this notification and share your overall impressions. Think aloud as you review. 
 
-  - Please review the information in this notification and share your overall impressions. Think aloud as you review. 
+    - [**Notetaker:** Note any observations about the following things: What do they comment on as confusing or valuable without prompting?] 
 
-  - [**Notetaker:** Note any observations about the following things: What do they comment on as confusing or valuable without prompting?] 
+    - Was there anything about the notification that is unclear? 
 
-  - Was there anything about the notification that is unclear? 
+    - Would you add, delete, or change about the content within the notification? 
 
-  - Would you add, delete, or change about the content within the notification? 
+  - How much time do you estimate it took you to complete the questions after clicking on the [text or email]?
+- If no,
+  - I'm going to share a [text/email] to you now and ask you a few questions?
+    - Share your screen with the next example, so we make sure that all options have been reviewed. This is also determine what prototype you share with them.:
+      - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
+      - [eScreening text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening-text.jpg)
+      - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
+      - [BHL text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Text.png)
 
-- How much time do you estimate it took you to complete the questions after clicking on the [text or email]? 
+  - How far in advance of your appointment would you expect to receive this notification? Why?
 
- 
+    - Please review the information in this notification and share your overall impressions. Think aloud as you review. 
+
+    - [**Notetaker:** Note any observations about the following things: What do they comment on as confusing or valuable without prompting?] 
+
+    - Was there anything about the notification that is unclear? 
+
+    - Would you add, delete, or change about the content within the notification? 
 
 ## Second Task: Complete the clinical reminders - 20 minutes 
 
@@ -113,7 +129,7 @@ Before we start, a few things I want to mention:
 
   - What do you expect to happen next, since you answered these questions? 
 
-    - Does that match what actually happened next at your appointment with your provider knowing that they reviewed your answers? Why or why not? 
+    - [Skip if they haven't filled out a questionnaire] Does that match what actually happened next at your appointment with your provider knowing that they reviewed your answers? Why or why not? 
 
   - If you could change one thing about this question experience, what would that be? 
 
@@ -122,7 +138,7 @@ Before we start, a few things I want to mention:
 ## Post-Task Interview - 10 minutes 
 
   
-
+### Ask these questions if they have filled out a questionnaire prior to an appointment before
 - Now, I’m going to ask you a series of questions about your experience answering these questions at home (or wherever you previously chose) and not what we reviewed here today.  
 
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult, how easy or difficult was it to answer these questions? 
@@ -145,6 +161,29 @@ Before we start, a few things I want to mention:
 
 - Okay, great! That is all the questions I have for you today. 
 
+
+### Ask these questions if they never filled out a questionnaire before
+- Now, I have just a few more questions for you.
+
+- On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult, how easy or difficult was it to answer these questions? 
+
+- Would you expect answering these questions online prior to your appointment to impact the quality of your appointment with your provider in any way? If so, how? 
+
+- Would answering the questions on your own time impact your responses compared to answering them with your provider? If so, how? 
+
+- Were the number of questions you answered online today: 
+
+  - Too many 
+
+  - Not enough 
+
+  - Just right 
+
+- What would you estimate the ideal number of minutes or question sets to complete at one time prior to one appointment? 
+
+- And lastly, do you have any questions for me? 
+
+- Okay, great! That is all the questions I have for you today. 
   
 
 ## Thank-You and Closing - 3 minutes 
