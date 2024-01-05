@@ -2,7 +2,7 @@
 
 Ask VA Front-End Team
 
-Last updated by @tygindraux: December 20, 2023
+Last updated by @tygindraux: January 5, 2023
 
 **Jump ahead to:**
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#background)
@@ -193,8 +193,8 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 * Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: [TBC]
 * Accessibility specialist: –
-* **Notetakers: Perigean (In Github)**
-* Observers: Tyler will add observers to the invites herself, to keep sessions to no more than 5 people (1 participant, 1 moderator, and up to 3 observers). Observers will receive guidelines to review.
+* Notetakers: Tyler will add observers to the invites herself, to keep sessions to no more than 5 people (1 participant, 1 moderator, 1 notetaker and up to 2 observers).
+* Observers: Tyler will add observers to the invites herself, to keep sessions to no more than 5 people (1 participant, 1 moderator, 1 notetaker and up to 2 observers).
 
 ## Approved by:
 
