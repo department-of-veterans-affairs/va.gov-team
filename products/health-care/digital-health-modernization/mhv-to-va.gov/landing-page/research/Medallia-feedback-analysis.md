@@ -118,7 +118,7 @@ Spanning both surveys
 </table>
 
 Other: 
-* Users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large.
+* For the most part, users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large. This was true except for the following outliers: one individual gave a score of 1 for customer satisfaction but gave 4, 4, and 5 for the VA.gov understanding, general VA trust, and trust in VA commitment to Veterans respectively; two individuals gave customer satisfaction scores of 3 and gave a 5 for trust in VA commitment to Veterans.
 * Users who give high scores for their overall experience also gave higher scores regarding their familiarity with VA.gov, were more trustworthy of the VA, and reported higher scores for their experience with the VA writ large.
 
 ## Details - VFS Feedback Button survey
@@ -134,47 +134,56 @@ Other:
     <td></td>
     <th scope="col">4/1/23-10/31/23</th>
     <th scope="col">11/1/23-12/15/23</th>
+    <th scope="col">12/15/23-1/5/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
     <td>37</td>
     <td>53</td>
+    <td>11</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
     <td>8%</td>
     <td>11.3%</td>
+    <td>9%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
     <td>21 users</td>
     <td>30 users</td>
+    <td>9 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
     <td>6 users</td>
     <td>8 users</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
     <td>2 users</td>
     <td>4 users</td>
+    <td>none</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
     <td>3 users</td>
     <td>1 user</td>
+    <td>none</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
     <td>none</td>
     <td>5 users</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Could user complete their task?</th>
     <td>
      <li>No (31 users / 83%)</li>
      <li>Yes (4 users / 11%)</li>
+     <li>Yes (2 users /  </li>
     </td>
     <td>
       <li>No (47 users / 88.6%)</li>
