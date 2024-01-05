@@ -193,7 +193,7 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 * Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: [TBC]
 * Accessibility specialist: –
-* Notetakers: Tyler will add observers to the invites herself.
+* Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 
 Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker and up to 2 observers.
