@@ -111,7 +111,8 @@ A lot can be lost in translation when handing off your designs to a developer. U
 - Anything that's using non-default styling (for example, an `H3` that's styled to look like an `H2`)
 - Text that's only accessible via assistive technology - alt text, aria-labels (for example, an "Edit" link with the `aria-label` "Edit address")
 - Focus management between pages or screens
-- Tab/focus order
+- Reading order
+- Tab/focus order (for interactive elements)
 - Any elements requiring `aria`
 - Alt text for images/icons
 - `Legend` and `fieldset`, if you're creating a form
