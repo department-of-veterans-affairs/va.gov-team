@@ -1,6 +1,6 @@
 # Moderating research on the Ask VA Front End Team
 
-Last updated by @tygindraux: December 21, 2023
+Last updated by @tygindraux: January 5, 2024
  
 This guide is based on:
 * [VA.gov Platform: Guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
