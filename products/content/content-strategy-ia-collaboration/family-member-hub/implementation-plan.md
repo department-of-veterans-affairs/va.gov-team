@@ -17,9 +17,16 @@
 ### Sitewide products and components
 - Primary nav, home page, benefit hub pages, side nav, search
 - Research, design, dev, CMS?
+- Top nav
+  - Do we want to implement a flyout menu? There isn't one now. Let's revisit the conversation about the 2 column headers for hubs that don't necessarily map to "Get"/"Manage" (like this one and records). Will revisit this. We can do the discovery around the technical lift and then will decide if we try to include this in the launch.
+- Hub page
+  - For tasks: Don't use teaser text
+  - Future: Exploration around adding actual tags pulled from CMS (vs. our "pseudo" tags that are there now) and making them interactive to impact display.
+- Benefit detail pages
+  - Future: Exploration around dynamically pulling in top Q&As or top R&S pages.
 
 ### Resources and support
-- Ability to select more than 1 audience
+- Ability to select more than 1 audience - Complete
 - Landing page design
 
 
