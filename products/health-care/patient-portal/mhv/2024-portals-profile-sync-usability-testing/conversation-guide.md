@@ -36,9 +36,9 @@ _[Start recording.]_ 
 
     - How often?
 
-- Do you access your profile information?
+- Are you familiar with your profile in My HealtheVet or VA.gov?
 
-    - How often?
+    - What do you know about it?
 
 - What type of device are you using today? 
 
@@ -74,7 +74,6 @@ _**[My Profile page]**_
 [_If they scroll first]_
 
 - What can you tell me about the information on this page?
-- Why do you think there are boxes around the My HealtheVet contact information, but not the VA contact information?
 - Can you tell me why you immediately started scrolling?
 
 Please return to the top of the screen
@@ -85,8 +84,8 @@ _[if they stop at the top_ _or after they scroll]_
   - What do you think is meant by 'connect?'
 - What do think My HealtheVet wants you to do here?
 - Why do you think you are being asked to do this?
-  - How do you feel about it?
-- How long do you think it will take? What makes you say that?
+  - What would motivate you to complete this task?
+- How long would you expect that to take? What makes you say that?
 
 Please select 'Connect your My HealtheVet and VA profile information.'
 
