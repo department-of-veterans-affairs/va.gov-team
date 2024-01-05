@@ -12,7 +12,7 @@ This guide is based on:
 
 * Read the research plan to remind yourself of the research objectives.
 * Clear your space, find your headphones and mute distractions, like Slack notifications. Be prepared to have your camera on.
-* Sign in to Zoom and change the display name to your first or preferred name (your name shouldn't be "Observer").
+* Sign in to Zoom and change the display name to your first or preferred name (your name shouldn't be "Observer" or "Notetaker").
 * Open (or join) `#feedback-backchannel` on DSVA Slack. Find the thread for your session.
 * Open the Mural board (you can find a link in the meeting invitation or `#feedback-backchannel` thread). Find your session.
 
@@ -28,6 +28,8 @@ This guide is based on:
 ## Throughout the session
 
 * Instead of using Zoom chat, use the session 🧵 in `#feedback-backchannel` to communicate with your team. You can write reflections, or even a question you'd like the researcher to try and add in.
+* Take **verbatim** notes, or as close as possible to verbatim. These will be used by the researcher to analyze the sessions, and pull direct quotes from during synthesis.
+* For each key moment or idea, use a new sticky note.
 
 ### If something goes wrong
 
@@ -45,4 +47,5 @@ This guide is based on:
 
 * After each session, we will have an optional 10 minute debrief. Please leave and rejoin the same meeting link.
 * Write your top 3 key takeaways in Mural.
+* Take a moment to decode any acronyms, fix any mistakes (don't worry about little ones), or add details to your notes.
 * If you have further questions or comments for the moderator, reach out to them directly.
