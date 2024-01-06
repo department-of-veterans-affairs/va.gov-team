@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: The messaging API is down and we can’t tell if the user has any unread messages
 
-**Last updated:** October 27, 2023
+**Last updated:** January 6, 2024 _(added Figma links)
 
 For LOA3 users who sign in and the messaging API is down, if they have VA health care, they will see a secondary link to send a secure message to their health care team.
 
