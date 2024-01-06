@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care
 
-**Last updated:** August 25, 2023
+**Last updated:** January 6, 2024 _(Removal of MHV link, updated with Figma links)_
 
 For LOA3 users who have VA health care but sign in when the appointments API is down, they will see an error in the Health care section on My VA as well as other useful health care links.
 
