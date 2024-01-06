@@ -1,6 +1,6 @@
 # My VA: Health Care Use Cases
 
-**Last updated:** November 16 , 2023 (updates to user does not have health care use case)
+**Last updated:** January 5, 2024 (removal of MHV link, addition of Figma links)
 
 ## Overview of Health Care:
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS, or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
