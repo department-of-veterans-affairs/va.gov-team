@@ -29,7 +29,7 @@ These errors will be shown even if the editor's original intention was not to ed
 * VFS-Facilities
 * Public websites
 ### Editors
-* VHA-MC
+* VA-MC
 * Vet Centers
 * VBA
 
@@ -50,7 +50,7 @@ These errors will be shown even if the editor's original intention was not to ed
   * Assignee: Marcia and Berni
   * Date: January 09, 2024
 ### External Communication of new feature
-* VHA-DM Office Hours
+* VA-DM Office Hours
    * Type: async
   * Assignee: Marcia or Berni
 ### Documentation
