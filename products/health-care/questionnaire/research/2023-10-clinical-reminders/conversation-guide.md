@@ -38,7 +38,7 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
   
 
-Today we're going to talk about your experience receiving a text or email, then answering health questions online. These questions helped your primary care provider prepare for your recent medical appointment. 
+Today we're going to talk about an experience receiving a text or email, then answering health questions online. These questions can help your primary care provider prepare for your medical appointment. 
 
   
 
