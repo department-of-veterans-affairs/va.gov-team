@@ -161,7 +161,7 @@ ________________________________________________________________________________
          - ✔️ ❗ 🟥 [[Design] Create Final Wireframes & Content for Letting Veteran Know BTSSS is Down](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72047)
 - **GOAL: Make Travel Claims Easier**   
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**       
-        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
+        - 🚧 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
