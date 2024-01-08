@@ -76,7 +76,7 @@ ________________________________________________________________________________
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
   - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support eCheck-in for CERNER Sites**
-         - 🟩 [SPIKE: Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
+         - ❗ 🟩 [SPIKE: Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
  - **GOAL: Address Usage Issues**
      - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
          - ❗ 🟥 [[UX] [Content] Decide whether to have modality-specific error pages or modality-agnostic error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72429)
@@ -110,7 +110,7 @@ ________________________________________________________________________________
         - 🟥 [[UX] [Design] Clean up pages in Figma Production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73002)
         - 🟥 [[UX] [Design] Create a local reusable component in Figma (similar to a local Symbol in Sketch)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73006)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
-       - 🟥 TBD - Kelly????
+       - 🟥 [[UX][Content] AUDIT: Audit Priority 1 headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72258)
 
 ------- END FUTURE / TENTATIVE ------
 </details>
@@ -180,7 +180,7 @@ ________________________________________________________________________________
         - ~🟩 [[FE] Switch icons to v3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71840)~
             - We are waiting on the DS to address the ticket we created for them before so this has been moved to a future sprint 
         - ✔️ 🟩 [[FE] DS v3 #3: Update slim alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
-        - 🟩 [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
+        - 🟩 [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)            
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
        - 🟩 [[FE] Update Production and Unified h1 headings to align with Design System requirements of 52 characters or less and one sentence headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72266)
     - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71867)
