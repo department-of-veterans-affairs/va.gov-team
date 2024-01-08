@@ -13,8 +13,11 @@ The following describes the several different named "`id`"s that a "Form526Submi
 5. `job_id` (`Form526JobStatus.job_id`): `job_id` is used after submitting to the vets-api endpoint `/submit_all_claim` after the `Form526Submission` job is created and underway. `job_id` is used on the vets-website frontend to "poll" the `Form526JobStatus` table in the vets-api table. This is done through the endpoint `/submission_status` on vets-api, that returns a `Form526JobStatus` record, that has a foreign key relationship with the `Form526Submission` table's `id` column. The pertinant data that the `submission_status` endpoint needs to send back from the endpoint is the `Form526Submission`'s `submitted_claim_id`, which is known as `claim_id` to the `Form526JobStatus`.
 
 Answers to the following questions:
-1. Where is Form526Submission ID used?
+1. Where is Form526Submission ID used? `Form526Submission.id`, or better known in the code as `submission.id` is, used in the subsequent ancillary jobs after a VBMS CLAIM ID is established.
 2. Where is SavedClaim ID used? Is it relevant to the initial submission?
-3. What is submitted_claim_id?
-4. How important is the jId (job ID) that is returned in the initial submission process? Check the frontend polling mechanism
-5. Which one is VBMS ID?
+   `saved_claim_id` is only used for logging mechanisms in the vets-api ecosystem. It is not pertinent to any of the `Form526Submission` tasks.
+4. What is submitted_claim_id?
+   `submitted_claim_id` is the VBMS CLAIM ID that is retrieved by EVSS after submittions to VBMS.
+6. How important is the jId (job ID) that is returned in the initial submission process? Check the frontend polling mechanism.
+   The `job_id` is very impotant for the frontend to receive from the vets-api `/submit_all_claims` endpoint. It is used for the frontend polling mechanism to receive the status of the Form526 submission job, and eventually displays the VBMS CLAIM ID to the user.
+8. Which one is VBMS ID? `submitted_claim_id`
