@@ -1,5 +1,18 @@
 # Design Weekly Sync Agenda
 
+## 2024-01-08
+Attendees: Angela, Hieu, Jessica, Katelyn, And Heather
+
+- Error Matrix - The team decide that Github would only hold the link while the Mural would have the Source of Truth.
+
+- Team discussed the use of the UX ticket spreadsheet has a place to organize and plan the tickets.
+
+- EZR MVP UAT presentation for HEC
+    - Angela presented the current slide deck.
+    - Team discuss the possible Next Steps to present: EZR V2 including short-form (Recommendation 1), the Review/Sub-task flow (Recommendation 3), and the Post-MVP usability research (recommendation 2). Angela will talk to Alex in regards to the overall priorities, including NoK/EC. And we should include that all of these features will be incrementally released. 
+
+- Team discuss the possibility of presenting the Registration Only work to the OCTO. There were two schools of thought; present sooner to show the struggle with a reluctant stakeholder or present later in hopes of capturing some progress through workshops. 
+
 ## 2023-12-18
 Attendees: Angela, Hieu, Jessica, Katelyn, And Kristen
 
