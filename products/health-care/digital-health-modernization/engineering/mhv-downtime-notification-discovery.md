@@ -94,4 +94,5 @@ The following shows an alert that the Appointments app displays based on the val
 
 - [MHV-52770 downtime notifications](https://github.com/department-of-veterans-affairs/vets-website/pull/27233)
 - [Platform docs on "downtime notifications"](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications)
+- [Removal of end time from `Down` messaging](https://github.com/department-of-veterans-affairs/vets-website/pull/10416)
 
