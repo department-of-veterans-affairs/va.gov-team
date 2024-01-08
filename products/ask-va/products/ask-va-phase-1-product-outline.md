@@ -4,7 +4,7 @@ Last updated by @beckyphung on January 8, 2024
 **Jump to:**
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Outcomes and Objectives](#outcomes-and-objectives)
+- [Outcomes](#outcomes)
 - [Measuring Success](#measuring-success)
 - [Solution Approach](#solution-approach)
 - [Launch Strategy](#launch-strategy)
@@ -22,8 +22,6 @@ Submitter should easily and intuitively be able to ask a question through Ask VA
    - **Where**: The form needs to reside in VA.gov so that it is easily locatable and can potentially integrate with other VA.gov applications (ex. Chatbot).
 
 **How might we** create an inquiry form that is easier for Veterans and other users to ask VA a question online?
-
-## Outcomes
 
 ## Outcomes
 We expect Veterans and other submitters to meet these outcomes after we launch Phase 1: 
