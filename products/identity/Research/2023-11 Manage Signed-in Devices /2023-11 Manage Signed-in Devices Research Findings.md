@@ -1,4 +1,4 @@
-# 2023-12 Manage Devices Research Findings
+# 2023-11 Manage Devices Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Manage Signed-in Devices, Core Identity team**
 
@@ -11,93 +11,74 @@
 ### Research Goals:
 
 -   Explore Veterans' knowledge of personal device management as well as management of concurrent sessions on multiple devices.
-    
 -   Explore Veterans' understanding of the use cases for device management and the security implications of multiple active sessions on various devices.
-    
 -   Test the user flow for how a Veteran would access device management and signing out of multiple devices at once.
     
 
 ### Research Questions:
 
--   Are there any potential concerns about ending sessions and signing people out of their accounts on all devices? (Review previous research on stickiness of sessions).
-    
--   Does the prototype allow users to successfully navigate to and utilize the proposed user flow for managing their devices?
-    
--   What updates to the user flow could we incorporate to make it more intuitive for Veterans?
-    
--   Is there any confusion regarding connected applications and device management?
+1. Are there any potential concerns about ending sessions and signing people out of their accounts on all devices? (Review previous research on stickiness of sessions).
+2. Does the prototype allow users to successfully navigate to and utilize the proposed user flow for managing their devices?
+3. What updates to the user flow could we incorporate to make it more intuitive for Veterans?
+4. Is there any confusion regarding connected applications and device management?
     
 ### Methodology:
--  Remote usability testing will evaluate the prototype with participants. We’ll use Perigean’s Zoom account for these remote sessions. We plan to test with both mobile and desktop users and with assistive tech users.
--  
+-  Remote usability testing will evaluate the prototype with participants, in remote sessions over Zoom. We tested with both mobile and desktop users.
+
 ### Hypotheses and Conclusions:
 
--   Veterans will be split on their understanding of a rationale for signing out of all devices.
+1. Veterans will be split on their understanding of a rationale for signing out of all devices.
 	-   Mostly False
--   Most Veterans will never have used the option of signing out of all of their devices on other websites.
+2. Most Veterans will never have used the option of signing out of all of their devices on other websites.
 	-   Mostly True
--   Veterans will need an explanation of the implications of signing out of all their devices in order to make an informed decision to proceed.
+3. Veterans will need an explanation of the implications of signing out of all their devices in order to make an informed decision to proceed.
 	-   False
--   Veterans will expect the platform to take accountability for their security e.g. if there are suspected instances of malware, phishing scams, etc. the VA.gov website will automatically end all user sessions and inform the Veteran.
+4. Veterans will expect the platform to take accountability for their security e.g. if there are suspected instances of malware, phishing scams, etc. the VA.gov website will automatically end all user sessions and inform the Veteran.
 	- Mostly True
--   Veterans are willing to sacrifice security for convenience of not having to sign back into their devices.
+5. Veterans are willing to sacrifice security for convenience of not having to sign back into their devices.
 	-   False
 
 ### Key Findings (General):
-Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`,  `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`,  `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
--   Most Veterans did not have security concerns with being logged into concurrent sessions on their accounts. Some saw using the internet as having an inherent risk but did not consider signing out of their devices as primary safeguard.
-    
+-   Most Veterans did not have security concerns with being signed into concurrent sessions on their accounts. Some saw using the internet as having an inherent risk but did not consider signing out of their devices as primary safeguard.
 
 	-   Related to Hypothesis 1
-    
 
--   Most Veterans stated that they had not leveraged the sign out of all devices option on any other websites. A couple were able to state that they had logged out of a streaming account or Facebook account, but it took prodding for them to recall they had taken such an action.
-    
-
+-   Most Veterans stated that they had not leveraged the sign out of all devices option on any other websites. A couple were able to state that they had signed out of a streaming account or Facebook account, but it took prodding for them to recall they had taken such an action.
+  
 	-   Related to Hypothesis 2, Question 3
-    
 
 -   Veterans did not have difficulty with choosing to sign out of their devices remotely when presented with the option and understood the inherent implications (that they'd lose their sessions and would be prompted to sign back in), and they did not express any hesitation to complete the action.
-    
 
 	-   Related to Hypothesis 3
-    
 
--   Most Veterans recognized that the systems would log them out after a certain time out period. However, they did not solely leave security considerations up to the platform(s)/applications; they also protected their accounts with MFA options when it wasn't too cumbersome or closed out their applications/browsers.
-    
+-   Most Veterans recognized that the systems would sign them out after a certain time out period. However, they did not solely leave security considerations up to the platform(s)/applications; they also protected their accounts with MFA options when it wasn't too cumbersome or closed out their applications/browsers.
 
 	-   Related to Hypothesis 4 and 5
-    
 
 -   Surprisingly, Veterans understood that being timed out was a security protocol intended to protect them so they understood that they would always have to re-enter their credentials to gain access to VA.gov. However, some Veterans expressed frustration at the time it took to complete logging in process, especially once MFA was added as an additional security measure.
     
-
 	-   Related to Hypothesis 5
     
-
--   Most Veterans recognized that the systems would log them out after a certain time out period. However, they did not solely leave security considerations up to the platform(s)/applications; they also protected their accounts with MFA options when it wasn't too cumbersome or they proactively closed out their applications/browsers.
-    
+-   Most Veterans recognized that the systems would sign them out after a certain time out period. However, they did not solely leave security considerations up to the platform(s)/applications; they also protected their accounts with MFA options when it wasn't too cumbersome or they proactively closed out their applications/browsers.
 
 	-   Related to Hypothesis 4 and 5
-    
 
 ### Key Findings (Design):
-Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 -   Veterans assumed that hitting the “sign out” option under their name/profile would sign them out of all devices.
 	
     
--   Once Veterans were informed about the new manage devices feature, most were able to navigate to the “Account Security” card to find the option.
-	-   
+-   Once Veterans were informed about the new manage devices feature, most were able to navigate to the “Account Security” card to find the option.  
     
 -   Veterans desired a confirmation prior to and after signing out of a singular device and all devices.
-    
 
   
 
 ### Key Findings (Password):
-Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
 -   Most Veterans we spoke to used password management options through their phone or computer. Some still used pen and paper or memory to keep track of their passwords.
     
@@ -108,7 +89,6 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 -   Most Veterans would attempt to change their password if they suspected their accounts were tampered with or there was a sign in from a device they did not recognize.
     
 
-  
   
 
 ### Key Findings (Connected Apps):
@@ -125,7 +105,7 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 |---|---|
 | 1 | Indicate time period for which the devices are shown e.g. 45 days.  |
 | 2 | Replace sign out button with “signed out” for devices that are no longer active.  |
-| 3 | Add in disclaimer that the user will be logged out of all sessions including the current session and will need to log back in if they confirm “sign out of all devices”.  |
+| 3 | Add in disclaimer that the user will be signed out of all sessions including the current session and will need to sign back in if they confirm “sign out of all devices”.  |
 | 4 | Hyperlink “changing your password” in the body text.  |
 | 5 | Work with _____ to create a communication plan for feature roll-out since this is a new user experience.  |
 
@@ -141,21 +121,19 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 #### Recommendations - Security
 
-1.  Users have an expectation that they will be automatically logged out of their sessions in 30 minutes; if we are extending this time period to 45 days, Veterans should be educated on the security implications of concurrent sessions.
-    
-2.  Collaborate with CSPs to ensure how we might educate Veterans on account security is consistent, e.g. password management, password reset, usage of MFA, etc.
-    
-3.  Consider proactive measures to warn Veterans about suspicious logins from new devices or locations.
+|   | Recommendation  |
+|---|---|
+| 1  | Users have an expectation that they will be automatically sign out of their sessions in 30 minutes; if we are extending this time period to 45 days, Veterans should be educated on the security implications of concurrent sessions. |
+| 2  | Collaborate with CSPs to ensure how we might educate Veterans on account security is consistent, e.g. password management, password reset, usage of MFA, etc. |
+| 3  | Consider proactive measures to warn Veterans about suspicious sign-ins from new devices or locations. |
 
 
 
 ### Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-See also our [Research Plan section on recruitment criteria] (https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/433) 
+See also our [Research Plan section on recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/433) 
 
 We recruited participants who either used their desktop or mobile devices to access Va.gov.  We wanted a mix between the various devices in order to test this new user flow.
 
