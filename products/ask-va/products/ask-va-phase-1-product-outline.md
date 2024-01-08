@@ -29,14 +29,14 @@ We expect Veterans and other submitters to meet these outcomes after we launch P
 ### Desired submitter outcomes
 1. **Better submission experience**: It's easier for Veterans and other submitters to send questions on VA.gov through AVA. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy%3A%20Phase%201.md#design-strategy).)
 2. **Better dashboard experience**: While signed in on VA.gov, it's easier for Veterans and other submitters to view and reply to past AVA questions. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy%3A%20Phase%201.md#design-strategy).)
-3. **More seamless experience**: Veterans’ and other submitters’ AVA experience and data is more consistent and seamless with other VA channels
-4. **CRM integration**: Veterans and other submitters continue to reliably communicate with VA through AVA
+3. **More seamless experience**: Veterans’ and other submitters’ AVA experience and data is more consistent and seamless with other VA channels.
+4. **CRM integration**: Veterans and other submitters continue to reliably communicate with VA through AVA.
 
 ### Undesired submitter outcomes
-1. **Worse submission experience**: It's _harder_ for Veterans and other submitters to send questions on VA.gov through AVA
-2. **Worse dashboard experience**: While logged into VA.gov, it's _harder_ for Veterans and other submitters to view and reply to past AVA questions
-3. **More disjointed experience**: Veterans’ and other submitters’ AVA experience and data is _less_ consistent and seamless with other VA channels
-4. **Unsuccessful CRM integration**: Veterans and other submitters _cannot_ reliably communicate with VA through AVA
+1. **Worse submission experience**: It's _harder_ for Veterans and other submitters to send questions on VA.gov through AVA.
+2. **Worse dashboard experience**: While signed in on VA.gov, it's _harder_ for Veterans and other submitters to view and reply to past AVA questions.
+3. **More disjointed experience**: Veterans’ and other submitters’ AVA experience and data is _less_ consistent and seamless with other VA channels.
+4. **Unsuccessful CRM integration**: Veterans and other submitters _cannot_ reliably communicate with VA through AVA.
 
 ### Desired Business Outcomes
 1. **More internal alignment**: There’s improved internal alignment on OCTO, VES, and MCT goals and improved relationships with stakeholders regarding Ask VA because we’re working closer together.
