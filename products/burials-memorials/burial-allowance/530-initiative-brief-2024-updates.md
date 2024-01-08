@@ -30,7 +30,7 @@ Decrease the amount of time it takes applicants to receive burial allowance bene
 
 **Related/Associated product(s)**
 - 21P-530EZ | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/README.md)
-- 21P530EZ  | [Landing Page](https://www.va.gov/burials-and-memorials/application/530/introduction)
+- 21P-530EZ  | [Landing Page](https://www.va.gov/burials-and-memorials/application/530/introduction)
 
 ## Problem
 All online applications for burial benefits (530EZ) forms require additional development because required information is missing. This missing information causes delays in claim processing, places undo burden on applicants, and ultimately delays the receipt of benefits. Individuals submitting this form are often family members of deceased Veterans, caretakers of deceased Veterans, VSOs, social workers, funeral homes. By updating the online form to align with the most recent paper version, the number of online claims requiring development will be reduced and benefits will be received faster. The current online form also contains some outdated form components and accessibility issues that will be addressed on the pages impacted by the field updates.
@@ -114,19 +114,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
+- [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65251)
 - [CAIA Review Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68984)
 - [Epic - Update Burial 530 Online Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63351)
 
 ### Timeline 
-- Design Intent: October 19. 2023
-- Midpoint Review: December 19. 2023
-- Staging Review: February 2024 (target)
+- Design Intent: October 19, 2023
+- CAIA Kickoff Meeting: November 6, 2023
+- Midpoint Review: December 19, 2023
+- Staging Review: February or March 2024 (target)
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-release-plan-2024-updates.md)
 
 #### Initiative Launch Dates
-- *Target Launch Date*: February 2024
+- *Target Launch Date*: February or March 2024
 - *Actual Launch Date*:
 
 ---
