@@ -43,7 +43,7 @@ All in one file, on one tab
 
 | Dates                 | Submitted By | Ticket | Status |
 | --------------------- | ------------ | ---- | ------ |
-| Week 1 Dec 31–Jan 06  | Peter Russo  | []() |        |
+| Week 1 Dec 31–Jan 06  | Peter Russo  | [73165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73165) | In Progress       |
 | Week 2 Jan 07–Jan 13  | Peter Russo  | []() |        |
 | Week 3 Jan 14–Jan 20  | Peter Russo  | []() |        |
 | Week 4 Jan 21–Jan 27  | Peter Russo  | []() |        |
