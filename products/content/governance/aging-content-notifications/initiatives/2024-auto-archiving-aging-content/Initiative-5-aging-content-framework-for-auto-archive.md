@@ -67,7 +67,7 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 - - Home Page News Spotlight blokcs are to be used for news and information relevant to Veterans. They should only display for seven (30) days and be auto-archived on Day 30, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
 
 ## In Scope for this Initiative:
-Goal: Create a framework for auto-archiving, either a new on, or by adding on to the new notification framework. The framework should be extendable to other content types, if desired in the future. 
+Goal: Create a framework for auto-archiving, either a new on, or by adding on to the new notification framework. The framework should be extendable to other content types, if desired in the future. It should accommodated any timeframe configured and then assigned for a particular content type, such as shown in examples below.
  
 - As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below, which will be implemented after the framework is completed.
   - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
@@ -83,7 +83,7 @@ Goal: Create a framework for auto-archiving, either a new on, or by adding on to
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content is auto-archived based on the timeframe assigned to it | **AS A** PO/PM, **I WANT** to know that content will be auto-archived on the last day of the timeframe assigned to it, **SO THAT** Veterans, their caregivers and other VA.gov users see only current, relevant information | |
+| Content is auto-archived based on the timeframe assigned to it | **AS A** PO/PM, **I WANT** to know that content will be auto-archived on the last day of the timeframe assigned to it, **SO THAT** Veterans, their families, caregivers, and survivors see only current, relevant information | |
 
 --- 
 
