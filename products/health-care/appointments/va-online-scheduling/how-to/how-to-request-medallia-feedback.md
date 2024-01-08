@@ -23,11 +23,9 @@ A tool for Veterans to schedule and manage their appointments online.
 **Survey URL(s), key term(s), case category or type**
 
 ```
-**Note**: Please include the City and State each comment originated from, if possible.
+Keywords (from any URL): appointment, appt, schedule
 
-Keyword: appointment (from any URL)
-
-AND All comments under and including these URLS and their subpaths:
+And all comments under and including these URLS and their subpaths:
 
 - `https://www.va.gov/health-care/schedule-view-va-appointments/`
 - `https://www.va.gov/my-health/appointments`
@@ -79,7 +77,7 @@ All in one file, on one tab
 | Week 49 December 4th - 10th          | Peter Russo      | ✅ [71661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71661) |
 | Week 50 December 11th - 17th         | Peter Russo      | ✅ [72130](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72130) |
 | Week 51 December 18th - 24th         | Peter Russo      | ✅ [72564](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72564) |
-| Week 52 December 25th - 31st         | Peter Russo      | [72767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72767) |
+| Week 52 December 25th - 31st         | Peter Russo      | ✅ [72767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72767) |
 
 </details>
 
