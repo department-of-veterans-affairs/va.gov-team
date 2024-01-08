@@ -155,8 +155,8 @@ ________________________________________________________________________________
          - ✔️ ❗ 🟥 [[Content] Create Content to tell Veterans to see staff at their appt time if they haven't been called back yet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72247)
          - ✔️ ❗ 🟥 [[Design] Create Final Wireframes in production Sketch file for confirmation pages to use pattern from unified check in experience's confirmation pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72243) 
       **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
-         - ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72594)
-         - ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72595)
+         - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72594)
+         - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72595)
          - ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for Video appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72598)
          - ❗ 🟥 [[UX][Content][Design] Create Final Wireframes & Content for Video appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72599)
          - ✔️ ❗ 🟩🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72638)
@@ -169,7 +169,7 @@ ________________________________________________________________________________
         - 🚧 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
+        - ✔️ 🟥 [[Content] Create content for canceled appts for check in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70820)
         - ✔️ 🟦 [[BE] Determine JSON response format for appointments and facilities info to vets-website](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72557)
         - 🟦 [[BE] Update Sequence Diagram for Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71783)
         - 🟦 [[BE] - Figure out which facilities endpoint to use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72147)
@@ -177,7 +177,7 @@ ________________________________________________________________________________
         - ✔️ 🟩 [[FE] - Unified demographics fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72443)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - ✔️ 🟥 [[Analytics] [UX] Add GA event with a 45MR param in GA Dashboard widget](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71632)
-       - 🟥 [Research] Analyze GA Metrics
+       - ✔️ 🟥 [Research] Analyze GA Metrics
 - **GOAL: Address Tech Debt**            
      - 🟥 [[UX] Get Local Review Environment Functioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71439)
      - **Sub Goal: [Switch Components to Design System v. 3](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/board)**
