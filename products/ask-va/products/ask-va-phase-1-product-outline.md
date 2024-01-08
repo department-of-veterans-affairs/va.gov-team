@@ -60,8 +60,8 @@ These OKRs measure the success of our Phase 1 launch.
 - Key result 1.1: Complete VA.gov platform collaboration cycle steps
 - Key result 1.2: **Satisfaction** - Increase customer satisfaction score (CSAT) from the current ask.va.gov benchmark
 - Key result 1.3: **Task completion** - Increase the percentage of successful sent questions from the current ask.va.gov benchmark
-- Key result 1.4: **Rerouting** - Decrease the percentage of inquiries that are rerouted at least once by agents to another queue from the current ask.va.gov benchmark
-- Key result 1.5: **Resolution time** - Decrease the average time it takes for a Veteran to get their inquiry resolved by an agent from the current ask.va.gov benchmark
+- Key result 1.4: **Rerouting** - Decrease the percentage of questions that are rerouted at least once by agents to another queue from the current ask.va.gov benchmark
+- Key result 1.5: **Resolution time** - Decrease the average time it takes for a Veteran to get their question resolved by an agent from the current ask.va.gov benchmark
 
 
 #### Objective 2: Integrate with enterprise assets, such as VA Profile, as necessary and possible for Phase 1
@@ -76,9 +76,10 @@ These OKRs measure the success of our Phase 1 launch.
 ### Assumptions
 Improving the front-end of Ask VA will:
 - Increase user satisfaction of the application
+- Decrease the time it takes to ask a question
 - Increase the percentage of submitters that complete asking a question
-- Decrease the percentage of inquiries that are rerouted by agents
-- Decrease the resolution time of an inquiry
+- Decrease the percentage of questions that are rerouted by agents
+- Decrease the resolution time of a question
 
 Transitioning the Ask VA front-end to VA.gov design, content, and accessibility standards will improve user experience and bring more cohesiveness with the other services that the VA offers.
 
