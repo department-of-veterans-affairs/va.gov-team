@@ -21,7 +21,8 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-<img width="1200" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/0c9c2c39-5a48-4850-b851-7e4cf738c731">
+<img width="1200" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/cacc0099-2195-4bc2-b6ad-e46e3f29871a">
+
 
 
 
@@ -35,7 +36,7 @@
 - Notes: 
 
 **2) Caregiver claims - NEW**
-- URL: /family-caregiver-program-appeals/
+- URL: /family-caregiver-program-reviews/
 - Breadcrumb: Home > Decision reviews and appeals > [H1]
 - Notes: 
 
@@ -57,7 +58,7 @@
     - Notes: Match label to H1: Clinical Appeals of medical treatment decisions
   - Add link to Caregiver claims page
     - Placement description: Place after the clinical appeals option, it will be the 5th item in the list
-    - Link destination: www.va.gov/decision-reviews/family-caregiver-program-appeals/
+    - Link destination: www.va.gov/decision-reviews/family-caregiver-program-reviews/
     - Notes: Match label to H1: Family caregiver program decision reviews and appeals
   - Move link to "After you request a review page" 
     - Placement description: Remove link from the "Request review" section, and add it to the "More resources" section after "Get help requesting...", it will be the 4th item in the list
@@ -87,15 +88,15 @@
 
 ### 2. **Decision reviews left nav** 
   - Add link to Medical decision reviews page
-    - Placement description: 
-    - Link destination: 
+    - Placement description: Place after Board Appeal, it will be the 4th item in the list
+    - Link destination: www.va.gov/decision-reviews/clinical-appeals/
     - Notes: Match label to H1
   - Add link to Caregiver claims page
-    - Placement description: 
-    - Link destination: 
+    - Placement description: Place after the clinical appeals option, it will be the 5th item in the list
+    - Link destination: www.va.gov/decision-reviews/family-caregiver-program-reviews/
     - Notes: Match label to H1
   - Move link to "After you request a review page" 
-    - Placement description: Remove link from the "Request review" section, and add it to the "More resources" section as the first option in the section
+    - Placement description: Remove link from the "Request review" section, and add it to the "More resources" section as the 4th option in the section
     - Link destination: 
     - Notes:  Match label to H1
 
@@ -136,6 +137,7 @@ Current URL | Redirect to | Notes
 <hr>
 
 ## <a name="notes"></a>Meetings notes and background info
+
 6/12/23 - discussion w/Danielle
 - Initial request from VHA was to create an entire hub of health care and medical decision reviews; We have communicated that we cannot create a second decision reviews hub that repeats all of the information and need to bring them together.  The original DR hub was very much focused on VBA and did not include feedback from VHA. 
 - For this initial phase our goal is to incorporate the health information into the existing decision reviews hub with minimal structural changes to the existing DR hub
