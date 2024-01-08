@@ -50,7 +50,7 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-1. **[Decision reviews hub page](https://www.va.gov/decision-reviews/)** 
+### 1. **[Decision reviews hub page](https://www.va.gov/decision-reviews/)** 
   - Add link to Medical decision reviews page
     - Placement description: Place after Board Appeal, it will be the 4th item in the list
     - Link destination: www.va.gov/decision-reviews/clinical-appeals/
@@ -85,7 +85,7 @@
   - Manage your VA debt
   - The AMA
 
-2. **Decision reviews left nav** 
+### 2. **Decision reviews left nav** 
   - Add link to Medical decision reviews page
     - Placement description: 
     - Link destination: 
