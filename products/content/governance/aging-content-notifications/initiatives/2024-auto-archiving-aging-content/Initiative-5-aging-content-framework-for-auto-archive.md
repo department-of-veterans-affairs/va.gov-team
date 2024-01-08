@@ -67,12 +67,15 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 - - Home Page News Spotlight blokcs are to be used for news and information relevant to Veterans. They should only display for seven (30) days and be auto-archived on Day 30, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
 
 ## In Scope for this Initiative:
-Goal: Create a framework for auto-archiving, either a new on, or by adding on to the new notification framework. The framework should be extendable to other content types, if desired in the future. It should accommodated any timeframe configured and then assigned for a particular content type, such as shown in examples below.
+Goal: Create a framework for auto-archiving, either a new on, or by adding on to the new notification framework. The framework should be extendable to other content types, if desired in the future. It should accommodate any timeframe configured and then assigned for a particular content type, such as shown in examples below.
  
-- As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below, which will be implemented after the framework is completed.
-  - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
-  - Home Page Promo Block:  content type is assigned a 21-day timeframe with notifications sent to the editors three (3) days before Day 21, and the morning of Day 21. (Note that 21 days is just being used as an example. (Note that this content block will actually be configured to 30 days; the 21 days mentioned above was just to illustrate that different timeframes may be assigned in the future.)
-  - Home Page News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30.
+- As mentioned above, the framework should be easily extendable to handle other content types, as well as other timeframes (14, 21, any number, etc.) besides the examples listed below.
+  - Full-width banner: content type has a a 7-day timeframe, and if the content editor hasn't manually archived the content, then at 11:59:59PM (23:59:59) on Day 7 the content will be auto-archived.
+    - Note that the if the editor, within the 7 days, edits the content in order to 'reset' the timeline, basically restarting the 7 days,then the auto-archive will look at the 'new' end date/Day 7.
+  - Home Page Promo Block:  content type has a a 30-day timeframe, and if the content editor hasn't manually archived the content, then at 11:59:59PM (23:59:59) on Day 30 the content will be auto-archived.
+    - Note that the if the editor, within the 30 days, edits the content in order to 'reset' the timeline, basically restarting the 30 days,then the auto-archive will look at the 'new' end date/Day 30.
+  - Home Page News Block: content type has a a 30-day timeframe, and if the content editor hasn't manually archived the content, then at 11:59:59PM (23:59:59) on Day 30 the content will be auto-archived.
+    - Note that the if the editor, within the 30 days, edits the content in order to 'reset' the timeline, basically restarting the 30 days,then the auto-archive will look at the 'new' end date/Day 30.
 - Note that actually configuring the various content types will be handled in future initiatives. This is purely to build the framework.
  
 ### How we are approaching the solution
