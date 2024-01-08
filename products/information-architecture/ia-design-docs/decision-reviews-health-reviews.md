@@ -1,7 +1,7 @@
-# IA Design for [Product/page name]
-**STATUS: [Early draft]**
+# IA Design for Health care decision reviews and appeals
+**STATUS: In review**
 
-**Team:** [Team name]
+**Team:** Sitewide Content, Accessibility, and IA
 
 **IA Request:** [Link to Sitewide Content and IA intake request]
 
@@ -21,7 +21,8 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-<img width="892" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/64f21292-e054-43ea-8fbb-60bc81ee2927">
+<img width="1200" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/0c9c2c39-5a48-4850-b851-7e4cf738c731">
+
 
 
 ## <a name="url"></a>URLs and breadcrumbs
@@ -29,19 +30,19 @@
 
 
 **1) Medical decision review - NEW**
-- URL: TBD
+- URL: /clinical-appeals/
 - Breadcrumb: Home > Decision reviews and appeals > [H1]
 - Notes: 
 
 **2) Caregiver claims - NEW**
-- URL: TBD
+- URL: /family-caregiver-program-appeals/
 - Breadcrumb: Home > Decision reviews and appeals > [H1]
 - Notes: 
 
-**3) After you request a decision review - MODIFY**
-- URL: https://www.va.gov/decision-reviews/after-you-request-review/
-- Breadcrumb: Home > Decision reviews and appeals > After you request a review 
-- Notes: This page will be moved form the "Request" spoke to the "More resources" spoke.  This change only impacts the entry points to the page (outlined below), and does not impact the URL, breadcrumb, or structure of the page.  
+**3) [After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review/) - MODIFY**
+- URL: No change 
+- Breadcrumb: No change
+- Notes: This page will be moved from the "Request" spoke to the "More resources" spoke.  This change only impacts placement of some entry points to the page (outlined below), and does not impact the URL, breadcrumb, or structure of the page.  
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
