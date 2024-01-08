@@ -39,6 +39,8 @@ The core functionality provided by this feature consists of showing upcoming app
 
 ### Container Diagram
 
+![Check In Experience - Upcoming Appointments](images/containerDiagram_checkInExp-appts.png)
+
 ### Sequence Diagram
 
 ```mermaid
