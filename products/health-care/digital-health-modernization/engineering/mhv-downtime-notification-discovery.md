@@ -21,7 +21,8 @@ MHV application teams should use the Platform's [Downtime Notification](https://
 
 | MHV application | External service key | Notes |
 | - | - | - |
-| MHV-wide | `mhv` | [Already exists](https://github.com/department-of-veterans-affairs/vets-website/blob/3d41a1ee7dc50997887951ec7af4cd52653a5a47/src/platform/monitoring/DowntimeNotification/config/externalServices.js#L32) | 
+| MHV auth | `mhv` | [Already exists](https://github.com/department-of-veterans-affairs/vets-website/blob/3d41a1ee7dc50997887951ec7af4cd52653a5a47/src/platform/monitoring/DowntimeNotification/config/externalServices.js#L32). Ideally the service key could be renamed to something more specific like `mhv-auth`, since it is was [set up for identity/auth concerns](https://dsva.slack.com/archives/C04DRS3L9NV/p1704471144967659?thread_ts=1702663719.861489&cid=C04DRS3L9NV) | 
+| All MHV down | `mhv-apps` | Something hyphenated needed due to plain `mhv` being used for auth downtime |
 | Appointments | `mhv-appointments` | They already have `vaos`, unsure if change is really needed |
 | Medical Records | `mhv-medical-records` |  |
 | Medications | `mhv-medications` |  |
@@ -41,6 +42,12 @@ Tthe MHV Landing does not represent one particular service, so it should show MH
 ### Refactor Downtime notification component
 
 A [draft PR to refactor the DowntimeNotification component](https://github.com/department-of-veterans-affairs/vets-website/pull/27215) was started while investigating the functionality of the current component.
+
+### Add optional header to `DowntimeNotification` component
+
+Currently, the `DowntimeNotification` doesn't offer the option to display an h1 header, and this causes accessibility issues for apps that don't provide an `<h1>` outside of the downtime component hierarchy. Many apps wrap their entire app in the `DowntimeNotification` component, and that results in the app's internal headers not rendering during downtime.
+
+We should add a prop to the  `DowntimeNotification` that can render a header as part of the [`Down` component](https://github.com/department-of-veterans-affairs/vets-website/blob/6c7a067d9961513ce5dc99423b80c5a8bf982f40/src/platform/monitoring/DowntimeNotification/components/Down.jsx) that renders during downtime by default.
 
 ### Landing page lists which services are down
 
