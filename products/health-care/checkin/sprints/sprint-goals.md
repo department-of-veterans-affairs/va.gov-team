@@ -59,6 +59,8 @@ ________________________________________________________________________________
      - **Sub Goal: Let Veterans Know when BTSSS is Down**
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
      - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**     
+ - **GOAL: Make Travel Claims Easier**    
+    - **Sub Goal: Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment**
 - **GOAL: Increase PCI Usage**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
@@ -95,6 +97,9 @@ ________________________________________________________________________________
          - ❗ 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
      - **Sub Goal: [eCheck-in: Handle 2 Modalities (in-person, CVT)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72238)**
          - ❗ 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)  
+- **GOAL: Make Travel Claims Easier**   
+   - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**       
+        - 🚧 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
        - 🟥 [[UX] Discuss Options for Displaying Check-in Status for Today's Appointments in the Appointments List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70796)
