@@ -9,7 +9,6 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
@@ -40,11 +39,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
+## Key Decisions
+- TBD
 
 ---
 
