@@ -41,8 +41,10 @@
 
 **3) [After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review/) - MODIFY**
 - URL: No change 
-- Breadcrumb: No change
-- Notes: This page will be moved from the "Request" spoke to the "More resources" spoke.  This change only impacts placement of some entry points to the page (outlined below), and does not impact the URL, breadcrumb, or structure of the page.  
+- Breadcrumb: Update to match updated H1
+- Notes:
+  - Update H1 to include "benefit" - "After you request a benefit decision review"
+  - This page will be moved from the "Request" spoke to the "More resources" spoke.  This change only impacts placement of some entry points to the page (outlined below), and does not impact the URL of the page.  
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
@@ -50,32 +52,72 @@
 
 1. **[Decision reviews hub page](https://www.va.gov/decision-reviews/)** 
   - Add link to Medical decision reviews page
-    - Placement description: 
-    - Link destination: 
-    - Notes:
+    - Placement description: Place after Board Appeal, it will be the 4th item in the list
+    - Link destination: www.va.gov/decision-reviews/clinical-appeals/
+    - Notes: Match label to H1: Clinical Appeals of medical treatment decisions
   - Add link to Caregiver claims page
-    - Placement description: 
-    - Link destination: 
-    - Notes:
+    - Placement description: Place after the clinical appeals option, it will be the 5th item in the list
+    - Link destination: www.va.gov/decision-reviews/family-caregiver-program-appeals/
+    - Notes: Match label to H1: Family caregiver program decision reviews and appeals
   - Move link to "After you request a review page" 
-    - Placement description: Remove link from the "Request review" section, and add it to the "More resources" section as the first option in the section
-    - Link destination: 
-    - Notes: 
+    - Placement description: Remove link from the "Request review" section, and add it to the "More resources" section after "Get help requesting...", it will be the 4th item in the list
+    - Link destination: www.va.gov/decision-reviews/after-you-request-review
+    - Notes:  Match label to H1: After you request a benefit decision review
+
+**Hub page link order**- labels below not exact, for reference only
+- Request a decision review
+  - Supplemental claim 
+  - Higher-level review 
+  - Board appeal 
+  - Clinical appeal 
+  - Family caregiver claims
+  - Contested claims
+  - Insurance claims
+  - Fiduciary claims   
+- Manage your decision reviews and appeals
+  - Check your decision review status
+  - Manage your legacy VA appeal
+- More information and resources
+  - Choosing a decision review option
+  - FAQa
+  - Get help
+  - After you request...
+  - Manage your VA debt
+  - The AMA
 
 2. **Decision reviews left nav** 
   - Add link to Medical decision reviews page
     - Placement description: 
     - Link destination: 
-    - Notes:
+    - Notes: Match label to H1
   - Add link to Caregiver claims page
     - Placement description: 
     - Link destination: 
-    - Notes:
+    - Notes: Match label to H1
   - Move link to "After you request a review page" 
     - Placement description: Remove link from the "Request review" section, and add it to the "More resources" section as the first option in the section
     - Link destination: 
-    - Notes: 
- 
+    - Notes:  Match label to H1
+
+**Left nav link order**- labels below not exact, for reference only
+- Request a decision review
+  - Supplemental claim 
+  - Higher-level review 
+  - Board appeal 
+  - Clinical appeal 
+  - Family caregiver claims
+  - Contested claims
+  - Insurance claims
+  - Fiduciary claims   
+- Manage your decision reviews and appeals
+  - Check your decision review status
+  - Manage your legacy VA appeal
+- More information and resources
+  - Choosing a decision review option
+  - FAQa
+  - Get help
+  - After you request...
+
 
 
 ## <a name="redirects"></a>Redirects <br>
