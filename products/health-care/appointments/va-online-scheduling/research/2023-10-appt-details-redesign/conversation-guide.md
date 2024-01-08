@@ -42,6 +42,7 @@ Before we begin, I want to give you some background on how today's session will 
 **If NO:** Not a problem, I may just stop you at points to confirm what I've seen.
 
 Do you have any questions about anything before we start?
+
 **If NO and Recording OK:** Great! I'm going to hit the record button now.
 **If NO and Recording NOT OKAY:** Great! Let's get started with a few questions.
 
