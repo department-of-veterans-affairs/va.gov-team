@@ -121,7 +121,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 12/20/2023-1/2/2024
+     - 5 days 
+     - (Initially 12/20/2023-1/2/2024)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 10 submissions per day
@@ -141,7 +142,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/2-1/7/2024
+     - 5 days
+     - (Initiall 1/2-1/7/2024, paused and rolled back 1/3/24 due to issues with Veteran DOB and Preferred Facility)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 25 submissions per day
