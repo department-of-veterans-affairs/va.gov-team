@@ -19,7 +19,7 @@ At a high level, the process works like this:
 
 - Submit BDD Instructions: Submits a static PDF page with instructions to EVSS we always send with Form 526 submissions. This is to make the claims process easier for the person who reviews the claim in VBMS. This page never changes; it gets sent by us for every Form 526 submission to EVSS.
 
-- Submit Uploads: 
+- Submit Upload: This is a job that runs once for every supplemental document the Veteran uploaded as part of their claim, and submits that document to EVSS.
 
 - Update "Flashes" for Veteran: this "tags" the Veteran with certain characteristics in BGS (for example, "Vietnam - Agent Orange Exposure"). These tags come from the metadata in the Form 526 submission (unclear where that information comes from originally, presumably the Veteran selects them in the form UX)
 
