@@ -6,7 +6,7 @@
 
 The following describes the several different named "`id`"s that a "Form526Submission" (ActiveRecord database object) receives during its lifecycle.
 
-1. `InProgressForm.id`: The id of the vets-api database record from the in_progress_forms table that holds user-entered data from vets-website.
+1. `InProgressForm.id`: The id of the vets-api database record from the in_progress_forms table that holds user-entered data from vets-website. This data gets transformed into a different data structure for further processing.
 2. `Form526Submission.saved_claim_id`: `SavedClaim` is another database record saved in the database **_before_** the Form526Submission record that has a foreign_key relationship by `SavedClaim`'s primary key (`id`). `SavedClaim` is used for vets-website to vets-api form validation using the json-schema library.
 3. `Form526Submission.id`: Once the `InProgressForm` is submitted, and after a `SavedClaim` is created, the `Form526Submission` database record is created. 
 4. `Form526Submission.submitted_claim_id`: the `claim_id` expected back in the response from the third-party service called to generate the Form526 pdf and submit to VBMS - a.k.a. the "VBMS Claim ID".
