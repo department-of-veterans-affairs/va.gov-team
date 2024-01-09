@@ -136,7 +136,7 @@
 |OCTO|Emily Theis|PO|
 |OCTO|Julie Strothman|Design Lead
 |OCTO|Steve Albers|Engineering Lead
-|VBA|Terrence Minyard|Project Manager for electronic submissions|
+|VBA|Dylan Dubbs| |
 |VBA|Eric Henne|Lead on paper form updates|
 
 ---
