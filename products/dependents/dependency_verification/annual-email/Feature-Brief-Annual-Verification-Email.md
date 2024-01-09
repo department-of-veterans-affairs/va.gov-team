@@ -81,24 +81,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Test messaging and gather feedback to adjust email copy as needed
 - Develop additional email messages to fit other use cases (e.g., reminder to update dependent when they turn 18)
 
-  
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
-
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- Veterans will receive this email annually in February (need to validate with VBA)
+- The VBA will be notified before the first email is sent
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/annual-email/Release-Plan-Verification%20Email.md)
 
 ## Launch Dates
-- *Target Launch Date*
-  - January 2023
-- *Actual Launch Date* 
-  - tbd
+- *Target Launch Date*: February 2023
+- *Actual Launch Date*:
 - *What date will you evaluate impact after launch?*
   - +1 month
 ---
@@ -106,9 +98,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-- CAIA review complete
+- [CAIA review complete](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65222)
+- OCTO review complete
+- VBA review complete
 - Distribution list requested from PA&I
-- VBA stakeholders to review email text
+- [VA Notify kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71504) on 1/10/24
 
 ### Key Decisions
 - We are working closely with OCTO and the VBA Dependent team.
@@ -119,8 +113,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
-
+- none
+  
 ### After
+- [Copy source of truth](https://docs.google.com/document/d/1iSO7jTqeA2wM-7S2sYqjt6sFoJp7h_AtEIaSz_dqTYQ/edit#heading=h.zptou6y925s)
 
 ---
 
@@ -130,7 +126,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Team Name: Benefits Non-Disability Experience
 - GitHub Label: #tree
-- Slack channel: #benefits-ce-non_disability_exp
+- Slack channel: #benefits-dependents-management
 - Product POCs: Laura Steele, Emily Theis (OCTO)
 - Stakeholders: Brandi Traylor (VBA Dependent Team)
 
