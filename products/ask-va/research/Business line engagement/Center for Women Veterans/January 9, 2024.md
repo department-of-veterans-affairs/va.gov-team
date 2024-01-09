@@ -41,4 +41,4 @@ We will keep gender identity across all categories. We will collect the gender o
 
 ## References
 
-- [Recommendation to remove Gender](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/recommendation-for-removing-gender.md)
+- [Proposal to remove Gender](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/recommendation-for-removing-gender.md)
