@@ -93,7 +93,7 @@ Before we start, I want to go over a few things:
 - ~~*Backup plan if they cannot figure out how to share screen:*~~
   - ~~Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control--doesn't work w/iPhones]* Can you click and see if you can move your mouse around on my screen?~~
 
-## Instructions for finding Zoom chat--NOT for screen readers
+## Instructions for finding Zoom chat
 - In the Zoom application on your phone or computer, there's a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
     - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and there should be more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
@@ -168,7 +168,7 @@ Let’s start with a few questions...
 
 1. How long have you been using a screen *(screen reader / magnifier)*?
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, *(if NOT using screen reader)* put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
