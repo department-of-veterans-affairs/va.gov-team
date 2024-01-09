@@ -68,9 +68,7 @@ Education > Survivor dependent benefits | 96,709
 Pension > Survivors Pension | 92,167 
 
 
-**2. Equivalent or increased submitted family member applications**
-
-
+**2. Increased feedback score for able to complete task**
 **3. Increased overall average CSAT scores for family member hub and family-specific pages**
 - _past data from 8/17/22-8/16/23
 
@@ -86,8 +84,6 @@ https://va-gov.domo.com/page/825663825
 
 **Additional data points to watch**
 - No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
-
-
 
 
 ---
