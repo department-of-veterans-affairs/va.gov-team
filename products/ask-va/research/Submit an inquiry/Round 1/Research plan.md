@@ -148,19 +148,24 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |:--|:--|
 |July 28, 2023|Design Intent|
 |December 1, 2023|Midpoint Review|
-|By January 12, 2024|Prototype* ready|
-|By January 12, 2024|Research Review|
-|By January 19, 2024|Pilot session at TBC EST|
+|January 12, 2024|Prototype(s)* ready|
+|January 12, 2024|Research Review|
+|January 18, 2024|Pilot sessions|
 |Jan 25 - Feb 5, 2024|Research sessions|
 |Feb 6 - 19, 2024|Analysis|
 |Feb 20 - Mar 4, 2024|Share findings|
 
 ***We plan to prototype for mobile and desktop, but mobile is the priority. At minimum, our goal is to have a mobile prototype by January 12th.**
 
-### Pilot session
+### Pilot sessions
 
-Pilot participant email: [TBC]
-Date and time of pilot session: [TBC]
+**Pilot 1**
+Pilot participant email: Jeff Wallace (Tyler will add to pilot sessions herself)
+Date and time of pilot session: 12-1:30pm EST
+
+**Pilot 2**
+Pilot participant email: Will York(Tyler will add to pilot sessions herself)
+Date and time of pilot session: 2-3:30pm EST
 
 ## Research sessions
 
@@ -176,14 +181,15 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
+|Wednesday, Jan 24|12pm-1pm, 2-3pm|
 |Thursday, Jan 25|12pm-1pm, 2-3pm|
 |Friday, Jan 26|12pm-1pm, 2-3pm|
 |Monday, Jan 29|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
 |Tuesday, Jan 30|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
 |Wednesday, Jan 31|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
 |Thursday, Feb 1|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Friday, Feb 2|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Monday, Feb 5|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
+|Friday, Feb 2|11am-12pm, 1-2pm, 3-4pm|
+|Monday, Feb 5|11am-12pm, 1-2pm, 3-4pm|
 	
 ## Team roles
 
@@ -191,7 +197,7 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
-* Participant(s) for pilot test: [TBC]
+* Participant(s) for pilot test: Jeff Wallace and Will York (Tyler will add to pilot sessions herself).
 * Accessibility specialist: –
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
