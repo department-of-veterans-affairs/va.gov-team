@@ -273,4 +273,4 @@ The following information is supported by **Lighthouse**:
 - [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
 
 ### Figma files
-[Account Experience Figma Project containing all related AE products/features](https://www.figma.com/files/project/176473451/Account-Experience?fuid=1281705750009777247)https://www.figma.com/files/project/176473451/Account-Experience?fuid=1281705750009777247
+[Account Experience Figma Project containing all related AE products/features](https://www.figma.com/files/project/176473451/Account-Experience?fuid=1281705750009777247)
