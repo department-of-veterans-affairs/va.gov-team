@@ -32,7 +32,7 @@ When creating user flows, it is intended to explore various scenarios and user p
 
 Terminology is often a point of confusion when talking about features.  Use accurate terminology and be consistent throughout the flows. Key terms can be included with a legend or documented to the side to ensure understanding.
 
-<img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dc33decc-0e9f-41b3-af14-47d90d68adf9">
+![Unified check-in terminology](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dc33decc-0e9f-41b3-af14-47d90d68adf9)
 
 *Example of documented terminology in a Unified Check-in flow*
 
@@ -52,7 +52,7 @@ Users do not access task flows the same way, interact with elements as expected,
 
 *Example of user scenarios in a flow for Financial Status Report*
 
-<img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c421e698-67ce-4470-8cb6-cf6776f3fe0e">
+![Error in Organic Email Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c421e698-67ce-4470-8cb6-cf6776f3fe0e)
 
 *Example of an error in Organic Email Adoption flow*
 
@@ -60,7 +60,7 @@ Users do not access task flows the same way, interact with elements as expected,
 
 Decision points and conditional logic within a flow result in different users seeing variations of a flow - those variations could be to a single page or an entirely different flow.  These points can result in needing different content or messaging, titles, URLs, etc. 
 
-<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/50248931-6886-4c54-844d-a11e63c5f527">
+![Conditional logic in Form 26-4555](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/50248931-6886-4c54-844d-a11e63c5f527)
 
 *Example of conditional logic in Form 26-4555 Specially Adapted Housing*
 
@@ -81,7 +81,7 @@ Exit points are places within your flow that a user can exit the flow. Intended 
 
 Identifying exit points and providing clear messaging and next steps for users helps avoid “dead ends” where a user does not know why they are there, or what they should do next. 
 
-<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/62102671-5de0-42ee-8da1-b4125293a737">
+![Entry points in appointments flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/62102671-5de0-42ee-8da1-b4125293a737)
 
 *Example of entry points in Appoitnments flow*
 
@@ -89,7 +89,7 @@ Identifying exit points and providing clear messaging and next steps for users h
 
 When revising an existing user flow, documenting the current state against a proposed state can help team members and stakeholders to quickly identify what changes were made, and ultimately what impacts they have - i.e. URL changes, content changes, analytics changes, etc.
 
-<img width="700" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/5df868eb-a188-4090-9999-aac03cbe27d3">
+![Two versions of Form 526](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/5df868eb-a188-4090-9999-aac03cbe27d3)
 
 *Example of a current and proposed flow for Form 526*
 
@@ -97,10 +97,10 @@ When revising an existing user flow, documenting the current state against a pro
 
 A legend, or key,  helps to eliminate any uncertainty about what is represented in the user flow diagram. Use variations in shape,  icons, and text in addition to color to improve accessibility.
 
-<img width="400" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/51dd70fd-1d48-4df7-870c-da90d04face7">
+![Legend for Login.gov flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/51dd70fd-1d48-4df7-870c-da90d04face7)
 
 *Example of a legend for Login.gov*
 
-<img width="200" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/5756caf3-a142-4211-9481-e789fe8163b9">
+![Legend for Financial Status Report](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/5756caf3-a142-4211-9481-e789fe8163b9)
 
 *Example of a legend for Financial Status Report*
