@@ -74,7 +74,7 @@ Breadcrumb: No
 Back button: Yes, `< Back to medical records`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=GCFvPm&nav=eyJoIjoiMTc4NzA2MTAwOSJ9).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=6Iwfdn&nav=eyJoIjoiMTc4NzA2MTAwOSJ9).
 
 * H1 for this page should be `Allergies and reactions`
 * Intro text at top of page that explains what you will find in this section of the medical record
@@ -105,7 +105,7 @@ Breadcrumb: No
 Back button: Yes, `< Back to allergies`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=1oQALv&nav=eyJoIjoiMjY5MDA1OTg2In0%3D).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=1WrhZc&nav=eyJoIjoiMjY5MDA1OTg2In0%3D).
 
 * H1 for this page should be name of the allergy or reaction
 * For each allergy, include the following information
@@ -153,7 +153,7 @@ Breadcrumb: No
 Back button: Yes, `< Back to medical records`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=wQXUDK&nav=eyJoIjoiMjk4MzYxNTUyIn0).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=oF9m6d&nav=eyJoIjoiMjk4MzYxNTUyIn0%3D).
 
 * H1 for this page should be `Vaccines`
 * Intro text at top of page that explains what you will find in this section of the medical record
@@ -185,7 +185,7 @@ Breadcrumb: No
 Back button: Yes, `< Back to vaccines`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=k2pooL&nav=eyJoIjoiMjEyMzk5MzE5NyJ9).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=21aUvp&nav=eyJoIjoiMjEyMzk5MzE5NyJ9).
 
 * H1 for this page should be name of the vaccine
 * For each vaccine, include the following information
@@ -295,7 +295,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 </details>
 
 > [!WARNING]
-> This file needs added once it is cleaned up.
+> This file needs added once it is moved to Figma.
 > * [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/v/ll4M4o/p/C3D9FA2D-5311-4886-B25F-655123816797/canvas?posX=-2388.652777084397&posY=-14203.551973537104&zoom=0.0813358947634697)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=F548Gc&nav=eyJoIjoiODE5OTM2Njc4In0)
 
