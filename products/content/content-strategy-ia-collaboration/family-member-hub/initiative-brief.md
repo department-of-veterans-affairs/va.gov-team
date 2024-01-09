@@ -59,13 +59,13 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 **1. Equivalent or increased traffic to the new family hub pages compared to current pages**
 - _past data from 8/17/22-8/16/23_
 
-Old page | Avg views/month | New page | Views/month after launch
---- | --- | --- | ---
-Family member hub | 240,770 | Family benefits |
-Health care > Family health benefits | 73,144 | Family benefits > Health care and disability |
-Disability > Dependent Indemnity Comp | 104,816 | Family benefits > Survivors compensation |
-Education > Survivor dependent benefits | 96,709 | Family benefits > Education and careers |
-Pension > Survivors Pension | 92,167 | Family benefits > Survivors compensation |
+Old page | Avg views/month 
+--- | --- 
+Family member hub | 240,770 
+Health care > Family health benefits | 73,144
+Disability > Dependent Indemnity Comp | 104,816 
+Education > Survivor dependent benefits | 96,709 
+Pension > Survivors Pension | 92,167 
 
 
 **2. Equivalent or increased submitted family member applications**
