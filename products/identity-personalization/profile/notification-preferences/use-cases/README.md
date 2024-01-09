@@ -1,5 +1,5 @@
 # Notification settings Use Cases
-**Last updated:** December 6, 2022
+**Last updated:** January 9, 2024 - added use case for partial or missing contact info
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
