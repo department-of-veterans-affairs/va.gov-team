@@ -44,6 +44,7 @@ Before we begin, I want to give you some background on how today's session will 
 Do you have any questions about anything before we start?
 
 **If NO and Recording OK:** Great! I'm going to hit the record button now.
+
 **If NO and Recording NOT OKAY:** Great! Let's get started with a few questions.
 
 **Start recording.**
@@ -95,7 +96,11 @@ You know you have an appointment scheduled with Dr. Ralph Scott and want to know
 ## 2: Pre check-in task - 5 minutes
 **If participant notices pre check-in, have them click "Review your personal healthcare contacts"**
 
-Go ahead and complete any tasks on this page. (Go to review your personal healthcare contacts.
+Go ahead and complete any tasks on this page. 
+
+**If participant cannot find the "Review your personal healthcare contacts"** 
+
+Down at the bottom of this page, there is a link to "review your personal healthcare contacts" .
 
 **Follow up:** 
 - What do/did you expect when you clicked that link?
