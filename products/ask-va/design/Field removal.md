@@ -12,8 +12,8 @@ Last updated by @tygindraux: January 9, 2024
 |Personal information|Veteran's Claim Number|
 
 ## Tell us the reason you're contacting us
-### How this field works
-This field is currently required. It asks the submitters, 'Tell us the reason you're contacting us?' and they can choose from a list of options:
+### Hwo this field works
+This field is currently required. It asks, 'Tell us the reason you're contacting us?' and submitters can choose from a list of options:
 - Compliment
 - Question
 - Service Complaint
@@ -36,15 +36,21 @@ We recommend removing this field because:
 - We will recommend to the CCB that this field is removed from the form.
 
 ## Veteran's Service Start and End Dates
-### How this field works
+### How these field works
+These fields are currently optional. They ask for the Veteran's Start and End Dates.
 
 ### Why we recommend removal
+We recommend removing these fields because business lines said they are unnecessary when we asked for their [feedback about service fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#service-start-and-end-dates).
 
 ### Next steps
+- We will recommend to the CCB that these fields are removed from the form.
 
 ## Veteran's Claim Number
 ### How this field works
+This field is currently optional. It asks for the Veteran's Claim Number.
 
 ### Why we recommend removal
+We recommend removing this field because business lines said they are unnecessary when we asked for their [feedback about service fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#claim-number)
 
 ### Next steps
+- We will recommend to the CCB that this field is removed from the form.
