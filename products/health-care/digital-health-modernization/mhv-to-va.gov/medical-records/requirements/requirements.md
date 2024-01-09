@@ -4,10 +4,12 @@
 
 | Date           | Changed By       | Description of Change |
 |----------------| ---------------- | ----------------------|
-| 1/2/23       | Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
-|1/2/23        | Coulton Bunney   | Set up structure |
-|1/3/23        | Coulton Bunney   | Updated allergies and vaccines information |
-|1/4/23 | Coulton Bunney | Added key research and data documents|
+| 1/2/24       | Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
+|1/2/24        | Coulton Bunney   | Set up structure |
+|1/3/24        | Coulton Bunney   | Updated allergies and vaccines information |
+|1/4/24 | Coulton Bunney | Added key research and data documents|
+|1/9/24 | Coulton Bunney | Added conditions information|
+
 
 
 ## Table of Contents  
@@ -241,32 +243,31 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 
 <details>
 <summary>List view requirements</summary>
- 
+
 ---
 
 #### IA
-URL: `/my-health/medical-records/vaccines`  
+URL: `/my-health/medical-records/conditions`  
 Breadcrumb: No  
 Back button: Yes, `< Back to medical records`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medical%20records%20content%20(shared%20folder)/Phase%200%20allergies%20+%20vaccines.docx?d=w11445ce30c1340999fb04286cfc57477&csf=1&web=1&e=wQXUDK&nav=eyJoIjoiMjk4MzYxNTUyIn0).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=pYhfj6&nav=eyJoIjoiMTgwNjM2MTY5MiJ9).
 
-* H1 for this page should be `Vaccines`
-* Intro text at top of page that explains what you will find in this section of the medical record
-* Intro text that informs a patient that reactions to vaccines can be found in the allergies section
-* Additional info that explains what to know about printing and downloading vaccines information
-* For each vaccine in list, include the following information
-  * Vaccine name
-  * Date patient received the vaccine
+* H1 for this page should be `Health conditions`
+* Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold
+* Additional info that explains what to know about printing and downloading health conditions information
+* For each health condition in list, include the following information
+  * Condition name
+  * Date entered into the record
 
 #### Functionality
-* List should be paginated, with 10 vaccines per page
-* For each vaccine, a user should be able to click on the first line of the card (vaccine name) to view detailed information about that vaccine
-* Ability to download a full list of vaccines as a PDF
-   * PDF should include detailed information about each vaccine
-* Ability to print all vaccines
-   * Print out should include detailed information about each vaccine
+* List should be paginated, with 10 health conditions per page
+* For each condition, a user should be able to click on the first line of the card (condition name) to view detailed information about that condition
+* Ability to download a full list of conditions as a PDF
+   * PDF should include detailed information about each conditions
+* Ability to print all conditions
+   * Print out should include detailed information about each condition
 ---
 
 </details>
@@ -276,10 +277,25 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
  
 ---
 #### IA
+URL: `/my-health/medical-records/conditions/condition_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to conditions`
 
 #### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=OKyEnB&nav=eyJoIjoiNDIzNzY4MTE0In0%3D).
+
+* H1 for this page should be name of the condition
+* For each condition, include the following information
+  * Condition name
+  * Date condition entered into record
+  * Provider who entered condition into record
+  * Location where condition entered into record
+  * Comments entered by the provider
 
 #### Functionality
+* Ability to download details of current condition as a PDF
+* Ability to print the currently in view details of condition
+ 
 ---
 </details>
 
