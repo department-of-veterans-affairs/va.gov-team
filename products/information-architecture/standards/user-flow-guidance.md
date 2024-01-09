@@ -24,7 +24,7 @@ Including a clear user goal and scope with the flow will help frame the work and
 
 When creating user flows, it is intended to explore various scenarios and user paths.  As those alternative scenarios and paths are identified, decisions can continue to be made regarding goals and scope.
 
-![Medical records user flow]https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/1708754e-03be-41e1-b2c1-fd5a1637b871)
+![Medical records user flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/1708754e-03be-41e1-b2c1-fd5a1637b871)
 
 *Example of user goal in a flow for Medical Records*
 
