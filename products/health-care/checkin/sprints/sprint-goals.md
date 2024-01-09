@@ -160,7 +160,7 @@ ________________________________________________________________________________
       **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
          - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72594)
          - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72595)
-         - ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for Video appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72598)
+         - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for Video appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72598)
          - ❗ 🟥 [[UX][Content][Design] Create Final Wireframes & Content for Video appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72599)
          - ✔️ ❗ 🟩🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72638)
              - Pulled in half-way through sprint
@@ -176,7 +176,7 @@ ________________________________________________________________________________
         - ✔️ 🟥 [[UX] Discuss Options for Displaying Check-in Status for Today's Appointments in the Appointments List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70796)
         - ✔️ 🟦 [[BE] Determine JSON response format for appointments and facilities info to vets-website](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72557)
         - 🟦 [[BE] Update Sequence Diagram for Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71783)
-        - 🟦 [[BE] - Figure out which facilities endpoint to use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72147)
+        - ✔️ 🟦 [[BE] - Figure out which facilities endpoint to use](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72147)
         - ✔️ 🟩 [[FE] - Add review button to pre-check-in details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71267)
         - ✔️ 🟩 [[FE] - Unified demographics fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72443)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
