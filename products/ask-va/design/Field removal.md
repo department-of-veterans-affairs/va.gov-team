@@ -6,12 +6,12 @@ Last updated by @tygindraux: January 9, 2024
 ## List of fields to remove
 |Chapter in Ask VA|Field|
 |:--|:--|
-|Your question|Tell us the reason you’re contacting us?|
+|Your question|[Tell us the reason you’re contacting us?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#tell-us-the-reason-youre-contacting-us)|
 |Personal information|Veteran's Service Start Date|
 |Personal information|Veteran's Service End Date|
 |Personal information|Veteran's Claim Number|
 
-## Tell us the reason you're contacting us
+## Tell us the reason you're contacting us?
 ### Hwo this field works
 This field is currently required. It asks, 'Tell us the reason you're contacting us?' and submitters can choose from a list of options:
 - Compliment
