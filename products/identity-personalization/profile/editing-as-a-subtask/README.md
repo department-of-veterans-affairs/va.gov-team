@@ -1,7 +1,7 @@
 
 # Feature Overview: Editing as a Sub-Task 
 
-**Last updated:** 12/28/23 (added links to Figma)
+**Last updated:** 1/9/2024 (added use case details)
 
 ## Table of Contents 
 
