@@ -12,11 +12,13 @@ Currently, updating dependency information outside of the 8-year requirement is 
 ## Desired User Outcomes
 
 - Veteran's can quickly, easily and regulary update the VA on their dependents' status' so that they aren't being overpaid or underpaid.
-- The VA will save close to $250 M a year in overpayments.
-- Congressional obligations will be met.
+- Veterans can quickly and easily understand what dependency benefits they are eligble for.
+- Veterans have a positive experience on VA.gov.
+- Veterans receive the benefits they are entitled to.
 
 ## Undesired User Outcomes
-- Veterans ignore the email and another type of intercept would be needed.
+- Veterans ignore communications (email and letter) prompting them to update their dependency email and they are under or over paid benefits.
+- Veterans find the process of updating their dependency information on VA.gov confusing or too time-consuming.
 
 ## Desired Business Outcomes
 - The VA will save close to $250 M a year in overpayments.
@@ -24,7 +26,8 @@ Currently, updating dependency information outside of the 8-year requirement is 
 - Congressional obligations will be met.
 
 ## Undesired Business Outcomes
-
+- Efforts to increase the rate of dependency verification do not reduce the annual overpayment amount.
+- Efforts to increase the rate of dependency verification do not reduce the annual underpayment amount
 
 ---
 ## Measuring Success
@@ -35,20 +38,18 @@ Currently, updating dependency information outside of the 8-year requirement is 
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI                         | Base Value | Target Value | Actual Value |
+|-----------------------------|------------|--------------|--------------|
+| Annual Overpayment Amount   |            |              |              |
+| Online Form CSAT Score      |            |              |              |
+| # of online form submissions|            |              |              |
 
-#### Baseline KPI Values
-* Effectively at 0%
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: More Veterans have verified that their dependents are correct, or have the option to correct them.
   - Key result: Percentage comparison of annual updates compared to total (0%+)
-  - Key result: Conversion rate from opening email to viewing "view dependents" page (>50%)
   - Key result: Reduced annual overpayment (<$100m)
 
 ---
@@ -56,12 +57,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
+- [Pop-Up Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/modal/modal-README.md)
+   - Launched: Cancelled in 2021 
 - [Annual Reminder Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/annual-email/Feature-Brief-Annual-Verification-Email.md)
-   - Launched: TBD 
+   - Launched: Target February 2024 
 
 --- 
-
-
 ### Key Decisions
 - A [pop-up modal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/modal) to prompt Veterans to update their dependent information was developed for VA.gov in 2021, but it was considered too disruptive to the VA.gov experience, so it not launched. 
 
