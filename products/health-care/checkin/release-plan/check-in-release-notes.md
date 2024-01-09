@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 1/9/2024
-- Updated primary button to use version 3 of the Design System
+- Updated primary buttons to use version 3 of the Design System
     - [Ticket 65597](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
 
 ### 1/2/2024
