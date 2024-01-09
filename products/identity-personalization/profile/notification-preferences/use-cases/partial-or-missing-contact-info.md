@@ -6,13 +6,7 @@ LOA3 users who sign in, go to the profile, and click into the notification setti
 The notification settings page makes use of the [editing-as-a-subtask feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/editing-as-a-subtask/README.md) to assist users in updating their information. 
 
 ## Scenarios
-
-### Current State: Only Text Messaging is Supported
-- GIVEN a user that isn't flagged/blocked and a mobile phone number is on file
-- WHEN they open the notification settings page
-- THEN they see an alert that allows them to edit 
-
-### Future State: Text Messaging AND Email will be supported
+### Future State not live yet - when text messaging and email channels are supported
 #### missing email address with a mobile number present 
 - GIVEN a user that isn't flagged/blocked and they have a mobile phone number is on file and an email address is missing
 - WHEN they open the notification settings page
@@ -45,13 +39,6 @@ Once they update or add their contact information, the workflow will bring them 
 N/A
 
 ## How to Reproduce 
-### Current State - Only one scenario exists edit mobile number
-#### update mobile number
-1. Sign into staging (any user with a mobile number will work, alternatively add a mobile number to the user's contact information) 
-2. Go to https://staging.va.gov/profile/notification-settings 
-3. Follow the link at the top of the notification settings page "update your mobile phone number"
-4. You should see a new screen display with a form field for inputting a phone number
-
 ### Future State - Add/edit phone or email, multiple scenarios
 
 #### add missing mobile number with an email address present 
