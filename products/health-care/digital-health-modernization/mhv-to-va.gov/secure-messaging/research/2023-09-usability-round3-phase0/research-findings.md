@@ -323,3 +323,5 @@ Disability and Assistive Technology (AT):
 - Hearing aids: 0
 - Sighted keyboard: 0
 - Captions: 0
+
+![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-09-usability-round3-phase0/recruitment-checker.png)
