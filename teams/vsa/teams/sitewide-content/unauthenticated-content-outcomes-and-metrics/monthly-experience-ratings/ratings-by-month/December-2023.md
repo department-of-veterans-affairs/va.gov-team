@@ -2,7 +2,7 @@
 
 ## Related overall scores
 - **Total customer satsifaction score:** 54.3 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 75% "good" experience rating overall (4438 out of 5912 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,8 +25,12 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  
+   - 47% (47 of 100) R&S pages have a 75% or higher "good" score
+   - 26% (26 of 100) R&S pages have a 51% - 74% "good" score
+   - 27% (27 of 100) R&S pages have a 50% or lower "good" score
+    
 - **Breakdown of resources and support scores by 10s:**
+
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 - [Non-compensible disability](https://www.va.gov/resources/non-compensable-disability/) (100% good out of 22 total responses)
