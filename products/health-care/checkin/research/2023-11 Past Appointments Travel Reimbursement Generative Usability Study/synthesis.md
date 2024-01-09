@@ -104,3 +104,7 @@ We presented participants with 11 claim status terms Veterans could feasibly enc
 > Quote
 - Participants thought some of the terms had the same meaning or could be combined with others, such as “Claim submitted and submitted for payment”
 - 1 participant thought “Claim Received” was important to add to the statuses
+
+----
+
+## Usability testing
