@@ -17,7 +17,7 @@ This is a technical design document for implementing upcoming appointments in Pa
 
 **VAOS** *VA online scheduling service*
 
-**MAP** *Mobile Application Platform*
+**MAP** *Mobile Application Platform - provides shared services like the OAuth Secure Token Service (STS)*
 
 **Clinic**
 
@@ -34,8 +34,6 @@ The core functionality provided by this feature consists of showing upcoming app
 | ![Appointments List Page](images/appointments-list-page.png) | ![Appointments Details Page](images/appointments-details-page.png)
 
 ## Design
-
-### Integration
 
 ### Container Diagram
 
@@ -83,6 +81,9 @@ sequenceDiagram
         web--)-vet: appointments page
         deactivate vet
 ```
+
+### Integration
+
 
 ### Resources
 
