@@ -5,21 +5,25 @@ LOA3 users who sign in, go to the profile, and click into the notification setti
 
 The notification settings page makes use of the [editing-as-a-subtask feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/editing-as-a-subtask/README.md) to assist users in updating their information. 
 
-## Current State: Only Text Messaging is Supported
-GIVEN a user that isn't flagged/blocked and a mobile phone number is on file
-WHEN they open the notification settings page 
-THEN they see an alert that allows them to edit 
+## Scenarios
 
-## Future State: Text Messaging AND Email will be supported
-GIVEN a user that isn't flagged/blocked and they have a mobile phone number is on file and an email address is missing
-WHEN they open the notification settings page 
-THEN they see an alert that allows them to edit their mobile phone number
-AND a prompt to add an email address
+### Current State: Only Text Messaging is Supported
+- GIVEN a user that isn't flagged/blocked and a mobile phone number is on file
+- WHEN they open the notification settings page
+- THEN they see an alert that allows them to edit 
 
-GIVEN a user that isn't flagged/blocked they have an email address is on file and a mobile number is missing
-WHEN they open the notification settings page 
-THEN they see an alert that allows them to edit the email address
-AND a prompt user to add a mobile number
+### Future State: Text Messaging AND Email will be supported
+#### missing email address with a mobile number present 
+- GIVEN a user that isn't flagged/blocked and they have a mobile phone number is on file and an email address is missing
+- WHEN they open the notification settings page
+- THEN they see an alert that allows them to edit their mobile phone number
+- AND a prompt to add an email address
+
+#### missing mobile number with an email address present
+- GIVEN a user that isn't flagged/blocked they have an email address is on file and a mobile number is missing
+- WHEN they open the notification settings page
+- THEN they see an alert that allows them to edit the email address
+- AND a prompt user to add a mobile number
 
 ## UX
 If a user has some information, we display the information we have on file with links to edit. If they have one or the other, email or phone number, we display the information we have and prompt the user to add the additional information. In all cases it is optional to provide the information, however if the user has no contactr info on file we use a warning alert component, see use case: [user has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
