@@ -4,7 +4,12 @@
 ---
 
 ## Overview
-Veterans are required to update their dependents every 8 years through a paper 21P-686c form that is mailed to them with a letter explaining the requirement. Veterans can also view, add, and remove their dependents on VA.gov by utilizing an online version of the 686c form. Veterans can also fill out an online 21-674 form to Request Approval of School Attendance when claiming benefits for a child who is at least 18 years old, but under 23, and attending school. The 686c and 674 online forms appear as one integrated experience, but VA.gov generates two seperate pdf forms when the online data is submitted.
+Veterans are required to update their dependents every 8 years through a paper 21-686c form that is mailed to them with a letter explaining the requirement. Veterans can also view, add, and remove their dependents on VA.gov by utilizing an online version of the 686c form. Veterans can also fill out an online 21-674 form to Request Approval of School Attendance when claiming benefits for a child who is at least 18 years old, but under 23, and attending school. The 686c and 674 online forms appear as one integrated experience, but VA.gov generates two seperate pdf forms when the online data is submitted.
+
+- [21-686c Online Form](https://www.va.gov/find-forms/about-form-21-686c/): Application Request to Add and/or Remove Dependents
+- [21-686c pdf](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
+- [21-674 Online Form](https://www.va.gov/find-forms/about-form-21-674/): Request for Approval of School Attendance
+- [21-674 pdf](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
 
 ## Problem Statement
 Currently, updating dependency information outside of the 8-year requirement is voluntary, and the burden to remember to make dependency updates falls on the Veteran. This results in a very low quality feedback loop of what dependents are intended to be on award, which has contributed to $250 million in annual benefit overpayments.
