@@ -93,7 +93,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: Conversion rate from opening email to viewing "view dependents" page (>50%)
   - Key result: Reduced annual overpayment (<$100m)
 
----
     
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
 - Who is monitoring the dashboard(s)?: [FILL_IN] **ask at kick off 1/10/24**
