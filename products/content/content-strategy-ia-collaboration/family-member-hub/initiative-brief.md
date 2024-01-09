@@ -70,7 +70,7 @@ Pension > Survivors Pension | 92,167
 
 **2. Increased feedback score for able to complete task**
 **3. Increased overall average CSAT scores for family member hub and family-specific pages**
-- _past data from 8/17/22-8/16/23
+- _past data from 8/17/22-8/16/23_
 
 Old page | CSAT | Trust | Able to complete task | 
 --- | --- | --- | ---
