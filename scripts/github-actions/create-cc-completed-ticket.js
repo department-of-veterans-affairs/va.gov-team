@@ -18,7 +18,7 @@ const TICKET_STRINGS = {
   teamName: '### VFS team name',
   productName: '### Product name',
   featureName: '### Feature name',
-  labelText: '### GitHub label for product'
+  labelText: '### GitHub label for'
 }
 
 const axiosInstanceZH = axios.create({
