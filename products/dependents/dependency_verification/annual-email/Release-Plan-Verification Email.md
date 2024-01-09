@@ -44,7 +44,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 Our Design Researchers and PM with work with the Notify team to monitor analytics in DOMO, Sentry, and other tracking for on-platform. If they see a spike in errors or unexpected behavior, they will use the feature flag to discontinue the launch. 
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase I: unmoderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
