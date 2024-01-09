@@ -221,7 +221,7 @@ Before we click on anything…
 - Why do you think the VA is asking you this?
 - (Is there anything else you’d like to share about this question?)
 
-Go ahead and click `Continue` and we’ll move on.
+Go ahead and choose `I have a question` and then we'll `Continue`.
 
 **Key things to notice:**
 - Do the options confuse them, given the name of the service?
@@ -295,7 +295,7 @@ So, for example, I might say, “I’d start by typing my first name in this box
 - Does that mean you would share both your social security number and service number?
 - Do you have a service number?
 
-Now, since you’re not able to fill in your information with this prototype, let’s click on the `First name` field and pretend like you filled it in.
+Now, since you’re not able to fill in your information with this prototype, let’s click on the box under `First name` and pretend like you filled it in.
 
 **Key things to notice:**
 - Is it clear that you need to enter either a SSN or a SN, not both?
@@ -318,7 +318,7 @@ Great. So we’ll pretend like you filled in this page. And click `Continue`.
 - Would you choose to search by name or location? Why?
 - If you wanted to search by location, where would you click?
 
-For today, we'll say you live in New York and you we'll pretend like you start typing in "New." You can click on the box. 
+For today, we'll say you live in New York and we'll pretend like you start typing in "New." You can click on the box. 
 
 **Key things to notice:**
 - Do they notice that there’s two tabs without being prompted?
@@ -422,7 +422,7 @@ I’ll give you a few moments to look through this page.
 - Is there anything that stands out to you on this page? Anything unclear?
 - Why is VA asking for your address?
 
-Okay, we’ll pretend like you filled in this page. You can click `Street address`.
+Okay, we’ll pretend like you filled in this page. You can click the box under `Street address`.
 
 **Key things to notice:**
 - Is anything confusing about the address page?
@@ -457,7 +457,7 @@ Let’s go ahead and click `Continue`.
 - Can you tell me what you would do first on this page?
 - If you wanted to [review, or whatever word they used] your category and topic, what would you click next?
 
-Let’s open `Your category and topic`.
+Let’s open `Category and topic`.
 
 - Where has this information come from?
   - Is this information familiar to you?
