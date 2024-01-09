@@ -107,7 +107,7 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 | 2 | Replace sign out button with “signed out” for devices that are no longer active.  |
 | 3 | Add in disclaimer that the user will be signed out of all sessions including the current session and will need to sign back in if they confirm “sign out of all devices”.  |
 | 4 | Hyperlink “changing your password” in the body text.  |
-| 5 | Work with _____ to create a communication plan for feature roll-out since this is a new user experience.  |
+| 5 | Work with Danielle Thierry  to create a communication plan for feature roll-out since this is a new user experience.  |
 
 #### Recommendations - Future Feature Enhancements
 
