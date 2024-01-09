@@ -84,6 +84,97 @@ sequenceDiagram
 
 ### Integration
 
+To show the upcoming appointments in check-in experience pages, we have to call not only the appointments data from VAOS appointments service, but also facilities, clinics and provider services
+
+- Authentication
+    
+    Authentication is handled through the MAP OAuth Secure Token Service (STS). The STS service requires a registered `client_id` and a `client_assertion` scoped to the patient identifier. The `access_token` needs to be added as a header to the appointments request. It is valid for 15 minutes and should be cached to avoid multiple requests if the user refreshes the appointments page.
+
+- VAOS Appointments Service
+    
+    Staging URL: [`https://veteran.apps-staging.va.gov/vaos/v1`](https://veteran.apps-staging.va.gov/vaos/v1)
+    
+    As mentioned above, the requests to this service require the `access_token` in `X-VAMF-JWT` header from the STS. 
+    
+    - Sample Request
+        
+        ```bash
+        curl --request GET \
+          --url 'https://veteran.apps-staging.va.gov/vaos/v1/patients/{patient_icn}/appointments?start=2023-11-10T17%3A12%3A30.174Z&end=2023-12-12T17%3A12%3A30.174Z' \
+          --header 'Content-Type: application/x-www-form-urlencoded' \
+          --header 'X-VAMF-JWT: <jwt_token>'
+        ```
+        
+    - Sample Response
+        
+        ```json
+        {
+          "data": [
+            {
+              "id": "180766",
+              "identifier": [
+                {
+                  "system": "Appointment/",
+                  "value": "413938333130383736"
+                },
+                {
+                  "system": "http://www.va.gov/Terminology/VistADefinedTerms/409_84",
+                  "value": "983:10876"
+                }
+              ],
+              "kind": "clinic",
+              "status": "booked",
+              "serviceType": "amputation",
+              "serviceTypes": [
+                {
+                  "coding": [
+                    {
+                      "system": "http://veteran.apps.va.gov/terminologies/fhir/CodeSystem/vats-service-type",
+                      "code": "amputation"
+                    }
+                  ]
+                }
+              ],
+              "serviceCategory": [
+                {
+                  "coding": [
+                    {
+                      "system": "http://www.va.gov/Terminology/VistADefinedTerms/409_1",
+                      "code": "REGULAR",
+                      "display": "REGULAR"
+                    }
+                  ],
+                  "text": "REGULAR"
+                }
+              ],
+              "patientIcn": "1013125218V696863",
+              "locationId": "983GC",
+              "clinic": "1081",
+              "start": "2023-11-13T16:00:00Z",
+              "end": "2023-11-13T16:30:00Z",
+              "minutesDuration": 30,
+              "slot": {
+                "id": "3230323331313133313630303A323032333131313331363330",
+                "start": "2023-11-13T16:00:00Z",
+                "end": "2023-11-13T16:30:00Z"
+              },
+              "created": "2023-08-02T00:00:00Z",
+              "cancellable": true,
+              "extension": {
+                "ccLocation": {
+                  "address": {}
+                },
+                "vistaStatus": [
+                  "NO ACTION TAKEN"
+                ],
+                "preCheckinAllowed": true,
+                "eCheckinAllowed": true,
+                "clinic": {}
+              }
+            }
+          ]
+        }
+        ```
 
 ### Resources
 
