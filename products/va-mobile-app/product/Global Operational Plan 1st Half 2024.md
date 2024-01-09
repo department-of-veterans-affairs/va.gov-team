@@ -92,59 +92,35 @@ As new components are built by the Mobile Design System, they should be incorpor
 
 ### 6. Appendix
 6.1 -  [Flagship Mobile Monthly Report](https://lookerstudio.google.com/u/0/reporting/e28cd59a-b2e5-4f29-8ae4-a4eea6d23f9c/page/p_xatxe90k9c)
+
 6.2 - [Sprint 72 Demo - Understanding our Users
 Veteran Behavior](https://docs.google.com/presentation/d/1Ivx3I6Ne6FJ1EBlrPdkcDg4SAdYwgoYfbXaa5RhdD7A/edit#slide=id.g33cc3b02a5_0_49)
 
-
-| Column 1 | Column 2 | Column 3 |Column 3 |Column 3 |
+**Retention Rates**
+| Veteran Behavior | 30-Day Rate | 60-Day Rate |90-Day Rate |10 Month Rate |
 | -------- | -------- | -------- |-------- |-------- |
-| Veteran Opened App     | Text     | Text     |Text     |Text     |
-|Text     |Text     |Text     |Text     |
+| Veteran Opened App     | 40%     | 34%     |31%     |22%     |
+|Veteran Viewed Home Screen     |65%     |56%     |52%     |40%     |
+|Delta Veterans viewing the home screen vs. only opening the app     |+15%     |+22%     |+21%     |+18%     |
 
 
-60-Day Rate
-90-Day Rate
-10-Month Rate
-
-40%
-34%
-31%
-22%
-Veteran Viewed Home Screen
-65%
-56%
-52%
-40%
-Difference between Veterans viewing the home screen vs. only opening the app
-+15%
-+22%
-+21%
-+18%
 
 
-6.3 -  Alchemer 2023 Mobile Customer Engagement Benchmark Report
-Industry
-30-Day Rate
-90-Day Rate
-30-Day Difference from Flagship
-90-Day Difference from Flagship
-Healthcare
-52%
-39%
-+12%
-+5%
-Insurance
-51%
-41%
-+11%
-+10%
-Banking
-85%
-78%
-+45%
-+44%
+6.3 -  [Alchemer 2023 Mobile Customer Engagement Benchmark Report](https://www.alchemer.com/wp-content/uploads/2023/04/2023-Mobile-Engagement-Benchmark-Report_AlchemerMobile.pdf)
+
+**Retention Rates**
+| Industry | 30-Day Rate | 90-Day Rate| 30-Day Difference from Flagship | 90-Day Difference from Flagship |
+| -------- | -------- | -------- | -------- | -------- |
+| Healthcare     | 52%     | 39%     | +12%     | +5%     |
+| Insurance     | 51%     | 41%     | +11%     | +10%     |
+| Banking     | 85%     | 78%     | +45%     | +44%     |
 
 
-6.4 - App Store Reviews 2023
-6.5 - Mobile App Retention Research Findings 
-6.6 - Prescriptions Dashboard, Appointments Dashboard, Claims Dashboard
+
+
+
+6.4 - [App Store Reviews 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/reporting/App-Stores-Reviews)
+
+6.5 - [Mobile App Retention Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/final%20report.md) 
+
+6.6 - [Prescriptions Dashboard](https://lookerstudio.google.com/u/0/reporting/8e2627dc-fd2c-4be0-83dc-b60f69df7527/page/p_wtepo1ul5c), [Appointments Dashboard](https://lookerstudio.google.com/u/0/reporting/06c3f64f-fcbd-4c13-adb6-3a9c34503f63/page/p_wtepo1ul5c), [Claims Dashboard](https://lookerstudio.google.com/u/0/reporting/dea3ede1-2d2e-4401-abd7-a44beada8a35/page/p_wtepo1ul5c)
