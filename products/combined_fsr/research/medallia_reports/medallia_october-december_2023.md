@@ -7,18 +7,27 @@ Data from: 10/16/23 - 12/14/23
  - **0.9% of Veterans entering FSR left feedback**
 
 **Analytics Data**
-10/15/23 - 12/15-23
+10/15/23 - 12/15/23
+
 28,971 total in FSR:
+
 23,828 forms were started
+
 4,980 forms were successful
+
 163 forms failed
+
 20% completion rate by user
+
 522 successful submissions last week
 
 **Medallia Feedback Submissions**
-* 10/15/23 - 12/15-23
+10/15/23 - 12/15/23
+  
 Medallia Feedback: N = 432
+
 FSR: 267 quant + qual responses
+
 Debt Portal: 165 quant + qual responses
 
 *Data variability is apparent between respondents since all questions are optional (not required).
@@ -37,8 +46,10 @@ Debt Portal: 165 quant + qual responses
 
 
 **Debt Portal - Summary Page - quantitative analysis**
+
 Were you able to do your task today? (n = 95)
- - Yes: 32
+
+- Yes: 32
 - No: 63
 
 What is your overall satisfaction with this site? (n = 90)
@@ -48,7 +59,10 @@ What is your overall satisfaction with this site? (n = 90)
 * 2 rating: 18 responses
 * 1 rating: 33 responses
 
-**Debt Portal - Summary,** **Top 3 concerns, N = 90**
+**Debt Portal - Summary,** 
+
+**Top 3 concerns, N = 90**
+
 A qualitative analysis of Veterans answers to the question [What task were you trying to do today?] for 90 Veteran responses of the Medallia Survey between October 16 - December 14, 2023 reveal:
 
 1.  Questioning why they were emailed and wondering whether they have debt. N = 36/90 
@@ -59,6 +73,7 @@ A qualitative analysis of Veterans answers to the question [What task were you t
 3.  Negative emotions due to the fear that they might have debt. N = 7/90
 
 **Debt Portal - Summary, Miscellaneous**
+
 Additional issues and concerns by a smaller number of Veterans:
 
 -   Confusion about when something is past due, especially for copays
@@ -73,6 +88,7 @@ Additional issues and concerns by a smaller number of Veterans:
 	-   Concurrent Retirement and Disability Pay
 
 **Veteran Qualitative Feedback** 
+
 **1. **Why did you email me/where does this debt come from? (VHA notification) N = 36/90****
 
 -   Some Veterans who receive the email notification express negative emotions due to the confusion:
@@ -145,6 +161,7 @@ Additional issues and concerns by a smaller number of Veterans:
 10/16 - 12/14
 
 **FSR 10/1/23 - 12/14/23 - quantitative analysis**
+
 Were you able to do your task today? (n = 59)
  - Yes: 17
 - No: 42
