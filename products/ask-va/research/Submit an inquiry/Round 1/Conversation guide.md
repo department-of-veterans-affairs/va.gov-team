@@ -286,8 +286,8 @@ So, for example, I might say, “I’d start by typing my first name in this box
 - And in this next field?
 - (Continue until bottom of the page - Gender)
 - Why do you think VA needs this information?
-- Is there any information on this page that you would not like to give the VA?
-- Is there any other information that you expect to share with the VA?
+- Is there any information on this page that you would not like to give VA?
+- Is there any other information that you expect to share with VA?
 
 (If it’s not mentioned yet) I noticed that it asks for a social security number or service number.
 
@@ -311,7 +311,7 @@ Great. So we’ll pretend like you filled in this page. And click `Continue`.
 > Screen: Health facility [Empty search]
 
 - Can you describe this page to me? What is this page asking you to do?
-- Do you know why the VA is asking for your health facility? Why?
+- Do you know why VA is asking for your health facility? Why?
 - Can you tell me what you would do first to search for your health facility?
 - What does search by name mean?
 - What does search by location mean?
@@ -369,7 +369,7 @@ Okay, now before we talk about this page I just want to check in.
 Great. Let’s talk about this page.
 
 - Can you describe how you’d fill in this page?
-- Why is the VA asking for this information?
+- Why is VA asking for this information?
 
 Okay, well since we can’t type your information today, we’ll click the ‘Phone number’ box and pretend like we filled it in.
 
@@ -390,7 +390,7 @@ Before we click anything…
 - What is this page asking for?
 - Which option would you normally choose?
 
-Today, we’re going to pretend like you prefer the VA to send you a response in the mail. 
+Today, we’re going to pretend like you prefer VA to send you a response in the mail. 
 
 - Can you show me what you would do?
 
@@ -420,7 +420,7 @@ For today, let’s choose `United States` and `Continue`.
 I’ll give you a few moments to look through this page.
 
 - Is there anything that stands out to you on this page? Anything unclear?
-- Why is the VA asking for your address?
+- Why is VA asking for your address?
 
 Okay, we’ll pretend like you filled in this page. You can click `Street address`.
 
