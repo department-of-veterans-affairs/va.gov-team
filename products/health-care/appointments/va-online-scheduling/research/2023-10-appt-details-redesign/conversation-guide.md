@@ -63,9 +63,9 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to desktop prototype.]
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
 
-* Use chat to send user [link to mobile prototype.]
+* Use chat to send user [link to mobile prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
 * Talk participant through screen sharing so they can share their screen.
 
