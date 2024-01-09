@@ -191,7 +191,7 @@ ________________________________________________________________________________
         - ✔️ 🟩 [[FE] DS v3 #3: Update slim alerts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
         - ✔️ 🟩 [[FE] DS v3 #5: Update buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)            
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
-       - 🟩 [[FE] Update Production and Unified h1 headings to align with Design System requirements of 52 characters or less and one sentence headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72266)
+       - ✔️ 🟩 [[FE] Update Production and Unified h1 headings to align with Design System requirements of 52 characters or less and one sentence headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72266)
     - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71867)
 
 _____________________________________________________________________________________________________________________________________________________
