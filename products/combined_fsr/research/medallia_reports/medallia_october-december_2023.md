@@ -2,7 +2,7 @@
 
 ## Debt Portal: Medallia Survey,  Feedback Analysis
 
-Data from: 10/16/23 - 12/16/23
+Data from: 10/16/23 - 12/14/23
 
  - **0.9% of Veterans entering FSR left feedback**
 
