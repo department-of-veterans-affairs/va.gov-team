@@ -1,4 +1,4 @@
-# Feature Outline: Dependency Verification (email)
+# Initiative Brief: Dependency Verification (email)
 <!-- *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)* -->
 
 ---
@@ -21,7 +21,6 @@ Veterans are currently required to update their dependents by mailed paper lette
 
  
 ## Desired User Outcomes
-
 - Veteran's can quickly, easily and regulary update the VA on their dependents' status' so that they aren't being overpaid or underpaid.
 - The VA will save close to $250 M a year in overpayments.
 - Congressional obligations will be met.
@@ -49,13 +48,14 @@ Veterans are currently required to update their dependents by mailed paper lette
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI                       | Base Value | Target Value | Ending Value |
+|---------------------------|------------|--------------|--------------|
+| Bounce rate               |            |              |              |
+| Open rate                 |            |              |              |
+| Click-through rate        |            |              |              |
+| Volume of 686 submissions |            |              |              |
+| Total Overpayment Amount  |            |              |              |
 
-#### Baseline KPI Values
-* Effectively at 0%
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
