@@ -81,7 +81,7 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 /
-|KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 1 week post-launch to 100% [12/19-12/25/2023]| 2 weeks post-launch to 100% [12/26/2023-1/1/2024]| 3 weeks post-launch to 100% [1/2-1/8/2024]| 4 weeks post-launch to 100% [1/9-1/15/2024]|
+|KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 1 week post-launch to 100% [12/19-12/26/2023]| 2 weeks post-launch to 100% [12/27/2023-1/2/2024]| 3 weeks post-launch to 100% [1/3-1/9/2024]| 4 weeks post-launch to 100% [1/10-1/16/2024]|
 |----------|:-:|:-:|:-:|:-:|:-:|
 |dd214|167(ranked 3rd)|16 (ranked 13th)|16 (ranked 13th)||||
 |direct deposit|188 (ranked 1st)|27(ranked 4th)|31 (ranked 2nd)||||
@@ -101,38 +101,7 @@ not maintained
 
 ### Baseline Metrics for Hub vs Side Nav
 
-| **Event Action**                                                                         | **Users**                 | **%users** | **Events** | **% total events** |
-|--------------------------------------------------------------------------------------|-----------------------|--------|--------------|----------------|
-| **Side Nav**                                                                             |                       |        |              |                |
-| Navigation - Side - Profile - Personal information                                   | 6924                  | 19.79% | 8214         | 8.28%          |
-| Navigation - Side - Profile - Notification settings                                  | 5264                  | 15.04% | 5932         | 5.98%          |
-| Navigation - Side - Profile - Military information                                   | 7265                  | 20.76% | 8414         | 8.48%          |
-| Navigation - Side - Profile - Direct deposit information                             | 5931                  | 16.95% | 7504         | 7.56%          |
-| Navigation - Side - Profile - Contact information                                    | 6935                  | 19.82% | 8233         | 8.29%          |
-| Navigation - Side - Profile - Connected apps                                         | 3174                  | 9.07%  | 3334         | 3.36%          |
-| Navigation - Side - Profile - Account security                                       | 4393                  | 12.55% | 4928         | 4.96%          |
-|                                                                                      |                       |        |              |                |
-| **Profile Hub**                                                                          |                       |        |              |                |
-| Navigation - Link Click - View payment history                                       | 4736                  | 13.53% | 5507         | 5.55%          |
-| Navigation - Link Click - Update your sign-in info on the My HealtheVet website      | 82                    | 0.23%  | 88           | 0.09%          |
-| Navigation - Link Click - Update your sign-in info on the Login.gov website          | 98                    | 0.28%  | 101          | 0.10%          |
-| Navigation - Link Click - Update your sign-in info on the ID.me website              | 185                   | 0.53%  | 190          | 0.19%          |
-| Navigation - Link Click - Update your sign-in info on the DS Logon website           | 114                   | 0.33%  | 123          | 0.12%          |
-| Navigation - Link Click - Update your mobile phone number                            | 157                   | 0.45%  | 165          | 0.17%          |
-| Navigation - Link Click - Profile Hub - Review your military information             | 6393                  | 18.27% | 6920         | 6.97%          |
-| Navigation - Link Click - Profile Hub - Review account security                      | 607                   | 1.73%  | 652          | 0.66%          |
-| Navigation - Link Click - Profile Hub - Manage your personal information             | 11183                 | 31.96% | 12325        | 12.42%         |
-| Navigation - Link Click - Profile Hub - Manage your direct deposit information       | 4402                  | 12.58% | 5497         | 5.54%          |
-| Navigation - Link Click - Profile Hub - Manage your contact information              | 7677                  | 21.94% | 8337         | 8.40%          |
-| Navigation - Link Click - Profile Hub - Manage notification settings                 | 1623                  | 4.64%  | 1664         | 1.68%          |
-| Navigation - Link Click - Profile Hub - Manage connected apps                        | 1149                  | 3.28%  | 1179         | 1.19%          |
-| Navigation - Link Click - Profile Hub -                                              | 6763                  | 19.33% | 7870         | 7.93%          |
-| Navigation - Link Click - Learn how to verify your identity on VA.gov                | 114                   | 0.33%  | 118          | 0.12%          |
-| Navigation - Link Click - Learn how to request your DD214 and other military records | 1247                  | 3.56%  | 1309         | 1.32%          |
-| Navigation - Link Click - Add a phone number to your profile                         | 652                   | 1.86%  | 656          | 0.66%          |
-| Navigation - Link Click - Account security                                           | 1                     | 0.00%  | 1            | 0.00%          |
-|                                                                                      |                       |        |              |                |
-| **Grand totals**                                                                         | 34992                 |        | 99261        |                |
+
 
 
 ## Key deliverables
