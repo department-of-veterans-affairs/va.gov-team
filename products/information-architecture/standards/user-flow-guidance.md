@@ -48,7 +48,7 @@ User flows should explore more than the “happy path” of a single user.  When
 
 Users do not access task flows the same way, interact with elements as expected, or always take the happy path. It is critical to understand where there are points in your flow that a user may need to branch from the primary flow, or where decision points could lead a user down an alternative path incorrectly. 
 
-<img width="600" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c85b1740-622d-47c6-9377-ba2f4999840f">
+![Financial status report user scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c85b1740-622d-47c6-9377-ba2f4999840f)
 
 *Example of user scenarios in a flow for Financial Status Report*
 
