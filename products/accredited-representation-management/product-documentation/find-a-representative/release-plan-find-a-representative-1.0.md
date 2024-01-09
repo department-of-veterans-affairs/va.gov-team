@@ -1,4 +1,4 @@
-# Release Plan: Find a Representative MVP
+# Release Plan: Find a Representative 1.0 (MVP)
 
 
 ### Development
