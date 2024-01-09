@@ -40,19 +40,16 @@ Once they update or add their contact information, the workflow will bring them 
 ## Codes
 N/A
 
-## How to reproduce update mobile number
+## Current State - Only one scenario exists add/edit mobile number
+### How to reproduce update mobile number
 1. Sign into staging (any user with a mobile number will work, alternatively add a mobile number to the user's contact information) 
 2. Go to https://staging.va.gov/profile/notification-settings 
 3. Follow the link at the top of the notification settings page "update your mobile phone numbber"
 4. You should see a new screen display with a form field for inputting a phone number
 
-## How to reproduce update email address
-1. Sign into staging (any user with a contact email address will work, alternatively add an email address under the contact information page) 
-2. Go to https://staging.va.gov/profile/notification-settings 
-3. Follow the link at the top of the notification settings page "update your email address"
-4. You should see a new screen display with a form field for inputting an email address
+## Future State - Add/edit phone or email, multiple scenarios
 
-## How to reproduce add missing mobile number with an email address present 
+### How to reproduce add missing mobile number with an email address present 
 1. Sign into staging (any user without a mobile number will work, alternatively remove a mobile number from the user's contact information page) 
 2. Go to https://staging.va.gov/profile/notification-settings 
 3. Follow the link at the top of the notification settings page "add your mobile phone number to your profile"
@@ -62,7 +59,7 @@ N/A
 7. Saving will again return you to the notification settings screen
 
 
-## How to reproduce add missing email address with a mobile number present  
+### How to reproduce add missing email address with a mobile number present  
 1. Sign into staging (any user without a contact email address will work, alternatively remove the email address under the contact information page) 
 2. Go to https://staging.va.gov/profile/notification-settings 
 3. Follow the link at the top of the notification settings page "add your email address to your profile"
