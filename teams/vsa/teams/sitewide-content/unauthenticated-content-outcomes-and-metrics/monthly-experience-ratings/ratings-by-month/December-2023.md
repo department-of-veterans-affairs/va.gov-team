@@ -31,6 +31,11 @@ All pages have ratings of 2 or below.
     
 - **Breakdown of resources and support scores by 10s:**
 
+<img width="485" alt="Screenshot 2024-01-09 at 9 47 27 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/104f8243-2e2d-4e3b-9954-57cb465e6dbd">
+
+<img width="480" alt="Screenshot 2024-01-09 at 9 50 03 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/350c4275-1c6f-478e-a906-711813b3c472">
+
+
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 - [Non-compensible disability](https://www.va.gov/resources/non-compensable-disability/) (100% good out of 22 total responses)
