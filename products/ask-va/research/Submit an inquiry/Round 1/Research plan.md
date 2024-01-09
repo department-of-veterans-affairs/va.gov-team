@@ -160,12 +160,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 ### Pilot sessions
 
 **Pilot 1**
-Pilot participant email: Jeff Wallace (Tyler will add to pilot sessions herself)
-Date and time of pilot session: 12-1:30pm EST
+- Pilot participant email: Jeff Wallace (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: 12-1:30pm EST
 
 **Pilot 2**
-Pilot participant email: Will York(Tyler will add to pilot sessions herself)
-Date and time of pilot session: 2-3:30pm EST
+- Pilot participant email: Will York(Tyler will add to pilot sessions herself)
+- Date and time of pilot session: 2-3:30pm EST
 
 ## Research sessions
 
