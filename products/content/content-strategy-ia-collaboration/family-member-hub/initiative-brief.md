@@ -61,18 +61,28 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 Old page | Avg views/month | New page | Views/month after launch
 --- | --- | --- | ---
-Family member hub | 240,770 | |
-Health care > Family health benefits | 73,144 ||
-Disability > Dependent Indemnity Comp | 104,816 | |
-Education > Survivor dependent benefits | 96,709 | |
-Pension > Survivors Pension | 92,167 | |
+Family member hub | 240,770 | Family benefits |
+Health care > Family health benefits | 73,144 | Family benefits > Health care and disability |
+Disability > Dependent Indemnity Comp | 104,816 | Family benefits > Survivors compensation |
+Education > Survivor dependent benefits | 96,709 | Family benefits > Education and careers |
+Pension > Survivors Pension | 92,167 | Family benefits > Survivors compensation |
 
 
 **2. Equivalent or increased submitted family member applications**
 
 
 **3. Increased overall average CSAT scores for family member hub and family-specific pages**
+- _past data from 8/17/22-8/16/23
 
+Old page | CSAT | Trust | Able to complete task | 
+--- | --- | --- | ---
+Family member hub | 69.1% | 65% | 62%
+Health care > Family health benefits | 56.8% | 56.9% | 17%
+Disability > Dependent Indemnity Comp | 62.3% | 55% | 23%
+Education > Survivor dependent benefits | 58.9% | 61.8% | 20%
+Pension > Survivors Pension | 60.5%  | 60.7% | 34%
+
+https://va-gov.domo.com/page/825663825
 
 **Additional data points to watch**
 - No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
