@@ -310,8 +310,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 > [!WARNING]
 > This file needs added once it is cleaned up.
-> * Phase 0 launch design file
-* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=okyHLO&nav=eyJoIjoiMTEyNDQyMDU5MSJ9)
+> * [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/v/ll4M4o/p/C3D9FA2D-5311-4886-B25F-655123816797/canvas?posX=-2388.652777084397&posY=-14203.551973537104&zoom=0.0813358947634697)
+* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=F548Gc&nav=eyJoIjoiODE5OTM2Njc4In0)
 
 
 ### Vitals
