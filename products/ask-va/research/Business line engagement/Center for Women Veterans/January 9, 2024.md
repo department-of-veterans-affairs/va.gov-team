@@ -32,7 +32,7 @@
 
 ### Decision
 
-We will keep gender identity across all categories. We will collect the gender of the submitter.
+We will keep gender identity across all categories. It will be required. We will collect the gender of the submitter.
 
 ## Actions
 
