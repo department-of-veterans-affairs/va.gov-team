@@ -1,4 +1,4 @@
-# Initiative Brief: Dependency Verification (email)
+# Feature Brief: Dependency Verification (email)
 <!-- *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)* -->
 
 ---
