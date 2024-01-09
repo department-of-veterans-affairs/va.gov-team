@@ -6,7 +6,7 @@
 
 | Mobile Team | Team Category| PM | Team | Focus | Team Ticket Label | Ceremonies | Slack Channel 
 | ------------| ----| ----| -----| -----| -------------| -----------|--------| 
-| Health and Benefits | Flagship | Alayna Abell (fully onboarded 1/22/24) | Kris (FE), Dylan (FE), Lauren (UX) | Maintaining all Health and Benefit Features within VAHB App and coordinating with VA on new features | Health | Standup: Tues/Wed 12pm; Grooming 12:30 Thursdays | va-mobile-health-benefits|
+| Health and Benefits | Flagship | Alayna Abel (fully onboarded 1/22/24) | Chris (FE), Dylan (FE), Lauren (UX) | Maintaining all Health and Benefit Features within VAHB App and coordinating with VA on new features | Health | Standup: Tues/Wed 12pm; Grooming 12:30 Thursdays | va-mobile-health-benefits|
 | Global | Flagship | Ameet Sarkar | Holly (UX), Jon (FE), Theo (FE), Chika (FE), Flagship Shared Servivces: Liz (Research), Misty (Content), Brea (UX - Accessibility), Greta (Data) | Features that affect the entire app or all users | global | global   Standup: Mon - Thurs 1:30; Grooming: 1pm Wednesdays; Retros: 130 every other Thursday | va-mobile-global|  
 | Design System  | Shared Services |Kelly Lein | Narin (FE), Tim R (FE), Jessica (UX) | Define and standardize visual elements to be used by teams engaging in the VAHB App  | design-system  | Standup: Mon - Thurs 4pm |  va-mobile-app-design-system |
 | API  |Shared Services | Stacy Blackwood | Jayson (BE), Kris (BE) , Andrew (BE), Jason C (BE)| Team focuses on back-end engineering needs for other Mobile teams including integration, updating existing APIs due to upstream changes, etc  | | | va-mobile-api-engineering
