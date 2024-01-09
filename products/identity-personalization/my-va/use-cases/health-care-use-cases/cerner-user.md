@@ -2,8 +2,6 @@
 
 **Last updated:** January 9, 2024 _(addition of language around Cerner alert, removal of reference to MyHealtheVet link on My VA, added Figma links)_
 
-# My VA Health Care Use Case: User has VA health care and has received health care services at a Cerner facility
-
 For LOA3 users who sign in, have VA health care, and have received care at a Cerner facility, we will show an alert in the Health care section of My VA directing them to the new VA health portal and My HealtheVet.
 
 ## UX
