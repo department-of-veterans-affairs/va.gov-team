@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-Dependency Verification gives a quick and easy opportunity for a Veteran to update the VA on whenther the dependents on their award is are accurate.  This is important because the VA would like to reduce the almost $250 million dollars in over payments made every year as well as relieve VEterans of unneccessary debt.
+Dependency Verification gives a quick and easy opportunity for a Veteran to update the VA on whenther the dependents on their award is are accurate.  This is important because the VA would like to reduce the almost $250 million dollars in over payments made every year as well as relieve Veterans of unneccessary debt.
 
 ## Problem Statement
 Veterans are currently required to update their dependents by mailed paper letter only every 8 years. This results in a very low quality feedback loop of what dependents are intended to be on award.
