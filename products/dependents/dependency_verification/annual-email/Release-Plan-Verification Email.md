@@ -76,11 +76,24 @@ Our rollout plan has 3 phases, each increasing the number of Veterans. This is a
 - How will you make the product available in production while limiting the number of users who can find/access it: Email notification will be sent to a limited percentage of the target audience
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
+| KPI                       | Base Value | Target Value | Ending Value | 
+|---------------------------|------------|--------------|--------------|
+| Bounce rate               |            |              |              |
+| Open rate                 |            |              |              |
+| Click-through rate        |            |              |              |
+| Volume of 686 submissions |            |              |              |
+| Total Overpayment Amount  |            |              |              |
 
 
+### Objectives and Key results (OKRs)
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+- Objective: More Veterans have verified that their dependents are correct, or have the option to correct them.
+  - Key result: Percentage comparison of annual updates compared to total (0%+)
+  - Key result: Conversion rate from opening email to viewing "view dependents" page (>50%)
+  - Key result: Reduced annual overpayment (<$100m)
+
+---
     
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
 - Who is monitoring the dashboard(s)?: [FILL_IN] **ask at kick off 1/10/24**
