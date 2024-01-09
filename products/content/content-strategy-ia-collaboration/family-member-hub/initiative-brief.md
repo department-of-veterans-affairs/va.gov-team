@@ -56,11 +56,27 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ### Key Performance Indicators (KPIs)
 
-- Increased traffic to the family member hub
-  - Baseline: 240,415 avg views/month as of 8/16/23 
-- Same or increased traffic to key family member pages moved from Veteran benefit hubs to the family member hu
+**1. Equivalent or increased traffic to the new family hub pages compared to current pages**
+- _past data from 8/17/22-8/16/23_
+
+Old page | Avg views/month | New page | Views/month after launch
+--- | --- | --- | ---
+Family member hub | 240,770 | |
+Health care > Family health benefits | 73,144 ||
+Disability > Dependent Indemnity Comp | 104,816 | |
+Education > Survivor dependent benefits | 96,709 | |
+Pension > Survivors Pension | 92,167 | |
+
+
+**2. Equivalent or increased submitted family member applications**
+
+
+**3. Increased overall average CSAT scores for family member hub and family-specific pages**
+
+
+**Additional data points to watch**
 - No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
-- Improved overall satisfaction rating in the feedback survey of the family member hub page
+
 
 
 
