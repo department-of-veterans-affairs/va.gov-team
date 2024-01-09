@@ -13,12 +13,12 @@ WHEN they open the notification settings page
 THEN they see an alert that allows them to edit 
 
 ## Future State: Text Messaging AND Email will be supported
-GIVEN a user that isn't flagged/blocked and they have a mobile phone number is on file
+GIVEN a user that isn't flagged/blocked and they have a mobile phone number is on file and an email address is missing
 WHEN they open the notification settings page 
 THEN they see an alert that allows them to edit their mobile phone number
 AND a prompt to add an email address
 
-GIVEN a user that isn't flagged/blocked they have an email address is on file
+GIVEN a user that isn't flagged/blocked they have an email address is on file and a mobile number is missing
 WHEN they open the notification settings page 
 THEN they see an alert that allows them to edit the email address
 AND a prompt user to add a mobile number
@@ -38,3 +38,38 @@ Once they update or add their contact information, the workflow will bring them 
 
 - [Desktop mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A1066&mode=design&t=fFXrAB6EhydHOLDF-1)
 - [Mobile  mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A426&mode=design&t=fFXrAB6EhydHOLDF-1)
+
+## Codes
+N/A
+
+## How to reproduce update mobile number
+1. Sign into staging (any user with a mobile number will work, alternatively add a mobile number to the user's contact information) 
+2. Go to https://staging.va.gov/profile/notification-settings 
+3. Follow the link at the top of the notification settings page "update your mobile phone numbber"
+4. You should see a new screen display with a form field for inputting a phone number
+
+## How to reproduce update email address
+1. Sign into staging (any user with a contact email address will work, alternatively add an email address under the contact information page) 
+2. Go to https://staging.va.gov/profile/notification-settings 
+3. Follow the link at the top of the notification settings page "update your email address"
+4. You should see a new screen display with a form field for inputting an email address
+
+## How to reproduce add missing mobile number with an email address present 
+1. Sign into staging (any user without a mobile number will work, alternatively remove a mobile number from the user's contact information page) 
+2. Go to https://staging.va.gov/profile/notification-settings 
+3. Follow the link at the top of the notification settings page "add your mobile phone number to your profile"
+4. You should see a new screen display with a form field for inputting a phone number
+5. Saving will return you to the notification settings screen
+6. Follow the link at the top of the notification settings page "update your email address"
+7. Saving will again return you to the notification settings screen
+
+
+## How to reproduce add missing email address with a mobile number present  
+1. Sign into staging (any user without a contact email address will work, alternatively remove the email address under the contact information page) 
+2. Go to https://staging.va.gov/profile/notification-settings 
+3. Follow the link at the top of the notification settings page "add your email address to your profile"
+4. You should see a new screen display with a form field for inputting an email address
+5. Saving will return you to the notification settings screen
+6. Follow the link at the top of the notification settings page "update your mobile phone number"
+7. Saving will again return you to the notification settings screen
+
