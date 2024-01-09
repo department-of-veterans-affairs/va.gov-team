@@ -148,8 +148,8 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - 🚧 ❗ 🟦 [[BE] - Encrypt and log phone numbers for BTSSS error responses](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71509)
         - Need more quidance from Mark
-    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
+    - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ✔️ ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Exclude VVC and CVT from eCheck-in**
          - ✔️ ❗ 🟩 [[FE] Exclude VVC and CVT from eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72261)
