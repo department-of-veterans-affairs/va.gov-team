@@ -15,27 +15,18 @@ This document is intended to answer questions around "How might MHV on VA.gov al
 
 ## Recommendations
 
-### Appliations should use the existing Downtime notification
+### MHV Appliations should use a custom Downtime notification
 
-MHV application teams should use the Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations. MHV applications should create application-specific "external service" entries and use that in addition to an MHV-wide entry.
+The Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations provide an experience that isn't quite what we want for MHV downtime maintenance. 
 
-| MHV application | External service key | Notes |
-| - | - | - |
-| MHV auth | `mhv` | [Already exists](https://github.com/department-of-veterans-affairs/vets-website/blob/3d41a1ee7dc50997887951ec7af4cd52653a5a47/src/platform/monitoring/DowntimeNotification/config/externalServices.js#L32). Ideally the service key could be renamed to something more specific like `mhv-auth`, since it is was [set up for identity/auth concerns](https://dsva.slack.com/archives/C04DRS3L9NV/p1704471144967659?thread_ts=1702663719.861489&cid=C04DRS3L9NV) | 
-| All MHV down | `mhv-apps` | Something hyphenated needed due to plain `mhv` being used for auth downtime |
-| Appointments | `mhv-appointments` | They already have `vaos`, unsure if change is really needed |
-| Medical Records | `mhv-medical-records` |  |
-| Medications | `mhv-medications` |  |
-| Secure Messaging | `mhv-secure-messaging` |  |
+In particular, we want:
 
-### MHV Landing page should implement a `MultiDowntimeNotification`
+- An h1 heading identifying the app/page to appear along with the downtime alert. The platform downtime notification component doesn't provide this.
+- The alert to follow the UX and content recommended in the [Mural designs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?sender=u4c72b2ff45e7c2f8e2942500)
+  - App/tool name appears inside the alert. The platform component shows generic "this tool" text.
+  - Shows times for maintenance window. The platform component does not show start or end times
+- consistency across all MHV apps/pages
 
-Tthe MHV Landing does not represent one particular service, so it should show MHV-wide downtime or a list of services that are down or will go down. To this end, the MHV Landing page should create a `MultiDowntimeNotification` component that can be used in conjunction with the existing `DowntimeNotification` component and supporting code.
-
-## Current priorities
-
-1. Have all MHV on VA.gov applications present a downtime notification based on the "general"/"all" service defined in PagerDuty. The MHV application teams have already created this: [MHV-52770 downtime notifications](https://github.com/department-of-veterans-affairs/vets-website/pull/27233)
-1. Get additional PagerDuty "services" created for individual MHV applications, so we can set a downtime notification around particular MHV applications. The `DowntimeNotification` supports checking multiple "external services," so once the PagerDuty services are created, and are defined in [devops code](https://github.com/department-of-veterans-affairs/devops/blob/67c1711a18486e0425bfb4795bb375bbe9fea31a/ansible/deployment/config/vets-api/prod-settings.local.yml.j2#L320) and [externalServices.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/monitoring/DowntimeNotification/config/externalServices.js), teams can update their applications to also respect application-specific downtime.
 
 ## Potential enhancements
 
@@ -49,11 +40,29 @@ Currently, the `DowntimeNotification` doesn't offer the option to display an h1 
 
 We should add a prop to the  `DowntimeNotification` that can render a header as part of the [`Down` component](https://github.com/department-of-veterans-affairs/vets-website/blob/6c7a067d9961513ce5dc99423b80c5a8bf982f40/src/platform/monitoring/DowntimeNotification/components/Down.jsx) that renders during downtime by default.
 
-### Landing page lists which services are down
+
+### Per-MHV-app downtimes
+
+If we are able to set maintenance windows per MHV app, we could provide more granular alerts. This would require each team have an application-specific PagerDuty and the landing page would need logic to list individual service maintenance windows.
+
+| MHV application | External service key | Notes |
+| - | - | - |
+| MHV auth | `mhv` | [Already exists](https://github.com/department-of-veterans-affairs/vets-website/blob/3d41a1ee7dc50997887951ec7af4cd52653a5a47/src/platform/monitoring/DowntimeNotification/config/externalServices.js#L32). Ideally the service key could be renamed to something more specific like `mhv-auth`, since it is was [set up for identity/auth concerns](https://dsva.slack.com/archives/C04DRS3L9NV/p1704471144967659?thread_ts=1702663719.861489&cid=C04DRS3L9NV) | 
+| All MHV down | `mhv-apps` | Something hyphenated needed due to plain `mhv` being used for auth downtime |
+| Appointments | `mhv-appointments` | They already have `vaos`, unsure if change is really needed |
+| Medical Records | `mhv-medical-records` |  |
+| Medications | `mhv-medications` |  |
+| Secure Messaging | `mhv-secure-messaging` |  |
+
+
+#### MHV Landing page should implement a `MultiDowntimeNotification`
+
+Tthe MHV Landing does not represent one particular service, so it could show MHV-wide downtime or a list of services that are down or will go down. To this end, the MHV Landing page should create a `MultiDowntimeNotification` component that can be used in conjunction with the existing `DowntimeNotification` component and supporting code.
 
 The MHV on VA.gov landing page leads to multiple MHV services, so it might make sense to show information about what services are unavailable when the downtime/outage is for some, but not all MHV services.
 
-The existing Downtime Notification implementation can be made aware of multiple services. Some applications also use custom components to render notifications rather than use the default `DowntimeApproaching` and `Down` components, as supported by the `DowntimeNotification` component via a `render prop`. The tradeoff is that the app would need to handle the `downtimeApproaching` vs `down` states itself; This is a minor detail.
+The existing Downtime Notification implementation can be made aware of multiple services, though does not provide custom messaging around which services/parts are down.
+
 
 ### Automated notifications
 
