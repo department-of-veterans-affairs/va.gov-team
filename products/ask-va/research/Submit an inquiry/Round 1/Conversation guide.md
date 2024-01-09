@@ -15,7 +15,6 @@ Last updated by @tygindraux: January 9, 2024
 
 ### 10 minutes before the session
 
-- [ ] Slack Perigean notetaker a link to Github notes document
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Start a thread in Teams, General channel for CRM folks
 - [ ] Sign into Perigean’s Zoom and start the meeting
