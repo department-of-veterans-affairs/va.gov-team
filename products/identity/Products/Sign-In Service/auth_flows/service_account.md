@@ -10,7 +10,7 @@
 
 ## Summary
 
-The Sign in Service offers a private key JWT flow to allow API authentication and scoped authorization for its clients. In this flow, clients preregister a `ServiceAccountConfig` with SiS that includes their public key & desired scopes, then make a request to the `/token` endpoint with a JWT assertion requesting specific scopes & signed with their private key. SiS validates the JWT against the saved `ServiceAccountConfig`'s public key and scopes, then issues a scoped access token that can be used to access SiS or 3rd-party SiS-client routes that can validate the access token against the SiS [public key](https://staging-api.va.gov/sign_in/openid_connect/certs).
+The Sign in Service (SiS) offers a private key JWT flow to allow API authentication and scoped authorization for its clients. In this flow, clients preregister a `ServiceAccountConfig` with SiS that includes their public key & desired scopes, then make a request to the `/token` endpoint with a JWT assertion requesting specific scopes & signed with their private key. SiS validates the JWT against the saved `ServiceAccountConfig`'s public key and scopes, then issues a scoped access token that can be used to access SiS or 3rd-party SiS-client routes that can validate the access token against the SiS [public key](https://staging-api.va.gov/sign_in/openid_connect/certs).
 
 ### Postman Collection
 
@@ -18,7 +18,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 
 ## Service Account Config Registration
 
-- A [`ServiceAccountConfig`](../configuration/service_account_config.md) must be registered with appropriate SiS environment in order to receive Service Account access_tokens. This database object provides SiS with the client's public certificates and scoped permissions used to authenticate requests and provision scoped access tokens.
+- A [`ServiceAccountConfig`](../configuration/service_account_config.md) must be registered with the appropriate SiS environment in order to receive Service Account access_tokens. This database object provides SiS with the client's public certificates and scoped permissions used to authenticate requests and provision scoped access tokens.
 
 ## Service Account Flow
 
@@ -98,14 +98,14 @@ assertion=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjQwMDAiLCJzdWIiO
 - `access_token` contains the encoded JWT access token, signed by Sign in Service's private key
 - The returned token has the following attributes:
 
-- `iss`: SiS Issuer (`va.gov sign in`)
-- `aud`: URL of Service Account making the token assertion
-- `jti`: a random unique identifier
-- `sub`: email address of user requesting delegated access
-- `iat`: creation time in epoch
-- `exp`: expiration time in epoch (5 minutes after creation time)
-- `version`: version number
-- `scope`: array of URL strings for scoped authorization
+  - `iss`: SiS Issuer (`va.gov sign in`)
+  - `aud`: URL of Service Account making the token assertion
+  - `jti`: a random unique identifier
+  - `sub`: email address of user requesting delegated access
+  - `iat`: creation time in epoch
+  - `exp`: expiration time in epoch (5 minutes after creation time)
+  - `version`: version number
+  - `scope`: array of URL strings for scoped authorization
 
 ### Example Response
 

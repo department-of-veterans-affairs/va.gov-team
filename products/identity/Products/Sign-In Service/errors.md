@@ -2,11 +2,10 @@
 
 This document serves as an reference for Sign in Service (SiS) related errors.
 
-<details>
-  <summary>
-    <h2>⛑️ Client</h2>
-    <p>This represents a table of possible error codes that a client of SiS might see.</p>
-  </summary>
+<summary>
+  <h2>⛑️ Client</h2>
+  <p>This represents a table of possible error codes that a client of SiS might see.</p>
+</summary>
 
 ## Authorize - [`/sign_in/authorize`](./endpoints/authorize.md)
 
@@ -78,13 +77,10 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | 400 | **No valid Session found** | The session tied to the `refresh_token` cannot be found| Perform a new authentication to start a new session |
 | 400 | 'Token theft detected' | The `refresh_token` or its parent are not tied to the session | Clear cookies & cache, try again |
 
-</details>
-
-<details>
-  <summary>
-    <h2>💢 General errors</h2>
-    <p>This represents a table of possible error codes that occur behind the scenes</p>
-  </summary>
+<summary>
+  <h2>💢 General errors</h2>
+  <p>This represents a table of possible error codes that occur behind the scenes</p>
+</summary>
 
 ### Access Token JWT Decoder
 
@@ -181,5 +177,3 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | --- | --- | --- | --- |
 | 400 | **Invalid Session Handle** | An active session with the `access_token`'s `sesion_handle` could not be found | Clear cache & cookies, try again |
 | 400 | **Invalid User UUID** | - | - |
-
-</details>

@@ -11,7 +11,7 @@
 
 Sign in Service [Service Account](../auth_flows/service_account.md) clients are managed through a `ServiceAccountConfig` class within vets-api. In order to perform a Service Account authentication with SiS a valid ServiceAccountConfig must be present.
 
-When following this guide to create a `ServiceAccountConfig` it is recommended to also refer to the Service Account auth guide linked above, which will details individual settings necessary for that authentication type.
+When following this guide to create a `ServiceAccountConfig` it is recommended to also refer to the Service Account auth guide linked above, which details the individual settings necessary for that authentication type.
 
 ## Service Account Config Attributes
 

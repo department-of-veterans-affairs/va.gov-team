@@ -22,6 +22,7 @@ Production: 'https://api.va.gov/v0/sign_in/authorize'
 | `code_challenge_method` | Client specified, most common value is S256 | String | `S256` |
 | `code_verifier` | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
 | `state` | Optional string that can be taken in the `authorize` call and returned with the `callback` redirect for the client's verification purposes. Minimum 22 characters. | String | `kFflCkxk1K6gQUf...` |
+| `operation` | Optional parameter to request new account creation with the CSP, defaults to `authorize` otherwise | string | `sign_up`, `authorize` |
 
 ### Code Verifier / Code Challenge
 

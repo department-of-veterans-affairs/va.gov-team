@@ -15,7 +15,7 @@
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
 
 ### Local `vets-api` & `vets-api-mockdata` Repositories
 
@@ -25,9 +25,9 @@ In order to successfully develop against a local instance of Sign in Service, [v
 
 ### Client Config
 
-In order to make use of the Sign in Service clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
+In order to make use of the Sign in Service, clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
 
-When registering a Client Config for a mobile or API integration with SiS, the following attributes as so:
+Below are the ClientConfig attributes that necessary for a successful mobile or API integration with SiS:
 
 - `authentication`: 'api'
 - `anti_csrf`: `false`
@@ -56,7 +56,7 @@ When registering a Client Config for a mobile or API integration with SiS, the f
 ### Backend Client
 
 - [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-expired-access-token.png)
-- [Authenticated - access_token expired request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-valid-access-token.png)
+- [Authenticated - access_token valid request flow](../flow%20diagrams/pkce/backend%20driven/authenticated-valid-access-token.png)
 
 ## Sign in Service Public Routes
 
@@ -64,49 +64,28 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
 
 ### GET Routes
 
-#### [Authorization](../endpoints/authorize.md)
+#### [Authorization](../endpoints/authorize.md) - initiates a session with SiS and prompts the user to enter credentials
 
-- `staging-api.va.gov/v0/sign_in/authorize`
-- params: `acr`, `type`, `code_challenge`, `code_challenge_method`, `client_id`
-- optional params: `state`, `operation`
+#### [Introspect](../endpoints/introspect.md) - retrieves user information (authenticated route)
 
-#### [Introspect](../endpoints/introspect.md) - authenticated route
-
-- `staging-api.va.gov/v0/sign_in/introspect`
-
-#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
-
-- `staging-api.va.gov/v0/sign_in/revoke_all_sessions`
-
-#### [Logout](../endpoints/logout.md) - authenticated route
-
-- `staging-api.va.gov/v0/sign_in/logout`
-- params: `client_id`
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - looks up a user and ends all of their sessiosn (authenticated route)
 
 ### POST Routes
 
-#### [Token](../endpoints/token.md)
+#### [Token](../endpoints/token.md#cookie--api-pkce-auth) - provides the client with access & refresh tokens after authentication
 
-- `staging-api.va.gov/v0/sign_in/token`
-- params: `code`, `code_verifier`, `grant_type`
+#### [Refresh](../endpoints/refresh.md) - updates a user session and obtain new tokens (refresh token authenticated route)
 
-#### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
-
-- `staging-api.va.gov/v0/sign_in/refresh`
-- params: `refresh_token`
-
-##### [Revoke](../endpoints/revoke.md) - refresh token authenticated route
-
-- `staging-api.va.gov/v0/sign_in/revoke`
+##### [Revoke](../endpoints/revoke.md) - ends the user session (refresh token authenticated route)
 
 ## API OAuth Workflow
 
 1. User selects which credential service provider (CSP) they would like to authenticate with in the client application.
-2. Client directs user to SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
+2. Client directs user to SiS OAuth `/authorize` endpoint with specific query parameters that conform to their preregistered Client Config.
 3. SiS redirects to CSP website for user to enter credentials.
 4. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
 5. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
-6. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token`&  `vagov_refresh_token`
+6. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token` &  `vagov_refresh_token`
   | Token Name | Description |
   | --- | --- |
   | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
@@ -114,7 +93,7 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
 7. Client uses access token to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `Authorization: Bearer <accessTokenHash>`
     - response: `"data": { user_data }`
-8. Client uses the refresh token to get an new tokens (when access token reaches expiry) by querying the `/refresh` endpoint. New tokens are returned in a JSON payload identical to those returned from the `/token` endpoint.
+8. Client uses the refresh token to get a new token pair (when access token reaches expiry) by querying the `/refresh` endpoint. New tokens are returned in a JSON payload identical to those returned from the `/token` endpoint.
 
 ## Parameters & Return Values
 

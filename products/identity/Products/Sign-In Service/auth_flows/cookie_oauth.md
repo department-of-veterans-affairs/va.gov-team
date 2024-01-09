@@ -14,7 +14,7 @@
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
 
 ### Local `vets-api` & `vets-api-mockdata` Repositories
 
@@ -59,39 +59,25 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 
 ### GET Routes
 
-#### [Authorization](../endpoints/authorize.md)
+#### [Authorization](../endpoints/authorize.md) - initiates a session with SiS and prompts the user to enter credentials
 
-- `staging-api.va.gov/v0/sign_in/authorize`
-- params: `type`, `client_id`, `acr`, `code_challenge`, `code_challenge_method`
-- optional params: `state`, `operation`
+#### [Introspect](../endpoints/introspect.md) - retrieves user information (authenticated route)
 
-#### [Introspect](../endpoints/introspect.md) - authenticated route
+- Cookie clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
 
-- `staging-api.va.gov/v0/sign_in/introspect`
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - looks up a user and ends all of their sessiosn (authenticated route)
 
-- Web clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
-
-#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - authenticated route
-
-- `staging-api.va.gov/v0/sign_in/revoke_all_sessions`
-
-#### [Logout](../endpoints/logout.md) - authenticated route
-
-- `staging-api.va.gov/v0/sign_in/logout`
-- params: `client_id`
+#### [Logout](../endpoints/logout.md) - ends the user session (authenticated route)
 
 ### POST Routes
 
-#### [Token](../endpoints/token.md)
+#### [Token](../endpoints/token.md#cookie--api-pkce-auth) - provides the client with access & refresh tokens after authentication
 
-- `staging-api.va.gov/v0/sign_in/token`
-- params: `code`, `code_verifier`, `grant_type`
+- Cookie clients of SiS will also receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
 
-  Cookie clients of SiS will also receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
+#### [Refresh](../endpoints/refresh.md) - updates a user session and obtain new tokens (refresh token authenticated route)
 
-#### [Refresh](../endpoints/refresh.md) - refresh token authenticated route
-
-- `staging-api.va.gov/v0/sign_in/refresh`
+##### [Revoke](../endpoints/revoke.md) - ends the user session (refresh token authenticated route)
 
 ## Cookie OAuth Workflow
 
@@ -111,7 +97,7 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 8. Client uses access token cookie to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `vagov_access_token=<accessTokenHash>`
     - response: `"data": { user_data }`
-9. Client uses the refresh token to get an new tokens (when access token reaches expiry) by querying the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
+9. Client uses the refresh token to get an new token set (when access token reaches expiry) by querying the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
 
 ## Parameters & Return Values
 

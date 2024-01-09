@@ -9,7 +9,7 @@
 
 ## Summary
 
-Private Key JWT Authentication allows a backend client unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by their pre-registered private key. It differs from PKCE auth only during the initial request for tokens, when the client has not yet obtained SiS credentials. Integrations with the rest of the SiS routes are managed through [API](./api_oauth.md) authentication.
+Private Key JWT Authentication allows a backend client unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by a private key; the JWT is then validated by Sign in Service (SiS) against the client's pre-registered public certificate connected to that key. It differs from PKCE auth only during the initial request for tokens, when the client has not yet obtained SiS credentials. Integrations with the rest of the SiS routes are managed through [API](./api_oauth.md) authentication.
 
 ### Service Account Authentication
 
@@ -25,7 +25,7 @@ The usage of Private Key JWT auth vs PKCE auth is controlled in [your client's `
 
 ### Creating and Registering Public Certificates
 
-A new public/private key pair can be created through your terminal:
+A new private key/public certificate pair can be created through your terminal:
 
 ```bash
 > openssl req -nodes -x509 -days 365 -newkey rsa:2048 -keyout private.pem -out public.crt
@@ -58,7 +58,11 @@ This string can then be copied and inserted (within an array) into your Client C
 
 ## Sequence Diagram
 
+- Sequence Diagram to be added
+
 ## Technical Diagram
+
+- Technical Diagram to be added
 
 ## Flow Diagrams
 
@@ -66,17 +70,7 @@ This string can then be copied and inserted (within an array) into your Client C
 
 ## Public Routes
 
-### [Token](../endpoints/token.md)
-
-- `staging-api.va.gov/v0/sign_in/token`
-- params: `code`, `grant_type`, `client_assertion`, `client_assertion_type`
-
-| Parameter Name | Description | Value Type | Value |
-| --- | --- | --- | --- |
-| code | authentication code provided by vets-api to be exchanged for tokens | string | `8db56c32-8eec-4efe-8293-9fbbe717f087` |
-| grant_type |  specifies authentication type, `authorization_code` is required for Private Key JWT auth | string | `authorization_code` |
-| client_assertion |  JWT signed by client key to prove their authenticity | string | `eyJhbGciOiJSUzI1NiJ9...` |
-| client_assertion_type |  specifies 'JWT Bearer' assertion type | string | `urn:ietf:params:oauth:client-assertion-type:jwt-bearer` |
+### [Token](../endpoints/token.md#private-key-jwt-auth) - provides the client with access & refresh tokens after authentication
 
 ### Creating a Client Assertion
 
