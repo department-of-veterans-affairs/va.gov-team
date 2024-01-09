@@ -24,12 +24,15 @@
 
 > "We can’t control what other folks do, but for us, gender is something we have to have."
 
-> "It’s not only when they ask us for data but it’s also when we ask them for data on certain things. With our mandate, not only are we looking at how we help women Veterans but we’re also looking at how Veteran enterprise wide is helping Veterans on various issues. It helps us know what we need to do to help women Veterans."
+> "It’s not only when they ask us for data but it’s also when we ask them for data on certain things. With our mandate, not only are we looking at how we help women Veterans but we’re also looking at how VA enterprise wide is helping Veterans on various issues. It helps us know what we need to do to help women Veterans."
 - Pronouns are different to gender identity. Right now, they don't focus on the pronoun field for reporting.
 > "Pronouns are completely different from gender identity. Someone could say I’m non-binary and I want to go by them/they. Or it could be a female Veteran who is still trying to determine who she/he/they is. I can’t say for sure that their pronouns will help me get to the number for how many women we helped."
 
-- Back in [October](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Women%20Veterans/October%2012%2C%202023.md), we agreed to condense the number of topic in AVA for the CWV category. Instead of a long list of many topics (for reporting purposes), we will have two topics: `Programs and policies` and `General question`. This means the CWV will need to approach other business lines to understand how many women Veterans are asking about `Debt` or `Education` for example. With this in mind, we all agree that it's important we keep collecting Gender across all categories in AVA.
-- Decision: We will keep gender identity across all categories. We will collect the gender of the submitter.
+- In [October](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Women%20Veterans/October%2012%2C%202023.md), we agreed to condense the number of topic in AVA for the CWV category. Instead of a long list of many topics (for reporting purposes), we will have two topics: `Programs and policies` and `General question`. This means the CWV will need to approach other business lines to understand how many women Veterans are asking about `Debt` or `Education`, for example. With this in mind, we all agree that it's important we keep collecting Gender across all categories in AVA.
+
+### Decision
+
+We will keep gender identity across all categories. We will collect the gender of the submitter.
 
 ## Actions
 
