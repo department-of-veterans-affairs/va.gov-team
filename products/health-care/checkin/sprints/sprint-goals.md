@@ -23,10 +23,10 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
- - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support eCheck-in for CERNER Sites**
-         - 🟩 TBD
-         - 🟦 TBD                    
+- **GOAL: Integrate with CERNER**
+    - **Sub Goal: Support eCheck-in for CERNER Sites**
+        - 🟩 TBD
+        - 🟦 TBD                    
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
@@ -79,10 +79,10 @@ ________________________________________________________________________________
         - Need more quidance from Mark; if we don't here from Mark this sprint, it will be de-prioritized
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
-  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support eCheck-in for CERNER Sites**
-         - ❗ 🟩 [SPIKE: Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
-         - ❗ 🟩 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73228)
+ - **GOAL: Integrate with CERNER**
+    - **Sub Goal: Support eCheck-in for CERNER Sites**
+        - ❗ 🟩 [SPIKE: Placeholder](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
+        - ❗ 🟩 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73228)
  - **GOAL: Address Usage Issues**
      - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
          - ❗ 🟥 [[UX] [Content] Decide whether to have modality-specific error pages or modality-agnostic error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72429)
