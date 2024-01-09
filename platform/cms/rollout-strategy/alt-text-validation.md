@@ -11,17 +11,17 @@ The CMS team will be implementing client-side error messaging to display to edit
 * Reliable and accurate experience for Veterans who visit VA.gov and rely on screen readers
 * Web accessibility compliance across Drupal CMS editors.
 ## What's Changing
-CMS Editors, who _upload a new image_ to either the Media Library or within a Content node will be shown errors if the alt text they add for their image:
+CMS Editors, who **upload a new image** to either the Media Library or within a Content node will be shown errors if the alt text they add for their image:
 * Is Over 150 characters long
 * Contains a file extension (.png, .jpg, .jpeg, or .gif)
-*Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”.
+* Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”
 
 These errors will be shown immediately upon focusing out of the alt text field, meaning that the editor will receive the feedback that something within their alt text must be corrected prior to trying to save the image.
 
-CMS Editors, who _edit an existing image_, will be shown errors if the existing alt text for the image violates one of the following:
+CMS Editors, who **edit an existing image**, will be shown errors if the existing alt text for the image violates one of the following:
 * Is Over 150 characters long
 * Contains a file extension (.png, .jpg, .jpeg, or .gif)
-* Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”.
+* Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”
 
 These errors will be shown even if the editor's original intention was not to edit the alt text. These errors will be shown when the editor attempts to save the image and must be corrected before the image will be allowed to be saved.
 ## Impact
