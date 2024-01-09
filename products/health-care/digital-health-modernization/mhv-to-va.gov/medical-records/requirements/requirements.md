@@ -8,7 +8,7 @@
 |1/2/24        | Coulton Bunney   | Set up structure |
 |1/3/24        | Coulton Bunney   | Updated allergies and vaccines information |
 |1/4/24 | Coulton Bunney | Added key research and data documents|
-|1/9/24 | Coulton Bunney | Added conditions information|
+|1/9/24 | Coulton Bunney | Added conditions information, Added lab results information|
 
 
 
@@ -302,6 +302,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Vitals
 
+**To be completed by Kaitlin Fink**
+
 <details>
 <summary>List view requirements</summary>
  
@@ -336,6 +338,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 </details>
 
 ### Care summaries and notes
+
+**To be completed by Kaitlin Fink**
 
 <details>
 <summary>List view requirements</summary>
@@ -372,27 +376,83 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Lab and test results
 
+
 <details>
 <summary>List view requirements</summary>
  
 ---
 #### IA
+URL: `/my-health/medical-records/labs-and-tests`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 
 #### Content
 
+> **NOTE**
+> Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be `Lab and test results`
+* Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold on lab results and 14 day delay for pathology results (pathology results simply take longer to come back)
+* Additional info that explains what to know about printing and downloading lab and test information
+* For each result in list, include the following information
+  * Test name
+     *  If specific test name not available, use test category such as Microbiology
+  * Date
+     * Chem/Hem, Microbiology, Pathology: Date specimen was collected
+     * Imaging: Date imaging test was performed
+  * Test category
+     * Chemistry and hematology
+     * Pathology (if not used as test name)
+     * Microbiology (if not used as test name)
+     * X-ray and imaging results (Radiology)
+  * Provider who ordered the lab or test
+
 #### Functionality
+* List should be paginated, with 10 results per page
+* For each result, a user should be able to click on the first line of the card (result name) to view detailed information about that result
+
 ---
 </details>
 
 <details>
-<summary>Details view requirements</summary>
+<summary>Details view requirements - Chem/Hem results</summary>
  
 ---
 #### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
 
 #### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+> **NOTE:** These results may consist of two parts. 
+> 1. Each lab test has “top-level” information that describes the metadata for the test. These are called Cosmic (VistA) or Orderable (OH) tests.
+> 1. Each Cosmic or Orderable test can have one or more structured results, called atomic tests (VistA) or discrete task assays (OH).
+
+* H1 for this page should be the name of the orderable or cosmic test.
+* At the Cosmic/Orderable level, include the following information
+   * Type of test - Chemistry and hematology
+   * Date and time that the specimen for this test was collected
+   * The location at which the specimen was collected
+   * The provider who ordered the test
+   * The location of the provider who ordered the test
+   * Site or sample tested
+   * Comments entered by the lab
+* Information about understanding your results, presented within an additional info component
+* At the Atomic/Discrete level, include the following information for each result, presented in a card
+   * Test name
+   * Result measurement
+   * Units - _include as part of result measurement_
+   * Flag - _include as part of result measurement_
+   * Reference range
+   * Status
+   * Performing lab location
 
 #### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
 ---
 </details>
 
@@ -405,6 +465,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 | | |
 </details>
 
+* [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
+* [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
 
 ## Phase 1
 
