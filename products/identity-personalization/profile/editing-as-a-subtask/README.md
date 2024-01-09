@@ -96,3 +96,5 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 - This user flow can be kicked off from anywhere on VA.gov
 - A visualization of the flow is on the Mobile page of the design files linked above.
 
+## Use cases 
+Use case documentation will be placed alongside the feature this is supporting, eg. notification settings. 
