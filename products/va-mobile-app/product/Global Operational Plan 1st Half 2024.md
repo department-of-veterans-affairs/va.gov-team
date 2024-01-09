@@ -25,11 +25,12 @@ In 2024, we plan to focus on and achieve the following Flagship objectives:
 The following tenets are guiding principles to evaluate and prioritize Flagship activities:
 * **User retention is important:** While the app holds value even if a Veteran accomplishes just one task, the significance of user retention is establishing a consistent connection with the Veteran. This connection offers opportunities to introduce Veterans to services they currently do not use. Furthermore, any enhancement to the app, such as boosting task rates or introducing new features, becomes significantly less beneficial if Veterans leave the app.
 * **Understanding user behavior builds better products:** Quantitative and qualitative data provide valuable context on what Veterans actually want. Every decision doesn’t require data but we must be more data-driven in order to build a better product for Veterans.
-* **Focus on the top of the funnel:** Login is a significant issue and if it’s not solved, or at least mitigated, then the value provided to Veterans by new or existing features is significantly hampered
+* **Focus on the top of the funnel:** The beginning of any user experience affects all users, meaning that improvements in this area likely have lagging benefits for most other features. Login is a significant issue and if it’s not solved, or at least mitigated, then the value provided to Veterans by new or existing features is significantly hampered
 * **Quality over speed:** We will prioritize ensuring that new features solve Veteran problems and do not introduce errors over delivering features as fast as possible.
 
 ### 4. State of the Product
 **User Retention**
+
 Since the Flagship app’s inception in 2021, it has crossed over 2 million downloads (1.3 million iOS, 700k Android). However, the number of downloads does not correlate with usage. In 2023, 1.5 million Veterans opened the app, indicating that Veterans who download the app will not necessarily continue to use it and a substantial percentage will leave (see appendix 6.1). This user retention problem was explored throughout 2023.
 
 Quantitative analysis uncovered that user retention is a significant and persistent problem. Specifically, user retention at the 30, 60, and 90-day marks are 40%, 34%, and 31% respectively. Beyond 90 days, retention continues to drop until it reaches 22% at the ten-month mark. This means that 4 out of 5 Veterans will stop using the app after several months (see appendix 6.2). 
@@ -43,36 +44,46 @@ User retention was further analyzed by looking at first-time users who had both 
 Login issues are a known problem that have been continuously surfaced in app store reviews (see appendix 6.4) and were further corroborated by qualitative and quantitative retention research conducted in the summer of 2023. Multiple research participants mentioned that they faced login issues. Quantitative analyses found that users who are unable to log in the first time will return an average of 1.7 times to try again (see Appendix 6.5). This suggests that users who face login issues will make very few attempts to return given the current state of the app.
 
 **Tasks**
+
 One of the primary goals of the app is to enable Veterans to perform tasks that help them access benefits and services from the VA. Multiple features (Appointments, Claims, and Prescriptions) have tasks that are defined but do not have analytics. Many other tasks across the app are not defined and do not have analytics (see Appendix 6.6). As a result, it is unclear how effective the app is at enabling Veterans to accomplish their tasks.
 
 Research conducted in July 2023 found that many Veterans have difficulty understanding what the app offers. This could lead to a lower task rate because the onus is on the Veteran to understand how the app works. The personalized home screen, expected to be delivered in early Q1 2024, aims to surface tasks on the home screen which could increase the number of tasks completed by Veterans. Personalized home screen analytics will provide insight as to whether this happened.
 
 **User Satisfaction and Feedback**
+
 App store ratings are high (iOS App Store rating of 4.8 & Play Store rating of 4.5), which is a positive indication that Veterans generally like the app (see appendix 6.1). However, App Store ratings may be inaccurate due to several biases such as polarization (Veterans who love or hate the app submit ratings) or demographics (specific types of people may be more likely to submit ratings). Beyond app store ratings and unlike other VA products, we do not have a more targeted way of assessing user satisfaction. 
 Similarly, there are no ways to collect in-app feedback from Veterans. This makes it more difficult to understand specific pain points that come directly from Veterans and subsequently improve the user experience.
 
 **Design system**
+
 In the second half of 2023, the Flagship Platform team launched a design system, which aims to improve development speed and design consistency. The design system team has built a couple of components and the Flagship app has incorporated one of them into the app. 
 
 ### Strategic Priorities
 **5.1 - Focus on the top of the funnel to improve retention rates**
-<u>Understand and improve login </u>
+
+<ins>Understand and improve login</ins>
+
 While it’s clear that login is an issue, there’s little data on exactly what is happening when login is failing. There are several analytics tickets, that are already ready to be worked on, which would enable the completion of the previously deprioritized Login Dashboard. The Login Dashboard would provide insights into the specific issues preventing login.
 Once analytics are added, the login pain points should be reviewed and a mitigation plan should be implemented. Login error mitigations could range from alerts that inform users about exactly what the problem is, so they can fix it, to providing the teams in charge of login with additional data on the types of errors we are seeing. These interventions should be considered in addition to other ideas such as non-authenticated experiences that provide users value without having to login.
 
-<u>Understand and utilize effective acquisition channels</u>
+<ins>Understand and utilize effective acquisition channels</ins>
+
 In Q4, work has been done to create parameters that can be added to referring URLs so that the Global team can track where users are coming to the app from. The Global team should coordinate with the Comms team to ensure that tracking parameters are added to marketing campaigns to understand which acquisition channels are effective. This is of increasing importance considering Veterans who don’t regularly use the app said they came back when they heard about new features. This was also born out in the data which found that Veterans sometimes come back around the the 121-180 day mark (see Appendix 6.5)
 
-<u>Understand how life changes drive Veterans to download and use the app</u>
+<ins>Understand how life changes drive Veterans to download and use the app</ins>
+
 In the 2023 user retention research findings, multiple Veterans mentioned that they download or return to the app when they experience life changes or when VA providers recommend that they download the app. Research slated for Q1 is focused on understanding these moments in order to understand what drives Veterans to the app. Understanding these moments could provide valuable insight into why Veterans download the app and how the app can support new users, in addition to the many other ideas to improve the app that generative research provides.
 
 **5.2 - Understand and improve task success rates** 
-<u>Define tasks, add analytics, and support improvement</u>
+
+<ins>Define tasks, add analytics, and support improvement</ins>
+
 The Global team, Health & Benefits team, and Product Owners must coordinate to define all tasks across the app. Afterwards, each task should have the requisite analytics added to track the task success rates. Adding analytics would be done by the Health & Benefits teams as they are the owners of the features and the pages where tasks start and end. For tasks with low success rates, Global and Health & Benefits should coordinate to identify improvements for the user experience for tasks with low success rates 
 
 In addition, all new features should have analytics in place to track task success rates before they are deployed to production. 
 
-<u>Implement push notifications to minimize work for Veterans</u>
+<ins>Implement push notifications to minimize work for Veterans</ins>
+
 In Q4 2023, the push notification strategy was revised due to a lack of analytics. Specifically, the Flagship team is unable to determine the open rate for a push or if it led to task success. In Q1, the Global team should define use cases for push notifications and add analytics so that we’re able to gauge push notification effectiveness. 
 
 To implement push notifications, use cases for pushes must be defined so that we can coordinate with other teams that must provide data responses to VA Notify. For example, the Flagship app would need to coordinate with an external team to create a push notification that informs Veterans that their disability rating has changed. Specifically, that external team would need to send a response to VA Notify about disability rating changes for a push notification to be sent. 
