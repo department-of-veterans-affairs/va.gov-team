@@ -2,7 +2,7 @@
 
 Ask VA Front-End Team
 
-Last updated by @tygindraux: January 3, 2024
+Last updated by @tygindraux: January 9, 2024
 
 ## Moderator logistics
 
