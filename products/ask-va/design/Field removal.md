@@ -28,7 +28,7 @@ We recommend removing this field because:
 ## Veteran's Service Start and End Dates
 These fields are currently optional. They ask for the Veteran's Start and End Dates.
 
-We recommend removing these fields because business lines said they are unnecessary when we asked for their [feedback about service fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#service-start-and-end-dates).
+We recommend removing these fields because [business lines said this information is unnecessary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#claim-number)
 
 ### Next step
 - We will recommend to the CCB that these fields are removed from the form.
@@ -36,7 +36,7 @@ We recommend removing these fields because business lines said they are unnecess
 ## Veteran's Claim Number
 This field is currently optional. It asks for the Veteran's Claim Number.
 
-We recommend removing this field because business lines said it's unnecessary when we asked for their [feedback about service fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#claim-number)
+We recommend removing this field because [business lines said this information is unnecessary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#claim-number)
 
 ### Next step
 - We will recommend to the CCB that this field is removed from the form.
