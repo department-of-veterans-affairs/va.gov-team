@@ -7,9 +7,9 @@ Last updated by @tygindraux: January 9, 2024
 |Chapter in Ask VA|Field|
 |:--|:--|
 |Your question|[Tell us the reason you’re contacting us?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#tell-us-the-reason-youre-contacting-us)|
-|Personal information|Veteran's Service Start Date|
-|Personal information|Veteran's Service End Date|
-|Personal information|Veteran's Claim Number|
+|Personal information|[Veteran's Service Start Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
+|Personal information|[Veteran's Service End Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
+|Personal information|[Veteran's Claim Number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-claim-number)|
 
 ## Tell us the reason you're contacting us?
 This field is currently required. It asks, 'Tell us the reason you're contacting us?' and submitters can choose from a list of options: Compliment; Question; Service Complaint; Suggestion; Town Hall; Other. 
