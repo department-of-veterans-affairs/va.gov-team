@@ -106,13 +106,13 @@ No participant had any trouble finding and using the print button.
 
 ### Most participants complained that logging in can be frustrating.
 
-Labels: login
+Labels: `login`
 
 <abbr title="5 out of 12">About half</abbr> of our participants had some trouble logging in. <abbr title="9 out of 12">Most</abbr> reported that they generally find login to be frustrating.
 
-The two that did not complain or have trouble were both mobile users.
+The two that had no trouble logging in were both mobile users.
 
-Participants found 2-factor authentication to be the most frustrating issue, followed by the requirement to login multiple times to different portals, and confusion around the multiple methods for logging in.
+Participants found 2-factor authentication to be the most frustrating issue. Logging in multiple times to different portals, and confusion around the multiple methods for logging also caused frustration.
 
 > I had a problem with this the other day, where it asked me to log on again. That made no sense to me 'cause it already knew I was logged on, because up at the top right screen it says, "log out" and on the left side of the top screen it has my name, and my military service, and when I last accessed my account. So I have a go to My VA appointments, where it says 'Manage Appointments at...' And then it says, "Go to My Appointments" - where it asked me to log in again. And I never got to where I wanted to go. So you can see that the very next page is "Sign in to view/schedule/cancel your appointments online." This sucks. Why? Why do I have to sign in again? - P12
 
@@ -132,18 +132,18 @@ In general, participants struggled when navigating across these portals, but som
 > Okay, I'm gonna try to go back. I'm a little concerned that I'm gonna have to sign in again. But here we go. [Opens MHV on VA.gov portal] Oh, weird! Okay, this one has a different screen, too, from the normal MHV one. So I guess I'm not super familiar with this landing page. The initial one that I saw before is one that I'm more familiar with. - P9 discovering that there are two different health portals.
 
 **Oracle Health portal (My VA Health)**  
-The 2 participants at Oracle Health facilities easily navigated to the Oracle Health portal. Once they were in that portal, they could not easily navigate back to VA.gov. This is by design, as the Oracle Health portal opens in a new tab from VA.gov, and has no links back to VA.gov.
+The 2 participants who were registered at Oracle Health facilities easily navigated to the Oracle Health portal. Once they were in that portal, they could not easily navigate back to VA.gov. This is by design, as the Oracle Health portal opens in a new tab from VA.gov, and has no links back to VA.gov.
 
 **My HealtheVet National Portal**  
-5 participants complained of information overload in this portal, both on the "Manage your VA Appointments" page and My HealtheVet NP appointments list. Both pages required a lot of scrolling to get to the tool or call to action.
+5 participants complained of information overload in this portal, both on the "Manage your VA Appointments" page and My HealtheVet NP appointments list. Both pages required a lot of reading and scrolling to get to the tool or main call to action.
 
-3 participants struggled to use the "Manage appointments at" page, which directs users to either VA.gov or Cerner. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they never attend in the list.
+3 participants struggled to use the "Manage appointments at:" page, which directs users to either VA.gov or Cerner. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they never attend in the list.
 
 ![Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL.](./images/MHV%20Manage%20appts%20screen.png)  
 _Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL._
 
 **VA.gov "Schedule and Manage Appointments" page** 
-<abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through this page. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of opening the Appointments tool. 4 were frustrated that they had to click the same button twice to access the Appointments tool after they logged in. One said they would have abandoned the process at this page if they were dealing with this outside the context of a study, they would have abandoned the process.
+<abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through this page at some point during the session. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of being sent directly to the Appointments tool. 4 were frustrated that they had to return to this page and click another option after logging in to access the Appointments tool. One said that it was so frustrating they would have abandoned the process at this page if they were dealing with this outside the context of a study.
 
 **MHV on VA.gov portal home page.**
 All but one participant were able to easily navigate to the MHV on VA.gov home page from the Appointments tool without prompting:
@@ -153,21 +153,18 @@ All but one participant were able to easily navigate to the MHV on VA.gov home p
 
 The one who couldn't find a path to the page was using a mobile device.
 
-When navigating back to the Appointments tool from this page:
-- 6 participants clicked the "Schedule and Manage Appointments" link.
-- 1 clicked the "Upcoming appointments" link.
-- 5 went into the MHV National Portal to review other health tools, and never returned to this page.
+When navigating back to the Appointments tool from this page, half of the participants clicked the "Schedule and Manage Appointments" link. Only 1 clicked the "Upcoming appointments" link. The rest went into the MHV National Portal to review other health tools, and never returned to this page.
 
 3 participants said that they had expected to go directly to the appointments tool when they clicked the link to "Schedule and manage appointments" and were confused when they landed on this page.
 
 **My VA**
-We tested this path with 11 participants. 10 were able to navigate easily from My VA to the Appointments tool. 
+We tested this path with 11 participants. 10 navigated from My VA to the Appointments tool without any problems. 
 
 The one who struggled was a Cerner user who didn't have a direct path to the appointments tool from My VA.
 
 ### All participants easily navigated appointment details pages.
 
-Labels: IA, list view, details view
+Labels: `IA`, `list view`, `details view`
 
 All participants quickly understood how to open details pages. 
 
@@ -179,7 +176,7 @@ Neither showed any sign of being confused about navigating back to the list view
 
 ### Most participants easily found their past appointments
 
-Labels: IA, subnavigation
+Labels: `IA`, `subnavigation`
 
 Of those that had trouble: 
 - 2 left the appointments tool to look for their past appointments in their health history.
@@ -187,26 +184,36 @@ Of those that had trouble:
 
 ### Some participants struggled to understand their pending appointments.
 
-Labels: Content, requests, pending appointments
+Labels: `Content`, `requests`, `pending appointments`
 
 - 2 participants expected that the number next to Pending (0) should refer to their upcoming appointments.
 - 1 associated pending appointments with those requested through secure messages.
-- 2 had to think for a moment before selecting the Pending link
-
+- 2 had to think for a moment before selecting the Pending link.
 
 ### All participants were able to easily use the print feature.
 
-Labels: Print, tertiary button
+Labels: `Print`, `tertiary button`
 
 Participants were able to easily find and use the print button.
 
 
-## Scheduling Insights
+## Additional Insights
 
+### Missing or confusing data was the biggest barrier to using the appointments list
+
+Labels: `Missing data`
+
+All participants struggled with data that was missing or confusing. Type of care and provider name were the most requested, along with a link to the after-visit summary, or another way to find medical history.
+
+Without this information, participants did not know what the appointments were for, or where to go.
+
+> I don't think there's anything challenging about navigating. It's extremely easy, you know, the buttons are right here on the screen everything that you all the questions you asked me. Everything's right here in front of me. So it's not so much the navigation. It's just more the missing information. - P3
+
+> They all say "VA appointment", then I have to click into it to see what it is. If it just said "VA appointment with dentist in the description, it would be easier, instead of having to click through each one to figure out which one is which. Like some months where I have multiple appointments. Say I'm trying to find my head and neck appointment; I have to click on each one, and then figure out which one it is. If it said, "VA appointment with head and neck clinic" or "VA appointment with dental clinic" that would make it a lot easier to try and decipher these. - P2
 
 ### Participants wanted a more personalized experience for selecting facilities.
 
-Labels: Scheduling, personalization
+Labels: `Scheduling`, `personalization`
 
 3 participants saw unfamiliar or unexpected facilities in the list, such as those that were very far away. 3 wanted to see the facility they currently go to listed first. And 2 were confused that the facility where they currently receive Primary Care wasn't the first or only one listed when they selected Primary Care. 
 
@@ -216,25 +223,28 @@ Labels: Scheduling, personalization
 
 ## Participants were confused about the request calendar.
 
-Labels: Scheduling, request, date picker
+Labels: `Scheduling`, `request`, `date picker`
 
 4 participants thought the request calendar was showing the clinic's availability for scheduling an appointment. 1 said they didn't trust that scheduling in this way would lead to an actual appointment.
 
+> I was initially surprised that I could make an appointment, you know, in such a short amount of time. Cause I'm just so used to making appointments pretty far out ahead of time. So I mean for me. I'd just be curious if I could actually make, or that an appointment could be made on the eleventh, you know, in the am, for something routine, or even something new. I am honestly curious if it would let me do that if it would give me a date and a time. - P9
+
 ## Participants were confused by the alert that told them Community Care was unavailable for podiatry.
 
-Labels: Scheduling, community care, alerts
+Labels: `Scheduling`, `community care`, `alerts`
 
-2 participants said that they currently receive community care for podiatry, and were frustrated at this message.
+2 participants said that they currently receive community care for podiatry, and were frustrated that this message said they were not eligible.
 
 ![Alert that displays when community care is not available for a given type of care](./images/CC%20alert.png)
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+### Improve the workflow from the schedule and manage appointments page
+Bigger picture, the MHV on VA.gov portal team needs to consider what to do with the help content on this, and other health pages. 
+* Consider redirecting Veterans directly to the Appointments home page after they log into the Schedule and Manage appointments page. 
+* Consider relocating the "help" content on the VA.gov Schedule and Manage appointments page. 
 
-* Consider redirecting Veterans directly to the Appointment list after they log into the Schedule and Manage appointments page.
-* Consider relocating the content on the VA.gov Schedule and Manage appointments page.
     * _Supporting evidence_
 * On the MHV on VA.gov portal, replace the link to the Schedule and Manage appointments page with a direct link to the scheduling flow.
     * _Supporting evidence_
@@ -248,7 +258,7 @@ _Put together initial recommendations here based on your findings along with sup
 _Next steps here. Include owners if appropriate._
 
 
-## Appendix
+## Appendix: Resources
 
 [Research plan](research-plan.md)
 
@@ -256,12 +266,26 @@ _Next steps here. Include owners if appropriate._
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/research-transcripts/2023-11-mhv-on-va-gov-phase-2b-vaos-uat)
 
-
-## Tools used for Synthesis
-
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ufbf7b24834e1195c028f5337)
 
 Task tracker spreadsheet TBD.
+
+## Appendix: Issues Identified During Sessions
+
+| Issue | Team | Next steps |
+|-------|------|--------|
+| SM Inbox new msg notification was wrong - no new messages | MHV on VA.gov Portal | |
+| On mobile, new pages are scrolling to the bottom/footer | Appointments FE | |
+| My VA doesn't show Cerner redirect | Authenticated Experience | |
+| Print buttons doesn't work on iphone | Appointments FE | |
+| Mobile: appts in list are shifting slightly on focus | Appointments FE | |
+| Start scheduling link doesn't work for list empty state | Appointments FE | | |
+| Typo in title tag on MHV on VA.gov portal | MHV Portal Team | Reported in Slack |
+
+
+## Tools used for Synthesis
+
+
 
 
 
