@@ -24,3 +24,17 @@ THEN they see an alert that allows them to edit the email address
 AND a prompt user to add a mobile number
 
 ## UX
+If a user has some information, we display the information we have on file with links to edit. If they have one or the other, email or phone number, we display the information we have and prompt the user to add the additional information. In all cases it is optional to provide the information, however if the user has no contactr info on file we use a warning alert component, see use case: [user has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
+
+- [Desktop mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A629&mode=design&t=4hcF5PbwSfYGrKeO-1)
+- [Mobile  mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A523&mode=design&t=4hcF5PbwSfYGrKeO-1)
+
+Opting to edit or add the missing information will enter the user into the "editing-as-a-subtask" workflow which can be seen here:
+
+- [Desktop mock-up](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A166&mode=design&t=Af2eoJ2Sg5TonhQ2-1)
+- [Mobile mock-up](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A1&mode=design&t=Af2eoJ2Sg5TonhQ2-1)
+
+Once they update or add their contact information, the workflow will bring them back to the notification settings page, where a success message will be displayed.
+
+- [Desktop mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A1066&mode=design&t=fFXrAB6EhydHOLDF-1)
+- [Mobile  mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A426&mode=design&t=fFXrAB6EhydHOLDF-1)
