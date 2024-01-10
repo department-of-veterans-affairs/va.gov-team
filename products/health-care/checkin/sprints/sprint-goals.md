@@ -22,7 +22,6 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
         - 🟩 TBD
@@ -75,7 +74,6 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗ 🟩 [[CHIP] Configure CodeQL](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68253)
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [[FE] ONGOING: Review, Update, Fix, and Log Offending Cypress Tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66680)  
  - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
         - ❗ 🟩 🟦 [[FE][BE] Document Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
