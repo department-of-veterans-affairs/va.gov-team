@@ -302,7 +302,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Vitals
 
-**To be completed by Kaitlin Fink**
+> [!NOTE]
+> To be completed by Kaitlin Fink
 
 <details>
 <summary>List view requirements</summary>
@@ -339,7 +340,8 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Care summaries and notes
 
-**To be completed by Kaitlin Fink**
+> [!NOTE]
+> To be completed by Kaitlin Fink
 
 <details>
 <summary>List view requirements</summary>
@@ -373,6 +375,13 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 |-----------------------------------------------------------------------------------------------|-----------------|
 | | |
 </details>
+
+> [!WARNING]
+> This file needs updated once it is moved to Figma.
+> * [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/v/ll4M4o/p/C3D9FA2D-5311-4886-B25F-655123816797/canvas?posX=-4704.175769369256&posY=-21705.680606513277&zoom=0.04953710734844208)
+* [Subject matter expert review - Progress notes](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=0oCrbC&nav=eyJoIjoiMTAzNzUwNzk3NSJ9)
+* [Subject matter expert review - Discharge summaries](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=JmbRri&nav=eyJoIjoiNTY4MDE0NDc0In0%3D)
+
 
 ### Lab and test results
 
@@ -415,7 +424,7 @@ Back button: Yes, `< Back to medical records`
 </details>
 
 <details>
-<summary>Details view requirements - Chem/Hem results</summary>
+<summary>Chem/Hem results - Details view requirements</summary>
  
 ---
 #### IA
@@ -433,6 +442,7 @@ Back button: Yes, `< Back to lab and test results`
 
 * H1 for this page should be the name of the orderable or cosmic test.
 * At the Cosmic/Orderable level, include the following information
+   * Name of test _(used as H1)_
    * Type of test - Chemistry and hematology
    * Date and time that the specimen for this test was collected
    * The location at which the specimen was collected
@@ -448,7 +458,106 @@ Back button: Yes, `< Back to lab and test results`
    * Flag - _include as part of result measurement_
    * Reference range
    * Status
-   * Performing lab location
+   * Performing lab location - where the sample was tested/evaluated
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+---
+</details>
+
+<details>
+<summary>Microbiology results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be the name of the microbiology lab test that was run. If name not available, use type of test.
+* For each microbiology result, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - e.g. Surgical pathology _(backup for H1)_
+   * Date and time that the specimen for this test was collected
+   * The location at which the specimen was collected
+   * The provider who ordered the test
+   * The location of the provider who ordered the test
+   * Site or sample tested
+   * Collection sample - e.g. swab
+   * Performing lab location - where the sample was tested/evaluated
+   * Date and time that the sample evaluation was completed
+   * The actual resulting microbiology report - presented in monospaced font to preserve spacing
+   * Information about understanding your results, presented within an additional info component
+
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+---
+</details>
+
+<details>
+<summary>Pathology results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+> 
+> In MHV classic, there is significantly less structured data available for pathology reports. For example, ordering provider and location are not available. As work is done on this category, exploration should be done to understand whether we can get the same set of standardized data fields as chem/hem result and if so, take them to SMEs for approval to include. 
+
+* H1 for this page should be the name of the pathology lab test that was run. If name not available, use type of test.
+* For each pathology result, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - e.g. Surgical pathology _(backup for H1)_
+   * Date and time that the specimen for this test was collected
+   * Performing lab location - where the sample was tested/evaluated
+   * Date and time that the sample evaluation was completed
+   * The actual resulting pathology report - presented in monospaced font to preserve spacing
+   * Information about understanding your results, presented within an additional info component
+
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+---
+</details>
+
+<details>
+<summary>Imaging results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be the name of the imaging test that was run. If name not available, use type of test.
+* For each imaging result, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - e.g. X-Ray _(backup for H1)_
+   * Date and time of the imaging procedure
+   * Performing location - where the images were taken
+   * Ordering/requesting provider
+   * Reason for study
+   * Clinical history
+   * The actual resulting pathology report - presented in monospaced font to preserve spacing
+   * Information about understanding your results, presented within an additional info component
+
 
 #### Functionality
 * Ability to download details of current result as a PDF
