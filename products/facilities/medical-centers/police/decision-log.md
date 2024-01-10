@@ -1,5 +1,8 @@
 ## Decision log - Police Transparency
 
+### 1/4/2024 Additional Contact information
+In UX sync, it was decided that we will use the VAMC Facility Non-clinical Service content type to expand the police contact information available. [Options considered and rationale](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16415) 
+
 ### 12/14/2023 Page last updated date
 In UX sync, it was decided to not show the usual Page last updated date at the bottom of the web page. This would be confusing for Veterans as it may conflict with data fields above. This applies to MMVP as well as MVP.
 
