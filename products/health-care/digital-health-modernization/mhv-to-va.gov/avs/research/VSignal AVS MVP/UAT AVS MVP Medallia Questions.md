@@ -33,17 +33,8 @@
 
 5.	How can we make this experience better? In the box below, please tell us what you would like to change or add to make this experience more useful and enjoyable.
 
-
-6.	Please select your age range:
-    - Under 20 years old
-    - 20-29 years old
-    - 30-39 years old
-    - 40-49 years old
-    - 50-59 years old
-    - 60-69 years old
-    - Over 70 years old
   
-7.	Did you use any assistive technology during this interaction? (Please select all that apply.)
+6.	Did you use any assistive technology during this interaction? (Please select all that apply.)
     - Screen reader
     - Keyboard
     - Magnification
