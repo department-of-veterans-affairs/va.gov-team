@@ -1,4 +1,4 @@
-# Representative Status Widget MVP
+# Representative Status Widget 1.0 (MVP) Overview
 
 Developed by the Accredited Representation Management team, the Representative Status Widget will provide insight into any current representation.  This will be paired with the [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-appoint-a-representative.md) flow, but has an opportunity to live in other areas of VA.gov.
 
