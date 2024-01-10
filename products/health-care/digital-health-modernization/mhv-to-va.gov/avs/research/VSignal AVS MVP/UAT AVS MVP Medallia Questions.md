@@ -36,7 +36,7 @@
     - 5 Strongly Agree                  
 
  
-6.	I found some information incorrect on my after-visit summary.
+6.	I found some incorrect information on my after-visit summary.
      - 1 Strongly Disagree
     - 2
     - 3
