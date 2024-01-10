@@ -1,4 +1,4 @@
-# Appoint a Representative 1.0 (MVP)
+# Appoint a Representative 1.0 (MVP) Overview
 
 Developed by the Accredited Representation Management team, the Appoint a Representative will support Veterans in a digital form fill of the 21-22/21-22a which is required for appointing a representative.  This will be paired with the [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to provide Veterans with insight into any existing representation, before they apply for new representation.
 
