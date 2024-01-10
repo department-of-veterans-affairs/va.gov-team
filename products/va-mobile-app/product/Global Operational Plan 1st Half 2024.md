@@ -12,12 +12,12 @@ While this document outlines focus areas for the first half of 2024, it aligns w
 
 ### 2. Flagship Objectives 
 In 2024, we plan to focus on and achieve the following Flagship objectives:
-* Increase user retention: Improve retention at the 30, 60, and 90-day marks by 10% by EOY
-* Increase the number of tasks completed & success rate: 
+* **Increase user retention:** Improve retention at the 30, 60, and 90-day marks by 10% by EOY
+* **Increase the number of tasks completed & success rate:** 
    * Increase the number of tasks completed by 25% by EOY
    * Increase task success rate by 10% by EOY
    * Note - Defining baselines for all tasks is required to achieve both of these objectives
-* Improve Veteran satisfaction:
+* **Improve Veteran satisfaction:**
   * Define baseline customer satisfaction by the end of Q1 and increase it by 25% by EOY
   * Maintain an App Store rating of 4.8
 
