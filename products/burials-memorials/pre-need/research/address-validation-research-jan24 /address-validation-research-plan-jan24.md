@@ -17,9 +17,9 @@ Once Integration phase development is complete and form is stabilized, proceed t
 ### OCTO Priorities  
  
 The [OCTO objectives]( https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports are to: 
-Solidify the VA.gov platform 
-Enhance Veterans’ personalized online experience 
-Drive OIT’s Digital Transformation Strategy 
+- Solidify the VA.gov platform 
+- Enhance Veterans’ personalized online experience 
+- Drive OIT’s Digital Transformation Strategy 
  
 ### Veteran Journey 
  
