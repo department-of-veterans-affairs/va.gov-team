@@ -176,6 +176,143 @@ To show the upcoming appointments in check-in experience pages, we have to call 
         }
         ```
 
+- Facilities
+    
+    URL: `https://veteran.apps.va.gov/facilities/v2`
+    
+    This service is also owned by the TAS-P team, and returns the facility information.
+    
+    - Request
+        
+        ```bash
+        curl --request GET \
+          --url 'https://veteran.apps.va.gov/facilities/v2/facilities/534' \
+          --header 'accept: application/json'
+        ```
+        
+    - Response
+        
+        ```json
+        {
+          "id": "534",
+          "facilitiesApiId": "vha_534",
+          "vistaSite": "534",
+          "vastParent": "534",
+          "type": "va_health_facility",
+          "name": "Ralph H. Johnson Department of Veterans Affairs Medical Center",
+          "classification": "VA Medical Center (VAMC)",
+          "timezone": {
+            "timeZoneId": "America/New_York"
+          },
+          "lat": 32.78447,
+          "long": -79.95415,
+          "website": "https://www.va.gov/charleston-health-care/locations/ralph-h-johnson-department-of-veterans-affairs-medical-center/",
+          "phone": {
+            "main": "843-577-5011",
+            "fax": "843-937-6100",
+            "pharmacy": "843-577-5011",
+            "afterHours": "888-878-6884",
+            "patientAdvocate": "843-789-6066",
+            "mentalHealthClinic": "843-789-6500",
+            "enrollmentCoordinator": "843-789-6898"
+          },
+          "mailingAddress": {
+            "type": "postal",
+            "line": [
+              null,
+              null,
+              null
+            ]
+          },
+          "physicalAddress": {
+            "type": "physical",
+            "line": [
+              "109 Bee Street",
+              null,
+              null
+            ],
+            "city": "Charleston",
+            "state": "SC",
+            "postalCode": "29401-5799"
+          },
+          "mobile": false,
+          "healthService": [
+            "Audiology",
+            "Cardiology",
+            "CaregiverSupport",
+            "Covid19Vaccine",
+            "Dermatology",
+            "EmergencyCare",
+            "Gastroenterology",
+            "Gynecology",
+            "MentalHealthCare",
+            "Nutrition",
+            "Ophthalmology",
+            "Optometry",
+            "Orthopedics",
+            "Podiatry",
+            "PrimaryCare",
+            "UrgentCare",
+            "Urology"
+          ],
+          "operatingStatus": {
+            "code": "NORMAL"
+          },
+          "visn": "7"
+        }
+        ```
+        
+
+- Clinics
+    
+    URL: `https://veteran.apps.va.gov/facilities/v2`
+    
+    The facilities service provides an endpoint to get clinics by the facility ID.
+    
+    - Request
+        
+        ```bash
+        curl -X 'GET' \
+          'https://veteran.apps.va.gov/facilities/v2/facilities/534/clinics/6' \
+          -H 'accept: application/json'
+        ```
+        
+    - Response
+        
+        ```json
+        {
+          "data": {
+            "vistaSite": 534,
+            "clinicId": "6",
+            "serviceName": "CHS NEUROSURGERY VARMA",
+            "friendlyName": "CHS NEUROSURGERY VARMA",
+            "medicalService": "SURGERY",
+            "physicalLocation": "1ST FL SPECIALTY MODULE 2",
+            "phoneNumber": "843-577-5011",
+            "stationId": "534",
+            "institutionId": "534",
+            "stationName": "Ralph H. Johnson Department of Veterans Affairs Medical Center",
+            "primaryStopCode": 406,
+            "primaryStopCodeName": "NEUROSURGERY",
+            "secondaryStopCodeName": "*Missing*",
+            "appointmentLength": 30,
+            "variableAppointmentLength": true,
+            "patientDirectScheduling": false,
+            "patientDisplay": true,
+            "institutionName": "CHARLESTON VAMC",
+            "institutionIEN": "534",
+            "institutionSID": "97177",
+            "timezone": {
+              "timeZoneId": "America/New_York"
+            },
+            "futureBookingMaximumDays": 390
+          }
+        }
+        ```
+        
+
+- Provider Service
+
 ### Resources
 
 `GET /appointments` - returns a list of upcoming appointments for the patient
