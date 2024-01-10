@@ -145,14 +145,12 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 |:--|:--|
 |July 28, 2023|Design Intent|
 |December 1, 2023|Midpoint Review|
-|January 12, 2024|Prototype(s)* ready|
-|January 12, 2024|Research Review|
-|January 18, 2024|Pilot sessions|
+|January 9, 2024|Prototype(s) ready|
+|January 10, 2024|Research Review|
+|January 18, 2024|Pilot sessions (2)|
 |Jan 24 - Feb 5, 2024|Research sessions|
 |Feb 6 - 19, 2024|Synthesis|
 |Feb 20 - Mar 4, 2024|Share findings|
-
-***We plan to prototype for mobile and desktop, but mobile is the priority. At minimum, our goal is to have a mobile prototype by January 12th.**
 
 ### Pilot sessions
 
