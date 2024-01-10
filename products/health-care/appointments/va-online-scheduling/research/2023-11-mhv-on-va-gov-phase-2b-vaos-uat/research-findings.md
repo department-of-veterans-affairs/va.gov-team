@@ -273,6 +273,8 @@ Improve the static landing page. The MHV on VA.gov portal team is working out wh
 
 Start a working group to focus on the data issues. Surfacing type of care and provider would immediately increase the usability and trustworthiness of the list views.
 
+On the facility selection page, simplify the choice they have to make. Consider showing their "current" facility first. Also consider surfacing Veteran's primary needs when scheduling an appointment earlier, such as showing availability on the facility page. Look into Veteran needs and define a hierarchy. [Reference older studies that call out priority]
+
 
 ## Next Steps
 
