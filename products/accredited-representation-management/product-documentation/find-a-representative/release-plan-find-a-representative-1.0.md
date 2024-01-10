@@ -1,5 +1,6 @@
 # Release Plan: Find a Representative 1.0 (MVP)
 
+⚠️ Due to concerns around the data powering our search results being only ~50% accurate, the team has decided not to release at 1.0 and move right into [version 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/find-a-representative-2.0-overview.md).
 
 ### Development
 
@@ -11,9 +12,9 @@ Feature Toggles:
 ### Validation
 
 #### Technical Preparation
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
-- [ ] Unit tests and E2E tests are complete
-- [ ] QA by Michael + ARM team
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
+- [x] Unit tests and E2E tests are complete
+- [x] QA by Michael + ARM team
 - [x] Mapbox is ready for use (frontend)
 - [x] Address Validator in Lighthouse is ready for use (backend)
 
@@ -23,10 +24,10 @@ Feature Toggles:
 - [x] Entry points are ready to be redirected to the landing page
 
 #### Data Consideration
-- [ ] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
+- [x] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
 
-#### Go/No Go meeting TBD
-- [ ] review the plan with your DEPO/OCTO representative.
+#### Go/No Go meeting on 12/11 at 2p ET (11a PT)
+- [x] review the plan with your DEPO/OCTO representative. - **No Go** ⛔
 - [ ] review the release plan with your team.
 
 ***
@@ -40,7 +41,7 @@ While we cannot think of any events that would be critical enough to merit a rol
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
-   2. Tag relevant teammates (Holden, Jonathan, Colin, Lindsay, Michael, Janelle, Jennifer, Lesley, Alex, Sam, Steve)
+   2. Tag relevant teammates (Holden, Jonathan, Colin, Lindsay, Michael, Janelle, Zach, Lesley, Alex, Sam, Steve)
 3. Create a ticket to document:
    1. A summary of what caused the rollback process
    2. Confirmation that the feature toggle has been turned off (or that a PR has been submitted)
@@ -54,17 +55,19 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: TBD
+- Rollout date range: 12/12-12/18
 - Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
 - Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting TBD**
-1. Stage A: 10% of users on TBD
-2. Stage B: 25% of users on TBD
-3. Stage C: 50% of users on TBD
-4. Stage D: 100% of users on TBD
+**Go/No Go meeting on 12/11 at 2p ET (11a PT)**
+1. Stage A: 10% of users on 12/12
+2. Stage B: 25% of users on 12/13
+3. Stage C: 50% of users from 12/14-12/17
+4. Stage D: 100% of users on 12/18
+
+**Code freeze: 12/22/2023 - 1/2/2024**
 
 *** 
 
