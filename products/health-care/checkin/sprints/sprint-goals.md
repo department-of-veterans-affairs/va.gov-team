@@ -45,12 +45,9 @@ ________________________________________________________________________________
 
 ------- END FUTURE / TENTATIVE ------
 </details>
-
-<details>
-<summary>FUTURE SPRINT - 1/10 through 1/23</summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## 1/10/2023 - 1/23/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## 1/10/2023 - 1/23/2024  
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
@@ -116,9 +113,6 @@ ________________________________________________________________________________
         - 🟥 [[UX] [Design] Create a local reusable component in Figma (similar to a local Symbol in Sketch)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73006)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
        - 🟥 [[UX][Content] AUDIT: Audit Remaining production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73217)
-
-------- END FUTURE / TENTATIVE ------
-</details>
 
 ______________________________________________________________________________________________________________________________________________________
 
