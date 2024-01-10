@@ -1,7 +1,7 @@
 # BTSSS (VA.gov) Incident Response Playbook
 
 ## Product Description
-The BTSSS (aka Travel Pay) feature allows Veterans who meet certain criteria to be reimbursed for travel to appointments. At the time, the features includes:
+The BTSSS (aka Travel Pay) feature allows Veterans who meet certain criteria to be reimbursed for traveling to appointments. At the time, the features include:
 * Claim Status
 
 ## Routes to code
