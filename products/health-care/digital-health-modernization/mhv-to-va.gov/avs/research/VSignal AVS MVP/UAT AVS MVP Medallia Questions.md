@@ -15,7 +15,7 @@
     - 5 Strongly Agree        
 
 
-3.	I found some terminology or sections confusing
+3.	I found some terminology or sections confusing.
     - 1 Strongly Disagree
     - 2
     - 3
