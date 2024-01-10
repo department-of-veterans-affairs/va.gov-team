@@ -4,7 +4,7 @@
 ## Product: In Person Identity Proofing 
 ## Testing conducted in 12/2023
 
-* In process of more detailed synthesis with full research report and share out to follow *
+_In process of more detailed synthesis with full research report and share out to follow_
 
 ### High Level Takeaways
 - Information on what verification is and why it is necessary to ensure more secure login services was provided at the start of the usability test, during the usability test via content in the prototype, and participants were prompted to explain what it is at the end.
