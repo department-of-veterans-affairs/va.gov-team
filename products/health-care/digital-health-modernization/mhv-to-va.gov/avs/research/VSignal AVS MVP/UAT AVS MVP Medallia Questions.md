@@ -42,6 +42,15 @@
     - 50-59 years old
     - 60-69 years old
     - Over 70 years old
+  
+7.	Did you use any assistive technology during this interaction? (Please select all that apply.)
+    - Screen reader
+    - Keyboard
+    - Magnification
+    - Hearing aids
+    - Voice recognition
+    - Braille reader
+    - Switch device
 
 
 
