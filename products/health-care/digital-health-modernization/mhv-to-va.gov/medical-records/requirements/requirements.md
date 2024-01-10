@@ -555,13 +555,14 @@ Back button: Yes, `< Back to lab and test results`
    * Ordering/requesting provider
    * Reason for study
    * Clinical history
-   * The actual resulting pathology report - presented in monospaced font to preserve spacing
-   * Information about understanding your results, presented within an additional info component
-
+   * Radiologist who performed study
+   * The actual resulting imaging report - presented in monospaced font to preserve spacing
 
 #### Functionality
 * Ability to download details of current result as a PDF
 * Ability to print the currently in view details of results
+* Link to MHV Classic to view associated radiology images
+
 ---
 </details>
 
