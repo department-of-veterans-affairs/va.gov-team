@@ -1,5 +1,5 @@
 # UAT AVS MVP Medallia Questions
-
+## Expanded Option
 1.	I easily found what I needed in my after-visit summary.
     - 1 Strongly Disagree
     - 2
@@ -89,6 +89,56 @@
     - Yes
     - No
     - I chose not to answer.
+
+## Condensed Option
+1.	I easily found what I needed in my after-visit summary.
+    - 1 Strongly Disagree
+    - 2
+    - 3
+    - 4
+    - 5 Strongly Agree
+
+
+                                                                                              
+                                       
+
+3.	I am satisfied with the time it took to review my after-visit summary.
+    - 1 Strongly Disagree
+    - 2
+    - 3
+    - 4
+    - 5 Strongly Agree        
+
+
+4.	I found some terminology or sections confusing
+    - 1 Strongly Disagree
+    - 2
+    - 3
+    - 4
+    - 5 Strongly Agree            
+
+ 
+5.	I found some incorrect information on my after-visit summary.
+     - 1 Strongly Disagree
+    - 2
+    - 3
+    - 4
+    - 5 Strongly Agree
+    -             
+
+6.	How can we make this experience better? In the box below, please tell us what you would like to change or add to make this experience more useful and enjoyable.
+
+
+7.	Please select your age range:
+    - Under 20 years old
+    - 20-29 years old
+    - 30-39 years old
+    - 40-49 years old
+    - 50-59 years old
+    - 60-69 years old
+    - Over 70 years old
+
+
 
 
 
