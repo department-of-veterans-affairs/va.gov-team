@@ -10,7 +10,7 @@ Last updated by @tygindraux: January 10, 2024
 
 - [ ] Review guidelines for moderating
 - [ ] Review research goals
-- [ ] Review [prototype](add link)
+- [ ] Review prototype
 - [ ] Review participant list for name and screen responses
 
 ### 10 minutes before the session
@@ -576,5 +576,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- [PENDING] Becky Phung, PO on [DATE]
+- Becky Phung, PO on 1/9/2024
 - [PENDING] Shane Strassberg, VA Research Ops on [DATE]
