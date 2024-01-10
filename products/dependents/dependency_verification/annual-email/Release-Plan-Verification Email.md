@@ -93,7 +93,7 @@ Our rollout plan has 3 phases, each increasing the number of Veterans. This is a
 | Open rate                 |  Avg of Veteran Notify emails |         ±10% |              |                  |
 | Click-through rate        |  Avg of Veteran Notify emails |         ±10% |              |                  |
 | Volume of 686 submissions |                               |         +10% |              |                  |
-| Total Overpayment Amount  |  Total overpayments previous quarter |          -10% |              |                  |
+| Total Overpayment Amount  |  Total overpayments previous quarter |          -17% |              |                  |
 
 
 ### Objectives and Key results (OKRs)
