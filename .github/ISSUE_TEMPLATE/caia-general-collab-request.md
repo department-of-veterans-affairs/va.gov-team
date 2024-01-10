@@ -138,8 +138,6 @@ Please provide links to any supporting artifacts we might need to begin work. Th
 
 ```[tasklist]
 ### CAIA Ops
-- [x] Set up kickoff meeting - @coforma-terry and @strelichl 
-- [ ] Provide GitHub Deliverable to VFS team post kickoff
 ```
 
 
