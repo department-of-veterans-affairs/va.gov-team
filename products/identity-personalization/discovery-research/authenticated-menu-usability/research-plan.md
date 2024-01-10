@@ -28,16 +28,16 @@ The research applies at any stage from Starting Up through Aging, since it inves
 1. Does the new menu design introduce any usability hurdles, particularly on mobile?
 2. What do Veterans expect to see under a logged-in user menu?
 3. Do the links we're proposing for the authenciated menu make sense to Veterans?
-4. How we can differentiate our logged-in user as a personalized menu on mobile?
+4. How we can differentiate our logged-in user menu item from the non-personalized items on mobile?
 
 ### Hypothesis
 1. When describing expectations for a user menu:
-   - Profile will be a consistent item listed. 
-   - The rest of the items will be varied and highly specific to the person’s experience with VA. 
-   - No one will specifically list “My VA” by name.
-2. The authenticated menu will be easy for people to find when their name is in the header.
-3. People will initially struggle to find their authenticated menu when it’s collapsed under, but will easily understand what it is once they see their name.
-4. In the prototype, people will understand what the links in their authenticated menu point to.
+   - Profile will be a mentioned consistently. 
+   - No one will specifically mention “My VA” by name, but will describe some kind of comprehensive dashboard.
+   - The rest of the items metioned will be varied and highly specific to the person’s experience with VA. 
+3. The authenticated menu will be easy for people to find when their name is in the header.
+4. People will initially struggle to find their authenticated menu when it’s collapsed under the main menu, but will easily understand what it is once they see their name.
+5. In the prototype, people will understand what the links in their authenticated menu point to.
 
 ## Methodology	
 We’ll conduct a remote interview consisting of two parts:
