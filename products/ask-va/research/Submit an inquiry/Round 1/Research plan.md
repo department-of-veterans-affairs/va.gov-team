@@ -104,7 +104,7 @@ We will work with Perigean to recruit Veterans for this research.
 
 We will recruit 14 Veterans for a total of 8-10 completed sessions.
 
-For more details about our criteria, refer to our [Recruitment ticket](add link).
+For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/456).
 
 |# of participants|Criteria|
 |:--|:--|
@@ -120,25 +120,22 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Screener questions
 
-1. Are you a Veteran?
+1. Do you have any dependents or other family members who use VA services?
    - Yes
    - No
-2. Do you have any dependents or other family members who use VA services?
+2. Have you contacted the VA online or over the phone in the past year?
    - Yes
    - No
-3. Have you contacted the VA online or over the phone in the past year?
+3. Have you signed in to VA.gov in the past year?
    - Yes
    - No
-4. Have you signed in to VA.gov in the past year?
+4. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet.
    - Yes
    - No
-5. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet.
+5. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
    - Yes
    - No
-6. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
-   - Yes
-   - No
-7. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
    - Yes
    - No
 
