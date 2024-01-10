@@ -12,6 +12,17 @@ The VA mails VA Form 21-0538, a mandatory paper form for dependent verification,
 2. Fill out all the details below.
 3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
 
+
+## Release Plan Overview
+
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Unmoderated production testing |2 days|30 Veterans with claimed dependents| TBD  |
+|Phase 2A: 25% of users |2 days|25% of Veterans with claimed dependents|TBD|
+|Phase 2B: 50% of users |2 days|25% of Veterans with claimed dependents|TBD|
+|Phase 2C: 100% of users| indefinite | 100% of Veterans with claimed dependents | TBD |
+
+
 ---
 
 ## Step 1: Development
@@ -48,8 +59,8 @@ Our Design Researchers and PM with work with the Notify team to monitor analytic
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
+- Desired date range or test duration: **2/2024**
+- Desired number of users: **25**
 - How you'll recruit the right production test users: [FILL_IN]
 - How you'll conduct the testing: [FILL_IN]
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
