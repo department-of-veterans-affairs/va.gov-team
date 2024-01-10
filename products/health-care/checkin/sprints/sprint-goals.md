@@ -158,7 +158,7 @@ ________________________________________________________________________________
          - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72594)
          - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for CVT appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72595)
          - ✔️ ❗ 🟥 [[UX][Design] Create Final Wireframes & Content for Video appt card in appt list](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72598)
-         - ❗ 🟥 [[UX][Content][Design] Create Final Wireframes & Content for Video appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72599)
+         - ✔️ ❗ 🟥 [[UX][Content][Design] Create Final Wireframes & Content for Video appt detail page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72599)
          - ✔️ ❗ 🟩🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72638)
      - **Sub Goal: Let Veterans Know when BTSSS is Down** 
          - ✔️ ❗ 🟥 [Determine if there is a Pattern for In-App System Down Messages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72046)
