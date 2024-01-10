@@ -101,6 +101,8 @@ ________________________________________________________________________________
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+       - 🟩 [[FE][CHIP] Add CVT, VVC appointment Types](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72948)
+       - 🟩 [[FE][CHIP] Check-In enabled for CVT appointments - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72864)
        - 🟦 [[BE] Solution design for upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72703)
        - 🟦 [[BE] Implement get_appointments method in service class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
        - 🟦 [[BE] Implement VAOS Appointment Serializer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
