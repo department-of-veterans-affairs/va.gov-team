@@ -1,13 +1,13 @@
 
-# Appointments on MHV on VA.gov UAT Research Findings 
+# Appointments on MHV on VA.gov UAT Research Findings [DRAFT] 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Appointments, Appointments FE**
 
-Date: 12/28/2023
+Draft Date: 01/10/2024
 
 Peter Russo - peter.russo@adhocteam.us
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+<!--_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)-->
 
 **Jump to:**
 
@@ -58,9 +58,9 @@ This test helped us achieve two goals:
 
 ## Methodology 
 
-FFRLKLJ.
-
 We asked 12 participants to log in to their VA.gov account and complete a series of tasks. 2 of the participants were registered at facilities that use Oracle Health/Cerner. 
+
+The sessions were run remotely, over Zoom.
 
 ## Hypotheses and Conclusions
 
@@ -78,13 +78,15 @@ _**Participants at Cerner facilities will be able to easily navigate to My VA He
 
 _Likely True, Not enough information_
 
-We only spoke to two participants who were registered at Cerner facilities, so we don't have enough information to draw a conclusion. However, those participants were redirected to the Oracle Health portal at multiple points.
+We only spoke to two participants who were registered at Cerner facilities, so we don't have enough information to draw a conclusion. However, those participants were redirected to the Oracle Health portal from points in VA.gov and My HealthVet, so we believe this is likely true.
 
 _**The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.**_
 
 _Likely False, not enough information_
 
-We were unable to consistently ask participants the same questions because different clinic configurations create different scheduling experiences. We also were unable to find a path to community care with any participant, so were unable to view provider selection. However, we did find that many aspects of scheduling didn't meet participant expectations, especially around the facilities we show for each type of care. 
+We weren't able to study the same experience across all participants because clinic configurations create different scheduling experiences. We also were unable to find a path to community care with any participant, so were unable to test expectations around that process. 
+
+However, we did find that aspects of scheduling we were able to test didn't meet participant expectations, especially around the facilities we show for each type of care. 
 
 _**Participants will be able to easily print a list of their appointments.**_
 
@@ -94,56 +96,72 @@ No participant had any trouble finding and using the print button.
 
 ## Key Findings
 
-5. Finding five
+1. Most participants struggled with login.
 
-6. Finding six
+2. Most participants were confused when navigating across multiple portals to find the appointments list.
 
-7. Finding seven
+3. All participants easily navigated appointment details pages.
 
+4. Most participants easily found their past appointments.
+
+5. Some participants struggled to understand their pending appointments.
+
+6. All participants were able to easily use the print feature.
+
+7. Participants expected a more personalized experience for selecting facilities.
+
+**Additional insights:**
+
+1. Missing or confusing data was the biggest frustration when using the appointments list.
+
+2. Participants were confused by the request calendar.
+
+3. Participants were confused by the alert that told them Community Care was unavailable for podiatry.
 
 ## Details of Findings 
 
-
-### Most participants complained that logging in can be frustrating.
+### Most participants struggled with login
 
 Labels: `login`
 
-<abbr title="5 out of 12">About half</abbr> of our participants had some trouble logging in. <abbr title="9 out of 12">Most</abbr> reported that they generally find login to be frustrating.
+<abbr title="5 out of 12">About half</abbr> of our participants had some trouble logging in. The two that had no trouble logging in were both mobile users.
 
-The two that had no trouble logging in were both mobile users.
-
-Participants found 2-factor authentication to be the most frustrating issue. Logging in multiple times to different portals, and confusion around the multiple methods for logging also caused frustration.
+<abbr title="9 out of 12">Most</abbr> reported that they generally find login to be frustrating. Participants found 2-factor authentication to be the most frustrating issue. Logging in multiple times to different portals, and confusion around the multiple methods for logging also caused frustration.
 
 > I had a problem with this the other day, where it asked me to log on again. That made no sense to me 'cause it already knew I was logged on, because up at the top right screen it says, "log out" and on the left side of the top screen it has my name, and my military service, and when I last accessed my account. So I have a go to My VA appointments, where it says 'Manage Appointments at...' And then it says, "Go to My Appointments" - where it asked me to log in again. And I never got to where I wanted to go. So you can see that the very next page is "Sign in to view/schedule/cancel your appointments online." This sucks. Why? Why do I have to sign in again? - P12
 
 Related finding: [Logging in was the biggest navigation challenge for participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md#logging-in-was-the-biggest-navigation-challenge-for-participants), Appointment list screenreader usability study, 05/2023
 
-### Most participants were confused when navigating across multiple portals to find the Appointments tool.
+### Most participants were confused when navigating across multiple portals to find the appointments list
 
-Labels: IA, navigation
+Labels: `IA`, `navigation`
 
 We started off by asking participants to go to VA.gov and find their appointments. Later, we asked them to find other health tools, then navigate back to appointments. This required that they navigate across 2-3 health portals:
 - My HealtheVet on VA.gov 
 - My HealtheVet National Portal
-- My VA Health - the Oracle Health portal (participants who are registered at Oracle Health facilities.)
+- My VA Health - the Oracle Health portal (only accessible to the 2 participants who were registered at Oracle Health facilities.)
 
-In general, participants struggled when navigating across these portals, but some paths to the Appointments tool were more challenging than others. An assessment of the key pages from most-challenging to easiest follows.
+In general, participants struggled when navigating across these portals, but some paths to the Appointments tool were more challenging than others. 
 
-> Okay, I'm gonna try to go back. I'm a little concerned that I'm gonna have to sign in again. But here we go. [Opens MHV on VA.gov portal] Oh, weird! Okay, this one has a different screen, too, from the normal MHV one. So I guess I'm not super familiar with this landing page. The initial one that I saw before is one that I'm more familiar with. - P9 discovering that there are two different health portals.
+> I feel like the goal, at least initially, was just to find my appointments. And that was so challenging. I felt like there was some run around, and in the end, if you asked me right now to go back and find that scheduling screen I don't know if I could do it. At least not confidently in one go, because I there was just so much all-over-the-place that I don't feel confident in finding those appointments. Of course, that nice screen that we eventually got on where it did say appointments -- and it did say specifically what I had on the eleventh and what I have next year -- that's a great screen, that's great. But just finding it felt like a frustrating process alone. - P9
+
+An assessment follows of the key issues from different flows.
 
 **Oracle Health portal (My VA Health)**  
 The 2 participants who were registered at Oracle Health facilities easily navigated to the Oracle Health portal. Once they were in that portal, they could not easily navigate back to VA.gov. This is by design, as the Oracle Health portal opens in a new tab from VA.gov, and has no links back to VA.gov.
 
 **My HealtheVet National Portal**  
-5 participants complained of information overload in this portal, both on the "Manage your VA Appointments" page and My HealtheVet NP appointments list. Both pages required a lot of reading and scrolling to get to the tool or main call to action.
+5 participants complained of information overload in this portal, both on the "Manage your VA Appointments" page and the My HealtheVet NP appointments list. Both pages required a lot of reading and scrolling to get to the tool or main call to action.
 
-3 participants struggled to use the "Manage appointments at:" page, which directs users to either VA.gov or Cerner. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they never attend in the list.
+3 participants struggled to use the "Manage appointments at" page, which directs users to either VA.gov or Cerner. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they don't currently attend in the list.
 
 ![Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL.](./images/MHV%20Manage%20appts%20screen.png)  
 _Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL._
 
-**VA.gov "Schedule and Manage Appointments" page** 
+**VA.gov "Schedule and Manage Appointments" page**.  
 <abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through this page at some point during the session. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of being sent directly to the Appointments tool. 4 were frustrated that they had to return to this page and click another option after logging in to access the Appointments tool. One said that it was so frustrating they would have abandoned the process at this page if they were dealing with this outside the context of a study.
+
+> If I have to scroll down the screen, I get angry. I'm like 'where the crap is this?!' One of the biggest things I do hate, and I'm gonna bring it up because I think it's relevant, is every time I click on 'learn about how to do appointments'I get sent to this page telling me all about it, everything about it, except what the f- do I click to get to it? That's the only thing I wanted. You're telling me when they started it, the history of it, and how Lincoln wants to serve Veterans. Great man! But I don't get what I need! - P6
 
 **MHV on VA.gov portal home page.**
 All but one participant were able to easily navigate to the MHV on VA.gov home page from the Appointments tool without prompting:
@@ -162,17 +180,17 @@ We tested this path with 11 participants. 10 navigated from My VA to the Appoint
 
 The one who struggled was a Cerner user who didn't have a direct path to the appointments tool from My VA.
 
-### All participants easily navigated appointment details pages.
+### All participants easily navigated appointment details pages
 
 Labels: `IA`, `list view`, `details view`
 
 All participants quickly understood how to open details pages. 
 
 Most participants used the descriptive back link. Of the 2 who didn't use the link:
-- One was on a mobile device, and favored using the browser back button at the bottom of their screen instead. 
+- One was on a mobile device, and favored using the browser back button at the bottom of their screen. 
 - The other was on desktop and also used the browser back button.  
 
-Neither showed any sign of being confused about navigating back to the list view.
+Neither showed any sign of being confused about navigating back to the list view with their preferred method.
 
 ### Most participants easily found their past appointments
 
@@ -182,36 +200,20 @@ Of those that had trouble:
 - 2 left the appointments tool to look for their past appointments in their health history.
 - 1 didn't see the navigation links.
 
-### Some participants struggled to understand their pending appointments.
+### Some participants struggled to understand their pending appointments
 
 Labels: `Content`, `requests`, `pending appointments`
 
 - 2 participants expected that the number next to Pending (0) should refer to their upcoming appointments.
 - 1 associated pending appointments with those requested through secure messages.
-- 2 had to think for a moment before selecting the Pending link.
 
-### All participants were able to easily use the print feature.
+### All participants were able to easily use the print feature
 
 Labels: `Print`, `tertiary button`
 
 Participants were able to easily find and use the print button.
 
-
-## Additional Insights
-
-### Missing or confusing data was the biggest barrier to using the appointments list
-
-Labels: `Missing data`
-
-All participants struggled with data that was missing or confusing. Type of care and provider name were the most requested, along with a link to the after-visit summary, or another way to find medical history.
-
-Without this information, participants did not know what the appointments were for, or where to go.
-
-> I don't think there's anything challenging about navigating. It's extremely easy, you know, the buttons are right here on the screen everything that you all the questions you asked me. Everything's right here in front of me. So it's not so much the navigation. It's just more the missing information. - P3
-
-> They all say "VA appointment", then I have to click into it to see what it is. If it just said "VA appointment with dentist in the description, it would be easier, instead of having to click through each one to figure out which one is which. Like some months where I have multiple appointments. Say I'm trying to find my head and neck appointment; I have to click on each one, and then figure out which one it is. If it said, "VA appointment with head and neck clinic" or "VA appointment with dental clinic" that would make it a lot easier to try and decipher these. - P2
-
-### Participants wanted a more personalized experience for selecting facilities.
+### Participants expected a more personalized experience for selecting facilities
 
 Labels: `Scheduling`, `personalization`
 
@@ -221,7 +223,22 @@ Labels: `Scheduling`, `personalization`
 
 2 said that it was easy to find the distance to the facility, and 2 others called out that they easily found their desired facility.
 
-## Participants were confused about the request calendar.
+
+## Additional Insights
+
+### Missing or confusing data was the biggest frustration when using the appointments list
+
+Labels: `Missing data`
+
+All participants struggled with data that was missing or confusing. Type of care and provider name were the most requested, along with a link to the after-visit summary, or another way to find medical history.
+
+Without this information, participants did not know what the appointments were for, or where to go.
+
+> I don't think there's anything challenging about navigating. It's extremely easy, you know, the buttons are right here on the screen everything that you all the questions you asked me. Everything's right here in front of me. So it's not so much the navigation. It's just more the missing information. - P3
+
+> They all say "VA appointment", then I have to click into it to see what it is. If it just said "VA appointment with dentist" in the description, it would be easier, instead of having to click through each one to figure out which one is which. Like some months where I have multiple appointments. Say I'm trying to find my head and neck appointment; I have to click on each one, and then figure out which one it is. If it said, "VA appointment with head and neck clinic" or "VA appointment with dental clinic" that would make it a lot easier to try and decipher these. - P2
+
+### Participants were confused by the request calendar
 
 Labels: `Scheduling`, `request`, `date picker`
 
@@ -240,17 +257,21 @@ Labels: `Scheduling`, `community care`, `alerts`
 
 ## Recommendations
 
-### Improve the workflow from the schedule and manage appointments page
-Bigger picture, the MHV on VA.gov portal team needs to consider what to do with the help content on this, and other health pages. 
+**[To be finalized with team - below are PR's initial thoughts]**
+
+Improve the static landing page. The MHV on VA.gov portal team is working out what to do with the help content on this, and other health pages.
 * Consider redirecting Veterans directly to the Appointments home page after they log into the Schedule and Manage appointments page. 
 * Consider relocating the "help" content on the VA.gov Schedule and Manage appointments page. 
-
-    * _Supporting evidence_
+ 
 * On the MHV on VA.gov portal, replace the link to the Schedule and Manage appointments page with a direct link to the scheduling flow.
-    * _Supporting evidence_
+
 * On the MHV National portal, remove the page that transitions users to VA.gov appointments.
-    * The functionality on this page is handled when the user arrives at VA.gov
-* Consider displaying the option to review Pending appointments only if the Veteran has pending or canceled appointment requests.
+    * Is all the functionality on this page handled when the user arrives at VA.gov? Including login verification? If so this might be a good first candidate to retire.
+
+* Consider displaying the option to review Pending appointments only if the Veteran has pending or canceled appointment requests. 
+* Consider treating pending appointments as a more temporary thing, similar to travel pay or check-in, a part of the process of an appointment rather than putting it at the level of the appointment itself.
+
+Start a working group to focus on the data issues. Surfacing type of care and provider would immediately increase the usability and trustworthiness of the list views.
 
 
 ## Next Steps
