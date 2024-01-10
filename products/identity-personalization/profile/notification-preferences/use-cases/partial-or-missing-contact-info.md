@@ -20,7 +20,7 @@ The notification settings page makes use of the [editing-as-a-subtask feature](h
 - AND a prompt user to add a mobile number
 
 ## UX
-If a user has some information, we display the information we have on file with links to edit. If they have one or the other, email or phone number, we display the information we have and prompt the user to add the additional information. In all cases it is optional to provide the information, however if the user has no contact info on file we use a warning alert component, see use case: [user has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
+If a user has some information, we display the information we have on file with links to edit. If they have one or the other, email or phone number, we display the information we have and prompt the user to add the additional information. In all cases, it is optional to provide the information, however if the user has no contact info on file we use a warning alert component, see use case: [user has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
 
 - [Desktop mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A969&mode=design&t=qGlUFpAiFQ8zwGc3-1)
 - [Mobile  mock-up](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A510&mode=design&t=qGlUFpAiFQ8zwGc3-1)
