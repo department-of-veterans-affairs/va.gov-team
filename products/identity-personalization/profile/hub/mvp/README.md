@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated: January 2, 2024** updated metrics
+**Last Updated: January 10, 2024** updated metrics
 
 ### Communications
 
