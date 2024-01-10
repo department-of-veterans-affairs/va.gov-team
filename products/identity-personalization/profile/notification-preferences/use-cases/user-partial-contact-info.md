@@ -14,7 +14,7 @@ The notification settings page makes use of the [editing-as-a-subtask feature](h
 - AND a prompt to add an email address
 
 #### missing mobile number with an email address present
-- GIVEN a user that isn't flagged/blocked they have an email address is on file and a mobile number is missing
+- GIVEN a user that isn't flagged/blocked and an email address is on file and a mobile number is missing
 - WHEN they open the notification settings page
 - THEN they see an alert that allows them to edit the email address
 - AND a prompt user to add a mobile number
