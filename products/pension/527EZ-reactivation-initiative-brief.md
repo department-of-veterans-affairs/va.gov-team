@@ -103,10 +103,10 @@
 - Form development: August 2023 - January 2024
 - Form launch: January 2024
 
-* [Link to Release Plan for this Initiative - TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Relaunch plan](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704481084114/b171b0540054b2844cb7977dd7dd2dfb7aab9c48?sender=u9d01ee38af217e4877e75660)
 
 #### Initiative Launch Dates
-- *Target Launch Date*: January 2024
+- *Target Launch Date*: January 25, 2024
 - *Actual Launch Date* : TBD
 
 ---
@@ -136,7 +136,7 @@
 |OCTO|Emily Theis|PO|
 |OCTO|Julie Strothman|Design Lead
 |OCTO|Steve Albers|Engineering Lead
-|VBA|Terrence Minyard|Project Manager for electronic submissions|
+|VBA|Dylan Dubbs| |
 |VBA|Eric Henne|Lead on paper form updates|
 
 ---

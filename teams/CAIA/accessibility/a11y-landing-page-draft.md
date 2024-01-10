@@ -12,7 +12,7 @@ Page draft starts below:
 
 # Accessibility on VA.gov
 
-`version 1.0.0` `last updated 1/4/24`
+`version 1.0.0` `last updated 1/5/24`
 
 This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
 
@@ -34,7 +34,7 @@ This page is meant to help researchers, designers, and developers working within
 ## Our mission
 VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
 - We strive to make VA.gov as accessible for Veterans as possible.
-- We aim to do more than pass a Section 508 audit - we focus on usability, not just compliance.
+- We aim to do more than pass a Section 508 audit. While we need to meet the official [federal government accessibility baseline](https://ictbaseline.access-board.gov/), we focus on **usability**, not just compliance.
 - We "shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
 
 
@@ -105,13 +105,16 @@ Don't re-create the wheel! The [VA Design System ](https://design.va.gov/)(VADS)
 - [VA Design System components Sketch library](https://www.sketch.com/s/610156b6-f281-4497-81f3-64454fc72156/symbols)
 - [VA Design System components Figma library](https://www.figma.com/file/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?type=design&mode=design&t=Ld7dhuyaPcerrnPF-0)
 
+Designing a form? Use [VA's common form pattern templates](https://www.figma.com/file/ht0ih1JzdyRGZYvvvN8jxQ/Form-templates---BETA---Veteran-Facing-Forms-team?type=design&node-id=112-13359&mode=design&t=GTU8TV4ONFLifJCs-0) (Figma).
+
 #### Use accessibility annotations
 A lot can be lost in translation when handing off your designs to a developer. Use accessibility annotations to make your intentions clear. It's especially important to annotate information that is semantically important, but not obvious on visual inspection:
 - Heading levels (`H1`, `H2`, etc.)
 - Anything that's using non-default styling (for example, an `H3` that's styled to look like an `H2`)
 - Text that's only accessible via assistive technology - alt text, aria-labels (for example, an "Edit" link with the `aria-label` "Edit address")
 - Focus management between pages or screens
-- Tab/focus order
+- Reading order
+- Tab/focus order (for interactive elements)
 - Any elements requiring `aria`
 - Alt text for images/icons
 - `Legend` and `fieldset`, if you're creating a form
@@ -286,11 +289,11 @@ Rhe VA trauma community is a grassroots, volunteer led multi-disciplinary commun
 - How to design for Veterans with [Traumatic Brain Injuries](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2177892586/Traumatic+Brain+Injury+TBI)
 
 ### Technical considerations
-- [Buttons vs links](https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit#slide=id.ge8045de9aa_0_0)
-- [Focus management](https://docs.google.com/presentation/d/1XSy61Hhh3SFic_3fS_DotQ_QfPbTEKeuVIE7gH2O4aI/edit#slide=id.g100cc953fd1_0_0) and [focus tracking](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2206531715/Focus+Tracking) `these might be too duplicative??`
-- [Headings](https://docs.google.com/presentation/d/1iYnPVPYzPsESY2miDtNhg3aEtve9IEnr8_TuEevInZA/edit?usp=sharing)
-- [Links](https://docs.google.com/presentation/d/14AwUoFOg_Ix1Txl9oePtPD1ntOpylBWwBJMYq9f5vmo/edit?usp=sharing)
-- [Live regions](https://docs.google.com/presentation/d/1-r6xRByAcqF4AiHTh6ffZ7GmoWZevjiwkjjcLp3K52k/edit?usp=sharing)
+- [Buttons vs links and action links](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Buttons-and-Links-and-Action-Links)
+- [Focus management](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Focus-Management) and [focus tracking](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2206531715/Focus+Tracking) `these might be too duplicative??`
+- [Headings](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Headings)
+- [Links](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Links)
+- [Live regions](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Live-Regions)
 
 ### Assistive technology
 - [Getting started with keyboard navigation and screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc02-getting-started-with-keyboard-navigation-and-screen-readers)

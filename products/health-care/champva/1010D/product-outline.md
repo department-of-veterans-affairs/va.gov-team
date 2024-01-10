@@ -74,8 +74,9 @@ Veterans and family members of Veterans must currently download and fill out the
 
 ## Solution Approach
 - We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
-- Connect with CAIA on migration effort happening in parallel (CAIA kickoff scheduled 11/29)
-
+- Connect with CAIA on migration effort happening in parallel 
+- In Scope:
+- Out of Scope:
 --- 
 
 ## Launch Dates
@@ -86,6 +87,14 @@ Veterans and family members of Veterans must currently download and fill out the
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
 
+- Collaboration Cycle
+  - [ ] CAIA kickoff: 11/29/23
+  - [ ] Design Intent: 1/9/24
+  - [ ] Research:
+  - [ ] Midpoint:
+  - [ ] Analytics:
+  - [ ] Staging:
+  - [ ] Security:
 ---
 
 ## Solution Narrative
@@ -103,7 +112,11 @@ Veterans and family members of Veterans must currently download and fill out the
 - end to end data submission processes/storage and error handling
 - existing metrics
   
-  
+#### Deliverables
+- Design:
+- Release:
+- Staging: 
+
 ### Key Decisions
 
 ---
@@ -114,7 +127,7 @@ Veterans and family members of Veterans must currently download and fill out the
 - Team Name: IVC
 - GitHub Label: champ-vfmp-forms (?)
 - Slack channel: #ivc-forms
-- Product POCs: Bo Altes, Mary Wang
+- Product POCs: Mary Wang, Bo Altes
 - Stakeholders: Lauren Alexanderson, Eunice Garcia
 
 

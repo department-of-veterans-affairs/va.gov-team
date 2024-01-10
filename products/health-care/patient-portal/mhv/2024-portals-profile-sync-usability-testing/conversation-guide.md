@@ -36,9 +36,9 @@ _[Start recording.]_ 
 
     - How often?
 
-- Do you access your profile information?
+- Are you familiar with your profile in My HealtheVet or VA.gov?
 
-    - How often?
+    - What do you know about it?
 
 - What type of device are you using today? 
 
@@ -74,7 +74,6 @@ _**[My Profile page]**_
 [_If they scroll first]_
 
 - What can you tell me about the information on this page?
-- Why do you think there are boxes around the My HealtheVet contact information, but not the VA contact information?
 - Can you tell me why you immediately started scrolling?
 
 Please return to the top of the screen
@@ -85,8 +84,8 @@ _[if they stop at the top_ _or after they scroll]_
   - What do you think is meant by 'connect?'
 - What do think My HealtheVet wants you to do here?
 - Why do you think you are being asked to do this?
-  - How do you feel about it?
-- How long do you think it will take? What makes you say that?
+  - What would motivate you to complete this task?
+- How long would you expect that to take? What makes you say that?
 
 Please select 'Connect your My HealtheVet and VA profile information.'
 
@@ -104,7 +103,11 @@ Let's walk through each section together. Our example emails and phone numbers a
 
 _**Email**_
 
-Next to each email it says from your VA profile, from Secure Messaging, and from your My HealtheVet profile.
+_[Desktop]_ Next to each email it says from your VA profile, from your Secure Messaging account, and from your My HealtheVet profile.
+
+- Considering only where these emails are already used, would you select one of these or provide a new one? What makes you say that?
+
+_[Mobile]_ Below each email it says from your VA profile, from Secure Messaging, and from your My HealtheVet profile.
 
 - Considering only where these emails are already used, would you select one of these or provide a new one? What makes you say that?
 
@@ -123,7 +126,7 @@ Please select the first option with the phone number.
 
 _**Home**_
 
-- Do you have a home phone?
+- Do you have a home phone? (Landline)
 
 [_if no]_
 
@@ -299,6 +302,7 @@ You can stop sharing your screen now.
 - Does the participant understand that the changes here will be on their VA profile?
 - Does the participant know their changes were successful?
 
+
 # **Post-Task Interview - 2 minutes**
 
 What thoughts do you have about what you've reviewed today?
@@ -306,6 +310,24 @@ What thoughts do you have about what you've reviewed today?
 - What was _helpful_ about what you've reviewed today?
 - What was _not_ helpful about what you've reviewed today?
 - What would you like to _change_ about what you've reviewed today?
+
+
+# **Screener Interview – Users with CD**
+
+Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.
+
+Before I let you go, I would like to confirm an answer to one of our screener questions. Please note that this is completely optional, it is up to you to answer these questions or decide not to. We just want to make sure that we accurately represent all the information you presented.
+
+Like I said, this is regarding a response you gave us upon your submission to be a part of this study. May I go ahead and ask these confirmation questions? Again, it is up to you to answer or opt out.
+
+_When confirmed:_
+
+- In your screener, you answered yes when asked about a cognitive disability. Could you confirm if this is correct information?
+
+_If yes_
+
+- Would you mind sharing a little about how your cognitive disability affects your use of My HealtheVet or other websites?
+  - _[possible follow up]_ Can you share an example of a time when you struggled with My HealtheVet because of your disability?
 
 # **Thank-You and Closing - 2 minutes**
 

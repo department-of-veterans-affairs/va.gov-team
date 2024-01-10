@@ -1,30 +1,29 @@
-# Feature Outline: Dependency Verification (email)
+# Dependency Verification Outline
 <!-- *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)* -->
 
 ---
 
 ## Overview
-Dependency Verification gives a quick and easy opportunity for a Veteran to update the VA on whenther the dependents on their award is are accurate.  This is important because the VA would like to reduce the almost $250 million dollars in over payments made every year as well as relieve VEterans of unneccessary debt.
+Veterans are required to update their dependents every 8 years through a paper 21-686c form that is mailed to them with a letter explaining the requirement. Veterans can also view, add, and remove their dependents on VA.gov by utilizing an online version of the 686c form. Veterans can also fill out an online 21-674 form to Request Approval of School Attendance when claiming benefits for a child who is at least 18 years old, but under 23, and attending school. The 686c and 674 online forms appear as one integrated experience, but VA.gov generates two seperate pdf forms when the online data is submitted.
+
+- [21-686c Online Form](https://www.va.gov/find-forms/about-form-21-686c/): Application Request to Add and/or Remove Dependents
+- [21-686c pdf](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
+- [21-674 Online Form](https://www.va.gov/find-forms/about-form-21-674/): Request for Approval of School Attendance
+- [21-674 pdf](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
 
 ## Problem Statement
-Veterans are currently required to update their dependents by mailed paper letter only every 8 years. This results in a very low quality feedback loop of what dependents are intended to be on award.
+Currently, updating dependency information outside of the 8-year requirement is voluntary, and the burden to remember to make dependency updates falls on the Veteran. This results in a very low quality feedback loop of what dependents are intended to be on award, which has contributed to $250 million in annual benefit overpayments.
 
-## Solution
-- Email Veterans asking them to verify the dependents on their dependents by directing them to the existing "view dependents" page on VA.gov.
-
-## Considered Solutions
-- Using existing Diary Entries, we can determine if the Veteran needs to update their verification and show them a list of their dependents and ask if they are correct.  If they are correct, we submit a 21-0538 on thier behalf that will route through Centralized Mail and update their Diary Entry to ask again in 1 year.  Else, the Veteran is given an iopportunity to update their dependents if needed.
-- It has been discussed to update the Diary Entry directly, but there are a few challenges with that as it is unknown if editing those numbers can be done safely by us. We are currently using a modal window to present the list of dependents.
-- [Modal solution](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/ebenefits/dependency-verification#:~:text=modal%2D-,README,-.md) (developed in 2021 but release was cancelled) 
- 
 ## Desired User Outcomes
 
 - Veteran's can quickly, easily and regulary update the VA on their dependents' status' so that they aren't being overpaid or underpaid.
-- The VA will save close to $250 M a year in overpayments.
-- Congressional obligations will be met.
+- Veterans can quickly and easily understand what dependency benefits they are eligble for.
+- Veterans have a positive experience on VA.gov.
+- Veterans receive the benefits they are entitled to.
 
 ## Undesired User Outcomes
-- Veterans ignore the email and another type of intercept would be needed.
+- Veterans ignore communications (email and letter) prompting them to update their dependency email and they are under or over paid benefits.
+- Veterans find the process of updating their dependency information on VA.gov confusing or too time-consuming.
 
 ## Desired Business Outcomes
 - The VA will save close to $250 M a year in overpayments.
@@ -32,11 +31,11 @@ Veterans are currently required to update their dependents by mailed paper lette
 - Congressional obligations will be met.
 
 ## Undesired Business Outcomes
-
+- Efforts to increase the rate of dependency verification do not reduce the annual overpayment amount.
+- Efforts to increase the rate of dependency verification do not reduce the annual underpayment amount
 
 ---
 ## Measuring Success
-
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
@@ -44,99 +43,46 @@ Veterans are currently required to update their dependents by mailed paper lette
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI                         | Base Value | Target Value | Actual Value |
+|-----------------------------|------------|--------------|--------------|
+| Annual Overpayment Amount   |            |              |              |
+| Online Form CSAT Score      |            |              |              |
+| # of online form submissions|            |              |              |
 
-#### Baseline KPI Values
-* Effectively at 0%
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: More Veterans have verified that their dependents are correct, or have the option to correct them.
   - Key result: Percentage comparison of annual updates compared to total (0%+)
-  - Key result: Conversion rate from opening email to viewing "view dependents" page (>50%)
   - Key result: Reduced annual overpayment (<$100m)
 
 ---
 
-## Assumptions
-- Veterans will not receive email (bad or no address).
-- Veterans will not open the email.
-- Veterans will open the email, but not take any action.
-- Veterans will open the email, click through to view dependents, but not make necessary updates.
-- Veterans will open the email, click through to view dependents, and make necessary updates.
-
-## Solution Approach
-
-- [Sketch file](https://www.sketch.com/s/149b2ccf-af21-4c71-9ca8-2ef2ae8af9fc)
-- Once a year, email all Veterans with dependents on their benefits
-- Test messaging and gather feedback to adjust email copy as needed
-- Develop additional email messages to fit other use cases (e.g., reminder to update dependent when they turn 18)
-
-  
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- [Pop-Up Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/modal/modal-README.md)
+   - Launched: Cancelled in 2021 
+- [Annual Reminder Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/annual-email/Feature-Brief-Annual-Verification-Email.md)
+   - Launched: Target February 2024 
 
 --- 
-
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-## Launch Dates
-- *Target Launch Date*
-  - September 2023
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch?*
-  - +1 month
----
-
-## Solution Narrative
-
-### Current Status
-- CAIA review complete
-- BE testing some Centralized Mail pdfs
-
 ### Key Decisions
-- We are working closely with OCTO and the VBA Dependent team.
-- There is a Congressional mandate for this to be in place ASAP.
-
----
-   
-## Screenshots
-
-### Before
-
-### After
+- A [pop-up modal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/modal) to prompt Veterans to update their dependent information was developed for VA.gov in 2021, but it was considered too disruptive to the VA.gov experience, so it not launched. 
 
 ---
 
 #### Communications
-
-<details>
-
 - Team Name: Benefits Non-Disability Experience
 - GitHub Label: #tree
 - Slack channel: #benefits-ce-non_disability_exp
 - Product POCs: 
 - Stakeholders: Brandi Traylor (VBA Dependent Team)
 
-</details>
 
 #### Team Members
-
-<details>
- 
  - DEPO Lead: Emily Theis
  - PM: Laura Steele
  - Engineering: Thomas Blackwell (lead), Evan Smith, Tyler Fink, Zack Youngren 
  - Research/Design: Ajia Wallace, Julie Pedtke
- 
-</details>

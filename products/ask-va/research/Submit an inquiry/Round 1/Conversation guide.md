@@ -2,7 +2,7 @@
 
 Ask VA Front-End Team
 
-Last updated by @tygindraux: January 3, 2024
+Last updated by @tygindraux: January 10, 2024
 
 ## Moderator logistics
 
@@ -10,12 +10,11 @@ Last updated by @tygindraux: January 3, 2024
 
 - [ ] Review guidelines for moderating
 - [ ] Review research goals
-- [ ] Review [prototype](add link)
+- [ ] Review prototype
 - [ ] Review participant list for name and screen responses
 
 ### 10 minutes before the session
 
-- [ ] Slack Perigean notetaker a link to Github notes document
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Start a thread in Teams, General channel for CRM folks
 - [ ] Sign into Perigean’s Zoom and start the meeting
@@ -40,7 +39,7 @@ Last updated by @tygindraux: January 3, 2024
 - [Chapter 1: Category and topic - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-1-category-and-topic-5-minutes)
 - [Chapter 2: Your question - 8 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-2-your-question-8-minutes)
 - [Chapter 3: Personal information - 12 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-3-personal-information-12-minutes)
-- [Chapter 4: Review and submit - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-4-review-and-submit-10-minutes)
+- [Chapter 4: Review and submit - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#chapter-4-review-and-submit)
 - [Submission page - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#submission-page-5-minutes)
 - [Cool down - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#cool-down-5-minutes)
 
@@ -134,6 +133,7 @@ First, I'll give you a second to read the page more closely.
 For the rest of our conversation, I’d like you to imagine that you need to ask VA a question. Let's say it's a question about a recent experience you had at a VA medical center.
 
 - What would you do first if you wanted to ask a question about an experience you had at a VA medical center?
+  - Can you tell me, without clicking anything yet?
   - Where would you click?
   - Why would you click `Sign in` (or) `Continue without signing in`?
 - Does it seem like you need to sign in, in order to start?
@@ -159,7 +159,7 @@ Okay, so I mentioned earlier that we’re imagining that you want to ask a quest
 
 - Can you show me what you would do first on this page?
   - Why would you choose `Health care` or [whatever they choose]?
-- Why do you think the VA is asking you this question?
+- Before we click anything else, why do you think the VA is asking you this question?
 - How important do you think it is to answer this question correctly?
 - How long do you think this process is going to take?
 - Before we move on, what do you expect to see on the next page?
@@ -220,7 +220,7 @@ Before we click on anything…
 - Why do you think the VA is asking you this?
 - (Is there anything else you’d like to share about this question?)
 
-Go ahead and click `Continue` and we’ll move on.
+Go ahead and choose `I have a question` and then we'll `Continue`.
 
 **Key things to notice:**
 - Do the options confuse them, given the name of the service?
@@ -275,18 +275,18 @@ For today, let’s choose `No` and `Continue`.
 
 > Screen: Tell us about yourself [Empty]
 
-- First, can you describe this page to me? What’s included?
+- First, can you summarize this page for me?
 
 We’re not going to fill in your information. For today, we’re just going to go through this page, and I’d like you to tell me how you’d answer the question. You don’t actually need to tell me your personal information, I’m more focused on how you would put in your information.
 
 So, for example, I might say, “I’d start by typing my first name in this box.” And so on.
 
-- What would do first?
+- What would you do first?
 - And in this next field?
 - (Continue until bottom of the page - Gender)
 - Why do you think VA needs this information?
-- Is there any information on this page that you would not like to give the VA?
-- Is there any other information that you expect to share with the VA?
+- Is there any information on this page that you would not like to give VA?
+- Is there any other information that you expect to share with VA?
 
 (If it’s not mentioned yet) I noticed that it asks for a social security number or service number.
 
@@ -294,7 +294,7 @@ So, for example, I might say, “I’d start by typing my first name in this box
 - Does that mean you would share both your social security number and service number?
 - Do you have a service number?
 
-Now, since you’re not able to fill in your information with this prototype, let’s click on the `First name` field and pretend like you filled it in.
+Now, since you’re not able to fill in your information with this prototype, let’s click on the box under `First name` and pretend like you filled it in.
 
 **Key things to notice:**
 - Is it clear that you need to enter either a SSN or a SN, not both?
@@ -307,19 +307,17 @@ Now, since you’re not able to fill in your information with this prototype, le
 
 Great. So we’ll pretend like you filled in this page. And click `Continue`.
 
-> Screen: Medical facility [Empty search]
+> Screen: Health facility [Empty search]
 
 - Can you describe this page to me? What is this page asking you to do?
-- Do you know why the VA is asking for your medical facility? Why?
-- Can you tell me what you would do first to search for your medical facility?
+- Do you know why VA is asking for your health facility? Why?
+- Can you tell me what you would do first to search for your health facility?
 - What does search by name mean?
 - What does search by location mean?
 - Would you choose to search by name or location? Why?
 - If you wanted to search by location, where would you click?
 
-We’ll pretend like you live in [TBC city name] and you searched [TBC search term].
-
-Go ahead and click `Search`.
+For today, we'll say your health facility starts with James. And we'll imagine that you started by typing in "James". You can click on the box. 
 
 **Key things to notice:**
 - Do they notice that there’s two tabs without being prompted?
@@ -328,16 +326,35 @@ Go ahead and click `Search`.
 - Which option would they choose and why?
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Medical facility [Results]
+> Screen: Medical facility [Search results: List]
 
-Okay, so we’re pretending that you searched [TBC search term] and next you see this list.
+Okay, so you typed in "James" and now...
 
-- What would you do next on this page? Can you show me?
+- What are we seeing?
 
-Let’s click [TBC facility name] and then click `Continue`.
+Let's say your health facility is called James J. Peters.
+
+- What would you do next? Can you show me?
+
+Let’s click James J. Peters Department of Veterans Affairs Medical Center in the Bronx.
+
+**Key things to notice:**
+- Do they understand they can choose an option in the list now?
+- Are they surprised or frustrated by the length of the form?
+
+> Screen: Medical facility [Search results: Radio buttons]
+
+- Can you show me what you would do next?
+
+What if you realized James J. Peters wasn't actually your health facility. We won't click on anything, but...
+
+- Can you tell me what you would do if you needed to choose a different option?
+
+Okay great, let's go and ahead and click 'Continue.'
 
 **Key things to notice:**
 - Do they understand that they need to choose an option in the list and then click continue, without being prompted?
+- Is it clear that they're still reviewing search results?
 - Are they surprised or frustrated by the length of the form?
 
 > Screen: Phone and email [Empty]
@@ -351,7 +368,7 @@ Okay, now before we talk about this page I just want to check in.
 Great. Let’s talk about this page.
 
 - Can you describe how you’d fill in this page?
-- Why is the VA asking for this information?
+- Why is VA asking for this information?
 
 Okay, well since we can’t type your information today, we’ll click the ‘Phone number’ box and pretend like we filled it in.
 
@@ -372,7 +389,7 @@ Before we click anything…
 - What is this page asking for?
 - Which option would you normally choose?
 
-Today, we’re going to pretend like you prefer the VA to send you a response in the mail. 
+Today, we’re going to pretend like you prefer VA to send you a response in the mail. 
 
 - Can you show me what you would do?
 
@@ -402,9 +419,9 @@ For today, let’s choose `United States` and `Continue`.
 I’ll give you a few moments to look through this page.
 
 - Is there anything that stands out to you on this page? Anything unclear?
-- Why is the VA asking for your address?
+- Why is VA asking for your address?
 
-Okay, we’ll pretend like you filled in this page. You can click `Street address`.
+Okay, we’ll pretend like you filled in this page. You can click the box under `Street address`.
 
 **Key things to notice:**
 - Is anything confusing about the address page?
@@ -439,7 +456,7 @@ Let’s go ahead and click `Continue`.
 - Can you tell me what you would do first on this page?
 - If you wanted to [review, or whatever word they used] your category and topic, what would you click next?
 
-Let’s open `Your category and topic`.
+Let’s open `Category and topic`.
 
 - Where has this information come from?
   - Is this information familiar to you?
@@ -463,7 +480,9 @@ Go ahead and click `Edit` (Contact information).
   - Why do you think that is?
   - What if you wanted to change your contact preference? What would you do?
 
-Great. Let’s go ahead and submit your question (click, `Submit question`).
+Great. Let’s go ahead and click `Cancel`.
+
+And now we're ready to submit your question (Go ahead and click, `Submit question`).
 
 **Key things to notice:**
 - Is it clear that this is nearly the end of the form, before you submit your question?
@@ -557,5 +576,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- [PENDING] Becky Phung, PO on [DATE]
+- Becky Phung, PO on 1/9/2024
 - [PENDING] Shane Strassberg, VA Research Ops on [DATE]

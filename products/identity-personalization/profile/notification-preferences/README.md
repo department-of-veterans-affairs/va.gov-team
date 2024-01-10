@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: August 1, 2023**
+**Last Updated: January 10, 2024** removed references to the MHV newsletter as that is no longer migrating to the notification settings page
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -63,7 +63,6 @@ Notification Group | Item | Description | Notes | Channel | In Production
 Your health care | Appointment reminders |   |   | Text | Yes
 Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
 Your health care | Medical images and reports |   | MHV Migration Item | Email | No
-Your health care | My HealtheVet Newsletter |   | MHV Migration Item | Email | No
 Your health care | My HealtheVet new secure message available |   | MHV Migration Item | Email | No
 Board of Veterans' Appeals | Appeals hearing reminder |   |   | Text | Yes
 Board of Veterans' Appeals | Appeals status updates |   |   | Text | Yes

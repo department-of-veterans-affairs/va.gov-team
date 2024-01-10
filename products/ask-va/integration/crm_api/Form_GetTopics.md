@@ -25,6 +25,7 @@ This parameter is optional.
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|The logged in user's ICN|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
 
 ## Response
 
@@ -70,5 +71,10 @@ This parameter is optional.
 </table>
 
 ## Notes
+
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+ 
+## Tasks / Comments
 
 * Topics sorted by rank for categories, as most popular order. New UI will sort by rank, then alpha, where Rank = NULL for alphabetical, then Rank = 999 for Other. Shouldn’t be extra effort. JD: if we start putting the 999 into other, could change the current portal’s roll-out. Avoid sort inconsistencies on the existing portal if the new portal cannot be rolled out. RankOrder. Add that to schema. (JH: Done)

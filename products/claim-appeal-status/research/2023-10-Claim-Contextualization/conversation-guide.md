@@ -1,15 +1,6 @@
 # Conversation Guide 
 
 ## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
@@ -30,7 +21,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Skyler, and I'm going to be guiding you through the session today. Today we're going to talk about disability compensation claims and the Claim Status Tool.
+Thanks for joining us today! My name is [Skyler/Gary], and I'm going to be guiding you through the session today. Today we're going to talk about disability compensation claims and the Claim Status Tool.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -67,6 +58,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Time permitting] What military information do you recall being asked for have to provide when you submitted your claim?
 - [Time permitting] How did you get that information (memory, had to look it up, etc)?
 
+[Share [prototype link](https://www.figma.com/proto/bWELjWsVqkf3BDx0PXqqam/CST-Claims-Process-exploration?type=design&node-id=362-14421&t=NxYNpqn2qvaLzIp2-0&scaling=scale-down&page-id=362%3A14273&starting-point-node-id=362%3A14421) with participant]
+
 ## First Task: CST Home Page - 5 minutes
 
 So let's say you are signed into your VA.gov account and you're looking at this page. You submitted a claim a couple weeks ago, and you're logging in to check and see if there's been an update.
@@ -83,32 +76,33 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 
 ## Second Task: Status Tab - 5 minutes
 
-[Have the participant click into the in-progress claim]
+[Have the participant click "View details" on the in-progress claim]
 
-- Based on what you see here, what would you say is the status of this claim?
+- Tell me what you see here. (Prompt them to scroll up and down.)
+- Based on what you see here, what would you say is the status of this claim? (Might be the same answer as First Task)
 - Do you feel like this tells you everything you need to know about the claim? Why or why not?
 - If you wanted to understand more about what is going on with your claim, where would you go from here?
 
 ### Things to watch for:
 
 - How do Veterans react to the Status tab in general?
-- Do Veterans seem to want more understanding of what's happening than what is provided on the Status tab?
+- Do Veterans seem to want or need more details about what's happening with the claim than what is provided on the Status tab?
 - Do Veterans know to navigate to the Overview tab to find out more details about what's going on with their claim?
 
 ## Third Task: Overview Tab - 15 minutes
 
 [Participant clicks into the Overview tab]
 
-- Now tell me what you see here.
-- Based on what you see here, how would you describe the state of this claim? [Claim will be in Step 3: Evidence Gathering]
+- Now tell me what you see here. (Prompt them to scroll up and down.)
+- Based on what you see here, how would you describe the state of this claim?
 - Is there anything that is particularly useful about what you see here?
 - Is there anything that is particularly confusing about what you see here?
 - [Focus on the graphic] What do you think this is trying to communicate?
 - [Focus on the "May repeat" message] What do you think this is trying to communicate?
 
-[Have the Participant click into each of the six steps. Ask this question for each step.]
+[Have the Participant click into each of the eight steps. Ask this question for each step.]
 
-- Describe in your own words what is happening at this step of the process.
+- Describe in your own words what you think happens at this step.
 
 [Overall questions]
 - Is there any information you're not seeing here that you'd like to see?
@@ -116,18 +110,24 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - On a scale of 1-5, how would you rate the level of detail provided by this page?
 - What would you expect to happen next with the claim?
 
+[Have participant click into header to view the control]
+- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- On a scale of 1-5, how would you rate the level of detail provided by this page?
+- Between the two versions, which of these do you prefer? Why? (They can toggle between them by clicking on the header)
+
 ### Things to watch for:
 
 - Is it clear to the Veteran what step their claim is in?
 - What content is most useful to the Veteran? Least helpful or confusing?
 - Do Veterans understand the graphic? Does it seem to be helpful?
 - Do Veterans understand that claims may go back and forth between steps? How do they feel about that?
+- How does the the new design to the control for Veterans?
 
 ## Fourth Task: Checking Back on the Claim at Step 4 - 10 minutes
 
 Now let's imagine you log out, a couple of weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
 
-[Tap VA.gov header to jump to next scenario]
+[Tap on anywhere on the control screen to advance to next task]
 
 - Where would you go to check for updates to the claim?
   

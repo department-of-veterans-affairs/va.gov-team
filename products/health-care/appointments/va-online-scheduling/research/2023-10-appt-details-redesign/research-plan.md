@@ -135,7 +135,7 @@ Prototype link TBD
 
 ## Recruitment approach
 
-Perigean will recruit 12 participants for this study who are active MyHealtheVet or VA.gov. 
+Perigean will recruit 16 participants for this study who are active MyHealtheVet or VA.gov. 
 
 <!-- I'd recommend recruiting 16 participants to make sure we end up with the end goal of 12 -->
 
@@ -144,8 +144,8 @@ Perigean will recruit 12 participants for this study who are active MyHealtheVet
 
 Primary criteria
 
-* 6 participants who primarily use a desktop/laptop computer.
-* 6 participants who primarily use a mobile device.
+* 8 participants who primarily use a desktop/laptop computer.
+* 8 participants who primarily use a mobile device.
 
 Secondary criteria:
 

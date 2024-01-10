@@ -5,7 +5,7 @@ Benefits Management Tools · December 2023
 ## Background
 In [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-05-Evidence-Submission/research-findings.md#secondary-findings), we have found that Veterans find limited value in the claim process Overview tab in its current form. 
 
-We have also seen in the same research a dissatisfaction with the current representation of the various "stages" in the claim process. In particular, we've gotten feedback that "Evidence Gathering, Review, and Decision" is not a very helpful description of what's happening with the claim, because it covers such a broad range of steps and activity related to the claim. 
+We have also seen in the same research a dissatisfaction with the current representation of the various "steps" in the claim process. In particular, we've gotten feedback that "Evidence Gathering, Review, and Decision" is not a very helpful description of what's happening with the claim, because it covers such a broad range of steps and activity related to the claim. 
 
 The [Improved Claim Process Understanding Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md) highlights a number of Veteran pain points with the current CST experience. With this design and research effort, we aim to address the following: 
 > As a veteran with an open disability claim, my preconceived expectations about the claims process frequently clash with the reality, causing me to become frustrated when the claim stagnates at a particular phase, or unexpectedly reverts to a previous phase.
@@ -22,21 +22,22 @@ This work supports a Veteran whenever they are filing a disability compensation 
 
 ## Research Goals
 
-- Assess how well the design explains the overall claim process for Veterans who are less familiar with the process and CST.
+- Assess whether the new design provides more value to Veteran than the simpler "process list" version of the Overview tab.
 - Assess whether the new timeline design creates an accurate mental model for Veterans about how a claim moves through the claim adjudication process.
+- Assess how well the design explains the overall claim process for Veterans who are less familiar with the process and CST.
 - Assess whether the design does a better job of explaining the details of the claim process for Veterans who have experienced the pain of a claim getting "stuck" in one of the step process for a long time.
 
 ### Outcome
-With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful?
+With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful (or not)?
 
 ### Research questions
 
 - How do Veterans react to this content? Do they find it useful?
-- Does this new design set better expectations for how the claim will move between stages? Do Veterans understand why and how the claim might move back and forth between certain stages?
+- Does this new design set the right expectation for how the claim will move between claim steps? Do Veterans understand why and how the claim might move back and forth between certain claim steps?
 - After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do they feel after seeing this information?
 
 ### Hypotheses
-- Veterans will find value in the information provided in the Overview tab.
+- Veterans will find value in the information provided in the new Overview tab and will prefer it to the more basic "process list" design.
 - Veterans will have a good understanding of generally what happens at each step of the process (they don't need to understand every little detail).
 - Veterans will understand that it is normal for claims to go back and forth between steps.
 - Veterans will find that the new timeline provides a detailed picture of what is happening with a claim.

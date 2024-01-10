@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 1/9/2024
+- Updated primary buttons to use version 3 of the Design System
+    - [Ticket 65597](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
+
 ### 1/2/2024
 - Updated slim alerts and their icons to use version 3 of the Design System
     - [Ticket 65493](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)

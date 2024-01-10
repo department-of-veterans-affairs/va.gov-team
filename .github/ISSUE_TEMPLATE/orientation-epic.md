@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 ## Welcome and Introduction
-Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team! 
+Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team!
 
 As a new VFS team member, you will be working in the web ecosystem we call the VA.gov Platform (or "**The Platform,**" for short).  The tasks on this list are designed to get you up to speed on the role of Platform, making it easier for you to do your job.
 
-Because the VA is a huge organization that serves millions, the Platform it runs on is equally big, complex and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible. 
+Because the VA is a huge organization that serves millions, the Platform it runs on is equally big, complex and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible.
 
 ## User Story
 As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
@@ -88,7 +88,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 #### Product Managers & Delivery Managers
 - [ ] [Schedule a PM intro via Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
-- [ ] If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step. 
+- [ ] If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
 - [ ]  For [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Analyticsorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [Accessibiliy orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session
 - [ ] For [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) sessions, either attend a live session (schedule via Calendly) or watch the latest recorded session

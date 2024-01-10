@@ -2,7 +2,7 @@
 
 Ask VA Front-End Team
 
-Last updated by @tygindraux: December 20, 2023
+Last updated by @tygindraux: January 8, 2023
 
 **Jump ahead to:**
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#background)
@@ -88,8 +88,8 @@ Diagram of test journey, [also available in Mural](https://app.mural.co/t/depart
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
-* [Mobile prototype](add link)
-* [Desktop prototype](add link)
+* [Mobile prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=0%3A1&type=design&node-id=1-1999&viewport=1428%2C772%2C0.34&t=8Ec6cJ5oHuCz8JiB-1&scaling=min-zoom&starting-point-node-id=1%3A1999&show-proto-sidebar=1&mode=design)
+* [Desktop prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=165%3A12151&type=design&node-id=165-15720&viewport=572%2C492%2C0.25&t=63nzRinEhXlzgXJR-1&scaling=min-zoom&starting-point-node-id=165%3A15720&mode=design)
 * [Mural: Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702577156510/63987723a59c971b96105858b484e9061622c235?wid=0-1703093103991)
 	
 ## Recruitment	
@@ -104,7 +104,7 @@ We will work with Perigean to recruit Veterans for this research.
 
 We will recruit 14 Veterans for a total of 8-10 completed sessions.
 
-For more details about our criteria, refer to our [Recruitment ticket](add link).
+For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/456).
 
 |# of participants|Criteria|
 |:--|:--|
@@ -120,25 +120,22 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Screener questions
 
-1. Are you a Veteran?
+1. Do you have any dependents or other family members who use VA services?
    - Yes
    - No
-2. Do you have any dependents or other family members who use VA services?
+2. Have you contacted the VA online or over the phone in the past year?
    - Yes
    - No
-3. Have you contacted the VA online or over the phone in the past year?
+3. Have you signed in to VA.gov in the past year?
    - Yes
    - No
-4. Have you signed in to VA.gov in the past year?
+4. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet.
    - Yes
    - No
-5. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet.
+5. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
    - Yes
    - No
-6. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
-   - Yes
-   - No
-7. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
    - Yes
    - No
 
@@ -148,19 +145,22 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |:--|:--|
 |July 28, 2023|Design Intent|
 |December 1, 2023|Midpoint Review|
-|By January 12, 2024|Prototype* ready|
-|By January 12, 2024|Research Review|
-|By January 19, 2024|Pilot session at TBC EST|
-|Jan 25 - Feb 5, 2024|Research sessions|
-|Feb 6 - 19, 2024|Analysis|
+|January 9, 2024|Prototype(s) ready|
+|January 10, 2024|Research Review|
+|January 18, 2024|Pilot sessions (2)|
+|Jan 24 - Feb 5, 2024|Research sessions|
+|Feb 6 - 19, 2024|Synthesis|
 |Feb 20 - Mar 4, 2024|Share findings|
 
-***We plan to prototype for mobile and desktop, but mobile is the priority. At minimum, our goal is to have a mobile prototype by January 12th.**
+### Pilot sessions
 
-### Pilot session
+**Pilot 1**
+- Pilot participant email: Jeff Wallace (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: 12-1:30pm EST
 
-Pilot participant email: [TBC]
-Date and time of pilot session: [TBC]
+**Pilot 2**
+- Pilot participant email: Will York(Tyler will add to pilot sessions herself)
+- Date and time of pilot session: 2-3:30pm EST
 
 ## Research sessions
 
@@ -176,14 +176,15 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Thursday, Jan 25|12-1pm, 2-3pm, 3-4pm|
-|Friday, Jan 26|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Monday, Jan 29|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
+|Wednesday, Jan 24|12pm-1pm, 2-3pm, 4-5pm|
+|Thursday, Jan 25|12pm-1pm, 2-3pm, 4-5pm|
+|Friday, Jan 26|12pm-1pm, 2-3pm|
+|Monday, Jan 29|12pm-1pm, 2-3pm, 4-5pm|
 |Tuesday, Jan 30|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Wednesday, Jan 31|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Thursday, Feb 1|12-1pm, 2-3pm, 3-4pm|
-|Friday, Feb 2|12-1pm, 2-3pm, 3-4pm|
-|Monday, Feb 5|12-1pm, 2-3pm, 3-4pm|
+|Wednesday, Jan 31|12pm-1pm, 2-3pm, 4-5pm|
+|Thursday, Feb 1|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
+|Friday, Feb 2|12pm-1pm, 2-3pm, 4-5pm|
+|Monday, Feb 5|12pm-1pm, 2-3pm, 4-5pm|
 	
 ## Team roles
 
@@ -191,10 +192,12 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
-* Participant(s) for pilot test: [TBC]
+* Participant(s) for pilot test: Jeff Wallace and Will York (Tyler will add to pilot sessions herself).
 * Accessibility specialist: –
-* **Notetakers: Perigean (In Github)**
-* Observers: Tyler will add observers to the invites herself, to keep sessions to no more than 5 people (1 participant, 1 moderator, and up to 3 observers). Observers will receive guidelines to review.
+* Notetakers: Tyler will add notetakers to the invites herself.
+* Observers: Tyler will add observers to the invites herself.
+
+Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker and up to 2 observers.
 
 ## Approved by:
 
