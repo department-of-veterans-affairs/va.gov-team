@@ -2,7 +2,7 @@
 
 Ask VA Front-End Team
 
-Last updated by @tygindraux: January 9, 2024
+Last updated by @tygindraux: January 10, 2024
 
 ## Moderator logistics
 
@@ -317,7 +317,7 @@ Great. So we’ll pretend like you filled in this page. And click `Continue`.
 - Would you choose to search by name or location? Why?
 - If you wanted to search by location, where would you click?
 
-For today, we'll say you live in New York and we'll pretend like you start typing in "New." You can click on the box. 
+For today, we'll say your health facility starts with James. And we'll imagine that you started by typing in "James". You can click on the box. 
 
 **Key things to notice:**
 - Do they notice that there’s two tabs without being prompted?
@@ -328,7 +328,7 @@ For today, we'll say you live in New York and we'll pretend like you start typin
 
 > Screen: Medical facility [Search results: List]
 
-Okay, so you typed in "New" and now...
+Okay, so you typed in "James" and now...
 
 - What are we seeing?
 
