@@ -42,6 +42,16 @@ As with global/default pre-fill, the 526ez application appears *not* to be the o
 
 Though it is more difficult to track down all usage of the AddressesController's endpoints within vets-website, various tests within the project (like [this](https://github.com/department-of-veterans-affairs/vets-website/blob/4d48aae81e266379427a34e80f21ae31a22aefd9/src/applications/letters/tests/02-keyboard-only.cypress.spec.js#L17) one, presumably for the Letters application) employ/intercept calls to AddressController endpoints. Nothing in vets-website suggests direct usage by the 526ez application (aside from the aforementioned pre-fill tie-in). However, it is entirely possible that 526ez is using the results from these calls indirectly, from other areas within the site.
 
+## 526ez mailing_address Pre-fill
+
+As mentioned above, 526ez has its own custom pre-fill which is called before the base class's. There, [`initialize_veteran_contact_information`](https://github.com/department-of-veterans-affairs/vets-api/blob/81e325eebaa92b3fbb1a9a938a9c60c8572fd454/app/models/form_profiles/va_526ez.rb#L130) is called to grab contact information. Here is the flow of that method, focusing in on `mailing_address`:
+1. Calls out to VA Profile and populates `mailing_address` with `addresses/address_pou` from the response (if it exists, and user is "loa3")
+2. Then, it calls `get_common_address`, which calls the `get_address` method of PCIU_Address (which in turn calls the EVSS PCIU `/mailingAddress` endpoint)
+3. Based on the `address` attribute of the PCIU response (which is apparently an address *type*- either DomesticAddress, InternationalAddress, or MilitaryAddress), it will populate the same standard address attributes (like 'city', 'state', etc) with different response values
+4. If the `mailing_address` was found in VA Profile, then *that* address is used- otherwise, PCIU is used (which is good!)
+
+Note, however, that **PCIU_Address is called regardless of whether or not VA Profile information came back** (even though it is the preferred address)
+
 # Open Questions/Thoughts
 There are many open questions, and we can expect this list to grow. So feel free to add to the section below (and for that matter, the section above 😜)
 
