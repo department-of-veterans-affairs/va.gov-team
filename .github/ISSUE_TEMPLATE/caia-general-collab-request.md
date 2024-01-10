@@ -69,7 +69,15 @@ _Check all the types of collaboration you're requesting, below:_
 We work on nearly every OCTO product and manage all unauthenticated content on VA.gov, so we will need to prioritize intake requests based on overall workload and VA and OCTO priorities.
 
 ### Your timeline 
-- [ ] Check yes, if this request is tied to a Congressional mandate or timeline? 
+- [ ] Check yes, if this request is tied to a Congressional mandate or timeline?
+
+### Will you release this new product incrementally (for example, release to 25% of users to start)?
+- [ ] Yes
+- [ ] No
+
+**Note: **If you checked yes, we’ll reach out to discuss details about the content in the react widget (we use these widgets to display entry points for new products to a certain percentage of users who visit our static pages). Please refer to this [GitHub reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md) for dynamic content.
+
+- [ ] I acknowledge that if I change the roll out of this product to be incremental, or change it from incremental to 100%, I must notify CAIA of this change as there is additional work involved that may impact deadlines. 
 
 ### Description
 **Describe where you are in your project's timeline.** 
@@ -118,20 +126,14 @@ Please provide links to any supporting artifacts we might need to begin work. Th
 
 ```[tasklist]
 ### a11y Tasks
-- [ ] A11y Task 1
-- [ ] A11y Task 2
 ```
 
 ```[tasklist]
 ### Content Tasks
-- [ ] Content Task 1
-- [ ] Content Task 2
 ```
 
 ```[tasklist]
 ### IA Tasks
-- [ ] IA Task 1
-- [ ] IA Task 2
 ```
 
 ```[tasklist]
