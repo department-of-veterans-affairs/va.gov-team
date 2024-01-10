@@ -572,7 +572,11 @@ Back button: Yes, `< Back to lab and test results`
   
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------|
-| | |
+|We will combine imaging and lab results into one section. |In [early tree testing studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-tree-test-findings.md#details-of-findings), combining these categories worked well.|
+|In the list view, each card will show enough information about a lab result to consider that entry unique. We believe name and date speciment collected suffice.| The same lab or imaging test may be run multiple times.|
+|The following imaging results fields will not be shown to users: ordering location | SMEs felt that the ordering location was not important data and could create confusion alongside performing location.|
+|Lab and test result reports should be shown in monospaced fonts.| SMEs informed us that reports are written up in lab systems in monospaced fonts, and spacing is an important consideration. Therefore, that spacing should be retained when presenting to patients.|
+|For phase 0, we do not need to show radiology images.|Radiology images are stored differently from other medical records data and can be quite large in size. This work is requires separate work than making the other MR data available. Due to the heavier lift, as well as the notion that images are less useful for patients than the report, Dr. J mentioned in PI 10 that this work to move over to VA.gov could be deprioritzed, though needs to be done eventually before Phase 4.|
 </details>
 
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
