@@ -27,16 +27,15 @@ Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+- **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. These clips will not be shared outside of the VA. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
    - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
@@ -57,6 +56,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If yes, how many times? Have you ever done it on VA.gov?
 - [Time permitting] What information about your service history do you recall being asked for when you submitted your claim? (If they asked for clarification, I would say "I mean things like, where you were, or dates, your units or assignments. Things like that")
 - [Time permitting] How did you get that information (memory, had to look it up, etc)?
+
+[Ask participant to share their screen]
 
 [Share [prototype link](https://www.figma.com/proto/bWELjWsVqkf3BDx0PXqqam/CST-Claims-Process-exploration?type=design&node-id=362-14421&t=NxYNpqn2qvaLzIp2-0&scaling=scale-down&page-id=362%3A14273&starting-point-node-id=362%3A14421) with participant]
 
@@ -138,7 +139,6 @@ Now let's imagine you log out, a couple of weeks go by, and you log back in. You
 
 [Overview Tab]
 - Based on what you see here, how would you describe the state of this claim?
-- Why do you think the claim is on the step it's currently on?
 - Is there any information you're not seeing here that you'd like to see?
 - What would you expect to happen next with the claim?
 
@@ -146,7 +146,6 @@ Now let's imagine you log out, a couple of weeks go by, and you log back in. You
 
 - Is it clear to the Veteran how to check on the status of the claim from the CST home page?
 - Does the Veteran feel the need to check the Overview tab to check on the claim, or do they feel like the Status tab is enough?
-- In the Overview tab, does the Veteran seem to understand why the claim has gone "back" a step?
 - Does the Veteran have a good understanding of what might happen to the claim next?
 
 ## Fifth Task: Checking Back on the Claim at Step 3 Again - 10 minutes
@@ -160,6 +159,7 @@ Now let's imagine you log out, a couple of days go by, and you log back in. You 
 [Status tab]
 - Based on what you see here, how would you describe the state of this claim? [Claim will be back in Step 3: Evidence Gathering]
 - What's your initial reaction to that?
+- If you wanted to find out more about why your claim is in this step, where would you go?
 
 [Overview Tab]
 - Based on what you see here, how would you describe the state of this claim?
