@@ -76,13 +76,13 @@ Our rollout plan has 3 phases, each increasing the number of Veterans. This is a
 - How will you make the product available in production while limiting the number of users who can find/access it: Email notification will be sent to a limited percentage of the target audience
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   
-| KPI                       | Base Value | Target Value | Ending Value | 
-|---------------------------|------------|--------------|--------------|
-| Bounce rate               |            |              |              |
-| Open rate                 |            |              |              |
-| Click-through rate        |            |              |              |
-| Volume of 686 submissions |            |              |              |
-| Total Overpayment Amount  |            |              |              |
+| KPI                       | Base Value                    | Target Value | Ending Value | Link to Dashboard| 
+|---------------------------|-------------------------------|--------------|--------------|------------------|
+| Bounce rate               |  Avg of Veteran Notify emails |        ≥ Avg |              |                  |
+| Open rate                 |  Avg of Veteran Notify emails |        ≥ Avg |              |                  |
+| Click-through rate        |  Avg of Veteran Notify emails |        ≥ Avg |              |                  |
+| Volume of 686 submissions |                               |              |              |                  |
+| Total Overpayment Amount  |                               |              |              |                  |
 
 
 ### Objectives and Key results (OKRs)
