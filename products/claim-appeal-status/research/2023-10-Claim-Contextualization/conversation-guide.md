@@ -107,12 +107,18 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - On a scale of 1-5, how would you rate the level of detail provided by this page?
 - What would you expect to happen next with the claim?
 
+[Have participant click into header to view the control]
+- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- On a scale of 1-5, how would you rate the level of detail provided by this page?
+- Between the two versions, which of these do you prefer? Why? (They can toggle between them by clicking on the header)
+
 ### Things to watch for:
 
 - Is it clear to the Veteran what step their claim is in?
 - What content is most useful to the Veteran? Least helpful or confusing?
 - Do Veterans understand the graphic? Does it seem to be helpful?
 - Do Veterans understand that claims may go back and forth between steps? How do they feel about that?
+- How do Veterans compare the new design to the control?
 
 ## Fourth Task: Checking Back on the Claim at Step 4 - 10 minutes
 
