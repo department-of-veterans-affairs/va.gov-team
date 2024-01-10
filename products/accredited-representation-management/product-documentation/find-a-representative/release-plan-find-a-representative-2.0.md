@@ -5,8 +5,8 @@
 
 Feature Toggles:
 
-1.  `find_a_rep` will be enabled prior to staged rollout
-2.  `find_a_representative` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
+1.  `find_a_representative_enable_api` will be enabled prior to staged rollout
+2.  `find_a_representative_enable_frontend` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
 
 ### Validation
 
@@ -36,7 +36,7 @@ Feature Toggles:
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the frontend feature toggle `find_a_representative`
+1. Turn off the frontend feature toggle `find_a_representative_enable_frontend`
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
@@ -54,17 +54,17 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: TBD
-- Limited production access will be controlled through the frontend feature toggle `find_a_representative` 
+- Rollout date range: 3/5-3/18
+- Limited production access will be controlled through the frontend feature toggle `find_a_representative_enable_frontend` 
 - Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting TBD**
-1. Stage A: 10% of users on TBD
-2. Stage B: 25% of users on TBD
-3. Stage C: 50% of users on TBD
-4. Stage D: 100% of users on TBD
+**Go/No Go meeting 3/5/2024 at 1:30p ET**
+1. Stage A: 10% of users on 3/5
+2. Stage B: 25% of users from 3/7 - 3/10
+3. Stage C: 50% of users on 3/11
+4. Stage D: 100% of users on 3/12 - monitor for any issues through 3/18 EOD
 
 *** 
 
@@ -73,32 +73,26 @@ While we cannot think of any events that would be critical enough to merit a rol
 The following metrics will be considered before advancing rollout to the next stage:
 
 1. Errors in Sentry
-2. _Errors in DataDog_
-
 
 ### Stage A Results
 
 1. Errors in Sentry:
-2. _Errors in DataDog:_
 3. Are console errors still happening on page click?  _suspected to be a Staging-specific issue, this will validate suspicions_
 4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage B Results
 
 1. Errors in Sentry:
-2. _Errors in DataDog:_
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage C Results
 
 1. Errors in Sentry:
-2. _Errors in DataDog:_
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage D Results
 
 1. Errors in Sentry:
-2. _Errors in DataDog:_
 3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ***
@@ -117,7 +111,6 @@ _Links to Google Analytics and DOMO dashboards_
 - Average number of searches per user:
 - % of searches that do not return results:
 - Errors logged in Sentry:
-- Errors logged in DataDog:
 - Contact Center calls:
 - Feedback survey submmissions:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
@@ -131,7 +124,6 @@ _Links to Google Analytics and DOMO dashboards_
 - Average number of searches per user:
 - % of searches that do not return results:
 - Errors logged in Sentry:
-- Errors logged in DataDog:
 - Contact Center calls:
 - Feedback survey submmissions:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
