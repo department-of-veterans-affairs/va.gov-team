@@ -4,7 +4,7 @@
 
 VA.gov is piloting a new design for a standard header later this year, which includes a significant change to the placement of the authenticated menu on mobile: instead of the authenticated menu labeled with the user's name appearing in the upper-right corner of the screen, it will now be nested under a general “Menu” button which reveals the complete site navigation. 
 
-This new design coincides with continued expansion work our team is planning for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We want to explore if we can further increase engagement and improve Veteran’s access to two more important online tools: Claim status and View disability rating.
+This new design coincides with continued expansion work our team is planning for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We want to explore how we can further increase engagement and improve Veteran’s access their most important tasks.
 
 - [Standardized header/footer product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/README.md)
 - [Authenticated menu product brief](%5B%EF%BF%BC%5D%28https%3A//github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/README.md%29)
@@ -18,22 +18,26 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 Are there moments that matter? 
 
 ## Research Goals	
-1. We want to learn how the new design helps Veterans find their authenticated menu, especially on mobile
-2. We want to learn about Veteran expectations for links in their authenticated menu
+1. We want to learn how the new design helps Veterans find their authenticated menu options, especially on mobile.
+2. We want to learn about Veteran expectations for an authenticated menu.
 
 ### Outcome
 The research applies at any stage from Starting Up through Aging, since it investigates global parts of the VA.gov site that provide access to the whole spectrum of VA.gov benefits and tools.
 
 ### Research questions
 1. Does the new menu design introduce any usability hurdles, particularly on mobile?
-2. What do Veterans expect to see under their logged-in user menu?
-3. How we can differentiate our logged-in user as a personalized menu on mobile?
+2. What do Veterans expect to see under a logged-in user menu?
+3. Do the links we're proposing for the authenciated menu make sense to Veterans?
+4. How we can differentiate our logged-in user as a personalized menu on mobile?
 
 ### Hypothesis
-1. The authenticated menu will be easy for people to find when their name is in the header.
-2. People will initially struggle to find their authenticated menu when it’s collapsed under, but will easily understand what it is once they see their name.
-3. Veterans will understand what the links in their authenticated menu point to.
-4. Veterans will expect to see links to more specific tasks, like “refill a prescription” in their authenticated menu.
+1. When describing expectations for a user menu:
+   - Profile will be a consistent item listed. 
+   - The rest of the items will be varied and highly specific to the person’s experience with VA. 
+   - No one will specifically list “My VA” by name.
+2. The authenticated menu will be easy for people to find when their name is in the header.
+3. People will initially struggle to find their authenticated menu when it’s collapsed under, but will easily understand what it is once they see their name.
+4. In the prototype, people will understand what the links in their authenticated menu point to.
 
 ## Methodology	
 We’ll conduct a remote interview consisting of two parts:
