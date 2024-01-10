@@ -1,6 +1,6 @@
 # Sign in Service Postman Collection
 
-SiS features a [Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) that provides routes for both cookie-based & API-based authentication.
+The VA Identity team maintains a [Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) that provides routes for both cookie-based & API-based authentication.
 
 # Authenticating with SiS & Postman
 

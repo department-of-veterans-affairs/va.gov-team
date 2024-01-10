@@ -8,7 +8,7 @@ The Sign in Service was created to solve the shortcomings identified with the cu
 
 #### Postman Collection
 
-The VA.gov Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/sis_postman_v1.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](postman.md).
+The VA.gov Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](postman.md).
 
 #### SiS Quickstart
 
