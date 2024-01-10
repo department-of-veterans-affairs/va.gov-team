@@ -59,11 +59,11 @@ Our Design Researchers and PM with work with the Notify team to monitor analytic
 
 #### Planning
 
-- Desired date range or test duration: **2/2024**
-- Desired number of users: **25**
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: **1 week dates TBA**
+- Desired number of users: **30**
+- How you'll recruit the right production test users: **Send email to 30 Veterans in intended audience**
+- How you'll conduct the testing: **Review metrics in DOMO, GA, and Sentry, watch for unexpected behavior.**
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: **Send as email notification (not live on VA.gov**
 
 #### Results
 
@@ -89,11 +89,11 @@ Our rollout plan has 3 phases, each increasing the number of Veterans. This is a
   
 | KPI                       | Base Value                    | Target Value | Ending Value | Link to Dashboard| 
 |---------------------------|-------------------------------|--------------|--------------|------------------|
-| Bounce rate               |  Avg of Veteran Notify emails |        ≥ Avg |              |                  |
-| Open rate                 |  Avg of Veteran Notify emails |        ≥ Avg |              |                  |
-| Click-through rate        |  Avg of Veteran Notify emails |        ≥ Avg |              |                  |
-| Volume of 686 submissions |                               |              |              |                  |
-| Total Overpayment Amount  |                               |              |              |                  |
+| Bounce rate               |  Avg of Veteran Notify emails |         ±10% |              |                  |
+| Open rate                 |  Avg of Veteran Notify emails |         ±10% |              |                  |
+| Click-through rate        |  Avg of Veteran Notify emails |         ±10% |              |                  |
+| Volume of 686 submissions |                               |         +10% |              |                  |
+| Total Overpayment Amount  |  Total overpayments previous quarter |          -10% |              |                  |
 
 
 ### Objectives and Key results (OKRs)
