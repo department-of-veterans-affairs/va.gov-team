@@ -1,4 +1,4 @@
-# Notification settings: User has partial or missing contact information
+# Notification settings: User has partial contact information
 **Last updated:** Jan 9, 2024 `draft`
 
 LOA3 users who sign in, go to the profile, and click into the notification settings page will see links to add or update contact info in their profile.
