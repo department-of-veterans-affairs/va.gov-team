@@ -112,7 +112,7 @@ Veteran Behavior](https://docs.google.com/presentation/d/1Ivx3I6Ne6FJ1EBlrPdkcDg
 | -------- | -------- | -------- |-------- |-------- |
 | Veteran Opened App     | 40%     | 34%     |31%     |22%     |
 |Veteran Viewed Home Screen     |65%     |56%     |52%     |40%     |
-|Delta Veterans viewing the home screen vs. only opening the app     |+15%     |+22%     |+21%     |+18%     |
+|Delta between Veterans viewing the home screen vs. only opening the app     |+15%     |+22%     |+21%     |+18%     |
 
 
 
