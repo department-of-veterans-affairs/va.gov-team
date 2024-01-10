@@ -29,12 +29,9 @@
     - 3
     - 4
     - 5 Strongly Agree
-    -             
 
-5.	How can we make this experience better? In the box below, please tell us what you would like to change or add to make this experience more useful and enjoyable.
 
-  
-6.	Did you use any assistive technology when reviewing this after-visit summary? (Please select all that apply.)
+5.	Did you use any assistive technology when reviewing this after-visit summary? (Please select all that apply.)
     - Screen reader
     - Keyboard
     - Magnification
@@ -42,6 +39,11 @@
     - Voice recognition
     - Braille reader
     - Switch device
+
+
+6.	How can we make this experience better? In the box below, please tell us what you would like to change or add to make this experience more useful and enjoyable.
+
+  
 
 
 
