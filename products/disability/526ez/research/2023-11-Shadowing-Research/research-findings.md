@@ -11,7 +11,7 @@ Date: 01/11/2024
 - [Research Goals](#research-goals)
 - [Research Questions](#research-questions)
 - [Methodology](#methodology)
-- [Detail of Thematic Findings(#detail-of-thematic-findings)
+- [Detail of Thematic Findings](#detail-of-thematic-findings)
 - [Detail of Findings (organized by 526ez form flow](#detail-of-findings)
 - [Detail of Additional Findings](#detail-of-additonal-findings)
 - [Recommendations](#recommendations)
