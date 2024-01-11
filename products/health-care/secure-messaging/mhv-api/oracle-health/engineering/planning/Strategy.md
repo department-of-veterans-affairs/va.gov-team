@@ -50,7 +50,6 @@
 - Ship a very bare bones unified MVP to va.gov of sending and receiving messages
 - Nail down monitors and analytics 
 - Figure out Testing strategy
-- ???
 
 ## PI 16
 
@@ -63,7 +62,7 @@
 
 ### Outcomes
 
-???
+- Iterate on how the pilot is going
 
 ## PI 17
 
@@ -71,12 +70,11 @@
 
 ### Resources
 
-- 2 engineers mostly full time (75%)
-- 1 engineers supporting (10%)
+???
 
 ### Outcomes
 
-???
+- Continue to be be awesome
 
 ## PI 18
 
@@ -84,8 +82,7 @@
 
 ### Resources
 
-- 2 engineers mostly full time (75%)
-- 1 engineers supporting (10%)
+???
 
 ### Outcomes
 
