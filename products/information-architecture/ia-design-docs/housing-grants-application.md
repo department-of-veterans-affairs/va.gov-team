@@ -93,7 +93,13 @@ Current URL | Redirect to | Notes
 <hr>
 
 ## <a name="notes"></a>Meetings notes and background info
-### November 20, 2023
+
+#### January 11, 2023 - Updates
+PW team has completed the temporary redirect request for this form so folks are sent to the How to apply page until the form is republished. As per Jill, we can create a new ticket once the team is ready to remove this temporary redirect.
+
+Tricia shared an update on API during content office hours. Engineering team is still actively working on this and will keep us posted on when the form will be live again on the site.
+
+#### November 20, 2023
 Connected with PM Tricia Baker to check on rollout timeline as we weren't seeing the above entry points implemented on the site. Tricia's update on this:
 
 `It was rolled out in Production in April, but we have since turned it off because the business line wrote an API to connect the data to it and they didn't want it to go to Central Mail anymore so it will probably stay off for awhile`
