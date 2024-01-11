@@ -1,5 +1,13 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Jan 11' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submission Migration
+   - Share work in progress for discussion with Lighthouse next week
+     - Diagram
+     - Usecases
+- Prioritization of what's next  
 
 ### Date: Jan 4' 2024       
 ### Participants: Rakshinda, Austin, Emily, Shannon, Steve 
