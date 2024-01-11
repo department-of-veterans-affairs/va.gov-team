@@ -3,5 +3,5 @@
 This is the OCTO engineering approach for the SM product on va.gov
 
 - [Strategy](./Strategy.md)
-- [Desired End State](./Architecture.md#current-approach)
-- [Current Architecture Risks](./Architecture.md#CurrentState)
+- [Current Approach](./Architecture.md#current-approach)
+- [The Next Big Idea](./Architecture.md#the-big-idea)
