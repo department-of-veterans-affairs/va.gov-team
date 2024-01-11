@@ -600,7 +600,16 @@ Back button: Yes, `< Back to medical records`
 > **NOTE**  
 >  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
 
-#### Functionality
+* H1 for this page should be Download all medical records
+* Intro text at top of page that this is where a user can download all medical record information avialble on MHV on VA.gov in one place. It should also reference that the way this is done is by using VA Blue Button. 
+* Content should explain
+ * Exactly what you is part of the download
+ * What do know before downloading, including how to protect your PHI
+ * What to do if you can't find all of your record
+
+#### Functionality 
+* Ability to download all records available on MHV as a single PDF
+* Ability to download all records available on MHV as a single text file
 
 ---
 </details>
@@ -611,7 +620,8 @@ Back button: Yes, `< Back to medical records`
   
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------|
-|||
+|This section will be called Download all medical records, not Blue Button|Research showed that very few popeople recongize and understand exactly what Blue Button is. Therefore, we wanted to make it clear what this part of the application allows you to do. Instead of making Blue Button the H1, refer to Blue Button as the mechanism by which you can download all records. This allows us to clarify for Veterans while also connecting to MHV classic terminology. We also did research, and there are no requirements for using the Blue Button branding other than making sure it is labeled as registered, and it should be a way to download medical data. |
+|At first, only allow for full record downloads.|Classic MHV allows users to select categories and time frames as parameters for downloading your data. To download a specifc category of data, a user should navigate to that section of MHV on VA.gov. THerefore, category selection doesn't make much sense in this new app. However, time frame does, but to limit scope, and because downloading all is required in all versions of the tool, we decided to start there. Consider adding time frame selection in future versions of the app.|
 </details>
 
 * [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/a/mPKK7Q9)
