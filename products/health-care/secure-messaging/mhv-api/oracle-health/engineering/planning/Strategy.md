@@ -6,8 +6,8 @@
 
 ### Resources
 
-- 2 engineers mostly full time
-- 1 engineers supporting
+- 2 engineers mostly full time (75%)
+- 1 engineers supporting (10%)
 
 ### Outcomes
 
@@ -86,4 +86,4 @@
 
 ### Outcomes
 
-Ship some version of a unified SM on va.gov, will most likely be half 
+- Ship some version of a unified SM on va.gov for a `friends and family+` audience, will most likely not be 100% feature parity
