@@ -159,7 +159,7 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 - Date and time of pilot session: 12-1:30pm EST
 
 **Pilot 2**
-- Pilot participant email: Will York(Tyler will add to pilot sessions herself)
+- Pilot participant email: Will York (Tyler will add to pilot sessions herself)
 - Date and time of pilot session: 2-3:30pm EST
 
 ## Research sessions
