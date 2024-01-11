@@ -68,3 +68,5 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * While shadowing provides meaningful “real life” data, it took longer than anticipated to observe Veterans filing. If a participant struggled with authentication or hit an ITF error, we had no way to unblock them. We increased our number of participants mid-study to ensure the proper sample size was able to start the form. 
 * Many Veterans expected the researcher to help them file—not just observe the experience. For future work, we will make sure our recruitment language sets clear expectations. 
 
+## Thematic Findings
+Finding #1
