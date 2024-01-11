@@ -322,7 +322,7 @@ The check_in module in vets-api will provide an Appointments resource for a user
 
 - Sample Request
     
-    ```json
+    ```
     GET /check_in/v2/appointments/4dfae151-95f3-4b28-99e3-132caf033a44
     ```
         
