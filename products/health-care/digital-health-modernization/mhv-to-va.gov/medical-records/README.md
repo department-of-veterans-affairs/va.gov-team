@@ -37,9 +37,9 @@ The development and release of functionality will occur in five 'phases' to alig
     -  Cardiology images and reports,
     -  Radiology images & Reports
   - Care Summaries and Notes, consisting of:
-   - VA Notes,
-   - Admission & Discharge Summaries,
-   - After Visit Summaries
+    - VA Notes,
+    - Admission & Discharge Summaries,
+    - After Visit Summaries
   - Health Conditions, Vitals, and Allergies
   - Downloadable Reports (consolidation of all domains into a single report)
 
