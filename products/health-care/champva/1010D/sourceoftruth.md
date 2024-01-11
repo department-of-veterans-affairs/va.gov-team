@@ -379,11 +379,7 @@ Is the Veteran that you are connected to still living? (*Required)
 ## Step 2 of 3:  Veteran Information
 
 Status of the Veteran you’re connected to 
-
-- [  ] The Veteran that I’m connected to lives on a United States military base outside of the country.
-
-Date of Date (* Required)   
-
+ 
      
 Did the Veteran you’re connected to pass away on active military service? (* Required)   
 
@@ -393,13 +389,25 @@ Did the Veteran you’re connected to pass away on active military service? (* R
 
 { Buttons } Back / Continue
 
+## Step 2 of 3:  Veteran Information
+
+Mailing Address of the Veteran you’re connected to 
+
+Do you know the address of the Veteren you're connected to?
+
+( ) Yes, I do know the address of the Veteren I'm connected to
+( ) No, I don't know the address of the Veteren I'm connected to 
+( ) The Veteran I'm connected to is experiencing homelessness
+
+{ Buttons } Back / Continue
+
 
 ## Step 2 of 3:  Veteran Information
 
 Mailing Address of the Veteran you’re connected to 
 
 
-- [  ] Sponsor lives on a United States military base outside of the country.
+- [ ] Sponsor lives on a United States military base outside of the country.
 
 Country (* Required)   
 
@@ -416,3 +424,49 @@ State (* Required)
 Postal code (* Required)   
 
 { Buttons } Back / Continue
+
+
+## Step 2 of 3:  Veteran Information
+
+Contact info of the Veteran you’re connected to 
+
+Do you know the phone of the Veteren you're connected to?
+
+( ) Yes, I do know the phone number of the Veteren I'm connected to
+( ) No, I don't know the phone number of the Veteren I'm connected to 
+( ) The Veteran I'm connected to does not have a phone
+
+{ Buttons } Back / Continue
+
+## Step 2 of 3:  Veteran Information
+
+Phone number of the Veteran you’re connected to 
+
+Home phone number (*Required)
+
+Mobile phone number
+
+{ Buttons } Back / Continue
+
+ ---
+
+{Alert Box]
+#### [H3] Section complete
+
+The sponsor information has been completed. You could sign in to save your progress
+
+{End Alert Box]
+
+{Information Box]
+#### [H3] Sign in now to save your work in progress
+
+Here’s how signing in now helps you:
+
+- We can fill in some of your information for you to save you time.
+- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
+  
+{End Information Box]
+
+{Button} Sign in to save  your application
+
+{Link} Continue without signing in
