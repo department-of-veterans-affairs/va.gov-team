@@ -48,3 +48,18 @@ The most relevant touchpoints in the Veteran’s journey are Taking care of myse
         * Do they time-box work on an application, or do they have other milestones such as finishing a specific section?
     * What do Veterans do when they have a question or need assistance? 
     * (After completing the form) How well does their plan hold up? Did their approach or mindset change throughout the experience? Does anything surprise them?
+
+## Methodology
+We facilitated 11 semi-structured interviews via Zoom and observed Veterans filling out the 526ez form. During the sessions, Veterans shared their screens and thought aloud as they filled out the form using their personal information with the intention of filing. 
+Structure of the sessions (capped at 2 hours):
+    * 10 minutes for introduction and questions about preparation/expectations for the 526
+    * 90 minutes for shadowing Veterans during form completion with the moderator asking occasional questions (with a 5-minute break at the hour mark)
+    * 10 minutes for reflection questions and wrap-up.
+**Limitations**
+Although we met with 11 Veterans, the findings in this report are based on the 5 participants who started the 526. The other participants were not ready to file or were looking to file a different type of claim such as an appeal or supplemental claim. 
+    * Of the 5 who started, 3 successfully submitted a claim while 2 stopped at Step 3 Evidence. 
+    * Three were first-time filers who had never submitted a claim before, while 2 had submitted previously (in paper and online).
+    * Due to the small sample size, we cannot conclude this is representative of all Veterans.
+**Learnings**
+    * While shadowing provides meaningful “real life” data, it took longer than anticipated to observe Veterans filing. If a participant struggled with authentication or hit an ITF error, we had no way to unblock them. We increased our number of participants mid-study to ensure the proper sample size was able to start the form. 
+    * Many Veterans expected the researcher to help them file—not just observe the experience. For future work, we will make sure our recruitment language sets clear expectations. 
