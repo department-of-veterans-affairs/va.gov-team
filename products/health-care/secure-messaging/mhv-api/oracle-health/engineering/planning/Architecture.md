@@ -45,32 +45,47 @@ Check out [the README](../README.md)
 - Create a VA SM Messaging Service that acts as the source of truth for all things Message Data 
 - The VAMS becomes the SoT for all things. Messages meta-data (such as status, folders, tags, threading) are stored here, and we provide interfaces that client systems (such as OH and MHV) can send messages
 
----
-title: Animal example
----
-classDiagram
-    note "From Duck till Zebra"
-    Animal <|-- Duck
-    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-        +String beakColor
-        +swim()
-        +quack()
-    }
-    class Fish{
-        -int sizeInFeet
-        -canEat()
-    }
-    class Zebra{
-        +bool is_wild
-        +run()
-    }
+
+```mermaid
+sequenceDiagram
+
+    box LightCyan MHV
+    participant MHVES as Event Source
+    participant MHVMH as SM Message History API
+    participant MHVAH as SM Message Attachment API
+    end
+
+    box MintCream SM Exchange
+    participant MEL as RESTful Event Listener
+    participant MEIQ as Incoming Message Queue
+    participant MEP as Message Processor
+    participant MES3 as Attachment Storage
+    participant MEOQ as Outgoing Message Queue
+    participant MES as Message Sender
+    end
+
+    box Orange Oracle Health (via DAS SPOE)
+    participant OHF as r4 FHIR Patient API
+    participant OHM as Messaging 2.0 API
+    participant OHCAMM as Cerner CareAware MultiMedia
+    end
+
+    MHVES->>MEL: POST { icn, message, receivingPoolId, inReplyToOhMessageId }
+    MEL->>MEIQ: Parse and store message
+
+    MEIQ->>MEP: Receive incoming message
+    MEP-->MHVMH: Retrieve previous messages in thread
+    MEP-->OHF: Retrieve OH Patient ID for ICN
+    MEP-->MHVAH: Retrieve message attachments
+    MEP->>MES3: Store message attachments
+    Note over MEP: Unifies retrieved data and translates message format
+    MEP->>MEOQ: Store message
+
+    MEOQ->>MES: Receive translated message
+    MES-->MES3: Retrieve message attachments
+    MES->>OHCAMM: POST message attachments
+    MES->>OHM: POST message to Outbox
+```
 
 
 ### TL;DR; Summary of Design
