@@ -45,9 +45,22 @@ Check out [the README](../README.md)
 - Create a VA SM Messaging Service that acts as the source of truth for all things Message Data 
 - The VAMS becomes the SoT for all things. Messages meta-data (such as status, folders, tags, threading) are stored here, and we provide interfaces that client systems (such as OH and MHV) can send messages
 
--> Insert new diagram
+
+```mermaid
+flowchart LR
+    vaSmService["VA SM Service"]
+    client1["A Message Client (such as MHV or OH)"]
+    adminUI["Clinician View"]
+    messageSourceOfTruth[("Source Of Truth for messaging data")]
+    vets-website <-->  vets-api
+    vets-api <--> vaSmService
+    client1 -->|pushes notifications of new events| vaSmService
+    vaSmService -->|pushes notifications of new events| client1
+    vaSmService <--> messageSourceOfTruth
+    client1 <-->|displays| adminUI
 
 
+```
 ### TL;DR; Summary of Design
 
 ### Why
