@@ -50,7 +50,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
 ### Objectives and Key results (OKRs)
 
-- Objective: Veterans and their families can easily and quickly apply for health care benefits 
+- Objective: Veterans and their families can easily apply online for health care benefits 
   - Key result: Increase % of Veterans and families who update their health care benefits online
   - Key result: Veterans and families are able to find and access information on how to apply online
   - Key result: Increase number of form submissions 
