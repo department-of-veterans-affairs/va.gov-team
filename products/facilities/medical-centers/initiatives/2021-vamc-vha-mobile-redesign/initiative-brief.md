@@ -7,7 +7,7 @@ Although mobile clinics are very different than physical clinics in service offe
 
 **Related product(s)**
 
-- VAMC | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
+- VAMC | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-vamc-upgrade/front-end-product-brief.md)
 - Facility Locator 
 
 ## Problem Statement

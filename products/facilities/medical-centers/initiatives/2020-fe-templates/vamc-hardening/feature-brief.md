@@ -6,25 +6,25 @@ These pages are part of the redesign of VAMC websites which began with the soft 
 
 ## Table of Contents
 
-[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#user-journey)
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#user-journey)
 
-[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#user-stories)
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#user-stories)
 
-[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#project-rationale)
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#project-rationale)
 
-[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#project-scope-and-scale)
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#project-scope-and-scale)
 
-[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#measuring-success)
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#measuring-success)
 
-[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#dependencies)
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#dependencies)
 
-[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#risk-factors)
+[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#risk-factors)
 
-[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#rejected-solution)
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#rejected-solution)
 
-[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#definition-of-done)
+[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#definition-of-done)
 
-[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#key-links)
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-fe-templates/vamc-hardening/top-task-feature-brief.md#key-links)
 
 
 ## User Journey

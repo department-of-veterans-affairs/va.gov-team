@@ -6,14 +6,14 @@
 
 Date: 07/11/2022
 
-[Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
+[Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/Lovell%20Research%20Findings.pdf)
 
 **Jump to:** 
 
-- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#hypotheses-and-conclusions)
-- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#key-findings)
-- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#recommendations)
-- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-finding.md#who-we-talked-to)
+- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-research-finding.md#hypotheses-and-conclusions)
+- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-research-finding.md#key-findings)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-research-finding.md#recommendations)
+- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-research-finding.md#who-we-talked-to)
 
 # Research Goals 
 
@@ -106,9 +106,9 @@ Additional discovery and research is recommended on the following gaps before a 
 
 # Appendix 
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-conversation-guide.md)
-- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/interview_transcripts)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-conversation-guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/interview_transcripts)
 
 ## Tools used for Synthesis 
 
@@ -117,13 +117,13 @@ Additional discovery and research is recommended on the following gaps before a 
 ## Pages and applications used 
 
 - [UXPin prototype](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i)
-- [UXPin prototype images](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/lovell/uxpin_images)
+- [UXPin prototype images](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/uxpin_images)
 
 ## Other supporting documents created 
 
 - [Participant Tracker](https://docs.google.com/spreadsheets/d/1fnmXkgXiFNw3emCSuTFzCKrg26YIKQ_pZKmYOCMCcC8/edit?usp=sharing)
 - [Research readout recording](https://civicactions.zoom.us/rec/share/Af43s0k6Ll8WaGc6gdZ9k9svurTfuVW7HIoRnQXsQ6vN2PqEhz2pnRtQGVFww2Ud.v050hT_ygL4riJ67) - password = *dGV.1I6
-- [Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/Lovell%20Research%20Findings.pdf)
+- [Research report slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/Lovell%20Research%20Findings.pdf)
 
 ## Who we talked to 
 
@@ -168,4 +168,4 @@ Race:
 
 One area we were unsuccessful in our recruiting efforts was veterans without a college degree.
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell_partricipants.png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell_partricipants.png)

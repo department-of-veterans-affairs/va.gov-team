@@ -168,7 +168,7 @@ As well as those who publicize MMU events and information to Veterans:
 
 ## Appendix
 
-[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery)
+[Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/discovery)
 
 [Session notes](https://docs.google.com/document/d/1HmL0sVDIzFQ2pLO7yochHyLy2p1GKyS0nWGeJw0UlqY/edit?usp=sharing)
 

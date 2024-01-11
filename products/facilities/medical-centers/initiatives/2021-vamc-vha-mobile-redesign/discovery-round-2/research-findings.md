@@ -100,7 +100,7 @@ Long Term:
   - How could we surface events into Facility Locator?
 
 - Begin work to address how an MMU communicates its services and availability during emergency response. 
-   - See additional [emergency response use cases](https://app.mural.co/t/vsa8243/m/vsa8243/1627038564401/bdd84c5da65e1000f7d3d2f2d365d03839a1466e?wid=0-1634040246979&outline=open) detailed in the [discovery phase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/research-findings.md) of this research.
+   - See additional [emergency response use cases](https://app.mural.co/t/vsa8243/m/vsa8243/1627038564401/bdd84c5da65e1000f7d3d2f2d365d03839a1466e?wid=0-1634040246979&outline=open) detailed in the [discovery phase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/discovery/research-findings.md) of this research.
 
 
 ## Next steps
@@ -116,4 +116,4 @@ Long Term:
 
 - [Design prototype used in this study](https://preview.uxpin.com/20fd05cf8e86ce628f0c813166424d0a6ca38bfd#/pages/142038860/simulate/sitemap)
 
-- [Research Findings - VAMC VHA Mobile Redesign - Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/research-findings.md)
+- [Research Findings - VAMC VHA Mobile Redesign - Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/discovery/research-findings.md)

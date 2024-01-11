@@ -45,7 +45,7 @@ Clarence Maeng | Slack @Clarence Maeng | CMS Delivery Manager
 
 ## Documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
-- [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
+- [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-vamc-upgrade/front-end-product-brief.md)
 - [VAMC Transition documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/VAMC_transition_final.md) | VAMC upgrade team | March 2022
 - [Web Modernization Run Book](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc_transition_documents/Web_Modernization_Run_Book.md)
 - [DOMO Content dashboard](https://va-gov.domo.com/page/426422632)
@@ -71,7 +71,7 @@ The most critical path items are listed below but do not represent the total of 
   - **Medical records** - Epic [#37365](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37365)
     - Includes **Cerner link** [#35947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35947)
   - **Billing and insurance** - Epic [#37366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37366)
-- **Lovell federal health care** - Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [**Initiative brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+- **Lovell federal health care** - Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [**Initiative brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-initiative-brief.md)
     - _next up: research on dual eligibles to validate design for switching between DoD and VA experiences_
 - **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770)
     - _next up: Veteran research_
@@ -82,7 +82,7 @@ The most critical path items are listed below but do not represent the total of 
     - Columbus roll-out (TBD)
 
 ### Next 
-- **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/initiative-brief.md)
+- **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/initiative-brief.md)
 - **Re-evaluate left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9946) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30770)
 - **Health service modalities (telehealth, virtual, mobile, etc)**
 

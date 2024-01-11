@@ -26,7 +26,7 @@ These changes will be available to 100% of the Veterans and Veteran Caregivers a
 - Post-launch KPI 1: By April 30, Veterans can access Pittsburgh VAMC top task content from Left Navigation menu within 4 clicks or less. 
 - Post-launch KPI 2: By June 30, Veterans can access Pittsburgh VAMC’s most frequently viewed content using the Left Nav menu. 
   - This to ensure that the Pittsburgh VAMC Left Navigation menu supports efficient navigation to the pages Veterans view as most meaningful/relevant. 
-- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/fe-templates/left-nav)
+- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2020-fe-templates/left-nav)
 
 ### 1-week results: 6/8 -> 6/15/2020
 **- Number of unique users** 
