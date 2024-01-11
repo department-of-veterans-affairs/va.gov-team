@@ -29,10 +29,10 @@ The most relevant touchpoints in the Veteran’s journey are Taking care of myse
 ## Research Questions
 *Goal 1: Assess the current user experience of applying for disability benefits. 
    * How easy is it to use the design the first time? Can Veterans understand what they need to do?
-How does the Veteran’s experience change from the beginning of the form to later sections? 
-How quickly can Veterans perform tasks?
-Are there many user errors that are easy to make, and can they easily recover? (Efficiency)
-How do Veterans feel about their experience?
+       * How does the Veteran’s experience change from the beginning of the form to later sections? 
+   * How quickly can Veterans perform tasks?
+   * Are there many user errors that are easy to make, and can they easily recover? (Efficiency)
+   * How do Veterans feel about their experience?
 
 
 Goal 2: Identify the pain points that lead to form exits, multiple sessions, and abandonment.
