@@ -48,9 +48,11 @@ sequenceDiagram
     participant web as vets-website
     participant api as vets-api
     participant l as LoROTA
+    participant sts as Token Svc
     participant vaos as VAOS
-    participant fa as facilities API
-    participant cl as clinics API
+    participant ps as Provider Svc
+    participant fa as Facilities API
+    participant cl as Clinics API
 
         activate vet
         vet->>+web: Enter dob/last name
@@ -59,21 +61,31 @@ sequenceDiagram
         l--)-api: valid session
         api--)web: return 'read.full'
         deactivate api
-        web->>+api: GET check-in appointments
+        web->>+api: GET /patient_check_ins
         api->>+l: GET data
         l--)-api: data
         api--)-web: serialized data (appointments + demographics)
 
         web->>+api: GET /appointments
+        api->>+sts: POST /token
+        sts--)-api: token
         api->>+vaos: GET /appointments
         vaos--)-api: appointments
-				
-				loop for each appointment
-	        api->>+fa: GET /facilities
-	        fa--)-api: facilities
-	        api->>+cl: GET /clinics
-	        cl--)-api: clinics
-				end
+
+        loop for each appointment
+          alt facility data in cache
+            api->>api: get facility from cache
+          else facility data not in cache
+            api->>+fa: GET /facilities
+	    fa--)-api: facilities
+          end
+          alt clinic data in cache
+            api->>api: get clinic from cache
+          else clinic data not in cache
+            api->>+cl: GET /clinics
+            cl--)-api: clinics
+          end
+        end
         api--)-web: appointments (incl. facilities, clinics)
 
         opt demographics confirmations needed
