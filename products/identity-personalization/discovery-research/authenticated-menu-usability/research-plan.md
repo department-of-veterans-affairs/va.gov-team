@@ -83,7 +83,6 @@ Recruit 12 Veterans for a total of 8 completed sessions.
 * 4 participants should be able to join the session from a desktop device
 * 3 participants should require a screenreader to use their device: 
   * At least 2 need to be on a mobile device (e.g. VoiceOver on iPhone or TalkBack on Android)
-* 2 participants should require zoom magnification to use their device
 
 #### Screener questions
 1. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 8 mobile users)
@@ -120,16 +119,6 @@ Recruit 12 Veterans for a total of 8 completed sessions.
 > Response options: yes or no
 	
 4c. Please tell us what kind of screen reader you use, and if you’ll join the session from a mobile device or computer:
-
-> Response option: text box
-
-5. Do you normally need to resize font or use magnification software to see your screen when you are using your computer or mobile device?  If you use a physical magnifying tool like a magnifying glass, answer no. **Note:** We ask this question because we want to make sure that our website works for people who rely on digital magnification technologies.
-
-> Response options: yes or no
-
-(Proceed to question 5a if yes)
-
-5a.  Please tell us what kind of magnification tool you use, and if you’ll join the session from a mobile device or computer:
 
 > Response option: text box
 
