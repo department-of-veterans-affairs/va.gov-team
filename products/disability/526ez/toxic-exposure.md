@@ -69,4 +69,44 @@ Keeping these two questions ("How is your condition related to your service?" an
 If we used the "other approach considered", we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
 
 ### Indicating dates for locations
+
+
+
+## Background on decisions
+
+### None of these locations and I'm not sure checkboxes
+
+#### Current approach 
+
+The current approach is to keep I’m not sure mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
+They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or None of these locations in order to move forward.
+
+<img width="317" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b3b89894-390a-4261-ac81-3f3ceb817960">
+
+
+<img width="319" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/3fd18b1f-726b-4136-a32c-e86166c01cad">
+
+
+#### Other approaches considered
+ 
+<ul>
+  <li>Having I’m not sure trigger the validation error that unchecks previously checked locations</li>
+  <li>Replacing the I’m not sure checkbox with copy that instead communicates if they’re not sure, that’s okay. 
+</li>
+</ul>
+
+#### Rationale
+<ul> 
+   <li>We have a precedent for showing validation errors on screen click vs on clicking continue.</li>
+   <li>Concerns around people reading the entirety vs calling it out as optional</li>
+<li>If they said not sure plus a location, no real consequence for backend downstream impact
+</li>
+<li>   CAIA rec: We suggest leaving the "Not sure" option in the list, but recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
+</li>
+   <li> Larger scope: Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
+<li> Larger scope: Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
+<li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
+The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. </li>
+</ul>
+
 …
