@@ -9,6 +9,7 @@
 |1/3/24        | Coulton Bunney   | Updated allergies and vaccines information |
 |1/4/24 | Coulton Bunney | Added key research and data documents|
 |1/9/24 | Coulton Bunney | Added conditions information, Added lab results information|
+|1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
 
 
 
@@ -21,7 +22,7 @@
 
 This document lays out the requirements for medical records on VA.gov. It is broken out by data domains and phases. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
 
-Medical records v1.0 consists of 6 data domains. 
+Medical records v1.0 consists of 6 data domains, as well as a way to download all records and opt into or out of sharing your health data to the Veterans Health Information Exchange. 
 * Allergies and reactions
 * Vaccines
 * Health conditions
@@ -34,6 +35,8 @@ Medical records v1.0 consists of 6 data domains.
   * Pathology reports
   * Microbiology reports
   * Radiology reports
+* Download all records (fka Blue Button)
+* Medical records settings
  
 **Key documents**
 * [VistA -> PHR/MHV mapping document](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/data%20mapping/MHV%20Documentation/MHV_PHR_API_to_FHIR_mapping.xlsx?d=w076667839ced465ca2506582e76618fb&csf=1&web=1&e=DFvMpe)
@@ -56,6 +59,7 @@ Medical records v1.0 consists of 6 data domains.
 | Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
 | For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |\
 | A user will be presented information on the consequences of downloading on a public computer |Many users may download their information on a public computer, and therefore, they should understand the PHI implications of this action.|
+| Health summary, aka CCD, will not be included in the first version of medical records on VA.gov | Research showed that there was a lot of confusion between Blue Button and the Health Summary. There is also signficant overlap between the two documetnation outputs - essentially, Health summary is just a Blue Button report limited to the past 180 days (this needs fact checked) put into the CCD format. To simplify, we received approval from Bresha Lipscomb on March 28, 2023 to not include the ability to download the CCD health summary on the first version of MR on VA.gov. Before health summary is incorporated into MHV, it should be clearly called a continuity of care document, and it should be clearly outlined how and when to use this document compared to downloading all records. This should be considered before moving to Phase 4.| 
 
 </details>
 
@@ -581,6 +585,36 @@ Back button: Yes, `< Back to lab and test results`
 
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
 * [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
+
+### Download all medical records
+<details>
+<summary>Requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records/download-all`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+
+
+#### Functionality
+
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|||
+</details>
 
 ## Phase 1
 
