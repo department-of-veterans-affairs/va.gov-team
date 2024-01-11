@@ -47,6 +47,25 @@ Medical records v1.0 consists of 6 data domains, as well as a way to download al
 ### Medical records general
 
 <details>
+<summary>Landing page requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records`  
+Breadcrumb: No  
+Back button: No
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=6Iwfdn&nav=eyJoIjoiMTc4NzA2MTAwOSJ9).
+
+#### Functionality
+* Provide a link to each of the subsections of medical records
+
+---
+
+</details>
+
+<details>
 <summary>Design decisions</summary>
 
 | Decision | Reasoning |
@@ -55,7 +74,7 @@ Medical records v1.0 consists of 6 data domains, as well as a way to download al
 | There will be three primary pages: A landing page, a list of entries, details about each entry |       |
 | We will initially launch the product with only one domain, allergies. |     |
 | The landing page will be at the URL …/my-health/medical-records/ | | 
-| The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each |   |
+| The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each | We had considered retiring this page post phase 0, but research showed that is is quite useful to help Veterans understand where to find their informaiton. It should not be removed.  |
 | Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
 | For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |\
 | A user will be presented information on the consequences of downloading on a public computer |Many users may download their information on a public computer, and therefore, they should understand the PHI implications of this action.|
@@ -625,6 +644,54 @@ Back button: Yes, `< Back to medical records`
 </details>
 
 * [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/a/mPKK7Q9)
+
+### Medical record settings
+> [!NOTE]
+> The content for opting into and out of VHIE is still undergoing review by the VHIE office as of Jan 11, 2024. Laura Willwerth is leading this effort. 
+
+<details>
+<summary>Requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records/settings`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/MR%20sharing%20settings%20content%20(VHIE).docx?d=wac25c016d3b24e649e0c607ff8cc33f9&csf=1&web=1&e=nfXSFv).
+
+* H1 for this page should be Medical record settings
+* Intro text at top of page that explains what a user can do on this page - opt into and out of medical record sharing, and also link to notification settings
+* There should be two sections
+ * Manage your electronic sharing settings
+  * Content that explains what it means to share your electronic medical record
+  * Content that explains what you will be opting into sharing
+  * Your current setting
+ * Manage your notification settings
+   * Content that explains what settings are
+   * Content that directs you to the VA Profile to update settings
+
+#### Functionality 
+* Ability to opt into or out of sharing with VHIE
+* Link to VA profile to update notification settings
+
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|Medical records settings will be its own page and will primarily be about opting into and out of VHIE|There was a lot of struggle for where to locate this VHIE functionality. There was an attempt to pair it with downloading medical records, but that proved confusing for both IA reasons (what do you call the combined things in a nav option) and even once navigated to, it was unclear why these two things were bundled. Additonally, research showed that callign this page something like "Share your medical records" did not afford nor align with the actual actions taken. Therefore, we landed on settings as the best option.|
+
+</details>
+
+* [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design)
+* [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/MR%20sharing%20settings%20content%20(VHIE).docx?d=wac25c016d3b24e649e0c607ff8cc33f9&csf=1&web=1&e=nfXSFv)
+
 
 ## Phase 1
 
