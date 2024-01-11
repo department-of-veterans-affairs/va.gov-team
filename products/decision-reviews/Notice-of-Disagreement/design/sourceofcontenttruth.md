@@ -814,7 +814,7 @@ When we’ve completed your review, we will physically mail you a decision packe
 
 You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
 
-If you requested an appeal and haven’t heard back from us yet, please don’t request another appeal. Call us at 800-827-1000.
+If you requested an appeal and haven’t heard back from us yet, please don’t request another appeal. Call us at 800-827-1000 (TTY: 711).
 
 Button: [Check the status of your appeal](#)
 
