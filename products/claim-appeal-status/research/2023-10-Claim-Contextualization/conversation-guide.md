@@ -124,7 +124,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 - Do Veterans understand that claims may go back and forth between steps? How do they feel about that?
 - How does the the new design to the control for Veterans?
 
-## Fourth Task: Checking Back on the Claim at Step 4 - 10 minutes
+## Fourth Task: Checking Back on the Claim at Step 6 - 10 minutes
 
 Now let's imagine you log out, a couple of weeks go by, and you log back in. You want to check to see if there are any updates to the claim.
 
@@ -154,16 +154,13 @@ Now let's imagine you log out, a couple of days go by, and you log back in. You 
 
 [Tap VA.gov header to jump to next scenario]
 
-- Where would you go to check for updates to the claim?
+- Now you can see here the claim is in Step 3. What's your reaction to that?
   
 [Status tab]
-- Based on what you see here, how would you describe the state of this claim? [Claim will be back in Step 3: Evidence Gathering]
-- What's your initial reaction to that?
 - If you wanted to find out more about why your claim is in this step, where would you go?
 
 [Overview Tab]
-- Based on what you see here, how would you describe the state of this claim?
-- Why do you think the claim is on the step it's currently on?
+- Based on what you see here, why do you think the claim is in Step 3?
 - Is there any information you're not seeing here that you'd like to see?
 - What would you expect to happen next with the claim?
 
