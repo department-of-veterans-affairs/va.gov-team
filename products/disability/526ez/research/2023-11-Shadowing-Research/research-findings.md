@@ -50,9 +50,10 @@ The most relevant touchpoints in the Veteran’s journey are Taking care of myse
     * (After completing the form) How well does their plan hold up? Did their approach or mindset change throughout the experience? Does anything surprise them?
 
 ## Methodology
-We facilitated 11 semi-structured interviews via Zoom and observed Veterans filling out the 526ez form. During the sessions, Veterans shared their screens and thought aloud as they filled out the form using their personal information with the intention of filing. 
+We facilitated 11 semi-structured interviews via Zoom and observed Veterans filling out the 526ez form. During the sessions, Veterans shared their screens and thought aloud as they filled out the form using their personal information with the intention of filing.
+
 Structure of the sessions (capped at 2 hours):
-    * 10 minutes for introduction and questions about preparation/expectations for the 526
+     * 10 minutes for introduction and questions about preparation/expectations for the 526
     * 90 minutes for shadowing Veterans during form completion with the moderator asking occasional questions (with a 5-minute break at the hour mark)
     * 10 minutes for reflection questions and wrap-up.
 **Limitations**
