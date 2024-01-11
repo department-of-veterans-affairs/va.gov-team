@@ -2,7 +2,7 @@
 
 #### Legend
 - :white_check_mark: = Required fields
-- :yellow_circle: = Not required, but the request for appointment is at risk to get declined if this is not provided.  Do we want to flag this somehow for the receiving representative?
+- ⚠️ = Not required, but the request for appointment is at risk to get declined if this is not provided.  Do we want to flag this somehow for the receiving representative?
 - :question: = Unsure, leaning towards not required but want to follow up with Compensation Services advisors
 
 ## 21-22
@@ -41,7 +41,7 @@
     2. Job Title of Person Named in Item 16a
 17. Email Address of the Organization Named in Item 15 :white_check_mark: 
 18. Date of this Appointment :white_check_mark: 
-19. Authorization for Representative’s Access to Records Protected by Section 7332, Title 38, U.S.C :yellow_circle: 
+19. Authorization for Representative’s Access to Records Protected by Section 7332, Title 38, U.S.C ⚠️ 
 20. Limitation of Consent
 21. Authorization to Change Claimant’s Address
 22. 
@@ -99,7 +99,7 @@
     1. Signature of Representative Named in Item 16A  
     2. Date Signed  
 19. Authorization for discloser to Affiliated Personnel
-20. Authorization for Representative’s Access to Records Protected by Section 7332, Title 38, U.S.C :yellow_circle:
+20. Authorization for Representative’s Access to Records Protected by Section 7332, Title 38, U.S.C ⚠️
 21. Limitation of Consent
 22. Authorization for Representative to Act on Claimant’s Behalf to Change Claimant’s Address
 23. 
