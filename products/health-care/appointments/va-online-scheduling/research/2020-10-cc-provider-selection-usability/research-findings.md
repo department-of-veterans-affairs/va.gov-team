@@ -1,6 +1,6 @@
 # CC provider selection usability study
 
-See also the Facility team's [research with Community Care scheduling staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/community-care/CCM%20Research%20Findings.pdf).
+See also the Facility team's [research with Community Care scheduling staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-community-care/CCM%20Research%20Findings.pdf).
 
 ## Participants
 
