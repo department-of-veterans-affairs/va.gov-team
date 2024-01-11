@@ -6,7 +6,7 @@
 
 ### Resources
 
-- 2 engineers mostly full time (75%)
+- 2 engineers embedded mostly full time (75%)
 - 1 engineers supporting (10%)
 
 ### Outcomes
@@ -24,7 +24,7 @@
 
 ### Resources
 
-- 2 engineers mostly full time (75%)
+- 2 engineers embedded mostly full time (75%)
 - 1 engineers supporting (10%)
 
 ### Outcomes
