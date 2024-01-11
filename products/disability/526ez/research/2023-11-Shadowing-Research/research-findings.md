@@ -53,6 +53,7 @@ The most relevant touchpoints in the Veteran’s journey are Taking care of myse
 We facilitated 11 semi-structured interviews via Zoom and observed Veterans filling out the 526ez form. During the sessions, Veterans shared their screens and thought aloud as they filled out the form using their personal information with the intention of filing.
 
 Structure of the sessions (capped at 2 hours):
-    * 10 minutes for introduction and questions about preparation/expectations for the 526
-    * 90 minutes for shadowing Veterans during form completion with the moderator asking occasional questions (with a 5-minute break at the hour mark)
-    * 10 minutes for reflection questions and wrap-up.
+* 10 minutes for introduction and questions about preparation/expectations for the 526
+* 90 minutes for shadowing Veterans during form completion with the moderator asking occasional questions (with a 5-minute break at the hour mark)
+* 10 minutes for reflection questions and wrap-up.
+
