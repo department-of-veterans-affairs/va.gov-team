@@ -5,6 +5,7 @@
 
 </aside>
 
+
 ## Goals
 
 This is a technical design document for implementing upcoming appointments in Patient Check-in project as a part of [Unified Check-in project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/unified-check-in-experience.md). The goal of the project is to provide a unified view of check-in and pre check-in workflows to reduce confusion among veterans. As part of the [Priority 1 initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/unified-check-in-experience.md#priority-1-new-landing-page--accompanying-content-changes-in-progress), the upcoming appointments view displays the appointments that are scheduled for the veteran for future. This view is shown during both the check-in and pre check-in workflows.
@@ -315,9 +316,68 @@ To show the upcoming appointments in check-in experience pages, we have to call 
 
 ### Resources
 
+The check_in module in vets-api will provide an Appointments resource for a user with a low-auth session to retrieve the upcoming appointments. We currently don't plan to implement any filters for appointment statuses or date range. By default, the endpoint will return all appointments in upcoming 13 months.
+
 `GET /appointments` - returns a list of upcoming appointments for the patient
 
-`GET /appointments/{appointment_id}` - returns the details of the specific appointment for the patient
+- Sample Request
+    
+    ```json
+    GET /check_in/v2/appointments/4dfae151-95f3-4b28-99e3-132caf033a44
+    ```
+        
+- Sample Response
+    
+    ```json
+    {
+      "data": [
+        {
+          "id": "180766",
+          "type": "appointments",
+          "attributes": {
+            "status": "",
+            "service_type": "",
+            "location_id": "",
+            "clinic": "",
+            "kind": "clinic",
+            "start": "",
+            "end": "",
+            "minutes_duration": "",
+            "locationId": "",
+            "service_name": "",
+            "physical_location": "",
+            "friendly_name": "",
+            "location": ""
+	  }
+        },
+        {
+          "id": "180767",
+          "type": "appointments",
+          "attributes": {
+            "status": "",
+            "service_type": "",
+            "location_id": "",
+            "clinic": "",
+            "kind": "clinic",
+            "start": "",
+            "end": "",
+            "minutes_duration": "",
+            "locationId": "",
+            "service_name": "",
+            "physical_location": "",
+            "friendly_name": "",
+            "location": ""
+          }
+        }
+      ]
+    }
+    ```
+    
+
+## Questions
+
+1. Does Facilities Service use the same STS token for access?
+2. Does Provider Service use the same STS token for access?
 
 ## References
 
