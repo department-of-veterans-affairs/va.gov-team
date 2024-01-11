@@ -22,3 +22,6 @@ Answers to the following questions:
 6. How important is the jId (job ID) that is returned in the initial submission process? Check the frontend polling mechanism.
    The `job_id` is very important for the frontend to receive from the vets-api `/submit_all_claims` endpoint. It is used for the frontend polling mechanism to receive the status of the Form526 submission job, and eventually displays the VBMS CLAIM ID to the user.
 8. Which one is VBMS ID? `submitted_claim_id`
+
+## Take aways
+1. **VBMS CLAIM ID** Synonymous declarations/names: `Form526Submission.submitted_claim_id` = `Form526JobStatus.submission.submitted_claim_id` = `Form526JobStatusSerializer.claim_id` = `EVSS::DisabilityCompensationForm::FormSubmitResponse.claim_id`
