@@ -1,5 +1,14 @@
 # The plan 
 
+> NOTE: Dates are estimated
+
+## North Stars
+
+- Create momentum by providing resources to help fill gaps and Get Things Done<sup>tm</sup> 
+- Be able to operate in a iterative/agile way against the overly strict development culture that is driving MHV.
+- Act as a engineering stakeholders to keep contractors aligned
+- Elevate the culture at MHV 
+
 ## PI 13 
 
 > Dec 23 -> Feb 24
