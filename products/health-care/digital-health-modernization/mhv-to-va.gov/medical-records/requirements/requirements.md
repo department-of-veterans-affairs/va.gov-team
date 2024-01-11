@@ -600,8 +600,6 @@ Back button: Yes, `< Back to medical records`
 > **NOTE**  
 >  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
 
-
-
 #### Functionality
 
 ---
@@ -615,6 +613,8 @@ Back button: Yes, `< Back to medical records`
 |-----------------------------------------------------------------------------------------------|-----------------|
 |||
 </details>
+
+* [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/a/mPKK7Q9)
 
 ## Phase 1
 
