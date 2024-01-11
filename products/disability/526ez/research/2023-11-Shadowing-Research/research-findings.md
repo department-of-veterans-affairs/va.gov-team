@@ -58,6 +58,7 @@ Structure of the sessions (capped at 2 hours):
 * 10 minutes for reflection questions and wrap-up.
 
 **Limitations**
+
 Although we met with 11 Veterans, the findings in this report are based on the 5 participants who started the 526. The other participants were not ready to file or were looking to file a different type of claim such as an appeal or supplemental claim. 
 * Of the 5 who started, 3 successfully submitted a claim while 2 stopped at Step 3 Evidence. 
 * Three were first-time filers who had never submitted a claim before, while 2 had submitted previously (in paper and online).
