@@ -2,6 +2,65 @@
 
 Target: Create a path forward to ship something this year and build out long term solution for VA SM 
 
+## Now, PI14 through Pilot Launch in Summer 2024
+
+### Goal 
+
+> Ship a unified SM message inbox
+
+### How we are getting there
+
+OCTO engineer will keep surging through PI14, focusing on 
+
+- Building Momentum
+- Creating prototypes for
+  - Threading
+  - Message Pools
+  - Sending/Receiving Messages
+- Helping define technical requirements
+- Expanding and iterating on current decisions and architectures
+- Aid in releasing of a Pilot and other tools on va.gov
+
+PI15 and beyond are going to be determined by PI14.
+
+### Momentum looking to build
+
+- Creating small lightweight prototypes to solve the integrations in order to drive discussions and either be iterated on or provide roadmaps for the MHV team 
+- Send a message end to end
+
+### What this gains us
+
+We can instill a iterative approach in the development of the OH integration. Though the path forward has very high risk for being a great solution, this approach will help answer the Big Questions around OH and allow the OCTO team to lay the foundation of the integration
+
+### What is the risk
+
+- Not being able to complete the MVP due to architecture limitations
+- The first pass is a MHV-first approach
+
+## Next, Post Oct 2024
+
+### Goal
+
+> Ship a full feature parity unified SM message inbox 
+
+### How
+
+- Pivoting the architecture to a VA SM as a Service Solution that MHV and OH register as clients
+-  
+
+## Future
+
+### Goal: VA SM Service that clients can plug into 
+
+Ideally, we want to get to a VA SM messaging service in which 
+
+
+
+
+======
+
+
+
 ## Situation
 
 We are using a MHV first solution to trying to solve integration with OH
