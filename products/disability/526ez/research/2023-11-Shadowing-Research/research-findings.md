@@ -69,4 +69,4 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Many Veterans expected the researcher to help them file—not just observe the experience. For future work, we will make sure our recruitment language sets clear expectations. 
 
 ## Thematic Findings
-Finding #1
+**Finding #1**
