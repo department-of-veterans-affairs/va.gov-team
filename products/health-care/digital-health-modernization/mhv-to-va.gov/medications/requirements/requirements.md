@@ -11,6 +11,7 @@
 | 11/28/23        | Coulton Bunney     |Added NDC |
 | 12/29/23        | Coulton Bunney     |Updated to reflect actual Phase 0 requirements and added post-phase 0 improvements previously discussed|
 | 1/8/24        | Coulton Bunney     |Updated with more information about list view sort options|
+|1/11/24|Coutlon Bunney|Updated content document link|
 
 ## Table of Contents  
 
@@ -62,7 +63,7 @@ Breadcrumbs: No
 > [!WARNING]  
 > Update content document link once moved to central folder
 
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=PZ0qKy&nav=eyJoIjoiODg5ODk3MDI4In0).
 
 * H1 for this page should be Medications
 * For each medication in list, include the following information
@@ -118,7 +119,7 @@ URL: `.../my-health/medications\prescription_id`
 Breadcrumbs: Yes, `Medications > <Med name, strength, form>`
 
 #### Content 
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=yzjKrV&nav=eyJoIjoiMjEzMDc5OTAwNiJ9).
 
 * H1 for this page should be the name, strength, and form of the medication
 * VA prescriptions should include the following details
@@ -186,7 +187,7 @@ URL: `.../my-health/medications/about-medications`
 Breadcrumbs: Yes, `Medications > About medications`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=iycmaX&nav=eyJoIjoiMTkwODMzNDExNyJ9).
 
 * H1 for this page should be About medications
 * There should be four main sections
@@ -198,7 +199,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
       * This section includes content about the tool, such as what medications are included
    * More ways to manage your medications
       * This section includes information about how to renew a medication or update your information
-* For full content, review [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
+* For full content, review [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=iycmaX&nav=eyJoIjoiMTkwODMzNDExNyJ9)
 
 #### Functionality 
 * Ability to quickly navigate to medications list
@@ -206,7 +207,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 </details> 
 
 ### Assets
-* [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
+* [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=Y27dDH)
 * [Sketch designs](https://www.figma.com/file/ErrBlPKh9aDxVRu9Ua6OlJ/RX-IMPORT-from-Sketch-FOR-REFERENCE?type=design&t=V4EbDpyXVox5ZrJg-6)
 * [Usability testing report, round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1/Rx_Findings_Readout.pdf)
 * [Usability testing report, round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT/rx-round2-findings.pdf)
