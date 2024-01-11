@@ -45,7 +45,32 @@ Check out [the README](../README.md)
 - Create a VA SM Messaging Service that acts as the source of truth for all things Message Data 
 - The VAMS becomes the SoT for all things. Messages meta-data (such as status, folders, tags, threading) are stored here, and we provide interfaces that client systems (such as OH and MHV) can send messages
 
--> Insert new diagram
+---
+title: Animal example
+---
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
 
 
 ### TL;DR; Summary of Design
