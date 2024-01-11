@@ -28,6 +28,9 @@ Additional inputs are
 - [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/design)
 - [VAMC Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research#vamc-research-readme)
 
+## IA 
+**VA sitemap:** https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1672351995789/71a5b7ba07995735d458df39e07a696f48a9be48?wid=7-1676676077721&sender=u0b235d03cbd64f7f93673243
+
 ## CMS
 - [**Working with CMS team - Rules of Engagement**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md#working-with-cms-team---rules-of-engagement-roe)
 - [**Content management system README**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms#content-management-system)
