@@ -52,17 +52,16 @@ Veterans and family members of Veterans must currently download and fill out the
 
 - Objective: Veterans and their families can easily apply online for health care benefits 
   - Key result: Increase % of Veterans and families who apply for health care benefits online
-  - Key result: Veterans and families are able to find and access information on how to apply online
   - Key result: Increase number of form submissions 
+  - Key result: Reduce time it takes to fill out application
 - Objective: Faster delivery of benefits for Veterans and their families
   - Key result: Reduce processing and approval time
-  - Key result: Reduce time it takes to fill out application
+  - Key result: Reduce delay due to number of resubmissions 
   - Key result: Reduce time to notification of submission
 - Objective: Veterans and their families are updated and informed of statuses
   - Key result: Ensure testing and alert monitoring to catch any errors
   - Key result: Accurate status is relayed to applicants
 
- 
 
 
 ---
