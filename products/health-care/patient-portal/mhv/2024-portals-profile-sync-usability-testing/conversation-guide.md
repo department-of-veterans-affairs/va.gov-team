@@ -194,6 +194,7 @@ _**[Your contact information has been saved page]**_
 It says at the top that 'Your contact information has been updated and shared with the VA and all affiliated services.'
 
 - What do you think that means?
+- Now where do you think the other contact information we saw earlier went? 
 
 The previous page that we completed is all we had to do.
 
