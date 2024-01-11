@@ -1,6 +1,6 @@
 ## Home Screen Quantitative Measures of Success
 This page contains quantitative data intended to measure whether the home screen was successful. Each metric is defined by a type:
-* Observational - these metrics provide information about how Veterans are using the feature but do not indicate success
+* Observational - these metrics, which are generally feature specific, provide information about how Veterans are using the feature but do not indicate success
 * Leading - these metrics may indicate that the personalized home screen was sucessful
 * Lagging - these are metrics that provide high confidence as to whether the feature was successful or not
 
