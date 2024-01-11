@@ -3,8 +3,8 @@
 ## Moderator logistics
 - [ ] Update participants name in prototype
 - [ ] Post in #feedback-backchannel 
-- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- [ ] Check your [screensharing setup] and share permissions for participants.
+- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) 
+- [ ] Check [screensharing setup] and share permissions for participants.
 
 ## Intro - 3 minutes
 
