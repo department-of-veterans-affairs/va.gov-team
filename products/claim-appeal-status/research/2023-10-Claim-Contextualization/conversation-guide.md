@@ -133,7 +133,7 @@ Now let's imagine you log out, a couple of weeks go by, and you log back in. You
 - Where would you go to check for updates to the claim?
   
 [Status Tab]
-- Based on what you see here, how would you describe the state of this claim? [Claim will be in Step 4: Rating]
+- Based on what you see here, how would you describe the state of this claim? [Claim will be in Step 6: Final review]
 - Is there any information you're not seeing here that you'd like to see?
 - Is there anywhere else you would go to find more information about the claim?
 
