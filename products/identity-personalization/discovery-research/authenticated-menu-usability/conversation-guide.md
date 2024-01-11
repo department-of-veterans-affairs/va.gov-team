@@ -93,9 +93,6 @@ Let’s imagine you need to update the address on file with VA. Show me how you�
 
 *Expectation is user will sign in and be taken to the My VA page. We will remove the profile link in My VA in the prototype. From there, they will attempt to navigate to profile. May need to guide user to click on auth menu / name to get there.*
 
-- TK: Step 1
-- TK: Step 2
-
 How was that experience for you? How did it line up with what you expected?
 
 ### Things to watch for:
@@ -109,8 +106,7 @@ Next, I’d like for you to show me how you’d navigate to view your disability
 
 *Expectation is user will try to use a menu to navigate. May need to guide user to click on auth menu / name.*
 
-- Step 1
-- Step 2
+How was that experience for you? How did it line up with what you expected?
 
 ### Things to watch for:
 
