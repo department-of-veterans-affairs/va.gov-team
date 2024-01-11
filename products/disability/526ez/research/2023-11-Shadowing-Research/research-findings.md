@@ -24,28 +24,27 @@ Disability compensation is often the first VA "service" that Veterans will come 
 * Goal 1: Assess the current user experience of applying for disability benefits. 
 * Goal 2: Identify the pain points that lead to uncertainty, distrust, form exits, multiple sessions, and abandonment.
 * Goal 3: Learn how Veterans plan for and adapt to the length and complexity of the 526. 
+
 The most relevant touchpoints in the Veteran’s journey are Taking care of myself, Putting down roots, and Retirement. 
 
 ## Research Questions
-*Goal 1: Assess the current user experience of applying for disability benefits. 
+* Goal 1: Assess the current user experience of applying for disability benefits. 
    * How easy is it to use the design the first time? Can Veterans understand what they need to do?
        * How does the Veteran’s experience change from the beginning of the form to later sections? 
    * How quickly can Veterans perform tasks?
    * Are there many user errors that are easy to make, and can they easily recover? (Efficiency)
    * How do Veterans feel about their experience?
 
+* Goal 2: Identify the pain points that lead to form exits, multiple sessions, and abandonment.
+    * What are the blockers that are preventing Veterans from completing the form in one session? 
+    * Are certain parts of the form a heavier burden to complete than others? If so, why?
+    * Where might the form be relying too much on memory and recall?
 
-Goal 2: Identify the pain points that lead to form exits, multiple sessions, and abandonment.
-What are the blockers that are preventing Veterans from completing the form in one session? 
-Are certain parts of the form a heavier burden to complete than others? If so, why?
-Where might the form be relying too much on memory and recall?
-
-
-Goal 3: Learn how Veterans plan for and adapt to the length and complexity of the 526. 
-How can we best prepare Veterans for what’s ahead in the form so that they can plan accordingly?
-What are Veterans' expectations for completing the 526ez before getting started? 
-Where did they get their information? 
-Do Veterans intend to finish in a single session, or do they plan for breaks?
-Do they time-box work on an application, or do they have other milestones such as finishing a specific section?
-What do Veterans do when they have a question or need assistance? 
-(After completing the form) How well does their plan hold up? Did their approach or mindset change throughout the experience? Does anything surprise them?
+* Goal 3: Learn how Veterans plan for and adapt to the length and complexity of the 526. 
+    * How can we best prepare Veterans for what’s ahead in the form so that they can plan accordingly?
+    * What are Veterans' expectations for completing the 526ez before getting started? 
+        * Where did they get their information? 
+    * Do Veterans intend to finish in a single session, or do they plan for breaks?
+        * Do they time-box work on an application, or do they have other milestones such as finishing a specific section?
+    * What do Veterans do when they have a question or need assistance? 
+    * (After completing the form) How well does their plan hold up? Did their approach or mindset change throughout the experience? Does anything surprise them?
