@@ -237,6 +237,8 @@ Note that some parts of the page will work, and other parts will not. Please tel
 
 *RECORD navigation: **desktop header > Find a VA location** / search / **mobile header > menu or search > Find a VA location*** / footer
 
+*(When they try to interact with the page)* I'll have you stop there because this page doesn't work. 
+
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
 *(NOTE: if wrong page ever opens, ask p to refresh page)*
@@ -309,15 +311,14 @@ Let's say that you recently moved and want to make sure that your mail and benef
 
 - *(IF TIME & if didn't use Sign in)* Is there another way that you could do this task from this web page?
 
-*(If needed, prompt participant to use Login.gov, click to enter info)*
+*(Can select any login option)* 
+You *don't* need to enter your *actual* email address and password since this is a prototype.
 
-*(See previous page and* Cameron/Sign Out *in top right corner)*
-
-- *(If p is confused by Cameron)* Pretend that instead of “Cameron”, *your* first name was there.
+*(See My VA and* Name/Sign Out *in top right corner)*
 
 *RECORD navigation: 
-- *(desktop) **Cameron > Profile*** 
-- *(mobile) **Menu > Cameron > Profile***
+- *(desktop) **Name > Profile*** 
+- *(mobile) **Menu > Name > Profile***
 - *Any feedback about name as menu (for Auth)*
 
 *(After participant says they want to click "Profile", ask them to stop there. We want to know if Auth menu and Profile are findable.)*
