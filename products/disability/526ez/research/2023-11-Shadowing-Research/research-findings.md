@@ -140,7 +140,7 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Increase the prominence of entry points through visual design and hierarchy on the page.
 * Explore the journey from login to filing and work across teams (such as Authenticated Experience) to reduce the number of clicks needed to find the form and assure Veterans that they're in the right place.
 
-**Wizard and Intent To File**
+### Wizard and Intent To File<a id="finding"></a>
 **Finding: ITF errors lead participants to form exits–and potential abandonment.**
 
 * Three participants received ITF errors when they started to file, leading Veterans to doubt themselves or VA. 
