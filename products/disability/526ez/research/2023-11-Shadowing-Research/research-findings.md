@@ -351,6 +351,80 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
     * We suspect that medical record type is an important factor in device type. This participant only had VA medical records, which eliminated document upload. 
 * Some participants used their mobile phone as a second device throughout the filing process, starting with VA.gov login authentication. They consulted the secondary device to look up information (last appointment dates in their calendar, for example) at the start of Step 3 (Supporting Evidence)
 
+## Next Steps
+* Collaborate with OCTO to prioritize future design work for the 526ez
+* Connect with other relevant product teams to share findings and recommendations
+* Share methodological takeaways from shadowing with the Benefits Portfolio
+
+## Appendix
+**Who we talked to**
+
+We talked to 11 participants. We talked to 3 Veterans who were able to complete the 526 form during the interview, and 2 Veterans who were unable to submit due to missing medical evidence, so that we could have a fresh perspective on their digital experience applying for disability benefits.
+
+**Audience segment**
+* Veterans: 11
+
+**Gender**
+* Female: 4
+* Male: 6
+* Non-binary: 1
+
+**Device used during study**
+* Desktop: 9 
+* Phone: 2 (Android)
+
+**Web browsers used during study**
+* Chrome: 9
+* Duck Duck Go: 1
+* None: 1
+
+**Age**
+* 25 - 34 years old: 1
+* 35 - 44 years old: 1
+* 45 - 54 years old: 3
+* 55 - 65 years old: 1
+* 66 and above:  5
+
+**Education**
+* High School or equivalent: 2
+* Some college, no college degree: 4
+* Bachelor’s degree: 2
+* Master’s degree or higher: 3
+
+**Location**
+Participants were recruited from various geographical locations within the United States. 
+
+* West 
+    * California: 1
+* East 
+    * New York: 1
+* South
+    * Florida: 2
+    * Georgia: 1
+    * Maryland: 2
+    * Tennessee: 1
+    * Virginia: 1
+* North
+    * Minnesota: 1
+* Prefer not to answer: 1
+
+**Race**
+* American Indian or Alaska Native or White: 1 
+* Asian or White or Caucasian: 1
+* Black or African American: 3
+*Black or African American and Hispanic or Latino or Spanish Origin: 1
+* White or Caucasian: 3
+* Prefer to self-describe: 1
+
+**Disability and Assistive Technology**
+None of the participants in this study used disability and assistive technology. 
+
+**Underserved groups we haven’t talked to**
+This research may not include the perspectives of the following underserved Veteran groups:
+* Immigrant origin
+* Expat (living aboard)
+* Users of Assistive Technology
+
 
 
 
