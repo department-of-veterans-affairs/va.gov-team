@@ -220,9 +220,11 @@ Follow-up page for each new condition includes causes as radio buttons, a dropdo
     * “I’m sorry I don’t have a more visible injury.  You have to develop a thick skin to hear that pushback from an authority figure in VA”. -P18
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%204%20PTSD.png)
+
 PTSD condition page includes multiple choices for the type of PTSD-related events.
 
-**Image 5 PTSD/MST Image**
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%205%20PTSD%20MST.png)
+
 At the end of the PTSD/MST flow Veterans are asked the POW question directly, without an intermediary page to signal the transition.
 
 **Step 2 Recommendations**
