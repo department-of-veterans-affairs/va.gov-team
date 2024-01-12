@@ -299,6 +299,24 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 **Set Veteran Expectations** 
 * Help Veterans plan for documentation requirements before filing to reduce form exits. 
 
+**Step 4 Additional Information**
+**Finding: All participants questioned why they were asked for their bank account information.**
+* Out of three participants, two were already receiving compensation and didn't want to change their direct deposit info, and one had selected the option to decline compensation earlier in the flow. 
+* “I don't know why they asked about my bank account information at the end when they already sent money to my bank.” -P12
+* “Ok, I don't need to do that. Because I get my deposit, I don't want it going to a different bank. That's why I wouldn't add a new one, because it would go to the same place it's always been going to.” -P15
+
+**Step 4 Recommendations**
+* Add content that explains why the sensitive information is being collected and how it will be used.
+
+**Step 5 Review & Submit**
+**Finding: A majority of participants who submitted their claim expected to receive a confirmation email with a copy of the claim from VA.**
+* When participants did not receive an email immediately from VA, they digitally saved it for their records. 
+    * “I would request on this page, where it says your claim was successfully submitted, I would recommend VA send an email with all this information. But I don’t see that on this page and I do not have a printer with me, so what I’ll do is save as PDF.” -P6
+   * “Ok, it says my application has been submitted. I was checking my email and I didn't get anything. So I'll take a picture of this page so I can see the claim number … I usually ‘favorite’ it, and check in like a week to see if it's in the system. If I had a printer I'd print it.” -P1
+
+**Step 5 Recommendations**
+* Confirm the claim submission quickly and clearly across channels. 
+* Provide an opportunity for Veterans to download a full copy of their completed form post-submission.
 
 
 
