@@ -16,12 +16,22 @@ Sarah Koosman and Jamie Klenetsky Fay, CAIA
 <!-- TOC end -->
 
 ## Default to HTML
-HTML should be the default for all digital content. 
+We recommend that HTML should be the default for all digital content. Don't upload a PDF unless it's absolutely necessary.
 
-From OMB memo M-24-08, [Strengthening Digital Accessibility and the Management of Section 508](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/):
+**Rationale:**
+- HTML is easier for assistive technology to understand. 
+- It's harder to make a PDF accessible than an HTML page. 
+- According to OMB memo M-24-08, [Strengthening Digital Accessibility and the Management of Section 508](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/):
 > Agencies should use HyperText Markup Language (HTML) as the default when creating and publishing content online in lieu of publishing content in other electronic document formats that are designed for printing or preserving and protecting the content and layout of the document (e.g., PDF and DOCX formats), as provided by OMB M-23-22.This practice makes web content easier to find, use, and maintain, and makes it work more reliably with assistive technology.
 
-HTML is easier for assistive technology to understand. And it's harder to make a PDF accessible than an HTML page. **Default to HTML.**
+**Default to HTML** whenever possible.
+
+### Write semantic HTML
+- Use the correct HTML elements for their intended purposes - `<ol>` for ordered lists, `<p>` for paragraphs, `<h2>` for heading level 2, etc.
+- It's important that your HTML is semantic and accessible so that you don't introduce any issues for users of assistive technology.
+- If you're unfamiliar with semantic HTML, read [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) (MDN Web Docs). You can also reach out to your team's front-end developer.
+
+Your markup doesn't need to be perfect, but it does need to be accessible.
 
 ## When to consider using non-HTML documents
 ___This section adapted from PopeTech's [PDFs, non-HTML documents, and accessibility](https://blog.pope.tech/2022/05/03/pdfs-non-html-documents-and-accessibility/)___
