@@ -96,3 +96,4 @@ sequenceDiagram
 - Can we connect to Profile for data and setting timestamp via MAP token? (Stephen is asking)
 - Will we still need to update demographics timestamps in Vista if we are setting the single timestamp in VA Profile?
 - What does a Oracle Health (cerner) appointment payload look like? (Shane will provide a sample)
+- How will the staffs know about patient workflow status when cie application shows contact staff message incase of check-in failure or invalid contact information?
