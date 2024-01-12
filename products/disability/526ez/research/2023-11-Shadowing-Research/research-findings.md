@@ -201,6 +201,7 @@ P11 and P12 received this ITF error message when trying to start the form.
     * “What I was hoping... I thought maybe it would ask me questions and I could be like oh I qualify for this disability I didn't know about. The only way I know about [certain conditions] is by talking to other people who have filled out these forms. It would be nice if there were a place where someone could look to see what is considered a disability.” -P21
 
 **Image 3- New condition image**
+
 Follow-up page for each new condition includes causes as radio buttons, a dropdown for rated disabilities, and a free text field for descriptions
 
 **Finding: The process of filing for PTSD is long and can be confusing.**
@@ -215,6 +216,20 @@ Follow-up page for each new condition includes causes as radio buttons, a dropdo
     * "All of a sudden, I'm like ok Step 2 of 5 Conditions. Am I still on the sexual part? Or now I wear hearing aids... so I'm going to back up and see … Ok so I go from personal assault and trauma... ok I'm going to make the assumption, and I think you need to label it better. This is just to file for the disability." -P21
 * There can be challenges for survivors of MST to obtain evidence to complete the form.
     * “I’m sorry I don’t have a more visible injury.  You have to develop a thick skin to hear that pushback from an authority figure in VA”. -P18
+
+**Image 4: PTSD Check boxes**
+PTSD condition page includes multiple choices for the type of PTSD-related events.
+
+**Image 5 PTSD/MST Image**
+At the end of the PTSD/MST flow Veterans are asked the POW question directly, without an intermediary page to signal the transition.
+
+**Step 2 Recommendations**
+* Consider allowing Veterans to select multiple service-connected disabilities per secondary condition. 
+* Help Veterans discover conditions they might be experiencing, but did not know they could claim. 
+* Address data loss that results from conditional logic for condition causes. 
+* Meet and collaborate with the team working to digitize the PTSD form. 
+* Address the experience of entering and leaving the PTSD flow to reduce confusion.
+
 
 
 
