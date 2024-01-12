@@ -14,7 +14,7 @@ The CMS team will be implementing client-side error messaging to display to edit
 CMS Editors, who _upload a new image_ to either the Media Library or within a Content node will be shown errors if the alt text they add for their image:
 * Is Over 150 characters long
 * Contains a file extension (.png, .jpg, .jpeg, or .gif)
-*Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”.
+* Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”.
 
 These errors will be shown immediately upon focusing out of the alt text field, meaning that the editor will receive the feedback that something within their alt text must be corrected prior to trying to save the image.
 
@@ -70,11 +70,11 @@ These errors will be shown even if the editor's original intention was not to ed
 * PR Reviews: Completed December 2023
 
 ## Day of Launch
-- [x] Merge PR into main
+- [ ] Merge PR into main
   
 ## Post-launch
-- [x] CMS Engineers monitor Datadog
-- [x] CMS Help Desk monitor issues post launch and escalate any critical bugs to team
+- [ ] CMS Engineers monitor Datadog
+- [ ] CMS Help Desk monitor issues post launch and escalate any critical bugs to team
 ### CMS Help Desk
 Editors should report issues by [creating a ticket via JIRA](https://va-gov.atlassian.net/servicedesk/customer/portal/3) that will go directly to CMS Help Desk
 
