@@ -32,34 +32,52 @@ We've invited you here today to help us improve a website for Veterans. We'll ex
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-1. Do you normally use your phone, desktop, or laptop to do health-related activities on VA.gov?
-2. Tell me about the last time you used it. When was that? What did you use it for? 
+1. What types of VA benefits if any do you currently receive?
+   a. Have you received other benefits in the past? If yes, which?
+2. Do you ever login to VA.gov or the VA mobile app?
+   a. Frequency?
+   b. For what purpose?
+3. Do you ever login to MHV?
+   a. Frequency?
+   b. For what purpose? 
    
-**Screen sharing instructions**
+**Screen sharing instructions - 5-15 minutes**
 
-First, I'd like you to share your screen so I can see how you navigate the site. Do you know how to share your screen? 
+Thanks for answering those questions. I want to transition us to exploring the different sites together. First I want you to share your screen. Is that something you've done before?
 
-_Instructions for folks NOT using screenreaders:_
-- In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-  - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
+_Participants without screen reader:_
+- Find the zoom screen; this is a row of buttons at the bottom.
+- In the center of that row is a green button that says "Share" (if viewing on phone), "Share screen" (if on computer), or "Broadcast screen" (on iPad).
+- You'll then be given options for what to share. Please choose "screen" (for phone), or your web browser (for computer)
 
-- iPad: Broadcast screen
+_Backup plan if they cannot figure out how to share screen:_
+- I'm going to share my screen and give you control of it. Does that sound okay?
+- Can you confirm if you can see my screen?
+- _Give mouse control)_ Now try to move your mouse around on my screen.
 
-Thanks for your patience in figuring that out. 
+_Open prototype_
+- Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser. 
+ 
+## Tasks for Prototype 1 (x min)
+Okay looks like you have the prototype open. I want you to start by imagining that you just received this email. Go ahead and read the email text and follow the prompt.
 
-- *Backup plan if they cannot figure out how to share screen:*
-  - Okay, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
+_Participant arrives on secure messaging page with message from doctor open_
 
-## Interview - 50 minutes 
+### Task 0: Messages
 
-Great, now the fun part begins. I'd like you to know that I will share a prototype link with you during our chat today. I will put the link in the Zoom chat. 
+1. Where does it look like you've arrived?
+2. Does this align with what you would expect? How so (or why not)?
+3. Now go ahead and read this message. Explain to me the meaning as you understand it.
+4. Let's say you did want to check out the images and radiology report from your xray. 
 
-Just as a reminder, this is a prototype, which means that it will behave differently than the actual website. You will be signed in as a testing user, named Judy. It’s a fake account with fake information, so you won’t see your name and your personal information. Not all of the links will work. As well, please do not use the back button in your browser as it will take you out of the prototype. There is a back button in the prototype that you can use to go back in the prototype. I'll show you when you open the link. 
+### Task 1: Medical records
 
-_Send link to prototype: https://www.sketch.com/s/02430c9f-e4cb-4945-b7bb-6ec2f81a0bd7/prototype/EB6BB9B5-0953-4D49-AFED-CF4F2AAB146B/a/EB6BB9B5-0953-4D49-AFED-CF4F2AAB146B?hotspots=false_
+5. 
 
+
+
+
+6. 
 **So, today you are going to perform some healthcare-related activities with this prototype. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
 **(Start from the signed-in MHV landing page) Before I give you the task, talk me through what you are seeing on the screen - where does it make you think you are on the site?**
