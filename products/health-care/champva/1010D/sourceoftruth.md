@@ -105,6 +105,7 @@ If the Veteran you are caring for sustained or aggravated a serious injury (or i
 
 
 ####  [H3] What is a service-connected disability? 
+<! --- I added this based on some of the feedback from the stakeholder interviews. If we don't have enough evidence that this will be helpful to our user I can remove it to save the real estate --- >
 A service-connected disability is a disability that we’ve concluded was caused—or made worse—by the Veteran’s active-duty service. A permanent disability is one that’s not expected to improve.
 
 If the Veteran you're connected to fits that description and your status and relationship match the following the factors below you may be eligible for CHAMPVA benefits. 
@@ -162,7 +163,7 @@ This legal document that provides confirmation of your ended marriage with a dec
 <br/>{ Link }[Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp)
 
 
-—
+---------------------------------------
 
 ## [H1]  Apply for CHAMPVA Benefits with VA Form  10-10D
 
@@ -270,73 +271,16 @@ Get answers to frequently asked questions about CHAMPVA
 Find out how to file a CHAMPVA claim
 Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA
 
----
+---------------------------------------
+
 ##[H1] Apply for CHAMPVA benefits
 
 {subtitle} Form 10-10d
 
-## Step 1 of 3: Signer's information
 
-Relationship to the applicant
+## Step 1 of 3:  Veteran Information
 
-Who will be signing this application? (* Required)
-
-( ) I’m signing for myself as an applicant.
-( ) I’m signing for a spouse of a Veteran.   
-( ) I’m signing for a parent of a Veteran.   
-( ) I’m signing for a child of a Veteran.  
-( ) I’m signing for a family member of a caretaker of a Veteran.  
-
-{ Buttons } Back / Continue
-
-
-## Step 1 of 3: Signer's information
-
-Signer’s name
-
-We use this information to contact the signer of this form and verify other details.
-
-First name (* Required)  
-Middle name  
-Last name (* Required)  
-
-{ Buttons } Back / Continue
-
-
-## Step 1 of 3: Signer's information
-
-Signer’s mailing address
-
-We’ll send any updates about your signer certification to this address.
-
-Country (* Required)   
-Street address     
-Street address line 2       
-Street address line 3   
-City (* Required)   
-State (* Required)   
-Postal code (* Required)   
-
-{ Buttons } Back / Continue
-
-
-## Step 1 of 3:  Signer's information
-
-Signer's contact information
-
-Phone number (* Required)  
-Email address 
-
-{ Buttons } Back / Continue
-
-
-
-
-
-
-## Step 2 of 3:  Veteran Information
-
-Name and date of birth of the Veteran you’re connected to 
+### [H3] Name and date of birth of the Veteran you’re connected to 
 
 We use this information to verify some eligibility.
 
@@ -349,9 +293,9 @@ Date of Birth (* Required)
 { Buttons } Back / Continue
 
 
-## Step 2 of 3: Veteran Information
+## Step 1 of 3: Veteran Information
 
-SSN or VA number of the Veteran you’re connected to 
+### [H3] SSN or VA number of the Veteran you’re connected to 
 
 
 Social Security number (*Required)
@@ -363,9 +307,9 @@ You must enter either a VA file number or Social Security number.
 { Buttons } Back / Continue
 
 
-## Step 2 of 3:  Veteran Information
+## Step 1 of 3:  Veteran Information
 
-Status of the Veteran you’re connected to 
+### [H3] Status of the Veteran you’re connected to 
 
 Is the Veteran that you are connected to still living? (*Required)
 
@@ -376,9 +320,9 @@ Is the Veteran that you are connected to still living? (*Required)
 
 { Buttons } Back / Continue
 
-## Step 2 of 3:  Veteran Information
+## Step 1 of 3:  Veteran Information
 
-Status of the Veteran you’re connected to 
+### [H3] Status of the Veteran you’re connected to 
  
      
 Did the Veteran you’re connected to pass away on active military service? (* Required)   
@@ -389,22 +333,22 @@ Did the Veteran you’re connected to pass away on active military service? (* R
 
 { Buttons } Back / Continue
 
-## Step 2 of 3:  Veteran Information
+## Step 1 of 3:  Veteran Information
 
-Mailing Address of the Veteran you’re connected to 
+### [H3] Mailing address of the Veteran you’re connected to 
 
-Do you know the address of the Veteren you're connected to?
+Do you know the address of the Veteran you're connected to?
 
-( ) Yes, I do know the address of the Veteren I'm connected to
-( ) No, I don't know the address of the Veteren I'm connected to 
+( ) Yes, I do know the address of the Veteran I'm connected to
+( ) No, I don't know the address of the Veteran I'm connected to 
 ( ) The Veteran I'm connected to is experiencing homelessness
 
 { Buttons } Back / Continue
 
 
-## Step 2 of 3:  Veteran Information
+## Step 1 of 3:  Veteran Information
 
-Mailing Address of the Veteran you’re connected to 
+### [H3] Mailing Address of the Veteran you’re connected to 
 
 
 - [ ] Sponsor lives on a United States military base outside of the country.
@@ -426,9 +370,9 @@ Postal code (* Required)
 { Buttons } Back / Continue
 
 
-## Step 2 of 3:  Veteran Information
+## Step 1 of 3:  Veteran Information
 
-Contact info of the Veteran you’re connected to 
+### [H3] Contact info of the Veteran you’re connected to 
 
 Do you know the phone of the Veteren you're connected to?
 
@@ -438,9 +382,9 @@ Do you know the phone of the Veteren you're connected to?
 
 { Buttons } Back / Continue
 
-## Step 2 of 3:  Veteran Information
+## Step 1 of 3:  Veteran Information
 
-Phone number of the Veteran you’re connected to 
+### [H3] Phone number of the Veteran you’re connected to 
 
 Home phone number (*Required)
 
@@ -448,7 +392,7 @@ Mobile phone number
 
 { Buttons } Back / Continue
 
- ---
+---------------------------------------
 
 {Alert Box]
 #### [H3] Section complete
@@ -470,3 +414,299 @@ Here’s how signing in now helps you:
 {Button} Sign in to save  your application
 
 {Link} Continue without signing in
+
+{ Buttons } Back / Continue
+
+---------------------------------------
+
+## Step 2 of 3:  Applicant Information
+
+### [H3] Applicant's name and date of birth
+
+
+First name (* Required)  
+Middle name  
+Last name (* Required)  
+
+Date of Birth (* Required)  
+
+{ Buttons } Back / Continue
+
+
+## Step 2 of 3:  Applicant Information
+
+### [H3] Applicant's SSN 
+
+
+Social Security number (* Required)
+
+
+{ Buttons } Back / Continue
+
+
+## Step 2 of 3:  Applicant Information
+
+### [H3] Applicant's mailing address
+
+<! --- If it exists, use a patteren for selecting an address that was previously entered ---> 
+
+Country (* Required)   
+
+Street address     
+
+Street address line 2    
+
+Street address line 3   
+
+City (* Required)   
+
+State (* Required)   
+
+Postal code (* Required)   
+
+{ Buttons } Back / Continue
+
+
+## Step 2 of 3:  Applicant Information
+
+### [H3] Applicant's phone number
+
+Phone number (* Required)
+
+{ Buttons } Back / Continue
+
+## Step 2 of 3:  Applicant Information
+
+{Information box]
+### {Alert title} Notice: Applicant may require additional documentation
+
+Depending on the applicant’s relationship to the Sponsor, additional documents may be required to verify eligibility.
+
+Spouse:
+
+- Marriage certificate
+
+Child:
+
+- School certification (if between ages 18 - 24)
+
+Caretaker:
+- Document Placeholder
+
+These documents will need to be mailed in the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your completed this enrollment form online.
+
+
+{End information box}
+
+
+### [H3] Relationship to the Veteran the Applicant's is connected to
+
+What's this applicant’s relationship to the Veteran they are connect to? (* Required)
+
+( ) The applicant is or was the Veteran's spouse
+
+( ) The applicant is the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren)
+
+( ) The applicant is the Veteran's caretaker
+
+( ) The applicants relationship to the Veteran is not listed here
+
+{ Buttons } Back / Continue
+
+## Step 2 of 3:  Applicant Information
+
+
+{Information box]
+### {Alert title} Notice: Applicant may require additional documentation
+
+Depending on the applicant’s health insurance status, additional documents may be required to verify eligibility.
+
+Medicare:
+
+- A COPY of of the applicant's Medicare card
+
+Other health insurance::
+
+- A COPY of the applicant's health insurance card
+
+
+These documents will need to be mailed in the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your completed this enrollment form online.
+
+
+{End Information box}
+
+
+### [H3] Is the applicant enrolled in Medicare or any other health insurance? (* Required)
+{helper text} Check all that apply.
+- [ ] The applicant has Medicare
+- [ ] Applicant has other health insurance
+- [ ] Applicant does not have Medicare or other health insurance
+
+{ Buttons } Back / Continue
+
+
+## Step 2 of 3:  Applicant Information
+
+### [H3] Would you like to add another applicant?
+( ) Yes, I have more applicant's to add
+( ) No, I don't have anymow applicant's to add
+
+{ Buttons } Back / Continue
+
+---------------------------------------
+
+## Step 3 of 3:  Review and certify
+
+{accordion} Sponsor information 
+{accordion} Applicant(s) information
+
+{ Buttons } Back / Continue
+
+## Step 3 of 3: Signer's information
+
+#### [H3] Relationship to the applicant
+
+Who will be signing this application? (* Required)
+
+( ) I’m signing for myself as an applicant.
+( ) I’m signing for a spouse of a Veteran.   
+( ) I’m signing for a parent of a Veteran.   
+( ) I’m signing for a child of a Veteran.  
+( ) I’m signing for a family member of a caretaker of a Veteran.  
+
+{ Buttons } Back / Continue
+
+
+## Step 3 of 3: Signer's information
+
+#### [H3] Signer’s name
+
+We use this information to contact the signer of this form and verify other details.
+
+First name (* Required)  
+Middle name  
+Last name (* Required)  
+
+{ Buttons } Back / Continue
+
+
+## Step 3 of 3: Signer's information
+
+#### [H3] Signer’s mailing address
+
+We’ll send any updates about your signer certification to this address.
+
+Country (* Required)   
+Street address     
+Street address line 2       
+Street address line 3   
+City (* Required)   
+State (* Required)   
+Postal code (* Required)   
+
+{ Buttons } Back / Continue
+
+
+## Step 3 of 3:  Signer's information
+
+#### [H3] Signer's contact information
+
+Phone number (* Required)  
+Email address 
+
+{ Buttons } Back / Continue
+
+---------------------------------------
+
+## Step 3 of 3:  Signer's information
+
+#### [H3] Statement of truth
+
+I understand that I may be asked to confirm the truthfulness of the answers to the best of my knowledge under penalty of perjury. 
+
+I also understand that VA may request further documentation or evidence to verify or confirm the applicant's eligiblity: 
+
+- The page from the VBA rating decision showing your Veteran is permanently and totally disabled (or the death rating if you’re a survivor)
+- Your Veteran’s DD214 (Certificate of Release or Discharge from Active Duty)—or, if the Veteran was a World War II or Korean War Veteran, the Report of Separation. If you don’t have a copy of the necessary form, you can request it by submitting a Standard Form 180, Request Pertaining to Military Records, from the National Archives. Find out how to request military service records online, by mail, or by fax
+- Documents related to any dependent children you’re including in your application
+- A copy of each child’s birth certificate or adoption papers
+- School certification of enrollment for children ages 18-23
+
+
+I confirm that the identifying information in this form is accurate and has been represented correctly.  
+
+I have read and accept the [privacy policy](#)
+
+Your full name (* Required)   
+[ text input ]
+
+[ ] I certify that the information above is correct and true to the best of my knowledge and belief. 
+
+{ Buttons } Back / Submit
+
+
+---------------------------------------
+
+## [H1] Confirmation page ##
+
+### [H2] You’ve submitted your CHAMPVA Benefits Enrollment Form
+
+Before your enrollment submission is complete you must mail in these forms:
+
+{{ Veteran name }}
+{{ required document name 1 }}
+{{ required document name 2 }}
+
+
+{{ applicant name 1 }}
+{{ required document name 1 }}
+{{ required document name 2 }}
+{{ required document name 3 }}
+{{ required document name 4 }}
+{{ required document name 3 }}
+{{ required document name 3 }}
+
+{{ applicant name 2 }}
+{{ required document name 1 }}
+{{ required document name 2 }}
+{{ required document name 3 }}
+{{ required document name 4 }}
+{{ required document name 3 }}
+{{ required document name 3 }}
+
+{{ applicant name 3 }}
+{{ required document name 1 }}
+{{ required document name 2 }}
+{{ required document name 3 }}
+{{ required document name 4 }}
+{{ required document name 3 }}
+{{ required document name 3 }}
+
+Mail your application to:
+
+VHA Office of Community Care
+CHAMPVA Eligibility
+PO Box 469028
+Denver, CO 80246-9028
+
+Or fax it to: 303-331-7809
+
+
+
+#### [H3] Who submitted this form
+{{ Applicant name }}
+
+#### [H3] Confirmation number
+{{ confirmation number }}
+
+#### [H3] Date submitted 
+{{ Submitted date }}
+
+#### [H3] Confirmation for your records
+You can print this confirmation page for your records
+
+{ Buttons } Print this page
+
+
+
+
