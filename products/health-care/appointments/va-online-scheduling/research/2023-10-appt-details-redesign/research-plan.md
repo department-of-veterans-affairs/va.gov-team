@@ -182,18 +182,18 @@ Please allow at least 30 minutes between sessions
 
 ## Availability
 
-| Date  | Time  | 
-|---|---|
-| Tuesday, January 16 |  12:00pm EST - 6:00pm EST | 
-| Wednesday, January 17  | 12:00pm EST - 4:00pm EST  | 
-| Thursday, January 18  | 12:00pm EST - 5:00pm EST  |
-| Friday, January 19   | 12:00pm EST - 6:00pm EST  |
-| Monday, January 22  | 12:00pm EST - 6:00pm EST  |
-| Tuesday, January 23  | 12:00pm EST - 6:00pm EST  |
-| Wednesday, January 24  | 12:00pm EST - 4:00pm EST  | 
-| Thursday, January 25  | 12:00pm EST - 5:00pm EST  |
-| Friday, January 26  | 12:00pm EST - 6:00pm EST  |
-| Monday, January 29  | 12:00pm EST - 6:00pm EST  |
+| Day | Date  | Time (EST)  | 
+|---|---|---|
+| Tues | 1/16 |  12:00pm - 6:00pm | 
+| Weds | 1/17  | 12:00pm - 4:00pm  | 
+| Thurs | 1/18  | 12:00pm - 5:00pm  |
+| Fri | 1/19   | 12:00pm - 6:00pm  |
+| Mon | 1/22  | 12:00pm - 6:00pm  |
+| Tues | 1/23  | 12:00pm - 6:00pm  |
+| Weds | 1/24  | 12:00pm - 4:00pm  | 
+| Thurs | 1/25  | 12:00pm - 5:00pm  |
+| Fri | 1/26  | 12:00pm - 6:00pm  |
+| Mon | 1/29  | 12:00pm - 6:00pm  |
 
 
 
