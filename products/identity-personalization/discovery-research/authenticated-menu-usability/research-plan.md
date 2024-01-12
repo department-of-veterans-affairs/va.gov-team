@@ -125,8 +125,8 @@ Recruit 12 Veterans for a total of 8 completed sessions.
 **We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
 
 Availability for a kick-off call, in Eastern times: 
-* Jan 17: 11:30-12, 2:30-4pm
 * Jan 18: 10:15-12, 1-3:30pm
+* Jan 19: 9:45-10:30am, 2-3:30pm
 
 **We’re collaborating with the Sitewide team on the prototype.** 
 The majority of the prototype will be complete by January 17, but refinements will continue until our pilot session.
