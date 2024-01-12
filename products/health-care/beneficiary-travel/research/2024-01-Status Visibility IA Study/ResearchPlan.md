@@ -1,4 +1,4 @@
-# Travel Claim Status Visibility IA Research Plan WIP
+# Travel Claim Status Visibility IA Research Plan DRAFT IN PROGRESS
 
 
 ## **Background**
