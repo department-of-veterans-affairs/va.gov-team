@@ -116,3 +116,13 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Make it easy to make corrections
     * Evaluate the message that tells Veterans their application has been saved to see if it could be more prominent. 
     * Build on the summary pages to provide opportunities to review and edit throughout the form, not just at the end.
+
+## Findings (organized by 526ez form flow)
+**Finding: Participants had trouble navigating to the 526ez online form on VA.gov— even after login.**
+* “Where is the form that actually has to be filled out? I see how to file a claim, when to file a claim... but where is the actual form that needs to be filled out?” -P6
+    * P6 reviewed the ‘Evidence Page,’ downloaded the paper version of the 526, and scrolled the ‘When to File’ page, but was unable to find the ‘File a claim’ link without clicking on several other pages.
+* Navigation to the form did not match the mental model of some participants, leading to lots of scrolling. 
+    * [After scrolling around My VA and ‘How to file a claim’ screens] “I would've expected the 'filing a claim' option to be at a higher level in the process.” -P11 
+* Three participants found success locating the online form by clicking on “File a claim online” on the left navigation bar for disability benefits. 
+    * P12 asked the facilitator where to find the form. They scrolled the ‘My VA’, ‘Check your claim and appeals’, and ‘Learn how to file’ pages before finding the ‘File a claim’ link to the left of the screen. 
+    * We hypothesize that Veterans repeatedly read past the “Start the Disability Compensation Application” because it was buried within a page of text and not plain language. “File a claim online” was a clear directive that stood out from surrounding content. 
