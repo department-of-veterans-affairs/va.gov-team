@@ -55,6 +55,41 @@ sequenceDiagram
         ce--)-api: success
         api--)-web: success
 ```
+### Veteran clicks link returned from VeText
+```mermaid
+sequenceDiagram
+    actor vet as Veteran
+    participant web as vets-website
+    participant api as vets-api
+    participant ch as CHIP
+    participant l as LoROTA
+    participant po as VA Profile
+    participant ce as Oracle Health (cerner)
+        vet->>web: Clicks link to start CIE <br> and validates last & dob
+        activate web
+        web->>api: POST /sessions
+        api->>+l: POST /token
+        l--)-api: valid session
+        api--)web: return 'read.full'
+        web->>+api: Fetch data
+        api->>+po: fetch demographics data <br> and time-stamps
+        po--)-api: return data
+        api--)-web: return payload of <br> appointments and demographics
+        web->>+vet: present CIE to veterain
+        deactivate web
+        vet->>+web: answers demographic questions
+        web->>+api: POST timestamp
+        api->>+po: POST timestamp
+        po--)-api: success
+        api--)-web: success
+        web-->>-vet: success
+        vet->>+web: click check-in
+        web->>+api: POST check-in
+        api->>+ce: POST set appointment status to arrived
+        ce--)-api: success
+        api--)-web: success
+        web-->>-vet: success
+```
 ## Questions
 - How do we connect to Oracle Health (cerner) via MAP token to set the arrived status?
 - Who is our POC for the Oracle Health (cerner) MAP service?
