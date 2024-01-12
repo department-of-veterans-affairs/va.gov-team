@@ -318,6 +318,29 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 * Confirm the claim submission quickly and clearly across channels. 
 * Provide an opportunity for Veterans to download a full copy of their completed form post-submission.
 
+## Detailed Additional Findings 
+**Additional Finding #1**
+**The participants who submitted their claims did so in under an hour.**
+* The participants that did complete the 526 application, below is a table of their expected time to complete the form and the actual time it took to complete the form.
+
+**Table 1: Participant Who Started the form**
+
+* Participant estimates were rarely grounded in an advanced understanding of the form and what it would entail. Estimates were both longer and shorter than the actual completion time. 
+    * “[How long will it take] I don't know. My claim that I'm going to file isn't a big one, it's not heavily inundated with information, so it'll probably be quicker than normal I guess?” -P15
+    * “I know the estimate was two hours, I estimate about 1.5 hours.” -P6
+
+**Additional Finding #2**
+**Worsening symptoms motivated participants to file for benefits.**
+* Participants cited concern for worsening or new conditions as their reason for filing. 
+    * “My civilian doctor said my condition has gotten worse. They said it’d be best that I apply.” -P12   
+    * “I heard about benefits for women, but I didn't need it then– but then realized I should look into the services.” -P10
+* Family, friends, and providers were key in encouraging participants to apply. For one participant, learning about the research study motivated them to file. 
+* A couple of participants also reckoned with lasting feelings of not being disabled “enough” to apply. 
+    * “I had my [medical condition] before retirement and as I was sitting in [medical center] I noticed a solider without an arm from Iraq.  I said, ‘That’s disabled–I am just inconvenienced,’ and I couldn’t get over that. I couldn’t get over the mental hurdle at the time”. -P3  
+    * “I have the mindset that most Veterans have: The money should go towards the new Veterans…Being female, when I got out [in 1976] they interviewed us…To them [my conditions] wasn’t anything.” -P21
+
+
+
 
 
 
