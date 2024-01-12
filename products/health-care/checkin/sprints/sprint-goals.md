@@ -10,12 +10,17 @@ ________________________________________________________________________________
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support eCheck-in for CERNER Sites**
+ - **GOAL: Address Usage Issues**
+     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**     
 - **GOAL: Increase PCI Usage**
      - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
      - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Address Tech Debt** 
- 
+- **GOAL: Address Tech Debt**
+     - **Sub Goal: Migrate Sktech Files to Figma**
+     - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**     
+
 #### PLANNED RELEASES 
 - NONE
   
@@ -32,8 +37,7 @@ ________________________________________________________________________________
         - 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
        - 🟦 TBD
-       - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73122)
-       - [[FE] Rebase Unified based on Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73263)
+       - 🟩 TBD
   - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71834)
@@ -42,6 +46,10 @@ ________________________________________________________________________________
      - 🟩 [[FE] Switch icons to v3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71840)
          - We are waiting on the DS to address the ticket we created for them before we finish this
      - 🟩 [Add an allDemographicsCurrentUUID Mock UUID for check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72829)
+     - **Sub Goal: Migrate Sktech Files to Figma**
+        - 🟥 TBD
+    - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)**
+       - 🟥 TBD
 
 ------- END FUTURE / TENTATIVE ------
 </details>
