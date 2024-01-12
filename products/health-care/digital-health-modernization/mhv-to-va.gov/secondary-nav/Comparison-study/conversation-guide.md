@@ -70,14 +70,22 @@ _Participant arrives on secure messaging page with message from doctor open_
 3. Now go ahead and read this message. Explain to me the meaning as you understand it.
 4. Let's say you did want to check out the images and radiology report from your xray. 
 
-### Task 1: Medical records
+### Task 1: Medical records > Lab and test results > locate x-ray result for scan of left ankle
 
-5. 
+5. What would you do next to try and find the x-ray results of your left ankle?
+  - It would really help me if you could talk me through what you are thinking. 
+
+_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+- What are you thinking as you (_go somewhere, do something_)? 
+- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
+- What do you think would happen if you (_do something_)?
+- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
+- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
+- (_If participant still cannot find it, direct them to it and continue with the interview._)
+
+### Task 2: 
 
 
-
-
-6. 
 **So, today you are going to perform some healthcare-related activities with this prototype. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
 **(Start from the signed-in MHV landing page) Before I give you the task, talk me through what you are seeing on the screen - where does it make you think you are on the site?**
