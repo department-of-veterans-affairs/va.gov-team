@@ -447,7 +447,7 @@ Let’s go ahead and click `Continue`.
 - Is the address validation surprising, confusing, unclear?
 - Are they surprised or frustrated by the length of the form?
 
-## Chapter 4: Review and submit
+## Chapter 4: Review and submit (10 minutes)
 
 > Screen: Review and submit
 
