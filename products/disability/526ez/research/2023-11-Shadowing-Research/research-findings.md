@@ -137,4 +137,13 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Explore the journey from login to filing and work across teams (such as Authenticated Experience) to reduce the number of clicks needed to find the form and assure Veterans that they're in the right place.
 
 **Wizard and Intent To File**
+**Finding: ITF errors lead participants to form exits–and potential abandonment.**
+
+* Three participants received ITF errors when they started to file, leading Veterans to doubt themselves or VA. 
+    * [After receiving the “We’re sorry” error] “I guess I did something wrong…This is the part that… makes me stop and start again.” -P12
+    * [Reads ITF error] "Something wrong happened on our end... Welcome to the VA…50% of the time I get error messages like that. I don't think I'm stupid, I think someone who is older and more feeble than I am would get mad.” -P11
+* Veterans do not understand why they are being blocked by the ITF error messages—or how to correct them.
+    * “Maybe if I go get the additional form, I won't get the error message-- maybe there is something precursor I should've done. Like maybe I need that [supporting form]” -P11
+    * P12 is confused by the implications of the ITF error. “[The error] says I have to do an Intent to File, but I didn't say I wanted to do an Intent to File, I wanted to start an application … So because I have an Intent to File, does that mean I have to file from the Intent to File, I can't start a new claim? I think [the ITF] was from my last condition ... that's what I never got responses to. I would think it would let me start a new claim rather than start a new claim based on my Intent to File because I don't even remember what this Intent to File, it may have been for [past condition].” -P12
+
 
