@@ -112,17 +112,17 @@ What criteria would strengthen your results?
   - I have a service-connected disability, and my overall rating is more than between 1% and 100%
   - I’m not sure (Exclude)
 
-- Do you require a screen reader to use the internet due to low vision or blindness?
-  - Yes/No (“Yes” qualifies as AT/reader user)
+- Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+  - Yes/No (“Yes” qualifies as AT user)
 
-- Do you require a screen magnifier to use the internet due to low vision?
-  - Yes/No (“Yes” qualifies as AT/magnifier user)
+- We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+  -Beginner, Intermediate, Advanced
 
-- If you use a screen reader or magnifier, are you willing to join the Zoom session using this assistive technology?
-  - Yes/No/Does not apply to me (Exclude “No”)
+- Are you willing to join the Zoom session using this assistive technology?
+  - Yes/No ("Yes" qualifies for AT user)
 
-- If applicable, what is the name of the screen reader or magnifier technology you will use during the session?
-  - Free text (If they are an AT user, but don’t enter this field, exclude)
+- Please list the name of the screen reader technology you will use during the session.
+  - Text box (If they previously qualified for AT user but leave this blank, exclude or reach out to discuss)
 
 - Do you have a college degree?
   - Yes/No (At least 2 who answer “No”)
