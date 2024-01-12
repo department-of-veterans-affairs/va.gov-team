@@ -4,7 +4,7 @@
 - :white_check_mark: = Required fields
 - 🟠 = Conditionally required
 
-## 21-22
+## [21-22](https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf)
 
 1. Veteran’s Name :white_check_mark: 
 2. Social Security Number :white_check_mark: 
@@ -50,7 +50,7 @@
     1. Signature of Veterans Service Organization Representative Named in Item 16A :white_check_mark: 
     2. Date Signed :white_check_mark: 
 
-## 21-22a
+## [21-22a](https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf)
 
 1. Veteran’s Name :white_check_mark: 
 2. Social Security Number :white_check_mark: 
