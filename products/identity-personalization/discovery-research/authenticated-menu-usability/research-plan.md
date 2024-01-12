@@ -27,22 +27,19 @@ The research applies at any stage from Starting Up through Aging, since it inves
 ### Research questions
 1. Does the new menu design introduce any usability hurdles, particularly on mobile?
 2. What do Veterans expect to see under a logged-in user menu?
-3. Do the links we're proposing for the authenciated menu make sense to Veterans?
-4. How we can differentiate our logged-in user menu item from the non-personalized items on mobile?
+3. Does the new link we're proposing for the authenticated menu make sense to Veterans?
+4. How we can differentiate our logged-in user as a personalized menu on mobile?
 
 ### Hypothesis
-1. When describing expectations for a user menu:
-   - Profile will be a mentioned consistently. 
-   - No one will specifically mention “My VA” by name, but will describe some kind of comprehensive dashboard.
-   - The rest of the items metioned will be varied and highly specific to the person’s experience with VA. 
-3. The authenticated menu will be easy for people to find when their name is in the header.
-4. People will initially struggle to find their authenticated menu when it’s collapsed under the main menu, but will easily understand what it is once they see their name.
-5. In the prototype, people will understand what the links in their authenticated menu point to.
+1. The authenticated menu will be easy for people to find when their name is in the header.
+2. People will initially struggle to find their authenticated menu when it’s collapsed under, but will easily understand what it is once they see their name.
+3. In the prototype, people will understand what the links in their authenticated menu point to.
+4. When describing expectations for their VA.gov user menu, people will:
+   - consistently mention profile. 
+   - mention a variety of other links that are highly specific to the person’s experience with VA. 
 
 ## Methodology	
-We’ll conduct a remote interview consisting of two parts:
-1. A simple co-design exercise where we ask participants to create their ideal authenticated menu, with the goal of understanding their expectations without priming them.
-2. A usability test to evaluate the effectiveness of the proposed standardized header design.
+We’ll conduct a remote usability test to evaluate the effectiveness of the proposed standardized header design.
 
 ### Location
 The sessions will be conducted remotely via Zoom.
