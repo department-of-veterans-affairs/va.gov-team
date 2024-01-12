@@ -80,4 +80,4 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
     * One participant, who liked their local VA facility, was confident that VA would follow up if something was confusing or missing from their claim—a strong contrast to the feelings of other participants. 
     * “I was able to fill out what I thought was the right information, with the assumption that if I've done something the VA doesn't understand I will be contacted for more information.” -P6
 * Veterans who have filed previously online or paper found filing easier than in previous experiences.
-    *“Quite frankly, my experience with VA in the past has been pretty cumbersome and many times ungood. This was much easier. So thank you for your work on this.” P6
+    * “Quite frankly, my experience with VA in the past has been pretty cumbersome and many times ungood. This was much easier. So thank you for your work on this.” P6
