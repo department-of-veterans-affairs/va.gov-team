@@ -98,3 +98,21 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Review content throughout the form to ensure plain language, add helper text and examples where possible, and explain how information is used by VA. Start with sensitive questions such as POW, terminally ill, and homeless. 
 * Good content hinges on good communication between designers and the business lines. Continue to collaborate closely with VBA and look for opportunities to engage claims processors directly. 
 
+**Finding #3**
+**Form navigation does not allow participants to move easily around the form, making it harder to review their work and set expectations.**
+* Participants are unable to preview what comes next in the form or continue past required fields, making it difficult to know if they’re entering information in the best place, or anticipate how much work still remains. 
+    * “If I had this in paper, I'd read the whole questionnaire. I'd look ahead to see what the next question was… Here I just have to have faith in the back button that it's not going to take me back too far.” P21 after expressing uncertainty about how to respond to a question.
+* Throughout the form, P11 used the browser rather than form navigation to move backward. When asked why, they stated, “I trust the browser more than I trust the website.”
+* After submission, P6 identified a mistake in their claim but didn’t pursue a correction. 
+    * “My name is actually [name] Junior. My father is also [name] and he's retired from the military also. I don't know if that would cause a problem… I have no idea [how to fix it]. I’d have to go back, look at the form, see if a Junior could be added.” P6
+* There is a heavier emotional cost of going back when the Veteran is sharing information about traumatic events—especially in the PTSD flow. After realizing they may have entered something in the wrong section, P21 considered going back to change their response but then decided against it. 
+    * “No, I’m not going to go back because I don't want to reread [the description of the event]." -P21
+
+**Finding #3 Recommendations**
+* Help Veterans navigate and anticipate
+    * Explore an alternative navigation structure that doesn’t rely on the back button, such as replacing the “stepper” with an indexed sidebar navigation that shows what’s complete and what’s missing.  
+    * Offer task lists so that Veterans can create their own time estimates based on their situation.
+    * Look beyond the introduction and review pages for ways to set expectations. Important content should be delivered “just in time” at each step throughout the form. 
+* Make it easy to make corrections
+    * Evaluate the message that tells Veterans their application has been saved to see if it could be more prominent. 
+    * Build on the summary pages to provide opportunities to review and edit throughout the form, not just at the end.
