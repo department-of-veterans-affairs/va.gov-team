@@ -43,7 +43,7 @@ What I *hope to do today* is to get your feedback on something new that we're wo
 
 What *I don't want to do* is add to any frustration you may have had with getting benefits from the VA. We may talk about things that have caused you frustration, and I want you to know up front that I cannot make that better for you right now. I do not have access to your records, nor do I have any contact with claims reviewers. But I'd like to understand your frustrations because they can help me advocate for improvements to the process in the future.
 
-I have a colleague with us in this session who will be taking notes. *[Laura/CAIA person]* is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session.
+I have a colleague with us in this session who will be taking notes. *[Laura/CAIA person]* is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. 
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker.
@@ -160,15 +160,21 @@ Let’s start with a few questions...
 
 1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
+    - What operating system? *(macOS / Windows / iOS / Android / _______)*
+
+1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
 
 1. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
     - *(If **Dophin** screen reader, won't be able to share screen on Zoom)*
 
 1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
 
-1. How long have you been using a screen *(screen reader / magnifier)*?
+1. How long have you been using a screen *(reader / magnifier)*?
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or *(for smartphone only)* my colleague could text it to you. *(RECORD)* 
+1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
+    - If not, we can help you do that.
+
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
 1. What VA benefits, if any, do you have experience with? 
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / __________*
@@ -189,13 +195,23 @@ I would like you to share your screen with me so that I can see what you do duri
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 20 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
+We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
+
+1. Make sure that the Zoom application has focus
+
+1. Navigate to the screen share button
+
+1. Check off the "share sound" checkbox (so we can hear their screen reader speaking)
+
+1. Activate the screen share
+
 ### Task 1: [Open prototype] 
 I'd like you to check out a web page that I'm going to share with you. 
 
 *Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
 
-I will *[text/dictate/put into the Zoom chat]* the URL: ***TBD***
-- *(If text)* Could the notetaker please text the link?
+I will *[email/text/dictate/put into the Zoom chat]* the URL: ***TBD***
+- *(If text or email)* Could the notetaker please text/email the link?
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
 
@@ -219,6 +235,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 - Official government website?
 - From the VA?
 - Footer
+- Readability
 
 *If participant needs prompting:*
 - Please check out the *entire* web page. You can scroll all the way down to the bottom.
