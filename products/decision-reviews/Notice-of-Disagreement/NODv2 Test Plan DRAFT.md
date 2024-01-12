@@ -22,4 +22,4 @@ OS Version:
 Browsers:
 
 ## Entry Criteria
- -[ ] Test documentation ready
+- Test documentation ready
