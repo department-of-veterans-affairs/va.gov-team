@@ -87,7 +87,8 @@ As a user, I want to be able to:
 Forms in contact info use the [VA Form Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-form-config-options)
 
 ## Design and UX
-- [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Desktop](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A787&mode=design&t=UiWIZDzH64ulByY7-1) 
+- [Mobile/user flow](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A1&mode=design&t=UiWIZDzH64ulByY7-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/use-cases)
 
 ### Flow diagrams
