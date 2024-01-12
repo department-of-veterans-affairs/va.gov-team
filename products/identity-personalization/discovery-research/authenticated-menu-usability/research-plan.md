@@ -4,7 +4,7 @@
 
 VA.gov is piloting a new design for a standard header later this year, which includes a significant change to the placement of the authenticated menu on mobile: instead of the authenticated menu labeled with the user's name appearing in the upper-right corner of the screen, it will now be nested under a general “Menu” button which reveals the complete site navigation. 
 
-This new design coincides with continued expansion work our team is planning for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We want to explore how we can further increase engagement and improve Veteran’s access their most important tasks.
+This new design coincides with continued expansion work our team is planning for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We want to explore how we can further increase engagement and improve Veteran’s access to their most important tasks.
 
 - [Standardized header/footer product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/README.md)
 - [Authenticated menu product brief](%5B%EF%BF%BC%5D%28https%3A//github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/README.md%29)
