@@ -28,13 +28,13 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
    3. Sections are expanded with editing and option to save
 7. **Download page (pages are the same for both unauth/auth)**
 
-## Post-MVP
+## Future Iteration
 
 1. Submission of 21-22/21-22a
     1. Requires signatures
     2. Investigate/address signature errors
     3. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
-    4. Identify how the insurance field impacts Power of Attorney 
+    5. Identify how the insurance field impacts Power of Attorney 
 1. Notifications
     1. Representative approved request
     1. Representative rejected request
@@ -42,3 +42,5 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
 1. Manage rep (can the vet cancel an existing rep)
 2. Satisfaction survey to assess the user perceptions of our product experience
 3. Consider how we might support situations where multiple representatives are assigned (Claim PoA vs. Claimant PoA)
+4. Consider showing an error state if the user is deceased, incompetent, or has a fiduciary appointed
+
