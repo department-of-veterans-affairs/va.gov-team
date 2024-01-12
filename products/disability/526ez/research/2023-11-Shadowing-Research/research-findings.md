@@ -69,7 +69,7 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Many Veterans expected the researcher to help them file—not just observe the experience. For future work, we will make sure our recruitment language sets clear expectations. 
 
 ## Thematic Findings
-**Finding #1**
+## Finding #1<a id="key-findings"></a> 
 **Participant’s existing level of trust in VA informed how they reacted to uncertainty throughout the filing experience.**
 * Some participants view unclear language or usability issues as further proof of VA’s malintent.
     * “There is built-in ambiguity… because of the necessary precision they’ve mandated in the past… If you don't put exactly what they want it is probably a mechanism they can use to reject your claim.” -P11
