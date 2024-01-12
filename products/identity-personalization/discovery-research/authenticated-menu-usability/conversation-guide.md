@@ -3,8 +3,8 @@
 ## Moderator logistics
 - [ ] Update participants name in prototype
 - [ ] Post in #feedback-backchannel 
-- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) 
-- [ ] Check [screensharing setup] and share permissions for participants.
+- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] Check your [screensharing setup] and share permissions for participants.
 
 ## Intro - 3 minutes
 
@@ -40,43 +40,11 @@ Before we look at anything, I’d like to learn a little more about your experie
 
 1. According to my notes, you have [benefits from VA]. Is that correct?
 2. Do you ever log into any VA websites? 
-   - *If yes*: Which website? tell me about how you use that once you’re logged in.
+   - *If yes*: Which website? Tell me about how you use that once you’re logged in.
    - *If no*:  What websites do you sign into? How do you use those websites?
    - *Moderator goal:* gather background info that might be helpful later in the session
 
-## First Task: Design authenticated menu - 10 minutes
-
-Now we’re going to do a quick exercise to help me understand what would be most helpful to get you to where you need to go when you’re logged in.  
-
-### For sighted participants: 
-I’ve set up a bare bones digital drawing of a VA webpage ([mural link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704919248748/7c3f93534f193882990dbdb152b902b2755dc176?sender=ub868d471cfdb1c56cc0b4512)), which I’m going to show you via a screen share.
-
-*Start screen sharing*
-
-Can you see my screen? Great.  I want to build a menu with you that will help you get to the things you expect when you’re logged into VA.gov.  Do you see your name on the page? What should be in that box below it?
-
-*Work with participant to elicit expectations for their logged in menu. Once finished asked:*
-
-What would you call this kind of menu?
-What other links would you expect to see in the navigation of VA.gov when you are signed in?
-
-### For non-sighted participants:
-I want to talk to you about a menu that will help you get to the things you expect when you’re logged into a site.  Have you encountered scenarios before on websites where you click on your name and a menu appears?  
-
-What would you call that menu?  Let’s build one for you for a VA.gov
-
-*Work with participant to elicit expectations for their logged in menu. Once finished asked:*
-
-What other links would you expect to see in the navigation of VA.gov when you are signed in?
-
-### Things to watch for:
-
-- What does the participant put in their authenticated menu?
-- What do they call their menu?
-- What else do they expect from navigation options when logged in?
-## Second Task: Navigate to profile - 5 minutes
-
-Thanks so much for going through that.  I’m going to stop screen sharing. 
+## First Task: Navigate to view disability rating - 5 minutes
 
 Now I’d like to get your feedback on a prototype and have you share your screen. Do you know how to share your screen in zoom?
 
@@ -89,41 +57,75 @@ TK: Prototype link
 
 Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you. 
 
-Let’s imagine you need to update the address on file with VA. Show me how you’d do that from here.
+Ok, first, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
 
-*Expectation is user will sign in and be taken to the My VA page. We will remove the profile link in My VA in the prototype. From there, they will attempt to navigate to profile. May need to guide user to click on auth menu / name to get there.*
+***Goal: get participant to View Disability Rating page***
 
-How was that experience for you? How did it line up with what you expected?
-
-### Things to watch for:
-
-- How easily does the participant understand how to log in and navigate to the profile?
-- Were any usability hurdles encountered?
-
-## Third Task: Navigate to disability rating - 3 minutes
-
-Next, I’d like for you to show me how you’d navigate to view your disability rating. 
-
-*Expectation is user will try to use a menu to navigate. May need to guide user to click on auth menu / name.*
-
-How was that experience for you? How did it line up with what you expected?
+*Once participant has found it, ask:*
+- How was that experience for you?
+- How did it line up with what you expected?
 
 ### Things to watch for:
 
-- Did the participant initially try to use the general or auth menu? 
-- Did the participant understand how to get back to their auth menu?
+- Did the participant expect to have to log in?
+- How easily does the participant understand how to log in?
+- What path did the participant take to get to the disability rating page? Auth menu, main menu, search, etc?
 - Were any usability hurdles encountered?
+
+## Second Task: Navigate to letters - 3 minutes
+
+Next, I’d like for you to imagine you’re applying for a VA loan, and you need a document to prove you’re a veteran.  Show me how you’d find that kind of document using this prototype.
+
+***Goal: get participant to Letters page***
+
+*Once participant has found it, ask:*
+- How was that experience for you?
+- How did it line up with what you expected?
+
+### Things to watch for:
+
+- What path did the participant take to get to the letters page? Auth menu, main menu, search, etc?
+- If they used the auth menu previously, how easily were they able to get back to it?
+- Were any usability hurdles encountered?
+
+## Third Task: Navigate to profile - 3 minutes
+
+As a last task, I’d like for you to show me where you would go to update your phone number on file with VA.
+
+***Goal: get participant to Profile hub page. There is not an actual page for updating phone numbers, but the contact information link will click to a dummy page.***
+
+*Once participant has landed on dummy page*
+Ok, thank you! We didn’t set this page up but it was helpful to see how you’d go about getting here.
+
+- How was that experience for you?
+- How did it line up with what you expected?
+
+### Things to watch for:
+
+- What path did the participant take to get to the profile page? Auth menu, main menu, search, etc?
+- If they used the auth menu previously, how easily were they able to get back to it?
+- Were any usability hurdles encountered?
+
+## Fourth Task (as needed) : Review authenticated menu - 3 minutes
+**Note: this task is only for participants who didn’t use their auth menu at all during the session**
+I’d like for you to check out one part of the prototype we haven’t looked at yet.
+*On desktop:* Did you notice your name in the heading of the website?
+*One mobile:* Can you click on the menu button please? Had you noticed your name here before?
+
+- What do you think will happen if you click on it?
+- Go ahead and click on it. What are your thoughts about what happened when you clicked?
 
 ## Post-Task Interview - 10 minutes
 
-Those are all the things I wanted you to go through on the prototype. I want to get your thoughts on a few more things before we wrap up.
+Thank you so much for all that feedback! This has been really helpful. I want to get your thoughts on a few more things before we wrap up.
 
-1. Can you click on your menu again? Take a look at these links and tell me where you expect each of them to go?
-2. What’s missing from this menu in your opinion?
-3. Overall, about everything you've seen in this session...What worked *well* for you?
-4. What was *unclear or didn't work well* for you?
-5. What would you like to *change or add*?
-6. Is there anything else that we haven't talked about that you think I should know?
+1. How do the options in your user menu line up with what you expected?
+2. Where do you think each link goes?
+3. What’s missing from this menu in your opinion?
+4. Overall, about everything you've seen in this session...What worked *well* for you?
+5. What was *unclear or didn't work well* for you?
+6. What would you like to *change or add*?
+7. Is there anything else that we haven't talked about that you think I should know?
 
 ## Consent to use video clips
 
