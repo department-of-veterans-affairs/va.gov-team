@@ -128,3 +128,13 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Three participants found success locating the online form by clicking on “File a claim online” on the left navigation bar for disability benefits. 
     * P12 asked the facilitator where to find the form. They scrolled the ‘My VA’, ‘Check your claim and appeals’, and ‘Learn how to file’ pages before finding the ‘File a claim’ link to the left of the screen. 
     * We hypothesize that Veterans repeatedly read past the “Start the Disability Compensation Application” because it was buried within a page of text and not plain language. “File a claim online” was a clear directive that stood out from surrounding content. 
+
+**Image 1 here**
+
+**Navigation to the 526 and Intro Page Recommendations**
+* Increase consistency of language across entry points, and use words that tie to Veterans' expectations. Change instances of “Start an application” to “File a claim.” 
+* Increase the prominence of entry points through visual design and hierarchy on the page.
+* Explore the journey from login to filing and work across teams (such as Authenticated Experience) to reduce the number of clicks needed to find the form and assure Veterans that they're in the right place.
+
+**Wizard and Intent To File**
+
