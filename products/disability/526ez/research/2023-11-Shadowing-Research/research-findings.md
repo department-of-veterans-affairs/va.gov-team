@@ -196,7 +196,6 @@ P11 and P12 received this ITF error message when trying to start the form.
     * The form asks Veterans what caused their condition via a series of radio buttons and a text box that appears dynamically on the page. If they write a response in the text box and then change their radio button selection, their text is deleted and cannot be retrieved, as P12 experienced. 
     * “My answer might change again if the other [condition] isn't under here. Oh, it is! But it took away all my typing.” -P12
 
-
 **Finding: A participant expressed interest in additional support to identify conditions they could apply for.**
 * Veterans often learn about the claims process through word of mouth and rely on this for context around what the VA considers a service-connected disability. 
 * In other research studies, we’ve seen that Veterans sometimes use the dropdown list of conditions as another way to learn what’s possible and decide the appropriate conditions to claim (see Finding 2 and 6, Conditions List Veteran Research Findings).
@@ -220,7 +219,7 @@ Follow-up page for each new condition includes causes as radio buttons, a dropdo
 * There can be challenges for survivors of MST to obtain evidence to complete the form.
     * “I’m sorry I don’t have a more visible injury.  You have to develop a thick skin to hear that pushback from an authority figure in VA”. -P18
 
-**Image 4: PTSD Check boxes**
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%204%20PTSD.png)
 PTSD condition page includes multiple choices for the type of PTSD-related events.
 
 **Image 5 PTSD/MST Image**
