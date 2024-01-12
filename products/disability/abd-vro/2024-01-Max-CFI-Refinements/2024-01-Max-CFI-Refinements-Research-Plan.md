@@ -144,21 +144,21 @@ What criteria would strengthen your results?
 
 Fri. 1/12		Complete prototype, recruiting criteria, and conversation guide
 
-Fri. 1/12   Submit Midpoint Review request
+Fri. 1/12   Submit Midpoint Review request - Scheduled for Friday, Jan 19th at 11:30am EST.
 
-Wed. 1/17		Submit research review ticket to Shane
+Fri. 1/12		Submit research review ticket to Shane
 
-Wed. 1/17		Recruiting request to Perigean
+Fri. 1/12		Recruiting request to Perigean
 
 Wed. 1/24		Pilot test
 
-Wed. 1/31 - Tues. 2/6	Conduct testing 
+Mon. 1/29 - Fri. 2/2	Conduct testing 
 
 ## Prepare
 
 When will the thing you are testing be finalized? 
 
-Jan. 17, 2024
+Jan. 12, 2024
 
 **Pilot session information** 
 
@@ -174,6 +174,14 @@ Jan. 17, 2024
 
 **Availability**
 
+**Monday, Jan 29**
+9am - 2pm ET
+4pm - 5pm ET
+
+**Tuesday, Jan 30**
+9am - 2:30pm ET
+4pm - 5pm ET
+
 **Wednesday, Jan 31**
 9am - 5pm ET
 
@@ -184,13 +192,6 @@ Jan. 17, 2024
 9am - 2pm ET
 3pm - 5pm ET
 
-**Monday, Feb 5**
-9am - 2pm ET
-4pm - 5pm ET
-
-**Tuesday, Feb 6**
-9am - 2:30pm ET
-4pm - 5pm ET
 
 ## Team Roles
 
