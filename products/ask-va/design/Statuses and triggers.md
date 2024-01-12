@@ -18,11 +18,11 @@ The triggers will remain the same, but they might be revisited in the [future]((
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
 |`New`|We received your question. We’ll review it soon.|The systems automatically sets the status to `New` when a question is submitted.|
-|`In progress`|We're currently reviewing your question.|The system automatically sets the status to `In progress` after an agent has responded.|
-|`Closed`|We answered your question or didn't have enough information to answer your question. If you have an additional question, please submit a new question.|An agent manually changes the status to `Closed` when an inquiry: has been resolved, is a duplicate, or has insufficient details.|
+|`In progress`|We're reviewing your question.|The system automatically sets the status to `In progress` after an agent has responded.|
+|`Closed`|We either answered your question or didn't have enough information to answer your question. If you need more help, ask a new question.|An agent manually changes the status to `Closed` when an inquiry: has been resolved, is a duplicate, or has insufficient details.|
 |`Reopened`|We received your reply. We'll respond soon.|The system automatically sets the status to `Reopened` when a submitter replies to a `Closed` inquiry.|
 |`Archived`|We archived your question after 60 days.|The system automatically updates the status of `Closed` inquiries to `Archived` after 60 days of no activity.|
-|Reference number not found|We didn't find any results for "A-20230710-306466”. Try checking your reference number again to make sure it’s correct.<br><br>If you receive this message again, you can submit a new inquiry with your original question. Include your original reference number and we'll work to get your question answered.|A submitter searches for an reference number that is not found in the system.|
+|'Question not found'|We didn't find any questions with reference number "A-20230710-306466." Check your reference number and try again.<br><br>If it still doesn't work, ask the same question again and include your original reference number.|A submitter searches for an reference number that is not found in the system.|
 
 ## Future work
 
