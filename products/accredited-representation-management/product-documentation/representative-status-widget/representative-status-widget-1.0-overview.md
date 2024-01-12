@@ -11,7 +11,8 @@ The MVP will include desktop & mobile experiences
    4. Error state / system is down (show a message that the system is unavailable and to try again later)  
 2. Include widget in the profile to display selected representative (pending request with link to next steps)
 
-## Post-MVP
+## Future Iteration
 1. Link/integrate with other, related experiences
 2. Satisfaction survey to assess the user perceptions of our product experience
 3. Consider scenarios where a Veteran may have multiple representatives, each appointed to assist with different responsibilities
+4. Consider showing an error state if the user is deceased, incompetent, or has a fiduciary appointed
