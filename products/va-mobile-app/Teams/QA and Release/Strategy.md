@@ -13,3 +13,22 @@
 ## Q1 2024
 - Believe Q4 2023 plan will continue but will need to revisit based on how all the teams coordinate once all the teams are set-up and maturing
 - Discuss Bug scrub process and if any changes are needed 
+
+
+## Intent 
+- QA is empowered to make decisions that control the release and launch readiness of a project
+   - Ability to say no or require additional work
+- Be cognicant of QA work and have teams plan accordingly vs just flooding QA with work
+- Develop consistent guidlines and rules that all teams Flagship and external will follow for testing and release
+   - Not create a situation where its allowed for each team to be treated differently  - not going to work long term
+- Implement a change, learn and adapt
+   - Not waiting for the perfect answer / scenario / edge case  
+
+
+## Risk / Considerations
+- Setting up a process that may feel restrictive or delays release as new steps are needed for Flagship
+   - Examples requiring certain things to be done before QA starts their work like adding more MVP requirements means more work required before launch so assumption is launch is delayed
+   - Accept that changes won't make everyone happy but long term its for the better good (support by lead managers) 
+- Determining who owns and manage the code post release - Rachel (PO) identified and spoke of 1/9 during 3pm Quarterly Planning convo
+- Ensuring that QA is involved in early conversations on Flagship teams to help view the end to end experience given their knowledge and understanding
+- Making the process to rigid that people can't get through 
