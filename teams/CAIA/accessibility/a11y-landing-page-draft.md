@@ -12,7 +12,7 @@ Page draft starts below:
 
 # Accessibility on VA.gov
 
-`version 1.0.0` `last updated 1/9/24`
+`version 1.0.0` `last updated 1/12/24`
 
 This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
 
@@ -268,9 +268,10 @@ If you’re reviewing your product for accessibility issues, you can write your 
 
 The VA Section 508 Office validates compliance with federal law mandating accessible information and communication technology. 
 - Product teams are **required** to submit a VA 508 Office Audit Request **before launch**.
-- The Section 508 Office can also **review your documents** (PDF, DOCX) for accessibility issues.
+- The Section 508 Office can also **review your non-HTML documents** (PDF, DOCX) for accessibility issues.
+   - [Learn when and how to create accessible non-HTML documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
 
-Learn how to [request support from the VA 508 office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office).
+[Request support from the VA 508 office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office).
 
 ## Improve your skills
 <details><summary>Join a community</summary>
