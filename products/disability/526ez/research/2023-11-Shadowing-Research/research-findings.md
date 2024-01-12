@@ -487,6 +487,10 @@ Participants were recruited from various geographical locations within the Unite
 **Image 5: VA Recruitment Checker for Equality**
 Screenshot of the VA Recruitment Checker for Equality for the 526EZ Shadowing Veteran Research.
 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/VA%20Recruitment%20Checker%20for%20Equality.png)
+
+Screenshot of the VA Recruitment Checker for Equality for the 526EZ Shadowing Veteran Research.
+
 
 
 
