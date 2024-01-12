@@ -188,6 +188,7 @@ P11 and P12 received this ITF error message when trying to start the form.
 * Do further discovery on the journey for Veterans with less than honorable discharges
 
 **Step 2 Disabilities**
+
 **Finding: Usability challenges slowed Veterans down as they were adding their conditions.**
 * Currently the form only allows Veterans to select one rated disability as the cause for their secondary condition. One participant wanted to select multiple rated disabilities, but couldn’t. 
     * “It won't let me choose both things. They are both, in conjunction, contributing to the [new condition]. But I can only choose one or the other. I would expect to have a box over on the left so I could click on more than one. Maybe if I hold control I can click on more than one... no... maybe shift? No.” -P12
@@ -201,9 +202,10 @@ P11 and P12 received this ITF error message when trying to start the form.
 * In other research studies, we’ve seen that Veterans sometimes use the dropdown list of conditions as another way to learn what’s possible and decide the appropriate conditions to claim (see Finding 2 and 6, Conditions List Veteran Research Findings).
     * “What I was hoping... I thought maybe it would ask me questions and I could be like oh I qualify for this disability I didn't know about. The only way I know about [certain conditions] is by talking to other people who have filled out these forms. It would be nice if there were a place where someone could look to see what is considered a disability.” -P21
 
-**Image 3- New condition image**
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%203%20Conditions.png)
 
 Follow-up page for each new condition includes causes as radio buttons, a dropdown for rated disabilities, and a free text field for descriptions
+
 
 **Finding: The process of filing for PTSD is long and can be confusing.**
 * One participant completed the PTSD flow during observation and a second participant extensively described past experiences filing for MST. These two accounts speak to the unique and acute challenges of claiming PTSD–and validate earlier findings by VEO research.
