@@ -1,6 +1,6 @@
 # Ask VA statuses and triggers
 
-Last updated by @tygindraux: January 3, 2024
+Last updated by @laurwill: January 12, 2024
 
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
