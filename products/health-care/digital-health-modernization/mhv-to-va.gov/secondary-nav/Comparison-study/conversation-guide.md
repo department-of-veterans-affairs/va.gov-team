@@ -32,6 +32,7 @@ Thank you for joining us today! My name is _____ and _____ is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
 
 **Are you okay with a couple of additional observers during this session?**
+
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers. 
    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
@@ -76,14 +77,16 @@ Let’s start with a few questions...
       a. Frequency (How often do you login?) 
       b. For what purpose? 
    
-**Screen sharing instructions - 5-15 minutes**
+**Screen sharing instructions - 5-10 minutes**
 
 Thanks for answering those questions. I want to transition us to exploring the different sites together. First I want you to share your screen. Is that something you've done before?
 
 _Participants without screen reader:_
-- Find the zoom screen; this is a row of buttons at the bottom.
+- Find the zoom screen; there is a row of buttons at the bottom. 
 - In the center of that row is a green button that says "Share" (if viewing on phone), "Share screen" (if on computer), or "Broadcast screen" (on iPad).
 - You'll then be given options for what to share. Please choose "screen" (for phone), or your web browser (for computer)
+-  If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 _Backup plan if they cannot figure out how to share screen:_
 - I'm going to share my screen and give you control of it. Does that sound okay?
@@ -93,24 +96,35 @@ _Backup plan if they cannot figure out how to share screen:_
 _Open prototype_
 - Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser. 
  
-## Tasks for Prototype 1 (x min)
-Okay looks like you have the prototype open. I want you to start by imagining that you just received this email. Go ahead and read the email text and follow the prompt.
+## Tasks for Prototype 1 
+
+### Task 0: Messages - 5 mins 
+
+Okay looks like you have the prototype open. I want you to start by imagining that you just received this email If you want to read the message from your physician, how would you do that? 
 
 _Participant arrives on secure messaging page with message from doctor open_
 
-### Task 0: Messages
+1. Tell me about what you are seeing here.
+2. Where does it look like you've arrived?
+3. Is this what you expect? How so (or why not)?
+4. Let's say you did want to check out the images and radiology report from your x-ray. 
 
-1. Where does it look like you've arrived?
-2. Does this align with what you would expect? How so (or why not)?
-3. Now go ahead and read this message. Explain to me the meaning as you understand it.
-4. Let's say you did want to check out the images and radiology report from your xray. 
+### Things to note 
+- Is it clear that the participant arrived in the health portal?  
+- Any struggles or confusion?
 
-### Task 1: Medical records > Lab and test results > locate x-ray result for scan of left ankle
+
+### Task 1: Medical records > Lab and test results > locate x-ray result for scan of left ankle - 10 minutes 
 
 5. What would you do next to try and find the x-ray results of your left ankle?
-  - It would really help me if you could talk me through what you are thinking. 
+  - It would really help me if you could talk me through what you are thinking.
 
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_
+(_Pay attention to  Where participant clicks first and ask _) 
+- Why did you click there, and what do you expect to find there?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
+
+_Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
+
 - What are you thinking as you (_go somewhere, do something_)? 
 - (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
 - What do you think would happen if you (_do something_)?
@@ -118,10 +132,12 @@ _Optional probes - very flexible, adapt as appropriate depending on participant 
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
-### Task 2: 
+
+### Task 2: Labs and tests result > Appointments 
+
+Let's say you want to make a follow-up appointment with your doctor 
 
 
-**So, today you are going to perform some healthcare-related activities with this prototype. I will be giving you a couple of healthcare-related activities, and please use this prototype to walk me through how you'd complete the activities.** 
 
 **(Start from the signed-in MHV landing page) Before I give you the task, talk me through what you are seeing on the screen - where does it make you think you are on the site?**
 
