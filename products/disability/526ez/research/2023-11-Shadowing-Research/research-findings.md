@@ -70,7 +70,7 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 
 ## Thematic Findings
 **Finding #1**
-**Participant’s existing level of trust in VA informed how they reacted to uncertainty throughout the filing experience. **
+**Participant’s existing level of trust in VA informed how they reacted to uncertainty throughout the filing experience.**
 * Some participants view unclear language or usability issues as further proof of VA’s malintent.
     * “There is built-in ambiguity… because of the necessary precision they’ve mandated in the past… If you don't put exactly what they want it is probably a mechanism they can use to reject your claim.” -P11
 * Other participants—especially those claiming for MST—doubt that VA will be able to retrieve evidence and fairly evaluate complex claims. 
