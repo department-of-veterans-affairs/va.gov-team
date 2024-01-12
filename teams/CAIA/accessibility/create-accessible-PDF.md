@@ -51,15 +51,18 @@ In these cases, consider using Word documents. According to the [2021 WebAIM Scr
 
 ## Make accessible source documents to convert to PDF
 
-If, after considering alternatives, you still need to publish a PDF, you first need to ensure that the **source document** - the Word, Powerpoint, InDesign, or Excel file you're exporting to PDF - is as accessible as possible.
+If, after considering alternatives, you still need to publish a PDF, you will need to ensure that the source document - the Word, Powerpoint, InDesign, or Excel file you're exporting to PDF - is as accessible as possible.
 
-To do this, you'll need to create a document where the structure is understandable by all users, not just sighted users. Similar to creating an HTML web page, you need to create a semantically sound document: 
-- Use heading styles - don't only manually increase text size to indicate headings
-- Use true ordered / unordered lists - don't manually indent and add bullets
-- Add alt text to images
-- Write descriptive links
-- Consider focus order (where applicable)
-- Add appropriate metadata
+### How to create a semantically sound document
+
+To do this, you'll need to create a document where the structure is understandable by all users, not just sighted users. Similar to creating an HTML web page, you need to create a semantically sound document:
+
+- Use [heading styles](https://www.w3.org/WAI/WCAG22/quickref/#section-headings) - don't indicate headings by text size increase alone
+- Use [true ordered / unordered lists](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF21.html) - don't manually indent and add bullets
+- Add [alt text](https://www.w3.org/TR/UNDERSTANDING-WCAG20/text-equiv-all.html) to images
+- Write [descriptive links](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context)
+- Consider [focus order](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html) (where applicable)
+- Add [appropriate metadata](https://commonlook.com/the-relevance-of-metadata-in-accessible-pdfs/)
 
 Use the following resources to create accessible source documents:
 
