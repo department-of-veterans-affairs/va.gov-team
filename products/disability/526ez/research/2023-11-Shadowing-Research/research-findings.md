@@ -147,6 +147,7 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
     * P12 is confused by the implications of the ITF error. “[The error] says I have to do an Intent to File, but I didn't say I wanted to do an Intent to File, I wanted to start an application … So because I have an Intent to File, does that mean I have to file from the Intent to File, I can't start a new claim? I think [the ITF] was from my last condition ... that's what I never got responses to. I would think it would let me start a new claim rather than start a new claim based on my Intent to File because I don't even remember what this Intent to File, it may have been for [past condition].” -P12
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%202%20ITF.png)
+
 P11 and P12 received this ITF error message when trying to start the form.
 
 * Participant attempts to get past the error were largely unsuccessful. As far as we know from previous technical discovery, this error is not solvable by the Veteran and just requires some time to pass for the ITF system to recover—but this is not communicated to Veterans.
