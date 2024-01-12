@@ -42,10 +42,10 @@ This research will inform us on how Veterans use different navigation designs to
 We will conduct remote interviews with Zoom. The interviews will consist of a combination of tasks and direct questions. 
 
 ### Research materials
-[Conversation Guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md))
-[Mural showing prototype flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703733197192/681451fa506f1df2e76079a7b8fa491984a37a10?sender=ua13e567cb5c4221acaa14949)
-CodePen desktop prototypes (in progress)
-CodePen mobile prototypes (in progress)
+- [Conversation Guide]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md))
+- [Mural showing prototype flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703733197192/681451fa506f1df2e76079a7b8fa491984a37a10?sender=ua13e567cb5c4221acaa14949)
+- CodePen desktop prototypes (in progress)
+- CodePen mobile prototypes (in progress)
 
 ## Recruitment
 ### Recruitment approach
