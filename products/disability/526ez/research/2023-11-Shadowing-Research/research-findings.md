@@ -70,3 +70,14 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 
 ## Thematic Findings
 **Finding #1**
+**Participant’s existing level of trust in VA informed how they reacted to uncertainty throughout the filing experience. **
+* Some participants view unclear language or usability issues as further proof of VA’s malintent.
+    * “There is built-in ambiguity… because of the necessary precision they’ve mandated in the past… If you don't put exactly what they want it is probably a mechanism they can use to reject your claim.” -P11
+* Other participants—especially those claiming for MST—doubt that VA will be able to retrieve evidence and fairly evaluate complex claims. 
+    * “I personally have no faith. To be totally honest, I might not get any benefits because it was so long ago … I don't think that we as older Veterans have faith in the VA system and being able to provide the evidence we need.” -P21
+    * “When you think you have enough information to support a complex claim, get more. Save everything you send to the VA and vice versa.” -P18
+* Conversely, participants who have had good outcomes with VA in the past might have an easier time completing the form by assuming goodwill. 
+    * One participant, who liked their local VA facility, was confident that VA would follow up if something was confusing or missing from their claim—a strong contrast to the feelings of other participants. 
+    * “I was able to fill out what I thought was the right information, with the assumption that if I've done something the VA doesn't understand I will be contacted for more information.” -P6
+* Veterans who have filed previously online or paper found filing easier than in previous experiences.
+    *“Quite frankly, my experience with VA in the past has been pretty cumbersome and many times ungood. This was much easier. So thank you for your work on this.” P6
