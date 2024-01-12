@@ -87,7 +87,8 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 **Finding #1 Recommendations**
 * The best way to rebuild trust is to continue improving the filing experience, which will gradually increase Veteran confidence in VA's ability to execute complex tasks quickly and transparently.
 
-**Finding #2**
+### Finding #2<a id="finding"></a>
+
 **Questions designed to connect Veterans with more or better services were confusing and unhelpful to some participants.**
 * Some Veterans do not understand why VA is collecting or using sensitive data about homelessness and POW. This uncertainty reinforces distrust.   
     * “Have you ever been a POW? What difference does it make? Don't you have my records? Can't you figure that out? … What difference does it make if I'm homeless or terminally ill? That shouldn't be a part of a disability claim. It's more bureaucracy.” -P11
@@ -100,7 +101,8 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 * Review content throughout the form to ensure plain language, add helper text and examples where possible, and explain how information is used by VA. Start with sensitive questions such as POW, terminally ill, and homeless. 
 * Good content hinges on good communication between designers and the business lines. Continue to collaborate closely with VBA and look for opportunities to engage claims processors directly. 
 
-**Finding #3**
+### Finding #3<a id="finding"></a>
+
 **Form navigation does not allow participants to move easily around the form, making it harder to review their work and set expectations.**
 * Participants are unable to preview what comes next in the form or continue past required fields, making it difficult to know if they’re entering information in the best place, or anticipate how much work still remains. 
     * “If I had this in paper, I'd read the whole questionnaire. I'd look ahead to see what the next question was… Here I just have to have faith in the back button that it's not going to take me back too far.” P21 after expressing uncertainty about how to respond to a question.
