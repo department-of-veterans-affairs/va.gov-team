@@ -74,7 +74,7 @@ Ok, first, I’d like for you to show me how you’d use this prototype to see w
 
 ## Task 2: Navigate to letters - 3 minutes
 
-Next, I’d like for you to imagine you’re applying for a VA loan, and you need a document to prove you’re a veteran.  Show me how you’d find that kind of document using this prototype.
+Next, I’d like for you to imagine you need to document that shows a summary of the benefits you get from VA.  Show me how you’d find that kind of document using this prototype.
 
 ***Goal: get participant to Letters page***
 
