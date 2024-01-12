@@ -96,9 +96,9 @@ Planned dates of research (all in eastern time):
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Alternating Moderators: Florence McCafferty (kathryn.mccafferty@va.gov), Jonathan Nelson, Sara Sterkenberg (
+- Alternating Moderators: Florence McCafferty (kathryn.mccafferty@va.gov), Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenberg (sara.sterkenburg@va.gov)
 - Participant recruiting & screening: Perigean
-- Project point of contact: Kaitlin Fink , Wes Rowe
+- Project point of contact: Kaitlin Fink (kaitlin.fink@va.gov), Wes Rowe (wesley.rowe@va.gov)
 - Participants for the pilot test: TBD
-- Note-takers: 
-- Observers to attend as they wish: Kaitlin Fink, Wes Rowe, Patrick Bateman, Keith Cheung, and others
+- Note-takers: Florence McCafferty (kathryn.mccafferty@va.gov), Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenberg (sara.sterkenburg@va.gov)
+- Observers to attend as they wish: Kaitlin Fink (kaitlin.fink@va.gov), Wes Rowe (wesley.rowe@va.gov), Patrick Bateman (patrick.bateman@va.gov), Keith Cheung (waikit.cheung@va.gov), and others
