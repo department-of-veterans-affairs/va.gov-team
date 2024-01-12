@@ -36,7 +36,12 @@ Your markup doesn't need to be perfect, but it does need to be accessible.
 ## When to consider using non-HTML documents
 ___This section adapted from PopeTech's [PDFs, non-HTML documents, and accessibility](https://blog.pope.tech/2022/05/03/pdfs-non-html-documents-and-accessibility/)___
 
-Non-HTML documents - Excel, Powerpoint, Word, PDF - have limited use cases on the web, including:
+Non-HTML documents include files created in: 
+- Microsoft Excel, PowerPoint, and Word
+- Adobe Acrobat Pro/DC and InDesign
+- Google Docs, Google Slides, and Sheets 
+
+These documents limited use cases on the web, including:
 
 - When the format needs to be exact, like a floor plan.
 - Content that needs to be saved offline.
