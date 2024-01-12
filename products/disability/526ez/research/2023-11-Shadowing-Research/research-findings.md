@@ -129,7 +129,7 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
     * P12 asked the facilitator where to find the form. They scrolled the ‘My VA’, ‘Check your claim and appeals’, and ‘Learn how to file’ pages before finding the ‘File a claim’ link to the left of the screen. 
     * We hypothesize that Veterans repeatedly read past the “Start the Disability Compensation Application” because it was buried within a page of text and not plain language. “File a claim online” was a clear directive that stood out from surrounding content. 
 
-**Image 1 here**
+**Image 1: Introduct Pages here**
 
 **Navigation to the 526 and Intro Page Recommendations**
 * Increase consistency of language across entry points, and use words that tie to Veterans' expectations. Change instances of “Start an application” to “File a claim.” 
@@ -146,4 +146,22 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
     * “Maybe if I go get the additional form, I won't get the error message-- maybe there is something precursor I should've done. Like maybe I need that [supporting form]” -P11
     * P12 is confused by the implications of the ITF error. “[The error] says I have to do an Intent to File, but I didn't say I wanted to do an Intent to File, I wanted to start an application … So because I have an Intent to File, does that mean I have to file from the Intent to File, I can't start a new claim? I think [the ITF] was from my last condition ... that's what I never got responses to. I would think it would let me start a new claim rather than start a new claim based on my Intent to File because I don't even remember what this Intent to File, it may have been for [past condition].” -P12
 
+**Image 2- ITF Here**
+P11 and P12 received this ITF error message when trying to start the form.
+
+* Participant attempts to get past the error were largely unsuccessful. As far as we know from previous technical discovery, this error is not solvable by the Veteran and just requires some time to pass for the ITF system to recover—but this is not communicated to Veterans.
+    * Three participants immediately hit the back button upon receiving the error. One participant was able to reload the page with a generated ITF. 
+    * At the facilitator’s recommendation, two participants tried changing their browsers to get past the error. One Veteran who switched to Chrome was able to generate the ITF.
+ 
+**Finding: When faced with an error that blocked their progress, participants rarely expressed interest in seeking help from the Contact Center.**
+
+* P11 called before and got “nothing… recordings, leave a message, no response.” 
+* “I would wait and try again later. I don’t want to call…I don’t like dealing with the VA over the phone” -P7
+* P10 makes plans to call and visit their regional VA location. “I'll call first and then if I have to schedule to take off work and set up to talk to a case manager…If I end this meeting now, unless they close at 4, I'll try to talk to someone today.” 
+* Only one participant considered calling the Contact Center for information but didn’t want to do it during the observation. “I’ve called the 1-800 for a few small things and they were very helpful.” -P3
+
+**Wizard and Intent To File Recommendations **
+* Allow participants to continue to file even if the ITF system is down (Team 2 has started this work, see open tickets).
+* Rethink how we introduce the concept of ITF to clarify how it relates to past claims and conditions.
+* Reinforce understanding of ITF by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
 
