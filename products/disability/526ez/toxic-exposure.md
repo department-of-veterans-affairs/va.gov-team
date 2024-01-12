@@ -161,8 +161,33 @@ Our understanding is that 99% of time, the service records are discoverable by l
 -Y/N question about whether they served in a list of locations, follow up screen shows no locations, just a date entry. In testing found this to be unhelpful/confusing to veterans who wanted to see the list they were referring to in front of them in order to think about the dates screen. 
 
 
+
 <img width="166" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b396436f-e8c5-471e-a047-12aabbda3417">
 
  -All locations and dates entered on one screen 
 
+### Content updates from CAIA
+
+Referred to [this feedback document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox) to implement copy changes for MVP 
+
+#### Changed 
+**This**: "Are any of your new conditions related to toxic exposure during your military service? Check any that are related." <br>
+**To**: Are any of your conditions related to toxic exposure during your military service? Check any that are related.<br>
+**Context**: 
+CAIA wants to avoid using "apply" in this way across va.gov because we often talk about applying for benefits, so just want to limit using the word "apply" to that use case.
+<br>
+
+**Per sync with caia** we suggest leaving the "Not sure" option in the list. Recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
+<br>
+
+### Summary Page
+The design system doesn't currently have a pattern for showing a summary of information within a form flow apart from the summary of all the information a user has entered in the form, which shows right before form submission.
+<br>
+We want to avoid tables for accessibility reasons.  
+<br>
+After discussing with Beth Potts, we think we should try presenting this information as a list with these modifications: 
+<br>
+- Keep the bullets. Remove the colon after the locations/types of toxic exposures <br>
+- bold the locations &amp; types of toxic exposures<br>
+- We're recommending a change from "Not sure" in this section to "I'm not sure" (which is more conversational), so the instances of "not sure" and "not sure of dates" on this screen would become "I'm not sure" and "I'm not sure of the dates," respectively.
 …
