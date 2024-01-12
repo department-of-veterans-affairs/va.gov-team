@@ -1,5 +1,5 @@
 # How to create an accessible PDF (WIP)
-Sarah Koosman and Jamie Klenetsky Fay, CAIA 
+Sarah Koomson and Jamie Klenetsky Fay, CAIA 
 `last updated 1/12/24`
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
@@ -74,9 +74,8 @@ If you’re a designer, check how to make sure your InDesign documents output ac
 
 [Reference this document](https://www.doi.gov/sites/doi.gov/files/uploads/may_2019_section_508_compliance_event_-_indesign_accessibility.pdf) to check for the following:
 
-|                              |                                                                                                                                                            |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Criteria                     | Check                                                                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Logical reading order        | Check the exported document with Adobe Acrobat and at least one screen reader. Ensure navigation works with mouse and keyboard as a minimum.               |
 | Color contrast               | All text elements meet at least a color contrast ratio of 4.5:1.                                                                                           |
 | Alt-text for images          | All images have alt-text, or have been removed from the flow of the document.                                                                              |
