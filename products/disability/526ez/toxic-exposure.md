@@ -103,10 +103,66 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 </li>
 <li>   CAIA rec: We suggest leaving the "Not sure" option in the list, but recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
 </li>
-   <li> Larger scope: Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
-<li> Larger scope: Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
+   <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
+<li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
 <li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
 The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. </li>
 </ul>
+
+
+
+
+
+### Page titles
+
+#### Current approach
+
+The current approach is to have each page in the TE flow have it’s own unique page title. This will help many assistive tech users use headings to navigate, and indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country] @Christine Cereca noted it’s good to avoid building sentence structure like this for consideration of page translation in other languages. 
+
+<img width="1109" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/6cbaff6e-dc11-403d-a466-e9858d8f8256">
+
+#### Previous versions
+
+The [condition name] (for example, "Toxic exposure"), is repeated as a header (presumably an H3?) across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. Flagged by CAIA
+
+<img width="965" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b17e4289-9f92-42b8-b749-9be8b6b620af">
+
+
+
+
+
+### Dates on locations pages
+
+#### Current approach
+
+Have location pages follow the same pattern as hazards.
+So, the user checks which locations apply to them, and we provide the opportunity to give a single time frame per country.
+Why:
+For our midpoint solution, providing only a date range does not add value to the VSR and we haven't tested any approximation of that screen design (two tasks, lots of content, ambiguity on providing date).
+Full-blown solution: While we expect this solution to add many screens, we think they are likely to be the least confusing overall, and we do have test data that backs this up. We want to amp up the optional message to help people who have a complex service history get through these more easily. Metrics would give us a clear picture on whether we need to walk it back, which could help with discussions with all of our stakeholders. Clearest value to VSRs.
+
+<img width="1108" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/4aa47a6b-ce4d-4ebb-9014-26a468b25bba">
+
+
+#### Rationale
+
+Our understanding is that 99% of time, the service records are discoverable by looking up the service history of the veteran. However, this time period helps identify one of the many records they may have and help reduce the time it may take a VSR to verify the service connection. There is about 1% chance that the record does not come up and needs more investigation. This time period is expected to help direct that investigation.
+
+#### Other Approaches considered
+
+<img width="532" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/afc742b0-9ffd-42da-8417-5e1d6c7c4e2b">
+
+-Multiple locations selected, one screen for dates entry 
+
+
+
+<img width="642" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/cef72767-6e42-409a-bd9c-ed71817131c2">
+
+-Y/N question about whether they served in a list of locations, follow up screen shows no locations, just a date entry. In testing found this to be unhelpful/confusing to veterans who wanted to see the list they were referring to in front of them in order to think about the dates screen. 
+
+
+<img width="166" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b396436f-e8c5-471e-a047-12aabbda3417">
+
+ -All locations and dates entered on one screen 
 
 …
