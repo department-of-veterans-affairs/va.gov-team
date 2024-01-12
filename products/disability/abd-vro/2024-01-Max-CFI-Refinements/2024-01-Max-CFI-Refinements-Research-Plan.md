@@ -1,52 +1,65 @@
-Research Plan for the Employee Experience Team, Maximum CFIs Refinements, Dec 26th, 2023
-Background
+# Research Plan for the Employee Experience Team, Maximum CFIs Refinements, Dec 26th, 2023
+
+**Background**
+
 The VA receives many claims for increase (CFIs) for conditions where a Veteran is already at the maximum rating for that condition. In most cases, the condition will be “confirmed and continued” by a claims processor. We’d like to reduce the amount of time claims processors spend on these contentions by reducing the number of claims for increase Veterans file in this situation.
 
 This research will test refinements to the design that has been shaped with two prior rounds of qualitative testing plus an ongoing A/B test in production. The prototypes we’ll test in this round will focus on the Rated Disabilities screen within the online 526 application, where our current A/B intervention exists.
 
 The designs in this round will focus on:
-Strengthening the visibility and persuasiveness of the max rating notification.
-Making educational content available to help Veterans understand their max rating situation and options.
-Product Brief
-OCTO Priorities and Veteran Journey
-This work supports OCTO Priority 7: Fast-track disability claims, starting with PACT Act claims, and it fits into the Veteran Journey in the Living Civilian Life phase. It’s related to the Moment That Matters called “Managing primary care and chronic health issues.” 
-Research Goals
-Assess usability of the refined design, especially for people who use assistive technology
-Determine which of two different designs is more effective for presenting education content around maximum standard ratings. 
-Assess how well the explanatory content works for Veterans.
-Outcome
+- Strengthening the visibility and persuasiveness of the max rating notification.
+- Making educational content available to help Veterans understand their max rating situation and options.
+
+[Product Brief](https://docs.google.com/document/d/11-L6dbZ7Hah-e2PL3-nfcN5c5T8uAbn3EumLikrEhV4/edit#heading=h.t9sdhyubj1c1)
+
+**OCTO Priorities and Veteran Journey**
+This work supports [OCTO Priority 7:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) Fast-track disability claims, starting with PACT Act claims, and it fits into the [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) in the Living Civilian Life phase. It’s related to the Moment That Matters called “Managing primary care and chronic health issues.” 
+
+## Research Goals
+- Assess usability of the refined design, especially for people who use assistive technology
+- Determine which of two different designs is more effective for presenting education content around maximum standard ratings. 
+- Assess how well the explanatory content works for Veterans.
+
+**Outcome**
 Accessibility assessment: 
-Identify needed changes
+- Identify needed changes
+
 Explanatory content:
-Decide how to display the explanatory content
-Identify shortcomings in the content\
-Research questions
-Goal 1: Assess usability of the refined design, especially for people who use assistive technology
-Are users able to successfully complete the basic task of selecting checkboxes and then selecting Continue?
-Does the placement of the link/accordion hinder the basic task?
-Do people using AT have any other difficulties on the screens?
-Goal 2: Determine which of two different designs is more effective for presenting education content around maximum standard ratings.
-Do people notice the link or accordion?
-Do they click on it without prompting?
-With the accordion, do they notice both headings? What do they think about the two separate accordions?
-Do they know how to expand the accordion?
-With the text link, what happens when they open the new screen with explanatory content?
-Is it disorienting?
-Can they figure out how to get back to the application?
-Do they hesitate to open the link?
-Do they understand what the icon means?
-Which design do they prefer, and why?
-Goal 3: Assess how well the explanatory content works for Veterans.
-Is the content clear and informative? 
-How does the content influence their thinking about their chance of getting an increase?
-Does it help Veterans make a more confident decision about whether to file a CFI for Tinnitus?
-Does the content help them feel that the VA is on their side?
-Methodology
+- Decide how to display the explanatory content
+- Identify shortcomings in the content
+
+**Research questions**
+**Goal 1:** Assess usability of the refined design, especially for people who use assistive technology
+- Are users able to successfully complete the basic task of selecting checkboxes and then selecting Continue?
+- Does the placement of the link/accordion hinder the basic task?
+- Do people using AT have any other difficulties on the screens?
+
+**Goal 2:** Determine which of two different designs is more effective for presenting education content around maximum standard ratings.
+- Do people notice the link or accordion?
+- Do they click on it without prompting?
+- With the accordion, do they notice both headings? What do they think about the two separate accordions?
+- Do they know how to expand the accordion?
+- With the text link, what happens when they open the new screen with explanatory content?
+- Is it disorienting?
+- Can they figure out how to get back to the application?
+- Do they hesitate to open the link?
+- Do they understand what the icon means?
+- Which design do they prefer, and why?
+
+**Goal 3:** Assess how well the explanatory content works for Veterans.
+- Is the content clear and informative? 
+- How does the content influence their thinking about their chance of getting an increase?
+- Does it help Veterans make a more confident decision about whether to file a CFI for Tinnitus?
+- Does the content help them feel that the VA is on their side?
+
+## Methodology
 We will use a scenario-based test format to assess the usability of two different prototypes. The scenarios will contain short sequences of a few screens, and they’ll be based on existing screens in the online 526 application or within the authenticated VA.gov experience. Because the prototypes are built in HTML (using Codepen), they’ll be available in both small-screen (mobile phone) and large-screen formats. We’ll rotate the order of the two different prototypes to avoid biasing the results.
-Location
+
+## Location
 The sessions will be conducted remotely via Zoom.
-Research materials
-Conversation guide
+
+## Research materials
+[Conversation guide]
 Prototype
 Recruitment
 Recruitment approach
