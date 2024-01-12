@@ -19,40 +19,45 @@ Peter Russo - peter.russo@adhocteam.us
 
 
 ## Research Goals
-Veterans may interact with the Appointments tool at different stages across the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
-
-Starting up
-
--   MTM: Attending to health needs
-
-Taking care of myself
-
--   MTM: Recognizing and addressing mental health needs
--   MTM: Managing health issues
-
-Putting down roots
-
--   Maintaining my emotional health
--   Engaging VA to access benefits and services
-
-Retiring
-
--   MTM: Taking care of my health
--   MTM: Managing my declining health
 
 This test helped us achieve two goals:
 1. Verify via UAT that logged in Veterans are able to utilize recently added features and data is populating as expected.
 2. Understand Veteran's expectations as they choose a facility or provider when scheduling an appointment. 
 
+
+
+### Moments that matter
+
+These goals consider the different stages in life where Veterans may interact with the Appointments tool across their [health care experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
+
+**Starting up:**
+
+- Attending to health needs
+
+**Taking care of myself:**
+
+- Recognizing and addressing mental health needs
+- Managing health issues
+
+**Putting down roots**
+
+- Maintaining my emotional health
+- Engaging VA to access benefits and services
+
+**Retiring**
+
+-  Taking care of my health
+-  Managing my declining health
+
 ## Research Questions
 
-**UAT:**
+**UAT**  
 1. Are participants able to navigate between to the appointments feature from My VA and MHV on VA.gov?
 1. Are participants able to navigate their appointments lists?
 1. Can participants easily print their appointments lists?
-1. Are users at Cerner facilities able to navigate to My VA Health?
+1. Are users at Oracle Health facilities able to navigate to My VA Health?
 
-**Mental Model Inquiry**
+**Mental Model Inquiry**  
 1. Does the process of selecting a clinic (VistA) or provider (community care) meet participant expectations?
 1. What other information would be helpful when scheduling with a provider or clinic?
 
@@ -69,16 +74,15 @@ _**Participants will be able to easily navigate to the appointments tool from al
 
 _Definitely False_
 
-Participants struggled with logging in and navigating to the Appointments tool from the My HealtheVet National Health Portal. Participants who were registered at Oracle Health facilities struggled to navigate to the tool, though this is working as intended; most paths redirect them to the Oracle Health portal.
+Participants struggled with logging in and navigating to the Appointments tool from the My HealtheVet National Health Portal. Participants who were registered at Oracle Health facilities struggled to navigate to the Appointments tool, though this is working as intended; most paths redirect them to the Oracle Health portal.
 
 My VA was the easiest entry point for participants, followed by the MHV on VA.gov portal home.
 
-
-_**Participants at Cerner facilities will be able to easily navigate to My VA Health.**_
+_**Participants at Oracle Health facilities will be able to easily navigate to My VA Health.**_
 
 _Likely True, Not enough information_
 
-We only spoke to two participants who were registered at Cerner facilities, so we don't have enough information to draw a conclusion. However, those participants were redirected to the Oracle Health portal from points in VA.gov and My HealthVet, so we believe this is likely true.
+We only spoke to two participants who were registered at Oracle Health facilities, so we don't have enough information to draw a conclusion. However we saw many points where those participants were redirected to the Oracle Health portal from VA.gov and My HealthVet, so we believe this is likely true.
 
 _**The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.**_
 
@@ -153,7 +157,7 @@ The 2 participants who were registered at Oracle Health facilities easily naviga
 **My HealtheVet National Portal**  
 5 participants complained of information overload in this portal, both on the "Manage your VA Appointments" page and the My HealtheVet NP appointments list. Both pages required a lot of reading and scrolling to get to the tool or main call to action.
 
-3 participants struggled to use the "Manage appointments at" page, which directs users to either VA.gov or Cerner. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they don't currently attend in the list.
+3 participants struggled to use the "Manage appointments at" page, which directs users to either VA.gov or Oracle Health. They noted that it wasn't clear where the buttons would lead, or if the different choices would create different outcomes. It was also confusing to see facilities they don't currently attend in the list.
 
 ![Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL.](./images/MHV%20Manage%20appts%20screen.png)  
 _Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL._
@@ -178,7 +182,7 @@ When navigating back to the Appointments tool from this page, half of the partic
 **My VA**
 We tested this path with 11 participants. 10 navigated from My VA to the Appointments tool without any problems. 
 
-The one who struggled was a Cerner user who didn't have a direct path to the appointments tool from My VA.
+The one who struggled was an Oracle Health user who didn't have a direct path to the appointments tool from My VA.
 
 ### All participants easily navigated appointment details pages
 
@@ -280,6 +284,8 @@ On the facility selection page, simplify the choice they have to make. Consider 
 
 _Next steps here. Include owners if appropriate._
 
+- Follow up on [technical issues identified during sessions](#appendix-technical-issues-identified-during-sessions)
+
 
 ## Appendix: Resources
 
@@ -289,30 +295,24 @@ _Next steps here. Include owners if appropriate._
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/research-transcripts/2023-11-mhv-on-va-gov-phase-2b-vaos-uat)
 
-[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ufbf7b24834e1195c028f5337)
+### Tools used for Synthesis
 
-Task tracker spreadsheet TBD.
+[Synthesis spreadsheet](2023%20Appts%20on%20MHV%20on%20VA%20synthesis.xlsx)
 
-## Appendix: Issues Identified During Sessions
+[Observer Note Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689954776087/f9c46f95011f1ba2bbe090a71496336e8cf98718?sender=ufbf7b24834e1195c028f5337)
+
+
+## Appendix: Technical Issues Identified During Sessions
 
 | Issue | Team | Next steps |
 |-------|------|--------|
-| SM Inbox new msg notification was wrong - no new messages | MHV on VA.gov Portal | |
-| On mobile, new pages are scrolling to the bottom/footer | Appointments FE | |
-| My VA doesn't show Cerner redirect | Authenticated Experience | |
-| Print buttons doesn't work on iphone | Appointments FE | |
-| Mobile: appts in list are shifting slightly on focus | Appointments FE | |
-| Start scheduling link doesn't work for list empty state | Appointments FE | | |
-| Typo in title tag on MHV on VA.gov portal | MHV Portal Team | Reported in Slack |
-
-
-## Tools used for Synthesis
-
-
-
-
-
-
+| SM Inbox new msg notification was wrong - no new messages | MHV on VA.gov Portal | Reach out to SM Team |
+| Start scheduling link doesn't work for list empty state | Appointments FE | Filed issue [71713](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/71713) |
+| My VA doesn't show Oracle Health redirect | Authenticated Experience | Reach out to AE team |
+| Mobile: Print buttons doesn't work on iPhone | Appointments FE | Validate |
+| Mobile: appointments in list are shifting slightly on focus | Appointments FE | Validate |
+| Mobile: new pages are scrolling to the bottom/footer | Appointments FE | Validate |
+| Typo in title tag on MHV on VA.gov portal | MHV Portal Team | [Reported in Slack](https://dsva.slack.com/archives/C04GDQSHD1R/p1704473264360119) |
 
 ## Who we talked to 
 
@@ -322,7 +322,7 @@ Task tracker spreadsheet TBD.
 
 - All participants must have upcoming appointments at the time of the study.
 - All participants must be willing to log into their account and share information about their appointments with the research team.
-- At least 2 participants must have upcoming appointments at facilities that use the Cerner EHR.
+- At least 2 participants must have upcoming appointments at facilities that use the Oracle Health EHR.
 
 **Secondary criteria:**
 
@@ -417,4 +417,4 @@ This research does not include the perspectives of the following marginalized Ve
 
 [Recruitment checker results](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=379060411)
 
-![Screenshot of recruitment checker](<Screenshot 2024-01-05 at 1.59.12 PM.png>)
+![Screenshot of recruitment checker](./images/Screenshot-of-recruitment-checker.png)
