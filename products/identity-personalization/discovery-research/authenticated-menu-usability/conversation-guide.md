@@ -44,7 +44,7 @@ Before we look at anything, I’d like to learn a little more about your experie
    - *If no*:  What websites do you sign into? How do you use those websites?
    - *Moderator goal:* gather background info that might be helpful later in the session
 
-## First Task: Navigate to view disability rating - 5 minutes
+## Task 1: Navigate to view disability rating - 5 minutes
 
 Now I’d like to get your feedback on a prototype and have you share your screen. Do you know how to share your screen in zoom?
 
@@ -72,7 +72,7 @@ Ok, first, I’d like for you to show me how you’d use this prototype to see w
 - What path did the participant take to get to the disability rating page? Auth menu, main menu, search, etc?
 - Were any usability hurdles encountered?
 
-## Second Task: Navigate to letters - 3 minutes
+## Task 2: Navigate to letters - 3 minutes
 
 Next, I’d like for you to imagine you’re applying for a VA loan, and you need a document to prove you’re a veteran.  Show me how you’d find that kind of document using this prototype.
 
@@ -88,7 +88,7 @@ Next, I’d like for you to imagine you’re applying for a VA loan, and you nee
 - If they used the auth menu previously, how easily were they able to get back to it?
 - Were any usability hurdles encountered?
 
-## Third Task: Navigate to profile - 3 minutes
+## Task 3: Navigate to profile - 3 minutes
 
 As a last task, I’d like for you to show me where you would go to update your phone number on file with VA.
 
@@ -106,7 +106,7 @@ Ok, thank you! We didn’t set this page up but it was helpful to see how you’
 - If they used the auth menu previously, how easily were they able to get back to it?
 - Were any usability hurdles encountered?
 
-## Fourth Task (as needed) : Review authenticated menu - 3 minutes
+## Task 4 (as needed) : Review authenticated menu - 3 minutes
 **Note: this task is only for participants who didn’t use their auth menu at all during the session**
 I’d like for you to check out one part of the prototype we haven’t looked at yet.
 *On desktop:* Did you notice your name in the heading of the website?
@@ -115,17 +115,32 @@ I’d like for you to check out one part of the prototype we haven’t looked at
 - What do you think will happen if you click on it?
 - Go ahead and click on it. What are your thoughts about what happened when you clicked?
 
+
 ## Post-Task Interview - 10 minutes
 
-Thank you so much for all that feedback! This has been really helpful. I want to get your thoughts on a few more things before we wrap up.
+Thank you so much for all that feedback! This has been really helpful. I want to get your thoughts on a few more things before we wrap up. 
 
-1. How do the options in your user menu line up with what you expected?
-2. Where do you think each link goes?
-3. What’s missing from this menu in your opinion?
-4. Overall, about everything you've seen in this session...What worked *well* for you?
-5. What was *unclear or didn't work well* for you?
-6. What would you like to *change or add*?
-7. Is there anything else that we haven't talked about that you think I should know?
+### For non-sighted participants
+*Authenticated menu should be open*, and ask the questions below.
+
+### For sighted participants
+I’m going to have you stop screen sharing now, and I’ll share my screen. I created a quick visual aid for this next part of our conversation. 
+*Open Mural board. Link: [Authenticated Menu Co-Design](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704919248748/7c3f93534f193882990dbdb152b902b2755dc176?sender=ub868d471cfdb1c56cc0b4512)*
+
+Ok, here’s a rough version of the menu we just looked at. I thought this would be interesting to look at with you, so if there are changes you wish you could make, we can make them happen.
+
+### Questions for all participants
+1. How do the options in this menu line up with what you expected?
+2. Where do you think each link goes? What makes you think so?
+3. How would you order these links? Why?
+4. What would you like to *change or add*? Why?
+5. Anything else you’d like me to know about what you’d want from a menu like this?
+
+
+Great, thank you for going through that with me. I’ll stop screen sharing now.
+1. Overall, about everything you've seen in this session...What worked *well* for you?
+2. What was *unclear or didn't work well* for you?
+3. Is there anything else that we haven't talked about that you think I should know?
 
 ## Consent to use video clips
 
