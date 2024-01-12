@@ -230,6 +230,39 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 * Meet and collaborate with the team working to digitize the PTSD form. 
 * Address the experience of entering and leaving the PTSD flow to reduce confusion.
 
+**Step 3 Supporting Evidence**
+
+**Finding: The types of records Veterans have and how they want them collected impact their filing burden.** 
+* There are three types of evidence for a disability claim: VA medical records, Private Medical Records (PMR), and Lay/Buddy statements. We will break down the three types and highlight Veteran questions we heard throughout the research.
+* Veterans must determine:
+    * 1. What type of evidence do they need to prove their case
+    * 2. Where the evidence lives/who has it
+    * 3. How they want that information collected
+      
+**Finding: Having only VA records streamlines the filing process for Veterans and reduces cognitive load.**
+* If the Veteran selects only VA records, they’re asked to provide VA facility information and date ranges of care. They do not need to upload additional documentation or authorize a release of information.
+* One participant who requested only VA medical records completed their filing on a  mobile device in 22 minutes. [Note: They had filed online in the last year, which would contribute to speed.]
+* However, participants had questions that led to uncertainty about the success of their claim. 
+    * **Community Providers:** “I went to a [doctor] that VA paid for but it was a community doctor, would that be a VA doctor or private medical records? I think it's a VA medical record, but it's a private doctor VA contracted with, so I don't know.” -P12
+    * **Precise Data:** P11 expressed concern about being precise with “the correct or exact information” for the facility location. They shared, “I can see how if [my answer] isn't precise they might say “Oh I don't have any record of that.” -P11 
+    * **Old Records:** “How do I get information for something that happened in '75? That's why I've been hesitant to fill this out because it's been so long… The VA has to reach out to the Veterans who were in the military in the 1970s and 80s to convince us that the records can be obtained.... because I personally have no faith... it's hard to prove because it's been so long ago.” -P21
+
+**Finding: Private Medical Record [PMR] collection is burdensome for participants who decide to collect it themselves, which leads to form exits.**
+
+* Two participants were blocked in Step 3 (Supporting Evidence) because they did not have their Private Medical Records ready for upload during the session. 
+* Neither Veteran opted to have VA collect the private records on their behalf; one explicitly said they didn’t trust the VA to do it in a timely manner.
+     * “We get your medical records for you… [laughs]. Give me a break. They can't even get the dermatologist to call me for an appointment.” -P11
+* Participants felt that restrictions on file type and size put the burden on them rather than VA.
+    * “Some MRIs are not in those formats [permitted by the form], so that requires doing a conversion or them having to go get it themselves. Yet again, huge distrust factor.” -P11
+    * “It's a full medical record, I might break my scanner trying to scan all that in… That's where I'm stuck. It's about a two-and-a-half-inch thick document. I'm going to have to mail that in somehow.” -P3
+* Both blocked participants were frustrated to find that they could not continue with the rest of the form and come back later to add evidence. 
+    * When P11 attempted to advance without uploading files, he received an error. “[Reads screen] ‘you must upload the file.’ [Laughs] So you blow up the whole process [cannot move forward] if you have to do it later… Any time I've had to do anything on the commercial side it says skip this, continue on. [This form has] no indication of next steps.” -P11
+* Veterans who exit the form at Step 3 need to keep track of which conditions they entered to correspond with which records they need to upload. This recall becomes more complex as the number of conditions claimed increases.
+    * P21 claimed seven conditions and shared that a condition list and way to plan the next steps would be useful support. 
+   * [Can’t see beyond the current screen and asks facilitator] “How much more of the application do I have [left] to do? … I’m writing down now what I need [in order to finish]… Because I’m not uploading my records today, it would be nice if there was a way for us to have a printable list or something of the conditions.” -P21
+
+
+
 
 
 
