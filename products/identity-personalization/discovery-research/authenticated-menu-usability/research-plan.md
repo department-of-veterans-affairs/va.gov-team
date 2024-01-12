@@ -45,7 +45,7 @@ We’ll conduct a remote usability test to evaluate the effectiveness of the pro
 The sessions will be conducted remotely via Zoom.
 
 ### Research materials
-- [Link to conversation guide](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide.md)
 - [Link to prototype](url goes here)
 
 ## Recruitment	
