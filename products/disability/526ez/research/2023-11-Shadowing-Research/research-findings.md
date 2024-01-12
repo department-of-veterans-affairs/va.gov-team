@@ -70,7 +70,7 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
 
 ## Thematic Findings
 
-## Finding #1<a id="finding"></a> 
+### Finding #1<a id="finding"></a> 
 
 **Participant’s existing level of trust in VA informed how they reacted to uncertainty throughout the filing experience.**
 * Some participants view unclear language or usability issues as further proof of VA’s malintent.
