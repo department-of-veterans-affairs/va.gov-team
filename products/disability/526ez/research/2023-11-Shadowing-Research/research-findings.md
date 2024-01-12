@@ -175,6 +175,7 @@ P11 and P12 received this ITF error message when trying to start the form.
 * Level of detail needed for unit names could be clarified to reduce uncertainty:
     * “During the period of time I was in the reserves, I was a member of ... about seven or eight units. And I do not have all of those unit designations with me right now.” -P6
     * “I wasn't in a unit, because I wasn't National Guard. I was just... not applicable. What's it called? I was IRR.” -P15
+      
 **Finding: One Veteran shared that their discharge was not determined “honorable”—making it difficult to complete the Veteran Detail section when they filed previously.**
 * As a result of an experience with military sexual trauma (MST), this participant shared that they were denied an honorable discharge and DD-214, which is a key document referenced when completing the form. 
     * “They didn’t want to give me a DD-214 and wanted to give me an “uncharacterized discharge.” -P18
