@@ -292,8 +292,10 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
     * Provide a printable claimed condition list to Veterans who opt to collect their records. 
     * Explore ways for Veterans with paper records to submit via the mail rather than digital upload. 
     * Plan for form exits by allowing Veterans to download populated PDF forms at any stage in the online process. 
+
 **Lay Statements**
 * Review the Lay Statement form in order to assess ways to reduce Veteran burden. 
+
 **Set Veteran Expectations** 
 * Help Veterans plan for documentation requirements before filing to reduce form exits. 
 
