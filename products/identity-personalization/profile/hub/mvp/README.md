@@ -135,8 +135,8 @@ See this [google sheets](https://docs.google.com/spreadsheets/d/1PtzSG0q-pCdVi_y
 <details open>
   <summary>Current Design and User Flow</summary>
 
-- [Desktop](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd/p/EFCD1C39-A0C1-4A07-8510-1C0A7713FA1A/canvas)
-- [Mobile/user flow](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd)
+- [Desktop](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0%3A184&mode=design&t=ovtGP9kHDxSP8KRd-1)
+- [Mobile/user flow](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0%3A1&mode=design&t=ovtGP9kHDxSP8KRd-1)
 
 </details>
    
