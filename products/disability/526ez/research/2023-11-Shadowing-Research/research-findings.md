@@ -160,8 +160,29 @@ P11 and P12 received this ITF error message when trying to start the form.
 * P10 makes plans to call and visit their regional VA location. “I'll call first and then if I have to schedule to take off work and set up to talk to a case manager…If I end this meeting now, unless they close at 4, I'll try to talk to someone today.” 
 * Only one participant considered calling the Contact Center for information but didn’t want to do it during the observation. “I’ve called the 1-800 for a few small things and they were very helpful.” -P3
 
-**Wizard and Intent To File Recommendations **
+**Wizard and Intent To File Recommendations**
 * Allow participants to continue to file even if the ITF system is down (Team 2 has started this work, see open tickets).
 * Rethink how we introduce the concept of ITF to clarify how it relates to past claims and conditions.
 * Reinforce understanding of ITF by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
+
+**Step 1 Veteran Details**
+**Finding: All Veterans who served in the Reserves or National Guard found this section of service history confusing for different reasons.**
+* Participants faced questions that did not apply to their situation.
+    * “I've already said I'm retired and now it's asking if I expect to receive active or inactive duty pay. It doesn't apply in my case.” -P6
+* The obligation date field is seen as inapplicable or redundant for some Veterans.
+     * “I did not sign a contract every 3-4 years like the enlisted ... I'm not sure what's needed.” -P6
+     * “It's making me put in the same information that's already on the screen before this. I don't know why … I agreed that [the prefilled info] was correct and hit continue, and it made me put it in again.” -P12
+* Level of detail needed for unit names could be clarified to reduce uncertainty:
+    * “During the period of time I was in the reserves, I was a member of ... about seven or eight units. And I do not have all of those unit designations with me right now.” -P6
+    * “I wasn't in a unit, because I wasn't National Guard. I was just... not applicable. What's it called? I was IRR.” -P15
+**Finding: One Veteran shared that their discharge was not determined “honorable”—making it difficult to complete the Veteran Detail section when they filed previously.**
+* As a result of an experience with military sexual trauma (MST), this participant shared that they were denied an honorable discharge and DD-214, which is a key document referenced when completing the form. 
+    * “They didn’t want to give me a DD-214 and wanted to give me an “uncharacterized discharge.” -P18
+ 
+**Step 1 Recommendations**
+* Add conditional logic to streamline the flow. For example, if a Veteran says they are retired, skip the question about active or inactive duty pay. 
+* Add helper text that clarifies obligation dates may not apply to some Veterans, such as officers. 
+* Add helper text that clarifies the level of detail required for unit names.
+* Do further discovery on the journey for Veterans with less than honorable discharges
+
 
