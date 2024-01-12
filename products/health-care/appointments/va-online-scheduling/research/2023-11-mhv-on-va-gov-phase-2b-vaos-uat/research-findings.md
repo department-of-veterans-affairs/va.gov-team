@@ -126,7 +126,8 @@ No participant had any trouble finding and using the print button.
 
 ### Most participants struggled with login
 
-Labels: `login`
+Labels: `login`  
+Themes: [Login stories](../themes.md#login-stories)
 
 <abbr title="5 out of 12">About half</abbr> of our participants had some trouble logging in. The two that had no trouble logging in were both mobile users.
 
@@ -186,7 +187,8 @@ The one who struggled was an Oracle Health user who didn't have a direct path to
 
 ### All participants easily navigated appointment details pages
 
-Labels: `IA`, `list view`, `details view`
+Labels: `IA`, `list view`, `details view`  
+Themes: [List navigation stories](../themes.md#list-nav-stories)
 
 All participants quickly understood how to open details pages. 
 
@@ -198,7 +200,8 @@ Neither showed any sign of being confused about navigating back to the list view
 
 ### Most participants easily found their past appointments
 
-Labels: `IA`, `subnavigation`
+Labels: `IA`, `subnavigation`  
+Themes: [List navigation stories](../themes.md#list-nav-stories)
 
 Of those that had trouble: 
 - 2 left the appointments tool to look for their past appointments in their health history.
@@ -206,7 +209,8 @@ Of those that had trouble:
 
 ### Some participants struggled to understand their pending appointments
 
-Labels: `Content`, `requests`, `pending appointments`
+Labels: `Content`, `requests`, `pending appointments`  
+Themes: [Pending appointment stories](../themes.md#pending-appointment-stories)
 
 - 2 participants expected that the number next to Pending (0) should refer to their upcoming appointments.
 - 1 associated pending appointments with those requested through secure messages.
@@ -232,7 +236,8 @@ Labels: `Scheduling`, `personalization`
 
 ### Missing or confusing data was the biggest frustration when using the appointments list
 
-Labels: `Missing data`
+Labels: `Missing data`  
+Themes: [Data needs](../themes.md#data-needs)
 
 All participants struggled with data that was missing or confusing. Type of care and provider name were the most requested, along with a link to the after-visit summary, or another way to find medical history.
 
@@ -244,11 +249,12 @@ Without this information, participants did not know what the appointments were f
 
 ### Participants were confused by the request calendar
 
-Labels: `Scheduling`, `request`, `date picker`
+Labels: `Scheduling`, `request`, `date picker`  
+Themes: [Pending appointment stories](../themes.md#pending-appointment-stories)
 
 4 participants thought the request calendar was showing the clinic's availability for scheduling an appointment. 1 said they didn't trust that scheduling in this way would lead to an actual appointment.
 
-> I was initially surprised that I could make an appointment, you know, in such a short amount of time. Cause I'm just so used to making appointments pretty far out ahead of time. So I mean for me. I'd just be curious if I could actually make, or that an appointment could be made on the eleventh, you know, in the am, for something routine, or even something new. I am honestly curious if it would let me do that if it would give me a date and a time. - P9
+> I was initially surprised that I could make an appointment, you know, in such a short amount of time. 'Cause I'm just so used to making appointments pretty far out ahead of time. So I mean I'd just be curious if I could actually make, or that an appointment could be made on the eleventh, you know, in the am, for something routine, or even something new. I am honestly curious if it would let me do that if it would give me a date and a time. - P9
 
 ## Participants were confused by the alert that told them Community Care was unavailable for podiatry.
 
@@ -277,7 +283,7 @@ Improve the static landing page. The MHV on VA.gov portal team is working out wh
 
 Start a working group to focus on the data issues. Surfacing type of care and provider would immediately increase the usability and trustworthiness of the list views.
 
-On the facility selection page, simplify the choice they have to make. Consider showing their "current" facility first. Also consider surfacing Veteran's primary needs when scheduling an appointment earlier, such as showing availability on the facility page. Look into Veteran needs and define a hierarchy. [Reference older studies that call out priority]
+On the facility selection page, simplify the choice they have to make. Consider showing their "current" facility first. Also consider surfacing Veteran's primary needs when scheduling an appointment earlier, such as showing availability on the facility page. Look into Veteran needs and define a hierarchy. 
 
 
 ## Next Steps
