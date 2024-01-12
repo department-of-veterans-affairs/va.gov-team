@@ -318,7 +318,7 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 **Step 4 Recommendations**
 * Add content that explains why the sensitive information is being collected and how it will be used.
 
-### Step 5 Review & Submit<a id="finding"></a>
+### Step 5 Review & Submit<a id="Step 5 Review & Submit"></a>
 
 **Finding: A majority of participants who submitted their claim expected to receive a confirmation email with a copy of the claim from VA.**
 * When participants did not receive an email immediately from VA, they digitally saved it for their records. 
@@ -353,14 +353,15 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
     * “I had my [medical condition] before retirement and as I was sitting in [medical center] I noticed a solider without an arm from Iraq.  I said, ‘That’s disabled–I am just inconvenienced,’ and I couldn’t get over that. I couldn’t get over the mental hurdle at the time”. -P3  
     * “I have the mindset that most Veterans have: The money should go towards the new Veterans…Being female, when I got out [in 1976] they interviewed us…To them [my conditions] wasn’t anything.” -P21
 
-### Additional Finding #2<a id="adiitional finding"></a>
+### Additional Finding #3<a id="adiitional finding"></a>
 
 **The opportunity to file online is welcome to Veterans with health or privacy concerns.**
 * P4 has a hard time leaving their home as a result of medical equipment and mobility issues. Without the online form, filing would be inaccessible.
 * A participant experiencing homelessness explained that they preferred the privacy of applying online when filling a claim. 
     *   “Take the time to fill out what you need instead of sitting in front of somebody that may not be comfortable talking about their situation”. P18 
  
-**Additional Finding #4**
+### Additional Finding #4<a id="adiitional finding"></a>
+
 **Participants filed using computers rather than mobile devices.**
 * The only participant who used a mobile device stated that they thought that it was “pretty cool” that they could use their phone, but thought it would’ve been easier on a laptop. They would have appreciated a bigger keyboard and access to their documentation (which they store on the laptop).  
     * We suspect that medical record type is an important factor in device type. This participant only had VA medical records, which eliminated document upload. 
