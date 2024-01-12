@@ -13,6 +13,10 @@ We will also be dealing with a different appointment object shape. As a result w
 
 For appointment refresh, we are going to need a new endpoint from veTEXT and update LoRota.
 
+## Design Decisions
+- Implement new endpoint in CHIP to initate check-in for cerner appointments 
+- CHIP modifies the received cerner appointment payload to comply with existing vista appointment data in LoROTA
+
 ## Design
 ```mermaid
 sequenceDiagram
