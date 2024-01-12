@@ -118,6 +118,8 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
     * Build on the summary pages to provide opportunities to review and edit throughout the form, not just at the end.
 
 ## Findings (organized by 526ez form flow)
+**Navigation to the 526 and Intro Pages**
+
 **Finding: Participants had trouble navigating to the 526ez online form on VA.gov— even after login.**
 * “Where is the form that actually has to be filled out? I see how to file a claim, when to file a claim... but where is the actual form that needs to be filled out?” -P6
     * P6 reviewed the ‘Evidence Page,’ downloaded the paper version of the 526, and scrolled the ‘When to File’ page, but was unable to find the ‘File a claim’ link without clicking on several other pages.
