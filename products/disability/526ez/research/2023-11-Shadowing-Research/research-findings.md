@@ -327,7 +327,7 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 **The participants who submitted their claims did so in under an hour.**
 * The participants that did complete the 526 application, below is a table of their expected time to complete the form and the actual time it took to complete the form.
 
-**Table 1: Participant Who Started the form**
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Table%201%20Additional%20Findings.png)
 
 * Participant estimates were rarely grounded in an advanced understanding of the form and what it would entail. Estimates were both longer and shorter than the actual completion time. 
     * “[How long will it take] I don't know. My claim that I'm going to file isn't a big one, it's not heavily inundated with information, so it'll probably be quicker than normal I guess?” -P15
