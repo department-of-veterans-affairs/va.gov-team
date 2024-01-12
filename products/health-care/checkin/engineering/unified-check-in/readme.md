@@ -61,37 +61,37 @@ sequenceDiagram
         l--)-api: valid session
         api--)web: return 'read.full'
         deactivate api
-        web->>+api: GET /patient_check_ins
-        api->>+l: GET data
-        l--)-api: data
-        api--)-web: serialized data (appointments + demographics)
 
-        web->>+api: GET /appointments
-        api->>+sts: POST /token
-        sts--)-api: token
-        api->>+vaos: GET /appointments
-        vaos--)-api: appointments
+        par get patient check in data
+          web->>+api: GET /patient_check_ins
+          api->>+l: GET data
+          l--)-api: data
+          api--)-web: serialized data (appointments + demographics)
+          web--)vet: check-in data
+        and get upcoming appointments
+          web->>+api: GET /appointments
+          api->>+sts: POST /token
+          sts--)-api: token
+          api->>+vaos: GET /appointments
+          vaos--)-api: appointments
 
-        loop for each appointment
-          alt facility data in cache
-            api->>api: get facility from cache
-          else facility data not in cache
-            api->>+fa: GET /facilities
-	    fa--)-api: facilities
+          loop for each appointment
+            alt facility data in cache
+              api->>api: get facility from cache
+            else facility data not in cache
+              api->>+fa: GET /facilities
+              fa--)-api: facilities
+            end
+            alt clinic data in cache
+              api->>api: get clinic from cache
+            else clinic data not in cache
+              api->>+cl: GET /clinics
+              cl--)-api: clinics
+            end
           end
-          alt clinic data in cache
-            api->>api: get clinic from cache
-          else clinic data not in cache
-            api->>+cl: GET /clinics
-            cl--)-api: clinics
-          end
+          api--)-web: appointments (incl. facilities, clinics)
         end
-        api--)-web: appointments (incl. facilities, clinics)
-
-        opt demographics confirmations needed
-            web--)vet: demographics page
-        end
-        web--)-vet: appointments page
+        web--)-vet: upcoming appointments
         deactivate vet
 ```
 
