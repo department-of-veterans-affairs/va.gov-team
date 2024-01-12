@@ -186,4 +186,35 @@ P11 and P12 received this ITF error message when trying to start the form.
 * Add helper text that clarifies the level of detail required for unit names.
 * Do further discovery on the journey for Veterans with less than honorable discharges
 
+**Step 2 Disabilities**
+**Finding: Usability challenges slowed Veterans down as they were adding their conditions.**
+* Currently the form only allows Veterans to select one rated disability as the cause for their secondary condition. One participant wanted to select multiple rated disabilities, but couldn’t. 
+    * “It won't let me choose both things. They are both, in conjunction, contributing to the [new condition]. But I can only choose one or the other. I would expect to have a box over on the left so I could click on more than one. Maybe if I hold control I can click on more than one... no... maybe shift? No.” -P12
+* Veterans experience data loss if they decide to change the cause of their condition mid-flow.  
+    * The form asks Veterans what caused their condition via a series of radio buttons and a text box that appears dynamically on the page. If they write a response in the text box and then change their radio button selection, their text is deleted and cannot be retrieved, as P12 experienced. 
+    * “My answer might change again if the other [condition] isn't under here. Oh, it is! But it took away all my typing.” -P12
+
+
+**Finding: A participant expressed interest in additional support to identify conditions they could apply for.**
+* Veterans often learn about the claims process through word of mouth and rely on this for context around what the VA considers a service-connected disability. 
+* In other research studies, we’ve seen that Veterans sometimes use the dropdown list of conditions as another way to learn what’s possible and decide the appropriate conditions to claim (see Finding 2 and 6, Conditions List Veteran Research Findings).
+    * “What I was hoping... I thought maybe it would ask me questions and I could be like oh I qualify for this disability I didn't know about. The only way I know about [certain conditions] is by talking to other people who have filled out these forms. It would be nice if there were a place where someone could look to see what is considered a disability.” -P21
+
+**Image 3- New condition image**
+Follow-up page for each new condition includes causes as radio buttons, a dropdown for rated disabilities, and a free text field for descriptions
+
+**Finding: The process of filing for PTSD is long and can be confusing.**
+* One participant completed the PTSD flow during observation and a second participant extensively described past experiences filing for MST. These two accounts speak to the unique and acute challenges of claiming PTSD–and validate earlier findings by VEO research.
+* The observed participant took 58 minutes to complete the PTSD flow, while other participants filed their full claim in about/under an hour. 
+* The form asks Veterans to describe the event that led to their condition. However, the cause may have been multiple events or a pervasive culture—which is harder to know how to report. 
+    * "If I got hit in the head, then it's very straightforward. But for something like sexual harassment, it's not one event. Yes, I've had some events. But I don't know if this is going to allow me to continue with the harassment I went through... It was the environment." -P21
+* The form offers multiple checkboxes describing different types of PTSD. This Veteran thought one event would be considered multiple types of PTSD, and then got confused when they were asked to enter the information more than once for the different PTSD types.
+    * "I had several events where it was very traumatic, so I didn't know whether to hit the last line [Non-combat PTSD other than sexual trauma or personal assault] or not." -P21
+    * “I put everything down that I wanted to about that event, and now it's asking what happened during the event. It says I don't need to repeat anything I already put in the form, so I'm going to continue … If anyone is reading what I wrote don't you think that would be sexual assault? ... I should've not answered that other stuff previously, I should've waited until this part [because] it's labeled personal assault and sexual trauma." -P21
+* The transition out of the PTSD section of the form is abrupt and unclear.
+    * "All of a sudden, I'm like ok Step 2 of 5 Conditions. Am I still on the sexual part? Or now I wear hearing aids... so I'm going to back up and see … Ok so I go from personal assault and trauma... ok I'm going to make the assumption, and I think you need to label it better. This is just to file for the disability." -P21
+* There can be challenges for survivors of MST to obtain evidence to complete the form.
+    * “I’m sorry I don’t have a more visible injury.  You have to develop a thick skin to hear that pushback from an authority figure in VA”. -P18
+
+
 
