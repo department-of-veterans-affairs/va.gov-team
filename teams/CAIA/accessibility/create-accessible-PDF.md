@@ -90,7 +90,7 @@ If you’re a designer, check how to make sure your InDesign documents output ac
 
 ### Word accessibility
 
-Use the following resources to guide you through the creation of accessible Word documents:
+Use the following resources as a guide, as you create accessible **Word documents**:
 - [Create Accessible Documents](https://www.section508.gov/create/documents/), from Section508.gov
 - [Microsoft Word - Creating Accessible Documents](https://webaim.org/techniques/word/), from WebAIM
 - [Make your Word documents accessible to people with disabilities](https://support.microsoft.com/en-us/office/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d), from Microsoft
@@ -101,7 +101,7 @@ Use the following resources to guide you through the creation of accessible Word
 
 ### PowerPoint accessibility
 
-Use the following resources to guide you through the creation of accessible PowerPoint documents:
+Use the following resources as a guide, as you create accessible **PowerPoint presentations**:
 - [Create Accessible Presentations](https://www.section508.gov/create/presentations/), from Section508.gov
 - [PowerPoint Accessibility](https://webaim.org/techniques/powerpoint/), from WebAIM
 - [Make your PowerPoint documents accessible to people with disabilities](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#PickTab=Windows), from Microsoft
@@ -113,7 +113,7 @@ Use the following resources to guide you through the creation of accessible Powe
 
 ### Excel accessibility
 
-Use the following resources to guide you through the creation of accessible Excel documents:
+Use the following resources to guide you through the creation of accessible **Excel spreadsheets**:
 - [Create Accessible Spreadsheets](https://www.section508.gov/create/spreadsheets/), from Section508.gov
 - [Optimizing Spreadsheet Accessibility](https://webaim.org/techniques/excel/), from WebAIM
 - [Make your Excel documents accessible to people with disabilities](https://support.microsoft.com/en-us/office/make-your-excel-documents-accessible-to-people-with-disabilities-6cc05fc5-1314-48b5-8eb3-683e49b3e593), from Microsoft
@@ -126,6 +126,9 @@ To ensure that your PDF is accessible, you need a special tool that tests your P
 **CommonLook PDF Validator**, also known as **Allyant**, is the CAIA team's testing tool of choice. It's a free plugin for Adobe Acrobat Pro or DC that tests and verifies PDF documents.
 
 <details><summary>Benefits of using CommonLook PDF Validator</summary>
+
+### Benefits of using CommonLook PDF Validator
+
 - Provides validation against Section 508, WCAG 2.0, WCAG 2.1, HHS and PDF/UA standards, and ISO 32000-1:2008.
 - Validation includes those checkpoints that require manual verification, ensuring 100% accuracy.
 - Time-saving tools for working with the Tag tree.
