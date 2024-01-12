@@ -392,6 +392,7 @@ We talked to 11 participants. We talked to 3 Veterans who were able to complete 
 * Master’s degree or higher: 3
 
 **Location**
+
 Participants were recruited from various geographical locations within the United States. 
 
 * West 
@@ -417,13 +418,71 @@ Participants were recruited from various geographical locations within the Unite
 * Prefer to self-describe: 1
 
 **Disability and Assistive Technology**
+
 None of the participants in this study used disability and assistive technology. 
 
 **Underserved groups we haven’t talked to**
+
 This research may not include the perspectives of the following underserved Veteran groups:
 * Immigrant origin
 * Expat (living aboard)
 * Users of Assistive Technology
+
+**Demographics for participants that started the 562ez form**
+
+These numbers highlight the sample that worked on the 526. They provide more tailored insight into the participants who informed our findings. 
+
+**Audience segment**
+
+* Veterans: 5
+
+**Gender**
+* Female: 3
+* Male: 2
+
+**Device used during study**
+* Desktop: 4 
+* Phone: 1 (Android)
+
+**Web browsers used during study**
+* Chrome: 4
+* Duck Duck Go: 1
+
+**Age**
+* 25 - 34 years old: 
+* 35 - 44 years old: 1
+* 45 - 54 years old: 1
+* 55 - 65 years old: 
+* 66 and above:  3
+
+**Education**
+* High School or equivalent: 2
+* Some college, no college degree: 1
+* Bachelor’s degree: 1
+* Master’s degree or higher: 1
+
+**Location**
+
+Participants were recruited from various geographical locations within the United States. 
+
+* South
+    * Florida: 1
+    * Georgia: 1
+    * Maryland: 1
+    * Tennessee: 1 
+* North
+    * Minnesota: 1
+
+**Race**
+* Black or African American: 1
+* Biracial (Black or African American White or Caucasian): 1
+* White or Caucasian: 2
+* Prefer to self-describe: 1
+
+**VA Recruitment Checker for Equality**
+**Image 5: VA Recruitment Checker for Equality**
+Screenshot of the VA Recruitment Checker for Equality for the 526EZ Shadowing Veteran Research.
+
 
 
 
