@@ -1,25 +1,52 @@
 # Conversation guide for MHV on VA.gov secondary navigation comparison research, January/February 2024
+
 ## Moderator logistics
 
 ### Logistics to confirm periodically
+
 - [ ] Check Settings -> Meeting -> In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
 - [ ] Check Settings -> Meeting -> In Meeting (Basic) > Sound notification when someone joins or leaves is OFF
 - [ ] Check Settings -> Meeting -> In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - [ ] Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictures in a meeting ON
 
+### 2-3 days before the session
+
+- [ ] Confirm notetaker and assistive tech support availability
+- [ ] Let notetaker know if anything has changed in the conversation guide
+
 ### Day of the session
+
 - [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
 Slack for real-time feedback from observers.
 - [ ] Mute your Slack notifications.
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- [ ] Send out the link to the observer Mural board (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698174629881/36840450414ec97af58c80e6426b04f043c2c2a7?sender=ueeece9e244394145c84e5173) to observers in the thread
+- [ ] Send out the link to the observer Mural boardto observers in the thread
 - [ ] Sign into the Zoom website as Perigean using the credentials provided and start the Zoom meeting 5-10 minutes before 
 
 ## Interview Script
-### Intro - 5-10 minutes
+
+### Intro - 5 minutes
+
 Thank you for joining us today! My name is _____ and _____ is taking notes.
 
+I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
+
+**Are you okay with a couple of additional observers during this session?**
+   - If no: Use Slack to kindly ask the observers to leave the Zoom.
+   - If yes: Admit observers. 
+   - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
+   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
+
 We've invited you here today to help us improve a website for Veterans. We'll explore two different ideas for the site together; I'm looking forward to watching you experience the two concepts and hearing your opinions and thoughts. Before we jump in with prompts and questions, I first have some information to share about our time together.
+
+**For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information that were shared with me when you signed up for the study:
+
+- **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Are you able to use that during our session today?
+- That sounds good, thank you.
+
+- **For mobile sessions:** I understand you use your smartphone primarily to access VA.gov. Can you confirm that you are on your phone now? 
+
+Thank you for confirming these things! Now, I have a few things about today I want to go over with you before we get started. 
 
 - We'll spend about 60 mins together, but do our best not to go over
 - I'll be asking you plenty of questions, but have no expectations or hopes for how you answer. Everything you do and say will help us learn what will work best for Veterans like you. There are no right or wrong ways to complete the tasks I'll be asking you to complete, and no right or wrong answers to my questions.
@@ -30,16 +57,24 @@ We've invited you here today to help us improve a website for Veterans. We'll ex
 - And lastly, I'd also like to ask your permission to share small clips from the recording with other individuals who work on the website. These clips would only be shared internally and we would remove identifying information to protect your anonymity. Would this be okay with you?
 
 ## Warm-up Questions - 5 minutes
+
 Let’s start with a few questions... 
 
 1. What types of VA benefits if any do you currently receive?
-   a. Have you received other benefits in the past? If yes, which?
-2. Do you ever login to VA.gov or the VA mobile app?
-   a. Frequency?
-   b. For what purpose?
-3. Do you ever login to MHV?
-   a. Frequency?
-   b. For what purpose? 
+
+      a. Have you received other benefits in the past?
+
+      b. If yes, which?
+   
+3. Do you ever login to VA.gov or the VA mobile app?
+
+      a. Frequency (How often do you login?) 
+      b. For what purpose?
+   
+4. Do you ever login to MHV?
+   
+      a. Frequency (How often do you login?) 
+      b. For what purpose? 
    
 **Screen sharing instructions - 5-15 minutes**
 
