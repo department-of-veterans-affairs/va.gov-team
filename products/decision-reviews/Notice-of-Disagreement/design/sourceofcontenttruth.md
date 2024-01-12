@@ -421,9 +421,15 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Sorry, we couldn’t find any eligible issues
+Show this error alert if issues are not loading (backend error):
 
-If you’d like to add an issue for review,  select "Add a new issue" to get started.
+    Header: We can't load your issues right now
+    Body: You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started.  
+
+Show this error alert if account has no eligible issues:
+
+    Header: Sorry, we couldn’t find any eligible issues
+    Body: If you’d like to add an issue for review, select "Add a new issue" to get started.
 
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
