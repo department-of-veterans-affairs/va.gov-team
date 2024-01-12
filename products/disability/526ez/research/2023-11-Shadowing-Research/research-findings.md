@@ -129,7 +129,8 @@ Although we met with 11 Veterans, the findings in this report are based on the 5
     * P12 asked the facilitator where to find the form. They scrolled the ‘My VA’, ‘Check your claim and appeals’, and ‘Learn how to file’ pages before finding the ‘File a claim’ link to the left of the screen. 
     * We hypothesize that Veterans repeatedly read past the “Start the Disability Compensation Application” because it was buried within a page of text and not plain language. “File a claim online” was a clear directive that stood out from surrounding content. 
 
-**Image 1: Introduct Pages here**
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%201%20Introduction.png)
+######Image 1: How to file and Introduction Page
 
 **Navigation to the 526 and Intro Page Recommendations**
 * Increase consistency of language across entry points, and use words that tie to Veterans' expectations. Change instances of “Start an application” to “File a claim.” 
