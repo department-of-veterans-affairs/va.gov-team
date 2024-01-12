@@ -2,13 +2,64 @@
 
 Created: 2023-12-21
 
-This document is intended to answer questions around "How might MHV on VA.gov alert users about EHR system downtime?", per [va.gov-team/issues/70798](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70798). There is a platform-recommended approach for downtime notifications which can guide "single service" or "overall" downtime. For a "list of applications/services that are down" notification, relevant to a landing page that points to many different applications, there is some prior art.
+This document is intended to answer questions around "How might MHV on VA.gov alert users about EHR system downtime?", per [va.gov-team/issues/70798](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70798). 
 
-## In Brief
+## Executive summary
 
-- In late 2023, teams working on MHV on VA.gov began implementing downtime notifications using the Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations.
+### Current state of Downtime Alerts on MHV-on-VA.gov
+
+In December 2023, downtime notifications were implemented on the secure messaging, medications, and medical records applications on VAgov, following [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications).
+
+The recommendations below build upon that initial implementation and assume the following:
+- The MHV landing page doesn't yet have any downtime notification, leaving users to discover downtime when they reach a tool page.
+- The three tool pages besides Appointments all have out-of-the-box downtime alerts set up, triggered by PagerDuty. (See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?wid=0-1704931276185) for visuals.) This implementation includes 1) a modal that displays during the 60 minutes leading up to a maintenance window and 2) a `va-alert component` that replaces the react app during the window.
+  - It was discovered later that this particular PD service was set up by the Identity team, and is intended to cover the MHV login service only.
+- The initial implementation of downtime alerts on the tool pages has one accessibility issue that needs to be addressed: during the maintenance window there is no H1 on the page, so the user (and especially one using assistive tech) can't easily tell what tool is missing. There are also content improvements recommended by CAIA.
+  - Note: also consult IA about whether a breadcrumb should be present during downtime
+- (Appointments has a separate API and PagerDuty)
+
+### Iteration recommendation
+
+General UX expectations for downtime alerts:
+- Begin messaging in the 60 minutes prior to the maintenance window
+- Always include start and end times in alert copy
+- Modals and in-page alerts can be used
+- When tools are hidden it should be clear what tool is missing
+
+
+#### PagerDuty services setup
+
+Four new PagerDuty services are needed
+- "All MHV APIs" – this would be the replacement trigger for the existing MHV-login PD service. 
+  - Note that this service needs to be carefully documented, so that teams know exactly what functionality is and isn't associated
+- Secure-messaging
+- Medical records
+- Medications
+
+
+#### Landing page 
+
+The MHV Landing Page should implement the following UX for a downtime window scheduled in PagerDuty:
+- In the 60 minutes leading up to the window, a warning (orange) `va-alert`
+- During window, error (red) `va-alert`
+- When individual APIs have a PagerDuty window,the alert on the landing page should be specific about which tool(s) is or will be unavailable.
+
+See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?wid=0-1704931214384) for visuals and content.
+
+#### Tool pages
+
+- In the 60 minutes leading up to the window, a modal should show on page load, and a warning (orange) `va-alert` should remain on the page.
+- During window, error (red) `va-alert` replaces tool application, with page's other components (and especially navigational ones like H1 and breadcrumbs) still present at the top of the page.
+
+See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?wid=0-1704931276185) for visuals and content.
+
+See below for some recommendations on how to implement changes. Some refactor of either the tool pages or the `DowntimeNotification` component will be necessary to achieve the recommended UX.
+
+## General context
+
+- In Dec 2023, teams working on MHV on VA.gov began implementing downtime notifications using the Platform's [Downtime Notification](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications) tools and recommendations.
 - The initial work is to add notifications when "all" of MHV is down. Using PagerDuty, a person can manually set a maintenance window or mark that an `mhv` service as down. **Decision needed on what should count as general/all for MHV**
-- It was proposed that `mhv-` services be defined in PagerDuty, e.g. `mhv-medications`, so individual apps could have individual downtime downtime notifications
+- It was proposed that tool-specific `mhv-` services be defined in PagerDuty, e.g. `mhv-medications`, so individual apps could have individual downtime downtime notifications
 - Apps have some control over what the `DowntimeNotification` would hide during downtime. An app like the MHV Landing Page could show a notification without hiding any links if desired.
 - "Automated" downtime notifications do not appear to be covered by the existing Downtime Notification implementation.
 - If multiple `mhv-` services are defined, the Landing Page could indicate to the user what parts of MHV on VA.gov are unavailable
