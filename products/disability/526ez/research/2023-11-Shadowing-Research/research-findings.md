@@ -365,6 +365,20 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 
 We talked to 11 participants. We talked to 3 Veterans who were able to complete the 526 form during the interview, and 2 Veterans who were unable to submit due to missing medical evidence, so that we could have a fresh perspective on their digital experience applying for disability benefits.
 
+**Who we wanted to recruit**
+* Veterans who have not filed in the past: 6
+* Veterans who have filed in but never online: 3
+
+**Who we recruited based on the screener**
+* Veterans who have not filed in the past: 4
+* Veterans who have filed but never online: 7
+
+**Veterans with cognitive disabilities to recruit**
+* Veterans with cognitive disabilities: 3-4
+
+**Veterans with cognitive disabilities recruited for study**
+* Veterans with cognitive disabilities: 0
+
 **Audience segment**
 * Veterans: 11
 
@@ -423,7 +437,19 @@ Participants were recruited from various geographical locations within the Unite
 
 **Disability and Assistive Technology**
 
-None of the participants in this study used disability and assistive technology. 
+None of the participants in this study used disability and assistive technology.
+* Beginner AT User: 0
+* Experience AT User: 0 
+* Desktop Screen Reader: 0
+* Mobile Screen Reader: 0
+* Magnification/ Zoom: 0
+* Speech Input Tech: 0
+* Hearing Aids: 0
+* Sighted Keyboard: 0
+* Captions: 0
+* Switch Device: 0
+* Braille Reader: 0
+
 
 **Underserved groups we haven’t talked to**
 
