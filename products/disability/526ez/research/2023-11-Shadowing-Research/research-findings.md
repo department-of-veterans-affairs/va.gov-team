@@ -261,6 +261,42 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
     * P21 claimed seven conditions and shared that a condition list and way to plan the next steps would be useful support. 
    * [Can’t see beyond the current screen and asks facilitator] “How much more of the application do I have [left] to do? … I’m writing down now what I need [in order to finish]… Because I’m not uploading my records today, it would be nice if there was a way for us to have a printable list or something of the conditions.” -P21
 
+**Finding: Lay statements add emotional and logistical complexity to the filing process.**
+
+* Participants claiming PTSD were the only ones to mention lay statements, which can sometimes be the only type of evidence available to those with invisible disabilities.
+* “The burden is put on the survivor, the claimant... It’s more difficult than showing an X-ray or test to show the damage.” -P18
+* "With the specific event, there's no evidence, it's my word against his. I never told anyone because I was so ashamed, I haven't even told my family about it because it bothered me so much … Maybe [VA] could reach out to other women in the field unit to understand what the environment was like.” -P21 on PTSD
+
+**Finding: A majority of participants did not know to prepare their documentation in advance of filing—but wished they would have.** 
+
+* Only two participants (who had filed in the past) predicted that documentation could be a challenge during the filing process. 
+     * “Completing the form I think will be relatively common sense and simple…Collecting information required in submitting it I think will take more time…I'll have to go back to doctors in three different states to collect forms and information.” -P6
+    * “Some parts easy, some not–documentation (doctor's reports, etc).” -P17
+* After our session, participants shared that they would tell others to be ready with medical records, facility addresses, and appointment dates. 
+    * “Provide or have access to as much information as to facilities, doctors, addresses as possible before starting.” -P6
+    * “Take your time to think about what you want to write down in your explanation, make sure you have all your documents and things to submit.” -P15
+
+**Step 3 Recommendations**
+
+**VA Medical Records**
+* Reduce uncertainty by providing examples for what “complete” data fields look like (e.g. Jesse Brown Veteran VA Medical Center, not “Chicago.”)
+* Consult VBA partners to determine whether records from Community Providers are VA or PMR.
+
+**Private Medical Records**
+* Explore redesign of ancillary form 4142.
+* Build transparency.
+    * Explain how PMR is collected by the VA– especially for Veterans with older records.
+    * Identify how the Claims Processing Tool can help Veterans understand and track documentation collection.  
+    * Allow Veterans to continue past required fields (but block them from submitting before the application is complete).
+* Reduce abandonment.
+    * Provide a printable claimed condition list to Veterans who opt to collect their records. 
+    * Explore ways for Veterans with paper records to submit via the mail rather than digital upload. 
+    * Plan for form exits by allowing Veterans to download populated PDF forms at any stage in the online process. 
+**Lay Statements**
+* Review the Lay Statement form in order to assess ways to reduce Veteran burden. 
+**Set Veteran Expectations** 
+* Help Veterans plan for documentation requirements before filing to reduce form exits. 
+
 
 
 
