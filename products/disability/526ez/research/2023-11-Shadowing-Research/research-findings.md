@@ -170,7 +170,8 @@ P11 and P12 received this ITF error message when trying to start the form.
 * Rethink how we introduce the concept of ITF to clarify how it relates to past claims and conditions.
 * Reinforce understanding of ITF by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
 
-**Step 1 Veteran Details**
+### Step 1 Veteran Details<a id="finding"></a>
+
 **Finding: All Veterans who served in the Reserves or National Guard found this section of service history confusing for different reasons.**
 * Participants faced questions that did not apply to their situation.
     * “I've already said I'm retired and now it's asking if I expect to receive active or inactive duty pay. It doesn't apply in my case.” -P6
@@ -191,7 +192,7 @@ P11 and P12 received this ITF error message when trying to start the form.
 * Add helper text that clarifies the level of detail required for unit names.
 * Do further discovery on the journey for Veterans with less than honorable discharges
 
-**Step 2 Disabilities**
+### Step 2 Disabilities<a id="finding"></a>
 
 **Finding: Usability challenges slowed Veterans down as they were adding their conditions.**
 * Currently the form only allows Veterans to select one rated disability as the cause for their secondary condition. One participant wanted to select multiple rated disabilities, but couldn’t. 
@@ -238,7 +239,7 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 * Meet and collaborate with the team working to digitize the PTSD form. 
 * Address the experience of entering and leaving the PTSD flow to reduce confusion.
 
-**Step 3 Supporting Evidence**
+### Step 3 Supporting Evidence<a id="finding"></a>
 
 **Finding: The types of records Veterans have and how they want them collected impact their filing burden.** 
 * There are three types of evidence for a disability claim: VA medical records, Private Medical Records (PMR), and Lay/Buddy statements. We will break down the three types and highlight Veteran questions we heard throughout the research.
@@ -307,7 +308,8 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 **Set Veteran Expectations** 
 * Help Veterans plan for documentation requirements before filing to reduce form exits. 
 
-**Step 4 Additional Information**
+### Step 4 Additional Information<a id="finding"></a>
+
 **Finding: All participants questioned why they were asked for their bank account information.**
 * Out of three participants, two were already receiving compensation and didn't want to change their direct deposit info, and one had selected the option to decline compensation earlier in the flow. 
 * “I don't know why they asked about my bank account information at the end when they already sent money to my bank.” -P12
@@ -316,7 +318,8 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 **Step 4 Recommendations**
 * Add content that explains why the sensitive information is being collected and how it will be used.
 
-**Step 5 Review & Submit**
+### Step 5 Review & Submit<a id="finding"></a>
+
 **Finding: A majority of participants who submitted their claim expected to receive a confirmation email with a copy of the claim from VA.**
 * When participants did not receive an email immediately from VA, they digitally saved it for their records. 
     * “I would request on this page, where it says your claim was successfully submitted, I would recommend VA send an email with all this information. But I don’t see that on this page and I do not have a printer with me, so what I’ll do is save as PDF.” -P6
@@ -327,7 +330,9 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 * Provide an opportunity for Veterans to download a full copy of their completed form post-submission.
 
 ## Detailed Additional Findings 
-**Additional Finding #1**
+
+### Additional Finding #1<a id="additional finding"></a>
+
 **The participants who submitted their claims did so in under an hour.**
 * The participants that did complete the 526 application, below is a table of their expected time to complete the form and the actual time it took to complete the form.
 
@@ -337,7 +342,8 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
     * “[How long will it take] I don't know. My claim that I'm going to file isn't a big one, it's not heavily inundated with information, so it'll probably be quicker than normal I guess?” -P15
     * “I know the estimate was two hours, I estimate about 1.5 hours.” -P6
 
-**Additional Finding #2**
+### Additional Finding #2<a id="adiitional finding"></a>
+
 **Worsening symptoms motivated participants to file for benefits.**
 * Participants cited concern for worsening or new conditions as their reason for filing. 
     * “My civilian doctor said my condition has gotten worse. They said it’d be best that I apply.” -P12   
@@ -347,7 +353,8 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
     * “I had my [medical condition] before retirement and as I was sitting in [medical center] I noticed a solider without an arm from Iraq.  I said, ‘That’s disabled–I am just inconvenienced,’ and I couldn’t get over that. I couldn’t get over the mental hurdle at the time”. -P3  
     * “I have the mindset that most Veterans have: The money should go towards the new Veterans…Being female, when I got out [in 1976] they interviewed us…To them [my conditions] wasn’t anything.” -P21
 
-**Additional Finding #3**
+### Additional Finding #2<a id="adiitional finding"></a>
+
 **The opportunity to file online is welcome to Veterans with health or privacy concerns.**
 * P4 has a hard time leaving their home as a result of medical equipment and mobility issues. Without the online form, filing would be inaccessible.
 * A participant experiencing homelessness explained that they preferred the privacy of applying online when filling a claim. 
