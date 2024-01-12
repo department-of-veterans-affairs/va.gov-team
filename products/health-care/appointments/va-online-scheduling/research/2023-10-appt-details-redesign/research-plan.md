@@ -137,7 +137,6 @@ Prototype link TBD
 
 Perigean will recruit 16 participants for this study who are active MyHealtheVet or VA.gov. 
 
-<!-- I'd recommend recruiting 16 participants to make sure we end up with the end goal of 12 -->
 
 
 ## Recruitment criteria
@@ -162,24 +161,40 @@ We will ask for Perigean support in recruiting and note-taking.
 
 ## Prepare
 
-Test materials will be finalized by TBD
+Test materials will be finalized by Friday, January 12, 2024
 
-Pilot participant email: TBD Date and time of pilot session: TBD
+Pilot participant email: TBD 
+
+Date and time of pilot session: On or after Tuesday, January 15, 2024
 
 
 ## Research sessions
 
-Research session will begin on ar after TBD
+Research session will begin on ar after Wednesday, January 16, 2024
 
 
 ## Length of sessions
 
 60 min
 
+Please allow at least 30 minutes between sessions
+
 
 ## Availability
 
-TBD
+| Date  | Time  | 
+|---|---|
+| Tuesday, January 16 |  12:00pm EST - 6:00pm EST | 
+| Wednesday, January 17  | 12:00pm EST - 4:00pm EST  | 
+| Thursday, January 18  | 12:00pm EST - 5:00pm EST  |
+| Friday, January 19   | 12:00pm EST - 6:00pm EST  |
+| Monday, January 22  | 12:00pm EST - 6:00pm EST  |
+| Tuesday, January 23  | 12:00pm EST - 6:00pm EST  |
+| Wednesday, January 24  | 12:00pm EST - 4:00pm EST  | 
+| Thursday, January 25  | 12:00pm EST - 5:00pm EST  |
+| Friday, January 26  | 12:00pm EST - 6:00pm EST  |
+| Monday, January 29  | 12:00pm EST - 6:00pm EST  |
+
 
 
 ## Team roles
@@ -187,7 +202,7 @@ TBD
 
 
 * Moderator: Ciera Maddox 
-* Research guide writing and task development (usually but not always same as moderator): Ciera Maddox
+* Research guide writing and task development: Ciera Maddox
 * Participant recruiting & screening: Perigean
 * Project point of contact: Ciera Maddox
 * Participant(s) for pilot test: TBD
