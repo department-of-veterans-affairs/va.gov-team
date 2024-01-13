@@ -49,13 +49,18 @@ We've invited you here today to help us improve a website for Veterans. We'll ex
 
 Thank you for confirming these things! Now, I have a few things about today I want to go over with you before we get started. 
 
-- We'll spend about 60 mins together, but do our best not to go over
-- I'll be asking you plenty of questions, but have no expectations or hopes for how you answer. Everything you do and say will help us learn what will work best for Veterans like you. There are no right or wrong ways to complete the tasks I'll be asking you to complete, and no right or wrong answers to my questions.
-- Your participation in this session can be ended at any time. If you'd like to end the call, you are entirely free to do so.
-- Any questions I can answer for you at this point?
-- Okay, I have a few colleagues waiting to join our call who would like to sit in and listen to our conversation. Do you feel comfortable with a few more people joining us? _If yes, admit those in the waiting room. Ask them to introduce themselves.__
-- We're almost ready to get started, I just need to ask your permission to do two more things. First, are you okay with me recording our conversation so I can listen to it later if I forget something? _Once you hit record, ask again._
-- And lastly, I'd also like to ask your permission to share small clips from the recording with other individuals who work on the website. These clips would only be shared internally and we would remove identifying information to protect your anonymity. Would this be okay with you?
+- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
+*Start recording.*
+
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **I’m also going to make sure transcriptions are turned on to improve our notes.**
+
+_Turn on transcription._
 
 ## Warm-up Questions - 5 minutes
 
