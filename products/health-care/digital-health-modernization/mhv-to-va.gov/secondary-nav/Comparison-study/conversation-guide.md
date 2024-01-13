@@ -119,7 +119,8 @@ _Participant arrives on secure messaging page with message from doctor open_
 5. What would you do next to try and find the x-ray results of your left ankle?
   - It would really help me if you could talk me through what you are thinking.
 
-(_Pay attention to  Where participant clicks first and ask _) 
+_Pay attention to where the participant clicks first and ask _
+
 - Why did you click there, and what do you expect to find there?
 - Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
 
@@ -132,123 +133,49 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
+### Things to note 
+- How does the participant attempt to navigate to the images and radiology report? 
+- Any struggles or confusion?
 
-### Task 2: Labs and tests result > Appointments 
+### Task 2: Labs and tests result > Appointments - 10 mins 
 
-Let's say you want to make a follow-up appointment with your doctor 
+Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me how you would do that? 
+- Again, it's super helpful if you can think aloud as you show me. 
 
+_Pay attention to where the participant clicks first and ask _
 
+- Why did you click there, and what do you expect to find there?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
 
-**(Start from the signed-in MHV landing page) Before I give you the task, talk me through what you are seeing on the screen - where does it make you think you are on the site?**
+### Things to note 
+- How does the participant attempt to navigate to schedule an appointment?  
+- Any struggles or confusion?
 
-**_Task 1a - MR and SM_** Imagine that you were recently put on blood thinner medication. Your doctor ordered blood tests two weeks after you started the medication to make sure that it is working. How would you go about seeing those results? It would really help me if you could talk me through what you are thinking. 
+### Task 3: Order CPAP supplies from VA - 10 mins 
 
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
+Great. Let's say you successfully scheduled your appointment. And let's pretend you wanted to order a CPAP machine that helps with your breathing. Can you show me how you would do that? 
+
+_Pay attention to where the participant clicks first and ask _
+
+- Why did you click there, and what do you expect to find there?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
+
+_Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
+
 - What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): Please tell me why you searched for that term. What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the information around what was decided for the next steps in your care. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on the second menu_)?
+- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
+- What do you think would happen if you (_do something_)?
+- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
+- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
-- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
 
-**Must ask:**
-- (_Pay attention to_) Where does participant click first, and ask why?
-- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
-- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-- (_If participant felt stuck) Where do you expect to find it? Why? 
-- What are your thoughts about the amount of time it took you to find the blood result?
-- Thinking about this task - is this something you’ve done before - looked up a test result on a va site? tell me about that.
+### Things to note 
+- How does the participant attempt to navigate to CPAP supplies? 
+- Any struggles or confusion?
 
-**After participant finishes the task:**
-- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
-- What was helpful, and what wasn’t? Why?
-- What did you like, and didn’t? Why?
-- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
+## Tasks for Prototype 2 
 
 
-**_Task 1b - MR and SM_** hen, say you're not sure what the results mean because of the medical terminologies and you want to ask your doctor about it. Using the resources offered on this website, how would you go about doing that? It would really help me if you could talk me through what you are thinking
-
-- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
-
-**Must ask:**
-- What would you normally do? 
-- (_Pay attention to_) Where does participant click first, and ask why?
-- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
-- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-- (_If participant didn't click or didn't see the direct link to ask a question_) Do you expect to be able to directly get to secure message from here?
-- Is this something you’ve done before? How did you approach it?
-
-**After participant finishes the task:**
-- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
-- What was helpful, and what wasn’t? Why?
-- What did you like, and didn’t? Why?
-- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
-
-**_Task 2 - Appointments_** (from where they left off) You need to make a new appointment with your new doctor, but you don't remember their name. You can check their name from your recent appointment visit. How would you would you go about finding their name on this website?
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- What do you think should happen if you (_do something_)?
-- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
-
-**Must ask:**
-- What would you normally do? 
-- (_If participant looks for past appointments in the secondary nav._) Do you think you'd find past appointments in the menu, and why?
-- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-- (_If participant clicks appointments on the menu_) What do you expect to happen when clicking on appointments?
-- Is this something you’ve done before? How did you approach it?
-
-**After participant finishes the task:**
-- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
-- What was helpful, and what wasn’t? Why?
-- What did you like, and didn’t? Why?
-- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
-  
-**_Task 3 - Medications_** (from where they left off) Imagine that you have taken a medication named TACROLIMUS for a while, and you want to check the expiration date for ordering refills for TACROLIMUS. How do you go about doing that from here? 
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- What do you think should happen if you (_do something_)?
-- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed? 
-
-**Must ask:**
-- What would you normally do? 
-- (_If participant goes back to MHV landing page for medications_) Why did you go back to the MHV landing page?
-- (_Pay attention to_) Did they use breadcrumbs?
-- (_If participant clicks on mega menu, stop them from continuing_) Why did you click there, and what do you expect to find there?
-- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-
-**After participant finishes the task:**
-- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
-- What was helpful, and what wasn’t? Why?
-- What did you like, and didn’t? Why?
-- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
-
-
-**_Task 4 - MR_** (from where they left off) Imagine you have an overseas trip coming up, and you need to download all your vaccines to prove that you're safe to travel. Where would you go to do that?
-
-_Optional probes - very flexible, adapt as appropriate depending on participant behavior:_ 
-- What are you thinking as you (_go somewhere, do something_)? 
-- Why did you (_do that, go there, try that_)? 
-- (_If use search functionality_): Please tell me why you searched for that term? What information were you hoping it would bring up?
-- What do you think should happen if you (_do something_)?
-- (_If participant can't find it_) Where would you expect to find that? (If still struggle, tell me it's under medical records.)
-- (_If participant is too fast or you didn't see where they tabbed_) I can’t see where you tab on the screen, can you let me know where you tabbed?
-
-**Must ask:**
-- What would you normally do? 
-- (If participant goes back to MHV landing page for appointment) Why did you go back to the MHV landing page? 
-- (_Pay attention to_) Where does participant click first, and ask why?
-- (_If participant clicks on mega menu_) Why did you click there, and what do you expect to find there?
-- (_If participant didn't click on secondary nav._) Did you see it? If so, why didn't you click it, and what would you expect if you clicked?
-
-**After participant finishes the task:**
-- Thinking about this task - Is this something you’d normally do for managing your health? Tell me more about that.
-- What was helpful, and what wasn’t? Why?
-- What did you like, and didn’t? Why?
-- (_If there’s a pattern, ask this question. If not, ask after all tasks_) I see you used ___(e.g. "in this section" menu, or breadcrumbs, or trying to go to MHV landing page) a lot, tell me more about why you did that?
 
 
 **OVERALL Qs**
