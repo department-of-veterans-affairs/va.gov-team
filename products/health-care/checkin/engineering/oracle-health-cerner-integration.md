@@ -13,6 +13,14 @@ We will also be dealing with a different appointment object shape. As a result w
 
 For appointment refresh, we are going to need a new endpoint from veTEXT and update LoRota.
 
+## Scope
+- MVP only for day-of check-in
+- Veteran initiated day-of checkin workflow using check-in text
+- Telehealth appointments out of scope
+
+## Assumptions
+- VA Profile endpoint can be accessed using MAP token via Mobile Profile Service (proxy service) from vets-api using low-risk authentication 
+  
 ## Design Decisions
 - Implement new endpoint in CHIP to initate check-in for cerner appointments 
 - CHIP modifies the received cerner appointment payload to comply with existing vista appointment data in LoROTA
@@ -94,10 +102,12 @@ sequenceDiagram
         api--)-web: success
         web-->>-vet: success
 ```
-## Questions
+## Questions / Open Items
 - How do we connect to Oracle Health (cerner) via MAP token to set the arrived status?
 - Who is our POC for the Oracle Health (cerner) MAP service?
 - Can we connect to Profile for data and setting timestamp via MAP token? (Stephen is asking)
 - Will we still need to update demographics timestamps in Vista if we are setting the single timestamp in VA Profile?
 - What does a Oracle Health (cerner) appointment payload look like? (Shane will provide a sample)
 - How will the staffs know about patient workflow status when cie application shows contact staff message incase of check-in failure or invalid contact information?
+- Are all cerner appointments echeckin enabled by default or do we need to enable/disable echeck-in for sites/clinics?
+- Decision from business if insurance verification required for cerner appointments
