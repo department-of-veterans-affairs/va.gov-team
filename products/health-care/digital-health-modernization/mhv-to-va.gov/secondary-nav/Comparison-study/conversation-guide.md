@@ -119,40 +119,45 @@ Okay looks like you have the prototype open. I want you to start by imagining th
 
 _Participant arrives on secure messaging page with message from doctor open_
 
-1. Tell me about what you are seeing here.
-2. Where does it look like you are right now? How do you know/why do you think that? 
-3. Is this what you expect? How so (or why not)?
-4. Let's say you want to check out the images and radiology report from your x-ray. 
+-  Tell me about what you are seeing here.
+-  Let's say you want to check out the images and radiology report from your x-ray. What would you do next to find the x-ray results of your left ankle?
 
 ### Things to note 
 - Is it clear that the participant arrived in the health portal?  
 - Any struggles or confusion?
 
 
-### Task 1: Medical records > Lab and test results > locate x-ray result for scan of left ankle - 10 minutes 
+### Task 1: Find xray (Medical records > Lab and test results > locate x-ray result for scan of left ankle) - 10 minutes 
 
-5. What would you do next to try and find the x-ray results of your left ankle?
+5. What would you do next to find the x-ray results of your left ankle?
   - It would really help me if you could talk me through what you are thinking.
 
-_Pay attention to where the participant clicks first and ask _
+_Pay attention to where the participant clicks first and potential questions_
 
 - Why did you click there, and what do you expect to find there?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
+
+_Once arrived on Medical records/Labs and tests_ 
+
+- Tell me about what you are seeing here.
+- Is this what you expect? How so (or why not)?
+- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
 
 _Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
 
 - What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
+- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search here, but can you tell me what information you were hoping it would bring up?
 - What do you think would happen if you (_do something_)?
 - (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
 ### Things to note 
-- How does the participant attempt to navigate to the images and radiology report? 
+- How does the participant attempt to navigate to the images and radiology report?
+- Did the participant notice the secondary nav?
 - Any struggles or confusion?
 
-### Task 2: Labs and tests result > Appointments - 10 mins 
+### Task 2: Make appointment (Labs and tests result > Appointments) - 10 mins 
 
 Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me how you would do that? 
 - Again, it's super helpful if you can think aloud as you show me. 
@@ -160,10 +165,15 @@ Great. Thanks for talking that through with me. Let's say you want to make a fol
 _Pay attention to where the participant clicks first and ask _
 
 - Why did you click there, and what do you expect to find there?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
 
+_Once arrived on Appointments_ 
+
+- Tell me about what you are seeing here.
+- Is this what you expect? How so (or why not)?
+  
 ### Things to note 
-- How does the participant attempt to navigate to schedule an appointment?  
+- How does the participant attempt to navigate to schedule an appointment?
+- Did the participant notice the secondary nav?
 - Any struggles or confusion?
 
 ### Task 3: Order CPAP supplies from VA - 10 mins 
@@ -173,7 +183,12 @@ Great. Let's say you successfully scheduled your appointment. And let's pretend 
 _Pay attention to where the participant clicks first and ask _
 
 - Why did you click there, and what do you expect to find there?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
+
+_Once arrived on CPAP supplies page_ 
+
+- Is this what you expect? How so (or why not)?
+- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
 
 _Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
 
@@ -185,7 +200,9 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
 ### Things to note 
-- How does the participant attempt to navigate to CPAP supplies? 
+- How does the participant attempt to navigate to CPAP supplies?
+- Did the participant notice the secondary nav?
+- How did the participant understand "home" or "My Healthevet"? 
 - Any struggles or confusion?
 
 ## Post-tasks interview questions - 5 minutes
@@ -196,32 +213,44 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 
 In a moment I'll share another link with you in the Zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (like the one we just went through). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser. 
 
+- _Send them or say CodePen prototype_
+
+  - Design A: https://codepen.io/figaro/project/live/dec27c9852d5bc105e841a3d0bc989ff
+  - Design B: https://codepen.io/figaro/project/live/63418c9f42aaf22d4c8198d968ce91cf
+
 I am going to ask you similar questions as last time. Let's as you arrived on this page from an email (drop participant at x-ray results page)
 
-### Task 1: Medical records > Lab and test results > locate x-ray result for scan of left ankle - 10 minutes 
+### Task 1: Find xray (Medical records > Lab and test results > locate x-ray result for scan of left ankle) - 10 minutes 
 
-5. What would you do next to try and find the x-ray results of your left ankle?
+5. What would you do next to find the x-ray results of your left ankle?
   - It would really help me if you could talk me through what you are thinking.
 
-_Pay attention to where the participant clicks first and ask _
+_Pay attention to where the participant clicks first and potential questions_
 
 - Why did you click there, and what do you expect to find there?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
+
+_Once arrived on Medical records/Labs and tests_ 
+
+- Tell me about what you are seeing here.
+- Is this what you expect? How so (or why not)?
+- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
 
 _Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
 
 - What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
+- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search here, but can you tell me what information you were hoping it would bring up?
 - What do you think would happen if you (_do something_)?
 - (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
 ### Things to note 
-- How does the participant attempt to navigate to the images and radiology report? 
+- How does the participant attempt to navigate to the images and radiology report?
+- Did the participant notice the secondary nav?
 - Any struggles or confusion?
 
-### Task 2: Labs and tests result > Appointments - 10 mins 
+### Task 2: Make appointment (Labs and tests result > Appointments) - 10 mins 
 
 Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me how you would do that? 
 - Again, it's super helpful if you can think aloud as you show me. 
@@ -229,10 +258,15 @@ Great. Thanks for talking that through with me. Let's say you want to make a fol
 _Pay attention to where the participant clicks first and ask _
 
 - Why did you click there, and what do you expect to find there?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
 
+_Once arrived on Appointments_ 
+
+- Tell me about what you are seeing here.
+- Is this what you expect? How so (or why not)?
+  
 ### Things to note 
-- How does the participant attempt to navigate to schedule an appointment?  
+- How does the participant attempt to navigate to schedule an appointment?
+- Did the participant notice the secondary nav?
 - Any struggles or confusion?
 
 ### Task 3: Order CPAP supplies from VA - 10 mins 
@@ -242,7 +276,12 @@ Great. Let's say you successfully scheduled your appointment. And let's pretend 
 _Pay attention to where the participant clicks first and ask _
 
 - Why did you click there, and what do you expect to find there?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? tell me about that.
+
+_Once arrived on CPAP supplies page_ 
+
+- Is this what you expect? How so (or why not)?
+- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
+- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
 
 _Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
 
@@ -253,12 +292,20 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 - (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
 - (_If participant still cannot find it, direct them to it and continue with the interview._)
 
-### Post-task interview questions - 5 minutes
+### Things to note 
+- How does the participant attempt to navigate to CPAP supplies?
+- Did the participant notice the secondary nav?
+- How did the participant understand "home" or "My Healthevet"? 
+- Any struggles or confusion?
+
+## Post-tasks interview questions - 5 minutes
+
+- Is there anything else that we haven't talked about that you’d like to share about what we just went through?
+
+I am 
 - Sone kind of comparison questions 
 - Is there anything else that we haven't talked about that you’d like to share?
 - Do you have any questions for me before we wrap up?
-
-
 
 **OVERALL Qs**
 - If participant clicks on the mega menu during any task, don't let them go further, but ask:
