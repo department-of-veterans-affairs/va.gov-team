@@ -67,7 +67,7 @@ Before we start, I want to go over a few things:
 
 *Select Record, then Record to the cloud.*
 
-*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session?
+*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session? *(If not, take good notes!)*
 
 *In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save. (NEED TO DO THIS TO GET TRANSCRIPT)*
 
@@ -173,6 +173,8 @@ Let’s start with a few questions...
 
 1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
     - If not, we can help you do that.
+
+1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
