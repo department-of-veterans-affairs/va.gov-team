@@ -302,28 +302,23 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 
 - Is there anything else that we haven't talked about that you’d like to share about what we just went through?
 
-I am 
-- Sone kind of comparison questions 
+I am going to have you stop sharing your screen. And I am going to share my screen. Can you see my screen? 
+
+_share mockup with abbreviations_ 
+
+- What do you think Appts means? What would you expect to happen if you clicked there? 
+- What about Meds? What does that mean?
+- And Records? What do you think that means? What would you expect to happen if you click there? 
+
 - Is there anything else that we haven't talked about that you’d like to share?
 - Do you have any questions for me before we wrap up?
 
-**OVERALL Qs**
-- If participant clicks on the mega menu during any task, don't let them go further, but ask:
-   - What do you expect to find there?
-   - What do you think the differences are between the main and secondary menus (pointing them out)?
-- Overall, how would you rate the experience of completing various health-related tasks? 1 being very difficult and 5 being very easy, and why? (if they have a hard time recalling, ask them to go back to the prototype and point out where).
-- (_Ask participant to go back to Lab and test results_) Open the section navigation and ask
-     - Then can you go back to the medical records page, and open the section navigation
-     - Now that you have looked at both, can you explain the differences?
-     - How would it have helped if you used it earlier, if at all?
+
 
 
 ## Thank You and Closing - 1 minute
 
-**I want to circle back and re-confirm with you that you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing, and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-- _If the participant says yes:_ Is there any part of our discussion that you would NOT want to be shared in a video clip? 
-
-Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
 If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
@@ -332,6 +327,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 *In the Transcript window, click **Save Transcript**, open in Finder and then save*
 
 *End meeting for all*
+
 
 ## Language in event participant needs mental health resources
 
