@@ -86,33 +86,43 @@ Let’s start with a few questions...
 
 Thanks for answering those questions. I want to transition us to exploring the different sites together. First I want you to share your screen. Is that something you've done before?
 
-_Participants without screen reader:_
-- Find the zoom screen; there is a row of buttons at the bottom. 
-- In the center of that row is a green button that says "Share" (if viewing on phone), "Share screen" (if on computer), or "Broadcast screen" (on iPad).
-- You'll then be given options for what to share. Please choose "screen" (for phone), or your web browser (for computer)
--  If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+_Instructions for folks NOT using screenreaders:_
+- In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+  - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
-_Backup plan if they cannot figure out how to share screen:_
-- I'm going to share my screen and give you control of it. Does that sound okay?
-- Can you confirm if you can see my screen?
-- _Give mouse control)_ Now try to move your mouse around on my screen.
+_Instructions for folks using screenreaders on a desktop:_
+- Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
+- Tab over and confirm that what is selected is "entire screen." 
+- Tab once more - make sure "share sound" is checked. 
+- Tab 4 times over to "share screen" - click activate. 
+
+Great, now I can see your screen! 
+
+Thank you for your patience in figuring this out.  Now let's go to that website. I can post the URL in the chat or just say it to you. Which of you prefer? 
 
 _Open prototype_
-- Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser. 
- 
+- Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the Zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser.
+
+- _Send them or say CodePen prototype_
+
+  - Design A: https://codepen.io/figaro/project/live/dec27c9852d5bc105e841a3d0bc989ff
+  - Design B: https://codepen.io/figaro/project/live/63418c9f42aaf22d4c8198d968ce91cf
+
+
 ## Tasks for Prototype 1 
 
 ### Task 0: Messages - 5 mins 
 
-Okay looks like you have the prototype open. I want you to start by imagining that you just received this email If you want to read the message from your physician, how would you do that? 
+Okay looks like you have the prototype open. I want you to start by imagining that you just received this email from your physician, if you wanted to read that secure message, can you show me how you would  do that? 
 
 _Participant arrives on secure messaging page with message from doctor open_
 
 1. Tell me about what you are seeing here.
-2. Where does it look like you've arrived?
+2. Where does it look like you are right now? How do you know/why do you think that? 
 3. Is this what you expect? How so (or why not)?
-4. Let's say you did want to check out the images and radiology report from your x-ray. 
+4. Let's say you want to check out the images and radiology report from your x-ray. 
 
 ### Things to note 
 - Is it clear that the participant arrived in the health portal?  
