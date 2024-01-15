@@ -51,7 +51,9 @@ sequenceDiagram
     participant api as vets-api
     participant ch as CHIP
     participant l as LoROTA
-    participant po as VA Profile
+    participant map as MAP
+    participant proxy as Mobile Proxy Service
+    participant pro as VA Profile
     participant ce as Oracle Health (cerner)
         vet->>web: Clicks link to start CIE <br> and validates last & dob
         activate web
@@ -59,24 +61,51 @@ sequenceDiagram
         api->>+l: POST /token
         l--)-api: valid session
         api--)web: return 'read.full'
-        web->>+api: Fetch data
-        api->>+po: fetch demographics data <br> and time-stamps
-        po--)-api: return data
+        web->>+api: GET patient data
+        alt same day multiple appointments
+            api->>+ch: POST /refresh_appointments
+            ch->>+veText: GET appointments
+            veText->>ce: GET appointments
+            ce--)veText: return appointments
+            veText--)-ch: return appointments
+            ch->>+l: update new appointments
+            l--)-ch: return success
+            ch--)-api: return success
+        end
+        api->>+l: GET patient data
+        l--)-api: return patient data
+        api->>+map: GET token/{patientIcn}
+        map--)-api: returns token
+        api->>+api: cache token
+        api->>+proxy: GET demographics data
+        proxy->>+pro: GET demographics data
+        pro--)-proxy: return demographics data
+        proxy--)-api: return demographics data
         api--)-web: return payload of <br> appointments and demographics
-        web->>+vet: present CIE to veterain
+        web->>+vet: renders demographics information to veteran
         deactivate web
-        vet->>+web: answers demographic questions
-        web->>+api: POST timestamp
-        api->>+po: POST timestamp
-        po--)-api: success
-        api--)-web: success
-        web-->>-vet: success
-        vet->>+web: click check-in
+        vet->>+web: confirms demographics information
+        web->>+api: PATCH demographics timestamp
+        alt if no map token in cache
+            api->>+map: GET token
+            map--)-api: returns token
+        end
+        api->>+proxy: POST timestamp
+        proxy->>+pro: POST timestamp
+        pro--)-proxy: returns success
+        proxy--)-api: returns success
+        api--)-web: returns success
+        web-->>-vet: renders appointment information
+        vet->>+web: clicks check-in
         web->>+api: POST check-in
+        alt if no map token in cache
+            api->>+map: GET token
+            map--)-api: returns token
+        end
         api->>+ce: POST set appointment status to arrived
-        ce--)-api: success
-        api--)-web: success
-        web-->>-vet: success
+        ce--)-api: returns success
+        api--)-web: returns success
+        web-->>-vet: displays check-in completed message
 ```
 ## Questions / Open Items
 - How do we connect to Oracle Health (cerner) via MAP token to set the arrived status?
