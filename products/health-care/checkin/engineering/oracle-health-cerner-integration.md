@@ -26,6 +26,7 @@ For appointment refresh, we are going to need a new endpoint from veTEXT and upd
 - CHIP modifies the received cerner appointment payload to comply with existing vista appointment data in LoROTA
 
 ## Design
+### Initiate Cerner Checkin
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
@@ -33,9 +34,6 @@ sequenceDiagram
     participant ce as Oracle Health (cerner)
     participant ch as CHIP
     participant l as LoROTA
-    participant web as vets-website
-    participant api as vets-api
-    participant po as VA Profile
         vet->>+ve: sends check-in text
         ve->>+ce: fetch appointments 
         ce--)-ve: return appointments
@@ -43,30 +41,8 @@ sequenceDiagram
         ch->>+l: write lorota entry
         l--)-ch: return UUID
         ch--)-ve: return short URL
-        ve--)-vet: Return text message with link
-        vet->>web: Clicks link to start CIE <br> and validates last & dob
-        activate web
-        web->>api: POST /sessions
-        api->>+l: POST /token
-        l--)-api: valid session
-        api--)web: return 'read.full'
-        web->>+api: Fetch data
-        api->>+po: fetch demographics data <br> and tiemstamps
-        po--)-api: return data
-        api--)-web: return payload of <br> appointments and demographics
-        web->>+vet: present CIE to veterain
-        deactivate web
-        vet->>web: answers demographic questions
-        web->>+api: POST timestamp
-        api->>+po: POST timestamp
-        po--)-api: success
-        api--)-web: success
-        vet->>web: click check-in
-        web->>+api: POST check-in
-        api->>+ce: POST set appointment status to arrived
-        ce--)-api: success
-        api--)-web: success
 ```
+
 ### Veteran clicks link returned from VeText
 ```mermaid
 sequenceDiagram
