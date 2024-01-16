@@ -31,6 +31,9 @@ ________________________________________________________________________________
     - **Sub Goal: Support eCheck-in for CERNER Sites**
         - 🟩 TBD
         - 🟦 TBD                    
+- **GOAL: Address Usage Issues**
+     - **Sub Goal: Change wording for wait time after checking in**
+         - 🟥 [How might we solve the problem of a Veteran checking in before they get to the waiting room & being called back while they are not there](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73667)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
