@@ -278,7 +278,7 @@ Pretend that lately you've been having difficulty with your hearing, and you thi
 
 Let's say that you're considering going back to school to get your degree, and you'd like to know if the VA can help you pay for it. How might you apply online?  
 
-*RECORD navigation: header > megamenu > Education and training > How to apply / **footer > VA forms** / search / **mobile header > search > Find a VA form***
+*RECORD navigation: header > megamenu > Education and training > How to apply / **footer > More resources  (mobile only) > VA forms** / search / **mobile header > search > Find a VA form***
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
@@ -302,7 +302,7 @@ I want you to pretend that you're job hunting, and you're wondering if you could
 Say that after using this website for a while, you didn't get all of your questions answered. How might you reach out to someone at the VA? 
 - *(if additional prompting needed)* Is there anything on this page that might help?
 
-*RECORD navigation: **header > Contact** or search / **footer > chatbot or AskVA or call** / mobile header > Menu > Contact us*
+*RECORD navigation: **header > Contact** or search / **footer > Contact us (mobile only) > chatbot or AskVA or call** / mobile header > Menu > Contact us*
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
