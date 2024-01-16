@@ -16,6 +16,7 @@ _All products, content areas, and navigation elements impacted by this effort th
   - Ability to select more than 1 audience - Complete
   - Review audience tags and look at potential for subtags (like survivor)
   - Landing page design: We'll want to add a family member topic section. This isn't a launch blocker.
+  - How do visitors filter by audience and benefit?
 
 **Health care:**
 - **Caregiver form (10-10CG)** is in family member, but will have to move so will have a URL change.
