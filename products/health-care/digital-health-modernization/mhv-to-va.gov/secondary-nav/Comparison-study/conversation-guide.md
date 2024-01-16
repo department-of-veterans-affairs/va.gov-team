@@ -115,12 +115,14 @@ _Open prototype_
 
 ### Task 0: Messages - 5 mins 
 
-Okay looks like you have the prototype open. I want you to start by imagining that you just received this email from your physician, if you wanted to read that secure message, can you show me how you would  do that? 
+Okay looks like you have the prototype open. I want you to start by imagining that you just received this email from your physician, if you wanted to read that secure message, can you show me how you would do that? 
 
 _Participant arrives on secure messaging page with message from doctor open_
 
 -  Tell me about what you are seeing here.
--  Let's say you want to check out the images and radiology report from your x-ray. What would you do next to find the x-ray results of your left ankle?
+-  How would you explain where you are right now?
+-  Let's say you want to check out the images and radiology report from your x-ray. Where would you start to look to find that?
+     - It would really help me if you could talk me through what you are thinking.
 
 ### Things to note 
 - Is it clear that the participant arrived in the health portal?  
@@ -129,19 +131,17 @@ _Participant arrives on secure messaging page with message from doctor open_
 
 ### Task 1: Find xray (Medical records > Lab and test results > locate x-ray result for scan of left ankle) - 10 minutes 
 
-5. What would you do next to find the x-ray results of your left ankle?
+5. Where would you start to look to find that?
   - It would really help me if you could talk me through what you are thinking.
 
 _Pay attention to where the participant clicks first and potential questions_
 
 - Why did you click there, and what do you expect to find there?
+- _If using secondary nav_ How do you know/why are using it? 
 
-_Once arrived on Medical records/Labs and tests_ 
+_Once participant arrives on Labs and tests result page_ 
 
-- Tell me about what you are seeing here.
-- Is this what you expect? How so (or why not)?
-- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
+- What, if anything, was challenging with getting here?
 
 _Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
 
@@ -154,31 +154,33 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 
 ### Things to note 
 - How does the participant attempt to navigate to the images and radiology report?
-- Did the participant notice the secondary nav?
+- Did the participant notice/use the secondary nav?
 - Any struggles or confusion?
 
 ### Task 2: Make appointment (Labs and tests result > Appointments) - 10 mins 
 
-Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me how you would do that? 
+Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me where you would do that? 
 - Again, it's super helpful if you can think aloud as you show me. 
 
 _Pay attention to where the participant clicks first and ask _
 
 - Why did you click there, and what do you expect to find there?
+- _If using secondary nav_ How do you know/why are using it? 
 
 _Once arrived on Appointments_ 
 
-- Tell me about what you are seeing here.
-- Is this what you expect? How so (or why not)?
+- What, if anything, was challenging with getting here?
+   - Why/tell me more
   
 ### Things to note 
 - How does the participant attempt to navigate to schedule an appointment?
 - Did the participant notice the secondary nav?
+- Did the participant notice the "start scheduling" action link
 - Any struggles or confusion?
 
 ### Task 3: Order CPAP supplies from VA - 10 mins 
 
-Great. Let's say you successfully scheduled your appointment. And let's pretend you wanted to order a CPAP machine that helps with your breathing. Can you show me how you would do that? 
+Great. Let's say you successfully scheduled your appointment. And let's pretend you wanted to order CPAP supplies to help with your breathing. Can you show me how you would do that? 
 
 _Pay attention to where the participant clicks first and ask _
 
@@ -298,7 +300,7 @@ _Optional probes_very flexible, adapt as appropriate depending on participant be
 - How did the participant understand "home" or "My Healthevet"? 
 - Any struggles or confusion?
 
-## Post-tasks interview questions - 5 minutes
+## _If there is time_ Post-tasks interview questions - 5 minutes
 
 - Is there anything else that we haven't talked about that you’d like to share about what we just went through?
 
