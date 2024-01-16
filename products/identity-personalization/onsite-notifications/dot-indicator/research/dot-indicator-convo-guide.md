@@ -1,10 +1,11 @@
-# Conversation Guide for Authenticated Experience My VA team - Dot Indicator, October 2023
+# Conversation Guide for Authenticated Experience My VA team - Dot Indicator, January 2024
+-
 
 - [ ] Make sure password has been changed from previous session for staging account
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
-- [Link to Sketch prototype](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/P1WQemr) - use if there are any issues with staging
+- [Link to Figma prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=196-26640&t=cDBQ1pG5noiJPEC5-1&scaling=scale-down-width&page-id=196%3A26639&mode=design) (use instead of staging for a simplified, controlled experience - share link for prototype only)
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
