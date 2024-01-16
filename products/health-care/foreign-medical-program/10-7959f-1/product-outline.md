@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are outside the US and are eligible for health coverage for a service-related condition, it would be easier to apply online rather than the current paper process.
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
