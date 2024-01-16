@@ -89,7 +89,7 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 #### Other approaches considered
  
 <ul>
-   <li>Track the order in which a user selects checkboxes and display a more tailored error message with the assumption that their intention is to select the option most recently selected, like "If you want to select 'None of these locations', you'll need to uncheck other locations in this list." [per Slack](https://dsva.slack.com/archives/C01K37HRUAH/p1704404867063769?thread_ts=1704323164.991569&cid=C01K37HRUAH) </li>
+   <li>Track the order in which a user selects checkboxes and display a more tailored error message with the assumption that their intention is to select the option most recently selected, like "If you want to select 'None of these locations', you'll need to uncheck other locations in this list." <a href="https://dsva.slack.com/archives/C01K37HRUAH/p1704404867063769?thread_ts=1704323164.991569&cid=C01K37HRUAH">per Slack</a> </li>
    <li>Having I’m not sure trigger the validation error that unchecks previously checked locations</li>
   <li>Replacing the I’m not sure checkbox with copy that instead communicates if they’re not sure, that’s okay. 
 </li>
