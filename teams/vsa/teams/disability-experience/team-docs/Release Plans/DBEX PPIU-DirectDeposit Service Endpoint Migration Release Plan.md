@@ -171,6 +171,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Anomalies:
     - AE team noted PPIU activity directing to EVSS via the v0 controller. Notably, we currently don't direct anything through the controller, nor does the AE team. Need to investigate.
         -  The referrer for these logs is the 526 form, possible we may have missed a controller call.
+    - Noting a drop in activity on 1/14, checking if there was maintenance or an outage
+        - It appears that activity wasn't entirely blocked as a few requests made it through
 - Rollbacks:
 
 
