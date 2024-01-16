@@ -81,9 +81,9 @@ If we used the "other approach considered", we would make toxic exposure mutuall
 The current approach is to keep I’m not sure mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
 They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or None of these locations in order to move forward.
 
-![Gulf War Locations 3](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/8e4a3040-ccce-4adb-b382-5cee500e84b6)
+![Screen showing a checkbox group of service locations plus "None of these locations" and "I'm not sure". "Lebanon" and "None of these locations" are both checked. There's a displayed error message of "You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/8e4a3040-ccce-4adb-b382-5cee500e84b6 "Gulf War Locations 3")
 
-![Conditions](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b9a79bdc-ad94-4ab5-a353-f677d4b5451d)
+![Screen showing a checkbox group of conditions plus "I am not claiming any conditions related to toxic exposure". "Tinnitus" and "I am not claiming any conditions related to toxic exposure" are both checked. There's a displayed error message of "You selected a condition, and 'I am not claiming any conditions related to toxic exposure'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b9a79bdc-ad94-4ab5-a353-f677d4b5451d "Conditions")
 
 
 #### Other approaches considered
