@@ -440,7 +440,7 @@ Did the Veteran the applicant is connected to pass away on active military servi
 </details>
 
 <details>
- <summary>### [H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
+ <summary>[H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
 
 {hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
@@ -495,6 +495,7 @@ Postal code (* Required)
 
 </details>
 
+<details>
 <summary> [H3] Your mailing address {Story 2}</summary>
 
 
@@ -520,7 +521,7 @@ Postal code (* Required)
 
 <details>
 
-<summary> [H3] Mailing address of the Veteran the applicant is connected to {Story 3}</summary>
+<summary>[H3] Mailing address of the Veteran the applicant is connected to {Story 3}</summary>
 
 
 - [ ] Veteran lives on a United States military base outside of the country.
@@ -660,21 +661,20 @@ Here’s how signing in now helps you:
 
 ## Step 2 of 3:  Applicant Information
 
-### [H3] Applicant's name and date of birth
+### [H3] { Applicant's/ Your / Applicant's } name and date of birth
 
 
 First name (* Required)  
 Middle name  
 Last name (* Required)  
-
+Suffix
 Date of Birth (* Required)  
 
 { Buttons } Back / Continue
 
 
-## Step 2 of 3:  Applicant Information
 
-### [H3] Applicant's SSN 
+### [H3] { Applicant's/ Your / Applicant's } SSN 
 
 
 Social Security number (* Required)
@@ -683,11 +683,10 @@ Social Security number (* Required)
 { Buttons } Back / Continue
 
 
-## Step 2 of 3:  Applicant Information
 
-### [H3] Applicant's mailing address
+### [H3] { Applicant's/ Your / Applicant's } mailing address
 
-<! --- If it exists, use a patteren for selecting an address that was previously entered ---> 
+<! --- If it exists, use a pattern for selecting an address that was previously entered ---> 
 
 Country (* Required)   
 
@@ -706,20 +705,18 @@ Postal code (* Required)
 { Buttons } Back / Continue
 
 
-## Step 2 of 3:  Applicant Information
 
-### [H3] Applicant's phone number
+### [H3] { Applicant's/ Your / Applicant's } phone number
 
 Phone number (* Required)
 
 { Buttons } Back / Continue
 
-## Step 2 of 3:  Applicant Information
 
 {Information box]
 ### {Alert title} Notice: Applicant may require additional documentation
 
-Depending on the applicant’s relationship to the Sponsor, additional documents may be required to verify eligibility.
+Depending on { the applicant's/ our / the applicant's } relationship to the Veteran, additional documents may be required to verify eligibility.
 
 Spouse:
 
@@ -738,22 +735,44 @@ These documents will need to be mailed in the the CHAMPVA office after you submi
 {End information box}
 
 
-### [H3] Relationship to the Veteran the Applicant's is connected to
+<etails> 
 
-What's this applicant’s relationship to the Veteran they are connect to? (* Required)
+<summary>[H3] Applicant’s relationship to the Veteran {Story 1 & 3}</summary>
 
-( ) The applicant is or was the Veteran's spouse
+What's { your / the applicant's } relationship to the Veteran they are connect to? (* Required)
 
-( ) The applicant is the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren)
+( ) { I'm / the applicant is } the Veteran's spouse
 
-( ) The applicant is the Veteran's caretaker
+( ) { I / the applicant } was the Veteran's spouse
 
-( ) The applicants relationship to the Veteran is not listed here
+( ) { I'm / the applicant is } the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren)
+
+( ) { I'm / the applicant is } the Veteran's caretaker
+
+( ) { My / the applicant's } relationship to the Veteran is not listed here
 
 { Buttons } Back / Continue
 
-## Step 2 of 3:  Applicant Information
+</details>
 
+<details>
+<summary>[H3] Applicant’s relationship to the me {Story 2}</summary>
+
+What's is your relationship to the applicant (* Required)
+
+( ) The applicant is my spouse
+
+( ) The applicant was my spouse
+
+( ) The applicant is my child (includes legitimate, adopted, illegitimate, and stepchildren)
+
+( ) The applicant is my caretaker
+
+( ) { My relationship to the applicant is not listed here
+
+{ Buttons } Back / Continue
+
+</details>
 
 {Information box]
 ### {Alert title} Notice: Applicant may require additional documentation
