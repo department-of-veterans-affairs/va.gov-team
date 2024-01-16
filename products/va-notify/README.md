@@ -163,16 +163,11 @@ Tech Stack
 ### Tips for using Postman
 
 You must populate the following variables:
-- service-api-key = [api key we provided via encrypted email]
-- service-id = [id for your service in the Self Service Portal, we can provide this to you]
-- sms-sender-id = [this will be provided to you if you are using SMS]
+- service-api-key = [VA Notify team will provide this via encrypted VA email. Please keep secure!]
+- service-id = [ID for your service, viewable in the Self Service Portal]
+- sms-sender-id = [VA Notify team will be provided to you if you are using SMS]
     - Helps identify what phone number to send from along with other relevant metadata
-- template-id = [template id, which you can find in the Self Service Portal]
-    - Check which variable is referenced in the applicable POST
-- email-template-id = [template id, which you can find in the Self Service Portal]
-    - Check which variable is referenced in the applicable POST
-- sms-template-id = [template id, which you can find in the Self Service Portal]
-    - Check which variable is referenced in the applicable POST
+- template-id = [Unique ID per notification template, viewable in the Self Service Portal]
 
 **Sample Email request with personalisation**
 `{{notification-api-url}}/v2/notifications/email`
