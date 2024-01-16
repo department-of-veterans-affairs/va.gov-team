@@ -46,6 +46,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Makes a call to `BenefitsClaims::Service` `get_claims`
     - Claims controller exists: `modules/claims_api/app/controllers/claims_api/v2/veterans/claims_controller.rb`
     - Supposedly EVSS as well? `app/controllers/v0/evss_claims_controller.rb`
+- Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25% 
 
 <br>
 
@@ -177,12 +178,14 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage B: Moderate ramp up
 #### Planning  
-- Date Started:
+- Date Started: 1/12/24
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63660
 - Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - Anomalies:
+    - Noting a drop in activity on 1/14, checking if there was maintenance or an outage
+    It appears that activity wasn't entirely blocked as a few requests made it through
 - Rollbacks:
 
 <br>
@@ -190,7 +193,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage C: Another moderate ramp up
 #### Planning
-- Date Started:
+- Date Started: Skipped
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64555
 - Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
@@ -203,7 +206,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-- Date Started:
+- Date Started: 1/16/24
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64556
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 25% 
