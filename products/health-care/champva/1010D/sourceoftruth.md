@@ -125,10 +125,10 @@ You can start your application for benefits online right now.
 
 ### [H2] What other documents might I need to submit?
 <details><summary>Other Health Insurance Certification (VA Form 10-7959c)</summary>
-These are documents related to your Medicare status or other health insurance benefits that you may be receiving. These would the completed 10-7959c form, a copy or photo of the front and back Medicare Card, a copy or photo of the front and back Insurance carrier Card</details>
+These are documents related to your Medicare status or other health insurance benefits that you may be receiving. These would the completed 10-7959c form, a copy or photo of the front and back Medicare Card, a copy or photo of the front and back Insurance carrier Card. Instructions on if you need to complete this form will be given when you fill out the CHAMPVA Benefits enrollment form.</details>
 
 <details><summary>The page from the VBA rating decision (optional)</summary>
-This document shows your Veteran is permanently and totally disabled (or the death rating if you’re a survivor).
+This document shows the Veteran you are connected to is permanently and totally disabled (or the death rating if you’re a survivor).
 Find out how a veteran is rated permanently and totally disabled. 
 This document is not required but may help to speed up processing times of your application.
 Find out how to request military service records online, by mail, or by fax</details>
