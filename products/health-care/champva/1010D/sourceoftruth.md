@@ -335,13 +335,14 @@ Did the Veteran you’re connected to pass away on active military service? (* R
 
 ## Step 1 of 3:  Veteran Information
 
-### [H3] Mailing address of the Veteran you’re connected to 
+### [H3] Does the Veteran you're connected to have a current mailing address? (* Required)
 
-Do you know the address of the Veteran you're connected to?
+If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
-( ) Yes, I do know the address of the Veteran I'm connected to
-( ) No, I don't know the address of the Veteran I'm connected to 
-( ) The Veteran I'm connected to is experiencing homelessness
+( ) Yes, the Veteran has a current mailing address.
+
+( ) No, the Veteran has a current mailing address.
+
 
 { Buttons } Back / Continue
 
@@ -374,11 +375,14 @@ Postal code (* Required)
 
 ### [H3] Contact info of the Veteran you’re connected to 
 
-Do you know the phone of the Veteren you're connected to?
+### [H3] Does the Veteran you're connected to have a phone number? (* Required)
 
-( ) Yes, I do know the phone number of the Veteren I'm connected to
-( ) No, I don't know the phone number of the Veteren I'm connected to 
-( ) The Veteran I'm connected to does not have a phone
+If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
+
+( ) Yes, the Veteran has a phone number.
+
+( ) No, the Veteran doesn't have a phone number.
+
 
 { Buttons } Back / Continue
 
