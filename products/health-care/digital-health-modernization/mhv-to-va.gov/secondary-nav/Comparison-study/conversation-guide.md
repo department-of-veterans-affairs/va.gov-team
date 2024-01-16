@@ -31,7 +31,7 @@ Thank you for joining us today! My name is _____ and _____ is taking notes.
 
 We've invited you here today to help us improve a website for Veterans. We'll use our time today to explore two different ideas for the site together.  Before we jump in with prompts and questions, I first have some information to confirm with you:
 
-**For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information with you:
+#### For screenreader or mobile sessions
 - **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Are you able to use that during our session today?
 - **For mobile sessions:** I understand you primarily use your phone to access the internet. Can you confirm that you are on your phone now? 
 
@@ -40,25 +40,14 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know.
+- Any questions I can answer at this point?
 
-- I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
-
-- **Are you okay with a couple of additional observers during this session?**
-
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers. 
-   - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
+- Okay, I have a few colleagues waiting to join our call who would like to sit in and listen to our conversation. **Do you feel comfortable with a few more people joining us?** _If yes, admit those in the waiting room. Ask them to introduce themselves.__
+- We're almost ready to get started, I just need to ask your permission to do two more things. First, **are you okay with me recording our conversation** so I can listen to it later if I forget something? _Once you hit record, ask again._
+- And lastly, I'd also like to ask your **permission to share small clips from the recording** with other individuals who work on the website. These clips would only be shared internally and we would remove identifying information to protect your anonymity. Would this be okay with you?
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-
-*Start recording.*
-
-- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **I’m also going to make sure transcriptions are turned on to improve our notes.**
-
-_Turn on transcription._
 
 ## Warm-up Questions - 5 minutes
 
@@ -68,25 +57,25 @@ Let’s start with a few questions...
       a. Have you received other benefits in the past?
       b. If yes, which?
    
-2. Do you ever login to VA.gov or the VA mobile app?
+2. What experience do you have with VA.gov (or the VA mobile app)?
       a. Frequency (How often do you login?) 
       b. For what purpose?
    
-3. (If receive VA health care): Do you ever login to MHV?
+3. _If receive VA health care_: Do you have experience with My HealtheVet? _If participant isn't familiar, don't help them remember, just move on_
       a. Frequency (How often do you login?) 
       b. For what purpose? 
    
-**Screen sharing instructions - 5-10 minutes**
+### Screen sharing instructions - 5-10 minutes**
 
 Thanks for answering those questions. I want to transition us to exploring the different sites together. First I want you to share your screen. Is that something you've done before?
 
-_Instructions for folks NOT using screenreaders:_
+#### Instructions for folks NOT using screenreaders:
 - In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
   - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
-_Instructions for folks using screenreaders on a desktop:_
+#### Instructions for folks using screenreaders on a desktop:
 - Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
 - Tab over and confirm that what is selected is "entire screen." 
 - Tab once more - make sure "share sound" is checked. 
@@ -96,242 +85,167 @@ Great, now I can see your screen!
 
 Thank you for your patience in figuring this out.  Now let's go to that website. I can post the URL in the chat or just say it to you. Which of you prefer? 
 
-_Open prototype_
+#### Open prototype
 - Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the Zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser.
-
-- _Send them or say CodePen prototype_
 
   - Design A: https://codepen.io/figaro/project/live/dec27c9852d5bc105e841a3d0bc989ff
   - Design B: https://codepen.io/figaro/project/live/63418c9f42aaf22d4c8198d968ce91cf
-
 
 ## Tasks for Prototype 1 
 
 ### Task 0: Messages - 5 mins 
 
-Okay looks like you have the prototype open. I want you to start by imagining that you just received this email from your physician, if you wanted to read that secure message, can you show me how you would do that? 
+Okay looks like you have the prototype open. I want you to start by imagining that you just received this email. Go ahead and read the email text.
+
+_Once the participant is done reading_: What would you do next? Go ahead and do that.
 
 _Participant arrives on secure messaging page with message from doctor open_
 
--  Tell me about what you are seeing here.
--  How would you explain where you are right now?
--  Let's say you want to check out the images and radiology report from your x-ray. Where would you start to look to find that?
-     - It would really help me if you could talk me through what you are thinking.
+-  Before you click on anything, how would you explain this site you landed on.
+   - How do you know? 
+-  What if anything is surprising about landing here on this page?
 
-### Things to note 
-- Is it clear that the participant arrived in the health portal?  
-- Any struggles or confusion?
+#### Things to note (desktop and mobile)
+- Where does participant think they landed?
+- What are sign posts the participant points to?
 
+### Task 1: Find x-ray - 15 mins
+_Medical records > Lab and test results > locate x-ray result for scan of left ankle_
 
-### Task 1: Find xray (Medical records > Lab and test results > locate x-ray result for scan of left ankle) - 10 minutes 
+- Let's move slowly on this next task; the next thing I'm going to ask you to do is imagine that you want to look at the images and read the report from your x-rays.
+- Before you click anything, I want to hear where you might naturally start looking first? 
+- And what are you looking for?
+- Why focus on this ________ (secondary or primary nav) and not the other?
+- Let's talk more in detail about this area (the secondary nav):
+   - Could you walk me through each of the links laid out here?
+   - Where would you expect to be taken if you clicked that link?
+   - What if anything about finding your way around here seems confusing?
+- Okay, now go ahead and click around as needed to complete the task of viewing your x-ray images and report. _Guide as needed._
+- _Once participant arrives_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding your x-ray results?
+   - Why do you give that rating?
+- Now that you see where to find your x-rays on this site, does its location make sense?
+   - Where would you put it?
+- I'm going to again ask you a question I posed earlier: If you were on the phone with a friend who is also a Veteran and is looking for this site, how would you explain how to get to this site?
 
-5. Where would you start to look to find that?
-  - It would really help me if you could talk me through what you are thinking.
+#### Things to note (desktop and mobile)
+- Which nav does the participant gravitate towards first?
+- What meaning / signficance do they give the different nav options?
+- Which links are they wrong about? Which are confusing?
+- Does the participant "start over" or "reset"? Where do they go to do that?
+- Does the label for "medical records" seem to fit the task for the participant?
+- Back button used?
+- Breadcrumbs used?
 
-_Pay attention to where the participant clicks first and potential questions_
+#### Things to note (mobile)
+- Does participant notice dropdown nav?
+- Does participant understand abbreviations?
 
-- Why did you click there, and what do you expect to find there?
-- _If using secondary nav_ How do you know/why are using it? 
+### Task 2: Make appointment - 5 mins
+_Labs and tests result > Appointments_
 
-_Once participant arrives on Labs and tests result page_ 
+- For the next task, imagine that you want to make a follow-up appointment with your doctor. Where would you go to do that?
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- _Once participant arrives on Appointments_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where you might schedule an appointment?
+   - Why do you give that rating?
+- Now that you see where to schedule an appointment on this site, does its location make sense?
+   - Where would it make more sense?
 
-- What, if anything, was challenging with getting here?
+#### Things to note (desktop and mobile)
+- Does participant seem more/less confident than last task?
+- Desktop: Do they see the Appointments link right away? Or does it take time? / Mobile: Do they go right to the dropdown nav this time?
+- Does the participant "start over" or "reset"? Where do they go to do that?
+- Back button used?
+- Breadcrumbs used?
+- Mobile: If user did not know abbreviations, does that seem to cause obstacles?
 
-_Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
+### Task 3: Order CPAP supplies from VA - 5 mins 
+_Home > Order CPAP supplies_
 
-- What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search here, but can you tell me what information you were hoping it would bring up?
-- What do you think would happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
-- (_If participant still cannot find it, direct them to it and continue with the interview._)
+- The next task is the final one to complete with this version of the site. Please imagine you need to order CPAP supplies to help you breathe when you are sleeping. Where would you go to order those supplies? 
+_Once arrived on CPAP supplies page_
+   - _If participant clicked link to get "home": _What did you expect to see when you clicked "My HealtheVet" or "home"?
+   - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where to order medical supplies?
+   - Why do you give that rating?
+- Now that you see where to order supplies on this site, does its location make sense?
+   - Where would it make more sense?
 
-### Things to note 
-- How does the participant attempt to navigate to the images and radiology report?
-- Did the participant notice/use the secondary nav?
-- Any struggles or confusion?
+#### Things to note (desktop and mobile)
+- Does participant seem more/less confident than last task?
+- Do they look to the secondary nav right away this time?
+- What else does the participant click on or hover over before clicking on the "correct" link?
+- Does the participant "start over" or "reset"? Where do they go to do that?
+- Back button used?
+- Breadcrumbs used?
+- Mobile: If user did not know abbreviations, does that seem to cause obstacles?
 
-### Task 2: Make appointment (Labs and tests result > Appointments) - 10 mins 
+### Prototype 1 closing questions - 2 minutes
+We're going to switch over to looking at the other version of the same site. Before we do that:
+- Anything you'd like to share that I haven't asked you about?
 
-Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me where you would do that? 
-- Again, it's super helpful if you can think aloud as you show me. 
-
-_Pay attention to where the participant clicks first and ask _
-
-- Why did you click there, and what do you expect to find there?
-- _If using secondary nav_ How do you know/why are using it? 
-
-_Once arrived on Appointments_ 
-
-- What, if anything, was challenging with getting here?
-   - Why/tell me more
-  
-### Things to note 
-- How does the participant attempt to navigate to schedule an appointment?
-- Did the participant notice the secondary nav?
-- Did the participant notice the "start scheduling" action link
-- Any struggles or confusion?
-
-### Task 3: Order CPAP supplies from VA - 10 mins 
-
-Great. Let's say you successfully scheduled your appointment. And let's pretend you wanted to order CPAP supplies to help with your breathing. Can you show me how you would do that? 
-
-_Pay attention to where the participant clicks first and ask _
-
-- Why did you click there, and what do you expect to find there?
-
-_Once arrived on CPAP supplies page_ 
-
-- Is this what you expect? How so (or why not)?
-- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
-
-_Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
-
-- What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
-- What do you think would happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
-- (_If participant still cannot find it, direct them to it and continue with the interview._)
-
-### Things to note 
-- How does the participant attempt to navigate to CPAP supplies?
-- Did the participant notice the secondary nav?
-- How did the participant understand "home" or "My Healthevet"? 
-- Any struggles or confusion?
-
-## Post-tasks interview questions - 5 minutes
-
-- Is there anything else that we haven't talked about that you’d like to share about what we just went through?
+-----
 
 ## Tasks for Prototype 2 
 
-In a moment I'll share another link with you in the Zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (like the one we just went through). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser. 
-
-- _Send them or say CodePen prototype_
-
+Okay, I'm getting ready to share the second link with you within the Zoom chat, just like last time. And again, just like last time, when you open the link it'll look like a website but it's just a prototype so you won't see your real information on the screens. I'm sending you the link now:
   - Design A: https://codepen.io/figaro/project/live/dec27c9852d5bc105e841a3d0bc989ff
   - Design B: https://codepen.io/figaro/project/live/63418c9f42aaf22d4c8198d968ce91cf
 
-I am going to ask you similar questions as last time. Let's as you arrived on this page from an email (drop participant at x-ray results page)
+### Task 0: Messages - 2 mins 
 
-### Task 1: Find xray (Medical records > Lab and test results > locate x-ray result for scan of left ankle) - 10 minutes 
+I'm sure this is already looking familiar. Just like last time, read the text and then go ahead and take the next action.
 
-5. What would you do next to find the x-ray results of your left ankle?
-  - It would really help me if you could talk me through what you are thinking.
+_Participant arrives on secure messaging page with message from doctor open_
 
-_Pay attention to where the participant clicks first and potential questions_
+-  Okay right off the bat, what are you noticing that is different from last time?
+   - How do you know? 
+-  What if anything is surprising about landing here on this page?
 
-- Why did you click there, and what do you expect to find there?
+### Task 1: Find x-ray - 5 mins
+_Medical records > Lab and test results > locate x-ray result for scan of left ankle_
 
-_Once arrived on Medical records/Labs and tests_ 
+- Can you find your x-ray images and report on this version of the site?
+- _Once participant arrives_: What if anything felt different as you completed that task this second time?
+   - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding your x-ray results?
+      - Why do you give that rating?
 
-- Tell me about what you are seeing here.
-- Is this what you expect? How so (or why not)?
-- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
+#### Things to note (desktop and mobile)
+- What is different from last time (Prototype A)?
+- Does participant use the same methods for navigation?
+- Are they quicker to click? Are they more sure about where they're going?
 
-_Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
+### Task 2: Make appointment - 5 mins
+_Labs and tests result > Appointments_
 
-- What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search here, but can you tell me what information you were hoping it would bring up?
-- What do you think would happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
-- (_If participant still cannot find it, direct them to it and continue with the interview._)
+- Now, I want you to find where you'd schedule an appointment with your doctor. 
+- _Once participant arrives on Appointments_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where you might schedule an appointment?
+   - Why do you give that rating?
 
-### Things to note 
-- How does the participant attempt to navigate to the images and radiology report?
-- Did the participant notice the secondary nav?
-- Any struggles or confusion?
+### Task 3: Order CPAP supplies from VA - 5 mins 
+_Home > Order CPAP supplies_
 
-### Task 2: Make appointment (Labs and tests result > Appointments) - 10 mins 
+- One final task is left: Please find where you'd order CPAP supplies (or any medical supplies). 
+- _Once arrived on CPAP supplies page_
+   - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where to order medical supplies?
+   - Why do you give that rating?
 
-Great. Thanks for talking that through with me. Let's say you want to make a follow-up appointment with your doctor. Can you show me how you would do that? 
-- Again, it's super helpful if you can think aloud as you show me. 
+---
 
-_Pay attention to where the participant clicks first and ask _
+## Interview closing questions - 5 minutes
 
-- Why did you click there, and what do you expect to find there?
+Thank you for your patience and for going through those tasks again using this second version of the site. You can close out the web browser and stop sharing your screen. I just have a few final questions to ask you:
 
-_Once arrived on Appointments_ 
+- What role if any do you think icons played in your ability to navigate the site?
+- Mobile: What role if any do you think the dropdown played in your ability to navigate the site? 
+- Desktop: How about the "home" button?
 
-- Tell me about what you are seeing here.
-- Is this what you expect? How so (or why not)?
-  
-### Things to note 
-- How does the participant attempt to navigate to schedule an appointment?
-- Did the participant notice the secondary nav?
-- Any struggles or confusion?
+- If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you explain the relationship between this site and the VA?
+- Anything I didn't ask you about that you want to share about your experience? 
 
-### Task 3: Order CPAP supplies from VA - 10 mins 
+Thank you again for taking the time to share your thoughts today.
 
-Great. Let's say you successfully scheduled your appointment. And let's pretend you wanted to order a CPAP machine that helps with your breathing. Can you show me how you would do that? 
-
-_Pay attention to where the participant clicks first and ask _
-
-- Why did you click there, and what do you expect to find there?
-
-_Once arrived on CPAP supplies page_ 
-
-- Is this what you expect? How so (or why not)?
-- Where does it look like you are right now on VA.gov? How do you know/why do you think that?
-- Thinking about this task - is this something you’ve done before - looked up an x-ray result on a VA site? Can you tell me about that?
-
-_Optional probes_very flexible, adapt as appropriate depending on participant behavior:_
-
-- What are you thinking as you (_go somewhere, do something_)? 
-- (_If use search functionality_): There are limits to this prototype, and you won't be able to actually type in a search query here, but can you tell me what information you were hoping it would bring up?
-- What do you think would happen if you (_do something_)?
-- (_If participant gets stuck because they navigate to a spot where they will be unable to find the medical records or lab results_) It looks like you're not finding the x-ray results you are looking for. What would you do at this point? (_If participant says they would call or use resources outside of VA.gov, ask them again what they would do using only this website._)
-- (_If participant is completely stuck and/or getting frustrated_) I'm sorry this has been so confusing, though it's helpful to see that we're maybe not doing a good enough job helping Veterans to find this information. Would you mind (_clicking on Medical Records in that blue bar at the top of the page_)?
-- (_If participant still cannot find it, direct them to it and continue with the interview._)
-
-### Things to note 
-- How does the participant attempt to navigate to CPAP supplies?
-- Did the participant notice the secondary nav?
-- How did the participant understand "home" or "My Healthevet"? 
-- Any struggles or confusion?
-
-## _If there is time_ Post-tasks interview questions - 5 minutes
-
-- Is there anything else that we haven't talked about that you’d like to share about what we just went through?
-
-I am going to have you stop sharing your screen. And I am going to share my screen. Can you see my screen? 
-
-_share mockup with abbreviations_ 
-
-- What do you think Appts means? What would you expect to happen if you clicked there? 
-- What about Meds? What does that mean?
-- And Records? What do you think that means? What would you expect to happen if you click there? 
-
-- Is there anything else that we haven't talked about that you’d like to share?
-- Do you have any questions for me before we wrap up?
+_In the transcript window, click "Save Transcript," open in Finder and then save._
+_End meeting for all. _
 
 
-
-
-## Thank You and Closing - 1 minute
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
-
-If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
-
-Thank you so much again, and I hope that you enjoy the rest of your day!
-
-*In the Transcript window, click **Save Transcript**, open in Finder and then save*
-
-*End meeting for all*
-
-
-## Language in event participant needs mental health resources
-
-I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
-
-**If the participant looks like they need help right now...**
-
-Would you like to stop this session now?
-
-If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
 
