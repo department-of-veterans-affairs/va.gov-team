@@ -279,7 +279,7 @@ Find out if you can get care at a local VA medical center when you’re covered 
 
 ## Step 1 of 4: Your identity
 
-### Which of these best describes you? (*Required)
+[H3] Which of these best describes you? (*Required)
 
 ( ) I'm an applicant applying for CHAMPVA benefits. **(Story 1)**   
 
@@ -311,9 +311,10 @@ An authorized power of attorney can fill out this request for the person with th
 </details>
 
 <br />
+
 ## Step 2 of 4:  Veteran Information
 
-### [H3] { Veteran you're connected to's / Your / Applicant's } name and date of birth
+[H3] { Veteran you're connected to's / Your / Applicant's } name and date of birth
 
 Please provide your information for the Veteran that you're connected to. We use this information to verify some eligibility. { Story 1 }   
 
@@ -334,8 +335,7 @@ M/D/Y
 ---------------------------------------
 
 
-## Step 2 of 4:  Veteran Information
-### [H3] { Veteran you're connected to's / Your / Applicant's } Social Security number
+[H3] { Veteran you're connected to's / Your / Applicant's } Social Security number
 
 
 
@@ -348,10 +348,8 @@ VA file number
 { Buttons } Back / Continue
 
 
-## Step 2 of 4:  Veteran Information
-
 <details>
- <summary>###[H3]Status of the Veteran you’re connected to {Story 1}</summary>
+<summary>[H3] Status of the Veteran you’re connected to {Story 1}</summary>
 
 Is the Veteran that you are connected to still living? (*Required)
 
@@ -364,10 +362,9 @@ Is the Veteran that you are connected to still living? (*Required)
 
 </details>
 
-## Step 2 of 4:  Veteran Information
 
 <details>
- <summary>###[H3]Status of the Veteran the applicant is connected to {Story 3}</summary>
+ <summary> [H3] Status of the Veteran the applicant is connected to {Story 3}</summary>
 
 Is the Veteran of the applicant is connected to still living? (*Required)
 
@@ -383,10 +380,10 @@ Is the Veteran of the applicant is connected to still living? (*Required)
 
 { if Veteran is deceased }
 
-## Step 2 of 4:  Veteran Information
+
 
 <details>
- <summary>###[H3]Status of the Veteran you’re connected to {Story 1}</summary>
+ <summary>[H3]Status of the Veteran you’re connected to {Story 1}</summary> 
  
      
 Did the Veteran you’re connected to pass away on active military service? (* Required)   
@@ -413,7 +410,7 @@ M/D/Y
 Date of death (*Required)   
 M/D/Y
  
- Did the Veteran the applicant is connected to pass away on active military service? (* Required)   
+Did the Veteran the applicant is connected to pass away on active military service? (* Required)   
 
 ( ) Yes, the Veteran the applicant is connected to passed away during active military service   
 
@@ -427,9 +424,9 @@ M/D/Y
 { end if Veteran is deceased }
 
 { if Veteran is living }
-## Step 1 of 3:  Veteran Information
 
-### [H3] Does the Veteran you're connected to have a current mailing address? (* Required)
+<details>
+ <summary> [H3] Does the Veteran you're connected to have a current mailing address? (* Required) {Story 1}</summary>
 
 If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
@@ -440,13 +437,45 @@ If we have a way to contact the Veteran, we'll be able to process this request f
 
 { Buttons } Back / Continue
 
+</details>
 
-## Step 1 of 3:  Veteran Information
+<details>
+ <summary>### [H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
 
-### [H3] Mailing Address of the Veteran you’re connected to 
+If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
+
+( ) Yes, I have a current mailing address.
+
+( ) No, I don't have a current mailing address.
 
 
-- [ ] Sponsor lives on a United States military base outside of the country.
+{ Buttons } Back / Continue
+
+</details>
+
+
+<details>
+ <summary>[H3] Does the Veteran the applicant is connected to have a current mailing address? (* Required) {Story 3}</summary>
+
+If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
+
+( ) Yes, the Veteran has a current mailing address.
+
+( ) No, the Veteran has a current mailing address.
+
+
+{ Buttons } Back / Continue
+
+</details>
+
+{if mailing address}
+
+<details>
+
+### <summary>[H3] Mailing Address of the Veteran you’re connected to {Story 1}</summary>
+
+
+- [ ] Veteran lives on a United States military base outside of the country.
 
 Country (* Required)   
 
@@ -464,12 +493,62 @@ Postal code (* Required)
 
 { Buttons } Back / Continue
 
+</details>
 
-## Step 1 of 3:  Veteran Information
+<summary> [H3] Your mailing address {Story 2}</summary>
+
+
+- [ ] I live on a United States military base outside of the country.
+
+Country (* Required)   
+
+Street address     
+
+Street address line 2    
+
+Street address line 3   
+
+City (* Required)   
+
+State (* Required)   
+
+Postal code (* Required)   
+
+{ Buttons } Back / Continue
+
+</details>
+
+<details>
+
+<summary> [H3] Mailing Address of the Veteran the applicant is connected to {Story 3}</summary>
+
+
+- [ ] Veteran lives on a United States military base outside of the country.
+
+Country (* Required)   
+
+Street address     
+
+Street address line 2    
+
+Street address line 3   
+
+City (* Required)   
+
+State (* Required)   
+
+Postal code (* Required)   
+
+{ Buttons } Back / Continue
+
+</details>
+
+{if mailing address}
+
 
 ### [H3] Contact info of the Veteran you’re connected to 
 
-### [H3] Does the Veteran you're connected to have a phone number? (* Required)
+Does the Veteran you're connected to have a phone number? (* Required)
 
 If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
 
@@ -480,9 +559,9 @@ If we have a way to contact the Veteran, we'll be able to process this request f
 
 { Buttons } Back / Continue
 
-## Step 1 of 3:  Veteran Information
 
-### [H3] Phone number of the Veteran you’re connected to 
+
+[H3] Phone number of the Veteran you’re connected to 
 
 Home phone number (*Required)
 
