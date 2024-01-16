@@ -81,16 +81,16 @@ If we used the "other approach considered", we would make toxic exposure mutuall
 The current approach is to keep I’m not sure mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
 They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or None of these locations in order to move forward.
 
-<img width="317" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b3b89894-390a-4261-ac81-3f3ceb817960">
+![Gulf War Locations 3](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/8e4a3040-ccce-4adb-b382-5cee500e84b6)
 
-
-<img width="319" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/3fd18b1f-726b-4136-a32c-e86166c01cad">
+![Conditions](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b9a79bdc-ad94-4ab5-a353-f677d4b5451d)
 
 
 #### Other approaches considered
  
 <ul>
-  <li>Having I’m not sure trigger the validation error that unchecks previously checked locations</li>
+   <li>Track the order in which a user selects checkboxes and display a more tailored error message with the assumption that their intention is to select the option most recently selected, like "If you want to select 'None of these locations', you'll need to uncheck other locations in this list." [per Slack]([url](https://dsva.slack.com/archives/C01K37HRUAH/p1704404867063769?thread_ts=1704323164.991569&cid=C01K37HRUAH))</li>
+   <li>Having I’m not sure trigger the validation error that unchecks previously checked locations</li>
   <li>Replacing the I’m not sure checkbox with copy that instead communicates if they’re not sure, that’s okay. 
 </li>
 </ul>
