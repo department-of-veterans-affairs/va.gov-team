@@ -61,7 +61,6 @@ Documentation about the CMS lives in various places
 - Marcia Ortiz, Senior Product Manager
 - Nate Douglas, Tech Lead - Slack `@Nathan Douglas`
 - John Luo, Software Quality Architect
-- Ari Perez, DevOps Engineer (on A6 contract through Dec-2023)
 - Eric Oliver, DevOps Engineer - Slack `@Eric Oliver`
 - Blake Organ, Product Designer- Slack `@Blake Organ`
 - Joann Agnitti, Senior Researcher- Slack `@Joann Agnitti`
