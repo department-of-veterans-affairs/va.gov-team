@@ -1,178 +1,134 @@
-
-# Participant 2-No Show
-
-# Conversation Guide for Health Questionnaires, Clinical Reminders Pilot, October 2023 
-
-  
-
-## Moderator logistics 
-
-### 2-3 days before the session
-- [ ] Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-- [ ] Confirm additional notetakers and supply notes template and guidelines
-- [ ] If this is a session with a screen reader, confirm assistive tech support is available
-
-
-
-### Day of the session
-- Use teams channels for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers.
-
-
-
-### Starting the session
-
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
-
-
-  
-
-## Intro - 5 minutes 
-
-  
-
-Thanks for joining us today! My name is [Kristen] and we have our notetaker on for taking notes. 
-
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...  
-
-  
-
-Today we're going to talk about your experience receiving a text or email, then answering health questions online. These questions helped your primary care provider prepare for your recent medical appointment. 
-
-  
-
-Before we start, a few things I want to mention: 
-
-  
-
-- **This entire session should take about [an hour].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. 
-
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. 
-
-- **You'll be interacting with a demo tool.** This is a demo tool that may look and function like the live site but since it's a demo, none of your actions will affect your actual VA healthcare.
-
-- **If for any reason and at any time you want to stop the session, please let me know.**  
-
-- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. **Are you okay with a couple of additional observers during this session?** 
-
-   - If no: Use Slack to kindly ask the observers to leave the Zoom. 
-
-   - If yes: Admit observers.  
-
-    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant) 
-
-   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth 
-
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-
-*Start recording.*
-
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
-
-## First Task: Notifications - 10 minutes 
-
-
-- How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
-  - Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
-    - [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
-    - [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
-
-- How far in advance of your appointment did you receive this notification? 
-
-  - Do you feel that you were given enough time or not enough time to answer the questions prior to your appointment? 
-
-  - Would you want to receive this notification at a different time prior to your appointment than you did, such as earlier to later? Why? 
-
-  - Please review the information in this notification and share your overall impressions. Think aloud as you review. 
-
-  - [**Notetaker:** Note any observations about the following things: What do they comment on as confusing or valuable without prompting?] 
-
-  - Was there anything about the notification that is unclear? 
-
-  - Would you add, delete, or change about the content within the notification? 
-
-- How much time do you estimate it took you to complete the questions after clicking on the [text or email]? 
-
+# Participant 2 eScreening, Email 
+[Brackets are notetaker comments/observers] 
  
+Moderator (M): Past questionnaire experience? 
 
-## Second Task: Complete the clinical reminders - 20 minutes 
+Participant (P): I can’t remember. 
 
-  
+M: [Shares eScreening email]  
 
-- Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
-  - [eScreening link](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fescreening.va.gov%2Fbut%2FassessmentEmailLogin%3Fcode%3D2JmUuszlN1bfe636sBzCEQ%253D%253D&data=05%7C01%7C%7C508afc1463974977ea4208dbdbbfcedb%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638345389069890219%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JMIAh6kCGRa6HKIBAnZ9yU8dc%2Bhyr0sbk2CbJxJyKHQ%3D&reserved=0)
+P: I’m already assuming that I’ve already screened the email and verified that it is from the VA and stuff, then I would feel comfortable in opening it. 
 
-- [**Notetaker:** Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.] 
+M: So how do you feel about just seeing this? 
 
-- [On each screen] Are there any terms that seem unfamiliar or confusing to you? 
+P: I would feel uncomfortable clicking on it if I wasn’t on there. I normally communicate with the VA through a secure log in. If it asked me to go through the secure log in, then I would open it. If it was a regular email, then I wouldn’t open it. 
 
-- [At the end of each clinical reminder] On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about [clinical reminder topic]? 
+M: Anything unclear? 
 
-- [At the end of all the clinical reminders] 
+P: No, it looks pretty straight forward to me. 
 
-  - What do you expect to happen next, since you answered these questions? 
+M: How far in advance would you expect to receive this notification? 
 
-    - Does that match what actually happened next at your appointment with your provider knowing that they reviewed your answers? Why or why not? 
+P: A day or two would be fine. Not more than a week. I would forget what I responded with. 
 
-  - If you could change one thing about this question experience, what would that be? 
+M: Enough time to fill everything out? 
 
-  
+P: Absolutely. 
 
-## Post-Task Interview - 10 minutes 
+M: Any other changes? 
 
-  
+P: It does have any identification on who it is to. I want to make sure that they are talking to the correct person. It would be nice to have something added that it is covered by confidentiality rules…what is it, HIPAA? 
 
-- Now, I’m going to ask you a series of questions about your experience answering these questions at home (or wherever you previously chose) and not what we reviewed here today.  
+M: You are good with everything else that is on there? 
 
-- On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult, how easy or difficult was it to answer these questions? 
+P: Yeah. I think everything else is pretty straight forward. 
 
-- Did answering these questions online prior to your appointment impact the quality of your appointment with your provider in any way? If so, how? 
+M: [Shares eScreening prototype] 
 
-- Did answering the questions on your own time impact your responses compared to answering them with your provider? If so, how? 
+P: I don’t have any problem with the content of the screen. 
 
-- Were the number of questions you answered online: 
+M: Anything confusing? 
 
-  - Too many 
+P: No. 
 
-  - Not enough 
+M: Scale 1 – 5 
 
-  - Just right 
+P: I would rate it a 1. These questions look familiar that I might add. I think that I might have answered a questionnaire before my last meeting. [Reads food insecurity] 
 
-- What would you estimate the ideal number of minutes or question sets to complete at one time prior to one appointment? 
+M: Anything confusing? 
 
-- And lastly, do you have any questions for me? 
+P: No. 
 
-- Okay, great! That is all the questions I have for you today. 
+M: Scale 1 – 5 
 
-  
+P: 2, because there are a lot of words on there. Would change it to “Are you worried…”? [Reads toxic exposure] I’m wondering why Agent Orange is buried in the back. I would put it in the chronological order. I don’t know if it is related to Camp Legeune or while served in the armed forces at any time. I’m a Vietnam Veteran. When Camp Lejeune is so prominent that make me question it. 
 
-## Thank-You and Closing - 3 minutes 
+M: It is confusing that they list some contaminants and places. 
 
-  
+P: I think that it needs to differentiate between Korean, Gulf War. Vietnam. They are trying to group everyone in one question. 
 
-Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on these experiences and make sure it really works for Veterans. 
+M: Does if they don’t see Vietnam that they might select no? 
 
-Before you go, I wanted to iterate that everything we did today wasn’t real. The questions that you answered were not submitted to your provider or anywhere.  
+P: Yes, because it only says Camp Legeune. 
 
-Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies. 
+M: Anything else? 
 
-Thank you so much again, and enjoy the rest of your day! 
+P: No. I think that the rest of the wording is fine. It just needs to be organized by where you served. 
 
-  
+M: Scale 1-5 
 
-## Emergency Exit 
+P: 4 [Continues on with more TES questions] Other exposures. I would answer “Don’t know,” but that isn’t an option. I would like to see an option of “Don’t know,” because god knows what we were exposed to. [About TES links] I would click on each of these links to see. I’m assuming that it is giving me the presumptive conditions and more information on how to file under the PACT ACT and give me more information about toxic exposure. [Asks moderator to click link on presumptive conditions for Agent Orange] I would link on everyone that I was potentially part of.  
 
-  
+M: After you clicked on all of the links, what would you do next? 
 
-- Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback. 
+P: [Reads TES follow-up question] I would probably click on the health/medical questions. I would click on the VA health care enrollment one, because I’m already in the healthcare system. I would click on the registry one, because I’m not sure if I’m on the Agent Orange registry or what the eligibility requirements are for those. I would click on benefits to make sure that I’m getting everything. [Reviewing information below the question] I would probably call the environmental health coordinator. I am already service connected [for a few conditions]. I would expect further evaluation from the VA.  
 
-- Blame technology: I am so sorry, but I just learned that the thing I wanted to test with you today is unexpectedly not working. I apologize for the inconvenience and thank you for your time. 
+M: Any terms that are confusing on here? 
 
- 
+P: I’m not sure that everyone knows what the Veterans Benefits Administration is. 
 
- 
+M: Would you want a link with a definition? 
+
+P: yes. 
+
+M: Scale 1 -5  
+
+P: 3, because you have to think about a lot of different things. Do you want to continue. There are a lot of buttons to push to find out the information. I may get bored with it and go back to the information later. [Goes onto embedded fragments screener] I would answer No. 
+
+M: Anything confusing on this page? 
+
+P: No. I kind of like that it kind of generically covers all conflicts.  
+
+M: Scale 1- 5 
+
+P: 1. Maybe a 1.5, because the military’s use of acronym gets off putting when you haven’t been in the military for a while. [Reads TBI screener] That is perfectly straight forward. There are psychological health and safety problems for all conflicts that Veterans were in. But it is ok for what it is. [Reads Tobacco screener]  
+
+M: Scale 1 -5  
+
+P: I guess that I would rate it a 1. The only hesitance that I have about it is that “have I smoked a cigar in the last 15 years?” Maybe, but it was a one and done thing. 
+
+M: [Goes back to the questions] Would you want to change anything? 
+
+P: No, because I consider that I haven’t smoked regularly in over 30 years. I guess that the wording is ok. I would say a 1. 
+
+M: [Reads finish page] 
+
+P: I would hit the finish button and be finished. [Reads final page] I would push the done button. I think all of those statements are easy for me to understand. I would rate it a 1. As far as thinking out loud, I would ask for a print out of what my response are. Simply because I have what is call dual coverage with the VA and other insurance. I see a cardiologist outside the VA and other providers. I’ve asked for the information to be shared, but I don’t know if the information appears in my record. How would I make sure that the information shows up for my primary care providers? 
+
+M: So you want information about what happens next? 
+
+P: yes and I think that there should be a question about if you have information outside of the VA. 
+
+M: After taking this, what do you think will happen next? Where does it go? 
+
+P: It would go to the VA primary care provider. It would be his discretion if further follow-up was required. 
+
+M: If you could change 1 thing, what would it be? 
+
+P: I’m used to spending long periods of time in concentrated effort. I’m not sure my other Veterans are the same way. I’m split it up. Send some questions at one time and send some at another. It is a long process to knock it all out. 
+
+M: Impact to quality of the appointment? 
+
+P: I think that it would be helpful to the provider. When you are sitting at home and thinking about what you have. I think that you get better information when you are relaxed and sitting at home. 
+
+M: Answering at home impact responses? 
+
+P: Yes. I would be much more through answering it at home, then answering them at the doctor’s office.  
+
+M: Number of questions? 
+
+P: I think they are too many for one sitting. It should be broken down into third. 
+
+M: # of questions or minutes? 
+
+P: 20 minutes. I’m not speaking specifically for me, but for other Veterans. I know that they wouldn’t put up with an hour worth of questions. 
