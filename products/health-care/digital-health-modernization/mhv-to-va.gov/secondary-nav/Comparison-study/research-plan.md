@@ -52,8 +52,8 @@ We will conduct remote interviews with Zoom. The interviews will consist of a co
 We will partner with Perigean to recruit Veterans and we request a 30 min. kickoff meeting with Perigean to clarify recruiting needs. 
 
 Possible meeting times for a kick-off: 
-* Tuesday, Jan 16: 1-2 eastern, 3:30-4:30 eastern
-* Wednesday, Jan 17: 9-11:30 eastern
+* Wednesday, Jan 17: 9-11:30 eastern (ideally) or anytime between 9a-5p eastern time
+* Let me know if you need more time options! 
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
 
@@ -61,22 +61,23 @@ We will keep track of participant demographic information (identified gender, ag
 
 **Primary criteria (must-haves)**
 - 16 participants total, split into 4 groups of 4
-- Each group of 4 must have the following characteristics:
+- Each group of 4 must have the following characteristics: 
 	- 2 participants have VA health care / 2 participants do not
  	- 2 participants are 55+ / 2 participants under age 55
   	- 1 participant self-identifies as having a cognitive disability
   	- 1 participant uses a screenreader during the study
 	- 1 participant uses pinch magnification
-
+ 	- Split pretty evenly given the characteristics already listed here: 50% of participants will be testing on desktop and 50% will be testing on mobile phone.  
+ 	  
 **Important secondary criteria**
 - At least 6 who identify as a race other than white/caucasian
 - At least 6 who identify as a gender other than male
 - At least 2 who identify as LGBTQ
 
 ## Timeline
-- Submit for approval: 1/12/24
+- Submit for approval: 1/16/24
 - Pilot #1: Haven't rescheduled yet, but will be during the week of 1/16-1/19
-- Kick-off: Tuesday 1/16 or Wednesday 1/17
+- Kick-off: Wednesday 1/17
 - Conduct interviews: 1/23 or 1/24 - 1/31
 - Synthesize and analysis week 2/1-2/8
 
