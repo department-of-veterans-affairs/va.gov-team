@@ -577,4 +577,4 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 ## Approved by:
 
 - Becky Phung, PO on 1/9/2024
-- [PENDING] Shane Strassberg, VA Research Ops on [DATE]
+- Shane Strassberg, VA Research Ops on 1/11/2024
