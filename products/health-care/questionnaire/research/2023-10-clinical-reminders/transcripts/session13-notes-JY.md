@@ -1,5 +1,6 @@
-Notetaker 
-1/11 @ 10 participant
+# Participant 12 eScreening Heath Questionnaire Veteran Pilot
+
+Notetaker: Jamine Yohannan
 
 Q1: Remembered receiving a couple different questions, one of them says Yes, and then if he answers No to that one, he will receive an email asking for the schedule. And then also the covid one.
 
