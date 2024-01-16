@@ -1,6 +1,15 @@
 # Family and Caregiver Benefit Hub Implementation Plan
 
-## Product impacts
+**Jump to:**
+
+- [Product impacts](#product-impacts)
+- [Roll-out approach](#roll-out)
+- [Recommendations](#recommendations)
+- [Further research needed](#further-research-needed)
+- [Who we talked to](#who-we-talked-to)
+
+
+## Product impacts <a id="product-impacts"></a>
 _All products, content areas, and navigation elements impacted by this effort that will require content, design, development, or IA changes_
 
 **Resources and support**
@@ -61,7 +70,7 @@ _All products, content areas, and navigation elements impacted by this effort th
 **Search**
   - No changes needed at this time. CAIA to determine any best bet changes.
 
-
+<a id="roll-out></a>
 ## Roll-out approach
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
@@ -115,5 +124,14 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - Ongoing communication with stakeholders during roll-out
 
 
+## Next steps
+
+- [x] Finalize IA plan - Mikki
+- [] Identify additional research needs, pull in Amanda - Mikki
+- [] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
+- [] Build out landing page drafts in Drupal - Danielle
+- [] Present in benefits check-in - Danielle/Mikki 1/24?
+- [] Schedule read out in Monday design meeting - Mikki
+- [] Plan/schedule CAIA deep dive - Danielle/Mikki
 
 
