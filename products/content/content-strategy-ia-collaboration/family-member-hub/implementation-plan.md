@@ -4,9 +4,9 @@
 
 - [Product impacts](#product-impacts)
 - [Roll-out approach](#roll-out)
-- [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
-- [Who we talked to](#who-we-talked-to)
+- [Communications plan](#communications)
+- [Stakeholders](#stakeholders)
+- [Next steps](#next-steps)
 
 
 ## Product impacts <a id="product-impacts"></a>
@@ -70,8 +70,8 @@ _All products, content areas, and navigation elements impacted by this effort th
 **Search**
   - No changes needed at this time. CAIA to determine any best bet changes.
 
-<a id="roll-out></a>
-## Roll-out approach
+
+## Roll-out approach <a id="roll-out></a>
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
 
@@ -92,7 +92,7 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - Implement redirects
 
 
-## Stakeholders
+## Stakeholders <a id="stakeholders"></a>
 
 **OCTO stakeholders**
 - Portfolio leads: Chris Johnston, Lauren Alexanderson, Zach Goldfine
@@ -104,7 +104,7 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - VHA Digital Comms: Jenny Hieland-Ludke
 
 
-## Communication plan
+## Communication plan <a id="communications"></a>
 
 - Communication to OCTO stakeholders
   - [x] Overview of effort so far and next steps at team meeting - Done 1/11/24
@@ -124,7 +124,7 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - Ongoing communication with stakeholders during roll-out
 
 
-## Next steps
+## Next steps <a id="next-steps"></a>
 
 - [x] Finalize IA plan - Mikki
 - [] Identify additional research needs, pull in Amanda - Mikki
