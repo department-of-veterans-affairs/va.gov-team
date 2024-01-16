@@ -107,12 +107,12 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 ## Communication plan <a id="communications"></a>
 
 Communication to OCTO stakeholders
-- [x] Overview of effort so far and next steps at team meeting - Done 1/11/24
-- [ ] Research results and next steps at upcoming OCTO Monday design meeting - Mikki to schedule
-- [ ] Share with OCTO benefits colleagues in next benefits/content/IA check in - Next meeting is 1/23/24
+- [x] Overview of effort so far and next steps at team meeting 
+- [ ] Research results and next steps at OCTO Monday design meeting
+- [ ] Share with benefits portfolia
 - [ ] Share with Chris
 - [ ] Share with health portfolio
-- [ ] CAIA deep dive
+- [ ] CAIA deep dive(s)
 
 Initial communication to all impacted stakeholders
 - [ ] Present to the survivor group (Danielle to reach out to Melissa R to schedule)
@@ -127,8 +127,10 @@ Ongoing communication with stakeholders during roll-out
 
 ## Next steps <a id="next-steps"></a>
 
-- [x] Finalize IA plan - Mikki
-- [ ] Identify additional research needs, pull in Amanda - Mikki
+- [x] Present to OCTO team - Done 1/1//24
+- [x] Finalize IA plan - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
+- [ ] Identify additional research needs, pull in Amanda as needed - Mikki to review and schedule time with everyone as needed
+- [ ] Schedule and present work to Chris - Danielle to schedule
 - [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
 - [ ] Build out landing page drafts in Drupal - Danielle
 - [ ] Present in benefits check-in - Danielle/Mikki 1/24?
