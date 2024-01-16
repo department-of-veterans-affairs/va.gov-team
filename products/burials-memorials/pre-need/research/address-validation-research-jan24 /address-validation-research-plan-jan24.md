@@ -177,11 +177,11 @@ Please list the people who will be serving in each role. **Include the primary p
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Not required for this study 
 - Note-takers: Carly Yamrus, yamrus_carly@bah.com 
 - Observers (limiting 3-4 of the following people per session):  
-- Catherine Hughes (hughes_catherine@bah.com) 
-- Rhonda Jones (rhonda.jones1@va.gov) 
-- Sathish Kadiresan (sathish.kadiresan@va.gov) 
-- Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com) 
-- Kelby Stewart (stewart_kelby@bah.com) 
-- Laura Willwerth (l.willwerth@bloomworks.digital) 
-- Aliyah Blackmore (a.blackmore@bloomworks.digital) 
-- Ginger Wilson (ginger.wilson@va.gov) 
+    - Catherine Hughes (hughes_catherine@bah.com) 
+    - Rhonda Jones (rhonda.jones1@va.gov) 
+    - Sathish Kadiresan (sathish.kadiresan@va.gov) 
+    - Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com) 
+    - Kelby Stewart (stewart_kelby@bah.com) 
+    - Laura Willwerth (l.willwerth@bloomworks.digital) 
+    - Aliyah Blackmore (a.blackmore@bloomworks.digital) 
+    - Ginger Wilson (ginger.wilson@va.gov)
