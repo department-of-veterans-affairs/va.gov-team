@@ -333,7 +333,7 @@ Let's say that you recently moved and want to make sure that your mail and benef
 *(Can select any login option)* 
 You *don't* need to enter your *actual* email address and password since this is a prototype.
 
-*(See My VA and* Name/Sign Out *in top right corner)*
+*(See Name/Sign Out in top right corner)*
 
 *RECORD navigation: 
 - *(desktop) **Name > Profile*** 
