@@ -71,20 +71,24 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
   <tr>
    <td>
 <ul>
+
+<li> App Store for Va.gov image and content updates by Team PMs outside of Release process
   
-<li> App Store (Va.gov, Apple, Android) content and image updates 
+<li> App Store (Apple, Android) image updates by Team PMs outside of Release process
+
+<li> App Store (Apple, Android) content by Release team based on Team's tickets 
  
-<li> Call Center Guide 
+<li> Call Center Guide by Team PMs outside of Release process
 
-<li> In-App Whats New Alert Box content 
+<li> In-App Whats New Alert Box content - by Release team based on Team's tickets 
 
-<li> Determining what bugs need to be completed pre-MVP and those that are not 
+<li> Determining what bugs need to be completed pre-MVP and those that are not by Team PMs outside of Release process
    
-<li> Close out the epic checklist list 
+<li> Close out the epic checklist list by Team PMs outside of Release process
 
-<li> Coordinate with POs on updates (including external POs) 
+<li> Coordinate with POs on updates (including external POs) by Team PMs outside of Release process
 
-<li> Release approval after QA approval
+<li> Release approval after QA approvalby Team PMs in communication thread
 </li>
 
 </ul>
