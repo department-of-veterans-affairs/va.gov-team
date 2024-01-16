@@ -10,11 +10,11 @@ Anne Costello Kennedy (anne.costello@va.gov)
 
 **Jump to:**
 
-- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study#hypotheses-and-conclusions)
-- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
-- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
-- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
-- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to)
+- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#hypotheses-and-conclusions)
+- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#key-findings)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#recommendations)
+- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#further-research-needed)
+- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#who-we-talked-to)
 
 ## Research Goals
 
@@ -76,7 +76,7 @@ _Hypothesis 2:_ Most Veterans will be familiar with the location and facility/cl
 
 **8 of 13 participants stated they use Secure Messaging because of the frustration caused by the complexity of the VA phone system**. Participants cited their inability to reach their desired provider from the main phone number provided by the VA. Complaints included navigating the system, frustration with operators, and time spent on hold.
 
-"_I typically prefer communicating [with Secure Messaging] than playing phone tag."_
+_"I typically prefer communicating [with Secure Messaging] than playing phone tag."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Generative (discovery), RESRCH: Interviews
 
@@ -90,7 +90,7 @@ LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to 
 
 **5 of 12 participants stated they were unable to contact a specific provider because they did not appear in their contact list.** Some were looking to contact a specialist about a temporary or new medical issue. Others stated that contacts disappeared from their contact list.
 
-"_I learned that other medical providers need to give you permission to email [them]. Not knowing that was a little challenging because of course you want to get the message to the right person instead of going through two or three layers."_​
+_"I learned that other medical providers need to give you permission to email [them]. Not knowing that was a little challenging because of course you want to get the message to the right person instead of going through two or three layers."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Generative (discovery), RESRCH: Interviews
 
@@ -98,7 +98,7 @@ LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to 
 
 **5 of 12 participants stated the provider name in the triage group name is how they identify the correct one.** Some mentioned that the triage group would be at the top of their list referring to the naming convention of adding two asterisks (\*\*) at the beginning of primary care provider groups. One participant uses the team name, another uses clinic name, and the remaining participants were not able to state how they identify the correct contact.
 
-"_The name is in there. When I go into the system and click on that dropdown box, the name will come up."_
+_"The name is in there. When I go into the system and click on that dropdown box, the name will come up."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Generative (discovery), RESRCH: Interviews
 
@@ -106,11 +106,11 @@ LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to 
 
 **6 of 12 participants could not identify the meaning of the abbreviations/acronyms/symbols** in a task (Task 1 in image) in which they were asked to choose a triage group from a list with multiple instances of the same name. This was especially prevalent with the task (Task 2 image) in which no name was provided.
 
-![Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/Task%20image.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/Task%20image.png)
+![Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/Task%20image.png)
 
 **4 of 12 participants stated that their triage group names have caused confusion because of acronyms, symbols, and abbreviations.** They said they had to be told which triage groups to use.
 
-"_If it was simpler, I would use it more."__​_
+_"If it was simpler, I would use it more."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Generative (discovery), RESRCH: Interviews
 
@@ -120,7 +120,7 @@ LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to 
 
 **5 of 12 participants mentioned having sent messages to the wrong triage group in the past.**
 
-"_At one time I was sending secure messages to a different clinic than the one I intended to because at the time I didn't actually understand that the first letter was for the clinic and the city it was located in."_
+_"At one time I was sending secure messages to a different clinic than the one I intended to because at the time I didn't actually understand that the first letter was for the clinic and the city it was located in."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Generative (discovery), RESRCH: Interviews
 
@@ -140,15 +140,15 @@ LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to 
 
 **7 of 11 participants chose 'Care type' to help Veterans choose their triage group.** Four of those seven mentioned it first or second in their list.
 
-"_I would definitely use 'Care type'."_
+_"I would definitely use 'Care type'."_
 
 **7 of 11 participants chose 'Doctor name' to help Veterans choose their triage group.** Four of those seven mentioned it first or second in their list.
 
-"_I would say the most important thing is probably, the physician. The doctor's name would be top priority."_
+_"I would say the most important thing is probably, the physician. The doctor's name would be top priority."_
 
 **7 of 11 participants chose 'Clinic name' to help Veterans choose their triage group.** Six of those seven mentioned it first or second in their list, and four of those also included other location identifiers in their list.
 
-"_Identifying the location is essential."_
+_"Identifying the location is essential."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Card Sort RESRCH: Interviews
 
@@ -156,7 +156,7 @@ LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to 
 
 **11 of 12 participants mentioned appointment at one point during the session and 11 of 11 participants placed 'Appointment' into the "I know this' category during the card sort, but 0 of 12 participants chose 'Appointment' to help Veterans choose a triage group.**
 
-"_I get emails telling me I have an appointment. I get a letter in the mail. If I had those two things in hand, I'd know which doctor [the triage group] goes to."_
+_"I get emails telling me I have an appointment. I get a letter in the mail. If I had those two things in hand, I'd know which doctor [the triage group] goes to."_
 
 LABELS: MHV: Secure Messaging, PRDT: Secure-messaging, PRDT: MHV integration to VA.gov, RESRCH: Card Sort RESRCH: Interviews
 
