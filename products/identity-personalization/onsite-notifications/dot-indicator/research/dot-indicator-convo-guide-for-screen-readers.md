@@ -4,7 +4,9 @@
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
-- [Link to Sketch prototype](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/P1WQemr) - for reference. Can't be used for screen reader users. 
+- [Link to Figma __desktop__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=196-26640&t=cDBQ1pG5noiJPEC5-1&scaling=scale-down-width&page-id=196%3A26639&mode=design)  __for reference only. Can't be used for screen reader users.__
+- [Link to Figma __mobile__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=222-2228&t=Ly98ZWGK70aAsDJk-1&scaling=min-zoom&page-id=196%3A26639&starting-point-node-id=222%3A2228&show-proto-sidebar=1&mode=design) (use as a backup only - share link for prototype)  __for reference only. Can't be used for screen reader users.__
+
 
 ## Starting the session
 - _Keep observers in waiting room to ask participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to participant when they are admitted to the session._
@@ -13,7 +15,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Angela. Today we're going to be reviewing some new features being considered for VA.gov.
+Thanks for joining us today! My name is Matt. Today we're going to be reviewing some new features being considered for VA.gov.
 
 Before we dive into it, could you please verify if you'll be using a screen reader for the session?
 - *If no, switch to [sighted user conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide.md).
