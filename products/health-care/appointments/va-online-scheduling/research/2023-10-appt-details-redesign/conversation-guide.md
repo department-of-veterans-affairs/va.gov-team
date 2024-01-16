@@ -93,7 +93,7 @@ You know you have an appointment scheduled with Dr. Ralph Scott and want to know
 - _Can participant find **where** their appointment will be?_
 - _Can participant understand the information on the details page?_
 
-## 2: Pre check-in task - 5 minutes
+## 2: Pre check-in task
 **If participant notices pre check-in, have them click "Review your personal healthcare contacts"**
 
 Go ahead and complete any tasks on this page. 
@@ -112,7 +112,7 @@ Down at the bottom of this page, there is a link to "review your personal health
 - _Can participate find their way back from personal healthcare contacts page?_
 
 ## 3: Upcoming video appointment
-You also have a video appointment scheduled with Allison Carter next month. You want more information on the appointment, how would you do that from here?
+You have a video appointment scheduled with Allison Carter next month. You want more information on the appointment, how would you do that from here?
 
 **Follow up:** 
 - What are your thoughts on this page?
@@ -125,7 +125,21 @@ You also have a video appointment scheduled with Allison Carter next month. You 
 - _Does participant understand how to join their appointment?_
 - _Does participant notice the "join appoitnment" link before the other CTA's?_
 
-## 4: Phone appointment
+## 4: Empty state
+You have a VA appointment scheduled for 2 pm on Wednesday the 14th and want to find out how to get to the appointment. How would you do that from here?
+
+**Follow up:** 
+- What do you notice about the appointment information?
+- How are you to attend this appointment?
+- How would you make changes to this appointment?
+
+#### Things to watch for:
+
+- _Does participant understand the missing information?_
+- _Does participant understand where to go for this appointment?_
+- _Can participant find the "need to make changes" information?_
+
+## 5: Phone appointment
 You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
 
 **Follow up:** 
@@ -136,7 +150,7 @@ You have a phone appointment with Nancy Portman and want to know more info about
 
 - _Does participant understand how to attend this appointment?_
 
-## 5: Cancelation
+## 6: Cancelation
 You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
 
 **Follow up:** 
@@ -150,7 +164,7 @@ You have a phone appointment with Nancy Portman and want to know more info about
 - _Can particpant find the cancelation button?_
 - _What does participant expect from canceling an appointment?_
 
-## 6: After visit summary
+## 7: After visit summary
 You had a podiatry appointment last month and want to review what was discussed in the appointment. Where would you go to find that information?
 
 **Follow up:** 
@@ -161,7 +175,7 @@ You had a podiatry appointment last month and want to review what was discussed 
 - _Can participant easily find their after visit summary?_
 - _Can participant easily navigate back from their after visit summary??_
 
-## 7: Appointment request
+## 8: Appointment request
 You made an appointment request and wanted to check on the status. How would you do that from here?
 
 **Follow up:** 
@@ -173,7 +187,7 @@ You made an appointment request and wanted to check on the status. How would you
 - _Does participant understand pending appointments?_
 - _Does participant understand the information on the details page?_
 
-## Post-Task Interview - 5 minutes 
+## Post-Task Interview
 
 - Of everything you saw today, what was the most confusing, or challenging?
 
@@ -181,7 +195,7 @@ You made an appointment request and wanted to check on the status. How would you
 
 - What could we do better?
 
-## Thank-You and Closing - 5 minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
