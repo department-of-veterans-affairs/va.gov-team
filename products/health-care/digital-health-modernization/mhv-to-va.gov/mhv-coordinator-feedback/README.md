@@ -5,7 +5,7 @@ Please contact Kristen McConnell (kristen.mcconnell@va.gov) if you would like to
 ## Upcoming Feedback Sessions
 | Date | Team | POC |
 | ---- | ---- | ---- |
-| January | Medications | Kay Lawyer (katherine.lawyer@va.gov) |
+| January 22, 2024 at 3 -4 p.m. ET  | Medications | Kay Lawyer (katherine.lawyer@va.gov) |
 | February | Medical Records | Marci McGuire (Marci.McGuire@va.gov) |
 
 ## Past Feedback Sessions
