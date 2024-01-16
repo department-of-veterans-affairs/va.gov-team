@@ -1,5 +1,23 @@
 # Design Weekly Sync Agenda
 
+## 2024-01-16
+Attendees: Angela, Hieu, Jessica, Katelyn, Heather, and Kristen.
+
+- Toxic Exposure
+    - We already have the Mural and a PACT Act wizard (check eligible then apply  for 10-10).
+    - Kristen mentioned that the OCTO team had some recent related research with Nina synthesizing this week and Kristen will do a first path.
+    - Step 1 is to gather all the information.
+    - There are talks of adding this information to the 526. If that is the case, how can that information be captured so the Veteran does not have to fill out the same information in the 10-10. Is there another backend system that connects this information? Is the Enrollment System ready for this information?
+    - "If the answer is YES for X, does it mean they don't have to answer the following question?" Map the workflow after the initial discovery step.
+    - The veteran wants to be asked the questions again when the definition of Toxic exposure changes.
+- OCTO Presentation
+    - Print PDF to Kristen.
+    - Re-word the text for HEC focused on wanting to stay true to the paperform.
+    - Note that it is a new FORM, step 1 is MVP, with the following steps including Notification workflow.
+- Registration-only Update
+    - Jessica started a rough script, Angela will read it.
+
+
 ## 2024-01-08
 Attendees: Angela, Hieu, Jessica, Katelyn, And Heather
 
