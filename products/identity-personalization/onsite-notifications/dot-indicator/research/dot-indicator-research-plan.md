@@ -79,10 +79,10 @@ TBD
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
-- Moderator: Angela Agosto (angela.agosto@adhocteam.us, 570-807-0619)
-- Research guide writing and task development: Angela Agosto	
+- Moderator: Matt Marino (matt.marino@adhocteam.us)
+- Research guide writing and task development: Matt Marino and Angela Agosto	
 - Participant recruiting & screening: Perigean
-- Project point of contact: Angela Agosto
+- Project point of contact: Matt Marino
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
 - Note-takers: TBD
@@ -90,4 +90,4 @@ Please list the people who will be serving in each role.
 samara.strauss@va.gov
 ana@adhocteam.us
 allison@cityfriends.tech
-derrick.ellerbie@agile6.com
+daniel.miller@agile6.com
