@@ -80,7 +80,6 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 [Have the participant click "View details" on the in-progress claim]
 
 - Tell me what you see here. (Prompt them to scroll up and down.)
-- Based on what you see here, what would you say is the status of this claim? (Might be the same answer as First Task)
 - Do you feel like this tells you everything you need to know about the claim? Why or why not?
 - If you wanted to understand more about what is going on with your claim, where would you go from here?
 
@@ -133,7 +132,6 @@ Now let's imagine you log out, a couple of weeks go by, and you log back in. You
 - Where would you go to check for updates to the claim?
   
 [Status Tab]
-- Based on what you see here, how would you describe the state of this claim? [Claim will be in Step 6: Final review]
 - Is there any information you're not seeing here that you'd like to see?
 - Is there anywhere else you would go to find more information about the claim?
 
