@@ -53,11 +53,11 @@ Now I’d like to get your feedback on a prototype and have you share your scree
 Great, I can see your screen. Next, I’ll have you pull up the prototype. Would you prefer I send you the link via Zoom chat or tell you the URL verbally so you can enter it in? 
 
 TK: Prototype link
-*Guide participant to prototype.*
+*Guide participant to prototype. Prototype will start on the unauthenticated version of the life insurance page.*
 
-Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you. 
+Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  As a heads up, the prototype starts on a random page of VA.gov, but we don’t need you to give us feedback on this main portion of this page specifically.
 
-Ok, first, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
+Instead, first, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
 
 ***Goal: get participant to View Disability Rating page***
 
