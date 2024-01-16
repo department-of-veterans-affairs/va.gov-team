@@ -9,9 +9,10 @@ The application for pre-need is available to Veterans, service members, family m
 We will be conducting usability testing using interactive designs of a new address validation pattern within our Pre-Need Integration prototype to ensure it meets the needs of VA.gov users and that it can provide NCSO analysts with accurate data.  
 
 Since this is a new pattern for the VA.gov Design System, we want to explore all possible use cases since this would need to replace the existing address validation pattern, if approved.  
-Based on previous research and the overall goals for the project, our plan for the Pre-Need digital form moving forward is: 
-Continue releasing enhancements in an "Integration" phase in which the form will be fully integrated with the modernized system to allow for faster case processing 
-Once Integration phase development is complete and form is stabilized, proceed to implement address validation in pre-need application 
+Based on previous research and the overall goals for the project, our plan for the Pre-Need digital form moving forward involves: 
+- Continue releasing enhancements in an "Integration" phase in which the form will be fully integrated with the modernized system to allow for faster case processing. 
+- Once Integration phase development is complete and form is stabilized, proceed to implement address validation in pre-need application. 
+
 [Link to product brief]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md). 
  
 ### OCTO Priorities  
@@ -29,10 +30,9 @@ The Pre-Need application and within that, address validation, applies to life st
  
 ## Research goals 
  
-- Goal 1: Test the usability of our address validation solution to ensure it’s easily usable and accessible for applicants while testing all possible use cases in preparation for adoption into VADS, if approved. 
+- **Goal 1:** Test the usability of our address validation solution to ensure it’s easily usable and accessible for applicants while testing all possible use cases in preparation for adoption into VADS, if approved. 
  
-- Goal 2: Discover how users approach having an additional step to validate addresses in the pre-need application. 
- 
+- **Goal 2:** Discover how users approach having an additional step to validate addresses in the pre-need application. 
  
 ### Outcome 
  
@@ -41,7 +41,7 @@ These learnings will allow us to evaluate for additional gaps in address validat
  
 ### Research questions 
  
-**Goal 1: Test the usability of our address validation solution to ensure it’s easily usable and accessible for applicants while testing all possible use cases in preparation for adoption into VADS (if approved).** 
+**Goal 1:** Test the usability of our address validation solution to ensure it’s easy to use and accessible for applicants while testing all possible use cases in preparation for adoption into VADS (if approved).
 - What’s working well and what pain points do users experience with address validation? 
  
 - Are there any use cases that present additional difficulties for users? 
@@ -49,22 +49,21 @@ These learnings will allow us to evaluate for additional gaps in address validat
 - Do users have any concerns or confusion with validating their address? 
 - Is the language for address validation messaging clear to users? 
  
-**Goal 2: Discover how users approach the process of address validation in the pre-need application.** 
+**Goal 2:** Discover how users approach the process of address validation in the pre-need application. 
 - Will users typically feel more comfortable choosing the suggested address or the address they entered? 
 - How will users approach having to validate multiple addresses, such as when a preparer or sponsor is completing the form? 
 - Do users understand next steps once validation results are displayed to them? 
 - How do users with prior VA.gov form experience feel about this new process, such as having to go through an extra step? 
 - Will users be confused about their progress when validating their address? 
  
- 
 ### Hypothesis 
  
 Our hypothesis is users might:  
  
-Easily be able to validate their addresses and will not feel burdened by extra validation step when applying, particularly in the case of Veterans applying for themselves. 
-Feel some discomfort moving forward with an address that was not validated through VA.gov or they may wonder why they need to validate their address in the first place (particularly those with prior VA.gov experience). 
-Be confident that their address is validated when they see the success alert 
-Feel frustrated when having to validate addresses multiple times, such as preparers or sponsors applying on behalf of someone else or if they need to come back to change an address they previously validated. 
+- Easily be able to validate their addresses and will not feel burdened by extra validation step when applying, particularly in the case of Veterans applying for themselves. 
+- Feel some discomfort moving forward with an address that was not validated through VA.gov or they may wonder why they need to validate their address in the first place (particularly those with prior VA.gov experience). 
+- Be confident that their address is validated when they see the success alert 
+- Feel frustrated when having to validate addresses multiple times, such as preparers or sponsors applying on behalf of someone else or if they need to come back to change an address they previously validated. 
  
 ## Methodology	 
  
