@@ -13,7 +13,7 @@ Based on previous research and the overall goals for the project, our plan for t
 - Continue releasing enhancements in an "Integration" phase in which the form will be fully integrated with the modernized system to allow for faster case processing. 
 - Once Integration phase development is complete and form is stabilized, proceed to implement address validation in pre-need application. 
 
-[Link to product brief]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md). 
+[Link to product brief]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/README-2023.md)
  
 ### OCTO Priorities  
  
