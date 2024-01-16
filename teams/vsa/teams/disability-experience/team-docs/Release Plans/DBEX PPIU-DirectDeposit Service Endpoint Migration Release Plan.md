@@ -155,7 +155,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
             Date: 1/5/24
             Severity/Impact: Low
             Ticket(s) created to address:
-            - [ ] Has the issue been resolved?
+            - [x] Has the issue been resolved?
+            - Found this was due to a calculation error for LH error volume. Composite error volume has not changed
 
 <br>
 
@@ -168,7 +169,10 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - Anomalies:
+    - AE team noted PPIU activity directing to EVSS via the v0 controller. Notably, we currently don't direct anything through the controller, nor does the AE team. Need to investigate.
+        -  The referrer for these logs is the 526 form, possible we may have missed a controller call.
 - Rollbacks:
+
 
 <br>
 
