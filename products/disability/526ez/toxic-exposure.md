@@ -86,6 +86,7 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 <img alt="Screen showing a checkbox group of conditions plus &quot;I am not claiming any conditions related to toxic exposure&quot;. &quot;Tinnitus&quot; and &quot;I am not claiming any conditions related to toxic exposure&quot; are both checked. There's a displayed error message of &quot;You selected a condition, and 'I am not claiming any conditions related to toxic exposure'. You'll need to uncheck one of these options to continue.&quot;" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b9a79bdc-ad94-4ab5-a353-f677d4b5451d" title="Conditions" align="left"/>
 
 <br />
+
 #### Other approaches considered
  
 <ul>
