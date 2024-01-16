@@ -127,6 +127,6 @@ Additional details can be found [here](https://github.com/department-of-veterans
 - [Feature flag documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
 
 ## Design and UX
-- [Notification settings sketch files](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A1&mode=design&t=y8vih7OCF5PGBczD-1)
+- [Notification preferences](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A1&mode=design&t=y8vih7OCF5PGBczD-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md)
 
