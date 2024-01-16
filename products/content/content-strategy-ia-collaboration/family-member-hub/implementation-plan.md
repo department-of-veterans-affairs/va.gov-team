@@ -128,7 +128,8 @@ Ongoing communication with stakeholders during roll-out
 ## Next steps <a id="next-steps"></a>
 
 - [x] Present to OCTO team - Done 1/1//24
-- [x] Finalize IA plan - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
+- [x] Finalize organizational structure - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
+- [ ] Incorporate into placement criteria and overall taxonomy definition - Danielle/Mikki 
 - [ ] Identify additional research needs, pull in Amanda as needed - Mikki to review and schedule time with everyone as needed
 - [ ] Schedule and present work to Chris - Danielle to schedule
 - [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
