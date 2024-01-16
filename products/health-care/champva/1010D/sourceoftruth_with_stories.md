@@ -346,25 +346,27 @@ VA file number
 
 ## Step 1 of 3:  Veteran Information
 
-<details>### [H3] Status of the Veteran you’re connected to {Story 1}
+<details>
+ <summary>### [H3] Status of the Veteran you’re connected to {Story 1}</summary>
 
 Is the Veteran that you are connected to still living? (*Required)
 
-<summary>( ) Yes, the Veteran that I am connected to is still living
+( ) Yes, the Veteran that I am connected to is still living
 
-( ) No, the Veteran that I am connected to is deceased</summary>
+( ) No, the Veteran that I am connected to is deceased
 
 </details>
 
-## Step 1 of 3:  Veteran Information
+## Step 2 of 4:  Veteran Information
 
-<details>### [H3] Status of the Veteran the applicant is connected to {Story 3}
+<details>
+ <summary> ### [H3] Status of the Veteran the applicant is connected to {Story 3}</summary>
 
-<summary>Is the Veteran of the applicant is connected to still living? (*Required)
+Is the Veteran of the applicant is connected to still living? (*Required)
 
 ( ) Yes, the Veteran of the applicant is connected to is still living
 
-( ) No, the Veteran of the applicant is connected to is deceased</summary>
+( ) No, the Veteran of the applicant is connected to is deceased 
 
 </details>
 
@@ -372,28 +374,29 @@ Is the Veteran that you are connected to still living? (*Required)
 
 { if Veteran is deceased }
 
-## Step 1 of 3:  Veteran Information
+## Step 2 of 4:  Veteran Information
 
-<details>### [H3] Status of the Veteran you’re connected to {Story 1}
+<details><summary> ### [H3] Status of the Veteran you’re connected to {Story 1}</summary>
  
      
-<summary>Did the Veteran you’re connected to pass away on active military service? (* Required)   
+Did the Veteran you’re connected to pass away on active military service? (* Required)   
 
 Date of death (*Required)   
 M/D/Y
 
 ( ) Yes, the Veteran that I’m connected to passed away during active military service   
 
-( ) No, the Veteran that I’m connected to did not pass away during active military service</summary></details>
+( ) No, the Veteran that I’m connected to did not pass away during active military service</details>
 
 
 
 { Buttons } Back / Continue
 
-<details>### [H3] Status of the Veteran you’re connected to {Story 3}
+<details>
+ <summary> ### [H3] Status of the Veteran you’re connected to {Story 3} </summary>
  
      
-<summary>
+
 Date of death (*Required)   
 M/D/Y
  
@@ -401,7 +404,7 @@ M/D/Y
 
 ( ) Yes, the Veteran the applicant is connected to passed away during active military service   
 
-( ) No, the Veteran the applicant is connected to did not pass away during active military service</summary></details>
+( ) No, the Veteran the applicant is connected to did not pass away during active military service </details>
 
 
 
