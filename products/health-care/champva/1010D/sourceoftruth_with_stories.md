@@ -316,11 +316,11 @@ An authorized power of attorney can fill out this request for the person with th
 
 [H3] { Veteran you're connected to's / Your / Applicant's } name and date of birth
 
-Please provide your information for the Veteran that you're connected to. We use this information to verify some eligibility. { Story 1 }   
+Please provide the information for the Veteran that you're connected to. We use this information to verify eligibility. { Story 1 }   
 
-Please provide your information. We use this information to verify some eligibility. { Story 2 }   
+Please provide your information. We use this information to verify eligibility. { Story 2 }   
 
-Please provide the Veteran's information. We use this information to verify some eligibility. { Story 3 }   
+Please provide the Veteran's information. We use this information to verify eligibility. { Story 3 }   
 
 First name (*Required)  
 Middle name  
@@ -428,7 +428,7 @@ Did the Veteran the applicant is connected to pass away on active military servi
 <details>
  <summary> [H3] Does the Veteran you're connected to have a current mailing address? (* Required) {Story 1}</summary>
 
-If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
+{hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
 ( ) Yes, the Veteran has a current mailing address.
 
@@ -442,7 +442,7 @@ If we have a way to contact the Veteran, we'll be able to process this request f
 <details>
  <summary>### [H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
 
-If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
+{hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
 ( ) Yes, I have a current mailing address.
 
@@ -457,7 +457,7 @@ If we have a way to contact you, we'll be able to process this request faster. B
 <details>
  <summary>[H3] Does the Veteran the applicant is connected to have a current mailing address? (* Required) {Story 3}</summary>
 
-If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
+{hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
 ( ) Yes, the Veteran has a current mailing address.
 
@@ -472,7 +472,7 @@ If we have a way to contact the Veteran, we'll be able to process this request f
 
 <details>
 
-### <summary>[H3] Mailing Address of the Veteran you’re connected to {Story 1}</summary>
+ <summary>[H3] Mailing address of the Veteran you’re connected to {Story 1}</summary>
 
 
 - [ ] Veteran lives on a United States military base outside of the country.
@@ -520,7 +520,7 @@ Postal code (* Required)
 
 <details>
 
-<summary> [H3] Mailing Address of the Veteran the applicant is connected to {Story 3}</summary>
+<summary> [H3] Mailing address of the Veteran the applicant is connected to {Story 3}</summary>
 
 
 - [ ] Veteran lives on a United States military base outside of the country.
@@ -546,11 +546,12 @@ Postal code (* Required)
 {if mailing address}
 
 
-### [H3] Contact info of the Veteran you’re connected to 
+<details>
+ <summary>[H3] Contact info of the Veteran you’re connected to {Story 1}</summary>
 
 Does the Veteran you're connected to have a phone number? (* Required)
 
-If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
+{hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
 
 ( ) Yes, the Veteran has a phone number.
 
@@ -558,16 +559,75 @@ If we have a way to contact the Veteran, we'll be able to process this request f
 
 
 { Buttons } Back / Continue
+</details>
+
+<details>
+ <summary>[H3] Your contact information {Story 2}</summary>
+
+Do you have a phone number? (* Required)
+
+{hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a phone number for this request.
+
+( ) Yes, I have a phone number.
+
+( ) No, I don't have a phone number.
 
 
+{ Buttons } Back / Continue
+</details>
 
-[H3] Phone number of the Veteran you’re connected to 
+
+<details>
+ <summary>[H3] Contact info of the Veteran the applicant is connected to {Story 3}</summary>
+
+Does the Veteran the applicant is connected to have a phone number? (* Required)
+
+{hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
+
+( ) Yes, the Veteran has a phone number.
+
+( ) No, the Veteran doesn't have a phone number.
+
+
+{ Buttons } Back / Continue
+</details>
+
+
+{if phone number}
+
+<details>
+<summary>[H3] Phone number of the Veteran you’re connected to {Story 1}</summary>
 
 Home phone number (*Required)
 
 Mobile phone number
 
 { Buttons } Back / Continue
+
+</details>
+
+<details>
+<summary>[H3] Your phone number {Story 2}</summary>
+
+Home phone number (*Required)
+
+Mobile phone number
+
+{ Buttons } Back / Continue
+
+</details>
+
+<details>
+<summary>[H3] Phone number of the Veteran the applicant is connected to {Story 1}</summary>
+
+Home phone number (*Required)
+
+Mobile phone number
+
+{ Buttons } Back / Continue
+
+</details>
+{end if phone number}
 
 { end if Veteran is living }
 
@@ -576,7 +636,7 @@ Mobile phone number
 {Alert Box]
 #### [H3] Section complete
 
-The sponsor information has been completed. You could sign in to save your progress
+The Veteran information has been completed. You could sign in to save your progress
 
 {End Alert Box]
 
@@ -590,7 +650,7 @@ Here’s how signing in now helps you:
   
 {End Information Box]
 
-{Button} Sign in to save  your application
+{Button} Sign in to save your application
 
 {Link} Continue without signing in
 
