@@ -8,14 +8,6 @@ Anne Costello Kennedy (anne.costello@va.gov)
 
 [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/Triage\_Generative\_Readout.pdf)
 
-**Jump to:**
-
-- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#hypotheses-and-conclusions)
-- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#key-findings)
-- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#recommendations)
-- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#further-research-needed)
-- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study/research-findings.md#who-we-talked-to)
-
 ## Research Goals
 
 1. Understand Veterans' mental models and processes for choosing a triage group from their contact list in Secure Messaging.
@@ -191,8 +183,6 @@ Conduct additional research: Anne Costello Kennedy
 [Discovery Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-11-triage-group-naming-discovery/TriageResearch\_Readout.pdf)
 
 ## Who we talked to
-
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._[_See an example_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)
 
 **Recruitment criteria**
 
