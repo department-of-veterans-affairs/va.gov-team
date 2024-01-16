@@ -106,32 +106,33 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 
 ## Communication plan <a id="communications"></a>
 
-- Communication to OCTO stakeholders
-  - [x] Overview of effort so far and next steps at team meeting - Done 1/11/24
-  - [] Research results and next steps at upcoming OCTO Monday design meeting - Mikki to schedule
-  - [] Share with OCTO benefits colleagues in next benefits/content/IA check in - Next meeting is 1/23/24
-  - [] Share with Chris
-  - [] Share with health portfolio
-  - [] CAIA deep dive
-- Initial communication to all impacted stakeholders
-  - [] Present to the survivor group (Danielle to reach out to Melissa R to schedule)
-  - [] Share in next 1:1 with Jenny H-L from VHA digital media
-  - [] Share with IVC program office
-  - [] Share in kickoffs with each administrative group
-  - [] Share in digital media syncs
-  - [] Share with OPIA as a follow up to earlier meetings
-  
-- Ongoing communication with stakeholders during roll-out
+Communication to OCTO stakeholders
+- [x] Overview of effort so far and next steps at team meeting - Done 1/11/24
+- [ ] Research results and next steps at upcoming OCTO Monday design meeting - Mikki to schedule
+- [ ] Share with OCTO benefits colleagues in next benefits/content/IA check in - Next meeting is 1/23/24
+- [ ] Share with Chris
+- [ ] Share with health portfolio
+- [ ] CAIA deep dive
 
+Initial communication to all impacted stakeholders
+- [ ] Present to the survivor group (Danielle to reach out to Melissa R to schedule)
+- [ ] Share in next 1:1 with Jenny H-L from VHA digital media
+- [ ] Share with IVC program office
+- [ ] Share in kickoffs with each administrative group
+- [ ] Share in digital media syncs
+- [ ] Share with OPIA as a follow up to earlier meetings
+  
+Ongoing communication with stakeholders during roll-out
+- TBD
 
 ## Next steps <a id="next-steps"></a>
 
 - [x] Finalize IA plan - Mikki
-- [] Identify additional research needs, pull in Amanda - Mikki
-- [] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
-- [] Build out landing page drafts in Drupal - Danielle
-- [] Present in benefits check-in - Danielle/Mikki 1/24?
-- [] Schedule read out in Monday design meeting - Mikki
-- [] Plan/schedule CAIA deep dive - Danielle/Mikki
+- [ ] Identify additional research needs, pull in Amanda - Mikki
+- [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
+- [ ] Build out landing page drafts in Drupal - Danielle
+- [ ] Present in benefits check-in - Danielle/Mikki 1/24?
+- [ ] Schedule read out in Monday design meeting - Mikki
+- [ ] Plan/schedule CAIA deep dive - Danielle/Mikki
 
 
