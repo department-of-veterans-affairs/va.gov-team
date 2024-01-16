@@ -12,7 +12,23 @@
 
 ## Q1 2024
 - Believe Q4 2023 plan will continue but will need to revisit based on how all the teams coordinate once all the teams are set-up and maturing
-- Discuss Bug scrub process and if any changes are needed 
+- Discuss Bug scrub process and if any changes are needed
+- Focus 
+  - Automation
+     1.) Develop guideline and procedures for when engineering handles the detox test (new and modifications)
+     2.) Develop a way that only certain features/functionality can be tested vs having to run all e2e tests
+  - QA and Release KPI creation (draft)
+     - Bugs pre launch and post launch & severity 
+     - Detox tests breaking after changes
+     - App size (Per Tim 1/16)
+     - Total releases
+     - Build success vs fails
+     - Average time for regression / manual effort per sprint
+     - Total number of tests run 
+  - Platform prep
+     - Documenting existing processes
+     - Idenitfy processes that need changed
+     - Determine testing standard (iOSs we will support, new OS incorporation)  
 
 
 ## Intent 
@@ -32,3 +48,17 @@
 - Determining who owns and manage the code post release - Rachel (PO) identified and spoke of 1/9 during 3pm Quarterly Planning convo
 - Ensuring that QA is involved in early conversations on Flagship teams to help view the end to end experience given their knowledge and understanding
 - Making the process to rigid that people can't get through 
+
+
+## WIP 2024 Plan
+Q1 2024
+ - Automation
+     1.) Develop guideline and procedures for when engineering handles the detox test for new features 
+     2.) Develop a way that only certain features/functionality can be tested vs having to run all e2e tests 
+Q2 2024
+ - Automation
+     1.) Engineering to start completing detox work for new features  
+     2.) Qart to develop guideline and procedures for when engineering handles the detox test for exisiting feature (modifying existing detox test) 
+Q3 2024 
+ - Automation
+     1.) Engineering to start modifying existing detox tests for existing features 
