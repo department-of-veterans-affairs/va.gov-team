@@ -4,8 +4,8 @@
 
 - [Product impacts](#product-impacts)
 - [Roll-out approach](#roll-out)
-- [Communications plan](#communications)
 - [Stakeholders](#stakeholders)
+- [Communications plan](#communications)
 - [Next steps](#next-steps)
 
 
@@ -71,7 +71,7 @@ _All products, content areas, and navigation elements impacted by this effort th
   - No changes needed at this time. CAIA to determine any best bet changes.
 
 
-## Roll-out approach <a id="roll-out></a>
+## Roll-out approach <a id="roll-out"></a>
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
 
