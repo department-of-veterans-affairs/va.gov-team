@@ -136,7 +136,7 @@ Ongoing communication with stakeholders during roll-out
 - [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
 - [ ] Build out landing page drafts in Drupal - Danielle
 - [ ] Present in benefits check-in - Danielle/Mikki 1/24?
-- [ ] Schedule read out in Monday design meeting - Mikki
+- [ ] Schedule read out in Monday design meeting - Mikki, scheduled for 3/18/24
 - [ ] Plan/schedule CAIA deep dive - Danielle/Mikki
 
 
