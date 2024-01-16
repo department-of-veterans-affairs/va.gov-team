@@ -29,29 +29,27 @@ Slack for real-time feedback from observers.
 
 Thank you for joining us today! My name is _____ and _____ is taking notes.
 
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
+We've invited you here today to help us improve a website for Veterans. We'll use our time today to explore two different ideas for the site together.  Before we jump in with prompts and questions, I first have some information to confirm with you:
 
-**Are you okay with a couple of additional observers during this session?**
+**For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information with you:
+- **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Are you able to use that during our session today?
+- **For mobile sessions:** I understand you primarily use your phone to access the internet. Can you confirm that you are on your phone now? 
+
+Thank you for confirming these things! Now, I have a few things about today I want to go over with you before we get started:
+
+- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know.
+
+- I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
+
+- **Are you okay with a couple of additional observers during this session?**
 
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers. 
    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
    - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-We've invited you here today to help us improve a website for Veterans. We'll explore two different ideas for the site together; I'm looking forward to watching you experience the two concepts and hearing your opinions and thoughts. Before we jump in with prompts and questions, I first have some information to share about our time together.
-
-**For screenreader or mobile sessions:** Before we start, I want to confirm a few pieces of information that were shared with me when you signed up for the study:
-
-- **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Are you able to use that during our session today?
-- That sounds good, thank you.
-
-- **For mobile sessions:** I understand you use your smartphone primarily to access VA.gov. Can you confirm that you are on your phone now? 
-
-Thank you for confirming these things! Now, I have a few things about today I want to go over with you before we get started. 
-
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know. 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -67,18 +65,14 @@ _Turn on transcription._
 Let’s start with a few questions... 
 
 1. What types of VA benefits if any do you currently receive?
-
       a. Have you received other benefits in the past?
-
       b. If yes, which?
    
-3. Do you ever login to VA.gov or the VA mobile app?
-
+2. Do you ever login to VA.gov or the VA mobile app?
       a. Frequency (How often do you login?) 
       b. For what purpose?
    
-4. Do you ever login to MHV?
-   
+3. (If receive VA health care): Do you ever login to MHV?
       a. Frequency (How often do you login?) 
       b. For what purpose? 
    
