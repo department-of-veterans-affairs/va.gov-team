@@ -182,7 +182,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage C: Another moderate ramp up
 #### Planning
-- Date Started:
+- Date Started: Skipped
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64555
 - Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
@@ -195,7 +195,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-- Date Started:
+- Date Started: 1/16/24
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64556
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 25% 
