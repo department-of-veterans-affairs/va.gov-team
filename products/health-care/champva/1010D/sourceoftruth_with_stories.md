@@ -277,62 +277,139 @@ Find out if you can get care at a local VA medical center when you’re covered 
 
 {subtitle} Form 10-10d
 
+## Step 1 of 4: Your identity
 
-## Step 1 of 3:  Veteran Information
+### Which of these best describes you? (*Required)
 
-### [H3] Name and date of birth of the Veteran you’re connected to 
+( ) I'm an applicant applying for CHAMPVA benefits. **(Story 1)**   
 
-We use this information to verify some eligibility.
+( ) I'm a Veteran applying for my spouse, dependents or caretaker. **(Story 2)**    
 
-First name (* Required)  
-Middle name  
-Last name (* Required)  
+( ) I'm a third-party representative, power of attorney or VSO. I'm requesting priority processing on behalf of a Veteran's family or caretaker. **(Story 3)**   
 
-Date of Birth (* Required)  
+<br />
 
 { Buttons } Back / Continue
 
+<br />
 
-## Step 1 of 3: Veteran Information
+<details>
+<summary>Who can be a third-party representative or a power of attorney?</summary>
 
-### [H3] SSN or VA number of the Veteran you’re connected to 
+{ additional info component }
+
+A third-party representative can be a family member or designated person filling out this form for a Veteran or someone with a claim. We consider you to be a third-party representative if you're not already a power of attorney, agent, or fiduciary. If you're a third-party representative, we must have an authorization (VA Form 21-0845) on record. 
+
+[Go to VA Form 21-0845 Authorization to Disclose Personal Information to a Third-Party (opens in new tab)](https://www.va.gov/find-forms/about-form-21-0845/)    
+
+An authorized power of attorney can fill out this request for the person with the claim. If you're a power of attorney, we must have one of these records on file:
+
+- [VA Form 21-22 Appointment of Veterans Service Organization as Claimant's Representative (opens in new tab)](https://www.va.gov/find-forms/about-form-21-22/), **or**
+- [VA Form 21-22a, Appointment of Individual as Claimant's Representative (opens in new tab)](https://www.va.gov/find-forms/about-form-21-22a/)
+{ End additional info component }   
+
+</details>
+
+<br />
+## Step 2 of 4:  Veteran Information
+### [H3] { Veteran you're connected to's / Your / Applicant's } name and date of birth
+
+Please provide your information for the Veteran that you're connected to. We use this information to verify some eligibility. { Story 1 }   
+Please provide your information. We use this information to verify some eligibility. { Story 2 }   
+Please provide the Veteran's information. We use this information to verify some eligibility. { Story 3 }   
+
+First name (*Required)  
+Middle name  
+Last name (*Required)
+
+Date of birth (*Required)   
+M/D/Y
+
+{ Buttons } Back / Continue
+
+---
+
+
+## Step 2 of 4:  Veteran Information
+### [H3] { Veteran you're connected to's / Your / Applicant's } Social Security number
+
 
 
 Social Security number (*Required)
 
 VA file number
 
-You must enter either a VA file number or Social Security number.
+{Hint text} You must enter either a VA file number or Social Security number
 
 { Buttons } Back / Continue
 
 
 ## Step 1 of 3:  Veteran Information
 
-### [H3] Status of the Veteran you’re connected to 
+<details>### [H3] Status of the Veteran you’re connected to {Story 1}
 
 Is the Veteran that you are connected to still living? (*Required)
 
-( ) Yes, the Veteran that I am connected to is still living
+<summary>( ) Yes, the Veteran that I am connected to is still living
 
-( ) No, the Veteran that I am connected to is deceased
+( ) No, the Veteran that I am connected to is deceased</summary>
 
-
-{ Buttons } Back / Continue
+</details>
 
 ## Step 1 of 3:  Veteran Information
 
-### [H3] Status of the Veteran you’re connected to 
- 
-     
-Did the Veteran you’re connected to pass away on active military service? (* Required)   
+<details>### [H3] Status of the Veteran the applicant is connected to {Story 3}
 
-( ) Yes, the Veteran that I’m connected to passed away during active military service   
+<summary>Is the Veteran of the applicant is connected to still living? (*Required)
 
-( ) No, the Veteran that I’m connected to did not pass away during active military service
+( ) Yes, the Veteran of the applicant is connected to is still living
+
+( ) No, the Veteran of the applicant is connected to is deceased</summary>
+
+</details>
 
 { Buttons } Back / Continue
 
+{ if Veteran is deceased }
+
+## Step 1 of 3:  Veteran Information
+
+<details>### [H3] Status of the Veteran you’re connected to {Story 1}
+ 
+     
+<summary>Did the Veteran you’re connected to pass away on active military service? (* Required)   
+
+Date of death (*Required)   
+M/D/Y
+
+( ) Yes, the Veteran that I’m connected to passed away during active military service   
+
+( ) No, the Veteran that I’m connected to did not pass away during active military service</summary></details>
+
+
+
+{ Buttons } Back / Continue
+
+<details>### [H3] Status of the Veteran you’re connected to {Story 3}
+ 
+     
+<summary>
+Date of death (*Required)   
+M/D/Y
+ 
+ Did the Veteran the applicant is connected to pass away on active military service? (* Required)   
+
+( ) Yes, the Veteran the applicant is connected to passed away during active military service   
+
+( ) No, the Veteran the applicant is connected to did not pass away during active military service</summary></details>
+
+
+
+{ Buttons } Back / Continue
+
+{ end if Veteran is deceased }
+
+{ if Veteran is living }
 ## Step 1 of 3:  Veteran Information
 
 ### [H3] Does the Veteran you're connected to have a current mailing address? (* Required)
@@ -395,6 +472,8 @@ Home phone number (*Required)
 Mobile phone number
 
 { Buttons } Back / Continue
+
+{ end if Veteran is living }
 
 ---------------------------------------
 
