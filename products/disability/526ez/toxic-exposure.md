@@ -85,7 +85,7 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 
 <img alt="Screen showing a checkbox group of conditions plus &quot;I am not claiming any conditions related to toxic exposure&quot;. &quot;Tinnitus&quot; and &quot;I am not claiming any conditions related to toxic exposure&quot; are both checked. There's a displayed error message of &quot;You selected a condition, and 'I am not claiming any conditions related to toxic exposure'. You'll need to uncheck one of these options to continue.&quot;" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b9a79bdc-ad94-4ab5-a353-f677d4b5451d" title="Conditions" align="left"/>
 
-<h4 align="none">Other approaches considered</h4>
+<h4 align="none" clear="both">Other approaches considered</h4>
  
 <ul>
    <li>Track the order in which a user selects checkboxes and display a more tailored error message with the assumption that their intention is to select the option most recently selected, like "If you want to select 'None of these locations', you'll need to uncheck other locations in this list." <a href="https://dsva.slack.com/archives/C01K37HRUAH/p1704404867063769?thread_ts=1704323164.991569&cid=C01K37HRUAH">per Slack</a> </li>
