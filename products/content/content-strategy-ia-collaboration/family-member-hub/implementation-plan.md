@@ -1,14 +1,5 @@
 # Family and Caregiver Benefit Hub Implementation Plan
 
-## Next steps
-- Document scope and design decisions based on research
-- Finalize IA design
-- Identify any additional research needed
-- Audit VFS products impacted by design approach and identify changes needed
-- Establish a roll-out approach for the overall structure and individual hubs
-- Identify key stakeholders
-- Define a communications plan
-
 ## Product impacts
 _All products, content areas, and navigation elements impacted by this effort that will require content, design, development, or IA changes_
 
