@@ -320,8 +320,6 @@ Say that after using this website for a while, you didn't get all of your questi
 ### Task 9: [Update your contact information with VA]
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
-~~Could you please refresh the current page in your browser? *(so login works)*~~
-
 Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
 
 *RECORD navigation: **header > Sign in** / footer / search / mobile search*
