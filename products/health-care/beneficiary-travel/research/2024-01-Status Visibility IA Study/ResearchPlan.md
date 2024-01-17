@@ -143,10 +143,10 @@ Baseline treejack (url goes here)
 
 
 1. In the past 5 years, how many times have you filed for travel reimbursement from the VA?
-    1. I have never submitted for travel reimbursement from the VA (qualify )
-    2. 1 - 2 times in the past 5 years (qualify for )
-    3. 3 - 5 times in the past 5 years (qualify for )
-    4. More than 6 times in the past 5 years (qualify for )
+    1. I have never submitted for travel reimbursement from the VA (qualify 3,4,7,8 depending on age)
+    2. 1 - 2 times in the past 5 years (qualify for qualify 3,4,7,8 depending on age)
+    3. 3 - 5 times in the past 5 years (qualify for 1,2,5,6 depending on age)
+    4. More than 6 times in the past 5 years (qualify for 1,2,5,6 depending on age)
 
 
 ### **Recruitment approach**
