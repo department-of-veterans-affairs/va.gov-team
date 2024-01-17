@@ -9,7 +9,7 @@ assignees: ''
 
 Before Design Intent
 ### **Description**
-Using research from [%%Form Number%% User Story](link to user story ticket) layout the flow for %%Form Number%% form.
+Using discovery from [%%Form Number%% User Story](link to user story ticket), create the content source of truth for %%Form Number%% form.
 
 ### **Definition of Done**
 - [ ] Source of Truth
