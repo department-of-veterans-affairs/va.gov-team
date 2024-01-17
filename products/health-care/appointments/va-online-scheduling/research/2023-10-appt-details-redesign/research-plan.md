@@ -165,12 +165,12 @@ Test materials will be finalized by Friday, January 12, 2024
 
 Pilot participant email: TBD 
 
-Date and time of pilot session: On or after Tuesday, January 23, 2024
+Date and time of pilot session: On or after Wednesday, January 24, 2024
 
 
 ## Research sessions
 
-Research session will begin on ar after Wednesday, January 24, 2024
+Research session will begin on ar after Thursday, January 25, 2024
 
 
 ## Length of sessions
@@ -184,7 +184,6 @@ Please allow at least 30 minutes between sessions
 
 | Day | Date  | Time (EST)  | 
 |---|---|---|
-| Tues | 1/23  | 12:00pm - 6:00pm  |
 | Weds | 1/24  | 12:00pm - 4:00pm  | 
 | Thurs | 1/25  | 12:00pm - 5:00pm  |
 | Fri | 1/26  | 12:00pm - 6:00pm  |
@@ -194,6 +193,7 @@ Please allow at least 30 minutes between sessions
 | Thurs | 2/1  | 12:00pm - 5:00pm  |
 | Fri | 2/2   | 12:00pm - 6:00pm  |
 | Mon | 2/5  | 12:00pm - 6:00pm  |
+| Tues | 2/6  | 12:00pm - 6:00pm  |
 
 
 
