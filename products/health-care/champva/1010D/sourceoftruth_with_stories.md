@@ -124,27 +124,54 @@ You can start your application for benefits online right now.
 <br/>{ Link }[Apply for CHAMPVA Health Benefits]
 
 ### [H2] What other documents might I need to submit?
-<details><summary>Other Health Insurance Certification (VA Form 10-7959c)</summary>
-These are documents related to your Medicare status or other health insurance benefits that you may be receiving. These would the completed 10-7959c form, a copy or photo of the front and back Medicare Card, a copy or photo of the front and back Insurance carrier Card. Instructions on if you need to complete this form will be given when you fill out the CHAMPVA Benefits enrollment form.</details>
+<details>
 
-<details><summary>The page from the VBA rating decision (optional)</summary>
+ <summary>Other Health Insurance Certification (VA Form 10-7959c)</summary>
+ 
+These are documents related to your Medicare status or other health insurance benefits that you may be receiving. These would the completed 10-7959c form, a copy or photo of the front and back Medicare Card, a copy or photo of the front and back Insurance carrier Card. Instructions on if you need to complete this form will be given when you fill out the CHAMPVA Benefits enrollment form.
+
+</details>
+
+
+<details>
+ 
+ <summary>The page from the VBA rating decision (optional)</summary>
+ 
 This document shows the Veteran you are connected to is permanently and totally disabled (or the death rating if you’re a survivor).
 Find out how a veteran is rated permanently and totally disabled. 
 This document is not required but may help to speed up processing times of your application.
-Find out how to request military service records online, by mail, or by fax</details>
+Find out how to request military service records online, by mail, or by fax
 
-<details><summary>Your Veteran’s DD214 (Certificate of Release or Discharge from Active Duty) (optional)</summary>
+
+</details>
+
+<details>
+ 
+ <summary>Your Veteran’s DD214 (Certificate of Release or Discharge from Active Duty) (optional)</summary>
 This document contains a Veteran's complete military service record for both Active Duty and Reserves. It also includes documentation of awards, medals, ranks, pay grades and other pertinent service information.  
 If you don’t have a copy of the necessary form, you can request it by submitting a Standard Form 180, Request Pertaining to Military Records, from the National Archives.
 This document is not required but may help to speed up processing times of your application.
-Find out how to request military service records online, by mail, or by fax </details>
+Find out how to request military service records online, by mail, or by fax 
 
-<details><summary>Documents related to any dependent children you’re including in your application</summary>
+</details>
+
+<details>
+ 
+ <summary>Documents related to any dependent children you’re including in your application</summary>
+
+ 
 - A copy of each child’s birth certificate or adoption papers
 - School certification of enrollment for children ages 18-23.
-Download our fact sheet on school enrollment certification requirements (PDF)</details>
+Download our fact sheet on school enrollment certification requirements (PDF)
 
-<details><summary>Documents related to new or expectant parents</summary>
+
+</details>
+
+<details>
+ 
+ <summary>Documents related to new or expectant parents</summary>
+
+ 
 - Once the baby is born, you’ll need to get a Social Security number for your baby by applying at the nearest Social Security Administration office, and
 - You’ll need to set up the baby’s status as a dependent of the Veteran you're connected to by contacting your nearest VA regional office.
 
@@ -152,12 +179,21 @@ Medical claims can’t be paid until you sign your baby up under CHAMPVA, so ple
 
 { Link }[Find a Social Security office near you](https://secure.ssa.gov/ICON/main.jsp)
 
-{ Link }[Find a VA regional office near you](https://www.va.gov/find-locations/?facilityType=benefits)</details>
+{ Link }[Find a VA regional office near you](https://www.va.gov/find-locations/?facilityType=benefits)
 
-<details><summary>If you’re a surviving spouse who remarried but is once again single, submit copy of the legal document that ended your marriage.</summary>
-This legal document that provides confirmation of your ended marriage with a deceased Veteran may be a divorce decree, death certificate, or annulment decree.</details>
+</details>
+
+<details>
+ 
+ <summary>If you’re a surviving spouse who remarried but is once again single, submit copy of the legal document that ended your marriage.</summary>
+
+ 
+This legal document that provides confirmation of your ended marriage with a deceased Veteran may be a divorce decree, death certificate, or annulment decree.
+
+</details>
 
 ### [H2] Get more information
+
 { Link }[Get answers to frequently asked questions about CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp)
 <br/>{ Link }[Find out how to file a CHAMPVA claim](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp)
 <br/>{ Link }[Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp)
@@ -167,7 +203,7 @@ This legal document that provides confirmation of your ended marriage with a dec
 
 ## [H1]  Apply for CHAMPVA Benefits with VA Form  10-10D
 
-{subtitle} Equal to VA Form 10-10D (CHAMPVA Benefits) 
+{subtitle} Form 10-10d
 
 Use this form if you’re the spouse or child of a Veteran with disabilities, or the surviving spouse or child of a Veteran who has died, use VA Form 10-10d to apply for health insurance through CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs). 
 
@@ -273,7 +309,7 @@ Find out if you can get care at a local VA medical center when you’re covered 
 
 ---------------------------------------
 
-##[H1] Apply for CHAMPVA benefits
+## [H1] Apply for CHAMPVA benefits
 
 {subtitle} Form 10-10d
 
@@ -306,6 +342,8 @@ An authorized power of attorney can fill out this request for the person with th
 { End additional info component }   
 
 </details>
+
+<br />
 
 {if third party signer}
 
@@ -341,7 +379,7 @@ Postal code (* Required)
 </details>
 
 <details>
-<summary>[H3] Signer's contact information</summary>
+<summary>[H3] Signer's contact information (Story 3) </summary>
 
 Phone number (* Required)  
 Email address 
@@ -353,6 +391,9 @@ Email address
 {end if third party signer}
 
 <br />
+
+---------------------------------------
+
 
 ## Step 2 of 4:  Veteran Information
 
@@ -367,6 +408,7 @@ Please provide the Veteran's information. We use this information to verify elig
 First name (*Required)  
 Middle name  
 Last name (*Required)
+
 Suffix
 
 Date of birth (*Required)   
@@ -374,7 +416,6 @@ M/D/Y
 
 { Buttons } Back / Continue
 
----------------------------------------
 
 
 [H3] { Veteran you're connected to's / Your / Applicant's } Social Security number
@@ -387,11 +428,13 @@ VA file number
 
 {Hint text} You must enter either a VA file number or Social Security number
 
+
 { Buttons } Back / Continue
 
 
 <details>
 <summary>[H3] Status of the Veteran you’re connected to {Story 1}</summary>
+
 
 Is the Veteran that you are connected to still living? (*Required)
 
@@ -407,6 +450,7 @@ Is the Veteran that you are connected to still living? (*Required)
 
 <details>
  <summary> [H3] Status of the Veteran the applicant is connected to {Story 3}</summary>
+
 
 Is the Veteran of the applicant is connected to still living? (*Required)
 
@@ -442,13 +486,10 @@ M/D/Y
 
 
 
-{ Buttons } Back / Continue
-
 <details>
  <summary> ### [H3] Status of the Veteran you’re connected to {Story 3} </summary>
  
      
-
 Date of death (*Required)   
 M/D/Y
  
@@ -470,6 +511,7 @@ Did the Veteran the applicant is connected to pass away on active military servi
 <details>
  <summary> [H3] Does the Veteran you're connected to have a current mailing address? (* Required) {Story 1}</summary>
 
+
 {hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
 ( ) Yes, the Veteran has a current mailing address.
@@ -484,7 +526,9 @@ Did the Veteran the applicant is connected to pass away on active military servi
 <details>
  <summary>[H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
 
+
 {hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
+
 
 ( ) Yes, I have a current mailing address.
 
@@ -499,7 +543,9 @@ Did the Veteran the applicant is connected to pass away on active military servi
 <details>
  <summary>[H3] Does the Veteran the applicant is connected to have a current mailing address? (* Required) {Story 3}</summary>
 
+
 {hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a mailing address for this request.
+
 
 ( ) Yes, the Veteran has a current mailing address.
 
@@ -533,6 +579,7 @@ State (* Required)
 
 Postal code (* Required)   
 
+
 { Buttons } Back / Continue
 
 </details>
@@ -555,7 +602,8 @@ City (* Required)
 
 State (* Required)   
 
-Postal code (* Required)   
+Postal code (* Required)
+
 
 { Buttons } Back / Continue
 
@@ -582,6 +630,7 @@ State (* Required)
 
 Postal code (* Required)   
 
+
 { Buttons } Back / Continue
 
 </details>
@@ -607,9 +656,11 @@ Does the Veteran you're connected to have a phone number? (* Required)
 <details>
  <summary>[H3] Your contact information {Story 2}</summary>
 
+
 Do you have a phone number? (* Required)
 
 {hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a phone number for this request.
+
 
 ( ) Yes, I have a phone number.
 
@@ -623,9 +674,12 @@ Do you have a phone number? (* Required)
 <details>
  <summary>[H3] Contact info of the Veteran the applicant is connected to {Story 3}</summary>
 
+
 Does the Veteran the applicant is connected to have a phone number? (* Required)
 
+
 {hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
+
 
 ( ) Yes, the Veteran has a phone number.
 
@@ -641,9 +695,11 @@ Does the Veteran the applicant is connected to have a phone number? (* Required)
 <details>
 <summary>[H3] Phone number of the Veteran you’re connected to {Story 1}</summary>
 
+
 Home phone number (*Required)
 
 Mobile phone number
+
 
 { Buttons } Back / Continue
 
@@ -652,9 +708,11 @@ Mobile phone number
 <details>
 <summary>[H3] Your phone number {Story 2}</summary>
 
+
 Home phone number (*Required)
 
 Mobile phone number
+
 
 { Buttons } Back / Continue
 
@@ -711,7 +769,7 @@ Middle name
 Last name (* Required)  
 Suffix
 
-Date of Birth (* Required)  
+Date of Birth (* Required) 
 
 { Buttons } Back / Continue
 
@@ -729,7 +787,6 @@ Social Security number (* Required)
 
 [H3] { Applicant's/ Your / Applicant's } mailing address
 
-<! --- If it exists, use a pattern for selecting an address that was previously entered ---> 
 
 Country (* Required)   
 
@@ -766,12 +823,14 @@ We will need you to mail copies of the these documents to the the CHAMPVA office
 Spouse:
 
 - Marriage certificate
+- If a surviving spouse who remarried but is once again single, the legal document that ended your marriage. This may be a divorce decree, death certificate, or annulment decree.
 
 Child:
 
 - School certification (if between ages 18 - 24)
 
 Caretaker:
+< !--- find out if there is any document needed for caretakers --->
 - Document Placeholder
 
 
@@ -779,7 +838,7 @@ Caretaker:
 {End information box}
 
 
-<etails> 
+<details> 
 
 <summary>[H3] Applicant’s relationship to the Veteran {Story 1 & 3}</summary>
 
@@ -787,11 +846,11 @@ What's { your / the applicant's } relationship to the Veteran they are connect t
 
 ( ) { I'm / the applicant is } the Veteran's spouse
 
-( ) { I / the applicant } was the Veteran's spouse
+( ) { I / the applicant } is the Veteran's surviving spouse
 
-( ) { I / the applicant } was the Veteran's spouse but remarried after the age of 55
+( ) { I / the applicant } was the Veteran's surviving spouse but remarried after the age of 55
 
-( ) { I'm / the applicant is } the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren)
+( ) { I'm / the applicant is } the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren) 
 
 ( ) { I'm / the applicant is } the Veteran's caretaker
 
@@ -807,8 +866,6 @@ What's { your / the applicant's } relationship to the Veteran they are connect t
 What's is your relationship to the applicant (* Required)
 
 ( ) The applicant is my spouse
-
-( ) The applicant was my spouse but they remarried after the age of 55 
 
 ( ) The applicant is my child (includes legitimate, adopted, illegitimate, and stepchildren)
 
@@ -846,9 +903,9 @@ Other health insurance::
  <summary>
  [H3] Is the applicant over the age of 65 and enrolled in of {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 2 & 3) </summary>
 
-- [ ] The applicant has Medicare {if checked add form 10-7959c to the Application submitted page}
-- [ ] The applicant is eligible for Medicare {if checked add form 10-7959c to the Application submitted page}
-- [ ] The applicant doesn't have Medicare
+- ( )  The applicant has Medicare {if checked add form 10-7959c to the Application submitted page}
+- ( )  The applicant is eligible for Medicare {if checked add form 10-7959c to the Application submitted page}
+- ( )  The applicant doesn't have Medicare
 
 { Buttons } Back / Continue
 
@@ -856,9 +913,9 @@ Other health insurance::
 
 <summary> [H3] Are you over the age of 65 and enrolled in or {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 1)</summary>
 
-- [ ] I'm enrolled in Medicare {if checked add form 10-7959c to the application submitted page}
-- [ ] I'm eligible for Medicare {if checked add form 10-7959c to the Application subbmitted page}
-- [ ] I'm not elgiible for Medicare
+- ( )  I'm enrolled in Medicare {if checked add form 10-7959c to the application submitted page}
+- ( )  I'm eligible for Medicare {if checked add form 10-7959c to the Application subbmitted page}
+- ( )  I'm not elgiible for Medicare
 
 { Buttons } Back / Continue
 
@@ -869,8 +926,8 @@ Other health insurance::
  <summary>
  [H3] Is the applicant have other health insurance? (* Required) (Story 2 & 3) </summary>
 
-- [ ] The applicant has other health insurance {if checked add form 10-7959c to the Application submitted page}
-- [ ] The applicant doesn't other health insurance
+- ( ) The applicant has other health insurance {if checked add form 10-7959c to the Application submitted page}
+- ( ) The applicant doesn't have other health insurance
 
 { Buttons } Back / Continue
 
@@ -878,12 +935,156 @@ Other health insurance::
 
 <summary> [H3] Are you over the age of 65 and enrolled in or {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 1)</summary>
 
-- [ ] I have other health insurance
-- [ ] I don't have other health insurance
+- ( ) I have other health insurance
+- ( ) I don't have other health insurance
 
 { Buttons } Back / Continue
 
 </details>
+
+[H3] Are there any other applicants to add? (*Required)
+( ) Yes, I have more applicants to add
+( ) No, I don't have anymow applicants to add
+
+{ Buttons } Back / Continue
+
+---------------------------------------
+
+{ if more applicants to add }
+[H3] Applicant's name and date of birth
+
+
+First name (* Required)  
+Middle name  
+Last name (* Required)  
+Suffix
+
+Date of Birth (* Required)  
+
+{ Buttons } Back / Continue
+
+
+
+[H3] %% Applicant's First Name %% SSN 
+
+
+Social Security number (* Required)
+
+
+{ Buttons } Back / Continue
+
+
+
+[H3] %% Applicant's First Name %% mailing address
+
+
+Country (* Required)   
+
+Street address     
+
+Street address line 2    
+
+Street address line 3   
+
+City (* Required)   
+
+State (* Required)   
+
+Postal code (* Required)   
+
+{ Buttons } Back / Continue
+
+
+[H3] %% Applicant's First Name %% phone number
+
+Phone number (* Required)
+
+{ Buttons } Back / Continue
+
+
+{Information box]
+### {Alert title} Notice: Applicant may require additional documentation
+
+Depending on %% Applicant's First Name %% relationship to the Veteran, we may require additional documents to verify eligibility.
+
+We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
+
+Spouse:
+
+- Marriage certificate
+
+Child:
+
+- School certification (if between ages 18 - 24)
+
+Caretaker:
+- Document Placeholder
+
+
+
+{End information box}
+
+
+[H3] %% Applicant's First Name %% relationship to the Veteran </summary>
+
+What's %% Applicant's First Name %% relationship to the Veteran they are connect to? (* Required)
+
+( ) The applicant is the Veteran's spouse {if checked add marriage license to the application submitted page}
+
+( ) The applicant was the Veteran's spouse {if checked add marriage license to the application submitted page}
+
+( ) The applicant was the Veteran's spouse but remarried after the age of 55 {if checked add the legal document that ended your marriage to the application submitted page}
+
+( ) The applicant is the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren) {if checked add birth certificate to the application submitted page}
+
+( ) The applicant is the Veteran's caretaker
+
+( ) The applicant's relationship to the Veteran is not listed here
+
+{ Buttons } Back / Continue
+
+
+{Information box]
+### {Alert title} Notice: Applicant may require additional documentation
+
+Depending on %% Applicant's First Name %% health insurance status, we may require additional documents to verify eligibility.
+
+We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
+
+Medicare:
+
+- A COPY of of the applicant's Medicare card. If you’re 65 years old or older and don’t qualify for Medicare, you’ll need to send us documentation from the Social Security Administration that confirms you don’t qualify for Medicare benefits under anyone’s Social Security number.
+
+Other health insurance::
+
+- A COPY of the applicant's health insurance card
+
+
+
+
+{End Information box}
+
+
+ [H3] Is %% Applicant's First Name %% over the age of 65 and enrolled in of {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) </summary>
+
+- ( )  The applicant has Medicare {if checked add form 10-7959c to the Application submitted page}
+- ( )  The applicant is eligible for Medicare {if checked add form 10-7959c to the Application submitted page}
+- ( )  The applicant doesn't have Medicare
+
+{ Buttons } Back / Continue
+
+
+
+ [H3] Does %% Applicant's First Name %% have other health insurance? (* Required)  </summary>
+
+- ( ) The applicant has other health insurance {if checked add form 10-7959c to the Application submitted page}
+- ( ) The applicant doesn't other health insurance
+
+{ Buttons } Back / Continue
+
+
 
 [H3] Are there any other applicants to add? (*Required)
 ( ) Yes, I have more applicant's to add
@@ -891,31 +1092,9 @@ Other health insurance::
 
 { Buttons } Back / Continue
 
----------------------------------------
-
-## Step 3 of 3:  Review and certify
-
-{accordion} Sponsor information 
-{accordion} Applicant(s) information
-
-{ Buttons } Back / Continue
-
-## Step 3 of 3: Signer's information
-
-#### [H3] Relationship to the applicant
-
-Who will be signing this application? (* Required)
-
-( ) I’m signing for myself as an applicant.
-( ) I’m signing for a spouse of a Veteran.   
-( ) I’m signing for a parent of a Veteran.   
-( ) I’m signing for a child of a Veteran.  
-( ) I’m signing for a family member of a caretaker of a Veteran.  
-
-{ Buttons } Back / Continue
-
 
 ---------------------------------------
+
 
 ## Step 4 of 4:  Review and certify
 
