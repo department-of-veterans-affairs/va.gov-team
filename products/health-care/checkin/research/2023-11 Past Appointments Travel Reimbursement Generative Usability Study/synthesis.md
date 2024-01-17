@@ -190,3 +190,46 @@ Participants easily understood how to file their mileage-only travel reimburseme
 
 ### Learning more or filing another claim
 
+Most challenges arose when participants tried to learn more about a claim status or file another claim.
+
+#### Success page 
+- Although participants noticed the “2 appointments” in the success alert, some did not notice it until prompted, and not all participants were clear on the reasoning for “2 appointments” appearing
+
+- All participants who selected the “review your claim” link expected to be taken directly to their claim or claims, whether in BTSSS or an appointment detail on VA.gov, rather than the unauthenticated travel reimbursement page on VA.gov. We also heard frustration around the need to “sign in again” at this step.
+
+> "Is it information that's related? Yes. But that's not what I want to see. I'm wanting to look at the claim that I just submitted." -P9
+
+- Participants found the content related to the “Review your past appointments” link confusing
+
+> “Because it said “you can check the status of your claim by going to the appointment details page for this appointment,’ and then it says, ‘review your past appointment.’”  “I would think that's gonna take me to my appointments list via the appointments details page." - P4
+
+- Participants had trouble learning more about their claim status and expected to find resources for travel pay in the “Need help” section on the page. 4 participants said they’d check “Need help”  first and were surprised not to find the information there.
+
+> "If you have any questions or concerns in regards to your travel reimbursement claim this is the number you can call, or this is the email contact, or something like that." - P11
+
+#### Past appointments
+- Participants had to be prompted by the moderator to navigate to the past appointments page to learn about their claim status, but once there, understood how to find and review them
+
+> "This would become very familiar quickly." "This looks simple enough. And getting here was easy." - P12
+
+- Participants generally noticed the dot indicator, though some only mentioned it after they were asked about it. Not all participants understood its meaning and gave a range of interpretations. Only after visiting the appointment detail page, participants understood that it was referring to being able to file a travel reimbursement claim.
+
+> "Would probably have to file it or add more information," - P1
+> "It would probably be a message of some kind" - P8
+> "Do I need to complete it? Or is that something on the clinic that needs to be completed?" - P11
+> "I think it means that something missing or that I did not file a claim for this." - P2
+> "You might want to explain what that means a little bit, like the voucher needs to be submitted." - P18
+> "Since this is a travel reimbursement, it tells me that this is a travel reimbursement." - P9
+
+#### Details page (w/ travel status)
+- 6/8 participants who viewed the appointment detail page easily found the travel reimbursement section and claim status. However, it wasn’t clear how noticeable this section was for 2 participants, who took longer to find it.
+
+> "If I was looking for the travel reimbursement and it's on the bottom. I would have to scroll. I would hope that would be up top. But I mean, if I'm just looking at, it's okay I guess on the bottom because not everybody will have a travel reimbursement claim." - P3
+
+- Echoing previous feedback about the “review your claim” link on the success page, participants expected this link to lead somewhere with more direct information about their claim or claims, rather than the unauthenticated travel reimbursement information page on VA.gov.
+
+> "a page that had all my claims" to "go back and look and see what you put in," or "a screen that says where my claim is"
+
+- Participants interpreted “type of care not noted” in a variety of ways and overall were not sure about its meaning or who input the information (e.g., Veteran or staff). 1 participant mentioned they didn’t think their claim would be approved if the type of care wasn’t provided.
+
+> "I don't think [travel reimbursement] would be approved that way if the specific care wasn't noted on the claim that I would send." - P12
