@@ -25,10 +25,10 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* Provide a place on the health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- 10-10EZ Veteran health care application | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
