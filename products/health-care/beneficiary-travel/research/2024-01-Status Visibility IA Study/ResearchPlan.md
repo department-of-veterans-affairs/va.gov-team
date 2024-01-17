@@ -82,12 +82,12 @@ This study will give us insight into where we should put and how we should group
 * Treejack Cohorts, 8 cohorts, 9 participants each, total 72 respondents. Minimum threshold of 60 responses split between the first tasks
 1. Cohort 1 - Users aged over 55 who have experience with Travel Pay
 2. Cohort 2 - Users aged over 55 who have experience with Travel Pay 
-3. Cohort 3 - Users aged over 55 who have **no** experience with Travel Pay 
-4. Cohort 4 - Users aged over 55 who have **no** experience with Travel Pay 
+3. Cohort 3 - Users aged over 55 who have **minimal** experience with Travel Pay 
+4. Cohort 4 - Users aged over 55 who have **minimal** experience with Travel Pay 
 5. Cohort 5 - Users aged under 54 who have experience with Travel Pay 
 6. Cohort 6 - Users aged under 54 who have experience with Travel Pay 
-7. Cohort 7 - Users aged under 54 who have **no** experience with Travel Pay 
-8. Cohort 8 - Users aged under 54 who have **no** experience with Travel Pay 
+7. Cohort 7 - Users aged under 54 who have **minimal** experience with Travel Pay 
+8. Cohort 8 - Users aged under 54 who have **minimal** experience with Travel Pay 
 
 
 ### **Location**
@@ -130,7 +130,7 @@ Baseline treejack (url goes here)
 
 
 
-* [Link to email with instructions](url goes here when ready)
+* Email with instructions: see Appendix Item A below
 * [Link to prototype or OptimalSort session for Cohort 1](url goes here when ready)
 * [Link to prototype or OptimalSort session for Cohort 2](url goes here when ready)
 
@@ -584,3 +584,23 @@ Mon 3/4 - Wed 3/13 : Analysis and reporting
 * Participant recruiting & screening: Perigean
 * Primary project point of contact: Cara Frissell, cara.frissell@adhocteam.us
 * Backup project point of contact: Micah Taylor, micah.taylor@adhocteam.us
+
+## Appendix
+
+### Appendix Item A: Email to recruited participants
+
+[subject] Start your VA online research activity
+
+Hello,
+
+Thank you for agreeing to take part in this VA online research activity.
+
+This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+
+We won't share any information or feedback linked to your name or other personal details.
+
+Here's your participant code: [Add code]
+
+You'll need to enter this at the start of the activity, and after you've completed the last task to receive compensation.
+
+[link] Start the activity now
