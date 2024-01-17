@@ -1,30 +1,8 @@
 # Initiative Brief Template
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
+- Epic [#73669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73669)
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * Provide a place on the health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.
 
 **Related/Associated product(s)**
@@ -38,20 +16,24 @@
 
 <!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Unqualified Veterans may now qualify for VA health care by providing this information
+- More Veterans applying for VA health care
+
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Confusion on what is considered "toxic exposure"
+- Confusion on how to fill out the information
+- Overwhelmed by the questions
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- Higher awareness of affected Veterans with toxic exposures
+- Qualifying more Veterans for VA health care
 
 ## Undesired Business Outcomes
--->
+- Veterans feel burdened or overwhelmed by the questions and input fields
 
 ---
-## Measuring Success
+## Measuring Success - TBD
 
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
@@ -80,29 +62,28 @@
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+#### In-Scope
+- Add Toxic Exposure questions, per request from HEC Stakeholders (directive)
+- Remove Items from checkbox list, per request from HEC Stakeholders - to avoid duplicative questions
 
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+#### Out-of-Scope
+- Changing other parts of the form
 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Content engagement ticket #TBD
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative - TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - March 2024
 - *Actual Launch Date* 
   - tbd
 
@@ -111,31 +92,30 @@
 ## Screenshots
 
 ### Before
+N/A - Questions are new on the existing 10-10EZ form
 
 ### After
 
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: 10-10 Health Apps team
+- GitHub Label(s): toxic-exposure
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice
 
 </details>
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO-DE
+- Contact(s): Patrick Bateman, Kristen McConnell
  
 </details>
 
