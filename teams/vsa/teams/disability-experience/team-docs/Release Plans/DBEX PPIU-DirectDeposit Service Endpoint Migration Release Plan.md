@@ -202,6 +202,13 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 #### Results  
 - Anomalies:
 - Rollbacks:
+    -       Rollback reason: 
+            Date: 1/17/24
+            Severity/Impact: Medium
+            Ticket(s) created to address:
+            - [] Has the issue been resolved?
+            - Composite errors rose ~1%, notably with a volume of `#initialize_payment_information Failed to retrieve PPIU data from LighthousePPIUProvider: undefined method `gsub' for nil:NilClass`
+
 
 <br>
 
