@@ -15,6 +15,12 @@ Using discovery from [%%Form Number%% User Story](link to user story ticket), us
 - [ ] User research conversation guide
 - [ ] Prototype ready for testing
 - [ ] Design review
-- [ ] Accessibility review
+- [ ] Accessibility review (internal - send to Rachael)
 - [ ] Send to VA UXR lead (Lois) for review and approval
-- [ ] Send to VA PO (Premal) for review and approval
+
+### **Assumptions**
+- Placeholder
+
+### **Unknowns**
+- Placeholder
+
