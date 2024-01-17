@@ -135,6 +135,7 @@ Ok, here’s a rough version of the menu we just looked at. I thought this would
 3. How would you order these links? Why?
 4. What would you like to *change or add*? Why?
 5. Anything else you’d like me to know about what you’d want from a menu like this?
+6. *Note to moderator, may need to offer context if My VA has not been reviewed or discussed by this point:* I’m curious, how would you describe the difference between My VA and Profile to another Veterans
 
 
 Great, thank you for going through that with me. I’ll stop screen sharing now.
