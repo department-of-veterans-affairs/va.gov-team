@@ -74,6 +74,26 @@ We will keep track of participant demographic information (identified gender, ag
 - At least 6 who identify as a gender other than male
 - At least 2 who identify as LGBTQ
 
+### Screener questions
+1. How often, if at all, do you use VA.gov?
+- Never use it
+- Once per year
+- Once per month
+- 2-3 times per month
+- More than 3 times per month
+
+Do you have a My HealtheVet (MHV) account?
+- Yes
+- No
+  
+How often, if at all, do you use My HealtheVet?
+- Never used it
+- Once a year
+- Once a month
+- 2-3 times a month
+- More than 3 times a month
+
+
 ## Timeline
 - Submit for approval: 1/17/24
 - Pilot #1: Haven't rescheduled yet, but will be during the week of 1/16-1/19
