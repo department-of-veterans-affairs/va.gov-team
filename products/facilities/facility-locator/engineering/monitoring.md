@@ -13,7 +13,7 @@ TODO: 2023-12-28: Cross check with modern datadog.
  - [Facility Locator(PPMS)](http://grafana.vfs.va.gov/d/000000048/facility-locator-ppms?orgId=1)
 
 ## Monitors for Facility-Locator and Facilities pages
-TODO: 12/2023: These are old notes from previous team. Need to confirm them.
+
 **/v1/facilities/va and /facilities_api/v1/ccp/*** 
 - [Joins CCP and Facility lookup because they both use the same consumer](https://vagov.ddog-gov.com/monitors/161751)
   - Warning currently set at 400 req/minute and alert at 450 req/minute
