@@ -21,12 +21,13 @@ Period - 01/17/2024 - 01/30/2024
        - Audit for 526ez for all paper to digital form changes - Start discovery
 - **Research**
   - Shadow Research
-    - [ ] Look at what's  next from the research findings
+    - [ ] Additional shareout with additional stakeholders
 - **Misc**
   - Migrate sketch files to Figma 
     
 - **Stretch Goals**
-
+  - Shadow Research
+    - [ ] Look at what's  next from the research findings
 
 ## Sprint 22
 Period - 01/03/2024 - 01/16/2024
