@@ -69,7 +69,7 @@ Current URL | Redirect to | Notes
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
+*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages, FAQ pages*
 
 **[Which static page has the widget, ie the main entry point?]**
 
