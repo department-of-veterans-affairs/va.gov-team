@@ -9,8 +9,15 @@ assignees: ''
 
 Before Design Intent
 ### **Description**
-Analyze research from stakeholder interviews [%%Form Number%% User Story](link to user story ticket) and create a findings deck.
+Analyze research from stakeholder interviews [%%Form Number%% User Story](link to user story ticket) and create a findings deliverable.
 ### **Definition of Done**
 - [ ] Analyze data from stakeholder interviews
-- [ ] Create findings deck
+- [ ] Create findings deliverable
 - [ ] Present to team and relevant stakeholders
+
+### **Assumptions**
+- Placeholder
+
+### **Unknowns**
+- Placeholder
+
