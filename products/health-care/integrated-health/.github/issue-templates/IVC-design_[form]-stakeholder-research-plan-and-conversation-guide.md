@@ -14,5 +14,10 @@ Using discovery from [%%Form Number%% User Story](link to user story ticket), cr
 - [ ] Stakeholder research plan
 - [ ] Stakeholder conversation guide
 - [ ] Design review
-- [ ] Send to VA UXR lead (Lois) for review and approval
-- [ ] Send to VA PO (Premal) for review and approval
+- [ ] Send to VA UXR lead (Lois) for review and approval (if applicable)
+
+### **Assumptions**
+- Placeholder
+
+### **Unknowns**
+- Placeholder
