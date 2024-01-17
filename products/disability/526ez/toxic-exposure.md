@@ -196,7 +196,7 @@ The HTML approach is to use headings for each location, like so:
 
 
 #### Other approaches considered
-![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/c7d0b099-532f-467e-ae58-875d8b4402a5)
+![summary-of-toxic-exposure-table-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/e089b4aa-7a5b-488c-ae9a-069abaac3d9f)
 
 With the HTML, we also considered using `<ul>` and `<li>` elements, potentially specifying "location:" and "dates served:" with text.
 #### Rationale
