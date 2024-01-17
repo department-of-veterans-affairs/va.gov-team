@@ -151,12 +151,12 @@ The majority of the prototype will be complete by January 17, but refinements wi
 
 ### Availability
 
-| Date   | Time (Eastern)              | Screenreader session notes                |
-|--------|-----------------------------|-------------------------------------------|
-| Jan 29 | 10am-5:30pm, and 7:30pm-9pm | Screenreaders between 10-5pm, support by  |
-| Jan 30 | 7-7:45am, 10am-5pm          | Screenreader sessions                     |
-| Feb 1  | 10am-5:30pm                 |                                           |
-|        |                             |                                           |
+| Date   | Time (Eastern)              | Screenreader session notes (these are ideal times when a specialist is available. OK to schedule outside of these times if absolutely needed) |
+|--------|-----------------------------|--------------------------------------------------------------|
+| Jan 29 | 10am-5:30pm, and 7:30pm-9pm | Screenreaders between 10am-12pm or 1-2:15pm                  |
+| Jan 30 | 7-7:45am, 10am-5pm          | Screenreaders between 10am-12pm or 1-2:15pm                  |
+| Jan 31 | 10am-5:30pm                 | Screenreaders between 10am-12pm or 1-2:15pm                  |
+| Feb 1  | 8:30am-4:00pm               | Screenreaders between 8:30am-12pm or 1-2:15pm                |
 
 	
 ## Team Roles	
@@ -166,6 +166,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz
 - Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Sara Smith
 - Note-takers: Team
 - Observers: will sign up for sessions via Slack
