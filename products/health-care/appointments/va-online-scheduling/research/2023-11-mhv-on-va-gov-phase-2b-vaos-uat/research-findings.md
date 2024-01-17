@@ -269,28 +269,36 @@ Labels: `Scheduling`, `community care`, `alerts`
 
 **[To be finalized with team - below are PR's initial thoughts]**
 
-Improve the static landing page. The MHV on VA.gov portal team is working out what to do with the help content on this, and other health pages.
+
+### Improve the Appointments static landing page. 
+Currently this page is trying to do too much. It is acting as public-facing information about appointments for SEO purposes, a help/FAQ page for appointments, and the entry point from help hubs. 
+* On the MHV on VA.gov portal, remove the link to the static landing page.
 * Consider redirecting Veterans directly to the Appointments home page after they log into the Schedule and Manage appointments page. 
-* Consider relocating the "help" content on the VA.gov Schedule and Manage appointments page. 
- 
-* On the MHV on VA.gov portal, replace the link to the Schedule and Manage appointments page with a direct link to the scheduling flow.
+* Consider separating the general appointments help/FAQ information to its own or structure, similar to how My HealtheVet National Portal has a separate site for help content.
 
-* On the MHV National portal, remove the page that transitions users to VA.gov appointments.
-    * Is all the functionality on this page handled when the user arrives at VA.gov? Including login verification? If so this might be a good first candidate to retire.
 
-* Consider displaying the option to review Pending appointments only if the Veteran has pending or canceled appointment requests. 
-* Consider treating pending appointments as a more temporary thing, similar to travel pay or check-in, a part of the process of an appointment rather than putting it at the level of the appointment itself.
+### On the MHV National portal, remove the page that transitions users to VA.gov appointments.
+This page would be a good candidate to remove if all the functionality on this page handled when the user arrives at VA.gov. 
 
-Start a working group to focus on the data issues. Surfacing type of care and provider would immediately increase the usability and trustworthiness of the list views.
+### Clarify pending appointments
+As we saw in this study, Veterans who have never requested an appointment will be confused when they see the Pending(0) link.
+* Consider hiding the link to the Pending page only if the Veteran currently has pending or canceled appointment requests. 
+* Consider treating pending appointments as a "notification" or "task" - a temporary situation the Veteran can track. Look at the check-in and travel pay work for ideas.
 
-On the facility selection page, simplify the choice they have to make. Consider showing their "current" facility first. Also consider surfacing Veteran's primary needs when scheduling an appointment earlier, such as showing availability on the facility page. Look into Veteran needs and define a hierarchy. 
+### Start a working group to focus on the data issues. 
+A group who could surface type of care and provider name for all or most appointments would immediately increase the usability and trustworthiness of the list views. This group could also work with the VVC teams to fix empty details on video appointment pages.
+
+
+### Simplify the process of selecting a location
+On the facility selection page, consider showing a Veterans "current" facilities first. This could be any facility they've received care at in the past two years. 
+
+### Identify Veteran's hierarchy of needs when selecting a provider or location
+We know from previous studies that distance and availability are the two main goals when selecting where to receive care. Other factors
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-- Follow up on [technical issues identified during sessions](#appendix-technical-issues-identified-during-sessions)
+- Follow up on [technical issues identified during sessions](#appendix-technical-issues-identified-during-sessions) with relevant owners/teams
 
 
 ## Appendix: Resources
