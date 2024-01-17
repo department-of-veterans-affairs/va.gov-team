@@ -1,8 +1,8 @@
 ---
-name: 1.  [Design] - %%Form Number%% Source of Truth & Wireframes
+name: 1.  [Design] - %%Form Number%% Source of Truth
 about: Before Design Intent
 title: ''
-labels: forms-audit-digitize
+labels: design
 assignees: ''
 
 ---
@@ -13,7 +13,5 @@ Using research from [%%Form Number%% User Story](link to user story ticket) layo
 
 ### **Definition of Done**
 - [ ] Source of Truth
-- [ ] Mural User Flow
-- [ ] Sketch Files
-- [ ] Design Review - Matthew
-- [ ] File for design intent
+- [ ] Accessibility review
+- [ ] Submit to CAIA for review
