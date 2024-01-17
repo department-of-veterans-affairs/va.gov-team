@@ -105,11 +105,14 @@ Allow for multiple selections
 
 
 ## Research materials
-[Link to conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/IPP%20Usability%20Testing/Proofing%20Agent%20Facing%20Screens_IPP%20Usability%20Testing/IPP%20Usability%20Test_Proofing%20Agent_Conversation%20Guide.md)
-[Link to Prototype](https://va-in-person-identity-proofing.vercel.app/)
-Timeline
 
-## Start Date: January 2024
+[Link to conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/IPP%20Usability%20Testing/Proofing%20Agent%20Facing%20Screens_IPP%20Usability%20Testing/IPP%20Usability%20Test_Proofing%20Agent_Conversation%20Guide.md)
+
+[Link to Prototype](https://va-in-person-identity-proofing.vercel.app/)
+
+## Timeline
+
+Start Date: January 2024
 The testing session will occur over 1-2 weeks
 
 ## Prepare
