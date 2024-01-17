@@ -21,15 +21,14 @@ This research aligns with the ~[21st Century IDEA](https://www.whitehouse.gov/w
 
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+The research applies at any stage from Starting Up through Aging, since it investigates global parts of the VA.gov site that provide access to the whole spectrum of VA.gov benefits and tools.
 
 ## Research Goals	
 1. We want to learn how the new design helps Veterans find their authenticated menu options, especially on mobile.
 2. We want to learn about Veteran expectations for an authenticated menu.
 
 ### Outcome
-The research applies at any stage from Starting Up through Aging, since it investigates global parts of the VA.gov site that provide access to the whole spectrum of VA.gov benefits and tools.
+We’ll use this outcomes from this research to inform design and content iterations on the authenticated menu.
 
 ### Research questions
 1. Does the new menu design introduce any usability hurdles, particularly on mobile?
@@ -143,6 +142,7 @@ The majority of the prototype will be complete by January 17, but refinements wi
 
 ### Research sessions
 * Planned dates of research: Jan 29-Feb 1
+* If possible, we'd prefer to complete sessions by Jan 31, and reserve Feb 1 for reschedules.
 
 ### Length of sessions
 * Session length: 30 minutes for non-screen reader participants, 45 minutes for screen reader participants
@@ -166,6 +166,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz
 - Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	Sara Smith
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
 - Note-takers: Team
 - Observers: will sign up for sessions via Slack
