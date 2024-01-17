@@ -15,7 +15,8 @@
  
 Review of two versions of a new secondary nav, coded in CodePen, that will be used for user testing
  
-
+<details><summary>Prototype A</summary>
+ 
 ## Prototype A
 - [x] Run axe checks on every page or unique state (required)
 - [x] Color contrast checks
@@ -54,15 +55,12 @@ Suggestions:
 - Secondary nav: `aria-label="My HealthEVet"`
 
 
-#### Focus indication
-**Desktop:** 
+#### Focus indicators
+**Desktop only:** 
 Keyboard users receive focus when tabbing to non-empty navigation links (that's great!):
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/a20f25a4-d46d-474f-bc42-74f6ee67c6dd)
 
-But there's no indication of focus when hovering over links using a mouse:
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/dec9b162-d656-4abf-9ac7-445ed0afab0b)
-
-The main navigation has focus indications for both keyboard and mouse users. You should emulate this on the secondary nav - all users need an indication to know what exactly they're clicking on. :)
+But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
 
 
 #### Screen reader issues
@@ -73,21 +71,43 @@ The navigation links are rendering in a way that indicates that they have submen
 A screen reader user will hear `Menu pop up collapsed, link, [link text]` when they get to this link, and expect that there are submenu items.
 
 Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a regular link, without an indication of submenus: `Link, [link text]`.
+</details>
 
+<details><summary>Prototype B</summary>
+ 
 ## Prototype B
 - [ ] Run axe checks on every page or unique state (required)
 - [x] Color contrast checks
 - [x] Color blindness checks
-- [ ] Tab order
-- [ ] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
-- [ ] Keyboard navigation
+- [x] Tab order
+- [x] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
+- [x] Keyboard navigation
 - [ ] Windows, Chrome, JAWS
 - [ ] iPhone, iOS Safari, VoiceOver
 
 ### Results and recommendations
 
-(text goes here)
+#### Keyboard navigation
+There are focus issues while tabbing using a keyboard:
+- **All pages, desktop and mobile:** Same as prototype A. "Messages" or "Medications" links are coded as empty `<a>`, which is confusing for visual and screen reader users alike.  **Recommendations:** Either remove "Messages" and "Medications," or create dummy pages for those two to link to.
+- **All pages, mobile:** "Appts" is an empty link and can't be tabbed to. This link works correctly on the desktop version.
 
+#### Navigation at 400% zoom
+At 1280px, 400% zoom, the last menu item gets cut off:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/4a2e231a-c5c1-4808-a135-3a1d5602b0d8)
+
+#### Focus indicators
+**Mobile and desktop:**
+Keyboard users receive focus indicators when tabbing (great!):
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/d495aabf-46ef-423e-bc96-830ff39368f2)
+
+But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
+
+
+</details>
+
+<details><summary>Other findings</summary>
+ 
 ## Other findings
 These findings are specific to the secondary navigation, but will negatively impact assistive technology users who may navigate to these pages in the prototype:
 
@@ -110,4 +130,7 @@ Skipping heading ranks can be confusing and should be avoided where possible. In
 - "January 2024," "February 2024," etc. should be H2 (use utility classes to re-style if needed)
 - "1," "31," etc. should be `<h3>` (use utility classes to re-style if needed)
 
-**Details links:** Each "Details" link needs a unique accessible name. You can use `aria-label` or `aria-describedby` to achieve this.
+**Details links:** The "Details" links aren't linking to anything, so keyboard users can't tab to them. Either link to a dummy page, or get rid of the `<a>`.
+
+If you're adding dummy links, each "Details" link needs a unique accessible name. You can use `aria-label` or `aria-describedby` to achieve this.
+</details>
