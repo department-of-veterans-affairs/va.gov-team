@@ -87,8 +87,8 @@ Veterans and family members of Veterans must currently download and fill out the
   - tbd
 
 - Collaboration Cycle
-  - [ ] CAIA kickoff: 11/29/23
-  - [ ] Design Intent: 1/9/24
+  - [x] CAIA kickoff: 11/29/23
+  - [x] Design Intent: 1/9/24
   - [ ] Research:
   - [ ] Midpoint:
   - [ ] Analytics:
@@ -124,9 +124,9 @@ Veterans and family members of Veterans must currently download and fill out the
 
 
 - Team Name: IVC
-- GitHub Label: champ-vfmp-forms (?)
+- GitHub Label: ivc-forms
 - Slack channel: #ivc-forms
-- Product POCs: Mary Wang, Bo Altes
+- Product POCs: Bo Altes, Mary Wang
 - Stakeholders: Lauren Alexanderson, Eunice Garcia
 
 
@@ -134,7 +134,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
  
 - DEPO Lead: Premal Shah
- - PM: Mary Wang, Bo Altes
+ - PM: Bo Altes, Mary Wang
  - Engineering: Don Shin, Michael Clement, Rachel Eiting
  - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke, Jamie Fiore, Syd Hoeper
  
