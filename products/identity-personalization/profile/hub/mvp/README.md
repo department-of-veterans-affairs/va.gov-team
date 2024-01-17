@@ -81,11 +81,13 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 
-Each cell in the chart is populated in the same format: searches (rank) 
+Each cell in the chart is populated in the same format: Ranke (searches) 
 |KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 1 week post-launch to 100% [12/19-12/26/2023]| 2 weeks post-launch to 100% [12/27/2023-1/2/2024]| 3 weeks post-launch to 100% [1/3-1/9/2024]| 4 weeks post-launch to 100% [1/10-1/16/2024]| 1 month cummulative 12/19-1/16|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
-|dd214|167(ranked 3rd)|16 (ranked 13th)|16 (ranked 13th)|19 (ranked 5th)|16 (ranked 16th)|76 (ranked 12th)|
-|direct deposit|188 (ranked 1st)|27(ranked 4th)|31 (ranked 2nd)|14(ranked 12th)|31 (ranked 3rd)| 119 (ranked 3rd) |
+| dd214	| # 3rd	(167 searches) |	# 13th	(16 searches)|	# 13th	(16 searches)|	# 5th	(19 searches)|	# 16th	(16 searches)|	# 12th	(76 searches)|
+| direct deposit	|  # 1st	(188 searches)	| # 4th	(27 searches)|	# 2nd	(31 searches)|	# 12th	(14 searches)|	# 3rd	(31 searches)|	# 3rd 	(119 searches)|
+
+
 
 ## Analytics 
 Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
