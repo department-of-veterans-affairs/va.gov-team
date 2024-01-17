@@ -1,11 +1,22 @@
 # WORK IN PROGRESS
 
 ```mermaid
+%%{
+  init: {
+    "theme": "neutral",
+    "fontFamily": "monospace",
+    "gantt": {
+        "barHeight": 25,
+        "leftPadding": 150
+    }
+  }
+}%%
+
 gantt
     %% A week is 5 days
     %% A sprint is 10 days
 
-    title Engineering roadmap
+    title Engineering Roadmap
     dateFormat YYYY-MM-DD
     excludes weekends
 
