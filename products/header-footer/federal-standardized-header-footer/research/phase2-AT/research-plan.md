@@ -1,4 +1,4 @@
-# Research Plan for Usability Testing, Federal Standardized Header/Footer--Phase 2 (Assistive Tech users), February 2024
+# Research Plan for Usability Testing, Federal Standardized Header/Footer--Phase 2 (Assistive Tech users), January 2024
 
 ## Background
 OFCIO and GSA (USWDS) designed a new federal standardized header and footer in an effort to standardize across all federal agencies. This new header and footer includes a new “USA” logomark that has yet to be released to the American public. A federal standardized header and footer directly contributes to the requirements of the [21st Century IDEA](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf). The Department of Veterans Affairs has volunteered to be the first high-impact service provider (HISP) to attempt to adopt this new header and integrate into the department’s design system. 
