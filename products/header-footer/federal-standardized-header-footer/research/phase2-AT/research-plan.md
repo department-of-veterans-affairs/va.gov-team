@@ -204,4 +204,4 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Amanda Klausmeier (Sitewide UX/UI Lead) on January 4, 2024
-- Shane Strassberg (VA Research Ops) on TBD
+- Shane Strassberg (VA Research Ops) on January 17, 2024

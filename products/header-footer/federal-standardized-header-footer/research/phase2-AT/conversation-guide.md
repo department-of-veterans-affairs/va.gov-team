@@ -386,4 +386,4 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Amanda Klausmeier (Sitewide UX/UI Lead) on January 16, 2024
-- Shane Strassberg (VA Research Ops) on TBD
+- Shane Strassberg (VA Research Ops) on January 17, 2024
