@@ -185,15 +185,15 @@ The design system doesn't currently have a pattern for showing a summary of info
 ![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/2beb90d9-35b7-4840-9ab1-6f01d8a9893c)
 
 The HTML approach is to use headings for each location, like so:
-<pre>
-`<h4>Service Dates on or after August 2, 1990</h4>`
-`<h5>Afghanistan</h5>`
-`<p>September 1992 - September 1993</p>`
-`<h5>Iraq</h5>`
-`<p>1994-> 1995</p>`
-`<h5>Saudi Arabia</h5>`
-`<p>I'm not sure of the dates.</p>`
-</pre>
+
+`<h4>Service Dates on or after August 2, 1990</h4>` <br />
+`<h5>Afghanistan</h5>` <br />
+`<p>September 1992 - September 1993</p>` <br />
+`<h5>Iraq</h5>` <br />
+`<p>1994-> 1995</p>` <br />
+`<h5>Saudi Arabia</h5>` <br />
+`<p>I'm not sure of the dates.</p>` <br />
+
 
 #### Other approaches considered
 ![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/c7d0b099-532f-467e-ae58-875d8b4402a5)
