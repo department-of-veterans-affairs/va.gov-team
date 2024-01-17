@@ -23,7 +23,7 @@ Review of two versions of a new secondary nav, coded in CodePen, that will be us
 - [x] Tab order
 - [x] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
 - [x] Keyboard navigation
-- [ ] Windows, Chrome, JAWS
+- [x] Windows, Chrome, JAWS
 - [x] MacOS, Safari, VoiceOver
 
 ### Results and recommendations
@@ -31,8 +31,10 @@ Review of two versions of a new secondary nav, coded in CodePen, that will be us
 #### Keyboard navigation
 There are focus issues while tabbing using a keyboard:
 
-- **Appointment page, desktop:** you can't tab to the "Appointments" navigation link.
-- **Appointment page, mobile:** you can't tab to the "Medical records" navigation link.
+- **Appointments page, desktop:**
+   - You can't tab to the "Appointments" navigation link.
+   - When I click on "Medical Records," it initially takes me to the "X-Ray Results" page. If I click on "Medical Records" a SECOND time, it then brings up the correct "Medical Records" page. I'm not sure what's going on here - please check that this is pointing to the right place.
+- **Appointments page, mobile:** you can't tab to the "Medical records" navigation link.
 - **Medical records page, desktop:** you can't tab to the "Appointments" navigation link.
 - **Medical records page, desktop:** you can't tab to the "Medical records" navigation link.
 - **All pages, desktop and mobile:** "Messages" or "Medications" links are coded as empty `<a>`. Keyboard users can't tab to them. And mouse/touchscreen users can activate them - they appear to be links, after all, and have focus indication on the mobile menu - but clicking on them won't do anything. This is confusing for those users - if something acts like a link, its expected to _behave_ like one. If "Messages" and "Medications" aren't actually links, they shouldn't be clickable.
@@ -45,10 +47,6 @@ The VA.gov home page only has **one nav** - the main nav bar. But this prototype
 Suggestions:
 - Main nav: `aria-label="Main"`
 - Secondary nav: `aria-label="My HealthEVet"`
-- Each "footer" section: you have two options here:
-   1. You can make them regular unordered lists (out of `<nav>`), like the existing page footer. OR
-   2. You can give the `<h2>` an ID, then use `aria-labelledby` to label the nav, like this:
-   `<h2 id="spotlight"><nav aria-labelledby="spotlight">...</nav>` 
 
 
 #### Focus indication
@@ -87,6 +85,14 @@ Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a re
 
 ## Other findings
 These findings are specific to the secondary navigation, but will negatively impact assistive technology users who may navigate to these pages in the prototype:
+
+### Home page
+**The "footer":** As mentioned earlier, all navigation landmarks - either `<nav>` or `role="navigation"` - need to have a unique identifier. Each of the footer nav sections are within an unlabelled `<nav>` tag.
+
+You have two options here:
+   1. You can make them regular unordered lists (out of `<nav>`), like the existing page footer. OR
+   2. You can give the `<h2>` an ID, then use `aria-labelledby` to label the nav, like this:
+   `<h2 id="spotlight"><nav aria-labelledby="spotlight">...</nav>` 
 
 ### Appointments page
 
