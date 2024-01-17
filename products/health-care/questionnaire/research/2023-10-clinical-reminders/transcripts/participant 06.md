@@ -1,205 +1,187 @@
-# Participant 7 BHL Heath Questionnaire Veteran Pilot
+# Participant 6 BHL, Email 
+[Brackets are notetaker comments/observers] 
 
-Notetaker:Peter Russo peter.russo@adhocteam.us
+ 
+Moderator (M): Past questionnaire experience? 
 
-_Start recording._
+Participant (P): I don’t recall. My last appointment was last May or June. 
 
-* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+M: [Probes more.] 
 
-Yes it is.
+P: They may have. A letter was sent in the mail. They may have sent something at that time. 
 
+M: [Shares email] 
 
-## First Task: Notifications - 10 minutes
+P: [Reads the email. No comments.] 
 
-* Prior to your appointment, did you answer questions online to help your provider prepare for your appointment?
+M: How far in advance would you expect to receive this? 
 
-Yes. An email and a text asking about a brief questionnaire in prep for a visit in Oct, and I’m assuming I’ll get another one soon. They had a link to a questionnaire in prep for meeting with PCP
+P: If the appointment is already set up, then I would expect a notification about a week in advance and one closer to the appointment (a day or two before). 
 
-If yes,
-* How were you notified, such as a text or email, that your provider wanted you to answer some questions prior to your appointment?
-* How far in advance of your appointment did you receive this notification?
+M: Anything unclear? 
 
-Maybe a week? In a window that felt appropriate. There’s a window of 2 weeks to 5 days before that is best, too soon and I’ll put it off, too late and it’s too late. The timeline that it’s been sent to me in the past - it acts as a helpful reminder.
+P: No. It makes perfect sense. I’m familiar with MyHealtheVet. I have used that for a while to send messages. 
 
-* Do you feel that you were given enough time or not enough time to answer the questions prior to your appointment?
+M: When do you think that you would click on the link? 
 
-Yes, I was given enough time.
+P: If I needed to renew prescriptions or message my provider. 
 
-**Nina:** What q’s do you remember?
+M: How do you understand this notification? 
 
-COVID-like symptoms, if I’m sick, if I need to reschedule, are you taking medication, has anything changed, contact information. For the most part it felt like an all-encompassing health care questionnaire, but also asking if contact info is correct.
+P: I think that it is just a reminder that help is there when I need it. 
 
-**Nina:** Were you given enough time ahead of the appt to answer questions?
+M: Add or delete anything to the notification? 
 
-I didn't have to write an essay, so I had plenty of time and thought they were the right kind of questions.
+P: No, I don’t think that there is anything that I would change about it. [Doesn’t understand the meaning of the email] 
 
-* How much time do you estimate it took you to complete the questions after clicking on the [text or email]?
-* Share your screen with the example that they mentioned. This is also determine what prototype you share with them.:
-    * [eScreening email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening%20Email.png)
-    * [eScreening text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/eScreening-text.jpg)
-    * [BHL email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Email.png)
-    * [BHL text message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/BHL%20Text.png)
+M: [Shares BHL prototype] 
 
-**Nina:** shares BHL email example.
+P: [Reads sexual orientation] What a shame has the country come to this that this is a question for a medical appointment? Whether it… 
 
-* Would you want to receive this notification at a different time prior to your appointment than you did, such as earlier to later? Why?
-* Please review the information in this notification and share your overall impressions. Think aloud as you review.
-* [Notetaker: Note any observations about the following things: What do they comment on as confusing or valuable without prompting?]
-* Was there anything about the notification that is unclear?
-* Would you add, delete, or change about the content within the notification?
+M: You find it frustrating, because I don’t think that it is relevant to my medical appointment? 
 
-96 hours seems weird. It’d be better to say days so I don’t have to do the math. “In 3 days” would be clearer. 96 hours is just a strange thing to say.
+P: When I signed up to for the VA, it was obvious that I was a male. I don’t know why I need to keep answering these questions. 
 
-I think it’s pretty clear and concise. It’s setting up your expectations. Other than the 96 hours. I think saying this personalized link will expire in 4 days or something. 96 hours, you’re asking someone to do math, someone who has health care needs you’re asking them to do another thing.
+M: Scale 1-5? 
 
-**Nina:** In 4 days at 10:00 pm would work?
+P: 1. I see no purpose of the question, because when I signed up I was obviously a male, so why do I need to keep asking these questions like this. 
 
-Yes, because you have the time stamp up there, so if you say 4 days from now, that’s pretty self-explanatory.
+M: Scale 1- 5 after first page? 
+ 
+P: 1. [Reads next page] No, I’m not worried about housing. 
+ 
+M: Relevant to healthcare appointment? 
 
-So this email is a questionnaire in prep for upcoming appointments. Maybe it should say that. Why does my VA provider want to know how I’m doing? Because you have an appointment. Tell me the reason I’m getting the email. Maybe I don’t remember I have an upcoming appointment. This might be an opportunity to remind me.
+P: That is a difficult question and hard to decide. I guess that it has more to do with the Veterans that don’t have stable housing. I think that it has more to do with them and the VA can get them resources. 
 
-Other than that it’s good. It says do not reply - maybe that’s another opportunity to remind them how they can get in touch with someone.
+M: Scale 1 -5. 
 
-I’d expect to get this about a week before my appointment. That’d give me time to check my schedule and make sure I don’t have any conflicts, and give me an opportunity to reschedule if needed.
+P: 1. [Reads food insecurity questions] 
 
-## Second Task: Complete the clinical reminders - 20 minutes
+M: Any terms confusing? 
 
-* Next, pretend that you are answering the pre-appointment questions again. We also call these clinical reminders, so you may hear me refer to them as such. Some of the questions will be familiar to you as you answered them before your appointment, while others may not. Please think a loud as you review the screens. I’ll ask you a few questions as you move though too.
-    * [eScreening and BHL links](https://dvagov.sharepoint.com/:w:/r/sites/OCTOOCCSelf-ScreeningQuestionnairePilot/Shared%20Documents/General/Pilot%20documents%20(Eval%20plan,%20Project%20Plan,%20etc)/Tool%20Links%20for%20Veteran%20Interviews.docx?d=w50a92e8a483e4bbaaaffc5b4f9717cc6&csf=1&web=1&e=bOG38Q)
-* [Notetaker: Note which questionnaire branching logic they follow and if the clinical reminders end in a positive or negative result. Write down any comments shared without prompting from the Moderator.]
-* [On each screen] Are there any terms that seem unfamiliar or confusing to you?
-* [At the end of each clinical reminder] On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about [clinical reminder topic]?
-* [At the end of all the clinical reminders]
-    * What do you expect to happen next, since you answered these questions?
-        * [Skip if they haven't filled out a questionnaire] Does that match what actually happened next at your appointment with your provider knowing that they reviewed your answers? Why or why not?
-    * If you could change one thing about this question experience, what would that be?
+P: No, I think that it is really straight forward. 
 
-_Starts on “Welcome! Your provider has some questions for you to complete how you’re doing” page._
+M: Scale 1 -5? 
 
-Again, this might be an opportunity to say why: that these are regarding an upcoming appointment. It’s a little language to give me insight into why I’m going through this questionnaire.
+P: 1 [Moves onto second food question]. This is straightforward with good terminology. [Moves onto toxic exposure]  
 
-_Clicks Start. Sexual orientation question_.
+M: Thoughts on TES intro page? 
 
-**Nina:** Anything confusing?
+P: It is ok. I’m on the Agent Orange registry. It has been documented and I’m receiving disability for it. Other Veterans have gotten burn pit exposure. I wonder if there are any Veterans who haven’t been made aware of this. It is good terminology and easy to understand. I’ve seen other PACT Act notifications in other documents. 
 
-No, this does a good job of saying the “why” - so I can meet my health care goals. And gives me my options right up front. This is better than the previous page.
+M: Scale 1 -5? 
 
-**Nina:** Difficulty on 1-5 scale?
+P: 1 also. [Keeps reads toxic exposure]  
 
-Very easy. I’d say 1 to 1.5 It’s a mouthful to read this but it’s easy to understand once you get to the end. It’s probably about right, it’s asking me a question and telling me why the question is being asked. That’s appropriate.
+M: What do you think of all of this? 
 
-_“In the past 2 months have you been living in stable housing” question._
+P: I don’t know if it is all necessary. For legal reasons, I guess that they need to know about the paperwork reduction act. I always get confused when there is an email address until I have a pen and paper that I have around to write it down. 
 
-“Stable” is kind of a subjective question. If I’m coming straight out of the military I’m living in barracks, in between deployments, stable might be a roof over my head. Now that I live in a house with kids, “stable” is default; I’m just operating in my normal behaviors every day. It depends on the person you ask.
+M: What would you take away? 
 
-What’s a better word than stable? I don’t know. Acceptable, or brings you satisfaction? I don’t know. When I got out of the army what I saw as stable compared to my life now was wildly different.
+P: I’d write down the phone number and I’d move the email address to the end of the survey where I can leave comments at the end. 
 
-This is a 3, 3.5 in difficulty. If I’m trying to breeze through I’ll just push whatever [option/button], but if I’m fresh out of the military using VA benefits, “stable” is going to give me pause.
+M: Scale 1 -5? 
 
-_“Worried or concerned may not have stable housing” question - 6%._
+P: 3.  
 
-This is a little easier. After reading this I might go back. Maybe I’m not so stable. This is probably the right follow-up question to the last one. Difficulty, between 1-2.
+M: Why? Anything else that you haven’t mentioned? 
 
-_“Food situation - 12 months worried if your food would run out” question - 21%._
+P: No 
 
-I think this is self-explanatory. It’s asking questions about stability in general, housing and food. I almost wish there was a line where you could add your own language to provide context to your answer. Because you might want your health provider to know about it, like if you recently got a job. 
+M: [Continues reading toxic exposure] 
 
-_“12 months, did food last?” question - 26%._
+P: Yes. All straight forward terms here. Rating as a 1. [Reads the next toxic exposure question] I’d chose Agent Orange. Some trash was burned when I was there. I’m not aware of any health-related affects. [Reviews each choice. Thinks it might be hard for others and explains what they think that they might have been exposed to.] 
 
-This question is asking about a longer period, the past year. I think a text box might be helpful here. What if I was going from duty station to duty station in the last 12 months - it might be helpful for the healthcare provider to know if I’m moving a lot. Just because of the long-term nature of the question, now you’re asking about a year. That’s a big timeframe. 
+M: Would you like Asbestos to be one of the options here? 
 
-Difficulty is pretty easy, between 1-2
+P: Yes. For anyone in the Navy, there are lots of asbestos used in the ships. 
 
-_“DHA Toxic Exposures” question - 34%._
+M: Any changes? 
 
-Maybe here you could link out to that law, in case someone wants to learn more about the PACT Act. The items in the possible exposures list is pretty common terminology in our lexicon, I just think the PACT Act is something folks might not be familiar with. Maybe the part where it says “Public Law 117-168” could be a link.
+P: Specifically list asbestos. [Goes to the next page] Here is where I would enter asbestos. I think that it needs to be here. If you add asbestos to the other list, then you would still need other for other exposures. If you had it on the other screen also, then the screen will get cluttered and be too much. I would rate this screen as a 1, because it should follow the other screen. [Goes to TES follow-up question screen] There are a lot of choices, but they are all important questions. Now, would be the time to let them know that you have questions. In that regard, I think that is a good screen for myself if I was getting ready for my appointment. I’d click “no questions at this time.”  
 
-Difficulty is a 2. It’s not the easiest to understand and read, especially if you’re not familiar with it. I deployed to Bosnia, so I don’t know if the PACT Act has any impact on my healthcare. So I might want to learn a little more about how this has bearing on my healthcare. 
+M: Anything confusing? 
 
-If it said “Learn more about PACT act”, the VA has links in their website that have very good information about it. If you’re staying in VA to read more about it, not going to some random website, I think that’d be helpful.
+P: No. You might be trying to group too many things together. If this is for a medical appointment, then benefits/claims questions might not be answered at my appointment. If this is for an appointment, then I’m already enrolled, so I don’t understand the healthcare enrollment question. I’m not sure why the other questions are available here. I’d keep the “health/medical questions,” but get rid of the benefits and health care enrollment options.  
 
-_“Participation in this survey is voluntary” page - 36%._
+M: You think that they are irrelevant in this context? 
 
-I’d have to get to the end to understand what this survey is. I didn’t even know I was going to another survey. At the end, based on this email address, I assume it’s about PACT. It looks like there’s a survey but I don’t know what it is.
+P: Yes. 
 
-“Our Office of Management and Budget number…” - this is irrelevant to my personal health care so I’m assuming it has to be there. Other than that it’s pretty easy, probably a 2, 2.5. Just a little confusion at the top.
+M: Does it bother you that they are here now? 
 
-_Next page - 38%._
+P: They are irrelevant. 
 
-I’m assuming I’m starting the survey at this point? Maybe at the top I’d say something about “Question number 1 of this survey.” I don’t know. I’m assuming I went to a new site. Is this a 1 question survey or a 20 question survey? A number of pages might be helpful.
+M: You’d rather not see them at all? 
 
-Other than that it’s easy to understand, the language is pretty familiar to the Veteran community. 1-2 difficulty level.
+P: I’d give them a 5. 
 
-_“Thank you for answering the questions” page - 47%._
+M: 5 is very difficult to understand. 
 
-It was obviously just a 1 question survey. I didn’t answer “question_s_” I answered 1 question. I think this is easy to understand, self-explanatory, it’s managing my expectations, something will be coming to my text/email in the future. Difficulty 1-2.
+P: I’d give it a 1 then. They are easy to understand, but I don’t think that they should be there. [Reads TES last paragraph]. It is a straight forward explanation. Good reassurance and well worded. I’d give it a 1. [Moves onto tobacco] I don’t think that should be dup. This is a standard question when you seek any type of medical care. You need to change dup. 
 
-_Smoking/tobacco question - 51%._
+M: So that is an unfamiliar word. 
 
-Dup - I’m assuming that means dip? This is a great question, it really provides clarity on what tobacco is and is not. Right in the good language window, difficulty between 1-2. 
+P: Yes [Former user question] Rate as a 1. [last time used tobacco question] Straightforward question. I’d rate it as a 1. [TBI screener] No. rate as a 1. [Embedded fragments screener] That is the first that I’ve heard of this embedded fragment screening. It makes sense. If you answer this positively that you will receive some follow-up. It is easy to understand what it is about even though I’m not familiar about it. Even if you never heard of it, then you understand what they are referring to. Always in the military, they use acronyms. It is good that they spelled it out. Rate as a 1. [Have embedded fragment question]  
 
-In baseball people always said they had “dip” in their mouth, not “dup”. Other than that it’s all very easy to read.
+M: How do you feel about the acronyms there? 
 
-_“Have you ever used tobacco” question - 53%._
+P: I’m familiar with those. Any military dealing with enemy fire would understand those. Again, a 1. It is an easy-to-understand question. [Got an error that the questions weren’t sent to the provider] 
 
-Difficulty of 1. Very easy question. Maybe a text box to add context. “Yes, I tried a cigarette once in high school” But that’s a 1. Maybe just add an opportunity to add context.
+M: How do you feel about getting this screen? 
 
-_Post-9/11 question - 57%._
+P: Good, because it lets you know that the questionnaire is finished. It also lets me know that it didn’t send to the provider and I have to try again. 
 
-Easy question, difficulty of 1. Coming from the Veteran community. I don’t know what the next question is; if I say yes is it going to ask about deployments? What’s next if I say yes? Is a “no” answer going to then ask if I use alcohol? If the answer is yes and I’m not going to put context around it, that’s a lot of info they still need. Being deployed in Afghanistan for 15 months is different than going to Poland and doing paperwork. 1, 1.5 difficulty. It's a yes or no question, but my brain thinks of what’s next.
+M: How do you feel about it? 
 
-_Embedded Fragment Screening - 74%._
+P: It doesn’t have to do about the questionnaire. It has to do with the connection, so it isn’t the questionnaire’s fault. 
 
-I’m assuming because I answered no that’s why I’m getting this. If I’d have answered yes, I would have been able to provide details about my deployments.
+M: Would you try again? 
 
-I think this question is a lot of text, but appropriate for what it’s asking you. I wonder if  this positive response is going to be talked about with my health care team, or is it just going into a registry that I have shrapnel in my leg from a grenade? But this is also very text heavy, so I don’t know if adding more text would be helpful. I think it’s good, maybe a 2 or 3 difficulty. It’s very text heavy and very different from what I was asked before. It’s about an embedded fragment, it’s going to take me 2-3 minutes to complete, that’s good.
+P: Yes. If it tells me this, then I would try again. 
 
-The language being used is pretty common in the military and Veteran community.
+M: Pretend that it was sent to your provider. What would you expect to happen next? 
 
-_“Do you have or suspect that you have retained fragment or shrapnel” question - 77%._
+P: I would think that it would go to my specific provider. I go to community care, so this would somehow transfer electronically to my provider. 
 
-Really good question, pretty self-explanatory. I’d say it’s a 1. It’s giving good examples of why you might have fragments or shrapnel left in your body. Pretty easy to understand.
+M: You expect that they would talk about it at your next appointment? 
 
-_Submission page_
+P: Yes. I would expect them to follow through depending upon how I answered. 
 
-Again, it’s a good way to end it, I’m done, I’m complete, I can move on with my day. Some surveys give you the opportunity to go back or review your questions, I don’t know if that’s necessarily appropriate here. That’s how some I completed in the past were done. I might like to have that option. It’s not just asking me about light and breezy stuff, it’s asking things that are more personal. So let me go back and give me a chance to read through and hit submit, that might be a better option.
+M: Past experience? 
 
-After I finished this I would hope my PCP was given the answers to these questions, and I would receive, based on the answers, or either way, it’d be nice if my PCP provider, or their team, would call and say I’d like to review your survey submission you completed to see if there’s anything you want to add. I’d expect a follow-up of some kind from my provider. It doesn’t say that in the survey though - it’d be nice to manage expectations at the end, “You’ve submitted it, expect a follow-up in x days”
+P: I don’t recall specifically having the questionnaire sent to me before my last appointment. If I had questions about prescriptions or vaccines. I have always used the secure messaging and they have always gotten back to me in a few days. I would expect that they would follow through with this as well. 
 
+M: Overall rating 1 – 5? 
 
-## Post-Task Interview - 10 minutes
+P: 1. I’m retired, so I got all kinds of time. It was easy. Except for the wording in the few places that we talked about. 
 
-**Nina:** How does this compare to the previous survey?
+M: Impact quality of appointment? 
 
-No, this wasn’t the same survey. When I met with my PCP they asked me about the PACT act stuff. And because I deployed to Bosnia. But some were repeats; tobacco use, sexual orientation. 
+P: It should impact it in a positive way. It gives me time to think about what I want to bring to their attention. I can explain some things. It might save some time. I don’t have to fill it out on a clipboard. I could spend more time in a face-to=face discussion. 
 
-* Now, I have just a few more questions for you.
-* On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult, how easy or difficult was it to answer these questions?
+M: Like having it before the appointment? 
 
-Overall difficulty is a 2, clarity difficulty is a 3, some parts were jumping all over the place a bit. And that survey, it took a minute to understand that I was taking a survey. I was already in a survey, it felt like a survey within a survey. But once you’re there and in it, it wasn’t hard to understand. It’s more the clarity. Again I think some text boxes would be helpful, some opportunities to provide some insight.
+P: Yeah. I’m an old curmudgeon that I like things face-to-face, but this could help. So, I need to get with the times and do things online. I’m not surprised that VA is going to this. I also go to the Mayo Clinic and they went completely to this where I can check-in online and fill out these things online. 
 
-* Would you expect answering these questions online prior to your appointment to impact the quality of your appointment with your provider in any way? If so, how?
+M: How soon before appointment would you want to receive this? 
 
-Not quality, but the conversations - what we end up talking about. Maybe the length, you might spend more time with your PCP and get some referrals out based on your answers to those questions. If I answered questions in a way to make it look like I was at risk, then I assume my appointment would be a little longer than if I was the healthiest human alive. 
+P: Email is good. As long as email provider and get it to me in a smooth trouble-free fashion. Maybe a week ahead of time. 
 
-* Would answering the questions on your own time impact your responses compared to answering them with your provider? If so, how?
+M: Would answer on own time impact responses compared to answering with provider? 
 
-If that’s sent a week before, rather than a doctor handing me paper at the appointment, my answers would be different. At the appointment I’m just doing it to check off some boxes. If I had some time to breathe I’d be more apt to take it more seriously. The privacy of my own office or home, vs a doctor’s office where other people might be around, they might be seeing what I’m writing. Some of those questions deserve privacy I think.
+P: I think that it would allow me to take my time. 
 
-* Were the number of questions you answered online today:
-    * Too many
-    * Not enough
-    * Just right
+M: # of questions? 
 
-Just right. It jumped all over a bit with where I was going, but the amount of questions were fine.
+P: There were a lot of questions, but it is similar to any other medical questionnaires that I have had to fill out. It was ok. 
 
-* What would you estimate the ideal number of minutes or question sets to complete at one time prior to one appointment?
+M: Ideal time? 
 
-If this is leading up to an appointment, maybe a half an hour, that’s fine. But if it’s over an hour…unless I’m putting a lot of context in, anything over a half hour would be too much. 
+P: If it goes past 10-15 minutes, then it is too long. Unless it is something that I could save and come back to at a later time. 
 
-**Nina:** If you had to change one thing, what would you change?
+M: If you were able to save, would that impact how much you’d answer? 
 
-The survey can do a better job of being two things; clear and concise in the language being used and managing expectations. Answer the why’s - why the questions are being answered. Or why I’m taking the survey - what itn the world is this even about?
-
-* And lastly, do you have any questions for me?
-* Okay, great! That is all the questions I have for you today.
+P: Yes, but 10-15 minutes at most. 
