@@ -70,17 +70,11 @@ Keeping these two questions ("How is your condition related to your service?" an
 
 If we used the "other approach considered", we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
 
-### Indicating dates for locations
-
-
-
-## Background on decisions
-
 ### None of these locations and I'm not sure checkboxes
 
 #### Current approach 
 
-The current approach is to keep I’m not sure mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
+The current approach is to keep "I’m not sure" mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
 They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or None of these locations in order to move forward.
 
 ![Screen showing a checkbox group of service locations plus "None of these locations" and "I'm not sure". "Lebanon" and "None of these locations" are both checked. There's a displayed error message of "You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/8105423c-bc09-4bcb-8f99-ab862f5c9923 "Gulf War Locations 3")
@@ -91,9 +85,9 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
  
 <ul>
    <li>Track the order in which a user selects checkboxes and display a more tailored error message with the assumption that their intention is to select the option most recently selected, like "If you want to select 'None of these locations', you'll need to uncheck other locations in this list." <a href="https://dsva.slack.com/archives/C01K37HRUAH/p1704404867063769?thread_ts=1704323164.991569&cid=C01K37HRUAH">per Slack</a> </li>
-   <li>Having I’m not sure trigger the validation error that unchecks previously checked locations</li>
-  <li>Replacing the I’m not sure checkbox with copy that instead communicates if they’re not sure, that’s okay. 
-</li>
+   <li>Having "I’m not sure" trigger the validation error that unchecks previously checked locations</li>
+  <li>Replacing the "I’m not sure" checkbox with copy that instead communicates if they’re not sure, that’s okay.</li>
+   <li>A change to the design system to make it more clear with only one question per screen, when a question is optional **(we might still pursue this)**</li>
 </ul>
 
 #### Rationale
@@ -107,7 +101,7 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
    <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
 <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
 <li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
-The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. </li>
+The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. - per [CAIA accessibility review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox)</li>
 </ul>
 
 
@@ -118,7 +112,7 @@ The proposed pattern - unchecking "Not sure" results in the "From" and "To" fiel
 
 #### Current approach
 
-The current approach is to have each page in the TE flow have it’s own unique page title. This will help many assistive tech users use headings to navigate, and indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country] @Christine Cereca noted it’s good to avoid building sentence structure like this for consideration of page translation in other languages. 
+The current approach is to have each page in the TE flow have its own unique page title. This will help many assistive tech users use headings to navigate, and indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country]". @Christine Cereca noted it’s good to use a sentence structure like this for consideration of page translation in other languages. 
 
 <img width="1109" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/6cbaff6e-dc11-403d-a466-e9858d8f8256">
 
