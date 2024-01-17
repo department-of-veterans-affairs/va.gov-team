@@ -43,7 +43,7 @@
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | integration |  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | 🟩 | integration |  | 
 Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
-Dashboard | [GET /profile](va_profile/profile_processes.md)   | VA Profile / Dynamics | 🟨 | ⬜ | design | FE team to update docs with Chris' field names; review with CRM | 
+Form | [GET /profile](crm/AVA_Profile.md) from AVA | Dynamics | 🟡 | ⬜ | ready for dev |  | 
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
@@ -57,4 +57,5 @@ Form | [GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md) | Lighthouse | N/A 
 Form | [GET /states](lighthouse/Form_States.md) | Lighthouse | N/A | ⬜ | design | |  
 Form | [GET /countries](lighthouse/Form_GetCountries.md) | Lighthouse | N/A | ⬜ | design | | 
 Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | design |  | 
+Form | [GET /profile](va_profile/profile_processes.md) from VA | VA Profile | N/A | ⬜ | design |  | 
 
