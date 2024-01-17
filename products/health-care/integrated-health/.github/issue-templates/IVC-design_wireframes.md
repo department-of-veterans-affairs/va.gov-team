@@ -1,5 +1,5 @@
 ---
-name: [Design] - %%Form Number%% Wireframes
+name: 3. [Design] - %%Form Number%% Wireframes
 about: Before Design Intent
 title: ''
 labels: design
