@@ -7,7 +7,7 @@ Initial research will test with Veterans and beneficiaries to validate that it c
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer)
 
-[Link to card in research repo TBD]()
+[Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/465)
 
 ### OCTO Priorities 
 
