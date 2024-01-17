@@ -82,16 +82,29 @@ We will keep track of participant demographic information (identified gender, ag
 - 2-3 times per month
 - More than 3 times per month
 
-Do you have a My HealtheVet (MHV) account?
+2. Do you have a My HealtheVet (MHV) account?
 - Yes
 - No
   
-How often, if at all, do you use My HealtheVet?
+3. How often, if at all, do you use My HealtheVet?
 - Never used it
 - Once a year
 - Once a month
 - 2-3 times a month
 - More than 3 times a month
+
+4. How comfortable are you with the idea of managing your health-related tasks online, such as scheduling appointments, viewing medical records, or communicating with health care professionals?
+- Not at all comfortable
+- Slightly comfortable
+- Moderately comfortable
+- Very comfortable
+- Extremely comfortable
+
+5. How frequently do you use the internet for personal activities, such as browsing websites, online banking, or online shopping?
+- Rarely
+- Occasionally
+- Regularly
+- Frequently
 
 
 ## Timeline
