@@ -16,7 +16,7 @@ This research aligns with the following [OCTO priorities](https://github.com/de
 * Refresh VA.gov homepage and IA
 
 ### OFCIO Priorities
-This research aligns with the ~[21st Century IDEA](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)~.
+This research aligns with the [21st Century IDEA](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf).
 * Create a consistent user experience across government websites by creating a standardized header/footer that contributes back to the USWDS
 
 
