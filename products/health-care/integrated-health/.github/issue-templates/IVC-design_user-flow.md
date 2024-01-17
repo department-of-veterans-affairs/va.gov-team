@@ -9,7 +9,7 @@ assignees: ''
 
 Before Design Intent
 ### **Description**
-Using discovery from [%%Form Number%% User Story](link to user story ticket) and flow from discovery from [%%Form Number%% User Story](link to user story ticket), layout the flow for %%Form Number%% form.
+Using discovery from [%%Form Number%% User Story](link to user story ticket), lay out the flow for %%Form Number%% form.
 
 ### **Definition of Done**
 - [ ] User flow in Mural or Figma
