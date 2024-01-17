@@ -13,9 +13,8 @@ Using discovery from [%%Form Number%% User Story](link to user story ticket), la
 
 ### **Definition of Done**
 - [ ] User flow in Mural or Figma
-- [ ] Design Review
-- [ ] Accessibilty review
-- [ ] File for design intent
+- [ ] Design review
+- [ ] Teamwide shareout (devs, product, VA PO [Premal])
 
 ### **Assumptions**
 - Placeholder
