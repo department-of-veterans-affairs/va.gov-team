@@ -13,5 +13,4 @@ Desk discovery for %%Form Number%% form. May include info like eligibility crite
 
 ### **Definition of Done**
 - [ ] Mural or Figjam with discovery findings
-- [ ] Accessibility review
-- [ ] Submit to CAIA for review
+
