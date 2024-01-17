@@ -55,11 +55,13 @@
 Q1 2024
  - Automation
      1.) Develop guideline and procedures for when engineering handles the detox test for new features 
-     2.) Develop a way that only certain features/functionality can be tested vs having to run all e2e tests 
+     2.) Develop a way that only certain features/functionality can be tested vs having to run all e2e tests
+   
 Q2 2024
  - Automation
      1.) Engineering to start completing detox work for new features  
-     2.) Qart to develop guideline and procedures for when engineering handles the detox test for exisiting feature (modifying existing detox test) 
+     2.) Qart to develop guideline and procedures for when engineering handles the detox test for exisiting feature (modifying existing detox test)
+   
 Q3 2024 
  - Automation
      1.) Engineering to start modifying existing detox tests for existing features 
