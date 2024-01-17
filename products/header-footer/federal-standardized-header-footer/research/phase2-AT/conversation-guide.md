@@ -5,10 +5,10 @@
 **Before all sessions**:
 - *Review participant list for participant name and screener question responses*
 - *Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON*
-- *Wear HEADPHONES to prevent the user's screen reader from echoing back to them, which is distracting*
 
 **10-15 min before session**: 
 - Slack Perigean notetaker the link to notes doc in github
+- Amanda/Laura **update participant's name in the prototype**
 
 - *Post p# and "observer instructions" in #feedback-backchannel*
   - *@mention team members*
@@ -16,7 +16,7 @@
   - *Mural link for notetaking*
 
 **5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
-
+- *Wear HEADPHONES to prevent the user's screen reader from echoing back to them, which is distracting*
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
 - *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
