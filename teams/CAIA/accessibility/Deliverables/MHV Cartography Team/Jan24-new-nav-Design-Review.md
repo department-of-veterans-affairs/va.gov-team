@@ -61,6 +61,7 @@ But there's no indication of focus when hovering over links using a mouse:
 
 The main navigation has focus indications for both keyboard and mouse users. You should emulate this on the secondary nav - all users need an indication to know what exactly they're clicking on. :)
 
+
 #### Screen reader issues
 The navigation links are rendering in a way that indicates that they have submenus and can be expanded:
 
@@ -83,3 +84,19 @@ Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a re
 ### Results and recommendations
 
 (text goes here)
+
+## Other findings
+These findings are specific to the secondary navigation, but will negatively impact assistive technology users who may navigate to these pages in the prototype:
+
+### Appointments page
+
+**Heading levels:** The headings jump from H1 to H4:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/53a33d2b-c205-480d-80ee-23fe178f67cb)
+
+Skipping heading ranks can be confusing and should be avoided where possible. In this case, we recommend the following:
+- keep the `<h1>` as is
+- Use utility classes to increase the font size of the "Start scheduling"; this shouldn't be a heading
+- "January 2024," "February 2024," etc. should be H2 (use utility classes to re-style if needed)
+- "1," "31," etc. should be `<h3>` (use utility classes to re-style if needed)
+
+**Details links:** Each "Details" link needs a unique accessible name. You can use `aria-label` or `aria-describedby` to achieve this.
