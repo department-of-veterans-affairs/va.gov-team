@@ -105,8 +105,8 @@ None
 
 This table reflects the data as stored in AVA/CRM. This data will be mapped to the response documented above.
 
-|---|---|
 |**Prefilled field**|**CRM Contact Record Schema Name**|
+|---|---|
 |First Name|Submitter.FirstName|
 |Middle Name|Submitter.MiddleName|
 |Last Name|Submitter.LastName|
