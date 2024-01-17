@@ -23,7 +23,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open standalone browser window with prototype: **TBD bit.ly/...***
+- *Open standalone browser window with prototype: **https://bit.ly/4aWOb6u***
 - *Paste link into Zoom chat (but don't hit enter)*
 
 - *Do Not Disturb ON so no notifications*
@@ -57,7 +57,7 @@ Today I'm going to ask you a few questions, and then I'll ask you to do some spe
 
 Before we start, I want to go over a few things:
 
-- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **This session may take an hour and a half.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
@@ -96,7 +96,7 @@ Before we start, I want to go over a few things:
 ## Instructions for finding Zoom chat
 - In the Zoom application on your phone or computer, there's a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
-    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and there should be more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+    - *If don't see chat, ASK:* Do you see the (red) "Stop Share" button? If so, put your mouse just above it and there should be more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handling Trauma-Triggering
@@ -210,9 +210,7 @@ We can help guide you through this if you need help. Please say what you're doin
 ### Task 1: [Open prototype] 
 I'd like you to check out a web page that I'm going to share with you. 
 
-*Decide which prototype to show based on device that participant is using during this session: smartphone = mobile, computer/tablet = desktop.*
-
-I will *[email/text/dictate/put into the Zoom chat]* the URL: ***TBD***
+I will *[email/text/dictate/put into the Zoom chat]* the URL: ***bit.ly/4aWOb6u***
 - *(If text or email)* Could the notetaker please text/email the link?
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
@@ -389,5 +387,5 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Record how many questions they saw (from survey results)
 
 ## Approvals
-- Amanda Klausmeier (Sitewide UX/UI Lead) on January TBD, 2024
+- Amanda Klausmeier (Sitewide UX/UI Lead) on January 16, 2024
 - Shane Strassberg (VA Research Ops) on TBD
