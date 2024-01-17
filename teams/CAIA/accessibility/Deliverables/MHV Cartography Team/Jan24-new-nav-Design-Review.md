@@ -4,7 +4,7 @@
 - [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)  
 
 ## Product team
-- OCTO-DE product owner:  ?
+- OCTO-DE product owner: Patrick Bateman
 - Product manager: Lynne Johnson
 - Designer: Sara Sterkenburg 
 
