@@ -289,13 +289,10 @@ Find out if you can get care at a local VA medical center when you’re covered 
 
 <br />
 
-{ Buttons } Back / Continue
-
 <br />
 
 <details>
 <summary>Who can be a third-party representative or a power of attorney?</summary>
-
 { additional info component }
 
 A third-party representative can be a family member or designated person filling out this form for a Veteran or someone with a claim. We consider you to be a third-party representative if you're not already a power of attorney, agent, or fiduciary. If you're a third-party representative, we must have an authorization (VA Form 21-0845) on record. 
@@ -309,6 +306,51 @@ An authorized power of attorney can fill out this request for the person with th
 { End additional info component }   
 
 </details>
+
+{if third party signer}
+
+<details>
+<summary>[H3] Signer’s identity (Story 3)</summary>
+
+{hint text} We use this information to contact the signer of this form and verify other details.
+
+First name (* Required)  
+Middle name  
+Last name (* Required)  
+Suffix
+
+{ Buttons } Back / Continue
+
+</details>
+
+<details>
+<summary>[H3] Signer’s mailing address (Story 3)</summary>
+
+{hint text} We’ll send any updates about your signer certification to this address.
+
+Country (* Required)   
+Street address     
+Street address line 2       
+Street address line 3   
+City (* Required)   
+State (* Required)   
+Postal code (* Required)   
+
+{ Buttons } Back / Continue
+
+</details>
+
+<details>
+<summary>[H3] Signer's contact information</summary>
+
+Phone number (* Required)  
+Email address 
+
+{ Buttons } Back / Continue
+
+</details>
+
+{end if third party signer}
 
 <br />
 
@@ -659,22 +701,23 @@ Here’s how signing in now helps you:
 
 ---------------------------------------
 
-## Step 2 of 3:  Applicant Information
+## Step 3 of 4:  Applicant Information
 
-### [H3] { Applicant's/ Your / Applicant's } name and date of birth
+[H3] { Applicant's/ Your / Applicant's } name and date of birth
 
 
 First name (* Required)  
 Middle name  
 Last name (* Required)  
 Suffix
+
 Date of Birth (* Required)  
 
 { Buttons } Back / Continue
 
 
 
-### [H3] { Applicant's/ Your / Applicant's } SSN 
+[H3] { Applicant's/ Your / Applicant's } SSN 
 
 
 Social Security number (* Required)
@@ -684,7 +727,7 @@ Social Security number (* Required)
 
 
 
-### [H3] { Applicant's/ Your / Applicant's } mailing address
+[H3] { Applicant's/ Your / Applicant's } mailing address
 
 <! --- If it exists, use a pattern for selecting an address that was previously entered ---> 
 
@@ -705,8 +748,7 @@ Postal code (* Required)
 { Buttons } Back / Continue
 
 
-
-### [H3] { Applicant's/ Your / Applicant's } phone number
+[H3] { Applicant's/ Your / Applicant's } phone number
 
 Phone number (* Required)
 
@@ -716,7 +758,10 @@ Phone number (* Required)
 {Information box]
 ### {Alert title} Notice: Applicant may require additional documentation
 
-Depending on { the applicant's/ our / the applicant's } relationship to the Veteran, additional documents may be required to verify eligibility.
+Depending on { the applicant's/ your / the applicant's } relationship to the Veteran, we may require additional documents to verify eligibility.
+
+We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
 
 Spouse:
 
@@ -729,7 +774,6 @@ Child:
 Caretaker:
 - Document Placeholder
 
-These documents will need to be mailed in the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your completed this enrollment form online.
 
 
 {End information box}
@@ -744,6 +788,8 @@ What's { your / the applicant's } relationship to the Veteran they are connect t
 ( ) { I'm / the applicant is } the Veteran's spouse
 
 ( ) { I / the applicant } was the Veteran's spouse
+
+( ) { I / the applicant } was the Veteran's spouse but remarried after the age of 55
 
 ( ) { I'm / the applicant is } the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren)
 
@@ -762,13 +808,13 @@ What's is your relationship to the applicant (* Required)
 
 ( ) The applicant is my spouse
 
-( ) The applicant was my spouse
+( ) The applicant was my spouse but they remarried after the age of 55 
 
 ( ) The applicant is my child (includes legitimate, adopted, illegitimate, and stepchildren)
 
 ( ) The applicant is my caretaker
 
-( ) { My relationship to the applicant is not listed here
+( ) My relationship to the applicant is not listed here
 
 { Buttons } Back / Continue
 
@@ -777,7 +823,10 @@ What's is your relationship to the applicant (* Required)
 {Information box]
 ### {Alert title} Notice: Applicant may require additional documentation
 
-Depending on the applicant’s health insurance status, additional documents may be required to verify eligibility.
+Depending on { the applicant's/ your / the applicant's } health insurance status, we may require additional documents to verify eligibility.
+
+We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
 
 Medicare:
 
@@ -788,24 +837,55 @@ Other health insurance::
 - A COPY of the applicant's health insurance card
 
 
-These documents will need to be mailed in the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your completed this enrollment form online.
 
 
 {End Information box}
 
 
-### [H3] Is the applicant enrolled in Medicare or any other health insurance? (* Required)
-{helper text} Check all that apply.
-- [ ] The applicant has Medicare
-- [ ] Applicant has other health insurance
-- [ ] Applicant does not have Medicare or other health insurance
+<details>
+ <summary>
+ [H3] Is the applicant over the age of 65 and enrolled in of {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 2 & 3) </summary>
+
+- [ ] The applicant has Medicare {if checked add form 10-7959c to the Application submitted page}
+- [ ] The applicant is eligible for Medicare {if checked add form 10-7959c to the Application submitted page}
+- [ ] The applicant doesn't have Medicare
 
 { Buttons } Back / Continue
 
+</details>
 
-## Step 2 of 3:  Applicant Information
+<summary> [H3] Are you over the age of 65 and enrolled in or {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 1)</summary>
 
-### [H3] Would you like to add another applicant?
+- [ ] I'm enrolled in Medicare {if checked add form 10-7959c to the application submitted page}
+- [ ] I'm eligible for Medicare {if checked add form 10-7959c to the Application subbmitted page}
+- [ ] I'm not elgiible for Medicare
+
+{ Buttons } Back / Continue
+
+</details>
+
+
+<details>
+ <summary>
+ [H3] Is the applicant have other health insurance? (* Required) (Story 2 & 3) </summary>
+
+- [ ] The applicant has other health insurance {if checked add form 10-7959c to the Application submitted page}
+- [ ] The applicant doesn't other health insurance
+
+{ Buttons } Back / Continue
+
+</details>
+
+<summary> [H3] Are you over the age of 65 and enrolled in or {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 1)</summary>
+
+- [ ] I have other health insurance
+- [ ] I don't have other health insurance
+
+{ Buttons } Back / Continue
+
+</details>
+
+[H3] Are there any other applicants to add? (*Required)
 ( ) Yes, I have more applicant's to add
 ( ) No, I don't have anymow applicant's to add
 
@@ -835,48 +915,9 @@ Who will be signing this application? (* Required)
 { Buttons } Back / Continue
 
 
-## Step 3 of 3: Signer's information
-
-#### [H3] Signer’s name
-
-We use this information to contact the signer of this form and verify other details.
-
-First name (* Required)  
-Middle name  
-Last name (* Required)  
-
-{ Buttons } Back / Continue
-
-
-## Step 3 of 3: Signer's information
-
-#### [H3] Signer’s mailing address
-
-We’ll send any updates about your signer certification to this address.
-
-Country (* Required)   
-Street address     
-Street address line 2       
-Street address line 3   
-City (* Required)   
-State (* Required)   
-Postal code (* Required)   
-
-{ Buttons } Back / Continue
-
-
-## Step 3 of 3:  Signer's information
-
-#### [H3] Signer's contact information
-
-Phone number (* Required)  
-Email address 
-
-{ Buttons } Back / Continue
-
 ---------------------------------------
 
-## Step 3 of 3:  Signer's information
+## Step 4 of 4:  Review and certify
 
 #### [H3] Statement of truth
 
