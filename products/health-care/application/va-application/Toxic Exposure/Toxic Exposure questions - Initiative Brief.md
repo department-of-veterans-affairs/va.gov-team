@@ -20,7 +20,7 @@
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
-<!--
+
 ## Desired User Outcomes
 - Unqualified Veterans may now qualify for VA health care by providing this information
 - More Veterans applying for VA health care
