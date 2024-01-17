@@ -30,14 +30,19 @@ Review of two versions of a new secondary nav, coded in CodePen, that will be us
 
 #### Keyboard navigation
 There are focus issues while tabbing using a keyboard:
-
+- **All pages, desktop and mobile:** "Messages" or "Medications" links are coded as empty `<a>`.
+   - Keyboard users can't tab to them. 
+   - Mouse/touchscreen users can activate them - they appear to be links, after all, and have focus indication on the mobile menu - but clicking on them won't do anything.
+   - JAWS users will hear "List, 5 items," but can only tab to 3 of those items.
+   - This is confusing for those users - if something acts like a link, its expected to _behave_ like one.
+   - **Recommendations:** Either remove "Messages" and "Medications," or create dummy pages for those two to link to.
 - **Appointments page, desktop:**
    - You can't tab to the "Appointments" navigation link.
    - When I click on "Medical Records," it initially takes me to the "X-Ray Results" page. If I click on "Medical Records" a SECOND time, it then brings up the correct "Medical Records" page. I'm not sure what's going on here - please check that this is pointing to the right place.
 - **Appointments page, mobile:** you can't tab to the "Medical records" navigation link.
 - **Medical records page, desktop:** you can't tab to the "Appointments" navigation link.
 - **Medical records page, desktop:** you can't tab to the "Medical records" navigation link.
-- **All pages, desktop and mobile:** "Messages" or "Medications" links are coded as empty `<a>`. Keyboard users can't tab to them. And mouse/touchscreen users can activate them - they appear to be links, after all, and have focus indication on the mobile menu - but clicking on them won't do anything. This is confusing for those users - if something acts like a link, its expected to _behave_ like one. If "Messages" and "Medications" aren't actually links, they shouldn't be clickable.
+
 
 #### Navigation landmark labels
 All navigation landmarks - either `<nav>` or `role="navigation"` - need to have a unique identifier. There are a few of these on the page. You can use either `aria-label` or `aria-labelledby` to label each nav. 
