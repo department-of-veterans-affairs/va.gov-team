@@ -6,7 +6,7 @@ Disability compensation, disability benefits, toxic exposure, PACT Act, 526 ez
 
 ## Resources
 
-1. Sketch file: [526 toxic exposure](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f) (will soon be migrated to Figma)
+1. Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=B73IymSk8l8Cc4TB-1) 
 2. Epic: [Toxic Exposure - 526ez](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64536) (also contains other key project documents)
 3. Documentation ticket: [Toxic Exposure - clean up documentation](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/71950)
 
