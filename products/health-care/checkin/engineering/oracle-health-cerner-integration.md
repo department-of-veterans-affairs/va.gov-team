@@ -108,11 +108,20 @@ sequenceDiagram
         web-->>-vet: displays check-in completed message
 ```
 ## Questions / Open Items
+(answers added from Stephen in [slack thread](https://dsva.slack.com/archives/C02G6AB3ZRS/p1705426133031669))
 - How do we connect to Oracle Health (cerner) via MAP token to set the arrived status?
+    - Plan to use a MAP service that is being built now. That will use the same MAP token. If for some reason that does not work we will need VeText to provide an endpoint to set the appointment status. Edit:  I actually cant remember where we landed for this connection, but both MAP and potentially VeText can provide this
 - Who is our POC for the Oracle Health (cerner) MAP service?
+    - @Brad Crosby can answer questions about this service. 
 - Can we connect to Profile for data and setting timestamp via MAP token? (Stephen is asking)
+    - This appears to be the best way. @Kay and I are confirming what onboarding we need to do with MAP.   we will also need to work with VA Profile to get an application ID that will be used in the call to MAP. 
 - Will we still need to update demographics timestamps in Vista if we are setting the single timestamp in VA Profile?
-- What does a Oracle Health (cerner) appointment payload look like? (Shane will provide a sample)
+    - For VistA appointments, I think so, based on VSE CS currently looking at those timestamps.  This one probably needs some more thought and understanding to be sure. 
+- What does a Oracle Health (cerner) appointment payload look like? (veTEXT will provide a sample)
+    - [veTEXT ticket](https://github.com/department-of-veterans-affairs/vetext/issues/2275) for the work 
 - How will the staffs know about patient workflow status when cie application shows contact staff message incase of check-in failure or invalid contact information?
+    - Staff at OH will not know about any of the statuses that are currently set by PCI and viewed by staff in VSE CS. OH staff will not use VSE CS.  If the Veteran is not able to complete check in they should be directed to check in with the clerk. 
 - Are all cerner appointments echeckin enabled by default or do we need to enable/disable echeck-in for sites/clinics?
+    - I think where this landed is that we only need to be able to enable/disable based on appointment type (video, in-person, telephone :point_left: not real statuses, for example use only) @Kay can you confirm this please? 
 - Decision from business if insurance verification required for cerner appointments
+    - There is currently not a way to programmatically determine if a Veteran needs to confirm/update their insurance information at OH sites so Veterans will need to that directly with the clerk. 
