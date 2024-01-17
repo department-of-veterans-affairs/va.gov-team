@@ -1,3 +1,59 @@
+## Meeting Notes for CRM Sync on 01/16/2024
+
+Medallia Updates
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Natalie updated on Medallia ATO
+   * potential inquest may take 6-9 months to access data on Medallia portal (according to experience)
+   * Natalie needs to confirm this though by talking to ISSO.
+  
+### Action Items:
+
+- [X] ~Becky to connect Natalie with Medallia team to answer questions~
+- [ ] Natalie provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Becky to help escalate Natalie's issue with accessing ZenHub
+- [ ] Natalie + team to provide name of research observers from CRM team by EOD 1/17
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+- [X] ~Chris: Send reroute data to Joe/Jacob/Becky~
+- [ ] Shelby: Check in with dev team & aiming for next sync call (1/16) for answers on form changes
+- [ ] Adding field to form (“Missing field in CRM” slide)
+- [ ] Adding an option to a list (“Relationship lists” slide)
+- [ ] Update gender field with optionset or could be a new field (“Changed Gender value” slide)
+- [X] ~Chris & Joe: Discuss empty string or a null string~ (empty string)
+
+
+
+## Meeting Notes for CRM Sync on 01/11/2024
+
+Brief brief; Access Status; API Status
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Training / 0-token / resource-access status in progress for both teams
+   * For CRM, access is needed for API work, blocking
+   * For FE, access is needed for analytics, specifically baseline metrics
+2. API docs review, `/profile` documentation needs tweaks from CC.
+  
+### Action Items:
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+
+
+
 ## Meeting Notes for CRM Sync on 01/09/2024
 
 Rerouting Data in App Insights; UX Change CRM Impact Slides
