@@ -51,9 +51,11 @@ sequenceDiagram
     participant api as vets-api
     participant ch as CHIP
     participant l as LoROTA
-    participant map as MAP
-    participant proxy as Mobile Proxy Service
-    participant pro as VA Profile
+    box grey MAP
+        participant token as Token
+        participant proxy as Proxy
+        participant pro as VA Profile
+    end
     participant ce as Oracle Health (cerner)
         vet->>web: Clicks link to start CIE <br> and validates last & dob
         activate web
@@ -74,9 +76,9 @@ sequenceDiagram
         end
         api->>+l: GET patient data
         l--)-api: return patient data
-        api->>+map: GET token/{patientIcn}
-        map--)-api: returns token
-        api->>+api: cache token
+        api->>+token: GET token/{patientIcn}
+        token--)-api: returns token
+        api->>+api: cache token by uuid (LoROTA)
         api->>+proxy: GET demographics data
         proxy->>+pro: GET demographics data
         pro--)-proxy: return demographics data
@@ -87,8 +89,8 @@ sequenceDiagram
         vet->>+web: confirms demographics information
         web->>+api: PATCH demographics timestamp
         alt if no map token in cache
-            api->>+map: GET token
-            map--)-api: returns token
+            api->>+token: GET token
+            token--)-api: returns token
         end
         api->>+proxy: POST timestamp
         proxy->>+pro: POST timestamp
@@ -99,8 +101,8 @@ sequenceDiagram
         vet->>+web: clicks check-in
         web->>+api: POST check-in
         alt if no map token in cache
-            api->>+map: GET token
-            map--)-api: returns token
+            api->>+token: GET token
+            token--)-api: returns token
         end
         api->>+ce: POST set appointment status to arrived
         ce--)-api: returns success
