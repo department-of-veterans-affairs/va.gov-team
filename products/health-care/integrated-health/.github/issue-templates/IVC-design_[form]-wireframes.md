@@ -14,5 +14,11 @@ Using discovery from [%%Form Number%% User Story](link to user story ticket) and
 ### **Definition of Done**
 - [ ] Wireframes in Figma
 - [ ] Design Review
-- [ ] Accessibilty review
-- [ ] File for design intent
+- [ ] Accessibilty review (internal - send it to Rachael)
+- [ ] Teamwide review (dev, product, VA PO [Premal])
+
+### **Assumptions**
+- Placeholder
+
+### **Unknowns**
+- Placeholder
