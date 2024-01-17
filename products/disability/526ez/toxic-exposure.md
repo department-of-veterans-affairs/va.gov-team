@@ -186,13 +186,13 @@ The design system doesn't currently have a pattern for showing a summary of info
 
 The HTML approach is to use headings for each location, like so:
 <pre>
-<h4>Service Dates on or after August 2, 1990</h4>
-<h5>Afghanistan</h5>
-<p>September 1992 - September 1993</p>
-<h5>Iraq</h5>
-<p>1994-> 1995</p>
-<h5>Saudi Arabia</h5>
-<p>I'm not sure of the dates.</p>
+`<h4>Service Dates on or after August 2, 1990</h4>`
+`<h5>Afghanistan</h5>`
+`<p>September 1992 - September 1993</p>`
+`<h5>Iraq</h5>`
+`<p>1994-> 1995</p>`
+`<h5>Saudi Arabia</h5>`
+`<p>I'm not sure of the dates.</p>`
 </pre>
 
 #### Other approaches considered
