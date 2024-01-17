@@ -63,7 +63,6 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
 
 
 ### Steps 
-Steps
 
 **1.) A bug ticket is created by anyone**
 
@@ -82,10 +81,21 @@ Steps
    - Example [3051](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3051)
    - For UX ticket they will have in their name UX Review and also be tagged with Bug and UX labels for finding
    - Once UX Review tickets are done then the original bug ticket is updated with findings and ready for engineering work to be prioritized 
+- PMs can find their team's bug tickets by going to [Zenhub board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board?labels=bug,health) going to Labels and selecting their team's label and the bug label (Example for Health Team's Bugs)
+     -  <img width="132" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/f0377f4d-7494-4d41-a1f1-558eb02c3e71">
+
 
 **4.) Product Managers on the Specialized Mobile Team prioritizes their own relevant bug tickets within their team as needed**
 - During prioritization PM on Mobile teams will need to coordinate with QA, if QA resources are needed to validate, if QA has capacity to test
 - If PM thinks that the ticket should be done by another team then its that PM's responsilibity to have that convo; PM will not go back to QA to reassess owner
+- [Gidelines for Severity Bugs prioritization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Bugs/Bug%20Severity.md) 
+    - Sev - 1 - drop everything work it now
+    - Sev - 2 - ticket picked up current or next sprint
+          - If its part of a new launch it must be closed before it moves to production
+          - If part of an existing feature ticket is prioritized next sprint
+    - Sev-3 - worked whenever teams prioritize work
+
+
 
 **5.) Bug tickets are then worked in the Sprint** 
 
@@ -100,16 +110,4 @@ Steps
 - Engineering will move the ticket to the Backlog Ready to Work for Product to consider for prioritization in the future 
 
 **7.)Product includes this ticket back in their Step 4 and repeat**
-
-### Bug Severity as of 1/22/2023
-<img width="460" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/f33c5a44-3059-46d7-84e6-6e0ee27d8fc0">
-<img width="524" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/2b6a7035-0e82-43fd-b69f-81f636bf3e84">
-
-<img width="588" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/16b27cec-32ec-43d8-abbc-dbc017680dda">
-<img width="577" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/61e7c341-f1d4-4f60-a183-698b8867132c">
-
-
-
-
-
 
