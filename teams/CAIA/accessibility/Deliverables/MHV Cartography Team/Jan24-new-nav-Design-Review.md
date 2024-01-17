@@ -37,6 +37,20 @@ There are focus issues while tabbing using a keyboard:
 - **Medical records page, desktop:** you can't tab to the "Medical records" navigation link.
 - **All pages, desktop and mobile:** "Messages" or "Medications" links are coded as empty `<a>`. Keyboard users can't tab to them. And mouse/touchscreen users can activate them - they appear to be links, after all, and have focus indication on the mobile menu - but clicking on them won't do anything. This is confusing for those users - if something acts like a link, its expected to _behave_ like one. If "Messages" and "Medications" aren't actually links, they shouldn't be clickable.
 
+#### Navigation landmark labels
+All navigation landmarks - either `<nav>` or `role="navigation"` - need to have a unique identifier. There are a few of these on the page. You can use either `aria-label` or `aria-labelledby` to label each nav. 
+
+The VA.gov home page only has **one nav** - the main nav bar. But this prototype has a few - the main nav, seconary nav, and the "footer" ("My VA health benefits," "More resources and support," "In the Spotlight").
+
+Suggestions:
+- Main nav: `aria-label="Main"`
+- Secondary nav: `aria-label="My HealthEVet"`
+- Each "footer" section: you have two options here:
+   1. You can make them regular unordered lists (out of `<nav>`), like the existing page footer. OR
+   2. You can give the `<h2>` an ID, then use `aria-labelledby` to label the nav, like this:
+   `<h2 id="spotlight"><nav aria-labelledby="spotlight">...</nav>` 
+
+
 #### Focus indication
 **Desktop:** 
 Keyboard users receive focus when tabbing to non-empty navigation links (that's great!):
