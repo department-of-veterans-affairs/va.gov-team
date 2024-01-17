@@ -5,7 +5,7 @@
 
 Veterans currently lack the ability to easily check the status of their Travel Reimbursement claim once it has been submitted (and is processed through the BTSSS system). This leads to Veterans being unaware of actions or changes they need to make in order to get reimbursed, ultimately leading to them being less likely to be reimbursed. We propose providing Veterans with a way to see the status of their submitted travel claim directly on[ VA.gov](http://VA.gov) without having to go to the separate BTSS system. This study addresses the issue of where this information should live on[ VA.gov](http://VA.gov) and what it should be labeled. In order to do this, this study will gauge how users connect the travel reimbursement with other services provided by the VA via tree testing.
 
-[Link to product brief]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d89a2b78d57ddc15d8ea152e50d82eff6af9440/products/health-care/beneficiary-travel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d89a2b78d57ddc15d8ea152e50d82eff6af9440/products/health-care/beneficiary-travel)).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/1d89a2b78d57ddc15d8ea152e50d82eff6af9440/products/health-care/beneficiary-travel).
 
 
 ### **OCTO Priorities**
