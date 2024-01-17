@@ -52,7 +52,7 @@ We will conduct remote interviews with Zoom. The interviews will consist of a co
 We will partner with Perigean to recruit Veterans and we request a 30 min. kickoff meeting with Perigean to clarify recruiting needs. 
 
 Possible meeting times for a kick-off: 
-* Wednesday, Jan 17: 9-11:30 eastern (ideally) or anytime between 9a-5p eastern time
+* Thursday, Jan 18: 9-1 eastern (ideally) or 2-5 eastern
 * Let me know if you need more time options! 
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
