@@ -118,7 +118,17 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Functionality:
      - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
 
-
+#### [Enable eCheck-in for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+- Status: Mid April 2024 planned release
+- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) to use eCheck-in to verify their contact, emergency-contact, and next-of-kin information and let staff know that they have arrived.
+- Functionality:
+     - Veteran, during the check-in window and once arriving for their appointment, uses their mobile device to text "check in" to a VA code
+     - Veteran receives a customized link to the eCheck-in application
+     - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and date of birth
+     - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
+     - Veteran selects the appointment for which they want to check in and checks-in
+     - Once check-in is complete, the VA facility will be notified that the Veteran has checked in 
+- Applies to: In-person appointments only
 
 
 
