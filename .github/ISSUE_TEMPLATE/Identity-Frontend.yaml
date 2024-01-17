@@ -1,19 +1,17 @@
 name: Identity Frontend
 description: For writing frontend tickets
-title: ""
 labels: "Identity,Identity-Frontend"
-assignees: ""
 projects:
   - department-of-veterans-affairs/1137
 body:
+- type: textarea
+  attributes:
+    label: Issue Description
+    description: Describe the issue details
+    placeholder: Insert issue details here
 - type: markdown
   attributes:
     value: |
-      ## Issue Description
-
-      _Insert issue details here_
-
-
       ## Front end tasks
 
       - Ensure the page is styled according to design spec. 
