@@ -1,11 +1,5 @@
 # Facility Locator monitoring
 
-
-TODO: 2023-12-28: Cross check with modern datadog.
-* If old monitors still exist / are useful, add to Facilities dashboard
-* If not, update doc and deprecate old monitors
-* Add newly created monitors / Facilities dashboard to docs.
-
 ## Datadog Dashboard
  - [Facilities Alerting Dashboard including Facility-Locator API resources](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities)
 #### Grafana Dashboards
