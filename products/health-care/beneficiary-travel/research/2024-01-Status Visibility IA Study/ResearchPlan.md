@@ -120,9 +120,13 @@ LQ2: If you were to name that page on[ VA.gov](http://VA.gov) where you could se
 Terms:
 
 Travel Pay Status
+
 Travel Claim Status Updates
+
 Travel Claim Updates
+
 Travel Pay Claim Status
+
 Travel Reimbursement Status 
 
 
