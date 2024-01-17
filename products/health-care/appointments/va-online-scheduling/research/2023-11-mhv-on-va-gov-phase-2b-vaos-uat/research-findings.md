@@ -3,7 +3,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Appointments, Appointments FE**
 
-Draft Date: 01/10/2024
+Draft Date: 01/17/2024
 
 Peter Russo - peter.russo@adhocteam.us
 
@@ -30,11 +30,11 @@ This test helped us achieve two goals:
 
 These goals consider the different stages in life where Veterans may interact with the Appointments tool across their [health care experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
 
-**Starting up:**
+**Starting up**
 
 - Attending to health needs
 
-**Taking care of myself:**
+**Taking care of myself**
 
 - Recognizing and addressing mental health needs
 - Managing health issues
@@ -82,7 +82,7 @@ _**Participants at Oracle Health facilities will be able to easily navigate to M
 
 _Likely True, Not enough information_
 
-We only spoke to two participants who were registered at Oracle Health facilities, so we don't have enough information to draw a conclusion. However we saw many points where those participants were redirected to the Oracle Health portal from VA.gov and My HealthVet, so we believe this is likely true.
+We only spoke to two participants who were registered at Oracle Health facilities, so we don't have enough information to draw a conclusion. However, we saw many points where those participants were redirected to the Oracle Health portal from VA.gov and My HealthVet, so we believe this is likely true.
 
 _**The process of selecting a facility, clinic, or provider during scheduling will meet participant expectations.**_
 
@@ -129,13 +129,11 @@ No participant had any trouble finding and using the print button.
 Labels: `login`  
 Themes: [Login stories](../themes.md#login-stories)
 
-<abbr title="5 out of 12">About half</abbr> of our participants had some trouble logging in. The two that had no trouble logging in were both mobile users.
+<abbr title="9 out of 12">Most</abbr> participants reported that they generally find login to be frustrating. <abbr title="5 out of 12">About half</abbr> had some trouble logging in during their session. The two that had no trouble logging in were both mobile users.
 
-<abbr title="9 out of 12">Most</abbr> reported that they generally find login to be frustrating. Participants found 2-factor authentication to be the most frustrating issue. Logging in multiple times to different portals, and confusion around the multiple methods for logging also caused frustration.
+Participants found 2-factor authentication to be the most frustrating issue. Logging in multiple times to different portals, and confusion around the multiple methods for logging also caused frustration.
 
 > I had a problem with this the other day, where it asked me to log on again. That made no sense to me 'cause it already knew I was logged on, because up at the top right screen it says, "log out" and on the left side of the top screen it has my name, and my military service, and when I last accessed my account. So I have a go to My VA appointments, where it says 'Manage Appointments at...' And then it says, "Go to My Appointments" - where it asked me to log in again. And I never got to where I wanted to go. So you can see that the very next page is "Sign in to view/schedule/cancel your appointments online." This sucks. Why? Why do I have to sign in again? - P12
-
-Related finding: [Logging in was the biggest navigation challenge for participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md#logging-in-was-the-biggest-navigation-challenge-for-participants), Appointment list screenreader usability study, 05/2023
 
 ### Most participants were confused when navigating across multiple portals to find the appointments list
 
@@ -163,8 +161,11 @@ The 2 participants who were registered at Oracle Health facilities easily naviga
 ![Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL.](./images/MHV%20Manage%20appts%20screen.png)  
 _Page that moves users to VAOS. List of five facilities, where each is followed by a Go to your VA appointments button. These buttons all functionally navigate to the same URL._
 
-**VA.gov "Schedule and Manage Appointments" page**.  
-<abbr title="9 out of 12">Most participants</abbr> navigated to the Appointments tool through this page at some point during the session. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of being sent directly to the Appointments tool. 4 were frustrated that they had to return to this page and click another option after logging in to access the Appointments tool. One said that it was so frustrating they would have abandoned the process at this page if they were dealing with this outside the context of a study.
+**VA.gov "Schedule and Manage Appointments" page**. 
+
+![Schedule and manage appointments page with an alert to sign in](./images/static-landing-page-not-logged-in.png)
+
+<abbr title="9 out of 12">Most participants</abbr> navigated through this page at some point during the session. 5 complained about information overload. Another 5 said that it was frustrating to land on this page after logging in, instead of being sent directly to the Appointments tool. 4 were frustrated that they had to return to this page and click another option after logging in to access the Appointments tool. One said that it was so frustrating they would have abandoned the process at this page if they were dealing with this outside the context of a study.
 
 > If I have to scroll down the screen, I get angry. I'm like 'where the crap is this?!' One of the biggest things I do hate, and I'm gonna bring it up because I think it's relevant, is every time I click on 'learn about how to do appointments'I get sent to this page telling me all about it, everything about it, except what the f- do I click to get to it? That's the only thing I wanted. You're telling me when they started it, the history of it, and how Lincoln wants to serve Veterans. Great man! But I don't get what I need! - P6
 
@@ -267,39 +268,39 @@ Labels: `Scheduling`, `community care`, `alerts`
 
 ## Recommendations
 
-**[To be finalized with team - below are PR's initial thoughts]**
+All in all, the navigation features added to move Appointments under MHV on VA.gov worked well. These recommendations are focused on other issues and ideas that came up during the study that were not part of these changes.
 
+### Improve the "Schedule and manage appointments" page. 
 
-### Improve the Appointments static landing page. 
-Currently this page is trying to do too much. It is acting as public-facing information about appointments for SEO purposes, a help/FAQ page for appointments, and the entry point from help hubs. 
-* On the MHV on VA.gov portal, remove the link to the static landing page.
-* Consider redirecting Veterans directly to the Appointments home page after they log into the Schedule and Manage appointments page. 
-* Consider separating the general appointments help/FAQ information to its own or structure, similar to how My HealtheVet National Portal has a separate site for help content.
+This page is acting as public-facing information about appointments for SEO purposes, a help/FAQ page for appointments, and the entry point from help hubs. Consider separating the general appointments help/FAQ information, similar to how My HealtheVet National Portal has a separate site for help content. This will let Veterans seek out help content as they need it, instead of overwhelming them with information when they're trying to log in.
 
+On the MHV on VA.gov portal, the link to this page is confusing because it redirects users from one entry point to another entry point for the same tool. Remove the link to this page.
 
-### On the MHV National portal, remove the page that transitions users to VA.gov appointments.
-This page would be a good candidate to remove if all the functionality on this page handled when the user arrives at VA.gov. 
+Finally, it's confusing to return to this page after going through the login flow. Consider redirecting Veterans directly to the Appointments home page after they log into the Schedule and Manage appointments page. 
+
+### On the MHV National Portal, remove the page that transitions users to VA.gov appointments.
+
+!["Manage appointments at" page shown with test user data](./images/mhv-np-schedule-appts-at-page.png)
+
+The "Schedule appointments at" page is an additional decision point before Veterans are redirected to VA.gov. If all the functionality on this page is handled when the user arrives at VA.gov, remove this page. 
 
 ### Clarify pending appointments
-As we saw in this study, Veterans who have never requested an appointment will be confused when they see the Pending(0) link.
+As we saw in this and other studies, Veterans who have never requested an appointment will be confused when they see the Pending(0) link.
 * Consider hiding the link to the Pending page only if the Veteran currently has pending or canceled appointment requests. 
 * Consider treating pending appointments as a "notification" or "task" - a temporary situation the Veteran can track. Look at the check-in and travel pay work for ideas.
 
-### Start a working group to focus on the data issues. 
-A group who could surface type of care and provider name for all or most appointments would immediately increase the usability and trustworthiness of the list views. This group could also work with the VVC teams to fix empty details on video appointment pages.
+### Consider ways to surface medical history on past appointments
+Some participants went directly to their medical history when asked to find information about their past appointments. Along with the in progress AVS work, consider linking directly to Veterans medical history from the Past Appointments list page.
 
+### Start a working group to focus on the data issues. 
+A group who could surface type of care and provider name for all or most appointments would immediately increase the usability and trustworthiness of the list views. This group could also work with the VVC teams to fix video appointment pages that currently show no information about the appointment.
 
 ### Simplify the process of selecting a location
-On the facility selection page, consider showing a Veterans "current" facilities first. This could be any facility they've received care at in the past two years. 
-
-### Identify Veteran's hierarchy of needs when selecting a provider or location
-We know from previous studies that distance and availability are the two main goals when selecting where to receive care. Other factors
-
+On the facility selection page, consider showing a Veterans "current" facilities first. This could be any facility they've received care at in the past two years. Also, identify the facility where they have a Patient Aligned Care Team. 
 
 ## Next Steps
 
-- Follow up on [technical issues identified during sessions](#appendix-technical-issues-identified-during-sessions) with relevant owners/teams
-
+Follow up on [technical issues identified during sessions](#appendix-technical-issues-identified-during-sessions) with relevant owners/teams
 
 ## Appendix: Resources
 
@@ -320,9 +321,9 @@ We know from previous studies that distance and availability are the two main go
 
 | Issue | Team | Next steps |
 |-------|------|--------|
-| SM Inbox new msg notification was wrong - no new messages | MHV on VA.gov Portal | Reach out to SM Team |
-| Start scheduling link doesn't work for list empty state | Appointments FE | Filed issue [71713](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/71713) |
-| My VA doesn't show Oracle Health redirect | Authenticated Experience | Reach out to AE team |
+| On the Secure Messaging Inbox link the new message notification was wrong - some participants had no new messages | MHV on VA.gov Portal | Reach out to Secure Messaging Team |
+| In the appointment list empty states the start scheduling link is broken | Appointments FE | Filed issue [71713](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/71713) |
+| My VA doesn't show the Oracle Health redirect for some Cerner users | Authenticated Experience | Reach out to Authenticated Experience team |
 | Mobile: Print buttons doesn't work on iPhone | Appointments FE | Validate |
 | Mobile: appointments in list are shifting slightly on focus | Appointments FE | Validate |
 | Mobile: new pages are scrolling to the bottom/footer | Appointments FE | Validate |
@@ -330,9 +331,7 @@ We know from previous studies that distance and availability are the two main go
 
 ## Who we talked to 
 
-**Recruitment criteria**
-
-**Primary criteria**
+**Primary recruitment criteria**
 
 - All participants must have upcoming appointments at the time of the study.
 - All participants must be willing to log into their account and share information about their appointments with the research team.
