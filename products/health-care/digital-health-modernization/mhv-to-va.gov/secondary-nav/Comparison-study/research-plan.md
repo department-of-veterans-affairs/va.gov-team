@@ -75,16 +75,15 @@ We will keep track of participant demographic information (identified gender, ag
 - At least 2 who identify as LGBTQ
 
 ## Timeline
-- Submit for approval: 1/16/24
+- Submit for approval: 1/17/24
 - Pilot #1: Haven't rescheduled yet, but will be during the week of 1/16-1/19
-- Kick-off: Wednesday 1/17
-- Conduct interviews: 1/23 or 1/24 - 1/31
+- Kick-off: Thursday, Jan. 18 if possible
+- Conduct interviews: 1/24 - 1/31
 - Synthesize and analysis week 2/1-2/8
 
 ### Research sessions
 **Please schedule no more than 3 interviews per day.** 
 Planned dates of research (all in eastern time): 
-* 1/23: 8a-12p, 1:30-6p
 * 1/24: 8a-6p
 * 1/25: 8a-6p
 * 1/26: 8a-3p
