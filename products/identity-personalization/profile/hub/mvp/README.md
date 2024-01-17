@@ -83,8 +83,8 @@ To solve for these problems, we are building a profile hub page, which resolves 
 /
 |KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 1 week post-launch to 100% [12/19-12/26/2023]| 2 weeks post-launch to 100% [12/27/2023-1/2/2024]| 3 weeks post-launch to 100% [1/3-1/9/2024]| 4 weeks post-launch to 100% [1/10-1/16/2024]|
 |----------|:-:|:-:|:-:|:-:|:-:|
-|dd214|167(ranked 3rd)|16 (ranked 13th)|16 (ranked 13th)|19 (ranked 5th)|||
-|direct deposit|188 (ranked 1st)|27(ranked 4th)|31 (ranked 2nd)|14(ranked 12th)|||
+|dd214|167(ranked 3rd)|16 (ranked 13th)|16 (ranked 13th)|19 (ranked 5th)|16 (ranked 16th)|
+|direct deposit|188 (ranked 1st)|27(ranked 4th)|31 (ranked 2nd)|14(ranked 12th)|31 (ranked 3rd)|
 
 ## Analytics 
 Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
