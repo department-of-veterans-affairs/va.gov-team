@@ -39,13 +39,11 @@ _When does IA review need to be completed by? When is Midpoint Review?_
 Check all that apply.
 
 - [ ] Create process ticket draft
-- [ ] Watch Design Intent
+- [ ] Watch Design Intent, if applicable
 - [ ] Determine IA deliverables
-- [ ] Collaborate with CAIA
-- [ ] Ask questions to product team
-- [ ] Create IA Spec
-- [ ] Mikki reviews IA Spec
-- [ ] Share IA Spec with product team
+- [ ] Confirm staged rollout timeline, if applicable
+- [ ] Attend Midpoint
+- [ ] Share final IA Spec with product team
 - [ ] Update Site Map and VA.gov Mega IA sheet
 
 
