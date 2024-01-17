@@ -4,7 +4,8 @@
    - Tom - Health and Benefits
    - Tom - Release approval and RC testing (for the rest of 2023, 2024 not yet determined)
    - Rachael - Overarching QA person  (design system, API, automation, floating to help other areas)
-   - Adam - handle Releasing once Jennifer transitions off
+   - Adam - Release Management
+   - TBD - DevOps - currently hiring
  - QA capacity for teams explicitly tied to their QA agent, so teams should plan for this
     - If extra QA is needed Team PMs to reach out to QA and Release PM to discuss
     - If QA agent is out for a day or two likely no coverage, if longer then the specific teams need to discuss coverage options with QA  
