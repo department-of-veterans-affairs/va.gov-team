@@ -33,5 +33,3 @@ VA Facilities that use Oracle Health EHR software (instead of Vista) would like 
 ### MSA Workflow
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1b973b57-1689-4c6c-a7da-3a6f01f157c3)
 
-
-
