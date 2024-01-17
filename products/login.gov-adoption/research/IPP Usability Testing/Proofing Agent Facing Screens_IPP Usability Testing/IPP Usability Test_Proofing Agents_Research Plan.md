@@ -137,8 +137,11 @@ Determined by MHV Coordinator availability
 ## Team Roles	
 
 Principal Investigator - Sophia Philip (Design Lead) | sophia@themostudio.com | sophia.philip@va.gov
+
 Researcher - Sofia Kirkman (UX Designer) | sofia@themostudio.com | sofia.kirkman@va.gov
+
 Researcher - Carl Dickerson(UX Designer) | carl@themostudio.com | carl.dickerson@va.gov
+
 Researcher - Josie Griffith (UX Designer) | Josie@themostudio.com
 
 
@@ -149,22 +152,26 @@ Susan Haidary
 
 
 ## Project point of contact:	
-Sophia Philip
-sophia@themostudio.com
-sophia.philip@va.gov
+
+Sophia Philip | sophia@themostudio.com | sophia.philip@va.gov
 
 ## Participant(s) for pilot test
 TBD
 
 ## Note-takers 
+
 Anu Das | anu@themostudio.com
+
 Lauren Morris | lauren@themostudio.com
 
 
-Observers
+## Observers
 Anu Das|Anu@themostudio.com 
+
 Lauren Morris | lauren@themostudio.com
+
 Mateo Salinas-Clarke | mateo@themostudio.com
+
 Rahul Vyas | rahul@themostudio.com
 
 
