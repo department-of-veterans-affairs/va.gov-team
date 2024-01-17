@@ -88,8 +88,8 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 ## Phase 2 (Assistive tech) ONLY below...
 
 ### Research materials
-- [Link to conversation guide TBD]()
-- [Link to prototype TBD]()
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase2-AT/conversation-guide.md)
+- [Link to prototype](https://cdpn.io/pen/debug/gOEPoyo/43fa8051200887cb97f5b154ed54c8a3)
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
@@ -157,16 +157,15 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **Jan 18** 12 - 5 pm ET
-- **Jan 19** 12 - 5 pm ET
+- **Jan 18** 12 - 2 pm ET
+- **Jan 19** 12 - 3 pm and 3:30 - 5 pm ET
 
 Please invite Cindy (cindy.merrill@adhocteam.us) and Amanda (amanda.klausmeier@va.gov) to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-We will schedule 1-2 **pilot tests**:
-- Pilot 1: **Jan 23 at TIME TBD ET** with TBD (tbd@adhocteam.us)
-- Pilot 2: **Jan 25 at TIME TBD ET** with TBD (tbd@adhocteam.us)
+We will schedule a **pilot test (or two)**:
+- **Jan 23, 24, or 25 at TIME TBD ET** with TBD (tbd@company.com)
 
 ### Research sessions
 Planned dates of research: **Jan 29 - Feb 7, 2024**
@@ -174,7 +173,7 @@ Planned dates of research: **Jan 29 - Feb 7, 2024**
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
 ### Length of sessions
-* Session length: **90 minutes** (assistive tech users)
+* Session length: **90 minutes** 
 * Buffer time between sessions: 1 hour
 * Maximum sessions per day: 3
 
@@ -199,7 +198,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill 
 - Participant(s) for pilot test: TBD
-- Accessibility specialist: Laura Flannery or someone from CAIA *(NEED TO CONFIRM)*	
+- Accessibility specialist: Laura Flannery or someone from CAIA 	
 - **Note-takers: Perigean (in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
 
