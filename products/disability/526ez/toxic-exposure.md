@@ -131,23 +131,24 @@ The [condition name] (for example, "Toxic exposure"), is repeated as a header (p
 #### Current approach
 
 Have location pages follow the same pattern as hazards.
-So, the user checks which locations apply to them, and we provide the opportunity to give a single time frame per country.
-Why:
-For our midpoint solution, providing only a date range does not add value to the VSR and we haven't tested any approximation of that screen design (two tasks, lots of content, ambiguity on providing date).
-Full-blown solution: While we expect this solution to add many screens, we think they are likely to be the least confusing overall, and we do have test data that backs this up. We want to amp up the optional message to help people who have a complex service history get through these more easily. Metrics would give us a clear picture on whether we need to walk it back, which could help with discussions with all of our stakeholders. Clearest value to VSRs.
+So, the user checks which locations apply to them, and we provide the opportunity to give a single time frame per location.
 
 <img width="1108" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/4aa47a6b-ce4d-4ebb-9014-26a468b25bba">
+
+**Note, we may need to revisit this decision, since it is difficult to implement technically**
 
 
 #### Rationale
 
-Our understanding is that 99% of time, the service records are discoverable by looking up the service history of the veteran. However, this time period helps identify one of the many records they may have and help reduce the time it may take a VSR to verify the service connection. There is about 1% chance that the record does not come up and needs more investigation. This time period is expected to help direct that investigation.
+Our understanding is that 99% of time, the service records are discoverable by looking up the service history of the veteran. However, there is about 1% chance that the record does not come up and needs more investigation. This time period helps the VSR identify one of the many records they may have and help reduce the time it may take to verify the service connection. 
+
+While we expect this solution to add many screens, we think they are likely to be the least confusing overall, and we do have test data that backs this up. We want to amp up the optional message to help people who have a complex service history get through these more easily. Metrics would give us a clear picture on whether we need to walk it back, which could help with discussions with all of our stakeholders.
 
 #### Other Approaches considered
 
 <img width="532" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/afc742b0-9ffd-42da-8417-5e1d6c7c4e2b">
 
--Multiple locations selected, one screen for dates entry 
+-Multiple locations selected, one screen for dates entry. We haven't tested any approximation of this screen design (two tasks, lots of content, ambiguity on providing date).
 
 
 
@@ -159,30 +160,46 @@ Our understanding is that 99% of time, the service records are discoverable by l
 
 <img width="166" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b396436f-e8c5-471e-a047-12aabbda3417">
 
- -All locations and dates entered on one screen 
+ -All locations and dates entered on one screen. It's a long list and appears cumbersome, especially on mobile
 
 ### Content updates from CAIA
 
 Referred to [this feedback document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox) to implement copy changes for MVP 
 
-#### Changed 
-**This**: "Are any of your new conditions related to toxic exposure during your military service? Check any that are related." <br>
-**To**: Are any of your conditions related to toxic exposure during your military service? Check any that are related.<br>
+#### Instructional text to check conditions 
+**From**: "Are any of your new conditions related to toxic exposure during your military service? Check any that apply." <br>
+**To**: "Are any of your conditions related to toxic exposure during your military service? Check any that are related."<br>
 **Context**: 
 CAIA wants to avoid using "apply" in this way across va.gov because we often talk about applying for benefits, so just want to limit using the word "apply" to that use case.
 <br>
 
-**Per sync with caia** we suggest leaving the "Not sure" option in the list. Recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
+#### "Not sure" option in checkbox lists
+**From**: "Not sure" 
+**To**: "I'm not sure" throughout and making this the very last option of the lists.
 <br>
 
 ### Summary Page
 The design system doesn't currently have a pattern for showing a summary of information within a form flow apart from the summary of all the information a user has entered in the form, which shows right before form submission.
-<br>
-We want to avoid tables for accessibility reasons.  
-<br>
-After discussing with Beth Potts, we think we should try presenting this information as a list with these modifications: 
-<br>
-- Keep the bullets. Remove the colon after the locations/types of toxic exposures <br>
-- bold the locations &amp; types of toxic exposures<br>
-- We're recommending a change from "Not sure" in this section to "I'm not sure" (which is more conversational), so the instances of "not sure" and "not sure of dates" on this screen would become "I'm not sure" and "I'm not sure of the dates," respectively.
-…
+
+#### Current approach
+![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/2beb90d9-35b7-4840-9ab1-6f01d8a9893c)
+
+The HTML approach is to use headings for each location, like so:
+`
+<h4>Service Dates on or after August 2, 1990</h4>
+<h5>Afghanistan</h5>
+<p>September 1992 - September 1993</p>
+<h5>Iraq</h5>
+<p>1994-> 1995</p>
+<h5>Saudi Arabia</h5>
+<p>I'm not sure of the dates.</p>
+`
+>#### Other approaches considered
+![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/c7d0b099-532f-467e-ae58-875d8b4402a5)
+
+With the HTML, we also considered using `<ul>` and `<li>` elements, potentially specifying "location:" and "dates served:" with text.
+#### Rationale
+
+Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#toxic-exposure-summary-dont-use-the-table-pattern), we want to avoid tables since [The VADS's table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.  
+
+For the HTML, headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
