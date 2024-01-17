@@ -82,8 +82,8 @@ Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a re
 - [x] Tab order
 - [x] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
 - [x] Keyboard navigation
-- [ ] Windows, Chrome, JAWS
-- [ ] iPhone, iOS Safari, VoiceOver
+- [x] Windows, Chrome, JAWS
+- [x] iPhone, iOS Safari, VoiceOver
 
 ### Results and recommendations
 
@@ -102,6 +102,31 @@ Keyboard users receive focus indicators when tabbing (great!):
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/d495aabf-46ef-423e-bc96-830ff39368f2)
 
 But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
+
+#### Navigation landmark labels
+***Same as Prototype A:*** All navigation landmarks - either <nav> or role="navigation" - need to have a unique identifier. There are a few of these on the page. You can use either aria-label or aria-labelledby to label each nav.
+
+Suggestions:
+
+Main nav: aria-label="Main"
+Secondary nav: aria-label="My HealthEVet" 
+
+#### Screen reader issues
+**Two "My HealtheVet links in a row:** If a screen reader user tabs between the "MyHealtheVet" link in the main nav, and the first list item in the secondary nav, they'll hear "link, MyHealtheVet" twice in a row:
+
+
+https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/f7b899cb-0053-4700-a139-0ad8c176e35f
+
+
+These two links go to the same place - the MyHealtheVet index page - but might be confusing in context. Perhaps the link in the main nav should be deactivated once the secondary nav is active?
+
+***Same as Prototype A:*** The navigation links are rendering in a way that indicates that they have submenus and can be expanded:
+
+`<a href="/appointments.html" aria-expanded="false" aria-controls="vetnav-about-va" aria-haspopup="true" class="vetnav-level1" data-e2e-id="about-va-1"><i class="fa fa-calendar" aria-hidden="true"></i>Appointments</a>`
+
+A screen reader user will hear `Menu pop up collapsed, link, [link text]` when they get to this link, and expect that there are submenu items.
+
+Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a regular link, without an indication of submenus: `Link, [link text]`.
 
 
 </details>
@@ -133,4 +158,8 @@ Skipping heading ranks can be confusing and should be avoided where possible. In
 **Details links:** The "Details" links aren't linking to anything, so keyboard users can't tab to them. Either link to a dummy page, or get rid of the `<a>`.
 
 If you're adding dummy links, each "Details" link needs a unique accessible name. You can use `aria-label` or `aria-describedby` to achieve this.
+
+
+**Tables:** The tables used on this page aren't accessible. They need table headings and a caption. And VA recommends that tables are used sparingly. Please follow the guidance on the [table component page](https://design.va.gov/components/table) of the VADS to create these tables (or choose another pattern if necessary).
+
 </details>
