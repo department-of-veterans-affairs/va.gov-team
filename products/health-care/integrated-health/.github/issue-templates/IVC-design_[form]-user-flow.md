@@ -16,3 +16,9 @@ Using discovery from [%%Form Number%% User Story](link to user story ticket), la
 - [ ] Design Review
 - [ ] Accessibilty review
 - [ ] File for design intent
+
+### **Assumptions**
+- Placeholder
+
+- ### **Unknowns**
+- Placeholder
