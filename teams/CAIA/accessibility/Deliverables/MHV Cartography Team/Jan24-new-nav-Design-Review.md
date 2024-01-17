@@ -17,7 +17,7 @@ Review of two versions of a new secondary nav, coded in CodePen, that will be us
  
 
 ## Prototype A
-- [ ] Run axe checks on every page or unique state (required)
+- [x] Run axe checks on every page or unique state (required)
 - [x] Color contrast checks
 - [x] Color blindness checks
 - [x] Tab order
