@@ -1,5 +1,5 @@
 ---
-name: 1. [Design] - %%Form Number%% Source of Truth
+name: 0. [Design] - %%Form Number%% Source of Truth
 about: Before Design Intent
 title: ''
 labels: design
