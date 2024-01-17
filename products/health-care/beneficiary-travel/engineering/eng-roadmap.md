@@ -2,15 +2,19 @@
 
 ```mermaid
 gantt
+    %% A week is 5 days
+    %% A sprint is 10 days
+
     title Engineering roadmap
     dateFormat YYYY-MM-DD
-    section Initial Endpoints (Backend)
-        A task          :a1, 2014-01-01, 30d
-        Another task    :after a1, 20d
-%% If at all possible, let's try to do status endpoints in vertical slices?
-    section Status Endpoints (Backend)
-        Task in Another :2014-01-12, 12d
-        another task    :24d
+    excludes weekends
+    section Backend Integration
+        /ping    :ping, 2024-02-12, 10d
+        /auth    :auth, 2024-02-12, 10d
+        /status  :sts-be, after auth, 10d
+    section Frontend Integration
+        Discovery       :disc, 2024-01-15, 10d
+        Status (STG)    :sts-fe, 2024-02-19, 20d
 ```
 
 # WORK IN PROGRESS
