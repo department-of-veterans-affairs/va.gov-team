@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated: January 10, 2024** updated metrics
+**Last Updated: January 17, 2024** updated metrics
 
 ### Communications
 
@@ -81,7 +81,7 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 
-each cell in the chart is populated in the same format: searches (rank) 
+Each cell in the chart is populated in the same format: searches (rank) 
 |KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 1 week post-launch to 100% [12/19-12/26/2023]| 2 weeks post-launch to 100% [12/27/2023-1/2/2024]| 3 weeks post-launch to 100% [1/3-1/9/2024]| 4 weeks post-launch to 100% [1/10-1/16/2024]| 12/19-1/16|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
 |dd214|167(ranked 3rd)|16 (ranked 13th)|16 (ranked 13th)|19 (ranked 5th)|16 (ranked 16th)|76 (ranked 12th)|
