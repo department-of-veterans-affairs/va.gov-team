@@ -1,164 +1,161 @@
-# Research Plan for Authenticated Experience, Authenticated Menu, January 2024
+# Conversation Guide for Authenticated Experience, Authenticated Menu, January 2024
 
-## Background
+## Moderator logistics
+- [ ] Update participants name in prototype
+- [ ] Post in #feedback-backchannel 
+- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] Check your [screensharing setup] and share permissions for participants.
 
-VA.gov is piloting a new design for a standard header later this year, which includes a significant change to the placement of the authenticated menu on mobile: instead of the authenticated menu labeled with the user's name appearing in the upper-right corner of the screen, it will now be nested under a general “Menu” button which reveals the complete site navigation. 
+## Intro - 3 minutes
 
-This new design coincides with continued expansion work our team is planning for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We want to explore how we can further increase engagement and improve Veteran’s access to their most important tasks.
+Thanks for joining us today! My name is Liz and [NOTETAKER NAME] is taking notes.
+I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-- [Standardized header/footer product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/README.md)
-- [Authenticated menu product brief](%5B%EF%BF%BC%5D%28https%3A//github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/README.md%29)
+Today we're going to talk about navigating a VA website when you’re signed in. Before we start, I have a few things that I want to go over with you:
 
-### OCTO Priorities 
+- **This entire session should take about 45 minutes/60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+  - If no: Use Slack to kindly ask the observers to leave the Zoom.
+  - If yes: Admit observers.
+  - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+  - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
+  - Knowing that, are you comfortable if I record my screen and audio as we talk today?
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+  - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
+  - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
+*Start recording.*
 
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
-## Research Goals	
-1. We want to learn how the new design helps Veterans find their authenticated menu options, especially on mobile.
-2. We want to learn about Veteran expectations for an authenticated menu.
 
-### Outcome
-The research applies at any stage from Starting Up through Aging, since it investigates global parts of the VA.gov site that provide access to the whole spectrum of VA.gov benefits and tools.
+## Warm-up Questions - 5 minutes
 
-### Research questions
-1. Does the new menu design introduce any usability hurdles, particularly on mobile?
-2. What do Veterans expect to see under a logged-in user menu?
-3. Does the new link we're proposing for the authenticated menu make sense to Veterans?
-4. How we can differentiate our logged-in user as a personalized menu on mobile?
+Before we look at anything, I’d like to learn a little more about your experience with VA.
 
-### Hypothesis
-1. The authenticated menu will be easy for people to find when their name is in the header.
-2. People will initially struggle to find their authenticated menu when it’s collapsed under, but will easily understand what it is once they see their name.
-3. In the prototype, people will understand what the links in their authenticated menu point to.
-4. When describing expectations for their VA.gov user menu, people will:
-   - consistently mention profile. 
-   - mention a variety of other links that are highly specific to the person’s experience with VA. 
+1. According to my notes, you have [benefits from VA]. Is that correct?
+2. Do you ever log into any VA websites? 
+   - *If yes*: Which website? Tell me about how you use that once you’re logged in.
+   - *If no*:  What websites do you sign into? How do you use those websites?
+   - *Moderator goal:* gather background info that might be helpful later in the session
 
-## Methodology	
-We’ll conduct a remote usability test to evaluate the effectiveness of the proposed standardized header design.
+## Task 1: Navigate to view disability rating - 5 minutes
 
-### Location
-The sessions will be conducted remotely via Zoom.
+Now I’d like to get your feedback on a prototype and have you share your screen. Do you know how to share your screen in zoom?
 
-### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide.md)
-- [Link to prototype](url goes here)
+*Guide participant through screen sharing if needed*
 
-## Recruitment	
+Great, I can see your screen. Next, I’ll have you pull up the prototype. Would you prefer I send you the link via Zoom chat or tell you the URL verbally so you can enter it in? 
 
-### Recruitment approach
-We’d like use Perigean to recruit 12 Veterans for a total of 8 completed sessions.
+TK: Prototype link
+*Guide participant to prototype. Prototype will start on the unauthenticated version of the life insurance page.*
 
-### Recruitment criteria
-Recruit 12 Veterans for a total of 8 completed sessions.
+Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  As a heads up, the prototype starts on a random page of VA.gov, but we don’t need you to give us feedback on this main portion of this page specifically.
 
-#### All participants 
-* Must be Veterans
-* Must currently receive at least 1 benefit or service from VA
-* Have a working microphone on their device
-* Have Zoom downloaded to their device prior to the session
+Instead, first, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
 
-#### Some participants
+***Goal: get participant to View Disability Rating page***
 
-##### Experience with VA Benefits and services
-- 6 participants must NOT currently receive health care through VA (if this is challenging, we can reduce to 4, but let’s shoot for 6)
+*Once participant has found it, ask:*
+- How was that experience for you?
+- How did it line up with what you expected?
 
-##### Demographics
-* 4 participants should be over 55
-* 6 participants should identify as other than Caucasian
-* 6 participants should identify as a gender other than male
-* 4 participants should have no college degree
-* No more than 4 participants should have a Master’s degree or higher
+### Things to watch for:
 
-##### Accessibility and inclusion
-* 4 participants should identify as having a cognitive impairment
-* 8 participants should be able to join the session from a mobile device
-* 4 participants should be able to join the session from a desktop device
-* 3 participants should require a screenreader to use their device: 
-  * At least 2 need to be on a mobile device (e.g. VoiceOver on iPhone or TalkBack on Android)
+- Did the participant expect to have to log in?
+- How easily does the participant understand how to log in?
+- What path did the participant take to get to the disability rating page? Auth menu, main menu, search, etc?
+- Were any usability hurdles encountered?
 
-#### Screener questions
-1. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? Any kind of smart phone will work, as long as it connects to the internet. (Answer should be yes to satisfy criteria for 8 mobile users)
+## Task 2: Navigate to letters - 3 minutes
 
-> Response options: yes or no
+Next, I’d like for you to imagine you need to document that shows a summary of the benefits you get from VA.  Show me how you’d find that kind of document using this prototype.
 
-2. What VA benefits or services do you currently receive?
+***Goal: get participant to Letters page***
 
->  Response options, checkbox list with text box: 
-> - Health care
-> - Payments from VA (for example, disability compensation or pension)
-> - Education benefits
-> - Other (please list)
+*Once participant has found it, ask:*
+- How was that experience for you?
+- How did it line up with what you expected?
 
-3. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+### Things to watch for:
 
-> Response options: yes or no
-> (Answering yes would qualify the participant to meet criteria for cognitive impairments)
+- What path did the participant take to get to the letters page? Auth menu, main menu, search, etc?
+- If they used the auth menu previously, how easily were they able to get back to it?
+- Were any usability hurdles encountered?
 
-4. Do you need to use screen reader technology to use your phone or computer such as VoiceOver on an iPhone, TalkBack on an Android, or JAWS? **Note:** We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+## Task 3: Navigate to profile - 3 minutes
 
-> Response options: yes or no
+As a last task, I’d like for you to show me where you would go to update your phone number on file with VA.
 
-(Proceed to question 4a if yes)
+***Goal: get participant to Profile hub page. There is not an actual page for updating phone numbers, but the contact information link will click to a dummy page.***
 
-4a.  We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+*Once participant has landed on dummy page*
+Ok, thank you! We didn’t set this page up but it was helpful to see how you’d go about getting here.
 
-> Response options:  Beginner, Intermediate, Advanced, Expert
+- How was that experience for you?
+- How did it line up with what you expected?
 
-(This answer won’t influence whether or not they qualify, but will be helpful to have on the tracker and for scheduling)
+### Things to watch for:
 
-4b. Are you willing to join the Zoom session using this assistive technology? (Answer should be yes to satisfy criteria for screen reader)
+- What path did the participant take to get to the profile page? Auth menu, main menu, search, etc?
+- If they used the auth menu previously, how easily were they able to get back to it?
+- Were any usability hurdles encountered?
 
-> Response options: yes or no
-	
-4c. Please tell us what kind of screen reader you use, and if you’ll join the session from a mobile device or computer:
+## Task 4 (as needed) : Review authenticated menu - 3 minutes
+**Note: this task is only for participants who didn’t use their auth menu at all during the session**
+I’d like for you to check out one part of the prototype we haven’t looked at yet.
+*On desktop:* Did you notice your name in the heading of the website?
+*One mobile:* Can you click on the menu button please? Had you noticed your name here before?
 
-> Response option: text box
+- What do you think will happen if you click on it?
+- Go ahead and click on it. What are your thoughts about what happened when you clicked?
 
-## Timeline
 
-### Prepare
-**We would like to request a 15 minute kick-off call with Perigean before recruiting begins.**
+## Post-Task Interview - 10 minutes
 
-Availability for a kick-off call, in Eastern times: 
-* Jan 18: 10:15-12, 1-3:30pm
-* Jan 19: 9:45-10:30am, 2-3:30pm
+Thank you so much for all that feedback! This has been really helpful. I want to get your thoughts on a few more things before we wrap up. 
 
-**We’re collaborating with the Sitewide team on the prototype.** 
-The majority of the prototype will be complete by January 17, but refinements will continue until our pilot session.
+### For non-sighted participants
+*Authenticated menu should be open*, and ask the questions below.
 
-* Pilot participant email: TBD
-* Date and time of pilot session: Targeting 1/24
+### For sighted participants
+I’m going to have you stop screen sharing now, and I’ll share my screen. I created a quick visual aid for this next part of our conversation. 
+*Open Mural board. Link: [Authenticated Menu Co-Design](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704919248748/7c3f93534f193882990dbdb152b902b2755dc176?sender=ub868d471cfdb1c56cc0b4512)*
 
-### Research sessions
-* Planned dates of research: Jan 29-Feb 1
+Ok, here’s a rough version of the menu we just looked at. I thought this would be interesting to look at with you, so if there are changes you wish you could make, we can make them happen.
 
-### Length of sessions
-* Session length: 30 minutes for non-screen reader participants, 45 minutes for screen reader participants
-* Buffer time between sessions: 45 minutes
-* Maximum Sessions per day: 4
+### Questions for all participants
+1. How do the options in this menu line up with what you expected?
+2. Where do you think each link goes? What makes you think so?
+3. How would you order these links? Why?
+4. What would you like to *change or add*? Why?
+5. Anything else you’d like me to know about what you’d want from a menu like this?
+6. *Note to moderator, may need to offer context if My VA has not been reviewed or discussed by this point:* I’m curious, how would you describe the difference between My VA and Profile to another Veterans
 
-### Availability
 
-| Date   | Time (Eastern)              | Screenreader session notes                |
-|--------|-----------------------------|-------------------------------------------|
-| Jan 29 | 10am-5:30pm, and 7:30pm-9pm | Screenreaders between 10-5pm, support by  |
-| Jan 30 | 7-7:45am, 10am-5pm          | Screenreader sessions                     |
-| Feb 1  | 10am-5:30pm                 |                                           |
-|        |                             |                                           |
+Great, thank you for going through that with me. I’ll stop screen sharing now.
+1. Overall, about everything you've seen in this session...What worked *well* for you?
+2. What was *unclear or didn't work well* for you?
+3. Is there anything else that we haven't talked about that you think I should know?
 
-	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
-- Research guide writing and task development: Liz Lantz
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Liz Lantz
-- Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
-- Note-takers: Team
-- Observers: will sign up for sessions via Slack
+## Consent to use video clips
+
+I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+- If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+
+
+## Thank-You and Closing - 1 minute
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, and enjoy the rest of your day!
+## Emergency Exit
+
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
