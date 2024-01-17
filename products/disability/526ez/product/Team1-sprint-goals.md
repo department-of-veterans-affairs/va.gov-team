@@ -1,5 +1,33 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 23
+Period - 01/17/2024 - 01/30/2024
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Launch 25% and next based on the progress 
+      - Benefits Claims Service 
+        - [ ] Launch 25% and next based on the progress 
+      - Submit endpoint
+        - [ ] Discovery on submit migration options for sync and async response for established claims
+      - PCIU 
+        - [ ] Start removing EVSS calls from 526 for PCIU
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Front-end - continue build
+           - [ ] Finalize design for date entries for 15 B, C, and D
+       - Audit for 526ez for all paper to digital form changes - Start discovery
+- **Research**
+  - Shadow Research
+    - [ ] Look at what's  next from the research findings
+- **Misc**
+  - Migrate sketch files to Figma 
+    
+- **Stretch Goals**
+
+
 ## Sprint 22
 Period - 01/03/2024 - 01/16/2024
 ### Sprint goals 
