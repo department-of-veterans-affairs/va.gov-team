@@ -20,5 +20,5 @@ Using discovery from [%%Form Number%% User Story](link to user story ticket), la
 ### **Assumptions**
 - Placeholder
 
-- ### **Unknowns**
+### **Unknowns**
 - Placeholder
