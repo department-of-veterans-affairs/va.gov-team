@@ -7,7 +7,7 @@ Open for comment
 
 ## Context
 
-Currently, the IVC forms team does not have an integration point for our pending forms. Our understanding is that PEGA will serve as a document management system for IVC indefinitely, and that some forms will be transmitted to VES in addition to PEGA. PEGA is expected to be prepared to accept form 10-10d and form 10-7959c in February of 2024. VES is not expected to be available to our team until workflows are built in 2025.
+Currently, the IVC forms team does not have an integration point for our pending forms. Our understanding is that PEGA will serve as a document management system for IVC indefinitely, and that some forms will be transmitted to VES in addition to PEGA. PEGA is expected to be prepared to accept form 10-10d and form 10-7959c in January of 2024. VES is not expected to be available to our team until workflows are built in 2025.
 
 ### What options were considered?
 
