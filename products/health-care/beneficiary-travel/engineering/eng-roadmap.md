@@ -7,8 +7,7 @@
     "fontFamily": "monospace",
     "gantt": {
         "barHeight": 25,
-        "leftPadding": 150,
-        "weekday": "monday"
+        "leftPadding": 150
     }
   }
 }%%
