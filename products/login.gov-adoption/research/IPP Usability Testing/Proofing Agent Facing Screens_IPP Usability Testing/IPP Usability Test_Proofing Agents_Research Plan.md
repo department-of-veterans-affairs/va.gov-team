@@ -1,7 +1,7 @@
 # Research Plan for In Person Proofing Application
-# Secure Sign In Transition Team
-# January 2024
-# Usability Test_Proofing Agents
+## Secure Sign In Transition Team
+## January 2024
+## Usability Test_Proofing Agents
 
 ## Background
 
