@@ -108,3 +108,85 @@ We presented participants with 11 claim status terms Veterans could feasibly enc
 ----
 
 ## Usability testing
+
+### Summary
+Participants were asked to imagine they’d just received an email reminder to file for travel reimbursement and show us how they’d file their claim. Overall, participants easily navigated to and completed each section of the travel reimbursement, mileage-only claim user flow. Most challenges appeared after filing when participants attempted to learn more about the claim status or to file another claim.
+
+1. Starting the claim - Receiving an email to start a task on VA.gov was a familiar pattern for Veterans. 8/10 participants easily navigated from the email to the start of the travel reimbursement flow on VA.gov. 2/10 participants said they’d select the link to the BTSSS portal rather than Appointments on VA.gov.
+
+2. Filing the claim - The simplified, mileage-only process – also used in eCheck-in – proved easy for participants to complete. Regardless of which path Veterans chose (i.e., navigating from the task card or the past appointments page), 10/10 participants completed the steps to file their claim.
+
+3. Learning more about the claim status or filing another claim - Most challenges appeared after filing, e.g., when participants were asked how to learn more about their claim status or to return to the past appointment list to file another claim. Veterans understood the path, once prompted, but did not generally choose to return to the past appointments list or an appointment detail page on their own and felt the experience lacked a direct link to check the status of their claim.
+
+### Starting the claim 
+Most participants easily navigated to the appointment list from the travel reimbursement email reminder.
+
+#### Email & sign in
+- Participants found the information in the email easy to understand and said it was aligned with what they'd expect from an email from VA, although 1 participant mentioned they expected the email to take them directly to BTSSS, and 1 other participant said they’d prefer a text instead of an email
+
+> "Reminder and claim. Ok yeah. I mean this is cool, too, because I don't think I've ever gotten a reminder to file the travel reimbursement." - P4
+
+>  "Since this is for a travel claim, shouldn't the link be straight to the BTSSS?" - P9
+
+- 7/10 participants selected the “sign in to VA.gov to start your claim” link, while 2 participants said they would go directly to the link leading to the BTSSS portal.
+  - And, 1 participant selected the “past appointments link” because they wanted to review their appointments first.
+
+> "It's really great. It has a link to start the claim so I don't have to scroll through anything. I would click that link to start the claim.” - P1
+
+- Participants went through a mock sign in, but spoke aloud about some of their frustrations around the actual VA.gov sign in process
+
+### Filing the claim
+Participants easily understood how to file their mileage-only travel reimbursement claim after arriving on the appointment list from the reminder email. 
+
+#### Appointment list
+- A few participants expected to arrive elsewhere (e.g., a specific claim, such as on the appointment detail page or to VA.gov to find the BTSSS portal entry, but noted they liked this option better.
+> "This is good if I click on the VA and it takes me straight to the travel reimbursement like it shows here, that's awesome. [Normally] I would have to hunt for BTSSS and log in to there to see anything. But if y'all are doing it this way, this is the awesome way to do it." - P9
+
+- All Veterans noticed the task card, number of days left to file, and action link
+
+- 8/9 participants who arrived on the appointment list chose to start their claim by selecting the “file for travel reimbursement” link in the task card.
+  - 1 participant noticed the action link, but decided to file by navigating to their past appointments.
+
+- Participants did not want the option to close the task card if it meant the information would go away.
+  - 1 participant thought closing the card would cancel their reimbursement opportunity.
+
+> “It would go away, and I would be regretful, because I would have to be searching for it. It's not the best, because you might accidentally exit out quickly if the words don't catch your eye” - P3
+
+#### Intro page
+- Participants said they found the intro page clear and understood the claim options and steps to file, though we observed a few points of confusion: 1 participant was thrown off by the process list structure, and 1 participant understood the page to mean they had already finished filing.
+
+- We heard diverse feedback around the reimbursement eligibility information: 2 participants called out the instructions on how to check their eligibility as positive, while 2 other participants assumed VA had already confirmed their eligibility.
+
+> "This is fantastic. This is very relevant, and you'll know right off the bat if you're eligible or not. I like that." - P3
+
+> "Whenever I get this, it already has determined whether I'm eligible or not." - P9
+
+- 2 participants mentioned they expected to find a link for checking the status of a claim in step 3
+
+- All participants found and selected the link to “File a mileage-only travel claim”
+
+#### Mileage-only travel questions
+- We did not observe any difficulties with the mileage-only travel questions. Participants navigated through them quickly and understood the questions. A screen magnification user noted, “I like the big font on the questions.” (P3) while another mentioned wanting "you can't file a claim right now" in the additional info component dropdown to be bold so it was easier to notice
+  
+- 1 participant who uses eCheck-in to file travel noted that they were familiar with this process
+
+#### Review page
+- All participants found the review page easy to understand, quickly reviewed, and submitted their claim
+
+> "Review, click the box, check the box, and submit the claim. That's pretty easy." - P12
+
+- 2 participants called out both the “Edit” link and the collapsed BT agreement as helpful
+
+> Review page edit button: "So if you need to change some information in it, you can do that before you go through with your claim." - P11
+
+> Review page additional info component: "I read the beneficiary travel agreement every time, just because my eyes do that. So I like the fact that I don't have to read it if I don't want to." - P13
+
+#### Success page
+- Immediately after filing, it was easy for participants to understand what happened to their claim. Participants reported the success page was clear and had positive reactions to reviewing the success alert, the inclusion of the claim number, and the option to file another claim. 
+
+- 4 participants mentioned expecting to receive an email or text immediately after filing
+
+> "The only way I can know is to go look at my checking account." "If there was a way where once it's paid, there could be a text or an email just sent to your account." - P18
+
+### Learning more or filing another claim
+
