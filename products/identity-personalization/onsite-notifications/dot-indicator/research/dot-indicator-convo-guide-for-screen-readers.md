@@ -5,7 +5,7 @@
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
 - [Link to Figma __desktop__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=196-26640&t=cDBQ1pG5noiJPEC5-1&scaling=scale-down-width&page-id=196%3A26639&mode=design)  __for reference only. Can't be used for screen reader users.__
-- [Link to Figma __mobile__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=222-2228&t=Ly98ZWGK70aAsDJk-1&scaling=min-zoom&page-id=196%3A26639&starting-point-node-id=222%3A2228&show-proto-sidebar=1&mode=design) (use as a backup only - share link for prototype)  __for reference only. Can't be used for screen reader users.__
+- [Link to Figma __mobile__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=222-2228&t=Ly98ZWGK70aAsDJk-1&scaling=min-zoom&page-id=196%3A26639&starting-point-node-id=222%3A2228&show-proto-sidebar=1&mode=design) __for reference only. Can't be used for screen reader users.__
 
 
 ## Starting the session
