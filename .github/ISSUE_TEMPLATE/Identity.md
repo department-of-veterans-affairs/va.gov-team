@@ -4,7 +4,7 @@ about: For writing tickets
 title: ''
 labels: Identity
 assignees: ''
-projects: "Identity Product Tracker"
+projects: Identity Product Tracker
 
 ---
 
