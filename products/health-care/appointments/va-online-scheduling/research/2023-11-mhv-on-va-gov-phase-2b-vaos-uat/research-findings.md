@@ -1,9 +1,9 @@
 
-# Appointments on MHV on VA.gov UAT Research Findings [DRAFT] 
+# Appointments on MHV on VA.gov UAT Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Appointments, Appointments FE**
 
-Draft Date: 01/17/2024
+Final Report Date: 01/17/2024
 
 Peter Russo - peter.russo@adhocteam.us
 
@@ -271,6 +271,8 @@ Labels: `Scheduling`, `community care`, `alerts`
 All in all, the navigation features added to move Appointments under MHV on VA.gov worked well. These recommendations are focused on other issues and ideas that came up during the study that were not part of these changes.
 
 ### Improve the "Schedule and manage appointments" page. 
+
+![Schedule and manage appointments page with an alert to sign in](./images/static-landing-page-not-logged-in.png)
 
 This page is acting as public-facing information about appointments for SEO purposes, a help/FAQ page for appointments, and the entry point from help hubs. Consider separating the general appointments help/FAQ information, similar to how My HealtheVet National Portal has a separate site for help content. This will let Veterans seek out help content as they need it, instead of overwhelming them with information when they're trying to log in.
 
