@@ -35,17 +35,13 @@ Veterans currently lack the ability to easily check the status of their Travel R
 
 1. To gauge if users’ mental models about a travel claim changes over the lifespan of the claim
 2. To gauge if users associate a travel claim more strongly with the event that generated the claim of with other claim types supported by the VA
-3. To identify where users expect to find information on the status of their Travel claim on[ VA.gov](http://VA.gov)
-    1. More specifically, to evaluate the
+3. To identify where users expect to find information on the status of their Travel claim on[ VA.gov](http://VA.gov).  More specifically, to evaluate the
         1. Overall Success
         2. Overall Directness
         3. Time Taken
-
 to locate information on about a Travel Claim
 
-
-
-1. To identify what labels or terminology for claim information resonates with users
+4. To identify what labels or terminology for claim information resonates with users
 
 
 ### **Outcome**
@@ -56,14 +52,14 @@ This study will give us insight into where we should put and how we should group
 
 1. A specific claim in the process of evaluation (post submission but before completion of evaluation)
 2. Travel Claims (general) that have been submitted for evaluation
-3. What they expect that page to be called
+3. What users expect that page to be called
 
 
 ### **Research questions**
 
 
 
-1. Do users expect to find information about a Travel Claim grouped with other information about the event that triggered the claim (ie, the Appointment) or with information about other types of Claims with the VA?
+1. Do users associate information about a Travel Claim with other information about the event that triggered the claim (ie, the Appointment) or with information about other types of Claims with the VA?
 2. Where do users look for information about the status of their Travel Claims on VA.gov?
     1. Do users differentiate between where they expect to find information on a specific travel claim from information on travel claims in general?
 3. What names or labels for information about their personal Travel Claims resonate with users?
@@ -119,15 +115,16 @@ Labeling questions
 
 Label Q1: Imagine that there was a page or place on[ VA.gov](http://VA.gov) where you could see up to date information on what was happening with a request for travel reimbursement after you submitted it. What would you call this page?
 
-LQ2: If you were to name that page or place on[ VA.gov](http://VA.gov) where you could see up to date information on what was happening with a request for travel reimbursement after you submitted it, what would you name it? Please rank from your fist choice at the top to your last choice on the bottom.
+LQ2: If you were to name that page on[ VA.gov](http://VA.gov) where you could see up to date information on what was happening with a request for travel reimbursement after you submitted it, what would you name it? Please rank from your fist choice at the top to your last choice on the bottom.
 
 Terms:
 
 Travel Pay Status
-
 Travel Claim Status Updates
+Travel Claim Updates
+Travel Pay Claim Status
+Travel Reimbursement Status 
 
-Claim Updates
 
 Baseline treejack (url goes here)
 
