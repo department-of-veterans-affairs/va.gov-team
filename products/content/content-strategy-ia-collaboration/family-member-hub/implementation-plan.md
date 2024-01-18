@@ -140,6 +140,7 @@ Ongoing communication with stakeholders during roll-out
 - [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
 - [ ] Build out landing page drafts in Drupal - Danielle/Mikki
 - [ ] Plan/schedule CAIA deep dive - Danielle/Mikki
+- [ ] Build out tickets for CAIA - Mikki/Danielle
 
 
 
