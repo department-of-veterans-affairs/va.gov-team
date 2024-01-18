@@ -7,6 +7,7 @@ Agenda:
 
 ## 1/18/24
 *   2024 OKRs coming soon
+*   Working with USWDS
 
 ## 12/21/23
 *   Recurring touchopint with VADS team
