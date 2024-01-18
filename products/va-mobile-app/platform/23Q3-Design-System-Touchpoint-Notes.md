@@ -6,7 +6,7 @@ Agenda:
 *   Discuss progress and risks for Q3 work
 
 ## 1/18/24
-*   2024 OKRs coming soon
+*   2024 Q1 OKRs coming soon
 *   Working with USWDS
 
 ## 12/21/23
