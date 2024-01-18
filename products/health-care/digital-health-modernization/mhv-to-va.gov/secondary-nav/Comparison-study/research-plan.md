@@ -62,12 +62,13 @@ We will keep track of participant demographic information (identified gender, ag
 **Primary criteria (must-haves)**
 - 16 participants total, split into 4 groups of 4
 - Each group of 4 must have the following characteristics: 
-	- 2 participants have VA health care / 2 participants do not
+	- 2 participants have VA health care / 2 participants do not, but qualify with the screener
  	- 2 participants are 55+ / 2 participants under age 55
   	- 1 participant self-identifies as having a cognitive disability
   	- 1 participant uses a screenreader during the study
 	- 1 participant uses pinch magnification
- 	- Split pretty evenly given the characteristics already listed here: 50% of participants will be testing on desktop and 50% will be testing on mobile phone.  
+ 	- Split pretty evenly given the characteristics already listed here: 50% of participants will be testing on desktop and 50% will be testing on mobile phone.
+  - For recruiting: Over-index on mobile users  
  	  
 **Important secondary criteria**
 - At least 6 who identify as a race other than white/caucasian
@@ -76,35 +77,37 @@ We will keep track of participant demographic information (identified gender, ag
 
 ### Screener questions
 1. How often, if at all, do you use VA.gov?
-- Never use it
-- Once per year
-- Once per month
-- 2-3 times per month
-- More than 3 times per month
+	- Never use it
+	- Once per year
+	- Once per month
+	- 2-3 times per month
+	- More than 3 times per month
 
 2. Do you have a My HealtheVet (MHV) account?
-- Yes
-- No
+	- Yes
+	- No
+ 	- Not sure 
   
 3. How often, if at all, do you use My HealtheVet?
-- Never used it
-- Once a year
-- Once a month
-- 2-3 times a month
-- More than 3 times a month
+	- Never used it (Move on  to Question 4)
+	- Once a year (Move on  to Question 4)
+	- **Once a month (Qualify, end screener)**
+	- **2-3 times a month (Qualify, end screener)**
+	- **More than 3 times a month (Qualify, end screener)**
 
 4. How comfortable are you with the idea of managing your health-related tasks online, such as scheduling appointments, viewing medical records, or communicating with health care professionals?
-- Not at all comfortable
-- Slightly comfortable
-- Moderately comfortable
-- Very comfortable
-- Extremely comfortable
+	- Not at all comfortable (Disqualify)
+	- Slightly comfortable (Disqualify)
+	- Moderately comfortable (Disqualify)
+	- **Very comfortable (Qualify)**
+	- **Extremely comfortable (Qualify)**
 
 5. How frequently do you use the internet for personal activities, such as browsing websites, online banking, or online shopping?
-- Rarely
-- Occasionally
-- Regularly
-- Frequently
+	- Never (Disqualify)
+	- Rarely (Disqualify)
+	- Occasionally (Disqualify)
+	- **Regularly (Qualify)**
+	- **Frequently (Qualify)**
 
 ## Timeline
 - Submit for approval: 1/17/24
