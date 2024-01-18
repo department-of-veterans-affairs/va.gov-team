@@ -70,10 +70,7 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 [Release calendar](https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit#gid=604215796)
 
 
-### Change Management
-|Version | Author | Date | Comments |
-|----- |------- | -------| ------ | 
-| 1.0 | Adam Kasmier | 1/18/2024 | Initial Creation |
+
 
 
 ### RACI 
@@ -91,7 +88,10 @@ Individual team - Design System, API Team, Global, Health and Benefits, External
 
 
 
-
+### Version Management
+|Version | Author | Date | Comments |
+|----- |------- | -------| ------ | 
+| 1.0 | Adam Kasmier | 1/18/2024 | Initial Creation |
 
 
 
