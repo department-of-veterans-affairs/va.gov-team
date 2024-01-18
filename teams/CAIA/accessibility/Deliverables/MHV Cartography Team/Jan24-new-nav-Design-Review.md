@@ -1,4 +1,4 @@
-# WIP [Design Review a11y findings]: MHV Cartography Team - Secondary Navigation
+# [Design Review a11y findings]: MHV Cartography Team - Secondary Navigation
 - [Prototype A](https://codepen.io/figaro/project/live/AMVvEP)
 - [Prototype B](https://codepen.io/figaro/project/live/AqoeoW)
 - [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)  
@@ -53,7 +53,7 @@ There are focus issues while tabbing using a keyboard:
 #### Navigation landmark labels
 All navigation landmarks - either `<nav>` or `role="navigation"` - need to have a unique identifier. There are a few of these on the page. You can use either `aria-label` or `aria-labelledby` to label each nav. 
 
-The VA.gov home page only has **one nav** - the main nav bar. But this prototype has a few - the main nav, seconary nav, and the "footer" ("My VA health benefits," "More resources and support," "In the Spotlight").
+The VA.gov home page only has **one nav** - the main nav bar. But this prototype has two - the main nav, and the secondary nav. (The home page has other nav lists, which I address in "Other findings" below.)
 
 Suggestions:
 - Main nav: `aria-label="Main"`
@@ -67,7 +67,9 @@ Suggestions:
 Keyboard users receive focus when tabbing to non-empty navigation links (that's great!):
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/a20f25a4-d46d-474f-bc42-74f6ee67c6dd)
 
-But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
+But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. 
+
+**Recommendation:** Add a secondary visual focus indicator, such as altering the background color on hover/focus. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
 
 </details>
 
@@ -80,7 +82,7 @@ The navigation links are rendering in a way that indicates that they have submen
 
 A screen reader user will hear `Menu pop up collapsed, link, [link text]` when they get to this link, and expect that there are submenu items.
 
-Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a regular link, without an indication of submenus: `Link, [link text]`.
+**Recommendation:** Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a regular link, without an indication of submenus: `Link, [link text]`.
 
 </details>
  
@@ -149,14 +151,16 @@ https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/f
 Keyboard users receive focus indicators when tabbing (great!):
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/d495aabf-46ef-423e-bc96-830ff39368f2)
 
-But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
+But there's no visual indicator for sighted users, besides the mouse cursor itself. While it's not strictly required to go beyond this, VA's components tend to have a separate visual indicator (like a color change or underline) - this makes focus very clear. 
+
+**Recommendation:** Add a secondary visual focus indicator, such as altering the background color on hover/focus. The main navigation has focus indications for both keyboard and mouse users - maybe use this as an example?
 
 </details>
 
 <details><summary>Navigation landmark labels</summary>
  
 #### Navigation landmark labels
-***Same as Prototype A:*** All navigation landmarks - either <nav> or role="navigation" - need to have a unique identifier. There are a few of these on the page. You can use either aria-label or aria-labelledby to label each nav.
+***Same as Prototype A:*** The VA.gov home page only has **one nav** - the main nav bar. But this prototype has two - the main nav, and the secondary nav. (The home page has other nav lists, which I address in "Other findings" below.)
 
 Suggestions:
 
@@ -175,17 +179,20 @@ Suggestions:
 
 A screen reader user will hear `Menu pop up collapsed, link, [link text]` when they get to this link, and expect that there are submenu items.
 
-Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a regular link, without an indication of submenus: `Link, [link text]`.
+**Recommendation:** Remove `aria-expanded` and `aria-haspopup`, and then this should come up as a regular link, without an indication of submenus: `Link, [link text]`.
 
 </details>
  
 ## Other findings
-These findings are specific to the secondary navigation, but will negatively impact assistive technology users who may navigate to these pages in the prototype:
+These findings aren't specific to the secondary navigation, but will negatively impact assistive technology users who may navigate to these pages in the prototype:
 
 <details><summary>Home page</summary>
 
 ### Home page
 **The "footer":** As mentioned earlier, all navigation landmarks - either `<nav>` or `role="navigation"` - need to have a unique identifier. Each of the footer nav sections are within an unlabelled `<nav>` tag.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/4c07b87f-66c9-4af2-9bd3-9a381d5c4d3f)
+
 
 You have two options here:
    1. You can make them regular unordered lists (out of `<nav>`), like the existing page footer. OR
@@ -198,6 +205,7 @@ You have two options here:
 ### Appointments page
 
 **Heading levels:** The headings jump from H1 to H4:
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/53a33d2b-c205-480d-80ee-23fe178f67cb)
 
 Skipping heading ranks can be confusing and should be avoided where possible. In this case, we recommend the following:
