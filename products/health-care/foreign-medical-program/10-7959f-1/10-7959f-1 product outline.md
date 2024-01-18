@@ -7,19 +7,19 @@
 Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are outside the US and are eligible for health coverage for a service-related condition, providing the Foreign Medical Program registration form online would allow them to more easily and quickly apply rather than go through the current paper process.
 
 ## Problem Statement
-How might we improve the experience of Veterans living overseas who are applying for VA health care online? Veterans who are living or traveling outside the U.S. 
+How might we improve the experience of Veterans living overseas who are applying for VA health care services? Veterans who are living or traveling outside the U.S. with a service connected disability are only able to apply for health care benefits through mail or fax, leading to long wait times. 
  
 ## Desired User Outcomes
 
-- Reduce costs of sending paperwork in the mail overseas
-- Reduce time spent waiting to hear back on application
-- Receive healthcare access more quickly
+- Veterans are able to fill out the registration form online on VA.gov
+- Veterans reduce the time, effort and costs spent filling out and mailing paperwork
+- The time spent waiting to hear back on application for the Veteran
 
 ## Undesired User Outcomes
 
-- Confusion around steps in the process or how to apply
-- Errors during application process or application not submitting
-- Low confidence in the online process
+- Veterans are confused or uncertain around the steps in the process or how to apply online
+- Veterans encounter errors during the online application process or the application does not submit
+- Veterans have low confidence in the online process
 
 ## Desired Business Outcomes
 
