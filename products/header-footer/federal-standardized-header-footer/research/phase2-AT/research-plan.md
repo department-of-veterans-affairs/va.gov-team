@@ -93,7 +93,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 - [Mural notetaking board TBD]()
 	
 ## Recruitment
-  -  Perigean to recruit **11 Veterans, caregivers, or family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket TBD]().
+  -  Perigean to recruit **11 Veterans, caregivers, or family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/464).
  
 
 ### Required criteria (in decreasing order of priority)
@@ -167,8 +167,9 @@ Please invite Cindy (cindy.merrill@adhocteam.us) and Amanda (amanda.klausmeier@v
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
-We will schedule a **pilot test (or two)**:
-- **Jan 23, 24, or 25 at TIME TBD ET** with TBD (tbd@company.com)
+We will schedule a **2 pilot tests**:
+- **Tue Jan 23 3:30-5 pm ET** with Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader
+- **Wed Jan 24 12-1:30 pm ET** with Eli Mellen (eli.mellen@adhocteam.us) on a screen magnifier
 
 ### Research sessions
 Planned dates of research: **Jan 29 - Feb 7, 2024**
@@ -200,7 +201,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Cindy Merrill 
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Cindy Merrill 
-- Participant(s) for pilot test: TBD
+- Participants for pilot test: Sarah Koomson, Eli Mellen
 - Accessibility specialist: Laura Flannery or someone from CAIA 	
 - **Note-takers: Perigean (in github)**
 - Observers: Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean. (Will invite to sign up: Amanda Klausmeier, Dave Conlon, OFCIO, USWDS.) 
