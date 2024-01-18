@@ -101,8 +101,9 @@ Tasks **(split/alternate which participant sees first)**
 
 
 
-1. **[Recent claim task]** After you returned from your last VA doctor appointment on December 19, 2023, you submitted a travel reimbursement request on the Travel Pay portal. Where would you expect to find an update on what had happened to that reimbursement request?
-2. **[Historical claim task]** You had several post-op follow up visits to your local VA in Spring 2023. You submitted several travel reimbursements for these visits but you cannot remember if you ever received the reimbursement or what happened to the requests. Where would you expect to find an update on what had happened to these requests?
+1. **[Recent claim task]** You submitted a request to be paid back for gas after traveling to your last VA doctor appointment on January 12, 2024 and want to get an update on that request.  Where would you expect to find this information?
+2. **[Historical claim task]** You have submitted several requests to be reimbursed for gas from traveling to your VA doctor appointments multiple times following surgery in Spring 2023 and want to know what happened to those requests.  Where would you expect to find this information?
+
 
 After each task, ask:
 
