@@ -134,7 +134,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
  
 - DEPO Lead: Premal Shah
- - PM: Bo Altes, Mary Wang
+ - PM: Mary Wang, Bo Altes
  - Engineering: Don Shin, Michael Clement, Rachel Eiting
  - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke, Jamie Fiore, Syd Hoeper
  
