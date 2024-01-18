@@ -1,29 +1,31 @@
----
-name: Identity
-about: For writing tickets
-title: ''
-labels: Identity
-assignees: ''
-projects: ["Identity Product Tracker"]
-
----
-
-## Issue Description
-_Insert issue details here_
-
-## Tasks
-
-
-## Acceptance Criteria
-- [ ] Documentation has been updated
-- [ ] Next steps have been determined and documented
-- [ ] AC1
-- [ ] AC2
-
-## Appendix
-
-#### Product notes
-
-
-#### Tech notes
+name: Identity Frontend
+description: For writing frontend tickets
+labels: "Identity,Identity-Frontend"
+projects:
+  - department-of-veterans-affairs/1137
+body:
+- type: textarea
+  attributes:
+    label: Issue Description
+    description: Describe the issue details
+    placeholder: Insert issue details here
+- type: markdown
+  attributes:
+    value: |
+      ## Issue Description
+      _Insert issue details here_
+      
+      ## Tasks
+      
+      ## Acceptance Criteria
+      - [ ] Documentation has been updated
+      - [ ] Next steps have been determined and documented
+      - [ ] AC1
+      - [ ] AC2
+      
+      ## Appendix
+      
+      #### Product notes
+      
+      #### Tech notes
 
