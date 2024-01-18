@@ -33,10 +33,6 @@ gantt
         Scaffold        :done, scaff, 2023-11-20, 2024-01-02
         Discovery       :active, disc, 2024-01-15, 10d
         Status (STG)    :sts-fe-stg, after int-be, 20d
- section Collab Cycle
-        Define    :done, cc-def, 2023-11-01, 2024-01-15
-        Discover  :active, cc-disc, 2024-01-15, 40d
-        Build     :cc-build, after cc-disc, 90d
 ```
 ##### WORK IN PROGRESS
 #### WORK IN PROGRESS
