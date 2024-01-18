@@ -175,7 +175,6 @@ Jan. 12, 2024
 **Availability**
 
 **Monday, Jan 29**
-9am - 2pm ET
 4pm - 5pm ET
 
 **Tuesday, Jan 30**
