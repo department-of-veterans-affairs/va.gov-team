@@ -4,10 +4,10 @@
 ---
 
 ## Overview
-Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are outside the US and are eligible for health coverage for a service-related condition, it would be easier to apply online rather than go through the current paper process.
+Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are outside the US and are eligible for health coverage for a service-related condition, providing the Foreign Medical Program registration form online would allow them to more easily and quickly apply rather than go through the current paper process.
 
 ## Problem Statement
-How might we improve the experience of Veterans living overseas who are applying for VA health care online?
+How might we improve the experience of Veterans living overseas who are applying for VA health care online? Veterans who are living or traveling outside the U.S. 
  
 ## Desired User Outcomes
 
