@@ -123,9 +123,9 @@ _Medical records > Lab and test results > locate x-ray result for scan of left a
 - Okay, now go ahead and click around as needed to complete the task of viewing your x-ray images and report. _Guide as needed._
 - _Once participant arrives_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding your x-ray results?
    - Why do you give that rating?
-- Now that you see where to find your x-rays on this site, does its location make sense?
+- Now that you see where to find your x-rays on this site, what are your thoughts about where it's located on this site??
    - Where would you put it?
-- I'm going to again ask you a question I posed earlier: If you were on the phone with a friend who is also a Veteran and is looking for this site, how would you explain how to get to this site?
+- If you were on the phone with a friend who is also a Veteran and is looking for this site, how would you explain how to get to this site?
 
 #### Things to note (desktop and mobile)
 - Which nav does the participant gravitate towards first?
@@ -143,7 +143,7 @@ _Medical records > Lab and test results > locate x-ray result for scan of left a
 ### Task 2: Make appointment - 5 mins
 _Labs and tests result > Appointments_
 
-- For the next task, imagine that you want to make a follow-up appointment with your doctor. Where would you go to do that?
+- For the next task, imagine that you want to make a follow-up appointment with your doctor. Show me how you'd do that using this website.
 - I'm seeing you gravitate towards ______. Why are you going there first?
 - What are you looking for?
 - _Once participant arrives on Appointments_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where you might schedule an appointment?
@@ -193,18 +193,18 @@ Okay, I'm getting ready to share the second link with you within the Zoom chat, 
 
 ### Task 0: Messages - 2 mins 
 
-I'm sure this is already looking familiar. Just like last time, read the text and then go ahead and take the next action.
+Now we will walk through the same tasks using this version.
 
 _Participant arrives on secure messaging page with message from doctor open_
 
--  Okay right off the bat, what are you noticing that is different from last time?
-   - How do you know? 
+-  take a moment to look around - before we start with tasks.
+
 -  What if anything is surprising about landing here on this page?
 
 ### Task 1: Find x-ray - 5 mins
 _Medical records > Lab and test results > locate x-ray result for scan of left ankle_
 
-- Can you find your x-ray images and report on this version of the site?
+- Find your x-ray images and report on this version of the site?
 - _Once participant arrives_: What if anything felt different as you completed that task this second time?
    - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding your x-ray results?
       - Why do you give that rating?
@@ -217,7 +217,7 @@ _Medical records > Lab and test results > locate x-ray result for scan of left a
 ### Task 2: Make appointment - 5 mins
 _Labs and tests result > Appointments_
 
-- Now, I want you to find where you'd schedule an appointment with your doctor. 
+- Now, I want you to schedule an appointment with your doctor. 
 - _Once participant arrives on Appointments_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where you might schedule an appointment?
    - Why do you give that rating?
 
@@ -235,11 +235,12 @@ _Home > Order CPAP supplies_
 
 Thank you for your patience and for going through those tasks again using this second version of the site. You can close out the web browser and stop sharing your screen. I just have a few final questions to ask you:
 
-- What role if any do you think icons played in your ability to navigate the site?
+- Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
+- Did you find one version easier than another to use? Why? What about it?
 - Mobile: What role if any do you think the dropdown played in your ability to navigate the site? 
 - Desktop: How about the "home" button?
 
-- If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you explain the relationship between this site and the VA?
+- If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you describe the relationship between this site and the VA.gov?
 - Anything I didn't ask you about that you want to share about your experience? 
 
 Thank you again for taking the time to share your thoughts today.
