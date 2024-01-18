@@ -30,12 +30,13 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
 
 ## Future Iteration
 
-1. Submission of 21-22/21-22a
-    1. Requires signatures
-    2. Investigate/address signature errors
-    3. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
-    5. Identify how the insurance field impacts Power of Attorney 
-1. Notifications
+1. Digital submission of 21-22
+    1. Authenticated users only
+1. Digital submission of 21-22a
+    4. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
+    5. Identify how the insurance field impacts Power of Attorney
+    6. Authenticated users only
+ 1. Notifications
     1. Representative approved request
     1. Representative rejected request
 1. Manage requests (can the vet cancel a request)
