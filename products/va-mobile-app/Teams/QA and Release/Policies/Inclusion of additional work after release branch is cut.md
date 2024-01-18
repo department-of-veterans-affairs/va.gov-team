@@ -57,7 +57,7 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 | Sprint starts | 11/8/23 | 10 business days | |
 | Sprint Ends | 11/21/23 |  |
 | Release branch cut | 2:00 AM EST Wednesday (11/22) | Teams that submitted code should be validating all code they expect is included | 
-| QA Release Testing | 11/22 - 11/24  | 3 business days | | 
+| QA Release Testing | 11/22 - 11/24  | 3 business days | QA will start their testing immediately, so release branch change management needs to happen sooner vs later | 
 | QA Release Signoff | 11/24 | 3 business days |  | 
 | PM Release Signoff | 11/27 | 1 business day | | 
 | PO Release Signoff | 11/28 | 1 business day | | 
@@ -69,7 +69,7 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 
 
 
-### RACI 
+### RACI FOR CHANGE MANAGEMENT
 
 | Task | Responsible | Accountable | Consult | Inform |
 | ----- | ----- | ----- | ----- |  ----- |
@@ -78,7 +78,7 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 | Notify QA Release Tester of the situation and determine how to proceed | Team PM | Team PM | QA and Release Team | Individual Team | 
 | Discuss and get PO approval for changing the release branch | Team PM | PO | QA and Release Team | Individual Team | 
 | Updating release branch with new code | Team Engineer | Team PM | QA and Release Team | Individual Team, PO, Leads| 
-| Discussion note notes and decision logs | QA and Release Team | QA and Release Team| | Inidivudal Team, Leads  | 
+| Discussion note notes and decision logs for new code change | QA and Release Team | QA and Release Team| | Inidivudal Team, Leads  | 
 
 Individual team - Design System, API Team, Global, Health and Benefits, External teams (Veteran Status, etc) 
 
