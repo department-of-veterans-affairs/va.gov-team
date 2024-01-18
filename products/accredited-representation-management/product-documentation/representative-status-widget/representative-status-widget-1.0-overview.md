@@ -4,6 +4,8 @@ Developed by the Accredited Representation Management team, the Representative S
 
 The MVP will include desktop & mobile experiences
 
+⚠️ Content below may be updated based on Midpoint Review feedback and Research findings, development is scheduled to begin in March 2024
+
 1. Widget States
    1. User is logged in and has an existing representative (surface the status and the representative information)
    2. User is logged in and does not have an existing representative (include information on how to find a representative)
