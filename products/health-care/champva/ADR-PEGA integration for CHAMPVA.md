@@ -10,7 +10,7 @@ Draft
 Currently, the IVC forms team does not have an integration point for our pending forms. Our understanding is that PEGA will serve as a document management system for IVC indefinitely, and that some forms will be transmitted to VES in addition to PEGA. PEGA is expected to be prepared to accept form 10-10d and form 10-7959c in January of 2024. VES is not expected to be available to our team until workflows are built in 2025.
 
 We're working to gather more details about how specifically we will submit forms and supporting documents to PEGA. This could involve a few different approaches:
-1. Sending documents to an s3 bucket managed by the IVC Forms team. Risks include a large effort around document management that the team may not be equipped to bear, and an inability to provide a high confidence response back to applicants to give assurance that their documents have been received and are moving forward in the application process.
+1. Sending documents to an s3 bucket managed by the IVC Forms team. Risks include a large effort around document management that the team may not be equipped to bear, and an inability to provide a high confidence response back to applicants to give assurance that their documents have been received and are moving forward in the application process. 
 2. Sending documents to an s3 bucket managed by IVC/PEGA. This would remove the IVC Forms team from ongoing document management (storage, retention, etc.) and provide higher confidence handoffs for confirmation of application receipt.
 3. Sending documents directly to PEGA via an API. This would provide the highest confidence for successful submission. This option would also require additional effort from the PEGA team.
 
