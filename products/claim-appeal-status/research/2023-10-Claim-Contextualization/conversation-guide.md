@@ -51,7 +51,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you used VA.gov before?
 - If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
-- How else do you generally interact with the VA, if at all?
+- Do you generally interact with the VA in any other ways (on the phone, in person at an office)?
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
 - If yes, how many times? Have you ever done it on VA.gov?
 - [Time permitting] What information about your service history do you recall being asked for when you submitted your claim? (If they asked for clarification, I would say "I mean things like, where you were, or dates, your units or assignments. Things like that")
@@ -94,7 +94,6 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 [Participant clicks into the Overview tab]
 
 - Now tell me what you see here. (Prompt them to scroll up and down.)
-- Based on what you see here, how would you describe the state of this claim?
 - Is there anything that is particularly useful about what you see here?
 - Is there anything that is particularly confusing about what you see here?
 - [Focus on the graphic] What do you think this is trying to communicate?
@@ -172,7 +171,7 @@ Now let's imagine you log out, a couple of days go by, and you log back in. You 
 ## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
-- If you could wave a magic wand and change anything about checking your claim status on VA.gov, what would it be?
+- If you could wave a magic wand and change anything about the experience of checking your claim status on VA.gov, what would it be?
 - Any questions for me? 
 
 ## Consent to use video clips
