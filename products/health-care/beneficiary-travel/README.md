@@ -18,9 +18,10 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 - Engineering: Mark Dewey
 - Design/Research: Kristen McConnell
 
-### Delivery Team
+### Product Team
 - Kevin Duensing, Engineering Lead
 - Dan Hinze, Engineering
+- Athif Wulandana, Engineering
 - Micah Taylor, UX Design
 - Cara Frissell, Research
 
@@ -52,7 +53,9 @@ GitHub label = `beneficiary-travel`
 ## Product
 - [Product Outline](./product-outline-btsss.md)
 - Roadmap
-  ![VA  BTSSS on VA gov Roadmap_2023-12-21_20-15-46](https://github.com/laurenernest/va.gov-team/assets/72046525/6a0e8453-1ba3-41ef-921c-6caa54d560cb)
+  ![VA  BTSSS on VA gov Roadmap_2024-01-18_18-52-39](https://github.com/laurenernest/va.gov-team/assets/72046525/b287c732-1ff7-4268-a7ba-50fd4d3353b3)
+
+
 
 
 
