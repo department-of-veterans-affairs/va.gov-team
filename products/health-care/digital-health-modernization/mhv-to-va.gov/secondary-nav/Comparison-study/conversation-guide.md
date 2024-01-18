@@ -101,7 +101,7 @@ _Once the participant is done reading_: What would you do next? Go ahead and do 
 
 _Participant arrives on secure messaging page with message from doctor open_
 
--  Before you click on anything, how would you explain this site you landed on.
+-  Before you click on anything, how would you describe where you are on this site? 
    - How do you know? 
 -  What if anything is surprising about landing here on this page?
 
