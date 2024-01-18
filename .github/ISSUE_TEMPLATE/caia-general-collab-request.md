@@ -122,6 +122,7 @@ Please provide links to any supporting artifacts we might need to begin work. Th
 - [ ] If you need a page/URL redirected, a URL changed or a vanity URL set up, please submit a [Redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request)
 - [ ] If you are creating an [experimental design,](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) please [also contact the DST. ](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
 - [ ] If you are requesting [a11y support for user research,](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name) please complete this form, next.
+- [ ] If you are requesting content support, please share your content source of truth (preferably as a SharePoint document).
 ```
 
 ```[tasklist]
