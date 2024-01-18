@@ -3,8 +3,33 @@
 # Goal 
 Document terms in the VA ecosystem and how we're using them. Add definitions to help standardize how we use them. 
 
-beneficiary
 
-claimant
+**beneficiary**
+:  
+Where this exists:  
+Working definition:  
+Style guide status:  
 
-issue
+**claimant**
+:  
+Where this exists:  
+Working definition:  
+Style guide status:  
+
+**issue**
+:  
+Where this exists:  
+Working definition:  
+Style guide status:  
+
+**applicant** 
+: 
+Where this exists:  
+Working definition:  
+Style guide status:
+
+**recipient**
+: 
+Where this exists:  
+Working definition:  
+Style guide status:
