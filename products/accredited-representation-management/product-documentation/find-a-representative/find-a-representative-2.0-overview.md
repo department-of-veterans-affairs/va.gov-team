@@ -12,7 +12,7 @@ The following overview demonstrates the changes we'll be implementing for versio
             1. ~Veteran Service Organization~
             2. Veteran Service Officer 🆕
             3. Attorney
-            4. ~Claims agent~
+            4. Claims agent
         2. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
             2. `Use my location` feature to populate this location field
