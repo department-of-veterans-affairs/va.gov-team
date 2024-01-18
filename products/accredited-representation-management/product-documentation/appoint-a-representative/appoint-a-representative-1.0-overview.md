@@ -4,7 +4,7 @@ Developed by the Accredited Representation Management team, the Appoint a Repres
 
 The MVP will include desktop & mobile experiences and the pathway is `/src/applications/representative-appoint`
 
-⚠️ Content below may be updated based on Midpoint Review feedback, development is scheduled to begin in March 2024
+⚠️ Content below may be updated based on Midpoint Review feedback and Research findings, development is scheduled to begin in March 2024
 
 1. **Chapter 1**: Veteran Personal Information
    1. Unauth: Enter Veteran Name and Date of Birth
