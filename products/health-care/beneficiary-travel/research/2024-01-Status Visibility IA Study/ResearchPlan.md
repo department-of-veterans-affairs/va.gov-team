@@ -110,7 +110,7 @@ After each task, ask:
 
 
 1. Overall, how difficult did you find this task? Rating scale, 1 - Very difficult, 7 - Very easy
-2. Overall, how confident are you that you completed this task successfully? Rating scale, 1 - Very difficult, 7 - Very easy
+2. Overall, how confident are you that you completed this task successfully? Rating scale, 1 - Not at all confident, 7 - Extremely confident 
 
 Labeling questions
 
