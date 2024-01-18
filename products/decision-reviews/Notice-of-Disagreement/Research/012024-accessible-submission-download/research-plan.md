@@ -1,4 +1,4 @@
-# Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
+# Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Feb 2024
 ## Background
 In previous studies, we found that Veterans have a desire to save a copy of their submitted forms. As the submission PDF currently exists, it is not accessible to Veterans with visual impairments that are using screen readers. We are proposing providing an HTML page that allows Veterans who are using screen readers to review their submission, as well as an optional download.
 
@@ -164,28 +164,28 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screnner questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
 
-Eileen is available for a kickoff call during any of these times:
-- 1/4 4PM ET
-- 1/4 2-5PM ET
+The team is available for a kickoff call during any of these times:
+- 1/22 3:30PM ET, 4:00PM ET, 4:30PM ET
+- 1/23 1:30PM ET, 4:30PM ET
+- 1/24 3:00PM ET, 3:30PM ET, 4:30PM ET
 
-Please invite Eileen (eileen.chi@coforma.io) and Sade (sade.ragsdale@coforma.io) to the kickoff call.
+Please invite Eileen (eileen.chi@coforma.io), Sade (sade@coforma.io), and Lauren (lauren.sinreich@coforma.io) to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
--   Pilot participant email: 
--   Date and time of pilot session: 
+-   Pilot participant email: TBD
+-   Date and time of pilot session: TBD
 
 ### Research sessions
 Planned dates of research: 
-TBD
 
-    
+2/6-2/12
+
 ### Length of sessions
 Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours):
 -   60 minutes
     
-
 Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 -   60 minutes buffer
 
@@ -197,7 +197,12 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-TBD
+2/6 9AM-6PM ET
+2/7 9AM-6PM ET
+2/8 9AM-6PM ET
+2/9 9AM-6PM ET
+2/12 9AM-6PM ET
+2/13 9AM-6PM ET
 
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
