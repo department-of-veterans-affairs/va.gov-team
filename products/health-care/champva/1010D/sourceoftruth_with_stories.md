@@ -111,11 +111,6 @@ A service-connected disability is a disability that we’ve concluded was caused
 If the Veteran you're connected to fits that description and your status and relationship match the following the factors below you may be eligible for CHAMPVA benefits. 
 
 
-
-
-<! --- Add a contact number for questions related to this --- >
-
-
 ###  [H2] How do I get CHAMPVA benefits?
 You’ll need to apply for these benefits.
 
@@ -314,9 +309,10 @@ Expiration date: 11/30/2025 < !-- what is the correct exp date --->
 
 
 ### [H2] Get more information
-Get answers to frequently asked questions about CHAMPVA
-Find out how to file a CHAMPVA claim
-Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA
+{ Link } [Get answers to frequently asked questions about CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp)
+
+{ Link } [Find out how to file a CHAMPVA claim](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp)
+{ Link } [Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp) 
 
 ---------------------------------------
 
