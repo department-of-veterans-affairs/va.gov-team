@@ -1,6 +1,6 @@
-name: Identity Frontend
-description: For writing frontend tickets
-labels: "Identity,Identity-Frontend"
+name: Identity
+description: For writing OCTO Identity ickets
+labels: "Identity"
 projects:
   - department-of-veterans-affairs/1137
 body:
