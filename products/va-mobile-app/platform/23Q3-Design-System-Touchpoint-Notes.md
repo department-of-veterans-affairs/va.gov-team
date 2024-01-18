@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks for Q3 work
 
+## 1/18/24
+*   2024 OKRs coming soon
+
 ## 12/21/23
 *   Recurring touchopint with VADS team
 
