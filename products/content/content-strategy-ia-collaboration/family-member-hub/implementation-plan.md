@@ -102,22 +102,24 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 
 
 **Health and benefits stakeholders**
-- VHA Digital Comms: Jenny Hieland-Ludke
-
+- VHA Digital Comms: Jenny Hieland-Ludke, Blake, Justin
+- Integrated Veteran Care: Joe Schneider, Chris Cox, Kelly Farmer
+- VEO, Melissa Rebstock
+- Tammy
 
 ## Communication plan <a id="communications"></a>
 
 Communication to OCTO stakeholders
 - [x] Overview of effort so far and next steps at team meeting 
-- [ ] Research results and next steps at OCTO Monday design meeting
-- [ ] Share with benefits portfolia
-- [ ] Share with Chris
-- [ ] Share with health portfolio
+- [x] Research results and next steps at OCTO Monday design meeting
+- [ ] Share with benefits portfolio - 1/23
+- [ ] Share with Chris - Danielle's 1:1
+- [ ] Share with health portfolio - 1/23
 - [ ] CAIA deep dive(s)
 
 Initial communication to all impacted stakeholders
 - [ ] Present to the survivor group (Danielle to reach out to Melissa R to schedule)
-- [ ] Share in next 1:1 with Jenny H-L from VHA digital media
+- [ ] Share in next 1:1 with Jenny H-L from VHA digital media - 1/30
 - [ ] Share with IVC program office
 - [ ] Share in kickoffs with each administrative group
 - [ ] Share in digital media syncs
@@ -130,13 +132,15 @@ Ongoing communication with stakeholders during roll-out
 
 - [x] Present to OCTO team - Done 1/1//24
 - [x] Finalize organizational structure - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
-- [ ] Incorporate into placement criteria and overall taxonomy definition - Danielle/Mikki 
+- [x] Schedule read out in Monday design meeting - Mikki, scheduled for 3/18/24
+- [ ] Discussion with Beth/Randi on VBA/NCA contacts - Danielle
+- [ ] Talk with to Jeff Barnes/IIR team re: moving education forms
+- [ ] Incorporate into placement criteria and overall taxonomy definition - Mikki/Danielle
 - [ ] Identify additional research needs, pull in Amanda as needed - Mikki to review and schedule time with everyone as needed
-- [ ] Schedule and present work to Chris - Danielle to schedule
 - [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
-- [ ] Build out landing page drafts in Drupal - Danielle
-- [ ] Present in benefits check-in - Danielle/Mikki 1/24?
-- [ ] Schedule read out in Monday design meeting - Mikki, scheduled for 3/18/24
+- [ ] Build out landing page drafts in Drupal - Danielle/Mikki
 - [ ] Plan/schedule CAIA deep dive - Danielle/Mikki
+
+
 
 
