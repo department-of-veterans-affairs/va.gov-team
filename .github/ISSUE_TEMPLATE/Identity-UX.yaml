@@ -10,7 +10,7 @@ body:
     description: Describe the issue details
     placeholder: Insert issue details here
 - type: markdown
-   attributes:
+   attributes: 
       value: |
 ### Description of UX Tasks
 
