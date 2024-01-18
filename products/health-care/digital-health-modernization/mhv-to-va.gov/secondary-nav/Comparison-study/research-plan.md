@@ -91,10 +91,10 @@ We will keep track of participant demographic information (identified gender, ag
 3. How often, if at all, do you use My HealtheVet?
 	- Never used it (Move on  to Question 4)
 	- Once a year (Move on  to Question 4)
-	- **Once a month (Qualify, end screener)**
-	- **2-3 times a month (Qualify, end screener)**
-	- **More than 3 times a month (Qualify, end screener)**
-
+	- **Once a month (Automatically qualify - if still sourcing this user type - but collect answers to the rest of screener)**
+	- **2-3 times a month  (Automatically qualify  - if still sourcing this user type - but collect answers to the rest of screener)**
+	- **More than 3 times a month  (Automatically qualify - if still sourcing this user type - but collect answers to the rest of screener)**
+ - 
 4. How comfortable are you with the idea of managing your health-related tasks online, such as scheduling appointments, viewing medical records, or communicating with health care professionals?
 	- Not at all comfortable (Disqualify)
 	- Slightly comfortable (Disqualify)
