@@ -79,6 +79,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
+Collaboration Cycle
+- Collab Cycle ticket 
+- Design Intent
+- Content, Accessibility and IA -
+- Midpoint -
+- Research
+- Contact Center guide
+- Analytics
+- Staging 
+- Infrastructure, Privacy & Security
+ 
 ## Launch Dates
 - *Target Launch Date*
   - tbd
