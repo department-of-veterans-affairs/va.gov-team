@@ -4,18 +4,22 @@
 ---
 
 ## Overview
-Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are outside the US and are eligible for health coverage for a service-related condition, it would be easier to apply online rather than the current paper process.
+Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are outside the US and are eligible for health coverage for a service-related condition, it would be easier to apply online rather than go through the current paper process.
 
 ## Problem Statement
 How might we improve the experience of Veterans living overseas who are applying for VA health care online?
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Reduce costs of sending paperwork in the mail overseas
+- Reduce time spent waiting to hear back on application
+- Receive healthcare access more quickly
 
 ## Undesired User Outcomes
 
+- Confusion around steps in the process or how to apply
+- Errors during application process or application not submitting
+- Low confidence in the online process
 
 ## Desired Business Outcomes
 
