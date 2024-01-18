@@ -1,15 +1,19 @@
 # [Design Review a11y findings]: MHV Cartography Team - Secondary Navigation
-- [Prototype A](https://codepen.io/figaro/project/live/AMVvEP)
-- [Prototype B](https://codepen.io/figaro/project/live/AqoeoW)
-- [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)  
+- **CodePen Prototypes:**
+    - [Prototype A](https://codepen.io/figaro/project/live/AMVvEP)
+    - [Prototype B](https://codepen.io/figaro/project/live/AqoeoW)
+- **Team Slack Channel:**[#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
+- **CAIA A11y Ticket:** [#73798](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73798)
+- **Date of Audit:** January 17, 2024
+
 
 ## Product team
-- OCTO-DE product owner: Patrick Bateman
-- Product manager: Lynne Johnson
-- Designer: Sara Sterkenburg 
+- **OCTO-DE product owner:** Patrick Bateman
+- **Product manager:** Lynne Johnson
+- **Designer:** Sara Sterkenburg 
 
 ## Auditor(s)
-- Jamie Klenetsky Fay 
+- Jamie Klenetsky Fay
 
 ## Testing Coverage: 
  
