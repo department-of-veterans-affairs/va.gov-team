@@ -47,7 +47,6 @@ Describe the method you’re planning. You should be able to explain why this me
 
 Examples of common research methods include: 
 - Semi-structured interviews - The bulk of the study will be interview-style, the questions will allow us to have a better baseline understanding of how Veterans currently reorder supplies and also highlight anything in the process we are missing. 
-- Tree testing/card sorting - Medical supplies and prescription - understanding mental model of where these should be? Information architecture questions tree testing (10-10 has base VA.gov tree in a tree test). We will start on VA.gov and see where Veterans go. 
 - Usability testing - This will be on production to test some usability questions we have for the current form.
   
 ### Location
