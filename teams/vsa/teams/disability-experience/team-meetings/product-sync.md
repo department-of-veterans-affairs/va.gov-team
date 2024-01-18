@@ -13,7 +13,8 @@
   - Checbox list and loop function not supported by the forms library
   - How much is significant effort?
   - Would forms library adopt these changes if we make the change? Potential maintenance problem?
-
+- Research shareout with stakeholders
+  
 ### Date: Jan 11' 2024       
 ### Participants: Rakshinda, Austin, Emily, Steve 
 ### Topics Covered:
