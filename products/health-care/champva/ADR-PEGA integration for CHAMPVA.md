@@ -18,7 +18,7 @@ We're working to gather more details about how specifically we will submit forms
 
 The benefits API was considered and has been ruled out due to a lack of business process integration between VBA and VHA, along with the time, effort, and expense in building these integrations. The VHA currently doesn't use CMP (Central Mail Portal).
 
-We also explored using an API to submit directly to VES, similar to the pattern used for forms like 10-10EZ that are also within VHA. If this were technically feasible, it would bypass multiple business processes (eligibility, claims, etc.) that need to remain intact to successfully serve CHAMPVA customers. Notably, some forms will never get sent to VES (even if the workflow went to VES, the documents would stay in PEGA).
+We also explored using an API to submit directly to VES, similar to the pattern used for forms like 10-10EZ that are also within VHA. If this were technically feasible, it would bypass multiple business processes (eligibility, claims, etc.) that need to remain intact to successfully serve CHAMPVA customers. Notably, some forms will never get sent to VES (even if the workflow went to VES, the documents would stay in PEGA). Note: VES will eventually be able to handle 10-10d enrollments but not until sometime in early 2025.
 
 ## Decision
 
