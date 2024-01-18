@@ -99,16 +99,16 @@ ________________________________________________________________________________
          - ❗ 🟥 [[UX] [Content] Decide whether to have modality-specific accordion content or modality-agnostic accordion content](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72431) 
      - **Sub Goal: Change wording for wait time after checking in**
          - ❗ 🟩 [[FE] Make changes per the new wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72617)
-         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72618)
+         - ✔️ ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72618)
          - ❗ 🟩🟪🟥 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72881)     
      - **Sub Goal: Let Veterans Know when BTSSS is Down** 
          - ❗ 🟩 [[FE] Let Veteran Know when BTSSS is Down](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72876)
-         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72630)
-         - ❗ 🟥 [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72625)
+         - ✔️ ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72630)
+         - ✔️ ❗ 🟥 [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72625)
          - ❗ 🟩🟪🟥 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72879)
 - **GOAL: Make Travel Claims Easier**   
    - **Sub Goal: [Cross-Product Discovery - File a Mileage-only Claim for a Past Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65385)**       
-        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
+        - ✔️ 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
        - 🟩 [[FE][CHIP] Add CVT, VVC appointment Types](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72948)
@@ -120,10 +120,10 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71838)
 - **GOAL: Address Tech Debt**            
      - **Sub Goal: Migrate Sktech Files to Figma**
-        - 🟥 [[UX] [Design] Move files to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71690)
+        - ✔️ 🟥 [[UX] [Design] Move files to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71690)
         - 🟥 [[UX] [Design] Clean up pages in Figma Production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73002)
-        - 🟥 [[UX] [Design] Create a local reusable component in Figma (similar to a local Symbol in Sketch)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73006)
-        - 🟥 [[Design] Create remaining local components needed for production file and apply them to the production Figma file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73225)
+        - ✔️ 🟥 [[UX] [Design] Create a local reusable component in Figma (similar to a local Symbol in Sketch)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73006)
+        - 🟥 [[Design] Create initial local components for production file and create and publish initial Check-in Component Library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73225)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
        - 🟥 [[UX][Content] AUDIT: Audit Remaining production and unified check-in headings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73217)
 
