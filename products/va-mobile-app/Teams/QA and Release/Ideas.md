@@ -24,6 +24,8 @@
 | PR Strategy to support e2e testing (detox UI) for existing and new features | Brought up by Tim on 1/4 as currently it would require XL branches for modifications and also impact approval process. Meeting 1/12  |  
 | Determine a OS cutoff for testing purposes | Follow-up on a couple Sprint 0s, want QA to push this over the line for approval | | [7601](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7601)|
 | Accesibility Testing valdiation on headers | came up during Headers project meeting on 1/18/24. Intent is to prevent headers from being missed. | | [7752](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7752) |
+| Determine what QA's role and ownership is in ensure accessibility beyond compliance | Part of a convo with Tim on 1/18 | | | 
+| Determine QA's role in being the voice of the customer in identifying that the design being proposed will be confusing for the user | Part of a convo with Tim on 1/18 | | 
 
 
 
