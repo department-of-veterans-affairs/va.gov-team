@@ -35,9 +35,11 @@ What do you intend to learn and measure from this study? Think through these pro
 
 The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. 
 
-Hypothesis 1: Veterans will tell us about the clinician/VAMC interactions that are involved in being eligible to reorder/order supplies 
-Hypothesis 2: Veterans will identify a few pain points when using the new form. Also, some Veterans may have a hard time finding the tool without using search. 
-
+- Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
+- Most likely there are no real reminders that are currently with clinician
+- We will not really capture any other supplies outside of what DLC has requested us to add to the tools
+- Veterans probably find out about the reordering process from their VA provider
+- Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
 
 
 ## Methodology	
