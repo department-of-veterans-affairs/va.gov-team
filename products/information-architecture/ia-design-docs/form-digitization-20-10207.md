@@ -36,18 +36,38 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-1. **[Page URL or component name]** - [Add/Modify/Remove]
+1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
   - Placement description: 
   - Link label: 
   - Link destination: 
   - Notes: 
 
-2. **[Page URL or component name]** - [Add/Modify/Remove]
+2. **Online Form 21-526EZ** - Modify
+  - Placement description:
+  - Link label:
+  - Link destination:
+  - Notes: I know the team has already connected with the Benefits Disability team and are in conversation on how to implement this form into the online 21-526ez form. If there's any additional support needed here in regards to the form flow and where to place this form, we would definitely interested to hear how that goes. We've discussed how this could look and we've thought maybe adding at the end of the flow so folks aren't sent through another form flow in the middle of another, but would love to hear y'alls thoughts on this and other ideas.
+
+3. **Online Form 21P-527EZ** - Modify
   - Placement description: 
   - Link label:
   - Link destination: 
-  - Notes: 
- 
+  - Notes: This is another form that is already digitized that we believe it could be helpful to mention priority processing in that form flow. The form will be reactivated soon and so I definitely suggest connecting with the team as they begin working on the next version.
+
+4. **[VA Survivors Pension](https://www.va.gov/pension/survivors-pension/)** - Add
+  - Placement description: 
+  - Link label:
+  - Link destination: 
+  - Notes: This form isn't currently digitized but this is another that we suggest working with that designated team to see it priority processing can be added to the flow of the other form. For now, we suggest adding it to the landing page under "How long does it take VA to make a decision?"
+  - 
+<img width="400" alt="Section on survivors pension titled How long does it take VA to make a decision" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/8dcbb34d-dac8-4cb4-8171-e6bf22d01b9e">
+
+5. **Claim Status Tool** - Add
+  - Placement description: 
+  - Link label:
+  - Link destination: 
+  - Notes: I know the team has already connected with the Benefits Management team as well. We've added a suggestion for the entry point, but would be interested to hear that team's feedback or any questions on that suggestion. Happy to revisit this proposed entry point!
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
