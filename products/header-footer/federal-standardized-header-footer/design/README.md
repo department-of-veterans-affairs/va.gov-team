@@ -2,7 +2,7 @@
 
 ## Sketch designs
 
-- [Sketch designs - July 2023-Present (Versioning in File)](https://www.sketch.com/s/4558672b-741f-4d59-84f0-796020d3ef57)
+- [Figma designs - July 2023-Present (Versioning in File)](https://www.figma.com/file/l35ykhDl0U885wSbmrc7Gc/USA-header-footer-VA?type=design&node-id=0%3A1&mode=design&t=e7tv1g0fDiXsCnFL-1)
 - [Sketch designs - May 2023](https://www.sketch.com/s/800183ed-3ff7-43dd-b432-95fd1f251401)
 
 ## Decision log
