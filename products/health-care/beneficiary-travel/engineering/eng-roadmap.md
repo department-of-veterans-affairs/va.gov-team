@@ -21,6 +21,7 @@ gantt
 
     title Engineering Roadmap
     dateFormat YYYY-MM-DD
+    axisFormat %m/%d
     excludes weekends
 
     section API (dependency)
