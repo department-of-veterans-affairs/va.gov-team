@@ -99,9 +99,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
    
 ## Screenshots
 
-### Before
-
-### After
+- Before
+https://www.va.gov/find-forms/about-form-10-7959f-2/
+- After
 
 ---
 
@@ -109,10 +109,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: IVC Forms team
+- GitHub Label: ivc-forms
+- Slack channel: ivc-forms
+- Product POCs: Mary Wang
 - Stakeholders: 
 
 </details>
@@ -121,10 +121,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Premal Shah
+ - PM: Mary Wang
+ - Engineering: Rachel Eiting, Bryan Alexander
+ - Research/Design: Steven Straily, Rachael Penfil, Brian Wilke
  
 </details>
 
