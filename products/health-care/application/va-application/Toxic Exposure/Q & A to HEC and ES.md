@@ -24,5 +24,8 @@
 
 Did get info on forms, working on Edits now on draft.
 CHg req in for VES to receive this data - forcasted for March
+Jessie - will ask for volumes of EZR
+Jessie - VHA will be getting access to ILER, to help with research maybe
+Tacarra - Can view VBA adjudications
 
 ### System behavior
