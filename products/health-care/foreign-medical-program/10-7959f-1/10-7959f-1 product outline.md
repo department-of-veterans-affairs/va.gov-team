@@ -92,9 +92,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-
+Key deliverables
 ### Key Decisions
-
+### Key Dates
 ---
    
 ## Screenshots
