@@ -29,7 +29,7 @@ Consider bucketing research questions under research goals. For each question, t
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
-The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. 
+The intention of this study is to figure out where to place supply reordering in the future on VA.gov, and where it will likely live once MHV on VA.gov is fully launched. 
 
 Hypothesis 1: Veterans will want Supply reordering to be within Health, possibly under prescriptions.
 
@@ -40,7 +40,6 @@ Describe the method you’re planning. You should be able to explain why this me
 
 Examples of common research methods include: 
 - Tree testing/card sorting - Medical supplies and prescription - understanding mental model of where these should be? Information architecture questions tree testing (10-10 has base VA.gov tree in a tree test). We will start on VA.gov and see where Veterans go. 
-- Usability testing - This will be on production to test some usability questions we have for the current form.
   
 ### Location
 Will be remote on Zoom.
@@ -84,14 +83,19 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
+-35 Veterans are needed to do a tree test 
+
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-- Have you been prescribed a medical device by a VA Medical Provider in the past 5-10 years?
-- LOA Level 3
-  
+1. Have you been prescribed a medical device by a VA Medical Provider in the past 5-10 years?
+2. Do you have an email and password for either Login.gov or ID.me that you use to sign into VA.gov?
+Yes (Go onto Screener question 2)
+No (Recruit 2) - If we do this, we need to think through how we are going to do the usability portion of the study
+3. Do you or the Veteran you support have a My HealtheVet (MHV) account?
+Yes (Recruit 10)
+No (Recruit 3) - If we do this, we need to think through how we are going to do the usability portion of the study
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
