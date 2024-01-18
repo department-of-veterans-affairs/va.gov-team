@@ -8,7 +8,7 @@ We believe it is important to support Veterans using screen readers to access a 
 
 Participants will walk through a code prototype on staging.
 
-Staging link: TBD
+[Prototype staging link](https://staging.va.gov/decision-reviews/submitted-appeal/)
 
 ### OCTO Priorities
 This research supports 2 of the 2024 OCTO Objectives:
