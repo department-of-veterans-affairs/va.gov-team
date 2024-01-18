@@ -169,7 +169,7 @@ Let’s start with a few questions...
     - *(if no AT)* Do you sometimes use assistive technology? 
       - If so, what do you use and when? 
         - Would you be willing to start using it now in this session? 
-        - *(if not, run session w/o AT, or maybe stop and ask Perigean for a replacement participant)*
+        - *(if not, discuss w/Amanda--run session w/o AT, or stop and ask Perigean for a replacement participant)*
 
 1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
 
