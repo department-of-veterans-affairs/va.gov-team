@@ -135,7 +135,10 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
     1. 2-5 years *(ask next question)*
     1. More than 5 years *(ask next question)* 
 
-1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say, DISQUALIFY if they say something non-digital like "magnifying glass"; otherwise ask rest of questions)*
+1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask rest of questions)*
+    - *DISQUALIFY if they say something non-digital like "magnifying glass"* 
+    - *Acceptable responses include "ZoomText", "increase font size", "zoom in the browser, "JAWS", "VoiceOver", "Talkback"*
+    - *If unsure whether someone qualifies, please ask Cindy*
 
 1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? *(RECORD)*
     1. Smartphone  
