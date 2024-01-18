@@ -23,10 +23,12 @@ Goal 2: Get insight into usability/navigation concerns, (i.e - how are error sta
 We want to determine if the current process is serving Veterans' needs and is as intuitive as possible for the future state of this product. How can the process improve?
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What is the end-to-end process for Veterans who want to order/re-order supplies? How can we incorporate that knowledge into our current system?
-- How do Veterans interact with the new form on VA.gov?
 
+- How do people know when to reorder? - Understanding of proactive notification.
+- Are there reminders that are already happening? (Word, so you will hear about more than digital solutions)
+- Prioritization of other devices (might be more of a metrics review)  - Are we missing any?
+- How do Veteran find out about the device reordering process? Is it unique that VA provides this for free? Outside VA they would have to pay?
+- If a supply isn't available and you are told to talk to your provider, then how would you do that? (note: how many mention SM?)
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
