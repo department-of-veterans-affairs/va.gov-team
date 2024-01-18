@@ -1,81 +1,92 @@
-# DRAFT AT THIS TIME ; QA TEAM REVIEW AND WILL SHARE WHEN APPROVED 
-
-
-# Policy - Inclusion of additional work after release branch is cut
+# Policy - Change Management for Adding New Code to the Releae Branch
 Version 1.0
 
 ## DESCRIPTION: 
 
-The night that sprints are completed a release branch is cut containing all the code that will be going out in the next release. This code QA must test (within what they can test and control) in order to approve the release. 
+This Veteran Affair's Health and Benefits Mobile App's policy is regarding the request from internal or external teams wanting to add code to a release branch after its cut which contains the code the will be included in the release. Said another way, team requests to modify the release code. 
 
-In some cases they are requests to add stuff to the release branch after that time period, meaning then additional unplanned testing will be needed. This could also increase the risk of approving the release as well.  Given the increased work and unplanned work, Mobile has historically preferred not to add such things after the cutoff time but understands that sometimes it may be required. 
+The evening Mobile's sprint is over the release branch is automatically cut based on the status of the tickets. Historically there have been occasions when teams have identified that code was not included in the release branch (for one reason or another) and requests to add the code into the release branch after its been created. This document is the on how to handle such requests. This document contains the information, steps, and accountability needed to complete before code should be included in the release branch after the cutoff time.
 
-This document contains the information, steps, and accountability needed to complete before code should be included in the release branch after the cutoff time
+The QA and Release team manage and oversee the Mobile release process, thus are responsible for this policy and enforcement. 
 
+At a high level, QA and Release Team's stance is that code will not be added to the release after the release branch is cut. QA and Release Team does offer a process for Teams to use if they feel the work is critical enough to be added, however this must be done the day its cut in order to not threaten the rest of the release process timeline. 
 
-## RISKS: 
- - Delay / skip the release given findings their change brings 
- - Unable to complete QA testing and signoff within their designated time
+## RISKS OF INCLUDING CODE POST RELEASE BRANCH CUT: 
+ - Risk of adding code that was not properly planned for in the release
+ - Delays to the Release timeline which risks delaying or skipping the release
+ - Unable to complete QA testing and signoff within Mobile's Release Timeline
  - Risk additional findings and issues 
- - Unplanned rework by QA 
- - Unplanning work by engineerings to add the code and handle any findings timely 
+ - Unplanned rework by QA as testing likely was already completed 
+ - Unplanning work by engineerings to add the code and handle any findings timely
+ - Reducing team's sprint capacity on making the modifications 
 
 ## NOTES:
+ - Modifying the code branch is not the only solution others include: Waiting till the next release (QA and Release Team's preference), Hotfix, Availability Framework 
+ - Historical requests to add code into the release branch has been for small or minor items, if that is the case then QA and Release team believe it should wait for next sprint
  - Team PM and PO accepts the impact of this work 
- - Possible delayed release
- - Veteran facing bugs 
- - Planned work delayed for unplanned work - shift in priorities 
- - This must be done timely, the later it gets into the QA testing period the least likely will be included as QA only has 2 days to test 
- - If the change is deemed small enough to go in why not just wait till the next release 
- - Mobile Team to retro to determine why it missed the release cutoff and update the necessary communication / processes to catch it the next time and prevent this from happening again 
- - Is a hotfix more viable of an option  
+ - QA and Release expect the Internal or External Team to retro why an item they expected to be included was missed in order to reduce this risk in the future
+ - QA and Release's QA Tester has the final say
+ - Exceptions can be made if they are timely and also critical enough - they will need to follow the process below
+ - If modification to the release code is purused, Team PM and PO accept responsibility for the risks it brings 
 
-## STEPS: 
-1.) Someone in Mobile identifies that code was not part of the release branch and wants it to be included 
 
-2.) That person reaches out to the Mobile team responsible for that code to discuss with that PM 
+## STEPS TO INCLUDE CODE TO THE RELEASE BRANCH AFTER ITS CUT: 
+1.) Day the release branch was cut, Teams review their ticketsto ensure code was in the release branch as expected
 
-3.) That PM has discussions with their team including their QA agent to deem if it needs to be included; notify Release manager of possible change 
+2.) A Team identifies code was not part of the release branch cut as they had expected and discusses amongst the Team
 
-4.) If release code needs to be modified, that PM will need to explain the request to the POs and get their approval to modify the release code 
+3.) Team PM determines release branch needs to be modified, reaches out to the Release QA Tester with their request to discuss what is going on, why its needed, options, and timing
+    - Ideally should be done the day the release branch was cut, anything later will impact release timeline
+    - Discussions will also include updated timeline that will need to be met for the new release due to this new code change 
+    - Updates to be made to the DSVA Slack Thread with discussion and next steps 
+    
+4.) If Team PM still wants to modify the release code to include new code, Team PM will need to get PO approval 
+    - Release process will be put on hold while we wait on PO approval to reduce rework
+    - Approval can be included in the DSVA Slack thread if there is one 
 
-5.) That PM will provide the POs approval to the QA and Release team  & update the release ticket with this change 
+5.) Team PM will provide POs approval to the Release QA Tester & update the Release Ticket with this change 
 
 6.) PM Team Engineer will update the code accordingly and be onstandup for any testing findings 
 
-7.) QA and Release team 
-
-     - will test within their means and timeline given 
-     
-     - Document the decision to modify the release code in their decision log 
-     
-8.) Continue with release process
+7.) QA and Release team will test within their means and timeline given and document the decision to modify the release code in their decision log 
     - If new code leads to findings that prevent QA from signing off on the release; the requesting PM will need to discuss if release continues without QA approval 
 
+8.) Continue with release process
+
+9.) Team responsible for adding code to the release branch is asked to follow-up with QA and Release team on how they plan to prevent this in the future 
 
 ### Release Timing Example: 
- - Sprint starts 11/8/23
- - Sprint Ends 11/21/23
- - Release branch cut 2:00 AM EST Wednesday (11/22)
-    - After this step is when new code will need to be added ; but release timeline below will still be the same  
- - QA Release Testing 11/22 - 11/24 (2 working days) 
- - QA Release Signoff  11/24
- - PM Release Signoff - 11/27
- - PO Release Signoff - 11/28
-
-
+| Event | Date Example | Days to Complete | Other |
+| ----- | ----- | ---- | ----- |
+| Sprint starts | 11/8/23 | 10 business days | |
+| Sprint Ends | 11/21/23 |  |
+| Release branch cut | 2:00 AM EST Wednesday (11/22) | Teams that submitted code should be validating all code they expect is included | 
+| QA Release Testing | 11/22 - 11/24  | 3 business days | | 
+| QA Release Signoff | 11/24 | 3 business days |  | 
+| PM Release Signoff | 11/27 | 1 business day | | 
+| PO Release Signoff | 11/28 | 1 business day | | 
+| App Review Submission Date | 11/29 | 1 business day | | 
+| App Release Date | 12/5 | 4 business days | |
+[Release calendar](https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit#gid=604215796)
 
 
 ### Change Management
 |Version | Author | Date | Comments |
 |----- |------- | -------| ------ | 
-| 1.0 | Adam Kasmier | TBD | Initial Creation
+| 1.0 | Adam Kasmier | 1/18/2024 | Initial Creation |
 
 
+### RACI 
 
+| Task | Responsible | Accountable | Consult | Inform |
+| ----- | ----- | ----- | ----- |  ----- |
+| Identify code is missing from release branch | Any on Individual team | Team PM | Individual Team | | 
+| Determine code needs added to the release branch | Individual Team | Team PM | Individual Team | QA and Release Team |
+| Notify QA Release Tester of the situation and determine how to proceed | Team PM | Team PM | QA and Release Team | Individual Team | 
+| Discuss and get PO approval for changing the release branch | Team PM | PO | QA and Release Team | Individual Team | 
+| Discussion note notes and decision logs | QA and Release Team | QA and Release Team| | Inidivudal Team | 
 
-
-
+Individual team - Design System, API Team, Global, Health and Benefits, External teams (Veteran Status, etc) 
 
 
 
