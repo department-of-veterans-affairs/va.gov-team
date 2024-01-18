@@ -1,5 +1,15 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Jan 18' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submit Migration
+   -  Current state
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access?
+- Toxic Exposure
+  - Checbox list and loop function not supported by the forms library
+
 ### Date: Jan 11' 2024       
 ### Participants: Rakshinda, Austin, Emily, Steve 
 ### Topics Covered:
