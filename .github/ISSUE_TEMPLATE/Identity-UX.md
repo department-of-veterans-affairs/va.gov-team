@@ -1,8 +1,9 @@
 ---
 name: Identity UX Template
-about: For writing UX tickets
+about: For writing Identity UX tickets
 title: ''
 labels: Identity, Identity-UX
+projects: department-of-veterans-affairs/1137
 assignees: ''
 
 ---
