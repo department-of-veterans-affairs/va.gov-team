@@ -3,7 +3,7 @@
 - [Research Repo Ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/432)
 - [Figma prototype](https://www.figma.com/file/gHOZKVka8PnVblchp0dZbJ/Logout-Device?type=design&node-id=0-1&mode=design&t=AuQfpYIBNDWond9R-0)
 - [Collab Cycle ticket](https://app.zenhub.com/workspaces/collaboration-cycle-reviews-61d89e9e5f4c120011a0ad37/issues/gh/department-of-veterans-affairs/va.gov-team/66109)
-- [Mural board for note taking - TBD]()
+- [Mural board for note taking](https://app.mural.co/t/oddball4265/m/oddball4265/1697479225159/6a0d168b0c9bd95ad422a5250349bd8ecf71aa04)
 - [Recruitment diversity checker spreadsheet - TBD]()
 
 ## Planned Timeline
