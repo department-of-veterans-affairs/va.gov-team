@@ -3,16 +3,16 @@
 ## Overview
  
 ## Outcome Summary
-Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) will be able to use eCheck-in to verify their personal, emergency, and next-of-kin contact information and let staff know that they have arrived for their appointment.
+Veterans who have health appointments at VA facilities that use OH EHR software (formerly CERNER) will be able to use eCheck-in to verify their personal, emergency, and next-of-kin contact information, let staff know that they have arrived for their appointment, and submit a mileage-only travel reimbursement claim.
 
 ## Problem
-VA Facilities that use Oracle Health EHR software (instead of Vista) would like to offer Veterans the ability to use eCheck-in to verify their personal, emergency, and next-of-kin contact information and let staff know that they have arrived for their appointment. 
+VA Facilities that use Oracle Health EHR software (instead of Vista) would like to offer Veterans the ability to use eCheck-in to verify their personal, emergency, and next-of-kin contact information, let staff know that they have arrived for their appointment, and submit a mileage-only travel reimbursement claim.
 
 ## Desired Outcomes
-VA facilities that use Oracle Health EHR software can offer eCheck-in for Veterans to verify their personal, emergency, and next-of-kin contact information and let staff know that they have arrived for their appointment.
+eCheck-in is available to VA facilities that use Oracle Health EHR software.
 
 ## Undesired Outcomes
-VA facilities that use Oracle Health EHR software have no electronic way for Veterans to let staff know that they have arrived.
+eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 
 ## Measuring Success
 
@@ -37,8 +37,9 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
     - **We will send a status update to OH to let staff know the Veteran has arrived for their OH appointment**
 
 ### Not Included in the MVP
+- Veteran will NOT receive a Pre-Check-in link
 - Veteran wll NOT receive a reminder with an eCheck-in link 45 minutes before their OH appointment
-- We will not check to see if the Veteran's insurance needs to be reviewed before sending them a check-in link in response to them texting "check in" (STILL AN OPEN QUESTION ON THIS)
+- Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed (STILL AN OPEN QUESTION ON THIS)
 - We will not send a status update when the Veteran has started the check-in workflow
      
 ## Questions 
