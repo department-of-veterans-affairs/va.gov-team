@@ -848,6 +848,8 @@ Caretaker:
 
 What's { your / the applicant's } relationship to the Veteran they are connect to? (* Required)
 
+> (Error msg) You must select at least one relationship, so we can process your enrollement.
+
 ( ) { I'm / %%applicant's name%% is } the Veteran's spouse {if checked add marriage license to the application submitted page}
 
 ( ) { I'm / %%applicant's name%% is } the Veteran's surviving spouse {if checked add marriage license to the application submitted page}
@@ -868,6 +870,8 @@ What's { your / the applicant's } relationship to the Veteran they are connect t
 <summary>[H3] Applicant’s relationship to the me {Story 2}</summary>
 
 What's is your relationship to %%applicant's name%% (* Required)
+
+> (Error msg) You must select at least one relationship, so we can process your enrollement.
 
 ( ) %%applicant's name%% is my spouse {if checked add marriage license to the application submitted page}
 
@@ -905,7 +909,7 @@ Other health insurance::
 
 <details>
  <summary>
- [H3] [ [H3] Is %%applicant's name%% enrolled in Medicare (* Required) (Story 2 & 3) </summary>
+ [H3] Is %%applicant's name%% enrolled in Medicare (* Required) (Story 2 & 3) </summary>
 
 - ( ) %%applicant's name%% is enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of health Medicare card to the Application submitted page}
 - ( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
@@ -916,7 +920,7 @@ Other health insurance::
 
 </details>
 
-<summary> [ [H3] Are you enrolled in Medicare (* Required) (Story 1)< </summary>
+<summary>[H3] Are you enrolled in Medicare (* Required) (Story 1)</summary>
 
 - ( ) I am enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of Medicare card to the Application submitted page}
 - ( ) I am under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
@@ -938,7 +942,9 @@ Other health insurance::
 
 </details>
 
-<summary> [H3] Are you over the age of 65 and enrolled in or {link}[eligible for Medicare](https://www.hhs.gov/answers/medicare-and-medicaid/who-is-eligible-for-medicare/index.html)? (* Required) (Story 1)</summary>
+<details> 
+ 
+<summary>[H3] Do you yhave other health insurance? (* Required) (Story 1)</summary> (Story 1)</summary>
 
 - ( ) I have other health insurance {if checked add form 10-7959c to the Application submitted page} {if checked add copy of health insurance card page to the Application submitted page}
 - ( ) I don't have other health insurance
@@ -1193,12 +1199,13 @@ Your full name (* Required)
 
 Before your enrollment submission is complete you must mail in these supporting documents:
 
-{{ %%Veteran name%% }}
+#### [H3]{{ %%Veteran name%% }}
 Copy of the page from the VBA rating decision (optional)
 Copy of DD214 (Certificate of Release or Discharge from Active Duty) (optional)
 
 
-{{ %%applicant 1 name%% }}
+#### [H3]{{ %%applicant 1 name%% }}
+
 
 { if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license required%% }
 
@@ -1231,7 +1238,7 @@ Copy of DD214 (Certificate of Release or Discharge from Active Duty) (optional)
 {if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
 
-{{ %%applicant 2 name%% }}
+#### [H3] {{ %%applicant 2 name%% }}
 
 { if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license required%% }
 
@@ -1289,4 +1296,40 @@ Or fax it to: 303-331-7809
 You can print this confirmation page for your records
 
 { Buttons } Print this page
+
+
+---------------------------------------
+
+
+# Error messages in this form
+
+| New? | Field Type | Label | Form System or Custom | Approved by CAIA | Required message | Validation Message |
+|------|------------|-------|-----------------------|------------------|------------------|--------------------|
+
+| Y | radio | Which of these best describes you? | custom | | Select a response | |
+| Y | radio | Status of the Veteran you’re connected to  | custom | | Select a response | |
+| Y | radio | Status of the Veteran the applicant is connected to | custom | | Select a response | |
+| Y | radio | Does the Veteran you're connected to have a current mailing address? | custom | | Select a response | |
+| Y | radio | Do you have a current mailing address? | custom | | Select a response | |
+| Y | radio | Does the Veteran the applicant is connected to have a current mailing address? | custom | | Select a response | |
+| Y | radio | Does the Veteran you're connected to have a phone number? | custom | | Select a response | |
+| Y | radio | Do you have a phone number? | custom | | Select a response | |
+| Y | radio | Does the Veteran the applicant is connected to have a phone number? | custom | | Select a response | |
+| Y | radio | What's { your / %%applicant's name%%'s } relationship to the Veteran they are connect to? | custom | | You must select a relationship, so we can process the enrollment | |
+| Y | radio | What's is your relationship to %%applicant's name%% | custom | | You must select a relationship, so we can process the enrollment | |
+| Y | radio | Is %%applicant's name%% enrolled in Medicare | custom | | Select a response | |
+| Y | radio | Are you enrolled in Medicare? | custom | | Select a response | |
+| Y | radio | Does %%applicant's name%% have other health insurance? | custom | | Select a response | |
+| Y | radio | Do you have other health insurance? | custom | | Select a response | |
+| Y | text | Veteran's service number | custom | | Your Veteran Service Number must start with 0, 1, or 2 uppercase letters followed by 5 to 8 digits | |
+| N | text | First name | custom |  | Enter a first name |  |
+| N | text | Last name | custom |  | Enter a last name |  |
+| N | text | Country | Form system | | Country is required | |
+| N | text | Street address | Form system | | Street address is required | |
+| N | text | City | Form system | | City is required | |
+| N | Select | State | Form system | | Enter a valid State, Province, or Region | |
+| N | text | Postal code | Form system | | Postal code is required | |
+| N | text | Phone number | Form system | Y | | Enter a 10-digit phone number (with or without dashes) |
+| N | text | Email address | Form system | Y | | Enter a valid email address using the format email@domain.com. Your email address can have only letters, numbers, the @ symbol and a period, with no spaces. |
+| N | text | Social Security Number | custom |  | Enter a Social Security number | Enter a valid 9-digit Social Security number (dashes allowed) |
 
