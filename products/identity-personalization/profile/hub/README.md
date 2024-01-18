@@ -1,6 +1,6 @@
 # Feature Outline: Profile Hub
 
-**Last Updated: December 18, 2023** launch date
+**Last Updated: Jan 18, 2023** metrics section
 
 ### Communications
 
@@ -61,9 +61,8 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Analytics
 
-(TBD what to do with analytics based on outcome of usability research)
-- We need new tracking for GA on the profile menu
-- Reduce Search Terms for Profile Items w/in the Profile
+- Launch metrics can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
+- Click data can be found at the bottom left of [this dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128)
 
 ## Projects
 
