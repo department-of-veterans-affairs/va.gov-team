@@ -111,10 +111,6 @@ Veterans and family members of Veterans must currently download and fill out the
 - end to end data submission processes/storage and error handling
 - existing metrics
   
-#### Deliverables
-- Design:
-- Release:
-- Staging: 
 
 ### Key Decisions
 
