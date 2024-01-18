@@ -20,9 +20,7 @@ Returned when the request was processed successfully.
 
 **422 - Bad Request (Error)**
 
-Returned when the request failed validation, typically due to the user record missing a common name.
-
-- *What is a valid remediation step for this error?*
+Returned when the request failed validation, typically due to a verification issue due to the MPI record missing ICN or common name. Reach out to MPI to update data for repeated 422s.
 
 **500 - Server Error (Error)**
 
@@ -50,21 +48,32 @@ Returned when the server had trouble processing the request. All server errors a
 
 Requests to the `/update_provisioning` endpoint indicate the system has attempted to provision a user record in Sign up Service.
 
-- ***When does this endpoint get called?***
+This occurs when authentication begins at MyVAHealth (Cerner). The application creates a cookie used for determining whether a user
+should be redirected to the terms of use page or redirected back to MyVAHealth.
 
 ### Responses
 
 **200 - OK (Success)**
 
-Returned when the request was processed successfully.
+User has agreed to the latest document and is provisioned to Cerner, if eligible
 
 **201 - Created (Success)**
 
-Returned when the request was processed successfully.
+User has agreed to the latest document and is provisioned to Cerner, if eligible
+
+**406 - Not Acceptable (Success)**
+
+User has no Cerner association.
+
+**412 - Precondition Failed (Success)**
+
+Returned when the user has not agreed to or has opted out of the latest document version.
 
 **422 - Unprocessable Entity (Error)**
 
-This error code is returned when provisioning has failed, likely as a result of an integration issue between the backend and the Sign Up Service. Such errors are logged and investigated by the Identity team.
+Invalid Request. E.g., Invalid ICN, missing required provisioning request data in request body, or provisionUser set to false
+
+This error code is returned when provisioning has failed, likely as a result of a malformed request or an integration issue between the backend and the Sign Up Service. Such errors are logged and investigated by the Identity team.
 
 **500 - Server Error (Error)**
 
