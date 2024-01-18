@@ -113,14 +113,18 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
 
 #### [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
-- Status: In development
+- Status: Released to all VISNs on 12/5/2023
 - Purpose: Allow Veterans to submit a mileage-only travel reimbursement claim request for their trip to a VA health appointment as an alternative to submitting the claim through the kiosk, Beneficiary Travel Self Service System (BTSSS), or travel office
 - Functionality:
      - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
 
+#### Send Veterans via SMS eCheck-in Link 45-minutes Before Their Appointment
+- Status: Released to all VISNs on 12/5/2023
+- Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
+
 #### [Enable eCheck-in for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
 - Status: Mid April 2024 planned release
-- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) to use eCheck-in to verify their contact, emergency-contact, and next-of-kin information and let staff know that they have arrived.
+- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) to use eCheck-in to verify their personal, emergency, and next-of-kin contact information and let staff know that they have arrived.
 - Functionality:
      - Veteran, during the check-in window and once arriving for their appointment, uses their mobile device to text "check in" to a VA code
      - Veteran receives a customized link to the eCheck-in application
