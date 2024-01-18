@@ -106,7 +106,6 @@ We will keep track of participant demographic information (identified gender, ag
 - Regularly
 - Frequently
 
-
 ## Timeline
 - Submit for approval: 1/17/24
 - Pilot #1: Haven't rescheduled yet, but will be during the week of 1/16-1/19
