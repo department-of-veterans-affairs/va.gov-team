@@ -62,13 +62,14 @@ We will keep track of participant demographic information (identified gender, ag
 **Primary criteria (must-haves)**
 - 16 participants total, split into 4 groups of 4
 - Each group of 4 must have the following characteristics: 
-	- 2 participants have VA health care / 2 participants do not, but qualify with the screener
+	- 2 participants are My HealtheVet users (pass screener question 3) / 2 participants do not, but qualify with the screener questions 4 and 5.
  	- 2 participants are 55+ / 2 participants under age 55
   	- 1 participant self-identifies as having a cognitive disability
   	- 1 participant uses a screenreader during the study
 	- 1 participant uses pinch magnification
- 	- Split pretty evenly given the characteristics already listed here: 50% of participants will be testing on desktop and 50% will be testing on mobile phone.
-  - For recruiting: Over-index on mobile users  
+ 	- 2 participants will text on desktop / 2 on mobile 
+  - To end up with these numbers:
+  	- Over-index on mobile 
  	  
 **Important secondary criteria**
 - At least 6 who identify as a race other than white/caucasian
