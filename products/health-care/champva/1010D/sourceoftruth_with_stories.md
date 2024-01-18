@@ -263,11 +263,16 @@ We process applications in the order we receive them. We may contact you if we h
 
 #### [H3] 5. Decision
 After you’ve applied for CHAMPVA, we’ll send you a letter in the mail to let you know if your application has been approved.
+
+
 How long will it take to hear back about my application?
+
 If you send us all required and optional documents—and if your application is complete—it’ll take about 6 weeks after we get your package until you get your CHAMPVA ID card and related materials.
+
 If you submit the application without the optional documents, it may take 2 to 8 months since we’ll need to confirm your information with other federal agencies.
 
 { Informational alert }
+
 ### [H2] Sign in now to save your work in progress
 
 
@@ -276,25 +281,27 @@ Here’s how signing in now helps you:
 - You can save your work in progress. You’ll have 60 days from when you start or make updates to your application to come back and finish it.
 
 
-**Note:** You can sign in after you start filling out your form. But you’ll lose any information you already filled in.
+**Note:** You can sign in after you start filling out your form.
 
 
 { Button } Sign in to start filling out your form
+
 { Link } Start your form without signing in
+
 
 { End informational alert }
 
 
-Respondent burden: 15 minutes
+Respondent burden: 15 minutes < !-- Is this still accurate --->
 
 
 OMB Control #: 2900-0009
 
 
-Expiration date: 11/30/2022
+Expiration date: 11/30/2025 < !-- what is the correct exp date --->
 
 
-[View Privacy Act Statement]
+{ Button } Read Privacy Act statement
 
 
 
@@ -303,7 +310,7 @@ Expiration date: 11/30/2022
 
 **If you need help gathering your information or filling out this form,** contact a local Veterans Service Organization (VSO).
 
-{Link} [Find a local Veterans Service Organization](https://www.va.gov/vso/)
+{ Link } [Find a local Veterans Service Organization](https://www.va.gov/vso/)
 
 
 ### [H2] Get more information
@@ -315,7 +322,7 @@ Find out if you can get care at a local VA medical center when you’re covered 
 
 ## [H1] Apply for CHAMPVA benefits
 
-{subtitle} Form 10-10d
+{ subtitle } Form 10-10d
 
 ## Step 1 of 4: Your identity
 
@@ -349,12 +356,12 @@ An authorized power of attorney can fill out this request for the person with th
 
 <br />
 
-{if third party signer}
+{ if third party signer }
 
 <details>
 <summary>[H3] Signer’s identity (Story 3)</summary>
 
-{hint text} We use this information to contact the signer of this form and verify other details.
+{ hint text } We use this information to contact the signer of this form and verify other details.
 
 First name (* Required)  
 Middle name  
@@ -368,7 +375,7 @@ Suffix
 <details>
 <summary>[H3] Signer’s mailing address (Story 3)</summary>
 
-{hint text} We’ll send any updates about your signer certification to this address.
+{ hint text } We’ll send any updates about your signer certification to this address.
 
 Country (* Required)   
 Street address     
@@ -392,7 +399,7 @@ Email address
 
 </details>
 
-{end if third party signer}
+{ end if third party signer }
 
 <br />
 
@@ -437,7 +444,7 @@ VA file number
 
 
 <details>
-<summary>[H3] Status of the Veteran you’re connected to {Story 1}</summary>
+<summary>[H3] Status of the Veteran you’re connected to { Story 1 }</summary>
 
 
 Is the Veteran that you are connected to still living? (*Required)
@@ -453,7 +460,7 @@ Is the Veteran that you are connected to still living? (*Required)
 
 
 <details>
- <summary> [H3] Status of the Veteran the applicant is connected to {Story 3}</summary>
+ <summary> [H3] Status of the Veteran the applicant is connected to { Story 3 }</summary>
 
 
 Is the Veteran the applicant is connected to still living? (*Required)
@@ -473,7 +480,7 @@ Is the Veteran the applicant is connected to still living? (*Required)
 
 
 <details>
- <summary>[H3]Status of the Veteran you’re connected to {Story 1}</summary> 
+ <summary>[H3] Status of the Veteran you’re connected to { Story 1 }</summary> 
  
      
 Did the Veteran you’re connected to pass away on active military service? (* Required)   
@@ -491,7 +498,7 @@ M/D/Y
 
 
 <details>
- <summary> ### [H3] Status of the Veteran you’re connected to {Story 3} </summary>
+ <summary>[H3] Status of the Veteran you’re connected to { Story 3 } </summary>
  
      
 Date of death (*Required)   
@@ -560,11 +567,11 @@ Did the Veteran the applicant is connected to pass away on active military servi
 
 </details>
 
-{if mailing address}
+{ if mailing address }
 
 <details>
 
- <summary>[H3] Mailing address of the Veteran you’re connected to {Story 1}</summary>
+ <summary>[H3] Mailing address of the Veteran you’re connected to { Story 1 }</summary>
 
 
 - [ ] Veteran lives on a United States military base outside of the country.
@@ -589,7 +596,7 @@ Postal code (* Required)
 </details>
 
 <details>
-<summary> [H3] Your mailing address {Story 2}</summary>
+<summary> [H3] Your mailing address { Story 2 }</summary>
 
 
 - [ ] I live on a United States military base outside of the country.
@@ -615,7 +622,7 @@ Postal code (* Required)
 
 <details>
 
-<summary>[H3] Mailing address of the Veteran the applicant is connected to {Story 3}</summary>
+<summary>[H3] Mailing address of the Veteran the applicant is connected to { Story 3 }</summary>
 
 
 - [ ] Veteran lives on a United States military base outside of the country.
@@ -639,15 +646,15 @@ Postal code (* Required)
 
 </details>
 
-{if mailing address}
+{ if mailing address }
 
 
 <details>
- <summary>[H3] Contact info of the Veteran you’re connected to {Story 1}</summary>
+ <summary>[H3] Contact info of the Veteran you’re connected to { Story 1 }</summary>
 
 Does the Veteran you're connected to have a phone number? (* Required)
 
-{hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
+{ hint text } If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
 
 ( ) Yes, the Veteran has a phone number.
 
@@ -658,12 +665,12 @@ Does the Veteran you're connected to have a phone number? (* Required)
 </details>
 
 <details>
- <summary>[H3] Your contact information {Story 2}</summary>
+ <summary>[H3] Your contact information { Story 2 }</summary>
 
 
 Do you have a phone number? (* Required)
 
-{hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a phone number for this request.
+{ hint text } If we have a way to contact you, we'll be able to process this request faster. But we don't require a phone number for this request.
 
 
 ( ) Yes, I have a phone number.
@@ -676,13 +683,13 @@ Do you have a phone number? (* Required)
 
 
 <details>
- <summary>[H3] Contact info of the Veteran the applicant is connected to {Story 3}</summary>
+ <summary>[H3] Contact info of the Veteran the applicant is connected to { Story 3 }</summary>
 
 
 Does the Veteran the applicant is connected to have a phone number? (* Required)
 
 
-{hint text} If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
+{ hint text } If we have a way to contact the Veteran, we'll be able to process this request faster. But we don't require a phone number for this request.
 
 
 ( ) Yes, the Veteran has a phone number.
@@ -694,10 +701,10 @@ Does the Veteran the applicant is connected to have a phone number? (* Required)
 </details>
 
 
-{if phone number}
+{ if phone number }
 
 <details>
-<summary>[H3] Phone number of the Veteran you’re connected to {Story 1}</summary>
+<summary>[H3] Phone number of the Veteran you’re connected to { Story 1 }</summary>
 
 
 Home phone number (*Required)
@@ -710,7 +717,7 @@ Mobile phone number
 </details>
 
 <details>
-<summary>[H3] Your phone number {Story 2}</summary>
+<summary>[H3] Your phone number { Story 2 }</summary>
 
 
 Home phone number (*Required)
@@ -723,7 +730,7 @@ Mobile phone number
 </details>
 
 <details>
-<summary>[H3] Phone number of the Veteran the applicant is connected to {Story 1}</summary>
+<summary>[H3] Phone number of the Veteran the applicant is connected to { Story 3 }</summary>
 
 Home phone number (*Required)
 
@@ -732,20 +739,20 @@ Mobile phone number
 { Buttons } Back / Continue
 
 </details>
-{end if phone number}
+{ end if phone number }
 
 { end if Veteran is living }
 
 ---------------------------------------
 
-{Alert Box]
+{ Alert Box ]
 #### [H3] Section complete
 
 The Veteran information has been completed. You could sign in to save your progress
 
-{End Alert Box]
+{ End Alert Box ]
 
-{Information Box]
+{ Information Box }
 #### [H3] Sign in now to save your work in progress
 
 Here’s how signing in now helps you:
@@ -753,11 +760,11 @@ Here’s how signing in now helps you:
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
   
-{End Information Box]
+{ End Information Box ]
 
-{Button} Sign in to save your application
+{ Button } Sign in to save your application
 
-{Link} Continue without signing in
+{ Link } Continue without signing in
 
 { Buttons } Back / Continue
 
@@ -809,14 +816,14 @@ Postal code (* Required)
 { Buttons } Back / Continue
 
 
-[H3] { Applicant's/ Your / Applicant's } phone number
+[H3] { Your / %%applicant's name%%'s / %%applicant's name%%'s } phone number
 
 Phone number (* Required)
 
 { Buttons } Back / Continue
 
 
-{Information box]
+{ Information box }
 ### {Alert title} Notice: Applicant may require additional documentation
 
 Depending on { Your / %%applicant's name%%'s / %%applicant's name%%'s } relationship to the Veteran, we may require additional documents to verify eligibility.
@@ -834,17 +841,17 @@ Child:
 - School certification (if between ages 18 - 24)
 
 Caretaker:
-< !--- find out if there is any document needed for caretakers --->
-- Document Placeholder
+< !--- find out if there is any document needed for caretakers 
+- Document Placeholder -->
 
 
 
-{End information box}
+{ End information box }
 
 
 <details> 
 
-<summary>[H3] Applicant’s relationship to the Veteran {Story 1 & 3}</summary>
+<summary>[H3] Applicant’s relationship to the Veteran { Story 1 & 3 }</summary>
 
 What's { your / the applicant's } relationship to the Veteran they are connect to? (* Required)
 
@@ -867,15 +874,15 @@ What's { your / the applicant's } relationship to the Veteran they are connect t
 </details>
 
 <details>
-<summary>[H3] Applicant’s relationship to the me {Story 2}</summary>
+<summary>[H3] Applicant’s relationship to the Veteran { Story 2 }</summary>
 
 What's is your relationship to %%applicant's name%% (* Required)
 
 > (Error msg) You must select at least one relationship, so we can process your enrollement.
 
-( ) %%applicant's name%% is my spouse {if checked add marriage license to the application submitted page}
+( ) %%applicant's name%% is my spouse { if checked add marriage license to the application submitted page }
 
-( ) %%applicant's name%% is my child (includes legitimate, adopted, illegitimate, and stepchildren)  {if checked add birth certificate to the application submitted page} {if the applicant is age 18-23 add school certificate to the application submitted page}
+( ) %%applicant's name%% is my child (includes legitimate, adopted, illegitimate, and stepchildren)  { if checked add birth certificate to the application submitted page} {if the applicant is age 18-23 add school certificate to the application submitted page }
 
 ( ) %%applicant's name%% is my caretaker
 
@@ -885,15 +892,15 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 </details>
 
-{Information box]
-### {Alert title} Notice: Applicant may require additional documentation
+{ Information box }
+### { Alert title } Notice: Applicant may require additional documentation
 
 Depending on { Your / %%applicant's name%%'s / %%applicant's name%%'s } health insurance status, we may require additional documents to verify eligibility.
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
 
 
-Medicare:
+ Medicare:
 
 - A COPY of of the applicant's Medicare card
 
@@ -904,27 +911,15 @@ Other health insurance::
 
 
 
-{End Information box}
-
+{ End Information box }
 
 <details>
- <summary>
- [H3] Is %%applicant's name%% enrolled in Medicare (* Required) (Story 2 & 3) </summary>
+ 
+<summary>[H3] Are you enrolled in Medicare (* Required) { Story 1 }</summary>
 
-- ( ) %%applicant's name%% is enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of health Medicare card to the Application submitted page}
-- ( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
-- ( ) %%applicant's name%% doesn't have Medicare
-
-
-{ Buttons } Back / Continue
-
-</details>
-
-<summary>[H3] Are you enrolled in Medicare (* Required) (Story 1)</summary>
-
-- ( ) I am enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of Medicare card to the Application submitted page}
-- ( ) I am under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
-- ( ) I don't have Medicare
+( ) I am enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of Medicare card to the Application submitted page}
+( ) I am under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
+( ) I don't have Medicare
 
 { Buttons } Back / Continue
 
@@ -933,35 +928,51 @@ Other health insurance::
 
 <details>
  <summary>
- [H3] Does %%applicant's name%% have other health insurance? (* Required) (Story 2 & 3) </summary>
+ [H3] Is %%applicant's name%% enrolled in Medicare (* Required) { Story 2 & 3 } </summary>
 
-- ( ) %%applicant's name%% has other health insurance {if checked add form 10-7959c to the Application submitted page} {if checked add copy of health insurance card page to the Application submitted page}
-- ( ) %%applicant's name%% doesn't have other health insurance
+( ) %%applicant's name%% is enrolled in Medicare { if checked add form 10-7959c to the Application submitted page } { if checked add copy of health Medicare card to the Application submitted page }
+( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
+( ) %%applicant's name%% doesn't have Medicare
+
 
 { Buttons } Back / Continue
 
 </details>
+
 
 <details> 
  
-<summary>[H3] Do you yhave other health insurance? (* Required) (Story 1)</summary> (Story 1)</summary>
+<summary>[H3] Do you have other health insurance? (* Required) { Story 1 }</summary>
 
-- ( ) I have other health insurance {if checked add form 10-7959c to the Application submitted page} {if checked add copy of health insurance card page to the Application submitted page}
-- ( ) I don't have other health insurance
+( ) I have other health insurance { if checked add form 10-7959c to the Application submitted page} {if checked add copy of health insurance card page to the Application submitted page }
+( ) I don't have other health insurance
 
 { Buttons } Back / Continue
 
 </details>
 
 
-{Alert Box]
+<details>
+ <summary>
+ [H3] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
+
+( ) %%applicant's name%% has other health insurance { if checked add form 10-7959c to the Application submitted page } { if checked add copy of health insurance card page to the Application submitted page }
+( ) %%applicant's name%% doesn't have other health insurance
+
+{ Buttons } Back / Continue
+
+</details>
+
+
+
+{ Alert Box }
 #### [H3] Applicant added
 
 %%applicant's name%% has been added. You could sign in to save your progress
 
-{End Alert Box]
+{ End Alert Box }
 
-{Information Box]
+{ Information Box }
 #### [H3] Sign in now to save your work in progress
 
 Here’s how signing in now helps you:
@@ -969,11 +980,11 @@ Here’s how signing in now helps you:
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
   
-{End Information Box]
+{ End Information Box }
 
-{Button} Sign in to save your application
+{ Button } Sign in to save your application
 
-{Link} Continue without signing in
+{ Link } Continue without signing in
 
 { Buttons } Back / Continue
 
@@ -987,7 +998,7 @@ Here’s how signing in now helps you:
 
 ---------------------------------------
 
-{ if applicants to add loop}
+{ if applicants to add loop }
 
 [H3] %%applicant's name%%'s name and date of birth
 
@@ -1040,8 +1051,8 @@ Phone number (* Required)
 { Buttons } Cancel adding applicant / Back / Continue
 
 
-{Information box]
-### {Alert title} Notice: Applicant may require additional documentation
+{ Information box }
+### { Alert title } Notice: Applicant may require additional documentation
 
 Depending on %%applicant's name%%'s relationship to the Veteran, we may require additional documents to verify eligibility.
 
@@ -1061,20 +1072,20 @@ Caretaker:
 
 
 
-{End information box}
+{ End information box }
 
 
-[H3] %%applicant's name%% relationship to the Veteran </summary>
+[H3] %%applicant's name%% relationship to the Veteran
 
 What's %%applicant's name%%'s relationship to the Veteran they are connected to? (* Required)
 
-( ) %%applicant's name%% is the Veteran's spouse {if checked add marriage license to the application submitted page}
+( ) %%applicant's name%% is the Veteran's spouse { if checked add marriage license to the application submitted page }
 
-( ) %%applicant's name%% was the Veteran's spouse {if checked add marriage license to the application submitted page}
+( ) %%applicant's name%% was the Veteran's spouse { if checked add marriage license to the application submitted page }
 
-( ) %%applicant's name%% was the Veteran's spouse but remarried after the age of 55 {if checked add the legal document that ended your marriage to the application submitted page}
+( ) %%applicant's name%% was the Veteran's spouse but remarried after the age of 55 { if checked add the legal document that ended your marriage to the application submitted pag e}
 
-( ) %%applicant's name%%t is the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren) {if checked add birth certificate to the application submitted page} {if the applicant is age 18-23 add school certificate to the application submitted page}
+( ) %%applicant's name%%t is the Veteran's child (includes legitimate, adopted, illegitimate, and stepchildren) { if checked add birth certificate to the application submitted page } { if the applicant is age 18-23 add school certificate to the application submitted page }
 
 ( ) %%applicant's name%% is the Veteran's caretaker
 
@@ -1083,8 +1094,8 @@ What's %%applicant's name%%'s relationship to the Veteran they are connected to?
 { Buttons } Cancel adding applicant / Back / Continue
 
 
-{Information box]
-### {Alert title} Notice: Applicant may require additional documentation
+{ Information box }
+### { Alert title } Notice: Applicant may require additional documentation
 
 Depending on %%applicant's name%%'s health insurance status, we may require additional documents to verify eligibility.
 
@@ -1102,14 +1113,14 @@ Other health insurance::
 
 
 
-{End Information box}
+{ End Information box }
 
 
- [H3] Is %%Applicant's First Name%% enrolled in Medicare (* Required) </summary>
+ [H3] Is %%Applicant's First Name%% enrolled in Medicare (* Required) 
 
-- ( ) %%applicant's name%% is enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of Medicare card to the Application submitted page}
-- ( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
-- ( ) %%applicant's name%% doesn't have Medicare
+( ) %%applicant's name%% is enrolled in Medicare { if checked add form 10-7959c to the Application submitted page} {if checked add copy of Medicare card to the Application submitted page }
+( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare }
+( ) %%applicant's name%% doesn't have Medicare
 
 
 { Buttons } Back / Continue
@@ -1118,8 +1129,8 @@ Other health insurance::
 
  [H3] Does %%applicant's name%% have other health insurance? (* Required)  </summary>
 
-- ( ) %%applicant's name%% has other health insurance {if checked add form 10-7959c to the Application submitted page} {if checked add copy of health insurance card to the Application submitted page}
-- ( ) %%applicant's name%% doesn't other health insurance
+( ) %%applicant's name%% has other health insurance { if checked add form 10-7959c to the Application submitted page } { if checked add copy of health insurance card to the Application submitted page }
+( ) %%applicant's name%% doesn't other health insurance
 
 { Buttons } Cancel adding applicant / Back / Continue
 
@@ -1132,18 +1143,18 @@ Other health insurance::
 { Buttons } Cancel adding applicant / Back / Continue
 
 
-{end if applicants to add loop}
+{ end if no applicants to add loop }
 
 ---------------------------------------
 
-{Alert Box]
+{ Alert Box }
 #### [H3] Section complete
 
 The applicant information has been completed. You could sign in to save your progress.
 
-{End Alert Box]
+{ End Alert Box }
 
-{Information Box]
+{ Information Box }
 #### [H3] Sign in now to save your work in progress
 
 Here’s how signing in now helps you:
@@ -1151,11 +1162,11 @@ Here’s how signing in now helps you:
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
   
-{End Information Box]
+{ End Information Box }
 
-{Button} Sign in to save your application
+{ Button } Sign in to save your application
 
-{Link} Continue without signing in
+{ Link } Continue without signing in
 
 { Buttons } Back / Continue
 
@@ -1195,47 +1206,47 @@ Your full name (* Required)
 
 ## [H1] Confirmation page ##
 
-### [H2] You’ve submitted your CHAMPVA Benefits Enrollment Form
+### [H2] You’ve completed this portion of the your CHAMPVA benefits enrollment form
 
 Before your enrollment submission is complete you must mail in these supporting documents:
 
-#### [H3]{{ %%Veteran name%% }}
+#### [H3] {{ %%Veteran name%% }}
 Copy of the page from the VBA rating decision (optional)
 Copy of DD214 (Certificate of Release or Discharge from Active Duty) (optional)
 
 
-#### [H3]{{ %%applicant 1 name%% }}
+#### [H3] {{ %%applicant 1 name%% }}
 
 
 { if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license required%% }
 
 { if checked I / the applicant is the Veteran's surviving spouse add %%Copy of marriage license required%% }
 
-{if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage%% } 
+{ if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage%% } 
 
-{if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+{ if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
 
-{if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+{ if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
 
-{if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+{ if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
-{if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+{ if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
-{if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+{ if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
 
-{if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+{ if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
 
-{if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card%% } 
+{ if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card%% } 
 
-{if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
-{if checked I have other health insurance add %% Copy of front and back or other health insurance card %% } 
+{ if checked I have other health insurance add %% Copy of front and back or other health insurance card %% } 
 
-{if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
 
 #### [H3] {{ %%applicant 2 name%% }}
@@ -1244,31 +1255,31 @@ Copy of DD214 (Certificate of Release or Discharge from Active Duty) (optional)
 
 { if checked I / the applicant is the Veteran's surviving spouse add %%Copy of marriage license required%% }
 
-{if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage%% } 
+{ if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage%% } 
 
-{if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+{ if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
 
-{if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+{ if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
 
-{if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+{ if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
-{if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+{ if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
-{if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+{ if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
 
-{if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+{ if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
 
-{if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card%% } 
+{ if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card%% } 
 
-{if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
-{if checked I have other health insurance add %% Copy of front and back or other health insurance card %% } 
+ {if checked I have other health insurance add %% Copy of front and back or other health insurance card %% } 
 
-{if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+{ if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
 
 
 
