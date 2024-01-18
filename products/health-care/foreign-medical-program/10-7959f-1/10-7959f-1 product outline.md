@@ -13,18 +13,19 @@ How might we improve the experience of Veterans living overseas who are applying
 
 - Veterans are able to fill out the registration form online on VA.gov
 - Veterans reduce the time, effort and costs spent filling out and mailing paperwork
-- The time spent waiting to hear back on application for the Veteran
+- The time spent waiting to hear back on application status is reduced for the Veteran
 
 ## Undesired User Outcomes
 
 - Veterans are confused or uncertain around the steps in the process or how to apply online
 - Veterans encounter errors during the online application process or the application does not submit
-- Veterans have low confidence in the online process
+- Veterans have low confidence in the online process or have concerns around online security
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Reduce the volume of paperwork being processed that comes in through mail and fax
+- Reduce the time and effort spent processing paper forms
+- Reduce the amount of resubmissions due to missing information or documents
 
 ## Undesired Business Outcomes
 
