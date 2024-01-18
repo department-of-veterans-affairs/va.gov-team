@@ -106,7 +106,10 @@ Collaboration Cycle
 ## Solution Narrative
 
 ### Current Status
-Key deliverables
+Key deliverables:
+- design
+- research
+- testing
 ### Key Decisions
 ### Key Dates
 ---
