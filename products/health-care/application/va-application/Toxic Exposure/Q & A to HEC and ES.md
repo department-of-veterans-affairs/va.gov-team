@@ -1,31 +1,37 @@
 # Questions and Answers to HEC Stakeholders and Enrollment System teams 
+- NOTE: The answers to these questions are as they are understood at the point in time, and may be subject to change.
 
 ### Veteran behavior/staff processing
-- [ ] What is the main goal?
-     - [ ] **Jessie** - VBA/VHA working together. Benefit is gather as much info as possible, to get Veteran in higher priority group.  If VHA cant determine TERA, VBA will assist with research to get Veteran in better PG.  VHA can determine - PG6, if not, then VBA will get a request to assist.  Target Audience - Veterans in PG7 or PG8, or Veterans who may not be eligible at all (Deferred).
-- [ ] Do we need to gather all the applicable data for these questions?
-     - [ ] 
-- [ ] Are all the questions *required?
-     - [ ] Jessie Questions are optional
-- [ ] Can the Veteran only answer one of the questions that meets eligibility criteria without having to fill out everything that applies?
-     - [ ] Jessie - Need one qualifying event to get into PG6
-     - [ ] Jessie - May want to encourage to answer all that could apply - the more info provided is better
-     - [ ] Taccara - Each question is directed to a diff cohort (location, exposure, contingent), Answer any of them can validate them to move to a higher PG
-     - [ ] Tacarra - almost like a safeguard, a fallback in case any other status is lost.
-- [ ] Will answering all the questions/data provide a different outcome for the Veteran applying for health care?
+- [x] 1. What is the main goal?
+     - **Jessie 1/18/24** - Benefit is gather as much info as possible, to get Veteran in higher priority group. (related to section 103 of the PACT Act)
+          - If VHA CAN determine TERA, priority group 6
+          - If VHA cant determine TERA, VHA will submit a request to VBA to assist with research to get Veteran in better PG.
+          - Target Audience - Veterans in PG7 or PG8, or Veterans who may not be eligible at all (Deferred).
+- [x] 2. Do we need to gather all the applicable data for these questions?
+     - Answered in #4 below
+- [x] 3. Are all the questions *required?
+     - **Jessie 1/18/24** - Questions are optional
+- [x] 4. Can the Veteran only answer one of the questions that meets eligibility criteria without having to fill out everything that applies?
+     - **Jessie 1/18/24** - Need one qualifying event to get into PG6
+     - **Jessie 1/18/24** - May want to encourage to answer all that could apply - the more info provided is better
+     - **Taccara 1/18/24** - Each question is directed to a diff cohort (location, exposure, contingent), Answer any of them can validate them to move to a higher PG
+     - **Taccara 1/18/24** - The information is almost like a safeguard, a fallback in case any other status is lost.
+- [x] 5. Will answering all the questions/data provide a different outcome for the Veteran applying for health care?
+     - (Summarizing from Answer to Question 4) No, if the Veteran qualifies with one TERA event, that is not different than qualifying for all TERA events.
+     - Still would like to have all the applicable information, as stated in Question 4 above
+- [ ] 6. What about impact to existing short form flow?
+     - [ ] 6a. Do those who answer yes to having a rating of 50% or higher need to answer these new Toxic Exposure questions going forward?
+          - PENDING - Need SME advisement
+     - [ ] 6b. How does that impact the outcome for the Veteran getting health care?
+          - PENDING
+- [x] 7. Same question, but for those with 10-40% - should they answer the exposure questions or will that not impact their enrollment prioritization?
+     - Answered in Question 4
 
-- [ ] What about impact to existing short form flow?
-     - [ ] Do those who answer yes to having a rating of 50% or higher need to answer these new Toxic Exposure questions going forward?
-          - [ ] Need SME advisement
-     - [ ] How does that impact the outcome for the Veteran getting health care?
-          - [ ] 
-- [ ] Same question, but for those with 10-40% - should they answer the exposure questions or will that not impact their enrollment prioritization?
-     - [ ] 
-
-Did get info on forms, working on Edits now on draft.
-CHg req in for VES to receive this data - forcasted for March
-Jessie - will ask for volumes of EZR
-Jessie - VHA will be getting access to ILER, to help with research maybe
-Tacarra - Can view VBA adjudications
+**Jessie 1/18/24** - Believe that VHA will be getting access to ILER, to help with research (This is not confirmed)
+**Tacarra 1/18/24** - Can view VBA adjudications, but not aware of any VBA/VHA system integrations
 
 ### System behavior
+- [ ] Did we get confirmation that the enrollment system will be set up to receive this info?
+     -  **Jessica 1/18/24** needs to check with Simone
+     -  **Shana 1/18/24** said she thinks there is already a request for this - forecasted for March but not sure, she will verify
+     
