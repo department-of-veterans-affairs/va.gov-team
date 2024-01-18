@@ -8,7 +8,7 @@
 Are you the spouse, surviving spouse, child or caretaker of a Veteran who is permanently and totally disabled or a Veteran who has died? If you don’t qualify for TRICARE (the Department of Defense’s health care program for active-duty and retired service members and their families), you may be able to get health benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA). Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing.
 <br/>
 ###  [H2] What benefits do I get with CHAMPVA?
-You may use CHAMPVA as a standalone service or as an additional health benefits to your other health insurance or Medicare.
+You may use CHAMPVA as a standalone service or as an additional health benefit to your other health insurance or Medicare.
 
 
 With CHAMPVA, you’ll be covered for services and supplies when we determine they are medically necessary and were received from an authorized provider. When providers are performing services within the scope of their license or certification, we consider them to be authorized.
@@ -34,7 +34,7 @@ When you’re signed up for CHAMPVA, you’ll get a copy of the CHAMPVA Program 
 { Link }[Download fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
 
 ###  [H2] How is CHAMPVA different from other health Insurance?
- <! --- need to add some content here if this section has more evidnece that it would be valueable to the applicants --->
+ <! --- need to add some content here if this section has more evidence that it would be valuable to the applicants --->
 
 
 ###  [H2] Am I eligible for health benefits through CHAMPVA?
@@ -128,7 +128,7 @@ You can start your application for benefits online right now.
 
  <summary>Other Health Insurance Certification (VA Form 10-7959c)</summary>
  
-These are documents related to your Medicare status or other health insurance benefits that you may be receiving. These would the completed 10-7959c form, a copy or photo of the front and back Medicare Card, a copy or photo of the front and back Insurance carrier Card. Instructions on if you need to complete this form will be given when you fill out the CHAMPVA Benefits enrollment form.
+These are documents related to your Medicare status or other health insurance benefits that you may be receiving. These would be the completed 10-7959c form, a copy or photo of the front and back Medicare Card, a copy or photo of the front and back Insurance carrier Card. Instructions on if you need to complete this form will be given when you fill out the CHAMPVA Benefits enrollment form.
 
 </details>
 
@@ -422,7 +422,7 @@ M/D/Y
 
 
 
-[H3] { Veteran you're connected to's / Your / Applicant's } Social Security number
+[H3] { Veteran you're connected to / Your / Applicant's } Social Security number
 
 
 
@@ -456,7 +456,7 @@ Is the Veteran that you are connected to still living? (*Required)
  <summary> [H3] Status of the Veteran the applicant is connected to {Story 3}</summary>
 
 
-Is the Veteran of the applicant is connected to still living? (*Required)
+Is the Veteran the applicant is connected to still living? (*Required)
 
 ( ) Yes, the Veteran of the applicant is connected to is still living
 
@@ -821,7 +821,7 @@ Phone number (* Required)
 
 Depending on { Your / %%applicant's name%%'s / %%applicant's name%%'s } relationship to the Veteran, we may require additional documents to verify eligibility.
 
-We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
 
 
 Spouse:
@@ -871,7 +871,7 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 ( ) %%applicant's name%% is my spouse {if checked add marriage license to the application submitted page}
 
-( ) %%applicant's name%% is my child (includes legitimate, adopted, illegitimate, and stepchildren)  {if checked add birth certificate to the application submitted page} {if the applicant is age 18-23 add school certicaficate to the application submitted page}
+( ) %%applicant's name%% is my child (includes legitimate, adopted, illegitimate, and stepchildren)  {if checked add birth certificate to the application submitted page} {if the applicant is age 18-23 add school certificate to the application submitted page}
 
 ( ) %%applicant's name%% is my caretaker
 
@@ -886,7 +886,7 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 Depending on { Your / %%applicant's name%%'s / %%applicant's name%%'s } health insurance status, we may require additional documents to verify eligibility.
 
-We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
 
 
 Medicare:
@@ -1039,7 +1039,7 @@ Phone number (* Required)
 
 Depending on %%applicant's name%%'s relationship to the Veteran, we may require additional documents to verify eligibility.
 
-We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 
 Spouse:
@@ -1060,7 +1060,7 @@ Caretaker:
 
 [H3] %%applicant's name%% relationship to the Veteran </summary>
 
-What's %%applicant's name%%'s relationship to the Veteran they are connect to? (* Required)
+What's %%applicant's name%%'s relationship to the Veteran they are connected to? (* Required)
 
 ( ) %%applicant's name%% is the Veteran's spouse {if checked add marriage license to the application submitted page}
 
@@ -1082,12 +1082,12 @@ What's %%applicant's name%%'s relationship to the Veteran they are connect to? (
 
 Depending on %%applicant's name%%'s health insurance status, we may require additional documents to verify eligibility.
 
-We will need you to mail copies of the these documents to the the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
 
 
 Medicare:
 
-- A COPY of the applicant's Medicare card. If %%applicant's name%% is 65 years old or older and don’t qualify for Medicare, you’ll need to send us documentation from the Social Security Administration that confirms they don’t qualify for Medicare benefits under anyone’s Social Security number.
+- A COPY of the applicant's Medicare card. If %%applicant's name%% is 65 years old or older and doesn't qualify for Medicare, you’ll need to send us documentation from the Social Security Administration that confirms they don’t qualify for Medicare benefits under anyone’s Social Security number.
 
 Other health insurance::
 
@@ -1121,7 +1121,7 @@ Other health insurance::
 
 [H3] Are there any other applicants to add? (*Required)
 ( ) Yes, I have more applicant's to add
-( ) No, I don't have anymow applicant's to add
+( ) No, I don't have anymore applicant's to add
 
 { Buttons } Cancel adding applicant / Back / Continue
 
@@ -1161,7 +1161,7 @@ Here’s how signing in now helps you:
 
 I understand that I may be asked to confirm the truthfulness of the answers to the best of my knowledge under penalty of perjury. 
 
-I also understand that VA may request further documentation or evidence to verify or confirm the applicant's eligiblity: 
+I also understand that VA may request further documentation or evidence to verify or confirm the applicant's eligibility: 
 
 - The page from the VBA rating decision showing your Veteran is permanently and totally disabled (or the death rating if you’re a survivor)
 - Your Veteran’s DD214 (Certificate of Release or Discharge from Active Duty)—or, if the Veteran was a World War II or Korean War Veteran, the Report of Separation. If you don’t have a copy of the necessary form, you can request it by submitting a Standard Form 180, Request Pertaining to Military Records, from the National Archives. Find out how to request military service records online, by mail, or by fax
@@ -1289,7 +1289,4 @@ Or fax it to: 303-331-7809
 You can print this confirmation page for your records
 
 { Buttons } Print this page
-
-
-
 
