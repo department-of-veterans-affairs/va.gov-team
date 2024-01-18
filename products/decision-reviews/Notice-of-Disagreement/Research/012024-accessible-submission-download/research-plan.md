@@ -73,11 +73,11 @@ What are you trying to learn from this research?
 Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
 For moderated usability tests:
--   [Link to conversation guide](#) In Progress
--   [Link to staging URL](#) In Progress
+-   [Link to conversation guide]([#](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/conversation-guide.md))
+-   [Link to staging URL](https://staging.va.gov/decision-reviews/submitted-appeal/)
 
 ## Recruitment
-[Link to recruitment request](#) In Progress
+[Link to recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/467)
 
 ### Recruitment approach
 Inclusive recruitment prioritizing a full sample of **Veterans that use screen readers due to low vision or blindness**.
