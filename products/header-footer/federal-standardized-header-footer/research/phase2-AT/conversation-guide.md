@@ -166,6 +166,10 @@ Let’s start with a few questions...
 
 1. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
     - *(If **Dophin** screen reader, won't be able to share screen on Zoom)*
+    - *(if no AT)* Do you sometimes use assistive technology? 
+      - If so, what do you use and when? 
+        - Would you be willing to start using it now in this session? 
+        - *(if not, run session w/o AT, or maybe stop and ask Perigean for a replacement participant)*
 
 1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
 
