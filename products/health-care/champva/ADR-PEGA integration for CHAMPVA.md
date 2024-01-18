@@ -20,6 +20,8 @@ The benefits API was considered and has been ruled out due to a lack of business
 
 We also explored using an API to submit directly to VES, similar to the pattern used for forms like 10-10EZ that are also within VHA. If this were technically feasible, it would bypass multiple business processes (eligibility, claims, etc.) that need to remain intact to successfully serve CHAMPVA customers. Notably, some forms will never get sent to VES (even if the workflow went to VES, the documents would stay in PEGA). 
 
+Box was ruled out early on due to security concerns.
+
 ## Decision
 
 (The following assumes we will have the option to implement either option 2 or 3 above. As of this writing we don't consider option 1 viable.)
