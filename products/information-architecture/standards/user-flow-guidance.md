@@ -24,9 +24,9 @@ Including a clear user goal and scope with the flow will help frame the work and
 
 When creating user flows, it is intended to explore various scenarios and user paths.  As those alternative scenarios and paths are identified, decisions can continue to be made regarding goals and scope.
 
-![Medical records user flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/1708754e-03be-41e1-b2c1-fd5a1637b871)
+![Medical records user flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/22a3ebaf-1dbf-4aa4-9b25-deaf4d469a5b)
 
-*Example of user goal in a flow for Medical Records*
+*Example of user goal in a flow for Medical Records in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1677797676013)*
 
 ### 2. Define and use consistent terminology
 
@@ -48,9 +48,10 @@ User flows should explore more than the “happy path” of a single user.  When
 
 Users do not access task flows the same way, interact with elements as expected, or always take the happy path. It is critical to understand where there are points in your flow that a user may need to branch from the primary flow, or where decision points could lead a user down an alternative path incorrectly. 
 
-![Financial status report user scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c85b1740-622d-47c6-9377-ba2f4999840f)
+![Financial status report user scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/4fee3ca1-f9a6-4717-a45a-8633dd6a6c4d)
+![User Journey for Dan](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/78cf0375-4338-4512-9d46-4e865a19362f)
 
-*Example of user scenarios in a flow for Financial Status Report*
+*Example of user scenarios in a flow for Financial Status Report in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?invited=true&sender=u79ee90295fdb006d7f463212)*
 
 ![Error in Organic Email Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c421e698-67ce-4470-8cb6-cf6776f3fe0e)
 
