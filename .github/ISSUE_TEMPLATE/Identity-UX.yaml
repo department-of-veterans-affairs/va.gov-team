@@ -1,19 +1,21 @@
----
 name: Identity UX Template
-about: For writing Identity UX tickets
-title: ''
+description: For writing Identity UX tickets
 labels: Identity, Identity-UX
-projects: department-of-veterans-affairs/1137
-assignees: ''
-
----
-
+projects: 
+  - department-of-veterans-affairs/1137
+body:
+- type: textarea
+  attributes:
+    label: Issue Description
+    description: Describe the issue details
+    placeholder: Insert issue details here
+- type: markdown
+   attributes:
+      value: |
 ### Description of UX Tasks
 
 
-
 #### Documentation
-- 
 
 
 #### Product notes
@@ -21,10 +23,10 @@ assignees: ''
 
 
 #### Acceptance Criteria
-- [ ] Reviewed by UX Team
-- [ ] Reviewed by PMs
 - [ ] Documentation has been updated
 - [ ] Add finalized research to Github
+- [ ] Reviewed by UX Team
+- [ ] Reviewed by PMs
 
 
 
