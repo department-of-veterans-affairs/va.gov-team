@@ -2,6 +2,7 @@
 - Epic [#73669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73669)
 
 ## Resources
+- TERA = Toxic Exposure Risk Activity
 - [TERA document with sticky notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/TERA%20Draft_10-10EZ.pdf)
 - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699473497914/86412743291c286587ff315e52549e98e06ba534?fromVisitorModal=true&sender=u5ad49c107baa41137f271007)
 - [Figma page](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=450-19244&mode=design&t=GyO36RKAPEFgXEna-0)
