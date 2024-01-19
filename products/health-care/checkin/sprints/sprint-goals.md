@@ -33,7 +33,9 @@ ________________________________________________________________________________
         - 🟦 TBD                    
 - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in**
-         - 🟥 [How might we solve the problem of a Veteran checking in before they get to the waiting room & being called back while they are not there](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73667)
+         - 🟥 [[Content] Create content for new "Are you in waiting room?" page and body content for "You're checked in" page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74008)
+         - 🟥 [[Design] Create Final Wireframes for the new "Are you in waiting room?" page and two variations of the "You're checked in" page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74010)
+         - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73965)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
