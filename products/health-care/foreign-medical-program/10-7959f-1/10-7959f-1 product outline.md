@@ -19,8 +19,8 @@ How might we improve the experience of Veterans living overseas who are applying
 
 ## Undesired User Outcomes
 
-- Veterans are confused or uncertain around the steps in the process or how to apply online
-- Veterans encounter errors during the online application process or the application does not submit
+- Veterans are unaware that they can apply online
+- Veterans encounter errors during the online application process 
 - Veterans have low confidence in the online process or have concerns around online security
 
 ## Desired Business Outcomes
