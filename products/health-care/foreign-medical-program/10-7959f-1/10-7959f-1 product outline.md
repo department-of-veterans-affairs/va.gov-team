@@ -115,7 +115,7 @@ Key deliverables:
 - research: research plan
 - testing: plan
 
-### Questions
+### General Questions
 - What is the current process/flow? Pain points?
 
 ### Key Decisions
