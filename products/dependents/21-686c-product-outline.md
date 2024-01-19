@@ -5,28 +5,29 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+The online 686c form allows Veterans to add or remove dependents from their VA benefits. The online form flow is integrated with the 21-674 form (Request for Approval of School Attendance), which is used when claiming benefits for a Veteran's child who is at least 18 years old, but under 23, and attending school. Both online forms are out-of-sync with the latest paper version of the forms, and the online forms are either missing fields or they contain fields that are no longer needed. The scope of this project is to make the critical updates necessary to ensure parity between the online forms and their paper counterparts. Non-critical accessibility issues and some outdated design components will be out-of-scope for this project. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Veterans are submitting online 686/674 claims that generate outdated pdf claim forms, are missing information, and/or contain information that is no longer required. Downstream systems (RBPS) need to offramp these claims for manual processing, which delays the Veteran's benefits.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+How might we update the 686 and 674 online form experience to ensure Veterans are submitting the necessary information in a format that can be automatically processed by downstream systems (RBPS)?
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- The 686 and 674 online form flow generates and submits the most recent version of the claim pdf to increase the liklihood of automated processing by RBPS.
+- The 686 and 674 online form flow collects all required information from the Veteran to ensure successful claim processing. 
+- Veterans spend less time filling out the 674 form flow because depreciated fields have been removed.
+- Veterans encounter fewer critical accessibility issues with completing the online 686/674 form
 
 ## Undesired User Outcomes
-
+- 686 and 674 online claims still encounter processing delays
+- Veterans find the form experience confusing, frustrating, or too cumbersome
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- 686 and 674 online form submissions no longer need to be offramped for manual processing -- they can be automatically processed by RBPS.
 
 ## Undesired Business Outcomes
-
+- 686 and 674 online form submissions generate claim errors that prevent automated processing 
 
 ---
 ## Measuring Success
@@ -38,21 +39,18 @@
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+| KPI                       | Baseline Value | Target Value | Actual Value |
+|---------------------------|----------------|--------------|--------------|
+| # of 686 claims offramped |                |              |              |
+| # of claim errors         |                |              |              |
 
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
-
+- Objective: Online 686/674 claims are processed as quickly as possible (automated processing)
+  - Key result: Average # of days to process an online 686 form
+  - Key result: Average # of days to process an online 674 form
 
 ---
 
@@ -61,10 +59,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Update the 686 online form flow to include new fields and remove old fields
+- Update the 674 online form flow to include new fields and remove old fields
+- Update the pdf version both the 686 and 674 online form flows generate
+- Remediate any critical accessibilty issues
+- Out of scope: Remediation of non-critical accessibility issues. Descoping a complete accessibilty audit will ensure we can get critical form updates to Veterans in a timely manner.
+- Future: An assessment of the complete 686/674 online form experience will be done to identify and prioritize form improvements and additional accessibility work.
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
