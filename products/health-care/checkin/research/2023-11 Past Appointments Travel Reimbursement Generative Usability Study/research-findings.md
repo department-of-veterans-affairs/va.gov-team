@@ -120,6 +120,8 @@ Participants were asked to imagine they’d just received an email reminder to f
 Most participants easily navigated to the appointment list from the travel reimbursement email reminder.
 
 #### Email & sign in
+<img width="435" alt="Screenshot 2024-01-19 at 3 29 12 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79372956/14911814-c170-4dfe-9a8d-69f168b4ac16">
+
 - Participants found the information in the email easy to understand and said it was aligned with what they'd expect from an email from VA, although 1 participant mentioned they expected the email to take them directly to BTSSS, and 1 other participant said they’d prefer a text instead of an email
 
 > "Reminder and claim. Ok yeah. I mean this is cool, too, because I don't think I've ever gotten a reminder to file the travel reimbursement." - P4
@@ -137,6 +139,8 @@ Most participants easily navigated to the appointment list from the travel reimb
 Participants easily understood how to file their mileage-only travel reimbursement claim after arriving on the appointment list from the reminder email. 
 
 #### Appointment list
+<img width="385" alt="Screenshot 2024-01-19 at 3 34 57 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79372956/34699fd0-f3dc-4de4-bc5f-b71b6f575d26">
+
 - A few participants expected to arrive elsewhere (e.g., a specific claim, such as on the appointment detail page or to VA.gov to find the BTSSS portal entry, but noted they liked this option better.
 > "This is good if I click on the VA and it takes me straight to the travel reimbursement like it shows here, that's awesome. [Normally] I would have to hunt for BTSSS and log in to there to see anything. But if y'all are doing it this way, this is the awesome way to do it." - P9
 
