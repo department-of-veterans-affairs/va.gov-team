@@ -81,14 +81,14 @@ This study will give us insight into where we should put and how we should group
 
 
 * Treejack Cohorts, 8 cohorts, 9 participants each, total 72 respondents. Minimum threshold of 60 responses split between the first tasks
-1. Cohort A - Users aged over 55 who have experience with Travel Pay
-2. Cohort B - Users aged over 55 who have experience with Travel Pay 
-3. Cohort C - Users aged over 55 who have **minimal** experience with Travel Pay 
-4. Cohort D - Users aged over 55 who have **minimal** experience with Travel Pay 
-5. Cohort E - Users aged under 54 who have experience with Travel Pay 
-6. Cohort F - Users aged under 54 who have experience with Travel Pay 
-7. Cohort G - Users aged under 54 who have **minimal** experience with Travel Pay 
-8. Cohort H - Users aged under 54 who have **minimal** experience with Travel Pay 
+1. Cohort A - Veteran Users aged over 55 who have experience with Travel Pay
+2. Cohort B - Veteran Users aged over 55 who have experience with Travel Pay 
+3. Cohort C - Veteran Users aged over 55 who have **minimal** experience with Travel Pay 
+4. Cohort D - Veteran Users aged over 55 who have **minimal** experience with Travel Pay 
+5. Cohort E - Veteran Users aged under 54 who have experience with Travel Pay 
+6. Cohort F - Veteran Users aged under 54 who have experience with Travel Pay 
+7. Cohort G - Veteran Users aged under 54 who have **minimal** experience with Travel Pay 
+8. Cohort H - Veteran Users aged under 54 who have **minimal** experience with Travel Pay 
 
 
 ### **Location**
