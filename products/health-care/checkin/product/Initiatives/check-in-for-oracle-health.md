@@ -37,10 +37,10 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
     - **We will send a status update to OH to let staff know the Veteran has arrived for their OH appointment**
 
 ### Not Included in the MVP
-- Veteran will NOT receive a Pre-Check-in link
-- Veteran wll NOT receive a reminder with an eCheck-in link 45 minutes before their OH appointment
-- Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed (STILL AN OPEN QUESTION ON THIS)
-- We will not send a status update when the Veteran has started the check-in workflow
+- Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
+- 45-minute Reminders (i.e. Veterans wll NOT receive a reminder with an eCheck-in link 45 minutes before their OH appointment)
+- Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) (STILL AN OPEN QUESTION ON THIS)
+- Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
      
 ## Questions 
 - Does IVC want VeText to check for insurance update?
