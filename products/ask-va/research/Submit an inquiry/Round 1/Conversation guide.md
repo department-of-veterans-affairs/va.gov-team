@@ -1,6 +1,6 @@
 # Conversation guide for Ask VA: Submit an inquiry (Round 1)
 
-Ask VA Front-End Team
+Ask VA VA.gov Team
 
 Last updated by @tygindraux: January 10, 2024
 
