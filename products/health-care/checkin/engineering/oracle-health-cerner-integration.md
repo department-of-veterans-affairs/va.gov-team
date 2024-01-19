@@ -111,6 +111,7 @@ sequenceDiagram
 ```
 ## Questions / Open Items
 (answers added from Stephen in [slack thread](https://dsva.slack.com/archives/C02G6AB3ZRS/p1705426133031669))
+- Does the BTSSS endpoint work for OH stations?
 - How do we connect to Oracle Health (cerner) via MAP token to set the arrived status?
     - Plan to use a MAP service that is being built now. That will use the same MAP token. If for some reason that does not work we will need VeText to provide an endpoint to set the appointment status. Edit:  I actually cant remember where we landed for this connection, but both MAP and potentially VeText can provide this
 - Who is our POC for the Oracle Health (cerner) MAP service?
