@@ -10,7 +10,7 @@ The following are releases planned by the Modernized Check-in Team. Click on the
 
 | Planned Release    | Estimated Release | Short Description |
 | :----------------- | :--------- | :--------------  |
-| [Enable eCheck-in for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md) | ~ mid April 2024 | Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) will be able to use eCheck-in to verify their contact, emergency-contact, and next-of-kin information and let staff know that they have arrived. |
+| [Enable eCheck-in for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md) | ~ mid April 2024 | Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) will be able to use eCheck-in to verify their contact, emergency-contact, and next-of-kin information and let staff know that they have arrived. |
 | [Unified Check-in Experience: Priority 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md) | TBD | New landing page & associated content changes<br>[Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) |
 | Unified Check-in Experience: Priority 2 | TBD | Minor updates to Details page |
 | Unified Check-in Experience: Priority 3 | TBD | New completion page format & updates to demographics pages |
