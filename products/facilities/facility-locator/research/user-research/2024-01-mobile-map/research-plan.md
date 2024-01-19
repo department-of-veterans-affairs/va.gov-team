@@ -1,3 +1,9 @@
+*** Important: research plan currently in draft form ***
+
+This research plan is on pause while the Facilities team prioritizes another product launch. Some sections have not been updated from the boilerplate content, and others will need to be updated when the project resumes. These are a few key considerations for when work resumes on the plan:
+- Revisit recruitment criteria and segmented cohort approach. Based on upcoming research with assistive tech users on Public Websites, we may want to update our strategy to maximize the potential of recruiting Veterans who use AT.
+- Complete the sections after the recruitment section
+
 # Research Plan for Facility locator mobile map
 
 ## Background
@@ -33,22 +39,6 @@ Where does your product fit into the Veteran Journey?
 
 The Facility locator tool assists Veterans at every step of their journey, from Starting up to Aging and Dying. 
 
-
-### OCTO Priorities 
-
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
-
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-- Starting up
-- Taking care of myself
-- Reinventing myself
-- Putting down roots
-- Retiring
-- Aging
-- Dying
-  
-
 ## Research Goals	
 
 ### Outcome
@@ -56,12 +46,9 @@ The purpose of this research is to get user feedback on enhancements to the faci
 
 Additionally, we are testing the USWDS segmented button group component.
 
-### Outcome
-Learnings will help refine design of map functionality, with a particular focus on map accessibility.
-
 ### Research questions
 
-From existing search page:
+**From existing search page**
 
 What do sighted Veterans and Veterans using AT expect from the location mapping tool?
 - Do they interact with the map before trying to search?
@@ -69,7 +56,7 @@ What do sighted Veterans and Veterans using AT expect from the location mapping 
 - How do they navigate search results if they want to learn about multiple locations?
 - Do they know what to do when expected results are not returned or when no there are no results?
 
-From the map prototype in staging:
+**From the map prototype in staging**
 
 Do sighted Veterans and Veterans using AT understand the distinction between map and list view?  
 - Do they understand how to toggle between the two views?
@@ -98,13 +85,13 @@ Veterans, including Veterans who use assistive technology, will understand:
 
 ## Methodology	
 We will conduct usability testing to guide research participants through a coded prototype. We'd like half of the participants to be on mobile devices. We'd like half of the participants to be screen reader users. Sessions will be conducted over Zoom, and we would likeZoom transcripts please.
+
 ### Research materials
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment. Link to conversation guide- [Link to prototype](url goes here)
 
 ### Location
 Remote, via Zoom
   
-
 ## Recruitment	
 
 ### Recruitment approach
@@ -149,7 +136,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
+* Session length: 90 minutes for AT users, 60 minutes for non-AT users
 * Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 * Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
 
