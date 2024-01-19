@@ -14,7 +14,7 @@ How might we improve the experience of Veterans living overseas who are applying
 ## Desired User Outcomes
 
 - Veterans are able to fill out the registration form online on VA.gov
-- Veterans reduce the time, effort and costs spent filling out and mailing paperwork
+- Veterans spend less time, effort and money filling out and mailing paperwork
 - The time spent waiting to hear back on application status is reduced for the Veteran
 
 ## Undesired User Outcomes
