@@ -30,11 +30,11 @@ When creating user flows, it is intended to explore various scenarios and user p
 
 ### 2. Define and use consistent terminology
 
-Terminology is often a point of confusion when talking about features.  Use accurate terminology and be consistent throughout the flows. Key terms can be included with a legend or documented to the side to ensure understanding.
+Terminology is often a point of confusion when talking about features within a flow. Use accurate terminology and be consistent throughout when creating flows. Keys terms can be included with a legend or documented to the side to ensure understanding.
 
-![Unified check-in terminology](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dc33decc-0e9f-41b3-af14-47d90d68adf9)
+![Unified check-in terminology](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/d767cdd9-82c3-455a-b559-c9b2147b2ac7)
 
-*Example of documented terminology in a Unified Check-in flow*
+*Example of documented terminology in a Unified Check-in flow in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=48-1683145725460)*
 
 ### 3. Explore various user paths
 
@@ -55,15 +55,15 @@ Users do not access task flows the same way, interact with elements as expected,
 
 ![Error in Organic Email Adoption](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/c421e698-67ce-4470-8cb6-cf6776f3fe0e)
 
-*Example of an error in Organic Email Adoption flow*
+*In the Organic Email Adoption flow in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1676397151510/f4cf4f4187a3d0fd5f2d6d56c9bd2ba3a4376e7a?wid=17-1685025831030), both the successful and unsuccessful paths for creating a login.gov account are shown*
 
 ### 4. Indicate decision points and conditional logic
 
 Decision points and conditional logic within a flow result in different users seeing variations of a flow - those variations could be to a single page or an entirely different flow.  These points can result in needing different content or messaging, titles, URLs, etc. 
 
-![Conditional logic in Form 26-4555](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/50248931-6886-4c54-844d-a11e63c5f527)
+![Conditional logic in Form 26-4555](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/25198301-dfe9-4984-85ac-24f1a05a006f)
 
-*Example of conditional logic in Form 26-4555 Specially Adapted Housing*
+*Example of conditional logic in Form 26-4555 Specially Adapted Housing in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699462677556/90680fad4912aeb66a97974a0ef62298560f836a?sender=u79ee90295fdb006d7f463212)*
 
 ### 5. Include entry and exit points
 
@@ -82,26 +82,26 @@ Exit points are places within your flow that a user can exit the flow. Intended 
 
 Identifying exit points and providing clear messaging and next steps for users helps avoid “dead ends” where a user does not know why they are there, or what they should do next. 
 
-![Entry points in appointments flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/62102671-5de0-42ee-8da1-b4125293a737)
+![Entry points in appointments flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/ec65f5f0-8cb4-4d3c-8691-4833962de162)
 
-*Example of entry points in Appoitnments flow*
+*There are multiple entry points where users can get to their appointment list, shown in this [Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=2-1683058200582)*
 
 ### 6. Show changes between current state and proposed state (if applicable)
 
 When revising an existing user flow, documenting the current state against a proposed state can help team members and stakeholders to quickly identify what changes were made, and ultimately what impacts they have - i.e. URL changes, content changes, analytics changes, etc.
 
-![Two versions of Form 526](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/5df868eb-a188-4090-9999-aac03cbe27d3)
+![Two versions of Form 21-526EZ](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/8bb87529-4f1f-4645-80e2-dd3f52289a09)
 
-*Example of a current and proposed flow for Form 526*
+*Example of a current and proposed flow for Form 21-526EZ in [Sketch](https://www.sketch.com/s/0fa92d93-0841-4c62-8112-c9c528204092)*
 
 ### 7. Include a legend
 
 A legend, or key,  helps to eliminate any uncertainty about what is represented in the user flow diagram. Use variations in shape,  icons, and text in addition to color to improve accessibility.
 
-![Legend for Login.gov flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/51dd70fd-1d48-4df7-870c-da90d04face7)
+![Legend for Login.gov flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/965d294c-f4d9-4354-87d4-86951add034e)
 
-*Example of a legend for Login.gov*
+*Example of a legend for Login.gov in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1676397151510/f4cf4f4187a3d0fd5f2d6d56c9bd2ba3a4376e7a?wid=12-1676674110837)*
 
-![Legend for Financial Status Report](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/5756caf3-a142-4211-9481-e789fe8163b9)
+![Legend for Financial Status Report](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/31751e3b-8f8e-4b43-9988-43490b182209)
 
-*Example of a legend for Financial Status Report*
+*Example of a legend for Financial Status Report in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?wid=0-1680732330971)
