@@ -72,9 +72,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-- In Scope
-- Out of Scope
-- Risks
+- In scope
+- Out of scope
+- Risks or dependencies
+- Other considerations
 
 --- 
 
