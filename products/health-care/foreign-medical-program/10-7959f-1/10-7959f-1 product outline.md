@@ -52,7 +52,8 @@ How might we improve the experience of Veterans living overseas who are applying
 
 #### Baseline KPI Values
 - number of downloads
-- number of submissions and resubmissions
+- number of submissions 
+- number of days to process 
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
