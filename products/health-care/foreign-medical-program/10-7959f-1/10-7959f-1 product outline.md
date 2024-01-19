@@ -22,6 +22,7 @@ How might we improve the experience of Veterans living overseas who are applying
 - Veterans are unaware that they can apply online
 - Veterans encounter errors during the online application process 
 - Veterans have low confidence in the online process or have concerns around online security
+- The response burden is increased for the user
 
 ## Desired Business Outcomes
 
@@ -50,7 +51,8 @@ How might we improve the experience of Veterans living overseas who are applying
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- number of downloads
+- number of submissions and resubmissions
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
@@ -74,7 +76,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - In scope
 - Out of scope
-- Risks or dependencies
+- Risks or dependencies: PEGA 
 - Other considerations
 
 --- 
