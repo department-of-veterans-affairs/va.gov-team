@@ -132,7 +132,7 @@ Recruit 12 Veterans for a total of 8 completed sessions.
 
 Availability for a kick-off call, in Eastern times: 
 * Jan 19: 9:45-10:30am, 2-3:30pm
-* Jan 20: 
+* Jan 22: 9:45am-10am, 11am-12pm, 12:30-1pm, 2-3:30pm
 
 **We’re collaborating with the Sitewide team on the prototype.** 
 The majority of the prototype will be complete by January 17, but refinements will continue until our pilot session.
