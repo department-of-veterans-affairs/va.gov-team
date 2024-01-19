@@ -74,6 +74,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - In Scope
 - Out of Scope
+- Risks
 
 --- 
 
