@@ -39,6 +39,17 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
 
 ### Analytics
 
+#### Overall Customer Satisfaction Score for VA.gov
+| Feature | CSAT |
+| ----- | ----- |
+| Date Range | CSAT Score |
+| Mar 2024 | |
+| Feb 2024 | |
+| Jan 2024 | |
+| Dec 2023 | 54.7|
+| Nov 2023 | 54.3 |
+| Oct 2023 | 53.7 |
+
 #### Experience Ratings for Discharge Wizard
 
 | Feature | Total Survey Responses | Avg. Rating Per Mo. |
