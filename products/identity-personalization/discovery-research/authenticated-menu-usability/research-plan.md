@@ -105,7 +105,7 @@ Recruit 12 Veterans for a total of 8 completed sessions.
 > Response options: yes or no
 > (Answering yes would qualify the participant to meet criteria for cognitive impairments)
 
-4. Do you need to use screen reader technology to use your phone or computer such as VoiceOver on an iPhone, TalkBack on an Android, or JAWS? **Note:** We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+4. Do you need to use screen reader technology to use your phone or computer such as VoiceOver, TalkBack, or JAWS? **Note:** We ask this question because we want to make sure that our website works for people who rely on screen readers.
 
 > Response options: yes or no
 
