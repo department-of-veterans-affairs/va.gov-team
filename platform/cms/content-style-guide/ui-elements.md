@@ -22,16 +22,16 @@ This text is used in addition to the field labels. If the label needs additional
 - For help text on image fields, crop ratios should be included when relevant.
 
 ## Field label masterlist
-A list of standardized field labels that appear in the CMS. This list is a continued work in progress as each content type is unique and has specific labels and guidance.
+A list of standardized field labels that appear in the Drupal CMS. This list is a continued work in progress as each content type is unique and has specific labels and guidance.
 
 [Field label masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/field-label-masterlist.md)
 
 ## Links
 Links should tell editors what action to take, where to go next, or what information to expect when they select the link.
 
-- Describe the purpose of the link and the destination if it’s taking the reader outside of the CMS. Don’t make the link so long that the relevant words get lost.
+- Describe the purpose of the link and the destination if it’s taking the reader outside of the Drupal CMS. Don’t make the link so long that the relevant words get lost.
 - Avoid generic link text like “Learn more” and “Read more” by themselves.
-- Don’t include a link using only the URL itself, the link must have readable link text.. 
+- Don’t include a link using only the URL itself, the link must have readable link text. 
 - Don’t punctuate link text. Exception: Question marks and colons are OK if they’re part of the link copy.
 - Don’t add parentheses around a link. 
 - Warn users when a link opens in a new tab by adding “(opens in new tab)” after the link. Example: <span style="text-decoration:underline;">[This is a link (opens in new tab)]()</span>
