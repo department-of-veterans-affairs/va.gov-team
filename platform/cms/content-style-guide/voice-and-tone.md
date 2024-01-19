@@ -1,4 +1,4 @@
-# Voice & Tone
+# Voice and tone
 By consistently practicing language in an intentional way, we can provide content that supports the editor's needs and improve their experience in the CMS. Our goal is to help you create consistent, clear, and customer-centered content. Content should follow [plain language standards](https://design.va.gov/content-style-guide/plain-language/). 
 
 ### We define better content as:
