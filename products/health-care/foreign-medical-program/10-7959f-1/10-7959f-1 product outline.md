@@ -67,18 +67,19 @@ How might we improve the experience of Veterans living overseas who are applying
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-- In scope:
+- **In scope**:
   - Fillable fields with pre fill for signed in users
   - General flow, patterns and components follow existing standards in design system as well as accessibility standards
   - Digital signature accepted by FMP team
   - PDF output of complete form with required meta data
   - Integration with PEGA for forms and documents
-- Out of scope:
+  - Authenticated experience [need to determine recommendation on level]
+- **Out of scope**:
   - Integration with VES 
-- Risks or dependencies:
+- **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
   - Integration with PEGA is still being developed (more details [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md))
-- Other considerations:
+- **Other considerations**:
   - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
   - VA notify(?)
   - handling for mobile app 
