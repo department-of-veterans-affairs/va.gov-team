@@ -73,7 +73,7 @@ How might we improve the experience of Veterans living overseas who are applying
   - Digital signature accepted by FMP team
   - PDF output of complete form with required meta data
   - Integration with PEGA for forms and documents
-  - Authenticated experience [need to determine recommendation on level]
+  - Authenticated experience [*need to determine recommendation on level*]
 - **Out of scope**:
   - Integration with VES 
 - **Risks or dependencies**:
