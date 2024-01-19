@@ -1,4 +1,4 @@
-# Synthesis - Past Appointment Travel Reimbursement
+# Research Findings - Past Appointment Travel Reimbursement Synthesis
 
 ## Links to synthesis board
 - **Veterans' experience filing for travel reimbursement** - [Mural section with findings and recommendations](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701108610673/656ba53b8acb4b0e94c2bfb1a91001922d3e98e1?wid=0-1703294840305)
