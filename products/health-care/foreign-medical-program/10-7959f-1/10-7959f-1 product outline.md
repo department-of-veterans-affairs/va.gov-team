@@ -15,7 +15,7 @@ How might we improve the experience of Veterans living overseas who are applying
 
 - Veterans are able to fill out the registration form online on VA.gov
 - Veterans spend less time, effort and money filling out and mailing paperwork
-- The time spent waiting to hear back on application status is reduced for the Veteran
+- Veterans spend less time spent waiting to hear back on their application status 
 
 ## Undesired User Outcomes
 
