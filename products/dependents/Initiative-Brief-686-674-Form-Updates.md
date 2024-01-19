@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief: 686c/674 Form Parity
 
 ## Outcome Summary
 Veterans submitting online 21-686c and 21-674 claims can trust that their submissions include all the required information to ensure efficient processing.
@@ -7,7 +7,7 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 - [686/674 Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686c-product-outline.md)
 
 ## Problem
-* Veterans are submitting online 686/674 claims that generate outdated pdf claim forms, are missing information, and/or contain information that is no longer required. Downstream systems (RBPS) need to offramp these claims for manual processing, which delays the Veteran's benefits.
+- Veterans are submitting online 686/674 claims that generate outdated pdf claim forms, are missing information, and/or contain information that is no longer required. Downstream systems (RBPS) need to offramp these claims for manual processing, which delays the Veteran's benefits.
 
 ## Desired User Outcomes
 
