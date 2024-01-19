@@ -31,8 +31,8 @@ How might we improve the experience of Veterans living overseas who are applying
 
 ## Undesired Business Outcomes
 - Veterans are unaware they can fill out the application online
-- Inability to successfully process online information
-- 
+- The information entered online by Veterans is not successfully submitted to the VA
+- Online forms processing adds confusion and complicates workflows further
 
 ---
 ## Measuring Success
