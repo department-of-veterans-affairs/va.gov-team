@@ -114,9 +114,9 @@ After each task, ask:
 
 Labeling questions
 
-Label Q1: Imagine that there was a page or place on[ VA.gov](http://VA.gov) where you could see up to date information on what was happening with a request for travel reimbursement after you submitted it. What would you call this page and why?
+Label Q1: Imagine that there was a page or place on[ VA.gov](http://VA.gov) where you could see up-to-date information on what was happening with a request for travel reimbursement after you submitted it. What would you call this page and why?
 
-LQ2: If you were to name that page on[ VA.gov](http://VA.gov) where you could see up to date information on what was happening with a request for travel reimbursement after you submitted it, what would you name it? Please rank from your fist choice at the top to your last choice on the bottom.
+LQ2: If you were to name that page on[ VA.gov](http://VA.gov) where you could see up-to-date information on what was happening with a request for travel reimbursement after you submitted it, what would you name it? Please rank from your fist choice at the top to your last choice on the bottom.
 
 Terms:
 
