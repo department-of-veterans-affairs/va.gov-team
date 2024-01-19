@@ -73,6 +73,7 @@ This study will give us insight into where we should put and how we should group
 2. We hypothesize that participants will look for older claims (6+ months ago) in the Claim status tool or Payments section.
 3. We hypothesize that participants will look for an overview of their past Travel Claims history in their Profile or Payments section.
 4. We hypothesize that participants will look for status updates on Travel Pay claims on its own its own distinct page
+5. We hypothesize that users will look information on Travel Claims - recent or historical - in the My VA health benefits section of MyHealtheVet 
 
 
 ## **Methodology**
@@ -101,8 +102,8 @@ Tasks **(split/alternate which participant sees first)**
 
 
 
-1. **[Recent claim task]** You submitted a request to be paid back for gas after traveling to your last VA doctor appointment on January 12, 2024 and want to get an update on that request.  Where would you expect to find this information?
-2. **[Historical claim task]** You have submitted several requests to be reimbursed for gas from traveling to your VA doctor appointments multiple times following surgery in Spring 2023 and want to know what happened to those requests.  Where would you expect to find this information?
+1. **[Recent claim task]** You submitted a request to be paid back for gas after traveling to your last VA doctor visit on January 12, 2024 and want to get an update on that request.  Where would you find this information?
+2. **[Historical claim task]** You have submitted several requests to be reimbursed for gas for traveling to see your VA doctor multiple times following surgery in Spring 2023.  You want to know what happened to those requests. Where would you find this information?
 
 
 After each task, ask:
