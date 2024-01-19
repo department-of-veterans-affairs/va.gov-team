@@ -76,7 +76,7 @@ How might we improve the experience of Veterans living overseas who are applying
   - Authenticated experience [*need to determine recommendation on level*]
 - **Out of scope**:
   - Integration with VES
-  - Checking for eligibility requirements (?)
+  - Checking for eligibility requirements 
 - **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
   - Integration with PEGA is still being developed (more details [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md))
