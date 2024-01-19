@@ -90,7 +90,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 Collaboration Cycle
 - Collab Cycle ticket 
 - [ ] Design Intent
-- [ ]Content, Accessibility and IA -
+- [ ] Content, Accessibility and IA -
 - [ ] Midpoint -
 - [ ] Research
 - [ ] Contact Center guide
