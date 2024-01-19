@@ -42,12 +42,7 @@ How might we improve the experience of Veterans living overseas who are applying
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+* _links to Domo or Google Analytics Dashboards/Reports_
 
 #### Baseline KPI Values
 - number of downloads
