@@ -126,7 +126,7 @@ Key deliverables:
 ## Screenshots
 
 - Before
-[https://www.va.gov/find-forms/about-form-10-7959f-2/](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf)
+(https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf)
 - After
 
 ---
