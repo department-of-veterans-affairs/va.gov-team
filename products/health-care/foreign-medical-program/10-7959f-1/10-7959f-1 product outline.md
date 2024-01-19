@@ -116,7 +116,7 @@ Key deliverables:
 - testing
 
 ### Questions
-Process?
+- What is the current process/flow? Pain points?
 
 ### Key Decisions
 
