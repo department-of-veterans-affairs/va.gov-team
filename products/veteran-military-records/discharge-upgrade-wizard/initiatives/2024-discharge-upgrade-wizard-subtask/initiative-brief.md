@@ -44,7 +44,7 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
 
 | Feature | Total Survey Responses | Avg. Rating Per Mo. |
 | ------------- | ------------- | ------------- |
-|  Discharge Upgrade Instructions / Questons | 15 | 3.87 |
+|  Discharge Upgrade Instructions / Questions | 15 | 3.87 |
 |  Discharge Upgrade Instructions | 43 | 3.65 |
 
 ##### 2024
