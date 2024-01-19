@@ -71,10 +71,10 @@
 <img width="400" alt="VA Claim Status Tool landing page" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/8f79a19a-5e19-4763-9bb7-fb049bf3af6e">
 
 6. **[After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review/)** - Add
-  - Placement description: 
+  - Placement description: We suggest adding to this page, but defer to Content's recommendation on where on this page the form entry point can live
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes:
+  - Notes: Because the priority processing form covers so many claims, we think that adding it here will capture all the decision reviews without putting an entry point in each page. Also, folks may not be going through the hardships listed in the priority processing form at the time of submitting a claim and so they may come to this page instead since they've already applied.
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
