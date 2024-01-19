@@ -60,7 +60,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 - Veterans will want to fill out their information online
 - Providing the form online will reduce the processing time for FMP applications and reduce the amount of manual work needed to process paper FMP forms.
 
@@ -73,8 +72,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - In scope
 - Out of scope
-- Risks or dependencies: PEGA 
-- Other considerations
+- Risks or dependencies: PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams.
+- Other considerations: Family hub content migration, VA notify, handling for mobile app 
 
 --- 
 
