@@ -38,20 +38,54 @@ Today we're going to talk about [description of your project].
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+- Today we’re going to talk about the location fnding tool on VA.gov. We'll be mostly focused on search results on the
+map. 
+
+Before we start, I have a few things that I want to go over with you:
+- This **entire session should take about [60] [90] minutes**. I want to be sure not to keep you much longer, so I may
+occasionally prompt you with the next question or topic.
+- In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing
+your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you
+express.
+- Your participation in this interview is completely voluntary. You do not have to participate if you don’t want to.
+- Whether you choose to participate or not will not affect your benefts with the VA in any way. If you would like to
+stop the session or do not want to answer a question for any reason at any time, that’s no problem. Please let me
+know.
+- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe
+this interview, but I want to double-check with you before we get going. Are you okay with a couple of
+additional observers joining this session?
+> If no: Use Slack to kindly ask the observers to leave the Zoom.
+
+> If yes: Admit observers.
+
+[Ask the notetaker and observers to briefy turn their camera on and introduce them by name.
+Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session]
+
+For part of this session, you’ll be interacting with a prototype. That means that even though it will look exactly
+like a regular website, some areas of the screen may not work as you expect them to. Since it's not a live website,
+nothing you do on the screen will affect your VA information or benefts.
+
+I'd like to record my screen and audio today to make sure we capture your thoughts and experiences
+accurately. After we're done analyzing your insights about our prototype, the recordings will be destroyed, and
+nothing you say here will be directly linked to you. If we want to quote something you say directly, we will refer to
+you only by a participant number. We'll also remove any part of your comments that could be used to directly
+identify you. 
+
+Knowing all of this, are you comfortable if I record my screen and audio as we talk today?
+
+Would you be comfortable if we decided to use a clip of our session with you to help our partners understand
+Veterans’ experiences? One of the ways that we share fndings with our partners across the VA is by showing
+short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly
+be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our
+partners to better understand what Veterans go through when using VA.gov and our digital products. These clips
+will not be shared outside of the VA. We don’t know at this point if we will or not, but we like to ask ahead of time.
+At the end of the interview, I’ll also confrm this with you at the end, so you will have the opportunity to change
+your mind.
+
+Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our
+partners understand Veteran’s experiences?
+
+> If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
 
@@ -61,46 +95,75 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. If you need to find a VA location you haven't been to before, what would be your first step?
+> [RECORD Google search / Google Maps / Apple maps / va.gov / other _______]
+> [If they don't navigate to https://www.va.gov/find-locations/, share link before moving on to the next question]
+
+2. [While on FL page] Now that you're on the Find VA locations page, I'd like to get your thoughts on the page. For now, I'm not going to ask you to do a search, just share your observations on anything you encounter.
+- Are the search options clear?
+- Is it clear what's required vs optional?
+- Comments on "use my location"?
+- Comments on instructional text under page title?
+- Comments on instructional text after search bar?
+- Comments on "can't find what you're looking for?" at bottom?
 
 ## First Task: [TASK NAME] - X minutes
-
+Will return to this one--I think this task should say something about distance from location, since that's the way the results are organized
 - Step 1
 - Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- [
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Second Task: Locate pharmacy - X minutes
+Let's say you're in Chicago and need to visit an in-network pharmacy. Using this page, how would you find a list of pharmacies in Chicago? If you want to update the results to focus on a different part of the city, what would you do?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [RECORD Do they zoom in/out on map to change results?
+[If on mobile]:do they toggle between list and map view?]
+- Comments on changes to map when they zoom/move map?
+- Comments on how numbered results update when they move the map
+- Comments on changes to map when go to subsequent pages of results?
+- If on desktop: do they navigate to pages of results beyond the first page?
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: Locate chiropractor - X minutes
 
-- Step 1
-- Step 2
+For this task, let's imagine you're visiting New York City and need to visit at chiropractor during your stay. You are staying in the 10004 zip code and want to go to a chiropractor nearby. Using this page, how would you search for a chiropractor in the 10004 zip code?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Any comments on similar results?
+- Do they know which Facility type to choose?
+- Do they notice overlapping results on the map?
+- Comments on typeahead suggestions Service type?
+- Do they zoom in/out on map? what do they expect will happen when they do this?
+
+## Fourth Task: NYC urgent care - X minutes
+Let's stay in New York City for this next task. This time, imagine you need to visit an urgent care during your trip. Using this page, how would you find an urgent care facility in New York City? How would you look for an urgent care in a different part of the city?
+
+### Things to watch for:
+- Do they reposition the map to find different facilities?
+- Do they use any of the map's features to update the results [Search this area, zoom, pan, use my location]
+
+## Fifth Task: Hours and location of optometrist - X minutes  
+For this task, imagine you need to get a new prescription for your glasses. Using this page, how can you locate a VA eye clinic near you? How would you find out when they're open? 
+> [If they say they'c call, ask which number and why]
+
+### Things to watch for:
+- [RECORD search method: zip/city/use my location]
+- [RECORD Facility type: VA Health/community providers]
+- [RECORD Service type: ophthalmology/optometry/search term]
+- [RECORD which phone number]
+
+## Sixth Task: Directions to benefits office - X minutes   
+Now imagine you want to visit a benefits office in your area to get help with a disability claim. How would you search for that on this page? [When they find it] How would you find out how to get to the office?
+### Things to watch for:
+- [RECORD search filters used]
+- [RECORD method for getting directions: directions button/copy address to google maps/call/other]
+- [RECORD search method: zip/city/use my location]
 
 ## Post-Task Interview - X minutes
 
