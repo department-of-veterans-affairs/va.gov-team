@@ -43,10 +43,10 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
 
 | Feature | Total Survey Responses | Avg. Rating Per Mo. |
 | ------------- | ------------- | ------------- |
-| **January 2024 **                             |
+| **January 2024**                            |
 |  Discharge Upgrade Instructions / Questons | TBD | TBD |
 |  Discharge Upgrade Instructions | TBD | TBD |
-| **Q4 2023 **|
+| **Q4 2023**|
 |  Discharge Upgrade Instructions/Questions | 15 | 3.87 |
 |  Discharge Upgrade Instructions | 43 | 3.65 |
 
