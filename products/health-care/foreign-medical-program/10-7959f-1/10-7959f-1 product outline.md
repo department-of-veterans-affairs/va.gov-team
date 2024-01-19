@@ -88,7 +88,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 Collaboration Cycle
-- Collab Cycle ticket 
+- [ ] Collab Cycle ticket 
 - [ ] Design Intent
 - [ ] Content, Accessibility and IA -
 - [ ] Midpoint -
