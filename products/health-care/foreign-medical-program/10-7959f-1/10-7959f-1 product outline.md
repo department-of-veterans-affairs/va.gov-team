@@ -89,14 +89,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 Collaboration Cycle
 - Collab Cycle ticket 
-- Design Intent
-- Content, Accessibility and IA -
-- Midpoint -
-- Research
-- Contact Center guide
-- Analytics
-- Staging 
-- Infrastructure, Privacy & Security
+- [ ] Design Intent
+- [ ]Content, Accessibility and IA -
+- [ ] Midpoint -
+- [ ] Research
+- [ ] Contact Center guide
+- [ ] Analytics
+- [ ] Staging 
+- [ ] Infrastructure, Privacy & Security
  
 ## Launch Dates
 - *Target Launch Date*
@@ -135,7 +135,7 @@ https://www.va.gov/find-forms/about-form-10-7959f-2/
 - GitHub Label: ivc-forms
 - Slack channel: ivc-forms
 - Product POCs: Mary Wang
-- Stakeholders: 
+- Stakeholders: Andy Szymczak, FMP Director
 
 </details>
 
@@ -146,7 +146,7 @@ https://www.va.gov/find-forms/about-form-10-7959f-2/
  - DEPO Lead: Premal Shah
  - PM: Mary Wang
  - Engineering: Rachel Eiting, Bryan Alexander
- - Research/Design: Steven Straily, Rachael Penfil, Brian Wilke
+ - Research/Design: Rachael Penfil, Brian Wilke, Steven Straily
  
 </details>
 
