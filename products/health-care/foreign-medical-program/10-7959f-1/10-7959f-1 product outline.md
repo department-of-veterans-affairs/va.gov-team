@@ -111,9 +111,9 @@ Collaboration Cycle
 Discovery and research planning efforts underway. Initial conversations with stakeholders to be scheduled.
 
 Key deliverables:
-- design
-- research
-- testing
+- design: (links to) user flows and wireframes 
+- research: research plan
+- testing: plan
 
 ### Questions
 - What is the current process/flow? Pain points?
