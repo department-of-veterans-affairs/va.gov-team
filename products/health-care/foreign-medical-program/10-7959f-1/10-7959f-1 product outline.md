@@ -49,7 +49,6 @@ How might we improve the experience of Veterans living overseas who are applying
 - number of days to process 
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
   - Key result: 
@@ -69,12 +68,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-- In scope
-- Out of scope
+- In scope:
+- Out of scope:
 - Risks or dependencies: PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams.
 - Other considerations:
-  - Content migration effort to va.gov and family member benefits hub - coordinate on timing
-  - VA notify
+  - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
+  - VA notify(?)
   - handling for mobile app 
 
 --- 
@@ -116,7 +115,7 @@ Key deliverables:
 - testing: plan
 
 ### General Questions
-- What is the current process/flow? Pain points?
+- What is the current process/flow? Pain points? Which teams are involved?
 
 ### Key Decisions
 
