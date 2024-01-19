@@ -18,7 +18,6 @@ As a result of this request, we're adding duty status, dates, and military occup
 
 The research applies at any stage from Starting Up through Aging.
 
----
 ## Research Goals	
 
 **Goal 1**: Gain a better understanding of veteran mental models regarding their service occupations in order to inform how we present military information data, depending on data completeness and quality.
@@ -65,7 +64,7 @@ The sessions will be conducted remotely via Zoom.
 - [Link to conversation guide](url goes here)
 - [Link to mock-up](url goes here) – `Probably should migrate this to Figma...`
 
----
+
 ## Recruitment	
 
 ### Recruitment approach
@@ -103,12 +102,12 @@ NOTE: If a participant has served in more than 1 branch, this can be considered 
 ## Timeline
 *Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.* 
 
-### ===Prepare===
+### Prepare
 * Pilot participant email:
 * Date and time of pilot session: 
-* Finalized design mock-up
+* Link to design mock-up `Figma?`
 
-### ===Research sessions===
+### Research sessions
 * Planned dates of research:
 
 ### Length of sessions
