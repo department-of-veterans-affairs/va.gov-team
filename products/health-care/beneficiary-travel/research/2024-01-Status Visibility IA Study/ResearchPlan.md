@@ -555,7 +555,7 @@ Half are not familiar with Travel reimbursement
 _Secondary criteria (nice-to-haves)_
 
 
-### **Timeline (Expected)**
+### **Timeline**
 
 Ending Friday 1/19: Finalize plan and research artifacts
 
@@ -565,10 +565,15 @@ Fri 2/2 - Fri 3/1: Studies in field (**close early if threshold met**)
 
 Mon 3/4 - Wed 3/13 : Analysis and reporting
 
+### **Availability for Perigean touchbase**
+
+Wednesday, 1/24 10am CST
+Wednesday, 1/24 1pm CST
+Thursday, 1/25 10am CST
+Thursday, 1/25 2pm CST
+Friday, 1/26 10am CST
 
 ### **Research sessions**
-
-
 
 * Study in field: Fri 2/2 - Fri 3/1
 
