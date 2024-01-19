@@ -31,7 +31,7 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
     - **We will return a check-in link for telehealth or telephone appointments** 
 - Veteran will be asked to verify their personal, emergency, and next-of-kin contact information while checking in for an OH appointment
     - **We will retrieve contact information from the VA Profile Contact and Profile services via MAP instead of from Vista**
-    - **We will update timestamps for contact information database records (personal, emergency, NOK) in VA Profile Contact and Profile services via MAP instead of in  Vista**
+    - **We will update timestamps for contact information database records (personal) in VA Profile Contact and Profile services via MAP instead of in  Vista**
 - Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
 - Veteran can complete check in
     - **We will send a status update to OH to let staff know the Veteran has arrived for their OH appointment**
