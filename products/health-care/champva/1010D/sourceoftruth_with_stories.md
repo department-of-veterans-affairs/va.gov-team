@@ -3,7 +3,9 @@
 
 ## Introduction page
 
-## [H1] CHAMPVA benefits
+## [H1] Apply for CHAMPVA benefits
+
+{ subtitle } Form 10-10d
 
 Are you the spouse, surviving spouse, child or caretaker of a Veteran who is permanently and totally disabled or a Veteran who has died? If you don’t qualify for TRICARE (the Department of Defense’s health care program for active-duty and retired service members and their families), you may be able to get health benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA). Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing.
 <br/>
@@ -196,9 +198,9 @@ This legal document that provides confirmation of your ended marriage with a dec
 
 ---------------------------------------
 
-## [H1]  Apply for CHAMPVA Benefits with VA Form  10-10D
+## [H1] Apply for CHAMPVA benefits
 
-{subtitle} Form 10-10d
+{ subtitle } Form 10-10d
 
 Use this form if you’re the spouse or child of a Veteran with disabilities, or the surviving spouse or child of a Veteran who has died, use VA Form 10-10d to apply for health insurance through CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs). 
 
@@ -210,7 +212,7 @@ Use this form if you’re the spouse or child of a Veteran with disabilities, or
 
 {End Alert Box}
 
-### [H2] Follow these steps to apply for CHAMPVA Benefits.
+### [H2] Follow these steps to apply for CHAMPVA benefits.
 
 #### [H3] 1. Prepare
 When you apply, be sure to have these on hand:
@@ -232,7 +234,7 @@ Supporting documents to mail
  - A copy of each child’s birth certificate or adoption papers
  - School certification of enrollment for children ages 18-23.
  
-{ Link } [Download our fact sheet on school enrollment certification requirements- PDF] (https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-15.pdf)
+{ Link } [Download our fact sheet on school enrollment certification requirements- PDF](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-15.pdf)
 
 
 What if I need help filling out my application? 
@@ -243,9 +245,11 @@ An accredited representative with a Veterans Service Organization (VSO) can help
 
 
 #### [H3] 2. Apply
-Complete this Application for CHAMPVA Benefits Form.
+Complete this application for CHAMPVA benefits form.
 
-After submitting your application, you’ll get a confirmation message. It will include details about your next steps. You can print this for your records.
+After submitting your application, you’ll get a confirmation message. It will include details about your next steps. 
+
+You can print this for your records
 
 
 #### [H3] 3. Submit optional documentation
@@ -260,11 +264,15 @@ We process applications in the order we receive them. We may contact you if we h
 After you’ve applied for CHAMPVA, we’ll send you a letter in the mail to let you know if your application has been approved.
 
 
-How long will it take to hear back about my application?
+<details>
+<summary></summary>How long will it take to hear back about my application?</details>summary>
+
 
 If you send us all required and optional documents—and if your application is complete—it’ll take about 6 weeks after we get your package until you get your CHAMPVA ID card and related materials.
 
 If you submit the application without the optional documents, it may take 2 to 8 months since we’ll need to confirm your information with other federal agencies.
+
+</details>
 
 { Informational alert }
 
@@ -1168,6 +1176,10 @@ Here’s how signing in now helps you:
 
 ---------------------------------------
 
+## [H1] Apply for CHAMPVA benefits
+
+{ subtitle } Form 10-10d
+
 ## Step 4 of 4:  Review and certify
 
 #### [H3] Statement of truth
@@ -1202,80 +1214,86 @@ Your full name (* Required)
 
 ## [H1] Confirmation page ##
 
+## [H1] Apply for CHAMPVA benefits
+
+{ subtitle } Form 10-10d
+
 ### [H2] You’ve completed this portion of the your CHAMPVA benefits enrollment form
+
+### [H2] Mail these documents to complete your enrollment
 
 Before your enrollment submission is complete you must mail in these supporting documents:
 
 #### [H3] {{ %%Veteran name%% }}
-Copy of the page from the VBA rating decision (optional)
-Copy of DD214 (Certificate of Release or Discharge from Active Duty) (optional)
+- Copy of the page from the VBA rating decision (optional)
+- Copy of DD214 (Certificate of Release or Discharge from Active Duty) (optional)
 
 
 #### [H3] {{ %%applicant 1 name%% }}
 
 
-{ if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license required%% }
+- { if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license (required)%% }
 
-{ if checked I / the applicant is the Veteran's surviving spouse add %%Copy of marriage license required%% }
+- { if checked I / the applicant is the Veteran's surviving spouse add %%Copy of marriage license (required)%% }
 
-{ if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage%% } 
+- { if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% } 
 
-{ if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+- { if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
-{ if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+- { if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
-{ if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+- { if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{ if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
-{ if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+- { if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{ if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required) %% } 
 
-{ if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+- { if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)%% }
 
-{ if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+- { if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare (required)%% }
 
-{ if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card%% } 
+- { if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card (required)%% } 
 
-{ if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
-{ if checked I have other health insurance add %% Copy of front and back or other health insurance card %% } 
+- { if checked I have other health insurance add %% Copy of front and back or other health insurance card (required)%% } 
 
-{ if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)%% } 
 
 
 #### [H3] {{ %%applicant 2 name%% }}
 
-{ if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license required%% }
+- { if checked I'm / the applicant is the Veteran's spouse or The applicant is my spouse add %%Copy of marriage license (required)%% }
 
-{ if checked I / the applicant is the Veteran's surviving spouse add %%Copy of marriage license required%% }
+- { if checked I / the applicant is the Veteran's surviving spouse add %%Copy of marriage license (required)%% }
 
-{ if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage%% } 
+- { if checked I / the applicant was the Veteran's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% } 
 
-{ if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+- { if checked The applicant is the Veteran's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
-{ if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate%% } 
+- { if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
-{ if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+- { if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{ if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
-{ if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+- { if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
 
-{ if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
-{ if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+- { if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)%% }
 
-{ if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare%% }
+- { if checked I am is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare (required)%% }
 
-{ if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card%% } 
+- { if checked The applicant has other health insurance add %%Copy of front and back or other health insurance card (required)%% } 
 
-{ if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked The applicant has other health insurance and %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
- {if checked I have other health insurance add %% Copy of front and back or other health insurance card %% } 
+- { if checked I have other health insurance add %% Copy of front and back or other health insurance card (required)%% } 
 
-{ if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)%% } 
+- { if checked I have other health insurance add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)%% } 
 
 
 
