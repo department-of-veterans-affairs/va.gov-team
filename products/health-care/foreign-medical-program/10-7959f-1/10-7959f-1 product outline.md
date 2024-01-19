@@ -68,7 +68,13 @@ How might we improve the experience of Veterans living overseas who are applying
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 - In scope:
+  - Fillable fields with pre fill for signed in users
+  - General flow, patterns and components follow existing standards in design system as well as accessibility standards
+  - Digital signature accepted by FMP team
+  - PDF output of complete form with required meta data
+  - Integration with PEGA for forms and documents
 - Out of scope:
+  - Integration with VES 
 - Risks or dependencies: PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams.
 - Other considerations:
   - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
