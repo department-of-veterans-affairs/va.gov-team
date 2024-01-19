@@ -136,8 +136,15 @@ Baseline treejack (url goes here)
 
 
 * Email with instructions: see Appendix Item A below
-* [Link to prototype or OptimalSort session for Cohort 1](url goes here when ready)
-* [Link to prototype or OptimalSort session for Cohort 2](url goes here when ready)
+* Cohort A - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=A
+* Cohort B - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=B
+* Cohort C - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=C
+* Cohort D - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=D
+* Cohort E - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=E
+* Cohort F - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=F
+* Cohort G - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=G
+* Cohort H - https://dj540s05.optimalworkshop.com/treejack/travelpaystatusupdate?token=H
+
 
 
 ## **Recruitment**
