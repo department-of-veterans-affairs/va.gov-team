@@ -68,7 +68,7 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74059)
 - CAIA Ticket
 
 ### Timeline 
