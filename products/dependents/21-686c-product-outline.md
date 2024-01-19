@@ -1,30 +1,31 @@
 
 # Product Outline: 21-686c Application Request to Add and/or Remove Dependents
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
 
 ## Overview
-The online 686c form allows Veterans to add or remove dependents from their VA benefits. The online form flow is integrated with the 21-674 form (Request for Approval of School Attendance), which is used when claiming benefits for a Veteran's child who is at least 18 years old, but under 23, and attending school. Both online forms are out-of-sync with the latest paper version of the forms, and the online forms are either missing fields or they contain fields that are no longer needed. The scope of this project is to make the critical updates necessary to ensure parity between the online forms and their paper counterparts. Non-critical accessibility issues and some outdated design components will be out-of-scope for this project. 
+The online 686c form allows Veterans to add or remove dependents from their VA benefits. The online form flow is integrated with the 21-674 form (Request for Approval of School Attendance), which is used when claiming benefits for a Veteran's child who is at least 18 years old, but under 23, and attending school. 
 
 ## Problem Statement
-Veterans are submitting online 686/674 claims that generate outdated pdf claim forms, are missing information, and/or contain information that is no longer required. Downstream systems (RBPS) need to offramp these claims for manual processing, which delays the Veteran's benefits.
+Dependent information is used accross many forms and experiences on VA.gov (pension, disability, VA profile, etc.), and there is no unified user experience when interacting with dependency information.
 
-How might we update the 686 and 674 online form experience to ensure Veterans are submitting the necessary information in a format that can be automatically processed by downstream systems (RBPS)?
+How might we provide a unified experience for Veterans when they need to view, add, remove, or update their dependent inforation across VA.gov?
  
 ## Desired User Outcomes
 
-- The 686 and 674 online form flow generates and submits the most recent version of the claim pdf to increase the liklihood of automated processing by RBPS.
-- The 686 and 674 online form flow collects all required information from the Veteran to ensure successful claim processing. 
-- Veterans spend less time filling out the 674 form flow because depreciated fields have been removed.
-- Veterans encounter fewer critical accessibility issues with completing the online 686/674 form
+- The 686 and 674 online form flow submits information that can be successfully processed by downstream systems
+- Claims that fail to submit are successfully processed through a backup submission flow
+- Veterans have a positive experience when completing the 686/674 online forms
+- Veterans do not encounter accessibility issues with completing the online 686/674 form
+- Veterans have a cohesive experience on VA.gov when updating and viewing dependent information
 
 ## Undesired User Outcomes
-- 686 and 674 online claims still encounter processing delays
+- Online claims experience processing delays
 - Veterans find the form experience confusing, frustrating, or too cumbersome
+- Online claims are lost
 
 ## Desired Business Outcomes
-- 686 and 674 online form submissions no longer need to be offramped for manual processing -- they can be automatically processed by RBPS.
+- Online form submissions can be successfuly processed through RBPS
 
 ## Undesired Business Outcomes
 - 686 and 674 online form submissions generate claim errors that prevent automated processing 
@@ -39,11 +40,12 @@ How might we update the 686 and 674 online form experience to ensure Veterans ar
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| KPI                       | Baseline Value | Target Value | Actual Value |
-|---------------------------|----------------|--------------|--------------|
-| # of 686 claims offramped |                |              |              |
-| # of claim errors         |                |              |              |
-
+| KPI                             | Baseline Value | Target Value | Actual Value | Link to Data Source |
+|---------------------------------|----------------|--------------|--------------|---------------------|
+| # of 686 online claims per year |                |              |              |                     |
+| # of 674 online claims per year |                |              |              |                     |
+| # of claim errors               |                |              |              |                     |
+| # of session to complete claim  |                |              |              |                     |
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
@@ -52,6 +54,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: Average # of days to process an online 686 form
   - Key result: Average # of days to process an online 674 form
 
+- Objective: Veterans have a positive experience when completing the online 686/674 form flow
+  - Key result: 
+  - Key result: 
 ---
 
 ## Assumptions
@@ -59,17 +64,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- Update the 686 online form flow to include new fields and remove old fields
-- Update the 674 online form flow to include new fields and remove old fields
-- Update the pdf version both the 686 and 674 online form flows generate
-- Remediate any critical accessibilty issues
+- Complete usability baseline research to determine priorities for improvement
+- Compelte accessibility audit to identify outstanding issues
+- Complete form component audit to ensure all design system components are up-to-date
+- Identify ways to 
 - Out of scope: Remediation of non-critical accessibility issues. Descoping a complete accessibilty audit will ensure we can get critical form updates to Veterans in a timely manner.
 - Future: An assessment of the complete 686/674 online form experience will be done to identify and prioritize form improvements and additional accessibility work.
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+- [2024 686 and 674 Online form Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative-Brief-686-674-Form-Updates.md)
 
 --- 
 
@@ -105,33 +108,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 #### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
+- Team Name: Benefits Dependent Experience Team (Team Tree)
+- GitHub Label(s): Tree
+- Slack channel: benefits-dependents-management
+- Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
 
 #### Stakeholders
+- Office/Department:
+   - OCTO (Emily Theis, Julie Strotham, Steve Albers)
+   - VBA (Brandi Traylor)
+   - RBPS Team (TBD)
 
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
+#### Team Members
+ - DEPO Lead: Sarah Ortiz Shields
+ - PM: Laura Steele
+ - Engineering: Thomas Blackwell
+ - Research/Design: Julie Pedtke, Ajia Wallace
+
