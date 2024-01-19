@@ -344,3 +344,20 @@ Regardless of how Veterans file a claim, they were collectively clear that they 
 ### Veterans want the BTSSS portal to better meet their expectations
 Most Veterans mentioned having a difficult time understanding different claim statuses meanings, locating and signing in to BTSSS from VA.gov, and finding their appointment in the portal (i.e., for community care appointments). Therefore, with some adjustments to the BTSSS portal to address these concerns, better 
 trust can be built between Veterans, VA, and the the tools they use to access their benefits.
+
+
+## Demographics
+
+We talked to 10 participants
+- 10/10 Veterans had VA appointments in the last 6 months
+- 9/10 Veterans had filed a travel reimbursement claim in the last 6 months
+- 9/10 Veterans used their mobile devices, while 1 used a laptop 
+- 2/10 Veterans used screen magnification 
+- 7/10 Veterans reported having a cognitive disability
+
+Who we didn’t talk to
+- Screen reader users - we recruited for 2-3 screen reader users but ran into significant challenges with no-shows and rescheduling
+- Though we had a diverse pool of participants, we were not able to talk to any Native Veterans or Veterans from the LGBTQ+  community
+- We did not recruit for the following categories: expat, other than honorable discharge, and immigrant origin 
+
+<img width="696" alt="Screenshot 2024-01-12 at 8 42 55 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79372956/3775585e-9484-4787-838d-5adc37233597">
