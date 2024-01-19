@@ -52,7 +52,7 @@ The sessions will be conducted remotely via Zoom.
 
 ### Research materials
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://cdpn.io/pen/debug/JjzNWbR)
 
 ## Recruitment	
 
