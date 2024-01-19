@@ -62,11 +62,6 @@ How might we improve the experience of Veterans living overseas who are applying
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
 - **In scope**:
   - Fillable fields with pre fill for signed in users
   - General flow, patterns and components follow existing standards in design system as well as accessibility standards
@@ -124,7 +119,8 @@ Key deliverables:
 - testing: plan
 
 ### General Questions
-- What is the current process/flow? Pain points? Which teams are involved?
+- For stakeholders: What is the current process/flow? Pain points? Which teams are involved?
+- How does this program intersect (or not) with other programs such as VR&E (Veterans Readiness and Employment)?
 
 ### Key Decisions
 
