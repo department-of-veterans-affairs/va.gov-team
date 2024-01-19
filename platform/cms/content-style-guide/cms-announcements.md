@@ -2,49 +2,36 @@
 
 The CMS team will be putting out regular communications that help both technical and non-technical users understand how ongoing improvements to the CMS will impact their work.
 
-- See the latest release note in the [CMS Product Release Notes Log](https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/product-release-notes)
+See the latest announcements in the [#cms-support Slack channel](https://dsva.slack.com/channels/cms-support) and in the [Announcements and Release notes page](https://prod.cms.va.gov/help/support/release-notes) in the Drupal CMS.
 
-## Background
+## Value of CMS announcements
 
-**😣 Pain points of old release notes**
-
-- Not readable by non-technical people
-- Not visible anywhere except on GitHub
-- No notifications
-- Nothing about why, audience affected, etc.
-
-**🍩 Value of new, user-friendly CMS announcements**
-
-- Lets CMS users know about changes that will affect their day to day work
-- Gives CMS users and other stakeholders insight into where the product is headed
+- Lets Drupal CMS users know about changes that will affect their day to day work
+- Gives Drupal CMS users and other stakeholders insight into where the product is headed
 - Reassures everyone that we’re listening to their feedback
 - Acknowledges that there are still a lot of pain points
 - Celebrates the hard work our team is doing with each release
 - Finds opportunities to make people smile
 
-**Reference**
+## What gets an announcement?
 
-[Slack blog: A little thing about release notes](https://slackhq.com/a-little-thing-about-release-notes)
-
-## What gets a release note?
-
-**Types of release notes**
+**Types of announcements**
 * "New & improved" announcements - for new features or enhancements
 * "Fixed it" announcements - for fixes for bugs that are annoying or noticiable, but aren't critical blockers to users' work.
 * Publishing alerts - for deployment issues that impact an editor's ability to push their content live on VA.gov
-* CMS outages - for when the site is totally down.
+* Drupal CMS outages - for when the site is totally down.
 * Critical defects - for really serious bugs that block people's work.
 
 ## FAQs
 
-**Q: Should the thing I'm working on be mentioned in the CMS product release notes?**
+**Q: Should the thing I'm working on be mentioned in a CMS announcement?**
 
 **A:** Yes, if our work will cause changes our users will notice, such as when we: 
 * 🐛 Fix a bug that’s in their way
 * 🎁 Add a new feature to enhance their work
 * 🦆 Something in between
 
-**Q: Excellent. So how do I become release note famous?**
+**Q: Excellent. So how do I become announcement and release notes famous?**
 
 **A:** Add a label and AC
 * 🟥 Use the maroon colored "release notes" label
@@ -54,7 +41,7 @@ The CMS team will be putting out regular communications that help both technical
 
 **👀 More details:**
 * 🧹 It's best to identify release note items when the ticket is created, such as in planning or refinement
-* 📎 Product manager and UX writer (Kevin/Oksana + Rachel) will review flagged items weekly
+* 📎 Product manager and UX writer will review flagged items weekly
 * ⛵️ Release notes are posted in two channels: [#cms-support](https://dsva.slack.com/channels/cms-support) and in the [Announcements and Release notes page](https://prod.cms.va.gov/help/support/release-notes) in the CMS
 * 📝 The person responsible for drafting release note content defaults to the UX writer, but may be reassigned to another team member if the UX writer isn't available. 
 
@@ -69,10 +56,10 @@ The CMS team will be putting out regular communications that help both technical
 - [ ] PM/UX writer assigns each release note a writer. Usually this is the UX writer.
 
 4. **Draft** (*1-2 days before release*)
-- [ ] If you're new to writing release notes, review this guide (TK)
+- [ ] If you're new to writing release notes, review this guide
 - [ ] Use this template to draft the release note content in the [AT release note log](https://airtable.com/tblulo3XrMLuh4N0l/viwL2poNtFAZMeS6Z?blocks=hide). 
 - [ ] Post the drafted release note in #cms-team. Tag the product manager and teammate who worked on it. Work out any clarifications/edits in the thread, and then get 👍🏻 from PM.
 
 8. **Publish** (*directly after release, ~ 3:30/4:00 ET*)
-- Post in #cms-support Slack using this template (TK)
-- Post in the Announcements and Release Notes page using this template (TK)
+- Post in #cms-support Slack using this template
+- Post in the Announcements and Release Notes page using this template
