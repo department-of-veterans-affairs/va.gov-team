@@ -40,8 +40,7 @@ How might we improve the experience of Veterans living overseas who are applying
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
+* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes? What are the most important metrics that track with this product/initiative's success?_
 * _links to Domo or Google Analytics Dashboards/Reports_
 
 #### Baseline KPI Values
@@ -73,7 +72,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - In scope
 - Out of scope
 - Risks or dependencies: PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams.
-- Other considerations: Family hub content migration, VA notify, handling for mobile app 
+- Other considerations:
+  - Content migration effort to va.gov and family member benefits hub - coordinate on timing
+  - VA notify
+  - handling for mobile app 
 
 --- 
 
