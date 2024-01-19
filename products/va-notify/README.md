@@ -158,7 +158,7 @@ Tech Stack
 - Template id(s), Service id, and API Key differ by environment.
 
 **Is there anything our team can use for local testing to get familiar with VA Notify prior to building the notification trigger code?**
-- We have [postman collections](https://github.com/department-of-veterans-affairs/notification-api/tree/master/documents/postman) that can be used for testing
+- See our [postman collection](https://github.com/department-of-veterans-affairs/notification-api/tree/master/documents/postman).
 
 **Sample Email request with personalisation**
 `{{notification-api-url}}/v2/notifications/email`
