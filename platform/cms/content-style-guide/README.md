@@ -10,8 +10,8 @@ There’s a lot this guide won’t cover, especially when it comes to more gener
 
 
 ### Table of Contents
-- [Our audience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/audiences-communications/audiences-and-comms-channels.md)
-- Voice & Tone
+- [Our audience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/our-audience.md)
+- [Voice and tone](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/voice-and-tone.md)
 - Content formatting
 - UI elements
 - Site alert messages
