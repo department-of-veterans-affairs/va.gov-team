@@ -98,7 +98,6 @@ NOTE: If a participant has served in more than 1 branch, this can be considered 
 
 `I have nothing yet here – the only screener question I can think of is for the PACT Act – everything else seems like it would be covered under primary criteria in the Recruitment Request form, no?`
 
----
 ## Timeline
 *Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.* 
 
@@ -121,7 +120,6 @@ NOTE: If a participant has served in more than 1 branch, this can be considered 
 
 *Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.*
 
----
 ## Team Roles	
 
 - Moderator: Pam Drouin
