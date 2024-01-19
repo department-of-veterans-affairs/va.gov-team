@@ -45,7 +45,7 @@ How might we improve the experience of Veterans living overseas who are applying
 #### Baseline KPI Values
 - number of downloads
 - number of submissions 
-- number of days to process 
+- processing time for paper forms
 
 ### Objectives and Key results (OKRs)
 
