@@ -1,6 +1,7 @@
 *** Important: conversation guide currently in draft form ***
+
 This research is on pause while the Facilities team prioritizes another product launch. Some sections have not been updated from the boilerplate content, and others will need to be updated when the project resumes. These are a few key considerations for when work resumes on the guide:
-- Revisit tasks based on prototype. The guide is based on map functionality currently on [Facilities Locator](https://www.va.gov/find-locations/)]. There are still some unknowns about what the final prototype will look like and how it will function.
+- Revisit tasks based on prototype. The guide is based on map functionality currently on [Facilities Locator](https://www.va.gov/find-locations/). There are still some unknowns about what the final prototype will look like and how it will function.
 - Revisit set-up prompts and wording of tasks with an eye toward instructive and inclusive language for assistive technology users. Sitewide -- Public Websites will be conducting research with assistive tech users soon (before this project moves forward) and we expect to glean insights for what's possible and optimal for testing a mobile-first product with screen reader users. 
 
 # Conversation Guide 
@@ -155,7 +156,7 @@ Let's stay in New York City for this next task. This time, imagine you need to v
 
 ## Fifth Task: Hours and location of optometrist - X minutes  
 For this task, imagine you need to get a new prescription for your glasses. Using this page, how can you locate a VA eye clinic near you? How would you find out when they're open? 
-> [If they say they'c call, ask which number and why]
+> [If they say they'd call, ask which number and why]
 
 ### Things to watch for:
 - [RECORD search method: zip/city/use my location]
