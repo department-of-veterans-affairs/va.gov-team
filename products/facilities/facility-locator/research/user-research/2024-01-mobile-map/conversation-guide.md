@@ -1,3 +1,8 @@
+*** Important: conversation guide currently in draft form ***
+This research is on pause while the Facilities team prioritizes another product launch. Some sections have not been updated from the boilerplate content, and others will need to be updated when the project resumes. These are a few key considerations for when work resumes on the guide:
+- Revisit tasks based on prototype. The guide is based on map functionality currently on [Facilities Locator](https://www.va.gov/find-locations/)]. There are still some unknowns about what the final prototype will look like and how it will function.
+- Revisit set-up prompts and wording of tasks with an eye toward instructive and inclusive language for assistive technology users. Sitewide -- Public Websites will be conducting research with assistive tech users soon (before this project moves forward) and we expect to glean insights for what's possible and optimal for testing a mobile-first product with screen reader users. 
+
 # Conversation Guide 
 
 ## Moderator logistics
@@ -191,6 +196,4 @@ Thank you so much again, and enjoy the rest of your day!
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
