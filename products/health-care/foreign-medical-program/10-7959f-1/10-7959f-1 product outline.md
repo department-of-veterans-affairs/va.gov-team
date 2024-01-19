@@ -121,6 +121,7 @@ Key deliverables:
 ### Key Decisions
 
 ### Key Dates
+- Jan 2024: start discovery
 ---
    
 ## Screenshots
