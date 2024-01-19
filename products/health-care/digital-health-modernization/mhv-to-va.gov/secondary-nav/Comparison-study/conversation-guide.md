@@ -52,16 +52,12 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 ## Warm-up Questions - 5 minutes
 
 Let’s start with a few questions... 
-
-1. What types of VA benefits if any do you currently receive?
-      a. Have you received other benefits in the past?
-      b. If yes, which?
    
-2. What experience do you have with VA.gov (or the VA mobile app)?
+1. What experience do you have with VA.gov (or the VA mobile app)?
       a. Frequency (How often do you login?) 
       b. For what purpose?
    
-3. _If receive VA health care_: Do you have experience with My HealtheVet? _If participant isn't familiar, don't help them remember, just move on_
+2. _If receive VA health care_: Do you have experience with My HealtheVet? _If participant isn't familiar, don't help them remember, just move on_
       a. Frequency (How often do you login?) 
       b. For what purpose? 
    
