@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-Under the IDEA Act, all user facing forms need to be digitized. For Veterans who are residing or traveling outside the US and are eligible for health coverage for a service-related condition, providing the Foreign Medical Program registration form online would allow them to more easily and quickly apply rather than go through the current paper process.
+Under the IDEA(https://digital.gov/resources/delivering-digital-first-public-experience/) Act, all user facing forms need to be digitized. For Veterans who are residing or traveling outside the US and are eligible for health coverage for a service-related condition, providing the Foreign Medical Program registration form online would allow them to more easily and quickly apply rather than go through the current paper process.
 
 ## Problem Statement
 Veterans who are living or traveling outside the U.S. with a service connected disability are only able to apply for health care benefits by filling out the paper form and sending it through mail or fax. 
