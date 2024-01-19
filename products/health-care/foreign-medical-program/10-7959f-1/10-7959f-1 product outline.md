@@ -30,7 +30,9 @@ How might we improve the experience of Veterans living overseas who are applying
 - Reduce the amount of resubmissions due to missing information or documents
 
 ## Undesired Business Outcomes
-
+- Veterans are unaware they can fill out the application online
+- Inability to successfully process online information
+- 
 
 ---
 ## Measuring Success
