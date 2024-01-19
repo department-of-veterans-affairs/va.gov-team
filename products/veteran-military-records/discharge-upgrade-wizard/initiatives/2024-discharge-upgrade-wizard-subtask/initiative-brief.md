@@ -60,7 +60,12 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
 
 | Date Range | Total Events | Unique Events |
 | ------------- | ------------- | ------------- |
-| Nov 2023 | 
+| Apr 2024 | | |
+| Mar 2024 | | |
+| Feb 2024 | | |
+| Jan 2024 | | |
+| Dec 2023 | 8,538 | 7,499 |
+| Nov 2023 | 9,741 | 8,598 |
 | Oct 2023 | 9,448 | 8,328 |
 
 
