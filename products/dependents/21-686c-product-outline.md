@@ -4,7 +4,9 @@
 ---
 
 ## Overview
-The online 686c form allows Veterans to add or remove dependents from their VA benefits. The online form flow is integrated with the 21-674 form (Request for Approval of School Attendance), which is used when claiming benefits for a Veteran's child who is at least 18 years old, but under 23, and attending school. 
+The online 686c form allows Veterans to add or remove dependents from their VA benefits. The online form flow is integrated with the 21-674 form (Request for Approval of School Attendance), which is used when claiming benefits for a Veteran's child who is at least 18 years old, but under 23, and attending school.
+- [About VA Form 21-686c (Application Request to Add and/or Remove Dependents)](https://www.va.gov/find-forms/about-form-21-686c/) 
+- [About VA Form 21-674 (Request for Approval of School Attendance)](https://www.va.gov/find-forms/about-form-21-674/)
 
 ## Problem Statement
 Dependent information is used accross many forms and experiences on VA.gov (pension, disability, VA profile, etc.), and there is no unified user experience when interacting with dependency information.
@@ -102,6 +104,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+- [686/674 Form Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687976281975/2a9c6ca9ea6d955afa7977c777bbb72b15280903?sender=u934f98f179a86c76e6ee9592)
 
 ### After
 
