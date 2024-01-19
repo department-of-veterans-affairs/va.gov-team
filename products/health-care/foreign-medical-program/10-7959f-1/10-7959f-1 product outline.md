@@ -71,6 +71,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - PDF output of complete form with required meta data
   - Integration with PEGA for forms and documents
   - Authenticated experience [*need to determine recommendation on level*]
+  - User notification of successful or failed submission
 - **Out of scope**:
   - Integration with VES
   - Checking for eligibility requirements
