@@ -66,6 +66,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Veterans will want to fill out their information online
+- Providing the form online will reduce the processing time for FMP applications and reduce the amount of manual work needed to process paper FMP forms.
 
 ## Solution Approach
 
@@ -89,8 +91,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 Collaboration Cycle
 - [ ] Collab Cycle ticket 
 - [ ] Design Intent
-- [ ] Content, Accessibility and IA -
-- [ ] Midpoint -
+- [ ] Content, Accessibility and IA 
+- [ ] Midpoint 
 - [ ] Research
 - [ ] Contact Center guide
 - [ ] Analytics
@@ -124,12 +126,12 @@ Key deliverables:
 
 ### Key Dates
 - Jan 2024: start discovery
+- Collaboration cycle kickoff
 ---
    
 ## Screenshots
 
-- Before
-(https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf)
+- [Before](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf)
 - After
 
 ---
