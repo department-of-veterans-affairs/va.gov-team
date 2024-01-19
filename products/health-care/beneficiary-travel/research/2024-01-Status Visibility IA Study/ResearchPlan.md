@@ -1,4 +1,4 @@
-# Travel Claim Status Visibility IA Research Plan DRAFT IN PROGRESS
+# Travel Claim Status Visibility IA Research Plan 
 
 
 ## **Background**
@@ -568,9 +568,13 @@ Mon 3/4 - Wed 3/13 : Analysis and reporting
 ### **Availability for Perigean touchbase**
 
 Wednesday, 1/24 10am CST
+
 Wednesday, 1/24 1pm CST
+
 Thursday, 1/25 10am CST
+
 Thursday, 1/25 2pm CST
+
 Friday, 1/26 10am CST
 
 ### **Research sessions**
