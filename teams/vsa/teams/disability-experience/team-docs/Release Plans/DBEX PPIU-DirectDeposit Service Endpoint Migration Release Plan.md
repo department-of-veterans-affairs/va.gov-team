@@ -31,10 +31,10 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Pre-release Testing
     - [x] Review Cases
 - [ ] Phase II: Staged Rollout
-    - [ ] Canary
-    - [ ] Stage A: 1%
-    - [ ] Stage B: 5%
-    - [ ] Stage C: 10%
+    - [x] Canary
+    - [x] Stage A: 1%
+    - [x] Stage B: 5%
+    - [x] Stage C: 10%
     - [ ] Stage D: 25%
     - [ ] Stage E: 50%
     - [ ] Stage F: Go live!
@@ -104,7 +104,7 @@ TODO:
                 - RCT test largely successful
             - Also looking into a feature-flagged block to adjudication in the submit logic, if possible
                 - Update to add feature flag: https://github.com/department-of-veterans-affairs/vets-api/pull/14901#pullrequestreview-1787286162
-                - Did this work in practice?
+
 
 <br>
 
