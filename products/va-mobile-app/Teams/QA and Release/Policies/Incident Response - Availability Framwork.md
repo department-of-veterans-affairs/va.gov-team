@@ -4,7 +4,7 @@
 
 ## Purpose: 
 
-Availability Framework (AF) is an available solution for VA Health and Benefits App’s Incident Response process. 
+Availability Framework (AF) is an available solution for VA Health and Benefits App’s [Incident Response process](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Incident%20Response/).
 
 AF provides a solution to be able to "turn off" or restrict access to the affected feature or screen remotely when critical errors occur, so that the user will not have a bad user experience.Intent is to remotely display a screen with content so that the Veteran knows we are fixing an issue and inform them on how to get the information or take the action they intended in the meantime until a fix is in place via a hotfix or standard app release. 
 
