@@ -117,6 +117,7 @@ body:
       value: |
         ---
         :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+        For Rails console vets-api ArgoCD terminal access, fill out [this access request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D).
         For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
         If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
         :x: Don't fill out anything below here :x:
