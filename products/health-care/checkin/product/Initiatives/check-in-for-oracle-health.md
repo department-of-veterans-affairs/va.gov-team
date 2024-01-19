@@ -28,7 +28,7 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
 ### Included in the MVP
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
-    - **We will return a check-in link for telehealth or telephone appointments** 
+    - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
 - Veteran will be asked to verify their personal, emergency, and next-of-kin contact information while checking in for an OH appointment
     - **We will retrieve contact information (personal, emergency, & next-of-kin) from the VA Profile Contact and Profile services via MAP instead of from Vista**
     - **We will update a single timestamp for the personal contact database record in VA Profile for OH appointments**
@@ -38,6 +38,7 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
     - **We will send a status update to OH to let staff know the Veteran has arrived for their OH appointment**
 
 ### Not Included in the MVP
+- Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
 - Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
 - 45-minute Reminders (i.e. Veterans wll NOT receive a reminder with an eCheck-in link 45 minutes before their OH appointment)
 - Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) (STILL AN OPEN QUESTION ON THIS)
