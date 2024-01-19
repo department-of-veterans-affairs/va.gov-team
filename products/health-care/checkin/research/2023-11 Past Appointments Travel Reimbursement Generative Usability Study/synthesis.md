@@ -97,9 +97,9 @@ We presented participants with 11 claim status terms Veterans could feasibly enc
 ### Key Takeaways
 - 8 / 10 participants completed the claim status exercise
 - All 8 participants found Fiscal Rescinded confusing
-> Quote
+
 - At least 3 participants thought terms should have more context or description - specifically for “Payment Canceled” “On Hold” and “In Manual Review” and “Incomplete”
-> Quote
+
 - Participants thought some of the terms had the same meaning or could be combined with others, such as “Claim submitted and submitted for payment”
 - 1 participant thought “Claim Received” was important to add to the statuses
 
