@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 1/22/2024
+- Changed wording for wait time after checking in to let Veterans know that they could be called back once the check-in process is complete and to check-in with staff if they wait more than 15 minutes or have not been called back by their appointment time
+    - [Epic 72248](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72248)
+      
 ### 1/9/2024
 - Updated primary buttons to use version 3 of the Design System
     - [Ticket 65597](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
