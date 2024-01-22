@@ -128,14 +128,13 @@ Now let's imagine you log out, a couple of weeks go by, and you log back in. You
 
 [Tap on anywhere on the control screen to advance to next task]
 
-- Where would you go to check for updates to the claim?
+- Tell me what you see here.
   
 [Status Tab]
 - Is there any information you're not seeing here that you'd like to see?
 - Is there anywhere else you would go to find more information about the claim?
 
 [Overview Tab]
-- Based on what you see here, how would you describe the state of this claim?
 - Is there any information you're not seeing here that you'd like to see?
 - What would you expect to happen next with the claim?
 
