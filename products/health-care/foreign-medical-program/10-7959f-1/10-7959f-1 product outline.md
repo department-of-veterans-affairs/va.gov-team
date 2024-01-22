@@ -50,9 +50,9 @@ How might we improve the experience of Veterans living overseas who are applying
 ### Objectives and Key results (OKRs)
 
 - Objective: Veterans can easily apply for health care benefits online
-  - Key result: Measure % of Veterans who register for FMP online
-  - Key result:  Measure number of online form submissions
+  - Key result: Measure number of Veterans who register for FMP online
   - Key result: Reduce time it takes to fill out application
+  - Key result: Reduce processing time 
 - Objective: Veterans are updated and informed of statuses
   - Key result: Ensure testing and alert monitoring is in place to catch any errors
   - Key result: Accurate status is relayed to applicants
