@@ -42,6 +42,11 @@ If this test alarms, either Homepage didn't load (in which case Homepage monitor
 * Scroll down to Sample Runs, click Failed run to see which events in the test failed
 * If Search didn't load / returned errors, check https://search.gov/status.html for Search.gov downtime
 * If Search.gov is up, check other search monitors for anomalous traffic and open a Plat support ticket for help as needed
+
+## No calls to v0/search
+https://vagov.ddog-gov.com/monitors/189936?view=spans
+
+Metrics monitor that alarms if no calls to v0/search in the last 5 mins.
  
 ## Slack Channels for Alerts
 - #public-websites-monitoring
