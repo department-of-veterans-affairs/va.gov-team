@@ -46,7 +46,7 @@ We need to publish future rates information for a few of our education rates pag
   - Confirm with stakeholder what date we should publish the future rates page.
 2. In Drupal, revert node to the last version that showed future rates information.
   - Go to the Revisions tab in Drupal and find last published version of page that contained specific rates information for that year.
-  - Use the **draft** version before the last published version and select the Revert button to the right. (If you select the last published version, the node will automatically be published again).
+  - Use the **draft** version before the last published version and select the Revert button to the right. (If you select the last published version, the node will automatically be published again). This version should be labeled "OK to revert—most current actual future rates text."
 3. Update draft version of future rates page.
   - Update the calendar year in the intro and meta description.
   - Update dates, rate amounts, and calculations throughout the rates page.
@@ -54,20 +54,21 @@ We need to publish future rates information for a few of our education rates pag
 Click **Save as draft**.
 4. Review and publish the updated future rates page. This is done by the final reviewer.
   - Confirm that the rate amounts, dates, and calculations are correct. Make sure the links work.
-  - **Publish** the page and leave a note in the Drupal log that this is the future rates page so an editor will know which version to use the next time this page needs to be updated. (Example: "OK to publish-use for actual future rates")
+  - Save a final draft version and leave this note in the Drupal log: "OK to revert—most current actual future rates text." This ensures another editor will know which version to use the next time this page needs to be updated. 
+  - **Publish** the page.
 
 ### When publishing placeholder future rates page
 1. In Drupal, revert node to the last version that showed future rates placeholder information.
   - Go to Revisions tab in Drupal and find last published version of page that contained placeholder future rates text for that year.
-  - Use the **draft** version before the last published version and select the Revert button to the right. (If you select the last published version, the node will automatically be published again).
+  - Use the **draft** version before the last published version and select the Revert button to the right. (If you select the last published version, the node will automatically be published again). This version should be labeled "OK to revert—most current placeholder text."
 2. Update draft version of future rates page.
   - Update calendar year in the intro and meta description.
   - Confirm the box for including a table of contents is not selected.
 Click **Save as draft**.
 3. Review and publish the updated future rates placeholder page. This is done by the final reviewer.
   - Confirm that the dates are correct. Make sure the links work.
-  - **Publish** the page and leave a note in the Drupal log that this is the placeholder future rates page so an editor will know which version to use the next time this page needs to be updated. (Example: "OK to publish-use for placeholder future rates")
-
+  - Save a final draft version and leave this note in the Drupal log: "OK to revert—most current placeholder text." This ensures another editor will know which version to use the next time this page needs to be updated. 
+  - **Publish** the page.
 ## Resources
 [Rate pages update table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/rate-page-update-audit.md_)
 
