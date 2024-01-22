@@ -6,7 +6,7 @@ Fromerly called Vocational Rehabilitation and Employment, the online 28-1900 for
 
 There are several [VR&E support-and-service "tracks"](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/) Veterans utilize.
 
-- [About VA Form 28-1900 (Application Request to Add and/or Remove Dependents)](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) 
+- [About VA Form 28-1900](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) 
 - [Start wizard questionnare](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start)
 - [Online form tool](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/introduction)
 
