@@ -61,10 +61,9 @@ Let’s start with a few questions...
 Thanks for answering those questions. I want to transition us to exploring the different sites together. First I want you to share your screen. Is that something you've done before?
 
 #### Instructions for folks NOT using screenreaders:
-- In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+- In the Zoom application on your computer/phone/tablet, first tap anywhere on the screen, then you should see a row of buttons. In the center is a button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-  - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
+  - Now I'd like you to share your screen with me. Tap on the button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
 #### Instructions for folks using screenreaders on a desktop:
 - Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
@@ -90,10 +89,10 @@ Okay looks like you have the prototype open. I want you to start by imagining th
 _If needed_Let's suppose you have to go through the sign-in process. You won't have to during this session but let's pretend for the sake of this session. 
 
 _Participant arrives on secure messaging page with message from doctor open_
-- What if anything is surprising about landing here on this page?
-- Before you click on anything, how would you describe where you landed?
+- What if anything is surprising about landing here on this page? (Or, is that what you would expect from the link in that email text?)
+- Before you click on anything, how would you describe where you landed? (Or, what is this website?)
     - If needed: If you didn't have an email linked here, how would you find it?
-    - If needed: If you were talking to a friend how would you explain getting here?
+    - If needed: If you were talking to a friend, how would you explain getting here?
     - How do you know?
    
 #### Things to note (desktop and mobile)
@@ -103,14 +102,9 @@ _Participant arrives on secure messaging page with message from doctor open_
 ### Task 1: Find x-ray - 15 mins
 _Medical records > Lab and test results > locate x-ray result for scan of left ankle_
 
-- Let's move slowly on this next task; the next thing I'm going to ask you to do is imagine that you want to look at the images and read the report from your x-rays.
+- Next, imagine that you want to look at the images and read the report from your x-rays.
 - Before you click anything, I want to hear where you might naturally start looking first? 
 - And what are you looking for?
-- Why focus on this ________ (secondary or primary nav) and not the other?
-- Let's talk more in detail about this area (the secondary nav):
-   - Could you walk me through each of the links laid out here?
-   - Where would you expect to be taken if you clicked that link?
-   - What if anything about finding your way around here seems confusing?
 - Okay, now go ahead and click around as needed to complete the task of viewing your x-ray images and report. _Guide as needed._
 
 #### Things to note (desktop and mobile)
@@ -129,7 +123,7 @@ _Medical records > Lab and test results > locate x-ray result for scan of left a
 ### Task 2: Make appointment - 5 mins
 _Labs and tests result > Appointments_
 
-- For the next task, imagine that you want to make a follow-up appointment with your doctor. Show me how you'd do that using this website.
+- For the next task, imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
 - I'm seeing you gravitate towards ______. Why are you going there first?
 - What are you looking for?
 
@@ -144,10 +138,11 @@ _Labs and tests result > Appointments_
 ### Task 3: Order CPAP supplies from VA - 5 mins 
 _Home > Order CPAP supplies_
 
-- The next task is the final one to complete with this version of the site. Please imagine you need to order CPAP supplies to help you breathe when you are sleeping. Where would you go to order those supplies? 
+- The next task is the final one to complete with this version of the site. Please imagine you need to order CPAP supplies to help you breathe when you are sleeping. Where would you go to order those supplies?
+- _If participant struggles, watch and wait_: Now that you've explored ____ a little bit, what do you think it's for?
 
-_Once arrived on CPAP supplies page_
-   - _If participant clicked link to get "home":_ How did you know to go there? What did you expect to find?
+- _Once arrived on CPAP supplies page_: How did you know to go there? What did you expect to find?
+- Are you still on the same site you started on? How do you know?
 
 #### Things to note (desktop and mobile)
 - Does participant seem more/less confident than last task?
@@ -160,6 +155,9 @@ _Once arrived on CPAP supplies page_
 
 ### Prototype 1 closing questions - 2 minutes
 We're going to switch over to looking at the other version of the same site. Before we do that:
+- Are these types of tasks things you've done before? Tell me more.
+- I noticed that you clicked / didn't click "menu" at the top right. What would you guess that is for? If you did click it, what would you expect to see?
+- How about the button or area labeled "Sally"?
 - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
     - Why that rating? 
 - Anything you'd like to share that I haven't asked you about?
@@ -199,7 +197,7 @@ _Home > Order CPAP supplies_
 
 - One final task is left: Please find where you'd order CPAP supplies (or any medical supplies). 
 - What if anything is different?
-
+  
 - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
     - Why that rating? 
 ---
