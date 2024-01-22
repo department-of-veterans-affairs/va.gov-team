@@ -1,5 +1,7 @@
 Disorganized notes
 
+Probably easiest to link existing user with appointments to BTSSS data, though Mark described the process for creating new users with appts.
+
 ## Use cases:
 - Temporal
   - Recently submitted travel claim(s)
