@@ -177,8 +177,8 @@ We're going to switch over to looking at the other version of the same site. Bef
 ## Tasks for Prototype 2 
 
 Okay, I'm getting ready to share the second link with you within the Zoom chat, just like last time. And again, just like last time, when you open the link it'll look like a website but it's just a prototype so you won't see your real information on the screens. I'm sending you the link now:
-  - Design A: https://codepen.io/figaro/project/live/dec27c9852d5bc105e841a3d0bc989ff
-  - Design B: https://codepen.io/figaro/project/live/63418c9f42aaf22d4c8198d968ce91cf
+  - Design A: http://tinyurl.com/3kppju7t
+  - Design B: http://tinyurl.com/yzkes9pj
 
 ### Task 0: Messages - 2 mins 
 
