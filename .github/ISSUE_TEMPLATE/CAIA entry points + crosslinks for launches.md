@@ -10,7 +10,7 @@ assignees: 'coforma-terry,strelichl'
 
 `WIP`
 
-This ticket is designed to coordinate IA and content tasks for PRODUCT UPDATES to update mega menu, left nav, and hub pages in Drupal.  
+This ticket is designed to coordinate IA and content tasks for **PRODUCT UPDATES** to update `mega menu`, `left nav`, and `hub pages` in Drupal.  
 
 ## Issue Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
