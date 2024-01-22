@@ -129,19 +129,12 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
    b) Yes, with some help  
    c) No (disqualify)  
 
-6.  **List the name of the screen readers or software you will use during the session. (Fill in)**
-    
-8.  **Please check the statement) that best applies to you:**  
- a) I am very comfortable using screen readers   
- b) I am comfortable using screen readers  
- c) I am still learning how to use screen readers  
-
-9. **Select the statement(s) that apply to you: (Check all that apply)**  
+6. **Select the statement(s) that apply to you: (Check all that apply)**  
   a) I have submitted a benefits claim  
   b) I have submitted a decision review / appeal  
   c) I have not submitted a benefits claim (disqualify)
 
-10. **Select the statement(s) that apply to you: (Check all that apply)**  
+7. **Select the statement(s) that apply to you: (Check all that apply)**  
    a) I submitted a form on VA.gov by myself  
    b) I submitted a form on VA.gov with the help of others
    c) I have never submitted a form on VA.gov
@@ -150,9 +143,10 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 Please follow up by phone with prospective participants with these (4) questions and please let us know what they say. 
 1. We want to confirm that you use a screen reader due to low vision or blindness
 2. What is the name of the screen reader technology you are using?
-3. Are you comfortable joining a Zoom call using your screen reader technology?
-4. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?
-5. (If participant uses Dolphin) Are you able to join the study on two devices, one for Zoom, and one to navigate to the webpages for this session?
+3. What is your comfort level with using screenreaders, very comfortable, comfortable, or still learning?
+4. Are you comfortable joining a Zoom call using your screen reader technology?
+5. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?
+6. (If participant uses Dolphin) Are you able to join the study on two devices, one for Zoom, and one to navigate to the webpages for this session?
 
 **Secondary criteria (nice-to-haves) What criteria would strengthen your results?**
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants who use screenreaders.
@@ -206,15 +200,15 @@ Please request enough dates and at least double the amount of time slots for the
 
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
--   Moderator: Eileen Chi / Ruben Sun   
--   Research guide writing and task development (usually but not always same as moderator): Eileen Chi / David Kennedy
+-   Moderator: Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io) / Ruben Sun [ruben.sun@coforma.io](ruben.sun@coforma.io)
+-   Research guide writing and task development (usually but not always same as moderator): Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io) / David Kennedy [david.kennedy@adhocteam.us](david.kennedy@adhocteam.us)
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Eileen Chi
 -   Participant(s) for pilot test: TBD
 -   Accessibility specialist (for sessions where support for screen readers may be needed): TBD
--   Note-takers: Ruben Sun / Eileen Chi, Sade Ragsdale  
+-   Note-takers: Ruben Sun / Eileen Chi, Sade Ragsdale  [sade@coforma.io](sade@coforma.io)
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side)
-  - Sade Ragsdale
-  - Ruben Sun
-  - David Kennedy
-  - Julie Strothman
+  - Sade Ragsdale [sade@coforma.io](sade@coforma.io)
+  - Ruben Sun [ruben.sun@coforma.io](ruben.sun@coforma.io)
+  - David Kennedy [david.kennedy@adhocteam.us](david.kennedy@adhocteam.us)
+  - Julie Strothman [julie.strothman@va.gov](julie.strothman@va.gov)
