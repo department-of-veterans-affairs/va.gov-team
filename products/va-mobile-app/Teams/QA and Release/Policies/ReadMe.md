@@ -20,7 +20,7 @@ Teams should be assigning their QA agent as soon as the ticket is created so tha
 | Flagship App - Global | Therese  | Will coordinate with Rachael is there is e2e automation needes | 
 | Flagship App - Health and Benefits  | Tom | Will coordinate with Rachael is there is e2e automation needes | 
 | Shared Services - Design System | None | Per PM of Design Systems not anticipating making any production changes; working in their own repo. Design System will work with Flagship App teams to implement changes which will be handled by Flagship App QA agents |
-| Shared Services - API / Backend | Rachael | None planned, however API team has shown needed.   |  
+| Shared Services - API / Backend | Limited to none | Rachael will cover see if API team plans any. Identified that API BE has expected QA though none was planned |  
 | Release QA testing  | Tom | | 
 | Release Management |  Adam | Tom to cover during Adam's leave |
 | QA Projects | up to 20% of capacity will be spent on improving QA processes | 
