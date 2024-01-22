@@ -19,7 +19,7 @@ _What details are necessary for understanding the specific work or request track
 ---
 ## Tasks
 - [ ] IA works with product team to identify entry points and crosslinks
-- [ ] IA documents plan in IA Spec in the IA Spec folder on github
+- [ ] IA documents plan in IA Spec in the [IA Spec folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/ia-design-docs) on github
 - [ ] IA adds the IA spec to the intake ticket for the product team, tags Lily/Megan 
 - [ ] Lily ensures IA spec is included in content ticket
 - [ ] Content writer notifies Megan/Chelsea when it’s time to implement
