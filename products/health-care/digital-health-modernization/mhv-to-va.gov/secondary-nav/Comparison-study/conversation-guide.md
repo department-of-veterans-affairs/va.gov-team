@@ -85,16 +85,15 @@ Thank you for your patience in figuring this out.  Now let's go to that website.
 
 ### Task 0: Messages - 5 mins 
 
-Okay looks like you have the prototype open. I want you to start by imagining that you just received this email. Go ahead and read the email text.
-
-_Once the participant is done reading_: What would you do next? Go ahead and do that.
+Okay looks like you have the prototype open. I want you to start by imagining that you just received this email. Go ahead and read the email text and follow the prompt.
 
 _Participant arrives on secure messaging page with message from doctor open_
-
--  Before you click on anything, how would you describe where you are on this site? 
-   - How do you know? 
--  What if anything is surprising about landing here on this page?
-
+- What if anything is surprising about landing here on this page?
+- Before you click on anything, how would you describe where you landed?
+    - If needed: If you didn't have an email linked here, how would you find it?
+    - If needed: If you were talking to a friend how would you explain getting here?
+    - How do you know?
+   
 #### Things to note (desktop and mobile)
 - Where does participant think they landed?
 - What are sign posts the participant points to?
