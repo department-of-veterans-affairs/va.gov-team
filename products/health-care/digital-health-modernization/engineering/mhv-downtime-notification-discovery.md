@@ -44,14 +44,14 @@ The MHV Landing Page should implement the following UX for a downtime window sch
 - During window, error (red) `va-alert`
 - When individual APIs have a PagerDuty window,the alert on the landing page should be specific about which tool(s) is or will be unavailable.
 
-See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?wid=0-1704931214384) for visuals and content.
+See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705509202969/42becb4e1bcb478d93488ced78511a9c6acf9276?sender=u4c72b2ff45e7c2f8e2942500) for visuals and content.
 
 #### Tool pages
 
 - In the 60 minutes leading up to the window, a modal should show on page load, and a warning (orange) `va-alert` should remain on the page.
 - During window, error (red) `va-alert` replaces tool application, with page's other components (and especially navigational ones like H1 and breadcrumbs) still present at the top of the page.
 
-See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?wid=0-1704931276185) for visuals and content.
+See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705509202969/42becb4e1bcb478d93488ced78511a9c6acf9276?sender=u4c72b2ff45e7c2f8e2942500) for visuals and content.
 
 See below for some recommendations on how to implement changes. Some refactor of either the tool pages or the `DowntimeNotification` component will be necessary to achieve the recommended UX.
 
@@ -73,7 +73,7 @@ The Platform's [Downtime Notification](https://depo-platform-documentation.scrol
 In particular, we want:
 
 - An h1 heading identifying the app/page to appear along with the downtime alert. The platform downtime notification component doesn't provide this.
-- The alert to follow the UX and content recommended in the [Mural designs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?sender=u4c72b2ff45e7c2f8e2942500)
+- The alert to follow the UX and content recommended in the [Mural designs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705509202969/42becb4e1bcb478d93488ced78511a9c6acf9276?sender=u4c72b2ff45e7c2f8e2942500)
   - App/tool name appears inside the alert. The platform component shows generic "this tool" text.
   - Shows times for maintenance window. The platform component does not show start or end times
 - consistency across all MHV apps/pages
