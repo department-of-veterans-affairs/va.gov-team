@@ -11,8 +11,7 @@ ________________________________________________________________________________
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support eCheck-in for CERNER Sites**
  - **GOAL: Address Usage Issues**
-     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**     
+     - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
      - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
@@ -28,6 +27,9 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
+        - 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
+        - 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
+        - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - 🟩 [[CHIP] SPIKE - figure out what is needed with a refresh endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73854)
         - 🟩 [[CHIP] SPIKE - Research new cerner payload from vetext](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73636)
         - 🟦 TBD                    
