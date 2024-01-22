@@ -24,6 +24,19 @@ Passcode: 55$kzl1+
   * Go to [search](https://vagov.ddog-gov.com/apm/services/search/operations/rack.request/resources?env=eks-prod&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21f%29%2Csublayer%3A%28slot%3A%28layers%3Aservice%29%2Cselected%3Apercentage%29%29%2Cversion%3A%211%29&view=spans&start=1704213833501&end=1704217433501&paused=false), paste the timeframe
 * Check for error states / API response errors / logs
 
+
+## Synthetic test: VA.gov homepage functional browser test
+https://vagov.ddog-gov.com/synthetics/details/gsg-zui-hg8
+
+The homepage synthetic test also does include steps to: 
+* "Click on button `Search`"
+* Type text on input #search-header-dropdown-input
+* Click on i "fas fa-solid fa-sm fa-search ..."
+* Test text is present on the active page (test text = Results text"
+
+If this synthetic test fails, a related VA.gov homepage monitor ([documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md#vagov-homepage-load-is-failing)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md#vagov-homepage-load-is-failing) will alarm. Triage of that monitor should verify any search impact.
+
+
 ## Slack Channels for Alerts
 - #public-websites-monitoring
 - #devops-alerts
