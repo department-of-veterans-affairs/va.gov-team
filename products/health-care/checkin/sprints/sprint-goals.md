@@ -5,6 +5,51 @@
 <summary>FUTURE SPRINT - 1/24 through 2/6</summary>
 ______________________________________________________________________________________________________________________________________________________
 
+## 2/7/2024 - 2/20/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+ - **GOAL: Support Production**  
+ - **GOAL: Integrate with CERNER**
+     - **Sub Goal: Support eCheck-in for CERNER Sites**
+ - **GOAL: Address Usage Issues**
+     - **Sub Goal: Change wording for wait time after checking in** 
+- **GOAL: Increase PCI Usage**
+     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
+     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address Tech Debt**
+     - **Sub Goal: Migrate Sktech Files to Figma**
+     - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**     
+
+#### PLANNED RELEASES 
+- NONE
+  
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+- **GOAL: Integrate with CERNER**
+    - **Sub Goal: Support eCheck-in for CERNER Sites**
+        - 🟥 TBD        
+        - 🟩 TBD
+        - 🟦 TBD                    
+- **GOAL: Address Usage Issues**
+     - **Sub Goal: Change wording for wait time after checking in**
+         - 🟥 TBD
+         - 🟩 TBD
+- **GOAL: Increase Usage of PCI**
+    - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
+        - 🟥 TBD
+  - **Sub Goal: Analyze current metrics to see what they tell us**               
+       - 🟥 [Research] Analyze GA Metrics
+       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71834)
+- **GOAL: Address Tech Debt**            
+     
+
+------- END FUTURE / TENTATIVE ------
+</details>
+
+<details>
+<summary>FUTURE SPRINT - 1/24 through 2/6</summary>
+______________________________________________________________________________________________________________________________________________________
+
 ## 1/24/2023 - 2/6/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
  - **GOAL: Support Production**  
