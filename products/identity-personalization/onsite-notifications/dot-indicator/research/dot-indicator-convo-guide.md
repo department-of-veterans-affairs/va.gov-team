@@ -40,7 +40,7 @@ Okay great, I can see your screen. Now please click the "sign in" button in the 
 - *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
 - *If they don't mention the indicators* Go to the Health care section. 
 
-- __*For colorblind participants* Do you have any trouble seeing the dot or the badge with the number in it? What color do they appear to be to you?
+- _*For colorblind participants* Do you have any trouble seeing the dot or the badge with the number in it? What color do they appear to be to you?
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblindness standpoint?
 
 - *For magnicifcation participants - observe if they seem to notice links off to the right on desktop without being prompted. If they don't, direct them to where they are located*
