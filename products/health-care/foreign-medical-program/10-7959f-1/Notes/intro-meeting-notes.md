@@ -1,10 +1,9 @@
-FMP Intro meeting
-1/22/24
+FMP Intro meeting, 1/22/24
 FMP and VFMP (Veteran and Family member programs - higher level portfolio)
-Andy Szymczak (Director) 
-Jennifer Rivera -  since 2019 (been with VA), supervisor for eligibility and verification enrollment portion
-Stanley Nelson - program management supervisor analyst (13 years)
-Andrea Bingham - deputy (been here for 20 years)
+- Andy Szymczak (Director) 
+- Jennifer Rivera - supervisor for eligibility and verification enrollment portion
+- Stanley Nelson - program management supervisor analyst 
+- Andrea Bingham - deputy 
 
 High level overview of the form - 
 - Registration and claims
