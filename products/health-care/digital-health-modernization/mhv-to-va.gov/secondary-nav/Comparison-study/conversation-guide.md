@@ -9,11 +9,6 @@
 - [ ] Check Settings -> Meeting -> In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - [ ] Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictures in a meeting ON
 
-### 2-3 days before the session
-
-- [ ] Confirm notetaker and assistive tech support availability
-- [ ] Let notetaker know if anything has changed in the conversation guide
-
 ### Day of the session
 
 - [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
