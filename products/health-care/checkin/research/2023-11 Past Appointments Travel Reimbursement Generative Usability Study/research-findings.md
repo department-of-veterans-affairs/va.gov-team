@@ -326,7 +326,7 @@ Most challenges arose when participants tried to learn more about a claim status
 
 #### Past appointments list page
 
-- Further evaluate effectiveness of the dot indicator pattern, and whether it can be modified to include context about the action that needs to be completed. If not, explore a task card component that supports a group of tasks to complete, which is something the Check In Team is beginning to explore for the VA design community.
+- Further evaluate effectiveness of the dot indicator pattern, and whether it can be modified to include context about the action that needs to be completed. In addition, explore a task card component that supports a group of tasks to complete, which is something the Check In Team is beginning to explore for the VA design community.
 
 #### Past appointments detail page
 
