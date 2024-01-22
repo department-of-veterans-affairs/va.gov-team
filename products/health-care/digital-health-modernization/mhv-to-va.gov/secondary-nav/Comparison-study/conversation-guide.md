@@ -110,11 +110,6 @@ _Medical records > Lab and test results > locate x-ray result for scan of left a
    - Where would you expect to be taken if you clicked that link?
    - What if anything about finding your way around here seems confusing?
 - Okay, now go ahead and click around as needed to complete the task of viewing your x-ray images and report. _Guide as needed._
-- _Once participant arrives_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding your x-ray results?
-   - Why do you give that rating?
-- Now that you see where to find your x-rays on this site, what are your thoughts about where it's located on this site??
-   - Where would you put it?
-- If you were on the phone with a friend who is also a Veteran and is looking for this site, how would you explain how to get to this site?
 
 #### Things to note (desktop and mobile)
 - Which nav does the participant gravitate towards first?
@@ -135,10 +130,6 @@ _Labs and tests result > Appointments_
 - For the next task, imagine that you want to make a follow-up appointment with your doctor. Show me how you'd do that using this website.
 - I'm seeing you gravitate towards ______. Why are you going there first?
 - What are you looking for?
-- _Once participant arrives on Appointments_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where you might schedule an appointment?
-   - Why do you give that rating?
-- Now that you see where to schedule an appointment on this site, does its location make sense?
-   - Where would it make more sense?
 
 #### Things to note (desktop and mobile)
 - Does participant seem more/less confident than last task?
@@ -154,10 +145,6 @@ _Home > Order CPAP supplies_
 - The next task is the final one to complete with this version of the site. Please imagine you need to order CPAP supplies to help you breathe when you are sleeping. Where would you go to order those supplies? 
 _Once arrived on CPAP supplies page_
    - _If participant clicked link to get "home": _What did you expect to see when you clicked "My HealtheVet" or "home"?
-   - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where to order medical supplies?
-   - Why do you give that rating?
-- Now that you see where to order supplies on this site, does its location make sense?
-   - Where would it make more sense?
 
 #### Things to note (desktop and mobile)
 - Does participant seem more/less confident than last task?
@@ -170,6 +157,8 @@ _Once arrived on CPAP supplies page_
 
 ### Prototype 1 closing questions - 2 minutes
 We're going to switch over to looking at the other version of the same site. Before we do that:
+- On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
+    - Why that rating? 
 - Anything you'd like to share that I haven't asked you about?
 
 -----
@@ -183,20 +172,13 @@ Okay, I'm getting ready to share the second link with you within the Zoom chat, 
 ### Task 0: Messages - 2 mins 
 
 Now we will walk through the same tasks using this version.
-
 _Participant arrives on secure messaging page with message from doctor open_
-
--  take a moment to look around - before we start with tasks.
-
--  What if anything is surprising about landing here on this page?
 
 ### Task 1: Find x-ray - 5 mins
 _Medical records > Lab and test results > locate x-ray result for scan of left ankle_
 
 - Find your x-ray images and report on this version of the site?
 - _Once participant arrives_: What if anything felt different as you completed that task this second time?
-   - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding your x-ray results?
-      - Why do you give that rating?
 
 #### Things to note (desktop and mobile)
 - What is different from last time (Prototype A)?
@@ -207,17 +189,16 @@ _Medical records > Lab and test results > locate x-ray result for scan of left a
 _Labs and tests result > Appointments_
 
 - Now, I want you to schedule an appointment with your doctor. 
-- _Once participant arrives on Appointments_: On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where you might schedule an appointment?
-   - Why do you give that rating?
+- Did you notice anything that was different from last time?
 
 ### Task 3: Order CPAP supplies from VA - 5 mins 
 _Home > Order CPAP supplies_
 
 - One final task is left: Please find where you'd order CPAP supplies (or any medical supplies). 
-- _Once arrived on CPAP supplies page_
-   - On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding where to order medical supplies?
-   - Why do you give that rating?
+- What if anything is different?
 
+- On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
+    - Why that rating? 
 ---
 
 ## Interview closing questions - 5 minutes
@@ -226,9 +207,7 @@ Thank you for your patience and for going through those tasks again using this s
 
 - Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
 - Did you find one version easier than another to use? Why? What about it?
-- Mobile: What role if any do you think the dropdown played in your ability to navigate the site? 
-- Desktop: How about the "home" button?
-
+- If you were talking to a friend that is also a Veteran and wanted to explain to them how to find this site on the web, what would you say?
 - If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you describe the relationship between this site and the VA.gov?
 - Anything I didn't ask you about that you want to share about your experience? 
 
