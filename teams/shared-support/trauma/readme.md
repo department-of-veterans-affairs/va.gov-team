@@ -77,7 +77,7 @@ Attended a Community of Practice meeting or Practice Circle? Lurk on our Slack c
 <hr/>
 
 ### Facilitators 👐
-Facilitated a big meeting or small group? You've helped serve as glue for our community 🩹
+Facilitated a Community of Practice meeting or Practice Circle? You've helped serve as glue for our community 🩹
 
 - Rachael Dietkus
 - Martha Wilkes
@@ -98,7 +98,7 @@ Facilitated a big meeting or small group? You've helped serve as glue for our co
 <hr/>
 
 ### Scribes 📝
-Took notes for a big meeting or small group? You've helped share and grow our learnings 🪴
+Took notes for a Community of Practice meeting? You've helped share and grow our learnings 🪴
 
 - Martha Wilkes
 - Josh Kim
