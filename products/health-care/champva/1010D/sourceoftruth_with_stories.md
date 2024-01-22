@@ -7,10 +7,10 @@
 
 { subtitle } Form 10-10d
 
-Are you the spouse, surviving spouse, child or caretaker of a Veteran who is permanently and totally disabled or a Veteran who has died? If you don’t qualify for TRICARE (the Department of Defense’s health care program for active-duty and retired service members and their families), you may be able to get health benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA). Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing.
+Are you the spouse, surviving spouse, child or caretaker of a Veteran who is permanently and totally disabled or a Veteran who has died? If you don’t qualify for [TRICARE](https://www.tricare.mil/) (the Department of Defense’s health care program for active-duty and retired service members and their families), you may be able to get health benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA). Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing.
 <br/>
 ###  [H2] What benefits do I get with CHAMPVA?
-You may use CHAMPVA as a standalone service or as an additional health benefit to your other health insurance or Medicare.
+You may use CHAMPVA as a standalone service or as an additional health benefit to supplement your other health insurance or Medicare.
 
 
 With CHAMPVA, you’ll be covered for services and supplies when we determine they are medically necessary and were received from an authorized provider. When providers are performing services within the scope of their license or certification, we consider them to be authorized.
@@ -35,13 +35,13 @@ When you’re signed up for CHAMPVA, you’ll get a copy of the CHAMPVA Program 
 
 { Link }[Download fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
 
-###  [H2] How is CHAMPVA different from other health Insurance?
+###  [H2] How is CHAMPVA different from health insurance?
  <! --- need to add some content here if this section has more evidence that it would be valuable to the applicants --->
 
 
 ###  [H2] Am I eligible for health benefits through CHAMPVA?
 
-You may be eligible for CHAMPVA health benefits if don't qualify for TRICARE and the Veteran you're connected to can be described as one of the following,
+You may be eligible for CHAMPVA health benefits if don't qualify for TRICARE and the Veteran you're connected to can be described as at least one of the following,
 
 
 - Has been rated permanently and totally disabled for a service-connected disability by a VA regional office
@@ -50,33 +50,35 @@ You may be eligible for CHAMPVA health benefits if don't qualify for TRICARE and
 - Has died in the line of duty, not due to misconduct
 
 
-Depending on your relationship to your veteran and/ or other health insurance status you may need to submit additional forms and files. The enrollment form will guide you on what is needed. 
+Depending on your relationship to the Veteran Veteran sponsoring your application and your enrollment in other health insurance programs, you may need to submit additional forms or files. The enrollment form will guide you on what you’ll need. 
 
 
-Please click on the description that matches your status to learn more about your eligibility:
+Please click on the description that matches your status to learn more about your potential eligibility and the additional documents you’ll need:
 
 
 <details>
-  <summary>Spouses</summary>
+  <summary>If you are a spouses or surviving spouses, you are eligible if:</summary>
 
   
-- Spouses or surviving spouses under 65 years old with both Medicare Parts A and B
-- Spouses or surviving spouses that turned 65 before June 5, 2001, and you’re entitled to both Medicare Part A or B
-- Spouses or surviving spouses with other health insurance
-- Surviving spouses who remarried on or after your 55th birthday. If you remarry before age 55, you no longer qualify for CHAMPVA as of midnight on the date of your remarriage.
-- Remarried surviving spouses whose remarriage ends by death, divorce, or annulment and previously had CHAMPVA benefits. The first date that you qualify again is the first day of the month after your remarriage ends or December 1, 1999—whichever date is later. You’ll need to provide us with copies of your marriage certificate and death, divorce, or annulment documents (as appropriate).
+- You're under 65 years old with both Medicare Parts A and B
+- You turned 65 before June 5, 2001, and you’re entitled to both Medicare Part A or B
+- You have other health insurance
+- You're a surviving spouse who remarried on or after your 55th birthday. If you remarry before age 55, you no longer qualify for CHAMPVA as of midnight on the date of your remarriage.
+- You're a remarried surviving spouses whose remarriage ends by death, divorce, or annulment and previously had CHAMPVA benefits. The first date that you qualify again is the first day of the month after your remarriage ends or December 1, 1999—whichever date is later. You’ll need to provide us with copies of your marriage certificate and death, divorce, or annulment documents (as appropriate).
 
 
 Additional guidance on when VA recognizes marriages is available at {Link} http://www.va.gov/opa/marriage/.
 
 </details>
 <details>
-  <summary>Children: includes legitimate, adopted, illegitimate, and stepchildren</summary>
+  <summary>If you're the Veteran’s child (includes biological, adopted, and stepchildren), you’re eligible if:</summary>
 
   
-- Children or surviving children between the ages of 18 or 23 that are enrolled full-time course of instruction at an approved educational institution - school certification required
-- Children or surviving children with other health insurance that live at home with the Veteran they are connected to. 
-- Newborns or surviving newborn with social security numbers assigned to them 
+- You're the child or surviving child of a Veteran. If you're between the ages of 18 and 23, you’ll need to a school certification to demonstrate that you’re enrolled full-time course of instruction at an approved educational institution
+- You're the child living at home with the Veteran you’re connected to and have other health insurance
+- You're the surviving child of a Veteran and have other health insurance 
+- The applicant is a Veteran’s newborn or surviving newborn with an assigned social security number. The newborn will need to set up as the dependent of the Veteran they’re connected to
+
 
   
 { Link }[Find a Social Security office near you](https://secure.ssa.gov/ICON/main.jsp)
