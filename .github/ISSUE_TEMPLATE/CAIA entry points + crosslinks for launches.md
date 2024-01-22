@@ -1,11 +1,15 @@
 ---
-name: CAIA entry points + crosslinks for launches
-about: For CAIA internal use, preparing multiple disciplines for product (re)launches
-title: ''
-labels: ''
-assignees: ''
-
+name: CAIA entry points and crosslinks for launches
+about: WIP for CAIA internal use, preparing multiple disciplines for product re-launches
+title: '[CAIA Internal]:<Team needing support><Support Needed><CAIA Disciplines>'
+labels: 'sitewide CAIA'
+assignees: 'coforma-terry,strelichl'
 ---
+
+# CAIA Internal Collaboration 
+
+`WIP`
+
 This ticket is designed to coordinate IA and content tasks for PRODUCT UPDATES to update mega menu, left nav, and hub pages in Drupal.  
 
 ## Issue Description
