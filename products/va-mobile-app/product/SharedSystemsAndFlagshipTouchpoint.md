@@ -4,6 +4,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 
 01/23/24
 * Discuss implementation of Design System components into the Flagship app (Kelly)
+* Discuss Flagship building new components for the DS - Personalization (Kelly)
 * Governance between teams on accessibility requirements (Matt)
 
 
