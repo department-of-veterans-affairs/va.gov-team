@@ -24,3 +24,7 @@ assignees: ''
 Practice areas will document their feedback on the VFS-provided artifacts following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback). Platform Governance reviewers may also provide additional notes that don’t comment on the artifacts themselves but are important for implementation (eg. engineering/coding notes).
 
 - 
+
+## Governance team actions
+- [ ] Assign this ticket to the VFS team member that opened the Slack request
+- [ ] Add the VFS team product label and the feature label
