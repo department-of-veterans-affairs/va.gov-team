@@ -78,7 +78,6 @@ Thank you for your patience in figuring this out.  Now let's go to that website.
 
 #### Open prototype
 - Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the Zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser.
-
   - Design A: https://codepen.io/figaro/project/live/dec27c9852d5bc105e841a3d0bc989ff
   - Design B: https://codepen.io/figaro/project/live/63418c9f42aaf22d4c8198d968ce91cf
 
