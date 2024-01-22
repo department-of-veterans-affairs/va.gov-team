@@ -87,6 +87,8 @@ Thank you for your patience in figuring this out.  Now let's go to that website.
 
 Okay looks like you have the prototype open. I want you to start by imagining that you just received this email. Go ahead and read the email text and follow the prompt.
 
+_If needed_Let's suppose you have to go through the sign-in process. You won't have to during this session but let's pretend for the sake of this session. 
+
 _Participant arrives on secure messaging page with message from doctor open_
 - What if anything is surprising about landing here on this page?
 - Before you click on anything, how would you describe where you landed?
