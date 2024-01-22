@@ -92,7 +92,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
 - [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 Collaboration Cycle
-- [ ] Collab Cycle ticket 
+- [ ] Collab Cycle ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/74178
 - [ ] Design Intent
 - [ ] Content, Accessibility and IA 
 - [ ] Midpoint 
