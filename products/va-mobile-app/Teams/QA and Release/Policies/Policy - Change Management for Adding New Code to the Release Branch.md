@@ -1,4 +1,4 @@
-# Policy - Change Management for Adding New Code to the Releae Branch
+# Policy - Change Management for Adding New Code to the Release Branch
 Version 1.0
 
 ## DESCRIPTION: 
