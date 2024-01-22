@@ -6,6 +6,7 @@ https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx?from_ts=1698262600630&
 
 **What is:** 
 * Synthetic test that verifies VA.gov homepage loads, driven by the [[PLATFORM] VA.gov Homepage Load synthetic test](https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx?from_ts=1700142575896&to_ts=1700156975896&live=true), which tests https://www.va.gov from 3 locations on 9 devices every 30 minutes.
+* This test also tests the header Search form and clicking through to VA Forms from the footer, so may require follow up steps to triage [Search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md) or [Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md) monitors, if either of those steps fail.
 
 **What it means when it fails**
 
