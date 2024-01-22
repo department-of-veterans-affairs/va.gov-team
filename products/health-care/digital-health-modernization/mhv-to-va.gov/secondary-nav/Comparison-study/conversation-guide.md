@@ -78,7 +78,7 @@ Thank you for your patience in figuring this out.  Now let's go to that website.
 
 #### Open prototype
 - Thanks for your patience in figuring that out together. In a moment I'll share a link with you in the Zoom chat. Just a reminder: the link will open what appears to be a webpage but it's actually just a prototype (aka a fake website). It might not behave exactly as you'd expect a webpage to behave, and you won't see your name or your own personal information. Okay I'm sending the link now. Go ahead and copy and paste the link in your browser.
-  - Design A: http://tinyurl.com/33wn2skn
+  - Design A: http://tinyurl.com/2h2hjcy6
   - Design B: http://tinyurl.com/3r8kfcb4
 
 ## Tasks for Prototype 1 
