@@ -12,13 +12,18 @@ Better yet, OVER-document. If it is more complex than a tsdoc or API doc, add an
 The QA team is involved with work whenever there is a code change that needs to be reviewed prior to releasing the updated code to the iOS and Android App stores for consumers to download the updated version of the VA-Mobile App. Mobile Team should coordinate with their QA agent in any and all relevant testing discussions. Additional tickets should be tagged and assigned appropriately in order for QA to monitor and manage their work. 
 
 ## QA Agent Assignments
+
+Teams should be assigning their QA agent as soon as the ticket is created so that the QA agent can see their backlog and better manage their work on the Zenhub Board. 
+
 |Team | QA Agent | Notes |
 | ---- | ----- | ---- | 
-| Flagship App - Global | Therese  | 
-| Flagship App - Health and Benefits  | Tom | 
-| Shared Services - Design System | Rachael | Per PM of Design Systems not anticipating making any production changes; working in their own repo. Design System will work with Flagship App teams to implement changes which will be handled by Flagship App QA agents |
-| Shared Services - API / Backend | Rachael | Per PM of API not anticipating a lot of production changes as this will happen after the API integration is done and being integrated with on the front end of the Flagship App Teams which at that time their QA agent will test. Other QA work may be updated APIs upsteam given mobile is an API consumer |  
-| Release QA testing and processes | Tom | | 
+| Flagship App - Global | Therese  | Will coordinate with Rachael is there is e2e automation needes | 
+| Flagship App - Health and Benefits  | Tom | Will coordinate with Rachael is there is e2e automation needes | 
+| Shared Services - Design System | None | Per PM of Design Systems not anticipating making any production changes; working in their own repo. Design System will work with Flagship App teams to implement changes which will be handled by Flagship App QA agents |
+| Shared Services - API / Backend | Rachael | None planned, however API team has shown needed.   |  
+| Release QA testing  | Tom | | 
+| Release Management |  Adam | Tom to cover during Adam's leave |
+| QA Projects | up to 20% of capacity will be spent on improving QA processes | 
 | External team - Veteran Status | Not assigned per Mobile leadership | Mobile leadership has talked about how this work will go through Flagship App teams - waiting on Mobile Leadereship to finalize and communicate decision | 
 
 
