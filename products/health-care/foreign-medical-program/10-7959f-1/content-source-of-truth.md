@@ -113,11 +113,17 @@ VA Claim File number
 [ ] The Veteran doesn’t have a physical address, or I don’t know it
 
 Country (* Required) 
+
 Street address 
+
 Street address line 2 
+
 Street address line 3 
+
 City (* Required) 
+
 State (* Required) 
+
 Postal code (* Required)
 
 { Buttons } Back / Continue
