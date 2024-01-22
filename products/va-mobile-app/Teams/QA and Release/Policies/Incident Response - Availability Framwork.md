@@ -24,7 +24,8 @@ AF changes are made without a release and screen/content changes can be made in 
  -  Ideally, determine what type of release will follow it up (hotfix / regular release)
      
  2.) Impacted Team finalizes and approves copy and screen placement
-  - Discuss if copy needs to be updated to align with root cause fix timing 
+  - Discuss if copy needs to be updated to align with root cause fix timing
+  - UX validates visual look and feel
 
  3.) QA successfully tests the AF solution 
   - If issues are found, Incident Commander can decide to fix the issues or proceed with the issues 
@@ -77,7 +78,8 @@ AF changes are made without a release and screen/content changes can be made in 
 
 ### Open Questions 
 
-Does the AF message stay up until they update the app
-Can we do different AF messages depending on the app version 
-What in the past would we have used Availability Framework for and what wouldn’t we have used it on
-Do we need an AF ticket template or label? Is there one for Incidence Response process 
+- Does the AF message stay up until they update the app
+- Can we do different AF messages depending on the app version 
+- What in the past would we have used Availability Framework for and what wouldn’t we have used it on
+- Do we need an AF ticket template or label? Is there one for Incidence Response process
+- Can e2e be applied here 
