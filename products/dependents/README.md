@@ -69,9 +69,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Complete usability baseline research to determine priorities for improvement
 - Compelte accessibility audit to identify outstanding issues
 - Complete form component audit to ensure all design system components are up-to-date
-- Identify ways to 
-- Out of scope: Remediation of non-critical accessibility issues. Descoping a complete accessibilty audit will ensure we can get critical form updates to Veterans in a timely manner.
-- Future: An assessment of the complete 686/674 online form experience will be done to identify and prioritize form improvements and additional accessibility work.
 
 ### Initiatives
 - [2024 686 and 674 Online form Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative-Brief-686-674-Form-Updates.md)
@@ -112,7 +109,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 - Team Name: Benefits Dependent Experience Team (Team Tree)
-- GitHub Label(s): Tree
+- GitHub Team Label: Tree
+- GitHub Product Label: 686, 674
 - Slack channel: benefits-dependents-management
 - Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
 
