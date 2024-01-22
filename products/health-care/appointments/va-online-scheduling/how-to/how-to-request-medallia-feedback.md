@@ -48,8 +48,8 @@ All in one file, on one tab
 | Dates                 | Submitted By | Ticket | Status |
 | --------------------- | ------------ | ---- | ------ |
 | Week 1 Dec 31–Jan 06  | Peter Russo  | [73165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73165) | Done       |
-| Week 2 Jan 07–Jan 13  | Peter Russo  | [73698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73698) | In progress       |
-| Week 3 Jan 14–Jan 20  | Peter Russo  | []() |        |
+| Week 2 Jan 07–Jan 13  | Peter Russo  | [73698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73698) | Done       |
+| Week 3 Jan 14–Jan 20  | Peter Russo  | [74120](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74120) | In progress        |
 | Week 4 Jan 21–Jan 27  | Peter Russo  | []() |        |
 | Week 5 Jan 28–Feb 03  | Peter Russo  | []() |        |
 | Week 6 Feb 04–Feb 10  |              | []() |        |
