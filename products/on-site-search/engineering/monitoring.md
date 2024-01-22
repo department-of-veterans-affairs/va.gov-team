@@ -25,18 +25,24 @@ Passcode: 55$kzl1+
 * Check for error states / API response errors / logs
 
 
-## Synthetic test: VA.gov homepage functional browser test
-https://vagov.ddog-gov.com/synthetics/details/gsg-zui-hg8
+## Synthetic test: VA.gov - Search Browser Test
+https://vagov.ddog-gov.com/synthetics/details/nb3-hf7-68y
 
-The homepage synthetic test also does include steps to: 
+**What is:** Browser test that runs steps:
+* Navigates to va.gov
 * "Click on button `Search`"
 * Type text on input #search-header-dropdown-input
 * Click on i "fas fa-solid fa-sm fa-search ..."
 * Test text is present on the active page (test text = Results text"
 
-If this synthetic test fails, a related VA.gov homepage monitor ([documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md#vagov-homepage-load-is-failing)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md#vagov-homepage-load-is-failing) will alarm. Triage of that monitor should verify any search impact.
+If this test alarms, either Homepage didn't load (in which case Homepage monitors may also go off), or some steps in the search process fail. 
 
-
+**Triage:**
+* Click through to synthetic test, scroll to History, highlight red area that indicates failure timeframe
+* Scroll down to Sample Runs, click Failed run to see which events in the test failed
+* If Search didn't load / returned errors, check https://search.gov/status.html for Search.gov downtime
+* If Search.gov is up, check other search monitors for anomalous traffic and open a Plat support ticket for help as needed
+ 
 ## Slack Channels for Alerts
 - #public-websites-monitoring
 - #devops-alerts
