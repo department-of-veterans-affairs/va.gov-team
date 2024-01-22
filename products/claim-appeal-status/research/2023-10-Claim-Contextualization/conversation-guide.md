@@ -67,7 +67,7 @@ So let's say you are signed into your VA.gov account and you're looking at this 
 
 - Do you know what this page is? If yes, what is it?
 - Describe to me what you're seeing here.
-- Let's say you're waiting for this top claim to be decided. What would you say is the status of the claim, based on what you see here? And what does that status mean to you?
+- Let's say you're waiting for this top claim to be decided. What would you say is the status of the claim, based on what you see here? (Point them towards "Step 3 of 8: Evidence gathering" if they don't reference it themselves.) And what does that status mean to you? 
 
 ### Things to watch for:
 
