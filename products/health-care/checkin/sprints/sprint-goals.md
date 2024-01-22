@@ -2,7 +2,7 @@
 🟦 BE 🟩 FE 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
-<summary>FUTURE SPRINT - 1/24 through 2/6</summary>
+<summary>FUTURE SPRINT - 2/7 through 2/20</summary>
 ______________________________________________________________________________________________________________________________________________________
 
 ## 2/7/2024 - 2/20/2024  ------- FUTURE FUTURE / TENTATIVE ------
