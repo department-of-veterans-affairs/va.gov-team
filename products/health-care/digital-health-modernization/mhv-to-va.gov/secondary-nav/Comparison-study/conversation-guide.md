@@ -143,8 +143,9 @@ _Labs and tests result > Appointments_
 _Home > Order CPAP supplies_
 
 - The next task is the final one to complete with this version of the site. Please imagine you need to order CPAP supplies to help you breathe when you are sleeping. Where would you go to order those supplies? 
+
 _Once arrived on CPAP supplies page_
-   - _If participant clicked link to get "home": _What did you expect to see when you clicked "My HealtheVet" or "home"?
+   - _If participant clicked link to get "home":_ How did you know to go there? What did you expect to find?
 
 #### Things to note (desktop and mobile)
 - Does participant seem more/less confident than last task?
