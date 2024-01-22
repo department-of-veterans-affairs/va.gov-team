@@ -3,7 +3,8 @@ FMP Intro meeting, 1/22/24
 - Andy Szymczak (Director) 
 - Jennifer Rivera - supervisor for eligibility and verification enrollment portion
 - Stanley Nelson - program management supervisor analyst 
-- Andrea Bingham - deputy 
+- Andrea Bingham - deputy
+- Other attendees: Brian Wilke, Rachael Penfil, Premal Shah, Mary Wang
 
 High level overview: 
 - Registration - singular and for life - updates can occur later on (separate)
