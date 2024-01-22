@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 10, 2024
+Last updated by @tygindraux: January 22, 2024
 
 ## Moderator logistics
 
@@ -85,18 +85,16 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 
 ## Warm up (5 minutes)
 
-Alright, it sounds like we’re ready to get started. I'd like to begin by learning more about your experience with VA and our online services.
+It seems like we’re ready to get started. I'd like to begin by learning more about your experience with the VA and our online services.
 
-- How long have you been a Veteran?
-- How often do you go online to use VA services, like, schedule a medical appointment or check your benefits?
-- Have you ever contacted VA online or over the phone?
+- **First off, how long have you been a Veteran?**
+- **Have you ever contacted VA online or over the phone?**
   - `IF NO`
-    - Why might you contact VA?
+   - **Why might you contact VA?**
     - If you were going to contact VA, would you prefer to call, go online or get in touch another way?
   - `IF YES`
-    - Can you tell me about a time when you contacted VA?
-    - How do you usually contact VA? Why?
-      - `IF ONLINE` Did you use your phone, tablet or computer?
+    - **Can you tell me about a time when you contacted VA?**
+    - **How do you usually contact VA? Why?**
     - How was the support you received?
 
 **Key things to note:**
@@ -112,9 +110,9 @@ Next, I’d like to share some ideas to get your feedback.
 
 In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
 
-> Send link in Zoom chat.
+> Send link in Zoom chat. [Mobile](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=458-26839&t=9OMFZtUo0fWacEp5-1&scaling=min-zoom&page-id=458%3A26803&starting-point-node-id=458%3A26839&mode=design) or [Desktop](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=458%3A37863&type=design&node-id=458-37864&viewport=74%2C584%2C0.48&t=uyRpLCeij3dT4AAD-1&scaling=min-zoom&starting-point-node-id=458%3A37864&mode=design).
 
-- Can you please open the link in the chat?
+- Can you open the link in the chat?
 - Have you shared your screen on Zoom before?
   - `IF YES` Great. Can you please share your screen?
   - `IF NO` I’ll walk you through how to do that…
@@ -123,24 +121,21 @@ Thanks! Now I’m able to see your screen too.
 
 > Screen: Start page
 
-Okay, now that we have this open, we’re not going to click on anything yet. 
+Okay, so we’re not going to click on anything yet. 
 
-First, I'll give you a second to read the page more closely.
+I’m going to give you a moment to look at this page.
 
-- Can you tell me what you notice first on this page?
+- **Can you tell me what you notice first on this page?**
 - What is this page about?
 
-For the rest of our conversation, I’d like you to imagine that you need to ask VA a question. Let's say it's a question about a recent experience you had at a VA medical center.
+For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question. **Let’s say you’ve recently noticed some problems with your hearing. You want to ask the VA how you get your hearing checked by an audiologist.**
 
-- What would you do first if you wanted to ask a question about an experience you had at a VA medical center?
-  - Can you tell me, without clicking anything yet?
+- **Without clicking anything yet, can you tell me what you would do first?**
   - Where would you click?
-  - Why would you click `Sign in` (or) `Continue without signing in`?
-- Does it seem like you need to sign in, in order to start?
-  - What if your question was about education benefits?
-- Are there any (other) benefits of signing in?
+  - Why?
+- **Does it seem like you need to sign in, in order to start?**
+- **Are there any benefits to signing in?**
 - How long would you expect it to take to ask a question?
-- What do you expect to happen when we click `Continue without signing in`?
 
 Let’s go ahead and click `Continue without signing in`.
 
@@ -155,17 +150,15 @@ Let’s go ahead and click `Continue without signing in`.
 
 > Screen: Category
 
-Okay, so I mentioned earlier that we’re imagining that you want to ask a question about an experience you recently had at a VA medical center. With that in mind…
+Okay, so I mentioned earlier that we’re pretending like **you need to ask the VA how to get your hearing checked.** With that in mind…
 
-- Can you show me what you would do first on this page?
-  - Why would you choose `Health care` or [whatever they choose]?
-- Before we click anything else, why do you think the VA is asking you this question?
-- How important do you think it is to answer this question correctly?
+- **Can you show me what you would do first on this page?**
+- **Why did you choose `Health care` or [whatever they choose]?**
+- **How important do you think it is to answer this question correctly?**
+- Why do you think the VA is asking you this question?
 - How long do you think this process is going to take?
-- Before we move on, what do you expect to see on the next page?
-- How would you move on to the next question? Can you show me?
 
-Great, next we’ll click 'Continue'.
+Okay great. Let’s go to the next page.
 
 **Key things to notice:**
 - Do they recognize why they need to choose a category?
@@ -176,16 +169,14 @@ Great, next we’ll click 'Continue'.
 
 > Screen: Topic
 
-Before we click on anything…
-
-- Can you tell me what you would do first on this page?
-- (Why do you think VA is asking you this question?)
-- (How important do you think it is to answer this question correctly?)
-- How is this question different from the last one you answered?
+- **Can you show me what you would do on this page?**
+- **How is this question different from the last one you answered?**
+- **What if you couldn’t find an option that fit your needs, what would you do?**
 - What does it mean, where it says, ‘Your category and topic’?
-- What if you couldn’t find an option that fit your needs, what would you do?
 
-Great. Let’s go ahead and choose `Getting care at a local VA medical center` and then click `Continue`.
+[If they haven’t already] Let’s go ahead and choose `Audiology and hearing aids`.
+
+Let’s continue to the next page.
 
 **Key things to notice:**
 - Do they notice a difference between this page (topic) and the previous (category)?
@@ -198,13 +189,12 @@ Great. Let’s go ahead and choose `Getting care at a local VA medical center` a
 
 > Screen: What’s your question about?
 
-Before we click on anything, I’ll remind you that you’re asking a question about a recent experience at a VA medical center.
+So, to remind you, you need to ask the VA how to get your hearing checked.
 
-- Can you tell me what you would do first on this page?
-- Why did you choose `My own benefits` (or) `Someone else’s benefits` (or) `General question`?
-  - What do they think [option they didn’t choose] means?
-  - Can you imagine contacting VA about [option they didn’t choose]?
-- How much longer do you think this form is?
+- **Can you show me what you would do on this page?**
+- Why did you choose that option?
+- Can you imagine contacting the VA about [an option they didn’t choose]?
+- **How much longer do you think this form is?**
 
 Okay, we’ll go ahead and choose `My own benefits` and `Continue`.
 
@@ -214,11 +204,9 @@ Okay, we’ll go ahead and choose `My own benefits` and `Continue`.
 
 > Screen: Tell us the reason you're contacting
 
-Before we click on anything…
-
-- Can you tell me what you would do on this page?
-- Why do you think the VA is asking you this?
-- (Is there anything else you’d like to share about this question?)
+- **Before we click on anything, can you tell me what you would do on this page?**
+- **Why do you think the VA is asking you this?**
+- Is there anything else you want to share about this question?
 
 Go ahead and choose `I have a question` and then we'll `Continue`.
 
@@ -226,33 +214,24 @@ Go ahead and choose `I have a question` and then we'll `Continue`.
 - Do the options confuse them, given the name of the service?
 - Is it clear why the VA would ask this question?
 
-> Screen: What’s your question? [Empty]
+> Screen: What’s your question?
 
-- Okay, what is this asking you to do?
-- (What goes in this box?)
-- Do you have any hesitation about typing your question into this box?
-- Is there any other information that you expect to share with the VA?
+- **Without clicking on anything, can you describe what you would do on this page?**
 
-So, with this prototype, we can’t actually type anything into the box. Instead, we’re going to click `inside the box`, and we’ll pretend like you typed in your question.
+Great. So we can’t actually type into the box using this prototype. 
 
-**Key things to notice:**
+We’ll pretend like you typed in a question about how to get your hearing checked, and we’ll click ‘Continue.’
+
+**Key things to notice**
 - Do they have any hesitation about typing in their question?
 - Is there any surprise or frustration with how long it’s taken to get to this question?
-
-> Screen: What’s your question? [Pre-filled]
-
-Now, you can see that your question has been filled in. We’ll pretend like you typed that in yourself.
-
-- What do you expect to happen next, after you put in your question?
-
-Okay, let’s go ahead and click `Continue`.
 
 ## Chapter 3: Personal information (12 minutes)
 
 > Screen: Your relationship to the Veteran
 
-- So first off, why do you think VA is asking you this question?
-- What would you choose?
+- **Can you show me what you would do on this page?**
+- **Why do you think the VA is asking you this question?**
 - Is there anything else you notice on this page?
 
 Let’s choose `I’m the Veteran` and `Continue`.
@@ -273,28 +252,15 @@ For today, let’s choose `No` and `Continue`.
 - Are they confused about the purpose of the question?
 - Are they an employee?
 
-> Screen: Tell us about yourself [Empty]
+> Screen: Tell us about yourself
 
-- First, can you summarize this page for me?
+We’re not going to actually type anything on this page. Instead, let’s look at the questions and I’d like to know if any question stands out to you.
 
-We’re not going to fill in your information. For today, we’re just going to go through this page, and I’d like you to tell me how you’d answer the question. You don’t actually need to tell me your personal information, I’m more focused on how you would put in your information.
+- **Does anything stand out to you?**
+- **Is there any information that you would not like to give to the VA?**
+- `SSN` I noticed that it asks for a social security number or service number. **What does that mean?**
 
-So, for example, I might say, “I’d start by typing my first name in this box.” And so on.
-
-- What would you do first?
-- And in this next field?
-- (Continue until bottom of the page - Gender)
-- Why do you think VA needs this information?
-- Is there any information on this page that you would not like to give VA?
-- Is there any other information that you expect to share with VA?
-
-(If it’s not mentioned yet) I noticed that it asks for a social security number or service number.
-
-- What does that mean?
-- Does that mean you would share both your social security number and service number?
-- Do you have a service number?
-
-Now, since you’re not able to fill in your information with this prototype, let’s click on the box under `First name` and pretend like you filled it in.
+Great. So we’ll pretend like you filled in the information on this page. And click `Continue`.
 
 **Key things to notice:**
 - Is it clear that you need to enter either a SSN or a SN, not both?
@@ -303,21 +269,16 @@ Now, since you’re not able to fill in your information with this prototype, le
 - Is it straightforward to answer each question? For example, you can check multiple pronouns.
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Tell us about yourself [Pre-filled]
-
-Great. So we’ll pretend like you filled in this page. And click `Continue`.
-
 > Screen: Health facility [Empty search]
 
-- Can you describe this page to me? What is this page asking you to do?
-- Do you know why VA is asking for your health facility? Why?
-- Can you tell me what you would do first to search for your health facility?
-- What does search by name mean?
-- What does search by location mean?
-- Would you choose to search by name or location? Why?
-- If you wanted to search by location, where would you click?
+- **Can you describe this page to me?**
+- Why is the VA asking for your health facility?
+- **What would you do first to search for your health facility?**
+- **What does search by name mean?**
+- **What does search by location mean?**
+- **Would you choose to search by name or location? Why?**
 
-For today, we'll say your health facility starts with James. And we'll imagine that you started by typing in "James". You can click on the box. 
+For today, we’re going to pretend like your health facility starts with the word James. You can click inside the box, and we’ll pretend like you typed in James.
 
 **Key things to notice:**
 - Do they notice that there’s two tabs without being prompted?
@@ -328,13 +289,11 @@ For today, we'll say your health facility starts with James. And we'll imagine t
 
 > Screen: Medical facility [Search results: List]
 
-Okay, so you typed in "James" and now...
+- **Now what are we seeing?**
 
-- What are we seeing?
+Let’s say your health facility is called James J. Peters.
 
-Let's say your health facility is called James J. Peters.
-
-- What would you do next? Can you show me?
+- **Can you show me what you would do next?**
 
 Let’s click James J. Peters Department of Veterans Affairs Medical Center in the Bronx.
 
@@ -344,33 +303,29 @@ Let’s click James J. Peters Department of Veterans Affairs Medical Center in t
 
 > Screen: Medical facility [Search results: Radio buttons]
 
-- Can you show me what you would do next?
+- **Can you show me what you would do next?**
+- **We’re not going to click on anything, but can you tell me what you would do if you realized you chose the wrong health facility?**
 
-What if you realized James J. Peters wasn't actually your health facility. We won't click on anything, but...
-
-- Can you tell me what you would do if you needed to choose a different option?
-
-Okay great, let's go and ahead and click 'Continue.'
+Okay great, let's go ahead and click 'Continue.'
 
 **Key things to notice:**
 - Do they understand that they need to choose an option in the list and then click continue, without being prompted?
 - Is it clear that they're still reviewing search results?
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Phone and email [Empty]
+> Screen: Phone and email
 
 Okay, now before we talk about this page I just want to check in.
 
-- How much longer do you think this form will be?
-- If you compare this form to a similar form you’ve filled out in the past, does it feel longer or shorter?
-- Is there anything that’s surprised you about this form so far?
+- **How much longer do you think this form will be?**
+- **If you compare this form to a similar form you’ve filled out in the past, does it feel longer or shorter?**
 
 Great. Let’s talk about this page.
 
-- Can you describe how you’d fill in this page?
-- Why is VA asking for this information?
+- **Is there anything that stands out to you on this page?**
+- Why is the VA asking for this information?
 
-Okay, well since we can’t type your information today, we’ll click the ‘Phone number’ box and pretend like we filled it in.
+Okay, we’ll pretend like we typed in your phone number and email address and click ‘Continue.’
 
 **Key things to notice:**
 - Are they surprised at the length of the form, or anything else?
@@ -378,20 +333,13 @@ Okay, well since we can’t type your information today, we’ll click the ‘Ph
 - Is it clear why VA needs their phone number and email address?
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Phone and email [Pre-filled]
-
-Now you can click `Continue` and we’ll move on.
-
 > Screen: Contact preference
 
-Before we click anything…
+- **Without clicking anything yet, can you tell me which option you would choose?**
 
-- What is this page asking for?
-- Which option would you normally choose?
+Today, we’re going to pretend like you prefer U.S. mail. 
 
-Today, we’re going to pretend like you prefer VA to send you a response in the mail. 
-
-- Can you show me what you would do?
+- **Can you show me what you would do?**
 
 Great, let’s click `US mail` and `Continue`.
 
@@ -402,10 +350,8 @@ Great, let’s click `US mail` and `Continue`.
 
 > Screen: Country
 
-Before we click anything…
-
-- Can you tell me what you would do on this page?
-- What does this mean, where it says, “I receive mail outside of the United States on a U.S. military base.”?
+- **Without clicking anything yet, can you tell me what you would do here?**
+- **What does this mean, where it says, “I receive mail outside of the United States on a U.S. military base.”?**
 
 For today, let’s choose `United States` and `Continue`.
 
@@ -414,34 +360,25 @@ For today, let’s choose `United States` and `Continue`.
 - Does the military base option cause any confusion?
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Address [Empty]
+> Screen: Address
 
-I’ll give you a few moments to look through this page.
+- **Is there anything that stands out to you on this page?**
 
-- Is there anything that stands out to you on this page? Anything unclear?
-- Why is VA asking for your address?
-
-Okay, we’ll pretend like you filled in this page. You can click the box under `Street address`.
+Okay, we’ll pretend like you filled in this page. You can click ‘Continue.’
 
 **Key things to notice:**
 - Is anything confusing about the address page?
 - Do they remember that they chose to be contacted by US mail?
 - Are they surprised or frustrated by the length of the form?
 
-> Screen: Address [Pre-filled]
-
-And now that your information is filled in, we’ll click `Continue`.
-
 > Screen: Address validation 
 
-- What is this page asking you to do?
-- (Do you notice anything else?)
-- Why do you think you’re seeing this message?
-- We won’t click anything yet, but can you describe what you would do on this page?
-  - Who's address is this asking for?
-- What do you expect to see on the next page?
+- **What is this page asking for?**
+- **Why do you think you’re seeing this message?**
+- **Without clicking anything yet, what would you do on this page?**
+- If you’ve seen this before on another website, what do you normally choose here?
 
-Let’s go ahead and click `Continue`.
+Let’s continue with the address they suggest.
 
 **Key things to notice:**
 - Is the address validation surprising, confusing, unclear?
@@ -451,38 +388,32 @@ Let’s go ahead and click `Continue`.
 
 > Screen: Review and submit
 
-- Can you describe this page to me? What’s the purpose of this page?
-- At this point, how much longer do you think the form is?
-- Can you tell me what you would do first on this page?
-- If you wanted to [review, or whatever word they used] your category and topic, what would you click next?
+- **Can you describe this page to me? What’s the purpose of this page?**
+- **Can you tell me what you would do first on this page?**
 
-Let’s open `Category and topic`.
+Let’s look at your `Category and topic`.
 
-- Where has this information come from?
-  - Is this information familiar to you?
-- Can you edit this information? For example, if you want to change your category?
-- Why might you want to edit your category?
+- **Is this information familiar?**
+- **Let’s say you want to change your category. Can you update your category?**
 
-Next, let’s click on `Personal information`. I’ll give you a minute to look more closely.
+Let’s click on `Personal information` next. I’ll give you a minute to look at this section.
 
-- Is there anything that stands out to you?
-- Before we click anything, what do you think happens if you click, `Edit`?
+- **Before we click anything, what do you think happens if you click, `Edit`?**
+- **Can you show me what you would do to edit your phone number?**
 
-Let’s imagine that you wanted to edit your phone number.
+Go ahead and click `Edit` (Contact information).
 
 - Can you show me what you would do next?
 
 Go ahead and click `Edit` (Contact information).
 
-- Does it look like you can edit all of your contact information?
-- Which responses can you edit?
-- Can you change your contact preference?
-  - Why do you think that is?
-  - What if you wanted to change your contact preference? What would you do?
+- **Can you edit all of your contact information?**
+- **Can you change your contact preference?**
+- **What if you wanted to change your contact preference? What would you do?**
 
-Great. Let’s go ahead and click `Cancel`.
+Great. We’re going to click `Cancel`.
 
-And now we're ready to submit your question (Go ahead and click, `Submit question`).
+And now we're ready to submit your question (click, `Submit question`).
 
 **Key things to notice:**
 - Is it clear that this is nearly the end of the form, before you submit your question?
@@ -498,13 +429,11 @@ And now we're ready to submit your question (Go ahead and click, `Submit questio
 
 > Screen: Submission page
 
-I’ll give you a minute to read this page.
+I’ll give you a minute to read this.
 
-- Can you summarize this page?
-- What do you expect to happen next?
-  - How do you expect to receive a response from VA? (Email, phone, mail?)
-- Is there anything else you’d like to know after you submit your question?
-- Do you expect to be able to reply to VA, after they respond to your question?
+- **Can you summarize this page?**
+- **What do you expect to happen next?**
+- **Is there anything else you’d like to know after you submit your question?**
 
 **Key things to notice:**
 - Do they notice or mention the reference number?
@@ -521,22 +450,20 @@ Okay, we’re all finished with the prototype. So you can stop sharing your scre
 
 I’d love to spend a little time reflecting before we finish.
 
-If we think about asking VA a question online…
-
-- Is there anything that could be easier?
-- Did anything surprise you?
+- **What did you think of that process? Is there anything you liked?**
+- **Is there anything that could be easier?**
 - How does this experience compare to similar experiences you’ve had, with contacting a company or organization online?
-- What did you appreciate about the experience?
 
 Thanks again for sharing your time with me. It’s been so helpful to learn from you.
 
-- Do you have any questions for me?
+- **Do you have any questions for me?**
 
 Okay, well thank you so much for the time.
 
 Perigean will send you a thank you note with some information that you can pass along to other Veterans if they’d like to participate in future research sessions. 
 
 I hope you have a lovely rest of the day.
+
 
 ## Pause or exit strategies
 
