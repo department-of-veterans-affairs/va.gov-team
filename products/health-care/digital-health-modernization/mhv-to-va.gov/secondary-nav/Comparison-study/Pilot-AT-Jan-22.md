@@ -20,7 +20,6 @@
 - Before you click on anything, how would you describe what this site is (where you are?)
 - Ask about home page
 - Don't ask about location and where things should be
-- 
 
 ## Warm-up Questions - 5 minutes
    
