@@ -10,9 +10,8 @@ There’s a lot this guide won’t cover, especially when it comes to more gener
 
 
 ### Table of Contents
-- [Principals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/principals.md)
+- [Content principles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/principals.md)
 - [Our audience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/our-audience.md)
-- [Voice & tone](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/voice-and-tone.md)
 - [Content formatting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/content-formatting.md)
 - [UI elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/ui-elements.md)
 - [Site alert messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/site-alert-messages.md)
