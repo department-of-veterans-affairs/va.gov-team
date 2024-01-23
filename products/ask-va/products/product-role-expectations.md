@@ -9,7 +9,7 @@ This document sets expectations for Product Owners outside of OCTO we work close
 |Role|Name|
 |:--|:--|
 |Product Lead|Becky Phung until Feb 2024, Chante Lantos-Swett back in Feb 2024|
-|Product Manager|Ruchi Shah|
+|Product Manager|Ruchi Shah| Holly Hansen as interim
 |Product Owner (VES)| Natalie Morales and Andrea Schneider|
 
 ## Product Owner (VES)
