@@ -19,7 +19,7 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 _Presentations occur at noon ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| Authenticated Experience - Profile | Travis Cahill | Multi-feature: editing as a subtask and default send<br /> - editing as a subtask: allows users to edit in place instead of having to leave notification preferences to add/edit personal info, e.g. phone number<br /> - default send: foundational element to support email as a channel in order to support MHV notification preferences, and notification preferences from other partners that may require email | October 25, 2023 | February 1, 2024 |
+| Authenticated Experience - Profile | Travis Cahill | Profile hub | December 18, 2023 | February 1, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | February 1, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
