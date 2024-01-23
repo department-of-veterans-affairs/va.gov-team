@@ -268,14 +268,20 @@ sequenceDiagram
 - Decision from business if insurance verification required for cerner appointments - CLOSED
     - There is currently not a way to programmatically determine if a Veteran needs to confirm/update their insurance information at OH sites so Veterans will need to that directly with the clerk.
  
-## MAP / VA Profile API Questions
-- What is the Mobile Proxy Service endpoint to call with MAP to access veteran's VA profile?
-- Based on VA Profile share point doc, Demographics endpoint doesn’t seem to be sending relevant information but contact-information endpoint seem to be sending some data to confirm from CIE app
-  - API - GET /contact-information/{oid}/{idWithOaid},
-    - There is a sample string (organizational id in oid variable in the document; Is it going to be constant or is that going to change for each consumer? Do we need to request one?
-    - idWithAaid seem to be following some format for sending patientICN; Would be great to see more information on what other data required to build this data
-- contact-information endpoint gives contact information like residential contact address & telephone numbers; Which API do we need to use for getting next of kin & emergency contact information?
-- Service level general questions
+## API Questions
+- **Mobile Proxy Service**
+  - What is the Mobile Proxy Service endpoint to call with MAP to access veteran's VA profile?
+  - What is the test client id to use for getting VA Profile data in staging until we get client id specific to check-in-experience application (CIE) for accessing VA Profile?
+    - Currently, we have a client id for CIE to access appointment data from VAOS; Would like to see if any test client id available to access data in staging until we receive an ID for accessing VA profile
+- **VA Profile**
+  - Based on VA Profile share point doc, Demographics endpoint doesn’t seem to be sending relevant information but contact-information endpoint seem to be sending some data to confirm from CIE app
+    - API - GET /contact-information/{oid}/{idWithOaid},
+      - There is a sample string (organizational id in oid variable in the document; Is it going to be constant or is that going to change for each consumer? Do we need to request one?
+      - idWithAaid seem to be following some format for sending patientICN; Would be great to see more information on what other data required to build this data
+  - contact-information endpoint gives contact information like residential contact address & telephone numbers; Which API do we need to use for getting next of kin & emergency contact information?
+- **Oracle Health (OH) Service**
+  - How to call [OH appointment API](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#patch) from vets-api to set patient's appointment status to ARRIVED?
+- **Service level general questions**
   - Does the API have only staging & prod environments?
   - Swagger doc shows an URL with qa prefix (for staging); What is the prod URL? Is there any difference in calling these API in staging vs prod?
-  - How can we create/request test data to play with the MAP & VA Profile API?
+  - How can we create/request test data to play with the MAP, VA Profile & OH Services?
