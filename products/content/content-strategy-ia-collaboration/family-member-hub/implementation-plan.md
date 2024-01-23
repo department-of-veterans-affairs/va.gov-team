@@ -5,7 +5,6 @@
 - [Product impacts](#product-impacts)
 - [Roll-out approach](#roll-out)
 - [Stakeholders](#stakeholders)
-- [Communications plan](#communications)
 - [Next steps](#next-steps)
 
 
@@ -107,11 +106,21 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - VEO, Melissa Rebstock
 - Tammy
 
-## Communication plan <a id="communications"></a>
+## Next steps <a id="next-steps"></a>
+
+Content, IA, and design
+- [x] Finalize organizational structure - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
+- [ ] Incorporate into placement criteria and overall taxonomy definition - Mikki/Danielle
+- [ ] Identify additional research needs, pull in Amanda as needed - Mikki to review and schedule time with everyone as needed
+- [ ] Build out landing page drafts in Drupal - Danielle/Mikki
+- [ ] CAIA deep dive - Danielle/Mikki
+- [ ] Build out tickets for CAIA - Mikki/Danielle
 
 Communication to OCTO stakeholders
-- [x] Overview of effort so far and next steps at team meeting 
-- [x] Research results and next steps at OCTO Monday design meeting
+- [x] Overview of effort so far and next steps at OCTO team meeting - Done 1/11/24
+- [ ] Research results and next steps at OCTO Monday design meeting - scheduled for 3/18/24
+- [ ] Talk with to Jeff Barnes/IIR team re: moving education forms
+- [ ] Discussion with Beth/Randi on VBA/NCA contacts - Danielle
 - [ ] Share with benefits portfolio - 1/23
 - [ ] Share with Chris - Danielle's 1:1
 - [ ] Share with health portfolio - 1/23
@@ -124,23 +133,13 @@ Initial communication to all impacted stakeholders
 - [ ] Share in kickoffs with each administrative group
 - [ ] Share in digital media syncs
 - [ ] Share with OPIA as a follow up to earlier meetings
-  
+
+
 Ongoing communication with stakeholders during roll-out
 - TBD
 
-## Next steps <a id="next-steps"></a>
 
-- [x] Present to OCTO team - Done 1/1//24
-- [x] Finalize organizational structure - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
-- [x] Schedule read out in Monday design meeting - Mikki, scheduled for 3/18/24
-- [ ] Discussion with Beth/Randi on VBA/NCA contacts - Danielle
-- [ ] Talk with to Jeff Barnes/IIR team re: moving education forms
-- [ ] Incorporate into placement criteria and overall taxonomy definition - Mikki/Danielle
-- [ ] Identify additional research needs, pull in Amanda as needed - Mikki to review and schedule time with everyone as needed
-- [ ] Identify key stakeholders for OCTO product teams and outside OCTO - Danielle/Mikki
-- [ ] Build out landing page drafts in Drupal - Danielle/Mikki
-- [ ] Plan/schedule CAIA deep dive - Danielle/Mikki
-- [ ] Build out tickets for CAIA - Mikki/Danielle
+
 
 
 
