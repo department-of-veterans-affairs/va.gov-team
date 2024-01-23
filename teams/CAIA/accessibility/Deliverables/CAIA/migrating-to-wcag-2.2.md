@@ -21,10 +21,10 @@ There are nine new WCAG 2.2 success criteria. Two are Level A success criteria, 
 5. [2.5.8 Target Size (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html) (**Level AA**)
 6. [3.2.6 Consistent Help](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html) (**Level A**)
 7. [3.3.7 Accessible Authentication](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html) (**Level AA**)
-8. [3.3.8 Accessible Authentication (no exception)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception.html) (**Level AAA**)
+8. [3.3.8 Accessible Authentication (no exception)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception.html) (**Level AA**)
 9. [3.3.9 Redundant Entry](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html) (**Level A**)
 
-### 2.4.11 Focus Appearance - Level AA [*at risk*]
+### 2.4.11 Focus Appearance - Level AAA [*at risk*]
 This criterion weighs in on the focus indicator minimum contrast and size. There is also a note that the entire focus indicator "encloses the user interface component or sub-component that is focused."
 
 ### 2.4.12 Focus Not Obscured (Minimum) - Level AA
@@ -57,7 +57,7 @@ Cognitive function tests are not required for any step in an authentication proc
 
 This criterion helps remove high or impossible burdens on people with certain cognitive and motor disabilities and issues including those who have trouble memorizing, dyslexia, dyscalculia, completing pattern gestures, and more.
 
-### 3.3.8 Accessible Authentication - Level AAA
+### 3.3.8 Accessible Authentication - Level AA
 This criterion is the same as 3.3.7 Accessible Authentication but without the exceptions for objects and user-provided content.
 
 Cognitive function tests are not required for any step in an authentication process unless that step provides at least one of the following:
