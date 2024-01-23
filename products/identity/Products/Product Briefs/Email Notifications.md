@@ -1,8 +1,7 @@
-# Email Notifications
+# Account Activity Notifications
 
-## Overview: (Provide a high level description of the product/set of features)
-
-Send Veterans emails when there is a login to their account under what might be fradulent circumstances, including:
+## Overview: 
+Send Veterans notifications when there is a login to their account under what might be fradulent circumstances, including:
 * Logins from New Devices
 * Unusual Account Activity
 * Password Reset Requests
@@ -11,22 +10,23 @@ Send Veterans emails when there is a login to their account under what might be 
 
 
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
+## Problem Statement: 
 If we send a Veteran notification about a login that they did not initiate, it can serve as an early warning sign of unauthorized access or a security breach.
 
 One of our OKRs reducing the time to detect fraud by 10%, and by notifiying Veterans of unusual logins, they can help identify fraud much earlier than they have been able to previously. 
 
-In addition can take immediate steps, such as changing passwords, reviewing account activity, or contacting the VA, in order to secure their accounts and prevent further unauthorized actions. Eventually, we can allow them to lock their accounts.
+In addition, Veterans can take immediate steps, such as changing passwords, reviewing account activity, or contacting the VA, in order to secure their accounts and prevent further unauthorized actions. Eventually, we can allow them to lock their accounts.
 
 
 ## Relevant Documents:
 
 ## What's In Scope: 
-For this first iteration, the focus will be on:
+For this first iteration, the focus will be on email notifications.
 * 
 
 ## Out of Scope: (for this iteration)
-* Locking accounts.
+* Locking accounts
+* Opt-in to other kinds of notifications
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
@@ -34,7 +34,8 @@ For this first iteration, the focus will be on:
 | |   |   |
 
 ## Assumptions:
-* 
+* We can detect logins matching each of the Use Cases above
+* We can work with the existing notification system.
 
 ## Solution Approach: 
 * 
