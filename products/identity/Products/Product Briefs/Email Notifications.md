@@ -1,4 +1,4 @@
-# Account Activity Notifications
+# Login Notifications
 
 ## Overview: 
 Send Veterans notifications when there is a login to their account under what might be fradulent circumstances, including:
@@ -35,7 +35,7 @@ For this first iteration, the focus will be on email notifications.
 
 ## Assumptions:
 * We can detect logins matching each of the Use Cases above
-* We can leverage the work already done by the [va-notify team] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#playbook)
+* We can leverage the work already done by the [va-notify team][(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#playbook)]
 
 ## Solution Approach: 
 * 
