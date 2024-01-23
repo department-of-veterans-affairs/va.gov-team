@@ -18,7 +18,7 @@ _All products, content areas, and navigation elements impacted by this effort th
   - How do visitors filter by audience and benefit?
 
 **Health care:**
-- **Caregiver form (10-10CG)** is in family member, but will have to move so will have a URL change.
+- **Caregiver form (10-10CG)** is in family member, but will have to move so will have a URL change. May be impacted by the broader build out of the area.
 - **CHAMPVA** form is in development. We'll need to make sure the form launches at the URL it will live at or will be able to move post-launch.
 - There will be more health care forms, but this work should be done before they launch.
 
