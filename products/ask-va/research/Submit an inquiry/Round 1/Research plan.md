@@ -2,7 +2,7 @@
 
 Ask VA Front-End Team
 
-Last updated by @tygindraux: January 8, 2023
+Last updated by @tygindraux: January 23, 2024
 
 **Jump ahead to:**
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#background)
