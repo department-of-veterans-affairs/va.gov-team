@@ -99,7 +99,8 @@ ________________________________________________________________________________
          - We are waiting on the DS to address the ticket we created for them before we finish this
      - 🟩 [Add an allDemographicsCurrentUUID Mock UUID for check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72829)
      - **Sub Goal: Migrate Sktech Files to Figma**
-        - 🟥 [[Design] Clean up pages in Figma Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73002)        - 
+        - 🟥 [[Design] Clean up pages in Figma Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73002)
+        - 🟥 [[Design] Create remaining components for MHV UA Library for production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74282) 
         - 🟥 [[Design] Replace all local components with initial MHV UA Library components in the production file frames](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73878)
 
 
