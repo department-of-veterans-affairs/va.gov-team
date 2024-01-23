@@ -183,5 +183,6 @@ _What offices/departments are critical to make this initiative successful?_
 - [Filing a claim](https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/)
 - [Community care page](https://www.va.gov/communitycare/programs/veterans/fmp/)
 - [Benefits page](https://www.benefits.gov/benefit/567)
+- [Getting care through FMP](https://www.va.gov/resources/getting-care-through-the-foreign-medical-program/)
 
  </details>
