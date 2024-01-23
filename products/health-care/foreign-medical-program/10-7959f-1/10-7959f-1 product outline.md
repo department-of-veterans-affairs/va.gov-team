@@ -74,7 +74,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Authenticated experience [*need to determine recommendation on level*]
   - User notification of successful or failed submission
 - **Out of scope**:
-  - Integration with VES
+  - Integration with VES (this will need to be addressed in the future)
   - Checking for eligibility requirements
 - **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
@@ -126,6 +126,7 @@ Key deliverables:
 ### General Questions
 - For stakeholders: What is the current process/flow? Pain points? Which teams are involved?
 - How does this program intersect (or not) with other programs such as VR&E (Veterans Readiness and Employment)?
+  - A: VR&E is a minority
 
 ### Key Decisions
 
