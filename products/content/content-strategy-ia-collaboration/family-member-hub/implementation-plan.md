@@ -80,7 +80,7 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 4. Education
 5. Disability
 6. Pension
-7. Life insurance
+7. Life insurance (this does not involve any content moves and can be shifted where needed in the order)
 8. Careers
 9. Housing
 10. Burials
