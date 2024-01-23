@@ -41,7 +41,7 @@ Currently, but burden around form 10-7959c lies with applicants who often have t
 - Objective: Veterans and their families can easily apply online for health care benefits 
   - Key result: Increase % of Veterans and families who apply for health care benefits online
   - Key result: Increase number of form submissions 
-  - Key result: Reduce time it takes to fill out application
+  - Key result: Reduce time it takes to fill out certification
 - Objective: Faster delivery of benefits for Veterans and their families
   - Key result: Reduce processing and approval time
   - Key result: Reduce delay due to number of resubmissions 
