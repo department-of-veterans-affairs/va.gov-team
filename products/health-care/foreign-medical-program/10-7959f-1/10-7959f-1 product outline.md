@@ -93,7 +93,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
 
 Collaboration Cycle
 - [x] [Collab Cycle ticket]https://github.com/department-of-veterans-affairs/va.gov-team/issues/74178
-- [ ] Design Intent
+- [ ] Design Intent: scheduled 1/29/24, 3:30pm ET
 - [x] [Content, Accessibility and IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74190)
 - [ ] Midpoint 
 - [ ] Research
