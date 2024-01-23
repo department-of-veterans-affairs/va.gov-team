@@ -21,3 +21,4 @@ response = request.post("#{"/vbsapi"}/GetStatementsByEDIPIAndVistaAccountNumber"
 ```
 
 ## Explanation
+At time of writing vets-api has a data structure called `User` which only exists as long as the user's session on VA.gov (`Users` do have persistent UUIDs though) Since most of our services take `Users` as input, troubleshooting can get tricky. The above script demonstrates how to source a user's mpi profile and then edit that profile to behave like a user for the `MedicalCopays::VBS::RequestData` class. Check `request_data.to_hash` to see what info is actually derived from mpi_profile. It just needs edipi and vha_facility_ids.
