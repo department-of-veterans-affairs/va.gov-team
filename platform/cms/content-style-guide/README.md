@@ -16,7 +16,6 @@ There’s a lot this guide won’t cover, especially when it comes to more gener
 - [Content formatting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/content-formatting.md)
 - [UI elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/ui-elements.md)
 - [Site alert messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/site-alert-messages.md)
-- [CMS announcements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-style-guide/cms-announcements.md)
 
 
 
