@@ -12,7 +12,6 @@ TK: this is what this looks like
 ## Be clear
 Give users the context they need to make confident decisions about their work. Sometimes this will mean using the plainest language possible, other times more technical terms may be necessary. 
 
-TK: this is what this looks like
 
 ## Be useful
 Write in a way that builds shared understanding between users, the technology, and the organization about the words and concepts relevant to their work. Useful, strategic writing reduces the need for further communications and content maintenance by implementing in the right places. 
