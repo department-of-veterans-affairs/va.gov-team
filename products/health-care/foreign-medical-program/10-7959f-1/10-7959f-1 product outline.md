@@ -174,6 +174,7 @@ Key deliverables:
 _What offices/departments are critical to make this initiative successful?_
  
 </details>
+
 #### Resources
 <details>
 - [FMP page](https://www.va.gov/health-care/foreign-medical-program/)
