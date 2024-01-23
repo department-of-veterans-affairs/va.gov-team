@@ -1,11 +1,12 @@
 FMP Intro meeting, 1/22/24
-- FMP and VFMP (Veteran and Family member programs - higher level portfolio)
+
 - Andy Szymczak (Director) 
 - Jennifer Rivera - supervisor for eligibility and verification enrollment portion
 - Stanley Nelson - program management supervisor analyst 
 - Andrea Bingham - deputy
 - Other attendees: Brian Wilke, Rachael Penfil, Premal Shah, Mary Wang
 
+FMP and VFMP (Veteran and Family member programs - higher level portfolio)
 High level overview: 
 - Registration - singular and for life - updates can occur later on (separate)
 - Overseas or potentially going and has service related disability
@@ -20,7 +21,7 @@ Claims cover sheet:
 - Global in nature
 - Possible scenario: could maybe submit a claim form (use claim form to get them registered - if look in CP&E and don’t see it)
 
-VR&E - 
+VR&E:
 - actively enrolled/participating with case manager, cover medical treatments beyond service related disabilities
 - only if they’re required to run the program (if related to teeth and need to get a job, etc.)
 - case manager may say dental treatment is needed (substantiated from case manager) - would provide those services
@@ -28,14 +29,14 @@ VR&E -
 - They may also submit a claim on a form and not in the system - go in and look and (VBMS and VIS - won’t see) and have to fwd on and issue denial letter
 
 Volume of applicants: 
-- Every service disabled veteran traveling overseas 
-- Pending queue - FMP registration (42 or 2 - high or low - avg 20s and 30s)
+- service disabled veterans traveling overseas 
+- Pending queue - FMP registration (High of 42 or low of 2 - avg 20s and 30s)
 - Total of 822 that need to be processed in paper
-- Avg processing time - really depends (2.5-3 an hour) some are quick, others can take an hour (amount of service connected conditions)
+- Avg processing time - really depends (2.5-3 an hour) some are quick, others can take an hour (depends on amount of service connected conditions)
 
 CP&E - has to be done by oldest - newest date (also conditions have to be grouped together) because there is limited amount of space
 - Can we have VBMS (Veterans Benefits Mgt system - case management system for VBA) or VIS talk to VES?
 - (VIS is not the same as VBMS - need to make sure the systems are matching up)
-- Both VBA programs - have to verify the info
+- Both VBA programs have to verify the info
 
 
