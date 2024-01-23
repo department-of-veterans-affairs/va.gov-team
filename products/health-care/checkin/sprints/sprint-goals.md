@@ -72,12 +72,12 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
-        - 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
-        - 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
-        - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
-        - 🟩 [[CHIP] SPIKE - figure out what is needed with a refresh endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73854)
-        - 🟩 [[CHIP] SPIKE - Research new cerner payload from vetext](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73636)
-        - 🟦 TBD                    
+        - ❗ 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
+        - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
+        - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
+        - ❗ 🟩 [[CHIP] SPIKE - figure out what is needed with a refresh endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73854)
+        - ❗ 🟩 [[CHIP] SPIKE - Research new cerner payload from vetext](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73636)
+        - ❗ 🟦 TBD                    
 - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in**
          - 🟥 [[Content] Create content for new "Which of these best describes how far you are from the clinic?" page and body content for 2-3 variations of the "You're checked in" page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74008)
