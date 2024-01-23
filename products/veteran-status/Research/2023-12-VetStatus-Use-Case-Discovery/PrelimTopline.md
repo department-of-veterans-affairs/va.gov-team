@@ -12,7 +12,7 @@ Most  participants (9/12) expressed that they prefer to access most of their ben
 
 **Insight #2: Multiple tools**
 
-When it comes to VA identification, participants had a range of tools to do so.  Formally, they include VA retiree card, the VHIC and the VIC.  They also have more informal methods of identification, including on their drivers license or an article of clothing.  When a Veteran is tryint to access a discount, these tools are successful.
+When it comes to VA identification, participants had a range of tools to do so.  Formally, they include VA retiree card, the VHIC and the VIC.  They also have more informal methods of identification, including on their drivers license or an article of clothing.  When a Veteran is trying to access a discount, these tools are successful.
 
 
 ### Research Question #2: How do veterans currently access store discounts? What does that process look like? What tools do they use?
