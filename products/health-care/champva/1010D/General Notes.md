@@ -11,6 +11,6 @@ General info, notes and miscellaneous
 - CMP: Centralized Mail Portal
 - CP&E: Claims Processing and Eligibility - Eligibility system where records are stored and decisions are made
 - DCDM: Document Control Data Management 
-- PEGA: new document repository that will replace DAPER
+- PEGA: new document repository and management system that will replace DAPER
 - VES: Veterans enrollment system
 - VBMS: Veteran Benefit Management system
