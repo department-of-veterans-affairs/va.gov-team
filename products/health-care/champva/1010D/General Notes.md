@@ -14,6 +14,7 @@ General info, notes and miscellaneous
   - Eligibility system where records are stored and decisions are made
 - CXM: health care clearinghouse/database
   - all CHAMPVA,  VFMP, Spina Bifida, Children of Women Vietnam Veterans claims go here
+- DAPER: Document and process enabled repository (existing system)
 - DCDM: Document Control Data Management 
 - PEGA: new document repository and management system that will replace DAPER
   - integration needs to be built still 
