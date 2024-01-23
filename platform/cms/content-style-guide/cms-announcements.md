@@ -41,7 +41,7 @@ See the latest announcements in the [Announcements page](https://prod.cms.va.gov
 ## Editorial process
 
 1. **Identify release note items** (*during planning*)
-- [ ] Team and product manager identifies items for release notes by adding the maroon “release notes” label to issues. 
+- [ ] Team and product manager identifies items for release notes. 
 
 2. **Refine release note items** (*at the start of sprint*)
 - [ ] UX writer tracks the status of individual release note items. 
