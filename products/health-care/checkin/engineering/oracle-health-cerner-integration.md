@@ -45,6 +45,7 @@ sequenceDiagram
 ```
 
 ### Veteran clicks link returned from VeText
+#### Option 1 : Cerner Check-in using MAP Token
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
@@ -100,7 +101,7 @@ sequenceDiagram
         api--)-web: returns success
         web-->>-vet: renders appointment information
         vet->>+web: clicks check-in
-        web->>+api: POST check-in
+        web->>+api: POST cerner-check-in
         alt if no map token in cache
             api->>+token: GET token
             token--)-api: returns token
