@@ -21,7 +21,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [Skyler/Gary], and I'm going to be guiding you through the session today. Today we're going to talk about disability compensation claims and the Claim Status Tool.
+Thanks for joining us today! My name is [Skyler/Gary], and I'm going to be guiding you through the session today. I'm on a team that works with the VA on the VA.gov website. Today we're going to talk about disability compensation claims and the Claim Status Tool.
 
 Before we start, I have a few things that I want to go over with you:
 
