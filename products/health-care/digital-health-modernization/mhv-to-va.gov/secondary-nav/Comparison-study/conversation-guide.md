@@ -38,8 +38,8 @@ Thank you for confirming these things! Now, I have a few things about today I wa
 - Any questions I can answer at this point?
 
 - Okay, I have a few colleagues waiting to join our call who would like to sit in and listen to our conversation. **Do you feel comfortable with a few more people joining us?** _If yes, admit those in the waiting room. Ask them to introduce themselves.__
-- We're almost ready to get started, I just need to ask your permission to do two more things. First, **are you okay with me recording our conversation** so I can listen to it later if I forget something? _Once you hit record, ask again._
-- And lastly, I'd also like to ask your **permission to share small clips from the recording** with other individuals who work on the website. These clips would only be shared internally and we would remove identifying information to protect your anonymity. Would this be okay with you?
+- We're almost ready to get started, I just need to ask your permission to do two more things. 
+- I'd like to ask your **permission to share small clips from the recording** with other individuals who work on the website. These clips would only be shared internally and we would remove identifying information to protect your anonymity. Would this be okay with you?
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
