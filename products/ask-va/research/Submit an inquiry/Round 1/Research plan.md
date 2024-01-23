@@ -88,9 +88,10 @@ Diagram of test journey, [also available in Mural](https://app.mural.co/t/depart
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
-* [Mobile prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=0%3A1&type=design&node-id=1-1999&viewport=1428%2C772%2C0.34&t=8Ec6cJ5oHuCz8JiB-1&scaling=min-zoom&starting-point-node-id=1%3A1999&show-proto-sidebar=1&mode=design)
-* [Desktop prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=165%3A12151&type=design&node-id=165-15720&viewport=572%2C492%2C0.25&t=63nzRinEhXlzgXJR-1&scaling=min-zoom&starting-point-node-id=165%3A15720&mode=design)
+* [Mobile prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=458-26839&t=9OMFZtUo0fWacEp5-1&scaling=min-zoom&page-id=458%3A26803&starting-point-node-id=458%3A26839&mode=design)
+* [Desktop prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=458%3A37863&type=design&node-id=458-37864&viewport=74%2C584%2C0.48&t=uyRpLCeij3dT4AAD-1&scaling=min-zoom&starting-point-node-id=458%3A37864&mode=design)
 * [Mural: Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702577156510/63987723a59c971b96105858b484e9061622c235?wid=0-1703093103991)
+* [Mural: Notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696457775760/363d1ebbce7a3898f39aae72793877bfe9beed99?sender=u65f0a75fc7c68f2a5a2a9545)
 	
 ## Recruitment	
 
