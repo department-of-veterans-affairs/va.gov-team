@@ -1,6 +1,16 @@
 # Preliminary Topline 
 
 
+[link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/Research/2023-12-VetStatus-Use-Case-Discovery/2023-12-Research-Plan.md)
+
+[link conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/Research/2023-12-VetStatus-Use-Case-Discovery/2023-12-ConversationGuide.md)
+
+[link interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-status/Research/2023-12-VetStatus-Use-Case-Discovery/Notes.md)
+
+
+This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
+
+
 ## Research Questions and Insights
 
 
