@@ -31,9 +31,9 @@ With CHAMPVA, you’ll be covered for services and supplies when we determine th
 
 When you’re signed up for CHAMPVA, you’ll get a copy of the CHAMPVA Program Guide. This guide will tell you more about covered and non-covered services and supplies.
 
-{ Link }[Download the CHAMPVA Program Guide (PDF)](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/programguides/CHAMPVA-Guide.pdf) 
+{ Link }[View the CHAMPVA Program Guide (PDF)](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/programguides/CHAMPVA-Guide.pdf) 
 
-{ Link }[Download fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
+{ Link }[View fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
 
 ###  [H2] How CHAMPVA is different from your health insurance?
 
@@ -98,7 +98,7 @@ Additional guidance on when VA recognizes marriages is available at {Link} http:
 - You're not entitled to care or services through another health plan
 
   
-{ link } [Download a fact sheet on CHAMPVA for primary family caregivers PDF](https://www.caregiver.va.gov/pdfs/FactSheets/CHAMPVA-Fact-Sheet_FINAL_508c.pdf)
+{ link } [View a fact sheet on CHAMPVA for primary family caregivers PDF](https://www.caregiver.va.gov/pdfs/FactSheets/CHAMPVA-Fact-Sheet_FINAL_508c.pdf)
 
 { link } [Get more information about CHAMPVA for primary family caregivers](https://www.va.gov/COMMUNITYCARE/programs/caregiver/index.asp)
 
@@ -124,7 +124,7 @@ You can start your application for benefits online right now.
  <summary>Other Health Insurance Certification (VA Form 10-7959c)</summary>
  
 These are documents related to your Medicare status or other health insurance benefits that you may be receiving. You may need to submit:
-- 10-7959c form
+- [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)form
 - A copy or photo of the front and back of your Medicare Card
 - A copy or photo of the front and back of your insurance carrier card.
 
@@ -164,7 +164,7 @@ If you don’t have a copy of the necessary form, you can request it by submitti
  
 - A copy of each child’s birth certificate or adoption papers
 - A copy of the school certification of enrollment for children ages 18-23
-{ link } [Download our fact sheet on school enrollment certification requirements PDF](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-15.pdf)
+{ link } [View our fact sheet on school enrollment certification requirements PDF](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-15.pdf)
 
 
 </details>
@@ -239,7 +239,7 @@ Supporting documents to mail
  - A copy of each child’s birth certificate or adoption papers
  - School certification of enrollment for children ages 18-23.
  
-{ Link } [Download our fact sheet on school enrollment certification requirements- PDF](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-15.pdf)
+{ Link } [View our fact sheet on school enrollment certification requirements- PDF](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-15.pdf)
 
 
 
@@ -876,13 +876,13 @@ What's { your / the applicant's } relationship to the Sponsor they're connected 
 
 > (Error msg) You must select at least one relationship, so we can process your enrollment.
 
-( ) { I'm / %%applicant's name%% is } the sponsor's spouse {if checked add marriage license to the Application Submitted page }
+( ) { I'm / %%applicant's name%% is } the sponsor's spouse {if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
-( ) { I'm / %%applicant's name%% is } the sponsor's surviving spouse {if checked add marriage license to the Application Submitted page }
+( ) { I'm / %%applicant's name%% is } the sponsor's surviving spouse {if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
-( ) { I / %%applicant's name%% } was the sponsor's surviving spouse but remarried after the age of 55  {if checked add the legal document that ended your marriage to the Application Submitted page }
+( ) { I / %%applicant's name%% } was the sponsor's surviving spouse but remarried after the age of 55 {if checked add "Copy of the legal document that ended your marriage (required)" to the Application Submitted page }
 
-( ) { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) {if checked add birth certificate to the Application Submitted page } {if the applicant is age 18-23 add school certificate to the Application Submitted page }
+( ) { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) {if checked add" Copy of birth certificate (required)" to the Application Submitted page } {if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
 ( ) { I'm / %%applicant's name%% is } the sponsor's caretaker
 
@@ -901,9 +901,9 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 > (Error msg) You must select at least one relationship, so we can process your enrollement.
 
-( ) %%applicant's name%% is my spouse { if checked add marriage license to the Application Submitted page }
+( ) %%applicant's name%% is my spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
-( ) %%applicant's name%% is my child (includes biological, adopted, and stepchildren)  { if checked add birth certificate to the Application Submitted page } {if the applicant is age 18-23 add school certificate to the Application Submitted page }
+( ) %%applicant's name%% is my child (includes biological, adopted, and stepchildren)  {if checked add" Copy of birth certificate (required)" to the Application Submitted page } {if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
 ( ) %%applicant's name%% is my caretaker
 
@@ -927,8 +927,8 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  
 <summary>[H3] Are you enrolled in Medicare (* Required) { Story 1 }</summary>
 
-( ) I am enrolled in Medicare {if checked add form 10-7959c to the Application submitted page} {if checked add copy of Medicare card to the to the Application Submitted page }
-( ) I am under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare to the to the Application Submitted page }
+( ) I am enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+( ) I am under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
 ( ) I don't have Medicare
 
 { Buttons } Back / Continue
@@ -937,12 +937,30 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 ------------------
 
+{ if enrolled in Medicare }
+<details>
+ 
+<summary>[H3] What's parts of Medicare are you in enrolled in. You can select more than one. (* Required) { Story 1 }</summary>
+
+( ) I am enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+( ) I am enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+( ) I am enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+
+{ Buttons } Back / Continue
+
+</details>
+
+{ end if enrolled in Medicare }
+
+
+------------------
+
 <details>
  <summary>
  [H3] Is %%applicant's name%% enrolled in Medicare (* Required) { Story 2 & 3 } </summary>
 
-( ) %%applicant's name%% is enrolled in Medicare { if checked add form 10-7959c to the to the Application Submitted page } { if checked add copy of Medicare card to the to the Application Submitted page }
-( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare to the to the Application Submitted page }
+( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" the to the Application Submitted page } 
+( ) %%applicant's name%% is under 65 but not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
 ( ) %%applicant's name%% doesn't have Medicare
 
 
@@ -952,11 +970,28 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 ------------------
 
+{ if enrolled in Medicare }
+<details>
+ 
+<summary>[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }</summary>
+
+( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+
+{ Buttons } Back / Continue
+
+</details>
+
+{ end if enrolled in Medicare }
+
+------------------
+
 <details> 
  
 <summary>[H3] Do you have other health insurance? (* Required) { Story 1 }</summary>
 
-( ) I have other health insurance { if checked add form 10-7959c to the to the Application Submitted page } {if checked add copy of health insurance card page to the to the Application Submitted page }
+( ) I have other health insurance { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page } {if checked add "Copy of front and back or other health insurance card (required)" to the Application Submitted page }
 ( ) I don't have other health insurance
 
 { Buttons } Back / Continue
@@ -970,7 +1005,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  <summary>
  [H3] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
 
-( ) %%applicant's name%% has other health insurance { if checked add form 10-7959c to the to the Application Submitted page } { if checked add copy of health insurance card page to the Application submitted page }
+( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" to the Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
 ( ) %%applicant's name%% doesn't have other health insurance
 
 { Buttons } Back / Continue
@@ -1096,9 +1131,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  
 What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
-( ) %%Applicant's name%% is the sponsor 's spouse { if checked add marriage license to the to the Application Submitted page }
+( ) %%Applicant's name%% is the sponsor 's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
-( ) %%Applicant's name%%t is the sponsor 's child (includes includes biological, adopted, and stepchildren) { if checked add birth certificate to the application submitted page } { if the applicant is age 18-23 add school certificate to the to the Application Submitted page }
+( ) %%Applicant's name%% is the sponsor 's child (includes includes biological, adopted, and stepchildren) { if checked add "{if checked add" Copy of birth certificate (required)" to the Application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
 ( ) %%Applicant's name%% is the sponsor's caretaker
 
@@ -1121,11 +1156,11 @@ What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
 
-( ) %%applicant's name%% was the sponsor's spouse { if checked add marriage license to the to the Application Submitted page }
+( ) %%applicant's name%% was the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
-( ) %%applicant's name%% was the sponsor's spouse but remarried after the age of 55 { if checked add the legal document that ended your marriage to the to the Application Submitted page }
+( ) %%applicant's name%% was the sponsor's spouse but remarried after the age of 55 { if checked add "Copy of the legal document that ended your marriage (required)" to the Application Submitted page }
 
-( ) %%applicant's name%% was the sponsor's child (includes biological, adopted, and stepchildren) { if checked add birth certificate to the application submitted page } { if the applicant is age 18-23 add school certificate to the to the Application Submitted page }
+( ) %%applicant's name%% was the sponsor's child (includes biological, adopted, and stepchildren) { if checked "{if checked add" Copy of birth certificate (required)" to the application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
 ( ) %%applicant's name%%'s relationship to the sponsor is not listed here
 
@@ -1143,10 +1178,10 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 { End Information box }
 
- [H3] Is %%Applicant's First Name%% enrolled in Medicare (* Required) 
+ [H3] Is %%applicant's name%% enrolled in Medicare (* Required) 
 
-( ) %%applicant's name%% is enrolled in Medicare { if checked add form 10-7959c to the Application Submitted page} {if checked add copy of Medicare card to the to the Application Submitted page }
-( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add documentation from the Social Security Administration that confirms you don’t qualify for Medicare to the to the Application Submitted page }
+( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page}
+( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)" to the Application Submitted page }
 ( ) %%applicant's name%% doesn't have Medicare
 
 
@@ -1154,9 +1189,26 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 ------------------
 
+
+{ if enrolled in Medicare }
+
+ 
+[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }
+
+( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+
+{ Buttons } Back / Continue
+
+
+{ end if enrolled in Medicare }
+
+------------------
+
  [H3] Does %%applicant's name%% have other health insurance? (* Required)  </summary>
 
-( ) %%applicant's name%% has other health insurance { if checked add form 10-7959c to the  Application Submitted page } { if checked add copy of health insurance card to the Application submitted page }
+( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required" to the  Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
 ( ) %%applicant's name%% doesn't other health insurance
 
 { Buttons } Cancel adding applicant / Back / Continue
@@ -1225,7 +1277,7 @@ I also understand that VA may request further documentation or evidence to verif
 - A copy of each child’s birth certificate or adoption papers
 - A copy of school certification of enrollment for children ages 18-23
 - A copy of documents related to the applicant's marriage status
-- The CHAMPVA Other Health Insurance (OHI) Certification form (10-7959c)
+- [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
 - A copy of Medicare or other health insurance cards
 
 
@@ -1262,21 +1314,27 @@ Before your enrollment submission is complete you must mail in these supporting 
 #### [H3] {{ %%applicant 1 name%% }}
 
 
-- { if checked I'm / the applicant is the sponsor's spouse or The applicant is my spouse add %%Copy of marriage license (required)%% }
+- { if checked I'm / the applicant is the sponsor's spouse or the applicant is my spouse add %%Copy of marriage license (required)%% }
 
 - { if checked I / the applicant is the sponsor's surviving spouse add %%Copy of marriage license (required)%% }
 
-- { if checked I / the applicant was the sponsor's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% } 
+- { if checked I / the applicant was the sponsor's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% }
+
+- { if checked The applicant is the sponsor's child add %%Copy of birth certificate (required)%% } 
+
+- { if checked The applicant is my childadd %%Copy of birth certificate (required)%% } 
 
 - { if checked The applicant is the sponsor's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
 - { if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
-- { if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
-
 - { if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
-- { if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+- { if checked The applicant has Medicare Part A add %%Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)%% }
+  
+- { if checked The applicant has Medicare Part B add %%Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)%% }
+
+-  { if checked The applicant has Medicare Part D add %%Copy of front and back or Medicare Part D card (this may be the same card and your Medicare Part A card)%% } 
 
 - { if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required) %% } 
 
@@ -1300,18 +1358,23 @@ Before your enrollment submission is complete you must mail in these supporting 
 - { if checked I / the applicant is the sponsor's surviving spouse add %%Copy of marriage license (required)%% }
 
 - { if checked I / the applicant was the sponsor's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% } 
+- { if checked The applicant is the sponsor's child add %%Copy of birth certificate (required)%% } 
+
+- { if checked The applicant is my childadd %%Copy of birth certificate (required)%% } 
 
 - { if checked The applicant is the sponsor's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
 - { if checked The applicant is my child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
-- { if checked The applicant has Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
-
 - { if checked The applicant has Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
 
-- { if checked I'm enrolled in Medicare add %%Copy of front and back or Medicare Card including parts A, B or D (if applicable)%% } 
+- { if checked The applicant has Medicare Part A add %%Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)%% }
+  
+- { if checked The applicant has Medicare Part B add %%Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)%% }
 
-- { if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)%% } 
+-  { if checked The applicant has Medicare Part D add %%Copy of front and back or Medicare Part D card (this may be the same card and your Medicare Part A card)%% } 
+
+- { if checked I'm enrolled in Medicare add %%Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required) %% } 
 
 - { if checked The applicant is under 65 but not eligible for Medicare add %%documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)%% }
 
