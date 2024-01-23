@@ -56,7 +56,7 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
 - Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
 - Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
 - 45-minute Reminders (i.e. Veterans wll NOT receive a reminder with an eCheck-in link 45 minutes before their OH appointment)
-- Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) (STILL AN OPEN QUESTION ON THIS)
+- Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) 
 - Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
      
 ## Questions 
