@@ -4,6 +4,8 @@ We started this decision log as of December 2023. We'll continue to update conte
 | Date                 | Content need                 | Decision         | Explanation        | Decision made by
 | :-------------              | :-------------              |:-------------         |:-------------         |:-------------|
 | TBD | Confirm copy for monthly payment on Home screen | TBD | TBD | TBD |
+| TBD | Copy for maintenance windows on HOME: [Case 9c in Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1704381519703/cd6d78c5824a5fb0cc8b26597f0ad271072df8f2?sender=u85a35f55e50d7c375c782462) | TBD | TBD | TBD |
+| TBD | Copy for API timeout/errors on HOME: [Case 8a/8b in Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1704381519703/cd6d78c5824a5fb0cc8b26597f0ad271072df8f2?sender=u85a35f55e50d7c375c782462) | TBD | TBD | TBD |
 | TBD | Copy for perm aggregate API error on HOME: [Case 7b in Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1704381519703/cd6d78c5824a5fb0cc8b26597f0ad271072df8f2?sender=u85a35f55e50d7c375c782462) | TBD | TBD | TBD |
 | TBD | Copy for temp aggregate API error on HOME: [Case 7a in Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1704381519703/cd6d78c5824a5fb0cc8b26597f0ad271072df8f2?sender=u85a35f55e50d7c375c782462) | TBD | TBD | TBD |
 | TBD | Empty state copy for Activity section: [Case 2b in Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1704381519703/cd6d78c5824a5fb0cc8b26597f0ad271072df8f2?sender=u85a35f55e50d7c375c782462) | TBD | TBD | TBD |
