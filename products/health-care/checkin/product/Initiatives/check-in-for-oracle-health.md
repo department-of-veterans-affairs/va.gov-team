@@ -60,7 +60,7 @@ Favorable feedback from Veterans who use eCheck-in at OH facilities
 - Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
      
 ## Questions 
-- Does IVC want VeText to check for insurance update?
+- Does IVC want VeText to check for insurance update? - answer is no
 - How are we sending the arrived status to OH? (via MAP services?, VeText?)
 
 ## Workflows
