@@ -180,6 +180,71 @@ sequenceDiagram
         api--)-web: returns success
         web-->>-vet: displays check-in completed message
 ```
+#### Option 3 : Cerner Check-in using VeText
+```mermaid
+sequenceDiagram
+    actor vet as Veteran
+    participant web as vets-website
+    participant api as vets-api
+    participant ch as CHIP
+    participant l as LoROTA
+    box grey MAP
+        participant token as Token
+        participant proxy as Proxy
+        participant pro as VA Profile
+    end
+    participant ces as CES
+    participant oh as Oracle Health (cerner)
+        vet->>web: Clicks link to start CIE <br> and validates last & dob
+        activate web
+        web->>api: POST /sessions
+        api->>+l: POST /token
+        l--)-api: valid session
+        api--)web: return 'read.full'
+        web->>+api: GET patient data
+        alt same day multiple appointments
+            api->>+ch: POST /refresh_appointments
+            ch->>+veText: GET appointments
+            veText->>oh: GET appointments
+            oh--)veText: return appointments
+            veText--)-ch: return appointments
+            ch->>+l: update new appointments
+            l--)-ch: return success
+            ch--)-api: return success
+        end
+        api->>+l: GET patient data
+        l--)-api: return patient data
+        api->>+token: GET token/{patientIcn}
+        token--)-api: returns token
+        api->>+api: cache token by uuid (LoROTA)
+        api->>+proxy: GET demographics data
+        proxy->>+pro: GET demographics data
+        pro--)-proxy: return demographics data
+        proxy--)-api: return demographics data
+        api--)-web: return payload of <br> appointments and demographics
+        web->>+vet: renders demographics information to veteran
+        deactivate web
+        vet->>+web: confirms demographics information
+        web->>+api: PATCH demographics timestamp
+        alt if no map token in cache
+            api->>+token: GET token
+            token--)-api: returns token
+        end
+        api->>+proxy: POST timestamp
+        proxy->>+pro: POST timestamp
+        pro--)-proxy: returns success
+        proxy--)-api: returns success
+        api--)-web: returns success
+        web-->>-vet: renders appointment information
+        vet->>+web: clicks check-in
+        web->>+api: POST cerner-check-in
+        api->>+veText: POST set appointment status to arrived
+        veText->>+oh: PATCH set appointment status
+        oh--)veText: returns success
+        veText--)-api: returns success
+        api--)-web: returns success
+        web-->>-vet: displays check-in completed message
+```
 ## Questions / Open Items
 (answers added from Stephen in [slack thread](https://dsva.slack.com/archives/C02G6AB3ZRS/p1705426133031669))
 - Does the BTSSS endpoint work for OH stations? - CLOSED
