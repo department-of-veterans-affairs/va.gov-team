@@ -5,7 +5,8 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
 
 ### Few things to note: 
  - Mobile does not own or possess their own test accounts
- - Test accounts Mobile use may be used and modify by the VA
+ - Test accounts Mobile use may be used and modify by the VA without notification
+ - Historically when asking for test accounts or data modification we are told a VA PO needs to prioritize the work 
  - Mobile does not own or possess any production test accounts
  - For login.gov auth code you need to log into the TUD to get it
  - Seen that VA teams need their PMs to prioritize and coordinate the work 
