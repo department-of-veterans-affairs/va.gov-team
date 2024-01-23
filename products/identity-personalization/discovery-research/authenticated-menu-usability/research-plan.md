@@ -138,7 +138,7 @@ Availability for a kick-off call, in Eastern times:
 The majority of the prototype will be complete by January 17, but refinements will continue until our pilot session.
 
 * Pilot participant email: TBD
-* Date and time of pilot session: Targeting 1/24
+* Date and time of pilot session: 1/24, 12:30 PM
 
 ### Research sessions
 * Planned dates of research: Jan 29-Feb 1
