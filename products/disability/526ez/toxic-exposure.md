@@ -204,3 +204,23 @@ With the HTML, we also considered using `<ul>` and `<li>` elements, potentially 
 Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#toxic-exposure-summary-dont-use-the-table-pattern), we want to avoid tables since [The VADS's table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.  
 
 For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
+
+## Changes made Post-Midpoint 
+**Midpoint**
+- Entry point was different
+  - “Are you claiming any conditions relate to TE” Yes or No
+
+#### Locations and Dates
+- Locations and dates were on the same screen, locations were shown in an additional info component. 
+- We had multiple tasks on one screen
+   - Answering yes or no on locations AND entering dates
+   - This solution would make the pages too long, plus it goes against the one task per screen guideline. 
+- Having locations hidden in an additional info component makes that content not upfront for screen readers at first. 
+   - **Feedback from CAIA:** We recommend showing this full list to the user, instead of nesting it in an additional info component as the prototype suggests. Every user will need to see this list in full in order to answer the question.
+- **Recommendations from CAIA post-midpoint about locations:**
+   - The original list is of 23 locations for burn pit exposures and Gulf War locations for undiagnosed illness presumptive conditions, for service periods post 1990 and post 2001. We recommend splitting the original list of 23 locations into shorter lists so that the locations are easier for the Veteran to scan. We’ve updated this question to ask only about presumptive locations for burn pit exposures on or after September 11, 2001. The prototype currently displays the list in an additional information component. We recommend displaying these shorter lists in full, without asking the Veteran to expand a list, instead. Every user will need to review the full list in order to answer the question (as in, the list is not targeted to a specific audience. It’s for everyone), so showing it in full will cut down on clicking
+#### Hazards Screen (Checkbox logic) 
+- Splitting out dates screen per hazards checked
+   - This is where we split hazards screens into hazards list (to be checked) + additional screens for dates.
+   - Recommendation from CAIA: If we need the Veteran to provide the dates of potential exposures, I propose asking it this way. I know we want to limit the number of screens. I think whether VBA needs Veterans to provide dates for specific hazard exposures. If VBA needs locations too, we can add that to this question.
+
