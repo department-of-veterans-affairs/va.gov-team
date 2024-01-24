@@ -11,7 +11,8 @@ There are over 3,900 HCA API errors that occurred since yesterday’s afternoon 
 Quantified statement about the impact of the incident.
 
 - How many users were affected?
-     - Approximately 3900
+     - Initially, 3,900 Veterans' applications were failing
+     - After applications were retried, a total of 5 Veterans' applications failed completely
 - What time period were users impacted?
      - Starting on 1/23/2024 at 3:00pm ET to 1/24/2024 at 11:12am ET
 - What impact did this have on the SLO?
@@ -34,11 +35,7 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 - Platform Support: Rachal Cassity
 - VES contact: Joshua Faulkner
 
-Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
-
 ## Action Items
-
-Ensure the listed owners are the _teams_ that own the action item, every action items must have a link to an issue.
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
@@ -62,8 +59,6 @@ A dependency update caused the request payload to change slightly (specifically 
 
 ### Why did it happen?
 
-- While the 10-10 team was tagged as a code-owner to review the PR, it was approved by another code-owner.
-
 ... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
 - What should ordinarily have been done to prevent this, but wasn't done?
 - What could have been done to prevent this, but isn't part of our modus operandi right now.
@@ -71,15 +66,18 @@ A dependency update caused the request payload to change slightly (specifically 
 ### What will we change to ensure this doesn't happen again?
 
 - Implement a monitor on HTTP calls to es_backend at the fwd proxy, add alerts
-- Look into the conditions and add a spec that fails with these conditions
 - Look into 500s that appeared in staging, potentially adding alerts for staging errors like this
 
-- These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
-- Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies all 10-10 Health Apps team members.
-     - Once notified, the team will begin an investigation into the error and root cause.
-     - If assistance is needed, the team will engage the #vfs-platform-support Slack channel
+These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
+Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies all 10-10 Health Apps team members.
+- Once notified, the team will begin an investigation into the error and root cause.
+- If assistance is needed, the team will engage the #vfs-platform-support Slack channel
 
-Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
+- Look into the conditions and add a spec that fails with these conditions
+- Create monitors and filtered logs to prevent large errors from going unnoticed
+
+
+... Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
 
 ## Resolution
 
