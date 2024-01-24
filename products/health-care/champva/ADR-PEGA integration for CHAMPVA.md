@@ -26,10 +26,7 @@ Box.com was mentioned early in the project but ruled out due to security concern
 
 (The following assumes we will have the option to implement either option 2 or 3 above. As of this writing we don't consider option 1 viable.)
 
-Moving forward, the IVC Forms team will:
-- Proceed with the assumption that PDF form submissions will be sent to PEGA once a workflow becomes available for a given form
-- Assume that there is a future state where form submissions will be sent to a RESTful API in addition to PEGA
-- Remain open to changes in the architectural landscape that may help us and our stakeholders streamline IVC processes
+
 
 ## Consequences
 
