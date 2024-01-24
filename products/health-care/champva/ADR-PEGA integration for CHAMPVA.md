@@ -24,7 +24,8 @@ Box.com was mentioned early in the project but ruled out due to security concern
 
 ## Decision
 
-(The following assumes we will have the option to implement either option 2 or 3 above. As of this writing we don't consider option 1 viable.)
+- Strongly prefer to submit to PEGA via a RESTful API once available
+- Prior to availability of an API, we anticipate submitting documents to an s3 bucket to begin testing
 
 
 
@@ -33,3 +34,7 @@ Box.com was mentioned early in the project but ruled out due to security concern
 ### What are the risks of this decision?
 
 ### How do we reverse this decision?
+
+### References
+Diagram from meeting with VA IVC team.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/1290901/25e19a40-6367-49bf-8461-8311e3870062)
