@@ -46,8 +46,6 @@ ________________________________________________________________________________
 ------- END FUTURE / TENTATIVE ------
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 1/24 through 2/6</summary>
 ______________________________________________________________________________________________________________________________________________________
 
 ## 1/24/2023 - 2/6/2024  ------- FUTURE FUTURE / TENTATIVE ------
@@ -101,9 +99,6 @@ ________________________________________________________________________________
         - 🟥 [[Design] Create remaining components for MHV UA Library for production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74282) 
         - 🟥 [[Design] Replace all local components in production frames to use components from MHV UA Library](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73878)
 
-
-------- END FUTURE / TENTATIVE ------
-</details>
 ______________________________________________________________________________________________________________________________________________________
 
 ## 1/10/2023 - 1/23/2024  
