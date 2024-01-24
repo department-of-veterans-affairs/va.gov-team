@@ -9,8 +9,6 @@
 - [ ] The content is free of ability-focused language (view, walk, see, hear)
 - [ ] Relevant terms from page are in content brief 
 - [ ] Any relevant backlog work is noted
-- [ ] Remove "Who's covered?" section (if needed)
-- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
 - [ ] Change header "How do I get these benefits?" to "How do I file a claim for compensation?"
 - [ ] Change content in the above "How do I file...." section to this:
 You can file a claim online now. You can also file by mail, in person, or with the help of a trained professional.
