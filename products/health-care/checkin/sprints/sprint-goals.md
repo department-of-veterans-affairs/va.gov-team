@@ -136,7 +136,7 @@ ________________________________________________________________________________
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
  - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
-        - ❗ 🟩 🟦 [[FE][BE] Document Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
+        - ✔️ ❗ 🟩 🟦 [[FE][BE] Document Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73003)
         - ✔️ ❗ 🟩 🟦 [[FE][BE] Create Task Tickets for Implementing Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73228)
  - **GOAL: Address Usage Issues**
      - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
@@ -156,17 +156,18 @@ ________________________________________________________________________________
         - ✔️ 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65424)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-       - 🟩 [[FE][CHIP] Add CVT, VVC appointment Types](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72948)
+       - ✔️ 🟩 [[FE][CHIP] Add CVT, VVC appointment Types](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72948)
        - ✔️ 🟩 [[FE][CHIP] Check-In enabled for CVT appointments - engineering](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72864)
-       - 🟦 [[BE] Solution design for upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72703)
+       - ✔️ 🟦 [[BE] Solution design for upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72703)
        - 🟦 [[BE] Implement VAOS Appointment Serializer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
+          - Not finished, will NOT be rolling over, putting back in the backlog to work on at a later date
   - **Sub Goal: Analyze current metrics to see what they tell us**               
        - ✔️ 🟥 [Research] Analyze GA Metrics
        - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71838)
 - **GOAL: Address Tech Debt**            
      - **Sub Goal: Migrate Sktech Files to Figma**
         - ✔️ 🟥 [[UX] [Design] Move files to Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71690)
-        - 🟥 [[UX] [Design] Clean up pages in Figma Production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73002)
+        - 🚧 🟥 [[UX] [Design] Clean up pages in Figma Production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73002)
         - ✔️ 🟥 [[UX] [Design] Create a local reusable component in Figma (similar to a local Symbol in Sketch)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73006)
         - ✔️ 🟥 [[Design] Create initial local components for production file and create and publish initial Check-in Component Library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73225)
     - **Sub Goal: [Adhere to VA Content Guidelines for heading character counts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70676)** 
