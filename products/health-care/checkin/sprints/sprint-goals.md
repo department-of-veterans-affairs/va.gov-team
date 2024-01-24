@@ -87,7 +87,10 @@ ________________________________________________________________________________
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
         - 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
-  - **Sub Goal: Analyze current metrics to see what they tell us**               
+   - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
+       -  🟥 [Create Final Wireframes and content for modality-agnostic error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74108)
+       -  🟥 [Create Final Wireframes and content for modality-agnostic accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74107)  
+   - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71834)
 - **GOAL: Address Tech Debt**            
@@ -98,6 +101,8 @@ ________________________________________________________________________________
         - 🟥 [[Design] Clean up pages in Figma Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73002)
         - 🟥 [[Design] Create remaining components for MHV UA Library for production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74282) 
         - 🟥 [[Design] Replace all local components in production frames to use components from MHV UA Library](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73878)
+        - 🟥 [[Design] Clean up pages in Figma Unified Check In file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73559)
+     
 
 ______________________________________________________________________________________________________________________________________________________
 
