@@ -1,4 +1,4 @@
-# 2023-01-24 - TITLE
+# 2023-01-24 - HCA API Errors
 
 Fill out every section of this document, if there is no content for a particular section, explicitly call out that there is no content.
 
@@ -55,6 +55,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 The gem bgs_ext was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), the upgrade required modifications to HCA files.
 
+A dependency update caused the request payload to change slightly (specifically it changed some of the xmlns statements in the XML root element).
 
 ... Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
