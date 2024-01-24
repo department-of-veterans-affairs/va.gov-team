@@ -78,15 +78,11 @@
 - [JSON Files in Master Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
 
 ## Production Designs
-- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/6559E321-AF82-42D1-837D-75F9DB19DF15/canvas) 
-- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/37E0C5B9-D07D-4782-AF6B-6AD947AE0BE2/canvas)
-- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0213EBFE-75F9-4C0E-805B-5E77F30A8F04/canvas)
-- [In person Check-in with beneficiary travel reimbursement](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/A6E73D11-A95C-4EC0-A3B7-792CE5799C59/canvas)
-- [In person Check-in with beneficiary travel reimbursement userflow](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/p/0157CB5C-B33B-4324-B375-AC686EFA3B4A/canvas)
-
-### Other Design Artifacts 
-- [Check in posters (for download)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/design/visual-collateral)
-- [Unified check in draft design](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0EC89917-F949-4461-A7B3-32A5201FD2A2/canvas)
+- [Production | Pre-check-in and check-in](https://www.figma.com/file/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-Check-in?type=design&node-id=2%3A1305&mode=design&t=0lRYfw3kcVScWClF-1)
+- [Working | Check-in](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=xPKUeH49IJf3iY0Y-1)
+- [Working | Pre-check-in](https://www.figma.com/file/mVg6S9xgiQpWbAOAvptQOZ/Pre-check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=wncuIj1Ko8hFd9sf-1)
+- [Working | Unified check-in](https://www.figma.com/file/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-Check-in?type=design&mode=design&t=87McIUiwLhq3yP2R-1)
+- [Working | Telehealth content matrix](https://www.figma.com/file/th4V0mCvPbKYLCDgaZjovw/Telehealth-%7C-Check-in?type=design&node-id=7%3A484&mode=design&t=jLY1RZvjDDbrO4zA-1)
 
 ## Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
