@@ -42,63 +42,56 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
-|... Look into the conditions and add a spec that fails with these conditions | TBD | [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
+|... Look into the conditions and add a spec that fails with these conditions | TBD | [@1010-health-apps] [@vfs-platform-support] [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
 |Create monitors and filtered logs to prevent large errors from going unnoticed| TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
 | Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
 
 
 ## Root Cause Analysis
-
-Engaged Platform support to assist in triage of the HCA API errors. 
-Determined when the issue first showed up, reviewed datadogs reports and PRs that lined up with the timing.
-We were able to look into the Staging env which helped us narrow the source of the issue. We noticed that similar errors were raised in staging, but because we didn't have proper monitoring/alerts in place, we weren't alerted of the failed health checks until they were raised in production.
-
 ... This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
 ### What happened?
 
-An update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors (404s?) that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30ET when the root cause was determined and said PR was reverted and production was redeployed
+On 1/24/24, the 10-10 Team noticed a lack of 10-10EZ submissions via DataDog alerts and investigation. The 10-10 Team engaged Platform Support to assist in triage of the HCA API errors. This cohort determind when the issue first showed up, reviewed DataDog reports and PRs that lined up with the timing. The cohort was able to look into the Staging env which helped narrow the source of the issue. The cohort noticed that similar errors were raised in staging, but because didn't proper monitoring/alerts were not in place, the 10-10 Team was not alerted to the failed health checks until they were raised in production.
 
-... Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
+The issue was caused by an update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30am ET when the root cause was determined and said PR was reverted and production was redeployed.
+
 
 ### Why did it happen?
 
-The gem savon was upgraded. This update impacted how SOAP requests were throwing errors, causing the HCA API errors. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), the gem was bumped and the cassette that would have raised this error was manually modified that unintentionally hid the error. 
+The gem savon was upgraded. This update impacted how SOAP requests were throwing errors, causing the HCA API errors. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), the gem was bumped and the cassette that would have raised this error was manually modified, unintentionally hiding the error. As a result of not being able to see the error, the 10-10 Team was unable to intervene until the error reached Production.
 
-... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
-- What should ordinarily have been done to prevent this, but wasn't done?
-- What could have been done to prevent this, but isn't part of our modus operandi right now.
 
 ### What will we change to ensure this doesn't happen again?
 
+- Avoid manual changes to VCR cassettes unless absolutely neccessary, and consult with other teams who may be impacted by the downstream effects
 - Implement a monitor on HTTP calls to es_backend at the fwd proxy, add alerts
 - Look into 500s that appeared in staging, potentially adding alerts for staging errors like this
-
-These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
-Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies all 10-10 Health Apps team members.
-- Once notified, the team will begin an investigation into the error and root cause.
-- If assistance is needed, the team will engage the #vfs-platform-support Slack channel
-
 - Look into the conditions and add a spec that fails with these conditions
 - Create monitors and filtered logs to prevent large errors from going unnoticed
 - Create monitors for staging, so we're immediately made aware if health checks are failing
 - Discuss better practices for re-recording cassettes when deemed necessary
 
-... Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
+These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
+Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies all 10-10 Health Apps team members.
+
+- Once notified, the team will begin an investigation into the error and root cause
+- If assistance is needed, the team will engage the #vfs-platform-support Slack channel
+
 
 ## Resolution
 
 [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful.  All 10-10EZ applications that were in a "retry" state were retried succesfully.
 
+The 10-10 Team went through DataDog and Sentry logs to retreive information from Veterans who tried and failed to submit 10-10EZ and EZRs so that the HEC team could follow up with these Veterans.
+
 ### What went well
 
-With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within 2 hours of being reported.  Since the issue started showing up in the Staging environment prior to the production deployment, it was a bit easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.
+With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within two (2) hours of being reported.  Since the issue started showing up in the Staging environment prior to the production deployment, it was easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.
 
 
 ### What went wrong
 
-... Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
-Explicitly list 'N/A' if there are no such instances.
 * We seem to have health checks in place to help catch similar issues, but nobody noticed them because we don't have strict monitoring in Staging
 * Cassettes were modified that would have protected us from the incident. One should be absolutely confident in their changes before manually modifying a casette.
 
@@ -133,4 +126,4 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - [@hdjustice](https://github.com/hdjustice)
 - [@rachalcassity](https://github.com/RachalCassity)
 - [@ryan-mcneil](https://github.com/ryan-mcneil)
-- [@alexseelig] (https://github.com/alexseelig)
+- [@alexseelig](https://github.com/alexseelig)
