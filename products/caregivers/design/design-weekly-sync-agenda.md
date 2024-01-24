@@ -1,10 +1,23 @@
 # Design Weekly Sync Agenda
+## 2024-01-22
+Attendees: Angela, Hieu, Jessica, Katelyn, (Heather and Kristen for second half)
+
+- Mini UX Refinement Session
+- Opened UX Work Spreadsheet and reviewed items
+- Also reviewed Figma spreadsheet with assignments by page
+
+- When Kristen joined - pivoted to talking about Toxic Exposure questions
+- She will be helping to connect our team with the 526 team
+- Reviewed current status of the draft and flow of questions
+- Outstanding SME questions, esp around short form
+- Wondering how/when to end question flow - if answer yes to one, skip the remaining. Depends on how ES is going to be built, a yes/no boolean value or the details of each individual question?
+
 
 ## 2024-01-16
 Attendees: Angela, Hieu, Jessica, Katelyn, Heather, and Kristen.
 
 - Toxic Exposure
-    - We already have the Mural and a PACT Act wizard (check eligible then apply  for 10-10).
+    - We already have the Mural and a PACT Act wizard (check eligible then apply for 10-10).
     - Kristen mentioned that the OCTO team had some recent related research with Nina synthesizing this week and Kristen will do a first path.
     - Step 1 is to gather all the information.
     - There are talks of adding this information to the 526. If that is the case, how can that information be captured so the Veteran does not have to fill out the same information in the 10-10. Is there another backend system that connects this information? Is the Enrollment System ready for this information?
