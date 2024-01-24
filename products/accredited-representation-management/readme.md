@@ -16,7 +16,7 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 #### [Zenhub board](https://app.zenhub.com/workspaces/accredited-representation-management-team-64d0dc51d3e8f4788ac6ef96/board)
 
 ## CAIA Resources
-1. [Content source of truth](https://drive.google.com/drive/folders/1Z4-nv20Pk2NmyXVhcCrR3otJTSnzGqAu)
+1. [Content source of truth](https://dvagov.sharepoint.com/:f:/s/SitewideCAIA/EpKqFTllvlxOkDwz2iFgveAB9PjkKVIrJu_TUAkQPbsU0g?e=L92kpF) (Sharepoint)
 2. [IA source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/manage-accredited-representative.md)
 3. [A11y review log](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility/Deliverables/Benefits%20Representation%20Management)
 
