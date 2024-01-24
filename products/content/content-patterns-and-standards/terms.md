@@ -15,8 +15,7 @@ Document general terms in the VA ecosystem and how we're using them. Add definit
 | sponsor               |                 |||
 
 
-# Forms Word List   
-While VA.gov has a [word list](https://design.va.gov/content-style-guide/word-list#t) of commonly used terms, the Forms Team has encountered form-specific language that is documented here. Please note: This is unofficial guidance that is currently utilized by the Forms team.   
+# Word list
 
 ---   
 ## A 
