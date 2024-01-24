@@ -4,7 +4,7 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-The gem savon was upgraded. which modifed the XML request.  Once this was deployed, the change caused over 3,900 HCA API errors.  Since yesterday’s afternoon deployment, no successful submissions for the 10-10EZ were completed.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
+The gem savon was upgraded, which modifed the SOAP request's XML payload.  Once this was deployed, the change caused over 3,900 HCA API errors.  Since yesterday’s afternoon deployment, no successful submissions for the 10-10EZ were completed.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
 
 
 ## Impact
@@ -51,25 +51,19 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 
 Engaged Platform support to assist in triage of the HCA API errors. 
 Determined when the issue first showed up, reviewed datadogs reports and PRs that lined up with the timing.
-We were able to look into the Staging env which helped us narrow the source of the issue.
-**@Ryan we need more here**
+We were able to look into the Staging env which helped us narrow the source of the issue. We noticed that similar errors were raised in staging, but because we didn't have proper monitoring/alerts in place, we weren't alerted of the failed health checks until they were raised in production.
 
 ... This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
 ### What happened?
 
-An update caused HCA Requests to the HCA service to fail.
-**@Ryan we need more here**
+An update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors (404s?) that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30ET when the root cause was determined and said PR was reverted and production was redeployed
 
 ... Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
 ### Why did it happen?
 
-The gem savon was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), a cassette was manually modified that bypassed the error.
-
-This update impacted how SOAP requests were throwing errors, causing the HCA API errors.
-
-**@Ryan we need more here**
+The gem savon was upgraded. This update impacted how SOAP requests were throwing errors, causing the HCA API errors. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), the gem was bumped and the cassette that would have raised this error was manually modified that unintentionally hid the error. 
 
 ... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
 - What should ordinarily have been done to prevent this, but wasn't done?
@@ -87,8 +81,8 @@ Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies al
 
 - Look into the conditions and add a spec that fails with these conditions
 - Create monitors and filtered logs to prevent large errors from going unnoticed
-
-**@Ryan we need more here**
+- Create monitors for staging, so we're immediately made aware if health checks are failing
+- Discuss better practices for re-recording cassettes when deemed necessary
 
 ... Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
 
@@ -105,7 +99,8 @@ With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan
 
 ... Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
 Explicitly list 'N/A' if there are no such instances.
-**@Ryan we need more here**
+* We seem to have health checks in place to help catch similar issues, but nobody noticed them because we don't have strict monitoring in Staging
+* Cassettes were modified that would have protected us from the incident. One should be absolutely confident in their changes before manually modifying a casette.
 
 ### Where we got lucky
 
