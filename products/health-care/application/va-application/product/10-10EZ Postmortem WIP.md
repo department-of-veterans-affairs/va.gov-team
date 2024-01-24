@@ -86,7 +86,7 @@ Provide recommendations and concrete plans of action of how you will provide a s
 
 ### What went well
 
-With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within 2 hours of being reported.  Since the issue started showing up in the Staging environment prior to the production deployment, it was a bit easier to narrow down the offending commit and revert it quickly. 
+With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within 2 hours of being reported.  Since the issue started showing up in the Staging environment prior to the production deployment, it was a bit easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.
 
 
 ### What went wrong
