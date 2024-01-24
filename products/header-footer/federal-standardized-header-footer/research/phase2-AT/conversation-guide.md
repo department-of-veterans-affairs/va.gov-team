@@ -349,6 +349,8 @@ You *don't* need to enter your *actual* email address and password since this is
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
+*(make sure that p is at the very top of page w/header menus closed, or ask to do this)*
+
 1. What stands out to you on this page that indicates this is an official government website?
     - *(More prompts if needed...)* 
     - Can you tell me about the very top of this page? *(USA Government)*
