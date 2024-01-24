@@ -17,7 +17,9 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-Favorable feedback from Veterans who use eCheck-in at OH facilities
+- Steady increase of eCheck-in usage at OH facilities
+- At least 70% check in completion rate once a Veteran authenticates their identity
+- Favorable feedback from Veterans who use eCheck-in at OH facilities
 
 ## Launch Planning
 - Pilot - mid April 2024
