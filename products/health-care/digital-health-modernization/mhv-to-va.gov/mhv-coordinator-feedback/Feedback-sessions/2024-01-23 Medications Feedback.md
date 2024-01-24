@@ -1,5 +1,5 @@
 # MHVC feedback sessions: Medications
-## January 2024 
+January 2024 
 
 ## Takeaways  
 - The majority of support they give is with MHV on web, they rarely get questions about other pharmacy apps like RxRefill or VAHB App.
@@ -21,7 +21,7 @@
 -  In person, I have them log in over the phone, I log into my own MHV account so I can kind of see what they're seeing on their end. Sometimes my medication isn't showing either and it’s a weird glitch in the system if its being updated and I log in the next day and its back.
 -  Having patients transferred over to MHV then that’s a task. Explaining if a medication is missing, then we direct them to pharmacy to ask over the phone. I have a point of contact and I send her a teams msg to let them know I'm sending someone over. 
 
- ### Do you ever get questions from veterans about other places they can refill like the apps? 
+### Do you ever get questions from veterans about other places they can refill like the apps? 
  -  No. its easier to log on to MHV - its one and done.
  -  For me its just MHV because we have an older population and they can barely even log in to MHV.
 
@@ -29,11 +29,11 @@
 - Nine times out of ten they just want to refill online and monitor tracking information. However, I tell them that once they send the medication to the post office, they have to track it through the USPS because they will have to talk to their local post office about where it is left.
 - One Veteran is trying to get back into the military and he needs to provide all the medications he has ever been given from the VA for disability purposes. If I signed up for MHV today, would I have all the medications I've ever taken in the past? I don't know how to go back any further.
 
-  ### Have you gotten any questions/feedback on refilling multiple perscriptions at one?
+### Have you gotten any questions/feedback on refilling multiple perscriptions at one?
   - Haven't heard any issues.  The real issue that I've consistently heard about is when the prescription isn't showing when they should be.
   - Agree, it's easy to refill, just click the box.
  
-  ### Have you gotten any questions/feedback on renewals?
+### Have you gotten any questions/feedback on renewals?
   - No issues as long as there are refills and the medication isn't expired. 9/10 times the issue is because the medication is expired or out of refills. To troubleshoot, I click on the I, it tells you if there are refills left or if its expired, so then I tell them to message the doctor.
   - Usually they are older veterans and just confused. One Veteran was trying to get a refill of eyedrops and was surprised that the prescription expired because he has been taking it for 10 years and the record showed that he was due for an exam. Which is why he couldn't just refill it. 
 
@@ -52,8 +52,3 @@
    - My concern is were going to lose a lot of Veteran for those who aren't able to access either of those platforms. Were still having issues for both. We still haven't gotten a definitive answers. To actually get access. When I tried twice, and couldn’t do it a third time. My phone number was a number from when I lived with my parents in high school. Older patients might not know that. This was with ID.me. After about a week I got access. I have patients come in and say this is ridiculous and they don’t know why they have to. I have to explain about the exec order. On a good day it could take 30 mins. On a bad day, an hour and a half.
    - I've spent 90 mins with a patient before trying to get them onto ID.me and taking pics of ID cards and upload them. I explain that this is the industry standard for cyber security. If you pay bills, bank, buy anything, everything is going to a multifactor auth. If the older gen is willing to learn fine, but if they're not then its just going to be a barrier. The younger gen has no problem - they're all using it but they expect it to work and get frustrated when things aren't working.
    - Oh yeah I'm dreading the transition. Maybe I'm just confused. I have signed in and I just hit a stop. I know when I explain all the ways to sign in over the phone I know they just want to come through the phone and grab my neck. I'm looking forward to it becoming easier. 
-
-
-
-   
-- We get a lot of questions because there are a lot of questions in the transition to MHV on VA.gov. they use the VA health and bens app more here in St. Louis because they do the one stop shopping - access bennies and MHV items in one place. They like that one better. The other ben to the app is if I can get them se up with face ID then they don’t have to worry about getting codes. That’s the easiest for Veterans. They have to come in to help them do that in person. 
