@@ -43,22 +43,26 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
-|Look into the conditions and add a spec that fails with these conditions | TBD | [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74410)|
+|... Look into the conditions and add a spec that fails with these conditions | TBD | [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74410)|
 | Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
 
 
 ## Root Cause Analysis
 
-This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
+... This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
 ### What happened?
 
+The gem bgs_ext was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), the upgrade required modifications to HCA files.
 
-Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
+
+... Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
 ### Why did it happen?
 
-- Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
+- While the 10-10 team was tagged as a code-owner to review the PR, it was approved by another code-owner.
+
+... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
 - What should ordinarily have been done to prevent this, but wasn't done?
 - What could have been done to prevent this, but isn't part of our modus operandi right now.
 
@@ -86,7 +90,7 @@ With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan
 
 ### What went wrong
 
-Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
+... Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
 Explicitly list 'N/A' if there are no such instances.
 
 ### Where we got lucky
