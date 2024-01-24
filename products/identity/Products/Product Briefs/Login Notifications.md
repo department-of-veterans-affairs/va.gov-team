@@ -27,6 +27,8 @@ For this first iteration, the focus will be on email notifications.
 ## Out of Scope: (for this iteration)
 * Locking accounts
 * Opt-in to other kinds of notifications
+* These kind of notifications do not already exist
+* * If they exist, then we can set up a configuration not to trigger an email for those cases
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
