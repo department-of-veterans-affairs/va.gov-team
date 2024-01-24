@@ -8,7 +8,7 @@ Don't use punctuation in these instances:
 * Step titles   
 (Example)
 
-* Headers
+* Headers  
 For example, "Veteran's identification information" or "Tell us where we should send the information" would not have punctuation.
 
 * Error messages   
