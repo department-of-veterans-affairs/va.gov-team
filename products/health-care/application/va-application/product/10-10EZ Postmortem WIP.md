@@ -4,14 +4,14 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-There are over 3,000 HCA API errors that occurred since yesterday’s afternoon deployment, and no successful submissions for the 10-10EZ.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
+There are over 3,900 HCA API errors that occurred since yesterday’s afternoon deployment, and no successful submissions for the 10-10EZ.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
 
 ## Impact
 
 Quantified statement about the impact of the incident.
 
 - How many users were affected?
-     - approximately 3900
+     - Approximately 3900
 - What time period were users impacted?
      - Starting on 1/23/2024 at 3:00pm ET to 1/24/2024 at 11:12am ET
 - What impact did this have on the SLO?
@@ -38,7 +38,10 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Enforce Branch Code Coverage to 'X% per file' in CI | Engineering Work | [@owning-team](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [REPO_NAME - ISSUE_ID](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/1) |
+| Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
+|Look into the conditions and add a spec that fails with these conditions | Data Analytics work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74410)|
+| Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
+
 
 ## Root Cause Analysis
 
@@ -46,7 +49,6 @@ This section provides a detailed analysis of the event and provides this analysi
 
 ### What happened?
 
-Dependabot was attempting to upgrade the bgs_ext gem: https://github.com/department-of-veterans-affairs/vets-api/pull/15175/files. I believe Ryan was fixing all the errors that were present when he upgraded the gem locally
 
 Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
@@ -58,8 +60,7 @@ Describe in detail what actually happened and what the downstream effect of the 
 
 ### What will we change to ensure this doesn't happen again?
 
-- Implement a monitor on HTTP calls to es_backend at the fwd proxy
-- Add alerts for this new monitor
+- Implement a monitor on HTTP calls to es_backend at the fwd proxy, add alerts
 - Look into the conditions and add a spec that fails with these conditions
 - Look into 500s that appeared in staging, potentially adding alerts for staging errors like this
 
@@ -67,8 +68,7 @@ Provide recommendations and concrete plans of action of how you will provide a s
 
 ## Resolution
 
-- Ticket entered in #vfs-platform-support channel
-PR #14930 was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful.  All 10-10EZ applications that were in a "retry" state were retried succesfully.
+[PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful.  All 10-10EZ applications that were in a "retry" state were retried succesfully.
 
 ### What went well
 
@@ -88,12 +88,18 @@ We were able to see the errors occuring in Staging on the previous day, which le
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2020-01-02 @ 12:34 PM`: The [build](https://build.reference.url/details) ran
-- `2020-01-03 @ 02:34 PM`: The problem was identified by Team T1 through X & Y, and [issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was created to track it
-- `2020-01-03 @ 02:40 PM`: [Issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was fully understood by team T1
-- `2020-01-03 @ 02:40 PM`: The incident rose to the level requiring a post-mortem due to factors X and Y.
-- `2020-01-03 @ 02:45 PM`: Team T1 produced [Pull Request #124](https://github.com/department-of-veterans-affairs/${REPO_NAME}/pull/124) to resolve the issue
-- `2020-01-03 @ 02:50 PM`: The PR was approved by a member of Team T1 and a member of Team T2 because T2 has interests 'I' in this
+- `2024-01-24 @ 9:15 AM ET`: During a routine review of Datadog, it was noticed that there have been only HCA API errors being logged, and no submissions since the previous day at approximately 3:00 PM ET.
+- `2024-01-24 @ 09:16 AM ET`: Issue was [reported to Platform Support](https://dsva.slack.com/archives/CBU0KDSB1/p1706105805136009) (#vfs-platform-support Slack channel) - [Github issue #74356](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74356) was opened
+- `2024-01-24 @ 09:39 AM ET`: Adrien Rollett and Patrick Bateman started the triage, reviewing various Datadog monitors.  A [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was found to have changes to rest_client and http libraries.  This was thought to be the source of the issue.
+- `2024-01-24 @ 10:05 AM ET`: PR was reverted and redeployed to production
+- `2024-01-24 @ 10:17 AM ET`: Noticed that the HCA API was not coming back online and submission failures were still occuring.  The reverted PR was not the source of the issue.
+- `2024-01-24 @ 10:17 AM ET`: It was found that the errors were occuring in the Staging environment since the previous day's deployment.
+- `2024-01-24 @ 10:30 AM ET`: Investigating the issue in Staging assisted in narrowing down the source of the problem
+- `2024-01-24 @ 10:33 AM ET`: [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found that updated savon/httpi
+- `2024-01-24 @ 10:35 AM ET`: A Sentry log was found to identify the first time the error occured in Staging, confirming we were on the right track
+- `2024-01-24 @ 11:03 AM ET`: PR was reverted and redeployment started
+- `2024-01-24 @ 11:12 AM ET`: Confirmed 10-10EZ forms were now being succesfully submitted
+- `2024-01-24 @ 11:15 AM ET`: All 10-10EZ and 10-10EZR forms that were still in a retry cycle were successfully retried
 - ...
 
 ## Contributors
