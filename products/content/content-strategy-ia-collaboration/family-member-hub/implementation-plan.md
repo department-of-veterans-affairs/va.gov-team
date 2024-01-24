@@ -121,7 +121,7 @@ Communication to OCTO stakeholders
 - [ ] Research results and next steps at OCTO Monday design meeting - scheduled for 3/18/24
 - [ ] Talk with to Jeff Barnes/IIR team re: moving education forms
 - [ ] Discussion with Beth/Randi on VBA/NCA contacts - Danielle
-- [ ] Share with benefits portfolio - 1/23
+- [x] Share with benefits portfolio - 1/23
 - [ ] Share with Chris - Danielle's 1:1
 - [ ] Share with health portfolio - 1/23
 - [ ] CAIA deep dive(s)
