@@ -138,4 +138,4 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - [@hdjustice](https://github.com/hdjustice)
 - [@rachalcassity](https://github.com/RachalCassity)https://github.com/RachalCassity
 - [@ryan-mcneil](https://github.com/ryan-mcneil)
-- @alexseelig https://github.com/alexseelig
+- @alexseelig (https://github.com/alexseelig)
