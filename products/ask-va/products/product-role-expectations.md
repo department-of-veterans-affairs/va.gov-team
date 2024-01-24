@@ -7,11 +7,11 @@ This document sets expectations for Product Owners outside of OCTO we work close
 
 ## Roles 
 |Role|Name|Description|
-|:--|:--|
-|Product Lead|Becky Phung until Feb 2024, Chante Lantos-Swett back in Feb 2024|xx|
-|Product Manager|Ruchi Shah and Holly Hansen as interim |xx|
-|Product Owner (VES)| Natalie Morales and Andrea Schneider|Coordination between CRM team and VA.gov team|
-|Product Manager (VES)| Tim Robinson|Oversight of CRM team work and product delivery|
+|:--|:--|:--|
+|Product Lead|Becky Phung until Feb 2024, Chante Lantos-Swett back in Feb 2024|Accountable for product outcomes of AVA VA.gov work|
+|Product Manager|Ruchi Shah and Holly Hansen as interim |Responsible for delivery strategy and day-to-day work of AVA VA.gov work|
+|Product Owner (VES)|Natalie Morales and Andrea Schneider|Coordination between CRM team and VA.gov team|
+|Product Manager (VES)|Tim Robinson|Oversight of CRM team work and product delivery|
 
 ## Product Owner (VES)
 Product Owners from the Veteran Experience Services (VES) team manage products in different product lines similarly to OCTO POs. This role is to primarily fill the gap between the back-end and front-end team by managing communication and coordination between the teams.
