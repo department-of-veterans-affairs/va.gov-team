@@ -2,17 +2,25 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan: 2024 21P-53-EZ Online Form Updates
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
-
-Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
+Goal: **How might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
 
 ## How to use this release plan
 
 1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
 2. Fill out all the details below.
 3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
+
+
+## Overview
+As outlined in the intiative brief, the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
+
+These updates will need to consider the following use cases:
+1. Users with in-progress forms (authenticated and non-authenticated)
+3. Users with no in-progress forms (authenticated and non-authenticated)
+
+These updates will include the following components:
+1. Form Flow updates on some pages (new fields, updated components, updated flow)
+2. Alert that appears incrementally to users who see the new form notifying them that the form contains new content. This needs to be closely coordinated with CAIA (Aliyah Blackmore and Lily Strelich).
 
 ---
 
