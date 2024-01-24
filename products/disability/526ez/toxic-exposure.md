@@ -35,7 +35,7 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
 
 1. Accessibility-focused usability testing
    We have introduced some new variations on form components that we have accessibility questions about. For example, we are including a "not sure" checkbox that sets other fields to null when checked. We want to ensure this interaction between fields is apparent, consistent with user expectations, and does not cause confusion, particularly to screen reader users.
-2. Measure usage in production
+2. Measure usage in production:
    What might we learn from how people are using the form / where they are dropping off / error logs?
 3. Seek feedback / user data from support teams
 4. Seek feedback from VSRs on real-world usage
