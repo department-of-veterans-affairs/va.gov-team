@@ -16,7 +16,7 @@ We're working to gather more details about how specifically we will submit forms
 
 ### What options were considered?
 
-The benefits API was considered and has been ruled out due to a lack of business process integration between VBA (Veterans Benefits Administration) and VHA (Veterans Health Administration), along with the time, effort, and expense in building these integrations. The VHA currently doesn't use CMP (Central Mail Portal), which the VBA uses, and the estimate from the VBA to build an integration to handle forms like 10-10d was 3 months.
+The benefits API was considered and has been ruled out due to a lack of business process integration between VBA (Veterans Benefits Administration) and VHA (Veterans Health Administration), along with the time, effort, and expense in building these integrations. The VHA currently doesn't use CMP (Central Mail Portal), which the VBA uses, and the estimate from the VBA to build an integration to handle forms like 10-10d was 3 months and would require funding.
 
 We also explored using an API to submit directly to VES, similar to the pattern used for forms like 10-10EZ that are also within VHA. If this were technically feasible, it would bypass multiple business processes (eligibility, claims, etc.) that need to remain intact to successfully serve CHAMPVA customers. Notably, some forms will never get sent to VES (even if the workflow went to VES, the documents would stay in PEGA). 
 
