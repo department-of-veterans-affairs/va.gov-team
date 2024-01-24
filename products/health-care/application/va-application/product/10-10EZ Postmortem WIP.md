@@ -15,12 +15,15 @@ Quantified statement about the impact of the incident.
 - What time period were users impacted?
      - Starting on 1/23/2024 at 3:00pm ET to 1/24/2024 at 11:12am ET
 - What impact did this have on the SLO?
-     - 
+     - ...
+
 
 ## Ownership
 
 Team: 10-10 Health Apps team
+
 PO: Patrick Bateman
+
 Crew: Health Tools crew
 
 ## Stakeholders
@@ -88,8 +91,8 @@ We were able to see the errors occuring in Staging on the previous day, which le
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2024-01-24 @ 9:15 AM ET`: During a routine review of Datadog, it was noticed that there have been only HCA API errors being logged, and no submissions since the previous day at approximately 3:00 PM ET.
-- `2024-01-24 @ 09:16 AM ET`: Issue was [reported to Platform Support](https://dsva.slack.com/archives/CBU0KDSB1/p1706105805136009) (#vfs-platform-support Slack channel) - [Github issue #74356](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74356) was opened
+- `2024-01-24 @ 9:15 AM ET`: During a routine review of Datadog, it was noticed that there have been only HCA API errors being logged, and no submissions since the previous day at approximately 3:00 PM ET. Patrick Bateman was tagged in a Slack message to the 10-10 Health Apps team (#1010-health-apps channel)
+- `2024-01-24 @ 09:16 AM ET`: Issue was [reported to Platform Support](https://dsva.slack.com/archives/CBU0KDSB1/p1706105805136009) (#vfs-platform-support Slack channel) - [Github issue #74356](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74356) was opened by Rachal Cassity
 - `2024-01-24 @ 09:39 AM ET`: Adrien Rollett and Patrick Bateman started the triage, reviewing various Datadog monitors.  A [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was found to have changes to rest_client and http libraries.  This was thought to be the source of the issue.
 - `2024-01-24 @ 10:05 AM ET`: PR was reverted and redeployed to production
 - `2024-01-24 @ 10:17 AM ET`: Noticed that the HCA API was not coming back online and submission failures were still occuring.  The reverted PR was not the source of the issue.
