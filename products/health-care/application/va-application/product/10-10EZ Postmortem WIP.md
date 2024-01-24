@@ -52,7 +52,7 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 Engaged Platform support to assist in triage of the HCA API errors. 
 Determined when the issue first showed up, reviewed datadogs reports and PRs that lined up with the timing.
 We were able to look into the Staging env which helped us narrow the source of the issue.
-
+**@Ryan we need more here**
 
 ... This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
@@ -68,6 +68,7 @@ An update caused HCA Requests to the HCA service to fail.
 The gem savon was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), a cassette was manually modified that bypassed the error.
 
 This update impacted how SOAP requests were throwing errors, causing the HCA API errors.
+**@Ryan we need more here**
 
 ... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
 - What should ordinarily have been done to prevent this, but wasn't done?
@@ -85,7 +86,7 @@ Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies al
 
 - Look into the conditions and add a spec that fails with these conditions
 - Create monitors and filtered logs to prevent large errors from going unnoticed
-
+**@Ryan we need more here**
 
 ... Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
 
@@ -102,6 +103,7 @@ With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan
 
 ... Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
 Explicitly list 'N/A' if there are no such instances.
+**@Ryan we need more here**
 
 ### Where we got lucky
 
