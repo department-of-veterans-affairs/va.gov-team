@@ -204,7 +204,7 @@ Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affa
 
 For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
 
-## Changes made Post-Midpoint 
+## Changes made Post-Midpoint (Fall 2023)
 **Midpoint**
 - Entry point was different
   - “Are you claiming any conditions relate to TE” Yes or No
