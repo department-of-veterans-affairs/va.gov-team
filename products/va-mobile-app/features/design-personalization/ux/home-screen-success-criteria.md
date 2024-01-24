@@ -58,7 +58,7 @@ The low-fi design explorations below will include collecting & evaluating high-l
  
 * **Round 4** (Jan 2024)
   * Round 4: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) [pdf]
-  * [High-fi Prototype - key screens]( -https://figma.fun/c84v1B/view)
+  * [High-fi Prototype - key screens](https://figma.fun/c84v1B/view)
 
 #### Appendix: Success Criteria Inputs
 
