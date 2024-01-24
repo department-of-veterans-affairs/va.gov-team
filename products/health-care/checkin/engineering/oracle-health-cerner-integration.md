@@ -27,6 +27,9 @@ For appointment refresh, we are going to need a new endpoint from veTEXT and upd
 - CHIP modifies the received cerner appointment payload to comply with existing vista appointment data in LoROTA
 
 ## Design
+## Container Diagram
+![Check In Experience - OH Appointments](architecture-diagrams/containerDiagram_checkInExp_oracleHealth-container-diagram.drawio.png)
+
 ### Initiate Cerner Checkin
 ```mermaid
 sequenceDiagram
