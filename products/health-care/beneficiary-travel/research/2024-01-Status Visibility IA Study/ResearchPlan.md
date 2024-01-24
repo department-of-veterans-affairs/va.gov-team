@@ -554,6 +554,8 @@ Use the cohort model, defined below:
 
 _Primary criteria (must-haves)_
 
+All have VA health care as a benefit 
+
 Half are familiar with Travel reimbursement
 
 Half are not familiar with Travel reimbursement
