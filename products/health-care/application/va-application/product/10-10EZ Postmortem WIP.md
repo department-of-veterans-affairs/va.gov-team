@@ -32,6 +32,7 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 
 - Product Owner: Patrick Bateman
 - Platform Support: Rachal Cassity
+- VES contact: Joshua Faulkner
 
 Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
 
@@ -42,7 +43,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
-|Look into the conditions and add a spec that fails with these conditions | Data Analytics work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74410)|
+|Look into the conditions and add a spec that fails with these conditions | TBD | [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74410)|
 | Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
 
 
@@ -66,6 +67,11 @@ Describe in detail what actually happened and what the downstream effect of the 
 - Implement a monitor on HTTP calls to es_backend at the fwd proxy, add alerts
 - Look into the conditions and add a spec that fails with these conditions
 - Look into 500s that appeared in staging, potentially adding alerts for staging errors like this
+
+- These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
+- Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies all 10-10 Health Apps team members.
+     - Once notified, the team will begin an investigation into the error and root cause.
+     - If assistance is needed, the team will engage the #vfs-platform-support Slack channel
 
 Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
 
@@ -92,8 +98,11 @@ We were able to see the errors occuring in Staging on the previous day, which le
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
 - `2024-01-24 @ 9:15 AM ET`: During a routine review of Datadog, it was noticed that there have been only HCA API errors being logged, and no submissions since the previous day at approximately 3:00 PM ET. Patrick Bateman was tagged in a Slack message to the 10-10 Health Apps team (#1010-health-apps channel)
+- `2024-01-24 @ 09:16 AM ET`: A Pagerduty Maintenance Window was put in place
 - `2024-01-24 @ 09:16 AM ET`: Issue was [reported to Platform Support](https://dsva.slack.com/archives/CBU0KDSB1/p1706105805136009) (#vfs-platform-support Slack channel) - [Github issue #74356](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74356) was opened by Rachal Cassity
+- `2024-01-24 @ 09:37 AM ET`: Sent message to Joshua Faulkner to find out if any issues were being experienced on the VES side
 - `2024-01-24 @ 09:39 AM ET`: Adrien Rollett and Patrick Bateman started the triage, reviewing various Datadog monitors.  A [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was found to have changes to rest_client and http libraries.  This was thought to be the source of the issue.
+- `2024-01-24 @ 09:46 AM ET`: The Pagerduty Maintenance Window was removed
 - `2024-01-24 @ 10:05 AM ET`: PR was reverted and redeployed to production
 - `2024-01-24 @ 10:17 AM ET`: Noticed that the HCA API was not coming back online and submission failures were still occuring.  The reverted PR was not the source of the issue.
 - `2024-01-24 @ 10:17 AM ET`: It was found that the errors were occuring in the Staging environment since the previous day's deployment.
@@ -103,6 +112,7 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-01-24 @ 11:03 AM ET`: PR was reverted and redeployment started
 - `2024-01-24 @ 11:12 AM ET`: Confirmed 10-10EZ forms were now being succesfully submitted
 - `2024-01-24 @ 11:15 AM ET`: All 10-10EZ and 10-10EZR forms that were still in a retry cycle were successfully retried
+- `2024-01-24 @ 01:40 PM ET`: Joshua Faulkner responded that there were no issues seen on the VES side, although they can see the gap in submissions from 3PM ET 1/23 to 11AM ET 1/24.
 - ...
 
 ## Contributors
