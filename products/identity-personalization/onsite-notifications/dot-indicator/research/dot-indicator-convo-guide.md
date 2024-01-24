@@ -33,28 +33,40 @@ Before we start, a few things I want to mention:
 
 ## Research goal: Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. - 15-20 minutes
 
-Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the Zoom chat and open the link I've just sent. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat. 
 
 - *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
 - *If they don't mention the indicators* Go to the Health care section. 
 
-- _*For colorblind participants* Do you have any trouble seeing the dot or the badge with the number in it? What color do they appear to be to you?
+- _*For colorblind participants* Do you have any trouble seeing the dot? What color do they appear to be to you?
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblindness standpoint?
 
 - *For magnicifcation participants - observe if they seem to notice links off to the right on desktop without being prompted. If they don't, direct them to where they are located*
 
 *for colorblind participants - don't use the word red*
-- What do you think each of these red indicators mean?
+- What do you think each of these red dots mean?
 
 - How do you think each of these red dots would disappear? What about the badge with the number in it?
 
-- What would you expect to see if you clicked the link that says "Request travel reimbursement" and it has a red dot next to it?
+- What would you expect to see if you clicked the link that says "Go to your inbox" and it has a red dot next to it?
 
 - What would you expect to see if you clicked "Get your VA medical records and lab and test results" and it has a red dot next to it?
 
 - Is there anywhere on this view of the website that we're looking at now where you expect to see a red notification like this but you don't?
+
+__Provide new link that shares the version of Health care with the numbered badge indicator for the Inbox__
+
+I'm now going to share with you another version of this same page. I've sent a new link in the Zoom chat, please open it. Let me know if you need any assistance doing that.
+
+- What stands out to you now?
+
+- _*For colorblind participants*_ Do you have any trouble seeing the badge with the number in it? 
+  
+- What do you think the (red) badge with the number next to "Refill and track your prescriptions" represents?
+
+- What would you expect to see if you opened that link?
 
 ## Thanks and Closing - 2 minutes
 
