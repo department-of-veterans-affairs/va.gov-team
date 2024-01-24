@@ -124,8 +124,6 @@ No best bets!
 
 **[Which static page has the widget, ie the main entry point?]**
 
-
-
-
+This form will be released on a staged rollout. The main entry point will be [Supporting Forms page](https://www.va.gov/supporting-forms-for-claims/) and the remainder of the entry points will be implemented after 100%
 <hr>
 <hr>
