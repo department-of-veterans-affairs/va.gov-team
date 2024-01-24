@@ -10,6 +10,23 @@ Goal: **How might we craft a release plan to test our product "in the wild" at a
 2. Fill out all the details below.
 3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
 
+## Release Plan Overview
+
+If no staged rollout:
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Unmoderated production testing |2 days|TBD| TBD  |
+|Phase 2: 100% of users |indefinite|100% of users (auth and non-auth)|TBD|
+
+If a staged rollout:
+
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Unmoderated production testing |2 days|TBD| TBD  |
+|Phase 2A: 25% of users |2 days|25% of users (auth and non-auth)|TBD|
+|Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
+|Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
+
 
 ## Overview
 As outlined in the intiative brief, the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
