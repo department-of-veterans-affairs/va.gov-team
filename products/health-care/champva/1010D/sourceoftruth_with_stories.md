@@ -200,8 +200,53 @@ This legal document provides confirmation of your ended marriage with a deceased
 <br/>{ Link }[Find out how to file a CHAMPVA claim](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp)
 <br/>{ Link }[Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp)
 
+------------------------------------------------------------------------------
 
----------------------------------------
+## [H1] About VA Form 10-10d
+
+### {Intro text} Application for CHAMPVA Benefits
+
+**Related to:** Family member benefits, Health care
+
+**Form last updated:** Februrary 2024
+
+### [H2] When to use this form
+
+If you’re the spouse or child of a Veteran with disabilities, or the surviving spouse or child of a Veteran who has died, use VA Form 10-10d to apply for health insurance through CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs). 
+
+#### [H3] Downloadable PDF
+
+{ link } [Download VA Form 10-10d PDF](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10d.pdf)
+
+#### [H3] Online tool
+
+You can apply online instead of filling out andn sending us the paper form
+
+{ link } [Go to the online tool](link to online form)
+
+#### [H3] Related forms and instructions
+{ link } [VA Form 10-7959C](https://www.va.gov/find-forms/about-form-10-7959c)
+
+**CHAMPVA—Other Health Insurance (OHI) Certification**
+
+Use VA Form 10-7959C or {link} [Formulario VA 10-7959c español](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/forms/va-S10-7959c-fill.pdf) when: 
+
+- You’re applying for CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), and have other health insurance to declare as part of your VA Form 10-10d application. 
+- Or you need to report changes in your other non-VA health insurance, such as new beneficiaries or coverage changes.
+
+{ link } [Download VA Form 10-7959C PDF](https://www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
+
+### [H2] Helpful links related to VA Form 10-10d
+
+#### [H3] { Link } [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva)
+
+Learn how eligible spouses and children of Veterans can get health insurance through CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs).
+
+#### [H3] { Link } [Family member benefits](https://www.va.gov/family-member-benefits)
+
+Find out about VA benefits for spouses, dependents, survivors, and family caregivers.
+
+------------------------------------------------------------------------------
 
 ## [H1] Apply for CHAMPVA benefits
 
@@ -263,9 +308,9 @@ We process applications in the order we receive them. We may contact you if we h
 #### [H3] 5. Decision
 After you’ve applied for CHAMPVA, we’ll send you a letter in the mail to let you know if your application has been approved.
 
-
+{ additional info component }
 <details>
-<summary></summary>How long will it take to hear back about my application?</details>summary>
+<summary>How long will it take to hear back about my application?</summary>
 
 
 If you send us all required and optional documents—and if your application is complete—it’ll take about 6 weeks after we get your package until you get your CHAMPVA ID card and related materials.
@@ -273,6 +318,8 @@ If you send us all required and optional documents—and if your application is 
 If you submit the application without the optional documents, it may take 2 to 8 months since we’ll need to confirm your information with other federal agencies.
 
 </details>
+
+{ End additional info component }
 
 { Informational alert }
 
@@ -335,9 +382,12 @@ An accredited representative with a Veterans Service Organization (VSO) can help
 
 <br />
 
+ { additional info component }
+
 <details>
 <summary>Who can be a third-party representative or a power of attorney?</summary>
-{ additional info component }
+
+ 
 
 A third-party representative can be a family member or designated person filling out this form for a Veteran or someone with a claim. We consider you to be a third-party representative if you're not already a power of attorney, agent, or fiduciary. If you're a third-party representative, we must have an authorization (VA Form 21-0845) on record. 
 
@@ -347,11 +397,13 @@ An authorized power of attorney can fill out this request for the person with th
 
 - [VA Form 21-22 Appointment of Veterans Service Organization as Claimant's Representative (opens in new tab)](https://www.va.gov/find-forms/about-form-21-22/), **or**
 - [VA Form 21-22a, Appointment of Individual as Claimant's Representative (opens in new tab)](https://www.va.gov/find-forms/about-form-21-22a/)
-{ end additional info component }   
+
 
 </details>
 
-<br />
+{ end additional info component }   
+
+------------------
 
 { if third party signer }
 
@@ -361,28 +413,42 @@ An authorized power of attorney can fill out this request for the person with th
 { hint text } We use this information to contact the signer of this form and verify other details.
 
 First name (* Required)  
+
 Middle name  
+
 Last name (* Required)  
+
 Suffix
 
 { Buttons } Back / Continue
 
 </details>
 
+------------------
+
+
 <details>
 <summary>[H3] Signer’s mailing address (Story 3)</summary>
 
 Country (* Required)   
+
 Street address     
+
 Street address line 2       
+
 Street address line 3   
+
 City (* Required)   
+
 State (* Required)   
+
 Postal code (* Required)   
 
 { Buttons } Back / Continue
 
 </details>
+
+------------------
 
 <details>
 <summary>[H3] Signer's contact information (Story 3) </summary>
@@ -399,7 +465,9 @@ Phone number (* Required)
 
 
 ------------------------------------------------------------------------------
+
 { if third party signer }
+
 { Alert Box ]
 
 #### [H3] Section complete
@@ -424,6 +492,7 @@ Here’s how signing in now helps you:
 { Buttons } Back / Continue
 
 { end if third party signer }
+
 ------------------------------------------------------------------------------
 
 
@@ -438,12 +507,15 @@ Please provide your information. We use this information to verify eligibility. 
 Please provide the infomration for the Veteran that the applicant is that you're connected to (called a "sponsor").  We use this information to verify eligibility. { Story 3 }   
 
 First name (*Required)  
+
 Middle name  
+
 Last name (*Required)
 
 Suffix
 
 Date of birth (*Required)   
+
 M/D/Y
 
 { Buttons } Back / Continue
@@ -772,6 +844,7 @@ The sponsor's information has been completed. You could sign in to save your pro
 { End Alert Box ]
 
 { Information Box }
+
 #### [H3] Sign in now to save your work in progress
 
 Here’s how signing in now helps you:
@@ -795,8 +868,11 @@ Here’s how signing in now helps you:
 
 
 First name (* Required)  
+
 Middle name  
+
 Last name (* Required)  
+
 Suffix
 
 Date of Birth (* Required) 
@@ -928,7 +1004,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 <summary>[H3] Are you enrolled in Medicare (* Required) { Story 1 }</summary>
 
 ( ) I am enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+
 ( ) I am under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
+
 ( ) I don't have Medicare
 
 { Buttons } Back / Continue
@@ -943,7 +1021,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 <summary>[H3] What's parts of Medicare are you in enrolled in. You can select more than one. (* Required) { Story 1 }</summary>
 
 ( ) I am enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+
 ( ) I am enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+
 ( ) I am enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
 { Buttons } Back / Continue
@@ -960,7 +1040,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  [H3] Is %%applicant's name%% enrolled in Medicare (* Required) { Story 2 & 3 } </summary>
 
 ( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" the to the Application Submitted page } 
+
 ( ) %%applicant's name%% is under 65 but not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
+
 ( ) %%applicant's name%% doesn't have Medicare
 
 
@@ -976,7 +1058,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 <summary>[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }</summary>
 
 ( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+
 ( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+
 ( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
 { Buttons } Back / Continue
@@ -992,6 +1076,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 <summary>[H3] Do you have other health insurance? (* Required) { Story 1 }</summary>
 
 ( ) I have other health insurance { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page } {if checked add "Copy of front and back or other health insurance card (required)" to the Application Submitted page }
+
 ( ) I don't have other health insurance
 
 { Buttons } Back / Continue
@@ -1006,6 +1091,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  [H3] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
 
 ( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" to the Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
+
 ( ) %%applicant's name%% doesn't have other health insurance
 
 { Buttons } Back / Continue
@@ -1039,7 +1125,9 @@ Here’s how signing in now helps you:
 ------------------
 
 [H3] Are there any other applicants to add? (*Required)
+
 ( ) Yes, I have more applicants to add
+
 ( ) No, I don't have any more applicants to add
 
 { Buttons } Back / Continue
@@ -1181,7 +1269,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  [H3] Is %%applicant's name%% enrolled in Medicare (* Required) 
 
 ( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page}
+
 ( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)" to the Application Submitted page }
+
 ( ) %%applicant's name%% doesn't have Medicare
 
 
@@ -1196,7 +1286,9 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 [H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }
 
 ( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+
 ( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+
 ( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
 { Buttons } Back / Continue
@@ -1209,6 +1301,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
  [H3] Does %%applicant's name%% have other health insurance? (* Required)  </summary>
 
 ( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required" to the  Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
+
 ( ) %%applicant's name%% doesn't other health insurance
 
 { Buttons } Cancel adding applicant / Back / Continue
@@ -1225,7 +1318,9 @@ Age [%%applicant 1 age%%]
 { End applicant review component }
 
 [H3] Are there any other applicants to add? (*Required)
+
 ( ) Yes, I have more applicant's to add
+
 ( ) No, I don't have anymore applicant's to add
 
 { Buttons } Cancel adding applicant / Back / Continue
@@ -1265,6 +1360,39 @@ Here’s how signing in now helps you:
 
 ## Step 4 of 4:  Review and certify
 
+{ section review accordions }
+
+
+<details>
+
+<summary>Signer's identity</summary>
+
+{ add summmary here }
+
+</details>
+
+<details>
+
+<summary>Sponsor information</summary>
+
+{ add summmary here }
+
+</details>
+
+<details>
+
+<summary>Applicant information</summary>
+
+{ add summmary here }
+
+</details>
+
+
+{ end section review accordions }
+
+
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information (See 18 U.S.C. 1001).
+
 #### [H3] Statement of truth
 
 I understand that I may be asked to confirm the truthfulness of the answers to the best of my knowledge under penalty of perjury. 
@@ -1272,14 +1400,45 @@ I understand that I may be asked to confirm the truthfulness of the answers to t
 I also understand that VA may request further documentation or evidence to verify or confirm the applicant's eligibility: 
 
 - The page from the VBA rating decision showing your sponsor is permanently and totally disabled (or the death rating if you’re a survivor)
+  
 - Your sponsor’s DD214 (Certificate of Release or Discharge from Active Duty)—or, if the sponsor was a World War II or Korean War sponsor, the Report of Separation. If you don’t have a copy of the necessary form, you can request it by submitting a Standard Form 180, Request Pertaining to Military Records, from the National Archives. Find out how to request military service records online, by mail, or by fax
+  
 - A copy of documents related to any dependent children you’re including in your application
-- A copy of each child’s birth certificate or adoption papers
+
+ { show if checked 
+  - %%applicant's name%% is my child (includes biological, adopted, and stepchildren)
+  - { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) }
+
 - A copy of school certification of enrollment for children ages 18-23
+  
+{ show if checked 
+  - %%applicant's name%% is my child (includes biological, adopted, and stepchildren)
+  - { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) and ages or 18-23 }
+
 - A copy of documents related to the applicant's marriage status
-- [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
+  
+    {show if checked
+  - { I'm / %%applicant's name%% is } the sponsor's spouse  o
+  - { I'm / %%applicant's name%% is } the sponsor's surviving spouse
+  -  { I / %%applicant's name%% } was the sponsor's surviving spouse but remarried after the age of 55
+  -   %%applicant's name%% is my spouse }
+
+
+- [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) 
+
+ {show if checked
+   - I am enrolled in Medicare Part A
+   - %%applicant's name%% is enrolled in Medicare
+   - I have other health insurance
+   -  %%applicant's name%% has other health insurance }
+
 - A copy of Medicare or other health insurance cards
 
+{show if checked
+   - I am enrolled in Medicare Part A
+   - %%applicant's name%% is enrolled in Medicare
+   - I have other health insurance
+   -  %%applicant's name%% has other health insurance }
 
 I confirm that the identifying information in this form is accurate and has been represented correctly.  
 
@@ -1290,7 +1449,7 @@ Your full name (* Required)
 
 [ ] I certify that the information above is correct and true to the best of my knowledge and belief. 
 
-{ Buttons } Back / Submit
+{ Buttons } Back / Submit application
 
 ------------------------------------------------------------------------------
 
