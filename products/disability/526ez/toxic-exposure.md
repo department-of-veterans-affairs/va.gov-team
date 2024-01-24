@@ -99,7 +99,6 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 <li>   CAIA rec: We suggest leaving the "Not sure" option in the list, but recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
 </li>
    <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
-<li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
 <li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
 The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. - per [CAIA accessibility review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox)</li>
 </ul>
