@@ -1,4 +1,4 @@
-# YYYY-MM-DD - TITLE
+# 2023-01-24 - TITLE
 
 Fill out every section of this document, if there is no content for a particular section, explicitly call out that there is no content.
 
@@ -13,7 +13,7 @@ Quantified statement about the impact of the incident.
 - How many users were affected?
      - approximately 3900
 - What time period were users impacted?
-     - Starting on 1/23/2024 at 3:00pm ET to 
+     - Starting on 1/23/2024 at 3:00pm ET to 1/24/2024 at 11:12am ET
 - What impact did this have on the SLO?
      - 
 
@@ -27,8 +27,8 @@ Crew: Health Tools crew
 
 Ensure that the list of stakeholders involved are recorded in the post-mortem and must include at the very least (but may not be limited to):
 
-- Patrick Bateman
-- Rachal Cassity
+- Product Owner: Patrick Bateman
+- Platform Support: Rachal Cassity
 
 Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
 
@@ -45,6 +45,8 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
 ### What happened?
+
+Dependabot was attempting to upgrade the bgs_ext gem: https://github.com/department-of-veterans-affairs/vets-api/pull/15175/files. I believe Ryan was fixing all the errors that were present when he upgraded the gem locally
 
 Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
@@ -66,11 +68,12 @@ Provide recommendations and concrete plans of action of how you will provide a s
 ## Resolution
 
 - Ticket entered in #vfs-platform-support channel
-PR #14930 was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After some time, the 10-10EZ submissions reported successful.
+PR #14930 was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful.  All 10-10EZ applications that were in a "retry" state were retried succesfully.
 
 ### What went well
 
-What went better than expected and deserves a call-out? Think more broadly than just "we got a fix out quickly", instead think about "what were the _enablers_ for X, Y going well".
+With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within 2 hours of being reported.  Since the issue started showing up in the Staging environment prior to the production deployment, it was a bit easier to narrow down the offending commit and revert it quickly. 
+
 
 ### What went wrong
 
@@ -79,7 +82,7 @@ Explicitly list 'N/A' if there are no such instances.
 
 ### Where we got lucky
 
-Describe cases where, ordinarily, you would have expected to or could have encountered a roadblock, or a hurdle in getting to the resolution, but this _accidentally_ didn't happen (i.e. we got _lucky_). Do not include items that are part of standard operating procedure. In other words, describe instances where the process failed successfully. You can also use this to describe where safeguards did kick in, provided those safeguards prevented much worse from precipitating.
+We were able to see the errors occuring in Staging on the previous day, which led to a quick discovery of the issue source.
 
 ## Event Timeline
 
