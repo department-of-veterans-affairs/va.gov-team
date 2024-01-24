@@ -7,7 +7,8 @@
 - [ ] The page has no broken links
 - [ ] Text links have purpose and target
 - [ ] The content is free of ability-focused language (view, walk, see, hear)
-- [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
+- [ ] Relevant terms from page are in content brief
+- [ ] Any relevant backlog work is noted
 - [ ] Remove "Who's covered?" section (if needed)
 - [ ] Remove "What kind of disability benefits can I get?" section (if needed)
 - [ ] Change header "How do I get these benefits?" to "How do I file a claim for compensation?"
@@ -20,8 +21,6 @@ You can also call the VA Special Issue Hotline at 800-749-8387. We’re here Mon
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 10.6
 - After edits: 8.9
-
-- [ ] Backlog ticket for further review created if needed
 
 ## SME review
 
