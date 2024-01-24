@@ -30,8 +30,7 @@ Google analytics SEO Info:
 Analytics available here as a [google doc](https://docs.google.com/spreadsheets/d/1Kdn9S7UvAzhGUylHzffDCVVAj3j_bLz-PTKsqaj8Is8/edit#gid=0) -- need to request access, sorry! And shared with the team as an excel file in their slack channel.
 
 ## <a name="map"></a>Page structure<br>
-![ARM page structure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/5cf3d831-390f-4f0d-9163-eb4ee31525cc)
-
+![ARM Page structure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9f751ec0-8244-4eb1-9650-81c561782398)
 
 The up-to-date page structure can be viewed in [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692888741111/2474c0612887653142ab991d234898b6968dbf0e?wid=0-1697145057961).
 
