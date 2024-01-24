@@ -99,4 +99,4 @@ A legend, or key,  helps to eliminate any uncertainty about what is represented 
 
 ![Legend for Financial Status Report](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/31751e3b-8f8e-4b43-9988-43490b182209)
 
-*Example of a legend for Financial Status Report in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?wid=0-1680732330971)
+*Example of a legend for Financial Status Report in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778?wid=0-1680732330971)*
