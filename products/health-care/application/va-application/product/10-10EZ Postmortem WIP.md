@@ -4,7 +4,8 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-There are over 3,900 HCA API errors that occurred since yesterday’s afternoon deployment, and no successful submissions for the 10-10EZ.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
+The gem savon was upgraded. which modifed the XML request.  Once this was deployed, the change caused over 3,900 HCA API errors.  Since yesterday’s afternoon deployment, no successful submissions for the 10-10EZ were completed.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
+
 
 ## Impact
 
@@ -16,7 +17,7 @@ Quantified statement about the impact of the incident.
 - What time period were users impacted?
      - Starting on 1/23/2024 at 3:00pm ET to 1/24/2024 at 11:12am ET
 - What impact did this have on the SLO?
-     - ...
+     - This outage will show in the breakers dashboard
 
 
 ## Ownership
@@ -34,6 +35,7 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 - Product Owner: Patrick Bateman
 - Platform Support: Rachal Cassity
 - VES contact: Joshua Faulkner
+- OCTO Engineer: Adrien Rollett
 
 ## Action Items
 
@@ -41,23 +43,31 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 | --- | --- | --- | --- |
 | Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
 |... Look into the conditions and add a spec that fails with these conditions | TBD | [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
-|... create monitors and filtered logs to prevent large errors from going unnoticed| TBD | [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
+|Create monitors and filtered logs to prevent large errors from going unnoticed| TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
 | Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
 
 
 ## Root Cause Analysis
 
+Engaged Platform support to assist in triage of the HCA API errors. 
+Determined when the issue first showed up, reviewed datadogs reports and PRs that lined up with the timing.
+We were able to look into the Staging env which helped us narrow the source of the issue.
+
+
 ... This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
 ### What happened?
 
-The gem bgs_ext was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), the upgrade required modifications to HCA files.
+An update caused HCA Requests to the HCA service to fail.
 
-A dependency update caused the request payload to change slightly (specifically it changed some of the xmlns statements in the XML root element).
 
 ... Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
 ### Why did it happen?
+
+The gem savon was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), a cassette was manually modified that bypassed the error.
+
+This update impacted how SOAP requests were throwing errors, causing the HCA API errors.
 
 ... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
 - What should ordinarily have been done to prevent this, but wasn't done?
