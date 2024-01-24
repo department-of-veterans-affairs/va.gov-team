@@ -273,6 +273,8 @@ sequenceDiagram
   - What is the Mobile Proxy Service endpoint to call with MAP to access veteran's VA profile?
   - What is the test client id to use for getting VA Profile data in staging until we get client id specific to check-in-experience application (CIE) for accessing VA Profile?
     - Currently, we have a client id for CIE to access appointment data from VAOS; Would like to see if any test client id available to access data in staging until we receive an ID for accessing VA profile
+    - response from Chan:
+      > Mobile-profile-service:  https://coderepo.mobilehealth.va.gov/projects/VETS/repos/mobile-profile-service/browse/docs/SRVDD.md, but in your case, you will be using mobile-profile-v2 where it acts as a pass through.  You still will need to pass in the ID (for now, use “MAPTEST”) until VA Profile onboard you with the MAPPCI ID.  For mobile-profile-service v2 stagger: https://staff.apps-staging.va.gov/profile/v2
 - **VA Profile Service**
   - Based on VA Profile share point doc, Demographics endpoint doesn’t seem to be sending relevant information but contact-information endpoint seem to be sending some data to confirm from CIE app
     - API - ```GET /contact-information/{oid}/{idWithOaid}```,
