@@ -4,32 +4,32 @@
  
 **Don't use punctuation in these instances:**
 
-* **Step titles**   
-(Example)
+* **Step titles**
+Example: Veteran personal information
 
 * **Headers**  
-For example, "Veteran's identification information" or "Tell us where we should send the information" would not have punctuation.
+Example: "Veteran's identification information" or "Tell us where we should send the information" would not have punctuation.
 
 * **Error messages**   
-(Example)
+Example: Enter a 10-digit phone number (with or without dashes)
 
 * **Standard labels**   
-For example, we do not use punctuation on input labels such as "Name" or "Phone number"
+Example: "Name" or "Phone number"
 
 * **Responses on multiple choice**   
-(Example)
+Example: I'm the Veteran's spouse
 
 * **Additional info components**  
-For example, "Learn more about military base addresses" does not require punctuation
+Example: "Learn more about military base addresses"
 
 * **CTA links**   
-(Example)   
+Example: Find out if you're eligible (opens in new tab)
 
 ## Exceptions
 
 * Add a question mark if the content is a question. 
-For example, "Are you the Veteran?" 
+Example: "Are you the Veteran?" 
 
 * Use punctuation if the content is more than one full sentence. 
-For example, "Select the responses that describe your living situation. You can select more than one."
+Example: "Select the responses that describe your living situation. You can select more than one."
 
