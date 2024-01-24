@@ -26,7 +26,7 @@ Document general terms in the VA ecosystem and how we're using them. Add definit
 The Alien Registration Number is a unique 7, 8, or 9-digit code assigned to every immigrant living in the United States. It may also be labeled as "USCIS#" on a person's permanent resident card. We refer to it as the A-Number on forms.   
 #### Example   
 Like this: "You must enter either a VA file number or A-Number. Your A-Number may be labeled 'USCIS#' on your permanent resident card."   
-#### In Use:   
+#### In use:   
 Form 20-10206 FOIA PA Request  
 
 --- 
