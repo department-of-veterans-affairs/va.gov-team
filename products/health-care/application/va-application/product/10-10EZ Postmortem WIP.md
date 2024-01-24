@@ -59,7 +59,7 @@ We were able to look into the Staging env which helped us narrow the source of t
 ### What happened?
 
 An update caused HCA Requests to the HCA service to fail.
-
+**@Ryan we need more here**
 
 ... Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
 
@@ -68,6 +68,7 @@ An update caused HCA Requests to the HCA service to fail.
 The gem savon was upgraded. In this [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930), a cassette was manually modified that bypassed the error.
 
 This update impacted how SOAP requests were throwing errors, causing the HCA API errors.
+
 **@Ryan we need more here**
 
 ... - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
@@ -86,6 +87,7 @@ Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies al
 
 - Look into the conditions and add a spec that fails with these conditions
 - Create monitors and filtered logs to prevent large errors from going unnoticed
+
 **@Ryan we need more here**
 
 ... Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
