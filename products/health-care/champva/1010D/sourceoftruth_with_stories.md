@@ -368,9 +368,11 @@ An accredited representative with a Veterans Service Organization (VSO) can help
 
 { subtitle } Form 10-10d
 
-## Step 1 of 4: Signer's identity
+## Step 1 of 4: Signer information
 
-[H3] Which of these best describes you? (*Required)
+### [H2] Your relationship to this form
+
+Which of these best describes you? (*Required)
 
 ( ) I'm an applicant applying for CHAMPVA benefits **(Story 1)**   
 
@@ -407,8 +409,7 @@ An authorized power of attorney can fill out this request for the person with th
 
 { if third party signer }
 
-<details>
-<summary>[H3] Signer’s identity (Story 3)</summary>
+### [H2] Your name { Story 3 }
 
 { hint text } We use this information to contact the signer of this form and verify other details.
 
@@ -422,13 +423,10 @@ Suffix
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
 
-
-<details>
-<summary>[H3] Signer’s mailing address (Story 3)</summary>
+### [H2] Your mailing address { Story 3 }
 
 Country (* Required)   
 
@@ -450,61 +448,28 @@ Postal code (* Required)
 
 ------------------
 
-<details>
-<summary>[H3] Signer's contact information (Story 3) </summary>
+### [H2] Your contact information { Story 3 } 
 
 Phone number (* Required)  
 
 { Buttons } Back / Continue
 
-</details>
 
 { end if third party signer }
-
-<br />
 
 
 ------------------------------------------------------------------------------
 
-{ if third party signer }
 
-{ Alert Box ]
+## Step 2 of 4:  Sponsor information
 
-#### [H3] Section complete
-
-Signer's identity has been completed.
-
-{ Information Box }
-
-#### [H3] Sign in now to save your work in progress
-
-Here’s how signing in now helps you:
-
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-
-  { End Information Box ]
-
-{ Button } Sign in to save your application
-
-{ Link } Continue without signing in
-
-{ Buttons } Back / Continue
-
-{ end if third party signer }
-
-------------------------------------------------------------------------------
-
-
-## Step 2 of 4:  Sponsor's information
-
-[H3] { Sponsor's / Your / Sponsor } name and date of birth
+### [H2] { Sponsor's / Your / Sponsor } name and date of birth
 
 Please provide the information for the Veteran that you're connected to (called your "sponsor"). We use this information to verify eligibility. { Story 1 }   
 
 Please provide your information. We use this information to verify eligibility. { Story 2 }   
 
-Please provide the infomration for the Veteran that the applicant is that you're connected to (called a "sponsor").  We use this information to verify eligibility. { Story 3 }   
+Please provide the information for the Veteran that the applicant is connected to (called a "sponsor").  We use this information to verify eligibility. { Story 3 }   
 
 First name (*Required)  
 
@@ -523,51 +488,30 @@ M/D/Y
 ------------------
 
 
-[H3] { Sponsor's / Your / Sponsor's } Identification information
+### [H2] { Sponsor / Your / Sponsor } identification information { Story 1, 2 & 3 }
 
+{Hint text} You must enter either a VA file number or Social Security number
 
 Social Security number (*Required)
 
 VA file number
-
-{Hint text} You must enter either a VA file number or Social Security number
 
 
 { Buttons } Back / Continue
 
 ------------------
 
-<details>
-<summary>[H3] Sponsor's status { Story 1 }</summary>
+### [H2] Sponsor status { Story 1 & 3 }
 
 
-Is the your sponsor still living? (*Required)
+Is { your sponsor / the applicant's sponsor } still living? (*Required)
 
-( ) Yes, my sponsor is still living
+( ) Yes, { my sponsor / the applicant's sponsor } is still living
 
-( ) No, my sponsor is deceased
-
-{ Buttons } Back / Continue
-
-
-</details>
-
-
-<details>
- <summary> [H3] Sponsor's status { Story 3 }</summary>
-
-
-Is the applicant's sponsor still living? (*Required)
-
-( ) Yes, the applicant's sponsor still living
-
-( ) No, the applicant's sponsor is deceased 
-
-
+( ) No, { my sponsor / the applicant's sponsor } is deceased
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
 
@@ -575,73 +519,46 @@ Is the applicant's sponsor still living? (*Required)
 { if sponsors is deceased }
 
 
-
-<details>
- <summary>[H3] Sponsor's status { Story 1 }</summary> 
+### [H2] Sponsor status { Story 1 & 3 }
  
      
-Did your sponsor pass away during active military service? (* Required)   
+Did { your / the } sponsor pass away during active military service? (* Required)   
 
 Date of death (*Required)   
 M/D/Y
 
-( ) Yes, my sponsor passed away during active military service   
+( ) Yes, { my / the } sponsor passed away during active military service   
 
-( ) No, my sponsor did not pass away during active military service
+( ) No, { my / the } sponsor did not pass away during active military service
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
-
-<details>
- <summary>[H3] Sponsor's status  { Story 3 } </summary>
- 
-     
-Date of death (*Required)   
-M/D/Y
- 
-Did the applicant's sponsor pass away during active military service? (* Required)   
-
-( ) Yes, the applicant's sponsor passed away during active military service   
-
-( ) No, the applicant's sponsor didn't pass away during active military service 
-
-
-
-{ Buttons } Back / Continue
-</details>
-
-{ end if sponsor is deceased }
 
 { if sponsor is living }
 
-------------------
+### [H2] Sponsor mailing address { Story 1 & 3 }
 
-<details>
- <summary> [H3] Does your sponsor have a current mailing address? (* Required) {Story 1}</summary>
+Does { your/ the } sponsor have a current mailing address? (* Required) 
 
+{hint text} If we have a way to contact { your/ the } sponsor, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
-{hint text} If we have a way to contact your sponsor, we'll be able to process this request faster. But we don't require a mailing address for this request.
+( ) Yes, { my / the } sponsor has a current mailing address
 
-( ) Yes, my sponsor has a current mailing address
+( ) No, { my / the } sponsor doesn't have a current mailing address
 
-( ) No, mo sponsor doesn't have a current mailing address
-
-( ) I don’t know my sponsor's current mailing address
+( ) I don’t know { my / the } sponsor's current mailing address
 
 
 
 { Buttons } Back / Continue
 
-</details>
-
 ------------------
 
-<details>
- 
- <summary>[H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
+### [H2] Your mailing address  { Story 2 }
+
+[H2] Do you have a current mailing address? (* Required) 
 
 
 {hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
@@ -654,36 +571,13 @@ Did the applicant's sponsor pass away during active military service? (* Require
 
 { Buttons } Back / Continue
 
-</details>
 
-------------------
-
-<details>
- <summary>[H3] Does the applicant's sponsor have a current mailing address? (* Required) {Story 3}</summary>
-
-
-{hint text} If we have a way to contact the sponsor, we'll be able to process this request faster. But we don't require a mailing address for this request.
-
-
-( ) Yes, the applicant's sponsor has a current mailing address
-
-( ) No, the applicant's sponsor doesn't have a current mailing address
-
-( ) I don’t know the applicant's sponsor's current mailing address
-
-
-
-{ Buttons } Back / Continue
-
-</details>
 
 ------------------
 
 { if mailing address }
 
-<details>
-
- <summary>[H3] Sponsor's mailing address { Story 1 & 3 }</summary>
+### [H2] Sponsor mailing address { Story 1 & 3 }
 
 
 - [ ] Sponsor lives on a United States military base outside of the country.
@@ -705,12 +599,11 @@ Postal code (* Required)
 
 { Buttons } Back / Continue
 
-</details>
+
 
 ------------------
 
-<details>
-<summary> [H3] Your mailing address { Story 2 }</summary>
+ ### [H2] Your mailing address { Story 2 }
 
 
 - [ ] I live on a United States military base outside of the country.
@@ -732,25 +625,23 @@ Postal code (* Required)
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
 
 { if mailing address }
 
 
-<details>
- <summary>[H3] Sponsor's contact information { Story 1 }</summary>
+### [H2] Sponsor contact information { Story 1 & 3 }
 
-Does your sponsor have a phone number? (* Required)
+Does { your /the } sponsor have a phone number? (* Required)
 
-{ hint text } If we have a way to contact your sponsor, we'll be able to process this request faster. But we don't require a phone number for this request.
+{ hint text } If we have a way to contact { your /the } sponsor, we'll be able to process this request faster. But we don't require a phone number for this request.
 
-( ) Yes, my sponsor has a phone number.
+( ) Yes, { my / the } sponsor has a phone number
 
-( ) No, my sponsor doesn't have a phone number.
+( ) No, { my / the }  sponsor doesn't have a phone number
 
-( ) I don’t know my sponsor’s phone number.
+( ) I don’t know my  { my / the } sponsor’s phone number
 
 
 
@@ -758,10 +649,7 @@ Does your sponsor have a phone number? (* Required)
 
 ------------------
 
-</details>
-
-<details>
- <summary>[H3] Your contact information { Story 2 }</summary>
+### [H3] Your contact information { Story 2 }
 
 
 Do you have a phone number? (* Required)
@@ -775,37 +663,25 @@ Do you have a phone number? (* Required)
 
 
 { Buttons } Back / Continue
-</details>
 
-------------------
-
-<details>
- <summary>[H3] Sponsor's contact information { Story 3 }</summary>
-
-
-Does the the applicant's sponsor have a phone number? (* Required)
-
-
-{ hint text } If we have a way to contact the sponsor we'll be able to process this request faster. But we don't require a phone number for this request.
-
-
-( ) Yes, the applicant's sponsor has a phone number.
-
-( ) No, the applicant's sponsor doesn't have a phone number.
-
-( ) I don’t know the applicant's sponsor's phone number.
-
-
-{ Buttons } Back / Continue
-</details>
 
 ------------------
 
 
 { if phone number }
 
-<details>
-<summary>[H3] Sponsor's phone number { Story 1 & 3 }</summary>
+### [H2] Sponsor phone number { Story 1 & 3 }
+
+Home phone number (*Required)
+
+Mobile phone number
+
+
+{ Buttons } Back / Continue
+
+------------------
+
+### [H2] Your phone number { Story 2 }
 
 
 Home phone number (*Required)
@@ -815,20 +691,6 @@ Mobile phone number
 
 { Buttons } Back / Continue
 
-</details>
-
-<details>
-<summary>[H3] Your phone number { Story 2 }</summary>
-
-
-Home phone number (*Required)
-
-Mobile phone number
-
-
-{ Buttons } Back / Continue
-
-</details>
 
 { end if phone number }
 
@@ -836,35 +698,10 @@ Mobile phone number
 
 ------------------------------------------------------------------------------
 
-{ Alert Box ]
-#### [H3] Section complete
 
-The sponsor's information has been completed. You could sign in to save your progress
+## Step 3 of 4:  Applicant Information 
 
-{ End Alert Box ]
-
-{ Information Box }
-
-#### [H3] Sign in now to save your work in progress
-
-Here’s how signing in now helps you:
-
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-  
-{ End Information Box ]
-
-{ Button } Sign in to save your application
-
-{ Link } Continue without signing in
-
-{ Buttons } Back / Continue
-
-------------------------------------------------------------------------------
-
-## Step 3 of 4:  Applicant Information
-
-[H3] { Your / %%applicant's name%%'s / %%applicant's name%%'s } name and date of birth
+### [H2] { Your / Applicant name / Applicant name } name and date of birth { Story 1, 2 & 3 }
 
 
 First name (* Required)  
@@ -881,17 +718,9 @@ Date of Birth (* Required)
 
 ------------------
 
-[H3] { Your / %%applicant's name%%'s / %%applicant's name%%'s } SSN 
 
 
-Social Security number (* Required)
-
-
-{ Buttons } Back / Continue
-
-------------------
-
-[H3] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } mailing address
+### [H2] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } mailing address { Story 1, 2 & 3 }
 
 
 [ ] { My / %%Applicant's name%% } has the same address as { my / the } sponsor
@@ -923,16 +752,16 @@ State (* Required)
 Postal code (* Required)   
 
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
 
-[H3] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } phone number
+### [H2] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } phone number { Story 1, 2 & 3 }
 
 Phone number (* Required)
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
@@ -944,9 +773,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 { End Information box }
 
-<details> 
-
-<summary>[H3] { My / The Applicant’s } relationship to the Sponsor { Story 1 & 3 }</summary>
+### [H2] { My / The Applicant’s } relationship to the Sponsor { Story 1 & 3 }
 
 What's { your / the applicant's } relationship to the Sponsor they're connected to? (* Required)
 
@@ -964,14 +791,12 @@ What's { your / the applicant's } relationship to the Sponsor they're connected 
 
 ( ) { My / %%applicant's name%%'s } relationship to the sponsor isn't listed here
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
-</details>
 
 ------------------
 
-<details>
-<summary>[H3] Applicant’s relationship { Story 2 }</summary>
+[H2] Applicant’s relationship { Story 2 }
 
 What's is your relationship to %%applicant's name%% (* Required)
 
@@ -985,9 +810,9 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 ( ) My relationship to %%applicant's name%% isn't listed here
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
-</details>
+
 
 ------------------
 
@@ -999,36 +824,33 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 { End Information box }
 
-<details>
- 
-<summary>[H3] Are you enrolled in Medicare (* Required) { Story 1 }</summary>
+### [H2] Are { you / %%applicant's name%% } enrolled in Medicare (* Required) { Story 1 & 3 }
 
-( ) I am enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+( ) { I'm / %%applicant's name%% is } enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
 
-( ) I am under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
+( ) { I'm / %%applicant's name%% is } under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
 
-( ) I don't have Medicare
+( ) { I / %%applicant's name%% is } don't have Medicare
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
-</details>
+
 
 ------------------
 
 { if enrolled in Medicare }
-<details>
- 
-<summary>[H3] What's parts of Medicare are you in enrolled in. You can select more than one. (* Required) { Story 1 }</summary>
 
-( ) I am enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+### [H2] What's parts of Medicare { are you / is %%applicant's name%% } in enrolled in. You can select more than one. (* Required) { Story 1 & 3 }
 
-( ) I am enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+( )  { I'm / %%applicant's name%% is } enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
 
-( ) I am enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+( ) { I'm / %%applicant's name%% is }  enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
 
-{ Buttons } Back / Continue
+( )  { I'm / %%applicant's name%% is } enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
-</details>
+{ Buttons } Cancel adding applicant / Back / Continue
+
+
 
 { end if enrolled in Medicare }
 
@@ -1046,7 +868,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 ( ) %%applicant's name%% doesn't have Medicare
 
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 </details>
 
@@ -1079,7 +901,7 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 ( ) I don't have other health insurance
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 
 </details>
@@ -1088,39 +910,35 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 <details>
  <summary>
- [H3] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
+ ### [H2] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
 
 ( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" to the Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
 
 ( ) %%applicant's name%% doesn't have other health insurance
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 </details>
 
 ------------------
 
-{ Alert Box }
-#### [H3] Applicant added
+{ Applicant review component }
 
-%%applicant's name%% has been added.
 
-{ End Alert Box }
+%%applicant name 1%%
 
-{ Information Box }
-#### [H3] Sign in now to save your work in progress
+Age [%%applicant 1 age%%]
 
-Here’s how signing in now helps you:
+{ End applicant review component }
 
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-  
-{ End Information Box }
+### [H2] Are there any other applicants to add? (*Required)
 
-{ Button } Sign in to save your application
+( ) Yes, I have more applicant's to add
 
-{ Link } Continue without signing in
+( ) No, I don't have anymore applicant's to add
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
+
 
 ------------------
 
@@ -1328,29 +1146,7 @@ Age [%%applicant 1 age%%]
 
 { end if no applicants to add loop }
 
-------------------------------------------------------------------------------
 
-{ Alert Box }
-#### [H3] Section complete
-
-The applicant information has been completed. 
-{ End Alert Box }
-
-{ Information Box }
-#### [H3] Sign in now to save your work in progress
-
-Here’s how signing in now helps you:
-
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-  
-{ End Information Box }
-
-{ Button } Sign in to save your application
-
-{ Link } Continue without signing in
-
-{ Buttons } Back / Continue
 
 ------------------------------------------------------------------------------
 
