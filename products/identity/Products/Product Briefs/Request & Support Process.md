@@ -1,7 +1,7 @@
 # Request & Support Process
 
 ## Overview: 
-Create processes & forms to manage & fulfill requests from other va.gov Product Teams:
+Create processes & forms & dashboards to manage & fulfill requests from other va.gov Product Teams:
 * Intake form
 * Summation of the work we need to do
 * Estimate of the time it will take
