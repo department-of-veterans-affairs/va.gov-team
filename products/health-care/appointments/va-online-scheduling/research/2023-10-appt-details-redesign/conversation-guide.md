@@ -195,17 +195,15 @@ You made an appointment request and wanted to check on the status. How would you
 - _Does participant understand pending appointments?_
 - _Does participant understand the information on the details page?_
 
-## 10: Appointment request
-You made an appointment request and wanted to check on the status. How would you do that from here?
+## 10: Empty State
+You have a VA Appointment on January 10 at 2:30 
 
 **Follow up:** 
-- Tell me about the experience of finding that information.
+- What do you notice about the information given here?
 
 #### Things to watch for:
 
-- _Can participant find pending appoitments?_
-- _Does participant understand pending appointments?_
-- _Does participant understand the information on the details page?_
+- _Does participant notice the missing info?_
 
 ## Post-Task Interview
 
