@@ -31,7 +31,8 @@ Intent is to identify and describe how Veteran Affairs Health and Benefits App (
      - Understand initial sizing and complexity of the work in the pipeline  
    - External team include QA and Release expectations in their project plan / build 
 - External team communicates to VAHB PO to prioritize the work in Mobile and is added accordingly to a work pipeline
-- When work is Prioritized QA reaches out to External Team 
+  - VAHB PO to own and update the pipeline based on their VA relationships 
+- Mobile QA works off of Pipeline data to determine when to reach out to external teams to start work (assuming they are ready) 
    - Kickoff meeting between teams
      - External teams shares project details so QA tester has knowledge of the feature which is helpful in testing
      - QA verifies QA needs are met
@@ -39,6 +40,7 @@ Intent is to identify and describe how Veteran Affairs Health and Benefits App (
      - Verify on communication plan (async, slack, response times, escalation points)        
 - All requirements are met - QA work starts
    - Tasks are completed 
+     - Project document review
      - Test plan is written and completed 
      - Reviews unit test
      - Reviews e2e testing
@@ -47,15 +49,17 @@ Intent is to identify and describe how Veteran Affairs Health and Benefits App (
      - Update testrails
      - Complete manual testing
      - Documents bugs / findings 
-   - Finding and questions are collaborated on between teams
-   - Change management is document accordingly 
+   - Finding and questions are collaborated on between teams as needed
+   - Change management is documented accordingly by QA and tickets 
  - QA to deliver a report on findings  
    -  Results include what testing was successful and failed  
       -  What changes team must make before pushing to production 
       -  Identify other work that needs to be consider or post mvp managed Sev-3 as an example
    - QA determine if its ready to push into production
  - Release Manager
-   - need a successful QA report for code to be moved to production    
+   - need a successful QA report for code to be moved to production
+ - Post release
+   - Project documented is loaded for audit purposes and post release code management / bugs     
 
 
 ## Task items to consider: 
