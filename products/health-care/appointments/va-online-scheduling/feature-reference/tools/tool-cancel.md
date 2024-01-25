@@ -16,7 +16,9 @@ Veterans can cancel appointments through VAOS.
   - Community Care appointment
   - COVID appointment 
   - Compensation and Pension exam appointment
-  - Video Visit appointment.
+  - Video Visit appointment<sup>1</sup>
+
+1. 01/25/24 There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
  
 ### Status Message
 - The canceled appointment displays a status indicating who canceled it.
