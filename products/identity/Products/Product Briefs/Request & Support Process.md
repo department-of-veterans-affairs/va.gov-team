@@ -1,9 +1,18 @@
 # Request & Support Process
 
 ## Overview: 
+Create Processes to manage & fulfill requests from other va.gov Product Teams:
+* Intake form
+* Summation of the work we need to do
+* Estimate of the time it will take
+* Prioritization of the request vs. other requests
+* 
 
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
+## Problem Statement: 
+Currently, we have no process in place to take requests from other product teams, track what we are doing to fulfill those requests, and manage the overall workload created by those requests.
+
+One of our 2024 OKRs is develop a Request & Support process 
 
 
 ## Relevant Documents:
@@ -12,8 +21,8 @@
 For this first iteration, the focus will be on:
 * 
 
-## Out of Scope: (for this iteration)
-*
+## Out of Scope: 
+*  Sign-in Service requests
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
