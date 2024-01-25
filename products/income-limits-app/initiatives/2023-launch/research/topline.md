@@ -4,7 +4,7 @@ Cindy Merrill [cindy.merrill@adhocteam.us], Sitewide Home Page team
 
 Date: 11/28/2022
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/research-plan.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/conversation-guide.md)
 
 This research study was initially planned as broad discovery research on eligibility for VA health care. Following the first four research interviews, we realized the recruitment criteria did not identify participants who could provide the information needed to inform the design of a new income limits wizard as desired. We cancelled the 10 remaining interviews, and this topline report is a summary of what we learned from the four interviews.
@@ -91,6 +91,6 @@ Screening Question #7. *(For Cohort 3 only)* Since receiving VA health care bene
 
 
 ## Tools used for Synthesis
-- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/analysis/Income%20limits%20interviews%20notes%20%26%20data%20analysis.xlsx)
-- [Notes from research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app/research/notes)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/analysis/Income%20limits%20interviews%20notes%20%26%20data%20analysis.xlsx)
+- [Notes from research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app/initiatives/2023-launch/research/notes)
 

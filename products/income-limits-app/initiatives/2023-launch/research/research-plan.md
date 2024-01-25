@@ -10,7 +10,7 @@ However, there are multiple issues with the existing application, which lacks:
 
 How might we rebuild and modernize this application using clearly defined Veteran use cases to better align with Veterans' needs?
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/product-outline.md)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/readme.md)
 
 [Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/168)
 
