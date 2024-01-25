@@ -649,7 +649,7 @@ Does { your /the } sponsor have a phone number? (* Required)
 
 ------------------
 
-### [H3] Your contact information { Story 2 }
+### [H2] Your contact information { Story 2 }
 
 
 Do you have a phone number? (* Required)
@@ -718,24 +718,35 @@ Date of Birth (* Required)
 
 ------------------
 
+### [H2] { Your / Applicant name / Applicant name } identification information { Story 1, 2 & 3 }
 
+
+Social Security number  (* Required)  
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+------------------
+
+{ if sponsor is living }
 
 ### [H2] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } mailing address { Story 1, 2 & 3 }
 
+{ Do you / Does %%applicant's name%% } have the same address as { your / the } sponsor?
 
-[ ] { My / %%Applicant's name%% } has the same address as { my / the } sponsor
+( ) Yes, { I have / %%applicant's name%% has } the same address as { my / the } sponsor
+( ) No, { I have / %%applicant's name%% has } the same address as { my / the } sponsor
 
-{ if above is checked enable dropdown } 
+{ end if sponsor is living }
 
-{ dropdown }  Use an previously entered address
-- %%Sponsor's name%%
-- %%Applicant's name 1%%
-- %%Applicant's name 2%%
-- %%Applicant's name 3%%
 
-{ end dropdown }
+{ Buttons } Cancel adding applicant / Back / Continue
 
-{if address is selected above prefill information in field below }
+------------------
+
+{ if sponsor is deceased or answered no to the the sponsor same address question }
+
+### [H2] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } mailing address { Story 1, 2 & 3 }
 
 Country (* Required)   
 
@@ -754,6 +765,9 @@ Postal code (* Required)
 
 { Buttons } Cancel adding applicant / Back / Continue
 
+{ end if sponsor is deceased or answered no to the the sponsor same address question }
+
+
 ------------------
 
 
@@ -765,25 +779,28 @@ Phone number (* Required)
 
 ------------------
 
+{ if sponsor is living }
+
+### [H2] { My / %%applicant's name%%’s } relationship to the sponsor { Story 1 & 3 }
+
 { Information box }
 
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
+### { Alert title } Additional documentation may be required
 
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
 
 { End Information box }
 
-### [H2] { My / The Applicant’s } relationship to the Sponsor { Story 1 & 3 }
 
-What's { your / the applicant's } relationship to the Sponsor they're connected to? (* Required)
+What's { your / %%applicant's name%% } relationship to the sponsor?  (* Required)
 
 > (Error msg) You must select at least one relationship, so we can process your enrollment.
 
 ( ) { I'm / %%applicant's name%% is } the sponsor's spouse {if checked add "Copy of marriage license (required)" to the Application Submitted page }
-
-( ) { I'm / %%applicant's name%% is } the sponsor's surviving spouse {if checked add "Copy of marriage license (required)" to the Application Submitted page }
-
-( ) { I / %%applicant's name%% } was the sponsor's surviving spouse but remarried after the age of 55 {if checked add "Copy of the legal document that ended your marriage (required)" to the Application Submitted page }
 
 ( ) { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) {if checked add" Copy of birth certificate (required)" to the Application Submitted page } {if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
@@ -794,9 +811,50 @@ What's { your / the applicant's } relationship to the Sponsor they're connected 
 { Buttons } Cancel adding applicant / Back / Continue
 
 
+{ end if sponsor is living }
+
 ------------------
 
-[H2] Applicant’s relationship { Story 2 }
+
+{ if sponsor is deceased }
+
+
+### [H2] { My / %%applicant's name%%’s } relationship to the sponsor { Story 1 & 3 }
+
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
+{ End Information box }
+
+What's { your / %%applicant's name%% } relationship to the sponsor?  (* Required)
+
+> (Error msg) You must select at least one relationship, so we can process your enrollment.
+
+( ) { I / %%applicant's name%% was the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
+
+( ) { I / %%applicant's name%% was the sponsor's spouse but remarried after the age of 55 { if checked add "Copy of the legal document that ended your marriage (required)" to the Application Submitted page }
+
+( ) { I /  %%applicant's name%% was the sponsor's child (includes biological, adopted, and stepchildren) { if checked "{if checked add" Copy of birth certificate (required)" to the application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
+
+( ) { My /  %%applicant's name%%'s relationship to the sponsor is not listed here
+
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+
+{ end if sponsor is deceased }
+
+------------------
+
+### [H2] My relationship to %%applicant's name%%}  { Story 2 }
 
 What's is your relationship to %%applicant's name%% (* Required)
 
@@ -812,11 +870,12 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 { Buttons } Cancel adding applicant / Back / Continue
 
-
-
 ------------------
 
 { Information box }
+
+### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } Medicare status { Story 1, 2 & 3 }
+
 
 ### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
 
@@ -824,133 +883,79 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 { End Information box }
 
-### [H2] Are { you / %%applicant's name%% } enrolled in Medicare (* Required) { Story 1 & 3 }
+{ Are you / Is %%applicant's name%% / Is %%applicant's name%% } enrolled in Medicare (* Required)
 
-( ) { I'm / %%applicant's name%% is } enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+( ) Yes, { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is } over 65 and  not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
 
-( ) { I'm / %%applicant's name%% is } under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
+( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is  } under 65 and not eligible for Medicare  
 
-( ) { I / %%applicant's name%% is } don't have Medicare
+( ) No,  { I / %%applicant's name%% / %%applicant's name%% } don't have Medicare
 
 { Buttons } Cancel adding applicant / Back / Continue
-
 
 
 ------------------
 
 { if enrolled in Medicare }
 
-### [H2] What's parts of Medicare { are you / is %%applicant's name%% } in enrolled in. You can select more than one. (* Required) { Story 1 & 3 }
+### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } Medicare Status (continued) { Story 1, 2 & 3 }
 
-( )  { I'm / %%applicant's name%% is } enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+What's parts of Medicare { are you / is %%applicant's name%% / is %%applicant's name%% } enrolled in. (* Required)
 
-( ) { I'm / %%applicant's name%% is }  enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+{ hint text } You can select more than one. 
 
-( )  { I'm / %%applicant's name%% is } enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+( )  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
 
-{ Buttons } Cancel adding applicant / Back / Continue
+( ) { I'm / %%applicant's name%% is / %%applicant's name%% is }  enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
 
-
-
-{ end if enrolled in Medicare }
-
-
-------------------
-
-<details>
- <summary>
- [H3] Is %%applicant's name%% enrolled in Medicare (* Required) { Story 2 & 3 } </summary>
-
-( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" the to the Application Submitted page } 
-
-( ) %%applicant's name%% is under 65 but not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
-
-( ) %%applicant's name%% doesn't have Medicare
-
+( )  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
 { Buttons } Cancel adding applicant / Back / Continue
 
-</details>
-
-------------------
-
-{ if enrolled in Medicare }
-<details>
- 
-<summary>[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }</summary>
-
-( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
-
-( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
-
-( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
-
-{ Buttons } Back / Continue
-
-</details>
 
 { end if enrolled in Medicare }
 
 ------------------
 
-<details> 
- 
-<summary>[H3] Do you have other health insurance? (* Required) { Story 1 }</summary>
+### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } other health insurance status { Story 1, 2 & 3 }
 
-( ) I have other health insurance { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page } {if checked add "Copy of front and back or other health insurance card (required)" to the Application Submitted page }
+{ Do you / Does %%applicant's name%% /  Does %%applicant's name%%  have other health insurance? (* Required)
 
-( ) I don't have other health insurance
+( ) Yes, { I have / %%applicant's name%% has /  %%applicant's name%% has } other health insurance { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page } {if checked add "Copy of front and back or other health insurance card (required)" to the Application Submitted page }
 
-{ Buttons } Cancel adding applicant / Back / Continue
-
-
-</details>
-
-------------------
-
-<details>
- <summary>
- ### [H2] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
-
-( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" to the Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
-
-( ) %%applicant's name%% doesn't have other health insurance
+( ) No, { I don't have / %%applicant's name%% doesn't have / %%applicant's name%% doesn't have } other health insurance
 
 { Buttons } Cancel adding applicant / Back / Continue
 
-</details>
+
 
 ------------------
+
+### [H2] Applicant Review
 
 { Applicant review component }
 
 
-%%applicant name 1%%
+**%%applicant name 1%%**
 
 Age [%%applicant 1 age%%]
 
+{ link } Edit >
+
 { End applicant review component }
 
-### [H2] Are there any other applicants to add? (*Required)
-
-( ) Yes, I have more applicant's to add
-
-( ) No, I don't have anymore applicant's to add
-
-{ Buttons } Cancel adding applicant / Back / Continue
-
-
-------------------
-
-[H3] Are there any other applicants to add? (*Required)
+Are there any other applicants to add? (*Required)
 
 ( ) Yes, I have more applicants to add
 
 ( ) No, I don't have any more applicants to add
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
+
 
 ------------------
+
 
 { if applicants to add loop }
 
