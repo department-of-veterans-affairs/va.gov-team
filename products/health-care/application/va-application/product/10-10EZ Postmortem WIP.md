@@ -45,9 +45,9 @@ Crew: Health Tools crew
 
 ### What happened?
 
-On 1/24/24, the 10-10 Team noticed a lack of 10-10EZ submissions via DataDog alerts and investigation. The 10-10 Team engaged Platform Support to assist in triage of the HCA API errors ("The cohort"). The cohort determind when the issue first showed up, reviewed DataDog reports and PRs that lined up with the timing. The cohort was able to look into the Staging env which helped narrow the source of the issue. The cohort noticed that similar errors were raised in staging, but because didn't proper monitoring/alerts were not in place, the 10-10 Team was not alerted to the failed health checks until they were raised in production.
+On 1/24/24, the 10-10 Team noticed a lack of 10-10EZ submissions via DataDog alerts and investigation. The 10-10 Team engaged Platform Support to assist in triage of the HCA API errors ("The cohort"). The cohort determind when the issue first showed up, reviewed DataDog reports and PRs that lined up with the timing. The cohort was able to look into the Staging environment, which helped narrow the source of the issue. The cohort noticed that similar errors were raised in Staging, but because proper monitoring/alerts were not in place, the 10-10 Team was not alerted to the failed health checks until they were raised in Production.
 
-The issue was caused by an update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30am ET when the root cause was determined and said PR was reverted and production was redeployed.
+The issue was caused by an update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30am ET when the root cause was determined, said PR was reverted, and Production was redeployed.
 
 
 ### Why did it happen?
@@ -58,11 +58,11 @@ The gem savon was upgraded. This update impacted how SOAP requests were throwing
 ### What will we change to ensure this doesn't happen again?
 
 - Avoid manual changes to VCR cassettes unless absolutely neccessary, and consult with other teams who may be impacted by the downstream effects
-- Implement a monitor on HTTP calls to es_backend at the fwd proxy, add alerts
+- Implement a monitor on HTTP calls to es_backend at the fwd proxy and add alerts
 - Look into 500s that appeared in staging, potentially adding alerts for staging errors like this
 - Look into the conditions and add a spec that fails with these conditions
 - Create monitors and filtered logs to prevent large errors from going unnoticed
-- Create monitors for staging, so we're immediately made aware if health checks are failing
+- Create monitors for Staging so that we're immediately made aware if health checks are failing
 - Discuss better practices for re-recording cassettes when deemed necessary
 
 These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
@@ -74,13 +74,13 @@ Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies al
 
 ## Resolution
 
-[PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful.  All 10-10EZ applications that were in a "retry" state were retried succesfully.
+[PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful. All 10-10EZ applications that were in a "retry" state were retried succesfully.
 
 The 10-10 Team went through DataDog and Sentry logs to retreive information from Veterans who tried and failed to submit 10-10EZ and EZRs so that the HEC team could follow up with these Veterans as needed.
 
 ### What went well
 
-With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within two (2) hours of being reported.  Since the issue started showing up in the Staging environment prior to the production deployment, it was easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.
+With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within two (2) hours of being reported.  Since the issue started showing up in the Staging environment prior to the Production deployment, it was easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.
 
 
 ### What went wrong
@@ -93,8 +93,6 @@ With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan
 We were able to see the errors occuring in Staging on the previous day, which led to a quick discovery of the issue source.
 
 ## Event Timeline
-
-Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
 - `2024-01-24 @ 9:15 AM ET`: During a routine review of Datadog, it was noticed that there have been only HCA API errors being logged, and no submissions since the previous day at approximately 3:00 PM ET. Patrick Bateman was tagged in a Slack message to the 10-10 Health Apps team (#1010-health-apps channel)
 - `2024-01-24 @ 09:16 AM ET`: A Pagerduty Maintenance Window was put in place
