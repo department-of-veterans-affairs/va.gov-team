@@ -118,9 +118,11 @@ Collaboration Cycle
 Discovery and research planning efforts underway. Initial conversations with stakeholders to be scheduled.
 
 Key deliverables:
-- design: (links to) user flows and wireframes
-  - [source of truth](https://docs.google.com/document/d/1vbWsc0h5t7KdmkjAnKFaxmC0RKOH8U6KOe4vRIuro-g/edit#heading=h.nlndqlvv5a6u)
-- research: research plan
+- design: 
+  - [user flows](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-18&mode=design)
+  - [wireframes](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-19&mode=design) 
+  - [source of truth on github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/content-source-of-truth.md)
+- research: [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
 - testing: plan
 
 ### General Questions
