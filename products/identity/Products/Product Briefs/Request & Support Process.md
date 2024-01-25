@@ -1,18 +1,18 @@
 # Request & Support Process
 
 ## Overview: 
-Create Processes to manage & fulfill requests from other va.gov Product Teams:
+Create processes & forms to manage & fulfill requests from other va.gov Product Teams:
 * Intake form
 * Summation of the work we need to do
 * Estimate of the time it will take
 * Prioritization of the request vs. other requests
-* 
+* (other ideas as suggested by the team)
 
 
 ## Problem Statement: 
 Currently, we have no process in place to take requests from other product teams, track what we are doing to fulfill those requests, and manage the overall workload created by those requests.
 
-One of our 2024 OKRs is develop a Request & Support process 
+One of our 2024 OKRs is develop a Request & Support process for va.gov
 
 
 ## Relevant Documents:
@@ -27,7 +27,7 @@ For this first iteration, the focus will be on:
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
 | ------------- |:-------------:| -----:|
-| |   |   |
+|Other Team | How to explain what is needed  | Standardized intake form  |
 
 ## Assumptions:
 * 
