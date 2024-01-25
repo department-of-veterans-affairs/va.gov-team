@@ -90,7 +90,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/conversation-guide.md)
 - [Link to prototype](https://cdpn.io/pen/debug/gOEPoyo/43fa8051200887cb97f5b154ed54c8a3)
-- [Mural notetaking board TBD]()
+- [Mural notetaking board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705968636854/21a2da5c771047b31063a128a500e133522ffcf9?sender=uff8fa85716c1796ccf022668)
 	
 ## Recruitment
   -  Perigean to recruit **11 Veterans, caregivers, or family members** of Veterans who meet the below criteria in order to get a minimum of **8 completed sessions**. Criteria are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/464).
