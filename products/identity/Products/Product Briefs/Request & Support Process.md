@@ -12,14 +12,14 @@ Create processes & forms to manage & fulfill requests from other va.gov Product 
 ## Problem Statement: 
 Currently, we have no process in place to take requests from other product teams, track what we are doing to fulfill those requests, and manage the overall workload created by those requests.
 
-One of our 2024 OKRs is develop a Request & Support process for va.gov
+One of our 2024 OKRs is develop a Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
 
 
 ## Relevant Documents:
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* 
+* Developing the processes and forms needed to support other teams
 
 ## Out of Scope: 
 *  Sign-in Service requests
