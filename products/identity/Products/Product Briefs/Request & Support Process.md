@@ -19,7 +19,7 @@ One of our 2024 OKRs is develop a Request & Support process for va.gov, which wi
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* Developing the processes and forms needed to support other teams
+* Developing the processes and forms and dashboards as needed to organize our support other teams
 
 ## Out of Scope: 
 *  Sign-in Service requests
