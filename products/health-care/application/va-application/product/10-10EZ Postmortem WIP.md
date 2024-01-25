@@ -1,15 +1,11 @@
 # 2023-01-24 - HCA API Errors
 
-Fill out every section of this document, if there is no content for a particular section, explicitly call out that there is no content.
-
 ## Summary
 
 The gem savon was upgraded, which modifed the SOAP request's XML payload.  Once this was deployed, the change caused over 3,900 HCA API errors.  Since yesterday’s afternoon deployment, no successful submissions for the 10-10EZ were completed.  This is also impacting the 10-10EZR, however the impact is low due to the form only at 10% production traffic.
 
 
 ## Impact
-
-Quantified statement about the impact of the incident.
 
 - How many users were affected?
      - Initially, 3,900 Veterans' applications were failing
@@ -30,8 +26,6 @@ Crew: Health Tools crew
 
 ## Stakeholders
 
-Ensure that the list of stakeholders involved are recorded in the post-mortem and must include at the very least (but may not be limited to):
-
 - Product Owner: Patrick Bateman
 - Platform Support: Rachal Cassity
 - VES contact: Joshua Faulkner
@@ -42,8 +36,8 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
-|... Look into the conditions and add a spec that fails with these conditions | TBD | [@1010-health-apps] [@vfs-platform-support] [@Team name TBD](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
-|Create monitors and filtered logs to prevent large errors from going unnoticed| TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
+|... Look into the conditions and add a spec that fails with these conditions | TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team)    | TBD|
+|Create monitors and filtered logs to prevent large errors from going unnoticed| TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
 | Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
 
 
