@@ -83,7 +83,7 @@ Sessions will be conducted over Zoom, and we would like **Zoom transcripts pleas
 
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/conversation-guide.md)
 - [Link to prototype](https://www.figma.com/proto/pqSQOl4IodScHhobr0GkbD/Income-Limits-Prototype?page-id=0%3A1&node-id=5%3A1001&viewport=1731%2C1829%2C0.48&scaling=min-zoom&starting-point-node-id=5%3A1001&hotspot-hints=0&hide-ui=1)
 	
 ## Recruitment
