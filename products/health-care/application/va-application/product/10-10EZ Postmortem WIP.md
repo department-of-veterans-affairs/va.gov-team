@@ -45,7 +45,7 @@ Crew: Health Tools crew
 
 ### What happened?
 
-On 1/24/24, the 10-10 Team noticed a lack of 10-10EZ submissions via DataDog alerts and investigation. The 10-10 Team engaged Platform Support to assist in triage of the HCA API errors. This cohort determind when the issue first showed up, reviewed DataDog reports and PRs that lined up with the timing. The cohort was able to look into the Staging env which helped narrow the source of the issue. The cohort noticed that similar errors were raised in staging, but because didn't proper monitoring/alerts were not in place, the 10-10 Team was not alerted to the failed health checks until they were raised in production.
+On 1/24/24, the 10-10 Team noticed a lack of 10-10EZ submissions via DataDog alerts and investigation. The 10-10 Team engaged Platform Support to assist in triage of the HCA API errors ("The cohort"). The cohort determind when the issue first showed up, reviewed DataDog reports and PRs that lined up with the timing. The cohort was able to look into the Staging env which helped narrow the source of the issue. The cohort noticed that similar errors were raised in staging, but because didn't proper monitoring/alerts were not in place, the 10-10 Team was not alerted to the failed health checks until they were raised in production.
 
 The issue was caused by an update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30am ET when the root cause was determined and said PR was reverted and production was redeployed.
 
