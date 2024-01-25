@@ -27,7 +27,10 @@ Thank you for joining us today! My name is _____ and _____ is taking notes.
 We've invited you here today to help us improve a website for Veterans. We'll use our time today to explore two different ideas for the site together.  Before we jump in with prompts and questions, I first have some information to confirm with you:
 
 #### For screenreader or mobile sessions
-- **For screenreader sessions:** I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME.  Are you able to use that during our session today?
+- **For screenreader sessions:** I understand you use screenreader software to navigate the internet, what SOFTWARE do you typically use? Are you able to use that during our session today?
+      - What is your skill level using that software? Beginner, Intermediate, or Advanced?
+      - What device do you typically use? Windows PC, Apple, phone?
+      - What browser are you using today? Is that what you typically use? 
 - **For mobile sessions:** I understand you primarily use your phone to access the internet. Can you confirm that you are on your phone now? 
 
 Thank you for confirming these things! Now, I have a few things about today I want to go over with you before we get started:
