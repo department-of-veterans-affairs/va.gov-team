@@ -10,7 +10,7 @@ While folks working in [content](https://github.com/department-of-veterans-affai
 
 ## Who is this for
 
-This cookbook aims to fill that gap, for the time being. While primarily intended for use by CAIA accessibility specialists, we invite the entire community of practice within OCTO to contribute recipies. Our hope is that this collection of recipes can help us create greater allignment between all accessibility specialists as we provide support and guidance to folks implementing and updating Veteran-facing products.
+This cookbook aims to fill that gap, for the time being. While primarily intended for use by CAIA accessibility specialists, we invite the entire community of practice within OCTO to contribute recipes. Our hope is that this collection of recipes can help us create greater alignment between all accessibility specialists as we provide support and guidance to folks implementing and updating Veteran-facing products.
 
 ## Suggested format
 
