@@ -1,4 +1,8 @@
 # Federal standardized header and footer
+
+* Epic: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14078
+* [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/decision-log.md) 
+
 #### Overview
 
 This initiative will work to solve three problems:
