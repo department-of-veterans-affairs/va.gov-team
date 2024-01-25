@@ -19,7 +19,14 @@ Draft
     - However if we do and we handle it poorly then need to correct  
 
 ### DORA 
- - TBD - limited control with mobile release process built more for web releases 
+ - Built with Web in mind
+     - Deplyoment frequency won't be measured.
+     - MTTR (mean time to recover) pushing out changes requires users to get the latest version
+        - Track usage of feature toggles (outside of QA), AF, and hotfixes
+     - Chagne Failure usage of hotfix, AF 
+     - Lead time changes
+        - Could track out long pipline takes to execute builds
+        - Track failed builds due to testing failures  
    
 ### OCTO Objectives Applicable for QA and Release Team
  - Objective 1 - Better Experiences
