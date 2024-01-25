@@ -133,8 +133,8 @@ You have another video appointment with cardiology, would you find that appointm
 
 - _Does participant notice the "join appoitnment" link before the other CTA's?_
 
-## 5: Empty state
-You have a VA appointment scheduled for 2 pm on Wednesday the 14th and want to find out how to get to the appointment. How would you do that from here?
+## 5: ATLAS
+You have an audiology scheduled for 2 pm on Wednesday the 14th and want to find out how to get to the appointment. How would you do that from here?
 
 **Follow up:** 
 - What do you notice about the appointment information?
@@ -184,6 +184,18 @@ You had a podiatry appointment last month and want to review what was discussed 
 - _Can participant easily navigate back from their after visit summary??_
 
 ## 9: Appointment request
+You made an appointment request and wanted to check on the status. How would you do that from here?
+
+**Follow up:** 
+- Tell me about the experience of finding that information.
+
+#### Things to watch for:
+
+- _Can participant find pending appoitments?_
+- _Does participant understand pending appointments?_
+- _Does participant understand the information on the details page?_
+
+## 10: Appointment request
 You made an appointment request and wanted to check on the status. How would you do that from here?
 
 **Follow up:** 
