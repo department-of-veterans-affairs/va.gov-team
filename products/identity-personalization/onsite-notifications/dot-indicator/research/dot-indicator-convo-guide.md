@@ -66,6 +66,8 @@ Okay, I'm now going to share with you another link in Zoom chat that will take y
 What stands out to you first?
 - *For colorblind participants* Do you have any trouble seeing the badge with the number in it? *If it's not clear whether they can or not* Can you read the number in it?
 
+What do you think the badge with the number in it means?
+
 What would you expect to see if you clicked "Refill and track your prescriptions" when it has this numbered badge next to it?
 
 How do you think badge with the number in it would disappear?
