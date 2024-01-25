@@ -29,7 +29,7 @@ Crew: Health Tools crew
 - Product Owner: Patrick Bateman
 - Platform Support: Rachal Cassity
 - VES contact: Joshua Faulkner
-- OCTO Engineer: Adrien Rollett
+- OCTO Engineer: Adrian Rollett
 
 ## Action Items
 
@@ -45,9 +45,11 @@ Crew: Health Tools crew
 
 ### What happened?
 
-On 1/24/24, the 10-10 Team noticed a lack of 10-10EZ submissions via DataDog alerts and investigation. The 10-10 Team engaged Platform Support to assist in triage of the HCA API errors ("The cohort"). The cohort determind when the issue first showed up, reviewed DataDog reports and PRs that lined up with the timing. The cohort was able to look into the Staging environment, which helped narrow the source of the issue. The cohort noticed that similar errors were raised in Staging, but because proper monitoring/alerts were not in place, the 10-10 Team was not alerted to the failed health checks until they were raised in Production.
-
-The issue was caused by an update to the savon gem caused requests to the HCA service to fail. A bug was introduced that improperly formatted the XML request body, leading the HCA service to return errors that were raised as Common::Client::Errors::HTTPError errors. Breakers noted the "outage" and began throwing Breakers::OutageExceptions. This lasted until about 11:30am ET when the root cause was determined, said PR was reverted, and Production was redeployed.
+- The upgrade to the savon gem impacted how SOAP/XML payloads got serialized. This changes the contents of the request to the enrollment system.
+- VCR cassettes are essentially a contract - , if vets-api sends this request, the upstream system will send this response back. (albeit a brittle contract since it represents a point in time, in this case 2017)
+- The developer focused on making specs pass, so manually changed the contents of the VCR cassette to match what savon was now generating.
+- But, this effectively broke the contract with enrollment system, by unilaterally changing the request. Essentially the cassette no longer matches reality because the upstream system has never indicated that it will generate the same response to the updated request. 
+- To mitigate, either need to (a) make sure the request payload remains unchanged with the updated gem or (b) re-record the cassettes, in other words make sure that given (new request payload), the upstream will still return (expected response). 
 
 
 ### Why did it happen?
@@ -64,23 +66,20 @@ The gem savon was upgraded. This update impacted how SOAP requests were throwing
 - Create monitors and filtered logs to prevent large errors from going unnoticed
 - Create monitors for Staging so that we're immediately made aware if health checks are failing
 - Discuss better practices for re-recording cassettes when deemed necessary
-
-These monitors and alerts can be created and accessed in Datadog by the 10-10 Health Apps team.
-Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies all 10-10 Health Apps team members.
-
-- Once notified, the team will begin an investigation into the error and root cause
-- If assistance is needed, the team will engage the #vfs-platform-support Slack channel
+- Broadcast why manually changing a VCR cassette is a major risk to as many backend developers as possible (both platform and VFS).
+- Consider adding a check to the CI pipeline to detect manual changes to VCR cassettes, for extra scrutiny (one indication is that the Date header is unchanged, indicating the VCR cassette was not actually re-recorded). I don't know if this one is worth the implementation effort.
+- Overall, lack of ability to re-record VCR cassettes is a systemic risk to vets-api - consider a larger backlog item to make this a more feasible routine maintenance item. (For reference, the HCA cassettes were recorded in 2017)
 
 
 ## Resolution
 
 [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful. All 10-10EZ applications that were in a "retry" state were retried succesfully.
 
-The 10-10 Team went through DataDog and Sentry logs to retreive information from Veterans who tried and failed to submit 10-10EZ and EZRs so that the HEC team could follow up with these Veterans as needed.
+The 10-10 Team went through DataDog and Sentry logs to retrieve information from Veterans who tried and failed to submit 10-10EZ and EZRs so that the HEC team could follow up with these Veterans as needed.
 
 ### What went well
 
-With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within two (2) hours of being reported.  Since the issue started showing up in the Staging environment prior to the Production deployment, it was easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.
+With the assistance of Patrick Bateman, Adrian Rollett, Rachal Cassity and Lihan Li, the issue was found and resolved within two (2) hours of being reported.  Since the issue started showing up in the Staging environment prior to the Production deployment, it was easier to narrow down the offending commit and revert it quickly. The impact to Veterans was minimized to several dozen 10-10EZs taking a little bit longer than usual to reach the enrollment system.  There were a total of five (5) forms, including three (3) 10-10EZs and two (2) 10-10EZRs, that exceeded submission retries and did not flow through application processing.  The Veteran contact information was retrieved and send directly to Health Enrollment center staff to contact and assist with getting their information submitted.  This was approximately a 24-hour delay from their original submission time.
 
 
 ### What went wrong
@@ -94,11 +93,14 @@ We were able to see the errors occuring in Staging on the previous day, which le
 
 ## Event Timeline
 
+- `2024-01-22 @ 05:10 PM ET`: [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was created
+- `2024-01-22 @ 05:37 PM ET`: [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was merged and deployed to Staging
+- `2024-01-23 @ 03:00 PM ET`: [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was deployed to Production
 - `2024-01-24 @ 9:15 AM ET`: During a routine review of Datadog, it was noticed that there have been only HCA API errors being logged, and no submissions since the previous day at approximately 3:00 PM ET. Patrick Bateman was tagged in a Slack message to the 10-10 Health Apps team (#1010-health-apps channel)
 - `2024-01-24 @ 09:16 AM ET`: A Pagerduty Maintenance Window was put in place
 - `2024-01-24 @ 09:16 AM ET`: Issue was [reported to Platform Support](https://dsva.slack.com/archives/CBU0KDSB1/p1706105805136009) (#vfs-platform-support Slack channel) - [Github issue #74356](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74356) was opened by Rachal Cassity
 - `2024-01-24 @ 09:37 AM ET`: Sent message to Joshua Faulkner to find out if any issues were being experienced on the VES side
-- `2024-01-24 @ 09:39 AM ET`: Adrien Rollett and Patrick Bateman started the triage, reviewing various Datadog monitors.  A [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was found to have changes to rest_client and http libraries.  This was thought to be the source of the issue.
+- `2024-01-24 @ 09:39 AM ET`: Adrian Rollett and Patrick Bateman started the triage, reviewing various Datadog monitors.  A [PR #15229](https://github.com/department-of-veterans-affairs/vets-api/commit/43c4c4b4dee582b00fd413d2f328df5b28e08dfe) was found to have changes to rest_client and http libraries.  This was thought to be the source of the issue.
 - `2024-01-24 @ 09:46 AM ET`: The Pagerduty Maintenance Window was removed
 - `2024-01-24 @ 10:05 AM ET`: PR was reverted and redeployed to production
 - `2024-01-24 @ 10:17 AM ET`: Noticed that the HCA API was not coming back online and submission failures were still occuring.  The reverted PR was not the source of the issue.
@@ -109,7 +111,8 @@ We were able to see the errors occuring in Staging on the previous day, which le
 - `2024-01-24 @ 11:03 AM ET`: PR was reverted and redeployment started
 - `2024-01-24 @ 11:12 AM ET`: Confirmed 10-10EZ forms were now being succesfully submitted
 - `2024-01-24 @ 11:15 AM ET`: All 10-10EZ and 10-10EZR forms that were still in a retry cycle were successfully retried
-- `2024-01-24 @ 01:40 PM ET`: Joshua Faulkner responded that there were no issues seen on the VES side, although they can see the gap in submissions from 3PM ET 1/23 to 11AM ET 1/24.
+- `2024-01-24 @ 01:59 PM ET`: The contact information for all five (5) Veterans that were impacted by this issue wwas sent to the Health Eligibility/Enrollment center
+- `2024-01-24 @ 01:40 PM ET`: Joshua Faulkner responded that there were no issues seen on the VES side, although they can see the gap in submissions from 6PM ET 1/23 to 11AM ET 1/24.
 
 ## Contributors
 
