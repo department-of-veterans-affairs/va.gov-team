@@ -1,4 +1,6 @@
-Draft
+# Draft and Thoughts
+
+# [Actual Goals found here ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/platform/Metrics-and-Goals/Q1-Mobile-Platform-Teams-OKRs.md)
 
 # Relevant Metrics and OKRs for the QA and Release Team 
 
