@@ -6,7 +6,7 @@ Date: 05/25/2023
 
 **Cindy Merrill** [cindy.merrill@adhocteam.us]
 
-[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/NEWER%20Research%20Readout%20for%20IncLim%20usability%20testing.pdf)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/NEWER%20Research%20Readout%20for%20IncLim%20usability%20testing.pdf)
 
 <br>
 
@@ -253,7 +253,7 @@ Before showing participants the design prototype for the income limits app, we a
      
   <summary>Annual Income Limits table (Click to show screenshot)</summary>
      
-  ![income-limits-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/income-limits-table.png)
+  ![income-limits-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/income-limits-table.png)
   
 </details>
 
@@ -314,16 +314,16 @@ None at this time
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/conversation-guide.md)
 
-[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app/research/2023-01-income-limits-usability/session-notes)
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/session-notes)
 
 
 ## Tools used for Synthesis
 
-[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/analysis/Income%20limits%20usab%20notes%20%26%20data%20analysis.xlsx)
+[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/analysis/Income%20limits%20usab%20notes%20%26%20data%20analysis.xlsx)
 
 [Mural board](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674859150912?sender=uff8fa85716c1796ccf022668&key=dbd99364-9dbc-4051-8ba4-bc31c7c5aad3)
 
@@ -336,62 +336,62 @@ None at this time
 <details>
   <summary>Landing page (Click to show screenshots)</summary>
 
-  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg1.png)
-  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg2.png)
-  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg3.png)
-  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg4.png)
-  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg5.png)
-  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg6.png)
-   ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/landing-pg7.png)    
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg1.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg2.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg3.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg4.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg5.png)
+  ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg6.png)
+   ![landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/landing-pg7.png)    
      
 </details>
 
 <details>
   <summary>Intro page (Click to show screenshot)</summary>
 
-  ![intro-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/intro-pg.png)
+  ![intro-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/intro-pg.png)
   
 </details>
 
 <details>
   <summary>Questions (Click to show screenshots)</summary>
 
-  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-pension.png)
-  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-aid&attendance.png)
-  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-housebound.png)
-  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-zip.png)
-  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/q-dependents.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/q-pension.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/q-aid&attendance.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/q-housebound.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/q-zip.png)
+  ![question-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/q-dependents.png)
   
 </details>
 
 <details>
   <summary>Review info page (Click to show screenshot)</summary>
 
-  ![review-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/review-info.png)
+  ![review-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/review-info.png)
   
 </details>
 
 <details>
   <summary>Results page (Click to show screenshots)</summary>
 
-  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/results1.png)
-  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/results2.png)
-  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/results-accordions1.png)
-  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/results-accordions2.png)
+  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/results1.png)
+  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/results2.png)
+  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/results-accordions1.png)
+  ![results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/results-accordions2.png)
   
 </details>
 
 <details>
   <summary>Past income limits (Click to show screenshots)</summary>
 
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-intro.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-pension.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-aid&attendance.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-housebound.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-zip.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-dependents.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-review-info.png)
-  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/past-results.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-intro.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-pension.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-aid&attendance.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-housebound.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-zip.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-dependents.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-review-info.png)
+  ![past-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/past-results.png)
   
 </details>
 
@@ -473,4 +473,4 @@ This research does not include the perspectives of the following marginalized Ve
 - Expat (living abroad)
 - Users of Assistive Technology 
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/2023-01-income-limits-usability/images/VA-recruitment-checker.png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/2023-01-income-limits-usability/images/VA-recruitment-checker.png)
