@@ -76,7 +76,7 @@ Alerts will be tied to the #health-tools-1010-apm Slack channel that notifies al
 
 [PR #14930](https://github.com/department-of-veterans-affairs/vets-api/pull/14930/files) was found to be the source of the issue.  The commit was reverted and redeployment was completed.  After about 10 minutes, the 10-10EZ submissions reported successful.  All 10-10EZ applications that were in a "retry" state were retried succesfully.
 
-The 10-10 Team went through DataDog and Sentry logs to retreive information from Veterans who tried and failed to submit 10-10EZ and EZRs so that the HEC team could follow up with these Veterans.
+The 10-10 Team went through DataDog and Sentry logs to retreive information from Veterans who tried and failed to submit 10-10EZ and EZRs so that the HEC team could follow up with these Veterans as needed.
 
 ### What went well
 
@@ -112,7 +112,6 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-01-24 @ 11:12 AM ET`: Confirmed 10-10EZ forms were now being succesfully submitted
 - `2024-01-24 @ 11:15 AM ET`: All 10-10EZ and 10-10EZR forms that were still in a retry cycle were successfully retried
 - `2024-01-24 @ 01:40 PM ET`: Joshua Faulkner responded that there were no issues seen on the VES side, although they can see the gap in submissions from 3PM ET 1/23 to 11AM ET 1/24.
-- ...
 
 ## Contributors
 
