@@ -1,7 +1,7 @@
 ## _THIS DOCUMENT IS IN PROGRESS_
 
 # Goal 
-Document general terms in the VA ecosystem and how we're using them. Add definitions to help standardize how we use them. Once we add term to style guide, delete from this document. 
+Document general terms in the VA ecosystem and how we're using them. Add definitions to help standardize how we use them. Once we add the term to the style guide, delete it from this document. 
 
 ## Word list
 
