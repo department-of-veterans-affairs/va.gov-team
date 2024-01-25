@@ -67,7 +67,8 @@ The gem savon was upgraded. This update impacted how SOAP requests were throwing
 - Create monitors for Staging so that we're immediately made aware if health checks are failing
 - Discuss better practices for re-recording cassettes when deemed necessary
 - Broadcast why manually changing a VCR cassette is a major risk to as many backend developers as possible (both platform and VFS).
-- Consider adding a check to the CI pipeline to detect manual changes to VCR cassettes, for extra scrutiny (one indication is that the Date header is unchanged, indicating the VCR cassette was not actually re-recorded). I don't know if this one is worth the implementation effort.
+- Consider adding a check to the CI pipeline to detect manual changes to VCR cassettes, for extra scrutiny (one indication is that the Date header is unchanged, indicating the VCR cassette was not actually re-recorded). 
+     - Rachal Cassity is working to find a better solution for this
 - Overall, lack of ability to re-record VCR cassettes is a systemic risk to vets-api - consider a larger backlog item to make this a more feasible routine maintenance item. (For reference, the HCA cassettes were recorded in 2017)
 - External service outage monitors in staging and prod (will be up later today 1/25).
 - The backend engineers are gathering error trends and logs. These tools will make it easy for developers to monitor their changes after deployment in all environments.
@@ -115,6 +116,8 @@ We were able to see the errors occuring in Staging on the previous day, which le
 - `2024-01-24 @ 01:59 PM ET`: The contact information for all five (5) Veterans that were impacted by this issue wwas sent to the Health Eligibility/Enrollment center
 - `2024-01-24 @ 01:40 PM ET`: Joshua Faulkner responded that there were no issues seen on the VES side, although they can see the gap in submissions from 6PM ET 1/23 to 11AM ET 1/24.
 - `2024-01-25 @ 11:07 AM ET`: Sent follow up email to HEC requesting acknowledgment of receiving the Veteran contact info and will be reaching out.
+- `2024-01-25 @ 01:41 PM ET`: Received email from HEC confirming receipt of Veteran information and is being worked on.
+
 
 ## Contributors
 
