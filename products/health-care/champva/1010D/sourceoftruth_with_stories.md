@@ -959,7 +959,7 @@ Are there any other applicants to add? (*Required)
 
 { if applicants to add loop }
 
-[H3] %%applicant's name%%'s name and date of birth
+### [H2]  %%applicant's name%%'s name and date of birth
 
 
 First name (* Required)  
@@ -969,11 +969,13 @@ Suffix
 
 Date of Birth (* Required)  
 
+M/D/Y
+
 { Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
-[H3] %% Applicant's First Name %% SSN 
+### [H2]  %%applicant's name%%'s identification information
 
 
 Social Security number (* Required)
@@ -983,21 +985,29 @@ Social Security number (* Required)
 
 ------------------
 
-[H3] %%applicant's name%% mailing address
 
-[ ] %%applicant's name%% has the same address as the sponsor or another applicant
+### [H2] %%applicant's name%%'s mailing address { Story 1, 2 & 3 }
 
-{ if above is checked enable dropdown } 
+Does %%applicant's name%% have the same address as another person listed in the this application?
 
-{ dropdown } Use an previously entered address
-- %%Sponsor 's name%%
-- %%Applicant's name 1%%
-- %%Applicant's name 2%%
-- %%Applicant's name 23%%
+{ dropdown }
 
-{ end dropdown }
+- No %%applicant's name%% has a different address then others listed in this application 
+- Yes, %%applicant's name%% has the same address as the sponsor  { if sponsor is living }
+- Yes, %%applicant's name%% has the same address as { %%applicant's name%% 1 }
+- Yes, %%applicant's name%% has the same address as { %%applicant's name%% 2 }
+- Yes, %%applicant's name%% has the same address as { %%applicant's name%% 3 }
+ 
+{ end dropdown ]
 
-{if address is selected above prefill information in field below }
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+------------------
+
+{ if sponsor is deceased or answered no to the the above address question }
+
+### [H2] %%applicant's name%% mailing address
 
 Country (* Required)   
 
@@ -1017,7 +1027,7 @@ Postal code (* Required)
 
 ------------------
 
-[H3] %%applicant's name%% phone number
+### [H2] %%applicant's name%% phone number
 
 Phone number (* Required)
 
@@ -1025,26 +1035,29 @@ Phone number (* Required)
 
 ------------------
 
-{ Information box }
-
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
-
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
-
-{ End Information box }
-
-
 {if sponsor is living}
 
-[H3] %%applicant's name%% relationship to the sponsor 
+### [H2] %%applicant's name%%’s relationship to the sponsor 
 
-> (Error msg) You must select at least one relationship so we can process your enrollment.
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
+{ End Information box }
  
 What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
-( ) %%Applicant's name%% is the sponsor 's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
+> (Error msg) You must select at least one relationship so we can process your enrollment.
 
-( ) %%Applicant's name%% is the sponsor 's child (includes includes biological, adopted, and stepchildren) { if checked add "{if checked add" Copy of birth certificate (required)" to the Application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
+( ) %%Applicant's name%% is the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
+
+( ) %%Applicant's name%% is the sponsor's child (includes includes biological, adopted, and stepchildren) { if checked add "{if checked add" Copy of birth certificate (required)" to the Application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
 ( ) %%Applicant's name%% is the sponsor's caretaker
 
@@ -1053,19 +1066,29 @@ What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
 { Buttons } Cancel adding applicant / Back / Continue
 
-------------------
-
 {end if sponsor is living}
 
+------------------
 
 {if sponsor is deceased}
 
-[H3] %%applicant's name%% relationship to the sponsor 
+### [H2] %%applicant's name%%’s relationship to the sponsor 
 
-> (Error msg) You must select at least one relationship so we can process your enrollment.
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
+{ End Information box }
 
 What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
+> (Error msg) You must select at least one relationship so we can process your enrollment.
 
 ( ) %%applicant's name%% was the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
@@ -1081,32 +1104,42 @@ What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
 ------------------
 
+### [H2] %%applicant's name%%’s Medicare status 
+
 { Information box }
 
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
+### { Alert title } Additional documentation may be required
 
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
 
 { End Information box }
 
- [H3] Is %%applicant's name%% enrolled in Medicare (* Required) 
+ Is %%applicant's name%% enrolled in Medicare (* Required) 
 
-( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page}
+( ) Yes, %%applicant's name%% is enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+( ) No,  %%applicant's name%% is over 65 and  not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
 
-( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)" to the Application Submitted page }
+( ) No, %%applicant's name%% is under 65 and not eligible for Medicare  
 
-( ) %%applicant's name%% doesn't have Medicare
+( ) No, %%applicant's name%% doesn't have Medicare
 
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
 
 { if enrolled in Medicare }
 
- 
-[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }
+### [H2] %%applicant's name%%’s Medicare status (continued)
+
+ What's parts of Medicare is %%applicant's name%% enrolled in? (* Required)
+
+ { hint text } You can select more than one.
 
 ( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
 
@@ -1114,39 +1147,62 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 ( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 
 { end if enrolled in Medicare }
 
 ------------------
 
- [H3] Does %%applicant's name%% have other health insurance? (* Required)  </summary>
+### [H2] %%applicant's name%%’s / %%applicant's name%%’s other health insurance status
 
-( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required" to the  Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
+{ Information box }
 
-( ) %%applicant's name%% doesn't other health insurance
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+
+{ End Information box }
+
+Does %%applicant's name%% have other health insurance? (* Required)
+
+( ) Yes,  %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required" to the  Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
+
+( ) No, %%applicant's name%% doesn't other health insurance
 
 { Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
+### [H2] Applicant Review
+
 { Applicant review component }
 
-
-%%applicant name 1%%
+**%%applicant name 1%%**
 
 Age [%%applicant 1 age%%]
 
+{ link } Edit >
+
+**%%applicant name 1%%**
+
+Age [%%applicant 1 age%%]
+
+{ link } Edit >
+
 { End applicant review component }
 
-[H3] Are there any other applicants to add? (*Required)
+Are there any other applicants to add? (*Required)
 
-( ) Yes, I have more applicant's to add
+( ) Yes, I have more applicants to add
 
-( ) No, I don't have anymore applicant's to add
+( ) No, I don't have any more applicants to add
 
-{ Buttons } Cancel adding applicant / Back / Continue
+{ Buttons } Back / Continue
 
 
 { end if no applicants to add loop }
@@ -1155,18 +1211,18 @@ Age [%%applicant 1 age%%]
 
 ------------------------------------------------------------------------------
 
-## [H1] Apply for CHAMPVA benefits
+## Step 4 of 4:  Review and sign
 
-{ subtitle } Form 10-10d
 
-## Step 4 of 4:  Review and certify
+### [H2} Review and sign
+
 
 { section review accordions }
 
 
 <details>
 
-<summary>Signer's identity</summary>
+<summary>Signer information</summary>
 
 { add summmary here }
 
@@ -1254,13 +1310,10 @@ Your full name (* Required)
 
 ------------------------------------------------------------------------------
 
-## [H1] Confirmation and next steps ##
+### [H2] Confirmation and next steps
 
-## [H1] Apply for CHAMPVA benefits
-
-{ subtitle } Form 10-10d
-
-### [H2] You’ve completed this portion of the your CHAMPVA benefits enrollment form
+{ Success alert }
+ { alert title } You’ve completed this portion of the your CHAMPVA benefits enrollment form
 
 ### [H2] Mail these documents to complete your enrollment
 
