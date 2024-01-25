@@ -42,7 +42,6 @@ Crew: Health Tools crew
 
 
 ## Root Cause Analysis
-... This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
 
 ### What happened?
 
