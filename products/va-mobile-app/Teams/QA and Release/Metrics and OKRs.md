@@ -2,9 +2,7 @@
 
 # [Actual Goals found here ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/platform/Metrics-and-Goals/Q1-Mobile-Platform-Teams-OKRs.md)
 
-# Relevant Metrics and OKRs for the QA and Release Team 
 
-# Metrics / OKRs: 
 
 ## Notes: 
  - Some limitations for bugs - QA can identify and report them however its up to individual teams to prioritize and allocate resources to complete bug work
