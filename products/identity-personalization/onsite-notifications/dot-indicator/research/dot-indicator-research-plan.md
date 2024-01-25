@@ -41,7 +41,7 @@ We hypothesize that:
 	- We expect that there may be interesting findings for <b>when</b> screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
 
 ## Methodology	
-We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code to answer some of our research questions but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use a specific <b>staging account</b> and have users log into it for each session, and for security purposes, we will <b>change the login password after each session</b>. More info about considerations for testing in staging can be found in this [Slack thread](https://dsva.slack.com/archives/C0216PL32HJ/p1696450953956489).
+We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code to answer some of our research questions but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use CodePen for user testing. 
 
 ### Research materials
 - [Link to conversation guide for sighted users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide.md)
