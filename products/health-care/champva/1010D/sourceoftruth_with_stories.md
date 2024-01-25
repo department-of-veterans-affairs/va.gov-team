@@ -208,7 +208,7 @@ This legal document provides confirmation of your ended marriage with a deceased
 
 **Related to:** Family member benefits, Health care
 
-**Form last updated:** Februrary 2024
+**Form last updated:** February 2024
 
 ### [H2] When to use this form
 
@@ -216,11 +216,11 @@ If you’re the spouse or child of a Veteran with disabilities, or the surviving
 
 #### [H3] Downloadable PDF
 
-{ link } [Download VA Form 10-10d PDF](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10d.pdf)
+{ link } [Go to VA Form 10-10d PDF](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10d.pdf)
 
 #### [H3] Online tool
 
-You can apply online instead of filling out andn sending us the paper form
+You can apply online instead of filling out and sending us the paper form
 
 { link } [Go to the online tool](link to online form)
 
@@ -234,7 +234,7 @@ Use VA Form 10-7959C or {link} [Formulario VA 10-7959c español](https://www.va.
 - You’re applying for CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), and have other health insurance to declare as part of your VA Form 10-10d application. 
 - Or you need to report changes in your other non-VA health insurance, such as new beneficiaries or coverage changes.
 
-{ link } [Download VA Form 10-7959C PDF](https://www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
+{ link } [Go to VA Form 10-7959C PDF](https://www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
 
 ### [H2] Helpful links related to VA Form 10-10d
 
@@ -701,7 +701,7 @@ Mobile phone number
 
 ## Step 3 of 4:  Applicant Information 
 
-### [H2] { Your / Applicant name / Applicant name } name and date of birth { Story 1, 2 & 3 }
+### [H2] { Your / Applicant / Applicant } name and date of birth { Story 1, 2 & 3 }
 
 
 First name (* Required)  
@@ -714,11 +714,13 @@ Suffix
 
 Date of Birth (* Required) 
 
+M/D/Y
+
 { Buttons } Back / Continue
 
 ------------------
 
-### [H2] { Your / Applicant name / Applicant name } identification information { Story 1, 2 & 3 }
+### [H2] { Your / %%applicant's name%% / %%applicant's name%% } identification information { Story 1, 2 & 3 }
 
 
 Social Security number  (* Required)  
@@ -791,7 +793,7 @@ Depending on your response, additional documentation may be required to determin
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
 
-Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
@@ -829,7 +831,7 @@ Depending on your response, additional documentation may be required to determin
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
 
-Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
@@ -858,7 +860,7 @@ What's { your / %%applicant's name%% } relationship to the sponsor?  (* Required
 
 What's is your relationship to %%applicant's name%% (* Required)
 
-> (Error msg) You must select at least one relationship, so we can process your enrollement.
+> (Error msg) You must select at least one relationship, so we can process your enrollment.
 
 ( ) %%applicant's name%% is my spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
@@ -879,13 +881,14 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 ### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
 
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
 { Are you / Is %%applicant's name%% / Is %%applicant's name%% } enrolled in Medicare (* Required)
 
 ( ) Yes, { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+
 ( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is } over 65 and  not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
 
 ( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is  } under 65 and not eligible for Medicare  
@@ -901,15 +904,15 @@ We will need you to mail copies of these documents to the CHAMPVA office after y
 
 ### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } Medicare Status (continued) { Story 1, 2 & 3 }
 
-What's parts of Medicare { are you / is %%applicant's name%% / is %%applicant's name%% } enrolled in. (* Required)
+What parts of Medicare { are you / is %%applicant's name%% / is %%applicant's name%% } enrolled in. (* Required)
 
 { hint text } You can select more than one. 
 
-( )  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+- [ ]  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
 
-( ) { I'm / %%applicant's name%% is / %%applicant's name%% is }  enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+- [ ] { I'm / %%applicant's name%% is / %%applicant's name%% is }  enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
 
-( )  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+- [ ]  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
 { Buttons } Cancel adding applicant / Back / Continue
 
@@ -959,7 +962,7 @@ Are there any other applicants to add? (*Required)
 
 { if applicants to add loop }
 
-### [H2]  %%applicant's name%%'s name and date of birth
+### [H2]  Applicant name and date of birth
 
 
 First name (* Required)  
@@ -992,10 +995,14 @@ Does %%applicant's name%% have the same address as another person listed in the 
 
 { dropdown }
 
-- No %%applicant's name%% has a different address then others listed in this application 
+- No %%applicant's name%% has a different address then others listed in this application
+
 - Yes, %%applicant's name%% has the same address as the sponsor  { if sponsor is living }
+  
 - Yes, %%applicant's name%% has the same address as { %%applicant's name%% 1 }
+  
 - Yes, %%applicant's name%% has the same address as { %%applicant's name%% 2 }
+  
 - Yes, %%applicant's name%% has the same address as { %%applicant's name%% 3 }
  
 { end dropdown ]
@@ -1047,7 +1054,7 @@ Depending on your response, additional documentation may be required to determin
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
 
-Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
  
@@ -1082,7 +1089,7 @@ Depending on your response, additional documentation may be required to determin
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
 
-Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
@@ -1114,7 +1121,7 @@ Depending on your response, additional documentation may be required to determin
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
 
-Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
@@ -1137,15 +1144,15 @@ Detailed instructions on how to mail those documents will be displayed after you
 
 ### [H2] %%applicant's name%%’s Medicare status (continued)
 
- What's parts of Medicare is %%applicant's name%% enrolled in? (* Required)
+ What parts of Medicare is %%applicant's name%% enrolled in? (* Required)
 
  { hint text } You can select more than one.
 
-( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+- [ ] %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
 
-( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+- [ ] %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
 
-( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+- [ ] %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
 { Buttons } Cancel adding applicant / Back / Continue
 
@@ -1164,7 +1171,7 @@ Depending on your response, additional documentation may be required to determin
 
 We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
 
-Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
@@ -1224,7 +1231,7 @@ Are there any other applicants to add? (*Required)
 
 <summary>Signer information</summary>
 
-{ add summmary here }
+{ add summary here }
 
 </details>
 
@@ -1232,7 +1239,7 @@ Are there any other applicants to add? (*Required)
 
 <summary>Sponsor information</summary>
 
-{ add summmary here }
+{ add summary here }
 
 </details>
 
@@ -1240,7 +1247,7 @@ Are there any other applicants to add? (*Required)
 
 <summary>Applicant information</summary>
 
-{ add summmary here }
+{ add summary here }
 
 </details>
 
@@ -1335,7 +1342,7 @@ Before your enrollment submission is complete you must mail in these supporting 
 
 - { if checked The applicant is the sponsor's child add %%Copy of birth certificate (required)%% } 
 
-- { if checked The applicant is my childadd %%Copy of birth certificate (required)%% } 
+- { if checked The applicant is my child add %%Copy of birth certificate (required)%% } 
 
 - { if checked The applicant is the sponsor's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
@@ -1373,7 +1380,7 @@ Before your enrollment submission is complete you must mail in these supporting 
 - { if checked I / the applicant was the sponsor's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% } 
 - { if checked The applicant is the sponsor's child add %%Copy of birth certificate (required)%% } 
 
-- { if checked The applicant is my childadd %%Copy of birth certificate (required)%% } 
+- { if checked The applicant is my child add %%Copy of birth certificate (required)%% } 
 
 - { if checked The applicant is the sponsor's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
@@ -1445,7 +1452,7 @@ You can print this confirmation page for your records
 | Y | radio | Did the applicant's sponsor pass away on active military service? | custom | | Select a response | |
 | Y | radio | Does your sponsor have a current mailing address? | custom | | Select a response | |
 | Y | radio | Do you have a current mailing address? | custom | | Select a response | |
-| Y | radio | Does the applicaan't sponsor have a current mailing address? | custom | | Select a response | |
+| Y | radio | Does the applicant's sponsor have a current mailing address? | custom | | Select a response | |
 | Y | radio | Does your sponsor have a phone number? | custom | | Select a response | |
 | Y | radio | Do you have a phone number? | custom | | Select a response | |
 | Y | radio | Does the applicant's sponsor have a phone number? | custom | | Select a response | |
