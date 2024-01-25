@@ -114,6 +114,7 @@ We were able to see the errors occuring in Staging on the previous day, which le
 - `2024-01-24 @ 11:15 AM ET`: All 10-10EZ and 10-10EZR forms that were still in a retry cycle were successfully retried
 - `2024-01-24 @ 01:59 PM ET`: The contact information for all five (5) Veterans that were impacted by this issue wwas sent to the Health Eligibility/Enrollment center
 - `2024-01-24 @ 01:40 PM ET`: Joshua Faulkner responded that there were no issues seen on the VES side, although they can see the gap in submissions from 6PM ET 1/23 to 11AM ET 1/24.
+- `2024-01-25 @ 11:07 AM ET`: Sent follow up email to HEC requesting acknowledgment of receiving the Veteran contact info and will be reaching out.
 
 ## Contributors
 
