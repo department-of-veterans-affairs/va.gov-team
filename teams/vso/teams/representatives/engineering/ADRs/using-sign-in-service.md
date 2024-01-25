@@ -30,7 +30,7 @@ We have descided to move forward with the sign-in service for a few main reasons
 
 Since we will have our app on a subdomain and will need to appear visually distict from VA.gov we would need to configure the SAML authentication to work on our
 subdomain if we were to use it. The sign-in service will work in conjunction with our subdomain with a similar amount of configuration however the configuration needed
-can be poerformed by our team instead of an external team.
+can be performed by our team instead of an external team.
 
 **** Sign-in service is more future-proof
 
