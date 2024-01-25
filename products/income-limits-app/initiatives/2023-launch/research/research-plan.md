@@ -75,7 +75,7 @@ We will conduct **semi-structured interviews** to guide Veterans through a chron
 Sessions will be conducted over Zoom, and we would like **Zoom transcripts please**. Plus, we would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them.
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/research/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/initiatives/2023-launch/research/conversation-guide.md)
 	
 ## Recruitment	
 ### Recruitment criteria
