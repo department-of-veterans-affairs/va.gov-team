@@ -13,7 +13,7 @@ Send Veterans notifications when there is a login to their account under what mi
 ## Problem Statement: 
 If we send a Veteran notification about a login that they did not initiate, it can serve as an early warning sign of unauthorized access or a security breach.
 
-One of our OKRs reducing the time to detect fraud by 10%, and by notifiying Veterans of unusual logins, they can help identify fraud much earlier than they have been able to previously. 
+One of our 2024 OKRs is reducing the time to detect fraud by 10%, and by notifiying Veterans of unusual logins, they can help identify fraud much earlier than they have been able to previously. 
 
 In addition, Veterans can take immediate steps, such as changing passwords, reviewing account activity, or contacting the VA, in order to secure their accounts and prevent further unauthorized actions. Eventually, we can allow them to lock their accounts.
 
