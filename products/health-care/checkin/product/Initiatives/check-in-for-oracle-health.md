@@ -62,8 +62,10 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 - Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
      
 ## Questions 
-- Does IVC want VeText to check for insurance update? - answer is no
+- Does IVC want VeText to check for insurance update?
+    - Answer: No
 - How are we sending the arrived status to OH? (via MAP services?, VeText?)
+    - Answer: we will pursue setting the status via a vets-api call that interfaces with CES
 
 ## Workflows
 
