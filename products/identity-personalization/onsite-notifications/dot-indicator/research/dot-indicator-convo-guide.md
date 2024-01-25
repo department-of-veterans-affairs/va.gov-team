@@ -1,5 +1,5 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator, January 2024
-- [ ] __Make sure password has been changed from previous session for staging account__
+- [ ] __Make sure Codepen pages are accessible__
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
 
@@ -33,28 +33,44 @@ Before we start, a few things I want to mention:
 
 ## Research goal: Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. - 15-20 minutes
 
-Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the link I've shared with you in Zoom chat, and then for you to share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat. 
 
 - *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
 - *If they don't mention the indicators* Go to the Health care section. 
 
-- _*For colorblind participants* Do you have any trouble seeing the dot or the badge with the number in it? What color do they appear to be to you?
+- *For colorblind participants* Do you have any trouble seeing the dot? What color do they appear to be to you?
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblindness standpoint?
 
 - *For magnicifcation participants - observe if they seem to notice links off to the right on desktop without being prompted. If they don't, direct them to where they are located*
 
 *for colorblind participants - don't use the word red*
-- What do you think each of these red indicators mean?
+- What do you think each of these *red* dot indicators mean?
 
-- How do you think each of these red dots would disappear? What about the badge with the number in it?
+- How do you think each of these dots would disappear? 
 
-- What would you expect to see if you clicked the link that says "Request travel reimbursement" and it has a red dot next to it?
+- What would you expect to see if you clicked the link that says "Go to your inbox" when it has a red dot next to it?
 
-- What would you expect to see if you clicked "Get your VA medical records and lab and test results" and it has a red dot next to it?
+- What would you expect to see if you clicked "Get your VA medical records and lab and test results" when it has a dot next to it?
 
-- Is there anywhere on this view of the website that we're looking at now where you expect to see a red notification like this but you don't?
+- Is there anywhere on this view of the website that we're looking at now where you expect to see a *red* dot notification like this but you don't?
+
+
+__Move on to badge indicator__
+
+Okay, I'm now going to share with you another link in Zoom chat that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
+
+*User shares screen*
+
+What stands out to you first?
+- *For colorblind participants* Do you have any trouble seeing the badge with the number in it? *If it's not clear whether they can or not* Can you read the number in it?
+
+What do you think the badge with the number in it means?
+
+What would you expect to see if you clicked "Refill and track your prescriptions" when it has this numbered badge next to it?
+
+How do you think badge with the number in it would disappear?
 
 ## Thanks and Closing - 2 minutes
 
