@@ -36,10 +36,10 @@ Crew: Health Tools crew
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Implement a monitor on HTTP calls to es_backend at the fwd proxy/Add Alerts | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74405) and [10-10 Health Apps - 74406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74406)|
-|... Look into the conditions and add a spec that fails with these conditions | TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team)    | TBD|
 |Create monitors and filtered logs to prevent large errors from going unnoticed| TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | TBD|
 | Look into 500s that appeared in staging, potentially adding alerts for staging errors like this | Data Analytics Work | [@1010-health-apps](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [10-10 Health Apps - 74411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74411)|
-
+|External service outage monitors in staging and prod (will be up later today 1/25) | TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team)    | TBD|
+|The backend engineers are gathering error trends and logs. These tools will make it easy for developers to monitor their changes after deployment in all environments. | TBD | [@vfs-platform-support](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team)    | TBD|
 
 ## Root Cause Analysis
 
@@ -69,7 +69,8 @@ The gem savon was upgraded. This update impacted how SOAP requests were throwing
 - Broadcast why manually changing a VCR cassette is a major risk to as many backend developers as possible (both platform and VFS).
 - Consider adding a check to the CI pipeline to detect manual changes to VCR cassettes, for extra scrutiny (one indication is that the Date header is unchanged, indicating the VCR cassette was not actually re-recorded). I don't know if this one is worth the implementation effort.
 - Overall, lack of ability to re-record VCR cassettes is a systemic risk to vets-api - consider a larger backlog item to make this a more feasible routine maintenance item. (For reference, the HCA cassettes were recorded in 2017)
-
+- External service outage monitors in staging and prod (will be up later today 1/25).
+- The backend engineers are gathering error trends and logs. These tools will make it easy for developers to monitor their changes after deployment in all environments.
 
 ## Resolution
 
