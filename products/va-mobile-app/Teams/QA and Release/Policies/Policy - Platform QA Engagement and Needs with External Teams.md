@@ -18,17 +18,19 @@ Intent is to identify and describe how Veteran Affairs Health and Benefits App (
 - What is the role and responsibility of Mobile POs when the External POs
 - What expectations are Mobile POs communicating with potential external teams
 - What kind of stakeholder management is involved with QA and Release \
- - Who owns the code during production and when they leave
-    - QA and Release should not be expected to manage new code as we do not do that today for Flagship 
+- Who owns the code during production and when they leave
+    - QA and Release should not be expected to manage new code as we do not do that today for Flagship
+- What happens if the team is not ready by date sit - rarely have we seen Teams meet specific deadlines   
   
 ## Ideal process
 - External team has a project idea for Mobile
-   - Review Mobile documentation to understand QA and Release expectations, requirements and limitation (analytic testing) - (meeting could occur for this)
-- External team prioritized the work
+   - Review Mobile documentation to understand QA and Release expectations, requirements and limitation (analytic testing)
+   - Or external team sets meeting with Mobile QA 
+- External team prioritized the work in their work stream 
    - External PM contacts VAHB PM on pipeline and prioritization conversations
      - Understand initial sizing and complexity of the work in the pipeline  
    - External team include QA and Release expectations in their project plan / build 
-- External team communicates to VAHB PO when they are ready for Mobile
+- External team communicates to VAHB PO to prioritize the work in Mobile and is added accordingly to a work pipeline
 - When work is Prioritized QA reaches out to External Team 
    - Kickoff meeting between teams
      - External teams shares project details so QA tester has knowledge of the feature which is helpful in testing
@@ -67,7 +69,17 @@ Intent is to identify and describe how Veteran Affairs Health and Benefits App (
              - Share their product documentation (brief, timeline, specific needs) so Mobile has some awareness 
              - Share PO contacts
 - Prioritization
-    - Mobile POs prioritize external request within existing pipeline           
+    - Mobile POs prioritize external request within existing pipeline
+- QA requirements
+-   - Test plan is written and completed 
+     - Reviews unit test
+     - Reviews e2e testing
+     - Accessibility testing 
+     - Updates test rails
+     - Update testrails
+     - Complete manual testing
+     - Documents bugs / findings
+- QA limitations 
 - Post prioritization engagement
     - Team kickoff / introduction 
       - Project review by external team 
