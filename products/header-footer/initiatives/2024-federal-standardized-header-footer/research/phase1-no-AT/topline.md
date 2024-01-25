@@ -2,8 +2,8 @@
 
 *Cindy Merrill, Sitewide Public Websites team, January 3, 2024*
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
 
 This topline summary is a preliminary summary of research findings observed in the research sessions. The purpose is to share what was learned in the sessions before the holiday break and transition to planning Phase 2 of the research with assistive technology users.
 

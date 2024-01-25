@@ -11,7 +11,7 @@
 
 1. **Finding:** Both the [Health Wayfinding Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study) and the [Landing Page User Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-04-landing-page-readout.md) observed that participants using mobile devices or mobile prototypes struggled or were unable to locate the My Health_e_Vet tab that linked users to the MHV landing page (same on desktop during Landing Page study). In the current experience, the My Health_e_Vet tab and My VA tab are housed in the Authenticated Menu, thereby obscuring them from view unless this dropdown is enabled by users.
 
-![a screenshot of prototype tested](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/images/MHV-study-auth-menu.PNG)
+![a screenshot of prototype tested](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/images/MHV-study-auth-menu.PNG)
 
 
 **P Quote:**"Let's click on the menu and see what options it gives us. It should give me overview of everything that's available."

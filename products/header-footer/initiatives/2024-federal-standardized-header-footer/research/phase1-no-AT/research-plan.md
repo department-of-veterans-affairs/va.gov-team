@@ -5,7 +5,7 @@ OFCIO and GSA (USWDS) designed a new federal standardized header and footer in a
 
 Initial research will test with Veterans and beneficiaries to validate that it can be successfully adopted with minimal to no negative impact to site visitors.  
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer)
 
 [Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/447)
 
@@ -74,20 +74,20 @@ There will be 2 phases of research:
   - Both desktop and mobile users 
   - 2 Figma prototypes (mobile and desktop) 
   - 60-minute sessions 
-  - [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT)
+  - [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT)
 
 - **Phase 2: Assistive technology users** 
   - Both desktop and mobile users 
   - 1 coded prototype that's accessible and responsive (CodePen likely) 
   - 90-minute sessions 
-  - [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer/research/phase2-AT)
+  - [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT)
 
 NOTE: We will consult with AuthExp team to have them lead usability testing for authenticated menu as a Phase 3.  
 
 ## Phase 1 (Non-assistive tech) ONLY below...
 
 ### Research materials
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
 - Links to prototypes: [Smartphone](https://bit.ly/3RJL5vb), [Desktop/tablet](https://bit.ly/3t6rbRt)
 - [Mural notetaking board TBD]()
 	

@@ -127,7 +127,7 @@ OFCIO’s goals with this work:
 ## Screenshots
 
 See initiative design folder
- - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer/design
+ - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/design
 
 ---
 

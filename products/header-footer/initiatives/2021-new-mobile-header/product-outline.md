@@ -21,7 +21,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 **If** we implement a mobile optimized sitewide header **then** we will increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.
 
-Reference [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/new-mobile-header/Initiative%20Briefing.md) for more details.  
+Reference [VA.gov Mobile Header Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md) for more details.  
 
 
 ## What We Know
