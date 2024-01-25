@@ -68,7 +68,5 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 ## Workflows
 
 ### Veteran Workflow
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/70ef3cf1-5709-4dfa-9a70-ab90d3812904)
+[FINAL TECH NOTES_ WORKING DRAFT of PCI Oracle Cerner Integration Pre-Check-In and E-Check-In Workflows v.01_KL (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14054574/FINAL.TECH.NOTES_.WORKING.DRAFT.of.PCI.Oracle.Cerner.Integration.Pre-Check-In.and.E-Check-In.Workflows.v.01_KL.1.pdf)
 
-### MSA Workflow
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1b973b57-1689-4c6c-a7da-3a6f01f157c3)
