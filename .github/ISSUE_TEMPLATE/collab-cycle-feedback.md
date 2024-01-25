@@ -15,7 +15,7 @@ assignees: ''
   - If the Platform reviewer has any **Thoughts/Questions** that require responses.
   - When **Must** feedback has been incorporated. As appropriate, link to any other GitHub issues or PRs related to this feedback.
   - When **Should/Consider** feedback has been incorporated, or if any feedback will not be addressed. As appropriate, link to any other GitHub issues or PRs related to this feedback.
-- [ ] **Questions?** For the most timely response, comment on Slack in your team channel tagging `@platform-governance-team-members` with any questions or to get help validating the issue.
+- [ ] **Questions?** For the most timely response, comment on Slack in your team channel tagging `@platform-governance-team-members`.
 - [ ] **Close the ticket** when all feedback has been addressed.
 
 ## Thoughts/questions
