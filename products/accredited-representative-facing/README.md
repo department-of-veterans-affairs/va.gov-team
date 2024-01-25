@@ -4,7 +4,7 @@ The Accredited Representative Facing (ARF) team is a part of the Accredited Reps
 
 ## Mission
 
-In partnership with our Accredited Representative users, we are dedicated to crafting a digital Veteran representation management platform that is not only accessible and user-friendly but also secure, introducing digital forms to streamline processes and positively enhance the VA experience for Veterans.
+We will create an accessible, modern, secure online system that Accredited Reps are comfortable using that will increase the use of digital forms and make a faster and smoother experience, improving Veterans' VA experience.
 
 ## Product Resources
 
