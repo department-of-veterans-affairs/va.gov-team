@@ -73,7 +73,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[CHIP] SPIKE - Research new cerner payload from vetext](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73636)
         - ❗ 🟦 [[BE] Spike on Mobile Profile Service to call VA Profile using MAP token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73685)
         - ❗ 🟦 [[BE] Spike on API to set arrived status in cerner appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73688)        
-        - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
+        - ✔️ ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - ❗ 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)                      
 - **GOAL: Address Usage Issues**
