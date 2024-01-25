@@ -26,7 +26,7 @@ For this first iteration, the focus will be on:
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
-| ------------- |:-------------:| -----:|
+| :------------- |:------------- | :----- |
 |Other Team | How to explain what is needed  | Standardized intake form will allow proper explanation  |
 |Our Team | What work are we doing?  | Summation of the work |
 |Other Team | When will we be finished?  | Estimation of the the work |
