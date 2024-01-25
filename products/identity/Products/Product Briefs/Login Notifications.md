@@ -6,7 +6,7 @@ Send Veterans notifications when there is a login to their account under what mi
 * Unusual Account Activity
 * Password Reset Requests
 * Changes to Security Settings
-* Logins From High-Risk Locations
+* Logins From new or high-risk Locations
 
 
 
@@ -22,23 +22,27 @@ In addition, Veterans can take immediate steps, such as changing passwords, revi
 
 ## What's In Scope: 
 For this first iteration, the focus will be on email notifications.
-* 
 
 ## Out of Scope: (for this iteration)
 * Locking accounts
 * Opt-in to other kinds of notifications
-* These kind of notifications do not already exist
-* * If they exist, then we can set up a configuration not to trigger an email for those cases
+
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
 | ------------- |:-------------:| -----:|
-| |   |   |
+|Veteran |New device login could be fraudulent |Gives Vet a notification and course of action  | 
+|Veteran |Unusual Account activity (TBD) |Gives Vet a notification and course of action  |
+|Veteran |Password reset request could be fraudulent |Gives Vet a notification and course of action  | 
+|Veteran |Security setting request could be fraudulent |Gives Vet a notification and course of action  |
+|Veteran |Login from new or high-risk location could be fraudulent |Gives Vet a notification and course of action  |
 
 ## Assumptions:
 * We can detect logins matching each of the Use Cases above
 * We can leverage the work already done by the [va-notify team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#playbook)
-
+* These kind of notifications do not already exist
+  * If they exist, then we can set up a configuration not to trigger an email for those cases
+    
 ## Solution Approach: 
 * 
   
