@@ -31,27 +31,16 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
     - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
-- Veteran will be asked to verify their personal, emergency, and next-of-kin contact information while checking in for an OH appointment
-    - **We will retrieve contact information (personal, emergency, & next-of-kin) from the VA Profile Contact and Profile services via MAP instead of from Vista**
-    - **If the Veterans answers 'Y' to all 3 contact verification questions**
-        - For OH appointments
-            - **We will update a single timestamp for the personal contact database record in VA Profile**
-        - For Vista appointments
-            - **We will update a single timestamp for the personal contact database record in VA Profile**
-            - **Per current functionality, we will update the 3 timestamps & 3 verified flags for personal, emergency, & next-of-kin contact database records in Vista based on the responses**
-    - **If the Veteran answers 'N' to any of the 3 contact verification questions**
-        - For OH appointments
-           - **We will NOT update any timestamps in VA Profile**
-           - **Per current functionality, We will instruct the Veteran to check in with staff**
-        - For Vista appointments
-          - **We will NOT update any timestamps in VA Profile**
-          - **Per current functionality, we will update the 3 timestamps & 3 verified flags for personal, emergency, & next-of-kin contact database records in Vista based on the responses**
-          - **Per current functionality, We will instruct the Veteran to check in with staff**
+- Veteran will NOT be asked to verify their demographics
+    - **Vista appts - we will still ask to verify**
 - Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
-- Veteran can complete check in
+- Veteran will be asked to "check in
     - For OH appointments
-        - **We will send a status update to OH to let staff know the Veteran has arrived for their OH appointment**
+        - **We will submit their travel claim**
+        - **We will tell the tell the Veteran to go to the desk when they get to the waiting room**
+        - **We will NOT send a status update to OH** (not resolved)
     - For Vista appointments
+        - **We will submit their travel claim**
         - **Per current functionality, we will send a status update to Vista that the Veteran has completed the check-in process**
 
 ### Not Included in the MVP
