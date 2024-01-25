@@ -1,5 +1,4 @@
-# THIS DOCUMENT IS A WORK IN PROGRESS
-___________________
+## _THIS DOCUMENT IS IN PROGRESS_
 
 Goal: To document and standardize words that show up often in forms. 
 
