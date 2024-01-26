@@ -10,7 +10,7 @@ Date | Time | Participant | Assistive Technology | Observer 1 | Observer 2
 ------------------|--------------|---------|----------|-----|------
 Jan 29, 2024 | 12-1:30 pm ET | P1 Veteran  |Screen reader/JAWS (computer)| OPEN | OPEN 
 Jan 29, 2024 | 3:30-5 pm ET | P2 Veteran  |Screen reader/Vision (computer)| Amanda Klausmeier | OPEN
-Jan 30, 2024 | 12-1:30 pm ET | P3 Veteran  |Screen reader/Magic (computer) | OPEN | OPEN 
+Jan 30, 2024 | 12-1:30 pm ET | P3 Veteran  |Screen magnifier/Magic (computer) | OPEN | OPEN 
 Jan 30, 2024 | 3:30-5 pm ET | P4 Veteran  |Screen Magnifier/increase zoom in the browser up to 160%; ZoomText (smartphone) | OPEN | OPEN 
 Feb 1, 2024 | 3:30-5 pm ET | P6 Veteran and family member | Screen Magnifier/Zoom Text (computer)| Jill Adams | OPEN
 Feb 2, 2024 | 12-1:30 pm ET | P7 Veteran  | Screen reader/VoiceOver (smartphone)| Amanda Klausmeier | OPEN 
