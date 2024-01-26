@@ -1,7 +1,8 @@
 # Conversation Guide for Authenticated Experience, Authenticated Menu, January 2024
 
 ## Moderator logistics
-- [ ] Update participants name in prototype
+- [ ] Update participants name in [dynamic data file](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
+- [ ] Update participants name in [Auth mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704919248748/7c3f93534f193882990dbdb152b902b2755dc176?sender=ub868d471cfdb1c56cc0b4512)
 - [ ] Post in #feedback-backchannel 
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - [ ] Check your [screensharing setup] and share permissions for participants.
@@ -52,7 +53,11 @@ Great, I can see your screen. Next, I’ll have you pull up the prototype. Would
 Prototype link: [https://cdpn.io/pen/debug/JjzNWbR](https://cdpn.io/pen/debug/JjzNWbR)
 *Guide participant to prototype. Prototype will start on the unauthenticated version of the life insurance page.*
 
-Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  
+Excellent, I can see the prototype on your screen.  
+
+Just as a reminder, since this is a prototype, not everything is clickable or fully functional. We’re using a tool called CodePen for the prototype, so you might encounter that word as you go through the screens.
+
+It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  
 
 First, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
 
