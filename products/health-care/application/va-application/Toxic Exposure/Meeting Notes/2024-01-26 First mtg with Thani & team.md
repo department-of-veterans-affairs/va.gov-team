@@ -23,7 +23,7 @@
 
 - Teams will continue to sync as we learn more, and ensure we are aligned in development and delivery
 
-## Email from Thani to HEC team regarding delivery date (sent right after our meeting with them)
+## Email from Thani to their leadership team regarding delivery date (sent right after our meeting with them)
 >Good Morning/Afternoon,
 >
 >I wanted to reach out around one of the requirements for PACT Act 103. We had a change request in our backlog to ingest the data from the updated 1010EZ/EZR forms into VES when the new forms are published (specific to TERA updates) and va.gov is updated. This requirement was prioritized for a July Release. Wednesday this week, Member Services reached out and requested that this change request be added to our March release.
