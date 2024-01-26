@@ -1,3 +1,12 @@
+---
+name: ARF Engineering Bug Issue
+about: Bug issues for the ARF Engineering team
+title: ''
+labels: 'accredited-rep-facing', 'arf-eng'
+assignees: ''
+
+---
+
 ### Description
 <!-- A brief description of the bug -->
 
