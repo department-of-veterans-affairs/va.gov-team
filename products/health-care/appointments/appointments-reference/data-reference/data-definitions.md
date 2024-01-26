@@ -38,6 +38,34 @@ Instructions on how to join a telehealth appointment.
 
 Instructions on anything the Veteran is expected to do before the appointment. 
 
+##### Instructions: Telehealth Visit
+
+VAOS displays these instructions via `comment` field for `home video` and `atlas` appointments. The `comment` field contains instructions passed from VVC. Right now, VAOS only accepts/support 2 types of instructions ('Video Visit Preparation' & 'Medication Review' instructions) due to limitations in the way data is passed to us in that field. 
+
+##### Video Visit Preparation - Video at home
+
+```
+Before your appointment:
+- If you're using an iPad or iPhone for your appointment, you'll need to download the VA Video Connect iOS app (https://itunes.apple.com/us/app/va-video-connect/id1224250949?mt=8) beforehand. If you're using any other device, you don't need to download any software or app before your appointment.
+- You'll need to have access to a web camera and microphone. You can use an external camera and microphone if your device doesn't have one.
+
+To connect to your Virtual Meeting Room at the appointment time, click the "Join session" button on this page or the link that's in your confirmation email.
+
+To have the best possible video experience, we recommend you:
+- Connect to your video appointment from a quiet, private, and well-lighted location
+- Check to ensure you have a strong Internet connection before your appointment
+- Connect to your appointment using a Wi-Fi network if using your mobile phone, rather than your cellular data network
+
+```
+
+##### Medication Review - ATLAS
+
+```
+Medication review
+During your video appointment, your provider will want to review all the medications, vitamins, herbs, and supplements you're taking — no matter if you got them from another provider, VA clinic, or local store.
+Please be ready to talk about your medications during your video visit to ensure you're getting the best and safest care possible.
+```
+
 #### Location Address
 
 Two-line address for the VA facility or clinic where the appointment is scheduled.
