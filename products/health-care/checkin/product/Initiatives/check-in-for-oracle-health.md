@@ -43,7 +43,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
     - For OH appointments: "Let staff know they've arrived & travel claim being processed"
         - **We will submit their travel claim**
         - **We will tell the Veteran to go to the desk when they get to the waiting room**
-        - **We will set the status based on the answer to the "at the facility" question**
+        - **We will set the patient status in OH based on the answer to the "are they at the facility" question**
             - If answer is "Yes"
                 -  **We will set the status to 'Arrived'**
             - If answer is "No"
