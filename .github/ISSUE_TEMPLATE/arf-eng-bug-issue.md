@@ -1,5 +1,5 @@
 ### Description
-A brief description of the bug
+<!-- A brief description of the bug -->
 
 ### Steps to Reproduce
 1. 
@@ -7,13 +7,13 @@ A brief description of the bug
 3. 
 
 ### Expected vs Actual Behavior
-What you expected to happen vs what actually happened
+<!-- What you expected to happen vs what actually happened -->
 
 ### Severity
-Severity level of the bug (low, medium, high)
+<!-- Severity level of the bug (low, medium, high) -->
 
 ### Screenshots/Logs
-Attach any relevant screenshots or logs
+<!-- Attach any relevant screenshots or logs -->
 
 ### Acceptance Criteria
 - [ ] Identified the cause of the bug
