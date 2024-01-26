@@ -32,16 +32,23 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
     - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
     - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
 - Veteran will be asked if they are "at the facility"
-     - **Veteran will see different messagin based on if they answer yes or no**
+     - If answer is "Yes"
+        -  **We will set the status to 'Patient Confirmed'**
+     - If answer is "No"
+        - **We will NOT set the status**
 - Veteran will **NOT** be asked to verify their demographics
     - **For Vista appts - we will still ask to verify**
 - Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
-- Veteran will be asked to "check in
-    - For OH appointments
+- Veteran can complete the process
+    - For OH appointments: "Let staff know they've arrived & submit travel claim"
         - **We will submit their travel claim**
         - **We will tell the Veteran to go to the desk when they get to the waiting room**
-        - **We will NOT send a status update to OH** (not resolved)
-    - For Vista appointments
+        - **We will set the status based on the answer to the "at the facility" question**
+            - If answer is "Yes"
+                -  **We will set the status to 'Arrived'**
+            - If answer is "No"
+                - **We will NOT set the status**
+    - For Vista appointments: "Check in Now"
         - **We will submit their travel claim**
         - **Per current functionality, we will send a status update to Vista that the Veteran has completed the check-in process**
 
