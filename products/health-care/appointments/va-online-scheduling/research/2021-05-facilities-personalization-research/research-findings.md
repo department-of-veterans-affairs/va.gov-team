@@ -27,9 +27,13 @@ In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2J
 
 <video src="images/preferred-facility-prototype-scenario-1.mp4" controls title="Scenario 1 prototype video"></video>
 
+https://www.github.com/workspaces/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/images/preferred-facility-prototype-scenario-1.mp4
+
 In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
 
 <video src="images/preferred-facility-prototype-scenario-2.mp4" controls title="Scenario 2 prototype video"></video>
+
+https://www.github.com/workspaces/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/images/preferred-facility-prototype-scenario-1.mp4
 
 The rest of the tasks were the same for both scenarios:
 
@@ -272,7 +276,7 @@ In VAOS, Veterans seeking health care at their regular clinic would find some va
 
 Some participants expected to be able to click on a facility in their profile list and send a secure message directly to that provider, and thought that would be useful.
 
-When a Veteran splits their time between two locations they often have one Primary care doctor at their "home" location, and other doctors at their alternate location. The participants we spoke to who traveled for work, or traveled to different locations for part of the year expected that VA would know about their location preferences and update which facilities are available to them accordingly.  They also stated saving facilites in anticipation of travel would be valuable. It wasn't clear to them why they would only see facilities where they had previously established care.
+When a Veteran splits their time between two locations they often have one Primary care doctor at their "home" location, and other doctors at their alternate location. The participants we spoke to who traveled for work, or traveled to different locations for part of the year expected that VA would know about their location preferences and update which facilities are available to them accordingly.  They also stated saving facilities in anticipation of travel would be valuable. It wasn't clear to them why they would only see facilities where they had previously established care.
 
 > \[Anything helpful about what you saw today?\] Yeah, possibly when I travel, it would be useful, because when I'm at home I use the laptop and I don't have to worry about jumping through hoops on the phone and it's easier to print what I need. but if I'm on the road, and I have to find a different facility for some reason, it would be useful. And I travel a lot.
 
@@ -379,7 +383,7 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 ## Resources
 
 - [VAOS product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/README.md)
-- [Profile preferred facilites product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
+- [Profile preferred facilities product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
 - [Research plan](research-plan.md)
 - [Conversation guide](conversation-guide.md)
 - Prototypes
