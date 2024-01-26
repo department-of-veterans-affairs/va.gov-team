@@ -1,1 +1,129 @@
 
+# Product Outline Accredited Rep Facing
+
+---
+
+## Overview
+We will create a site for accredited representatives hosted on va.gov yet visually distinct where VSOs are able to accept or reject representation requests from form 2122.
+
+## Problem Statement
+The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site, or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
+
+HOw might we digitize the 2122 and host it on a more modern site.
+ 
+## Desired User Outcomes
+
+The site is easy to use
+The site increases the number of claims accepted or rejected digitally
+Representative begin to use and trust the site
+Representives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
+
+## Undesired User Outcomes
+Representatives find the site too confusing or ineffiencent
+
+## Desired Business Outcomes
+Increased use of digital forms which is a current OCTO priority
+Decrease in forms that are unanswered or unresponded to
+
+## Undesired Business Outcomes
+
+
+---
+## Measuring Success
+
+
+### Key Performance Indicators (KPIs)
+Increased use of digital acceptance of forms
+significantly positive customer feedback
+decrease in time between when a VSO accepts a 2122 and when the rep can access Veteran's records
+
+
+
+### Objectives and Key results (OKRs)
+
+- Objective:
+  - The majority of  
+  - Key result: 
+
+
+---
+
+## Assumptions
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+
+## Solution Approach
+
+- *What are you going to build now, and why have you decided to start there?*
+- *Why this solution / approach over other solutions / approaches?*
+- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
+- Initiative | [Link to Initiative Brief](#)
+
+--- 
+
+## Launch Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+  - tbd
+
+---
+
+## Solution Narrative
+
+### Current Status
+
+### Key Decisions
+
+---
+   
+## Screenshots
+
+### Before
+
+### After
+
+---
+
+#### Communications
+
+<details>
+
+- Team Name: 
+- GitHub Label: 
+- Slack channel: 
+- Product POCs:
+- Stakeholders: 
+
+</details>
+
+#### Team Members
+
+<details>
+ 
+ - DEPO Lead: 
+ - PM: 
+ - Engineering:
+ - Research/Design: 
+ 
+</details>
+
+
+#### Stakeholders
+
+<details>
+ 
+_What offices/departments are critical to make this initiative successful?_
+ 
+</details>
