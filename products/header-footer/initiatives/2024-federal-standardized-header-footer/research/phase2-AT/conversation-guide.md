@@ -207,7 +207,7 @@ We can help guide you through this if you need help. Please say what you're doin
 
 1. Navigate to the screen share button
 
-1. Check off the "share sound" checkbox (so we can hear their screen reader speaking)
+1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
 
 1. Activate the screen share
 
