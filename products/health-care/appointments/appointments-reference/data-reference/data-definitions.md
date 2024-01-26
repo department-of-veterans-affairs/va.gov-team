@@ -35,7 +35,10 @@ Instructions on how to join a telehealth appointment.
 
 #### Instructions: Prepare for Telehealth Visit
 
-VAOS displays these instructions via `comment` field for `home video` and `atlas` appointments. The `comment` field contains instructions passed from VVC. Right now, VAOS only accepts/support 2 types of instructions ('Video Visit Preparation' & 'Medication Review' instructions) due to limitations in the way data is passed to us in that field. 
+VAOS displays these instructions via `comment` field for `home video` and `atlas` appointments. The `comment` field contains instructions passed from Virtual care Manager (VCM). Right now, VAOS only accepts/support 2 types of instructions ('Video Visit Preparation' & 'Medication Review' instructions) due to limitations in the way data is passed to us in that field.Video visit instructions from Virtual Care Manager (VCM) instructions are suppressed if the instructions are any of the following:
+  - `Message sent in MyHealtheVet`
+  - `Resources Mailed to Patient`
+  - `Signup for My HealtheVet  Message` 
 
 ##### Video Visit Preparation - Video at home
 
