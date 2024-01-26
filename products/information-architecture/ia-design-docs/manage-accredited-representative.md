@@ -76,11 +76,11 @@ Additionally, we identified a need for entry points potentially in the Profile (
 Note: the accredited rep team thinks that the current entry point plan wont provide enough access for veterans due to 2 factors: 1) 70% of claims are submitted w/ accredited rep support, which is an overwhelming majority that might need this tool [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/claims-with-representatives-analytics.xlsx) and 2) In a previous study that relied on existing navigation, only 1/10 veterans were able to find the accredited rep info [Source](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md). Given the demonstrated need and the nav study failure, they think we should bump these pages up. 
 
 Here was our IA response:
-- 1.The main menu and homepage are super political pages — there’s a lot of stakeholder review that we have to go through to add anything to those, so in general we want to be 100% sure that it belongs there.
-- 2.The typical process for new tools is to wait 3-6 months after launch to 100% of users to evaluate traffic and then determine whether the page needs to be bumped up in nav hierarchy, which we can totally do.
-- 3.One way to think about the navs, is that the left nav contains all of the pages in a hub. The hub page contains the top 10 pages by traffic in each spoke (get, manage, and more). And then the mega menu contains the top 5 pages in ‘get’ and ‘manage’.
-- 4.The fact that users are failing the nav research is important, but if 70% of claims have an accredited rep, it also means users are finding those capabilities successfully.
-- 5.So in summary, **we think we should go with the above entry point plan, and then in the 3-6 months reevaluate traffic to determine if we want to move the pages up**.
+- 1. The main menu and homepage are super political pages — there’s a lot of stakeholder review that we have to go through to add anything to those, so in general we want to be 100% sure that it belongs there.
+- 2. The typical process for new tools is to wait 3-6 months after launch to 100% of users to evaluate traffic and then determine whether the page needs to be bumped up in nav hierarchy, which we can totally do.
+- 3. One way to think about the navs, is that the left nav contains all of the pages in a hub. The hub page contains the top 10 pages by traffic in each spoke (get, manage, and more). And then the mega menu contains the top 5 pages in ‘get’ and ‘manage’.
+- 4. The fact that users are failing the nav research is important, but if 70% of claims have an accredited rep, it also means users are finding those capabilities successfully.
+- 5. So in summary, **we think we should go with the above entry point plan, and then in the 3-6 months reevaluate traffic to determine if we want to move the pages up**.
 
 
 
