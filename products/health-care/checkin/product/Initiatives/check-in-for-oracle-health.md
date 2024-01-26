@@ -40,7 +40,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
     - **For Vista appts - we will still ask to verify**
 - Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
 - Veteran can complete the process
-    - For OH appointments: "Let staff know they've arrived & submit travel claim"
+    - For OH appointments: "Let staff know they've arrived & travel claim being processed"
         - **We will submit their travel claim**
         - **We will tell the Veteran to go to the desk when they get to the waiting room**
         - **We will set the status based on the answer to the "at the facility" question**
