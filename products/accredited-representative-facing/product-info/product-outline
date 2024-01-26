@@ -5,17 +5,25 @@
 
 ## Overview
 We will create a site for accredited representatives hosted on va.gov yet visually distinct where VSOs are able to accept or reject representation requests from form 2122.
+Objectives:
+Develop a user-friendly website that enables Veteran Service Organizations (VSOs) to manage power of attorney (POA) requests from veterans efficiently.
+Ensure the site's design accommodates future expansions for additional tasks accredited representatives perform
+
 
 ## Problem Statement
 The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site (SEP), or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
 
-How might we digitize the acceptance of form 2122 and host it on a more modern site.
+How might we digitize the acceptance of form 2122 and host it on a more modern site. This is a complimennt to the ARM team's work. (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md)
  
 ## Desired User Outcomes
-
-The site is easy to use
+VSOrg is able to accept or reject a Veteran’s request for power of attorney (21-22) 
+A National VSOrg has administrative control over who can manage POA requests within their organization
+A VSOfficer with ability to accept or deny is notified when a  POA request is pending for my review 
+A VSOfficer has a secure login system to verify accreditation and identity 
+A Veteran who is a VSOfficer can be confident that they are affecting only the Veteran’s files and not their own
+A Veteran is notified whether their POA request was accepted or rejected 
 The site increases the number of claims accepted or rejected digitally
-Representative begin to use and trust the site
+Representatives begin to use and trust the site
 Representives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
 
 ## Undesired User Outcomes
@@ -26,7 +34,7 @@ Increased use of digital forms which is a current OCTO priority
 Decrease in forms that are unanswered or unresponded to
 
 ## Undesired Business Outcomes
-Representatices are unwilling to use the site, even as it expands into other uses
+Representatives are unwilling to use the site, even as it expands into other uses
 
 ---
 ## Measuring Success
