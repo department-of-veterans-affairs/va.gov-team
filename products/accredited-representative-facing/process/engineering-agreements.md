@@ -1,0 +1,44 @@
+# Engineering Agreements
+
+## Document Purpose
+
+This document serves as an agreement among ARF engineers on our collaborative working practices. It will be updated regularly based on feedback from engineering or team retrospectives, as well as on an ad-hoc basis when necessary.
+
+## Pull Requests
+
+### General Guidelines
+
+We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/code-and-build).
+
+### Draft PRs
+
+- Open draft PRs as early as possible after a sensible commit is made.
+- Draft PRs are not subject to nitpicking.
+- It’s acceptable to discuss development direction while a PR is in draft state.
+- Aim to keep code-related discussions within PRs.
+
+### Open, Ready for Review PRs
+
+#### Required Information
+
+- Link the related Zenhub issue in the PR.
+- Use the branch format: `issue-number-arf-feature`.
+- Complete relevant sections of the default PR template.
+
+#### Ownership
+
+- PRs that you initiate are your responsibility until completion.
+- Only modify others' PRs if they explicitly request it or if they've passed ownership to you (e.g., during PTO). This should be an exception, not the norm.
+- It's okay to create PRs against others' work for significant changes.
+
+### Commits
+
+- Example format: `issue-number-arf: <commit description>`.
+- Refer to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for guidance.
+- Write clear and meaningful commit messages whenever possible.
+- Remember that concise and efficient work adds more value than perfect wording in commit messages.
+- Ensure each push passes Continuous Integration (CI) tests.
+
+### Zenhub
+
+- Link PRs to the corresponding Zenhub issues if they exist.
