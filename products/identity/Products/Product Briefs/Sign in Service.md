@@ -56,4 +56,4 @@ For this first iteration, the focus will be on:
 ## Milestones:
 *Deploy to 100% of VA.gov Users
 ## Future Scope:
-* Waiting for approval to launch to Va.gov: Proposed April 2022.
+* Waiting for approval to launch to Va.gov: Proposed June 2024.
