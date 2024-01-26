@@ -20,20 +20,20 @@ We believe that if we surface only the facilities where the Veteran currently re
 
 We asked 8 Veterans how they currently select health care facilities, and had them complete tasks in a mobile InVision prototype that we expected would allow them schedule at their current facilities faster without sorting through facilities that weren't relative to them.
 
-For the prototype test, we split our eight veterans into two groups so we could test different different scenarios for wayfinding and setting preferences:  
+For the prototype test, we split our eight veterans into two groups so we could test different scenarios for wayfinding and setting preferences:  
 
 In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)), we asked participants to navigate to the profile from the VAOS facility page to manage their current facilities, then return to VAOS to finish scheduling their appointment. 
 
 
 <video src="images/preferred-facility-prototype-scenario-1.mp4" controls title="Scenario 1 prototype video"></video>
 
-https://www.github.com/workspaces/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/images/preferred-facility-prototype-scenario-1.mp4
+[Video of scenario 1](https://www.github.com/workspaces/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/images/preferred-facility-prototype-scenario-1.mp4)
 
 In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
 
 <video src="images/preferred-facility-prototype-scenario-2.mp4" controls title="Scenario 2 prototype video"></video>
 
-https://www.github.com/workspaces/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/images/preferred-facility-prototype-scenario-1.mp4
+[Video of scenario 2](https://www.github.com/workspaces/va.gov-team/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/images/preferred-facility-prototype-scenario-2.mp4)
 
 The rest of the tasks were the same for both scenarios:
 
