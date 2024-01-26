@@ -1,3 +1,12 @@
+---
+name: ARF Engineering Discovery Issue
+about: Discovery issues for the ARF team
+title: ''
+labels: 'accredited-rep-facing', 'arf-eng'
+assignees: ''
+
+---
+
 ### Description
 
 #### Key Questions
