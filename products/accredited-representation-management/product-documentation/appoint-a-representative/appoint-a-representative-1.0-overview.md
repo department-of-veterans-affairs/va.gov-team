@@ -38,7 +38,7 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
     1. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
     2. Identify how the insurance field impacts Power of Attorney
     3. Authenticated users only
- 1. Notifications
+ 1. Notifications (partner with VA Notify)
     1. Representative approved request
     1. Representative rejected request
 1. Manage requests (can the vet cancel a request)
