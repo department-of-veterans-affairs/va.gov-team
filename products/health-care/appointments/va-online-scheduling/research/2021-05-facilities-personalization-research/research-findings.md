@@ -6,13 +6,13 @@ View the [research plan](research-plan.md) and [conversation guide](conversation
 
 ## Research Goals
 
-Through this research, we sought to learn more about the Veteran mental model around scheduling and their registered health facilites, as well as evaluate the usability of a prototype that would allow Veterans to manage their health facilites. 
+Through this research, we sought to learn more about the Veteran mental model around scheduling and their registered health facilities, as well as evaluate the usability of a prototype that would allow Veterans to manage their health facilities. 
 
 The overall VAOS product goal for this work is to improve completion of the VA facility selection step. The abandonment rate for the VA facility selection page is consistently the highest in the VAOS appointment request flow. This page shows every VA facility where a Veteran has registered for care, and includes many that a Veteran has previously visited but where they no longer receive care.   
 
 We believe that if we surface only the facilities where the Veteran currently receives care, they will be able to find relevant facilities more easily and improve their chances of completing this step in the process.  
 
-![](images/vaos-steps.png)  
+![A chart showing abandonment rate at various stages through VAOS](images/vaos-'steps.png)  
 
 *Above: Chart showing facility selection page has the highest abandonment rate (33.11%) in the VAOS scheduling flow (data from request flow, April 1, 2021 - June 22, 2021)*
 
@@ -22,9 +22,13 @@ We asked 8 Veterans how they currently select health care facilities, and had th
 
 For the prototype test, we split our eight veterans into two groups so we could test different different scenarios for wayfinding and setting preferences:  
 
-In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)), we asked participants to navigate to the profile from the VAOS facility page to manage their current facilities, then return to VAOS to finish scheduling their appointment.  
+In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)), we asked participants to navigate to the profile from the VAOS facility page to manage their current facilities, then return to VAOS to finish scheduling their appointment. 
 
-In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2\. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
+![Scenario 1 prototype video](./images/preferred-facility-prototype-scenario-1.mp4)
+
+In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
+
+![Scenario 2 prototype video](./images/preferred-facility-prototype-scenario-2.mp4)
 
 The rest of the tasks were the same for both scenarios:
 
