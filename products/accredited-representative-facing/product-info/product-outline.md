@@ -11,31 +11,27 @@ Ensure the site's design accommodates future expansions for additional tasks acc
 
 
 ## Problem Statement
-The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site (SEP), or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
+The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site (SEP) or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
 
-How might we digitize the acceptance of form 2122 and host it on a more modern site. This is a complimennt to the ARM team's work. (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md)
-
+How might we digitize the acceptance of form 2122 and host it on a more modern site. This is a complement to the ARM team's work. ([Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md))
+ 
 ## Desired User Outcomes
-A Veteran Service Organization is able to accept or reject a Veteran’s request for power of attorney (21-22)
+A Veteran Service Organization is able to accept or reject a Veteran’s request for power of attorney (21-22) 
 A National Veteran Service Organization has administrative control over who can manage POA requests within their organization
-A Veteran Service Officer with ability to accept or deny is notified when a  POA request is pending for my review
-A Veteran Service Officer has a secure login system to verify accreditation and identity
+A Veteran Service Officer with the ability to accept or deny is notified when a  POA request is pending for my review 
+A Veteran Service Officer has a secure login system to verify accreditation and identity 
 A Veteran who is a Veteran Service Officer can be confident that they are affecting only the Veteran’s files and not their own
-A Veteran is notified whether their POA request was accepted or rejected
+A Veteran is notified whether their POA request was accepted or rejected 
 The site increases the number of claims accepted or rejected digitally
 Representatives begin to use and trust the site
-Representives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
+Representatives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
 
-## Undesired User Outcomes
-Representatives find the site too confusing or ineffiencent
-Representatives continue to use paper/manual forms
 
 ## Desired Business Outcomes
 Increased use of digital forms which is a current OCTO priority
 Decrease in forms that are unanswered or unresponded to
 
-## Undesired Business Outcomes
-Representatives are unwilling to use the site, even as it expands into other uses
+
 
 ---
 ## Measuring Success
@@ -43,18 +39,17 @@ Representatives are unwilling to use the site, even as it expands into other use
 
 ### Key Performance Indicators (KPIs)
 Increased use of digital acceptance of forms
-significantly positive customer feedback
-decrease in time between when a VSO accepts a 2122 and when the rep can access Veteran's records
+positive customer feedback
+decrease in time between when a VSO accepts a 2122 and when the rep can access a Veteran's records
 
 
 
-### Objectives and Key results (OKRs)
+### Objectives and Key Results (OKRs)
 
 - Objective:
   - The majority of representatives report an easy experience with the process of using the site
-  - Key result:
  - The time between acceptance of representation and access to the Veteran's record is shortened
-  - Key result:
+  
 
 
 ---
@@ -66,29 +61,22 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 - representatives who are Veterans are concerned that the site not be confused with the Veteran facing va.gov
 
 ## Solution Approach
-
-- Create a flexible site built on va.gov.
--Make it
+- Create a flexible site built on va.gov that can be expanded to allow other rep facing tasks
+- create a visually distinctive site that still conforms to VA.gov look and feel
+- Create a site that allows VSOs to accept or reject 2122
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+*Parallel effort to conduct research with accredited representatives to further explore what a representative site could be used for and prioritize those needs. 
 
-- Initiative | [Link to Initiative Brief](#)
-
----
+--- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- *We will collaborate with Office of General Counsel and VBA VSO liaison (Marty Calloway) in addition to the Office of Public and Intergovernmental Affairs to make VSO aware of the new site and encourage adoption.
 
 ## Launch Dates
 - *Target Launch Date*
-  - Late June/early July
-- *Actual Launch Date*
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Late June/early July staying aware of possible code freezes.
+
 
 ---
 
@@ -99,7 +87,7 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 ### Key Decisions
 
 ---
-
+   
 ## Screenshots
 
 ### Before
@@ -112,30 +100,31 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 <details>
 
-- Team Name:
-- GitHub Label:
-- Slack channel:
-- Product POCs:
-- Stakeholders:
+- Team Name: Accredited Representative Facing
+- GitHub Label: 
+- Slack channel: 
+
 
 </details>
 
 #### Team Members
 
 <details>
-
- - DEPO Lead:
- - PM:
- - Engineering:
- - Research/Design:
-
+ 
+ - DEPO Lead: Jennifer Bertsch
+ - PM: Rivka Gates
+ - Engineering: Derrick Ellerbie, Emily Gullo, Gabriel Zurita, Jesse Cohn, Oren Mittman, William Phelps
+ - Research/Design: Kara Sanchez, Rebecca Blakiston, Renata Keck
+ 
 </details>
 
 
 #### Stakeholders
 
-<details>
+Marty Calloway
+Brandy Trailer
 
+ 
 _What offices/departments are critical to make this initiative successful?_
-
+ Lighthouse - connections to their APIs
 </details>
