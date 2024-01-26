@@ -33,12 +33,7 @@ The main phone number for the facility where the appointment has been scheduled.
 
 Instructions on how to join a telehealth appointment.
 
-
-#### Instructions: Prepare for Visit
-
-Instructions on anything the Veteran is expected to do before the appointment. 
-
-##### Instructions: Telehealth Visit
+#### Instructions: Prepare for Telehealth Visit
 
 VAOS displays these instructions via `comment` field for `home video` and `atlas` appointments. The `comment` field contains instructions passed from VVC. Right now, VAOS only accepts/support 2 types of instructions ('Video Visit Preparation' & 'Medication Review' instructions) due to limitations in the way data is passed to us in that field. 
 
