@@ -1,4 +1,4 @@
-# Benefits Representative Facing Tools ADR for [ADR NAME]
+# Benefits Accredited Representative Facing (ARF) Tools ADR for [ADR REASON]
 
 ## Status
 
