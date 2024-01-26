@@ -11,14 +11,17 @@
 
 
 ### Notes
-- HEC notified them a few days ago on TERA changes to implement in March (were aware of additional changes coming)
+- HEC notified them a few days ago on TERA changes to implement in March (were aware of additional changes coming but not sure when)
      - Originally slated for the summer
-- Discussed with Simone today
-     - Today, we only have a Yes/No indicator for TERA
+- VES team discussed with Simone today
+     - Today, ES only has a Yes/No indicator for TERA
      - Need to create additional fields
-     - Anything in question fields B, C or E are checked and sent to VES, need to create a work item instead of auto-accepting
+     - Anything in question fields B, C or E are checked and sent to ES, system will need to create a work item instead of auto-accepting
 - Imagining delivery will be scheduled to after 3/22, further discussion needed
      - More work than originally thought
+- 1010 team shared preliminary designs via email to this audience for reference
+
+- Teams will continue to sync as we learn more, and ensure we are aligned in development and delivery
 
 ## Email from Thani to HEC team regarding delivery date (sent right after our meeting with them)
 >Good Morning/Afternoon,
