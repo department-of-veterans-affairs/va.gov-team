@@ -35,7 +35,7 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
 
 1. Accessibility-focused usability testing
    We have introduced some new variations on form components that we have accessibility questions about. For example, we are including a "not sure" checkbox that sets other fields to null when checked. We want to ensure this interaction between fields is apparent, consistent with user expectations, and does not cause confusion, particularly to screen reader users.
-2. Measure usage in production
+2. Measure usage in production:
    What might we learn from how people are using the form / where they are dropping off / error logs?
 3. Seek feedback / user data from support teams
 4. Seek feedback from VSRs on real-world usage
@@ -99,7 +99,6 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 <li>   CAIA rec: We suggest leaving the "Not sure" option in the list, but recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
 </li>
    <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
-<li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
 <li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
 The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. - per [CAIA accessibility review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox)</li>
 </ul>
@@ -205,7 +204,7 @@ Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affa
 
 For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
 
-## Changes made Post-Midpoint 
+## Changes made Post-Midpoint (Fall 2023)
 **Midpoint**
 - Entry point was different
   - “Are you claiming any conditions relate to TE” Yes or No

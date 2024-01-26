@@ -60,7 +60,7 @@
         - User Research planned to test adding link to search at bottom of Top Tasks boxes
         - Next Steps: Provided an overview of this to members of the Sitewide Crew on 8/3; the new PO/Crew Chief will need to help drive this forward.
       - **New Mobile header (Research initiative)**
-        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/new-mobile-header/product-outline.md)
+        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/product-outline.md)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
         - [ ] Research Plan - in-production test will require big tech lift for Mobile header; easier to do interactive prototype/usability test.
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events

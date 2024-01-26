@@ -14,23 +14,20 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 Today we're going to talk about navigating a VA website when you’re signed in. Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 45 minutes/60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome all of your feedback, and I won't be offended by any opinions you express.
+- **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know. Whether you choose to participate or not will not affect your benefits in any way with the VA.
 - **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-  - If no: Use Slack to kindly ask the observers to leave the Zoom.
+  - If no: Use Slack to let observers know
   - If yes: Admit observers.
-  - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+  - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-  - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-  - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-  - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners and colleagues understand Veterans’ experiences?**  In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. These clips will not be shared outside of the VA. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+  - If yes: **Once I start recording, I am going to confirm both of these things once more. 
+    *Start recording.***
 
-*Start recording.*
-
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
@@ -55,9 +52,9 @@ Great, I can see your screen. Next, I’ll have you pull up the prototype. Would
 Prototype link: [https://cdpn.io/pen/debug/JjzNWbR](https://cdpn.io/pen/debug/JjzNWbR)
 *Guide participant to prototype. Prototype will start on the unauthenticated version of the life insurance page.*
 
-Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  As a heads up, the prototype starts on a random page of VA.gov, but we don’t need you to give us feedback on this main portion of this page specifically.
+Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  
 
-Instead, first, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
+First, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
 
 ***Goal: get participant to View Disability Rating page***
 
@@ -74,7 +71,7 @@ Instead, first, I’d like for you to show me how you’d use this prototype to 
 
 ## Task 2: Navigate to letters - 3 minutes
 
-Next, I’d like for you to imagine you need to document that shows a summary of the benefits you get from VA.  Show me how you’d find that kind of document using this prototype.
+Next, I’d like for you to imagine you want to apply for property tax relief, and you need a document that shows both your service information and benefits you get from VA.  Show me how you’d find that kind of document using this prototype.
 
 ***Goal: get participant to Letters page***
 
@@ -135,7 +132,7 @@ Ok, here’s a rough version of the menu we just looked at. I thought this would
 3. How would you order these links? Why?
 4. What would you like to *change or add*? Why?
 5. Anything else you’d like me to know about what you’d want from a menu like this?
-6. *Note to moderator, may need to offer context if My VA has not been reviewed or discussed by this point:* I’m curious, how would you describe the difference between My VA and Profile to another Veterans
+6. *Note to moderator, may need to offer context if My VA has not been reviewed or discussed by this point:* I’m curious, how would you describe the difference between My VA and Profile to another Veteran
 
 
 Great, thank you for going through that with me. I’ll stop screen sharing now.

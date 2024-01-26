@@ -35,7 +35,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Stage A: 1%
     - [x] Stage B: 5%
     - [x] Stage C: 10%
-    - [ ] Stage D: 25%
+    - [x] Stage D: 25%
     - [ ] Stage E: 50%
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
@@ -172,6 +172,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Anomalies:
     - AE team noted PPIU activity directing to EVSS via the v0 controller. Notably, we currently don't direct anything through the controller, nor does the AE team. Need to investigate.
         -  The referrer for these logs is the 526 form, possible we may have missed a controller call.
+        -  Determined not to be caused by our migration, but will investigate separately via the IIR team
     - Noting a drop in activity on 1/14, checking if there was maintenance or an outage
         - It appears that activity wasn't entirely blocked as a few requests made it through
 - Rollbacks:
@@ -206,8 +207,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
             Date: 1/17/24
             Severity/Impact: Medium
             Ticket(s) created to address:
-            - [] Has the issue been resolved?
+            - [x] Has the issue been resolved?
             - Composite errors rose ~1%, notably with a volume of `#initialize_payment_information Failed to retrieve PPIU data from LighthousePPIUProvider: undefined method `gsub' for nil:NilClass`
+                - Determined not to be caused by our migration; appears to have always been a silent issue. Will investigate separately from rollout
 
 
 <br>
@@ -215,7 +217,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage E: High traffic
 #### Planning
-- Date Started:
+- Date Started: 1/25
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 

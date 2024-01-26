@@ -11,7 +11,7 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 ### Study name: Federal HF usability testing--Phase 1
 - **Team/Researcher:** Sitewide, Cindy Merrill
 - **Date:** 12/20/20203
-- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/federal-standardized-header-footer/research/phase1-no-AT)
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT)
 - **Takeaway**: When asked if there was anything else they'd like to share, P8 shared frustrations with 2FA:
   
 > I always have to do two factor authentication on the website. I would like the option of don’t require 2FA each time I log in with this specific computer and this IP address. It gets a little annoying. I think it actualy does give me that option but it never remembers it...As soon as the page times out, I have to do it again.

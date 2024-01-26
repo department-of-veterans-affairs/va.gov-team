@@ -1,4 +1,32 @@
+------------------------------------------------------------------------------
+# Key
+
+
+{ } = conditional statements for story variables and answer selections. 
+
+Example: { if living } { end if living } anything between these statements so only if the applicant selected “yes” for the if Veteran is still living question.
+
+Example: ### [H2] Your mailing address { Story 3 }, this is the set of a questions to show for Story 3
+
+%%  %% = variable data entry, ie, once a user inputs an applicant’s name in the field we can fill in that name through the form specified by the %%applicant's name%%
+
+
+{ Story 1 = An applicant filling out the form }
+
+{ Story 2 = A Veteran Sponsor filling out the form }
+
+{ Story 3 = A third party representative }
+
+
+------------------ divider for questions
+
+------------------------------------------------------------------------------ divider for for sections
+
+
+------------------------------------------------------------------------------ 
+
 # CHAMPVA Benefits Enrollment Form (VA Form 10-10d)
+
 [Current PDF Form](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10d.pdf)
 
 ## Introduction page
@@ -8,7 +36,7 @@
 { subtitle } Form 10-10d
 
 Are you the spouse, surviving spouse, child or caretaker of a Veteran who is permanently and totally disabled or a Veteran who has died? If you don’t qualify for [TRICARE](https://www.tricare.mil/) (the Department of Defense’s health care program for active-duty and retired service members and their families), you may be able to get health benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA). Through this program, we cover the cost of some of your health care services and supplies. This is called cost sharing.
-<br/>
+
 ###  [H2] What benefits do I get with CHAMPVA?
 You may use CHAMPVA as a standalone service or as an additional health benefit to supplement your other health insurance or Medicare.
 
@@ -16,6 +44,7 @@ You may use CHAMPVA as a standalone service or as an additional health benefit t
 With CHAMPVA, you’ll be covered for services and supplies when we determine they are medically necessary and were received from an authorized provider. When providers are performing services within the scope of their license or certification, we consider them to be authorized.
 
 #### [H3] Covered services include:
+
 - Ambulance service
 - Ambulatory surgery
 - Durable medical equipment (DME)
@@ -36,13 +65,11 @@ When you’re signed up for CHAMPVA, you’ll get a copy of the CHAMPVA Program 
 { Link }[View fact sheets on CHAMPVA benefits](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp#champva)
 
 ###  [H2] How CHAMPVA is different from your health insurance?
-
 CHAMPVA is not health insurance but it shares the cost of certain medically necessary procedures and supplies with eligible beneficiaries. We do not have a network of health care providers, so you can visit most authorized providers.
 You can use CHAMPVA to share costs that Medicare or your insurance doesn't cover. CHAMPVA can also act as a standalone service help share costs and save on health care services and supplies. 
 
 
 ###  [H2] Am I eligible for health benefits through CHAMPVA?
-
 You may be eligible for CHAMPVA health benefits if don't qualify for TRICARE and the Veteran you're connected to (called your "sponsor") can be described as at least one of the following,
 
 
@@ -200,8 +227,53 @@ This legal document provides confirmation of your ended marriage with a deceased
 <br/>{ Link }[Find out how to file a CHAMPVA claim](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp)
 <br/>{ Link }[Find out if you can get care at a local VA medical center when you’re covered under CHAMPVA](https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp)
 
+------------------------------------------------------------------------------
 
----------------------------------------
+## [H1] About VA Form 10-10d
+
+### {Intro text} Application for CHAMPVA Benefits
+
+**Related to:** Family member benefits, Health care
+
+**Form last updated:** February 2024
+
+### [H2] When to use this form
+
+If you’re the spouse or child of a Veteran with disabilities, or the surviving spouse or child of a Veteran who has died, use VA Form 10-10d to apply for health insurance through CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs). 
+
+#### [H3] Downloadable PDF
+
+{ link } [Go to VA Form 10-10d PDF](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10d.pdf)
+
+#### [H3] Online tool
+
+You can apply online instead of filling out and sending us the paper form
+
+{ link } [Go to the online tool](link to online form)
+
+#### [H3] Related forms and instructions
+{ link } [VA Form 10-7959C](https://www.va.gov/find-forms/about-form-10-7959c)
+
+**CHAMPVA—Other Health Insurance (OHI) Certification**
+
+Use VA Form 10-7959C or {link} [Formulario VA 10-7959c español](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/forms/va-S10-7959c-fill.pdf) when: 
+
+- You’re applying for CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), and have other health insurance to declare as part of your VA Form 10-10d application. 
+- Or you need to report changes in your other non-VA health insurance, such as new beneficiaries or coverage changes.
+
+{ link } [Download VA Form 10-7959C PDF](https://www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
+
+### [H2] Helpful links related to VA Form 10-10d
+
+#### [H3] { Link } [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva)
+
+Learn how eligible spouses and children of Veterans can get health insurance through CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs).
+
+#### [H3] { Link } [Family member benefits](https://www.va.gov/family-member-benefits)
+
+Find out about VA benefits for spouses, dependents, survivors, and family caregivers.
+
+------------------------------------------------------------------------------
 
 ## [H1] Apply for CHAMPVA benefits
 
@@ -263,9 +335,9 @@ We process applications in the order we receive them. We may contact you if we h
 #### [H3] 5. Decision
 After you’ve applied for CHAMPVA, we’ll send you a letter in the mail to let you know if your application has been approved.
 
-
+{ additional info component }
 <details>
-<summary></summary>How long will it take to hear back about my application?</details>summary>
+<summary>How long will it take to hear back about my application?</summary>
 
 
 If you send us all required and optional documents—and if your application is complete—it’ll take about 6 weeks after we get your package until you get your CHAMPVA ID card and related materials.
@@ -273,6 +345,8 @@ If you send us all required and optional documents—and if your application is 
 If you submit the application without the optional documents, it may take 2 to 8 months since we’ll need to confirm your information with other federal agencies.
 
 </details>
+
+{ End additional info component }
 
 { Informational alert }
 
@@ -309,7 +383,7 @@ Expiration date: 11/30/2025 < !-- what is the correct exp date --->
 
 
 
-### [H3]What if I need help filling out my application? 
+### [H3] What if I need help filling out my application? 
 
 An accredited representative with a Veterans Service Organization (VSO) can help you fill out your application.
 
@@ -321,23 +395,25 @@ An accredited representative with a Veterans Service Organization (VSO) can help
 
 { subtitle } Form 10-10d
 
-## Step 1 of 4: Signer's identity
+## Step 1 of 4: Signer information
 
-[H3] Which of these best describes you? (*Required)
+### [H2] Your relationship to this form
 
-( ) I'm an applicant applying for CHAMPVA benefits **(Story 1)**   
+Which of these best describes you? (*Required)
 
-( ) I'm a Veteran applying for my spouse, dependents, or caretaker **(Story 2)**    
+( ) I'm an applicant applying for CHAMPVA benefits { Story 1 }
 
-( ) I'm a third party representative, power of attorney, or VSO (Veterans Service Officer) **(Story 3)**   
+( ) I'm a Veteran applying for my spouse, dependents, or caretaker { Story 2 }   
 
-<br />
+( ) I'm a third party representative, power of attorney, or VSO (Veterans Service Officer) { Story 3 }
 
-<br />
+
+ { additional info component }
 
 <details>
 <summary>Who can be a third-party representative or a power of attorney?</summary>
-{ additional info component }
+
+ 
 
 A third-party representative can be a family member or designated person filling out this form for a Veteran or someone with a claim. We consider you to be a third-party representative if you're not already a power of attorney, agent, or fiduciary. If you're a third-party representative, we must have an authorization (VA Form 21-0845) on record. 
 
@@ -347,103 +423,101 @@ An authorized power of attorney can fill out this request for the person with th
 
 - [VA Form 21-22 Appointment of Veterans Service Organization as Claimant's Representative (opens in new tab)](https://www.va.gov/find-forms/about-form-21-22/), **or**
 - [VA Form 21-22a, Appointment of Individual as Claimant's Representative (opens in new tab)](https://www.va.gov/find-forms/about-form-21-22a/)
-{ end additional info component }   
+
 
 </details>
 
-<br />
+{ end additional info component }   
+
+------------------
 
 { if third party signer }
 
-<details>
-<summary>[H3] Signer’s identity (Story 3)</summary>
+### [H2] Your name { Story 3 }
 
-{ hint text } We use this information to contact the signer of this form and verify other details.
+{ hint text } We use this information to contact the signer of this form and verify other details
 
 First name (* Required)  
+
 Middle name  
+
 Last name (* Required)  
+
 Suffix
 
 { Buttons } Back / Continue
 
-</details>
+
+------------------
+
+### [H2] Your mailing address { Story 3 }
+
+{ hint text } We’ll send any updates about your signer certification to this address
+
+- [ ] I live on a United States military base outside of the country.
+
+
+{ additional info component }
 
 <details>
-<summary>[H3] Signer’s mailing address (Story 3)</summary>
+<summary>Learn more about military base addresses</summary>
+The United States is automatically chosen as your country if you live on a military base outside of the country.
+</details>
+
 
 Country (* Required)   
+
 Street address     
+
 Street address line 2       
+
 Street address line 3   
+
 City (* Required)   
+
 State (* Required)   
+
 Postal code (* Required)   
 
 { Buttons } Back / Continue
 
 </details>
 
-<details>
-<summary>[H3] Signer's contact information (Story 3) </summary>
+------------------
+
+### [H2] Your contact information { Story 3 } 
 
 Phone number (* Required)  
 
 { Buttons } Back / Continue
 
-</details>
 
 { end if third party signer }
 
-<br />
-
 
 ------------------------------------------------------------------------------
-{ if third party signer }
-{ Alert Box ]
-
-#### [H3] Section complete
-
-Signer's identity has been completed.
-
-{ Information Box }
-
-#### [H3] Sign in now to save your work in progress
-
-Here’s how signing in now helps you:
-
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-
-  { End Information Box ]
-
-{ Button } Sign in to save your application
-
-{ Link } Continue without signing in
-
-{ Buttons } Back / Continue
-
-{ end if third party signer }
-------------------------------------------------------------------------------
 
 
-## Step 2 of 4:  Sponsor's information
+## Step 2 of 4:  Sponsor information
 
-[H3] { Sponsor's / Your / Sponsor } name and date of birth
+### [H2] { Sponsor's / Your / Sponsor } name and date of birth
 
 Please provide the information for the Veteran that you're connected to (called your "sponsor"). We use this information to verify eligibility. { Story 1 }   
 
 Please provide your information. We use this information to verify eligibility. { Story 2 }   
 
-Please provide the infomration for the Veteran that the applicant is that you're connected to (called a "sponsor").  We use this information to verify eligibility. { Story 3 }   
+Please provide the information for the Veteran that the applicant is connected to (called a "sponsor").  We use this information to verify eligibility. { Story 3 }   
 
 First name (*Required)  
+
 Middle name  
+
 Last name (*Required)
 
 Suffix
 
 Date of birth (*Required)   
+
 M/D/Y
 
 { Buttons } Back / Continue
@@ -451,51 +525,30 @@ M/D/Y
 ------------------
 
 
-[H3] { Sponsor's / Your / Sponsor's } Identification information
+### [H2] { Sponsor / Your / Sponsor } identification information { Story 1, 2 & 3 }
 
+{Hint text} You must enter either a VA file number or Social Security number
 
 Social Security number (*Required)
 
 VA file number
-
-{Hint text} You must enter either a VA file number or Social Security number
 
 
 { Buttons } Back / Continue
 
 ------------------
 
-<details>
-<summary>[H3] Sponsor's status { Story 1 }</summary>
+### [H2] Sponsor status { Story 1 & 3 }
 
 
-Is the your sponsor still living? (*Required)
+Is { your sponsor / the applicant's sponsor } still living? (*Required)
 
-( ) Yes, my sponsor is still living
+( ) Yes, { my sponsor / the applicant's sponsor } is alive
 
-( ) No, my sponsor is deceased
-
-{ Buttons } Back / Continue
-
-
-</details>
-
-
-<details>
- <summary> [H3] Sponsor's status { Story 3 }</summary>
-
-
-Is the applicant's sponsor still living? (*Required)
-
-( ) Yes, the applicant's sponsor still living
-
-( ) No, the applicant's sponsor is deceased 
-
-
+( ) No, { my sponsor / the applicant's sponsor } has passed away
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
 
@@ -503,73 +556,47 @@ Is the applicant's sponsor still living? (*Required)
 { if sponsors is deceased }
 
 
-
-<details>
- <summary>[H3] Sponsor's status { Story 1 }</summary> 
+### [H2] Sponsor status { Story 1 & 3 }
  
      
-Did your sponsor pass away during active military service? (* Required)   
-
 Date of death (*Required)   
 M/D/Y
 
-( ) Yes, my sponsor passed away during active military service   
 
-( ) No, my sponsor did not pass away during active military service
+Did { your / the } sponsor pass away during active military service? (* Required)   
+
+( ) Yes, { my / the } sponsor passed away during active military service   
+
+( ) No, { my / the } sponsor didn’t pass away during active military service
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
-
-<details>
- <summary>[H3] Sponsor's status  { Story 3 } </summary>
- 
-     
-Date of death (*Required)   
-M/D/Y
- 
-Did the applicant's sponsor pass away during active military service? (* Required)   
-
-( ) Yes, the applicant's sponsor passed away during active military service   
-
-( ) No, the applicant's sponsor didn't pass away during active military service 
-
-
-
-{ Buttons } Back / Continue
-</details>
-
-{ end if sponsor is deceased }
 
 { if sponsor is living }
 
-------------------
+### [H2] Sponsor mailing address { Story 1 & 3 }
 
-<details>
- <summary> [H3] Does your sponsor have a current mailing address? (* Required) {Story 1}</summary>
+Does { your/ the } sponsor have a current mailing address? (* Required) 
 
+{hint text} If we have a way to contact { your/ the } sponsor, we'll be able to process this request faster. But we don't require a mailing address for this request.
 
-{hint text} If we have a way to contact your sponsor, we'll be able to process this request faster. But we don't require a mailing address for this request.
+( ) Yes, I know { my / the } the sponsor’s current mailing address
 
-( ) Yes, my sponsor has a current mailing address
+( ) No, { my / the } sponsor doesn't have a current mailing address
 
-( ) No, mo sponsor doesn't have a current mailing address
-
-( ) I don’t know my sponsor's current mailing address
+( ) I don’t know { my / the } sponsor's current mailing address
 
 
 
 { Buttons } Back / Continue
 
-</details>
-
 ------------------
 
-<details>
- 
- <summary>[H3] Do you have a current mailing address? (* Required) {Story 2}</summary>
+### [H2] Your mailing address  { Story 2 }
+
+Do you have a current mailing address? (* Required) 
 
 
 {hint text} If we have a way to contact you, we'll be able to process this request faster. But we don't require a mailing address for this request.
@@ -582,39 +609,27 @@ Did the applicant's sponsor pass away during active military service? (* Require
 
 { Buttons } Back / Continue
 
-</details>
 
-------------------
-
-<details>
- <summary>[H3] Does the applicant's sponsor have a current mailing address? (* Required) {Story 3}</summary>
-
-
-{hint text} If we have a way to contact the sponsor, we'll be able to process this request faster. But we don't require a mailing address for this request.
-
-
-( ) Yes, the applicant's sponsor has a current mailing address
-
-( ) No, the applicant's sponsor doesn't have a current mailing address
-
-( ) I don’t know the applicant's sponsor's current mailing address
-
-
-
-{ Buttons } Back / Continue
-
-</details>
 
 ------------------
 
 { if mailing address }
 
-<details>
+### [H2] Sponsor mailing address (continued) { Story 1 & 3 }
 
- <summary>[H3] Sponsor's mailing address { Story 1 & 3 }</summary>
-
+{ hint text } We’ll send any important information about your application to this address.
 
 - [ ] Sponsor lives on a United States military base outside of the country.
+
+
+{ additional info component }
+
+<details>
+<summary>Learn more about military base addresses</summary>
+The United States is automatically chosen as your country if you live on a military base outside of the country.
+</details>
+
+{ additional info component }
 
 Country (* Required)   
 
@@ -633,15 +648,26 @@ Postal code (* Required)
 
 { Buttons } Back / Continue
 
-</details>
+
 
 ------------------
 
-<details>
-<summary> [H3] Your mailing address { Story 2 }</summary>
+ ### [H2] Your mailing address (continued) { Story 2 }
+
+{ hint text } We’ll send any important information about your application to this address.
 
 
 - [ ] I live on a United States military base outside of the country.
+
+{ additional info component }
+
+<details>
+<summary>Learn more about military base addresses</summary>
+The United States is automatically chosen as your country if you live on a military base outside of the country.
+</details>
+
+{ additional info component }
+
 
 Country (* Required)   
 
@@ -660,25 +686,23 @@ Postal code (* Required)
 
 { Buttons } Back / Continue
 
-</details>
 
 ------------------
 
 { if mailing address }
 
 
-<details>
- <summary>[H3] Sponsor's contact information { Story 1 }</summary>
+### [H2] Sponsor contact information { Story 1 & 3 }
 
-Does your sponsor have a phone number? (* Required)
+Does { your /the } sponsor have a current phone number? (* Required)
 
-{ hint text } If we have a way to contact your sponsor, we'll be able to process this request faster. But we don't require a phone number for this request.
+{ hint text } If we have a way to contact { your /the } sponsor, we'll be able to process this request faster. But we don't require a phone number for this request.
 
-( ) Yes, my sponsor has a phone number.
+( ) Yes, I know { my / the } sponsor’s current phone number
 
-( ) No, my sponsor doesn't have a phone number.
+( ) No, { my / the }  sponsor doesn't have a phone number
 
-( ) I don’t know my sponsor’s phone number.
+( ) I don’t know if { my / the } sponsor’s has a current phone number
 
 
 
@@ -686,10 +710,7 @@ Does your sponsor have a phone number? (* Required)
 
 ------------------
 
-</details>
-
-<details>
- <summary>[H3] Your contact information { Story 2 }</summary>
+### [H2] Your contact information { Story 2 }
 
 
 Do you have a phone number? (* Required)
@@ -703,60 +724,30 @@ Do you have a phone number? (* Required)
 
 
 { Buttons } Back / Continue
-</details>
 
-------------------
-
-<details>
- <summary>[H3] Sponsor's contact information { Story 3 }</summary>
-
-
-Does the the applicant's sponsor have a phone number? (* Required)
-
-
-{ hint text } If we have a way to contact the sponsor we'll be able to process this request faster. But we don't require a phone number for this request.
-
-
-( ) Yes, the applicant's sponsor has a phone number.
-
-( ) No, the applicant's sponsor doesn't have a phone number.
-
-( ) I don’t know the applicant's sponsor's phone number.
-
-
-{ Buttons } Back / Continue
-</details>
 
 ------------------
 
 
 { if phone number }
 
-<details>
-<summary>[H3] Sponsor's phone number { Story 1 & 3 }</summary>
+### [H2] Sponsor contact information (continued) { Story 1 & 3 }
 
-
-Home phone number (*Required)
-
-Mobile phone number
+Phone number (*Required)
 
 
 { Buttons } Back / Continue
 
-</details>
+------------------
 
-<details>
-<summary>[H3] Your phone number { Story 2 }</summary>
+### [H2] Your phone number (continued) { Story 2 }
 
 
-Home phone number (*Required)
-
-Mobile phone number
+Phone number (*Required)
 
 
 { Buttons } Back / Continue
 
-</details>
 
 { end if phone number }
 
@@ -764,73 +755,72 @@ Mobile phone number
 
 ------------------------------------------------------------------------------
 
-{ Alert Box ]
-#### [H3] Section complete
 
-The sponsor's information has been completed. You could sign in to save your progress
+## Step 3 of 4:  Applicant Information 
 
-{ End Alert Box ]
-
-{ Information Box }
-#### [H3] Sign in now to save your work in progress
-
-Here’s how signing in now helps you:
-
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-  
-{ End Information Box ]
-
-{ Button } Sign in to save your application
-
-{ Link } Continue without signing in
-
-{ Buttons } Back / Continue
-
-------------------------------------------------------------------------------
-
-## Step 3 of 4:  Applicant Information
-
-[H3] { Your / %%applicant's name%%'s / %%applicant's name%%'s } name and date of birth
+### [H2] { Your / Applicant / Applicant } name and date of birth { Story 1, 2 & 3 }
 
 
 First name (* Required)  
+
 Middle name  
+
 Last name (* Required)  
+
 Suffix
 
 Date of Birth (* Required) 
 
-{ Buttons } Back / Continue
-
-------------------
-
-[H3] { Your / %%applicant's name%%'s / %%applicant's name%%'s } SSN 
-
-
-Social Security number (* Required)
-
+M/D/Y
 
 { Buttons } Back / Continue
 
 ------------------
 
-[H3] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } mailing address
+### [H2] { Your / %%applicant's name%% / %%applicant's name%% } identification information { Story 1, 2 & 3 }
 
 
-[ ] { My / %%Applicant's name%% } has the same address as { my / the } sponsor
+Social Security number  (* Required)  
 
-{ if above is checked enable dropdown } 
 
-{ dropdown }  Use an previously entered address
-- %%Sponsor's name%%
-- %%Applicant's name 1%%
-- %%Applicant's name 2%%
-- %%Applicant's name 3%%
+{ Buttons } Cancel adding applicant / Back / Continue
 
-{ end dropdown }
+------------------
 
-{if address is selected above prefill information in field below }
+{ if sponsor is living }
+
+### [H2] { Your / %%applicant's name%%'s / %%applicant's name%%'s } mailing address { Story 1, 2 & 3 }
+
+{ hint text } We’ll send any important information about your application to this address.
+
+{ Do you / Does %%applicant's name%% / Does %%applicant's name%% } have the same address as { your / the } sponsor?
+
+( ) Yes, { I have / %%applicant's name%% has /  %%applicant's name%% has } the same address as { my / the } sponsor
+
+( ) No, { I have / %%applicant's name%% has  /  %%applicant's name%%  has } the same address as { my / the } sponsor
+
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+------------------
+
+
+### [H2] { Your / %%applicant's name%%'s / %%applicant's name%%'s } mailing address (continued) { Story 1, 2 & 3 }
+
+{ hint text } We’ll send any important information about your application to this address.
+
+- [ ] { I live /  %%applicant's name%% lives  /  %%applicant's name%% lives } on a United States military base outside of the country.
+
+{ additional info component }
+
+<details>
+<summary>Learn more about military base addresses</summary>
+The United States is automatically chosen as your country if you live on a military base outside of the country.
+</details>
+
+{ additional info component }
+
 
 Country (* Required)   
 
@@ -847,40 +837,84 @@ State (* Required)
 Postal code (* Required)   
 
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
+
+{ end if sponsor is living }
+
+
+------------------
+
+{ if sponsor is deceased }
+
+### [H2] { Your / %%applicant's name%%'s / %%applicant's name%%'s } mailing address { Story 1, 2 & 3 }
+
+{ hint text } We’ll send any important information about your application to this address.
+
+- [ ] { I live /  %%applicant's name%% lives  /  %%applicant's name%% lives } on a United States military base outside of the country.
+
+{ additional info component }
+
+<details>
+<summary>Learn more about military base addresses</summary>
+The United States is automatically chosen as your country if you live on a military base outside of the country.
+</details>
+
+{ additional info component }
+
+
+Country (* Required)   
+
+Street address (* Required)      
+
+Street address line 2    
+
+Street address line 3   
+
+City (* Required)   
+
+State (* Required)   
+
+Postal code (* Required)   
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+{ end if sponsor is deceased }
+
 
 ------------------
 
 
-[H3] { Your / %%Applicant's name%%'s / %%Applicant's name%%'s } phone number
+### [H2] { Your / %%applicant's name%%'s / %%applicant's name%%'s } contact information { Story 1, 2 & 3 }
 
 Phone number (* Required)
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
+{ if sponsor is living }
+
+### [H2] { My / %%applicant's name%%’s } relationship to the sponsor { Story 1 & 3 }
+
 { Information box }
 
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
+### { Alert title } Additional documentation may be required
 
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
-<details> 
 
-<summary>[H3] { My / The Applicant’s } relationship to the Sponsor { Story 1 & 3 }</summary>
-
-What's { your / the applicant's } relationship to the Sponsor they're connected to? (* Required)
+What's { your / %%applicant's name%% } relationship to the sponsor?  (* Required)
 
 > (Error msg) You must select at least one relationship, so we can process your enrollment.
 
 ( ) { I'm / %%applicant's name%% is } the sponsor's spouse {if checked add "Copy of marriage license (required)" to the Application Submitted page }
-
-( ) { I'm / %%applicant's name%% is } the sponsor's surviving spouse {if checked add "Copy of marriage license (required)" to the Application Submitted page }
-
-( ) { I / %%applicant's name%% } was the sponsor's surviving spouse but remarried after the age of 55 {if checked add "Copy of the legal document that ended your marriage (required)" to the Application Submitted page }
 
 ( ) { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) {if checked add" Copy of birth certificate (required)" to the Application Submitted page } {if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
@@ -888,18 +922,57 @@ What's { your / the applicant's } relationship to the Sponsor they're connected 
 
 ( ) { My / %%applicant's name%%'s } relationship to the sponsor isn't listed here
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
-</details>
+
+{ end if sponsor is living }
 
 ------------------
 
-<details>
-<summary>[H3] Applicant’s relationship { Story 2 }</summary>
+
+{ if sponsor is deceased }
+
+
+### [H2] { My / %%applicant's name%%’s } relationship to the sponsor { Story 1 & 3 }
+
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
+
+{ End Information box }
+
+What's { your / %%applicant's name%% } relationship to the sponsor?  (* Required)
+
+> (Error msg) You must select at least one relationship, so we can process your enrollment.
+
+( ) { I / %%applicant's name%% was the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
+
+( ) { I / %%applicant's name%% was the sponsor's spouse but remarried after the age of 55 { if checked add "Copy of the legal document that ended your marriage (required)" to the Application Submitted page }
+
+( ) { I /  %%applicant's name%% was the sponsor's child (includes biological, adopted, and stepchildren) { if checked "{if checked add" Copy of birth certificate (required)" to the application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
+
+( ) { My /  %%applicant's name%%'s relationship to the sponsor is not listed here
+
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+
+{ end if sponsor is deceased }
+
+------------------
+
+### [H2] My relationship to %%applicant's name%%}  { Story 2 }
 
 What's is your relationship to %%applicant's name%% (* Required)
 
-> (Error msg) You must select at least one relationship, so we can process your enrollement.
+> (Error msg) You must select at least one relationship, so we can process your enrollment.
 
 ( ) %%applicant's name%% is my spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
@@ -909,160 +982,120 @@ What's is your relationship to %%applicant's name%% (* Required)
 
 ( ) My relationship to %%applicant's name%% isn't listed here
 
-{ Buttons } Back / Continue
-
-</details>
+{ Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
+### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } Medicare status { Story 1, 2 & 3 }
+
 { Information box }
+### { Alert title } Additional documentation may be required
 
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
+Depending on your response, additional documentation may be required to determine eligibility
 
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online
 
 { End Information box }
 
-<details>
- 
-<summary>[H3] Are you enrolled in Medicare (* Required) { Story 1 }</summary>
+{ Are you / Is %%applicant's name%% / Is %%applicant's name%% } enrolled in Medicare (* Required)
 
-( ) I am enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
-( ) I am under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
-( ) I don't have Medicare
+( ) Yes, { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
 
-{ Buttons } Back / Continue
+( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is } over 65, is eligible, but not enrolled Medicare
 
-</details>
+( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is } over 65 and *not* eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
+
+( ) No, { I'm / %%applicant's name%% is / %%applicant's name%% is  } under 65 and not eligible for Medicare  
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
 
 ------------------
 
 { if enrolled in Medicare }
-<details>
- 
-<summary>[H3] What's parts of Medicare are you in enrolled in. You can select more than one. (* Required) { Story 1 }</summary>
 
-( ) I am enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
-( ) I am enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
-( ) I am enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } Medicare Status (continued) { Story 1, 2 & 3 }
 
-{ Buttons } Back / Continue
+What parts of Medicare { are you / is %%applicant's name%% / is %%applicant's name%% } enrolled in. (* Required)
 
-</details>
+{ hint text } You can select more than one. 
 
-{ end if enrolled in Medicare }
+- [ ]  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
 
+- [ ] { I'm / %%applicant's name%% is / %%applicant's name%% is }  enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
 
-------------------
+- [ ]  { I'm / %%applicant's name%% is / %%applicant's name%% is } enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
 
-<details>
- <summary>
- [H3] Is %%applicant's name%% enrolled in Medicare (* Required) { Story 2 & 3 } </summary>
+{ Buttons } Cancel adding applicant / Back / Continue
 
-( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" the to the Application Submitted page } 
-( ) %%applicant's name%% is under 65 but not eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
-( ) %%applicant's name%% doesn't have Medicare
-
-
-{ Buttons } Back / Continue
-
-</details>
-
-------------------
-
-{ if enrolled in Medicare }
-<details>
- 
-<summary>[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }</summary>
-
-( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
-( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
-( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
-
-{ Buttons } Back / Continue
-
-</details>
 
 { end if enrolled in Medicare }
 
 ------------------
 
-<details> 
- 
-<summary>[H3] Do you have other health insurance? (* Required) { Story 1 }</summary>
+### [H2] { My / %%applicant's name%%’s / %%applicant's name%%’s } other health insurance status { Story 1, 2 & 3 }
 
-( ) I have other health insurance { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page } {if checked add "Copy of front and back or other health insurance card (required)" to the Application Submitted page }
-( ) I don't have other health insurance
+{ Do you / Does %%applicant's name%% /  Does %%applicant's name%%  have other health insurance? (* Required)
 
-{ Buttons } Back / Continue
+( ) Yes, { I have / %%applicant's name%% has /  %%applicant's name%% has } other health insurance { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page } {if checked add "Copy of front and back or other health insurance card (required)" to the Application Submitted page }
+
+( ) No, { I don't have / %%applicant's name%% doesn't have / %%applicant's name%% doesn't have } other health insurance
+
+{ Buttons } Cancel adding applicant / Back / Continue
 
 
-</details>
-
-------------------
-
-<details>
- <summary>
- [H3] Does %%applicant's name%% have other health insurance? (* Required) { Story 2 & 3 } </summary>
-
-( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required)" to the Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
-( ) %%applicant's name%% doesn't have other health insurance
-
-{ Buttons } Back / Continue
-
-</details>
 
 ------------------
 
-{ Alert Box }
-#### [H3] Applicant added
+### [H2] Applicant Review
 
-%%applicant's name%% has been added.
+{ Applicant review component }
 
-{ End Alert Box }
 
-{ Information Box }
-#### [H3] Sign in now to save your work in progress
+**%%applicant name 1%%**
 
-Here’s how signing in now helps you:
+Age [%%applicant 1 age%%]
 
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-  
-{ End Information Box }
+{ link } Edit >
 
-{ Button } Sign in to save your application
+{ End applicant review component }
 
-{ Link } Continue without signing in
+Are there any other applicants to add? (*Required)
 
-{ Buttons } Back / Continue
-
-------------------
-
-[H3] Are there any other applicants to add? (*Required)
 ( ) Yes, I have more applicants to add
+
 ( ) No, I don't have any more applicants to add
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
+
 
 ------------------
+
 
 { if applicants to add loop }
 
-[H3] %%applicant's name%%'s name and date of birth
+### [H2]  Applicant name and date of birth
 
 
 First name (* Required)  
 Middle name  
+
 Last name (* Required)  
+
 Suffix
 
 Date of Birth (* Required)  
+
+M/D/Y
 
 { Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
-[H3] %% Applicant's First Name %% SSN 
+### [H2]  %%applicant's name%%'s identification information
 
 
 Social Security number (* Required)
@@ -1072,21 +1105,50 @@ Social Security number (* Required)
 
 ------------------
 
-[H3] %%applicant's name%% mailing address
 
-[ ] %%applicant's name%% has the same address as the sponsor or another applicant
+### [H2] %%applicant's name%%'s mailing address { Story 1, 2 & 3 }
 
-{ if above is checked enable dropdown } 
+Does %%applicant's name%% have the same address as another person listed in this application?
 
-{ dropdown } Use an previously entered address
-- %%Sponsor 's name%%
-- %%Applicant's name 1%%
-- %%Applicant's name 2%%
-- %%Applicant's name 23%%
+{ hint text } We’ll send any important information about your application to this address.
 
-{ end dropdown }
 
-{if address is selected above prefill information in field below }
+{ dropdown }
+
+- No %%applicant's name%% has a different address then others listed in this application
+
+- Yes, %%applicant's name%% has the same address as the sponsor  { if sponsor is living }
+  
+- Yes, %%applicant's name%% has the same address as { %%applicant's name%% 1 }
+  
+- Yes, %%applicant's name%% has the same address as { %%applicant's name%% 2 }
+  
+- Yes, %%applicant's name%% has the same address as { %%applicant's name%% 3 }
+ 
+{ end dropdown ]
+
+
+{ Buttons } Cancel adding applicant / Back / Continue
+
+------------------
+
+{ if answered no to the the above address question }
+
+### [H2] %%applicant's name%% mailing address (continued)
+
+{ hint text } We’ll send any important information about your application to this address.
+
+- [ ] {  %%applicant's name%% } lives on a United States military base outside of the country.
+
+{ additional info component }
+
+<details>
+<summary>Learn more about military base addresses</summary>
+The United States is automatically chosen as your country if you live on a military base outside of the country.
+</details>
+
+{ additional info component }
+
 
 Country (* Required)   
 
@@ -1106,7 +1168,7 @@ Postal code (* Required)
 
 ------------------
 
-[H3] %%applicant's name%% phone number
+### [H2] %%applicant's name%% phone number
 
 Phone number (* Required)
 
@@ -1114,47 +1176,60 @@ Phone number (* Required)
 
 ------------------
 
-{ Information box }
-
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
-
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
-
-{ End Information box }
-
-
 {if sponsor is living}
 
-[H3] %%applicant's name%% relationship to the sponsor 
+### [H2] %%applicant's name%%’s relationship to the sponsor 
 
-> (Error msg) You must select at least one relationship so we can process your enrollment.
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
+
+{ End Information box }
  
 What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
-( ) %%Applicant's name%% is the sponsor 's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
+> (Error msg) You must select at least one relationship so we can process your enrollment.
 
-( ) %%Applicant's name%% is the sponsor 's child (includes includes biological, adopted, and stepchildren) { if checked add "{if checked add" Copy of birth certificate (required)" to the Application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
+( ) %%applicant's name%% is the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
-( ) %%Applicant's name%% is the sponsor's caretaker
+( ) %%applicant's name%% is the sponsor's child (includes includes biological, adopted, and stepchildren) { if checked add "{if checked add" Copy of birth certificate (required)" to the Application submitted page } { if the applicant is age 18-23 add "Copy of school certificate (required)" to the Application Submitted page }
 
-( ) %%Applicant's name%%'s relationship to the sponsor is not listed here
+( ) %%applicant's name%% is the sponsor's caretaker
+
+( ) %%applicant's name%%'s relationship to the sponsor is not listed here
 
 
 { Buttons } Cancel adding applicant / Back / Continue
 
-------------------
-
 {end if sponsor is living}
 
+------------------
 
 {if sponsor is deceased}
 
-[H3] %%applicant's name%% relationship to the sponsor 
+### [H2] %%applicant's name%%’s relationship to the sponsor 
 
-> (Error msg) You must select at least one relationship so we can process your enrollment.
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
+
+{ End Information box }
 
 What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
+> (Error msg) You must select at least one relationship so we can process your enrollment.
 
 ( ) %%applicant's name%% was the sponsor's spouse { if checked add "Copy of marriage license (required)" to the Application Submitted page }
 
@@ -1170,100 +1245,152 @@ What's %%applicant's name%%'s relationship to the sponsor? (* Required)
 
 ------------------
 
+### [H2] %%applicant's name%%’s Medicare status 
+
 { Information box }
 
-### { Alert title } Depending on your response, additional documentation may be required to determine eligibility
+### { Alert title } Additional documentation may be required
 
-We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. Detailed instructions on how to mail those documents will be displayed after your submit this enrollment form online.
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
 
 { End Information box }
 
- [H3] Is %%applicant's name%% enrolled in Medicare (* Required) 
+ Is %%applicant's name%% enrolled in Medicare (* Required) 
 
-( ) %%applicant's name%% is enrolled in Medicare { if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) (required)" to the Application Submitted page}
-( ) %%applicant's name%% is under 65 but not eligible for Medicare  { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare% (required)" to the Application Submitted page }
-( ) %%applicant's name%% doesn't have Medicare
+( ) Yes, { %%applicant's name%% } is enrolled in Medicare {if checked add "Completed and signed [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)(required)" to the Application submitted page} 
+
+( ) No, { %%applicant's name%% } is over 65, is eligible, but not enrolled Medicare
+
+( ) No, { %%applicant's name%% } is over 65 and *not* eligible for Medicare { if checked add "documentation from the Social Security Administration that confirms you don’t qualify for Medicare" to the Application Submitted page }
+
+( ) No, { %%applicant's name%% } is under 65 and not eligible for Medicare  
 
 
-{ Buttons } Back / Continue
+{ Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
 
 { if enrolled in Medicare }
 
- 
-[H3] What's parts of Medicare is %%applicant's name%% enrolled in. You can select more than one. (* Required) { Story 2 & 3 }
+### [H2] %%applicant's name%%’s Medicare status (continued)
 
-( ) %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
-( ) %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
-( ) %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+ What parts of Medicare is %%applicant's name%% enrolled in? (* Required)
 
-{ Buttons } Back / Continue
+ { hint text } You can select more than one.
+
+- [ ] %%applicant's name%% is enrolled in Medicare Part A {if checked add "Copy of front and back or Medicare card with Part A (this may be the same card and your Medicare Part B card)" to the Application Submitted page }
+
+- [ ] %%applicant's name%% is enrolled in Medicare Part B {if checked add "Copy of front and back or Medicare card with Part B (this may be the same card and your Medicare Part A card)" to the Application Submitted page }
+
+- [ ] %%applicant's name%% is enrolled in Medicare Part D {if checked add "Copy of Medicare Part D card" to the Application Submitted page }
+
+{ Buttons } Cancel adding applicant / Back / Continue
 
 
 { end if enrolled in Medicare }
 
 ------------------
 
- [H3] Does %%applicant's name%% have other health insurance? (* Required)  </summary>
+### [H2] %%applicant's name%%’s / %%applicant's name%%’s other health insurance status
 
-( ) %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required" to the  Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
-( ) %%applicant's name%% doesn't other health insurance
+{ Information box }
+
+### { Alert title } Additional documentation may be required
+
+Depending on your response, additional documentation may be required to determine eligibility
+
+We will need you to mail copies of these documents to the CHAMPVA office after you submit this form online. 
+
+Detailed instructions on how to mail those documents will be displayed after you submit this enrollment form online.
+
+{ End Information box }
+
+Does %%applicant's name%% have other health insurance? (* Required)
+
+( ) Yes,  %%applicant's name%% has other health insurance { if checked add "Completed and signed CHAMPVA Other Health (OHI) Certification form 10-7959c (required" to the  Application Submitted page } { if checked add "Copy of front and back or other health insurance card (required)" to the Application submitted page }
+
+( ) No, %%applicant's name%% doesn't other health insurance
 
 { Buttons } Cancel adding applicant / Back / Continue
 
 ------------------
 
+### [H2] Applicant Review
+
 { Applicant review component }
 
-
-%%applicant name 1%%
+**%%applicant name 1%%**
 
 Age [%%applicant 1 age%%]
 
+{ link } Edit >
+
+**%%applicant name 1%%**
+
+Age [%%applicant 1 age%%]
+
+{ link } Edit >
+
 { End applicant review component }
 
-[H3] Are there any other applicants to add? (*Required)
-( ) Yes, I have more applicant's to add
-( ) No, I don't have anymore applicant's to add
+Are there any other applicants to add? (*Required)
 
-{ Buttons } Cancel adding applicant / Back / Continue
+( ) Yes, I have more applicants to add
+
+( ) No, I don't have any more applicants to add
+
+{ Buttons } Back / Continue
 
 
 { end if no applicants to add loop }
 
-------------------------------------------------------------------------------
 
-{ Alert Box }
-#### [H3] Section complete
-
-The applicant information has been completed. 
-{ End Alert Box }
-
-{ Information Box }
-#### [H3] Sign in now to save your work in progress
-
-Here’s how signing in now helps you:
-
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have 1 year from when you start or make updates to your application come back and finish it.
-  
-{ End Information Box }
-
-{ Button } Sign in to save your application
-
-{ Link } Continue without signing in
-
-{ Buttons } Back / Continue
 
 ------------------------------------------------------------------------------
 
-## [H1] Apply for CHAMPVA benefits
+## Step 4 of 4:  Review and sign
 
-{ subtitle } Form 10-10d
 
-## Step 4 of 4:  Review and certify
+### [H2} Review and sign
+
+
+{ section review accordions }
+
+
+<details>
+
+<summary>Signer information</summary>
+
+{ add summary here }
+
+</details>
+
+<details>
+
+<summary>Sponsor information</summary>
+
+{ add summary here }
+
+</details>
+
+<details>
+
+<summary>Applicant information</summary>
+
+{ add summary here }
+
+</details>
+
+
+{ end section review accordions }
+
+
+**Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information (See 18 U.S.C. 1001).
 
 #### [H3] Statement of truth
 
@@ -1272,14 +1399,45 @@ I understand that I may be asked to confirm the truthfulness of the answers to t
 I also understand that VA may request further documentation or evidence to verify or confirm the applicant's eligibility: 
 
 - The page from the VBA rating decision showing your sponsor is permanently and totally disabled (or the death rating if you’re a survivor)
+  
 - Your sponsor’s DD214 (Certificate of Release or Discharge from Active Duty)—or, if the sponsor was a World War II or Korean War sponsor, the Report of Separation. If you don’t have a copy of the necessary form, you can request it by submitting a Standard Form 180, Request Pertaining to Military Records, from the National Archives. Find out how to request military service records online, by mail, or by fax
+  
 - A copy of documents related to any dependent children you’re including in your application
-- A copy of each child’s birth certificate or adoption papers
+
+ { show if checked 
+  - %%applicant's name%% is my child (includes biological, adopted, and stepchildren)
+  - { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) }
+
 - A copy of school certification of enrollment for children ages 18-23
+  
+{ show if checked 
+  - %%applicant's name%% is my child (includes biological, adopted, and stepchildren)
+  - { I'm / %%applicant's name%% is } the sponsor's child (includes biological, adopted, and stepchildren) and ages or 18-23 }
+
 - A copy of documents related to the applicant's marriage status
-- [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf)
+  
+    {show if checked
+  - { I'm / %%applicant's name%% is } the sponsor's spouse  o
+  - { I'm / %%applicant's name%% is } the sponsor's surviving spouse
+  -  { I / %%applicant's name%% } was the sponsor's surviving spouse but remarried after the age of 55
+  -   %%applicant's name%% is my spouse }
+
+
+- [CHAMPVA Other Health (OHI) Certification form 10-7959c](www.va.gov/vaforms/medical/pdf/VA-10-7959c-fill.pdf) 
+
+ {show if checked
+   - I am enrolled in Medicare Part A
+   - %%applicant's name%% is enrolled in Medicare
+   - I have other health insurance
+   -  %%applicant's name%% has other health insurance }
+
 - A copy of Medicare or other health insurance cards
 
+{show if checked
+   - I am enrolled in Medicare Part A
+   - %%applicant's name%% is enrolled in Medicare
+   - I have other health insurance
+   -  %%applicant's name%% has other health insurance }
 
 I confirm that the identifying information in this form is accurate and has been represented correctly.  
 
@@ -1290,17 +1448,14 @@ Your full name (* Required)
 
 [ ] I certify that the information above is correct and true to the best of my knowledge and belief. 
 
-{ Buttons } Back / Submit
+{ Buttons } Back / Submit application
 
 ------------------------------------------------------------------------------
 
-## [H1] Confirmation and next steps ##
+### [H2] Confirmation and next steps
 
-## [H1] Apply for CHAMPVA benefits
-
-{ subtitle } Form 10-10d
-
-### [H2] You’ve completed this portion of the your CHAMPVA benefits enrollment form
+{ Success alert }
+ { alert title } You’ve completed this portion of the your CHAMPVA benefits enrollment form
 
 ### [H2] Mail these documents to complete your enrollment
 
@@ -1313,7 +1468,6 @@ Before your enrollment submission is complete you must mail in these supporting 
 
 #### [H3] {{ %%applicant 1 name%% }}
 
-
 - { if checked I'm / the applicant is the sponsor's spouse or the applicant is my spouse add %%Copy of marriage license (required)%% }
 
 - { if checked I / the applicant is the sponsor's surviving spouse add %%Copy of marriage license (required)%% }
@@ -1322,7 +1476,7 @@ Before your enrollment submission is complete you must mail in these supporting 
 
 - { if checked The applicant is the sponsor's child add %%Copy of birth certificate (required)%% } 
 
-- { if checked The applicant is my childadd %%Copy of birth certificate (required)%% } 
+- { if checked The applicant is my child add %%Copy of birth certificate (required)%% } 
 
 - { if checked The applicant is the sponsor's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
@@ -1360,7 +1514,7 @@ Before your enrollment submission is complete you must mail in these supporting 
 - { if checked I / the applicant was the sponsor's surviving spouse but remarried after the age of 55 add %%Copy of the legal document that ended your marriage (required)%% } 
 - { if checked The applicant is the sponsor's child add %%Copy of birth certificate (required)%% } 
 
-- { if checked The applicant is my childadd %%Copy of birth certificate (required)%% } 
+- { if checked The applicant is my child add %%Copy of birth certificate (required)%% } 
 
 - { if checked The applicant is the sponsor's child and birthdate equals age 18 - 23 add %%Copy of school certificate (required)%% } 
 
@@ -1432,7 +1586,7 @@ You can print this confirmation page for your records
 | Y | radio | Did the applicant's sponsor pass away on active military service? | custom | | Select a response | |
 | Y | radio | Does your sponsor have a current mailing address? | custom | | Select a response | |
 | Y | radio | Do you have a current mailing address? | custom | | Select a response | |
-| Y | radio | Does the applicaan't sponsor have a current mailing address? | custom | | Select a response | |
+| Y | radio | Does the applicant's sponsor have a current mailing address? | custom | | Select a response | |
 | Y | radio | Does your sponsor have a phone number? | custom | | Select a response | |
 | Y | radio | Do you have a phone number? | custom | | Select a response | |
 | Y | radio | Does the applicant's sponsor have a phone number? | custom | | Select a response | |
@@ -1453,4 +1607,15 @@ You can print this confirmation page for your records
 | N | text | Phone number | Form system | Y | | Enter a 10-digit phone number (with or without dashes) |
 | N | text | Email address | Form system | Y | | Enter a valid email address using the format email@domain.com. Your email address can have only letters, numbers, the @ symbol and a period, with no spaces. |
 | N | text | Social Security Number | custom |  | Enter a Social Security number | Enter a valid 9-digit Social Security number (dashes allowed) |
+
+
+
+
+
+
+
+
+
+
+
 

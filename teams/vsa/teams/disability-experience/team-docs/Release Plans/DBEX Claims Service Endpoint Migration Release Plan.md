@@ -26,16 +26,16 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ## Overview Checklist
 - Notes
-- [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
-    - [ ] Pre-release Testing
-    - [ ] Review Cases
-    - [ ] Canary
+- [x] Phase I: Internal Testing and Review
+    - [x] Internal Testing and Review
+    - [x] Pre-release Testing
+    - [x] Review Cases
+    - [x] Canary
 - [ ] Phase II: Staged Rollout 
-    - [ ] Stage A: 1%
-    - [ ] Stage B: 5%
-    - [ ] Stage C: 10%
-    - [ ] Stage D: 25%
+    - [x] Stage A: 1%
+    - [x] Stage B: 5%
+    - [x] Stage C: 10%
+    - [x] Stage D: 25%
     - [ ] Stage E: 50%
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
@@ -219,7 +219,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage E: High traffic
 #### Planning
-- Date Started:
+- Date Started: 1/25
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 

@@ -2,17 +2,52 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan: 2024 21P-53-EZ Online Form Updates
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
-
-Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
+Goal: **How might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
 
 ## How to use this release plan
 
 1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
 2. Fill out all the details below.
 3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
+
+## Release Plan Overview
+
+If no staged rollout:
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Unmoderated production testing |2 days|TBD| TBD|
+|Phase 2: 100% of users |indefinite|100% of users (auth and non-auth)|TBD|
+
+If a staged rollout (may not be possible):
+
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Unmoderated production testing |2 days|TBD| TBD  |
+|Phase 2A: 25% of users |2 days|25% of users (auth and non-auth)|TBD|
+|Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
+|Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
+
+
+## Overview
+As outlined in the intiative brief, the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
+
+These updates will need to consider the following use cases:
+1. Users with in-progress forms
+   - Authenticated:
+      - Users will be signed out. Once they log back in they will be taken to the start of the form and prompted to fill in the new fields. They will see an info alert at the start of the form letting them know the form has been updated and contains new content.
+   - Unauthenticated
+      - Users would be kicked back to the start of the form and need to start over (no saved data). They will see an info alert at the start of the form letting them know the form has been updated and contains new content.
+3. Users with no in-progress forms
+   - Authenticated
+      - ? 
+   - Unauthenticated
+      - Users would seen an alert letting them know the form will be updated today and they may lose information if they start 
+ 
+
+These updates will include the following components:
+1. Form Flow updates on some pages (new fields, updated components, updated flow)
+2. Info alert on every(?) page that appears to users notifying them that the form has been updated and contains new content. This needs to be closely coordinated with CAIA (Aliyah Blackmore and Lily Strelich).
+3. Maybe: Warning alert on the Into page letting non-authenticated users know that form updates are coming on xx/xx/xxxx and they may lose data if they start a claim on that day.
 
 ---
 

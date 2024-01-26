@@ -6,30 +6,15 @@ Document terms in the VA ecosystem and how we're using them. Add definitions to 
 
 **beneficiary**
 :  
-Where this exists:  
-Working definition:  
-Style guide status:  
 
 **claimant**
 :  
-Where this exists:  
-Working definition:  
-Style guide status:  
 
 **issue**
 :  
-Where this exists:  
-Working definition:  
-Style guide status:  
 
 **applicant** 
 : 
-Where this exists:  
-Working definition:  
-Style guide status:
 
 **recipient**
 : 
-Where this exists:  
-Working definition:  
-Style guide status:

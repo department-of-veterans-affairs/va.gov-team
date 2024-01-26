@@ -28,6 +28,9 @@
 | Determine QA's role in being the voice of the customer in identifying that the design being proposed will be confusing for the user | Part of a convo with Tim on 1/18 | | 
 | testing account management and testing policy | need to work though how SS Platform QA team will need for test user and data prep in order to set expectations with those that work with us - Flagship and External Teams |
 | Can we increase automation of accessibility testing so we can test all types during RC testing vs rotating | | | 
+| Define and document rollback strategy  | 
+| How to capture metrics - manual , automated? Document | 
+
 
 
 ---------------------------------

@@ -39,7 +39,8 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | Joining Instructions                                       | ✅        |      |          |
 | Link to Join                                               | ✅        |      |          |
 | Provider Name                                              | ✅        | ✅    | ✅        |
-| Prepare for video visit instructions                       | ✅        |      |          |
+| [Instructions: [prepare for video visit](../../../appointments-reference/data-reference/data-definitions.md#video-visit-preparation---video-at-home)]
+| ✅        |      |          |
 | Call to Reschedule Alert                                   | ✅        |      |          |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |

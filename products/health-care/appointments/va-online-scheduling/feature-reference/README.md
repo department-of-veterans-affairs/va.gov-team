@@ -28,7 +28,7 @@ Booked appointments through VA or CC facilities.
 
 | Feature | Description |
 |---|---|
-| [Data definitions](data-definitions.md) | Explanations of the data VAOS displays in appointment types |
+| [Data definitions](../../appointments-reference/data-reference/data-definitions.mddata-definitions.md) | Explanations of the data VAOS displays in appointment types |
 | [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
 | [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care |

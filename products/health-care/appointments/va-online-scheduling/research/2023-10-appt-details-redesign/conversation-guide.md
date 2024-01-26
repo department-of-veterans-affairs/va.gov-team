@@ -111,22 +111,30 @@ Down at the bottom of this page, there is a link to "review your personal health
 - _Is the link percieved as a task?_
 - _Can participate find their way back from personal healthcare contacts page?_
 
-## 3: Upcoming video appointment
+## 3: Upcoming closed video appointment
 You have a video appointment scheduled with Allison Carter next month. You want more information on the appointment, how would you do that from here?
 
 **Follow up:** 
 - What are your thoughts on this page?
 - How would you get ready for this appoitment?
-- If this appointment were happening now, how would you attend?
 
 #### Things to watch for:
 
 - _Can participant find information on how to prepare for their appointment?_
 - _Does participant understand how to join their appointment?_
+
+## 4: Upcoming open video appointmnet
+You have another video appointment with cardiology, would you find that appointment?
+
+**Follow up:** 
+- What do you notice about the appointment information?
+
+#### Things to watch for:
+
 - _Does participant notice the "join appoitnment" link before the other CTA's?_
 
-## 4: Empty state
-You have a VA appointment scheduled for 2 pm on Wednesday the 14th and want to find out how to get to the appointment. How would you do that from here?
+## 5: ATLAS
+You have an audiology scheduled for 2 pm on Wednesday the 14th and want to find out how to get to the appointment. How would you do that from here?
 
 **Follow up:** 
 - What do you notice about the appointment information?
@@ -139,7 +147,7 @@ You have a VA appointment scheduled for 2 pm on Wednesday the 14th and want to f
 - _Does participant understand where to go for this appointment?_
 - _Can participant find the "need to make changes" information?_
 
-## 5: Phone appointment
+## 6: Phone appointment
 You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
 
 **Follow up:** 
@@ -150,7 +158,7 @@ You have a phone appointment with Nancy Portman and want to know more info about
 
 - _Does participant understand how to attend this appointment?_
 
-## 6: Cancelation
+## 7: Cancelation
 You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
 
 **Follow up:** 
@@ -164,7 +172,7 @@ You have a phone appointment with Nancy Portman and want to know more info about
 - _Can particpant find the cancelation button?_
 - _What does participant expect from canceling an appointment?_
 
-## 7: After visit summary
+## 8: After visit summary
 You had a podiatry appointment last month and want to review what was discussed in the appointment. Where would you go to find that information?
 
 **Follow up:** 
@@ -175,7 +183,7 @@ You had a podiatry appointment last month and want to review what was discussed 
 - _Can participant easily find their after visit summary?_
 - _Can participant easily navigate back from their after visit summary??_
 
-## 8: Appointment request
+## 9: Appointment request
 You made an appointment request and wanted to check on the status. How would you do that from here?
 
 **Follow up:** 
@@ -186,6 +194,16 @@ You made an appointment request and wanted to check on the status. How would you
 - _Can participant find pending appoitments?_
 - _Does participant understand pending appointments?_
 - _Does participant understand the information on the details page?_
+
+## 10: Empty State
+You have a VA Appointment on January 10 at 2:30 
+
+**Follow up:** 
+- What do you notice about the information given here?
+
+#### Things to watch for:
+
+- _Does participant notice the missing info?_
 
 ## Post-Task Interview
 

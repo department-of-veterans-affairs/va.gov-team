@@ -16,7 +16,7 @@ We're working to gather more details about how specifically we will submit forms
 
 ### What options were considered?
 
-The benefits API was considered and has been ruled out due to a lack of business process integration between VBA (Veterans Benefits Administration) and VHA (Veterans Health Administration), along with the time, effort, and expense in building these integrations. The VHA currently doesn't use CMP (Central Mail Portal), which the VBA uses, and the estimate from the VBA to build an integration to handle forms like 10-10d was 3 months.
+The benefits API was considered and has been ruled out due to a lack of business process integration between VBA (Veterans Benefits Administration) and VHA (Veterans Health Administration), along with the time, effort, and expense in building these integrations. The VHA currently doesn't use CMP (Central Mail Portal), which the VBA uses, and the estimate from the VBA to build an integration to handle forms like 10-10d was 3 months and would require funding.
 
 We also explored using an API to submit directly to VES, similar to the pattern used for forms like 10-10EZ that are also within VHA. If this were technically feasible, it would bypass multiple business processes (eligibility, claims, etc.) that need to remain intact to successfully serve CHAMPVA customers. Notably, some forms will never get sent to VES (even if the workflow went to VES, the documents would stay in PEGA). 
 
@@ -24,15 +24,17 @@ Box.com was mentioned early in the project but ruled out due to security concern
 
 ## Decision
 
-(The following assumes we will have the option to implement either option 2 or 3 above. As of this writing we don't consider option 1 viable.)
+- Strongly prefer to submit to PEGA via a RESTful API once available
+- Prior to availability of an API, we anticipate submitting documents to an s3 bucket to begin testing
 
-Moving forward, the IVC Forms team will:
-- Proceed with the assumption that PDF form submissions will be sent to PEGA once a workflow becomes available for a given form
-- Assume that there is a future state where form submissions will be sent to a RESTful API in addition to PEGA
-- Remain open to changes in the architectural landscape that may help us and our stakeholders streamline IVC processes
+
 
 ## Consequences
 
 ### What are the risks of this decision?
 
 ### How do we reverse this decision?
+
+### References
+Diagram from meeting with VA IVC team.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/1290901/25e19a40-6367-49bf-8461-8311e3870062)

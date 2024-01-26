@@ -34,7 +34,7 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
-*See: [Treatment Specialty](../data-definitions.md#treatment-specialty)
+*See: [Treatment Specialty](../../../appointments-reference/data-reference/data-definitions.md#treatment-specialty)
 
 ## Specifications
 

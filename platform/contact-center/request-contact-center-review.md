@@ -1,6 +1,6 @@
 # Veteran Support/Contact Center
 
-You can request the Veteran Support/Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
+You can request the Veteran Support/Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ATMiddleton%2C+Kimberley2023-CSM%2C+starlow00&labels=VSP-contact-center&projects=&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
 
 ## Overview
 

@@ -169,21 +169,21 @@ Use the cohort model, defined below:
   <tr>
    <td><strong>REQ</strong>
    </td>
-   <td><strong>1</strong>
+   <td><strong>A</strong>
    </td>
-   <td>2
+   <td>B
    </td>
-   <td>3
+   <td>C
    </td>
-   <td>4
+   <td>D
    </td>
-   <td>5
+   <td>E
    </td>
-   <td>6
+   <td>F
    </td>
-   <td>7
+   <td>G
    </td>
-   <td>8
+   <td>H
    </td>
   </tr>
   <tr>
@@ -553,6 +553,8 @@ Use the cohort model, defined below:
 ### **Recruitment criteria**
 
 _Primary criteria (must-haves)_
+
+All have VA health care as a benefit 
 
 Half are familiar with Travel reimbursement
 

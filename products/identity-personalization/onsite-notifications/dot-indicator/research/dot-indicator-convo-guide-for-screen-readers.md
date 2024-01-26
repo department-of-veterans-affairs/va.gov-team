@@ -1,6 +1,6 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator for Screen Reader Users, October 2023
 
-- [ ] Make sure password has been changed from previous session for staging account
+- [ ] Make sure CodePen is functional
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
@@ -44,24 +44,24 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
-Now I'm going to ask you to open a new tab in your chosen browser and go to staging.va.gov and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the link I've shared (in Zoom Chat?) and then share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. Now please navigate to the "sign in" button and I'll tell you the credentials you should type to log in.
+Okay great, I can see your screen. Now please navigate to the "sign in" button and __(what to do about credentials for screen reader user?)__
 
 - *Once they have logged in and the full page has loaded* Now that you've logged in, how would you typically go about navigating the page?
 
 - *Let them navigate down the page however they prefer. If they come across the links with indicators, ask:* What are the screen reader cues telling you about these links? How are you interpreting each of them? *Gauge whether the cues are stopping them in their tracks and seem important or are being ignored*
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have any unread health care messages?
+   	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have updates to prescriptions or prescription refills?
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have new lab results to review?
- 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have past medical appointments that are eligible 	for travel reimbursement?
 
 - How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well?
   
 - How do you think each of these notifications that are being read to you would no longer be there and it would just be a plain link?
-  
-- What would you expect to happen if you selected the link for "Request travel reimbursement" and it says you have **Review eligible appointments**? *Need to decide what the aria label should be if we end up including a dot for this link*
 
-- What would you expect to happen if you selected the link for "Get your VA medical records and lab and test results" and it says **You have new medical records or test results** *Need to decide what the aria label should be if we end up including a dot for this link*
+- What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages** *Need to decide what the aria label should be if we end up including a dot for this link*
+
+- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have prescription status updates** *Need to decide what the aria label should be if we end up including a dot for this link*
 
 ## Thanks and Closing - 2 minutes
 
