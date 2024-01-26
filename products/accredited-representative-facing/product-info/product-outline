@@ -26,16 +26,12 @@ The site increases the number of claims accepted or rejected digitally
 Representatives begin to use and trust the site
 Representives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
 
-## Undesired User Outcomes
-Representatives find the site too confusing or ineffiencent
-Representatives continue to use paper/manual forms
 
 ## Desired Business Outcomes
 Increased use of digital forms which is a current OCTO priority
 Decrease in forms that are unanswered or unresponded to
 
-## Undesired Business Outcomes
-Representatives are unwilling to use the site, even as it expands into other uses
+
 
 ---
 ## Measuring Success
@@ -43,7 +39,7 @@ Representatives are unwilling to use the site, even as it expands into other use
 
 ### Key Performance Indicators (KPIs)
 Increased use of digital acceptance of forms
-significantly positive customer feedback
+positive customer feedback
 decrease in time between when a VSO accepts a 2122 and when the rep can access Veteran's records
 
 
@@ -52,9 +48,8 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 - Objective:
   - The majority of representatives report an easy experience with the process of using the site
-  - Key result: 
  - The time between acceptance of representation and access to the Veteran's record is shortened
-  - Key result: 
+  
 
 
 ---
@@ -67,28 +62,22 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 ## Solution Approach
 
-- Create a flexible site built on va.gov. 
--Make it 
+- Create a flexible site built on va.gov that can be expanded to allow other rep facing tasks
+- create a visually distinctive site that still conforms to VA.gov look and feel
+- Create a site that allows VSOs to accept or reject 2122
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+*Parallel effort to conduct research with accredited represntatives to further explore what a represntative site could be used for and prioritize those needs. 
 
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- *We will collaborate with Office of General Counsel and VBA VSO liason (Marty Calloway) in addition with the Office of Public and Intergovernmental Affairs to make VSO aware of the new site and encourage adoption.
 
 ## Launch Dates
 - *Target Launch Date*
-  - Late June/early July
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Late June/early July staying aware of possible code freezes.
+
 
 ---
 
@@ -112,11 +101,10 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 <details>
 
-- Team Name: 
+- Team Name: Accredited Representative Facing
 - GitHub Label: 
 - Slack channel: 
-- Product POCs:
-- Stakeholders: 
+
 
 </details>
 
@@ -124,18 +112,20 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Jennifer Bertsch
+ - PM: Rivka Gates
+ - Engineering: Derrick Ellerbie, Emily Gullo, Gabriel Zurita, Jesse Cohn, Oren Mittman, William Phelps
+ - Research/Design: Kara Sanchez, Rebecca Blakiston, Renata Keck
  
 </details>
 
 
 #### Stakeholders
 
-<details>
+Marty Calloway
+Brandy Trailer
+
  
 _What offices/departments are critical to make this initiative successful?_
- 
+ Lighthouse - connections to their APIs
 </details>
