@@ -77,9 +77,19 @@ Remote on Zoom
 
 ### Research materials<a id="research-materials"></a>
 
-- \[Link to conversation guide]\(url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-02-appointarep-unauth-usertest/conversation-guide.md)
 
-- \[Link to prototype]\(url goes here)
+Link to mobile prototype A, legal accordion
+- https://www.figma.com/proto/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?page-id=455%3A76935&type=design&node-id=456-171489&viewport=1609%2C384%2C0.06&t=rZ1VQq7tHmw9EoxU-8&scaling=min-zoom&starting-point-node-id=456%3A171489&hotspot-hints=0&hide-ui=1
+
+Link to mobile prototype B, legal pop-up
+- TBD
+
+Link to desktop prototype A, legal accordion
+- https://www.figma.com/proto/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?page-id=455%3A76935&type=design&node-id=455-148692&viewport=1609%2C384%2C0.06&t=UZEPoTCE0mPnD2iM-8&scaling=min-zoom&starting-point-node-id=455%3A148692&hotspot-hints=0&hide-ui=1
+
+Link to desktop prototype B, legal pop-up
+- TBD
 
 
 ## Recruitment<a id="recruitment"></a>
