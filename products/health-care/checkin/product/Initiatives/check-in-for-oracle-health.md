@@ -33,7 +33,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
     - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
 - Veteran will be asked if they are "at the facility"
      - If answer is "Yes"
-        -  **We will set the status to 'Patient Confirmed'**
+        -  **We will set the patient status to 'Confirmed'**
      - If answer is "No"
         - **We will NOT set the status**
 - Veteran will **NOT** be asked to verify their demographics
