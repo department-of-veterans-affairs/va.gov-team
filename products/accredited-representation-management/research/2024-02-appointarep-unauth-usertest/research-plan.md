@@ -305,6 +305,6 @@ Please list the people who will be serving in each role. Include the **primary p
 
 - **\*Accessibility specialist (for sessions where support for assistive technology may be needed):** N/A
 
-- **\*Notetakers:** Janelle ****will forward invites based on sign-up sheet.
+- **\*Notetakers:** Janelle will forward invites based on sign-up sheet.
 
-- **\*Observers:** Janelle ****will forward invites based on sign-up sheet.
+- **\*Observers:** Janelle will forward invites based on sign-up sheet.
