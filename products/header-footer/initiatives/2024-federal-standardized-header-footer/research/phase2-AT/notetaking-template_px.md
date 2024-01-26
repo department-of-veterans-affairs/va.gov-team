@@ -10,7 +10,7 @@
 
 1. *What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)*
 
-1. *What assistive technology are you using right now? (screen reader / magnifier _______________________)*
+1. *What assistive technology are you using right now? (screen reader / magnifier name: _______________________)*
 
 1. *How would you rate your level of experience with using a screen (reader / magnifier)--beginner, intermediate, advanced, or expert?*
 
