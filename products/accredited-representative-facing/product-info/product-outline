@@ -7,9 +7,9 @@
 We will create a site for accredited representatives hosted on va.gov yet visually distinct where VSOs are able to accept or reject representation requests from form 2122.
 
 ## Problem Statement
-The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site, or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
+The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site (SEP), or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
 
-HOw might we digitize the 2122 and host it on a more modern site.
+How might we digitize the acceptance of form 2122 and host it on a more modern site.
  
 ## Desired User Outcomes
 
