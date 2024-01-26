@@ -12,7 +12,7 @@ The overall VAOS product goal for this work is to improve completion of the VA f
 
 We believe that if we surface only the facilities where the Veteran currently receives care, they will be able to find relevant facilities more easily and improve their chances of completing this step in the process.  
 
-![A chart showing abandonment rate at various stages through VAOS](images/vaos-'steps.png)  
+![A chart showing abandonment rate at various stages through VAOS](images/vaos-steps.png)  
 
 *Above: Chart showing facility selection page has the highest abandonment rate (33.11%) in the VAOS scheduling flow (data from request flow, April 1, 2021 - June 22, 2021)*
 
@@ -24,11 +24,12 @@ For the prototype test, we split our eight veterans into two groups so we could 
 
 In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)), we asked participants to navigate to the profile from the VAOS facility page to manage their current facilities, then return to VAOS to finish scheduling their appointment. 
 
-![Scenario 1 prototype video](./images/preferred-facility-prototype-scenario-1.mp4)
+
+<video src="images/preferred-facility-prototype-scenario-1.mp4" controls title="Scenario 1 prototype video"></video>
 
 In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
 
-![Scenario 2 prototype video](./images/preferred-facility-prototype-scenario-2.mp4)
+<video src="images/preferred-facility-prototype-scenario-2.mp4" controls title="Scenario 2 prototype video"></video>
 
 The rest of the tasks were the same for both scenarios:
 
@@ -130,7 +131,7 @@ When asked to describe the facilities they'd expect to see if the list was based
 
 > "I wouldn't expect to see \[far away facilities\] here. I don't know why I'd want to drive 1,000 miles to a VA facility. If I needed something unique like that I'd expect to go to a little bit of trouble to find it." - P7
 
-3 participants surmised it might be useful to see previously visited facilities in their list if they were traveling back to that area. However, one didn't think this would be helpful because they   expected they would need to call any facility in a different network to re-establish care there before scheduling a new appointment online. 
+3 participants surmised it might be useful to see previously visited facilities in their list if they were traveling back to that area. However, one didn't think this would be helpful because they expected they would need to call any facility in a different network to re-establish care there before scheduling a new appointment online. 
 
 No one had an immediate reason they would need to see this information. Other notes about registration:
 
@@ -157,10 +158,10 @@ Over the course of the sessions, four participants told us they start with secur
 
 > "I do better with secure messaging. This way I can see it. With a little bit of hearing loss, I don't always want to be on the phone saying, "Sorry, I didn't hear what you said, Sorry, can you say that again?" It gets annoying for me. I can only imagine what the person on the other end would be thinking." - P11
 
-Half of the participants prefer to make appointments in person.There was no larger theme here, but some of the unique points included:
+Half of the participants prefer to make appointments in person. There was no larger theme here, but some unique points included:
 
 * Two mentioned that it was sometimes more convenient to walk in to schedule than call.
-* Another said they liked to make their follow up appointments with the scheduler at the facility right after they completed an appointment.
+* Another said they liked to make their follow-up appointments with the scheduler at the facility right after they completed an appointment.
 
 ### 7 of 8 participants shared a negative perception of calling the VA
 
