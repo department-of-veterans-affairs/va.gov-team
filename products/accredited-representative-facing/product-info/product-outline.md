@@ -14,14 +14,14 @@ Ensure the site's design accommodates future expansions for additional tasks acc
 The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site (SEP), or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
 
 How might we digitize the acceptance of form 2122 and host it on a more modern site. This is a complimennt to the ARM team's work. (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md)
- 
+
 ## Desired User Outcomes
-A Veteran Service Organization is able to accept or reject a Veteran’s request for power of attorney (21-22) 
+A Veteran Service Organization is able to accept or reject a Veteran’s request for power of attorney (21-22)
 A National Veteran Service Organization has administrative control over who can manage POA requests within their organization
-A Veteran Service Officer with ability to accept or deny is notified when a  POA request is pending for my review 
-A Veteran Service Officer has a secure login system to verify accreditation and identity 
+A Veteran Service Officer with ability to accept or deny is notified when a  POA request is pending for my review
+A Veteran Service Officer has a secure login system to verify accreditation and identity
 A Veteran who is a Veteran Service Officer can be confident that they are affecting only the Veteran’s files and not their own
-A Veteran is notified whether their POA request was accepted or rejected 
+A Veteran is notified whether their POA request was accepted or rejected
 The site increases the number of claims accepted or rejected digitally
 Representatives begin to use and trust the site
 Representives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
@@ -52,9 +52,9 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 - Objective:
   - The majority of representatives report an easy experience with the process of using the site
-  - Key result: 
+  - Key result:
  - The time between acceptance of representation and access to the Veteran's record is shortened
-  - Key result: 
+  - Key result:
 
 
 ---
@@ -67,15 +67,15 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 ## Solution Approach
 
-- Create a flexible site built on va.gov. 
--Make it 
+- Create a flexible site built on va.gov.
+-Make it
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
 - Initiative | [Link to Initiative Brief](#)
 
---- 
+---
 
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -85,7 +85,7 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 ## Launch Dates
 - *Target Launch Date*
   - Late June/early July
-- *Actual Launch Date* 
+- *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
@@ -99,7 +99,7 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 ### Key Decisions
 
 ---
-   
+
 ## Screenshots
 
 ### Before
@@ -112,30 +112,30 @@ decrease in time between when a VSO accepts a 2122 and when the rep can access V
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
+- Team Name:
+- GitHub Label:
+- Slack channel:
 - Product POCs:
-- Stakeholders: 
+- Stakeholders:
 
 </details>
 
 #### Team Members
 
 <details>
- 
- - DEPO Lead: 
- - PM: 
+
+ - DEPO Lead:
+ - PM:
  - Engineering:
- - Research/Design: 
- 
+ - Research/Design:
+
 </details>
 
 
 #### Stakeholders
 
 <details>
- 
+
 _What offices/departments are critical to make this initiative successful?_
- 
+
 </details>
