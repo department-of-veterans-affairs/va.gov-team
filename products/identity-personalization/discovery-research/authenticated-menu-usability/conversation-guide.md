@@ -17,7 +17,7 @@ Today we're going to talk about navigating a VA website when you’re signed in.
 - **This entire session should take about 45 minutes/60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know. Whether you choose to participate or not will not affect your benefits in any way with the VA.
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. I have prepopulated the prototype with your name, just so it feels a little more realistic. It's mostly populated with dummy data. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
   - If no: Use Slack to let observers know
   - If yes: Admit observers.
@@ -41,6 +41,9 @@ Before we look at anything, I’d like to learn a little more about your experie
    - *If yes*: Which website? Tell me about how you use that once you’re logged in.
    - *If no*:  What websites do you sign into? How do you use those websites?
    - *Moderator goal:* gather background info that might be helpful later in the session
+3. _If they have a rated disability:_ I'm going to update the prototype with your disability rating, just so it feels a little more realistic. Would you mind telling me your percent rating? 
+
+**_Update dynamic data file_**: [https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
 
 ## Task 1: Navigate to view disability rating - 5 minutes
 
