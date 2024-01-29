@@ -1,13 +1,12 @@
 # About this Research Study
-- **Study Name:** Project Name (ex. MHV Authenticated Experience)
-- **Study Dates:** (can be month study was held or specific)
-- **Study Research Lead:**
-- **A11y Collaborators:**
-- **Related Docs:** Link to research plan and communication guide - or link to project's GitHub link?
-- **Ticket Links:** EPIC and/or CAIA research assistance request ticket
+- **Study Name:** MHV Cartography Team - Secondary Navigation
+- **Study Dates:** January 2024
+- **Study Research Lead:** Florence McCafferty
+- **Related Docs:** [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-plan.md), [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md)
+- **Ticket Links:** [Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73996)
 
 # Accessibility Tools Utilized
-`ZoomText` `JAWs` `iOS-VO` (List types of AT covered here)
+`iOS-VO`, ...
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
@@ -27,7 +26,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
 | _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
-|                        |                  |                    |                 |                      |             |             |
+|P10                        |1/29/24                  |VoiceOver                    |Advanced                 |iOS                      |Safari             |iPhone             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
