@@ -23,7 +23,7 @@
 7. iris_branchofservice
 8. iris_country
 9. iris_dependentrelationship
-10. iris_getintouch
+10. iris_responsetype
 11. iris_province
 
 **Headers**:
