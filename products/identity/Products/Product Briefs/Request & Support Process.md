@@ -53,10 +53,12 @@ For this first iteration, the focus will be on:
 | ------------- |:-------------:| 
 | |               |
 
-## UX/ Design Considerations:
+## UX/ Research Ideas Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-|  |               |
+| Gather Metrics from Slack  |               |
+| Survey from Team  |               |
+| Inventory of Methods used for intake across VA teams  |               |
 
 
 ## Measuring Success:
