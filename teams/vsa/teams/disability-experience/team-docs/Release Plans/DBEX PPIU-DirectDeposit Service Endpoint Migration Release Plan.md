@@ -222,8 +222,15 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
-- Anomalies
+- Anomalies:
+    - Abnormally high volume of errors (~11%), almost all the known `gsub` error
 - Rollbacks:
+    -       Rollback reason: Though the gsub error occurs for both sides of the migration, the volume this time is concerning. Let's talk to platform and determine what we can do
+            Date: 1/29/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [] Has the issue been resolved?
+                - Determined not to be caused by our migration; appears to have always been a silent issue. Will investigate separately from rollout
 
 <br>
 
