@@ -9,6 +9,7 @@
 | va_online_scheduling | Allows veterans to view their VA and Community Care appointments |  |  | n/a | Toggle that manages the whole application. Should remain "enabled for everyone" at all times. |
 | va_online_scheduling_cancel | Allows veterans to cancel VA appointments
 | va_online_scheduling_GA4_migration |  A feature toggle to update the tracking events to Google Analytics 4
+| va_online_scheduling_clinic_filtering | Enables toggling of clinic stop code filtering and coordination with VAOS service team | [#74659](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/74659) |n/a | n/a 
 | va_online_scheduling_community_care | Allows veterans to submit requests for Community Care appointments
 | va_online_scheduling_direct | Allows veterans to directly schedule VA appointments
 | ~~va_online_scheduling_facility_selection_v2_2~~ | Next iteration of facility selection, version 2.2. | n/a | n/a | [#53715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53715) |  
