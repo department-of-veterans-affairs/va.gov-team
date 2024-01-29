@@ -31,3 +31,4 @@ Practice areas will document their feedback on the VFS-provided artifacts follow
 - [ ] Format feedback as individual tasks (check boxes)
 - [ ] Assign this ticket to the VFS team member that opened the Slack request
 - [ ] Add the VFS team product label and the feature label
+- [ ] Add the touchpoint and practice area labels
