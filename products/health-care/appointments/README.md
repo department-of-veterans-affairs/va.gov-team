@@ -37,10 +37,10 @@ Tools Veterans and facilities can use to manage, track, and schedule appointment
 
 ### Veteran touchpoints
 
-| Touchpoint           | Channel  |
+| Touchpoint           | Channel/Touchpoint  |
 |----------------------|----------|
-| My HealtheVet        | Web app  |
-| [VA Online Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/README.md) | Web app  |
+| My HealtheVet National Portal      | Web app  |
+| [MHV Appointments on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/README.md) | Web app  |
 | VEText               | Text/SMS |
 | Check-in Experience  | Web app  |
 | Flagship Mobile App  | Mobile app |

@@ -12,7 +12,7 @@ In December 2023, downtime notifications were implemented on the secure messagin
 
 The recommendations below build upon that initial implementation and assume the following:
 - The MHV landing page doesn't yet have any downtime notification, leaving users to discover downtime when they reach a tool page.
-- The three tool pages besides Appointments all have out-of-the-box downtime alerts set up, triggered by PagerDuty. (See [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702946244611/d44fd191e13bc9d66a67d6e27deda6f1ee4a6f88?wid=0-1704931276185) for visuals.) This implementation includes 1) a modal that displays during the 60 minutes leading up to a maintenance window and 2) a `va-alert component` that replaces the react app during the window.
+- The three tool pages besides Appointments all have out-of-the-box downtime alerts set up, triggered by PagerDuty. This implementation includes 1) a modal that displays during the 60 minutes leading up to a maintenance window and 2) a `va-alert component` that replaces the react app during the window.
   - It was discovered later that this particular PD service was set up by the Identity team, and is intended to cover the MHV login service only.
 - The initial implementation of downtime alerts on the tool pages has one accessibility issue that needs to be addressed: during the maintenance window there is no H1 on the page, so the user (and especially one using assistive tech) can't easily tell what tool is missing. There are also content improvements recommended by CAIA.
   - Note: also consult IA about whether a breadcrumb should be present during downtime

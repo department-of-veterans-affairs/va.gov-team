@@ -1,7 +1,8 @@
 # Conversation Guide for Authenticated Experience, Authenticated Menu, January 2024
 
 ## Moderator logistics
-- [ ] Update participants name in prototype
+- [ ] Update participants name in [dynamic data file](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
+- [ ] Update participants name in [Auth mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704919248748/7c3f93534f193882990dbdb152b902b2755dc176?sender=ub868d471cfdb1c56cc0b4512)
 - [ ] Post in #feedback-backchannel 
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - [ ] Check your [screensharing setup] and share permissions for participants.
@@ -16,7 +17,7 @@ Today we're going to talk about navigating a VA website when you’re signed in.
 - **This entire session should take about 45 minutes/60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know. Whether you choose to participate or not will not affect your benefits in any way with the VA.
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. I have prepopulated the prototype with your name, just so it feels a little more realistic. It's mostly populated with dummy data. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
   - If no: Use Slack to let observers know
   - If yes: Admit observers.
@@ -40,6 +41,9 @@ Before we look at anything, I’d like to learn a little more about your experie
    - *If yes*: Which website? Tell me about how you use that once you’re logged in.
    - *If no*:  What websites do you sign into? How do you use those websites?
    - *Moderator goal:* gather background info that might be helpful later in the session
+3. _If they have a rated disability:_ I'm going to update the prototype with your disability rating, just so it feels a little more realistic. Would you mind telling me your percent rating? 
+
+**_Update dynamic data file_**: [https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
 
 ## Task 1: Navigate to view disability rating - 5 minutes
 
@@ -52,7 +56,11 @@ Great, I can see your screen. Next, I’ll have you pull up the prototype. Would
 Prototype link: [https://cdpn.io/pen/debug/JjzNWbR](https://cdpn.io/pen/debug/JjzNWbR)
 *Guide participant to prototype. Prototype will start on the unauthenticated version of the life insurance page.*
 
-Excellent, I can see the prototype on your screen.  Just as a reminder, since this is a prototype, not everything is clickable or fully functional.  It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  
+Excellent, I can see the prototype on your screen.  
+
+Just as a reminder, since this is a prototype, not everything is clickable or fully functional. We’re using a tool called CodePen for the prototype, so you might encounter that word as you go through the screens.
+
+It’ll be helpful if you can think out loud as much as possible so I can understand how this prototype works for you.  
 
 First, I’d like for you to show me how you’d use this prototype to see whether or not you have any rated disabilities on file with VA. 
 

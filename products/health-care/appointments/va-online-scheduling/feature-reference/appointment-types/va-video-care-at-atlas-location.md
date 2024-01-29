@@ -35,6 +35,7 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 | Directions Link                                            | ✅        | ✅    | ✅        |
 | Appointment Code                                           | ✅        |      |          |
 | Provider Name                                              | ✅        | ✅    | ✅        |
+| [Instructions](../../../appointments-reference/data-reference/data-definitions.md#instructions-how-to-join): [Medication review](../../../appointments-reference/data-reference/data-definitions.md#medication-review---atlas)                            | ✅        | ?    | ?        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 | Call to Reschedule Alert                                   | ✅        |      |

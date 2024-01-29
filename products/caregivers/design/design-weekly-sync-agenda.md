@@ -1,4 +1,9 @@
 # Design Weekly Sync Agenda
+## 2024-01-29
+Attendees: TBD
+
+- UX Grooming: can we review the UX work spreadsheet and clean it up? It's a bit messy with some icebox work, completed work, etc.
+
 ## 2024-01-22
 Attendees: Angela, Hieu, Jessica, Katelyn, (Heather and Kristen for second half)
 

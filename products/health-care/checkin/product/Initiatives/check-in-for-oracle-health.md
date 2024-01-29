@@ -31,27 +31,25 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
     - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
-- Veteran will be asked to verify their personal, emergency, and next-of-kin contact information while checking in for an OH appointment
-    - **We will retrieve contact information (personal, emergency, & next-of-kin) from the VA Profile Contact and Profile services via MAP instead of from Vista**
-    - **If the Veterans answers 'Y' to all 3 contact verification questions**
-        - For OH appointments
-            - **We will update a single timestamp for the personal contact database record in VA Profile**
-        - For Vista appointments
-            - **We will update a single timestamp for the personal contact database record in VA Profile**
-            - **Per current functionality, we will update the 3 timestamps & 3 verified flags for personal, emergency, & next-of-kin contact database records in Vista based on the responses**
-    - **If the Veteran answers 'N' to any of the 3 contact verification questions**
-        - For OH appointments
-           - **We will NOT update any timestamps in VA Profile**
-           - **Per current functionality, We will instruct the Veteran to check in with staff**
-        - For Vista appointments
-          - **We will NOT update any timestamps in VA Profile**
-          - **Per current functionality, we will update the 3 timestamps & 3 verified flags for personal, emergency, & next-of-kin contact database records in Vista based on the responses**
-          - **Per current functionality, We will instruct the Veteran to check in with staff**
+- Veteran will be asked if they are "at the facility"
+     - If answer is "Yes"
+        -  **We will set the patient status to 'Confirmed'**
+     - If answer is "No"
+        - **We will NOT set the status**
+- Veteran will **NOT** be asked to verify their demographics
+    - **For Vista appts - we will still ask to verify**
 - Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
-- Veteran can complete check in
-    - For OH appointments
-        - **We will send a status update to OH to let staff know the Veteran has arrived for their OH appointment**
-    - For Vista appointments
+- Veteran can complete the process
+    - For OH appointments: "Let staff know they've arrived & travel claim being processed"
+        - **We will submit their travel claim**
+        - **We will tell the Veteran to go to the desk when they get to the waiting room**
+        - **We will set the patient status in OH based on the answer to the "are they at the facility" question**
+            - If answer is "Yes"
+                -  **We will set the status to 'Arrived'**
+            - If answer is "No"
+                - **We will NOT set the status**
+    - For Vista appointments: "Check in Now"
+        - **We will submit their travel claim**
         - **Per current functionality, we will send a status update to Vista that the Veteran has completed the check-in process**
 
 ### Not Included in the MVP
@@ -62,11 +60,16 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 - Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
      
 ## Questions 
-- Does IVC want VeText to check for insurance update? - answer is no
+- Does IVC want VeText to check for insurance update?
+    - Answer: No
 - How are we sending the arrived status to OH? (via MAP services?, VeText?)
+    - Answer: we will pursue setting the status via a vets-api call that interfaces with CES
 
 ## Workflows
 
 ### Veteran Workflow
-[FINAL TECH NOTES_ WORKING DRAFT of PCI Oracle Cerner Integration Pre-Check-In and E-Check-In Workflows v.01_KL (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14054574/FINAL.TECH.NOTES_.WORKING.DRAFT.of.PCI.Oracle.Cerner.Integration.Pre-Check-In.and.E-Check-In.Workflows.v.01_KL.1.pdf)
+- [FINAL TECH NOTES_ WORKING DRAFT of PCI Oracle Cerner Integration Pre-Check-In and E-Check-In Workflows v.01_KL (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14054574/FINAL.TECH.NOTES_.WORKING.DRAFT.of.PCI.Oracle.Cerner.Integration.Pre-Check-In.and.E-Check-In.Workflows.v.01_KL.1.pdf)
+- PCI Blueprint including OH and VistA appointments [Download Service Blueprint PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/14058249/PCI.Service.Blueprint.2024.pdf) ([Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286))
+
+
 

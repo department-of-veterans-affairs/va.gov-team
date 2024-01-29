@@ -1,7 +1,7 @@
 # Request & Support Process
 
 ## Overview: 
-Create processes & forms & dashboards to manage & fulfill requests from other va.gov Product Teams:
+Create processes & forms & dashboards to manage & fulfill requests from other va.gov Product Teams, possibly including:
 * Intake form
 * Summation of the work we need to do
 * Estimate of the time it will take
@@ -23,6 +23,7 @@ For this first iteration, the focus will be on:
 
 ## Out of Scope: 
 *  Sign-in Service requests
+*  Creating metrics
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
@@ -34,7 +35,7 @@ For this first iteration, the focus will be on:
 
 
 ## Assumptions:
-* 
+* We leverage previous experience supporting other teams to create this process.
 
 ## Solution Approach: 
 * 
