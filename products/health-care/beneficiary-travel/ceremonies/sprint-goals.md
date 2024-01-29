@@ -1,11 +1,30 @@
 # BTSSS on VA.gov Sprint Goals
 
+## 1/29/2024 - 2/9/2024
+### Goals
+- Prep for integration
+- Monitor research progress
+
+### Notes
+- Discussion 1/30/24 between VA.gov and API teams - impact of VA network requirements for integration
+  - Tickets resulting from meeting anticipated to be included in this sprint
+- Product Lead starting 2/1/24
+
+
+## 1/15/2024 - 1/26/2024
+### Goals
+- Finalize research artifacts and scheduling
+
+### Notes
+- Holiday 1/15/2024
+
 ## 1/1/2024 - 1/12/2024
 ### Goals
 - Prep for research study: research plan draft, conversation guide draft, coordination with Perigean
 - Decision: Assumption for where the status of a claim will display
 
 ### Notes
+- Holiday 1/2/2024
 - Collab cycle - partial Research Review (with Shane)
 
 ## 12/18/2023 - 12/29/2023
