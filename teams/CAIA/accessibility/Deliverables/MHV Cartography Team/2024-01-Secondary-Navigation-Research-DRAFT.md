@@ -6,7 +6,7 @@
 - **Ticket Links:** [Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73996)
 
 # Accessibility Tools Utilized
-`iOS-VO`, ...
+`iOS-VO`, `MacOS-VO`, ...
 
 ## Coverage
 This research fufilled X% (y/z) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
