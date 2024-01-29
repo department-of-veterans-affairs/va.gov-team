@@ -87,35 +87,30 @@ Add screenshots, images and videos here.
 
 ## a11y Recommendations
 
+### Use an expanded menu on mobile, and add additional options
+- Whether you're using icons or not, users had an easier time accessing the MHV nav bar when the links were expanded (as in Prototype B) rather than hidden by default (as in Prototype A).
+- Consider adding other options, like applying for medical supplies, to the nav bar. Since there are design constraints, perhaps these could go under a "More" or "Other" menu. Yes, they'd need to be hidden by default, but at least they'd be accessible without having to go to the home page.
+- Hypothesis: This will make it easier for AT users to use MHVs navigation and find what they need, without needing to go to the home page (or _know_ that they need to go to the home page) to access more options.
 
-### If we don't have enough data or research to know...
-Point out the gaps
+### Prototype B - Replace the accessible name of "Apps" with "Appointments"
+- You can do this in one of two ways:
+   1. Change the visible text label from "Appts" to "Appointments"
+   2. Add `aria-label="Appointments"` to that navigation link. The `aria-label` will become the accessible name of the link, and assitive tech users will hear "Appointments" read aloud. (_Note:_ if this page is ever translated, you'll need to manually change the aria-label as well.)
+- Hypothesis: This will clear up confusion around what "appts" means, since AT users will hear the full word "Appointments."
 
-## Next Steps
-A list of actionable findings, based on time-sensitive, priority needs. Images, videos, links, screenshots and notes provided as deemed approprite. 
-
-### Complete Now
-- x
-### Complete Soon
-- x
-### Complete Later
-- x
+### "X-ray results" / Individual message - change the heading structure
+- Currently, the X-ray results individual message has "X-ray results" as the H1.
+- Instead, you can structure the page as follows:
+```
+<h1>Message</h1>
+<h2>X-Ray Results</h2>
+```
+- Hypothesis: this will clarify that the user is on an individual message with a title of "X-ray results."
+- Hypothesis: this may also clarify that the user is **not** on the MHV home page, which will better orient them as they enter the site.
 
 ## Other considerations and findings 
 
-_A finding that may not be relevant to the study, but worth talking about. Include images as needed._
-
-### List of caught defects and issues
-
-#### Relevant to this team
-- [ ] Description of issue and how to replicate
-
-#### Belongs to other teams
-- [ ] Description of issue and how to replicate
-
-#### Design system
-- [ ] Description of issue and how to replicate
-
-## References
-<a id="1">[1]</a> 
-Citations if needed 
+- Finding results from the Medical Records page, and figuring out where to make an appointment on the Appointments page, went very well!
+- Users loved getting to the page they needed right away, without having to navigate through the website. They also loved that their latest medical tests showed up on top of the list.
+- Overall, users found it more accessible than what they were used to, and easy to use. :)
+- It's generally not recommended to "hack" a screen reader's pronunciation of a word (like "MyHealtheVet"). Users ususally get used to the 'fun' way that brand names are mispronounced, and changing it could be confusing. `if another SR users calls it out, change this`
