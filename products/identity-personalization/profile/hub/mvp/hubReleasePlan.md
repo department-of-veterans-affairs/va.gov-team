@@ -83,9 +83,10 @@ For metrics see the product outline as each phase has metrics tracked there.
 Since this is a cosmetic shift without complex logic unique to individual users. We s
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 100% | 12/19/2023 |  |
+| Launch to 100% | 12/19/2023 | 12/19/2023 |
 
 ### 1-week results at 100%
+see metrics on the mvp page
 ||Results|
 |---|---|
 |Number of unique users:||
