@@ -1,29 +1,34 @@
 # Request & Support Process
 
 ## Overview: 
-Create processes & forms & dashboards to manage & fulfill requests from other va.gov Product Teams, possibly including:
+
+Top Goals:  One of our 2024 OKRs is develop a Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
+
+* Create an intake process for feature requests, updates, bug fixes, data requests, etc.
+* Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
+
+Create solutions to manage & fulfill requests from other va.gov Product Teams, possibly including:
 * Intake form
 * Summation of the work we need to do
-* Estimate of the time it will take
-* Prioritization of the request vs. other requests
-* (other ideas as suggested by the team)
 
+Potential add-ons (but not primary goal)
+* Estimate of the time it will take (post initial in-take)
+* Prioritization of the request vs. other requests (should be out of scope, dependent of PRODUCT prioritization)
 
 ## Problem Statement: 
-Currently, we have no process in place to take requests from other product teams, track what we are doing to fulfill those requests, and manage the overall workload created by those requests.
-
-One of our 2024 OKRs is develop a Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
-
+Currently, we have no clearcut and a disjointed/one-off process to field requests from other product teams.  In order to triage, manage and fulfill those requests, we need to clearly define a workflow/process in order to be able to track the overall workload created by those requests.
 
 ## Relevant Documents:
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* Developing the processes and forms and dashboards as needed to organize our support other teams
+* Developing the processes as needed to support other teams' requests for feature requests, updates, bug fixes, data requests, etc.
+* Sign-in-Service intake requests and routing to the appropriate persons on the Identity Core team for follow-up action
 
 ## Out of Scope: 
-*  Sign-in Service requests
-*  Creating metrics
+*  Sign-in-Service documentation updates
+*  Sign-in-Service bug/feature resolution
+*  Creating metrics ? (Can Jim clarify which metrics?)
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
@@ -33,6 +38,9 @@ For this first iteration, the focus will be on:
 |Other Team | When will we be finished?  | Estimation of the the work |
 |Our Team | Which request should focus on?  | Product prioritizations  |
 
+| User          | Problem       | How does this solution address the problem?  |
+| :------------- |:------------- | :----- |
+| VA Dev Team | I have a problem with authenticating users to my application  | Standardized intake form will allow me to get   |
 
 ## Assumptions:
 * We leverage previous experience supporting other teams to create this process.
