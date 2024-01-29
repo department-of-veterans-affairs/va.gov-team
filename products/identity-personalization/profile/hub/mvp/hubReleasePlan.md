@@ -1,6 +1,6 @@
 # Hub MVP Release Plan
 
-**Updated:** 11/1/2023 draft
+**Updated:** 1/29/2023 
 
 ## Table of Contents
 
