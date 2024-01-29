@@ -29,8 +29,11 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
    2. Sections are expanded with option to edit
    3. Sections are expanded with editing and option to save
 7. **Download page (pages are the same for both unauth/auth)**
-8. Email notification to Veterans ([partner with VA Notify](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#what-we-are))
+   1. Ensure download is accessible (generated pdf is likely not accessible, consider providing access to an html-based version) 
+9. Email notification to Veterans ([partner with VA Notify](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#what-we-are))
    1. The email would include next step for printing, signing, and uploading their form on VA.gov
+   2. Include an option to re-download the completd form? Consider how to reduce the undesired outcome of duplicate submissions, e.g. the Veteran submits the saved pdf on QuickSubmit on AccessVA
+
 
 ## Future Iteration
 
