@@ -68,7 +68,7 @@ These are defined as how we aim to accomplish something.
 
 **Why is it useful?** Provides consistency for multiple accessibility specialists conducting audits.
 
-**VA status:** Not implemented.
+**VA status:** In progress (There's a well-documented staging review process, but that's just for Governance, and doesn't cover other teams/areas, like CAIA and the 508 Office).
 
 ### How Accessibility Defects are Tracked
 **What is it?** Defines how to write a standard accessibility defect ticket.
