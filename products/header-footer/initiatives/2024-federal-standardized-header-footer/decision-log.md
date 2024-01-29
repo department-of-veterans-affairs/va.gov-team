@@ -9,3 +9,10 @@ DS: Matt Dingee, Micah Chang, Jami Gibbs, Ian Harrison,
 * Design System team will own final componentizing of the header, likely as one large component.
   * Design System eng willing to support Public Websites engineering as needed, to make sure updates are usable toward the component effort. 
   * Public Websites FE to add DS engineers as code reviewers on anything that seems useful or where feedback would be helpful
+
+## 1/8/24 - Injected header will fork
+Dave Conlon
+* Injected header will not adopt federal design. Timeline is too short for change management and/or all the testing required on injected sites to support the new header. (Web components, etc).
+* We will determine technical path to fork, freeze design, and DaveC will run change management with TeamSite owners for awareness.
+  * We will try to fast follow federal launch with a content update for the forked injected header/footer to update links to match the contents of VA.gov header/footer.
+ 
