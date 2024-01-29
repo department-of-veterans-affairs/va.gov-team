@@ -85,25 +85,8 @@ Since this is a cosmetic shift without complex logic unique to individual users.
 |-------|-----------|-----------|
 | Launch to 100% | 12/19/2023 | 12/19/2023 |
 
-### 1-week results at 100%
-see metrics on the mvp page
-||Results|
-|---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
-
-
-### 1-month results at 100%
-||Results|
-|---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
+### results at 100%
+[see metrics on the mvp page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
 
 ## Post-launch Questions 
 
