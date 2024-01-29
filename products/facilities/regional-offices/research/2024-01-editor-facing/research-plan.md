@@ -37,7 +37,7 @@ The findings from this research will influence design iterations before the nati
 For research goal one, "To determine whether the current design of the Drupal interface meets editors' needs":
 - Are labels, help text, error messaging, and other text in interface clear?
 - Are widget interactions intuitive (buttons, checkboxes, etc)?
-- How easy is it to get to the content they need to edit?
+- How easily can editors get to the content they need to edit?
 
 For research goal two, "To collect feedback on the training and support materials provided to new regional office editors":
 - How might we change the training (or the documentation) to better support new VBA editors?
@@ -50,56 +50,40 @@ For research goal two, "To collect feedback on the training and support material
 - Editors will find current knowledge base articles adequate to complete their editing tasks.
 
 ## Method	
-This study will use a hybrid approach, with a mix of interview questions and task observation, where participants will perform tasks that are part of the editorial process while being asked questions related to the task. This method is appropriate for the timing of the study and accounts for variation in tasks editors will be completing. 
+This study will use a hybrid approach, with a mix of interview questions and task observation. Participants will perform tasks that are part of the editorial process while being asked questions related to the task. This method is appropriate for the timing of the study and accounts for variation in tasks editors will be completing. 
 
 ### Location
 Sessions will be remote over Zoom. 
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2024-01-editor-facing/conversation-guide.md)
-
 	
 ## Recruitment	
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Participants will be recruited from the bi-weekly training sessions being conducted for new editors of regional offices. Calendly links will be shared at the end of the sessions and editors will be encouraged to sign up for one.
 
 ### Recruitment criteria
-List the total number and type of participants for this study. What experience, geographic location, and scenarios do you need participants to meet to effectively run your study? 
+Participants must be new editors participating in the pilot MVP roll out of new VBA regional office pages. There are approximately 14 editors in the recruitment pool. We would like to interview at least half of them (7).
 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is optional. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
+The VBA RO pages we are testing are currently in prod for the editors in the study. They will perform actual tasks in the CMS while being observed.
 ### Research sessions
 * Planned dates of research:
-
+We'll conduct research sessions between training sessions, beginning some time after 2/6/2024 and ending the week following 3/19/2024. 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
+* Session length: 60 minutes
+* Buffer time between sessions: Minimum of 30 minutes between sessions
 
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
+- Moderator: Alexis Logsdon
+- Research guide writing and task development: Alexis Logsdon
+- Participant recruiting & screening: Alexis Logsdon and Michelle Middaugh
+- Project point of contact: Alexis Logsdon		
+- Note-takers:	TBD
  
