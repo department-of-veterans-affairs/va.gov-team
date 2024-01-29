@@ -34,7 +34,7 @@ Every year, the Sitewide Content team needs to update various rates pages with n
   - **Publish** the page.
 6. Update left nav to show the rates pages for the last 3 years.
 - Order the past rates pages from newest to oldest in the left nav menu.
-- If there are more than 3 years of past rates, unclick "enabled" in the menu so that it no longer shows in the left nav.
+- If there are more than 3 years of past rates, unclick "enabled" in the menu for the oldest rates page so that it no longer shows in the left nav.
 7. Once pages are live, create an IA ticket for Best Bets to be updated to show the newest year.
 
 ## How to set up a future rates page
@@ -44,9 +44,10 @@ We need to publish future rates information for a few of our education rates pag
 1. Request future rates for the upcoming year from stakeholder by email.
   - Reach out to an OCTO content lead for the appropriate stakeholder to contact.
   - Confirm with stakeholder what date we should publish the future rates page.
-2. In Drupal, revert node to the last version that showed future rates information.
-  - Go to the Revisions tab in Drupal and find last published version of page that contained specific rates information for that year.
-  - Use the **draft** version before the last published version and select the Revert button to the right. (If you select the last published version, the node will automatically be published again). This version should be labeled "OK to revert—most current actual future rates text."
+2. In Drupal, revert node to the last draft version that showed future rates information.
+**Note:** When reverting pages in Drupal, always revert to a **draft** version. Reverting to a published version will automatically cause it to publish.  
+  - Go to the Revisions tab in Drupal and find the last published version of page that contained specific rates information for that year.
+  - Use the **draft** version before the last published version and select the Revert button to the right. This version should be labeled "OK to revert—most current actual future rates text."
 3. Update draft version of future rates page.
   - Update the calendar year in the intro and meta description.
   - Update dates, rate amounts, and calculations throughout the rates page.
@@ -58,9 +59,10 @@ Click **Save as draft**.
   - **Publish** the page.
 
 ### When publishing placeholder future rates page
-1. In Drupal, revert node to the last version that showed future rates placeholder information.
+1. In Drupal, revert node to the last draft version that showed future rates placeholder information.
+**Note:** When reverting pages in Drupal, always revert to a **draft** version. Reverting to a published version will automatically cause it to publish. 
   - Go to Revisions tab in Drupal and find last published version of page that contained placeholder future rates text for that year.
-  - Use the **draft** version before the last published version and select the Revert button to the right. (If you select the last published version, the node will automatically be published again). This version should be labeled "OK to revert—most current placeholder text."
+  - Use the **draft** version before the last published version and select the Revert button to the right. This version should be labeled "OK to revert—most current placeholder text."
 2. Update draft version of future rates page.
   - Update calendar year in the intro and meta description.
   - Confirm the box for including a table of contents is not selected.
