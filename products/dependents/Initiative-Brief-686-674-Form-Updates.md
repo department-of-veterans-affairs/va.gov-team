@@ -1,4 +1,4 @@
-# Initiative Brief: 686c/674 Form Parity
+# Initiative Brief: 686c/674 Form Updates
 
 ## Outcome Summary
 Veterans submitting online 21-686c and 21-674 claims can trust that their submissions include all the required information to ensure efficient processing.
