@@ -41,6 +41,7 @@ We intend for the CHAMPVA form to live in the health section of the new family m
   - Placement description: we’ll need to add a link to the new form from this page. TBD whether we will need to add a link in the new family member left nav or not.
   - Link label: TBD by content
   - Link destination: The form URL
+    
 ![champva benefits static page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/514f4385-df84-4833-8c82-3d44994b302e)
 
 
