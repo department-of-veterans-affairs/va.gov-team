@@ -178,27 +178,30 @@ _Tell us who you are_
 
     1. _If missed; Click ‘No, I’m not the Veteran’ and ‘Continue’ to continue._
 
-_(1 of 5) Accredited representative information (2 pages)_
+_(1 of 5) Accredited representative information (3 pages)_
 
 20. Before we get started I want to point out the tracker at the top that says 1 of 5. I will be asking you to pause at the end of each part to ask additional questions. Otherwise use the prototype as you normally would.
 
-21. For part 1 of 5 imagine you’ve already found \[a DAV branch to help you]. Show how you would complete part 1. Stop when you get to part 2.
+21. For part 1 of 5 imagine you’ve already contacted Brian Daniel at Disabled American Veterans to help you. Show how you would complete part 1. Stop when you get to part 2.
 
     1. _Remember to say aloud what you’re thinking as you go._
 
-    2. _If missed; Click the ‘Enter the name of the accredited attorney or VSO’ field then ‘Disabled American Veterans’ option._
+    2. _If missed; Click the ‘Enter the name of the accredited attorney or VSO’ field then ‘Brian Daniel’ option._
 
-    3. _If missed; Click ‘Continue’ to continue._
+    3. _If missed; Select the ‘Disabled American Veterans’ option._
 
-22. _Ask if not answered;_
+    4. _If missed; Click ‘Continue’ to continue._
 
-    1. What feedback do you have on searching and selecting an organization to help you?
+23. _Ask if not answered;_
+
+    1. What feedback do you have on searching and selecting a Veteran Service Officer to help you?
 
     2. Was any of the information provided confusing?
 
     3. What do you think about being asked to contact your representative prior to completing this form?
 
     4. Do you have any additional thoughts or feedback on part 1 of 5?
+
 
 _(2 of 5) Your information (4 pages)_
 
@@ -208,6 +211,7 @@ _(2 of 5) Your information (4 pages)_
 
 24. Do you have any additional thoughts or feedback on part 2 of 5?
 
+
 _(3 of 5) Veteran information (4 pages)_
 
 25. Show how you would complete part 3 of 5. Stop when you get to part 4.
@@ -215,6 +219,7 @@ _(3 of 5) Veteran information (4 pages)_
     1. _Remember to say aloud what you’re thinking as you go._
 
 26. Do you have any additional thoughts or feedback on part 3 of 5?
+
 
 _(4 of 5) Accredited representative permissions (2 - 3 pages)_
 
@@ -232,13 +237,14 @@ _(4 of 5) Accredited representative permissions (2 - 3 pages)_
 
     3. Do you have any additional thoughts or feedback on part 4 of 5?
 
-_(5 of 5) Review_
+
+_(5 of 5) (5 of 5) Review the information for your form_
 
 29. Take a moment to review the page. What are your initial impressions?
 
-30. What would you expect to happen when you click the ‘Print form’ button?
+30. What would you expect to happen when you click the ‘Continue’ button?
 
-    1. _Click/tap the checkboxes and ‘Print form’ button to move on._
+    1. _Click/tap the checkboxes and ‘Continue’ button to move on._
 
 _Follow these steps to finish appointing the accredited representative_
 
