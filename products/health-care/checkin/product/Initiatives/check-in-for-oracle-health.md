@@ -27,6 +27,8 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
    
 ## MVP
 
+[Work flow for each option below](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14-6233&mode=design)
+
 ### Included in the MVP (OPTION 1 - DO NOT INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER)
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
