@@ -39,7 +39,7 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
 | Test Account | Feature | Other Info |
 | ------------ | ------- | ------------- |
 | Karsyn | RX | Email Bhavin Patel (bhavin.patel2@va.gov) and CC Raquel Robertson (raquel.robertson@va.gov) requesting 25-30 refills to be added to the test account | 
-| judy.morrison | General use | 
+| judy.morrison | General use | Used for Google Play to perform testing on the app |
 | +54 | Appeals | Has a Id.me login  | 
 | +119 | Veteran Status Honorable discharge and multiple years of service | | 
 | Health Products | [Test User Dashboard guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) | Info shared by Janie Tankard-Carnock Secure Messaging OCTO PO 1/24/24 |
