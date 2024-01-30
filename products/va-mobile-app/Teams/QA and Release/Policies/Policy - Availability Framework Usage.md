@@ -51,12 +51,13 @@ AF changes are made without a release and screen/content changes can be made in 
 -----------------------
 
 ### When there pre-production situation: 
+
  1.) Upcoming situation has been identified that could warrant using Availability Framework 
 
- 2.) Discussion with POs on if we should use AF
+ 2.) Discussion with POs on if Mobile should use AF
    - Gather as much requirements / expectations from the POs / Length of time until resolution  / maintenance windows coverage 
  
- 3.) PO approves the use of AF
+ 3.) PO approves the use of AF, impacted Team reaches out with 
  
  4.) Meeting with FE, Content, and QA to determine AF implementation - pull them from their applicable teams 
    - Location, Content, Component, Solution immplemntation, Timing for turning on and off
