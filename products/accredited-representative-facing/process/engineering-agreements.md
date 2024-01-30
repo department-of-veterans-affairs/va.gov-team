@@ -41,4 +41,12 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 
 ### Zenhub
 
+- Use an ARF Engineering ZenHub Template for creating every issue.
+- None of the sections in the templates are explicitly labeled as 'required' or 'optional.' Therefore, it is up to the person creating the issue to decide which sections to include.
+- If important sections are consistently omitted, we can consider adding 'required' labels in the next iteration of the templates.
+- To update a template edit the corresponding file:
+  - [Discovery Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-discovery-issue.md)
+  - [Feature Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-feature-issue.md)
+  - [Bug Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-bug-issue.md)
+  - [Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-epic.md)
 - Link PRs to the corresponding Zenhub issues if they exist.
