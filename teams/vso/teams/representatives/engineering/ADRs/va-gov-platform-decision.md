@@ -33,18 +33,28 @@ The decision to build the accredited-representative-facing site on the VA.gov pl
 
 ## Consequences
 
-Building on the VA.gov platform simplifies aspects such as authentication and form reuse but introduces challenges like navigating the VA.gov codebase complexity, adhering to [collaboration cycles](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/), and adapting `vets-api` for non-Veteran users. This approach promotes efficient deployment and learning from potential shortcomings, yet it necessitates careful future planning and consideration of integration with other platforms or services.
+Building on the VA.gov platform simplifies aspects such as authentication and form reuse but introduces challenges like navigating the VA.gov codebase complexity, adhering to [collaboration cycles](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/), and adapting veterans-api for non-veteran users. This approach promotes efficient deployment and learning from potential shortcomings, yet it necessitates careful future planning and consideration of integration with other platforms or services.
 
-It's important to note that this decision introduces new complexities to the VA.gov platform, particularly in extending its use beyond the original domain of Veterans. Special attention is needed to manage these complexities and ensure that the platform extension remains principled and clean. We must assess how much additional development burden this extension adds to those working on the original Veteran-centric domain. The ramifications of choosing this platform for representative-facing tools are significant and hard-to-reverse, affecting both engineering and product.
+It's important to note that this decision introduces new complexities to the VA.gov platform, particularly in extending its use beyond the original domain of Veterans. Special attention is needed to manage these complexities and ensure that the platform extension remains principled and clean. We must assess how much additional development burden this extension adds to those working on the original Veteran-centric domain. The ramifications of choosing this platform for representative-facing tools are significant and complex to reverse, affecting both engineering and product.
 
 As we consider extensions to the Sign-In Service, content-build system, utilization of subdomains, extending forms, and modeling delegation, it's crucial to be mindful of the impact on the platform's overall complexity. The [early "where" document](https://docs.google.com/document/d/1SECvAh6TZgCPEWLIF3h8oAusIoB7MmZiyeA5J1iS3dg/edit#heading=h.a1xc2ws1zujg) highlights these considerations, emphasizing the importance of a strategic approach in expanding the platform's scope.
+
+In [a recent discussion with OCTO's director of engineering](https://dsva.slack.com/archives/C06ABHUNBRS/p1704481584504909), two suggestions were offered for the ARF team:
+
+1. **Consider an Abstraction Layer**: We should think through an abstraction layer for rep-facing tools that sits between the frontend and any `vets-api` code paths we want to use. This layer should handle:
+
+   - Whitelisting actions that rep-facing tools can take.
+   - Auditing and monitoring of actions that reps are taking in production.
+   - Any identity “transformation” to ensure we can use `vets-api` functionality with the rep as the user rather than the Veteran.
+
+2. **Risk of Regressions for Veteran Users**: While `vets-website` is well-compartmentalized and suitable for building the rep-facing tools frontend, repurposing existing forms and functions for rep users creates the risk of regressions for Veteran users. We’ll likely need to develop specific processes and conventions for rep-facing teams to coordinate with the benefits portfolio teams that own and maintain the original forms.
 
 In proceeding with this direction, we should consider declaring our choice as somewhat experimental at this early stage, aiming to keep our work reversible to the extent possible. This approach allows us to address and assuage concerns regarding the increased complexity of the VA.gov platform while maintaining flexibility and adaptability in our development process.
 
 ## Resources
 
 - [Zenhub Issue Related to this ADR](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/73248)
-- [Slack conversation](https://dsva.slack.com/archives/C06ABHUNBRS/p1704479266926979) that initiated this task
+- [Slack conversation](https://dsva.slack.com/archives/C06ABHUNBRS/p1704479266926979) discussing the complexities of adapting VA.gov for non-veteran users
 - [Product vision document](https://docs.google.com/document/d/17yZF0USxhFP6aCuy4QL-sf-fpBxUx7KwCoCDnvKIDNE/edit) outlining site goals and constraints
 - [Early architectural brainstorm document](https://docs.google.com/document/d/1SECvAh6TZgCPEWLIF3h8oAusIoB7MmZiyeA5J1iS3dg/edit#heading=h.a1xc2ws1zujg)
 - [Sign-In Service documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service)
