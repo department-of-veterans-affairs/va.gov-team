@@ -27,20 +27,87 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
    
 ## MVP
 
-### Included in the MVP
+### Included in the MVP (OPTION 1 - DO NOT INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER)
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
-    - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
+    - CIE work
+        - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
+    - VeText work
+        - **New content for the second SMS message (VeText work)**
+        - **Will send OH appointments for check-in to the new initiatiate check-in endpoint**        
     - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
-- Veteran will be asked if they are "at the facility"
-     - If answer is "Yes"
-        -  **We will set the patient status to 'Confirmed'**
-     - If answer is "No"
-        - **We will NOT set the status**
+- Veteran will see new H1 & body on the verify identity page
+    - No changes for Vista appointments  
 - Veteran will **NOT** be asked to verify their demographics
     - **For Vista appts - we will still ask to verify**
 - Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
 - Veteran can complete the process
     - For OH appointments: "Let staff know they've arrived & travel claim being processed"
+        - **We will submit their travel claim**
+        - **We will tell the Veteran to go to the desk when they get to the waiting room**        
+    - For Vista appointments: "Check in Now"
+         - **SAME FUNCTIONALITY**
+           - **We will submit their travel claim**
+           - **We will send a status update to Vista that the Veteran has completed the check-in process**
+
+### Included in the MVP (OPTION 2 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND MODIFY WORKFLOW BASED ON ANSWER)
+- Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
+    - CIE work
+        - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
+    - VeText work
+        - **New content for the second SMS message (VeText work)**
+        - **Will send OH appointments for check-in to the new initiatiate check-in endpoint**        
+    - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
+- Veteran will see new H1 & body on the verify identity page
+    - No changes for Vista appointments  
+- Veteran will be asked if they are "at the facility"
+     - For OH appointments
+         - If answer is "Yes" 
+            -  **We will set the patient status to 'Confirmed'**      
+        - If answer is "No"
+            -  **We won't set the status**
+            -  **We send the Veteran to the "go see staff" page & they cannot submit a travel claim**                 
+     - For Vista appointments
+         - We do not show this page; not included in the MVP, we will do after OH go live
+- Veteran will **NOT** be asked to verify their demographics
+    - **For Vista appts - SAME FUNCTIONALITY - we will still ask to verify**
+- Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
+- Veteran can complete the process
+    - For OH appointments: "Let staff know they've arrived & travel claim being processed"
+        - **Button action for completion will say "I am here"**
+        - **We will submit their travel claim**
+        - **We will tell the Veteran to go to the desk when they get to the waiting room**
+        - **We will set the patient status in OH based on the answer to the "are they at the facility" question**
+            - **We will set the status to 'Arrived'**            
+        -  **Check-in status on the success/appointments list page will be "You confirmed your arrival at {time}"**
+    - For Vista appointments: "Check in Now"
+        - **SAME FUNCTIONALITY**
+           - **We will submit their travel claim**
+           - **We will send a status update to Vista that the Veteran has completed the check-in process**
+
+### Included in the MVP (OPTION 3 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER)
+- Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
+    - CIE work
+        - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
+    - VeText work
+        - **New content for the second SMS message (VeText work)**
+        - **Will send OH appointments for check-in to the new initiatiate check-in endpoint**        
+    - **NOTE: we will NOT return a check-in link for telehealth or telephone appointments** 
+- Veteran will see new H1 & body on the verify identity page
+    - No changes for Vista appointments  
+- Veteran will be asked if they are "at the facility"
+     - For OH appointments
+         - If answer is "Yes" 
+            -  **We will set the patient status to 'Confirmed'**      
+        - If answer is "No"
+            -  **We will set the patient status to 'Confirmed'**                    
+     - For Vista appointments
+         - We do not show this page; not included in the MVP, we will do after OH go live
+- Veteran will **NOT** be asked to verify their demographics
+    - **For Vista appts - we will still ask to verify**
+- Veteran will have the opportunity to submit a travel reimbursement while checking in for an OH appointment
+- Veteran can complete the process
+    - For OH appointments: "Let staff know they've arrived & travel claim being processed"
+        -  **Button action for completion will say "I am here" or "On my way" depending on answer to "are you at the facility"**
         - **We will submit their travel claim**
         - **We will tell the Veteran to go to the desk when they get to the waiting room**
         - **We will set the patient status in OH based on the answer to the "are they at the facility" question**
@@ -48,9 +115,11 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
                 -  **We will set the status to 'Arrived'**
             - If answer is "No"
                 - **We will NOT set the status**
+        -  Check-in status on the success/appointments list page will be "You confirmed you're on your way at {time}" or "You confirmed your arrival at {time}" depending on answer to "are you at the facility"
     - For Vista appointments: "Check in Now"
-        - **We will submit their travel claim**
-        - **Per current functionality, we will send a status update to Vista that the Veteran has completed the check-in process**
+         - **SAME FUNCTIONALITY**
+           - **We will submit their travel claim**
+           - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
 ### Not Included in the MVP
 - Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
