@@ -1,23 +1,23 @@
 ---
 name: ARF Design 'Design' Issue
-about: Design issue for the ARF Design Team
+about: 'Design' issue for the ARF Design Team
 title: ''
 labels: ['accredited-rep-facing', 'arf-des']
 assignees: ''
 
 ---
 
-<!-- Title ^^ : Short form of what needs to be done, if it’s part of a specific study use the abbreviation of the study at the front of the ticket -->
+<!-- Title ^^ : Provide a concise summary of the task. For tasks related to specific studies, prepend the study's abbreviation to the title. -->
 
 ### Description
 
 #### What’s the problem
-<!-- User Story -->
+<!-- Include user stories -->
 
 #### What’s the solution or plan to address the problem
-<!-- This should be as detailed as possible so that anyone would be able to pick up this issue up -->
-<!-- What’s the output -->
-<!-- Can include: What screens or what the artifact type is, Research output links for research being used for this ticket, Design library/CAIA’s content outlines -->
+<!-- Detailed Plan: Outline the proposed solution in detail, ensuring the description is clear enough for anyone to be able to pick up the task. -->
+<!-- Expected Output: Specify what the final output should look like. -->
+<!-- What screens or what the artifact type is, research output links for research being used for this ticket, and/or design library/CAIA’s content outlines -->
 
 ### Acceptance Criteria
-<!-- Define fidelity of output, User story satisfied by the output, Meets style guide requirements -->
+<!-- Define fidelity of output, user story satisfied by the output, and/or meets style guide requirements -->
