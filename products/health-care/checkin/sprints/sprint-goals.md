@@ -44,7 +44,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71834)
 - **GOAL: Address Tech Debt**            
-     
+     - 2 tickets
 
 ------- END FUTURE / TENTATIVE ------
 </details>
