@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-<!-- Title ^^ : Short form of what needs to be done, if it’s part of a specific study use the abbreviation of the study at the front of the ticket -->
+<!-- Title ^^ : Provide a concise summary of the task. For tasks related to specific studies, prepend the study's abbreviation to the title. -->
 
 ### Description
 
 #### What’s the problem
-<!-- Problem statement -->
+<!-- Include problem statement -->
 
 #### What’s the solution or plan to address the problem
-<!-- This should be as detailed as possible so that anyone would be able to pick up this issue up -->
-<!-- What’s the output -->
-<!-- Can Include: High level methodology, Research goal or hypothesis, Reference links, What user group/persona -->
+<!-- Detailed Plan: Outline the proposed solution in detail, ensuring the description is clear enough for anyone to be able to pick up the task. -->
+<!-- Expected Output: Specify what the final output should look like. -->
+<!-- High level methodology, research goal or hypothesis, reference links, and/or what user group/persona -->
 
 ### Acceptance Criteria
-<!-- Whatever the artifact is is created -->
+- [ ] The artifact is created
