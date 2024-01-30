@@ -1,9 +1,10 @@
 ---
 name: ARF Engineering Epic
-about: Epic template for the ARF engineering team
+about: Epic template for the ARF Engineering team
 title: ''
 labels: ['accredited-rep-facing', 'arf-eng']
 assignees: ''
+
 ---
 
 ### Overview
