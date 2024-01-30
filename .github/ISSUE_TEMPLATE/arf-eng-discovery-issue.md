@@ -18,7 +18,7 @@ assignees: ''
 #### Background
 <!-- Provide relevant background information -->
 
-#### Hypotheses (optional)
+#### Hypotheses
 <!-- Include any hypotheses if applicable -->
 
 #### Resources
