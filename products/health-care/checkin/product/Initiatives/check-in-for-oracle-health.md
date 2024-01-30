@@ -50,6 +50,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
 ### Included in the MVP (OPTION 2 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND MODIFY WORKFLOW BASED ON ANSWER)
+- **NOTE: if we are not able to get the Patient ICN (in order to create a MAP token) then this option is not viable**
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
         - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
@@ -85,6 +86,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
 ### Included in the MVP (OPTION 3 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER)
+- **NOTE: if we are not able to get the Patient ICN (in order to create a MAP token) then this option is not viable**
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
         - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
