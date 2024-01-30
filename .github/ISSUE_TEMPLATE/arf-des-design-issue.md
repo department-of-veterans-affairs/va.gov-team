@@ -2,7 +2,7 @@
 name: ARF Design 'Design' Issue
 about: Design issue for the ARF Design Team
 title: ''
-labels: 'accredited-rep-facing', 'arf-des'
+labels: ['accredited-rep-facing', 'arf-des']
 assignees: ''
 
 ---
