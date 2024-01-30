@@ -219,7 +219,13 @@ sequenceDiagram
       - ```idWithOaid``` seem to be following some format for sending patientICN; Would be great to see more information on how to build this data
   - ```contact-information``` API gives contact information like residential contact address & telephone numbers; Which API do we need to use for getting next of kin & emergency contact information?
 - **Oracle Health (OH) Service**
-  - How to call [OH appointment API](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#patch) from vets-api to set patient's appointment status to ARRIVED?
+  - Is there sample data that's refreshed daily or we can use as well? So after we auth and we're hooked into CES, one of the first things we'd love to be able to do is set an appointment status (to checked-in, but other statuses' would be fine). Based on the docs for patch that should be fairly easy as long as everything is operating as expected! Also, will we need to be on the va VPN to test (i.e. deployed to a staging env) to test, or is there a way to test locally and hit your services?
+    - Response from Michael:
+    > We don't have a separate test data set as all of the test patients are already present in the Cerner B1930 environment. We're able to create and manage appointments as necessary for those test patients though, so testing this should be easy enough (assuming I'm understanding your use cases correctly). You will need to be either on CAG or Rescue VPN to access the environment though- all of the OCC services (including CES) are deployed
+  - Regarding the CES API calling using MAP token, do we need to request a seperate application ID for PCI to call MAP token endpoint? Currently we have an application ID in MAP for calling VAOS & requested one for calling VA Profile. And addition to the application ID question, for accessing VA Profile we were asked to use MAPTEST until we get an application ID for PCI in staging env.  Can this be used for CES/OH as well?
+  - Response from Micheal:
+  > General application tracking IDs aren't required to use MAP services, that's a requirement of the VA Profile team so we pass it along when we make requests to their services on an application's behalf. The MAP OAuth client ID/secret that we issue you to authenticate to the services, though, can be used both (Profile and CES) (edited) 
+
 - **Service level general questions**
   - Does the API have only staging & prod environments?
   - Swagger doc shows an URL with qa prefix (for staging); What is the prod URL? Is there any difference in calling these API in staging vs prod?
