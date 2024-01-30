@@ -3,7 +3,8 @@
 ---
 
 - [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687376928311/303a0fbb8ffe1353eedf695ac86a6e069cd2003f?sender=uadf1ed7fe7c76f0914967329)
-- [Sketch wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/DPjA4ba)
+- [Sketch wireflows - ARCHIVE](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/DPjA4ba)
+- [Figma wireflow - PENDING UPDATE](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-6&mode=design&t=DlVyBuMijvoU6rw6-0)
 
 --- 
 
@@ -685,11 +686,13 @@ Expiration date: 06/30/2024
 
 [p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
 [ul]
-- You’re a former Prisoner of War (POW)  
-- You received a Purple Heart 
-- You received a Medal of Honor  
-- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
-- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+- You’re a former Prisoner of War (POW)
+- You received a Purple Heart
+- You received a Medal of Honor
+- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
+- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
+- You served in a location where you had exposure to Agent Orange during the Vietnam War era
+- You served in a location where you had exposure to Agent Orange during the Vietnam War era
 
 [END ul]
 [End Additional Info Component]
