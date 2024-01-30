@@ -16,6 +16,7 @@ assignees: 'coforma-terry'
 ## Ticket Tasks
 _Please complete these steps after creating this ticket._
 
+- [ ] Add ticket to Github Projects!
 - [ ] Add Originator/Team name from Custom Field Dropdown.
 - [ ] Add Opened Date.
 - [ ] Add Estimate
