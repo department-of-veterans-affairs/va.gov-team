@@ -1,4 +1,6 @@
-# Conversation Guide for Authenticated Experience, Authenticated Menu, January 2024
+# Conversation Guide (Revised) for Authenticated Experience, Authenticated Menu, January 2024
+
+**Note:** Midway through our study, we revised the order of tasks to try to determine if our research protocol is impacting people's ability to find the authenticated menu.
 
 ## Moderator logistics
 - [ ] Update participants name in [dynamic data file](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
