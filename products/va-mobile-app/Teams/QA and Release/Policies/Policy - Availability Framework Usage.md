@@ -57,7 +57,8 @@ AF changes are made without a release and screen/content changes can be made in 
  2.) Discussion with POs on if Mobile should use AF
    - Gather as much requirements / expectations from the POs / Length of time until resolution  / maintenance windows coverage 
  
- 3.) PO approves the use of AF, impacted Team reaches out with 
+ 3.) PO approves the use of AF, impacted Team PM reaches out with QA and Release Team PM to discuss 
+   - Release Team PM will create a AF ticket for Team PM to work through and track with their work 
  
  4.) Meeting with FE, Content, and QA to determine AF implementation - pull them from their applicable teams 
    - Location, Content, Component, Solution immplemntation, Timing for turning on and off
