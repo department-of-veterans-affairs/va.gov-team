@@ -7,8 +7,8 @@
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
 | Assess existing documentation to address gaps, ability to find, and non-platform team awareness in order to establish Platform engagement, guidelines and expectations | Establish Platform testing requirements and needs to create consistent guidelines to reduce the risk of production issues | Establish baseline metrics involving change management, bugs, and build breakage |
-| OCTO Obj #2 Producitivty KR 2 - Documentation  | OCTO Obj #1 Stablity KR 1 - Change failure rate KR 2 - Incident Mgt  |  OCTO Obj #1 Stablity KR 1 - Change failure rate KR 2 Incident Mgt | 
-| OCTO Obj #3 Efficiency KR 3 - Team Cost | OCTO Obj #3 Efficiency KR 3 Team Cost
+| **OCTO Obj #2** Producitivty KR 2 - Documentation  | **OCTO Obj #1** Stablity KR 1 - Change failure rate KR 2 - Incident Mgt  |  **OCTO Obj #1** Stablity KR 1 - Change failure rate KR 2 Incident Mgt | 
+| **OCTO Obj #3** Efficiency KR 3 - Team Cost | **OCTO Obj #3** Efficiency KR 3 Team Cost |
 
 **API**
 | Goal 1 | Goal 2 | Goal 3 |
