@@ -19,7 +19,6 @@ Period - 01/31/2024 - 02/13/2024
         -  Release planning and canary launch
    - 526ez sync with paper version 
        - Toxic Exoposure 
-           - [ ] Front-end - continue build
            - [ ] Mid-point review and resulting work
        - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies
        - Audit for ancillary form - 
@@ -27,7 +26,8 @@ Period - 01/31/2024 - 02/13/2024
 - **Stretch Goals**
   - Shadow Research
     - [ ] Prep for piroritization workshop
-
+ - Toxic Exoposure 
+    - [ ] Front-end - continue build
     
 ## Sprint 23
 Period - 01/17/2024 - 01/30/2024
