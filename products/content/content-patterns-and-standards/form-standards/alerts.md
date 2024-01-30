@@ -13,7 +13,7 @@ https://design.va.gov/components/alert#sign-in-to-start-your-application---pre-f
 
 ## Sign in now 
 
-You'll need to sign in to start this form. You'll have 60 days from when you start or make changes on your form to come back and finish it. 
+You'll need to sign in to fill out this form. We'll save your changes automatically. You'll have 60 days from when you start or make changes to submit your form.  
 
 **Sign in to fill out your form**
 
