@@ -9,7 +9,14 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
  - Historically when asking for test accounts or data modification we are told a VA PO needs to prioritize the work 
  - Mobile does not own or possess any production test accounts
  - For login.gov auth code you need to log into the TUD to get it
- - Seen that VA teams need their PMs to prioritize and coordinate the work 
+ - Seen that VA teams need their PMs to prioritize and coordinate the work
+ - Currently not a centralized team that can handle this across all of VA - work with VA OCTO POs involved 
+
+### Process
+ - Attempt to pull test accounts from what Mobile has used in the past
+ - Use VA Platform's [Test User Dashboard guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide)
+ - Coordinate with Mobile PMs to reach out to their VA OCTO PMs for assistance 
+
 
 ## RACI for Test Accounts involving Mobile
 
@@ -35,8 +42,8 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
 | judy.morrison | General use | 
 | +54 | Appeals | Has a Id.me login  | 
 | +119 | Veteran Status Honorable discharge and multiple years of service | | 
-
-
+| Health Products | [Test User Dashboard guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) | Info shared by Janie Tankard-Carnock Secure Messaging OCTO PO 1/24/24 |
+| Secure Messaging | [Test User Dashboard guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) | Info shared by Kay Lawyer Health Products OCTO PO 1/24/24 | 
 
 
 
