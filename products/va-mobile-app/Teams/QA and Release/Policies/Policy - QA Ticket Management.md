@@ -6,7 +6,8 @@
  - Timely ticket updates and ticket management
  - Don't wait till standups to bring up concerns
  - Active participant in sprint and quarterly planning to ensure QA capacity is accounted for and not overbooked 
- - QA and Release PM has an open door for any concerns, thoughts, needs 
+ - QA and Release PM has an open door for any concerns, thoughts, needs
+ - Monitor Slack for @ messages and respond timely 
 
 ## Ticket Management 
 - **Proactively be aware of the tickets that are assigned to you** 
