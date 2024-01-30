@@ -21,64 +21,64 @@ AF changes are made without a release and screen/content changes can be made in 
 
 ### When there is a production problem: 
 
- 1.) Production issues get worked the The Incident Response process has received PO approval to use Availability Framework interim solution 
+ **1.) Production issues get worked the The Incident Response process has received PO approval to use Availability Framework interim solution** 
  -  Ideally, determine what type of release will follow it up (hotfix / regular release)
      
- 2.) Impacted Team finalizes and approves copy and screen placement
+ **2.) Impacted Team finalizes and approves copy and screen placement**
   - Discuss if copy needs to be updated to align with root cause fix timing
   - UX validates visual look and feel
 
- 3.) QA completes pre-production validation of AF  
+ **3.) QA completes pre-production validation of AF**  
   - If issues are found, Incident Commander can decide to fix the issues or proceed with the issues 
 
- 4.) When its time, AF is turned on in production by engineering
+ **4.) When its time, AF is turned on in production by engineering**
     - Post production validation if available
  
- 6.) Impacted Team monitors AF solution until root cause is fixed in production 
+ **5.) Impacted Team monitors AF solution until root cause is fixed in production** 
  
- 7.) Determine if AF copy needs to be updated to align with root cause solution timing 
+ **6.) Determine if AF copy needs to be updated to align with root cause solution timing** 
   - Copy is updated and approved
   - Updated Copy pushed to production by Engineering 
 
- 8.) Root cause solution implemented (Hotfix or regular release) 
+ **7.) Root cause solution implemented (Hotfix or regular release)** 
   - Hotfix and regular release processes will be followed but our outside of this policy including if app store content needs updated to reflect the fix 
  
- 8.)  When its time, AF is turned off in production by Engineering
+ **8.)  When its time, AF is turned off in production by Engineering**
  
- 9.) Impacted team completes a retro to identify how to reduce risk of the issue happening again 
+ **9.) Impacted team completes a retro to identify how to reduce risk of the issue happening again** 
  
- 10.) If applicable update AF Policy based on findings / learnings 
+ **10.) If applicable update AF Policy based on findings / learnings**
  
 -----------------------
 
 ### When there pre-production situation: 
 
- 1.) Upcoming situation has been identified that could warrant using Availability Framework 
+ **1.) Upcoming situation has been identified that could warrant using Availability Framework**
 
- 2.) Discussion with POs on if Mobile should use AF
+ **2.) Discussion with POs on if Mobile should use AF**
    - Gather as much requirements / expectations from the POs / Length of time until resolution  / maintenance windows coverage 
  
- 3.) PO approves the use of AF, impacted Team PM reaches out with QA and Release Team PM to discuss 
+ **3.) PO approves the use of AF, impacted Team PM reaches out with QA and Release Team PM to discuss** 
    - Discussion to determine roles / responsibilities Qart may just support Impacted Team vs owning and pushing this work depending on circumstance
    - Use availability framework ticket template 
  
- 4.) Meeting with FE, Content, and QA to determine AF implementation - pull them from their applicable teams 
+ **4.) Meeting with FE, Content, and QA to determine AF implementation - pull them from their applicable teams** 
    - Location, Content, Component, Solution immplemntation, Timing for turning on and off
 
- 5.) PO approves of the implementation plan 
+ **5.) PO approves of the implementation plan** 
 
- 6.) Content and AF implementation is built
+ **6.) Content and AF implementation is built**
 
- 7.) QA completes pre-production validation of AF 
+ **7.) QA completes pre-production validation of AF** 
 
- 8.) When its time, AF is turned on in production by engineering
+ **8.) When its time, AF is turned on in production by engineering**
     - Post production validation if available
 
- 9.) Root cause solution is implemented
+ **9.) Root cause solution is implemented**
 
- 10.) When its time, AF is turned off in production by engineering
+ **10.) When its time, AF is turned off in production by engineering**
 
- 11.) Document incident and AF usage at the bottom of this document. 
+ **11.) Document incident and AF usage at the bottom of this document.** 
 
 
 ------------------------
@@ -109,6 +109,13 @@ AF changes are made without a release and screen/content changes can be made in 
 | Post AF Solution | Impcated team PM | Incident Commander | UX, PO, FE Eng, Content, QA | Leads |
 | Turn off AF Solution | FE Eng | Incident Commander | PM, PO  | UX, Content, Leads |
 | AF Solution Documentation | Incident Commander |  Incident Commander | PM, Content, FE Eng, Data  | Leads |
+
+### RACI for When there is a production problem: 
+ * Dependent on the pre-production situation
+ * QA and Release team will be Accountable but may have Flagship App team be Responsible for the work depending on the situation. Example: 
+   * Vets-API outage - QA and Release team managed - will pull team from Flagship App as needed 
+   * Lovell Cerner - QA and Release helping with Health and Benefits Team but given they are doing more work with this issue H&B to be responsible for the work , QA and Release to monitor and follow up 
+
 
 ### Open Questions 
 
