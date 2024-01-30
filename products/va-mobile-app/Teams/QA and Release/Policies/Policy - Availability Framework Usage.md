@@ -14,7 +14,8 @@ AF changes are made without a release and screen/content changes can be made in 
  - AF does not have the capability to display based on Veteran variables
  - AF is also a vaiable solution for the which will be managed by the Incident Commander
  - Turning AF on or off at this time can only be done manually
- - Able to add messaging to the pre-login screen 
+ - Able to add messaging to the pre-login screen
+ - If you identify that you need additional variable / user logic to implement AF, discuss with FE / BE on what the options are and if timing of implementing will work for the issue (ex. Cerner Lovell Facility issue 1/29/24) 
 
 ---------------------
 
@@ -58,7 +59,8 @@ AF changes are made without a release and screen/content changes can be made in 
    - Gather as much requirements / expectations from the POs / Length of time until resolution  / maintenance windows coverage 
  
  3.) PO approves the use of AF, impacted Team PM reaches out with QA and Release Team PM to discuss 
-   - Release Team PM will create a AF ticket for Team PM to work through and track with their work 
+   - Discussion to determine roles / responsibilities Qart may just support Impacted Team vs owning and pushing this work depending on circumstance
+   - Use availability framework ticket template 
  
  4.) Meeting with FE, Content, and QA to determine AF implementation - pull them from their applicable teams 
    - Location, Content, Component, Solution immplemntation, Timing for turning on and off
@@ -113,8 +115,7 @@ AF changes are made without a release and screen/content changes can be made in 
 - Does the AF message stay up until they update the app
 - Can we do different AF messages depending on the app version 
 - What in the past would we have used Availability Framework for and what wouldn’t we have used it on
-- Do we need an AF ticket template or label? Is there one for Incidence Response process
-- Can e2e be applied here 
+- Can e2e be applied here
 
 
 ### AF Implementation
@@ -122,3 +123,4 @@ AF changes are made without a release and screen/content changes can be made in 
 | # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| 
 | ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | 
 | 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) |
+| 2 | Cerner Lovell Facility | 1/29/24 | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | 
