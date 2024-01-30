@@ -14,10 +14,9 @@ ________________________________________________________________________________
      - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
      - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
+     - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
-     - **Sub Goal: Migrate Sktech Files to Figma**
-     - **Sub Goal: Adhere to VA Content Guidelines for heading character counts**     
 
 #### PLANNED RELEASES 
 - NONE
