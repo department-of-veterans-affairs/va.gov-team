@@ -82,7 +82,7 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## 1: Upcoming In-Person Appointment
-You know you have an appointment scheduled with Dr. Ralph Scott and want to know more information about it. How would you do that from here. 
+You know you have an appointment optometry scheduled with Dr. Ralph Scott and want to know more information about it. How would you do that from here. 
 
 **Follow up:** 
 - What are your thoughts on this page?
