@@ -42,6 +42,19 @@ One thing that Target does somewhat differently than VA.gov is that its sign-in 
 
 ![Logged-in sign-in menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Target_Logged%20in_Sign%20in%20menu.png)
 
+#### The Account page
+
+The account page acts as both a dashboard and a menu to other personalized tools. It is not a duplicate of the user menu, but there is significant overlap.
+
+*The Account page*
+
+![The Account page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Target_Account%20page.png)
+
+#### The Settings page
+
+Target doesn't have a page called "Profile." Instead, the site refers to this information as "Settings." The Settings overview acts as both navigation and as a preview of the information within the profile. This might be something we want to consider for our own profile.
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Target_Settings%20page.png
 
 ### Example 2: Amazon.com
 
