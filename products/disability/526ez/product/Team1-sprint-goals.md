@@ -8,15 +8,15 @@ Period - 01/31/2024 - 02/13/2024
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
        - PPIU - Direct Debit 
-         - [ ] Launch 50 % and next based on the progress 
+         - [ ] Launch 50% and next based on the progress 
       - Benefits Claims Service 
-        - [ ] Launch 50 % and next based on the progress 
+        - [ ] Launch 50% and next based on the progress 
       - Submit endpoint
         - [ ] Discovery on submit migration options for sync and async response for established claims
       - PCIU 
         - [ ] Release planning and canary launch
       - BRD
-        -  Release planning and canary launch
+        -  Release planning
    - 526ez sync with paper version 
        - Toxic Exoposure 
            - [ ] Mid-point review and resulting work
