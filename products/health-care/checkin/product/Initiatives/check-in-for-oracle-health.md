@@ -40,7 +40,8 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
  - Veteran works through the same Travel Pay screens that is in PCI today.
  - Once they confirm and submit, show success page with success message, reminder to see staff when they arrive for their appt, and list of other upcoming appointments.
  - VEText sends travel claim submission success as they do today. (VEText)
- **NOTE: we will NOT return a check-in link for telehealth (CVT included) or telephone appointments**
+
+**NOTE: we will NOT return a check-in link for telehealth (CVT included) or telephone appointments**
    
 ## Other MVP Options considered- but we are not doing. 
 
