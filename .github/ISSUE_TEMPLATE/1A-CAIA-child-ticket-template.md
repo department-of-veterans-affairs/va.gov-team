@@ -1,5 +1,5 @@
 ---
-name: "New task"
+name: "CAIA New Task"
 about: Template for converted task to issue.
 title: 'New Task Ticket'
 labels: 'Sitewide CAIA'
