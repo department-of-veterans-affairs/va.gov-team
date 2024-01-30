@@ -32,7 +32,7 @@ Practice areas will document their feedback on the VFS-provided artifacts follow
 - [ ] Assign this ticket to the VFS team member that opened the Slack request
 - [ ] Add the VFS team product label
 - [ ] Add the VFS team the feature label (if applicable)
-- [ ] Add the touchpoint lables
+- [ ] Add the touchpoint labels
 - [ ] Add the practice area labels
 - [ ] Add the Collaboration Cycle initiative milestone
 - [ ] Add the Collaboration Cycle initiative epic
