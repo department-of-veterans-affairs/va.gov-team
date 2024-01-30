@@ -1,3 +1,29 @@
+## Meeting Notes for CRM Sync on 01/30/2024
+
+Short Meeting; Standup; Stand Down; Lionel Richie
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. New format for meeting, standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. The agenda called for a discussion about LoE for CRM field changes. But meeting was already scheduled for 1/31 to cover this topic.
+3. Some housekeeping for Teams was discussed, agreed upon, no impact on the AVA on VA.gov team.
+  
+### Action Items:
+
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] BECKY to help escalate NATALIE's issue with accessing ZenHub (**BLOCKED** - licenses)
+- [ ] JOE/TYLER to get with SHELBY/CHRIS/KYLE, RE: LoE for status changes, on 1/31/2024
+- [ ] HOLLY to sing covers of _Say You, Say Me_; _Hello_; and _Stuck on You_ at next meeting
+
+
+
+
 ## Meeting Notes for CRM Sync on 01/25/2024
 
 ATO, 508, Streamlined Meetings, Housekeeping
