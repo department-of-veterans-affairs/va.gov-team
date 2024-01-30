@@ -287,7 +287,7 @@ Let's say that you're considering going back to school to get your degree, and y
 - *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
 - *(If need more prompting)* You want to find the application form to fill out online.
 
-### Task 6: [Careers at VA]
+### Task 6: [Careers at VA]--SKIP IF RUNNING OUT OF TIME
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
 I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
@@ -308,7 +308,7 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
-### Task 8: [FOIA]
+### Task 8: [FOIA]--SKIP IF RUNNING OUT OF TIME
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
  Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
@@ -321,7 +321,7 @@ Say that after using this website for a while, you didn't get all of your questi
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
-### Task 9: [Update your contact information with VA]
+### Task 9: [Update contact information w/VA]--START at 1 hr in
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
 Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
@@ -335,7 +335,9 @@ You *don't* need to enter your *actual* email address and password since this is
 
 *(See Name/Sign Out in top right corner)*
 
-*RECORD navigation: 
+*Realize that they’re logged in? (Y / N)*
+
+*RECORD navigation (LET THEM STRUGGLE to figure out how to do it; remind them of the task; encourage them to talk aloud about what they’re thinking)*
 - *(desktop) **Name > Profile*** 
 - *(mobile) **Menu > Name > Profile***
 - *Any feedback about name as menu (for Auth)*
@@ -351,7 +353,7 @@ You *don't* need to enter your *actual* email address and password since this is
 
 *(make sure that p is at the very top of page w/header menus closed, or ask to do this)*
 
-1. What stands out to you on this page that indicates this is an official government website?
+1. What stands out to you on this page that indicates this is an official government website? *(CAN SKIP for screen reader users; ASK sighted users)*
     - *(More prompts if needed...)* 
     - Can you tell me about the very top of this page? *(USA Government)*
     - Can you talk about what's below that? *(VA seal and dept. name)*
@@ -362,7 +364,7 @@ You *don't* need to enter your *actual* email address and password since this is
 1. Do you use the VA mobile app? If so, how often?
 
 1. Overall, about everything on the web pages in this session...What worked *well* for you?
-1. What was *unclear or didn't work well* for you?
+1. *(ASK EVERYONE)* What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
