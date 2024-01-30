@@ -10,6 +10,8 @@ assignees: 'coforma-terry'
 # CAIA Child Ticket
 
 `WIP`
+> [!IMPORTANT]
+> Please fill out this information.
 
 ## Ticket Tasks
 _Please complete these steps after creating this ticket._
@@ -21,10 +23,19 @@ _Please complete these steps after creating this ticket._
 ## About the work
 _Describe the work to be done below._
 
-## Definition of Done
+## Acceptance Criteria
 Detail what is required to close this work out.
+```[tasklist]
+### Acceptance Criteria
+```
 
 ## Tasks
 ```[tasklist]
 ### Tasks
 ```
+## Useful Context
+<details>
+<summary>Click to toggle context
+</summary>
+
+</details>
