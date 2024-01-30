@@ -23,7 +23,7 @@ We are adding a toxic exposure section to the 526 ez disability benefits claim f
 
 For our initial release, we will include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase), as an MVP.
 
-See Figma file: [526 toxic exposure]([https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=oJsLDpd2NrXJIAgB-1)) and the annotations within it for details.
+See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=oJsLDpd2NrXJIAgB-1) and the annotations within it for details.
 
 ## Project background
 
