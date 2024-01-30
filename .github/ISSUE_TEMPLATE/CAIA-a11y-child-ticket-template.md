@@ -24,8 +24,15 @@ _Please complete these steps after creating this ticket._
 ## About the work
 _Describe the work to be done below._
 
+## Useful Context
+<details>
+<summary>Click to toggle context
+</summary>
+
+</details>
+
 ## Acceptance Criteria
-Detail what is required to close this work out.
+Detail what is required to mark this work as complete.
 ```[tasklist]
 ### Acceptance Criteria
 ```
@@ -34,9 +41,4 @@ Detail what is required to close this work out.
 ```[tasklist]
 ### Tasks
 ```
-## Useful Context
-<details>
-<summary>Click to toggle context
-</summary>
 
-</details>
