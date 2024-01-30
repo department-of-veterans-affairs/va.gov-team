@@ -11,7 +11,7 @@ assignees: 'coforma-terry'
 
 `WIP`
 > [!IMPORTANT]
-> Please fill out this information.
+> Remember to fill out Ticket Task section after opening/converting this ticket.
 
 ## Ticket Tasks
 _Please complete these steps after creating this ticket._
