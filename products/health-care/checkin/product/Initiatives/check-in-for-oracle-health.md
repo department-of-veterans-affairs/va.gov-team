@@ -16,20 +16,35 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
-- Steady increase of eCheck-in usage at OH facilities
+### MVP Key Performance Indicators (KPIs)
+- Steady increase travel pay requests at Oracle Health sites
 - At least 70% check in completion rate once a Veteran authenticates their identity
-- Favorable feedback from Veterans who use eCheck-in at OH facilities
+- Favorable feedback from Veterans who use travel pay reimbursement at OH facilities
 
 ## Launch Planning
 - Pilot - mid April 2024
 - Release - TBD
    
 ## MVP
-
 [Work flow for each option below](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14-6233&mode=design)
 
-### Included in the MVP (OPTION 1 - DO NOT INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER)
+## MVP option decision- Modified Option 1
+Decisions reached on 1/30/2024 with OCTO and IVC: 
+- Veteran receives day of 45 minute appt reminder (VEText Work)
+  - If Veteran hasn't already confirmed their appointment, VEText will ask them to confirm by replying Y or N
+  - If Veteran replies Y, VEText will send a message about Seeing the Clerk when they arrive and providing a link if they want to start a Travel Pay Claim
+  - If Veteran had already confirmed their appt, VEText will send an appt reminder text that tells the Veteran to see a clerk upon arrival and provide link to start a travel pay claim
+- Veteran clicks on link and Veteran will see new H1 & body on the verify identity page
+  - Remove any reference to Arrived- this is strictly a Travel Pay workflow
+  - Need something like You can now start a travel pay claim before your appointment. VA staff will confirm eligibility and payment amount after your appointment. (Maybe this last sentence goes somewhere else in the workflow.)
+ - Veteran works through the same Travel Pay screens that is in PCI today.
+ - Once they confirm and submit, show success page with success message, reminder to see staff when they arrive for their appt, and list of other upcoming appointments.
+ - VEText sends travel claim submission success as they do today. (VEText)
+ **NOTE: we will NOT return a check-in link for telehealth (CVT included) or telephone appointments**
+   
+## Other MVP Options considered- but we are not doing. 
+
+### MVP OPTION 1 - DO NOT INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
         - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
@@ -51,7 +66,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
            - **We will submit their travel claim**
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
-### Included in the MVP (OPTION 2 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND MODIFY WORKFLOW BASED ON ANSWER)
+### MVP OPTION 2-INCLUDE "ARE YOU AT THE FACILITY" PAGE AND MODIFY WORKFLOW BASED ON ANSWER
 - **NOTE: if we are not able to get the Patient ICN (in order to create a MAP token) then this option is not viable in the timeframe**
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
@@ -87,7 +102,7 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
            - **We will submit their travel claim**
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
-### Included in the MVP (OPTION 3 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER)
+### MVP OPTION 3 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER
 - **NOTE: if we are not able to get the Patient ICN (in order to create a MAP token) then this option is not viable in the timeframe**
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
@@ -128,7 +143,6 @@ eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
 ### Not Included in the MVP
 - Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
 - Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
-- 45-minute Reminders (i.e. Veterans wll NOT receive a reminder with an eCheck-in link 45 minutes before their OH appointment)
 - Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) 
 - Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
      
