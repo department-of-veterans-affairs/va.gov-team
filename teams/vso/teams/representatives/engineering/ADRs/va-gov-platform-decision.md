@@ -1,4 +1,4 @@
-# Benefits Accredited Representative Facing (ARF) Tools ADR for building ARF Tools on VA.gov Platform
+# Benefits Accredited Representative Facing (ARF) Tools ADR for Building ARF Tools on VA.gov Platform
 
 ## Status
 
@@ -6,30 +6,27 @@ Proposed
 
 ## Context
 
-The ARF team faced the challenge of selecting an appropriate platform for building the accredited-representative-facing site (see [initial exploration](https://docs.google.com/document/d/1SECvAh6TZgCPEWLIF3h8oAusIoB7MmZiyeA5J1iS3dg/edit#heading=h.a1xc2ws1zujg)). After a thorough analysis of product requirements and the existing technology landscape, the team concluded that building on the VA.gov platform, including vets-website and vets-api, would be the most effective approach. This decision was driven by the need for a robust platform capable of supporting various accredited-representative user groups, ensuring a seamless ARF user experience, and leveraging the existing technology stack for cost efficiency.
+The ARF team evaluated platforms for building the accredited-representative-facing site. After analyzing product requirements and the technology landscape, the team chose the VA.gov platform, including vets-website and vets-api, for its robustness, user experience, and cost efficiency. [Initial Exploration](https://docs.google.com/document/d/1SECvAh6TZgCPEWLIF3h8oAusIoB7MmZiyeA5J1iS3dg/edit#heading=h.a1xc2ws1zujg) provides more context.
 
 ## Decision
 
-The decision to build the accredited-representative-facing site on the VA.gov platform was based on several key factors:
+The decision to build the accredited-representative-facing site on the VA.gov platform was influenced by several key factors, each contributing to fulfilling product requirements:
 
-- Ability to meet robust authentication needs, facilitated by the [Sign-in Service](teams/vso/teams/representatives/engineering/ADRs/using-sign-in-service.md).
-- Reuse of existing VA.gov forms for efficiency and consistency.
-- Creation of a distinct, dedicated site for accredited representatives.
-- Utilization of VA.gov domain modeling, service dependencies, and APIs.
-- Consideration of OCTO's historical position on VA.gov's user scope.
-- Awareness of the downsides of using the VA.gov stack.
-- Exploration of alternative architectural options.
+1. **Robust Authentication**: Integration with the [Sign-in Service](teams/vso/teams/representatives/engineering/ADRs/using-sign-in-service.md) ensures secure and robust authentication mechanisms. This meets the platform's needs for strong user authentication and security.
 
-### Technical Rationale Topics
+2. **Reuse of VA.gov Forms**: Utilizing existing VA.gov forms streamlines the development process, saves time, and maintains consistency across services. This approach exemplifies efficiency and a DRY (Don't Repeat Yourself) methodology.
 
-#### How this Architectural Decision Facilitates Product Requirements
+3. **Distinct Site Presentation**: Creating a dedicated subdomain for accredited representatives within VA.gov ensures brand consistency and offers a seamless user experience, enhancing usability and familiarity for the representatives.
 
-- **Authentication**: Integration with the [Sign-in Service](teams/vso/teams/representatives/engineering/ADRs/using-sign-in-service.md) ensures robust, secure authentication mechanisms.
-- **Reuse of VA.gov Forms**: Reusing VA.gov forms streamlines development, saves time, and ensures familiarity for representatives. It exemplifies a DRY (Don't Repeat Yourself) approach.
-- **Presenting a Distinct Site**: Establishing a dedicated subdomain within VA.gov ensures brand consistency and a seamless user experience for representatives.
-- **Knowledge Sharing and Resource Utilization**: Leveraging VA.gov resources facilitates access to a wealth of knowledge and developer support.
-- **Compliance and Security**: Building on VA.gov ensures adherence to established security standards and compliance requirements.
-- **Domain Modeling and Service Dependencies**: Utilizing VA.gov's domain modeling and services, including APIs like the [OGC API](https://github.com/department-of-veterans-affairs/vets-api/blob/867f456072ebecabe3eb884fa12517b942006905/modules/veteran/app/sidekiq/veteran/vso_reloader.rb), enhances functionality and user experience while avoiding the high costs associated with developing a separate service on VRO.
+4. **Domain Modeling and Service Dependencies**: Leveraging VA.gov's existing domain modeling, service dependencies, and APIs, such as the [OGC API](https://github.com/department-of-veterans-affairs/vets-api/blob/867f456072ebecabe3eb884fa12517b942006905/modules/veteran/app/sidekiq/veteran/vso_reloader.rb), allows for efficient development and integration with other VA services, avoiding the costs of developing a separate service.
+
+5. **Knowledge and Resource Utilization**: Building on the VA.gov platform provides access to an extensive knowledge base and developer support, facilitating collaboration and knowledge transfer.
+
+6. **Compliance and Security Standards**: Adhering to the established security and compliance standards of the VA.gov platform ensures that the accredited-representative-facing site aligns with VA's broader security policies.
+
+7. **Consideration of OCTO's Historical Position**: Recognizing OCTO's past stance on VA.gov's user scope and the need to adapt the platform for different user groups, including representatives.
+
+8. **Evaluation of VA.gov Stack Downsides and Alternatives**: Awareness of the challenges associated with using the VA.gov stack, and the exploration of other architectural options to find the most suitable solution.
 
 ## Consequences
 
@@ -54,8 +51,8 @@ In proceeding with this direction, we should consider declaring our choice as so
 ## Resources
 
 - [Zenhub Issue Related to this ADR](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/73248)
-- [Slack conversation](https://dsva.slack.com/archives/C06ABHUNBRS/p1704479266926979) discussing the complexities of adapting VA.gov for non-veteran users
-- [Product vision document](https://docs.google.com/document/d/17yZF0USxhFP6aCuy4QL-sf-fpBxUx7KwCoCDnvKIDNE/edit) outlining site goals and constraints
+- [Slack conversation](https://dsva.slack.com/archives/C06ABHUNBRS/p1704479266926979) on adapting VA.gov for non-veteran users
+- [Product vision document](https://docs.google.com/document/d/17yZF0USxhFP6aCuy4QL-sf-fpBxUx7KwCoCDnvKIDNE/edit)
 - [Early architectural brainstorm document](https://docs.google.com/document/d/1SECvAh6TZgCPEWLIF3h8oAusIoB7MmZiyeA5J1iS3dg/edit#heading=h.a1xc2ws1zujg)
 - [Sign-In Service documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service)
 - [vets-api repository](https://github.com/department-of-veterans-affairs/vets-api/)
