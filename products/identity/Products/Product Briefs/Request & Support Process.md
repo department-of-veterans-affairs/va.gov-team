@@ -6,6 +6,7 @@ Top Goals:  One of our 2024 OKRs is develop a Request & Support process for va.g
 
 * Create an intake process for feature requests, updates, bug fixes, data requests, etc.
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
+* ability or view all requests holistically
 
 Create solutions to manage & fulfill requests from other va.gov Product Teams, possibly including:
 * Intake form
@@ -20,15 +21,18 @@ Currently, we have no clearcut and a disjointed/one-off process to field request
 
 ## Relevant Documents:
 
+## Potential deliverables:
+- research findings
+
 ## What's In Scope: 
 For this first iteration, the focus will be on:
 * Developing the processes as needed to support other teams' requests for feature requests, updates, bug fixes, data requests, etc.
 * Sign-in-Service intake requests and routing to the appropriate persons on the Identity Core team for follow-up action
+* Creating metrics
 
 ## Out of Scope: 
 *  Sign-in-Service documentation updates
 *  Sign-in-Service bug/feature resolution
-*  Creating metrics ? (Can Jim clarify which metrics?)
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
