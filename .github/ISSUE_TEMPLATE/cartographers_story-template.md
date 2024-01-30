@@ -12,12 +12,12 @@ assignees: ''
 ### User story
 > _Describe the audience/user and value / outcome desired._
 
+### Notes
+- 
 
+Possible tasks:
+- [ ]  
 
 ## Acceptance criteria
 
 - 
-
-## Tasks
-
-- [ ] 
