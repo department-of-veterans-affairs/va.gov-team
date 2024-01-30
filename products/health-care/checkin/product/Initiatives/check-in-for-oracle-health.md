@@ -3,16 +3,16 @@
 ## Overview
  
 ## Outcome Summary
-Veterans who have health appointments at VA facilities that use OH EHR software (formerly CERNER) will be able to use eCheck-in to verify their personal, emergency, and next-of-kin contact information, let staff know that they have arrived for their appointment, and submit a mileage-only travel reimbursement claim.
+Veterans who have health appointments at VA facilities that use OH EHR software (formerly CERNER) will be able to use a variation of e-Checkin to submit a mileage-only travel reimbursement claim.
 
 ## Problem
-VA Facilities that use Oracle Health EHR software (instead of Vista) would like to offer Veterans the ability to use eCheck-in to verify their personal, emergency, and next-of-kin contact information, let staff know that they have arrived for their appointment, and submit a mileage-only travel reimbursement claim.
+VA Facilities that use Oracle Health EHR software (instead of VistA) have specific screens that always needed to be completed by an MSA. After discussion with IVC (Jeff Lowe and Robert Tow), there is not significant value for offering e-Checking at Oracle Health sites. The biggest value is the ability for a Veteran to submit a a mileage-only travel reimbursement claim using low-risk authentication. This will be the only focus for MVP. 
 
 ## Desired Outcomes
-eCheck-in is available to VA facilities that use Oracle Health EHR software.
+Veterans can submit a a mileage-only travel reimbursement claim online at VA facilities that use Oracle Health EHR software.
 
 ## Undesired Outcomes
-eCheck-in is NOT available to VA facilities that use Oracle Health EHR software.
+Adding features to the process that do not make it easier for Veterans to access health needs. 
 
 ## Measuring Success
 
