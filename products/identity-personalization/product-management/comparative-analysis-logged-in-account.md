@@ -58,4 +58,40 @@ Target doesn't have a page called "Profile." Instead, the site refers to this in
 
 ### Example 2: Amazon.com
 
+### The homepage
+
+Unlike Target, Amazon's homepage does change when a user signs in. However, the overall layout of the page remains the same. Generic content blocks are replaced with personalized content around previous purchases and suggested items.
+
+*Logged-out homepage*
+
+![ogged-out homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Amazon%20homepage_logged%20out.png)
+
+*Logged-in homepage*
+
+![ogged-in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Amazon%20homepage_logged%20in.png)
+
+### User menu and navigation
+
+Amazon's navigation largely remains the same with the exception of updates to the user menu. Like Target, it has options in both the logged-in and logged-out states, though there are more expansive options once a user logs in.
+
+Of note, this menu is really long, which could feel noisy to users. Alternatively, users might find it comprehensive. We should be mindful of menu length and scannability on VA.gov.
+
+*Logged-out user menu*
+
+![*Logged-out user menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Amazon%20user%20menu_logged%20out.png)
+
+*Logged-in user menu*
+
+![*Logged-in user menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Amazon%20user%20menu_logged%20in.png)
+
+### Account page
+
+Amazon has an account page which lists every major tool on the site. It's much longer than the user menu, and could arguably be viewed as noisy and overwhelming. However, it really is a one-stop shop. Users most likely don't have to go anywhere else to manage personal details of their Amazon account..
+
+Unlike Target, Amazon doesn't preview high-level personalized info on this page (eg. address, name, payment info).
+
+*Account page*
+
+![Amazon Account page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Amazon%20account%20page.png)
+
 ## The "portal" model 
