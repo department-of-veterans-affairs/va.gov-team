@@ -12,8 +12,10 @@ There may be times when Google Play rejects a new app release during their app r
 
 ## Steps: 
  1.) Google Play will send an email to those associated to the Developer POrtal of the VA Health and Benefits App 
-     - this includes VA POs - Chris Johnston
-     - Mobile team - Therese, Rachel, Tom, Adam, Theo, Jason C, Jon, Seth, Liz, Narin, Tim 
+    
+   - this includes VA POs - Chris Johnston
+     
+   - Mobile team - Therese, Rachel, Tom, Adam, Theo, Jason C, Jon, Seth, Liz, Narin, Tim 
  
  2.) Ad Hoc Mobile team to review the situation to identify the issue 
      - Internal discussions amongst Engineering Lead, Release Manager and Engineers may be needed
