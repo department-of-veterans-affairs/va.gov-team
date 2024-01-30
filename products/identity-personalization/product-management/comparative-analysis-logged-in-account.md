@@ -54,7 +54,7 @@ The account page acts as both a dashboard and a menu to other personalized tools
 
 Target doesn't have a page called "Profile." Instead, the site refers to this information as "Settings." The Settings overview acts as both navigation and as a preview of the information within the profile. This might be something we want to consider for our own profile.
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Target_Settings%20page.png
+![The Account page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Target_Settings%20page.png)
 
 ### Example 2: Amazon.com
 
