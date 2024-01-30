@@ -10,7 +10,6 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 |Category | Metric Type| Metric | Description | Hypothesis | Numerator | Denominator 
 | -------- | -------- | ---------- | ---------- | ---------- | -------| -------|
-| Feature Adoption | Observational | Personalized home screen adoption | Measures the percentage of Veterans that have a version of the app with the new home screen | N/A - this metric is to observe how many are using the new home screen | # of Veterans using an app version with the new home screen | # of Veterans using the app |
 |Performance | Observational | Home screen load speed | The speed at which the home screen loads | N/A - this metrics is to observe how long it takes the home screen to load.|# of seconds for the home screen to load|N/A|
 |Engagement|Leading|Unread message read rate|Measures the rate at which Veterans view unread messages|Veterans read unread messages more often because they are being surfaced on the home screen|# of sessions where Veteran has unread messages AND views them|# of sessions where Veteran has unread messages|
 |Engagement|Leading|Claims view rate|Measures the rate at which Veterans view their active claims|Veterans view their active claims less often because their active claims are surfaced on the home screen which indicates they are still in progress.|# of sessions where the Veteran has an active claim AND views the active claims page|# of sessions where the Veteran has an active claim|
