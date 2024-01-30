@@ -74,8 +74,8 @@ Veterans and family members of Veterans must currently download and fill out the
 ## Solution Approach
 - We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
 - Connect with CAIA on migration effort happening in parallel 
-- In Scope:
-- Out of Scope:
+- In Scope: file upload, pre fill states
+- Out of Scope: lo3 authentication level (with identity verification)
 --- 
 
 ## Launch Dates
