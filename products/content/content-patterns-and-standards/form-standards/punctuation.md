@@ -4,7 +4,7 @@
  
 **Don't use punctuation in these instances:**
 
-* **Step titles**
+* **Step titles**  
 Example: Veteran personal information
 
 * **Headers**  
