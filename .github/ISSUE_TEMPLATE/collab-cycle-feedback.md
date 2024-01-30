@@ -30,6 +30,9 @@ Practice areas will document their feedback on the VFS-provided artifacts follow
 ## Governance team actions
 - [ ] Format feedback as individual tasks (check boxes)
 - [ ] Assign this ticket to the VFS team member that opened the Slack request
-- [ ] Add the VFS team product label and the feature label
-- [ ] Add the touchpoint and practice area labels
-- [ ] Add the Collaboration Cycle initiative milestone and epic
+- [ ] Add the VFS team product label
+- [ ] Add the VFS team the feature label (if applicable)
+- [ ] Add the touchpoint lables
+- [ ] Add the practice area labels
+- [ ] Add the Collaboration Cycle initiative milestone
+- [ ] Add the Collaboration Cycle initiative epic
