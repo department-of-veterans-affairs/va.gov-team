@@ -12,9 +12,7 @@ Draft date: 01/22/2024
 
 Missing, confusing appointment information makes the lists difficult to use.
 
-[Appointment List Screenreader Usability Study](./2023-02-appt-list-usability-screenreader/research-findings.md#missing-confusing-appointment-information-makes-the-lists-difficult-to-use), 2023-02 
-
----
+[Appointment List Screenreader Usability Study](./2023-02-appt-list-usability-screenreader/research-findings.md#missing-confusing-appointment-information-makes-the-lists-difficult-to-use), 2023-02
 
 Participants wanted to be able to easily differentiate between appointments. The most helpful data for this:  
 * 7/9 Type of care
@@ -22,8 +20,6 @@ Participants wanted to be able to easily differentiate between appointments. The
 * 2/9 Whether the appointment was for, or connected to, labs.
 
 [MHV and VAOS Appointments List Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/52460de0c1639959c8b933ae75a8a931a36aa0d2/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos), 2022-01
-
----
 
 Appointments list top data requests:
 * Type of care - 5/8
@@ -33,23 +29,27 @@ Appointments list top data requests:
 
 [Request Clarification Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/c9aa60340a018268e81f679627e6dd4ea2513e22/products/health-care/appointments/va-online-scheduling/research/2021-11-request-clarification-research/research-findings.md#appointment-list-and-details-pages-data), 2021-11
 
----
-
 Participants need specific information to identify and prepare for their appointments.
 
 [Community Care Provider Selection Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4698f0f19f26bd512cf8dd1cff578c712d7da3eb/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md#participants-need-specific-information-to-identify-and-prepare-for-their-appointments), 2020-10
-
----
 
 "...include additional details about each appointment, to include: date, provider, location, type of care, status, type of appointment."  
 
 [VAOS MVP and Express Care User Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/c9aa60340a018268e81f679627e6dd4ea2513e22/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research/research-findings.md#L67), 2020-07
 
----
-
 Clinic names confused participants.
 
 [MHV and VAOS Appointments List Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/52460de0c1639959c8b933ae75a8a931a36aa0d2/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#clinic-names-confused-participants), 2022-01
+
+## Finding the appointments tool
+
+Most participants were confused when navigating across multiple portals to find the appointments list.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#most-participants-were-confused-when-navigating-across-multiple-portals-to-find-the-appointments-list), 2023-11
+
+Login and navigation pose the biggest challenges to helping veterans schedule online. 
+
+[MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#login-and-navigation-pose-the-biggest-challenges-to-helping-veterans-schedule-online), 2023-10. Participants were MHV Coordinators.
 
 
 ## List nav stories
@@ -58,11 +58,22 @@ Clinic names confused participants.
 
 ---
 
+All participants easily navigated appointment details pages.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#all-participants-easily-navigated-appointment-details-pages), 2023-11
+
+Most participants easily found their past appointments
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#most-participants-easily-found-their-past-appointments), 2023-11
+
+Some participants struggled to understand their pending appointments.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#some-participants-struggled-to-understand-their-pending-appointments), 2023-11
+
 Participants easily navigated to and understood the upcoming and past appointment lists.
 
 [Appointment List Screenreader Usability Study](./2023-02-appt-list-usability-screenreader/research-findings.md#participants-easily-navigated-to-and-understood-the-upcoming-and-past-appointment-lists), 2023-02 
 
----
 
 ## Pending appointment stories
 
@@ -70,11 +81,13 @@ Participants easily navigated to and understood the upcoming and past appointmen
 
 ---
 
+Some participants struggled to understand their pending appointments.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#some-participants-struggled-to-understand-their-pending-appointments), 2023-11
+
 Participants struggled to navigate to and understand appointment requests.
 
 [Appointment List Screenreader Usability Study](./2023-02-appt-list-usability-screenreader/research-findings.md#participants-struggled-to-navigate-to-and-understand-appointment-requests), 2023-02
-
----
 
 ## Login stories
 
@@ -82,9 +95,39 @@ Participants struggled to navigate to and understand appointment requests.
 
 ---
 
+Most participants struggled with login.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#most-participants-struggled-with-login), 2023-11
+
+
 Login and navigation pose the biggest challenges to helping veterans schedule online. 
 
 [MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#login-and-navigation-pose-the-biggest-challenges-to-helping-veterans-schedule-online), 2023-10. Participants were MHV Coordinators.
 
----
 
+## Unthemed
+
+All participants were able to easily use the print feature.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#all-participants-were-able-to-easily-use-the-print-feature), 2023-11
+
+
+The process of choosing or changing a provider.
+
+[MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#the-process-of-choosing-or-changing-a-provider), 2023-10. Participants were MHV Coordinators.
+
+It's easier to help Veterans schedule with other tools.
+
+[MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#its-easier-to-help-veterans-schedule-with-other-tools), 2023-10. Participants were MHV Coordinators.
+
+It's unclear what types of care can be scheduled online 
+
+[MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#its-unclear-what-types-of-care-can-be-scheduled-online), 2023-10. Participants were MHV Coordinators.
+
+Participants expected a more personalized experience for selecting facilities
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#participants-expected-a-more-personalized-experience-for-selecting-facilities), 2023-11
+
+Participants were confused by the alert that told them Community Care was unavailable for podiatry.
+
+[MHV on VA.gov Phase 2b UAT](./2023-11-mhv-on-va-gov-phase-2b-vaos-uat/research-findings.md#participants-were-confused-by-the-alert-that-told-them-community-care-was-unavailable-for-podiatry

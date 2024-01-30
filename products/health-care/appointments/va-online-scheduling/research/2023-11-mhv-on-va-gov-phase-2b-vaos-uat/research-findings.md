@@ -138,6 +138,7 @@ Participants found 2-factor authentication to be the most frustrating issue. Log
 ### Most participants were confused when navigating across multiple portals to find the appointments list
 
 Labels: `IA`, `navigation`
+Themes: [Finding the appointments tool](../themes.md#finding-the-appointments-tool)
 
 We started off by asking participants to go to VA.gov and find their appointments. Later, we asked them to find other health tools, then navigate back to appointments. This required that they navigate across 2-3 health portals:
 - My HealtheVet on VA.gov 
@@ -211,7 +212,7 @@ Of those that had trouble:
 ### Some participants struggled to understand their pending appointments
 
 Labels: `Content`, `requests`, `pending appointments`  
-Themes: [Pending appointment stories](../themes.md#pending-appointment-stories)
+Themes: [List navigation stories](../themes.md#list-nav-stories), [Pending appointment stories](../themes.md#pending-appointment-stories)
 
 - 2 participants expected that the number next to Pending (0) should refer to their upcoming appointments.
 - 1 associated pending appointments with those requested through secure messages.
