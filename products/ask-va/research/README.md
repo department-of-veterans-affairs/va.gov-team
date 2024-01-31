@@ -1,4 +1,4 @@
-# Ask VA: Research overview
+# Ask VA: User research overview
 
 ### Our research
 
