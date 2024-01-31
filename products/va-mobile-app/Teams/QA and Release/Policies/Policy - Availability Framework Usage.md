@@ -20,10 +20,31 @@ AF changes are made without a release and screen/content changes can be made in 
  - Alert box colors within the app cannot be changed
  - AF changes cannot be made or completed by QA and Release Team as we do not have the engineering resources to do - it will be up to Flagship teams to improve and change
  - Depending on the situation responsiblity and accountablity owners may change
-   
----------------------
 
-### When there is a production problem: 
+### Open Questions 
+
+- Does the AF message stay up until they update the app
+- Can we do different AF messages depending on the app version 
+- What in the past would we have used Availability Framework for and what wouldn’t we have used it on
+- Can e2e be applied here
+- What components can be used in AF
+- What are our component limitations 
+
+### Identified Use Cases 
+
+| # | Use Case Description| Actor | Goal | 
+| ----- | ------- | ----- | ----- |
+| 1 | A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). |
+| 2 | A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
+| 3 | A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
+| 4 | An upcoming situation (outage, update) that will prevent all users from signing into the app or using any app feature  | Access is broken for all users who log in or get an error while already logged in during this time | Proactive communication to all users on the pre-login screen | 
+
+----------------------
+  
+# AF Involving Post Production Problem 
+
+
+## When there is a production problem: 
 
  **1.) Production issues get worked the The Incident Response process has received PO approval to use Availability Framework interim solution** 
  -  Ideally, determine what type of release will follow it up (hotfix / regular release)
@@ -52,10 +73,27 @@ AF changes are made without a release and screen/content changes can be made in 
  **9.) Impacted team completes a retro to identify how to reduce risk of the issue happening again** 
  
  **10.) If applicable update AF Policy based on findings / learnings**
+
+
+## RACI for When there is a production problem: 
+
+| Task | Responsible | Accountable | Consult | Inform | 
+| ----- | ---------- | ----------- | ------- | ------ |
+| Incident Response Process | Incident Commander | Incident Commander | Impacted Team | POs |
+| Approval to use AF | POs | Incident Commander | PM, Content, QA, Data, UX | Leads |
+| AF Screen Copy | Content | Incident Commander | PM, UX, PO, FE Eng  | QA |
+| AF Screen Placement | Impacted Team PM | Incident Commander | UX, PO, FE Eng, Content | QA |
+| Test AF Solution | QA | Incident Commander | PM, Content, FE Eng, UX | PO |
+| Push AF Solution to App | FE Eng | Incident Commander | PM, PO | Leads |
+| Post Validation Monitor AF Solution | Impacted Team PM  | Incident Commander | FE Eng, Data | POs |
+| Post AF Solution | Impcated team PM | Incident Commander | UX, PO, FE Eng, Content, QA | Leads |
+| Turn off AF Solution | FE Eng | Incident Commander | PM, PO  | UX, Content, Leads |
+| AF Solution Documentation | Incident Commander |  Incident Commander | PM, Content, FE Eng, Data  | Leads |
  
 -----------------------
+#  AF Involving Pre Production Situations 
 
-### When there pre-production situation: 
+## When there pre-production situation: 
 
  **1.) Upcoming situation has been identified that could warrant using Availability Framework**
 
@@ -84,56 +122,39 @@ AF changes are made without a release and screen/content changes can be made in 
 
  **11.) Document incident and AF usage at the bottom of this document.** 
 
-
-------------------------
-
-
-### Identified Use Cases 
-
-| # | Use Case Description| Actor | Goal | 
-| ----- | ------- | ----- | ----- |
-| 1 | A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). |
-| 2 | A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
-| 3 | A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
-| 4 | An upcoming situation (outage, update) that will prevent all users from signing into the app or using any app feature  | Access is broken for all users who log in or get an error while already logged in during this time | Proactive communication to all users on the pre-login screen | 
-
-----------------------
-
-### RACI for When there is a production problem: 
-
-| Task | Responsible | Accountable | Consult | Inform | 
-| ----- | ---------- | ----------- | ------- | ------ |
-| Incident Response Process | Incident Commander | Incident Commander | Impacted Team | POs |
-| Approval to use AF | POs | Incident Commander | PM, Content, QA, Data, UX | Leads |
-| AF Screen Copy | Content | Incident Commander | PM, UX, PO, FE Eng  | QA |
-| AF Screen Placement | Impacted Team PM | Incident Commander | UX, PO, FE Eng, Content | QA |
-| Test AF Solution | QA | Incident Commander | PM, Content, FE Eng, UX | PO |
-| Push AF Solution to App | FE Eng | Incident Commander | PM, PO | Leads |
-| Post Validation Monitor AF Solution | Impacted Team PM  | Incident Commander | FE Eng, Data | POs |
-| Post AF Solution | Impcated team PM | Incident Commander | UX, PO, FE Eng, Content, QA | Leads |
-| Turn off AF Solution | FE Eng | Incident Commander | PM, PO  | UX, Content, Leads |
-| AF Solution Documentation | Incident Commander |  Incident Commander | PM, Content, FE Eng, Data  | Leads |
-
-### RACI for When there is a production problem: 
+## RACI for When there is a production problem: 
  * Dependent on the pre-production situation
  * QA and Release team will be Accountable but may have Flagship App team be Responsible for the work depending on the situation. Example: 
    * Vets-API outage - QA and Release team managed - will pull team from Flagship App as needed 
    * Lovell Cerner - QA and Release helping with Health and Benefits Team but given they are doing more work with this issue H&B to be responsible for the work , QA and Release to monitor and follow up 
 
+------------------------
+# How to improve Availability Framework 
 
-### Open Questions 
+## Current AF functionality does not support my needs, I need it be improved: 
 
-- Does the AF message stay up until they update the app
-- Can we do different AF messages depending on the app version 
-- What in the past would we have used Availability Framework for and what wouldn’t we have used it on
-- Can e2e be applied here
-- What components can be used in AF
-- What are our component limitations 
+ **1.) Someone identifies AF functionality does not support a use case or finds after its usage it could be improved**
+ 
+  **2.) Use case and improvements are captured in a ticket with all details they are aware of** 
+ 
+  **3.) Ticket groomed by the most relevant Flagship App Mobile Team (Health or Global)** 
+ 
+ **4.) Ticket is prioritized by the relevant Health or Global Flagship Team** 
+ 
+  **5.) Health or Flagship Team notifies QA and Release of the upcoming change**
+ 
+  **6.) Qa and Release Team updates AF documents to account for the new chabge so it can be considered for future usage** 
+
+
+------------------------
+
+
+
 
 
 ### AF Implementation
 
 | # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
-| ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | 
+| ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
 | 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF | 
-| 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | 
+| 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | | 
