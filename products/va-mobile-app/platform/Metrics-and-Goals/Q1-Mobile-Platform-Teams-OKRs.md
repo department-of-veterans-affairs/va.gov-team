@@ -5,6 +5,7 @@
 
 **QA & Release**
 **What does QA and Release do**: 
+
 **Our customer**: OCTO POs who are working with Mobile to release their specific features, functionality or enhancement 
 
 | Goal 1 | Goal 2 | Goal 3 |
