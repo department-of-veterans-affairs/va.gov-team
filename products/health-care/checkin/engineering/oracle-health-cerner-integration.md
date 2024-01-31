@@ -61,7 +61,7 @@ sequenceDiagram
         participant proxy as Proxy
         participant pro as VA Profile
     end
-    participant ces as CES
+    participant ces as VPG
     participant oh as Oracle Health (cerner)
         vet->>web: Clicks link to start CIE <br> and validates last & dob
         activate web
@@ -130,7 +130,6 @@ sequenceDiagram
         participant proxy as Proxy
         participant pro as VA Profile
     end
-    participant ces as CES
     participant oh as Oracle Health (cerner)
         vet->>web: Clicks link to start CIE <br> and validates last & dob
         activate web
@@ -181,6 +180,27 @@ sequenceDiagram
         veText--)-api: returns success
         api--)-web: returns success
         web-->>-vet: displays check-in completed message
+```
+## Integration
+### Oracle Healthcare Integration
+
+MAP OAuth Secure Token Service used to generate access token to handle authentication for accessing OH API. ``client_id`` generated for PCI application to call VA Profile API can be used for generating token to access OH API as well. Generate ``client_assertion`` parameter for MAP token endpoint using ``patient_icn`` & create jwt access token using MAP token endpoint to access OH API.
+
+For marking the patient healthcare record in Oracle as ``ARRIVED``, vets-api needs to call VPG wrapper service which in turn calls [OH appointments API](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#patch-operations) to set the patient's appointment status
+
+```
+PATCH https://staff.apps.va.gov/vpg/v1/patients/{icn}/appointments/{appointment-id}
+x-vamf-jwt: <jwt token from MAP token endpoint>
+Content-Type: application/json-patch+json
+Content-Length: <length>
+
+[
+  {
+    "op": "replace",
+    "path": "/status",
+    "value": "arrived"
+  }
+]
 ```
 ## Questions / Open Items
 (answers added from Stephen in [slack thread](https://dsva.slack.com/archives/C02G6AB3ZRS/p1705426133031669))
