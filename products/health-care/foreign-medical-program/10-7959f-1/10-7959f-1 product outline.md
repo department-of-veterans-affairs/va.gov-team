@@ -115,7 +115,7 @@ Collaboration Cycle
 ## Solution Narrative
 
 ### Current Status
-Discovery and research planning efforts underway. Initial conversations with stakeholders to be scheduled.
+Discovery and research planning efforts underway. Initial conversations with stakeholders scheduled through 2/9.
 
 Key deliverables:
 - design: 
