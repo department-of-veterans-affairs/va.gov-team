@@ -1,4 +1,4 @@
-2024 OCTO and Mobile Team Goals: https://dsva.slack.com/canvas/C018V2JCWRJ
+[2024 OCTO and Mobile Team Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ca00d231d7a7c6abf60b6f21daf130b3c375a46/products/va-mobile-app/product/MobileOKRs2024.md)
 
 
 ### Teams
