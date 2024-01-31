@@ -27,7 +27,7 @@ Box.com was mentioned early in the project but ruled out due to security concern
 - Strongly prefer to submit forms and supporting docuements to PEGA via a RESTful API once available
 - Prior to availability of an API for direct submission to PEGA, we anticipate submitting documents to an AWS s3 bucket to begin testing back end processes. This may be viable as a temporary production option, but would require effort to manage additional risks to ensure quality and viability of the solution.
 
-While s3 is not the preferred production solution, it's important to note that our team is pursuing this path as a near term option to test our back end processes and front end functionality as it relates to those processes.
+While s3 is not the preferred production solution, it's important to note that our team is pursuing this path as a near term option for testing our back end processes and front end functionality as it relates to those processes.
 
 
 ## Consequences
