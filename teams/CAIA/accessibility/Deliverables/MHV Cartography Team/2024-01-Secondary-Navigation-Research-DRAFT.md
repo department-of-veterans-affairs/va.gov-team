@@ -9,11 +9,14 @@
 `iOS-VO`, `MacOS-VO`
 
 ## Coverage
-This research fufilled 75% (3/4) of its original request. Given the **limited/abundant** amount and **variety/lack of variety** of types of screen readers, a conclusive behavioral patterns **can/cannot** be determined locally in this study. We **can/cannot** draw future research considerations and document caught accessibility issues.
-
-**Original study request: 4 AT users supported by CAIA**
+This research fufilled 75% (3/4) of its original request: 
 
 > 6 with 4 SR sessions to be supported by CAIA
+
+Qualitatively, we assume that an issue is encountered during testing, it is worth fixing, and the probability of someone else experiencing it exists. These findings are a list of issues that will need to be prioritize by the researcher among the other issues identified in the study.
+
+We hope this information can be of use to your team, in your fuller report.
+
 
 ## Participants
 To best serve the users of VA.gov, we will need to collect the following information during each a11y research session:
