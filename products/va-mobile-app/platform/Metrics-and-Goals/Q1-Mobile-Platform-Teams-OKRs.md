@@ -14,14 +14,14 @@
 | **OCTO Obj #2** Productivty KR 2 - Documentation  | **OCTO Obj #1** Stability KR 1 - Change failure rate KR 2 - Incident Mgt  |  **OCTO Obj #1** Stablity KR 1 - Change failure rate KR 2 Incident Mgt | 
 | **OCTO Obj #3** Efficiency KR 3 - Team Cost | **OCTO Obj #3** Efficiency KR 3 Team Cost |
 
-### **API Service Team**
+### **API Service Team** (Application Programming Interface)
 **What is the functionality of the API Service Team?**
-API Service Team ensures accurate connectivity to an interface and transfer of data to a server. Data is fed (interfaces) and transfered to the Front End of the Mobile Application.
+The API Service Team ensures accurate connectivity to an interface and transfer of data to a server. We often interface or connect with various API's from cross functional teams. Data is fed from the Back end of the mobile application to the Front End of the mobile application.
 
-**Our End User**: The Mobile Application (Front End)
+**Our End User**: The Mobile Application-Front End
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
-| **Valuable API Product**: Building a viable API product by working with the mobile teams to identify future initiatives so that we can plan ahead for BE implementations. **Project Specifics:** **1.Mobile API- Debt Services 2. Claims Status Tool(BE Integrations)**|**New Technologies**: Add new technologies when possible to  the organization's infrastructure in order  to share features and functionality with other system. **Project Specifics**:**BE Reddit Scraper**|**Collaborating with Partners and Improving Issue Triage**. 1.Investigating and clearing BE Dependencies. 2. Delegating and empowering teams to assist in issue resolution where applicable. **Project Specifics**- **Triaging Issues with the Code Yellow Initiative**
+| **Valuable API Product**: Building a viable API product by working with the mobile teams to identify future initiatives so that we can plan ahead for BE implementations. **Project Specifics:** **1.Mobile API- Debt Services 2. Claims Status Tool(BE Integrations)**|**New Technologies**: Add new technologies when possible to the organization's infrastructure in order  to share features and functionality with other system. **_Note: There will be no duplications in technology_.**   **Project Specifics**:**BE Reddit Scraper**|**Collaborating with Partners and Improving Issue Triage**. 1.Investigating and clearing BE Dependencies. 2. Delegating and empowering teams to assist in issue resolution where applicable. **Project Specifics**- **Triaging Issues with the Code Yellow Initiative**
 |**Octo Objective # 2**: Stronger Platforms|**Octo Objective #2**: Stronger Platforms|**Octo Objective #2**: Stronger Platforms| 
 | **Mobile Platform Objective 1:** **Stability** **KR** **#1 and 3**-Change failure rate/meantime to detect/repair |**Mobile Platform Objective 2: Productivity**. **KR # 2**-Documentation (of new Tech) |**Mobile Platform Objective 1:** **Stability** **KR** **#1 and 3**-Change failure rate/meantime to detect/repair
 |**Mobile Platform Objective 2:Productivity-** **KR #1** Building Faster  |   |**Mobile Platform Objective 1:** **Productivity**- **KR#3**- Platform user/developer happiness trends in positive direction. 
