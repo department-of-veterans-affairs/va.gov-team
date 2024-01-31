@@ -58,6 +58,8 @@ Add screenshots, images and videos here.
 
 > "When I landed on the title as MyHealtheVet, I wondered if it was the same as Home. I assumed it was because it’s in the same spot...I’m in MyHealtheVet so why would I click on MyHealtheVet? Did I leave [the app]?" - P11
 
+> "The first one said ‘Home,’ that was more comfortable for me. I don’t know if I would’ve clicked on ‘MyHealtheVet’ at all." - P11
+
 ### Finding 3: Locating medical supplies order form - and any items that aren't in the top nav - was confusing
 - Users didn't know what options were available to them if they weren't listed in the top navigation. P11 assumed that there would be more on the Home page, but only because of her familiarity with the app.
 
@@ -74,7 +76,6 @@ Add screenshots, images and videos here.
 - P9 thought that if a prescription for CPAP equipment was already in the system, it'd be listed under "Meds," and didn't know where to look for travel pay:
 
 > "It depends…if I have something in the system that has them. If I don’t, I might have to go to messages. If I do, maybe I go to Meds? I’m thinking my doctors made an order for me and that would be in there, I assume." _Where would you go to get reimbursed for travel pay?_ "I don’t see that option on this [MHV] page. Maybe it’s under appointments?...Maybe there'd be a 'travel voucher' option, in a perfect world?"
-
 
  
 ### Finding 4: Entering MyHealtheVet directly into the "X-ray results" secure message was disorienting, but welcome
@@ -111,9 +112,10 @@ Add screenshots, images and videos here.
 
 ## a11y Recommendations
 
-### Use an expanded menu on mobile, and add additional options
+### Use an expanded menu on mobile - with "Home" and additional options
 - Whether you're using icons or not, AT users had an easier time accessing the MHV nav bar when the links were expanded (as in Prototype B) rather than hidden by default (as in Prototype A).
 - Consider adding other options, like applying for medical supplies, to the nav bar. Since there are design constraints, perhaps these could go under a "More" or "Other" menu. Yes, they'd need to be hidden by default, but at least they'd be accessible without having to go to the home page.
+- You should also add a "Home" option. Users didn't think that clicking on "MyHealtheVet" would take them to the MHV home page - the word "Home" was much clearer.
 - Hypothesis: This will make it easier for AT users to use MHVs navigation and find what they need, without needing to go to the home page (or _know_ that they need to go to the home page) to access more options.
 - **Note:** The non-AT user we observed had an easier time with the closed menu (Prototype A). We weren't in other non-AT user sessions, so this might not track as a general trend. And the user, while preferring Prototype A, felt that Prototype B was easy to use.
 
