@@ -27,7 +27,14 @@ The API Service Team ensures accurate connectivity to an interface and transfer 
 |**Mobile Platform Objective 2:Productivity-** **KR #1** Building Faster  |   |**Mobile Platform Objective 1:** **Productivity**- **KR#3**- Platform user/developer happiness trends in positive direction. 
 
 
-### **Design System**
+### **Design System Team**
+**What does the Design System Team do**: Build a Mobile Design System to allow mobile functionality to be designed and built quickly, easily, and with high quality and consistency.
+
+**Our customer**: 
+1. VA designers designing mobile experiences
+2. VA engineers building mobile experiences
+3. OCTO POs when they are understanding how their team can use the Mobile Design System to design and build new mobile functionality
+
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
 | Build 3 new components into the DS. | Align Design Token strategy with VADS and set up links with their tokens. | Create team processes and documentation.  Include a process for measuring user satisfaction. |
