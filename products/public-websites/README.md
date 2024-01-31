@@ -666,6 +666,12 @@ Calls to action on these widgets point users to the Electronic Healthcare Record
 
 As Health care tool teams are updating landing pages or CTA actions to point to MyHealtheVet on VA.gov, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
 
+**Other unauthed react widgets**
+* BTSSS - Epic where it was created: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9157
+* Travel Pay -
+
+Beneficiary travel has its own product team now that should be coordinated with for changes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/README.md
+
 **Governance / Content:**
 
 * [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
