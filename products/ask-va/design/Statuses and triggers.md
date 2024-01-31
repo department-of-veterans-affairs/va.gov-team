@@ -17,9 +17,9 @@ For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
-|`New`|We received your question. We’ll review it soon.|The systems automatically sets the status to `New` when a question is submitted.|
+|`New`|We received your question. We’ll review it soon.|The system automatically sets the status to `New` when a question is submitted.|
 |`In progress`|We're reviewing your question.|The system automatically sets the status to `In progress` when an agent is assigned. Even if the inquiry is re-routed, it will stay `In progress` until it moves to `Solved`.|
-|`Solved`|We either answered your question or didn't have enough information to answer your question. If you need more help, ask a new question.|An agent manually changes the status to `Solved` after they send a reply, which may be asking for more information, or it's resolved, is a duplicate, or has insufficient details.|
+|`Solved`|We either answered your question or didn't have enough information to answer your question. If you need more help, ask a new question.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details. `Solved` can also mean an agent has replied asking for more information, so the conversation may not be over.|
 |`Reopened`|We received your reply. We'll respond soon.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
 |`Closed`|This isn't shown to submitters.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |`Question not found`|We didn't find any questions with reference number "A-20230710-306466." Check your reference number and try again.<br><br>If it still doesn't work, ask the same question again and include your original reference number.|A submitter searches for an reference number that is not found in the system.|
@@ -36,9 +36,9 @@ This is the text that is currently displayed on ask.va.gov. This descriptive tex
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
-|`New`|Your inquiry is currently in queue to be reviewed.|The systems automatically sets the status to `New` when a question is submitted.|
-|`In progress`|Your inquiry is currently being reviewed by an agent.|The system automatically sets the status to `In progress` after an agent has responded.|
-|`Solved`|Your inquiry has been closed. If you have additional questions please open a new inquiry.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details.|
+|`New`|Your inquiry is currently in queue to be reviewed.|The system automatically sets the status to `New` when a question is submitted.|
+|`In progress`|Your inquiry is currently being reviewed by an agent.|The system automatically sets the status to `In progress` when an agent is assigned. Even if the inquiry is re-routed, it will stay `In progress` until it moves to `Solved`.|
+|`Solved`|Your inquiry has been closed. If you have additional questions please open a new inquiry.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details. `Solved` can also mean an agent has replied asking for more information, so the conversation may not be over.|
 |`Reopened`|Your reply to this inquiry has been received, and the inquiry is currently being reviewed by an agent.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
 |`Closed`|Closed|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |Reference number not found|No Results found. We could not locate an inquiry that matches your ID.  Please check the number and re-enter.  If you receive this message again, you can submit a new inquiry with your original question.  Include your old inquiry number for reference and we'll work to get your question fully answered.|A submitter searches for an reference number that is not found in the system.|
