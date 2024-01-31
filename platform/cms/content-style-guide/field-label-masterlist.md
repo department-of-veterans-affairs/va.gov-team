@@ -1,6 +1,11 @@
 # Field label masterlist
 
-| Field label      | Field help text  |
+- All field labels and help text can be found on the [Content Model Fields](https://prod.cms.va.gov/admin/reports/content-model/fields) page in the CMS. 
+- This list doesn't contain all fields in the CMS. Instead, it focuses on fields used across multiple content types. 
+- The "Suggested field help text" column is based on help text that has reviewed in recent projects. 
+
+
+| Field label      | Suggested field help text  |
 | ----------- | ----------- |
 | Additional hours options| Provide a brief explanation of services offered outside of facility hours. For example: "Appointments may be available outside these hours, please call."|
 | Alert dismissable?| Dismissable blocks can be closed or hidden by users. Leave this unchecked if you want the alert to appear permanently on the targeted pages.|
