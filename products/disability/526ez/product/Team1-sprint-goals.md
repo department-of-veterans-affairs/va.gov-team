@@ -25,7 +25,7 @@ Period - 01/31/2024 - 02/13/2024
 
 - **Stretch Goals**
   - Shadow Research
-    - [ ] Prep for piroritization workshop
+    - [ ] Piroritization for what's next
   - Toxic Exoposure 
     - [ ] Front-end - continue build
     
