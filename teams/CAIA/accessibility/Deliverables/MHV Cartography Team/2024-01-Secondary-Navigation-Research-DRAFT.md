@@ -43,10 +43,14 @@ To best serve the users of VA.gov, we will need to collect the following informa
 ## Key Findings
 Add screenshots, images and videos here.
 
-### Finding 1: Prototype B's non-collapsed menu options were easier to navigate
+### Finding 1: Prototype B's non-collapsed menu options were easier to navigate for AT users
 - Mobile user felt that having the menu options open by default (Prototype B), rather than behind a dropdown/hidden menu (Prototype A), was easier for him to use.
 
 > “You have to click it to find out what’s in the menu. With icons, you don’t have to click, you can just go to the icon if you know where the icon is.” - P10
+
+- **Note:** The non-AT user in the study felt that Prototype A was more intuitive, due to the "MyHealtheVet" label on the menu.
+
+> "I feel like this one is more intuitive with the ‘MyHealtheVet’ [text]." - P9
 
 ### Finding 2: Prototype B's lack of a "Home" option was confusing
 - Desktop user was able to figure out that "MyHealtheVet" would take them to the home page, but only because a) of its location and b) her familiarity with the app.
@@ -67,6 +71,11 @@ Add screenshots, images and videos here.
 
 > "I’m hoping and praying it would be under ‘Meds’! Because I think that would make sense, even though it’s not a medication, it’s a medical supply." _Where else would you look for it?_ "That's a good question...if I didn’t know and it was afterhours, when I couldn’t call VA to ask, I would probably send a secure message to my primary care doctor." - P11
 
+- P9 thought that if a prescription for CPAP equipment was already in the system, it'd be listed under "Meds," and didn't know where to look for travel pay:
+
+> "It depends…if I have something in the system that has them. If I don’t, I might have to go to messages. If I do, maybe I go to Meds? I’m thinking my doctors made an order for me and that would be in there, I assume." _Where would you go to get reimbursed for travel pay?_ "I don’t see that option on this [MHV] page. Maybe it’s under appointments?...Maybe there'd be a 'travel voucher' option, in a perfect world?"
+
+
  
 ### Finding 4: Entering MyHealtheVet directly into the "X-ray results" secure message was disorienting, but welcome
 - P10 assumed that "X-ray results" was the home page, and didn't realize that it wasn't for a bit.
@@ -84,13 +93,29 @@ Add screenshots, images and videos here.
 
 - In both prototypes, P11's screen reader didn't pronounce "MyHealtheVet" correctly. P11 noted this and wondered if it could be corrected.
 
+### Finding 6: Users expected to access their medical records from the message itself
+- The secure message mentioned medical records, and users wanted to access those records from the message.
+- All users eventually found the Medical Records page, but after prompting from the facilitator.
+
+> "In the body of the email. Or maybe as an attachment here. Particularly in the options on the top - ‘see results,’ maybe." - P9
+
+> "Those 4 tabs underneath didn’t exactly give me the info I needed. Unless it’s under the “print” option and you can look at it before you print it. I don’t see a dedicated button. On the other website, it gives you a ‘view’ option." - P10
+
+> "(On the current website) I would go to blue button Message, and then I’d look through my results. I’d probably customize my date range [to find it]. And then I’d click on ‘lab results." = P11
+
+### Finding 7: Some users misunderstood the secure messaging 'email' buttons
+- Reply, trash, and move: some users didn't understand what those buttons would do.
+
+> “Have no idea what that means.” - P10, on "reply"
+> "Maybe if I’m on my computer, I’m moving it to my desktop? I’m not sure. I didn’t know we could do files in this system." - P9, on trying to define the "move" button
 
 ## a11y Recommendations
 
 ### Use an expanded menu on mobile, and add additional options
-- Whether you're using icons or not, users had an easier time accessing the MHV nav bar when the links were expanded (as in Prototype B) rather than hidden by default (as in Prototype A).
+- Whether you're using icons or not, AT users had an easier time accessing the MHV nav bar when the links were expanded (as in Prototype B) rather than hidden by default (as in Prototype A).
 - Consider adding other options, like applying for medical supplies, to the nav bar. Since there are design constraints, perhaps these could go under a "More" or "Other" menu. Yes, they'd need to be hidden by default, but at least they'd be accessible without having to go to the home page.
 - Hypothesis: This will make it easier for AT users to use MHVs navigation and find what they need, without needing to go to the home page (or _know_ that they need to go to the home page) to access more options.
+- **Note:** The non-AT user we observed had an easier time with the closed menu (Prototype A). We weren't in other non-AT user sessions, so this might not track as a general trend. And the user, while preferring Prototype A, felt that Prototype B was easy to use.
 
 ### Prototype B - Replace the accessible name of "Apps" with "Appointments"
 - You can do this in one of two ways:
@@ -113,4 +138,4 @@ Add screenshots, images and videos here.
 - Finding results from the Medical Records page, and figuring out where to make an appointment on the Appointments page, went very well!
 - Users loved getting to the page they needed right away, without having to navigate through the website. They also loved that their latest medical tests showed up on top of the list.
 - Overall, users found it more accessible than what they were used to, and easy to use. :)
-- It's generally not recommended to "hack" a screen reader's pronunciation of a word (like "MyHealtheVet"). Users ususally get used to the 'fun' way that brand names are mispronounced, and changing it could be confusing. `if another SR users calls it out, change this`
+- It's generally not recommended to "hack" a screen reader's pronunciation of a word (like "MyHealtheVet"). Users ususally get used to the 'fun' way that brand names are mispronounced, and changing it could be confusing.
