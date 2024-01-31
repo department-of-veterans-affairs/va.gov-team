@@ -8,9 +8,18 @@ Availability Framework (AF) is an available solution for VA Health and Benefits 
 
 AF changes are made without a release and screen/content changes can be made in ~30 minutes once finalized and approved. 
 
-### Other Notes
+### High Level RACI 
+| Pre or Post Production | Existing AF Features / Need New Functionality Built | Responsible  | Accountable | Consult | Inform | 
+| --------------------- | --------------------------------------------------- | ------ | ----------- | --------- | --------| 
+| Pre-Production | Existing  | Qa and Release Team PM | QA and Release Team PM | Flagship Team PM, PO | Mobile Team | 
+| Pre-Production | New Feature Needed | Flagship Team PM | Flagship Team PM | Flagship Team, POs | Qa and Release, Mobile Team | 
+| Post Production | Existing | Incident Response Commander | Incident Response Commander | POs, Flagship Teams, QA and Release Team | Mobile Team | 
+| Post Production | New Feature | Incident Response Commander | Incident Response Commander | POs, Flagship Teams, QA and Release Team | Mobile Team | 
+
+
+
+### Things to consider: 
  - Work and decisions need to be included in tickets for tracking and reporting purposes
- - Incident Response’s Incident Commander is accountable for this process and may change RACI expectations 
  - AF does not have the capability to display based on Veteran variables
  - AF is also a vaiable solution for the which will be managed by the Incident Commander
  - Turning AF on or off at this time can only be done manually
@@ -20,6 +29,9 @@ AF changes are made without a release and screen/content changes can be made in 
  - Alert box colors within the app cannot be changed
  - AF changes cannot be made or completed by QA and Release Team as we do not have the engineering resources to do - it will be up to Flagship teams to improve and change
  - Depending on the situation responsiblity and accountablity owners may change
+ - Yellow/red alert boxes or native alerts are currently the only component usable for AF (per Binny on 1/31)
+ - Unable to bold within alert boxes without making changes to the alert box component
+ - May be able to separate paragraphs with string manipulation but engineering needs to review 
 
 ### Open Questions 
 
@@ -75,21 +87,6 @@ AF changes are made without a release and screen/content changes can be made in 
  **10.) If applicable update AF Policy based on findings / learnings**
 
 
-## RACI for When there is a production problem: 
-
-| Task | Responsible | Accountable | Consult | Inform | 
-| ----- | ---------- | ----------- | ------- | ------ |
-| Incident Response Process | Incident Commander | Incident Commander | Impacted Team | POs |
-| Approval to use AF | POs | Incident Commander | PM, Content, QA, Data, UX | Leads |
-| AF Screen Copy | Content | Incident Commander | PM, UX, PO, FE Eng  | QA |
-| AF Screen Placement | Impacted Team PM | Incident Commander | UX, PO, FE Eng, Content | QA |
-| Test AF Solution | QA | Incident Commander | PM, Content, FE Eng, UX | PO |
-| Push AF Solution to App | FE Eng | Incident Commander | PM, PO | Leads |
-| Post Validation Monitor AF Solution | Impacted Team PM  | Incident Commander | FE Eng, Data | POs |
-| Post AF Solution | Impcated team PM | Incident Commander | UX, PO, FE Eng, Content, QA | Leads |
-| Turn off AF Solution | FE Eng | Incident Commander | PM, PO  | UX, Content, Leads |
-| AF Solution Documentation | Incident Commander |  Incident Commander | PM, Content, FE Eng, Data  | Leads |
- 
 -----------------------
 #  AF Involving Pre Production Situations 
 
@@ -122,12 +119,6 @@ AF changes are made without a release and screen/content changes can be made in 
 
  **11.) Document incident and AF usage at the bottom of this document.** 
 
-## RACI for When there is a production problem: 
- * Dependent on the pre-production situation
- * QA and Release team will be Accountable but may have Flagship App team be Responsible for the work depending on the situation. Example: 
-   * Vets-API outage - QA and Release team managed - will pull team from Flagship App as needed 
-   * Lovell Cerner - QA and Release helping with Health and Benefits Team but given they are doing more work with this issue H&B to be responsible for the work , QA and Release to monitor and follow up 
-
 ------------------------
 # How to improve Availability Framework 
 
@@ -147,9 +138,6 @@ AF changes are made without a release and screen/content changes can be made in 
 
 
 ------------------------
-
-
-
 
 
 ### AF Implementation
