@@ -212,7 +212,7 @@ We can help guide you through this if you need help. Please say what you're doin
 1. Activate the screen share
 
 ### Task 1: [Open prototype] 
-I'd like you to check out a web page that I'm going to share with you. 
+I'd like you to check out a website that I'm going to share with you. 
 
 I will *[email/text/dictate/put into the Zoom chat]* the URL: ***bit.ly/4aWOb6u***
 - *(If text or email)* Could the notetaker please text/email the link?
@@ -252,7 +252,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 ### Task 3: [Find VA location]
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
-I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this web page?
+I'd like you to imagine that you're planning a trip to another city, and you want to know where the nearest VA hospital is. How would you figure this out from this website?
 
 Note that some parts of the page will work, and other parts will not. Please tell me what you plan to click on before you do it.
 
@@ -268,7 +268,7 @@ Note that some parts of the page will work, and other parts will not. Please tel
 ### Task 4: [Learn about disability compensation]
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
-Pretend that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this web page? 
+Pretend that lately you've been having difficulty with your hearing, and you think it might be related to your military service. So you're wondering if you qualify for [more] disability compensation. What could you do from this website? 
 
 *RECORD navigation: header > **megamenu > Disability > Eligibility** / footer / search / mobile search*
 
@@ -284,19 +284,19 @@ Let's say that you're considering going back to school to get your degree, and y
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
-- *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use Find a Form)* Is there another way that you could do this task from this website?
 - *(If need more prompting)* You want to find the application form to fill out online.
 
 ### Task 6: [Careers at VA]--SKIP IF RUNNING OUT OF TIME
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
-I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this web page?
+I want you to pretend that you're job hunting, and you're wondering if you could get a job at the VA. How might you do that from this website?
 
 *RECORD navigation: header > **megamenu > Careers and employment > Find VA careers and support** / **footer > More resources (mobile only) > Careers at VA** / search / mobile search*
 
 *RECORD: directly / indirectly successful (incl. search) / needed help / unsuccessful*
 
-- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this website?
 
 ### Task 7: [Contact VA]
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
@@ -311,11 +311,11 @@ Say that after using this website for a while, you didn't get all of your questi
 ### Task 8: [FOIA]--SKIP IF RUNNING OUT OF TIME
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
- Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this web page?
+ Say that you heard of the Freedom of Information Act, and you want to learn more about it. How might you do that from this website?
 
 *RECORD navigation: header / search / **footer > FOIA** / mobile header*
 
-- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use footer)* Is there another way that you could do this task from this website?
 
 *RECORD any feedback about the black/white footer area*
 
@@ -324,11 +324,11 @@ Say that after using this website for a while, you didn't get all of your questi
 ### Task 9: [Update contact information w/VA]--START at 1 hr in
 *(make sure that p is at top of page w/header menus closed, or ask to do this)*
 
-Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this web page. 
+Let's say that you recently moved and want to make sure that your mail and benefit information from the VA gets to your new address. I’d like you to update your address from this website. 
 
 *RECORD navigation: **header > Sign in** / footer / search / mobile search*
 
-- *(IF TIME & if didn't use Sign in)* Is there another way that you could do this task from this web page?
+- *(IF TIME & if didn't use Sign in)* Is there another way that you could do this task from this website?
 
 *(Can select any login option)* 
 You *don't* need to enter your *actual* email address and password since this is a prototype.
@@ -363,7 +363,7 @@ You *don't* need to enter your *actual* email address and password since this is
 1. How often do you use VA.gov?
 1. Do you use the VA mobile app? If so, how often?
 
-1. Overall, about everything on the web pages in this session...What worked *well* for you?
+1. Overall, about everything on the website in this session...What worked *well* for you?
 1. *(ASK EVERYONE)* What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
 1. Is there anything else that we haven't talked about that you think I should know? 
