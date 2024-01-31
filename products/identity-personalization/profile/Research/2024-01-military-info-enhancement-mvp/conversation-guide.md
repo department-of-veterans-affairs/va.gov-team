@@ -15,7 +15,6 @@
 Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [# feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
 ### Starting the session
 
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -25,99 +24,119 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thanks for joining us today! My name is Pam and [NOTETAKER NAME] is taking notes.
 
-Today we're going to talk about [description of your project].
+```
+Today we're going to talk about your military history – specifically your military occupational specialty history – basically, the kinds of jobs you did while you were serving/enlisted.  
 
-Before we start, I have a few things that I want to go over with you:
+I’d like to learn about how you [think about/perceive/regard/conceptualize] your military history – especially your occupational history, and ways in which you have had to share your military history in order to receive benefits or for other reasons.
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
+I have some questions to ask you first to better understand your experience. 
+
+Next I’d like to take a closer look with you at your own military information. 
+
+Last, I have some ideas I’d like to get your feedback on.
+```
+
+Before we start, I have a few things that I need to go over with you:
+
+- **This entire session should take 1 hour or less.** To make sure I cover everything, I may  prompt you with the next question or topic.
+- **Your participation in this interview is completely voluntary.**  If there is a question you’d rather skip, just let me know, and I can move onto the next question. If you would like to stop the session for any reason, just tell me you need to go. You’ll still be compensated for your time.
+- I know Perigean already asked if it was alright with you to allow observers in this interview. I wanted to confirm that: **Are you still okay with a few additional observers during this session?**
+   - If no: Use Slack to let observers know they won’t be admitted.
    - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+   - Notetaker, observers: please give a brief, camera-on introduction to yourself and what you do at VA.gov
+      - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to ensure we’ve captured your feedback accurately. 
+
+	If yes: 
+
+- **Would you also be comfortable if we wound up using a short video clip of our session to help my internal colleagues learn from your experience?** In these clips, we edit or blur out any information about participants, like your on-screen image. No feedback is attributed to participants by name. After analysis is complete, all session recordings are destroyed.
+
+	If yes: 
+
+- **Once I start recording, I am going to ask for your confirmation again that you are okay with me recording this session and potentially sharing video clips with internal colleagues.**
 
 *Start recording.*
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+- **I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?**
+- **Would you be comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
-## Warm-up Questions (Optional) - 5 minutes
+Thank you! I’ll also ask you again about the short video clips at the end of your session, because you can still change your mind about me using them.
 
-Before we look at the website, let’s start with a few warm-up questions.
+## Interview questions - 15 minutes
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+I’d like to start with a few questions.
 
-## First Task: [TASK NAME] - X minutes
+1. What branch did you serve in?
+2. What was your last military occupational specialty before you retired from the military? In a few sentences, can you describe some of the responsibilities and tasks associated with that role?
+3. Can you walk me through your career progression over time? How did you transition between different occupational specialties, and what motivated those transitions?
+4. Did you ever have more than one occupational specialty at a time?
+5. What are some examples when you had to share your MOS data 
+6. Have you ever had to share any part of your military occupational history in order to receive benefits?
+	- Where/how did you get all your data? How did you share it?
+7. Have you had to share any part of your military occupational history for any other reasons? If so, what for?
 
-- Step 1
-- Step 2
+Thanks for sharing your experience and history with me! Before we go to the next part, do you recall giving permission to gather your military history ahead of time as part of this research session?
 
-### Things to watch for:
+We’re going to use your information and do a mapping activity together.
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+## Mapping activity - 15 minutes
 
-## Second Task: [TASK NAME] - X minutes
+I have your information in a virtual whiteboard called Mural. What I’d like to do is organize it together, with you telling me how you would group things. This will help me understand ways in which people organize their history in a way that makes sense to them.
 
-- Step 1
-- Step 2
+Do you have any questions before we start? 
 
-### Things to watch for:
+### Missing items (5,)
+Here are the items. Let’s go through them – is there any information that seems missing that is meaningful to you?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+### Grouping items (5)
+Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
 
-## Third Task: [TASK NAME] - X minutes
+	Look for:
+	- Chronological order
+	- Grouping types
+	- What’s missing
 
-- Step 1
-- Step 2
+### Ranking items (5)
 
-### Things to watch for:
+- Next, let’s rank these groups by importance. What should go first? Second? etc.
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+Is there anything else you’d like to share with me before we move to the last part of our session?
 
-## Post-Task Interview - X minutes
+Thanks so much for doing that mapping activity with me! It will really help me understand how people think about and use their military history.
 
-- Question 1
-- Question 2
-- Any questions for me? 
+## Mock-up evaluation – 15 minutes
 
-## Consent to use video clips
+For our last portion of the session, I’d like to share with you some designs. It has fake information in it right now, but this is an initial idea of one way to group a veteran’s military occupational specialties. I’d like to go through it with you and get your sense of what makes sense or what does not make sense to you.
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+	- In Mural, show the wireframe
+	- Include stickies with questions (gradually unhide them)
+	- add stickies underneath with participant comments
+
+- What’s the first thing that comes to mind when you look at this?
+- How does this compare to the ordering we did just before this? [show side by side if needed]
+- How would this help you in applying for a new benefit or submitting a claim?
+- How would this make that difficult? (i.e. is it missing anything key)
+	- What about locations? How useful would their inclusion be? What would it be useful for?
+- How useful is it to you to include the start date of each occupation specialty? What about end dates?
+- What would you do if something in here seemed incomplete or inaccurate? 
+
+## Post-Task Interview - 2 minutes
+
+- [don’t have any yet]
+- Any questions for me?
+- Any thing else you'd like me to know?
+
+## Consent to use video clips – 2 minutes
+
+- I want to return to the question I asked you at the beginning. After everything we’ve talked today, are you still comfortable with me possibly sharing a video clip of this session with my VA colleagues? As a reminder, I will remove all information that could be used to identify you before sharing and will only share the videos with VA colleagues with the purpose of improving VA.gov and other digital experiences.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
-
-## Emergency Exit
-
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
