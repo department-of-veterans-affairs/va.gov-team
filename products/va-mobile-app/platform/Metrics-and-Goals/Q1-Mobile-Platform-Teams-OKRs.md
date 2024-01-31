@@ -15,6 +15,10 @@
 | **OCTO Obj #3** Efficiency KR 3 - Team Cost | **OCTO Obj #3** Efficiency KR 3 Team Cost |
 
 ### **API Service Team**
+**What is the functionality of the API Service Team?**
+API Service Team ensures accurate connectivity to an interface and transfer of data to a server. Data is fed (interfaces) and transfered to the Front End of the Mobile Application.
+
+**Our End User**: The Mobile Application (Front End)
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
 | **Valuable API Product**: Building a viable API product by working with the mobile teams to identify future initiatives so that we can plan ahead for BE implementations. **Project Specifics:** **1.Mobile API- Debt Services 2. Claims Status Tool(BE Integrations)**|**New Technologies**: Add new technologies when possible to  the organization's infrastructure in order  to share features and functionality with other system. **Project Specifics**:**BE Reddit Scraper**|**Collaborating with Partners and Improving Issue Triage**. 1.Investigating and clearing BE Dependencies. 2. Delegating and empowering teams to assist in issue resolution where applicable. **Project Specifics**- **Triaging Issues with the Code Yellow Initiative**
