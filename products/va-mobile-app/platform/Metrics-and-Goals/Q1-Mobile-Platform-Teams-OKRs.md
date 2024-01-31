@@ -4,7 +4,7 @@
 ### Teams
 
 ### **QA & Release**
-**What does QA and Release do**: A quality assurance process is the project developers, product managers and quality assurance on the process for testing and verifying the delivery of product functionality.
+**What does QA and Release do**: A process involving the project developers, product managers, and quality assurance to test and verify the delivery of production functionality in the VAHB Mobile in order to ensure accessibility standards are met and Mobile App release does not introduce new bugs or fatal errors. 
 
 **Our customer**: OCTO POs who are working with Mobile to release their specific features, functionality or enhancement 
 
