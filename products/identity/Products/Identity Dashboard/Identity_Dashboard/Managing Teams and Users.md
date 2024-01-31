@@ -1,8 +1,13 @@
 # Managing Teams and Users
 
+Identity Dashboard (ID) is an internal tool for managing client application integrations with Sign-in Service (SiS). The OCTO-Identity team 
+maintains ID and handles configuration requests from other teams who leverage SiS to provide an authenticated user experience. This document describes 
+how requests to change a client application's configuration details should be submitted for timely processing.
+
 ## Teams
 
-Teams are the organization units responsible for managing client application integrations with Sign-in Service.
+Teams are the organization units responsible for managing client application integrations with SiS. Each team has users who belong to it and 
+configurations for client applications integrated with SiS.
 
 ### Adding a Team
 
@@ -18,6 +23,7 @@ Follow these steps to create a team in Identity Dashboard:
     * `email`: The email address associated with the admin's Login.gov account.
     * `first_name`: The first name for the admin.
     * `last_name`: The last name for the admin.
+* The OCTO-Identity team will then create the requested team using the details provided.
    
 ### Updating a Team
 
@@ -37,6 +43,8 @@ Follow these steps to update a team:
       * `email`: The email address associated with the admin's Login.gov account.
       * `first_name`: The first name for the admin.
       * `last_name`: The last name for the admin.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* The OCTO-Identity team will then update the specified team using the details provided.
 
 ### Removing a Team
 
@@ -50,14 +58,20 @@ Follow these steps to remove a team:
 * The request should contain the following information:
   * The environment of the team.
   * The `name` of the team.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* If applicable, the OCTO-Identity team will inform the requestor of any client configurations that will be impacted by the removal of the team prior to executing the request.
+* The OCTO-Identity team will then remove the specified team.
 
 ## Team Users
 
-Teams contain users who have roles for managing dashboard apps within Identity Dashboard. Currently, there are two dashboard apps: Admin Portal and Client Config.
+Teams contain users who have roles for managing teams and client application configurations within ID. These roles provide granular access control for team members depending on their role.
 
-The Admin Portal dashboard app allows users to configure and manage their teams within Identity Dashboard. Users with an `admin` role can create new teams and manage the users that belong to those teams along with their roles. Users with a `member` role are restricted to viewing the existing teams and their associated users.
+For instance, team leads will likely need the ability to administer their teams (updating team information, adding new team users, etc.), but may not require full access to update the 
+client application configurations for which their teams are responsible. Conversely, engineers will almost certainly need access to administer client application configurations, but are unlikely to require permissions for administering teams.
 
-The Client Config dashboard app allows users to manage their Sign-in Service integrated client applications. Each client config belongs to a single team who is responsible for managing the integration. Users with an `admin` role can create and manage client configs, whereas users with an `member` role can only view their teams' integrations.
+With respect to teams, users with an `admin` role can create new teams and manage the users that belong to those teams along with their roles. Users with a `member` role are restricted to viewing the existing teams and their associated users.
+
+With respect to client application configurations, users with an `admin` role can create and manage client configurations, whereas users with a `member` role can only view their teams' integrations.
 
 ### Adding Users to a Team
 
@@ -67,15 +81,17 @@ Follow these steps to add users to a team:
 
 * Submit request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to add users to a team.
 * The request should contain the following information:
-  * The team the users should be added to.
-  * The environment to load the users in (staging or production.)
+  * The team the user(s) should be added to.
+  * The environment to load the user(s) in (staging or production.)
   * A list of users with the following information:
     * `logingov_uuid`: The UUID associated with the user's Login.gov account.
     * `email`: The email address associated with the user's Login.gov account.
     * `first_name`: The first name for the user.
     * `last_name`: The last name for the user.
-    * The role(s) the user should have for the Admin Portal dashboard app (`admin`, `member`, or none.)
-    * The role(s) the user should have for the Client Config dashboard app (`admin`, `member`, or none.)
+    * The role(s) the user should have with respect to teams (`admin`, `member`, or none.)
+    * The role(s) the user should have with respect to client application configurations (`admin`, `member`, or none.)
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* The OCTO-Identity team will then create the requested team users using the details provided.
    
 ### Updating a Team User
 
@@ -93,8 +109,10 @@ Follow these steps to update a team user:
     * `email`: The email address associated with the user's Login.gov account.
     * `first_name`: The first name for the user.
     * `last_name`: The last name for the user.
-    * The role(s) the user should have for the Admin Portal dashboard app (`admin`, `member`, or none.)
-    * The role(s) the user should have for the Client Config dashboard app (`admin`, `member`, or none.)
+    * The role(s) the user should have with respect to teams (`admin`, `member`, or none.)
+    * The role(s) the user should have with respect to client application configurations (`admin`, `member`, or none.)
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* The OCTO-Identity team will then update the specified team user(s) using the details provided.
 
 ### Removing a Team User
 
@@ -108,3 +126,5 @@ Follow these steps to remove a team user:
     * You may request the change apply to all environments if the user has changed roles and should be removed across all environments.
   * The `email` corresponding to the team user.
   * The `name` for each team to remove the user from.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* The OCTO-Identity team will then remove the specified team user(s).
