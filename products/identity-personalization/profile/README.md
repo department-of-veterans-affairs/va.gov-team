@@ -213,40 +213,14 @@ Current projects are actively managed in the AE Profile Github project, the char
 
 ### Backend Systems that Support the Profile
 
-You can learn more about all of the backend systems that support the profile via the [Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
+- [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
+- [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
+- [Comp & Pen Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/backend_direct_deposit_comp_and_pen.md)
+- [Education Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/backend_direct_deposit_education.md)
+- [Notification Settings (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/notification_settings)
+- [Account Security (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/backend_documentation.md)
+- Connected Apps (supported by Lighthouse)
 
-The [Onboarding for BE Engineers](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile_onboarding_backend.md) document is available to help get BE engineers up to speed quickly.
-
-The following information comes from **VA Profile**:
-
-- Personal information
-- Contact information
-- Military information
-- Notification preferences
-
-The following information comes from **Lighthouse**:
-
-- Direct deposit for comp & pen
-
-The following information comes from **BGS**:
-
-- Direct deposit for education
-
-The following information is supported by **Lighthouse**:
-
-- Connected apps
-
-### How to Access and Test
-
-- Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
-- Visit https://staging.va.gov/profile/
-- [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
-
-### Communication and Error Handling
-
-[This document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/communication.md) reviews the communication workflow for the Profile page in VA.gov and explains improvements that were made to reduce requests that result in 403 errors.
-
-- [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
 ## Frontend
 
