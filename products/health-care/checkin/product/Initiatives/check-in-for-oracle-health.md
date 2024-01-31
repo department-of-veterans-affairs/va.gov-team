@@ -28,7 +28,7 @@ Adding features to the process that do not make it easier for Veterans to access
 ## MVP
 [Work flow for each option below](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14-6233&mode=design)
 
-## MVP option decision- Modified Option 1
+## MVP option decision- Modified Option 1 - Travel Claim Only
 Decisions reached on 1/30/2024 with OCTO and IVC: 
 - Veteran receives day of 45 minute appt reminder (VEText Work)
   - If Veteran hasn't already confirmed their appointment, VEText will ask them to confirm by replying Y or N
