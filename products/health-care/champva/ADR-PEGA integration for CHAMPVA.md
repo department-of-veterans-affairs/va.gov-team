@@ -40,7 +40,7 @@ The risk of the alternate (s3) option, if it were to become the production solut
 
 ### How do we reverse this decision?
 
-If neither PEGA integration is feasible, this would prevent the launch in production  Discovery to date has not shed light on an alternative to PEGA, so alternative options would still need to be pursued if PEGA integration is not feasible.
+If neither PEGA integration is feasible, this would prevent the launch in production. Rather than reversing a deploy to production, we would not be pushing that deploy to production.  Discovery to date has not shed light on an alternative to PEGA, so alternative options would still need to be pursued if PEGA integration is not feasible.
 
 ### References
 Diagram from meeting with VA IVC team.
