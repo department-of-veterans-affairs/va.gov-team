@@ -36,4 +36,8 @@
    - If not able to completed, comment on the ticket with reasoning 
  - **Once you pick it up follow the ticket through till its closed - move statuses timely**
    - If ticket is not going to be closed during the sprint notate it on the ticket and ensure Team PM
+ - **Comments are you best friends on tickets**
+   - Use comments to put your updates - will be referenced historically
+   - Find a method to monitor comments people sent you
+     - Email, Github Notifications  
 
