@@ -26,7 +26,19 @@ Adding features to the process that do not make it easier for Veterans to access
 - Release - TBD
    
 ## MVP
-[Work flow for each option below](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14-6233&mode=design)
+~[Work flow for each option below](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14-6233&mode=design)~
+
+## UNDER DISCUSSION OPTION
+- Getting a link options
+    - Veteran texts "travel" on the day of appointment and receives a link (link is tied to the appt date) 
+    - Veteran receives a link after confirming their appointment (link is tied to the appt date) (we say, only if you're eligible should you click the link)
+- Veteran clicks the link from their phone
+- Veteran verifies their identity
+- Veteran answers the 3 travel questions
+- Veteran agrees to the terms (or chooses to file later)
+- We submit the claim for the date tied to the link
+- We send an SMS to the Veteran on the claim submission status
+- Veteran sees a confirmation page that their claim was submitted and that they will receive an SMS on submission status
 
 ## MVP option decision- Modified Option 1 - Travel Claim Only
 Decisions reached on 1/30/2024 with OCTO and IVC: 
