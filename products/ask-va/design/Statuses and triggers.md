@@ -15,7 +15,7 @@ This documents describes different Ask VA inquiry statuses and when they are ass
 
 We'll display these statuses and descriptive text in Ask VA when it moves to VA.gov. We've revised the [legacy statuses](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). We agreed on them with our VEO partners.
 
-The triggers will remain the same, but we will revisit them in the [future]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-work)).
+The triggers will remain the same, but we will revisit them in the [future](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses.md#future-work).
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
