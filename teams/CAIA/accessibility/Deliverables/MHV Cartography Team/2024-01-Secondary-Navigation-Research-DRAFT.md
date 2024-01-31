@@ -28,7 +28,7 @@ To best serve the users of VA.gov, we will need to collect the following informa
 | _P54 (example)_                   | 5/8/2023         | _JAWS_             | _Advanced_      | _Windows_            | _Chrome_    | _Mobile_      |
 |P10                        |1/29/24                  |VoiceOver                    |Advanced                 |iOS                      |Safari             |iPhone             |
 |P11                        |1/29/24                  |VoiceOver                    |Beginner                 |MacOS                      |Chrome             |Macbook             |
-|                        |                  |                    |                 |                      |             |             |
+|P9                        |1/30/24                  |n/a                    |n/a                 |Android                      |Chrome             |Samsung Galaxy             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
 |                        |                  |                    |                 |                      |             |             |
