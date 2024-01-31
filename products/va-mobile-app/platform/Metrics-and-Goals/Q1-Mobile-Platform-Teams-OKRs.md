@@ -3,7 +3,7 @@
 
 ### Teams
 
-**QA & Release**
+### **QA & Release**
 **What does QA and Release do**: 
 
 **Our customer**: OCTO POs who are working with Mobile to release their specific features, functionality or enhancement 
@@ -14,7 +14,7 @@
 | **OCTO Obj #2** Productivty KR 2 - Documentation  | **OCTO Obj #1** Stability KR 1 - Change failure rate KR 2 - Incident Mgt  |  **OCTO Obj #1** Stablity KR 1 - Change failure rate KR 2 Incident Mgt | 
 | **OCTO Obj #3** Efficiency KR 3 - Team Cost | **OCTO Obj #3** Efficiency KR 3 Team Cost |
 
-**API Service Team**
+### **API Service Team**
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
 | **Valuable API Product**: Building a viable API product by working with the mobile teams to identify future initiatives so that we can plan ahead for BE implementations. **Project Specifics:** **1.Mobile API- Debt Services 2. Claims Status Tool(BE Integrations)**|**New Technologies**: Add new technologies when possible to  the organization's infrastructure in order  to share features and functionality with other system. **Project Specifics**:**BE Reddit Scraper**|**Collaborating with Partners and Improving Issue Triage**. 1.Investigating and clearing BE Dependencies. 2. Delegating and empowering teams to assist in issue resolution where applicable. **Project Specifics**- **Triaging Issues with the Code Yellow Initiative**
@@ -23,7 +23,7 @@
 |**Mobile Platform Objective 2:Productivity-** **KR #1** Building Faster  |   |**Mobile Platform Objective 1:** **Productivity**- **KR#3**- Platform user/developer happiness trends in positive direction. 
 
 
-**Design System**
+### **Design System**
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
 | Build 3 new components into the DS. | Align Design Token strategy with VADS and set up links with their tokens. | Create team processes and documentation.  Include a process for measuring user satisfaction. |
