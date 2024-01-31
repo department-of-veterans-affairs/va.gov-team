@@ -23,7 +23,7 @@ Research questions include:
 - How do Veterans describe their benefits journey? Which aspects stand out as the biggest pain points or bright spots?
 - How do Veteran's interactions with the VA, and VA tools like va.gov, engender or degrade their sense of trust in the VA?
 - Do they have stories about building or eroding trust and confidence with other government agencies? Other service providers?
-- [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/Research/2024-02-San-Diego-Quarterly-ConversationGuide) 
 
 ### Hypothesis
 This is open-ended research, so we are not testing any specific hypotheses. However, we expect to find that confidence and trust are built in part by the following:
@@ -37,7 +37,7 @@ The team will be conducting short, in-person interviews in the San Diego regiona
 - Each session is 1 hour 15 mins (actual research time approximately 45 mins)
 - 3 Veterans per session, 2 sessions
 - Benefits portfolio participants will break into 3 teams (of 2, possibly 3 people) and will talk to each participant for 15 mins, with time for swapping teams and an overall introduction.
-- See this template for general structure
+- See [this template]( https://dvagov-my.sharepoint.com/:w:/g/personal/shane_strassberg_va_gov/EfpeQhnj-rtOtZzdL7ezVDIBrh9H5xRb1UPwkxbrNS2pwg?e=Ab5EdT) (sharepoint file) for general structure
 
 ### Location
 Sessions will be in-person, at the *San Diego Regional Office*.
@@ -45,12 +45,12 @@ Sessions will be in-person, at the *San Diego Regional Office*.
 - Point of contact: Shannon Ford, shannon.ford1@va.gov, 847-372-4519
 - Equipment used for research: TBD
 
-Instructions for entry are TBD.
+Instructions for entry: Please go to the lobby and look for a sign that says "OCTO Research" and has an octopus on it. You will be escorted to our training room for the research session and will need to go through a metal detector at security. Bring an ID just-in-case. You should expect to spend about 45 minutes total talking with 3 different groups from VA's research team. 
 
 ### Research materials
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/Research/2024-02-San-Diego-Quarterly-ConversationGuide) 
 	
 ## Recruitment	
 
