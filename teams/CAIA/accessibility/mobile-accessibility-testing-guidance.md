@@ -105,3 +105,5 @@ Complete the entire flow with the device locked to landscape orientation at 300%
 ### Screen reader
 #### Android, TalkBack
 #### iOS, VoiceOver
+
+## Tools and FAQ
