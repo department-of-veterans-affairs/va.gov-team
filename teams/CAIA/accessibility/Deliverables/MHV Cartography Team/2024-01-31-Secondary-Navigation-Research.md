@@ -9,11 +9,13 @@
 `iOS-VO`, `MacOS-VO`, `iOS voice to text`
 
 ## Coverage
-This research fufilled 75% (3/4) of its original request: 
+CAIA A11Ys, covered 67% (4/6) of this study's entire assistive technology research sessions.
 
-> 6 with 4 SR sessions to be supported by CAIA
+> 6 AT users, with 4 SR sessions to be supported by CAIA
 
-We only observed users on using AT Apple devices (one user was on an Android phone, but didn't use AT); there's a large segment of AT users that we didn't observe (those on Windows and using JAWS, NVDA, etc.; those on Android devices). But we assume that if an issue is encountered during testing, it is worth fixing, and the probability of someone else experiencing it exists. These findings are a list of issues that will need to be prioritize by the researcher among the other issues identified in the study.
+Our observations were limited to users of Apple assistive technology (AT). (One user participated with an Android phone, but didn't use AT.) We would like to note that there is a large segment of AT users that we did not observe, such as Windows users (JAWS, NVDA, etc.) and Android device users, that may have revealed additional accessibility issues.
+
+However, we feel it is correct to assume that, if an accessibility issue is encountered during testing, it is worth fixing, and the probability of someone else experiencing that same accessibility issue exists. These findings comprise a list of issues that will need to be prioritized by the researcher, among the non-AT issues, identified in the study.
 
 We hope this information can be of use to your team, in your fuller report.
 
