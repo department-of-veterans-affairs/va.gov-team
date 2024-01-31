@@ -1,12 +1,8 @@
+# NOTE: THIS DOC IS NOT IN ITS FINAL FORM. PLEASE DISREGARD WHILE YOU SEE THIS NOTE!!!
 
-# DBEX PPIU/Direct Deposit Service Endpoint Migration Release Plan
+# DBEX 526ez Contact Info Pre-fill Migration Release Plan
 
 ### NOTE:
-The Lighthouse team has communicated the following:
-
-- Lighthouse staging (staging-api.va.gov) is not intended for consumers / application developers. Its intended use is for Lighthouse developers and API providers on the Lighthouse platform to test, debug, and prepare releases for sandbox (sandbox-api.va.gov) and production (api.va.gov).
-- Lighthouse staging is unstable and often configured in ways that would hinder consumer use. It has no guarantee of availability and has inconsistent continuity of data across Lighthouse APIs.
-- Lighthouse does not currently offer an end-to-end integration environment for consumers to test with live backend systems (e.g., BGS).
 
 The lack of a viable end-to-end testing environment introduces several risks, not limited to:
 - Integration Issues
@@ -22,7 +18,6 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 - Increased failure rates for Veterans
     - Due to unvetted use cases, actual Veterans are likely to encounter issues that will be confusing and jarring. These issues will have to be resolved as they are discovered. If failure rates reach high enough volumes, these users will not be rescuable.
 
-Lighthouse has been made aware of these risks. Our focus for this test plan will be to raise our baseline confidence as much as we can with thorough testing and mock data in the preparation phase, followed by close monitoring and prompt incident responses during the rollout phase.
 
 ## Overview Checklist
 - Notes
@@ -32,16 +27,15 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Review Cases
 - [ ] Phase II: Staged Rollout
     - [x] Canary
-    - [x] Stage A: 1%
-    - [x] Stage B: 5%
-    - [x] Stage C: 10%
-    - [x] Stage D: 25%
-    - [ ] Stage E: 50%
-    - [ ] Stage F: Go live!
+    - [x] Stage A: 10%
+    - [ ] Stage B: 50%
+    - [ ] Stage C: Go live!
 - [ ] Post-launch questions
 
 ## Notes
-- Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25%
+- Since this change is relatively low-risk (compared to previous migrations) AND because some aspects of monitoring depends on a larger sample size, the rollout will be staged in fewer/larger increments. Planning on 3 days for 10%, and 3 days for 50%, before moving to full deployment
+
+# below this header is still copypasta from the PPIU release plan - please DISREGARD
 
 - Potential Risks:
   - If LH breaks or our implementation is wrong, the user might not be able to submit because the translate action happens on the controller side. We would see it right away because we'd see user feedback right away because they wouldn't be able to submit. This is going to be part 2 of our dashboard (the #submit_all_claim dashboard would see that it's failed, and we could look to see if it's the direct_deposit call that's failing.) We'd see it right away because it's part of the foreground controller level rather than in a background job or prefill, etc. Mitigation would depend on the issue. Our only mitigation is our dashboards to see if a controller-level submission is failing. The code doesn't have any exception handling. 
