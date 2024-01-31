@@ -72,7 +72,6 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - PDF output of complete form with required meta data
   - Integration with PEGA for forms and documents
   - Authenticated experience [*need to determine recommendation on level*]
-  - User notification of successful or failed submission
 - **Out of scope**:
   - Integration with VES (this will need to be addressed in the future)
   - Checking for eligibility requirements
@@ -82,6 +81,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
 - **Other considerations**:
   - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
   - VA notify(?)
+  - notifications in general
   - handling for mobile app 
 
 --- 
