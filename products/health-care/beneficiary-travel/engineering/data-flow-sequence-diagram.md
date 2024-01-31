@@ -9,18 +9,18 @@ participant vets-website
 participant vets-api
 end
 participant travel-pay-api as Travel Pay API
-participant dynamics-db as Dynamics DB
+
 
 veteran->>vets-website: Navigate to travel pay
+
+Note over vets-website, vets-api: Assumes Veteran is authenticated via the Sign-in Service (SiS)
 
 activate vets-website
 
 vets-website->>vets-api: vets-api endpoints (/claims, /appointments, etc.)
 vets-api->>travel-pay-api: travel-pay endpoints (/claims, /appointments, etc.)
-travel-pay-api->dynamics-db: fetch data via dynamics portal plugins
 
-dynamics-db-->>travel-pay-api: claims and appoinments data
-travel-pay-api-->>vets-api: travel-pay endpoint response(s)
+travel-pay-api-->>vets-api: claims and appoinments data response(s)
 vets-api-->>vets-website: vets-api response(s)
 
 vets-website-->>veteran: website UX
