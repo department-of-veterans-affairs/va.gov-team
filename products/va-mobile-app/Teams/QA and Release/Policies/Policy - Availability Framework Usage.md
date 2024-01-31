@@ -37,10 +37,8 @@ AF changes are made without a release and screen/content changes can be made in 
 
 - Does the AF message stay up until they update the app
 - Can we do different AF messages depending on the app version 
-- What in the past would we have used Availability Framework for and what wouldn’t we have used it on
 - Can e2e be applied here
-- What components can be used in AF
-- What are our component limitations 
+
 
 ### Identified Use Cases 
 
