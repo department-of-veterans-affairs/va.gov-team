@@ -2,8 +2,8 @@
 
 ### Where to find our design work
 
-Most of our design work lives in Sketch and Mural:
-- [Sketch: Ask VA](https://sketch.com/workspace/c99d3e96-7c23-4210-b173-92a2b73a8788/p/618e342d-e90e-48d9-8457-d2c08deae9aa)
+Most of our design work lives in Figma and Mural:
+- [Figma: Ask VA](https://www.figma.com/files/project/174974739/Ask-VA?fuid=1165369583018460083)
 - [Mural: Ask VA](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)
 
 We also keep additional design documentation [in this Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design):
