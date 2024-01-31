@@ -13,7 +13,7 @@ This documents describes different Ask VA inquiry statuses and when they are ass
 
 ## Statuses and when they are displayed
 
-For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised the [legacy descriptions](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). We agreed on these with our VEO partners.
+For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised the [legacy descriptions](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). Due to the complexity of updating the status names without revisiting the trigger events, our VEO partners and our team agreed to keep the statuses as is for Phase 1.
 
 |Status|Descriptive text|Trigger event|
 |:--|:--|:--|
