@@ -4,6 +4,9 @@
 ### Teams
 
 **QA & Release**
+**What does QA and Release do**: 
+**Our customer**: OCTO POs who are working with Mobile to release their specific features, functionality or enhancement 
+
 | Goal 1 | Goal 2 | Goal 3 |
 | ----------- | ----------- | ----------- |
 | **Documentation Readiness** Assess existing documentation to address gaps, ability to find, and non-platform team awareness in order to establish Platform engagement, guidelines and expectations | **Platform Strategy**  Establish Platform testing requirements and needs to create consistent guidelines to reduce the risk of production issues | **Establish metrics**  Establish baseline metrics involving change management, bugs, and build breakage |
