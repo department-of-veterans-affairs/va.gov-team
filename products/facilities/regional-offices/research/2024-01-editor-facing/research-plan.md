@@ -3,6 +3,9 @@
 Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and add a link in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
 
 ## Background
+
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices)
+
 The Facilities team is ready to launch MVP VBA regional office pages in Drupal. A pilot group of VBA RO editors are currently (January-March 2024) attending training so they can start editing these pages. This is an opportune time to get early research insights about the editorial experience and Drupal training. Insights gained in this study will help us identify potential pain points before launching the national roll out of RO pages. 
 
 ## OCTO Objectives 
