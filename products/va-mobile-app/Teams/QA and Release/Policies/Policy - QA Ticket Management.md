@@ -4,7 +4,8 @@
  - Over document, comment and communicate on needs, work, concerns proactively 
  - If something feels off / strange speak up
  - Timely ticket updates and ticket management
- - Don't wait till standups to bring up concerns
+ - Attend standups and be prepared to share updates on your tickets
+    - Don't wait till standups to bring up concerns
  - Active participant in sprint and quarterly planning to ensure QA capacity is accounted for and not overbooked 
  - QA and Release PM has an open door for any concerns, thoughts, needs
  - Monitor Slack / Comment for @ messages and respond timely 
