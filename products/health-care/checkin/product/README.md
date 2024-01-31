@@ -122,16 +122,17 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Status: Released to all VISNs on 12/5/2023
 - Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
 
-#### [Enable eCheck-in for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+#### [Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
 - Status: Mid April 2024 planned release
-- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software (formerly CERNER) to use eCheck-in to verify their personal, emergency, and next-of-kin contact information and let staff know that they have arrived.
+- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software can use eCheck-in to submit a mileage-only travel reimbursement claim
 - Functionality:
-     - Veteran, during the check-in window and once arriving for their appointment, uses their mobile device to text "check in" to a VA code
+     - Veteran receives an appointment reminder 45-minutes before their appointment with a link to access eCheck-in in order to submit a mileage-only travel reimbursement claim
+         - Alternatively, Veteran, during the check-in window, uses their mobile device to text "check in" to a VA code 
      - Veteran receives a customized link to the eCheck-in application
      - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and date of birth
-     - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
-     - Veteran selects the appointment for which they want to check in and checks-in
-     - Once check-in is complete, the VA facility will be notified that the Veteran has checked in 
+     - Veteran answers the 3 travel claim questions (if answer to all is yes, the claim is submitted)
+     - Veteran see their appointment information with a message telling them their claim was submitted
+     - Veteran receives an SMS with the status of their claim submission
 - Applies to: In-person appointments only
 
 
