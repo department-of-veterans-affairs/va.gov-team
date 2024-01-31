@@ -5,14 +5,13 @@ Period - 01/31/2024 - 02/13/2024
 ### Sprint goals 
 - **Expedited**
    -  Front-end - Web components v3 upgrade
+   -  Fix broken timestamp spec #74912
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
        - PPIU - Direct Debit 
          - [ ] Launch 50% and next based on the progress 
       - Benefits Claims Service 
         - [ ] Launch 50% and next based on the progress 
-      - Submit endpoint
-        - [ ] Discovery on submit migration options for sync and async response for established claims
       - PCIU 
         - [ ] Release planning and canary launch
       - BRD
@@ -21,14 +20,16 @@ Period - 01/31/2024 - 02/13/2024
        - Toxic Exoposure 
            - [ ] Mid-point review and resulting work
        - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies
-       - Audit for ancillary form - 
+       - Audit for ancillary form - 4192
 
 - **Stretch Goals**
   - Shadow Research
     - [ ] Piroritization for what's next
   - Toxic Exoposure 
     - [ ] Front-end - continue build
-    
+  - /submit -  
+        - [ ] Discovery on submit migration options for sync and async response for established claims if unblocked
+  
 ## Sprint 23
 Period - 01/17/2024 - 01/30/2024
 ### Sprint goals 
