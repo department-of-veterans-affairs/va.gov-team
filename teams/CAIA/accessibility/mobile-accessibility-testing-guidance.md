@@ -56,7 +56,7 @@ The user journey should include a starting point, and an action to accomplish so
 
 Example: 
 
-- Start static burial's page
+- Start static burials page
 - Action login and complete burials form
 - Goal to apply for burial benefits
 
