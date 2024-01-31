@@ -1,6 +1,6 @@
 # Ask VA: User research overview
 
-### Our research
+### Our user research
 
 |Study|Type of Research|Date|Issue|
 |:--|:--|:--|:--|
@@ -11,4 +11,4 @@
 
 ### Get in touch
 
-Reach out on [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE) or contact Tyler Gindraux (tyler@bluetiger.digital) about this research.
+Reach out on [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE) or contact Tyler Gindraux (tyler@bluetiger.digital) about this user research.
