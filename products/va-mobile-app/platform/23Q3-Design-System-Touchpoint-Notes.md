@@ -3,7 +3,11 @@ Agenda:
 
 *   Discuss any blockers or open questions on the Mobile Design System work
 *   Review open action items
-*   Discuss progress and risks for Q3 work
+*   Discuss progress and risks 
+
+## 2/1/24
+*   Team Mission/Vision/NS
+*   Continuation of button variant conversation [from Slack](https://dsva.slack.com/archives/C05HF9ULKJ4/p1706726774164179)
 
 ## 1/18/24
 *   2024 Q1 OKRs coming soon
