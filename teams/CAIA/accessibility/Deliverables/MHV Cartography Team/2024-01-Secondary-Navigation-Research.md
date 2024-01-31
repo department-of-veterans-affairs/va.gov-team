@@ -6,14 +6,14 @@
 - **Ticket Links:** [Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73996)
 
 # Accessibility Tools Utilized
-`iOS-VO`, `MacOS-VO`
+`iOS-VO`, `MacOS-VO`, `iOS voice to text`
 
 ## Coverage
 This research fufilled 75% (3/4) of its original request: 
 
 > 6 with 4 SR sessions to be supported by CAIA
 
-Qualitatively, we assume that an issue is encountered during testing, it is worth fixing, and the probability of someone else experiencing it exists. These findings are a list of issues that will need to be prioritize by the researcher among the other issues identified in the study.
+We only observed users on using AT Apple devices (one user was on an Android phone, but didn't use AT); there's a large segment of AT users that we didn't observe (those on Windows and using JAWS, NVDA, etc.; those on Android devices). But we assume that if an issue is encountered during testing, it is worth fixing, and the probability of someone else experiencing it exists. These findings are a list of issues that will need to be prioritize by the researcher among the other issues identified in the study.
 
 We hope this information can be of use to your team, in your fuller report.
 
@@ -27,20 +27,12 @@ To best serve the users of VA.gov, we will need to collect the following informa
 
 | **Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
 |------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| P5                   | 1/25/24         | ?             | ?      | ?            | ?    | Mobile     |
-|P10                        |1/29/24                  |VoiceOver                    |Advanced                 |iOS                      |Safari             |iPhone             |
-|P11                        |1/29/24                  |VoiceOver                    |Beginner                 |MacOS                      |Chrome             |Macbook             |
-|P9                        |1/30/24                  |n/a                    |n/a                 |Android                      |Chrome             |Samsung Galaxy             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
-|                        |                  |                    |                 |                      |             |             |
+| [P5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bc313aa4138aa9423f96cce0f3eb68e6d15364ff/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes/2024-1-25-p5.md)                   | 1/25/24         | Voice to text, magnification, MERLIN             | Advanced      | iOS            | Safari    | iPhone     |
+|[P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bc313aa4138aa9423f96cce0f3eb68e6d15364ff/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes/2024-01-29-p10.md)                        |1/29/24                  |VoiceOver                    |Advanced                 |iOS                      |Safari             |iPhone             |
+|[P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bc313aa4138aa9423f96cce0f3eb68e6d15364ff/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes/2024-01-29-P11.md)                        |1/29/24                  |VoiceOver                    |Beginner                 |MacOS                      |Chrome             |Macbook             |
+|[P9](https://github.com/department-of-veterans-affairs/va.gov-team/blob/bc313aa4138aa9423f96cce0f3eb68e6d15364ff/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes/2024-01-30-p9.md)                        |1/30/24                  |n/a                    |n/a                 |Android                      |Chrome             |Samsung Galaxy             |
 
 **Participants who successfully completed sessions: 4**
-
-**Examples below:**
-- [1 desktop JAWS user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p2.md)
-- [1 iOS VoiceOver user (screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p15.md)
-- [1 desktop zoom text reader user (magnification, screen reader)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/session-notes/p1.md)
 
 ## Key Findings
 Add screenshots, images and videos here.
