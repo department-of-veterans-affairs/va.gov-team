@@ -68,7 +68,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
 - **In scope**:
   - Fillable fields with pre fill for signed in users
   - General flow, patterns and components follow existing standards in design system as well as accessibility standards
-  - Digital signature accepted by FMP team
+  - Digital signature with date stamp accepted by FMP team
   - PDF output of complete form with required meta data
   - Integration with PEGA for forms and documents
   - Authenticated experience [*need to determine recommendation on level*]
