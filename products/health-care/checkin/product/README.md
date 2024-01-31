@@ -70,7 +70,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 
 - [Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
-## Initiatives
+## Features
 
 #### [Check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
