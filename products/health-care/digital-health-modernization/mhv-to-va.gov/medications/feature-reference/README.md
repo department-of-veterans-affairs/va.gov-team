@@ -25,4 +25,4 @@ Product, business, and technical documentation of [Medications](https://github.c
 | Feature | Usage | 
 |---|---|
 |[Detail view for VA prescriptions] | View details for medications adninistered by VA |
-|[Detail view for non-VA prescriptionsl](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) |View details for medications administered outside of VA|
+|[Detail view for non-VA prescriptionsl](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) |View details for medications prescribed outside of VA, but filled at VA pharmacy|
