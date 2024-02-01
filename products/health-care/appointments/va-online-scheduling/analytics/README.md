@@ -1,8 +1,8 @@
 # Appointments FE Analytics Strategy [WIP]
 
-## VAOS Usability Metrics 
+WIP doc status: 02/01/2024 Rough draft working document to define our strategy. 
 
-### Behavior analytics (what)
+## Behavior analytics (what)
 
 **Sources:** Google Analytics, Loki  
 ☑️ - Indicates metrics that currently have tracking in place.
@@ -15,7 +15,7 @@
 * 📉 Decrease time taken to schedule VA direct appointment successfully.
 * 📉 Decrease time taken to schedule community care appointment successfully.
 
-### Qualitative analytics (why)
+## Qualitative analytics (why)
 
 **Sources:** Continuous research with Veterans, Medallia Feedback, VSignals, Office Of Connected Care (TBD), Research equity tracker.
 
