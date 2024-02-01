@@ -8,6 +8,11 @@ Ability to refill prescriptions
 - As a Veteran, I want to be able to view all medications from VA, community, and private providers
 - As a Veteran, I want to view relevent information about medications as available, including name, images (or a11y equivalent), descriptions.)
 
+| Feature | Usage | 
+|---|---|
+|[Detail view for VA prescriptions] | View details for medications adninistered by VA |
+|[Detail view for non-VA prescriptionsl](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) |View details for medications administered outside of VA|
+
 ## Requirements
 
 ### Functional
