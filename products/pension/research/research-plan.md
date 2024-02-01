@@ -132,7 +132,7 @@ For moderated usability tests:
 
 ### **Recruitment**
 
-The intended audience for this research is Veterans and we will use Perigean to assist in recruiting them.  
+The intended audience for this research is Veterans and we will use Perigean to assist in recruiting them.  We would like to have a kick-off call with Perigean on Thurs 2/15/24 between 1-3pm.
 
 
 #### 
