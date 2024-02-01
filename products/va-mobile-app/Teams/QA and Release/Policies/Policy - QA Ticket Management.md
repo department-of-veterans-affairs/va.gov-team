@@ -22,9 +22,10 @@
 
 
 ## Working tickets: 
- - **QA should only work on tickets - no ticket no work**
+ - **Teams asking QA to complete work must have a ticket - no ticket no work**
    - Ensure the ticket is assigned appropriately, the correct pipeline/status, and has details QA needs
-   - If no ticket work with your PM to create one 
+   - If no ticket work with your PM to create one
+   - Small tickets <2 QA is working on their on (administrative, other) does not necessarily require a ticket
  - **QA should size the ticket** 
    - Any ticket being tested by QA needs a QA label to indicate the testing effort
    - Labels include 1, 2, 3, 5, 8 - anything larger than an 8 needs to be tickets broken out
