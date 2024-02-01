@@ -20,7 +20,7 @@ On retail sites, the user is still able to access the same homepage and content 
 
 - On VA.gov, people need access to both "learn + apply" content at the same time as "track + manage" tools. Veterans can go through the learn --> apply --> track --> manage lifecycle multiple times throughout their lives as they decide to pursue different VA benefits (including health care).
 - We wouldn't have to build a separate "portal", so there is less to maintain.
-- Given that this closest to how we've structured VA.gov, it's easier to improve upon this model than to start from scratch and create a more portal-like experience (think most health insurance and bank websites).
+- Given that this closest to how we've structured VA.gov, it's easier to iterate and improve on this model, especially as we are still in the process of integrating eBenefits and MHV into VA.gov.
 
 #### Negatives of this model
 
