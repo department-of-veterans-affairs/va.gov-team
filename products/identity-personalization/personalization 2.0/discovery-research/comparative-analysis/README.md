@@ -62,13 +62,13 @@ An effective dashboard has a clear purpose. For data-driven sites, a dashboard m
 
 - Once logged in, there is a robust megamenu that allows users to manage their account. Though the list of links are long, they are organized in a navigable way.
 
-![Amazon account megamenu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20Account%20Megamenu.png)
+![Amazon account megamenu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20Account%20Megamenu.png)
 
 - If you go to the Account page, you are taken to a dashboard that is completely action oriented. The primary actions are set  apart as tile-like buttons at the top of the page. Additional actions are grouped into categories and shown in tiles below the primary actions.
 - Note that there is no "profile" or singular "settings." All of this falls into the category of managing your account.
 - Notice that information about each category is not bubbled up on this dashboard. The primary purpose of this page is to route people to where they need to go and not to serve as a singular destination.
 
-![Amazon account dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20account%20page.png)
+![Amazon account dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20account%20page.png)
 
 ### Blue Cross Blue Shield — FEP Blue
 
