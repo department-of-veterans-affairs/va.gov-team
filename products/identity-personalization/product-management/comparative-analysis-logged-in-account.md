@@ -16,6 +16,17 @@ On retail sites, the user is still able to access the same homepage and content 
 
 **Why this is significant**: The retail model is closest to how we've currently structured VA.gov, and it's a viable option should we choose to continue in this direction. However, we need to make some serious improvements in how we're implementing this model in order for it to be usable.
 
+#### Pros of this model
+
+- On VA.gov, people need access to both "learn + apply" content at the same time as "track + manage" tools. Veterans can go through the learn --> apply --> track --> manage lifecycle multiple times throughout their lives as they decide to pursue different VA benefits (including health care).
+- We wouldn't have to build a separate "portal", so there is less to maintain.
+- Given that this closest to how we've structured VA.gov, it's easier to improve upon this model than to start from scratch and create a more portal-like experience (think most health insurance and bank websites).
+
+#### Negatives of this model
+
+- We're currently utilizing this model, and we're not exactly doing it well.
+- There is a lot of content on the website, and in this model, that volume remains as people are trying to manage their health and benefits.
+
 ### Example 1: Target.com
 
 #### The homepage
