@@ -18,8 +18,5 @@ Product, business, and technical documentation of [Medications](https://github.c
 |---|---|
 |[Refill prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) | Refill an existing prescription |
 |[Renewal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) | |\
-[No Refills Available]
-[View Drug Image]
-[View Tracking Information]
-
+|[List View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/listview.md)|View all medications|
 
