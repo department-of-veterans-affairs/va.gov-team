@@ -119,3 +119,10 @@ This is the more traditional model we see with bank and health insurance website
 #### Negatives of this model
 
 - We've literally spent -- and are spending -- years integrating eBenefits and MHV into VA.gov. Creating another site -- even if it was part of the `www.va.gov/` structure -- feels like it would only make things more confusing at this point. While something like this might make sense once eBenefits and legacy MHV are turned off, it's not a path that feels viable any time soon.
+
+### We already have a bunch of comparative analyses
+
+We don't need yet another comparative analysis of the portal model. Here are some of them:
+
+- [Logged-in Homepage Redesign: Comparative Analysis | Spring 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
+- [My VA action items: Comparative analysis | May 2021](8https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
