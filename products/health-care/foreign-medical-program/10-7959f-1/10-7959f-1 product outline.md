@@ -66,10 +66,10 @@ How might we improve the experience of Veterans living overseas who are applying
 ## Solution Approach
 Provide stand alone FMP registration form online with forms sent to PEGA for further processing. 
 - **In scope**:
-  - Fillable fields with pre fill for signed in users
   - General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
+  - Fillable fields with pre fill for signed in users
   - Digital signature with date stamp accepted by FMP team
-  - PDF output of complete form with required meta data
+  - PDF output of completed form with required meta data and unique identifier
   - Integration with PEGA for forms and documents
   - Authenticated experience [*need to determine recommendation on level*]
 - **Out of scope**:
