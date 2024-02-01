@@ -402,6 +402,21 @@ Small text is a challenge.
 
 [Appointment List Usability Test](./2022-09-appts-list-usability/research-findings.md#4-small-text), 2022-09
 
+## Notifications
+
+Code: `notify`
+
+## Feature requests
+
+_Requests for specific features_
+
+Codes: `fr-[feature-code]`
+
+**Feature codes**
+
+Rescheduling: `fr-reschedule`
+As a Veteran, i can easily change a scheduled appointment's time and date.
+
 ## Dead ends and errors
 
 Code: `error`
