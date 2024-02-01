@@ -16,6 +16,8 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
 Today we're going to talk about navigating a VA website when you’re signed in. Before we start, I have a few things that I want to go over with you:
 
+- According to my notes, you are able to join the session from a mobile device. Are you able to join from that device, or are you already on it?
+
 - **This entire session should take about 45 minutes/60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know. Whether you choose to participate or not will not affect your benefits in any way with the VA.
