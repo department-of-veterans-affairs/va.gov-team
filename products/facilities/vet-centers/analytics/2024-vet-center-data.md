@@ -14,7 +14,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456
 
 **Total # of editors** 
 | December 2023 | January 2024 | February 2024 | March 2024
-|---|---|---|---|
+|---|:---:|:---:|:---:|
 | 539 | 539 | | |
 
 ![editor stats](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/a751f7fd-744e-4f3d-9fbc-b5b2dd6f604c)
@@ -33,12 +33,18 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456
 ![link interactions](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/2c870ca2-0cf4-4a3e-8822-231552a9267d)
 
 ### User surveys
-**Total number of responses**
-| December 2023 | January 2024 | February 2024 | March 2024
-| ---| --- | ---| ---| 
-| 7 | 8 | | | 
-
 ![experience rating](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c552b14e-6cb5-4f47-8735-16e712232449)
+
+| Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024
+| --- | :---:| :---:| :---:| :---: | 
+| Total survey responses | 7 | 8 | | |
+| 1 star |  | | |
+| 2 stars	|| | |
+| 3 stars || | |
+| 4 stars | | | |
+| 5 stars || | |
+
+
 
 
 
