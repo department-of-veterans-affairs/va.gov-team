@@ -102,7 +102,7 @@ While this study was too small to answer this question for the broader Veteran p
 
 Many participants said that when they need new care they work with their PCP who provides referrals and authorizations to see specialists or community care providers. They prefer to go to only these authorized providers because they feel it ensures their PCP is communicating with these providers, and that costs will be covered by VA health care. 
 
-The most common reason participants went to a facility other than where their PCP practiced is because they needed speciality care, such as a CPAP clinic, or needed to have tests done. 2 participants reported that they received referrals to other providers when appointments were available sooner at another facility. 
+The most common reason participants went to a facility other than where their PCP practiced is because they needed specialty care, such as a CPAP clinic, or needed to have tests done. 2 participants reported that they received referrals to other providers when appointments were available sooner at another facility. 
 
 #### Once they've established care, participants reported clear preferences for how they choose facilities.
 
