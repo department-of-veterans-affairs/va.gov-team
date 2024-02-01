@@ -1,6 +1,6 @@
 # Comparative analysis: Logged-in account models
 
-**Last updated: January 29, 2024**
+**Last updated: February 1, 2024**
 
 ### Goal of this document
 
