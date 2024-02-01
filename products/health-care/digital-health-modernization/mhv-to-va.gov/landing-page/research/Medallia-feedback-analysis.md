@@ -279,8 +279,8 @@ Survey question 3: what task were you trying to do today?
 ### Fixable(?) problems
 * 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
 * 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
-* **FIX IN PROGRESS - TICKET CREATED 1/24**: 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
-* **FIXED**: 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
+* **RESOLVED Sprint 23**: 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
+* **RESOLVED**: 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
 
 ## Possible future enhancements? 
 * 1 user was looking for a way to upload a form
