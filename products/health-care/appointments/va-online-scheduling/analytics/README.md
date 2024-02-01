@@ -2,6 +2,22 @@
 
 WIP doc status: 02/01/2024 Rough draft working document to define our strategy. 
 
+## Resources
+
+[Appointments OKRs/KPIS](vaos-kpis.md)
+
+[Appointments Analytics Dashboards](vaos-analytics-links.md)
+
+[Appointments Analytics Definitions]([draft]vaos-analytics-definitions.md)  
+Tracking that's currently set up in the Appointments tool.
+
+[Q1 2024 Medallia Feedback Analysis (WIP)](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2024%20Q1%20Analysis.xlsx?d=w8257a39f90ce446d9621d5c524a209e4&csf=1&web=1&e=8AUAor)  (Sharepoint/VA Network)
+Experiment in tracking [themes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/themes.md) in Veteran feedback over time.
+
+[Aggregate Equity Checker](https://docs.google.com/spreadsheets/d/1FptjVArKot0wb2X8efpNtTAl3Rd1qroaEQmWtJ-bDxM/edit#gid=1035614575) (Google Doc)
+Demographics of participants in our Veteran studies. 
+
+
 ## Behavior analytics (what)
 
 **Sources:** Google Analytics, Loki  
