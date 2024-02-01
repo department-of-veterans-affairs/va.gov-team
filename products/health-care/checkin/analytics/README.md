@@ -13,3 +13,6 @@
      - [Bene Travel Claims from eCheck-in Report](https://analytics.google.com/analytics/web/#/dashboard/-LnfQTl3ShO8HbLIPQ7ZEQ/a50123418w177519031p176188361/_u.dateOption=last7days/)
      - [Pre-Check-In (PCI)](https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.dateOption=last7days/)
      - [eCheck-in (PCI)](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.dateOption=last7days/)
+
+## VSignals Feedback
+- [Reports and "How to analyze" documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
