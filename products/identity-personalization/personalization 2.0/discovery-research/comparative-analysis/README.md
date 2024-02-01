@@ -55,10 +55,10 @@ An effective dashboard has a clear purpose. For data-driven sites, a dashboard m
 - Additionally, Amazon's logged in navigations changes significantly from the logged in nav. In both, the primary menus and actions in the right-hand side of the navigation stay the same, which help ground the user. However, the links under the search bar are entirely different between the logged out and logged in experiences.
 
 *Logged out homepage*
-![Amazon logged out homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20nav%20logged%20out.png)
+![Amazon logged out homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20nav%20logged%20out.png)
 
 *Logged in homepage*
-![Amazon logged in homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20nav%20logged%20in.png)
+![Amazon logged in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20nav%20logged%20in.png)
 
 - Once logged in, there is a robust megamenu that allows users to manage their account. Though the list of links are long, they are organized in a navigable way.
 
