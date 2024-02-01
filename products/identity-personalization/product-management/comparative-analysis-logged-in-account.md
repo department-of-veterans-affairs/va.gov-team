@@ -126,4 +126,4 @@ We don't need yet another comparative analysis of the portal model. Here are som
 
 - [Personalization 2.0 Discovery: Comparative Analysis | Summer 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/README.md)
 - [Logged-in Homepage Redesign: Comparative Analysis | Spring 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
-- [My VA action items: Comparative analysis | May 2021](8https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
+- [My VA action items: Comparative analysis | May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
