@@ -1,6 +1,6 @@
 # Conversation Guide (Revised) for Authenticated Experience, Authenticated Menu, January 2024
 
-**Note:** Midway through our study, we revised the order of tasks to try to determine if our research protocol is impacting people's ability to find the authenticated menu.
+**Note:** Midway through our study, we revised the order of tasks to try to determine if our research protocol is impacting people's ability to find the authenticated menu. The sessions for P7, P8, and P12 used this conversation guide.  We extended our study and decided to remove the task to find letters, since that could be in so many various parts of the site, and we wanted to focus remaining sessions on the auth menu. Sessions for P13-P16 used [this version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide-revised-removed-task.md) of the guide.
 
 ## Moderator logistics
 - [ ] Update participants name in [dynamic data file](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
