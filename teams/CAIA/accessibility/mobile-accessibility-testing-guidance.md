@@ -107,3 +107,6 @@ Complete the entire flow with the device locked to landscape orientation at 300%
 #### iOS, VoiceOver
 
 ## Tools and FAQ
+### Useful bookmarklets
+### How to pair a phone's browser with a desktop computer's browser's developer tools
+### Using the Accessibility Inspector tool with iOS
