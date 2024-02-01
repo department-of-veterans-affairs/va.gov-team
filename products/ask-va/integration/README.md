@@ -56,6 +56,6 @@ Form | [GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md) | Lighthouse | N/A 
 Form | [GET /states](lighthouse/Form_States.md) | Lighthouse | N/A | 🟡 | ready for dev | |  
 Form | [GET /countries](lighthouse/Form_GetCountries.md) | Lighthouse | N/A | 🟡 | ready for dev | | 
 Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | 🟡 | ready for dev |  | 
-Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | GIBCT | N/A | 🟡 | ready for dev |  | 
+Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | GI Bill Comparison Tool (GIBCT) | N/A | 🟡 | ready for dev |  | 
 Form | [GET /profile](va_profile/profile_processes.md) from VA | VA Profile | N/A | 🟡 | ready for dev | ?? | 
 
