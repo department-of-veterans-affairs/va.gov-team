@@ -75,28 +75,28 @@ An effective dashboard has a clear purpose. For data-driven sites, a dashboard m
 - BCBS has a separate logged out homepage and website for the federal health insurance plan and a separate, personalized portal once someone logs in. When someone is logged in, they can click the fepblue.org link in the navigation to get back to the unauthenticated version of the website.
 
 *Logged out homepage*
-![BCBS logged out homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20Logged%20out%20homepage.png)
+![BCBS logged out homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20Logged%20out%20homepage.png)
 
 *Logged in homepage*
-![BCBS logged in homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20Logged%20in%20homepage.png)
+![BCBS logged in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20Logged%20in%20homepage.png)
 
 - The authenticated BCBS portal has an account menu in the upper right of the navigation that is separate from the other controls found on the dashboard.
 
-![BCBS account menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20Account%20menu.png)
+![BCBS account menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20Account%20menu.png)
 
 - Navigations are shown under the bell icon. There is no notification landing page where you can see historical notifications, and it is unclear from the frontend how long notifications stick around. 
 
-![BCBS notification menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20notifications.png)
+![BCBS notification menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20notifications.png)
 
 - There is, however, a super robust notification and messaging preference center which organizes its many settings via a left nav.
 
-![BCBS notification preferences](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20notification%20center.png)
+![BCBS notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20notification%20center.png)
 
 - The dashboard is organized by common actions --> plan and care overview info --> suggested content. With the exception of the super high-level plan and care overview, the dashboard links to pages with more information instead of surfacing prescriptions, claims, or notification updates right on the page.
 
-![BCBS dashboard actions and overview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20dashboard%20actions%20and%20overview.png)
+![BCBS dashboard actions and overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20dashboard%20actions%20and%20overview.png)
 
-![BCBS dashboard "suggested for you"](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20dashboard%20%22suggested%20for%20you%22.png)
+![BCBS dashboard "suggested for you"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS-dashboard-suggested-for-you.png)
 
 
 ### Github
