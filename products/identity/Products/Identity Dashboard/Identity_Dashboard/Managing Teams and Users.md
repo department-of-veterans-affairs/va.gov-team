@@ -27,7 +27,7 @@ Follow these steps to create a team in Identity Dashboard:
    
 ### Updating a Team
 
-**Please note that any request to update a team must be sent from a user with an `admin` role for that team.**
+**Please note that any request to update a team must be sent from a user who is an admin for that team.**
 
 Follow these steps to update a team:
 
@@ -48,7 +48,7 @@ Follow these steps to update a team:
 
 ### Removing a Team
 
-**Please note that any request to remove a team must be sent from a user with an `admin` role for that team.**
+**Please note that any request to remove a team must be sent from a user who is an admin for that team.**
 
 **Removing a team is a dangerous operation as it will result in the deletion of any client configs associated with that team.**
 
@@ -69,13 +69,9 @@ Teams contain users who have roles for managing teams and client application con
 For instance, team leads will likely need the ability to administer their teams (updating team information, adding new team users, etc.), but may not require full access to update the 
 client application configurations for which their teams are responsible. Conversely, engineers will almost certainly need access to administer client application configurations, but are unlikely to require permissions for administering teams.
 
-With respect to teams, users with an `admin` role can create new teams and manage the users that belong to those teams along with their roles. Users with a `member` role are restricted to viewing the existing teams and their associated users.
-
-With respect to client application configurations, users with an `admin` role can create and manage client configurations, whereas users with a `member` role can only view their teams' integrations.
-
 ### Adding Users to a Team
 
-**Please note that any request to add users to a team must be sent from a user with an `admin` role for that team.**
+**Please note that any request to add users to a team must be sent from a user who is an admin for that team.**
 
 Follow these steps to add users to a team:
 
@@ -88,14 +84,14 @@ Follow these steps to add users to a team:
     * `email`: The email address associated with the user's Login.gov account.
     * `first_name`: The first name for the user.
     * `last_name`: The last name for the user.
-    * The role(s) the user should have with respect to teams (`admin`, `member`, or none.)
-    * The role(s) the user should have with respect to client application configurations (`admin`, `member`, or none.)
+    * Should the user be able to make requests to update the team or team roster? (yes or no)
+    * Should the user be able to make requests to administer client application configurations? (yes or no)
 * Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
 * The OCTO-Identity team will then create the requested team users using the details provided.
    
 ### Updating a Team User
 
-**Please note that any request to update a team user must be sent from a user with an `admin` role for that team.**
+**Please note that any request to update a team user must be sent from a user who is an admin for that team.**
 
 Follow these steps to update a team user:
 
@@ -109,14 +105,14 @@ Follow these steps to update a team user:
     * `email`: The email address associated with the user's Login.gov account.
     * `first_name`: The first name for the user.
     * `last_name`: The last name for the user.
-    * The role(s) the user should have with respect to teams (`admin`, `member`, or none.)
-    * The role(s) the user should have with respect to client application configurations (`admin`, `member`, or none.)
+    * Should the user be able to make requests to update the team or team roster? (yes or no)
+    * Should the user be able to make requests to administer client application configurations? (yes or no)
 * Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
 * The OCTO-Identity team will then update the specified team user(s) using the details provided.
 
 ### Removing a Team User
 
-**Please note that any request to remove a team user must be sent from a user with an `admin` role for that team.**
+**Please note that any request to remove a team user must be sent from a user who is an admin for that team.**
 
 Follow these steps to remove a team user:
 
