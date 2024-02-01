@@ -28,7 +28,7 @@ The [VA Identity Dashboard](https://github.com/department-of-veterans-affairs/va
 
 * Auth types: `Service Account`
 
-The Chatbot application ???
+The Chatbot application makes use of a Service Account access_token containing the user's ICN to protect the API route requesting a MAP Security token.
 
 ## MAP / Sign Up Service
 
