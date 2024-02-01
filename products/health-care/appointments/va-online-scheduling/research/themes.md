@@ -238,3 +238,74 @@ Almost all participants responded positively to the proposed concept
 [MHV and VAOS Appointments List Discovery](./2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#59-participants-said-they-dont-use-the-appointment-list-in-mhv-often), 2022-01
 
 (Next - request clarification research)
+
+During the prototype test, 7/8 participants understood that they were requesting an appointment. 4/8 participants indicated frustration when they saw that the facility "doesn't allow self-scheduling online."
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#78-participants-understood-that-they-were-requesting-an-appointment), 2021-11
+
+4/8 participants indicated frustration when they saw that the facility "doesn't allow self-scheduling online." After reading further, all realized they could still complete the process online. This reduced frustration for 3 of them - the other participant (P2) previously had a bad experience requesting appointments through VAOS and hadn't used the tool since then.
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#78-participants-understood-that-they-were-requesting-an-appointment), 2021-11
+
+During the prototype test, Most participants chose "have the facility call me back" as their preferred option.
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#most-participants-chose-have-the-facility-call-me-back-as-their-preferred-option), 2021-11
+
+During the prototype test, no other participant indicated a preference for calling the facility to schedule. Participants reported the same pain points around wait times and navigating the phone tree that we've heard in other studies.
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#most-participants-chose-have-the-facility-call-me-back-as-their-preferred-option), 2021-11
+
+When we presented an option to send a secure message instead of a request, 3/8 said they had used secure messaging before but had to send multiple messages before they received a response, if they received one at all. None of these chose secure message as their preference.
+
+3/8 expected to be able to send a message directly after selecting the option.
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#most-participants-chose-have-the-facility-call-me-back-as-their-preferred-option), 2021-11
+
+3/8 participants indicated they would have preferred the option to self-schedule over all of the other options presented.
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#most-participants-chose-have-the-facility-call-me-back-as-their-preferred-option), 2021-11
+
+In the prototype, most participants found their requested appointments in the status dropdown
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#most-participants-found-their-requested-appointments-in-the-status-dropdown), 2021-11
+
+Appointment list and details pages navigation.
+
+Requested appointment detail page:
+
+* 6/8 clicked the "back" link  
+* 2/8 used the back button on their browser 
+
+Upcoming appointment detail page:
+
+* 4/8 clicked the "back" link  
+* 2/8 used the back button on their browser 
+* 1 skipped this step
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#appointment-list-and-details-pages-navigation), 2021-11
+
+Related appointments section. Most participants were pleased to see their related appointments in this context.
+
+Along with wanting to see instruction for labs and x-rays, participants said it would be helpful to see:
+
+* 3/8 - appointment type
+* 3/8 - time
+* 3/8 - clinic location
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#related-appointments-section), 2021-11
+
+Contact and best times to call pages
+
+* 7/8 participants easily understood and completed the best times to call page.
+  * One thought they were indicating best times to call on the request calendar, so found the page to be redundant.
+* 8/8 participants reviewed the contact info page 
+  * 4/8 expected their info would be updated across all VA systems if updated here.
+  * 1 said he would prefer the option to do both.
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#contact-and-best-times-to-call-pages), 2021-11
+
+Review and submit page
+
+[Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#review-and-submit-page), 2021-11
+
+

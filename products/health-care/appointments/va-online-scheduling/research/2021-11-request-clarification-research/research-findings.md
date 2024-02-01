@@ -26,7 +26,7 @@
 | P3          | Veteran                          | Male   | White or Caucasian        | 45 - 54     | Bachelor's degree                                            | Army         | FL       |
 | P4          | Veteran                          | Female | Black or African American | 55 - 64     | Master's degree                                              | Navy         | NC       |
 | P6          | Veteran                          | Male   | White or Caucasian        | 75 or older | Some college (no degree)                                     | Navy         | NC       |
-| P7          | Veteran                          | Male   | White or Caucasian        | 55 - 64     | Associate’s degree / trade certificate / vocational training | Army         | OK       |
+| P7          | Veteran                          | Male   | White or Caucasian        | 55 - 64     | Associate's degree / trade certificate / vocational training | Army         | OK       |
 | P8          | Veteran                          | Male   | White or Caucasian        | 35 - 44     | Master's degree                                              | Marine Corps | NC       |
 | P11         | Veteran, Veteran's family member | Male   | Black or African American | 35 - 44     | Some college (no degree)                                     | Navy         | VA       |
 
@@ -68,7 +68,7 @@ It generally took participants longer to read this page than other pages in the 
 
 ##### Recommendations
 
-* Add the new page asking Veterans to choose scheduling options at points in the flow when an appointment can only be requested.
+* Add the new page that asks Veterans to choose scheduling options at points in the flow when an appointment can only be requested.
 * Remove the "doesn't allow self-scheduling online" content from that page. It's confusing, too much information, and doesn't help Veterans the decision posed by this page.
 * Consider clarifying the content of the phone option to indicate what's coming next, i.e. "I'll call this facility, show me their contact information."
 
@@ -84,13 +84,13 @@ No other participant indicated a preference for calling the facility to schedule
 
 3/8 participants said they would prefer to schedule via a secure message. 
 
-3/8 said they had used secure messaging before but had to send multiple messages before they received a response, if they received one at all. None of these chose secure message as their preference.
+3/8 said they had used secure messaging before but had to send multiple messages before they received a response, if they received one at all. None of them chose secure message as their preference.
 
 3/8 expected to be able to send a message directly after selecting the option. The link to secure messaging was especially frustrating to P2:
 
 > [On seeing the SM link] "Once again it’s just invoking rage, my issues are now starting to stair climb. I tried to schedule and you wouldn’t let me so you gave me this option and now you’re giving me the run around. " - P2
 
-3/8 participants indicated they would have preferred the option to self-schedule over all of the other options presented.
+3/8 participants indicated they would have preferred the option to self-schedule over all the other options presented.
 
 2/8 wanted an indication that an appointment could only be requested earlier in the flow.
 
@@ -101,7 +101,7 @@ No other participant indicated a preference for calling the facility to schedule
    * Testing the scheduling options page with and without the SM option and comparing abandonment rate, time on page, and next steps OR,
    * Working out the flow to Secure Messaging at a less critical point in the process (such as adding it as an option to the VAOS home page) before adding it to the request flow. 
 
-* Consider adding helpful information about the facility to the the "call" page. Participants suggested:
+* Consider adding helpful information about the facility to the "call" page. Participants suggested:
 
   * Hours of operation, so they know if someone will be there when they call. 
   * Direct clinic extension based on their chosen type of care.
@@ -128,7 +128,7 @@ P2, who had indicated a preference for secure messaging at first, explained that
 
 P3 (who said earlier he would not use VAOS again if he didn't receive a prompt response) also indicated that he would be happy with the process if it worked:
 
-> [After sending the request I'd expect] someone to call me to confirm it --  or better yet, send a text message to confirm it. If they can't meet my request then have them call me and tell me my options.  **It is always more efficient when a scheduler calls me.**  - P3
+> [After sending the request I'd expect] someone to call me to confirm it -- or better yet, send a text message to confirm it. If they can't meet my request then have them call me and tell me my options.  **It is always more efficient when a scheduler calls me.**  - P3
 
 ##### Recommendations
 
@@ -170,7 +170,7 @@ Along with requests, we used this test for initial discovery around data needs, 
 
 ### Appointment list and details pages data
 
-We wanted to validate what inforrmation would help Veterans better understand their appointments. We asked this question when we showed participants the VAOS home page, and examples of the details pages for a request and a direct scheduled appointment. 
+We wanted to validate what information would help Veterans better understand their appointments. We asked this question when we showed participants the VAOS home page, and examples of the details pages for a request and a direct scheduled appointment. 
 
 Appointments list top requests:
 
@@ -179,7 +179,7 @@ Appointments list top requests:
 * Clinic name - 3/8
 * Clinic location - 3/8
 
-One mentioned that facilities can have different names, so it would be helpful to see all of the alternate names.
+One mentioned that facilities can have different names, so it would be helpful to see all the alternate names.
 
 Details page top requests:
 
@@ -222,7 +222,7 @@ Along with wanting to see instruction for labs and x-rays, participants said it 
 
 ### Contact and best times to call pages
 
-While reviewing data around how Veterans update their communication preferences ([dashboard](https://analytics.google.com/analytics/web/#/dashboard/5fRiv2AeT8WoN0VB21KpLg/a50123418w177519031p176188361/)), we found that most don't update their prepopulated email and phone number. We hypothesized that a separate "best times to call" page would be easier to understand. So we presented "best times to call" in the flow, and contact information only in the reveiw page. We asked participants to modify both.
+While reviewing data around how Veterans update their communication preferences ([dashboard](https://analytics.google.com/analytics/web/#/dashboard/5fRiv2AeT8WoN0VB21KpLg/a50123418w177519031p176188361/)), we found that most don't update their prepopulated email and phone number. We hypothesized that a separate "best times to call" page would be easier to understand. So we presented "best times to call" in the flow, and contact information only in the review page. We asked participants to modify both.
 
 * 7/8 participants easily understood and completed the best times to call page.
   * One thought they were indicating best times to call on the request calendar, so found the page to be redundant.
@@ -240,7 +240,7 @@ While reviewing data around how Veterans update their communication preferences 
 
 We added clarifying content to the "review" page, and stronger headers to the sections. 
 
-2/8 participants indicated that they thought the form was submitted when they reached this page. Both realized after they edited contact info and saw the "submit request" button that there was more to do. Analytics indicate that the drop-off rate for this page was 2% YDT (as of 11/15/21). There is an alert that fires if the user attempts to navigate away from this page, so some of the abandonment may be due to clicking an edit link to return to another section.
+2/8 participants indicated that they thought the form was submitted when they reached this page. Both realized after they edited contact info and saw the "submit request" button that there was more to do. Analytics indicate that the drop-off rate for this page was 2% YTD (as of 11/15/21). There is an alert that fires if the user attempts to navigate away from this page, so some abandonment may be due to clicking an edit link to return to another section.
 
 * One participant clicked an edit link and was frustrated at having to walk through the whole form again to get back to the submit page.
 
