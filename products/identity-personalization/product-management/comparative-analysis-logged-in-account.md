@@ -106,3 +106,16 @@ Unlike Target, Amazon doesn't preview high-level personalized info on this page 
 ![Amazon Account page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Amazon%20account%20page.png)
 
 ## The "portal" model 
+
+### What is this?
+
+This is the more traditional model we see with bank and health insurance websites or SaaS apps. The "logged out" website is more informational, while the user's account is managed on a separate website with a unique dashboard, IA, and navigation. Depending on the site, it may or may not be clear to get back to the main "marketing" site.
+
+#### Pros of this model
+
+- This allows for more focus for both the "marketing" site and the account site. Each site has unique content and navigations that are tailored to what users need in each space.
+- This model has proven effective as far as MHV goes. Users find the site super usable. While we would want a single site for both health and benefits, we know people like the portal model and find it easier to navigate than VA.gov.
+
+#### Negatives of this model
+
+- We've literally spent -- and are spending -- years integrating eBenefits and MHV into VA.gov. Creating another site -- even if it was part of the `www.va.gov/` structure -- feels like it would only make things more confusing at this point. While something like this might make sense once eBenefits and legacy MHV are turned off, it's not a path that feels viable any time soon.
