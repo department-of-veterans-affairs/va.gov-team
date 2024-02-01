@@ -13,7 +13,7 @@ All users and data are test data.
 | Reason for Appt      | ✔️ | ✔️ |
 | Diagnosed with       | ✔️ | ✔️ |
 | Vitals               | ✔️ | ✔️ |
-| Procedures           | ✔️ |
+| Procedures           | ✔️ | ✖️ |
 | Clinic medications   | ✖️ | ✔️ |
 | **Treatment plan**   | -  | - |
 | Consultations        | ✖️ | ✖️ |
