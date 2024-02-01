@@ -11,8 +11,10 @@ WIP doc status: 02/01/2024 Rough draft working document to define our strategy.
 [Appointments Analytics Definitions]([draft]vaos-analytics-definitions.md)  
 Tracking that's currently set up in the Appointments tool.
 
-[Q1 2024 Medallia Feedback Analysis (WIP)](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2024%20Q1%20Analysis.xlsx?d=w8257a39f90ce446d9621d5c524a209e4&csf=1&web=1&e=8AUAor)  (Sharepoint/VA Network)
-Experiment in tracking [themes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/themes.md) in Veteran feedback over time.
+Tracking Veteran feedback:
+- [User Feedback Sharepoint](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
+- [Q1 2024 Medallia Feedback Analysis (WIP)] (https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2024%20Q1%20Analysis.xlsx?d=w8257a39f90ce446d9621d5c524a209e4&csf=1&web=1&e=8AUAor)  (Sharepoint/VA Network) - Experiment in tracking [themes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/themes.md) in Veteran feedback over time.
+- [How to request and process Veteran feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-request-medallia-feedback.md)
 
 [Aggregate Equity Checker](https://docs.google.com/spreadsheets/d/1FptjVArKot0wb2X8efpNtTAl3Rd1qroaEQmWtJ-bDxM/edit#gid=1035614575) (Google Doc)
 Demographics of participants in our Veteran studies. 
