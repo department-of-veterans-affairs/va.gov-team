@@ -46,7 +46,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 Now I'm going to ask you to open the link I've shared (in Zoom Chat?) and then share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. Now please navigate to the "sign in" button and __(what to do about credentials for screen reader user?)__
+Okay great, I can see your screen. Now please navigate to the "sign in" button and enter a username and a password. This is just a test, so you can enter anything in these fields. 
 
 - *Once they have logged in and the full page has loaded* Now that you've logged in, how would you typically go about navigating the page?
 
