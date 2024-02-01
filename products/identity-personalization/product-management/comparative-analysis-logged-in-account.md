@@ -12,7 +12,7 @@ It's clear we need to be thinking of the logged-in experience more holistically 
 
 ### What is this?
 
-On retail sites, logging in doesn't change much. The user is still able to access the same homepage and content as they were before they logged in. Most of the site is still the same with the exception of some navigational changes, like a user menu, and pages where people can manage personal and payment information.
+On retail sites, the user is still able to access the same homepage and content as they were before they logged in. Most of the site is still the same with the exception of some navigational changes, like a user menu, and pages where people can manage personal and payment information.
 
 **Why this is significant**: The retail model is closest to how we've currently structured VA.gov, and it's a viable option should we choose to continue in this direction. However, we need to make some serious improvements in how we're implementing this model in order for it to be usable.
 
