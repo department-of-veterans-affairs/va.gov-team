@@ -22,9 +22,9 @@ configurations for client applications integrated with SiS.
 
 ### Adding a Team
 
-Follow these steps to create a team in Identity Dashboard:
+Follow these steps to create a team:
 
-* Submit request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to create a new team in Identity Dashboard.
+* Submit request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to create a new team.
 * The request should contain the following information:
   * The environment to load the users in (staging or production.)
   * `name`: the human-readable name for the team.
@@ -54,14 +54,14 @@ Follow these steps to update a team:
       * `email`: The email address associated with the admin's Login.gov account.
       * `first_name`: The first name for the admin.
       * `last_name`: The last name for the admin.
-* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
 * The OCTO-Identity team will then update the specified team using the details provided.
 
 ### Removing a Team
 
 **Please note that any request to remove a team must be sent from a user who is an admin for that team.**
 
-**Removing a team is a dangerous operation as it will result in the deletion of any client configs associated with that team.**
+**Removing a team is a dangerous operation as it will result in the deletion of any client configurations associated with that team.**
 
 Follow these steps to remove a team:
 
@@ -75,7 +75,7 @@ Follow these steps to remove a team:
 
 ## Team Users
 
-Teams contain users who have roles for managing teams and client application configurations within ID. These roles provide granular access control for team members depending on their role.
+Teams contain users who have roles for managing teams and client application configurations. These roles provide granular access control for team members depending on their role.
 
 For instance, team leads will likely need the ability to administer their teams (updating team information, adding new team users, etc.), but may not require full access to update the 
 client application configurations for which their teams are responsible. Conversely, engineers will almost certainly need access to administer client application configurations, but are unlikely to require permissions for administering teams.
@@ -97,7 +97,7 @@ Follow these steps to add users to a team:
     * `last_name`: The last name for the user.
     * Should the user be able to make requests to update the team or team roster? (yes or no)
     * Should the user be able to make requests to administer client application configurations? (yes or no)
-* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
 * The OCTO-Identity team will then create the requested team users using the details provided.
    
 ### Updating a Team User
@@ -118,7 +118,7 @@ Follow these steps to update a team user:
     * `last_name`: The last name for the user.
     * Should the user be able to make requests to update the team or team roster? (yes or no)
     * Should the user be able to make requests to administer client application configurations? (yes or no)
-* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
 * The OCTO-Identity team will then update the specified team user(s) using the details provided.
 
 ### Removing a Team User
@@ -133,5 +133,5 @@ Follow these steps to remove a team user:
     * You may request the change apply to all environments if the user has changed roles and should be removed across all environments.
   * The `email` corresponding to the team user.
   * The `name` for each team to remove the user from.
-* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
 * The OCTO-Identity team will then remove the specified team user(s).
