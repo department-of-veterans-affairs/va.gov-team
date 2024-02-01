@@ -43,7 +43,7 @@ Target's website functions a lot like VA.gov. Whether you're logged in or logged
 
 #### The user menu
 
-One thing that Target does somewhat differently than VA.gov is that its sign-in CTA is also a menu. Once a user logs-in, the menu expands to include additional, personalized pages.
+One thing that Target does somewhat differently than VA.gov is that its sign-in CTA is also a menu. Once a user logs-in, the menu expands to include additional, personalized pages. This is more of a utility menu than an "about me" menu; some of the CTAs in the menu are personalized while others are not.
 
 *Logged-out sign-in menu*
 
