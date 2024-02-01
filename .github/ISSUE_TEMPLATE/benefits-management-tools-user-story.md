@@ -24,15 +24,10 @@ assignees: ''
 ## Outcome, Success Measure, KPI(S), and Tracking Link
 - Add here
 
-## Acceptance Criteria
-- [ ] _AC_
-- [ ] _AC_
-- [ ] _AC_
-
 ## Design
 - Add here
 
-## Engineering Notes
+## Engineering 
 - Add here
 
 ## Out of scope
@@ -47,7 +42,6 @@ assignees: ''
 - [ ] _Task_
 
 ## Definition of Done
-
 - [ ] Meets acceptance criteria
 - [ ] Passed E2E testing (90% coverage)
 - [ ] Passed unit testing (90% coverage)
@@ -55,5 +49,10 @@ assignees: ''
 - [ ] Code reviewed (internal)
 - [ ] Submitted to staging
 - [ ] Team approved production verification process
-- [ ] Reviewed and approved by product and/or design
+- [ ] Product performs functional QA and verifies acceptance criteria was met
+- [ ] Engineering identifies staging users required to test and shares account and credentials with product
 
+## Acceptance Criteria
+- [ ] _AC_
+- [ ] _AC_
+- [ ] _AC_
