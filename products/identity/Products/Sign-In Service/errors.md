@@ -45,7 +45,7 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | --- | --- | --- | --- |
 | 400 | **Grant Type is not valid** | The `grant_type` parameter is not presentd | `grant_type` must be present and formatted according to [PKCE](../endpoints/token.md#authorization-parameters-1) or [JWT](../endpoints/token.md#authorization-parameters-2) specifications  |
 | 400 | **Code is not valid** | The `code` parameter is not valid | `code` must not be empty or malformed |
-| 400 | **Code Verifier is not valid** | The `code_verifier` parameter is not present or does not generate the same result as the saved `code_challenge` | `code_verifier` must be present and match the saved `code_challenge` |
+| 400 | **Code Verifier is not valid** | The `code_verifier` parameter is not present or does not generate the same result as the saved `code_challenge` | `code_verifier` must be present and match the saved `code_challenge`. [Previous](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/72975) investigations of this error. |
 | 400 | **Code Verifier is malformed** | The `code_verifier` parameter could not be used to generate a valid `code_challenge` | Ensure the `code_verifier` is [properly formatted](../endpoints/token.md#code-verifier--code-challenge)
 | 400 | **Credential is locked** | The user credential has been locked from authorizing with `vets-api`. | Switch credentials or contact the Identity team for more information |
 | 400 | **Terms of Use has not been accepted** | The user has not accepted the current version of the VA.gov Terms of Use | Switch users or create a Terms of Use Agreement for the selected user |
