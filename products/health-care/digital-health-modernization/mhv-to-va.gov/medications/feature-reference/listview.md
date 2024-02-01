@@ -5,9 +5,8 @@
 Ability to refill prescriptions
 ## User stories
 
-- As a Veteran, I can submit refill requests in line for VA prescriptions that are currently active and have refills left, understand whether they are in the process of being refilled, and when the medication has been dispensed.
-- As a Veteran, I can submit a refill-all active prescription with refills left, confirm that is the transaction needed, and submit,
-- As a Veteran, I know when recently dispensed VA prescriptions have been shipped by CMOP or local VA facility, and I can track their shipment progress and any changes that may occur with the shipment.
+- As a Veteran, I want to be able to view all medications from VA, community, and private providers
+- As a Veteran, I want to view relevent information about medications as available, including name, images (or a11y equivalent), descriptions.)
 
 ## Requirements
 
