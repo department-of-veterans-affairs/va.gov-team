@@ -54,6 +54,8 @@ The sessions will be conducted remotely via Zoom.
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide.md)
 - [Link to prototype](https://cdpn.io/pen/debug/JjzNWbR)
 
+**Note:** The convo guide linked above was used for the first 6 participants in our study. Midway through our study, we had had to pivot. We revised the order of tasks to try to determine if our research protocol was impacting people's ability to find the authenticated menu. The sessions for P7, P8, and P12 used [this conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide-revised-task-order.md).  We extended our study and decided to remove the task to find letters, since that could be in so many various parts of the site, and we wanted to focus remaining sessions on the auth menu. Sessions for P13-P16 used [this version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide-revised-removed-task.md) of the guide.
+
 ## Recruitment	
 
 ### Recruitment approach
