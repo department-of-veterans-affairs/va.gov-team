@@ -36,6 +36,5 @@ All users and data are test data.
 | My Medications       | ✔️ | ✔️ |
 | My VA Supplies       | ✖️ | ✖️ |
 | Meds not taking      | ✖️ | ✖️ |
-| My VA Supplies       | ✖️ | ✖️ |
 | **More Information** | -  | - |
 | More Help & Info     | ✔️ | ✔️ |
