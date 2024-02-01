@@ -6,7 +6,7 @@ All users and data are test data.
 
 ## Samples
 
-| Field                | [Judy Morrison - 1/30@10:33](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary/64A8CA1B63211D47FA17066559073111) | [Greg Anderson](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary/19EB9013C2AEFF364817048225063901) |
+| Field                | [Judy Morrison 1/30@10:33](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary/64A8CA1B63211D47FA17066559073111) | [Greg Anderson 1/9@11:45 ](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary/19EB9013C2AEFF364817048225063901) |
 | -------------------- | -- | -- |
 | **Your appointment** | -  | - |
 | Providers            | ✔️ | ✔️ |
