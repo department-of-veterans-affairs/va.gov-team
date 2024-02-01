@@ -69,7 +69,7 @@ Follow these steps to remove a team:
 * The request should contain the following information:
   * The environment of the team.
   * The `name` of the team.
-* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team; requests from non-admins will be denied.
+* Prior to executing the request, the OCTO-Identity team will verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
 * If applicable, the OCTO-Identity team will inform the requestor of any client configurations that will be impacted by the removal of the team prior to executing the request.
 * The OCTO-Identity team will then remove the specified team.
 
