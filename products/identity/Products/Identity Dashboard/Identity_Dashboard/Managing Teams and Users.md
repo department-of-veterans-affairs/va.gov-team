@@ -4,7 +4,8 @@ Identity Dashboard (ID) is an internal tool for managing client application inte
 maintains ID and handles configuration requests from other teams who leverage SiS to provide an authenticated user experience. This document describes 
 how requests to change a client application's configuration details should be submitted for timely processing.
 
-# Table of contents
+## Table of Contents
+
 - [Teams](#teams)
   - [Adding a Team](#adding-a-team)
   - [Updating a Team](#updating-a-team)
