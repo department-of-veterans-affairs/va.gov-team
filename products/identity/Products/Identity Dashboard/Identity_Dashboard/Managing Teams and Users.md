@@ -1,8 +1,8 @@
 # Managing Teams and Users
 
-Identity Dashboard (ID) is an internal tool for managing client application integrations with Sign-in Service (SiS). The OCTO-Identity team 
-maintains ID and handles configuration requests from other teams who leverage SiS to provide an authenticated user experience. This document describes 
-how requests to change a client application's configuration details should be submitted for timely processing.
+Applications that serve veterans in the VA.gov ecosystem can leverage Sign-in Service (SiS) to provide an authenticated user experience. To ensure the security of 
+client application integrations, the OCTO-Identity team maintains a roster of development teams and team members; each team has ownership over their client application configuration, 
+and team members have different permissions based on their team role. This document describes how requests to manage teams and users should be submitted for timely processing.
 
 ## Table of Contents
 
