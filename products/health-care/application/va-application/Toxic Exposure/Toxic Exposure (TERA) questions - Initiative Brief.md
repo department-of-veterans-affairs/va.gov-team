@@ -3,14 +3,15 @@
 
 ## Resources
 - TERA = Toxic Exposure Risk Activity
-- [TERA document with sticky notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/TERA%20Draft_10-10EZ.pdf)
+- [Original TERA draft with sticky notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/Archive/TERA%20Draft%202023_10-10EZ.pdf)
+- [Most recent TERA draft shared 1/23/2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/TERA%20draft%201-23-2024%20VA%20Form%2010-10EZ.pdf)
 - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699473497914/86412743291c286587ff315e52549e98e06ba534?fromVisitorModal=true&sender=u5ad49c107baa41137f271007)
 - [Figma page](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=450-19244&mode=design&t=GyO36RKAPEFgXEna-0)
 - [Sitewide PACT wizard](https://staging.va.gov/pact-act-eligibility/service-period-1) tool for reference
 ---
 
 ## Outcome Summary
-* Provide a place on the health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.
+* Provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.
 
 **Related/Associated product(s)**
 - 10-10EZ Veteran health care application | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
