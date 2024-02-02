@@ -130,11 +130,11 @@ AF changes are made without a release and screen/content changes can be made in 
  
   **2.) Use case and improvements are captured in a ticket with all details they are aware of** 
  
-  **3.) Ticket groomed by the most relevant Flagship App Mobile Team (Health or Global)** 
+  **3.) Ticket groomed by the most relevant Flagship App Mobile Team** 
  
- **4.) Ticket is prioritized by the relevant Health or Global Flagship Team** 
+ **4.) Ticket is prioritized by Team** 
  
-  **5.) Health or Flagship Team notifies QA and Release of the upcoming change**
+  **5.) Team Notifies QA and Release of the upcoming change**
  
   **6.) Qa and Release Team updates AF documents to account for the new chabge so it can be considered for future usage** 
 
