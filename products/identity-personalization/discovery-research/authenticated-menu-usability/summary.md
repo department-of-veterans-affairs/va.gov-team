@@ -13,7 +13,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - We talked to 12 participants in total
   - 4 participants evaluated the **desktop view of the header**. All used a form of assistive technology
   - 8 evaluated the **mobile view of the header**
-- No one easily found the authenticated menu in the first 6 sessions. We wondered if it was because the first two tasks in our protocol asked them to find items that weren’t intuitive to find in a personal menu. **We changed the order of our tasks for the last 6 sessions,** so that the first task would be to find an item that is conventionally under a personal menu (profile).
+- No one easily found the authenticated menu in the first 6 sessions. We wondered if it was because the first two tasks in our protocol asked them to find items that weren’t intuitive to find in a personal menu. **We changed the order of our tasks for the last 6 sessions,** **so that the first task would be to find an item that is conventionally under a personal menu (profile).**
 
 ## Initial findings
 1. 8 of 12 participants struggled to find the authenticated menu. ([Link](#8-of-12-participants-struggled-to-find-the-authenticated-menu))
@@ -21,17 +21,19 @@ This topline summary is a high level, top of mind summary of trends found in the
 3. The authenticated menu label button was unclear to some participants. [Link](#the-authenticated-menu-label-button-was-unclear-to-some-participants)
 4. 2 screenreader users missed the navigation entirely. [Link](#2-screenreader-users-missed-the-navigation-entirely)
 5. Most participants did not expect to find disability rating in their authenticated menu. [Link](#most-participants-did-not-expect-to-find-disability-rating-in-their-authenticated-menu)
-6. Some participants thought the label “Letters” was ambiguous. ([Link](#some-participants-thought-the-label-letters-was-ambiguous))
+6. Some participants thought the label “Letters” was ambiguous**.** ([Link](#some-participants-thought-the-label-letters-was-ambiguous))
 7. There's a lack of understanding about My VA. [Link](#theres-a-lack-of-understanding-about-my-va)
 8. Participants were continuously drawn to the footer, sometimes more than the main navigation. ([Link](#participants-were-continuously-drawn-to-the-footer-sometimes-more-than-the-main-navigation))
 ## Initial Findings Details
 ### 8 of 12 participants struggled to find the authenticated menu.
 #### Desktop view (4 participants total)
 * 2 screenreader participants had to be guided to the menu button and completely missed the navigation elements on the page.
-* 1 screenreader participant was completely unfamiliar with web pages and we did not ask them to try to find them menu.
-* 1 participant using CCTV noticed the authenticated menu immediately because seeing their name drew their attention.
+  * One followed the first research protocol
+  * One followed the revised protocol, where the profile task was first.
+* 1 screenreader participant was completely unfamiliar with web pages and we did not ask them to try to find them menu on their own.
+* 1 participant using CCTV noticed the authenticated menu immediately because seeing their name drew their attention. 
 #### On mobile (8 participants total)
-* 3/8 did not find the menu without being guided by the moderator.
+* 3/8 did not find the menu without being guided by the moderator.  All of these sessions took place before we changed our protocol.
   > *Moderator guides participant to open main menu*.
   > 
   > M: Do you see the option that says [participant’s first name]?
@@ -39,11 +41,11 @@ This topline summary is a high level, top of mind summary of trends found in the
   > P3: I do not see that. I see, *pauses* oh god, oh I’m staring right at it. I’m sorry, I didn’t see that before...It’s in a different form than the rest of the page. If it were highlighted with a blue background like the other choices are, I probably would have clicked on it right away.
 
 * 3/8 found the menu without being guided, but initially expected it to be in the upper right corner of their screen.
-  * 2 did not notice the authenticated menu until the 3rd time they opened the main menu, when they were asked to complete a profile-related task.
+  * 2 did not notice the authenticated menu until the 3rd time they opened the main menu, when they were asked to complete a profile-related task. Both followed the first protocol 
   > I would expect, this, where it says [participant’s first name], I think general convention, I'm used to seeing that in the top right corner. Google and many others have your profile in the top right corner. I was looking to the right of the Department of Veterans Affairs logo for my picture, my profile picture and my name. - P2
+  * The other participant followed the second protocol.
 
-
-* 2 participants easily opened the menu for the first task, when it was a profile related task.
+* 2 participants easily opened the menu for the first task, after we changed our protocol.
   * For the subsequent task, find your disability rating, 1 of the 2 participants had to be guided back to the menu. They had not recalled seeing that option in the menu.
 
 ### 3 of 8 participants on mobile devices expected to find their name, and access to their profile, in the right corner of the header.
