@@ -3,21 +3,28 @@
 ## Moderator logistics
 ### 2-3 days before the session – TBD
 
-Complete the following project-specific setup tasks:
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+> [!IMPORTANT]
+> Project-specific setup tasks
+> - Set up Mural board for notes and emerging themes
+> - Set up Powerpoint/Excel 
 
 ### Day of the session
-- Schedule Slack posts for each participant session in the [# feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) 
-- Mute Slack notifications
-- Type "observer instructions" into [# feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)
+
+> [!IMPORTANT]
+> Slack tasks
+> - Schedule posts for each participant session in the [# feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) 
+> - Mute Slack notifications
+> - Type "observer instructions" into [# feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)
+
 ### Starting the session
 
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+> [!IMPORTANT]
+> Tasks
+> - (If using CAG for the mapping activity, sign into CAG)
+> - In the Zoom Attendees section, make sure everyone except the participant is on mute.
+> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+> - Check your [screensharing setup] and share permissions for participants.
+> - When the participant is ready, begin the session with the following intro*
 
 ## Intro - 5 minutes
 
@@ -48,7 +55,7 @@ Before we start, I have a few things that I need to go over with you:
 
 	If yes: **Once I start recording, I am going to ask for your confirmation again that you are okay with me recording this session and potentially sharing video clips with internal colleagues.**
 
-*Start recording.*
+`Start recording.`
 
 - **I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?**
 - **Would you be comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
@@ -70,18 +77,15 @@ I’d like to start with a few questions.
 
 Thanks for sharing your experience and history with me! Before we go to the next part, do you recall giving permission to gather your military history ahead of time as part of this research session?
 
-`If permission yes`
+`If permission YES`
 Great. We’re going to use this information and do a mapping activity together.
 
-`If permission no`
+`If permission NO`
 Thanks for letting me know. I’d like to shift to showing you an approach to presenting military job history information . We’re in very early stages and hope to get input that will shape how we 
 
 ## Mapping activity - 15 minutes
 
 `If Mural`
-
-> [!IMPORTANT]  
-> If using Mural
 
 I have your information in a virtual whiteboard called Mural. What I’d like to do is organize it together, with you telling me how you would group things. This will help me understand ways in which people organize their history in a way that makes sense to them.
 
@@ -93,10 +97,11 @@ Here are the items. Let’s go through them – is there any information that se
 ### Grouping items (5 minutes)
 Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
 
-	Look for:
-	- Chronological order
-	- Grouping types
-	- What’s missing
+> [!tip] 
+> Look for these themes:
+> - Chronological order
+> - Grouping types
+> - What’s missing
 
 ### Ranking items (5 minutes)
 
@@ -106,10 +111,7 @@ Is there anything else you’d like to share with me before we move to the last 
 
 Thanks so much for doing that mapping activity with me! It will really help me understand how people think about and use their military history.
 
-`If using CAG`
-
-> [!IMPORTANT]  
-> If using PowerPoint/Excel in CAG
+`If using Powerpoint/Excel in CAG`
 
 I have your information in a Powerpoint/Excel spreadsheet. What I’d like to do is organize it together, with you telling me how you would group things. This will help me understand ways in which people organize their history in a way that makes sense to them.
 
@@ -121,14 +123,8 @@ Here are the items. Let’s go through them – is there any information that se
 ### Grouping items (5 minutes)
 Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
 
-	Look for:
-	- Chronological order
-	- Grouping types
-	- What’s missing
-
-
 > [!tip] 
-> Look for:
+> Look for these themes:
 > - Chronological order
 > - Grouping types
 > - What’s missing
@@ -145,9 +141,10 @@ Thanks so much for doing that mapping activity with me! It will really help me u
 
 For our last portion of the session, I’d like to share with you some designs. It has fake information in it right now, but this is an initial idea of one way to group a veteran’s military occupational specialties. I’d like to go through it with you and get your sense of what makes sense or what does not make sense to you.
 
-	- In Mural, show the wireframe
-	- Include stickies with questions (gradually unhide them)
-	- add stickies underneath with participant comments
+> [!IMPORTANT]
+> - In Mural, show the wireframe
+> - Include stickies with questions (gradually unhide them)
+> - Add stickies underneath with participant comments
 
 - What’s the first thing that comes to mind when you look at this?
 - How does this compare to the ordering we did just before this? [show side by side if needed]
