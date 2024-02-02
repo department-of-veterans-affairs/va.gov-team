@@ -8,27 +8,26 @@ Draft date: 01/22/2024
 
 Findings from VAOS and other appointment teams' past studies, grouped into common themes. 
 
-| Theme | Description |
-|-------|-------------|
-| [Login stories](#login-stories) <br> Code: `login` | Veterans want their health care information to be safe and secure, and as easy for them to access as possible. |
-| [Finding the appointments tool](#finding-the-appointments-tool) <br> Code: `find-appts` | Veterans need to be able to easily find the appointments tool from their notifications, through My VA, My HealtheVet, and everywhere else they start the scheduling journey. |
-| [Navigating the appointments tool](#navigating-the-appointments-tool) <br> Code: `appts-nav` | Veterans want to be able to easily find their upcoming, past, and pending appointments. |
-| [Managing appointments](#managing-appointments) <br> Code: `manage-appts`     |  |
-| [Data needs](#data-needs) <br> Code: `data`                       | Veterans need to understand what an appointment is for, who it's with, and where it is. Often this information is missing from the appointment. |
-| [Scheduling stories](#scheduling-stories) <br> Code: `sched`              |  |
-| [Pending appointment stories](#pending-appointment-stories) <br> Code: `pending-story` | Veterans want to easily find the status of appointments that have been requested but not scheduled yet. And they want them scheduled as soon as possible. |
-| [Notifications](#notifications) <br> Code: `notify` | Findings related to notifications and status updates |
-| [Accessibility stories](#accessibility-stories) <br> Code: `a11y`| Findings related to accessibility | 
-| [Dead ends and errors](#dead-ends-and-errors) <br> Code: `error` | Findings related to system errors or dead end states | 
+| Theme | Code | Description |
+|-------|------|-------------|
+| [Login stories](#login-stories) | `login` | Veterans want their health care information to be safe and secure, and as easy for them to access as possible. |
+| [Finding the appointments tool](#finding-the-appointments-tool) | `find-appts` | Veterans need to be able to easily find the appointments tool from their notifications, through My VA, My HealtheVet, and everywhere else they start the scheduling journey. |
+| [Navigating the appointments tool](#navigating-the-appointments-tool) | `appts-nav` | Veterans want to be able to easily find their upcoming, past, and pending appointments. |
+| [Managing appointments](#managing-appointments) | `manage-appts`     |  |
+| [Data needs](#data-needs) | `data`                       | Veterans need to understand what an appointment is for, who it's with, and where it is. Often this information is missing from the appointment. |
+| [Scheduling stories](#scheduling-stories) | `sched`              |  |
+| [Pending appointment stories](#pending-appointment-stories) | `pending-story` | Veterans want to easily find the status of appointments that have been requested but not scheduled yet. And they want them scheduled as soon as possible. |
+| [Notifications](#notifications) | `notify` | Findings related to notifications and status updates |
+| [Accessibility stories](#accessibility-stories) | `a11y`| Findings related to accessibility | 
+| [Dead ends and errors](#dead-ends-and-errors) | `error` | Findings related to system errors or dead end states | 
 
 Requests for specific features from past studies.
 
 Code format: `fr-[feature-code]`
 
-| Feature request                         | User story | 
-|----------------------------------------|-------------|
-| [Rescheduling](#rescheduling) <br> Code: `fr-reschedule` | As a Veteran, i can easily change a scheduled appointment's time and date. |
-
+| Feature request                  | Code      | User story | 
+|----------------------------------| ------|-------------|
+| [Rescheduling](#rescheduling) | `fr-reschedule` | As a Veteran, i can easily change a scheduled appointment's time and date. |
 
 
 ## Relevant findings
@@ -95,7 +94,7 @@ Participants expected that all VA clinics should be able to easily access their 
 
 ### Finding the appointments tool
 
-Code: `find-appts`
+`find-appts`
 
 Most participants were confused when navigating across multiple portals to find the appointments list.
 
@@ -123,7 +122,7 @@ When navigating the prototype, no participant was able to find the list of facil
 
 ### Managing appointments
 
-Code: `manage-appts`
+`manage-appts`
 
 All participants were able to easily use the print feature.
 
@@ -222,7 +221,7 @@ Upcoming appointment detail page:
 
 ### Pending appointment stories
 
-Code: `pending-story`
+`pending-story`
 
 *Veterans want to easily find the status of appointments that have been requested but not scheduled yet. And they want them scheduled as soon as possible.*
 
