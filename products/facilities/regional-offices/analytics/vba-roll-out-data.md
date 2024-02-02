@@ -3,11 +3,10 @@ Source: (TBD)
 
 ## VBA editor stats
 
-| Metric | Baseline | 1Q 2024 | 2Q 2024 | 3Q 2024 | 4Q 2024
-|---|---|---|---|---|---|
-| Total # of editors |  | | | | | |
-| % which have never logged in | | | | |
-| % which logged in during the 30 days prior | | | | | |
+| Metric | Baseline (measured January 2024)  | February 2024 | March 2024 | 
+| Total # of editors | 15 | | | 
+| % which have never logged in | 7 | 
+| % which logged in during the 30 days prior | 6 | | 
 
 ## Roll-out phase
 
