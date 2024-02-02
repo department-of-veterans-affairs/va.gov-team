@@ -1,4 +1,13 @@
 # Design Weekly Sync Agenda
+## 2024-02-05
+Attendees: TBD
+
+- Update on our proposed approach for SiP sections on EZ and EZR:
+    - Component we plan to use is on the [design system site](https://design.va.gov/components/card#claims-status) and is live to 100% of users in the claims status tool
+    - Auth Exp is also looking to implement this component for their Claims and Appeals section
+    - Do we want to consider implementing this solution without formal usability testing? We could still plan to get feedback on it when we do testing
+    - The only caveat is that we'd be using it a little differently than it's used for claims since we're alerting the user to unfinished form content
+
 ## 2024-01-29
 Attendees: TBD
 
