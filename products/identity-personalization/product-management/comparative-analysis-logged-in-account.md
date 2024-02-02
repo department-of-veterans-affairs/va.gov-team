@@ -146,4 +146,8 @@ Gap has a section of their navigation that allows you to seamlessly navigate bet
 
 ## What we can learn from the mobile app IA
 
-(Will expand on this) We can learn some things, and they can be applied to either model.
+There is a lot we can learn from the mobile app IA and navigation. Since the mobile app has the benefit of being able to focus on track-and-manage tools only, it's much easier to test, iterate, and improve. Fortunately, we can still learn lessons from this work for the web even though the web has to consider "logged out" content. 
+
+[This is a summary of research completed in 2023 by the mobile team on the app's IA and navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/2023%20VA%20Mobile%20App%20-%20IA%20%26%20Navigation%20Project%20Summary.pdf). A lot of these learnings could be applied to the web and might be a good place for us to start.
+
+Additionally, despite the app's ability to not have to consider most of VA.gov's content, I think these learnings can be applied to the site regardles of whether we eventually pursue the portal model or whether we stick with something closer to the retail model. We should not be afraid to learn from the mobile team's work and apply learnings to the web without having to start from scratch or reinvent the wheel.
