@@ -11,7 +11,7 @@ Ability to refill prescriptions
 | Feature | Usage | 
 |---|---|
 |[Detail view for VA prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/VA-meds-detail-list-view.md) | View details for medications adninistered by VA |
-|[Detail view for non-VA prescriptionsl] () |View details for medications administered outside of VA|
+|[Detail view for non-VA prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/Non-VA-meds-list-detail-view.md) |View details for medications administered outside of VA|
 
 ## Requirements
 
