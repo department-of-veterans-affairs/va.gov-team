@@ -53,7 +53,8 @@ AF changes are made without a release and screen/content changes can be made in 
 
 **5.) Flagship team implements AF strategy** 
     - FE Lead to Update JSON 
-    - QA validates JSON configuration is correct 
+    - QA validates JSON configuration is correct - notates this on the ticket 
+    - [AF testing instructions ](https://dsvavsp.testrail.io/index.php?/suites/view/92&group_by=cases:section_id&group_order=desc&display_deleted_cases=0)
 
  **6.) Pre-Production QA testing**
     - Validate JSON configuration is correct 
@@ -61,9 +62,11 @@ AF changes are made without a release and screen/content changes can be made in 
 
   **7.) Turn on AF as planned by Engineering Lead**
     - Validate its on in Production by at least checking AF data
+    - Flagship PM keeps PO informed 
 
   **8.) Root cause implementation / issue resolve**
      - Ex. Hotfix / normal release goes out, VA outage / update completed 
+     - If applicable, link root cause ticket to AF ticket 
 
   **9.) Turn off AF as planned by Engineering Lead**
 
