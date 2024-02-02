@@ -74,9 +74,8 @@ Note that the Poll Everywhere tool was limited to 25 participant responses.
 
 
 ### What best describes you?
-|                             |                |
-| ---------------------------- | -------------- |
-| **Response**                 | **Percentage** |
+|**Response**            |**Percentage**     |
+| :---------------------------- | :-------------- |
 | National VSO                 | 70%            |
 | State VSO                    | 13%            |
 | County or Local/Regional VSO | 9%             |
@@ -90,9 +89,8 @@ Other:
 
 
 ### How often do you use SEP?
-|                             |                |
-| --------------------------- | -------------- |
-| **Response**                | **Percentage** |
+|       **Response**                       |    **Percentage**            |
+| :--------------------------- | :-------------- |
 | Daily/weekly                | 41%            |
 | Monthly                     | 18%            |
 | Rarely/never                | 32%            |
@@ -102,9 +100,8 @@ Other:
 
 
 ### How often do you use VBMS?
-|                              |                |
-| ---------------------------- | -------------- |
-| **Response**                 | **Percentage** |
+|     **Response**                                |     **Percentage**            |
+| :---------------------------- | :-------------- |
 | Daily/weekly                 | 90%            |
 | Monthly                      | 5%             |
 | Rarely/never                 | 5%             |
@@ -114,9 +111,8 @@ Other:
 
 
 ### How often do you use a third party claims management software?
-|              |                |
-| ------------ | -------------- |
-| **Response** | **Percentage** |
+|   **Response**           |  **Percentage**              |
+| :------------ | :-------------- |
 | Daily/weekly | 52%            |
 | Monthly      | 10%            |
 | Rarely/never | 40%            |
