@@ -45,7 +45,7 @@ Ability to refill prescriptions
 
 
 ## Errors and alerts 
-[User flow] (https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/p/5FC7ADD6-6C9A-4EC3-A47A-9AF8379062CC/canvas)
+[User flow](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/p/5FC7ADD6-6C9A-4EC3-A47A-9AF8379062CC/canvas)
 <!-- Any alerts that could display for this feature and what triggers them. -->
 
 ### Alert that user is not registered at a VA facility
