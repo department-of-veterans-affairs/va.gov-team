@@ -3,7 +3,7 @@ name: Analytics Internal - Dashboard Data QA
 about: To request a new dashboard or cards be configured for usability
 title: Analytics Internal - Dashboard Data QA
 labels: analytics-insights
-assignees: ''
+assignees: johnny-jesensky-adhoc
 
 ---
 
