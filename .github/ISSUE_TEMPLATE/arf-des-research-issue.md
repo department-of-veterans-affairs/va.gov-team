@@ -17,6 +17,7 @@ assignees: ''
 #### What’s the solution or plan to address the problem
 <!-- Detailed Plan: Outline the proposed solution in detail, ensuring the description is clear enough for anyone to be able to pick up the task. -->
 <!-- Expected Output: Specify what the final output should look like. -->
+<!-- Fidelity -->
 <!-- High level methodology, research goal or hypothesis, reference links, and/or what user group/persona -->
 
 ### Acceptance Criteria
