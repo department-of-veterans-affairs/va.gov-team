@@ -60,17 +60,17 @@ Before we go into Drupal, I'd love to learn a little more about you and the work
 - Does P refer to knowledge base materials?
 - Does P have questions about any interactions (buttons, checkboxes, etc)?  
 - Does P rely on any resources outside the Drupal interface to complete their tasks? What kind of resources? (Word doc, web page, knowledge base articles, etc)
-- [Etc]
 
+## Stop sharing screen
+Now that you're done with your editing task, I have some questions for you about your experience with training and support documents. Before we move into those, you can stop sharing your screen. 
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 15 minutes
 
 * Have you been able to attend the training sessions offered by the Facilities team? Which ones?
 * Did the trainings offer enough support to get you started on your editing?
 * Have you made use of any of the self-service support materials in the knowledge base? If yes, which ones?
 * Did the KB articles provide the support you needed to complete your tasks?
 
-  
 * Thinking of the process overall, were there any specific parts you found particularly challenging or confusing? 
 * How do you feel about the guidance and error messaging provided? 
 * Do you have any suggestions on how the overall process for adding regional offices to Drupal could be improved?
@@ -80,7 +80,7 @@ Before we go into Drupal, I'd love to learn a little more about you and the work
 * Do you have any questions for me?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works for editors such as yourself.
 
