@@ -38,7 +38,7 @@ The session’s hour-long agenda included:
 
 ## Responses to Demographic and Behavioral Questions
 
-### Note that the Poll Everywhere tool was limited to 25 participant responses.
+Note that the Poll Everywhere tool was limited to 25 participant responses.
 
 ### Where are you located?
 
@@ -74,8 +74,7 @@ The session’s hour-long agenda included:
 
 
 ### What best describes you?
-
-|                              |                |
+|                             |                |
 | ---------------------------- | -------------- |
 | **Response**                 | **Percentage** |
 | National VSO                 | 70%            |
@@ -91,7 +90,6 @@ Other:
 
 
 ### How often do you use SEP?
-
 |                             |                |
 | --------------------------- | -------------- |
 | **Response**                | **Percentage** |
@@ -104,7 +102,6 @@ Other:
 
 
 ### How often do you use VBMS?
-
 |                              |                |
 | ---------------------------- | -------------- |
 | **Response**                 | **Percentage** |
@@ -117,7 +114,6 @@ Other:
 
 
 ### How often do you use a third party claims management software?
-
 |              |                |
 | ------------ | -------------- |
 | **Response** | **Percentage** |
@@ -147,7 +143,7 @@ The numbers in parentheses at the end of each item reflect the number of people 
 
 3. Ability for the Veteran to see and request/select a specific person from the Veteran Service Organization (2)
 
-******Discussion**
+### Discussion
 
 - **There are access issues.** The two blocks on the back of the 21-22 \[20: Limitation of Consent; 21: Authorization to change claimant’s address] give you access to records. If the boxes aren’t checked, you don’t get access to the eFolder in VBMS. Can require a rep to go to a field office to prove the VSO should have access and get eFolder access initiated.
 
@@ -256,7 +252,7 @@ The numbers in parentheses at the end of each item reflect the number of people 
 
 - **The distinction between the purpose of VBMS, SEP, third-party tools, and a new tool is unclear. And they need to work well together.** One participant said it’s unclear the need to keep SEP with VMBS. Another said they like the idea of everything in one system: VBMS, SEP, SEHARES, CASEFLOW. Another said they love using their claim system (Vetraspec) and don't want their Veterans going online and doing things online \[that aren’t talking to the other systems]; they can lose track.
 
-- **Don’t just build, maintain.** If something like SEP is built well and maintained well, running into those silly issues like outdated forms won’t happen. These kinds of things are really important.    ****
+- **Don’t just build, maintain.** If something like SEP is built well and maintained well, running into those silly issues like outdated forms won’t happen. These kinds of things are really important.    
 
 
 ### What this means for us
