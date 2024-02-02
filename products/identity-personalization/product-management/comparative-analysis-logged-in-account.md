@@ -128,9 +128,10 @@ We don't need yet another comparative analysis of the portal model. Here are som
 - [Logged-in Homepage Redesign: Comparative Analysis | Spring 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/comparative-analysis.md)
 - [My VA action items: Comparative analysis | May 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2021-action-items-discovery/action-items-comparative%20analysis.md)
 
-### Things worth calling out about different portals
+### The big concern: Going back-and-forth between the logged-in and logged-out experiences
 
-(Will expand on this)
+The biggest concern stated internally when we talk about having a more unique portal experience is that people need to be able to readily get back and forth between "learn and apply" content and "track and manage" tasks, as veterans may apply for different benefits over the course of their lives. Luckily, it's common to see toggles in navigation to get between multiple sites. Here are some examples:
 
-- There are patterns for getting from the logged in account site back to the "marketing" site.
-- There's a lot we can learn from the VA mobile app's IA.
+## What we can learn from the mobile app IA
+
+(Will expand on this) We can learn some things, and they can be applied to either model.
