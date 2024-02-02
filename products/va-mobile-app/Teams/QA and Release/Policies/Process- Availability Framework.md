@@ -36,33 +36,36 @@ AF changes are made without a release and screen/content changes can be made in 
 **1.) Availability Framework use case is identified** 
 
 **2.) POs have approved the use of Availability Frame** 
-   - AF Ticket Template created and assigned 
+   - AF Ticket Template created
+   - POs approval to use AF added to the ticket 
 
-**3.) Determine AF strategy** 
+**3.) Impacted Flagship Team and FE Lead determine AF strategy and timing** 
    - page placement(s) 
    - components being used
    - Content and formatting 
    - When it will be turned on / off
-   - What is the remediation to turn off AF 
+   - What is the remediation to turn off AF
+   - Testing requirements
+   - Consider App Version needs, tracking and complexity 
      
-**4.) Get AF strategy approved by POs** 
+**4.) Flagship PM to get PO approvals for AF strategy** 
+   - PO approval added to the ticket 
 
-**5.) Implement changes** 
-    - Update JSON 
-    - Sample JSON below ; for fixed versions those samples are not provided
-    - Validate JSON configuration is correct 
-    - Consider App Version needs, tracking and complexity 
+**5.) Flagship team implements AF strategy** 
+    - FE Lead to Update JSON 
+    - QA validates JSON configuration is correct 
 
- **6.) QA testing**
+ **6.) Pre-Production QA testing**
     - Validate JSON configuration is correct 
     - Validate AF works as expected - turned on / off 
 
-  **7.) Turn on AF as planned**
+  **7.) Turn on AF as planned by Engineering Lead**
+    - Validate its on in Production by at least checking AF data
 
   **8.) Root cause implementation / issue resolve**
      - Ex. Hotfix / normal release goes out, VA outage / update completed 
 
-  **9.) Turn off AF as planned**
+  **9.) Turn off AF as planned by Engineering Lead**
 
   **10.) Document use case and analytics in this document** 
 
