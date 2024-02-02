@@ -4,14 +4,14 @@
 ### 2-3 days before the session – TBD
 
 > [!IMPORTANT]
-> Project-specific setup tasks
+> Project-specific setup tasks:
 > - Set up Mural board for notes and emerging themes
 > - Set up Powerpoint/Excel 
 
 ### Day of the session
 
 > [!IMPORTANT]
-> Slack tasks
+> Slack tasks:
 > - Schedule posts for each participant session in the [# feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) 
 > - Mute Slack notifications
 > - Type "observer instructions" into [# feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)
@@ -19,7 +19,7 @@
 ### Starting the session
 
 > [!IMPORTANT]
-> Tasks
+> Session tasks:
 > - (If using CAG for the mapping activity, sign into CAG)
 > - In the Zoom Attendees section, make sure everyone except the participant is on mute.
 > - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
