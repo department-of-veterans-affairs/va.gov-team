@@ -4,13 +4,36 @@ A meta-analysis of past research to identify recurring themes. Improvements in t
 
 Draft date: 01/22/2024 
 
-## Data needs
+## Overview
 
-Code: `data`
+Findings from VAOS and other appointment teams' past studies, grouped into common themes. 
 
-*Veterans need to understand what an appointment is for, who it's with, and where it is. Often this information is missing from the appointment.*
+| Theme | Description |
+|-------|-------------|
+| [Login stories](#login-stories) <br> Code: `login` | Veterans want their health care information to be safe and secure, and as easy for them to access as possible. |
+| [Finding the appointments tool](#finding-the-appointments-tool) <br> Code: `find-appts` | Veterans need to be able to easily find the appointments tool from their notifications, through My VA, My HealtheVet, and everywhere else they start the scheduling journey. |
+| [Navigating the appointments tool](#navigating-the-appointments-tool) <br> Code: `appts-nav` | Veterans want to be able to easily find their upcoming, past, and pending appointments. |
+| [Managing appointments](#managing-appointments) <br> Code: `manage-appts`     |  |
+| [Data needs](#data-needs) <br> Code: `data`                       | Veterans need to understand what an appointment is for, who it's with, and where it is. Often this information is missing from the appointment. |
+| [Scheduling stories](#scheduling-stories) <br> Code: `sched`              |  |
+| [Pending appointment stories](#pending-appointment-stories) <br> Code: `pending-story` | Veterans want to easily find the status of appointments that have been requested but not scheduled yet. And they want them scheduled as soon as possible. |
+| [Notifications](#notifications) <br> Code: `notify` | Findings related to notifications and status updates |
+| [Accessibility stories](#accessibility-stories) <br> Code: `a11y`| Findings related to accessibility | 
+| [Dead ends and errors](#dead-ends-and-errors) <br> Code: `error` | Findings related to system errors or dead end states | 
 
----
+Requests for specific features from past studies.
+
+Code format: `fr-[feature-code]`
+
+| Feature request                         | User story | 
+|----------------------------------------|-------------|
+| [Rescheduling](#rescheduling) <br> Code: `fr-reschedule` | As a Veteran, i can easily change a scheduled appointment's time and date. |
+
+
+
+## Relevant findings
+
+### Data needs
 
 Missing, confusing appointment information makes the lists difficult to use.
 
@@ -70,7 +93,7 @@ Participants expected that all VA clinics should be able to easily access their 
 [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#participants-expected-that-all-va-clinics-should-be-able-to-easily-access-their-va-medical-information), 2021-05
 
 
-## Finding the appointments tool
+### Finding the appointments tool
 
 Code: `find-appts`
 
@@ -98,7 +121,7 @@ When navigating the prototype, no participant was able to find the list of facil
 
 [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#no-participant-was-able-to-find-the-list-of-facilities-in-the-profile-when-starting-from-the-vagov-homepage-without-guidance), 2021-05
 
-## Managing appointments
+### Managing appointments
 
 Code: `manage-appts`
 
@@ -142,7 +165,6 @@ Participants wanted tools to help them contact their provider.
 
 [MHV and VAOS Appointments List Discovery](./2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#participants-wanted-tools-to-help-them-contact-their-provider), 2022-01
 
-
 5/9 participants said they don't use the appointment list in MHV often - talks about how they use the appointment list:
 * 5/9: Verify that their upcoming appointments are properly scheduled by VA
 * 3/9: Check if they have upcoming appointments
@@ -151,14 +173,7 @@ Participants wanted tools to help them contact their provider.
 
 [MHV and VAOS Appointments List Discovery](./2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#59-participants-said-they-dont-use-the-appointment-list-in-mhv-often), 2022-01
 
-
-## Navigating the appointments tool
-
-Code: `appts-nav`
-
-*Veterans want to be able to easily find their upcoming, past, and pending appointments.*
-
----
+### Navigating the appointments tool
 
 All participants easily navigated appointment details pages.
 
@@ -188,7 +203,6 @@ The back link was easy to find and use.
 
 [Appointment List Usability Test](./2022-09-appts-list-usability/research-findings.md#6-the-back-link-was-easy-to-find-and-use), 2022-09
 
-
 In the prototype, most participants found their requested appointments in the status dropdown
 
 [Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#most-participants-found-their-requested-appointments-in-the-status-dropdown), 2021-11
@@ -206,9 +220,7 @@ Upcoming appointment detail page:
 
 [Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#appointment-list-and-details-pages-navigation), 2021-11
 
-
-
-## Pending appointment stories
+### Pending appointment stories
 
 Code: `pending-story`
 
@@ -248,13 +260,7 @@ The term “pending” was confusing for some participants.
 
 [Appointment List Usability Test](./2022-09-appts-list-usability/research-findings.md#1-the-term-pending-was-confusing-for-some-participants), 2022-09
 
-## Login stories
-
-Code: `login`
-
-*Veterans want their health care information to be safe and secure, and as easy for them to access as possible.*
-
----
+### Login stories
 
 Most participants struggled with login.
 
@@ -270,8 +276,6 @@ Logging in was the biggest navigation challenge for participants.
 [Appointments list Screenreader Usability Test](./2023-02-appt-list-usability-screenreader/research-findings.md#logging-in-was-the-biggest-navigation-challenge-for-participants) 2023-02
 
 ## Scheduling stories
-
-Code: `sched`
 
 How the process of choosing or changing a provider works.
 
@@ -392,8 +396,6 @@ Seeing recently visited facilities was useful for recognizing the facilities, no
 
 ## Accessibility stories
 
-Code: `a11y`
-
 Recruiting and technical challenges made it difficult to test with screen reader users.
 
 [Appointments list Screenreader Usability Test](./2023-02-appt-list-usability-screenreader/research-findings.md#recruiting-and-technical-challenges-made-it-difficult-to-test-with-screen-reader-users) 2023-02
@@ -404,22 +406,15 @@ Small text is a challenge.
 
 ## Notifications
 
-Code: `notify`
 
 ## Feature requests
 
-_Requests for specific features_
+### Rescheduling
 
-Codes: `fr-[feature-code]`
-
-**Feature codes**
-
-Rescheduling: `fr-reschedule`
-As a Veteran, i can easily change a scheduled appointment's time and date.
 
 ## Dead ends and errors
 
-Code: `error`
+
 
 ## Unthemed
 
