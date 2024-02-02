@@ -33,35 +33,6 @@ AF changes are made without a release and screen/content changes can be made in 
 * Although we do generally block the underlying API calls for screens that are hidden behind AF banners (so the analytics/activity logs match the , there are some exceptions: v0/user/contact-info when navigating away from the Letters Overview screen (ticket #7522), v0/military-service-history on the Home Screen, and the prescriptions list vo/health/rx/prescriptions?.... on the Prescription History screen
 * Because of the display logic for when users are/are not authorized for claims decision letters, if we ever need to apply AF barriers to claims, claims history, or claims decision letters, it should be tested internally first to make sure it blocks the desired screens for all users.
 
-
-### Identified Use Cases 
-
-| # | Use Case Description| Actor | Goal | 
-| ----- | ------- | ----- | ----- | 
-| 1 | Deny Access. A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). | 
-| 2 | Deny Content. A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
-| 3 | Allow content and function. A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
-
-In order to get availability framework banners working in production, we need to put JSON into firebase. We've added some guardrails, but malformed JSON (ex: trailing commas) will cause crashes in the app. As a best practice, copy-paste from the known-to-work JSON below, and immediately double-check the functionality in the app, when setting this for a screen that's in production.
-
-For the 'fixed' versions of these, you will also need to work with a front-end engineer to add version information (ex: only show for app version X.XX and below) to the banner. Samples not provided for those.
-
-| Use Case | Sample | 
-|------- | ------- | 
-| Use Case 1 (deny access) | { "enabled": false, "errorMsgTitle": "The app isn't working right now", "errorMsgBody": "While we fix the problem, you can still get your VA health and benefits information on VA.gov.", "type": "DenyAccess" } |
-|Use Case 2 (deny content), not yet fixed: | { "enabled": false, "errorMsgTitle": "We found a problem", "errorMsgBody": "We're sorry. We're fixing a problem we found [with/in this thing]. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": false } | 
-|Use Case 2 (deny content), with fix released: | { "enabled": false, "errorMsgTitle": "You need to update the app", "errorMsgBody": "We fixed a problem [with/in this thing]. But to use this tool again, you need to update the app. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": true } | 
-|Use Case 3 (allow content and function), not yet fixed: | { "enabled": false, "errorMsgTitle": "You may have trouble with [explain the thing]", "errorMsgBody": "We're fixing a problem [with/in this thing] that's affecting some Veterans. If you can't use [the thing] and need help now, call us.", "type": "AllowFunction", "appUpdateButton": false } | 
-|Use Case 3 (allow content and function), with fix released: | 	 { "enabled": false, "errorMsgTitle": "You may need to update the app", "errorMsgBody": "We've fixed a problem some Veterans were having [with/in this thing]. If you're still having trouble using this tool, you may need to update the app. If you need help now with [the thing], call us.", "type": "AllowFunction", "appUpdateButton": true } |
-
-
-### Real-life Use Cases: 
-
-| # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
-| ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
-| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF. Looks like AF was live for around 75 minutes. In that time it was shown 18,538 times to 14,300 users. | 
-| 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | Required AF improvements to facilitate this use case | 
-
 ----------------------
 
 ## High level steps
@@ -97,27 +68,38 @@ For the 'fixed' versions of these, you will also need to work with a front-end e
 
   **10.) Document use case and analytics in this document** 
 
+----------------------
+
+
+### Identified Use Cases 
+
+| # | Use Case Description| Actor | Goal | 
+| ----- | ------- | ----- | ----- | 
+| 1 | Deny Access. A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). | 
+| 2 | Deny Content. A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
+| 3 | Allow content and function. A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
+
+In order to get availability framework banners working in production, we need to put JSON into firebase. We've added some guardrails, but malformed JSON (ex: trailing commas) will cause crashes in the app. As a best practice, copy-paste from the known-to-work JSON below, and immediately double-check the functionality in the app, when setting this for a screen that's in production.
+
+For the 'fixed' versions of these, you will also need to work with a front-end engineer to add version information (ex: only show for app version X.XX and below) to the banner. Samples not provided for those.
+
+| Use Case | Sample | 
+|------- | ------- | 
+| Use Case 1 (deny access) | { "enabled": false, "errorMsgTitle": "The app isn't working right now", "errorMsgBody": "While we fix the problem, you can still get your VA health and benefits information on VA.gov.", "type": "DenyAccess" } |
+|Use Case 2 (deny content), not yet fixed: | { "enabled": false, "errorMsgTitle": "We found a problem", "errorMsgBody": "We're sorry. We're fixing a problem we found [with/in this thing]. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": false } | 
+|Use Case 2 (deny content), with fix released: | { "enabled": false, "errorMsgTitle": "You need to update the app", "errorMsgBody": "We fixed a problem [with/in this thing]. But to use this tool again, you need to update the app. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": true } | 
+|Use Case 3 (allow content and function), not yet fixed: | { "enabled": false, "errorMsgTitle": "You may have trouble with [explain the thing]", "errorMsgBody": "We're fixing a problem [with/in this thing] that's affecting some Veterans. If you can't use [the thing] and need help now, call us.", "type": "AllowFunction", "appUpdateButton": false } | 
+|Use Case 3 (allow content and function), with fix released: | 	 { "enabled": false, "errorMsgTitle": "You may need to update the app", "errorMsgBody": "We've fixed a problem some Veterans were having [with/in this thing]. If you're still having trouble using this tool, you may need to update the app. If you need help now with [the thing], call us.", "type": "AllowFunction", "appUpdateButton": true } |
+
+
+### Real-life Use Cases: 
+
+| # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
+| ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
+| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF. Looks like AF was live for around 75 minutes. In that time it was shown 18,538 times to 14,300 users. | 
+| 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | Required AF improvements to facilitate this use case | 
 
 
 
-------------------------
 
-# How to improve Availability Framework 
-
-## Current AF functionality does not support my needs, I need it be improved: 
-
- **1.) Someone identifies AF functionality does not support a use case or finds after its usage it could be improved**
- 
-  **2.) Use case and improvements are captured in a ticket with all details they are aware of** 
- 
-  **3.) Ticket groomed by the most relevant Flagship App Mobile Team** 
- 
- **4.) Ticket is prioritized by Team** 
- 
-  **5.) Team Notifies QA and Release of the upcoming change**
- 
-  **6.) Qa and Release Team updates AF documents to account for the new chabge so it can be considered for future usage** 
-
-
-------------------------
 
