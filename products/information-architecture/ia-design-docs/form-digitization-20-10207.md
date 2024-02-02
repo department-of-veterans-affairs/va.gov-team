@@ -47,10 +47,10 @@
 *List of additional crosslinking opportunities across VA.gov. This requires stakeholder approval and collaboration with Sitewide Content so this list will be iterative as we get feedback.*
 
 1. **Online Form 21-526EZ** - Modify (paper PDF mentioned only at this time)
-  - Placement description: TBD - decided with the team working on Form 21-526EZ
+  - Placement description: At the end of form flow after folks have submitted form 21-526EZ
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: I know the team has already connected with the Benefits Disability team and are in conversation on how to implement this form into the online 21-526ez form. If there's any additional support needed here in regards to the 21-526ezform flow and where to place this form, we would definitely be interested in sharing any feedback or answer any questions. We've discussed how this could look and we've thought maybe adding at the end of the flow so folks aren't sent through another form flow in the middle of another, but would love to hear y'alls thoughts on this and other ideas.
+  - Notes: I know the team has already connected with the Benefits Disability team and are in conversation on how to implement this form into the online 21-526ez form. IA has discussed how this might look as more forms are digitized and we want to ensure the least disruptive path so the folks are able to complete the task (form) they are currently on before moving on to the next. We believe adding additional forms related to form 21-526EZ should be added at the end of the form flow after the user has been able to submit.
 
 --------
 
@@ -58,15 +58,15 @@
   - Placement description: We defer to the Content team for where this entry point should be on this page!
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: We are also suggesting adding an entry to the "After you file your claim" page in case folks have already submitted the 21-526EZ form and aren't going through the online form, but who are experiencing hardship and are interested in learning about options that could be available to them.
+  - Notes: We are also suggesting adding an entry in the "After you file your claim" page for folks who have already submitted the 21-526EZ form and aren't going through the online form are still able to find this form.
     
 --------
 
 3. **Online Form 21P-527EZ** - Modify (paper PDF mentioned only at this time)
-  - Placement description: TBD - decided with the team working on Form 21P-527EZ
+  - Placement description: At the end of form flow after folks have submitted form 21P-527EZ
   - Link label: TBD by Sitewide Content
   - Link destination:
-  - Notes: This is another form that is already digitized that we believe it could be helpful to mention priority processing in the pension form flow. The pension form will be reactivated soon and so I definitely suggest connecting with the team as they begin working on the next version.
+  - Notes: This is another form that is already digitized that we believe should link priority processing. Similar to the online experience of form 21-526EZ, we want to ensure folks are able to complete the form they're on before moving on to additional forms. The pension form will be reactivated soon so align with the team as they begin working on the next version to include a link to priority processing.
 
 --------
 
@@ -74,37 +74,37 @@
   - Placement description: Under "How long does it take VA to make a decision?" section
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: We noticed the pension benefit hub doesn't have a similar "After you apply" page so we are recommending adding it to the "How to apply" page. Similar reasoning in that there are folks who might have already submitted their claim and are interested in applying to priority processing later due to changes in circumstances that qualify them for this form.
+  - Notes: We noticed the pension benefit hub doesn't have an "After you apply" page so we recommend adding it to the "How to apply" page. Similar reasoning in that there are folks who might have already submitted their claim and are interested in applying to priority processing later due to changes in circumstances that qualify them for this form.
 
 <img width="400" alt="Section in Veterans pension titled How long does it take VA to make a decision" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/cacc259f-a623-492c-8d7c-5156a82baf27">
 
 --------
 
 5. **[VA Survivors Pension](https://www.va.gov/pension/survivors-pension/)** - Add
-  - Placement description: Under "How long does it take VA to make a decision?"
+  - Placement description: Under "How long does it take VA to make a decision?" for static page and at the end of form flow after folks have submitted form 21P-534EZ once form is digitized
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: This form isn't currently digitized, but this is another that we suggest working with that designated team to see if priority processing can be added to the form flow. For now, we suggest adding it to the Survivors pension form landing page. As mentioned above, there isn't an "After you apply" page in this hub.
+  - Notes: This form isn't currently digitized, but this is another form where we suggest working with that designated team to include a link to priority processing at the end of the form flow. For now, we suggest adding it to the Survivors pension form landing page. As mentioned above, there isn't an "After you apply" page in this hub.
 
 <img width="400" alt="Section in survivors pension titled How long does it take VA to make a decision" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/8dcbb34d-dac8-4cb4-8171-e6bf22d01b9e">
 
 --------
 
 6. **Claim Status Tool** - Add
-  - Placement description: On the logged-in landing page for the tool, exact placement to be decided with the team working on CST
+  - Placement description: On the logged-in landing page for the tool
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: I know the team has already connected with the Benefits Management team as well. We've added a suggestion for the placement, but would be interested to hear that team's feedback or any questions on that suggestion. Happy to revisit this proposed entry point!
+  - Notes: I know the team has already connected with the Benefits Management team as well.
 
 <img width="400" alt="VA Claim Status Tool landing page" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/8f79a19a-5e19-4763-9bb7-fb049bf3af6e">
 
 --------
 
 7. **[After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review/)** - Add
-  - Placement description: We suggest adding to this page, but defer to Content's recommendation on where on this page the form entry point can live
+  - Placement description: We suggest adding to this page, but defer to Content and stakeholder's recommendation for link placement
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: Because the priority processing form covers so many claims, we think that adding it here will capture all the decision reviews without putting an entry point in each page. Also, folks may not be going through the hardships listed in the priority processing form at the time of submitting a claim and so they may instead come to this page later on since they've already applied.
+  - Notes: Because the priority processing form covers so many claims, we think that adding it here will capture all the decision reviews without adding an entry point in each page. This can also ensure folks who have already submitted their claims can find information on this form if their circumstances changed since their original submission.
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
