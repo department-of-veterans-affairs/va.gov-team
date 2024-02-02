@@ -75,16 +75,14 @@ Now that you're done with your editing task, I have some questions for you about
 * How do you feel about the guidance and error messaging provided? 
 * Do you have any suggestions on how the overall process for adding regional offices to Drupal could be improved?
 * [Ask any additional follow-up questions from #feedback-backchannel]
-* Is there anything else you’d like to share about your experience or feedback on the prototype? 
-* _If there’s time:_ Have you been facing any other challenges within the CMS that you’d like to discuss? The floor is yours!
-* Do you have any questions for me?
+* Is there anything else you’d like to share about your experience? 
 
 
 ## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works for editors such as yourself.
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Well thank you so much again, and enjoy the rest of your day!
 
 ##
 
