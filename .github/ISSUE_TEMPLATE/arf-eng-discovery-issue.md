@@ -1,8 +1,8 @@
 ---
 name: ARF Engineering Discovery Issue
-about: Discovery issues for the ARF team
+about: Discovery issues for the ARF Engineering team
 title: ''
-labels: 'accredited-rep-facing', 'arf-eng'
+labels: ['accredited-rep-facing', 'arf-eng']
 assignees: ''
 
 ---
