@@ -19,8 +19,6 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 _Presentations occur at noon ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| Authenticated Experience - Profile | Travis Cahill | Profile hub | December 18, 2023 | February 1, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | February 1, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | April 4, 2024 |
