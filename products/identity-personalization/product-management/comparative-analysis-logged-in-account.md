@@ -140,7 +140,7 @@ The logged-in nav on the BCBS website has a prominent CTA to get people back to 
 
 *Gap.com*
 
-Gap has a section of their navigation that allows you to seamlessly navigate between their multipl brands.
+Gap has a section of their navigation that allows you to seamlessly navigate between their multiple brands.
 
 ![Gap multi-site nav](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Gap_multi%20site%20nav.png)
 
