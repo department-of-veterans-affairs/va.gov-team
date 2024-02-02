@@ -8,15 +8,8 @@ Availability Framework (AF) is an available solution for VA Health and Benefits 
 
 AF changes are made without a release and screen/content changes can be made in ~30 minutes once finalized and approved. 
 
-### High Level RACI 
-| Pre or Post Production | Existing AF Features / Need New Functionality Built | Responsible  | Accountable | Consult | Inform | 
-| --------------------- | --------------------------------------------------- | ------ | ----------- | --------- | --------| 
-| Pre-Production | Existing  | Qa and Release Team PM | QA and Release Team PM | Flagship Team PM, PO | Mobile Team | 
-| Pre-Production | New Feature Needed | Flagship Team PM | Flagship Team PM | Flagship Team, POs | Qa and Release, Mobile Team | 
-| Post Production | Existing | Incident Response Commander | Incident Response Commander | POs, Flagship Teams, QA and Release Team | Mobile Team | 
-| Post Production | New Feature | Incident Response Commander | Incident Response Commander | POs, Flagship Teams, QA and Release Team | Mobile Team | 
-
 ### Things to consider: 
+* Functionality enables Mobile to make changes directly to production 
  - Work and decisions need to be included in tickets for tracking and reporting purposes
  - AF does not have the capability to display based on Veteran variables
  - AF is also a vaiable solution for the which will be managed by the Incident Commander
@@ -30,98 +23,85 @@ AF changes are made without a release and screen/content changes can be made in 
  - Yellow/red alert boxes or native alerts are currently the only component usable for AF (per Binny on 1/31)
  - Unable to bold within alert boxes without making changes to the alert box component
  - May be able to separate paragraphs with string manipulation but engineering needs to review 
-
-### Open Questions 
-
-- Does the AF message stay up until they update the app
-- Can we do different AF messages depending on the app version 
-- Can e2e be applied here
+* Address (Contact Info) and Phone Number (Contact Info) are collective sets - turning on the waygate for address applies to both home and mailing address, and phone number impacts home, work and cell.
+* Similarly, the 'generic letter' waygate applies to all letter types EXCEPT benefit summary and services verification letter.
+* The login waygate will only ever function as use case 3 (the buttons to log in are available, and an informational alert appears onscreen).
+** If the goal is to turn off login entirely, we cannot accomplish that for anyone other than new users to the app (by using a UC1 or UC2 waygate on LOA Gate).
+* We only have the ability to add a UC1 type waygate to webviews (such as the privacy policy, VA location finder, VA COVID-19 updates, etc)
+* In "Personal Information", the "How to update or fix an error in your legal name" and "How to fix an error in your date of birth" large panels are the same screen, so any AF alerts for either of those will be applied to both
+* We get use case 2 and 3 "for free" whenever a new feature is created, as long as it uses the screen templates (aka no additional code needed, and we can use AF for those use cases with firebase and it works appropriately - tested during initial implementation). We also get UC1 for free for every release with ticket #7278 in it, which was released after the initial AF work.
+* Although we do generally block the underlying API calls for screens that are hidden behind AF banners (so the analytics/activity logs match the , there are some exceptions: v0/user/contact-info when navigating away from the Letters Overview screen (ticket #7522), v0/military-service-history on the Home Screen, and the prescriptions list vo/health/rx/prescriptions?.... on the Prescription History screen
+* Because of the display logic for when users are/are not authorized for claims decision letters, if we ever need to apply AF barriers to claims, claims history, or claims decision letters, it should be tested internally first to make sure it blocks the desired screens for all users.
 
 
 ### Identified Use Cases 
 
 | # | Use Case Description| Actor | Goal | 
-| ----- | ------- | ----- | ----- |
-| 1 | A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). |
-| 2 | A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
-| 3 | A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
+| ----- | ------- | ----- | ----- | 
+| 1 | Deny Access. A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). | 
+| 2 | Deny Content. A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
+| 3 | Allow content and function. A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
+
+In order to get availability framework banners working in production, we need to put JSON into firebase. We've added some guardrails, but malformed JSON (ex: trailing commas) will cause crashes in the app. As a best practice, copy-paste from the known-to-work JSON below, and immediately double-check the functionality in the app, when setting this for a screen that's in production.
+
+For the 'fixed' versions of these, you will also need to work with a front-end engineer to add version information (ex: only show for app version X.XX and below) to the banner. Samples not provided for those.
+
+| Use Case | Sample | 
+|------- | ------- | 
+| Use Case 1 (deny access) | { "enabled": false, "errorMsgTitle": "The app isn't working right now", "errorMsgBody": "While we fix the problem, you can still get your VA health and benefits information on VA.gov.", "type": "DenyAccess" } |
+|Use Case 2 (deny content), not yet fixed: | { "enabled": false, "errorMsgTitle": "We found a problem", "errorMsgBody": "We're sorry. We're fixing a problem we found [with/in this thing]. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": false } | 
+|Use Case 2 (deny content), with fix released: | { "enabled": false, "errorMsgTitle": "You need to update the app", "errorMsgBody": "We fixed a problem [with/in this thing]. But to use this tool again, you need to update the app. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": true } | 
+|Use Case 3 (allow content and function), not yet fixed: | { "enabled": false, "errorMsgTitle": "You may have trouble with [explain the thing]", "errorMsgBody": "We're fixing a problem [with/in this thing] that's affecting some Veterans. If you can't use [the thing] and need help now, call us.", "type": "AllowFunction", "appUpdateButton": false } | 
+|Use Case 3 (allow content and function), with fix released: | 	 { "enabled": false, "errorMsgTitle": "You may need to update the app", "errorMsgBody": "We've fixed a problem some Veterans were having [with/in this thing]. If you're still having trouble using this tool, you may need to update the app. If you need help now with [the thing], call us.", "type": "AllowFunction", "appUpdateButton": true } |
+
 
 ### Real-life Use Cases: 
 
 | # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
 | ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
-| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF | 
+| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF. Looks like AF was live for around 75 minutes. In that time it was shown 18,538 times to 14,300 users. | 
 | 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | Required AF improvements to facilitate this use case | 
 
 ----------------------
-  
-# AF Involving Post Production Problem 
 
+## High level steps
 
-## When there is a production problem: 
+**1.) Availability Framework use case is identified** 
 
- **1.) Production issues get worked the The Incident Response process has received PO approval to use Availability Framework interim solution** 
- -  Ideally, determine what type of release will follow it up (hotfix / regular release)
+**2.) POs have approved the use of Avaiability Frame** 
+   - AF Ticket Template created and assigned 
+
+**3.) Determine AF strategy** 
+   - page placement(s) 
+   - components being used
+   - Content and formatting 
+   - When it will be turned on / off
+   - What is the remediation to turn off AF 
      
- **2.) Impacted Team finalizes and approves copy and screen placement**
-  - Discuss if copy needs to be updated to align with root cause fix timing
-  - UX validates visual look and feel
+**4.) Get AF strategy approved by POs** 
 
- **3.) QA completes pre-production validation of AF**  
-  - If issues are found, Incident Commander can decide to fix the issues or proceed with the issues 
+**5.) Implement changes** 
+    - Update JSON 
+    - Validate JSON configuration is correct 
 
- **4.) When its time, AF is turned on in production by engineering**
-    - Post production validation if available
- 
- **5.) Impacted Team monitors AF solution until root cause is fixed in production** 
- 
- **6.) Determine if AF copy needs to be updated to align with root cause solution timing** 
-  - Copy is updated and approved
-  - Updated Copy pushed to production by Engineering 
+ **6.) QA testing**
+    - Validate JSON configuration is correct 
+    - Validate AF works as expected - turned on / off 
 
- **7.) Root cause solution implemented (Hotfix or regular release)** 
-  - Hotfix and regular release processes will be followed but our outside of this policy including if app store content needs updated to reflect the fix 
- 
- **8.)  When its time, AF is turned off in production by Engineering**
- 
- **9.) Impacted team completes a retro to identify how to reduce risk of the issue happening again** 
- 
- **10.) If applicable update AF Policy based on findings / learnings**
+  **7.) Turn on AF as planned**
+
+  **8.) Root cause implementation / issue resolve**
+     - Ex. Hotfix / normal release goes out, VA outage / update completed 
+
+  **9.) Turn on AF as planned**
+
+  **10.) Document use case and analytics in this document** 
 
 
------------------------
-#  AF Involving Pre Production Situations 
 
-## When there pre-production situation: 
-
- **1.) Upcoming situation has been identified that could warrant using Availability Framework**
-
- **2.) Discussion with POs on if Mobile should use AF**
-   - Gather as much requirements / expectations from the POs / Length of time until resolution  / maintenance windows coverage 
- 
- **3.) PO approves the use of AF, impacted Team PM reaches out with QA and Release Team PM to discuss** 
-   - Discussion to determine roles / responsibilities Qart may just support Impacted Team vs owning and pushing this work depending on circumstance
-   - Use availability framework ticket template 
- 
- **4.) Meeting with FE, Content, and QA to determine AF implementation - pull them from their applicable teams** 
-   - Location, Content, Component, Solution immplemntation, Timing for turning on and off
-
- **5.) PO approves of the implementation plan** 
-
- **6.) Content and AF implementation is built**
-
- **7.) QA completes pre-production validation of AF** 
-
- **8.) When its time, AF is turned on in production by engineering**
-    - Post production validation if available
-
- **9.) Root cause solution is implemented**
-
- **10.) When its time, AF is turned off in production by engineering**
-
- **11.) Document incident and AF usage at the bottom of this document.** 
 
 ------------------------
+
 # How to improve Availability Framework 
 
 ## Current AF functionality does not support my needs, I need it be improved: 
@@ -140,5 +120,4 @@ AF changes are made without a release and screen/content changes can be made in 
 
 
 ------------------------
-
 
