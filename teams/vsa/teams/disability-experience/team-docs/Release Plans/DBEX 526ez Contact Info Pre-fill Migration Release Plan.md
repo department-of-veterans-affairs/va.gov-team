@@ -44,14 +44,14 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 
 ### Pre-release Testing
 - [x] Complete pre-launch tasks: N/A
-- [ ] Create and execute a Testrail test plan
-    - Pre-test link: [TODO] ~~https://dsvavsp.testrail.io/index.php?/cases/view/52565~~
-    - Canary link: [TODO] ~~https://dsvavsp.testrail.io/index.php?/cases/view/52579~~
+- [x] Create and execute a Testrail test plan
+    - Pre-test link: https://dsvavsp.testrail.io/index.php?/cases/view/58765
+    - Canary link: https://dsvavsp.testrail.io/index.php?/cases/view/58766
 - [ ] Complete Review Case below
 
 ### Review Cases
 - [x] Does the existing DataDog monitoring have sufficient coverage?
-- [ ] Have a successful TestRail test plan been executed?
+- [x] Have a successful TestRail test plan been executed?
 - [ ] Has the team reviewed and timeboxed the release intervals?
 - [ ] Have PO(s) been made aware and approved of the plan? 
 
