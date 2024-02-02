@@ -1,6 +1,6 @@
 # Comparative analysis: Logged-in account models
 
-**Last updated: February 1, 2024**
+**Last updated: February 2, 2024**
 
 ### Goal of this document
 
@@ -130,7 +130,19 @@ We don't need yet another comparative analysis of the portal model. Here are som
 
 ### The big concern: Going back-and-forth between the logged-in and logged-out experiences
 
-The biggest concern stated internally when we talk about having a more unique portal experience is that people need to be able to readily get back and forth between "learn and apply" content and "track and manage" tasks, as veterans may apply for different benefits over the course of their lives. Luckily, it's common to see toggles in navigation to get between multiple sites. Here are some examples:
+The biggest concern stated internally when we talk about having a more unique portal experience is that people need to be able to readily get back and forth between "learn and apply" content and "track and manage" tasks, as veterans may apply for different benefits over the course of their lives. But it's common to see toggles in navigation to get between multiple sites. Here are some examples:
+
+*BCBS portal -- Logged in nav*
+
+The logged-in nav on the BCBS website has a prominent CTA to get people back to the marketing site.
+
+![BCBS portal -- Logged in nav](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/BCBS_Logged%20in%20nav.png)
+
+*Gap.com*
+
+Gap has a section of their navigation that allows you to seamlessly navigate between their multipl brands.
+
+![Gap multi-site nav](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/product-management/images/Gap_multi%20site%20nav.png)
 
 ## What we can learn from the mobile app IA
 
