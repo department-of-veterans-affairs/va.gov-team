@@ -10,6 +10,7 @@
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
+- [Crosslinks](#crosslink)
 - [Redirects](#redirects)
 - [Best Bets](#bestbets)
 - [Staged Rollout](#stagedrollout)
@@ -38,13 +39,14 @@
 
 1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
   - Placement description: Based on paper form submission data, place form in order of priority
-  - Link label: 
-  - Link destination: TBD by Sitewide Content
-  - Notes: We connected during content office hours on updating the order of this page based on priority, so we're suggesting for new forms that get added to this page we use paper form submission data to determine where they will go on the list.
+  - Link label: TBD by Sitewide Content
+  - Link destination:
+  - Notes: We connected during content office hours about updating the order of this page based on priority, so we will be ordering based on occurrence documented in the doc type frequency spreadsheet Veteran facing forms team provided. This form would be #6 down with the current layout. This can change depending on the remaining forms that will be added to this page and if those are higher priority.
 
---------
+## <a name="crosslink"></a>Crosslinks <br>
+*List of additional crosslinking opportunities across VA.gov. This requires stakeholder approval and collaboration with Sitewide Content so this list will be iterative as we get feedback.*
 
-2. **Online Form 21-526EZ** - Modify (paper PDF mentioned only at this time)
+1. **Online Form 21-526EZ** - Modify (paper PDF mentioned only at this time)
   - Placement description: TBD - decided with the team working on Form 21-526EZ
   - Link label: TBD by Sitewide Content
   - Link destination: 
@@ -52,7 +54,7 @@
 
 --------
 
-3. **[The VA claim process after you file your claim](https://www.va.gov/disability/after-you-file-claim/)** - Add
+2. **[The VA claim process after you file your claim](https://www.va.gov/disability/after-you-file-claim/)** - Add
   - Placement description: We defer to the Content team for where this entry point should be on this page!
   - Link label: TBD by Sitewide Content
   - Link destination: 
@@ -60,7 +62,7 @@
     
 --------
 
-4. **Online Form 21P-527EZ** - Modify (paper PDF mentioned only at this time)
+3. **Online Form 21P-527EZ** - Modify (paper PDF mentioned only at this time)
   - Placement description: TBD - decided with the team working on Form 21P-527EZ
   - Link label: TBD by Sitewide Content
   - Link destination:
@@ -68,7 +70,7 @@
 
 --------
 
-5. **[How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)** - Add
+4. **[How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)** - Add
   - Placement description: Under "How long does it take VA to make a decision?" section
   - Link label: TBD by Sitewide Content
   - Link destination: 
@@ -78,7 +80,7 @@
 
 --------
 
-6. **[VA Survivors Pension](https://www.va.gov/pension/survivors-pension/)** - Add
+5. **[VA Survivors Pension](https://www.va.gov/pension/survivors-pension/)** - Add
   - Placement description: Under "How long does it take VA to make a decision?"
   - Link label: TBD by Sitewide Content
   - Link destination: 
@@ -88,7 +90,7 @@
 
 --------
 
-7. **Claim Status Tool** - Add
+6. **Claim Status Tool** - Add
   - Placement description: On the logged-in landing page for the tool, exact placement to be decided with the team working on CST
   - Link label: TBD by Sitewide Content
   - Link destination: 
@@ -98,7 +100,7 @@
 
 --------
 
-8. **[After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review/)** - Add
+7. **[After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review/)** - Add
   - Placement description: We suggest adding to this page, but defer to Content's recommendation on where on this page the form entry point can live
   - Link label: TBD by Sitewide Content
   - Link destination: 
