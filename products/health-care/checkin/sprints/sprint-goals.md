@@ -27,7 +27,7 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Rotate AWS Keys](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74870)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
-        - 🟥 TBD        
+        - 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)        
         - 🟩 TBD
         - 🟦 TBD                    
 - **GOAL: Address Usage Issues**
