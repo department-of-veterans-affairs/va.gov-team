@@ -142,6 +142,3 @@ AF changes are made without a release and screen/content changes can be made in 
 ------------------------
 
 
-### AF Implementation
-
-
