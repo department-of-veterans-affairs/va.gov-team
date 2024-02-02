@@ -21,7 +21,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 3. The authenticated menu label button was unclear to some participants. [Link](#the-authenticated-menu-label-button-was-unclear-to-some-participants)
 4. 2 screenreader users missed the navigation entirely. [Link](#2-screenreader-users-missed-the-navigation-entirely)
 5. Most participants did not expect to find disability rating in their authenticated menu. [Link](#most-participants-did-not-expect-to-find-disability-rating-in-their-authenticated-menu)
-6. Some participants thought the label “Letters” was ambiguous**.** ([Link](#some-participants-thought-the-label-letters-was-ambiguous))
+6. Some participants thought the label “Letters” was ambiguous. ([Link](#some-participants-thought-the-label-letters-was-ambiguous))
 7. There's a lack of understanding about My VA. [Link](#theres-a-lack-of-understanding-about-my-va)
 8. Participants were continuously drawn to the footer, sometimes more than the main navigation. ([Link](#participants-were-continuously-drawn-to-the-footer-sometimes-more-than-the-main-navigation))
 ## Initial Findings Details
