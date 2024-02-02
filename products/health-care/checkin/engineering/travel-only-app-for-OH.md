@@ -42,6 +42,8 @@ sequenceDiagram
         deactivate web
         vet->>web: answers travel questions
         web->>+api: POST travel claim
+        api->>l: fetch idipi and appointment date
+        l->>api: return idipi and appoinmtment date
         api->>vn: Send travel claim
         api--)-web: success (request sent)
         vn->>vet: Success/fail of travel claim submission
