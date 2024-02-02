@@ -1,4 +1,4 @@
-# CIE Oracle Health (cerner) integration
+# CIE Oracle Health (cerner) check-in integration
 <aside>
 🚧 WIP
 
