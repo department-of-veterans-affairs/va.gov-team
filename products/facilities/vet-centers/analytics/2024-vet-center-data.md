@@ -1,6 +1,5 @@
 ## 2024 Vet Center page data 
-
-Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls) | Raw data: [Facilities metrics 2024](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Be0efa151-5e25-49fd-8d4f-8f451a49fb9b%7D&action=editnew)
+> for data prior to 2024, please visit [Vet Center data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/analytics/vet-center-data.md)
 
 - [Vet Center editor stats](#vet-center-editor-stats)
 - [Vet Center facility stats](#vet-center-facility-stats)
@@ -37,8 +36,6 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 ![vet center user behavior](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/3d419928-6bbf-4d7d-9da8-548dbdf5dbc4)
 
-
-
 ### Service views
 
 ![feb service views](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c58fe24e-01d1-461c-872e-13c12fa9717f)
@@ -58,6 +55,9 @@ OKR to measure the success of notifications reminding editors to review and upda
 | 3 stars | 1 | 2 | |
 | 4 stars | 4  |2  | |
 | 5 stars |- |1  | |
+
+> Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
+> Raw data: [Facilities metrics 2024](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Be0efa151-5e25-49fd-8d4f-8f451a49fb9b%7D&action=editnew)
 
 
 
