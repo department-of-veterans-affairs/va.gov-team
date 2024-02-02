@@ -10,24 +10,24 @@ Ability to refill prescriptions
 
 | Feature | Usage | 
 |---|---|
-|[Detail view for VA prescriptions] | View details for medications adninistered by VA |
-|[Detail view for non-VA prescriptionsl](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/refill-prescriptions.md) |View details for medications administered outside of VA|
+|[Detail view for VA prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/feature-reference/VA-meds-detail-list-view.md) | View details for medications adninistered by VA |
+|[Detail view for non-VA prescriptionsl] () |View details for medications administered outside of VA|
 
 ## Requirements
 
 ### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
-- For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality.
-- When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
-- Once a med has been dispensed, start the process over again.
+- The user must be able to :
+  - See their full medications list 
+  - View details for each medication (VA and non. VA)
+  - Go to refill prescriptions from this page
+  - Go to secure messages to renew prescriptions from this page
+
 ### Non-functional
 
 
 ## Specifications
-
-[User flow](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/a/GoqqApY) 
 
 [Page template](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/p/21DEC478-8C80-4CE4-8412-DBBCE5F17DEA/canvas)
 
@@ -44,7 +44,8 @@ Ability to refill prescriptions
 
 
 
-## Alerts and conditional states
+## Errors and alerts 
+[User flow] (https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/p/5FC7ADD6-6C9A-4EC3-A47A-9AF8379062CC/canvas)
 <!-- Any alerts that could display for this feature and what triggers them. -->
 
 ### Alert that user is not registered at a VA facility
