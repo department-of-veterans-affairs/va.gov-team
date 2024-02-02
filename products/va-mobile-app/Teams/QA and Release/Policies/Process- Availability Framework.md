@@ -35,7 +35,7 @@ AF changes are made without a release and screen/content changes can be made in 
 
 **1.) Availability Framework use case is identified** 
 
-**2.) POs have approved the use of Avaiability Frame** 
+**2.) POs have approved the use of Availability Frame** 
    - AF Ticket Template created and assigned 
 
 **3.) Determine AF strategy** 
