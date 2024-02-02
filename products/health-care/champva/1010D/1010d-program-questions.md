@@ -1,0 +1,14 @@
+|Number|Complete?|Form Section|Question|Blocking?|Answer|
+|---|---|---|---|---|---|
+|1||General|Which addresses (Signer’s, sponsors and applicants addresses) are required for fulfilling benefits?|||
+|2||General|Which phone numbers (Signer’s, sponsors and applicants phone numbers ) are required for fulfilling benefits?|||||
+|3||General|Should we rearrange the content to clarify the instance of a spouse, child or caretaker applying that is also a Veteran. The Sponsor/ Veteran language may need to be retooled. How common is this situation?|||
+|4||Sponsor|Is the VBA rating decision and the  DD214 (Certificate of Release or Discharge from Active Duty) required?  If an applicant does not submit these docs, does this significantly increase the processing time or can the applicant skip these 2 doc uploads without little impact/ delay?|||
+|5||Sponsor|There is a question about how the Veteran (Sponsor) died? Does this affect anything in terms of benefits or what documents they need to upload (ie. a death certificate with the reason of death)?|||
+|6||Applicants|Can we confirm if caretakers are still eligible? There seems to be conflicting messages among the supporting informational materials for this program where caretakers are not listed as an eligible applicant.|||
+|7||Applicants|Are there any supporting docs needed for caretakers to upload for CHAMPVA enrollment?|||
+|8|yes|Applicants|Is there or should we put a limit on how many applicants can be added to the digital form. Syd and I asked the VFF team but it seems like this is unique to the services we are using on the 1010d. (Central Mail vs Box)||limit to 3 for now|
+|9||Applicants|The requirements for the School Certs are very strict based on the current state of the form. It states that a letter or a form must be submitted and sent by the school to VA. This of course will blow up the file upload experience. Are the stakeholders willing to update this process to allow for the applicant to submit it. What types of documents will they take or not?|||
+|10||Third-party Signer|Is the phone number and address absolutely required?|||
+|11||Confirmation Page|Would we be able to create a button for an applicant to email a copy of the confirmation page to themselves. We understand that some applicants may want to still mail the documents and we will provide the instructions to do so on the confirmation page. |||
+|12||Confirmation Page|Who determines the respondent's burden time? Now that we are moving to a digital format with file upload the current time list on the form (15 minutes) will probably change|||
