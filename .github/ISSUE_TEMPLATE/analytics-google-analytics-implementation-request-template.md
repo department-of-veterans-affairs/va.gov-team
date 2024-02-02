@@ -4,8 +4,7 @@ about: To request Google Analytics implementation for product launches or iterat
 title: Analytics Implementation or QA Support for [Team Name - Feature Name]
 labels: analytics-insights, analytics-request, collab-cycle-review, collaboration-cycle,
   gtm
-assignees: ''
-
+assignees: johnny-jesensky-adhoc
 ---
 
 # Google Analytics Implementation Request
