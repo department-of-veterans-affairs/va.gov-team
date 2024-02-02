@@ -16,8 +16,6 @@ AF changes are made without a release and screen/content changes can be made in 
 | Post Production | Existing | Incident Response Commander | Incident Response Commander | POs, Flagship Teams, QA and Release Team | Mobile Team | 
 | Post Production | New Feature | Incident Response Commander | Incident Response Commander | POs, Flagship Teams, QA and Release Team | Mobile Team | 
 
-
-
 ### Things to consider: 
  - Work and decisions need to be included in tickets for tracking and reporting purposes
  - AF does not have the capability to display based on Veteran variables
@@ -47,7 +45,13 @@ AF changes are made without a release and screen/content changes can be made in 
 | 1 | A screen is broken (for all users) and it cannot be rendered without crashing app/red screen of death. | Screen is broken for all users and cannot be rendered. Waygate prevents access completely (does not render screen).  | Prevent all users from attempting to load the problem screen until a fix has been made (to prevent app crashing). |
 | 2 | A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
 | 3 | A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
-| 4 | An upcoming situation (outage, update) that will prevent all users from signing into the app or using any app feature  | Access is broken for all users who log in or get an error while already logged in during this time | Proactive communication to all users on the pre-login screen | 
+
+### Real-life Use Cases: 
+
+| # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
+| ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
+| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF | 
+| 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | Required AF improvements to facilitate this use case | 
 
 ----------------------
   
@@ -140,7 +144,4 @@ AF changes are made without a release and screen/content changes can be made in 
 
 ### AF Implementation
 
-| # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
-| ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
-| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF | 
-| 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | | 
+
