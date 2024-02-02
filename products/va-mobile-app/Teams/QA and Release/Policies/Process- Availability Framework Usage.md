@@ -3,7 +3,7 @@
 
 ## Purpose: 
 
-Availability Framework (AF) is an available solution for VA Health and Benefits App to "turn off", restrict access, or communicate limitations on an affected feature or screen  when there are critical errors in production or aware of upcoming changes that may warrant its use (such as a planned outage not using maintenance windows) so that the user will not have a bad user experience. Intent is to remotely display a screen with content so that the Veteran knows there is an issue, its being adddress and inform them on how to get the information or take the action they intended in the meantime until a fix is in place via a hotfix or standard app release. 
+Availability Framework (AF) is an available solution for VA Health and Benefits App to "turn off", restrict access, or communicate limitations on an affected feature or screen when there are critical errors in production or aware of upcoming changes that may warrant its use (such as a planned outage not using maintenance windows) so that the user will not have a bad user experience. Intent is to remotely display a screen with content so that the Veteran knows there is an issue, its being adddress and inform them on how to get the information or take the action they intended in the meantime until a fix is in place via a hotfix or standard app release. 
 
 AF changes are made without a release and screen/content changes can be made in ~30 minutes once finalized and approved. 
 
