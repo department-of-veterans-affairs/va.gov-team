@@ -30,6 +30,7 @@ ________________________________________________________________________________
         - 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
         - 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
         - 🟥 [[Content] Create (or version out) content for Need Help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75163)
+        - 🟥 [[Design][Content] Create final frames with content for error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75206)
         - 🟥 [[UX] Create Sitewide CAIA Intake Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75195)  
         - 🟩 TBD
         - 🟦 TBD                    
