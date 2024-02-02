@@ -36,3 +36,9 @@
      -  **Jessica 1/18/24** needs to check with Simone
      -  **Shana 1/18/24** said she thinks there is already a request for this - forecasted for March but not sure, she will verify
      
+**EZR**
+**Military Info**
+1) How does Military Information currently get updated after a Veteran has already enrolled in Healthcare?
+2) Why are we having a Veteran manually update their Military Info if it is already being updated automatically?
+3) How will the information updated by the Veteran on the EZR be verified? And what happens when there are discrepencies?
+4) Is there a way to automatically udpate this information for the Veteran?
