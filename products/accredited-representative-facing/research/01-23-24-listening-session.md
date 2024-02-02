@@ -8,15 +8,11 @@ Date: 02/02/2024
 
 **Jump to:**
 
-[Responses to Demographic and Behavioral Questions](https://docs.google.com/document/d/10GwEHzdVfaBydnrtx9br9YnDaTlDlT7jvBMo28Xy0B4/edit#heading=h.5ix7iblx6s80)
+[Responses to Demographic and Behavioral Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#responses-to-demographic-and-behavioral-questions)
 
-[Summary of Open-Ended Responses](https://docs.google.com/document/d/10GwEHzdVfaBydnrtx9br9YnDaTlDlT7jvBMo28Xy0B4/edit#heading=h.feeehid2mfmr)
+[Summary of Open-Ended Responses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#summary-of-open-ended-responses)
 
-[Gaps, Further Research, and Opportunities](https://docs.google.com/document/d/10GwEHzdVfaBydnrtx9br9YnDaTlDlT7jvBMo28Xy0B4/edit#heading=h.iv95kxm7zaha)
-
-[Next Steps](https://docs.google.com/document/d/10GwEHzdVfaBydnrtx9br9YnDaTlDlT7jvBMo28Xy0B4/edit#heading=h.86aq0jmg39jn)
-
-[Appendix](https://docs.google.com/document/d/10GwEHzdVfaBydnrtx9br9YnDaTlDlT7jvBMo28Xy0B4/edit#heading=h.cwd8u8959etn)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#appendix)
 
 
 ## Summary of Engagement
