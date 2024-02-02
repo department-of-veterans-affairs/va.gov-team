@@ -61,10 +61,10 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Schedule
 **Go/No Go meeting 3/5/2024 at 1:30p ET**
-1. Stage A: 10% of users on 3/5
-2. Stage B: 25% of users from 3/7 - 3/10
-3. Stage C: 50% of users on 3/11
-4. Stage D: 100% of users on 3/12 - monitor for any issues through 3/18 EOD
+1. Stage A: 10% of users on 3/5 (Tuesday)
+2. Stage B: 25% of users on 3/7 (Thursday)
+3. Stage C: 50% of users on 3/11 (Monday)
+4. Stage D: 100% of users on 3/12 - monitor for any issues through 3/18 EOD (Monday)
 
 *** 
 
