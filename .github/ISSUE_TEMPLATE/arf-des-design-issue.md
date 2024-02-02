@@ -1,6 +1,6 @@
 ---
-name: ARF Design 'Design' Issue
-about: 'Design' issue for the ARF Design Team
+name: ARF Des Design Issue
+about: Design issue for the ARF Des Team
 title: ''
 labels: ['accredited-rep-facing', 'arf-des']
 assignees: ''
