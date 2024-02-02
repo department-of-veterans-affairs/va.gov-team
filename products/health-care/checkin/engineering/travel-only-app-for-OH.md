@@ -5,7 +5,7 @@
 </aside>
 
 ## Goal
-Allow patients at Oracle Health facilities to file a mileage only travel claim with there personal devices on th day of their appointment. This wouild be similar to what we offer Vista patients during day-of check-in. 
+Allow patients at Oracle Health facilities to file a mileage only travel claim with a personal device on the day of their appointment. This wouild be similar to what we offer Vista patients during day-of check-in. 
 ## Overview
 To achieve this goal we will create a new application that just submits mileage only travel claims. 
 ## Scope
