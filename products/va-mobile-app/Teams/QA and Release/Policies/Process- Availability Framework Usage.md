@@ -10,20 +10,17 @@ AF changes are made without a release and screen/content changes can be made in 
 
 ### Things to consider: 
 * Functionality enables Mobile to make changes directly to production 
- - Work and decisions need to be included in tickets for tracking and reporting purposes
- - AF does not have the capability to display based on Veteran variables
- - AF is also a vaiable solution for the which will be managed by the Incident Commander
- - Turning AF on or off at this time can only be done manually
- - Able to add messaging to the pre-login screen
- - If you identify that you need additional variable / user logic to implement AF, discuss with FE / BE on what the options are and if timing of implementing will work for the issue (ex. Cerner Lovell Facility issue 1/29/24)
- - Pre-login screen Alert Box - limited on styling ; able to change alert box color to whatever we want
- - Alert box colors within the app cannot be changed
- - AF changes cannot be made or completed by QA and Release Team as we do not have the engineering resources to do - it will be up to Flagship teams to improve and change
- - Depending on the situation responsiblity and accountablity owners may change
- - Yellow/red alert boxes or native alerts are currently the only component usable for AF (per Binny on 1/31)
- - Unable to bold within alert boxes without making changes to the alert box component
- - May be able to separate paragraphs with string manipulation but engineering needs to review 
-* Address (Contact Info) and Phone Number (Contact Info) are collective sets - turning on the waygate for address applies to both home and mailing address, and phone number impacts home, work and cell.
+* AF does not have the capability to display based on Veteran variables without code improvements
+* Incident Commander in the Incident Response Process may use AF as a vaiable solution (hotfix, wait, etc)
+* Turning AF on or off at this time can only be done manually
+* Improvements will need to be prioritized and made by Flagship App teams
+* Depending on the situation responsiblity and accountablity owners may change
+* Pre-login screen Alert Box - limited on styling ; able to change alert box color to whatever we want
+* Alert box colors within the app cannot be changed
+* Yellow/red alert boxes or native alerts are currently the only component usable for AF (per Binny on 1/31)
+* Unable to bold within alert boxes without making changes to the alert box component
+* May be able to separate paragraphs with string manipulation but engineering needs to review (spike being done by Health team 1/31)  
+ Address (Contact Info) and Phone Number (Contact Info) are collective sets - turning on the waygate for address applies to both home and mailing address, and phone number impacts home, work and cell.
 * Similarly, the 'generic letter' waygate applies to all letter types EXCEPT benefit summary and services verification letter.
 * The login waygate will only ever function as use case 3 (the buttons to log in are available, and an informational alert appears onscreen).
 ** If the goal is to turn off login entirely, we cannot accomplish that for anyone other than new users to the app (by using a UC1 or UC2 waygate on LOA Gate).
@@ -53,7 +50,9 @@ AF changes are made without a release and screen/content changes can be made in 
 
 **5.) Implement changes** 
     - Update JSON 
+    - Sample JSON below ; for fixed versions those samples are not provided
     - Validate JSON configuration is correct 
+    - Consider App Version needs, tracking and complexity 
 
  **6.) QA testing**
     - Validate JSON configuration is correct 
@@ -64,7 +63,7 @@ AF changes are made without a release and screen/content changes can be made in 
   **8.) Root cause implementation / issue resolve**
      - Ex. Hotfix / normal release goes out, VA outage / update completed 
 
-  **9.) Turn on AF as planned**
+  **9.) Turn off AF as planned**
 
   **10.) Document use case and analytics in this document** 
 
@@ -79,11 +78,12 @@ AF changes are made without a release and screen/content changes can be made in 
 | 2 | Deny Content. A screen element, feature, or part of a feature is broken (for ALL USERS). The feature entry point can still be accessed and a screen can still be rendered, but we want to prevent all users from accessing the feature. A) We are working to resolve it remotely B)The issue is now resolved and installing a new version of the app will be required to correct the problem | Screen is broken for all users but can still be rendered. Disaster message displays instead of screen content| Prevent ALL USERS from accessing a broken feature until a fix has been made and offer the ability to get that info in some other way in the meantime (A&B) & then empower users to fix it (B).|
 | 3 | Allow content and function. A screen element, feature, or part of feature is broken (for SOME users, not all). The feature entry point can still be accessed and a screen can still be rendered, but some folks can see data within the feature and others can’t. A) We are working to resolve it remotely B) The problem is now resolved and installing a new version of the app will correct the problem | Screen is broken for some users but can still be rendered. Disaster message appears FOR ALL. User may or may not see screen content | For a feature that is broken for SOME USERS but not all, set expectations and provide guidance (around how to get that info some other way in the meantime (A&B) and then empower users to fix it (B)) that helps the affected segment until a fix has been made, but do it without preventing access to that feature for the users who are not affected by the issue. | 
 
+#### **JSON DISCLAIMER**
 In order to get availability framework banners working in production, we need to put JSON into firebase. We've added some guardrails, but malformed JSON (ex: trailing commas) will cause crashes in the app. As a best practice, copy-paste from the known-to-work JSON below, and immediately double-check the functionality in the app, when setting this for a screen that's in production.
 
-For the 'fixed' versions of these, you will also need to work with a front-end engineer to add version information (ex: only show for app version X.XX and below) to the banner. Samples not provided for those.
+For the **'fixed'** versions of these, you will also need to work with a front-end engineer to add version information (ex: only show for app version X.XX and below) to the banner. **Samples not provided for those.**
 
-| Use Case | Sample | 
+| Use Case | JSON Sample - See Disclaimer Above | 
 |------- | ------- | 
 | Use Case 1 (deny access) | { "enabled": false, "errorMsgTitle": "The app isn't working right now", "errorMsgBody": "While we fix the problem, you can still get your VA health and benefits information on VA.gov.", "type": "DenyAccess" } |
 |Use Case 2 (deny content), not yet fixed: | { "enabled": false, "errorMsgTitle": "We found a problem", "errorMsgBody": "We're sorry. We're fixing a problem we found [with/in this thing]. If you need help now with [the thing], call us.", "type": "DenyContent", "appUpdateButton": false } | 
@@ -96,10 +96,11 @@ For the 'fixed' versions of these, you will also need to work with a front-end e
 
 | # | Situation | Date Identified | Date Implemented | Date Turned off | Solution | Ticket| Other Details |
 | ---- | ------ | --------------- | ----------------- | -------------- |  ------ | -------- | ----- |
-| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF. Looks like AF was live for around 75 minutes. In that time it was shown 18,538 times to 14,300 users. | 
+| 1 | Vets-API will be upgrading Redis on 1/31 from 2am for a couple hours | [1/26/24](https://dsva.slack.com/archives/C024ULHLDH9/p1706284391615819) | 1/30/24 | 1/31/24 | Mobile to add content on the pre-login screen starting on 6pm Et 1/30 and content to stay up until Redis upgrade is complete or shortly there after | [7848](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7848) | VA informed Mobile that Redis upgrade was delayed at 6:21pm ET after it launched; Mobile after hours removed AF. Looks like AF was live for around 75 minutes. In that time it was shown 18,538 times to 14,300 users. [Retro 1](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1706722136415/7492d89f991fa3f1518c78d9a4cce9c49e5260c2?sender=u7ec1ac1ea3bde48882e36908).  | 
 | 2 | Cerner Lovell Facility | [1/29/24](https://dsva.slack.com/archives/C0190MTGNUE/p1706556021923479) | | | FE added code to target Veterans with a specific variable; BE modifying code to allow FE to get that variable code. AF will display message toi proactively inform Veterans impacted before the Lovell Cerner change  starts, then BE will control the message, then after Cerner change for Lovell there will be a standard Mobile App message to make Veterans aware | [7864](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7864) | Required AF improvements to facilitate this use case | 
 
 
-
-
+### Possible Improvements 
+ * Add functionality to automatically turn on and off AF vs having to do it manually
+ * Similar type of fucntionality where Mobile could customize erorr messages based on received API error #s received
 
