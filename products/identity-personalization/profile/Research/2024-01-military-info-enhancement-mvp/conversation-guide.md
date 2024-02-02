@@ -144,7 +144,7 @@ Thank you so much again, and enjoy the rest of your day!
 
 Alerts test
 
-> [!NOTE]  
+> [!NOTE]  Title
 > Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
