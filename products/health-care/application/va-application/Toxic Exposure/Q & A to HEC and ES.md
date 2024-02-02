@@ -41,4 +41,6 @@
 1) How does Military Information currently get updated after a Veteran has already enrolled in Healthcare?
 2) Why are we having a Veteran manually update their Military Info if it is already being updated automatically?
 3) How will the information updated by the Veteran on the EZR be verified? And what happens when there are discrepencies?
-4) Is there a way to automatically udpate this information for the Veteran?
+4) What happens if VBA is used to verify and the VBA questions are different to the VHA ones
+5) Is there a way to automatically udpate this information for the Veteran?
+6) What dictates access to VA healthcare/update of Priority Group? Who does this review? 
