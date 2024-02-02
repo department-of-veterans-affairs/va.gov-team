@@ -63,21 +63,7 @@ Medications is authenticated and has some access requirements that Veterans must
 **Prod base URL:** https://api.va.gov/
 
 **Endpoints**
-`replace-with-endpoint-1`
 
-`replace-with-endpoint-2`
 
-To see the current api responses:
-- Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
-- Search for `https://api.va.gov/vaos/v2/apidocs`
-
-<details>
-  <summary>Sample response</summary>
-
-```json
-`"vaProfile": { "status": "OK", "birthDate": "20010531", "familyName": "Morgan", "gender": "M", "givenNames": [ "Cecil", "Matthew" ], "isCernerPatient": false, "facilities": [ { "facilityId": "983", "isCerner": false }, { "facilityId": "984", "isCerner": false } ], "vaPatient": true, "mhvAccountState": "OK" },` 
-```
-
-</details>
 
 
