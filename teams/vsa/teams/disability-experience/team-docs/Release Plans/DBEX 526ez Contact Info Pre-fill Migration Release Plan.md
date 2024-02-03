@@ -137,7 +137,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits - DBex - EVS
 ### Stage A: Monitoring phase 
 #### Planning  
 - Date Started: 
-- ZH Tracking: TBD ~~https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/70826~~
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75270
 - Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 10%
 #### Results:  
@@ -156,7 +156,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits - DBex - EVS
 ### Stage B: Moderate ramp up
 #### Planning  
 - Date Started:
-- ZH Tracking: ~~https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63660~~
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75271
 - Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results:  
@@ -169,7 +169,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits - DBex - EVS
 
 ### Stage C: Go Live!
 - Date Started: 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% 
+- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75272
 #### Results  
 - Anomalies
 - Rollbacks:
