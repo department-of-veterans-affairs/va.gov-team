@@ -1,8 +1,8 @@
 ## Burial Allowance 21P-530EZ: Design Readme
 
 ### Design Artifacts
-1. [User Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1694615398728&sender=u934f98f179a86c76e6ee9592)
-2. Wireframes (Figma)
+1. [User Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1694615398728&sender=u934f98f179a86c76e6ee9592) (Mural)
+2. [Designs](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-Redesign-MVP?type=design&node-id=0-1&mode=design&t=M3hqD2HILwjpa6N6-0) (Figma)
 
 ### Design System Components
 
