@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience Profile, Military Information, Feburary 2024
+# Research Plan for Authenticated Experience Profile, Military Information, February 2024
 
 ## Background
 
@@ -64,11 +64,10 @@ The sessions will be conducted remotely via Zoom.
 
 ### Research materials
 
-- [Link to conversation guide](url goes here)
-- [Link to mock-up](url goes here) – [This is being migrated to Figma]
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/conversation-guide.md)
+- [Link to mock-up](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/uuid/7310D865-B1D6-4734-8EA2-078CED280C22) – This is being migrated to Figma
 
 ---
-
 ## Recruitment	
 
 ### Recruitment approach
@@ -77,7 +76,8 @@ We will use Perigean to recruit 18 veterans for a total of 12 completed sessions
 
 Possible meeting times for a kick-off:
 
-- [tbd]
+- Monday, February 12th: 9am-12pm
+- Tuesday, February 13th: 9am-12pm
 
 ### Recruitment criteria
 
@@ -95,11 +95,13 @@ Possible meeting times for a kick-off:
 - All participants must have submitted a disability claim of some kind.
 
 #### **Some participants**
+
 - 50% must have submitted a disability claim specifically under the PACT Act
 - 50% must have served overseas
 - There should be a mix of rank types (enlisted members, warrant officers, and officers)
 
 ##### Demographics
+
 - Participants should be evenly split across genders, ages, races, and education levels
 
 #### Screener questions
@@ -115,26 +117,29 @@ Possible meeting times for a kick-off:
 ---
 
 ## Timeline
-*Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.* 
 
 ### Prepare
-* Pilot participant email:
-* Date and time of pilot session: 
-* Finalized design mock-up
+
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
+* Design mock-up is already finalized
 
 ### Research sessions
-* Planned dates of research:
+
+* Planned dates of research
+	* **Monday, March 19th -  Wednesday, March 21st** (we are aware the 19th is a federal holiday but we would still like to start research on that day)
+	* Thursday, March 22nd can be a back-up day if we have cancelations and need to make up those numbers
 
 ### Length of sessions
+
 * Session length: 1 hour
-* Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 3
+* Buffer time between sessions: 30 hour
+* Maximum Sessions per day: 4
 
 ### Availability
-*When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.* 
-- *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-*Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.*
+- Within the hours of 9am-12pm and 1pm-6pm EST, Monday - Wednesday 
+- If we need to reschedule or find replacement participants: Thursday between 1pm-6pm (to give time to prep participant data)
 
 ---
 
@@ -143,10 +148,14 @@ Possible meeting times for a kick-off:
 - Moderator: Pam Drouin
 - Research guide writing and task development: Pam Drouin
 - Participant recruiting & screening:	Perigean
-- Project point of contact: Pam Drouin
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):
-- Note-takers:
-- Observers:
-
-***List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side* 
+- Project point of contact: Pam Drouin: pamela.drouin@a1msolutions.com
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
+- Note-takers: TBD
+- Observers: (list not finalized)
+	- samara.strauss@va.gov
+	- alexandria.parker@agile6.com
+	- travis.cahill@agile6.com
+	- liz.lantz@adhocteam.us
+	- adam.whitlock@adhocteam.us
+	- tom.harrison@adhocteam.us
