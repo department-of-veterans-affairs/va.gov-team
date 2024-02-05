@@ -2,7 +2,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 
 **Agenda/Notes**
 02/06/24
-* **Removing White Button Variant from Flagship app (Kelly)**
+* **Removing White Button Variant and old colors from Flagship app (Kelly)**
 
 
 01/23/24
