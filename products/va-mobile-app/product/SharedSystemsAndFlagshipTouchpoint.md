@@ -3,6 +3,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 **Agenda/Notes**
 02/06/24
 * **Removing White Button Variant and old colors from Flagship app (Kelly)**
+* Let's talk about getting Labs and Tests into the app, API seems to be ready
 
 
 01/23/24
