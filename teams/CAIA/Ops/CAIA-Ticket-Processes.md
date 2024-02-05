@@ -190,11 +190,10 @@ _This is a sample scenario for a high priority ticket created by a VFS team usin
 </details>
 
 ## Closing Tickets
-If  CAIA work on a ticket has been completed, the person working on that ticket can move the ticket to `validate`, or if no validation is required, a ticket can be moved directly to closed.
-### Who can close out tickets? 
+If  CAIA work on a ticket has been completed, the person working on that ticket can move the ticket to `validate`, or if no validation is required, a ticket can be moved directly to closed and recorded in the capacity tracker.
+
 <details><summary>Toggle to learn how to close a CAIA ticket</summary>
 
-**Simple answer - YOU CAN!** 
 - If the work on a ticket is complete (for example, an updated page is live or a deliverable has been sent to a stakeholder), you can move the ticket to `closed`.
 - Tickets that are closed should have all of their fields completed, prior to closing out the ticket.
 - Tickets that are closed should be added to the [capacity tracker]([url](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit#gid=623845405)), for the assignees involved.
