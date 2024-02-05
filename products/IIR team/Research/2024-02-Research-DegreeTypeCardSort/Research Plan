@@ -1,0 +1,116 @@
+# Research Plan for IIR, Yellow Ribbon Search Filters Research: Closed Card Sort
+This work falls in the first phase of a multi-phase Yellow ribbon search enhancement initiative. In this phase we want to understand how veterans would expect to see degree types we gather from schools categorized.
+
+## Background and Goal
+We want to reduce the amount of time it takes Veterans to discover a yellow ribbon program that matches their preferences and benefit options. Currently when veterans, veteran’s spouses, veteran’s dependents, or a veteran’s caregiver searches for schools participating in the yellow ribbon program they cannot filter results by “degree type”. 
+We want to provide this ability while still keeping the number of “degree types” that a veteran needs to navigate through under 10. For this phase of the initiative we are proposing an iteration on the existing Yellow Ribbon Search tool.
+Link to product brief
+
+### OCTO Priorities
+The following is an  OCTO priorities this research supports.
+Seeking to Enhance Veterans’ personalized online experience
+
+### Veteran Journey
+This feature fits into the veteran’s journey as the veteran seeks to reinvent themselves and acquire appropriate education and new skills. We want to reduce the amount of time it takes veterans as they seek educational benefits.
+
+## Research Goals
+Determine how veterans,veteran’s spouses, veteran’s dependents, or a veteran’s caregiver would expect “degree type” types to be categorized.
+
+### Outcome
+This research will provide confidence in the way we categorize the many degree data types into smaller categories. We will take this learning to create filters to help veterans find the right yellow ribbon participating school for them.
+
+### Research questions
+How do Veterans, Veterans spouses, Veterans dependants, and Veteran’s dependants expect to see degree types categorized?
+Do the data points all map to one of the provided categories?
+Would they create a new category to fit some of the data in?
+
+### Hypothesis
+Veterans, Veterans spouses, Veterans dependents, and Veteran’s dependents will be able to categorize the cards presented into the groups provided and will have general agreement.
+Veterans will need to create an additional category for some degree types.
+
+## Methodology : Unmoderated Cardsort
+For this study we plan to run a hybrid card sort.
+
+
+Before the card sort we will run a pilot test with members of the IIR team
+Link to pilot test
+In a hybrid card sort, participants are asked to sort topics into predefined categories. A hybrid card sort works best when you are working with a predefined set of categories with the option to add another category, and you want to learn how users sort content items into each category. Usability.gov - Card Sorting
+Card Sorting - Methods 18F
+Method
+Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 59 pieces of current degree types from the schools participating in the Yellow Ribbon benefits. Each participant sorts the content cards into one of several fixed categories (i.e., Associate’s degree, Bachelor’s degree, etc). They will also be able to add new categories if they feel that a card doesn't fit into the provided categories.
+We would like to get complete sorting responses from at least 15 Veterans, Veterans spouses, and Veterans dependents in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
+
+
+### Research materials
+Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
+For unmoderated testing:
+Link to email with instructions
+Pilot test link
+Cohort A study link
+Cohort B study link
+Cohort C study link
+Cohort D study link
+
+
+## Recruitment
+Recruitment approach
+Our intended audience for this research is: 
+- Veterans 
+- Veterans spouses seeking educational benefits 
+- Veterans dependents seeking educational benefits
+- Veterans caregivers who are seeking educational benefits for the veteran benefits.
+We want this recruitment to be supported by Perigean.
+
+
+Recruitment criteria
+Ask Perigean to recruit **30** participants to get at least **15 completes**.
+Ideally we would like to get about
+- Approximately ½ Veterans and ½ spouses or dependents using veteran’s transferred benefits. 
+- Approximately ½ with experience using VA educational benefits/service and ½ without such experience but interest in using them.
+
+### Primary participant criteria for everyone:
+- ALL have a computer and are willing to use it to complete the activity
+- ALL are willing to do an activity that requires dragging and dropping items on their computer screen (NO screen reader users)
+- At least 10 women
+- Diversity across age groups
+- Diversity across racial identities
+- Diversity across education levels
+- Diversity across rural and major metropolitan areas
+
+#### For Cohort A (8 Veterans)
+Must have experience using VA educational benefits/service
+Cohort A study link
+
+#### For Cohort B (7 Veterans)
+Must NOT have experience using VA educational benefits/service but have interest in them
+Cohort B study link
+
+#### For Cohort C (8 Non-Veterans: 4 spouses, 4 dependants of Veterans)
+Must have experience using VA educational benefits/service
+Cohort C study link
+
+#### For Cohort D (7 Non-Veterans: 3 spouses, 4 dependants of Veterans)
+Must NOT have experience using VA educational benefits/service but have interest in them
+Cohort D study link
+
+### Coordination with Perigean
+To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question Which VA benefits or services do you have any experience with?".
+We will provide an email template and a unique card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
+We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort.
+We estimate it will take participants 15 minutes or less to complete the card sort.
+
+## Timeline
+We would like to complete this card sort by or before February 14, 2024
+
+### Prepare
+Because this is a smaller part of a larger initiative we will be performing this test before the midpoint review.
+
+We will be running a pilot session by sending out the card sort to members of our team.
+Research sessions
+Between Jan 30 and Feb 14 2024
+Length of sessions
+15 min or less
+
+## Approvals
+- Reviewed and approved by " " on "MM DD, YYYY"
