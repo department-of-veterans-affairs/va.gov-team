@@ -60,6 +60,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## 1/24/2023 - 2/6/2024 
+#### NOTES
+- Not all goals were achieved because of the shifting requirements for integrating with Oracle Health
+
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
