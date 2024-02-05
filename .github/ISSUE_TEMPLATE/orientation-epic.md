@@ -50,6 +50,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
 - [ ] Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization)
    - **Note:** Membership in the VA Github Organization is a prerequisite for getting access to `vets.gov-write` and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
+- [ ] [Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html) on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
 ### Norms and standards
 - [ ] Review guidance on the [Platform Satisfaction Survey](https://depo-platform-documentation.scrollhelp.site/support/platform-satisfaction-survey)
 ### Working on the platform
