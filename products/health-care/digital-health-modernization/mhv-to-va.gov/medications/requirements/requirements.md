@@ -208,7 +208,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Assets
 * [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=Y27dDH)
-* [Sketch designs](https://www.figma.com/file/ErrBlPKh9aDxVRu9Ua6OlJ/RX-IMPORT-from-Sketch-FOR-REFERENCE?type=design&t=V4EbDpyXVox5ZrJg-6)
+* [Figma designs](https://www.figma.com/file/UGHasFKuKENvKz8AgSmxtI/Medications?type=design&node-id=1-7&mode=design&t=ywArxhr9nceeUWbZ-0)
 * [Usability testing report, round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1/Rx_Findings_Readout.pdf)
 * [Usability testing report, round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT/rx-round2-findings.pdf)
 
