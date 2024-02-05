@@ -40,7 +40,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
         1. Same data points as 1a above
 2. **Average number of searches per user** _Do users feel the need to search multiple times?_
 3. **% of searches by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
-4. **% of searches with a specified organization/representative name** _Are users searching with a particular organization or representative in mind?_ 
+4. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_ 
 5. **% of searches that do not return results**
     1. Detail of search parameters that result in no results
 2. **% of searches where the user continues beyond the first page of results** _Are users feeling the need to go further in search results?_
