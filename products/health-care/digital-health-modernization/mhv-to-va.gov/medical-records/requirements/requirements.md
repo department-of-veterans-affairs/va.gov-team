@@ -158,7 +158,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 | We will not include a link to send a SM if allergies info is incorrect. Instead, we will just tell a patient to inform their provider at their next appointment. | Based on feedback from Dr. Josephs, updating allergies information can wait until a patient's next appointment. This is also thought to decrease unecessary SMs.|
 </details>
 
-> * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=0-1&mode=design&t=ywArxhr9nceeUWbZ-0)
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=nPAS0M&nav=eyJoIjoiMjExMTI5NTc3MiJ9)
   
 ### Vaccines
@@ -236,7 +236,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 | The following field should not be shown to users: CPT code, who administered the code | After discussion, the SMEs determined they were not needed for patient view and may cause confusion. A user would still be able to get this information by asking their provider directly or submitting a full records request.|
 </details>
 
-> * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=0-1&mode=design&t=ywArxhr9nceeUWbZ-0)
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=okyHLO&nav=eyJoIjoiMTEyNDQyMDU5MSJ9)
 
 ### Health conditions
@@ -313,7 +313,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 </details>
 
-> * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=0-1&mode=design&t=ywArxhr9nceeUWbZ-0)
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=F548Gc&nav=eyJoIjoiODE5OTM2Njc4In0)
 
 
@@ -393,7 +393,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 | | |
 </details>
 
-> * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=0-1&mode=design&t=ywArxhr9nceeUWbZ-0)
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Subject matter expert review - Progress notes](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=0oCrbC&nav=eyJoIjoiMTAzNzUwNzk3NSJ9)
 * [Subject matter expert review - Discharge summaries](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=JmbRri&nav=eyJoIjoiNTY4MDE0NDc0In0%3D)
 
@@ -635,7 +635,7 @@ Back button: Yes, `< Back to medical records`
 |At first, only allow for full record downloads.|Classic MHV allows users to select categories and time frames as parameters for downloading your data. To download a specifc category of data, a user should navigate to that section of MHV on VA.gov. THerefore, category selection doesn't make much sense in this new app. However, time frame does, but to limit scope, and because downloading all is required in all versions of the tool, we decided to start there. Consider adding time frame selection in future versions of the app.|
 </details>
 
-* [Phase 0 launch design file](https://www.sketch.com/s/4c2728ff-649d-4212-98d2-04c9b3fff9d4/a/mPKK7Q9)
+* [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 
 ### Medical record settings
 > [!NOTE]
@@ -681,7 +681,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 </details>
 
-* [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design)
+* [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/MR%20sharing%20settings%20content%20(VHIE).docx?d=wac25c016d3b24e649e0c607ff8cc33f9&csf=1&web=1&e=nfXSFv)
 
 
