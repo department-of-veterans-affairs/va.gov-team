@@ -22,6 +22,7 @@
 - You can close out Release tickets post release with no impact 
 - If VA PO is unable to approve the ticket, get another VA PO to approve and then have FE approve as they have Admin access 
 - If this document is updated, it needs to be re-uploaded to [Github Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases)
+- Use the DSVA Release Slack as the main hub of communication and feedback for approvers and needs 
 
 
 ## Contacts:
@@ -164,6 +165,7 @@ Example of Email notification:
 - Once PM is approved then click that check box on the ticket 
 
 ## Step 5:  Request VA PO approval in Slack
+- Verify the ticket is fully updated before reaching out to POs 
 - This must be done on the day of their due date. They cannot sign off  early due to system automation issues 
 - In the Release Thread in DVSA va-mobile-app channel post something like
    Hello @ VA PO , this release is ready for your sign off. If you have any questions please let me know.
