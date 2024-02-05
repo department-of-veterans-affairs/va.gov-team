@@ -32,20 +32,24 @@ This page is meant to help researchers, designers, and developers working within
 <!-- TOC end -->
 
 ## Our mission
-VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
-- We strive to make VA.gov as accessible for Veterans as possible.
-- We aim to do more than pass a Section 508 audit. While we need to meet the official [federal government accessibility baseline](https://ictbaseline.access-board.gov/), we focus on **usability**, not just compliance.
-- We "shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
+VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). 
 
+Our mission is to empower product teams to collaborate with disabled Veterans and caregivers by enhancing the culture and tools used to co-create and maintain services that are accessible beyond compliance. 
 
+Our vision is for every disabled Veteran and caregiver to have guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations.
 
 
 ## Strategy and standards
 - Learn more about our [accessibility strategy](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy).
 - Find out what [experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards) a VA.gov product needs to meet before it launches.
+    - Our standards are informed by the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) (WCAG).
+    - Components in the [VA Design System](https://design.va.gov/components/) document accessibility considerations. 
 - The [accessibility defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) is our common language for determining the seriousness of an accessibility issue.
 
-We aim to follow [inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/) in all of our work.
+We aim to:
+- Follow [inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/) in all of our work.
+- Do more than pass a Section 508 audit. While we need to meet the official [federal government accessibility baseline](https://ictbaseline.access-board.gov/), we focus on **usability**, not just compliance.
+- "Shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
 
 ## Accessibility resources by discipline
 All of us are responsible for the accessibility of our products. And every discipline has a role:
@@ -172,7 +176,10 @@ There are two routes to access support from accessibility specialists:
 
 
 ### Route 1: Collaboration Cycle support from Governance
-Teams **creating new features or products** are required to go through the Collaboration Cycle, which includes accessibility reviews. The Collaboration Cycle is managed by the Governance team.
+Teams **creating new features or products** are required to go through the Collaboration Cycle, which includes accessibility reviews. Teams **iterating on existing features or products** are encouraged to get feedback through the Cycle as well. 
+
+The Collaboration Cycle is managed by the Governance team.
+
 <details><summary>Learn about the Collaboration Cycle</summary>
 
 
@@ -243,7 +250,7 @@ Examples:
 
 <details><summary>Collaboration Cycle tickets</summary>
 
-#### Collaboration Cycle tickets
+#### Collaboration Cycle Staging Review tickets
 
 During a Collaboration Cycle Staging Review, accessibility specialists will review your product. If they find any accessibility issues, they’ll write a ticket for each issue that outlines:
 - The issue (often with screenshots or video examples)
