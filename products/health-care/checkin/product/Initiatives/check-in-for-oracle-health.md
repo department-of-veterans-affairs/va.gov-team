@@ -45,7 +45,7 @@ Adding features to the process that do not make it easier for Veterans to access
 - Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
 
 <details>
-<summary>OTHER CONSIDERED OPTIONS THAT WE ARE NOT DOING</summary>
+<summary>OTHER OPTIONS THAT WE CONSIDERED BUT ARE NOT DOING</summary>
 
  ## MODIFIED OPTION 1 - Travel Claim Only
 Decisions reached on 1/30/2024 with OCTO and IVC: 
