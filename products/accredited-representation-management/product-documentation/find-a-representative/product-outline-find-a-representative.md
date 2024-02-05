@@ -25,29 +25,37 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 
 
 ### Key Performance Indicators (KPIs)
-1. SEO insights for...
-    1. **Landing page for representatives** `/get-help-from-accredited-representative`
-        1. **Page views**
-        2. **Unique page views**
-           1. **% of unique page views from VSO/VA IP addresses** _How often are VSO and VA employees using our tool?_
-        4. **% of unique views** 
-        5. **Bounce rate** _What percent of users land on this page and immediately leave VA.gov without any interaction?_
-        6. **Entrance rate** _What percent of users enter the VA.gov site on this page?_
-        7. **Exit rate** _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
-        8. **Top previous pages by %** _What pages are users coming from?_
-        9. **Top next pages by %** _What pages are users visiting next?_
-    2. **Find a Representative tool** `get-help-from-accredited-representative/find-rep`
+**SEO Insights**
+1. **Landing page for representatives** `/get-help-from-accredited-representative`
+   1. **Page views**
+   2. **Unique page views**
+      1. **% of unique page views from VSO/VA IP addresses** _How often are VSO and VA employees using our tool?_
+   4. **% of unique views** 
+   5. **Bounce rate** _What percent of users land on this page and immediately leave VA.gov without any interaction?_
+   6. **Entrance rate** _What percent of users enter the VA.gov site on this page?_
+   7. **Exit rate** _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
+   8. **Top previous pages by %** _What pages are users coming from?_
+   9. **Top next pages by %** _What pages are users visiting next?_
+2. **Find a Representative tool** `get-help-from-accredited-representative/find-rep`
         1. Same data points as 1a above
-2. **Average number of searches per user** _Do users feel the need to search multiple times?_
+
+**Search Parameter Usage**
+1. **% of searches where the representative definitions are expanded** _How often do users need more information on representative type?_
 3. **% of searches by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
-4. **% of searches by search radius** _What search radius selections are users gravitating towards?_
 5. **Top 10 search cities or postal codes** _What areas are users searching in?_
+4. **% of searches by search radius** _What search radius selections are users gravitating towards?_
 6. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_ 
 7. **% of searches that do not return results**
     1. Detail of search parameters that result in no results
-2. **% of searches where the user continues beyond the first page of results** _Are users feeling the need to go further in search results?_
-3. **% of searches where the representative definitions are expanded** _How often do users need more information on representative type?_
-5. **% of searches where the user is logged in**
+
+**Search Behavior**
+1. **Average number of searches per user** _Do users feel the need to search multiple times?_
+2. **% of clicks by contact info type (address, phone, email)** _How do users prefer to contact a representative?_
+3. **% of searchers where the user reports outdated information (at least once)** _How often are users reporting outdated information_
+5. **% of searches where the user continues beyond the first page of results** _Are users feeling the need to go further in search results?_
+6. **% of searches where the user is logged in**
+
+Data Reporting
 
 ### Baseline KPI Values
 1. **Number of searches** _measuring growth_
