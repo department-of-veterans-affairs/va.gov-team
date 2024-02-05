@@ -3,11 +3,19 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 
 ## Copy this section
 ### Study name:
-- **Team/Researcher:**
+- **Team/Researcher:** 
 - **Date:**
 - **Link to study:**
 - **Takeaway**:
 ----
+### Study name: MHV on VA.gov secondary navigation comparison research
+- **Team/Researcher:** My HealtheVet on VA.gov Cartography Team
+- **Date:** 1/25/2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study)
+- **Takeaway**: At the beginning of their session, P6 talked about how confusing it is to have multiple sign-in options. ([session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes/2024-1-25-p6.md#p6))
+
+  > That’s a good question because when I sign in, there’s like 3 or 4 different access points, and I have been trying to use, and it keeps coming up, the newest one that’s there, although I think I’m using ID.me lately. But, frankly, it’s al little bit confusing which one to use. Sometimes they pass you to another place where you have to enter the password again to get in. I have used other sites for other research and interest I have about faiciltes and recreational opportunities but pretty much I go tot he top one. And life would be so much easier for me if there was only one.
+
 ### Study name: Federal HF usability testing--Phase 1
 - **Team/Researcher:** Sitewide, Cindy Merrill
 - **Date:** 12/20/20203
