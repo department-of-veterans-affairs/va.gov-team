@@ -3,12 +3,12 @@
 Last updated by @beckyphung on October 30, 2023
 
 **Jump to:**
-- [Inquiry form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#inquiry-form)
-- [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#medallia)
-- [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#dashboard)
-- [Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#profile)
-- [Notify](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#notify)
-- [Assumptions/Risks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#assumptionsrisks)
+- [Inquiry form](#inquiry-form)
+- [Medallia](#medallia)
+- [Dashboard](#dashboard)
+- [Profile](#profile)
+- [Notify](#notify)
+- [Assumptions/Risks](#assumptionsrisks)
 
 ## Inquiry form
 
