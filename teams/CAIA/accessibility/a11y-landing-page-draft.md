@@ -250,6 +250,12 @@ Examples:
 
 <details><summary>Collaboration Cycle tickets</summary>
 
+### Collaboration Cycle Design Intent and Midpoint Review Tickets
+
+The Governance team will provide suggestions for how to develop an accessible product based on your user flows, wireframes, and mockups.
+
+Accessibility specialists will document their feedback on the VFS-provided artifacts following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback). They may also provide additional notes that don’t comment on the artifacts themselves but are important for implementation (eg. engineering/coding notes).
+
 #### Collaboration Cycle Staging Review tickets
 
 During a Collaboration Cycle Staging Review, accessibility specialists will review your product. If they find any accessibility issues, they’ll write a ticket for each issue that outlines:
