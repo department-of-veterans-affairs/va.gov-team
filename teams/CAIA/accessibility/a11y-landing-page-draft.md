@@ -280,7 +280,7 @@ If you’re reviewing your product for accessibility issues, you can write your 
 ## Ensure that your work is Section 508 compliant
 
 The VA Section 508 Office validates compliance with federal law mandating accessible information and communication technology. 
-- Product teams are **required** to submit a VA Section 508 Office Audit Request **before launch**.
+- Product teams working on authenticated pages and applications are **required** to submit a VA Section 508 Office Audit Request. We prefer that you submit your audit **before launch**, if possible.
 - The Section 508 Office can also **review your non-HTML documents** (PDF, DOCX) for accessibility issues.
    - [Learn when and how to create accessible non-HTML documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
 
