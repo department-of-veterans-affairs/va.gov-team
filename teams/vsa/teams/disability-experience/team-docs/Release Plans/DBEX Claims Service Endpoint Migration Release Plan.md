@@ -231,11 +231,16 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 
 ### Stage F: Go Live!
-- Date Started: 
+- Date Started: 1/29
 - Percentage of Users (and roughly how many users do you expect this to be): 100% 
 #### Results  
 - Anomalies
 - Rollbacks:
+    -       Rollback reason: Sudden drop in activity on both sides of the migration over the weekend
+            Date: 1/5/24
+            Severity/Impact: 
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
 
 <br>
 
