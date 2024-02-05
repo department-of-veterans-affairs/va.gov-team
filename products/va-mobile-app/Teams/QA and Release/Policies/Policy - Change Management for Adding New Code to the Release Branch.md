@@ -32,20 +32,23 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 2.) Someon in the Team identifies code was not part of the release branch cut as they had expected and discusses amongst the Team
 
 3.) Team PM determines release branch needs to be modified, reaches out to the Release QA Tester with their request to discuss what is going on, why its needed, options, and timing
-    - Ideally should be done the day the release branch was cut, anything later will impact release timeline
-    - Discussions may also require an updated release timeline to account for this delay in order to meet original PO approval date
-    - Updates to be made to the DSVA Slack Thread with discussion and next steps 
+  * Ideally should be done the day the release branch was cut, anything later will impact release timeline
+    
+  * Discussions may also require an updated release timeline to account for this delay in order to meet original PO approval date
+    
+  * Updates to be made to the DSVA Slack Thread with discussion and next steps 
     
 4.) If Team PM still wants to modify the release code to include new code, Team PM will need to get PO approval 
-    - Release process will be put on hold while we wait on PO approval to reduce rework
-    - Approval can be included in the DSVA Slack thread if there is one 
+  * Release process will be put on hold while we wait on PO approval to reduce rework
+    
+  * Approval can be included in the DSVA Slack thread if there is one 
 
 5.) Team PM will provide POs documented approval to the Release QA Tester & update the Release Ticket with this change 
 
 6.) PM Team Engineer will update the code accordingly and be onstandup for any testing findings 
 
 7.) QA and Release team will test within their means and timeline given and document the decision to modify the release code in their decision log 
-    - If new code leads to findings that prevent QA from signing off on the release; the requesting PM will need to discuss if release continues without QA approval 
+  * If new code leads to findings that prevent QA from signing off on the release; the requesting PM will need to discuss if release continues without QA approval 
 
 8.) Continue with release process
 
