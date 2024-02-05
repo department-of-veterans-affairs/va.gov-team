@@ -26,7 +26,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 
 ### Key Performance Indicators (KPIs)
 1. SEO insights for...
-    1. **Landing page for representatives** 
+    1. **Landing page for representatives** `/get-help-from-accredited-representative`
         1. **Page views**
         2. **Unique page views**
            1. **% of unique page views from VSO/VA IP addresses** _How often are VSO and VA employees using our tool?_
@@ -36,7 +36,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
         7. **Exit rate** _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
         8. **Top previous pages by %** _What pages are users coming from?_
         9. **Top next pages by %** _What pages are users visiting next?_
-    2. **Find a Representative tool**
+    2. **Find a Representative tool** `get-help-from-accredited-representative/find-rep`
         1. Same data points as 1a above
 2. **Average number of searches per user** _Do users feel the need to search multiple times?_
 3. **% of searches by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
