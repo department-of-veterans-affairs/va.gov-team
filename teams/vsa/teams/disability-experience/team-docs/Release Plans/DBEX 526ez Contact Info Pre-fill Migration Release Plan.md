@@ -1,5 +1,3 @@
-# NOTE: THIS DOC IS NOT IN ITS FINAL FORM. PLEASE DISREGARD WHILE YOU SEE THIS NOTE!!!
-
 # DBEX 526ez Contact Info Pre-fill Migration Release Plan
 
 ### NOTE:
