@@ -66,7 +66,7 @@ Data collection will be remote. We will use Zoom.
 
 ## **Research materials**
 
-Link to conversation guide
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-02-findability-study)
 
 [Link to prototype](https://www.figma.com/proto/UGHasFKuKENvKz8AgSmxtI/Medications?type=design&node-id=435-10929&t=gwC0VbqMzSjWxrAW-0&scaling=contain&page-id=253%3A4341&starting-point-node-id=435%3A10929&hotspot-hints=0)
 
