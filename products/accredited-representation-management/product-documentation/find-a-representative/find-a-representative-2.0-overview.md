@@ -17,9 +17,7 @@ The following overview demonstrates the changes we'll be implementing for versio
             1. Single consolidated field that accepts address 1, city, state, zip code
             2. `Use my location` feature to populate this location field
    3. Optional fields
-      1. Search by organization and/or name
-         1. Organization = Veteran Service Organization or law firm
-         2. Name = Veteran Service Officer 🆕 or attorney 
+      1. Search by representative name
 2. Display search results
    1. List display
       1. Distance in miles
