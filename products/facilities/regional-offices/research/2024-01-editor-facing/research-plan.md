@@ -68,7 +68,23 @@ Sessions will be remote over Zoom.
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Participants will be recruited from the bi-weekly training sessions being conducted for regional office editors who are new to editing in Drupal. Calendly links will be shared at the end of the sessions and editors will be encouraged to sign up for one.
+Participants will be recruited from the bi-weekly training sessions being conducted for regional office editors who are new to editing in Drupal. Bookings link will be shared at the end of the sessions and editors will be encouraged to sign up for one (see script below).
+
+**Recruitment script for training sessions** 
+Hello, everyone! I'm Alexis, and I'm a researcher on the facilities team. Part of my job is to help make sure the products we create work well for both Veterans and for editors like yourselves. 
+
+As part of that work, I'd love to meet with as many of you (individually) as possible as you begin editing facility information in Drupal. 
+Here's a little about what you can expect in these sessions:
+- They'll take **one hour or less**
+- You'll **complete actual tasks in Drupal while sharing your screen** and telling me what you think about the experience
+- I'll be seeking your **uncensored opinions**, so you can share whatever's on your mind without worrying about being diplomatic
+- There will typically be an observer or two that will join us, just to make sure I capture everything
+- We'll also **record** the session, but I'm the only one who will review the recordings and then they'll be deleted
+- We'll use the data we gather from talking to you to **make improvements to the editing and training experience** before we roll the new sites out nationally
+
+If you're willing to help us with this important work, please use the link provided in chat to sign up for a time slot. Once you sign up, you can expect an email from me within a couple of days with more info about the session! 
+
+[Bookings page](https://outlook.office.com/bookwithme/user/200913e2d3394a81b950c33d967f9065@va.gov/?ge[…]GF59ZUEUiiwMA7idk6iIbCd-1XBLUkDQ&anonymous&ep=mLinkFromTile)
 
 ### Recruitment criteria
 Participants must be editors participating in the pilot MVP roll out of new VBA regional office pages. There are approximately 14 editors in the recruitment pool. We would like to interview at least half of them (7).
