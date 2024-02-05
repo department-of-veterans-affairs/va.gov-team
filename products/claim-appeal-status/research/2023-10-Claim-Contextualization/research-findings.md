@@ -1,12 +1,12 @@
-# [Study] Research Findings 
+# Claim Contextualization Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Benefits Management Tools**
 
-Date: MM/DD/YYYY
+Date: 02/05/2024
 
-[Designer 1] [email], [Designer 2] [email]
+Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](https://docs.google.com/presentation/d/1b2CWI4cUN7ZmPUE_XnXZuV-TivTjX6b05ymPnFyOXgw/edit#slide=id.g892adcb623_0_141)
 
 **Jump to:**
 
