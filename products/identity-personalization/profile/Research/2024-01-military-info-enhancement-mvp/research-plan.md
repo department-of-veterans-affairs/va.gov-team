@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience Profile, Military Information, [Date]
+# Research Plan for Authenticated Experience Profile, Military Information, Feburary 2024
 
 ## Background
 
