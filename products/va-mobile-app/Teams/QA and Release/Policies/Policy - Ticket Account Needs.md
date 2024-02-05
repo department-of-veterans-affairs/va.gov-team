@@ -10,7 +10,8 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
  - Mobile does not own or possess any production test accounts
  - For login.gov auth code you need to log into the TUD to get it
  - Seen that VA teams need their PMs to prioritize and coordinate the work
- - Currently not a centralized team that can handle this across all of VA - work with VA OCTO POs involved 
+ - Currently not a centralized team that can handle this across all of VA - work with VA OCTO POs involved
+ - Given QA's focus on just testing and validation, they will not be responsible for leading  the search / coordination on test account and datab prep needs - Team PMs will own this and QA will consult on whats needed 
 
 ### Process
  - Attempt to pull test accounts from what Mobile has used in the past
