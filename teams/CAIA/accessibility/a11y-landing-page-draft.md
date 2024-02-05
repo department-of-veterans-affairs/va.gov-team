@@ -284,7 +284,7 @@ The VA Section 508 Office validates compliance with federal law mandating access
 - The Section 508 Office can also **review your non-HTML documents** (PDF, DOCX) for accessibility issues.
    - [Learn when and how to create accessible non-HTML documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
 
-[Request support from the VA 508 office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office).
+[Request support from the VA Section 508 office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office).
 
 ## Improve your skills
 <details><summary>Join a community</summary>
