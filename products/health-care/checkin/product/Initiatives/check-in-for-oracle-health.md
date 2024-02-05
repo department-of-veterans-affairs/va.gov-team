@@ -26,9 +26,7 @@ Adding features to the process that do not make it easier for Veterans to access
 - Release - TBD
    
 ## MVP
-~[Work flow for each option below](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14-6233&mode=design)~
-
-## UNDER DISCUSSION OPTION
+### OPTION UNDER CONSIDERATION
 - Getting a link options
     - Veteran texts "travel" on the day of appointment and receives a link (link is tied to the appt date) 
     - Veteran receives a link after confirming their appointment (link is tied to the appt date) (we say, only if you're eligible should you click the link)
@@ -40,7 +38,16 @@ Adding features to the process that do not make it easier for Veterans to access
 - We send an SMS to the Veteran on the claim submission status
 - Veteran sees a confirmation page that their claim was submitted and that they will receive an SMS on submission status
 
-## MVP option decision- Modified Option 1 - Travel Claim Only
+### Not Included in the MVP
+- Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
+- Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
+- Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) 
+- Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
+
+<details>
+<summary>OTHER CONSIDERED OPTIONS THAT WE ARE NOT DOING</summary>
+
+ ## MODIFIED OPTION 1 - Travel Claim Only
 Decisions reached on 1/30/2024 with OCTO and IVC: 
 - Veteran receives day of 45 minute appt reminder (VEText Work)
   - If Veteran hasn't already confirmed their appointment, VEText will ask them to confirm by replying Y or N
@@ -56,9 +63,7 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
 
 **NOTE: we will NOT return a check-in link for telehealth (CVT included) or telephone appointments**
    
-## Other MVP Options considered- but we are not doing. 
-
-### MVP OPTION 1 - DO NOT INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER
+## OPTION 1 - DO NOT INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
         - **We will create a new Initiate Check-in endpoint for VeText to call to initiate check-in for OH appointments**
@@ -80,7 +85,7 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
            - **We will submit their travel claim**
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
-### MVP OPTION 2-INCLUDE "ARE YOU AT THE FACILITY" PAGE AND MODIFY WORKFLOW BASED ON ANSWER
+## OPTION 2-INCLUDE "ARE YOU AT THE FACILITY" PAGE AND MODIFY WORKFLOW BASED ON ANSWER
 - **NOTE: if we are not able to get the Patient ICN (in order to create a MAP token) then this option is not viable in the timeframe**
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
@@ -116,7 +121,7 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
            - **We will submit their travel claim**
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
-### MVP OPTION 3 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER
+## OPTION 3 - INCLUDE "ARE YOU AT THE FACILITY" PAGE AND STATUS UPDATES TO OH BASED ON ANSWER
 - **NOTE: if we are not able to get the Patient ICN (in order to create a MAP token) then this option is not viable in the timeframe**
 - Veteran can text "check in" to receive an eCheck-in link for an OH appointment that is within the check-in window
     - CIE work
@@ -154,21 +159,15 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
            - **We will submit their travel claim**
            - **We will send a status update to Vista that the Veteran has completed the check-in process**
 
-### Not Included in the MVP
-- Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
-- Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
-- Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) 
-- Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
-     
+</details>
+    
 ## Questions 
 - Does IVC want VeText to check for insurance update?
     - Answer: No
 - How are we sending the arrived status to OH? (via MAP services?, VeText?)
     - Answer: we will pursue setting the status via a vets-api call that interfaces with CES
 
-## Workflows
-
-### Veteran Workflow
+## Resources
 - [FINAL TECH NOTES_ WORKING DRAFT of PCI Oracle Cerner Integration Pre-Check-In and E-Check-In Workflows v.01_KL (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14054574/FINAL.TECH.NOTES_.WORKING.DRAFT.of.PCI.Oracle.Cerner.Integration.Pre-Check-In.and.E-Check-In.Workflows.v.01_KL.1.pdf)
 - [Check-in OH Userflow Options 01 30 2024 (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/14100500/Check-in.OH.Userflow.Options.01.30.2024.pdf)
 - [Figma file userflow options](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14%3A6233&mode=design&t=td4i9MjyToz1hiUd-1)
