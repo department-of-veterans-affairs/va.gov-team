@@ -131,8 +131,8 @@ VFS teams can request assistive technology research support through CAIA, where 
 - Labels and assignees are tied to tickets.
 ### Labels
 4 main labels are used to indicate the CAIA work stream involved with the work:
--  ‘sitewide CAIA’ Used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
--  `sitewide CAIA` used to denote CAIA content involvement with the work.
+-  `sitewide CAIA` - used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
+-  `sitewide content` used to denote CAIA content involvement with the work.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
  - `sitewide IA`- used to denote that the CAIA Information Architecture team has work involvement.
  - `CAIA-a11y-research` - used to denote CAIA research involvement for Assistive Technology support.
