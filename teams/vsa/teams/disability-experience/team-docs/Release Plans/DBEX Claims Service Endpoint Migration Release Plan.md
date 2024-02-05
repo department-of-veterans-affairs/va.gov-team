@@ -236,7 +236,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 #### Results  
 - Anomalies
 - Rollbacks:
-    -       Rollback reason: Sudden drop in activity on both sides of the migration over the weekend
+    -       Rollback reason: Sudden drop in activity on both sides of the migration over the weekend. No increase in error activity
             Date: 1/5/24
             Severity/Impact: 
             Ticket(s) created to address:
