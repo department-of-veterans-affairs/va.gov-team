@@ -7,7 +7,8 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 * **1/23/24 Follow-up  Collaborate with Mobile's OCTO POs in how to handle test account creation and data prepping need which are then documented (Adam - not here its a FYI)** 
    * OCTO POs (Janie / Kay) said to try and use the VA Platform [Test User Dashboard Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) as a starting point
    * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
-   * Moving forward - QA will attempt to use Test User Dashboard proactively, if not able to find testing accounts / data needs there then QA will rely on Team PMs to coordiante needs with OCTO POs to get unblocked 
+   * Moving forward - QA will attempt to use Test User Dashboard proactively, if not able to find testing accounts / data needs there then QA will rely on Team PMs to coordiante needs with OCTO POs to get unblocked
+   * Have not reached out to Rachel for production test accounts - will follow-up after leave 
 
 01/23/24
 * **Discuss implementation of Design System components into the Flagship app (Kelly)**
@@ -30,7 +31,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
       * Multiple areas use test accounts (research, review, testing, etc)
       * VA owns test account creation and modification & can modify the data when they need to - which can unexpectedly break existing Mobile tests or delay project testing  
       * Mobile's test account needs will require involving different VA areas and their different processes (VAOS for Appts, Prescriptions for RX, etc) 
-      * QA can help identify what is needed but is reliant on the Team PM to coordinate with the OCTO PM on VA's processes ) 
+      * Currently QA can help identify what is needed but is reliant on the Team PM to coordinate with the OCTO PM on VA's processes 
       * Long Term Platform Strategy expectation is Test Account Management and Data prep would be done outside of QA
       * Though Global is not working on specific H&B projects, Global's testing needs will involve test accounts with H&B needs like Personalization currently does
   * Problem 
