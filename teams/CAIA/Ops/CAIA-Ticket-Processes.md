@@ -130,7 +130,7 @@ VFS teams can request assistive technology research support through CAIA, where 
 - Similar assigning and labeling rules apply to SUPER EPICS that also apply to EPICS.
 - Labels and assignees are tied to tickets.
 ### Labels
-4 main labels are used to indicate the CAIA work stream involved with the work:
+5 main labels are used to indicate the CAIA work stream involved with the work:
 -  `sitewide CAIA` - used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
 -  `sitewide content` used to denote CAIA content involvement with the work.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
