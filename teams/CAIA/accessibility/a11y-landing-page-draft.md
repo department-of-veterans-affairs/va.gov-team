@@ -163,8 +163,28 @@ Review the [accessibility section of VA Platform](https://depo-platform-document
 
 </details>
 
-`Or we could use this model instead?` [GH page: Expectations Per Discipline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/expectations-per-discipline.md)
+<details><summary>Product managers</summary>
 
+### Resources for product managers
+
+Product managers at VA play a key role in “shifting left” - putting accessibility at the heart of the entire product lifecycle. 
+
+#### Onboard team members
+- Ensure that all new team members go through [accessibility onboarding
+](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation)
+#### Organize your sprints and meetings
+- Invite accessibility specialists to relevant meetings, from the beginning of the project
+- Prioritize and advocate for accessibility reviews, audits, and testing
+- Help the team meet accessibility requirements as part of the Collaboration Cycle
+
+#### Write accessibility-minded tickets
+- Work accessibility into team and scrum ceremonies, e.g., add accessibility into acceptance criteria
+- Pull accessibility defects into sprints, when necessary (learn about the [defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) and [how to write accessibility defect tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-to-write-good-accessibility-tickets.md))
+
+#### Get support for your team
+- Reach out to the <a href="#CAIA">CAIA team</a> for any needed accessibility-related support
+
+</details>
 
 
 ## Get help from accessibility specialists
@@ -191,7 +211,7 @@ Teams engage with the Collaboration Cycle throughout their product’s/feature�
 
 </details>
 
-### Route 2: General accessiblity support from CAIA
+<h3 id="CAIA">Route 2: General accessiblity support from CAIA</h3>
 Teams **at any point in the product/feature lifecycle** can get general accessibility support from the Sitewide Content, Accessibility, and Information Architecture (CAIA) team. They can also reach out to specialists on Slack.
 
 ⚠️**Note**: Any ticket(s) given, on either route, will drive your team towards a more accessible product.
