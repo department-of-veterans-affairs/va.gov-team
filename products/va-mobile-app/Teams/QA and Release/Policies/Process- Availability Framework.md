@@ -8,12 +8,19 @@ Availability Framework (AF) is an available solution for VA Health and Benefits 
 AF changes are made without a release and screen/content changes can be made in ~30 minutes once finalized and approved. 
 
 ### Things to consider: 
+* Only impacts Veterans who are on the mobile version of 2.20 or newer
+      * Veterans on versions prior to 2.20 will not be impacted 
 * Functionality enables Mobile to make changes directly to production 
-* AF does not have the capability to display based on Veteran variables without code improvements
-* Incident Commander in the Incident Response Process may use AF as a vaiable solution (hotfix, wait, etc)
+* AF does not have the capability to display based on Veteran variables unless that variable is available to AF to use 
+*  * Incident Commander in the Incident Response Process may use AF as a vaiable solution (hotfix, wait, etc)
 * Turning AF on or off at this time can only be done manually
-* Improvements will need to be prioritized and made by Flagship App teams
+* Improvements will not be made by Qart team as they do not have the resources to facilitate improvements - should be done by Flagship teams 
 * Depending on the situation responsiblity and accountablity owners may change
+* Including Versions as part of the parameters can make monitoring and management more complicated as AF would stay on for the version until no one is using that version any more
+* Some other targeting examples -> Platform, Platform Version, build # 
+
+### Component Related 
+* Only uses Alert Boxes and Mobile Alert Pop-up if doing scenario 1 
 * Pre-login screen Alert Box - limited on styling ; able to change alert box color between yellow and red
 * Alert box colors within the app cannot be changed
 * Yellow/red alert boxes or native alerts are currently the only component usable for AF (per Binny on 1/31)
