@@ -21,10 +21,10 @@
 > [!IMPORTANT]
 > Session tasks:
 > - (If using CAG for the mapping activity, sign into CAG)
-> - In the Zoom Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro
+> - In the Zoom Attendees section, make sure everyone except the participant is on mute
+> - In the Participant "More" menu, make sure "Play Join and Leave Sound" is unchecked
+> - Check Zoom screensharing setup and share permissions for participants.
+> - When the participant is ready, begin the session with the intro
 
 ## Intro - 5 minutes
 
@@ -98,10 +98,11 @@ Here are the items. Let’s go through them – is there any information that se
 ### Grouping items (5 minutes)
 Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
 
-	Look for:
-	- Chronological order
-	- Grouping types
-	- What’s missing
+> [!tip] 
+> Look for:
+> - Chronological order
+> - Grouping types
+> - What’s missing
 
 ### Ranking items (5 minutes)
 
@@ -142,7 +143,7 @@ Thanks so much for doing that mapping activity with me! It will really help me u
 For our last portion of the session, I’d like to share with you some designs. It has fake information in it right now, but this is an initial idea of one way to group a veteran’s military occupational specialties. I’d like to go through it with you and get your sense of what makes sense or what does not make sense to you.
 
 > [!IMPORTANT]
-> - In Mural, show the wireframe
+> In Mural, show the wireframe
 > - Include stickies with questions (gradually unhide them)
 > - Add stickies underneath with participant comments
 
