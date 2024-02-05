@@ -24,6 +24,7 @@ The following overview demonstrates the changes we'll be implementing for versio
       2. Name
       3. Address
       4. Phone number
+      5. Email 🆕
    3. Filter results by
       1. Distance (Closest to farthest)
       2. Representative Name / Organization Name (First/last name A to Z and Z to A)
