@@ -22,7 +22,7 @@ We created a full [flow of the existing burial benefits form](https://app.mural.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/91498500/e9f25a0d-741b-4bcd-a7fa-eebf07b4e643)
 
 ## Designs
-Working with OCTO, and VBA burial SMEs we created the [burial benefits MVP redesign in Sketch](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/v/p1o40Z)
+Working with OCTO, and VBA burial SMEs we created the [burial benefits MVP redesign in Figma](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-Redesign-MVP?type=design&node-id=0-1&mode=design&t=M3hqD2HILwjpa6N6-0)
 
 
 
