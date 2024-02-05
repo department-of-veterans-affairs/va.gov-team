@@ -250,7 +250,7 @@ Examples:
 
 <details><summary>Collaboration Cycle tickets</summary>
 
-### Collaboration Cycle Design Intent and Midpoint Review Tickets
+#### Collaboration Cycle Design Intent and Midpoint Review Tickets
 
 The Governance team will provide suggestions for how to develop an accessible product based on your user flows, wireframes, and mockups.
 
