@@ -89,13 +89,13 @@ ________________________________________________________________________________
 - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in**
          - ✔️ 🟥 [[Content][VistA appts] Create content for new "Which of these best describes how far you are from the clinic?" page and body content for 2-3 variations of the "You're checked in" page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74008)
-         - 🟥 [[Design][VistA appts] Create Final Wireframes for the new "Which of these best describes how far you are from the clinic?" page and 2-3 variations of the "You're checked in" page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74010)
+         - ✔️ 🟥 [[Design][VistA appts] Create Final Wireframes for the new "Which of these best describes how far you are from the clinic?" page and 2-3 variations of the "You're checked in" page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74010)
          - 🟥 [[UX][VistA appts] Update PCI Service Blueprint w changes to userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73965)
          - ✔️ 🟥 [[UX][VistA appts] Update User Flow Based on Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74272)
          - 🟥 [[Content][VistA appts] Update SMS Notifications for check in to address Veterans not being present after checking in online](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72851)
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
-        - 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
+        - ✔️ 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
         - 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
    - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
@@ -105,9 +105,9 @@ ________________________________________________________________________________
          - We are waiting on the DS to address the ticket we created for them before we finish this
      - 🟩 [Add an allDemographicsCurrentUUID Mock UUID for check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72829)
      - **Sub Goal: Migrate Sktech Files to Figma**
-        - 🟥 [[Design] Clean up pages in Figma Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73002)
-        - 🟥 [[Design] Create remaining components for MHV UA Library for production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74282) 
-        - 🟥 [[Design] Replace all local components in production frames to use components from MHV UA Library](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73878)
+        - ✔️ 🟥 [[Design] Clean up pages in Figma Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73002)
+        - ✔️ 🟥 [[Design] Create remaining components for MHV UA Library for production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74282) 
+        - ✔️ 🟥  [[Design] Replace all local components in production frames to use components from MHV UA Library](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73878)
         - 🟥 [[Design] Clean up pages in Figma Unified Check In file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73559)
      
 
