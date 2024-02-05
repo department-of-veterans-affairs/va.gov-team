@@ -10,35 +10,19 @@ assignees: 'coforma-terry'
 # CAIA Child Ticket
 
 `WIP`
-> [!IMPORTANT]
-> Remember to fill out Ticket Task section after opening/converting this ticket.
 
-## Ticket Tasks
-_Please complete these steps after creating this ticket._
-
-- [ ] Add ticket to Github Projects!
-- [ ] Add Originator/Team name from Custom Field Dropdown.
-- [ ] Add Opened Date.
-- [ ] Add Estimate
-
-## About the work
-_Describe the work to be done below._
-
-## Useful Context
-<details>
-<summary>Click to toggle context
-</summary>
-
-</details>
+## Issue description
+_What details are necessary for understanding the specific work or request tracked by this issue?_
 
 ## Acceptance Criteria
-Detail what is required to mark this work as complete.
-```[tasklist]
-### Acceptance Criteria
-```
+- [ ] _What will be created or happen as a result of this story?_
 
-## Tasks
-```[tasklist]
-### Tasks
 ```
+## Ticket Tasks
+_Complete these steps to configure this ticket._
 
+- [ ] Ensure ticket is linked to Epic
+- [ ] Add Originator/Team name 
+- [ ] Add Opened Date
+- [ ] Add Estimate
+- [ ] Add label(s) for discipline(s) involved in work
