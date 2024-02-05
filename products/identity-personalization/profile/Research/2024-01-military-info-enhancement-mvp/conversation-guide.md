@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > Project-specific setup tasks:
 > - Set up Mural board for notes and emerging themes
-> - Set up Powerpoint/Excel 
+> - Set up Mural OR Powerpoint/Excel for the mapping activity
 
 ### Day of the session
 
@@ -24,7 +24,7 @@
 > - In the Zoom Attendees section, make sure everyone except the participant is on mute.
 > - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 > - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro*
+> - When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
@@ -67,20 +67,21 @@ Thank you! I’ll also ask you again about the short video clips at the end of y
 I’d like to start with a few questions.
 
 1. What branch did you serve in?
-2. What was your last military occupational specialty before you retired from the military? In a few sentences, can you describe some of the responsibilities and tasks associated with that role?
-3. Can you walk me through your career progression over time? How did you transition between different occupational specialties, and what motivated those transitions?
-4. Did you ever have more than one occupational specialty at a time?
-5. What are some examples when you had to share your MOS data 
-6. Have you ever had to share any part of your military occupational history in order to receive benefits?
-	- Where/how did you get all your data? How did you share it?
-7. Have you had to share any part of your military occupational history for any other reasons? If so, what for?
+2. Did you separate or retire?
+3. What was your last military occupational specialty before you left from the military? In a few sentences, can you describe some of the responsibilities and tasks associated with that role?
+4. Can you walk me through your career progression over time? How did you transition between different occupational specialties, and what motivated those transitions?
+5. Did you ever have more than one occupational specialty at a time?
+6. What are some examples when you had to share your MOS data 
+7. Have you ever had to share any part of your military occupational history in order to receive benefits?
+	- Where/how did you get all your data? How did you share it with the VA?
+8. Have you had to share any part of your military occupational history for any other reasons? If so, what for?
 
 Thanks for sharing your experience and history with me! Before we go to the next part, do you recall giving permission to gather your military history ahead of time as part of this research session?
 
-`If permission YES`
+`If permission yes`
 Great. We’re going to use this information and do a mapping activity together.
 
-`If permission NO`
+`If permission no`
 Thanks for letting me know. I’d like to shift to showing you an approach to presenting military job history information . We’re in very early stages and hope to get input that will shape how we 
 
 ## Mapping activity - 15 minutes
@@ -97,11 +98,10 @@ Here are the items. Let’s go through them – is there any information that se
 ### Grouping items (5 minutes)
 Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
 
-> [!tip] 
-> Look for these themes:
-> - Chronological order
-> - Grouping types
-> - What’s missing
+	Look for:
+	- Chronological order
+	- Grouping types
+	- What’s missing
 
 ### Ranking items (5 minutes)
 
@@ -111,7 +111,7 @@ Is there anything else you’d like to share with me before we move to the last 
 
 Thanks so much for doing that mapping activity with me! It will really help me understand how people think about and use their military history.
 
-`If using Powerpoint/Excel in CAG`
+`If using CAG`
 
 I have your information in a Powerpoint/Excel spreadsheet. What I’d like to do is organize it together, with you telling me how you would group things. This will help me understand ways in which people organize their history in a way that makes sense to them.
 
@@ -124,7 +124,7 @@ Here are the items. Let’s go through them – is there any information that se
 Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
 
 > [!tip] 
-> Look for these themes:
+> Look for:
 > - Chronological order
 > - Grouping types
 > - What’s missing
@@ -133,7 +133,7 @@ Next, let’s group similar items together – how would you group things togeth
 
 - Next, let’s rank these groups by importance. What should go first? Second? etc.
 
-Is there anything else you’d like to share with me before we move to the last part of our session?
+- Is there anything else you’d like to share with me before we move to the last part of our session?
 
 Thanks so much for doing that mapping activity with me! It will really help me understand how people think about and use their military history.
 
@@ -147,10 +147,11 @@ For our last portion of the session, I’d like to share with you some designs. 
 > - Add stickies underneath with participant comments
 
 - What’s the first thing that comes to mind when you look at this?
-- How does this compare to the ordering we did just before this? [show side by side if needed]
-- How would having this on the website (in your profile) help you in applying for a new benefit or submitting a claim?
-	- How would you use it? Copy and paste it somewhere else?
-- How would this make that difficult? (i.e. is it missing anything key)
+- How does this compare to the ordering we did just before this? 
+- How would you use this information if it was on VA.gov?
+	- How would you expect to be able to use it? `e.g., copy and paste it somewhere else`
+	- `If needed:` How would this help you in applying for a new benefit or submitting a claim?
+- How would this make that difficult? (i.e. is anything missing)
 	- What about locations? How useful would their inclusion be? What would it be useful for?
 - How useful is it to you to include the start date of each occupation specialty? What about end dates?
 - What do you expect would happen if you clicked on this `show more` text?
@@ -162,12 +163,12 @@ For our last portion of the session, I’d like to share with you some designs. 
 ## Post-Task Interview - 3 minutes
 
 - Is there anything else you'd like to mention about what we've covered today?
-- Do you have any questions for me? 
+- Do you have any questions for me?
 
 ## Consent to use video clips – 1 minute
 
 - I want to return to the question I asked you at the beginning. After everything we’ve talked today, are you still comfortable with me possibly sharing a video clip of this session with my VA colleagues? As a reminder, I will remove all information that could be used to identify you before sharing and will only share the videos with VA colleagues with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+   - `If yes:` Is there any part of our discussion you would NOT want shared in a video clip?
 
 ## Thank-You and Closing - 1 minute
 
