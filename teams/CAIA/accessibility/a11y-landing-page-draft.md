@@ -298,6 +298,10 @@ Rhe VA trauma community is a grassroots, volunteer led multi-disciplinary commun
 </details>
 <details><summary>Learn more about accessibility</summary>
 
+### Accessibility overview
+- [18F’s accessibility guide](https://guides.18f.gov/accessibility/)
+- [Accessibility roles in government](https://www.section508.gov/manage/roles/)
+- 
 ### Cognitive issues / Traumatic Brain Injury (TBI)
 - [Cognitive considerations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations)
 - How to design for Veterans with [Traumatic Brain Injuries](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2177892586/Traumatic+Brain+Injury+TBI)
@@ -310,6 +314,7 @@ Rhe VA trauma community is a grassroots, volunteer led multi-disciplinary commun
 - [Live regions](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Live-Regions)
 
 ### Assistive technology
+- [Tips for usability testing with people with disabilities](https://www.section508.gov/test/usability-testing-with-people-with-disabilities/)
 - [Getting started with keyboard navigation and screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc02-getting-started-with-keyboard-navigation-and-screen-readers)
 - [Testing with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u)
 </details>
