@@ -8,6 +8,13 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Link to study:**
 - **Takeaway**:
 ----
+### Study name: Federal Header Authenticated Menu Usability
+- **Team/Researcher:** Liz Lantz, Authentciated Experience
+- **Date:** 1/31/2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/discovery-research/authenticated-menu-usability)
+- **Takeaway**: A screenreader participant, who had very little experience using the web or signing into websites, listened to the sign-in modal. After listening to the dialog box, they assumed they needed to call in to create an account. The rest of the content in the modal made no sense to them and they weren't sure how to proceed.  It's probably appropriate for them to call and get help, given the lack of familiarty with signing into websites.
+
+
 ### Study name: MHV on VA.gov secondary navigation comparison research
 - **Team/Researcher:** My HealtheVet on VA.gov Cartography Team
 - **Date:** 1/25/2024
