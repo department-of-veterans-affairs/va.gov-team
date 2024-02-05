@@ -9,7 +9,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support eCheck-in for CERNER Sites**
+     - **Sub Goal: Support Travel for CERNER Sites**
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
@@ -26,7 +26,7 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦🟩 [[ONGOING] Rotate AWS Keys](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74870)
 - **GOAL: Integrate with CERNER**
-    - **Sub Goal: Support eCheck-in for CERNER Sites**  
+    - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
         - ❗ 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
         - ❗ 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
@@ -59,11 +59,11 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________
 
-## 1/24/2023 - 2/6/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## 1/24/2023 - 2/6/2024 
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support eCheck-in for CERNER Sites**
+     - **Sub Goal: Support Travel for CERNER Sites**
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
@@ -77,7 +77,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support eCheck-in for CERNER Sites**
         - ✔️ ❗ 🟩 [[CHIP] SPIKE - figure out what is needed with a refresh endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73854)
