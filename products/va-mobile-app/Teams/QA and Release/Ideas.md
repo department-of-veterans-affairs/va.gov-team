@@ -23,9 +23,9 @@
 | Determine what QA's role and ownership is in ensure accessibility beyond compliance | Part of a convo with Tim on 1/18 | | | 
 | Determine QA's role in being the voice of the customer in identifying that the design being proposed will be confusing for the user | Part of a convo with Tim on 1/18 | | 
 | Can we increase automation of accessibility testing so we can test all types during RC testing vs rotating | | | 
-| Define and document rollback strategy  | 
-| How to capture metrics - manual , automated? Document | 
-
+| Define and document rollback strategy  | |
+| How to capture metrics - manual , automated? Document | |
+| availability framework documentation and process | |
 
 
 ---------------------------------
