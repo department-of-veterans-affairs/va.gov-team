@@ -70,7 +70,7 @@ Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs
 
 Participants will be recruited from the bi-weekly training sessions being conducted for regional office editors who are new to editing in Drupal. Bookings link will be shared at the end of the sessions and editors will be encouraged to sign up for one (see script below).
 
-**Recruitment script for training sessions** 
+### Recruitment script for training sessions
 Hello, everyone! I'm Alexis, and I'm a researcher on the facilities team. Part of my job is to help make sure the products we create work well for both Veterans and for editors like yourselves. 
 
 As part of that work, I'd love to meet with as many of you (individually) as possible as you begin editing facility information in Drupal. 
