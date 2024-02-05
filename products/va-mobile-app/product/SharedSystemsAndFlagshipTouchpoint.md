@@ -3,8 +3,11 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 **Agenda/Notes**
 02/06/24
 * **Removing White Button Variant and old colors from Flagship app (Kelly)**
-* Let's talk about getting Labs and Tests into the app, API seems to be ready
-
+* Let's talk about getting Labs and Tests into the app, API seems to be ready ( no name - whose topics is this ? ) 
+* **1/23/24 Follow-up  Collaborate with Mobile's OCTO POs in how to handle test account creation and data prepping need which are then documented (Adam - not here its a FYI)** 
+   * OCTO POs (Janie / Kay) said to try and use the VA Platform [Test User Dashboard Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) as a starting point
+   * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
+   * Moving forward - QA will attempt to use Test User Dashboard proactively, if not able to find testing accounts / data needs there then QA will rely on Team PMs to coordiante needs with OCTO POs to get unblocked 
 
 01/23/24
 * **Discuss implementation of Design System components into the Flagship app (Kelly)**
