@@ -29,7 +29,7 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 ## STEPS TO INCLUDE CODE TO THE RELEASE BRANCH AFTER ITS CUT: 
 1.) Day the release branch was cut, Teams review their tickets to ensure code was in the release branch as expected
 
-2.) Someon in the Team identifies code was not part of the release branch cut as they had expected and discusses amongst the Team
+2.) Someone on the Team identifies code was not part of the release branch cut as they had expected and discusses amongst the Team
 
 3.) Team PM determines release branch needs to be modified, reaches out to the Release QA Tester with their request to discuss what is going on, why its needed, options, and timing
   * Ideally should be done the day the release branch was cut, anything later will impact release timeline
