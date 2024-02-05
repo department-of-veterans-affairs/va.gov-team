@@ -7,7 +7,7 @@ VA.gov is piloting a new design for a standard header later this year, which inc
 This new design coincides with continued expansion work our team is planning for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We want to explore how we can further increase engagement and improve Veteran’s access to their most important tasks.
 
 - [Standardized header/footer product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/README.md), and [Phase 2 research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/research-plan.md)
-- [Authenticated menu product brief](%5B%EF%BF%BC%5D%28https%3A//github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/README.md%29)
+- [Authenticated menu product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/README.md)
 
 ### OCTO Priorities 
 

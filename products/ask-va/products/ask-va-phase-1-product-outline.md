@@ -114,7 +114,7 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 4. Launch Phase 1 - Launch the Ask VA front-end form and dashboard on VA.gov
   
 ### Additional references
-- See the complete scope of Phase 1 in this GitHub doc, [including Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md)
+- See the complete scope of Phase 1 in this GitHub doc, [including Must Have/Nice to have features for Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%20Must%20Have%20+%20Nice%20to%20Have.md)
 - Download the [Initiative Brief on the overall project here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/AVA%20-%20Initiative%20Brief%20v2.docx)
 
 ## Launch Strategy

@@ -83,4 +83,4 @@ We used Mural for this workshop. You can view the activities and findings here: 
 
 ## Next steps
 
-We have created or updated tickets in our sprint board based on our key takeaways. Next, we will prioritize which work is in and out of scope for [Phase 1 MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP:%20Must%20Have%20+%20Nice%20to%20Have.md).
+We have created or updated tickets in our sprint board based on our key takeaways. Next, we will prioritize which work is in and out of scope for [Phase 1 MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%20Must%20Have%20+%20Nice%20to%20Have.md).

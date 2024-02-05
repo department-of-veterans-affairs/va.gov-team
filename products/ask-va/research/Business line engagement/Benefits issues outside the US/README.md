@@ -30,4 +30,4 @@ Benefits issues outside the U.S., which includes:
 
 ### Engagements
 
-* [August 30, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20the%20U.S./August%2030%2C%202023.md)
+* [August 30, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20the%20US/August%2030%2C%202023.md)
