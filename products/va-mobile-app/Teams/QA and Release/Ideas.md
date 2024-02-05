@@ -22,7 +22,7 @@
 | Accesibility Testing valdiation on headers | came up during Headers project meeting on 1/18/24. Intent is to prevent headers from being missed. | | [7752](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7752) |
 | Determine what QA's role and ownership is in ensure accessibility beyond compliance | Part of a convo with Tim on 1/18 | | | 
 | Determine QA's role in being the voice of the customer in identifying that the design being proposed will be confusing for the user | Part of a convo with Tim on 1/18 | | 
-| testing account management and testing policy | need to work though how SS Platform QA team will need for test user and data prep in order to set expectations with those that work with us - Flagship and External Teams |
+
 | Can we increase automation of accessibility testing so we can test all types during RC testing vs rotating | | | 
 | Define and document rollback strategy  | 
 | How to capture metrics - manual , automated? Document | 
@@ -45,3 +45,4 @@
 |  Create a policy on steps to include new work after release branch has been cut | [Policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Policies/Inclusion%20of%20additional%20work%20after%20release%20branch%20is%20cut.md) | Jan 2024 |
 | Release / RC tester for 2Q 2024 | Tom will be | Jan 2024 |
 | Improve QA sizing | QA to size tickets using labels vs comments to make it easier to review and use for planning needs | Jan 2024 | 
+| testing account management and testing policy | [policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Policies/Policy%20-%20Ticket%20Account%20Needs.md) | [Feb b2024]
