@@ -58,17 +58,18 @@ The main body of the the standard intake request consists of the following secti
 
 ### Custom Field Section
 ![Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/f321f7c3-5cc4-4fd8-a7b6-43f95fc1fbad)
-This section contains filed data that is important for filyering and tracking issues within the CAIA pipeline. They include
+This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. They include:
 
 - **Assignees** - Shows who is involved in the work being done on the ticket
-- **Labels** - Sometimes known as tags - these allow for CAIA to 'tag' which discipline needs to be involved with the work. Current labels for CAIA are
+- **Labels** - Sometimes known as tags. These allow for CAIA to 'tag' which discipline needs to be involved with the work. Current labels for CAIA are:
   - sitewide CAIA
   - sitewide content
   - sitewide IA
   - sitewide accessibility
-  - CAIA translation
+  - CAIA translation 
+  - CAIA-a11y-research (used to denote CAIA research involvement for Assistive Technology support)
 - Milestone - not currently used
-- Status - the following tickets statuses exist in CAIA and relate to which swimlane the ticket will show in the [Main Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46) view in Github Projects.
+- Status - the following tickets statuses exist in CAIA and relate to which swim lane the ticket will be in in the [Main Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46) view in Github Projects.
   -  **New Intakes** - default lane for all new work that is submitted
   -  **EPICS** - used to group parent tickets, also known as EPICS. EPICS themself do not usually contain any direct work, rather they are a vessel for containing child tickets that are used to track the actual work done.
   -  **Backlog** - items not currently being worked on - usually of a lower priority
