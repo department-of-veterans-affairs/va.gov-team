@@ -98,6 +98,7 @@ Possible meeting times for a kick-off:
 
 - 50% must have submitted a disability claim specifically under the PACT Act
 - 50% must have served overseas
+- 50% must have served in a combat zone
 - There should be a mix of rank types (enlisted members, warrant officers, and officers)
 
 ##### Demographics
