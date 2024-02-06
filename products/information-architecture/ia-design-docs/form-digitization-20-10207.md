@@ -11,8 +11,8 @@
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Crosslinks](#crosslink)
-- [Redirects](#redirects)
-- [Best Bets](#bestbets)
+- Redirects
+- Best Bets
 - [Staged Rollout](#stagedrollout)
 
 
