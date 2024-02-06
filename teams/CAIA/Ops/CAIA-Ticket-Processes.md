@@ -1,7 +1,16 @@
-`[WIP]`
 
+> [!CAUTION]
+> This page is no longer current and is being merged with [Anatomy of a CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#anatomy-of-a-caia-ticket) which lives here: teams/CAIA/Ops/Anatomy of a CAIA ticket.md Please refer to the Anatomy of a CAIA Ticket as the :new: source of truth on tickets from CAIA.
+ 
 # CAIA Ticket Processes
+
 _The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes. Sets out involvement and ownership of CAIA processes, ceremonies, and meetings related to ticketed work._
+
+> [!WARNING]
+> STOP! You are about to read a page that is no longer current. See the note at the top of this page, to access current information. 
+    
+
+<details><summary>Toggle to view the old version of this page that is no longer valid</summary>
 
 ## Documentation Purpose
 
@@ -206,3 +215,4 @@ If  CAIA work on a ticket has been completed, the person working on that ticket 
 - Terry & Lily refinement
 
 
+</details>
