@@ -26,17 +26,18 @@ Adding features to the process that do not make it easier for Veterans to access
 - Release - TBD
    
 ## MVP
-### OPTION UNDER CONSIDERATION
-- Getting a link options
-    - Veteran texts "travel" on the day of appointment and receives a link (link is tied to the appt date) 
-    - Veteran receives a link after confirming their appointment (link is tied to the appt date) (we say, only if you're eligible should you click the link)
-- Veteran clicks the link from their phone
+### Included in the MVP
+- Veteran texts "travel" on the day of appointment and receives a link     
+- Veteran clicks the link from their mobile device
 - Veteran verifies their identity
+- Veteran sees information on
+    - How to check their eligibility
+    - How to file a travel claim (i.e. continue to file)
+    - How to check the status of their claim
 - Veteran answers the 3 travel questions
-- Veteran agrees to the terms (or chooses to file later)
-- We submit the claim for the date tied to the link
-- We send an SMS to the Veteran on the claim submission status
-- Veteran sees a confirmation page that their claim was submitted and that they will receive an SMS on submission status
+- Veteran agrees to the terms & submits their claim (or chooses to file later)
+- Veteran sees confirmation that we submitted their claim 
+- Veteran receives an SMS that includes the claim submission status
 
 ### Not Included in the MVP
 - Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
