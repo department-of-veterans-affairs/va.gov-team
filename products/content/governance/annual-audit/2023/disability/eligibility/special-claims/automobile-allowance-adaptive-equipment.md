@@ -53,4 +53,4 @@
   - **Response:**
     - If possible, we'd appreciate a FAQ about what happens when the claim is approved and Veteran receives the original form signed by VA. Instructions are on Page 3 of the form but some Veterans don't understand dealers are not required to participate; the dealer submits the form and payment goes to them, not the dealer; some dealers want to hold the vehicle until they receive the payment, etc.
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
-  - **Response:** 
+  - **Response:** no. 
