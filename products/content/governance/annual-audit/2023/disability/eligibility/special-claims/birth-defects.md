@@ -46,6 +46,6 @@
     - "...please call Veterans Benefits Assistance at 800-827-1000." should read: "...please call us at 800-827-1000."
     - 21-0304 is the correct form for children.
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** no.
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
-  - **Response:** 
+  - **Response:** no.
