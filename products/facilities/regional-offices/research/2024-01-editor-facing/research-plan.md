@@ -83,7 +83,7 @@ Here's a little about what you can expect in these sessions:
 - You'll **complete actual tasks in Drupal while sharing your screen** and telling me what you think about the experience
 - I'll be seeking your **uncensored opinions**, so you can share whatever's on your mind without worrying about being diplomatic
 - There will typically be an observer or two that will join us, just to make sure I capture everything
-- We'll also **record** the session, but I'm the only one who will review the recordings and then they'll be deleted
+- ~We'll also **record** the session, but I'm the only one who will review the recordings and then they'll be deleted~
 - We'll use the data we gather from talking to you to **make improvements to the editing and training experience** before we roll the new sites out nationally
 
 If you're willing to help us with this important work, please use the link provided in chat to sign up for a time slot. Once you sign up, you can expect an email from me within a couple of days with more info about the session! 
