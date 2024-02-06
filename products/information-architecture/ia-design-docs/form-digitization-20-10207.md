@@ -66,11 +66,13 @@ Team documented their [user flow in Mural](https://app.mural.co/t/departmentofve
 --------
 
 3. **[The VA claim process after you file your claim](https://www.va.gov/disability/after-you-file-claim/)** - Add
-  - Placement description: We defer to the Content team for where this entry point should be on this page
+  - Placement description: We suggest adding to this page, but defer to Content and stakeholder's recommendation for link placement
   - Link label: TBD by Sitewide Content
   - Link destination: 
   - Notes: We suggest adding an entry on this page so Veterans who have already submitted the 21-526EZ disability form. Since there's already a section titled, "How long does it take VA to make a decision?", we defer to Content as well as stakeholders to see if there's any concerns with adding a link to the form under this existing section.
-    
+
+<img width="400" alt="Section titled How long does it take VA to make a decision?" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/ccf9e4b8-d202-4883-8534-18438860461c">
+   
 --------
 
 4. **Online Form 21P-527EZ** - Modify (paper PDF mentioned only at this time)
