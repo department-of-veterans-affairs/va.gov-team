@@ -5,7 +5,7 @@ General info, notes and miscellaneous
 - VBA: Veterans Benefits Administration
 - VHA: Veterans Health Administration
 - VFMP: Veteran and Family Member Program
-- VR&E: Veteran Readiness and Employment
+- VR&E (or Chapter 31): Veteran Readiness and Employment
 
 ### Systems
 - CMP: Centralized Mail Portal
