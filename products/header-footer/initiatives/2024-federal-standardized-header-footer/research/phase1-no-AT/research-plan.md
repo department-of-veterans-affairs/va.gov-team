@@ -89,7 +89,7 @@ NOTE: We will consult with AuthExp team to have them lead usability testing for 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/conversation-guide.md)
 - Links to prototypes: [Smartphone](https://bit.ly/3RJL5vb), [Desktop/tablet](https://bit.ly/3t6rbRt)
-- [Mural notetaking board TBD]()
+- [Mural notetaking board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702404444027/711442d4b780551c710b8594ddf1e662f04b1ddb?sender=u71e5a9ded413bfa79dd23932)
 	
 ## Recruitment
 -  Perigean to recruit **9 Veterans and 3 caregivers or family members** of Veterans who meet the below criteria in order to get a minimum of **10 completed sessions**, preferably evenly represented between mobile and desktop. Criteria are also in this [recruitment intake ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/446). 
