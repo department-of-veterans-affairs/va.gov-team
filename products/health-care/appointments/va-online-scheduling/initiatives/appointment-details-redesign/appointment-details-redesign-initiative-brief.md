@@ -209,8 +209,8 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 <details>
 
 - Team Name: VA Online Scheduling
-- GitHub Label(s): vaos 
-- Slack channel: #vaos-team
+- GitHub Label(s): appointments 
+- Slack channel: #appointments-team
 - Product POCs: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 
 </details>
