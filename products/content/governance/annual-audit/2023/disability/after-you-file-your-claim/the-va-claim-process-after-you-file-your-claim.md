@@ -42,8 +42,8 @@
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:** 
+- **SME** Matt Eakman
+- **Date response received:** October 20, 2023
 
 ### Additional questions to ask SME:
 - Are all these claim statuses still correct? (show screen shot of subway map)
