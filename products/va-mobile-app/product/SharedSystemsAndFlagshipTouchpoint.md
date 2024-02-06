@@ -3,7 +3,9 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 **Agenda/Notes**
 02/06/24
 * **Removing White Button Variant and old colors from Flagship app (Kelly)**
-* Let's talk about getting Labs and Tests into the app, API seems to be ready ( no name - whose topics is this ? ) 
+   * [Colors ticket](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-library/120)
+   * No Epic/Story yet for redesigning the Login screen
+* **Let's talk about getting Labs and Tests into the app, API seems to be ready ( no name - whose topics is this ? )**
 * **1/23/24 Follow-up  Collaborate with Mobile's OCTO POs in how to handle test account creation and data prepping need which are then documented (Adam - not here its a FYI)** 
    * OCTO POs (Janie / Kay) said to try and use the VA Platform [Test User Dashboard Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) as a starting point; QA confirmed they do this today but not always useful 
        * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
