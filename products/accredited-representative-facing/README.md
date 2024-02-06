@@ -24,6 +24,10 @@ To track our current projects and view our progress, visit the ARF Team's Zenhub
 
 Access our ongoing documentation and collaborative resources on Google Docs: [ARF Team Google Docs](https://drive.google.com/drive/u/0/folders/1xvKh-lGc2nGcpAKT4LBbqOglejmYKign) (requires permissions request).
 
+Below are some documents worth calling out specifically:
+
+* [ARP Team Jargon](/products/accredited-representative-facing/product-info/arp-team-jargon.md).
+
 ## The Team
 
 ### Core Members
