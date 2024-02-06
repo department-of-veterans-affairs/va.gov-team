@@ -165,13 +165,10 @@ Recruitment focused on participants’ use of veteran discounts.  All participan
 
 Final breakdown of the 12 participants:
 
-
-![alt_text](images/image1.png "image_tooltip")
+![VS_EquityChecker](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/3e333a14-bfe6-41f4-9253-4b2e23a6ecc9)
 
 
 Education:
-
-
 * High school degree or equivalent: 0
 * Some college (no degree): 4
 * Associate's degree, trade certificate or vocational training: 1
