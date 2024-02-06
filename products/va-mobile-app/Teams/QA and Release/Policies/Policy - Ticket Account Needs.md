@@ -11,12 +11,19 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
  - For login.gov auth code you need to log into the TUD to get it
  - Seen that VA teams need their PMs to prioritize and coordinate the work
  - Currently not a centralized team that can handle this across all of VA - work with VA OCTO POs involved
- - Given QA's focus on just testing and validation, they will not be responsible for leading  the search / coordination on test account and datab prep needs - Team PMs will own this and QA will consult on whats needed 
+ - Given QA's focus on just testing and validation, they will not be responsible for leading  the search / coordination on test account and datab prep needs - Team PMs will own this and QA will consult on whats needed
+ - Long-term QA will not be involved in getting test accounts or test data as they will only consult
+   - Short Term QA is open to this being delegated to them as long as Team PMs start introductions with the right OCTO PO contact  
 
 ### Process
  - Attempt to pull test accounts from what Mobile has used in the past
  - Use VA Platform's [Test User Dashboard guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide)
- - Coordinate with Mobile PMs to reach out to their VA OCTO PMs for assistance 
+ - Coordinate with Mobile PMs to reach out to their VA OCTO PMs for assistance
+ - If Team PM delegates this work to their QA a few things:
+    - Team PM to make introduction between QA and OCTO PMs until a relationship is established
+    - Ticket is required for finding test accounts or getting data prepped which will be sized and counts towards QA's capacity for that team
+    - Ticket to include test account infromation, findings, contacts and anything else learned during collaboration
+    - Recommend this is done in step 2 vs waiting until things are ready to test    
 
 
 ## RACI for Test Accounts involving Mobile
