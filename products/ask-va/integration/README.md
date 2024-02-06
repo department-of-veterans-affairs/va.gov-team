@@ -43,7 +43,7 @@
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | integration |  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | 🟩 | integration |  | 
 Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟩 | 🟨 | development | CRM has handed off to AVA VA.gov team| 
-Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟨 | ⬜ | development |  | 
+Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | 🟨 | development | CRM has handed off to AVA VA.gov team | 
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟡 | ⬜ | ready for dev | | 
