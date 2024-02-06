@@ -25,20 +25,27 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 
   
 ## Recently completed
+- Veteran community care content
+- Foreign medical program content
+- Board of Veterans Appeals content
 - Education rates content
 - VEText FAQs (va.gov/health/vetext_faqs.asp)
 - Dental program (va.gov/healthbenefits/vadip/)
 - Some persona pages on main TeamSite nav (others need more extensive work/planning)
   
-## Currently in progress
+## Currently in progress content-only migration initiatives
+
+### VBA fact sheet library
+
+- Audit of all fact sheets with recommendations complete and handed off to VBA digital media. Majority of fact sheets replaced with links.  
 
 ### Veteran persona page
 
 - In planning for strategy for a "getting started as a Veteran" resources page
 
-### Community care content for Veteran and other beneficiary pages (R&S pilot partner)
-- Costs and billings section migrated in September 2022.
-- Broader work paused for a time due to IVC restructuring. Aiming for completion of full migration by end of June 2023.
+### Community care content for other beneficiaries
+
+- Content strategy planning and writing complete. Moving into reviews with SMEs
 
 ### Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner)
 
