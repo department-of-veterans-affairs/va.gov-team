@@ -5,10 +5,10 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 * **Removing White Button Variant and old colors from Flagship app (Kelly)**
 * Let's talk about getting Labs and Tests into the app, API seems to be ready ( no name - whose topics is this ? ) 
 * **1/23/24 Follow-up  Collaborate with Mobile's OCTO POs in how to handle test account creation and data prepping need which are then documented (Adam - not here its a FYI)** 
-   * OCTO POs (Janie / Kay) said to try and use the VA Platform [Test User Dashboard Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) as a starting point
-   * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
+   * OCTO POs (Janie / Kay) said to try and use the VA Platform [Test User Dashboard Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) as a starting point; QA confirmed they do this today but not always useful 
+       * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
    * Moving forward - QA will attempt to use Test User Dashboard proactively, if not able to find testing accounts / data needs there then QA will rely on Team PMs to coordinate testing needs with relevant OCTO POs to get unblocked
-   * Have not reached out to Rachel for production test accounts - will follow-up after leave
+      * If Team PMs want to delegate this work to their QA person please create a ticket and be aware it will take away from QA capacity for other work also please make initial introduction with OCTO POs 
 * How do we craft a multi-year strategy based on our current understanding of the VA's vision for Flagship. Specifically, that the Flagship app is the entry point to for all digital services and non-Veteran user roles are supported (Ameet)
 
 01/23/24
