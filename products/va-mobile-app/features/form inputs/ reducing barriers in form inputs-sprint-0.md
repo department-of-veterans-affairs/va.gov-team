@@ -30,7 +30,7 @@ The Flagship App’s Profile section has a screen called “Contact information.
 
 The app requires users to input information into each of these forms separately by typing or native dictation. It does not make native device autofill available or allow users to move between input fields using arrows above the native keyboard. It also does not allow the user to easily carry information over from one field set to another or leverage an [autocomplete service](https://developers.google.com/maps/documentation/javascript/place-autocomplete) to predictively populate addresses. 
 
-[image goes here]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-contact-info.png" width=200> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-home-address.png" width=200> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-address-fields.png" width=200> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-street-address-field.png" width=200>
    
 
 ### VA.gov (desktop & mobile)
