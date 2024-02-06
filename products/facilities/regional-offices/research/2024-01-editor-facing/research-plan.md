@@ -65,6 +65,10 @@ Sessions will be remote over Zoom.
 	
 ## Recruitment	
 
+### Recruitment criteria
+- Participants must be editors participating in the pilot MVP roll out of new VBA regional office pages.
+- There are approximately 14 editors in the recruitment pool. We would like to interview at least half of them (7).
+
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
@@ -86,8 +90,6 @@ If you're willing to help us with this important work, please use the link provi
 
 [Bookings page](https://outlook.office.com/bookwithme/user/200913e2d3394a81b950c33d967f9065@va.gov/?ge[…]GF59ZUEUiiwMA7idk6iIbCd-1XBLUkDQ&anonymous&ep=mLinkFromTile)
 
-### Recruitment criteria
-Participants must be editors participating in the pilot MVP roll out of new VBA regional office pages. There are approximately 14 editors in the recruitment pool. We would like to interview at least half of them (7).
 
 ### Prepare
 Participants will log in to the live Drupal environment and perform real tasks related to the pages they're responsible for editing. They'll be observed while performing tasks and the interviewer will ask them questions.
