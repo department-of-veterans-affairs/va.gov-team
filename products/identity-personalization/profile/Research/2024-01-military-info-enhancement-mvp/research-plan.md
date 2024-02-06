@@ -112,7 +112,7 @@ Possible meeting times for a kick-off:
 3. During your time of service, did you ever deploy overseas? (50% must answer `Yes`)
 4. In which locations did you serve? (text box)
 5. In this study, we’d like to learn how we can present your service history in your profile in a helpful way. To prepare for the session, we’ll need to access your service history a few days before the session. Are you willing to give us access to your service history? (100% must answer `Yes`)  
-6. In order to access your service history, we will need your DOB. (text box)
+6. In order to access your service history, we will need your DOB and the email address you use to sign into your account. (text box)
 7. What was your RANK/GRADE? If you have served in more than one branch, please include both.  (text box)
 
 ---
@@ -128,8 +128,8 @@ Possible meeting times for a kick-off:
 ### Research sessions
 
 * Planned dates of research
-	* **Monday, March 19th -  Wednesday, March 21st** (we are aware the 19th is a federal holiday but we would still like to start research on that day)
-	* Thursday, March 22nd can be a back-up day if we have cancelations and need to make up those numbers
+	* **Monday, February 19th -  Wednesday, February 21st** (we are aware the 19th is a federal holiday but we would still like to start research on that day)
+	* Thursday, February 22nd can be a back-up day if we have cancelations and need to make up those numbers
 
 ### Length of sessions
 
