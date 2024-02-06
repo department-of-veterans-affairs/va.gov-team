@@ -30,7 +30,7 @@ The Flagship App’s Profile section has a screen called “Contact information.
 
 The app requires users to input information into each of these forms separately by typing or native dictation. It does not make native device autofill available or allow users to move between input fields using arrows above the native keyboard. It also does not allow the user to easily carry information over from one field set to another or leverage an [autocomplete service](https://developers.google.com/maps/documentation/javascript/place-autocomplete) to predictively populate addresses. 
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-contact-info.png" width=200> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-home-address.png" width=200> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-address-fields.png" width=200> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-street-address-field.png" width=200>
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-contact-info.png" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-home-address.png" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-address-fields.png" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-street-address-field.png" width=200>
    
 
 ### VA.gov (desktop & mobile)
@@ -41,10 +41,10 @@ The VA.gov website’s Contact information section contains the same forms and f
 1. When available in the browser (desktop & mobile), it triggers browser autofill to complete address fields. When I attempted the same in the Firefox mobile browser, neither device autofill or browser autofill were triggered. Phone and email did not trigger any kind of autofill on any platform or browser (despite these pieces of information being available & working in other apps and websites).
 1. Tapping into a multi-field form on mobile calls up arrow keys to move easily between input fields.
 
-[image goes here]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/form%20inputs/images#:~:text=form%2Duse%2Daddress%2Dweb.png" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/form%20inputs/images#:~:text=form%2Duse%2Daddress.png" width=200>
 
 ###### 1. “Use my mailing address for my home address” checkbox in Chrome desktop & Firefox mobile
-[image goes here]
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/from-address-autocomplete.png" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/form%20inputs/images#:~:text=form%2Dstreet%2Daddress%2Dfield2.jpeg" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-phone-number-field2.jpeg" width=200>
 ###### 2. Browser form field autofill in Chrome & Firefox desktop, Chrome mobile. 
 ###### 3. Arrow keys appear above native keyboard to move between fields on Chrome & Firefox mobile.
 
@@ -61,7 +61,8 @@ These are examples observed with a quick look at the VA Mobile app’s Personal 
 1. Tapping into a field in a multi-field form doesn’t call up arrow keys above native keyboard to move easily between input fields.
     * **NNG:** [A Checklist for Designing Mobile Input Fields - Filling it in for the user](https://www.nngroup.com/articles/mobile-input-checklist/)
 
-[image goes here]
+ <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-street-address-field.png" width=200>  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/form%20inputs/images/form-phone-number-field.png" width=200>
+
 ###### 1a: Tapping into street address doesn’t call up autofill or show arrow keys above keyboard.
 
 
