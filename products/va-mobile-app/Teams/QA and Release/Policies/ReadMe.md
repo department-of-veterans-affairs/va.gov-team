@@ -9,7 +9,7 @@ Better yet, OVER-document. If it is more complex than a tsdoc or API doc, add an
 - What documentation is necessary on QA work tickets.
 
 ## When is QA involved?
-The QA team is involved with work whenever there is a code change that needs to be reviewed prior to releasing the updated code to the iOS and Android App stores for consumers to download the updated version of the VA-Mobile App. Mobile Team should coordinate with their QA agent in any and all relevant testing discussions. Additional tickets should be tagged and assigned appropriately in order for QA to monitor and manage their work. 
+The QA team is involved with work whenever there is a code change that needs to be reviewed prior to releasing the updated code to the iOS and Android App stores for consumers to download the updated version of the VA-Mobile App. Mobile Team should coordinate with their QA agent in any and all relevant testing discussions. Any work that QA is doing by Flagship, Platform or external team must have a ticket or no work will be completed. Tickets should be tagged and assigned appropriately in order for QA to monitor and manage their work and ideally earlier the better. 
 
 ## QA Agent Assignments
 
@@ -17,10 +17,10 @@ Teams should be assigning their QA agent as soon as the ticket is created so tha
 
 |Team | QA Agent | Notes |
 | ---- | ----- | ---- | 
-| Flagship App - Global | Therese  | Will coordinate with Rachael is there is e2e automation needes | 
-| Flagship App - Health and Benefits  | Tom | Will coordinate with Rachael is there is e2e automation needes | 
-| Shared Services - Design System | None | Per PM of Design Systems not anticipating making any production changes; working in their own repo. Design System will work with Flagship App teams to implement changes which will be handled by Flagship App QA agents |
-| Shared Services - API / Backend | Limited to none | Rachael will cover see if API team plans any. Identified that API BE has expected QA though none was planned |  
+| Flagship App - Global | Therese  | s | 
+| Flagship App - Health and Benefits  | Rachael |  | 
+| Shared Services - Design System | Tom  | None of the work is going into production until work is completed in Flagship App which is where the testing will happen. However QA to explore if there is some proactive collaboration that would be beneficial for QA in preparing Design System components |
+| Shared Services - API / Backend | Tom | Per convo with Team PM little to none is expected |  
 | Release QA testing  | Tom | | 
 | Release Management |  Adam | Tom to cover during Adam's leave |
 | QA Projects | up to 20% of capacity will be spent on improving QA processes | 
