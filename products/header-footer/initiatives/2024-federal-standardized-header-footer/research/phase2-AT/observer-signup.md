@@ -18,4 +18,4 @@ Feb 2, 2024 | 3:30-5 pm ET | P8 Veteran  | Increase font size in the browser by 
 Feb 2, 2024 | 6-7:30 pm ET | P9 Veteran  |Increase font in the browser significantly (tablet)| Dave Pickett | Wes Rowe
 Feb 5, 2024 | 12-1:30 pm ET | P10 Veteran |Screen reader/VoiceOver (tablet) | Robyn Singleton | Alexis Logsdon 
 Feb 5, 2024 | 3:30-5 pm ET | P11 Veteran | Increase font size in the browser by at least 150% (computer)| Mikki Northuis | Amanda Klausmeier 
-Feb 6, 2024 | 3:30-5 pm ET | P12 Veteran| Zoom text for screen reader and screen magnifier (computer)| Liz Lantz | ***OPEN*** 
+Feb 6, 2024 | 3:30-5 pm ET | P12 Veteran| Zoom text for screen reader and screen magnifier (computer)| Liz Lantz | Fran Cross 
