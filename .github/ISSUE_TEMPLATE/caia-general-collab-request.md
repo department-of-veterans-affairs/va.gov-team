@@ -112,6 +112,12 @@ Please provide links to any supporting artifacts we might need to begin work. Th
     - Depending on the request, it may make sense to schedule a kickoff meeting to better understand how we'll partner with you!
 - [ ] Please review the remaining next steps in the **VFS Team Tasks** section, listed below.
 
+## CAIA Deliverables
+This section is where the CAIA team will link to the deliverables (if any) for the work done in support of this request. 
+
+<br>
+<br>
+
 ## TASKS
 
 <br>
