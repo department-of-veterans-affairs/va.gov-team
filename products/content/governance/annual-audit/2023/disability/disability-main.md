@@ -32,3 +32,7 @@
 
 - Grade level score using Flesh-Kincaid with no prep: 
 - [ ] Backlog ticket for further review created if needed
+
+### SME feedback
+
+the “Ask questions” panel does not contain information about scheduling in-person or virtual appointments with Regional Offices through VERA (https://va.my.site.com/VAVERA/s/). Other than that, the main landing page appears accurate
