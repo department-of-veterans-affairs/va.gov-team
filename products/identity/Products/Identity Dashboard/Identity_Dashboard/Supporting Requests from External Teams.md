@@ -177,8 +177,59 @@ Follow these steps to remove a team user:
 
 ## Client Configurations
 
+Client configurations are used to integrate a client application with SiS. This section describes how to manage client configurations through Identity Dashboard.
+
+For manually creating client configurations via Rails console directly in SiS, refer to the documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/configuration/client_config.md#creating-a-new-client-config).
+
 ### Adding a New Client Configuration
+
+**Please note that any request to add a new client configuration must be sent from a user who is an admin for that team.**
+
+Follow these steps to add a client configuration:
+
+* Verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
+* Review request to ensure all required information has been provided.
+  * Refer to the in-depth [client config guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/configuration/client_config.md#client-config-attributes) for details about each field.
+* Navigate to the Identity Dashboard URL corresponding to the environment for the request.
+* Navigate to the `/admin/client_configs` page.
+* Click the "New" button.
+* Fill out the form using the information provided in the request.
+* Click "Create" to create the client configuration.
+* Verify the client configuration was successfully created.
+* Verify the client configuration was successfully synced to SiS.
+* Inform the requestor the support request has been completed.
 
 ### Updating an Existing Client Configuration
 
+**Please note that any request to update an existing client configuration must be sent from a user who is an admin for that team.**
+
+Follow these steps to update an existing client configuration:
+
+* Verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
+* Review request to ensure all required information has been provided.
+  * Refer to the in-depth [client config guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/configuration/client_config.md#client-config-attributes) for details about each field.
+* Navigate to the Identity Dashboard URL corresponding to the environment for the request.
+* Navigate to the `/admin/client_configs` page.
+* Click the "Modify" button corresponding to the client config from the request.
+* Fill out the form using the information provided in the request.
+* Click "Save" to update the client configuration.
+* Verify the client configuration was successfully saved.
+* Verify the client configuration was successfully synced to SiS.
+* Inform the requestor the support request has been completed.
+
 ### Removing a Client Configuration
+
+**Please note that any request to remove a client configuration must be sent from a user who is an admin for that team.**
+
+Follow these steps to remove a client configuration:
+
+* Verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
+* Review request to ensure all required information has been provided.
+  * Refer to the in-depth [client config guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/configuration/client_config.md#client-config-attributes) for details about each field.
+* Navigate to the Identity Dashboard URL corresponding to the environment for the request.
+* Navigate to the `/admin/client_configs` page.
+* Click the name of the client configuration corresponding to the client config from the request.
+* Click "Delete" to remove the client configuration.
+* Verify the client configuration was successfully removed.
+* Verify the client configuration was successfully removed from SiS.
+* Inform the requestor the support request has been completed.
