@@ -23,8 +23,8 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Rotate AWS Keys](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74870)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
-        - ❗ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75402)
+        - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
         - ❗ 🟩 TBD
         - ❗ 🟦 TBD
 - **GOAL: Increase Usage of PCI**    
@@ -58,20 +58,26 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Rotate AWS Keys](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74870)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
-        - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
-        - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
         - ❗ 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
         - ❗ 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
         - ❗ 🟥 [[Content] Create (or version out) content for Need Help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75163)
         - ❗ 🟥 [[Design][Content] Create final frames with content for error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75206)
-        - ❗ 🟥 [[UX] Create Sitewide CAIA Intake Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75195)
+        - ❗ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
-        - ❗ 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
-        - ❗ 🟥 [[Design] [Content] Create Final Wireframes & Content for addressing Vets filing for travel while taking a VA transpo](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75392)
+        - ❗ 🟥 Schedule Midpoint Review
+        - ❗ 🟥 Pull in tickets fro CAIA feedback if time permits
         - ❗ 🟩 [[FE] - Create basic pages and router for travel app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75269)
         - ❗ 🟩 [[FE] - Stub out new travel claim app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75268)
         - ❗ 🟦 What do we need? Can we delete the ones that are there since we won't be needing them?                    
+- **GOAL: Address Usage Issues**
+     - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support
+         - 🟥 [Create Final Wireframes and content for modality-agnostic accordions #74107](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74107)
+         - 🟥 [Create Final Wireframes and content for modality-agnostic error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74108)
+     - **Sub Goal: Change wording for wait time after checking in**
+         - 🟥 [[UX][VistA appts] Update PCI Service Blueprint w changes to userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73965)
 - **GOAL: Increase Usage of PCI**
+     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
+         - 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75197)
@@ -112,7 +118,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[CHIP] SPIKE - Research new cerner payload from vetext](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73636)
         - ❗ 🟦 [[BE] Spike on Mobile Profile Service to call VA Profile using MAP token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73685)
         - ❗ 🟦 [[BE] Spike on API to set arrived status in cerner appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73688)        
-        - 🚧 ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
+        - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
         - ❗ 🟥 ~[[UX] [Design] Create Final Wireframes with content for OH userflow appt statuses and button action](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74682)~
         - ❗ 🟥 ~[[UX] [Design] Create Final Wireframes with content for OH userflow option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74680)~
         - ✔️ ❗ 🟥 [[UX] [Design] Create Final Wireframes with content for OH userflow option 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74681)
