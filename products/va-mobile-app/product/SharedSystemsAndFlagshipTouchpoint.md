@@ -5,13 +5,18 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 * **Removing White Button Variant and old colors from Flagship app (Kelly)**
    * [Colors ticket](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-library/120)
    * No Epic/Story yet for redesigning the Login screen
-* **Let's talk about getting Labs and Tests into the app, API seems to be ready ( no name - whose topics is this ? )**
+   * Kelly to send over to Ameet to handle as able
+* **Let's talk about getting Labs and Tests into the app, API seems to be ready ( Tim W )**
+   * Need to work with VA Health PO for Labs & Tests to find out priority (Marci McGuire)
+   * Stacy to reach out to Marci and keep Alayna in the loop
 * **1/23/24 Follow-up  Collaborate with Mobile's OCTO POs in how to handle test account creation and data prepping need which are then documented (Adam - not here its a FYI)** 
    * OCTO POs (Janie / Kay) said to try and use the VA Platform [Test User Dashboard Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/test-user-dashboard-guide) as a starting point; QA confirmed they do this today but not always useful 
        * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
    * Moving forward - QA will attempt to use Test User Dashboard proactively, if not able to find testing accounts / data needs there then QA will rely on Team PMs to coordinate testing needs with relevant OCTO POs to get unblocked
       * If Team PMs want to delegate this work to their QA person please create a ticket and be aware it will take away from QA capacity for other work also please make initial introduction with OCTO POs 
-
+* **Open House**
+   * re-use Q1 KR discussions, and OCTO presentation resources
+   * Health POs are the first group of attendees
 
 01/23/24
 * **Discuss implementation of Design System components into the Flagship app (Kelly)**
