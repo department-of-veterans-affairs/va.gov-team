@@ -19,6 +19,9 @@ This document describes the internal processes the OCTO-Identity team will follo
  
 ## Teams
 
+Teams are the organization units responsible for managing client application integrations with Sign-in Service (SiS). Each team has users who belong to it and 
+configurations for client applications integrated with SiS.
+
 ### Adding a Team
 
 Follow these steps to create a team:
@@ -97,11 +100,80 @@ Follow these steps to remove a team:
 
 ## Team Users
 
+Teams contain users who have roles for managing teams and client application configurations. These roles provide granular access control for team members depending on their role.
+
+For instance, team leads will likely need the ability to administer their teams (updating team information, adding new team users, etc.), but may not require full access to update the 
+client application configurations for which their teams are responsible. Conversely, engineers will almost certainly need access to administer client application configurations, but are unlikely to require permissions for administering teams.
+
 ### Adding Users to a Team
+
+**Please note that any request to add users to a team must be sent from a user who is an admin for that team.**
+
+Follow these steps to add users to a team:
+
+* Verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
+* Review request to ensure all required information has been provided.
+  * The request should contain the following information:
+    * The team the user(s) should be added to.
+    * The environment of the team and team user.
+    * A list of users with the following information:
+      * `logingov_uuid`: The UUID associated with the user's Login.gov account.
+      * `email`: The email address associated with the user's Login.gov account.
+      * `first_name`: The first name for the user.
+      * `last_name`: The last name for the user.
+      * Should the user be able to make requests to update the team or team roster? (yes or no)
+      * Should the user be able to make requests to administer client application configurations? (yes or no)
+* Navigate to the Identity Dashboard URL corresponding to the environment for the request.
+* Navigate to the `/admin/teams` page.
+* Click the "View" button for the team specified in the request.
+* Navigate to the User Management interface for the team.
 
 ### Updating a Team User
 
+**Please note that any request to update a team user must be sent from a user who is an admin for that team.**
+
+Follow these steps to update a team user:
+
+* Verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
+* Review request to ensure all required information has been provided.
+  * The request should contain the following information:
+    * The environment of the team and team user.
+    * The `name` of the team the user belongs to.
+    * The `email` corresponding to the team user.
+    * Any details that need to be updated for the user, which may include:
+      * `logingov_uuid`: The UUID associated with the user's Login.gov account.
+      * `email`: The email address associated with the user's Login.gov account.
+      * `first_name`: The first name for the user.
+      * `last_name`: The last name for the user.
+      * Should the user be able to make requests to update the team or team roster? (yes or no)
+      * Should the user be able to make requests to administer client application configurations? (yes or no)
+* Navigate to the Identity Dashboard URL corresponding to the environment for the request.
+* Navigate to the `/admin/teams` page.
+* Click the "View" button for the team specified in the request.
+* Navigate to the User Management interface for the team.
+* Update the user's roles for the Admin Portal and Client Config dashboard apps.
+* If necessary, update the user's other details via Rails console.
+
 ### Removing a Team User
+
+**Please note that any request to remove a team user must be sent from a user who is an admin for that team.**
+
+Follow these steps to remove a team user:
+
+* Verify the requestor is an admin for the specified team. Requests from non-admins will be denied.
+* Review request to ensure all required information has been provided.
+  * The request should contain the following information:
+    * The environment of the team and user.
+    * The `email` corresponding to the team user.
+    * The `name` for each team to remove the user from.
+* Navigate to the Identity Dashboard URL corresponding to the environment for the request.
+* Navigate to the `/admin/teams` page.
+* Click the "View" button for the team specified in the request.
+* Navigate to the User Management interface for the team.
+* Click "Remove" to remove the user from the team.
+* Confirm the action at the dialogue.
+* Verify the user was successfully removed from the team.
+* Inform the requestor the support request has been completed.
 
 ## Client Configurations
 
