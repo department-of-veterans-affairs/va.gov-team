@@ -202,6 +202,179 @@ Content-Length: <length>
   }
 ]
 ```
+
+### VA Profile 
+
+We're going to use the Mobile Profile Service (link to [SRVDD](https://coderepo.mobilehealth.va.gov/projects/VETS/repos/mobile-profile-service/browse/docs/SRVDD.md?at=refs%2Fheads%2Fmain_v2)) to get the profile data for the Veteran. The Mobile Profile Service acts as a proxy service for profile data include health benefits and contact information that we (Patient Check-In) need to display as part of the check-in scenarios. It is authenticated using the same VAMF token that we get through the MAP STS token.
+
+Steps:
+1. Get the VAMF token by calling the `/token` endpoint of Secure Token Service:
+   ```
+   > POST /sts/oauth/v1/token HTTP/2
+   > Host: veteran.apps-staging.va.gov
+   > content-type: application/x-www-form-urlencoded
+   > accept: application/json
+   > user-agent: Vets.gov Agent
+   > content-length: 867
+   
+   grant_type=client_credentials&client_id={client_id}&client_assertion_type=urn%3Aietf%3Aparams%3Aoauth%3Aclient-assertion-type%3Ajwt-bearer&client_assertion={client_assertion}
+   
+   < HTTP/2 200 
+   
+   {
+	   "access_token": ...,
+	   "token_type": "Bearer",
+	   "expires_in": 900
+   }
+   ```
+
+    This should return an access token scoped to the patient's ICN.
+   
+2. Call the Mobile Proxy Service with the token in `x-vamf-jwt` header and the consumer name in `x-consumer-username` header:
+   ```
+   > POST /profile/v2/patients/{icn}/profile-service/profile/v3/2.16.840.1.113883.4.349/{icn}%5ENI%5E200M%5EUSVHA HTTP/2
+   
+   > x-vamf-jwt: ...
+   > x-consumer-username: MAPTEST
+   > user-agent: Vets.gov Agent
+   > content-type: application/json
+   
+   | {
+   |   "bios": [
+   |     {
+   |       "bioPath": "healthBenefit"
+   |     },
+   | 		    {
+   |       "bioPath": "contactInformation"
+   |     }
+   |   ]
+   | }
+   
+   < HTTP/2 200
+   {
+     "profile": {
+       "contactInformation": {
+         "addresses": [
+           {
+             "sourceSystem": "JEHR",
+             "addressType": "Domestic",
+             "addressPOU": "CORRESPONDENCE",
+             "badAddress": false,
+             "addressLine1": "301 ABC St 1100B",
+             "cityName": "San Francisco",
+             "state": {
+               "stateName": "California",
+               "stateCode": "CA"
+             },
+             "zipCode5": "94105",
+             "zipCode4": "1234",
+             "county": {
+               "countyName": "San Francisco County",
+               "countyCode": "06075"
+             },
+             "country": {
+               "countryName": "United States",
+               "countryCodeFIPS": "US",
+               "countryCodeISO2": "US",
+               "countryCodeISO3": "USA"
+             }
+           },
+           {
+             "addressType": "Domestic",
+             "addressPOU": "RESIDENCE",
+             "badAddress": false,
+             "addressLine1": "123 Avenue C",
+             "cityName": "Brooklyn",
+             "state": {
+               "stateName": "New York",
+               "stateCode": "NY"
+             },
+             "zipCode5": "11218",
+             "county": {
+               "countyName": "Kings County",
+               "countyCode": "36047"
+             },
+             "country": {
+               "countryName": "United States",
+               "countryCodeFIPS": "US",
+               "countryCodeISO2": "US",
+               "countryCodeISO3": "USA"
+             }
+           }
+         ],
+         "telephones": [
+           {
+             "internationalIndicator": false,
+             "phoneType": "HOME",
+             "countryCode": "1",
+             "areaCode": "123",
+             "phoneNumber": "5551213"
+           },
+           {
+             "phoneType": "MOBILE",
+             "countryCode": "1",
+             "areaCode": "123",
+             "phoneNumber": "2342345",
+             "classification": {
+               "classificationCode": 3,
+               "classificationName": "INVALID"
+             }
+           }
+         ],
+         "emails": [
+           {
+             "emailAddressText": "m.abc@def.com"
+           }
+         ]
+       },
+       "healthBenefit": {
+         "identity": {
+           "sensitivityInformation": {
+             "sensitivityFlag": false
+           }
+         },
+         "associatedPersons": [
+           {
+             "contactType": "Emergency Contact",
+             "givenName": "EMERGENCY",
+             "familyName": "CONTACT",
+             "relationship": "UNRELATED FRIEND"
+           },
+           {
+             "contactType": "Primary Next of Kin",
+             "givenName": "JAMES",
+             "familyName": "JOHNSON",
+             "relationship": "EXTENDED FAMILY MEMBER",
+             "addressLine1": "123 SESAME STREET",
+             "addressLine2": "APT A",
+             "city": "CHEYENNE",
+             "state": "WY",
+             "zipCode": "82001",
+             "primaryPhone": "(307)555-1234",
+             "alternatePhone": "(307)555-4444"
+           },
+           {
+             "contactType": "Designee",
+             "givenName": "MARY",
+             "familyName": "JOHNSON",
+             "relationship": "EXTENDED FAMILY MEMBER",
+             "addressLine1": "123 SESAME STREET",
+             "addressLine2": "APT A",
+             "city": "CHEYENNE",
+             "state": "WY",
+             "zipCode": "82001",
+             "primaryPhone": "(307)555-1234",
+             "alternatePhone": "(307)555-4444"
+           }
+         ]
+       }
+     }
+   }  
+   ```
+     This will return the profile data include emergency contact, next of kin and contact information for the patient.
+
+
+
 ## Questions / Open Items
 (answers added from Stephen in [slack thread](https://dsva.slack.com/archives/C02G6AB3ZRS/p1705426133031669))
 - Does the BTSSS endpoint work for OH stations? - CLOSED
@@ -227,8 +400,8 @@ Content-Length: <length>
  
 ## API Questions
 - **Mobile Proxy Service**
-  - What is the Mobile Proxy Service endpoint to call with MAP to access veteran's VA profile?
-  - What is the test client id to use for getting VA Profile data in staging until we get client id specific to check-in-experience application (CIE) for accessing VA Profile?
+  - ~~What is the Mobile Proxy Service endpoint to call with MAP to access veteran's VA profile?~~ (answered, see above for integration with mobile proxy service)
+  - ~~What is the test client id to use for getting VA Profile data in staging until we get client id specific to check-in-experience application (CIE) for accessing VA Profile?~~
     - Currently, we have a client id for CIE to access appointment data from VAOS; Would like to see if any test client id available to access data in staging until we receive an ID for accessing VA profile
     - response from Chan:
       > Mobile-profile-service:  https://coderepo.mobilehealth.va.gov/projects/VETS/repos/mobile-profile-service/browse/docs/SRVDD.md, but in your case, you will be using mobile-profile-v2 where it acts as a pass through.  You still will need to pass in the ID (for now, use “MAPTEST”) until VA Profile onboard you with the MAPPCI ID.  For mobile-profile-service v2 stagger: https://staff.apps-staging.va.gov/profile/v2
