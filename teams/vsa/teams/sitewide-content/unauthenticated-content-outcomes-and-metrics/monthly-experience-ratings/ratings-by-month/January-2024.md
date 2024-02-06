@@ -62,3 +62,16 @@ All pages have ratings of 2 or below.
    
 ## Analysis
 
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20Support%20ratings%20tracking%20January%202024.xlsx?d=wed95a9aa1b104fa1a4cd11d22afd50f2&csf=1&web=1&e=fIWbmg)
+As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 75% "good" average rating.
+Performance isn't as high when broken down to individual pages:
+24% of pages are scoring at 90% or higher "good"
+45% of pages are meeting our goal of 75% or higher "good," while 49% of pages are scoring 70% or higher
+25% of pages are scoring at less than 50% "good," with 8% scoring at less than 10% "good" (though 9 of those are based on 1-2 total responses)
+2 of the top-scoring pages are related to the PACT Act and presumptive conditions (with the presumptive conditions list page getting a 100% "good" score). PACT-related content continues to perform exceptionally well.
+Health care content is generally among the highest-scoring content in both experience ratings (1-5) and "good"/"bad" ratings, with the exception of travel pay reimbursement.
+Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+Checking your claim status online
+Travel pay reimbursement
+Sign in and identity (including privacy and security)
+The helpful phone numbers page is one of our lowest-scoring pages by volume of responses. We need to pull Medallia data and review this page to identify any potential content pain points.
