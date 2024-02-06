@@ -45,11 +45,7 @@ ________________________________________________________________________________
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support Travel for CERNER Sites**
- - **GOAL: Address Usage Issues**
-     - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
-     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
-     - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
      - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
 
@@ -74,16 +70,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] - Create basic pages and router for travel app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75269)
         - ❗ 🟩 [[FE] - Stub out new travel claim app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75268)
         - ❗ 🟦 What do we need? Can we delete the ones that are there since we won't be needing them?                    
-- **GOAL: Address Usage Issues**
-     - **Sub Goal: Change wording for wait time after checking in**
-         - 🟥 [[UX][VistA appts] Update PCI Service Blueprint w changes to userflow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73965)
-         - 🟩 ????
 - **GOAL: Increase Usage of PCI**
-    - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
-        - 🟥 TBD
-    - **Sub Goal: [Content & Design Discovery for adding VVC and CVT Support](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72581)**
-        - 🟥 [Create Final Wireframes and content for modality-agnostic accordions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74107)
-        - 🟥 [Create Final Wireframes and content for modality-agnostic error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74108)  
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75197)
