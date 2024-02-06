@@ -11,7 +11,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
        * Its a real gap that OCTO acknowledges - no centralized team and own struggles they have to work through on this but they have contacts that help them 
    * Moving forward - QA will attempt to use Test User Dashboard proactively, if not able to find testing accounts / data needs there then QA will rely on Team PMs to coordinate testing needs with relevant OCTO POs to get unblocked
       * If Team PMs want to delegate this work to their QA person please create a ticket and be aware it will take away from QA capacity for other work also please make initial introduction with OCTO POs 
-* How do we craft a multi-year strategy based on our current understanding of the VA's vision for Flagship. Specifically, that the Flagship app is the entry point to for all digital services and non-Veteran user roles are supported (Ameet)
+
 
 01/23/24
 * **Discuss implementation of Design System components into the Flagship app (Kelly)**
