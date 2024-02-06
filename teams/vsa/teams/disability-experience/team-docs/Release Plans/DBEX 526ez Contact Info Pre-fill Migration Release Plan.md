@@ -45,13 +45,13 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 - [x] Create and execute a Testrail test plan
     - Pre-test link: https://dsvavsp.testrail.io/index.php?/cases/view/58765
     - Canary link: https://dsvavsp.testrail.io/index.php?/cases/view/58766
-- [ ] Complete Review Case below
+- [x] Complete Review Case below
 
 ### Review Cases
 - [x] Does the existing DataDog monitoring have sufficient coverage?
 - [x] Have a successful TestRail test plan been executed?
-- [ ] Has the team reviewed and timeboxed the release intervals?
-- [ ] Have PO(s) been made aware and approved of the plan? 
+- [x] Has the team reviewed and timeboxed the release intervals?
+- [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/74216
