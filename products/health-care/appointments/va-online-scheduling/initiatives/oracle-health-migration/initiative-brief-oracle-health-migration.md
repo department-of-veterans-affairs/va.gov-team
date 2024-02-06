@@ -2,7 +2,7 @@
 
 ## Overview
 
-When a VA site is moving from Vista system to Oracle Health system, the Applications tool on VA.gov will need to be modified during this transition time. Sites that are moving over to Cerner will need time to clean up their Vista scheduling tool. 
+When a VA site is moving from Vista to Oracle Health system, the Applications tool on VA.gov will need to be modified during this transition time. Sites that are moving over to Cerner will need time to clean up their Vista scheduling tool. 
 
 ## Outcome Summary 
 
