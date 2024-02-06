@@ -126,7 +126,7 @@ For moderated usability tests:
 
 
 
-* [Link to conversation guide] ([https://docs.google.com/document/d/1nFLZH8zXQHCTdYZSdi9ZvgzFJaPAFyzDnQK2QVWrNW8/edit](https://docs.google.com/document/d/1nFLZH8zXQHCTdYZSdi9ZvgzFJaPAFyzDnQK2QVWrNW8/edit) )
+* [Link to conversation guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/7a1cb0ec7d40e9c2cca98d4cc7f1488d809401f7/products/pension/research/conversation-guide.md)
 * [Link to prototype url goes here)
 * Veterans will be completing the form in staging
 
