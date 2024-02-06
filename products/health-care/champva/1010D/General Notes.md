@@ -22,4 +22,6 @@ General info, notes and miscellaneous
 - VBMS: Veteran Benefit Management system
   - case management system for VBA
 - VES: Veterans enrollment system
-- VISTA/VIS: 
+  - new enrollment system that won't be ready until sometime in 2025
+- VISTA/VIS: Veterans Health Information Systems and Technology Architecture (VISTA)
+  - instance of CP&E (where elgibility info is stored)
