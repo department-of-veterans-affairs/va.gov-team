@@ -63,6 +63,7 @@ These products provide detailed information about specific VA facilities to help
 - [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
 - [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
 - [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+- [Data flow and migrations](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-facility.md#data-flow)
 
 ### Related teams & documentation
 
