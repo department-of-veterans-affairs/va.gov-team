@@ -2,7 +2,7 @@
 # Sprint 0 Product Brief: Reducing Barriers in Form Inputs 
 ### Profile/Contact information Form Pattern Improvements
 # 
-[Epic: Improving Profile/Contact Information: Reducing Barriers to Participation Through Form Pattern Improvements #4494](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4494)
+[Reducing Barriers in Form Inputs: Profile/Contact information Form Pattern Improvements #4494](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/4494)
  
 ## Problem Statement
 The Profile/Contact information section on the VA mobile app falls short of the [best practices for collecting personal information presented in Oct 2022 by USWDS](https://digital.gov/event/2022/10/20/october-2022-uswds-monthly-call/) . Per USWDS, the VA mobile app should “Reduce barriers to participation through every interaction.” 
