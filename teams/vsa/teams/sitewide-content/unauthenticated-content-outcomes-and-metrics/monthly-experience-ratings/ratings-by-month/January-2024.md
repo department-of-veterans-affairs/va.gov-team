@@ -30,7 +30,7 @@ All pages have ratings of 2 or below.
  
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
-1. [How to change direct deposit information for VA benefits](www.va.gov/resources/how-to-change-direct-deposit-information-for-va-benefits/TOTAL) (100% good out of 11 total responses)
+1. [How to change direct deposit information for VA benefits](www.va.gov/resources/how-to-change-direct-deposit-information-for-va-benefits/) (100% good out of 11 total responses)
 2. [In-state tuition rates under the Veterans Choice Act](www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) (100% good out of 14 total responses)
 3. [Will I have to pay back the GI Bill benefits I used if I fail a class](www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) (100% good out of 22 total responses)
 4. [Compare VA education benefits](www.va.gov/resources/compare-va-education-benefits/) (97% good out of 30 total responses)
@@ -38,7 +38,11 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
-1. 
+1. [How to get help with concerns at a VA health facility](www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (16% good out of 32 total responses)
+2. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (16% good out of 188 total responses)
+3. [DS Logon FAQs](www.va.gov/resources/ds-logon-faqs/TOTAL) (23% good out of 22 total responses)
+4. [How to use your login.gov or idme account to access myhealthevet](www.va.gov/resources/how-to-use-your-logingov-or-idme-account-to-access-my-healthevet/) (23% good out of 13 total responses)
+5. [Can I get a replacement GI Bill benefit certificate of eligibility](www.va.gov/resources/can-i-get-a-replacement-gi-bill-benefit-certificate-of-eligibility/) (23% good out of 43 total responses)
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
 1. 
