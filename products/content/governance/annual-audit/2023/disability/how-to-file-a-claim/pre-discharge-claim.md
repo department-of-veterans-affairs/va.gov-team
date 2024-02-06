@@ -20,7 +20,7 @@
 
 ## On this page component
 
-- [ ] The page has an "on this page" component if appropriate **Not needed - more like a landing page**
+- [ ] The page has an "on this page" component if appropriate 
 
 ## Content on page
 
