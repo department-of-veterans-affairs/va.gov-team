@@ -1,7 +1,8 @@
 # VA content migration roadmap
 
-[Supporting work](##supporting-work)
+[Supporting work](#Supporting-work)
 
+## Purpose of migration
 
 Migrating content to modernized VA environments helps ensure that VA web content meets these 21st Century IDEA Act requirements:
 - Accessible to people of diverse abilities
@@ -10,6 +11,7 @@ Migrating content to modernized VA environments helps ensure that VA web content
 - Information and services that are discoverable and optimized for search
 - User-centered and data-driven design
 - Mobile-first design that scales across varying device sizes
+- Deduplication of content
 
 Migration also ensures that VA meets the required actions of the 21st Centure IDEA Act, as noted in this document.
 
