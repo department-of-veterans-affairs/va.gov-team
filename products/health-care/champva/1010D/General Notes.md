@@ -17,7 +17,7 @@ General info, notes and miscellaneous
 - CRM: where tasks/requests from call center are created and tracked/routed
 - CXM: health care clearinghouse/database
   - all CHAMPVA,  VFMP, Spina Bifida, Children of Women Vietnam Veterans claims go here
-- DAPER: Document and process enabled repository (existing system)
+- DAPER: Document and process enabled repository (existing system that will be replaced by PEGA)
 - DCDM: Document Control Data Management 
 - PEGA: new document repository and management system that will replace DAPER
   - integration needs to be built still 
