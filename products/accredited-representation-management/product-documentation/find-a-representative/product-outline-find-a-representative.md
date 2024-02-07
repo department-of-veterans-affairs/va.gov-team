@@ -60,7 +60,8 @@ Data Reporting
 ### Baseline KPI Values
 1. **Number of searches** _measuring growth_
     1. Pre-launch: through the eBenefits or OGC tools
-    2. Post-launch: through the VA.gov Find a Representative tool
+       1. [Google Analytics traffic for June 1st - Nov 30th 2023](https://docs.google.com/spreadsheets/d/1Ne8H_hywzWcL5007MWY0ExpoCBJ0SjHRlkPHVtm7cJU/edit#gid=0) - see "Unique Pageviews"
+    3. Post-launch: through the VA.gov Find a Representative tool (SEO Insights KPI #1b)
 2. **% increase of searches this week vs. last week** _measuring proportional growth_
 
 ### Objectives and Key results (OKRs)
