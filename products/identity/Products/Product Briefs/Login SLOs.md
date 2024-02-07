@@ -3,15 +3,18 @@
 ## Overview: 
 Determining and establishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into va.gov.
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
-
+## Problem Statement: 
+We do not currently have any current SLOs for va.gov logins
 
 ## Relevant Documents:
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* 
+* Authentication Logging & Monitoring
+* Login Security
+* Incident Response
 
+* 
 ## Out of Scope: (for this iteration)
 *
 
@@ -24,7 +27,7 @@ For this first iteration, the focus will be on:
 * 
 
 ## Solution Approach: 
-* 
+* First, we will have to determine the Service Level Indicators (SLIs) for each of our focus area. That will help up understand how to target the SLOs.
   
 ## Technical Considerations:
 | Issue         | Notes         | 
