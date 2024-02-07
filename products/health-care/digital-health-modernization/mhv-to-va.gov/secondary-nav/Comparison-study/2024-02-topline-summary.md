@@ -58,17 +58,20 @@ Note: We will gather numbers for appropriate findings during final synthesis
    - Participants did not clearly distinguish between My HealtheVet and VA.gov 
    - When participants did veer to other navigation options (e.g., main VA.gov menu) they were mostly isolated to mobile sessions (design A) 
 
-Research Question 3
+**Research Question 3**
 
-8. ### All participants struggled to complete tasks outside of the health portal/not specifically named within the secondary navigation (e.g., Order CPAP supplies/file a claim for travel reimbursement). 
-Participants may have perceived the four navigation links as the only options, especially on Prototype B, in which an important 5th option (navigating to the My HealtheVet land page) was not seen as a link. 
-The association of CPAP supplies with Medications was clear among all participants. Even when participants successfully navigated to the landing page, they did not always scroll to find CPAP supplies, choosing instead to stop at the Medications box.  
-When Travel pay was introduced as an alternative task, participants did not demonstrate a clear connection to any of the four tools but continued to struggled to complete the task. 
+8. All participants struggled to complete tasks outside of the health portal/not specifically named within the secondary navigation (e.g., Order CPAP supplies/file a claim for travel reimbursement). 
+   - Participants may have perceived the four navigation links as the only options, especially on Prototype B, in which an important 5th option (navigating to the My HealtheVet land page) was not seen as a link. 
+   - The association of CPAP supplies with Medications was clear among all participants. Even when participants successfully navigated to the landing page, they did not always scroll to find CPAP supplies, choosing instead to stop at the Medications box.  
+   - When Travel pay was introduced as an alternative task, participants did not demonstrate a clear connection to any of the four tools but continued to struggled to complete the task. 
 
-Other takeaways 
-9. ### All participants attempted to locate CPAP supplies under Medications 
-Participants associated needing a prescription with CPAP supplies and therefore looked under Medications. 
-Participants may have also perceived the four navigation links as the only options during the study.  
+## Other takeaways 
 
-10. ### Most participants expected an intermediate landing page (a broader landing page where they could choose where to go) before arriving on a specific secure message. 
-Several participants seem confused about coming into My HealtheVet through a side door (an email). Further analysis is needed if it was the narrative around the study or the mental model of participants (email from My HealtheVet > landing page experience first).  
+9. All participants attempted to locate CPAP supplies under Medications 
+   - Participants associated needing a prescription with CPAP supplies and therefore looked under Medications. 
+   - Participants may have also perceived the four navigation links as the only options during the study.  
+
+10. Most participants expected an intermediate landing page (a broader landing page where they could choose where to go) before arriving on a specific secure message.  
+    - Several participants seem confused about coming into My HealtheVet through a side door (an email). Further analysis is needed if it was the narrative around the study or the mental model of participants (email from My HealtheVet > landing page experience first).  
+
+
