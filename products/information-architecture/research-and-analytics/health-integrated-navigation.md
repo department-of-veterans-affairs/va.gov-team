@@ -33,13 +33,13 @@ A successful solution SHOULD:
 
 ## <a name="current-designs"></a>What do current VA.gov secondary navigation designs look like?<br>
 
-### Desktop - general template:
+### Desktop - benefit hub template:
 <img width="1147" alt="Screenshot 2023-09-20 at 10 49 46 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/a7970d62-88d2-4094-b6f1-03e4b182e97d">
 
 ### Desktop - facilities template:
 <img width="1153" alt="Screenshot 2023-09-20 at 10 38 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/97981bbe-2433-4f52-9f64-16662133ca10">
 
-### Mobile - general template:
+### Mobile - benefit hub template:
 <img width="1115" alt="Screenshot 2023-09-20 at 10 04 04 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/777c6258-3b56-4c28-95bc-d5cbe89578e8">
 
 ### Mobile - facilities template:
@@ -65,7 +65,7 @@ The existing sidenav component is not fully supported by the Design System, and 
 ### Problem 1: Inconsistent on mobile v. desktop
 On Desktop, the side navigation is persistently visible and available; on mobile these options are collapsed into the "in this section" sidenav component, which is a second menu option (in addition to the primary mega menu). When a user expands the mobile component, they will see a fly-out menu (which varies depending on which template type they see - more in Problem #2 below). Once a selection is made, the user's touch can expand a menu parent page (if applicable) or it can click a link that will close the menu and navigate the user to that page. 
 
-### Problem 2: Inconsistent versions (general vs. facilites template version)
+### Problem 2: Inconsistent versions (benefit hub vs. facilites template version)
 There are several differences between the two secondary navigation designs on VA.gov today. 
 * **Design differences:**
   * Link text: the two templates use different blues
@@ -75,9 +75,9 @@ There are several differences between the two secondary navigation designs on VA
   <img width="426" alt="Screenshot 2023-09-24 at 9 24 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/51d80b56-e8cd-4b08-8b92-03a3e06dc087">
 </p>
 
-* **Layout difference:** facilities template displays all sections and subpages at once, at all times and does not have a way to collapse or expand irrelevant sections. The general template does have functionality to collapse and expand.
+* **Layout difference:** facilities template displays all sections and subpages at once, at all times and does not have a way to collapse or expand irrelevant sections. The benefit hub template does have functionality to collapse and expand.
 * **Mobile differences:**
-  * Clicking "in this section" button - on facilities template, the component expands under the button, pushing page content further down the screen, and is full-width; in general version, the menu component opens partial-width in front of the "in this section" component from the upper right corner of the screen and can be closed with an "x".
+  * Clicking "in this section" button - on facilities template, the component expands under the button, pushing page content further down the screen, and is full-width; in the benefit hub version, the menu component opens partial-width in front of the "in this section" component from the upper right corner of the screen and can be closed with an "x".
 <p align="center">
   <img width="609" alt="Screenshot 2023-09-24 at 9 36 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/b8254f53-4a07-4253-a5dc-03d2dbeb24c6">
 </p>
@@ -99,12 +99,12 @@ Quantitative data suggests that despite users being mostly split between desktop
 In both versions of the mobile component, the "in this section" button appears before the page title (H1) which removes its context, and makes it "float in space." The loudest text on the page is the title, and most users would expect to see options beneath or alongside this title text, not above it. 
 
 ### Problem 6: Mobile version adds confusion by conflating other navigation components 
-The general version of the sidenav mobile component (does not occur in facilities version) nests breadcrumbs inside the navigation menu. While it has not been formally researched (from digging into the research repo), it is likely that users do not understand the distinction between the breadcrumb and nav menu options on display when this component is expanded. 
+The benefit hub version of the sidenav mobile component (does not occur in facilities version) nests breadcrumbs inside the navigation menu. While it has not been formally researched (from digging into the research repo), it is likely that users do not understand the distinction between the breadcrumb and nav menu options on display when this component is expanded. 
 
 Users may expect that the breadcrumb will help them climb back up the hierarchy _within_ the menu component. However, when users do click the nested breadcrumbs, which are hyperlinks, they will navigate to a new page, which will close out the "in this section" component. This could cause confusion or frustration. 
 
-### Problem 7: General template behavior narrows what is visible based on how deeply a link is nested
-The general template dynamically updates and narrows what pages are visible to the user as they continue to click more deeply into the site. On both desktop and mobile, the only way to go back to a previous view is to use the breadcrumb to navigate back up the tree. However, on mobile this is a confusing and unexpected experience, as it is much less visually clear that the breadcrumb is a different component than other text within the component. 
+### Problem 7: Benefit hub template behavior narrows what is visible based on how deeply a link is nested
+The benefit hub template dynamically updates and narrows what pages are visible to the user as they continue to click more deeply into the site. On both desktop and mobile, the only way to go back to a previous view is to use the breadcrumb to navigate back up the tree. However, on mobile this is a confusing and unexpected experience, as it is much less visually clear that the breadcrumb is a different component than other text within the component. 
 
 More than any other problem, this in particular **will not work** for the health portal on VA.gov, which needs all the health tools to be accessible in any solution in order to provide seamless, constant, and consistent navigation to the end-user. For any tool with child pages, such as medical records or secure messaging, the user's sidenav view will dynamically change when they click into a child page, such as "inbox" or "drafts." They will no longer see the wider tools beyond the section they have drilled down into. 
 
