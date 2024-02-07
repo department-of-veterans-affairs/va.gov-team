@@ -62,7 +62,7 @@ Data Reporting
     1. Pre-launch: through the eBenefits or OGC tools
        1. [Google Analytics traffic for June 1st - Nov 30th 2023](https://docs.google.com/spreadsheets/d/1Ne8H_hywzWcL5007MWY0ExpoCBJ0SjHRlkPHVtm7cJU/edit#gid=0)
     3. Post-launch: through the VA.gov Find a Representative tool (SEO Insights KPI #1b)
-2. **% increase of searches this week vs. last week** _measuring proportional growth_
+2. **% increase of unique pageviews this week vs. last week** _measuring proportional growth_
 
 ### Objectives and Key results (OKRs)
 1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov
