@@ -12,12 +12,20 @@ OCTO Objective 1: Better experiences.
 
 Our digital experiences are the best way to access VA health care and benefits.
 
-Key Results:
+Flagship OKRs
 
-1. In-app customer satisfaction increased by 5 points, and app store rating was 4.8+.
-2. Number of transactions processed using our products have increased by 25%.
-3. All new products have a faster transaction time than those they replaced.
-4. No transactions accepted by our products have a fatal error.
+1. Improve Veteran retention at the 30, 60, and 90 day marks by 10%
+2. Increase the number of tasks completed and their success rate
+    1. All tasks are defined
+    2. All tasks have baseline success rates collected
+    3. Overall task success rates is increased by 10%
+    4. Number of tasks completed is increased by 25%
+3. Improve Veteran Satisfaction
+    1. Baseline Veteran satisfaction score is established
+    2. Veteran satisfaction score is increased by 10%
+    3. App store rating remains above 4.8
+
+
 
 
 Note: Each OCTO-led Experience team will have its specific OKRs, to be developed in December/January 2024.
