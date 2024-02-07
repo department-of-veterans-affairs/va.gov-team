@@ -1,28 +1,8 @@
 # https://www.va.gov/disability/eligibility/hazardous-materials-exposure/project-112-shad/
 
-## URL
-- URL follows VA.gov URL standards
-- URL correctly represents the placement of the page in the IA of the site
-- URL includes primary keyword and aligns with the H1
-
-## Breadcrumb
-
-- The page displays a breadcrumb
-- The breadcrumb represents the same hierarchy as the URL
-- The breadcrumb segments match the H1 of the pages in the navigation path exactly
-- **If the page is translated,** the translated segments of the breadcrumb have appropriate tags
-
-## Secondary navigation (where applicable)
-
-- The page is displayed as an option within the secondary nav
-- The placement of the option in the secondary nav represents the same hierarchy as the URL
-- **If the page is translated,** the translated segments of the navigation have appropriate tags 
-
-## On this page component
-
-- The page has an "on this page" component if appropriate **Not needed**
-
 ## Content on page
+
+### OCTO checks, edits, tasks (Copyeditor reviewed these updates, but didn't yet have their own checklist to go through)
 
 - The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
 - Header levels are hierarchical
@@ -30,8 +10,9 @@
 - Text links have purpose and target
 - The content is free of ability-focused language (view, walk, see, hear)
 - Relevant terms from page are in content brief and any relevant backlog work is noted
-- Remove "Who's covered?" section (if needed)
-- Remove "What kind of disability benefits can I get?" section (if needed)
+- Remove "Who's covered?" section
+- Add this Note to the end of the blue box: **Note:** If you get a disability rating, you may also be eligible for VA health care and other benefits.
+- Remove "What kind of disability benefits can I get?" section
 - Change header "How do I get these benefits?" to "How do I file a claim for compensation?"
 - Change content in the above "How do I file...." section to this:
 You can file a claim online now. You can also file by mail, in person, or with the help of a trained professional.
