@@ -1,7 +1,7 @@
 # Name of Product
 
-## Overview: (Provide a high level description of the product/set of features)
-
+## Overview: 
+Determining and establishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into va.gov.
 
 ## Problem Statement: (Describe what problem we’re going to address with this product)
 
