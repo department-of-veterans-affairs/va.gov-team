@@ -14,7 +14,7 @@ The MVP will include desktop & mobile experiences
 2. Include widget in the profile to display selected representative (pending request with link to next steps)
 
 ## Future Iteration
-1. Link/integrate with other, related experiences (Profile, MyVA)
+1. Link/integrate with other, related experiences (Profile, MyVA, Claims Status Tool)
 2. When we support the [digital submission in Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/appoint-a-representative-1.0-overview.md#future-iteration), consider additional widget states
    1. No existing rep, application pending for new rep
    2. Existing rep, application pending for new rep
