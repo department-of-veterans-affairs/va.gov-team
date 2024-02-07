@@ -26,6 +26,8 @@ ________________________________________________________________________________
         - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
         - ❗ 🟩 TBD
         - ❗ 🟦 TBD
+- **GOAL: Address Usage Issues**
+    - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
@@ -42,8 +44,9 @@ ________________________________________________________________________________
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support Travel for CERNER Sites**
-- **GOAL: Increase PCI Usage**
-     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Increase Usage of PCI**
+    - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
+    - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
 
 #### PLANNED RELEASES 
