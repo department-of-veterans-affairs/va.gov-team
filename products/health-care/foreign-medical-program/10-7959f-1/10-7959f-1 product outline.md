@@ -132,6 +132,7 @@ Key deliverables:
   - A: VR&E is a minority
 
 ### Key Decisions
+- 2/7/24 - even though it seems that the actual registration form is unnecessary (per stakeholder interviews conducted through 1/31/24-2/9/24), moving forward with digitization of the form with the understanding that the long term recommendation is to make registration automatic.
 
 ### Key Dates
 - Jan 2024: start discovery
