@@ -1,6 +1,11 @@
 # VA content migration roadmap
 
+[Purpose of migration](#Purpose-of-migration)
 [Supporting work](#Supporting-work)
+[Criteria for prioritization](#Criteria-for-prioritization)
+[Recently completed migration efforts](#Recently-completed-migration-efforts)
+[Currently in progress migration initiatives](Currently-in-progress-migration-initiatives)
+[Up next migration efforts](Up-next-migration-efforts)
 
 ## Purpose of migration
 
@@ -38,14 +43,16 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
       - Content work tracker for VA program offices to track work
       - AI style guide checker tool
 
-### Criteria for prioritization
+## Criteria for prioritization
 - **Audience and content topic:** We have a "home" for benefit and service content for Veterans and other beneficiaries. We will prioritize migrating content that fits this definition to the Drupal environment, using our content placement criteria for the Veteran benefit experience content. While auditing sites/sections, we'll also identify content for other audiences that may either be suited to migrate to the new WordPress VIP space or may need another solution (such as content for health care providers).
 - **Engagement and relevancy:** We will prioritize pages and sites with a high level of engagement, based on pageviews, as well as pages and sites that . As part of this, we will prioritize pages specifically called out on the CIO's "top 1,000 urls" list. [**21st Century IDEA Act: Action 3 - Identify top websites; **21st Century IDEA Act:** Action 4: Assess common questions and top content for deduplication and SEO**]
 - **Accessibility issues:** We will prioritize pages and sites with known accessibility issues.
 - **Level of effort:** We will work to balance between quickly moving forward with pages that require a low level of effort to migrate and continuing to invest time in the full sections, subdomains, and tools that will require a much more significant level of effort.
 - **Capacity and commitment of program offices:** We will prioritize based on current capacity of program offices to commit to partner with us on the initial migration of their content and the ongoing collaboration of maintaining that content.
   
-## Recently completed (these are high-engagement content sections within the top 1,000 pages across VA websites)
+## Recently completed migration efforts
+
+**Note:** These are high-engagement content sections within the top 1,000 pages across VA websites. These are also tied to, and being tracked by, the VA CIO's accessibility remediation efforts.
 
 - Veteran community care content
 - Foreign medical program content
@@ -58,7 +65,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 - Health care income limits tool (partnership with Public Websites)
 - VA Life (benefits.va.gov/insurance/valife.asp, benefits.va.gov/insurance/choose.asp, benefits.va.gov/insurance/valife_rates.asp)
   
-## Currently in progress content-only migration initiatives
+## Currently in progress migration initiatives
 
 ### VBA fact sheet library
 
@@ -88,7 +95,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 
 - **Status:** Initial content audit in progress. 
 
-## Up next
+## Up next migration efforts
 
 ### Benefits.va.gov (top 1,000 pages)
 
@@ -118,14 +125,14 @@ But these full sections and subdomains will take significantly more time and eff
 
 As we migrate this content, we also need to bring each program office into the Drupal environment, provide training on both Drupal and plain language, and get shared alignment around our content strategy, content placement criteria, VA.gov content style guide, and editorial processes. This work is slow, but building a partnership and shared alignment is critical to long-term success.
 
-High-priority full sections of va.gov include the following:
+#### High-priority full sections of va.gov include the following:
 
 - va.gov/geriatrics
 - va.gov/healthbenefits
 - va.gov/opa/persona/
 - va.gov/wholehealth
 
-High-priority full sections of benefits.va.gov including the following (with an eventual need to migrate the full subdomain to modernized environments in Drupal and WordPress):
+#### High-priority full sections of benefits.va.gov including the following (with an eventual need to migrate the full subdomain to modernized environments in Drupal and WordPress):
 
 - benefits.va.gov/benefits/ 
 - benefits.va.gov/homeloans/
@@ -135,7 +142,7 @@ High-priority full sections of benefits.va.gov including the following (with an 
 - benefits.va.gov/transition/
 - benefits.va.gov/atoz
 
-Other high-priority subdomains include the following:
+#### Other high-priority subdomains include the following:
 
 - publichealth.va.gov/exposures/ (eventually, will need to address the full publichealth.va.gov but exposures is top priority)
 - caregiver.va.gov
@@ -145,5 +152,3 @@ Other high-priority subdomains include the following:
 - prosthetics.va.gov
 - telehealth.va.gov
 - vetcenter.va.gov
-
-In addition, the Sitewide Content and IA team is handling the content portion of the My HealtheVet migration.
