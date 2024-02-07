@@ -35,11 +35,9 @@ ________________________________________________________________________________
 ------- END FUTURE / TENTATIVE ------
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 2/7 through 2/20</summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## 2/7/2024 - 2/20/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## 2/7/2024 - 2/20/2024  
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
@@ -86,9 +84,6 @@ ________________________________________________________________________________
     - 🟩 [[CHIP][BUG] Resolve emfile errors in pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75182)
     - 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75446)
     - 🟥 [UX Transition off CIE](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75423)
-
-------- END FUTURE / TENTATIVE ------
-</details>
 
 ______________________________________________________________________________________________________________________________________________________
 
