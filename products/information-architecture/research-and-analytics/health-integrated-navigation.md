@@ -24,7 +24,7 @@ We posit that a successful solution MUST:
 * Provide access to all health tools to the end-user in a single view, persistently (visibility of tools should not change/disappear when a user drills down to child content)
 
 A successful solution SHOULD:
-* Explore and test whether being visually louder than primary site navigation is more useful to Veterans and VA.gov users
+* Present a stronger "sense of place" to reduce the likelihood of users gravitating toward primary site navigation
 * Be consistently presented on **all** pages of the health experience (including the health portal landing page)
 
 ### Challenges to this work:
