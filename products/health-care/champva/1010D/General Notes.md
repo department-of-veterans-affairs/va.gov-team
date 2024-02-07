@@ -9,7 +9,7 @@ General info, notes and miscellaneous
 - VR&E (or Chapter 31): Veteran Readiness and Employment
 
 ### Systems
-- AVA: Ask VA (online service where people can submit questions, concerns, and recommendations to VA)
+- AVA: Ask VA (online service where people can submit questions, concerns, recommendations, and upload documents to VA)
 - CMP: Centralized Mail Portal
   - takes documents and routes them to various VBA (Veterans Benefits Administration) teams for processing
 - CP&E: Claims Processing and Eligibility
