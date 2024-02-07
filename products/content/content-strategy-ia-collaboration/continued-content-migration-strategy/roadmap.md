@@ -1,16 +1,17 @@
-# Content strategy roadmap to completion
+# Content strategy roadmap
 
 ## Supporting work
 
 The remaining content that must migrate to the modernized VA.gov is highly nuanced, aimed at a mix of audiences, and owned by a wide range of offices across VA. To successfully migrate this content, we need to first establish the following:
 
-- Clear content placement criteria based on audiences and content types
-  - We have established a [working process for content placement criteria within benefit hubs vs. R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/resources-and-support-author-pilot/process.md)
-  - We are working on broader content placement criteria as part of the 6102 work
-  - We are working on solidifying content categories for placement
-- Clear processes and a shared understanding that allow OCTO and our partners to effectively collaborate for migrating **and** maintaining high-quality content over the long term
-  - 2 pilot migration/Resources and Support programs are underway in which we're testing and learning from a collaborative auditing, strategy, and writing approach
-  - Content intake process work is in progress with OPIA, OIT, VEO, VBA, VHA, and NCA
+- **Need:** Clear content placement criteria based on audiences and content types
+  - **Completed work:** We have established a [working process for content placement criteria within benefit hubs vs. R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/resources-and-support-author-pilot/process.md)
+  - **In-progress work:** We are working on broader content placement criteria as part of the 6102 work. This is a sitewide crew priority for 2024.
+- **Need:** High-level audit and analysis of websites for consideration. [**21st Century IDEA Act: Identify public-facing websites**]
+  -  *
+- **Need:** Clear processes and a shared understanding that allow OCTO and our partners to effectively collaborate during migration and post-migration to maintain high-quality content over the long term.
+  - **Completed:** Completed 2 pilot migrations collaborations with program offices. Applying lessons learned to refine processes for continued migration efforts. 
+  - *Created 
   - Content design and plain language program development is in progress (1 recorded content training is going into Drupal KB article soon and another will follow next quarter)
 - An understanding of all the content that remains to be migrated so that we can apply our criteria for prioritization
   - We are a significant way through a [broad content audit of VA, VBA, VHA, and NCA sites](https://dvagov-my.sharepoint.com/:x:/g/personal/danielle_thierry_va_gov/EfbZkH1Kr8BFsXEhb09_Rx4Bhbr9ugKdUxhyh0hyZxBFVg?e=jjgReF)
@@ -18,7 +19,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 ### Criteria for prioritization
 
 - **Audience and content topic:** We have a "home" for benefit and service content for Veterans and other beneficiaries. We will prioritize migrating content that fits this definition to the Drupal environment, using our content placement criteria for the Veteran benefit experience content. While auditing sites/sections, we'll also identify content for other audiences that may either be suited to migrate to the new WordPress VIP space or may need another solution (such as content for health care providers).
-- **Engagement:** We will prioritize pages and sites with a high level of engagement, based on pageviews. As part of this, we will prioritize pages specifically called out on the CIO's "top 1,000 urls" list.
+- **Engagement and relevancy:** We will prioritize pages and sites with a high level of engagement, based on pageviews, as well as pages and sites that . As part of this, we will prioritize pages specifically called out on the CIO's "top 1,000 urls" list. [**21st Century IDEA Act:** Action 3 - Identify top websites; **21st Century IDEA Act:** Action 4: Assess common questions and top content for deduplication and SEO]
 - **Accessibility issues:** We will prioritize pages and sites with known accessibility issues.
 - **Level of effort:** We will work to balance between quickly moving forward with pages that require a low level of effort to migrate and continuing to invest time in the full sections, subdomains, and tools that will require a much more significant level of effort.
 - **Capacity and commitment of program offices:** We will prioritize based on current capacity of program offices to commit to partner with us on the initial migration of their content and the ongoing collaboration of maintaining that content.
@@ -37,23 +38,15 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 
 ### VBA fact sheet library
 
-- Audit of all fact sheets with recommendations complete and handed off to VBA digital media. Majority of fact sheets replaced with links.  
+- **Status:** Audit of all fact sheets with recommendations complete and handed off to VBA digital media. Majority of fact sheets replaced with links.  
 
 ### Veteran persona page
 
-- In planning for strategy for a "getting started as a Veteran" resources page
+- **Status:** In planning for strategy for a "getting started as a Veteran" resources page
 
 ### Community care content for other beneficiaries
 
-- Content strategy planning and writing complete. Moving into reviews with SMEs
-
-### Board of Veterans Appeals content for Veterans and other beneficiaries (R&S pilot partner)
-
-- Aiming for completion in June 2023.
-
-### Income limits tool
-
-- In research
+- **Status:** Content strategy planning and writing complete. Moving into reviews with SMEs
 
 ### Benefits.va.gov (top 1,000 pages focus first)
 
