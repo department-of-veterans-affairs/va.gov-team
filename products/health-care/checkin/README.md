@@ -58,7 +58,7 @@
 - [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md)
 - [Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
-- Service Blueprint with 45MR [[Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286) [[Download PDF]](https://github.com/department-of-veterans-affairs/va.gov-team/files/14058156/PCI.Service.Blueprint.2024.pdf)
+- Service Blueprint with 45MR and BT Reimbursement [[Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286) [[Download PDF]](https://github.com/department-of-veterans-affairs/va.gov-team/files/14200097/PCI.Service.Blueprint_2024-02-07_18-27-19.pdf)
 - [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
 
 ### Releases 
