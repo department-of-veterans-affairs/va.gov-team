@@ -9,6 +9,11 @@
 - [ ] Backlog ticket for further review created if needed.
 
 ### Copy editor checks, edits, tasks
+- [ ] Header levels are hierarchical
+- [ ] The page has no broken links
+- [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
+- [ ] The content is free of ability-focused language (view, walk, see, hear)
+- [ ] Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 14.1
