@@ -56,7 +56,7 @@ Note: We will gather numbers for appropriate findings during final synthesis
    - Most participants were aware they were within a health portal.
    - Few participants navigated to the global header as their first instinct to complete tasks with either prototype. 
    - Participants did not clearly distinguish between My HealtheVet and VA.gov 
-   - When participants did veer to other navigation options (e.g., main VA.gov menu) they were mostly isolated to mobile sessions (design A) 
+   - When participants did veer to other navigation options (e.g., main VA.gov menu) they were mostly isolated to mobile sessions (Prototype A) 
 
 **Research Question 3**
 
