@@ -1,7 +1,7 @@
 # General Notes
 General info, notes and miscellaneous 
 
-### Abbreviations
+### Programs
 - IVC: Office of Integrated Veteran Care (merging of two offices - OVAC Office of Veterans Access to Care and the Office of Community Care)
 - VBA: Veterans Benefits Administration
 - VHA: Veterans Health Administration
