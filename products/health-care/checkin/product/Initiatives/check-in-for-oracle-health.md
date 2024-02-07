@@ -40,6 +40,7 @@ Adding features to the process that do not make it easier for Veterans to access
 - Veteran receives an SMS that includes the claim submission status
 
 ### Not Included in the MVP
+- We are not offering this feature for Veterans with VistA appointments
 - Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
 - Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
 - Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) 
