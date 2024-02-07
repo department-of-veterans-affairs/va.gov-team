@@ -51,7 +51,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 **Search Behavior**
 1. **Average number of searches per user** _Do users feel the need to search multiple times?_
 2. **% of contact info clicks, broken out by info type (address, phone and email)** _How do users prefer to contact a representative?_
-3. **% of searchers where the user reports outdated information (at least once)** _How often are users reporting outdated information_
+3. **% of searches where the user reports outdated information (at least once)** _What percent of users take the initiative to (or are driven to) report outdated information?_
 4. **% of searches where the user continues beyond the first page of results** _Are users feeling the need to go further in search results?_
 5. **% of searches where the user is logged in**
 
