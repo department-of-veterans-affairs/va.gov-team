@@ -116,11 +116,11 @@ ________________________________________________________________________________
     - **Sub Goal: Support eCheck-in for CERNER Sites**
         - ✔️ ❗ 🟩 [[CHIP] SPIKE - figure out what is needed with a refresh endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73854)
         - ✔️ ❗ 🟩 [[CHIP] SPIKE - Research new cerner payload from vetext](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73636)
-        - ❗ 🟦 [[BE] Spike on Mobile Profile Service to call VA Profile using MAP token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73685)
+        - ✔️ ❗ 🟦 [[BE] Spike on Mobile Profile Service to call VA Profile using MAP token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73685)
         - ✔️ ❗ 🟦 [[BE] Spike on API to set arrived status in cerner appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73688)        
-        - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
-        - ❗ 🟥 ~[[UX] [Design] Create Final Wireframes with content for OH userflow appt statuses and button action](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74682)~
-        - ❗ 🟥 ~[[UX] [Design] Create Final Wireframes with content for OH userflow option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74680)~
+        - 🚧 ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
+        - ~❗ 🟥 [[UX] [Design] Create Final Wireframes with content for OH userflow appt statuses and button action](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74682)~
+        - ~❗ 🟥 [[UX] [Design] Create Final Wireframes with content for OH userflow option 1](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74680)~
         - ✔️ ❗ 🟥 [[UX] [Design] Create Final Wireframes with content for OH userflow option 3](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74681)
         - 🚧 ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - 🚧 ❗ 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)                      
@@ -136,17 +136,17 @@ ________________________________________________________________________________
         - ✔️ 🟥 [[UX] Identify scenario(s) and entrance path(s) to use for exploration of notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72100)
         - 🚧 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
    - **Sub Goal: Analyze current metrics to see what they tell us**               
-       - 🟥 [Research] Analyze GA Metrics
-       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71834)
+       - ✔️ 🟥 [Research] Analyze GA Metrics
+       - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71834)
 - **GOAL: Address Tech Debt**            
-     - 🟩 [[FE] Switch icons to v3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71840)
+     - 🚧 🟩 [[FE] Switch icons to v3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71840)
          - We are waiting on the DS to address the ticket we created for them before we finish this
-     - 🟩 [Add an allDemographicsCurrentUUID Mock UUID for check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72829)
+     - 🚧 🟩 [Add an allDemographicsCurrentUUID Mock UUID for check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/72829)
      - **Sub Goal: Migrate Sktech Files to Figma**
         - ✔️ 🟥 [[Design] Clean up pages in Figma Production file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73002)
         - ✔️ 🟥 [[Design] Create remaining components for MHV UA Library for production file](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/74282) 
         - ✔️ 🟥  [[Design] Replace all local components in production frames to use components from MHV UA Library](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/73878)
-        - 🟥 [[Design] Clean up pages in Figma Unified Check In file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73559)
+        - ✔️ 🟥 [[Design] Clean up pages in Figma Unified Check In file](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73559)
      
 
 ______________________________________________________________________________________________________________________________________________________
