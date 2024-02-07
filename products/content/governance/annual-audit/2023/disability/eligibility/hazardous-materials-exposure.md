@@ -2,17 +2,17 @@
 
 ## Content on page
 
-- [X] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [X] Header levels are hierarchical
-- [X] The page has no broken links
-- [X] The content is free of ability-focused language (view, walk, see, hear)
-- [X] Relevant terms from page are in content brief and any relevant backlog work is noted
+### OCTO checks, edits, tasks
+
+- [ ] The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.).
+- [ ] Relevant terms from page are in content brief.
+- [ ] Backlog ticket for further review created if needed.
+
+### Copy editor checks, edits, tasks
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 14.1
 - After edits: NA
-
-- [X] Backlog ticket for further review created if needed
 
 ## SME review
 
