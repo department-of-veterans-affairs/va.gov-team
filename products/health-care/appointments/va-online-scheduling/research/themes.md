@@ -261,18 +261,49 @@ Code format: `fr-[feature-code]`
 > [Appointments list Screenreader Usability Test](./2023-02-appt-list-usability-screenreader/research-findings.md#logging-in-was-the-biggest-navigation-challenge-for-participants) 2023-02
 
 ## Scheduling stories
+
+> When choosing care, participants wanted to know what was nearby, more than where they were registered.
 > 
+> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#when-choosing-care-participants-wanted-to-know-what-was-nearby-more-than-where-they-were-registered), 2021-05
+
+> Health care decisions start and end with their primary care provider (PCP).
+> 
+> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#health-care-decisions-start-and-end-with-their-primary-care-provider-pcp), 2021-05
+
+> Once they've established care, participants reported clear preferences for how they choose facilities.
+> 
+> * Ease of access - distance to facility
+> * How urgent their need is
+> * Whether they believe they can receive quality care at the facility
+> * Familiarity with the provider
+> 
+> Participants would make trade-offs depending on the options available. Some may drive further for higher quality care, or a familiar provider, for example.
+> 
+> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#once-theyve-established-care-participants-reported-clear-preferences-for-how-they-choose-facilities), 2021-05
+
+> Geographic location is a primary factor for participants when looking for care.
+> 
+> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#geographic-location-is-a-primary-factor-for-participants-when-looking-for-care), 2021-05
+
+> Participants saw registration as a step in the process to receiving care; not a tool for finding facilities.
+> 
+> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#participants-saw-registration-as-a-step-in-the-process-to-receiving-care-not-a-tool-for-finding-facilities), 2021-05
+
+> Half of the participants preferred to schedule appointments through a combination of secure messenger and in person.
+> 
+> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#half-of-the-participants-preferred-to-schedule-appointments-through-a-combination-of-secure-messenger-and-in-person), 2021-05
+
 > How the process of choosing or changing a provider works.
 > 
 > [MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#the-process-of-choosing-or-changing-a-provider), 2023-10. Participants were MHV Coordinators.
 
-> It's easier to help Veterans schedule with other tools.
-> 
-> [MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#its-easier-to-help-veterans-schedule-with-other-tools), 2023-10. Participants were MHV Coordinators.
-
 > It's unclear what types of care can be scheduled online 
 > 
 > [MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#its-unclear-what-types-of-care-can-be-scheduled-online), 2023-10. Participants were MHV Coordinators.
+
+> It's easier to help Veterans schedule with other tools.
+> 
+> [MHV Coordinator Feedback Session](./2023-10-coordinator-feedback/research-report.md#its-easier-to-help-veterans-schedule-with-other-tools), 2023-10. Participants were MHV Coordinators.
 
 > Participants expected a more personalized experience for selecting facilities
 > 
@@ -322,37 +353,6 @@ Code format: `fr-[feature-code]`
 > 
 > [Request Clarification Study](./2021-11-request-clarification-research/research-findings.md#review-and-submit-page), 2021-11
 
-> When choosing care, participants wanted to know what was nearby, more than where they were registered.
-> 
-> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#when-choosing-care-participants-wanted-to-know-what-was-nearby-more-than-where-they-were-registered), 2021-05
-
-> Health care decisions start and end with their primary care provider (PCP).
-> 
-> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#health-care-decisions-start-and-end-with-their-primary-care-provider-pcp), 2021-05
-
-> Once they've established care, participants reported clear preferences for how they choose facilities.
-> 
-> * Ease of access - distance to facility
-> * How urgent their need is
-> * Whether they believe they can receive quality care at the facility
-> * Familiarity with the provider
-> 
-> Participants would make trade-offs depending on the options available. Some may drive further for higher quality care, or a familiar provider, for example.
-> 
-> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#once-theyve-established-care-participants-reported-clear-preferences-for-how-they-choose-facilities), 2021-05
-
-> Geographic location is a primary factor for participants when looking for care.
-> 
-> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#geographic-location-is-a-primary-factor-for-participants-when-looking-for-care), 2021-05
-
-> Participants saw registration as a step in the process to receiving care; not a tool for finding facilities.
-> 
-> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#participants-saw-registration-as-a-step-in-the-process-to-receiving-care-not-a-tool-for-finding-facilities), 2021-05
-
-> Half of the participants preferred to schedule appointments through a combination of secure messenger and in person.
-> 
-> [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#half-of-the-participants-preferred-to-schedule-appointments-through-a-combination-of-secure-messenger-and-in-person), 2021-05
-
 > 7 of 8 participants shared a negative perception of calling the VA
 > 
 > [Facility Personalization Research](./2021-05-facilities-personalization-research/research-findings.md#7-of-8-participants-shared-a-negative-perception-of-calling-the-va), 2021-05
@@ -392,19 +392,57 @@ Code format: `fr-[feature-code]`
 
 ## Feature requests
 
+
 ### Rescheduling
 
 
 ## Dead ends and errors
 
 
-
 ## Unthemed
 
+> Overview of how participants manage appointments.
+>
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#how-participants-manage-appointments), 2021-02
 
 
+> Overview of how participants schedule COVID-19 vaccination appts.
+>
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#covid-19-vaccine-scheduling-experience), 2021-02
+
+> Overview of participants' scheduling preferences and expectations.
+>
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#covid-19-vaccine-scheduling-experience), 2021-02
 
 
+> VAOS static landing/login page - prototype feedback
+>
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#vaos-static-landinglogin-page-slp)
+
+
+> Home page and "Schedule your appointment" starter page - prototype feedback
+> 
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#home-page-and-schedule-your-appointment-starter-page)
+
+
+> Alternate paths when Veteran is unable to schedule online - prototype feedback
+> 
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#alternate-paths-when-veteran-is-unable-to-schedule-online)
+
+
+> Vaccine screener page - prototype feedback
+> 
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#screener)
+
+
+> Vaccine calendar instructions - prototype feedback
+>
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#calendar)
+
+
+> Vaccine - plan your second dose - prototype feedback
+>
+> [VAOS Vaccine Flow Usability](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-02-vaos-vaccine-concept-test/research-report.md#plan-your-second-dose)
 
 
 
