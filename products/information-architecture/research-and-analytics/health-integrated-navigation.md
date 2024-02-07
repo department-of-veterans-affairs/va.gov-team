@@ -85,7 +85,7 @@ There are several differences between the two secondary navigation designs on VA
 ### Problem 3: Inconsistent compared to primary mega menu navigation  
 
 ### Problem 4: Research shows that users aren't finding it on mobile
-Hidden navigation components like hamburger menus are [known to have findability issues](https://www.nngroup.com/articles/hamburger-menus/) on both desktop and mobile, and typically hurt UX metrics. At the VA, secondary navigation folds down into a hamburger menu on a tablet in portrait mode or on a mobile device.
+Collapsed navigation components like hamburger menus are [known to have findability issues](https://www.nngroup.com/articles/hamburger-menus/) on both desktop and mobile, and typically hurt UX metrics. At the VA, secondary navigation folds down into a hamburger menu on a tablet in portrait mode or on a mobile device.
 
 Quantitative data suggests that despite users being mostly split between desktop and mobile/tablet usage, that the usage of the secondary navigation on these devices does not follow that breakdown whatsoever. Compared to desktop engagement with the side navigation menu, only 14% of almost the same number of mobile users are clicking it. 
 
