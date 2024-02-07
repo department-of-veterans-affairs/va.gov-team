@@ -73,7 +73,7 @@ _"…I really don't care too much for paper….I'd rather sign digitally forms a
 
 Finding 2
 
-**Participants have a wide range of Veteran Identifications on hand that get the job done**
+**Participants have a wide range of physical and digital forms of Veteran Identifications on hand that get the job done**
 
 Participants have a range of types of Veteran identification.  All participants had either a VA retiree card, the VHIC or the VIC.  Often, they also have more informal methods of identification, including on their drivers license or an article of clothing.  When a Veteran is trying to access a discount, these tools are successful and often on hand.  Digitally, most participants were familiar with ID.me.  The most common challenge reported with ID.me was forgetting passwords.
 
@@ -146,7 +146,7 @@ _“…all of our military sites…all of the VA sites should be able to point y
 
 ## **Recommendations**
 
-* For veterans, the more pressing pain point is awareness of discounts .  Consider focusing on a solution that makes discounts easier to find, via a digital tool or website.
+* For veterans, being aware of available discounts is a more pressing pain point than having the tools needed to access them.  Consider focusing on a solution that makes discounts easier to find, via a digital tool or website.
 * Focus on accessibility and how accessible digital cards can drastically improve the lived experiences of blind veterans.  Consider a solution such as a card for a mobile wallet or other solution that lends itself to voice activation.
 
 ## **Tools used for Synthesis**
