@@ -172,5 +172,5 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
 ## Resources
 - [FINAL TECH NOTES_ WORKING DRAFT of PCI Oracle Cerner Integration Pre-Check-In and E-Check-In Workflows v.01_KL (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14054574/FINAL.TECH.NOTES_.WORKING.DRAFT.of.PCI.Oracle.Cerner.Integration.Pre-Check-In.and.E-Check-In.Workflows.v.01_KL.1.pdf)
 - [Check-in OH Userflow Options 01 30 2024 (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/14100500/Check-in.OH.Userflow.Options.01.30.2024.pdf)
-- [Figma file userflow options](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=14%3A6233&mode=design&t=td4i9MjyToz1hiUd-1)
+- [Figma file userflow options](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=353-9808&mode=design&t=euqEfx5rf3eRkbF0-4)
 
