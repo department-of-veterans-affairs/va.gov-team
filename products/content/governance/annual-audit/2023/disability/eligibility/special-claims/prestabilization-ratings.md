@@ -1,4 +1,4 @@
-# https://www.va.gov/disability/eligibility/special-claims/temporary-increase-for-time-in-hospital/
+# https://www.va.gov/disability/eligibility/special-claims/temporary-rating-prestabilization/
 
 ## Content on page
 
