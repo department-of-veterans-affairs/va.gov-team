@@ -7,6 +7,7 @@ ________________________________________________________________________________
 
 ## 2/21/2024 - 3/5/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
+ - **GOAL: Onboard New Team Members**
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support Travel for CERNER Sites**
@@ -43,6 +44,7 @@ ________________________________________________________________________________
 
 ## 2/7/2024 - 2/18/2024  
 #### SPRINT GOALS
+ - **GOAL: Offboard Team Members**
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support Travel for CERNER Sites**
@@ -55,6 +57,9 @@ ________________________________________________________________________________
 - NONE
   
 #### SPRINT TICKETS
+ - **GOAL: Offboard Team Members**
+     - [Offboarding of [Kelly Smith]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74936)
+     - [Offboarding of [Ya-Ching Tsao]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74938)
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
