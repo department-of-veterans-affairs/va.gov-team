@@ -1,10 +1,10 @@
 # VA content migration roadmap
 
-[Purpose of migration](#Purpose-of-migration)
-[Supporting work](#Supporting-work)
-[Criteria for prioritization](#Criteria-for-prioritization)
-[Recently completed migration efforts](#Recently-completed-migration-efforts)
-[Currently in progress migration initiatives](Currently-in-progress-migration-initiatives)
+[Purpose of migration](#Purpose-of-migration) <br>
+[Supporting work](#Supporting-work) <br>
+[Criteria for prioritization](#Criteria-for-prioritization) <br>
+[Recently completed migration efforts](#Recently-completed-migration-efforts) <br>
+[Currently in progress migration initiatives](Currently-in-progress-migration-initiatives) <br>
 [Up next migration efforts](Up-next-migration-efforts)
 
 ## Purpose of migration
@@ -18,7 +18,10 @@ Migrating content to modernized VA environments helps ensure that VA web content
 - Mobile-first design that scales across varying device sizes
 - Deduplication of content
 
-Migration also ensures that VA meets the required actions of the 21st Centure IDEA Act, as noted in this document.
+Migration also ensures that VA meets the required actions of the 21st Centure IDEA Act:
+- Action 2: Identify public-facing websites
+- Action 3: Identify top websites
+- Action 4: Assess common questions and top content for deduplication and SEO
 
 ## Supporting work
 
