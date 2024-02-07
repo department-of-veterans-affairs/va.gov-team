@@ -8,7 +8,7 @@ General info, notes and miscellaneous
 - VFMP: Veteran and Family Member Program
 - VR&E (or Chapter 31): Veteran Readiness and Employment
 
-### Systems
+### Systems/Processes
 - AVA: Ask VA (online service where people can submit questions, concerns, recommendations, and upload documents to VA)
 - CMP: Centralized Mail Portal
   - takes documents and routes them to various VBA (Veterans Benefits Administration) teams for processing
@@ -19,6 +19,7 @@ General info, notes and miscellaneous
   - all CHAMPVA,  VFMP, Spina Bifida, Children of Women Vietnam Veterans claims go here
 - DAPER: Document and process enabled repository (existing system that will be replaced by PEGA)
 - DCDM: Document Control Data Management 
+- EEV: eligibility, enrollment, verification
 - PEGA: new document repository and management system that will replace DAPER
   - integration needs to be built still 
 - VBMS: Veteran Benefit Management system
