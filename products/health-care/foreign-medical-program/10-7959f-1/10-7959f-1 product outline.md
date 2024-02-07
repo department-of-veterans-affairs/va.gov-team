@@ -9,7 +9,7 @@ Under the [IDEA Act](https://digital.gov/resources/delivering-digital-first-publ
 ## Problem Statement
 Veterans who are living or traveling outside the U.S. with a service connected disability are only able to apply for health care benefits by filling out the paper form and sending it through mail or fax. 
 
-How might we improve the experience of Veterans living overseas who are applying for VA health care services? 
+How might we improve the experience of Veterans living or traveling overseas who are applying for VA health care services? 
  
 ## Desired User Outcomes
 
