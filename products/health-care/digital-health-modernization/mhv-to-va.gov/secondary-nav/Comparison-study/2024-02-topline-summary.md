@@ -7,8 +7,6 @@ Florence McCafferty, Sara Sterkenburg, Jonathan Nelson: VA.gov Cartography team
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md)
 
-___
-
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
 **The goal of this document is:**
@@ -26,36 +24,39 @@ Note: We will gather numbers for appropriate findings during final synthesis
 1. Participants’ ability to navigate easily and quickly to the four main tools of the health portal - Medications, Appointments, Secure Messaging, and Medical Records - was significantly improved when they were not required to open a dropdown to navigation on mobile devices. 
 <br />
 
-2. Most participants (on mobile) found the persistent navigation/icon design (Protype B) easier to navigate within the health portal compared to the collapsible menu (Prototye A). 
-Participants noticed and utilized the persistent navigation/icon design to navigate the health portal. 
-Participants struggled, for a variety of reasons, with the collapsed navigation (Prototyoe A). 
-Some participants did not seem to notice the menu 
-Some participants did not come back to the menu after engaging with it 
-A couple of the participants stated that persistent navigation/icon design (design B) was “much improved” and “significantly easier.” 
+2. Most participants (on mobile) found the persistent navigation/icon design (Prototype B) easier to navigate within the health portal compared to the collapsible menu (Prototype A). 
+   - Participants noticed and utilized the persistent navigation/icon design to navigate the health portal. 
+   - Participants struggled, for a variety of reasons, with the collapsed navigation (Prototype A). 
+     - Some participants did not seem to notice the menu 
+     - Some participants did not come back to the menu after engaging with it 
+   - A couple of the participants stated that persistent navigation/icon design (Prototype B) was “much improved” and “significantly easier.” 
 <br />
 
-3. The majority of participants did not differentiate between desktop designs. However, further analysis is needed to evaluate the effectiveness of using  “Home” (design A) rather than  “My HealtheVet” (design B) as a means of returning to the My HealtheVet landing page. 
+3. The majority of participants did not differentiate between desktop designs. However, further analysis is needed to evaluate the effectiveness of using  “Home” (Prototype A) rather than  “My HealtheVet” (Prototype B) as a means of returning to the My HealtheVet landing page. 
+<br />
 
+4. Most participants did not recognize the "My HealtheVet" link text as clickable in Prototype B on both mobile and desktop designs which hindered their discovery and exploration of the landing page.
+   - Some participants found alternative routes to the MyHealtheVet landing page (e.g. breadcrumbs). 
+<br />
 
-4. ### Most participants did not recognize the "My HealtheVet" link text as clickable in design B on both mobile and desktop designs which hindered their discovery and exploration of the landing page.
-Some participants found alternative routes to the MyHealtheVet landing page (e.g. breadcrumbs). 
+5. Some participants utilized the breadcrumb with “Back” text on tool landing pages as a strategy to navigate to the My HealtheVet home landing page. 
+   - Most of these participants were able to complete the tasks.
+   - This does not seem to affect their ability to succeed in tasks negatively. 
+<br />
 
-5. ### Some participants utilized the breadcrumb with “Back” text on tool landing pages as a strategy to navigate to the My HealtheVet home landing page. 
-Most of these participants were able to complete the tasks.
-This does not seem to affect their ability to succeed in tasks negatively. 
+6. Participants did not seem to notice or be impacted by the use of abbreviations on mobile with the persistent navigation/icon design (Prototype B). 
+   - Participants quickly engaged with abbreviated labels with little hesitation. 
+   - When asked about the meaning of each icon, all participants correctly identified the tool names and accurately anticipated the types of information associated with each icon. 
+   - One participant who utilized assistive technology heard “apps” when reading “appts” but was still able to complete appropriate tasks.  
+<br />
 
-6. ### Participants did not seem to notice or be impacted by the use of abbreviations on mobile with the persistent navigation/icon design (design B). 
-Participants quickly engaged with abbreviated labels with little hesitation. 
-When asked about the meaning of each icon, all participants correctly identified the tool names and accurately anticipated the types of information associated with each icon. 
-One participant who utilized assistive technology heard “apps” when reading “appts” but was still able to complete appropriate tasks.  
+**Research Question 2**
 
-Research Question 2
-
-7. ### The navigation bar (on mobile and desktop) contributed to a strong "sense of place” for most participants. 
-Most participants were aware they were within a health portal.
-Few participants navigated to the global header as their first instinct to complete tasks with either prototype. 
-Participants did not clearly distinguish between My HealtheVet and VA.gov 
-When participants did veer to other navigation options (e.g., main VA.gov menu) they were mostly isolated to mobile sessions (design A) 
+7. The navigation bar (on mobile and desktop) contributed to a strong "sense of place” for most participants. 
+   - Most participants were aware they were within a health portal.
+   - Few participants navigated to the global header as their first instinct to complete tasks with either prototype. 
+   - Participants did not clearly distinguish between My HealtheVet and VA.gov 
+   - When participants did veer to other navigation options (e.g., main VA.gov menu) they were mostly isolated to mobile sessions (design A) 
 
 Research Question 3
 
