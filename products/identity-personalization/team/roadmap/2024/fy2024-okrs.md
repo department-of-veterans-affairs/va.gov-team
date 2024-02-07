@@ -18,7 +18,7 @@ This objective has four KRs:
 
 While we will likely keep an eye on all of these throughout the year, the second KR – **Number of transactions processed using our products have increased by 25%** – is where I think our work will have the biggest impact.
 
-[For reference, here is the full list of Charles’ OKRs]().
+[For reference, here is the full list of Charles’ OKRs](#addendum-charles-octo-okrs).
 
 ## Auth experience OKRs
 
