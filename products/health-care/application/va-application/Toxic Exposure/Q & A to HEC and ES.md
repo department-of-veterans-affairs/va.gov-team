@@ -26,6 +26,8 @@
           - PENDING
 - [x] 7. Same question, but for those with 10-40% - should they answer the exposure questions or will that not impact their enrollment prioritization?
      - Answered in Question 4
+     
+- [ ] 8. If a Veteran has not filed a disability claim (Form 526), and HEC cannot verify Toxic Exposure, how will HEC staff work through verification process?
 
 **Jessie 1/18/24** - Believe that VHA will be getting access to ILER, to help with research (This is not confirmed)
 **Tacarra 1/18/24** - Can view VBA adjudications, but not aware of any VBA/VHA system integrations
