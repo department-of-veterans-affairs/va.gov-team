@@ -21,6 +21,7 @@ sequenceDiagram
     participant l as LoROTA
     participant web as vets-website
     participant api as vets-api
+    participant btsss as BTSSS
     participant vn as VA Notify
         vet->>+ve: sends check-in text<br /> (how this is initiated is TBD)
         ve->>+ce: fetch appointments 
@@ -36,15 +37,20 @@ sequenceDiagram
         api->>+l: POST /token
         l--)-api: valid session
         api--)web: return 'read.full'
-        web->>+api: Fetch data
-        api--)-web: return payload of data and appointments
-        web->>+vet: present Travel questions to veterain
+        web->>+api: GET patient data
+        api->>+api: caches appointment identifiers by uuid
+        api--)-web: return appointments payload
+        web->>+vet: present Travel questions to veteran
         deactivate web
         vet->>web: answers travel questions
-        web->>+api: POST travel claim
-        api->>l: fetch idipi and appointment date
-        l->>api: return idipi and appoinmtment date
-        api->>vn: Send travel claim
-        api--)-web: success (request sent)
+        web->>+api: POST travel claim with appointment date
+        api->>+api:  Reads IDIPI from cache
+        api->>+btsss: POST token
+        btsss--)-api: returns token
+        api->>+btsss: POST submitclaim
+        btsss--)-api: returns claims status
+        api->>+vn: Send SMS to veteran on travel claim status
+        vn--)-vet: Notifies travel claim status
+        api--)-web: 202 (claim submitted)
         vn->>vet: Success/fail of travel claim submission
 ```
