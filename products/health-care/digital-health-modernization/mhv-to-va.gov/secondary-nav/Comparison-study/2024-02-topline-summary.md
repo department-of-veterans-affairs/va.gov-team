@@ -1,5 +1,5 @@
 # MHV on VA.gov secondary navigation comparison research - Topline Summary
-2/5/2024
+February 7, 2024
 
 Florence McCafferty, Sara Sterkenburg, Jonathan Nelson: VA.gov Cartography team
 
@@ -7,8 +7,7 @@ Florence McCafferty, Sara Sterkenburg, Jonathan Nelson: VA.gov Cartography team
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md)
 
-
-
+___
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
@@ -18,23 +17,24 @@ This topline summary is a high level, top of mind summary of trends found in the
  - To gain insight from team/stakeholders/designers and determine specific directions to pursue as we analyze the data
  - To jump start synthesis by quickly organizing high level themes 
 
-Initial Findings
-
 Note: We will gather numbers for appropriate findings during final synthesis
 
-Research Question 1 
+## Initial Findings
 
-1. ### Participants’ ability to navigate easily and quickly to the four main tools of the health portal - Medications, Appointments, Secure Messaging, and Medical Records - was significantly improved when they were not required to open a dropdown to navigation on mobile devices. 
+**Research question 1**
 
+1. Participants’ ability to navigate easily and quickly to the four main tools of the health portal - Medications, Appointments, Secure Messaging, and Medical Records - was significantly improved when they were not required to open a dropdown to navigation on mobile devices. 
+<br />
 
-2. ### Most participants (on mobile) found the persistent navigation/icon design (design B) easier to navigate within the health portal compared to the collapsible menu (design A). 
+2. Most participants (on mobile) found the persistent navigation/icon design (Protype B) easier to navigate within the health portal compared to the collapsible menu (Prototye A). 
 Participants noticed and utilized the persistent navigation/icon design to navigate the health portal. 
-Participants struggled, for a variety of reasons, with the collapsed navigation (design A). 
+Participants struggled, for a variety of reasons, with the collapsed navigation (Prototyoe A). 
 Some participants did not seem to notice the menu 
 Some participants did not come back to the menu after engaging with it 
 A couple of the participants stated that persistent navigation/icon design (design B) was “much improved” and “significantly easier.” 
+<br />
 
-3. ### The majority of participants did not differentiate between desktop designs. However, further analysis is needed to evaluate the effectiveness of using  “Home” (design A) rather than  “My HealtheVet” (design B) as a means of returning to the My HealtheVet landing page. 
+3. The majority of participants did not differentiate between desktop designs. However, further analysis is needed to evaluate the effectiveness of using  “Home” (design A) rather than  “My HealtheVet” (design B) as a means of returning to the My HealtheVet landing page. 
 
 
 4. ### Most participants did not recognize the "My HealtheVet" link text as clickable in design B on both mobile and desktop designs which hindered their discovery and exploration of the landing page.
