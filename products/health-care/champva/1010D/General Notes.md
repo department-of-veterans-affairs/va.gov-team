@@ -26,4 +26,4 @@ General info, notes and miscellaneous
 - VES: Veterans enrollment system
   - new enrollment system that won't be ready until sometime in 2025
 - VISTA/VIS: Veterans Health Information Systems and Technology Architecture (VISTA)
-  - instance of CP&E (where elgibility info is stored)
+  - instance of CP&E (where eligibility info is stored)
