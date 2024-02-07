@@ -40,11 +40,11 @@ The research applies at any stage from Starting Up through Aging, since it inves
   - 8 evaluated the **mobile view of the header**
 ## Findings
 1. 8 of 12 participants struggled to find the authenticated menu. ([Link](#8-of-12-participants-struggled-to-find-the-authenticated-menu))
-2. 3 of 8 participants on mobile devices expected their name, and access to their profile, in the right corner of the header. ([Link](#3-of-8-participants-on-mobile-devices-expected-their-name-and-access-to-their-profile-in-the-right-corner-of-the-header))
+2. 3 of 8 participants on mobile devices expected their name, and access to their profile, in the right corner of the header. ([Link](#3-of-8-participants-on-mobile-devices-expected-to-find-their-name-and-access-to-their-profile-in-the-right-corner-of-the-header))
 3. The authenticated menu label button was unclear to some participants. ([Link](#the-authenticated-menu-label-button-was-unclear-to-some-participants))
 4. 2 screenreader users missed the navigation entirely. ([Link](#2-screenreader-users-missed-the-navigation-entirely))
-5. Most participants did not expect to find disability rating in their authenticated menu. ([Link](#most-participants-did-not-expect-to-find-disability-rating-in-their-authenticated-menu))
-6. 4 participants thought the label “Letters” was ambiguous. ([Link](#some-participants-thought-the-label-letters-was-ambiguous))
+5. Most participants did not expect to find disability rating in their authenticated menu, but they weren't bothered by it being there. ([Link](#most-participants-did-not-expect-to-find-disability-rating-in-their-authenticated-menu-but-they-werent-bothered-by-it-being-there))
+6. 4 participants thought the label “Letters” was ambiguous. ([Link](#4-participants-thought-the-label-letters-was-ambiguous))
 7. There's a lack of understanding about My VA, but people find it valuable once they understand what it is. ([Link](#theres-a-lack-of-understanding-about-my-va-but-people-find-it-valuable-once-they-understand-what-it-is))
 8. Participants were drawn to the footer, sometimes before the main navigation. ([Link](#participants-were-drawn-to-the-footer-sometimes-before-the-main-navigation))
 ## Findings Details
