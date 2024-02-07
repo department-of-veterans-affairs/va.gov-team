@@ -2,13 +2,18 @@
 
 ## Content on page
 
-- [X] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [X] Header levels are hierarchical
-- [X] The page has no broken links
-- [X] The content is free of ability-focused language (view, walk, see, hear)
-- [X] Relevant terms from page are in content brief
-- [X] Any relevant backlog work is noted
-- [X] "Who's covered?" section is removed (if applicable)
+### OCTO checks, edits, tasks
+- [ ] The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.).
+- [ ] Assess the content in the blue box. (Keep eligibility info in blue box. Move non-eligiblity info out of box.)
+- [ ] Relevant terms from page are in content brief.
+- [ ] Any relevant backlog work is noted in a ticket.
+
+### Copy editor checks, edits, tasks
+- [ ] Header levels are hierarchical 
+- [ ] The page has no broken links
+- [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
+- [ ] The content is free of ability-focused language (view, walk, see, hear)
+- [ ] Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
 - Before edits: 10.4
