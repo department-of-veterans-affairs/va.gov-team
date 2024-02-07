@@ -71,7 +71,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Digital signature with date stamp accepted by FMP team
   - PDF output of completed form with required meta data and unique identifier
   - Integration with PEGA for forms and documents
-  - Authenticated experience [*need to determine recommendation on level*]
+  - Authenticated experience
   - End to end testing with PEGA
 - **Out of scope**:
   - Integration with VES (this will need to be addressed in the future)
