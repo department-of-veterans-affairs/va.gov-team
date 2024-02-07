@@ -132,5 +132,6 @@ Past issue tickets have captured problems with the secondary navigation design. 
 * Button lacks context to communicate that it will open a menu: [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698)
 
 ## <a name="next"></a>What's next?<br>
-Related to this documentation effort, is a [competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uf94a77a19aaf687331c09367) on secondary navigation patterns on the larger web. Results of that analysis will inform low-fidelity design explorations for an improved secondary navigation solution. 
+* Related to this documentation effort, is a [competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uf94a77a19aaf687331c09367) on secondary navigation patterns on the larger web. Results of that analysis will inform low-fidelity design explorations for an improved secondary navigation solution. 
+* Will also conduct a first round of research that leverages the benefit hub template for the health portal and tests that with Veterans. [Readout here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research/Research-readout.md)
 
