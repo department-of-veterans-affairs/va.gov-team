@@ -126,7 +126,7 @@ Example of Email notification:
 - Edit the ticket and put an updated status on the bug
 
 ## Step 3: Slack Communication for Release 
- - No later than the Friday prior to the Release date, go to DVSA va-mobile-app Channel.
+ - Ideally day the release email comes out but no oo later than the Friday prior to the Release date, go to DVSA va-mobile-app Channel.
    
     <img width="159" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/e21a0b8a-825a-472e-a57e-8d8a57d051f4">
 
@@ -145,14 +145,19 @@ Example of Email notification:
 
    Sign Off Timing (copy paste them from the ticket)
      - QA Due XXX
-     - Product Due XXX
+     - Product PM Due XXX
      - VA Due XXX
 
    Contacts:
       QA - @TomGammons (or the Release Test Lead)
-      Engineering -  @Jon Bindbeutel (FE Lead) - can you confirm all applicable tickets are tagged with release.
+      Engineering -  @Jon Bindbeutel @Tim Wright
+      Product @Alyna @Kelly Lein @Stacy Blackwood @Ameet Sarkar
+      OCTO POs - @Rachelhan @rtwell
 
-     <img width="410" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/03eb8d21-5ed6-4eb8-86bb-088825c4516e">
+   @Jon Bindbeutel please confirm all tickets merged to develop are accounted for 
+
+<img width="275" alt="slack message for 2 21 release " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/e1ff2179-0919-4865-8c8e-9d3d193de2d1">
+
 
 ## Step 4: Get Ad Hoc Sign Offs - QA and Product 
 - QA should be performing their testing on these tickets
@@ -162,10 +167,13 @@ Example of Email notification:
 - Once QA is approved, Release PM will need to sign off
     - Verify all the release ticket information is completed and fill out (checkboxes, What’s New copy, Whats New images, etc)
     - See if there any concerns or risk that need to be addressed 
-- Once PM is approved then click that check box on the ticket 
+- Once PM is approved then click that check box on the ticket
+- Check in with Binny on his step 
 
 ## Step 5:  Request VA PO approval in Slack
-- Verify the ticket is fully updated before reaching out to POs 
+- Verify the ticket is fully updated before reaching out to POs
+- Ensure all tickets in the release are closed by now - can see this on the Release Report
+- Ensure Binny has signed off on all 
 - This must be done on the day of their due date. They cannot sign off  early due to system automation issues 
 - In the Release Thread in DVSA va-mobile-app channel post something like
    Hello @ VA PO , this release is ready for your sign off. If you have any questions please let me know.
