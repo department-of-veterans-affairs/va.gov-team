@@ -7,6 +7,12 @@
      - [Check-In Simple View](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-656d5fd1f385d165c9ce28403df3a8c4?refresh_mode=sliding&from_ts=1703522923071&to_ts=1706114923071&live=true)
      - [Check-In Time Metrics in seconds](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-023e70fff5e0b68e7a22c36867342e09?refresh_mode=sliding&from_ts=1703523118249&to_ts=1706115118249&live=true)
  
+## DOMO
+- [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
+    - Need to filter on these templates
+     ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/9ba56a3d-a978-4f45-a63f-c355aa647556)
+
+
 ## Google Analytics
 
 - Requires Google Analytics account. [Request access to Google Analytics](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/new-users-to-google-analytics#NewUserstoGoogleAnalytics-HowtogetaccesstoGoogleAnalytics). <br/> <br/>
