@@ -29,9 +29,9 @@
      
 - [ ] 8. If a Veteran has not filed a disability claim (Form 526), and HEC cannot verify Toxic Exposure, how will HEC staff work through verification process?
 
-**Jessie 1/18/24** - Believe that VHA will be getting access to ILER, to help with research (This is not confirmed)
-**Tacarra 1/18/24** - Can view VBA adjudications, but not aware of any VBA/VHA system integrations
-**Jessie 1/18/24** - Expect to have the draft verbiage to 10-10 team soon, it will be submitted to OMB at that time as well
+- **Jessie 1/18/24** - Believe that VHA will be getting access to ILER, to help with research (This is not confirmed)
+- **Tacarra 1/18/24** - Can view VBA adjudications, but not aware of any VBA/VHA system integrations
+- **Jessie 1/18/24** - Expect to have the draft verbiage to 10-10 team soon, it will be submitted to OMB at that time as well
 
 ### System behavior
 - [ ] Did we get confirmation that the enrollment system will be set up to receive this info?
