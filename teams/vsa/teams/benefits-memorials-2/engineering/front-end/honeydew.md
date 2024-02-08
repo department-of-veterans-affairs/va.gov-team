@@ -9,4 +9,6 @@ Let's make a list of pages/components/functionality that could use some extra lo
 - [ ] Employment history - veteran and spouse currently have separate components, but we can likely combine
 
 ## CDP Changes
-- [ ] styling updates - there's some room for improvement where we can likely just combine the three scss files in the CDP so it's easier to find. 
+- [ ] styling updates - there's some room for improvement where we can likely just combine the three scss files in the CDP so it's easier to find.
+- [ ] combine components being used across both `debt-letters` and `medical-copays` sections
+- [ ] remove old standalone [debt-letters](https://github.com/department-of-veterans-affairs/vets-website/tree/8ec34b0c1f9a27ba8287765c85155e2df97957ae/src/applications/debt-letters) and [medical-copays](https://github.com/department-of-veterans-affairs/vets-website/tree/29ea9e844d860040f77c26485053095e028e265f/src/applications/medical-copays)
