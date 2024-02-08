@@ -4,8 +4,11 @@ Apple will inform us when ther are issues with the delivery of our app. Though t
 
 ## High Level Steps: 
 1.) Create ticket like [7948](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7948#issuecomment-1934808097)
+
 2.) Post about it in va-mobile-app-qa and / or va-mobile-fe-engineering 
+
 3.) Applicable Team to prioritize and work it 
+
 4.) Depending on the notificaiton may be other follow-up actions needed 
 
 ## SDK Version Issue 
