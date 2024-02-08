@@ -16,6 +16,7 @@ This document describes the internal processes the OCTO-Identity team will follo
   - [Adding a new client configuration](#adding-a-new-client-configuration)
   - [Updating an existing client configuration](#updating-an-existing-client-configuration)
   - [Removing a client configuration](#removing-a-client-configuration)
+- [Service account configurations](#service-account-configurations)
  
 ## Teams
 
@@ -279,3 +280,9 @@ Follow these steps to remove a client configuration:
 * Verify the client configuration was successfully removed by confirming the success message is displayed.
 * Verify the client configuration was successfully removed from SiS by using the Rails console to check that the record has been removed from the SiS database.
 * Inform the requestor the support request has been completed through a threaded Slack response to the original support request.
+
+## Service account configurations
+
+Service Account configurations are used to integrate a service account application with SiS. Service accounts are not managed through Identity Dashboard yet.
+
+For manually managing service account configurations via Rails console directly in SiS, refer to the documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/configuration/service_account.md).
