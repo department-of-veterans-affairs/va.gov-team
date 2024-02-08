@@ -18,20 +18,25 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 
 ## Preliminary Findings
 ### Usability Successes
-1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems fine to not have that on the page. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to identify this as pertaining to the VA.
-1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, and the others were each challenged by 1 or 2 tasks. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participants who had difficulty finding the Auth menu).
+1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems fine to not have that on the page. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA.
+1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, while others were challenged by a few of them. Tasks that were most difficult were FOIA (for participants not looking in the federal footer area), and changing address (for participants who had trouble finding the Auth menu).
 1.  
 
 
 
-### Authentication task
+### Authentication issues
 1. After signing in using the prototype, **TBD of 9 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or their first name (desktop) wasn't enough for everyone to notice.
 1. After signing in, ***TBD of 5 mobile users* had difficulty finding the Auth menu** (under their name in the mobile header menu); the other TBD found it easily.  
 1. After signing in, ***TBD of 5 desktop users* had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name. Interesting that the same number of desktop and mobile users had difficulty.
 1. After signing in and opening the Auth menu, **all participants readily clicked on the Profile menu**. .
 
-### Footer
+### Footer issues
 
+### Header issues
+
+### Accessibility issues to investigate
+
+### Content feedback to consider
 
 ### How recognize as an official government website
 12. Most (TBD of 9) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
@@ -44,7 +49,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
      - "USA" logo in footer (TBD)
      - "Veterans Crisis Line" (TBD)
 
-### USA Logos 
+### Feedback on the USA Logos
 14. **TBD of 10 participants thought the colored USA logo in the header was TBD** with varying degrees of sentiment: 
  
 
