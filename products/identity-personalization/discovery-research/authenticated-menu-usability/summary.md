@@ -1,7 +1,7 @@
 # Findings Summary for Federal Header Authenticated Menu
 February 7, 2024
 
-Liz Lantz, Authenicated Experience
+Liz Lantz, Authenticated Experience
 
 ## Background
 VA.gov is piloting a new design for a standard header later this year, which includes a significant change to the placement of the authenticated menu on mobile: instead of the authenticated menu labeled with the user's name appearing in the upper-right corner of the screen, **it will now be nested under a general “Menu” button which reveals the complete site navigation**. 
