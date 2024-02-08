@@ -126,7 +126,7 @@ So, despite many Veterans choosing to sign in, they don't have all the informati
 
 ### Finding 3: As Veterans get further into the form, they become more unsure about what progress they've made and what to expect next.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Progress bars`, `DSC: Ask users for names`, `DSC: Ask users for addresses`, `DSC: Ask users for phone numbers`, `DSC: Ask users for email address`, `DSC: Ask users for contact preferences`
+_Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Progress bars`, `DSC: Ask users for names`, `DSC: Ask users for addresses`, `DSC: Ask users for phone numbers`, `DSC: Ask users for email address`, `DSC: Ask users for contact preferences`_
 
 When the progress bar doesn't update, Veterans find it frustrating and unhelpful.
 
@@ -148,7 +148,7 @@ Veterans suggested consolidating related questions, particularly about their per
 
 ### Finding 4: Most Veterans considered what their benefits cover in order to answer, 'What's your question about?' – which is unrelated.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Ask users for relationship to Veteran`
+_Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Ask users for relationship to Veteran`_
 
 The distinction between choosing 'my own VA benefits,' 'someone else's VA benefits,' or a 'general question' is unclear.
 
@@ -168,7 +168,7 @@ In contrast, answering whether you are the Veteran or a family member was consis
 
 ### Finding 5: Veterans refer to their health facility by the location, like "Atlanta VA", rather than the full name, "Joseph Maxwell Cleland Atlanta VAMC".
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`
+_Labels: `AUD: Veterans`, `PRDT: AVA`_
 
 Veterans often identify their health facilities by location rather than the actual name, like "Atlanta VA." 
 
@@ -190,7 +190,7 @@ Also, early on in the experience, many Veterans expected to give information abo
 
 ### Finding 6: Most Veterans understand the purpose of reviewing their information before they submit a question, and can find the specific 'Edit' button they need.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Buttons`
+_Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Buttons`_
 
 On the review page, most Veterans  focus on reviewing their personal information. People are unlikely to change their category and topic at this point.
 
@@ -212,7 +212,7 @@ And a few Veterans initially thought the review page was going to ask more quest
 
 ### Finding 7: Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`, `PRDT: Secure-messaging`, `MHV: Secure Messaging`, `SFTW: Chatbot`
+_Labels: `AUD: Veterans`, `PRDT: AVA`, `PRDT: Secure-messaging`, `MHV: Secure Messaging`, `SFTW: Chatbot`_
 
 Veterans that use My HealtheVet Secure Messaging expect Ask VA to work similarly.
 
