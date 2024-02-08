@@ -76,7 +76,7 @@ We tested the following steps:
 4. [Most Veterans considered what their benefits cover in order to answer, 'What's your question about?' – which is unrelated.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-4-most-veterans-considered-what-their-benefits-cover-in-order-to-answer-whats-your-question-about-which-is-unrelated)
 5. [Veterans refer to their health facility by the location, like "Atlanta VA", rather than the full name, "Joseph Maxwell Cleland Atlanta VAMC".](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-5-veterans-refer-to-their-health-facility-by-the-location-like-atlanta-va-rather-than-the-full-name-joseph-maxwell-cleland-atlanta-vamc)
 6. [Most Veterans understand the purpose of reviewing their information before they submit a question, and can find the specific 'Edit' button they need.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-6-most-veterans-understand-the-purpose-of-reviewing-their-information-before-they-submit-a-question-and-can-find-the-specific-edit-button-they-need)
-7. Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service.
+7. [Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-7-veterans-who-are-familiar-with-other-va-services-expect-ask-va-to-work-similarly--and-it-may-be-unclear-when-to-use-ask-va-or-another-service)
 
 ## Details of findings 
 
@@ -210,7 +210,7 @@ And a few Veterans initially thought the review page was going to ask more quest
 
 > "I already answered all of this [...] [The military] ask you repeatedly, the same questions over and over again." P8
 
-### Finding 7: Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service
+### Finding 7: Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`, `PRDT: Secure-messaging`, `MHV: Secure Messaging`, `SFTW: Chatbot`_
 
