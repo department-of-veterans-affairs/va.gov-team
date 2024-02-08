@@ -257,11 +257,9 @@ We are in the process of writing future research recommendations.
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md)
-
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
-
-[Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Transcripts)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
+- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Transcripts)
 
 ## Tools used for synthesis
 
@@ -271,12 +269,12 @@ We are in the process of writing future research recommendations.
 
 ## Pages and applications used
 
-- [Mobile prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=458-26839&t=9OMFZtUo0fWacEp5-1&scaling=min-zoom&page-id=458%3A26803&starting-point-node-id=458%3A26839&mode=design)
-- [Desktop prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=458%3A37863&type=design&node-id=458-37864&viewport=74%2C584%2C0.48&t=uyRpLCeij3dT4AAD-1&scaling=min-zoom&starting-point-node-id=458%3A37864&mode=design)
+- [Figma: Mobile prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=458-26839&t=9OMFZtUo0fWacEp5-1&scaling=min-zoom&page-id=458%3A26803&starting-point-node-id=458%3A26839&mode=design)
+- [Figma: Desktop prototype](https://www.figma.com/proto/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?page-id=458%3A37863&type=design&node-id=458-37864&viewport=74%2C584%2C0.48&t=uyRpLCeij3dT4AAD-1&scaling=min-zoom&starting-point-node-id=458%3A37864&mode=design)
 
 ## Secondary research
 
-Any other research we've conducted can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research).
+All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research).
 
 ## Who we talked to 
 
