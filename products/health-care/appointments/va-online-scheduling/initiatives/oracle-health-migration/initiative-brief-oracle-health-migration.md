@@ -2,33 +2,33 @@
 
 ## Overview
 
-When a VA site is moving from Vista to Oracle Health system, the Applications tool on VA.gov will need to be modified during this transition time. Sites that are moving over to Cerner will need time to clean up their Vista scheduling tool. 
+When a VA site is moving from Vista to Oracle Health system, the Applications tool on VA.gov will need to be modified during this transition. Sites that are moving over to Cerner will need time to clean up their Vista scheduling tool before migrating over to Oracle Health. 
 
 ## Outcome Summary 
 
-A user has clear guidance on how they will manage their appointments at the VA site that is moving to  Oracle Health system. 
+A user has clear guidance on how they will manage their appointments at the VA site that is updating their system to Oracle Health. The user should still have a seamless experience on the application and is be able to find the information they need for their appointment. 
 
 **Related/Associated product(s)**
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  -  Most sites use Cerner as their health portal and Veterans who are registered at their site will need to use the portal to manage their health appointments. 
+  -  The VA will undergo a transition of system updates from Vista to Oracle Health. The business owners will need the application to prohibit some features on the application so that the staff at the VA site could do a clean up of the scheduling queue before moving the appointments to Oracle Health. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Cerner is used in certain locations and we will need to make sure the Veterans who are registered at a Cerner site can be re-directed without any issues. 
+  - It is not a problem that is occuring but it's a business change that we need to support. 
 * How does this initiative help further OCTO-DE's mission and goals?
-  - Improve user satisfaction
-  - Meet user expectations of available online transactions
+  - We will satisfy the business need from OCTO-DE. 
 
  <details>
   <summary><b>User Feedback Quotes</b></summary>
+None
 
 </details>
 
 ## Desired Outcomes
-- A user can be directed to Cerner without any issues. 
-
+- A user will still have access to manage their appointments and have clear information on how to schedule/cancel their appointments.
+  
 ## Undesired Outcomes
-- A user cannot be redirected to Cerner from VA.gov 
+- A user cannot have access to their appointments or does not have the information they need to manage it. 
 - 
 ## Key Decisions
 - Enter details
@@ -135,7 +135,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 - Team Name: VA Online Scheduling
 - GitHub Label(s): appointments 
 - Slack channel: #appointments-team
-- Product POCs: Katherine Lawyer 
+- Product POCs: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 
 </details>
  
@@ -152,7 +152,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 
 #### Stakeholders
-Office of Connected Care
+OCTO 
 
 <details>
   
