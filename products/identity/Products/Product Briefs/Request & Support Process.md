@@ -20,7 +20,7 @@ Potential add-ons (but not primary goal)
 Currently, we have no clearcut and a disjointed/one-off process to field requests from other product teams.  In order to triage, manage and fulfill those requests, we need to clearly define a workflow/process in order to be able to track the overall workload created by those requests.
 
 ## Relevant Documents:
-
+[UX Brainstorm & Research](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1706233585959/51586c97a249268a2ff9a709024dcd9df18dc6f8?sender=u8f85d3b7f2143f85bb7a9248)
 ## Potential deliverables:
 - research findings
 
@@ -44,7 +44,7 @@ For this first iteration, the focus will be on:
 
 | User          | Problem       | How does this solution address the problem?  |
 | :------------- |:------------- | :----- |
-| VA Dev Team | I have a problem with authenticating users to my application  | Standardized intake form will allow me to get   |
+| VA Dev Team | I have a problem with authenticating users to my application  | Standardized intake form will allow me to get information on how   |
 
 ## Assumptions:
 * We leverage previous experience supporting other teams to create this process.
