@@ -27,6 +27,20 @@ We believe that the users who complained have been using MHV for a while. Thus t
 
 In the case of an LOA1 credential, the landing page app _doesn't yet know_ whether the user has facility registrations or not. Because the user is LOA1, VAgov is not retrieving their data at all (including facilities). Thus, for an LOA1 user, an intermediate step is required: upgrading their credentials to LOA3 (via identity verification) so that the landing page app can see if they have facility registration or not. In the cases that Veterans complained about, upgrading to LOA3 should give them access to MHV tools.
 
+### Sample Veteran feedback
+
+Some qual feedback told a clear story that implicated new credentials:
+- I Login directly to Myhealthevet and have been using it for years as a Premium account. Your various messages suggest I use "login.gov" to get into Myhealthevet. When I try that and log in I get a message stating I am not qualified to use "Myhealthevet". What gives?
+- I tried to create a login.gov account for future My HealtheVet use on va.gov...got a prompt that I was not enrolled in va health care, I've been enrolled since 2012
+- I set up a username and password to login.gov successfully. Now when I click on the link for MyHealthyvet on Login.gov it tells me I do not have access.  I can login to Myhealthyvet as before with no problem and see my appointments but not through Login.gov
+
+Some qual feedback told only part of the story, but we suspect the experience is the same:
+- I was trying to order CPAP supplies online and I am told though I am a 60% disabled veteran and have an account on this site I don't have authorized access to My Healthvet or access to order my CPAP supplies online. or anything through this website.
+
+There was seemingly related feedback that may point to some other problem with new-account verification itself. We will continue to monitor:
+- your web site won't let me access my healtheVet AFTER I AM VERIFIED BY ID.ME. THE SITE RECOGNIZES MY AUTHENICATION BUT TELLS ME I CAN'T HAVE ACCESS. WHAT A PAIN IN THE ........ FIX THIS PLEASE
+- this site has me verified by Id.me and it won't let me into my HealthVet, again and again and again.... Fix this please!!!!!!!!!!!!!
+
 ## Possible issue for other applications
 
 It is likely that other applications that run checks on a user's personal data will encounter a similar failure when a user logs in using an unverified (LOA1) account.
