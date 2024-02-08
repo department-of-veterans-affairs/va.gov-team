@@ -6,11 +6,18 @@
 
 Cartographers team identified this scenario based on qualitative feedback from Veterans and an analysis of how our existing code reacted to LOA1 accounts.
 
+We suspect that this scneario is happening when Veterans comply with various comms from VA about shifting from MHV credentials to multi-factor authentication methods (ID.me or login.gov).
+
 1. MHV Premium user creates login.gov or ID.me account
 2. Navigates to VA.gov home page and logs in
 3. Misses alert on MyVA to "Verify your identity" [check actual content]
 4. Navigates to MHV on VA.gov
-5. Sees warning that they don't have access to MHV – this is a yellow alert stating that the user doesn't have access to MHV. It displays when a user's data in the redux store doesn't include any facility registrations. 
+5. Sees warning that they don't have access to MHV – this is a yellow alert stating that the user doesn't have access to MHV. It displays when a user's data in the redux store doesn't include any facility registrations.
+
+<details><summary>Screenshot of "no access to MHV" alert</summary>
+<img width="837" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/4054752/c922008c-be92-4972-8a6f-e38f06729963">
+
+</details>
 
 ### Why this is a bad UX that users complained about
 
@@ -37,6 +44,12 @@ There will be many users who arrive on health tools directly, without seeing the
 There may be other applications on VA.gov that are mistaking missing personal data for a lack of qualifying data, thus erroneously denying the user access to an application.
 
 ## Recommendation
+
+For the MHV landing page, we implemented an alert that gives the LOA1 user a path forward to using the health tools.
+
+<details><summary>Screenshot of "Verify your identity" alert</summary>
+<img width="661" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/4054752/bbdee2f3-cf17-4a26-a5c3-33cbe186fcce">
+</details>
 
 Each application will have its own respons to the lack of personal data on the user. But before running checks on that data to decide how to handle the user, the application must first check whether the credentials the user logged in with are sufficient for the data to be present.
 
