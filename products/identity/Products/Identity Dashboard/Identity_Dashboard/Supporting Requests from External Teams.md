@@ -2,7 +2,7 @@
 
 This document describes the internal processes the OCTO-Identity team will follow when fulfilling support requests from external teams for managing teams, users, and client configurations.
 
-## Table of Contents
+## Table of contents
 
 - [Teams](#teams)
   - [Adding a team](#adding-a-team)
