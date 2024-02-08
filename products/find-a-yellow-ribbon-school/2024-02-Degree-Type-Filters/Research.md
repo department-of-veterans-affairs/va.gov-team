@@ -149,7 +149,7 @@ Ideally we would like to get about
 * Diversity across rural and major metropolitan areas
 
 
-#### For Pilot (5 Participants selected from team)
+#### For Pilot (2 Participants selected from team)
 * Group selected by team to test Cardsort
 * [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
 
