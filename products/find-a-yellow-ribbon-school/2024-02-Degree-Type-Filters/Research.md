@@ -1,6 +1,6 @@
 ## **Research Plan for IIR, Yellow Ribbon Search Filters Research: Closed Card Sort**
 
-This work falls in the first phase of a multi-phase Yellow ribbon search enhancement initiative. In this phase we want to understand how Veterans (and others) would expect to see degree types we gather from schools categorized.
+This work falls in the first phase of a multi-phase Yellow ribbon search enhancement initiative. In this phase we want to understand how Veterans (and others) would expect to see degree types we gather from schools categorized and what the names of those categories would be.
 
 
 ### 
@@ -34,7 +34,7 @@ The following are the [2024 OCTO Objectives](https://gcc02.safelinks.protection.
 **Research Goals**
 
 
-Determine how Veterans (and others) would expect “degree type” types to be categorized.
+Determine how Veterans (and others) would expect “degree type” types to be categorized and what the names of those categories would be.
 
 
 #### 
@@ -50,38 +50,38 @@ How do Veterans (and others) expect to see degree types categorized?
 
 
 
-1. Do the data points all map to one of the provided categories?
-2. Would they create a new category to fit some of the data in?
+1. How do Veterans (and others) expect the provided data points to map into categories?
+2. How would Veterans (and others) name the categories to fit the data in?
 
 #### 
 **Hypothesis**
 
-1. Veterans (and others) will be able to categorize the cards presented into the groups provided and will have general agreement.
-2. Veterans will need to create an additional category for some degree types.
+1. Veterans (and others) will have overlap in category types they create.
+2. Veterans (and others) will have overlap in the categorization of the cards into groups that they create.
 
 ### 
 **Methodology**
 
 
-For this study we plan to run a hybrid card sort. \
+For this study we plan to run an open card sort. \
 
 
 Before the card sort we will run a pilot test with members of the IIR team
 
-In a hybrid card sort, participants are asked to sort topics into predefined categories. A hybrid card sort works best when you are working with a predefined set of categories with the option to add another category, and you want to learn how users sort content items into each category. [Usability.gov - Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+In an open card sort, participants are asked to sort topics into categories which they create. A open card sort works best when you want to define a set of categories, and you want to learn how users sort content items into each category. [Usability.gov - Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
 [Card Sorting - Methods 18F](https://methods.18f.gov/validate/card-sorting/)
 
 
 ##### **Method**
 
-Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of 30 current degree types from the schools participating in the Yellow Ribbon benefits. Each participant sorts the content cards into several fixed categories (i.e., Associate’s degree, Bachelor’s degree, etc). They will also be able to add new categories if they feel that a card doesn't fit into the provided categories.
+Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of 28 current degree types from the schools participating in the Yellow Ribbon benefits. Each participant sorts the content cards into categoriesthat the participant defines.
 
 We would like to get complete sorting responses from:
 
 
 
-* A group of 5 participants from our internal team to participate in a pilot test
+* A group of at least 5 participants from our internal team to participate in a pilot test
 * At least 15 Veterans, Veterans spouses, and Veterans dependents in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
 
 #### 
