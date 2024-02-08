@@ -1,4 +1,4 @@
-# Research plan for Ask VA: Submit an inquiry (Round 1)
+# Research findings for Ask VA: Submit an inquiry (Round 1)
 
 Ask VA VA.gov Team
 
