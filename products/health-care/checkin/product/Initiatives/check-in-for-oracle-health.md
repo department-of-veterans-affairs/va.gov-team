@@ -27,17 +27,21 @@ Adding features to the process that do not make it easier for Veterans to access
    
 ## MVP
 ### Included in the MVP
-- Veteran texts "travel" on the day of appointment and receives a link     
+- Veteran texts "travel" on the day of appointment
+- Veteran receive a link back if it is the same day as an appointment (**Q: is VeText going to send CVT appts too?**)
+    - Veteran will receive an error message if either they do not have any appointments for today or we cannot find their phone number is our records
 - Veteran clicks the link from their mobile device
+    - Veteran will receive a "link has expired" message if they click a link after the day of the appointment
 - Veteran verifies their identity
 - Veteran sees information on
     - How to check their eligibility
-    - How to file a travel claim (i.e. continue to file)
-    - How to check the status of their claim
+    - How to file a travel claim (i.e. continue)
+       - If the Veteran has more than 1 appointment at different facilities, the Veteran selects for which appointment to submit a claim
+    - How to file a claim for other expenses    
 - Veteran answers the 3 travel questions
 - Veteran agrees to the terms & submits their claim (or chooses to file later)
-- Veteran sees confirmation that we submitted their claim 
-- Veteran receives an SMS that includes the claim submission status
+- Veteran sees confirmation that we submitted their claim and information for how to check the status of their claim
+- Veteran receives an SMS that includes the claim submission status message returned from BTSSS
 
 ### Not Included in the MVP
 - We are not offering this feature for Veterans with VistA appointments
