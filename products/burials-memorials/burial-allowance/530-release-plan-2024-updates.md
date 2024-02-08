@@ -28,8 +28,8 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
-   - Authenticated Users: Users will complete the version of the form they started.
-   - Unauthenticated Users: If the user maintains a single active session, they will complete the version of the form they started. If they leave a session and start a new one, they will fill out the updated version of the form.
+   - Authenticated Users: Users will complete the old version of the form.
+   - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they will fill out the updated version of the form.
 2. Applications Not Started
    - Authenticated Users: Users will see an info box on the form information page letting them know the form has been updated and contains new fields. They will complete the new version of the form.
    - Unauthenticated Users: Users will see an info box on the form information page letting them know the form has been updated and contains new fields. They will complete the new version of the form.
