@@ -23,8 +23,8 @@ The lack of a viable end-to-end testing environment introduces several risks, no
     - [x] Internal Testing and Review
     - [x] Pre-release Testing
     - [x] Review Cases
-- [ ] Phase II: Staged Rollout
-    - [ ] Canary
+- [x] Phase II: Staged Rollout
+    - [x] Canary
     - [ ] Stage A: 10%
     - [ ] Stage B: 50%
     - [ ] Stage C: Go live!
@@ -57,25 +57,29 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/74216
 - Links to dashboard showing "success criteria" metrics: [Benefits - DBex - EVSS-to-VAProfile: 526ez Contact Info Pre-fill](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg/benefits---dbex---evss-to-vaprofile-526ez-contact-info-pre-fill?refresh_mode=weekly&view=spans&from_ts=1706515200000&to_ts=1706830979116&live=true)
 - [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
-- List identified user emails/Slack handles (below list TBD):
-    - Robin Garrison, @Robin Garrison
+- List identified user emails/Slack handles:
+    - Scott Cutlip @Scott Cutlip - VA
     - Rocio De Santiago @Rocio De Santiago - Coforma
-- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+    - Lee Delarm @Lee Delarm - A6
+- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
-    - If opting for asynchronous time:
-        - [ ] Note individual scheduled dates and times next to each identified user
-        - [ ] Note testing steps
-            - [ ] Make sure your testing steps include recording useful information and when to record them. At a minimum , this is usually:
-                - Their current time, date, and timezone
-                - Whether they have an existing submission, ITF, RDs, etc.
-                - The city your browser is making the request from (useful for helping to identify them in qualitative logs)
-                - An example recording step would be:
-                    10. On the first `/veteran-information` screen, please note the current time and date
-        - [ ] Record testing steps in TestRail
-        - [ ] Share testing steps with each user
+          - [ ] Scott Cutlip: 2/8/24 11:30am-11:45 PST
+          - [ ] Lee Delarm: 2/8/24 12:30pm-12:45 PST
+          - [ ] Rocio De Santiago: 2/8/24 1:00pm-1:15 PST
+    - ~~If opting for asynchronous time:~~
+        - [ ] ~~Note individual scheduled dates and times next to each identified user~~
+        - [ ] ~~Note testing steps~~
+            - [ ] ~~Make sure your testing steps include recording useful information and when to record them. At a minimum , this is usually:~~
+                - ~~Their current time, date, and timezone~~
+                - ~~Whether they have an existing submission, ITF, RDs, etc.~~
+                - ~~The city your browser is making the request from (useful for helping to identify them in qualitative logs)~~
+                - ~~An example recording step would be:~~
+                    ~~10. On the first `/veteran-information` screen, please note the current time and date~~
+        - [ ] ~~Record testing steps in TestRail~~
+        - [ ] ~~Share testing steps with each user~~
 - [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
-- [ ] ?Ensure at least one user covers the "legacy" case (NOTE: Ideally, I want to run them all through the before and after the switch is on. But if asynchronous testing is all I can get, then ON only it is...)
+- [ ] Ensure at least one user covers the "legacy" case (NOTE: Ideally, I want to run them all through the before and after the switch is on. But if asynchronous testing is all I can get, then ON only it is...)
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
 - [ ] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
