@@ -70,7 +70,7 @@ We tested the following steps:
 
 ## Key findings
 
-1. [Veterans past experiences and trust in VA impact how they perceive questions and what information they're comfortable sharing.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-1-veterans-past-experiences-and-trust-in-va-impact-how-they-perceive-questions-and-what-information-theyre-comfortable-sharing)
+1. [Veterans past experiences and trust in VA impacts how they perceive questions and what information they're comfortable sharing.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-1-veterans-past-experiences-and-trust-in-va-impact-how-they-perceive-questions-and-what-information-theyre-comfortable-sharing)
 2. [Many Veterans will choose to sign in so their information is pre-filled, but don't fully understand when sign in is required to use Ask VA.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-2-many-veterans-will-choose-to-sign-in-so-their-information-is-pre-filled-but-dont-fully-understand-when-sign-in-is-required-to-use-ask-va)
 3. [As Veterans get further into the form, they become more unsure about what progress they've made and what to expect next.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-3-as-veterans-get-further-into-the-form-they-become-more-unsure-about-what-progress-theyve-made-and-what-to-expect-next)
 4. [Most Veterans considered what their benefits cover in order to answer, 'What's your question about?' – which is unrelated.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-4-most-veterans-considered-what-their-benefits-cover-in-order-to-answer-whats-your-question-about-which-is-unrelated)
@@ -80,7 +80,7 @@ We tested the following steps:
 
 ## Details of findings 
 
-### Finding 1: Veterans past experiences and trust in VA impact how they perceive questions and what information they're comfortable sharing.
+### Finding 1: Veterans past experiences and trust in VA impacts how they perceive questions and what information they're comfortable sharing.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Ask users for pronouns`, `DSC: Ask users for gender`, `DSC: Ask users for social security number`_
 
