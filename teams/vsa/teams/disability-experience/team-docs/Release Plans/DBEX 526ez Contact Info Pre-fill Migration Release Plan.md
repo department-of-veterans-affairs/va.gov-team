@@ -56,14 +56,14 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/74216
 - Links to dashboard showing "success criteria" metrics: [Benefits - DBex - EVSS-to-VAProfile: 526ez Contact Info Pre-fill](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg/benefits---dbex---evss-to-vaprofile-526ez-contact-info-pre-fill?refresh_mode=weekly&view=spans&from_ts=1706515200000&to_ts=1706830979116&live=true)
-- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
     - Scott Cutlip @Scott Cutlip - VA
     - Rocio De Santiago @Rocio De Santiago - Coforma
     - Lee Delarm @Lee Delarm - A6
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
-        - [ ] Note the date, start, and end time:
+        - [x] Note the date, start, and end time:
           - [ ] Scott Cutlip: 2/8/24 11:30am-11:45 PST
           - [ ] Lee Delarm: 2/8/24 12:30pm-12:45 PST
           - [ ] Rocio De Santiago: 2/8/24 1:00pm-1:15 PST
