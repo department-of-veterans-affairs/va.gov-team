@@ -10,7 +10,7 @@ We want to reduce the amount of time it takes Veterans (and others) to discover 
 
 We want to provide this ability while still keeping the number of “degree types” that Veterans (and others) need to navigate through under 10. For this phase of the initiative we are proposing an iteration on the existing Yellow Ribbon Search tool.
 
-[Link to product brief](https://docs.google.com/document/d/1qzVrA1mj6_gobz1m1-ijDe1n_edwVMMgwEmjlalmhZw/edit)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/2024-02-Degree-Type-Filters/Product%20Brief.md)
 
 [Link to Yellow Ribbon folder on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school)
 
