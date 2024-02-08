@@ -96,12 +96,13 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 
 
 
-* [Link to email with instructions](https://docs.google.com/document/d/11OjsmhIfgFul-bBf9UpsrhRNcQNa3KvWBYALGoS1g8s/edit?usp=sharing)
-* [Pilot test link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
+* [Link to email with instructions in google drive](https://docs.google.com/document/d/11OjsmhIfgFul-bBf9UpsrhRNcQNa3KvWBYALGoS1g8s/edit?usp=sharing)
+* [Link to email with instructions in GitHub]([https://docs.google.com/document/d/11OjsmhIfgFul-bBf9UpsrhRNcQNa3KvWBYALGoS1g8s/edit?usp=sharing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/2024-02-Degree-Type-Filters/mail.md))
+* [Pilot test link](https://dj540s05.optimalworkshop.com/optimalsort/Pilot)
 * [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/A)
 * [Cohort B study link](https://dj540s05.optimalworkshop.com/optimalsort/B)
 * [Cohort C study link](https://dj540s05.optimalworkshop.com/optimalsort/C)
-* [Cohort D study link](https://dj540s05.optimalworkshop.com/optimalsort/d)
+* [Cohort D study link](https://dj540s05.optimalworkshop.com/optimalsort/D)
 
 ### 
 **Recruitment**
