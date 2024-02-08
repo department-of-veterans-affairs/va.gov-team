@@ -8,8 +8,8 @@ Availability Framework (AF) is an available solution for VA Health and Benefits 
 AF changes are made without a release and screen/content changes can be made in ~30 minutes once finalized and approved. 
 
 ### Things to consider: 
-* Only impacts Veterans who are on the mobile version of 2.20 or newer
-      * Veterans on versions prior to 2.20 will not be impacted 
+* Only impacts Veterans who are on the mobile version of 2.19 or newer
+      * Veterans on versions prior to 2.19 will not be impacted 
 * Functionality enables Mobile to make changes directly to production 
 * AF does not have the capability to display based on Veteran variables unless that variable is available to AF to use 
 *  * Incident Commander in the Incident Response Process may use AF as a vaiable solution (hotfix, wait, etc)
