@@ -180,7 +180,7 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
  
 <li> Non-Mobile OCTO POs - POs that are responsible for features in the app (ex RX, Appointments, SM, etc) will coordinate with the VAHB Mobile Team PM on go live requirements and needs. 
 
-<li> Non-Mobile OCTO POs approvals for the release are implied through the Mobile Team's PM's release approval. 
+<li> Non-Mobile OCTO POs approvals for the release are implied through the Mobile Team's PM's release approval. Thus no need for non-Mobile OCTO POs to participate in the Release Process, Steps or Approvals. 
 
 
 </li> 
