@@ -57,21 +57,17 @@ All pages have ratings of 2 or below.
 1. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (36% good out of 276 total responses)
 2. [Privacy and security on VA.gov](www.va.gov/resources/privacy-and-security-on-vagov/) (48% good out of 202 total responses)
 3. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (16% good out of 188 total responses)
-4. [My healthyvet on VA.gov what to know](www.va.gov/resources/my-healthevet-on-vagov-what-to-know/) (49% out of 178 total responses)
+4. [My HealthyVet on VA.gov what to know](www.va.gov/resources/my-healthevet-on-vagov-what-to-know/) (49% out of 178 total responses)
 5. [VA debt management](www.va.gov/resources/va-debt-management/) (43% out of 68 total responses)
    
 ## Analysis
 
 [Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20Support%20ratings%20tracking%20January%202024.xlsx?d=wed95a9aa1b104fa1a4cd11d22afd50f2&csf=1&web=1&e=fIWbmg)
-As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 75% "good" average rating.
-Performance isn't as high when broken down to individual pages:
-24% of pages are scoring at 90% or higher "good"
-45% of pages are meeting our goal of 75% or higher "good," while 49% of pages are scoring 70% or higher
-25% of pages are scoring at less than 50% "good," with 8% scoring at less than 10% "good" (though 9 of those are based on 1-2 total responses)
-2 of the top-scoring pages are related to the PACT Act and presumptive conditions (with the presumptive conditions list page getting a 100% "good" score). PACT-related content continues to perform exceptionally well.
-Health care content is generally among the highest-scoring content in both experience ratings (1-5) and "good"/"bad" ratings, with the exception of travel pay reimbursement.
-Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
-Checking your claim status online
-Travel pay reimbursement
-Sign in and identity (including privacy and security)
-The helpful phone numbers page is one of our lowest-scoring pages by volume of responses. We need to pull Medallia data and review this page to identify any potential content pain points.
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 75% "good" average rating.
+- Performance isn't as high when broken down to individual pages:
+  - 24% of pages are scoring at 90% or higher "good"
+  - 45% of pages are meeting our goal of 75% or higher "good," while 49% of pages are scoring 70% or higher
+  - 25% of pages are scoring at less than 50% "good," with 8% scoring at less than 10% "good" (though 9 of those are based on 1-2 total responses)
+- PACT-related content continues to perform exceptionally well. The PACT Act page was one of the top-scoring pages with the highest volume of total responses. And the presumptive cancers page has an 84% good rating. 
+- Most of the lowest-scoring pages revolve around sign in and identity (including privacy and security), which has known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+- VA debt management has been one of the lowest scoring pages with the highest volume of responses for 2 consecutive months. We should review Medallia survey results to get more information. 
