@@ -90,10 +90,10 @@ We would like to get complete sorting responses from:
 
 * [Link to email with instructions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/2024-02-Degree-Type-Filters/mail.md)
 * [Pilot test link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
-* [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/A)
-* [Cohort B study link](https://dj540s05.optimalworkshop.com/optimalsort/B)
-* [Cohort C study link](https://dj540s05.optimalworkshop.com/optimalsort/C)
-* [Cohort D study link](https://dj540s05.optimalworkshop.com/optimalsort/D)
+* [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/a)
+* [Cohort B study link](https://dj540s05.optimalworkshop.com/optimalsort/b)
+* [Cohort C study link](https://dj540s05.optimalworkshop.com/optimalsort/c)
+* [Cohort D study link](https://dj540s05.optimalworkshop.com/optimalsort/d)
 
 ### 
 **Recruitment**
