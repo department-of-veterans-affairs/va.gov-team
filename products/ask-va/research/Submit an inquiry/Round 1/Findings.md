@@ -71,7 +71,7 @@ We tested the following steps:
 ## Key findings
 
 1. [Veterans past experiences and trust in VA impact how they perceive questions and what information they're comfortable sharing.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-1-veterans-past-experiences-and-trust-in-va-impact-how-they-perceive-questions-and-what-information-theyre-comfortable-sharing)
-2. Many Veterans will choose to sign in so their information is pre-filled, but don't fully understand when sign in is required to use Ask VA.
+2. [Many Veterans will choose to sign in so their information is pre-filled, but don't fully understand when sign in is required to use Ask VA.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-2-many-veterans-will-choose-to-sign-in-so-their-information-is-pre-filled-but-dont-fully-understand-when-sign-in-is-required-to-use-ask-va)
 3. As Veterans get further into the form, they become more unsure about what progress they've made and what to expect next.
 4. Most Veterans considered what their benefits cover in order to answer, 'What's your question about?' – which is unrelated.
 5. Veterans refer to their health facility by the location, like "Atlanta VA", rather than the full name, "Joseph Maxwell Cleland Atlanta VAMC".
@@ -112,7 +112,7 @@ Also, Veterans who are familiar with VA.gov feel that the VA encourages them to 
 
 Some Veterans also assume that they'll only be able to ask general questions – and the VA will ask for less personal information – if they don't sign in.
 
-So, despite many Veterans choosing to sign in, they don't have all the information to help them make informed decisions about why to sign in, and when it's actually required.
+So despite many Veterans choosing to sign in, they don't have all the information to help them make informed decisions about why to sign in, and when it's actually required.
 
 > "The way I was told and taught by VA is that unless you sign into your account, it's just general. And they don't tell you specifically what's your problem. So usually, I want to sign in directly." P10
 
