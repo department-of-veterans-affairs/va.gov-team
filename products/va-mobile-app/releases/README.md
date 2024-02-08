@@ -168,6 +168,27 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 </ul>
    </td>
   </tr>
+  <td>
+    <strong>OCTO POs</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+<ul>
+
+<li> Mobile OCTO POs (Rachel Han, Ryan Thurwell, Chris Johnston) approval required for every release and supersedes any other approvals. 
+ 
+<li> Non-Mobile OCTO POs - POs that are responsible for features in the app (ex RX, Appointments, SM, etc) will coordinate with the VAHB Mobile Team PM on go live requirements and needs. 
+
+<li> Non-Mobile OCTO POs approvals for the release are implied through the Mobile Team's PM's release approval. 
+
+
+</li> 
+</ul>
+</li> 
+</ul>
+   </td>
+  </tr>  
 </table>
 
 
