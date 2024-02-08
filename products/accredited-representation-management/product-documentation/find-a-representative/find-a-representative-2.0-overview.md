@@ -17,7 +17,7 @@ The following overview demonstrates the changes we'll be implementing for versio
             1. Single consolidated field that accepts address 1, city, state, zip code
             2. `Use my location` feature to populate this location field
    3. Optional fields
-      1. Search by representative name
+      1. Name of accredited representative (accepts individual representative first/last names and organization names)
 2. Display search results
    1. List display
       1. Distance in miles
