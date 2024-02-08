@@ -32,6 +32,7 @@ Adding features to the process that do not make it easier for Veterans to access
     - Veteran will receive an error message if either they do not have any appointments for today or we cannot find their phone number is our records
 - Veteran clicks the link from their mobile device
     - Veteran will receive a "link has expired" message if they click a link after the day of the appointment
+    - Veteran sees a "you've already filed a claim" message if they click the link and they have already filed a claim for their appointment today
 - Veteran verifies their identity
 - Veteran sees information on
     - How to check their eligibility
