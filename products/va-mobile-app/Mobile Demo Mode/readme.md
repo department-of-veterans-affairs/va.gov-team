@@ -7,7 +7,9 @@
 
 * Demo mode is set up with a single user that is not tied to any production test account and allow users to access all of the app’s latest offerings. Users can complete actions such as submitting a secure message or a prescription refill to experience the entire user journey without impacting other systems or teams. 
 
-* Demo users should use the latest version of the app in order to experience the latest version of demo mode. Work in progress items that the VA Health and Benefits App Team is working on will not appear in demo mode until it is released into production. 
+* Demo users should use the latest version of the app in order to experience the latest version of demo mode. Work in progress items that the VA Health and Benefits App Team is working on will not appear in demo mode until it is released into production.
+
+* Google Play store uses demo access to perform their testing; if unable to access they will decline the release 
 
 
 **Password:** Zhuzh-it
