@@ -4,7 +4,7 @@ This doc gives an overview of Ask VA’s background, from the Inquiry Routing & 
 ## Timeline (IRIS to present)
 |Date|Description|
 |:---|:---|
-|2001|VA develops a “basic pilot application that was developed as a sidebar to the Veteran-Focused Internet Redesign Project of 2001.” [1]|
+|2001|VA develops a “basic pilot application that was developed as a sidebar to the Veteran-Focused Internet Redesign Project of 2001." This is the beginning of the Inquiry Routing & Information System (IRIS). [1]|
 |November 2002|VA replaces the pilot with a customized commercial product: RightNow Technologies E-Service Center. [1]|
 |2011|Oracle acquires RightNow Technologies, Inc. RightNow Customer Service changes to Oracle Service Cloud. [2]|
 |Oct to Dec 2020|OCTO launches "Resources & Support" section on VA.gov. This replaces knowledge articles previously available on IRIS.[5][6]|
