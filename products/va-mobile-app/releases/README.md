@@ -53,6 +53,8 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
    <td>
 <ul>
 
+<li> Team PM approval assume pre or implied approval from involved non-Mobile POs - no need for non-Mobile OCTO POs to be involved with the Release Process or Steps 
+	
 <li> App Store for Va.gov image and content updates - outside of Release ticket  <a href="https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2555])">App Store Process Doc</a>
   
 <li> App Store (Apple, Android) image updates - outside of Release ticket  <a href="https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2555])">App Store Process Doc</a>
