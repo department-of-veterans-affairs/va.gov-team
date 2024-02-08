@@ -36,7 +36,7 @@ Adding features to the process that do not make it easier for Veterans to access
 - Veteran sees information on
     - How to check their eligibility
     - How to file a travel claim (i.e. continue)
-       - If the Veteran has more than 1 appointment at different facilities, the Veteran selects for which appointment to submit a claim
+       - If the Veteran has more than 1 appointment at different facilities, the Veteran selects for which appointment (or all) they would like to submit a claim
     - How to file a claim for other expenses    
 - Veteran answers the 3 travel questions
 - Veteran agrees to the terms & submits their claim (or chooses to file later)
