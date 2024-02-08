@@ -38,7 +38,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 
 ### Accessibility issues to investigate
 1. p1 (desktop using JAWS) was confused about why the screen reader said "button menu" for her name. This was the button to open the Auth menu. 
-1. p10 (desktop using VoiceOver on an iPad)
+1. p10 (desktop using VoiceOver on an iPad) tried to click on the *Contact Us* column header in the blue footer. They couldn't tell from what the screen reader said that it wasn't interactive.
 1. p11 (desktop with the font enlarged ~150%) said that they would prefer a larger font, which they suggested doing by having less white space on the left and right sides of the content. 
 
 ### Content feedback to consider
