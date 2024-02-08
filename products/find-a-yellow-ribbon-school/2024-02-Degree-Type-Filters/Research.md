@@ -88,14 +88,6 @@ We would like to get complete sorting responses from:
 **Research materials**
 
 
-Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
-
-
-
 * [Link to email with instructions in google drive](https://docs.google.com/document/d/11OjsmhIfgFul-bBf9UpsrhRNcQNa3KvWBYALGoS1g8s/edit?usp=sharing)
 * [Link to email with instructions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/2024-02-Degree-Type-Filters/mail.md)
 * [Pilot test link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
@@ -115,8 +107,6 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 Our intended audience for this research is: 
 
 
-
-* Our pilot team
 * Veterans 
 * Veterans’ spouses seeking educational benefits 
 * Veterans’ dependents seeking educational benefits
@@ -127,7 +117,7 @@ We want this recruitment to be supported by Perigean. \
 
 **Recruitment criteria**
 
-Ask Perigean to recruit **30 participants** to get at least **15 completes**. \
+Ask Perigean to recruit **35 participants** to get at least **28 completes**. \
 Ideally we would like to get about
 
 
@@ -150,10 +140,10 @@ Ideally we would like to get about
 
 
 #### For Pilot (2 Participants selected from team)
-* Group selected by team to test Cardsort
-* [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
+* We will provide pilot participant contact information to parigian in slack channel at research start
+* [Pilot study link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
 
-#### For Cohort A (8 Veterans)
+#### For Cohort A (7 Veterans)
 
 
 
@@ -169,7 +159,7 @@ Ideally we would like to get about
 * [Cohort B study link](https://dj540s05.optimalworkshop.com/optimalsort/B)
 
 
-#### For Cohort C (8 Non-Veterans: 4 spouses, 4 dependants of Veterans)
+#### For Cohort C (7 Non-Veterans: 4 spouses, 4 dependants of Veterans)
 
 
 
