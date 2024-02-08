@@ -63,7 +63,7 @@ How do Veterans (and others) expect to see degree types categorized?
 **Methodology**
 
 
-For this study we plan to run an open card sort. \
+For this study we plan to run an open card sort.
 
 
 Before the card sort we will run a pilot test with members of the IIR team
@@ -81,7 +81,7 @@ We would like to get complete sorting responses from:
 
 
 
-* A group of at least 5 participants from our internal team to participate in a pilot test
+* A pilot test group of 2, we will provide the contact information of these individuals to parigian
 * At least 15 Veterans, Veterans spouses, and Veterans dependents in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
 
 #### 
