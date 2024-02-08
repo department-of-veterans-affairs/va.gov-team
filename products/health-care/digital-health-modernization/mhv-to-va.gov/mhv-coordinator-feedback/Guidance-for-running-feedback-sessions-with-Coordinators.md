@@ -1,4 +1,4 @@
-# Research Strategy: 
+# Research Strategy & Guidance for Running Feedback Sessions with Coordinators: 
 ## Collecting Feedback from MHV Coordinators on Health Applications
 
 ## Goal: 
