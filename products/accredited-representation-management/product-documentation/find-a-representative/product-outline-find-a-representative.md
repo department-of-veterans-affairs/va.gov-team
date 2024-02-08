@@ -44,8 +44,9 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 2. **% of searches, broken out by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
 3. **Top 10 search cities or postal codes** _What areas are users searching in?_
 4. **% of searches by search radius, broken out by radius options** _What search radius selections are users gravitating towards?_
-5. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_ 
-6. **% of searches that do not return results**
+5. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_
+6. **Top 10 specified representative names** _What representatives are in high demand?_
+7. **% of searches that do not return results**
     1. Detail of search parameters that result in no results
 
 **Search Behavior**
