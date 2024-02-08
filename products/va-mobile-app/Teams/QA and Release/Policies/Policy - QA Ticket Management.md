@@ -37,6 +37,7 @@
    - If not able to completed, comment on the ticket with reasoning 
  - **Once you pick it up follow the ticket through till its closed - move statuses timely**
    - If ticket is not going to be closed during the sprint notate it on the ticket and ensure Team PM
+   - Examples of why things may not be closed in 3 days other tickets a higher priority, fire fighting, blockers (test accounts / data prep not ready, ACs not clear), started working but had findings that need fixed and have to retest, etc 
  - **Comments are you best friends on tickets**
    - Use comments to put your updates - will be referenced historically
    - Find a method to monitor comments people sent you
