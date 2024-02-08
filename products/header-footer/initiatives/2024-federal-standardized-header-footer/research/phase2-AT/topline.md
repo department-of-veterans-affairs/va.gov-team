@@ -22,12 +22,10 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems fine to not have that on the page. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA.
 1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, while others were challenged by a few of them. Tasks that were most difficult were FOIA (for participants not looking in the federal footer area), and changing address (for participants who had trouble finding the Auth menu).
 
-
-
 ### Authentication issues
 1. After signing in using the prototype, **one third of the participants (3 of 9, which was 2 on mobile and 1 on desktop) didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
-1. After signing in, ***ALL 3 of the mobile users* had difficulty finding the Auth menu**, which was located under their name in the mobile header menu.  
-1. **RESUME HERE** **After signing in, ***TBD of 5 desktop users* had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name. Interesting that the same number of desktop and mobile users had difficulty.
+1. After signing in, ***ALL 3 of the mobile users* had difficulty finding the Auth menu**, which was located *under their name within the mobile header menu*. They didn't think to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
+1. After signing in, ***2 of 6 desktop users* had difficulty finding the Auth menu** (by clicking on their name), while the other 4 found it easily. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol in the menu bar). The other participant's difficulty was due to confusion about what her screen reader said: "button menu", and she wondered whether it was a button or a menu.
 1. After signing in and opening the Auth menu, **all participants readily clicked on the Profile menu**. .
 
 ### Footer issues
@@ -35,6 +33,8 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 ### Header issues
 
 ### Accessibility issues to investigate
+1. p1 (on desktop using JAWS) was confused about why the screen reader said "button menu" for her name. This was the button to open the Auth menu. 
+1. p11 (on desktop with the font enlarged ~150%) said that they would prefer a larger font, which maybe you could do by having less space on the left and right of the content. 
 
 ### Content feedback to consider
 
