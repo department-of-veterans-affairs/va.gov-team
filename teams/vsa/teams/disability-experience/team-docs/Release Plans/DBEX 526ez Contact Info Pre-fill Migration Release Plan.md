@@ -64,9 +64,18 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 - [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [x] Note the date, start, and end time:
-          - [ ] Scott Cutlip: 2/8/24 11:30am-11:45 PST
-          - [ ] Lee Delarm: 2/8/24 12:30pm-12:45 PST
-          - [ ] Rocio De Santiago: 2/8/24 1:00pm-1:15 PST
+          - [x] Scott Cutlip: 2/8/24 11:30am-11:45 PST
+              - [x] For Flag OFF
+                  - Prefill worked, returned full set of phone, email and mailing address
+                  - [DataDog Log](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg?query=%22disability_compensation_remove_pciu%3Dfalse%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A&event=AgAAAY2KOjyEs8kS_gAAAAAAAAAYAAAAAEFZMktPa0NsQUFCMWFaT0pzYTJrZ2dCegAAACQAAAAAMDE4ZDhhM2MtYjQ3Mi00YTg0LWFmMGItOWQ5MDZjNzFlMzkx&index=%2A&overlay=events&panelFrom=1707421085000&panelTo=1707421090000&panelType=logs&refresh_mode=paused&view=spans&from_ts=1707420884000&to_ts=1707421215780&live=false)
+                  - ITF error occurred (404 in Network tab) [image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/80938071-d6a4-4db4-b91d-e59cea57d9fb)
+              - [x] For Flag ON
+                  - Initial attempt didn't seem to appear in the logs, in spite of logging out, re-logging in. Could be that something was still cached
+                  - Second attempt outside of session worked and logged correctly, returning a full set of phone, email and mailing address info
+                  - [DataDog Log](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg?query=%22disability_compensation_remove_pciu%3Dtrue%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A&event=AgAAAY2KawBxO8zjCwAAAAAAAAAYAAAAAEFZMkthdzhtQUFEZVk0Y0gwZ21Xb2dBeQAAACQAAAAAMDE4ZDhhNzYtNDM5Mi00ZmNjLTg5M2YtYjU0YWViYzEyY2Y2&index=%2A&panelFrom=1707424260000&panelTo=1707424320000&panelType=logs&refresh_mode=sliding&view=spans&from_ts=1707421619724&to_ts=1707425219724&live=true)
+              - [x] PASSED. Data matched and was complete between OFF and ON states
+          - [x] Lee Delarm: 2/8/24 12:30pm-12:45 PST
+          - [x] Rocio De Santiago: 2/8/24 1:00pm-1:15 PST
     - ~~If opting for asynchronous time:~~
         - [ ] ~~Note individual scheduled dates and times next to each identified user~~
         - [ ] ~~Note testing steps~~
