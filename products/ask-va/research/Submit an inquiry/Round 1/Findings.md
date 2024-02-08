@@ -57,7 +57,7 @@ We tested the following steps:
 
 ![Screenshot from Mural showing diagram of test journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Test-journey-Round-1-Jan-2024.png)
 
-## Hypotheses and Conclusions
+## Hypotheses and conclusions
 
 |Hypothesis|Conclusion|Explanation|
 |:--|:--|:--|
@@ -68,7 +68,7 @@ We tested the following steps:
 |Some users will be confused about which information they can edit on the review page and which they cannot.|Likely True|While all users can identify the right 'Edit' button on the review page, some users think they can edit their contact preference, which is not editable.|
 |Most users will expect an estimate of how long it will take to receive a reply.|Definitely True|All users notice the 7 days turnaround time and don't expect a more specific estimate than that.|
 
-## Key Findings
+## Key findings
 
 1. Veterans past experiences and trust in VA impact how they perceive questions and what information they're comfortable sharing.
 2. Many Veterans will choose to sign in so their information is pre-filled, but don't fully understand when sign in is required to use Ask VA.
@@ -78,7 +78,7 @@ We tested the following steps:
 6. Most Veterans understand the purpose of reviewing their information before they submit a question, and can find the specific 'Edit' button they need.
 7. Veterans who are familiar with other VA services expect Ask VA to work similarly – and it may be unclear when to use Ask VA or another service.
 
-## Details of Findings 
+## Details of findings 
 
 ### Finding 1: Veterans past experiences and trust in VA impact how they perceive questions and what information they're comfortable sharing.
 
@@ -232,7 +232,7 @@ And some Veterans suggested concepts that are similar to other VA services, such
 
 > "[It says] sign in or create an account if you have questions about education benefits. Is there going to be a separate window for other benefits?" P5
 
-## Additional Insights
+## Additional insights
 
 - Some people want to choose multiple contact preferences. Some people want text. Other Veterans don't believe the VA will follow it anyways.
 - Most Veterans find entering their mailing address straightforward. For address verification, Veterans usually choose the suggested address.
@@ -247,7 +247,7 @@ And some Veterans suggested concepts that are similar to other VA services, such
 
 We are in the process of writing recommendations.
 
-## Next Steps
+## Next steps
 
 We are in the process of writing next steps.
 
@@ -263,7 +263,7 @@ We are in the process of writing future research recommendations.
 
 [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Transcripts)
 
-## Tools used for Synthesis
+## Tools used for synthesis
 
 - [EnjoyHQ: Analysis](https://app.enjoyhq.com/sh/pj/b515ce06-aecc-4266-a527-7b2166857472)
 - [Mural: Research sessions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696457775760/363d1ebbce7a3898f39aae72793877bfe9beed99)
