@@ -48,6 +48,9 @@ ________________________________________________________________________________
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
      - **Sub Goal: Support Travel for CERNER Sites**
+- **GOAL: Address Usage Issues**
+    - **Sub Goal: Change wording for wait time after checking in**
+    - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
