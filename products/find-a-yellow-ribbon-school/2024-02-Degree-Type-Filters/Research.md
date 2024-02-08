@@ -88,7 +88,6 @@ We would like to get complete sorting responses from:
 **Research materials**
 
 
-* [Link to email with instructions in google drive](https://docs.google.com/document/d/11OjsmhIfgFul-bBf9UpsrhRNcQNa3KvWBYALGoS1g8s/edit?usp=sharing)
 * [Link to email with instructions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/2024-02-Degree-Type-Filters/mail.md)
 * [Pilot test link](https://dj540s05.optimalworkshop.com/optimalsort/pilot)
 * [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/A)
