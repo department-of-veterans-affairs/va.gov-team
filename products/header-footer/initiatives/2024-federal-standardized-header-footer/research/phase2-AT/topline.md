@@ -29,6 +29,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. After opening the Auth menu, **all participants recognized and clicked on *Profile***, which was the correct navigation path. 
 
 ### Footer issues
+1. **4 participants (3 desktop, 1 mobile) misperceived the bottom of the page and didn't see any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them stopped scrolling at the blue VA footer, and 1 stopped at the white USA logo. One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 2 participants from both phases of research.
 1. **3 participants interpreted the footer as only the black federal part**, and then when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
 1. **3 participants looked for *Find a VA Location* in the blue VA  footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. 
 1. **2 participants said that the blue VA part is too large** and has too many links. One person in phase 1 said the same thing, so that's a total of **3 people from both phases of research.**
@@ -37,9 +38,12 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. 
 
 ### Accessibility issues to investigate
-1. p1 (desktop using JAWS) was confused about why the screen reader said "button menu" for her name. This was the button to open the Auth menu. 
-1. p10 (desktop using VoiceOver on an iPad) tried to click on the *Contact Us* column header in the blue footer. They couldn't tell from what the screen reader said that it wasn't interactive.
-1. p11 (desktop with the font enlarged ~150%) said that they would prefer a larger font, which they suggested doing by having less white space on the left and right sides of the content. 
+1. p3 (desktop using MAGic 14 screen reader and magnifier) **didn't notice the 4th column of footer links** with his magnified screen. When we looked at it together later, he said that there's a larger gap after column 3 than there is between the other columns, so he assumed that there was nothing more to the right.
+1. p10 (desktop using VoiceOver on an iPad) was **confused by navigation in the blue footer because he didn't perceive any columns but saw (with limited vision) the screen jump**, which happened every time he moved from the last link in one column to the first link in an adjacent column.
+   > *"I'm down here at the lower part of screen. Now I'm back at the top of the screen, and...I think I did something wrong or something's going funky with the screen" (p10).*
+1. p1 (desktop using JAWS) was confused about why the **screen reader said "button menu" for her name**. This was the button to open the Auth menu. 
+1. p10 (desktop using VoiceOver on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also thought that the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
+1. p11 (desktop with the font enlarged ~150%) said that they would **prefer a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
 
 ### Content feedback to consider
 
