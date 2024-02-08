@@ -2,8 +2,9 @@
 
 This research is on pause while the Facilities team prioritizes another product launch. Some sections have not been updated from the boilerplate content, and others will need to be updated when the project resumes. These are a few key considerations for when work resumes on the guide:
 - Revisit tasks based on prototype. The guide is based on map functionality currently on [Facilities Locator](https://www.va.gov/find-locations/). There are still some unknowns about what the final prototype will look like and how it will function.
-- Revisit set-up prompts and wording of tasks with an eye toward instructive and inclusive language for assistive technology users. Sitewide -- Public Websites will be conducting research with assistive tech users soon (before this project moves forward) and we expect to glean insights for what's possible and optimal for testing a mobile-first product with screen reader users. 
+- Revisit set-up prompts and wording of tasks with an eye toward instructive and inclusive language for assistive technology users. Sitewide
 
+  
 # Conversation Guide 
 
 ## Moderator logistics
