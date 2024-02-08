@@ -75,7 +75,20 @@ The lack of a viable end-to-end testing environment introduces several risks, no
                   - [DataDog Log](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg?query=%22disability_compensation_remove_pciu%3Dtrue%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A&event=AgAAAY2KawBxO8zjCwAAAAAAAAAYAAAAAEFZMkthdzhtQUFEZVk0Y0gwZ21Xb2dBeQAAACQAAAAAMDE4ZDhhNzYtNDM5Mi00ZmNjLTg5M2YtYjU0YWViYzEyY2Y2&index=%2A&panelFrom=1707424260000&panelTo=1707424320000&panelType=logs&refresh_mode=sliding&view=spans&from_ts=1707421619724&to_ts=1707425219724&live=true)
               - [x] PASSED. Data matched and was complete between OFF and ON states
           - [x] Lee Delarm: 2/8/24 12:30pm-12:45 PST
+              - [x] For Flag OFF
+                  - Prefill worked, returned full set of phone, email and mailing address
+                  - ITF error occurred (404 in Network tab) [image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/80938071-d6a4-4db4-b91d-e59cea57d9fb)
+              - [x] For Flag ON
+                  - Initial attempt worked, returned full set of phone, email and mailing address
+                  - [DataDog log](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg?query=%22disability_compensation_remove_pciu%3Dtrue%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A&index=%2A&overlay=events&panelFrom=1707424920000&panelTo=1707424980000&panelType=logs&refresh_mode=sliding&view=spans&from_ts=1707421847104&to_ts=1707425447104&live=true)
+              - [x] PASSED. Data matched and was complete between OFF and ON states
           - [x] Rocio De Santiago: 2/8/24 1:00pm-1:15 PST
+              - [x] For Flag OFF
+                  - Prefill worked, returned full set of phone, email and mailing address
+              - [x] For Flag ON
+                  - Initial attempt worked, returned full set of phone, email and mailing address
+                  - [DataDog log](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg?query=%22disability_compensation_remove_pciu%3Dtrue%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A&event=AgAAAY2KkLShUo5a5wAAAAAAAAAYAAAAAEFZMktrTVVWQUFCcW5zOUNTZkFQandBMgAAACQAAAAAMDE4ZDhhOTEtMmEwZi00MjE0LTg1Y2UtMDg1ZWYzNjEzNDYw&index=%2A&panelFrom=1707426755000&panelTo=1707426760000&panelType=logs&refresh_mode=paused&view=spans&from_ts=1707426627323&to_ts=1707426927323&live=false)
+              - [x] PASSED. Data matched and was complete between OFF and ON states
     - ~~If opting for asynchronous time:~~
         - [ ] ~~Note individual scheduled dates and times next to each identified user~~
         - [ ] ~~Note testing steps~~
@@ -87,15 +100,15 @@ The lack of a viable end-to-end testing environment introduces several risks, no
                     ~~10. On the first `/veteran-information` screen, please note the current time and date~~
         - [ ] ~~Record testing steps in TestRail~~
         - [ ] ~~Share testing steps with each user~~
-- [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
-- [ ] Ensure at least one user covers the "legacy" case (NOTE: Ideally, I want to run them all through the before and after the switch is on. But if asynchronous testing is all I can get, then ON only it is...)
-- [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
-- [ ] Ensure qualitatively that the feature works as intended for users
-- [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [ ] 👉 **If any of the phone, email or mailing address info was present for the OFF case, but missing for the ON case, then STOP. Investigate this before proceeding any further!**
+- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+- [x] Ensure at least one user covers the "legacy" case (all users did)
+- [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
+- [x] Ensure qualitatively that the feature works as intended for users
+- [x] Ensure that the user activity is noticed and captured in the DataDog dashboard
+- [x] 👉 **If any of the phone, email or mailing address info was present for the OFF case, but missing for the ON case, then STOP. Investigate this before proceeding any further!**
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
-
+        see above. 2 users encountered ITF errors on their first pass. This might be a known issue for when users create an ITF for the very first time. First user had issues logging as Flag ON at first, but then was able to later on (log documented above)
 
 <br>
 
