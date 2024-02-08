@@ -14,12 +14,12 @@ The purpose of this research was to get user feedback on **wayfinding using the 
 On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of which were also family members of Veterans. 
 - One third (3 of 9) saw the **mobile** version of the prototype
 - Two thirds (6 of 9) saw the **desktop** version of the prototype 
-- TBD participants had **experience using *VA.gov*** and/or the VA mobile app.   
+
 
 ## Preliminary Findings
 ### Usability Successes
-1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems to be fine to not have that on the page.
-1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. TBD of 9 participants breezed through all the tasks, though others were challenged by some tasks, especially when too focused on only the header and missed links in the footer, or too focused on only the footer and missed links in the header. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participants who had difficulty finding the Auth menu).
+1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems fine to not have that on the page. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to identify this as pertaining to the VA.
+1. **Successful wayfinding to tasks seemed not adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, and the others were each challenged by 1 or 2 tasks. Tasks that were most challenging were FOIA and VA jobs (for participants not looking in the footer), VA location (for participants not looking in the header), and changing address (for participants who had difficulty finding the Auth menu).
 1.  
 
 
