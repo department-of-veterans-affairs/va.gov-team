@@ -12,17 +12,10 @@ Goal: **How might we craft a release plan to test our product "in the wild" at a
 
 ## Release Plan Overview
 
-If no staged rollout:
-| Phase | Duration | Users | Dates |
-|---|---|---|---|
-|Phase 1: Unmoderated production testing |2 days|TBD| TBD|
-|Phase 2: 100% of users |indefinite|100% of users (auth and non-auth)|TBD|
-
-If a staged rollout (may not be possible):
-
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Unmoderated production testing |2 days|TBD| TBD  |
+|Phase 2: Canary production testing |3 hours|10 claims| TBD  |
 |Phase 2A: 25% of users |2 days|25% of users (auth and non-auth)|TBD|
 |Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
 |Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
