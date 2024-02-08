@@ -1,4 +1,4 @@
-## **Research Plan for IIR, Yellow Ribbon Search Filters Research: Closed Card Sort**
+## **Research Plan for IIR, Yellow Ribbon Search Filters Research: Open Card Sort**
 
 This work falls in the first phase of a multi-phase Yellow ribbon search enhancement initiative. In this phase we want to understand how Veterans (and others) would expect to see degree types we gather from schools categorized and what the names of those categories would be.
 
