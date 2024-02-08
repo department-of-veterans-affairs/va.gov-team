@@ -46,10 +46,8 @@ Adding features to the process that do not make it easier for Veterans to access
 
 ### Not Included in the MVP
 - We are not offering this feature for Veterans with VistA appointments
-- Telehealth & phone appointments (i.e. we will NOT return a check-in link for telehealth or telephone appointments) 
-- Pre-Check-in (i.e. Veterans will NOT receive a Pre-Check-in link)
-- Insurance Check (i.e. Veteran will receive a eCheck-in link regardless of whether their insurance needs to be reviewed) 
-- Status update upon starting check-in workflow (i.e. we will not send a status update when the Veteran has started the check-in workflow)
+- We are not offering this feature for Veterans with OH Telehealth & phone appointments 
+- We are not offering eCheck-in or Pre-Check-in for OH appointments
 
 <details>
 <summary>OTHER OPTIONS THAT WE CONSIDERED BUT ARE NOT DOING</summary>
