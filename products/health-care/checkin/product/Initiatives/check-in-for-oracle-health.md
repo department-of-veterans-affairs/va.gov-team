@@ -9,7 +9,7 @@ Veterans who have health appointments at VA facilities that use OH EHR software 
 VA Facilities that use Oracle Health EHR software (instead of VistA) have specific screens that always needed to be completed by an MSA. After discussion with IVC (Jeff Lowe and Robert Tow), there is not significant value for offering e-Checking at Oracle Health sites. The biggest value is the ability for a Veteran to submit a a mileage-only travel reimbursement claim using low-risk authentication. This will be the only focus for MVP. 
 
 ## Desired Outcomes
-Veterans can submit a a mileage-only travel reimbursement claim online at VA facilities that use Oracle Health EHR software.
+Veterans can submit a mileage-only travel reimbursement claim using their mobile device at VA facilities that use OH EHR software.
 
 ## Undesired Outcomes
 Adding features to the process that do not make it easier for Veterans to access health needs. 
