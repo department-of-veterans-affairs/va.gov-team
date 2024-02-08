@@ -197,7 +197,7 @@ This study demonstrated two important things:
 1. The name My VA alone is not enough to clue new users into the personalization features, or distinguish it from the user profile. 
 2. People find My VA valuable once they understand what it is.
 
-We should think about the communication strategy around My VA and whether or not ramping that up aligns with broader Account Experience and OCTO goals. Educating veterans about the functionality of this tool and featuring it more prominently on the site would likely improve a Veteran’s ability to get to their critical tasks, and it could even convince more Veterans to use VA.gov over analog interactions with VA.
+We should think about how we tell Veterans about My VA, including the name of the product, and whether or not changing what we're doing today aligns with broader Account Experience and OCTO goals. Educating veterans about the functionality of this tool and featuring it more prominently on the site would likely improve a Veteran’s ability to get to their critical tasks, and it could even convince more Veterans to use VA.gov over analog interactions with VA.
 
 ### Monitor footer interactions, and consider adding min-height to VA.gov. 
 The issues we saw with people being overly reliant on the footer could have been due to the short page height, which caused people to encounter the footer sooner. Combined with the height of the footer (more than the heading and main content combined), it’s not surprising it drew people’s attention.
