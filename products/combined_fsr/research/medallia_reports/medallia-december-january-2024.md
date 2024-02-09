@@ -36,7 +36,7 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 - Difficulty retrieving debt letters
 
 > I was told I was in debt to the VA but was unable to pull up the debt
-> letter(s). I suspect the reason was my Wife died in October and they
+> letter(s). I suspect the reason was my Wife died in (month) and they
 > overpaid me a couple months. Not a good way to do business.
 > Interesting that the VA is so quick in recovering the few dollars they
 > overpaid me, but they have been [expletive] around with my request to
@@ -49,7 +49,7 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 > 
 > See my debt letters. I have not been able to access these letters, and
 > the VA continues to assert debts, despite already having been paid
-> over $22,144. (December 2023)
+> over $--,---. (December 2023)
 
 -   Difficulty making a payment due to missing information (details of bill or account number findability challenges)
 
@@ -63,7 +63,7 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 
 *Account number retrieval difficulty:*
 
-> I owe $400 to you due to an overpayment. I do not have any problem
+> I owe $---0 to you due to an overpayment. I do not have any problem
 > giving you this money but your payment system is so [expletive]
 > retarted I can not pay it online. I am currently overseas on a
 > deployment and am out during your business hours so I have not been
@@ -72,13 +72,13 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 > I pay someone. But here I need my hard copy bills to give you a
 > [expletive] number that you already have. Problem is, the bills are
 > not available online, so send it to collections and let me get a
-> credit score hit over $400 because the VA website is the worst.
+> credit score hit over $--- because the VA website is the worst.
 > (January 2024)
 
  *  Payment not updated
 
 > I was trying to see if my November payment has reached you yet. My Dec
-> statement still shows owing $29. My bank shows this payment has been
+> statement still shows owing $--. My bank shows this payment has been
 > received my VA. I tried several phone calls and either was
 > disconnected or as in the last case on hold for over 10 minutes.
 > (December 2023)
@@ -94,7 +94,7 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 > of my bill as I need to dispute the charges. I'll just wait for the
 > bill to come in the mail. (December 2023)
 > 
-> There was a CO-PAY listed due for 39.00. It was the same amount as
+> There was a CO-PAY listed due for --.--. It was the same amount as
 > last month. I think your records are not up to date. The bill should
 > at least note what I am being charged for. (December 2023)
 
