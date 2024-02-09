@@ -10,7 +10,7 @@ Notes
 - Patrick is aware that this is not an ideal solution, and understands that the team feels it is very high risk and acknowledges that we have shared our concerns
      - Our concerns are captured in Slack as a record
 - We are looking into ways that we might gain an exception or something to get around the 60-day limitation 
-- **Lihan** suggests the ES team should be pushed to accept the data as an attachment
+- **Lihan** suggests the ES team should be pushed to accept the data as an attachment, as an interim solution
      - PMs will take this back to Patrick to pass along for VES to consider
 
 
