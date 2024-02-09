@@ -147,7 +147,7 @@ Ideally we would like to get about
 
 
 * Must have experience using VA educational benefits/service
-* [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/A)
+* [Cohort A study link](https://dj540s05.optimalworkshop.com/optimalsort/a)
 
 
 #### For Cohort B (7 Veterans)
