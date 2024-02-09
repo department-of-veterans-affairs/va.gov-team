@@ -29,7 +29,9 @@ General info, notes and miscellaneous
 - VISTA/VIS: Veterans Health Information Systems and Technology Architecture (VISTA)
   - instance of CP&E (where eligibility info is stored)
  
-### Key Decisions
+### Key Decisions/Findings
 - PEGA integration [decision record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md)
 - 2/7/24 - recommendation for longer term approach is for VBMS and VIS to communicate with each other (and to eliminate need for 10-7959f-1 FMP registration form altogether).
+
+### Miscellaneous
   
