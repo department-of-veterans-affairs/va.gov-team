@@ -20,6 +20,7 @@ Goal: **How might we craft a release plan to test our product "in the wild" at a
 |Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
 |Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
 
+QUESTION: Do we need to move from 50-95-100% traffic to reduce the risk of forcing the last remaning in-progress users into V2 of the form?
 
 ## Overview
 As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md), the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
@@ -34,31 +35,13 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
    - Authenticated Users: Users will see an info box on the form information page letting them know the form has been updated and contains new fields. They will complete the new version of the form.
    - Unauthenticated Users: Users will see an info box on the form information page letting them know the form has been updated and contains new fields. They will complete the new version of the form.
 
-Needs updating....
-
-6. All Users
-      - Users will see an alert on the form information page letting them know that the form will be undergoing updates and that they should log in before starting to save their work or wait to fill out the application until a specific date when the updates will be live.
-      - Option: Users with in-progress applications will see a warning on each page letting them know the form will be updated on a specific date, so they need to submit their application prior to that date or they may need to either fill out additional information (if authenticated) or lose their data (if unauthenticated)
-7. Users with in-progress forms
-   - Authenticated:
-      - Users actively filling out the form can proceed with their applications, but they will see an error message when they try to submit. **Can we customize the error message to explain what happened and what action they need to take?** They will need to navigate back to the information page where they will see an alert box will appear letting them know there are new questions that need to be answered and/or that they may need to provide additional information on previously answered questions. **Will they be logged out and need to log back in?**
-      - Users who are not actively working on their application will be taken to the start of the form the next time they log in to continue their application. They will see the same alert notifying them of the form changes.
-   - Unauthenticated
-      - Remove the option to fill out the form unauthenticated for a specific period of time leading up to the release of the form updates to prevent users from losing in-progress information. An alert on the information page would explain that the form is undergoing changes and will be available on xx date.
-         - Suggest removing the authenticated option 1-2 days before release given that most users complete the form in one session (average 23 minutes), however, there may still be unauthenticated users who are caught with in-progress forms when the updates are released, and they will lose their data.
-         - Display an alert warning on each form page 5-days before release letting unauthenticated users with in-progress applications know that they need to submit their applications by xx date or they will lose thei form data and need to start over with the updated application. 
-8. Users with no in-progress forms
-   - Users will see an alert on the form information page letting them know that the form will be undergoing updates and that they should log in before starting to save their work or wait to fill out the application until a specific date when the updates will be live.
- 
 
 ### This release will include the following components:
 1. Form field updates on some pages (add new fields, remove old fields)
 2. Form component updates on the pages already receiving form field updates
 3. Accessibility updates on the pages already receiving form field updates
-4. Pre-release info alert on the form information page xx days before release notifying users that the form will be updated on xx date and it will be temporarily unavailable from xx to xx for unauthenticated users. Suggest removing the unauthenticated option 1-2 days before release. This needs to be closely coordinated with CAIA (Aliyah Blackmore and Lily Strelich.)
-5. Pre-release warning alert on each form page that appears 5 days before release notifying users with in-progress forms that the form will be updated on xx date, so they need to submit their application prior to that date or they may need to either fill out additional information (if authenticated) or lose their data (if unauthenticated). This needs to be closely coordinated with CAIA (Aliyah Blackmore and Lily Strelich.)
-7. Post-release info alert on form introduction page that notifies authenticated users that the form has been updated and contins new fields. This needs to be closely coordinated with CAIA (Aliyah Blackmore and Lily Strelich).
-
+4. Info alert on the form information page letting new users know the form has been updated.
+5. New confirmation email sent to users confirming their claim submission through VA.gov
 ---
 
 ## Step 1: Development
