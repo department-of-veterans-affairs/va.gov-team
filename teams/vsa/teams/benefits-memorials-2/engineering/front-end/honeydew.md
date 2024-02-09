@@ -6,7 +6,8 @@ Let's make a list of pages/components/functionality that could use some extra lo
 - [ ]  DOCUMENTATIONNNNNNNNNNNNNN - add more! -- make time (and tickets) to add more
 
 ## FSR Changes
-- [ ] **Naming conventions** - Some of the internal page names are a little misleading and could be made a little more clear (i.e. stuff with 'enhanced' in the name should probably be renamed since that's specific to releases and it should be more agnostic) 
+- [ ] **Naming conventions** - Some of the internal page names are a little misleading and could be made a little more clear (i.e. stuff with 'enhanced' in the name should probably be renamed since that's specific to releases and it should be more agnostic)
+- [ ] Debt selection errors - we can drop the "return to VA" link if one of the copays or debts endpoints fail (as long as they can select something) [design input](https://dsva.slack.com/archives/CPE4AJ6Q0/p1707502928101719?thread_ts=1707334048.781089&cid=CPE4AJ6Q0)
 - [ ] Employment history - veteran and spouse currently have separate components, but we can likely combine
 - [ ] Contact Information - Use the shared compoent that was created for a more stable experience. [Form 0995 example](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/995/pages/contactInformation.js)
 
