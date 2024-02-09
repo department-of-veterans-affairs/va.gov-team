@@ -188,7 +188,7 @@ We estimate it will take participants 15 minutes or less to complete the card so
 ### 
 **Timeline**
 
-We would like to run this card sort from February 12 - February 26, 2024
+We would like to run this card sort from February 15 - February 29, 2024
 
 
 #### 
@@ -204,7 +204,7 @@ We will be running a pilot session by sending out the card sort to members of ou
 
 
 
-* Between Feb 12 - Feb 26 2024
+* Between Feb 15 - Feb 29 2024
 
 #### 
 **Length of sessions**
@@ -212,7 +212,8 @@ We will be running a pilot session by sending out the card sort to members of ou
 * 15 - 20 min
 
 ####
-**Researcher Contact Inforamtion**
-Raquel Eisele 
+**Researcher Contact Information**
+
+* Raquel Eisele 
 email - raquel.eisele@adhocteam.us
 slack - @Raquel
