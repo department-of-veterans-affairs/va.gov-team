@@ -27,28 +27,28 @@ Adding features to the process that do not make it easier for Veterans to access
    
 ## MVP
 ### Included in the MVP
-- Veteran texts "travel" on the day of appointment
-- Veteran receives a link back if it is the same day as an OH appointment (**Q: is VeText going to send CVT appts too?**)
-    - Veteran will receive an error message if either they do not have any appointments for today, we cannot find their phone number in the VA records, or this feature is not available for their appointment's facility
-- Veteran clicks the link from their mobile device
-    - Veteran will receive a "link has expired" message if they click a link after the day of the appointment
-    - Veteran sees a "you've already filed a claim" message if they click the link and they have already filed a claim for their appointment today
+- Veteran texts "travel" on the day of their OH appointment
+- Veteran receives a link back if they have an OH appointment today (**Q: is VeText going to send CVT appts too?**)
+    - Veteran will receive an error message if they (1) do not have any OH appointments for today, (2) we cannot find their phone number in the VA records, or (3) the feature is not available for their appointment's facility
+- Veteran clicks the link 
+    - Veteran will receive a "link has expired" message if they click the link after the day of the OH appointment
+    - Veteran sees a "you've already filed a claim" message if they click the link and they have already filed a claim for their OH appointment today (1 claim per facility per day is allowed)
 - Veteran verifies their identity
 - Veteran sees information on
-    - How to check their eligibility
-    - How to file a travel claim (i.e. continue)
-    - How to file a claim for other expenses    
-- Veteran chooses to file a travel reimbursement claim
-    - If the Veteran has more than 1 appointment at different facilities today, the Veteran selects for which appointment(s) they would like to submit a claim
+    - How to check their eligibility to file a claim
+    - How to file a claim now
+    - How to file a claim for other expenses later
+- Veteran chooses to file a claim
+    - If the Veteran has more than 1 appointment today at different facilities, the Veteran selects for which appointment(s) they would like to submit a claim
 - Veteran answers the 3 travel questions
     - Veteran see an error message if they answer "no" to any of the 3 questions
 - Veteran agrees to the VA's terms & submits their claim (or chooses to file later)
 - Veteran sees confirmation that their claim was submitted and information for how to check the status of their claim
-- Veteran receives an SMS that includes the claim submission status message returned from BTSSS
+- Veteran receives an SMS that includes the claim submission status returned from BTSSS
 
 ### Not Included in the MVP
-- We are not offering this feature for Veterans with VistA appointments
-- We are not offering this feature for Veterans with OH Telehealth & phone appointments 
+- We are not offering this feature for VistA appointments
+- We are not offering this feature for telehealth & phone appointments 
 - We are not offering eCheck-in or Pre-Check-in for OH appointments
 
 <details>
