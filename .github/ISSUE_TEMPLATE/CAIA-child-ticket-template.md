@@ -24,9 +24,10 @@ _What details are necessary for understanding the specific work or request track
 ```
 ## Ticket Tasks
 _Complete these steps to configure this ticket._
-
+```[tasklist]
 - [ ] Ensure ticket is linked to Epic
 - [ ] Add Originator/Team name 
 - [ ] Add Opened Date
 - [ ] Add Estimate
-- [ ] Add label(s) for discipline(s) involved in work
+- [ ] Add label(s) for discipline(s) involved in work 
+```
