@@ -1,5 +1,16 @@
 # BTSSS on VA.gov Sprint Goals
 
+##2/11/2024-2/23/2024
+### Goals
+- Continue integration prep, including how auth interacts with integration
+- Share out results from research and determine action items resulting from research readout
+
+### Notes
+
+- Product lead started 2/1/24, currently onboarding
+- Authentication discussions around which solutions will be in place still pending
+- We will be closed for the 2/19 holiday
+
 ## 1/29/2024 - 2/9/2024
 ### Goals
 - Prep for integration
