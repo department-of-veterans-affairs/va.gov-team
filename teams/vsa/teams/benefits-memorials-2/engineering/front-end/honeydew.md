@@ -7,8 +7,9 @@ Let's make a list of pages/components/functionality that could use some extra lo
 
 ## FSR Changes
 - [ ] Employment history - veteran and spouse currently have separate components, but we can likely combine
+- [ ] Contact Information - Use the shared compoent that was created for a more stable experience. [Form 0995 example](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/995/pages/contactInformation.js)
 
 ## CDP Changes
-- [ ] styling updates - there's some room for improvement where we can likely just combine the three scss files in the CDP so it's easier to find.
-- [ ] combine components being used across both `debt-letters` and `medical-copays` sections
-- [ ] remove old standalone [debt-letters](https://github.com/department-of-veterans-affairs/vets-website/tree/8ec34b0c1f9a27ba8287765c85155e2df97957ae/src/applications/debt-letters) and [medical-copays](https://github.com/department-of-veterans-affairs/vets-website/tree/29ea9e844d860040f77c26485053095e028e265f/src/applications/medical-copays)
+- [ ] Styling updates - there's some room for improvement where we can likely just combine the three scss files in the CDP so it's easier to find.
+- [ ] Combine components being used across both `debt-letters` and `medical-copays` sections
+- [ ] Remove old standalone [debt-letters](https://github.com/department-of-veterans-affairs/vets-website/tree/8ec34b0c1f9a27ba8287765c85155e2df97957ae/src/applications/debt-letters) and [medical-copays](https://github.com/department-of-veterans-affairs/vets-website/tree/29ea9e844d860040f77c26485053095e028e265f/src/applications/medical-copays)
