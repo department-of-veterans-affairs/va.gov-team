@@ -124,7 +124,7 @@ But Veterans don't have all the information to help them make informed decisions
 
 > "If I chose not to sign in, I would expect a lot of these screens not to exist. [If I] signed in, I would expect that information to already be linked to [me]." P5
 
-**Note:**** [This study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) found that, "while noting the benefits of the authenticated experience, [participants] expressed interest in an anonymous path for asking general questions." It also found that, "[participants] expect the authenticated experience to bypass the need to input the most sensitive information." And [this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md) found that, "all participants expressed interest, or preference, in logging in to complete the form."
+**Note:** [This study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) found that, "while noting the benefits of the authenticated experience, [participants] expressed interest in an anonymous path for asking general questions." It also found that, "[participants] expect the authenticated experience to bypass the need to input the most sensitive information." And [this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md) found that, "all participants expressed interest, or preference, in logging in to complete the form."
 
 ### Finding 3: As Veterans get further into the form, they become more unsure about what progress they've made and what to expect next.
 
