@@ -1,6 +1,6 @@
-## Debt Portal Medallia Feedback (draft, in progress)
+# Debt Portal Medallia Feedback (draft, in progress)
 
-**Summary and opening:**
+## **Summary and opening:**
 
 156 Veterans left qualitative feedback on the debt portal pages in December of 2023, and January of 2024. The majority of challenges described include 
 
@@ -21,7 +21,7 @@ The following quote encapsulates the difficulty of making smart financial decisi
 The Debt Resolution team is currently implementing new copy on the debt portal to inform Veterans that payments made may not be reflected immediately, which will alleviate worry and concerns. The team will also be implementing a payment history feature this year.
 
 
-**Tasks described by Veterans:**
+## **Tasks described by Veterans:**
 
 -   Check debt status
 -   Make a payment
@@ -31,7 +31,7 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 -   Dispute a debt
 -   Paying recurring copays
 
-**Top issues:**
+## **Top issues:**
 
 - Difficulty retrieving debt letters
 
