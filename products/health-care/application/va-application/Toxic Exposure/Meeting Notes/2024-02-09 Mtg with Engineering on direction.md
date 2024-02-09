@@ -1,7 +1,7 @@
 # Feb 9, 2024 | Quick touchbase on TERA with Engineers
 - Attendees: Joshua Drumm, Lihan Li, Heather Justice, Matt Long, Mitch Saltykov, Alex Seelig
 
-Notes
+### Notes
 - **Patrick** is being advised that we need to be prepared to deliver TERA on the EZ form by 3/5 (3 weeks from now)
      - The focus is on storing the application data on the VA.gov db
 - There is a noted risk that there is a limitation to storing PII on VA.gov for 60-days.
