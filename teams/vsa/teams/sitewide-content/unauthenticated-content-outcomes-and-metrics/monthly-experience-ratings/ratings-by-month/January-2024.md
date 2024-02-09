@@ -27,7 +27,10 @@ All pages have ratings of 2 or below.
 - **Breakdown of resources and support scores by thirds:**
   - 
 - **Breakdown of resources and support scores by 10s:**
- 
+ ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/42f073a7-8335-4a27-aca6-cc87cd876e12)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/03037d10-4502-4c9e-b412-a81d280bd063)
+
+
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
 1. [How to change direct deposit information for VA benefits](www.va.gov/resources/how-to-change-direct-deposit-information-for-va-benefits/) (100% good out of 11 total responses)
