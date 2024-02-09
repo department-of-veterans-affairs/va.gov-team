@@ -27,6 +27,9 @@ Adding features to the process that do not make it easier for Veterans to access
    
 ## MVP
 ### Included in the MVP
+
+[Design](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design)
+
 - Veteran texts "travel" on the day of their OH appointment
 - Veteran receives a link back if they have an OH appointment today (**Q: is VeText going to send CVT appts too?**)
     - Veteran will receive an error message if they (1) do not have any OH appointments for today, (2) we cannot find their phone number in the VA records, or (3) the feature is not available for their appointment's facility
@@ -168,16 +171,7 @@ Decisions reached on 1/30/2024 with OCTO and IVC:
 
 </details>
     
-## Questions 
-- Does IVC want VeText to check for insurance update?
-    - Answer: No
-- How are we sending the arrived status to OH? (via MAP services?, VeText?)
-    - Answer: we will pursue setting the status via a vets-api call that interfaces with CES
 
-## Resources
-- [FINAL TECH NOTES_ WORKING DRAFT of PCI Oracle Cerner Integration Pre-Check-In and E-Check-In Workflows v.01_KL (1).pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14054574/FINAL.TECH.NOTES_.WORKING.DRAFT.of.PCI.Oracle.Cerner.Integration.Pre-Check-In.and.E-Check-In.Workflows.v.01_KL.1.pdf)
-- [Check-in OH Userflow Options 01 30 2024 (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/14100500/Check-in.OH.Userflow.Options.01.30.2024.pdf)
-- [Figma file userflow options](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=353-9808&mode=design&t=euqEfx5rf3eRkbF0-4)
-- [Wireframes (MVP)](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96%3A709&mode=design&t=QD1l1lewDSkhxSDh-1)
-- [Online Travel Reimbursement Service Blueprint for OH sites](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
+
+
 
