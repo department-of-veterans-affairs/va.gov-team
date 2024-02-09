@@ -1,4 +1,4 @@
-# Glossary of Accredited Representative Portal (ARP) Jargon
+# Glossary of Accredited Representative Facing (ARF) Jargon
 
 The below terms are supplemental to [ARM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md) and [VA Accredited Representatives terminology](https://www.benefits.va.gov/vso/).
 
