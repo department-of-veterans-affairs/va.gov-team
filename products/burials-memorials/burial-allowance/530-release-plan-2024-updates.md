@@ -29,18 +29,22 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
-   - Authenticated Users: Users will complete the old version of the form.
-   - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they will fill out the updated version of the form.
+   - Before full release:
+      - Authenticated Users: Users will complete the old version of the form.
+      - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they will fill out the updated version of the form.
+   - After 100% release:
+      - Authenticated Users: Users will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form.
+      - Unauthenticated Users: Users will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form.
 2. Applications Not Started
-   - Authenticated Users: Users will see an info box on the form information page letting them know the form has been updated and contains new fields. They will complete the new version of the form.
-   - Unauthenticated Users: Users will see an info box on the form information page letting them know the form has been updated and contains new fields. They will complete the new version of the form.
+   - Authenticated Users: Users will complete the new form.
+   - Unauthenticated Users: Users will complete the new form.
 
 
 ### This release will include the following components:
 1. Form field updates on some pages (add new fields, remove old fields)
 2. Form component updates on the pages already receiving form field updates
 3. Accessibility updates on the pages already receiving form field updates
-4. Info alert on the form information page letting new users know the form has been updated.
+4. Maybe: Info alert on the form information page letting in-progress users forced into the new version of the form that the form has been updated.
 5. New confirmation email sent to users confirming their claim submission through VA.gov
 ---
 
