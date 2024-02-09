@@ -1,6 +1,6 @@
 # BTSSS on VA.gov Sprint Goals
 
-##2/11/2024-2/23/2024
+## 2/11/2024-2/23/2024
 ### Goals
 - Continue integration prep, including how auth interacts with integration
 - Share out results from research and determine action items resulting from research readout
