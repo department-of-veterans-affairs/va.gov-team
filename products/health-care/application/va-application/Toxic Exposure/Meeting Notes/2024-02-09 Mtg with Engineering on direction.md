@@ -17,9 +17,10 @@
 - We would like to begin working on this as soon as possible
      - There is a chance that we will be told that we will not have to deliver this
      - At the risk of losing time, we don't think we should wait
-     - Chapley will be back on Monday and will be tasked to begin this work
-          - I will meet with Chapley in the morning and go over everything with him and ensure he understands what I know
-          - As such, he may reach out to consult with the team on technical aspects that I do not know
+     - Chapley will be back on Monday
+          - Both Chapley and Mitch will be tasked to begin this work
+          - I will meet with them both on Monday morning and go over everything
+          - As such, they may reach out to consult with the team on technical aspects that I do not know
       
 - Question
      - If we were nearing 60 days, can we put the data into a flat file and store it somewhere secure?
