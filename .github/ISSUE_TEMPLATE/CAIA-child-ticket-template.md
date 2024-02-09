@@ -1,3 +1,11 @@
+---
+name: "CAIA New Task"
+about: Template for converted task to issue.
+title: 'New Task Ticket'
+labels: 'Sitewide CAIA'
+assignees: 'coforma-terry'
+---
+
 # CAIA Child Ticket
 
 `WIP`
