@@ -1,0 +1,17 @@
+# Welcome to Sign-in Service Onboarding Help
+
+## Stages in Onboarding 
+
+## Onboarding Requirements
+
+## Testing
+
+## Case Studies
+- ## Authorization Parameters
+
+| Stage | Description |
+| --- | --- | --- | --- |
+| `type` | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
+| `client_id` | A unique name identifying your ClientConfig. | String | `sample_client_web`, `sample_client_api` |
+| `acr` | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
+| `code_challenge` | Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
