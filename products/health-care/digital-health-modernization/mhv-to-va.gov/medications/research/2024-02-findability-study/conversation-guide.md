@@ -1,6 +1,6 @@
 # **Conversation Guide**
 
-# **MHV on VA.gov, Medications Findability Study, February 2024**
+# **MHV on VA.gov, Medications Findability Study, January 2024**
 
 ## Moderator logistics
 
@@ -40,7 +40,7 @@ Before we start, I want to give you an idea of what this session will be like:
 - **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If, for any reason and at any time, you want to stop the session, please let me know.**
-- We will, for the most part today, be talking through some of your experiences with MyHealtheVet. At some point, I will have you complete a task, which I will walk you through how. Then much later, I will have have you look at a prototype and complete some tasks. Please keep in mind that the prototype is only a demo tool, it may look familiar but would not act like you expect it to. I will guide you on the part that's functional.
+- We will, for the most part today, be talking through some of your experiences with MyHealtheVet. At some point, I will have you complete a task, which I will walk you through how. Then much later, I will have you look at a prototype and complete some tasks. Please keep in mind that the prototype is only a demo tool, it may look familiar but would not act like you expect it to. I will guide you on the part that's functional.
 
 Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will take notes to ensure we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
 
@@ -77,23 +77,20 @@ Are you ready to dive in?
 ## **Expectations on RX Page and Order - 10 minutes**
 
 - When you log onto a page with your prescriptions on it, tell me what you are looking for first.
-  - When you're looking for a particular prescription, what kind of information do you look for?
-    - _Example optional prompts_: Prescription name? When it was issued to you? When you last filled it?
 - On a list with your prescriptions, what do you expect to see?
   - What type of prescriptions do you expect to see at the top of the list?
   - What type of prescriptions do you expect to see at the bottom/end of the list?
 - What do you expect to happen to prescriptions you no longer take or need?
-- What should happen when you have a list of up to 100 prescriptions that you have acquired overtime? (including old, discontinued, expired, etc)
+- Imagine you have a list of 100 prescriptions. How would you organize them so that you could find what you needed quickly? (including old, discontinued, expired, etc)
+- How soon do you expect newly prescribed medications to show up?
 
-## **Task 1 – Card Sort - 5 minutes**
+## **Task 1 – Card Sort - 10 minutes**
 
 For this task, I would like you to show me what you have just explained.
 
 _[Pull up screen for card sort]_
 
-Looking at this screen, you will notice 10 randomly generated names of prescription. While I would love your feedback here, if you feel uncomfortable with any of these prescrtiptions at any time doing this, please let me know, I would be happy to cancel the activity.
-
-In no particular order, please note that Expired are the ones you no longer have a prescription for, Active Prescripitions are the ones you are currently taking, Non-VA Active are the ones you are currently taking but not from the VA pharmacy, and Discontinued are the ones you are no longer prescribed to take.
+Looking at this screen, you will notice 10 randomly generated names of prescription. While I would love your feedback here, if you feel uncomfortable with any of these prescriptions at any time doing this, please let me know, I would be happy to cancel the activity.
 
 What I would like to have you do is, based on what you have shared about your expectations, please move these cards in the order you expect to see them.
 
@@ -115,13 +112,15 @@ I am going to take back remote of the screen _[Assist participants if necessary]
 
 _[Proceed to prescription list view on PowerPoint]_
 
-- What is some information you have looked up in the past, about a prescription?
+- When you're looking for a particular prescription, what kind of information do you use to quickly find it?
+  - _Example optional prompts_: _Prescription name? When it was issued to you? When you last filled it?_
+- Have you ever looked up information about a prescription in the past?
 
-  - What has helped you successfully find that information?
+  - Tell me the information you were looking for. How did you find it?
 
 - Have you ever used information on your prescription bottle when looking up anything related to a prescription online?
 
-  - _[If yes]_ Tell me the information you used?
+  - _[If yes]_ Tell me how you used it (bottle)
 
 ## **Prescription not found - 5 minutes**
 
@@ -131,27 +130,38 @@ _[Proceed to prescription list view on PowerPoint]_
 
   - What would you do if you couldn't remember the name of the prescription?
 
-- If there was a way to look for a prescription? Talk to me about how you would use that feature.
-
-## **Similar Prescriptions - 3 minutes**
-
-- What are your thoughts on prescriptions that have the same name but are different? (Either by status or dosage) [_Show example]_
-  - How would you find a prescription that has the same name as another prescription but a different dosage?
+- Would you add or change anything about your current experience to help you find a prescription you need quickly?
+  - _[If yes]_ Tell me more about that
 
 ## **Online Pharmacy - 5 minutes**
 
 _[If they had mentioned using online pharmacy at warm up, ask]_
 
-- You mentioned that you have used online pharmacy in the past to manage your prescriptions. Please tell me about that experience.
-- What are some things on your online pharmacy that have helped to manage your prescriptions?
-- Tell me what you like about your online pharmacy, when it comes tomanaging your prescriptions?
-- Tell me what you don't like about your online pharmacy, when it comes to managing your prescriptions?
+- You mentioned that you have used another online pharmacy in the past to manage your prescriptions. Please tell me about that experience.
+- What are some things on your other online pharmacy that have helped to manage your prescriptions?
+- Tell me what you like about your other online pharmacy, when it comes tomanaging your prescriptions?
+- Tell me what you don't like about your other online pharmacy, when it comes to managing your prescriptions?
 
 ## **Multi-Refill - 5 minutes**
 
+Thank you for getting through all those questions with me and sharing your experience. For this next task, I am going to share with you a prototype. Keep in mind that it is a demo tool, and it is not going to be fully functional. I will guide you on the areas that are.
+
+I will now give you remote access to my mouse, so that you can move around this screen and access the prototype.
+
+_[Share remote & confirm participant can access]_
+
 - Say that you want to refill all the prescriptions on your list, that are refillable, walk me through how you will do that from here.
-  - _[If they tried clicking each of the checkboxes, ask]_ Talk to me about why you wanted to check each of the boxes? What are your thoughts on 'select all'?
-  - Tell me about your experience doing that?
+- _[Getting to the refill page]_ Before we continue that task, talk to me about what you are noticing here.
+- Let's refill the prescriptions available for refill.
+  - _[If they clicked each of the checkboxes, ask]_ Did you notice the "select all" options?
+  - Talk to me about why you chose to check each of the boxes.
+- _[Confirmation page]_ Was your refill request successful?
+
+## **(IF TIME PERMITS) Similar Prescriptions - 3 minutes**
+
+- Thinking about your current list of prescriptions, do you have multiple prescriptions with the same name?
+  - _[If yes]_ What differentiates them for you?
+  - How do you identify these prescriptions quickly?
 
 ## **Interview Wrap Up – 5 minutes**
 
@@ -159,7 +169,7 @@ _[If they had mentioned using online pharmacy at warm up, ask]_
   - Was there anything I missed that you would like to share?
 - Any there any other feedback that would be good for us to know?
 
-## **Screener Interview – Participants with CD**
+## **Screener Interview – Users with CD**
 
 Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.
 
