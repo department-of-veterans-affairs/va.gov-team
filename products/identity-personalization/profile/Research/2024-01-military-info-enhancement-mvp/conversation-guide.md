@@ -1,4 +1,4 @@
-# Conversation Guide for Authenticated Experience Profile, Military Information, Feburary 2024
+# Conversation Guide for Authenticated Experience Profile, Military Information, February 2024
 
 ## Moderator logistics
 ### 2-3 days before the session – TBD
@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > Project-specific setup tasks:
 > - Set up Mural board for notes and emerging themes
-> - Set up Mural OR Powerpoint/Excel for the mapping activity
+> - Set up a second Mural for the mapping activity
 
 ### Day of the session
 
@@ -20,17 +20,22 @@
 
 > [!IMPORTANT]
 > Session tasks:
-> - (If using CAG for the mapping activity, sign into CAG)
 > - In the Zoom Attendees section, make sure everyone except the participant is on mute
-> - In the Participant "More" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check Zoom screensharing setup and share permissions for participants.
-> - When the participant is ready, begin the session with the intro
+> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+> - Check Zoom’s screen sharing setup and share permissions for participants
+> - When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Pam and [NOTETAKER NAME] is taking notes.
 
-Today we're going to talk about the kinds of jobs you did while you were serving/enlisted. Are you familiar with the phrase “military occupational speciality” or MOS? [Great, just wanted to be sure / No problem, that just means a code that identifies a specific job]. We’re going to specifically focus on that today,  
+Today we're going to talk about the kinds of jobs you did while you were serving/enlisted. Are you familiar with the phrase “military occupational speciality” or MOS? 
+
+	Great, just wanted to be sure! 
+	
+	No problem, that just means a code that identifies a specific job.
+
+We’re going to specifically focus on that today.  
 
 I’d like to learn about how you understand and use your military history – especially your occupational history, and ways in which you have had to share your military history in order to receive benefits or for other reasons.
 
@@ -67,14 +72,15 @@ Thank you! I’ll also ask you again about the short video clips at the end of y
 I’d like to start with a few questions.
 
 1. What branch did you serve in?
-2. Did you separate or retire?
-3. What was your last military occupational specialty before you left from the military? In a few sentences, can you describe some of the responsibilities and tasks associated with that role?
-4. Can you walk me through your career progression over time? How did you transition between different occupational specialties, and what motivated those transitions?
-5. Did you ever have more than one occupational specialty at a time?
-6. What are some examples when you had to share your MOS data 
-7. Have you ever had to share any part of your military occupational history in order to receive benefits?
+2. How long did you serve?
+3. Did you separate or retire?
+4. What was your last military occupational specialty before you left from the military? In a few sentences, can you describe some of the responsibilities and tasks associated with that role?
+5. Can you walk me through your career progression over time? How did you transition between different occupational specialties, and what motivated those transitions?
+6. Did you ever have more than one occupational specialty at a time?
+7. What are some examples when you had to share your MOS data 
+8. Have you ever had to share any part of your military occupational history in order to receive benefits?
 	- Where/how did you get all your data? How did you share it with the VA?
-8. Have you had to share any part of your military occupational history for any other reasons? If so, what for?
+9. Have you had to share any part of your military occupational history for any other reasons? If so, what for?
 
 Thanks for sharing your experience and history with me! Before we go to the next part, do you recall giving permission to gather your military history ahead of time as part of this research session?
 
@@ -109,32 +115,6 @@ Next, let’s group similar items together – how would you group things togeth
 - Next, let’s rank these groups by importance. What should go first? Second? etc.
 
 Is there anything else you’d like to share with me before we move to the last part of our session?
-
-Thanks so much for doing that mapping activity with me! It will really help me understand how people think about and use their military history.
-
-`If using CAG`
-
-I have your information in a Powerpoint/Excel spreadsheet. What I’d like to do is organize it together, with you telling me how you would group things. This will help me understand ways in which people organize their history in a way that makes sense to them.
-
-Do you have any questions before we start? 
-
-### Missing items (5 minutes)
-Here are the items. Let’s go through them – is there any information that seems missing that is meaningful to you?
-
-### Grouping items (5 minutes)
-Next, let’s group similar items together – how would you group things together in a way that makes sense to you? 
-
-> [!tip] 
-> Look for:
-> - Chronological order
-> - Grouping types
-> - What’s missing
-
-### Ranking items (5 minutes)
-
-- Next, let’s rank these groups by importance. What should go first? Second? etc.
-
-- Is there anything else you’d like to share with me before we move to the last part of our session?
 
 Thanks so much for doing that mapping activity with me! It will really help me understand how people think about and use their military history.
 
