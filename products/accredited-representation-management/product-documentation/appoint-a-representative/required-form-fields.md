@@ -14,27 +14,27 @@ https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf
 4. Veteran’s Date of Birth :white_check_mark: 
 5. Veterans Service Number
 6. Insurance Number(s)
-7. Mailing Address :white_check_mark: 
-    1. No & Street :white_check_mark: 
+7. Mailing Address
+    1. No & Street 
     2. Apt/Unit Number
-    3. City :white_check_mark: 
-    4. State :white_check_mark: 
-    5. Country :white_check_mark:  
-    6. Zip Code/Postal Code :white_check_mark: 
-8. Telephone Number :white_check_mark: 
+    3. City 
+    4. State 
+    5. Country   
+    6. Zip Code/Postal Code 
+8. Telephone Number 
 9. Email Address
 10. Claimant’s Name :orange_circle: _required if claimant attribute exists_
 11. .
     1. Claimant’s Date of Birth :orange_circle: _required if claimant attribute exists_
     2. Claimant’s Relationship to Veteran :orange_circle: _required if claimant attribute exists_
-12. Claimant’s Mailing Address :orange_circle: _required if claimant attribute exists_
-    1. No & Street :orange_circle: _required if claimant attribute exists_
+12. Claimant’s Mailing Address 
+    1. No & Street 
     2. Apt/Unit Number
-    3. City :orange_circle: _required if claimant attribute exists_
-    4. State :orange_circle: _required if claimant attribute exists_
-    5. Country :orange_circle: _required if claimant attribute exists_
-    6. Zip Code/Postal Code :orange_circle: _required if claimant attribute exists_
-13. Claimant’s Telephone Number :orange_circle: _required if claimant attribute exists_
+    3. City 
+    4. State 
+    5. Country 
+    6. Zip Code/Postal Code 
+13. Claimant’s Telephone Number 
 14. Claimant’s Email Address
 15. Name of Service Organization Recognized by the Department of Veterans Affairs  :white_check_mark: 
 16. .
@@ -62,26 +62,26 @@ https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf
 4. Veteran’s Date of Birth :white_check_mark: 
 5. Veterans Service Number
 6. Branch of Service 
-7. Mailing Address :white_check_mark: 
-    1. No & Street :white_check_mark: 
+7. Mailing Address 
+    1. No & Street 
     2. Apt/Unit Number
-    3. City :white_check_mark: 
-    4. State :white_check_mark: 
-    5. Country :white_check_mark: 
-    6. Zip Code/Postal Code :white_check_mark: 
-8. Telephone Number :white_check_mark: 
+    3. City 
+    4. State 
+    5. Country 
+    6. Zip Code/Postal Code 
+8. Telephone Number 
 9. Email Address
 10. Claimant’s Name :orange_circle: _required if claimant attribute exists_
 11. Claimant’s Date of Birth :orange_circle: _required if claimant attribute exists_
 12. Claimant’s Relationship to Veteran :orange_circle: _required if claimant attribute exists_
-13. Claimant’s Mailing Address :orange_circle: _required if claimant attribute exists_
-    1. No & Street :orange_circle: _required if claimant attribute exists_
+13. Claimant’s Mailing Address 
+    1. No & Street 
     2. Apt/Unit Number
-    3. City :orange_circle: _required if claimant attribute exists_
-    4. State :orange_circle: _required if claimant attribute exists_
-    5. Country :orange_circle: _required if claimant attribute exists_
-    6. Zip Code/Postal Code :orange_circle: _required if claimant attribute exists_
-14. Claimant’s Telephone Number :orange_circle: _required if claimant attribute exists_
+    3. City  
+    4. State 
+    5. Country 
+    6. Zip Code/Postal Code 
+14. Claimant’s Telephone Number 
 15. Claimant’s Email Address
 16. .
     1. Name of Individual Appointed as Representative  :white_check_mark: 
