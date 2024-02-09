@@ -51,7 +51,7 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
 2. Satisfaction survey to assess the user perceptions of our product experience
 3. Consider how we might support situations where multiple representatives are assigned (Claim PoA vs. Claimant PoA)
 4. Consider showing an error state if the user is [deceased, incompetent, or has a fiduciary appointed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
-5. Explore if there is an acceptable esignature option for unauthorized users
+5. Explore if there is an acceptable [esignature option for unauthorized users](https://design.va.gov/patterns/ask-users-for/signature)
 6. Explore how to assist the homeless population with requesting representation, as they often do not have an address, phone number and/or access to internet to check email
 7. Explore an option for a quick link or QR code, where a representative's information is quickly added to the 21-22/21-22a 
 
