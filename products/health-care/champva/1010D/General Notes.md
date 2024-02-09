@@ -23,11 +23,11 @@ General info, notes and miscellaneous
 - PEGA: new document repository and management system that will replace DAPER
   - integration needs to be built still 
 - VBMS: Veteran Benefit Management system
-  - case management system for VBA
+  - case management system for VBA (Veteran's name/phone number/address/Ch 31)
 - VES: Veterans enrollment system
   - new enrollment system that won't be ready until sometime in 2025
 - VISTA/VIS: Veterans Health Information Systems and Technology Architecture (VISTA)
-  - instance of CP&E (where eligibility info is stored)
+  - instance of CP&E (where eligibility info is stored, service connected conditions)
  
 ### Key Decisions/Findings
 - PEGA integration [decision record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md)
