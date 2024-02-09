@@ -102,14 +102,16 @@ https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf
     1. Signature of Representative Named in Item 16A :orange_circle: _required if 16B = Individual Providing Representation Under Section 14.630_
     2. Date Signed :orange_circle: _required if 16B = Individual Providing Representation Under Section 14.630_
 19. Authorization for discloser to Affiliated Personnel
-20. Authorization for Representative’s Access to Records Protected by Section 7332, Title 38, U.S.C
-21. Limitation of Consent
-22. Authorization for Representative to Act on Claimant’s Behalf to Change Claimant’s Address
-23. .
+    1. Name of the firm/organization
+    2. Names of the individuals
+21. Authorization for Representative’s Access to Records Protected by Section 7332, Title 38, U.S.C
+22. Limitation of Consent
+23. Authorization for Representative to Act on Claimant’s Behalf to Change Claimant’s Address
+24. .
     1. Signature of Veteran or Claimant :white_check_mark: 
     2. Date Signed :white_check_mark: 
-24. Limitations on Representation - Agents or Attorneys Only
-25. .
+25. Limitations on Representation - Agents or Attorneys Only
+26. .
     1. Signature of Veterans Service Organization Representative Named in Item 16A :white_check_mark: 
     2. Date Signed :white_check_mark: 
    
