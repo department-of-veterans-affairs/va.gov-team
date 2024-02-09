@@ -26,3 +26,17 @@
 - In addition to the above - TERA Yes/No - distinction for checking the JSON attachment
      - ES would have to do work on this to trigger manual workflow for HEC staff to know there is a JSON file with TERA input
      - TERA Yes/No field does not exist in ES at this time
+
+### Questions for VES
+- [ ] Can we just…build this faster?
+     - ..
+- [ ] Can we send this as JSON instead of PDF so you can parse this later?
+     - ..
+- [ ] If we send JSON attachment and the form, how will it be processed?
+     - ..
+     - [ ] How can we make sure a Veteran isn’t rejected because their TERA info isn’t YET part of their record?
+          - ..
+- [ ] If we add a TERA Y/N, as an indicator for staff to review now or later? Or at least they aren’t rejected until all info is reviewed.
+     - ..
+
+- 
