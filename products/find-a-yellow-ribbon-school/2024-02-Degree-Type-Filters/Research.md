@@ -216,4 +216,7 @@ We will be running a pilot session by sending out the card sort to members of ou
 
 * Raquel Eisele 
 * email - raquel.eisele@adhocteam.us
-* slack - @Raquel
+* Primary Work Phone
++1 202-818-8710
+Work extension
+1305
