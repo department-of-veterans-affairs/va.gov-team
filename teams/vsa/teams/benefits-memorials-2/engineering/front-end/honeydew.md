@@ -3,10 +3,10 @@
 Let's make a list of pages/components/functionality that could use some extra love. We can note down changes that we want to make without flooding the board with small tickets, so we can combine like work, and slowly improve on all of our apps as we grow! Stuff here can be as generic or specific as you want, and it won't necessarily mean we will implement the change, but we can at least discuss the best practices and reasonable approaches.  
 
 ## Other
-- [ ]  DOCUMENTATIONNNNNNNNNNNNNN - add more! -- make time to add more
+- [ ]  DOCUMENTATIONNNNNNNNNNNNNN - add more! -- make time (and tickets) to add more
 
 ## FSR Changes
-- [ ] Naming conventions - Some of the internal page names are a little misleading and could be made a little more clear (i.e. stuff with 'enhanced' in the name should probably be renamed since that's specific to releases and it should be more agnostic) 
+- [ ] **Naming conventions** - Some of the internal page names are a little misleading and could be made a little more clear (i.e. stuff with 'enhanced' in the name should probably be renamed since that's specific to releases and it should be more agnostic) 
 - [ ] Employment history - veteran and spouse currently have separate components, but we can likely combine
 - [ ] Contact Information - Use the shared compoent that was created for a more stable experience. [Form 0995 example](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/995/pages/contactInformation.js)
 
