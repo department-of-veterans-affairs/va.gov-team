@@ -1,5 +1,7 @@
 # FY2024 Authenticated experience OKRs 
 
+## [Link to slide deck on Sharepoint (must be on VA network to view)](https://dvagov.sharepoint.com/:b:/r/sites/AccountExperienceCrew/Shared%20Documents/Authenticated%20experience%20team/FY2024%20OKRs_Auth%20Experience.pdf?csf=1&web=1&e=Kh87b5)
+
 ## Charles’ OKRs: An overview
 
 These are Charles’ three big objectives for 2024:
