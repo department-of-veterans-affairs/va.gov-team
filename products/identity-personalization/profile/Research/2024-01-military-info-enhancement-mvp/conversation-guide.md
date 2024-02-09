@@ -31,9 +31,9 @@ Thanks for joining us today! My name is Pam and [NOTETAKER NAME] is taking notes
 
 Today we're going to talk about the kinds of jobs you did while you were serving/enlisted. Are you familiar with the phrase “military occupational speciality” or MOS? 
 
-	Great, just wanted to be sure! 
-	
-	No problem, that just means a code that identifies a specific job.
+`If yes` Great, just wanted to be sure! 
+
+`If no` No problem, that just means a code that identifies a specific job.
 
 We’re going to specifically focus on that today.  
 
