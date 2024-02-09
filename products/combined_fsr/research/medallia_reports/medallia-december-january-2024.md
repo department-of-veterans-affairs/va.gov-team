@@ -3,9 +3,12 @@
 **Summary and opening:**
 
 156 Veterans left qualitative feedback on the debt portal pages in December of 2023, and January of 2024. The majority of challenges described include 
-**1. The inability to retrieve debt letters, 
-2. Missing information such as copay bill details and account number retrieval making paying the bill or the debt challenging, and 
-3.  Payment update discrepancy (an issue described in previous reports).**
+
+**1. The inability to retrieve debt letters,** 
+
+**2. Missing information such as copay bill details and account number retrieval making paying the bill or the debt challenging, and**
+ 
+**3.  Payment update discrepancy (an issue described in previous reports).**
 
 The following quote encapsulates the difficulty of making smart financial decisions without accurate information, highlighting the importance of timely and coherent financial information being communicated across the different channels (on the debt portal, in the mail, and by phone/live support).
 
