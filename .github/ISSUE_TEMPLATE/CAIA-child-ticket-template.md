@@ -25,9 +25,9 @@ Map out the CAIA Content flows during CC for each touch point
 _Complete these steps to configure this ticket._
 
 ```[tasklist]
-- [x] Ensure ticket is linked to Epic
-- [x] Add Originator/Team name
-- [x] Add Opened Date
-- [x] Add Estimate
-- [x] Add label(s) for discipline(s) involved in work
+- [ ] Ensure ticket is linked to Epic
+- [ ] Add Originator/Team name
+- [ ] Add Opened Date
+- [ ] Add Estimate
+- [ ] Add label(s) for discipline(s) involved in work
 ```
