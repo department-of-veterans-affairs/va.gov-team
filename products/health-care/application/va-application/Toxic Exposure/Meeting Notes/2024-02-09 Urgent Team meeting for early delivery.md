@@ -2,6 +2,14 @@
 
 ## Notes
 ### TERA Delivery 
+#### Update from Patrick Bateman
+- Patrick is getting advisement that we will probably be asked to get TERA questions in the EZ by 3/5
+     - how far away are we from doing what we need to do on the VA.gov side of things?
+     - did the team ever have a conversation about alternate ways of getting HEC the TERA data if VES isn’t ready to accept it?
+     - i believe priority here is the EZ, not EZR. the idea is that expanded eligibility being announced in march will make healthcare available to a new group of veterans so long as the they can assert exposure. while there is definitely value in allowing a veteran who has already applied for health care to update their record to potentially get a higher priority group, i think that is a secondary use case.
+     - ok folks, all signs are pointing to us needing to launch tera questions by 3/5. id like to know what needs to happen — aside from actually knowing where the data is going
+     - i want us to be prepared
+          - prepared means figuring out how we can collect and at least store the data.
 #### UX 
 - Seems like the difficult side will be for engineering/technical
 - Designs are already in place
