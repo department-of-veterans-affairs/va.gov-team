@@ -210,3 +210,9 @@ We will be running a pilot session by sending out the card sort to members of ou
 **Length of sessions**
 
 * 15 - 20 min
+
+####
+**Researcher Contact Inforamtion**
+Raquel Eisele 
+email - raquel.eisele@adhocteam.us
+slack - @Raquel
