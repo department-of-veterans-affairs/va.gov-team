@@ -28,3 +28,7 @@ General info, notes and miscellaneous
   - new enrollment system that won't be ready until sometime in 2025
 - VISTA/VIS: Veterans Health Information Systems and Technology Architecture (VISTA)
   - instance of CP&E (where eligibility info is stored)
+ 
+### Key Decisions
+- PEGA integration [decision record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md)
+  
