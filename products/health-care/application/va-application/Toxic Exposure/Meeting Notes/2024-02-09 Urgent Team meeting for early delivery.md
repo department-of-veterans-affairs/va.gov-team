@@ -20,7 +20,7 @@
      - Applications can be sent to ES and processed normally
      - The TERA data would be included in the JSON File attachment
      - Josh F says this would create more work for ES to store JSON and reprocess once ES is ready for TERA later
-          - Josh F does not want to do this
+          - Josh F prefers not to do this, as it is more work and doe not make sense from his perspective
      - HEC staff won't be able to see the JSON, would have to be reviewed manually by VES staff or wait until VES is ready for data
      - **RISK** - Applications for Veterans who have not gotten a TERA indicator from VBA will not be able to be reviewed for TERA
 - In addition to the above - TERA Yes/No - distinction for checking the JSON attachment
