@@ -24,7 +24,7 @@ configurations for client applications integrated with SiS.
 
 Follow these steps to create a team:
 
-* Submit request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to create a new team.
+* To create a new team, submit a request to the OCTO-Identity team by creating an issue in your integration's Github project.
 * The request should contain the following information:
   * The environment to load the users in (staging or production.)
   * `name`: the human-readable name for the team.
@@ -42,7 +42,7 @@ Follow these steps to create a team:
 
 Follow these steps to update a team:
 
-* Submit a request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to update a team.
+* To update a team, submit a request to the OCTO-Identity team by creating an issue in your integration's Github project.
 * The request should contain the following information:
   * The environment of the team.
   * The `name` of the team.
@@ -65,7 +65,7 @@ Follow these steps to update a team:
 
 Follow these steps to remove a team:
 
-* Submit a request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to remove a team.
+* To remove a team, submit a request to the OCTO-Identity team by creating an issue in your integration's Github project.
 * The request should contain the following information:
   * The environment of the team.
   * The `name` of the team.
@@ -86,7 +86,7 @@ client application configurations for which their teams are responsible. Convers
 
 Follow these steps to add users to a team:
 
-* Submit request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to add users to a team.
+* To add users to a team, submit a request to the OCTO-Identity team by creating an issue in your integration's Github project.
 * The request should contain the following information:
   * The team the user(s) should be added to.
   * The environment to load the user(s) in (staging or production.)
@@ -106,7 +106,7 @@ Follow these steps to add users to a team:
 
 Follow these steps to update a team user:
 
-* Submit a request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to update a team user.
+* To update a team user, submit a request to the OCTO-Identity team by creating an issue in your integration's Github project.
 * The request should contain the following information:
   * The environment of the team and team user.
   * The `name` of the team the user belongs to.
@@ -127,7 +127,7 @@ Follow these steps to update a team user:
 
 Follow these steps to remove a team user:
 
-* Submit a request to the OCTO-Identity team via the [#vsp-identity Slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to remove a team user.
+* To remove a team user, submit a request to the OCTO-Identity team by creating an issue in your integration's Github project.
 * The request should contain the following information:
   * The environment of the team and user.
     * You may request the change apply to all environments if the user has changed roles and should be removed across all environments.
