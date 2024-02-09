@@ -39,11 +39,9 @@ We’re going to specifically focus on that today.
 
 I’d like to learn about how you understand and use your military history – especially your occupational history, and ways in which you have had to share your military history in order to receive benefits or for other reasons.
 
-I have some questions to ask you first to better understand your experience. 
-
-Next I’d like to take a closer look with you at your own military information. 
-
-Last, I have some ideas I’d like to get your feedback on.
+- I have some questions to ask you first to better understand your experience. 
+- Next I’d like to take a closer look with you at your own military information. 
+- Last, I have some ideas I’d like to get your feedback on.
 
 Before we start, I have a few things that I need to go over with you:
 
