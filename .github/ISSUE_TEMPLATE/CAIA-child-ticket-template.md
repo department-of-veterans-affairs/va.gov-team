@@ -22,6 +22,7 @@ _What details are necessary for understanding the specific work or request track
 - [ ] _What will be created or happen as a result of this story?_
 
 ```
+
 ## Ticket Tasks
 _Complete these steps to configure this ticket._
 ```[tasklist]
@@ -31,3 +32,4 @@ _Complete these steps to configure this ticket._
 - [ ] Add Estimate
 - [ ] Add label(s) for discipline(s) involved in work 
 ```
+
