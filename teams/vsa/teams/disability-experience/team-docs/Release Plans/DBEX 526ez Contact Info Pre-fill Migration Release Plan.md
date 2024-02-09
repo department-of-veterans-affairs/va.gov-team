@@ -77,6 +77,7 @@ The lack of a viable end-to-end testing environment introduces several risks, no
           - [x] Lee Delarm: 2/8/24 12:30pm-12:45 PST
               - [x] For Flag OFF
                   - Prefill worked, returned full set of phone, email and mailing address
+                  - [DataDog Log](https://vagov.ddog-gov.com/logs?query=service%3Avets-api%20%40client_ip%3A%222601%5C%3A19b%5C%3Ac402%5C%3A4c10%5C%3Ae584%5C%3Aac49%5C%3Adda%5C%3Acbb3%22%20%22disability_compensation_remove_pciu%3Dfalse%22%20&cols=host%2Cservice&context_event=AY2KOkClAAB1aZOJsa2kggBz&event=AgAAAY2KcHmQpK9axQAAAAAAAAAYAAAAAEFZMktjSTBlQUFCcW5zOUNTZUpoc0FBVQAAACQAAAAAMDE4ZDhhNzYtNDM5Mi00ZmNjLTg5M2YtYjU0YWViYzEyY2Y2&index=%2A&messageDisplay=inline&overlay=events&panelFrom=1707421085000&panelTo=1707421090000&panelType=logs&refresh_mode=sliding&screenId=qv6-xpd-7xg&storage=hot&stream_sort=time%2Cdesc&view=spans&viz=&from_ts=1707349298177&to_ts=1707522098177&live=true)
                   - ITF error occurred (404 in Network tab) [image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/80938071-d6a4-4db4-b91d-e59cea57d9fb)
               - [x] For Flag ON
                   - Initial attempt worked, returned full set of phone, email and mailing address
@@ -85,6 +86,7 @@ The lack of a viable end-to-end testing environment introduces several risks, no
           - [x] Rocio De Santiago: 2/8/24 1:00pm-1:15 PST
               - [x] For Flag OFF
                   - Prefill worked, returned full set of phone, email and mailing address
+                  - [DataDog Log](https://vagov.ddog-gov.com/logs?query=%22disability_compensation_remove_pciu%3Dfalse%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A%20%40client_ip%3A%222600%5C%3A1700%5C%3A1ff0%5C%3A2230%5C%3Af4ae%5C%3A306a%5C%3A6636%5C%3Ac45b%22%20&cols=host%2Cservice&context_event=AY2KOkClAAB1aZOJsa2kggBz&event=AgAAAY2KjKgnl4Ja8AAAAAAAAAAYAAAAAEFZMktqTGJ3QUFCcW5zOUNTZTVVZ3dBXwAAACQAAAAAMDE4ZDhhOTAtNGQ4Zi00ZDQxLWE4ZGYtZDA0Zjg1ZDc2ZGQ2&index=%2A&messageDisplay=inline&overlay=events&panelFrom=1707421085000&panelTo=1707421090000&panelType=logs&refresh_mode=sliding&screenId=qv6-xpd-7xg&storage=hot&stream_sort=time%2Cdesc&view=spans&viz=&from_ts=1704930515798&to_ts=1707522515798&live=true)
               - [x] For Flag ON
                   - Initial attempt worked, returned full set of phone, email and mailing address
                   - [DataDog log](https://vagov.ddog-gov.com/dashboard/qv6-xpd-7xg?query=%22disability_compensation_remove_pciu%3Dtrue%22%20%40http.referer%3Ahttps%5C%3A%5C%2F%5C%2F%2A.va.gov%5C%2Fdisability%5C%2Ffile-disability-claim-form-21-526ez%2A&event=AgAAAY2KkLShUo5a5wAAAAAAAAAYAAAAAEFZMktrTVVWQUFCcW5zOUNTZkFQandBMgAAACQAAAAAMDE4ZDhhOTEtMmEwZi00MjE0LTg1Y2UtMDg1ZWYzNjEzNDYw&index=%2A&panelFrom=1707426755000&panelTo=1707426760000&panelType=logs&refresh_mode=paused&view=spans&from_ts=1707426627323&to_ts=1707426927323&live=false)
