@@ -84,7 +84,7 @@ Additional issues and concerns by a smaller number of Veterans:
     
 * Large amount of debt (n = 1)
 
-	-  	 [Agency name] says I owe 65,000 in overpayment on CRDP, Why when the CRDP was off set from my retirement
+	-  	 [Agency name] says I owe --,--- in overpayment on CRDP, Why when the CRDP was off set from my retirement
 	-   Concurrent Retirement and Disability Pay
 
 **Veteran Qualitative Feedback** 
@@ -103,7 +103,7 @@ Additional issues and concerns by a smaller number of Veterans:
 
 **2. Veterans report that the debt portal does not update bills and payments in time, causing frustration N = 9/90**
 
-> *"Get the "debt" that still shows a balance of $85 removed! I have confirmation from the VA and my bank that it was paid! This $#@%%^ system is the WORST! I've tried for weeks to get things fixed...can't even contact a LIVE ONE at the intake center. On a scale of 1 to 10? -50*"
+> *"Get the "debt" that still shows a balance of $-- removed! I have confirmation from the VA and my bank that it was paid! This $#@%%^ system is the WORST! I've tried for weeks to get things fixed...can't even contact a LIVE ONE at the intake center. On a scale of 1 to 10? -50*"
 > 
 > *"Your billing system is very poor and slow. I make my payments and still get notifications saying it is overdue. I tried to call but after 20 minutes I gave up. I submitted feedback via this site and never heard a peep!*"
 > 
@@ -128,7 +128,7 @@ Additional issues and concerns by a smaller number of Veterans:
 >     
 > *I have to receive a paper copy of my bill each month showing payments made for my Hud Housing Program!!*
 >     
-> *what the (bleep) are you sweating me about $45.00 for. I pay as I go.Just send my bill by mail and leave that alone.I may or may not  look at a email, SO, just send a bill like you have been doing.**
+> *what the (bleep) are you sweating me about $--.-- for. I pay as I go.Just send my bill by mail and leave that alone.I may or may not  look at a email, SO, just send a bill like you have been doing.**
 >     
 > *Send me a bill by usps and I will be glad to pay it*
 
@@ -136,7 +136,7 @@ Additional issues and concerns by a smaller number of Veterans:
 
 > Check on debt. However, I owe for my last month’s prescriptions. One month and it is not past due. Worthless to contact me when I have been paying my bill monthly.
 > 
->    Why are you dunning me for things in the future! It is $5.00 and I just got the medication. I think I will talk to my Congressman about this since it happens ***EVERY MONTH***!
+>    Why are you dunning me for things in the future! It is $-.-- and I just got the medication. I think I will talk to my Congressman about this since it happens ***EVERY MONTH***!
 >    
 >    I get these messages once a month. I check the message and it says I don't owe anything. I pay my balance ***every month***. The system needs to screen who it sends the emails.
 >    
@@ -153,7 +153,7 @@ Additional issues and concerns by a smaller number of Veterans:
 > You people must be crazy. You were paying me because I DIDN'T have any money. What do you not understand about that??? Does anyone have an IQ over 30 at the VA???
 
 **Large amount of debt (n = 1)**
->-   [Agency] says I owe 65,000 in overpayment on CRDP, Why when the CRDP was offset from my retirement
+>-   [Agency] says I owe $--,--- in overpayment on CRDP, Why when the CRDP was offset from my retirement
 	*Concurrent Retirement and Disability Pay*
 
 ## FSR FEEDBACK
@@ -217,7 +217,7 @@ This is consistent with the purpose of the FSR form.
 
 **5. Expressing anger, n = 6**
 
-> *You people are unbelievable. I called up to the VA less than 3 months ago and specifically asked how much I owed you and your reply was $8 and some change. I also explained that I was retired and on a fixed income and could not afford to pay large bills. I asked that VA please bill me monthly so, I could afford to pay my bills and here we are with a $1801.00 bill. I don’t even get that much from my retirement monthly. So how am I expected to pay my bill???????!!!!!! Once again, VA drops the ball and doesn’t give a rip what kind of problems you cause for us Vets. Thanks for nothing.*
+> *You people are unbelievable. I called up to the VA less than 3 months ago and specifically asked how much I owed you and your reply was $- and some change. I also explained that I was retired and on a fixed income and could not afford to pay large bills. I asked that VA please bill me monthly so, I could afford to pay my bills and here we are with a $----.-- bill. I don’t even get that much from my retirement monthly. So how am I expected to pay my bill???????!!!!!! Once again, VA drops the ball and doesn’t give a rip what kind of problems you cause for us Vets. Thanks for nothing.*
 > 
 > 
 > *This is a mess. You took something that worked just find and did what you do best, [expletive] it up.*
