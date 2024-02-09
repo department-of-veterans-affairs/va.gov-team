@@ -65,6 +65,8 @@ ________________________________________________________________________________
      - [Offboarding of [Kelly Smith]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74936)
      - [Offboarding of [Ya-Ching Tsao]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74938)
 - **GOAL: Support Production**
+    - ❗ 🟩 [[CHIP] - High Severity security alert for lodash](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75743)
+        - Brought in after planning because of a security scan
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Integrate with CERNER**
