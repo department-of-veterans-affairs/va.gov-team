@@ -8,15 +8,9 @@ Janelle Finnerty, janelle.finnerty\@oddball.io
 
 [Powerpoint Report](https://dvagov.sharepoint.com/:p:/s/vaabdvro/Eb4PaT37w9BAq5GkGPbym84BqayV_--MOhiE1wRb6pnTCA?e=by1NKB)
 
-[Analytics Findings for ARM Team, 02/2024](#analytics-findings-for-arm-team-022024)
+Jump to section:
 
 [Research Goals](#research-goals)
-
-[Veteran Journey](#veteran-journey)
-
-[Goals](#goals)
-
-[Outcome](#outcome)
 
 [Methodology](#methodology)
 
@@ -24,116 +18,15 @@ Janelle Finnerty, janelle.finnerty\@oddball.io
 
 [Veterans & Claimants](#veterans--claimants)
 
-[Research Questions](#research-questions)
-
-[Veterans](#veterans)
-
-[Claimants](#claimants)
-
-[Hypotheses and Conclusions](#hypotheses-and-conclusions)
-
-[Veterans](#veterans-1)
-
-[Claimants](#claimants-1)
-
 [Representatives](#representatives)
-
-[Research Questions](#research-questions-1)
-
-[Hypotheses and Conclusions](#hypotheses-and-conclusions-1)
 
 [Documents](#documents)
 
-[Research Questions](#research-questions-2)
-
-[Claims](#claims)
-
-[21-22/21-22a](#21-2221-22a)
-
-[21-22/21-22a System Specific](#21-2221-22a-system-specific)
-
-[Hypotheses and Conclusions](#hypotheses-and-conclusions-2)
-
-[Claims](#claims-1)
-
-[21-22/21-22a](#21-2221-22a-1)
-
 [Web Analytics](#web-analytics)
-
-[Research Questions](#research-questions-3)
-
-[Search Terms](#search-terms)
-
-[Web Traffic](#web-traffic)
-
-[Hypotheses and Conclusions](#hypotheses-and-conclusions-3)
-
-[Search Terms](#search-terms-1)
-
-[Web Traffic](#web-traffic-1)
 
 [Recommendations & Next Steps](#recommendations--next-steps)
 
-[Further Research Needed](#further-research-needed)
-
 [Appendix](#appendix)
-
-[Raw Data](#raw-data)
-
-[Veterans & Claimants](#veterans--claimants-1)
-
-[Age of all Veterans and Veterans with representatives on file](#age-of-all-veterans-and-veterans-with-representatives-on-file)
-
-[Race of all Veterans and Veterans with representatives on file](#race-of-all-veterans-and-veterans-with-representatives-on-file)
-
-[Cash benefit receipt among Veterans, 2017](#cash-benefit-receipt-among-veterans-2017)
-
-[Number of Veterans & claimants who filed with a representatives on file, FY 2023](#number-of-veterans--claimants-who-filed-with-a-representatives-on-file-fy-2023)
-
-[Age and race of claimants who filed with a representative on file, FY 2023](#age-and-race-of-claimants-who-filed-with-a-representative-on-file-fy-2023)
-
-[Representatives](#representatives-1)
-
-[Number of representatives, 10/2023](#number-of-representatives-102023)
-
-[Uploads to QuickSubmit, FY 2023](#uploads-to-quicksubmit-fy-2023)
-
-[Documents](#documents-1)
-
-[Claims submitted with and without representation, FY 2023](#claims-submitted-with-and-without-representation-fy-2023)
-
-[Claims submitted with and without representation by Veteran or claimant, FY 2023](#claims-submitted-with-and-without-representation-by-veteran-or-claimant-fy-2023)
-
-[All claims vs decision reviews with representatives on file, FY 2023](#all-claims-vs-decision-reviews-with-representatives-on-file-fy-2023)
-
-[Claims with representatives on file submission method, FY 2023](#claims-with-representatives-on-file-submission-method-fy-2023)
-
-[For FY 2023 (10/2022 - 09/2023), how many 21-22 and 21-22a forms were submitted? (Submitted across Benefits Intake API, EMMS API, Quick Submit, Fax, and Paper Mail.)](#for-fy-2023-102022---092023-how-many-21-22-and-21-22a-forms-were-submitted-submitted-across-benefits-intake-api-emms-api-quick-submit-fax-and-paper-mail)
-
-[For FY 2023 (10/2022 - 09/2023), how many 21-22 form submissions came through Direct Upload (QuickSubmit)?](#for-fy-2023-102022---092023-how-many-21-22-form-submissions-came-through-direct-upload-quicksubmit)
-
-[From 1/1/2023 - 12/12/2023, how many 21-22 submissions were through eBenefits? How many were accepted?](#from-112023---12122023-how-many-21-22-submissions-were-through-ebenefits-how-many-were-accepted)
-
-[How many PoA changes were made in CorpDB each month for FY 2023 (10/2022 - 09/2023)?](#how-many-poa-changes-were-made-in-corpdb-each-month-for-fy-2023-102022---092023)
-
-[How many PoA changes were made in CorpDB each day for the month of November 2023?](#how-many-poa-changes-were-made-in-corpdb-each-day-for-the-month-of-november-2023)
-
-[09/2023 - 11/2023, what are the top doc types that appear with packets containing 21-22/21-22a?](#092023---112023-what-are-the-top-doc-types-that-appear-with-packets-containing-21-2221-22a)
-
-[Web Analytics](#web-analytics-1)
-
-[What are the top search terms on VA.gov for representatives (01/2023 - 11/2023)?](#what-are-the-top-search-terms-on-vagov-for-representatives-012023---112023)
-
-[ARM web combined traffic and top performing pages (06/2023 - 11/2023)](#arm-web-combined-traffic-and-top-performing-pages-062023---112023)
-
-[Tools used for Synthesis](#tools-used-for-synthesis)
-
-[Pages and Applications Used](#pages-and-applications-used)
-
-[Other Supporting Documents Created](#other-supporting-documents-created)
-
-[Secondary Research](#secondary-research)
-
 
 #
 
