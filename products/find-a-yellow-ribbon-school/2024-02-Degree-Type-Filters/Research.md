@@ -215,5 +215,5 @@ We will be running a pilot session by sending out the card sort to members of ou
 **Researcher Contact Information**
 
 * Raquel Eisele 
-email - raquel.eisele@adhocteam.us
-slack - @Raquel
+* email - raquel.eisele@adhocteam.us
+* slack - @Raquel
