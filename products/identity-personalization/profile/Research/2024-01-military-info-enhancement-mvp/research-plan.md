@@ -2,7 +2,7 @@
 
 ## Background
 
-Currently within a veteran’s (auth) Profile, veterans can read minimal information about their service details: namely, which branch(es) they served in and dates of service.
+Currently within a veteran’s authenticated Profile, veterans can read minimal information about their service details: namely, which branch(es) they served in and dates of service.
 
 Recently, VEO asked the VA.gov profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims). 
 
@@ -31,6 +31,7 @@ The research applies at any stage from Starting Up through Aging.
 Our intended outcomes of this research are to: 
 - **use what we learn from veterans to inform the addition of data elements** to the military information section of the profile 
 - **iterate on the organization and hierarchy of information of the design mock-up** to better align with veteran mental models
+- **help determine whether incorporating additional structure** is something we need to consider sooner than later, such as subpages
 
 ### Research questions
 
@@ -43,12 +44,14 @@ Our intended outcomes of this research are to:
 	- How useful is including the start date of each occupation specialty? What about end dates?
 	- What are veteran expectations around deployment locations?
 	- What do veterans do (or want to do) if their MOS data seems incomplete or inaccurate?
+	- Is the amount of information displayed on the section overly long or even overwhelming?
 
 ### Hypothesis
 
 - We will observe similarities and differences between branches, lengths of service, and rank.
 - We will gain insight into veteran mental models around organizing information.
 - We will gather actionable feedback for making iterations on the design mock-up. 
+- We may hear feedback that the military information section is too long or has too much content.
 
 ## Methodology	
 
@@ -65,9 +68,10 @@ The sessions will be conducted remotely via Zoom.
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/conversation-guide.md)
-- [Link to mock-up](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/uuid/7310D865-B1D6-4734-8EA2-078CED280C22) – This is being migrated to Figma
+- [Link to mock-up](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10-6355&mode=design)
 
 ---
+
 ## Recruitment	
 
 ### Recruitment approach
@@ -93,16 +97,14 @@ Possible meeting times for a kick-off:
 	- *NOTE: If a participant has served in more than 1 branch, this can be considered as satisfying 2 completed sessions.*
 - All participants must be willing to give us access to their military service history.
 - All participants must have submitted a disability claim of some kind.
+- All participants must be on a desktop or laptop.
 
 #### **Some participants**
-
 - 50% must have submitted a disability claim specifically under the PACT Act
 - 50% must have served overseas
-- 50% must have served in a combat zone
 - There should be a mix of rank types (enlisted members, warrant officers, and officers)
 
 ##### Demographics
-
 - Participants should be evenly split across genders, ages, races, and education levels
 
 #### Screener questions
@@ -112,7 +114,7 @@ Possible meeting times for a kick-off:
 3. During your time of service, did you ever deploy overseas? (50% must answer `Yes`)
 4. In which locations did you serve? (text box)
 5. In this study, we’d like to learn how we can present your service history in your profile in a helpful way. To prepare for the session, we’ll need to access your service history a few days before the session. Are you willing to give us access to your service history? (100% must answer `Yes`)  
-6. In order to access your service history, we will need your DOB and the email address you use to sign into your account. (text box)
+6. In order to access your service history, we will need your DOB. (text box)
 7. What was your RANK/GRADE? If you have served in more than one branch, please include both.  (text box)
 
 ---
@@ -120,16 +122,14 @@ Possible meeting times for a kick-off:
 ## Timeline
 
 ### Prepare
-
 * Pilot participant email: TBD
 * Date and time of pilot session: TBD
 * Design mock-up is already finalized
 
 ### Research sessions
-
 * Planned dates of research
-	* **Monday, February 19th -  Wednesday, February 21st** (we are aware the 19th is a federal holiday but we would still like to start research on that day)
-	* Thursday, February 22nd can be a back-up day if we have cancelations and need to make up those numbers
+	* **Monday, March 19th -  Wednesday, March 21st** (we are aware the 19th is a federal holiday but we would still like to start research on that day)
+	* Thursday, March 22nd can be a back-up day if we have cancelations and need to make up those numbers
 
 ### Length of sessions
 
