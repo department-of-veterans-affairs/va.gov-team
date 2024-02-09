@@ -1,4 +1,4 @@
-#Feb 9, 2024 | Quick touchbase on TERA with Engineers
+# Feb 9, 2024 | Quick touchbase on TERA with Engineers
 - Attendees: Joshua Drumm, Lihan Li, Heather Justice, Matt Long, Mitch Saltykov, Alex Seelig
 
 Notes
