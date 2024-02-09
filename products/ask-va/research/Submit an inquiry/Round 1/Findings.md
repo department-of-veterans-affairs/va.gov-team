@@ -6,8 +6,6 @@ Last updated by @tygindraux: February 8, 2024
 
 Tyler Gindrax [tyler@bluetiger.digital | tyler.gindraux@va.gov]
 
-[Research readout](add link)
-
 **Jump to:**
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
@@ -112,7 +110,7 @@ Also, Veterans who are familiar with VA.gov feel that the VA encourages them to 
 
 Some Veterans also assume that they'll only be able to ask general questions – and the VA will ask for less personal information – if they don't sign in.
 
-So despite many Veterans choosing to sign in, they don't have all the information to help them make informed decisions about why to sign in, and when it's actually required.
+But Veterans don't have all the information to help them make informed decisions about why to sign in and when it's actually required. For example, if your question is about education benefits or work study.
 
 > "The way I was told and taught by VA is that unless you sign into your account, it's just general. And they don't tell you specifically what's your problem. So usually, I want to sign in directly." P10
 
@@ -172,7 +170,7 @@ _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
 Veterans often identify their health facilities by location rather than the actual name, like "Atlanta VA." 
 
-Even when they said they would search by name, they effectively use the location as the search term. 
+Even when they said they would search by name, many people are effectively using the location as the search term. 
 
 Some Veterans say their search behavior would be different if they aren't already familiar with their VA. 
 
