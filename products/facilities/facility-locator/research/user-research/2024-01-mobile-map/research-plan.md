@@ -48,7 +48,7 @@ The purpose of this research is to get user feedback on design and accessibility
 
 **From existing search page**
 
-What do Veterans and others expect from the location mapping tool?
+1. What do Veterans and others expect from the location mapping tool?
 - Do they interact with the map before trying to search?
 - Are instructions for improving search results clear?
 - How do they navigate search results if they want to learn about multiple locations?
@@ -56,18 +56,18 @@ What do Veterans and others expect from the location mapping tool?
 
 **From the map prototype in staging**
 
-Do Veterans and others understand the distinction between map and list view?  
+2. Do Veterans and others understand the distinction between map and list view?  
 - Do they understand how to toggle between the two views?
 - Is the numbering of search results clear?
 - Do they understand what will happen if they select a numbered result on the map?
 - Do they understand that interacting with the map directly will alter the list of results in list view?
 
-Do Veterans and others understand how to refine and alter map view?  Do they use the zoom functionality? 
+3. Do Veterans and others understand how to refine and alter map view?  Do they use the zoom functionality? 
 - Do they use "Use my location" feature?
 - Do they notice and/or select numbered results on the map? 
 - What do they expect will happen when they do?
 
-Do Veterans and others find the location-specific information relevant and actionable?  
+4. Do Veterans and others find the location-specific information relevant and actionable?  
 - Can they identify which facilities are closest to their desired location?
 - Do they know which phone number to call for general information?
 - Do they understand the purpose of each phone number listed?
@@ -83,13 +83,13 @@ Veterans and others will understand:
 
 ## Methodology	
 We will conduct **remote moderated usability testing** to observe research participants using a coded protoype on mobile devices. 
-- All users must be on mobile devices
-- Half of participants should be assistive tech (AT) users
+- All users must be on **mobile devices**
+- Half of participants should be **screen reader users**
 - Sessions will be conducted over Zoom, and we would like Zoom transcripts
 
 ### Research materials
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment. 
-- Link to conversation guide
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2024-01-mobile-map/conversation-guide.md)
 - [Link to prototype](url goes here)
 
 ### Location
@@ -102,16 +102,16 @@ Remote, via Zoom
 The target audience for our research is Veterans and others. 
 
 ### Recruitment criteria
-Our research participants will be veterans and others, and we will use Perigean to recruit for this moderated study. We’d like to recruit 12 participants for a total of 10 completed sessions:
+Our research participants will be veterans and others, and we will use Perigean to recruit for this moderated study. We’d like to **recruit 12 participants** for a total of **10 completed sessions**:
 
 **Required criteria (in decreasing order of priority)**
-- Must be Veterans, spouses, or caregivers
-- 5 people who use assistive tech
-- Must have a mobile phone and be willing to complete their sessions on this device
-- Must be willing to share their screen on the Zoom call
-- Must have a working microphone
-- Must have Zoom downloaded to their mobile phone prior to the session and know how to share their screen
-- **At least 8** are Veterans
+- All must be Veterans, spouses, or caregivers
+- All must have a mobile phone and be willing to complete their sessions on this device
+- All must be willing to share their screen on the Zoom call
+- All must have a working microphone
+- All must have Zoom downloaded to their mobile phone prior to the session and know how to share their screen
+- 5 should be **people who use screen readers**
+- **At least 8** should be Veterans
 
   
 **Secondary criteria**
