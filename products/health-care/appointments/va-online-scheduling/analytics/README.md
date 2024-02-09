@@ -52,13 +52,13 @@ We run regular testing throughout the year, from concepts to prototypes to UAT o
 ## Objectives
 
 
-### 📈 Increase the percentage of appointments and requests of any type made through VAOS.
+### 📈 Increase number of Veterans who are able to successfully request or schedule an appointment.
 
 [VAOS Key Product Data](https://lookerstudio.google.com/reporting/2d972405-6655-4718-85d6-4bdd56c4e858/page/p_rxu0pq17qc) (Google Data Studio)
 - What's the source data for this chart?
 
 
-### 📈 Increase satisfaction across all flows and in the list.
+### 📈 Increase veteran satisfaction rates of the MHV Appointments experience.
 
 Not currently tracked:
 - We could track overall VA satisfaction through Medallia
@@ -75,10 +75,12 @@ Not currently tracked:
 
 ### Veterans understand how to navigate the appointments tool.
 
+How should we measure this? We could gather this info through UAT. It'd be nice if there was an automated/unmoderated way to test this...
+
 
 ### Veterans can find all the information they need about their appointments by using the tool.
 
-- Medallia feedback: data issues decrease
+- Medallia feedback: data issues decrease.
 - User research: no new data requests come in, all data is clear
 
 ### Veterans have all the tools they need to manage their appointments.
