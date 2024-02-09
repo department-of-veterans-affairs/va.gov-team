@@ -63,17 +63,10 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 
 *Account number retrieval difficulty:*
 
-> I owe $---0 to you due to an overpayment. I do not have any problem
-> giving you this money but your payment system is so [expletive]
-> retarted I can not pay it online. I am currently overseas on a
-> deployment and am out during your business hours so I have not been
-> able to call. All I want to do is provide you my [expletive] credit
-> card number and have you guys bill that like every other website where
-> I pay someone. But here I need my hard copy bills to give you a
-> [expletive] number that you already have. Problem is, the bills are
-> not available online, so send it to collections and let me get a
-> credit score hit over $--- because the VA website is the worst.
-> (January 2024)
+> I owe $ --- to you due to an overpayment. I do not have any problem giving you this money but your payment system is so [expletive] retarted I can not pay it online. I am currently overseas on a deployment > and am out during your business hours so I have not been able to call. All I want to do is provide you my [expletive] credit card number and have you guys bill that like every other website where I pay
+> someone. But here I need my hard copy bills to give you a [expletive] number that you already have. Problem is, the bills are not available online, so send it to collections and let me get a credit score
+> hit over $ --- because the VA web site is the worst. (January 2024)
+
 
  *  Payment not updated
 
