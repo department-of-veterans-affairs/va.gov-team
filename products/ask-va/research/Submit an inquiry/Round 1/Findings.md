@@ -100,7 +100,7 @@ Concerns about who will see their information and answer their question make Vet
 
 > "[I'd like to know] where the question was going to [...] I want to feel like the skilled people are handling this issue." P1
 
-**Note:** [This study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md) found that, "users were unsure what to put for 'Veteran's Service Number,' most thought it was their Social Security number."
+**Note:** [This Ask VA study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-04/research-plan.md) found that, "users were unsure what to put for 'Veteran's Service Number,' most thought it was their Social Security number."
 
 ### Finding 2: Many Veterans will choose to sign in so their information is pre-filled, but don't fully understand when sign in is required to use Ask VA.
 
@@ -124,7 +124,7 @@ But Veterans don't have all the information to help them make informed decisions
 
 > "If I chose not to sign in, I would expect a lot of these screens not to exist. [If I] signed in, I would expect that information to already be linked to [me]." P5
 
-**Note:** [This study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) found that, "while noting the benefits of the authenticated experience, [participants] expressed interest in an anonymous path for asking general questions." It also found that, "[participants] expect the authenticated experience to bypass the need to input the most sensitive information." And [this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md) found that, "all participants expressed interest, or preference, in logging in to complete the form."
+**Note:** [This Ask VA study](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/193) found that, "while noting the benefits of the authenticated experience, [participants] expressed interest in an anonymous path for asking general questions." It also found that, "[participants] expect the authenticated experience to bypass the need to input the most sensitive information." And [this Ask VA study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iris/research/ava/2021-07/research-plan.md) found that, "all participants expressed interest, or preference, in logging in to complete the form."
 
 ### Finding 3: As Veterans get further into the form, they become more unsure about what progress they've made and what to expect next.
 
@@ -234,7 +234,7 @@ And some Veterans suggested concepts that are similar to other VA services, such
 
 > "[It says] sign in or create an account if you have questions about education benefits. Is there going to be a separate window for other benefits?" P5
 
-**Note:**** [This study](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/1?filterQuery=chatbot&pane=issue&itemId=21794312) found that, "due to the amount of information and segmentation of experience for different VA touchpoints, many users struggle to find information that suits their needs."
+**Note:** [This chatbot study](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/1?filterQuery=chatbot&pane=issue&itemId=21794312) found that, "due to the amount of information and segmentation of experience for different VA touchpoints, many users struggle to find information that suits their needs."
 
 ## Additional insights
 
