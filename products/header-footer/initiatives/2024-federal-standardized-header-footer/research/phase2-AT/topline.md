@@ -48,10 +48,11 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 ### Content feedback to consider
 1. See **Footer issue #3** above.
 1. See **Footer issue #4** above.
-1. Two participants **didn't know what the "Business" link was** in the blue footer was. One said it might be about having your own business.
+1. Two participants **didn't know what the "Business" link was** in the blue footer was. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
 1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
-
-
+1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
+1. One participant **wanted to see information specifically for seniors** or geriatrics since there are already so many other links for other kinds of Veterans. He would like to see information on activities for seniors (e.g., day programs, the Senior Olympics) and medical links (e.g., how to get tested for Alzheimers). He said *"I feel discriminated against" (p9).*
+1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identies, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
 
 ### How recognize as an official government website
 12. Most (TBD of 9) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
