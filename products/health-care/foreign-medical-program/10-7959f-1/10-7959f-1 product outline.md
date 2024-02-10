@@ -71,19 +71,18 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Digital signature with date stamp accepted by FMP team
   - PDF output of completed form with required meta data and unique identifier
   - Integration with PEGA for forms and documents
-  - Authenticated experience
+  - Authenticated (and unauthenticated?) experience
   - End to end testing with PEGA
 - **Out of scope**:
   - Integration with VES (this will need to be addressed in the future)
   - Checking for eligibility requirements
-  - VBMS/VIS interoperability
+  - Interoperability
 - **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
   - Integration with PEGA is still being developed and need better understanding of how files will be handled with this solution (more details [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md))
 - **Other considerations**:
   - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
-  - VA notify(?)
-  - notifications in general
+  - VA notify(?) and notifications in general
   - handling for mobile app 
 
 --- 
