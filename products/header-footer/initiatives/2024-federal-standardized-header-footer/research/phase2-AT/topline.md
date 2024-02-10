@@ -48,7 +48,8 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 ### Content feedback to consider
 1. See **Footer issue #3** above.
 1. See **Footer issue #4** above.
-1. Two participants **didn't know what the "Business" link was** in the blue footer was. One thought maybe it was about having your own business.
+1. Two participants **didn't know what the "Business" link was** in the blue footer was. One said it might be about having your own business.
+1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
 
 
 
