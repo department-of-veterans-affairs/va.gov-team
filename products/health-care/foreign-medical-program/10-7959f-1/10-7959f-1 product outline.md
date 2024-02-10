@@ -176,7 +176,8 @@ Key deliverables:
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+- FMP
+- OIT
  
 </details>
 
