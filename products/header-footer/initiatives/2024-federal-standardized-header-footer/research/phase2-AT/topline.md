@@ -29,10 +29,10 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. After opening the Auth menu, **all participants recognized and clicked on *Profile***, which was the correct navigation path. 
 
 ### Footer issues
-1. **4 participants (3 desktop, 1 mobile) misperceived the bottom of the page and didn't see any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them stopped scrolling at the blue VA footer, and 1 stopped at the white USA logo. One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 2 participants from both phases of research.
-1. **3 participants interpreted the footer as only the black federal part**, and then when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
-1. **3 participants looked for *Find a VA Location* in the blue VA  footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. 
-1. **2 participants said that the blue VA part is too large** and has too many links. One person in phase 1 said the same thing, so that's a total of **3 people from both phases of research.**
+1. **Four participants (3 desktop, 1 mobile) misperceived the bottom of the page and didn't see any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them stopped scrolling at the blue VA footer, and 1 stopped at the white USA logo. One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 2 participants from both phases of research.
+1. **Three participants interpreted the footer as only the black federal part**, and then when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
+1. **Three participants looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not.)
+1. **Two participants said that the blue VA part is too large** and has too many links. One person in phase 1 said the same thing, so that's a total of **3 people from both phases of research.**
 
 ### Header issues
 1. 
@@ -46,6 +46,11 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. p11 (desktop with the font enlarged ~150%) said that they would **prefer a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
 
 ### Content feedback to consider
+1. See **Footer issue #3** above.
+1. See **Footer issue #4** above.
+1. Two participants **didn't know what the "Business" link was** in the blue footer was. One thought maybe it was about having your own business.
+
+
 
 ### How recognize as an official government website
 12. Most (TBD of 9) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
