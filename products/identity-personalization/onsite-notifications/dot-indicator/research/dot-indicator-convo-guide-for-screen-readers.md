@@ -59,9 +59,9 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button a
   
 - How do you think each of these notifications that are being read to you would no longer be there and it would just be a plain link?
 
-- What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages** *Need to decide what the aria label should be if we end up including a dot for this link*
+- What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
 
-- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have prescription status updates** *Need to decide what the aria label should be if we end up including a dot for this link*
+- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **There are updates with your prescriptions and refills**?
 
 ## Thanks and Closing - 2 minutes
 
