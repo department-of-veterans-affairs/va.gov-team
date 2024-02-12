@@ -8,7 +8,7 @@ This doc gives an overview of Ask VA’s background, from the Inquiry Routing & 
 |November 2002|VA replaces the pilot with a customized commercial product: RightNow Technologies E-Service Center. [1]|
 |2011|Oracle acquires RightNow Technologies, Inc. RightNow Customer Service changes to Oracle Service Cloud. [2]|
 |Oct to Dec 2020|OCTO launches "Resources & Support" section on VA.gov. This replaces knowledge articles previously available on IRIS.[5][6]|
-|October 18, 2021|VA replaces IRIS and the GI Bill Help Portal with Ask VA. Ask VA is built in a Microsoft Dynamics 365 CRM instance. Veterans can submit a question through the Dynamics 365 portal (now known as a Microsoft Power page). [3] [4]|
+|October 18, 2021|VA replaces IRIS and the GI Bill Help Portal with Ask VA. Ask VA is built in a Microsoft Dynamics 365 CRM instance. Veterans can submit a question through the Dynamics 365 portal (now known as a Microsoft Power page). [3] [4] The MHV help desk, originally also a part of IRIS, diverged from this and now has a [separate contact form](https://www.myhealth.va.gov/contact-us).|
 |June 2023|Ask VA VA.gov team from OCTO starts work to redesign the front-end of Ask VA and move it to VA.gov. Starts collaboration with Ask VA CRM team, which includes stakeholders from the Veteran Experience Services (VES) team and the Multi-Channel Technology (MCT) Directorate team.|
 
 ## Learn more
