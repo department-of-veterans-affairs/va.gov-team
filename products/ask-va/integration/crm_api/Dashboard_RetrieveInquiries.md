@@ -7,7 +7,7 @@
 **Path**: /inquiries
 
 **Parameters**:
-None
+inquiryNumber (optional)
 
 **Headers**:
 | Name | Type | Description |
@@ -77,6 +77,7 @@ None
 
 ## Notes
 
+* UPDATE: When provided, the ICN will be used to filter the full list of inquiry elements. If the ICN is not provided, the `inquiryNumber` is required and a single inquiry entity will be returned. In either scenario, the results will be displayed in the Dashboard. The user will have to drill down to see any details, attachments, or replies.
 * The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
 * The `Authorization` and `ICN` header values will only be included for users that are logged in.
  
