@@ -305,15 +305,12 @@ Your phone number (*Required)
 {Input field}
 ```
 
-```diff 
+```
 
-- What are the best times for us to call you? (*Required)
-- {Checkbox} Morning (8:00 a.m. - noon)
-- {Checkbox} Afternoon (noon - 4:00 p.m.)
-- {Checkbox} Evening (4:00 p.m. - 8:00 p.m.)
-
-
-@@ GH50990 @@
+What are the best times for us to call you? (*Required)
+{Checkbox} Morning (8:00 a.m. - noon)
+{Checkbox} Afternoon (noon - 4:00 p.m.)
+{Checkbox} Evening (4:00 p.m. - 8:00 p.m.)
 
 ```
 
@@ -413,12 +410,8 @@ Your contact details         {link}Edit
 
 ```
 
-``` diff
-
-- Call {morning, afternoon, evening}
-
-@@ GH50990 @@
-
+```
+Call {morning, afternoon, evening}
 ```
 
 **PROGRESS BUTTONS**

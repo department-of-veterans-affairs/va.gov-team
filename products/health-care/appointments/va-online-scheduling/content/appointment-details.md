@@ -1506,7 +1506,7 @@ Breadcrumb: `< Back to [H1 of previous page]`
 
 **PAGE CONTENT**
 
-```diff
+```
 Preferred community care provider
 {Provider name}
 
@@ -1521,8 +1521,7 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
+Call {morning, afternoon, evening}
 ```
 
 ```diff
@@ -1597,7 +1596,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE CONTENT**
 
-```diff
+```
 Preferred community care provider
 {Provider name}
 
@@ -1612,8 +1611,7 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
+Call {morning, afternoon, evening}
 ```
 
 ```diff
@@ -1686,7 +1684,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE CONTENT**
 
-```diff
+```
 Preferred community care provider
 {Provider name}
 
@@ -1701,8 +1699,7 @@ You shared these details about your concern
 Your contact details
 Email: {Email address}
 Phone number: {phone number}
-- Call {morning, afternoon, evening}
-@@ GH50990 @@
+Call {morning, afternoon, evening}
 ```
 
 ```diff
