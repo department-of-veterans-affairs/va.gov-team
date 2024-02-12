@@ -152,7 +152,7 @@ Communication to OCTO stakeholders
 - [ ] Discussion with Beth/Randi on VBA/NCA contacts - Danielle
 - [x] Share with benefits portfolio - 1/23
 - [ ] Share with Chris - Danielle's 1:1
-- [ ] Share with health portfolio - 1/23
+- [ ] Share with health portfolio 
 
 Initial communication to all impacted stakeholders
 - [ ] Present to the survivor group (Danielle to reach out to Melissa R to schedule)
