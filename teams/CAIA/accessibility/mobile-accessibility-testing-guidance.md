@@ -115,4 +115,12 @@ Currently, alternative input methods aren't well tested. In the future it is rec
 ## Tools and FAQ
 ### Useful bookmarklets
 ### How to pair a phone's browser with a desktop computer's browser's developer tools
-### Using the Accessibility Inspector tool with iOS
+#### Pairing with Safari’s developer tools
+
+Safari on iOS doesn’t include [Developer Tooling](https://developer.apple.com/safari/), but you can connect desktop Safari’s developer tools to a running simulator or real iOS device. To do this you need to first enable “Developer mode” in Safari on your Desktop. Do this by launching Safari and navigating to preferences. From there select “Advanced” and then check the box near the bottom labeled “Show Develop menu in the menu bar.” This is a one-time action, and the selection will persist moving forward.
+
+Once developer mode is enabled on desktop Safari you’ll have a new option in the menubar labeled “Develop.” Open a web page in Safari on the simulated device. Once you have opened a page in Safari on the simulated device, click on the “Develop” menu and select your running simulator. This will launch a floating developer tools window focused on the simulator’s Safari window; from here you can use dev tools as expected! 
+
+If you rely on plugins or bookmarklets to run automated accessibility tests, usually those won’t be available to you from the desktop to the simulator – you can use bookmarklets from the simulator, though. [Here is a collection of useful bookmarklets to save on Safari in the simulator for testing with.](https://pauljadam.com/bookmarklets/) They can be a bit difficult to configure on mobile, though. [Here are directions to help with that process.](https://www.cultofmac.com/500532/how-to-add-bookmarklet-mobile-iphone-safari/#:~:text=The%20easiest%20way%20to%20install,on%20your%20iPad%20or%20iPhone.)
+
+#### Pairing with Chrome's developer tools
