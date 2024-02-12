@@ -215,6 +215,8 @@ Note: The following demographic criteria is our goal, but we understand that his
 -   At least 4 of 20 non-native English speakers
     
 -   At least 3 of 20 people who use a screen reader
+
+-   Special request to Perigean: please share the income level of participants, and the educational level 
     
 #### Secondary criteria (nice-to-haves)
 
