@@ -90,7 +90,9 @@ We recommend testing zoom level by adjusting the browser settings. These have th
 
 To update the browser zoom settings on iOS launch the settings application, select or search for "safari" and scroll to the item labeled "Page Zoom." There, you can configure the browser's zoom level. 
 
-To update the browser zoom settings using Chrome on Android go to settings in the Chrome application, and select the "accessibility" option. There, you should find a slider where you can adjust the browsers zoom level. 
+To update the browser zoom settings using Chrome on Android go to settings in the Chrome application, and select the "accessibility" option. There, you should find a slider where you can adjust the browser's zoom level. 
+
+To update the browser zoom settings in the Samsung default browser launch the app and navigate to settings. In the settings menu select "appearance." There, you should find an optioned for "webpage text size." Selecting that will present a slider that will allow you to adjust the browser's zoom level.
 
 #### Portrait orientation
 
