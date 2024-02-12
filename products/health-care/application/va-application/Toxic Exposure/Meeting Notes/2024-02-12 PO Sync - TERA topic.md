@@ -2,58 +2,64 @@
 
 
 - Notes
-     - Patrick
+     - **Patrick**
           - Update on VES
                - No update
                - Waiting for confirmation from VES on receiving a flag/indicator to trigger a manual workflow - April 1st?
           - Reached out to see if this is statutory thing, or if we can push out to April
           - People are starting to talk about how expanded eligibility starts March 5th
-               - Use TERA on EZ
-               - Not available until summer
-               - Everyone looked at each other
-          - Dots did not connect between policy people and implementation people until a few weeks ago
-               - Unfortunately BAU for how VA works
+               - Dots did not connect between policy & implementation groups until a few weeks ago
           - Main concern is expansion of eligibility is the first time there is a very clear path to apply for health care without getting a disability rating
-               - Usually file, get rating, apply to VHA, get PG, get care
+               - Usually the process is to file, get rating, apply to VHA, get PG, get care
                - This expansion allows Veterans to skip compensation and just get care
-               - If not available, then the announcement goes out but they can’t apply
+               - If not available online, then the announcement goes out but they can’t apply
                - Not a good look to store and not actually go anywhere yet, but it is the only best option to at least make it available online
                - Could guide Veterans to file paper forms if they want to indicate TERA
-     - Kristen
+     - **Kristen**
           - Eventually will be in VISTA in Environmental factors
                - Does it impact TES reminder, etc
                - Meeting with Toxic group on Friday
-     - Patrick
-          - HEC - True/false flag in April
-               - Deliver April ??
-               - Send flag
-               - Figure out a way to get the data to the processor
-               - Possibly follow up via call if data cant go
-          - Need to figure out how to make this a digital option
-          - Put pressure on VES
-               - Delivery 3/5
+     - **Patrick**
+          - We may be able to send a True/false flag in April
+               - Deliver April (actual date TBD)
+               - Send flag that TERA question is Yes or No
+               - Figure out a way to get the data to the processor (JSON, PDF, etc)
+               - Possibly follow up via HEC call to Veteran if data cant go to VES
+          - HEC/VES
+               - Needs to figure out how to make this a digital option
+               - HEC needs to put pressure on VES
+                    - If they want Delivery 3/5
+               - Let’s check in on Wednesday morning to see where we are on this
+                    - Determine what to discuss with 
+          - Decision made to deliver this in March
+               - White House directed - decided we are doing this in March
           - 60-day limitation
                - Don’t spend too much time on this
                - A week/couple weeks is the thought here
                - Definitely do not want to make this a longer solution
-          - Go-forward plan
-               - Store in VA.gov db
-               - Build Yes/No
-                    - Consider plan on sending data to VES for manual processing
-          - HEC
-               - Let’s check in on Wednesday morning to see where we are on this
-               - Determine what to discuss with 
-          - Decision made to deliver this in March
-               - White House directed - decided we are doing this in March
-     - Hieu presented screen number impacts to the Veteran for EZR and EZ
-     - Patrick
-          - Expectation 
-               - Prefill from 526?
-               - There is appetite for making this more seamless between VBA and VHA
+     - **Hieu**
+          - Presented screen number impacts to the Veteran for EZR and EZ
+     - **Patrick**
           - Submitting the application
                - Store only 
-               - Then submit with TERA data
+               - Then submit with TERA data when VES is ready
+                    - Need to determine how we can do this
           - March 5th 
-               - If VES does not have a plan, we will not release
+               - If VES does not have a plan, we will not release as we do not/can not want to hold data indefinitely
                - We do not want to store the data for more than a couple weeks
-               - If someone comes out with a plan to get data to VES in a shorter timeframe, we will not be ready and will communicate that.
+               - If someone comes out with a plan to get data to VES in a shorter timeframe, we will not be ready by 3/5 and will communicate that
+           - Future state expectation - Prefill
+               - Prefill from 526ez
+               - There is appetite for making this more seamless between VBA and VHA
+
+               
+- **Next Steps**:
+     - Keep working on VA.Gov DB solution. The chances of a 60+ day hold in a VA.Gov DB seem slim to none so we don't need to worry about that at this point.
+     - Stay agile and await further instructions on implementation (VA.Gov DB, VES TERA flag, launch date, etc.)
+     - Follow up with VES team on
+          - A) Figuring out how to get data from VA.Gov DB to VES,
+          - B) Sending over TERA/No TERA Flag,
+          - C) Sending over Tera/No TERA Flag and TERA question data
+     - Come up with workflow that directs Veteran to filling our EZ PDF (as discussed above)
+     - Continue investigating ways to push/pull data to/from VBA (this is part of the longer term solution)
+     - Come up with HEC Agenda (we'll know more about what they know tomorrow)
