@@ -16,7 +16,7 @@ There are nine new WCAG 2.2 success criteria. Two are Level A success criteria, 
 
 1. [2.4.13 Focus Appearance](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html) (**Level AAA**)
 2. [2.4.11 Focus Not Obscured (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html) (**Level AA**)
-3. [2.4.13 Focus Not Obscured (Enhanced)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html) (**Level AAA**)
+3. [2.4.12 Focus Not Obscured (Enhanced)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html) (**Level AAA**)
 4. [2.5.7 Dragging Movements](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html) (**Level AA**)
 5. [2.5.8 Target Size (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html) (**Level AA**)
 6. [3.2.6 Consistent Help](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html) (**Level A**)
@@ -30,7 +30,7 @@ This criterion weighs in on the focus indicator minimum contrast and size. There
 ### 2.4.11 Focus Not Obscured (Minimum) - Level AA
 Ensures that the item receiving focus is not entirely hidden by other content created by the author. The minimum version of this requirement requires only that where other content overlaps an item receiving focus, it does not do so entirely.
 
-### 2.4.13 Focus Not Obscured (Enhanced) - Level AAA
+### 2.4.12 Focus Not Obscured (Enhanced) - Level AAA
 This success criterion is similar to criterion 2.4.11 above, but states that "no part of the focus indicator is hidden by author-created content." It requires that the whole of the component is visible.
 
 ### 2.5.7 Dragging Movements - Level AA
