@@ -14,7 +14,7 @@ WCAG 2.2 is an active recommendation from the [Accessibility Guidelines Working 
 ## What is new in WCAG 2.2
 There are nine new WCAG 2.2 success criteria. Two are Level A success criteria, four are Level AA, and two are Level AAA.
 
-1. [2.4.11 Focus Appearance](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html) (**Level AAA**)
+1. [2.4.13 Focus Appearance](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html) (**Level AAA**)
 2. [2.4.12 Focus Not Obscured (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum.html) (**Level AA**)
 3. [2.4.13 Focus Not Obscured (Enhanced)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced.html) (**Level AAA**)
 4. [2.5.7 Dragging Movements](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html) (**Level AA**)
@@ -24,7 +24,7 @@ There are nine new WCAG 2.2 success criteria. Two are Level A success criteria, 
 8. [3.3.8 Accessible Authentication (no exception)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception.html) (**Level AA**)
 9. [3.3.9 Redundant Entry](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html) (**Level A**)
 
-### 2.4.11 Focus Appearance - Level AAA [*at risk*]
+### 2.4.13 Focus Appearance - Level AAA [*at risk*]
 This criterion weighs in on the focus indicator minimum contrast and size. There is also a note that the entire focus indicator "encloses the user interface component or sub-component that is focused."
 
 ### 2.4.12 Focus Not Obscured (Minimum) - Level AA
