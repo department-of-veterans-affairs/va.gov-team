@@ -1,4 +1,4 @@
-# Research Plan for Supply Reordering, Health Portfolio, January 2024
+# Research Plan for Supply Reordering Usability Test, Health Portfolio, February 2024
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -17,57 +17,46 @@ Where does your product fit into the Veteran journey? This product would fall in
 What are you trying to learn from this research? 
 
 Goal 1: Understand how Veterans currently order and re-order supplies
-Goal 2: Get insight into usability/navigation concerns, (i.e - how are error states understood)
+Goal 2: Evaluate if the current form is understandable and useful across participants. 
 
 ### Outcome
 We want to determine if the current process is serving Veterans' needs and is as intuitive as possible for the future state of this product. How can the process improve?
 
 ### Research questions
 
-- How do people know when to reorder? - Understanding of proactive notification.
-- Are there reminders that are already happening? (Word, so you will hear about more than digital solutions)
-- Prioritization of other devices (might be more of a metrics review)  - Are we missing any?
-- How do Veteran find out about the device reordering process? Is it unique that VA provides this for free? Outside VA they would have to pay?
-- If a supply isn't available and you are told to talk to your provider, then how would you do that? (note: how many mention SM?)
+1. Are users able to navigate to the "Order CPAP supplies" page from an unauth and auth state?
+2. What are user's reactions to and understanding of the current production tool?
+	- Is it clear that the form my include hearing aid supplies and CPAP supplies?
+	- Is it clear to users why some supplies are available and some are not?
+3. How do people know when to reorder? - Understanding of proactive notification.
+4. Are there reminders that are already happening? (Word, so you will hear about more than digital solutions)
+5. Prioritization of other devices (might be more of a metrics review)  - Are we missing any?
+6. How do Veteran find out about the device reordering process? Is it unique that VA provides this for free? Outside VA they would have to pay?
+7. If a supply isn't available and you are told to talk to your provider, then how would you do that? (note: how many mention SM?)
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
-The intention of this study is to figure out how to further improve the Supply Reordering tool for Veterans. Currently, many Veterans are using the supply reordering tool for sleep apnea supplies, we don't have a full picture of their pain points in the process, just that orders are being completed and sent to DLC. 
-
-- Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-- Most likely there are no real reminders that are currently with clinician
-- We will not really capture any other supplies outside of what DLC has requested us to add to the tools
-- Veterans probably find out about the reordering process from their VA provider
-- Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
+Hypothesis 1 : Participants will look to search "CPAP supplies" and find the page from there, since there is no link in the header or health hub
+Hypothesis 2 :  Participants will get through the tasks of ordering the supplies relatively easily 
+Hypothesis 3:  Participants will want to know how to change supplies, or 
+Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
+Hyopthesis 5: Most likely there are no real reminders that are currently with clinician
+Hypothesis 6: We will not really capture any other supplies outside of what DLC has requested us to add to the tools
+Hypothesis 7: Veterans probably find out about the reordering process from their VA provider
+Hypothesis 8: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
 
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - The bulk of the study will be interview-style, the questions will allow us to have a better baseline understanding of how Veterans currently reorder supplies and also highlight anything in the process we are missing. 
-- Usability testing - This will be on production to test some usability questions we have for the current form.
+We will conduct remote usability and interview sessions on Zoom. The interviews will consist of a combination tasks and direct questions.
+We will conduct the study in the staging environment. with a test user created specifically for the study. 
   
 ### Location
 Will be remote on Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Production link](https://www.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form/introduction)
-
-For [unmoderated testing:](will be done on optimal workshop) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- Conversation guide [Link to conversation guide](url goes here) 
 
 
 ## Recruitment	
@@ -94,8 +83,27 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
+All participants:
 - Have you been prescribed a medical device by a VA Medical Provider in the past 5-10 years?
 - LOA Level 3
+- Must be veterans or caregivers 
+- Must have a computer or mobile phone and be willing to complete their sessions on this device
+- Must be willing to share a web browser window on the Zoom call
+- Must have a working microphone
+- Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
+- Must have signed into VA.gov or My HealtheVet, for any reason and need to know their login information 
+
+Some participants:
+
+- 4 people who use screen readers on desktop 
+- At least 4 people with identify as having a cognitive considerations
+- 6 people who can join the session from a smartphone
+- At least 3 people who are 55+, but not more than 8
+- 6 people who identify as a race other than White/Caucasian
+- 6 people who identify as a gender other than male
+- 8 people who currently receive health care through VA
+- 4 people who don't currently receive health care through VA, but have other VA benefits.
+  
   
 
 > Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
@@ -114,17 +122,13 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: January 25th, 2024 - February 2nd, 2024 
-
+* Planned dates of research: 
 ### Length of sessions
 * Session length: <1 hour 
 * Buffer time between sessions : 30 minutes 
 * Maximum Sessions per day: 4
 
-
-
 ### Availability
-January 25th - February 2nd 
 | Day | Date | Times (Eastern time zone) |
 | --- | --- | --- |
 | Thursday | January 25th | 8:00am – 4:00pm, 5:00pm – 8:00pm |
