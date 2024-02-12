@@ -26,7 +26,7 @@ Finally, your identity will be kept confidential, and any information we take aw
 
 Do you have any questions for me? [opportunity to ask questions]
 
-Just want to ensure the next 60 minutes are still good for you today? [time expectations]
+Just want to ensure the next 1 hour and 15 minutes are still good for you today? [time expectations]
 
 -   Are you comfortable if I record my screen and audio as we talk today? We use the recordings to ensure we’ve captured your feedback accurately.  
       
