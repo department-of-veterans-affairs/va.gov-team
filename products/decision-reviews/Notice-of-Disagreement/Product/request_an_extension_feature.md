@@ -25,7 +25,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* TBD
+The latest PDF version of the Board Appeal (Notice of Disagreement) form allows Veterans to request an extension and confirm if they are appealing a denial of benefits by the Veterans Health Administration (VHA). This update to the VA.gov form brings it into parity with the PDF version. 
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
