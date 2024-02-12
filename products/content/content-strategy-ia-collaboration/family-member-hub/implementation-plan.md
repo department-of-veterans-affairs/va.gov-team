@@ -3,6 +3,7 @@
 **Jump to:**
 
 - [Product impacts](#product-impacts)
+- [Follow on research needs](#research)
 - [Roll-out approach](#roll-out)
 - [Stakeholders](#stakeholders)
 - [Next steps](#next-steps)
@@ -71,6 +72,33 @@ _All products, content areas, and navigation elements impacted by this effort th
   - No changes needed at this time. CAIA to determine any best bet changes.
 
 
+## Follow on research needs <a id="research"></a>
+_Any additional research needed prior to or after implementation_
+
+1. Hub and landing page design
+    - Focus areas
+      - Evaluation of tags vs grouped links on the hub landing page - what can help family members in specific life stages (i.e. survivors or caregivers) more easily find benefits that fit their needs
+      - Evaluate the effectiveness and need of the manage and resource links
+      - Evaluate the effectiveness of the additional benefits and helpful tools sections
+      - Evaluate the effectiveness of the related section
+    - Type: Qual
+    - Timing: during or after implementation
+2. Overall family member hub impact
+    - Focus area
+      - Performance of the family member hub
+      - Impact to Veteran hub experience
+    - Type: Qual
+    - Timing: post-launch
+3. Service member hub
+    - Focus area:  Why is the service member hub a somewhat common destination for some get and manage tasks.
+    - Type: Qual
+    - Timing: any
+4. Findability of key topics
+    - Focus area:  Findability of accrued benefits and fiduciary
+    - Type: Undetermined
+    - Timing: any
+
+
 ## Roll-out approach <a id="roll-out"></a>
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
@@ -90,6 +118,7 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - Complete any design and development work needed to support moving forms/tools to their new location
 - Move any existing content pages
 - Implement redirects
+
 
 
 ## Stakeholders <a id="stakeholders"></a>
