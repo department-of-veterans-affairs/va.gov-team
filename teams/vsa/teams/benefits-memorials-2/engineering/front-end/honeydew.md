@@ -4,6 +4,7 @@ Let's make a list of pages/components/functionality that could use some extra lo
 
 ## Other
 - [ ]  DOCUMENTATIONNNNNNNNNNNNNN - add more! -- make time (and tickets) to add more
+- [ ]  Update all `input`s to use platform components
 
 ## FSR Changes
 - [ ] **Naming conventions** - Some of the internal page names are a little misleading and could be made a little more clear (i.e. stuff with 'enhanced' in the name should probably be renamed since that's specific to releases and it should be more agnostic)
