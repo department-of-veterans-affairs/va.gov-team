@@ -110,7 +110,7 @@ Complete the entire flow with the device locked to landscape orientation at 300%
 
 ### The future, Voice Control and other alternative input methods
 
-Currently, alternative input methods aren't well tested. In the future it is recommended that research be conducted to understand where Veteran needs are, and expand this testing guidance to support those findings. 
+Currently, alternative input methods aren't well tested. In the future it is recommended that research be conducted to understand where VA.gov users needs are, and expand this testing guidance to support those findings.
 
 ## Tools and FAQ
 ### Useful bookmarklets
