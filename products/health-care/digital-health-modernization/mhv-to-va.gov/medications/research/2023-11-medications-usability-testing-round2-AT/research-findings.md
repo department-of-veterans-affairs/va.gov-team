@@ -6,7 +6,7 @@ Date: 12/07/2023
 
 Ade Ajayi [Adebolanle.Ajayi@va.gov](mailto:Adebolanle.Ajayi@va.gov)
 
-[Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT/rx-round2-findings.pdf)
 
 **Content:**
 
