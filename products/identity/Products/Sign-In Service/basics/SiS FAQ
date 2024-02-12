@@ -1,17 +1,55 @@
 # Welcome to Sign-in Service Onboarding Help
 
+# Frequently Asked Questions
+- [Question 1](#Question_1)
+- [Questions 2?](#Questions_2?)
+- 
+
+## [General](#General)
+
 ## Stages in Onboarding 
 
 ## Onboarding Requirements
 
 ## Testing
 
+## Error Messages
+
 ## Case Studies
-- ## Authorization Parameters
+
+## Contact
+
 
 | Stage | Description |
-| --- | --- | --- | --- |
-| `type` | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
-| `client_id` | A unique name identifying your ClientConfig. | String | `sample_client_web`, `sample_client_api` |
-| `acr` | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
-| `code_challenge` | Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
+| --- | --- | 
+| `1` | Name  | 
+| `2` | Name |
+| `3` | Name  | 
+| `4` | Name |
+
+
+# General
+**From which services does SiS ultimately pull user data?**
+
+Yes we still use MPI.
+
+**Why should it be using a different UUID for the VAOS Session? **
+
+The Accounts table is being deprecated in favor of User Accounts, but Accounts technically works and the VAOS::Session Service is still using it for sessions.
+
+You fixed a review instance for us. Do we have to let you know if this ever breaks? 
+Yes, we don’t actively use review instances; you'll be the ones to find out first if they broke.
+
+
+
+<a name="Question-1"></a>
+## Question 1
+
+I think so
+
+<a name="Questions-2?"></a>
+## Questions 2?
+
+Mostly
+
+
