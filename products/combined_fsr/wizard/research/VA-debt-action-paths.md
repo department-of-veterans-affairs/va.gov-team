@@ -2,9 +2,13 @@
 
 ## Index:
 VA healthcare copays
+
 VA disability compensation, education, or pension benefits  
+
 Attorney fees
+
 Rogers STEM Program
+
 VET TEC Program
   
 ## Purpose:
