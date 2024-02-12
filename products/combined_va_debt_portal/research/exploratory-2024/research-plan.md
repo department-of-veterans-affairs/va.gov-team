@@ -311,7 +311,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Length of sessions
 
--   Session length: 60 minutes
+-   Session length: 75 minutes
     
 -   Buffer time between sessions: 1 hour
     
