@@ -243,8 +243,6 @@ Note: The following demographic criteria is our goal, but we understand that his
     
 -   At least 3 of 20 people who use a screen reader
     
-Secondary criteria (nice-to-haves) What criteria would strengthen your results?
-
 #### Secondary criteria (nice-to-haves)
 
 -   At least 4 of 20 people who live in a rural or remote area
