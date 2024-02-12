@@ -38,15 +38,24 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 ### Header issues
 1. 
 
-### Accessibility issues to investigate
+### Accessibility issues to investigate 
+#### Issues that caused difficulty during sessions
+
+
 1. p3 (desktop using MAGic 14 screen reader and magnifier) **didn't notice the 4th column of footer links** with his magnified screen. When we looked at it together later, he said that there's a larger gap after column 3 than there is between the other columns, so he assumed that there was nothing more to the right.
-1. p10 (desktop using VoiceOver on an iPad) was **confused by navigation in the blue footer because he didn't perceive any columns but saw (with limited vision) the screen jump**, which happened every time he moved from the last link in one column to the first link in an adjacent column.
+1. p10 (desktop using VoiceOver screen reader on an iPad) was **confused by navigation in the blue footer because he didn't perceive any columns but saw (with limited vision) the screen jump**, which happened every time he moved from the last link in one column to the first link in an adjacent column.
    > *"I'm down here at the lower part of screen. Now I'm back at the top of the screen, and...I think I did something wrong or something's going funky with the screen" (p10).*
-1. p7 (mobile using VoiceOver on an iPhone) was **confused by the header buttons changing name**: search magnifying glass changed to *X*, and *Menu* changed to *Close*.
+1. p7 (mobile using VoiceOver screen reader on an iPhone) was **confused by the header buttons changing name**: search magnifying glass changed to *X*, and *Menu* changed to *Close*.
    > *"It isn't quite self-evident. You just kind of got to remember that. That's where the search icon used to be, and it is now replaced with just an X" (p7).*
-1. p7 (mobile using VoiceOver on an iPhone) said that it's **difficult to differentiate a menu from the content behind** when the menu background is the same color as what it's overlaying. In this way, The it's hard for the participant to tell where the menu ends and the content continues. Note that our prototype pushes the content down, rather than covering any of it up, but not sure how this will work in the implementation. 
-1. p1 (desktop using JAWS) was confused about why the **screen reader said "button menu" for her name**. This was the button to open the Auth menu. 
-1. p10 (desktop using VoiceOver on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
+1. p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" for her name** (to open the Auth menu). She wondered if it's a button or a menu because they're two different things that you interact with different? they're too diff things. never encountered this before.
+1. p1 (desktop using JAWS screen reader) **didn't hear "link" at the beginning of the FOIA link and so thought it wasn't clickable**. When the moderator asked her to go back and listen again, she heard "link" this time.
+1. p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
+
+#### Issues discussed but didn't cause much difficulty during sessions
+1. p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content behind** when the menu background is the same color as what it's overlaying. In this way, The it's hard for the participant to tell where the menu ends and the content continues. Note that our prototype pushes the content down, rather than covering any of it up, but not sure how this will work in the implementation. 
+
+1. p6 (desktop using ZoomText screen magnifier) said that the **VA Benefits and Health Care menu options aren't visible with her screen magnification**, but she knows to scroll horizontally to find the options because the arrows tell you which direction to look (to the right).
+
 1. p11 (desktop with the font enlarged ~150%) said that they **preferred a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
 
 ### Content feedback to consider
