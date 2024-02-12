@@ -130,9 +130,9 @@ Original Concept for Debt Portal Copay + Debt Landing page (Current flow):
 
 Part 1: Exploratory and Foundational
 
-1.  What are Veterans thoughts and preferences about a holistic debt portal vs a simplified one? We will share reaction cards with words/concepts on them (i.e.: “financial resources”, “one stop shop”, etc.) to convey holistic debt portal ideas versus more simple ones to get Veterans thoughts.
+1.  What are Veterans thoughts and preferences about a holistic debt portal vs a simpler one? We will share reaction cards with words/concepts on them (i.e.: “financial resources”, “one stop shop”, etc.) and get Veterans thoughts.
     
-2.  Where do Veterans in different types of financial situations land with a holistic experience vs a simplified one?
+2.  Where do Veterans in different types of financial situations land with a holistic experience vs a simpler one?
 
 Part 2: Conceptual and Generative
 
