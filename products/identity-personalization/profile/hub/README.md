@@ -1,6 +1,6 @@
 # Feature Outline: Profile Hub
 
-**Last Updated: Jan 18, 2023** metrics section
+**Last Updated: Feb 12, 2024** adding Figma links
 
 ### Communications
 
@@ -72,8 +72,8 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Design
 
-- [Desktop](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd/p/EFCD1C39-A0C1-4A07-8510-1C0A7713FA1A/canvas)
-- [Mobile/user flow](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd)
+- [Desktop](https://figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0-281&mode=design&t=UFySmtP5yDOLLP6a-0)
+- [Mobile/user flow](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0-1&mode=design&t=UFySmtP5yDOLLP6a-0)
 - Link to any documentation (needs to be created)
 
 ## Frontend
