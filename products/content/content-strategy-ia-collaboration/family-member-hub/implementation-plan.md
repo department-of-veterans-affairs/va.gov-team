@@ -120,7 +120,6 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 - Implement redirects
 
 
-
 ## Stakeholders <a id="stakeholders"></a>
 
 **OCTO stakeholders**
@@ -131,17 +130,18 @@ Benefits hub pages/forms/tools will be roll-out hub by hub in the following roug
 
 **Health and benefits stakeholders**
 - VHA Digital Comms: Jenny Hieland-Ludke, Blake, Justin
-- Integrated Veteran Care: Joe Schneider, Chris Cox, Kelly Farmer
-- VEO, Melissa Rebstock
-- Tammy
+- IVC: Joe Schneider, Chris Cox, Kelly Farmer
+- VEO: Melissa Rebstock
+- VBA, Education: Tammy
+
 
 ## Next steps <a id="next-steps"></a>
 
 Content, IA, and design
 - [x] Finalize organizational structure - Mikki - Draft of IA reviewed and ready to pass on, completed 1/16/24
 - [ ] Incorporate into placement criteria and overall taxonomy definition - Mikki/Danielle
-- [ ] Identify additional research needs, pull in Amanda as needed - Mikki to review and schedule time with everyone as needed
-- [ ] Build out landing page drafts in Drupal - Danielle/Mikki
+- [x] Identify additional research needs, pull in Amanda as needed - Reviewed wtih Amanda and documented here
+- [x] Build out landing page drafts in Drupal - Danielle/Mikki
 - [ ] CAIA deep dive - Danielle/Mikki
 - [ ] Build out tickets for CAIA - Mikki/Danielle
 
@@ -153,7 +153,6 @@ Communication to OCTO stakeholders
 - [x] Share with benefits portfolio - 1/23
 - [ ] Share with Chris - Danielle's 1:1
 - [ ] Share with health portfolio - 1/23
-- [ ] CAIA deep dive(s)
 
 Initial communication to all impacted stakeholders
 - [ ] Present to the survivor group (Danielle to reach out to Melissa R to schedule)
