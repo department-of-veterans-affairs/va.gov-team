@@ -25,30 +25,29 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-The latest PDF version of the Board Appeal (Notice of Disagreement) form allows Veterans to request an extension and confirm if they are appealing a denial of benefits by the Veterans Health Administration (VHA). This update to the VA.gov form brings it into parity with the PDF version. 
+
+- The latest PDF version of the Board Appeal (Notice of Disagreement) form allows Veterans to request an extension and confirm if they are appealing a denial of benefits by the Veterans Health Administration (VHA). This update to the VA.gov form brings it into parity with the PDF version.
+- (Figma design links)[https://www.figma.com/file/BplQkEDZzD8NPPNmLrhvXv/Request-a-Board-Appeal-%2F-Notice-of-Disagreement-(VA-10182)?type=design&node-id=0-1719&mode=design&t=EKvPaYpBcyaP5Ucl-0}
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [Board Appeal (Notice of Disagreement)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Veterans with good cause need the ability to request an extension when filing a Notice of Disagreement with the Board of Veteran's Appeals (BVA).
+* The PDF version of the form includes this field as a checkbox with the option to attach a good cause reason on a separate piece of paper. VA.gov form does not have this field. 
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- As a Veteran filing a Notice of Disagreement on VA.gov, I want the ability to request an extension when I submit my form, so I can file after my 1-year deadline has passed. 
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- As a Veteran filing a Notice of Disagreement on VA.gov, I do not want to use an older version of the form, that doesn't contain teh latest input fields. 
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- As a BVA stakeholder, I want the latest version of the VA.gov form to match what's available on the current paper form, to reduce the risk of negative consequences caused by appeals submitted using outdated form versions. 
 
 ## Undesired Business Outcomes
--->
+- As a BVA stakeholder, I do want to lose any important information related to a Veterans notice of disagreement, which could in turn introduce legal risk for the BVA. 
 
 ---
 ## Measuring Success
@@ -57,7 +56,9 @@ The latest PDF version of the Board Appeal (Notice of Disagreement) form allows 
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Increased percentage of online form submissions 
+- Reduction in form drop-off
+- Reduction in submission-blocking errors
 
 ---
 
@@ -67,22 +68,20 @@ The latest PDF version of the Board Appeal (Notice of Disagreement) form allows 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans will want the latest version of the form and will find the extension request option useful and will not exit the form due to it's availability.
 - **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
+  - Veterans will understand how to use the new form fields and will not exit the form due to confusion.
+- **Technical Feasibility Risks** (can we build it with available tech/data):
+  - None
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - Compliance requirements
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+
+The updated version of the form will include the additional form fields (a radio button and text box) with plain language descriptions and instructions to guide Veterans through the form. 
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -93,7 +92,7 @@ The latest PDF version of the Board Appeal (Notice of Disagreement) form allows 
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Collab Cycle Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75865)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -102,7 +101,7 @@ The latest PDF version of the Board Appeal (Notice of Disagreement) form allows 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - First week of March
 - *Actual Launch Date* 
   - tbd
 
@@ -121,17 +120,19 @@ The latest PDF version of the Board Appeal (Notice of Disagreement) form allows 
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
+- Team Name: Decision Reviews Team
+- GitHub Label(s): NOD
+- Slack channel: #benefits-decision-reviews
 - Product POCs:
+- Zach Goldfine (OCTO PO)
+- Sade Ragsdale (product manager)
 
 </details>
 
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*
-
+- BVA (John Gosnell)
 <details>
   
 - Office/Department:
