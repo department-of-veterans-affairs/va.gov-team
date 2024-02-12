@@ -114,7 +114,10 @@ Currently, alternative input methods aren't well tested. In the future it is rec
 
 ## Tools and FAQ
 ### Useful bookmarklets
-### How to pair a phone's browser with a desktop computer's browser's developer tools
+### Mobile developer tools
+
+If you don't mind navigating teeny tiny developer tools on your mobile device, [start by looking at this cross platform mobile developer tool bookmarklet.](https://dev.to/asaoluelijah/how-to-access-dev-tool-on-mobile-browsers-14nd) If that is too cumbersome proceed to pair desktop developer tools to your mobile testing devices.
+
 #### Pairing with Safari’s developer tools
 
 Safari on iOS doesn’t include [Developer Tooling](https://developer.apple.com/safari/), but you can connect desktop Safari’s developer tools to a running simulator or real iOS device. To do this you need to first enable “Developer mode” in Safari on your Desktop. Do this by launching Safari and navigating to preferences. From there select “Advanced” and then check the box near the bottom labeled “Show Develop menu in the menu bar.” This is a one-time action, and the selection will persist moving forward.
