@@ -41,9 +41,6 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Steady increase of eCheck-in and Pre-Check-in usage as VISN's come online
 - At least 70% completion rate for eCheck-in and Pre-Check-in
 
-### Objectives & Key Results
-[Objectives & Key Results](https://app.mural.co/t/vfscie8528/m/vfscie8528/1654695959441/d90ed2bae0315fa65761373df8362460f2c82b28?sender=ud3aa760e30b39bcf436d4473)
-
 ## Resources
 
 ### Key Decisions
