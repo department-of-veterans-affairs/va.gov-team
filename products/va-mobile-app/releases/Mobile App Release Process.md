@@ -22,7 +22,10 @@
 - You can close out Release tickets post release with no impact 
 - If VA PO is unable to approve the ticket, get another VA PO to approve and then have FE approve as they have Admin access 
 - If this document is updated, it needs to be re-uploaded to [Github Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases)
-- Use the DSVA Release Slack as the main hub of communication and feedback for approvers and needs 
+- Use the DSVA Release Slack as the main hub of communication and feedback for approvers and needs
+- [Slack reminders](https://slack.com/resources/using-slack/how-to-use-reminders-in-slack) have been set for a few items to proactively make the App teams aware 1-2 days before the release branch is cut 
+<img width="801" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/3adc6c71-382e-44ef-8782-6a432054c96b">
+
 
 
 ## Contacts:
