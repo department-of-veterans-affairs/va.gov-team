@@ -196,7 +196,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA debt.
 
--   At least 7 of 20 Veterans have been out of service for less than 1 year
+-   At least 5 of 20 Veterans have been out of service for less than 1 year
     
 -   At least 8 of 20 Veterans have a yearly household income of $49,000 or less
     
