@@ -113,7 +113,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
 
 #### [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
-- Status: Released to all VISNs on 12/5/2023
+- Status: Piloted in July 2023; Released to all VISNs on 12/5/2023
 - Purpose: Allow Veterans to submit a mileage-only travel reimbursement claim request for their trip to a VA health appointment as an alternative to submitting the claim through the kiosk, Beneficiary Travel Self Service System (BTSSS), or travel office
 - Functionality:
      - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
@@ -123,16 +123,27 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
 
 #### [Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
-- Status: Mid April 2024 planned release
+- Status: Spring 2024 planned release
 - Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software can use eCheck-in to submit a mileage-only travel reimbursement claim
 - Functionality:
-     - Veteran receives an appointment reminder 45-minutes before their appointment with a link to access eCheck-in in order to submit a mileage-only travel reimbursement claim
-         - Alternatively, Veteran, during the check-in window, uses their mobile device to text "check in" to a VA code 
-     - Veteran receives a customized link to the eCheck-in application
-     - Veteran loads the eCheck-in application and verifies their identity by entering their Last Name and date of birth
-     - Veteran answers the 3 travel claim questions (if answer to all is yes, the claim is submitted)
-     - Veteran see their appointment information with a message telling them their claim was submitted
-     - Veteran receives an SMS with the status of their claim submission
+    - Veteran texts "travel" on the day of their OH appointment
+    - Veteran receives a link back if they have an OH appointment today (**Q: is VeText going to send CVT appts too?**)
+        - Veteran will receive an error message if they (1) do not have any OH appointments for today, (2) we cannot find their phone number in the VA records, or (3) the feature is not available for their appointment's facility
+    - Veteran clicks the link 
+        - Veteran will receive a "link has expired" message if they click the link after the day of the OH appointment
+        - Veteran sees a "you've already filed a claim" message if they click the link and they have already filed a claim for their OH appointment today (1 claim per facility per day is allowed)
+    - Veteran verifies their identity  
+    - Veteran sees information on
+        - How to check their eligibility to file a claim
+        - How to file a claim now
+        - How to file a claim for other expenses later
+    - Veteran chooses to file a claim
+        - If the Veteran has more than 1 appointment today at different facilities, the Veteran selects for which appointment(s) they would like to submit a claim
+    - Veteran answers the 3 travel questions
+        - Veteran see an error message if they answer "no" to any of the 3 questions
+    - Veteran agrees to the VA's terms & submits their claim (or chooses to file later)
+    - Veteran sees confirmation that their claim was submitted and information for how to check the status of their claim
+    - Veteran receives an SMS that includes the claim submission status returned from BTSSS
 - Applies to: In-person appointments only
 
 
