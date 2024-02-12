@@ -64,6 +64,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 
 #### Issues discussed that *didn't* cause difficulty during sessions
+1. p10 (desktop using VoiceOver screen reader on an iPad) changed his 
 1. p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content behind** when the menu background is the same color as what it's overlaying. In this way, The it's hard for the participant to tell where the menu ends and the content continues. Note that our prototype pushes the content down, rather than covering any of it up, but not sure how this will work in the implementation. 
 
 1. p6 (desktop using ZoomText screen magnifier) said that the **VA Benefits and Health Care menu options aren't visible with her screen magnification**, but she knows to scroll horizontally to find the options because the arrows tell you which direction to look (to the right).
