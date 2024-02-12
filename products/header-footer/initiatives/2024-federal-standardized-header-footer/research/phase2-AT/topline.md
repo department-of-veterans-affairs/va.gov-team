@@ -40,18 +40,30 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 
 ### Accessibility issues to investigate 
 #### Issues that caused difficulty during sessions
+1. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty opening and closing the search box** in the header. The focus wasn't being brought into the search box input immediately when the search box opens. Both participants expected to be able to tap on *Search* and be able to type right away. 
+     1. The JAWS user (p1) tried "enter" to open the search box but couldn't find it to type text. They expected to *right arrow* or *tab* to the right and expand the box, but that didn't work. They had to *arrow down* to get to the box. They were also unable to close the search box.
+     1. The VoiceOver user (p10) had difficulty opening search box and software keyboard. It didn't work at first, so they tried double-tapping but didn't expect to have to do that in order to start typing their search string. Focus wasn't going into the box.  
 
+1. For p1 (desktop using JAWS screen reader), **nothing on the login page was read by JAWS** except for the the page title.
+1. p3 (desktop using MAGic 14 screen reader and magnifier) **couldn't understand some pages and links because MAGic 14 didn't read them** at all. He's accustomed to hovering with his mouse to ask the screen reader to read the link aloud, and then clicking on the link to go there. For many links, he had to click on them to get them to be read, but others wouldn't get read at all. MAGic 14 is an old screen reader that was discontinued 3 years ago, but p3 reported that it usually works. Below is a list of what was not read in our prototype by the screen reader:
+
+    1. *VA Benefits and Health Care* and *About VA* in header (but *Find a VA Location* was fine). 
+    1. *US Department of Veterans Affairs* reads the page URL instead of "US Department of Veterans Affairs". 
+    1. *Use the life insurance needs calculator* reads the URL before the link title.  
+    1. *VA Benefits and Health Care* megamenu items not read with mouse hover as expected. He had to click on them to hear them read, but then it also took him there.
+    1. *Contact us* page not read all all. The content and jump links say nothing. The *Ask VA* content says "blank blank blank...", so it was reading out but not any of the words or characters.
+    1. *USA Government* on the Contact page doesn't read out anything (but it reads out correctly on the life insurance page).
 
 1. p3 (desktop using MAGic 14 screen reader and magnifier) **didn't notice the 4th column of footer links** with his magnified screen. When we looked at it together later, he said that there's a larger gap after column 3 than there is between the other columns, so he assumed that there was nothing more to the right.
 1. p10 (desktop using VoiceOver screen reader on an iPad) was **confused by navigation in the blue footer because he didn't perceive any columns but saw (with limited vision) the screen jump**, which happened every time he moved from the last link in one column to the first link in an adjacent column.
    > *"I'm down here at the lower part of screen. Now I'm back at the top of the screen, and...I think I did something wrong or something's going funky with the screen" (p10).*
 1. p7 (mobile using VoiceOver screen reader on an iPhone) was **confused by the header buttons changing name**: search magnifying glass changed to *X*, and *Menu* changed to *Close*.
    > *"It isn't quite self-evident. You just kind of got to remember that. That's where the search icon used to be, and it is now replaced with just an X" (p7).*
-1. p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" for her name** (to open the Auth menu). She wondered if it's a button or a menu because they're two different things that you interact with different? they're too diff things. never encountered this before.
+1. p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" for her name** (to open the Auth menu). She was confused as she wondered if it's a button or a menu because they're two different things that you interact with differently. 
 1. p1 (desktop using JAWS screen reader) **didn't hear "link" at the beginning of the FOIA link and so thought it wasn't clickable**. When the moderator asked her to go back and listen again, she heard "link" this time.
 1. p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 
-#### Issues discussed but didn't cause much difficulty during sessions
+#### Issues discussed that *didn't* cause difficulty during sessions
 1. p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content behind** when the menu background is the same color as what it's overlaying. In this way, The it's hard for the participant to tell where the menu ends and the content continues. Note that our prototype pushes the content down, rather than covering any of it up, but not sure how this will work in the implementation. 
 
 1. p6 (desktop using ZoomText screen magnifier) said that the **VA Benefits and Health Care menu options aren't visible with her screen magnification**, but she knows to scroll horizontally to find the options because the arrows tell you which direction to look (to the right).
