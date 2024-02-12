@@ -90,6 +90,8 @@ We recommend testing zoom level by adjusting the browser settings. These have th
 
 To update the browser zoom settings on iOS launch the settings application, select or search for "safari" and scroll to the item labeled "Page Zoom." There, you can configure the browser's zoom level. 
 
+To update the browser zoom settings using Chrome on Android go to settings in the Chrome application, and select the "accessibility" option. There, you should find a slider where you can adjust the browsers zoom level. 
+
 #### Portrait orientation
 
 Complete the entire flow with the device locked to portrait orientation at 200% zoom.
@@ -103,8 +105,12 @@ Complete the entire flow with the device locked to landscape orientation at 200%
 Complete the entire flow with the device locked to landscape orientation at 300%, or whatever the maximum available zoom is.
 
 ### Screen reader
-#### Android, TalkBack
 #### iOS, VoiceOver
+#### Android, TalkBack
+
+### The future, Voice Control and other alternative input methods
+
+Currently, alternative input methods aren't well tested. In the future it is recommended that research be conducted to understand where Veteran needs are, and expand this testing guidance to support those findings. 
 
 ## Tools and FAQ
 ### Useful bookmarklets
