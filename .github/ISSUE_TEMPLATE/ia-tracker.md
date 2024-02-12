@@ -30,22 +30,16 @@ _When does IA review need to be completed by? When is Midpoint Review?_
 
 ## IA Support
 
-### Work Needed (if applicable)
+### Work needed
 
-- IA Spec: **[Needed / Not Needed]**
-- Feedback for product team: **[Needed / Not Needed]**
+- IA spec: [Needed / Not needed]
+- Feedback for product team: [Needed / Not Needed]
 
-### Tasks
-Check all that apply.
-
-- [ ] Create process ticket draft
-- [ ] Watch Design Intent, if applicable
-- [ ] Determine IA deliverables
-- [ ] Confirm staged rollout timeline, if applicable
-- [ ] Attend Midpoint
-- [ ] Share final IA Spec with product team
-- [ ] Update Site Map and VA.gov Mega IA sheet
-
+```[tasklist]
+### IA deliverables
+- [ ] IA spec
+- [ ] Feedback
+```
 
 ## Acceptance Criteria
 - [ ] Feedback is shared with product team in Intake Ticket.
