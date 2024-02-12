@@ -23,7 +23,7 @@ There are nine new WCAG 2.2 success criteria. Two are Level A success criteria, 
 7. [3.3.8 Accessible Authentication (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html) (**Level AA**)
 9. [3.3.7 Redundant Entry](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html) (**Level A**)
 
-### 2.4.13 Focus Appearance - Level AAA [*at risk*]
+### 2.4.13 Focus Appearance - Level AAA
 This criterion weighs in on the focus indicator minimum contrast and size. There is also a note that the entire focus indicator "encloses the user interface component or sub-component that is focused."
 
 ### 2.4.11 Focus Not Obscured (Minimum) - Level AA
