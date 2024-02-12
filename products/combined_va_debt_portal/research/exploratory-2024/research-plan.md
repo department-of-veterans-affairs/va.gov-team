@@ -1,17 +1,7 @@
+
 # Research Plan for Debt Resolution Team, Exploratory and Concept Study, Roadmap and debt portal IA, February 2024
 
 ## Background
-
-Briefly describe the background of your product. Consider:
-
--   What problem is your product trying to solve?
-    
--   Where is your product situated on VA.gov? (ex: auth vs. unauth)
-    
--   What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-    
-
-[Link to product brief](url goes here).
 
 The first iteration of the debt portal had separate pages for overpayment debt and copayment statements. Veterans needed to visit the Debt Portal to see any benefit debts they had while they had to go to the Medical Copay Tool (a different place) to see any medical copays that they had acquired as a result of health care visits.
 
@@ -27,8 +17,12 @@ Research was conducted on Debt Letters (overpayments) ([link](https://github.com
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
--   Decrease Veteran confusion and time it takes to review, manage or resolve their Meeting congressional mandates
-    
+-   Enhance Veterans’ personalized online experience
+
+Additionally: 
+
+-   Decrease Veteran confusion and time it takes to review, manage or resolve their debt
+  
 -   Optimize Veteran experience and align to Veteran feedback
     
 -   Allow DMC, VHA and others to promote a singular experience to Veterans to ease in communications and access to portal financial matters
@@ -37,8 +31,6 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 ### Veteran Journey
 
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Are there moments that matter?
-
-Debt can happen at any stage in [the Veteran’s journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) after the ‘Getting out’ stage. However, certain types of debt, such as Post-9/11 GI Bill debt, is more likely to occur at the ‘Finding something to do’ stage.
 
 Other key moments this research touches key moments in the Veteran journey are:
 
@@ -53,9 +45,9 @@ Other key moments this research touches key moments in the Veteran journey are:
 
 What are you trying to learn from this research?
 
-Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
-**Goal 1, Exploratory and foundational:**
+### Goal 1
+**Exploratory and foundational**
 
 To understand the desirability of a holistic debt portal experience and what Veterans would like to see in one. We will present reaction/idea cards on slides with a word on them for Veterans to give feedback on.
 
@@ -94,33 +86,46 @@ Reaction card terms/ideas:
 
 Example:
 
-![](https://lh7-us.googleusercontent.com/nI_ALr5m6I4LlpSQySbn8qRtjzuHIkqPyLo8tGKRKFq7mZ5STmySspERVpbiGKq8n-npEfyYOPgknKS77WNBV4mbDUa7I74xGg9BrFsjhXSuutWkehkCaFjez72CHycANskXcV4O3LB9Qp5lrGlQezo)
-
-![](https://lh7-us.googleusercontent.com/dKWC2rcEZJFZ-AgMrc7kfO51-hReHMaj2-B24k-ggOOpVTO_f7CYlp3-ssaGrzag0pYZ-qJKGfUStxocc9ma8JytehAwCUtrcaDhLwz43IdzIFUAqGLZrgPRdes3xhaYV0N49-05caVsBIER4lFeZL0)
+<img width="360" alt="reaction-cards" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/34e8e12f-cda9-4192-b5e5-946d3dfdf746">
 
   
 
-**Goal 2, Conceptual and generative:**
+### Goal 2
+**Conceptual and generative**
 
-To understand if the combined nature of the debt portal with copayment statements, overpayment debt, and the possibility of other types of debt in one place is desirable and easy to understand, versus separating these into their own pages. The information we learn from this part of the interviews will allow us to simplify the existing debt portal.
+To understand if the combined nature of the debt portal with copayment statements, overpayment debt, and the possibility of other types of debt in one place is desirable and easy to understand, versus separating these into their own pages. 
 
-Original Concept for Debt Portal Copay + Debt Landing page:
+Some participants during the [2022 debt portal research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/research-findings.md) stated they felt there were too many pages and that important features were hidden. The Revised Flow takes out one page, the Overview page, and instead displays all individual copay and overpayment cards on one page. 
 
--   This will allow Veterans to see an overview of all the money they owe VA 
-in one place, which meets Congressional mandates + our users’ expectations
+Since many of the actions that Veterans can take on their copays and overpayments are unique to either VHA or VBA, there are limits on how far we can reduce the number of pages.
+
+
+
+
+### Option 1: Current flow
+Original Concept for Debt Portal Copay + Debt Landing page (Current flow):
+
+-   This will allow Veterans to see an overview of all the money they owe VA in one place, which meets Congressional mandates + our users’ expectations
     
 -   How the VHA copays and VBA debt data varies won’t be as evident if Veterans drill down into those separate debt types
     
--   Having an overview page instead of showing all detailed debt cards in one view
-can reduce cognitive load. It could be overwhelming to see a long list of items, especially when it comes to something as sensitive as debts
+-   Having an overview page instead of showing all detailed debt cards in one view can reduce cognitive load. It could be overwhelming to see a long list of items, especially when it comes to something as sensitive as debts.
+**Copay Email > Debt Portal Unauth page > Debt Portal Summary page > Debt Portal Copay Summary page**
 
-**Option 1  
-Copay Email > Debt Portal Unauth page > Debt Portal Summary page > Debt Portal Copay Summary page**
+[Link to prototype for current flow](https://www.figma.com/proto/OiiDTTVTCf8j0GngRg0xxD/Combined-VA-Debt-Portal?type=design&node-id=192-19715&viewport=54,-986,0.25&t=EINFwT8EPigmh19P-0&scaling=min-zoom&starting-point-node-id=192:19715&show-proto-sidebar=1)
 
-**![](https://lh7-us.googleusercontent.com/s09HQTzHmrhEFBueBqSb_JuSNRi8hiX5SjNkoIFw3lETTKqG-edQJQVMDgNPoJwaFa2QQ7feTXIla6dV2JxqjKuSvSRwXWdf6_qATZ139a1u7LwRhA4Dxww4J3janN65ZGbeQdAhf-DxMXN5DFysXrY)****![](https://lh7-us.googleusercontent.com/ivLM7bXfmdS-_NG6ifRYzTlnMSahmaJt86iI6iShwedHQIr94kbsGD2i3N3BN4LP0XuuCthHObpuTqotWsjiUeEHNB4BlbH4QcmoWsDsyGZpLMLPESv1Hmg_wdTTt2ZnFSNbUhCCIy_lSjbZkPoMCTc)**
-![](https://lh7-us.googleusercontent.com/AOWd4OOgFywbqeP5_q_29KOdbD3aEPv3HAye2Yb5RFQ6cGn5M84v7mTQnatJjUX_xQsxDYJgxsY7_B0adwKxrfuFEpBi6pED1hYs10GSjsHPNoLzkyBYHJZyFtM4yE8gbUsI6_DqUb6oC-XHyZ4nLlw)****![](https://lh7-us.googleusercontent.com/0mmMf1qIMBtInV9-z0jc7RMU6ZXL5wGZ4UN-p33MFTODyXjmFQI4yuTwWWbv8UzCOyKruuSXsbEusflCb5_ZeZTrYS5XzwSpay7Nzz9zULR8rvnp3V9RSnzs-SMKAypKmQkBGiD81i-5pS8gCwXCzPw)****Option 2  
-Copay Email > Debt Portal Unauth page > Debt Portal Summary page with all debts listed**
-**![](https://lh7-us.googleusercontent.com/1yo2n89hr2uCbjQmMgARyBlC8MHLz0JohZ5PpkrZPcvOH3E_8EO-lf0GZWDLLGZYeybAbdDL82Fk9Yzey3dV8FqSl3pCecwBHSvHSTU0_QrI3735oRs3zFXJuxWIbmQZE4fUFZ11YjbqT_Ce62KV6Ho)**
+<img width="362" alt="debt-portal-current" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/863d10f3-08a8-4473-bd01-57d763637fc2">
+
+
+### Option 2: Revised flow
+
+**Copay Email > Debt Portal Unauth page > Debt Portal Summary page with all debts listed**
+
+[Link to prototype for revised flow](https://www.figma.com/proto/OiiDTTVTCf8j0GngRg0xxD/Combined-VA-Debt-Portal?type=design&node-id=152-16358&viewport=260,390,0.25&t=EINFwT8EPigmh19P-0&scaling=min-zoom&starting-point-node-id=152:16358&show-proto-sidebar=1)
+
+<img width="382" alt="debt-portal-revised" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/4ed02640-7605-41e8-b223-ec4aea88faaf">
+
+
 ### Research questions
 
 Part 1: Exploratory and Foundational
@@ -131,23 +136,16 @@ Part 1: Exploratory and Foundational
 
 Part 2: Conceptual and Generative
 
-3.  How easy to understand is the combined debt portal? How do Veterans feel about seeing all of their debts in one place?
-**![](https://lh7-us.googleusercontent.com/NGunINFJVWAamWTa7bRaZ9qfyODv7lF6qhPi1W49lmmSNF_akCgX6srJPq_KBfVztG0Leq6kCu0UhRIyl2zJGxKYVlJDI7_l_pzlPPcDC-Gzs-Aea_LVRc0F7JTyWTY2jKl4BH14suRatanc9u8inv4)**
-4.  What would help Veterans easily digest the information on the debt portal?
+3.  How would Veterans prefer to see their copays and overpayments? 
+
+4. Does removing the copay + overpayment overview page help Veterans more quickly access information? 
+
+5. Does it increase cognitive burden to see all copay + overview cards at once? The average number of copays within 6 months is three. (It is possible to have 180+ copays within 6 months.)
+
+6.  What would help Veterans easily digest the information on the debt portal?
+
 ### Hypothesis
 
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-
--   What do you already know about this problem space?
-    
--   What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-    
--   Write a generalized statement that combines what you know + what you think will happen during the study.
-    
--   Remember to constrain the hypothesis to the goals of your study!
-    
-
-  
 
 -   We hypothesize that Veterans in more difficult financial situations (i.e. experiencing greater financial strain) will want more resources in the debt portal, hence they will lean more towards a holistic debt portal experience.
     
@@ -155,10 +153,6 @@ What do you intend to learn and measure from this study? Think through these pro
     
 
 ## Methodology
-
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
-
-Examples of common research methods include:
 
 -   Semi-structured interviews - appropriate for generative research
     
@@ -169,7 +163,6 @@ Examples of common research methods include:
 
 ### Location
 
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
 Moderated and on Zoom.
 
@@ -181,29 +174,9 @@ For moderated interviews:
 
 ## Recruitment
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.
-
-Before writing your recruitment criteria, be sure to review the following resources.
-
--   [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research.
-    
--   [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities
     
 
 ### Recruitment approach
-
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?
-
-Pro tip:
-
--   For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants.
-    
--   Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups.
-    
--   Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-    
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 Recruitment strategy: Extreme case sampling and inclusive sampling: recruit a diverse sample.
 
@@ -394,6 +367,6 @@ Spread observers across sessions so that there are no more than 5-6 total attend
     
 -   aaron.ponce@agile6.com
     
--   [kevin.suarez@agile6.com](mailto:kevin.suarez@agile6.com)
+-   kevin.suarez@agile6.com
     
 -  austin.smith@govcio.com
