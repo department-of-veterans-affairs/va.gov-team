@@ -42,6 +42,8 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. p3 (desktop using MAGic 14 screen reader and magnifier) **didn't notice the 4th column of footer links** with his magnified screen. When we looked at it together later, he said that there's a larger gap after column 3 than there is between the other columns, so he assumed that there was nothing more to the right.
 1. p10 (desktop using VoiceOver on an iPad) was **confused by navigation in the blue footer because he didn't perceive any columns but saw (with limited vision) the screen jump**, which happened every time he moved from the last link in one column to the first link in an adjacent column.
    > *"I'm down here at the lower part of screen. Now I'm back at the top of the screen, and...I think I did something wrong or something's going funky with the screen" (p10).*
+1. p7 (mobile using VoiceOver on an iPhone) was confused by the header buttons changing name: search magnifying glass changed to *X*, and *Menu* changed to *Close*.
+   > *"It isn't quite self-evident. You just kind of got to remember that. That's where the search icon used to be, and it is now replaced with just an X" (p7).*
 1. p1 (desktop using JAWS) was confused about why the **screen reader said "button menu" for her name**. This was the button to open the Auth menu. 
 1. p10 (desktop using VoiceOver on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 1. p11 (desktop with the font enlarged ~150%) said that they **preferred a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
@@ -54,6 +56,10 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
 1. One participant **wanted to see information specifically for seniors** or geriatrics since there are already so many other links for other kinds of Veterans. He would like to see information on activities for seniors (e.g., day programs, the Senior Olympics) and medical links (e.g., how to get tested for Alzheimers). He said *"I feel discriminated against" (p9).*
 1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identies, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
+1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
+     > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (p7).*
+
+
 
 ### How recognize as an official government website
 1. Most (TBD of 9) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
