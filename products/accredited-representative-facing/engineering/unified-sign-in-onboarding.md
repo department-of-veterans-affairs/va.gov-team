@@ -9,10 +9,15 @@
 2. **What URL endpoints should redirect to your service?**
 
    > Localhost: localhost:3000/representative/
+   >
    > Dev: dev.va.gov/representative/
+   >
    > Staging: staging.va.gov/representative/
+   >
    > Production: www.va.gov/representative/
+   >
    > 2a. Requires additional query parameters: Not at the moment, but this may be necessary
+   >
    > 2b. Are the URL endpoints dynamic: Not at the moment, but this may be necessary
 
 3. **Which authentication broker are you planning on using?**
@@ -26,10 +31,14 @@
 5. **Which service providers are allowed to Sign up?**
 
    > Login.gov
+   >
+   > ID.me
 
 6. **Which service providers can be used to Sign in?**
 
    > Login.gov
+   >
+   > ID.me
 
 7. **Does your service have user type requirements?**
 
