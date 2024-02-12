@@ -205,6 +205,8 @@ Note: The following demographic criteria is our goal, but we understand that his
 -   At least 10 of 20 people must identify as having a cognitive consideration
     
 -   At least 7 of 20 people must identify as other than male
+
+-   At least 5 of 20 must identify as LGBTQ+
     
 -   At least 5 of 20 people are without a degree or professional certificate
     
