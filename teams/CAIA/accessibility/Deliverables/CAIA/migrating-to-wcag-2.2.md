@@ -20,9 +20,8 @@ There are nine new WCAG 2.2 success criteria. Two are Level A success criteria, 
 4. [2.5.7 Dragging Movements](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html) (**Level AA**)
 5. [2.5.8 Target Size (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html) (**Level AA**)
 6. [3.2.6 Consistent Help](https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html) (**Level A**)
-7. [3.3.7 Accessible Authentication](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html) (**Level AA**)
-8. [3.3.8 Accessible Authentication (no exception)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception.html) (**Level AA**)
-9. [3.3.9 Redundant Entry](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html) (**Level A**)
+7. [3.3.8 Accessible Authentication (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication.html) (**Level AA**)
+9. [3.3.7 Redundant Entry](https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html) (**Level A**)
 
 ### 2.4.13 Focus Appearance - Level AAA [*at risk*]
 This criterion weighs in on the focus indicator minimum contrast and size. There is also a note that the entire focus indicator "encloses the user interface component or sub-component that is focused."
@@ -48,7 +47,7 @@ The intent of this criterion is to help ensure targets can be easily activated w
 ### 3.2.6 Consistent Help - Level A
 Websites that contain help mechanisms (such as contact information, a chat help feature, or an FAQ) that are repeated on multiple web pages, occur in the same relative order to other page content. This criterion ensures users can find help for completing tasks on a website, when it’s available.
 
-### 3.3.7 Accessible Authentication - Level AA
+### 3.3.8 Accessible Authentication - Level AA
 Cognitive function tests are not required for any step in an authentication process unless that step provides at least one of the following:
 - **Alternative**: Another authentication method that does not rely on a cognitive function test.
 - **Mechanism**: A mechanism is available to assist the user in completing the cognitive function test.
@@ -57,24 +56,21 @@ Cognitive function tests are not required for any step in an authentication proc
 
 This criterion helps remove high or impossible burdens on people with certain cognitive and motor disabilities and issues including those who have trouble memorizing, dyslexia, dyscalculia, completing pattern gestures, and more.
 
-### 3.3.8 Accessible Authentication - Level AA
-This criterion is the same as 3.3.7 Accessible Authentication but without the exceptions for objects and user-provided content.
-
 Cognitive function tests are not required for any step in an authentication process unless that step provides at least one of the following:
 - **Alternative**: Another authentication method that does not rely on a cognitive function test.
 - **Mechanism**: A mechanism is available to assist the user in completing the cognitive function test.
 
-### 3.3.9 Redundant Entry - Level A
+### 3.3.7 Redundant Entry - Level A
 This criterion requires forms or other similar information gathering methods to avoid redundant entry or make it easy to reuse data already entered. The intent of this Success Criterion is to ensure that users can successfully navigate multi-step processes. It reduces cognitive effort where information is asked for more than once during steps in a process. It also reduces the need to recall information provided in a previous step.
 
 ## Takeaways and VA.gov Considerations
 
-For the purposes of this document we won't be considering **3.7 Accessible Authentication - Level AA** or **3.3.8 Accessible Authentication - Level AAA** since the authentication flow is outside of the purview of the intended audience of this document. That said, the most significant accessibility issues likely to be found under WCAG 2.2 are most likely in the authentication flow. 
+For the purposes of this document we won't be considering **3.3.8 Accessible Authentication** since the authentication flow is outside of the purview of the intended audience of this document. That said, the most significant accessibility issues likely to be found under WCAG 2.2 are most likely in the authentication flow. 
 
 ### Considerations for VFS delivery teams
 
 - Generally teams using the design system should be unaffected by a move to WCAG 2.2 
-- The item most relevant to delivery teams will most likely be **3.3.9 Redundant Entry - Level A**, and will likely require back end teams to also consider the accessibility of the data being collected, and when
+- The item most relevant to delivery teams will most likely be **3.3.7 Redundant Entry**, and will likely require back end teams to also consider the accessibility of the data being collected, and when
     - There is also a reading of this that would suggest redundant entry across forms -- this may require coordination from VA POs or even contracts to find ways to reduce the number of times a specific question is asked.
 
 ### Considerations for the Design System Team
@@ -85,5 +81,5 @@ For the purposes of this document we won't be considering **3.7 Accessible Authe
 
 ### Considerations for Governance and CAIA supporting the Collaboration Cycle
 
-- Key elements to look out for will be **3.3.9 Redundant Entry - Level A**, and **2.5.8 Target Size (Minimum) - Level AA**
+- Key elements to look out for will be **3.3.7 Redundant Entry**, and **2.5.8 Target Size**
 - All other items will hopefully be well addressed by the Design System and the consistent use of static templates for the placement of header and footer elements
