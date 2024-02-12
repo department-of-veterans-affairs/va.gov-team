@@ -8,8 +8,6 @@ This document doesn't seek to supplant any existing accessibility criteria like 
 
 Our working assumption is that generally, all of the criteria laid out in WCAG should be applicable to a mobile web experience, too.
 
-`NOTE, because of device availability, for the time being, this document only includes specific guidance for iOS settings. In the future the document will be updated to include specific guidance for Android, too.`
-
 ## Assistive technology and mobile devices
 
 Just like on desktop and laptop computers, the landscape of assistive technology and device combinations is enormous. That said, both Android and iOS provide first-party assistive settings and features. Our testing procedures will focus on using these. In the future we suggest that research be run with VA.gov users to determine if this is the correct call. 
