@@ -23,6 +23,7 @@ All users and data are test data.
 | Other orders         | ✖️ | ✖️ | ✔️ | ✖️ |
 | Health reminders     | ✖️ | ✔️ | ✔️ | ✔️ |
 | Other instructions   | ✔️ | ✔️ | ✖️ | ✔️ |
+| Med Changes          | ✖️ | ✖️ | ✖️ | ✖️ |
 | **Your Health info** | -  |  - |  - |  - |
 | PC Provider          | ✔️ | ✖️ | ✖️ | ✖️ |
 | PC Team              | ✔️ | ✖️ | ✖️ | ✖️ |
@@ -37,4 +38,5 @@ All users and data are test data.
 | My VA Supplies       | ✖️ | ✖️ | ✖️ | ✖️ |
 | Meds not taking      | ✖️ | ✖️ | ✖️ | ✖️ |
 | **More Information** | -  |  - |  - |  - |
+| Clincal Services     | ✖️ | ✖️ | ✖️ | ✖️ |
 | More Help & Info     | ✔️ | ✔️ | ✔️ | ✔️ |
