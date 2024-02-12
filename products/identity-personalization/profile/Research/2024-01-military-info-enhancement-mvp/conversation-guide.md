@@ -110,7 +110,7 @@ Next, let’s group similar items together – how would you group things togeth
 
 ### Ranking items (5 minutes)
 
-- Next, let’s rank these groups by importance. What should go first? Second? etc.
+Next, let’s rank these groups by importance. What should go first? Second? etc.
 
 Is there anything else you’d like to share with me before we move to the last part of our session?
 
