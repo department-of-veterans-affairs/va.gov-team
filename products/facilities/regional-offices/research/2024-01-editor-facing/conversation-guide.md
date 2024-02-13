@@ -1,6 +1,4 @@
-***Guide currently in DRAFT***
-
-# Conversation Guide for editor-facing research
+# Conversation Guide for VBA RO pilot editor-facing research
 
 ## Moderator logistics
 
