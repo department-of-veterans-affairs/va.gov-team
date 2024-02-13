@@ -4,8 +4,8 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-The 10-10EZ Veteran health care application was not displaying for authenticated users.  Only the heading and "Need Info" section are displayed on the screen.  There is no information between the 2 sections.
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/8061855e-9f34-4e3c-bd38-a72d46e9a25f)
+After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. The PR #27808 was determined to be the source of the issue, and has since been reverted.  
+There was a [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) that was a part of that deployment and that is the only PR for this application in that time period. The PR has worked in all other lower environments and no impact to functionality or users was noted until it got into the prod environment. This OOB request is a step in an effort to rectify the issue for authenticated users.The 10-10EZ Veteran health care application was not displaying for authenticated users.  Only the heading and "Need Info" sections are displayed on the screen.  There is no information between the 2 sections.
 
 
 ## Impact
@@ -13,14 +13,17 @@ The 10-10EZ Veteran health care application was not displaying for authenticated
 Quantified statement about the impact of the incident.
 
 - How many users were affected?
+     - ~870 authenticated users
 - What time period were users impacted?
+     - 5:25pm ET to 
 - What impact did this have on the SLO?
+     - XXXXXXX
 
 ## Ownership
 
-Team: List the team that owns the root cause of the incident
-PO: The Product Owner of the team
-Crew: The OCTO-DE Crew of the team
+Team: 10-10 Health Enrollment team
+PO: Patrick Bateman
+Crew: Health Tools crew
 
 ## Stakeholders
 
@@ -28,9 +31,11 @@ List _all_ stakeholders that are or were involved and include at the very least 
 
 Ensure that the list of stakeholders involved are recorded in the post-mortem and must include at the very least (but may not be limited to):
 
-- The Product Owner for each affected features, including which features they are PO of.
+- Patrick Batement
+- Adrian Rollett
+- Brandon Dech
 - The OCTO DE Lead who approved the Out-Of-Band deploy when such an OOB Deploy was requested; noting that this is regardless of whether the OOB Deploy was approved.
-- At least one OCTO DE Platform Lead (which may be the same individual as the individual who dealt with the OOB Deploy request)
+
 
 Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
 
@@ -41,6 +46,8 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Enforce Branch Code Coverage to 'X% per file' in CI | Engineering Work | [@owning-team](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [REPO_NAME - ISSUE_ID](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/1) |
+
+| Revert [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808)  | --- | --- | --- |
 
 ## Root Cause Analysis
 
