@@ -1,6 +1,6 @@
 # Project outline: Add ~claims and~ disability rating to the authenticated menu
 
-**Last Updated: January 2, 2024: Samara updated KPI section**
+**Last Updated: February 13: Travis updated to remove claims**
 
 ### Communications
 
@@ -35,6 +35,10 @@ Sitewide Public Websites
 We had substantial success by adding [letters and dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/README.md) to the Authenticated Menu in 2023. 
 
 We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Disability Rating_** . Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
+
+> [!NOTE]  
+> We originally considered including both claims and disability rating and later narrowed this to just disability rating [insert link to caia ticket or original finding/slack thread
+
 
 ## Problem Statement
 
