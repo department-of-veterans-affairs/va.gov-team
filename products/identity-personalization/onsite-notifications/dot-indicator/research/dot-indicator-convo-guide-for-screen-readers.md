@@ -63,6 +63,20 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button a
 
 - What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **There are updates with your prescriptions and refills**?
 
+Move on to badge indicator
+
+Ok, we have one more weblink to share with you. (Share link, provide assistance as needed)
+
+For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise.
+
+Where do you think on this page you could find the status of your claim?
+
+   -  If they find the card: Okay, what do you think this message means? What do you think you might have to do next?
+
+If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that
+
+- If they have never filed a claim before, move on to Thanks and Closing
+
 ## Thanks and Closing - 2 minutes
 
 Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. 
