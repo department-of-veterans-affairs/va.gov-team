@@ -67,22 +67,26 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ordered a medical device or supply before and can you tell us what that is?
+1. Tell me a bit about your last experience reordering supplies. 
 2. Have you used MyHealthEVet before?
+3. Screenshare instructions
+4. Password reset - give participant username and password 
+   
    
 
-## Task 0 Tree Test/Mental Model - 10 minutes
+## Task 1 Interview
 
-- Step 1 : I am going to share a link with you. The purpose of this exercise is to figure out where you might go to find out more about Supply Reordering, or even place your order.
+- Step 1 : How do Veterans find out about the device reordering process?
 - Step 2
 
 ### Things to watch for:
 
-
-## Second Task: [Usability Test on Product ] - 15 minutes
-
-- Step 1
-- Step 2
+## Second Task:  Usability Test on Product - 15 minutes
+- Step 1 : I am going to share a link with you. The purpose of this exercise is to figure out where you might go to find out more about Supply Reordering and place your order.
+-  Step 2: How would you find supply reordering?
+- Step 2 : If they go to the search, try to find another way to find the supply reordering tool
+- Note taker tracks where they go
+- 
 
 ### Things to watch for:
 
