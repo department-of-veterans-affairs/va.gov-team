@@ -1,0 +1,131 @@
+name: Sign In Service Onboarding
+description: For writing OCTO Identity tickets
+labels: ["Identity", "Identity SiS Onboarding"]
+assignees: "kingbmike"
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+       "Welcome! We're thrilled to connect with you about your project. To get started, please fill out our quick contact card so we can learn more about you and your needs."
+
+  - type: input
+    id: team_name
+    attributes:
+      label: Team Name
+      description: Please provide the name of your team.
+      placeholder: Agile Innovations
+    validations:
+      required: true
+
+  - type: input
+    id: main_poc_name
+    attributes:
+      label: Mai n POC Name
+      description: Please provide the name of the main point of contact.
+      placeholder: John Smith
+    validations:
+      required: true
+
+  - type: input
+    id: poc_email_address
+    attributes:
+      label: Email Address
+      description: Please provide the email address of the main point of contact.
+      placeholder: john.smith@example.com
+    validations:
+      required: true
+
+  - type: input
+    id: project_manager
+    attributes:
+      label: Project Manager
+      description: Please provide the name of the project manager.
+      placeholder: Jane Doe
+    validations:
+      required: true
+
+  - type: input
+    id: pm_email_address
+    attributes:
+      label: Email Address
+      description: Please provide the email address of the project manager.
+      placeholder: john.smith@example.com
+    validations:
+      required: true
+
+  - type: input
+    id: product_owner
+    attributes:
+      label: Product Owner (VA Employee)
+      description: Please provide the name of the product owner.
+      placeholder: Sam Lee
+    validations:
+      required: true
+
+  - type: input
+    id: po_email_address
+    attributes:
+      label: Product Owner Email Address
+      description: Please specify the email address of the product owner.
+      placeholder: slee@va.gov
+    validations:
+      required: true
+
+  - type: input
+    id: engineer
+    attributes:
+      label: Lead Engineer
+      description: Please provide the name of the lead engineer.
+      placeholder: Alex Johnson
+    validations:
+      required: true
+
+  - type: input
+    id: engineer_email_address
+    attributes:
+      label: Lead Engineer Email Address
+      description: Please provide the email address of the lead engineer.
+      placeholder: ajohnson@va.gov
+    validations:
+      required: true
+
+  - type: input
+    id: project_description
+    attributes:
+      label: Brief Description of Your Project
+      description: Please provide a brief description of your project.
+      placeholder: A new platform to enhance customer engagement.
+    validations:
+      required: true
+
+  - type: input
+    id: public_slack_channel_link
+    attributes:
+      label: Public Slack Channel Link
+      description: Please provide the link to the public Slack channel for your project.
+      placeholder: https://slack.com/channel/your-project
+    validations:
+      required: false
+
+  - type: input
+    id: comments_about_engagement
+    attributes:
+      label: Comments about Engagement
+      description: Please add any comments about the engagement.
+      placeholder: Additional details or expectations. What do users need to be able to do? What LOA is required for your application? User vs system auth or both, etc.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Application Details
+
+  - type: markdown
+    attributes:
+      value: |
+       Now that we have your details, let's dive deeper into your project. We invite you to schedule a meeting with our Product Manager, Mike King, to discuss your project's scope and how we can best assist you."
+
+        ## Tasks
+
