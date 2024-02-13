@@ -29,7 +29,7 @@ List _all_ stakeholders that are or were involved and include at the very least 
 
 Ensure that the list of stakeholders involved are recorded in the post-mortem and must include at the very least (but may not be limited to):
 
-- Patrick Batement
+- Patrick Bateman
 - Joshua Faulkner
 - Adrian Rollett
 - Curt Bonade
