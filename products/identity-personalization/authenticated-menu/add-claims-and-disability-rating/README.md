@@ -1,6 +1,4 @@
-# Project outline: Add claims and disability rating to the authenticated menu
-
-`First Draft`
+# Project outline: Add ~claims and~ disability rating to the authenticated menu
 
 **Last Updated: January 2, 2024: Samara updated KPI section**
 
@@ -36,7 +34,7 @@ Sitewide Public Websites
 
 We had substantial success by adding [letters and dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/README.md) to the Authenticated Menu in 2023. 
 
-We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Claims_** and **_Disability Rating_** information. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
+We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Disability Rating_** . Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
 
 ## Problem Statement
 
@@ -52,7 +50,7 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 ### Undesired User Outcomes
 
-- Users still look for Claims and Disability Rating information in the profile.
+- User search patterns show veterans still unable to located Disability Rating information
 
 ## Business Outcomes
 
@@ -60,7 +58,7 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Adding links to Claims and Disability Rating information in the authenticated menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
+- Adding link Disability Rating information in the authenticated menu is a significantly lighterweight solution than fully integrating this into the profile, and even easier than simply linking to these pages from the profile.
 - Our first experiment in this menu helped prove out that we can/should more holistically leverage the authenticated menu to support the authenticated experience, we're hoping to see a continued trend here that the authenticated menu can be a helpful tool for the logged in experience 
 
 ### Undesired Business Outcomes
@@ -115,6 +113,8 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 ## Key dates
 
 - December 2023: Initial discussions; project kickoff
+- January - February 2024: Research
+- February `decision pending what we do next`
 
 
 ## Design
