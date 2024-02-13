@@ -19,9 +19,9 @@ Quantified statement about the impact of the incident.
 
 ## Ownership
 
-Team: 10-10 Health Enrollment team
-PO: Patrick Bateman
-Crew: Health Tools crew
+- Team: 10-10 Health Enrollment team
+- PO: Patrick Bateman
+- Crew: Health Tools crew
 
 ## Stakeholders
 
