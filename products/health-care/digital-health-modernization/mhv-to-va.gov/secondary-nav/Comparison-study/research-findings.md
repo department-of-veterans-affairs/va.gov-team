@@ -6,10 +6,6 @@ Date: 02/12/2024
 
 Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenburg (sara.sterkenburg@va.gov), Florence McCafferty (florence.mccafferty@adhocteam.us)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
-
-<br>
-
 **Jump to:**
 
 [Key findings](#key-findings)
@@ -18,8 +14,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 [Who we talked to](#who-we-talked-to)
 
-
-<br>
+Research readout [add link here]
 
 ## Research Goals
 
@@ -33,7 +28,7 @@ The purpose of this research is to assess and compare participants' ability to n
 
 ## Methodology 
 
-We conducted 16 remote interviews with Zoom. The interviews will consist of a combination of tasks and direct questions.
+We conducted 16 remote interviews with Zoom. The 16 participants interacted with two prototypes each, half on desktop, half on mobile. 
 
 ## Key Findings
 
