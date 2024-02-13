@@ -14,7 +14,7 @@ Proactively make Veterans aware of new features and changes in the VA Health and
  - If Veteran should see Encourage Update and this, the Veteran will only see Encourage Update
  - In-App What's New Content may be the same or different from the App Store Whats New content section
  - Teams ideally should proactively communicate these changes to the Release Manager, if not there will be reminder Slacks and follow-ups asking by Release Manager
- - Asked FE to build documentation for FE steps
+ - Asked FE to build documentation for FE steps 2/13/24
 
 
 ## Steps: 
