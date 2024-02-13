@@ -16,8 +16,8 @@ Where does your product fit into the Veteran journey? This product would fall in
 ## Research Goals	
 What are you trying to learn from this research? 
 
-Goal 1: Understand how Veterans currently order and re-order supplies
-Goal 2: Evaluate if the current form is understandable and useful across participants. 
+- Goal 1: Understand how Veterans currently order and re-order supplies
+- Goal 2: Evaluate if the current form is understandable and useful across participants. 
 
 ### Outcome
 We want to determine if the current process is serving Veterans' needs and is as intuitive as possible for the future state of this product. How can the process improve?
