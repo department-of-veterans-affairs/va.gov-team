@@ -35,9 +35,6 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. **Three participants looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not.)
 1. **Two participants said that the blue VA part is too large** and has too many links. One person in phase 1 said the same thing, so that's a total of **3 people from both phases of research.**
 
-### Header issues
-1. 
-
 ### Accessibility issues to investigate 
 #### Issues that caused difficulty during sessions
 1. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty opening and closing the search box** in the header. The focus wasn't being brought into the search box input immediately when the search box opens. Both participants expected to be able to tap on *Search* and be able to type right away. 
@@ -83,21 +80,25 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (p7).*
 
-
-
 ### How recognize as an official government website
-1. Most (TBD of 9) participants said that they would **look at the URL to see if it's *.gov* or *VA.gov*** because the words and graphics could be spoofed. 
+Only 7 of the 9 participants were asked how they recognize that this is an official government website. 
+1. More than half (4 of 7) participants said that they would **look at the URL to see if it's *https* and *VA.gov*** because the words and graphics could be a fake copy. 
 1. Participants also mentioned other features of the page:
-     - **VA seal** (TBD)
-     - "An official website of the U.S. Department of Veterans Affairs" in the footer (TBD)
-     - "U.S. Department of Veterans Affairs" in the header (TBD)
-     - "USA Government" in header (TBD)
-     - Logo, typeface, and accordions of other VA pages (TBD) 
-     - "USA" logo in footer (TBD)
-     - "Veterans Crisis Line" (TBD)
+     - **VA seal** (5)
+     - ***U.S. Department of Veterans Affairs* in the header** (4)
+     - **USA Government** in header (2)
+     - Blue menu bar, white background, and Veterans Crisis Line (1) 
 
 ### Feedback on the USA Logos
-1. **TBD of 9 participants thought the colored USA logo in the header was TBD** with varying degrees of sentiment: 
+1. **TBD of 9 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
+   - Looks unfamiliar so seems fraudulent
+     > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official' (p11).*
+   - The font of the "S" seems out of place (2)--Only participants with some vision could see this.
+   - *"Looks kind of legit with the blue and the red, maybe not the black" (p6).*
+   - Not sure why it says "USA Government" because things usually say "US Government"
+   - Not sure why it says USA at all because VA is what matters
+
+
  
 
 
