@@ -68,6 +68,7 @@ Desired sample
 * 15 total
 * 7 frequent users of MHV
 * 8 infrequent users of MHV
+* 10 MHV users have been prescribed to medical supplies
 * 7 mobile users, 7 desktop users 
 * Age and education level range throughout, but ideally include at least 8 participants older than 55 and 7 participants with some college or less as their terminal degree.
 
@@ -79,12 +80,12 @@ Desired sample
 * 1-3 times in the past 6 months (go onto Screener question 2)
 * More than 3 times a month in the past 6 months (Disqualify)
 
-1. Do you have a My HealtheVet (MHV) account?
+2. Do you have a My HealtheVet (MHV) account?
 
     * Yes (go onto Screener question 3)
     * No (Disqualify)
 
-1. How often, if at all, do you use MyHealtheVet?
+3. How often, if at all, do you use MyHealtheVet?
 
 * Never used it (Disqualify)
 * Once a year (Disqualify)
