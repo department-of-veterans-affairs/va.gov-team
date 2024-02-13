@@ -106,6 +106,9 @@ Your technical team can review the [API documentation](https://staging.notificat
 
 To send a notification, you must first create a template in our Self Service Portal. There are different template types available (email/SMS). Once created, you can find a template ID under template details. This will be used in the API call to trigger the notification. Please note, if you use personalisations (dynamic content) in your template(s) you must include them in the notification request body.
 
+### vets-api
+For teams using vets-api to trigger notification requests, please see https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/va_notify/README.md
+
 ## Delivery Status Callbacks
 Callbacks provide status updates per notification sent, so your team can track individual successes and failures. 
 
