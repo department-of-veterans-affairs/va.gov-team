@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience My VA - Dot Indicator, January 2024
+# Research Plan for Authenticated Experience My VA - Dot Indicator, February 2024
 _This plan includes revisions of the original plan created by Angela Agosto in October 2023_
 
 ## Background
