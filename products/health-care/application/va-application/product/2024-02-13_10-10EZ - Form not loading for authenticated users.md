@@ -4,7 +4,7 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. Only the heading and "Need Info" sections are displayed on the screen.  There is no information between the 2 sections. The [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808 was determined to be the source of the issue, and has since been reverted.  
+After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. Only the heading and "Need Info" sections are displayed on the screen.  There is no information between the 2 sections. The [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) was determined to be the source of the issue, and has since been reverted.  
 
 ## Impact
 
