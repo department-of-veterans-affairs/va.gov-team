@@ -45,9 +45,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Enforce Branch Code Coverage to 'X% per file' in CI | Engineering Work | [@owning-team](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [REPO_NAME - ISSUE_ID](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/1) |
-
-| Revert [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808)  | --- | --- | --- |
+| Revert [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808)  | Frontend | 10-10 Health Enrollment | Va.gov-team - [#76129](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76129) |
 
 ## Root Cause Analysis
 
@@ -88,7 +86,7 @@ Describe cases where, ordinarily, you would have expected to or could have encou
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2020-01-02 @ 12:34 PM`: The [build](https://build.reference.url/details) ran
+- `2024-02-12 @ 12:34 PM`: The [build](https://build.reference.url/details) ran
 - `2020-01-03 @ 02:34 PM`: The problem was identified by Team T1 through X & Y, and [issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was created to track it
 - `2020-01-03 @ 02:40 PM`: [Issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was fully understood by team T1
 - `2020-01-03 @ 02:40 PM`: The incident rose to the level requiring a post-mortem due to factors X and Y.
