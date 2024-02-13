@@ -1,7 +1,6 @@
 *** Important: research plan currently in draft form ***
 
 This research plan is on pause while the Facilities team prioritizes another product launch. Some sections have not been updated from the boilerplate content, and others will need to be updated when the project resumes. These are a few key considerations for when work resumes on the plan:
-- Update OCTO priorities section
 - Complete the sections after the recruitment section
 
 # Research Plan for Facility locator mobile map
