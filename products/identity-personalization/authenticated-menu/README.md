@@ -1,6 +1,6 @@
 # Product Outline: Authenticated Menu
 
-**Last Updated: December 27, 2023** added new project initiative
+**Last Updated: February 13, 2024** updated design link
 
 ### Table of Contents
 
@@ -72,6 +72,6 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 ## Design
 
-- [Sketch](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas) 
+- [Figma](https://www.figma.com/file/Gubm02mbd7AqhrJBSMt81Z/Authenticated-Experience---Authenticated-Menu?type=design&node-id=0%3A40&mode=design&t=VrO9z311xEBeRWhe-1) 
 
 ## Frontend
