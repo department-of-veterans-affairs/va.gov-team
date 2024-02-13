@@ -29,10 +29,9 @@ We want to determine if the current process is serving Veterans' needs and is as
 	- Is it clear that the form my include hearing aid supplies and CPAP supplies?
 	- Is it clear to users why some supplies are available and some are not?
 3. How do people know when to reorder? - Understanding of proactive notification.
-4. Are there reminders that are already happening? (Word, so you will hear about more than digital solutions)
-5. Prioritization of other devices (might be more of a metrics review)  - Are we missing any?
-6. How do Veteran find out about the device reordering process? Is it unique that VA provides this for free? Outside VA they would have to pay?
-7. If a supply isn't available and you are told to talk to your provider, then how would you do that? (note: how many mention SM?)
+4. Prioritization of other devices (might be more of a metrics review)  - Are we missing any?
+5. How do Veterans find out about the device reordering process? Is it unique that VA provides this for free? Outside VA they would have to pay?
+6. Is this clear on what Veterans need to do when supplies are not available
 
 ### Hypothesis
 
@@ -40,10 +39,9 @@ We want to determine if the current process is serving Veterans' needs and is as
 - Hypothesis 2 :  Participants will get through the tasks of ordering the supplies relatively easily
 - Hypothesis 3:  Participants will want to know how to change supplies, or
 - Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-- Hyopthesis 5: Most likely there are no real reminders that are currently with clinician
-- Hypothesis 6: We will not really capture any other supplies outside of what DLC has requested us to add to the tools
-- Hypothesis 7: Veterans probably find out about the reordering process from their VA provider
-- Hypothesis 8: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
+- Hypothesis 5: We will not really capture any other supplies outside of what DLC has requested us to add to the tools
+- Hypothesis 6: Veterans probably find out about the reordering process from their VA provider
+- Hypothesis 7: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
 
 
 ## Methodology	
