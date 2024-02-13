@@ -28,20 +28,17 @@ We want to determine if the current process is serving Veterans' needs and is as
 2. What are user's reactions to and understanding of the current production tool?
 	- Is it clear that the form my include hearing aid supplies and CPAP supplies?
 	- Is it clear to users why some supplies are available and some are not?
-3. How do people know when to reorder? - Understanding of proactive notification.
-4. Prioritization of other devices (might be more of a metrics review)  - Are we missing any?
-5. How do Veterans find out about the device reordering process? Is it unique that VA provides this for free? Outside VA they would have to pay?
-6. Is this clear on what Veterans need to do when supplies are not available
+	- Is the form clear on what Veterans need to do when supplies are not available or when they want to change supplies?
+3. How is the process of reordering first indicated to Veterans, and how are they notified when they are eligible to reorder?
 
 ### Hypothesis
 
 - Hypothesis 1 : Participants will look to search "CPAP supplies" and find the page from there, since there is no link in the header or health hub
 - Hypothesis 2 :  Participants will get through the tasks of ordering the supplies relatively easily
-- Hypothesis 3:  Participants will want to know how to change supplies, or
+- Hypothesis 3:  Participants will want to know how to change supplies 
 - Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-- Hypothesis 5: We will not really capture any other supplies outside of what DLC has requested us to add to the tools
-- Hypothesis 6: Veterans probably find out about the reordering process from their VA provider
-- Hypothesis 7: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
+- Hypothesis 5: Veterans probably find out about the reordering process from their VA provider
+- Hypothesis 6: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
 
 
 ## Methodology	
