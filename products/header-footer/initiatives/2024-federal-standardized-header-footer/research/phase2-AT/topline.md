@@ -30,10 +30,10 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 
 
 ### Footer issues
-1. **Four participants (3 desktop, 1 mobile) misperceived the bottom of the page and didn't see any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them stopped scrolling at the blue VA footer, and 1 stopped at the white USA logo. One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 2 participants from both phases of research.
+1. **Five participants (4 desktop, 1 mobile) misperceived the bottom of the page and didn't see any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 2 *stopped at the white USA logo*. (One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 3 participants from both phases of research.)
 1. **Three participants interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
 1. **Three participants looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not.)
-1. **Two participants said that the blue VA part is too large** and has too many links. One person in phase 1 said the same thing, so that's a total of **3 people from both phases of research.**
+1. **Two participants said that the blue VA part is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
 
 ### Accessibility issues to investigate 
 #### Issues that caused difficulty during sessions
@@ -89,31 +89,27 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
      - **USA Government** in header (2)
      - Blue menu bar, white background, and Veterans Crisis Line (1) 
 
-### Feedback on the USA Logos
-Only 6 of the 9 participants had enough vision that they were able to provide feedback on the USA logos. The 6 participants were all Veterans, which obviously isn't a representative sample of all US citizens.  
+### Feedback on the federal USA Logos
+Only 6 of the 9 participants had enough vision that they were able to provide feedback on the USA logos. (The 6 participants were all Veterans, which isn't a representative sample of all US citizens.)  
 1. **5 of 6 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
    - **Doesn't look like an official government website** (2 of 6 participants)
      > *"It doesn't look professional that it doesn't instill confidence in me...There's no uniformity, it's not basic enough. It looks too frilly...When you when you open that up that, it looks like the Olympics. It doesn't look like any official government website. It doesn't look serious at all" (p4).*
 
      > *"Looks kind of legit with the blue and the red, maybe not the black" (p6).*
-   - **The font of the "S" seems out of place** (2 of 6 participants).
+   - **The font of the "S" seems out of place** (2 of 6 participants)
      > *"The font is not the best--that S is a little too fancy" (p4).*
 
      > *"The fonts aren't consistent, so S is different than the U and A (p9).*
    - Looks **unfamiliar so seems fraudulent**
      > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official' (p11).*
-   
 
-   
-   - **Not sure why it says "USA Government"** because things usually say "US Government"
+    - **Not sure why it says "USA Government"** because things usually say "US Government"
    - **Not sure why it says USA** at all because VA is what matters
      > *"The VA part...is what I'm focused on--more than the U.S. I know the VA is part of the U.S. government" (p3).*
 
- 
 
-
-18. **TBD participants liked the black/white USA logo in the footer better than the colored one** in the header because it stands out, looks good, and seems more official. 
-    > 
+1. **2 of 6 participants liked the black/white USA logo in the footer better than the colored one** in the header. 
+      > *"
 
 
 ## Next Steps
