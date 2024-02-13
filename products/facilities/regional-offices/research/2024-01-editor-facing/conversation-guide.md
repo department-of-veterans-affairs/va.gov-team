@@ -82,6 +82,7 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 
 Well thank you so much again, and enjoy the rest of your day!
 
-##
+## Resources
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2024-01-editor-facing/research-plan.md)
 
 
