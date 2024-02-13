@@ -115,7 +115,7 @@ The current approach is to have each page in the TE flow have its own unique pag
 
 <img width="1109" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/6cbaff6e-dc11-403d-a466-e9858d8f8256">
 
-#### Previous versions
+#### Other approaches considered
 
 The [condition name] (for example, "Toxic exposure"), is repeated as a header (presumably an H3?) across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. Flagged by CAIA
 
