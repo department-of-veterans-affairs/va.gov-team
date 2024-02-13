@@ -15,7 +15,7 @@ The Facilities team is ready to launch MVP VBA regional office pages in Drupal. 
 - Decrease the time Veterans spend waiting for an outcome
 
 ### OCTO Goals 
-- Our platforms measure and improve the satisfaction of their internal users
+- 3. Our people are empowered with the knowledge and resources they need to make sustained impact.
 
 ### Increase 📈
 - **Usage of digital, self- service tools**
