@@ -2,7 +2,7 @@
 
 ## Background
 
-This study will support the unauthenticated digital flow for form 10-10d application for the CHAMPVA program. We will be building this as a new digital form, so there will be no familiarity from the perspective of the veterans and dependents interacting with the digital version. However, we will specifically attempt to recruit participants familiar with the paper form and program. \
+This study will support the unauthenticated digital flow for form 10-10d application for the CHAMPVA program. We will be building this as a new digital form, so there will be no familiarity from the perspective of the veterans and dependents interacting with the digital version. However, we will specifically attempt to recruit participants familiar with the paper form and program.
 
 [[Product brief]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/product-outline.md)
 
@@ -14,8 +14,8 @@ This study will support the unauthenticated digital flow for form 10-10d applica
 
 ### Veteran Journey
 
-This product fits into the Veteran Journey at three primary moments. \
- \
+This product fits into the Veteran Journey at three primary moments.
+ 
 Starting up
 
 * Depending on their disability status and eligibility for Tricare, the Veteran and/or their family may qualify for benefits through the program at this point in their journey.
@@ -80,8 +80,8 @@ Service Design
 
 ## Methodology
 
-This methodology will be a mixed-method approach, combining a usability study with a user interview. There will be 45-60 minutes of usability testing, utilizing the think-out-loud protocol to identify significant issues with the digital form. \
- \
+This methodology will be a mixed-method approach, combining a usability study with a user interview. There will be 45-60 minutes of usability testing, utilizing the think-out-loud protocol to identify significant issues with the digital form.
+
 The exit interview questions will be asked in the remaining 20-30 minutes, less any time it takes to prepare or troubleshoot for the participant. We want to ask these questions at the end to avoid any bias that may impact interactions with the prototype, and comments gathered through the execution of the think-out-loud protocol. This method is appropriate for the goals of the research by addressing said goals directly. The maturity of the design should be appropriate to accommodate all of the aforementioned research.
 
 
@@ -119,8 +119,8 @@ Cohort 3: The remaining participants may belong to either user group
 
 Demographics:
 
-At least 4 users on Mobile devices \
-At least 4 users on Desktop/Laptop devices \
+At least 4 users on Mobile devices
+At least 4 users on Desktop/Laptop devices
 At least 4 participants aged 55-64+
 
 At least 4 participants have a cognitive disability
@@ -204,9 +204,9 @@ Maximum Sessions per day: 2 sessions
 
 ### Availability
 
-Tuesday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST \
-Wednesday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST \
-Thursday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST \
+Tuesday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST
+Wednesday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST
+Thursday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST
 Friday, February (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST
 
 
