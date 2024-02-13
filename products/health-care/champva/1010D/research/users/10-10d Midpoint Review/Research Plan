@@ -1,30 +1,22 @@
 # Research Plan for [IVC Forms Modernization Team, 10-10d, February 16th, 2024]
 
-
 ## Background
 
 This study will support the unauthenticated digital flow for form 10-10d application for the CHAMPVA program. We will be building this as a new digital form, so there will be no familiarity from the perspective of the veterans and dependents interacting with the digital version. However, we will specifically attempt to recruit participants familiar with the paper form and program. \
 
-
 [[Product brief]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/product-outline.md)
 
-
 ### OCTO Priorities
-
-
 
 * Enhance Veterans’ personalized online experience
 * Fast-track disability claims
 * Drive OIT’s Digital Transformation Strategy
-
 
 ### Veteran Journey
 
 This product fits into the Veteran Journey at three primary moments. \
  \
 Starting up
-
-
 
 * Depending on their disability status and eligibility for Tricare, the Veteran and/or their family may qualify for benefits through the program at this point in their journey.
 
