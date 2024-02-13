@@ -36,14 +36,14 @@ We want to determine if the current process is serving Veterans' needs and is as
 
 ### Hypothesis
 
-Hypothesis 1 : Participants will look to search "CPAP supplies" and find the page from there, since there is no link in the header or health hub
-Hypothesis 2 :  Participants will get through the tasks of ordering the supplies relatively easily 
-Hypothesis 3:  Participants will want to know how to change supplies, or 
-Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-Hyopthesis 5: Most likely there are no real reminders that are currently with clinician
-Hypothesis 6: We will not really capture any other supplies outside of what DLC has requested us to add to the tools
-Hypothesis 7: Veterans probably find out about the reordering process from their VA provider
-Hypothesis 8: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
+- Hypothesis 1 : Participants will look to search "CPAP supplies" and find the page from there, since there is no link in the header or health hub
+- Hypothesis 2 :  Participants will get through the tasks of ordering the supplies relatively easily
+- Hypothesis 3:  Participants will want to know how to change supplies, or
+- Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
+- Hyopthesis 5: Most likely there are no real reminders that are currently with clinician
+- Hypothesis 6: We will not really capture any other supplies outside of what DLC has requested us to add to the tools
+- Hypothesis 7: Veterans probably find out about the reordering process from their VA provider
+- Hypothesis 8: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
 
 
 ## Methodology	
