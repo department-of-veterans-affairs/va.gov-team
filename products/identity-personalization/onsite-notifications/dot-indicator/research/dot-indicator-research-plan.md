@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience My VA - Dot Indicator, February 2024
+# Research Plan for Authenticated Experience My VA - Dot Indicator/Slim Alert, February 2024
 _This includes additions to and revisions of the original plan created by Angela Agosto in October 2023_
 
 ## Background
@@ -8,6 +8,7 @@ With the initial experiment deemed a success, we are looking to potentially expa
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/dot-indicator). 
 
+#### Slim Alert in Claims Status Cards
 In addition, we are using this as an opportunity to test a new, experimental component in the VA Design System, [the slim alert contained with claims status cards](https://design.va.gov/components/card#claims-status) recently introduced by the Benefits team. As this is another type of notification that prioritizes the attention of users (specifically when more evidence/info is required from Veterans), it's fitting to include this in the study as well and gain an understanding of how the messaging of the slim alert is perceived.
 
 ### OCTO Priorities 
