@@ -19,7 +19,7 @@ This page describes content for Ask VA [in our draft designs in Figma](https://w
 ## Areas for improvement
 - Align content in the Ask VA experience with content currently in VA.gov (or vice versa?)
    - Example: The "Contact us" page directs users to "ask our chatbot a question." But we direct users to also "get answers" in our draft designs in Figma. When should we direct users to use Ask VA vs. other tools or customer support channels?
-- If there are multiple terms describing one thing, consider choosing only one term
+- If there are multiple terms describing one thing, consider choosing only one term to lead with
 
 ## Current VA.gov pages with references to Ask VA
 You can view the [top VA.gov pages with outbound links clicked to ask.va.gov](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20230917&_u.date01=20230923&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22outbound%20link%20clicked:%20https:~2F~2Fask%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=100&_r.drilldown=analytics.eventCategory:Interactions&explorer-table-tableMode.selected=performance/) in Google Analytics.
