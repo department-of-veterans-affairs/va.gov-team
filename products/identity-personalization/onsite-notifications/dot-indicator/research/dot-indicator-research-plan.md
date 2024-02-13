@@ -1,5 +1,5 @@
 # Research Plan for Authenticated Experience My VA - Dot Indicator, February 2024
-_This plan includes revisions of the original plan created by Angela Agosto in October 2023_
+_This includes additions to and revisions of the original plan created by Angela Agosto in October 2023_
 
 ## Background
 The Authenticated Experience and MHV landing page teams recently shared a common need for an indicator on our pages for unread or unseen things. We realized that both authenticated landing pages could benefit from a badge-like component that is either a dot or a number to indicate this next to certain links. [The Authenticated Experience team conducted an experiment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator#project-outline-create-dot-indicator) with a red dot next to our "Go to your inbox" link to indicate unread messages in September 2023 and saw a [47% increase in clicks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator#measuring-success) as compared to our previous unread messages link. 
@@ -7,6 +7,8 @@ The Authenticated Experience and MHV landing page teams recently shared a common
 With the initial experiment deemed a success, we are looking to potentially expand upon the dot indicator, identify when it's appropriate to use different types of badges or indicators, and learn more about the accessibility implications of this indicator.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/dot-indicator). 
+
+In addition, we are using this as an opportunity to test a new, experimental component in the VA Design System, [the slim alert contained with claims status cards](https://design.va.gov/components/card#claims-status) recently introduced by the Benefits team. As this is another type of notification that prioritizes the attention of users (specifically when more evidence/info is required from Veterans), it's fitting to include this in the study as well and gain an understanding of how the messaging of the slim alert is perceived.
 
 ### OCTO Priorities 
 
@@ -31,7 +33,7 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 We will be sharing our research findings with other VFS teams who are interested in an indicator, such as the cartography team. From there we will decide (collaboratively) if it makes sense to proceed with experimental design to add an indicator to the VA.gov design system.
 
 ### Hypothesis
-[Past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#key-findings) for My VA tells us that users want to see timely personalized updates upon logging into VA.gov. They expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps. It is our hope that additions like indicators for unread or unseen things will help to deliver this kind of personalized and streamlined experience that users expect when logging into VA.gov.
+[Past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#key-findings) for My VA tells us that users want to see timely personalized updates upon logging into VA.gov. They expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps. It is our hope that additions like indicators for unread, unseen, and important things will help to deliver this kind of personalized and streamlined experience that users expect when logging into VA.gov.
 
 We hypothesize that:
 - There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as [Material Design](https://m3.material.io/components/badges/overview).
@@ -39,6 +41,7 @@ We hypothesize that:
 - We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators.
 - We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have.
 	- We expect that there may be interesting findings for <b>when</b> screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
+ - We expect the slim alert's current content will highlight when a claim requires Veteran attention, but the default content included in the component may not be sufficient to inform them as-is (testing is an opportunity to get a better sense of what matters most with claim updates and how we can refine the messaging to better call out what needs attention). 
 
 ## Methodology	
 We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code to answer some of our research questions but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use CodePen for user testing. 
