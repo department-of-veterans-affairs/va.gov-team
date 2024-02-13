@@ -31,7 +31,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Research goal: Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. - 15-20 minutes
+## Research goal: Determine the effectiveness of dot, badge, and slim alert indicators to draw attention to important updates and when it's appropriate to use each kind of indicator - Approx. 20 minutes
 
 Now I'm going to ask you to open the link I've shared with you in Zoom chat, and then for you to share your screen with me. Let me know if you need any help doing that.
 
@@ -56,9 +56,6 @@ Okay great, I can see your screen. Now please click the "sign in" button in the 
 
 - Is there anywhere on this view of the website that we're looking at now where you expect to see a *red* dot notification like this but you don't?
 
-
-__Move on to badge indicator__
-
 Okay, I'm now going to share with you another link in Zoom chat that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
 
 *User shares screen*
@@ -71,6 +68,24 @@ What do you think the badge with the number in it means?
 What would you expect to see if you clicked "Refill and track your prescriptions" when it has this numbered badge next to it?
 
 How do you think badge with the number in it would disappear?
+
+**Move on to slim alert banner for claim cards**
+
+### __Move on to badge indicator__
+
+Ok, we have one more weblink to share with you. (Share link)
+
+For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. 
+
+Where do you think on this page you could find the status of your claim?
+
+- If they find the card: Okay, what do you think this message means? What do you think you might have to do next?
+
+- _Colorblind users_: Did you have any difficulty reading this alert, or seeing it in general?
+
+If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that
+
+_- If they have never filed a claim before, move on to Thanks and Closing_
 
 ## Thanks and Closing - 2 minutes
 
