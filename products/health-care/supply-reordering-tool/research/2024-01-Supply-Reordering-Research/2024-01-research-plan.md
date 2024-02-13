@@ -111,8 +111,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research: 
 ### Length of sessions
 * Session length: <1 hour 
-* Buffer time between sessions : 30 minutes 
-* Maximum Sessions per day: 4
+* Buffer time between sessions: 1 hour  
+* Maximum Sessions per day: 3
 
 ### Availability
 | Day | Date | Times (Eastern time zone) |
