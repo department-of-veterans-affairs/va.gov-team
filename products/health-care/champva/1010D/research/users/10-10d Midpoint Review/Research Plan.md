@@ -96,7 +96,7 @@ For moderated usability tests:
 
 
 
-* [[Link to conversation guide]](https://docs.google.com/document/d/1dyEgZLKtVqZ3PgX8AOdi8C5hgVxWnYVOqC78FfxUuiM/edit)
+* [[Link to conversation guide]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/10-10d%20Midpoint%20Review/Conversation%20Guide.md)
 * [[Link to prototype]](https://www.figma.com/file/LWfLUckNkxEz3fxXsxde93/10-10d---%5BDoc-Uploads%5D-Updates?type=design&node-id=254%3A119689&mode=design&t=4x4HTvisMBnQ9AmR-1)
 
 
