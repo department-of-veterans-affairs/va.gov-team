@@ -10,12 +10,8 @@ The Facilities team is ready to launch MVP VBA regional office pages in Drupal. 
 
 ## OCTO Objectives 
 
-### North stars 
-- Increase the usage and throughput of VA services
-- Decrease the time Veterans spend waiting for an outcome
-
 ### OCTO Goals 
-- 3. Our people are empowered with the knowledge and resources they need to make sustained impact.
+- Our people are empowered with the knowledge and resources they need to make sustained impact.
 
 ### Increase 📈
 - **Usage of digital, self- service tools**
