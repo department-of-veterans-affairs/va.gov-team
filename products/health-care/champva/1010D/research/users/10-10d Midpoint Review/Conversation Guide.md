@@ -55,9 +55,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Step 2: Please proceed through filling out the form as if you were attempting to apply for benefits. Feel free to fabricate responses that fit the fields if you feel uncomfortable inputting your personal information. As stated previously, however, we will be removing any of your identifying information, and nothing you do here will impact your actual benefits or services in any way. Please vocalize what you are thinking as you proceed. As we mentioned earlier, please ask if you have any questions. Please know that if you do ask questions, I may not answer them because the purpose of the study is to see how you naturally interact with the form and not to guide you through it. Also, please be aware none of your information will be shared, but if you do not feel comfortable inputting your real information, please feel free to enter something as a placeholder.
     * Facilitator note: If the participant struggles with fabricating information or prefers not to, please give them some 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "placeholder information"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[placeholder information](#heading=h.il5q27gp5dq6) below.
+placeholder information below.
     * Facilitator note: Have the participant interact with the list-and-loop as if they had multiple applicants.
     * Facilitator note: Have the participant interact with the Medicare Card uploads. (Prompt them to behave as if they had both parts A & D or two different cards)
 * Step 3 (after 50 minutes or after the form is completed): Thank you for going through the prototype with us. Before we move on, we’d like to ask: 
