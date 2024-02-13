@@ -117,6 +117,7 @@ _[Proceed to prescription list view on PowerPoint]_
 - Have you ever looked up information about a prescription in the past?
 
   - Tell me the information you were looking for. How did you find it?
+  - What keywords do you use to find that information? 
 
 - Have you ever used information on your prescription bottle when looking up anything related to a prescription online?
 
@@ -124,8 +125,10 @@ _[Proceed to prescription list view on PowerPoint]_
 
 ## **Prescription not found - 5 minutes**
 
-- What have you done in the past when you could not find a prescription on your list?
-  - _[If they haven't had this issue]_ Let's say you are helping a friend or family member who is having trouble finding their specific prescription. What would you do?
+- Let's say you log into your MHV [or app they use] to look for a prescription but you are having trouble finding that specific prescription. What would you do? 
+
+ - Where would you look on MHV [or app they use] 
+
 - Let's say that you need to recall the dosage of a prescription that you have not used for a few years, where would you look for that information?
 
   - What would you do if you couldn't remember the name of the prescription?
@@ -137,7 +140,13 @@ _[Proceed to prescription list view on PowerPoint]_
 
 _[If they had mentioned using online pharmacy at warm up, ask]_
 
-- You mentioned that you have used another online pharmacy in the past to manage your prescriptions. Please tell me about that experience.
+- You mentioned that you have used another online pharmacy in the past to manage your prescriptions. Do you use their app or web? 
+
+   - How are the prescriptions organized? 
+
+   - How do you look for your prescriptions on the app/web? 
+
+   - How easily are you able to find what you need on the app/web? 
 - What are some things on your other online pharmacy that have helped to manage your prescriptions?
 - Tell me what you like about your other online pharmacy, when it comes tomanaging your prescriptions?
 - Tell me what you don't like about your other online pharmacy, when it comes to managing your prescriptions?
