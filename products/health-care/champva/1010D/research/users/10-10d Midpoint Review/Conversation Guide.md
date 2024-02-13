@@ -127,7 +127,7 @@ Backup Moderator: This is best practiced beforehand, but it can work if there is
 
 ## Placeholder Information
 
-This information will be provided to individuals who run into a scenario where they are having trouble coming up with something or do not want to make up their own answers. The facilitator will choose the appropriate type of information from the set and relay it to them if needed. \
+This information will be provided to individuals who run into a scenario where they are having trouble coming up with something or do not want to make up their own answers. The facilitator will choose the appropriate type of information from the set and relay it to them if needed.
 
 
 Names: Joe, Sam, Margot, Betty \
