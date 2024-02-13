@@ -1,4 +1,6 @@
-# Debt Portal Medallia Feedback (draft, in progress)
+# Medallia Feedback
+
+## Debt Portal 
 
 ## **Summary and opening:**
 
@@ -30,6 +32,16 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 -   Find account number
 -   Dispute a debt
 -   Paying recurring copays
+
+## Challenges
+
+**Distress, fears, resulting serious consequences**
+
+   - Psychological distress, described as anxiety or hopelessness.
+-   Documentation needed to complete certain transactions: I.e., buy a house for which a debt letter was needed, expect to be able to download the debt letter and can't.  (n = 1)
+-   Fixed income, debts mean the difference between being able to afford groceries
+-   Prescription copay debts that are unaffordable mean they quit refilling their medication (n = 1)
+-   Being unaware of their debt and fear that this will affect prospective employment (n = 1)
 
 ## **Top issues:**
 
@@ -106,3 +118,41 @@ The Debt Resolution team is currently implementing new copy on the debt portal t
 > 
 > There is insufficient detail to make a reasoned decision as to whether
 > or not to pay this bill! (December 2023)
+
+# FSR
+
+37 Veterans left qualitative feedback on the financial status report form (FSR) in December of 2023 and January of 2024.
+
+The most prominent theme out of these qualitative feedback entries are related to difficulty with findability - of the debt amount or the FSR form.
+
+In the following entry, a Veteran describes that they aren't able to find their debt in the system, and they ask that it be easier to find debt on the website:
+
+> I needed to fill out a 5655 form. I have debt and it isn't showing in the system. I didn't know I had the debt until now due to the information not showing for months. I'm worried that this may affect a tentative job offer. Please make it so that all debt shows on the site or somehow make it easier for us to be aware that we actually have a debt. (December 2023)
+
+3 Veterans describe having difficulty finding the FSR form.
+
+A Veteran describes how they feel that they should not be responsible for the overpayment. They further describe how they would have expected a phone call about it, not just letters in the mail that they describe as untimely:
+
+> I don't feel as if I should be responsible for your mess up. I have no control of the over payments that is said to have taken place. I don't know what I am supposed to receive it is never a set amount. It is out of my hands if you maybe who ever in in charge should be more responsible. For me to be almost $2000 in debt over this happening is a is insane. I did not receive a phone call about it. Only letters in the mail a month later. I ask that you waive the debt and maybe figure out why y'all are overpaying me and fix the problem. I will not be in debt due to a constant mess up on your end. (December 2023)
+
+-   Another Veteran describes an issue that another Veteran surfaced in the debt portal feedback, about mail being sent to a mailing address that they don't have access to:
+
+> I never received the form indicating what I owe. It was sent to a residence I no longer reside at. I'll just send a blank check and you fill it out. (January 2024)
+
+Another Veteran describes a need to see an explanation of copay charges, as described in the debt portal finding (A need to see copay charge details (need: dispute copay charges):
+
+>ATTEMPTING TO HAVE VA PROVIDE EVIDENCE (CALCULATIONS) OF COMPENSATION OVERPAYMENT. VA HAS A POSTING OF "CURRENT DEBT" WHICH ICANNOT ACCEPT WITHOUT AN EXPLANATION/CALCULATION. I HAVE ALSO BEEN AWARDED 100% DISABILITY AND PRESCRIPTION MEDICATION FOR MY SERVICE CONNECTED DISABILITY SHOULD BE GROUP 1. I ACTUALLY AM WILLING TO PAY MY COPAY PORTION, HOWEVER, VA's SERVICE HAS BEEN LESS THAN SATISFACTORY, THUS I MIGHT AS WELL GET THAT OFF MY CHEST. (January 2024)
+
+Veterans expect to see details of copay and overpayments charges so they may understand what they are, and decide how they would like to proceed with managing or resolving the debt.
+
+Another Veteran says that their waiver will not be there by the deadline because the site 'never works when you need it to'. They describe a sense of hopelessness:
+
+> I was trying to send a request for waiver for a overpayment. Because your site is unreliable it will not be there by the deadline. Thank you for letting me down. You really do not care about veterans. This is the worst site I have ever used. It never works when you need it to. My life is coming to a close. I hope you are satisfied. Yet I am wasting my time because you could care less.  (January 2024)
+
+1 Veteran was unable to submit the form due to a technical error:
+
+>  We're sorry. Something went wrong on our end. You are unable to submit a Financial Status Report (VA Form 5655) because something went wrong on our end. Please try again later. (January 8, 2024)
+
+A Veteran describes that they are unable to pay for their medication and they quit refilling them:
+
+> I have no money no job no transportation I have no money to pay for my meds so I quit refilling them (December 2023)
