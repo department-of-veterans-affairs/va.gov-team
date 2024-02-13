@@ -92,21 +92,21 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 ### Feedback on the USA Logos
 Only 6 of the 9 participants had enough vision that they were able to provide feedback on the USA logos. The 6 participants were all Veterans, which obviously isn't a representative sample of all US citizens.  
 1. **5 of 6 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
-   - Doesn't look like an official government website (2 of 6 participants)
+   - **Doesn't look like an official government website** (2 of 6 participants)
      > *"It doesn't look professional that it doesn't instill confidence in me...There's no uniformity, it's not basic enough. It looks too frilly...When you when you open that up that, it looks like the Olympics. It doesn't look like any official government website. It doesn't look serious at all" (p4).*
 
      > *"Looks kind of legit with the blue and the red, maybe not the black" (p6).*
-   - The font of the "S" seems out of place (2 of 6 participants).
+   - **The font of the "S" seems out of place** (2 of 6 participants).
      > *"The font is not the best--that S is a little too fancy" (p4).*
 
      > *"The fonts aren't consistent, so S is different than the U and A (p9).*
-   - Looks unfamiliar so seems fraudulent
+   - Looks **unfamiliar so seems fraudulent**
      > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official' (p11).*
    
 
    
-   - Not sure why it says "USA Government" because things usually say "US Government"
-   - Not sure why it says USA at all because VA is what matters
+   - **Not sure why it says "USA Government"** because things usually say "US Government"
+   - **Not sure why it says USA** at all because VA is what matters
      > *"The VA part...is what I'm focused on--more than the U.S. I know the VA is part of the U.S. government" (p3).*
 
  
