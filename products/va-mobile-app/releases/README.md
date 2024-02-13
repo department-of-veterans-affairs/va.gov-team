@@ -335,9 +335,8 @@ We recorded a presentation to VA stakeholders in April 2023 that included a brie
 | Action | Description | Responsible (Execute) | Accountable (Owner) | Consulted | Informed | Documentation |
 | -------| ----------- | ----------- | ----------- | --------- | -------- | ------- | 
 | Call center guide updates with new production changes | Call Center guide needs to be updated for any production chagnes so that VA Customer Service has most recent document in order to serve Veterans inquirying in. [Ticket example](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7292)  | Flagship PM | Flagship PM | UX, VA Call Center | QA and Release, PO | [Call Center Process doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs) |
-| Apple App Store Whats New Content| Determine if there are content changes needed within the Apple Store App. Flagship PM to create ticket and coordinate with other PMs for a consolidate copy amongst all changes. Release manager will pull content from ticket to release ticket. [Ticket example](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7712)| Release Manager | Flagship PM | Content | PO | [App Store Process doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases) |
+| Apple App Store Whats New Content| Determine if there are content changes needed within the Apple Store App. Flagship PM to create ticket and coordinate with other PMs for a consolidate copy amongst all changes. Release manager will pull content from ticket to release ticket. Google does not have this section so it only applies to Apple. [Ticket example](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7712)| Release Manager | Flagship PM | Content | PO | [App Store Process doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases) |
 | Apple App Store Phone Images | Images within the app store need to be updated if visuals have changed. This is needed for iPad and iPhone | Flagship PM | Flagship PM | UX, Front-End Engineering | QA and Release, PO | [Images process doc](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores/) |
-| Google App Store Whats New Content | Determine if there are content changes needed within the Apple Store App. Flagship PM to create ticket and coordinate with other PMs for a consolidate copy amongst all changes.  Release manager will pull content from ticket to release ticket. [Ticket example](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7712)| Release Manager | Flagship PM | Content | PO | [App Store Process doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases) |
 | Google Phone Images | Phone images within the app store need to be updated if visuals have changed | Flagship PM | Flagship PM | UX, Front-End Engineering | QA and Release, PO | [Images process doc](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores/) |
 | Va.gov App Store Content | Determine if there are content changes needed within the Apple Store App. Flagship PM to create ticket and coordinate with other PMs for a consolidate copy amongst all changes. |Flagship PM | Flagship PM | Content, Engineering, UX | PO | [Va.gov App Store Doc ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/VA.Gov%20App%20Store) |
 | VA.gov Images | Determine if the VA.Gov app store needs to be updated with copy / images.  | Flagship PM | Flagship PM | Content, Engineering, UX | PO |  [Va.gov App Store Doc ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/VA.Gov%20App%20Store) |
@@ -347,3 +346,40 @@ We recorded a presentation to VA stakeholders in April 2023 that included a brie
 | Hot fix Implementation | | Engineering | QA and Release Team |  POs, PMs, QA, | Team | [Incident Response](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Incident%20Response/) |
 | Adding new code to the release branch or removing code from the release branch | | Engineering | QA and RElease Team | POs, PMs, QA | Team | 
 | Ensuring Mobile is up to date with App store requirements | | Engineering | Release Manager | QA and Release Team | 
+
+
+
+# Apple App Store  Store Images - [Apple](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596?platform=iphone)
+**Images iPhone and iPad**
+
+<img width="507" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1311c27-1236-4b6e-9245-ce79f9945bd6">
+
+**Whats New App Store Content**
+
+<img width="534" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/6be8e046-f47f-428a-a34e-94e239785fb3">
+
+**App Description** 
+
+<img width="521" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/bc93cbcc-2c4a-4437-847b-4b9af56e6fcd">
+
+
+# Google Play Store - [Google]([https://apps.apple.com/us/app/va-health-and-benefits/id1559609596?platform=iphone](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US&gl=US))
+**Phone Images only** 
+
+<img width="507" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1311c27-1236-4b6e-9245-ce79f9945bd6">
+
+**App Description / About this app section** 
+
+<img width="521" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/455d5557-9a2e-4ee8-b319-e9ac6f3fefca">
+
+
+# VA.Gov App Store - [VA.gov](https://mobile.va.gov/app/va-health-and-benefits)
+**Mobile Team only handles updating the images and features section. Videos / downloadable training materials are done through VA Marketing only. Also its not a separate app store, it links out to Apple / Google** 
+
+<img width="502" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/7665a744-a991-41c1-bf1d-5beff72eda33">
+
+
+# VAHB Mobile App What's New 
+**Alert box on the home page where content can be provided is project determines its necessary.** 
+
+<img width="114" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/942a10a7-6393-42e6-aa14-8abdb3f11727">
