@@ -68,7 +68,6 @@ Desired sample
 * 15 total
 * 7 frequent users of MHV
 * 8 infrequent users of MHV
-* 10 MHV users have been prescribed to medical supplies
 * 7 mobile users, 7 desktop users 
 * Age and education level range throughout, but ideally include at least 8 participants older than 55 and 7 participants with some college or less as their terminal degree.
 
@@ -89,9 +88,14 @@ Desired sample
 
 * Never used it (Disqualify)
 * Once a year (Disqualify)
-* Once a month (Qualify)
-* 2-3 times a month (Qualify)
-* more than 3 times a month (Qualify)
+* Once a month (go onto Screener question 4)
+* 2-3 times a month (go onto Screener question 4)
+* more than 3 times a month (go onto Screener question 4)
+
+4. Have you been prescribed to medical equipment, such as CPAP?
+
+* Yes (Qualify, at least 10)
+* No (Qualify, less than 5)
   
 ## Timeline
 
