@@ -120,6 +120,7 @@ Current projects are actively managed in the AE Profile Github project, the char
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[CICD Pipeline - Product Isolation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62378)|January 2024|
 |[Profile hub MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/README.md)|December 19, 2023|
 |[Authenticated Menu Updates (adding Letters and Dependents)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter)|October 4, 2023|
 |[Disability rating EVSS > Lighthouse migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md) |September 2023 |
@@ -185,6 +186,7 @@ Current projects are actively managed in the AE Profile Github project, the char
 |Project or enhancement|Launch/Completion date|
 |----|----|
 |[Account Security: Update designs to support 508 updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51085)|Launched February 2, 2023|
+
 
 </details>
 
