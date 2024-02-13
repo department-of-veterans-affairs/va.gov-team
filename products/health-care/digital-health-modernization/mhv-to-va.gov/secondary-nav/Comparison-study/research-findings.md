@@ -33,10 +33,7 @@ The purpose of this research is to assess and compare participants' ability to n
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-We will conduct remote interviews with Zoom. The interviews will consist of a combination of tasks and direct questions.
-
+We conducted 16 remote interviews with Zoom. The interviews will consist of a combination of tasks and direct questions.
 
 ## Key Findings
 
@@ -47,8 +44,6 @@ We will conduct remote interviews with Zoom. The interviews will consist of a co
 3. Spectrum of "figure-it-outness"​
 
 4. Sensemaking around health vs. Non-health resources: Differentiating between My VA and MHV portal experience
-
-
 
 ## Details of Findings 
 
