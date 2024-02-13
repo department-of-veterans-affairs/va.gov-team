@@ -13,12 +13,10 @@
 - **As a VSOfficer:** I require a secure login system to verify my accreditation and identity in order to protect Veterans’ Personal Identifiable Information (PII) and Protected Health Information (PHI).
 - **As a VSOfficer:** I need immediate access to the Veteran’s records once I’ve accepted their POA so that I can immediately start working on the Veteran’s claim.
 - **As a Veteran who is a VSOfficer:** I need to be confident that I’m affecting only the Veteran’s files and not my own so that I can have confidence using the system.
+
+
+## MVP but may be with another team
 - **As a Veteran:**  I need to be notified whether my POA request was accepted or rejected in order to know if I need to seek further assistance.
-
-## Potential Stretch Goals
-
-- **As a VSOfficer:** I need to be able to see all of the people the VSOrg has POA for.
-- **As an accredited representative who is not a VSO:** I need to be able to accept or reject the 21-22a.
 
 ## Non-functional requirements
 
