@@ -8,13 +8,15 @@
 
 2. **What URL endpoints should redirect to your service?**
 
-   > Localhost: localhost:3000/representative/
+   > For all environments, we'll attempt to leverage as much of the existing auth callback.
    >
-   > Dev: dev.va.gov/representative/
+   > Localhost: TBD
    >
-   > Staging: staging.va.gov/representative/
+   > Dev: likely not needed
    >
-   > Production: www.va.gov/representative/
+   > Staging: TBD
+   >
+   > Production: TBD
    >
    > 2a. Requires additional query parameters: Not at the moment, but this may be necessary
    >
@@ -42,8 +44,8 @@
 
 7. **Does your service have user type requirements?**
 
-   > Only accredited representatives, namely [Veteran Service Representatives (of the officer type)](https://github.com/department-of-veterans-affairs/vets-api/blob/46447adcebbc28b7a0ec5f211c715927a165251b/modules/veteran/app/models/veteran/service/representative.rb#L8) and [Veteran Service Organizations](https://github.com/department-of-veterans-affairs/vets-api/blob/46447adcebbc28b7a0ec5f211c715927a165251b/modules/veteran/app/models/veteran/service/organization.rb)
+   > Currently: any user.
+   > Eventually: only accredited representatives. Note: this user type does not currently exist in vets-api.
 
 8. **Is the external application a mobile app?**
-
-  > Web application
+   > Web application
