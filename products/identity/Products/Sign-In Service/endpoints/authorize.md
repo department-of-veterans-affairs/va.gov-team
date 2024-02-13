@@ -17,7 +17,7 @@ Production: 'https://api.va.gov/v0/sign_in/authorize'
 | --- | --- | --- | --- |
 | `type` | Which credential provider is authenticating the user | String | `logingov`, `idme`, `dslogon`, `mhv` |
 | `client_id` | A unique name identifying your ClientConfig. | String | `sample_client_web`, `sample_client_api` |
-| `acr` | The level of user authentication asked for. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
+| `acr` | The level of user authentication asked for. Login.gov requests must use `ial1`/`ial2`, ID.me-backed requests must use `loa1`/`loa3`. | String | `ial1`, `ial2`, `loa1`, `loa3`, `min` |
 | `code_challenge` | Value created by client, derived from `code_verifier`, and passed to `/authorize` to be saved by vets-api | String | `JNkFflCkxk1K6gQUf23P_5Ctl_T65_xkkOU_y-Cc2XI=` |
 | `code_challenge_method` | Client specified, most common value is S256 | String | `S256` |
 | `code_verifier` | Value created and stored by client during `/authorize`, passed in `/token` to verify against vets-api stored `code_challenge` | String | `f2413353d83449c501b17e411d09ebb4` |
