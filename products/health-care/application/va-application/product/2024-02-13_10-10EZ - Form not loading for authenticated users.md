@@ -4,8 +4,9 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. The PR #27808 was determined to be the source of the issue, and has since been reverted.  
-There was a [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) that was a part of that deployment and that is the only PR for this application in that time period. The PR has worked in all other lower environments and no impact to functionality or users was noted until it got into the prod environment. This OOB request is a step in an effort to rectify the issue for authenticated users.The 10-10EZ Veteran health care application was not displaying for authenticated users.  Only the heading and "Need Info" sections are displayed on the screen.  There is no information between the 2 sections.
+After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. Only the heading and "Need Info" sections are displayed on the screen.  There is no information between the 2 sections. The PR #27808 was determined to be the source of the issue, and has since been reverted.  
+
+There was a [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) that was a part of that deployment and that is the only PR for this application in that time period. The PR has worked in all other lower environments and no impact to functionality or users was noted until it got into the prod environment. This OOB request is a step in an effort to rectify the issue for authenticated users.The 10-10EZ Veteran health care application was not displaying for authenticated users.  
 
 
 ## Impact
@@ -32,6 +33,7 @@ List _all_ stakeholders that are or were involved and include at the very least 
 Ensure that the list of stakeholders involved are recorded in the post-mortem and must include at the very least (but may not be limited to):
 
 - Patrick Batement
+- Joshua Faulkner
 - Adrian Rollett
 - Brandon Dech
 - The OCTO DE Lead who approved the Out-Of-Band deploy when such an OOB Deploy was requested; noting that this is regardless of whether the OOB Deploy was approved.
@@ -86,12 +88,28 @@ Describe cases where, ordinarily, you would have expected to or could have encou
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2024-02-12 @ 12:34 PM`: The [build](https://build.reference.url/details) ran
-- `2020-01-03 @ 02:34 PM`: The problem was identified by Team T1 through X & Y, and [issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was created to track it
-- `2020-01-03 @ 02:40 PM`: [Issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was fully understood by team T1
-- `2020-01-03 @ 02:40 PM`: The incident rose to the level requiring a post-mortem due to factors X and Y.
-- `2020-01-03 @ 02:45 PM`: Team T1 produced [Pull Request #124](https://github.com/department-of-veterans-affairs/${REPO_NAME}/pull/124) to resolve the issue
-- `2020-01-03 @ 02:50 PM`: The PR was approved by a member of Team T1 and a member of Team T2 because T2 has interests 'I' in this
+- `2024-02-12 @ 05:25 PM ET`: The Daily Deploy was completed - [List of commits deployed](https://github.com/department-of-veterans-affairs/vets-website/compare/v0.1.2510...6bd6d33c9045a79229b63e5228b91827cfd7a1e1)
+- `2024-02-13 @ 09:54 AM ET`: Joshua Faulkner posted in the #1010-health-apps Slack channel that the 10-10EZ forms submissions had dramatically dropped off since the previous night around midnight
+- `2024-02-13 @ 11:09 AM ET`: It was confirmed there were no backend issues reported 
+- `2024-02-13 @ 11:24 AM ET`: Validated that authenticated users would be directed to a screen with just the title of the application and the "Need Help" section.  The unauthenticated user flow was unaffected.
+- `2024-02-13 @ 11:24 AM ET`: Confirmed that the only deployment from our team on the previous day was for the 10-10CG and not related to the 10-10EZ code
+- `2024-02-13 @ 11:29 AM ET`: A ticket was open with Platform Support for assistance - [Github support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76020)
+- `2024-02-13 @ 11:42 AM ET`: Validated that the Staging environment did not experience this issue for either authenticated or unauthenticated users
+- `2024-02-13 @ 12:03 PM ET`: Validated that the RUM dashboard in Datadog also showed user session replays where they are not able to view the form as expected
+- `2024-02-13 @ 12:05 PM ET`: PagerDuty Maintenance window is placed
+- `2024-02-13 @ 01:20 PM ET`: Call started with Matt Long (FE Engineer) and Chapley Watson (Full stack Engineer) to triage the issue and talk through solutions 
+- `2024-02-13 @ 01:33 PM ET`: Pulled PagerDuty Maintenance window down to run a quick test after a refresh by Frontend.  This did not work, still experiencing the issue.  Maintenance window placed back up.
+- `2024-02-13 @ 01:35 PM ET`: Determined that the initial PR #27808 needs to be reverted, this is the only option we have at this time, and cannot complete any testing in lower level environments.
+- `2024-02-13 @ 01:45 PM ET`: [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962) placed for the revert of [PR #29808](https://github.com/department-of-veterans-affairs/vets-website/pull/27962)
+- `2024-02-13 @ 02:44 PM ET`: [Platform Support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76100) opened for urgent review of [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962)
+- `2024-02-13 @ 02:54 PM ET`: Advised by Curt Bonade that this will not make it into the Daily Deploy window, however an OOB can be done just after.
+- `2024-02-13 @ 02:59 PM ET`: Brandon Dech requested we fill out an OOB request ticket
+- `2024-02-13 @ 03:11 PM ET`: Matt Long submitted the [OOB Ticket #76115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76115)
+- `2024-02-13 @ 02:59 PM ET`: Brandon Dech triggered a [PagerDuty](https://dsva.pagerduty.com/incidents/Q06LE037B31IH2) to notify on call OOB deployment for approval
+- `2024-02-13 @ 02:59 PM ET`: Bill Chapman expressed that he was not a fan of troubleshooting by revert, however recognizes that the error correlated with the deployment - APPROVED OOB
+- `2024-02-13 @ 02:59 PM ET`:
+- `2024-02-13 @ 02:59 PM ET`:
+- `2024-02-13 @ 02:59 PM ET`: 
 - ...
 
 ## Contributors
