@@ -118,5 +118,5 @@ Include the step that describes when and how the issue was identified (i.e. how 
 
 ## Contributors
 
-- [@contributor_a](https://github.com/@contributor_a)
-- [@contributor_b](https://github.com/@contributor_b)
+- [@hdjustice](https://github.com/hdjustice)
+- [@longmd](https://github.com/@longmd)
