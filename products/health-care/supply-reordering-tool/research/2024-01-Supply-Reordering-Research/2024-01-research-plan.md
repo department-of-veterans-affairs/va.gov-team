@@ -117,13 +117,6 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Availability
 | Day | Date | Times (Eastern time zone) |
 | --- | --- | --- |
-| Thursday | January 25th | 8:00am – 4:00pm, 5:00pm – 8:00pm |
-| Friday | January 26th | 8:00am – 8:00pm,|
-| Monday | January 29th | 8:00am – 11:00am, 3:00pm – 8:00pm |
-| Tuesday | January 30th | 8:00am – 11:00am, 3:00pm – 8:00pm |
-| Wednesday | January 31st | 8:00am – 3:30pm, 6:00pm – 8:00pm |
-| Thursday | February 1st | 8:00am – 3pm, 6:00pm – 8:00pm |
-| Friday | February 2nd | 8:00am – 8:00pm |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
