@@ -1,4 +1,4 @@
-# Conversation Guide for Authenticated Experience My VA team - Dot Indicator, January 2024
+# Conversation Guide for Authenticated Experience My VA team - Dot Indicator, February 2024
 - [ ] __Make sure Codepen pages are accessible__
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
