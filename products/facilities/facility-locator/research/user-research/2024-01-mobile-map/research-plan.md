@@ -24,8 +24,7 @@ What is Veterans’ familiarity with this tool? Is this a new product or an iter
 ### OCTO Priorities 
 Which OCTO priorities does this research support? 
 
-- Enhance accessibility, reliability, and security of Veteran's digital services
-- Reduce the time it takes for Veterans to find, use, and receive services
+- Our digital experiences are the best way to access VA health care and benefits.
 
 **Increase**
 - Usage of digital, self-service tools
