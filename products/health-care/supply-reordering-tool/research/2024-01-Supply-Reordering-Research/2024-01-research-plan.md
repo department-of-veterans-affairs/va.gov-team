@@ -56,58 +56,49 @@ Will be remote on Zoom.
 
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Primary criteria (must-haves)
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+* Must currently receive VA healthcare benefits
+* Must have an active MHV account that they have accessed at least once in the past 12 months
 
-All participants:
-- Have you been prescribed a medical device by a VA Medical Provider in the past 5-10 years?
-- LOA Level 3
-- Must be veterans or caregivers 
-- Must have a computer or mobile phone and be willing to complete their sessions on this device
-- Must be willing to share a web browser window on the Zoom call
-- Must have a working microphone
-- Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
-- Must have signed into VA.gov or My HealtheVet, for any reason and need to know their login information 
+Desired sample
 
-Some participants:
+* 15 total
+* 7 frequent users of MHV
+* 8 infrequent users of MHV
+* 7 mobile users, 7 desktop users 
+* Age and education level range throughout, but ideally include at least 8 participants older than 55 and 7 participants with some college or less as their terminal degree.
 
-- 4 people who use screen readers on desktop 
-- At least 4 people with identify as having a cognitive considerations
-- 6 people who can join the session from a smartphone
-- At least 3 people who are 55+, but not more than 8
-- 6 people who identify as a race other than White/Caucasian
-- 6 people who identify as a gender other than male
-- 8 people who currently receive health care through VA
-- 4 people who don't currently receive health care through VA, but have other VA benefits.
+### Screener questions
+
+1. How often, if at all, have you used VA.gov in the past 6 months?
+
+* Never used it (go onto Screener question 2)
+* 1-3 times in the past 6 months (go onto Screener question 2)
+* More than 3 times a month in the past 6 months (Disqualify)
+
+1. Do you have a My HealtheVet (MHV) account?
+
+    * Yes (go onto Screener question 3)
+    * No (Disqualify)
+
+1. How often, if at all, do you use MyHealtheVet?
+
+* Never used it (Disqualify)
+* Once a year (Disqualify)
+* Once a month (Qualify)
+* 2-3 times a month (Qualify)
+* more than 3 times a month (Qualify)
   
-  
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+
+* Submit for approval 2/16
+* Pilot session 2/21
+* Kick-off with Pergean 2/20
+* Interview week 2/26 - 3/6
+* Synthesize and analysis week 3/7 - 3/15
 
 ### Prepare
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
