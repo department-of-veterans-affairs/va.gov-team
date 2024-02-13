@@ -1,10 +1,12 @@
-# YYYY-MM-DD - TITLE
+# 2024-02-13 - 10-10EZ - Form not loading for authenticated users
 
 Fill out every section of this document, if there is no content for a particular section, explicitly call out that there is no content.
 
 ## Summary
 
-Enter a concise summary of the event including the different (team-level) actors in the event.
+The 10-10EZ Veteran health care application was not displaying for authenticated users.  Only the heading and "Need Info" section are displayed on the screen.  There is no information between the 2 sections.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/8061855e-9f34-4e3c-bd38-a72d46e9a25f)
+
 
 ## Impact
 
