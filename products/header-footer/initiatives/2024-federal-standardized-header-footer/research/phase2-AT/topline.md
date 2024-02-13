@@ -81,7 +81,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (p7).*
 
 ### How recognize as an official government website
-Only 7 of the 9 participants were asked how they recognize that this is an official government website. 
+7 of the 9 participants were asked how they recognize that this is an official government website (the other 2 participants were not asked due to lack of time). 
 1. More than half (4 of 7) participants said that they would **look at the URL to see if it's *https* and *VA.gov*** because the words and graphics could be a fake copy. 
 1. Participants also mentioned other features of the page:
      - **VA seal** (5)
@@ -90,14 +90,24 @@ Only 7 of the 9 participants were asked how they recognize that this is an offic
      - Blue menu bar, white background, and Veterans Crisis Line (1) 
 
 ### Feedback on the USA Logos
-1. **TBD of 9 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
+Only 6 of the 9 participants had enough vision that they were able to provide feedback on the USA logos. The 6 participants were all Veterans, which obviously isn't a representative sample of all US citizens.  
+1. **5 of 6 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
+   - Doesn't look like an official government website (2 of 6 participants)
+     > *"It doesn't look professional that it doesn't instill confidence in me...There's no uniformity, it's not basic enough. It looks too frilly...When you when you open that up that, it looks like the Olympics. It doesn't look like any official government website. It doesn't look serious at all" (p4).*
+
+     > *"Looks kind of legit with the blue and the red, maybe not the black" (p6).*
+   - The font of the "S" seems out of place (2 of 6 participants).
+     > *"The font is not the best--that S is a little too fancy" (p4).*
+
+     > *"The fonts aren't consistent, so S is different than the U and A (p9).*
    - Looks unfamiliar so seems fraudulent
      > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official' (p11).*
-   - The font of the "S" seems out of place (2)--Only participants with some vision could see this.
-   - *"Looks kind of legit with the blue and the red, maybe not the black" (p6).*
+   
+
+   
    - Not sure why it says "USA Government" because things usually say "US Government"
    - Not sure why it says USA at all because VA is what matters
-
+     > *"The VA part...is what I'm focused on--more than the U.S. I know the VA is part of the U.S. government" (p3).*
 
  
 
