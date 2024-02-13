@@ -35,9 +35,9 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 - Patrick Batement
 - Joshua Faulkner
 - Adrian Rollett
+- Curt Bonade
 - Brandon Dech
-- The OCTO DE Lead who approved the Out-Of-Band deploy when such an OOB Deploy was requested; noting that this is regardless of whether the OOB Deploy was approved.
-
+- Bill Chapman (approved the Out-Of-Band deploy)
 
 Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
 
@@ -77,8 +77,7 @@ What went better than expected and deserves a call-out? Think more broadly than 
 
 ### What went wrong
 
-Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
-Explicitly list 'N/A' if there are no such instances.
+The issue experienced in production did not appear in any other environments.  All tests (automated and manual) were completed successfully.  There was no indication that an issue would be introduced into production.
 
 ### Where we got lucky
 
@@ -90,10 +89,12 @@ Include the step that describes when and how the issue was identified (i.e. how 
 
 - `2024-02-12 @ 05:25 PM ET`: The Daily Deploy was completed - [List of commits deployed](https://github.com/department-of-veterans-affairs/vets-website/compare/v0.1.2510...6bd6d33c9045a79229b63e5228b91827cfd7a1e1)
 - `2024-02-13 @ 09:54 AM ET`: Joshua Faulkner posted in the #1010-health-apps Slack channel that the 10-10EZ forms submissions had dramatically dropped off since the previous night around midnight
+- `2024-02-13 @ 10:04 AM ET`: Adrian Rollett assisted with some Datadog insights, a Sidekiq retries chart had peaked and had not yet returned to normal
 - `2024-02-13 @ 11:09 AM ET`: It was confirmed there were no backend issues reported 
 - `2024-02-13 @ 11:24 AM ET`: Validated that authenticated users would be directed to a screen with just the title of the application and the "Need Help" section.  The unauthenticated user flow was unaffected.
 - `2024-02-13 @ 11:24 AM ET`: Confirmed that the only deployment from our team on the previous day was for the 10-10CG and not related to the 10-10EZ code
 - `2024-02-13 @ 11:29 AM ET`: A ticket was open with Platform Support for assistance - [Github support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76020)
+- `2024-02-13 @ 11:29 AM ET`: Patrick Bateman was notified of the issue
 - `2024-02-13 @ 11:42 AM ET`: Validated that the Staging environment did not experience this issue for either authenticated or unauthenticated users
 - `2024-02-13 @ 12:03 PM ET`: Validated that the RUM dashboard in Datadog also showed user session replays where they are not able to view the form as expected
 - `2024-02-13 @ 12:05 PM ET`: PagerDuty Maintenance window is placed
