@@ -13,7 +13,7 @@ Quantified statement about the impact of the incident.
 - How many users were affected?
      - ~870 authenticated users
 - What time period were users impacted?
-     - 5:25pm ET to TBD
+     - 02/12/2024 5:25pm ET to TBD
 - What impact did this have on the SLO?
      - XXXXXXX
 
