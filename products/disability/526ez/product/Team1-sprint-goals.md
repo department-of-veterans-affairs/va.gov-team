@@ -4,6 +4,7 @@
 Period - 02/14/2024 - 02/27/2024
 ### Sprint goals 
 - **Expedited**
+   - [ ] Discovery on Flashes not reaching VBMS from va.gov
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
       - PCIU 
@@ -23,7 +24,6 @@ Period - 02/14/2024 - 02/27/2024
        - Audit for ancillary form - 4192 - Determine next steps for discrepancies
 
 - **Other**
-   - Discovery on Flashes not reaching VBMS from va.gov
    - Team goal - Piroritization for what's next
    - Architecture Diagram for 526
      
