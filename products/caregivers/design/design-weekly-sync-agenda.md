@@ -1,4 +1,13 @@
 # Design Weekly Sync Agenda
+
+## 2024-02-12
+Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex.
+
+- TERA: The team wants HEC to confirm that TERA information may be passed along to their EHR Records (Clinical Records in VISTA).
+  - Kristen notes that from the MSA side, there are so many 'flags' on the record.
+- Hieu presents graphic screens and page counters for Military Info and TERA on EZR.
+- Registration Only workshop: The team discusses the possible use of chat and calling on people to make the session more interactive.
+
 ## 2024-02-05
 Attendees: TBD
 
