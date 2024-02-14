@@ -1,7 +1,8 @@
 name: Sign In Service Onboarding
 description: For writing OCTO Identity tickets
 labels: ["Identity", "Identity SiS Onboarding"]
-assignees: "kingbmike"
+projects: ['']
+assignees: - kingbmike
 body:
 
   - type: markdown
@@ -122,10 +123,43 @@ body:
       value: |
         ## Application Details
 
+
+  - type: input
+    id: application_name
+    attributes:
+      label: Application Name
+      description: Please provide the name of the application to be integrated.
+      placeholder: VAP
+    validations:
+      required: true
+
+  - type: dropdown  
+    id: application_type
+    attributes:
+      label: Application Type
+      description: Please specify if it's a web, mobile, or desktop application.
+      options:
+        - web
+        - mobile
+        - desktop
+    validations:
+      required: false
+
+  - type: input
+    id: application_description
+    attributes:
+      label: Comments about Engagement
+      description: A brief description of your application's primary functions and what it does. 
+      placeholder: What do users need to be able to do? What LOA is required for your application?  User vs system auth or both? Call external API, etc.
+    validations:
+      required: false
+
+
+
   - type: markdown
     attributes:
       value: |
        Now that we have your details, let's dive deeper into your project. We invite you to schedule a meeting with our Product Manager, Mike King, to discuss your project's scope and how we can best assist you."
 
-        ## Tasks
+  
 
