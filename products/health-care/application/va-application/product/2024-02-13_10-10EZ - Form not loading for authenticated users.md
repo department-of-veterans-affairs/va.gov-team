@@ -111,8 +111,8 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-13 @ 03:11 PM ET`: Matt Long submitted the [OOB Ticket #76115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76115)
 - `2024-02-13 @ 02:59 PM ET`: Brandon Dech triggered a [PagerDuty](https://dsva.pagerduty.com/incidents/Q06LE037B31IH2) to notify on call OOB deployment for approval
 - `2024-02-13 @ 02:59 PM ET`: Bill Chapman expressed that he was not a fan of troubleshooting by revert, however recognizes that the error correlated with the deployment - APPROVED OOB
-- `2024-02-13 @ 02:59 PM ET`:
-- `2024-02-13 @ 02:59 PM ET`:
+- `2024-02-13 @ 05:36 PM ET`: Maintenance window expired, PR has not yet been deployed
+- `2024-02-13 @ 06:19 PM ET`: Placed maintenance window back up
 - `2024-02-13 @ 02:59 PM ET`: 
 - ...
 
