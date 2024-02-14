@@ -123,9 +123,10 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-14 @ 09:36 AM ET`: Patrick Bateman posted to the Identity team requesting whether anything went out in website, vets-api, or elsewhere on monday afternoon that touched how va.gov handles users in general and/or LOA3 users specifically?
 - `2024-02-14 @ 09:54 AM ET`: Patrick Bateman starts a meeting to step through the LOA3 hypothesis and see if we can’t come up with supporting / counter theories. 
 - `2024-02-14 @ 10:11 AM ET`: Alexander Garcia on Identity team confirmed no issues are seen and no changes made to vets-website or vets-api
-- `2024-02-14 @ 09:35 AM ET`:
-- `2024-02-14 @ 09:35 AM ET`:
-- `2024-02-14 @ 09:35 AM ET`:
+- `2024-02-14 @ 10:54 AM ET`: Patrick Bateman informed Clint Little that we can't get CI to complete locally after several very long runs.  Different tests have failed or timed out during each run.
+- `2024-02-14 @ 10:54 AM ET`: Curt Bonade submitted a [PR #27965](https://github.com/department-of-veterans-affairs/vets-website/pull/27965) to help "unstick" the unit tests ("Throw all the hardware at it" approach).  This is meant as a temporary solution, and Curt will continue to investigate
+- `2024-02-14 @ 11:30 AM ET`: Curt Bonade confirmed the PR mentioned above has been merged.  Advised to pull main and re-run the CI, should be all set
+- `2024-02-14 @ 11:30 AM ET`: Matt Long merged main into the branch he is working on, Test run has begun
 - `2024-02-14 @ 09:35 AM ET`:
 - `2024-02-14 @ 09:35 AM ET`:
 - 
