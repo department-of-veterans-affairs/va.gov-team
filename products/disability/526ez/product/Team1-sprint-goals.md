@@ -9,7 +9,7 @@ Period - 02/14/2024 - 02/27/2024
    - eVSS to Lighthouse Migration - Engineering
       - PCIU 
         - [ ] Launch for 10% and up depending on monitoring results
-      - BRD
+      - BRD (seperation locations endpoint)
         -  Update DD Dashboard for monitoring release
         -  Start canary launch if the Dashoboard is ready for monitoring
       - Rated Disabilities
