@@ -17,6 +17,7 @@ Period - 02/14/2024 - 02/27/2024
    - 526ez sync with paper version 
        - Toxic Exoposure 
            - [ ] Design - Mid-point review and resulting work - complete
+           - [ ] Design - Update documentation from mid-point review
            - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
        - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies - Continue
        - Audit for ancillary form - 4192 - Determine next steps for discrepancies
