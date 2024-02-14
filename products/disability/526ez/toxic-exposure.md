@@ -42,7 +42,7 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
    How useful is the toxic exposure data received from the digital form? What might not be useful and could be worth eliminating or formatting differently?
 5. Expand the toxic exposure section to other disability claims (extending beyond new conditions)
 
-## Background on decisions
+## Background on decisions (needs to be updated)
 
 ### Entry point to toxic exposure questions
 
