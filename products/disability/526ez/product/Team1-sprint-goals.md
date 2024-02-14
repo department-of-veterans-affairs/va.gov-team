@@ -11,7 +11,7 @@ Period - 02/14/2024 - 02/27/2024
         - [ ] Launch for 10% and up depending on monitoring results
       - BRD
         -  Update DD Dashboard for monitoring release
-        -  Start canary launch
+        -  Start canary launch if the Dashoboard is ready for monitoring
       - Rated Disabilities
         -  Sanity check with the new LH version
         -  Restart staggered release
