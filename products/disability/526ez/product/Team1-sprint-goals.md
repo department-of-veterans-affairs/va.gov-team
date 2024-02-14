@@ -1,5 +1,35 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 25
+Period - 02/14/2024 - 02/27/2024
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - PCIU 
+        - [ ] Launch for 10% and up depending on monitoring results
+      - BRD
+        -  Update DD Dashboard for monitoring release
+        -  Start canary launch
+      - Rated Disabilities
+        -  Sanity check with the new LH version
+        -  Restart staggered release
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Design - Mid-point review and resulting work - complete
+           - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
+       - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies - Continue
+       - Audit for ancillary form - 4192 - Determine next steps for discrepancies
+
+- **Other**
+   - Discovery on Flashes not reaching VBMS from va.gov
+   - Team goal - Piroritization for what's next
+   - Architecture Diagram for 526
+     
+- **Stretch Goals**
+ - [ ] Front-end - Web components v3 upgrade
+
+
 ## Sprint 24
 Period - 01/31/2024 - 02/13/2024
 ### Sprint goals 
