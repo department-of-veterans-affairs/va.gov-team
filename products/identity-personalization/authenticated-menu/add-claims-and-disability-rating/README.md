@@ -110,7 +110,8 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- [EPIC | Profile | Authenticated Menu Expansion #72452](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452)
+- [EPIC | Profile | Authenticated Menu Expansion #72452](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452
+- [Research can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/discovery-research/authenticated-menu-usability)
 
 
 
