@@ -249,11 +249,22 @@ And some Veterans suggested concepts that are similar to other VA services, such
 
 ## Recommendations
 
-We are in the process of writing recommendations.
-
+1. Design an alternative way to communicate incremental progress in a form that branches.
+2. Use a sub-task pattern to direct people to sign in based on the type of question they have.
+3. Combine facility search by name and location.
+4. Reorganize order of questions and chapters so it follows a more intuitive route.
+5. Revisit pronouns and gender to see if they can be removed or at least made optional.
+6. Reorganize and edit content on the home page so it's more direct.
+7. Remove US mail from contact preferences.
+8. Default all accordions to open on review page.
+9. Add 'additional information' component to questions that are required.
+  
 ## Next steps
 
-We are in the process of writing next steps.
+We're preparing for our next round of research in April-May. We aim to implement all of our recommendations before then.
+
+We've also noted recommendations that we will not implement before our next round of research, but plan to explore in the future. These include:
+- 
 
 ## Further research needed
 
