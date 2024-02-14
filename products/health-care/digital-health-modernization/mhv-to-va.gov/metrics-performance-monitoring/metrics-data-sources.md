@@ -37,7 +37,3 @@
    **Contains**: User behavior analytics. 
 
    **How to access**: Submit support ticket to VA.gov Platform Analytics team. 
-
-## VA.gov data sources
-
-1. 
