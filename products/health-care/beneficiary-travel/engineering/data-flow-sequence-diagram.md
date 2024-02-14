@@ -1,3 +1,5 @@
+# BTSSS Sequence Flow
+
 The basic sequence for most BTSSS is straightforward:
 
 ```mermaid
@@ -28,6 +30,10 @@ vets-website-->>veteran: website UX
 deactivate vets-website
 ```
 
-What's to be determined is how we deal with any profile information updates. According to the BTSSS team, when a veteran first logs in to the portal, their contact information "is dependent on their data in enrollment services." Any contact updates from that point onward appear to be isolated within the dynamics database used by the portal.
+## Outstanding Questions
 
-Since we'll have users coming from VA.gov with their information coming from their VA.gov profile/VA Profile, we'll need to account for any discrepancies between the two and update accordingly, with the VA.gov information being the source of truth.
+### How do we handle potential discrepancies in profile data between the VA.gov user profile and contact information in BTSSS?
+
+ According to the BTSSS team, when a veteran first logs in to the portal, their contact information "is dependent on their data in enrollment services" (see https://github.com/department-of-veterans-affairs/va.gov-team/issues/70474 for more context). Any contact updates from that point onward appear to be isolated within the portal and lack communication with external services.
+
+Since this sequence has users coming from VA.gov that sources contact information from a user's VA.gov profile/VA Profile, VA.gov will need to account for any discrepancies in profile information between the two. Does this mean VA.gov will need a mechanism for updating BTSSS profile information, or should VA.gov consider its profile info the source of truth and not worry about updates?
