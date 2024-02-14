@@ -34,7 +34,7 @@ body:
   - type: input
     id: github_handle
     attributes:
-      label: Your Github Handle
+      label: Your GitHub Handle
       description: Please provide your work GitHub username
       placeholder: e.g. janedoe
     validations:
