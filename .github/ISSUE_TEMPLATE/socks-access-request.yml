@@ -32,6 +32,14 @@ body:
     validations:
       required: true
   - type: input
+    id: github_handle
+    attributes:
+      label: Your Github Handle
+      description: Please provide your github handle
+      placeholder: e.g. janedoe
+    validations:
+      required: true
+  - type: input
     id: role
     attributes:
       label: Your Role and Team
