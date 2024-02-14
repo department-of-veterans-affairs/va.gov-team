@@ -311,11 +311,11 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
         - ✔️ ❗ 🟥 [[Content] Create (or version out) content for Need Help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75163)
         - ✔️ ❗ 🟥 [[Design][Content] Create final frames with content for error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75206)
-        - ❗ 🟥 [[Design] Create Final Wireframes to handle selecting an appt for Veterans that might have appts at multiple facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75544)
+        - ✔️ ❗ 🟥 [[Design] Create Final Wireframes to handle selecting an appt for Veterans that might have appts at multiple facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75544)
         - ❗ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
-        - ❗ 🟥 Schedule Midpoint Review
-        - ❗ 🟥 Pull in tickets fro CAIA feedback if time permits
+        - ✔️ ❗ 🟥 Schedule Midpoint Review
+        - ✔️ ❗ 🟥 Pull in tickets fro CAIA feedback if time permits
         - ✔️ ❗ 🟩 🟦 [[FE][BE] Create all Task Tickets & Point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75463)
         - ❗ 🟩 [[FE] - Create basic pages and router for travel app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75269)
         - ✔️ ❗ 🟩 [[FE] - Stub out new travel claim app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75268)
