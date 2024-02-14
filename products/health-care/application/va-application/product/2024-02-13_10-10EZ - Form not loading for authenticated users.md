@@ -128,14 +128,14 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-14 @ 11:30 AM ET`: Curt Bonade confirmed the PR mentioned above has been merged.  Advised to pull main and re-run the CI, should be all set
 - `2024-02-14 @ 11:30 AM ET`: Matt Long merged main into the branch he is working on, Test run has begun
 - `2024-02-14 @ 12:53 PM ET`: Matt Long provided update that we are waiting on QA merge status check to complete before we can move forward
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`:
-- `2024-02-14 @ 12:11 PM ET`: 
+- `2024-02-14 @ 01:01 PM ET`: Matt Long confirmed all checks have passed, though blocked on an approval from the product forms team. Matt has reached out to that team
+- `2024-02-14 @ 01:01 PM ET`: Bill Chapman confirmed no OOB approvals technically needed during ongoing incident
+- `2024-02-14 @ 01:02 PM ET`: Matt Long received approval from Forms team, began merging
+- `2024-02-14 @ 01:11 PM ET`: 
+- `2024-02-14 @ 01:11 PM ET`: 
+- `2024-02-14 @ 01:11 PM ET`: 
+- `2024-02-14 @ 01:11 PM ET`: 
+- `2024-02-14 @ 01:11 PM ET`: 
 - 
 - ...
 
