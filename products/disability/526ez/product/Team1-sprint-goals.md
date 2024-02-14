@@ -21,7 +21,7 @@ Period - 02/14/2024 - 02/27/2024
            - [ ] Design - Update documentation from mid-point review
            - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
        - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies - Continue
-       - Audit for ancillary form - 4192 - Determine next steps for discrepancies
+       - Audit for ancillary form - 8940 
 
 - **Other**
    - Team goal - Piroritization for what's next
@@ -29,7 +29,7 @@ Period - 02/14/2024 - 02/27/2024
      
 - **Stretch Goals**
  - [ ] Front-end - upgrading widgets to web components
-
+ - [ ] Audit for ancillary form - 4192 - Determine next steps for discrepancies
 
 ## Sprint 24
 Period - 01/31/2024 - 02/13/2024
