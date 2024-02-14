@@ -25,11 +25,11 @@ Period - 02/14/2024 - 02/27/2024
 
 - **Other**
    - Team goal - Piroritization for what's next
-   - Architecture Diagram for 526
      
 - **Stretch Goals**
- - [ ] Front-end - upgrading widgets to web components
  - [ ] Audit for ancillary form - 4192 - Determine next steps for discrepancies
+ - [ ] Architecture Diagram for 526
+ - [ ] Front-end - upgrading widgets to web components
 
 ## Sprint 24
 Period - 01/31/2024 - 02/13/2024
