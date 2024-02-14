@@ -1,4 +1,4 @@
-# Research Plan for Supply Reordering Usability Test, Health Portfolio, February 2024
+# Research Plan for Supply Reordering Usability Test, Health Portfolio, March 2024
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
