@@ -1,6 +1,6 @@
 # BTSSS Sequence Flow
 
-The basic sequence for most BTSSS is straightforward:
+The basic sequence for how BTSSS data flows is straightforward:
 
 ```mermaid
 sequenceDiagram
