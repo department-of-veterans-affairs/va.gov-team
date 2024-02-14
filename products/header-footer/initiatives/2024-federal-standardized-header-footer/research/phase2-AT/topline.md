@@ -10,6 +10,16 @@ This topline summary is a preliminary summary of research findings observed in t
 ## Introduction
 The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer**, as well as Veteran sentiment on the new USA logo branding, **from Veterans using screen reader or screen magnifier assistive technology**. 
 
+This research is one of three phases of user research on wayfinding with the new Federal header and footer:
+
+Phase | Focus | Dates | Topline Summary
+----- |------|-------|--------
+1 | Non-assistive technology users doing unauth tasks + 1 auth task | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
+2 | Assistive technology users doing unauth tasks + 1 auth task | Jan 29 - Feb 5, 2024 | *THIS REPORT*
+3 | Assistive and non-assistive technology users doing auth tasks only | Jan 29 - Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+
+
+
 ## Participants
 On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of which were also family members of Veterans. 
 - One third (3 of 9) saw the **mobile** version of the prototype
@@ -36,7 +46,8 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. **Two participants said that the blue VA part is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
 
 ### Accessibility issues to investigate 
-The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from completely blind to low vision to more vision but needing magnification to read. Since there was such variability in technology and visual disability, accessibility issues that affected even one participant should be considered and potentially addressed. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with some issues that we discussed during the research sessions but that didn't interfere with completing tasks.
+The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from completely blind to low vision to more vision but needing magnification to read. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. Since there was such variability in technology and visual disability, accessibility issues that affected even one participant are included here to consider. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't interfered with completing tasks.
+
 #### Issues that caused difficulty in doing tasks
 1. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty opening and closing the search box** in the header. The focus wasn't being brought into the search box input immediately when the search box opens. Both participants expected to be able to tap on *Search* and be able to type right away. 
      1. The JAWS user (p1) tried "enter" to open the search box but couldn't find it to type text. They expected to *right arrow* or *tab* to the right and expand the box, but that didn't work. They had to *arrow down* to get to the box. They were also unable to close the search box.
@@ -114,12 +125,11 @@ Only 6 of the 9 participants had enough vision that they were able to provide fe
 
       > *"It's USA and then you have the symbol [seal] right next to it--that looks more official...[The word] 'Government' seems more generic...The first thing that makes me think official is when I see the seal" (p3).*
 
-1. **3 of 6 participants criticized the white VA seal to the right of the white USA logo**. 
-    - 2 people had difficulty seeing the details of the white logo, noting that it's smaller than the colored version at the top of the page.
-    - 1 person wondered why it was the VA seal and not a US seal.
-    - 1 person said that the black and white coloring was wrong for the eagle:
+1. 3 of 6 participants had **feedback on the white VA seal to the right of the white USA logo**. 
+    - 2 people had **difficulty seeing the details** of the white logo, noting that it's smaller than the colored version at the top of the page.
+    - 1 person said that the **black and white coloring was wrong for the eagle**:
       > *"If I blow it way up, I can see that...the poor eagle has a black head. And that wasn't the case at the top because it was colored right and eagles don't have black heads. [They have] white heads" (p4).*
-
+   - 1 person wondered why it was the VA seal and not a US seal.
 
 ## Next Steps
 - Do more data synthesis
