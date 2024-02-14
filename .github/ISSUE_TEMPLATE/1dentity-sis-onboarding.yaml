@@ -2,7 +2,7 @@ name: Sign In Service Onboarding
 description: For writing OCTO Identity tickets
 labels: ["Identity", "Identity SiS Onboarding"]
 projects: ['']
-assignees: - kingbmike
+assignees: "kingbmike"
 body:
 
   - type: markdown
