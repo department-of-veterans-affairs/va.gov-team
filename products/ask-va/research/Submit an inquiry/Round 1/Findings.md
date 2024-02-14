@@ -254,21 +254,25 @@ And some Veterans suggested concepts that are similar to other VA services, such
 3. Combine facility search by name and location.
 4. Reorganize order of questions and chapters so it follows a more intuitive route.
 5. Revisit pronouns and gender to see if they can be removed or at least made optional.
-6. Reorganize and edit content on the home page so it's more direct.
-7. Remove US mail from contact preferences.
-8. Default all accordions to open on review page.
-9. Add 'additional information' component to questions that are required.
+6. Add 'additional information' component to certain questions that raised flags.
+7. Reorganize and edit content on the home page so it's more direct.
+8. Remove US mail from contact preferences.
+9. Default all accordions to open on review page.
   
 ## Next steps
 
 We're preparing for our next round of research in April-May. We aim to implement all of our recommendations before then.
 
-We've also noted recommendations that we will not implement before our next round of research, but plan to explore in the future. These include:
-- 
+After this research, we also noted recommendations that we will not implement before our next round of research, but plan to explore in the future. These include:
+- Use category and topic selected to direct users to other health tools when appropriate.
+- Use location services to help submitters find a facility nearby.
+- Update 'Contact us' content so the purpose of Ask VA is clear.
+- Explore whether adding health facility to VA Profile is possible.
+- Explore whether we can provide a summary of personal information up front.
 
 ## Further research needed
 
-We are in the process of writing future research recommendations.
+In our next round of research, we'll focus on testing the end-to-end experience of the form and dashboard. We'll revisit the progress component, if it's clear when to sign in and why and the order of questions. We'll also notice whether questions that raised red flags before feel less jarring given the new order of questions and more clarity about why they're being asked. We'll test the facility search again if we're able to implement a combined search by name and location. We plan to test in staging so we can include people who use assistive technology.
 
 ## Appendix
 
