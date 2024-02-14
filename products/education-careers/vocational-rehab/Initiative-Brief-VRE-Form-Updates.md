@@ -13,7 +13,7 @@ Veterans submitting online form 28-1900 have a positive experience and can trust
 
 - The 28-1900 online form generates and submits the most recent version of the claim pdf to increase processing efficiency
 - The 28-1900 online form collects all required information from the Veteran to ensure successful claim processing
-- Veterans encounter fewer critical accessibility issues with completing the online form
+- Veterans encounter fewer critical accessibility issues (level 0-2) with completing the online form
 
 ## Undesired User Outcomes
 - The online form has errors or issues that lead to processing delays
