@@ -166,7 +166,7 @@ Other:
     <th scope="col">11/1/23-12/15/23</th>
     <th scope="col">12/15/23-1/5/24</th>
     <th scope="col">1/6/24-1/31/24</th>
-    <th scope="col">2/1/24-2/21/24</th>
+    <th scope="col">2/1/24-2/12/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
@@ -270,7 +270,7 @@ Survey question 3: what task were you trying to do today?
     <th scope="col">11/1/23-12/15/23</th>
     <th scope="col">12/16/23-1/5/24</th>
     <th scope="col">1/6/24-1/31/24</th>
-    <th scope="col">2/1/24-2/21/24</th>
+    <th scope="col">2/1/24-2/12/24</th>
   </tr>
   <tr>
     <th scope="row">Technical problems</th>
