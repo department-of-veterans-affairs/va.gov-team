@@ -1,12 +1,12 @@
 # Direct deposit: user receives payments, but hasn't set up direct deposit for any payment type
 
-**Last update: March 9, 2023 -- Adding users**
+**Last update: February 14, 2024**
 
 If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, navigates to the direct deposit page, and we detect they're receiving payments, they'll see different messages in each payment section of the page.
 
 ## UX
-- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ZOm73bZ)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/4a38jno)
+- [Desktop mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-500&mode=design&t=JeBw2hRh9J5QSuL7-11)
+- [Mobile mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-139&mode=design&t=JeBw2hRh9J5QSuL7-11)
 
 ### Compensation and pension payments
 - Content prompts user to add account information
