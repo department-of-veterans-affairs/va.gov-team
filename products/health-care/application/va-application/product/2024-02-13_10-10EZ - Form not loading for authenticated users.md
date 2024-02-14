@@ -118,8 +118,17 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-14 @ 07:30 AM ET`: Curt Bonade suggested doing a full rerun to see if it helps
 - `2024-02-14 @ 08:56 AM ET`: Matt Long merged the Main branch and has started a new workflow, Curt Bonade is monitoring
 - `2024-02-14 @ 09:16 AM ET`: Decision was made to document a local passing run and Platform will override branch protections and merge - Suggested by Adrian Rollett and confirmed by Curt Bonade and Clint Little
-- `2024-02-14 @ 07:30 AM ET`:
-- `2024-02-14 @ 07:30 AM ET`: 
+- `2024-02-14 @ 09:25 AM ET`: Matt Long began the step "kicking off a full local run, documenting the branch and commit its being run on"
+- `2024-02-14 @ 09:35 AM ET`: Adrian Rollett stated "looking at Monday's release it doesn't look like anything was changed outside of individual apps"
+- `2024-02-14 @ 09:36 AM ET`: Patrick Bateman posted to the Identity team requesting whether anything went out in website, vets-api, or elsewhere on monday afternoon that touched how va.gov handles users in general and/or LOA3 users specifically?
+- `2024-02-14 @ 09:54 AM ET`: Patrick Bateman starts a meeting to step through the LOA3 hypothesis and see if we can’t come up with supporting / counter theories. 
+- `2024-02-14 @ 09:35 AM ET`:
+- `2024-02-14 @ 09:35 AM ET`:
+- `2024-02-14 @ 09:35 AM ET`:
+- `2024-02-14 @ 09:35 AM ET`:
+- `2024-02-14 @ 09:35 AM ET`:
+- `2024-02-14 @ 09:35 AM ET`:
+- 
 - ...
 
 ## Contributors
