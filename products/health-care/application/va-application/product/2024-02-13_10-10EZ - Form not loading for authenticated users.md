@@ -133,7 +133,7 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-14 @ 01:01 PM ET`: Bill Chapman confirmed no OOB approvals technically needed during ongoing incident
 - `2024-02-14 @ 01:02 PM ET`: Matt Long received approval from Forms team, began merging
 - `2024-02-14 @ 01:11 PM ET`: Merge is still held up.  Per Curt Bonade **looks like archive requires the full unit test step to be passing, regardless of it not being required for the initial merge (GitHub limitation on how you set branch protections and they don’t line up with checking the status of the workflow step). Quickest route is likely the branch i merged that is going through CI now. That one should pass unit tests since the coverage report step is disabled, and if that deploys, we can send out the deploy from that commit and it will include yours**
-- `2024-02-14 @ 01:11 PM ET`: 
+- `2024-02-14 @ 03:00 PM ET`: Curt Bonade confirmed that this deploy will take place of the daily deploy.  OOB is not needed for our fix to be deployed
 - `2024-02-14 @ 01:11 PM ET`: 
 - `2024-02-14 @ 01:11 PM ET`: 
 - `2024-02-14 @ 01:11 PM ET`: 
