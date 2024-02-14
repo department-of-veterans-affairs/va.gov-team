@@ -11,8 +11,8 @@ In June 2022, the DD team started working with the BGS team to remove contact in
 ## UX
 - If a user doesn't have a valid phone number (home or work) or mailing address in their profile, and they attempt to update their DD information, they will see an error message at the top of the DD form.
 - Uses the [error alert component](https://design.va.gov/components/alert#error-alert) from the VA design system
-- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ELA5LMg)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/jg1WgEa)
+- [Desktop mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=30-3741&mode=design&t=JeBw2hRh9J5QSuL7-11)
+- [Mobile mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-218&mode=design&t=JeBw2hRh9J5QSuL7-11)
 
 ## Technical information
 - The BGS service that updates DD was designed to also update address and phone at the same time. So before adding or updating DD, the Personal Payment Information Update (PPIU) API calls BGS to get current address, phone and EFT. Then it modifies the Electronic Fund Transfer (EFT) account info and sends it along with the original address and phone data back to BGS. If their validation fails due to missing data, the EFT update will fail even though that part of the request is correct. 
