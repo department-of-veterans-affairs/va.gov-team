@@ -131,6 +131,20 @@ Only 6 of the 9 participants had enough vision that they were able to provide fe
       > *"If I blow it way up, I can see that...the poor eagle has a black head. And that wasn't the case at the top because it was colored right and eagles don't have black heads. [They have] white heads" (p4).*
    - 1 person wondered why it was the VA seal and not a US seal.
 
+## Preliminary Recommendations
+There is more data synthesis to do, but in the meantime while design changes are in progress, here are a few preliminary recommendations to consider.
+1. **For mobile, consider a different location for the Auth menu** because underneath the Menu button wasn't intuitive for any of the mobile participants.
+1. **Consider additional personalization after sign in** (e.g., incorporating the user's name on mobile, or changing the screen more significantly) because it was hard for some participants to recognize that they were signed in. 
+1. **Revisit the large blue footer area in conjunction with the small black footer** area because participants were confused about where the bottom of the page was and where to find typical footer links.
+1. **Discuss accessibility issues and whether/how to address**, including the following:
+     1. Difficulty opening and closing the search box in desktop
+     1. Pages not being read by MAGic 14 screen reader (can we test this on Production?)
+     1. Spacing and arrangement of columns in the blue footer in desktop
+     1. Mobile header menu and search buttons changing name
+1. **Discuss content feedback with CAIA**.
+1. **Share feedback on the two federal USA logos with OFCIO and GSA**.
+
+
 ## Next Steps
 - Do more data synthesis
 - Write full research report for Phases 1 and 2 together
