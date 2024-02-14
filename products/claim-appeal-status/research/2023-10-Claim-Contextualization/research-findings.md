@@ -18,116 +18,136 @@ Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful (or not)?
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+[See full research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/research-plan.md)
 
 
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+- How do Veterans react to this content? Do they find it useful?
+- Does this new design set the right expectation for how the claim will move between claim steps? Do Veterans understand why and how the claim might move back and forth between certain claim steps?
+- After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do they feel after seeing this information?
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+We conducted hour-long remote moderated research sessions via Zoom
 
 ## Hypotheses and Conclusions
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+- Veterans will find value in the information provided in the new Overview tab and will prefer it to the more basic "process list" design.
+   - DEFINITELY TRUE: 10 of 14 veterans prefered the new Overveiw tab design on the process list design
+- Veterans will have a good understanding of generally what happens at each step of the process (they don't need to understand every little detail).
+   - MAYBE TRUE: Many veterans had a general idea of each step, but some were unsure about key details.
+- Veterans will understand that it is normal for claims to go back and forth between steps.
+   - DEFINITELY TRUE: most veterans understood that it is normal for claims to go back and forth between steps.
+- Veterans will find that the new timeline provides a detailed picture of what is happening with a claim.
+   - DEFINITELY TRUE: Most veterans found value with having a timeline; some mentioned it reduced their level of anxiety.
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1. Most participants said they prefer the new overview page design over the current design.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. Participants appreciated the estimated time feature; it seems to be one of their favorite parts of the new design.
 
-1. Finding one
+3. Participants desire specific information regarding their claims, rather than solely relying on a general overview of the claims process.
 
-2. Finding two
+4. Most people understood what the graphics is communicating
 
-3. Finding three
+5. Two personas emerged over the course of the research sessions: some participants preferred the extra details while others wanted less.
 
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+6. We observed that certain participants were confused by specific aspects of the content.
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+**1. Most participants said they prefer the new overview page design over the current design.**
+
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
+
+When asked during the study, we found that *10 of 14* participants preferred the new design. Most of which attributed the decision to the level of detail in the content. (Note: Participant 1 was not counted for this question because they were having internet issues, we weren’t able to get their feedback on that question.)
+
+On a scale of 1 to 5 (one being the lowest), veterans rated the helpfulness and level of detail of the new design as 4.5 and 4.8 respectively. Compared to the current design (control) which average scores 3.8 and 3.7. 
+
+> _Prefers the prototype "More detail...and it had that really great diagram. - P6_
+
+> _I prefer to know that it can move back…in this version (control) it can stay in Step 3 for months and make a person feel frustrated...in the other one someone has their eyes on it. - P14_
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+**2. Participants appreciated the estimated time feature; it seems to be one of their favorite parts of the new design.**
+
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool 
+
+Participants found solace seeing the estimated timeline for each step in combination with the date when the step began. It helped set expectations on how long an individual step will take. A few veterans hinted that this feature reduces their need to call VA to inquire about their claim being “stuck”.
+
+> _with the current (control design), I would call VA often, because i want to know why my claim hasn't moved - P2_
+
+> _… time frame, that's super important - P12_
+
+> _… But what I liked on the previous page again, was kind of like that. It was very upfront like, Hey, this! This should only take one to 2 days. And then it was more detailed. Right? - P11_
 
 
-**Finding 1**
+**3. Participants desire specific information regarding their claims, rather than solely relying on a general overview of the claims process.**
 
-Labels: label 1, label 2 
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+In our study, we found that most Veterans found the general overview content helpful. However, when their claims went backward, they wanted to know why specifically. Some were frustrated because they didn't know the exact reasons, especially when the site said, "Nothing is needed from you."
 
-Brief description
+Some veterans wanted to see a checklist of evidence needed by the VA to assess their claim. They asked two questions: What evidence is missing, and what can they do to expedite the process? If the issue lies with VA staff, they wanted to know what happened.
+
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
 
+**4. Most people understood what the graphics is communicating**
 
-**Finding 2**
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-Labels: label 1, label 2 
+The steps diagram and repeat symbols in the accordion clarified that some steps might repeat during the claims process. Some people used the graphic to anticipate when these steps would occur again while reviewing claim details.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _[Diagram] 8 step process and it shows 3-6 potential revolving.  understanding overtime the step can go backwards. from 6 to 3, 4 to 3 etc. - P18_
 
-Brief description
+> _[Graphic]: Represents the number of steps and shows the step that repeats. - P8_
 
-> _Supporting data: Quote here_
+**5. Two personas emerged over the course of the research sessions: some participants preferred the extra details while others wanted less.**
 
-> _Supporting data: Quote here_
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
+During the study, participants had the opportunity to compare the new designs to the current (control design). We realized a divide in the participants, where some appreciated having the extra details about each step in the claim. Others felt like there was too much information and that it wasn't particularly useful.
 
-**Finding 3**
+- Most of the participants appreciated having extra detail, 11 out of 14. 
+   > _ Because if I logged on and saw this today and I saw all this info, It would take away all the anxiety I have._
+   
+   > _I would give it a 5; compared to eBenefits, this is way more detailed. I would highly rate it. Any questions I’d want someone to answer, it’s already here. Everything has been explained, the verbiage is very direct. Compared to what we had before in eBenefits._
+- Participants who preferred fewer details had different reasons for their preference.
+   > _found herself jumping around alot to find information. - P13_
 
-Labels: label 1, label 2 
+   > _I like this is better (referring to control design), it’s simple...cuts all the jargon down. - P17_
+   > _I Feels content on mobile device should be concise, but on desktop, it's OK to have more because of screen real estate - P13_
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+**6. We observed that certain participants were confused by specific aspects of the content.**
 
-Brief description
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-> _Supporting data: Quote here_
+Although most participants in this group understood the essence of what the graphics were communicating they were confused about what that might look like in reality.
+- A participant thought the claim could jump from step 3 to 6 if all the evidence were received.
+   > _I'm guessing maybe if you are step 3 you can skip to step 6 but if they don't have everything to make a decision they can go back to step 3. - P13_
 
-> _Supporting data: Quote here_
+- When looking at the repeat callout inside the accordion, some people weren’t sure which step the box was referring to.
+   > _ That would be confusing because... what step are they referring to?_
 
+- Some participants didn’t understand how a step repeating will affect the timeline.  
+   > _… does the time estimate start over or does it continue with the time left. - P2_
 
-## Additional Insights
+   > _out of 8 steps, it might have to turn into 11 steps if they repeat… - P10_
+- Participants were uncertain when they can add evidence
+  > _He wants a line to tell him when he's allowed to add evidence and when there's no additional evidence allowed. - P12_
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+## Secondary Finding
+- Participants expressed concerns that Veterans who are less tech-savvy might struggle to use the tool.
+- Veterans desired an interactive steps diagram or one that highlights the current step in their claim.
+- Most people found that the status page provided sufficient information about their claim. We believe this meets the need for people who prefer fewer details. 
 
 ## Recommendations
 
