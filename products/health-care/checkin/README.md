@@ -34,8 +34,8 @@
 - [Laura Willwerth](https://dsva.slack.com/team/U03CHM52JBF) - Content
 - [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - A11y
 
-### OCTO Health Tools SMEs
-- [Angela Fowler](https://dsva.slack.com/team/U01MTTZB3PZ) - Accessibility
+### OCTO Health Tools Shared Support SMEs
+- [Dan Bivens](https://dsva.slack.com/team/U06J1AMSMC5) - A11y
 - [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Terminology
