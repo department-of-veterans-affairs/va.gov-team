@@ -38,7 +38,14 @@ Every year, the Sitewide Content team needs to update various rates pages with n
 7. Once pages are live, create an IA ticket for Best Bets to be updated to show the newest year.
 
 ## How to set up a future rates page
-We need to publish future rates information for a few of our education rates pages several months before they go into effect. These nodes already exist in Drupal and we only need to make updates to them with specific rate information or general content letting users know future rates will be coming.
+We need to publish future rates information for our education rates pages several months before they go into effect. These nodes already exist in Drupal and we only need to make updates to them with specific rate information or general content letting users know future rates will be coming.
+
+**Note:** Chapter 33 rate information needs to be updated on all of these pages:
+- Post-9/11 GI Bill rates
+- Fry Scholarship rates
+- Edith Nourse Rogers STEM Scholarship rates
+- Transferred Post-9/11 GI Bill benefit rates
+- VET TEC rates
 
 ### When publishing future rates
 1. Request future rates for the upcoming year from stakeholder by email.
