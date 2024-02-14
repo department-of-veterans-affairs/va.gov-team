@@ -33,11 +33,14 @@ All users and data are test data.
 | Problem list         | ✖️ | ✔️ | ✔️ | ✔️ |
 | Smoking status       | ✖️ | ✖️ | ✖️ | ✔️ |
 | Immunizations        | ✔️ | ✔️ | ✔️ | ✔️ |
-| Allergies & reax     | ✔️ | ✔️ | ✔️ | ✔️ | Only required field that is not an option to not include by clinician
+| Allergies & reax     | ✔️ | ✔️ | ✔️ | ✔️ | 
 | Recent lab results   | ✖️ | ✖️ | ✖️ | ✖️ |
-| My Medications       | ✔️ | ✔️ | ✔️ | ✖️ | Clinician must select this field or Pocket Allergies and Meds (this is NOT shown on the digital AVS)
+| My Medications       | ✔️ | ✔️ | ✔️ | ✖️ | 
 | My VA Supplies       | ✖️ | ✖️ | ✖️ | ✖️ |
 | Meds not taking      | ✖️ | ✖️ | ✖️ | ✖️ |
 | **More Information** | -  |  - |  - |  - |
 | Clincal Services     | ✖️ | ✖️ | ✖️ | ✖️ |
 | More Help & Info     | ✔️ | ✔️ | ✔️ | ✔️ |
+
+Only Allergies is required field that is not an option to not include by clinician.
+Clinician must select this field or Pocket Allergies and Meds. Pocket allergies and meds is NOT shown on the digital AVS.
