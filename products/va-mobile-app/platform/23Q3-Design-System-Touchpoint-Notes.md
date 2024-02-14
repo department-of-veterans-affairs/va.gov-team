@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 2/15/24
+*   A
+
 ## 2/1/24
 *   Team Mission/Vision/NS
 *   Continuation of button variant conversation [from Slack](https://dsva.slack.com/archives/C05HF9ULKJ4/p1706726774164179)
