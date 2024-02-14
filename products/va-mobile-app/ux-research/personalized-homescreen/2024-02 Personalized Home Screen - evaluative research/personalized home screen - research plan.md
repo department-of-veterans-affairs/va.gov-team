@@ -60,7 +60,7 @@ This research will help us understand if/how the personalized app home screen de
 
 
 ### Research questions
-1. What do participants **believe that the VA mobile app* can do*** based on the contents of the personalized home screen?
+1. What do participants **believe that the VA mobile app *can do*** based on the contents of the personalized home screen?
     a. in general?
     b. for them in their current circumstances?
 2. Do participants **find value in the VA mobile app** in its current form based on the contents of the personalized home screen? Do they anticipate finding value in the future?
