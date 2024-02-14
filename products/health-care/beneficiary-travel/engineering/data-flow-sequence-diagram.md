@@ -38,6 +38,10 @@ deactivate vets-website
 
 Since this sequence has users coming from VA.gov that sources contact information from a user's VA.gov profile/VA Profile, VA.gov will need to account for any discrepancies in profile information between the two. Does this mean VA.gov will need a mechanism for updating BTSSS profile information, or should VA.gov consider its profile info the source of truth and not worry about updates?
 
+### Is Redis caching needed for the responses from the travel-pay-api?
+
+To be determined. Known performance bottlenecks exist in systems upstream of the `travel-pay-api`. If the `travel-pay-api` improves _that_ performance via caching or other optimizations of its own, `vets-api` might not need to worry about caching its responses from the `travel-pay-api`.
+
 ## Appendix
 
 For more information on the Sign-in Service referenced in the diagram, see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/auth_flows/cookie_oauth.md#sequence-diagram).
