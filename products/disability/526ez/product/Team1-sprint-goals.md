@@ -28,7 +28,7 @@ Period - 02/14/2024 - 02/27/2024
    - Architecture Diagram for 526
      
 - **Stretch Goals**
- - [ ] Front-end - Web components v3 upgrade
+ - [ ] Front-end - upgrading widgets to web components
 
 
 ## Sprint 24
