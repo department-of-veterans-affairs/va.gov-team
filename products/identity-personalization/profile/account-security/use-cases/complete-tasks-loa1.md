@@ -10,7 +10,7 @@
 - The link will bring the user to the website where they manage their account (either Login.gov,DS Logon, MyHealtheVet, or ID.me).
 - This section will never have a checkmark, as this task can be completed often and does not directly determine account security. 
 - [Desktop mock-up, change sign in information for sign in service](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-313&mode=design&t=EjU8iLKh728VGBef-11)
-- [Mobile mock-up, change sign in information for sign in service](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-17&mode=design&t=EjU8iLKh728VGBef-11)
+- [Mobile mock-up, change sign in information for sign in service](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-147&mode=design&t=EjU8iLKh728VGBef-11)
 
 
 ### 2-factor authentication
@@ -18,8 +18,8 @@
 - If they have not yet added 2-factor authentication, there will not be a checkmark next to the section. 
 - Clicking the link will lead the user through the process of 2-factor authentication.
 - This uses the [process list component](https://design.va.gov/components/process-list) from the VA design system. A numeral will appear if it hasn't been completed, and a checkmark will appear if it has been completed.
-- [Desktop mock-up, 2-factor authentication]([https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/DPDQDwq](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-313&mode=design&t=EjU8iLKh728VGBef-11))
-- [Mobile mock-up, 2-factor authentication]([https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/KvlZnZ2](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-17&mode=design&t=EjU8iLKh728VGBef-11))
+- [Desktop mock-up, 2-factor authentication](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-313&mode=design&t=EjU8iLKh728VGBef-11)
+- [Mobile mock-up, 2-factor authentication](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-147&mode=design&t=EjU8iLKh728VGBef-11)
 
 
 ## Codes
