@@ -275,6 +275,13 @@ async function getEpicId(epicTitle, returnLabelId) {
   const [{ id: epicId, issue }] = data.data.workspace.epics.nodes;
   let labelId = null;
 
+  //debug
+  console.log(`EVENT_LABEL is ${EVENT_LABEL}`);
+  console.log('--------\n');
+  console.log(issue.labels.nodes);
+  console.log('--------\n');
+  console.log(issue.labels.nodes.filter(label => label.name === EVENT_LABEL));
+
   // get the id of the label added to the CC Request ticket so that it can be added to the completed ticket
   if (returnLabelId) {
     const [{ id }] = issue.labels.nodes.filter(label => label.name === EVENT_LABEL);
