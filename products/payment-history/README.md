@@ -131,7 +131,7 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 - Content Writer(s): None
 
 ### API Team
-- Product and Project: Jason Wolf
+- Product and Project: Jacob Worrell
 - Front-end Engineer(s): TBD
 - Back-end Engineer(s): TBD
 
