@@ -112,7 +112,7 @@ body:
   - type: input
     id: comments_about_engagement
     attributes:
-      label: Comments about Engagement
+      label: Anything else you'd like us to know?
       description: Please add any comments about the engagement.
       placeholder: Additional details or expectations. What do users need to be able to do? What LOA is required for your application? User vs system auth or both, etc.
     validations:
@@ -148,7 +148,7 @@ body:
   - type: input
     id: application_description
     attributes:
-      label: Comments about Engagement
+      label: Application Description 
       description: A brief description of your application's primary functions and what it does. 
       placeholder: What do users need to be able to do? What LOA is required for your application?  User vs system auth or both? Call external API, etc.
     validations:
