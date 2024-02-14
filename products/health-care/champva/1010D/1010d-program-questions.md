@@ -1,7 +1,7 @@
 |Number|Complete?|Form Section|Question|Blocking Testing?|Blocking for Production (1=must)|Answer|
 |---|---|---|---|---|---|---|
-|1||General|Which addresses (Signer’s, sponsors and applicants addresses) are required for fulfilling benefits?|No|Yes (1)||
-|2||General|Which phone numbers (Signer’s, sponsors and applicants phone numbers ) are required for fulfilling benefits?|No|Yes (1)|||
+|1||General|Which addresses (Signer’s, sponsors and applicants addresses) are required for fulfilling benefits?|No|Yes (1)|From Luke, all are required|
+|2||General|Which phone numbers (Signer’s, sponsors and applicants phone numbers ) are required for fulfilling benefits?|No|Yes (1)|From Luke, all are required||
 |3|Yes|General|Should we rearrange the content to clarify the instance of a spouse, child or caretaker applying that is also a Veteran. The Sponsor/ Veteran language may need to be retooled. How common is this situation?|No|No|This is answered we are adding the VA Claim number and calling the Veteran Sponsor (Sponsor and using a sponsor and the applicant's names in the questions|
 |4||General|Who determines the respondent's burden time? Now that we are moving to a digital format with file upload the current time list on the form (15 minutes) will probably change|No|No|The form owner at [OIRA](https://www.whitehouse.gov/omb/information-regulatory-affairs/) would make these changes (can remind stakeholders about it).| 
 |5|New|General|When VA receives supplemental docs in the mail separate from an application, how do they link that doc with the correct application (i.e. is there a cover page or something?)|No|Yes (1)|(Need list of supporting documents in general).|
