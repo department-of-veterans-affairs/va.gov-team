@@ -39,7 +39,7 @@ All users and data are test data.
 | My VA Supplies       | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ |
 | Meds not taking      | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ |
 | **More Information** | -  |  - |  -  |  -  |  - |
-| Clincal Services     | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ |
+| Clinical Services    | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ |
 | More Help & Info     | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 
 Only Allergies is required field that is not an option to not include by clinician.
