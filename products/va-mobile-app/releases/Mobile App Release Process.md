@@ -14,6 +14,7 @@
 - Past release tickets for example purposes
      [1.40.0](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4669), 1.39.0, 1.36.0
 - Can find others by searching in Slack with keywords Release or specific number
+- Release decisions (adding code after a release branch is cut, QA disapproes release but PO approves, etc) to be documented in the [Decision Log](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/Teams/QA%20and%20Release/Decision%20Log.md) 
 
 ## Other:
 - Mainly requires a lot of coordination and communication amongst various parties (FE, both PMs, QA, VA PM, UX, etc)
