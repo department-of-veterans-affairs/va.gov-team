@@ -23,4 +23,15 @@ QA and Release team's expectation is that teams engaging with QA will proactive 
 | Test Account data prep process | Team PM |  Web Platform Team / OCTO VA  | Web Platform  | QA, UX, Eng, Content |
 | Modify Test Account Data | Team PM |  Web Platform Team / OCTO VA  | QA, UX , ENG, Web Platform  | |
 
+## Qart Team Responsibilities 
+
+| ## Team | QA Agent | Other Info | 
+| ------- | -------- | --------- | 
+| Flagship Health and Benefits | Rachael Bontrager |
+| Flagship - Global | Therese Dickson | 
+| Platform  (Design System, API) and Floater | Tom Gammons | Tom may be pulled in by other teams |
+| Platform QA | All - 10 to 20% capacity blocked for this | 
+| Release Manager | Tom Gammons |
+| Release Testing | Tom Gammons |
+
 ![mobile-testing_service](https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1ab628a-4e15-4b1c-bbf1-2fdf169a8322)
