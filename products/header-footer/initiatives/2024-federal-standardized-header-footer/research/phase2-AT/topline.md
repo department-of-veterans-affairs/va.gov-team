@@ -15,13 +15,13 @@ This research is one of three phases of user research on wayfinding with the new
 Phase | Focus | Dates | Topline Summary
 ----- |------|-------|--------
 1 | Non-assistive technology users doing unauth tasks + 1 auth task | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
-2 | Assistive technology users doing unauth tasks + 1 auth task | Jan 29 - Feb 5, 2024 | *THIS REPORT*
-3 | Assistive and non-assistive technology users doing auth tasks only | Jan 29 - Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+2 | Assistive technology users doing unauth tasks + 1 auth task | Jan 29-Feb 5, 2024 | *THIS REPORT*
+3 | Assistive and non-assistive technology users doing auth tasks only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
 
 
 ## Participants
-On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of which were also family members of Veterans. 
+On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of whom were also family members of Veterans. 
 - One third (3 of 9) saw the **mobile** version of the prototype
 - Two thirds (6 of 9) saw the **desktop** version of the prototype 
 
@@ -29,7 +29,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 ## Preliminary Findings
 ### Usability Successes
 1. The **page design was well received overall**. Participants  mentioned specifically liking the page layout, the links in the header and footer, the placement of the *Sign in* button in the top right, the simple font with good color contrast, the menus that start out collapsed, and the ample spacing between touchable links on mobile devices. 
-1. **Successful wayfinding to tasks seemed *not* adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, while others were challenged by a few of them. Tasks that were most difficult were FOIA information (for participants not looking in the federal footer area) and changing address (for participants who had trouble finding the Auth menu).
+1. **Wayfinding seemed *not* adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, while others were challenged by a few of them. Tasks that were most difficult were FOIA information (for participants not looking in the federal footer area) and changing address (for participants who had trouble finding the Auth menu).
 1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems fine to not have that on the page. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to participants to recognize the site as pertaining to the VA.
 1. After opening the Auth menu, **all participants recognized and clicked on *Profile***, which was the correct navigation path. 
 
@@ -40,10 +40,10 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 
 
 ### Footer issues
-1. **Five participants (4 desktop, 1 mobile) misperceived the bottom of the page and didn't see any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 2 *stopped at the white USA logo*. (One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 3 participants from both phases of research.)
-1. **Three participants interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
-1. **Three participants looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not.)
-1. **Two participants said that the blue VA part is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
+1. **More than half of the participants (5 of 9 participants: 4 on desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 2 *stopped at the white USA logo*. (One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 3 participants from both phases of research.)
+1. **Three of 9 participants  (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
+1. **Three participants (2 desktop, 1 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
+1. **Two participants (both desktop) said that the blue VA part is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
 
 ### Accessibility issues to investigate 
 The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from completely blind to low vision to more vision but needing magnification to read. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. Since there was such variability in technology and visual disability, accessibility issues that affected even one participant are included here to consider. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't interfered with completing tasks.
