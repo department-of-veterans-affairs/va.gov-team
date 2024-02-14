@@ -1,6 +1,6 @@
 # Federal Standardized Header/Footer (Phase 2) Usability Testing -- Topline Summary
 
-*Cindy Merrill, Sitewide Public Websites team, February 12, 2024*
+*Cindy Merrill, Sitewide Public Websites team, February 14, 2024*
 
 - [Research plan](./research-plan.md)
 - [Conversation guide](./conversation-guide.md)
