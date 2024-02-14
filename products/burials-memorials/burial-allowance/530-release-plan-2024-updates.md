@@ -18,9 +18,12 @@ Goal: **How might we craft a release plan to test our product "in the wild" at a
 |Phase 2: Canary production testing |3 hours|10 claims| TBD  |
 |Phase 2A: 25% of users |2 days|25% of users (auth and non-auth)|TBD|
 |Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
-|Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
+|Phase 2C: 95% of users| indefinite | 95% users (auth and non-auth) | TBD |
+|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
+|Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
-QUESTION: Do we need to move from 50-95-100% traffic to reduce the risk of forcing the last remaning in-progress users into V2 of the form?
+Considerations
+- 2D: The number of v1 users with in-progress forms will be monitored to determine how many users have active in-progress forms vs abandoned forms. Suggest looking at the page users are on in the form and if they have any form data saved.
 
 ## Overview
 As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md), the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
