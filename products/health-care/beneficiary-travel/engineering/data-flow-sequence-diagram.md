@@ -37,3 +37,7 @@ deactivate vets-website
  According to the BTSSS team, when a veteran first logs in to the portal, their contact information "is dependent on their data in enrollment services" (see https://github.com/department-of-veterans-affairs/va.gov-team/issues/70474 for more context). Any contact updates from that point onward appear to be isolated within the portal and lack communication with external services.
 
 Since this sequence has users coming from VA.gov that sources contact information from a user's VA.gov profile/VA Profile, VA.gov will need to account for any discrepancies in profile information between the two. Does this mean VA.gov will need a mechanism for updating BTSSS profile information, or should VA.gov consider its profile info the source of truth and not worry about updates?
+
+## Appendix
+
+For more information on the Sign-in Service referenced in the diagram, see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/auth_flows/cookie_oauth.md#sequence-diagram).
