@@ -53,7 +53,7 @@ Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expec
 
 View our KPIs in this [KPI Measurement doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
 
-### Objectives and Key results (OKRs)
+### Objectives and key results (OKRs)
 These OKRs measure the success of our Phase 1 launch.
 
 ####  Objective 1: Bring form and dashboard up to VA.gov design, accessibility, content, and information architecture standards
