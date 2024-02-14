@@ -127,7 +127,7 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-14 @ 10:54 AM ET`: Curt Bonade submitted a [PR #27965](https://github.com/department-of-veterans-affairs/vets-website/pull/27965) to help "unstick" the unit tests ("Throw all the hardware at it" approach).  This is meant as a temporary solution, and Curt will continue to investigate
 - `2024-02-14 @ 11:30 AM ET`: Curt Bonade confirmed the PR mentioned above has been merged.  Advised to pull main and re-run the CI, should be all set
 - `2024-02-14 @ 11:30 AM ET`: Matt Long merged main into the branch he is working on, Test run has begun
-- `2024-02-14 @ 12:11 PM ET`: 
+- `2024-02-14 @ 12:53 PM ET`: Matt Long provided update that we are waiting on QA merge status check to complete before we can move forward
 - `2024-02-14 @ 12:11 PM ET`:
 - `2024-02-14 @ 12:11 PM ET`:
 - `2024-02-14 @ 12:11 PM ET`:
