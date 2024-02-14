@@ -4,6 +4,7 @@
 
 - [Research plan](./research-plan.md)
 - [Conversation guide](./conversation-guide.md)
+- [Prototype](https://cdpn.io/pen/debug/rNRyVQZ/e1d277149ee531bde99e51cf2cbfcd8a)
 
 This topline summary is a preliminary summary of research findings observed in the research sessions. The purpose is to share what was learned in the sessions before the full research report is complete.
 
@@ -34,13 +35,13 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 1. After opening the Auth menu, **all participants recognized and clicked on *Profile***, which was the correct navigation path. 
 
 ### Authentication issues
-1. After signing in using the prototype, **one third of the participants (3 of 9, which was 2 on mobile and 1 on desktop) didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
+5. After signing in using the prototype, **one third of the participants (3 of 9, which was 2 on mobile and 1 on desktop) didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
 1. After signing in, ***ALL 3 of the mobile users* had difficulty finding the Auth menu**, which was located *under their name within the mobile header menu*. They didn't think to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
 1. After signing in, ***2 of 6 desktop users* had difficulty finding the Auth menu** (by clicking on their name), while the other 4 found it easily. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). The other participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
 
 
 ### Footer issues
-1. **More than half of the participants (5 of 9 participants: 4 on desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 2 *stopped at the white USA logo*. (One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 3 participants from both phases of research.)
+8. **More than half of the participants (5 of 9 participants: 4 on desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 2 *stopped at the white USA logo*. (One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 3 participants from both phases of research.)
 1. **Three of 9 participants  (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
 1. **Three participants (2 desktop, 1 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
 1. **Two participants (both desktop) said that the blue VA part is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
@@ -49,7 +50,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from completely blind to low vision to more vision but needing magnification to read. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. *Because there was such variability in technology and visual disability, accessibility issues that affected even one participant are included here* to consider. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't interfered with completing tasks.
 
 #### Issues that caused difficulty in doing tasks
-1. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty opening and closing the search box** in the header. Focus wasn't in the search box when it opened, but both participants expected to be able to select *Search* and type. 
+12. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty opening and closing the search box** in the header. Focus wasn't in the search box when it opened, but both participants expected to be able to select *Search* and type. 
      1. The JAWS user (p1) tried "enter" to open the search box but couldn't find it to type text. They expected to *right arrow* or *tab* to the right and expand the box, but that didn't work. They had to *arrow down* to get to the box. They were also unable to close the search box.
      1. The VoiceOver user (p10) had difficulty opening the search box and software keyboard. It didn't work at first, so they tried double-tapping but didn't expect to have to do that before typing their search string.   
 
@@ -73,7 +74,7 @@ The 9 participants that we talked with each used their assistive technology in d
 1. p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 
 #### Issues discussed that *didn't* cause difficulty during sessions
-1. p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
+21. p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
 
 1. p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content underneath** when the menu background is the same color as what it's overlaying. In this way, it's hard for the participant to tell where the menu ends and the content resumes. (Note that our prototype pushes the content down, rather than covering any of it up; not sure how this will work in the implementation.) 
 
@@ -82,8 +83,8 @@ The 9 participants that we talked with each used their assistive technology in d
 1. p11 (desktop with the font enlarged ~150%) said that they **preferred a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
 
 ### Content feedback to consider
-1. See **Footer issue #3** above.
-1. See **Footer issue #4** above.
+25. See **Footer issue #3** above: Three participants (2 desktop, 1 mobile) **looked for Find a VA Location in the blue VA footer**.
+1. See **Footer issue #4** above:  Two participants (both desktop) said that the **blue VA part is too large**.
 1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
 1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
@@ -94,7 +95,8 @@ The 9 participants that we talked with each used their assistive technology in d
 
 ### How recognize as an official government website
 7 of the 9 participants were asked how they recognize that this is an official government website (the other 2 participants were not asked due to lack of time). 
-1. More than half of the participants (4 of 7) said that they would **look at the URL to see if it's *https* and *VA.gov*** because the words and graphics could be a fake copy. 
+
+33. More than half of the participants (4 of 7) said that they would **look at the URL to see if it's *https* and *VA.gov*** because the words and graphics could be a fake copy. 
 1. Participants also mentioned other features of the page:
      - **VA seal** (5 participants)
      - ***U.S. Department of Veterans Affairs* in the header** (4)
@@ -103,7 +105,8 @@ The 9 participants that we talked with each used their assistive technology in d
 
 ### Feedback on the federal USA Logos
 Only 6 of the 9 participants had enough vision that they were able to provide feedback on the USA logos. (The 6 participants were all Veterans, which isn't a representative sample of all US citizens.)  
-1. **5 of 6 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
+
+35. **5 of 6 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
    - **Doesn't look like an official government website** (2 of 6 participants)
      > *"It doesn't look professional that it doesn't instill confidence in me...There's no uniformity, it's not basic enough. It looks too frilly...When you open that up, it looks like the Olympics. It doesn't look like any official government website. It doesn't look serious at all" (p4).*
 
@@ -116,7 +119,8 @@ Only 6 of the 9 participants had enough vision that they were able to provide fe
      > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official'" (p11).*
 
     - **Not sure why it says "USA Government"** because things usually say "*U.S.* Government"
-   - **Not sure why it says USA** at all because VA is what matters
+    
+    - **Not sure why it says USA** at all because VA is what matters
      > *"The VA part...is what I'm focused on--more than the U.S. I know the VA is part of the U.S. Government" (p3).*
 
 
@@ -133,7 +137,7 @@ Only 6 of the 9 participants had enough vision that they were able to provide fe
 
 ## Preliminary Recommendations
 There is more data synthesis to do, but in the meantime while design changes are in progress, here are a few preliminary recommendations to consider.
-1. **For mobile, consider a different location for the Auth menu** because underneath the Menu button wasn't intuitive for any of the mobile participants.
+1. **For mobile, consider a different placement for the Auth menu** because underneath the Menu button wasn't intuitive for any of the mobile participants.
 1. **Consider additional personalization after sign in** (e.g., incorporating the user's name on mobile, or changing the screen more significantly) because it was hard for some participants to recognize that they were signed in. 
 1. **Revisit the large blue footer area in conjunction with the small black footer** area because participants were confused about where the bottom of the page was and where to find typical footer links.
 1. **Discuss accessibility issues and whether/how to address**, including the following:
