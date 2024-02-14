@@ -249,7 +249,7 @@ And some Veterans suggested concepts that are similar to other VA services, such
 
 ## Recommendations
 
-1. Design an alternative way to communicate incremental progress in a form that branches.
+1. Design a progress bar that updates dynamically so it's always progressing forward.
 2. Use a sub-task pattern to direct people to sign in based on the type of question they have.
 3. Combine facility search by name and location.
 4. Reorganize order of questions and chapters so it follows a more intuitive route.
