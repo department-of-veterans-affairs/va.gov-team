@@ -2,7 +2,7 @@
 
 
 
-## Sign-in alert to start your application - authenticated only
+## Sign-in alert to start your form - authenticated only
 
 **Current examples:**  
 https://design.va.gov/templates/forms/introduction#authenticated  
@@ -17,3 +17,14 @@ You'll need to sign in to fill out this form. We can fill in some of your inform
 
 { Button } **Sign in to fill out your form **
 
+## Sign-in alert to continue form - [posting as seen on prod, needs review]
+
+#### [h2] Your [form name] is in progress and was last saved on [date and time]
+
+You can continue filing now for [form name], or come back later to finish your application
+
+Your application **will expire on [date of expiration].**
+
+{ Button } Continue your application 
+
+Start a new application 
