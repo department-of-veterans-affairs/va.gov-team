@@ -2,6 +2,76 @@
 
 WIP doc status: 02/01/2024 Rough draft working document to define our strategy. 
 
+
+## Objectives
+
+
+### 📈 Increase number of Veterans who are able to successfully request or schedule an appointment.
+
+Tracked in the [VAOS Key Product Data](https://lookerstudio.google.com/reporting/2d972405-6655-4718-85d6-4bdd56c4e858/page/p_rxu0pq17qc) (Google Data Studio)
+
+
+Questions and notes:
+- What's the source data for this chart?
+- Can we make this more accessible/available?
+
+
+### 📈 Increase veteran satisfaction rates of the MHV Appointments experience.
+
+Tracked in the [Medallia overall satisfaction](https://va-gov.domo.com/page/825663825) Contact Center Domo dashboard.
+
+Questions and notes:
+- We could add nuance by looking at task completion rate and sentiment analysis from Veteran user feedbck.
+
+
+### 📉 Decrease the percentage of sessions that encounter, or end in any error state.
+
+Not currently tracked.
+
+Questions and notes:
+- Will DataDog let us track this?
+
+### 📉 Decrease time taken to schedule or request any appointment successfully.
+
+Unclear if time to completion is currently tracked.
+
+
+### Veterans understand how to navigate the appointments tool.
+
+Not currently tracked.
+
+
+**Questions and notes**
+- How should we measure this? We could gather this info through UAT. It'd be nice if there was an automated/unmoderated way to test this...
+
+### Veterans can find all the information they need about their appointments by using the tool.
+
+Not currently tracked.
+
+**Questions and notes**  
+Ideas for tracking:
+- Medallia feedback: data issues decrease.
+- User research: no new data requests come in, all data is clear
+
+### Veterans have all the tools they need to manage their appointments.
+
+Not currently tracked.
+
+**Questions and notes**
+- Feature requests in Medallia feedback and usability studies should decrease as we add new features.
+
+
+### Veterans understand, and can easily answer, all questions in scheduling flow.
+
+Not currently tracked
+
+
+### Increase percentage of underrepresented Veterans who schedule appointments through VAOS.
+
+We add all of our studies to the [Aggregate Equity Checker](https://docs.google.com/spreadsheets/d/1FptjVArKot0wb2X8efpNtTAl3Rd1qroaEQmWtJ-bDxM/edit#gid=1035614575) (Google Doc) - Demographics of participants in our Veteran studies. We review this when recruiting and update our recruitment criteria to include those we haven't spoken to.
+
+-----
+
 ## Resources
 
 [Appointments OKRs/KPIS](vaos-kpis.md)
@@ -14,7 +84,7 @@ These haven't been updated in a few years.
 [How to request and process Veteran feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-request-medallia-feedback.md)
 
 
-## Data Sources and Query Tools
+### Data Sources and Query Tools
 
 [Google analytics](https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361)
 
@@ -45,56 +115,3 @@ We run regular testing throughout the year, from concepts to prototypes to UAT o
 [Appointments research in EnjoyHQ]()
 
 [Analysis of themes from research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/themes.md)
-
-
-
-
-## Objectives
-
-
-### 📈 Increase number of Veterans who are able to successfully request or schedule an appointment.
-
-[VAOS Key Product Data](https://lookerstudio.google.com/reporting/2d972405-6655-4718-85d6-4bdd56c4e858/page/p_rxu0pq17qc) (Google Data Studio)
-- What's the source data for this chart?
-
-
-### 📈 Increase veteran satisfaction rates of the MHV Appointments experience.
-
-[Medallia overall satisfaction](https://va-gov.domo.com/page/825663825) (Contact Center Domo dashboard).
-
-Not currently tracked:
-- We could track overall VA satisfaction through Medallia
-- We could analyze sentiment across pages and features
-
-
-### 📉 Decrease the percentage of sessions that encounter, or end in any error state.
-
-Not currently tracked:
-- Will DataDog let us track this?
-
-### 📉 Decrease time taken to schedule or request any appointment successfully.
-
-
-### Veterans understand how to navigate the appointments tool.
-
-How should we measure this? We could gather this info through UAT. It'd be nice if there was an automated/unmoderated way to test this...
-
-
-### Veterans can find all the information they need about their appointments by using the tool.
-
-- Medallia feedback: data issues decrease.
-- User research: no new data requests come in, all data is clear
-
-### Veterans have all the tools they need to manage their appointments.
-
-Feature requests in Medallia feedback and usability studies should decrease as we add new features.
-
-
-### Veterans understand, and can easily answer, all questions in scheduling flow.
-
-No current way to track this fully, only to some degree during usabilty tests when we update the feature.
-
-
-### Increase percentage of underrepresented Veterans who schedule appointments through VAOS.
-
-We add all of our studies to the [Aggregate Equity Checker](https://docs.google.com/spreadsheets/d/1FptjVArKot0wb2X8efpNtTAl3Rd1qroaEQmWtJ-bDxM/edit#gid=1035614575) (Google Doc) - Demographics of participants in our Veteran studies. We review this when recruiting and update our recruitment criteria to include those we haven't spoken to.
