@@ -152,7 +152,7 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
   => "1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM="
   ```
 
-- Clients should generate both values, pass the code *challenge* method (as well as code challenge method - `S256`) during `/authorize`, then the code *verifier* along with their received authorization code during `/token`.
+- Clients should generate both values, pass the code *challenge* (as well as code challenge method - `S256`) during `/authorize`, then the code *verifier* along with their received authorization code during `/token`.
 
 ### Refresh Token
 
