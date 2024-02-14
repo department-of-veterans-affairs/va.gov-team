@@ -3,7 +3,7 @@ All engineers and PMs need access to Datadog for various monitoring tasks of our
 
 ### ECC Ticket Notes
 - In the request for Datadog type the following within the justification field:
-  - As a member of the VA.gov Identity team I need write access to the vagov.ddog-gov.com instance.
+  - As a member of the VA.gov Identity team I need `write access` to the vagov.ddog-gov.com instance.
 - In the hosting location use:
   - vagov.ddog-gov
 - Application name:
