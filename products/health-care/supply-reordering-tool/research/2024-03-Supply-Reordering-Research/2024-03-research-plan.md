@@ -1,35 +1,48 @@
 # Research Plan for Supply Reordering Usability Test, Health Portfolio, March 2024
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- The Supply Reordering tool seeks to relieve the burden from the Veteran of going to DLC for reordering devices and filling out a form via mail, or calling to reorder their devices by going to VA.gov instead. DLC also has seen a drastic reduction in the use of their contact centers for supply reorders, which allows them to use their time towards other goals. You need to sign into VA.gov (authenticated) to place a re-order. The tool is currently an iteration of what was once a tool only for hearing aids and batteries reorders, we have now added CPAP supplies.
+
+The Supply Reordering tool seeks to relieve the burden on the Veteran of going to DLC for reordering devices and filling out a form via mail, or calling to reorder their devices by going to VA.gov instead. Veterans currently sign into VA.gov (authenticated) to place a re-oder for: 
+- Hearing aids and batteries
+- CPAP supplies
+  
+Due to this online tool functionality, DLC has seen a drastic reduction in the use of their contact centers for supply reorders, which allows them to use their time towards other goals. 
 
 ### OCTO Priorities 
 
-This works hits several different OCTO priorities, but particularly the priority to increase availability of self-service tools,decrease time to outcomes
-maximize satisfaction, reliability, availability, & security and enhance the Veteran logged-in experience. Eventually, we will be integrating this function into the MHV on VA.gov health portal. 
+This research supports the following OCTO objectives:
+
+Veterans can manage their health services online
+Veterans and their families can find a single, authoritative source of information
+Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
-Where does your product fit into the Veteran journey? This product would fall into  "Taking care of myself". Usually supplies are needed for chronic conditions, supply reordering is a repeated process through the Veteran's lifetime/as long as they have a certain diagnosis. 
+
+This research fits into these points of a Veteran's Journey:
+
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
 ## Research Goals	
 What are you trying to learn from this research? 
 
-- Goal 1: Understand how Veterans currently order and re-order supplies
-- Goal 2: Evaluate if the current form is understandable and useful across participants. 
+- Goal 1: We want to understand how Veterans currently order and re-order medical supplies. 
+- Goal 2: We want to evaluate if the current digital form on VA.gov is user-friendly, easy to understand, and useful to Veterans. 
 
 ### Outcome
-We want to determine if the current process is serving Veterans' needs and is as intuitive as possible for the future state of this product. How can the process improve?
+We want to determine if the current digital ordering process is serving Veterans' needs and is as intuitive as possible for the future state of this product. The insights of the study will also help us improve the medical supplies ordering experience. 
 
 ### Research questions
 
-1. Are users able to navigate to the "Order CPAP supplies" page from an unauth and auth state?
-2. What are user's reactions to and understanding of the current production tool?
-	- Is it clear that the form my include hearing aid supplies and CPAP supplies?
+1. What are Veterans' reactions to and understanding of the current digital medical supplies ordering tool?
+	- Is it clear that the form may include hearing aid supplies and CPAP supplies?
 	- Is it clear to users why some supplies are available and some are not?
-	- Is the form clear on what Veterans need to do when supplies are not available or when they want to change supplies?
-3. How is the process of reordering first indicated to Veterans, and how are they notified when they are eligible to reorder?
+	- Is the form clear on what Veterans need to do when supplies are not available?
+	- Do Veterans know what to do when they want to change supplies after submission?
+2. How are Veterans notified when their prescribed medical supplies are eligible to reorder?
+   	- How is the process of reordering indicated to Veterans first time and subsequent time? 
 
 ### Hypothesis
 
