@@ -106,6 +106,14 @@ Contact Center captures feedback from a survey delivered randomly via modal, and
 We request this data weekly and process it:
 [Q1 2024 Medallia Feedback Analysis (WIP)] (https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2024%20Q1%20Analysis.xlsx?d=w8257a39f90ce446d9621d5c524a209e4&csf=1&web=1&e=8AUAor)  (Sharepoint/VA Network) 
 
+### Mobile app feedback
+
+The feedback link at the bottom of the footer leads to this form. Feedback is available in a Power BI report with select access.
+
+### VSignals feedback
+
+Looking into getting access to this.
+
 ### User Research
 
 We run regular testing throughout the year, from concepts to prototypes to UAT of features in production.
