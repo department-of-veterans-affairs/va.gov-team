@@ -31,10 +31,10 @@
 
 
 ## Contacts:
-- Release Owner - Adam Kamiser
+- Release Owner - Adam Kamiser ; Tom Gammons
 - Release Team: QA and Release
-- FE Engineering - Jon Bindbeutel
-- QA - Tom Gammons
+- FE Engineering - Jon Bindbeutel ; Tim Wright
+- Release Tester for QA - Tom Gammons
 - VA PO - Rachel Han, Ryan Thurwell
 
 ## Step 1: A Github release ticket is generated and sent to Release Owner via email
