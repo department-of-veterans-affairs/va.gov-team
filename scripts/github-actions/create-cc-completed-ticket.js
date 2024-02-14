@@ -134,6 +134,7 @@ async function getVaGovTeamRepoId() {
                   nodes {
                       id
                       name
+                      ghId
                   }
               }
           }
@@ -145,8 +146,8 @@ async function getVaGovTeamRepoId() {
     query
   });
   const repos = data.data.viewer.searchWorkspaces.nodes[0].repositoriesConnection.nodes;
-  const [{ id }] = repos.filter(repo => repo.name === 'va.gov-team');
-  return id;
+  const [repo] = repos.filter(repo => repo.name === 'va.gov-team');
+  return repo;
 }
 
 // create an issue via ZenHub
@@ -348,6 +349,38 @@ async function addLabelToIssue(issueId, labelId) {
   });
 }
 
+async function checkIssueLabel(repoId, issueNumber) {
+  const query = `query getIssueInfo($repositoryGhId: Int!, $issueNumber: Int!) {
+      issueByInfo(repositoryGhId: $repositoryGhId, issueNumber: $issueNumber) {
+        labels {
+          nodes {
+            name
+          }
+        }
+      }
+    }
+  }`;
+
+  const { data } = await axiosInstanceZH.post('', {
+    query,
+    variables: {
+      workspaceId: GOV_TEAM_BOARD_ID,
+      repositoryGhId: repoId,
+      issueNumber
+    }
+  });
+
+  const labels = data.data.issueByInfo.labels.nodes;
+  const hasLabel = labels.some(label => label.name === EVENT_LABEL);
+  if (!hasLabel) {
+    throw new Error(`${EVENT_LABEL} not attached to Completed ticket.`);
+  }
+}
+
+function sleep(delay) {
+  return new Promise((resolve) => setTimeout(resolve), delay);
+}
+
 async function main() {
   try {
     // generate title for created ticket
@@ -355,24 +388,31 @@ async function main() {
     const newTitle = getTitleInfo(body);
 
     // create completed ticket
-    const repoId = await getVaGovTeamRepoId();
-    const { id: newTicketId, number: newTicketNumber } = await createIssue(newTitle, repoId);
+    const repo = await getVaGovTeamRepoId();
+    const { id: newTicketId, number: newTicketNumber } = await createIssue(newTitle, repo.id);
   
     // add milestone to new ticket
     await addMilestone(newTicketNumber, milestone.number);
 
-    //get ids of epics
+    // get ids of epics
     const { epicId, labelId } = await getEpicId(title, true);
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
-    //update completed ticket
+    // update completed ticket
     await addLabelToIssue(newTicketId, labelId);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
     await setEstimate(newTicketId);
     await addIssueToCurrentSprint(newTicketId);
 
-    //close the completed ticket
+    // close the completed ticket
     await closeIssue(newTicketNumber);
+
+    // check that right CC label was added to Completed ticket
+    
+    // wait for ZH to settle
+    await sleep(3000);
+    // throw error if the label is not on the ticket
+    await checkIssueLabel(repo.ghId, newTicketNumber);
   } catch (error) {
     console.log(error);
     process.exit(1);
