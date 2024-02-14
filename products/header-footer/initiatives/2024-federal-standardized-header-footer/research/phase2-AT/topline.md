@@ -83,8 +83,8 @@ The 9 participants that we talked with each used their assistive technology in d
 1. p11 (desktop with the font enlarged ~150%) said that they **preferred a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
 
 ### Content feedback to consider
-25. See **Footer issue #3** above: Three participants (2 desktop, 1 mobile) **looked for Find a VA Location in the blue VA footer**.
-1. See **Footer issue #4** above:  Two participants (both desktop) said that the **blue VA part is too large**.
+25. See **Footer issue #10** above: Three participants (2 desktop, 1 mobile) **looked for Find a VA Location in the blue VA footer**.
+1. See **Footer issue #11** above:  Two participants (both desktop) said that the **blue VA part is too large**.
 1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
 1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
@@ -118,13 +118,13 @@ Only 6 of the 9 participants had enough vision that they were able to provide fe
    - Looks **unfamiliar so seems fraudulent**
      > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official'" (p11).*
 
-    - **Not sure why it says "USA Government"** because things usually say "*U.S.* Government"
-    
-    - **Not sure why it says USA** at all because VA is what matters
+   - **Not sure why it says "USA Government"** because things usually say "*U.S.* Government"
+
+  - **Not sure why it says "USA"**  because VA is what matters
      > *"The VA part...is what I'm focused on--more than the U.S. I know the VA is part of the U.S. Government" (p3).*
 
 
-1. Of the 5 participants who didn't like the colored USA logo in the header, **3 of the 5 said they liked the black/white USA logo in the footer better** because it's a single color and has the seal next to it instead of the word "government". 
+36. Of the 5 participants who didn't like the colored USA logo in the header, **3 of the 5 said they liked the black/white USA logo in the footer better** because it's a single color and has the seal next to it instead of the word "government". 
       > *"The S is different than the U and A (the font), but...you don't see it as much because it's in all in the same color font so it doesn't stand out as much...The black and white makes it look pretty clean...It looks organized" (p9).*
 
       > *"It's USA and then you have the symbol [seal] right next to it--that looks more official...[The word] 'Government' seems more generic...The first thing that makes me think official is when I see the seal" (p3).*
