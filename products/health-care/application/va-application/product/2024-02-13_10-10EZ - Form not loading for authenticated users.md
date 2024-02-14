@@ -94,7 +94,7 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-13 @ 09:54 AM ET`: Joshua Faulkner posted in the #1010-health-apps Slack channel that the 10-10EZ forms submissions had dramatically dropped off since the previous night around midnight
 - `2024-02-13 @ 10:04 AM ET`: Adrian Rollett assisted with some Datadog insights, a Sidekiq retries chart had peaked and had not yet returned to normal
 - `2024-02-13 @ 11:09 AM ET`: It was confirmed there were no backend issues reported 
-- `2024-02-13 @ 11:24 AM ET`: Validated that authenticated users would be directed to a screen with just the title of the application and the "Need Help" section.  The unauthenticated user flow was unaffected.
+- `2024-02-13 @ 11:24 AM ET`: Validated that authenticated users would be directed to a screen with just the title of the application and the "Need Help" section.  The unauthenticated user flow was unaffected
 - `2024-02-13 @ 11:24 AM ET`: Confirmed that the only deployment from our team on the previous day was for the 10-10CG and not related to the 10-10EZ code
 - `2024-02-13 @ 11:29 AM ET`: A ticket was open with Platform Support for assistance - [Github support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76020)
 - `2024-02-13 @ 11:29 AM ET`: Patrick Bateman was notified of the issue
@@ -102,18 +102,24 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-13 @ 12:03 PM ET`: Validated that the RUM dashboard in Datadog also showed user session replays where they are not able to view the form as expected
 - `2024-02-13 @ 12:05 PM ET`: PagerDuty Maintenance window is placed
 - `2024-02-13 @ 01:20 PM ET`: Call started with Matt Long (FE Engineer) and Chapley Watson (Full stack Engineer) to triage the issue and talk through solutions 
-- `2024-02-13 @ 01:33 PM ET`: Pulled PagerDuty Maintenance window down to run a quick test after a refresh by Frontend.  This did not work, still experiencing the issue.  Maintenance window placed back up.
-- `2024-02-13 @ 01:35 PM ET`: Determined that the initial PR #27808 needs to be reverted, this is the only option we have at this time, and cannot complete any testing in lower level environments.
+- `2024-02-13 @ 01:33 PM ET`: Pulled PagerDuty Maintenance window down to run a quick test after a refresh by Frontend.  This did not work, still experiencing the issue.  Maintenance window placed back up
+- `2024-02-13 @ 01:35 PM ET`: Determined that the initial PR #27808 needs to be reverted, this is the only option we have at this time, and cannot complete any testing in lower level environments
 - `2024-02-13 @ 01:45 PM ET`: [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962) placed for the revert of [PR #29808](https://github.com/department-of-veterans-affairs/vets-website/pull/27962)
 - `2024-02-13 @ 02:44 PM ET`: [Platform Support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76100) opened for urgent review of [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962)
-- `2024-02-13 @ 02:54 PM ET`: Advised by Curt Bonade that this will not make it into the Daily Deploy window, however an OOB can be done just after.
+- `2024-02-13 @ 02:54 PM ET`: Advised by Curt Bonade that this will not make it into the Daily Deploy window, however an OOB can be done just after
 - `2024-02-13 @ 02:59 PM ET`: Brandon Dech requested we fill out an OOB request ticket
 - `2024-02-13 @ 03:11 PM ET`: Matt Long submitted the [OOB Ticket #76115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76115)
 - `2024-02-13 @ 02:59 PM ET`: Brandon Dech triggered a [PagerDuty](https://dsva.pagerduty.com/incidents/Q06LE037B31IH2) to notify on call OOB deployment for approval
 - `2024-02-13 @ 02:59 PM ET`: Bill Chapman expressed that he was not a fan of troubleshooting by revert, however recognizes that the error correlated with the deployment - APPROVED OOB
 - `2024-02-13 @ 05:36 PM ET`: Maintenance window expired, PR has not yet been deployed
 - `2024-02-13 @ 06:19 PM ET`: Placed maintenance window back up
-- `2024-02-13 @ 02:59 PM ET`: 
+- `2024-02-13 @ 11:06 PM ET`: As of this date/time, the OOB deploy has continuously failed after 7 hours of runs. We are stopping for the night and will engage Platform and Frontend CoP in the morning
+- `2024-02-14 @ 07:30 AM ET`: Patrick Bateman attempted a run of the failed ones, to no avail
+- `2024-02-14 @ 07:30 AM ET`: Curt Bonade suggested doing a full rerun to see if it helps
+- `2024-02-14 @ 08:56 AM ET`: Matt Long merged the Main branch and has started a new workflow, Curt Bonade is monitoring
+- `2024-02-14 @ 09:16 AM ET`: Decision was made to document a local passing run and Platform will override branch protections and merge - Suggested by Adrian Rollett and confirmed by Curt Bonade and Clint Little
+- `2024-02-14 @ 07:30 AM ET`:
+- `2024-02-14 @ 07:30 AM ET`: 
 - ...
 
 ## Contributors
