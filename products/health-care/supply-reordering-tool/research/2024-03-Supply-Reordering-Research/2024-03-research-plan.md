@@ -46,29 +46,30 @@ We want to determine if the current digital ordering process is serving Veterans
 
 ### Hypothesis
 
-- Hypothesis 1 : Participants will look to search "CPAP supplies" and find the page from there, since there is no link in the header or health hub
-- Hypothesis 2 :  Participants will get through the tasks of ordering the supplies relatively easily
-- Hypothesis 3:  Participants will want to know how to change supplies 
+- Hypothesis 1: Participants will look to search "CPAP supplies" and find the page from there since there is no link in the header or health hub.
+- Hypothesis 2: Participants will get through the tasks of ordering the supplies relatively easily.
+- Hypothesis 3: Participants will want to know how to change supplies. 
 - Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-- Hypothesis 5: Veterans probably find out about the reordering process from their VA provider
-- Hypothesis 6: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, likely with a number they already have.
+- Hypothesis 5: Veterans probably find out about the reordering process from their VA provider.
+- Hypothesis 6: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order. 
 
 
 ## Methodology	
 
-We will conduct remote usability and interview sessions on Zoom. The interviews will consist of a combination tasks and direct questions.
-We will conduct the study in the staging environment. with a test user created specifically for the study. 
+We will conduct remote usability and interview sessions on Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct the study in the staging environment, with one test account and a different password created specifically for the study. We will document each password created and participants' demographics in the sensitive repo. 
   
 ### Location
-Will be remote on Zoom.
+All sessions Will be remote on Zoom.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-- Conversation guide [Link to conversation guide](url goes here) 
+
+- Conversation guide [Link to conversation guide](url goes here)
+- [Staging environment](https://staging.va.gov/)
+  	- Test account user name: vets.gov.user+228@gmail.com
+  	- Password: [Link to sensitive repo](url goes here)
 
 
 ## Recruitment	
-
 
 ### Recruitment criteria
 Primary criteria (must-haves)
@@ -79,9 +80,8 @@ Primary criteria (must-haves)
 Desired sample
 
 * 15 total
-* 7 frequent users of MHV
-* 8 infrequent users of MHV
-* 7 mobile users, 7 desktop users 
+* 8 have an active MHV account, and 7 don't have
+* 7 mobile users, and 8 desktop users 
 * Age and education level range throughout, but ideally include at least 8 participants older than 55 and 7 participants with some college or less as their terminal degree.
 
 ### Screener questions
@@ -105,7 +105,7 @@ Desired sample
 * 2-3 times a month (go onto Screener question 4)
 * more than 3 times a month (go onto Screener question 4)
 
-4. Have you been prescribed to medical equipment, such as CPAP?
+4. Have you been prescribed medical equipment, such as CPAP?
 
 * Yes (Qualify, at least 10)
 * No (Qualify, less than 5)
