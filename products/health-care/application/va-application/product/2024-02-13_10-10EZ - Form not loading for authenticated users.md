@@ -11,9 +11,10 @@ After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability f
 Quantified statement about the impact of the incident.
 
 - How many users were affected?
-     - ~870 authenticated users
+     - ~870 authenticated users experienced the issue
 - What time period were users impacted?
-     - 02/12/2024 5:25pm ET to TBD
+     - Issue occured between 02/12/2024 5:25pm ET to 02/13/2024 12:05 PM ET
+     - Maintenance window in place between 02/13/2024 12:05 PM ET to TBD - 
 - What impact did this have on the SLO?
      - XXXXXXX
 
