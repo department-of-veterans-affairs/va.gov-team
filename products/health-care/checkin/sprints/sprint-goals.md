@@ -306,8 +306,8 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
-        - ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
-        - ❗ 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
+        - ✔️ ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
+        - ✔️ ❗ 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
         - ✔️ ❗ 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
         - ✔️ ❗ 🟥 [[Content] Create (or version out) content for Need Help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75163)
         - ✔️ ❗ 🟥 [[Design][Content] Create final frames with content for error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75206)
@@ -316,9 +316,9 @@ ________________________________________________________________________________
         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - ❗ 🟥 Schedule Midpoint Review
         - ❗ 🟥 Pull in tickets fro CAIA feedback if time permits
-        - ❗ 🟩 🟦 [[FE][BE] Create all Task Tickets & Point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75463)
+        - ✔️ ❗ 🟩 🟦 [[FE][BE] Create all Task Tickets & Point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75463)
         - ❗ 🟩 [[FE] - Create basic pages and router for travel app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75269)
-        - ❗ 🟩 [[FE] - Stub out new travel claim app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75268)
+        - ✔️ ❗ 🟩 [[FE] - Stub out new travel claim app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75268)
         - ❗ 🟩 [[CHIP] - Create initiateTravelClaim function](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75106)
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
