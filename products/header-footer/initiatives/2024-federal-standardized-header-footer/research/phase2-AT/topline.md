@@ -140,7 +140,7 @@ There is more data synthesis to do, but in the meantime while design changes are
 1. **For mobile, consider a different placement for the Auth menu** because underneath the Menu button wasn't intuitive for any of the mobile participants.
 1. **Consider additional personalization after sign in** (e.g., incorporating the user's name on mobile, or changing the screen more significantly) because it was hard for some participants to recognize that they were signed in. 
 1. **Revisit the large blue footer area in conjunction with the small black footer** area because participants were confused about where the bottom of the page was and where to find typical footer links.
-1. **Discuss accessibility issues and whether/how to address**, including the following:
+1. **Discuss accessibility issues and whether/how to address**, especially the following:
      1. Difficulty using search in desktop
      1. Pages not being read by MAGic screen reader (can we test this on Production?)
      1. Spacing and arrangement of columns in the blue footer in desktop
