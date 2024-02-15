@@ -23,7 +23,7 @@ Disability rating
 State 1: User has a disability rating
 
 - We can only detect a disability rating if a user is LOA3 (identity verified). We can not detect if they have one if they are LOA1 (not identity verified).
-- Show nametag with name, branch of service (if returned), and disability rating as a percentage value.
+- Show nametag with name (this includes First Name, Middle Initials (if any, supports multiple), Last Name), branch of service (if returned), and disability rating as a percentage value.
 - Include the total disability rating if someone has one.
 - The disability rating should link to the the disability rating tool.
 - The disability rating number we are showing is the total disability rating for a given veteran, which can be made up of one or more ratings. This integration already exists on VA.gov. For specifics on how to connect to that endpoint, please talk to the eBenefits migration team, who originally migrated this information over to VA.gov from eBenefits.
@@ -41,7 +41,7 @@ Legal name
 
 State 1: Legal/full name end point loads
 
-    Show nametag with user's name. Branch of service and disability rating will only show if they are returned/applicable.
+    Show nametag with user's name (this includes First Name, Middle Initials (if any, supports multiple), Last Name). Branch of service and disability rating will only show if they are returned/applicable.
 
 State 2: Legal/full name end point does NOT load
 
