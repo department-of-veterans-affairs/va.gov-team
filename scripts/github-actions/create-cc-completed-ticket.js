@@ -389,9 +389,9 @@ async function main() {
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
     // update completed ticket
-    await addLabelToIssue(newTicketId, labelId);
-
     await addIssueToCurrentSprint(newTicketId);
+
+    await addLabelToIssue(newTicketId, labelId);
 
     await setEstimate(newTicketId);
 
