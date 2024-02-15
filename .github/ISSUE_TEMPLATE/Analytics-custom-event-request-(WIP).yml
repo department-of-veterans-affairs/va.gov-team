@@ -3,7 +3,7 @@ about: "This for is for VFS teams to audit the list of custom events for each of
 title: "VFS Custom Events for [Team Name]"
 labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
 assignees: johnny-jesensky-adhoc
-Body:
+body:
 - type: markdown
   attributes:
     value: "# (WIP) VFS Custom Event Form" 
