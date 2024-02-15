@@ -2,12 +2,12 @@
 name: Analytics - VFS Custom Event Audit Form 
 about: This for is for VFS teams to audit the list of custom events for each of their products. 
 title:
-labels: analytics-insights, analytics-request
+labels: analytics-insights, analytics-request, ga4-migration, analytics-insights-form
 assignees: johnny-jesensky-adhoc
 
 ---
 
-# VFS Custom Event Form 
+# (WIP) VFS Custom Event Form 
 
 ## What this form is for
 In prepration for the migration to GA4 we need information from your teams to ensure that data is transfered properly...
