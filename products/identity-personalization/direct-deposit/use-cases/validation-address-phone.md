@@ -1,10 +1,12 @@
 # Direct deposit for compensation and pension: user doesn't have a valid mailing address or phone number in their profile
 
-**Last updated June 27, 2022**
+**Last updated:**  February 15, 2024 (added Figma links and updated BG info)
 
 If an LOA3 user attempts to update their compensation and pension direct deposit information (DD), and they don't have a valid mailing address or home or work number on file, they're blocked from making an update and prompted to review their contact information. There is no actual requirement for a user to have a valid address and phone to update direct deposit data; this requirement is a symptom of the BGS service that updates direct deposit and how functionality used to work when the ability to update direct deposit existed on eBenefits.
 
-In June 2022, the DD team started working with the BGS team to remove contact information from this service. That work is currently in progress.
+In June 2022, the DD team started working with the BGS team to remove contact information from this service. Our team hasn't been able to get a status update on the work since.
+
+When this service migrated to Lighthouse, this requirement was also migrated. We are still working to understand if there is a business need for the requirement to have been migrated or if it is still possible to have it removed.
 
 **Note:** This does not apply to education direct deposit information.
 
