@@ -9,9 +9,9 @@ CTO slack channel: appointments-oracle-health-integrations
 	Post any DSU updates if you are unable to attend 
 
 ## 📋 Sprint Summary: we will need to include this every time as part of A6 reporting
-VETSAPI/VA.gov onboarding
-VAOS/OH design/planning
-Built the PCI functionality in the VETSAPI Patient Gateway service (working on deploying to MAP staging this sprint)
+* VETSAPI/VA.gov onboarding
+* VAOS/OH design/planning
+* Built the PCI functionality in the VETSAPI Patient Gateway service (working on deploying to MAP staging this sprint)
 
 
 ## Planned Releases
