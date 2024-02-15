@@ -1,5 +1,5 @@
 # My VA Outstanding Debts Use Case: Copay Debts
-**Last updated: December 14, 2022**
+**Last updated: February 15, 2024**
 
 For LOA3 users who sign in and have outstanding copay debts, we will show a card for copay debts in the Outstanding Debts section on My VA.
 
@@ -10,10 +10,10 @@ For LOA3 users who sign in and have outstanding copay debts, we will show a card
 * If a user only has copays, they will see this card on the lefthand side on desktop and at the top of the list directly under the Outstanding debts header on mobile.
 * If a user only has copays and no overpayment debts, they will also see a link to "Learn about VA debt" on the righthand side on desktop, and directly below the copays card on mobile. This links to the [VA debt management page](va.gov/resources/va-debt-management/).
 * Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-* [Desktop mockup of copay debt only](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/EEFBF469-F7B6-4087-9EB4-FE6DE1EE2A12)
-* [Mobile mockup of copay debt only](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/DAB1B489-950A-4378-B784-0E4980F44A1E)
-* [Desktop mockup of both copay and overpayment debts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B3352077-2620-4C5B-9208-2B57CD6CFAC5)
-* [Mobile mockup of both copay and overpayment debts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/639F4902-A32D-4454-87E5-4BD2E50E578E)
+* [Desktop mockup of copay debt only](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A76&mode=design&t=qbn63trCAjh7M4BK-1)
+* [Mobile mockup of copay debt only](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A637&mode=design&t=qbn63trCAjh7M4BK-1)
+* [Desktop mockup of both copay and overpayment debts](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A135&mode=design&t=qbn63trCAjh7M4BK-1)
+* [Mobile mockup of both copay and overpayment debts](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A664&mode=design&t=qbn63trCAjh7M4BK-1)
 
 ## How to reproduce
 * Find a staging user who has copay debts in the [outstanding debts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-outstanding-debts-section),  or inquire with **benefits team 2** in slack (`#benefits-team-2`) for test users with outstanding copay debts.

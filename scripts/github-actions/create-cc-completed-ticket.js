@@ -294,6 +294,7 @@ async function addIssueToEpic(issueId, epicArray) {
     }
   }`;
   
+
   try {
     await axiosInstanceZH.post('', {
       query,
@@ -307,7 +308,6 @@ async function addIssueToEpic(issueId, epicArray) {
   } catch {
     console.log('error in addIssueToEpic');
   }
-  
 }
 
 // set point estimate of completed ticket based on touchpoint
