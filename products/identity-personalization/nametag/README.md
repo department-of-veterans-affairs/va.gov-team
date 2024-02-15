@@ -1,6 +1,6 @@
 # Product Outline: Nametag
 
-**Last Updated: January, 31, 2024 - published** 
+**Last Updated: February 15, 2024 - published** 
 
 ### Table of Contents
 
@@ -69,7 +69,7 @@ The [dashboard was updated](https://github.com/department-of-veterans-affairs/va
 
 ## Design
 
-- [Desktop & Mobile](https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c)
+- [Desktop & Mobile]([https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c](https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1%3A3755&mode=design&t=nDAq9bov6CID1g6S-1)https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1%3A3755&mode=design&t=nDAq9bov6CID1g6S-1)
 
 ## Frontend
 TK
