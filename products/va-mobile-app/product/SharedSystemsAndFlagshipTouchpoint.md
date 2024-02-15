@@ -1,6 +1,11 @@
 This meeting is to discuss and address any dependencies between the VA Mobile Shared Systems teams and the Flagship teams that are using their systems.
 
 **Agenda/Notes**
+02/20/24
+* **DS Button Component in Flagship app (Kelly)**
+   * All Stories are closed, are we all done?
+
+  
 02/06/24
 * **Removing White Button Variant and old colors from Flagship app (Kelly)**
    * [Colors ticket](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-library/120)
