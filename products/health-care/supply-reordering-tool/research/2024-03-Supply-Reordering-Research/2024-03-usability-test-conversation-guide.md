@@ -128,7 +128,7 @@ This is a test version of VA.gov. It looks like the real website and we have tur
 
 ## Task 1 : Can you walk me through how you would order a hearing aid supply to your permanent home address? - 20 minutes 
 
-_Now at Order content landing page_
+#### _Now at Order content landing page_
 
 If participant mentions or attempts to sign in send credentials 
 
@@ -156,7 +156,7 @@ Now that we are at this page, can you show me what you would do next to make a s
 
 Participant clicks quicklink 
 
-_Step 1 Page : Veteran Information_
+#### _Step 1 Page : Veteran Information_
 
 You have now arrived at the first step of the order form. Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
 
@@ -168,13 +168,13 @@ Is the information listed here useful for you to see?
 
 Any additional questions on this page? 
 
-_Step 1 Page (cont). : Veteran Information_
+#### _Step 1 Page (cont). : Veteran Information_
 
 What do you think about this page? Can you please show us how you would complete this step of the form? 
 
 Before you hit continue, are the different types of addresses on this page clear?  
 
-_Step 1 Page (cont). : Veteran Information_ 
+#### _Step 1 Page (cont). : Veteran Information_ 
 
 Is it clear what to do on this page? 
 
@@ -182,7 +182,7 @@ Let’s see if you’re at a different location from your home, how would you ad
 
 What does temporary address mean to you?  
 
-_Step 2 : Select your supplies_
+#### _Step 2 : Select your supplies_
 
 Can you show me how you would order a hearing aid supply from this page? Please think out loud about this page and let me know your thoughts. 
 
@@ -198,7 +198,7 @@ Point to CPAP supplies being not available:
 
 What if this supply is what you needed, what would you do next?  
 
-_Step 3: Review order details_
+#### _Step 3: Review order details_
 
 Can you show us how you would submit your order? 
 
@@ -206,7 +206,7 @@ At this point, you realized that you forgot to add X supply to this order, how w
 
 For ½ the participants : Let’s say that at this point in your order, you realize that you need to ask a question to your VA provider before placing the order, and you need to save this order and come back later to submit. Could you show me how you would save this order, then resubmit it?  
 
-_Step 4: Confirmation screen_
+#### _Step 4: Confirmation screen_
 
 So at this point in the order you would see a confirmation screen. Here is what that looks like : (share screen of screenshot and/or prototype screen) 
 
@@ -216,7 +216,7 @@ Is there anything confusing or if you have any questions on this page?
 
 Can you tell me what you ordered here? 
 
-_Overall_
+# _Overall_
 
 How would you rate this reordering overall experience from 1 to 5, 5 being the best? 
 
