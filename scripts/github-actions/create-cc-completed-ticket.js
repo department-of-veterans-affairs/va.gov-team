@@ -348,8 +348,28 @@ async function addLabelToIssue(issueId, labelId) {
   });
 }
 
+async function addIssueToEpicX() {
+  const query = `mutation AddIssuesToEpics($input: AddIssuesToEpicsInput!) {
+    addIssuesToEpics(input: $input) {
+        clientMutationId  
+    }
+  }`;
+  
+  await axiosInstanceZH.post('', {
+    query,
+    variables: {
+      input: {
+        issueIds: ["Z2lkOi8vcmFwdG9yL0lzc3VlLzMyMDkxMTgyOA"],
+        epicIds: ["Z2lkOi8vcmFwdG9yL0VwaWMvMTEyNTQ3MQ","Z2lkOi8vcmFwdG9yL0VwaWMvMTExNzkwMA"]
+      }
+    }
+  });
+}
+
 async function main() {
   try {
+    await addIssueToEpicX();
+    
     // generate title for created ticket
     const { title, body, milestone } = await getGHIssue(ISSUE_NUMBER);
     const newTitle = getTitleInfo(body);
