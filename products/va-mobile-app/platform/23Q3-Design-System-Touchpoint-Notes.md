@@ -6,7 +6,7 @@ Agenda:
 *   Discuss progress and risks 
 
 ## 2/15/24
-*   A
+*   Update on current work
 
 ## 2/1/24
 *   Team Mission/Vision/NS
