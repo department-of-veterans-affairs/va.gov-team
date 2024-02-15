@@ -236,7 +236,9 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Onboard New Team Members**
-    - ✔️ Create Platform onboarding tickets for each
+    - [New VFS Team Member [ John Luo ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76322)
+    - [New VFS Team Member [ Eric Oliver ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76320)
+    - [New VFS Team Member [ Nate Douglas ] ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76323)
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Integrate with CERNER**
