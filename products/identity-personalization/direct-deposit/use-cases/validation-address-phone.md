@@ -1,4 +1,4 @@
-# Direct deposit for compensation and pension: user doesn't have a valid mailing address or phone number in their profile
+# Direct deposit for compensation and pension: user doesn't have a valid mailing address, home phone number, or work phone number in their profile
 
 **Last updated:**  February 15, 2024 (added Figma links and updated BG info)
 
