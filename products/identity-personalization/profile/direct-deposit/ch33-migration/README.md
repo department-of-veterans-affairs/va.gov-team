@@ -43,4 +43,4 @@ CH33 EDU benefits likely need to pass information through Lighthouse
 - [Current User Flow](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-1&mode=design&t=PHWgrsxoEHDjP36q-0) 
 
 ## Key Dates 
-
+- `Deadline of 4/20/2024`
