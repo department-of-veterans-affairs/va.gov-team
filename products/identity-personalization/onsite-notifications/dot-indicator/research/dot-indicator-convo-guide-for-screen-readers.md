@@ -61,7 +61,7 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button a
 
 - What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
 
-- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **There are updates with your prescriptions and refills**?
+- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **There are 2 updates with your prescriptions and refills**?
 
 Move on to badge indicator
 
