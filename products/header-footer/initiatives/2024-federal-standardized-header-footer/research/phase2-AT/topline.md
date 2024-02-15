@@ -145,7 +145,7 @@ There is more data synthesis to do, but in the meantime while design changes are
      1. Pages not being read by MAGic screen reader (can we test this on Production?)
      1. Spacing and arrangement of columns in the blue footer in desktop
      1. Mobile header menu and search buttons changing name
-1. **Review the content and information architecture of the footer and mobile header close buttons**.
+1. **Review the content and information architecture of the footer**, as well as mobile header close buttons.
 1. **Share feedback on the two federal USA logos with OFCIO and GSA**.
 
 
