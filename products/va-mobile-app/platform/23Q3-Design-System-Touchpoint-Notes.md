@@ -7,6 +7,7 @@ Agenda:
 
 ## 2/15/24
 *   Update on current work
+*   Checkbox vs.Checkbox Group in VADS
 
 ## 2/1/24
 *   Team Mission/Vision/NS
