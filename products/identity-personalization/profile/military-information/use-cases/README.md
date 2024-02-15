@@ -1,5 +1,5 @@
 # Military Information Use Cases
-**Last updated:** July 28, 2023
+**Last updated:** February 15, 2024
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -24,4 +24,4 @@ This feature has no validation use cases, since it is read only.
 - [Something has gone wrong and VA.gov can’t display any military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/system-cant-display-military-info.md)
 
 ## Flow diagrams
-- [User flow on mobile page of Sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/p/D6D40E33-BC4E-4A06-90C7-879C59AD49F4/canvas)
+- [User flow on mobile page of design files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0%3A1&mode=design&t=ISGgZpVUB35oOzXb-1)
