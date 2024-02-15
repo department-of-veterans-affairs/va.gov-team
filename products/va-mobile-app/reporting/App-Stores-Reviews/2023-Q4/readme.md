@@ -18,18 +18,19 @@ Some examples of feature improvements Veterans suggested:
 In addition, app reviews consistently metioned the the app's simple, easy navigation during this time period, averaging 6% of total reviews over the quarter. 
 
 Veteran recommendations for new app features not yet available included the following:
-- access to labs and test results
-- access to VA medical records 
-- ability to file for travel pay 
-- schedule new VA appointments
-- manage health coverage and eligibility for dependents
-- show other benefits like education, life insurance
-- file for VA life insurance
-- access C&P exam notes
-- download VA records
-- order supplies like hearing aids
-- pay for Rx refills
-- pay your VA bill
+- access to labs and test results - 9 
+- access to VA medical records - 9
+- ability to file for travel pay - 7
+- schedule new VA appointments - 4
+- manage health coverage and eligibility for dependents - 1
+- show other benefits like education, life insurance - 1
+- file for VA life insurance - 1
+- access C&P exam notes - 1
+- download VA records - 1
+- order supplies like hearing aids - 1
+- pay for Rx refills - 1
+- pay your VA bill - 1
+- provide feedback on the app - 1
 
 | Keyword          | Oct Frequency Count | Nov Frequency Count | Dec Frequency Count | % of Total Reviews | Trending Frequency |
 | ---------------- | ------------------- | ------------------- | ------------------- | ------------------ | ------------------ |
