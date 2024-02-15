@@ -9,9 +9,9 @@
 This topline summary is a preliminary summary of research findings observed in the research sessions. The purpose is to share what was learned in the sessions before the full research report is complete.
 
 ## Introduction
-The purpose of this research was to get user feedback on **wayfinding using the new Federal header and footer**, as well as Veteran sentiment on the new USA logo branding, **from Veterans using screen reader or screen magnifier assistive technology**. 
+The purpose of this research was to get user feedback on **wayfinding using the proposed Federal header and footer**, as well as Veteran sentiment on the proposed USA logo branding, **from Veterans using screen reader or screen magnifier assistive technology**. 
 
-This research is one of three phases of user research on wayfinding with the new Federal header and footer:
+This research is one of three phases of user research on wayfinding with the proposed Federal header and footer:
 
 Phase | Focus | Dates | Topline Summary
 ----- |------|-------|--------
@@ -29,9 +29,9 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 
 ## Preliminary Findings
 ### Usability Successes
-1. The **page design was well received overall**. Participants  mentioned specifically liking the page layout, the links in the header and footer, the placement of the *Sign in* button in the top right, the simple font with good color contrast, the menus that start out collapsed, and the ample spacing between touchable links on mobile devices. 
-1. **Wayfinding seemed *not* adversely affected by the new header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, while others were challenged by a few of them. Tasks that were most difficult were FOIA information (for participants not looking in the federal footer area) and changing address (for participants who had trouble finding the Auth menu).
-1. **None of the 9 participants mentioned missing the "VA" logo**, so it seems fine to not have that on the page. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to participants to recognize the site as pertaining to the VA.
+1. The **page design was well received overall**. Participants  mentioned specifically liking the page layout, the links in the header and footer, the placement of the *Sign in* button in the top right, the simple font (Public Sans) with good color contrast, the menus that start out collapsed, and the ample spacing between touchable links on mobile devices. 
+1. **Wayfinding seemed *not* adversely affected by the proposed header and footer**. Each participant completed 5-7 wayfinding tasks. 3 of 9 participants completed all of their tasks without any help, while others were challenged by a few of them. Tasks that were most difficult were FOIA information (for participants not looking in the federal footer area) and changing address (for participants who had trouble finding the Auth menu).
+1. **None of the 9 participants mentioned missing the "VA" logo**. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to participants to recognize the site as pertaining to the VA.
 1. After opening the Auth menu, **all participants recognized and clicked on *Profile***, which was the correct navigation path. 
 
 ### Authentication issues
@@ -44,7 +44,7 @@ On January 29 - February 5, 2024, we talked over Zoom with **9 Veterans**--2 of 
 8. **More than half of the participants (5 of 9 participants: 4 on desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 2 *stopped at the white USA logo*. (One person in phase 1 also stopped scrolling at the white USA logo, so that's a total of 3 participants from both phases of research.)
 1. **Three of 9 participants  (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
 1. **Three participants (2 desktop, 1 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
-1. **Two participants (both desktop) said that the blue VA part is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
+1. **Two participants (both desktop) said that the blue VA footer is too large** and has too many links. (One person in phase 1 said the same thing, so that's a total of 3 people from both phases of research.)
 
 ### Accessibility issues to investigate 
 The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from impaired vision to low vision to completely blind. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. **Because there was such variability in technology and visual ability, accessibility issues that affected even one participant are included here** to consider. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't interfered with completing tasks.
@@ -84,7 +84,7 @@ The 9 participants that we talked with each used their assistive technology in d
 
 ### Content feedback to consider
 24. See **Footer issue #10** above: Three participants (2 desktop, 1 mobile) **looked for Find a VA Location in the blue VA footer**.
-1. See **Footer issue #11** above:  Two participants (both desktop) said that the **blue VA part is too large**.
+1. See **Footer issue #11** above:  Two participants (both desktop) said that the **blue VA footer is too large**.
 1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
 1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
@@ -93,10 +93,10 @@ The 9 participants that we talked with each used their assistive technology in d
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (p7).*
 
-### How recognize as an official government website
+### Recognition as an official government website
 7 of the 9 participants were asked how they recognize that this is an official government website (the other 2 participants were not asked due to lack of time). 
 
-32. More than half of the participants (4 of 7) said that they would **look at the URL to see if it's *https* and *VA.gov*** because the words and graphics could be a fake copy. 
+32. More than half of the participants (4 of 7) said that they would **look at the URL to see if it's *https* and *.gov*** because the words and graphics could be a fake copy. 
 1. Participants also mentioned other features of the page:
      - **VA seal** (5 participants)
      - ***U.S. Department of Veterans Affairs* in the header** (4)
@@ -140,12 +140,12 @@ There is more data synthesis to do, but in the meantime while design changes are
 1. **For mobile, consider a different placement for the Auth menu** because underneath the Menu button wasn't intuitive for any of the mobile participants.
 1. **Consider additional personalization after sign in** (e.g., incorporating the user's name on mobile, or changing the screen more significantly) because it was hard for some participants to recognize that they were signed in. 
 1. **Revisit the large blue footer area in conjunction with the small black footer** area because participants were confused about where the bottom of the page was and where to find typical footer links.
-1. **Discuss and investigate accessibility issues and whether/how to address**, especially the following:
+1. **Review and investigate accessibility issues and whether/how to address**, especially the following:
      1. Difficulty using search in desktop
      1. Pages not being read by MAGic screen reader (can we test this on Production?)
      1. Spacing and arrangement of columns in the blue footer in desktop
      1. Mobile header menu and search buttons changing name
-1. **Discuss content feedback with CAIA**.
+1. **Review the content and information architecture of the footer and mobile header close buttons**.
 1. **Share feedback on the two federal USA logos with OFCIO and GSA**.
 
 
