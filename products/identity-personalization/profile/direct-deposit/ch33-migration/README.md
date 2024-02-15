@@ -5,8 +5,8 @@
 ## Table of Contents 
 
 ## Communications 
-- Github labels: authenticated-experience, profile, direct-deposit
-- Slack channel: #edu-direct-deposit-migration
+- **Github labels:** authenticated-experience, profile, direct-deposit
+- **Slack channel:** #edu-direct-deposit-migration
 
 ## Roles 
 
