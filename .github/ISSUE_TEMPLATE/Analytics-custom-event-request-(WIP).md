@@ -10,3 +10,19 @@ assignees: johnny-jesensky-adhoc
 # VFS Custom Event Form 
 
 ## What this form is for
+In prepration for the migration to GA4 we need information from your teams to ensure that data is transfered properly...
+
+## Instructions
+- **Make a copy of this spreadsheet ____**
+- **Fill out all sections**
+- **Example** (add images)
+
+### Please provide the following details for this form 
+
+- **Team Name**
+
+    - [Insert team name(s), for individual's names please use the `/support` tracker on the #vfs-platform-support channel and link this ticket.]
+
+- **Poduct Name**
+
+    - [Insert product name(s) from this [directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)]
