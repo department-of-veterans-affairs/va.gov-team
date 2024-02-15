@@ -1,5 +1,5 @@
 # January 9, 2024: Center for Women Veterans - Gender
-*Ask VA Front-End Team*
+*Ask VA VA.gov Team*
 
 ## Agenda
 
@@ -10,8 +10,8 @@
 ## Attendees
 
 - Center for Women Veterans team: Ana Claudio, Elizabeth Harrington, Shannon Middleton, Missina Schallus
-- AVA CRM Front-End: Becky Phung, Tyler Gindraux, Holly Hansen
-- AVA CRM Back-End: Jaime Rocha, Shelby Carl, Chris Clemens, Wayne Eberly, Maria King
+- AVA VA.gov team: Becky Phung, Tyler Gindraux, Holly Hansen
+- AVA CRM team: Jaime Rocha, Shelby Carl, Chris Clemens, Wayne Eberly, Maria King
 
 ## Key takeaways
 
