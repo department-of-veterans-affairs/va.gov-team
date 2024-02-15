@@ -1,5 +1,5 @@
 # Notification settings Use Cases
-**Last updated:** January 9, 2024 - added use case for partial or missing contact info
+**Last updated:** February 15, 2024 (updating user flow link)
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -27,4 +27,4 @@ This feature has no validation use cases.
 - [Something has gone wrong and VA.gov can’t display any notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases/use-cases/system-cant-display-notification-settings.md)
 
 ## Flow diagrams
-- [High-level user flow with screenshots](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c/a/v8zKwxQ)
+- [High-level user flow](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=1%3A12888&mode=design&t=beICgF9Ke3eKxb6t-1)
