@@ -83,7 +83,8 @@
 
 ## Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
-
+- [SMS character count calculator (160 characters with spaces is ideal)](https://twiliodeved.github.io/message-segment-calculator/)
+  
 ## Testing
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
 - [Testing Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
