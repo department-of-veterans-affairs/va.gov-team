@@ -15,7 +15,7 @@ Quantified statement about the impact of the incident.
      - ~35k users accessed the Introduction page between 02/12/2024 and 02/14/2024
 - What time period were users impacted?
      - Issue occured between 02/12/2024 5:25pm ET to 02/13/2024 12:05 PM ET
-     - Maintenance window in place between 02/13/2024 12:05 PM ET to TBD - 
+     - Maintenance window in place between 02/13/2024 12:05 PM ET to 02/14/2024 04:25 PM ET
 - What impact did this have on the SLO?
      - XXXXXXX
 
