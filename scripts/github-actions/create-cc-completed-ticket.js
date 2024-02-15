@@ -290,15 +290,20 @@ async function addIssueToEpic(issueId, epicArray) {
     }
   }`;
   
-  await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        issueIds: [issueId],
-        epicIds: epicArray
+  // don't error out workflow if this mutation fails
+  try {
+    await axiosInstanceZH.post('', {
+      query,
+      variables: {
+        input: {
+          issueIds: [issueId],
+          epicIds: epicArray
+        }
       }
-    }
-  });
+    });
+  } catch {
+    console.log('error in addIssueToEpic');
+  }
 }
 
 // set point estimate of completed ticket based on touchpoint
@@ -348,11 +353,9 @@ async function addLabelToIssue(issueId, labelId) {
   });
 }
 
-
 function sleep(delay) {
   return new Promise((resolve) => setTimeout(resolve, delay));
 }
-
 
 async function main() {
   try {    
@@ -367,31 +370,21 @@ async function main() {
     // add milestone to new ticket
     await addMilestone(newTicketNumber, milestone.number);
 
-    // let ZH settle
-    await sleep(5000);
     //get ids of epics
     const { epicId, labelId } = await getEpicId(title, true);
 
-    // let ZH settle
-    await sleep(5000);
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
-    // let ZH settle
-    await sleep(5000);
     //update completed ticket
     await addLabelToIssue(newTicketId, labelId);
+
+    await setEstimate(newTicketId);
+
+    await addIssueToCurrentSprint(newTicketId);
 
     // let ZH settle
     await sleep(5000);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
-
-    // let ZH settle
-    await sleep(5000);
-    await setEstimate(newTicketId);
-
-    // let ZH settle
-    await sleep(5000);
-    await addIssueToCurrentSprint(newTicketId);
 
     //close the completed ticket
     await closeIssue(newTicketNumber);
