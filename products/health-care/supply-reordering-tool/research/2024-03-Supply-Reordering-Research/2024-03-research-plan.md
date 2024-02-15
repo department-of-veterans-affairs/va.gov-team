@@ -106,7 +106,7 @@ All sessions Will be remote on Zoom.
 * 2-3 times a month (go onto Screener question 4)
 * more than 3 times a month (Disqualify)
 
-4. Have you been prescribed to hearing aid and CPAP?
+4. Have you been prescribed hearing aid batteries and accessories and CPAP supplies?
 
 * Yes (Qualify, recruit 10)
 * No, but I have been prescribed other supplies, such as glucose test strips. (Qualify, recruit 5)
