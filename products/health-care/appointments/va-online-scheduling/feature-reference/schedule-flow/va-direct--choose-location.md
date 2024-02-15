@@ -17,7 +17,11 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 - Display all facilities where:
     - They are associated with a VistA site where the user is registered
     - The location has request and/or direct scheduling enabled in CCM  for the selected type of care
-    - The facility classification is one of the following: 1) Multispecialty CBOC 2) Other Outpatient Services 3) Primary Care CBOC or 4) VA Medical Center (VAMC) 4) Health Care Center (HCC).  
+    - The facility classification is one of the following:
+      - Multispecialty CBOC  
+      - Other Outpatient Services  
+      - Primary Care CBOC or VA Medical Center (VAMC)
+      - Health Care Center (HCC).  
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 
 **Allow user to sort facilities**
