@@ -9,8 +9,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account
 - [User has a Department of Defense ID](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/read-military-info.md#user-has-dod-id)
-- [User does not have a Department of Defense ID](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/read-military-info.md#user-does-not-have-dod-id)
-- [User does not have a service history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/read-military-info.md#user-does-not-have-a-service-history)
+- [User does not have a Department of Defense ID or a service history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/read-military-info.md#user-does-not-have-dod-id-or-does-not-have-a-service-history)
 - [User is not a Veteran](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/use-cases/read-military-info.md#user-is-not-a-veteran)
 
 ## Edge cases
