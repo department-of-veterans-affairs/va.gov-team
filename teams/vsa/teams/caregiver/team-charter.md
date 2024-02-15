@@ -44,7 +44,7 @@ Health Products
 - Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com / GH "jadon1979" - Full Stack Engineer
 - Lihan Li | han.li@va.gov / lihan@adhocteam.us / GH "lihanli" - Backend Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
-- Mitch Saltykov | mitch.saltykov@va.gov / mitch.saltykovs@agile6.com / GH TBD - Full Stack Engineer
+- Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH TBD - Full Stack Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
 
 
