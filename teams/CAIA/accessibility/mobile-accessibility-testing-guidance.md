@@ -105,6 +105,11 @@ Complete the entire flow with the device locked to landscape orientation at 200%
 Complete the entire flow with the device locked to landscape orientation at 300%, or whatever the maximum available zoom is.
 
 ### Screen reader
+
+Screen readers are used in a vast number of scenarios and are typically very configurable -- as such, there is an aphorism, *"if you've spoken to someone who uses a screen reader, you've spoken to one person who uses a screen reader."* Our testing cannot ensure that every configuration of every screen reader will work exactly the same, instead our goal is to ensure a certain level of usability is achieved across as many screen readers and configurations as we can realistically support.
+
+To achieve this it is important that we have a strong mental model for how screen readers work, technically, and an even stronger understanding of how folks are using screen readers on va.gov. As such, it is important that we continue to support assistive tech-focused user research sessions, and participate in pilot sessions, getting a feel for the technology and its nuances. 
+
 #### iOS, VoiceOver
 #### Android, TalkBack
 
