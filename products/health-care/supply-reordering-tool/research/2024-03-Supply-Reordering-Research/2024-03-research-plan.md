@@ -72,12 +72,13 @@ All sessions Will be remote on Zoom.
 ## Recruitment	
 
 ### Recruitment criteria
-Primary criteria (must-haves)
+
+**Primary criteria (must-haves)**
 
 * Must currently receive VA healthcare benefits
 * Must have an active MHV account that they have accessed at least once in the past 12 months
 
-Desired sample
+**Desired sample**
 
 * 15 total
 * 8 have an active MHV account, and 7 don't have
@@ -94,21 +95,22 @@ Desired sample
 
 2. Do you have a My HealtheVet (MHV) account?
 
-    * Yes (go onto Screener question 3)
-    * No (Disqualify)
+    * Yes (go onto Screener question 3, recruit 8)
+    * No (go onto Screener question 4, recruit 7)
 
 3. How often, if at all, do you use MyHealtheVet?
 
-* Never used it (Disqualify)
-* Once a year (Disqualify)
+* Never used it (go onto Screener question 4)
+* Once a year (go onto Screener question 4)
 * Once a month (go onto Screener question 4)
 * 2-3 times a month (go onto Screener question 4)
-* more than 3 times a month (go onto Screener question 4)
+* more than 3 times a month (Disqualify)
 
-4. Have you been prescribed medical equipment, such as CPAP?
+4. Have you been prescribed to hearing aid and CPAP?
 
-* Yes (Qualify, at least 10)
-* No (Qualify, less than 5)
+* Yes (Qualify, recruit 10)
+* No, but I have been prescribed other supplies, such as glucose test strips. (Qualify, recruit 5)
+* No, I have not been prescribed any medical supplies. (Disqualify) 
   
 ## Timeline
 
