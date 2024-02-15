@@ -15,7 +15,9 @@
 |:--|:--|
 |Sarah Haddock|VBA VACO|
 |Steve Wayland|VBA VACO|
-|John Dell|BIS (formerly BGS) technical contact
+|John Dell|BIS (formerly BGS) technical contact|
+|Andrew Ramos|LightHouse|
+|Lori Glover|LightHouse|
 
 ## Overview 
 Chapter 33 (Ch33) education benefits are paid to veterans using a system called BDN. BDN is a legacy system that is gradually being retired and various benefits are migrating to newer payment/management systems. VBA is starting with the largest EDU portfolio, Ch33 and migrating payment processing from BDN to CorpDB where payments will run through eMPWR. In this new system, there can only be ONE set of payment instructions. As an example, Comp&Pen (C&P) benefits have already been migrated to CorpDB.
