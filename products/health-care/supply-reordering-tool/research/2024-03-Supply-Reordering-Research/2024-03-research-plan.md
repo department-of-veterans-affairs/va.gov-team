@@ -88,29 +88,33 @@ All sessions Will be remote on Zoom.
 ### Screener questions
 
 1. How often, if at all, have you used VA.gov in the past 6 months?
+   
+* Never used it (go onto Screener question 2, recruit 7)
+* At least once a month in the past 6 months (go onto Screener question 2, recruit 8 between 2nd and 3rd option)
+* More than 3 times a month in the past 6 months (go onto Screener question 2, recruit 8 between 2nd and 3rd option)
 
-* Never used it (go onto Screener question 2)
-* 1-3 times in the past 6 months (go onto Screener question 2)
-* More than 3 times a month in the past 6 months (Disqualify)
+2. How often, if at all, do you use MyHealtheVet?
 
-2. Do you have a My HealtheVet (MHV) account?
+* Never used it (go onto Screener question 3, recruit 7 between 1st and 2nd option)
+* Once a year (go onto Screener question 3, recruit 7 between 1st and 2nd option)
+* Once a month (go onto Screener question 3, recruit 8 between 3rd and 4th option)
+* More than once a month (go onto Screener question 3, recruit 8 between 3rd and 4th option)
 
-    * Yes (go onto Screener question 3, recruit 8)
-    * No (go onto Screener question 4, recruit 7)
+3. Have you seen a VA provider in the past 2 years, if at all? 
 
-3. How often, if at all, do you use MyHealtheVet?
-
-* Never used it (go onto Screener question 4)
-* Once a year (go onto Screener question 4)
-* Once a month (go onto Screener question 4)
-* 2-3 times a month (go onto Screener question 4)
-* more than 3 times a month (Disqualify)
+* Yes (go onto Screener question 4)
+* No (Disqualify)
 
 4. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
 
 * Yes (Qualify, recruit 10)
 * No, but I have been prescribed other supplies, such as glucose test strips. (Qualify, recruit 5)
-* No, I have not been prescribed any medical supplies. (Disqualify) 
+* No, I have not been prescribed any medical supplies. (Disqualify)
+
+5. Have you ordered supplies online on VA.gov or with paper forms? 
+
+* Yes, I have ordered supplies either online or with paper forms. (Quality, recruit 8)
+* No, I have never ordered supplies. (Quality, recruit 7) 
   
 ## Timeline
 
