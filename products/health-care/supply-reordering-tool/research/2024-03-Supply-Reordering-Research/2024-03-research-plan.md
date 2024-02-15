@@ -144,8 +144,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Kristen McConnell/Jasmine Yohannan 
-- Research guide writing and task development (usually but not always same as moderator): Kristen McConnell/Jasmine Yohannan 
+- Moderator: Kristen McConnell/Jenny Wang/Jasmine Yohannan 
+- Research guide writing and task development (usually but not always same as moderator): Jenny Wang/Jasmine Yohannan 
 - Participant recruiting & screening: Perigean 
 - Project point of contact: Jasmine Yohannan/Patrick Bateman 	
 - Participant(s) for pilot test:
