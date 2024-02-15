@@ -348,28 +348,14 @@ async function addLabelToIssue(issueId, labelId) {
   });
 }
 
-async function addIssueToEpicX() {
-  const query = `mutation AddIssuesToEpics($input: AddIssuesToEpicsInput!) {
-    addIssuesToEpics(input: $input) {
-        clientMutationId  
-    }
-  }`;
-  
-  await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        issueIds: ["Z2lkOi8vcmFwdG9yL0lzc3VlLzMyMDkxMTgyOA"],
-        epicIds: ["Z2lkOi8vcmFwdG9yL0VwaWMvMTEyNTQ3MQ","Z2lkOi8vcmFwdG9yL0VwaWMvMTExNzkwMA"]
-      }
-    }
-  });
+
+function sleep(delay) {
+  return new Promise((resolve) => setTimeout(resolve, delay));
 }
 
+
 async function main() {
-  try {
-    await addIssueToEpicX();
-    
+  try {    
     // generate title for created ticket
     const { title, body, milestone } = await getGHIssue(ISSUE_NUMBER);
     const newTitle = getTitleInfo(body);
@@ -381,14 +367,30 @@ async function main() {
     // add milestone to new ticket
     await addMilestone(newTicketNumber, milestone.number);
 
+    // let ZH settle
+    await sleep(5000);
     //get ids of epics
     const { epicId, labelId } = await getEpicId(title, true);
+
+    // let ZH settle
+    await sleep(5000);
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
+    // let ZH settle
+    await sleep(5000);
     //update completed ticket
     await addLabelToIssue(newTicketId, labelId);
+
+    // let ZH settle
+    await sleep(5000);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
+
+    // let ZH settle
+    await sleep(5000);
     await setEstimate(newTicketId);
+
+    // let ZH settle
+    await sleep(5000);
     await addIssueToCurrentSprint(newTicketId);
 
     //close the completed ticket
