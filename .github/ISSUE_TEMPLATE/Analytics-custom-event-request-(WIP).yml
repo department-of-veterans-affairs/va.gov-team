@@ -1,11 +1,14 @@
----
-name: Analytics - VFS Custom Event Audit Form 
-about: This for is for VFS teams to audit the list of custom events for each of their products. 
+name: "Analytics - VFS Custom Event Audit Form" 
+about: "This for is for VFS teams to audit the list of custom events for each of their products." 
 title:
-labels: analytics-insights, analytics-request, ga4-migration, analytics-insights-form
+labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
 assignees: johnny-jesensky-adhoc
 
----
+name: "Collaboration Cycle Request"
+description: "Begin engaging with the Collaboration Cycle."
+title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
+labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
+assignees: 
 
 # (WIP) VFS Custom Event Form 
 
