@@ -229,17 +229,21 @@ async function addIssueToCurrentSprint(id) {
     }
   }`;
 
-  const sprintId = await getSprintId();
-  if (sprintId) {
-    await axiosInstanceZH.post('', {
-      query,
-      variables: {
-        input: {
-          issueIds: [id],
-          sprintIds: [sprintId]
+  try {
+    const sprintId = await getSprintId();
+    if (sprintId) {
+      await axiosInstanceZH.post('', {
+        query,
+        variables: {
+          input: {
+            issueIds: [id],
+            sprintIds: [sprintId]
+          }
         }
-      }
-    });
+      });
+    }
+  } catch {
+    console.log('error in addIssueToCurrentSprint');
   }
 }
 
@@ -290,7 +294,6 @@ async function addIssueToEpic(issueId, epicArray) {
     }
   }`;
   
-  // don't error out workflow if this mutation fails
   try {
     await axiosInstanceZH.post('', {
       query,
@@ -304,6 +307,7 @@ async function addIssueToEpic(issueId, epicArray) {
   } catch {
     console.log('error in addIssueToEpic');
   }
+  
 }
 
 // set point estimate of completed ticket based on touchpoint
@@ -324,15 +328,20 @@ async function setEstimate(issueId) {
     }
   }`;
 
-  await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        issueId,
-        value
+  try {
+    await axiosInstanceZH.post('', {
+      query,
+      variables: {
+        input: {
+          issueId,
+          value
+        }
       }
-    }
-  });
+    });
+  } catch {
+    console.log('error in setEstimate');
+  }
+  
 }
 
 async function addLabelToIssue(issueId, labelId) {
@@ -342,15 +351,19 @@ async function addLabelToIssue(issueId, labelId) {
     }
   }`;
   
-  await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        issueIds: [issueId],
-        labelIds: [labelId]
+  try {
+    await axiosInstanceZH.post('', {
+      query,
+      variables: {
+        input: {
+          issueIds: [issueId],
+          labelIds: [labelId]
+        }
       }
-    }
-  });
+    });
+  } catch {
+    console.log('error in addLabelToIssue');
+  }
 }
 
 function sleep(delay) {
@@ -375,18 +388,16 @@ async function main() {
 
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
-    //update completed ticket
+    // update completed ticket
     await addLabelToIssue(newTicketId, labelId);
-
-    await setEstimate(newTicketId);
 
     await addIssueToCurrentSprint(newTicketId);
 
-    // let ZH settle
-    await sleep(5000);
+    await setEstimate(newTicketId);
+
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
 
-    //close the completed ticket
+    // close the completed ticket
     await closeIssue(newTicketNumber);
   } catch (error) {
     console.log(error);
