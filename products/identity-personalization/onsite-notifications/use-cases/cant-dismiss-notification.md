@@ -1,5 +1,5 @@
 # My VA Benefit Payments Use Case: Notification Dismissal Error
-**Last updated: July 17, 2023**
+**Last updated: February 15, 2023 - updated with Figma link**
 
 If a LOA3 user signs in and has a notification to show, they will see it at the top of My VA in the Notifications section. If they try to dismiss a notification and the dismissal command fails, we show an error above the notification.
 
@@ -8,8 +8,7 @@ If a LOA3 user signs in and has a notification to show, they will see it at the 
 * If a user clicks the `close` button in the upper righthand corner of a notification but the dismissal command fails, we display an error that states "**Can't dismiss notification** We're sorry. Something went wrong on our end, and we can’t dismiss this notification. Please try again later."
 * The error occurs above the notification that the user tried to dismiss.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
-* [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/4azOzxd)
-* [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/eKArA8q)
+* [Figma mockups](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=9-15723&mode=design)
 
 ## How to reproduce
 * In order to reproduce this error, log into VA.gov or staging.va.gov with any user.
