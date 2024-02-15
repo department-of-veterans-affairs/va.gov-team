@@ -19,7 +19,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Onboard New Team Members**
-    - ✔️ Create Platform onboarding tickets for each 
+    -  Create Platform onboarding tickets for each 
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Integrate with CERNER**
@@ -236,7 +236,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Onboard New Team Members**
-    - Create Platform onboarding tickets for each
+    - ✔️ Create Platform onboarding tickets for each
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Integrate with CERNER**
