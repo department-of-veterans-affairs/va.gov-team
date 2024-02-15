@@ -6,6 +6,7 @@ Personalized Career Planning and Guidance (PCPG), or VA Chapter 36, offers free 
 
 - [About VA Form 25-8832](https://www.va.gov/careers-employment/education-and-career-counseling/) 
 - [Online form tool](https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-25-8832/introduction)
+- [Form flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691434304975/3f0c405c820c184d21393b3bbd76324a5ee7c677?sender=u934f98f179a86c76e6ee9592)
 
  
 ## Desired User Outcomes
