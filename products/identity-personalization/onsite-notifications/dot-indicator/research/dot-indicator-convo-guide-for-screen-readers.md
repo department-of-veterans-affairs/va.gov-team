@@ -1,4 +1,4 @@
-# Conversation Guide for Authenticated Experience My VA team - Dot Indicator/Slim Alert for Screen Reader Users, October 2023
+# Conversation Guide for Authenticated Experience My VA team - Dot Indicator/Slim Alert for Screen Reader Users, February 2024
 
 - [ ] Make sure CodePen is functional
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
