@@ -21,6 +21,8 @@ const TICKET_STRINGS = {
   labelText: '### GitHub label for'
 }
 
+const DELAY = 10 * 1000;
+
 const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
   headers: {
@@ -389,16 +391,16 @@ async function main() {
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
     // update completed ticket
-    await sleep(5000);
+    await sleep(DELAY);
     await addIssueToCurrentSprint(newTicketId);
 
-    await sleep(5000);
+    await sleep(DELAY);
     await addLabelToIssue(newTicketId, labelId);
 
-    await sleep(5000);
+    await sleep(DELAY);
     await setEstimate(newTicketId);
 
-    await sleep(5000);
+    await sleep(DELAY);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
 
     // close the completed ticket
