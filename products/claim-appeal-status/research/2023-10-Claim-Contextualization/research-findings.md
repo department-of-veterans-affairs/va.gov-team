@@ -171,33 +171,24 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/research-plan.md)
 
 [Conversation guide](link here)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural Notes Part 1](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705618111495/a9bf77587949943400add96ee5f6647b2b808653?sender=u80fb5a3b8f7951f35d701197)
+[Mural Notes Part 2](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704868295086/7c179c9cbba11a38643c07e4ec9c7ba4dddefe0c?sender=u80fb5a3b8f7951f35d701197)
+[Mural Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706894689046/66b3ff6a598ce8e5d30cb989a571ed1e9c4151e1?sender=u80fb5a3b8f7951f35d701197)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Prototype](https://www.figma.com/proto/bWELjWsVqkf3BDx0PXqqam/Claim-Contextualization?type=design&node-id=362-14273&t=pcAL3QvO1tkoUKMh-0&scaling=scale-down&page-id=362%3A14273&starting-point-node-id=362%3A14421&prev-org-id=external-teams)
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
