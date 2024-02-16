@@ -18,10 +18,18 @@ In prepration for the migration to GA4, we need information on _all_ custom even
 ### Instructions
 - **Step 1:** Provide team name:
 - **Step 2:** Provide product(s) name: [Insert product name(s) from this [directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)]
-- **Step 3:** Make a copy of this spreadsheet ____
-- **Step 4:** Fill out all sections
+- **Step X:** Please provide point-of-contact for us to work with for follow-up questions, or next steps.
+- **Step 3:** Make a copy of this spreadsheet ____. 
+- **Step 4:** Fill out **all** sections on the form. Include the following fields wherever possible for each custom event.
+  - Event Type
+  - Level
+  - File URL
+  - Code Snippet
+  - Comments
 - **Step 5:** Attach spreadsheet to this form.
 - **Step 6:** Submit Form
+
+_Our team will follow up with you for next steps._
 > [!TIP]
 > Reference this example of a completed form.
 
