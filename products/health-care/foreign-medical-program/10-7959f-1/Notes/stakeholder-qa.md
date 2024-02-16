@@ -48,7 +48,7 @@ Jen and Andrew are the SMEs
 - DAPER - can tell by page count (more than 2 have claims attached almost guaranteed)
 - Go through each of the letters - sometimes for other teams (might send over to another team to help the Veteran with their questions)
 - A lot of time claim cover sheet - verify the info, address - if it’s medical claim, email medical claim team to process
-- Go into VBMS and VIS - vocational rehab (y/n), make sure all service connected conditions are included (make sure each one is listed and not missed)
+  - Go into VBMS and VIS - vocational rehab (y/n), make sure all service connected conditions are included (make sure each one is listed and not missed)
 
 
 
