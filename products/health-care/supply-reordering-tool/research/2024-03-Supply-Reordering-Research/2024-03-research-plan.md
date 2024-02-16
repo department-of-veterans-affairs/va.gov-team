@@ -131,7 +131,7 @@ We haven't rescheduled yet, but it'll be during the week of 2/20.
 
 ### Research sessions
 
-We request to have a kick-off meeting with Perigean anytime on 2/20 and 2/21.
+We request to have a kick-off meeting with Perigean anytime on 2/21 or 2/22.
 * Planned dates of research: 2/28 - 3/8 (We'd like to start interviewing as soon as Perigean finishes recruiting.)
   
 ### Length of sessions
