@@ -51,3 +51,4 @@ As we rollout new features and migrate services, tracking with DataDog has becom
           Rails.logger.error "#{method_name} Failed to retrieve PPIU data from #{service.class}: #{e.message}"
           raise Common::Exceptions::BadRequest.new(errors: [e.message])
         end``` 
+- Query in DataDog in this case looks like: `("Failed to retrieve PPIU data from LighthousePPIUProvider" @http.referer:https\:\/\/*.va.gov\/disability\/file-disability-claim-form-21-526ez*)`
