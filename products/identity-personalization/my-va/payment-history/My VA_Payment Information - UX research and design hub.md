@@ -3,7 +3,7 @@
 
 <br>
 
->**Feature transition document | March 2022**
+>**Feature transition document | Updated February 2024, Original Version March 2022**
 >
 > The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **Payment Information.** Also included are links to other resources and references used.
 
