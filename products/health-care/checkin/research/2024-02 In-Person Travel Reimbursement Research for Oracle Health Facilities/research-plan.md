@@ -15,7 +15,9 @@ Veterans who have health appointments at VA facilities that use OH EHR software 
 
 The travel reimbursement feature for Oracle Health sites will be piloted [DATE TBD].
 
-[Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+- [Userflow](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=1265-1102&mode=design&t=wB0sPLNcuTzdlun8-4)
+- [Figma Designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
 
 ### OCTO Objectives
 <img width="956" alt="Screenshot 2024-02-16 at 8 15 47 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79372956/81c8a2c3-94fc-455f-9587-ea9cda03b07b">
@@ -121,7 +123,7 @@ TBD
 
 Link to convo guide
 
-Link to designs
+[Link to designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
 
 * * * * *
 
