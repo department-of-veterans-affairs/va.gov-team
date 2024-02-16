@@ -259,6 +259,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
         - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟦 [[BE] Update Travel Claims Service Class to handle OH appointments #75728](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75728)
+        -  - per Kanchana, ^^^ no longer needed 
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
         - 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
