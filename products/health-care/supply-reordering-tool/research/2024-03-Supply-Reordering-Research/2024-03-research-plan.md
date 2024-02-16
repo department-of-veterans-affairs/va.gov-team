@@ -42,16 +42,15 @@ We want to determine if the current digital ordering process is serving Veterans
 	- Is the form clear on what Veterans need to do when supplies are not available?
 	- Do Veterans know what to do when they want to change supplies after submission?
 2. How are Veterans notified when their prescribed medical supplies are eligible to reorder?
-   	- How is the process of reordering indicated to Veterans first time and subsequent time? 
+   	- How is the process of reordering indicated to Veterans first time and subsequent times? 
 
 ### Hypothesis
 
-- Hypothesis 1: Participants will look to search "CPAP supplies" and find the page from there since there is no link in the header or health hub.
-- Hypothesis 2: Participants will get through the tasks of ordering the supplies relatively easily.
-- Hypothesis 3: Participants will want to know how to change supplies. 
-- Hypothesis 4: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-- Hypothesis 5: Veterans probably find out about the reordering process from their VA provider.
-- Hypothesis 6: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order. 
+- Hypothesis 1: Participants will get through the tasks of ordering the supplies relatively easily.
+- Hypothesis 2: Participants will want to know how to change supplies. 
+- Hypothesis 3: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
+- Hypothesis 4: Veterans probably find out about the reordering process from their VA provider.
+- Hypothesis 5: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order. 
 
 
 ## Methodology	
