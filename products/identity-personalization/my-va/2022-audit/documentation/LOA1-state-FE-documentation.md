@@ -1,13 +1,13 @@
 # My VA LOA1 State Frontend Documentation
-Last updated: October 26, 2022
+Last updated: February 15, 2023 - Added Figma links (content of this page not previously from 2022, may be some contradictions b/w links and descriptions)
 
 ## When to show the LOA1 state
 This view is applicable to users who have not yet verified their identity (LOA1).
 
 ## UX Specs
 ### Identity verification call-to-action
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=Xk2YIBRv4J7l5PrA-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=Xk2YIBRv4J7l5PrA-1)
 
 **Visual specs**
 
@@ -29,9 +29,9 @@ This one-time process takes about 5-10 minutes.
 ---
 
 ### Learn how to verify your identity on VA.gov link
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
-
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=Xk2YIBRv4J7l5PrA-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=Xk2YIBRv4J7l5PrA-1)
+  
 **Visual specs**
 
 - Use the [default link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default) in the VA design system.
@@ -46,8 +46,7 @@ This one-time process takes about 5-10 minutes.
 ---
 
 ### What benefits does VA offer? - Dropdown
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
+- _Previous links no longer work, need to be replaced_
 
 **Visual specs**
 
@@ -73,8 +72,8 @@ This one-time process takes about 5-10 minutes.
 
 ### If a user has applications in progress
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/5B50B211-EE03-4796-8AEA-284AF040C31F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A7B61911-5E70-4A4E-A453-E13AF255E01C)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A239&mode=design&t=wfs2Inz4yjvgPbqZ-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A905&mode=design&t=wfs2Inz4yjvgPbqZ-1)
 
 **Show card**
 
@@ -104,8 +103,8 @@ Continue your application (linked to saved application)
 
 ### If a user does not have any applications in progress to show
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=Xk2YIBRv4J7l5PrA-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=Xk2YIBRv4J7l5PrA-1)
 
 #### **Content**
 
