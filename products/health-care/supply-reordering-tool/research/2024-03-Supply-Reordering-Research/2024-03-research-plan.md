@@ -62,10 +62,10 @@ All sessions Will be remote on Zoom.
 
 ### Research materials
 
-- Conversation guide [Link to conversation guide](url goes here)
-- [Staging environment](https://staging.va.gov/)
+- Conversation guide [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-usability-test-conversation-guide.md)
+- [Staging environment](https://staging.va.gov/) We will generate an unique password for each interview session.
   	- Test account user name: vets.gov.user+228@gmail.com
-  	- Password: [Link to sensitive repo](url goes here)
+  	- Passwords: [Link to sensitive repo](url goes here)
 
 
 ## Recruitment	
@@ -94,7 +94,7 @@ All sessions Will be remote on Zoom.
 2. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
 
 * Yes (go onto Screener question 3, recruit 10)
-* No, but I have been prescribed other supplies, such as glucose test strips. (go onto Screener question 3, recruit 5)
+* No, but I have been prescribed other supplies, such as glucose test strips, . (go onto Screener question 3, recruit 5)
 * No, I have not been prescribed any medical supplies. (Disqualify)
 
 3. Have you ordered supplies online on VA.gov or with paper forms? 
