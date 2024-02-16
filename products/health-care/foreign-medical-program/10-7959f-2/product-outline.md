@@ -90,7 +90,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-- 
+- research and discovery need to be kicked off.
+  
+Key deliverables:
+- design:
+- user flows:
+- research:
+- testing plan:
+  
 ### Key Decisions
 
 ---
