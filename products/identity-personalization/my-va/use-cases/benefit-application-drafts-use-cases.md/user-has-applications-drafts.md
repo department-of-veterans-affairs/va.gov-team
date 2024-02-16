@@ -1,6 +1,6 @@
 # My VA Benefit Application Drafts Use Case: User has a benefit application draft saved but not yet submitted
 
-**Last updated:** October 26, 2023
+**Last updated:** February 15, 2024 - added Figma links
 
 For LOA3 users who sign in and have a benefit application draft saved (or multiple), we will show a card (or cards) for their saved application(s) in the Benefit application drafts section on My VA that provides a link for them to continue their application.
 
