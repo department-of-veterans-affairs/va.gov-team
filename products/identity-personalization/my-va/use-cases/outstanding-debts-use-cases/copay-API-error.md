@@ -1,5 +1,5 @@
 # My VA Outstanding Debts Use Case: Copay API Error
-**Last updated: July 17, 2023**
+**Last updated: Feb 15, 2024 - added Figma links**
 
 If a LOA3 user signs in and there is an error with the copay API, we will show an error in the Outstanding Debts section on My VA.
 
