@@ -108,10 +108,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: IVC Forms
+- GitHub Label: 10-7959f-2
+- Slack channel: ivc-forms
+- Product POCs: Mary Wang
 - Stakeholders: 
 
 </details>
@@ -120,10 +120,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Premal Shah
+ - PM: Mary Wang
+ - Engineering: Bryan Alexander, Rachel Eiting
+ - Research/Design: Rachael Penfil, Brian Wilke
  
 </details>
 
@@ -131,8 +131,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Stakeholders
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
+- FMP
 </details>
 
