@@ -86,34 +86,34 @@ All sessions Will be remote on Zoom.
 
 ### Screener questions
 
-1. How often, if at all, have you used VA.gov in the past 6 months?
-   
-* Never used it (go onto Screener question 2, recruit 7)
-* At least once a month in the past 6 months (go onto Screener question 2, recruit 8 between 2nd and 3rd option)
-* More than 3 times a month in the past 6 months (go onto Screener question 2, recruit 8 between 2nd and 3rd option)
+1. Have you seen a VA provider in the past 2 years, if at all? 
 
-2. How often, if at all, do you use MyHealtheVet?
-
-* Never used it (go onto Screener question 3, recruit 7 between 1st and 2nd option)
-* Once a year (go onto Screener question 3, recruit 7 between 1st and 2nd option)
-* Once a month (go onto Screener question 3, recruit 8 between 3rd and 4th option)
-* More than once a month (go onto Screener question 3, recruit 8 between 3rd and 4th option)
-
-3. Have you seen a VA provider in the past 2 years, if at all? 
-
-* Yes (go onto Screener question 4)
+* Yes (go onto Screener question 2)
 * No (Disqualify)
 
-4. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
+2. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
 
-* Yes (Qualify, recruit 10)
-* No, but I have been prescribed other supplies, such as glucose test strips. (Qualify, recruit 5)
+* Yes (go onto Screener question 3, recruit 10)
+* No, but I have been prescribed other supplies, such as glucose test strips. (go onto Screener question 3, recruit 5)
 * No, I have not been prescribed any medical supplies. (Disqualify)
 
-5. Have you ordered supplies online on VA.gov or with paper forms? 
+3. Have you ordered supplies online on VA.gov or with paper forms? 
 
-* Yes, I have ordered supplies either online or with paper forms. (Quality, recruit 8)
-* No, I have never ordered supplies. (Quality, recruit 7) 
+* Yes, I have ordered supplies either online or with paper forms. (go onto Screener question 4, recruit 8)
+* No, I have never ordered supplies. (go onto Screener question 4, recruit 7)
+
+4. How often, if at all, have you used VA.gov in the past 6 months?
+   
+* Never used it (go onto Screener question 5, recruit 7)
+* At least once a month in the past 6 months (go onto Screener question 5, recruit 8 between 2nd and 3rd option)
+* More than 3 times a month in the past 6 months (go onto Screener question 5, recruit 8 between 2nd and 3rd option)
+
+5. How often, if at all, do you use MyHealtheVet?
+
+* Never used it (Qualify, recruit 7 between 1st and 2nd option)
+* Once a year (Qualify, recruit 7 between 1st and 2nd option)
+* Once a month (Qualify, recruit 8 between 3rd and 4th option)
+* More than once a month (Qualify, recruit 8 between 3rd and 4th option)
   
 ## Timeline
 
