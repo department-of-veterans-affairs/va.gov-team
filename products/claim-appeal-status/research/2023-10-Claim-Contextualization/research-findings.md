@@ -135,7 +135,7 @@ Although most participants in this group understood the essence of what the grap
    > _I'm guessing maybe if you are step 3 you can skip to step 6 but if they don't have everything to make a decision they can go back to step 3. - P13_
 
 - When looking at the repeat callout inside the accordion, some people weren’t sure which step the box was referring to.
-   > _ That would be confusing because... what step are they referring to?_
+   > _That would be confusing because... what step are they referring to?_
 
 - Some participants didn’t understand how a step repeating will affect the timeline.  
    > _… does the time estimate start over or does it continue with the time left. - P2_
