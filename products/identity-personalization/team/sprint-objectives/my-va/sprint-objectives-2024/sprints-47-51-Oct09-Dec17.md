@@ -9,13 +9,17 @@
 
 
 ## Sprint 47 (10/9 - 10/22)
+[#76505](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76505)
 
 ## Sprint 48 (10/23 - 11/5)
+[#76506](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76506)
 
 ## Sprint 49 (11/6 - 11/19)
+[#76507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76507)
 
 ## Sprint 50 (11/20 - 12/3)
+[#76509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76509)
 
 ## Sprint 51 (12/4 - 12/17)
-
+[#76510](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76510)
 
