@@ -134,7 +134,7 @@ DataDog
 
 **Are there any other self-service monitoring tools available?**
 
-Examining logs in various tools.
+Examining logs in [various tools](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-OptimalWorkshop).
 
 **Can SiS help contextualize a sign-in problem using data?**
 
@@ -144,11 +144,11 @@ We have data in DataDog such as the breakdown of authentication attempts, succes
 
 Yes, we’ll show you the useful queries.
 
-**Where can I find data on sign-in type (e.g. ID.me), number of unique users, volume, by day/week/month?**
+**Where can I find data on sign-in type (e.g. ID.me), number of unique users, frequency, volume, by day/week/month?**
 
 We have a lot of data, some of it’s really rough but it's just a matter of getting it into the format that is useful for your purposes. Examples include data for the last few months, month over month, % of sign in into the app by type. We are careful to ensure it's all being presented consistently. 
 
-**Where can I find a visual dashboard to answer questions like which is the most popular sign-in option for the mobile app, along with how often and how many people used it, relative to other options?**
+**Where can I find a visual dashboard to answer questions like "What is the most popular sign-in option for the mobile app?"**
 
 We have DataDog dashboards that likely will show you most of what you're requesting. 
 
@@ -160,7 +160,7 @@ Yes, we started collecting numbers in October 2023.
 
 Yes we still use MPI.
 
-**Does SiS have access to failed log-in attempts through particular methods, such as how many mobile android users had a failed log-in with Google SOS. Is it possible to obtain a breakdown of the percent of users by each sign-in method for iOS and Android separately (it would be a helpful proxy for understanding the potential impact of a bug).**
+**Does SiS have access to failed log-in attempts through particular methods, such as how many mobile Android users had a failed sign-in with Google SOS. Is it possible to obtain a breakdown of the percent of users by each sign-in method for iOS and Android separately (it would be a helpful proxy for understanding the potential impact of a bug).**
 
 This is in DataDog. We have the breakdown of authentication attempts, successes, and failures, by credential type. If we could narrow down the ‘user_agent’ values, then we could break it down by that further.
 
