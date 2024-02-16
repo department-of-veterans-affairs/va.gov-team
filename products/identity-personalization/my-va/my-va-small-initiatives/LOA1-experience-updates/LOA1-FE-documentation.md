@@ -1,13 +1,13 @@
 # My VA LOA1 State Frontend Documentation
-Last updated: August 28, 2023
+Last updated: February 15, 2024 - added Figma links
 
 ## When to show the LOA1 state
 This view is applicable to users who have not yet verified their identity (LOA1).
 
 ## UX Specs
 ### Identity verification call-to-action
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=CREOF8xG3jKa75nz-1)
 
 **Visual specs**
 
@@ -30,8 +30,8 @@ This one-time process takes about 5-10 minutes.
 ---
 
 ### Learn how to verify your identity on VA.gov link
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=CREOF8xG3jKa75nz-1)
 
 **Visual specs**
 
@@ -115,9 +115,9 @@ This one-time process takes about 5-10 minutes.
 
 ### If a user does not have any applications in progress to show
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/32BCF55D-35A5-4A17-9F37-3DCA903B7A50)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1B92AE9B-F7D6-42FE-9CCA-90B99A4747E9)
-
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=CREOF8xG3jKa75nz-1)
+  
 <img width="345" alt="Screenshot 2023-08-28 at 12 49 30 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/b9938e01-f8a0-4411-bd1b-b0859a998179">
 
 #### **Content**
@@ -134,8 +134,8 @@ This section should appear directly below the "Education and training" section.
 
 ### If a user has applications in progress to show
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/5B50B211-EE03-4796-8AEA-284AF040C31F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A7B61911-5E70-4A4E-A453-E13AF255E01C)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A239&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A905&mode=design&t=CREOF8xG3jKa75nz-1)
 
 <img width="427" alt="Screenshot 2023-08-28 at 12 49 37 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/3083529a-6266-4015-9c52-6348c9b35a67">
 
