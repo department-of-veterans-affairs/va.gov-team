@@ -21,7 +21,7 @@ const TICKET_STRINGS = {
   labelText: '### GitHub label for'
 }
 
-const DELAY = 10 * 1000;
+const DELAY = 60 * 1000;
 
 const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
