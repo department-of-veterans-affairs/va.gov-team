@@ -47,7 +47,7 @@ Veterans are asked to choose where they'd like to receive the type of care they 
     - If the user is not eligible for either path, they're shown a message explaining why.
 - **For the direct scheduling path**, there are four potential checks:
     1. Does the facility support direct scheduling?
-    2. Does the veteran have a recent enough visit?
+    2. Does the veteran have a recent enough visit? (See note below)
         - This can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
     3. Are there available VistA clinics for this facility and type of care?
@@ -67,6 +67,11 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 
 See also [VA facility page data sources](../backend-logic.md#va-facility-page-data-sources)
 
+#### Notes
+
+**Why can Veterans only self-schedule into clinics that they've been seen at within the last 24 months?**
+- Many facility + care type combinations have an overwhelming numbr of clinic options. Furthermore, many of these clinics are confusing to Veterans, because they're not consistently named in a way that's useful to Veterans or even written in plain english.
+- Certain clinics have specific uses that aren't obvious to Veterans (for example, for new patients only), so opening up all available clinics for self-scheduling for everyone results in many canceled or rescheduled appointments.
 
 ### Non-functional
 
