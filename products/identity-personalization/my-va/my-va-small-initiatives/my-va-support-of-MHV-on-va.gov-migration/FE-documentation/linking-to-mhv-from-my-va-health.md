@@ -33,8 +33,8 @@ You have no health care information to show.
 
 ### Next appointment card
 (_needs updating to include MHV link_)
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A4148&mode=design&t=ACz9YR6bpwDeZvbB-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 **Show card**
 
@@ -71,8 +71,8 @@ Location
 
 ### If a user has VA health care but does not have any upcoming appointments scheduled
 (_needs updating to include MHV link_)
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ECC10511-998E-4BD9-9D9F-B87E0ADC477B)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6D7BBA0-BD00-42E1-A445-5C81FBEE0307)
+- [Desktop]**Needs updated Figma link**
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 **Show**
 
