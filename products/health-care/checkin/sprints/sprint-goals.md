@@ -298,13 +298,13 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
  - **GOAL: Offboard Team Members**
-     - 🟥 [UX Transition off CIE](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75423)
-     - [Offboarding of [Kelly Smith]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74936)
-     - [Offboarding of [Ya-Ching Tsao]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74938)
+     - ✔️ 🟥 [UX Transition off CIE](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75423)
+     - ✔️ [Offboarding of [Kelly Smith]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74936)
+     - ✔️ [Offboarding of [Ya-Ching Tsao]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74938)
 - **GOAL: Support Production**
-    - ❗ 🟩 [[CHIP] - High Severity security alert for lodash](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75743)
+    - ✔️ ❗ 🟩 [[CHIP] - High Severity security alert for lodash](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75743)
         - Brought in after planning because of a security scan
-    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
@@ -330,7 +330,7 @@ ________________________________________________________________________________
         - 🟥 [Create Final Wireframes and content for modality-agnostic error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74108)   
 - **GOAL: Increase Usage of PCI**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
-        - 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
+        - 🚧 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75197)
