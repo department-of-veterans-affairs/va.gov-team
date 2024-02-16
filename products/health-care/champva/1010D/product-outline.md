@@ -90,7 +90,7 @@ Veterans and family members of Veterans must currently download and fill out the
   - [x] CAIA kickoff: 11/29/23
   - [x] Design Intent: 1/9/24
   - [ ] Research:
-  - [ ] Midpoint:
+  - [x] Midpoint: 2/15
   - [ ] Analytics:
   - [ ] Staging:
   - [ ] Security:
