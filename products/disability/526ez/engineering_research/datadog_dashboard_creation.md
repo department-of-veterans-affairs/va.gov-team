@@ -42,7 +42,8 @@ As we rollout new features and migrate services, tracking with DataDog has becom
 #### Graphing by Logs:
   - To track traffic, can use HTTP referer like this: `@http.referer:https\:\/\/*.va.gov\/disability\/file-disability-claim-form-21-526ez*`
   - We can also use ``wrap_with_logging`` which within our API provider factory pattern of migration, gives us access to  @payload.action and additional logs like @payload.provider (like “evss”), and @payload.factory (e.g. “ppiu”).
-  - When there isn't a controller action to capture, tracking by log rollups is an straight-forward option to  
+  - When there isn't a controller action to capture, tracking by log rollups is an straight-forward option
+  - With the following Rails logger error message, the query in DataDog (Logs > Indexes) looks like: `("Failed to retrieve PPIU data from LighthousePPIUProvider" @http.referer:https\:\/\/*.va.gov\/disability\/file-disability-claim-form-21-526ez*)`  
   - Rails logger: 
 ```begin
           set_account(response)
@@ -50,5 +51,6 @@ As we rollout new features and migrate services, tracking with DataDog has becom
           method_name = '#get_banking_info'
           Rails.logger.error "#{method_name} Failed to retrieve PPIU data from #{service.class}: #{e.message}"
           raise Common::Exceptions::BadRequest.new(errors: [e.message])
-        end``` 
-- Query in DataDog in this case looks like: `("Failed to retrieve PPIU data from LighthousePPIUProvider" @http.referer:https\:\/\/*.va.gov\/disability\/file-disability-claim-form-21-526ez*)`
+        end```
+
+    
