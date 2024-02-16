@@ -2,7 +2,7 @@
 
 ## Overview: 
 
-Top Goals:  One of our 2024 OKRs is develop a Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
+Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
 
 * Create an intake process for feature requests, updates, bug fixes, data requests, etc.
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
