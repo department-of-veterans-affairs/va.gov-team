@@ -247,8 +247,7 @@ ________________________________________________________________________________
         - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
         - ❗ 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75402)
-        - ❗ 🟥 [Update Design Artifacts for Release #76062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76062)
-        - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)
+        - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - ❗ 🟥 [IA and URL review from Patient Check In (PCI)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75317)
             - This is the CAIA review ticket, we may or may not have feedback to address
         - ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
@@ -315,8 +314,8 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟥 [[Content] Create (or version out) content for Need Help component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75163)
         - ✔️ ❗ 🟥 [[Design][Content] Create final frames with content for error pages](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75206)
         - ✔️ ❗ 🟥 [[Design] Create Final Wireframes to handle selecting an appt for Veterans that might have appts at multiple facilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75544)
-        - ❗ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
-        - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
+        - 🚧 ❗ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
+        - 🚧 ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - ✔️ ❗ 🟥 Schedule Midpoint Review
         - ✔️ ❗ 🟥 Pull in tickets fro CAIA feedback if time permits
         - ✔️ ❗ 🟩 🟦 [[FE][BE] Create all Task Tickets & Point](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75463)
