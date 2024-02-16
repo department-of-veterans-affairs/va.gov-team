@@ -33,6 +33,9 @@ As we rollout new features and migrate services, tracking with DataDog has becom
         - by controller name,
         - by action
         - sum by HTTP status code
+- when a background job,
+    - can use Logs > Indexes > `@payload.action:"Begin Flash addition job”` where action is defined in the wrap_with_logging method's `additional_class_logs` key within the background job's class.
+    - other tags to narrow scope are `@named_tags.dd.env:eks-prod @named_tags.dd.service:vets-api @host:vets-api-sidekiq-*` 
 - Our focus is detecting any anomalous behavior so want to capture ways to compare errors to general traffic 
      
           
