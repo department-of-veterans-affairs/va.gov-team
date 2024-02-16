@@ -173,7 +173,7 @@ _If there are demographics that were not included in this study or you discovere
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
 
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
 
@@ -181,7 +181,9 @@ _If there are demographics that were not included in this study or you discovere
 ## Tools used for Synthesis
 
 [Mural Notes Part 1](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705618111495/a9bf77587949943400add96ee5f6647b2b808653?sender=u80fb5a3b8f7951f35d701197)
+
 [Mural Notes Part 2](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704868295086/7c179c9cbba11a38643c07e4ec9c7ba4dddefe0c?sender=u80fb5a3b8f7951f35d701197)
+
 [Mural Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706894689046/66b3ff6a598ce8e5d30cb989a571ed1e9c4151e1?sender=u80fb5a3b8f7951f35d701197)
 
 
