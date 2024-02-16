@@ -142,6 +142,7 @@ We request to have a kick-off meeting with Perigean anytime on 2/20 and 2/21.
 ### Availability
 
 | Day      | Date        | Times in ET |
+| ---------| ----------- |  ------- |
 | Thursday | February 29 | 9:00AM ~    |
 | Thursday | February 29 | 9:00AM ~    |
 	
