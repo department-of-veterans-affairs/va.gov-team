@@ -76,7 +76,7 @@ The purpose of this research is to get feedback from Veterans on the travel reim
 5. Do Veterans understand how to select and file claims for appointments at multiple facilities?
    - MAYBE TRUE - Veterans might report some confusion around which facilities they should select, how many claims they are filing, and what happens to those selected or not selected. 
 6. Do Veterans understand this process allows them to file for ONLY mileage, and how to proceed if they need to file with receipts for any of their appointments?
-    - LIKELY TRUE - Because of the plentiful information about mileage-only on the intro and facility page, Veterans will understand the difference between filing for only mileage and filing with receipts.
+    - LIKELY TRUE - Because of the information about mileage-only on the intro and facility page, Veterans will understand the difference between filing for only mileage and filing with receipts.
 7. What is the overall Veteran response to the "text travel" experience compared to other methods of filing?
     - LIKELY TRUE - Veterans will have positive responses to the possibility of texting travel to file a claim or multiple claims. 
 
