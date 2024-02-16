@@ -36,4 +36,5 @@ General info, notes and miscellaneous
 - 2/7/24 - recommendation for longer term approach is for VBMS and VIS to communicate with each other (and to eliminate need for 10-7959f-1 FMP registration form altogether).
 
 ### Miscellaneous
+- New list and loop pattern being worked on by VFF team but not ready to use
   
