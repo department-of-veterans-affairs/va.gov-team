@@ -1,6 +1,6 @@
 # My VA: Benefit Applications Drafts Use Cases
 
-**Last updated:** December 17, 2023 - removed reference to expandable benefit menu
+**Last updated:** February 15, 2024 - added Figma link
 
 ## Overview of Benefit Application Drafts:
 
@@ -20,5 +20,5 @@
 The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error.
 
 ## Flow diagrams:
-- [User flow for benefit application drafts on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/1C68FB33-833F-4631-8B59-97C1B5920C6F/canvas)
+- [User flow for benefit application drafts on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
 
