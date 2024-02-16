@@ -28,9 +28,6 @@ Adding features to the process that do not make it easier for Veterans to access
 ## MVP
 ### Included in the MVP
 
-[OH Online BT Service Blueprint_2024-02-16_17-14-01.pdf]()
-
-
 [Design](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design)<br/>
 Service Blueprint - [Download PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/14313974/OH.Online.BT.Service.Blueprint_2024-02-16_17-14-01.pdf) [Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
 
