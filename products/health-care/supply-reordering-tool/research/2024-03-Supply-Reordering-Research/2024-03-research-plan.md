@@ -140,7 +140,7 @@ We request to have a kick-off meeting with Perigean anytime on 2/20 and 2/21.
 * Maximum Sessions per day: 3
 
 ### Availability
-| Day | Date | Times (Eastern time zone) |
+| Day      | Date        | Times (Eastern time zone) 
 | Thursday | February 29 | 9:00AM ~  |
 	
 ## Team Roles	
