@@ -28,7 +28,7 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 Similar to most other types of search tools, Veterans should be able to begin a search with the need/service and receive a list of facilities where that service is available, regardless of the "type" of facility. This is especially true for services which are delivered across VA facility types. The Facility Locator can become a VA Facility/Service/Condition Locator once all facilities, services, and conditions are connected in Drupal and/or Facilities API. 
 
 ## Facilities products
-
+[Process for reporting inaccurate data in Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#process-for-reporting-inaccurate-data-in-facility-locator)
 [Product documentation index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/product-documentation.md)
 
 ### Integrated Facilities & Services Data Products
