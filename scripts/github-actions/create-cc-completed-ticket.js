@@ -250,20 +250,12 @@ async function addIssueToCurrentSprint(id) {
 }
 
 // get the id of an epic based upon title of a ZenHub issue
-async function getEpicId(epicTitle, returnLabelId) {
+async function getEpicId(epicTitle) {
   const query = `query epicsFromWorkspace($workspaceId: ID!, $epicTitle: String!) {
     workspace(id: $workspaceId) {
       epics (first: 1, query: $epicTitle) {
         nodes {
           id
-          issue {
-            labels {
-              nodes {
-                id
-                name
-              }
-            }
-          }
         }
       }
     }
@@ -277,15 +269,9 @@ async function getEpicId(epicTitle, returnLabelId) {
     }
   });
   
-  const [{ id: epicId, issue }] = data.data.workspace.epics.nodes;
-  let labelId = null;
+  const [{ id }] = data.data.workspace.epics.nodes;
 
-  // get the id of the label added to the CC Request ticket so that it can be added to the completed ticket
-  if (returnLabelId) {
-    const [{ id }] = issue.labels.nodes.filter(label => label.name === EVENT_LABEL);
-    labelId = id;
-  }
-  return { epicId, labelId };
+  return id;
 }
 
 // add an issue to an array of epics
@@ -346,28 +332,7 @@ async function setEstimate(issueId) {
   
 }
 
-async function addLabelToIssue(issueId, labelId) {
-  const query = `mutation AddLabelsToIssues($input: AddLabelsToIssuesInput!) {
-    addLabelsToIssues(input: $input) {
-      clientMutationId
-    }
-  }`;
-  
-  try {
-    await axiosInstanceZH.post('', {
-      query,
-      variables: {
-        input: {
-          issueIds: [issueId],
-          labelIds: [labelId]
-        }
-      }
-    });
-  } catch {
-    console.log('error in addLabelToIssue');
-  }
-}
-
+// add EVENT_LABEL to completed ticket
 async function addLabel(number) {
   const URL = `issues/${number}/labels`;
   await axiosInstanceGH.post(URL, {
@@ -392,19 +357,15 @@ async function main() {
     // add milestone to new ticket
     await addMilestone(newTicketNumber, milestone.number);
 
-    //get ids of epics
-    const { epicId, labelId } = await getEpicId(title, true);
-
-    const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
+    // get ids of epics
+    const epicId = await getEpicId(title);
+    const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
   
+    // update completed ticket
     await addLabel(newTicketNumber);
 
-    // update completed ticket
     await sleep(DELAY);
     await addIssueToCurrentSprint(newTicketId);
-
-    // await sleep(DELAY);
-    // await addLabelToIssue(newTicketId, labelId);
 
     await sleep(DELAY);
     await setEstimate(newTicketId);
