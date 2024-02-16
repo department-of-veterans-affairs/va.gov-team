@@ -143,8 +143,17 @@ We request to have a kick-off meeting with Perigean anytime on 2/20 and 2/21.
 
 | Day      | Date        | Times in ET |
 | ---------| ----------- |  ------- |
-| Thursday | February 29 | 9:00AM ~    |
-| Thursday | February 29 | 9:00AM ~    |
+| Thursday | February 29 | 11:00 AM ~  3:00 PM  |
+| Friday | March 1 | 11:00 AM ~  3:00 PM  |
+| Monday | March 4 | 11:00 AM ~  3:00 PM  |
+| Tuesday | March 5 | 11:00 AM ~  3:00 PM  |
+| Wednesday | March 6 | 11:00 AM ~  3:00 PM  |
+| Thursday | March 7 | 11:00 AM ~  3:00 PM  |
+| Friday | March 8 | 11:00 AM ~  3:00 PM  |
+| Monday | March 11 | 11:00 AM ~  3:00 PM  |
+| Tuesday| March 12 | 11:00 AM ~  3:00 PM  |
+| Wednesday | March 13 | 11:00 AM ~  3:00 PM  |
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
