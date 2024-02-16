@@ -1,5 +1,5 @@
 Feb 14, 2024 | FMP Stakeholder QA 
-Attendees:          
+Attendees: Jennifer Rivera, Andrew Szymczak, Rachael Penfil, Brian Wilke, Premal Shah, Mary Wang
 
 Jen and Andrew are the SMEs
 - Limitations to where we can send checks - diplomatic issues
