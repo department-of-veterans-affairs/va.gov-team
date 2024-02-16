@@ -1,13 +1,8 @@
-# Documented Design Decisions & Frequently Asked Questions
+# Frequently Asked Questions - Appointments FE
 
-## Why can veterans only self-schedule into clinics that they've been seen at within the last 24 months?
+## Why can Veterans only self-schedule into clinics that they've been seen at within the last 24 months?
 - Many facility + care type combinations have an overwhelming numbr of clinic options. Furthermore, many of these clinics are confusing to veterans, because they're not consistently named in a way that's useful to veterans or even written in plain english.
 - Certain clinics have specific uses that aren't obvious to veterans (for example, for new patients only), so opening up all available clinics for self-scheduling for everyone results in many cancelled or rescheduled appointments.
-
-## Legacy VAOS includes a messaging dashboard to facilitate back-and-forth chats between veterans and schedulers. Why does the redesigned VAOS not have this feature?
-- In usability testing, veterans were confused by the different communication options they have for their VA healthcare, and tended to think that messaging is done through Secure Messaging.
-- Most veterans used the 'message a scheduler' feature to communicate more details about the appointment request or medical condition, and didn't expect to have bidirectional convrsations through the interface.
-- The redesigned VAOS tool allows veterans to submit one message to a scheduler within the flow of creating an appointment request, and they can also see that message repeated back to them later in their pending appointments list.
 
 ## Why does the Veteran not select an appointment cancelation reason?
 - There are only three possible cancellation reasons that a veteran can select in the legacy application. In usability testing, Veterans were confused by the three options and what the information was being used for at the VA.
@@ -24,12 +19,12 @@
 ## Why are you not using the standard Forms chapter progress bar in the VAOS appointment form?
 - Because the flow of the form is so forked depending on which options you select. It isn't really a linear booking process that maps cleanly to the concept of progressing through different chapters.
 
-## How would a veteran be blocked from excessive no-shows?
+## Are Veterans blocked from scheduling after excessive no-shows?
 - Just as with legacy VAOS, there is no mechanism to 'turn off' someone's ability to use VAOS based on count of no-shows.
 - Through discussion with Shawn Adams, this situation is annoying when it arises but is actually quite rare.
 
 ## What's the maximum number of requests & appointments that Veteran can make?
-- Request maximum is based on a facility's settings
+- Request maximum is based on a facility's settings.
 - No maximum for self-scheduled appointments, just like legacy VAOS
 
 ## Are 'resolved / no schedule' appointment requests displayed?
@@ -54,6 +49,11 @@
 - VA.gov includes a centralized account prefrences hub that spans all tools and intgrates with VA-adopted 'source of truth' databases / systems to ensure that all veteran information is consolidated and up-to-date.
 - While diting contact prefrences for an individual request is not possible in the MVP, veterans still have the ability to provide an email and phone of their choosing while scheduling / requesting to schedule an appointment.
 - Post-MVP discovery work is needed on improving notifications overall because veterans don't currently find them useful. As part of this work, the redesign team will consider options for how best to integrate notification preferences into VA.gov's account infrastructure.
+
+## Legacy VAOS includes a messaging dashboard to facilitate back-and-forth chats between veterans and schedulers. Why does the redesigned VAOS not have this feature?
+- In usability testing, veterans were confused by the different communication options they have for their VA healthcare, and tended to think that messaging is done through Secure Messaging.
+- Most veterans used the 'message a scheduler' feature to communicate more details about the appointment request or medical condition, and didn't expect to have bidirectional convrsations through the interface.
+- The redesigned VAOS tool allows veterans to submit one message to a scheduler within the flow of creating an appointment request, and they can also see that message repeated back to them later in their pending appointments list.
 
 ### The legacy VAOS application has a link to a user manual. Why doesn't the redesigned application have a manual?
 - The manual is baked into the application, in the sense that actions that users can take are explained in plain language within the flow of the application itself. The scheduling flow is set up as a step-by-step wizard specifically to reduce cognitive overhead for veterans and eliminate confusion about what to do.
