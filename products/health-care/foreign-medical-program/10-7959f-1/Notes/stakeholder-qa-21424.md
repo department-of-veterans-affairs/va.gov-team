@@ -35,7 +35,7 @@ Jen and Andrew are the SMEs
   - Then have to change the name of the file they sent to the printer to the Veteran’s name, and then when you open the file they can see the letter that will be sent to the Veteran. 
   - Then save the letter, and once they go through all the letters from the same email, will send and email with all the confirmation letters back to the Philippines to confirm
   - Phillipines emails always happen, if they have emails for Veterans can do that directly (but it doesn’t always happen). The letters don’t technically have PHI or PII - service connected conditions are there, but they’re emailed encrypted, so it’s okay
-- VIS and VBMS are both VIB websites. They can access them but not change anything in them.
+- VIS and VBMS are both VBA (Veterans Benefits Administration)  websites. They can access them but not change anything in them.
   - Information might be all over the place, dates out of order, conditions out of order, condition numbers might not be easy to decode… lots to deal with. E.g., right and left aren’t always together.
   - You end up having to be really careful for how you group like items
   - Pull up CRM
