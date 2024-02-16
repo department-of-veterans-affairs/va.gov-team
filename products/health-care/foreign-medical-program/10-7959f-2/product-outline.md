@@ -1,6 +1,5 @@
 
-# Product Outline
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
+# Product Outline - 10-7959f-2 Claim Cover Sheet
 
 ---
 
@@ -91,7 +90,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-
+- 
 ### Key Decisions
 
 ---
