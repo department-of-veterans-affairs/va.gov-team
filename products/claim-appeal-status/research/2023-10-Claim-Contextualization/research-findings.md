@@ -117,7 +117,7 @@ Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 During the study, participants had the opportunity to compare the new designs to the current (control design). We realized a divide in the participants, where some appreciated having the extra details about each step in the claim. Others felt like there was too much information and that it wasn't particularly useful.
 
 - Most of the participants appreciated having extra detail, 11 out of 14. 
-   > _ Because if I logged on and saw this today and I saw all this info, It would take away all the anxiety I have._
+   > _Because if I logged on and saw this today and I saw all this info, It would take away all the anxiety I have._
    
    > _I would give it a 5; compared to eBenefits, this is way more detailed. I would highly rate it. Any questions I’d want someone to answer, it’s already here. Everything has been explained, the verbiage is very direct. Compared to what we had before in eBenefits._
 - Participants who preferred fewer details had different reasons for their preference.
