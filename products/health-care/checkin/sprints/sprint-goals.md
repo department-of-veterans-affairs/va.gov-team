@@ -245,6 +245,7 @@ ________________________________________________________________________________
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
         - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
+        - ❗ 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75402)
         - ❗ 🟥 [Update Design Artifacts for Release #76062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76062)
         - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)
