@@ -158,7 +158,7 @@ async function createIssue(title, repoId) {
         title: "${title}",
         repositoryId: "${repoId}",
         labels: ["governance-team"],
-        assignees: ["shiragoodman"],
+        assignees: ["it-harrison"],
         body: "This ticket is for Platform tracking purposes only. There is no VFS action needed."
     }) {
         issue {
@@ -368,6 +368,13 @@ async function addLabelToIssue(issueId, labelId) {
   }
 }
 
+async function addLabel(number) {
+  const URL = `issues/${number}/labels`;
+  await axiosInstanceGH.post(URL, {
+    labels: [EVENT_LABEL]
+  });
+}
+
 function sleep(delay) {
   return new Promise((resolve) => setTimeout(resolve, delay));
 }
@@ -390,12 +397,14 @@ async function main() {
 
     const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
   
+    await addLabel(newTicketNumber);
+
     // update completed ticket
     await sleep(DELAY);
     await addIssueToCurrentSprint(newTicketId);
 
-    await sleep(DELAY);
-    await addLabelToIssue(newTicketId, labelId);
+    // await sleep(DELAY);
+    // await addLabelToIssue(newTicketId, labelId);
 
     await sleep(DELAY);
     await setEstimate(newTicketId);
