@@ -52,7 +52,7 @@
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
-|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+|------------- |---------|-------------- |-------------- |-------------- |
 |Veterans who answered Yes to providing TERA info |N/A| TBD | TBD | TBD |
 
 
@@ -61,7 +61,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
-|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+|------------- |---------|-------------- |-------------- |-------------- |
 |Veterans answer Yes to question 1 |N/A| TBD | TBD | TBD |
 |Veterans answer Yes to question 2 |N/A| TBD | TBD | TBD |
 |Veterans answer Yes to question 3 |N/A| TBD | TBD | TBD |
