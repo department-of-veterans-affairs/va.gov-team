@@ -158,7 +158,7 @@ async function createIssue(title, repoId) {
         title: "${title}",
         repositoryId: "${repoId}",
         labels: ["governance-team"],
-        assignees: ["it-harrison"],
+        assignees: ["shiragoodman"],
         body: "This ticket is for Platform tracking purposes only. There is no VFS action needed."
     }) {
         issue {
