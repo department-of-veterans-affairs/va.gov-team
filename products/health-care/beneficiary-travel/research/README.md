@@ -25,4 +25,6 @@
 
 ### Past IA Studies
 #### [Had travel pay in some of the tasks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
+
+### Other Resources
 #### [VetLink documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/VetLink)
