@@ -266,13 +266,13 @@ ________________________________________________________________________________
         - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
-       - 🟥 TBD
+       - 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
-    - ❗ 🟥 [[Design] Update margins for auto-layout and apply to Figma frames #75890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75890)
-    - ❗ 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)
+    - 🟥 [[Design] Update margins for auto-layout and apply to Figma frames #75890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75890)
+    - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)
 
 ------- END FUTURE / TENTATIVE ------
 </details>
