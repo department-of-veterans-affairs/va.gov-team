@@ -17,7 +17,6 @@
 - 10-10EZ Veteran health care application | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:*
 * Veterans do not currently have a place to identify any Toxic Exposure during the health care application process
 * Veterans who may qualify for VA health care or a higher priority group, due to Toxic Exposure, currently do not have a way to identify this within the health enrollment process
 * Providing a place for Veterans to identify Toxic Exposure during the health care application process will open up additional qualifying factors for VA health care
@@ -60,32 +59,33 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - RISK: Veterans will answer NO to the "Do you want to provide info regarding Toxic Exposure" question
+  - RISK: Veterans who provided their Toxic Exposure details while filing their disability claim(s) may feel this is duplicative, becoming annoyed that we don't already have this info
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - RISK: Veterans will be overwhelmed by the questions and details being asked
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+    - RISK: Downstream API/Data availability and reliability (Enrollment system)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - RISK: HEC Staff will not have visibility into the Veteran's input within their workflow (Enrollment system) until June 2024
 
 ### What're you building
 #### In-Scope
 - Add Toxic Exposure questions, per request from HEC Stakeholders (directive)
 - Remove Items from checkbox list, per request from HEC Stakeholders - to avoid duplicative questions
+- Allow free form input field, restricting to Alphanumeric values only
 
 #### Out-of-Scope
 - Changing other parts of the form
+- 
 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 
-- Content engagement ticket #TBD
+- Content engagement [ticket #74254](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74254)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -94,7 +94,7 @@
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - March 2024
+  - March 5, 2024
 - *Actual Launch Date* 
   - tbd
 
@@ -104,6 +104,9 @@
 
 ### Before
 N/A - Questions are new on the existing 10-10EZ form
+- Draft version of the 10-10EZ Paper form
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/9807c008-8925-44a9-81f0-9f0de2e2375d)
+
 
 ### After
 
