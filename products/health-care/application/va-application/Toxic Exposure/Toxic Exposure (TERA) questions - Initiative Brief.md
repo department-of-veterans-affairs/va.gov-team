@@ -43,14 +43,35 @@
 - Veterans feel burdened or overwhelmed by the questions and input fields
 
 ---
-## Measuring Success - TBD
+## Measuring Success
 
-### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+### Objective: Update the 10-10EZ, so Veterans have the opportunity to provide Toxic Exposure details while applying for VA health care.
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+#### **Key Result #1:** Veterans will answer Yes to provide TERA information
 
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+|Veterans who answered Yes to providing TERA info |N/A| TBD | TBD | TBD |
+
+
+#### **Key Result #2:** Veterans will provide info in at least one TERA question
+
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------|-------|-------------- |-------------- |-------------- |
+|Veterans answer Yes to question 1 |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to question 2 |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to question 3 |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to question 4 |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to question 5 |N/A| TBD | TBD | TBD |
+
+
+#### **Key Result #3:** Veterans feel prepared when they begin the Household section
+
+#### **Key Result #4:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 ---
 
 ## Discovery
