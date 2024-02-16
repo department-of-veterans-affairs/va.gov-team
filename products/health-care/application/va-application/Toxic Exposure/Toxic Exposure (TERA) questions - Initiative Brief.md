@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Toxic Exposure (TERA) - MVP
 - Epic [#73669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73669)
 
 ## Resources
@@ -11,27 +11,30 @@
 ---
 
 ## Outcome Summary
-* Provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.
+* Provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.  This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
 
 **Related/Associated product(s)**
 - 10-10EZ Veteran health care application | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+> *Describe the challenge / pain point you seek to address.:*
+* Veterans do not currently have a place to identify any Toxic Exposure during the health care application process
+* Veterans who may qualify for VA health care or a higher priority group, due to Toxic Exposure, currently do not have a way to identify this within the health enrollment process
+* Providing a place for Veterans to identify Toxic Exposure during the health care application process will open up additional qualifying factors for VA health care
+
 
 
 ## Desired User Outcomes
 - Unqualified Veterans may now qualify for VA health care by providing this information
 - More Veterans applying for VA health care
+- Veterans whose disability rating and priority group is reduced due to improved health may still qualify for at least Priority Group 6 due to Toxic Exposure
 
 
 ## Undesired User Outcomes
 - Confusion on what is considered "toxic exposure"
 - Confusion on how to fill out the information
 - Overwhelmed by the questions
+- Confusion
 
 ## Desired Business Outcomes
 - Higher awareness of affected Veterans with toxic exposures
