@@ -819,7 +819,7 @@ _VA.gov CMS team: Lapedra Tolson_
 
 #### August 5 - 16: Personalization 2.0 Separating Service Member Interviews **
 - 5 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Service%20Member%20Interviews)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research/service-member-interviews)
 
 #### August 5 - 12: VSP Onboarding - Round 2 (VSA) **
 *VSP Platform Support: Layla Soileau*
