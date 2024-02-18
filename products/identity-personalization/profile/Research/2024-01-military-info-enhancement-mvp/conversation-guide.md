@@ -105,6 +105,11 @@ Here are the items. Let’s go through them.
 - How would you expect to see your occupational history: earliest job first or last job first? Why?
 - In the data, it’s called Military Occupational Specialty – in your experience, is this term used for your branch, or something else?
 
+#### **Service episodes**
+- Is there any information that seems extraneous or unhelpful to you?
+- Is there any information that seems missing that is meaningful to you?
+- Discharge info is included within this data set — is this expected or unexpected?
+
 #### **Deployments** 
 - Is there any information that seems missing that is meaningful to you?
 - Is there any information that seems extraneous or not meaningful to you?
