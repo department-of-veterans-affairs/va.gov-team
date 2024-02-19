@@ -47,31 +47,30 @@
 
 ### Objective: Update the 10-10EZ, so Veterans have the opportunity to provide Toxic Exposure details while applying for VA health care.
 
-#### **Key Result #1:** Veterans will answer Yes to provide TERA information
+#### **Key Result #1:** 50% of Veterans who visit this page will answer Yes to provide TERA information
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Veterans who answered Yes to providing TERA info |N/A| TBD | TBD | TBD |
+|Veterans who answered Yes to providing TERA info |N/A| 50% | TBD | TBD |
 
 
-#### **Key Result #2:** Veterans will provide info in at least one TERA question
+#### **Key Result #2:** 75% of Veterans who said Yes to providing TERA information will provide info in at least one TERA question
 
 Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Veterans answer Yes to question 1 |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to question 2 |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to question 3 |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to question 4 |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to question 5 |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Cleanup or Response |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Service in Gulf War |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Combat Operations |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Agent Orange |N/A| TBD | TBD | TBD |
+|Total Veterans that provided an answer to at least one question |N/A| 75% | TBD | TBD |
 
+#### **Key Result #4:** 50% of Veterans who apply for VA health care now qualify for Priority Group 6 with TERA criteria, who may otherwise would have a lower Priority Group or not qualify at all
 
-#### **Key Result #3:** Veterans feel prepared when they begin the Household section
-
-#### **Key Result #4:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
+#### **Key Result #5:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 ---
 
 ## Discovery
