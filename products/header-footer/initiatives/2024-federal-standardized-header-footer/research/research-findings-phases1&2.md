@@ -57,16 +57,18 @@ The findings from this research show how the proposed header and footer design i
 
 ## Methodology
 
-We conducted **remote usability testing** over Zoom in 3 phases to get feedback from research participants using a design prototype:
+We conducted **remote usability testing** over Zoom in 3 research phases to get feedback from Veteran participants using a design prototype:
 
 Phase | Participants | Tasks | Dates | Topline Summary
 ----- |------|-------|--------|--------
-1 | Non-assistive technology users doing unauth tasks + 1 auth task | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
-2 | Assistive technology users doing unauth tasks + 1 auth task | Jan 29-Feb 5, 2024 | *THIS REPORT*
-3 | Assistive and non-assistive technology users doing auth tasks only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+1 | Non-assistive technology users | Unauthenticated + authenticated | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
+2 | Assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
+3 | Assistive and non-assistive technology users | Authenticated only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
 
-Perigean recruited the participants. **We talked to 9 Veterans**, two of whom were also Veterans' family members.
+This report will cover Phases 1-2 in detail. Phase 3 is covered in the topline summary link above.
+
+ Perigean recruited all of the participants. **We talked to 9 Veterans**, two of whom were also Veterans' family members.
 
 - **Most (8 of 9) used a computer** e.
 
