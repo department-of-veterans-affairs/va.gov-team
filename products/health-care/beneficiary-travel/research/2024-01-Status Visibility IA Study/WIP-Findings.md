@@ -113,58 +113,114 @@ For the recent task, 30% of all participants (30% of recent first participants) 
 
 ## **Details of Findings**
 
-**Finding 1:** No single destination  signaled particularly high as a destination for travel claim status information.  The highest performer was the “File a claim for travel reimbursement” page at ~30% followed by ‘Manage all claims and appeals” at ~12%
+#### **Finding 1:** No single destination  signaled particularly high as a destination for travel claim status information.  The highest performer was the “File a claim for travel reimbursement” page at ~30% followed by ‘Manage all claims and appeals” at ~12%
 <img width="928" alt="Screenshot 2024-02-19 at 4 22 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/e544c043-26e0-49e1-9556-239468884544">
 
 
-**Finding 2:** Participants did not appear to differentiate between where to look for the recent claim and the historical claim, indicating that users would expect to find the two types in the same general area or they did not understand the nuances between the scenarios.  
+#### **Finding 2:** Participants did not appear to differentiate between where to look for the recent claim and the historical claim, indicating that users would expect to find the two types in the same general area or they did not understand the nuances between the scenarios.  
 
 Based on the destinations participants selected, it appears users’ mental model associates a Travel claim most strongly first with travel claim submission and secondly with the management of other claims.
 
 <img width="972" alt="Screenshot 2024-02-19 at 4 26 27 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/d53932fd-3c31-4e15-a597-f83795ffc44d">
 
 
-
-
-
-**Finding 3:** Location signal was split between MyHealtheVet, My VA and VA Benefits and Health Care
+#### **Finding 3:** Location signal was split between MyHealtheVet, My VA and VA Benefits and Health Care
 
 **Analyzing the recent task…**
 
+‘My VA’ and ‘VA Benefits and Health Care’ are slightly more popular than other locations with participants when start out or ‘looking’ for information on a travel claim
+<img width="895" alt="Screenshot 2024-02-19 at 4 42 02 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/8ae54489-49fe-437d-907a-0a8665822007">
 
-## 
-**Recommendations**
+Location signal was split between My VA, MyHealtheVet and VA Benefits and Health Care, age and experience having minimal impact.  MyVA and MyHealtheVet seems to signal slightly more strongly to experienced participants.  There was a range of interpretations of ‘VA benefits and health care’, but no significant distinctions.  VA Health and Benefits signaled slightly higher with participants 55+ who have no experience with Travel Pay than it did with participants 55+ who do have experience.  VA health and benefits signaled slightly lower with participants >54 with no experience with Travel Pay than it did with participants >54 with experience
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+<img width="624" alt="Screenshot 2024-02-19 at 4 42 29 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/8cf6497d-9d9a-44a5-aa1a-be135c56f066">
+
+~ 1 in 3 participants selected the ‘File a claim for travel reimbursement’ as  where to find information about a recent claim, significantly higher than the second most common destination ‘Manage all claims and appeals’ 
+
+<img width="950" alt="Screenshot 2024-02-19 at 4 45 31 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/f993a6ff-14eb-4e09-88b4-4f9f1c944340">
+
+Participants’ final selections were dispersed across a range of locations, only ‘File a claim for travel reimbursement’ stands out.  ‘File a claim” performed slightly higher with participants >54 than those 55+.  Among experienced participants aged 55+, the My VA general space signaled highest
+
+<img width="708" alt="Screenshot 2024-02-19 at 4 45 47 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/9be65a70-294a-416d-b1df-ad14850173d4">
+
+**Analyzing the recent task…**
+
+Participants gravitated slightly to looking in VA benefits and health care section for Travel Pay information, followed by ‘My VA’
+
+<img width="975" alt="Screenshot 2024-02-19 at 4 50 09 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/f7438342-8da1-4acd-bb85-a66a63ddb590">
+
+When starting or exploring for the task, ‘VA benefits and health care’ signaled the highest of any location,  but not strongly.  ‘MyHealtheVet’ and ‘My VA’ were close behind ‘VA benefits and healthcare’
+
+<img width="628" alt="Screenshot 2024-02-19 at 4 51 17 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/18d38eac-1870-4b42-8959-fb32558eb4f4">
+
+~ 1 in 4 participants selected the ‘File a claim for Travel Reimbursement’ page as their final destination for the historical task
+
+<img width="878" alt="Screenshot 2024-02-19 at 4 52 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/1dbc50cf-9648-44b6-823a-618cab40a07b">
+
+Participant destinations were dispersed across a range of destinations, only ‘File a claim for travel reimbursement’ stands out.  Participants under 54 years old with no Travel Pay experience were particularly dispersed in their destinations.  Participants under 54 years old the most Travel Pay experience were the most concentrated in their destination selections.  
+
+<img width="707" alt="Screenshot 2024-02-19 at 4 53 17 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/af2a9b2c-7fb3-42b7-bc42-fd7edc08ca86">
 
 
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-## 
-**Next Steps**
 
 
-_Next steps here. Include owners if appropriate._
+#### Finding 4: “Travel Reimbursement Status” was the highest performing label for this information, echoing participants desire for a simple and straightforward term.
+
+Participants focused on language that was clear and direct when labeling the page with information about travel claim status.  Language themes, in order of frequency:
+
+1.  “Travel reimbursement status” language: 
+
+“Veteran Travel Reimbursement Section. That way it makes it so much easier for anything and everything related to Veteran Travel is there. Whether is is gas, mileage, tolls, caregiver etc travel related reimbursement.” 
+    
+“Travel reimbursement status or history:  This is what I would look for and hope that it has a record of all transactions and their status i.g. in-process, denied, completed and funded.”
+
+2.  “Claims” language: 
+
+“Recent Claims This page will show the recent claims and the last five claims that have been processed”
+
+3.  “Pay/payments” language
+
+“Travel Pay Information. It would be easy to find and allow anyone to get the information they needed.”
+
+4.  BTSSS terminology 
+
+“Beneficiary Travel Self Service System, the name speaks for itself. The Dashboard will let you know the status of the claim”  Note: mentioned by 2 of 66
+
+Participants gravitated toward the “Travel Reimbursement Status” label.  Over 50% of participants force ranked “Travel Reimbursement Status” as their #1 choice for the name of a page where they can see the status of their request to be reimbursed for travel.  This is significantly higher than the most common second choice, “Travel Claim Status Updates.”  The popularity of these terms aligns with participant responses in the previous open end question.  
+
+<img width="511" alt="Screenshot 2024-02-19 at 4 59 00 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/dfd7bd77-77e1-4fef-b30f-a89cee3db1a9">
 
 
-## 
-**Appendix**
+
+
+## **Recommendations**
+
+**1.** Consider “Travel Reimbursement Status” or a similar variation as the name of this page. 
+
+**2.** Any destination for travel reimbursement status will require a signal boost from design and interaction.  However, consider the following placement options
+ - Build on to the page where users submit for reimbursement.
+            Home > MyHealtheVet > Payments > File a claim for travel reimbursement
+ - Elevate travel reimbursement status in the space where users manage their past claims 
+            Home > My VA > Claims and appeals > Manage all claims and appeals
+            
+
+## **Next Steps**
+
+
+Exploring concepts on the 'Home > MyHealtheVet > Payments > File a claim for travel reimbursement' route followed by a look and feel study.
+
+## **Appendix**
 
 [Research plan](link here)
 
 
-## 
-**Tools used for Synthesis**
+### **Tools used for Synthesis**
 
 OptimalWorkshop
 
 
-## 
-**Who we talked to**
+### **Who we talked to**
 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
@@ -263,8 +319,7 @@ Disability and Assistive Technology (AT):
 * Sighted keyboard: x
 * Captions: x
 
-## 
-**Underserved groups we haven’t talked to**
+### **Underserved groups we haven’t talked to**
 
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
