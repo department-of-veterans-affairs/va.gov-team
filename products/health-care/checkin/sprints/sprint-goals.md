@@ -259,7 +259,10 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
         - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟦 [[BE] Update Travel Claims Service Class to handle OH appointments #75728](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75728)
-        -  - per Kanchana, ^^^ no longer needed 
+        -  - per Kanchana, ^^^ no longer needed
+        - ❗ 🟦 [[BE] Modify Appointments Identifer Serializer to add IDIPI & appointment type field for OH appointments#75543](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75543)
+        - ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app#75563](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75563)
+        - ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller#76247](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76247)
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
         - 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
