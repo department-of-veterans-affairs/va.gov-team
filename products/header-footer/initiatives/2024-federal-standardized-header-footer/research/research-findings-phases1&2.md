@@ -36,16 +36,35 @@ There are many potential touchpoints between the Veteran and the header and foot
 - Aging 
 
 The purpose of this research was to find out:
-- Wayfinding task success rate throughout header and footer menus
-- How Veterans using screen reader or screen magnifier technology navigate the proposed header and footer IA
-- Veteran sentiment on USA logo and VA seal, with the dropping of the “VA” brand mark
+- **Wayfinding task success rate** using the proposed Federal header and footer menus
+- **How Veterans using screen reader or screen magnifier technology navigate** the proposed header and footer IA
+- **Veteran sentiment on USA logo and VA seal**, with the dropping of the “VA” brand mark
+
+The findings from this research show how the proposed header and footer design impacts the Veteran wayfinding experience. 
 
 ## Research Questions
+1. Are Veterans (and others) able to navigate the newly organized footer with new column headings, link names, and separate VA and Federal footer sections? 
+    - What tasks, if any, do participants struggle navigating to?  
+1. How does the new font family and increased font size impact readability?  
+1. Do Veterans (and others) using screen readers or other assistive technology have a positive experience with information wayfinding and task completion?  
+1. What do Veterans (and others) think of the integration of both the authenticated menu and main menu on mobile into one menu? 
+    - Do they provide a better, positive experience or create confusion? (i.e., how to sign in, sign out, locate  auth menu items) 
+1. What are Veterans’ (and others’) task success rates?  
+1. What are Veterans’ (and others’) first impressions of the new header and footer? 
+    - How do Veterans (and others) feel about the way VA is represented in the header without the letters “VA”?  
+    - How do Veterans (and others) feel about the new USA logo? 
 
 
+## Methodology
 
-## Methodology 
-We conducted **remote usability testing** over Zoom on October 2-6, 2023 to get feedback from research participants using a prototype that presented the questions 
+We conducted **remote usability testing** over Zoom in 3 phases to get feedback from research participants using a design prototype:
+
+Phase | Participants | Tasks | Dates | Topline Summary
+----- |------|-------|--------|--------
+1 | Non-assistive technology users doing unauth tasks + 1 auth task | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
+2 | Assistive technology users doing unauth tasks + 1 auth task | Jan 29-Feb 5, 2024 | *THIS REPORT*
+3 | Assistive and non-assistive technology users doing auth tasks only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+
 
 Perigean recruited the participants. **We talked to 9 Veterans**, two of whom were also Veterans' family members.
 
@@ -56,6 +75,13 @@ For more details, see [Who we talked to](#who-we-talked-to).
 
 
 ## Hypotheses and Conclusions
+1. Veterans (and others) will be able to easily use the header and footer. 
+1. Veterans (and others) won’t have any difficulty reading any of the text shown in the prototypes. 
+1. Veterans (and others) who use assistive technology (screen reader or screen magnification software) will be able to easily use the header and footer. 
+1. The new VA seal helps Veterans (and others) understand this is a VA website. 
+1. Veterans (and others) will be able to easily find the authenticated menu when it’s integrated with the main menu in the mobile header. 
+1. The new USA logo mark helps Veterans (and others) understand this is a Federal government website. 
+
 1. 
     - MOSTLY TRUE: 
      
