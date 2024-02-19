@@ -57,7 +57,7 @@ The findings from this research show how the proposed header and footer design i
 
 ## Methodology
 
-We conducted **remote usability testing** over Zoom in 3 research phases to get feedback from Veteran participants using a design prototype:
+We conducted **remote usability testing** over Zoom in 3 research phases to get feedback from participants using a design prototype showing VA.gov:
 
 Phase | Participants | Tasks | Dates | Topline Summary
 ----- |------|-------|--------|--------
@@ -65,12 +65,14 @@ Phase | Participants | Tasks | Dates | Topline Summary
 2 | Assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
 3 | Assistive and non-assistive technology users | Authenticated only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
-
 This report will cover Phases 1-2 in detail. Phase 3 is covered in the topline summary link above.
 
- Perigean recruited all of the participants. **We talked to 9 Veterans**, two of whom were also Veterans' family members.
+## Participants
+ Perigean recruited all of the participants. In Phases 1-2, **we talked to 19 people**.
 
-- **Most (8 of 9) used a computer** e.
+- **Most** (18 of 19) **were Veterans**, 4 were family members of Veterans, 2 were caregivers of Veterans, and 1 was a Service Member (some had multiple roles).
+- **Almost half** (8 of 19) **saw a mobile prototype**, and the others (11 of 19) saw a desktop prototype. 
+- **About half** (9 of 19) **were full-time assistive technology users**--5 used a screen reader, and 5 used a screen magnifier (one person used both).
 
 
 For more details, see [Who we talked to](#who-we-talked-to).
