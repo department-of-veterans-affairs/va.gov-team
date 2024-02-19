@@ -16,7 +16,7 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 
 Reference epic/feature above for key decisions
          
-### Feasibility meeting  notes  
+### Feasibility meeting notes  
 
 <details>
 <summary>February 15, 2024</summary>
