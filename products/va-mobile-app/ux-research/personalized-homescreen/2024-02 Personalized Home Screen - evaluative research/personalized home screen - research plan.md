@@ -139,27 +139,28 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session from an Android smart phone such as a Samsung Galaxy or Google Pixel? Any kind of Android smart phone will work, as long as it connects to the internet.**
-Response options: yes or no 
+**1. Are you able to join the Zoom session from an Android smart phone such as a Samsung Galaxy or Google Pixel? Any kind of Android smart phone will work, as long as it connects to the internet.**  
+Response options: yes or no  
 (If yes, proceed to 1a. If no, disqualify)
 
-**1a. Are you willing and able (and do you have space on your device available) to download and install a mobile app on your device during the session using a link you will open on your phone?**
-Response options: yes or no
+**1a. Are you willing and able (and do you have space on your device available) to download and install a mobile app on your device during the session using a link you will open on your phone?**  
+Response options: yes or no  
 (If no, disqualify)
 
-**2. Are you currently able to log into VA.gov or the VA Health and Benefits mobile app using VA login credentials (username and password).**
-Response options: yes or no
+**2. Are you currently able to log into VA.gov or the VA Health and Benefits mobile app using VA login credentials (username and password).**  
+Response options: yes or no  
 (If yes, proceed to 2a. If no, disqualify)
 
-**2a. If you were to get logged out suddenly, would you be able to log back in on your own using your username and password?**
-Response options: yes or no
+**2a. If you were to get logged out suddenly, would you be able to log back in on your own using your username and password?**  
+Response options: yes or no  
 (If no, disqualify)
-
-**3. Do you use the VA Health and Benefits mobile app**?
-Response options: yes or no
+ 
+**3. Do you use the VA Health and Benefits mobile app?**  
+Response options: yes or no  
 (If yes, proceed to 3a)
 
-**3a. How often do you use the VA Health and Benefits mobile app?**
+**3a. How often do you use the VA Health and Benefits mobile app?**  
+Response options, checkbox list with text box:
 - Once a day
 - Once a week
 - 2 or more times per month
@@ -167,29 +168,31 @@ Response options: yes or no
 - 1-2 times a year
 (Answer should be a, b or c to satisfy criteria for “active monthly user”)
 
-**4. Do you currently have an open disability claim or appeal?
-Response options: yes or no **
+**4. Do you currently have an open disability claim or appeal?**  
+Response options: yes or no  
 (If no, disqualify)
 
-**5. What VA benefits or services do you currently receive?** Response options, checkbox list with text box:
+**5. What VA benefits or services do you currently receive?**  
+Response options, checkbox list with text box:
 - Health care
 - Payments from VA (for example, disability compensation or pension)
 - Education benefits
 - Other (please list)
 (At least 8 should have included “Health care” in their answer)
 
-**6. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack)?** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.
+**6. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack)?** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
 Response options: yes or no 
 (If yes, proceed to question 4a)
 
-**6a. How many years have you been using screen reader technology on your mobile device?**
+**6a. How many years have you been using screen reader technology on your mobile device?**  
+Response options, checkbox list with text box:
 - Less than one year
 - 1 year
 - 2-5 years
 - 5 or more years
 (If c or d, proceed to question 4b)
 
-**6b. Are you willing to join the Zoom session using this assistive technology?** (Answer should be yes to satisfy criteria for screen reader)
+**6b. Are you willing to join the Zoom session using this assistive technology?** (Answer should be yes to satisfy criteria for screen reader)  
 Response options: yes or no
 
 
