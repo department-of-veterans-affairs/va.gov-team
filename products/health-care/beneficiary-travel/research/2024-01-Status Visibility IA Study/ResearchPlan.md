@@ -73,7 +73,8 @@ This study will give us insight into where we should put and how we should group
 2. We hypothesize that participants will look for older claims (6+ months ago) in the Claim status tool or Payments section.
 3. We hypothesize that participants will look for an overview of their past Travel Claims history in their Profile or Payments section.
 4. We hypothesize that participants will look for status updates on Travel Pay claims on its own its own distinct page
-5. We hypothesize that users will look information on Travel Claims - recent or historical - in the My VA health benefits section of MyHealtheVet 
+5. We hypothesize that users will look information on Travel Claims - recent or historical - in the My VA health benefits section of MyHealtheVet
+6.  We hypothesize that participants will look to check the status of a travel claim on the page where they submit travel claims. (From the Check-in team)
 
 
 ## **Methodology**
