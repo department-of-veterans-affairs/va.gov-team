@@ -2,14 +2,14 @@
 
 ## Purpose and Scope
 
-This policy requires that all teams interacting with any code belonging to the VA.go Identity Team, labeled via CODEOWNERS file inside a respective `.github` folder as [`@department-of-veterans-affairs/vsp-identity`](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-identity), in any VA GitHub repo must have approval from the vsp-identity team before merging the code to the main branch. This policy applies to all repositories that publish code to the production version of VA.gov. The purpose of the policy is to minimize the risk of a VA.gov authentication related outage.
+This policy requires that all teams interacting with any code belonging to the OCTO Identity Team, labeled via CODEOWNERS file inside a respective `.github` folder as [`@department-of-veterans-affairs/octo-identity`](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), in any VA GitHub repo must have approval from the octo-identity team before merging the code to the main branch. This policy applies to all repositories that publish code to the production version of VA.gov. The purpose of the policy is to minimize the risk of a VA.gov authentication related outage.
 
 ## Policy
 
-- All teams that interact with any code labeled via the CODEOWNERS file in the `.github` folder within each VA GitHub repository as belonging to the GitHub team [`@department-of-veterans-affairs/vsp-identity`](https://github.com/orgs/department-of-veterans-affairs/teams/vsp-identity) must have an approval on any PR from the vsp-identity team prior to merging the code to the main branch.
+- All teams that interact with any code labeled via the CODEOWNERS file in the `.github` folder within each VA GitHub repository as belonging to the GitHub team [`@department-of-veterans-affairs/octo-identity`](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity) must have an approval on any PR from the octo-identity team prior to merging the code to the main branch.
 - Exceptions to this policy may be made only when it is determined that Veterans and users of VA.gov are being negatively impacted by the current state of VA.gov. This impact must exceed 1% of users on VA.gov. This approval can only be granted explicitly by the VA.gov System Owner, Chris Johnston, or his official delegate assigned for such purposes of policy exception approval.
 - Any official request to review code which falls under this policy must be reviewed by the VA.gov Identity team within one business day (24 hours) unless otherwise explicitly justified as to why this delay must occur. This delay must be approved by the policy approver, Thomas Black.
-    - An official must be made via the public [`vsp-identity`](https://dsva.slack.com/archives/CSFV4QTKN) slack channel or an email sent to the projects lead engineer, Joe Niquette, joe.niquette at oddball.io.
+    - An official must be made via the public [`identity`](https://dsva.slack.com/archives/CSFV4QTKN) slack channel or an email sent to the projects lead engineer, Joe Niquette, joe.niquette at oddball.io.
 
 ## Applicability
 
