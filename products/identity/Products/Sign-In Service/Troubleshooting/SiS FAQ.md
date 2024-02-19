@@ -1,8 +1,16 @@
 # Sign-in Service Integration 
 # Frequently Asked Questions
+-----------------
 
+-----------------
+## Version History
+ 
+| Version Number | Author | Revision Date | Description of Change |
+| --- | --- | --- | --- |
+| 0.1 | Josh Matulonis, Joe Niquette | 2/15/2024 | Initial creation |
+-----------------
 
-
+-----------------
  
 ## [General](General)
  
@@ -16,7 +24,10 @@
 
 ## [Options](Options)
 
+-----------------
 
+
+-----------------
 ## General
 
 | Question | Answer | Revision Date |
@@ -53,10 +64,11 @@ You would be able to set up either solution on test stacks before your subdomain
 
 This is our GitHub page: [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sign-In%20Service).
 
+-----------------
 
 
 
-
+-----------------
 ## Support 
 
 | Question | Answer | Revision Date |
@@ -101,9 +113,10 @@ Revoke is probably unnecessary (but it makes sense to call it for simplicity’s
 
 Yes please, we aren’t actively using review instances. You'll find out first if they broke.
 
+-----------------
 
 
-
+-----------------
 ## Tokens
 
 | Question | Answer | Revision Date |
@@ -120,7 +133,9 @@ A potential future feature would allow a user to select ‘this is a private mac
 
 We enforce this token on a per application basis, when you setup your config we will discuss this. If you need to request enforcement after your project is setup please just ping us in the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN).
 
+-----------------
 
+-----------------
 ## Data
 
 | Question | Answer | Revision Date |
@@ -173,8 +188,9 @@ Yes, we started collecting numbers in October 2023.
 
 Yes we still use MPI.
 
+-----------------
 
-
+-----------------
 ## Reauthorization
 
 | Question | Answer | Revision Date |
@@ -185,7 +201,9 @@ Yes we still use MPI.
 
 No, we would prefer you use the new authenticatin api service directly as it is intended. We likely will pull the service out of vets-api eventually and we don't want any direct sign-in interactions to be made by our clients.
 
+-----------------
 
+-----------------
 ## Options
 
 | Question | Answer | Revision Date |
@@ -201,9 +219,4 @@ It allows you to call /authorize with a state parameter, and you will get it bac
 
 For sign-in service on the backend, we can create a new configuration in a test stack (like staging) at any point, or you can play around with it on localhost.
 
- ## Version History
- 
-| Version Number | Author | Revision Date | Description of Change |
-| --- | --- | --- | --- |
-| 0.1 | Josh Matulonis, Joe Niquette | 2/15/2024 | Initial creation |
 
