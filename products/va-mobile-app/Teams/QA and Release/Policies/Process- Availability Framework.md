@@ -11,6 +11,8 @@ AF changes are made without a release and screen/content changes can be made in 
 ### Things to consider: 
 * Jon Bindbeutel is the FE main point of contact
 * Any Team's QA can support testing if needed - no single contact 
+* Mist is currently the only Content person for Mobile
+* Need to consider if there needs monitoring / analytics from AF usage
 * Only impacts Veterans who are on the mobile version of 2.19 or newer
       * Veterans on versions prior to 2.19 will not be impacted 
 * Functionality enables Mobile to make changes directly to production 
