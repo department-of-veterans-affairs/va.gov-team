@@ -33,7 +33,7 @@ Be able to create a dashboard to track usage behavior from the Appointments tool
 - A Veteran may have a negative experience and will not return to the Appointments tool online. 
 
 ## Key Decisions
-- 
+- Details can be found in [Feature tasklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/datadog-rum-implementation/datadog-implementation-tasklist.md). 
 
 ---
 ## Measuring Success
@@ -65,20 +65,20 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - Enter details
+  - Not applicable
 - **Usability Risks** (can people figure out how to use it):
-  - Enter details
+  - Not applicable
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Enter details
+  - Not applicable
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
+  - None
 
 ### Prioritization
-1. Enter details
+- Target to complete by end of 2024 
 
 ### Solution Summary
--Enter details
+- Details can be found in [Feature #63374](https://app.zenhub.com/workspaces/appointments-product-management-63d2b0c51ad23091ff211acb/issues/gh/department-of-veterans-affairs/va.gov-team/63374)
 
 
 --- 
@@ -91,22 +91,9 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-1. Launch of the updated appointment list view will be marketed as an enhancement and will be part of a re-launch campaign for VAOS.
-* Re-launch and new appointment list will be marketed through veteran focused electronic newsletters, especially those related to health care.
-* Specific newsletters need to be identified and timelines for publication coordinated with launch plans
+1. No marketing is needed for the work. 
 
-2. VAOS team investigating the use of an online, one time notice that would appear to veterans when navigating to VAOS landing page
-* Notice would be a small indicator that something is new on the site.
-* Clicking on the notice would provide more details about the change to the appointment list view.
-* The online notification would lose focus after a veteran has clicked on it.  This includes subsequent sessions.
-* Online notification would only be visible for a configurable date range.
-* VAOS team to investigate feasibility of such a feature with the platform support team.
-
-3. VA and CC scheduling personnel will need to be informed of the appointment view update and provided a demonstration.
-
-4. VAOS product guide will need to be updated to include new screen shots of the updated appointment list view
-
-5. Call Center will need to be informed of change to appointment list view
+2. We will have a check-in and syncs with the OCTO-DE leads to discuss the progress of the project. 
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -115,7 +102,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - TBD
+  - Target by end of 2024
 - *Actual Launch Date* 
   - tbd
 
@@ -124,13 +111,17 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 ## Screenshots
 
 ### Before
+Not applicable 
 
 ### After
+Not applicable 
 
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
+- Documentation of the progress of the project
+- Slack channel #appointments-fe-meetup
+- Stand up meetings (Mon, Tues, Thurs, Friday) at 12:05 PM ET/9:05 AM PT
 
 <details>
 
@@ -148,7 +139,7 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 - DEPO Lead: [Katherine Lawyer](https://dsva.slack.com/team/U772MC9BQ)
 - PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 - Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
-- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9), [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9) and [Melissa Lefevre]()
+- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9), [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9) and [Melissa Lefevre](U01P79D23MY)
  
 </details>
 
@@ -158,8 +149,8 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO
+- Contact(s): Katherine Lawyer 
  
 </details>
 
