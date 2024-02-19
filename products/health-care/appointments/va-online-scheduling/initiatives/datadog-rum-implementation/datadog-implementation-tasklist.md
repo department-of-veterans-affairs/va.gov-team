@@ -29,4 +29,9 @@ The Appointments FE team will work on creating a DataDog RUM dashboard for the a
 - [ ] Connect to slack 
 - [ ] FE errors threshold
 
+## In scope: 
+- TBD
+
+## Out of scope: 
+- TBD
 
