@@ -1,6 +1,6 @@
 # Initiative Brief- DataDog RUM Implementation Tasklist 
 
-The Appointments FE team will work on creating a DataDog RUM dashboard for the appointments online tool. 
+The Appointments FE team will work on creating a DataDog RUM dashboard for the appointments online tool on VA.gov
 
 ## Prelimary work 
 
