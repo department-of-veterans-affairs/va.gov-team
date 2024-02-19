@@ -82,22 +82,39 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 ## Cookie OAuth Workflow
 
 1. User lands on [VA.gov](http://va.gov/) or another web client wanting to sign in via OAuth.
+  ![csp_select](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/75878eac-8dce-4fb4-ae6e-0408f0fc443a)
+
 2. User clicks on the button to sign in with their credential service provider (CSP).
 3. Client calls the SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
+   ![authorize](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/67f7bf53-a368-470c-91d3-fb1126b3e9be)
+
 4. SiS redirects to CSP website for user to enter credentials.
 5. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
+  ![sis_callback](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/bd51d8ca-1d8c-4469-a2f4-ba4eaf3d3d33)
+
 6. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
+   ![redirect_uri](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/9c31e41b-2eaa-4449-8f13-811b77a89688)
+
 7. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token`, `vagov_refresh_token`, `vagov_anti_csrf_token`, & `vagov_info_token` cookies, stored in the browser.
+
   | Cookie Name | Description |
   | --- | --- |
   | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
   | vagov_refresh_token | May contain user information, used to obtain new tokens |
   | vagov_anti_csrf_token | Optional feature to preven cross-site request forgery |
   | vagov_info_token | Used by client to determine timeout counters |
+
+  ![token](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/74a4b852-f5f2-4aee-8317-fbd1818e6c9b)
+
 8. Client uses access token cookie to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `vagov_access_token=<accessTokenHash>`
     - response: `"data": { user_data }`
+   
+    ![user](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/11eee0a5-c0e0-4044-9152-db974b7de9ed)
+
 9. Client uses the refresh token to get an new token set (when access token reaches expiry) by querying the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
+    ![refresh](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/c4c7ff98-c8ab-48b7-b294-bb784b19124f)
+
 
 ## Parameters & Return Values
 
