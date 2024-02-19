@@ -82,18 +82,33 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
 
 1. User selects which credential service provider (CSP) they would like to authenticate with in the client application.
 2. Client directs user to SiS OAuth `/authorize` endpoint with specific query parameters that conform to their preregistered Client Config.
+     ![authorize](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/62cd6d5e-b685-42a1-86b4-68dd5001c632)
+
 3. SiS redirects to CSP website for user to enter credentials.
 4. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
+   ![sis_callback](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/60279fd6-6156-4b6b-856e-26be5014ab5c)
+
 5. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
+  ![api_client_callback](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/b9b3ef07-dc6d-4e47-a71d-b5ab544591ab)
+   
 6. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token` &  `vagov_refresh_token`
+   
   | Token Name | Description |
   | --- | --- |
-  | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
-  | vagov_refresh_token | May contain user information, used to obtain new tokens |
+  | access_token | Used to access authenticated pages on VA.gov, contains no user information |
+  | refresh_token | May contain user information, used to obtain new tokens |
+  
+  ![postman_token](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/587bc1fd-5b6c-4d3b-93b9-0efa1d9d32f4)
+
 7. Client uses access token to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `Authorization: Bearer <accessTokenHash>`
     - response: `"data": { user_data }`
+   
+    ![introspect](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/cddb35f5-78f4-4f15-8891-ca4056d25599)
+
 8. Client uses the refresh token to get a new token pair (when access token reaches expiry) by querying the `/refresh` endpoint. New tokens are returned in a JSON payload identical to those returned from the `/token` endpoint.
+
+  ![api_refresh](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/c0f96083-7669-4ef4-8858-a60886e2a90e)
 
 ## Parameters & Return Values
 
