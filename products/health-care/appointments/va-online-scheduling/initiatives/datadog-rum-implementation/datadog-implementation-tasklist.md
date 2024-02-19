@@ -1,4 +1,4 @@
-# Feature Brief - DataDog RUM Implementation Tasklist 
+# Feature Brief - DataDog RUM Implementation  
 
 
 ## Objective: 
