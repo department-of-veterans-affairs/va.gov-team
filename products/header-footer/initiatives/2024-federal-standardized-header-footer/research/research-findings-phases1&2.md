@@ -165,24 +165,11 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 **Recruitment criteria**
 
-We talked to **9 participants.**
+We talked to **19 participants.**
 
 Audience segment:
 * Veterans: 9 
 * Family members of a Veteran: 2 (also a Veteran)  
-
-Applied for VA benefits under the PACT Act?
-* No: 8
-* Yes: 1 (applied the week before the session)
-
-VA benefit usage:
-* Don't use VA health care: 1 
-* Don't have VA disability compensation: 3
-
-Service years:
-* Included 1989 or earlier: 4
-* Included 1990 or later:   2 
-* Included both *before and after* 1990: 3 
 
 Gender:
 * Male: 7 
@@ -193,46 +180,46 @@ LGBTQ+: 0
 
 
 Devices used during study: 
-* Desktop: 8 
-* Smart phone: 1 
+* Desktop:  
+* Smart phone:  
 
 
 Age:
 * 25-34: 
-* 35-44: 1
-* 45-54: 2
-* 55-64: 3
-* 65+: 3
+* 35-44: 
+* 45-54: 
+* 55-64: 
+* 65+: 
 
 
 Education:
-* High school degree or equivalent: 0 
-* Some college (no degree): 0
-* Associate's degree, trade certificate or vocational training: 3
-* Bachelor's degree: 1
-* Master's degree: 5
+* High school degree or equivalent:  
+* Some college (no degree): 
+* Associate's degree, trade certificate or vocational training: 
+* Bachelor's degree: 
+* Master's degree: 
 * Doctorate degree: 
 
 Geographic location:
-* Urban: 4
-* Rural: 5
+* Urban: 
+* Rural: 
 
 Race:
-* White: 7
-* Black: 1
-* Hispanic: 1
-* Biracial: 0
-* Asian: 0
-* Native: 0
+* White: 
+* Black: 
+* Hispanic: 
+* Biracial: 
+* Asian:
+* Native: 
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: 2
-* AT user: 0
+* Cognitive: 
+* AT user: 
 
 ## Underserved groups we haven’t talked to 
 
-This research does not include the perspectives of the following marginalized Veteran groups:
+This research does not include the perspectives of the following marginalized Veteran groups: UPDATE!
 - No degree after high school
 - Identify as Biracial, Asian, Native, or LGBTQ+
 - Other than honorable discharge
