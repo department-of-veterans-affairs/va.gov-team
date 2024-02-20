@@ -833,5 +833,3 @@ Note: There are other studies that look at the 'one thing per page' pattern whic
 * After they submit a query, people need to know how long they will have to wait, where your query is being routed, how to find and track progress, and how to follow up if it's taking too long.
 * After someone receives an answer, they look for a way to close out the conversation. In addition, some people look to sign out directly from the chatbot.
 * There's not currently an accessible way for Veterans to provide feedback on VA.gov through Medallia.
-
-Note: Takeaways have been synthesized and written up in [Mural](https://app.mural.co/t/bluetiger5788/m/bluetiger5788/1686072152506/aa046e499d547b8c85fa4b35f4aeeefa4b2b232a?sender=u397f6dbbaed1b5b67b956658).
