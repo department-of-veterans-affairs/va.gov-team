@@ -1,5 +1,3 @@
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/54a17142-51ea-44f8-a748-686b04fbe2f9)# 21-22 / 21-22a: Required Fields
-
 #### Legend
 - :white_check_mark: = Required fields
 - 🟠 = Conditionally required
@@ -19,7 +17,7 @@ https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf
     2. Apt/Unit Number 
     3. City  :white_check_mark: 
     4. State  :white_check_mark: 
-    5. Country   
+    5. Country   :white_check_mark: 
     6. Zip Code/Postal Code  :white_check_mark: 
 8. Telephone Number 
 9. Email Address
@@ -32,7 +30,7 @@ https://www.vba.va.gov/pubs/forms/VBA-21-22-ARE.pdf
     2. Apt/Unit Number
     3. City :orange_circle: _required if claimant attribute exists_
     4. State :orange_circle: _required if claimant attribute exists_
-    5. Country 
+    5. Country :orange_circle: _required if claimant attribute exists_
     6. Zip Code/Postal Code :orange_circle: _required if claimant attribute exists_
 13. Claimant’s Telephone Number 
 14. Claimant’s Email Address
@@ -67,7 +65,7 @@ https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf
     2. Apt/Unit Number 
     3. City :white_check_mark: 
     4. State :white_check_mark: 
-    5. Country 
+    5. Country :white_check_mark:
     6. Zip Code/Postal Code :white_check_mark: 
 8. Telephone Number 
 9. Email Address
@@ -79,7 +77,7 @@ https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf
     2. Apt/Unit Number
     3. City  :orange_circle: _required if claimant attribute exists_
     4. State :orange_circle: _required if claimant attribute exists_
-    5. Country 
+    5. Country :orange_circle: _required if claimant attribute exists_
     6. Zip Code/Postal Code :orange_circle: _required if claimant attribute exists_
 14. Claimant’s Telephone Number 
 15. Claimant’s Email Address
