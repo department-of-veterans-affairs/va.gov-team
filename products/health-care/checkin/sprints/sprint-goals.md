@@ -87,7 +87,6 @@ ________________________________________________________________________________
         - ❗ 🟥 [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75402)
         - ❗ 🟩 [[CHIP] - Create initiateTravelClaim function ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75106)
         - ❗ 🟩 [[FE] - Create basic pages and router for travel app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75269)
-        - ❗ 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75446)
         - ❗ 🟩 [[FE] [SPIKE] Determine level of effort to refactor the router ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75795)
         - ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
         - ❗ 🟩 [[FE] - Create travel intro page #75745](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75745)
