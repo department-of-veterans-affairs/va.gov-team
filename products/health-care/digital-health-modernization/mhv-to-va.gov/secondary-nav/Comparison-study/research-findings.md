@@ -131,21 +131,19 @@ Audience segment:
 * Caregivers: 0 
 * Family members of a Veteran: 0 
 
-Gender:
-* Male: x 
-* Female: x 
-
+Gender (split as evenly as possible among 4 groups):
+* Male: 9 
+* Female: 7 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 1
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
+* Desktop: 8 
+* Tablet: 0 
+* Smart phone: 8
 * Assistive Technology: x
 
 
