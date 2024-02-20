@@ -163,8 +163,6 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 ## Who we talked to 
 
-**Recruitment criteria**
-
 We talked to **19 participants in research phases 1 and 2** together.
 
 Audience segment (some people were in multiple segments):
@@ -189,43 +187,46 @@ Devices used during study:
 
 
 Age:
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65+: 
+* 25-34: 2
+* 35-44: 4
+* 45-54: 2
+* 55-64: 6
+* 65+:   4
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent:  
-* Some college (no degree): 
-* Associate's degree, trade certificate or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
-* Doctorate degree: 
+* High school degree or equivalent: 3
+* Some college (no degree): 5
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 4
+* Master's degree:   6
+* Doctorate degree:  0
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban: 12
+* Rural:  7
 
 Race:
-* White: 
-* Black: 
-* Hispanic: 
-* Biracial: 
-* Asian:
-* Native: 
+* White: 6
+* Black: 8
+* Hispanic: 4
+* Biracial: 1
+* Asian:  0
+* Native: 0
+* Unknown: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: 
-* AT user: 
+* Cognitive: 9
+* AT user:   9 
+  * Screen reader users: 5
+  * Screen magnifier users: 5
 
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups: UPDATE!
-- No degree after high school
-- Identify as Biracial, Asian, Native, or LGBTQ+
+- Identify as Asian or Native, or LGBTQ+
 - Other than honorable discharge
 - Immigrant origin
 - Expat (living abroad)
