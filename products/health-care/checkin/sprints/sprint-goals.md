@@ -1,39 +1,6 @@
 # SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
-______________________________________________________________________________________________________________________________________________________
-
-## 3/20/2024 - 4/2/2024  ------- FUTURE FUTURE / TENTATIVE ------
-#### SPRINT GOALS
- - **GOAL: Support Production**  
- - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support Travel for CERNER Sites**
-- **GOAL: Increase PCI Usage**
-     - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Address Tech Debt**
-
-#### PLANNED RELEASES 
-- NONE
-  
-#### SPRINT TICKETS
-- **GOAL: Onboard New Team Members**
-    - Create Platform onboarding tickets for each
-- **GOAL: Support Production**
-    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
-- **GOAL: Integrate with CERNER**
-    - **Sub Goal: Support Travel for CERNER Sites**  
-        - ❗ 🟥 TBD
-        - ❗ 🟩 TBD
-        - ❗ 🟦 TBD
-- **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: Analyze current metrics to see what they tell us**               
-       - 🟥 [Research] Analyze GA Metrics
-       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76036)
-- **GOAL: Address Tech Debt**            
-
-------- END FUTURE / TENTATIVE ------
-</details>
-
 <details>
 <summary>FUTURE SPRINT - 3/6/2024 - 3/19/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
