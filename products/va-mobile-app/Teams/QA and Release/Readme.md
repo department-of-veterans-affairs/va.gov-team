@@ -34,4 +34,8 @@ QA and Release team's expectation is that teams engaging with QA will proactive 
 | Release Manager | Tom Gammons |
 | Release Testing | Tom Gammons |
 
+
 ![mobile-testing_service](https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1ab628a-4e15-4b1c-bbf1-2fdf169a8322)
+
+Sprint QA Process Flow 
+[QA process flow.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14344805/QA.process.flow.pdf)
