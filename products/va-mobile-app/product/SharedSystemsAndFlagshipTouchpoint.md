@@ -3,7 +3,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 **Agenda/Notes**
 02/20/24
 
-* **Lovell/Oracle Transition**
+* **Lovell/Oracle Transition (Alayna)** 
   *  Coordinating AF and backened changes
 
   
