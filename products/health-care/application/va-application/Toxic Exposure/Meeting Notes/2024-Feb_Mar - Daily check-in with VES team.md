@@ -7,9 +7,13 @@
 
 #### Notes
 - There were 3 additional exposure items that were missed
-- VES team not adding Radiation or Agent Orange questions on VES
+     - SHAD
+     - Camp Lejuene
+     - Mustard Gas
+- VES team not adding Question A (Radiation) or Question D (Agent Orange) on VES
+     - The Date range fields for Agent Orange will be added in June 2024
 - EZonline will have these questions on UI but will map to existing check boxes
-     - EZonline will not display the Date range fields for Agent Orange question
+     - EZonline will not display the Date range fields for Agent Orange question until June 2024, when VES is ready
 - 100 character limit agreed upon for freeform text box
      - Confirmed again this is to be alphanumeric only
 - Update: Chapley is no longer on the team, Lihan will continue the work
