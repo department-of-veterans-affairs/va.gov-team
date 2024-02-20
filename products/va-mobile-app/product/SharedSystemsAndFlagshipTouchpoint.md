@@ -2,6 +2,11 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 
 **Agenda/Notes**
 02/20/24
+
+* **Lovell/Oracle Transition**
+  *  Coordinating AF and backened changes
+
+  
 * **DS Button Component in Flagship app (Kelly)**
    * All Stories are closed, are we all done?
 
