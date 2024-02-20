@@ -2,9 +2,8 @@
 
 - [ ] Make sure CodePen is functional
 	- [Single dot](https://bit.ly/49AMEBs)
- 	- [Badge indicator](https://codepen.io/allisonlu/full/gOEQZYY) - WIP
+ 	- [Badge indicator](https://bit.ly/4bL5YxH)
 	- [Slim Alert](https://bit.ly/3wnLdIq)
- - 
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
@@ -23,7 +22,7 @@ Thanks for joining us today! My name is Matt. Today we're going to be reviewing 
 
 Before we dive into it, could you please verify if you'll be using a screen reader for the session?
 - *If no, switch to [sighted user conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide.md).
-- *If yes, ask:* Okay, what kind of screen reader is it?
+- *If yes, ask:* Okay, what kind of screen reader is it, and what kind of computer are you on?
 
 Okay, got it. Thank you! Before we start, a few things I want to mention:
 
@@ -50,9 +49,9 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49AMEBs) and then share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. Now please navigate to the "sign in" button and enter a username and a password. This is just a test, so you can enter anything in these fields. 
+Okay great, I can see your screen. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account and have arrived 
 
-- *Once they have logged in and the full page has loaded* Now that you've logged in, how would you typically go about navigating the page?
+- *Once they have logged in and the full page has loaded* imagining that you've logged in, how would you typically go about navigating the page?
 
 - *Let them navigate down the page however they prefer. If they come across the links with indicators, ask:* What are the screen reader cues telling you about these links? How are you interpreting each of them? *Gauge whether the cues are stopping them in their tracks and seem important or are being ignored*
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have any unread health care messages?
@@ -67,7 +66,7 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button a
 
 #### Move on to badge indicator
 
-Ok, we have one more weblink to share with you. (Share link, provide assistance as needed)
+Ok, we have one more weblink to share with you. [Share link, provide assistance as needed](https://bit.ly/4bL5YxH)
 
 - What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
 
