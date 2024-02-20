@@ -62,7 +62,7 @@ To be inclusive of diverse perspectives, we plan to recruit participants from va
 
 ### Veterans
 How many names are we seeking?
-- The VTS team is seeking interviews with 12-15 veterans.
+- The VTS team is seeking interviews with 20 veterans.
 
 What criteria should be used to develop the Veteran outreach list?
 
@@ -70,13 +70,13 @@ What criteria should be used to develop the Veteran outreach list?
 There are two criteria that are the highest priorities. The team is aiming for certain percentages on the following criteria:
 
 Time since separation:
-- 50% -- Veterans who separated within the past 2 years
-- 50% -- Veterans who separated more than 2 years ago
+- 10 veterans -- Veterans who separated within the past 2 years
+- 10 veterans -- Veterans who separated more than 2 years ago
   
 Current age:
-- 30% -- Veterans who are 35 or younger
-- 30% -- Veterans in their 40s or 50s
-- 40% -- Veterans who are 65 or older
+- 6 veterans -- Veterans who are 35 or younger
+- 6 veterans -- Veterans in their 40s or 50s
+- 8 veterans -- Veterans who are 65 or older
 
 **Secondary criteria (nice-to-haves)**
 - The team would also like to have 50% be Veterans who have previously engaged with the VA and 50% Veterans who have not previously engaged.
@@ -93,7 +93,7 @@ Gender:
 
 ### Transitioning Servicemembers (TSMs)
 How many names are we seeking?
-- The VTS team is seeking interviews with 3-5 TSMs.
+- The VTS team is seeking interviews with 6 TSMs.
 
 What criteria should be used to develop the TSM outreach list?
 - We would like for the listed TSMs to be within one year of their separation date.
@@ -102,7 +102,7 @@ What criteria should be used to develop the TSM outreach list?
 
 ### Commanding Officers (COs)
 How many names are we seeking?
-- The VTS team is seeking interviews with 2-3 COs.
+- The VTS team is seeking interviews with 4 COs.
 
 What criteria should be used to develop the TSM outreach list?
 - We are seeking CO participants from a mix of Service Branches.
@@ -111,62 +111,116 @@ What criteria should be used to develop the TSM outreach list?
 ### Screening questions
 
 ### Veterans
-Was your last military separation more or less than 2 years ago from today?
--	Response options: More than 2 years ago, Less than 2 years ago
--	(Individual participants can qualify with either answer, but as noted above, we’re looking for a 50-50 split across our Veteran sample of more than 2 years ago vs. less than 2 years ago.)
+1. Was your last military separation more or less than 2 years ago from today?
+- More than 2 years ago
+- Less than 2 years ago
   
-What is your current age?
--	Response options: 35 years old or younger, 35-39 years old, 40-59 years old, 60-64 years old, or 65 years or older
--	(Answering “35 years old or younger”, “40-59 years old”, or “65 years or older” would qualify the participant.)
+What is your current age?  ***Already In Database***
+- 35 years old or younger
+- 35-39 years old
+- 40-59 years old
+- 60-64 years old
+- 65 years or older
+  
+(Answering “35 years old or younger”, “40-59 years old”, or “65 years or older” would qualify the participant.)
 
-Have you previously engaged with the VA or VA services?
--	Response options: Yes, No
--	(Individual participants can qualify with either answer, but as noted above, we’re looking for a 50-50 split across our Veteran sample of has vs. has not previously engaged with the VA.)
+2. Have you previously engaged with the VA or VA services?
+- Yes
+- No
   
-What service branch(es) did you serve during your time as an active servicemember?
--	Response options: Air Force, Army, Coast Guard, Marine Corps, National Guard, Navy, Space Force
--	(Individual participants can qualify with any of these answers. As much as possible, we would like participants from a mix of service branches.)
-  
-Which of the following describe your race and/or ethnicity? You may choose multiple options.
--	Response options: American Indian or Alaska Native, Asian, Black or African American, Hispanic or Latino, Multi-racial, Native Hawaiian or Other Pacific Islander, White, Other category not previously listed
--	(Individual participants can qualify with any of these answers. As noted above, we are seeking a 50-50 split of white vs. non-white participants across our entire sample.)
--	(To simplify the white vs. non-white percentage split for the Perigean team, we have combined race and ethnicity into the same question.)
-  
-Which of the following describe your gender?
--	Response options: Male, Female
--	(Individual participants can qualify with either answer, but as noted above, we’re looking for a 50-50 split across our entire sample of male vs. female.)
+What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
+- Air Force
+- Army
+- Coast Guard
+- Marine Corps
+- National Guard
+- Navy
+- Space Force
+
+Which of the following describe your race and/or ethnicity? You may choose multiple options. ***Already In Database***
+- American Indian or Alaska Native
+- Asian
+- Black or African American
+- Hispanic or Latino
+- I prefer not to answer
+- I prefer to self-describe
+- Native Hawaiian or Other Pacific Islander
+- White
+
+Which of the following describe your gender? ***Already In Database***
+- Male
+- Female
+
 
 ### Transitioning Servicemembers (TSMs)
 When do you expect to separate from active military service?
--	Response options: Within the next year, More than one year from now
--	(Answering “within the next year” would qualify the participant.)
+- Within the next year
+- More than one year from now
 
-What service branch are you currently serving?
--	Response options: Air Force, Army, Coast Guard, Marine Corps, National Guard, Navy, Space Force
--	(Individual participants can qualify with any of these answers. As much as possible, we would like participants from a mix of service branches.)
+(Answering “within the next year” would qualify the participant.)
 
-Which of the following describe your race and/or ethnicity? You may choose multiple options.
--	Response options: American Indian or Alaska Native, Asian, Black or African American, Hispanic or Latino, Multi-racial, Native Hawaiian or Other Pacific Islander, White, Other category not previously listed
--	(Individual participants can qualify with any of these answers. As noted above, we are seeking a 50-50 split of white vs. non-white participants across our entire sample.)
--	(To simplify the white vs. non-white percentage split for the Perigean team, we have combined race and ethnicity into the same question.)
+What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
+- Air Force
+- Army
+- Coast Guard
+- Marine Corps
+- National Guard
+- Navy
+- Space Force
 
-Which of the following describe your gender?
--	Response options: Male, Female
--	(Individual participants can qualify with either answer, but as noted above, we’re looking for a 50-50 split across our entire sample of male vs. female.)
+Which of the following describe your race and/or ethnicity? You may choose multiple options. ***Already In Database***
+- American Indian or Alaska Native
+- Asian
+- Black or African American
+- Hispanic or Latino
+- I prefer not to answer
+- I prefer to self-describe
+- Native Hawaiian or Other Pacific Islander
+- White
+
+Which of the following describe your gender? ***Already In Database***
+- Male
+- Female
 
 ### Commanding Officers (COs)
-What service branch are you currently serving?
--	Response options: Air Force, Army, Coast Guard, Marine Corps, National Guard, Navy, Space Force
--	(Individual participants can qualify with any of these answers. As much as possible, we would like participants from a mix of service branches.)
+What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
+- Air Force
+- Army
+- Coast Guard
+- Marine Corps
+- National Guard
+- Navy
+- Space Force
 
-Which of the following describe your race and/or ethnicity? You may choose multiple options.
--	Response options: American Indian or Alaska Native, Asian, Black or African American, Hispanic or Latino, Multi-racial, Native Hawaiian or Other Pacific Islander, White, Other category not previously listed
--	(Individual participants can qualify with any of these answers. As noted above, we are seeking a 50-50 split of white vs. non-white participants across our entire sample.)
--	(To simplify the white vs. non-white percentage split for the Perigean team, we have combined race and ethnicity into the same question.)
+Which of the following describe your race and/or ethnicity? You may choose multiple options. ***Already In Database***
+- American Indian or Alaska Native
+- Asian
+- Black or African American
+- Hispanic or Latino
+- I prefer not to answer
+- I prefer to self-describe
+- Native Hawaiian or Other Pacific Islander
+- White
 
-Which of the following describe your gender?
--	Response options: Male, Female
--	(Individual participants can qualify with either answer, but as noted above, we’re looking for a 50-50 split across our entire sample of male vs. female.)
+Which of the following describe your gender? ***Already In Database***
+- Male
+- Female
+
+### Overall Screening Questions to Ask
+1. When do you expect to separate from active military service?
+- Within the next year
+- More than one year from now
+- Serving on Active duty
+- Serving as a Reservist 
+
+Was your last military separation more or less than 2 years ago from today?
+- More than 2 years ago
+- Less than 2 years ago
+- Currently on Active duty
+  
+Have you previously engaged with the VA or VA services?
+- Yes
+- No
 
 ## Timeline
 We plan to begin interviews with Veterans, TSMs, and COs on Monday, March 4th. We will continue interviews through Tuesday, March 12th.
