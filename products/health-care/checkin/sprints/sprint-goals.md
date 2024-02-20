@@ -245,7 +245,7 @@ ________________________________________________________________________________
         - ❗ 🟥 [IA and URL review from Patient Check In (PCI)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75317)
             - This is the CAIA review ticket, we may or may not have feedback to address
         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
-        - ❗ 🟥 [[UX] [Placeholder] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
+        - ❗ 🟥 [[UX] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
         - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
         - ❗ 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75402)
@@ -264,12 +264,10 @@ ________________________________________________________________________________
         - ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76247)
         - ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75563)
         - ❗ 🟦 [[BE] Modify Appointments Identifer Serializer to add IDIPI & appointment type field for OH appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75543)
-        - ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app#75563](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75563)
-        - ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller#76247](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76247)
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
         - 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
-        - [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
+        - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
         - 🟥 [Update Design Artifacts for Release #76062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76062)
         - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)
 - **GOAL: Increase Usage of PCI**    
