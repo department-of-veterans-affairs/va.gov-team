@@ -47,7 +47,6 @@ Below are the ClientConfig attributes that necessary for a successful mobile or 
 ## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/20125855/177562919-43b99aa7-287b-475b-aa2f-da0e00c05a5c.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
 
 ## Flow Diagrams
 
@@ -68,19 +67,29 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
 
 ### GET Routes
 
-#### [Authorization](../endpoints/authorize.md) - initiates a session with SiS and prompts the user to enter credentials
+#### [Authorize](../endpoints/authorize.md) 
+- initiates a session with SiS and prompts the user to enter credentials
 
-#### [Introspect](../endpoints/introspect.md) - retrieves user information (authenticated route)
+#### [Introspect](../endpoints/introspect.md)
+- retrieves user information
+- authenticated route
 
-#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - looks up a user and ends all of their sessiosn (authenticated route)
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md)
+- looks up a user and ends all of their sessions
+- authenticated route
 
 ### POST Routes
 
-#### [Token](../endpoints/token.md#cookie--api-pkce-auth) - provides the client with access & refresh tokens after authentication
+#### [Token](../endpoints/token.md#cookie--api-pkce-auth)
+- provides the client with access & refresh tokens after authentication
 
-#### [Refresh](../endpoints/refresh.md) - updates a user session and obtain new tokens (refresh token authenticated route)
+#### [Refresh](../endpoints/refresh.md)
+- updates a user session and obtain new tokens
+- refresh token authenticated route
 
-##### [Revoke](../endpoints/revoke.md) - ends the user session (refresh token authenticated route)
+##### [Revoke](../endpoints/revoke.md)
+- ends the user session
+- refresh token authenticated route
 
 ## API OAuth Workflow
 
