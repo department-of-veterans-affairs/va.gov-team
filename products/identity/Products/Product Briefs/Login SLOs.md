@@ -23,9 +23,10 @@ For this first iteration, the focus will be on:
 
 
 ## Use Cases:
-| User          | Problem       | How does this solution address the problem?  |
-| ------------- |:-------------:| -----:|
-| |   |   |
+- As a Veteran, I should be able to login to va.gov 99.9999% of the time as measured weekly by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to login to va.gov, as measured weekly by the _SIS Authorize_ in datadog. If the weekly average time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as measured weekly by the _SIS Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately. If the average time drops below 99.999%, the root cause will be investigated and resolved.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to logout from va.gov, as measured weekly by the _SIS Logout_ dashboard in datadog. If the weekly average logout time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
 
 ## Assumptions:
 * 
