@@ -9,6 +9,12 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
     - Log into the AWS account
     - Navigate to `IAM` > `Users` > `CMS-service-account-1` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, make sure to copy secret key. (github)
     - Navigate to `IAM` > `Users` > `CMS-service-account-2` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, make sure to copy secret key. (Datadog)
+1. Update AWS Secrets Manager
+    - Navigate to `AWS Secrets Manager` > `Secrets`
+    - Update `tevi/cms_service_account_1/aws_access_key_id`
+    - Update `tevi/cms_service_account_1/aws_secret_access_key`
+    - Update `tevi/cms_service_account_2/aws_access_key_id`
+    - Update `tevi/cms_service_account_2/aws_secret_access_key`
 1. Update Datadog
     - Log in to Datadog
     - Modify the [Amazon Web Services Inegration Configuration](https://tevi.ddog-gov.com/integrations?accountId=7f66207a-2e15-4496-b9fb-0572a40c2008&integrationId=amazon-web-services)
@@ -36,9 +42,4 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
     - Log into the AWS account
     - Navigate to `IAM` > `Users` > `CMS-service-account-1` > `Security Credentials` tab > `Access Keys` > `<old key>` > `actions` > `Delete`
     - Navigate to `IAM` > `Users` > `CMS-service-account-2` > `Security Credentials` tab > `Access Keys` > `<old key>` > `actions` > `Delete`
-1. Update AWS Secrets Manager
-    - Navigate to `AWS Secrets Manager` > `Secrets`
-    - Update `tevi/cms_service_account_1/aws_access_key_id`
-    - Update `tevi/cms_service_account_1/aws_secret_access_key`
-    - Update `tevi/cms_service_account_2/aws_access_key_id`
-    - Update `tevi/cms_service_account_2/aws_secret_access_key`
+
