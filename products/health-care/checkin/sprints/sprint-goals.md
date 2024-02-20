@@ -112,6 +112,12 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## 2/7/2024 - 2/18/2024 - LAST SPRINT OF THE BAH CONTRACT
+
+#### NOTES
+- Sprint was shortened because of the end of the contract
+- Had to offboard 2 team members
+- Many items needed to rollover 
+
 #### SPRINT GOALS
  - **GOAL: Offboard Team Members**
  - **GOAL: Support Production**  
