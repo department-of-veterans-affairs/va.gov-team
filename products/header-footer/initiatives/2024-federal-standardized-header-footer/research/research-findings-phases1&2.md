@@ -59,13 +59,13 @@ The findings from this research show how the proposed header and footer design i
 
 We conducted **remote usability testing** over Zoom in 3 research phases to get feedback from participants using a design prototype showing VA.gov:
 
-Phase | Participants | Tasks | Dates | Topline Summary
+Research Phase | Participants | Tasks | Dates | Topline Summary
 ----- |------|-------|--------|--------
-1 | Non-assistive technology users | Unauthenticated + authenticated | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
-2 | Assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
-3 | Assistive and non-assistive technology users | Authenticated only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+1 | 10 non-assistive technology users | Unauthenticated + authenticated | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
+2 | 9 assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
+3 | 4 assistive + 8 non-assistive technology users | Authenticated only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
-This report will cover Phases 1-2 in detail. Phase 3 is covered in the topline summary link above.
+This report will cover Phases 1-2 in detail. Phase 3 is covered in the third topline summary link above.
 
 ## Participants
  Perigean recruited all of the participants. In Phases 1-2, **we talked to 19 people**.
@@ -165,23 +165,27 @@ Preliminary ideas for recommendations are listed below as input to discussion wi
 
 **Recruitment criteria**
 
-We talked to **19 participants.**
+We talked to **19 participants in research phases 1 and 2** together.
 
-Audience segment:
-* Veterans: 9 
-* Family members of a Veteran: 2 (also a Veteran)  
+Audience segment (some people were in multiple segments):
+* Veterans:  18
+* Family members of a Veteran: 4
+* Caregivers of a Veteran: 2
+* Service members: 1 
+  
 
 Gender:
-* Male: 7 
-* Female: 2
+* Male:  11
+* Female: 8 
 
 
-LGBTQ+: 0
+LGBTQ+: 1
 
 
 Devices used during study: 
-* Desktop:  
-* Smart phone:  
+* Desktop: 8
+* Smart phone: 7
+* Tablet:  4
 
 
 Age:
