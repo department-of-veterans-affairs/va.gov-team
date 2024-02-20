@@ -141,68 +141,27 @@ LGBTQ+:
 * Gay, lesbian, or bisexual: 1
 
 Devices used during study: 
-* Desktop: 8 
-* Tablet: 0 
+* Desktop: 8  
 * Smart phone: 8
-* Assistive Technology: x
+* Assistive Technology: 1
 
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+Age (We requested that Perigean find 2 participants 55+ and 2 participants under age 55 for each group. This was true for 2 groups; the other 2 groups had 3 participants over age 55):
+* 25-34: 1
+* 35-44: 0
+* 45-54: 5
+* 55-64: 4
+* 65+: 6
+* Unknown: 0
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 11
+* Black: 4
+* Hispanic: 1
 
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+Disability and Assistive Technology (AT) (Requested 1 screenreader user and 1 pinch-magnifier per group but another AT study wass running at the same time so expected to not meet that request):
+* Cognitive: 5 (Requested at least 1 participant/group; this was met and 1 group had 2 participants with a cognitive disability)
+* AT beginner: 1 (between beginner and intermediate)
+* AT advanced user: 2
+* Desktop screen reader: 1
+* Mobile screen reader: 1
+* Magnification/Zoom: 2
