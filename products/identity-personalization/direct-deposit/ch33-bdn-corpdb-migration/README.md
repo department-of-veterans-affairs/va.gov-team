@@ -1,6 +1,6 @@
 # Project Outline - Ch33 Migration to CorpDB
 
-**Last updated 2/15/2024**  - `First Draft` 
+**Last updated 2/20/2024** 
 
 ## Table of Contents 
 
@@ -25,15 +25,66 @@ Chapter 33 (Ch33) education benefits are paid to veterans using a system called 
 Today, if veterans receive CH33 and C&P benefits, there are two separate payment processes running, one from BDN and the other from CorpDB. This allows veterans to input separate payment information for each benefit. As the VA migrates CH33 to the new system, payment instructions for both types of benefits must be identical.  
 
 
-
-
-
-
-## Problem Statement 
+### Problem Statement 
 CorpDB limits the payee information per person to one set of payment instructions, any veteran that receives both C&P and CH33 benefits must have ONE set of payment instructions on file in CorpDB. 
 
-## Proposed Solution 
-CH33 EDU benefits likely need to pass information through Lighthouse 
+### Proposed Solution 
+CH33 EDU benefits likely need to pass information through Lighthouse.
+
+## Teams and responsibilities
+
+### Authenticated experience (VA.gov profile)
+
+Leads: Samara Strauss, Travis Cahill
+
+The VA.gov profile team is responsible for the following:
+
+- Overall coordination of this effort (through Samara)
+- Updating the profile interface to combine the education and disability direct deposit forms into one
+- Updating connections to Lighthouse to allow education benefit recipients to update direct deposit
+- Coordinating testing across systems
+- Launching and monitoring functionality
+
+### Sitewide/Content
+
+Leads: Danielle Thierry, Beth Potts, Randi Hecht
+
+The Sitewide/content team is responsible for:
+
+- Content/communications guidance around external comms
+- Content updates for VA.gov
+
+### Lighthouse
+
+Leads: Janet Coutinho, Lorri Glover, David Lennon
+
+Lighthouse is responsible for:
+
+- Updating their code to allow education benefit recipients to update direct deposit via the existing comp & pen integration
+- Coordination with BGS
+- Working with us on all testing and validation
+- Support as needed through this engagement
+
+### BGS
+
+Lead: John Dell
+
+- Updating their code to allow education benefit recipients to update direct deposit via the existing comp & pen integration
+- Coordination with Lighthouse
+- Working with us on all testing and validation
+- Support as needed through this engagement
+
+### GI Bill (1990) form team
+
+Lead: Riley Ross
+
+- Updating the Chapter 3 GI Bill (1990) form to send direct deposit info to CorpDB.
+
+### 526/527 team
+
+Lead: Julie Strothman
+
+- Managing any needs for the 526/527
 
 ## Measuring Success 
 
