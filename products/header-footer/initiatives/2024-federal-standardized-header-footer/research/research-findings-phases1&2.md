@@ -225,11 +225,11 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-This research does not include the perspectives of the following marginalized Veteran groups: UPDATE!
-- Identify as Asian or Native, or LGBTQ+
+This research does not include the perspectives of the following marginalized Veteran groups: 
+- Identify as Asian or Native
 - Other than honorable discharge
 - Immigrant origin
 - Expat (living abroad)
-
+- Beginner AT user
 
 ![VA-recruitment-checker](./images/VA-recruitment-checker.png)
