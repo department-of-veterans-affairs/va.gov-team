@@ -65,7 +65,7 @@ All sessions Will be remote on Zoom.
 - Conversation guide [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-usability-test-conversation-guide.md)
 - [Staging environment](https://staging.va.gov/) We will generate an unique password for each interview session.
   	- Test account user name: vets.gov.user+228@gmail.com
-  	- Passwords: [Link to sensitive repo](url goes here)
+  	- Passwords: [Link to sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy/medical%20supplies-staging%20passwords.md)
 
 
 ## Recruitment	
