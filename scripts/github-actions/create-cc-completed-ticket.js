@@ -107,14 +107,6 @@ async function getGHIssue(number) {
   return data; 
 }
 
-// add milestone to a GH ticket
-async function addMilestone(number, milestone) {
-  const URL = `issues/${number}`
-  await axiosInstanceGH.patch(URL, {
-    milestone
-  });
-}
-
 // close the completed ticket
 async function closeIssue(number) {
   const URL = `issues/${number}`;
@@ -348,7 +340,7 @@ async function main() {
     const newTitle = getTitleInfo(body);
 
     // create completed ticket
-    const newTicketNumber = await createCompletedTicket(newTitle, milestone);
+    const newTicketNumber = await createCompletedTicket(newTitle, milestone.number);
 
     // get ZH id for completed ticket
     const newTicketId = await getCompletedTicketZHId(newTicketNumber);
