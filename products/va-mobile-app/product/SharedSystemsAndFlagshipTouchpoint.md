@@ -1,15 +1,18 @@
 This meeting is to discuss and address any dependencies between the VA Mobile Shared Systems teams and the Flagship teams that are using their systems.
 
 **Agenda/Notes**
-02/20/24
 
+
+02/20/24
+* **DS Button Component in Flagship app (Kelly)**
+   * All Stories are closed, are we all done?
+       * Binny confirmed "VAButton and Button do not exist as components in the current develop branch so I think that’s a safe assumption as to 100% adoption."
 * **Lovell/Oracle Transition (Alayna)** 
   *  Coordinating AF and backened changes
   *  See epic: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7828
 
   
-* **DS Button Component in Flagship app (Kelly)**
-   * All Stories are closed, are we all done?
+
 
   
 02/06/24
