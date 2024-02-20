@@ -1,4 +1,4 @@
-**December 1 - December 31, 2023**
+# December 1 - December 31, 2023
 
 109 android reviews, 48 iOS reviews
 
