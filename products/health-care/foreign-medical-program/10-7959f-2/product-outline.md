@@ -1,6 +1,5 @@
 
-# Product Outline
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
+# Product Outline - 10-7959f-2 Claim Cover Sheet
 
 ---
 
@@ -66,11 +65,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
-
 --- 
 
 ## Launch Strategy
@@ -91,7 +85,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-
+- research and discovery need to be kicked off.
+  
+Key deliverables:
+- design:
+- user flows:
+- research:
+- testing plan:
+  
 ### Key Decisions
 
 ---
@@ -99,6 +100,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-1%20(1).pdf
 
 ### After
 
@@ -112,7 +114,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - GitHub Label: 10-7959f-2
 - Slack channel: ivc-forms
 - Product POCs: Mary Wang
-- Stakeholders: 
+- Stakeholders: Andy S, Jennifer Rivera
 
 </details>
 

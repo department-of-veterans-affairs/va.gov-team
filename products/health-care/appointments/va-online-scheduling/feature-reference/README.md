@@ -5,6 +5,8 @@
 
 Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
+[How to update the feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-update-feature-reference.md)
+
 ## Access the Appointments Tool
 
 | Feature | Usage | 

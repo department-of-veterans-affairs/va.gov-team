@@ -1,4 +1,4 @@
-# Nametage Frotend Documentation
+# Nametag Frotend Documentation
 **Last updated - February 14, 2024 - published**
 _These specs are largely pulled from the documentation done by the Benefits team in 11/23_
 

@@ -2,14 +2,16 @@
 
 
 
-## Sign-in alert to start your form - authenticated only
+## Sign-in alerts
 
 **Current examples:**  
 https://design.va.gov/templates/forms/introduction#authenticated  
 https://design.va.gov/components/alert#sign-in-to-start-your-application---pre-fill
 
+----------
 
-**Revision (reviewed by Danielle)** 
+### Unauth version for people who need to sign in to start form 
+(reviewed by Danielle)
 
 #### [h2] Sign in now
 
@@ -17,14 +19,15 @@ You'll need to sign in to fill out this form. We can fill in some of your inform
 
 { Button } **Sign in to fill out your form **
 
-## Sign-in alert to continue form - [posting as seen on prod, needs review]
+-------------
 
-#### [h2] Your [form name] is in progress and was last saved on [date and time]
+### Auth version to continue form 
+(approved by Danielle)
 
-You can continue filing now for [form name], or come back later to finish your application
+#### [h2] You have a form in progress
 
-Your application **will expire on [date of expiration].**
+You last saved your [Full Name of VA Form (VA Form ##)] on [date and time]. You can continue filling out this form with your saved information until [expiration date]. If you don't submit your form by that date, you'll need to start over.
 
-{ Button } Continue your application 
+[button] Continue your form
 
-Start a new application 
+[text link] Start a new form

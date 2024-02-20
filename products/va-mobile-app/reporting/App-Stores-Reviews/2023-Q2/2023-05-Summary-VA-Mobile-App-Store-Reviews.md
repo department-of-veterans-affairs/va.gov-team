@@ -1,4 +1,4 @@
-**VA Health and Benefits App Store Reviews Summary: May 2023**
+# VA Health and Benefits App Store Reviews Summary: May 2023
 
 123 android reviews, 51 iOS reviews \
 174 reviews total

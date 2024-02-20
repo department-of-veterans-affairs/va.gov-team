@@ -37,13 +37,12 @@ Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc
 
 **Secondary:**
 * **Evaluate the usability of the personalized home screen and category screens** using high-level tasks that the participants will be asked to complete and **determine if any significant usability barriers (including app performance) exist** for participants who use the app with assistive technology vs without assistive technology. 
-  * Tasks represent a combination of Health and Benefits features. They will be chosen based on the entry points that appear on the user’s personalized home screen (if no entry points appear, we will ask what they expect to be in that section). This could potentially include:
+  * Tasks represent a combination of Health and Benefits features, as well as several features available to all users. They will be chosen based on the entry points that appear on the user’s personalized home screen (if no entry points appear, we will ask what they expect to be in that section). This could potentially include:
 
     * How they’d expect to check the status of a disability claim
     * How they’d expect to complete an outstanding health task (refill a prescription, read a new message, check the details of an upcoming appointment)
     * Find a VA location
     * Veteran status card
-    * Find out their disability rating
 	
 **Outside the scope of this study:**
 We will not be evaluating the personalized home screen’s impact on task completion (that will be handled using analytics), the impact on the value of the app to users over time, the usability of features that are surfaced on the home screen, or the personalized home screen’s impact on 
@@ -87,10 +86,14 @@ This research will help us understand if/how the personalized app home screen de
   * Screenreader users scheduled in a block (with a11y ride along support)
   * Non-screenreader users scheduled in a block
 * As a part of the screening process, we will have Perigean:
-  * Confirm that participants have download Zoom onto their mobile device before the research session.
-  * Confirm that participants can log out of & into the app on their own.
-  * Help participants get the app build downloaded, installed & confirm that they can log into it successfully..
-* During the study session, we will ask participants to open the app build on their mobile device and share their screen with us while completing a series of tasks.
+  * Confirm that participants are Android users.
+  * Confirm that participants have download Zoom onto their mobile device (and can use it to screen share) before the research session.
+  * Confirm that participants canare willing and have room on their device to install a pre-release build of the VA mobile app on their mobile devices.
+  * Confirm that participants have VA login credentials that they can use to log out of & into the app on their own (a username and password, not biometrics).
+
+* The study study session will consist of two parts:
+  * Pt 1 - Setup: We will have participants screenshare on Zoom and then help them to download & install the test build on their mobile device. Then we will confirm that they can log into the test build successfully (if they can’t do all three, we will divert to Plan B, a short series of longitudinal questionsend the session).
+  * Pt 2 - Evaluative Session: We will ask participants to share their screen with us while completing a series of tasks.
 
 
 #### Location
@@ -99,9 +102,8 @@ Remote sessions via Zoom
 
 #### Research materials
 * Conversation guide
-* Pre-release build of the VA mobile app
+* Pre-release build of the VA mobile app, distributed via Firebase link
 * Research session sign up sheet
-
 	
 ## Recruitment	
 
@@ -113,53 +115,108 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 
 #### Primary criteria
+* All participants must be Android mobile users.
+* All participants must be willing to do an activity from their Android mobile device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
+* All participants must be able to independently log into the VA Health and Benefits mobile app using their VA login credentials.
+  * Please confirm via phone follow-up that if the user were to get logged out of the app suddenly, they are able to log back in on their own using their credentials. 
 * At least 8 participants should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.
-    * Please do a phone follow-up to confirm the participant uses the VA Health and Benefits Mobile App. 
-    * If the participant can describe what the app’s splash screen looks like on their phone screen (even if they don’t know the full name), that should provide enough information to validate if they have the app and schedule the participant for a research session.
-* At least 4 participants should actively be using VA health care AND claims and/or appeals
-* At least 6 participants should actively be using VA health care
-* At least 6 participants should have an active VA claim and/or appeal
+    * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
+      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is #.#.#).
+* All participants should have an active VA claim and/or appeal.
+* At least 8 participants should actively be using VA health care (prescriptions, appointments, secure messages).
 * At least 8 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
-* At least 6 participants should be screenreader users
-  * 3 should be should be advanced screenreader users
-  * 3 should be should be beginner screenreader users
-* All participants must be willing to do an activity from their mobile device that requires installing a special version of the app and sharing their screen via Zoom.
+* At least 4 participants should have 2 or more years of experience using a screenreader (VoiceOver, Talkback) on their mobile device
 
 #### Secondary criteria: 
-* 8 participants age 55+
-* 8 participants who identify as having a cognitive disability
+* 6 participants should identify as other than Caucasian
+* 6 participants should identify as a gender other than male
+* 4 participants should have no college degree
+* No more than 4 participants should have a Master’s degree or higher
 [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1116550612)
-#### Coordination with Perigean
+
+### Coordination with Perigean
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
+
+#### Screener questions
+**1. Are you able to join the Zoom session from an Android smart phone such as a Samsung Galaxy or Google Pixel? Any kind of Android smart phone will work, as long as it connects to the internet.**  
+Response options: yes or no  
+(If yes, proceed to 1a. If no, disqualify)
+
+**1a. Are you willing and able (and do you have space on your device available) to download and install a mobile app on your device during the session using a link you will open on your phone?**  
+Response options: yes or no  
+(If no, disqualify)
+
+**2. Are you currently able to log into VA.gov or the VA Health and Benefits mobile app using VA login credentials (username and password).**  
+Response options: yes or no  
+(If yes, proceed to 2a. If no, disqualify)
+
+**2a. If you were to get logged out suddenly, would you be able to log back in on your own using your username and password?**  
+Response options: yes or no  
+(If no, disqualify)
+ 
+**3. Do you use the VA Health and Benefits mobile app?**  
+Response options: yes or no  
+(If yes, proceed to 3a)
+
+**3a. How often do you use the VA Health and Benefits mobile app?**  
+Response options, checkbox list with text box:
+- Once a day
+- Once a week
+- 2 or more times per month
+- One time per month 
+- 1-2 times a year
+(Answer should be a, b or c to satisfy criteria for “active monthly user”)
+
+**4. Do you currently have an open disability claim or appeal?**  
+Response options: yes or no  
+(If no, disqualify)
+
+**5. What VA benefits or services do you currently receive?**  
+Response options, checkbox list with text box:
+- Health care
+- Payments from VA (for example, disability compensation or pension)
+- Education benefits
+- Other (please list)
+(At least 8 should have included “Health care” in their answer)
+
+**6. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack)?** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
+Response options: yes or no 
+(If yes, proceed to question 4a)
+
+**6a. How many years have you been using screen reader technology on your mobile device?**  
+Response options, checkbox list with text box:
+- Less than one year
+- 1 year
+- 2-5 years
+- 5 or more years
+(If c or d, proceed to question 4b)
+
+**6b. Are you willing to join the Zoom session using this assistive technology?** (Answer should be yes to satisfy criteria for screen reader)  
+Response options: yes or no
+
+
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
-* Mobile team feedback on research plan: Feb 202
-* Finalize research plan (including app build) and submit to Perigean: 
-* Date and time of pilot session: 
-* Kickoff meeting with Perigean: before recruitment begins, if possible
-* Recruitment phase:
-* Facilitation of Interviews:
-* Analysis and findings: 
-
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+- We would like to request a 15 minute kick-off call with Perigean: before recruiting begins.
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+Availability for a kick-off call, in Eastern times:
+- TBD
+- TBD
+**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready in late March).
+- Pilot participant email: TBD
+- Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research TBD
 
 ### Length of sessions
-* Sessions will be 30 minutes in length.
-* 30 minutes buffer in-between each session
-* No more than 4 sessions should be scheduled in one day
+* Sessions will be 45 minutes in length for non-screenreader participants, 60 minutes for screenreader participants.
+* 45 minutes buffer in-between each session
+* No more than 3 sessions should be scheduled in one day
 
 
 ### Availability
@@ -167,7 +224,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Date between time and time, ET
+- Date between time and time, ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	

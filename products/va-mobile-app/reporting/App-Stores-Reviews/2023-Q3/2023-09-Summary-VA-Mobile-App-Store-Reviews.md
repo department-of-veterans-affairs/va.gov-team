@@ -1,9 +1,9 @@
+# September 1 - September 30, 2023
+
 Each app review is analyzed and tagged with keywords that align to a product area or UX. Each keyword category is then analyzed for the trending sentiment (positive, negative, or mixed) and review highlights are included below. Summary as follows:
 
-September 1 - September 30, 2023
-
- 177 android reviews,  50 iOS reviews,
- 228 total reviews analyzed
+177 android reviews,  50 iOS reviews,
+228 total reviews analyzed
 
 | Keyword         | Frequency Count | %   | Trending Sentiment | Review Sample                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------------- | --------------- | --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

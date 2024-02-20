@@ -7,7 +7,7 @@ If your team has launched a new product, feature or enhancement in recent months
 ## How can I participate?
 Impact Reviews take place the first Thursday of each month at noon ET via zoom. If you’re interested in attending, please reach out in the **#impact-review** slack channel in the DSVA workspace to be added to the invite, or to discuss getting on the schedule to present. 
 
-As a presenter, time commitment is minimal - about 15 minutes or so filling out a pre-formatted deck for a ~12 minute presentation. 
+As a presenter, time commitment is minimal - about 15 - 30 minutes or so filling out a pre-formatted deck for a ~12 minute presentation. 
 
 As an attendee, simply attend the presentation and engage in discussion. 
 

@@ -1,5 +1,8 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator, February 2024
 - [ ] __Make sure Codepen pages are accessible__
+	- [Two dots](https://bit.ly/3SJybMS)
+ 	- [Badge indicator](https://codepen.io/allisonlu/full/gOEQZYY) - WIP
+	- [Slim Alert](https://bit.ly/3wnLdIq)
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
 
@@ -33,7 +36,7 @@ Before we start, a few things I want to mention:
 
 ## Research goal: Determine the effectiveness of dot, badge, and slim alert indicators to draw attention to important updates and when it's appropriate to use each kind of indicator - Approx. 20 minutes
 
-Now I'm going to ask you to open the link I've shared with you in Zoom chat, and then for you to share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the [link I've shared with you in Zoom chat] (https://bit.ly/3SJybMS), and then for you to share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat. 
 
@@ -56,7 +59,7 @@ Okay great, I can see your screen. Now please click the "sign in" button in the 
 
 - Is there anywhere on this view of the website that we're looking at now where you expect to see a *red* dot notification like this but you don't?
 
-Okay, I'm now going to share with you another link in Zoom chat that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
+Okay, I'm now going to [share with you another link in Zoom chat](https://codepen.io/allisonlu/full/gOEQZYY) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
 
 *User shares screen*
 
@@ -73,7 +76,7 @@ How do you think badge with the number in it would disappear?
 
 ### __Move on to badge indicator__
 
-Ok, we have one more weblink to share with you. (Share link)
+Ok, we have one more weblink to share with you. [Share link](https://bit.ly/3wnLdIq)
 
 For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. 
 

@@ -33,13 +33,17 @@ As we rollout new features and migrate services, tracking with DataDog has becom
         - by controller name,
         - by action
         - sum by HTTP status code
+- when a background job,
+    - can use Logs > Indexes > `@payload.action:"Begin Flash addition job”` where action is defined in the wrap_with_logging method's `additional_class_logs` key within the background job's class.
+    - other tags to narrow scope are `@named_tags.dd.env:eks-prod @named_tags.dd.service:vets-api @host:vets-api-sidekiq-*` 
 - Our focus is detecting any anomalous behavior so want to capture ways to compare errors to general traffic 
      
           
 #### Graphing by Logs:
   - To track traffic, can use HTTP referer like this: `@http.referer:https\:\/\/*.va.gov\/disability\/file-disability-claim-form-21-526ez*`
   - We can also use ``wrap_with_logging`` which within our API provider factory pattern of migration, gives us access to  @payload.action and additional logs like @payload.provider (like “evss”), and @payload.factory (e.g. “ppiu”).
-  - When there isn't a controller action to capture, tracking by log rollups is an straight-forward option to  
+  - When there isn't a controller action to capture, tracking by log rollups is an straight-forward option
+  - With the following Rails logger error message, the query in DataDog (Logs > Indexes) looks like: `("Failed to retrieve PPIU data from LighthousePPIUProvider" @http.referer:https\:\/\/*.va.gov\/disability\/file-disability-claim-form-21-526ez*)`  
   - Rails logger: 
 ```begin
           set_account(response)
@@ -47,4 +51,6 @@ As we rollout new features and migrate services, tracking with DataDog has becom
           method_name = '#get_banking_info'
           Rails.logger.error "#{method_name} Failed to retrieve PPIU data from #{service.class}: #{e.message}"
           raise Common::Exceptions::BadRequest.new(errors: [e.message])
-        end``` 
+        end```
+
+    

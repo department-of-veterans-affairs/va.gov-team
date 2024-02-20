@@ -11,11 +11,15 @@
 | 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 | 0.6 | John Bramley | 1/03/24 | `auth_flows` refactor |
 
+## Introduction
+
+This is a comprehensive guide to integrating a new end-user authentication client with Sign-in Service via the PKCE OAuth standard and API communication. The [API OAuth Workflow](#api-oauth-workflow) section provides a demonstration of this integration.
+
 ## Prerequisites
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
+The Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
 
 ### Local `vets-api` & `vets-api-mockdata` Repositories
 
@@ -25,7 +29,7 @@ In order to successfully develop against a local instance of Sign in Service, [v
 
 ### Client Config
 
-In order to make use of the Sign in Service, clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
+In order to make use of the Sign in Service, clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/client_config.md).
 
 Below are the ClientConfig attributes that necessary for a successful mobile or API integration with SiS:
 
@@ -43,7 +47,6 @@ Below are the ClientConfig attributes that necessary for a successful mobile or 
 ## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/20125855/177562919-43b99aa7-287b-475b-aa2f-da0e00c05a5c.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Mobile.png)
 
 ## Flow Diagrams
 
@@ -64,36 +67,61 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
 
 ### GET Routes
 
-#### [Authorization](../endpoints/authorize.md) - initiates a session with SiS and prompts the user to enter credentials
+#### [Authorize](../endpoints/authorize.md) 
+- initiates a session with SiS and prompts the user to enter credentials
 
-#### [Introspect](../endpoints/introspect.md) - retrieves user information (authenticated route)
+#### [Introspect](../endpoints/introspect.md)
+- retrieves user information
+- authenticated route
 
-#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - looks up a user and ends all of their sessiosn (authenticated route)
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md)
+- looks up a user and ends all of their sessions
+- authenticated route
 
 ### POST Routes
 
-#### [Token](../endpoints/token.md#cookie--api-pkce-auth) - provides the client with access & refresh tokens after authentication
+#### [Token](../endpoints/token.md#cookie--api-pkce-auth)
+- provides the client with access & refresh tokens after authentication
 
-#### [Refresh](../endpoints/refresh.md) - updates a user session and obtain new tokens (refresh token authenticated route)
+#### [Refresh](../endpoints/refresh.md)
+- updates a user session and obtain new tokens
+- refresh token authenticated route
 
-##### [Revoke](../endpoints/revoke.md) - ends the user session (refresh token authenticated route)
+##### [Revoke](../endpoints/revoke.md)
+- ends the user session
+- refresh token authenticated route
 
 ## API OAuth Workflow
 
 1. User selects which credential service provider (CSP) they would like to authenticate with in the client application.
 2. Client directs user to SiS OAuth `/authorize` endpoint with specific query parameters that conform to their preregistered Client Config.
+     ![authorize](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/62cd6d5e-b685-42a1-86b4-68dd5001c632)
+
 3. SiS redirects to CSP website for user to enter credentials.
 4. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
+   ![sis_callback](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/60279fd6-6156-4b6b-856e-26be5014ab5c)
+
 5. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
+  ![api_client_callback](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/b9b3ef07-dc6d-4e47-a71d-b5ab544591ab)
+   
 6. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token` &  `vagov_refresh_token`
+   
   | Token Name | Description |
   | --- | --- |
-  | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
-  | vagov_refresh_token | May contain user information, used to obtain new tokens |
+  | access_token | Used to access authenticated pages on VA.gov, contains no user information |
+  | refresh_token | May contain user information, used to obtain new tokens |
+  
+  ![postman_token](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/587bc1fd-5b6c-4d3b-93b9-0efa1d9d32f4)
+
 7. Client uses access token to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `Authorization: Bearer <accessTokenHash>`
     - response: `"data": { user_data }`
+   
+    ![introspect](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/cddb35f5-78f4-4f15-8891-ca4056d25599)
+
 8. Client uses the refresh token to get a new token pair (when access token reaches expiry) by querying the `/refresh` endpoint. New tokens are returned in a JSON payload identical to those returned from the `/token` endpoint.
+
+  ![api_refresh](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/c0f96083-7669-4ef4-8858-a60886e2a90e)
 
 ## Parameters & Return Values
 

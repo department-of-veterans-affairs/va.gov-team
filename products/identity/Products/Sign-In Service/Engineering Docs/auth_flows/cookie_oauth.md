@@ -10,6 +10,10 @@
 | 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 | 0.6 | John Bramley | 1/03/24 | `auth_flows` refactor |
 
+## Introduction
+
+This is a comprehensive guide to integrating a new end-user authentication client with Sign-in Service via the PKCE OAuth standard and browser cookies. The [Cookie OAuth Workflow](#cookie-oauth-workflow) section provides a demonstration of this integration.
+
 ## Prerequisites
 
 ### Postman Collection
@@ -38,12 +42,10 @@ When registering a Client Config for a web or cookie integration with SiS, the f
 ## Sequence Diagram
 
 ![vagovweboauth (1)](https://user-images.githubusercontent.com/71290526/175662350-1ecccfcf-4da3-4370-9483-5b15c263d428.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/Diagrams/Web_OAuth.md)
 
 ## Technical Diagram
 
 ![image](https://user-images.githubusercontent.com/71290526/175662498-2ef90001-845c-400a-945a-5564d24d992c.png)
-[Source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/diagram_sources/Sign%20in%20Service%20-%20Web%20(1).png)
 
 ## Flow Diagrams
 
@@ -55,49 +57,76 @@ When registering a Client Config for a web or cookie integration with SiS, the f
 
 ## Sign in Service Public Routes
 
-The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true` for web clients that wish to use the [Unified Sign In Page](../../Unified%20Sign%20In%20Pages/README.md). Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
+The Sign in Service routes necessary for a web/cookie-based integration are listed below. The VA.gov staging environment web client integration with SiS is located at `https://staging.va.gov/sign-in/?oauth=true` for web clients that wish to use the [Unified Sign In Page](../../../Unified%20Sign%20In%20Pages/README.md). Routes that are authenticated require a valid SiS `vagov_access_token` cookie, as well as an `vagov_anti_csrf_token` cookie if your Client Config is configured for it. The `/refresh` route requires a `vagov_refresh_token` cookie as well as the optional anti-CSRF token.
 
 ### GET Routes
 
-#### [Authorization](../endpoints/authorize.md) - initiates a session with SiS and prompts the user to enter credentials
+#### [Authorize](../endpoints/authorize.md)
+- initiates a session with SiS and prompts the user to enter credentials
 
-#### [Introspect](../endpoints/introspect.md) - retrieves user information (authenticated route)
-
+#### [Introspect](../endpoints/introspect.md)
+- retrieves user information
+- authenticated route
 - Cookie clients of SiS have access to the serialized User endpoint at `staging-api.va.gov/v0/user`, which provides a more comprehensive set of user attributes than the introspect endpoint.
 
-#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md) - looks up a user and ends all of their sessiosn (authenticated route)
+#### [Revoke all Sessions](../endpoints/revoke_all_sessions.md)
+- looks up a user and ends all of their sessions
+- authenticated route
 
-#### [Logout](../endpoints/logout.md) - ends the user session (authenticated route)
+#### [Logout](../endpoints/logout.md)
+- ends the user session
+- authenticated route
 
 ### POST Routes
 
-#### [Token](../endpoints/token.md#cookie--api-pkce-auth) - provides the client with access & refresh tokens after authentication
-
+#### [Token](../endpoints/token.md#cookie--api-pkce-auth)
+- provides the client with access & refresh tokens after authentication
 - Cookie clients of SiS will also receive a `vagov_info_token`, which contains token and session expiration dates for use in inactivity and auto logout components.
 
-#### [Refresh](../endpoints/refresh.md) - updates a user session and obtain new tokens (refresh token authenticated route)
+#### [Refresh](../endpoints/refresh.md)
+- updates a user session and obtain new tokens
+- refresh token authenticated route
 
-##### [Revoke](../endpoints/revoke.md) - ends the user session (refresh token authenticated route)
+##### [Revoke](../endpoints/revoke.md)
+- ends the user session
+- refresh token authenticated route
 
 ## Cookie OAuth Workflow
 
 1. User lands on [VA.gov](http://va.gov/) or another web client wanting to sign in via OAuth.
+  ![csp_select](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/75878eac-8dce-4fb4-ae6e-0408f0fc443a)
+
 2. User clicks on the button to sign in with their credential service provider (CSP).
 3. Client calls the SiS OAuth `/authorize` endpoint with specific query parameters that comport to their preregistered Client Config.
+   ![authorize](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/67f7bf53-a368-470c-91d3-fb1126b3e9be)
+
 4. SiS redirects to CSP website for user to enter credentials.
 5. After user successfully authenticates the CSP calls SiS API endpoint `/callback` to create an auth code.
+  ![sis_callback](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/bd51d8ca-1d8c-4469-a2f4-ba4eaf3d3d33)
+
 6. SiS API redirects user to the client's registered `redirect_uri` with a `code` query parameter and `state` that is verified client side
+   ![redirect_uri](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/9c31e41b-2eaa-4449-8f13-811b77a89688)
+
 7. Client makes a POST call to the SiS API `/token` endpoint to get `vagov_access_token`, `vagov_refresh_token`, `vagov_anti_csrf_token`, & `vagov_info_token` cookies, stored in the browser.
+
   | Cookie Name | Description |
   | --- | --- |
   | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
   | vagov_refresh_token | May contain user information, used to obtain new tokens |
   | vagov_anti_csrf_token | Optional feature to preven cross-site request forgery |
   | vagov_info_token | Used by client to determine timeout counters |
+
+  ![token](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/74a4b852-f5f2-4aee-8317-fbd1818e6c9b)
+
 8. Client uses access token cookie to query the `/introspect` endpoint and other authentication-protected routes:
     - request: `vagov_access_token=<accessTokenHash>`
     - response: `"data": { user_data }`
+   
+    ![user](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/11eee0a5-c0e0-4044-9152-db974b7de9ed)
+
 9. Client uses the refresh token to get an new token set (when access token reaches expiry) by querying the `/refresh` endpoint. New token cookies are stored in the browser with a successful response.
+    ![refresh](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/c4c7ff98-c8ab-48b7-b294-bb784b19124f)
+
 
 ## Parameters & Return Values
 

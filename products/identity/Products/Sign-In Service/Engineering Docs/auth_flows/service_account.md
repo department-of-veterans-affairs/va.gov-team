@@ -18,7 +18,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 
 ## Service Account Config Registration
 
-- A [`ServiceAccountConfig`](../configuration/service_account_config.md) must be registered with the appropriate SiS environment in order to receive Service Account access_tokens. This database object provides SiS with the client's public certificates and scoped permissions used to authenticate requests and provision scoped access tokens.
+- A [`ServiceAccountConfig`](../configuration/service_account.md) must be registered with the appropriate SiS environment in order to receive Service Account access_tokens. This database object provides SiS with the client's public certificates and scoped permissions used to authenticate requests and provision scoped access tokens.
 
 ## Service Account Flow
 

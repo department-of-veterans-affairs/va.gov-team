@@ -1,6 +1,10 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator/Slim Alert for Screen Reader Users, February 2024
 
 - [ ] Make sure CodePen is functional
+	- [Single dot](https://bit.ly/49AMEBs)
+ 	- [Badge indicator](https://codepen.io/allisonlu/full/gOEQZYY) - WIP
+	- [Slim Alert](https://bit.ly/3wnLdIq)
+ - 
 - [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
 - [ ] Turn on closed captioning in order to use Zoom transcription
 
@@ -44,7 +48,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
-Now I'm going to ask you to open the link I've shared (in Zoom Chat?) and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49AMEBs) and then share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. Now please navigate to the "sign in" button and enter a username and a password. This is just a test, so you can enter anything in these fields. 
 
@@ -61,13 +65,13 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button a
 
 - What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
 
-- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
-
-Move on to badge indicator
+#### Move on to badge indicator
 
 Ok, we have one more weblink to share with you. (Share link, provide assistance as needed)
 
-For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise.
+- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
+
+For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. [Share link](https://bit.ly/3wnLdIq).
 
 Where do you think on this page you could find the status of your claim?
 

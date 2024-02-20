@@ -106,7 +106,7 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-13 @ 01:20 PM ET`: Call started with Matt Long (FE Engineer) and Chapley Watson (Full stack Engineer) to triage the issue and talk through solutions 
 - `2024-02-13 @ 01:33 PM ET`: Pulled PagerDuty Maintenance window down to run a quick test after a refresh by Frontend.  This did not work, still experiencing the issue.  Maintenance window placed back up
 - `2024-02-13 @ 01:35 PM ET`: Determined that the initial PR #27808 needs to be reverted, this is the only option we have at this time, and cannot complete any testing in lower level environments
-- `2024-02-13 @ 01:45 PM ET`: [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962) placed for the revert of [PR #29808](https://github.com/department-of-veterans-affairs/vets-website/pull/27962)
+- `2024-02-13 @ 01:45 PM ET`: [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962) placed for the revert of [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808)
 - `2024-02-13 @ 02:44 PM ET`: [Platform Support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76100) opened for urgent review of [PR #27962](https://github.com/department-of-veterans-affairs/vets-website/pull/27962)
 - `2024-02-13 @ 02:54 PM ET`: Advised by Curt Bonade that this will not make it into the Daily Deploy window, however an OOB can be done just after
 - `2024-02-13 @ 02:59 PM ET`: Brandon Dech requested we fill out an OOB request ticket

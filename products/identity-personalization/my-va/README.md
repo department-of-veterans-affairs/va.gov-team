@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: December 1, 2023 - Removing notifications as a feature**
+**Last updated: February 16, 2024 - added Figma links**
 
 ### Communications
 
@@ -173,7 +173,7 @@ _Why would your business want this to exist?_
 ## Design
 
 - [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
-- [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
+- [My VA Figma files](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=9-15723&mode=design)
 - [My VA flows (starting with LOA1 user)](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7050&mode=design)
   - [Claims and appeals]
   - [Health care]

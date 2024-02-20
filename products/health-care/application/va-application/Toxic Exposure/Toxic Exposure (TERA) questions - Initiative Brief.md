@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Toxic Exposure (TERA) - MVP
 - Epic [#73669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73669)
 
 ## Resources
@@ -11,27 +11,29 @@
 ---
 
 ## Outcome Summary
-* Provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.
+* Provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty.  This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
 
 **Related/Associated product(s)**
 - 10-10EZ Veteran health care application | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Veterans do not currently have a place to identify any Toxic Exposure during the health care application process
+* Veterans who may qualify for VA health care or a higher priority group, due to Toxic Exposure, currently do not have a way to identify this within the health enrollment process
+* Providing a place for Veterans to identify Toxic Exposure during the health care application process will open up additional qualifying factors for VA health care
+
 
 
 ## Desired User Outcomes
 - Unqualified Veterans may now qualify for VA health care by providing this information
 - More Veterans applying for VA health care
+- Veterans whose disability rating and priority group is reduced due to improved health may still qualify for at least Priority Group 6 due to Toxic Exposure
 
 
 ## Undesired User Outcomes
 - Confusion on what is considered "toxic exposure"
 - Confusion on how to fill out the information
 - Overwhelmed by the questions
+- Confusion
 
 ## Desired Business Outcomes
 - Higher awareness of affected Veterans with toxic exposures
@@ -41,14 +43,34 @@
 - Veterans feel burdened or overwhelmed by the questions and input fields
 
 ---
-## Measuring Success - TBD
+## Measuring Success
 
-### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+### Objective: Update the 10-10EZ, so Veterans have the opportunity to provide Toxic Exposure details while applying for VA health care.
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+#### **Key Result #1:** 50% of Veterans who visit this page will answer Yes to provide TERA information
 
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------------- |-------------- |-------------- |
+|Veterans who answered Yes to providing TERA info |N/A| 50% | TBD | TBD |
+
+
+#### **Key Result #2:** 75% of Veterans who said Yes to providing TERA information will provide info in at least one TERA question
+
+Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+
+| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------------- |-------------- |-------------- |
+|Veterans answer Yes to Cleanup or Response |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Service in Gulf War |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Combat Operations |N/A| TBD | TBD | TBD |
+|Veterans answer Yes to Agent Orange |N/A| TBD | TBD | TBD |
+|Total Veterans that provided an answer to at least one question |N/A| 75% | TBD | TBD |
+
+#### **Key Result #4:** 50% of Veterans who apply for VA health care now qualify for Priority Group 6 with TERA criteria, who may otherwise would have a lower Priority Group or not qualify at all
+
+#### **Key Result #5:** Veterans understand what is being asked of them and why, feeling comfortable in providing the information.
 ---
 
 ## Discovery
@@ -57,41 +79,42 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - RISK: Veterans will answer NO to the "Do you want to provide info regarding Toxic Exposure" question
+  - RISK: Veterans who provided their Toxic Exposure details while filing their disability claim(s) may feel this is duplicative, becoming annoyed that we don't already have this info
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - RISK: Veterans will be overwhelmed by the questions and details being asked
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+    - RISK: Downstream API/Data availability and reliability (Enrollment system)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - RISK: HEC Staff will not have visibility into the Veteran's input within their workflow (Enrollment system) until June 2024
 
 ### What're you building
 #### In-Scope
 - Add Toxic Exposure questions, per request from HEC Stakeholders (directive)
 - Remove Items from checkbox list, per request from HEC Stakeholders - to avoid duplicative questions
+- Allow free form input field, restricting to Alphanumeric values only
 
 #### Out-of-Scope
 - Changing other parts of the form
+- 
 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 
-- Content engagement ticket #TBD
+- Content engagement [ticket #74254](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74254)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative - TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/10-10EZ%20TERA%20Release%20Plan.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - March 2024
+  - March 5, 2024
 - *Actual Launch Date* 
   - tbd
 
@@ -101,6 +124,9 @@
 
 ### Before
 N/A - Questions are new on the existing 10-10EZ form
+- Draft version of the 10-10EZ Paper form
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/9807c008-8925-44a9-81f0-9f0de2e2375d)
+
 
 ### After
 

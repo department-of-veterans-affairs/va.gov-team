@@ -94,7 +94,7 @@ All sessions Will be remote on Zoom.
 2. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
 
 * Yes (go onto Screener question 3, recruit 10)
-* No, but I have been prescribed other supplies, such as glucose test strips, . (go onto Screener question 3, recruit 5)
+* No, but I have been prescribed other supplies, such as glucose test strips, cleaning wipes, and wound care supplies. (go onto Screener question 3, recruit 5)
 * No, I have not been prescribed any medical supplies. (Disqualify)
 
 3. Have you ordered supplies online on VA.gov or with paper forms? 
@@ -124,22 +124,36 @@ All sessions Will be remote on Zoom.
 * Synthesize and analysis week 3/7 - 3/15
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+We haven't rescheduled yet, but it'll be during the week of 2/20.
 * Pilot participant email:
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: 
+
+We request to have a kick-off meeting with Perigean anytime on 2/21 or 2/22.
+* Planned dates of research: 2/28 - 3/8 (We'd like to start interviewing as soon as Perigean finishes recruiting.)
+  
 ### Length of sessions
 * Session length: <1 hour 
 * Buffer time between sessions: 1 hour  
 * Maximum Sessions per day: 3
 
 ### Availability
-| Day | Date | Times (Eastern time zone) |
-| --- | --- | --- |
+
+| Day      | Date        | Times in ET |
+| ---------| ----------- |  ------- |
+| Thursday | February 29 | 11:00 AM ~  3:00 PM  |
+| Friday | March 1 | 11:00 AM ~  3:00 PM  |
+| Monday | March 4 | 11:00 AM ~  3:00 PM  |
+| Tuesday | March 5 | 11:00 AM ~  3:00 PM  |
+| Wednesday | March 6 | 11:00 AM ~  3:00 PM  |
+| Thursday | March 7 | 11:00 AM ~  3:00 PM  |
+| Friday | March 8 | 11:00 AM ~  3:00 PM  |
+| Monday | March 11 | 11:00 AM ~  3:00 PM  |
+| Tuesday| March 12 | 11:00 AM ~  3:00 PM  |
+| Wednesday | March 13 | 11:00 AM ~  3:00 PM  |
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	

@@ -9,7 +9,7 @@
 
 ## Summary
 
-Private Key JWT Authentication allows a backend client unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by a private key; the JWT is then validated by Sign in Service (SiS) against the client's pre-registered public certificate connected to that key. It differs from PKCE auth only during the initial request for tokens, when the client has not yet obtained SiS credentials. Integrations with the rest of the SiS routes are managed through [API](./api_oauth.md) authentication.
+Private Key JWT Authentication allows a backend client unconnected to the original `/authorize` request to complete authentication and obtain tokens by passing a JWT signed by a private key; the JWT is then validated by Sign in Service (SiS) against the client's pre-registered public certificate connected to that key. It differs from PKCE auth only during the initial request for tokens, when the client has not yet obtained SiS credentials. Integrations with the rest of the SiS routes are managed through [API](./api_oauth.md)  or [cookie](./cookie_oauth.md) authentication.
 
 ### Service Account Authentication
 
@@ -17,9 +17,8 @@ The backend JWT flow described here is an alternate way for a client to finish a
 
 ## Client Configuration
 
-The usage of Private Key JWT auth vs PKCE auth is controlled in [your client's `Client Config`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md) via the `pkce` and `certificates` settings.
+The usage of Private Key JWT auth vs PKCE auth is controlled in [your client's `Client Config`](../configuration/client_config.md) via the `pkce` and `certificates` settings.
 
-- `authentication`: api
 - `pkce`: false
 - `certificates`: ["your-public-cert", "your-second-public-cert"]
 
@@ -66,11 +65,13 @@ This string can then be copied and inserted (within an array) into your Client C
 
 ## Flow Diagrams
 
-- [Unauthenticated request flow](../flow%20diagrams/private_key_jwt/unauthenticated-new-session.png)
+### Unauthenticated request flow
+<img width="1363" alt="unauthenticated-new-session" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/59af0f7f-dac8-45d1-a7c3-f63341eafd7e">
 
 ## Public Routes
 
-### [Token](../endpoints/token.md#private-key-jwt-auth) - provides the client with access & refresh tokens after authentication
+### [Token](../endpoints/token.md#private-key-jwt-auth)
+- provides the client with access & refresh tokens after authentication
 
 ### Creating a Client Assertion
 

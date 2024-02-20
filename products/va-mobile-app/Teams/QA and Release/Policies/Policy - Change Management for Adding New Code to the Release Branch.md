@@ -1,5 +1,5 @@
 # Policy - Change Management for Adding New Code to the Release Branch
-Version 1.0
+
 
 ## DESCRIPTION: 
 
@@ -24,6 +24,7 @@ At a high level, QA and Release Team's stance is that code will not be added to 
  - If modification to the release code is purused, Team PM and PO accept responsibility for the risks it brings 
  - Exceptions can be made if they are timely and also critical enough - they will need to follow the process below
  - QA and Release's QA Tester has the final say
+ - Teams need to perform detox testing on  the code they want to include as it could impact testing effort needed to include 
 
 
 ## STEPS TO INCLUDE CODE TO THE RELEASE BRANCH AFTER ITS CUT: 
@@ -41,7 +42,9 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 **4.) If Team PM still wants to modify the release code to include new code, Team PM will need to get PO approval** 
   * Release process will be put on hold while we wait on PO approval to reduce rework
     
-  * Approval can be included in the DSVA Slack thread if there is one 
+  * Approval can be included in the DSVA Slack thread if there is one
+
+  * Team will also need to ensure their changes do not breach detox tests - if so it could impact testing effort timing needed to include the work 
 
 **5.) Team PM will provide POs documented approval to the Release QA Tester & update the Release Ticket with this change** 
 
@@ -52,7 +55,10 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 
 **8.) Continue with release process**
 
-**9.) Team responsible for adding code to the release branch is asked to follow-up with QA and Release team on how they plan to prevent this in the future** 
+**9.) QA to conduct a retro** 
+ * Understand if there was any ramifications of adding code post release branch being cut
+ * Discuss how to reduce / prevent this from happening in the future
+ * Example 2.22 added 2 tickets that somehow fixed appt pagination (7300 and 7485) breaking detox test - tripling manual testing effort
 
 ### Release Timing Example: 
 | Event | Date Example | Days to Complete | Other |
@@ -85,13 +91,6 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 
 Individual team - Design System, API Team, Global, Health and Benefits, External teams (Veteran Status, etc) 
 
-
-
-
-### Version Management
-|Version | Author | Date | Comments |
-|----- |------- | -------| ------ | 
-| 1.0 | Adam Kasmier | 1/18/2024 | Initial Creation |
 
 
 
