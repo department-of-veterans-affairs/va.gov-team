@@ -145,4 +145,8 @@ Given the tight timeline, I think we need to make our best guess on design. We c
 - [Current User Flow](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-1&mode=design&t=PHWgrsxoEHDjP36q-0) 
 
 ## Key Dates 
-- `Deadline of 4/20/2024`
+- February 15, 2024: First alerted of the BDN > CorpDB migration
+- Febryuary 16, 2024: Initial calls with Lighthouse, BGS, and stakeholders
+- February 20, 2024: Formal planning and coordination begins
+- April 20, 2024: Set date for migration of BDN to CorpDB
+- April 26, 2024: Last day anything can be sent to BDN
