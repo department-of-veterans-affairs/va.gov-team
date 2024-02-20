@@ -26,6 +26,7 @@ ________________________________________________________________________________
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
+        - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
         - ❗ 🟩 [[FE] Create E2E tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75711)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
@@ -95,7 +96,6 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] - Create file later page #75796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75796)
         - ❗ 🟩 [[FE] Error page scenarios and content #75722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75722)
         - ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
-        - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76247)
         - ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75563)
         - ❗ 🟦 [[BE] Modify Appointments Identifer Serializer to add IDIPI & appointment type field for OH appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75543)
