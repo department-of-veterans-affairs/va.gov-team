@@ -42,30 +42,6 @@ We conducted 16 remote interviews with Zoom. The 16 participants interacted with
 
 ## Details of Findings 
 
-**Finding 1: Earlier navigational behavior and outcomes​**
-
-<img width="1117" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/e58ba9ab-e5b5-4059-82c8-368425a69b13">
-
-Participants who did not directly sign in had a more complex experience than those who did.  These early actions impact the rest of a participants’ experience.
-
-**Finding 2: Recurring navigational behaviors and outcomes: "gravitational pull" of wayfinding tactics​**
-
-<img width="182" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/98506969-d814-467b-9f42-0f0e6bb5dde2">
-
-We observed certain navigational tools exerting a “gravitational pull” on participants, in that participants would return to those comfortable tactics to accomplish their tasks, despite at times having wayfinding alternatives that would enable a more direct path.  The intended behavior embedded in the designs is for users to utilize the My VA and MHV landing page and, in the case of MHV, the secondary navigation within the MHV portal. When users used those strategies, they were more efficient at achieving their tasks. However, we observed a number of participants who returned throughout the course of their interviews to the Megamenu or Home page, or who referenced wanting to use Search functionality. 
-
-<img width="319" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/b74933e0-f4af-45c5-89aa-8f5992d4677b">
-<img width="247" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/28036a20-9f40-4502-aaa0-6ba76423c30a">
-<img width="86" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/f758f4c0-29d2-4f9e-a83e-407bc751259e">
-
-Some participants would be in MHV portal experience and return to Megamenu, Home page or Search. They indicated that they did this because they believed that they could "restart" from those spaces. These participants commonly did not indicate an awareness of the MHV portal experience, or, at times, My VA, despite having navigated periodically in those experiences when seeking to accomplish those tasks. These participants had to follow circuitous routes to accomplish the tasks and often indicated frustration or described VA.gov as complicated or confusing. This lack of awareness of how to return to these personalized spaces or how to use these spaces to accomplish their tasks was most pronounced amongst participants using the mobile prototype. No participant using the mobile prototype looked for the tabs in the Authenticated Menu and as a result, did not locate the MHV landing page without support from facilitators. 
-
-
-**Finding 3: Spectrum of "figure-it-outness"​**
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/3efff43c-19d0-4bde-ab49-2ba1a6b421ec)
-
-
 **Finding 4: Sensemaking around health vs. Non-health resources: Differentiating between My VA and MHV portal experience**
 
 *Finding #1:* One group of participants expressed that they want everything in one place.  These participants understood and used the links on My VA as a snapshot or gateway to start to access health care benefits, returning to where they started sometimes even when they were already in MHV.
@@ -95,25 +71,20 @@ _Next steps here. Include owners if appropriate._
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-research-plan.md)
-
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/2023-06-health-wayfinding-conversation-guide_AVS.md)
-
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/transcripts)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-plan.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes)
 
 
 ## Tools used for Synthesis
 
-[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1688057183385/892e08ae73c1a90432e0f8bb6cd8a620ee8bf2dc?sender=ucbacbd1daef36939e8aa2288)
-
-[GitHub: Analysis and Reporting](https://github.com/department-of-veterans-affairs/va.gov-team/tree/632cd3475f816d50c484a473ef0d31d4f860c608/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study/Analysis-and-reporting)
-
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705600081937/e5173396919d106abc42c3097d514d2d15f074f6?sender=ua13e567cb5c4221acaa14949)
 
 ## Pages and applications used
 
-[Desktop prototype](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/A3C4D258-7207-47A2-8530-4ED04E2CBB0F?hotspots=false)
+[Prototype B (no icons)](https://000698568.codepen.website/email.html)
 
-[Mobile prototype](https://www.sketch.com/s/7dd70a0f-08de-4b7b-8203-0f3ee49acc3e/prototype/a/2724A3C2-DF18-4FEC-903A-E1886F87E72F?hotspots=false)
+[Prototype A](https://000698676.codepen.website/results.html)
 
 
 ## Who we talked to 
