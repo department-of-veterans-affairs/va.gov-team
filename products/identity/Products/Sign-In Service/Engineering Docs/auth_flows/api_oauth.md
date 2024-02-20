@@ -11,11 +11,15 @@
 | 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 | 0.6 | John Bramley | 1/03/24 | `auth_flows` refactor |
 
+## Introduction
+
+This is a comprehensive guide to integrating a new end-user authentication client with Sign-in Service via the PKCE OAuth standard and API communication. The [API OAuth Workflow](#api-oauth-workflow) section provides a demonstration of this integration.
+
 ## Prerequisites
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
+The Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage API integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
 
 ### Local `vets-api` & `vets-api-mockdata` Repositories
 
@@ -25,7 +29,7 @@ In order to successfully develop against a local instance of Sign in Service, [v
 
 ### Client Config
 
-In order to make use of the Sign in Service, clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/configuration/client_config.md).
+In order to make use of the Sign in Service, clients must first [register a `Client Configuration`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/client_config.md).
 
 Below are the ClientConfig attributes that necessary for a successful mobile or API integration with SiS:
 
