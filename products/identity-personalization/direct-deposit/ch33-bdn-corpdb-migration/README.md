@@ -125,6 +125,18 @@ We are effectively kicking this work off on **February 20, 2024**, which means w
 |Week 9 (Apr 15 - 20)| Pre-launch for interface; BDN migrates to CorpDB on April 20th|
 |Week 10 (Apr 22 - 26)| Launch interface updates; monitor|
 
+### Proposed collab cycle touchpoints
+
+Given the short timeline, I propose that we only go through the following collab cycle touchpoints.
+
+- Kickoff
+- Staging review
+- Security review
+
+#### What about design and research touchpoints?
+
+Given the tight timeline, I think we need to make our best guess on design. We can gather *light* usability feedback during UAT, and implement improvements post-launch. We can also do more comprehensive testing and updates post-launch. The only pre-launch issues we should be concerned with are accessibility or security launch blockers.
+
 ## Measuring Success 
 
 ## Key Deliverables / Artifacts 
