@@ -83,7 +83,7 @@ ________________________________________________________________________________
             - This is the CAIA review ticket, we may or may not have feedback to address
         - ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - ❗ 🟥 [[UX] Set up Metrics to Measure Success for OH check ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74027)
-        - ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
+        - ✔️ ❗ 🟥 [[Content] Create Content for SMS for VistA site that receives a "travel" text to 53079](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75424)
         - ❗ 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75401)
         - ❗ 🟥 [[Research] Create Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75402)
         - ✔️ ❗ 🟩 [[CHIP] - Create initiateTravelClaim function ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75106)
