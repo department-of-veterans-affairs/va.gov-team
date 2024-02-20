@@ -27,13 +27,10 @@
 
 - **Wireframes/Sketch File**
     - Walk through wireframes with the devs
-    - Demo wireframes to Matthew
     - Follow the forms library patterns
     - Note any knowns about the form in the sketch files
 - Source of Truth
-    - Add the Source of Truth under the Form Folder in Github
-- Create[Sequence Diagram Example](https://www.sketch.com/s/55cd7fae-eca1-4515-b460-0779f54eff60)
-  - (Note this will be needed for Readiness Review at the end)
+  
 
 </details>
 
