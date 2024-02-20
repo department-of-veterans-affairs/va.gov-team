@@ -151,31 +151,6 @@ async function getVaGovTeamRepoId() {
   return id;
 }
 
-// create an issue via ZenHub
-async function createIssue(title, repoId) {
-  const query = `mutation createIssue {
-    createIssue(input: {
-        title: "${title}",
-        repositoryId: "${repoId}",
-        labels: ["governance-team"],
-        assignees: ["shiragoodman"],
-        body: "This ticket is for Platform tracking purposes only. There is no VFS action needed."
-    }) {
-        issue {
-            id
-            title
-            number
-        }
-    }
-  }`
-
-  const {data} = await axiosInstanceZH.post('', {
-    query,
-  });
-  const { id, number } = data.data.createIssue.issue;
-  return { id, number }
-}
-
 // check if today's date is within the bounds of a sprint
 function isWithinSprint(start, end) {
   const today = (new Date(Date.now())).setHours(0,0,0,0);
@@ -231,21 +206,17 @@ async function addIssueToCurrentSprint(id) {
     }
   }`;
 
-  try {
-    const sprintId = await getSprintId();
-    if (sprintId) {
-      await axiosInstanceZH.post('', {
-        query,
-        variables: {
-          input: {
-            issueIds: [id],
-            sprintIds: [sprintId]
-          }
+  const sprintId = await getSprintId();
+  if (sprintId) {
+    await axiosInstanceZH.post('', {
+      query,
+      variables: {
+        input: {
+          issueIds: [id],
+          sprintIds: [sprintId]
         }
-      });
-    }
-  } catch {
-    console.log('error in addIssueToCurrentSprint');
+      }
+    });
   }
 }
 
@@ -329,15 +300,39 @@ async function setEstimate(issueId) {
   } catch {
     console.log('error in setEstimate');
   }
-  
 }
 
-// add EVENT_LABEL to completed ticket
-async function addLabel(number) {
-  const URL = `issues/${number}/labels`;
-  await axiosInstanceGH.post(URL, {
-    labels: [EVENT_LABEL]
+// create completed ticket
+async function createCompletedTicket(title, milestone) {
+  const URL = 'issues';
+  const { data: { number } } = await axiosInstanceGH.post(URL, {
+    owner,
+    repo,
+    title,
+    milestone,
+    labels: [EVENT_LABEL, 'governance-team']
   });
+  return number;
+}
+
+async function getCompletedTicketZHId(issueNumber) {
+
+  const repositoryId = await getVaGovTeamRepoId();
+
+  const query = `query IssueByInfo($repositoryId: ID!, $issueNumber: Int!) {
+    issueByInfo(repositoryId: $repositoryId, issueNumber: $issueNumber) {
+      id
+    }
+  }`
+
+  const { data: { data: { issueByInfo: { id } } } } = await axiosInstanceZH.post('', {
+    query,
+    variables: {
+      repositoryId,
+      issueNumber
+    }
+  });
+  return id;
 }
 
 function sleep(delay) {
@@ -351,29 +346,26 @@ async function main() {
     const newTitle = getTitleInfo(body);
 
     // create completed ticket
-    const repoId = await getVaGovTeamRepoId();
-    const { id: newTicketId, number: newTicketNumber } = await createIssue(newTitle, repoId);
-  
-    // add milestone to new ticket
-    await addMilestone(newTicketNumber, milestone.number);
+    const newTicketNumber = await createCompletedTicket(newTitle, milestone);
+
+    // get ZH id for completed ticket
+    const newTicketId = await getCompletedTicketZHId(newTicketNumber);
 
     // get ids of epics
     const epicId = await getEpicId(title);
     const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
-  
-    // update completed ticket
-    await addLabel(newTicketNumber);
-
-    await sleep(DELAY);
-    await addIssueToCurrentSprint(newTicketId);
-
-    await sleep(DELAY);
-    await setEstimate(newTicketId);
-
     await sleep(DELAY);
     await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
 
-    // close the completed ticket
+    // add completed ticket to sprint
+    await sleep(DELAY);
+    await addIssueToCurrentSprint(newTicketId);
+
+    // set estimate of completed ticket
+    await sleep(DELAY);
+    await setEstimate(newTicketId);
+
+    // close completed ticket
     await closeIssue(newTicketNumber);
   } catch (error) {
     console.log(error);
