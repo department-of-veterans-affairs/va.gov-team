@@ -120,18 +120,16 @@ _Next steps here. Include owners if appropriate._
 
 **Recruitment criteria**
 
-We asked Perigean to create 4 groups of 4 participants each (16 total), with the intention that half would view desktop versions and half would view mobile. 
-
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We asked Perigean to create 4 groups of 4 participants each (16 total) with the following intention:
+* Group 1 would see Mobile A first, then Mobile B.
+* Group 2 would see Mobile B first, then Mobile A.
+* Group 3 would see Desktop A first, then Desktop B.
+* Group 4 would see Desktop B first, then Desktop A.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 16 
+* Caregivers: 0 
+* Family members of a Veteran: 0 
 
 Gender:
 * Male: x 
