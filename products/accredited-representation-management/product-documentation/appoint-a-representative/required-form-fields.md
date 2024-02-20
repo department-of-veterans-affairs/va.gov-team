@@ -1,5 +1,7 @@
 # Required Form Fields for 21-22/21-22a
 
+The following document outlines what fields are required (or conditionally required) by Lighthouse, in order to validate and establish POA requests.  When we launch digital submission for Appoint a Representative, we will need to pass these required fields to Lighthouse.
+
 #### Legend
 - :white_check_mark: = Required fields
 - 🟠 = Conditionally required
