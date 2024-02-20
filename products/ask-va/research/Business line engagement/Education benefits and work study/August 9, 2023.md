@@ -9,10 +9,9 @@
 
 ## Attendees
 
-- Our team: Becky, Ruchi, Tyler, Thomas
-- Education: Lisa Eaton, Kendra Stewart, Kevin White, Matthew Ziolkowski, Tammy Hurley, Michael Napper
+- Our team: Tyler, Becky, Ruchi, Thomas
+- Education team: Lisa, Kendra, Kevin, Matthew, Tammy, Michael
 - CRM team: Shelby, Chris, Maria, Wayne
-- Not present: Jacqueline Mikoley (Buffalo), Louiseza Sanderson, Dawn Arnold, Terry Warren, Preston Sanders, Wandy Espana
 
 ## Key takeaways
 
