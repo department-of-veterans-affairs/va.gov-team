@@ -44,7 +44,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
-Now I'm going to ask you to open the link I've shared (in Zoom Chat?) and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49AMEBs) and then share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. Now please navigate to the "sign in" button and enter a username and a password. This is just a test, so you can enter anything in these fields. 
 
@@ -63,7 +63,7 @@ Okay great, I can see your screen. Now please navigate to the "sign in" button a
 
 - What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
 
-Move on to badge indicator
+#### Move on to badge indicator
 
 Ok, we have one more weblink to share with you. (Share link, provide assistance as needed)
 
