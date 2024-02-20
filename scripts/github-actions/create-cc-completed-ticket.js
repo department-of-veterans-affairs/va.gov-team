@@ -319,6 +319,8 @@ async function getCompletedTicketZHId(issueNumber) {
 
   const repositoryId = await getVaGovTeamRepoId();
 
+  await sleep(DELAY);
+  
   const query = `query IssueByInfo($repositoryId: ID!, $issueNumber: Int!) {
     issueByInfo(repositoryId: $repositoryId, issueNumber: $issueNumber) {
       id
