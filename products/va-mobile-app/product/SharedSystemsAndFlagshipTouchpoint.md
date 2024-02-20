@@ -5,6 +5,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 
 * **Lovell/Oracle Transition (Alayna)** 
   *  Coordinating AF and backened changes
+  *  See epic: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7828
 
   
 * **DS Button Component in Flagship app (Kelly)**
