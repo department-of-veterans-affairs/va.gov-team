@@ -17,9 +17,6 @@
   - Create a new folder for each new form 
   - Add Product Outline to the folder
 - Create Issue templates for developer in our repository
-- Update Epic to be included on the [Digital Experience Board](https://vfs.atlassian.net/wiki/spaces/AP/pages/2120974387/Platform+Initiative+Guidelines+for+Digital+Experience+Product+Board)
-  - Notify Matthew when done so he can add it to the [project / board](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3Acrew-platform)
- - Update [Airtable](https://airtable.com/app8r8N52jBfzOkMb/tblYHPlW3Sv5bNBRq/viwqhjJD6TCF4H3np?blocks=hide) with form status, links to user document & sketch files
 </details>
 
 
