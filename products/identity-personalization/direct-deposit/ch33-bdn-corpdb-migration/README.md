@@ -110,7 +110,7 @@ Lead: Julie Strothman
 
 ## Timeline
 
-We are effectively kicking this work off on **February 20, 2024**, which means we have less than 60 days to complete this project. This is a rough timeline of how this might work:
+We are effectively kicking this work off on **February 20, 2024**, which means we have less than 60 days to complete this project. This is a rough timeline of how this might work **if the code updates are relatively simple**. If we get into the code and it's much more complex, we'll need to come up with a plan around what can be done by April 20th and create an estimate on when full functionality will be available again.
 
 |Week| Tasks | 
 |----|-------|
