@@ -82,9 +82,9 @@ _Next steps here. Include owners if appropriate._
 
 ## Pages and applications used
 
-[Prototype B (no icons)](https://000698568.codepen.website/email.html)
+[Prototype A (no icons)](https://000698568.codepen.website/email.html)
 
-[Prototype A](https://000698676.codepen.website/results.html)
+[Prototype B](https://000698676.codepen.website/results.html)
 
 
 ## Who we talked to 
