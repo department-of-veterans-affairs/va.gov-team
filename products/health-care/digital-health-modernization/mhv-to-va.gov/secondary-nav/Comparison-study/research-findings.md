@@ -148,6 +148,21 @@ Within the portal, they are suppressed in more than one way: they’re not prior
    * P9: Seemed to accidentally hit breadcrumbs while talking to the moderator; scrolls around the landing page. Moderator again asks her where she’d look for CPAP re-ordering: “I’m still thinking Medications.”
  * This is problematic. The BTSSS Travel team just identified in a tree-testing study that the My HealtheVet landing page has the highest signal as a destination where VA.gov users expect to be able to file for travel pay, [Status Visibility IA Study - Jan 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/084b74d92d44f3170ab53fc4e53c002b4b105918/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
+## Recommendations
+
+#### Implement a persistent-link secondary nav bar on My HealtheVet (akin to the design in Prototype B) including needed changes that were surfaced as part of this research
+  * Include both a label for the nav bar (My HealtheVet) as well as a clear link to the landing page. Our hypothesis is that “home” link text with the icon of a house will drive more Veterans to the landing page versus an underlined “My HealtheVet” link text.
+  * Highlight within the nav bar the user’s current location to aid in faster and easier orientation.
+  * Make changes to code to better support screen reader users; in particular, screen readers should read out the full word when there are abbreviations, instead of sounding out the abbreviations.
+
+#### Enable Veterans to more easily and quickly come across the harder-to-find health-management tools
+  * The landing page needs to surface hard-to-find content much higher on the page and de-prioritize tools that are repetitive to the links within the new secondary nav.
+  * Other tool landing pages may need to offer cross-link references to those tools as well to make them easier to find when a Veteran is most likely to be looking for them.
+
+#### When it does not damage expectations and UX, help Veterans orient themselves by guiding them through a front door (such as a landing page) 
+  * Especially when My HealtheVet on VA.gov is so new, Veterans should be directed through the front door (instead of deep-linking to a detail page) when possible. This will allow them to more easily return to a tool when they are looking for it, and will also give them a familiar place to return to when they are lost and need to re-start.
+  * This recommendation could be applied to other products that are linked from hubs, main pages, or landing pages.
+
 ## Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-plan.md)
