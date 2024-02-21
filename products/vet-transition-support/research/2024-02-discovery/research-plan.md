@@ -62,7 +62,7 @@ To be inclusive of diverse perspectives, we plan to recruit participants from va
 
 ### Veterans
 How many names are we seeking?
-- The VTS team is seeking interviews with 20 veterans.
+- The VTS team is seeking interviews with 16 veterans.
 
 What criteria should be used to develop the Veteran outreach list?
 
@@ -70,13 +70,13 @@ What criteria should be used to develop the Veteran outreach list?
 There are two criteria that are the highest priorities. The team is aiming for certain percentages on the following criteria:
 
 Time since separation:
-- 10 veterans -- Veterans who separated within the past 2 years
-- 10 veterans -- Veterans who separated more than 2 years ago
+- 8 veterans -- Veterans who separated within the past 2 years
+- 8 veterans -- Veterans who separated more than 2 years ago
   
 Current age:
-- 6 veterans -- Veterans who are 35 or younger
-- 6 veterans -- Veterans in their 40s or 50s
-- 8 veterans -- Veterans who are 65 or older
+- 5 veterans -- Veterans who are 35 or younger
+- 5 veterans -- Veterans in their 40s or 50s
+- 6 veterans -- Veterans who are 65 or older
 
 **Secondary criteria (nice-to-haves)**
 - The team would also like to have 50% be Veterans who have previously engaged with the VA and 50% Veterans who have not previously engaged.
@@ -91,21 +91,13 @@ Gender:
 - 50% – Male
 - 50% – Female
 
-### Transitioning Servicemembers (TSMs)
+### Transitioning Servicemembers (TSMs) and Commanding Officers (COs)
 How many names are we seeking?
-- The VTS team is seeking interviews with 6 TSMs.
+- The VTS team is seeking interviews with 6 TSMs and COs.
 
-What criteria should be used to develop the TSM outreach list?
-- We would like for the listed TSMs to be within one year of their separation date.
-- We are seeking TSM participants from a mix of Service Branches.
-- As noted above, we are also seeking a percentage mix of Race and Gender across the Veterans, TSMs, and COs on the outreach list.
-
-### Commanding Officers (COs)
-How many names are we seeking?
-- The VTS team is seeking interviews with 4 COs.
-
-What criteria should be used to develop the TSM outreach list?
-- We are seeking CO participants from a mix of Service Branches.
+What criteria should be used to develop the TSM and CO outreach list?
+- We would like for any listed TSMs to be within one year of their separation date.
+- We are seeking TSM and CO participants from a mix of Service Branches.
 - As noted above, we are also seeking a percentage mix of Race and Gender across the Veterans, TSMs, and COs on the outreach list.
 
 ### Screening questions
@@ -152,37 +144,19 @@ Which of the following describe your gender? ***Already In Database***
 - Female
 
 
-### Transitioning Servicemembers (TSMs)
-When do you expect to separate from active military service?
+### Transitioning Servicemembers (TSMs) and Commanding Officers (COs)
+1. When do you expect to separate from active military service?
 - Within the next year
 - More than one year from now
 
-(Answering “within the next year” would qualify the participant.)
+(Answering “within the next year” would automatically qualify the participant. Participants who answer "More than one year from now" will only qualify if they also answer "Yes" to the following question, "Are you currently a Commanding Officer?".)
 
-What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
-- Air Force
-- Army
-- Coast Guard
-- Marine Corps
-- National Guard
-- Navy
-- Space Force
+2. Are you currently a Commanding Officer?
+- Yes
+- No
 
-Which of the following describe your race and/or ethnicity? You may choose multiple options. ***Already In Database***
-- American Indian or Alaska Native
-- Asian
-- Black or African American
-- Hispanic or Latino
-- I prefer not to answer
-- I prefer to self-describe
-- Native Hawaiian or Other Pacific Islander
-- White
+(Answering "Yes" would automatically qualify the participant. Participants who answer "No" will only qualify if they answered "Within the next year" to the previous question, "When do you expect to separate from active military service?".)
 
-Which of the following describe your gender? ***Already In Database***
-- Male
-- Female
-
-### Commanding Officers (COs)
 What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
 - Air Force
 - Army
@@ -207,7 +181,7 @@ Which of the following describe your gender? ***Already In Database***
 - Female
 
 ### Overall Screening Questions to Ask
-1. When do you expect to separate from active military service?
+When do you expect to separate from active military service?
 - Within the next year
 - More than one year from now
 - Serving on Active duty
@@ -222,11 +196,26 @@ Have you previously engaged with the VA or VA services?
 - Yes
 - No
 
+When do you expect to separate from active military service?
+- Within the next year
+- More than one year from now
+
+Are you currently a Commanding Officer?
+- Yes
+- No
+
 ## Timeline
 We plan to begin interviews with Veterans, TSMs, and COs on Monday, March 4th. We will continue interviews through Tuesday, March 12th.
 
 ### Prepare
 Since we are not testing a prototype, we will not have any additional products that need to be ready before the interviews begin.
+
+We do want to hold a kickoff call with the Perigean team. Please email the following people to schedule a kickoff call:
+- Gene Dreyband (Yevgeny.Dreyband@va.gov)
+- Cora Goldston (Cora.Goldston@va.gov)
+- Nicole Kontrabecki (Nicole.Kontrabecki@va.gov)
+- Michelle Ortiz (Michelle.Ortiz3@va.gov)
+- Victoria Sun Esparza (Victoria.Sun1@va.gov)
 
 Here is the mock participant information for the required pilot test:
 -	Pilot participant email: Nicole.Kontrabecki@va.gov
@@ -237,59 +226,66 @@ Here is the mock participant information for the required pilot test:
 
 ### Length of sessions
 * Session length: 1 hour
-* Buffer time between sessions: 1 hour
-* Maximum Sessions per day: There will be 2 moderators and 2 notetakers. Please schedule each interviewer and notetaker for no more than 2 sessions per day. (This means a maximum of 4 sessions total per day across our entire team.)
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: There will be 2 interviewers. Please do not schedule a particular interviewer for more than 3 interviews per day. Both interviewers can do a combined total of 5 interviews per day.
 
 ### Availability
 Monday, March 4
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 
 Tuesday, March 5
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 
 Wednesday, March 6
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 
 Thursday, March 7
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 
 Friday, March 8
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 
 Monday, March 11
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 
 Tuesday, March 12
 -	10:00-11:00am ET
--	12:00-1:00pm ET
--	2:00-3:00pm ET
+-	11:30am-12:30pm ET
+-	1:00-2:00pm ET
+-	2:30-3:30pm ET
 -	4:00-5:00pm ET
 	
 ## Team Roles	
 Moderators:
-- Victoria Sun Esparza (737-273-5781; Victoria.sun1@va.gov)
+- Victoria Sun Esparza (737-273-5781; Victoria.Sun1@va.gov)
 - Cora Goldston (773-316-1424; Cora.Goldston@va.gov)
 
 Research guide writing and task development (usually but not always same as moderator):
-- Victoria Sun Esparza (737-273-5781; Victoria.sun1@va.gov)
+- Victoria Sun Esparza (737-273-5781; Victoria.Sun1@va.gov)
 - Cora Goldston (773-316-1424; Cora.Goldston@va.gov)
   
 Participant recruiting & screening:
@@ -305,9 +301,9 @@ Accessibility specialist (for sessions where support for assistive technology ma
 - Can Perigean help with accessibility support?
   
 Note-takers:
-- Nicole Kontrabecki (443-360-6528; Nicole.Kontrabecki@va.gov)
-- Another notetaker TBD from the VTS team
+- We are interested in having Perigean take notes. We can discuss this further on our kickoff call.
   
 Observers:
 - Gene Dreyband (408-921-4440; Yevgeny.Dreyband@va.gov)
-- Additional VA observers are TBD
+- Nicole Kontrabecki (443-360-6528; Nicole.Kontrabecki@va.gov)
+- Michelle Ortiz (843-209-5026; Michelle.Ortiz3@va.gov)
