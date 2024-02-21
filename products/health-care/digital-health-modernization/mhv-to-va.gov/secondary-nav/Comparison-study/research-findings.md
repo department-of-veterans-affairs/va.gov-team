@@ -166,13 +166,17 @@ Within the portal, they are suppressed in more than one way: they’re not prior
 ## Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-plan.md)
+
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/conversation-guide.md)
+
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes)
 
 ### Other studies mentioned
 
 [Health Wayfinding Study - Jun 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/7f57cbccdb6a083c3281abd21e3fce0a5885a640/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
+
 [My HealtheVet Secondary Nav Research - Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
+
 [Status Visibility IA Study - Jan 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/084b74d92d44f3170ab53fc4e53c002b4b105918/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
 ### Tools used for Synthesis
