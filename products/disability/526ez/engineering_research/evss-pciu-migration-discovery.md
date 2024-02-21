@@ -52,14 +52,54 @@ As mentioned above, 526ez has its own custom pre-fill which is called before the
 
 Note, however, that **PCIU_Address is called regardless of whether or not VA Profile information came back** (even though it is the preferred address)
 
+## Using Argo Production Terminal to call PCIU and VA Profile
+
+The below walks through how to call out to PCIU_Address and VA Profile to obtain a particular user's contact information. Note that the below only works if the user has submitted their 526ez, as it uses the auth_headers stored in their submission record.
+
+### calling PCIU_Address
+
+Do a log search in DataDog, filtering on "@client_ip: x.x.x.x" and "user_uuid". Make sure that the user_uuid that results is associated with a submission action. 
+1. Use the user_uuid to grab the Form526Submission record
+2. Use the submission record's auth_headers to initialize the EVSS PCIUAddress service
+3. Call get_address on the service
+
+```ruby
+uuid = '1485238c5FAKEGUID4bdfc5db827eb78'
+s = Form526Submission.find_by(user_uuid: uuid)
+service = EVSS::PCIUAddress::Service.new(nil, s.auth_headers)
+service.get_address
+```
+
+### calling VA Profile
+
+1. Use the user_uuid to grab the ICN from the Account record
+2. Use the ICN to query VA Profile's Person service for the vet360_id
+3. Use the vet360_id to initialize the VA Profile ContactInformation service
+4. Call get_person on the service
+
+```ruby
+account = Account.find_by(idme_uuid: uuid)
+icn = account.icn
+aaid = CGI.escape("#{icn}#{Identity::Parsers::GCIdsConstants::ICN_ASSIGNING_AUTHORITY_ID}")
+encoded_icn = "#{Identity::Parsers::GCIdsConstants::VA_ROOT_OID}/#{aaid}"
+service = VAProfile::Person::Service.new({})
+raw_response = service.perform(:get, encoded_icn)
+vet360_id=raw_response.body['bio']['vet360_id'].to_s
+user = OpenStruct.new({vet360_id: vet360_id})
+service = VAProfile::ContactInformation::Service.new(user)
+service.get_person
+```
+
+526ez prefill populates `mailing_address` from the VA Profile response from the `addresses` array where `@address_pou = "CORRESPONDENCE"`
+
 # Open Questions/Thoughts
 There are many open questions, and we can expect this list to grow. So feel free to add to the section below (and for that matter, the section above 😜)
 
 ## VA Profile related
 VA Profile potentially delivers a wealth of information about a vet. So why are they calling EVSS PCIU to grab email and phone in the default pre-fill?
 
--   Calls to VA Profile require a vet360_id associated with the user. Is VA Profile an opt-in service?
-    -   If so, perhaps the problem is that not enough vets have opted in to make it a comprehensive solution?
+-   ~~Calls to VA Profile require a vet360_id associated with the user. Is VA Profile an opt-in service?~~
+    -   ~~If so, perhaps the problem is that not enough vets have opted in to make it a comprehensive solution?~~ NOT opt-in. Should be enough.
 -   Maybe when pre-fill was initially implemented, VA Profile was lacking in this information and PCIU was used to fill the gaps.
     - If so, the PCIU calls could be (carefully) removed. "Carefully" meaning every team in charge of all of the above forms look into it and sign off on removing it
     - Perhaps there are different/better API calls now in VA profile since this was implemented
