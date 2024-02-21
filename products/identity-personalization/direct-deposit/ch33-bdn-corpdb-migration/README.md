@@ -130,6 +130,57 @@ For both 526 (Disability Comp) and 527 (Pension):
 - What capabilities, if any, will the contact centers have to update edu information after April 20th?
 - As a result, how should we be directing people on VA.gov?
 
+## Assumptions and risks
+
+### Lighthouse
+
+We will only be able to meet the April 20th deadline if the following is true for Lighthouse:
+
+1. We are not pointing to a new BGS service and using the existing endpoint
+2. We are not removing any of the checks we have in place eg. BNPayment, has index, has address as we cant assess what impact this has on the existing service
+3. We will provide the Open sec on the new endpoint, but cant commit to having documentation updated
+4. Any additional work identified will require additional time
+
+### BGS
+
+As of 2.21.24, we are awaiting an estimate from BGS, but the following release schedule puts our work at risk:
+
+- BGS requires 1-month lead-time for anything going to production.
+- In order to meet the April 20th target date, we would need all changes to be in BGS, Lighthouse, and VA.gov and fully tested **by March 13th** in order to meet the next prod release of **April 13th**.
+- This would only leave us about 3 weeks for VA.gov, BGS, and Lighthouse to do all of our work and testing, which is unrealistic.
+
+## Comms schedule
+
+VBA will be sending out comms to folks who have both comp & pen and education benefits to let them know they need to reconcile their bank information. This is the schedule they will be using for weekly comms:
+
+- Monday- Email to School Certifying Officials w/ updated lists (if possible)
+- Tuesday- Text message to students remaining
+- Wednesday- robo-dial to students remaining (when avail)
+- Thursday- Email to students remaining
+- Friday- robo-dial to students remaining (when avail)
+
+### Initial 2.20.24 email issue
+
+On 2.20.24, VBA sent an email blast at 4:50 PM ET to at least 50K veterans letting them know they need to update their C&P and edu direct deposit info so it matches. This resulted in a huge amount of traffic -- and lots of errors -- as a result of us not being prepared for the traffic increase. Most importantly, everything was resolved and back to normal quickly, as we worked with Lighthouse to increase the rate limit for C&P updates, which is what was causing the errors. [Details here](https://dsva.slack.com/archives/C03P6C3FYMR/p1708467123800059).
+
+- [Datadog: Direct deposit data on 2.20.24 from 2:00 PM ET to 4:00 PM ET](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?refresh_mode=paused&view=spans&from_ts=1708455600000&to_ts=1708462800000&live=false)
+- [Datadog: Direct deposit data on 2.20.24 from 5:00 PM ET to 7:00 PM ET](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?refresh_mode=paused&view=spans&from_ts=1708466400000&to_ts=1708473600000&live=false)
+
+#### C&P retrievals
+
+For C&P retrievals, we roughly doubled the amount of retrievals we got from 2:00 - 4:00 ET to 5:00 - 7:00 ET, which is shortly after the email blast went out. Our success rate was only about 70% during the first two hours after the email blast went out.
+
+#### C&P Updates
+
+The email blast resulted in roughly **four-times** the amount of updates we normally receive in a two hour period for comp & pen direct deposit. The rate limit was raised around 6:00 pm ET, which is when errors dropped off dramatically.  Our success rate was only about 60% during the first two hours after the email blast went out.
+#### Edu retrievals
+
+Education direct deposit retrievals roughly doubled from the two hours prior to the email blast to the two hours after. The success rate was about 99%, as this endpoint didn't have the same rate limit issue.
+
+#### Edu updates
+
+Education direct deposit updates went up dramatically from the two hours prior to the email blast to the two hours after. We saw almost **17-times** the amount of updates we normally do. The success rate was about 98%, as this endpoint didn't have the same rate limit issue.
+
 ## Timeline
 
 We are effectively kicking this work off on **February 20, 2024**, which means we have less than 60 days to complete this project. This is a rough timeline of how this might work **if the code updates are relatively simple**. If we get into the code and it's much more complex, we'll need to come up with a plan around what can be done by April 20th and create an estimate on when full functionality will be available again.
