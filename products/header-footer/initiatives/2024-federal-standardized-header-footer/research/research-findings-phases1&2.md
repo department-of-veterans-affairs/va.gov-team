@@ -106,7 +106,7 @@ For each of the 7 tasks that research participants did during the sessions, the 
 - **Needed help** (participant needed a hint or other help from the moderator in order to successfully complete the task)
 - **Unsuccessful** (participant wasn't able to complete the task, even with help from the moderator)
 
-The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 most challenging tasks were difficult because some participants didn't look in the footer or couldn't find the Auth menu.
+The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 tasks with the lowest success rates (60-75%) were challenging for some participants because they didn't look in the footer (for the FOIA and VA Careers links) or couldn't find the Auth menu (needed to update mailing address).
 
 INSERT SCREENSHOT
 
