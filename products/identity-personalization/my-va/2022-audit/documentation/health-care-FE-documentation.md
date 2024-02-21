@@ -294,8 +294,8 @@ Use font awesome icon `file-medical` for icon
 - When this error shows, do not show any other secondary links in the section since we cannot tell if the user has VA health care.
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A279&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A809&mode=design&t=2I2vzoW03gTPk52L-1)
 
 
 ### Error State 2: The health care appointments API call fails (can't tell if user has appointments scheduled but can tell they have VA health care)
@@ -318,8 +318,8 @@ Use font awesome icon `file-medical` for icon
   - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A266&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A798&mode=design&t=2I2vzoW03gTPk52L-1)
 
 
 ### Error State 3: The messaging API call fails
@@ -329,5 +329,5 @@ Use font awesome icon `file-medical` for icon
 - Follow all other specs for when this secondary link shows.
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E1F1890F-BA4D-4726-909B-0055361FDF65)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=2I2vzoW03gTPk52L-1)
