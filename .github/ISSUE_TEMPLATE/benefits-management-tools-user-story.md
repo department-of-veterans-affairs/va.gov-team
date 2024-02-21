@@ -49,8 +49,9 @@ assignees: ''
 - [ ] Code reviewed (internal)
 - [ ] Submitted to staging
 - [ ] Team approved production verification process
-- [ ] Product performs functional QA and verifies acceptance criteria was met
+- [ ] Design performs design QA and verifies the implementation matches the design spec
 - [ ] Engineering identifies staging users required to test and shares account and credentials with product
+- [ ] Product performs functional QA and verifies acceptance criteria was met
 
 ## Acceptance Criteria
 - [ ] _AC_
