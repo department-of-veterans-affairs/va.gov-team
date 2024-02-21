@@ -55,7 +55,7 @@
 | **What happens when we submit a request for help from your team?** | Our Product Owner, Tom Black, will review your request. If he approves it, we will share a ticket link with you. | 2/15/2024 | 
 | **How will I know if there has been movement on a submitted question on an issue?** | Ideally, we will have something for you to test within 2 days. There may be delays due to PR reviews, errors, and other issues. | 2/15/2024 | 
 | **We are testing a possible bug with a test user. How do we obtain additional test user credentials?** | Let us know. We’ll DM you some test creds you can borrow for a few days.| 1/03/2024 | 
-| **Refresh doesn’t work. Do we need to revoke?** | Revoke is probably unnecessary (but it makes sense to call it for simplicity’s sake). This falls into the same category as errors such as where `/demographics` is being called before the new session is fully set up. The user’s old access token is being used but they don’t have a real session anymore. | 1/03/2024 | 
+| **`Refresh` doesn’t work. Do we need to `revoke`?** | `Revoke` is probably unnecessary (but it makes sense to call it for simplicity’s sake). This falls into the same category as errors such as where `/demographics` is being called before the new session is fully set up. The user’s old access token is being used but they don’t have a real session anymore. | 1/03/2024 | 
  | **Do we have to let you know if authentication in review instances ever break?** | Yes please, we aren’t actively using review instances. If they break, you'll find out first. | 1/19/2024 |
 
 -----------------
