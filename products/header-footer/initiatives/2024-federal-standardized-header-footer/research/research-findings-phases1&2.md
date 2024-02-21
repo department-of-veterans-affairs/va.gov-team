@@ -100,6 +100,16 @@ For more details, see [Who we talked to](#who-we-talked-to).
 
 
 ### 1. 
+For each of the 7 tasks that research participants did during the sessions, the moderator recorded how it was completed:
+- **Directly successful** (using one of the "correct" paths implemented in the prototype)
+- **Indirectly successful** (using a different path that wasn't implemented in the prototype but was plausible and would likely work in Production, such as doing a site search, OR using one of the "correct" paths in the prototype but not as the first try)
+- **Needed help** (participant needed a hint or other help from the moderator in order to successfully complete the task)
+- **Unsuccessful** (participant wasn't able to complete the task, even with help from the moderator)
+
+The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 most challenging tasks were difficult because some participants didn't look in the footer or couldn't find the Auth menu.
+
+INSERT SCREENSHOT
+
 
 
 
