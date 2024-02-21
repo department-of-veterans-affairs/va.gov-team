@@ -21,20 +21,69 @@ Neither device needs to have a data connection for the purposes of this testing 
 
 This is a generic testing procedure, when doing mobile accessibility testing you can use it as a starting point and modify as makes sense given the specific items being tested, and the constraints that may be applied, such as time, device availability, etc.
 
-High-level info that is important to record:
-
+<details>
+    
+    <summary>Minmal Sample Mobile Accessibility Testing Checklist</summary>
+    
 ```plaintext
-# TEAM NAME, PRODUCT NAME mobile accessibility testing plan
-- Name of person conducting test
-- Date of test
 
-## Testing environment: 
-- Test device(s)
-- Test device operating system version
-- Notes on test device accessibility settings
-- Browser used for accessibility testing
-- Link to test environment, or procedure for running locally if you didn't test this in dev., staging or production.
+# TEAM NAME, PRODUCT NAME mobile accessibility test
+- NAME OF PERSON CONDUCTING TEST
+- DATE OF TEST
+
+## Testing environment
+- TEST DEVICE
+- TEST DEVICE OPERATING SYSTEM VERSION 
+- MOBILE BROWSER USED FOR ACCESSIBILITY TESTING
+- Links to test environment: 
+
+## User journey to be tested
+
+Describe the user journey being tested: 
+
+- Start: 
+- Tasks to be preformed: 
+- Success criteria: 
+
+## Dry run
+### Portrait orientation
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information: 
+
+### Landscape orientation
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information: 
+
+## Zoomed in
+### Portrait orientation at 200%
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information:
+
+### Portrait orientation at MAX ZOOM%
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information:
+
+### Landscape orientation at 200%
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information:
+
+### Landscape orientation at MAX ZOOM%
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information:
+
+## Screen reader
+- Where you able to perform all tasks defined in the user journey: yes/no
+- Where all success criteria met: yes/no
+- Notes and other information:
 ```
+
+</details>
 
 As of January 2024, at least in the US, iOS devices only support a single browser engine -- the technology used to compute and render a webpage -- regardless of the name of the browser downloaded, this means that on iOS testing can be safely confined to only Safari, because all other browsers use the same browser engine under the hood, WebKit. This said, in the future we suggest that research be done with VA.gov users to determine the validity of this statement.
 
