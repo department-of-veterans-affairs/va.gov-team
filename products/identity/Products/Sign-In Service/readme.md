@@ -1,104 +1,145 @@
-# Sign in Service (SiS)
+# Sign-in Service (SiS) overview
 
-## Overview
+SiS is a fast, secure, and reliable authentication solution for client 
+applications that use VA resources.
 
-The Sign in Service was created to solve the shortcomings identified with the current VA.gov authentication solution. The new service provides a more reliable and faster user experience, increases the ability to iterate on enhancing user satisfaction, and provides a more cost-effective solution to VA while increasing transparency for login issues.
+## What is Sign-in Service?
 
-### Getting Started with SiS
+Sign-in Service (SiS) is a client service that authenticates login credentials, and grants access to vets-api resources. SiS is [documented for developers on Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
 
-#### Postman Collection
+__SiS provides 2 products for applications:__
+  1. User authentication
+  2. System authentication
 
-The VA.gov Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](postman.md).
+### What is authentication and authorization?
 
-#### SiS Quickstart
+Authentication is one part of your application that:
+  1. confirms the identity of the person or application logging in
+  2. gives them access to VA resources based on rules you define
 
-* Make sure your local installation of [vets-api](https://github.com/department-of-veterans-affairs/vets-api) and [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata) repository are up to date.
-* Decide which of the [four authorization flows supported by SiS](#authorization-flows) your client will implement.
-* Register a [Client Config](configuration/client_config.md) with `vets-api` to manage your client's specific configuration. If you are implementing the [Service Account](auth_flows/service_account.md) auth flow you will need to create a [Service Account configuration](configuration/service_account.md) instead.
-* Build your client's integration with SiS according to the specifications of the auth flow you have chosen.
-* Once you have your SiS integration working locally, or if you are encountering issues, you can contact the Identity team on the [`#vsp-identity`](https://dsva.slack.com/archives/CSFV4QTKN) Slack channel.
 
-## Authorization Flows
+Learn more about [authentication and authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization).
 
-Sign in Service provides four distinct methods of authorization, with options for web-based and API integrations and both end user and API auth.
+## Benefits of SiS
+- __Security:__ uses [OAuth 2.0](https://oauth.net/2/) for industry-leading security and an intuitive user - experience.
+- __24/7 monitoring:__ Identity team monitors and supports issues with authentication. We notify your team of other issues related to your application so you can fix them right away.
+- __Performance:__ users log in faster with fewer redirects, and have less downtime compared to other authentication solutions.
+- __Visibility:__ monitor errors and performance with default dashboards you can customize. 
+- __Consistency:__ user authentication can leverage our [Unified Sign-in Page (USiP) that appears on VA.gov](https://www.va.gov/?next=loginModal) for the frontend experience.
 
-### Proof Key for Code Exchange (PKCE)
+## How do I get started?
 
-The standard SiS authorization flow for end users makes use of the PKCE, or `Proof Key for Code Exchange` OAuth 2.0 standard. PCKE makes use of a dynamically generated client secret to bridge the potential security gap between user authorization and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). This PKCE flow functions with browser-managed cookies to enable web auth, and API request headers for mobile and API auth.
+Identity team works with you to customize your onboarding experience:
+- An Identity team member will contact you for basic details about your team and your application.
+- Book a meeting with us to scope out the project based on your use cases.
+- Collaborate with our engineers to finalize requirements for the project.
+- After requirements are approved, it usually takes 1-2 sprints to complete the project.
+- You can track your progress in [Github](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/2) issues along the way. 
 
-* [Website / Cookie Authorization Guide](auth_flows/cookie_oauth.md)
+Learn more about [each step of the process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows) and [answers to common questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ.md).
 
-* [Mobile / API Authorization Guide](auth_flows/api_oauth.md)
+# SiS onboarding overview
 
-### JWT Auth & Service Account Auth
+Identity team provides documentation, validation guides, 1x1 meetings, and office hours to support you through every step. You’ll track your progress in Github issues along the way.
 
-Sign in Service is also configured to handle two types of backend authorization:
+## Estimated timeline for integrating with SiS (6-8 weeks)
 
-* [Private Key JWT](auth_flows/private_key_jwt.md): This flow allows a backend API unconnected to the original `/authorize` request to complete auth and obtain tokens by passing a JWT signed by their pre-registered private key, essentially allowing a different client to complete the user's auth from the one that initiated it.
+![Time Line](./public/SiStimeline.png)
 
-* [Service Account Auth](auth_flows/service_account.md): This flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
 
-## Client Configuration & Service Account
+# [SiS slides outline (link to slides)](https://docs.google.com/presentation/d/17JuRrXlMTNT1qLfDPLwWcuJKv5_n6wfN0ux6eB0Nsuw/edit#slide=id.g2b946ccaa94_0_314)
 
-In order to make use of the PKCE and JWT auth flows clients must register a `Client Configuration`. This database object is used by SiS to manage the client's authentication type, URI redirects, token durations, and other configurable options. More information on how to create and configure your application's Client Configuration [can be found here](configuration/client_config.md).
+## What is Sign-in Service?
+- Sign-in Service (SiS) is a client service that authenticates login credentials, and grants access to vets-api resources. SiS is [documented for developers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) on Github. 
 
-Service Account auth, being API-to-API instead of an end user authentication flow, uses `Service Account` objects to achieve similar configuration options. Information on creating a Service Account configuration [can be found here](configuration/service_account.md).
+- __What is authentication?__
+  - Authentication is one part of your application that:
+    1. confirms the identity of the person or application logging in
+    2. gives them access to VA  resources based on rules you define
+  - Learn more about authentication and authorization.
+__
+- __What are the requirements for using SiS?__
+  - SiS works as an authentication solution for Veterans and their beneficiaries. It works with any application logging in or accessing these resources. 
 
-## Example PKCE Workflow
+## Benefits of SiS
+- __Security:__ uses [OAuth 2.0](https://oauth.net/2/) for industry-leading security and an intuitive user experience.
+- __24/7 monitoring:__ Identity team monitors and supports issues with authentication. We notify your team of other issues related to your application so you can fix them right away.
+- __Performance:__ users log in faster with fewer redirects, and have less downtime compared to other authentication solutions.
+- __Visibility:__ monitor errors and performance with default dashboards you can customize. 
+- __Consistency:__ user authentication can leverage our [Unified Sign-in Page (USiP) that appears on VA.gov](https://www.va.gov/?next=loginModal) for the frontend experience.
 
-Most clients will find either the cookie or API PKCE flows to be appropriate to their needs of authenticating end users with SiS. The following is an example of what a succesful authentication, exchange of auth code for tokens, and refresh of tokens/persistance of a session looks like.
+## How does the onboarding process work?
+- __What work does my team need to complete?__
+  - You’ll need to create the authentication controls for your application routes. An engineer will need to understand how your backend code will restrict access to your endpoints based on a standard authentication.
+  - Your team will facilitate the client side of the authentication process (calling/authorize, then receiving a one-time use code and calling /token). 
+  - Learn more about how SiS works in our [Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
 
-1. User opens their client (VA.gov / VA mobile app) to sign in via OAuth.
-2. User clicks on the button to sign in with their credential service provider (CSP).
-3. Client calls the vets-api Sign-in-Service (SiS) OAuth `/authorize` endpoint with specific query parameters outlined in the [`/authorize`](./endpoints/authorize.md) document.
-4. Vets-api redirects to CSP website for user to enter credentials.
-5. After the user authenticates with the CSP it calls SiS API endpoint `/callback` to create an auth code.
-6. SiS API redirects user to the client with a `code` query parameter.
-7. Client makes a call to the SiS API [`/token`](./endpoints/token.md) endpoint to get `Access Token` + `Refresh Token` + `Anti-CSRF Token`, stored in cookies (web authorization) or returned as a JSON payload (API authorization). Web auth will include an additional `Info Token` that tracks the expiry times of the other tokens.
+- __How long will this project take?__
+  - Depending on how much you want to build or customize, the project takes ~6-8 weeks to complete, which includes:
+    - 1-hour kickoff meeting to learn more and start scoping out your project
+    - 1-hour meetings with your backend developers and frontend developers to develop requirements.
+  - A final sign-off meeting to approve the work.
+  - After the Identity team registers your client configuration or service configuration, we estimate it will take 1-2 sprints worth of effort to build, test, and deploy your integration.
+  - Check out this page for a detailed timeline.
 
-    ```json
-    {
-      "data": {
-        "access_token": "<accessTokenHash>",
-        "refresh_token": "<refreshTokenHash",
-        "anti_csrf_token": "<antiCsrfTokenHash>"
-      }
-    }
-    ```
+- __What information does the Identity team need from our team?__
+  - Team members, including: your product owner, developer, and OCTO PO.
+  - Values for your application, such as redirect_uri (if not within vets-api).
+  - Fields for client configuration or service account configuration.
+  - Qualities of SiS token on their application to confirm authenticated routes (for example, making sure token is properly signed by SiS, confirm token is not expired, etc).
+  - A public certificate (for service account setup or private key JWT).
 
-8. Client stores access token + refresh token.
-9. Client uses access token in cookies (web auth) or Bearer Authorization header (API auth) to call the [`/introspect`](./endpoints/introspect.md) endpoint and receive user information.
+- __When do the details in the requirements document need to be finalized?__
+  - We’ll establish the basic requirements for the project with your frontend and backend developers during 2 dedicated meetings. We can continue to refine the requirements over time based on the needs of your team.
 
-    ```json
-    "data": {
-       "id": "",
-       "type": "users",
-       "attributes": { 
-          "uuid": "876f0f36-6b12-4273-babe-12144eaa2d57",
-          "first_name": "FAKEY",
-          "last_name": ...
-        }
-    }
-    ```
+- __What role does the Identity team play in the process?__
+  - You’ll schedule meetings with our product and engineering teams to discuss your project and plan out your use cases.
+  - The Identity team provides 24/7 monitoring of the client application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration.
+  - Office hours with the Identity team [insert support process details here].
 
-10. Once the access token reaches expiry client passes their refresh token to the [`/refresh`]((./endpoints/refresh.md)) endpoint to get a new set of tokens: a new `Access Token` + `Refresh Token` will be returned, as well as a new `Anti-CSRF Token` and/or `Info Token` if they are currently in use.
+- __How can I track the progress of my project? How will I be notified about updates?__
+  - You can track your progress in Github issues for your specific SiS onboarding project. 
+  - You’ll get Slack notifications about any issues that come up after the project is over.
 
-```json
-  {
-    "data": {
-      "access_token": "<accessTokenHash>",
-       "refresh_token": "<refreshTokenHash>",
-       "anti_csrf_token": "<antiCsrfTokenHash>"
-    }
-  }
-```
+- __How will I know if my integration is working properly?__
+  - Our team provides a basic guide for validating that users have access to the right routes. (Dick is working on this now)
 
-## Endpoints
+- __Who is responsible for making updates in the future?__
+  - Your team can request user attribute rule updates anytime you need. All authentication route changes are to be completed by your team with assistance provided by the Identity team upon request.
+  - Questions about best practices for authentication or security? Get in touch with the Identity team in #vsp-identity or attend [office hours at X date and time].
 
-* [`/authorize` - Authorize](endpoints/authorize.md)
-* [`/token` - Token](endpoints/token.md)
-* [`/refresh` - Refresh](endpoints/refresh.md)
-* [`/introspect` - Introspect](endpoints/introspect.md)
-* [`/logout` - Logout](endpoints/logout.md)
-* [`/revoke` - Revoke (current session)](endpoints/revoke.md)
-* [`/revoke_all` - Revoke all sessions](endpoints/revoke_all.md)
+- __How will my existing app users be impacted?__
+  - Users will observe a significantly faster login experience with fewer redirects.
+  - The only difference is that if you currently have an auto-auth functionality with other SSOe apps that are not using Sign-in Service (SiS), users may need to login again to all non-SiS applications. This should be a temporary constraint as more applications implement SiS. Auto auth between SiS apps is in place today for all applications that request it.
+
+### What does maintenance and support look like?
+- __How will I monitor my integration over time?__
+  - The Identity team provides 24/7 monitoring of the application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration. Every 6 months you’ll confirm the primary point of contact to receive these alerts.
+  - The Identity team provides default Datadog dashboards for monitoring performance.
+  - Additional tracking will be set up by the Identity team which allows your team to monitor your applications authentication performance.
+
+- __Will I be alerted if anything goes wrong?__
+  - The Identity team provides 24/7 monitoring of the application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration. Every 6 months you’ll confirm the right point of contact is listed to receive these alerts.
+  - There’s also a troubleshooting Slackbot in #vsp-identity.
+    - type `/auth-help`, fill out the details of your issue or request and an identity engineer will reach out.
+  - We have office hours with the Identity team [insert support process details here].
+
+- __Do I need any special permission to access Datadog dashboards?__
+  - Work with the Platform team to ensure you have access to Datadog.
+  - The Identity team provides an overview of the default SiS dashboards available.
+
+- __Are there any other self-service monitoring tools available?__
+  - There’s also a troubleshooting Slackbot in #vsp-identity.
+  - We have office hours with the Identity team [insert support process details here].
+  - Link to [Glossary](https://docs.google.com/document/d/1YaOl9KkBCT736vSpcuuQqGkCKk1GX8BQV1wCbtL4zwc/edit#heading=h.vbudsmpjww8k)
+  - Link to [primer doc](https://docs.google.com/document/d/1zqZfoiebCeW4hvN8BP0ve8iR11LE4sgTwrEhZri1k_M/edit)
+
+![Journey Map](./public/SiSJourney.png)
+
+# Appendix
+
+## Additional content needs
+- Documentation for default Datadog dashboards (not planned)
+- Documentation for validation rules (in progress)
+- Documentation on the Platform site for developers about SiS (future)
+
