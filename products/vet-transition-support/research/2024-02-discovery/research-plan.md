@@ -67,29 +67,29 @@ How many names are we seeking?
 What criteria should be used to develop the Veteran outreach list?
 
 **Primary criteria (must-haves)** 
-There are two criteria that are the highest priorities. The team is aiming for certain percentages on the following criteria:
-
-Time since separation:
+For Veterans only - Time since separation:
 - 8 veterans -- Veterans who separated within the past 2 years
 - 8 veterans -- Veterans who separated more than 2 years ago
   
-Current age:
+For Veterans only - Current age:
 - 5 veterans -- Veterans who are 35 or younger
 - 5 veterans -- Veterans in their 40s or 50s
 - 6 veterans -- Veterans who are 65 or older
 
-**Secondary criteria (nice-to-haves)**
-- The team would also like to have 50% be Veterans who have previously engaged with the VA and 50% Veterans who have not previously engaged.
-- The VTS team is seeking Veteran participants from a mix of Service Branches.
-- The team seeks the following percentage mix across the Veterans, TSMs, and COs on the outreach list:
+Please provide participants from a mix of Service Branches across the entire sample. (Service branch is already captured in the Perigean database.)
 
-Race:
+Please provide a mix of Race and Gender across all participants as close as possible to the following splits:
+
+Race (already captured in Perigean database):
 - 50% – Non-white
 - 50% -– White
   
-Gender:
+Gender (already captured in Perigean database):
 - 50% – Male
 - 50% – Female
+
+**Secondary criteria (nice-to-haves)**
+- The team would also like to have 50% of the Veterans who have previously engaged with the VA and 50% Veterans who have not previously engaged.
 
 ### Transitioning Servicemembers (TSMs) and Commanding Officers (COs)
 How many names are we seeking?
