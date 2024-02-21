@@ -1,4 +1,4 @@
-# Mobile Accessibility Testing
+# Mobile Web Accessibility Testing
 
 [Analytics show](https://analytics.usa.gov/veterans-affairs) that nearly half of all traffic to VA.gov comes from mobile devices. As such, we feel that it is exceedingly important to do accessibility testing specifically for mobile devices. This document is written for and by CAIA accessibility specialists, but should be generally applicable to anyone interested in doing mobile accessibility testing. This document provides guidance on how to perform manual mobile accessibility testing for web applications (as opposed to mobile apps).
 
