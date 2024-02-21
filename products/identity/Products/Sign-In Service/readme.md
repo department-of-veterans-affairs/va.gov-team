@@ -36,7 +36,7 @@ Identity team works with you to customize your onboarding experience:
 - After requirements are approved, it usually takes 1-2 sprints to complete the project.
 - You can track your progress in [Github](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/2) issues along the way. 
 
-Learn more about [each step of the process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows) and [answers to common questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ.md).
+Learn more about [each step of the process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/stepByStep.md) and [answers to common questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ.md).
 
 # SiS onboarding overview
 
