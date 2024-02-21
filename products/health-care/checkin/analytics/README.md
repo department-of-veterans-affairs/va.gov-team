@@ -8,6 +8,7 @@
      - [Check-In Simple View](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-656d5fd1f385d165c9ce28403df3a8c4?refresh_mode=sliding&from_ts=1703522923071&to_ts=1706114923071&live=true)
      - [Check-In Time Metrics in seconds](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-023e70fff5e0b68e7a22c36867342e09?refresh_mode=sliding&from_ts=1703523118249&to_ts=1706115118249&live=true)
      - [Check ins completed vs. initiated](https://vagov.ddog-gov.com/dashboard/gjx-4i9-de3/check-ins-initiated-and-completed-vets-api?refresh_mode=sliding&view=spans&from_ts=1708454032764&to_ts=1708540432764&live=true)
+     - [45MR Requests](https://app.ddog-gov.com/sb/e92f059a-aa2c-11ec-9c41-da7ad0900007-3b0997c27aff287795ba5d8659125f46?refresh_mode=sliding&from_ts=1707935759563&to_ts=1708540559563&live=true)
        
 ## DOMO
 - [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
