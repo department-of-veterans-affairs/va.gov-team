@@ -37,7 +37,7 @@ We had substantial success by adding [letters and dependents](https://github.com
 We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Disability Rating_**. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
 
 > [!NOTE]  
-> We originally considered including both claims and disability rating and later narrowed this to just disability rating [insert link to caia ticket or original finding/slack thread
+> We originally considered including both claims and disability rating and later narrowed this to just disability rating; [see this slack thread where this was discussed](https://dsva.slack.com/archives/C909ZG2BB/p1704921178281609) 
 
 
 ## Problem Statement
