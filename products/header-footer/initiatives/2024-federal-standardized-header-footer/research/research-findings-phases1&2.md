@@ -74,7 +74,7 @@ This report will cover Phases 1-2 in detail. Phase 3 is covered in the third top
 - **Almost half** (8 of 19) **saw a mobile prototype**, and the others (11 of 19) saw a desktop prototype. 
 - **About half** (9 of 19) **were full-time assistive technology users**: 5 used a screen reader, and 5 used a screen magnifier (one person used both).
 
-The assistive technology used by 9 participants is summarized in the table below. All of them had been using their assistive tech for at least 2 years (range 2-18 years).
+The assistive technology used by 9 participants is summarized in the table below. All of them had been using their assistive tech for at least 2 years (average of 10 years; range 2-18 years).
 
 P# | Screen Reader/ Magnifier | Software | Device | O/S | Browser | Prototype version
 -- | ----- |------|-------|--------|--------|---------
@@ -106,7 +106,12 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ## Key Findings
 
-1. 
+1. **Wayfinding wasn't adversely affected** by the header and footer design.
+1. **None of the participants mentioned missing the "VA" logo**. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA.
+1. **Half of the participants had difficulty finding the Auth menu**, and a third of the participants didn't recognize that they were signed in.
+1. There was **confusion about what constituted the footer and the bottom of the page**, due to a long VA footer followed by a shorter federal footer.
+1. There were a number of **accessibility problems that affected task completion by participants using screen readers**.
+1. **More than half of the participants who could see the colored federal USA logo in the header had negative impressions** of it. Some of these participants preferred the white USA logo in the footer.
 
 ## Details of Findings 
 
