@@ -107,11 +107,12 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 ## Key Findings
 
 1. **Wayfinding wasn't adversely affected** by the header and footer design.
-1. **None of the participants mentioned missing the "VA" logo**. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA.
+1. There were some **accessibility problems that affected task completion by participants using screen readers**.
 1. **Half of the participants had difficulty finding the Auth menu**, and a third of the participants didn't recognize that they were signed in.
 1. There was **confusion about what constituted the footer and the bottom of the page**, due to a long VA footer followed by a shorter federal footer.
-1. There were a number of **accessibility problems that affected task completion by participants using screen readers**.
 1. **More than half of the participants who could see the colored federal USA logo in the header had negative impressions** of it. Some of these participants preferred the white USA logo in the footer.
+1. **None of the participants mentioned missing the "VA" logo**. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA.
+
 
 ## Details of Findings 
 
