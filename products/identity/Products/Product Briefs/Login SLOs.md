@@ -23,10 +23,19 @@ For this first iteration, the focus will be on:
 
 
 ## Use Cases:
-- As a Veteran, I should be able to login to va.gov 99.9999% of the time as measured weekly by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.
-- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to login to va.gov, as measured weekly by the _SIS Authorize_ in datadog. If the weekly average time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
-- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as measured weekly by the _SIS Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately. If the average time drops below 99.999%, the root cause will be investigated and resolved.
-- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to logout from va.gov, as measured weekly by the _SIS Logout_ dashboard in datadog. If the weekly average logout time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured monthly by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to login to va.gov, as measured monthly by the _SIS Authorize_ in datadog. If the monthly average time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured monthly by the _SSOe Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to login to va.gov, as measured monthly by the _SSOe Authorize_ dashboard in datadog. If the monthly average time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured monthly by the _SIS Callback_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to login to va.gov, as measured monthly by the _SIS Callback_ dashboard in datadog. If the monthly average time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured monthly by the _SSOe Callback_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to login to va.gov, as measured monthly by the _SSOe Callback_ dashboard in datadog. If the monthly average time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As A Veteran, I should not have to re-enter my credentials 99.9999% of the time if I have not been idle for longer than 29 minutes, as measured monthly by the _SIS Refresh_ dashboard in datadog. If the endpoint goes down, it should be treated as a P2, and fixed on a timely basis.
+- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as, measured monthly by the _SIS Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately. If the average time drops below 99.999%, the root cause will be investigated and resolved.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to logout from va.gov, as measured monthly by the _SIS Logout_ dashboard in datadog. If the monthly average logout time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
+- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as, measured monthly by the _SSOe Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately. If the average time drops below 99.999%, the root cause will be investigated and resolved.
+- As a Veteran, I should have to wait no longer than [HOW LONG?] to get a result when I try to logout from va.gov, as measured monthly by the _SIS Logout_ dashboard in datadog. If the monthly average logout time goes above [HOW LONG], we will [WHAT SHOULD OUR RESPONSE BE?]
 
 ## Assumptions:
 * 
