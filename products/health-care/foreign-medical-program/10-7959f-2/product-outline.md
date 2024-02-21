@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-The online 10-7959f-2 would allow Veterans to file a claim to get coverage for a service connected condition while outside of the U.S.
+The online [10-7959f-2](https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/) would allow Veterans to file a claim to get coverage for a service connected condition while outside of the U.S.
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
