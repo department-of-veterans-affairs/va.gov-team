@@ -161,8 +161,7 @@ VBA will be sending out comms to folks who have both comp & pen and education be
 
 <details>
 
-<summary>Initial 2.20.24 email issue</summary>
-
+<summary><h3>Initial 2.20.24 email issue</h3></summary>
 
 On 2.20.24, VBA sent an email blast at 4:50 PM ET to at least 50K veterans letting them know they need to update their C&P and edu direct deposit info so it matches. This resulted in a huge amount of traffic -- and lots of errors -- as a result of us not being prepared for the traffic increase. Most importantly, everything was resolved and back to normal quickly, as we worked with Lighthouse to increase the rate limit for C&P updates, which is what was causing the errors. [Details here](https://dsva.slack.com/archives/C03P6C3FYMR/p1708467123800059).
 
