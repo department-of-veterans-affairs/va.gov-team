@@ -186,6 +186,7 @@ Within the portal, they are suppressed in more than one way: they’re not prior
 ### Pages and applications used
 
 [Prototype A (no icons)](https://000698568.codepen.website/email.html)
+
 [Prototype B](https://000698676.codepen.website/results.html)
 
 ## Who we talked to 
