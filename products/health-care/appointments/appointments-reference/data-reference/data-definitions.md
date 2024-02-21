@@ -123,7 +123,6 @@ The type of assessment or treatment the Veteran will receive.
 #### Veteran Reason for Appointment
 
 
-
 ## Community Care Appointments and Requests
 
 ### CC Booked Appointments
@@ -141,8 +140,8 @@ The day and time of the appointment. May be in the future or the past. The time 
 
 #### Treatment Specialty
 
+**Related fields**  
 
-**Related fields**
 [Type of care](#type-of-care)
 
 **Technical notes:**
