@@ -4,7 +4,9 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. Only the heading and "Need Info" sections are displayed on the screen.  Content was not rendering between the 2 sections. The [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) was determined to be the source of the issue, and has since been reverted.  
+After the daily deploy on 02/12/2024, the 10-10EZ application lost the ability for authenticated users to access the application. Only the heading and "Need Info" sections are displayed on the screen.  Content was not rendering between the 2 sections. Frontend [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) was determined to be the change that triggered the incident, and was eventually reverted.
+
+Additionally, the attempt to merge the revert PR and trigger an out-of-band deploy was significantly delayed by ongoing issues with the CI/CD pipeline, increasing the duration of the incident by about a day. 
 
 ## Impact
 
@@ -47,7 +49,22 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | --- | --- | --- | --- |
 | Revert [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808)  | Frontend | 10-10 Health Enrollment | Va.gov-team - [#76129](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76129) |
 
-## Root Cause Analysis
+## Narrative
+On Friday, Febrary 9, an engineer merged frontend [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) to main. The intent of the PR was to increase test coverage of the 1010ez health care application in advance of upcoming changes. The PR included some additional refactoring and cleanup, decomposing helper methods into smaller files/modules. The engineer followed a typical process for such a PR - merging it to main after the day's daily production deploy to allow time for it to be tested in staging in advance of the next production deploy. The engineer ran the updated code through end-to-end tests, tested it locally and on a review instance, and in staging. The engineer expressed no expectation that behavior of this code would differ significantly in production.
+
+On Monday February 12, the PR was included in the day's daily production deploy. Monday's production deploy occurred later than normal, at 5:25 PM ET.
+
+On Tuesday, February 13, an engineer from the VHA Enrollment System (ES) team notified the 1010 application team in their slack channel that submissions from VA.gov to ES were coming through at a rate much lower than normal. Various team members began trying to debug and isolate the issue. They confirmed that submissions appeared lower than normal in existing dashboards maintained by the 1010-health-apps team. Of note, while submission rate was low, it was not zero, indicating that the application was partially functional. And the issue was reported in the early morning when the baseline application rate is normally fairly low. 
+
+An engineer asserted that there were no apparent backend connectivity issues or relevant changes. Another engineer checked the timing of the most recent production deploys for both vets-api and vets-website, and saw a correlation between the vets-website deploy and the change in submission rate. From there the engineer examined the PRs included in that deploy and found only one PR (27808) related to the 1010ez application. In parallel, another engineer tried to reproduce any issues in staging, and eventually production, and was able to confirm that the issue only occurred in production, and only for users who were both signed in and verified (LOA3). 
+
+During this process the team also decided to configure a maintenance window for the product to avoid confusion and frustration for end users. A product manager for the team was able to configure that successfully. They noted that because maintenance windows are configured in terms of upstream dependencies, it was necessary to take both the 1010ez and 1010ezr applications offline, even though only the former was affected. 
+
+The decision was made to rever the PR, either in Tuesday's upcoming production deploy or if necessary via an out-of-band (OOB) deploy. The team engaged the VA.gov platform team via the vfs-platform-support channel. They missed the window of opportunity for the production deploy. An OOB deploy was approved, and the remainder of the incident duration has to do with getting a successful CI/CD run to complete in order to deploy the reverted code. 
+
+
+
+## Analysis
 
 **PENDING** 
 This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
@@ -92,7 +109,7 @@ Describe cases where, ordinarily, you would have expected to or could have encou
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2024-12-09 @ 04:21 PM ET`: [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) was merged to main. 
+- `2024-02-09 @ 04:21 PM ET`: [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) was merged to main. 
 - `2024-02-12 @ 05:25 PM ET`: The Daily Deploy was completed - [List of commits deployed](https://github.com/department-of-veterans-affairs/vets-website/compare/v0.1.2510...6bd6d33c9045a79229b63e5228b91827cfd7a1e1)
 - `2024-02-13 @ 09:54 AM ET`: Joshua Faulkner posted in the #1010-health-apps Slack channel that the 10-10EZ forms submissions had dramatically dropped off since the previous night around midnight
 - `2024-02-13 @ 10:04 AM ET`: Adrian Rollett assisted with some Datadog insights, a Sidekiq retries chart had peaked and had not yet returned to normal
