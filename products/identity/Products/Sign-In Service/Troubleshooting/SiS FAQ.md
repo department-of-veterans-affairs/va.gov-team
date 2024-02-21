@@ -36,7 +36,7 @@
 | **Is there a way for us to determine timelines so we can choose to develop against it?** | If you dont require SSO initially, you can start on it now. We have SiS in production for the VA Health and Benefits app. We also have the ability to support system to system (STS) auth in production for any services looking to utilize a zero trust compliant STS. | 2/15/2024 | 
 | **Is SiS able to be used by teams who are not deploying on the VA.gov platform? If so, would we get shared sessions with the other teams if both of our teams implement SiS.** | Yes, any team within VA can utilize the Sign-in Service. Also, since the mechanism is there to support it, any teams that have implemented SiS can participate in a shared session solution. | 2/15/2024 |
 | **Do we need to wait until we have the subdomain set up before we do a configuration?** | You would be able to set up either solution on test stacks before your subdomain is fully set up. | 1/03/2024 | 
-| **Do you have a link to additional SiS information?** | This is our GitHub page: [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/e249f5fda1806a37b4d247e8c2f812e0023aa06c/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service). | 1/03/2024 | 
+| **Do you have a link to additional SiS information?** | This is our GitHub page: [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service). | 1/03/2024 | 
 
 
 -----------------
