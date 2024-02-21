@@ -19,7 +19,7 @@ Neither device needs to have a data connection for the purposes of this testing 
 
 ## Sample testing procedure
 
-This is a generic testing procedure, when doing mobile accessibility testing you can use it as a starting point and modify as makes sense given the specific items being tested, and the constraints that may be applied, such as time, device availability, etc.
+This is a generic testing procedure, when doing mobile accessibility testing you can use it as a starting point and modify as makes sense given the specific items being tested and the constraints that may be applied, such as time, device availability, etc.
 
 <details>
     <summary>Minmal Sample Mobile Accessibility Testing Checklist</summary>
@@ -43,6 +43,12 @@ This is a generic testing procedure, when doing mobile accessibility testing you
     - Start: 
     - Tasks to be preformed: 
     - Success criteria: 
+    EXAMPLE SUCCESS CRITERIA: 
+        - All buttons are selectable
+        - All links are selectable
+        - All input fields can receive focus
+        - When an input field receives focus, focus is visible or signaled (labels announced, etc)
+        - etc.
     
     ## Dry run
     ### Portrait orientation
