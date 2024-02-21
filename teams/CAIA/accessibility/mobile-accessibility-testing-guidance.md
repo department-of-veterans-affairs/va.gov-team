@@ -24,7 +24,7 @@ This is a generic testing procedure, when doing mobile accessibility testing you
 <details>
     <summary>Minmal Sample Mobile Accessibility Testing Checklist</summary>
 
-    ```plaintext
+    ```markdown
     
     # TEAM NAME, PRODUCT NAME mobile accessibility test
     - NAME OF PERSON CONDUCTING TEST
