@@ -22,7 +22,7 @@ Neither device needs to have a data connection for the purposes of this testing 
 This is a generic testing procedure, when doing mobile accessibility testing you can use it as a starting point and modify as makes sense given the specific items being tested and the constraints that may be applied, such as time, device availability, etc.
 
 <details>
-    <summary>Minimal Sample Mobile Accessibility Testing Checklist</summary>
+    <summary>Minimal Sample Mobile Web Accessibility Testing Checklist</summary>
 
     ```markdown
     
