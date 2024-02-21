@@ -166,4 +166,4 @@ The Identity team provides [default Datadog dashboards](http://url/) for monitor
 
 [Github draft issue](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/2?pane=issue&itemId=52738066)
 
-We’d love to hear any feedback you have about your experience integrating with Sign-in Service. Please take [this short survey](https://dj540s05.optimalworkshop.com/questions/1b248e78752dbb7c3103add453df0aed)https://dj540s05.optimalworkshop.com/questions/1b248e78752dbb7c3103add453df0aed) so we can improve our process in the future.
+We’d love to hear any feedback you have about your experience integrating with Sign-in Service. Please take [this short survey](https://dj540s05.optimalworkshop.com/questions/1b248e78752dbb7c3103add453df0aed) so we can improve our process in the future.
