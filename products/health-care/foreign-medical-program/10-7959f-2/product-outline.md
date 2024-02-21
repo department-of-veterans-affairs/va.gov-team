@@ -44,6 +44,8 @@
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+* Takes 120 days to process (this is outside desired goal - 90% within 45 days).
+* Can take 'minutes to hours' to process a claim (depending on how many pages).
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
