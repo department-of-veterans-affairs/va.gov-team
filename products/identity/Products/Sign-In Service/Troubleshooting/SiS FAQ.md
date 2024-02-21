@@ -24,6 +24,9 @@
 
 ## [Options](#options)
 
+## [Additional Resources](#additional-resources)
+
+
 -----------------
 
 
@@ -49,7 +52,7 @@
 | Question | Answer | Revision Date |
 | --- | --- | --- |
 | **If I need assistance, what info will I need to provide?** | Info that is helpful for providing support include: Screen captures; Links to logs; Test user(s) used; Sign-in method used. | 1/24/2024 | 
-| **Is there a way for us to determine timelines such that we might choose to develop against it?** | If you dont require SSO initially, you can start on it now. We have SiS in production for the VA Health and Benefits app. We also have the ability to support system to system auth in production for any services looking to utilize a zero trust compliant STS.  | 2/15/2024 |
+| **Is there a way for us to determine timelines? Can we develop against SiS now?** | If you don't require SSO initially, you can start on it now. We have SiS in production for the VA Health and Benefits app. We also have the ability to support system to system auth in production for any services looking to utilize a zero trust compliant STS.  | 2/15/2024 |
 | **Is there a Slack channel for general SiS questions?**| Yes, use the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN). | 2/15/2024 |
 | **What happens when we submit a request for help from your team?** | Our Product Owner, Tom Black, will review your request. If it is approved, we will share a ticket link with you. | 2/15/2024 | 
 | **How will I know if there has been movement on a submitted question on an issue?** | Ideally, we will have something for you to test within 2 days. There may be delays due to PR reviews, errors, and other issues. | 2/15/2024 | 
@@ -105,3 +108,10 @@
 | **We need the MVP for our app to be able to securely sign in and have that session be specific to the subdomain blahexample.va.gov. Are both of these options documented? How much of these options can our team do internally?** | For sign-in service on the backend, we can create a new configuration in a `test stack` (like staging) at any point, or you can work with it on `localhost`. | 2/19/2024 |
 
 -----------------
+
+-----------------
+## Additional Resources
+
+Sis Documentation: [link](url)
+
+Contact: [link](url)
