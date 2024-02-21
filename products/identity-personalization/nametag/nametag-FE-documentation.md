@@ -1,5 +1,5 @@
 # Nametag Frotend Documentation
-**Last updated - February 14, 2024 - published**
+**Last updated - February 16, 2024 - updated formatting**
 _These specs are largely pulled from the documentation done by the Benefits team in 11/23_
 
 The Nametag appears on both Desktop & Mobile for VA.gov.
@@ -23,7 +23,7 @@ Disability rating
 State 1: User has a disability rating
 
 - We can only detect a disability rating if a user is LOA3 (identity verified). We can not detect if they have one if they are LOA1 (not identity verified).
-- Show nametag with name (this includes First Name, Middle Name/Initials (if any, supports multiple capitalized characters if no spaces), Last Name), branch of service (if returned), and disability rating as a percentage value.
+- Show nametag with name (this includes First Name, Middle Name/Initials (if any, supports multiple capitalized characters, Last Name), branch of service (if returned), and disability rating as a percentage value.
 - Include the total disability rating if someone has one.
 - The disability rating should link to the the disability rating tool.
 - The disability rating number we are showing is the total disability rating for a given veteran, which can be made up of one or more ratings. This integration already exists on VA.gov. For specifics on how to connect to that endpoint, please talk to the eBenefits migration team, who originally migrated this information over to VA.gov from eBenefits.
@@ -41,11 +41,11 @@ Legal name
 
 State 1: Legal/full name end point loads
 
-    Show nametag with user's name (this includes First Name, Middle Name/Initials (if any, supports multiple capitalized characters if no spaces), Last Name). Branch of service and disability rating will only show if they are returned/applicable.
+- Show nametag with user's name (this includes First Name, Middle Name/Initials (if any, supports multiple capitalized characters), Last Name). Branch of service and disability rating will only show if they are returned/applicable.
 
 State 2: Legal/full name end point does NOT load
 
-    Do not display nametag.
+- Do not display nametag.
 
 Military information
 
@@ -68,8 +68,9 @@ State 1: Error state - Not in MPI
   
 State 2: Error state - MPI connection error
 -  Do not display nametag.
+
 Blocked Profile
 
-    This happens if someone has a fiduciary, is marked as incompetent, or is marked as deceased.
-    Show nametag with all available user data.
-    Same as standard LOA3 use cases.
+- This happens if someone has a fiduciary, is marked as incompetent, or is marked as deceased.
+- Show nametag with all available user data.
+- Same as standard LOA3 use cases.
