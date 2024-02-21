@@ -78,15 +78,26 @@ Lead: John Dell
 
 ### GI Bill (1990) form team
 
+#### Overview
+
 Lead: Riley Ross
 
-- Updating the Chapter 3 GI Bill (1990) form to send direct deposit info to CorpDB.
+- The DGIB (Digital GI Bill) team sits outside of OCTO, so we need to be in close communication with them on what they are or are not able to do by April 20th.
+
+#### Work needed
+
+- This team is responsible for updating the Chapter 3 GI Bill (1990) form to send direct deposit info to CorpDB.
+- According to Riley Ross as of 2/20/24, the intent is for the weekend of 4/27 to cutover the backend of the 1990 form so that instead of updating the BDN, it updates Corporate.
+
+#### Risks
+
+- If this work can't or doesn't happen in time, it reflects badly on VA.gov even though this works sits outside of OCTO. We need to clearly communicate with Riley and team so we can support the 1990 form in whatever way is needed.
 
 ### 526/527 team
 
-Lead: Julie Strothman
-
 #### Overview
+
+Lead: Julie Strothman
 
 For both 526 (Disability Comp) and 527 (Pension):
 - A VSR updates CorpDB when an award is made: They replace whatever's on file with the account specified in the claim.
