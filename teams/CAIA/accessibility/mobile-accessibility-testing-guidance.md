@@ -52,39 +52,39 @@ This is a generic testing procedure, when doing mobile accessibility testing you
     
     ## Dry run
     ### Portrait orientation
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information: 
     
     ### Landscape orientation
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information: 
     
     ## Zoomed in
     ### Portrait orientation at 200%
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information:
     
     ### Portrait orientation at MAX ZOOM%
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information:
     
     ### Landscape orientation at 200%
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information:
     
     ### Landscape orientation at MAX ZOOM%
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information:
     
     ## Screen reader
-    - Where you able to perform all tasks defined in the user journey: yes/no
-    - Where all success criteria met: yes/no
+    - Were you able to perform all tasks defined in the user journey: yes/no
+    - Were all success criteria met: yes/no
     - Notes and other information:
     ```
 
