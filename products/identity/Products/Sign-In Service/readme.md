@@ -44,8 +44,6 @@ Identity team provides documentation, validation guides, 1x1 meetings, and offic
 
 ## Estimated timeline for integrating with SiS (6-8 weeks)
 
-![Time Line](./public/SiStimeline.png)
-
 
 # [SiS slides outline (link to slides)](https://docs.google.com/presentation/d/17JuRrXlMTNT1qLfDPLwWcuJKv5_n6wfN0ux6eB0Nsuw/edit#slide=id.g2b946ccaa94_0_314)
 
@@ -133,8 +131,6 @@ __
   - We have office hours with the Identity team [insert support process details here].
   - Link to [Glossary](https://docs.google.com/document/d/1YaOl9KkBCT736vSpcuuQqGkCKk1GX8BQV1wCbtL4zwc/edit#heading=h.vbudsmpjww8k)
   - Link to [primer doc](https://docs.google.com/document/d/1zqZfoiebCeW4hvN8BP0ve8iR11LE4sgTwrEhZri1k_M/edit)
-
-![Journey Map](./public/SiSJourney.png)
 
 # Appendix
 
