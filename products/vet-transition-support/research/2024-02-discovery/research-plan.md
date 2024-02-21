@@ -67,6 +67,7 @@ How many names are we seeking?
 What criteria should be used to develop the Veteran outreach list?
 
 **Primary criteria (must-haves)** 
+
 For Veterans only - Time since separation:
 - 8 veterans -- Veterans who separated within the past 2 years
 - 8 veterans -- Veterans who separated more than 2 years ago
