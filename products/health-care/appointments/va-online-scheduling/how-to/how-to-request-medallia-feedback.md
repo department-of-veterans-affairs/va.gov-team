@@ -52,8 +52,8 @@ All in one file, on one tab
 | Week 3 Jan 14–Jan 20  | Peter Russo  | [74120](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74120) | Done        |
 | Week 4 Jan 21–Jan 27  | Peter Russo  | [74718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74718) | Done        |
 | Week 5 Jan 28–Feb 03  | Peter Russo  | [75305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75305) | Done    |
-| Week 6 Feb 04–Feb 10  |  Peter Russo            | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) |  In progress      |
-| Week 7 Feb 11–Feb 17  |  Peter Russo            | []() |        |
+| Week 6 Feb 04–Feb 10  |  Peter Russo            | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) |  Done      |
+| Week 7 Feb 11–Feb 17  |  Peter Russo            | [76684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76684) | In Progress       |
 | Week 8 Feb 18–Feb 24  |  Peter Russo            | []() |        |
 | Week 9 Feb 25–Mar 02  |  Peter Russo            | []() |        |
 | Week 10 Mar 03–Mar 09 |  Peter Russo            | []() |        |
