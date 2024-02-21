@@ -108,11 +108,15 @@ To achieve this it is important that we have a strong mental model for how scree
 
 [Apple's documentation for enabling VoiceOver on iOS.](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios)
 
+[Guide to VoiceOver gestures.](https://support.apple.com/guide/iphone/use-voiceover-gestures-iph3e2e2281/ios)
+
 Complete the entire flow using VoiceOver's default settings.
 
 #### Android, TalkBack
 
 [Google's documentation for enabling TalkBack on Android.](https://support.google.com/accessibility/android/answer/6007100?hl=en)
+
+[Guide to TalkBack gestures.](https://support.google.com/accessibility/android/answer/6151827?sjid=15946081337955240428-NA)
 
 Complete the entire flow using TalkBack's default settings.
 
