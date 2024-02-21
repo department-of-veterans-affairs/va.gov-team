@@ -87,10 +87,10 @@ The name of the facility staff who will be seeing/treating the Veteran.
 The type of assessment or treatment the Veteran will receive.
 
 VAOS Display Requirements:
-- Type of Care for VA appointments must be set to the `serviceType` except if any of the following are true:  
+- Type of Care for VA appointments must be set to the `serviceType` **except** when:  
   - `serviceType` is `NULL`, Front End will set type of care to ‘VA appointment’.
-  - `serviceCategory` is other than `regular`, Front End will set type of care to ‘VA appointment’. 
-      - Note, Backend sets the `serviceType` when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).  
+  - OR`serviceCategory` is other than `regular`, Front End will set type of care to ‘VA appointment’. 
+- Backend sets the `serviceType` when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).  
 - Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.
 - A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with `type of care = Compensation and pension exam`.    
 
