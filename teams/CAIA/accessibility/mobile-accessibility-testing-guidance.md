@@ -1,5 +1,3 @@
-`WIP DRAFT`
-
 # Mobile Accessibility Testing
 
 [Analytics show](https://analytics.usa.gov/veterans-affairs) that nearly half of all traffic to VA.gov comes from mobile devices. As such, we feel that it is exceedingly important to do accessibility testing specifically for mobile devices. This document is written for and by CAIA accessibility specialists, but should be generally applicable to anyone interested in doing mobile accessibility testing. This document provides guidance on how to perform manual mobile accessibility testing for web applications (as opposed to mobile apps).
@@ -107,7 +105,16 @@ Screen readers are used in a vast number of scenarios and are typically very con
 To achieve this it is important that we have a strong mental model for how screen readers work, technically, and an even stronger understanding of how folks are using screen readers on va.gov. As such, it is important that we continue to support assistive tech-focused user research sessions, and participate in pilot sessions, getting a feel for the technology and its nuances. 
 
 #### iOS, VoiceOver
+
+[Apple's documentation for enabling VoiceOver on iOS.](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios)
+
+Complete the entire flow using VoiceOver's default settings.
+
 #### Android, TalkBack
+
+[Google's documentation for enabling TalkBack on Android.](https://support.google.com/accessibility/android/answer/6007100?hl=en)
+
+Complete the entire flow using TalkBack's default settings.
 
 ### The future, Voice Control and other alternative input methods
 
@@ -116,13 +123,27 @@ Currently, alternative input methods aren't well tested. In the future it is rec
 ## Tools and FAQ
 ### Useful tricks 
 
+Many bugs related to screen readers have to do with how focus is being managed. While there are many useful tools for visualizing focus, sometimes it is useful to generate a log of every componenet that receives focus durring a given time. The following code allows you to record just that! 
 
+```javascript
+let lastActiveElement;
+
+setInterval(function() {
+    const activeElement = document.activeElement;
+    if (lastActiveElement !== activeElement) {
+        console.log(activeElement);
+        lastActiveElement = activeElement;
+    }
+}, 10);
+```
+
+To use this, before starting your test copy and paste the previous code snippet into the browser's console and evaluate it by hitting the "enter" key. Once it is running it will start to log every HTML element within the DOM that receives focus. 
 
 ### Mobile developer tools
 
 If you don't mind navigating teeny tiny developer tools on your mobile device, [start by looking at this cross platform mobile developer tool bookmarklet.](https://dev.to/asaoluelijah/how-to-access-dev-tool-on-mobile-browsers-14nd) If that is too cumbersome proceed to pair desktop developer tools to your mobile testing devices.
 
-#### Pairing with Safari’s developer tools
+#### Pairing iOS Safari with Desktop Safari’s developer tools
 
 Safari on iOS doesn’t include [Developer Tooling](https://developer.apple.com/safari/), but you can connect desktop Safari’s developer tools to a running simulator or real iOS device. To do this you need to first enable “Developer mode” in Safari on your Desktop. Do this by launching Safari and navigating to preferences. From there select “Advanced” and then check the box near the bottom labeled “Show Develop menu in the menu bar.” This is a one-time action, and the selection will persist moving forward.
 
@@ -130,4 +151,12 @@ Once developer mode is enabled on desktop Safari you’ll have a new option in t
 
 If you rely on plugins or bookmarklets to run automated accessibility scans, usually those won’t be available to you from the desktop to the device – you can use bookmarklets from the device, though. [Here is a collection of useful bookmarklets to save on mobile Safari for testing with.](https://pauljadam.com/bookmarklets/) They can be a bit difficult to configure on mobile, though. [Here are directions to help with that process.](https://www.cultofmac.com/500532/how-to-add-bookmarklet-mobile-iphone-safari/#:~:text=The%20easiest%20way%20to%20install,on%20your%20iPad%20or%20iPhone.)
 
-#### Pairing with Chrome's developer tools
+#### Pairing Chrome on Android with Desktop Chrome's developer tools
+
+This is a less straightforward process than it is with iOS because of variability in Android devices. As such, only the most basic steps are provided: 
+
+- On your Android device [enable Developer mode](https://www.samsung.com/us/support/answer/ANS00087642/)
+- On your Android device, in the developer section of the settings application enable USB and WiFi debugging -- this will allow you to "pair" your phone and your computer
+- Now, in Chrome on your computer configure the "[Chrome Remote Debugger](https://developers.google.com/cast/docs/debugging/remote_debugger)."
+
+When completed, you will be able to use the DevTools from Chrome on your Desktop to debug and inspect a web content running in Chrome on Android. 
