@@ -55,7 +55,7 @@ We conducted 16 remote interviews with Zoom. The 16 participants interacted with
 ### Links to Codepen prototypes
 Note: Prototypes are responsive
  * [Prototype A (no icons)](https://000698568.codepen.website/results.html)
- * [Prototype B (with icons)](https://000698568.codepen.website/results.html)
+ * [Prototype B (with icons)](https://codepen.io/figaro/project/live/AqoeoW)
 
 ## Key Findings
 
