@@ -67,7 +67,7 @@ At the end of the meeting, we’ll set up some follow-up pairing sessions with o
 1. Do end users interact with the application?
 
 - If they do, you will most likely need to [configure your integration as a client application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/client_config.md).
-- If not, your integration will likely need to be [configured as a service account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/configuration/service_account.md). (move to next step)
+- If not, your integration will likely need to be [configured as a service account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/service_account.md). (move to next step)
 
 2. Do you need to use our Unified Sign-in Page (USiP)?
 
