@@ -95,7 +95,7 @@ You have no upcoming appointments to show.
 ### If a user receives VA health care at a Cerner facility
 
 - [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A468&mode=design&t=CREOF8xG3jKa75nz-1)
-- [Desktop - expanded, V1 component]([https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Ryd9gKQ](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=93%3A15630&mode=design&t=CREOF8xG3jKa75nz-1))
+- [Desktop - expanded, V1 component](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=93%3A15630&mode=design&t=CREOF8xG3jKa75nz-1)
 - [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A918&mode=design&t=CREOF8xG3jKa75nz-1))
 - [Mobile - expanded](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=85%3A8697&mode=design&t=CREOF8xG3jKa75nz-1))
 
