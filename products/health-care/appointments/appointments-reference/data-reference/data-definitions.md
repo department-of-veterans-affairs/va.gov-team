@@ -28,7 +28,6 @@ They physical location of the clinic at the facility; for example, the building,
 
 The main phone number for the facility where the appointment has been scheduled.
 
-
 #### Instructions: How to Join
 
 Instructions on how to join a telehealth appointment.
@@ -95,7 +94,7 @@ The type of assessment or treatment the Veteran will receive.
 
 - Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.
 
-- A VistA appointment with an APPOINTMENT TYPE = Compensation and Pension must display in VAOS with type of care = Compensation and pension exam.    
+- A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with `type of care = Compensation and pension exam`.    
 
 #### Veteran Reason For Appointment
 
