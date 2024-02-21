@@ -40,11 +40,10 @@ Application exists on VA.gov in a published, authenticated state, but can only b
       		- The delivery team has had the opportunity to remediate show-stopper issues before we make the application available to a wider audience
   	- Exit criteria:
 		- At least 25 trusted users have logged in Medical Records from the email-provided link
-		- At least 10 trusted users have viewed their list of vaccines
-  		- At least 10 trusted users have viewed an vaccine detail page
-  		- At least 10 users have requested a PDF of their vaccines list
-    		- At least 10 users have requestd a PDF of their detailed vaccines
-      		- Any issues identified in the logs (timeouts, errors, etc) have been researched and documented
+		- At least 10 trusted users have viewed their list of care summaries and notes
+  		- At least 10 trusted users have viewed a care summary/note detail page
+    		- At least 10 users have requestd a PDF of their care summary/notes.
+  	     	- Any issues identified in the logs (timeouts, errors, etc) have been researched and documented
         	- Errors related to primary events are caught, have user-friendly error message in the UI, and generate Slack alerts in the appropriate channel
     			-  Server availability
          		-  Application availability
@@ -185,26 +184,26 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Engineering  
 
-- [X] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
+- [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-- [X] All pages/components have latest content; *MHV-52038, waiting on https://github.com/department-of-veterans-affairs/vets-website/pull/26859*
+- [ ] All pages/components have latest content
 
-- [X] Unit test coverage is sufficient 
+- [ ] Unit test coverage is sufficient 
 
-- [ ] Accessibility test coverage is sufficient; *PR to update tests: https://github.com/department-of-veterans-affairs/vets-website/pull/26895*
+- [ ] Accessibility test coverage is sufficient
 
 
-- [ ] End-to-end test coverage is sufficient; *Needs additional attention* 
+- [ ] End-to-end test coverage is sufficient
 
-- [X] Functional issues resolved; *Confirm that vaccines MHV/FHIR work has been deployed to prod* 
+- [ ] Functional issues resolved
 
-- [X] Engineering information documented and stored in GitHub;
+- [ ] Engineering information documented and stored in GitHub;
 
      - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png*
      - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png*
      - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/process/phr-refresh.md*
 
-- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page; *Marci is investigating this item*
+- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page
  
 
 ### Performance and Monitoring  
