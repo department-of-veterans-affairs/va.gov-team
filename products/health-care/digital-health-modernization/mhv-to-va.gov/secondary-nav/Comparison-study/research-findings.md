@@ -10,9 +10,9 @@ Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenburg (sara.sterkenburg@va.
 
 [Key findings](#key-findings)
 
-[Next steps](#nextsteps)
+[Findings details](#findings-details)
 
-[Who we talked to](#who-we-talked-to)
+[Recommendations](#recommendations)
 
 Research readout [add link here]
 
@@ -85,7 +85,7 @@ Note: Prototypes are responsive
 
 12. For participants that did make it to the home page, locating the CPAP re-ordering link and/or the travel pay link was not a given.
 
-## Details of Findings 
+## Findings details 
 
 #### 1. The persistent-link navigation strategy (on both versions of desktop and on mobile B) was successful in helping users accomplish tasks within the four primary health tools without leaving My HealtheVet.
  * While using a version of the secondary nav that offered persistent links, all 16 participants were able to stay within the portal and complete tasks 1 and 2, which asked them to locate tasks or information within Messages, Appointments, and Medical Records. 
