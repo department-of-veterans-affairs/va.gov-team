@@ -72,7 +72,7 @@ This report will cover Phases 1-2 in detail. Phase 3 is covered in the third top
 
 - **Most** (18 of 19) **were Veterans**, 4 were family members of Veterans, 2 were caregivers of Veterans, and 1 was a Service Member (some had multiple roles).
 - **Almost half** (8 of 19) **saw a mobile prototype**, and the others (11 of 19) saw a desktop prototype. 
-- **About half** (9 of 19) **were full-time assistive technology users**--5 used a screen reader, and 5 used a screen magnifier (one person used both).
+- **About half** (9 of 19) **were full-time assistive technology users**: 5 used a screen reader, and 5 used a screen magnifier (one person used both).
 
 
 For more details, see [Who we talked to](#who-we-talked-to).
