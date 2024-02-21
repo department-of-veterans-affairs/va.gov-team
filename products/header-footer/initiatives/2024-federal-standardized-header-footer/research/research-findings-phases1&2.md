@@ -74,8 +74,21 @@ This report will cover Phases 1-2 in detail. Phase 3 is covered in the third top
 - **Almost half** (8 of 19) **saw a mobile prototype**, and the others (11 of 19) saw a desktop prototype. 
 - **About half** (9 of 19) **were full-time assistive technology users**: 5 used a screen reader, and 5 used a screen magnifier (one person used both).
 
+The assistive technology used by 9 participants is summarized in the table below. All of them had been using their assistive tech for at least 2 years (range 2-18 years).
 
-For more details, see [Who we talked to](#who-we-talked-to).
+P# | Screen Reader/ Magnifier | Software | Device | O/S | Browser | Prototype version
+-- | ----- |------|-------|--------|--------|---------
+1 | SR | JAWS | computer | Windows | Chrome | desktop
+2 | SR | Fusion | computer | Windows | Chrome | mobile (b/c browser window small)
+3 | SR & SM | MAGic | computer | Windows | Firefox | desktop
+4 | SM | Magnified screen by 160% | phone | iOS | Chrome | mobile
+6 | SM | ZoomText | computer | Windows | Edge | desktop
+7 | SR | VoiceOver | phone | iOS | Safari | mobile
+9 | SM | Increased font to 125% | tablet | iOS | Safari | desktop
+10 | SR | VoiceOver | tablet | iOS | Safari | desktop
+11 | SM | Increased font to 150% | computer | Windows | Chrome | desktop
+
+For demographic details, see [Who we talked to](#who-we-talked-to).
 
 
 ## Hypotheses and Conclusions
@@ -103,8 +116,8 @@ For more details, see [Who we talked to](#who-we-talked-to).
 For each of the 7 tasks that research participants did during the sessions, the moderator recorded how it was completed:
 - **Directly successful** (using one of the "correct" paths implemented in the prototype)
 - **Indirectly successful** (using a different path that wasn't implemented in the prototype but was plausible and would likely work in Production, such as doing a site search, OR using one of the "correct" paths in the prototype but not as the first try)
-- **Needed help** (participant needed a hint or other help from the moderator in order to successfully complete the task)
-- **Unsuccessful** (participant wasn't able to complete the task, even with help from the moderator)
+- **Needed help** (needed a hint or other help from the moderator in order to successfully complete the task)
+- **Unsuccessful** (unable to complete the task, even with help from the moderator)
 
 The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 tasks with the lowest success rates (60-75%) were challenging for some participants because they didn't look in the footer (for the FOIA and VA Careers links) or couldn't find the Auth menu (needed to update mailing address).
 
