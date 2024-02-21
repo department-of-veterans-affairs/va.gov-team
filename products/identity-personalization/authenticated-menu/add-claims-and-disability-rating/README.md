@@ -124,8 +124,9 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 ## Design
 
-- Current Auth Menu
+- [Auth Menu Figma](https://www.figma.com/file/Gubm02mbd7AqhrJBSMt81Z/Authenticated-Experience---Authenticated-Menu?type=design&node-id=1-280&mode=design&t=Wm4Jn5dsr4jFLRzq-0)
 - [Public Websites Redesign](https://www.sketch.com/s/4558672b-741f-4d59-84f0-796020d3ef57/p/35AABFD6-32D4-4484-A092-69366F2D69EA/canvas)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md#recommendations)
    
 ### Before
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b3c9247e-2707-49a8-a3c2-73a3fcaa52ba)
