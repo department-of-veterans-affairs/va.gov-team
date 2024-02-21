@@ -1,7 +1,6 @@
 # Project Outline - Ch33 Migration to CorpDB
 
-**Last updated 2/20/2024** -- Added details around teams invovled, outstanding questions, and tentative project timeline
-
+**Last updated 2/21/2024** -- Updating teams & responsibilities section; Adding details around the 2/20 email blast issue
 ## Table of Contents 
 
 ## Communications 
@@ -87,7 +86,18 @@ Lead: Riley Ross
 
 Lead: Julie Strothman
 
-- Managing any needs for the 526/527
+#### Overview
+
+For both 526 (Disability Comp) and 527 (Pension):
+- A VSR updates CorpDB when an award is made: They replace whatever's on file with the account specified in the claim.
+- The VSR includes a sentence in the award highlighting that we used the direct deposit information they provided on the application. This will override the current direct deposit account they have on file if it is different from what is submitted in the most-recent claim.
+
+#### Work needed
+
+- On the 526, we already note that this new account won't be updated in all VA systems right away. There may be some updates to the language here. Similar language should be added to the 527.
+  - Note: This can be done any time and is not affected by the April 20th deadline. 
+- For both 526 & 527, we think we should add something to the effect of "Do you already receive GI Bill or other education payments? If you get a new compensation award based on this application, your direct deposit information will be updated to this account for your GI Bill payment too."
+  - This should be done after the April 20th launch, as this information isn't true until the edu direct deposit data migrates to CorpDB.
 
 ## Outstanding questions
 
