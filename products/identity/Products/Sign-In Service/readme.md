@@ -40,10 +40,31 @@ Learn more about [each step of the process](https://github.com/department-of-vet
 
 # SiS onboarding overview
 
-Identity team provides documentation, validation guides, 1x1 meetings, and office hours to support you through every step. You’ll track your progress in Github issues along the way.
+Identity team provides documentation, validation guides, 1x1 meetings, and [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md) to support you through every step. You’ll track your progress in Github issues along the way.
 
-## Estimated timeline for integrating with SiS (6-8 weeks)
+# Estimated timeline for integrating with SiS (6-8 weeks)
 
+| <div style="width:100px;">Steps</div> | Your team | Identity team | Timeline |
+| --- | --- | --- | --- |
+| Planning | Submit your contact details and brief project description
+Book a meeting with the Identity team product owner
+Developers review https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service | Share an overview of the process
+Discuss your use cases and specific needs | 1-hour meeting scheduled within 1-2 weeks |
+| Developing requirements | Document what users or systems need to access in detail
+Identify what you may want to track and if any custom tracking is needed | 1:1 meetings with Identity team to discuss requirements:
+• Backend engineers
+• Frontend engineers (if needed)
+Register the client configuration or service configuration | 1-hour meetings scheduled within 1 week |
+| Project approval | Development team product owner and Identity team product owner sign off on requirements | Connect with Identity team engineers [during office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md) or book additional meetings as needed | 1-hour meeting scheduled at earliest convenience |
+| Implementation | Build your integration with SiS based on the documentation for the authentication method for your application | SiS provides access tokens for authentication and sessions | 1-2 sprints |
+| Testing & QA | Test your application in staging and production environments
+Validate users can log in as expected | Provides a guide for basic validation testing
+Assists your team with QA | 1 sprint |
+| Maintenance | Monitor Datadog dashboards for performance analytics
+Resolve issues related to your integration (not authentication)
+Provide feedback on SiS onboarding experience | Identity team provides 24/7 monitoring of authentication and alerts your team of issues
+Troubleshooting help via Slackbot in https://dsva.slack.com/archives/CSFV4QTKN.
+[Office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md) as needed | Verify your client application owner every 6 months |
 
 # [SiS slides outline (link to slides)](https://docs.google.com/presentation/d/17JuRrXlMTNT1qLfDPLwWcuJKv5_n6wfN0ux6eB0Nsuw/edit#slide=id.g2b946ccaa94_0_314)
 
@@ -104,7 +125,7 @@ __
 
 - __Who is responsible for making updates in the future?__
   - Your team can request user attribute rule updates anytime you need. All authentication route changes are to be completed by your team with assistance provided by the Identity team upon request.
-  - Questions about best practices for authentication or security? Get in touch with the Identity team in #vsp-identity or attend [office hours at X date and time].
+  - Questions about best practices for authentication or security? Get in touch with the Identity team in #vsp-identity or attend our [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md).
 
 - __How will my existing app users be impacted?__
   - Users will observe a significantly faster login experience with fewer redirects.
@@ -120,7 +141,7 @@ __
   - The Identity team provides 24/7 monitoring of the application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration. Every 6 months you’ll confirm the right point of contact is listed to receive these alerts.
   - There’s also a troubleshooting Slackbot in #vsp-identity.
     - type `/auth-help`, fill out the details of your issue or request and an identity engineer will reach out.
-  - We have office hours with the Identity team [insert support process details here].
+  - We have office hours with the Identity team [documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md).
 
 - __Do I need any special permission to access Datadog dashboards?__
   - Work with the Platform team to ensure you have access to Datadog.
@@ -128,7 +149,7 @@ __
 
 - __Are there any other self-service monitoring tools available?__
   - There’s also a troubleshooting Slackbot in #vsp-identity.
-  - We have office hours with the Identity team [insert support process details here].
+  - We have office hours with the Identity team [documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md).
   - Link to [Glossary](https://docs.google.com/document/d/1YaOl9KkBCT736vSpcuuQqGkCKk1GX8BQV1wCbtL4zwc/edit#heading=h.vbudsmpjww8k)
   - Link to [primer doc](https://docs.google.com/document/d/1zqZfoiebCeW4hvN8BP0ve8iR11LE4sgTwrEhZri1k_M/edit)
 
