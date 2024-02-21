@@ -15,6 +15,8 @@ CTO slack channel: appointments-oracle-health-integrations
 ## Planned Releases
 None
 
+<details>
+<summary>Tickets from previous sprint</summary>
 ## Sprint Tickets from previous sprint
 |Ticket | Status | Notes |
 |-----:|-----------:| -----:|
@@ -29,6 +31,8 @@ None
 |     Complete integrated local setup - Drew #75635| In progress       | added to sprint 4   |
 |     Create Oracle Health cancellation feature flag #75638 | In progress       |  added to sprint 4  |
 |     Update appointment PUT requests to use VPG #75639| Open       |  added to sprint 4  |
+</details>
+
 
 ## Sprint Tickets for Sprint 5
 |Ticket | Status | Notes |
