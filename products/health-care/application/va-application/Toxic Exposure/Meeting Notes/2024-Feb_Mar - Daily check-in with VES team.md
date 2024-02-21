@@ -3,6 +3,23 @@
 - Launch date is March 5, 2024
 
 ---
+
+### Feb 21, 2024 | 1010/VES - Daily Check-in for PACT Act 103
+#### Notes
+- Testing coordination
+     - VES Dev ready timing - will be ready by tomorrow 2/22
+     - Will conduct internal testing until Monday, when 1010 team is ready
+     - 1010 team ready timing - will be ready by Monday 2/26
+     - No concerns from either team with the Monday and Tuesday integration testing timeline
+- Request for VES team to share/demo how things work with enrollment system
+     - Ramya agreed and believes we may be able to do this during integration testing
+- Note: 1010EZR will not be delivered on 3/5/2024 date
+     - 1010 team will discuss priorities with HEC stakeholders and keep this audience informed of that update
+
+#### Action items
+- [ ] Heather & Ramya will share the respective test scenarios
+
+---
 ### Feb 20, 2024 | 1010/VES - Daily Check-in for PACT Act 103
 
 #### Notes
@@ -20,8 +37,9 @@
 
 #### Action items
 - [x] Meena adding 3 missing exposure items, send updated schema
-     - Meena provided the document, uploaded to [Engineerng docs folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/Engineering%20docs/eeSummary_02202024.xsd) 
-- [ ] Meena will provide sample response to 1010 team
+     - Meena provided the document, uploaded to [Engineering docs folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/Engineering%20docs/eeSummary_02202024.xsd) 
+- [x] Meena will provide sample response to 1010 team
+     - Meena provided sample request XML, uploaded to [Engineering docs folder ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/Engineering%20docs/voa_tera_sample_request_with_toxic_exposure.xml)
 - [x] Meena will update REGEX for freeform text field
      -  (FROM MEENA 2/20/2024) Here is the REGEX that we are using to validate the otherText:
 TOXIC_EXPOSURE_OTHER_TEXT_ALLOWED_CHARACTERS = "^[a-zA-Z0-9 ]{1,100}$"
