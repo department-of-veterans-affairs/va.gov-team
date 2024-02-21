@@ -94,11 +94,11 @@ __
 
 - __What role does the Identity team play in the process?__
   - You’ll schedule meetings with our product and engineering teams to discuss your project and plan out your use cases.
-  - The Identity team provides 24/7 monitoring of the client application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration.
+  - The Identity team provides [24/7 monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Identity%20Dashboard/Identity_Dashboard/Managing%20Teams%20and%20Users.md) of the client application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration.
   - Office hours with the Identity team [insert support process details here].
 
 - __How can I track the progress of my project? How will I be notified about updates?__
-  - You can track your progress in Github issues for your specific SiS onboarding project. 
+  - You can track your progress in [Github issues](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/1) for your specific SiS onboarding project. 
   - You’ll get Slack notifications about any issues that come up after the project is over.
 
 - __How will I know if my integration is working properly?__
@@ -114,7 +114,7 @@ __
 
 ### What does maintenance and support look like?
 - __How will I monitor my integration over time?__
-  - The Identity team provides 24/7 monitoring of the application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration. Every 6 months you’ll confirm the primary point of contact to receive these alerts.
+  - The Identity team provides [24/7 monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Identity%20Dashboard/Identity_Dashboard/Managing%20Teams%20and%20Users.md) of the application. We resolve issues with authentication, and alert your team of any issues with other parts of your integration. Every 6 months you’ll confirm the primary point of contact to receive these alerts.
   - The Identity team provides default Datadog dashboards for monitoring performance.
   - Additional tracking will be set up by the Identity team which allows your team to monitor your applications authentication performance.
 
