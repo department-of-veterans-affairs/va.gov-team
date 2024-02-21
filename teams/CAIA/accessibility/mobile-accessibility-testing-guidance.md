@@ -130,7 +130,7 @@ Complete the entire flow with the device locked to landscape orientation.
 
 ### Zoomed in
 
-[The foundational accessibility testing artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&projects=&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) requires that teams test at 200%, 300%, and 400% zoom levels. These zoom levels don't map perfectly to mobile accessibility testing. Zoom level can be controlled by a few factors on mobile, including the operating system, the browser's settings, and the device-level accessibility features. 
+[The foundational accessibility testing artifact](https://github.com/department-of-veterans-affairs/VA.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&projects=&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) requires that teams test at 200%, 300%, and 400% zoom levels. These zoom levels don't map perfectly to mobile accessibility testing. Zoom level can be controlled by a few factors on mobile, including the operating system, the browser's settings, and the device-level accessibility features. 
 
 **We recommend testing zoom level by adjusting the browser settings.** These have the most direct impact on the rendered web content, whereas the operating system-level zoom settings tend to impact the applications more than rendered web content.
 
@@ -156,7 +156,7 @@ Complete the entire flow with the device locked to landscape orientation at 300%
 
 Screen readers are used in a vast number of scenarios and are typically very configurable -- as such, there is an aphorism: *"if you've spoken to someone who uses a screen reader, you've spoken to one person who uses a screen reader."* Our testing cannot ensure that every configuration of every screen reader will work exactly the same, instead our goal is to ensure a certain level of usability is achieved across as many screen readers and configurations as we can realistically support.
 
-To achieve this it is important that we have a strong mental model for how screen readers work, technically, and an even stronger understanding of how folks are using screen readers on va.gov. As such, it is important that we continue to support assistive tech-focused user research sessions, and participate in pilot sessions, getting a feel for the technology and its nuances. 
+To achieve this it is important that we have a strong mental model for how screen readers work, technically, and an even stronger understanding of how folks are using screen readers on VA.gov. As such, it is important that we continue to support assistive tech-focused user research sessions, and participate in pilot sessions, getting a feel for the technology and its nuances. 
 
 #### iOS, VoiceOver
 
