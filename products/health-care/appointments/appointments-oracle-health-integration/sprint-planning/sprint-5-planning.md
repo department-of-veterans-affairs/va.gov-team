@@ -10,13 +10,15 @@ CTO slack channel: appointments-oracle-health-integrations
 
 ## 📋 Sprint Summary: we will need to include this every time as part of A6 reporting
 
-
+## 🏆 Sprint Goals
+### GOAL: Onboard New Team Members
 
 ## Planned Releases
 None
 
 <details>
 <summary>Tickets from previous sprint</summary>
+	
 ## Sprint Tickets from previous sprint
 |Ticket | Status | Notes |
 |-----:|-----------:| -----:|
@@ -35,5 +37,6 @@ None
 
 
 ## Sprint Tickets for Sprint 5
+### GOAL: Onboard New Team Members
 |Ticket | Status | Notes |
 |-----:|-----------:| -----:|
