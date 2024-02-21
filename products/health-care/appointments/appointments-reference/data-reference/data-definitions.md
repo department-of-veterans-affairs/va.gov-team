@@ -86,14 +86,12 @@ The name of the facility staff who will be seeing/treating the Veteran.
 
 The type of assessment or treatment the Veteran will receive.
 
-**Technical notes**
+VAOS Display Requirements:
 - Type of Care for VA appointments must be set to the `serviceType` except if any of the following are true:  
   - `serviceType` is `NULL`, Front End will set type of care to ‘VA appointment’.
   - `serviceCategory` is other than `regular`, Front End will set type of care to ‘VA appointment’. 
       - Note, Backend sets the `serviceType` when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).  
-
 - Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.
-
 - A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with `type of care = Compensation and pension exam`.    
 
 #### Veteran Reason For Appointment
@@ -140,13 +138,8 @@ The day and time of the appointment. May be in the future or the past. The time 
 
 #### Treatment Specialty
 
-**Related fields**  
-
-[Type of care](#type-of-care)
-
-**Technical notes:**
-
-Treatment Specialty: Front End receives the HSRM "Service Requested" data in the `serviceType` for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the user. So for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.
+VAOS Display Requirements:
+- Front End receives the HSRM "Service Requested" data in the `serviceType` for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the user. So for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.
 
 
 #### Provider Address
