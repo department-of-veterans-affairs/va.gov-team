@@ -67,7 +67,7 @@
 | Question | Answer | Revision Date |
 | --- | --- | --- |
 | **What's the current TTL of SiS tokens in staging? A teammate mentioned that they still seem to expire quickly. Any plans of having them last longer?** | The best practice for token timings in a public machine are 5 min for `access_token`, and 30 min for `refresh_token`. This is what we assume people use when they’re on the web. A potential future feature would allow a user to select ‘this is a private machine’ when they authenticate to let them use longer `refresh_token` expirations for that device. | 1/24/2024 | 
-| **For the `anti_csrf_token`, is this generated on anything or is it there to act as a state param that we can save and check against on the `refresh` calls?** | We enforce this token on a per application basis. We will discuss this with you when you set up your config. If you need to request enforcement after your project is setup, ping us in the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN). | 2/15/2024 | 
+| **For the `anti_csrf_token`, is this generated on anything or is it there to act as a state param that we can save and check against on the `refresh` calls?** | We enforce this token on a per application basis. We will discuss this with you when you set up your config. If you need to request enforcement after your project is set up, ping us in the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN). | 2/15/2024 | 
 
 -----------------
 
