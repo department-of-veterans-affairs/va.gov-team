@@ -22,66 +22,65 @@ Neither device needs to have a data connection for the purposes of this testing 
 This is a generic testing procedure, when doing mobile accessibility testing you can use it as a starting point and modify as makes sense given the specific items being tested, and the constraints that may be applied, such as time, device availability, etc.
 
 <details>
-    
     <summary>Minmal Sample Mobile Accessibility Testing Checklist</summary>
+
+    ```plaintext
     
-```plaintext
-
-# TEAM NAME, PRODUCT NAME mobile accessibility test
-- NAME OF PERSON CONDUCTING TEST
-- DATE OF TEST
-
-## Testing environment
-- TEST DEVICE
-- TEST DEVICE OPERATING SYSTEM VERSION 
-- MOBILE BROWSER USED FOR ACCESSIBILITY TESTING
-- Links to test environment: 
-
-## User journey to be tested
-
-Describe the user journey being tested: 
-
-- Start: 
-- Tasks to be preformed: 
-- Success criteria: 
-
-## Dry run
-### Portrait orientation
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information: 
-
-### Landscape orientation
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information: 
-
-## Zoomed in
-### Portrait orientation at 200%
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information:
-
-### Portrait orientation at MAX ZOOM%
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information:
-
-### Landscape orientation at 200%
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information:
-
-### Landscape orientation at MAX ZOOM%
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information:
-
-## Screen reader
-- Where you able to perform all tasks defined in the user journey: yes/no
-- Where all success criteria met: yes/no
-- Notes and other information:
-```
+    # TEAM NAME, PRODUCT NAME mobile accessibility test
+    - NAME OF PERSON CONDUCTING TEST
+    - DATE OF TEST
+    
+    ## Testing environment
+    - TEST DEVICE
+    - TEST DEVICE OPERATING SYSTEM VERSION 
+    - MOBILE BROWSER USED FOR ACCESSIBILITY TESTING
+    - Links to test environment: 
+    
+    ## User journey to be tested
+    
+    Describe the user journey being tested: 
+    
+    - Start: 
+    - Tasks to be preformed: 
+    - Success criteria: 
+    
+    ## Dry run
+    ### Portrait orientation
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information: 
+    
+    ### Landscape orientation
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information: 
+    
+    ## Zoomed in
+    ### Portrait orientation at 200%
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information:
+    
+    ### Portrait orientation at MAX ZOOM%
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information:
+    
+    ### Landscape orientation at 200%
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information:
+    
+    ### Landscape orientation at MAX ZOOM%
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information:
+    
+    ## Screen reader
+    - Where you able to perform all tasks defined in the user journey: yes/no
+    - Where all success criteria met: yes/no
+    - Notes and other information:
+    ```
 
 </details>
 
