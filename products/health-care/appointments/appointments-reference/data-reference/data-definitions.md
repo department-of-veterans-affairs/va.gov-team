@@ -22,7 +22,7 @@ The same as clinic name but written so that it will make sense to the patient.
 
 #### Clinic Location
 
-They physical location of the clinic at the facility; for example, the building, floor, and room number.
+The physical location of the clinic at the facility; for example, the building, floor, and room number.
 
 #### Facility Phone Number
 
