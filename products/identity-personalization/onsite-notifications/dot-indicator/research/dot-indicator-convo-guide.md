@@ -80,9 +80,9 @@ Ok, we have one more weblink to share with you. [Share link](https://bit.ly/48lB
 
 For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. 
 
-Where do you think on this page you could find the status of your claim?
+- Direct them to the card. Okay, what do you think everything on this card means? What do you think you might have to do next?
 
-- If they find the card: Okay, what do you think this message means? What do you think you might have to do next?
+- What do you think "We need more information from you" might mean?
 
 - _Colorblind users_: Did you have any difficulty reading this alert, or seeing it in general?
 
