@@ -137,10 +137,14 @@ The success rate for each task was computed by adding together the directly and 
 
 ### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
 
-Recognition as an official government website
+After each research session, the moderator reviewed all of the participant's comments on the two USA logos and the VA seal, and then recorded whether their sentiment on each was positive, negative, or neutral. Half of the 16 participants who commented on the logos were neutral, and the other half were mostly negative about the colored logo in the header and mostly positive about the white logo in the footer. This is summarized in the table below.
+
+![sentiment-logos](./images/sentiment-logos.png)
+
+*Recognition as an official government website*
 
 ### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
-
+The sentiment from participants on the VA seal without any "VA" logo was mostly positive (88%) and neutral (13%), without any negative sentiment at all.
 
 
 
