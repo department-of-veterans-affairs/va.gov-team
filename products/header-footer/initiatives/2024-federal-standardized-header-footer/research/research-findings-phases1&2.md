@@ -133,6 +133,41 @@ The page design was well received overall. Participants mentioned specifically l
 
 ### 2. There were some accessibility problems that affected task completion by participants using screen readers
 
+The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from impaired vision to low vision to completely blind. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. **Because there was such variability in technology and visual ability, accessibility issues that affected even one participant are included here** to consider. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't interfered with completing tasks.
+
+#### Issues that caused difficulty in doing tasks
+1. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty using search in the desktop header**. It was unclear what happened after they activated the search button. Focus didn't appear to be in the search box when it opened, though both participants expected to be able to activate *Search* and type. 
+     1. The JAWS user (p1) tried "enter" to open the search box but couldn't find it to type text. They expected to *right arrow* or *tab* to the right and expand the box, but that didn't work. They had to *arrow down* to get to the box. They were also unable to close the search box.
+     1. The VoiceOver user (p10) had difficulty opening the search box and software keyboard. It didn't work at first, so they tried double-tapping but didn't expect to have to do that before typing their search string.   
+
+1. For p1 (desktop using JAWS screen reader), **after signing in, only the page title was read on the landing page**--not any of the content.
+1. p3 (desktop using MAGic version 14 screen reader and magnifier) **couldn't understand some pages and links because MAGic didn't read them** at all. He's accustomed to hovering with his mouse to get the screen reader to read the link aloud, and then clicking on the link to go there. For many links, he had to click on them to get them to be read, but others weren't read at all. MAGic is older screen reader technology for which support has been discontinued by Freedom Scientific, but p3 reported that it usually works. Below is a list of what didn't work in our prototype with his screen reader:
+
+    1. *VA Benefits and Health Care* and *About VA* in header not read (but *Find a VA Location* was fine). 
+    1. *US Department of Veterans Affairs* reads the page URL instead of "US Department of Veterans Affairs". 
+    1. *Use the life insurance needs calculator* reads the URL before the link title.  
+    1. *VA Benefits and Health Care* megamenu items not read with mouse hover as expected. He had to click on them to hear them read, but then it also took him there.
+    1. *Contact us* page not read at all. The content and jump links say nothing. The *Ask VA* content says "blank blank blank...", so it was reading but none of the words or characters.
+    1. *USA Government* on the *Contact* page not read (but this reads out correctly on the life insurance page).
+
+1. p3 (desktop using MAGic version 14 screen reader and magnifier) **didn't notice the 4th column of footer links** with his magnified screen. When we discussed it later in the session, he said that there's a larger gap after column 3 than there is between the other columns, and so he assumed that there was nothing more to the right.
+1. p10 (desktop using VoiceOver screen reader on an iPad) was **confused by navigation in the blue footer because he didn't perceive any columns but saw (with limited vision) the screen jump**, which happened every time he moved from the last link in one column to the first link in an adjacent column.
+   > *"I'm down here at the lower part of screen. Now I'm back at the top of the screen, and...I think I did something wrong or something's going funky with the screen" (p10).*
+1. p7 (mobile using VoiceOver screen reader on an iPhone) was **confused by the header buttons changing name**: search magnifying glass changed to *X*, and *Menu* changed to *Close*.
+   > *"It isn't quite self-evident. You just kind of got to remember that. That's where the search icon used to be, and it is now replaced with just an X" (p7).*
+1. p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" for her name** (to open the Auth menu). She wondered if it was a button or a menu because they're two different things that you interact with differently. 
+
+1. p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
+
+#### Issues discussed that *didn't* cause difficulty during sessions
+20. p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
+
+1. p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content underneath** when the menu background is the same color as what it's overlaying. In this way, it's hard for the participant to tell where the menu ends and the content resumes. 
+
+1. p6 (desktop using ZoomText screen magnifier) said that the **VA Benefits and Health Care menu options aren't visible with her screen magnification**, but she knows to scroll horizontally to find the options because the arrows tell you which direction to look (to the right).
+
+1. p11 (desktop with the font enlarged ~150%) said that they **preferred a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
+
 ### 3. Half of the participants had difficulty finding the Auth menu, and a third of the participants didn't recognize that they were signed in
 
 After signing in using the prototype, about **a third of the participants** (6 of 19, which was 4 on mobile and 2 on desktop) **didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
@@ -157,25 +192,25 @@ After each research session, the moderator reviewed all of the participant's com
 
 ![sentiment-logos](./images/sentiment-logos.png)
 
-*Recognition as an official government website*
+*Recognition as an official government website--INSERT FINDINGS HERE*
 
 ### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
 The sentiment from participants on the VA seal without any "VA" logo was mostly positive (88%) and neutral (13%), without any negative sentiment at all.
 
 
 
-#### RECOMMENDATIONS:
-1.
-
-
-
-
-
-
 ## Additional Insights
 
-### A. Content feedback
-### 
+### A. Content feedback to consider
+1. See **Footer issue #X** above: Four participants (2 desktop, 2 mobile) **looked for *Find a VA Location* in the blue VA footer**.
+1. See **Footer issue #X** above: Three participants (all desktop) said that the **blue VA footer is too large**.
+1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
+1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
+1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
+1. One participant **wanted to see information specifically for seniors** or geriatrics since there are already so many other links for other kinds of Veterans. He would like to see information on activities for seniors (e.g., day programs, the Senior Olympics) and medical links (e.g., how to get tested for Alzheimers). He said *"I feel discriminated against" (p9).*
+1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identities, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
+1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
+     > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (p7).*
 
 
 ## Research methodology learnings
