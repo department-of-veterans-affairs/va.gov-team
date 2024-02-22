@@ -92,20 +92,20 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
 2. How has it impacted you (or your staff's) work or workoad, if any?
-  - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews are a small portion. 
+   - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews are a small portion. 
 3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any?
-  - There are more claims that review manual review. 
+   - There are more claims that review manual review. 
 
 * * * * *
 
 Method
 ------
 
-This research will be conducted through Veteran intercepts and in-person interviews with staff at [FACILITY]. Our preference is to visit various clinics during times of high appointment check-ins.
+This research will be conducted through Veteran intercepts and in-person semi-structured interviews with clinic and Travel Office staff. Our intention is to visit various clinics, at busy times, to see what differences exist between clinics and different types of clinics. 
 
-We will work with facility contacts to determine the best approach for Veteran intercepts, and plan to intercept Veterans near travel posters before or after their appointments (depending on availability), and observe as they go through the travel reimbursement filing process. After assisting those Veterans through the filing process, we will ask them a few questions to get feedback on the experience.
+We will work with IVC and facility leadership to determine the best approach for Veteran intercepts, but ideally plan to intercept Veterans after check out. While observing Veterans as they go through the travel reimbursement filing process on their smartphones, we will assit as needed, and ask them a few questions to gather feedback on their experience.
 
-We will also ask MSAs questions from our conversation guide to better understand the check-in ecosystem at Cerner sites and document responses, comments, improvements, etc.
+We will also ask MSAs and Travel Office staff questions from our conversation guide to better understand the check-in ecosystem and impact of the new travel claim tool on their workload, while documenting those findings.
 
 1 or 2 researchers will be conducting this research.
 
@@ -115,10 +115,11 @@ TBD
 
 ### Research Materials
 
-Link to convo guide
-
-[Link to designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
-
+- [Conversation guide]
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+- [Userflow](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=1265-1102&mode=design&t=wB0sPLNcuTzdlun8-4)
+- [Figma Designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
+  
 * * * * *
 
 Recruitment
