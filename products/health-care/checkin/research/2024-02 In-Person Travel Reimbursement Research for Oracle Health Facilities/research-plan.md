@@ -44,18 +44,18 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 
 ##### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
-2. How has it impacted your work or workoad, if any?
+2. How has it impacted your work or workload, if any?
 
 ##### Travel Office staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
-2. How has it impacted you (or your staff's) work or workoad, if any?
+2. How has it impacted you (or your staff's) work or workload, if any?
 3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any? 
 
 #### Secondary Questions -  Understanding the Check-in Ecosystem at VA Oracle Health Facilities
 1. What's the process to check in a Veteran for a VA medical appointment?
 2. What's the pre-registration process for Veterans, if any? E.g., confirming their contact information, confirming their health insurance, completing health questionnaires, etc. 
 3. What are the current pain points for checking in a Veteran? 
-4. Where are opportunities for improvement are there for checking in (or preparing for an appointment)?
+4. Where are opportunities for improvement for checking in (or preparing for an appointment)?
 5. Can Veterans check in on their smartphone today? If not, do you think that would be valuable to Veterans? Valuable to staff?
 
 ## Hypotheses
@@ -83,13 +83,13 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 ##### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - MSAs and Clinic Managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
-2. How has it impacted your work or workoad, if any?
+2. How has it impacted your work or workload, if any?
    - MSAs and Clinic Managers will mention that they receive questions on occasion, which adds to their responsibilities. However, they're able to quickly direct them to contact the Travel Office.
      
 ##### Travel Office staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
-2. How has it impacted you (or your staff's) work or workoad, if any?
+2. How has it impacted you (or your staff's) work or workload, if any?
    - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews are a small portion. 
 3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any?
    - There are more claims that review manual review. 
