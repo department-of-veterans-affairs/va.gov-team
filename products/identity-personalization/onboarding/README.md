@@ -30,7 +30,7 @@ This is in alignment with two key OCTO objectives for 2024:
 - Our platforms are the best way to deliver products.
 
 ## Problems
-We do not have a defined onboarding experience on VA.gov. We hypothesize that a lack of digital onboarding guidance for newly transitioning veterans presents challenges in efficiently and effectively getting Veterans the relevant services and resources they need, leading to potential frustrations, delays, and missed opportunities for support and access to eligible benefits. 
+We do not have a defined onboarding experience on VA.gov. We hypothesize that a lack of digital onboarding guidance for newly transitioning Veterans presents challenges in efficiently and effectively getting Veterans the relevant services and resources they need, leading to potential frustrations, delays, and missed opportunities for support and access to eligible benefits. 
 
 ## Solution approach
 Before embarking on a large development effort to build an onboarding solution, we need to validate our hypothesis and learn more about the transition process as well as define what a good onboarding experience looks like.
