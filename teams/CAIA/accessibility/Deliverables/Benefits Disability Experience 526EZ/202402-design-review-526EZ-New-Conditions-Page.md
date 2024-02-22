@@ -1,4 +1,7 @@
-[WIP]
+> [!CAUTION]
+> - **This is a WIP.**
+> - **Prototype not yet available.** It should be completed in CodePen by 3/13/2024. 
+> - **Action Item:** When reviewing, please place a special focus on behavior of the free text
 
 # [Design Review a11y findings] Form: 21-526EZ New Conditions Page
 ## Disability Benefits: Contention Classification Team
