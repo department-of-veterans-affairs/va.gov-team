@@ -48,6 +48,11 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Revert [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808)  | Frontend | 10-10 Health Enrollment | Va.gov-team - [#76129](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76129) |
+| Update EZ RUM config w/ addt'l attributes| Frontend | 10-10 Health Enrollment | Va.gov-team - [#76235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76235)|
+|Move 10-10 apps to CD pipeline | Frontend| 10-10 Health Enrollment | Va.gov-team - [#76209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76209)|
+|Refine the 1010 team's incident response process| Product Manager| 10-10 Health Enrollment| VA.gov-team - [#76787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76787)|
+|1010ez create intro page fall-through/default display|Frontend|10-10 Health Enrollment|Va.gov-team - [#76788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76788)|
+|CI/CD pipeline improvements to stability|Frontend/Backend|Platform|Va.gov-team - [Epic #72068](https://app.zenhub.com/workspaces/reliability-team-633b069d2920b776613c93d8/issues/gh/department-of-veterans-affairs/va.gov-team/72068)
 
 ## Narrative
 On Friday, Febrary 9, an engineer merged frontend [PR #27808](https://github.com/department-of-veterans-affairs/vets-website/pull/27808) to main. The intent of the PR was to increase test coverage of the 1010ez health care application in advance of upcoming changes. The PR included some additional refactoring and cleanup, decomposing helper methods into smaller files/modules. The engineer followed a typical process for such a PR - merging it to main after the day's daily production deploy to allow time for it to be tested in staging in advance of the next production deploy. The engineer ran the updated code through end-to-end tests, tested it locally and on a review instance, and in staging. The engineer expressed no expectation that behavior of this code would differ significantly in production.
@@ -62,7 +67,7 @@ During this process the team also decided to configure a maintenance window for 
 
 The decision was made to revert the PR, either in Tuesday's upcoming production deploy or if necessary via an out-of-band (OOB) deploy. The team engaged the VA.gov platform team via the vfs-platform-support channel. They missed the window of opportunity for the production deploy. An OOB deploy was approved, and the remainder of the incident duration has to do with getting a successful CI/CD run to complete in order to deploy the reverted code. 
 
-Engineers from the 1010 and platform teams spent about 7 hours on Tuesday afternoon/evening attempting to get a successful CI/CD run of the revert PR to no avail. They encountered unrelated instablility in the CI/CD pipeline that had started about a week earlier, on February 6. The next morning on February 14, team members continued trying to get a successful merge and deploy, while in parallel adjusting aspects of the pipeline to try to increase chances of success. Adjustments included increasing the hardware resources of the Github runners and breaking up the test execution into smaller per-application runs. At various points platform engineers needed to temporarily adjust branch protection/merge policies in order to get a successful merge and deploy. 
+Engineers from the 1010 and platform teams spent about 7 hours on Tuesday afternoon/evening attempting to get a successful CI/CD run of the revert PR to no avail. They encountered unrelated instablility in the CI/CD pipeline that had started about a week earlier, on February 6. The next morning on February 14, team members continued trying to get a successful merge and deploy, while in parallel adjusting aspects of the pipeline to try to increase chances of success. Adjustments included increasing the hardware resources of the Github runners and breaking up the test execution into smaller per-application runs. At various points, platform engineers needed to temporarily adjust branch protection/merge policies in order to get a successful merge and deploy. 
 
 Platform engineers identified 3 contributing issues to the instability: 
 * An isssue with Cypress being unable to download dependencies.
@@ -74,10 +79,10 @@ Eventually the reverted code was merged to main. Since this occurred shortly bef
 ## Analysis
 
 ### How did it happen?
-**PENDING** 
+
 - The original code change was intended to increase code coverage and modularity of the code. None of the routine testing steps (unit tests, end-to-end tests, manual testing in local environment, review instances or staging) displayed the issue that eventually occurred in production.
 - During a debrief, engineers from both the 1010 and platform teams expressed confusion about what differences to expect between staging and production environments.
-- 
+
 - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
 - What should ordinarily have been done to prevent this, but wasn't done?
 - What could have been done to prevent this, but isn't part of our modus operandi right now.
@@ -87,11 +92,11 @@ Eventually the reverted code was merged to main. Since this occurred shortly bef
 _The following ideas for remediation were raised and discussed during the debrief session on 2/21. Final determination of which ones to implement and translation to issues will be completed by the relevant teams.
 _
 
-- Consider implementing isolated app deploy for the 1010ez app
-- Explore the possibility that the 1010ez introduction page does not have a fall-through/default case in its conditional display logic
-- Refine the 1010 team's incident response process to incorporate a wider time range of on-call coverage
+- [#76209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76209) Consider implementing isolated app deploy for the 1010ez app
+- [#76788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76788) Explore the possibility that the 1010ez introduction page does not have a fall-through/default case in its conditional display logic
+- [#76787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76787) Refine the 1010 team's incident response process to incorporate a wider time range of on-call coverage
 - Consider refining automated alerting to distinguish between errors for authenticated/unauthenticated users
-- Add additional RUM monitoring attributes to allow for distinguishing between different authenticated/LOA/enrollment status scenarios.
+- [#76235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76235) Add additional RUM monitoring attributes to allow for distinguishing between different authenticated/LOA/enrollment status scenarios.
 - Consider creating a single place to look for "when was the last deploy" and "what code is currently in production" instead of having to go to multiple sources.
 - Consider making deploy information available directly in Datadog so that dashboards can be annotated with deployment events to speed up troubleshooting.
 - Consider implementing tighter anomaly thresholds for automated alerting immediately after deployment events
@@ -101,7 +106,7 @@ _
 - Determine what difference between staging and production exists that accounts for the differing behavior of this code in those environments. Once determined, assess whether to (a) eliminate that difference or (b) document it for increased understanding by VA.gov developers and (c) account for it in automated tests. 
 
 ## Resolution
-THe incident was resolved by reverting the original code change and (eventually) deploying the reverted code to production. 
+The incident was resolved by reverting the original code change and (eventually) deploying the reverted code to production. 
 
 ### What went well
 - Point of Contact from the ES team had direct access to the 1010 team in Slack and raised the issue there.
@@ -131,7 +136,6 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-13 @ 10:04 AM ET`: Adrian Rollett assisted with some Datadog insights, a Sidekiq retries chart had peaked and had not yet returned to normal
 - `2024-02-13 @ 11:09 AM ET`: It was confirmed there were no backend issues reported 
 - `2024-02-13 @ 11:24 AM ET`: Validated that authenticated users would be directed to a screen with just the title of the application and the "Need Help" section.  The unauthenticated user flow was unaffected
-- `2024-02-13 @ 11:24 AM ET`: Confirmed that the only deployment from our team on the previous day was for the 10-10CG and not related to the 10-10EZ code
 - `2024-02-13 @ 11:29 AM ET`: A ticket was open with Platform Support for assistance - [Github support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76020)
 - `2024-02-13 @ 11:29 AM ET`: Patrick Bateman was notified of the issue
 - `2024-02-13 @ 11:42 AM ET`: Validated that the Staging environment did not experience this issue for either authenticated or unauthenticated users
@@ -172,9 +176,8 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - `2024-02-14 @ 04:20 PM ET`: Curt Bonade confirmed deploy approved and launching
 - `2024-02-14 @ 04:22 PM ET`: Successfully deployed to production
 - `2024-02-14 @ 04:23 PM ET`: PagerDuty maintenance window was ended so that the 10-10EZ can be accessed in production by all users
-- `2024-02-14 @ 04:25 PM ET`: Matt Long validated that the 10-10EZ form is accessible to authenticated (LOA3) users by logging into a test account
-- 
-- ...
+- `2024-02-14 @ 04:25 PM ET`: Matt Long validated that the 10-10EZ form is accessible to authenticated (LOA3) users by logging into Production with a verified (LOA3) test account
+
 
 ## Contributors
 
