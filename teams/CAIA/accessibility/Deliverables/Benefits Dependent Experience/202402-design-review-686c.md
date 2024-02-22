@@ -6,7 +6,7 @@
 ## Benefits - Dependent Experience Team
 - **Figma Prototype(s):**  [AUTHENTICATED AND UNAUTHENTICATED VIEWS](https://www.figma.com/file/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?type=design&node-id=319-47346&mode=design&t=B1YUTqeRaQ7McZnF-0)
 - **Team Slack Channel:** #benefits-dependents-management
-- **CAIA A11y Ticket:** [#xxx](https://github.com/department-of-veterans-affairs/va.gov-team/issues/xxx)
+- **CAIA A11y Ticket:** [#76841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76841)
 - **Date of Audit:** `PRIOR TO MIDPOINT 2/23`
 
 
