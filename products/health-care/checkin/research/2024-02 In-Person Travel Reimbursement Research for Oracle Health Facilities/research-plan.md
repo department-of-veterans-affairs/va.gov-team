@@ -90,7 +90,7 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
 2. How has it impacted you (or your staff's) work or workload, if any?
-   - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews are a small portion. 
+   - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews is a small portion. 
 3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any?
    - There are more claims that review manual review. 
 
