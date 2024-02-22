@@ -78,7 +78,7 @@ On a scale of 1 to 5 (one being the lowest), Veterans rated the helpfulness and 
 
 > _More detail...and it had that really great diagram. - P6_
 
-> _I prefer to know that it can move back…in this version (control) it can stay in Step 3 for months and make a person feel frustrated...in the other one someone has their eyes on it. - P9_
+> _I prefer to know that it can move back…in this version (current design) it can stay in Step 3 for months and make a person feel frustrated...in the other one someone has their eyes on it. - P9_
 
 
 **2. Most people understood that our graphics represented the process steps and that some steps may repeat.**
@@ -113,6 +113,7 @@ Nevertheless, we must work with the VBA partners to ensure the accuracy of estim
 
 > _… does the time estimate start over or does it continue with the time left. - P2_
 
+**Note**: Our initial time estimates derived from various sources: VBMS Claim Flow (internal), SME workshops (internal), Veteran Disability attorneys and disability claims professionals with former VSRs on staff.
 
 **4. When claims repeat steps, they wanted to know why and who's responsible for resolving the issue.**
 
@@ -141,6 +142,7 @@ Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 **Prefers Less detail**
 
 Participants who liked less detail had different reasons why. We the high level snapshot on the status page meets their need.
+
 > _I like this is better (referring to control design), it’s simple...cuts all the jargon down. - P17_
 
 > _“found herself jumping around alot to find information.” <br> <br> “Content on mobile device should be concise, but on desktop, it's OK to have more because of screen real estate” - P13_
@@ -208,8 +210,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
 We talked to **15 participants.**
 
 Audience segment:
@@ -217,17 +217,14 @@ Audience segment:
 * Caregivers: 0 
 * Family members of a Veteran: 0
 
-
 Gender:
 * Male: 10 
 * Female: 5
-
 
 LGBTQ+:
 * Transgender: 0
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
 * Gay, lesbian, or bisexual: 0
-
 
 Devices used during study: 
 * Desktop: 0 
@@ -246,7 +243,6 @@ Age:
 * 65+: 1
 * Unknown: 2
 
-
 Education:
 * High school degree or equivalent: 0
 * Some college (no degree): 5
@@ -256,12 +252,10 @@ Education:
 * Doctorate degree: 1
 * Unknown: 0
 
-
 Geographic location:
 * Urban: unknown
 * Rural: unknown
 * Unknown: unknown
-
 
 Race:
 * White: 2
@@ -270,7 +264,6 @@ Race:
 * Biracial: 0
 * Asian: 2
 * Native: 1
-
 
 Disability and Assistive Technology (AT):
 * Cognitive: 0
@@ -284,6 +277,7 @@ Disability and Assistive Technology (AT):
 * Sighted keyboard: 0
 * Captions: 0
 
+**Note**: We had a show rate of 15 out of 20 enabling us to gather more participant input than expected, which is valuable in qualitative research where insights and patterns are sought. However, quantitative research typically requires a larger sample size for statistical significance.
 
 ## Underserved groups we haven’t talked to 
 
