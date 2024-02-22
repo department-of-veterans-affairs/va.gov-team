@@ -1,8 +1,6 @@
 In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilities  
 ======================
 
-[DRAFT]
-
 ## Background
 
 Veterans who have medical appointments at VA health facilities that use Oracle Health EHR software (formerly CERNER) have a need to be able to file a mileage-only travel reimbursement claim on the day of their appointment. 
