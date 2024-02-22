@@ -1,6 +1,6 @@
 # VA content brief for forms
 
-Created by the sitewide content team for teams working on digitizing VA forms.
+Created by the sitewide content team for teams working on digitizing VA forms. This brief will capture variations and experiments in online form patterns and components that go beyond or deviate from the standardized forms guidance in VADS. 
 
 **Have questions or feedback on this brief or want to add something?**
 - Send us a slack in #sitewide-content-ia.
