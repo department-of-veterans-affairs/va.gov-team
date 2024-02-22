@@ -43,21 +43,21 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 3. Where are opportunities for improvement from the Veteran point of view?
 
 ### Research Questions (Staff)
-#### Primary Questions - UAT for Beneficiary Travel
+#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
 - **MSAs**
-  1. How has the "text travel" method affected MSA workflow?
-  2. What feedback have they received from Veterans about the "text travel" process?
-  3. How has the travel reimbursement feature impacted the Check-in process?
-- **Travel office staff**
-  1. How has the "text travel" method affected travel office staff workflow?
-     -   How has the "text travel" method affected the number of claims filed?
-     -   How has the "text travel" method affected the number of denied claims?
+  1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
+  2. How has is impacted your work or workoad, if any?
+- **Travel Office staff**
+  1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
+  2. How has is impacted you (or your staff's) work or workoad, if any?
+  3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any? 
 
-#### Secondary - Understanding Check-in Ecosystem at Cerner facilities
-1. What process does staff currently follow to check Veterans in at OH sites?
-2. What are the current pain points for the check-in process at OH facilities?
-3. Where are opportunities for improvement within check-in (preparing for and attending appointments) from the staff point of view? 
-4. Is there a process at Cerner facilities for Veterans to check in on their own?
+#### Secondary Questions - Understanding Check-in Ecosystem at Cerner facilities
+1. What's the process to check in a Veteran for a VA medical appointment?
+2. What's the pre-registration process for Veterans, if any? E.g., confirming their contact information, confirming their health insurance, completing health questionnaires, etc. 
+3. What are the current pain points for checking in a Veteran? 
+4. Where are opportunities for improvement are there for checking in (or preparing for an appointment)?
+5. Can Veterans check in on their smartphone today? If not, do you think that would be valuable to Veterans? Valuable to staff?
 
 ### Hypotheses
 
