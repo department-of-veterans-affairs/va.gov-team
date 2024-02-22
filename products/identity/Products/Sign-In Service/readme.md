@@ -5,7 +5,7 @@ applications that use VA resources.
 
 ## What is Sign-in Service?
 
-Sign-in Service (SiS) is a client service that authenticates login credentials, and grants access to vets-api resources. SiS is [documented for developers on Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
+Sign-in Service (SiS) is a client service that authenticates login credentials, and grants access to vets-api resources. SiS is [documented for developers on Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs).
 
 __SiS provides 2 products for applications:__
   1. User authentication
