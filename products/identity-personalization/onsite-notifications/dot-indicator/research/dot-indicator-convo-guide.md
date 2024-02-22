@@ -40,8 +40,8 @@ Now I'm going to ask you to open the [link I've shared with you in Zoom chat](ht
 
 Okay great, I can see your screen. 
 
-- *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
-- *If they don't mention the indicators* Go to the Health care section. 
+- *Once the full page has loaded* What's standing out to you first?
+- *If they don't mention the indicators* Okay interesting. Can you scroll down to the Health care section?
 
 - *For colorblind participants* Do you have any trouble seeing the dot? What color do they appear to be to you?
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblindness standpoint?
@@ -74,7 +74,7 @@ How do you think badge with the number in it would disappear?
 
 **Move on to slim alert banner for claim cards**
 
-### __Move on to badge indicator__
+### __Move on to slim alert__
 
 Ok, we have one more weblink to share with you. [Share link](https://bit.ly/48lBwHG)
 
