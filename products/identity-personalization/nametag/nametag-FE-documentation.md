@@ -1,5 +1,6 @@
 # Nametag Frotend Documentation
-**Last updated - February 16, 2024 - updated formatting**
+**Last updated - February 22, 2024 - updated formatting**
+
 _These specs are largely pulled from the documentation done by the Benefits team in 11/23_
 
 The Nametag appears on both Desktop & Mobile for VA.gov.
