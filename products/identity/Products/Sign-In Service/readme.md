@@ -138,7 +138,7 @@ __
 - __Are there any other self-service monitoring tools available?__
   - There’s also a troubleshooting Slackbot in #vsp-identity.
   - We have office hours with the Identity team [documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md).
-  - Link to [Glossary](https://docs.google.com/document/d/1YaOl9KkBCT736vSpcuuQqGkCKk1GX8BQV1wCbtL4zwc/edit#heading=h.vbudsmpjww8k)
+  - Link to [Glossary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/glossary.md)
   - Link to [primer doc](https://docs.google.com/document/d/1zqZfoiebCeW4hvN8BP0ve8iR11LE4sgTwrEhZri1k_M/edit)
 
 # Appendix
