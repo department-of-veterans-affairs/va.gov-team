@@ -25,7 +25,7 @@ The online travel reimbursement feature for smartphones will be piloted at a VA 
 
 ## Research Goals
 
-The purpose of this research is to get feedback from Veterans on the travel reimbursement feature on ease of use and what, if any, expectations were unmet, specifically around travel reimbursement tasks.
+The purpose of this research is to **get user acceptance feedback from Veterans and staff on the travel reimbursement feature's ease of use, identification of any challenges created for staff, and what, if any, expectations were unmet.**
 
 ### Research Questions (Veterans)
 #### Primary Questions - UAT for Beneficiary Travel
