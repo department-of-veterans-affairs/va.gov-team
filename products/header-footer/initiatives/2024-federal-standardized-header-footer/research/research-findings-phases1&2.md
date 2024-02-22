@@ -65,7 +65,7 @@ Research Phase | Participants | Tasks | Dates | Topline Summary
 2 | 9 assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
 3 | 4 assistive + 8 non-assistive technology users | Authenticated only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
-This report will cover Phases 1-2 in detail. Phase 3 is covered in the third topline summary link above.
+This report will cover Phases 1-2 in detail. Phase 3 is covered in the third topline summary link above. Because the same participant numbers are reused in each research phase, quotes from participants in Phase 1 will be labeled as "**non-AT**" (not assistive technology users), and quotes from Phase 2 will be labeled as "**AT**" (assistive technology).
 
 ## Participants
  Perigean recruited all of the participants. In Phases 1-2, **we talked to 19 people**.
