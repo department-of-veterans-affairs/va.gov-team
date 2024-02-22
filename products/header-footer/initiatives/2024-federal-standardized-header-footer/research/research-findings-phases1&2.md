@@ -137,6 +137,8 @@ The success rate for each task was computed by adding together the directly and 
 
 ### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
 
+Recognition as an official government website
+
 ### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
 
 
@@ -152,7 +154,8 @@ The success rate for each task was computed by adding together the directly and 
 
 ## Additional Insights
 
-### A. 
+### A. Content feedback
+### 
 
 
 ## Research methodology learnings
