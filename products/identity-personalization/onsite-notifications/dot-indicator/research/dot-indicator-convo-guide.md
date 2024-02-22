@@ -1,7 +1,7 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator, February 2024
 - [ ] __Make sure Codepen pages are accessible__
-	- [Two dots](https://bit.ly/3SJybMS)
- 	- [Badge indicator](https://bit.ly/4bL5YxH)
+	- [Two dots](https://bit.ly/49Bvi7O)
+ 	- [Badge indicator](https://bit.ly/3IeFwyU)
 	- [Slim Alert](https://bit.ly/3wnLdIq)
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
