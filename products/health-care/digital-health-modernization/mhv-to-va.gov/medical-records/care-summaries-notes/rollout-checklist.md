@@ -216,7 +216,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Alerts exist; *MHV-51521* 
 
-   - PagerDuty 
+   - PagerDuty (BR-Styling in progress), will launch for all MHV products in coming weeks (2/22/24)
 
     - Slack 
 
@@ -233,13 +233,13 @@ For an application to enter rollout Phase 0, the following must be true:
 
     - Access 
 
-    - Dashboard exists; *Bryan will investigate w/ Anne*
+    - Dashboard exists; - most reliable analytics being handled in DataDog
 
 - [X] Domo 
     - Access 
 
     - Dashboard exists; *Mike will investigate*
-- [ ] Datadog 
+- [X] Datadog 
      - Access 
 
      - Dashboard exists; *MHV-51520*
