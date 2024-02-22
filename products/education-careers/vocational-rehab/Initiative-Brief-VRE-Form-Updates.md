@@ -65,17 +65,15 @@ Veterans submitting online form 28-1900 have a positive experience and can trust
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- [Kickoff ticket](TBD)
-- CAIA Ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74141)
+- [CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75169)
 
 ### Timeline 
-> [Collab cycle kick off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74141): 1/22/2024
-> [CAIA kick off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75169): 2/14/2024
-> Design Intent: 2/5/2024
-> Midpoint Review:
-> Staging Review:
+- Collab cycle kick off: 1/22/2024
+- CAIA kick off: 2/14/2024
+- Design Intent: 2/5/2024
+- Midpoint Review:
+- Staging Review:
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
