@@ -28,7 +28,8 @@ Review version(s) of a new form updates, in Figma.  Governance has already revie
 
  <details><summary>Toggle to view copy of Governance A11y Feedback</summary>
 
-### Design Intent - Accessibility Feedback - Benefits Dependent Experience, 21-686c/674, Critical Form Updates
+### Governance Feedback
+#### Design Intent - Accessibility Feedback - Benefits Dependent Experience, 21-686c/674, Critical Form Updates
 **Source**: [#75078](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75078)
 #### Must
 - Guidance was recently added to the design system on when [conditionally-revealing new inputs](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields-can-be-used-if-the-following-conditions-are-met) is appropriate. Some instances in your form where it probably makes more sense to split things onto another page:
