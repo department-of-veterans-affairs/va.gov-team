@@ -227,7 +227,7 @@ The numbers in parentheses at the end of each item reflect the number of people 
 
 - Just because we build a digital tool, doesn’t mean everyone will use it. We need to aim for high adoption of the tool and have a strong change management program while also remembering some VSOs might never use it.
 
-**If you were building the perfect tools for accredited representatives, what would you include?**
+## If you were building the perfect tools for accredited representatives, what would you include?
 
 1. A similar but upgraded SEP, with updated forms (11)
 
