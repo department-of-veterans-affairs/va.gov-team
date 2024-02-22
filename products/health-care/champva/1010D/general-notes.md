@@ -37,5 +37,5 @@ General info, notes and miscellaneous
 
 ### Miscellaneous
 - New list and loop pattern being worked on by VFF team but not ready to use
-- Houselessness/no address not really any existing pattern for this currently
+- Houseless/no address not really any existing pattern for this currently
   
