@@ -29,13 +29,12 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 
 ### Research Questions (Veterans)
 #### Primary Questions - UAT for Travel Reimbursement on Smartphone 
-1. From the posters and marketing materials, how well do Veterans understand how to initiate the claim process?
-2. How easy or difficult is it for Veterans to initiate a claim?
-3. Is there any confusion around initiating a claim via "text travel" compared to other methods of initiating claims at VistA facilities ("text Check-in" or 45 minute reminder message)? 
-4. How easy or difficult is it for Veterans to complete their claim?
-5. Do Veterans understand how to select and file claims for appointments at multiple facilities?
-6. Do Veterans understand this process allows them to file for ONLY mileage, and how to proceed if they need to file with receipts for any of their appointments?
-7. What is the overall Veteran response to the "text travel" experience compared to other methods of filing? 
+1. How easy or difficult is it for Veterans to initiate a claim?
+2. How easy or difficult is it to complete filing a claim?
+3. How easy or difficult is it to file more than 1 claim? (If applicable.)
+4. Which step of the process was most difficult to understand or challenging?  
+6. Do Veterans understand how to file a claim with receipts?
+7. What would Veterans change about this process to make it easier?
 
 #### Secondary Questions - Understanding Check-in Ecosystem at Cerner facilities
 1. What process do Veterans currently follow to check in at OH sites?
