@@ -51,7 +51,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | Update EZ RUM config w/ addt'l attributes| Frontend | 10-10 Health Enrollment | Va.gov-team - [#76235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76235)|
 |Move 10-10 apps to CD pipeline | Frontend| 10-10 Health Enrollment | Va.gov-team - [#76209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76209)|
 |Refine the 1010 team's incident response process| Product Manager| 10-10 Health Enrollment| VA.gov-team - [#76787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76787)|
-|Create intro page fall-through/default display|Frontend|10-10 Health Enrollment|Va.gov-team - [#76788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76788)|
+|Create intro page fall-through/default display|Frontend|10-10 Health Enrollment|Va.gov-team - [#75437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75437)|
 |CI/CD pipeline improvements to stability|Frontend/Backend|Platform|Va.gov-team - [Epic #72068](https://app.zenhub.com/workspaces/reliability-team-633b069d2920b776613c93d8/issues/gh/department-of-veterans-affairs/va.gov-team/72068)|
 |Update maintenance window service mapping (avoid disabling both forms)|Engineers & PM|10-10 Health Enrollment|Va.gov-team - [#76791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76791) |
 |Create tighter post-deployment anomaly thresholds & alerts|Data Analyst|10-10 Health Enrollment|Va.gov-team - [#76793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76793)
@@ -95,7 +95,7 @@ _The following ideas for remediation were raised and discussed during the debrie
 _
 
 - [#76209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76209) Consider implementing isolated app deploy for the 1010ez app
-- [#76788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76788) Explore the possibility that the 1010ez introduction page does not have a fall-through/default case in its conditional display logic
+- [#75437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75437) Explore the possibility that the 1010ez introduction page does not have a fall-through/default case in its conditional display logic
 - [#76787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76787) Refine the 1010 team's incident response process to incorporate a wider time range of on-call coverage
 - Consider refining automated alerting to distinguish between errors for authenticated/unauthenticated users
 - [#76235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76235) Add additional RUM monitoring attributes to allow for distinguishing between different authenticated/LOA/enrollment status scenarios.
