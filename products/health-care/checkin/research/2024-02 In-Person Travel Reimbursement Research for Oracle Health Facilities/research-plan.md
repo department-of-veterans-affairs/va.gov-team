@@ -17,12 +17,11 @@ The online travel reimbursement feature for smartphones will be piloted at a VA 
 - [Userflow](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=1265-1102&mode=design&t=wB0sPLNcuTzdlun8-4)
 - [Figma Designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
 
-### OCTO Objectives
+## OCTO Goals the Research Supports
 <img width="956" alt="Screenshot 2024-02-16 at 8 15 47 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79372956/81c8a2c3-94fc-455f-9587-ea9cda03b07b">
 
-### Veteran Journey
+## How the Research Maps to the Veteran Journey
 <img width="937" alt="Screenshot 2024-02-16 at 8 17 03 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79372956/f8486392-2e9a-4de8-8ecd-42bd94d8e668">
-
 
 ## Research Goals
 
