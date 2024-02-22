@@ -79,7 +79,7 @@ __
 - __What work does my team need to complete?__
   - You’ll need to create the authentication controls for your application routes. An engineer will need to understand how your backend code will restrict access to your endpoints based on a standard authentication.
   - Your team will facilitate the client side of the authentication process (calling/authorize, then receiving a one-time use code and calling /token). 
-  - Learn more about how SiS works in our [Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
+  - Learn more about how SiS works in our [Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs).
 
 - __How long will this project take?__
   - Depending on how much you want to build or customize, the project takes ~6-8 weeks to complete, which includes:
