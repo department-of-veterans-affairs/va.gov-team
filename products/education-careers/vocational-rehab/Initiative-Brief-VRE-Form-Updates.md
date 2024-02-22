@@ -59,7 +59,7 @@ Veterans submitting online form 28-1900 have a positive experience and can trust
 - Future: An assessment of the complete VR&E online form experience will be done to identify and prioritize form improvements and additional accessibility work.
 
 #### Go-to-market 
-- We will be working closely with VBA and REW stakeholders to ensure the payload for the form results in efficient processing
+- We will be working closely with VBA and RES stakeholders to ensure the payload for the form results in efficient processing
 
 --- 
 
@@ -71,9 +71,9 @@ Veterans submitting online form 28-1900 have a positive experience and can trust
 - CAIA Ticket
 
 ### Timeline 
-> Collab cycle kick off:
-> CAIA kick off:
-> Design Intent:
+> [Collab cycle kick off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74141): 1/22/2024
+> [CAIA kick off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75169): 2/14/2024
+> Design Intent: 2/5/2024
 > Midpoint Review:
 > Staging Review:
 
