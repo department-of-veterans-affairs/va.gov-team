@@ -28,7 +28,7 @@ The online travel reimbursement feature for smartphones will be piloted at a VA 
 The purpose of this research is to **get user acceptance feedback from Veterans and staff on the travel reimbursement feature's ease of use, identification of any challenges created for staff, and what, if any, expectations were unmet.**
 
 ### Research Questions (Veterans)
-#### Primary Questions - UAT for Beneficiary Travel
+#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
 1. From the posters and marketing materials, how well do Veterans understand how to initiate the claim process?
 2. How easy or difficult is it for Veterans to initiate a claim?
 3. Is there any confusion around initiating a claim via "text travel" compared to other methods of initiating claims at VistA facilities ("text Check-in" or 45 minute reminder message)? 
