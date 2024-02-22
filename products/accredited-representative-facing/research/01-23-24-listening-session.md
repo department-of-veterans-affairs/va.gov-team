@@ -1,4 +1,4 @@
-# Listening Session Findings
+# VSO Listening Session Findings
 
 **Accredited Representative Facing Team (ARF)**
 
