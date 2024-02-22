@@ -184,18 +184,18 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Engineering  
 
-- [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
+- [X] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on *Happens automatically as part of platform code*
 
-- [ ] All pages/components have latest content
+- [X] All pages/components have latest content *All Care Summaries & Notes pages have been updated to match latest designs and content*
 
-- [ ] Unit test coverage is sufficient 
+- [X] Unit test coverage is sufficient *88.93% Statements, 76.8% Branches, 91.43%, 88.6% Lines*
 
 - [ ] Accessibility test coverage is sufficient
 
 
 - [ ] End-to-end test coverage is sufficient
 
-- [ ] Functional issues resolved
+- [X] Functional issues resolved
 
 - [ ] Engineering information documented and stored in GitHub;
 
