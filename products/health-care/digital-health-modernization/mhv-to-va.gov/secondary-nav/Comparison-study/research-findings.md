@@ -36,17 +36,18 @@ Research readout [add link here]
 
 ## Research Goals
 
- * Evaluate a new navigation strategy that prioritizes easy access to the four primary health  tools only. Determine whether this is successful at helping users find and complete most health-related tasks.
- * Design the navigation to deliver a dual purpose of offering users a strong “sense of place” for My HealtheVet, to clarify that it is a health portal within VA.gov.
- * Determine whether we have solved issues with collapsed navigation on mobile, or if Veterans require persistent, visible options to understand navigation. 
+* Evaluate a new navigation strategy that prioritizes easy access to the four primary health tools only. Determine whether this strategy is successful in helping users find and complete most health-related tasks.
+* Design the navigation to deliver a dual purpose of offering users a strong “sense of place” for My HealtheVet, to clarify that it is a comprehensive health portal within VA.gov.
+* Determine whether we have solved issues with collapsed navigation on mobile, or if Veterans require persistent, visible options to understand navigation.
 
 ## Research Questions
 
- * Are participants able to easily navigate to various tools within the My HealtheVet portal using the proposed secondary navigation designs?
- * How easily can users navigate to the four primary health tools that are prioritized by the proposed designs? 
- * Can participants navigate to health-related tools that are not specifically named within the secondary navigation designs?
- * Is one design (Design A or Design B) more successful than the other at helping Veterans meet their needs?
- * How does a secondary navigation within the health portal impact participants' understanding of place within the VA.gov digital ecosystem?
+* Are participants able to find and complete healthcare tasks within the My HealtheVet portal using the proposed designs?
+* How easily can users navigate to the four primary health tools that are prioritized by the proposed designs?
+* Can participants navigate to health-related tools that are not specifically named within the secondary navigation designs?
+* Is one design (Design A or Design B) more successful than the other at helping Veterans meet their needs?
+* How does a secondary navigation within the health portal impact participants' understanding of place within the VA.gov digital ecosystem?
+
 
 ## Methodology 
 
