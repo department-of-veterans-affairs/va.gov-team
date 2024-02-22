@@ -43,13 +43,15 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 
 ### Research Questions (Staff)
 #### Primary Questions - UAT for Travel Reimbursement on Smartphone 
-- **MSAs**
-  1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
-  2. How has is impacted your work or workoad, if any?
-- **Travel Office staff**
-  1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
-  2. How has is impacted you (or your staff's) work or workoad, if any?
-  3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any? 
+
+##### MSAs
+1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
+2. How has it impacted your work or workoad, if any?
+
+##### Travel Office staff
+1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
+2. How has it impacted you (or your staff's) work or workoad, if any?
+3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any? 
 
 #### Secondary Questions -  Understanding the Check-in Ecosystem at VA Oracle Health Facilities
 1. What's the process to check in a Veteran for a VA medical appointment?
@@ -60,43 +62,39 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 
 ### Hypotheses
 
-#### Primary Questions - UAT for Beneficiary Travel
-1. From the posters and marketing materials, how well do Veterans discovery and understand how to initiate the claim process?
-   - MAYBE TRUE - Veterans will not always notice the promotional materials.
-2. How easy or difficult is it for Veterans to initiate a claim?
-   - MAYBE TRUE - Some Veterans will encounter difficulties initiating their claim due to internet connectivity or cell service.
-3. Is there any confusion around initiating a claim via "text travel" compared to other methods of initiating claims at VistA facilities ("text Check-in" or 45 minute reminder message)?
-   - MAYBE TRUE - Veterans who have filed for travel in Check-in at other facilities will report minor confusion with the difference between the two processes.
-4. How easy or difficult is it for Veterans to complete their claim?
-   - LIKELY FALSE - Due to the success of mileage-only travel within Check-in, we expect Veterans to easily complete their claims.
-5. Do Veterans understand how to select and file claims for appointments at multiple facilities?
-   - MAYBE TRUE - Veterans might report some confusion around which facilities they should select, how many claims they are filing, and what happens to those selected or not selected. 
-6. Do Veterans understand this process allows them to file for ONLY mileage, and how to proceed if they need to file with receipts for any of their appointments?
-    - LIKELY TRUE - Because of the information about mileage-only on the intro and facility page, Veterans will understand the difference between filing for only mileage and filing with receipts.
-7. What is the overall Veteran response to the "text travel" experience compared to other methods of filing?
-    - LIKELY TRUE - Veterans will have positive responses to the possibility of texting travel to file a claim or multiple claims. 
+#### Research Questions (Veterans)
 
-#### Secondary Questions - Understanding Check-in Ecosystem at Cerner facilities
-1. What process do Veterans currently follow to check in at OH sites?
-2. What are the current pain points for the check-in process at OH facilities?
-3. Where are opportunities for improvement from the Veteran point of view?
+##### Primary Questions - UAT for Travel Reimbursement on Smartphone 
+1. How easy or difficult is it for Veterans to initiate a claim?
+   - Veterans will find it extremely easy to initiate a claim, but some will have difficulties because of cellular reception. 
+2. How easy or difficult is it to complete filing a claim?
+   - Veterans will find it exremely easy to file a claim from their smartphones. 
+4. How easy or difficult is it to file more than 1 claim? (If applicable.)
+   - Veterans will find it extremely easy to file more than 1 claim in a single form. 
+5. Which step of the process was most difficult to understand or challenging?
+   - Veterans may not have known about this tool or had difficulties because of cellular reception and/or data coverage. 
+6. Do Veterans understand how to file a claim with receipts?
+   - Most will miss finding that information because it's not top of mind.  
+7. What would Veterans change about this process to make it easier?
+   - Veterans will want to be able to file a claim using this tool for a past appointment.  
 
-### Research Questions (Staff)
-#### Primary Questions - UAT for Beneficiary Travel
-- **MSAs**
-  1. How has the "text travel" method affected MSA workflow?
-  2. What feedback have they received from Veterans about the "text travel" process?
-  3. How has the travel reimbursement feature impacted the Check-in process?
-- **Travel office staff**
-  1. How has the "text travel" method affected travel office staff workflow?
-     -   How has the "text travel" method affected the number of claims filed?
-     -   How has the "text travel" method affected the number of denied claims?
+#### Research Questions (Staff)
 
-#### Secondary - Understanding Check-in Ecosystem at Cerner facilities
-1. What process does staff currently follow to check Veterans in at OH sites?
-2. What are the current pain points for the check-in process at OH facilities?
-3. Where are opportunities for improvement within check-in (preparing for and attending appointments) from the staff point of view? 
-4. Is there a process at Cerner facilities for Veterans to check in on their own?
+##### Primary Questions - UAT for Travel Reimbursement on Smartphone 
+
+###### MSAs
+1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
+   - MSAs and Clinic Managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
+2. How has it impacted your work or workoad, if any?
+   - MSAs and Clinic Managers will mention that they receive questions on occasion, which adds to their responsibilities. However, they're able to quickly direct them to contact the Travel Office.
+     
+###### Travel Office staff
+1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
+   - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
+2. How has it impacted you (or your staff's) work or workoad, if any?
+  - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews are a small portion. 
+3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any?
+  - There are more claims that review manual review. 
 
 * * * * *
 
