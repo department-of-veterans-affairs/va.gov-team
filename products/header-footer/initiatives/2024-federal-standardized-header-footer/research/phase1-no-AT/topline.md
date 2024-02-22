@@ -27,7 +27,7 @@ On December 15-21, 2023, we talked over Zoom with **10 people**--9 Veterans, 2 C
 
 ### Authentication task
 5. Before signing in, 3 of 10 participants navigated to *VA Benefits and Health Care megamenu > Records > Change your address* (this link didn't work in the prototype) to learn how to change your mailing address.
-1. After signing in using the prototype, **3 of 10 participants didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't enough for everyone to notice.
+1. After signing in using the prototype, **3 of 10 participants (2 on phone, 1 on desktop) didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of "Sign in" to "Sign out" (mobile) or "Cameron" (desktop) wasn't enough for everyone to notice.
 1. After signing in, ***2 of 5 phone users* had difficulty finding the Auth menu** (under "Cameron" in the mobile header menu); the other 3 found it easily.  
 1. After signing in, ***2 of 5 desktop users* had difficulty finding the Auth menu** (by clicking on "Cameron"); the other 3 found it easily. Results might have been different if the menu had shown the participant's real name. Interesting that the same number of desktop and mobile users had difficulty.
 1. After signing in and opening the Auth menu, **all participants readily clicked on the Profile menu**. However, 2 participants then wondered aloud if they should try *My VA* instead (which didn't work in the prototype).
