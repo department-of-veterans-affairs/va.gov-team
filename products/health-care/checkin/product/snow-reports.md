@@ -1,7 +1,7 @@
 # How to Send CIE SNOW Incident Reports
 
 ## Background
-Once a month, the Product Manager will send via email a PDF download of the Modernized Check-in team's SNOW Incidents dashboard. The following contains instructions for doing so.
+Once a month, the Product Manager sends via email a PDF download of the Check-in team's SNOW Incidents Dashboard. The following contains instructions for doing so.
 
 ## Frequency
 - 3rd Wednesday of every month
@@ -41,7 +41,7 @@ Once a month, the Product Manager will send via email a PDF download of the Mode
 - From the drop down next to the dashboard name, choose export PDF
 - Attach the PDF to an email to the above recipients
 
-## Relavent Links
+## Relevant Links
 - [All SNOW Tickets](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog)
 - [Active Non Resolved SNOW tickets](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
 - [CIE SNOW Dashboard](https://yourit.va.gov/now/nav/ui/classic/params/target/%24pa_dashboard.do%3Fsysparm_dashboard%3D8a988d141b707990e4f6cbf7624bcb7f)
