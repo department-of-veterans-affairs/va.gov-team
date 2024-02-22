@@ -51,6 +51,9 @@ Update from October 1, 2020:
 Update from September 22, 2023:
 * Updated the chart to reflect current naming schema. [See full changelog](https://github.com/department-of-veterans-affairs/va.gov-team/pull/66167)
 
+Update from February 2024:
+* Updated the chart to reflect decisions made in [va.gov-cms/15752](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15752)
+
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
 Facility type  |  Shared location?  |  Official name | Name pattern | H1 & Breadcrumb | Associated text | URL 
