@@ -35,7 +35,7 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 7. What would Veterans change about this process to make it easier?
 
 #### Secondary Questions - Understanding the Check-in Ecosystem at VA Oracle Health Facilities
-1. How do Veterans check in for thier appointment? 
+1. How do Veterans check in for their appointment? 
 2. What are the current pain points when checking in? 
 3. Where are opportunities for improving the check-in process? 
 
