@@ -2,7 +2,7 @@
 - [ ] __Make sure Codepen pages are accessible__
 	- [Two dots](https://bit.ly/49Bvi7O)
  	- [Badge indicator](https://bit.ly/3IeFwyU)
-	- [Slim Alert](https://bit.ly/3wnLdIq)
+	- [Slim Alert](https://bit.ly/48lBwHG)
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
 
