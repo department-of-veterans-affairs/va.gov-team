@@ -46,9 +46,9 @@ We need to answer the following questions:
 - Does the scope of our approach solely focus on transitioning Veterans or any "new" to VA.gov users (e.g. transitioning MHV users, Veterans who have never used VA.gov) as well? 
 
 There are other groups and stakeholders who may will likely have an interest in our findings, including but not limited to the groups listed below. We will need to consult with these groups to knowledge share about onboarding processes so that we are not duplicating efforts.
-    - VES
-    - VA mobile team
-    - VHA and health modernization teams (MHV on VA.gov)
+- VES
+- VA mobile team
+- VHA and health modernization teams (MHV on VA.gov)
 
 
 
