@@ -37,10 +37,10 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 6. Do Veterans understand this process allows them to file for ONLY mileage, and how to proceed if they need to file with receipts for any of their appointments?
 7. What is the overall Veteran response to the "text travel" experience compared to other methods of filing? 
 
-#### Secondary Questions - Understanding Check-in Ecosystem at Cerner facilities
-1. What process do Veterans currently follow to check in at OH sites?
-2. What are the current pain points for the check-in process at OH facilities?
-3. Where are opportunities for improvement from the Veteran point of view?
+#### Secondary Questions - Understanding the Check-in Ecosystem at VA Oracle Health Facilities
+1. How do Veterans check in for thier appointment? 
+2. What are the current pain points when checking in? 
+3. Where are opportunities for improving the check-in process? 
 
 ### Research Questions (Staff)
 #### Primary Questions - UAT for Beneficiary Travel
