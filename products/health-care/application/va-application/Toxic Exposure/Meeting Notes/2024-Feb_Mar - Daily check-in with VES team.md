@@ -3,7 +3,17 @@
 - Launch date is March 5, 2024
 
 ---
+### Feb 22, 2024 | 1010/VES - Daily Check-in for PACT Act 103
+#### Notes
+- Once deployed to production, Will the enrollment system be able to accept a mix of submissions with the TERA fields and without the TERA fields?
+     - Meena confirmed this is acceptable
+- Lihan sent a test submission in the SQA environment with all the new TERA questions included, can you confirm if it was processed correctly?
+     - Meena is checking on it this morning
 
+#### Action items
+- [ ] Meena & Team to confirm test submission - success or fail, any other details
+
+---
 ### Feb 21, 2024 | 1010/VES - Daily Check-in for PACT Act 103
 #### Notes
 - Testing coordination
