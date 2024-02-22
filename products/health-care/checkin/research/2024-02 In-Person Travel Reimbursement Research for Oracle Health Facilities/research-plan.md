@@ -60,11 +60,11 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 4. Where are opportunities for improvement are there for checking in (or preparing for an appointment)?
 5. Can Veterans check in on their smartphone today? If not, do you think that would be valuable to Veterans? Valuable to staff?
 
-### Hypotheses
+## Hypotheses
 
-#### Research Questions (Veterans)
+### Research Questions (Veterans)
 
-##### Primary Questions - UAT for Travel Reimbursement on Smartphone 
+#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
 1. How easy or difficult is it for Veterans to initiate a claim?
    - Veterans will find it extremely easy to initiate a claim, but some will have difficulties because of cellular reception. 
 2. How easy or difficult is it to complete filing a claim?
@@ -78,17 +78,17 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 7. What would Veterans change about this process to make it easier?
    - Veterans will want to be able to file a claim using this tool for a past appointment.  
 
-#### Research Questions (Staff)
+### Research Questions (Staff)
 
-##### Primary Questions - UAT for Travel Reimbursement on Smartphone 
+#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
 
-###### MSAs
+##### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - MSAs and Clinic Managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
 2. How has it impacted your work or workoad, if any?
    - MSAs and Clinic Managers will mention that they receive questions on occasion, which adds to their responsibilities. However, they're able to quickly direct them to contact the Travel Office.
      
-###### Travel Office staff
+##### Travel Office staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
 2. How has it impacted you (or your staff's) work or workoad, if any?
