@@ -5,15 +5,13 @@ In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilit
 
 ## Background
 
-Patient Check In's (PCI) online check in application for medical appointments introduced a feature for Veterans to file a beneficiary travel (BT) mileage-only claim during the check in process, which piloted in June 2023 at Wilkes-Barre Health System. At the end of the first month, 96% of claims submitted were paid or still in manual review.
+Veterans who have medical appointments at VA health facilities that use Oracle Health EHR software (formerly CERNER) have a need to be able to file a mileage-only travel reimbursement claim on the day of their appointment. 
 
-As a result of its early success, the BT feature in online check in had a national release in December 2023, which accounted for ~20k BT claim submissions by the end of the year, i.e., opening another viable, efficient means for Veterans to utilize their benefits.
+While there is a roadmap for including pre-check-in and eCheck-in at facilities using Oracle Health EHR software, the greatest value right now for Veterans and patient tracking at clinics is to offer Veterans the ability to file a mileage-only travel reimbursement claim using VA's Low Risk One Time Authentication (LoROTA) to streamline the "sign in" process for Veterans. 
 
-In January 2024, the PCI team learned that VA Facilities that use Oracle Health EHR software (instead of VistA) have different needs than VistA facilities, and there is not significant value for offering e-Check in at Oracle Health sites. This mvp initiative, therefore, aims to offer the most value by allowing a Veteran to submit a mileage-only travel reimbursement claim using low-risk authentication, without needing to complete eCheck-in. This will be the only focus for MVP.
+The online travel reimbursement feature for smartphones will be piloted at a VA health facility that's use of Oracle Health is mature. E.g., Portland or Columbus. We will be collaborating with Integrated Veteran Care (IVC) on selecting a pilot facility and scheduling an in-person research visit.
 
-Veterans who have health appointments at VA facilities that use OH EHR software (formerly CERNER) will be able to submit a mileage-only travel reimbursement claim.
-
-The travel reimbursement feature for Oracle Health sites will be piloted [DATE TBD].
+### Additional Artifacts
 
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
 - [Userflow](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=1265-1102&mode=design&t=wB0sPLNcuTzdlun8-4)
