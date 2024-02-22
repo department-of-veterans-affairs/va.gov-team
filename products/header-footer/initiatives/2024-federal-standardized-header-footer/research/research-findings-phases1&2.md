@@ -74,7 +74,7 @@ This report will cover Phases 1-2 in detail. Phase 3 is covered in the third top
 - **Almost half** (8 of 19) **saw a mobile prototype**, and the others (11 of 19) saw a desktop prototype. 
 - **About half** (9 of 19) **were full-time assistive technology users**: 5 used a screen reader, and 5 used a screen magnifier (one person used both).
 
-The assistive technology used by 9 participants is summarized in the table below. All of them had been using their assistive tech for at least 2 years (average of 10 years; range 2-18 years).
+The assistive technology used by the 9 participants in research phase 2 is summarized in the table below. All of them had experience using their assistive tech for at least 2 years (average of 10 years; range 2-18 years).
 
 P# | Screen Reader/ Magnifier | Software | Device | O/S | Browser | Prototype version
 -- | ----- |------|-------|--------|--------|---------
