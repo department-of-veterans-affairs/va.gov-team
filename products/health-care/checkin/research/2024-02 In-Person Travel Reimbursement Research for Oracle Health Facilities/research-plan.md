@@ -66,7 +66,7 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. How easy or difficult is it for Veterans to initiate a claim?
    - Veterans will find it extremely easy to initiate a claim, but some will have difficulties because of cellular reception. 
 2. How easy or difficult is it to complete filing a claim?
-   - Veterans will find it exremely easy to file a claim from their smartphones. 
+   - Veterans will find it extremely easy to file a claim from their smartphones. 
 4. How easy or difficult is it to file more than 1 claim? (If applicable.)
    - Veterans will find it extremely easy to file more than 1 claim in a single form. 
 5. Which step of the process was most difficult to understand or challenging?
