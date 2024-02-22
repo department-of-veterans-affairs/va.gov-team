@@ -78,7 +78,7 @@ service.get_address
 4. Call get_person on the service
 
 ```ruby
-account = Account.find_by(idme_uuid: uuid)
+account = Account.find_by(idme_uuid: uuid) # if no account is found, try logingov_uuid as the parameter
 icn = account.icn
 aaid = CGI.escape("#{icn}#{Identity::Parsers::GCIdsConstants::ICN_ASSIGNING_AUTHORITY_ID}")
 encoded_icn = "#{Identity::Parsers::GCIdsConstants::VA_ROOT_OID}/#{aaid}"
