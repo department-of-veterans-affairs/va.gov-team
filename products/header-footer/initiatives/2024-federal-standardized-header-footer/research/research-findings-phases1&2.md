@@ -195,7 +195,20 @@ After each research session, the moderator reviewed all of the participant's com
 *Recognition as an official government website--INSERT FINDINGS HERE*
 
 ### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
-The sentiment from participants on the VA seal without any "VA" logo was mostly positive (88%) and neutral (13%), without any negative sentiment at all.
+
+Not a single participant said anything about the website missing the "VA" logo. **Everyone figured out that it was VA-related from the VA seal** and the text "U.S. Department of Veterans Affairs".
+
+17 of the 19 participants were asked how they recognize that this is an official government website (the other 2 participants were not asked due to lack of time). More than half of the participants (11 of 17) said that they would **look at the URL to see if it's *https* and *.gov*** because the words and graphics could be a fake copy. Participants also mentioned other features of the page:
+  - **VA seal** (12 participants)
+  - ***U.S. Department of Veterans Affairs* in the header** (8)
+  - "**An official website of the U.S. Department of Veterans Affairs**" in the footer (5)
+  - ***USA Government*** in header (5)
+  - Logo, typeface, and accordions of other VA pages (3) 
+  - Veterans Crisis Line (2)
+  - Blue menu bar and white background (1) 
+  - "USA" logo in footer (1)
+ 
+The sentiment from participants on the VA seal was mostly positive (88%) and neutral (13%), without any negative sentiment at all.
 
 
 
