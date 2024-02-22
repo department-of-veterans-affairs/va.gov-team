@@ -17,7 +17,7 @@ Application exists on VA.gov in a published, authenticated state, but can only b
 	- [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1)
 	- [System Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png)
 	- [Data Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png)
-	- [UI/UX](https://www.sketch.com/s/a3419c37-f716-4b09-8853-2c6c8284ed85)
+	- [UI/UX](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65%3A17315&mode=design&t=tQWPq4gDhr0TPfX3-1)
 	- [User documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_Draft.docx)
 - [X] Monitoring has been set up (Analytics/Datadog)
      - [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/P-tPztN1RWeImHsoMJ63Jw/a50123418w177519031p176188361/_.useg=builtin1/)
