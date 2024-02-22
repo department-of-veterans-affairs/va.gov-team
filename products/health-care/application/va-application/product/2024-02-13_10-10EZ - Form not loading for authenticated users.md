@@ -182,4 +182,4 @@ Include the step that describes when and how the issue was identified (i.e. how 
 - [@longmd](https://github.com/@longmd)
 - [Patrick Vinograd](https://github.com/@patrickvinograd)
 
-A debrief/discussion of this incident was completed on 2/21/24, facilitated by Patrick Vinograd and including the following representatives from the 1010 and platform teams: **TK LIST PARTICIPANTS HERE**
+A debrief/discussion of this incident was completed on 2/21/24, facilitated by Patrick Vinograd and including the following representatives from the 1010 and platform teams: Matt Long (1010), Curt Bonade (Platform), Clint Little (Platform), Adrian Rollett (Platform), Heather Justice (1010), Alex Seelig (1010)
