@@ -92,7 +92,12 @@ This is a generic testing procedure, when doing mobile accessibility testing you
 
 As of January 2024, at least in the US, iOS devices only support a single browser engine -- the technology used to compute and render a webpage -- regardless of the name of the browser downloaded, this means that on iOS testing can be safely confined to only Safari, because all other browsers use the same browser engine under the hood, WebKit. This said, in the future we suggest that research be done with VA.gov users to determine the validity of this statement.
 
-Android devices, like more general purpose computers, support a wide plethora of browsers and browser engines, therefore it will be important to target a number of them. Many OEMs, like Samsung, ship their own browser as default.
+Android devices, like more general purpose computers, support a wide plethora of browsers and browser engines, therefore it will be important to target a number of them. Many OEMs, like Samsung, ship their own browser as default. We suggest that research be doen wtih VA.gov users to determine common browsers used on Android devices. Until that research is done, though, some recommended browsers for testing include: 
+
+- [Google Chrome](https://play.google.com/store/search?q=Google%20Chrome&c=apps&hl=en_US&gl=US)
+- [Firefox](https://play.google.com/store/search?q=Firefox&c=apps&hl=en_US&gl=US)
+- [Microsoft Edge](https://play.google.com/store/search?q=Microsoft%20Edge&c=apps&hl=en_US&gl=US)
+- [Samsung Internet Browser](https://play.google.com/store/search?q=Samsung%20Browser&c=apps&hl=en_US&gl=US)
 
 ### Identify the user journey and goal to be tested
 
