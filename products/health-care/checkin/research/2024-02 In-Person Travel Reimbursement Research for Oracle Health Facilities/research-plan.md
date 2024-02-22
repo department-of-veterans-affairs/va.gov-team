@@ -139,7 +139,10 @@ TBD
 Team Roles
 ----------
 
-TBD
-
-
-
+Moderator: TBD<br>
+Research conversation guide writing and task development: Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
+Project point of contact: Christina Gednalske [(christina.gednalske@adhocteam.us)](mailto:christina.gednalske@adhocteam.us), Ben Brasso [(ben.brasso@agile6.com)](mailto:ben.brasso@agile6.com)<br>
+VA Product Owner: Kay Lawyer [(katherine.lawyer@va.gov)](mailto:katherine.lawyer@va.gov),
+Participants for pilot test: n/a <br>
+Note-takers: TBD<br>
+Observers: n/a<br>
