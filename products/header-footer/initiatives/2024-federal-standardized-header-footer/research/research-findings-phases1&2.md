@@ -118,7 +118,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 
 
-### 1. 
+### 1. Wayfinding wasn't adversely affected by the header and footer design
 For each of the 7 tasks that research participants did during the sessions, the moderator recorded how it was completed:
 - **Directly successful** (using one of the "correct" paths implemented in the prototype)
 - **Indirectly successful** (using a different path that wasn't implemented in the prototype but was plausible and would likely work in Production, such as doing a site search, OR using one of the "correct" paths in the prototype but not as the first try)
@@ -129,7 +129,15 @@ The success rate for each task was computed by adding together the directly and 
 
 ![task-success-rate](./images/task-success-rate.png)
 
+### 2. There were some accessibility problems that affected task completion by participants using screen readers
 
+### 3. Half of the participants had difficulty finding the Auth menu, and a third of the participants didn't recognize that they were signed in
+
+### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
+
+### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
+
+### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
 
 
 
