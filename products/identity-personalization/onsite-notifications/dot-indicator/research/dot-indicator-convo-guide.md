@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 
 Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/49Bvi7O), and then for you to share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. Now please click the "sign in" button in the top right corner and I'll put the credentials you should use to log in in the chat. 
+Okay great, I can see your screen. 
 
 - *Once the full page has loaded* Now that you've logged in, what's standing out to you first?
 - *If they don't mention the indicators* Go to the Health care section. 
