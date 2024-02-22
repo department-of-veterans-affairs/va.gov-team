@@ -45,7 +45,7 @@
    </td>
    <td>Are civil unions eligible?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -61,7 +61,7 @@
    </td>
    <td>Are common law marriages eligible? If so, what docs are accepted for proof?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -77,7 +77,7 @@
    </td>
    <td>If the applicant is remarried on or after 55th birthday, do you need both (the sponsor’s and the new spouse’s) marriage certs?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -93,7 +93,7 @@
    </td>
    <td>If the applicant is remarried on or after 55th birthday but the new marriage ended, do you need both (the sponsor’s and the new spouse’s) marriage certs?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -109,7 +109,7 @@
    </td>
    <td>There are a lot of reasons that determine eligibility? If a person may be ineligible would it help to know why. For example, the applicant’s exact relationship to the sponsor?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -125,7 +125,7 @@
    </td>
    <td>What docs do you need for Helpless children?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -141,7 +141,7 @@
    </td>
    <td>If an applicant doesn’t have a birth certificate, would you accept a social security card?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -157,7 +157,7 @@
    </td>
    <td>There is a question about how the Veteran (Sponsor) died? Does this affect anything in terms of benefits or what documents they need to upload (ie. a death certificate with the reason of death, casualty report)?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -173,7 +173,7 @@
    </td>
    <td>Are there any supporting docs needed for caretakers to upload for CHAMPVA enrollment?
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
@@ -189,7 +189,7 @@
    </td>
    <td>Do users need to submit third party signer/power of attorney supporting documents with their 1010D form? Since those documents aren't mentioned on the PDF version of the form or any of the CHAMPVA page content, we just want to be sure the 1010D requires those forms as part of the submission process. And if so, do they allow submission of any of these third-party forms -- like the alternate signer form,  VA form 2122 or VA Form 2122a.
    </td>
-   <td>Y
+   <td>N
    </td>
    <td>Y
    </td>
