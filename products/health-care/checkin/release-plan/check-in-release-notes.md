@@ -12,6 +12,13 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 2/22/2024 - CHIP Release v3.4.4
+- Create CodeQL workflow
+- Mocks & Tests updated
+- Stopcodes updated for future release of CVT and VVC appointments check-ins
+- Dependabot & DD-trace security updates
+- Added station 500GF, 500GB (pacific time zone for testing)
+
 ### 1/23/2024
 - Updated eCheck-in to let the Veteran know when BTSSS is down (based on a manually-triggered travel feature flag)
     - [Epic 72876](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72876) 
