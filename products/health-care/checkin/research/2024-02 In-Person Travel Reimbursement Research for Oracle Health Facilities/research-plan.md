@@ -1,4 +1,4 @@
-In-Person Travel Reimbursement on Smartphone UAT for VA Oracle Health Facilities
+In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilities  
 ======================
 
 [DRAFT]
