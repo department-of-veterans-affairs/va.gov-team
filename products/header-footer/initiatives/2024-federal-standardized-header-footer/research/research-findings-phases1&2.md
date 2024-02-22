@@ -119,19 +119,23 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 
 ### 1. Wayfinding wasn't adversely affected by the header and footer design
-For each of the 7 tasks that research participants did during the sessions, the moderator recorded how it was completed:
+For each of the 7 wayfinding tasks that research participants did during the sessions, the moderator recorded how it was completed:
 - **Directly successful** (using one of the "correct" paths implemented in the prototype)
 - **Indirectly successful** (using a different path that wasn't implemented in the prototype but was plausible and would likely work in Production, such as doing a site search, OR using one of the "correct" paths in the prototype but not as the first try)
 - **Needed help** (needed a hint or other help from the moderator in order to successfully complete the task)
 - **Unsuccessful** (unable to complete the task, even with help from the moderator)
 
-The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 tasks with the lowest success rates (60-75%) were challenging for some participants because they didn't look in the footer (for the FOIA and VA Careers links) or couldn't find the Auth menu (needed to update mailing address).
+The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 tasks with the lowest success rates (60-75%) were challenging for some participants because they didn't look in the footer (for the FOIA and VA Careers links) or couldn't find the Auth menu (needed to update mailing address). One participant was unable to complete one task, and ALL other non-successful tasks were because help from the moderator was needed.
 
 ![task-success-rate](./images/task-success-rate.png)
+
+The page design was well received overall. Participants mentioned specifically liking the page layout, the links in the header and footer, the placement of the *Sign in* button in the top right, the simple font (Public Sans) with good color contrast, the menus that start out collapsed, and the ample spacing between touchable links on mobile devices.
 
 ### 2. There were some accessibility problems that affected task completion by participants using screen readers
 
 ### 3. Half of the participants had difficulty finding the Auth menu, and a third of the participants didn't recognize that they were signed in
+
+After finding and opening the Auth menu, ALL participants recognized and clicked on Profile, which was the correct navigation path.
 
 ### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
 
