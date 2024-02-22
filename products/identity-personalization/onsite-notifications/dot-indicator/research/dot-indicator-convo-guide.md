@@ -88,6 +88,8 @@ Where do you think on this page you could find the status of your claim?
 
 If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that
 
+- Ask about what would be useful to learn ahead of time. 
+
 _- If they have never filed a claim before, move on to Thanks and Closing_
 
 ## Thanks and Closing - 2 minutes
