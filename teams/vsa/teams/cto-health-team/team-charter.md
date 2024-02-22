@@ -134,7 +134,7 @@ Review and demonstrate accomplishments and work completed.
 | MHV on VA.gov Weekly Stand Up | Wednesday (weekly) | Provide MHV on VA.gov updates to all MHV on VA.gov adjacent teams | Patrick; Lynne back up |
 | MHV Weekly Design Review | Wednesday (weekly) | Provide MHV on VA.gov updates (UCD/UX, Developers, Testers, Product, and Stakeholder updates) | Designers | 
 
-#### Slack:
+#### VA Slack:
 - Slack is our primary form of communication outside meetings.  It is encouraged that we communicate in public channels rather than private channels or direct messages, except when necessary.  Please thread your replies, and @ whoever you need to specifically provide info to, or need feedback from.  Channels:
   -  [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R) - Discovery & architectural discovery, development of auth & unauth "MHV on VA.gov" landing page.
   -  [#health-portal-backchannel](https://dsva.slack.com/archives/C02TKHQCF9U)- Private invitation-only channel for discussing topics that are not yet ready for public disclosure.
