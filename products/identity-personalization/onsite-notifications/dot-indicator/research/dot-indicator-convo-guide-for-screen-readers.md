@@ -47,7 +47,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
-Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49Bvi7O) and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/3IeFwyU) and then share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. By the way, we are using a tool called CodePen for this prototype, so if you hear any mention of it, that's totally normally and nothing to be concerned about. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account.
 
@@ -58,7 +58,9 @@ Okay great, I can see your screen. By the way, we are using a tool called CodePe
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have new lab results to review?
 
 - What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
-- 
+
+- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
+  
 - How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well to inform you of something?
   
 - How do you think each of these notifications that are being read to you would no longer be there?
@@ -69,7 +71,6 @@ Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly
 
 *User shares screen*
 
-- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
 
 ### Move on to slim alert banner
 
