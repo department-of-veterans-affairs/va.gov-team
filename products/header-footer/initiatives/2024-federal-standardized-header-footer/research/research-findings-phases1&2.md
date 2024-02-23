@@ -190,32 +190,58 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 Only 16 of the 19 participants had enough vision that they were able to provide feedback on the USA logos. (The 6 participants were all Veterans or caregivers or family members of Veterans, which isn't a representative sample of all US citizens.)  
 
-34. **11 of 16 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
-   - **Doesn't look like an official government website** (2 of 6 participants)
+**11 of 16 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
+   - **Looks fraudulent, fake, or like phishing** (4 participants)
+     > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official'" (AT p11).*
+
+     > *"Amateurish to me, so I would immediately if I saw it on a .gov website think that I'm being phished" (non-AT p8).*
+
+     > *"Am I getting spoofed right now, and I'm going to put in my information and have my identity stolen?" (non-AT p7).*
+
+     > *"It looked weird there to me. Thought it was fake like it was just added on...It is redundant to me because it's the **US** Department of Veterans Affairs...We all know that we serve, so we know that it's part of the government...I just don't understand the importance of it being there" (non-AT p4).*
+
+   - **Not telling you anything new** (3 participants) 
+     > *"Just cause it says USA Government don't mean nothing" (non-AT p11).*
+     
+     > *" I don't think the U.S.A. Government at the top is necessary...Why somebody would want it, I guess, to give them the warm and fuzzies that it's a government website...you gotta watch out for scamming scam websites and phishing and all that other stuff. Just putting U.S.A. Government at the top does not make it official to me" (non-AT p3).*
+
+      > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (non-AT p10).*
+
+   - **Doesn't look like an official government website** (2 participants)
      > *"It doesn't look professional that it doesn't instill confidence in me...There's no uniformity, it's not basic enough. It looks too frilly...When you open that up, it looks like the Olympics. It doesn't look like any official government website. It doesn't look serious at all" (AT p4).*
 
      > *"Looks kind of legit with the blue and the red, maybe not the black" (AT p6).*
-   - **The font of the "S" seems out of place** (2 of 6 participants)
+   - **The font of the "S" seems out of place** (2 participants)
      > *"The font is not the best--that S is a little too fancy" (AT p4).*
 
      > *"The fonts aren't consistent, so S is different than the U and A (AT p9).*
-   - Looks **unfamiliar so seems fraudulent**
-     > *"If I clicked and I got navigated to the web page and I saw this, I would just go, okay, this isn't it. And I would just close my web browser and start over...nothing about it says 'official'" (AT p11).*
+   
 
    - **Not sure why it says "USA Government"** because things usually say "*U.S.* Government"
 
   - **Not sure why it says "USA"**  because VA is what matters
      > *"The VA part...is what I'm focused on--more than the U.S. I know the VA is part of the U.S. Government" (AT p3).*
+  - **Just taking up real estate on the page**
+     > *"Just unnecessary real estate being used there at that point. So unless I'm able to click on it and go to another government resource, I don't really see a need for it...doesn't necessarily seem to blend in with the page. It's just like something added up top there (non-AT p8).*
 
+Only **one person loved the colored USA logo**, and this was a Veteran who had previously worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
 
-35. Of the 5 participants who didn't like the colored USA logo in the header, **3 of the 5 said they liked the black/white USA logo in the footer better** because it's a single color and has the seal next to it instead of the word "government". 
-      > *"The S is different than the U and A (the font), but...you don't see it as much because it's in all in the same color font so it doesn't stand out as much...The black and white makes it look pretty clean...It looks organized" (AT p9).*
+   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it...It's very well done. It's very well considered, and it's awesome. I've done a lot of this work in the past." (non-AT p2).*
 
-      > *"It's USA and then you have the symbol [seal] right next to it--that looks more official...[The word] 'Government' seems more generic...The first thing that makes me think official is when I see the seal" (AT p3).*
+Of the 11 participants who didn't like the colored USA logo in the header, **5 said they liked the black/white USA logo in the footer better** because it's a single color and has the seal next to it instead of the word "government". 
 
-1. Three of 6 participants had **feedback on the white VA seal to the right of the white USA logo**. 
-    - 2 people had **difficulty seeing the details** of the white logo, noting that it's smaller than the colored version at the top of the page.
-    - 1 person said that the **black and white coloring was wrong for the eagle**:
+  > *"The S is different than the U and A (the font), but...you don't see it as much because it's in all in the same color font so it doesn't stand out as much...The black and white makes it look pretty clean...It looks organized" (AT p9).*
+
+  > *"It's USA and then you have the symbol [seal] right next to it--that looks more official...[The word] 'Government' seems more generic...The first thing that makes me think official is when I see the seal" (AT p3).*
+
+  > *"This bottom one seems a little bit more official to me...states an official website...more boring and professional" (non-AT p8).*
+
+  > *"It's not some...scam website that at the top it looks cheesy to me...Looks very nice...at the bottom it's like a seal of approval, this is an official website...it just looks very good...it's simple. I like that. It's colorless. It has the eagle" (non-AT p4).*
+
+3 participants had **feedback on the white VA seal to the right of the white USA logo**.
+
+  - 2 people had **difficulty seeing the details** of the white logo, noting that it's smaller than the colored version at the top of the page.
+  - 1 person said that the **black and white coloring was wrong for the eagle**:
       > *"If I blow it way up, I can see that...the poor eagle has a black head. And that wasn't the case at the top because it was colored right and eagles don't have black heads. [They have] white heads" (AT p4).*
    - 1 person wondered why it was the VA seal and not a US seal.
 
