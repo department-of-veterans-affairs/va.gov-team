@@ -5,6 +5,22 @@ WIP doc status: 02/01/2024 Rough draft working document to define our strategy.
 
 ## Objectives
 
+UAE Goals
+- Increase number of Veterans who can successfully request, schedule, pre-check-in, check-in, view an AVS, and submit a travel pay claim for an appointment.
+- Increase Veteran satisfaction rates of VA online scheduling experience.
+- Improve access to accurate appointment data
+- VA.gov handles all fatal performance errors from the backend gracefully
+
+### 📈 Increase access to appointment scheduling.
+
+- Number of unique users increase.
+- Number of enabled clinics increase.
+
+Not currently tracked.
+
+Questions and notes
+- We track unique Veterans/site usage
+- Enabled clinics are available as a VSSC report. Kay may be able to own this one.
 
 ### 📈 Increase number of Veterans who are able to successfully request or schedule an appointment.
 
@@ -16,13 +32,21 @@ Questions and notes:
 - Can we make this more accessible/available?
 
 
-### 📈 Increase veteran satisfaction rates of the MHV Appointments experience.
+### 📈 Increase Veteran satisfaction rates of the MHV Appointments experience.
 
 Tracked in the [Medallia overall satisfaction](https://va-gov.domo.com/page/825663825) Contact Center Domo dashboard.
 
 Questions and notes:
 - We could add nuance by looking at task completion rate and sentiment analysis from Veteran user feedbck.
 
+### 📉 Decrease the percentage of request and scheduling sessions that end in abandonment.
+
+Tracked in the [VAOS Key Product Data](https://lookerstudio.google.com/reporting/2d972405-6655-4718-85d6-4bdd56c4e858/page/p_rxu0pq17qc) (Google Data Studio)
+
+Questions and notes:
+- We have conversion through GA, need to verify accuracy.
+- Need to review current tracking against user flows.
+- May get some of this through DataDog.
 
 ### 📉 Decrease the percentage of sessions that encounter, or end in any error state.
 
