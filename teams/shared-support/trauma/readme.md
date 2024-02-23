@@ -7,8 +7,9 @@ For more on our purpose, check out our [takeaways from a collaborative discussio
 Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
 - [ ] Join our Slack channel at `#trauma-practice`. Or reach out to Martha (martha.wilkes@va.gov) if you don't have Slack.
 - [ ] Read [how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
-- [ ] Introduce yourself in `#trauma-practice` or at a Community of Practice meeting. This is 100% optional. 💙
-- [ ] Reach out on `#trauma-practice` to be added to our next Community of Practice meeting. These gatherings are open to anyone. You can also [read or add to our shared agenda (Google docs)](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing) before you join.
+- [ ] Introduce yourself in `#trauma-practice`. This is 100% optional. 💙
+- [ ] Learn more about our [gatherings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/gatherings.md).
+- [ ] Reach out on `#trauma-practice` to be added to our next Community of Practice meeting. These gatherings are open to anyone. You can also [read or add to our shared agenda](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing) before you join.
 - [ ] In your own time, we encourage you to check out this [introduction to trauma (and resource list)](https://docs.google.com/document/d/11W66cjxCgguF_ulVOxet-CszfJB3aTBl-OxJTEeloGg/edit?usp=sharing) and skim through our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes).
 
 ## Participate and connect with our community
