@@ -181,7 +181,7 @@ Is there anything confusing or if you have any questions on this page?
 
 Can you tell me what you ordered here? Would you like to add anything to this page?
 
-# _Overall_
+#### _Overall_
 
 How would you rate this reordering overall experience from 1 to 5, 5 being the easiest? 
 
@@ -200,5 +200,28 @@ If a supply isn't available and you are told to talk to your provider, then how 
 In your experience/opinion, are we missing any devices? 
 
 Is there anything else that we haven't talked about that you’d like to share? Do you have any questions for me before we wrap up? 
+
+## Thank You
+
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+
+If you know any other Veterans, caregivers, or service members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
+
+Thank you so much again, and I hope that you enjoy the rest of your day!
+
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
+
+*End meeting for all*
+
+## Language in event participant needs mental health resources
+
+I want to remind you that VA can help connect you to mental health services--even if you're not enrolled in VA health care. To access services right away, call or go to any VA medical center at any time 24/7 or any Vet Center during clinic hours. You can also call 877-222-8387, Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. That's 877-222-8387.
+
+**If the participant looks like they need help right now...**
+
+Would you like to stop this session now?
+
+If you find that you're in crisis and need to talk to someone right away, you can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
+
 
  
