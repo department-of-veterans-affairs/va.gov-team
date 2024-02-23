@@ -49,7 +49,7 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 - number of downloads
 - number of submissions
 - processing time for paper forms:
-  - Takes 120 days to process (this is outside desired goal - 90% within 45 days).
+  - currently it takes 120 days to process (this is outside desired goal - 90% within 45 days).
   - Can take 'minutes to hours' to process a claim (depending on how many pages).
 
 ### Objectives and Key results (OKRs)
