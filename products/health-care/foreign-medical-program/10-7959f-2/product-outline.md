@@ -13,11 +13,13 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans are able to easily fill out the claim cover sheet  online on VA.gov
+- Veterans spend less time, effort and money filling out and mailing paperwork
 
 ## Undesired User Outcomes
-
+- Veterans are unaware that they can fill out form online
+- Veterans encounter errors during the online process
+- Veterans have low confidence in the online process
 
 ## Desired Business Outcomes
 
