@@ -25,4 +25,4 @@ The Practice Circle is:
 - led by a person or a small group of people with experience in trauma-informed design
 - not scribed (although, you're welcome to take your own notes)
 
-**Interested in joining a Community of Practice meeting?** Reach out on `#trauma-practice` and tag Martha Wilkes.
+**Interested in joining a Practice Circle?** Reach out on `#trauma-practice` and tag Martha Wilkes.
