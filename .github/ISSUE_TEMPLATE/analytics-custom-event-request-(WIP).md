@@ -20,14 +20,16 @@ Please reach out to the **#_vfs-analytics_** Slack channel if there are any ques
 ### Instructions:
 - **Step 1:** Make a copy of this [Google Sheet file](https://docs.google.com/spreadsheets/d/1G6edvaxWTRTIybbtP6uC7CE-wDkWpIH4bNqQywFhSRs/edit#gid=0) and update the name to include your team name and product. _(If you cannot not access Google Sheets, please use the attached Excel file)._
 - **Step 2:** Follow the instructions on the spreadsheet, filling out all required information on the two tabs:
-    - **Instructions & Team Info**
-    - **Custom Events**
-- **Step 4:** Add the link to the copied spreadsheet here, or if using Excel, upload the spreadsheet to this ticket.
+    - Instructions & Team Info
+    - Custom Events
+- **Step 3:** Add the link to the copied spreadsheet here, or if using Excel, upload the spreadsheet to this ticket.
     - Place Spreadsheet Here: [________]
-- **Step 5:**  Add your team label to this form track its progress.
+- **Step 4:**  Make the following edits to this Github ticket before submitting.
+    - Add your team's approrpiate label to this form to track its progress.
+    - Include your team and product names within the **Title** of this form.
 - **Step 6:** Submit this form.
 
 _Our team will follow up with you for next steps._
 
  > [!NOTE]
-> If your team manages more than one product, please ensure to select each product on first tab of the spreadsheet. Additionally, please list custom-events for each of your products you want tracked.
+> If your team manages more than one product, you can submit this form multiple times, or alternatively, include multiple copies of the spreadsheet to the same Github form. Whichever option is easiest.
