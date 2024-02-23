@@ -37,6 +37,7 @@ Questions and notes:
 Tracked in the [Medallia overall satisfaction](https://va-gov.domo.com/page/825663825) Contact Center Domo dashboard.
 
 Questions and notes:
+- Need to chat with Robyn Singleton to talk about overall satisfaction tracking across all the health tools/all VA.gov possibly.
 - We could add nuance by looking at task completion rate and sentiment analysis from Veteran user feedbck.
 
 ### 📉 Decrease the percentage of request and scheduling sessions that end in abandonment.
@@ -47,17 +48,15 @@ Questions and notes:
 - We have conversion through GA, need to verify accuracy.
 - Need to review current tracking against user flows.
 - May get some of this through DataDog.
+- Need to understand better where the dropoffs are happening, esp if reqs are an option
 
-### 📉 Decrease the percentage of sessions that encounter, or end in any error state.
+### 📉 Decrease the percentage of sessions that end in a fatal error.
 
 Not currently tracked.
 
 Questions and notes:
-- Will DataDog let us track this?
-
-### 📉 Decrease time taken to schedule or request any appointment successfully.
-
-Unclear if time to completion is currently tracked.
+- Errors come up through GA
+- We're logging/generating alerts in DataDog but not setting a baseline/tracking over time.
 
 
 ### Veterans understand how to navigate the appointments tool.
@@ -76,6 +75,7 @@ Not currently tracked.
 Ideas for tracking:
 - Medallia feedback: data issues decrease.
 - User research: no new data requests come in, all data is clear
+- Are there other ways aside from qualitative we can track this.
 
 ### Veterans have all the tools they need to manage their appointments.
 
@@ -94,6 +94,21 @@ Not currently tracked
 
 We add all of our studies to the [Aggregate Equity Checker](https://docs.google.com/spreadsheets/d/1FptjVArKot0wb2X8efpNtTAl3Rd1qroaEQmWtJ-bDxM/edit#gid=1035614575) (Google Doc) - Demographics of participants in our Veteran studies. We review this when recruiting and update our recruitment criteria to include those we haven't spoken to.
 
+
+## What we're not tracking and why
+
+### 📉 Decrease time taken to schedule or request any appointment successfully.
+
+This would help to understand if performance/comprehension is impacted by a release. We'd like to track this, but want to set up other metrics first.
+
+Unclear if time to completion is currently tracked.
+
+Questions and notes:
+- May be very difficult to get accurate data. Time on page and load time might be trackable. Process may be too dynamic to accurately track.
+- Could measure after a release if we have a baseline - how did release impact speed.
+- IVC is currently tracking how long it takes for reqs to get scheduled/disposed from time submitted in VAOS.
+
+- 
 -----
 
 ## Resources
