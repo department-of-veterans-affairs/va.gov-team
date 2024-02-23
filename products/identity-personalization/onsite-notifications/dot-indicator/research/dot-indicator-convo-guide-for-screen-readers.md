@@ -79,12 +79,11 @@ For this final part, I’d like for you to imagine you have recently filed for a
 
 How would you go about finding the status of your claim on this page?
 
-   -  If they find the card: Okay, what do you think all this info about the claim means? What do you think you might have to do next?
+   -  If they find the card: Okay, what do you think all this info about the claim means? What do you think you might have to do next for the claim?
 
    -  When you hear "We need more information from you", what do you think that could include?
 
-_If relevant_: Thinking back on when you filed any claims in the past, with any evidence requests, was there anything that would’ve been helpful to know
-beforehand for providing evidence?
+_If relevant_: Thinking back on when you filed any claims in the past, with any evidence requests, was there anything that would’ve been helpful to know beforehand for providing evidence?
 
 Are there other things with the VA you'd like to be notified of (through things read to you like the notifications we just ran through, or other ways like texts or emails) that you aren't now, or things you are notified of but you don't think it's helpful enough?
 
