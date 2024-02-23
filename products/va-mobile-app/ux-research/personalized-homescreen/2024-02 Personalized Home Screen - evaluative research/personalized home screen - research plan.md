@@ -1,5 +1,5 @@
 # DRAFT VA Mobile App: Personalized Home Screen Evaluative Research Plan
-January 2024
+February 2024
 
 
 ## Background
@@ -88,13 +88,8 @@ This research will help us understand if/how the personalized app home screen de
 * As a part of the screening process, we will have Perigean:
   * Confirm that participants are Android users.
   * Confirm that participants have download Zoom onto their mobile device (and can use it to screen share) before the research session.
-  * Confirm that participants canare willing and have room on their device to install a pre-release build of the VA mobile app on their mobile devices.
+  * Confirm that participants are willing and have room on their device to install a pre-release build of the VA mobile app on their mobile devices.
   * Confirm that participants have VA login credentials that they can use to log out of & into the app on their own (a username and password, not biometrics).
-
-* The study study session will consist of two parts:
-  * Pt 1 - Setup: We will have participants screenshare on Zoom and then help them to download & install the test build on their mobile device. Then we will confirm that they can log into the test build successfully (if they can’t do all three, we will divert to Plan B, a short series of longitudinal questionsend the session).
-  * Pt 2 - Evaluative Session: We will ask participants to share their screen with us while completing a series of tasks.
-
 
 #### Location
 Remote sessions via Zoom
@@ -122,7 +117,7 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 * At least 8 participants should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.
     * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
-      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is #.#.#).
+      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is "#.#.#").
 * All participants should have an active VA claim and/or appeal.
 * At least 8 participants should actively be using VA health care (prescriptions, appointments, secure messages).
 * At least 8 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
@@ -139,50 +134,37 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session from an Android smart phone such as a Samsung Galaxy or Google Pixel? Any kind of Android smart phone will work, as long as it connects to the internet.**  
+**1. Are you able to join the Zoom session from an Android smart phone such as a Samsung Galaxy or Google Pixel? Any kind of Android smart phone will work, as long as it connects to the internet.**  Note: iPhones will not work for the session
 Response options: yes or no  
-(If yes, proceed to 1a. If no, disqualify)
+*(If yes, proceed to 1a. If no, disqualify the participant)*
 
-**1a. Are you willing and able (and do you have space on your device available) to download and install a mobile app on your device during the session using a link you will open on your phone?**  
+**1a. Are you willing and able (and do you have space on your phone available) to download and install a mobile app during the session using a link you will open on using your phone?**  
 Response options: yes or no  
-(If no, disqualify)
+*(answering no would disqualify the participant)*
 
-**2. Are you currently able to log into VA.gov or the VA Health and Benefits mobile app using VA login credentials (username and password).**  
+**2. Are you able to log into the VA Health and Benefits mobile app using the option you prefer (ID.me, Login.gov or My HealtheVet) with your VA username and password? (If you suddenly got logged out, would you be able to log back in on your own using your username and password)?**  
 Response options: yes or no  
-(If yes, proceed to 2a. If no, disqualify)
-
-**2a. If you were to get logged out suddenly, would you be able to log back in on your own using your username and password?**  
-Response options: yes or no  
-(If no, disqualify)
+*(answering no would disqualify the participant)*
  
-**3. Do you use the VA Health and Benefits mobile app?**  
-Response options: yes or no  
-(If yes, proceed to 3a)
-
-**3a. How often do you use the VA Health and Benefits mobile app?**  
-Response options, checkbox list with text box:
-- Once a day
-- Once a week
-- 2 or more times per month
-- One time per month 
-- 1-2 times a year
-(Answer should be a, b or c to satisfy criteria for “active monthly user”)
+**3. Do you use the VA Health and Benefits mobile app? How often?**
+- Yes, once a day
+- Yes, once a week
+- Yes, two or more times per month
+- Yes, one time per month or less 
+- No, I don’t use the VA Health and Benefits mobile app
+*(Answering d or e would qualify the participant) as 'active monthly user')*
 
 **4. Do you currently have an open disability claim or appeal?**  
 Response options: yes or no  
-(If no, disqualify)
+*(answering no would disqualify the participant)*
 
-**5. What VA benefits or services do you currently receive?**  
-Response options, checkbox list with text box:
-- Health care
-- Payments from VA (for example, disability compensation or pension)
-- Education benefits
-- Other (please list)
-(At least 8 should have included “Health care” in their answer)
-
-**6. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack)?** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
+**5. Have you seen a healthcare provider in a VA medical center or other VA healthcare facility in the last 12 months?**  
 Response options: yes or no 
-(If yes, proceed to question 4a)
+*(Answering yes would qualify the participant as a Health care user)*
+
+**6. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack), and are you able to join the Zoom session using this assistive technology??** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
+Response options: yes or no 
+*(If yes, proceed to question 6a)*
 
 **6a. How many years have you been using screen reader technology on your mobile device?**  
 Response options, checkbox list with text box:
@@ -190,12 +172,7 @@ Response options, checkbox list with text box:
 - 1 year
 - 2-5 years
 - 5 or more years
-(If c or d, proceed to question 4b)
-
-**6b. Are you willing to join the Zoom session using this assistive technology?** (Answer should be yes to satisfy criteria for screen reader)  
-Response options: yes or no
-
-
+*(Answering c or d would qualify the participant as a screenreader user)*
 
 
 ## Timeline
