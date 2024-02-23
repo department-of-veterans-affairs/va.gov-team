@@ -29,43 +29,36 @@ _If not too distracting, CHECK SLACK for real-time feedback and questions from o
 
 ## **Intro - 5 minutes**
 
-Thanks for joining us today! May I call you [first name]?
+Thank you for joining us today! My name is Jenny and [NOTETAKER NAME] is taking notes.
+I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. Are you ok with them joining the call? But before we get to them, I'll talk a little bit about what we'll be doing today.  
 
-My name is [name]. I'm a usability researcher, and I work as part of a team that is improving the VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure we meet their needs.
+We are part of a team working on the health sections of the website VA.gov. We’d like to get your feedback on some changes we have made to how you can access your personal health information and benefits on VA.gov. Specifically, we'll be asking you to perform a task on how you would order medical supplies on the VA.gov website. I will be asking you questions while you walk me through how you'd order supplies. Most of what we'll be asking you is about your reactions to what you see on the website and what you might expect. Part of understanding how we can best improve this website is to understand what's working for our Veterans and what's not. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Your feedback today will help us make sure that we meet your needs and expectations on the website. 
 
-Before we start, I want to give you an idea of what this session will be like:
+It is worth noting that we will be using a testing website. This is not the actual website. We use it to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This testing website will not work exactly like a website and may not contain all the information. 
 
-- **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **If, for any reason and at any time, you want to stop the session, please let me know.**
-- We will, for the most part today, be talking through some of your experiences with medical supplies. At some point, I will have you complete a task on VA.gov with a test account, which I will walk you through how.  Please keep in mind that the testing website is only a demo tool, it may look familiar but would not act like you expect it to. I will guide you on the part that's functional.
+Also, there are a few things that I want to go over with you:
 
-Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will take notes to ensure we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
+- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session or do not want to answer a question, that's no problem. Please let me know. 
+- I know the folks who invited you to participate in this interview asked if it was okay to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+   - If no: Use Slack to kindly ask the observers to leave the Zoom.
+   - If yes: Admit observers. 
+    - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
+   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
+- Last one - one of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not but like to ask ahead of time. I'll also confirm at the end of the interview that this is okay with you, so you will get a chance to veto this once you know what we've talked about. 
+    - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?** 
+    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.** 
 
-_[If yes:]_ Thank you. When they are connected, I will ask them to make a quick introduction.
+*Start recording.*
 
-_[If no:] I_ appreciate you letting me know. Please give me a quick moment to let them know.
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners, if we remove any information that can be used to identify you?**
 
-_[If yes:] Thank_ you! We very much appreciate you talking with us today.
+## Warm-up Questions - 5 minutes
 
-_[When observers are connected to audio, ask them to introduce themselves]_
-
-- Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-- _[If yes: ]_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-
-_[Start recording.]_
-
-- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-
-### **Participant Coaching**
-
-Today we are just trying to hear and learn from you about your experience using the medical supplies ordering tool on VA.gov website. I will be asking you some questions and at some point, I will have you complete a task. Part of understanding how we can best improve this website is to understand what's working for our Veterans and what's not. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Your feedback today will help us make sure that we meet your needs and expectations on the website. Does that make sense?
-
-Are you ready to dive in?
-
-## **Warm-up Questions - 10 minutes**
-
-Let's get started. According to my notes, you have been prescribed medical supplies in the past few years. 
+Let’s start with a few questions... 
 
 - Can you tell me a bit about what supply you use and your last experience reordering supplies?
 - How was that experience?
