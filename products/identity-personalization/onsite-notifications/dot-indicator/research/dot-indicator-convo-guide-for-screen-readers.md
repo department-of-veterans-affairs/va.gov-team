@@ -57,7 +57,7 @@ Okay great, I can see your screen. For this exercise, I'm going to ask for you t
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have any unread health care messages?
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have new lab results to review?
 
-- How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well?
+- How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well to inform you of something?
   
 - How do you think each of these notifications that are being read to you would no longer be there and it would just be a plain link?
 
