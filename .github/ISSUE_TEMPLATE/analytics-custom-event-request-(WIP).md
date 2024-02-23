@@ -11,19 +11,18 @@ assignees: johnny-jesensky-adhoc
 In prepration for the migration to GA4, we need information on _all_ custom events used by your products so we can continue to track them.
 
 > [!IMPORTANT]
-> Please complete this form with the related spreadsheet included as soon as possible, _but no later than **Monday, April 1.**_ The final deadline where Universal Analytics will stop collecting data is **June 30, 2024**, so we are trying to ensure tracking coverage _well_ before that date.
+> Please complete this form with the related spreadsheet included as soon as possible, but no later than **Friday, April 5.** The final deadline where Universal Analytics will stop collecting data is **June 30, 2024**, so we are trying to ensure tracking coverage _well_ before that date.
 
 Please reach out to the **#_vfs-analytics_** Slack channel if there are any questions.
 
 ---
 
 ### Instructions:
-- **Step 1:** Make a copy of this [Google Sheet file](https://docs.google.com/spreadsheets/d/1G6edvaxWTRTIybbtP6uC7CE-wDkWpIH4bNqQywFhSRs/edit#gid=0) and update the name to include your team name and product. _(If you cannot not access Google Sheets, please use [this Excel file](https://github.com/department-of-veterans-affairs/va.gov-team/files/14388789/TEMPLATE.-.Custom.GA.Events.-.TEAM.NAME.HERE.xlsx)._
+- **Step 1:** Download [this Excel file](https://github.com/department-of-veterans-affairs/va.gov-team/files/14388789/TEMPLATE.-.Custom.GA.Events.-.TEAM.NAME.HERE.xlsx).
 - **Step 2:** Follow the instructions on the spreadsheet, filling out all required information on the two tabs:
     - Instructions & Team Info
     - Custom Events
-- **Step 3:** Add the link to the copied spreadsheet here, or if using Excel, upload the spreadsheet to this ticket.
-    - Place Spreadsheet Here: [________]
+- **Step 3:** Once completed, attach the Excel file to this ticket.
 - **Step 4:** Include your team and product names within the **Title** of this form.
 - **Step 5:** Submit this form.
 
