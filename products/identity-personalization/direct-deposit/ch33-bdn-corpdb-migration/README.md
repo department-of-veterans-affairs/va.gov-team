@@ -1,6 +1,6 @@
 # Project Outline - Ch33 Migration to CorpDB
 
-**Last updated 2/21/2024** -- Updating teams & responsibilities section; Adding details around the 2/20 email blast issue
+**Last updated 2/23/2024** -- Updating timeline
 ## Table of Contents 
 
 ## Communications 
@@ -187,20 +187,23 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 ## Timeline
 
-We are effectively kicking this work off on **February 20, 2024**, which means we have less than 60 days to complete this project. This is a rough timeline of how this might work **if the code updates are relatively simple**. If we get into the code and it's much more complex, we'll need to come up with a plan around what can be done by April 20th and create an estimate on when full functionality will be available again.
+We are effectively kicking this work off on **February 20, 2024**. This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan.
 
 |Week| Tasks | 
 |----|-------|
 |Week 1 (Feb 19 -23)| Planning; Discovery; Design; Collab kickoff|
-|Week 2 (Feb 26 - Mar 1)|Design complete|
-|Week 3 (Mar 4-8)| Build|
-|Week 4 (Mar 11 - 15| Build|
-|Week 5 (Mar 18 - 22)| Build|
-|Week 6 (Mar 25 - 29)| QA and updates|
-|Week 7 (Apr 1 - 5)| Staging review; UAT recruiting Security review|
-|Week 8 (Apr 8 - 12)| UAT, if possible|
-|Week 9 (Apr 15 - 20)| Pre-launch for interface; BDN migrates to CorpDB on April 20th|
-|Week 10 (Apr 22 - 26)| Launch interface updates; monitor|
+|Week 2 (Feb 26 - Mar 1)|BGS kicks off work; VA.gov Design complete|
+|Week 3 (Mar 4-8)| BGS work complete|
+|Week 4 (Mar 11 - 15| Lighthouse work begins; VA.gov frontend build begins|
+|Week 5 (Mar 18 - 22)| Lighthouse work complete; VA.gov frontend build complete EXCEPT for connecting frontend to backend|
+|Week 6 (Mar 25 - 29)| VA.gov backend build |
+|Week 7 (Apr 1 - 5)| VA.gov frontend connected to backend|
+|Week 8 (Apr 8 - 12)|VA.gov QA|
+|Week 9 (Apr 15 - 20)| Staging review; UAT recruiting Security review; BDN migrates to CorpDB on April 20th|
+|Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|
+|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|
+|Week 12 (May 6 - 10)|BGS CI launch May 11th|
+|Week 13 (May 13 - 17)|UAT; VA.gov goes to production|
 
 ### Proposed collab cycle touchpoints
 
