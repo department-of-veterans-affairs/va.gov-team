@@ -40,7 +40,7 @@ Before we start, a few things I want to mention:
 
 Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/49Bvi7O), and then for you to share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. 
+Okay great, I can see your screen. By the way, if you see anything referring to CodePen while viewing this, it's just a tool we use to create prototypes and nothing out of the ordinary. 
 
 - *Once the full page has loaded* What's standing out to you first?
 - *If they don't mention the indicators* Okay interesting. Can you scroll down to the Health care section?
