@@ -280,7 +280,8 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identities, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (AT p7).*
-
+ ### B. Contacting VA
+ **5 of 9 participants** in phase 2 (all use assistive tech) said that they **call the VA, rather than use the website** because it's easier for them.
 
 ## Research methodology learnings
 1. 
