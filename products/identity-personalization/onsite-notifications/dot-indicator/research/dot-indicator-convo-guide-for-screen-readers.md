@@ -1,11 +1,11 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator/Slim Alert for Screen Reader Users, February 2024
 
-- [ ] Make sure CodePen is functional
-	- [Single dot](https://bit.ly/49AMEBs)
- 	- [Badge indicator](https://bit.ly/4bL5YxH)
-	- [Slim Alert](https://bit.ly/3wnLdIq)
-- [ ] Start a thread in feedback backchannel with a link to observations document and observer instructions
-- [ ] Turn on closed captioning in order to use Zoom transcription
+- [ ] __Make sure Codepen pages are accessible__
+	- [Two dots](https://bit.ly/49Bvi7O)
+ 	- [Badge indicator](https://bit.ly/3IeFwyU)
+	- [Slim Alert](https://bit.ly/48lBwHG)
+- [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
+- [ ] __Turn on closed captioning in order to use Zoom transcription__
 
 - [Link to Figma __desktop__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=196-26640&t=cDBQ1pG5noiJPEC5-1&scaling=scale-down-width&page-id=196%3A26639&mode=design)  __for reference only. Can't be used for screen reader users.__
 - [Link to Figma __mobile__ prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=222-2228&t=Ly98ZWGK70aAsDJk-1&scaling=min-zoom&page-id=196%3A26639&starting-point-node-id=222%3A2228&show-proto-sidebar=1&mode=design) __for reference only. Can't be used for screen reader users.__
