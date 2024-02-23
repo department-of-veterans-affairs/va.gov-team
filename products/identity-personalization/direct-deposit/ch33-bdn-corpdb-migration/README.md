@@ -191,15 +191,15 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 
 |Week| Tasks | 
 |----|-------|
-|Week 1 (Feb 19 -23)| Planning; Discovery; |
+|Week 1 (Feb 19 -23)| Planning; Discovery|
 |Week 2 (Feb 26 - Mar 1)|BGS kicks off work; Collab kickoff; VA.gov design begins|
 |Week 3 (Mar 4-8)| BGS work complete; VA.gov design complete|
 |Week 4 (Mar 11 - 15| Lighthouse work begins; VA.gov frontend build begins|
 |Week 5 (Mar 18 - 22)| Lighthouse work complete; VA.gov frontend build complete EXCEPT for connecting frontend to backend|
 |Week 6 (Mar 25 - 29)| VA.gov backend build |
 |Week 7 (Apr 1 - 5)| VA.gov frontend connected to backend|
-|Week 8 (Apr 8 - 12)|VA.gov QA|
-|Week 9 (Apr 15 - 20)| Staging review; UAT recruiting Security review; BDN migrates to CorpDB on April 20th|
+|Week 8 (Apr 8 - 12)|VA.gov QA; UAT prep|
+|Week 9 (Apr 15 - 20)| Staging review; UAT recruiting; Security review; BDN migrates to CorpDB on April 20th|
 |Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|
 |Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|
 |Week 12 (May 6 - 10)|BGS CI launch May 11th|
