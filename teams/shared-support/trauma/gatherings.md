@@ -11,7 +11,9 @@ The Community of Practice is:
 - facilitated on a voluntary basis
 - scribed on a voluntary basis, and notes are made public
 
-**Interested in facilitating or scribing a Community of Practice?** [Read our instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md#community-of-practice-meetings).
+**Interested in joining a Community of Practice meeting?** [Learn how to get involved.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma#how-do-i-join)
+
+**Interested in facilitating or scribing a Community of Practice meeting?** [Read our instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md#community-of-practice-meetings).
 
 ## Practice Circle
 This is a **new** monthly meeting, held every 4th Friday of the month at 2:05pm EST (55 minutes).
