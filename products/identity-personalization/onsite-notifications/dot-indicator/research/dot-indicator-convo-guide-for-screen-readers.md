@@ -49,7 +49,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49Bvi7O) and then share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account.
+Okay great, I can see your screen. By the way, we are using a tool called CodePen for this prototype, so if you hear any mention of it, that's totally normally and nothing to be concerned about. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account.
 
 - *Once they have logged in and the full page has loaded* imagining that you've logged in, how would you typically go about navigating the page?
 
@@ -57,11 +57,11 @@ Okay great, I can see your screen. For this exercise, I'm going to ask for you t
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have any unread health care messages?
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have new lab results to review?
 
+- What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
+- 
 - How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well to inform you of something?
   
-- How do you think each of these notifications that are being read to you would no longer be there and it would just be a plain link?
-
-- What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
+- How do you think each of these notifications that are being read to you would no longer be there?
 
 ### Move on to badge indicator
 
