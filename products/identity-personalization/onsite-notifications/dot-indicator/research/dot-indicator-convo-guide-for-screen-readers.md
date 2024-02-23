@@ -47,9 +47,9 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
-Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49AMEBs) and then share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/49Bvi7O) and then share your screen with me. Let me know if you need any help doing that.
 
-Okay great, I can see your screen. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account and have arrived 
+Okay great, I can see your screen. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account.
 
 - *Once they have logged in and the full page has loaded* imagining that you've logged in, how would you typically go about navigating the page?
 
@@ -66,21 +66,24 @@ Okay great, I can see your screen. For this exercise, I'm going to ask for you t
 
 ### Move on to badge indicator
 
-Ok, we have one more weblink to share with you. [Share link, provide assistance as needed](https://bit.ly/4bL5YxH)
+Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly/3IeFwyU) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
+
+*User shares screen*
 
 - What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
 
 ### Move on to slim alert banner
 
-For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. [Share link](https://bit.ly/3wnLdIq).
+Ok, we have one more weblink to share with you. [Share link](https://bit.ly/48lBwHG). Again, if you need help, we're here to assist. 
 
-Where do you think on this page you could find the status of your claim?
+For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. 
 
-   -  If they find the card: Okay, what do you think this message means? What do you think you might have to do next?
+How would you go about finding the status of your claim on this page?
 
-If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that
+   -  If they find the card: Okay, what do you think all this info about the claim means? What do you think you might have to do next?
 
-- If they have never filed a claim before, move on to Thanks and Closing
+   -  When you hear "We need more information from you", what do you think that could include?
+
 
 ## Thanks and Closing - 2 minutes
 
