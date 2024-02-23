@@ -191,9 +191,9 @@ We are effectively kicking this work off on **February 20, 2024**. This is a rou
 
 |Week| Tasks | 
 |----|-------|
-|Week 1 (Feb 19 -23)| Planning; Discovery; Design; Collab kickoff|
-|Week 2 (Feb 26 - Mar 1)|BGS kicks off work; VA.gov Design complete|
-|Week 3 (Mar 4-8)| BGS work complete|
+|Week 1 (Feb 19 -23)| Planning; Discovery; |
+|Week 2 (Feb 26 - Mar 1)|BGS kicks off work; Collab kickoff; VA.gov design begins|
+|Week 3 (Mar 4-8)| BGS work complete; VA.gov design complete|
 |Week 4 (Mar 11 - 15| Lighthouse work begins; VA.gov frontend build begins|
 |Week 5 (Mar 18 - 22)| Lighthouse work complete; VA.gov frontend build complete EXCEPT for connecting frontend to backend|
 |Week 6 (Mar 25 - 29)| VA.gov backend build |
