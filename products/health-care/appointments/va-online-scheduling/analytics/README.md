@@ -5,7 +5,7 @@ WIP doc status: 02/01/2024 Rough draft working document to define our strategy.
 
 ## Objectives
 
-UAE Goals
+### UAE Goals
 - Increase number of Veterans who can successfully request, schedule, pre-check-in, check-in, view an AVS, and submit a travel pay claim for an appointment.
 - Increase Veteran satisfaction rates of VA online scheduling experience.
 - Improve access to accurate appointment data
@@ -18,7 +18,7 @@ UAE Goals
 
 Not currently tracked.
 
-Questions and notes
+Questions and notes:
 - We track unique Veterans/site usage
 - Enabled clinics are available as a VSSC report. Kay may be able to own this one.
 
@@ -26,11 +26,11 @@ Questions and notes
 
 Tracked in the [VAOS Key Product Data](https://lookerstudio.google.com/reporting/2d972405-6655-4718-85d6-4bdd56c4e858/page/p_rxu0pq17qc) (Google Data Studio)
 
-
 Questions and notes:
-- What's the source data for this chart?
+- Data comes from GA - conversion rates may be out of date
+- VSSC reports also have raw submission numbers
+- Could we use Big Query as data source? DataDog?
 - Can we make this more accessible/available?
-
 
 ### 📈 Increase Veteran satisfaction rates of the MHV Appointments experience.
 
@@ -63,7 +63,6 @@ Questions and notes:
 
 Not currently tracked.
 
-
 **Questions and notes**
 - How should we measure this? We could gather this info through UAT. It'd be nice if there was an automated/unmoderated way to test this...
 
@@ -89,10 +88,18 @@ Not currently tracked.
 
 Not currently tracked
 
+Questions and notes:
+- 
+- 
+
 
 ### Increase percentage of underrepresented Veterans who schedule appointments through VAOS.
 
 We add all of our studies to the [Aggregate Equity Checker](https://docs.google.com/spreadsheets/d/1FptjVArKot0wb2X8efpNtTAl3Rd1qroaEQmWtJ-bDxM/edit#gid=1035614575) (Google Doc) - Demographics of participants in our Veteran studies. We review this when recruiting and update our recruitment criteria to include those we haven't spoken to.
+
+Questions and notes:
+- 
+- 
 
 
 ## What we're not tracking and why
