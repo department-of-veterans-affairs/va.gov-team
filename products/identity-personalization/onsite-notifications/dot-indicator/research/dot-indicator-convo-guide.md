@@ -42,13 +42,14 @@ Okay great, I can see your screen.
 
 - *Once the full page has loaded* What's standing out to you first?
 - *If they don't mention the indicators* Okay interesting. Can you scroll down to the Health care section?
+- **What stands out to you in the Health care section?**
 
 - *For colorblind participants* Do you have any trouble seeing the dot? What color do they appear to be to you?
 - *For colorblind participants* How do you experience notifications on other websites and on your phone? Are there some types of notifications that are difficult or impossible for you to interpret? Is there any website or app that does it particularly well from a colorblindness standpoint?
 
 - *For magnicifcation participants - observe if they seem to notice links off to the right on desktop without being prompted. If they don't, direct them to where they are located*
 
-*for colorblind participants - don't use the word red*
+***for colorblind participants - don't use the word red***
 - What do you think each of these *red* dot indicators mean?
 
 - How do you think each of these dots would disappear? 
@@ -58,6 +59,8 @@ Okay great, I can see your screen.
 - What would you expect to see if you clicked "Get your VA medical records and lab and test results" when it has a dot next to it?
 
 - Is there anywhere on this view of the website that we're looking at now where you expect to see a *red* dot notification like this but you don't?
+
+###Move onto badge indicator
 
 Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly/3IeFwyU) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
 
