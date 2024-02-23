@@ -61,8 +61,8 @@ Okay great, I can see your screen. By the way, we are using a tool called CodePe
 
 - What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
   
-- How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well to inform you of something?
-  
+- How do you experience notifications on other websites and on your phone? Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
+- 
 - How do you think each of these notifications that are being read to you would no longer be there?
 
 ### Move on to badge indicator
@@ -88,9 +88,6 @@ _If relevant_: Thinking back on when you filed any claims in the past, with any 
 
 Are there other things with the VA you'd like to be notified of (through things read to you like the notifications we just ran through, or other ways like texts or emails) that you aren't now, or things you are notified of but you don't think it's helpful enough?
 
-### General notifications asks
-
-Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
 
 ## Thanks and Closing - 2 minutes
 
