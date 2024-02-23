@@ -1,4 +1,4 @@
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/e8f629ca-b87d-4ba7-8bd3-8f6427bac1c1)# MHV Secondary Navigation Comparison Study
+# MHV Secondary Navigation Comparison Study
 
 **Office of the CTO - Digital Experience (OCTO-DE), My HealtheVet on VA.gov, Cartography Team**
 
@@ -14,21 +14,26 @@ Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenburg (sara.sterkenburg@va.
 
 [Recommendations](#recommendations)
 
-Research readout [add link here]
+Research readout
 
 ## Important Context
 
 ### Past studies on wayfinding have uncovered: 
 
  * Users do not understand or experience My HealtheVet as a cohesive portal within VA.gov where they can complete all health-management related tasks.
- * As My HealtheVet on VA.gov is currently designed, most users expect to navigate the health portal using global navigation elements that direct them out of (not through) the portal
+ * As My HealtheVet on VA.gov is currently designed, most users expect to navigate the health portal using global navigation elements.  These direct them out of (not through) the portal, a UX that is frustrating and inefficient.  
    * “Some participants would be in MHV portal experience and return to Megamenu, Home page or Search. [...] These participants had to follow circuitous routes to accomplish the tasks and often indicated frustration or described VA.gov as complicated or confusing.”
    * “Once users leave MHV for the broader site of VA.gov, it is very challenging and frustrating to find their way back”
- * 37% of My HealtheVet users are on mobile devices, which further exacerbates the experience of portal navigation; current examples of mobile secondary navigation menus are collapsed and appear to be missed by mobile users
+
+ * 37% of My HealtheVet users are on mobile devices, which further exacerbates the experience of trying to navigate to and between health tools; current examples of mobile secondary navigation menus are collapsed and appear to be missed by mobile users.
+
  * This has led us to wonder:
-   * How might we create a secondary menu that is easier to use than going back to the landing page to move from tool to tool?
-   * How can we reduce the likelihood that users leave the health portal and get lost in the larger VA.gov ecosystem?
-   * How can we more clearly define My HealtheVet as a well-labeled portal destination?
+   * How might we create a secondary menu that provides a better navigational UX than is currently offered on MHV?
+
+ * For a secondary nav to establish a more positive navigatory experience that users can benefit from, the design must:
+   * Encourage users to go to the more local options first when seeking health-mgmt tools
+   * Help users understand that they are in a container (patient portal) with a specific purpose (health mgmt)
+   * Ideally, be just as easy to use on mobile as it is on desktop 
 
 #### Sources:
  * [Health Wayfinding Study - Jun 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/7f57cbccdb6a083c3281abd21e3fce0a5885a640/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
@@ -38,7 +43,7 @@ Research readout [add link here]
 
 * Evaluate a new navigation strategy that prioritizes easy access to the four primary health tools only. Determine whether this strategy is successful in helping users find and complete most health-related tasks.
 * Design the navigation to deliver a dual purpose of offering users a strong “sense of place” for My HealtheVet, to clarify that it is a comprehensive health portal within VA.gov.
-* Determine whether we have solved issues with collapsed navigation on mobile, or if Veterans require persistent, visible options to understand navigation.
+* Determine whether we have solved known issues with VA.gov's collapsed navigation on mobile (the "in this section" component), or if Veterans require persistent, visible options to understand navigation.
 
 ## Research Questions
 
@@ -48,14 +53,13 @@ Research readout [add link here]
 * Is one design (Design A or Design B) more successful than the other at helping Veterans meet their needs?
 * How does a secondary navigation within the health portal impact participants' understanding of place within the VA.gov digital ecosystem?
 
-
 ## Methodology 
 
 We conducted 16 remote interviews with Zoom. The 16 participants interacted with two prototypes each, either viewing both on mobile or both on desktop, half viewing Prototype A first, and the other half viewing Prototype B first. 
 
 ### Links to Codepen prototypes
 Note: Prototypes are responsive
- * [Prototype A (no icons)](https://000698568.codepen.website/results.html)
+ * [Prototype A (no icons)](https://000698568.codepen.website/results.html) 
  * [Prototype B (with icons)](https://codepen.io/figaro/project/live/AqoeoW)
 
 ## Key Findings
@@ -94,7 +98,17 @@ Note: Prototypes are responsive
    * P11: “"This is nice and easy. Much better than the current MyHealtheVet."
  * This is a strong departure from studies using other secondary navigation designs in which participants went to the mega menu first to navigate between pages within the health portal, a strategy that causes a frustrating, disorienting experience, ([Health Wayfinding Study - Jun 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/7f57cbccdb6a083c3281abd21e3fce0a5885a640/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study), [My HealtheVet Secondary Nav Research, Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
 
-#### 2. Participants who started off with Mobile A went to the mega men before finding the secondary nav.
+Note: Persistent-link nav was present on three versions of the two prototypes: Mobile B, Desktop A, and Desktop B. On Mobile A, there was a dropdown nav as opposed to persistent links. 
+
+##### Mobile A:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/fb9242d2-784d-4e38-a9fe-622d9fb607a6)
+
+##### Mobile B:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/30b080f5-2c99-4dfa-a22a-bfef8017a2d1)
+
+
+
+#### 2. Participants who started off with Mobile A went to the mega menu before finding the secondary nav.
  * This behavior matches that seen in other secondary navigation studies, in which participants have a negative experience getting lost in VA.gov and return via circuitous routes, [My HealtheVet Secondary Nav Research - Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
  * Ultimately, it appears that participants used whichever navigation strategy stuck out to them the most (in other words, the most visually salient option).
  * **As a result all 8 participants that interacted with mobile versions of the prototypes found Mobile B to be an easier and/or more direct navigation strategy.**
