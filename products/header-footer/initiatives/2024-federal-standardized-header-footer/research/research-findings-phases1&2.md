@@ -160,7 +160,7 @@ The 9 participants that we talked with each used their assistive technology in d
 1. AT p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 
 #### Issues discussed that *didn't* cause difficulty during sessions
-20. AT p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
+9. AT p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
 
 1. AT p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content underneath** when the menu background is the same color as what it's overlaying. In this way, it's hard for the participant to tell where the menu ends and the content resumes. 
 
@@ -181,10 +181,13 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 ### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
 
-1. **A third of the participants (6 of 19 participants: 5 desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 3 *stopped at the white USA logo*. 
-1. **Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
-1. **Four participants (2 desktop, 2 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. The fourth participant opened all the mobile footer accordions before trying the header. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
-1. **Three participants (all on desktop) said that the blue VA footer is too large** and has too many links. 
+**A third of the participants (6 of 19 participants: 5 desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 3 *stopped at the white USA logo*. 
+
+**Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
+
+**Four participants (2 desktop, 2 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. The fourth participant opened all the mobile footer accordions before trying the header. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
+
+**Three participants (all on desktop) said that the blue VA footer is too large** and has too many links. 
 
 ### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
 
@@ -281,7 +284,7 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (AT p7).*
  ### B. Contacting VA
- **5 of 9 participants** in phase 2 (all use assistive tech) said that they **call the VA, rather than use the website** because it's easier for them.
+ **5 of 9 participants** in phase 2 (who all use assistive tech) said that they **call the VA, rather than use the VA website** because it's easier for them.
 
 ## Research methodology learnings
 1. 
