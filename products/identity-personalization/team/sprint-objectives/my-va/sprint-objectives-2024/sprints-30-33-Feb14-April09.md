@@ -93,8 +93,8 @@
 - Sit in on VES study 
 
 ### General
--  Nametag documentation updates
--  Meet with platform on feature flag code cleanup on mock server proposal & execute
+- Submit My VA for 508 audit
+- Meet with platform on feature flag code cleanup on mock server proposal
 
 
 ## Sprint 32 (3/13 - 3/26)
@@ -104,10 +104,10 @@
 
 #### Dot Indicator
 **PM**
-- ...
+- Review findings from research 
 
 **Research**
-- ...
+- Research study synthesis
 
 #### Onsite Notifications 
 - In connection with CST exploration, meet with event bus team to learn about their work
@@ -136,9 +136,53 @@
 - Plan for generative research study
 
 ### General
--  Nametag documentation updates
--  Meet with platform on feature flag code cleanup on mock server proposal & execute
+- Address any findings from 508 office audit
+- Execute feature flag code cleanup on mock server (if not done in previous sprint)
 
 
 ## Sprint 33 (3/27 - 4/9)
 [#73618](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73618)
+### Notifications
+
+#### Dot Indicator
+**All team**
+- Strategy discussion/next steps
+
+**PM**
+- Backlog build out
+
+**Research**
+- Designs
+
+#### Onsite Notifications 
+- In connection with CST exploration, meet with event bus team to learn about their work
+
+### My VA
+
+#### Claims & Appeals Improvements
+**PM & Research**
+- ...
+
+#### Telemetry, Monitoring & Alerting (TMA)
+**FE**
+- continue testing improvements from backlog
+
+**BE**
+- BE support tickets from Tom
+
+#### V3 migration
+- ...
+
+### VA.gov Onboarding
+**PM**
+- Backlog build out
+
+**Research & Design**
+- Plan for generative research study (cont.)
+
+**FE**
+- Build prototype for study (if needed)
+
+### General
+- Address any findings from 508 office audit (cont.)
+- Execute feature flag code cleanup on mock server (if not done in previous sprint)
