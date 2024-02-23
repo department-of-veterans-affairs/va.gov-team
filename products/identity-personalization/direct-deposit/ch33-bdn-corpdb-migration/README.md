@@ -187,7 +187,7 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 ## Timeline
 
-We are effectively kicking this work off on **February 20, 2024**. This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan.
+This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan.
 
 |Week| Tasks | 
 |----|-------|
