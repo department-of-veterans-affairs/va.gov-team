@@ -34,7 +34,6 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 ---
 ## Measuring Success
 
-
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
@@ -47,9 +46,11 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-* Takes 120 days to process (this is outside desired goal - 90% within 45 days).
-* Can take 'minutes to hours' to process a claim (depending on how many pages).
+- number of downloads
+- number of submissions
+- processing time for paper forms:
+  - Takes 120 days to process (this is outside desired goal - 90% within 45 days).
+  - Can take 'minutes to hours' to process a claim (depending on how many pages).
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
