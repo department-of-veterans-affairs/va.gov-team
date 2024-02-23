@@ -7,9 +7,9 @@
 Following the Foreign Medical Program registration form (10-7959f-1), the online [10-7959f-2](https://www.va.gov/health-care/foreign-medical-program/) would allow Veterans to file a claim to get coverage for a service connected condition while outside of the U.S.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Veterans living or traveling outside the U.S. must mail or fax in paper forms in order to receive coverage for care received for service connected conditions. On the receiving end, these paper forms must be scanned and manually entered into various systems.  
 
-How might we make it easier for Veterans in the Foreign Medical Program to file claims?
+How might we make it easier for Veterans in the Foreign Medical Program to file claims? How might we reduce processing time per claim? 
  
 ## Desired User Outcomes
 
@@ -52,15 +52,17 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
-
+- Objective: Veterans can easily file for FMP claims online
+  - Key result: Measure number of Veterans who file for FMP claims online
+  - Key result: Reduce processing time for claims
+- Objective: Veterans are updated and informed of statuses
+  - Key result: Ensure testing and alert monitoring is in place to catch any errors
+  - Key result: Accurate confirmation status is relayed to applicants 
 
 ---
 
 ## Assumptions/Risks
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Risk - PEGA solution/integration is still underway and dependent on another team's timing.
 
 ## Solution Approach
 
@@ -72,8 +74,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
