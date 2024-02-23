@@ -1,4 +1,4 @@
-#MVP Analytics for the 526ez
+# MVP Analytics for the 526ez
 
 Various teams working on the 526ez have investigated inconsistencies in analytics data coming from Domo and Google Analytics. In this this document, we will idenitify and define the MVP metrics that will most inform product and design decisions. From there, we will determine what work needs to be done to correct confusing or innacurate data.
 
