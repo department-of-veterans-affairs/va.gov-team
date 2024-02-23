@@ -92,6 +92,152 @@ service.get_person
 
 526ez prefill populates `mailing_address` from the VA Profile response from the `addresses` array where `@address_pou = "CORRESPONDENCE"`
 
+## Missing Mailing Address Investigation
+
+The `disability_compensation_remove_pciu` flag was switched to ON for 10% of users on 2/12 around 11:18 PST (19:28 UTC). With the flag ON, supplemental calls to PCIU were removed, leaving VA Profile as the sole source of mailing address, email and phone information for the 526ez prefill. Almost immediately it was observed that more instances of missing mailing addresses seemed to be occurring, but since a rare instance of this had just occurred "au naturale", it was decided to let it run for a day to see if they were just flukes. By the next morning, missing mailing address instances had risen from about .05% to 5%- a signigicant enough increase to initiate a rollback and followup investigation. 
+
+Using DataDog and the tools above, 10 missing mailing address incidents were dug into- the finer details of which are shown below. The main takeaway here, however, was that 8 out of those 10 seemed to be caused by what we're calling "VA Profile update latency". In other words: at the time of those 8 requests, there was no mailing address info for the user in VA Profile, but anywhere from 35 minutes to 4 days later that data was "created"/available in VA Profile (based largely on the `created_at` field on the addresses record, where `address_pou` = 'CORRESPONDENCE').
+
+### Details
+
+NOTE:
+- We were unable to query for a user in PCIU if they hadn't went through the whole application and submitted their application. Like with this first case, we indicate those with "Unknown. Unable to query- no submission found".
+- Also, we've redacted the client_ip, user_uuid and DataDog links over PII concerns- reach out to Seth Darr for those details, if needed.
+
+First, one of the missing mailing address incidents just BEFORE the flag was turned ON (#0). #1 through #10 are incidents that occurred AFTER the flag was turned on (and in chronological order)
+
+#0
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/d4e8f48e-af36-4605-afcb-d02e31983a3b)
+
+```
+Time of request: 2/12 11:09am PST (19:09 UTC)
+client_ip: [REDACTED]
+user_uuid: [REDACTED]
+PCIU API call: Unknown. Unable to query- no submission found
+VA Profile API call: returns data now, which indicate they were created 8 minutes after the request
+        	"create_date"=>"2024-02-12T19:17:02Z" (11:17am PST)
+Analysis: VA Profile update latency here. Though I can’t confirm it, there must not have been a PCIU record at that time, either.
+```
+---
+#1
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/d1c188cd-eade-42a2-b11f-5fe6720ba51d)
+
+```
+Time of request: 2/12 11:36am PST
+PCIU API call: Unknown. Unable to query- no submission found
+VA Profile API call: returns data now, which indicate they were created 2/14 at 16:35 UTC- well after the request date
+Analysis: VA Profile update latency
+```
+---
+#2
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/410e7082-a3d6-4974-ae2d-d305773ff62d)
+
+```
+Time of request: 2024-02-12 12:15 PST (20:15 UTC)
+PCIU API call: returns data
+   @address_effective_date=Mon, 12 Feb 2024 06:00:00 +0000
+VA Profile API call: returns data now, but created in VA Profile at 12:50pm PST- 35 minutes after the request
+   "create_date"=>"2024-02-12T20:50:04Z",
+Analysis: VA Profile update latency. If flag had been OFF, it would’ve prefilled from PCIU.
+```
+---
+#3
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/1902f313-3ba5-40f5-a62d-4b87761e95e5)
+```
+Time of request: Feb 12, 2024 at 2:12pm PST
+PCIU API call: Unknown. Unable to query- no submission found
+VA Profile API call: returns data now, which indicate they were created 2024-02-16 14:23 UTC- well after the request date
+Analysis: VA Profile update latency
+```
+---
+#4
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/fb64e5cd-2e3c-4321-84d5-703298c8dd52)
+```
+Time of request: Feb 12, 2024 at 3:34pm PST
+PCIU API call: Unknown. Unable to query- no submission found
+VA Profile API call: returns data now, which indicate they were created 2/16 at 14:23 UTC- well after the request date
+   @created_at=2024-02-16 14:23:27 UTC,
+Analysis: VA Profile update latency
+```
+---
+#5
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/a34b1b4f-7a5a-4ee9-9d2c-d9ffc9a8e3f0)
+```
+Time of request: Feb 12, 2024 at 5:53pm PST
+PCIU API call: returns data
+@address_effective_date=Mon, 12 Feb 2024 06:00:00 +0000
+VA Profile API call: returns data now, which indicate they were created after the request date
+	@created_at=2024-02-16 06:21:02 UTC,
+Analysis: VA Profile update latency. If flag had been OFF, it would’ve prefilled from PCIU (which it did when they returned 3 days later)
+```
+---
+#6
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/4c9ae310-780a-4cae-a274-2233d46e3721)
+```
+Time of request:  Feb 12, 2024 at 5:56pm PST
+PCIU API call: returns data
+@address_effective_date=Mon, 12 Feb 2024 06:00:00 +0000
+VA Profile API call: returns data now, which indicate they were created after the request date
+	@created_at=2024-02-13 02:14:34 UTC
+Analysis: VA Profile update latency. If flag had been OFF, it would’ve prefilled from PCIU
+```
+---
+#7
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/e1e3225b-21d8-4f8c-bb3f-6f519256308f)
+```
+Time of request: 2/12, 2024 at 6:37pm PST
+PCIU API call: returns data
+@address_effective_date=Wed, 26 Apr 2023 05:00:00 +0000
+VA Profile API call: returns data	
+   @created_at=2018-05-14 21:37:42 UTC
+Analysis: Unknown. Probably there was a temporary outage around 2/12 18:13 PST. Note in screenshot above that mailing_address=true from 18:35 PST on
+```
+---
+#8
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/9e5c93ce-7059-4dfc-908f-75d97824bcf3)
+```
+Time of request: Feb 12, 2024 at 7:21pm PST
+PCIU API call: returns data 
+    @address_effective_date=Sat, 27 Jan 2024 06:00:00 +0000,
+VA Profile API call: user has NO addresses in VA Profile
+	@addresses=[]
+Analysis: Possible VA Profile update latency, or possible additional problem with this user (since no address info exists). However, if the flag had been OFF, it would’ve prefilled from PCIU.
+```
+---
+#9
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/19f841e8-acbc-4c6f-93ca-c902d603e74d)
+```
+Time of request: Feb 12, 2024 at 9:02pm PST
+PCIU API call: Unknown. Unable to query- no submission found
+VA Profile API call: user has NO addresses in VA Profile
+	@addresses=[]
+Analysis: Possible VA Profile update latency, or possible additional problem with this user (since no address info exists). It’s currently unknown whether or not it would’ve prefilled from PCIU.
+```
+---
+#10
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/f0a055c8-3b68-4dc8-8a2c-911aabd6275f)
+```
+Time of request: Feb 13, 2024 at 07:26am PST
+PCIU API call: returns data
+    @address_effective_date=Tue, 05 Dec 2023 06:00:00 +0000
+VA Profile API call: returns data
+	@created_at=2023-12-05 17:26:33 UTC
+Analysis: Unknown cause. Probably there was a temporary outage around 2/13 7:31 PST. Note in screenshot above that mailing_address=true 2 weeks prior and 3 days after the request
+
+```
+---
+
 # Open Questions/Thoughts
 There are many open questions, and we can expect this list to grow. So feel free to add to the section below (and for that matter, the section above 😜)
 
