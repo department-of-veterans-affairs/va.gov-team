@@ -38,10 +38,14 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 
 ### Resources
 <details>
+         
 <summary>Planning</summary>
-[Scheduling problem statements](https://docs.google.com/presentation/d/1YtBj0Vs2ne3eH-nz9wRyfEZ0tQ1ns99j3cQSn4xl8Ss/edit?usp=sharing)
-[Plan: Enable VA.gov appointment management for Veterans at Oracle Health facilities](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)        
+
+[Scheduling problem statements] (https://docs.google.com/presentation/d/1YtBj0Vs2ne3eH-nz9wRyfEZ0tQ1ns99j3cQSn4xl8Ss/edit?usp=sharing)
+[Plan: Enable VA.gov appointment management for Veterans at Oracle Health facilities (https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)        
+
 </details>
+
 <summary>Figma/ mural</summary>
 [Comparative Analysis Screenshots - Scheduling](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1637784544680/e384b1769cc9a12660f87ba02c5930545314d7cd?sender=uff1791dd79ec763420518644)
 [Figjam OH user flow](https://www.figma.com/file/iZCDnZmB5pSeFbEwZmIL3x/OH-User-flow?type=whiteboard&node-id=0%3A1&t=sZQaB1MOzWAa62MP-1)
@@ -52,7 +56,6 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 </details>
 <details>
 <summary>Related Research</summary>
-
 [CC flow usability test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md#findings-and-recommendations) < First finding is a must-read
 [Interviews with CC scheduling Managers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-community-care/research-findings.md)
 
