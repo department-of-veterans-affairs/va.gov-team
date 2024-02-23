@@ -55,7 +55,6 @@ Okay great, I can see your screen. For this exercise, I'm going to ask for you t
 
 - *Let them navigate down the page however they prefer. If they come across the links with indicators, ask:* What are the screen reader cues telling you about these links? How are you interpreting each of them? *Gauge whether the cues are stopping them in their tracks and seem important or are being ignored*
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have any unread health care messages?
-   	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have updates to prescriptions or prescription refills?
 	- *If they did not navigate to the links with indicators, ask:* How would you find out if you have new lab results to review?
 
 - How do you experience notifications on other websites and on your phone? Is there any website or app that does it particularly well?
