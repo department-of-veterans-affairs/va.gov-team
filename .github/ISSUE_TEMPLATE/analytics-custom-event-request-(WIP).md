@@ -11,30 +11,23 @@ assignees: johnny-jesensky-adhoc
 In prepration for the migration to GA4, we need information on _all_ custom events used by your products so we can continue to track them.
 
 > [!IMPORTANT]
-> Please fill out this document and the attached spreadsheet as soon as possible, but no later than **Friday, March 15.** The final deadline where Universal Analytics will stop collecting data is **June 30th, 2024**, so we are trying to ensure tracking coverage _well_ before that date.
+> Please complete this form with the related spreadsheet included as soon as possible, _but no later than **Monday, April 1st.**_ The final deadline where Universal Analytics will stop collecting data is **June 30th, 2024**, so we are trying to ensure tracking coverage _well_ before that date.
 
 Please reach out to the **#_vfs-analytics_** Slack channel if there are any questions.
 
 ---
 
-### Instructions for Spreadsheet
-- **Step 1:** Download the attached spreadsheet
-- **Step 2:** On the first tab, please provide the following information:
-    - Team Name
-    - Product(s) Name - Insert product name(s) from this [directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
-  - Point-of-Contact - someone for us to work with for follow-up questions, clarifications, or next steps.
-- **Step 3:** On the second tab, please fill out **all** sections on the form. Include the following fields wherever possible for each custom event.
-  - Product 
-  - Event Type
-  - File URL
-  - Code Snippet
-  - Comments
-- **Step 4:** Attach spreadsheet to this form.
-- **Step 5:** Submit Form
+### Instructions:
+- **Step 1:** Make a copy of this [Google Sheet file](https://docs.google.com/spreadsheets/d/1G6edvaxWTRTIybbtP6uC7CE-wDkWpIH4bNqQywFhSRs/edit#gid=0) and update the name to include your team name and product. _(If you cannot not access Google Sheets, please use the attached Excel file)._
+- **Step 2:** Follow the instructions on the spreadsheet, filling out all required information on the two tabs:
+    - **Instructions & Team Info**
+    - **Custom Events**
+- **Step 4:** Add the link to the copied spreadsheet here, or if using Excel, upload the spreadsheet to this ticket.
+    - Place Spreadsheet Here: [________]
+- **Step 5:**  Add your team label to this form track its progress.
+- **Step 6:** Submit this form.
 
 _Our team will follow up with you for next steps._
-> [!TIP]
-> Reference this example of a completed form.
 
  > [!NOTE]
 > If your team manages more than one product, please ensure to select each product on first tab of the spreadsheet. Additionally, please list custom-events for each of your products you want tracked.
