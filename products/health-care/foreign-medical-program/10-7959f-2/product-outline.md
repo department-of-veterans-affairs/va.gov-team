@@ -37,11 +37,6 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 ### Key Performance Indicators (KPIs)
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
 #### Baseline KPI Values
 - number of downloads
 - number of submissions
