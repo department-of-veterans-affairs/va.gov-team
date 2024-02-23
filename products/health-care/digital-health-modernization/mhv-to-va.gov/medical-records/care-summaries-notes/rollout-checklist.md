@@ -190,14 +190,14 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Unit test coverage is sufficient; *88.93% Statements, 76.8% Branches, 91.43%, 88.6% Lines*
 
-- [ ] Accessibility test coverage is sufficient
+- [X] Accessibility test coverage is sufficient (Yes - given we have tested each necessary story upon completion)
 
 
-- [ ] End-to-end test coverage is sufficient
+- [X] End-to-end test coverage is sufficient (Yes - given we have setep tests on each necessary story upon completion)
 
 - [X] Functional issues resolved
 
-- [ ] Engineering information documented and stored in GitHub;
+- [X] Engineering information documented and stored in GitHub;
 
      - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Architecture%20Diagram.png*
      - *https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/Medical%20Records%20Sequence%20Diagram.png*
