@@ -1,6 +1,6 @@
 # Project Outline - Ch33 Migration to CorpDB
 
-**Last updated 2/23/2024** -- Updating timeline
+**Last updated 2/23/2024** -- Updated timeline
 ## Table of Contents 
 
 ## Communications 
