@@ -2,7 +2,7 @@
 
 ## Document Purpose
 
-This document serves as an agreement among ARF engineers on our collaborative working practices. It will be updated regularly based on feedback from engineering or team retrospectives, as well as on an ad-hoc basis when necessary.
+This document serves as an agreement among ARF engineers on our collaborative working practices. It will be updated regularly based on feedback from engineering or team retrospectives and on an ad-hoc basis when necessary.
 
 ## Pull Requests
 
@@ -12,9 +12,9 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 
 ### Draft PRs
 
-- Open draft PRs as early as possible after a sensible commit is made.
+- Open draft PRs as early as possible after making a sensible commit.
 - Draft PRs are not subject to nitpicking.
-- It’s acceptable to discuss development direction while a PR is in draft state.
+- Discussing development direction while a PR is in draft state is acceptable.
 - Aim to keep code-related discussions within PRs.
 
 ### Open, Ready for Review PRs
@@ -29,7 +29,7 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 
 - PRs that you initiate are your responsibility until completion.
 - Only modify others' PRs if they explicitly request it or if they've passed ownership to you (e.g., during PTO). This should be an exception, not the norm.
-- It's okay to create PRs against others' work for significant changes.
+- Creating PRs against others' work for significant changes is okay.
 
 ### Commits
 
@@ -41,10 +41,10 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 
 ### Zenhub
 
-- Use an ARF Engineering ZenHub Template for creating every issue.
+- Use an ARF Engineering ZenHub Template to create every issue.
 - None of the sections in the templates are explicitly labeled as 'required' or 'optional.' Therefore, it is up to the person creating the issue to decide which sections to include.
 - If important sections are consistently omitted, we can consider adding 'required' labels in the next iteration of the templates.
-- To update a template edit the corresponding file:
+- To update a template, edit the corresponding file:
   - [Discovery Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-discovery-issue.md)
   - [Feature Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-feature-issue.md)
   - [Bug Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-bug-issue.md)
