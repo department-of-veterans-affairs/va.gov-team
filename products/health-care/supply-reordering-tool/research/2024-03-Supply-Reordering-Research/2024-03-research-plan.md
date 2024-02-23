@@ -47,7 +47,7 @@ We want to determine if the current digital ordering process is serving Veterans
 ### Hypothesis
 
 - Hypothesis 1: Participants will get through the tasks of ordering the supplies relatively easily.
-- Hypothesis 2: Participants will want to know how to change supplies. 
+- Hypothesis 2: Participants may not know how to change supplies once orders are submitted. 
 - Hypothesis 3: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
 - Hypothesis 4: Veterans probably find out about the reordering process from their VA provider.
 - Hypothesis 5: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order. 
