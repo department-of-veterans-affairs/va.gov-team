@@ -62,13 +62,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - In scope:
- - General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
- - Fillable fields with pre fill for signed in users
- - Digital signature with date stamp accepted by FMP team
- - PDF output of completed form with required meta data and unique identifier
- - Integration with PEGA for forms and documents
- - Authenticated (and unauthenticated) experience
- - End to end testing with PEGA and status returned by PEGA team
+  - General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
+  - Fillable fields with pre fill for signed in users
+  - Digital signature with date stamp accepted by FMP team
+  - PDF output of completed form with required meta data and unique identifier
+  - Integration with PEGA for forms and documents
+  - Authenticated (and unauthenticated) experience
+  - End to end testing with PEGA and status returned by PEGA team
 --- 
 
 ## Launch Strategy
