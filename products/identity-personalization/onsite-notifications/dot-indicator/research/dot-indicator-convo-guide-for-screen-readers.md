@@ -84,6 +84,14 @@ How would you go about finding the status of your claim on this page?
 
    -  When you hear "We need more information from you", what do you think that could include?
 
+_If relevant_: Thinking back on when you filed any claims in the past, with any evidence requests, was there anything that would’ve been helpful to know
+beforehand for providing evidence?
+
+Are there other things with the VA you'd like to be notified of (through things read to you like the notifications we just ran through, or other ways like texts or emails) that you aren't now, or things you are notified of but you don't think it's helpful enough?
+
+### General notifications asks
+
+Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
 
 ## Thanks and Closing - 2 minutes
 
