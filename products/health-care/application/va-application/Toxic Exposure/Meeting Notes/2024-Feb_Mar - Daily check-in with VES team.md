@@ -3,6 +3,16 @@
 - Launch date is March 5, 2024
 
 ---
+### Feb 23, 2024 | 1010/VES - Daily Check-in for PACT Act 103
+#### Notes
+- Status
+     - Automated testing Frontend
+          - Anticipate deployment this afternoon (3pm daily deploy)
+     - Backend testing happening now - Lihan & Ramya working together
+
+
+
+---
 ### Feb 22, 2024 | 1010/VES - Daily Check-in for PACT Act 103
 #### Notes
 - Once deployed to production, Will the enrollment system be able to accept a mix of submissions with the TERA fields and without the TERA fields?
@@ -11,7 +21,7 @@
      - Meena is checking on it this morning
 
 #### Action items
-- [ ] Meena & Team to confirm test submission - success or fail, any other details
+- [x] Meena & Team to confirm test submission - success or fail, any other details
 
 ---
 ### Feb 21, 2024 | 1010/VES - Daily Check-in for PACT Act 103
@@ -27,7 +37,8 @@
      - 1010 team will discuss priorities with HEC stakeholders and keep this audience informed of that update
 
 #### Action items
-- [ ] Heather & Ramya will share the respective test scenarios
+- [x] Heather & Ramya will share the respective test scenarios
+     - Shared on 2/23/2024 via SLACK 
 
 ---
 ### Feb 20, 2024 | 1010/VES - Daily Check-in for PACT Act 103
