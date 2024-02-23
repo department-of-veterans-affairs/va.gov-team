@@ -1,5 +1,9 @@
 # Transitioning Service Members: Research Review
 
+February 23, 2024
+
+Liz Lantz, Authenticated Experience
+
 ## Background
 We are conducting research to gather a baseline understanding of the transition process from active duty military to Veteran status, the impact VA.gov can have on the transition process, and how a distinct VA.gov onboarding experience might improve that process.
 
@@ -14,6 +18,13 @@ We reviewed previous research to achieve the following goals:
 3. Learn what other VA teams have done with regard to onboarding, if anything.
 
 ## Findings
+1. Transitioning from the service to becoming a Veteran is a process that largely takes place in the real world, not online. ([Link](#transitioning-from-the-service-to-becoming-a-veteran-is-a-process-that-largely-takes-place-in-the-real-world-not-online))
+2. There are a variety of reasons Veterans don’t engage with the VA when they separate from the military. ([Link](#there-are-a-variety-of-reasons-veterans-dont-engage-with-the-va-when-they-separate-from-the-military))
+3. Service members would find it helpful to receive structured and specific resources about VA and benefit eligibility, especially about benefits other than health care or disability ratings. ([Link](#service-members-would-find-it-helpful-to-receive-structured-and-specific-resources-about-va-and-benefit-eligibility-especially-about-benefits-other-than-health-care-or-disability-ratings))
+4. Previous research doesn’t explicitly point to the need for a digital onboarding UX. ([Link](#previous-research-doesnt-explicitly-point-to-the-need-for-a-digital-onboarding-ux))
+5. We identified things that would foster a sense of trust and make an onboarding experience useful, if we want to pursue it. ([Link](#we-identified-things-that-would-foster-a-sense-of-trust-and-make-an-onboarding-experience-useful-if-we-want-to-pursue-it))
+6. Other VA.gov teams, and the mobile team, haven’t done a lot with an onboarding UX yet. ([Link](#other-vagov-teams-and-the-mobile-team-havent-done-a-lot-with-an-onboarding-ux-yet))
+## Findings Details
 ### Transitioning from the service to becoming a Veteran is a process that largely takes place in the real world, not online.
 It is a major adjustment for service members to acclimate to civilian life; a significant factor in this is the **lack of structure and direction, and the departure from their military community and support system**. 
 
