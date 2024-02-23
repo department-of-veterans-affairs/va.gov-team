@@ -89,11 +89,13 @@ For this final part, I’d like for you to imagine you have recently filed for a
 
 - _Colorblind users_: Did you have any difficulty reading this alert, or seeing it in general?
 
-If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that
+If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that 
+_(if they have never filed a claim before, move on)_
 
-- Ask about what would be useful to learn ahead of time. 
+- Ask about what would be useful to learn ahead of time.
 
-_- If they have never filed a claim before, move on to Thanks and Closing_
+Are there other things with the VA you'd like to be notified of (through things like these dot indicators, emails, text messages, physical mail) that you aren't now, or things you are notified of but you don't think it's helpful enough?
+
 
 ## Thanks and Closing - 2 minutes
 
