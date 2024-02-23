@@ -30,6 +30,7 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | Status: Past                                               |          | ✅    |          |
 | Status: Canceled                                           |          |      | ✅        |
 | Type of Care                                               | ✅        | ✅    | ✅        |
+| Provider Name                                              | 1          |  1    |  1       |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
 | Link to Join                                               | ✅        |      |          |
@@ -40,6 +41,8 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
+Notes:
+1: 02/23/2024 - Requirement not yet met
 
 ### Technical notes
 

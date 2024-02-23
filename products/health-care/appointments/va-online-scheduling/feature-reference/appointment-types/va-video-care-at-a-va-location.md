@@ -25,6 +25,7 @@ A scheduled telehealth appointment at a VA facility that the Veteran attends at 
 | Status: Past                                               |          | ✅    |          |
 | Status: Canceled                                           |          |      | ✅        |
 | Type of Care                                               | ✅        | ✅    | ✅        |
+| Provider Name                                              | 1          |  1    |  1       |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
 | Facility Name                                              | ✅        | ✅    | ✅        |
@@ -35,7 +36,10 @@ A scheduled telehealth appointment at a VA facility that the Veteran attends at 
 | Provider Name                                              | ✅        | ✅    | ✅        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
-| Call to Reschedule Alert                                   | ✅        |      |
+| Call to Reschedule Alert                                   | ✅        |      |            |
+
+Notes:
+1: 02/23/2024 - Requirement not yet met
 
 ## Specifications
 
