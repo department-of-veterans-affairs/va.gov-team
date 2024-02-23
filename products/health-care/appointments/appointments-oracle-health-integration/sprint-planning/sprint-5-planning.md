@@ -1,4 +1,4 @@
-# VetsAPI Sprint 4 Planning 
+# VetsAPI Sprint 5 Planning 
 Sprint 5: 2/27/24 - 3/11/24
 
 ## 📅 Upcoming Dates 
