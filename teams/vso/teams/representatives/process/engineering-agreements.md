@@ -24,6 +24,7 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 - Link the related Zenhub issue in the PR.
 - Use the branch format: `issue-number-arf-feature`.
 - Complete relevant sections of the default PR template.
+- Labels: use the `benefits-accredited-rep-facing` for all PRs.
 
 #### Ownership
 
