@@ -6,7 +6,8 @@ Date: 02/21/2024
 
 Cara Frissell [cara.frissell@adhocteam.usl]
 
-[Research readout](link here)
+[Research readout]([2.21 Travel Pay Status Visibility Findings.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14390594/2.21.Travel.Pay.Status.Visibility.Findings.pdf)
+)
 
 
 ## OCTO Priorities 
