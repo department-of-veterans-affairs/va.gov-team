@@ -15,7 +15,7 @@ For this first iteration, the focus will be on:
   * Response Time
 * Incident Response
 
-* 
+
 ## Out of Scope: (for this iteration)
 
 
