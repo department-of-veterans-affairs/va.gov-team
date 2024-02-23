@@ -64,11 +64,13 @@ Okay great, I can see your screen. For this exercise, I'm going to ask for you t
 
 - What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
 
-#### Move on to badge indicator
+### Move on to badge indicator
 
 Ok, we have one more weblink to share with you. [Share link, provide assistance as needed](https://bit.ly/4bL5YxH)
 
 - What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
+
+### Move on to slim alert banner
 
 For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. [Share link](https://bit.ly/3wnLdIq).
 
