@@ -96,6 +96,9 @@ _(if they have never filed a claim before, move on)_
 
 Are there other things with the VA you'd like to be notified of (through things like these dot indicators, emails, text messages, physical mail) that you aren't now, or things you are notified of but you don't think it's helpful enough?
 
+### General notifications asks
+
+Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
 
 ## Thanks and Closing - 2 minutes
 
