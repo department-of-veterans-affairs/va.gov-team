@@ -36,6 +36,6 @@ General info, notes and miscellaneous
 - 2/7/24 - Our recommendation for the longer term approach is for VBMS and VIS to communicate with each other (and to eliminate need for 10-7959f-1 FMP registration form altogether). For now we will focus on digitizing the form.
 
 ### Miscellaneous
-- New list and loop pattern being worked on by VFF team but not ready to use
-- Houseless/no address not really any existing pattern for this currently
+- New list and loop pattern being worked on by VFF team but not ready to use ('classic' will be used in usability testing as well as staging review and production). 
+- Houseless/no address not really any existing pattern for this currently (may revisit this at a later point in time, but not part of initial effort for launch).
   
