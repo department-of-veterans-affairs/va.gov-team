@@ -13,9 +13,6 @@ For this first iteration, the focus will be on:
 * Authentication Logging & Monitoring
   * Availibility
   * Response Time
-  * Error Rate
-  * Scalability
-* Login Security
 * Incident Response
 
 * 
