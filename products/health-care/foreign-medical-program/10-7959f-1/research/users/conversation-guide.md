@@ -128,16 +128,27 @@ This information will be provided to individuals who run into a scenario where t
 **Placeholder 1**
 
 Name: Jon Snow 
+
 DOB: 2/16/46 
+
 SSN: 123-45-7890 
+
 Addresses: 
+
 1 Poplar Lane, New York, NY 10001
+
 10 Downing St, London SW1A 2AB, London, UK 
+
 
 **Placeholder 2**
 Name: Sherlock Holmes
+
 DOB: 8/12/57 
+
 SSN: 908-76-4321
-Addresses: 
+
+Addresses:
+
 1600 Pennsylvania Avenue, Washington, DC 20500
+
 1 William Street, Sydney NSW 2010, Australia
