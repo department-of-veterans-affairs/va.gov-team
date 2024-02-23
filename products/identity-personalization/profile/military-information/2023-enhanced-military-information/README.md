@@ -1,7 +1,5 @@
 # Initiative outline: Enhanced Military Information
 
-`DRAFT`
-
 **Last Updated: 2/1/24** Added specifics of the original request
 
 
