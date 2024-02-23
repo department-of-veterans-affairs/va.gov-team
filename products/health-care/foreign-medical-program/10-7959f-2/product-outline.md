@@ -23,12 +23,14 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Volume of paperwork being processed is reduced
+- Veterans' information is processed in a timely manner
+- Amount of resubmissions due to missing information or documents is reduced
 
 ## Undesired Business Outcomes
-
-
+- Errors during online submission process
+- Increased delays during processing
+  
 ---
 ## Measuring Success
 
