@@ -60,7 +60,7 @@ Okay great, I can see your screen.
 
 - Is there anywhere on this view of the website that we're looking at now where you expect to see a *red* dot notification like this but you don't?
 
-###Move onto badge indicator
+### Move onto badge indicator
 
 Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly/3IeFwyU) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
 
