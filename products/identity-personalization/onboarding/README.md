@@ -25,9 +25,8 @@
 ## Overview
 The VA.gov authenticated experience thus far has been primarily focused on the user journey for existing Veterans or other VA beneficiaries - i.e. Veterans or beneficiaries who are already active in and relatively familiar with VA.gov by way of claim submission, applying for health care and engaging with other VA-sponsored benefits. We will be performing research and discovery to gather a baseline understanding of the transition process from active duty military to Veteran status, the impact VA.gov can have on the transition process, how a distinct onboarding experience could improve the transition process what that might look like on VA.gov. 
 
-This is in alignment with two key OCTO objectives for 2024:
-- Our digital experiences are the best way to access VA health care and benefits.
-- Our platforms are the best way to deliver products.
+This is in alignment with OCTO objective 1 for 2024: Our digital experiences are the best way to access VA health care and benefits.
+
 
 ## Problems
 We do not have a defined onboarding experience on VA.gov. We hypothesize that a lack of digital onboarding guidance for newly transitioning Veterans presents challenges in efficiently and effectively getting Veterans the relevant services and resources they need, leading to potential frustrations, delays, and missed opportunities for support and access to eligible benefits. 
