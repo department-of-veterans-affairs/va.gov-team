@@ -1,102 +1,88 @@
-# Conversation Guide : Supply Reordering, March 2024
+# Conversation Guide: Supply Reordering, March 2024
 
 ## Moderator logistics
 
-### Logistics to Confirm Periodically
-- [ ] Check Settings -> Meeting -> In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
-- [ ] Check Settings -> Meeting -> In Meeting (Basic) > Sound notification when someone joins or leaves is OFF
-- [ ] Check Settings -> Meeting -> In Meeting (Basic) > Screen sharing > Who can share > All Participants
-- [ ] Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictures in a meeting ON
+**2-3 days before the session** :
 
-### 2-3 days before the session
+- Review participant list for participant name and screener question responses
+- Check Settings \> In Meeting (Advanced) \> Automated captions, Full transcript, Save captions are all ON
+- Review VA Platform's Research Checklist.
 
-- [ ] Confirm notetaker and assistive tech support availability
-- [ ] Let notetaker know if anything has changed in the conversation guide
+**10-15 min before session** :
 
-### Day of the session
+- _Post p# and "observer instructions" in_ [_#feedback-backchannel_](https://dsva.slack.com/messages/C40B45NJK/details/)
+- _@mention team members_
+- _Share brief summary of participant demographic info_
 
-- [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
-- [ ] Mute your Slack notifications.
-- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- [ ] Send out the link to the observer Mural board (link) to observers in the thread
-- [ ] Sign into Zoom website via Google as Perigean w/ credentials provided and start Zoom meeting 5-10 minutes before
+**5-10 min before session:** _Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting_
 
-## Intro - 5- minutes 
+- _Check Settings \> Meeting \> In Meeting (Basic) \> Sound notification when someone joins or leaves OFF_
+- _Check Settings \> Meeting \> In Meeting (Basic) \> Screen sharing \> Who can share \> All Participants_
+- _Check Settings \> Meeting \> In Meeting (Basic) \> Hide participant profile pictures in a meeting ON_
+- _Paste link into Slack so ready to paste into Zoom chat_
+- _Do Not Disturb ON so no notifications_
+- _Make sure everyone is muted except me and the participant_
 
-Thanks for joining us today! My name is [   ] and [NOTETAKER NAME] is on the call who will be taking notes. 
+_When the participant is ready, turn on your camera and begin session with the intro_
 
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
+_If not too distracting, CHECK SLACK for real-time feedback and questions from observers_
 
-Are you okay with a couple of additional observers during this session? 
+## **Intro - 5 minutes**
 
-If no: Use Slack to kindly ask the observers to leave the Zoom. 
+Thanks for joining us today! May I call you [first name]?
 
-If yes: Admit observers. 
+My name is [name]. I'm a usability researcher, and I work as part of a team that is improving the VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure we meet their needs.
 
-Then, ask the notetaker and observers to give a brief, camera-on, introduction, like first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant) 
+Before we start, I want to give you an idea of what this session will be like:
 
-Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth 
+- **This entire session should take about 60 minutes.**  I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.**  We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **If, for any reason and at any time, you want to stop the session, please let me know.**
+- We will, for the most part today, be talking through some of your experiences with medical supplies. At some point, I will have you complete a task on VA.gov with a test account, which I will walk you through how.  Please keep in mind that the testing website is only a demo tool, it may look familiar but would not act like you expect it to. I will guide you on the part that's functional.
 
-Today we're going to take a look at (explore) the VA.gov website and ask you some questions. We’re interested in learning from you what it’s like to navigate and find information on the website. 
+Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will take notes to ensure we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
 
-For screenreader or mobile sessions: Before we start, I want to confirm a few pieces of information that were shared with me when you signed up for the study: 
+_[If yes:]_ Thank you. When they are connected, I will ask them to make a quick introduction.
 
-For screenreader sessions: I understand you use screenreader software to navigate the internet, and that you typically use SOFTWARE NAME. Are you able to use that during our session today? 
+_[If no:] I_ appreciate you letting me know. Please give me a quick moment to let them know.
 
-That sounds good, thank you. 
+_[If yes:] Thank_ you! We very much appreciate you talking with us today.
 
-For mobile sessions: I understand you use your smartphone primarily to access VA.gov. Can you confirm that you are on your phone now? 
+_[When observers are connected to audio, ask them to introduce themselves]_
 
- 
+- Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- _[If yes: ]_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-Thank you for confirming these things! Now, I have a few things about today I want to go over with you before we get started. 
+_[Start recording.]_
 
-This entire session should take about 45-60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. 
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+### **Participant Coaching**
 
-Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know. 
+Today we are just trying to hear and learn from you about your experience using the medical supplies ordering tool on VA.gov website. I will be asking you some questions and at some point, I will have you complete a task. Part of understanding how we can best improve this website is to understand what's working for our Veterans and what's not. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Your feedback today will help us make sure that we meet your needs and expectations on the website. Does that make sense?
 
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+Are you ready to dive in?
 
-If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
+## **Warm-up Questions - 10 minutes**
 
-Start recording. 
+Let's get started. According to my notes, you have been prescribed medical supplies in the past few years. 
 
-I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
-
-I’m also going to make sure transcriptions are turned on to improve our notes. 
-
-Turn on transcription. 
-
-## Warm-up Questions (Optional) - 10 minutes 
-
-Let's get started. According to my notes, you have ordered medical supplies in the past few years 
-
-Can you tell me a bit about what supply you use and your last experience reordering supplies? 
-
-How was that experience?  
-
-How did you found out about how to reorder supplies? 
-
-What notifications do you receive about reordering?  
-
-How do you know when to place an order?  
-
-If you have used the tool before, how often? What has the experience been like for you?  
+- Can you tell me a bit about what supply you use and your last experience reordering supplies?
+- How was that experience?
+- How did you find out about how to reorder supplies?
+- What notifications do you receive about reordering?
+- How do you know when to place an order?
+- _If they have ordered on VA.gov before_ Ask how and what was the experience like for them.
+- _If they have ordered on physical forms only_ Ask if they are aware of the digital form on VA.gov.
 
 Great, that’ll be helpful to know as we move forward. 
 
 Thank you for sharing all that with me! 
 
-We have a specific tool here at VA for ordering supplies, and we want to see how you would navigate getting through an order. 
 
-Let’s start screen sharing so you can show me how you’d do that. Are you familiar with how to share your screen with Zoom? 
+**Let’s start screen sharing so you can show me how you’d do that. Are you familiar with how to share your screen with Zoom?** 
 
-Screen sharing instructions 
-
-Instructions for folks NOT using screenreaders: 
+Screen sharing instructions:
 
 In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
 
@@ -106,27 +92,16 @@ If you don't tap the screen for a while, all the buttons at the bottom will hide
 
 Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser. 
 
- 
-
-Instructions for folks using screenreaders on a desktop: 
-
-Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
-
-Tab over and confirm that what is selected is "entire screen." 
-
-Tab once more - make sure "share sound" is checked. 
-
-Tab 4 times over to "share screen" - click activate. 
-
 Great, now I can see your screen! 
 
 Thank you for your patience in figuring this out. Now let's go to that website. I can post the URL in the chat or just say it to you. Which of you prefer? 
 
 _Send them or say: https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/ 
 
-This is a test version of VA.gov. It looks like the real website and we have turned some special features on for our session. Nothing we do here will impact your actually information and you will see it has test data (like a made up name) in certain parts of the site. 
+This is a test version of VA.gov. It looks like the real website and we have turned some special features on for our session. Nothing we do here will impact your information and you will see it has test data (like a made-up name) in certain parts of the site. 
 
-## Task 1 : Can you walk me through how you would order a hearing aid supply to your permanent home address? - 20 minutes 
+
+## Task 1 : Can you walk me through how you would order a hearing aid supply? - 20 minutes 
 
 #### _Now at Order content landing page_
 
@@ -138,19 +113,12 @@ If you signed in, do you think anything different would be available?
 
 If participant mentions or attempts to sign in, send credentials 
 
- 
 
 Please think out loud and let me know what your thoughts are about the page, the information here, and how everything is organized. 
 
-Is this information useful to you? 
-
-Where would you go next if you want to Order supplies online? 
-
- 
+Where would you go next? 
 
 Participant clicks quicklink 
-
-Are you expecting to order hearing aid supplies or CPAP supplies? 
 
 Now that we are at this page, can you show me what you would do next to make a supply order? 
 
@@ -162,9 +130,7 @@ You have now arrived at the first step of the order form. Please think out loud 
 
 Anything confusing?  
 
-Would you add, remove or change anything on this page?  
-
-Is the information listed here useful for you to see? 
+Would you add, remove, or change anything on this page?  
 
 Any additional questions on this page? 
 
@@ -172,15 +138,14 @@ Any additional questions on this page?
 
 What do you think about this page? Can you please show us how you would complete this step of the form? 
 
-Before you hit continue, are the different types of addresses on this page clear?  
+Before you hit continue, how would you describe the difference between a permanent address and a temporary address? When would you sue one over the other?  
 
 #### _Step 1 Page (cont). : Veteran Information_ 
 
-Is it clear what to do on this page? 
+Observe if there's any confusion for this page and what they need to do. Ask if they seem stuck or quiet. 
 
 Let’s see if you’re at a different location from your home, how would you add your current location and make sure the supplies ship to your current location?  
 
-What does temporary address mean to you?  
 
 #### _Step 2 : Select your supplies_
 
@@ -204,21 +169,21 @@ Can you show us how you would submit your order?
 
 At this point, you realized that you forgot to add X supply to this order, how would you go about adding that to this order?  
 
-For ½ the participants : Let’s say that at this point in your order, you realize that you need to ask a question to your VA provider before placing the order, and you need to save this order and come back later to submit. Could you show me how you would save this order, then resubmit it?  
+Let’s say that at this point in your order, you realize that you need to ask a question to your VA provider before placing the order, and you need to save this order and come back later to submit. Could you show me how you would save this order, then resubmit it?  
 
 #### _Step 4: Confirmation screen_
 
-So at this point in the order you would see a confirmation screen. Here is what that looks like : (share screen of screenshot and/or prototype screen) 
+So at this point in the order, you would see a confirmation screen. Here is what that looks like : (share screen of screenshot and/or prototype screen) 
 
 Can you share any reactions and thoughts you have for this? 
 
 Is there anything confusing or if you have any questions on this page?  
 
-Can you tell me what you ordered here? 
+Can you tell me what you ordered here? Would you like to add anything to this page?
 
 # _Overall_
 
-How would you rate this reordering overall experience from 1 to 5, 5 being the best? 
+How would you rate this reordering overall experience from 1 to 5, 5 being the easiest? 
 
 If you could change one thing about this supply reordering experience, what would it be? 
 
@@ -226,7 +191,7 @@ If you could change one thing about this supply reordering experience, what woul
 
 ## Closing - 10 minutes 
 
-Thank you for doing that task, we definitely gained some insight into how Veterans may go through this form. As we wind down, I hope you don't mind if we ask a couple more questions about supply ordering. 
+Thank you for doing that task, we gained some insight into how Veterans may go through this form. As we wind down, I hope you don't mind if we ask a couple more questions about supply ordering. 
 
 How would you go about changing your supply type or brand? 
 
