@@ -70,3 +70,12 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 - [Veteran Preferred Facilities Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/research-findings.md#participant-expectations-and-preferences-when-choosing-care-at-a-va-facility)
 
 </details>
+
+<details>
+         
+<summary>slack channels and thread</summary>
+
+- [appointments-oracle-health-integration](https://dsva.slack.com/archives/C062LRFAX7S)
+
+</details>
+
