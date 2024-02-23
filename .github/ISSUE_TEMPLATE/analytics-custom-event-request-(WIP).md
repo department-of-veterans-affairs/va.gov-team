@@ -5,7 +5,7 @@ title: "VFS Custom Events for [Team Name] & [Product(s)]"
 labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
 assignees: johnny-jesensky-adhoc
 ---
-# VFS Custom Event Form
+# VFS Custom Event Audit Form
 
 ### What this form is for.
 In prepration for the migration to GA4, we need information on _all_ custom events used by your products so we can continue to track them.
@@ -18,11 +18,12 @@ Please reach out to the **#_vfs-analytics_** Slack channel if there are any ques
 ---
 
 ### Instructions:
-- **Step 1:** Download [this Excel file](https://github.com/department-of-veterans-affairs/va.gov-team/files/14388789/TEMPLATE.-.Custom.GA.Events.-.TEAM.NAME.HERE.xlsx).
+- **Step 1:** Download [this Excel file](https://github.com/department-of-veterans-affairs/va.gov-team/files/14388789/TEMPLATE.-.Custom.GA.Events.-.TEAM.NAME.HERE.xlsx). _(If you are unable to access Excel, please use [this Google Sheet](https://docs.google.com/spreadsheets/d/1G6edvaxWTRTIybbtP6uC7CE-wDkWpIH4bNqQywFhSRs/edit#gid=0))._
 - **Step 2:** Follow the instructions on the spreadsheet, filling out all required information on the two tabs:
     - Instructions & Team Info
     - Custom Events
 - **Step 3:** Once completed, attach the Excel file to this ticket.
+- _(If using the Google Sheet, you can link that here:_ _____).
 - **Step 4:** Include your team and product names within the **Title** of this form.
 - **Step 5:** Submit this form.
 
