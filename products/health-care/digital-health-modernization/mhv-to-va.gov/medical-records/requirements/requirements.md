@@ -357,40 +357,85 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Care summaries and notes
 
-> [!NOTE]
-> To be completed by Kaitlin Fink
-
 <details>
 <summary>List view requirements</summary>
   
 ---
 #### IA
+URL: `/my-health/medical-records/summaries-and-notes`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 
 #### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=pYhfj6&nav=eyJoIjoiMTgwNjM2MTY5MiJ9).
+
+* H1 for this page should be `Care summaries and notes`
+* Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold
+* For each progress note and consultation note in list, include the following information
+  * Note name
+  * Date entered into the record
+  * Location name
+  * Signed by
+* For each admission and discharge summaries in list, include the following information
+  * Note name
+  * Admitted on date
+  * Location name
+  * Discharged by
 
 #### Functionality
 ---
+* List should be paginated, with 10 notes per page in reverse chronological order
+* For each note, a user should be able to click on the first line of the card (note name) to view complete note
+ ---
+
 </details>
 
 <details>
 <summary>Details view requirements</summary>
- 
 ---
 #### IA
+URL: `/my-health/medical-records/summaries-and-notes/note_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to Care summaries and notes`
 
 #### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=OKyEnB&nav=eyJoIjoiNDIzNzY4MTE0In0%3D).
+* Progress and consult notes 
+ * H1 for this page should be note name
+ * Below should include entered on date 
+ * H2 should be details including the following
+   * Location
+   * Signed by
+   * Cosigned by
+   * Date signed
+ * H2 for note with unstrutured note data below
+* Admission and discharge summaries notes
+ * H1 for this page should be note name
+ * Below should include admission date and details about the summary of this page
+ * H2 should be details including the following
+   * Location
+   * Discharged date 
+   * Discharged by
+ * H2 for summary with unstrutured note data below
 
 #### Functionality
+* Ability to download currently in view details of note as a PDF or TXT
+* Ability to print the currently in view details of note
 ---
 </details>
 
 <details>
 <summary>Design decisions</summary>
 </br>
-  
+
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------|
-| | |
+|We will call this section of the record care summaries and notes. |This section has been referred to as problem list in the past, but framing as problems is thought to be negative and also not incredibly plain language, as many things could be considered problems, but not all of them are actually health issues that would be logged|
+|We will only show health conditions that have a status of Active. | Health conditions have not always been logged by providers in a consistent manner. Some providers have used health conditions to keep track of possible issues a patient is facing, but are not confirmed. These have been deemed inactive. Seeing these in the list as inactive gives the impression that a patient may have once had this issue when they never did - it was just suspected. Therefore, including inactive could be confusing. Therefore, just like MHV classic, we will only ever show active conditions.|
+|In the list view, each card will show enough information about a health condition to consider that entry unique. We believe name and date entered suffices. | Health conditions may not be deduplicated across VistA sites. Therefore, just name may not be unique.|
+|The following fields will not be shown to users: Clinical status, Date and time condition started, ICD type + code, Verification Status, Date and time condition abated | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
+|The following fields will not be shown to users at first, but may be if verified: Verification Status| SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
+
 </details>
 
 * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
