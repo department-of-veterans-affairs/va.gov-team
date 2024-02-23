@@ -28,4 +28,10 @@ Reference epic/feature above for key decisions
 
 </details>
  
+### CES Metting notes
+<details>
+<summary>February 22, 2024</summary>
 
+In regards to our CES call today about Community Care appointments in Oracle Health, per Anthony Pilozzi, they are sending appointments recorded ini HSRM back to Cerner (aka Oracle Health). If we can distinguish Community Care appointments from VA appointments in Oracle Health we could just filter out those appointments so they aren't displayed to the Veteran.bility 
+
+</details>
