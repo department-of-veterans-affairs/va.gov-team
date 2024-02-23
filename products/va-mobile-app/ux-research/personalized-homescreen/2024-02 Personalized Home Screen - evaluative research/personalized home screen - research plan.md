@@ -37,12 +37,10 @@ Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc
 
 **Secondary:**
 * **Evaluate the usability of the personalized home screen and category screens** using high-level tasks that the participants will be asked to complete and **determine if any significant usability barriers (including app performance) exist** for participants who use the app with assistive technology vs without assistive technology. 
-  * Tasks represent a combination of Health and Benefits features, as well as several features available to all users. They will be chosen based on the entry points that appear on the user’s personalized home screen (if no entry points appear, we will ask what they expect to be in that section). This could potentially include:
-
+  * Tasks explore features that appear within the Activities section, About you, and VA resources. This includes:
     * How they’d expect to check the status of a disability claim
-    * How they’d expect to complete an outstanding health task (refill a prescription, read a new message, check the details of an upcoming appointment)
     * Find a VA location
-    * Veteran status card
+    * Show proof of Veteran status
 	
 **Outside the scope of this study:**
 We will not be evaluating the personalized home screen’s impact on task completion (that will be handled using analytics), the impact on the value of the app to users over time, the usability of features that are surfaced on the home screen, or the personalized home screen’s impact on 
