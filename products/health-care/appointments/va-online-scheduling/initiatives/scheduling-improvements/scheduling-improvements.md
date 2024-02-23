@@ -17,7 +17,7 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 Reference epic/feature above for key decisions
          
 ### Feasibility meeting notes  
-- [Agenda: Appointments: Collaborative Feasibility Exploration Session](https://docs.google.com/document/d/1i2dFmGFazNDUBeynta1IvIBbYSAjscYUNfVTvH-tcXg/edit?usp=sharing) 
+[Agenda: Scheduling Feasibility](https://docs.google.com/document/d/1i2dFmGFazNDUBeynta1IvIBbYSAjscYUNfVTvH-tcXg/edit?usp=sharing) 
 <details>
 <summary>February 15, 2024</summary>
 
