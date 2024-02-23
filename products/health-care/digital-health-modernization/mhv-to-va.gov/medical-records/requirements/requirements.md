@@ -393,7 +393,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 <details>
 <summary>Details view requirements</summary>
----
+
 #### IA
 URL: `/my-health/medical-records/summaries-and-notes/note_id`  
 Breadcrumb: No  
