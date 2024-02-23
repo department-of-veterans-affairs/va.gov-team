@@ -1,4 +1,4 @@
-# MHV Secondary Navigation Comparison Study
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/e8f629ca-b87d-4ba7-8bd3-8f6427bac1c1)# MHV Secondary Navigation Comparison Study
 
 **Office of the CTO - Digital Experience (OCTO-DE), My HealtheVet on VA.gov, Cartography Team**
 
@@ -203,7 +203,11 @@ We asked Perigean to create 4 groups of 4 participants each (16 total) with the 
 Audience segment:
 * Veterans: 16 
 * Caregivers: 0 
-* Family members of a Veteran: 0 
+* Family members of a Veteran: 0
+
+MHV Users (Requested 2 MHV users per group and 2 not MHV users but could be based on screener questions)
+* 8 MHV users (split evenly among groups)
+* 8 non-users (split evenly among groups)
 
 Gender (split as evenly as possible among 4 groups):
 * Male: 9 
@@ -231,6 +235,10 @@ Race:
 * White: 11
 * Black: 4
 * Hispanic: 1
+
+Cognitive disability (Requested at least 1 per group):
+* Yes: 5
+* No: 11 
 
 Disability and Assistive Technology (AT) (Requested 1 screenreader user and 1 pinch-magnifier per group but another AT study wass running at the same time so expected to not meet that request):
 * Cognitive: 5 (Requested at least 1 participant/group; this was met and 1 group had 2 participants with a cognitive disability)
