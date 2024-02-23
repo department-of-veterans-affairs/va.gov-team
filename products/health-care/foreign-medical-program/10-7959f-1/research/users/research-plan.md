@@ -57,7 +57,7 @@ Research will take place over Zoom.
 
 For moderated usability tests:
 
-* [Link to conversation guide](url goes here)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/conversation-guide.md)
 * [Link to prototype](url goes here)
 
 ### Recruitment approach
