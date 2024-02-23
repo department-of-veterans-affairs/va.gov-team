@@ -135,6 +135,8 @@ The day and time of the appointment. May be in the future or the past. The time 
 
 #### Provider Name
 
+VAOS Display Requirements:
+- Frontend recieves the HSRM "Service Requested" data in the `practitioners:` field for communicaty care. 
 
 #### Treatment Specialty
 
