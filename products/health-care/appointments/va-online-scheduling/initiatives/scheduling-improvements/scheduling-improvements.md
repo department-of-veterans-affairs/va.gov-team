@@ -17,7 +17,7 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 Reference epic/feature above for key decisions
          
 ### Feasibility meeting notes  
-
+- [Agenda: Appointments: Collaborative Feasibility Exploration Session](https://docs.google.com/document/d/1i2dFmGFazNDUBeynta1IvIBbYSAjscYUNfVTvH-tcXg/edit?usp=sharing) 
 <details>
 <summary>February 15, 2024</summary>
 
@@ -43,7 +43,7 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 
 - [Scheduling problem statements](https://docs.google.com/presentation/d/1YtBj0Vs2ne3eH-nz9wRyfEZ0tQ1ns99j3cQSn4xl8Ss/edit?usp=sharing)
 - [Plan: Enable VA.gov appointment management for Veterans at Oracle Health facilities](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)
-- [Agenda: Appointments: Collaborative Feasibility Exploration Session](https://docs.google.com/document/d/1i2dFmGFazNDUBeynta1IvIBbYSAjscYUNfVTvH-tcXg/edit?usp=sharing)  
+ 
 
 </details>
 
