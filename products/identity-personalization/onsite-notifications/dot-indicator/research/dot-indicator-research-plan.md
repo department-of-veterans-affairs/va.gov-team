@@ -30,7 +30,7 @@ Since Veterans can apply for and manage their benefits any time after getting ou
  - How do screen reader users experience dot and badge indicators as notifications on other websites? What's an ideal experience and what's not ideal?
  - Does colorblindness prevent users from being able to see and interpret a red dot or badge indicator? What colors are most accessible for them to interpret notifications on other websites and apps?
 
-<b> 3. Gain understanding of how slim alert banners embedded in claims cards are interpreted by users in order to assess how we might use/improve them for My VA
+<b> 3. Gain understanding of how slim alert banners embedded in claims cards are interpreted by users in order to assess how we might use/improve them for My VA </b>
 - We should seek out **users who have a history of using healthcare benefits as well as filing claims**
 
 ### Outcome
