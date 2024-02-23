@@ -33,7 +33,7 @@ Before we start, a few things I want to mention:
 *Start recording.*
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-
+- **If participant is listed as colorblind - My understanding is that you are colorblind, is that correct? What kind of colorblindness you have?**
 ## Research goal: Determine the effectiveness of dot, badge, and slim alert indicators to draw attention to important updates and when it's appropriate to use each kind of indicator - Approx. 20 minutes
 
 Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/49Bvi7O), and then for you to share your screen with me. Let me know if you need any help doing that.
@@ -71,8 +71,6 @@ What do you think the badge with the number in it means?
 What would you expect to see if you clicked "Refill and track your prescriptions" when it has this numbered badge next to it?
 
 How do you think badge with the number in it would disappear?
-
-**Move on to slim alert banner for claim cards**
 
 ### __Move on to slim alert__
 
