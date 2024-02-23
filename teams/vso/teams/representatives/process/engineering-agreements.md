@@ -24,7 +24,7 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 - Link the related Zenhub issue in the PR.
 - Use the branch format: `issue-number-arf-feature`.
 - Complete relevant sections of the default PR template.
-- Labels: As part of the OCTO Code Yellow plan for the Benefits team, use the `benefits-accredited-rep-facing` label for all PRs (reason [source](https://dsva.slack.com/archives/C06ABHUNBRS/p1705959799005869?thread_ts=1705940696.805789&cid=C06ABHUNBRS)).
+- Labels: As part of the OCTO Code Yellow plan for the Benefits team, use the `benefits-accredited-rep-facing` label for all PRs ([source](https://dsva.slack.com/archives/C06ABHUNBRS/p1705959799005869?thread_ts=1705940696.805789&cid=C06ABHUNBRS)).
 
 #### Ownership
 
