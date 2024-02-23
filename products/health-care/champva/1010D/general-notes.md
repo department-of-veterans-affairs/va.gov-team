@@ -37,5 +37,5 @@ General info, notes and miscellaneous
 
 ### Miscellaneous
 - New list and loop pattern being worked on by VFF team but not ready to use ('classic' will be used in usability testing as well as staging review and production). 
-- Houseless/no address not really any existing pattern for this currently (may revisit this at a later point in time, but not part of initial effort for launch).
+- Houseless/no address not really an existing pattern for this currently (may revisit this at a later point in time, but not part of initial effort for launch).
   
