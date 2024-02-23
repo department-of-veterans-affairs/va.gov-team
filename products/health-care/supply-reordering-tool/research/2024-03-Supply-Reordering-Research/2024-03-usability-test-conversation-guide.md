@@ -173,7 +173,7 @@ Let’s say that at this point in your order, you realize that you need to ask a
 
 #### _Step 4: Confirmation screen_
 
-So at this point in the order, you would see a confirmation screen. Here is what that looks like : (share screen of screenshot and/or prototype screen) 
+So at this point in the order, you would see a confirmation screen. Here is what that looks like : ([share screen of screenshot and/or prototype screen](https://www.figma.com/proto/WKX0HaQ74uZjO43g0lI2Pl/Mock-ups?page-id=64%3A8063&type=design&node-id=64-8064&viewport=529%2C263%2C0.26&t=91vqyZ5LF5jezA13-1&scaling=min-zoom&mode=design)) 
 
 Can you share any reactions and thoughts you have for this? 
 
