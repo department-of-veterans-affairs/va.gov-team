@@ -10,6 +10,7 @@
 |1/4/24 | Coulton Bunney | Added key research and data documents|
 |1/9/24 | Coulton Bunney | Added conditions information, Added lab results information|
 |1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
+|2/23/24 | Kaitlin Fink | Added care summaries and notes|
 
 
 
@@ -430,11 +431,9 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------|
-|We will call this section of the record care summaries and notes. |This section has been referred to as problem list in the past, but framing as problems is thought to be negative and also not incredibly plain language, as many things could be considered problems, but not all of them are actually health issues that would be logged|
-|We will only show health conditions that have a status of Active. | Health conditions have not always been logged by providers in a consistent manner. Some providers have used health conditions to keep track of possible issues a patient is facing, but are not confirmed. These have been deemed inactive. Seeing these in the list as inactive gives the impression that a patient may have once had this issue when they never did - it was just suspected. Therefore, including inactive could be confusing. Therefore, just like MHV classic, we will only ever show active conditions.|
-|In the list view, each card will show enough information about a health condition to consider that entry unique. We believe name and date entered suffices. | Health conditions may not be deduplicated across VistA sites. Therefore, just name may not be unique.|
-|The following fields will not be shown to users: Clinical status, Date and time condition started, ICD type + code, Verification Status, Date and time condition abated | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
-|The following fields will not be shown to users at first, but may be if verified: Verification Status| SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
+|We will call this section of the record care summaries and notes. |This section has been referred to as XXX.  This section will include progress notes, admission and discharge summaries and consultation notes.|
+|Notes can have multiple addenda. Addenda will be presented as part of the original note to which they were added.|We discussed addendums with the SMEs and agreed that they should be treated as they are today in MHV.  When a provider writes an addendum today they are related to the context of the note. The unstructured text of the original progress note includes an alert at the top that says, “This note has addenda” and then the addendum is added to the note.|
+|The following fields will not be shown to users at first, but may be if verified: Status| SMEs gave input that this field may be helpful, if this includes additional values besides completed. But if completed is the only status then it will not be valuable.|
 
 </details>
 
