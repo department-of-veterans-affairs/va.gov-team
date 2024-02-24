@@ -181,9 +181,9 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 ### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
 
-**A third of the participants (6 of 19 participants: 5 desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 3 *stopped at the white USA logo*. 
+**A third of the participants (6 of 19 participants: 5 desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 3 *stopped at the white USA logo*. One participant said that the blue footer is a good place to look for quick information, and so they started here instead of with the header for each task.
 
-**Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking.
+**Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking. One participant commented that the black footer looks like a typical footer.
 
 **Four participants (2 desktop, 2 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. The fourth participant opened all the mobile footer accordions before trying the header. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
 
@@ -268,7 +268,7 @@ After each research session, the moderator reviewed all of the participant's com
 
 Not a single participant said anything about the website missing the "VA" logo. **Everyone figured out that it was VA-related from the VA seal** and the text "U.S. Department of Veterans Affairs".
 
-The sentiment from participants on the VA seal was mostly positive (88%) and neutral (13%), without any negative sentiment at all.
+The sentiment from participants on the VA seal was mostly positive (88%) and neutral (13%), without any negative sentiment at all. Most participants recognized the VA seal right away from the colored image or the alt text.
 
 
 ## Additional Insights
