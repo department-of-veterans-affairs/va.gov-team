@@ -62,8 +62,11 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 <details>
          
 <summary>Related Research</summary>
-- [Selecting a facility question roundup](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2022-12-provider-based-multi-modality-scheduling-discovery/discovery-round-1-internal.md)
+
+- [Selecting a facility: question roundup](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2022-12-provider-based-multi-modality-scheduling-discovery/discovery-round-1-internal.md)
+
 - [CC flow usability test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md#findings-and-recommendations) < First finding is a must-read
+  
 - [Interviews with CC scheduling Managers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-community-care/research-findings.md)
 - [In person staff facing research](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2023-09-provider-based-scheduling-research/report.md)
 
