@@ -283,7 +283,19 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identities, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (AT p7).*
- ### B. Contacting VA
+ 
+ ### B. Screen reader navigation
+ The 5 participants who used a screen reader exhibited a variety of strategies for navigating web pages:
+ - Let the screen reader read the entire page from top to bottom (2 participants)
+ - Open the list of links on the page and then select one (2 participants)
+ - Go through the headings on the page
+- Jump to the top of the page
+- Jump to the bottom of the page, then read every link up from the bottom
+- Tab down line-by-line to read every link from the top of the page down to the bottom. Also do it in reverse: tab up line-by-line to slowly get to the top of the page.
+- Use the mouse to point at what the screen reader should read (this participant had some vision, which he was able to use with a magnified screen)
+
+ 
+ ### C. Contacting VA
  **5 of 9 participants** in phase 2 (who all use assistive tech) said that they **call the VA, rather than use the VA website** because it's easier for them.
 
 ## Research methodology learnings
