@@ -25,8 +25,8 @@ The online travel reimbursement feature for smartphones will be piloted at a VA 
 
 The purpose of this research is to **get user acceptance feedback from Veterans and staff on the travel reimbursement feature's ease of use, identification of any challenges created for staff, and what, if any, expectations were unmet.**
 
-### Research Questions (Veterans)
-#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
+### Primary Questions - UAT for Travel Reimbursement on Smartphone
+#### Veterans
 1. How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804? 
 1. How easy or difficult is it for Veterans to initiate a claim?
 1. How easy or difficult is it to complete filing a claim?
@@ -35,25 +35,23 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. Do Veterans understand how to file a claim with receipts?
 1. What would Veterans change about this process to make it easier?
 
-#### Secondary Questions - Understanding the Check-in Ecosystem at VA Oracle Health Facilities
-1. How do Veterans check in for their appointment? 
-1. What are the current pain points when checking in? 
-1. Where are opportunities for improving the check-in process? 
-
-### Research Questions (Staff)
-#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
-
 ##### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
 1. How has it impacted your work or workload, if any?
 1. How has the clinic or facility helped Veterans learn about filing a travel reimbursement claim by texting travel to 54804?
 
-##### Travel Office staff
+##### Travel Office Staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
 1. How has it impacted you (or your staff's) work or workload, if any?
 1. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any? 
 
-#### Secondary Questions -  Understanding the Check-in Ecosystem at VA Oracle Health Facilities
+### Secondary Questions - Understanding the Check-in Ecosystem at VA Oracle Health Facilities
+#### Veterans
+1. How do Veterans check in for their appointment? 
+1. What are the current pain points when checking in? 
+1. Where are opportunities for improving the check-in process? 
+
+#### MSAs
 1. What's the process to check in a Veteran for a VA medical appointment?
 1. What's the pre-registration process for Veterans, if any? E.g., confirming their contact information, confirming their health insurance, completing health questionnaires, etc. 
 1. What are the current pain points for checking in a Veteran? 
@@ -62,9 +60,8 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 
 ## Hypotheses
 
-### Research Questions (Veterans)
-
-#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
+### Primary Questions - UAT for Travel Reimbursement on Smartphone
+#### Veterans
 1. How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804? 
    - Most Veterans will not know about this modality for filing a travel reimbursement claim. 
 2. How easy or difficult is it for Veterans to initiate a claim?
@@ -80,11 +77,7 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 7. What would Veterans change about this process to make it easier?
    - Veterans will want to be able to file a claim using this tool for a past appointment.  
 
-### Research Questions (Staff)
-
-#### Primary Questions - UAT for Travel Reimbursement on Smartphone 
-
-##### MSAs
+#### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - MSAs and Clinic Managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
 2. How has it impacted your work or workload, if any?
@@ -92,7 +85,7 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 3. How has the clinic or facility helped Veterans learn about filing a travel reimbursement claim by texting travel to 54804?
    - Posters have been placed at the exits of clinics and entrances of facilities.
      
-##### Travel Office staff
+#### Travel Office staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
 2. How has it impacted you (or your staff's) work or workload, if any?
