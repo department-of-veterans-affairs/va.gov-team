@@ -8,8 +8,12 @@ Date(s): TBD
 [Research repo card]()<br>
 [Conversation guide]()
 
-## Artifacts 
+## Product & Design Artifacts 
 
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+- [Userflow](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=1265-1102&mode=design&t=wB0sPLNcuTzdlun8-4)
+- [Figma Designs](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=96-709&mode=design&t=Llh0Gzeyt9TY1W5W-0)
+  
 ## Participants 
 
 TBD 
