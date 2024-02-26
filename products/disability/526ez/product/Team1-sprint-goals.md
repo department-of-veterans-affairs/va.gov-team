@@ -4,8 +4,8 @@
 Period - 02/28/2024 - 03/12/2024
 ### Sprint goals 
 - **Expedited**
-   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
    - [ ] Back-end - Remediate failed 4142 signature submission failures
+   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
       - PCIU 
