@@ -65,7 +65,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
   - Fillable fields with pre fill for signed in users
   - Digital signature with date stamp accepted by FMP team
-  - PDF output of completed form with required meta data and unique identifier
+  - PDF output of completed form with required meta data and unique identifier sent to IVC team
+    - Separate attachments are sent for each file and form
   - Integration with PEGA for forms and documents
   - Authenticated (and unauthenticated) experience
   - End to end testing with PEGA and status returned by PEGA team
