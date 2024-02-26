@@ -1,6 +1,6 @@
 # Transitioning Service Members: Research Review
 
-February 23, 2024
+February 26, 2024
 
 Liz Lantz, Authenticated Experience
 
@@ -90,7 +90,9 @@ While a website or digital tool can serve as a resource, it would not completely
 
 ### Other VA.gov teams, and the mobile team, haven’t done a lot with an onboarding UX yet.
 We reached out to various teams in Slack to see if anyone has explored onboarding.
-- The mobile team has 4 screens that serve as a light “onboarding” flow, that primarily serves as a list of things the app does (as opposed to onboarding/teaching about features contextually or helping them get the app set up the best way for them).  The team has a strong hunch most folks pass these screens and there are analytics to support this (link to come).
+- The mobile team has 4 screens that serve as a light “onboarding” flow. The screens function as a list of things the app does (as opposed to onboarding/teaching about features contextually or helping them get the app set up the best way for them). Their research ([pdf, page 10 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Flagship%20Mobile%20App%20Retention%20-%20Insights%20from%20App%20Analytics%20(August%2015%2C%202023)%207.37.42%20AM.pdf)) suggests:
+  - there is no evidence that viewing all of the onboarding screens straight through improves frequency retention compared to skipping Onboarding from the first screen.
+  - the design of the onboarding carousel flow complicates the ability to evaluate how the onboarding flow impacts retention.
 - The Digital Health Modernization team has not explored any onboarding approach or solutions at this point.
 - The check-in team briefly thought about a first time user experience (FTUE), but did not flesh out the idea.
 
@@ -112,6 +114,7 @@ We reached out to various teams in Slack to see if anyone has explored onboardin
 ## Appendix
 ### Artifacts reviewed
 - Dependents research, September 2023 ([research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/research-findings.md))
+- Flagship App Mobile Retention, August 2023 ([research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Flagship%20Mobile%20App%20Retention%20-%20Insights%20from%20App%20Analytics%20(August%2015%2C%202023)%207.37.42%20AM.pdf))
 - VEO Under 40 Trust Scores Veteran Interviews, June 2023 ([research folder](https://github.com/department-of-veterans-affairs/va.gov-research-repository/tree/master/research-proposals/VEO/2023-03%20Under%2040%20Trust%20Scores%20Veteran%20Interviews))
 - [Transition Journey Map, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2022-Transition_JourneyMap_v10.pdf)
 - [Transition Personas, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2022-Transition_Personas_v6.pdf)
