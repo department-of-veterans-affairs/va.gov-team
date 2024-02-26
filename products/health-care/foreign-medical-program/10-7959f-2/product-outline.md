@@ -25,7 +25,7 @@ How might we make it easier for Veterans in the Foreign Medical Program to file 
 
 - Volume of paperwork being processed is reduced
 - Veterans' information is processed in a timely manner
-- Amount of resubmissions due to missing information or documents is reduced
+- Amount of resubmissions due to missing information or manual entry error is reduced
 
 ## Undesired Business Outcomes
 - Errors during online submission process
