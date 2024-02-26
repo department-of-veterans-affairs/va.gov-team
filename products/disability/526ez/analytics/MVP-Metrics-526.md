@@ -10,7 +10,7 @@ In this this document, we will idenitify and define the MVP metrics that will mo
 |-------------------|----------------------------|-----------------|
 |Exit rate (by page)|Number of users who exited at the page ÷ number of users who viewed the page|  ||| Office Hours|
 |Abandonment rate (by page)| Number of users who view a page and exit without returning in X amount of time ÷ number of users who viewed the steps | 
-|Completion rate (by page)| Number of users who view a page, fill out (at least) required fields, hits conintue button, and is able to able to advance to the next page ÷ number of users who viewed the steps| Defined differently by Platform: "users from **first** page who make it to each step****|
+|Completion rate (by page)| Number of users who view a page, fill out (at least) required fields, hits conintue button, and is able to able to advance to the next page ÷ number of users who viewed the steps| 1. Not based on unique users-- could also include repeat users who exit and reenter within a single time period. 2. Shown time periods could artificially divide user sessions so their exit isn't included 2.  |
 |Number of sessions| Number of users who enter the form and then leaves the form (either due to timeout, logout, or navigating to another page| Domo shows average number of sessions (Total sessions where user viewed form ÷ total users, filtered for users who completed the form)
 
 ## Approach to Correct Analytics
