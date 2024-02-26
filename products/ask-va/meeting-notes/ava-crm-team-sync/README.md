@@ -1,3 +1,71 @@
+## Meeting Notes for CRM Sync on 02/15/2024
+
+Standup; 
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. Review Action Items
+3. Status Updates
+4. Topics
+   * Discuss potantial scope of edits to CRM APIs, post R2 testing, pre-MVP
+      * SHELBY: R2 research that may affect design, like adding gender/pronoun/...
+      * BECKY:
+         * R1 has scope of changes, gender & pronouns may be removed;
+         * Category/Topic/Subtopic should be good to go.
+         * We'll revisit the 5-slide deck that Tyler prepared and Joe/Tyler presented earlier
+  * SHELBY: Medallia ask was for a few months before go-live. Should it be prioritized above API work?
+      * CHANTE: potential issue with number of surveys collected; mo immeditate, API-blocking urgency; sooner better than later; Shouldn't be a heavy lift, inject script ont pages; no impact to API work
+      * KATHLEEN: More discussion needed; timeline need revisions?; Brian's team heavier lift, June date; what does CRM need to do to support this? Coordinate with scheduled releases
+      * CHANTE: schedule more discussion to explore LoE; Brian's team has what they need (questions/approvals/...) just need to generate the survey
+  * Schools /Mediacal Facilities (All? Subset? Which for each?)
+5. Open Floor
+  
+### Action Items:
+
+- [X] ~JOE to add Chante to invite for Tuesday CRM Sync~
+- [X] ~SHELBY: add Chante to daily(ish) standup meetings~
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JAMES to call Brian, RE: Medallia, to see what the hitch is, Intake (likely done/moot), needs, next steps
+- [ ] JOE to follow up with CC to discuss what's included in Medical Facilities
+
+
+
+
+## Meeting Notes for CRM Sync on 02/06/2024
+
+Standup; Status Updates; Medallia on ask.va.gov
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. Review Action Items
+3. Status Updates
+4. Open Floor
+  
+### Action Items:
+
+- [X] ~JOE/TYLER to get with SHELBY/CHRIS/KYLE, RE: LoE for status changes, on 1/31/2024~
+- [X] ~BECKY to help escalate NATALIE's issue with accessing ZenHub~
+- [ ] JOE to add Chante to invite for Tuesday CRM Sync
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JAMES to call Brian, RE: Medallia, to see what teh hitch is, Intake (likely done/moot), needs, next steps
+
+
+
+
 ## Meeting Notes for CRM Sync on 01/30/2024
 
 Short Meeting; Standup; Stand Down; Lionel Richie
