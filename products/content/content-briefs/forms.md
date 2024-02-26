@@ -23,13 +23,13 @@ This brief will help forms teams create content that aligns with the VA.gov voic
 ### Upload screens
 Form teams are using several different approaches to a file upload pattern. 
 VADS components and patterns:
-- [File input component]([url](https://design.va.gov/components/form/file-input))
-- [Ask for files pattern]([url](https://design.va.gov/patterns/ask-users-for/files))
+- [File input component](https://design.va.gov/components/form/file-input)
+- [Ask for files pattern](https://design.va.gov/patterns/ask-users-for/files)
 
 **Variation 1:** Asking for files mid-flow versus at the end of the form questions
 Examples of mid-flow **and** end of flow file upload: 
-- [530 burial allowance]([url](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=0-3489&mode=design&t=jg5rnADWwfXSZwQS-0)) asks for DD214 mid-flow and all other files at the end
-- [1010D CHAMPVA]([url](https://www.figma.com/file/HVQQBvkS9DJlNVehCwva4m/10-10d-Midpoint-Review?type=design&node-id=0-1&mode=design&t=nxuvEX0dZ9CSwBQe-0)) asks for all files twice — once mid-flow after related questions, and again at the end of the flow
+- [530 burial allowance]((https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=0-3489&mode=design&t=jg5rnADWwfXSZwQS-0) asks for DD214 mid-flow and all other files at the end
+- [1010D CHAMPVA](https://www.figma.com/file/HVQQBvkS9DJlNVehCwva4m/10-10d-Midpoint-Review?type=design&node-id=0-1&mode=design&t=nxuvEX0dZ9CSwBQe-0) asks for all files twice — once mid-flow after related questions, and again at the end of the flow
 - [example] asks for all files at the end
 
 **Variation 2:** Asking for files dynamically based on answers versus listing all possible files with conditional statements
