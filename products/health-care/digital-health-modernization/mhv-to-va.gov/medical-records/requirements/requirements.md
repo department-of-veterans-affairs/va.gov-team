@@ -357,6 +357,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 </details>
 
 ### Care summaries and notes
+Launched to Phase 0 on 2/26/24
 
 <details>
 <summary>List view requirements</summary>
@@ -431,15 +432,16 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------|
-|We will call this section of the record care summaries and notes. |This section has been referred to as XXX.  This section will include progress notes, admission and discharge summaries and consultation notes.|
-|Notes can have multiple addenda. Addenda will be presented as part of the original note to which they were added.|We discussed addendums with the SMEs and agreed that they should be treated as they are today in MHV.  When a provider writes an addendum today they are related to the context of the note. The unstructured text of the original progress note includes an alert at the top that says, “This note has addenda” and then the addendum is added to the note.|
-|The following fields will not be shown to users at first, but may be if verified: Status| SMEs gave input that this field may be helpful, if this includes additional values besides completed. But if completed is the only status then it will not be valuable.|
+|We will call this section of the record care summaries and notes. |This section has been referred to as VA Admission and Discharges and VA Notes in Blue Button download on MHV.  This section will include progress notes, admission and discharge summaries and consultation notes. In the future if other note types are determined valuable we will reevalutate if they should be included here.|
+|Notes and admission and discharge summaries can have multiple addenda. Addenda will be presented as part of the original note to which they were added.|We discussed addenda with the SMEs and agreed that they should be treated as they are today in MHV.  When a provider writes an addendum today they are related to the context of the note. The unstructured text of the original progress note includes an alert at the top that says, “This note has addenda” and then the addendum is added to the note.|
+|The following fields will not be shown to users at first on notes, but may be if verified: Status| SMEs gave input that this field may be helpful, if this includes additional values besides completed. But if completed is the only status then it will not be valuable.|
+|The following fields will not be shown to users at first on admission and discharge summaries, but may be if verified: Date signed, Status, Attending physcian | SMEs gave input that status may be helpful, if this includes additional values besides completed. But if completed is the only status then it will not be valuable. Attending physcian will replace “person who discharged the patient” if available, if not we will keep as is.|
 
 </details>
 
 * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
-* [Subject matter expert review - Progress notes](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=0oCrbC&nav=eyJoIjoiMTAzNzUwNzk3NSJ9)
-* [Subject matter expert review - Discharge summaries](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=JmbRri&nav=eyJoIjoiNTY4MDE0NDc0In0%3D)
+* [Subject matter expert review - Progress and consultation notes](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=0oCrbC&nav=eyJoIjoiMTAzNzUwNzk3NSJ9)
+* [Subject matter expert review - Admission and discharge summaries](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=JmbRri&nav=eyJoIjoiNTY4MDE0NDc0In0%3D)
 
 
 ### Lab and test results
