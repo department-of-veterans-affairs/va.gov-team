@@ -35,6 +35,10 @@ Reference epic/feature above for key decisions
 In regards to our CES call today about Community Care appointments in Oracle Health, per Anthony Pilozzi, they are sending appointments recorded ini HSRM back to Cerner (aka Oracle Health). If we can distinguish Community Care appointments from VA appointments in Oracle Health we could just filter out those appointments so they aren't displayed to the Veteran.bility 
 
 </details>
+### Oracle Health Integration in Appointments on va.gov transactional features
+<details>
+<summary>February 26, 2024</summary>
+</details>
 
 ### Resources
 <details>
