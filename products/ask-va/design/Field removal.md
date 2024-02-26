@@ -7,6 +7,7 @@ Last updated by @tygindraux: January 9, 2024
 |Chapter in Ask VA|Field|
 |:--|:--|
 |Your question|[Tell us the reason you’re contacting us?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#tell-us-the-reason-youre-contacting-us)|
+|Pronouns|[Pronouns](#pronouns)|
 |Personal information|[Veteran's Service Start Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
 |Personal information|[Veteran's Service End Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
 |Personal information|[Veteran's Claim Number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-claim-number)|
@@ -30,6 +31,21 @@ We recommend removing this field because:
 ### Next step
 - We will recommend to the CCB that this field is removed from the form.
 
+## Pronouns
+This field is currently optional and allows a free-text response. The form asks for pronouns from submitters (except when the submitter is the Veteran asking "For the dependent of a Veteran") right now. 
+
+We recommend removing this field because:
+- We shouldn't collect data we don't use. It’s unclear how often agents refer to pronouns data to address a submitter or refer to a person.
+- Submitters are frustrated that they have to provide information that seems irrelevant to asking VA a question.
+- People might not want VA to know their pronouns because they don’t know how VA will use that information.
+- Asking one less question makes the form shorter and faster to complete. There are already an unprecedented number of fields in this contact form compared to other VA contact forms.
+   - The current Ask VA form can have at most 42 fields (17 optional), while the contact form on My HealtheVet can have at most 13 fields (4 optional).
+
+View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/pronouns-recommendation.md).
+
+### Next step
+- We will recommend to the CCB that this field is removed from the form.
+  
 ## Veteran's Service Start and End Dates
 These fields are currently optional. They ask for the Veteran's Start and End Dates.
 
