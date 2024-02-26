@@ -41,9 +41,10 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 
 <details>
 <summary>February 26, 2024</summary>
-I.  **Cancelation Reason**
+
+I. **Cancelation Reason**
    - VHA has paired down the cancelation reasons down, so now it is only 5 or so. It is restricted in revenue cycle. 
-   - Tia A Will share list. 
+   - Tia A will share list. 
    - Do we need any logic around what is cancellable? Match VAOS today or just the Mental Health flag? Brad C
    - What is the meaning of cancelation data? For staff? For veterans? (Brad C)
    - We want to prevent veterans from canceling in certain situations for example mental health.
