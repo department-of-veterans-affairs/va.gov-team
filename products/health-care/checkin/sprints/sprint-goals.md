@@ -35,7 +35,8 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
     - ❗ 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)   
-
+    - **Sub Goal: Create Travel Claims vets-api Library**
+        - 
 ------- END FUTURE / TENTATIVE ------
 </details>
 
@@ -53,6 +54,7 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
+    - **Sub Goal: Create Travel Claims vets-api Library** 
 
 #### PLANNED RELEASES 
 - NONE
@@ -65,7 +67,6 @@ ________________________________________________________________________________
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-        - ❗ 🟦 [Travel Claims vets-api Library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65810)
         - ❗ 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
         - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
@@ -90,6 +91,14 @@ ________________________________________________________________________________
     - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
     - 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75446)
     - 🟩 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+    - **Sub Goal: Create Travel Claims vets-api Library**
+        - 🟦 [[BE] Implement submit_claims method in BTSSS service library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75500)
+        - 🟦 [[BE] Implement token method in BTSSS Service Library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75499)
+        - 🟦 [[BE] vets-api BTSSS lib: create a configuration class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65811)
+        - 🟦 [[BE] vets-api BTSSS lib: create a service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65812)
+        - 🟦 [[BE] Modify devops repo for travel claims secrets & VA Notify template IDs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75497)
+        - 🟦 [[BE] vets-api BTSSS lib: create an exception class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65814)
+        - 🟦 [[BE] vets-api BTSSS lib: create a redis client class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65815)
 
 ------- END FUTURE / TENTATIVE ------
 </details>
