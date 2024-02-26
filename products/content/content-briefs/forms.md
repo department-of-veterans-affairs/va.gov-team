@@ -26,17 +26,15 @@ VADS components and patterns:
 - [File input component]([url](https://design.va.gov/components/form/file-input))
 - [Ask for files pattern]([url](https://design.va.gov/patterns/ask-users-for/files))
 
-**Variation 1:** Ask for files mid-flow, after questions related to those documents.
-Example: [530 burial allowance]([url](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=0-3489&mode=design&t=jg5rnADWwfXSZwQS-0))
+**Variation 1:** Asking for files mid-flow versus at the end of the form questions
+Examples of mid-flow **and** end of flow file upload: 
+- [530 burial allowance]([url](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=0-3489&mode=design&t=jg5rnADWwfXSZwQS-0)) asks for DD214 mid-flow and all other files at the end
+- [1010D CHAMPVA]([url](https://www.figma.com/file/HVQQBvkS9DJlNVehCwva4m/10-10d-Midpoint-Review?type=design&node-id=0-1&mode=design&t=nxuvEX0dZ9CSwBQe-0)) asks for all files twice — once mid-flow after related questions, and again at the end of the flow
+- [example] asks for all files at the end
 
-**Variation 2:** Ask for all files at the end of the flow. Dynamically list files required for each user, based on their answers in the form.
+**Variation 2:** Asking for files dynamically based on answers versus listing all possible files with conditional statements
 
-**Variation 3:** Ask for all files at end of flow. List all possible files with conditional statements to help users understand which files apply to them.
+**Variation 3:** Using one-file-per-page upload screens versus multi-file upload screens
 
-**Variation 4:** Ask for files twice — once mid-flow after related questions, and again at the end of the flow. Let users choose when to upload. 
-Example: [1010D CHAMPVA]([url](https://www.figma.com/file/HVQQBvkS9DJlNVehCwva4m/10-10d-Midpoint-Review?type=design&node-id=0-1&mode=design&t=nxuvEX0dZ9CSwBQe-0))
-
-Open questions:
+Other open questions:
 - How to handle optional files
-- One file per page vs multi-file upload on a single page
-- 
