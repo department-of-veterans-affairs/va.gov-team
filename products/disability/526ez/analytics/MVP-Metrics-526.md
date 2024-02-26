@@ -11,9 +11,17 @@ In this this document, we will idenitify and define the MVP metrics that will mo
 |Exit rate |Number of users who exited at the page ÷ number of users who viewed the page| Current values are caluclated based on "# of users who started the form," which skews the data (due to conditional pages). Update denominator to "total # of users who viewed that page"  |
 |Abandonment rate | Number of users who view a page and exit without returning in X amount of time ÷ number of users who viewed the step | No current abandonment is available on Domo. Must be added.
 |Completion rate | Number of users who view a page, fill out (at least) required fields, hits conintue button, and is able to able to advance to the next page ÷ number of users who viewed the steps| 1. There is a discrepancy in definitions provided by OCTO analytics team and Platform. 2. The rate is not based on unique users-- could also include repeat users who exit and reenter within a single time period. 3. Shown time periods could artificially divide user sessions so their exit isn't included.  | I don't know... |
+|Submission| When user successfully completes, submits, and reaches the confirmation page| 
+
 |Number of sessions| Number of users who enter the form and then leaves the form (either due to timeout, logout, or navigating to another page| This data exists as an average and by session count|
 
 ## Approach to Correct Analytics
+
+How big is the lift to change rates/denominators from "# of users **who started the form**" to "# of users who viewed **that particular page**?
+
+Once we correct the exit rates, will it be easier to determine abandonment and add it to our Domo dashboard?
+
+Will GA give us better access to refining analtyics than Domo?
 
 ## Other Analytics Opportunities 
 
