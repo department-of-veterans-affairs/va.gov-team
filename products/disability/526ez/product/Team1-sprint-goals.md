@@ -5,7 +5,6 @@ Period - 02/28/2024 - 03/12/2024
 ### Sprint goals 
 - **Expedited**
    - [ ] Back-end - Remediate failed 4142 signature submission failures
-   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
       - PCIU 
@@ -26,12 +25,13 @@ Period - 02/28/2024 - 03/12/2024
        - Audit for ancillary form - 0781 and 0781a
 
 - **Other**
-   - Team goal - Piroritization for what's next
+   - [ ] Team goal - Piroritization for what's next
+   - [ ] Research - Presentation on Shadow Research for Benefits Portfolio design team 
      
 - **Stretch Goals**
- - [ ] Architecture Diagram for 526
- - [ ] Front-end - upgrading widgets to web components - checkbox
-
+   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+   - [ ] Front-end - upgrading widgets to web components - checkbox
+   - [ ] Architecture Diagram for 526
 
 ## Sprint 25
 Period - 02/14/2024 - 02/27/2024
