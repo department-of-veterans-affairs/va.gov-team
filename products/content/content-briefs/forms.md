@@ -10,6 +10,7 @@ Created by the sitewide content team for teams working on digitizing VA forms. T
 - [Overview](#overview)
 - [Form issues and examples](#form-content-issues-and-examples)
 - [Upload screens](#upload-screens)
+- [Hint text](#hint-text)
 
 ## Overview
 
@@ -39,3 +40,6 @@ Examples of mid-flow **and** end of flow file upload:
 Other open questions:
 - How to handle optional files
 - When to use "file" vs "document"
+
+### Hint text
+Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
