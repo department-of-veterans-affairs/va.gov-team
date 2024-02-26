@@ -17,11 +17,13 @@ In this this document, we will idenitify and define the MVP metrics that will mo
 
 ## Approach to Correct Analytics
 
-How big is the lift to change rates/denominators from "# of users **who started the form**" to "# of users who viewed **that particular page**?
+- How big is the lift to change rates/denominators from "# of users **who started the form**" to "# of users who viewed **that particular page**?
 
-Once we correct the exit rates, will it be easier to determine abandonment and add it to our Domo dashboard?
+- Can we create multiple funnels for the different use cases (starting with BDD or RNG) to avoid the issues with condiitional logic?
 
-Will GA give us better access to refining analtyics than Domo?
+- Once we correct the exit rates, will it be easier to determine abandonment and add it to our Domo dashboard?
+
+- Will GA give us better access to refining analtyics than Domo?
 
 ## Other Analytics Opportunities 
 
