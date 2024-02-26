@@ -1,5 +1,38 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 26
+Period - 02/28/2024 - 03/12/2024
+### Sprint goals 
+- **Expedited**
+   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+   - [ ] Back-end - Remediate failed 4142 signature submission failures
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - PCIU 
+        - [ ] Address prefill investigation - contd.
+      - BRD (seperation locations endpoint)
+        -  Update DD Dashboard for monitoring release
+        -  Start canary launch if the Dashoboard is ready for monitoring
+      - Rated Disabilities
+        -  Sanity check with the new LH version
+        -  Restart staggered release
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Design - Update mock-ups for radio buttons 2,3 and 4
+           - [ ] Design - Update documentation from mid-point review
+           - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
+       - Audit for 526ez for all paper to digital form changes
+          - Determine next steps for discrepancies 526 and 4142 - Continue
+       - Audit for ancillary form - 0781 and 0781a
+
+- **Other**
+   - Team goal - Piroritization for what's next
+     
+- **Stretch Goals**
+ - [ ] Architecture Diagram for 526
+ - [ ] Front-end - upgrading widgets to web components - checkbox
+
+
 ## Sprint 25
 Period - 02/14/2024 - 02/27/2024
 ### Sprint goals 
