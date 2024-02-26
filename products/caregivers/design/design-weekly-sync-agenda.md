@@ -1,5 +1,20 @@
 # Design Weekly Sync Agenda
 
+## 2024-02-26
+Attendees: Angela, Hieu, & Katelyn.
+
+- Team discuss EZR v2 using mural - Top priority includes Confirmation Flow, Notification, Save-in-progress, Household Income reference, NOK/EC.
+- Team discuss Content Component in Figma - consider creating a variable for the Desktop vs. mobile. 
+- Hint Text - not discussed
+- Team consider doing another sync midweek.
+
+## 2024-02-20
+Attendees: Angela, Hieu, Jessica, Katelyn, & Kristen.
+
+- Hieu updated the EZR Audit works, need to reach UXers to test certain pages.
+- Jessica notes the EZ/EZR FormContent, naming convention standards. We’ll have a main base for the content
+- UX Ticket grooming session
+
 ## 2024-02-12
 Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex.
 
