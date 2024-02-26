@@ -53,8 +53,8 @@ All in one file, on one tab
 | Week 4 Jan 21–Jan 27  | Peter Russo  | [74718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74718) | Done        |
 | Week 5 Jan 28–Feb 03  | Peter Russo  | [75305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75305) | Done    |
 | Week 6 Feb 04–Feb 10  |  Peter Russo            | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) |  Done      |
-| Week 7 Feb 11–Feb 17  |  Peter Russo            | [76684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76684) | In Progress       |
-| Week 8 Feb 18–Feb 24  |  Peter Russo            | []() |        |
+| Week 7 Feb 11–Feb 17  |  Peter Russo            | [76684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76684) | Done       |
+| Week 8 Feb 18–Feb 24  |  Peter Russo            | [77057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77057) |        In Progress |
 | Week 9 Feb 25–Mar 02  |  Peter Russo            | []() |        |
 | Week 10 Mar 03–Mar 09 |  Peter Russo            | []() |        |
 | Week 11 Mar 10–Mar 16 |  Peter Russo            | []() |        |
@@ -109,8 +109,8 @@ All in one file, on one tab
 2. Download the spreadsheet to your machine on the VA network. 
 
 3. Rename the spreadsheet in the following format:
-`VAOS Medallia [YYYY] Q[#] Week[##] [Month] [DD]-[Month] [DD]` 
-For example: VAOS Medallia 2023 Q4 Week 44 Oct 30-Nov 5
+`VAOS Medallia [YYYY] Q[#] Week[##]` 
+For example: VAOS Medallia 2023 Q4 Week 44
 
 This make the feedback sortable by date in the appropriate folder.
 
