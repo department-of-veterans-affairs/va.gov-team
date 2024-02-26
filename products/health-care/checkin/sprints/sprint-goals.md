@@ -110,9 +110,9 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Onboard New Team Members**
-    - [New VFS Team Member [ John Luo ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76322)
+    - ✔️ [New VFS Team Member [ John Luo ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76322)
     - [New VFS Team Member [ Eric Oliver ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76320)
-    - [New VFS Team Member [ Nate Douglas ] ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76323)
+    - ✔️ [New VFS Team Member [ Nate Douglas ] ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76323)
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
