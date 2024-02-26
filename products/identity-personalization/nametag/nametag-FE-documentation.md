@@ -1,9 +1,11 @@
 # Nametag Frotend Documentation
-**Last updated - February 22, 2024 - updated formatting**
+**Last updated - February 26, 2024 - added Figma link**
 
 _These specs are largely pulled from the documentation done by the Benefits team in 11/23_
 
 The Nametag appears on both Desktop & Mobile for VA.gov.
+
+__[Figma mockups](https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1%3A3754&mode=design&t=AjnTodamOvCVzRFF-1)__
 
 ## When to show the nametag:
 
