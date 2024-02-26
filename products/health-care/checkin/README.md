@@ -2,15 +2,23 @@
 
 ## Quick Links
 - [Team Members](#team-members)
+- [Contacts](#contacts)
+    - [CAIA Key Contacts Supporting Check In](#caia-key-contacts-supporting-check-in)
+    - [OCTO Health Tools Shared Support SMEs](#octo-health-tools-shared-support-smes)
 - [Terminology](#terminology)
 - [Product](#product)
-- [Production Designs](#production-designs)
-- [Content](#content)
-- [Testing](#testing)
+    - [Product Documentation](#product-documentation)
+    - [Product Releases](#product-releases)
+    - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
+    - [Research](#research)
+    - [Production Designs](#production-designs)
+    - [Content](#content)
+    - [Testing](#testing)
 - [Process](#process)
-- [Research](#research)
+    - [Process Documentation](process-documentation)
+    - [Translations](#translations)
+    - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 - [Engineering](#engineering)
-- [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
@@ -28,13 +36,14 @@
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
- 
-### CAIA Key Contacts Supporting Check In 
 
+## Contacts
+
+#### CAIA Key Contacts Supporting Check In 
 - [Laura Willwerth](https://dsva.slack.com/team/U03CHM52JBF) - Content
 - [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - A11y
 
-### OCTO Health Tools Shared Support SMEs
+#### OCTO Health Tools Shared Support SMEs
 - [Dan Bivens](https://dsva.slack.com/team/U06J1AMSMC5) - A11y
 - [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
@@ -45,6 +54,8 @@
 - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/acroynyms.md)
 
 ## Product 
+
+#### Product Documentation
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
@@ -59,48 +70,56 @@
 - [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
 - [How to Send SNOW Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/snow-reports.md)
 
-### Releases 
+#### Product Releases 
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
 - [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
 - [Feature Flags](https://api.va.gov/flipper/features)
 - [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
 - [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
-### Priorities & Backlog
+#### Priorities, Backlog, Sprints
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/roadmap)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
+- [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
+- [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/sprintdemo) 
 
-### Translations
-- [Main page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
-- [Process to submit translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/submit-translations-to-state-department.md)
-- [JSON Files in Master Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
+#### Research
+- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
+- [Beneficiary travel reimbursement discovery and research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/travel-reimbursement)
 
-## Production Designs
+#### Production Designs
 - [Production | Pre-check-in and check-in](https://www.figma.com/file/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-Check-in?type=design&node-id=2%3A1305&mode=design&t=0lRYfw3kcVScWClF-1)
 - [Working | Check-in](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=xPKUeH49IJf3iY0Y-1)
 - [Working | Pre-check-in](https://www.figma.com/file/mVg6S9xgiQpWbAOAvptQOZ/Pre-check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=wncuIj1Ko8hFd9sf-1)
 - [Working | Unified check-in](https://www.figma.com/file/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-Check-in?type=design&mode=design&t=87McIUiwLhq3yP2R-1)
 - [Working | Telehealth content matrix](https://www.figma.com/file/th4V0mCvPbKYLCDgaZjovw/Telehealth-%7C-Check-in?type=design&node-id=7%3A484&mode=design&t=jLY1RZvjDDbrO4zA-1)
 
-## Content
+#### Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
 - [SMS character count calculator (160 characters with spaces is ideal)](https://twiliodeved.github.io/message-segment-calculator/)
   
-## Testing
+#### Testing
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
 - [Testing Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 - [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - [TestRail for Modernized Check-in](https://dsvavsp.testrail.io/index.php?/projects/overview/62)
 
 ## Process 
+
+#### Process Documentation
 - [CIE Development Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/team/processes.md)
 - [Decision Register](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/DecisionRegister.md)
-- [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/sprintdemo)
-- [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 
-## Research
-- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
-- [Beneficiary travel reimbursement discovery and research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/travel-reimbursement)
+#### Translations
+- [Main page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/translations)
+- [Process to submit translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/submit-translations-to-state-department.md)
+- [JSON Files in Master Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/locales)
+
+#### Service Now Knowledge Articles for Support
+- [Patient Check-in](https://yourit.va.gov/va?sys_kb_id=4967ba681b1a59d04f6f5316624bcbbb&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=2dbb7b091baad190005287b8624bcbcd)
+- [Pre-Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
+- [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
 
 ## Engineering
 - Code Repositories
@@ -117,11 +136,6 @@
 - [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 - [Error Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/error-types.md)
 - [AWS Key Rotation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/rotating-iam-keys.md)
-
-## Service Now Knowledge Articles for Support
-- [Patient Check-in](https://yourit.va.gov/va?sys_kb_id=4967ba681b1a59d04f6f5316624bcbbb&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=2dbb7b091baad190005287b8624bcbcd)
-- [Pre-Check-in](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
-- [eCheck-in](https://yourit.va.gov/kb_view.do?sys_kb_id=07548a9787478dd03502b889cebb3587&sysparm_rank=2&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
 
 ## Resources Developed outside the CIE Team
 - [PCI - Enterprise Implementation Team](https://teams.microsoft.com/l/team/19%3awwjxmJilnNQkrSuL1_UDJccHQcMIPF2OnFC73KpNN9s1%40thread.tacv2/conversations?groupId=7b702e1f-7c29-419b-8215-35b0346ca2b5&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
