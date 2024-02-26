@@ -21,9 +21,10 @@ Standup; Medallia; R1 imact to CRM; Facilities details
 
 - [X] ~JOE: Update status page with Kyle's latest work~
 - [X] ~JOE: Update `/attachment` endpoint with example response~
+- [X] ~JOE to follow up with CC to discuss what's included in Medical Facilities~
+      * __Kyle and Joe dscussed. AVA on VA.gov will pass facility details, AVA CRM will update their list based on those details__
 - [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
 - [ ] JAMES to call Brian, RE: Medallia, to see what the hitch is, Intake (likely done/moot), needs, next steps
-- [ ] JOE to follow up with CC to discuss what's included in Medical Facilities
 
 
 
