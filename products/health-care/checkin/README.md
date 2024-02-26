@@ -8,12 +8,14 @@
 - [Terminology](#terminology)
 - [Product](#product)
     - [Product Documentation](#product-documentation)
-    - [Product Releases](#product-releases)
     - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
-    - [Research](#research)
+    - [Product Releases](#product-releases)
+    - [Metrics](#metrics)
     - [Production Designs](#production-designs)
     - [Content](#content)
+    - [Research](#research)    
     - [Testing](#testing)
+    - [Production Support](#production-support)
 - [Process](#process)
     - [Process Documentation](#process-documentation)
     - [Translations](#translations)
@@ -61,20 +63,7 @@
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
-- [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/analytics#readme)
-- [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
-- [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md)
-- [Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - Service Blueprint with 45MR and BT Reimbursement [[Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286) [[Download PDF]](https://github.com/department-of-veterans-affairs/va.gov-team/files/14200097/PCI.Service.Blueprint_2024-02-07_18-27-19.pdf)
-- [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
-- [How to Send SNOW Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/snow-reports.md)
-
-#### Product Releases 
-- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
-- [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
-- [Feature Flags](https://api.va.gov/flipper/features)
-- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
-- [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
 #### Priorities, Backlog, Sprints
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
@@ -83,10 +72,17 @@
 - [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/sprintdemo) 
 
-#### Research
-- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
-- [Beneficiary travel reimbursement discovery and research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/travel-reimbursement)
+#### Product Releases 
+- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md)
+- [Planned Releases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-planned-releases.md)
+- [Feature Flags](https://api.va.gov/flipper/features)
+- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
+- [Incident Response Plan (Production Support)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
+#### Metrics
+- [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/analytics#readme)
+- [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
+  
 #### Production Designs
 - [Production | Pre-check-in and check-in](https://www.figma.com/file/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-Check-in?type=design&node-id=2%3A1305&mode=design&t=0lRYfw3kcVScWClF-1)
 - [Working | Check-in](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=xPKUeH49IJf3iY0Y-1)
@@ -97,12 +93,21 @@
 #### Content
 - [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
 - [SMS character count calculator (160 characters with spaces is ideal)](https://twiliodeved.github.io/message-segment-calculator/)
-  
+
+#### Research
+- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
+- [Beneficiary travel reimbursement discovery and research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/travel-reimbursement)
+ 
 #### Testing
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
 - [Testing Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 - [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - [TestRail for Modernized Check-in](https://dsvavsp.testrail.io/index.php?/projects/overview/62)
+
+#### Production Support
+- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
+- [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
+- [How to Send SNOW Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/snow-reports.md)
 
 ## Process 
 
@@ -130,8 +135,6 @@
 - [System Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
 - [Training Environment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/training-environment)
-- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
-- [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 - [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 - [Error Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/error-types.md)
 - [AWS Key Rotation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/rotating-iam-keys.md)
@@ -150,4 +153,4 @@
 -	[Enterprise Guest Wi-Fi Program](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2FVAWiFi-EnterpriseGuestWiFiIOP%2FSitePages%2FHome.aspx&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653602585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=UV8RbgMDfgJkEW2gb4dkvkjZ6Ifuy2dSPOx9JO0WFBA%3D&reserved=0)
 -	[NextGen Wi-Fi Program](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2FOITSDM%2FNIM%2FWireless%3FOR%3DTeams-HL%26CT%3D1630410475405&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653602585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=C%2B%2FNjh%2Fuamq9Gkp8PsMtSOmqNLhmsAAR4zElsgoxCrk%3D&reserved=0)
 - For questions, reach out to [VHAIVCPatientEngagementTeam@va.gov](mailto:VHAIVCPatientEngagementTeam@va.gov)
-
+- [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
