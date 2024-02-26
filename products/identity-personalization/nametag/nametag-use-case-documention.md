@@ -1,5 +1,7 @@
 # Nametag Use Cases
-**Last updated - February 14, 2024 - published**
+**Last updated - February 26, 2024 - added Figma**
+
+__[Figma mockups](https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1%3A3754&mode=design&t=AjnTodamOvCVzRFF-1)__
 
 The nametag will appear for users when:
 
