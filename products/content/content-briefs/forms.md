@@ -8,7 +8,6 @@ Created by the sitewide content team for teams working on digitizing VA forms. T
 ## Sections
 
 - [Overview](#overview)
-- [Form issues and examples](#form-content-issues-and-examples)
 - [Upload screens](#upload-screens)
 - [Hint text](#hint-text)
 
@@ -20,8 +19,7 @@ This brief will help forms teams create content that aligns with the VA.gov voic
 
 [Read our top 10 plain language standards in the VA.gov content style guide for more](https://design.va.gov/content-style-guide/content-principles/plain-language)
 
-## Form content issues and examples
-### Upload screens
+## Upload screens
 Form teams are using several different approaches to a file upload pattern. 
 VADS components and patterns:
 - [File input component](https://design.va.gov/components/form/file-input)
@@ -41,5 +39,5 @@ Other open questions:
 - How to handle optional files
 - When to use "file" vs "document"
 
-### Hint text
+## Hint text
 Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
