@@ -3,9 +3,9 @@ Last updated by @beckyphung: February 26, 2024
 
 Jump to:
 - [Current pronouns use](#current-pronouns-use)
-- [Insights from January 2024 usability testing]
-- [Proposal to remove pronouns]
-- [An alternative to collecting pronouns data]
+- [Insights from January 2024 usability testing](#insights-from-january-2024-usability-testing)
+- [Proposal to remove pronouns](#proposal-to-remove-pronouns)
+- [An alternative to collecting pronouns data](#an-alternative-to-collecting-pronouns-data)
 
 ## Current pronouns use
 Ask VA is one of the only online VA forms we could find that currently asks for pronouns. Here’s how it looks in the current form at ask.va.gov: 
