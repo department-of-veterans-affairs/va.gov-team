@@ -1,6 +1,6 @@
 ## Meeting Notes for CRM Sync on 02/20/2024
 
-Standup; Medallia; R1 imact to CRM; Facilities details
+Standup; Medical Facilities; Khoa and Kyle progress
 
 ### Attendees:
 
