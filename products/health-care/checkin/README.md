@@ -15,7 +15,7 @@
     - [Content](#content)
     - [Testing](#testing)
 - [Process](#process)
-    - [Process Documentation](process-documentation)
+    - [Process Documentation](#process-documentation)
     - [Translations](#translations)
     - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 - [Engineering](#engineering)
