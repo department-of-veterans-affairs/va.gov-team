@@ -30,20 +30,19 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804? 
 1. How easy or difficult is it for Veterans to initiate a claim?
 1. How easy or difficult is it to complete filing a claim?
-1. How easy or difficult is it to file more than 1 claim? (If applicable.)
-1. Which step of the process was most difficult to understand or challenging?  
-1. Do Veterans understand how to file a claim with receipts?
-1. What would Veterans change about this process to make it easier?
+1. How easy or difficult is it to file more than 1 claim at multiple facilities? (If applicable.)
+1. Do Veterans understand what claim types they can file with this tool?
+1. Do Veterans understand when they can file claims with this tool?
 
 ##### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
-1. How has it impacted your work or workload, if any?
+1. How has it impacted MSA work or workload, if at all?
 1. How has the clinic or facility helped Veterans learn about filing a travel reimbursement claim by texting travel to 54804?
 
 ##### Travel Office Staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
-1. How has it impacted you (or your staff's) work or workload, if any?
-1. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any? 
+1. How has it impacted staff  work or workload, if at all ?
+1. Has the new process caused any changes or issues with submitted claims? 
 
 ### Secondary Questions - Understanding the Check-in Ecosystem at VA Oracle Health Facilities
 #### Veterans
@@ -56,7 +55,6 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 1. What's the pre-registration process for Veterans, if any? E.g., confirming their contact information, confirming their health insurance, completing health questionnaires, etc. 
 1. What are the current pain points for checking in a Veteran? 
 1. Where are opportunities for improvement for checking in (or preparing for an appointment)?
-1. Can Veterans check in on their smartphone today? If not, do you think that would be valuable to Veterans? Valuable to staff?
 
 ## Hypotheses
 
@@ -64,23 +62,21 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 #### Veterans
 1. How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804? 
    - Most Veterans will not know about this modality for filing a travel reimbursement claim. 
-2. How easy or difficult is it for Veterans to initiate a claim?
+1. How easy or difficult is it for Veterans to initiate a claim?
    - Veterans will find it extremely easy to initiate a claim, but some will have difficulties because of cellular reception. 
-3. How easy or difficult is it to complete filing a claim?
+1. How easy or difficult is it to complete filing a claim?
    - Veterans will find it extremely easy to file a claim from their smartphones. 
-4. How easy or difficult is it to file more than 1 claim? (If applicable.)
-   - Veterans will find it extremely easy to file more than 1 claim in a single form. 
-5. Which step of the process was most difficult to understand or challenging?
-   - Veterans may not have known about this tool or had difficulties because of cellular reception and/or data coverage. 
-6. Do Veterans understand how to file a claim with receipts?
-   - Most will miss finding that information because it's not top of mind.  
-7. What would Veterans change about this process to make it easier?
-   - Veterans will want to be able to file a claim using this tool for a past appointment.  
-
+1. How easy or difficult is it to file more than 1 claim at multiple facilities? (If applicable.)
+   - Veterans will find it extremely easy to file more than 1 claim in a single form (and extremely easy to understand that they're filing for multiple facilities). 
+1. Do Veterans understand what claim types they can file with this tool?
+   - Veterans will be able to easily identify the two types of claims that they can file. 
+1. Do Veterans understand when they can file claims with this tool?
+   - Most Veterans will understand that they have to file today, while asking why that's different than the "30 day" rule. 
+  
 #### MSAs
 1. What feedback have MSAs or Clinic Managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - MSAs and Clinic Managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
-2. How has it impacted your work or workload, if any?
+2. How has it impacted MSA work or workload, if at all?
    - MSAs and Clinic Managers will mention that they receive questions on occasion, which adds to their responsibilities. However, they're able to quickly direct them to contact the Travel Office.
 3. How has the clinic or facility helped Veterans learn about filing a travel reimbursement claim by texting travel to 54804?
    - Posters have been placed at the exits of clinics and entrances of facilities.
@@ -88,9 +84,9 @@ The purpose of this research is to **get user acceptance feedback from Veterans 
 #### Travel Office staff
 1. What feedback have travel assistants or Travel Office managers received from Veterans about the new online travel reimbursement for smartphones tool?
    - Travel assistants and Travel Office managers will have feedback from Veterans that it's an extremely helpful and needed tool. 
-2. How has it impacted you (or your staff's) work or workload, if any?
+2. How has it impacted staff  work or workload, if at all?
    - There are a lot more travel claims coming in that require manual review, which naturally increases staff workload. However, the number of complicated manual reviews is a small portion. 
-3. What changes and/or issues have you (or your staff) noticed from recently submitted claims, if any?
+3. Has the new process caused any changes or issues with submitted claims?
    - There are more claims that require manual review. 
 
 * * * * *
