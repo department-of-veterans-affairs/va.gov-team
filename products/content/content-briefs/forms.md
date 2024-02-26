@@ -21,11 +21,22 @@ This brief will help forms teams create content that aligns with the VA.gov voic
 
 ## Form content issues and examples
 ### Upload screens
-Issue: Form teams are using different approaches to a file upload pattern:
-- Ask for documents midway through the form flow after the user answers questions related to that document. Example: Burial allowance
-- Ask for all documents at the end of the form flow after all questions have been answered.
-- Type 1: Dynamically ask for only docs needed for that specific user based on answers. One doc per page.
-- Type 2: List conditional statements explaining which docs to upload on a multi-file upload screen. Not dynamic.
-- Ask for document both directly after the related question and at the end of the flow and let users choose when to upload. Example: CHAMPVA 1010D
+Form teams are using several different approaches to a file upload pattern. 
+VADS components and patterns:
+- [File input component]([url](https://design.va.gov/components/form/file-input))
+- [Ask for files pattern]([url](https://design.va.gov/patterns/ask-users-for/files))
 
-- VADS says to avoid asking for optional documents. Teams ask for optional documents when it can make processing faster. Example: Burial asks for DD214 for faster processing, but it's not required.
+**Variation 1:** Ask for files mid-flow, after questions related to those documents.
+Example: [530 burial allowance]([url](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=0-3489&mode=design&t=jg5rnADWwfXSZwQS-0))
+
+**Variation 2:** Ask for all files at the end of the flow. Dynamically list files required for each user, based on their answers in the form.
+
+**Variation 3:** Ask for all files at end of flow. List all possible files with conditional statements to help users understand which files apply to them.
+
+**Variation 4:** Ask for files twice — once mid-flow after related questions, and again at the end of the flow. Let users choose when to upload. 
+Example: [1010D CHAMPVA]([url](https://www.figma.com/file/HVQQBvkS9DJlNVehCwva4m/10-10d-Midpoint-Review?type=design&node-id=0-1&mode=design&t=nxuvEX0dZ9CSwBQe-0))
+
+Open questions:
+- How to handle optional files
+- One file per page vs multi-file upload on a single page
+- 
