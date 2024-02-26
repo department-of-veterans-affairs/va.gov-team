@@ -26,3 +26,7 @@ All VFSs (aka VA.gov features and products)
 Internal resources for all teams currently building on or in support of VA.gov.
 
 ![Journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/508%20compliant%20Journey%20Map.pdf)
+
+## Not a member of the repository and want to be added?
+- If you're on a VA.gov Platform team, contact your Program Manager.
+- If you're on a VFS team, you must complete [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation) to be added to this repository. This includes completing your Platform Orientation ticket(s) in GitHub.
