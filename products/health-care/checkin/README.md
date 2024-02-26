@@ -38,6 +38,8 @@
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+- DevOps Engineers
+  - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
 
 ## Contacts
 
