@@ -9,6 +9,7 @@ Created by the sitewide content team for teams working on digitizing VA forms. T
 
 - [Overview](#overview)
 - [Form issues and examples](#form-content-issues-and-examples)
+- [Upload screens](#upload-screens)
 
 ## Overview
 
