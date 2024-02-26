@@ -1,6 +1,6 @@
 # VA content brief for forms
 
-Created by the sitewide content team for teams working on digitizing VA forms. This brief will capture content variations and experiments in online form patterns and components that don't meet the use case for an experimental design or that we aren't yet ready to propose in the [experimental design process](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns).
+Created by the sitewide content team for teams working on digitizing VA forms. This brief will capture content variations in online form patterns and components that don't meet the use case for an experimental design or that we aren't yet ready to propose in the [experimental design process](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns).
 
 **Have questions or feedback on this brief or want to add something?**
 - Send us a slack in #sitewide-content-ia.
