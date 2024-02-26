@@ -2,6 +2,22 @@
 - These are ongoing notes from each daily session up to March 8, 2024
 - Launch date is March 5, 2024
 
+
+---
+### Feb 26, 2024 | 1010/VES - Daily Check-in for PACT Act 103
+#### Notes
+- 10-10 Backend conflict has been resolved
+- 10-10 Frontend is pending final review to merge into Staging environment
+     - We have a Review Instance up that we can test with internally
+- VES/Enrollment system SSOi issue
+     - The team has logged a Service Now* ticket, with high priority
+     - Joshua Faulkner is also involved with this
+
+#### Action items
+- [ ] 10-10 team to update VES when all code is in staging
+- [ ] VES team to update 10-10 team when ES is back up
+
+
 ---
 ### Feb 23, 2024 | 1010/VES - Daily Check-in for PACT Act 103
 #### Notes
