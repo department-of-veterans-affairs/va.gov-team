@@ -212,7 +212,7 @@ Safari on iOS doesn’t include [Developer Tooling](https://developer.apple.com/
 
 Once developer mode is enabled on desktop Safari you’ll have a new option in the menubar labeled “Develop.” Open a web page in Safari on the simulated device. Once you have opened a page in Safari on a device paired to your computer, click on the “Develop” menu and select your connected devices. This will launch a floating developer tools window focused on the device's Safari application; from here you can use dev tools as expected!
 
-If you rely on plugins or bookmarklets to run automated accessibility scans, usually those won’t be available to you from the desktop to the device – you can use bookmarklets from the device, though. [Here is a collection of useful bookmarklets to save on mobile Safari for testing with.](https://pauljadam.com/bookmarklets/) They can be a bit difficult to configure on mobile, though. [Here are directions to help with that process.](https://www.cultofmac.com/500532/how-to-add-bookmarklet-mobile-iphone-safari/#:~:text=The%20easiest%20way%20to%20install,on%20your%20iPad%20or%20iPhone.)
+If you rely on plugins or bookmarklets to run automated accessibility scans, usually those won’t be available to you from the desktop to the device – you can use bookmarklets from the device, though. [Here is a collection of useful bookmarklets to save on mobile Safari for testing with.](https://pauljadam.com/bookmarklets/) They can be a bit difficult to configure on mobile, though. [Here are directions to help with that process.](https://www.cultofmac.com/500532/how-to-add-bookmarklet-mobile-iphone-safari/)
 
 #### Pairing Chrome on Android with Desktop Chrome's developer tools
 
