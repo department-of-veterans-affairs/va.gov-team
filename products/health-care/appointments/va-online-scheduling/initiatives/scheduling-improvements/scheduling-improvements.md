@@ -41,45 +41,44 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 
 <details>
 <summary>February 26, 2024</summary>
-I. Cancelation Reason
+I.  **Cancelation Reason**
+   - VHA has paired down the cancelation reasons down, so now it is only 5 or so. It is restricted in revenue cycle. 
+   - Tia A Will share list. 
+   - Do we need any logic around what is cancellable? Match VAOS today or just the Mental Health flag? Brad C
+   - What is the meaning of cancelation data? For staff? For veterans? (Brad C)
+   - We want to prevent veterans from canceling in certain situations for example mental health.
+   - We want to be consistent and standard across facilities (Tia)
+   - Cerner publishes these rules in their FHIR documentation. 
+   - In OH, multiple resources are tied to one appointment. For example for surgery, imaging machines etc. You may have to cancel each resource (Tia)
+   - Is there an exclusion list for cancelable appointments?
+   - There is not a list of the non-cancelable but there is a list of types that have to offer direct schedule. (Tia)
+   - Anything that is not listed in the TOC list, those are VAOS required. 
+   - (Anything that is list is also cancelable) (Tia)
+   - We can put together an exclusion list of appointments we do not want the Veterans can cancel. 
 
-VHA has paired down the cancelation reasons down, so now it is only 5 or so. It is restricted in revenue cycle.
-Tia A Will share list.
-Do we need any logic around what is cancellable? Match VAOS today or just the Mental Health flag? Brad C
-What is the meaning of cancelation data? For staff? For veterans? (Brad C)
-We want to prevent veterans from canceling in certain situations for example mental health.
-We want to be consistent and standard across facilities (Tia)
-Cerner publishes these rules in their FHIR documentation.
-In OH, multiple resources are tied to one appointment. For example for surgery, imaging machines etc. You may have to cancel each resource (Tia)
-Is there an exclusion list for cancelable appointments?
-There is not a list of the non-cancelable but there is a list of types that have to offer direct schedule. (Tia)
-Anything that is not listed in the TOC list, those are VAOS required.
-(Anything that is list is also cancelable) (Tia)
-We can put together an exclusion list of appointments we do not want the Veterans can cancel.
-II. VAOS Configuration
+II. **VAOS Configuration**
+   - The facility has the ability to disable direct scheduling etc. Do you see it being possible to come up with a policy on a high level to implement on the VistA side? (Brad C)
+   - Yes- that would be the idea. It would require us to force the hand of the facilities. Limit what facilities can enable/ disable. (Tia)
+   - Anyone with the supervisor key at a facility can change the configuration in VATS. I think it should be IVC’s direction to say who is allowed to do this and what the policy should be. (Brad C)
+   - Sites were concerned about their inability to manage patients who already have appointments, ensuring that patients are not inadvertently requesting additional appointments for the same issue they are already scheduled for. (Tia)
+   - Want to be able to open up access to patients to direct schedule but then they can schedule with anyone maybe even someone on the other side of the country. 
+   - Not going to have requests with OH because they might be able to request a time at 4:30 when it is 4:26 and the staff will miss that. 
+   - We would like to start creating a list of policies and checks. (Brad C )
 
-The facility has the ability to disable direct scheduling etc. Do you see it being possible to come up with a policy on a high level to implement on the VistA side? (Brad C)
-Yes- that would be the idea. It would require us to force the hand of the facilities. Limit what facilities can enable/ disable. (Tia)
-Anyone with the supervisor key at a facility can change the configuration in VATS. I think it should be IVC’s direction to say who is allowed to do this and what the policy should be. (Brad C)
-Sites were concerned about their inability to manage patients who already have appointments, ensuring that patients are not inadvertently requesting additional appointments for the same issue they are already scheduled for. (Tia)
-Want to be able to open up access to patients to direct schedule but then they can schedule with anyone maybe even someone on the other side of the country.
-Not going to have requests with OH because they might be able to request a time at 4:30 when it is 4:26 and the staff will miss that.
-We would like to start creating a list of policies and checks. (Brad C )
-III. Current Scheduling Capabilities
+III. **Current Scheduling Capabilities**
+   - What can they schedule today? (Jeff)
+   - For Self scheduling: Face to face and telephone (Tia)
 
-What can they schedule today? (Jeff)
-For Self scheduling: Face to face and telephone (Tia)
-IV. Baseline Requirements and Ideal SOP
+IV. **Baseline Requirements and Ideal SOP**
+   - What are the baseline requirements and the nice to have? (Brad C)
+   - If we could follow the VAOS SOP that would be ideal. 
 
-What are the baseline requirements and the nice to have? (Brad C)
-If we could follow the VAOS SOP that would be ideal.
-V. Message Center and Location Selection
+V. **Message Center and Location Selection**
+   - It is not ideal for patients to request appointments in message center in OH (Tia) 
+   - There are advantages to picking location first and is something we are looking into on the VAOS side. (Jeff)
 
-It is not ideal for patients to request appointments in message center in OH (Tia)
-There are advantages to picking location first and is something we are looking into on the VAOS side. (Jeff)
-VI. Patient Appointment Restrictions
-
-We want to restrict patients from being able to schedule an appointment with someone they have never been seen before. We do not want them to be able to see options that they should not been seen at like across the country on OH
+VI. **Patient Appointment Restrictions**
+   - We want to restrict patients from being able to schedule an appointment with someone they have never been seen before. We do not want them to be able to see options that they should not been seen at like across the country on OH
 </details>
 
 ### Resources
