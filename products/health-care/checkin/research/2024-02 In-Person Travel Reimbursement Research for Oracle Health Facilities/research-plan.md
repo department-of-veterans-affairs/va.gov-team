@@ -96,7 +96,7 @@ Method
 
 This research will be conducted through Veteran intercepts and in-person semi-structured interviews with clinic and Travel Office staff. Our intention is to visit various clinics, at busy times, to see what differences exist between clinics and different types of clinics. 
 
-We will work with IVC and facility leadership to determine the best approach for Veteran intercepts, but ideally plan to intercept Veterans after check out. While observing Veterans as they go through the travel reimbursement filing process on their smartphones, we will assit as needed, and ask them a few questions to gather feedback on their experience.
+We will work with IVC (Integrated Veteran Care) and facility leadership to determine the best approach for Veteran intercepts, but ideally plan to intercept Veterans after check out. While observing Veterans as they go through the travel reimbursement filing process on their smartphones, we will assist as needed, and ask them a few questions to gather feedback on their experience.
 
 We will also ask MSAs and Travel Office staff questions from our conversation guide to better understand the check-in ecosystem and impact of the new travel claim tool on their workload, while documenting those findings.
 
