@@ -39,11 +39,11 @@
 
 |  |  |  
 | --- | --- | 
-| **Will we have to build a UI to use sign-in service or does one already exist?** | The UI already exists. We call it the Unified Sign-in Page (USiP). You can find more information about it [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Unified%20Sign%20In%20Pages). |
+| **Will we have to build a UI to use sign-in service?** | The UI already exists. We call it the `Unified Sign-in Page` (USiP). You can find more information about it [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Unified%20Sign%20In%20Pages). |
 | | |
-| **Is there a way for us to determine timelines? Can we develop against SiS now?** | If you dont require SSO initially, you can start on it now. We have SiS in production for the VA Health and Benefits app. For any services looking to utilize a zero trust compliant STS, we also have the ability to support system to system (STS) auth in production. | 
+| **Is there a way for us to determine timelines? Can we develop against SiS now?** | If you dont require SSO initially, you can start on it now. We have SiS in production for the VA Health and Benefits app. For any services looking to utilize a zero trust compliant STS, we also have the ability to support system-to-system (STS) auth in production. | 
 | | |
-| **Can SiS be used by teams who aren't deploying on the VA.gov platform? If so, would we get shared sessions with the other teams if both of our teams implement SiS?** | Yes, any team within VA can utilize the Sign-in Service. Also, since the mechanism is there to support it, any teams that have implemented SiS can participate in a shared session solution. | 
+| **Can SiS be used by teams who aren't deploying on the VA.gov platform? If both of our teams implement SiS, could we get shared sessions?** | Yes, any team within VA.gov can utilize the Sign-in Service. Also, since the mechanism is there to support it, any teams that have implemented SiS can participate in a shared session solution. | 
 | | |
 | **Do we need to wait until we have the subdomain set up before we do a configuration?** | You would be able to set up your solution on test stacks before your subdomain is fully set up. | 
 | | |
@@ -68,9 +68,9 @@
 | | |
 | **We are testing a possible bug with a test user. How do we obtain additional test user credentials?** | Let us know. We’ll DM you some test creds you can borrow for a few days.| 
 | | |
-| **I'm having trouble accessing info in DataDog. Can you assist?** | Sorry, you'll have to work on this issue within your team. If you need additional help, try the [Platform Support Channel](https://dsva.slack.com/archives/CBU0KDSB1). |
+| **Can you assist with trouble accessing info in DataDog?** | Sorry, you'll have to work on this issue within your team. If you need additional help, try the [Platform Support Channel](https://dsva.slack.com/archives/CBU0KDSB1). |
 | | |
-| **Do we have to let you know if authentication in review instances ever break?** | Yes please, we aren’t actively using review instances. If they break, you'll find out first. | 
+| **Do we have to let you know if authentication in review instances break?** | Yes please, we aren’t actively using review instances. If they break, you'll find out first. | 
 
 -----------------
 
@@ -89,7 +89,7 @@
 
 |  |  | 
 | --- | --- | 
-| **From which services does SiS ultimately pull user data? When we used IAM, the user data came from MPI. Is this still the case?** | Yes we still use MPI for user data retrieval. |
+| **From which services does SiS ultimately pull user data? When we used IAM, the user data came from MPI. Is this still the case?** | Yes, we still use MPI for user data retrieval. |
 | | |
 | **Can SiS help contextualize a sign-in problem using data?** | We have data in DataDog that can be broken down by # of authentication attempts, credential type (e.g. ID.me), `user_agent` values, and more. Some data will need to be worked into the format most useful for your needs. | 
 
