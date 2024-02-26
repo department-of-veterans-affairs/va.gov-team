@@ -4,6 +4,23 @@ Please log key decisions related to the below practice areas, including date, wh
 
 # Medical records design decisions
 
+## Feb 24, 2024
+
+### State of product
+* Phase 0
+* Domains included: Allergies, Vaccines, [NEW] Care summaries and notes
+
+### General product design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The product left navigation and landing page ordering will be in order of frequency of use. |  The order of domains was determined by frequency of use from data and research.  We will monitor this during Phase 0 roll out and adjust as necessary. |
+| Domains within medical records have updated names from MHV today and we will need to consider this when rolling out to larger groups of veterans. |  Content is being updated on va.gov to make it plain language and more accessible. With these changes we will need to educate veterans around the new naming structure and any shortcuts they are used to in MHV today.|
+
+### Care summaries and notes specific design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| Care summaries and notes will include progress notes, consultation notes and admission and discharge summaries.| These are all included in MHV today.  If there are other notes we should include here in the future we will consider and add as necessary. 
+
 ## Nov 22, 2023
 
 ### State of product
