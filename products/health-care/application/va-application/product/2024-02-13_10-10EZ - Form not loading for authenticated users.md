@@ -100,6 +100,7 @@ _
 - Consider refining automated alerting to distinguish between errors for authenticated/unauthenticated users
 - [#76235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76235) Add additional RUM monitoring attributes to allow for distinguishing between different authenticated/LOA/enrollment status scenarios.
 - Consider creating a single place to look for "when was the last deploy" and "what code is currently in production" instead of having to go to multiple sources.
+     - There is a [Frontend deployment dashboard](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/) and a [Backend deployment dashboard](https://deploy-status-dashboard.fly.dev/apps/vets-api/deploy_status).
 - Consider making deploy information available directly in Datadog so that dashboards can be annotated with deployment events to speed up troubleshooting.
 - [#76793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76793) Consider implementing tighter anomaly thresholds for automated alerting immediately after deployment events
 - [#76791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76791) Consider making maintenance window service mapping more granular to allow disabling single applications rather than all applications that share an upstream dependency.
