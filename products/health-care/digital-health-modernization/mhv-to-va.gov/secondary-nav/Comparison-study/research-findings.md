@@ -62,25 +62,32 @@ Note: Prototypes are responsive
  * [Prototype A (no icons)](https://000698568.codepen.website/results.html) 
  * [Prototype B (with icons)](https://codepen.io/figaro/project/live/AqoeoW)
 
+##### Mobile A:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/fb9242d2-784d-4e38-a9fe-622d9fb607a6)
+
+##### Mobile B:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/30b080f5-2c99-4dfa-a22a-bfef8017a2d1)
+
 ## Key Findings
 
 1. The persistent-link navigation strategy (on both versions of desktop and on mobile B) was successful in helping users accomplish tasks within the four primary health tools without leaving My HealtheVet.
 
-2. Participants who started off with Mobile A went to the mega menu before finding the secondary nav.
+2. The navigation bar labels the experience and orients users to where they are and what they can expect.
 
-3. The persistent link strategy also enhances participants' overall sense of place in the portal.
+3. The navigation bar facilitates seamless movement between health tools.
 
-4. Participants that could not find what they were looking for within the four main tools did not necessarily think to go to the landing page.
+4. Despite improvements, collapsed menu navigation continues to fail our mobile users.
 
-5. Participants indicated that they do prefer a secondary nav that allows them to move seamlessly from tool to tool.
+5. 8/8 mobile participants found the persistent link nav to be “easier” and/or more “direct” than the collapsed menu.
+   
+6. Seeing the landing page earlier in a session helped Veterans find it later.
+   
+7. Tools at the bottom of the landing page can be difficult to find.
 
-6. Participants were disoriented when they came into My HealtheVet through a side door (a deep-link to a specific message). Most participants expected to arrive at an intermediary page.
+8. Entering MHV through a sidedoor (deep-link) was surprising to some participants.
 
-7. Familiarity with a landing page provides of sense of place that helps participants gain their bearing when they feel lost.
 
 ### Secondary Findings
-
-8. 100% of users exposed to the abbreviations in mobile prototype B knew what the abbreviations meant.
 
 9. Deep-linking participants into a tool's detail page revealed issues with current labeling.
 
@@ -92,7 +99,7 @@ Note: Prototypes are responsive
 
 ## Findings details 
 
-#### 1. The persistent-link navigation strategy (on both versions of desktop and on mobile B) was successful in helping users accomplish tasks within the four primary health tools without leaving My HealtheVet.
+#### 1. The persistent-link navigation strategy (on both versions of desktop and on mobile B) was successful in helping users accomplish tasks within the four primary health tools without leaving the portal.
  * While using a version of the secondary nav that offered persistent links, all 16 participants were able to stay within the portal and complete tasks 1 and 2, which asked them to locate tasks or information within Messages, Appointments, and Medical Records. 
    * P16: "The four major things that I'd use are right there."
    * P11: “"This is nice and easy. Much better than the current MyHealtheVet."
@@ -100,43 +107,43 @@ Note: Prototypes are responsive
 
 Note: Persistent-link nav was present on three versions of the two prototypes: Mobile B, Desktop A, and Desktop B. On Mobile A, there was a dropdown nav as opposed to persistent links. 
 
-##### Mobile A:
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/fb9242d2-784d-4e38-a9fe-622d9fb607a6)
+#### 2. The navigation bar labels the experience and orients users to where they are and what they can expect.
+ * Past studies have indicated that participants seem unaware of My HealtheVet as a cohesive portal where they can manage their healthcare. [My HealtheVet Secondary Nav Research - Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
+ * In this study, participants were able to understand quickly that they were within a space or container for health management, and used the navigation bar to identify and navigate to the four primary health tools from whatever page they were on.
 
-##### Mobile B:
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/30b080f5-2c99-4dfa-a22a-bfef8017a2d1)
+#### 3. The navigation bar facilitates seamless movement between health tools.
+* For My HealtheVet users that aim to complete tasks using more than one health tool, the navigation bar is a significant improvement over current secondary navigation designs on VA.gov.
+* Those that do not usually use more than one health tool would be more likely to, as this type of nav helps diminish participant anxiety that they’ll get lost on the site.
+   * P15: "In secure messaging, the way I do it now, or the way I have done it, in secure messaging, you're only in secure messaging. So then you have to exit secure messaging to get back to My HealtheVet where all the options are. So I like that I can just go straight from reading the email [message] and then okay, let me just go up here and click appointments. It's a lot more streamlined because it's right there. I don't have to go looking, okay now where do I find that again?"
+   * P3: "I like that roaming bar that goes with you. I don't have to go backwards and forwards; I can just click on whatever I want; I can go from records to appointments to meds, and not have to go to a dropdown menu and scroll; there's also not as much scrolling."
 
+#### 4. Despite improvements, collapsed menu navigation continues to fail our mobile users
+ * When using mobile A first, all participants responded to task 1 by going to the mega menu (a strategy we’ve seen in past studies). When using mobile B first, all participants started with the secondary nav within My HealtheVet.
+ * The persistent link secondary nav guided participants to behave differently than they have in other studies (they stayed in the portal instead of leaving using global nav), while the dropdown encouraged participants to continue to leave the portal when seeking health mgmt tools.
 
+#### 5. 8/8 mobile participants found the persistent link nav to be "easier" and/or more "direct" than the collapsed menu
+  * No participants hesitated or expressed any confusion around the abbreviations used within the mobile persistent link nav.
+  * These abbreviations were designed to be seen only by those with the smallest screen sizes (under 400 px wide) but we used them in every mobile test to collect data on whether or not they are commonly known.
 
-#### 2. Participants who started off with Mobile A went to the mega menu before finding the secondary nav.
- * This behavior matches that seen in other secondary navigation studies, in which participants have a negative experience getting lost in VA.gov and return via circuitous routes, [My HealtheVet Secondary Nav Research - Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
- * Ultimately, it appears that participants used whichever navigation strategy stuck out to them the most (in other words, the most visually salient option).
- * **As a result all 8 participants that interacted with mobile versions of the prototypes found Mobile B to be an easier and/or more direct navigation strategy.**
+#### 6. Seeing the landing page earlier in a session helped Veterans find it later
+  * Since the study had participants enter directly into a secure message, only a few participants discovered the home page’s existence before they needed it (these participants happened to click on breadcrumbs during an earlier task).
+  * When a task did not fall neatly into one of the four tool categories, the majority of participants ended up going back to the global nav strategies instead of seeking a main page (our landing page).
+  * However, this did not hold true for participants who had any familiarity with the landing page. Just knowing that the page was there seemed to help them consider checking it before going to global navigation.
+  *  
+   * P17: "That [task] was a little more difficult [...]. I'd have to know that I needed to go back to the main screen to [find CPAP].”
 
-#### 3. The persistent link strategy also enhances participants' overall sense of place in the portal.
- * The prototypes differed from each other most in their mobile versions; mobile A showing a dropdown navigation that participants have to open to use and mobile B showing all links all the time. When using mobile A first, all participants responded to task 1 by going to the mega menu (a strategy we’ve seen in past studies). When using mobile B first, all participants started with the secondary nav within My HealtheVet.
- * The persistent link secondary nav helped participants change a known strategy that offers a poor UX and conflates the portal with the greater VA.gov website, in favor of a strategy that keeps them within the portal for health-management tasks, giving them a permeable container to navigate in, and navigate out of if they decide to.
-
-#### 4. Participants that could not find what they were looking for within the four main tools did not necessarily think to go to the landing page.
- * Across all devices and prototype designs, almost all participants repeatedly struggled with Task 3 in our study, which asked users where they would be able to re-order CPAP supplies or file for travel reimbursement (both requiring participants to find the landing page for the first time).
+#### 7. Tools at the bottom of the MHV landing page can be difficult to find (even for those who do make it to the landing page).
+ * Across all devices and prototype designs, almost all participants struggled with Task 3 in our study, which asked users where they would be able to re-order CPAP supplies or file for travel reimbursement (both requiring participants to find the landing page for the first time).
  * For example, 13/18 participants thought they’d find CPAP re-ordering under Medications. When we asked them where else they might look, participants were unsure and most went to the mega menu as their second option.
  * As more tools and features are added to the landing page, this problem is bound to grow unless we find creative ways to help participants go to or return to the landing page (outside of simply adding a link in the secondary nav).
  * More related to this in findings 10, 11, and 12
 
-#### 5. Participants indicated that they do prefer a secondary nav that allows them to move seamlessly from tool to tool.
- * While we recognize that it is possible for users to come to the portal to complete 1 task only, moving seamlessly between tools is a significant improvement in experience for those expecting to use more than 1 tool. 
-   * P15: "In secure messaging, the way I do it now, or the way I have done it, in secure messaging, you're only in secure messaging. So then you have to exit secure messaging to get back to My HealtheVet where all the options are. So I like that I can just go straight from reading the email [message] and then okay, let me just go up here and click appointments. It's a lot more streamlined because it's right there. I don't have to go looking, okay now where do I find that again?"
-   * P3: "I like that roaming bar that goes with you. I don't have to go backwards and forwards; I can just click on whatever I want; I can go from records to appointments to meds, and not have to go to a dropdown menu and scroll; there's also not as much scrolling."
- * Based on this study, we also posit that users will be encouraged to do more on My HealtheVet when they have a secondary nav that offers persistent links to the four main tools.
-
-#### 6. Participants were disoriented when they came into My HealtheVet through a side door (a deep-link to a specific message). Most participants expected to arrive at an intermediary page.
+#### 8. Entering MHV through a sidedoor (deep-link) was surprising to some participants.
  * When explaining where they’d expect to land before the message screen, participants used the following words: dashboard, buffer, main landing page, menu, main hub, home screen, and home page.
  * This could be due to the way the study was set up, including  the design of the message detail page, that caused confusion when participants landed there (more in finding 9).
 
-#### 7. Familiarity with a landing page provides of sense of place that helps participants gain their bearing when they feel lost.
- * Multiple participants named returning “home” as an important strategy in getting their bearings if they’re feeling lost on a site. The landing page can act as a sign post that allows participants to better understand where they are, and a familiar place to return to when lost.
-   * P15: “If I just can't find something or I get too far into like the menu tree, if I just click on that, it'll take me back to like a start page or homepage.”
-   * P1: "I see it as a way to get back to the beginning. Like, if you get caught up in some stuff you're not sure where you are."  
+
+
 
 ## Secondary Findings
 
@@ -153,7 +160,8 @@ Note: Persistent-link nav was present on three versions of the two prototypes: M
    * P11: “I found it more confusing because I thought I was in My HealtheVet, so why would I be clicking on My HealtheVet? Did I go out of My HealtheVet?" 
    * P16: “Basically it’s  telling me the subject of what’s in that block.”
 
-#### 11. While participants did see "home " as clickable in both desktop and mobile prototypes A, they often did not think to go there unless they had seen the landing page before by clicking a breadcrumb (which was relatively rare)
+#### 11. Seeing the home page early in a session helped Veterans find it later for tasks that required it.
+ * Since the study had participants enter directly into a secure message, only a few participants discovered the home page’s existence before they needed it (these participants happened to click on breadcrumbs during an earlier task).
    * P17: "That [task] was a little more difficult [...]. I'd have to know that I needed to go back to the main screen to [find CPAP].”
 
 #### 12. For participants that did make it to the home page, locating the CPAP re-ordering link and/or the travel pay link was not a given.
@@ -163,9 +171,15 @@ Within the portal, they are suppressed in more than one way: they’re not prior
    * P9: Seemed to accidentally hit breadcrumbs while talking to the moderator; scrolls around the landing page. Moderator again asks her where she’d look for CPAP re-ordering: “I’m still thinking Medications.”
  * This is problematic. The BTSSS Travel team just identified in a tree-testing study that the My HealtheVet landing page has the highest signal as a destination where VA.gov users expect to be able to file for travel pay, [Status Visibility IA Study - Jan 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/084b74d92d44f3170ab53fc4e53c002b4b105918/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
+#### 7. Familiarity with a landing page provides a sense of place that helps participants gain their bearing when they feel lost.
+ * Multiple participants named returning “home” as an important strategy in getting their bearings if they’re feeling lost on a site. The landing page can act as a sign post that allows participants to better understand where they are, and a familiar place to return to when lost.
+   * P15: “If I just can't find something or I get too far into like the menu tree, if I just click on that, it'll take me back to like a start page or homepage.”
+   * P1: "I see it as a way to get back to the beginning. Like, if you get caught up in some stuff you're not sure where you are."
+  
+   
 ## Recommendations
 
-#### Implement a persistent-link secondary nav bar on My HealtheVet (akin to the design in Prototype B) including needed changes that were surfaced as part of this research
+#### Implement a persistent-link secondary nav bar throughout the MHV portal (akin to the design in Prototype B) including needed changes that were surfaced as part of this research
   * Include both a label for the nav bar (My HealtheVet) as well as a clear link to the landing page. Our hypothesis is that “home” link text with the icon of a house will drive more Veterans to the landing page versus an underlined “My HealtheVet” link text.
   * Highlight within the nav bar the user’s current location to aid in faster and easier orientation.
   * Make changes to code to better support screen reader users; in particular, screen readers should read out the full word when there are abbreviations, instead of sounding out the abbreviations.
@@ -261,3 +275,16 @@ Disability and Assistive Technology (AT) (Requested 1 screenreader user and 1 pi
 * Desktop screen reader: 1
 * Mobile screen reader: 1
 * Magnification/Zoom: 2
+
+
+
+
+ * Past studies have indicated that participants seem unaware of My HealtheVet as a cohesive portal where they can manage their healthcare. [My HealtheVet Secondary Nav Research - Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
+ * Ultimately, it appears that participants used whichever navigation strategy stuck out to them the most (in other words, the most visually salient option).
+ * **As a result all 8 participants that interacted with mobile versions of the prototypes found Mobile B (with icons and persistent links) to be an easier and/or more direct navigation strategy.**
+
+
+
+
+
+
