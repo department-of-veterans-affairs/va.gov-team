@@ -2,10 +2,6 @@
 
 This document contains process steps for onboarding with Sign-in Service. Each section maps to an issue in the [Github project template](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/2) we use to track new Sign-in Service integrations.
 
-**Please note:**
-
-keep the associated draft Github issue descriptions for each section up-to-date based on any revisions we make in this document.
-
 ---
 
 ## Conduct project planning
