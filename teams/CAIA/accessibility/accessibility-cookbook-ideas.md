@@ -11,3 +11,6 @@
 - **What is an accessible date picker?**: This can be a tricky component for assistive technology and was brought up by one of our researchers as a good thing to dig into more.
 - **Page titles**
 - **What does one thing per page mean?**
+- **Tools to do better research**
+- **Managing focus**
+- 
