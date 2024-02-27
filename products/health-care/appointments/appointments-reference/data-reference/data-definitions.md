@@ -167,3 +167,14 @@ VAOS Display Requirements:
 
 
 #### Veteran Contact Information
+
+
+## Appointments homepage
+
+### Default view - Upcoming 
+
+#### Upcoming list logic 
+
+Display the list of appointments: 
+
+#### Clinic Name
