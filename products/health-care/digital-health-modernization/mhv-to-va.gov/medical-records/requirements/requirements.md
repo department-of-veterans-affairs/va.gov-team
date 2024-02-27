@@ -643,7 +643,7 @@ Back button: Yes, `< Back to lab and test results`
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
 * [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
 
-### Download all medical records
+### Download all medical records (Blue Button Reports)
 <details>
 <summary>Requirements</summary>
 
@@ -667,6 +667,7 @@ Back button: Yes, `< Back to medical records`
 #### Functionality 
 * Ability to download all records available on MHV as a single PDF
 * Ability to download all records available on MHV as a single text file
+* Historical PGHD will be included in the downloaded medical records report. 
 
 ---
 </details>
