@@ -32,6 +32,7 @@ Period - 02/28/2024 - 03/12/2024
    - [ ] Front-end - Widgets to Web components upgrade - radio buttons
    - [ ] Front-end - upgrading widgets to web components - checkbox
    - [ ] Architecture Diagram for 526
+   - [ ] Design - Delete button removes upload without user confirmation #59263
 
 ## Sprint 25
 Period - 02/14/2024 - 02/27/2024
