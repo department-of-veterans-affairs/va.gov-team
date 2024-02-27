@@ -185,7 +185,7 @@ After signing in using the prototype, about **a third of the participants** (6 o
 After signing in, **half of the participants (9 of 19) had difficulty finding the Auth menu**. 
 - On mobile, the Auth menu was located *under their name within the mobile header menu*. **5 of 8 phone users** didn't try to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
 
-- On desktop, the Auth menu was *under their name in the top right corner of the page.  **4 of 11 desktop users** didn't try to click on their name. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). Another participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
+- On desktop, the Auth menu was under their name in the top right corner of the page.  **4 of 11 desktop users** didn't try to click on their name. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). Another participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
 
 After finding and opening the Auth menu, ALL participants recognized and clicked on Profile, which was the correct navigation path. However, 2 participants wondered aloud if they should try My VA instead (which didn't work in the prototype).
 
@@ -297,8 +297,7 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 
 ### A. Content feedback to consider
 #### Specific to the footer
-1. See **Footer issue #X** above: Four participants (2 desktop, 2 mobile) **looked for *Find a VA Location* in the blue VA footer**.
-1. See **Footer issue #X** above: Three participants (all desktop) said that the **blue VA footer is too large**.
+1. See all **feedback in the footer section above** *(4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer).*
 1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
 1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
@@ -308,7 +307,7 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 
 
 #### Non-footer feedback
-1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
+8. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (AT p7).*
 1. One participant **wanted to see an "email us" option on the Contact page**.
 1. On the prototype first page, one participant was **confused by the life insurance wording: "Our life insurance needs calculator"** and "use the life insurance needs calculator" because they thought there was a typo in the content. They appeared to be interpreting the word "needs" as a verb instead of as a noun.
