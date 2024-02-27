@@ -15,8 +15,7 @@
    - [Transitioning to SiS](#transitioning-to-sis)
 -  [Troubleshooting and Support](#troubleshooting-and-support)
    - [Support Access](#support-access)
-- [Data Access](#data-access)
-   - [Self-Service Monitoring](#self-service-monitoring)
+- [Data and Monitoring](#data-and-monitoring)
 - [Authorize and Authenticate](#authorize-and-authenticate)
    - [Tokens](#tokens)
 - [Additional Resources](#additional-resources)
@@ -89,33 +88,21 @@
 
 -----------------
 
-## Data Access
+## Data and Monitoring
 
 |  |  | 
 | --- | --- | 
-| **From which services does SiS ultimately pull user data? When we used IAM, the user data came from MPI. Is this still the case?** | *Yes, we still use MPI for user data retrieval.* |
+| **What tools are available for monitoring my integration?** | *The Identity team monitors the authentication component of your integration 24 hours a day. We also provide a link to [DataDog dashboards](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-4f055ee542bdd6c1be6930ea45fa135e) so you can monitor performance and see some usage data.* |
 | | |
-| **Can SiS help contextualize a sign-in problem using data?** | *We have data in DataDog that can be broken down by # of authentication attempts, credential type (e.g. ID.me), `user_agent` values, and more. Some data will need to be worked into the format most useful for your needs.* | 
-
-| What's in Datadog? | 
-| --- | 
- - Failed login attempts by method (e.g., Android, iOS, Google SSO) 
- - Long-term unique user data 
- - Most popular sign-in option on device 
- - Number of unique users, volume, by day/week/month
- - Sign-in type breakdown (ex. ID.me)
-
------------------
-
-- ### Self-Service Monitoring
-
-|  |  | 
-| --- | --- | 
-| **What self-service tools are available to monitor the performance of authentication on my new app setup?** | *We will share a DataDog link with you to monitor the authentication components of your application. The Identity team will also monitor these metrics 24 hours a day and respond to any outages of the authentication components as they happen.* |  
+| **What details can I see in Datadog?** | *Failed login attempts by method (e.g., Android, iOS, Google SSO)* |         
+| | *Long-term unique user data* |
+| | *Most popular sign-in option on device* |
+| | *Number of unique users, volume, by day/week/month* |
+| | *Breakdown by Sign-in type (ex. ID.me) and `user agent`* |
 | | |
-| **Are visual dashboards available to answer questions like "What is the most popular sign-in option for the mobile app?"** | *We have [DataDog dashboards](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-4f055ee542bdd6c1be6930ea45fa135e) that are likely to show you most of your requested information. We are careful to ensure data is presented consistently across dashboards.* |
+| **Does SiS use MPI for user data?** | *Yes, SiS uses MPI.* |
 | | |
-| **Are there any other self-service monitoring tools available?** | *You can find a list of other solutions on the [Plaform documentation site](https://depo-platform-documentation.scrollhelp.site/developer-docs/).* | 
+| **Are there any other self-service monitoring tools available?** | *You can review additional monitoring tools for your application on the [Plaform documentation site](https://depo-platform-documentation.scrollhelp.site/developer-docs/).* |
 
 -----------------
 
