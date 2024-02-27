@@ -11,9 +11,9 @@ We are about to do an audit in cooperation with VBMS to determine the success of
 This work *does not* add any transition validation to the state machine.  That would be out of scope for MVP, and dangerous to roll out as it could cause errors in the submission flow.  MVP is to simply add the datapoint, unblocking our audit of VBMS.
 
 ## Implementation
-## POSSIBLE LIFECYCLES:
+### POSSIBLE LIFECYCLES:
   
-Primary path:
+#### Primary path:
   - Without polling
     - Happy path
       - unprocessed > (submission action)
@@ -31,7 +31,7 @@ Primary path:
         - failed_primary_delivery
         - delivered_to_primary > (polling action)
           - rejected_by_primary
-Backup paths: (polling is required in all cases)
+#### Backup paths: (polling is required in all cases)
   - Happy path
     - failed_primary_delivery || rejected_by_primary || unprocessed || failed_backup_delivery || rejected_by_backup > (submission action)
       - delivered_to_backup > (polling action)
