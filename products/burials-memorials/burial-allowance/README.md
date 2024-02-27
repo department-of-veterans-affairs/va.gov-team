@@ -1,9 +1,34 @@
-# Product Outline: Application for Burial Benefits (Form 530EZ)
+# Product Outline: Application for Burial Benefits (Form 21-530EZ)
 *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 The online burial 530EZ form and the pension 527EZ form were developed and released together. See [this readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/2019%20files/README.md).
 
+## Overview
 VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals to apply for compensation to help cover burial, funeral, and transportation costs.
+
+- [About VA Form 21-530EZ](https://www.va.gov/burials-memorials/veterans-burial-allowance/) 
+- [Online form tool](https://www.va.gov/burials-and-memorials/application/530/introduction)
+- [Form flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1694615398728&sender=u934f98f179a86c76e6ee9592)
+- [Wireframes (Sketch)](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=174-43726&mode=design)
+
+---
+## Desired User Outcomes
+
+- The online form flow submits information that can be successfully processed by downstream systems
+- Claims that fail to submit are successfully processed through a backup submission flow
+- Veterans have a positive experience when completing the online form
+- Veterans do not encounter accessibility issues with completing the online form
+
+## Undesired User Outcomes
+- Online claims experience processing delays
+- Veterans find the form experience confusing, frustrating, or too cumbersome
+- Online claims are lost
+
+## Desired Business Outcomes
+- Online form submissions can be successfuly processed by downstream systems
+
+## Undesired Business Outcomes
+- Online form submissions generate claim errors that prevent automated processing 
 
 ---
 
