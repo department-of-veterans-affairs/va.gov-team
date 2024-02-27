@@ -88,6 +88,8 @@ While a website or digital tool can serve as a resource, it would not completely
   - Confusion about this process came up in the research we reviewed, and is a frequent topic in research studies. ([Feedback on the sign-in process from participants across many studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Identity%20topics%20from%20unrelated%20studies.md))
   - People need to sign in to complete many core benefit tasks; helping reduce friction with this step will likely help people onboard.
 
+One important thing to note is that most of these things could be present in both an unauthenticated _and_ authenticated state. 
+
 ### Other VA.gov teams, and the mobile team, haven’t done a lot with an onboarding UX yet.
 We reached out to various teams in Slack to see if anyone has explored onboarding.
 - The mobile team has 4 screens that serve as a light “onboarding” flow. The screens function as a list of things the app does (as opposed to onboarding/teaching about features contextually or helping them get the app set up the best way for them). Their research ([pdf, page 10 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Flagship%20Mobile%20App%20Retention%20-%20Insights%20from%20App%20Analytics%20(August%2015%2C%202023)%207.37.42%20AM.pdf)) suggests:
