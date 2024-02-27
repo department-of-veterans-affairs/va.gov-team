@@ -93,20 +93,24 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ## Hypotheses and Conclusions
 1. Veterans (and others) will be able to easily use the header and footer. 
+     - MOSTLY TRUE: Wayfinding wasn't adversely affected by the header and footer design. However, half of the participants had difficulty finding the Auth menu.
 
 1. Veterans (and others) won’t have any difficulty reading any of the text shown in the prototypes. 
+     - MOSTLY TRUE: The participants who were able to read the text in the prototype without a screen reader didn't mention any difficulty reading any of it. One participant who uses a screen magnifier said that he would prefer a larger font.
 
 1. Veterans (and others) who use assistive technology (screen reader or screen magnification software) will be able to easily use the header and footer. 
+     - FALSE: There were a number of accessibility problems that affected task completion by participants using screen readers.
 
 1. The new VA seal helps Veterans (and others) understand this is a VA website. 
-    - TRUE: All participants noticed the VA seal and the text "U.S. Department of Veterans Affairs", which were sufficient to recognize the site as pertaining to the VA.
+    - TRUE: All participants noticed the VA seal along with the text "U.S. Department of Veterans Affairs", which were sufficient to recognize the site as pertaining to the VA.
 
 1. Veterans (and others) will be able to easily find the authenticated menu when it’s integrated with the main menu in the mobile header. 
 
+    - FALSE: 5 of 8 mobile users didn't try to click on the Menu button because they were looking for their name or something like "My profile" at the top of the screen.
+
 1. The new USA logo mark helps Veterans (and others) understand this is a Federal government website. 
 
-1. 
-    - MOSTLY TRUE: 
+    - FALSE: More than half of the participants said that they would look at the URL to see if it's .gov, and others would tell by the VA seal. More than half of the participants who could see the federal USA logo had negative impressions of it, including some who thought it looked fraudulent, fake, or like phishing.
      
 
 
@@ -179,9 +183,9 @@ The 9 participants that we talked with each used their assistive technology in d
 After signing in using the prototype, about **a third of the participants** (6 of 19, which was 4 on mobile and 2 on desktop) **didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
 
 After signing in, **half of the participants (9 of 19) had difficulty finding the Auth menu**. 
-- On mobile, the Auth menu was located *under their name within the mobile header menu*. **5 of 8 phone users** didn't think to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
+- On mobile, the Auth menu was located *under their name within the mobile header menu*. **5 of 8 phone users** didn't try to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
 
-- On desktop, the Auth menu was *under their name in the top right corner of the page.  **4 of 11 desktop users** didn't think to click on their name. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). Another participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
+- On desktop, the Auth menu was *under their name in the top right corner of the page.  **4 of 11 desktop users** didn't try to click on their name. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). Another participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
 
 After finding and opening the Auth menu, ALL participants recognized and clicked on Profile, which was the correct navigation path. However, 2 participants wondered aloud if they should try My VA instead (which didn't work in the prototype).
 
@@ -269,7 +273,7 @@ After each research session, the moderator reviewed all of the participant's com
 ![sentiment-logos](./images/sentiment-logos.png)
 
 
-17 of the 19 participants were asked **how they recognize that this is an official government website** (the other 2 participants were not asked due to lack of time). More than half of the participants (11 of 17) said that they would **look at the URL to see if it's *https* and *.gov*** because the words and graphics could be a fake copy. Participants also mentioned other features of the page:
+17 of the 19 participants were asked **how they recognize that this is an official government website** (the other 2 participants were not asked due to lack of time). More than half of the participants (11 of 17) said that they would **look at the URL to see if it's *.gov*** because the words and graphics could be a fake copy. Participants also mentioned other features of the page:
   - **VA seal** (12 participants)
   - ***U.S. Department of Veterans Affairs* in the header** (8)
   - "**An official website of the U.S. Department of Veterans Affairs**" in the footer (5)
