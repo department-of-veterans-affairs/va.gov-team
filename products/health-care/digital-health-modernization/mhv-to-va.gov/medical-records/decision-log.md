@@ -4,6 +4,20 @@ Please log key decisions related to the below practice areas, including date, wh
 
 # Medical records design decisions
 
+## Feb 27, 2024
+### State of product
+* Phase 0
+* Domains included: Allergies, Vaccines, [NEW] Care summaries and notes
+
+### General product design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+|Veterans will *not* have the ability to enter new data into their medical record as they are able to in MHV today.| OCC is working on new ways for Veterans to enter data (web + mobile). Where/how this data will be viewed is TBD. If they are able to print/download historically entered data in that view is still TBD.|
+| MHV on va.gov will continue to have the "Blue Button" concept, which will combine all historcial information, including prior self-entered data. |This will not include newly entered data via OCC web + mobile pathways.|
+| MHV on va.gov will point to the OCC web + mobile self-entry paths that are being built. |This will not include newly entered data via OCC web + mobile pathways that are being built.|
+
+Decisions made on OCC/OCTO Leadership meeting with Dr. Josephs, Theresa Hancock, Shawn Hardenbrook (OCC), Lauren Alexanderson, Marci Mcguire and Kaitlin Fink.
+
 ## Feb 24, 2024
 
 ### State of product
