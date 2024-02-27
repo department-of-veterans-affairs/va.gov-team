@@ -19,6 +19,7 @@
 - VEO = Veterans Experience Organization
 - VCM = Virtual Care Manager (which is the staff-facing application)
 - VMR = Virtual Medical Room
+- VPG = vets-api Patient Gateway
 - VSE for CS = VistA Scheduling Enhancements for Clinical Staff (provider patient tracking)
 - VSE or VSE GUI = VistA Scheduling Enhancements (staff-facing patient tracking)
 - VTP = Veterans Transportation Program
