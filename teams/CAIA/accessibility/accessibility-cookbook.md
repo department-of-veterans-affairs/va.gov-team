@@ -22,3 +22,32 @@ While there isn't a strict template to follow when adding a recipe to the cookbo
 - Date recipe was added/last updated
 
 *** 
+
+## Headings accessibility best practices
+
+Headings are one of the most used HTML elements on pages, and they play a vital role for a page's understandability, scannability and navigation for screen readers.
+
+### Accessibility problem being solved
+
+How might we create a heading structure on pages and forms that help everyone, particularly people who use screen readers, get oriented to the page and navigate around it.
+
+### Ideal state
+
+- Pages should have one `<h1>` heading that covers the topic of the content.
+- Heading levels shouldn't skip levels, only increasing by one level.
+- HTML elements and/or CSS styling for bold, italics and font sizing aren't used in place of headings.
+- Headings are informative and don't repeat information available in other headings.
+- Headings aren't stacked, meaning one heading level followed by another. For example, a `<h1>` followed immediately by a `<h2>`.
+
+### Implementation notes
+
+- Headings should be hierarchical, meaning arranged in order from most important to least important.
+
+### Further reading
+
+- [W3C page structure tutorial](https://www.w3.org/WAI/tutorials/page-structure/headings/)
+- [Accessible heading structure](https://www.a11yproject.com/posts/how-to-accessible-heading-structure/)
+
+### Last updated
+
+2/27/24
