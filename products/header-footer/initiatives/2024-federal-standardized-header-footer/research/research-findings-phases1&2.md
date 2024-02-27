@@ -280,6 +280,7 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 ## Additional Insights
 
 ### A. Content feedback to consider
+#### Specific to the footer
 1. See **Footer issue #X** above: Four participants (2 desktop, 2 mobile) **looked for *Find a VA Location* in the blue VA footer**.
 1. See **Footer issue #X** above: Three participants (all desktop) said that the **blue VA footer is too large**.
 1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
@@ -287,6 +288,10 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
 1. One participant **wanted to see information specifically for seniors** or geriatrics since there are already so many other links for other kinds of Veterans. He would like to see information on activities for seniors (e.g., day programs, the Senior Olympics) and medical links (e.g., how to get tested for Alzheimers). He said *"I feel discriminated against" (AT p9).*
 1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identities, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
+1. One participant **wanted the White House VA Hotline** to be included in the footer.
+
+
+#### Non-footer feedback
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (AT p7).*
 1. One participant **wanted to see an "email us" option on the Contact page**.
