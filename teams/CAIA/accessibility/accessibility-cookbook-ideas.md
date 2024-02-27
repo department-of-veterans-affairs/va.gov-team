@@ -9,8 +9,7 @@
 - **Alert best practices**: Where does the focus state start? How to announce alerts to screen readers? What are examples of accessible wording for alerts? When should we use alerts? Where do we place these alerts?
 - **Forms mode vs browse mode**: How do these work in screen readers and how does it effect the experience?
 - **What is an accessible date picker?**: This can be a tricky component for assistive technology and was brought up by one of our researchers as a good thing to dig into more.
-- **Page titles**
-- **What does one thing per page mean?**
-- **Tools to do better research**
-- **Managing focus**
-- 
+- **Page titles**: How do page titles help with accessibility?
+- **What does one thing per page mean?**: How much content is one thing?
+- **Tools to do better research**: Help teams do better research with people with disabilities.
+- **Managing focus**: How to manage focus in an accessible way.
