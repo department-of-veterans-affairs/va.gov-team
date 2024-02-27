@@ -1,4 +1,4 @@
-# Documentation for User Steps
+# Sign-In Service Step-by-Step Guide
 
 This document contains process steps for onboarding with Sign-in Service. Each section maps to an issue in the [Github project template](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/2) we use to track new Sign-in Service integrations.
 
@@ -14,9 +14,8 @@ Integrating with Sign-in Service provides your application with robust authentic
 
 - Document use case
 - Define timelines and scope of project
-- Conduct risk planning
-- Conduct cost/benefit analysis
 - Get stakeholder approval
+- To learn more about planning your project feel free to check out the [Sign-In Service FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ.md) . 
 
 To get started, we’ll need the following information from your team:
 
