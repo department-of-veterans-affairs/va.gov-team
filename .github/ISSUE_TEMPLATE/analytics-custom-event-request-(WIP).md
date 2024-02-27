@@ -18,7 +18,7 @@ Please reach out to the **#_vfs-analytics_** Slack channel if there are any ques
 ---
 
 ### Instructions:
-- **Step 1:** Download [this Excel file](https://github.com/department-of-veterans-affairs/va.gov-team/files/14388789/TEMPLATE.-.Custom.GA.Events.-.TEAM.NAME.HERE.xlsx). _(If you are unable to access Excel, please use [this Google Sheet](https://docs.google.com/spreadsheets/d/1G6edvaxWTRTIybbtP6uC7CE-wDkWpIH4bNqQywFhSRs/edit#gid=0))._
+- **Step 1:** Download [this Excel file](https://github.com/department-of-veterans-affairs/va.gov-team/files/14388789/TEMPLATE.-.Custom.GA.Events.-.TEAM.NAME.HERE.xlsx). _(If you are unable to access Excel, please use [this Google Sheet](https://docs.google.com/spreadsheets/d/1G6edvaxWTRTIybbtP6uC7CE-wDkWpIH4bNqQywFhSRs/edit?usp=sharing))._
 - **Step 2:** Follow the instructions on the spreadsheet, filling out all required information on the two tabs:
     - Instructions & Team Info
     - Custom Events
