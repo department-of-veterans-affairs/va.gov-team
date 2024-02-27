@@ -34,7 +34,7 @@ How might we create a heading structure on pages and forms that help everyone, p
 ### Ideal state
 
 - Pages should have one `<h1>` heading that covers the topic of the content.
-- Heading levels shouldn't skip levels, only increasing by one level.
+- Heading levels shouldn't skip levels, only increasing by one level (h1 to h2, for example).
 - HTML elements and/or CSS styling for bold, italics and font sizing aren't used in place of headings.
 - Headings are informative and don't repeat information available in other headings.
 - Headings aren't stacked, meaning one heading level followed by another. For example, a `<h1>` followed immediately by a `<h2>`.
