@@ -1,5 +1,5 @@
 # SPRINT GOALS (aka SPRINKLES) 
-🟦 BE 🟩 FE 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
+🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
 <summary>FUTURE SPRINT - 3/20/2024 - 4/2/2024 </summary>
@@ -61,7 +61,8 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
-    - **Sub Goal: Create Travel Claims vets-api Library** 
+    - **Sub Goal: Create Travel Claims vets-api Library**
+    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
 - NONE
@@ -93,7 +94,6 @@ ________________________________________________________________________________
     - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
     - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
     - 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75446)
-    - 🟩 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
     - **Sub Goal: Create Travel Claims vets-api Library**
         - 🟦 [[BE] Implement submit_claims method in BTSSS service library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75500)
         - 🟦 [[BE] Implement token method in BTSSS Service Library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75499)
@@ -102,6 +102,8 @@ ________________________________________________________________________________
         - 🟦 [[BE] Modify devops repo for travel claims secrets & VA Notify template IDs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75497)
         - 🟦 [[BE] vets-api BTSSS lib: create an exception class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65814)
         - 🟦 [[BE] vets-api BTSSS lib: create a redis client class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65815)
+    - **Sub Goal: DevOps Improvements**
+        - 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 
 ------- END FUTURE / TENTATIVE ------
 </details>
@@ -118,6 +120,7 @@ ________________________________________________________________________________
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
+    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
 - NONE
@@ -168,7 +171,8 @@ ________________________________________________________________________________
     - ✔️ 🟩 [[CHIP][BUG] Resolve emfile errors in pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75182)
     - 🟥 [[Design] Update margins for auto-layout and apply to Figma frames #75890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75890)
     - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
-    - 🟩 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+     - **Sub Goal: DevOps Improvements**
+        - 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 ______________________________________________________________________________________________________________________________________________________
 
 ## 2/7/2024 - 2/18/2024 - LAST SPRINT OF THE BAH CONTRACT
