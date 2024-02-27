@@ -88,7 +88,7 @@ VI. **Patient Appointment Restrictions**
 <summary>Planning/documenting</summary>
 
 - [Scheduling problem statements](https://docs.google.com/presentation/d/1YtBj0Vs2ne3eH-nz9wRyfEZ0tQ1ns99j3cQSn4xl8Ss/edit?usp=sharing)
-- [Plan: Enable VA.gov appointment management for Veterans at Oracle Health facilities](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)
+- [UX Plan: Scheduling improvements](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)
  
 
 </details>
