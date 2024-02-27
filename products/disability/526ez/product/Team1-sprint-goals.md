@@ -17,15 +17,15 @@ Period - 02/28/2024 - 03/12/2024
         -  Restart staggered release
    - 526ez sync with paper version 
        - Toxic Exoposure 
-           - [ ] Design - Update mock-ups for radio buttons 2,3 and 4
+           - [ ] Design - Update mock-ups/content for radio buttons 2,3 and 4
            - [ ] Design - Update documentation from mid-point review
            - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
        - Audit for 526ez for all paper to digital form changes
           - Determine next steps for discrepancies 526 and 4142 - Continue
-       - Audit for ancillary form - 0781 and 0781a
 
 - **Other**
    - [ ] Team goal - Piroritization for what's next
+   - [ ] Analytics - continued
    - [ ] Research - Presentation on Shadow Research for Benefits Portfolio design team 
      
 - **Stretch Goals**
