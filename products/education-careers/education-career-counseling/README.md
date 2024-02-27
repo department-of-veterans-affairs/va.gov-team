@@ -64,7 +64,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Complete form component audit to ensure all design system components are up-to-date
 
 ### Initiatives
-- [2024 Online form Updates]
+- [2024 Online form Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/education-career-counseling/Initiative-Brief-PCPG-Form-Updates.md)
 
 --- 
 
