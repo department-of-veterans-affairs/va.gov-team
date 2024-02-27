@@ -185,9 +185,15 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 **Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking. One participant commented that the black footer looks like a typical footer.
 
+****Half of the participants** (8 of 16 participants--5 desktop, 3 mobile) who were **asked about the Freedom of Information Act used search** and didn't find the *Freedom of Information Act (FOIA)* link in the black footer.
+
+  > *"I was not able to find that Freedom of Information Act right away, so I had to resort to the search bar" (non-AT p8)."*
+
 **Four participants (2 desktop, 2 mobile) looked for *Find a VA Location* in the blue VA footer**, which is not there in the prototype (but *is* there in Production). Two participants instead selected the *State Veterans Affairs Offices* link that enables you to pick a state and then go to that state's VA link (unmodernized page), which doesn't go to the Facility Locator. The third participant looked in 3 different columns of the blue footer before looking in the header instead. The fourth participant opened all the mobile footer accordions before trying the header. (*Note*: Research participants heard ALL user task prompts while they were at the top of one of the pages in the prototype, so the header and page content were visible but the footer was not, so they had to deliberately scroll down to the footer.)
 
 **Three participants (all on desktop) said that the blue VA footer is too large** and has too many links. 
+
+> *""It's a LOT down here...it's too much" (non-AT p4).*
 
 ### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
 
