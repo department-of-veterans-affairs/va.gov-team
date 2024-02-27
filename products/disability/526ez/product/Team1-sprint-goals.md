@@ -19,7 +19,7 @@ Period - 02/28/2024 - 03/12/2024
            - [ ] Design - Update documentation from mid-point review
            - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)  
        - Audit for 526ez for all paper to digital form changes
-          - Determine next steps for discrepancies for ancillary forms 4142, 4142a 
+          - Complete technical discovery to determine next steps for discrepancies for ancillary forms 4142, 4142a 
 
 - **Other**
    - [ ] Team goal - Piroritization for what's next
