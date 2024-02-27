@@ -10,18 +10,14 @@ Period - 02/28/2024 - 03/12/2024
       - PCIU 
         - [ ] Address prefill investigation - contd.
       - BRD (seperation locations endpoint)
-        -  Update DD Dashboard for monitoring release
-        -  Start canary launch if the Dashoboard is ready for monitoring
-      - Rated Disabilities
-        -  Sanity check with the new LH version
-        -  Restart staggered release
+        -  Update DD Dashboard for monitoring release - change what we are logging or where we flag it
    - 526ez sync with paper version 
        - Toxic Exoposure 
            - [ ] Design - Update mock-ups/content for radio buttons 2,3 and 4
            - [ ] Design - Update documentation from mid-point review
-           - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
+           - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)  
        - Audit for 526ez for all paper to digital form changes
-          - Determine next steps for discrepancies 526 and 4142 - Continue
+          - Determine next steps for discrepancies for ancillary forms 4142, 4142a 
 
 - **Other**
    - [ ] Team goal - Piroritization for what's next
@@ -33,6 +29,9 @@ Period - 02/28/2024 - 03/12/2024
    - [ ] Front-end - upgrading widgets to web components - checkbox
    - [ ] Architecture Diagram for 526
    - [ ] Design - Delete button removes upload without user confirmation #59263
+   - Rated Disabilities
+       -  Sanity check with the new LH version
+       -  Restart staggered release
 
 ## Sprint 25
 Period - 02/14/2024 - 02/27/2024
