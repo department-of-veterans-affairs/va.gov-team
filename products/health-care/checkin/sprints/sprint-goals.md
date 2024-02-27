@@ -15,13 +15,12 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
+    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- NONE
+- Change wording for wait time after checking in
   
 #### SPRINT TICKETS
-- **GOAL: Onboard New Team Members**
-    - Create Platform onboarding tickets for each
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76339)
@@ -69,8 +68,6 @@ ________________________________________________________________________________
 - NONE
   
 #### SPRINT TICKETS
-- **GOAL: Onboard New Team Members**
-    - Create Platform onboarding tickets for each
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Integrate with CERNER**
@@ -131,8 +128,6 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Onboard New Team Members**
-    - ✔️ [New VFS Team Member [ John Luo ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76322)
-    - [New VFS Team Member [ Eric Oliver ]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76320)
     - ✔️ [New VFS Team Member [ Nate Douglas ] ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76323)
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
