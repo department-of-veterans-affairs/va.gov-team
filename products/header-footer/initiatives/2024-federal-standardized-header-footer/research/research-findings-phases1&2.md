@@ -93,10 +93,16 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ## Hypotheses and Conclusions
 1. Veterans (and others) will be able to easily use the header and footer. 
+
 1. Veterans (and others) won’t have any difficulty reading any of the text shown in the prototypes. 
+
 1. Veterans (and others) who use assistive technology (screen reader or screen magnification software) will be able to easily use the header and footer. 
+
 1. The new VA seal helps Veterans (and others) understand this is a VA website. 
+    - TRUE: All participants noticed the VA seal and the text "U.S. Department of Veterans Affairs", which were sufficient to recognize the site as pertaining to the VA.
+
 1. Veterans (and others) will be able to easily find the authenticated menu when it’s integrated with the main menu in the mobile header. 
+
 1. The new USA logo mark helps Veterans (and others) understand this is a Federal government website. 
 
 1. 
@@ -111,7 +117,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 1. **Half of the participants had difficulty finding the Auth menu**, and a third of the participants didn't recognize that they were signed in.
 1. There was **confusion about what constituted the footer and the bottom of the page**, due to a long VA footer followed by a shorter federal footer.
 1. **More than half of the participants who could see the colored federal USA logo in the header had negative impressions** of it. Some of these participants preferred the white USA logo in the footer.
-1. **None of the participants mentioned missing the "VA" logo**. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA.
+1. **None of the participants mentioned missing the "VA" logo**. Everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which were sufficient to recognize the site as pertaining to the VA.
 
 
 ## Details of Findings 
@@ -276,7 +282,7 @@ After each research session, the moderator reviewed all of the participant's com
   One participant said that just because the website says "An official website of the U.S. Department of Veterans Affairs" doesn't mean that she will necessarily trust it.
  
 
-### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
+### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which were sufficient to recognize the site as pertaining to the VA
 
 Not a single participant said anything about the website missing the "VA" logo. **Everyone figured out that it was VA-related from the VA seal** and the text "U.S. Department of Veterans Affairs".
 
