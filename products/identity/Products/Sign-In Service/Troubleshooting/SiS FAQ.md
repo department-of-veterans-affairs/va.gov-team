@@ -51,7 +51,7 @@
 | | |
 | **Once we are set up, are we able to request a change in enforcement?** | *If you need to request enforcement after your project is set up, ping us in the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN).* | 
 | | |
-| **We need our app's MVP to have SiS configured for subdomain-specific sign in (i.e. blahexample.va.gov). Are both of these options documented? How much of these options can our team do internally?** | *For sign-in service on the backend, we can create a new configuration in a `test stack` (a test environment like staging) at any point, or you can work with it on `localhost`.* | 
+| **We need our app's MVP to have SiS configured for subdomain-specific sign in (i.e. yourteam.va.gov). Are both of these options documented? How much of these options can our team do internally?** | *For sign-in service on the backend, we can create a new configuration in a `test stack` (a test environment like staging) at any point, or you can work with it on `localhost`.* | 
 
 -----------------
 
@@ -70,7 +70,7 @@
 | | |
 | **We are testing a possible bug with a test user. How do we obtain additional test user credentials?** | *Let us know. We’ll DM you some test creds you can borrow for a few days.* | 
 | | |
-| **Can you assist with trouble accessing info in DataDog?** | *Sorry, you'll have to work on this issue within your team. If you need additional help, try the [Platform Support Channel](https://dsva.slack.com/archives/CBU0KDSB1).* |
+| **Can you assist with trouble accessing info in DataDog?** | *Sorry, you'll have to work on this issue within your team. If you need additional help, try the [Platform Support Channel]([https://dsva.slack.com/archives/CBU0KDSB1](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog).* |
 | | |
 | **Do we have to let you know if authentication in review instances break?** | *Yes please, we aren’t actively using review instances. If they break, you'll find out first.* | 
 
