@@ -23,7 +23,7 @@ While there isn't a strict template to follow when adding a recipe to the cookbo
 
 *** 
 
-## Headings accessibility best practices
+## Headings and accessibility best practices
 
 Headings are one of the most used HTML elements on pages, and they play a vital role for a page's understandability, scannability and navigation for screen readers.
 
