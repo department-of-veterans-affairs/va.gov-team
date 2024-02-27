@@ -27,6 +27,7 @@ ________________________________________________________________________________
     - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76339)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
+        - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
 - **GOAL: Address Usage Issues**
@@ -40,7 +41,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
-    - 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76339)
+    - 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75446)
     - ❗ 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)   
     - **Sub Goal: Create Travel Claims vets-api Library**
         - 
@@ -85,6 +86,10 @@ ________________________________________________________________________________
         - ❗ 🟩 [Midpoint Review - Accessibility Feedback - Modernized Check-in, eCheck-in, Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77000)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)   
+- **GOAL: Address Usage Issues**
+   - **Sub Goal: Change wording for wait time after checking in**
+        - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
+        - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)     
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
@@ -93,7 +98,6 @@ ________________________________________________________________________________
     - 🟥 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
     - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
-    - 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75446)
     - **Sub Goal: Create Travel Claims vets-api Library**
         - 🟦 [[BE] Implement submit_claims method in BTSSS service library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75500)
         - 🟦 [[BE] Implement token method in BTSSS Service Library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75499)
