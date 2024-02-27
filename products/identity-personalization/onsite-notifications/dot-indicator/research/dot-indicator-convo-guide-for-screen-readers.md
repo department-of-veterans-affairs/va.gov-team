@@ -59,18 +59,11 @@ Okay great, I can see your screen. By the way, we are using a tool called CodePe
 
 - What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
 
-- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**?
+- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**? (we won't use badge indicator test for screen readers, just ask about it)
   
 - How do you experience notifications on other websites and on your phone? Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
   
 - How do you think each of these notifications that are being read to you would no longer be there?
-
-### Move on to badge indicator
-
-Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly/3IeFwyU) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
-
-*User shares screen*
-
 
 ### Move on to slim alert banner
 
