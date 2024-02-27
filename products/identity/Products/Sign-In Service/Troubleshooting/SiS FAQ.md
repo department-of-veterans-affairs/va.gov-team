@@ -70,7 +70,7 @@
 | | |
 | **We are testing a possible bug with a test user. How do we obtain additional test user credentials?** | *Let us know. We’ll DM you some test creds you can borrow for a few days.* | 
 | | |
-| **Can you assist with trouble accessing info in DataDog?** | *Sorry, you'll have to work on this issue within your team. If you need additional help, try the [Platform Support Channel]([https://dsva.slack.com/archives/CBU0KDSB1](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog).* |
+| **Can you assist with trouble accessing info in DataDog?** | *Sorry, you'll have to work on this issue within your team. If you need additional help, try contacting [Platform Support](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog).* |
 | | |
 | **Do we have to let you know if authentication in review instances break?** | *Yes please, we aren’t actively using review instances. If they break, you'll find out first.* | 
 
@@ -135,6 +135,8 @@
 
 |  |  | 
 | --- | --- | 
+| **Where can we find more info on tokens?** | *Review our [token section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/endpoints/token.md).* |
+| | |
 | **What's the current TTL of SiS tokens in staging? A teammate mentioned that they still seem to expire quickly. Any plans of having them last longer?** | *The best practice for token timings in a public machine are 5 min for `access_token`, and 30 min for `refresh_token`. This is what we assume people use when they’re on the web. A potential future feature would allow a user to select ‘this is a private machine’ when they authenticate to let them use longer `refresh_token` expirations for that device.* |  
 | | |
 | **Is the `anti_csrf_token` generated on anything? Does it act as a `state` param that we can save and check against on `refresh` calls?** | *We will discuss this with you when you set up your config. We enforce this token on a per application basis. If you need to request enforcement after your project is set up, ping us in the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN).* |
