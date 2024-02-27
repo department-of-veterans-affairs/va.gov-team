@@ -59,11 +59,11 @@ The findings from this research show how the proposed header and footer design i
 
 We conducted **remote usability testing** over Zoom in 3 research phases to get feedback from participants using a design prototype showing VA.gov:
 
-Research Phase | Participants | Tasks | Dates | Topline Summary
------ |------|-------|--------|--------
-1 | 10 non-assistive technology users | Unauthenticated + authenticated | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
-2 | 9 assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
-3 | 4 assistive + 8 non-assistive technology users | Authenticated only | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
+Research Phase | Participants | Tasks | Design prototype tool | Dates | Topline Summary
+----- |------|-------|--------|--------|-------
+1 | 10 non-assistive technology users | Unauthenticated + authenticated | Figma | Dec 15-21, 2023 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
+2 | 9 assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | CodePen | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
+3 | 4 assistive + 8 non-assistive technology users | Authenticated only | CodePen | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
 This report will cover Phases 1-2 in detail. Phase 3 is covered in the third topline summary link above. Because the same participant numbers are reused in each research phase, references to specific participants in Phase 1 will be labeled as "**non-AT**" (not assistive technology users), and participants in Phase 2 will be labeled as "**AT**" (assistive technology).
 
@@ -241,6 +241,10 @@ Of the 11 participants who didn't like the colored USA logo in the header, **5 s
 
   > *"It's not some...scam website that at the top it looks cheesy to me...Looks very nice...at the bottom it's like a seal of approval, this is an official website...it just looks very good...it's simple. I like that. It's colorless. It has the eagle" (non-AT p4).*
 
+  However, one participant said that they didn't like it even in white: 
+  > *"It's got the same font as the red U.S.A. up at the top...I don't like that because it actually is divergent from the U and the A...They keep nice solid, thick lines throughout the letter, but this gets real skinny at the top and the bottom, and I'm not sure why they would choose to do that" (AT p4).*
+
+
 3 participants had **feedback on the white VA seal to the right of the white USA logo**.
 
   - 2 people had **difficulty seeing the details** of the white logo, noting that it's smaller than the colored version at the top of the page.
@@ -248,7 +252,7 @@ Of the 11 participants who didn't like the colored USA logo in the header, **5 s
       > *"If I blow it way up, I can see that...the poor eagle has a black head. And that wasn't the case at the top because it was colored right and eagles don't have black heads. [They have] white heads" (AT p4).*
    - 1 person wondered why it was the VA seal and not a US seal.
 
-After each research session, the moderator reviewed all of the participant's comments on the two USA logos and the VA seal, and then recorded whether their sentiment on each was positive, negative, or neutral. **Half of the 16 participants who commented on the logos were neutral**, and the **other half were mostly negative about the colored logo** in the header and **mostly positive about the white logo** in the footer. This is summarized in the table below.
+After each research session, the moderator reviewed all of the participant's comments on the two USA logos and the VA seal, and then recorded whether their sentiment on each was positive, negative, or neutral. **Half of the 16 participants who commented on the logos were neutral**, and the **other half were mostly negative about the colored logo** in the header and **mostly positive about the white logo** in the footer. This is summarized in the table below. An example of a participant making only neutral comments includes an AT participant who referred to the USA logo as "marketing" and said nothing else about it.
 
 ![sentiment-logos](./images/sentiment-logos.png)
 
@@ -262,6 +266,8 @@ After each research session, the moderator reviewed all of the participant's com
   - Veterans Crisis Line (2)
   - Blue menu bar and white background (1) 
   - "USA" logo in footer (1)
+
+  One participant said that just because the website says "An official website of the U.S. Department of Veterans Affairs" doesn't mean that she will necessarily trust it.
  
 
 ### 6. None of the participants mentioned missing the "VA" logo; everyone noticed the VA seal and the text "U.S. Department of Veterans Affairs", which was sufficient to recognize the site as pertaining to the VA
@@ -294,12 +300,15 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 - Tab down line-by-line to read every link from the top of the page down to the bottom. Also do it in reverse: tab up line-by-line to slowly get to the top of the page.
 - Use the mouse to point at what the screen reader should read (this participant had some vision, which he was able to use with a magnified screen)
 
+In order to be optimally accessible to screen readers, our websites need to support all of these methods of navigation.
+
  
  ### C. Contacting VA
- **5 of 9 participants** in phase 2 (who all use assistive tech) said that they **call the VA, rather than use the VA website** because it's easier for them.
+ **5 of 9 participants** in phase 2 (who all use assistive tech) said that they **call the VA, rather than use the VA website** because it's easier for them. It might take a lot to change this habit in the population of assistive tech users.
 
 ## Research methodology learnings
-1. 
+1. In phase 2 research, in order to keep research participants within the prototype, we created a dummy page that many links on the CodePen pages went to that said to wait for instructions. The problem we discovered during research sessions is that after a participant navigates to that page for the first time, all other links in the CodePen pages that go to that page say "visited link" instead of just "link" by screen readers—-thus falsely claiming that the user has visited multiple links that they haven’t. This confused 2 of our 5 screen reader users.
+
 
 ## All Recommendations
 Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
