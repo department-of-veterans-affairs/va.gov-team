@@ -30,7 +30,7 @@ Learn more about [authentication and authorization](https://auth0.com/docs/get-s
 ## How do I get started?
 
 Identity team works with you to customize your onboarding experience:
-- An Identity team member will contact you for basic details about your team and your application.
+- Submit your contact details and brief project description
 - Book a meeting with us to scope out the project based on your use cases.
 - Collaborate with our engineers to finalize requirements for the project.
 - After requirements are approved, it usually takes 1-2 sprints to complete the project.
@@ -67,13 +67,6 @@ Identity team provides documentation, validation guides, 1x1 meetings, and [offi
 __
 - __What are the requirements for using SiS?__
   - SiS works as an authentication solution for Veterans and their beneficiaries. It works with any application logging in or accessing these resources. 
-
-## Benefits of SiS
-- __Security:__ uses [OAuth 2.0](https://oauth.net/2/) for industry-leading security and an intuitive user experience.
-- __24/7 monitoring:__ Identity team monitors and supports issues with authentication. We notify your team of other issues related to your application so you can fix them right away.
-- __Performance:__ users log in faster with fewer redirects, and have less downtime compared to other authentication solutions.
-- __Visibility:__ monitor errors and performance with default dashboards you can customize. 
-- __Consistency:__ user authentication can leverage our [Unified Sign-in Page (USiP) that appears on VA.gov](https://www.va.gov/?next=loginModal) for the frontend experience.
 
 ## How does the onboarding process work?
 - __What work does my team need to complete?__
@@ -139,12 +132,5 @@ __
   - There’s also a troubleshooting Slackbot in #vsp-identity.
   - We have office hours with the Identity team [documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md).
   - Link to [Glossary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/glossary.md)
-  - Link to [primer doc](https://docs.google.com/document/d/1zqZfoiebCeW4hvN8BP0ve8iR11LE4sgTwrEhZri1k_M/edit)
 
-# Appendix
-
-## Additional content needs
-- Documentation for default Datadog dashboards (not planned)
-- Documentation for validation rules (in progress)
-- Documentation on the Platform site for developers about SiS (future)
 
