@@ -331,16 +331,25 @@ In order to be optimally accessible to screen readers, our websites need to supp
 
 ## Research methodology learnings
 1. In phase 2 research, in order to keep research participants within the prototype, we created a dummy page that many links on the CodePen pages went to that said to wait for instructions. The problem we discovered during research sessions is that after a participant navigates to that page for the first time, all other links in the CodePen pages that go to that page say "visited link" instead of just "link" by screen readers—-thus falsely claiming that the user has visited multiple links that they haven’t. This confused 2 of our 5 screen reader users.
+1. Sometimes assistive technology doesn't behave the way you expect during research sessions, so it's important to have backup plans. During some of these sessions, we had to pivot in order to get useful data. Some of those pivots are summarized below:
+     
+     - If you can't see the magnified screen of a screen magnifier user, ask the participant how much of the screen they can see horizontally and vertically without scrolling.
+     - If you can't hear the participant's VoiceOver screen reader, it may not be possible over Zoom. You might be able to see a transcript of what VoiceOver is saying, or you might not have even this.
+     - If the participant is unable to share their screen over Zoom even after troubleshooting help, ask the participant to proceed but talk a LOT to describe what they're seeing.
 
 
-## All Recommendations
-Preliminary ideas for recommendations are listed below as input to discussion with the team and stakeholders.
-
-
-
-## Next Steps
-
-- .
+## Recommendations
+Some potential recommendations based on the research findings are listed below.
+1. **For mobile, consider a different placement for the Auth menu** because underneath the Menu button wasn't intuitive for any of the mobile participants.
+1. **Consider additional personalization after sign in** (e.g., incorporating the user's name on mobile, or changing the screen more significantly) because it was hard for some participants to recognize that they were signed in. 
+1. **Revisit the large blue footer area in conjunction with the small black footer** area because participants were confused about where the bottom of the page was and where to find typical footer links.
+1. **Review and investigate accessibility issues and whether/how to address**, especially the following:
+     1. Difficulty using search in desktop
+     1. Pages not being read by the JAWS or MAGic screen readers
+     1. Spacing and arrangement of columns in the blue footer in desktop
+     1. Mobile header menu and search buttons changing name
+1. **Review the content and information architecture of the footer**, as well as mobile header close buttons.
+1. **Share feedback on the two federal USA logos with OFCIO and GSA**.
 
 
 
