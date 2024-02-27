@@ -40,7 +40,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[CHIP] - Remove calls to vista during initiatePreCheckIn](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75446)
+    - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
     - ❗ 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)   
     - **Sub Goal: Create Travel Claims vets-api Library**
         - 
@@ -88,21 +88,15 @@ ________________________________________________________________________________
         - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
         - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)     
 - **GOAL: Increase Usage of PCI**    
+    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - 🟦[[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
+        - 🟦[[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
 - **GOAL: Address Tech Debt**
     - 🟥 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
-    - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
-    - **Sub Goal: Create Travel Claims vets-api Library**
-        - 🟦 [[BE] Implement submit_claims method in BTSSS service library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75500)
-        - 🟦 [[BE] Implement token method in BTSSS Service Library ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75499)
-        - 🟦 [[BE] vets-api BTSSS lib: create a configuration class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65811)
-        - 🟦 [[BE] vets-api BTSSS lib: create a service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65812)
-        - 🟦 [[BE] Modify devops repo for travel claims secrets & VA Notify template IDs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75497)
-        - 🟦 [[BE] vets-api BTSSS lib: create an exception class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65814)
-        - 🟦 [[BE] vets-api BTSSS lib: create a redis client class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65815)
     - **Sub Goal: DevOps Improvements**
         - 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 
