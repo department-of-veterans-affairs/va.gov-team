@@ -1,6 +1,6 @@
 # **Conversation Guide**
 
-# **MHV on VA.gov, Medical Records, March 2024**
+**MHV on VA.gov, Medical Records, March 2024**
 
 ## **Moderator logistics**
 
@@ -57,7 +57,7 @@ I have one teammate who will take notes to ensure we accurately represent your f
 
 Our accessibility specialist is in the waiting room. Before I let them in, I want to let you know that they will be here to help us navigate any accessibility troubles we might have. They will also help us with any screen-reader troubleshooting we may need to do during this time. I’m going to let them into the session and have her introduce herself to you.
 
-_(Let in)_
+(_Let \__in)_
 
 \___\__, do you mind (turning on your camera) and introducing yourself to \[PARTICIPANT\]?
 
@@ -83,17 +83,17 @@ Before we start, a few things I want to mention:
 
 - Do you use My HealtheVet?
 
-_[If yes]_
+_\[If yes\]_
 
 - How often?
 - Do you use it to manage your medical records?  _\[If yes\]_ How often?
 - What are some types of tasks you complete on your Medical Records page?
 - Tell me about a time you had trouble completing a task you went on the page to complete, if any.
 - Tell me about any other tasks you wish you could do on your Medical Records page, if any.
-- _[If not already discussed, ask:]_ When have you needed to access your allergy records in the past?
-- _[If not already discussed, ask:]_ When have you needed to access your Vaccination records in the past?
-- _[If not already discussed, ask:]_ When have you needed to access your Care summaries and notes records in the past?
-- _[If not already discussed, ask:]_ When have you needed to access your VItals records in the past?
+- \[If not already discussed, ask:\] When have you needed to access your allergy records in the past?
+- _[If not already discussed, ask:\]_ When have you needed to access your Vaccination records in the past?
+- _[If not already discussed, ask:\]_ When have you needed to access your Care summaries and notes records in the past?
+- _[If not already discussed, ask:\]_ When have you needed to access your VItals records in the past?
 
 # **Screen sharing instructions (AT USERS)**
 
@@ -152,7 +152,7 @@ _When ready, share the email and password using the military alphabet._
 
 Today we are trying to learn how a Veteran might use this product if they were on their own. Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen.
 
-_\[for MHV users\]_ This is going to look slightly familiar, but please remember that this is a new design we are testing and some elements you might expect to be there will not and some you don’t expect will.
+_\[for MHV users\]_ This is going to look slightly familiar, but please remember that this is a new design we are testing and some elements you might expect to be there will not and some you don’t expect will. I would like you to treat this entire website like it were not MHV at all.
 
 Since we are trying to make this experience as realistic as possible, you may notice that at the top right the name Jamie. If this were your page, it would be your name, but for today you will notice Jamie at the top of your screen.
 
@@ -168,7 +168,9 @@ What were you looking for?
 
 _\[No\]_
 
-- You want to confirm that you received a DTAP (Tetanus shot) shot in 2022, walk me through how you would check for that on your record.
+Keep in mind that we are treating this like a completely new website, not MHV.
+
+- Let's say that you want to confirm that you received a DTAP (Tetanus shot) shot in 2022, walk me through how you would check for that on this record.
   - \[_When found_\] Talk to me about your experience finding this vaccination.
 - What are your thoughts on how the information on this list is presented?
 - Walk me through how you would go about finding where you got this vaccine from.
@@ -179,8 +181,8 @@ _\[If they go to detail page, ask\]_
 
 _\[If they don’t go to the detail page, give the instruction\]_
 
-- \[_Detail page_\] Is this what you were expecting?
-  - _\[If not\]_ What were you expecting?
+\[_Detail page\]_
+
 - What are your thoughts on the “None noted” (in provider notes)
 
 _\[Return to list\]_
@@ -236,11 +238,11 @@ _\[Click on the link\]_
 
 - Have you accessed notes or full details of your doctor’s visit in the past?
   - _\[If yes\]_ What were you looking for?
-- Let’s say that you recently saw a doctor in November 2023, and you want to see the details of that visit, please walk through how you would do that.
+- Let’s say that Jamie saw a doctor in November 2023, and you want to see the details of that visit, please walk through how you would do that on this website.
 
 _\[If they do not find the page or start scrolling through, say\]_
 
-- Where do you expect visit information to be on Jamie’s medical record?
+- Where do you expect visit information to be on Jamie’s medical record a website like this?
 
 _\[Direct to list, if needed\]_
 
@@ -249,12 +251,12 @@ _\[Direct to list, if needed\]_
 _\[Within details page\]_
 
 - You just said you expected to see (XYZ), how does this match that?
-- _\[If it doesn’t\]_ tell me how
-- Let's say that you were recently admitted to the hospital for a brief procedure in September of 2023. Walk me through how you would find the details of your in-patient care.
+- _\[If it doesn’t\]_ tell me how.
+- Let's say that Jamie was admitted to the hospital for a brief procedure in September of 2023. Walk me through how you would find the details of that in-patient care.
 
 _\[If they find it, ask\]_
 
-- What are your thoughts on having in-patient care notes also on this list?
+- What are your thoughts on having in-patient care notes also on this list? (That is, notes about a stay and discharge from the hospital.)
 
 _\[Did not find\]_
 
@@ -267,7 +269,7 @@ _\[Click on the link\]_
 
 _\[Return to the list\]_
 
-- Jamie saw a doctor in February of 2022, you want to see the details of that visit, walk me through how you would do that from here?
+- Jamie saw a doctor in February of 2022, although it’s been a while, you want to see the details of that visit, walk me through how you would do that from here?
 - \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of finding your care history?
 - \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of identifying the note you were looking for on the list?
 
@@ -285,8 +287,8 @@ _\[Return to the list\]_
 
 _\[Direct to page if needed\]_
 
-- Is this how you would expect the Vitals to be listed?
-  - _\[if_ _no\]_ What would be more helpful??
+- What are your thoughts on how Vitals are listed on this website?
+  - _\[Potential follow up\]_ What would be more helpful?
 - What type of information would you expect to see within each Vital?
 - Say that you want to find out the history of Jamie's blood pressure, where would you go from here?
 
@@ -296,7 +298,7 @@ _\[Direct to details link, if needed\]_
 
 _\[Return to the list of vitals\]_
 
-- What other types of information would you expect to find on the Vitals page
+- What other types of information would you expect to find a Vitals page like this?
 - \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of understanding your Vitals history?
 
 **Things to watch for:**  
@@ -307,7 +309,7 @@ _\[Return to the list of vitals\]_
 
 # **Task 5: Print/Download – 2 minutes**
 
-- Say you want to print the full detail of your most recent vaccination Flu shot to take with you to your next appointment, what would you do from here? Show me how.
+- Say you want to print the full detail of Jamie’s most recent vaccination Flu shot to take with to their next appointment, what would you do from here? Show me how.
 
 **Things to watch for:**  
 
