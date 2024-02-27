@@ -54,10 +54,6 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 #### [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#pre-check-in)
 
 [Update product guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
-### Production Wireframes in VA Sketch Cloud
-- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/D830D75A-3B87-4A5F-9EAF-622D2913AF5D) in Sketch Cloud
-- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/F5EF96F6-7B82-4D03-95F5-7DAB610B8617) in Sketch Cloud
-- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/EA3E9DDA-30E8-47AB-8335-C31F3A0AFB5C) in Sketch Cloud
 
 ## Launch Strategy
 - Limited availability release to St. Louis in early 2022
