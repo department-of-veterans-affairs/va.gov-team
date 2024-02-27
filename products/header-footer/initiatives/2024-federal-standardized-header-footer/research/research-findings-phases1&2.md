@@ -289,6 +289,8 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 1. One participant **wanted the "Information for" footer accordion to be more descriptive**. She said that the items underneath were a mixture of individual identities, medical diagnoses, group events, and unknown information for "Business" and "Researchers".  
 1. One participant noticed that the **mobile header close buttons are inconsistent**: *X* to close the search panel *vs.* *Close* for the Menu.
      > *"There's no standardization between the two...If I'm looking for an X, it should have the same function across the website" (AT p7).*
+1. One participant **wanted to see an "email us" option on the Contact page**.
+1. On the prototype first page, one participant was **confused by the life insurance wording: "Our life insurance needs calculator"** and "use the life insurance needs calculator" because they thought there was a typo in the content. They appeared to be interpreting the word "needs" as a verb instead of as a noun.
  
  ### B. Screen reader navigation
  The 5 participants who used a screen reader exhibited a variety of strategies for navigating web pages:
