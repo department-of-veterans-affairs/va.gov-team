@@ -10,11 +10,14 @@ CTO slack channel: appointments-oracle-health-integrations
 
 ## 📋 Sprint Summary: 
 _we will need to include this every time as part of A6 reporting_
-
+* :white_check_mark: GOAL: Onboard New Team Members
+Ensure that all team members have completed the items listed in the VFS new team member template
+* :white_check_mark: GOAL: Ensure that all ddevelopers have VetsAPI integrated locally
+Each team member that will be developing against VetsAPI code should have a working setup on their local machine.  This will include vets-website and vets-api, as well as the services hosted by the Mobile Application Platform (MAP) - VetsApi Patient Gateway (VPG), mobile-facility-service, and user-service. 
+* :white_check_mark: GOAL: Complete initial code changes for Oracle Health Site Cancellations
+Update the vets-api backend with the code changes necessary to route appointment cancellations to Oracle Health sites.  Ensure that the updated workflow is protected behind a new feature flag.
 ## 🏆 Sprint Goals
-✅ completed previous sprint 🟡 goal the same from the previous sprint 🆕 new goal
-* ✅ GOAL: Onboard New Team Members - completed sprint 5
-* ✅ GOAL: Ensure that all ddevelopers have VetsAPI integrated locally - completed sprint 5
+🟡 goal the same from the previous sprint 🆕 new goal
 * 🟡 GOAL: Complete initial code changes for Oracle Health Site CAncellations
 * 🟡 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 
