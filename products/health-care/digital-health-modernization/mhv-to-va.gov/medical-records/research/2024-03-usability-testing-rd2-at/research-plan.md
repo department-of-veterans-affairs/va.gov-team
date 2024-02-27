@@ -219,7 +219,7 @@ Note: For recruitment purposes, users can use either a Desktop or Laptop interch
 
 ### **Research sessions**
 
-- Planned dates of research: **March 18 – April 8**
+- Planned dates of research: **March 18 – March 22**
 
 ### **Length of sessions**
 
