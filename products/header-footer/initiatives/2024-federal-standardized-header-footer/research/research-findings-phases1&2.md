@@ -183,6 +183,8 @@ The 9 participants that we talked with each used their assistive technology in d
 
 After signing in using the prototype, about **a third of the participants** (6 of 19, which was 4 on mobile and 2 on desktop) **didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
 
+> *"When I clicked that, it just kind of went back to this page...it looked the same. I was like wait, so I go back. Usually when you sign in, the page will change at the top where it says Department of Veteran Affairs in that upper right hand portion--there'll be an icon on my VA.gov app...It shows my name with the hyperlink underscore where it goes directly to my profile. So I'm not looking down to say, did I sign in? Okay, I know it says 'sign out', but did it sign in as me?...Usually there's stuff about you or information that's connected directly to your account when you see your name" (non-AT p7 on mobile).*
+
 After signing in, **half of the participants (9 of 19) had difficulty finding the Auth menu**. 
 - On mobile, the Auth menu was located *under their name within the mobile header menu*. **5 of 8 phone users** didn't try to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
 
