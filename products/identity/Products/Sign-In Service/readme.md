@@ -49,12 +49,12 @@ Identity team provides documentation, validation guides, 1x1 meetings, and [offi
 
 | Steps | Your team | Identity team | Timeline |
 | --- | --- | --- | --- |
-| Planning | Submit your contact details and brief project description<br /><br />Book a meeting with the Identity team product owner<br /><br />Developers review https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service | Share an overview of the process<br /><br/>Discuss your use cases and specific needs | 1-hour meeting scheduled within 1-2 weeks |
+| Planning | Submit your contact details and brief project description<br /><br />Book a meeting with the Identity team product owner<br /><br />Developers review [enginering documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) | Share an overview of the process<br /><br/>Discuss your use cases and specific needs | 1-hour meeting scheduled within 1-2 weeks |
 | Developing requirements | Document what users or systems need to access in detail<br /><br/>Identify what you may want to track and if any custom tracking is needed | 1:1 meetings with Identity team to discuss requirements:</br>• Backend engineers<br/>• Frontend engineers (if needed)</br></br>Register the client configuration or service configuration | 1-hour meetings scheduled within 1 week |
 | Project approval | Development team product owner and Identity team product owner sign off on requirements | Connect with Identity team engineers [during office hours] or book additional meetings as needed | 1-hour meeting scheduled at earliest convenience |
 | Implementation | Build your integration with SiS based on the documentation for the authentication method for your application | SiS provides access tokens for authentication and sessions | 1-2 sprints |
 | Testing & QA | Test your application in staging and production environments<br/></br>Validate users can log in as expected | Provides a guide for basic validation testing<br/></br>Assists your team with QA | 1 sprint |
-| Maintenance | Monitor Datadog dashboards for performance analytics</br></br>Resolve issues related to your integration (not authentication)</br></br>Provide feedback on SiS onboarding experience | Identity team provides 24/7 monitoring of authentication and alerts your team of issues</br></br>Troubleshooting help via Slackbot in https://dsva.slack.com/archives/CSFV4QTKN.</br></br>Office hours as needed (support process details) | Verify your client application owner every 6 months |
+| Maintenance | Monitor Datadog dashboards for performance analytics</br></br>Resolve issues related to your integration (not authentication)</br></br>Provide feedback on SiS onboarding experience | Identity team provides 24/7 monitoring of authentication and alerts your team of issues</br></br>Troubleshooting help via Slackbot in [the Identity team channel](https://dsva.slack.com/archives/CSFV4QTKN).</br></br>[Office hours as needed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support) | Verify your client application owner every 6 months |
 
 
 # SiS onboarding FAQ
@@ -71,7 +71,7 @@ Identity team provides documentation, validation guides, 1x1 meetings, and [offi
     - 1-hour meetings with your backend developers and frontend developers to develop requirements.
   - A final sign-off meeting to approve the work.
   - After the Identity team registers your client configuration or service configuration, we estimate it will take 1-2 sprints worth of effort to build, test, and deploy your integration.
-  - Check out this page for a detailed timeline.
+  - Check out [this page for a detailed timeline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service#estimated-timeline-for-integrating-with-sis-6-8-weeks).
 
 - __What information does the Identity team need from our team?__
   - Team members, including: your product owner, developer, and OCTO Product owner.
