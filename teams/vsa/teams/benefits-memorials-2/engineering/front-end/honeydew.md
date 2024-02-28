@@ -7,6 +7,7 @@ Let's make a list of pages/components/functionality that could use some extra lo
 - [ ]  Update all `input`s to use platform components
 
 ## FSR Changes
+- [ ] **Installment Contracts and CC Bills**: `renderAddCancelButtons` and `renderContinueBackButtons` can probably be combined into just one function and text can be swapped.
 - [ ] **Error troubleshooting fun**: Maybe include something fun and rad like [including user uuid and in progress form id](https://github.com/department-of-veterans-affairs/vets-website/blob/546be1f587fbc92dccdb779fb6e9b72e47595fe9/src/applications/appeals/995/containers/App.jsx#L64-L74) in sentry error logging
 - [ ] **Naming conventions** - Some of the internal page names are a little misleading and could be made a little more clear (i.e. stuff with 'enhanced' in the name should probably be renamed since that's specific to releases and it should be more agnostic)
 - [ ] Debt selection errors - we can drop the "return to VA" link if one of the copays or debts endpoints fail (as long as they can select something) [design input](https://dsva.slack.com/archives/CPE4AJ6Q0/p1707502928101719?thread_ts=1707334048.781089&cid=CPE4AJ6Q0)
