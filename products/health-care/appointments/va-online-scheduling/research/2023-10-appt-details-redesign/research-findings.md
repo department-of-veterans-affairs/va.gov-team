@@ -131,99 +131,98 @@ We will use the findings to:
 
 All participants (13 of 13) were able to scan through the appointment details with ease. They were able to identify the information they needed for their appointment. 
 
-   _“I like how clean this all looks. So there’s no confusion for me. It’s pretty much everything I need; the date, time, clinic that it’s with. It’s really clean, I like that.”
+   _“I like how clean this all looks. So there’s no confusion for me. It’s pretty much everything I need; the date, time, clinic that it’s with. It’s really clean, I like that.”_
 -Participant 2  
 
-## 2. Participants found pre check-in task confusing. 
-Several participants found that "Prepare for your visit" was a misleading header. They had expected things such as appointment instructions and reminders or forms that needed to be filled out.
+## 2. Participants found the pre check-in task confusing. 
 
+**"Prepare for your visit" was misleading**
 
+Several participants were misled by the "Prepare for your visit" header, expecting things like appointment instructions, reminders or questionaires to be in that section.
 
+_“It's got nothing specifically to do with the appointment or the link that led to this”_ 
+-Participant 1
 
+**Note:** The intention moving forward is to add additional appoitment tasks under the "prepare for your visit" header, which might have an impact on how veterans perceive it. 
 
+**Recommendation:** Rework this language
 
+**"Review your personal healthcare contacts" was confusing**
 
+All participants (13 of 13) reported that the link "review your personal healthcare contacts" did not match their expectations and caused significant confusion. Some participants expected to find information regarding their provider or medical team. Some participants _did_ expect to find their personal demographic information, however upon navigating to the page, they were confused only to have found emergency contact and next of kin.
 
+_"I was just like personal health care contact? But I see it's for emergency.  I would rather see "review your emergency healthcare contacts". I didn't understand what that meant."_
+-Partcipant 4
 
+**Recommendation:** Reconsider language and placement of link.
 
+**Inability to edit was frustrating.**
 
+Many participants were frustrated that once they navigated to the personal healthcare contacts page, they were unable to make any changes if they needed to.
 
+_"There should be an edit button. This is really just letting me look at what’s on file. It’s not letting me do anything."_
+-Participant 8
 
+**Recommendation:** Consider an edit function.
 
+**Diffiuculty navigating back**
 
+Many participants (7 of 13) struggled to navigate back to the appointments page from personal healthcare contacts. Participants were anxious about using the browser back button for fear of losing their progress, or being logged out of va.gov. 
 
-
-
-
-
-
+_“I don’t see a way to go back to my appointment. How would I do that from here? So I'll hit the back button on my phone rather than on the screen. I’m not sure if it’s going to exit me or take me back to my appointment.”_
+-Participant 8
    
-**Recommendation: Simplify the usage of modality language.**
+**Recommendation:** Consider a path back to the appoitments page.
 
-Revisit the language and iconography, indicating where a person should attend their appointment. There was confusion around the appointment modality. Simplifying this will help mitigate confusion and give Veterans a more clear understanding of where they need to physically be for their appointments. 
+## 3. The majority of participants wanted access to the "join appointment" link for video appointments. 
 
-<img width="863" alt="Screen Shot 2022-10-14 at 10 03 20 AM" src="https://user-images.githubusercontent.com/92750161/195902380-4357586a-fbdb-4302-95b6-2b6ac8758bac.png">  
+Participants looked at a closed upcoming video appointment for the next month. 9 of 12 participants were distraught over the missing "join appointment" link, bypassing the description at the top of the page that explained when the link would be available. When participants were shown the details for an open video appointment, they were relived to have the link. 
 
-## 3. The majority of participants would not print their appointment list. 
+Many participants expressed their desire for the link well in advance to better prepare themselves for their appointment. They also said they would like to have the link so they may save it in another place, such as a digital calendar. 
 
-Most of the participants (8 of 10) reported that they would not want to print an individual appointment or list. When asked what they would do alternatively, all participants (10 of 10) reported using these digital methods to reference their appointments:
+_"Tell me the harm to giving me the link… A year before the appointment. The link won't go live until it's ready to go live, But I'll know that I've got it. I know that I don't have to take an extra step. I don't have to call you up 30 min before my appointment. I can go 30 seconds before my appointment and I'll know that the link is there”_
+-Participant 9
 
-- Three (3 of 10) participants said they use email to reference their upcoming appointments. 
-- Six (6 of 10) participants reported that they use their digital calendar to reference their appointments. 
-- One participant said they take a photo of their appointment and keep it in their phone to reference their appointment. 
- 
-   “I get emails and I save those rather than print it.”  
-   -Participant 5  
+**Recommendation:** Consider the feasability of adding the "join appointment" link to closed video appointments. 
 
-   “No, I don't [print] cause when I go they usually give me print out, and when I get home I just put it in my [digital] calendar.”  
-   -Participant 15  
+We suggest exploring the possibility of adding the link to all video appointment details pages. We believe this would allow for Veterans to better plan for their visits, build their confidence in the reliability of the appointments feature and ease their anxiety over attending virtual appointments altogether. 
 
-**Recommendation: Do not include "print all" link on appointment list**
+**Recommendation:** Reconsider "join appointment" button. 
 
-Because the majority of participants reported that they do not print their appointments, consider leaving the print link out of the appointment list.
+There is a possibility that the "join appointment" link would not be generated until well after the appointment itself was made, making it unpredictable to know when the link will be available. If that is the case, perhaps using a button in place of the "join appointment" link would provide more security to Veterans in the event that the link is unavailable. When the link is unavailable, the "join apopointment" button would be disabled, but still present. 
 
-**Recommendation: Include an "add all to calendar" link to the appointment list**
+**Recommendation:** Consider adding "join appointment" link to "add to calendar" function. 
 
-With the majority of participants reporting that they used their digital calendar as a way of managing their appointments, Adding a link to "add all to calendar" on the appointment list would save Veterans time and minimize the number of clicks to add multiple appointments to their calendar. 
+If we have access to the link ahead of time, when Veterans click on "add to calendar" we suggest adding the "join appointment" link along with all of the other appointment details. 
 
-## 4. The order of past appointment list is confusing. 
+## 4. ATLAS appointments were confusing.
 
-Participants were asked to find their most recent appointment and most participants (8 of 10) clicked on the first appointment at the top of the list. This suggests that participants would expect to see their most recent appointments displayed at the top of the list and their older appointments to follow. 
+Most participants (9 of 11) were usure what an ATLAS appointments was, didnt understand what they were supposed to do and wanted more information about them.
 
-<img width="277" alt="Screen Shot 2022-10-11 at 1 33 26 PM" src="https://user-images.githubusercontent.com/92750161/195192806-6811986d-a6d1-4ab0-9206-587b9ede8dfa.png">
+_"That doesn’t make sense. It’s a video appointment, why should I go to an address? It should have a  link for the atlas location, not a building location."_
+-Participant 8
 
-The above image shows the current order for past visits - oldest to newest.
+**Recommendation:** Fully reevaluate the ATLAS appointment details.
 
-**Recommendation: Change past appointment list order**
+We suggest a deeper dive into ATLAS appointments to uncover the instructions that are given to Veterans when their appointments are made. We suggest providing more instructions on where to go once you arrive at the facility, what to expect at the appointment, and how to use the provided appointment code. 
 
-We suggesat reordering the past appointments list, showing the most recent appointments at the top and oldest appointments last. This change would make it easier for Veterans to navigate their past appointments.
+## 5. Blocked phone numbers. 
 
-## 5. Details pages were easy to navigate. 
+When going over phone appointments, several participants expressed concern over not knowing the number that their provider would be calling from. Some participants reported having a feature on their phones that blocks unknown numbers from coming through. 
 
-All participants (10 of 10) successfully navigated to the details pages. They reported that they were easy to read and the information was pertinent. When asked what could be improved on, there were a variety of answers:
+_“My phone has a blocker on it, and oftentimes if you get a govt or restricted number, it’s blocked.”_
+-Participant 1
 
-- Phone number extension - There was concern that calling the facility number would put them into the VA phone system and that a direct extension to the clinic was important.
+**Recommendation:** Consider including the phone number that will be calling on the details pages.  
 
-- Provider name -  The list view showed the provider name, but was not listed in the details pages. 
+## 6. Cancelation flow was simple and straightforward. 
 
-- A help number - There is a VA-wide help number, however participants were concerned that if something specific to the appointment were to happen (ie: video connect issues, phone number discrepancies) a direct help number would be helpful. 
+All participants (13 of 13) reported a positive experience canceling their appointment. 
 
-Two participants struggled to exit the details pages, noting that the only two options were to cancel or reschedule the appointment. It is speculated that they either did not see the back button, believed the appointment to be a modal that they would need to close or exit out of, or were under the impression they needed to select one of the two options at the bottom.
+_“Good, it’s idiot proof. I like this. If i say yes cancel it’s gonna have one of those yes i’m sure. But if i accidentally did it no would take me to that previous page.”_
+-Participant 7
 
-For canceled appointment details pages, (4 of 10) participants wanted to know why their appointment was canceled. 
-
-**Recommendation: Change Details page CTA's** 
-
-Reconsider the CTA buttons at the bottom of details pages.
-
-## 6. The back link was easy to find and use
-
-100% of participants using a desktop computer (5 of 5) used the back link on the page to navigate back to the previous page. 80% of participants using a mobile device (4 of 5) used the back link on the page to navigate back to the previous page. One participant navigated back to the previous screen using the back button on their device.
-
-**Recommendation: Replace breadcrumb with back button upon entry to VAOS.**
-
-There are several page sequences within VAOS that require users to move through specific steps. The breadcrumb does not include any navigation point within those sequences within VAOS, only the entry point.
-We suggest adding a back link in place of the breadcrumb on the past and pending appointment list pages as well as all of the details pages. Doing so will provide Veterans with a more consistent and simple way to navigate online scheduling. This is also recommended throughout the scheduling flow in VAOS. 
+## 7. . 
 
 
 # Additional Insights
