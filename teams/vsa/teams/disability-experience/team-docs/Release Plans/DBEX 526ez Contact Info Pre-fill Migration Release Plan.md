@@ -162,17 +162,18 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits - DBex - EVS
 
 ### Stage A: Monitoring phase 
 #### Planning  
-- Date Started: 
+- Date Started: 2/12/24 11:18am PST, rolled back 2/13 around 8:15am PST due to spike in missing mailing addresses
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75270
 - Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 10%
 #### Results:  
 - Anomalies
+   missing mailing address occurrences jumped from .05% to 5%. Ongoing investigation now tracking [here](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77166)
 - Rollbacks:
-    -       Rollback reason: 
-            Date: 
-            Severity/Impact: 
-            Ticket(s) created to address:
+    -       Rollback reason: abnormal # of missing mailing address occurrences
+            Date: 2/13/24
+            Severity/Impact: minor
+            Ticket(s) created to address: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77166
             - [ ] Has the issue been resolved?
             - 
 
