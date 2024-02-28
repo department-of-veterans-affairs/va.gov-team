@@ -623,11 +623,13 @@ You can choose to submit more evidence now or within 90 days after we receive th
 
 * How do I submit evidence later? (expand)
     
-    You can submit more evidence by mailing it to this address:
-    
-    Board of Veterans’ AppealsPO Box 27063Washington, D.C. 20038
-    
-    You can also fax it to 844-678-8979
+    > You can submit more evidence by mailing it to this address:
+    >
+    > Board of Veterans’ Appeals  
+    > PO Box 27063  
+    > Washington, D.C. 20038
+    >
+    > You can also fax it to 844-678-8979
     
 
 Would you like to submit more evidence right now?
