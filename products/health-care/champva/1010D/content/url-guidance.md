@@ -13,18 +13,18 @@ Reminder: Don’t create unnecessary or empty subdirectories when creating sub-U
 Example - Subtask/Tool
 Base URL: va.gov/health-care/income-limits/
 Sub-URLs:
-va.gov/health-care/income-limits/introduction
-va.gov/health-care/income-limits/zip
-va.gov/health-care/income-limits/dependents
-va.gov/health-care/income-limits/review
-va.gov/health-care/income-limits/results
+- va.gov/health-care/income-limits/introduction
+- va.gov/health-care/income-limits/zip
+- va.gov/health-care/income-limits/dependents
+- va.gov/health-care/income-limits/review
+- va.gov/health-care/income-limits/results
 
 Example - Form
 Base URL: va.gov/disability/file-disability-claim-form-21-526ez/
 Sub-URLs:
-va.gov/disability/file-disability-claim-form-21-526ez/introduction
-va.gov/disability/file-disability-claim-form-21-526ez/veteran-information
-va.gov/disability/file-disability-claim-form-21-526ez/contact-information
-va.gov/disability/file-disability-claim-form-21-526ez/housing-situation
-va.gov/disability/file-disability-claim-form-21-526ez/terminally-ill
-va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/military-service-history (edited) 
+- va.gov/disability/file-disability-claim-form-21-526ez/introduction
+- va.gov/disability/file-disability-claim-form-21-526ez/veteran-information
+- va.gov/disability/file-disability-claim-form-21-526ez/contact-information
+- va.gov/disability/file-disability-claim-form-21-526ez/housing-situation
+- va.gov/disability/file-disability-claim-form-21-526ez/terminally-ill
+- va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/military-service-history (edited) 
