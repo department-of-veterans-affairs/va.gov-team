@@ -45,7 +45,7 @@ Learn more about [each step of the process](https://github.com/department-of-vet
 
 Identity team provides documentation, validation guides, 1x1 meetings, and [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md) to support you through every step. You’ll track your progress in Github issues along the way.
 
-# Estimated timeline for integrating with SiS (6-8 weeks)
+## Estimated timeline for integrating with SiS (6-8 weeks)
 
 | Steps | Your team | Identity team | Timeline |
 | --- | --- | --- | --- |
@@ -56,8 +56,6 @@ Identity team provides documentation, validation guides, 1x1 meetings, and [offi
 | Testing & QA | Test your application in staging and production environments<br/></br>Validate users can log in as expected | Provides a guide for basic validation testing<br/></br>Assists your team with QA | 1 sprint |
 | Maintenance | Monitor Datadog dashboards for performance analytics</br></br>Resolve issues related to your integration (not authentication)</br></br>Provide feedback on SiS onboarding experience | Identity team provides 24/7 monitoring of authentication and alerts your team of issues</br></br>Troubleshooting help via Slackbot in [the Identity team channel](https://dsva.slack.com/archives/CSFV4QTKN).</br></br>[Office hours as needed](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support) | Verify your client application owner every 6 months |
 
-
-# SiS onboarding FAQ
 
 ## How does the onboarding process work?
 - __What work does my team need to complete?__
