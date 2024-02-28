@@ -17,8 +17,11 @@ Authentication is one part of your application that:
   1. confirms the identity of the person or application logging in
   2. gives them access to VA resources based on rules you define
 
-
 Learn more about [authentication and authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization).
+
+### What are the requirements for using SiS?
+
+SiS works as an authentication solution for Veterans and their beneficiaries. It works with any application logging in or accessing these resources. 
 
 ## Benefits of SiS
 - __Security:__ uses [OAuth 2.0](https://oauth.net/2/) for industry-leading security and an intuitive user - experience.
@@ -36,7 +39,7 @@ Identity team works with you to customize your onboarding experience:
 - After requirements are approved, it usually takes 1-2 sprints to complete the project.
 - You can track your progress in [Github](https://github.com/orgs/department-of-veterans-affairs/projects/1183/views/2) issues along the way. 
 
-Learn more about [each step of the process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/stepByStep.md) and [answers to common questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ.md).
+Learn more about [each step of the process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/stepByStep.md) and [answers to common questions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service#how-does-the-onboarding-process-work).
 
 # SiS onboarding overview
 
@@ -54,19 +57,7 @@ Identity team provides documentation, validation guides, 1x1 meetings, and [offi
 | Maintenance | Monitor Datadog dashboards for performance analytics</br></br>Resolve issues related to your integration (not authentication)</br></br>Provide feedback on SiS onboarding experience | Identity team provides 24/7 monitoring of authentication and alerts your team of issues</br></br>Troubleshooting help via Slackbot in https://dsva.slack.com/archives/CSFV4QTKN.</br></br>Office hours as needed (support process details) | Verify your client application owner every 6 months |
 
 
-# [SiS slides outline (link to slides)](https://docs.google.com/presentation/d/17JuRrXlMTNT1qLfDPLwWcuJKv5_n6wfN0ux6eB0Nsuw/edit#slide=id.g2b946ccaa94_0_314)
-
-## What is Sign-in Service?
-- Sign-in Service (SiS) is a client service that authenticates login credentials, and grants access to vets-api resources. SiS is [documented for developers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) on Github. 
-
-- __What is authentication?__
-  - Authentication is one part of your application that:
-    1. confirms the identity of the person or application logging in
-    2. gives them access to VA  resources based on rules you define
-  - Learn more about authentication and authorization.
-__
-- __What are the requirements for using SiS?__
-  - SiS works as an authentication solution for Veterans and their beneficiaries. It works with any application logging in or accessing these resources. 
+# SiS onboarding FAQ
 
 ## How does the onboarding process work?
 - __What work does my team need to complete?__
@@ -76,14 +67,14 @@ __
 
 - __How long will this project take?__
   - Depending on how much you want to build or customize, the project takes ~6-8 weeks to complete, which includes:
-    - 1-hour kickoff meeting to learn more and start scoping out your project
+    - [1-hour kickoff meeting to learn more and start scoping out your project](https://docs.google.com/presentation/d/17JuRrXlMTNT1qLfDPLwWcuJKv5_n6wfN0ux6eB0Nsuw/edit#slide=id.g2b946ccaa94_0_314).
     - 1-hour meetings with your backend developers and frontend developers to develop requirements.
   - A final sign-off meeting to approve the work.
   - After the Identity team registers your client configuration or service configuration, we estimate it will take 1-2 sprints worth of effort to build, test, and deploy your integration.
   - Check out this page for a detailed timeline.
 
 - __What information does the Identity team need from our team?__
-  - Team members, including: your product owner, developer, and OCTO PO.
+  - Team members, including: your product owner, developer, and OCTO Product owner.
   - Values for your application, such as redirect_uri (if not within vets-api).
   - Fields for client configuration or service account configuration.
   - Qualities of SiS token on their application to confirm authenticated routes (for example, making sure token is properly signed by SiS, confirm token is not expired, etc).
