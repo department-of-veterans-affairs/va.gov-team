@@ -173,7 +173,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits - DBex - EVS
     -       Rollback reason: abnormal # of missing mailing address occurrences
             Date: 2/13/24
             Severity/Impact: minor
-            Ticket(s) created to address: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77166
+            Ticket(s) created to address:
+            - Initial investigation #76240: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/76240
+            - Continuation #77166: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77166
             - [ ] Has the issue been resolved?
             - 
 
