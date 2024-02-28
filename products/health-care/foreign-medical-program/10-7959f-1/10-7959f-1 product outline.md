@@ -119,7 +119,7 @@ Collaboration Cycle
 
 ### Current Status
 - Conversations with stakeholders scheduled through 2/9 were completed.
-- Analysis underway along with prototype creation.
+- Stakeholder interview analysis complete along with prototype creation.
 
 Key deliverables:
 - design: 
