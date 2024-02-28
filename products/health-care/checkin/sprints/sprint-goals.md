@@ -147,6 +147,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Error page scenarios and content #75722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75722)
         - ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
         - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
+        - ❗ 🟩 [[FE] Fix complete page typos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77315)
         - ❗ 🟦 [[BE] Modify TravelClaimsController to permit facility_type parameter ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76250)
         - ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76247)
         - ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75563)
