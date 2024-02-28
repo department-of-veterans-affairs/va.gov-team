@@ -2,7 +2,7 @@
 name: (Cartographers) User story template
 about: Use this template for user stories for the Cartographers team (MHV-on-VAgov).
 title: ''
-labels: my-health, my-health-INTEGRATION, my-health-CTO-HEALTH-TEAM, Cartographers, needs-refinement
+labels: my-health, Cartographers, needs-refinement
 assignees: ''
 
 ---
