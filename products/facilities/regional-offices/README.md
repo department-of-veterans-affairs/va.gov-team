@@ -84,21 +84,23 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 [08/21/23 list on Teams](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/_layouts/15/Doc.aspx?sourcedoc=%7B75BA1C30-612E-47BF-8FDA-A9683892163F%7D&file=VBA%20MVP%20contacts%20August%202023.xlsx&action=default&mobileredirect=true)
 
 [Training attendees](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/Shared%20Documents/Facilities%20Product%20Sync/VBA/VBA%20Training%20attendees.xlsx?d=w446b52951a9542aba5dae6917ee1f40e&csf=1&web=1&e=EE65U5)
-| Houston          | 1/2       | Name                        | Email                   |
-| ---------------- | ---------- | -------------------------- | ----------------------- |
-| Anchorage        | Primary    | Kathleen “Kathie” Warren   | kathleen.warren1@va.gov |
-| Anchorage        | Secondary  | vacant           |  |
-| Albuquerque      | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
-| Albuquerque      | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
-| Honolulu         | Primary    | Melynn McWilliams               | Melynn.McWilliams@va.gov      |
-| Honolulu         | Secondary  | Jametria McElroy           | Jametria.mcelroy@va.gov |
-| Houston          | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
-| Houston          | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
-| Houston          | Additional | Steven Sunseri             | steven.sunseri@va.gov   |
-| National Capital | Primary    | vacant              |   |
-| National Capital | Secondary  | Joshua Carson              | Joshua.Carson@va.gov    |
-| San Juan         | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
-| San Juan         | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
+| Houston           | 1/2       | Name                        | Email                   |
+| ----------------  | ---------- | -------------------------- | ----------------------- |
+| Anchorage/Portland| Primary    | Heather Densmore           | heather.densmore@va.gov |
+| Anchorage/Portland| Secondary  | Clarissa Savage            | clarissa.savage@va.gov  |
+| Albuquerque       | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
+| Albuquerque       | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
+| Albuquerque       | Secondary  | Cesar Romero               | cesar.romero1@va.gov    |
+| Boston            | Primary    | Brian Keber                | brian.keber@va.gov      |
+| Honolulu          | Primary    | Melynn McWilliams          | Melynn.McWilliams@va.gov|
+| Honolulu          | Secondary  | Eileen Asing               | eileen.asing@va.gov     |
+| Honolulu          | Additional | Aiko Shibuya               | aiko.shibuya@va.gov     |
+| Houston           | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
+| Houston           | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
+| National Capital  | Primary    | Garcia Williams            | garcia.williams@va.gov  |
+| National Capital  | Secondary  | Jessica Barker             | jessica.barker3@va.gov  |
+| San Juan          | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
+| San Juan          | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
 
 
 ## Approach
