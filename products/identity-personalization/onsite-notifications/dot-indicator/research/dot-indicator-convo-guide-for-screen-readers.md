@@ -47,7 +47,8 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
-Now I'm going to ask you to open the [link I've shared (in Zoom Chat)](https://bit.ly/3IeFwyU) and then share your screen with me. Let me know if you need any help doing that.
+Now to start off, I'm going to send you a weblink to take you to our prototype. Are you okay if I send this in Zoom's chat, or would you prefer to receive it another way, like email? (If they want email, contact Perigean)
+- Alright I'm going to ask you to open the [link I've shared (via the method they prefer)](https://bit.ly/3IeFwyU) and then share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. By the way, we are using a tool called CodePen for this prototype, so if you hear any mention of it, that's totally normally and nothing to be concerned about. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account.
 
@@ -59,7 +60,13 @@ Okay great, I can see your screen. By the way, we are using a tool called CodePe
 
 - What would you expect to happen if you selected the link for "Go to your inbox" and it says **You have new messages**?
 
-- What would you expect to happen if you selected the link for "Refill and track your prescriptions" and it says **You have 2 updates with your prescriptions and refills**? (we won't use badge indicator test for screen readers, just ask about it)
+### Move on to badge indicators
+
+Ok great. I have another [link to share with you](https://bit.ly/3IeFwyU). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
+
+- Can you navigate the page and tell me what you think as you hear what's on the page.
+
+- Do you think it's more or less helpful to hear the number of items that need your attention, versus what you heard before on the previous version of the page which had no numbers?
   
 - How do you experience notifications on other websites and on your phone? Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
   
