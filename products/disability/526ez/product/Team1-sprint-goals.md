@@ -17,7 +17,7 @@ Period - 02/28/2024 - 03/12/2024
        - Toxic Exoposure 
            - [X] Design - Update mock-ups/content for radio buttons 2,3 and 4
            - [ ] Design - [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226)
-           - [ ] Design - Update documentation from mid-point review
+           - [ ] [Design - Update documentation from mid-point review](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75927)
            - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)  
        - Audit for 526ez for all paper to digital form changes
           - Complete technical discovery to determine next steps for discrepancies for ancillary forms 4142, 4142a 
