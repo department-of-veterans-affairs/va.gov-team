@@ -36,7 +36,7 @@
 
 -----------------
 
-- ### Transitioning to SiS
+  ### Transitioning to SiS
 
 |  |  |  
 | --- | --- | 
@@ -58,7 +58,7 @@
 
 ## Troubleshooting and Support
 
-- ### Support Access
+ ### Support Access
 |  |  | 
 | --- | --- | 
 | **If I need assistance, what info will I need to provide?** | *Helpful info: Screen captures; Links to logs; Test user(s) used; Sign-in method used.* | 
@@ -75,7 +75,7 @@
 
 -----------------
 
-- ### Troubleshooting
+ ### Troubleshooting
 |  |  | 
 | --- | --- | 
 | **Where can we find information on error messages?** | *We have an error message list in our [troubleshooting section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/errors.md).* |
@@ -118,7 +118,7 @@
 
 -----------------
 
-  - ### Tokens
+  ### Tokens
 
 |  |  | 
 | --- | --- | 
