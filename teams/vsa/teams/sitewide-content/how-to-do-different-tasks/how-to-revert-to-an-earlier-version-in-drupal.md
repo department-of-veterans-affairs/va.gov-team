@@ -1,3 +1,4 @@
+# How to edit (or revert to) an earlier version of a page in Drupal
 These instructions explain how to revert to an earlier version in Drupal. 
 
 1.  Go to the "Revisions" tab in Drupal.
