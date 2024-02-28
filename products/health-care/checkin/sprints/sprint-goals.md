@@ -73,7 +73,6 @@ ________________________________________________________________________________
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-        - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
         - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
@@ -147,6 +146,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[FE] - Create file later page #75796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75796)
         - ❗ 🟩 [[FE] Error page scenarios and content #75722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75722)
         - ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
+        - ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ❗ 🟦 [[BE] Modify TravelClaimsController to permit facility_type parameter ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76250)
         - ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76247)
         - ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75563)
