@@ -183,7 +183,7 @@ The 9 participants that we talked with each used their assistive technology in d
 
 After signing in using the prototype, about **a third of the participants** (6 of 19, which was 4 on mobile and 2 on desktop) **didn't recognize that they were actually signed in** because the user interface didn't change much. The subtle change of the "Sign in" button to "Sign out" (on mobile) or their first name (on desktop) wasn't enough for everyone to notice.
 
-> *"When I clicked that, it just kind of went back to this page...it looked the same. I was like wait, so I go back. Usually when you sign in, the page will change at the top where it says Department of Veteran Affairs in that upper right hand portion--there'll be an icon on my VA.gov app...It shows my name with the hyperlink underscore where it goes directly to my profile. So I'm not looking down to say, did I sign in? Okay, I know it says 'sign out', but did it sign in as me?...Usually there's stuff about you or information that's connected directly to your account when you see your name" (non-AT p7 on mobile).*
+  > *"When I clicked that, it just kind of went back to this page...it looked the same. I was like wait, so I go back. Usually when you sign in, the page will change at the top where it says Department of Veteran Affairs in that upper right hand portion--there'll be an icon on my VA.gov app...It shows my name with the hyperlink underscore where it goes directly to my profile. So I'm not looking down to say, did I sign in? Okay, I know it says 'sign out', but did it sign in as me?...Usually there's stuff about you or information that's connected directly to your account when you see your name" (non-AT p7 on mobile).*
 
 After signing in, **half of the participants (9 of 19) had difficulty finding the Auth menu**. 
 - On mobile, the Auth menu was located *under their name within the mobile header menu*. **5 of 8 phone users** didn't try to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
@@ -194,7 +194,7 @@ After signing in, **half of the participants (9 of 19) had difficulty finding th
 
 - On desktop, the Auth menu was under their name in the top right corner of the page.  **4 of 11 desktop users** didn't try to click on their name. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). Another participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
 
-> *"The triangle I didn't really acknowledge that it was a pull down. If you look at the blue [header menu] area, it's more clear to me that they're pulldowns...than over where the search is and where the name is" (AT p9).*
+  > *"The triangle I didn't really acknowledge that it was a pull down. If you look at the blue [header menu] area, it's more clear to me that they're pulldowns...than over where the search is and where the name is" (AT p9).*
 
 After finding and opening the Auth menu, ALL participants recognized and clicked on Profile, which was the correct navigation path. However, 2 participants wondered aloud if they should try My VA instead (which didn't work in the prototype).
 
@@ -352,7 +352,7 @@ In order to be optimally accessible to screen readers, our websites need to supp
 
 ## Research methodology learnings
 1. In phase 2 research, in order to keep research participants within the prototype, we created a dummy page that many links on the CodePen pages went to that said to wait for instructions. The problem we discovered during research sessions is that after a participant navigates to that page for the first time, all other links in the CodePen pages that go to that page say "visited link" instead of just "link" by screen readers—-thus falsely claiming that the user has visited multiple links that they haven’t. This confused 2 of our 5 screen reader users.
-1. Sometimes assistive technology doesn't behave the way you expect during research sessions, so it's important to have backup plans. During some of these sessions, we had to pivot in order to get useful data. Some of those pivots are summarized below:
+1. Sometimes assistive technology doesn't behave as expected during research sessions, so it's important to have backup plans. During some of these sessions, we had to pivot in order to get useful data. Some of those pivots are summarized below:
      
      - If you can't see the magnified screen of a screen magnifier user, ask the participant how much of the screen they can see horizontally and vertically without scrolling.
      - If you can't hear the participant's VoiceOver screen reader, it may not be possible over Zoom. You might be able to see a transcript of what VoiceOver is saying, or you might not have even this.
