@@ -160,14 +160,6 @@ Are you ready to get started?
 
 # **Task 1: Vaccination – 10 minutes**
 
-- Have you ever accessed your vaccine records?
-
-_\[If they say Yes\]_
-
-What were you looking for?
-
-_\[No\]_
-
 Keep in mind that we are treating this like a completely new website, not MHV.
 
 - Let's say that you want to confirm that you received a DTAP (Tetanus shot) shot in 2022, walk me through how you would check for that on this record.
@@ -202,8 +194,6 @@ _\[Return to list\]_
 
 # **Task 2: Allergies & Reactions – 10 minutes**
 
-- Have you ever accessed your vaccine records?
-- _\[If they say Yes\]_ What were you looking for?
 - What are some of Jamie's Allergies?
 
 _\[If they go to allergy list, say\]_
@@ -236,8 +226,6 @@ _\[Click on the link\]_
 
 # **Task 3: Care Summaries and Notes – 10 minutes**
 
-- Have you accessed notes or full details of your doctor’s visit in the past?
-  - _\[If yes\]_ What were you looking for?
 - Let’s say that Jamie saw a doctor in November 2023, and you want to see the details of that visit, please walk through how you would do that on this website.
 
 _\[If they do not find the page or start scrolling through, say\]_
