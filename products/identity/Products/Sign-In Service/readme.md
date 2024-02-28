@@ -1,7 +1,7 @@
 # Sign-in Service (SiS) overview
 
-SiS is a fast, secure, and reliable authentication solution for client 
-applications that use VA resources.
+SiS is a fast, secure, and reliable authentication solution for 
+applications that use VA.gov resources.
 
 ## What is Sign-in Service?
 
