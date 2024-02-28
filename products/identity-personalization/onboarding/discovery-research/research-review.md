@@ -68,12 +68,10 @@ While a website or digital tool can serve as a resource, it would not completely
   > *“The best way to describe the checklist [the military provides when you’re out processing] is a scavenger hunt. You have to turn in a bunch of paperwork but it doesn’t give a lot of information.”*
 
 ### We identified things that would foster a sense of trust and make an onboarding experience useful, if we want to pursue it.
+
+#### Unauthenticated experience
 - Making it clear that using VA benefits does not detract or take away benefits from any other Veteran.
   - Multiple studies reference hesitation or shame about using VA benefits because people feel they are undeserving or taking away from others. ([Digital health modernization, insight 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md#insight-2-the-va-ecosystem-is-so-complex-that-veterans-feel-discouraged-to-apply-for-manage-and-maximize-their-benefits), and [Under 40 Trust Score findings](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-proposals/VEO/2023-03%20Under%2040%20Trust%20Scores%20Veteran%20Interviews/Under40TrustExecutiveSlides_6.1.23.pdf))
-- Surfacing benefit recommendations alongside existing benefit management in a single place.
-  - We’ve heard participants positively use the phrase “one-stop shop” when talking about My VA or the health landing page.
-  - This also came up in the dependents research last year:
-    > Veterans are looking for a “one-stop-shop” on VA.gov that would allow them to review, manage, and stay informed on eligibility opportunities….Veterans also wanted more integration across programs to help eliminate redundant information, and so that they could learn about, track, and manage their benefits in a way that aligned with their dependents' life phases, i.e. a life-stages “roadmap.” - Dependents research ([finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/research-findings.md#key-findings))
 - Providing transparent and authoritative information that simplifies complexities.
   - People currently heavily rely on “word of mouth” to make sense of VA, and get mixed information.
   - We know the complexity of VA discourages people to maximize their benefits. ([Digital Health Modernization research, insight 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md#insight-2-the-va-ecosystem-is-so-complex-that-veterans-feel-discouraged-to-apply-for-manage-and-maximize-their-benefits))
@@ -88,7 +86,13 @@ While a website or digital tool can serve as a resource, it would not completely
   - Confusion about this process came up in the research we reviewed, and is a frequent topic in research studies. ([Feedback on the sign-in process from participants across many studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Identity%20topics%20from%20unrelated%20studies.md))
   - People need to sign in to complete many core benefit tasks; helping reduce friction with this step will likely help people onboard.
 
-One important thing to note is that most of these things could be present in both an unauthenticated _and_ authenticated state. 
+#### Authenticated experience
+All of the above could carry over into the authenicated experience. In addition, once a person was in MPI, we could:
+- Personalize the content above based on what we know about a person (service history, location, etc)
+- Surface benefit recommendations alongside existing benefit management in a single place.
+  - We’ve heard participants positively use the phrase “one-stop shop” when talking about My VA or the health landing page.
+  - This also came up in the dependents research last year:
+    > Veterans are looking for a “one-stop-shop” on VA.gov that would allow them to review, manage, and stay informed on eligibility opportunities….Veterans also wanted more integration across programs to help eliminate redundant information, and so that they could learn about, track, and manage their benefits in a way that aligned with their dependents' life phases, i.e. a life-stages “roadmap.” - Dependents research ([finding 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2023-09-dependents-research/research-findings.md#key-findings))
 
 ### Other VA.gov teams, and the mobile team, haven’t done a lot with an onboarding UX yet.
 We reached out to various teams in Slack to see if anyone has explored onboarding.
@@ -106,12 +110,13 @@ We reached out to various teams in Slack to see if anyone has explored onboardin
   - Transition
   - Post-service (aka I'm out - what now?)
 ## Outstanding questions
-1. What does VA currently do, if anything, to foster community and a sense of purpose for newly transitioned veterans?
-2. We’ve confirmed it makes sense for us to continue with our work in parallel with what VES is working on; where will their MVP live, or what exactly are they going to do with that?
-3. What do we know about Skillbridge or dedicated transition units? It would be interesting to hear how those are helpful to folks to inform our own boarding work.
-4. Have we ever considered incorporating an onboarding strategy into the “service member benefits” benefit hub? 
-5. Does the chatbot have any content about transition? How does the chatbot work and where can I use it?
-6. Why is now the time to pursue a VA.gov onboarding solution?
+1. We’ve confirmed it makes sense for us to continue with our work in parallel with what VES is working on; where will their MVP live, or what exactly are they going to do with that?
+2. What do we know about Skillbridge or dedicated transition units? It would be interesting to hear how those are helpful to folks to inform our own boarding work.
+3. Does the chatbot have any content about transition?
+4. How does the chatbot work and where people currently use it on the site?
+5. Why is now the time to pursue a VA.gov onboarding solution?
+6. Which parts of the onboarding solution would be unauth, and which would be auth? 
+7. Have we ever considered incorporating an onboarding strategy into the “service member benefits” benefit hub? 
 
 ## Appendix
 ### Artifacts reviewed
