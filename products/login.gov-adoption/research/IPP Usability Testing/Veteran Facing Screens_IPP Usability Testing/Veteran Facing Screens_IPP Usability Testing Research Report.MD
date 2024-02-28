@@ -4,7 +4,7 @@ OCTO
 
 Secure Sign In Transition
 
-Date
+February 28, 2024
 
 Researchers
 
@@ -12,7 +12,7 @@ Sophia Philip
 
 Sofia Kirkman
 
-[Carl Dickerson](mailto:carl@themostudio.com)
+Carl Dickerson
 
 Josie Griffith
 
