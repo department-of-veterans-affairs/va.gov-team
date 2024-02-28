@@ -1,40 +1,40 @@
-2023-12-in-person-proofing-pilot-Veteran-usability-test 
+## 2023-12-in-person-proofing-pilot-Veteran-usability-test 
 
-OCTO
+### OCTO
 
-Secure Sign In Transition
+### Secure Sign In Transition
 
-February 28, 2024
+### February 28, 2024
 
-Researchers
+### Researchers
 
-Sophia Philip
+    Sophia Philip
 
-Sofia Kirkman
+    Sofia Kirkman
 
-Carl Dickerson
+    Carl Dickerson
 
-Josie Griffith
+    Josie Griffith
 
-Table of Contents
+### Table of Contents
 
-[Research Goals  1](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.z0qzqa4nm8y6)
+[Research Goals  ](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.z0qzqa4nm8y6)
 
-[Research Questions  1](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.f06vtlkrgm8v)
+[Research Questions ](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.f06vtlkrgm8v)
 
-[Methodology  2](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.9kyv7yrqnoq3)
+[Methodology  ](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.9kyv7yrqnoq3)
 
-[Participant Demographics  2](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.xfr9jbsep584)
+[Participant Demographics  ](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.xfr9jbsep584)
 
-[Hypotheses and Conclusions  2](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.6ziastyloq0g)
+[Hypotheses and Conclusions  ](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.6ziastyloq0g)
 
-[Key Findings  6](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.ucvqk3osfkcz)
+[Key Findings ](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.ucvqk3osfkcz)
 
-[Screen Reader Prototype Takeaways  17](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.uwo4weu48xfl)
+[Screen Reader Prototype Takeaways](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.uwo4weu48xfl)
 
-[Research Takeaways  18](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.u8179din8jgk)
+[Research Takeaways](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.u8179din8jgk)
 
-[Recommendations  18](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.4nwe8i39omje)
+[Recommendations](https://docs.google.com/document/d/1Nt5HbMd9JkA0JENMVRyzgw3XPTNCb6KsJ2mcj6OlEWg/edit#heading=h.4nwe8i39omje)
 
 Research Goals
 ==============
@@ -108,7 +108,7 @@ Hypotheses and Conclusions
 
 "Clear and to the point and I like that." (P5)
 
-1.  If verification is completed successfully, Veterans will experience either no change or a positive change in attitude toward identity verification.
+2. If verification is completed successfully, Veterans will experience either no change or a positive change in attitude toward identity verification.
 
 -   Mostly true. Several Veterans complimented the online application saying it was simple and straightforward. Still, Veterans were curious if there was another way to complete verification because in-person was not perceived as a convenient option for all.
 
@@ -124,7 +124,7 @@ Hypotheses and Conclusions
 
 "You guys are making it too easy. It's really straightforward." (P3)
 
-1.  Veterans will need verbal explanations from the proofing agent to understand what In-Person Identity Proofing is and what kind of access it will grant them.
+3.  Veterans will need verbal explanations from the proofing agent to understand what In-Person Identity Proofing is and what kind of access it will grant them.
 
 -   Definitely True. Participants expressed the need to talk to someone in person or on the phone for several instances throughout the service; 1) clarifying information that was on application screens and where they would need to go to complete in-person verification, 2) understanding the purposes of the service and what it provides to them, 3) needing another person to validate their understanding. The varying needs for a verbal explanation demonstrate that the in-person proofing application does not provide the assurance a human does.
 
@@ -134,7 +134,7 @@ Hypotheses and Conclusions
 
 "I would say I do like in person. Because of my experiences over the phone, say. To me it's, uh, again I don't know I'm old school that way I like face-to-face. If there are things that need to be challenged or talked about then we're there in person to talk about it and there's less confusion." (P5)
 
-1.  Giving Veterans 10 days to go to a VA facility for a walk-in appointment to verify their identity will make it easier for them to complete identity verification.
+4.  Giving Veterans 10 days to go to a VA facility for a walk-in appointment to verify their identity will make it easier for them to complete identity verification.
 
 -   Partly true. For many Veterans, their initial reaction to the 10-day window was on the whole positive, with the time allotted seeming reasonable. However, concerns were raised for those who may need to set up transportation through VA, as distance from the site and transportation availability may impact their ability to show up within the 10-day window. Other Veterans noted the impact their work schedule or unforeseen occurrences might have on getting to a VAMC within 10 days.
 
@@ -150,7 +150,7 @@ Hypotheses and Conclusions
 
 "It's just getting your butt there and making it happen." (P9)
 
-1.  Veterans will report positive feedback for the custom application design and flow.
+5.  Veterans will report positive feedback for the custom application design and flow.
 
 -   Mostly True. Most participants reported positive feedback surrounding the application design and flow; however, some preferred options that did not require them to go into a physical location. However, the response to the presented design and process was mostly validated through positive responses to testing.
 
@@ -160,7 +160,7 @@ Hypotheses and Conclusions
 
 "I think it would be wonderful to take care of this online so I can get it done faster." (P4)
 
-1.  Veterans who may have been unable to complete or experienced difficulty with remote verification in the past will report positive feedback about the availability of an in-person verification service.
+6.  Veterans who may have been unable to complete or experienced difficulty with remote verification in the past will report positive feedback about the availability of an in-person verification service.
 
 -   Mostly False. Two participants (P9 and P15) did not have verified accounts and both had a form of visual impairment. Neither one compared their failure to verify with a positive experience with our application, and both had different concerns about going in person to verify. Only one other participant (P9), who now has a verified account, commented that they would choose in person because of previous negative experiences over the phone.
 
@@ -168,7 +168,7 @@ Hypotheses and Conclusions
 
 "I would say I do like in person. Because of my experiences over the phone... I don't know I'm old school that way. I like face to face. If there are things that need to be challenged or talked about then we're there in person to talk about it and there's less confusion." (P9)
 
-1.  If verification is completed successfully, Veterans will experience a positive change in attitude toward VA's ability to provide services.
+7.  If verification is completed successfully, Veterans will experience a positive change in attitude toward VA's ability to provide services.
 
 -   Somewhat true. Two participants explicitly shared a positive reaction towards the VA given their experience using the prototype, while six others expressed positive attitudes about the IPP service but did not directly comment on a positive attitude toward the VA's ability to provide services.
 
@@ -179,7 +179,7 @@ Hypotheses and Conclusions
 Key Findings
 ============
 
-Key Finding 1: Verification, without context, can be misunderstood and undesired but is appreciated when set up as a simple service.
+#### Key Finding 1: Verification, without context, can be misunderstood and undesired but is appreciated when set up as a simple service.
 
 6 participants (P1, P2, P4, P11, P12, P13) expressed confusion as to why verification needed to be done in the first place and were unclear of the benefits it afforded them.
 
@@ -213,11 +213,11 @@ A limitation worth noting is that although we provided a verbal explanation to V
 
 "No surprises...If you have to show up in person, and it prevents theft, that's good." (P2)
 
-Conclusion
+#### Conclusion
 
 The positive reactions to in-person identity verification suggest that Veterans are open to a new service like in-person identity proofing as it allows preference, provides face to face support and there is a growing understanding that it helps prevent fraud. Participants' lack of understanding of the benefits or purpose of having a verified account, desire to opt-in to their preferred method of verification, and their confusion as to why they cannot just walk into any VA to initiate in-person identity proofing without going on a device, illustrates the prototype nature of in-person identity proofing. Identity verification is a new practice and continued effort is needed to promote not only awareness and education for Veterans and VA staff but also integrating it into the VA service ecosystem.
 
-Key Finding 2: Veterans consider more than just proximity when selecting a VA for appointments: they take into account transportation, traffic, parking, available services, and site recommendations from fellow Veterans.
+#### Key Finding 2: Veterans consider more than just proximity when selecting a VA for appointments: they take into account transportation, traffic, parking, available services, and site recommendations from fellow Veterans.
 
 When Veterans made their site selection, they were able to view a map that suggested they could use this interactive component to locate nearby proofing sites. Veterans wanted to make sure that they get to the VA in person within the 10-day time frame, so proximity is usually the most common factor when choosing a site. However, we learned that several other important factors can weigh in on a Veteran's decision.
 
@@ -243,11 +243,11 @@ Lastly, two Veterans (P2 and P5) said they might rely on previous experiences or
 
 "Oh, I guess proximity to where I am [is most important]. Although what my knowledge is of VA medical centers is that some are better than others. I might choose based on that experience." (P5)
 
-Conclusion
+#### Conclusion
 
 Scheduling an in-person appointment does put some burden on the Veterans to make time and plan out the logistics of their visit. Stressful factors like traffic, limited parking availability, and planning out transportation could lead to a negative experience even before the Veteran shows up for their in-person appointment. While Veterans are willing to make these considerations for the sake of completing their verification in person, it does make the overall process feel inconvenient.
 
-Key Finding 3: The Veteran intake application cannot provide the assurance that another human can.
+#### Key Finding 3: The Veteran intake application cannot provide the assurance that another human can.
 
 Even though Veterans reported that the intake application was easy to understand and straightforward, many brought up calling the VA or the VAMC to help them prepare for their in-person walk-in, reschedule their walk-in window, or report identity fraud. Veterans would mention this when they had doubts or concerns, especially regarding making their appointment within a designated time window. Even when a number was not present on the screen in front of them, Veterans would bring up the desire to call in which suggests that some human contact throughout the process would be reassuring for them.
 
@@ -278,9 +278,11 @@ Lastly, when presented with the idea of a letter to report fraud, six Veterans (
 
 "I would call that number and probably drive over at the same time. and probably panic." (P3)
 
+#### Conclusion 
+
 The evidence presented for this finding supports how contact with another person can enhance trust and reassurance, but it also reveals how critical that point of contact is in moments that pose confusion, concern or a security risk to the Veteran. Remote self-service solutions may not be able to resolve concerns that a Veteran may have. Rather Veterans prefer having an option to contact a person, whether it is remote or in person, in order to respond to their concerns effectively.
 
-Key Finding 4: Veterans desire alternate pathways should their plans change.
+#### Key Finding 4: Veterans desire alternate pathways should their plans change.
 
 The Figma prototype did not include a pathway that enabled Veterans to reschedule or cancel their appointment, an omission that was noted by participants. Veterans expressed a need for more information about what they could do or should do if prearranged plans changed. 
 
@@ -296,11 +298,11 @@ Veterans have an idea of what kinds of content would assist them when guidance i
 
 "Get the contact information and set up a time when you can go in person to get your identity verified." (P15)
 
-Conclusion 
+#### Conclusion 
 
 Veterans identified specific features and content that are not outlined or presented in the Figma prototype. Veterans not only identified missing information with the prototype but made very specific suggestions of what they would expect to see to make the overall experience of preparing for an in-person identity verification appointment feel more secure.
 
-Key Finding 5: Veterans have different levels of digital literacy, which directly impacts how they interact with modernized UI elements that are featured in our IPP application. These elements are also new to VA, which presents an additional learning curve for Veterans interacting with the application.
+#### Key Finding 5: Veterans have different levels of digital literacy, which directly impacts how they interact with modernized UI elements that are featured in our IPP application. These elements are also new to VA, which presents an additional learning curve for Veterans interacting with the application.
 
 We are modernizing the VA experience, and because Veterans have different levels of digital literacy, we have to take those varying levels into account when we are designing features within our application. Veterans have a wide range of outside experiences with technology that shape their individual expectations of what an element on a screen should do.
 
@@ -316,11 +318,11 @@ Maps may be not glanceable for every Veteran interacting with the application an
 
 "My initial reaction...I appreciate the information here.. I don't immediately see where the medical centers are on the map. Might be because the screen is really small. It would make it really helpful to see on the map. It would help me see where I need to go." (P4)
 
-Conclusion 
+#### Conclusion 
 
 Every Veteran has varying levels of comfort and familiarity with digital tools and services. Some Veterans might easily grasp touchpoints and features in applications, while others might struggle and pause when looking at the same screens. We have to design for the Veteran which also means providing information that allows the technology to work for them.
 
-Key Finding 6: Familiar experiences instilled confidence in completing tasks, but led to assumptions around functionality.
+#### Key Finding 6: Familiar experiences instilled confidence in completing tasks, but led to assumptions around functionality.
 
 Familiarity with certain aspects of in-person identity proofing, for example, verifying identity, interacting with a map, and/or receiving an email from the VA, impacted Veterans' comfort interacting with the Figma prototype. Certain assumptions held by Veterans around how UI functionality should work and/or next steps also impacted their perception of the prototype.
 
@@ -360,11 +362,11 @@ Veterans are used to receiving emails from the VA, understand how to check for t
 
 "I've been misled before...I look for language as well, actual English, grammar. If I'm seeing things that are off, red flags are raised." (P5)
 
-Conclusion
+#### Conclusion
 
 Overall, Veterans seemed to heavily rely on familiar visual cues and UI elements to navigate the IPP application. This instilled a certain level of confidence in completing the flow, but also led to assumptions that were sometimes incorrect. Future iterations of the application should consider how to compliment what is familiar or provide support when introducing new components for Veterans.
 
-Key Finding 7: Veterans are careful when preparing for appointments. Repetition, hierarchy, and the ability to save information to refer to it later are reassuring and allow Veterans to catch details they may have missed.
+#### Key Finding 7: Veterans are careful when preparing for appointments. Repetition, hierarchy, and the ability to save information to refer to it later are reassuring and allow Veterans to catch details they may have missed.
 
 In order to be prepared, Veterans prefer to be told what to do plainly and be given all of the information necessary to complete a task upfront. Because they have concerns over forgetting things, hierarchy and repetition (including being able to save and/or revisit information) are familiar tactics that help reassure Veterans that they have captured all information and steps needed to complete a task.
 
@@ -412,7 +414,7 @@ Reminders would be useful to Veterans, especially those who may struggle with me
 
 "Reminders about this, maybe halfways through or quarter through reminder is good." (P12)
 
-Conclusion
+#### Conclusion
 
 This finding suggests that Veterans consider repetition and reminders as positive ways to reinforce information and tasks to be done. They are used to receiving clear, repetitious, direct orders from the military and following through. As they age, and/or experience cognitive/memory issues, repeated information reduces cognitive load and stress for Veterans. Given their familiarity with receiving multiple follow ups from the VA, repetition should be considered as an optimal approach in communications.
 
@@ -460,33 +462,33 @@ Recommendations
 
 Below are recommendations for both immediate and future changes for the Secure Sign In Transition team's IPP product as well as considerations for other VA product teams.
 
-Key Recommendation 1: When prompting a Veteran to verify their account, communicate why verification is important and list all of the options.
+### Key Recommendation 1: When prompting a Veteran to verify their account, communicate why verification is important and list all of the options.
 
 Veterans did not understand why they needed to verify their account for VA.gov. Some mentioned that verification is supposed to make it easier to sign in. One Veteran shared that asking Veterans to verify can come off as the VA doubting the identity of the Veteran.
 
 We recommend better informing Veterans on why they need to verify their accounts both in upcoming messaging and in verification services. Educating Veterans on verification is important to helping them gain and maintain access to their healthcare and benefits. Making content on verification widely available and clear will help Veterans transition to using modern credentials.
 
-Recommendations
+#### Recommendations
 
--   SSiT 
+SSiT 
 
 -   Update home screen to provide more information on purpose and benefits of IPP
 
 -   Repeat information on home screen in confirmation screen
 
--   VA:
+VA
 
 -   Consider a pathway for verification that enables Veterans to choose from options, i.e. in person versus remote for either ID.me or Login.gov
 
-Key Recommendation 2: When creating in person services, consider how to incorporate that service within existing infrastructure.
+### Key Recommendation 2: When creating in person services, consider how to incorporate that service within existing infrastructure.
 
 During our study, we heard that Veterans would not prefer to come in person to verify their identity unless they were concerned about sharing their personal information and documents online or wished to use the opportunity to socialize. Many Veterans were curious about online verification because it sounded more convenient for themselves and VA staff.  We recommend that if VA continues to develop and offer in person services like verification, they make that service available for walk in's or bundling. Walk in's without digital set up enable Veterans to access in person verification without dependency on having, being able to access, or knowing how to use a smart device or computer. Providing this flexibility was both appealing and necessary for some Veterans. Bundling could be critical for Veterans with limited access to transportation as it will save them from planning and making another trip to their VAMC.
 
 In addition to making the service more convenient for Veterans, we also encourage VA to provide information about in person services that speaks to all Veterans but specifically those with caretakers or disabilities. Veterans have different methods of getting to VA and engaging with the staff, so providing as much information about in person appointments up front might lower the chance of the Veteran making a phone call in advance.
 
-Recommendations
+#### Recommendations
 
--   SSiT
+SSiT
 
 -   For future iterations, add in content that would assure populations with disabilities that they will be accommodated (space, assistance, etc.)
 
@@ -494,7 +496,7 @@ Recommendations
 
 -   For future consideration, enabling IPP to be done as a walk-in service without any digital set up 
 
--   VA
+VA
 
 -   Include information that will prepare all Veterans for any in person interaction.
 
@@ -502,13 +504,13 @@ Recommendations
 
 -   Offer information for Veterans with disabilities and caretakers, so that they understand how they may engage with a service.
 
-Key Recommendation 3: When providing information about a site for an in person service, include a phone number that the Veteran may call for follow up questions.
+### Key Recommendation 3: When providing information about a site for an in person service, include a phone number that the Veteran may call for follow up questions.
 
 Veterans expressed delight when they saw a phone number listed with the available verification sites. On the following pages in our application, we omitted the phone number and we heard Veterans say that they would want to see the phone number repeated. When speaking about VA locations, we recommend including a phone number for the site that Veterans may follow up with or a number to the help desk.
 
-Recommendations
+#### Recommendations
 
--   SSiT
+SSiT
 
 -   For future consideration, include phone number of selected site across Veteran touch points in application
 
@@ -516,19 +518,19 @@ Recommendations
 
 -   For future consideration, determine support system for IPP, is there an unique support team for IPP versus site that IPP is occurring at
 
--   VA
+VA
 
 -   Once a piece of information, like a phone number or address, is mentioned, make sure to repeat that information whenever the Veteran needs to confirm or retain the information
 
-Key Recommendation 4: Anticipate questions or issues a Veteran may have, and offer information or self service options that can save them a phone call.
+### Key Recommendation 4: Anticipate questions or issues a Veteran may have, and offer information or self service options that can save them a phone call.
 
 Veterans stated that they would try to show up in person right away to take care of their verification appointment, but many expressed concerns about what to do if they could not get there within the designated time frame.
 
 We encourage that all service providers include information on their applications and supporting materials that will help Veterans show up to their walk in's with the correct materials. Helpful information could include the site's hours of operation, acceptable forms of documentation, and what a Veteran will need to do if they do not bring the appropriate documents or if they cannot attend their original appointment.
 
-Recommendations
+#### Recommendations
 
--   SSiT
+SSiT
 
 -   Add hours for specific VAMC selected on the confirmation screen (and other screens). This will be a change implemented once a pilot site is selected. 
 
@@ -546,7 +548,7 @@ Recommendations
 
 -   Build a case number retrieval flow and functionality to retrieve case number with SSN if forgotten
 
--   VA
+VA
 
 -   Offer clear instructions for what a Veteran should do in the event they need to change or cancel their original appointment
 
@@ -556,13 +558,13 @@ Recommendations
 
 -   Emphasize the importance of bringing the correct materials and showing up on time by describing the alternative outcome
 
-Key Recommendation 5: When introducing digital elements to a Veteran, provide instructions on how to use the tool and refer to analogous use cases.
+### Key Recommendation 5: When introducing digital elements to a Veteran, provide instructions on how to use the tool and refer to analogous use cases.
 
 Veterans pointed out that the map was not a typical feature they would find on a VA website or application. However, most participants did not mind it and many had experience using maps on other websites. Some had concerns that this feature would not be well received by older Veterans or Veterans who are uncomfortable with using technology. To ensure that new features can be used by all Veterans, VA should provide brief instructions on how to use new features in addition to alternative routes that can achieve the same goal. For example, a Veteran may use the map to filter their results for proofing sites, but they may also choose to filter a list by proximity to their zip code. By providing instructions VA may also reduce any false assumptions Veterans may make about how a feature may work.
 
-Recommendations
+#### Recommendations
 
--   SSiT
+SSiT
 
 -   For future consideration, add directional/instructional content when the map appears on the screen 
 
@@ -572,13 +574,13 @@ Recommendations
 
 -   For culture consideration, make address text clickable in location selection screen
 
--   VA
+VA
 
 -   When presenting Veterans a design element that may be new to VA products, provide instructional content to familiarize them with the element's functionality and purpose
 
 -   Consider adapting design elements that increase the ease of clickability, i.e. larger radio buttons, standardizing clickable text
 
-Key Recommendation 6: Write out content so Veterans can scan, save, and correctly recall information.
+### Key Recommendation 6: Write out content so Veterans can scan, save, and correctly recall information.
 
 Veterans appreciated when we used numbered lists and bullets to break up information and make important details visible. For example, when we listed the materials a Veteran needed to bring for their walk-in, all Veterans preferred the format of the lists over the usage of accordions. Some Veterans commented that they had memory issues, and numbered lists helped them retain what they needed to remember.
 
@@ -586,9 +588,9 @@ Using lists rather than clickable elements also prevents users from perceiving t
 
 In addition to writing out content in a scannable format, VA should also keep in mind to write listed content in the same manner across all forms of communication. Eliminating inconsistencies will help the Veteran so that they do not need to cross-check information. Also, making information repetitive across communication and through reminder messaging will help Veterans learn and find information faster if they ever need to find a reference.
 
-Recommendations
+#### Recommendations
 
--   SSiT
+SSiT
 
 -   Update home screen and confirmation screen to include bulleted/numbered way of laying out information so that it is stepwise and repetitive
 
@@ -598,13 +600,13 @@ Recommendations
 
 -   For future consideration, send reminder emails, SMS messages, or phone calls for verification walk in appointments
 
--   VA
+VA
 
 -   Continue to emphasize the importance of presenting content in plain language and hierarchy that is repetitive and list-like to ensure Veterans feel informed and assured
 
 -   Ensure product strategies incorporate adaptations that enable reminder functionalities
 
-Key Recommendation 7: Make sure services are accessible to Veterans with assistive technology by using inclusive content and testing with the appropriate populations.
+### Key Recommendation 7: Make sure services are accessible to Veterans with assistive technology by using inclusive content and testing with the appropriate populations.
 
 Accessibility should be kept front of mind as VA develops solutions for Veterans. Veteran facing developers should build, test, and communicate their solutions to Veterans. This means that both content in the research documentation and the prototypes should be created and revised to be inclusive of Veterans with disabilities and those who use assistive technology. We recommend adding information that may help Veterans with disabilities better understand and prepare for their appointments. While we did not have the opportunity to test with caretakers, this recommendation can also carry over to caretakers and adjacent populations.
 
