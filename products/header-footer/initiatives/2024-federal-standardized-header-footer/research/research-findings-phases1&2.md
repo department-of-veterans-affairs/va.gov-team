@@ -199,7 +199,7 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 **Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking. One participant commented that the black footer looks like a typical footer.
 
-> *"That is a typical footer [pointing to black part], maybe a little more. But this [pointing to blue part] is confusing. Why is it blue here?...Is this supposed to be like an alternative additional footer?" (AT p3).*
+> *"I'm confused cause this part like the language [links at bottom of blue part], that's stuff you would typically see in the footer...That is a typical footer [pointing to black part], maybe a little more. But this [pointing to blue part] is confusing. Why is it blue here?...Is this supposed to be like an alternative additional footer?" (AT p3).*
 
 ****Half of the participants** (8 of 16 participants--5 desktop, 3 mobile) who were **asked about the Freedom of Information Act used search** and didn't find the *Freedom of Information Act (FOIA)* link in the black footer.
 
