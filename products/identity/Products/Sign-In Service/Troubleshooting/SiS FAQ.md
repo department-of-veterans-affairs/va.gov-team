@@ -82,7 +82,7 @@
 | | |
 | **`Refresh` doesn’t work. Do we need to `revoke`?** | *`Revoke` is probably unnecessary (but it makes sense to call it for simplicity’s sake). This falls into the same category as errors such as where `/demographics` is being called before the new session is fully set up. The user’s old access token is being used but they don’t have a real session anymore.* | 
 | | |
-| **Why aren’t any of the auth flows for navigating directly to `vets-website` sub-apps opting in to the newer Sign-In Service?** | *In particular, `RequiredLoginView` is always invoked in the unconnected component form which in turn results in a use SiS boolean being false.* | 
+| **Why aren’t any of the auth flows for navigating directly to `vets-website` sub-apps opting in to the newer Sign-In Service over the sign-in product it was meant to supersede?** | *In particular, `RequiredLoginView` is always invoked in the unconnected component form which in turn results in a use SiS boolean being false.* | 
 
 -----------------
 
