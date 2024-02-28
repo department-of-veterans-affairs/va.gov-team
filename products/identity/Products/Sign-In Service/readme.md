@@ -69,7 +69,7 @@ Identity team provides documentation, validation guides, 1x1 meetings, and [offi
     - 1-hour meetings with your backend developers and frontend developers to develop requirements.
   - A final sign-off meeting to approve the work.
   - After the Identity team registers your client configuration or service configuration, we estimate it will take 1-2 sprints worth of effort to build, test, and deploy your integration.
-  - Check out [this page for a detailed timeline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service#estimated-timeline-for-integrating-with-sis-6-8-weeks).
+  - Check out [a detailed timeline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service#estimated-timeline-for-integrating-with-sis-6-8-weeks) and a [visual timeline](https://docs.google.com/presentation/d/17JuRrXlMTNT1qLfDPLwWcuJKv5_n6wfN0ux6eB0Nsuw/edit#slide=id.g2b946ccaa94_0_1019) of key milestones.
 
 - __What information does the Identity team need from our team?__
   - Team members, including: your product owner, developer, and OCTO Product owner.
