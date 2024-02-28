@@ -26,9 +26,9 @@
 
 ## General Information
 
-|  |  | 
-| --- | --- | 
-| **Is there a Slack channel for general SiS questions?**| *Yes, use the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN).* |
+|  |  |  
+| --- | --- |
+| **Is there a Slack channel for general SiS questions?** | *Yes, use the [#identity channel](https://dsva.slack.com/archives/CSFV4QTKN).* |
 | | |
 | **Where can I find additional information on SiS?** | *This is our GitHub page: [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).* |
 | | |
@@ -98,7 +98,7 @@
 | | *Long-term unique user data* |
 | | *Most popular sign-in option on device* |
 | | *Number of unique users, volume, by day/week/month* |
-| | *Breakdown by Sign-in type (ex. ID.me) and `user agent`* |
+| | *Breakdown data by sign-in type (ex. ID.me), `user agent`, and more* |
 | | |
 | **Does SiS use MPI for user data?** | *Yes, SiS uses MPI.* |
 | | |
