@@ -204,7 +204,9 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 > *"I'm confused cause this part like the language [links at bottom of blue part], that's stuff you would typically see in the footer...That is a typical footer [pointing to black part], maybe a little more. But this [pointing to blue part] is confusing. Why is it blue here?...Is this supposed to be like an alternative additional footer?" (AT p3).*
 
-****Half of the participants** (8 of 16 participants--5 desktop, 3 mobile) who were **asked about the Freedom of Information Act used search** and didn't find the *Freedom of Information Act (FOIA)* link in the black footer.
+> *"If if I'm looking for something, I'm usually gonna look at the bottom before I go to the [header] menu because in my mind the menu is based on what I'm looking at in front of me--insurance on that page" (non-AT p2).*
+
+**Half of the participants** (8 of 16 participants--5 desktop, 3 mobile) who were **asked about the Freedom of Information Act used search** and didn't find the *Freedom of Information Act (FOIA)* link in the black footer.
 
   > *"I was not able to find that Freedom of Information Act right away, so I had to resort to the search bar" (non-AT p8)."*
 
