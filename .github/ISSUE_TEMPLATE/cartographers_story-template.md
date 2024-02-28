@@ -12,11 +12,14 @@ assignees: ''
 ### User story
 > _Describe the audience/user and value / outcome desired._
 
+As a Cartographer, 
+As a Veteran, 
+
 ### Notes
 - 
 
 Possible tasks:
-- [ ]  
+- 
 
 ## Acceptance criteria
 
