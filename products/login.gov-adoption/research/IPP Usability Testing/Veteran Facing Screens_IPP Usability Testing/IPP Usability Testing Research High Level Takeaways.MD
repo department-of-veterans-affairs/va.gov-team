@@ -1,4 +1,4 @@
-# 2023-12 In Person Proofing Pilot Veteran Usability Test Key Takeaways
+# 2023-12 In Person Proofing Pilot Veteran Usability Test 
 
 ## Team: Secure Sign In Transition Team
 ## Product: In Person Identity Proofing 
