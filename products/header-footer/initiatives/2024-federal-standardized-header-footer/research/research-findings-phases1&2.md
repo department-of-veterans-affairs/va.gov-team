@@ -185,9 +185,9 @@ After signing in using the prototype, about **a third of the participants** (6 o
 After signing in, **half of the participants (9 of 19) had difficulty finding the Auth menu**. 
 - On mobile, the Auth menu was located *under their name within the mobile header menu*. **5 of 8 phone users** didn't try to click on the *Menu* button because they were looking for their name or something like "My profile" at the top of the screen.
 
-  > *"I clicked on the menu and it opened up to my name, which is kind of odd. Why would I want to do that to find my name? When I open this up, I sign in. It should tell me 'Hi Janet you're here', and then I should be able to navigate from there. I shouldn't have to keep clicking on things to open up for it to say that it recognizes that I've logged in" (p4).*
+  > *"I clicked on the menu and it opened up to my name, which is kind of odd. Why would I want to do that to find my name? When I open this up, I sign in. It should tell me 'Hi Janet you're here', and then I should be able to navigate from there. I shouldn't have to keep clicking on things to open up for it to say that it recognizes that I've logged in" (AT p4).*
 
-  > *"It just seems a little hidden for me. My eyes wouldn't naturally look to right there for my personal profile...I would look in the upper right area, even just to see if I was actually signed in. I mean the fact that it says sign out is nice, but blind people tend to read or fight their way through the first 2 or 3 letters. and if it says sign [out], and it used to say sign in, I might not read all the way across to see that it now says sign out. I wouldn't feel like I was signed in, because the sign in button looks virtually the same even though I'm signed in. A visual change a more significant change would be easier for me (p7).* -- REVIEW
+  > *"It just seems a little hidden for me. My eyes wouldn't naturally look to right there for my personal profile...I would look in the upper right area, even just to see if I was actually signed in. I mean the fact that it says 'sign out' is nice, but blind people tend to read or fight their way through the first 2 or 3 letters. And if it says 'sign [out]', and it used to say 'sign in', I might not read all the way across to see that it now says 'sign out'. I wouldn't feel like I was signed in because the sign in button looks virtually the same even though I'm signed in. A more significant change would be easier for me (AT p7).* 
 
 - On desktop, the Auth menu was under their name in the top right corner of the page.  **4 of 11 desktop users** didn't try to click on their name. One participant's difficulty was because he didn't notice the triangle dropdown indicator to the right of his name (he was using a screen magnifier, and the shape was different from the carat symbol for dropdowns in the blue menu bar). Another participant's difficulty was due to confusion about what her screen reader said ("button menu"), and she wondered whether it was a button or a menu.
 
@@ -199,6 +199,8 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 **Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking. One participant commented that the black footer looks like a typical footer.
 
+> *"That is a typical footer [pointing to black part], maybe a little more. But this [pointing to blue part] is confusing. Why is it blue here?...Is this supposed to be like an alternative additional footer?" (AT p3).*
+
 ****Half of the participants** (8 of 16 participants--5 desktop, 3 mobile) who were **asked about the Freedom of Information Act used search** and didn't find the *Freedom of Information Act (FOIA)* link in the black footer.
 
   > *"I was not able to find that Freedom of Information Act right away, so I had to resort to the search bar" (non-AT p8)."*
@@ -207,7 +209,12 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 **Three participants (all on desktop) said that the blue VA footer is too large** and has too many links. 
 
-> *""It's a LOT down here...it's too much" (non-AT p4).*
+> *"It's a LOT down here...it's too much" (non-AT p4).*
+
+> *"It's just so much stuff down there...it's too much" (AT p1).*
+
+> *"That is a lot. I mean crazy a lot of links all to be on the bottom...you could have it just like a quick drop down menu...Look how much space it is: on this current page, it's half the page. So it doesn't seem like what you would expect to be a footer" (AT p3).*
+
 
 ### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
 
@@ -331,6 +338,10 @@ In order to be optimally accessible to screen readers, our websites need to supp
  
  ### C. Contacting VA
  **5 of 9 participants** in phase 2 (who all use assistive tech) said that they **call the VA, rather than use the VA website** because it's easier for them. It might take a lot to change this habit in the population of assistive tech users.
+
+ > *"I do go to the [VA] website periodically, but I find that it's too much, it's too cluttered. And the way you have to kind of go down to get the information it does open to like a new website or whatever. So I found it easier just to call instead of trying to navigate the website. But that's mostly what I do: I just call" (AT p1).*
+
+
 
 ## Research methodology learnings
 1. In phase 2 research, in order to keep research participants within the prototype, we created a dummy page that many links on the CodePen pages went to that said to wait for instructions. The problem we discovered during research sessions is that after a participant navigates to that page for the first time, all other links in the CodePen pages that go to that page say "visited link" instead of just "link" by screen readers—-thus falsely claiming that the user has visited multiple links that they haven’t. This confused 2 of our 5 screen reader users.
