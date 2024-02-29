@@ -2,7 +2,7 @@
 
 - [ ] __Make sure Codepen pages are accessible__
 	- [Two dots](https://bit.ly/49Bvi7O)
- 	- [Badge indicator](https://bit.ly/3IeFwyU)
+ 	- [Badge indicator](https://bit.ly/3IgkFLV)
 	- [Slim Alert](https://bit.ly/48lBwHG)
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
@@ -62,7 +62,7 @@ Okay great, I can see your screen. By the way, we are using a tool called CodePe
 
 ### Move on to badge indicators
 
-Ok great. I have another [link to share with you](https://bit.ly/3IeFwyU). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
+Ok great. I have another [link to share with you](https://bit.ly/3IgkFLV). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
 
 - Can you navigate the page and tell me what you think as you hear what's on the page.
 
