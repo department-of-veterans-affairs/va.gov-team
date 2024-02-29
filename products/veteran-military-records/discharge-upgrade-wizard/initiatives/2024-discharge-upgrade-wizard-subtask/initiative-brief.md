@@ -58,8 +58,8 @@ https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaff
 |  Discharge Upgrade Instructions / Questons | TBD | TBD |
 |  Discharge Upgrade Instructions | TBD | TBD |
 | **Q4 2023**|
-|  Discharge Upgrade Instructions/Questions | 15 | 3.87 |
-|  Discharge Upgrade Instructions | 43 | 3.65 |
+|  Discharge Upgrade Instructions/Questions | 8 | 80.89% |
+|  
 
 
 
