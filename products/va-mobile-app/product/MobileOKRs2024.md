@@ -19,7 +19,7 @@ Objective 2: Increase the number of tasks completed and their success rate
 
     KR1: All tasks are defined
     KR2: All tasks have baseline success rates collected
-    KR3: : 3Overall task success rates is increased by 10%
+    KR3: Overall task success rates is increased by 10%
     KR4: Number of tasks completed is increased by 25%
 
 
@@ -28,12 +28,6 @@ Objective 3: Improve Veteran Satisfaction
     KR1: Baseline Veteran satisfaction score is established
     KR2: Veteran satisfaction score is increased by 10%
     KR3: App store rating remains above 4.8
-
-
-
-
-Note: Each OCTO-led Experience team will have its specific OKRs, to be developed in December/January 2024.
-
 
 
 ## OCTO Objective 2: Stronger platforms.
