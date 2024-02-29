@@ -26,3 +26,6 @@ This work explores potential apporaches for brining personalized experiences to 
 **Personalized home screen design process**
 * [VA Mobile App: Personalized Home Screen UI - Explorations, Audit & Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/home-screen-success-criteria.md)
   * Low-fi wireframes, MVP scope revisions & high fidelity visual design
+* VA Mobile App: Personalized Home Screen Visual Design
+  * [Figma files for ENG handoff - MVP](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=3090%3A1710&mode=design&t=rD1KhcwhpLMxDWvT-1) (Feb 2024)
+  * [Figma prototype - MVP](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&type=design&node-id=2306-7638&viewport=914%2C651%2C0.55&t=ozJb8H4iZ00Z6xH5-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1&mode=design) (Feb 2024)
