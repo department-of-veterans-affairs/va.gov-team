@@ -43,9 +43,12 @@ Other open questions:
 Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
 
 Questions:
+- What does VADS consider "hint text"?
 - How can we better define which types of form questions require hint text?
 - Do we need to define 2 distinct types: how and why? "How" hint helps user understand what to enter. "Why" hint helps user understand why VA needs the info.
 - When should "why" hint text be an additional info component with header "Why we need this information"? When it's over a certain character count?
+
+- "Why we need this" 
 
 ## Prefill alerts and "Know how information is updated" pattern
 VADS doesn't currently connect guidance for prefill alerts to the the ["Know how information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern.
