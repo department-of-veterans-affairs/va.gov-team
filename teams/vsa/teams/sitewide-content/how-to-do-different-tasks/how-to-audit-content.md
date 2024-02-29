@@ -9,7 +9,7 @@ This search process includes all content managed in Drupal. It does not include 
 2. Select **Content audit**.
 3. Select **Content search**.
 
-## To audit auth content
+## To audit auth content in GitHub
 This search process in GitHub includes all content in online forms, online tools, and react widgets on our static pages. It also returns content that's not yet live in production, like content that's behind feature flags. 
 
 1. Go to vets-website at this URL: https://github.com/department-of-veterans-affairs/vets-website
