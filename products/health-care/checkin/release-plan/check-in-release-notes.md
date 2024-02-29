@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+### 2/29/2024
+- Fixed typos on the eCheck-in completion page
+    - [Ticket 77315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77315)
+
 ### 2/22/2024 - CHIP Release v3.4.4
 - Create CodeQL workflow
 - Mocks & Tests updated
