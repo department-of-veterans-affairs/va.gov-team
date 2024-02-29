@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience My VA - Dot Indicator/Slim Alert, February 2024
+# Research Plan for Authenticated Experience My VA - Dot Indicator/Slim Alert, March 2024
 _This includes additions to and revisions of the original plan created by Angela Agosto in October 2023_
 
 ## Background
