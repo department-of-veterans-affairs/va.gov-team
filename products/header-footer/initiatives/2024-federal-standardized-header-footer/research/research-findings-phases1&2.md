@@ -324,8 +324,9 @@ The sentiment from participants on the VA seal was mostly positive (88%) and neu
 ## Additional Insights
 
 ### A. Content feedback to consider
+Participants had feedback on the content and information architecture in the prototypes they saw, and it's documented below for consideration.
 #### Specific to the footer
-1. See all **feedback in the footer section above** *(4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer).*
+1. See all **feedback in the footer finding detailed section above** *(4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer)*.
 1. Two participants **didn't know what the "Business" link was** in the blue footer area. One wondered why they would need that and the "Researchers" link. The other participant thought the "Business" link might be for classes on having your own business.  
 1. One participant said that the **"Privacy, policies, and legal information" and "Privacy Service" links seem redundant**. They wondered if they could be combined into one link.
 1. One participant said that **"About VA" doesn't make sense in the black part** of the footer unless the VA link would be there for all federal agencies. All the other VA information is in the blue part of the footer.
