@@ -1,16 +1,17 @@
 ### Feature toggle updates
 | Percentage | Date       |
-| ---------- | ---------- |
+| ---------: | ---------: |
+|        10% | 02/29/2024 |
 |         1% | 02/28/2024 |
 
 
 ### Revision History
 | Revision         | Deploy Date |
-| ---------------- | ----------- |
+| ---------------: | ----------: |
 | [4](#revision-4) |  02/28/2024 |
 
 
-### Change log
+## Change log
 #### Revision 4
 Date Deployed: _02/28/2024_ \
 PR: [https://github.com/department-of-veterans-affairs/vets-api/pull/15699](https://github.com/department-of-veterans-affairs/vets-api/pull/15699)
