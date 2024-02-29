@@ -90,10 +90,11 @@ _\[If yes\]_
 - What are some types of tasks you complete on your Medical Records page?
 - Tell me about a time you had trouble completing a task you went on the page to complete, if any.
 - Tell me about any other tasks you wish you could do on your Medical Records page, if any.
-- \[If not already discussed, ask:\] When have you needed to access your allergy records in the past?
-- _[If not already discussed, ask:\]_ When have you needed to access your Vaccination records in the past?
-- _[If not already discussed, ask:\]_ When have you needed to access your Care summaries and notes records in the past?
-- _[If not already discussed, ask:\]_ When have you needed to access your VItals records in the past?
+- _[If not already discussed, ask:]_ When have you needed to access your allergy records in the past? What were you looking for?
+- _[If not already discussed, ask:]_ When have you needed to access your Vaccination records in the past? What were you looking for?
+- _[If not already discussed, ask:]_ What do you think ‘Care summaries and notes’ is?
+  - When have you needed to access your Care summaries and visit notes records in the past? What were you looking for?
+- _[If not already discussed, ask:]_ When have you needed to access your VItals records in the past? What were you looking for?
 
 # **Screen sharing instructions (AT USERS)**
 
@@ -194,6 +195,8 @@ _\[Return to list\]_
 
 # **Task 2: Allergies & Reactions – 10 minutes**
 
+- Have you ever accessed your allergy records?
+- _\[If they say Yes\]_ What were you looking for?
 - What are some of Jamie's Allergies?
 
 _\[If they go to allergy list, say\]_
@@ -204,7 +207,6 @@ _\[If they don’t go to the list, direct to link\]_
 
 _\[On the list\]_
 
-- Let’s say that Jamie ate a pineapple and had an itching mouth and numb lips, what should Jamie do to make sure it is noted in their record?
 - If you were to click on the allergies to Nuts link, what would you expect to see next?
 
 _\[Click on the link\]_
@@ -213,8 +215,8 @@ _\[Click on the link\]_
   - What does that mean to you?
 - What are your thoughts on "observed or historical?"
   - What does that mean to you?
-- \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of finding your allergy history?
-- \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of identifying the allergy you were looking for on the list?
+- _[Rating]_ On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of finding your allergy history?
+- _[Rating]_ On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of identifying the allergy you were looking for on the list?
 
 **Things to watch for:**  
 
@@ -226,11 +228,11 @@ _\[Click on the link\]_
 
 # **Task 3: Care Summaries and Notes – 10 minutes**
 
-- Let’s say that Jamie saw a doctor in November 2023, and you want to see the details of that visit, please walk through how you would do that on this website.
+- Let’s say that Jamie saw a doctor in November 2023, and you want to see a note the doctor wrote as part of the visit, please walk through how you would do that on this website.
 
 _\[If they do not find the page or start scrolling through, say\]_
 
-- Where do you expect visit information to be on Jamie’s medical record a website like this?
+- Where do you that visit information to be on Jamie’s medical record on a website like this?
 
 _\[Direct to list, if needed\]_
 
@@ -258,8 +260,8 @@ _\[Click on the link\]_
 _\[Return to the list\]_
 
 - Jamie saw a doctor in February of 2022, although it’s been a while, you want to see the details of that visit, walk me through how you would do that from here?
-- \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of finding your care history?
-- \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of identifying the note you were looking for on the list?
+- _[Rating]_ On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of finding your care history?
+- _[Rating]_ On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of identifying the note you were looking for on the list?
 
 **Things to watch for:**  
 
@@ -287,7 +289,7 @@ _\[Direct to details link, if needed\]_
 _\[Return to the list of vitals\]_
 
 - What other types of information would you expect to find a Vitals page like this?
-- \[_Rating_\] On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of understanding your Vitals history?
+- _[Rating]_ On a scale of 1-5 with one being "not easy at all" and 5 being "very easy" what would you rate the ease of understanding your Vitals history?
 
 **Things to watch for:**  
 
@@ -297,7 +299,7 @@ _\[Return to the list of vitals\]_
 
 # **Task 5: Print/Download – 2 minutes**
 
-- Say you want to print the full detail of Jamie’s most recent vaccination Flu shot to take with to their next appointment, what would you do from here? Show me how.
+- Say you want to print the full details of Jamie’s most recent provider note to take with to their next appointment, what would you do from here? Show me how.
 
 **Things to watch for:**  
 
