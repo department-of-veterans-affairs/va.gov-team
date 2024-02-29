@@ -77,35 +77,13 @@ Pilot session info:
 
 ### Length of sessions
 * Session length: 45 minutes
-	* For the screen reader session, please schedule it for 60 minutes
+	* For the screen reader session, please schedule it for __60 minutes__
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
 * If testing is able to begin early, March 5th cannot have any sessions scheduled
 
 ### Availability
-From the week of March 11th and onward, availability is open. Prior to that, March 5th is unavailable and 6th-7th are subject to change. 
-
-Proposed cohorts:
-	Cohort 1 
-        Magnification/zoom, increased text size users: over two days TBD
-        Anytime between 10am EST-6pm EST
-	
-	Cohort 2
-        Screen reader users: over two days TBD
-        Anytime between 10am EST-6pm EST
-	
-	Cohort 3
-        Colorblind users: over 1 day TBD
-        Anytime between 10am EST-6pm EST
-
-	Cohort 4
-     	Other desktop users: over 2 days TBD
-      	Anytime between 10am EST-6pm EST
-       
-	Cohort 5
- 	Other mobile users: over 2 days TBD
-  	Anytime between 10am EST-6pm EST
-
+Testing should take place from March 11th - March 15th, with 3-4 tests each day. 
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
