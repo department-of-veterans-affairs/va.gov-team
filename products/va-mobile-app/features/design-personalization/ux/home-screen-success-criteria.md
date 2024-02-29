@@ -30,7 +30,7 @@ Choosing a design direction for the personalized home screen involves balancing 
 
 11. The approach to displaying personalized content doesn’t negatively impact app responsiveness/speed (for example, limiting the number of API calls we make at one time).
 
-### Step 2: Design Explorations
+### Step 2: Design Explorations (low & high fidelity)
 [Personalized home screen - feedback notes (gdoc)](https://docs.google.com/document/d/1ucqnrsa-7PzmHKfk5XqcC_SMhV2Mbxvthjc0rL-wcZs/edit#heading=h.uvpdj3lsfue2
 
 #### Low-fi/Wireframes
@@ -61,7 +61,8 @@ The low-fi design explorations below will include collecting & evaluating high-l
 * **Round 3:** (Jan 2024)
   * Round 3 - Visual design direction walkthrough w POs [(figma mockup set 1)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2144-328&mode=design&t=07kqTAuTuFGYgCEl-4) [(figma mockup set 2)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2144-329&mode=design&t=07kqTAuTuFGYgCEl-4) | [pdf 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20category%2014.pdf) [pdf 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20category%2016.pdf)
   * [Round 3 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
- 
+
+### Step 3: Final Recommendation for MVP & Handoff
 * **Final Recommendation for MVP** (Jan 2024)
   * [High fidelity visual design - ENG handoff (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) 
   * [High-fi Prototype - key screens (Figma)](https://figma.fun/c84v1B/view)
