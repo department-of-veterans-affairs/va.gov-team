@@ -211,7 +211,7 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 ### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
 
-**A third of the participants (6 of 19 participants: 5 desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 3 *stopped at the white USA logo*. One participant said that the blue footer is a good place to look for quick information, and so they started here instead of with the header for each task.
+**A third of the participants (6 of 19 participants: 5 desktop, 1 mobile) misperceived the bottom of the page and didn't notice any of the links in the black federal footer** until prompted by the moderator to scroll farther down. 3 of them *stopped scrolling at the blue VA footer*, and 3 *stopped at the white USA logo*. One participant said that the blue footer is a good place to look for quick information, and so they started here instead of the header for each task.
 
 **Three participants (2 desktop, 1 mobile) interpreted the footer as only the black federal part**, and so when they were looking for links that they thought would be in the footer *(Careers, Contact us)*, they **looked only there and not in the blue VA part** of the footer. They interpreted the blue VA part of the footer as part of the page content, not part of the footer where they should be looking. One participant commented that the black footer looks like a typical footer.
 
@@ -251,7 +251,7 @@ Only 16 of the 19 participants had enough vision that they were able to provide 
    - **Not telling you anything new** (3 participants) 
      > *"Just cause it says USA Government don't mean nothing" (non-AT p11).*
      
-     > *" I don't think the U.S.A. Government at the top is necessary...Why somebody would want it, I guess, to give them the warm and fuzzies that it's a government website...you gotta watch out for scamming scam websites and phishing and all that other stuff. Just putting U.S.A. Government at the top does not make it official to me" (non-AT p3).*
+     > *" I don't think the U.S.A. Government at the top is necessary...Why somebody would want it, I guess, to give them the warm and fuzzies that it's a government website...you gotta watch out for scamming websites and phishing and all that other stuff. Just putting U.S.A. Government at the top does not make it official to me" (non-AT p3).*
 
       > *"It's aesthetically pleasing, but it's not necessary. It could have been in all white on a black background" (non-AT p10).*
 
@@ -264,7 +264,6 @@ Only 16 of the 19 participants had enough vision that they were able to provide 
 
      > *"The fonts aren't consistent, so S is different than the U and A (AT p9).*
    
-
    - **Not sure why it says "USA Government"** because things usually say "*U.S.* Government"
 
   - **Not sure why it says "USA"**  because VA is what matters
@@ -274,7 +273,7 @@ Only 16 of the 19 participants had enough vision that they were able to provide 
 
 Only **one person loved the colored USA logo**, and this was a Veteran who had previously worked professionally on branding and logos. He had very specific reasons for liking it so much. One other person thought it looked nice but didn't need color.
 
-   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it...It's very well done. It's very well considered, and it's awesome. I've done a lot of this work in the past." (non-AT p2).*
+   > *"It's interesting...The S is...a different..logo/type from the U and the A...It draws your eye to it because of the improbability of the mixed logos. It creates an improbability that creates curiosity, which increases time looking...When it's colored, it kind of dances...due to that odd S in the middle. It's sort of the perception...that it's moving...the S in the middle is wiggly. And the red...ordinarily would be red, white, blue, but it's blue, red, white. That's another improbable thing...Whoever's involved with that, tell them I said that they were smarty pants, and I like it...It's very well done. It's very well considered, and it's awesome. I've done a lot of this work in the past" (non-AT p2).*
 
 Of the 11 participants who didn't like the colored USA logo in the header, **5 said they liked the black/white USA logo in the footer better** because it's a single color and has the seal next to it instead of the word "government". 
 
@@ -292,7 +291,7 @@ Of the 11 participants who didn't like the colored USA logo in the header, **5 s
 
 3 participants had **feedback on the white VA seal to the right of the white USA logo**.
 
-  - 2 people had **difficulty seeing the details** of the white logo, noting that it's smaller than the colored version at the top of the page.
+  - 2 AT participants had **difficulty seeing the details** of the white logo, noting that it's smaller than the colored version at the top of the page.
   - 1 person said that the **black and white coloring was wrong for the eagle**:
       > *"If I blow it way up, I can see that...the poor eagle has a black head. And that wasn't the case at the top because it was colored right and eagles don't have black heads. [They have] white heads" (AT p4).*
    - 1 person wondered why it was the VA seal and not a US seal.
