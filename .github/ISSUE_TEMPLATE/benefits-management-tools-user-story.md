@@ -49,8 +49,8 @@ assignees: ''
 - [ ] Code reviewed (internal)
 - [ ] Submitted to staging
 - [ ] Team approved production verification process
-- [ ] Accessibility specialist performs accessibility review (in code or design)
 - [ ] Design performs design QA and verifies the implementation matches the design spec
+- [ ] Accessibility specialist performs accessibility review (in code or design)
 - [ ] Engineering identifies staging users required to test and shares account and credentials with design and product
 - [ ] Product performs functional QA and verifies acceptance criteria was met
 
