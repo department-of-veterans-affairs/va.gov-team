@@ -43,6 +43,8 @@ We recommend removing this field because:
 
 View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/pronouns-recommendation.md).
 
+If we do have to collect pronouns, we would only collect them from the subject of the inquiry, which is different from how pronouns are currently collected on ask.va.gov.
+
 ### Next step
 - We will recommend to the CCB that this field is removed from the form.
   
