@@ -15,9 +15,14 @@ Having seen some success in real cases, we turned our attention to improving on 
 ### Concepts tested
 We tested two concepts during this research that offered additional explanations around the concept of maximum disability ratings. The first concept (Yellow prototype) highlighted those explanations within three accordion components at the bottom of the Rated Disabilities page. This allowed participants to click on the question they were interested in and skip anything they weren’t. This also allowed them to remain on the same page while reading the content. 
 
-Figure 1 - Yellow prototype			    Figure 2 - Purple prototype
+| Scenario Yellow | Scenario Purple |
+| --- | --- |
+| ![Figure 1 - Yellow prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-01-Max-CFI-Refinements/Images/Figure%201%20-%20Yellow%20Prototype.png) | ![Figure 2 - Purple prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-01-Max-CFI-Refinements/Images/Figure%202%20-%20Purple%20Prototype.png ) |
 
- Figure 3 - Purple prototype - Education page (after clicking the link)
+| Purple Education Page |
+| --- |
+| ![Purple Education Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-01-Max-CFI-Refinements/Images/Figure%203%20-%20Purple%20Prototype%20Education%20Page.png) |  
+
 
 The other concept we tested (Purple prototype) provided a link for more information in the same section at the bottom of the 526EZ flow. This link opened in a new tab and offered some additional, contextual information as well as more generic resources for support at the bottom of the page. This page offered more content, but also forced the participants to navigate back to the previous tab to keep moving forward with the form. 
 Project context
