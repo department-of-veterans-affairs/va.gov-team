@@ -66,7 +66,7 @@ Ok great. I have another [link to share with you](https://bit.ly/3IgkFLV). This 
 
 - Can you navigate the page and tell me what you think as you hear what's on the page.
 
-- Do you think it's more helpful to hear the number of items that need your attention versus what you heard before on the previous version of the page which had no numbers?
+- Which is more helpful for you: hearing the number of items that need your attention versus what you heard before on the previous version of the page, being told when there are updates for you but without specific numbers?
   
 - How do you experience notifications on other websites and on your phone? Are there any experiences with notifications with other websites or apps that you've found to be helpful or really informative for you?
   
