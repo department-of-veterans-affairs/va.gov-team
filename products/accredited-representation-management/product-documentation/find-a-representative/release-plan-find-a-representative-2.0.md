@@ -11,9 +11,9 @@ Feature Toggles:
 ### Validation
 
 #### Technical Preparation
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
-- [ ] Unit tests and E2E tests are complete
-- [ ] QA by Michael + ARM team
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
+- [x] Unit tests and E2E tests are complete
+- [x] QA by Michael + ARM team
 - [x] Mapbox is ready for use (frontend)
 - [x] Address Validator in Lighthouse is ready for use (backend)
 
@@ -23,7 +23,7 @@ Feature Toggles:
 - [x] Entry points are ready to be redirected to the landing page
 
 #### Data Consideration
-- [ ] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
+- [x] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
 
 #### Go/No Go meeting 3/5/2024 at 12:30p ET
 - [ ] review the plan with your DEPO/OCTO representative.
@@ -39,8 +39,8 @@ While we cannot think of any events that would be critical enough to merit a rol
 1. Turn off the frontend feature toggle `find_a_representative_enable_frontend`
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
-   1. Comment on the initial Slack alert thread, also sending the message to the channel (checkbox)
-   2. Tag relevant teammates (Holden, Jonathan, Colin, Lindsay, Michael, Janelle, Jennifer, Lesley, Alex, Sam, Steve)
+   1. Include any details as to what triggered the rollback
+   2. Tag relevant teammates (@benefits-arm-core, Jennifer, Lesley, Alex, Sam, Steve)
 3. Create a ticket to document:
    1. A summary of what caused the rollback process
    2. Confirmation that the feature toggle has been turned off (or that a PR has been submitted)
@@ -54,7 +54,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 3/5-3/18
+- Rollout date range: 3/5-3/18/2024
 - Limited production access will be controlled through the frontend feature toggle `find_a_representative_enable_frontend` 
 - Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
