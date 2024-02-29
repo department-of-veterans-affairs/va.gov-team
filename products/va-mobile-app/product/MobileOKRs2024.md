@@ -15,14 +15,14 @@ Our digital experiences are the best way to access VA health care and benefits.
 Flagship OKRs
 1. Improve Veteran retention at the 30, 60, and 90 day marks by 10%
 2. Increase the number of tasks completed and their success rate
-    KR1: All tasks are defined
-    KR2: All tasks have baseline success rates collected
-    KR3: : 3Overall task success rates is increased by 10%
-    KR4: Number of tasks completed is increased by 25%
+   - KR1: All tasks are defined
+   - KR2: All tasks have baseline success rates collected
+   - KR3: : 3Overall task success rates is increased by 10%
+   - KR4: Number of tasks completed is increased by 25%
 3. Improve Veteran Satisfaction
-    KR1: Baseline Veteran satisfaction score is established
-    KR2: Veteran satisfaction score is increased by 10%
-    KR3: App store rating remains above 4.8
+   - KR1: Baseline Veteran satisfaction score is established
+   - KR2: Veteran satisfaction score is increased by 10%
+   - KR3: App store rating remains above 4.8
 
 
 
