@@ -392,13 +392,30 @@ Some potential recommendations based on the research findings are listed below.
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702404444027/711442d4b780551c710b8594ddf1e662f04b1ddb?sender=uff8fa85716c1796ccf022668)
 
 
-#### Screenshots of the prototypes in Figma
+#### Screenshots of the mobile prototype in Figma
 <details>
-  <summary>Intro page (Click to show screenshot)</summary>
+  <summary>First screen (Click to show screenshot)</summary>
 
-  ![intro-pg](./images/intro-pg.png)
+  ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
+  ![figma-mobile-first-middle](./images/figma-mobile-first-middle.png)
+  ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
   
 </details>
+
+<details>
+  <summary>Menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-menu](./images/figma-mobile-menu.png)
+  
+</details>
+
+<details>
+  <summary>Search open (Click to show screenshot)</summary>
+
+  ![figma-mobile-search](./images/figma-mobile-search.png)
+  
+</details>
+
 
 ### Phase 2 research with AT participants
 
