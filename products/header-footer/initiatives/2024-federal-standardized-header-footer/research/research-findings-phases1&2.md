@@ -376,21 +376,23 @@ Some potential recommendations based on the research findings are listed below.
 
 ## Appendix
 
-[Research plan](./research-plan.md)
+### Phase 1 research with non-AT participants
 
-[Conversation guide](./conversation-guide.md)
+[Research plan](./phase1-no-AT/research-plan.md)
 
-[Interview notes](./notes)
+[Conversation guide](./phase1-no-AT/conversation-guide.md)
+
+[Interview notes](./phase1-no-AT/session-notes)
 
 
-### Tools used for synthesis
+#### Tools used for synthesis
 
 [Synthesis spreadsheet](./analysis/TBD)
 
 [Mural board]()
 
 
-### Screenshots of the prototype
+#### Screenshots of the prototype
 <details>
   <summary>Intro page (Click to show screenshot)</summary>
 
@@ -398,6 +400,7 @@ Some potential recommendations based on the research findings are listed below.
   
 </details>
 
+### Phase 2 research with AT participants
 
 
 
