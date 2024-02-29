@@ -1,7 +1,3 @@
-<br>**This is a template, PLEASE MAKE A COPY**
-
----
-
 # [Study] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
