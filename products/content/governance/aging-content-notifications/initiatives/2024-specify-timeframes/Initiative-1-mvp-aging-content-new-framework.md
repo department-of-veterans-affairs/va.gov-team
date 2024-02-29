@@ -66,12 +66,15 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 ## In Scope for the MVP:
 Goal: Create a framework, either new or by adjusting the existing 365-day notification framework, to make timeframes and notifications configurable for different content types, with full-width banners being the MVP goal.
 
-The framework should enable different timeframes to be assigned (via code, not by the editor) to each content type, if desired. The framework should be extendable to other content types in the future, such as other banner types, as well as content blocks. Note that the auto-archiving mechanism will also be in a future iteration.
+The framework should enable different timeframes to be assigned (via code, not by the editor) to each content type, and should be extendable to other content types in the future, such as other banner types and content blocks. 
+
+Note that implementing on the individual content-types and the auto-archiving mechanism will be in future iterations.
  
 - As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below. The actual implementation of the various content types mentioned below will be in future stories/initiatives, and implemented after the framework is completed.
-  - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
+  - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors on Day 4, and the morning of Day 7. 
   - Home Page Promo Block:  content type is assigned a 21-day timeframe with notifications sent to the editors three (3) days before Day 21, and the morning of Day 21. (Note that 21 days is just being used as an example. (Note that this content block will actually be configured to 30 days; the 21 days mentioned above was just to illustrate that different timeframes may be assigned in the future.)
-  - Home Page Spotlight News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30. 
+  - Home Page Spotlight News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30.
+       - Note that after auto-archiving is implemented, a third notification will be sent when the content is actually auto-archived telling the editor such.
  
 ### How we are approaching the solution
 - By either altering the existing framework, or creating a new framework.
@@ -105,6 +108,7 @@ Note: Extending the (or building a new) framework to accommodate Content Blocks 
 ## Solution Narrative
 
 ### Current Status
+2024-02-39: Framework implementation completed and awaiting release; this will complete this initiative, and work begins on Initiative 2 in Sprint 105
 2023-12-19: Groomed and edited this MVP initiative
 
 ### Key Decisions
@@ -131,6 +135,9 @@ Note: Extending the (or building a new) framework to accommodate Content Blocks 
 #### Tickets
 - [[EPIC] Aging Content Notifications Framework (MVP) #15653](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15653)
   - [[SPIKE] Create a notification (aging content) framework that's flexible, configurable by content type #16623](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16623)
+  - [Create Architecture Plan for Aging Content Notification Framework](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16885)
+  - [Install ECA Drupal modules](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17115)
+  - [Create Views Result Condition Plugin for ECA ](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17116)
   
   
 
