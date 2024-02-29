@@ -48,16 +48,16 @@ The low-fi design explorations below will include collecting & evaluating high-l
 
 #### High-fi/Visual Design
 * **Round 1** (Nov 2023)
-  * Round 1: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1)
+  * [Round 1: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1)
 
 * **Round 2** (Dec 2023)
-  * Round 2: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)
+  * [Round 2: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)
  
 * **Round 3** (Dec 2023)
-  * Round 3: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1)
+  * [Round 3: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1)
  
 * **Round 4** (Jan 2024)
-  * Round 4: High fidelity visual design [Figma](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) [pdf]
+  * [Round 4: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) [pdf]
   * [High-fi Prototype - key screens](https://figma.fun/c84v1B/view)
 
 #### Appendix: Success Criteria Inputs
