@@ -9,7 +9,10 @@ Content in general, and for the purpose of this Initiative, Full-width banners i
 
 Currently, there is a Notification system set on a 365 day cadence from the banner's Created date or if subsequently edited, Last Edited date.
 
-To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 7-day timeframe specific to Full-width Banner. Notifications will be sent three days before the 7th day (telling them they need to edit to add a note that it is still needed, or archive the banner by the seventh day), then the morning of the 7th day (telling them they need to either edit to add a note that the banner is still needed, or archive), and then finally when auto-archiving is implemented, a notification will be sent informing them when the banner is actually archived.
+To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 7-day timeframe specific to Full-width Banner. 
+  - The firest notification will be sent on Day 4 within the 7-day timeframe telling them they need to edit to add a note that it is still needed, or archive the banner by the seventh day
+  - The second notification will be sent the morning of the 7th day telling them they need to either edit to add a note that the banner is still needed, or archive
+  - The third notification (not part of MVP, will be implemented after auto-archiving is implemented) will be sent informing them when the banner has een archived.
 
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial seven (7) day default timeframe that can then be extended by editing to add a note that the banner is still needed, which will reset the seven day window, and start the alerts again.
