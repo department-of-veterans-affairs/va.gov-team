@@ -67,6 +67,17 @@ Research Phase | Participants | Tasks | Design prototype tool | Dates | Topline 
 
 This report will cover Phases 1-2 in detail. Phase 3 is covered in the third topline summary link above. Because the same participant numbers are reused in each research phase, references to specific participants in Phase 1 will be labeled as "**non-AT**" (not assistive technology users), and participants in Phase 2 will be labeled as "**AT**" (assistive technology).
 
+The phase 2 CodePen prototype was very similar to the phase 1 Figma prototypes with the following differences:
+
+- Coded so accessible to screen readers and screen magnifiers
+- Responsive so automatically adjusted page layout to each participant's device size
+- USA logo in the header changed slightly and placed on a white background (*vs.* black in phase 1)
+- Before each research session, the authenticated menu was updated to the participant's first name
+- Third column of footer changed from "Connect with us" to "News and Media", and the "Careers at VA" link was moved out of it into "More resources"
+- Fewer links in the black federal footer
+- Font changed to Public Sans
+
+
 ## Participants
  Perigean recruited all of the participants. In Phases 1-2, **we talked to 19 people**.
 
@@ -384,6 +395,10 @@ Some potential recommendations based on the research findings are listed below.
 
 [Interview notes](./phase1-no-AT/session-notes)
 
+[Mobile prototype](https://www.figma.com/proto/vX5j5yiSW55PhX2ut8EFe5/USA-header-footer-Prototype?page-id=55%3A1867&type=design&node-id=55-1912&viewport=637%2C167%2C0.22&t=MQWFg5kgCdybvhLi-8&scaling=min-zoom&starting-point-node-id=55%3A1912&hotspot-hints=0&hide-ui=1)
+
+[Desktop prototype](https://www.figma.com/proto/vX5j5yiSW55PhX2ut8EFe5/USA-header-footer-Prototype?page-id=36%3A633&type=design&node-id=36-2413&viewport=1166%2C233%2C0.2&t=0JDRK9PEBhJ0iiyp-8&scaling=min-zoom&starting-point-node-id=36%3A2413&hotspot-hints=0&hide-ui=1)
+
 
 #### Tools used for synthesis
 
@@ -466,7 +481,94 @@ Some potential recommendations based on the research findings are listed below.
 
 ### Phase 2 research with AT participants
 
+[Research plan](./phase2-AT/research-plan.md)
 
+[Conversation guide](./phase2-AT/conversation-guide.md)
+
+[Interview notes](./phase2-AT/session-notes)
+
+[Responsive prototype](https://cdpn.io/pen/debug/gOEPoyo/43fa8051200887cb97f5b154ed54c8a3)
+
+
+#### Tools used for synthesis
+
+[Synthesis spreadsheet](./phase2-AT/analysis/Header_footer%20phase%202%20usab%20notes%20%26%20data%20analysis.xlsx)
+
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705968636854/21a2da5c771047b31063a128a500e133522ffcf9?sender=uff8fa85716c1796ccf022668)
+
+
+#### Screenshots of the responsive prototype in CodePen (mobile)
+
+##### Unauthenticated
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
+  ![figma-mobile-first-middle](./images/figma-mobile-first-middle.png)
+  ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
+  
+</details>
+
+<details>
+  <summary>Menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-menu](./images/figma-mobile-menu.png)
+  
+</details>
+
+<details>
+  <summary>Search open (Click to show screenshot)</summary>
+
+  ![figma-mobile-search](./images/figma-mobile-search.png)
+  
+</details>
+
+##### Authenticated (signed in)
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-mobile-signed-in](./images/figma-mobile-signed-in.png)
+  
+</details>
+
+<details>
+  <summary>Menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-signed-in-menu](./images/figma-mobile-signed-in-menu.png)
+  
+</details>
+
+<details>
+  <summary>Name menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-signed-in-name-menu](./images/figma-mobile-signed-in-name-menu.png)
+  
+</details>
+
+#### Screenshots of the responsive prototype in CodePen (desktop)
+##### Unauthenticated
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-desktop-first-top](./images/figma-desktop-first-top.png)
+  ![figma-desktop-first-bottom](./images/figma-desktop-first-bottom.png)
+  
+</details>
+
+##### Authenticated (signed in)
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-desktop-signed-in](./images/figma-desktop-signed-in.png)
+  
+</details>
+
+<details>
+  <summary>Name menu open (Click to show screenshot)</summary>
+
+  ![figma-desktop-signed-in-name-menu](./images/figma-desktop-signed-in-name-menu.png)
+  
+</details>
 
 
 ## Who we talked to 
