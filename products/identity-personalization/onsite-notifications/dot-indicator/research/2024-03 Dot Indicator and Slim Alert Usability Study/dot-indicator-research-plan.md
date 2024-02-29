@@ -52,8 +52,8 @@ We hypothesize that:
 We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code to answer some of our research questions but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use CodePen for user testing. 
 
 ### Research materials
-- [Link to conversation guide for sighted users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide.md)
-- [Linked to conversation guide for screen reader users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide-for-screen-readers.md)
+- [Link to conversation guide for sighted users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/dot-indicator-convo-guide.md)
+- [Linked to conversation guide for screen reader users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/dot-indicator-convo-guide-for-screen-readers.md)
 
 ### Recruitment approach
 We will target Veterans who use assistive tech (screen readers and magnification tools) and colorblind users to answer our accessibility research questions. We will use Perigean to recruit them.
