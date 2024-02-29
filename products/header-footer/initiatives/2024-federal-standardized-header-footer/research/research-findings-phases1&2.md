@@ -26,7 +26,7 @@ Date: 2/29/2024
 ## Research Goals
 OFCIO and GSA (USWDS) proposed a federal header and footer in an effort to standardize across all federal agencies, and it included a new “USA” logomark. The Department of Veterans Affairs volunteered to be the first high-impact service provider (HISP) to attempt to adopt this proposed header and footer and integrate them into the department’s design system.
 
-Initial usability research tested with Veterans to validate that it can be  adopted with minimal to no negative impact to site visitors.
+Initial usability research tested with Veterans to see whether  adoption would have minimal or no negative impact to site visitors.
 
 There are many potential touchpoints between the Veteran and the header and footer throughout the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
 - Getting out 
@@ -36,8 +36,8 @@ There are many potential touchpoints between the Veteran and the header and foot
 - Aging 
 
 The purpose of this research was to find out:
-- **Wayfinding task success rate** using the proposed Federal header and footer menus
-- **How Veterans using screen reader or screen magnifier technology navigate** the proposed header and footer IA
+- **Wayfinding task success rate** using the proposed Federal header and footer
+- **How Veterans using screen reader or screen magnifier technology navigate** the proposed header and footer
 - **Veteran sentiment on USA logo and VA seal**, with the dropping of the “VA” brand mark
 
 The findings from this research show how the proposed header and footer design impacts the Veteran wayfinding experience. 
@@ -51,7 +51,7 @@ The findings from this research show how the proposed header and footer design i
     - Do they provide a better, positive experience or create confusion? (i.e., how to sign in, sign out, locate  auth menu items) 
 1. What are Veterans’ (and others’) task success rates?  
 1. What are Veterans’ (and others’) first impressions of the new header and footer? 
-    - How do Veterans (and others) feel about the way VA is represented in the header without the letters “VA”?  
+    - How do Veterans (and others) feel about the way VA is represented in the header without the letters "VA"?  
     - How do Veterans (and others) feel about the new USA logo? 
 
 
@@ -65,17 +65,17 @@ Research Phase | Participants | Tasks | Design prototype tool | Dates | Topline 
 2 | 9 assistive technology (screen reader and/or screen magnifier) users | Unauthenticated + authenticated | CodePen | Jan 29-Feb 5, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/topline.md)
 3 | 4 assistive + 8 non-assistive technology users | Authenticated only | CodePen | Jan 29-Feb 1, 2024 | [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
 
-This report will cover Phases 1-2 in detail. Phase 3 is covered in the third topline summary link above. Because the same participant numbers are reused in each research phase, references to specific participants in Phase 1 will be labeled as "**non-AT**" (not assistive technology users), and participants in Phase 2 will be labeled as "**AT**" (assistive technology).
+This report will cover Phases 1 and 2 in detail. Phase 3 is covered in the third topline summary link above. Because the same participant numbers are reused in each research phase, references to specific participants in Phase 1 will be labeled as "**non-AT**" (not assistive technology users), and participants in Phase 2 will be labeled as "**AT**" (assistive technology).
 
-The phase 2 CodePen prototype was very similar to the phase 1 Figma prototypes with the following differences:
+The Phase 2 CodePen prototype was very similar to the Phase 1 Figma prototypes with the following differences:
 
 - Coded so accessible to screen readers and screen magnifiers
-- Responsive so automatically adjusted page layout to each participant's device size
+- Responsive so automatically adjusted page layout to each participant's device screen size
 - USA logo in the header changed slightly and placed on a white background (*vs.* black in phase 1)
-- Before each research session, the authenticated menu was updated to the participant's first name
+- Before each research session, the authenticated menu was updated to include the participant's first name
 - Third column of footer changed from "Connect with us" to "News and Media", and the "Careers at VA" link was moved out of it into "More resources"
 - Fewer links in the black federal footer
-- Font changed to Public Sans
+- Font was changed to Public Sans
 
 
 ## Participants
@@ -85,7 +85,7 @@ The phase 2 CodePen prototype was very similar to the phase 1 Figma prototypes w
 - **Almost half** (8 of 19) **saw a mobile prototype**, and the others (11 of 19) saw a desktop prototype. 
 - **About half** (9 of 19) **were full-time assistive technology users**: 5 used a screen reader, and 5 used a screen magnifier (one person used both).
 
-The assistive technology used by the 9 participants in research phase 2 is summarized in the table below. All of them had experience using their assistive tech for at least 2 years (average of 10 years; range 2-18 years).
+The assistive technology used by the 9 participants in Phase 2 is summarized in the table below. All had experience using their assistive tech for at least 2 years (average of 10 years; range 2-18 years).
 
 P# | Screen Reader/ Magnifier | Software | Device | O/S | Browser | Prototype version
 -- | ----- |------|-------|--------|--------|---------
@@ -121,7 +121,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 1. The new USA logo mark helps Veterans (and others) understand this is a Federal government website. 
 
-    - FALSE: More than half of the participants said that they would look at the URL to see if it's .gov, and others would tell by the VA seal. More than half of the participants who could see the federal USA logo had negative impressions of it, including some who thought it looked fraudulent, fake, or like phishing.
+    - FALSE: More than half of the participants said that they would look at the URL to see if it's *.gov*, and others would tell by the VA seal. More than half of the participants who could see the federal USA logo had negative impressions of it, including some who thought it looked fraudulent, fake, or like phishing.
      
 
 
