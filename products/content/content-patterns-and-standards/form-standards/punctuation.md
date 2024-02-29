@@ -20,12 +20,18 @@ Example: "Name" or "Phone number"
 Example: I'm the Veteran's spouse
 
 * **Additional info components**  
-Example: "Learn more about military base addresses"
+Example: Learn more about military base addresses
+
+* **Hint text**  
+Example: You may request up to 99 certificates
 
 * **CTA links**   
 Example: Find out if you're eligible (opens in new tab)
 
 ## Exceptions
+
+* Normal body text uses standard punctuation.
+Example: We don't require that you submit anything with this form.
 
 * Add a question mark if the content is a question. 
 Example: "Are you the Veteran?" 
