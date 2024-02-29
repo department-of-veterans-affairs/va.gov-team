@@ -503,23 +503,22 @@ Some potential recommendations based on the research findings are listed below.
 <details>
   <summary>First screen (Click to show screenshot)</summary>
 
-  ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
-  ![figma-mobile-first-middle](./images/figma-mobile-first-middle.png)
-  ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
+  ![codepen-mobile-first-top](./images/codepen-mobile-first-top.png)
+  ![codepen-mobile-first-bottom](./images/codepen-mobile-first-bottom.png)
   
 </details>
 
 <details>
   <summary>Menu open (Click to show screenshot)</summary>
 
-  ![figma-mobile-menu](./images/figma-mobile-menu.png)
+  ![codepen-mobile-menu](./images/codepen-mobile-menu.png)
   
 </details>
 
 <details>
   <summary>Search open (Click to show screenshot)</summary>
 
-  ![figma-mobile-search](./images/figma-mobile-search.png)
+  ![codepen-mobile-search](./images/codepen-mobile-search.png)
   
 </details>
 
@@ -527,21 +526,21 @@ Some potential recommendations based on the research findings are listed below.
 <details>
   <summary>First screen (Click to show screenshot)</summary>
 
-  ![figma-mobile-signed-in](./images/figma-mobile-signed-in.png)
+  ![codepen-mobile-signed-in](./images/codepen-mobile-signed-in.png)
   
 </details>
 
 <details>
   <summary>Menu open (Click to show screenshot)</summary>
 
-  ![figma-mobile-signed-in-menu](./images/figma-mobile-signed-in-menu.png)
+  ![codepen-mobile-signed-in-menu](./images/codepen-mobile-signed-in-menu.png)
   
 </details>
 
 <details>
   <summary>Name menu open (Click to show screenshot)</summary>
 
-  ![figma-mobile-signed-in-name-menu](./images/figma-mobile-signed-in-name-menu.png)
+  ![codepen-mobile-signed-in-name-menu](./images/codepen-mobile-signed-in-name-menu.png)
   
 </details>
 
@@ -550,8 +549,8 @@ Some potential recommendations based on the research findings are listed below.
 <details>
   <summary>First screen (Click to show screenshot)</summary>
 
-  ![figma-desktop-first-top](./images/figma-desktop-first-top.png)
-  ![figma-desktop-first-bottom](./images/figma-desktop-first-bottom.png)
+  ![codepen-desktop-first-top](./images/codepen-desktop-first-top.png)
+  ![codepen-desktop-first-bottom](./images/codepen-desktop-first-bottom.png)
   
 </details>
 
@@ -559,14 +558,14 @@ Some potential recommendations based on the research findings are listed below.
 <details>
   <summary>First screen (Click to show screenshot)</summary>
 
-  ![figma-desktop-signed-in](./images/figma-desktop-signed-in.png)
+  ![codepen-desktop-signed-in](./images/codepen-desktop-signed-in.png)
   
 </details>
 
 <details>
   <summary>Name menu open (Click to show screenshot)</summary>
 
-  ![figma-desktop-signed-in-name-menu](./images/figma-desktop-signed-in-name-menu.png)
+  ![codepen-desktop-signed-in-name-menu](./images/codepen-desktop-signed-in-name-menu.png)
   
 </details>
 
