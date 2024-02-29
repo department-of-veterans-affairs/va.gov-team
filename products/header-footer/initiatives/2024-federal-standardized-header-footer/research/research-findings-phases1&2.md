@@ -387,12 +387,12 @@ Some potential recommendations based on the research findings are listed below.
 
 #### Tools used for synthesis
 
-[Synthesis spreadsheet](./phase1-no-AT/analysis/TBD)
+[Synthesis spreadsheet](./phase1-no-AT/analysis/Header_footer phase 1 usab notes & data analysis.xlsx)
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702404444027/711442d4b780551c710b8594ddf1e662f04b1ddb?sender=uff8fa85716c1796ccf022668)
 
 
-#### Screenshots of the prototype
+#### Screenshots of the prototypes in Figma
 <details>
   <summary>Intro page (Click to show screenshot)</summary>
 
