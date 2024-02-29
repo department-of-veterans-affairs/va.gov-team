@@ -31,7 +31,8 @@ Since Veterans can apply for and manage their benefits any time after getting ou
  - Does colorblindness prevent users from being able to see and interpret a red dot or badge indicator? What colors are most accessible for them to interpret notifications on other websites and apps?
 
 <b> 3. Gain understanding of how slim alert banners embedded in claims cards are interpreted by users in order to assess how we might use/improve them for My VA </b>
-- We should seek out **users who have a history of using healthcare benefits as well as filing claims**
+-  How do Veterans with experience in filing claims understanding the messaging displayed? 
+- What additional information might be valuable for Veterans to see on these banners and cards?
 
 ### Outcome
 We will be sharing our research findings with other VFS teams who are interested in an indicator, such as the cartography team. From there we will decide (collaboratively) if it makes sense to proceed with experimental design to add an indicator to the VA.gov design system.
