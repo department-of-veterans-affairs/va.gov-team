@@ -48,6 +48,7 @@ Monitors for each product are described within product folders. e.g.
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
+| [VA Benefits taxonomy](#va-benefits-taxonomy)
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
@@ -427,6 +428,13 @@ CAIA documentation for translation widgets / requirements: [https://github.com/d
 * [Translation support #9622](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9622) - epic describing CMS team work / research for Drupal translations
 * Q3 2022 project: Translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
 * [VFS Product Directory: Translated Pages](https://depo-platform-documentation.scrollhelp.site/getting-started/translated-pages)
+
+
+# VA Benefits Taxonomy
+https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
+Single source of truth for VA Benefits meta information, used by the Sitewide Content team through VA.gov benefits. 
+
+Taxonomy launched in 2023, in pilot use by CAIA for managing benefits information with intent to expand its use / association with other Benefits content coming from the Drupal CMS. Not yet incorporated in VA.gov frontend. 
 
 ---
 
