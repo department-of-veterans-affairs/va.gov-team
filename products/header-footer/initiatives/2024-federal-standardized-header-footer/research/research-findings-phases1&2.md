@@ -360,7 +360,6 @@ In order to be optimally accessible to screen readers, our websites need to supp
  > *"I do go to the [VA] website periodically, but I find that it's too much, it's too cluttered. And the way you have to kind of go down to get the information it does open to like a new website or whatever. So I found it easier just to call instead of trying to navigate the website. But that's mostly what I do: I just call" (AT p1).*
 
 
-
 ## Research methodology learnings
 1. In phase 2 research, in order to keep research participants within the prototype, we created a dummy page that many links on the CodePen pages went to that said to wait for instructions. The problem we discovered during research sessions is that after a participant navigates to that page for the first time, all other links in the CodePen pages that go to that page say "visited link" instead of just "link" by screen readers—-thus falsely claiming that the user has visited multiple links that they haven’t. This confused 2 of our 5 screen reader users.
 1. Sometimes assistive technology doesn't behave as expected during research sessions, so it's important to have backup plans. During some of these sessions, we had to pivot in order to get useful data. Some of those pivots are summarized below:
@@ -572,7 +571,7 @@ Some potential recommendations based on the research findings are listed below.
 
 ## Who we talked to 
 
-We talked to **19 participants in research phases 1 and 2** together.
+We talked to **19 participants in research Phases 1 and 2** together.
 
 Audience segment (some people were in multiple segments):
 * Veterans:  18
