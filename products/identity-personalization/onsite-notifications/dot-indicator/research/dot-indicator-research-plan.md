@@ -83,7 +83,7 @@ Pilot session info:
 * If testing is able to begin early, March 5th cannot have any sessions scheduled
 
 ### Availability
-From the week of March 11th and onward, availability is open. 
+From the week of March 11th and onward, availability is open. Prior to that, March 5th is unavailable and 6th-7th are subject to change. 
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
