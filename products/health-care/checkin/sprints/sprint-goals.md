@@ -10,15 +10,13 @@ ________________________________________________________________________________
 - **GOAL: Support Production**  
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**
-- **GOAL: Address Usage Issues**
-    - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- Change wording for wait time after checking in
+- NONE
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -29,12 +27,6 @@ ________________________________________________________________________________
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
-- **GOAL: Address Usage Issues**
-   - **Sub Goal: Change wording for wait time after checking in**
-        - 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
-        - 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
-        - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
-        - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)     
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
@@ -65,7 +57,7 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- NONE
+- **Change wording for wait time after checking in**
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -84,8 +76,10 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)   
 - **GOAL: Address Usage Issues**
    - **Sub Goal: Change wording for wait time after checking in**
+        - 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
+        - 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
         - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
-        - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)     
+        - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟥 [[UX][Research] Create Metrics to Measure Success for this Feature #63236
