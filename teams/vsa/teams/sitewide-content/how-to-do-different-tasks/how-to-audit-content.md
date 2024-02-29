@@ -1,9 +1,13 @@
 # How to audit content 
 
-There are 2 different processes to audit content on static pages in the unauth experience and to audit dynamic content in the auth experience. If you need to audit all Veteran-facing content on VA.gov, use both processes.
+There are 2 different processes to audit content on VA.gov — one static page content in the unauthenticated experience, and one for the authenticated experience. If you need to audit all Veteran-facing content on VA.gov, use both processes.
 
 ## To audit unauth content in Drupal
-1. In the Drupal CMS, select Content. Then select Content audit tools.
+This search process includes all content managed in Drupal. It does not include content that's inside a react widget on our static pages. 
+
+1. In the Drupal CMS, select **Content** in the top nav.
+2. Select **Content audit**.
+3. Select **Content search**.
 
 ## To audit auth content
 This search process in GitHub includes all content in online forms, online tools, and react widgets on our static pages. It also returns content that's not yet live in production, like content that's behind feature flags. 
