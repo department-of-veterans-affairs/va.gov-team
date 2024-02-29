@@ -49,7 +49,9 @@ The low-fi design explorations below will include collecting & evaluating high-l
 #### High-fi/Visual Design
 * [**Round 1:** High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1) (Nov 2023)
 
-* [**Round 2:** High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  (Dec 2023)
+* **Round 2:**
+  * [Sketches (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1660-1246&mode=design&t=QXsdpNN5nFVnFZIa-4)
+  * [High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  (Dec 2023)
  
 * [**Round 3:** High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
  
