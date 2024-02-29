@@ -47,17 +47,14 @@ The low-fi design explorations below will include collecting & evaluating high-l
   * Low-fi Home screen - round 3 - Explorations + Revised MVP direction [Balsamiq](https://balsamiq.cloud/s4uw4la/pnnwuqv/rC00A) [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/VA%20Mobile%20app%20-%20Personalization%20-%20Home%20screen%20-%20MVP%20revisions.pdf)
 
 #### High-fi/Visual Design
-* **Round 1** (Nov 2023)
-  * [Round 1: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1)
+* [**Round 1:** High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1) (Nov 2023)
 
-* **Round 2** (Dec 2023)
-  * [Round 2: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)
+* [**Round 2:** High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  (Dec 2023)
  
-* **Round 3** (Dec 2023)
-  * [Round 3: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1)
+* [**Round 3:** High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
  
-* **Round 4** (Jan 2024)
-  * [Round 4: High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) 
+* **Final Recommendation for MVP** (Jan 2024)
+  * [High-fi visual design ENG handoff (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) 
   * [High-fi Prototype - key screens](https://figma.fun/c84v1B/view)
 
 #### Appendix: Success Criteria Inputs
