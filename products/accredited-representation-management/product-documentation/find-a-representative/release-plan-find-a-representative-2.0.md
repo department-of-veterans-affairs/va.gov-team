@@ -10,12 +10,16 @@ Feature Toggles:
 
 ### Validation
 
+#### Platform Preparation
+- [ ] Are all Collaboration Cycle touchpoints complete?
+
 #### Technical Preparation
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [x] Unit tests and E2E tests are complete
 - [x] QA by Michael + ARM team
 - [x] Mapbox is ready for use (frontend)
 - [x] Address Validator in Lighthouse is ready for use (backend)
+- [ ] Any lingering issues that are needed to address prior to rollout?
 
 #### Content Preparation
 - [x] New landing page content has been reviewed for accuracy and approved by stakeholders
