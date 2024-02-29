@@ -1,6 +1,6 @@
 # Federal Standardized Header/Footer Usability Testing -- Research Findings from Phases 1 & 2
 
-**Office of the CTO - Digital Experience (OCTO-DE), PACT Act Wizard, Sitewide Public Websites**
+**Office of the CTO - Digital Experience (OCTO-DE), Sitewide Public Websites**
 
 Date: 2/29/2024
 
@@ -15,9 +15,9 @@ Date: 2/29/2024
 
 [Key findings](#key-findings)
 
-[Recommendations](#all-recommendations)
+[Recommendations](#recommendations)
 
-[Appendix (including screenshots of prototype)](#appendix)
+[Appendix (including screenshots of design prototypes)](#appendix)
 
 [Who we talked to](#who-we-talked-to)
 
