@@ -58,8 +58,8 @@ We will conduct one-on-one remote usability sessions via Zoom for this study. We
 We will target Veterans who use assistive tech (screen readers and magnification tools) and colorblind users to answer our accessibility research questions. We will use Perigean to recruit them.
 
 ### Recruitment criteria
-Total Requested: 12
-Completed Sessions Needed: 8 (including at least 3 screen reader users, looking to recruit 4-6)
+Total Requested: 16
+Completed Sessions Needed: 12 (including at least 3 screen reader users, 3 magnification/zoom users, 3 colorblind users)
 User type: Veterans only
 
 [Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/411)
