@@ -1,6 +1,6 @@
 # Nametag specs
 
-## Sketch Mockups
+## Figma Mockups
 
 - [Desktop & Mobile](https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1%3A3755&mode=design&t=CREOF8xG3jKa75nz-1)
 
