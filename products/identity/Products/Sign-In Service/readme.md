@@ -33,7 +33,7 @@ SiS works as an authentication solution for Veterans and their beneficiaries. It
 ## How do I get started?
 
 Identity team works with you to customize your onboarding experience:
-- Submit your contact details and brief project description
+- Submit your contact details and brief project description.
 - Book a meeting with us to scope out the project based on your use cases.
 - Collaborate with our engineers to finalize requirements for the project.
 - After requirements are approved, it usually takes 1-2 sprints to complete the project.
