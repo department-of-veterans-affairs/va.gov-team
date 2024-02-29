@@ -52,3 +52,20 @@ VADS doesn't currently connect guidance for prefill alerts to the the ["Know how
 
 **Questions:**
 - Should prefill alert **always** be paired with content stating how info is updated in VA profile?
+
+## Alternate signer
+
+Questions:
+- What are all the ways that people are currently filling out forms on behalf of someone else?
+- Signing in as the person and pretending to be the person
+- Signing in as yourself and telling the form that you're doing it on behalf of someone else
+- Filling out PDF and adding alternate signer info at the end
+- Not signing in to an auth-optional form and pretending to be the person
+
+- What does a form need to do to support alternate signer?
+- Collect their info
+- Require to submit or have on file an alternate signer or accredited rep form?
+- Should they identify alternate signer up front or at the end of form?
+
+- Does need for tailored alternate signer experience depend on chance that person with the claim is dead or unable to sign the form?
+- For forms where this is not as likely, should we default to simple single user story with alternate signer questions at the end?
