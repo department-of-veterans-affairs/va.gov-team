@@ -50,16 +50,16 @@ The low-fi design explorations below will include collecting & evaluating high-l
 
 #### High-fi/Visual Design
 * **Round 1:** (Nov 2023)
-  * Round 1 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=688-2557&mode=design) | [pdf]()
+  * Round 1 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=688-2557&mode=design) | [pdf 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20Category%2010%20-%20expanded.pdf) [pdf 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20Category%2010%20-%20prototype.pdf)
   * [Round 1 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1) 
 
 * **Round 2:** (Dec 2023)
-  * Round 2 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=xTPu5XzMR3INOPFY-1) | [pdf]()
+  * Round 2 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=xTPu5XzMR3INOPFY-1) | [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20Category%2012.pdf)
   * [Round 2 - Sketches (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1660-1246&mode=design&t=QXsdpNN5nFVnFZIa-4)
   * [Round 2 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  
  
 * **Round 3:** (Jan 2024)
-  * Round 3 - Visual design direction walkthrough w POs [(figma)]() | [pdf]()
+  * Round 3 - Visual design direction walkthrough w POs [(figma mockup set 1)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2144-328&mode=design&t=07kqTAuTuFGYgCEl-4) [(figma mockeup set 2)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2144-329&mode=design&t=07kqTAuTuFGYgCEl-4) | [pdf 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20category%2014.pdf) [pdf 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/ux/Home%20%2B%20category%2016.pdf)
   * [Round 3 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
  
 * **Final Recommendation for MVP** (Jan 2024)
