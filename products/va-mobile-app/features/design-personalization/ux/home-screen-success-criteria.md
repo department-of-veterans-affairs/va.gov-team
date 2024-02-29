@@ -50,14 +50,15 @@ The low-fi design explorations below will include collecting & evaluating high-l
 
 #### High-fi/Visual Design
 * **Round 1:** (Nov 2023)
-  * [Round 1 - High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1) 
+  * Round 1 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=688-2557&mode=design) | [pdf]()
+  * [Round 1 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1) 
 
 * **Round 2:** (Dec 2023)
   * [Round 2 - Sketches (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1660-1246&mode=design&t=QXsdpNN5nFVnFZIa-4)
-  * [Round 2 - High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  
+  * [Round 2 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  
  
 * **Round 3:** (Dec 2023)
-  * [Round 3 - High fidelity visual design (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
+  * [Round 3 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
  
 * **Final Recommendation for MVP** (Jan 2024)
   * [High fidelity visual design - ENG handoff (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2176%3A1167&mode=design&t=VFilP5O5YPz7fVZS-1) 
