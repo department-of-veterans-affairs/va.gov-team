@@ -141,12 +141,12 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ### 1. Wayfinding wasn't adversely affected by the header and footer design
 For each of the 7 wayfinding tasks that research participants did during the sessions, the moderator recorded how it was completed:
-- **Directly successful** (using one of the "correct" paths implemented in the prototype)
-- **Indirectly successful** (using a different path that wasn't implemented in the prototype but was plausible and would likely work in Production, such as doing a site search, OR using one of the "correct" paths in the prototype but not as the first try)
-- **Needed help** (needed a hint or other help from the moderator in order to successfully complete the task)
+- **Directly successful** (right away using one of the "correct" paths implemented in the prototype)
+- **Indirectly successful** (using a different path that wasn't implemented in the prototype but was plausible and would likely work in Production such as doing a site search, OR using one of the "correct" paths in the prototype but not as the first try)
+- **Needed help** (needed a hint or other assistance from the moderator in order to successfully complete the task)
 - **Unsuccessful** (unable to complete the task, even with help from the moderator)
 
-The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 tasks with the lowest success rates (60-75%) were challenging for some participants because they didn't look in the footer (for the FOIA and VA Careers links) or couldn't find the Auth menu (needed to update mailing address). One participant was unable to complete one task, and ALL other non-successful tasks were because help from the moderator was needed.
+The success rate for each task was computed by adding together the directly and indirectly successful numbers and dividing by the number of participants who completed that task. A summary of the data is shown in the table below. **All 7 tasks were completed successfully without any help by at least 60% of the participants**. The 3 tasks with the lowest success rates (60-75%) were challenging for some participants because they didn't look in the footer (for the FOIA and VA Careers links) or couldn't find the Auth menu (needed to update mailing address). Almost all non-successful task completions were because help from the moderator was needed (one task was unsuccessful for one participant). 
 
 ![task-success-rate](./images/task-success-rate.png)
 
@@ -154,21 +154,21 @@ The page design was well received overall. Participants mentioned specifically l
 
 ### 2. There were some accessibility problems that affected task completion by participants using screen readers
 
-The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from impaired vision to low vision to completely blind. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. **Because there was such variability in technology and visual ability, accessibility issues that affected even one participant are included here** to consider. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't interfered with completing tasks.
+The 9 participants that we talked with each used their assistive technology in different ways, depending on their experience level and their amount of visual perception. Their visual abilities ranged from impaired vision to low vision to completely blind. And assistive technology can have different versions that behave differently, so reproducing some of the issues has been challenging. **Because there was such variability in technology and visual ability, accessibility issues that affected even one participant are included here**. All such issues for consideration are listed below, starting with the issues that caused difficulty while participants were doing tasks. Then we'll follow with other issues that came up during the post-task interview but hadn't directly interfered with completing tasks.
 
 #### Issues that caused difficulty in doing tasks
 1. Two screen reader users (desktop using JAWS and VoiceOver) had **difficulty using search in the desktop header**. It was unclear what happened after they activated the search button. Focus didn't appear to be in the search box when it opened, though both participants expected to be able to activate *Search* and type. 
      1. The JAWS user (AT p1) tried "enter" to open the search box but couldn't find it to type text. They expected to *right arrow* or *tab* to the right and expand the box, but that didn't work. They had to *arrow down* to get to the box. They were also unable to close the search box.
      1. The VoiceOver user (AT p10) had difficulty opening the search box and software keyboard. It didn't work at first, so they tried double-tapping but didn't expect to have to do that before typing their search string.   
 
-1. For AT p1 (desktop using JAWS screen reader), **after signing in, only the page title was read on the landing page**--not any of the content.
+1. For AT p1 (desktop using JAWS screen reader) **after signing in, only the page title was read on the landing page**--not any of the content.
 1. AT p3 (desktop using MAGic version 14 screen reader and magnifier) **couldn't understand some pages and links because MAGic didn't read them** at all. He's accustomed to hovering with his mouse to get the screen reader to read the link aloud, and then clicking on the link to go there. For many links, he had to click on them to get them to be read, but others weren't read at all. MAGic is older screen reader technology for which support has been discontinued by Freedom Scientific, but p3 reported that it usually works. Below is a list of what didn't work in our prototype with his screen reader:
 
     1. *VA Benefits and Health Care* and *About VA* in header not read (but *Find a VA Location* was fine). 
     1. *US Department of Veterans Affairs* reads the page URL instead of "US Department of Veterans Affairs". 
     1. *Use the life insurance needs calculator* reads the URL before the link title.  
     1. *VA Benefits and Health Care* megamenu items not read with mouse hover as expected. He had to click on them to hear them read, but then it also took him there.
-    1. *Contact us* page not read at all. The content and jump links say nothing. The *Ask VA* content says "blank blank blank...", so it was reading but none of the words or characters.
+    1. *Contact us* page not read at all. The content and jump links say nothing. The *Ask VA* content says "blank blank blank...", so it was reading but none of the actual words or characters.
     1. *USA Government* on the *Contact* page not read (but this reads out correctly on the life insurance page).
 
 1. AT p3 (desktop using MAGic version 14 screen reader and magnifier) **didn't notice the 4th column of footer links** with his magnified screen. When we discussed it later in the session, he said that there's a larger gap after column 3 than there is between the other columns, and so he assumed that there was nothing more to the right.
@@ -179,14 +179,14 @@ The 9 participants that we talked with each used their assistive technology in d
    > *"It isn't quite self-evident. You just kind of got to remember that. That's where the search icon used to be, and it is now replaced with just an X" (AT p7).*
 1. AT p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" for her name** (to open the Auth menu). She wondered if it was a button or a menu because they're two different things that you interact with differently. 
 
-1. AT p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact Us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
+1. AT p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 
 #### Issues discussed that *didn't* cause difficulty during sessions
 9. AT p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
 
-1. AT p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content underneath** when the menu background is the same color as what it's overlaying. In this way, it's hard for the participant to tell where the menu ends and the content resumes. 
+1. AT p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content underneath** when the menu background is the same color as what it's overlaying. In this way, it's hard for the participant to tell where the menu ends and the content underneath resumes. 
 
-1. AT p6 (desktop using ZoomText screen magnifier) said that the **VA Benefits and Health Care menu options aren't visible with her screen magnification**, but she knows to scroll horizontally to find the options because the arrows tell you which direction to look (to the right).
+1. AT p6 (desktop using ZoomText screen magnifier) said that the ***VA Benefits and Health Care* menu options aren't visible with her screen magnification**, but she knows to scroll horizontally to find the options because the arrows tell you which direction to look (to the right).
 
 1. AT p11 (desktop with the font enlarged ~150%) said that they **preferred a larger font**, which they suggested doing by having less white space on the left and right sides of the content. 
 
@@ -207,7 +207,7 @@ After signing in, **half of the participants (9 of 19) had difficulty finding th
 
   > *"The triangle I didn't really acknowledge that it was a pull down. If you look at the blue [header menu] area, it's more clear to me that they're pulldowns...than over where the search is and where the name is" (AT p9).*
 
-After finding and opening the Auth menu, ALL participants recognized and clicked on Profile, which was the correct navigation path. However, 2 participants wondered aloud if they should try My VA instead (which didn't work in the prototype).
+After finding and opening the Auth menu, ALL participants recognized and clicked on *Profile*, which was the correct navigation path. However, 2 participants wondered aloud if they should try *My VA* instead (which didn't work in the prototype).
 
 ### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
 
