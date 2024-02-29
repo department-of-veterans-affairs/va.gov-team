@@ -84,6 +84,28 @@ Pilot session info:
 
 ### Availability
 From the week of March 11th and onward, availability is open. Prior to that, March 5th is unavailable and 6th-7th are subject to change. 
+
+Proposed cohorts:
+	Cohort 1 
+        Magnification/zoom, increased text size users: over two days TBD
+        Anytime between 10am EST-6pm EST
+	
+	Cohort 2
+        Screen reader users: over two days TBD
+        Anytime between 10am EST-6pm EST
+	
+	Cohort 3
+        Colorblind users: over 1 day TBD
+        Anytime between 10am EST-6pm EST
+
+	Cohort 4
+     	Other desktop users: over 2 days TBD
+      	Anytime between 10am EST-6pm EST
+       
+	Cohort 5
+ 	Other mobile users: over 2 days TBD
+  	Anytime between 10am EST-6pm EST
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
