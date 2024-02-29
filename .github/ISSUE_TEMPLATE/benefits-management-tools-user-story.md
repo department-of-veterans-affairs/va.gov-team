@@ -50,7 +50,7 @@ assignees: ''
 - [ ] Submitted to staging
 - [ ] Team approved production verification process
 - [ ] Design performs design QA and verifies the implementation matches the design spec
-- [ ] Engineering identifies staging users required to test and shares account and credentials with product
+- [ ] Engineering identifies staging users required to test and shares account and credentials with design and product
 - [ ] Product performs functional QA and verifies acceptance criteria was met
 
 ## Acceptance Criteria
