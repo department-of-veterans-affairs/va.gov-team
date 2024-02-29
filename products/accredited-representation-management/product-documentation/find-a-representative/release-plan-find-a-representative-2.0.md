@@ -25,7 +25,7 @@ Feature Toggles:
 #### Data Consideration
 - [ ] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
 
-#### Go/No Go meeting TBD
+#### Go/No Go meeting 3/5/2024 at 12:30p ET
 - [ ] review the plan with your DEPO/OCTO representative.
 - [ ] review the release plan with your team.
 
@@ -60,7 +60,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting 3/5/2024 at 1:30p ET**
+**Go/No Go meeting 3/5/2024 at 12:30p ET**
 1. Stage A: 10% of users on 3/5 (Tuesday)
 2. Stage B: 25% of users on 3/7 (Thursday)
 3. Stage C: 50% of users on 3/11 (Monday)
