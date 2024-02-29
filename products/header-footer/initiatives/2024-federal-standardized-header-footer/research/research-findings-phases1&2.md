@@ -387,7 +387,7 @@ Some potential recommendations based on the research findings are listed below.
 
 #### Tools used for synthesis
 
-[Synthesis spreadsheet](./phase1-no-AT/analysis/Header_footer phase 1 usab notes & data analysis.xlsx)
+[Synthesis spreadsheet](./phase1-no-AT/analysis/Header_footer%20phase%201%20usab%20notes%20%26%20data%20analysis.xlsx)
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702404444027/711442d4b780551c710b8594ddf1e662f04b1ddb?sender=uff8fa85716c1796ccf022668)
 
