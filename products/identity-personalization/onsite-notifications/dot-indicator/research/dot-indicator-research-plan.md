@@ -58,8 +58,8 @@ We will conduct one-on-one remote usability sessions via Zoom for this study. We
 We will target Veterans who use assistive tech (screen readers and magnification tools) and colorblind users to answer our accessibility research questions. We will use Perigean to recruit them.
 
 ### Recruitment criteria
-Total Requested: 12
-Completed Sessions Needed: 8
+Total Requested: 16
+Completed Sessions Needed: 8 (including at least 3 screen reader users, looking to recruit 6)
 User type: Veterans only
 
 [Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/411)
@@ -69,20 +69,21 @@ Research dates:
 
 ### Prepare
 Please schedule a 15-minute kick-off session between us and Perigean. Potential dates and times for kick-off meeting:
-TBD
+3/1/24 1PM ET and on, 3/4/24 any time, 3/6/24 (specific times subject to change), 3/7/24 (specific times subject to change)
 
 Pilot session info:
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: Steven Straily, steven.straily@agile6.com
+* Date and time of pilot session: 2/23/24
 
 ### Length of sessions
-* Session length: 30 minutes
+* Session length: 45 minutes
 	* For the screen reader session, please schedule it for 60 minutes
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
+* If testing is able to begin early, March 5th cannot have any sessions scheduled
 
 ### Availability
-TBD
+From the week of March 11th and onward, availability is open. 
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
@@ -90,8 +91,8 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Matt Marino and Angela Agosto	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Matt Marino
-- Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Participant(s) for pilot test: Steven Straily, Jamie Klenetsky Fay (CAIA, screenreader)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD (likely Jamie Klenetsky Fay)
 - Note-takers: TBD
 - Observers:	
 samara.strauss@va.gov
