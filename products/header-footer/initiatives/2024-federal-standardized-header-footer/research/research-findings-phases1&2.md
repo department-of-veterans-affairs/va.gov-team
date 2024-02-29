@@ -393,6 +393,7 @@ Some potential recommendations based on the research findings are listed below.
 
 
 #### Screenshots of the mobile prototype in Figma
+##### Unauthenticated
 <details>
   <summary>First screen (Click to show screenshot)</summary>
 
@@ -416,6 +417,27 @@ Some potential recommendations based on the research findings are listed below.
   
 </details>
 
+##### Authenticated (signed in)
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-mobile-signed-in](./images/figma-mobile-signed-in.png)
+  
+</details>
+
+<details>
+  <summary>Menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-signed-in-menu](./images/figma-mobile-signed-in-menu.png)
+  
+</details>
+
+<details>
+  <summary>Name menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-signed-in-name-menu](./images/figma-mobile-signed-in-name-menu.png)
+  
+</details>
 
 ### Phase 2 research with AT participants
 
