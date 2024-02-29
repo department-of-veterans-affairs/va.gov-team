@@ -54,12 +54,12 @@ The low-fi design explorations below will include collecting & evaluating high-l
   * [Round 1 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=827%3A5426&mode=design&t=rD1KhcwhpLMxDWvT-1) 
 
 * **Round 2:** (Dec 2023)
-* Round 2 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=xTPu5XzMR3INOPFY-1) | [pdf]()
+  * Round 2 - Visual design direction walkthrough w POs [(figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=xTPu5XzMR3INOPFY-1) | [pdf]()
   * [Round 2 - Sketches (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1660-1246&mode=design&t=QXsdpNN5nFVnFZIa-4)
   * [Round 2 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=1098%3A347&mode=design&t=rD1KhcwhpLMxDWvT-1)  
  
 * **Round 3:** (Jan 2024)
-* Round 3 - Visual design direction walkthrough w POs [(figma)]() | [pdf]()
+  * Round 3 - Visual design direction walkthrough w POs [(figma)]() | [pdf]()
   * [Round 3 - Visual design process (Figma)](https://www.figma.com/file/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?type=design&node-id=2074%3A916&mode=design&t=rD1KhcwhpLMxDWvT-1) (Dec 2023)
  
 * **Final Recommendation for MVP** (Jan 2024)
