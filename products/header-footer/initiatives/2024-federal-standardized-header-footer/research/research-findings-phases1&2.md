@@ -439,6 +439,31 @@ Some potential recommendations based on the research findings are listed below.
   
 </details>
 
+#### Screenshots of the desktop prototype in Figma
+##### Unauthenticated
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-desktop-first-top](./images/figma-desktop-first-top.png)
+  ![figma-desktop-first-bottom](./images/figma-desktop-first-bottom.png)
+  
+</details>
+
+##### Authenticated (signed in)
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-desktop-signed-in](./images/figma-desktop-signed-in.png)
+  
+</details>
+
+<details>
+  <summary>Name menu open (Click to show screenshot)</summary>
+
+  ![figma-desktop-signed-in-name-menu](./images/figma-desktop-signed-in-name-menu.png)
+  
+</details>
+
 ### Phase 2 research with AT participants
 
 
