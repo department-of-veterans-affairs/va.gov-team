@@ -33,15 +33,23 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 ### Ideal state
 
-- Pages should have one `<h1>` heading that covers the topic of the content.
+- Pages should have one - and only one - `<h1>` heading that covers the topic of the content.
+  - On Drupal pages, the "Page title" field is converted to `<h1>`.
+  - On non-Drupal pages, `<h1>` needs to be coded manually.
 - Heading levels shouldn't skip levels, only increasing by one level (h1 to h2, for example).
 - HTML elements and/or CSS styling for bold, italics and font sizing aren't used in place of headings.
+- Headings are used for their semantic meaning, not their styling (using an `<h4>` because of its small font size, for example).
+  - Use [utility classes](https://design.va.gov/foundation/utilities/) to change a heading's style.
 - Headings are informative and don't repeat information available in other headings.
 - Headings aren't stacked, meaning one heading level followed by another. For example, a `<h1>` followed immediately by a `<h2>`.
 
 ### Implementation notes
 
 - Headings should be hierarchical, meaning arranged in order from most important to least important.
+- Review VA's [Page titles and section titles page](https://design.va.gov/content-style-guide/page-titles-and-section-titles) for content guidance.
+
+### Resources
+-  [HeadingsMap Chrome extension](https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?pli=1)
 
 ### Further reading
 
