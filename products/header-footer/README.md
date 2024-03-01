@@ -137,9 +137,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 * Cindy submitted her research plan and convo guide to Shane on 12/6
 * Research dates identified: Dec 15-22 (10 completed sessions with a 25% overage like Perigean requests).
 
+---
 
 ### Artifacts
 - [Federal Standardized Header/Footer Usability Testing -- Research Findings from Phases 1 & 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/research-findings-phases1%262.md)
+
+---
 
 ### Key Decisions
 
