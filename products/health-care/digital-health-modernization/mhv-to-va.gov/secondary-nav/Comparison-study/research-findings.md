@@ -147,6 +147,7 @@ Note: Persistent-link nav was present on three versions of the two prototypes: M
 ### 6. Entering My HealtheVet through a side door was surprising to some participants
 
  * When explaining where they’d expect to land before the message screen, participants used the following words: dashboard, buffer, main landing page, menu, main hub, home screen, and home page.
+   
    * Note: The way the study was set up, the prototyped experience of entering a message details page from a link in email lacked some more realistic details, e.g. the “email” was just a message on the participant’s screen and we asked participants to imagine it was an email in their inbox. 
 
 ![Screenshot 2024-03-01 at 4 48 35 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/58444931/6ad9e69d-5762-45af-8052-9ebb5661ef6b)
@@ -177,25 +178,37 @@ Within the portal, they are suppressed in more than one way: they’re not prior
    * P9: Seemed to accidentally hit breadcrumbs while talking to the moderator; scrolls around the landing page. Moderator again asks her where she’d look for CPAP re-ordering: “I’m still thinking Medications.”
  * This is problematic. The BTSSS Travel team just identified in a tree-testing study that the My HealtheVet landing page has the highest signal as a destination where VA.gov users expect to be able to file for travel pay, [Status Visibility IA Study - Jan 2024](https://github.com/department-of-veterans-affairs/va.gov-team/tree/084b74d92d44f3170ab53fc4e53c002b4b105918/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
-#### 7. Familiarity with a landing page provides a sense of place that helps participants gain their bearing when they feel lost.
+#### 13. Familiarity with a landing page provides a sense of place that helps participants gain their bearing when they feel lost.
  * Multiple participants named returning “home” as an important strategy in getting their bearings if they’re feeling lost on a site. The landing page can act as a sign post that allows participants to better understand where they are, and a familiar place to return to when lost.
    * P15: “If I just can't find something or I get too far into like the menu tree, if I just click on that, it'll take me back to like a start page or homepage.”
    * P1: "I see it as a way to get back to the beginning. Like, if you get caught up in some stuff you're not sure where you are."
   
 ## Recommendations
 
-#### Implement a persistent-link secondary nav bar on My HealtheVet including needed changes that were surfaced as part of this research
-  * Include both a label for the nav bar (My HealtheVet) as well as a clear link to the landing page. Our hypothesis is that “home” link text with the icon of a house will drive more Veterans to the landing page versus an underlined “My HealtheVet” link text.
-  * Highlight within the nav bar the user’s current location to aid in faster and easier orientation.
-  * Make changes to code to better support screen reader users; in particular, screen readers should read out the full word when there are abbreviations, instead of sounding out the abbreviations.
+#### Implement a persistent link secondary nav bar on My HealtheVet including needed changes that were surfaced as part of this research
 
-#### Enable Veterans to more easily and quickly come across the harder-to-find health-management tools
+Problems to address with the persistent link nav:
+  * My HealtheVet link text did not appear clickable to participants
+  * Screen reader pronounced abbreviations phonetically
+  * Participants can’t use the nav bar to know where they currently are within My HealtheVet
+
+#### Enable Veterans to more easily and quickly come across the harder-to-find health management tools
   * The landing page needs to surface hard-to-find content much higher on the page and de-prioritize tools that are repetitive to the links within the new secondary nav.
+    
   * Other tool landing pages may need to offer cross-link references to those tools as well to make them easier to find when a Veteran is most likely to be looking for them.
 
+We need to do some discovery work around: 
+  * How best to surface tools / affordances that do not fit into the 4 primary tools 
+  * Identifying opportunities to cross-link tools/tasks that are not named in the navigation bar
+  * Uncovering tasks that are more difficult to find using this secondary nav strategy, and conducting research to understand where users would expect to find them
+
+
 #### When it does not damage expectations and UX, help Veterans orient themselves by guiding them through a front door (such as a landing page)
-  * Especially when My HealtheVet on VA.gov is so new, Veterans should be directed through the front door (instead of deep-linking to a detail page) when possible. This will allow them to more easily return to a tool when they are looking for it, and will also give them a familiar place to return to when they are lost and need to re-start.
-  * This recommendation could be applied to other products that are linked from hubs, main pages, or landing pages.
+
+ * Explore routing users through the My HealtheVet landing page or individual tool landing pages instead of deep-linking them into details pages as we did in this study
+ * Reimagine tool landing pages as important entry points into each experience
+ * Conduct additional research to understand the pros and cons of sending users to the MHV landing page instead of specific tool pages
+
 
 ## Appendix
 
