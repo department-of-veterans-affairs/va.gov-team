@@ -33,6 +33,9 @@ Participants self-identified as one of 3 groups: "I am currently experiencing fi
 Three out of the 4 participants who selected "I am currently experiencing financial hardship" on the screener thought this information would be helpful.
 Many stated that defining difficult financial terms when they are mentioned on the VA.gov would be helpful. One participant stated that the government sometimes has different definition of general financial terms. 
 
+*"General financial terms aren't helpful to me, however, as I've learned, the VA and the government may have slightly different definitions of financial terms."* -P8
+
+
 ### Finding #2
 **When asked for thoughts on "Travel Pay" many commented on difficulties both in person and online**
 
@@ -55,6 +58,11 @@ Participants who liked the Copay/Overpayment Overview page commented that they 
 Participants who liked all Copay and Overpayments cards on one page stated:
 - Liked that it took them to the copay mentioned in the email with less clicks
 - Like that it gets rid of an extra step
+  
+*"You mentioned the $95 [copay] in the email, ok, take me to it."* -P8
+
+*"Yeah, I'd it'd be nice to see things more consolidated, here's all your copay balance. Most people don't care where exactly. They're gonna be more likely to [click on] details on all my debt. And then they're gonna be willing to go through the itemized portion."* -P11
+
 
 ### Finding #4
 
@@ -67,3 +75,5 @@ It would be worth looking into ways we can improve and surface statement data so
 The information that participants would want to see on a copay charge were: date of the service, and the type of service. 
 
 They expressed that some Veterans receive multiple services in a day, and it would be easier to track down and understand the charges if such details were included. These Veterans said that this transparency is important, in case there is a mistake or a double charge. 
+
+*"To me that is important as the other information. So you know what you're paying for, instead of saying April 1, 2024 you owe $95... it doesn't show what you're paying other than what the balance is."* -P5
