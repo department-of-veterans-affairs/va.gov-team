@@ -74,4 +74,5 @@ What can you tell me about this explanation for maximum disability rating?
 - "Not enjoying this session at all." Wants to leave the session.  
 - The explanation of what he’s seeing doesn’t allow for much feedback other than reading the entire screen.
 
-- **- SESSION ENDED EARLY & NOT INCLUDED IN SYNTHESIS -**
+
+**- SESSION ENDED EARLY & NOT INCLUDED IN SYNTHESIS -**
