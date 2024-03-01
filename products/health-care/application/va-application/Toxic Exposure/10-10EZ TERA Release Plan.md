@@ -64,6 +64,7 @@ This rollout will not be phased.  We will deliver this change at 100% on 3/5/202
 - Desired date range:
      - 03/05/2024
 - How will you make the product available in production while limiting the number of users who can find/access it:
+     - We will run a test with a couple Production test users on 3/4/2024 prior to launching at 100%
      - We will not limit the number of users on rollout
 - What metrics-based criteria will you be monitoring to determine success?:  Errors accessing the new pages, Errors submitting to Enrollment System with the new data, Errors within the application as a whole.
 
