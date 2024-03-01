@@ -28,7 +28,7 @@ Relevant Dates/Timeline: Is there a time constraint for this request?
 - [ ] 
 
 ## How to configure this issue
-- [ ] **Attached relevant links/slack threads
-- [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
-- [ ] **Labeled with Urgency** (`urgent`, `high priority`, etc.)
+- [ ] Attached relevant links/slack threads
+- [ ] Labeled with Type (`bug`, `request`, `discovery`, `documentation`, etc.)
+- [ ] Labeled with Urgency** (`urgent`, `high priority`, etc.)
 
