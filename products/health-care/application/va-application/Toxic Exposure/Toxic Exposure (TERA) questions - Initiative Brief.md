@@ -132,6 +132,28 @@ N/A - Questions are new on the existing 10-10EZ form
 
 
 ### After
+- Update made to the additional info page
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/6d56cf5f-b706-4cce-b985-0e0f17df4aed)
+
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/e928d3bc-c21f-4538-9791-58de77ed1e6f)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/bd3cfa82-0a75-4f89-b13a-c57b455e1a73)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/2b159e07-4f58-47d4-bc4c-1b8618256b2d)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/45588366-320c-460b-9937-8d4473a3d169)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/16ed53cc-35f6-4c13-9bce-2918523c2871)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/67d4ede6-f748-44fb-8634-317baf46defc)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/a14cbb91-be54-4b27-ad6f-d616acf3b21a)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/5f8b9b75-cfc9-4c1e-948d-fb006472f9eb)
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/e636f8ca-4db8-4793-8825-4dccf04f9bba)
+
+
+
+
+
+
+
+
+
+
 
 ---
 
