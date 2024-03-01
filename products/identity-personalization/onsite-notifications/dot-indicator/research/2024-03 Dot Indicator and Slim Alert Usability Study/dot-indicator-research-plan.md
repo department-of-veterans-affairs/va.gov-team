@@ -84,7 +84,7 @@ Pilot session info:
 * If testing is able to begin early, March 5th cannot have any sessions scheduled
 
 ### Availability
-Testing should take place from March 11th - March 15th, with 3-4 tests each day. 
+Testing should take place from March 11th - March 15th, March 18th-19th, with 3-4 tests each day. 
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
