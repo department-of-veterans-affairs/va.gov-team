@@ -65,5 +65,29 @@ From conversations with VBA, we’ve learned law changes replaced the informal c
     (1) An intent to file a claim can be submitted in one of the following three ways: (i) Saved electronic application. When an application otherwise meeting the requirements of this paragraph (b) is electronically initiated and saved in a claims-submission tool within a VA web-based electronic claims application system prior to filing of a complete claim, VA will consider that application to be an intent to file a claim. (See 38 CFR 3.155)
 
 Open Questions
+
 > (Perhaps too philosophical to be in scope…) Why does the date of the Veteran’s intent to file or submission date factor into an effective date at all? If the medical evidence shows that a Veteran was impacted by a disability for a given length of time, why are their benefits limited by the fact that they may not have applied until much later?
+
 > Currently, VBA does not consider an authenticated user downloading a PDF 526 form as proof of intent to file. Are there use cases like this where it might make sense to expand the definition of what is considered an intent to file?
+
+## Findings & Recommendations
+
+**Veterans are unable to start their 526 (or supplemental) disability claim when the intent to file endpoint is unavailable.**
+
+**526 Technical discovery**
+
+- Veterans are met with an error message when the system checks the intent to file endpoint and the endpoint is unavailable. The error resolves once the backend system recovers; however, this is not communicated to Veterans, who are directed to call the Contact Center for assistance. 
+
+![We're sorry error message] --- note add image here---
+
+- Currently, this error prevents a Veteran from moving forward with their claim. There is a “back” button on this page, but no “continue” button.
+
+- We have designed an MVP solution for bypassing this error. This solution requires backend work to ensure we can manage claims submitted while the intent to file endpoint is down — see discovery work ticket. Engineering capacity is the only thing holding up implementation. 
+
+Open Questions
+
+> The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency. 
+    > How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
+    > How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
+
+
