@@ -19,5 +19,5 @@ _Once you've presented your research readout to your team, if you have a deck, i
     * [The intent to file expiration is a concern for Veterans, and not well understood.] (#The-intent-to-file-expiration-is-a-concern-for-Veterans-and-not-well-understood)
     * [Information on intent to file is inconsistent across forms.] (#[Information-on-intent-to-file-is-inconsistent-across-forms)
     * [We don’t know how much Veterans care about their intent to file date after submission of a claim.] (#We-don’t-know-how-much-Veterans-care-about-their-intent-to-file-date-after-submission-of-a-claim)
-- [Conclusion] (#Conclusion)
+- [Conclusion](#conclusion)
 
