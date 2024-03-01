@@ -57,16 +57,41 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
+This rollout will not be phased.  We will deliver this change at 100% on 3/5/2024
 
 #### Rollout Planning
 
 - Desired date range:
-     - 03/05/2024 - 03/07/2024
+     - 03/05/2024
 - How will you make the product available in production while limiting the number of users who can find/access it:
-     - Feature Toggle limiting % of traffic to the new pages
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  Errors accessing the new pages, Errors submitting to Enrollment System with the new data, Errors within the application as a whole.
+     - We will not limit the number of users on rollout
+- What metrics-based criteria will you be monitoring to determine success?:  Errors accessing the new pages, Errors submitting to Enrollment System with the new data, Errors within the application as a whole.
 
+>## Measuring Success
+>
+>### Objective: Update the 10-10EZ, so Veterans have the opportunity to provide Toxic Exposure details while applying for VA health care.
+>
+>#### **Key Result #1:** 50% of Veterans who visit this page will answer Yes to provide TERA information
+>
+>Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+>
+>| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+>|------------- |---------|-------------- |-------------- |-------------- |
+>|Veterans who answered Yes to providing TERA info |N/A| 50% | TBD | TBD |
+>
+>
+>#### **Key Result #2:** 75% of Veterans who said Yes to providing TERA information will provide info in at least one TERA question
+>
+>Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+>
+>| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+>|------------- |---------|-------------- |-------------- |-------------- |
+>|Veterans answer Yes to Cleanup or Response |N/A| TBD | TBD | TBD |
+>|Veterans answer Yes to Service in Gulf War |N/A| TBD | TBD | TBD |
+>|Veterans answer Yes to Combat Operations |N/A| TBD | TBD | TBD |
+>|Veterans answer Yes to Agent Orange |N/A| TBD | TBD | TBD |
+>|Total Veterans that provided an answer to at least one question |N/A| 75% | TBD | TBD |
+>
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
@@ -74,39 +99,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - Product Manager - Alex Seelig, Heather Justice
      - Data Analyst - Luis Simauchi
 
-
-### Stage A: 50% of users
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-#### Planning
-
-- Length of time:
-     -  1 day, 03/05/2024
-- Percentage of Users (and roughly how many users do you expect this to be):
-     - 50% of authenticated Veterans
-     - About 150 submissions per day
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage B: 100% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
 - Length of time:
      - 03/06/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of all Veterans
      - about 300 submissions per day
 
+
 #### Results
 
 - Number of unique users: [FILL_IN]
@@ -114,8 +113,6 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-
 
 ## Post Launch metrics
 
