@@ -95,6 +95,7 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 - Add Toxic Exposure questions, per request from HEC Stakeholders (directive)
 - Remove Items from checkbox list, per request from HEC Stakeholders - to avoid duplicative questions
 - Allow free form input field, restricting to Alphanumeric values only
+- Adding info and alerts to Introduction page and Confirmation page
 
 #### Out-of-Scope
 - Changing other parts of the form
@@ -111,6 +112,8 @@ Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/10-10EZ%20TERA%20Release%20Plan.md)
+* [Test results from VES team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/VES%206.8.2_OTST%20Demo%20scenarios_Test%20Result_20240228.docx)
+* [Test Cases from 10-10 team](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZ-Toxic%20Exposure%20(TERA)%20MVP.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
