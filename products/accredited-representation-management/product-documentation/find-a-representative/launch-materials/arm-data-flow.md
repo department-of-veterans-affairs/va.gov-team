@@ -69,6 +69,22 @@ If a representative or organization record in the MS Excel file has address info
 The value for the `location` column is created by combining the `lat` and `long` values.\
 The value for `raw_address` is the raw address data from the MS Excel file record and is stored as `JSONB`.
 
+### Data Source: Flagged Representative Contact Data
+
+Users of the Find a VA accredited representative or VSO search tool can report outdated information for each representative that is surfaced in the search results. Users can report a representative's address, email, phone as information that needs to be updated. Users can also report 'other' and provide a message. Users do not need to be authenticated to use the feature.
+
+The information that's reported is stored in the `flagged_veteran_representative_contact_data` vets-api Postgres table which has the following columns:
+
+- `ip_address`
+- `representative_id`
+- `flag_type`
+- `flagged_value`
+- `created_at`
+- `updated_at`
+- `flagged_value_updated_at`
+
+The information is transfered from a user's client (web browser) to vet-api via a secure http POST request. Currently, no one has access to the data unless they're able to query the table in a production environment or unless they have access to the production database itself. Only individuals with access to the production environment and/or database are able to read/write the records in the table.
+
 ## Where is the data stored and how, including information such as any encryption used?
 
 The Representative and Organization MS Excel File is checked into the GitHub `department-of-veterans-affairs` organization’s `va.gov-team-sensitive` repository. Data from the file parsed and stored in the following vets-api Postgres tables:
