@@ -80,7 +80,6 @@ Pilot session info:
 * Session length: 60 minutes, for all user types
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
-* If testing is able to begin early, March 5th cannot have any sessions scheduled
 
 ### Availability
 Testing should take place from March 11th - March 15th, March 18th-19th, with 3-4 tests each day. 
