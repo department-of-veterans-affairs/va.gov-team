@@ -18,9 +18,18 @@
   >Every time I try DS Logon I have to change my pw every time, or like something's wrong w/my pw. Honestly right before I got on here I was going to access eBenefits and that uses DS Login and I've got the loading screen right here waiting for me to change my password haha. So I try to stay away from DS Login as much as possible - P2
 
 
-- [Oct 2019 DS Logon Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/login/ds-logon/research) - [Slide Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ds-logon/research/DS%20Logon%20Brief%20(1).pdf)
+- [Oct 2019 DS Logon Study research brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/login/ds-logon/research) - [Slide Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ds-logon/research/DS%20Logon%20Brief%20(1).pdf)
 - Veteran quotes from the study
-    > - “I’ll put it in simple terms: using DS Logon is one of the worst online experiences I have, period.”
+    > - “I’ll put it in simple terms: using DS Logon is one of the worst online experiences I have, period.” - P4
     > - Vets come with traumatic brain injuries, PTSD, this stuff is really hard. You have to have a Masters or a PHD in DS Logon just to use this
      - What level of trust do you have with these logins?
         >  - [DS Logon] is not one that we’re super trusting of. When we were supposed to be setting it up so that both of us could use it he was having a lot of paranoia and he was in and out of hospitals. Just this week we tried to get the doctor to send me something but I didn’t have access, even though the coordinator told me I was supposed to
+
+- More quotes from P4 of this study. There's a big paragraph early in the session that might be useful to see in it's entirety ([transcript](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ds-logon/research/user_session_transcripts/04_transcript.md)):
+  > You know, the DS Logon and all of that, it’s been awfully confusing quite frankly.
+
+  > Trying to log on is extremely frustrating using that DS Logon, which I guess is for DoD and VA things
+  
+  > It’s the most awful process trying to login. Sometimes the login doesn’t work.
+
+  > that’s just for the DS Logon in particular. It’s awful and it needs to be...I mean, bring some people in and have, you know, streamline it so it’s smooth and easy to use. And it’s awful. One more piece I should add and that’s that apparently there are multiple applications that uh, when you use DS Login that are able to be accessed. And the integration of them is awful. Things just don’t work properly.
