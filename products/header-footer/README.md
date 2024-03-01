@@ -69,11 +69,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - 
 
-
-### Initiatives
-
-- [2021 New Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md)
-- [2024 Federal Standardized Header and Footer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer)
 --- 
 
 ## Launch Strategy
@@ -140,7 +135,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ### Artifacts
+
+#### Research
 - [Federal Standardized Header/Footer Usability Testing -- Research Findings from Phases 1 & 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/research-findings-phases1%262.md)
+-
+#### Initiatives
+- [2021 New Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md)
+- [2024 Federal Standardized Header and Footer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer)
 
 ---
 
