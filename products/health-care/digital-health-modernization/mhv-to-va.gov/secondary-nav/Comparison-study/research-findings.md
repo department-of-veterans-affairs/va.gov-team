@@ -62,11 +62,11 @@ Note: Prototypes are responsive
  * [Prototype A (no icons)](https://000698568.codepen.website/results.html) 
  * [Prototype B (with icons)](https://codepen.io/figaro/project/live/AqoeoW)
 
-##### Mobile A:
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/fb9242d2-784d-4e38-a9fe-622d9fb607a6)
-
-##### Mobile B:
+### Mobile A:
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/30b080f5-2c99-4dfa-a22a-bfef8017a2d1)
+
+### Mobile B:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/106624475/fb9242d2-784d-4e38-a9fe-622d9fb607a6)
 
 ## Key Findings
 
@@ -95,20 +95,18 @@ Note: Prototypes are responsive
    * P16: "The four major things that I'd use are right there."
    * P11: “"This is nice and easy. Much better than the current MyHealtheVet."
  * This is a strong departure from studies using other secondary navigation designs in which participants went to the mega menu first to navigate between pages within the health portal, a strategy that causes a frustrating, disorienting experience, ([Health Wayfinding Study - Jun 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/7f57cbccdb6a083c3281abd21e3fce0a5885a640/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study), [My HealtheVet Secondary Nav Research, Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
+ * We saw improved UX in participants’ behavior and also heard from participants directly that this type of secondary nav facilitates seamless movement between health tools
+    * P15: "In secure messaging, the way I do it now, or the way I have done it, in secure messaging, you're only in secure messaging. So then you have to exit secure messaging to get back to My HealtheVet where all the options are. So I like that I can just go straight from reading the email [message] and then okay, let me just go up here and click appointments. It's a lot more streamlined because it's right there. I don't have to go looking, okay now where do I find that again?"
+     * P3: "I like that roaming bar that goes with you. I don't have to go backwards and forwards; I can just click on whatever I want; I can go from records to appointments to meds, and not have to go to a dropdown menu and scroll; there's also not as much scrolling."
 
 Note: Persistent-link nav was present on three versions of the two prototypes: Mobile B, Desktop A, and Desktop B. On Mobile A, there was a dropdown nav as opposed to persistent links. 
 
-#### 2. The navigation bar labels the experience and orients users to where they are and what they can expect.
+#### 2. The navigation bar helps participants quickly understand where they are and what they can do there.
  * Past studies have indicated that participants seem unaware of My HealtheVet as a cohesive portal where they can manage their healthcare. [My HealtheVet Secondary Nav Research - Oct 2023](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-10-MHV-secondary-navigation-research)
- * In this study, participants were able to understand quickly that they were within a space or container for health management, and used the navigation bar to identify and navigate to the four primary health tools from whatever page they were on.
+ * In this study, participants were able to understand quickly that they were within a container for health management, and the types of tasks they could complete there.
+     * P9: “These are the options on the My HealtheVet page. I can see all my appointments, messages, medicines, and medical records and I can toggle in this little area for those features. And if they’re not, [...] I know it’s not in My HealtheVet.”
 
-#### 3. The navigation bar facilitates seamless movement between health tools.
-* For My HealtheVet users that aim to complete tasks using more than one health tool, the navigation bar is a significant improvement over current secondary navigation designs on VA.gov.
-* Those that do not usually use more than one health tool would be more likely to, as this type of nav helps diminish participant anxiety that they’ll get lost on the site.
-   * P15: "In secure messaging, the way I do it now, or the way I have done it, in secure messaging, you're only in secure messaging. So then you have to exit secure messaging to get back to My HealtheVet where all the options are. So I like that I can just go straight from reading the email [message] and then okay, let me just go up here and click appointments. It's a lot more streamlined because it's right there. I don't have to go looking, okay now where do I find that again?"
-   * P3: "I like that roaming bar that goes with you. I don't have to go backwards and forwards; I can just click on whatever I want; I can go from records to appointments to meds, and not have to go to a dropdown menu and scroll; there's also not as much scrolling."
-
-#### 4. Despite improvements, collapsed menu navigation continues to fail our mobile users
+#### 3. Despite improvements, collapsed menu navigation continues to fail our mobile users
  * When using mobile A first, all participants responded to task 1 by going to the mega menu (a strategy we’ve seen in past studies). When using mobile B first, all participants started with the secondary nav within My HealtheVet.
  * The persistent link secondary nav guided participants to behave differently than they have in other studies (they stayed in the portal instead of leaving using global nav), while the dropdown encouraged participants to continue to leave the portal when seeking health mgmt tools.
 
