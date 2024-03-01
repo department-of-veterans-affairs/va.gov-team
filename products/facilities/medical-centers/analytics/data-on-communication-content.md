@@ -4,16 +4,16 @@
 - This data is for full year 2023, assessed by clicks on health service accordions
 - High volume specialities added for context
 
-| Health service | # of clicks at a system level | # of clicks at a facility level
-| --- | :---: | :---: | 
-| Primary care | 400,889 | 29,811
-| Mental health | 283,736 | 14,515
-| Audiology | 149,176 | 11,457
-| Advice nurse | 40,885 | 2,034
-| Urgent care | 35,724 | 1,344
-| Emergency care | 26,975 | 960
-| Pharmacy | 117,307 | 5,955
-| Telehealth | 46,780 | 3,010
+| Health service | # of clicks at a system level | # of clicks at a facility level | Number of systems listing this service (n=140)
+| --- | :---: | :---: | :---: | 
+| Primary care | 400,889 | 29,811 |140
+| Mental health | 283,736 | 14,515 | 140
+| Audiology | 149,176 | 11,457 | 126
+| Advice nurse | 40,885 | 2,034 | 48
+| Urgent care | 35,724 | 1,344 | 44
+| Emergency care | 26,975 | 960 | 55
+| Pharmacy | 117,307 | 5,955 | 140
+| Telehealth | 46,780 | 3,010 | 119
 
 ### Clickthrough rates for VA health connect phone numbers
 - This data is for full year 2023, assessed by clicks on VA health connect phone numbers which are displayed in the Location and contact information blocks.
