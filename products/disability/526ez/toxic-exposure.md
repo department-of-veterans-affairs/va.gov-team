@@ -29,7 +29,9 @@ See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53eu
 
 ### Second Release
 
-After the initial release, there are also some content and component updates to implement. The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=929-8828&mode=design) in the page under "----------Future Versions----------" has the details. Also see the Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226), which is where the design work came from. It's based on specific content guidance that Katherine Fung provided in response to a CAIA intake request linked in the Zenhub ticket.
+After the initial release, there are some content and component updates to implement. Shannon recommended keeping these separate due to scope concerns for the first release.
+
+The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=929-8828&mode=design) in the page under "----------Future Versions----------" has the details. Also see the Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226), which is where the design work came from. It's based on specific content guidance that Katherine Fung provided in response to a CAIA intake request linked in the Zenhub ticket.
 
 ## Project background
 
@@ -127,10 +129,6 @@ The [condition name] (for example, "Toxic exposure"), is repeated as a header (p
 
 <img width="965" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b17e4289-9f92-42b8-b749-9be8b6b620af">
 
-
-
-
-
 ### Dates on locations pages
 
 #### Current approach
@@ -166,6 +164,10 @@ While we expect this solution to add many screens, we think they are likely to b
 <img width="166" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b396436f-e8c5-471e-a047-12aabbda3417">
 
  -All locations and dates entered on one screen. It's a long list and appears cumbersome, especially on mobile
+
+### use of "service-connected" in radio button question
+
+We removed "service-connected" from the radio button question and removed the "what does service-connected mean?" additional info component… **updates needed**
 
 ### Content updates from CAIA
 
