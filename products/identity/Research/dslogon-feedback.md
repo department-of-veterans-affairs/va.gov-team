@@ -1,5 +1,11 @@
 # Veteran feedback about DS Logon
 
+- Some frustration and good quotes shared on [this Reddit thread](https://www.reddit.com/r/Veterans/comments/18z7fy1/the_ds_login_now_requires_15_characters_plus/)
+  >  The DS Login now requires 15 characters plus. You can't use the same 8 characters. How many letters do they think are in the alphabet. Also you can't use a previous password. I hope that everyone submits negative feedback after they successfully reset their DS Logon. My last password was 10 characters. Next year they will require 30 characters.
+
+ > I don't get how ID.me gets you into most of the same sites, and it's super easy once you've been approved. DS Logon is like an old government relic that still fears Y2K.
+
+- Here's [another Reddit thread with good quotes](https://www.reddit.com/r/Veterans/comments/17x3kh0/this_is_insane_minimum_15_characters_all/), and [one more](https://www.reddit.com/r/VeteransBenefits/comments/1avm2wf/satisfying_ds_logon_password_requirements/).
 
 - [2023 Appointments list usability study, next steps section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md#next-steps), talks about some issues observed related to DS Logon.
 
