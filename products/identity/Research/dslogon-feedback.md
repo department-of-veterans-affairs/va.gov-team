@@ -20,7 +20,7 @@
 
 - [Oct 2019 DS Logon Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/login/ds-logon/research) - [Slide Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ds-logon/research/DS%20Logon%20Brief%20(1).pdf)
 - Veteran quotes from the study
-     - “I’ll put it in simple terms: using DS Logon is one of the worst online experiences I have, period.”
-     - Vets come with traumatic brain injuries, PTSD, this stuff is really hard. You have to have a Masters or a PHD in DS Logon just to use this
+    > - “I’ll put it in simple terms: using DS Logon is one of the worst online experiences I have, period.”
+    > - Vets come with traumatic brain injuries, PTSD, this stuff is really hard. You have to have a Masters or a PHD in DS Logon just to use this
      - What level of trust do you have with these logins?
-          - [DS Logon] is not one that we’re super trusting of. When we were supposed to be setting it up so that both of us could use it he was having a lot of paranoia and he was in and out of hospitals. Just this week we tried to get the doctor to send me something but I didn’t have access, even though the coordinator told me I was supposed to
+        >  - [DS Logon] is not one that we’re super trusting of. When we were supposed to be setting it up so that both of us could use it he was having a lot of paranoia and he was in and out of hospitals. Just this week we tried to get the doctor to send me something but I didn’t have access, even though the coordinator told me I was supposed to
