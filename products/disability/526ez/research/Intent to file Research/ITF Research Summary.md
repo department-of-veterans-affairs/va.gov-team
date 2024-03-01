@@ -21,8 +21,3 @@ _Once you've presented your research readout to your team, if you have a deck, i
     * [We don’t know how much Veterans care about their intent to file date after submission of a claim.] (#We-don’t-know-how-much-Veterans-care-about-their-intent-to-file-date-after-submission-of-a-claim)
 - [Conclusion] (#conclusion)
 
-
-
-
-
-- [Who we talked to](#who-we-talked-to)
