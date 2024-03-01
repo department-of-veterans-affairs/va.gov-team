@@ -21,3 +21,42 @@ _Once you've presented your research readout to your team, if you have a deck, i
     * [We don’t know how much Veterans care about their intent to file date after submission of a claim.] (#We-don’t-know-how-much-Veterans-care-about-their-intent-to-file-date-after-submission-of-a-claim)
 - [Conclusion](#conclusion)
 
+## Goals and Methods
+
+We reviewed past and ongoing research studies and existing pages on the VA website. We documented our work in a Mural board with insights, observations, open questions, and recommendations. Our goals are to:
+Identify known pain points that Veterans encounter around intent to file, and recommendations for improvement
+Determine the scope and impact of these pain points, and assess if a broader redesign of intent to file in the 526 experience is needed (for example, redesigning how intent to file is introduced, how it appears on the confirmation page or claim status tool, etc.)
+This document is a summary of our findings. 
+
+Artifacts in this review include:
+
+- 526 Shadowing Research
+- 526 Medallia Research
+- Technical discovery and ongoing work:
+    * Initial discovery on expiration issues
+    * Expired ITF preventing submission
+    * Technical Spike: Research ability to save 526 form data and create new ITF after expiration
+    * Async solutioning
+    * Research - ITF Experience and Policy Options
+    * Implement Immediate ITF Fix (show current ITF time)
+    * SC | Review ITF messaging
+    * Intent to File in CST
+- Proactive Benefits Research
+- VA webpage audit
+    * About VA Form 21-0966 (intent to file)
+    * New Digital Intent to File Form (not launched yet)
+    * About VA Form 21P-527EZ (Pension)
+    * About VA Form 21P-527 (Pension evidence)
+    * About VA Form 21P-534EZ (DIC, Survivors Pension, Accrued Benefits)
+    * About VA Form 21P-534 (DIC, Survivors Pension, Accrued Benefits)
+    * About VA Form 21-526EZ (Disability)
+- Recurring Q&A sessions with VBA stakeholders
+
+## What is intent to file?
+
+Intent to file sets a potential start date (or effective date) for Veteran benefits by notifying the VA that they plan to file a claim. This can enable the Veteran to receive retroactive payments (payments from the time between when they submitted an intent to file and when the VA approves the claim). The Veteran has one year from the time they submit an intent to file their claim to receive the earliest possible effective date. 
+An intent to file is not required for any type of claim—however, it is built into the digital form for disability benefits (VA Form-21-526EZ). Currently, for both pension (VA Form 21P-527EZ) and dependency and indemnity compensation (VA Form 21P-534EZ), intent to file is not part of the online form but can be submitted via an additional paper claim (VA Form 21-0966). A Veteran can also call the VA by phone to express their intent to file. 
+The date the VA receives the intent to file will be used to inform the effective date, but there are many other factors that go into determining an effective date, including changes in law (such as the PACT Act), and the medical evidence in the claim. After a year has passed, the initial intent to file will expire, but if the Veteran continues with an in-progress claim the system will create a new intent to file with a new expiration date a year in the future.
+From conversations with VBA, we’ve learned law changes replaced the informal claim process with the intent to file. “VBA was working to formalize all of the claim submission processes by requiring specific forms and more detailed expression of the claims requested, moving away from the classic ‘we accept claims on napkins’ comment you have likely heard before.” This change also ensured that when a Veteran began an application online this attempt was captured as an official attempt to file a claim and recorded as such. This means that certain forms that don’t yet include this functionality could be considered noncompliant. 
+(1) An intent to file a claim can be submitted in one of the following three ways: (i) Saved electronic application. When an application otherwise meeting the requirements of this paragraph (b) is electronically initiated and saved in a claims-submission tool within a VA web-based electronic claims application system prior to filing of a complete claim, VA will consider that application to be an intent to file a claim. (See 38 CFR 3.155)
+
