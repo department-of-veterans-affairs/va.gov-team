@@ -17,3 +17,10 @@
 - [526EZ self service research from 2018, participant 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1cbd02337d56122518afe568e12674076673fe96/products/disability/526ez/research/archive/jan-2018/notes/20180118-mark-p2.md)
   >Every time I try DS Logon I have to change my pw every time, or like something's wrong w/my pw. Honestly right before I got on here I was going to access eBenefits and that uses DS Login and I've got the loading screen right here waiting for me to change my password haha. So I try to stay away from DS Login as much as possible - P2
 
+
+- Oct 2019 DS Logon Study - [Slide Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ds-logon/research/DS%20Logon%20Brief%20(1).pdf)
+- Veteran quotes from the study
+     - “I’ll put it in simple terms: using DS Logon is one of the worst online experiences I have, period.”
+     - Vets come with traumatic brain injuries, PTSD, this stuff is really hard. You have to have a Masters or a PHD in DS Logon just to use this
+     - What level of trust do you have with these logins?
+          - [DS Logon] is not one that we’re super trusting of. When we were supposed to be setting it up so that both of us could use it he was having a lot of paranoia and he was in and out of hospitals. Just this week we tried to get the doctor to send me something but I didn’t have access, even though the coordinator told me I was supposed to
