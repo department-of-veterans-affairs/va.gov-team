@@ -56,7 +56,7 @@ We will conduct one-on-one remote usability sessions via Zoom for this study. We
 - [Linked to conversation guide for screen reader users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/dot-indicator-convo-guide-for-screen-readers.md)
 
 ### Recruitment approach
-We will target Veterans who use assistive tech (screen readers and magnification tools) and colorblind users to answer our accessibility research questions. We will use Perigean to recruit them.
+We will target Veterans who use assistive tech (screen readers and magnification tools, colorblind users, and those with cognitive impairments to answer our accessibility research questions. We will use Perigean to recruit them.
 
 ### Recruitment criteria
 Total Requested: 16
@@ -77,8 +77,7 @@ Pilot session info:
 * Date and time of pilot session: 2/23/24
 
 ### Length of sessions
-* Session length: 45 minutes
-	* For the screen reader session, please schedule it for __60 minutes__
+* Session length: 60 minutes, for all user types
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
 * If testing is able to begin early, March 5th cannot have any sessions scheduled
@@ -88,7 +87,7 @@ Testing should take place from March 11th - March 15th, March 18th-19th, with 3-
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
-- Moderator: Matt Marino (matt.marino@adhocteam.us)
+- Moderator: Matt Marino (matt.marino@adhocteam.us) (Pam Drouin(pam.drouin@a1msolutions.com) and Liz Lants(liz.lantz@adhocteam.us) may substitute as moderators for a small number)
 - Research guide writing and task development: Matt Marino and Angela Agosto	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Matt Marino
