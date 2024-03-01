@@ -38,7 +38,8 @@ Tracked in the [Medallia overall satisfaction](https://va-gov.domo.com/page/8256
 
 Questions and notes:
 - Need to chat with Robyn Singleton to talk about overall satisfaction tracking across all the health tools/all VA.gov possibly.
-- We could add nuance by looking at task completion rate and sentiment analysis from Veteran user feedbck.
+- We could add nuance by looking at task completion rate and sentiment analysis from Veteran user feedback.
+- Could track the number of positive/negative comments as a percentage of total unique users per week. Goal would be a lower pct of negative comments, even as user numbers increase. 
 
 ### 📉 Decrease the percentage of request and scheduling sessions that end in abandonment.
 
