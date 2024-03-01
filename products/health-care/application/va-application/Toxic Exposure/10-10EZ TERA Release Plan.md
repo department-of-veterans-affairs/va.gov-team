@@ -9,7 +9,7 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| TBD | Toggle to enable users to see the newly added TERA questions |
+| hca_tera_enabled | Toggle to enable users to see the newly added TERA questions |
 
 ## Step 2: Validation
 
