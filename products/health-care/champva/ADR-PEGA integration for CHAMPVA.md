@@ -29,7 +29,6 @@ Box.com was mentioned early in the project but ruled out due to security concern
 
 While s3 is not the preferred production solution, it's important to note that our team is pursuing this path as a near term option for testing our back end processes and front end functionality as it relates to those processes.
 
-
 ## Consequences
 
 ### What are the risks of this decision?
@@ -38,10 +37,15 @@ The risk of depending on an API integration with PEGA is an unknown delay in pro
 
 The risk of the alternate (s3) option, if it were to become the production solution, would be additional effort to build monitoring tools to ensure the quality and reliability of our integration with PEGA. If the API option then became available, these monitoring tools specific to monitoring successful submission to PEGA would no longer be needed.
 
+As of the week of 2/26/24, we're unsure whether the PEGA implementation team will be able to return a confirmation of whether PEGA has received a form we've submitted. This had not been our previous understanding, and it increases risk and lowers quality for users, potentially tu unacceptable levels.
+
 ### How do we reverse this decision?
 
 If neither PEGA integration is feasible, this would prevent the launch in production. Rather than reversing a deploy to production, we would not be pushing that deploy to production.  Discovery to date has not shed light on an alternative to PEGA, so alternative options would still need to be pursued if PEGA integration is not feasible.
 
 ### References
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/1290901/598a5560-594d-4ede-bf96-e269dee63d5a)
+
+
 Diagram from meeting with VA IVC team.
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/1290901/25e19a40-6367-49bf-8461-8311e3870062)
