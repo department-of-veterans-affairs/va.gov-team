@@ -10,7 +10,7 @@
 
 ### Team Members
 
-- DSVA Product Lead: Zach Goldfine, zachary.goldfine@va.gov
+- DSVA Product Lead: Jennifer Bertsch, jennifer.bertsch@va.gov
 - Team Product Manager: Lindsay Li-Smith, lindsay.li-smith@oddball.io
 - [Full team roster](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management#team-members)
 
@@ -29,7 +29,7 @@ This section will focus on how to identify and measure errors and performance me
 #### Error Logging
 
 - **Sentry Integration:** Ensure Sentry is properly integrated into both vets-api and vets-website. Sentry will capture any runtime errors, performance issues, or exceptions in the application.
-- **Error Alerts:** Set up Sentry alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NO BEEN SETUP YET).
+- **Error Alerts:** Set up Sentry alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NOT BEEN SETUP YET).
 - **Error Types and Frequencies:** Regularly review error logs to identify common or recurring issues. Pay special attention to error types, frequencies, and the severity of impacts on users.
 
 #### Performance Metrics
@@ -66,9 +66,9 @@ This section outlines the steps to investigate and resolve issues related to the
 - **Postmortem Analysis:** Conduct a postmortem analysis to understand the root cause and document learnings. Update the playbook accordingly to improve response for future incidents.
 
 ### Flipper Features and Rollback
-
-- The vets-website feature flag for this feature is: `findARepresentativeShowApplication`
-- The vets-api feature flag for this feature is: `find_a_representative_show_application`
+- Enables Find a Representative tool - `find_a_representative_enabled`
+- Enables Find a Representative frontend - `find_a_representative_enable_frontend`
+- Enables Flag a Representative feature for Find a Representative tool - `find_a_representative_flag_results_enabled`
 
 ## Security
 
