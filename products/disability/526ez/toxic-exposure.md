@@ -21,9 +21,15 @@ Disability compensation, disability benefits, toxic exposure, PACT Act, 526 ez
 
 We are adding a toxic exposure section to the 526 ez disability benefits claim form, allowing Veterans to specify some aspects of their service history that might qualify them for additional disability benefits related to toxic exposure. This brings the digital form into parity with the paper 526 ez form on these exposure questions. 
 
+### MVP First Release
+
 For our initial release, we will include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase), as an MVP.
 
-See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=oJsLDpd2NrXJIAgB-1) and the annotations within it for details.
+See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=oJsLDpd2NrXJIAgB-1) and the page under "----------Current Workspace----------" for details.
+
+### Second Release
+
+After the initial release, there are also some content and component updates to implement. The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=929-8828&mode=design) in the page under "----------Future Versions----------" has the details. Also see the Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226), which is where the design work came from. It's based on specific content guidance that Katherine Fung provided in response to a CAIA intake request linked in the Zenhub ticket.
 
 ## Project background
 
