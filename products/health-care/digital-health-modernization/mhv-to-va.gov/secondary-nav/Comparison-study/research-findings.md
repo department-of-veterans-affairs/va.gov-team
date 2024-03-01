@@ -1,4 +1,4 @@
-# MHV Secondary Navigation Comparison Study
+# My Healthevet Secondary Navigation Comparison Study
 
 **Office of the CTO - Digital Experience (OCTO-DE), My HealtheVet on VA.gov, Cartography Team**
 
@@ -51,7 +51,7 @@ Research readout
 * How easily can users navigate to the four primary health tools that are prioritized by the proposed designs?
 * Can participants navigate to health-related tools that are not specifically named within the secondary navigation designs?
 * Is one design (Design A or Design B) more successful than the other at helping Veterans meet their needs?
-* How does a secondary navigation within the health portal impact participants' understanding of place within the VA.gov digital ecosystem?
+* How do these designs impact participants' understanding of My HealtheVet as a portal, and where they are within the VA.gov ecosystem?
 
 ## Methodology 
 
@@ -70,36 +70,27 @@ Note: Prototypes are responsive
 
 ## Key Findings
 
-1. The persistent-link navigation strategy (on both versions of desktop and on mobile B) was successful in helping users accomplish tasks within the four primary health tools without leaving My HealtheVet.
-
-2. The navigation bar labels the experience and orients users to where they are and what they can expect.
-
-3. The navigation bar facilitates seamless movement between health tools.
-
-4. Despite improvements, collapsed menu navigation continues to fail our mobile users.
-
-5. 8/8 mobile participants found the persistent link nav to be “easier” and/or more “direct” than the collapsed menu.
-   
-6. Seeing the landing page earlier in a session helped Veterans find it later.
-   
-7. Tools at the bottom of the landing page can be difficult to find.
-
-8. Entering MHV through a sidedoor (deep-link) was surprising to some participants.
+1. The persistent link navigation was found to be successful in creating an improved UX
+2. The navigation bar helps participants quickly understand where they are and what they can do there
+3. Even with improvements, collapsed secondary nav elements continue to fail our mobile users
+4. 8/8 mobile participants found the persistent link nav to be “easier” and/or more “direct” than the collapsed menu
+5. Tools at the bottom of the landing page are not easy enough to find
+6. Entering My HealtheVet through a side door was surprising to some participants
 
 
 ### Secondary Findings
 
-9. Deep-linking participants into a tool's detail page revealed issues with current labeling.
+7. Deep-linking participants into a tool's detail page revealed issues with current labeling.
 
-10. My HealtheVet link text in the nav bar in prototype B (both desktop and mobile) is viewed as a label for the whole navigation bar, not a clickable link.
+8. My HealtheVet link text in the nav bar in prototype B (both desktop and mobile) is viewed as a label for the whole navigation bar, not a clickable link.
 
-11. While participants did see "home " as clickable in both desktop and mobile prototypes A, they often did not think to go there unless they had seen the landing page before by clicking a breadcrumb (which was relatively rare).
+9. While participants did see "home " as clickable in both desktop and mobile prototypes A, they often did not think to go there unless they had seen the landing page before by clicking a breadcrumb (which was relatively rare).
 
-12. For participants that did make it to the home page, locating the CPAP re-ordering link and/or the travel pay link was not a given.
+10. For participants that did make it to the home page, locating the CPAP re-ordering link and/or the travel pay link was not a given.
 
 ## Findings details 
 
-#### 1. The persistent-link navigation strategy (on both versions of desktop and on mobile B) was successful in helping users accomplish tasks within the four primary health tools without leaving the portal.
+#### 1. The persistent link navigation was found to be successful in creating an improved UX
  * While using a version of the secondary nav that offered persistent links, all 16 participants were able to stay within the portal and complete tasks 1 and 2, which asked them to locate tasks or information within Messages, Appointments, and Medical Records. 
    * P16: "The four major things that I'd use are right there."
    * P11: “"This is nice and easy. Much better than the current MyHealtheVet."
