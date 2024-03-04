@@ -33,7 +33,7 @@ This document is a summary of our findings.
 
 Artifacts in this review include:
 
-- 526 Shadowing Research
+- [526 Shadowing Research] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
 - 526 Medallia Research
 - Technical discovery and ongoing work:
     * Initial discovery on expiration issues
