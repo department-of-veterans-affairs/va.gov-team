@@ -52,15 +52,33 @@ All in one file, on one tab
 | Week 3 Jan 14–Jan 20  | Peter Russo  | [74120](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74120) | Done        |
 | Week 4 Jan 21–Jan 27  | Peter Russo  | [74718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74718) | Done        |
 | Week 5 Jan 28–Feb 03  | Peter Russo  | [75305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75305) | Done    |
-| Week 6 Feb 04–Feb 10  |  Peter Russo            | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) |  Done      |
+| Week 6 Feb 04–Feb 10  |  Peter Russo | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) |  Done      |
 | Week 7 Feb 11–Feb 17  |  Peter Russo            | [76684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76684) | Done       |
-| Week 8 Feb 18–Feb 24  |  Peter Russo            | [77057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77057) |        In Progress |
-| Week 9 Feb 25–Mar 02  |  Peter Russo            | []() |        |
+| Week 8 Feb 18–Feb 24  |  Peter Russo            | [77057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77057) | Done |
+| Week 9 Feb 25–Mar 02  |  Peter Russo            | [77550](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77550) | In progress      |
 | Week 10 Mar 03–Mar 09 |  Peter Russo            | []() |        |
 | Week 11 Mar 10–Mar 16 |  Leah De La Costa       | []() |        |
 | Week 12 Mar 17–Mar 23 |  Leah De La Costa       | []() |        |
 | Week 13 Mar 24–Mar 30 |  Leah De La Costa       | []() |        |
 
+
+### Medallia Feedback Requests - Q2 2024
+
+| Dates                  | Submitted By | Ticket Link  | Status |
+| Week 14 Mar 31--Apr 06 |   | []() |  |
+| Week 15 Apr 07--Apr 13 |  | []() |  |
+| Week 16 Apr 14--Apr 20 |  | []() |  |
+| Week 17 Apr 21--Apr 27 |  | []() |  |
+| Week 18 Apr 28--May 04 |  | []() |  |
+| Week 19 May 05--May 11 |  | []() |  |
+| Week 20 May 12--May 18 |  | []() |  |
+| Week 21 May 19--May 25 |  | []() |  |
+| Week 22 May 26--Jun 01 |  | []() |  |
+| Week 23 Jun 02--Jun 08 |  | []() |  |
+| Week 24 Jun 09--Jun 15 |  | []() |  |
+| Week 25 Jun 16--Jun 22 |  | []() |  |
+| Week 26 Jun 23--Jun 29 |  | []() |  |
+| Week 27 Jun 30--Jul 06 |  | []() |  |
 
 ### Older requests
 
@@ -112,20 +130,21 @@ All in one file, on one tab
 `VAOS Medallia [YYYY] Q[#] Week[##]` 
 For example: VAOS Medallia 2023 Q4 Week 44
 
-This make the feedback sortable by date in the appropriate folder.
+This naming convention lets us sort all the feedback files by date.
 
 4. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols.
-Look for:
-- Email addresses
-- Names
-- Social security numbers
-- Phone numbers
-- Other identifying numbers
+   
+Replace them with codes as follows
+- Email addresses - PII_EMAIL
+- Names - PII_NAME
+- Social security numbers - PII_SSN
+- Phone numbers - PII_PHONE
+- Other identifying info - PII_OTHER
 
-5. Note any issues that may be new or indicate that something is broken. 
+5. As you review, note any issues that may be new or indicate that something is broken. You'll email this information to the team in the last step.
 
-6. Upload file to the Teams folder. Check that it is named so that it can be sorted by date.
+6. Upload the scrubbed file to the Teams folder. Check that it is named so that it can be sorted by date.
 
-7. Share the file, including flags of any potential issues to  Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera (using their VA email addresses)
+7. Share the file, including your notes of any potential issues that raise concern to  Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera (using their VA email addresses).
 
-8. Note any potential new broken behavior in the #appointments-fe-meetup channel.
+8. If any issues that seem urgent show up, note them for the team in the #appointments-fe-meetup channel.
