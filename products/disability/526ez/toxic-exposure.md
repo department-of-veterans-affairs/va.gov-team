@@ -68,7 +68,7 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
 5. Expand the toxic exposure section to other disability claims (extending beyond new conditions)
 6. Enhance design system to better clarify optional fields with the one question per page approach (comes up with the "I'm not sure" checkbox behavior)
 
-## Background on decisions (needs to be updated)
+## Background on decisions
 
 ### Scope of content to update
 
