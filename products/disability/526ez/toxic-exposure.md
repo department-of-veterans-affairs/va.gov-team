@@ -241,7 +241,7 @@ With the HTML, we also considered using `<ul>` and `<li>` elements, potentially 
 
 - Large summary page at the end - using tables
 
-![Intermediary summary](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/da9110fb-7ddc-41d6-b34e-7059b48fab11)
+![Intermediary summary](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/4abcdf39-93dc-4488-a362-7747baa4d575)
 
 
 #### Rationale
