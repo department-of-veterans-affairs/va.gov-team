@@ -18,10 +18,10 @@ _Once you've presented your research readout to your team, if you have a deck, i
 - [What is intent to file](#what-is-intent-to-file)
 - [Findings and Recommendations](#findings-and-recommendations)
     * [Veterans are unable to start their 526 (or supplemental) disability claim when the intent to file endpoint is unavailable.](#Veterans-are-unable-to-start-their-526-disability-claim-when-the-intent-to-file-endpoint-is-unavailable.)
-    * [The various ways Veterans can express their intent to file (and the implications of each) are not clear to Veterans.] (#The-various-ways-Veterans-can-express-their-intent-to-file-are-not-clear-to-Veterans.)
-    * [The intent to file expiration is a concern for Veterans, and not well understood.] (#The-intent-to-file-expiration-is-a-concern-for-Veterans-and-not-well-understood.)
-    * [Information on intent to file is inconsistent across forms.] (#[Information-on-intent-to-file-is-inconsistent-across-forms.)
-    * [We don’t know how much Veterans care about their intent to file date after submission of a claim.] (#We-don’t-know-how-much-Veterans-care-about-their-intent-to-file-date-after-submission-of-a-claim.)
+    * [The various ways Veterans can express their intent to file (and the implications of each) are not clear to Veterans.] (#The-various-ways-Veterans-can-express-their-intent-to-file-are-not-clear-to-Veterans.) 
+    * [The intent to file expiration is a concern for Veterans, and not well understood.] 
+    * [Information on intent to file is inconsistent across forms.] 
+    * [We don’t know how much Veterans care about their intent to file date after submission of a claim.] (
 - [Conclusion](#conclusion)
 
 ## Goals and Methods
