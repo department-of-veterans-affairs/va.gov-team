@@ -1,5 +1,32 @@
 # Design Weekly Sync Agenda
 
+## 2024-03-04
+Attendees: Angela, Hieu, Jessica, & Katelyn.
+
+- Registration-Only workshop session (Angela): 
+  - Workshop #3 went well with Samantha and Roosevelt (RJ) giving extensive answers. We did not get one question answered but there is a bi-weekly check-in we can use to ask.
+  - The team talked about the unknown timeframe of the wireframe and the journey mapping. We will try to get feedback from the VES team, showing in-progress items.
+- Confirmation Flow Design (Hieu)
+  - A few things to consider: 
+    - The primary focus of the EZR is to update the household financial information. 
+    - The multiple response component we utilized in the EZR MVP is a major factor in keeping the flow as soon as possible. 
+  - Comparison between the EZR  v2 and Confirmation flow screen count is not much different (24 vs 21 screens) when including Military Info, TERA, and EC/NOK. 
+  - Angela notes that the multiple component is better because the Veteran can edit certain information when there are multiple cards.
+  - Design consideration:
+    - The information we surface needs to be a balance between recognized vs recalled. (example: show the Veteran street but not city, state and zip. We would need research to confirm our hypothesis.
+    - Check-in with the Forms team on the Multiple Response component (Matt Dingy, Jeana Clark. The Claim Team may have similar components)
+- Upcoming Research (Jessica):
+  - We should group the TERA research with some outlier, secondary research questions. Things to consider: research on the TERA on EZ vs EZR. 
+- Hint Text (Katelyn)
+  - Katelyn notes multiple redundancy in the content/text (Work vs Job). 
+  - Team talked through multiple possible arrangements, with an option to have only 1 additional information to keep the content to a minimum. 
+  - Team wants to be more proactive with refining and updating the forms. 
+- Ideal state - Explore the ideal state of healthcare enrollment, 
+  - Consider in-person research (all UXers are relatively close to VA facilities).
+  - Consider beyond the scope of form/application (holistic health care journey). 
+
+
+
 ## 2024-02-26
 Attendees: Angela, Hieu, & Katelyn.
 
