@@ -21,7 +21,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76339)
+    - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
@@ -65,8 +65,6 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**  
-        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-        - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
         - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
         - ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
@@ -74,17 +72,18 @@ ________________________________________________________________________________
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
         - ❗ 🟩 [Midpoint Review - Accessibility Feedback - Modernized Check-in, eCheck-in, Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77000)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
-        - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)   
+        - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
+        - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
 - **GOAL: Address Usage Issues**
    - **Sub Goal: Change wording for wait time after checking in**
-        - 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
-        - 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
-        - 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
-        - 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
+        - ❗ 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
+        - ❗ 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
+        - ❗ 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
+        - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - 🟥 [[UX][Research] Create Metrics to Measure Success for this Feature #63236
         - 🟥 [[UX][Design] SPIKE: Appointment Detail Page UI Discovery ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77232)
+        - 🟥 [[UX] Pre-Check-in & Day-of Text Messages: Update the Text Messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62099)
         - 🟦[[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
         - 🟦[[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
@@ -143,12 +142,16 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
         - ✔️ ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ✔️ ❗ 🟩 [[FE] Fix complete page typos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77315)
+        - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
+            - Pulled into sprint on 3/1
         - ✔️ ❗ 🟦 [[BE] Modify TravelClaimsController to permit facility_type parameter ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76250)
         - ✔️ ❗ 🟦 [[BE] Add facilityType parameter in PatientCheckIns Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76247)
         - ✔️ ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75563)
         - ✔️ ❗ 🟦 [[BE] Modify Appointments Identifer Serializer to add IDIPI & appointment type field for OH appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75543)
         - ✔️ ❗ 🟦 [[BE] Modify devops repo for VA Notify template IDs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76208)
         - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
+        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+            - Pulled into sprint on 3/1
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
         - ✔️ 🟥 [[Design] Ensure CVT & VVC designs with new accordions are ready for eng handoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77134)
