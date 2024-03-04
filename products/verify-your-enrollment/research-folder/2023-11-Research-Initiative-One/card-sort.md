@@ -1,9 +1,9 @@
-##Instructions##
+## Instructions
 Thank you for participating in this research activity to help us improve the experience for Veterans using their Montgomery GI Bill benefits. 
 
 Your thoughtful participation will help ensure that other Veterans like you are able to quickly and successfully use their education benefits and improve their lives. 
 
-##Starting Questions##
+## Starting Questions
 We have a few questions for you before we start the card sorting activity: 
 
 1. Please select the program(s) under which you currently use education benefits or plan to use education benefits:
@@ -23,16 +23,16 @@ Please note that users of Post 9/11 GI Bill benefits are not eligible for this a
    - Other ______
   
 3. When utilizing education benefits under the Montgomery GI Bill, Veterans must verify their school enrollment on a monthly basis. What method would you prefer to verify your enrollment? 
-  1. Website
-  2. Email
-  3. Text message
-  4. VA app
-  5. Phone call to VA
-  6. Other
+   - Website
+   - Email
+   - Text message
+   - VA app
+   - Phone call to VA
+   - Other
 
 [Followed by general OptimalSort instructions]
 
-##Cards##
+## Cards
 1. Current enrollment period
 2. Verify enrollment
 3. July 2023 enrollment
@@ -62,10 +62,10 @@ Please note that users of Post 9/11 GI Bill benefits are not eligible for this a
 27. Pending documents
 28. Manage Your VA Debt
 
-##Closing Questions##
+## Closing Questions
 Do you have any additional comments about your education benefits or your experience with the VA? 
 
-##Thank You Page##
+## Thank You Page
 Thank you for your participation in this activity to help us improve education benefits for other Veterans like you. 
 
 [Statement on followup by Perigean]
