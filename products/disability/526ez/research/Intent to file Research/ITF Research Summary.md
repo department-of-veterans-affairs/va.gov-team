@@ -81,7 +81,7 @@ Open Questions
 
 - Veterans are met with an error message when the system checks the intent to file endpoint and the endpoint is unavailable. The error resolves once the backend system recovers; however, this is not communicated to Veterans, who are directed to call the Contact Center for assistance. 
 
-![We're sorry error message] --- note add image here---
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%202%20ITF.png)
 
 - Currently, this error prevents a Veteran from moving forward with their claim. There is a “back” button on this page, but no “continue” button.
 
