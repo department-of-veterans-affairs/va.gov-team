@@ -18,7 +18,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
  
 ## Desired Business Outcomes
  - Staff are freed to perform patient care 
- - Infrasturcture for unified digital healthcare is created
+ - Infrastructure for unified digital healthcare is created
  - Wait times between arrival and completion of check-in decrease
  
 ## Undesired User Outcomes
