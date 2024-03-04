@@ -26,7 +26,8 @@ We are adding a toxic exposure section to the 526 ez disability benefits claim f
 For our initial release, we will: 
 
 1. include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase)
-2. only update the second "service connection" screen following from the first "service connection" radio button choice
+2. separate the "service connection" question into two screens (one for the radio button choice and another for the fields that follow it), per the one question per page guidance
+3. only update the second "service connection" screen following from the first "service connection" radio button choice
 
 ![service connection second screen following first radio button choice](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/53c08f8d-d43d-499f-917a-74be4d5816e8)
 
@@ -104,9 +105,9 @@ If we used the "other approach considered", we would make toxic exposure mutuall
 #### Current approach 
 
 The current approach is to keep "I’m not sure" mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
-They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or None of these locations in order to move forward.
+They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or "None of these locations" in order to move forward.
 
-![Screen showing a checkbox group of service locations plus "None of these locations" and "I'm not sure". "Lebanon" and "None of these locations" are both checked. There's a displayed error message of "You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/8105423c-bc09-4bcb-8f99-ab862f5c9923 "Gulf War Locations 3")
+![Screen showing a checkbox group of service locations plus "None of these locations" and "I'm not sure". "Lebanon" and "None of these locations" are both checked. There's a displayed error message of "You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/9f976209-e96a-4e5d-93b0-eb3464dc18c4 "Gulf War Locations 3")
 
 ![Screen showing a checkbox group of conditions plus "I am not claiming any conditions related to toxic exposure". "Tinnitus" and "I am not claiming any conditions related to toxic exposure" are both checked. There's a displayed error message of "You selected a condition, and 'I am not claiming any conditions related to toxic exposure'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/ea2344fb-7ea5-4b9e-bb17-493e60a7dad4 "Conditions")
 
