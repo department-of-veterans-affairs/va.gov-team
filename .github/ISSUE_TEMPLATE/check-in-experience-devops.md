@@ -3,7 +3,6 @@ name: Check In Experience DevOps Task
 about: Task for DevOps
 title: "[DevOps] Untitled"
 labels: devops, HCE-Checkin
-assignees: ndouglas
 ---
 
 ## User Story
