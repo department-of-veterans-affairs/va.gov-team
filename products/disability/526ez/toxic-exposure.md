@@ -37,7 +37,7 @@ See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53eu
 
 ### Second Release
 
-After the initial release, there are some content and component updates to implement. This includes:
+After the initial release, there are more content and component updates to implement. This includes:
 
 1. Content updates on radio button choices for the first "service connection" screen
 2. Content and component updates on second "service connection" screen following from "service connection" radio button choices 2-4
