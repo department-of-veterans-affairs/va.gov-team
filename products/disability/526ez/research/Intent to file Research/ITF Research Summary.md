@@ -85,7 +85,7 @@ Open Questions
 
 - Currently, this error prevents a Veteran from moving forward with their claim. There is a “back” button on this page, but no “continue” button.
 
-- We have designed an MVP solution for bypassing this error. This solution requires backend work to ensure we can manage claims submitted while the intent to file endpoint is down — see discovery work ticket. Engineering capacity is the only thing holding up implementation. 
+- We have designed an MVP solution for bypassing this error. This solution requires backend work to ensure we can manage claims submitted while the intent to file endpoint is down — [see discovery work ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65857). Engineering capacity is the only thing holding up implementation. 
 
 Open Questions
 
@@ -158,17 +158,17 @@ Open Questions
 
 **526 Technical discovery**
 
-- Veterans should be able to continue to file a claim even after an intent to file expires. There were previously errors that prevented this on the 526, but these have since been resolved. (We’re still working to track down all related tickets, but here are a couple: 63533 and 60705)
+- Veterans should be able to continue to file a claim even after an intent to file expires. There were previously errors that prevented this on the 526, but these have since been resolved. (We’re still working to track down all related tickets, but here are a couple: [63533](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63533) and [60705](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60705))
 - The intent to file expires exactly one year after creation—down to the second. This causes confusion when a change in the Veteran’s timezone might result in the expiration falling on a different date entirely. 
-   - We partially address this pain point by adjusting the intent to file messaging to include the exact expiration time with timezone (see discovery ticket). 
-   - We did some exploration around other possible solutions, such as rounding the expiration time to the nearest day to ensure every Veteran would have at least a year, regardless of time zone. This turned out to be more complex than expected, so was paused in lieu of other priorities. (See alternative solutions ticket).
+   - We partially address this pain point by adjusting the intent to file messaging to include the exact expiration time with timezone ([see discovery ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63748)). 
+   - We did some exploration around other possible solutions, such as rounding the expiration time to the nearest day to ensure every Veteran would have at least a year, regardless of time zone. This turned out to be more complex than expected, so was paused in lieu of other priorities. ([See alternative solutions ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/62296)).
 - We learned from VBA that Veterans who call in or submit a paper intent to file receive a batch letter in the mail regarding their intent to file.  No other reminders are provided. The “batch letter” informs the Veteran that the VA received the intent to file, and includes the time requirements and forms required to complete the application. Batch letters are automated letters VBA creates and mails without human interaction.
    - We’re unsure if batch letters include the exact time or just the date.
-- The Benefit Management Tools team has in their backlog to add an intent to file "object" into the Claim Status Tool as a placeholder after the Veteran submits an intent to file but before they finish the claim, which doesn’t exist today. This could be another way for Veterans to track their intent to file expiration date.
+- The Benefit Management Tools team has in their [backlog](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/49151) to add an intent to file "object" into the Claim Status Tool as a placeholder after the Veteran submits an intent to file but before they finish the claim, which doesn’t exist today. This could be another way for Veterans to track their intent to file expiration date.
 
 **526 Medallia Research**
 
-- Many Veterans were concerned with completing their application by the intent to file expiration date. They expressed this with words like, “My intent to file expires today,” “It has to be in by today,” and after expiration: “My application is now due next year.” See Medallia Synthesis.
+- Many Veterans were concerned with completing their application by the intent to file expiration date. They expressed this with words like, “My intent to file expires today,” “It has to be in by today,” and after expiration: “My application is now due next year.” See [Medallia Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696525694420/4791b8ce60aeec63df3dc1dee348728050f530b3?sender=udbd39c1bbebb4ec4d7d08829).
 - These Veterans were primarily returning to an in-progress claim, and several mentioned that they were returning to finish uploading documentation or ancillary forms such as 21-0781a. 
 
 **Proactive Benefits Research**
@@ -184,30 +184,30 @@ Open Questions
 
 Recommendations
 
-> - Explain the benefit of getting started immediately in plain language. Communicate that submitting an intent to file for disability benefits online is built into the process and is therefore a low-effort action to take immediately to help maximize monetary benefits. See Proactive Benefits teams’ plain language outreach on Sharepoint.
+> - Explain the benefit of getting started immediately in plain language. Communicate that submitting an intent to file for disability benefits online is built into the process and is therefore a low-effort action to take immediately to help maximize monetary benefits. [See Proactive Benefits teams’ plain language outreach on Sharepoint](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20business/Veteran%20Research/2023-11%20Proactive%20Benefits%20Outreach%20Letter%20Exploration?csf=1&web=1&e=IznH43).
 > - Clarify that intent to file is NOT a one-year deadline and, if you take longer than a year to submit, you won't lose out on your opportunity to apply for benefits.
 
 **Information on intent to file is inconsistent across forms.**
 
 **VA.gov audit**
 
-- Since the intent to file is built into the digital 526 process, it’s not clear from the About 526 page what a Veteran should do if they’re not ready to file a claim, but want to submit an intent to file. 
+- Since the intent to file is built into the digital 526 process, it’s not clear from the [About 526](https://www.va.gov/find-forms/about-form-21-526ez/) page what a Veteran should do if they’re not ready to file a claim, but want to submit an intent to file. 
    - The page does not make clear that starting a 526 claim (even if they don’t plan to complete it right away) is the fastest way to create an intent to file, as compared with using the stand-alone intent to file form. 
 - A digital intent to file process is not currently built into the 527 and 534 forms the way it is for 526. To submit an intent to file for these benefits, Veterans would need to use a paper form or phone it in.
 - Intent to file information on VA.gov could be improved:
-   - There is no mention of intent to file on the 534EZ page or the (non-EZ) 534 page.
-   - There is a mention of intent to file on the 527EZ page, where it’s listed under “related forms and instructions.” It’s pretty far down the page and doesn’t stand out as a potential first step for people who are still preparing their documents.  
-   - There is no intent to file needed for the 527 non-EZ because Veterans would already have a submitted claim. However, it is confusing to have similar form names that require a different process.
+   - There is no mention of intent to file on the [534EZ page](https://www.va.gov/find-forms/about-form-21p-534ez/) or the [(non-EZ) 534 page](https://www.va.gov/find-forms/about-form-21p-534/#:~:text=Use%20VA%20Form%2021P%2D534,to%20his%20or%20her%20death.).
+   - There is a mention of intent to file on the [527EZ page](https://www.va.gov/find-forms/about-form-21p-527ez/), where it’s listed under “related forms and instructions.” It’s pretty far down the page and doesn’t stand out as a potential first step for people who are still preparing their documents.  
+   - There is no intent to file needed for the [527](https://www.va.gov/find-forms/about-form-21p-527/) non-EZ because Veterans would already have a submitted claim. However, it is confusing to have similar form names that require a different process.
 - Paper forms 534EZ and 527EZ mention intent to file, but the description is not plain language and the link goes to the general forms URL rather than the intent to file page itself.
 
 ---images of va.gov forms here---
 
-- New (not yet launched) intent to file landing page is an improvement and could clarify what happens after an intent to file expires, to make sure Veterans understand that they can still submit a claim after an intent to file expires. 
+- [New (not yet launched) intent to file landing page](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction) is an improvement and could clarify what happens after an intent to file expires, to make sure Veterans understand that they can still submit a claim after an intent to file expires. 
 
 ---images of va.gov forms here---
 
 - VA Platform content guidelines for talking about intent to file on VA.gov are continuously being updated.
-   - The current guidance from the Word List is that almost all instances are lowercase unless referencing the full name of the form.
+   - The current guidance from the [Word List](https://design.va.gov/content-style-guide/word-list#i) is that almost all instances are lowercase unless referencing the full name of the form.
       - Like this: Fill out your intent to file form.
       - Like this: Submit your intent to file.
 
