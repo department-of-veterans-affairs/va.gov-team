@@ -52,7 +52,7 @@ The following data will come through VA Profile's API
 - Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
 
-**Currently we support the following notifications:**
+#### **Currently we support the following notifications:**
 
 <html>
 <body>
