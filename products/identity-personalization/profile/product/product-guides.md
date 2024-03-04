@@ -10,7 +10,8 @@
 |[Va Profile Product Guide v 5.2.2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/59f7c658562a612d7ab5eeb70a1cf8437b8a3e12/products/identity-personalization/profile/product/VAgov.Profile.v5_2_2_.docx)| v5.2.2 | Dec 2022 | [#50686]()| Misc updates for alerts and account security pages|
 |with track changes:[VAgov.Profile.v6.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/12419685/VAgov.Profile.v6.docx) <br> without track changes:[VAgov.Profile.v6.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/12420267/VAgov.Profile.v6.docx)| 6 | August 2023| - [AE ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63278) <br> - [Contact Center Ticket ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63198)| |
 |[VAgov.Profile.ContactCenterGuide.v7.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13795194/VAgov.Profile.ContactCenterGuide.v7.docx)|Version 7|12/29/2023|[#72702](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72702)||
-||version 8|Feb, 6 2024|[#75099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75099)||
+|[VA.gov Profile product guide v8 SRT 02012024.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/14487188/VA.gov.Profile.product.guide.v8.SRT.02012024.docx)
+|version 8|Feb, 6 2024|[#75099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75099)||
 
 
 
