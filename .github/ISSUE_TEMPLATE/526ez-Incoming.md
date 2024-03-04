@@ -1,7 +1,7 @@
 ---
 name: 526EZ Incoming Issues
 about: Issues for 526EZ application changes that are requested directly by stakeholders, outside of the regular product backlog 
-title: '<526EZ Incoming Issues>'
+title: 526EZ Incoming Issues
 labels: disability-experience, DBEX-Trex, DBEX-Carbs, Incoming
 assignees: RakshindaAslam, tblackwe, 
 ---
