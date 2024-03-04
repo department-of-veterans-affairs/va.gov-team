@@ -81,10 +81,8 @@ OptimalSort will be used for an open card sort to ensure our labeling structure 
 All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Sketch-based prototype. Participants may be asked to share their screen.
 
 ### Research materials
-- [Link to email with instructions](https://va.gov) - _Coming soon_
-- [Link to prototype or OptimalSort session for group A](https://va.gov) - _Coming soon_
-- [Link to prototype or OptimalSort session for group B](https://va.gov) - _Coming soon_
-
+- [Link to OptimalSort outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/card-sort.md)
+- [Link to Chalkmark outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/chalkmark.md)
 	
 ## Recruitment	
 
@@ -114,7 +112,7 @@ Participants must have an active award for one of the following programs:
 - Reserve Educational Assistance Program (REAP, Chapter 1607)
 - Veterans Retraining Assistance Program (VRAP)
 
-Again, the recruitment should exclude Veterans who currently use or plan to use Post 9/11 education benefits. 
+Please note that users of Post 9/11 GI Bill benefits are not eligible for this activity unless also utilizing one of the above programs.
 
 **Recruitment Criteria**
 1. Do you currently use education benefits or plan to use education benefits under the following programs:
@@ -123,7 +121,7 @@ Again, the recruitment should exclude Veterans who currently use or plan to use 
 - Reserve Educational Assistance Program (REAP, Chapter 1607)
 - Veterans Retraining Assistance Program (VRAP)
 
-Please note that users of Post 9/11 GI Bill benefits are not eligible for this activity. 
+Please note that users of Post 9/11 GI Bill benefits are not eligible for this activity unless also utilizing one of the above programs.
 
 2. Please select the program(s) under which you currently use education benefits or plan to use education benefits:
 - MGIB-Active Duty (Montgomery GI Bill - Chapter 30)
