@@ -78,7 +78,7 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
 
 #### Current approach 
 
-The current approach is to keep the "How is your condition related to your service?" question unchanged.
+The current approach is to keep the "How is your condition related to your service?" question mostly unchanged.
 
 <img width="306" alt="Screenshot of 'How is your condition related to your service?' question, showing 4 radio button options" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b0ea39bc-5c35-49d5-ae24-d0e5872cd31c">
 
@@ -137,15 +137,19 @@ The proposed pattern - unchecking "Not sure" results in the "From" and "To" fiel
 
 #### Current approach
 
-The current approach is to have each page in the TE flow have its own unique page title. This will help many assistive tech users use headings to navigate, and indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country]". @Christine Cereca noted it’s good to use a sentence structure like this for consideration of page translation in other languages. 
+The current approach is to have each page in the TE flow have its own unique page title as a heading.  
 
 <img width="1109" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/6cbaff6e-dc11-403d-a466-e9858d8f8256">
 
 #### Other approaches considered
 
-The [condition name] (for example, "Toxic exposure"), is repeated as a header (presumably an H3?) across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. Flagged by CAIA
+The [condition name] (for example, "Toxic exposure"), is repeated as a header across the entire flow. That heading isn't indicative of what's actually contained in that section of the page. 
 
 <img width="965" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b17e4289-9f92-42b8-b749-9be8b6b620af">
+
+#### Rationale
+
+CAIA noted that unique headings representing the page title will help many assistive tech users use headings to navigate, and it will indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country]". @Christine Cereca noted it’s good to use a sentence structure like this for consideration of page translation in other languages.
 
 ### Dates on locations pages
 
@@ -154,7 +158,8 @@ The [condition name] (for example, "Toxic exposure"), is repeated as a header (p
 Have location pages follow the same pattern as hazards.
 So, the user checks which locations apply to them, and we provide the opportunity to give a single time frame per location.
 
-<img width="1108" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/4aa47a6b-ce4d-4ebb-9014-26a468b25bba">
+![dates on locations pages - 3 screens](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/fa4f552c-e473-4bbb-8b21-0ba82cc7e8d0)
+
 
 **Note, we may need to revisit this decision, since it is difficult to implement technically**
 
@@ -183,9 +188,23 @@ While we expect this solution to add many screens, we think they are likely to b
 
  -All locations and dates entered on one screen. It's a long list and appears cumbersome, especially on mobile
 
-### use of "service-connected" in radio button question
+### Removal of "service-connected" from radio button choice and removal of "service connected" additional info component 
 
-We removed "service-connected" from the radio button question and removed the "what does service-connected mean?" additional info component… **updates needed**
+#### Current approach
+
+<img width="306" alt="Screenshot of 'How is your condition related to your service?' question, showing 4 radio button options" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/b0ea39bc-5c35-49d5-ae24-d0e5872cd31c">
+
+1. Removed "service-connected" from the second radio button choice
+2. Removed "additional info" component explaining what "service-connected" means
+
+#### Original design
+
+<img width="711" alt="service-connected-additional-info" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/d789e12d-0bbf-4ccc-9b46-91a702c1e86b">
+
+
+#### Rationale
+
+We removed this "service-connected" language since it was unnecessary and likely to cause confusion. Some background [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1709139850455649?thread_ts=1709138243.496729&cid=C053UDWMH7U)
 
 ### Content updates from CAIA
 
@@ -203,7 +222,10 @@ CAIA wants to avoid using "apply" in this way across va.gov because we often tal
 **To**: "I'm not sure" throughout and making this the very last option of the lists.
 <br>
 
-### Summary Page
+### Allowing Veterans to edit andwers in a section
+
+**needs updates**
+
 The design system doesn't currently have a pattern for showing a summary of information within a form flow apart from the summary of all the information a user has entered in the form, which shows right before form submission.
 
 #### Current approach
