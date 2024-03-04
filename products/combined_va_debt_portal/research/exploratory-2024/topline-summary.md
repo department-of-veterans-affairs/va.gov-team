@@ -73,6 +73,6 @@ It would be worth looking into ways we can improve and surface statement data so
 
 The information that participants would want to see on a copay charge were: date of the service, and the type of service. 
 
-They expressed that some Veterans receive multiple services in a day, and it would be easier to track down and understand the charges if such details were included. These Veterans said that this transparency is important, in case there is a mistake or a double charge. 
+They expressed that some Veterans receive multiple services in a day, and it would be easier to track down and understand the charges if such details were included. These participants said that this transparency is important, in case there is a mistake or a double charge. 
 
 *"To me that is important as the other information. So you know what you're paying for, instead of saying April 1, 2024 you owe $95... it doesn't show what you're paying other than what the balance is."* -P5
