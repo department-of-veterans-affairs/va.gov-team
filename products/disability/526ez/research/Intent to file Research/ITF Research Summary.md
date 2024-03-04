@@ -26,7 +26,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 ## Goals and Methods
 
-We reviewed past and ongoing research studies and existing pages on the VA website. We documented our work in a [Mural board] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?sender=u813bb40bd648bc2b58599242) with insights, observations, open questions, and recommendations. Our goals are to:
+We reviewed past and ongoing research studies and existing pages on the VA website. We documented our work in a [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?sender=uffa03f837f92a7ba90498999) with insights, observations, open questions, and recommendations. Our goals are to:
 - Identify known pain points that Veterans encounter around intent to file, and recommendations for improvement
 - Determine the scope and impact of these pain points, and assess if a broader redesign of intent to file in the 526 experience is needed (for example, redesigning how intent to file is introduced, how it appears on the confirmation page or claim status tool, etc.)
 This document is a summary of our findings. 
