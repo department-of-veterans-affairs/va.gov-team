@@ -206,6 +206,52 @@ While we expect this solution to add many screens, we think they are likely to b
 
 We removed this "service-connected" language since it was unnecessary and likely to cause confusion. Some background [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1709139850455649?thread_ts=1709138243.496729&cid=C053UDWMH7U)
 
+### Allowing Veterans to edit answers in a section
+
+There are many sections of toxic exposure questions and loops within each section. We want to give Veterans the ability to make edits easily and also better understand where they are in the flow. 
+
+#### Current approach
+
+![Intermediary summary](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/cf7dc481-f9db-4e0a-be1d-9868c54e11b5)
+
+We present "mini" summary screens at the end of each section (set of locations or hazards), with the ability to edit that section. We also show a heading like "1 of 3: Afghanistan" to assist with orientation within the section.
+
+![dates on locations pages - 3 screens](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/fa4f552c-e473-4bbb-8b21-0ba82cc7e8d0)
+
+#### Other approaches considered
+- Large summary page at the end - headings for each location
+
+![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/2beb90d9-35b7-4840-9ab1-6f01d8a9893c)
+
+The HTML approach is to use headings for each location, like so:
+
+`<h4>Service Dates on or after August 2, 1990</h4>` <br />
+`<h5>Afghanistan</h5>` <br />
+`<p>September 1992 - September 1993</p>` <br />
+`<h5>Iraq</h5>` <br />
+`<p>1994-> 1995</p>` <br />
+`<h5>Saudi Arabia</h5>` <br />
+`<p>I'm not sure of the dates.</p>` <br />
+
+- Large summary page at the end - using `<ul>` and `<li>` elements
+
+![summary-of-toxic-exposure-table-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/e089b4aa-7a5b-488c-ae9a-069abaac3d9f)
+
+With the HTML, we also considered using `<ul>` and `<li>` elements, potentially specifying "location:" and "dates served:" with text.
+
+- Large summary page at the end - using tables
+
+![Intermediary summary](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/da9110fb-7ddc-41d6-b34e-7059b48fab11)
+
+
+#### Rationale
+
+[IA feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75362) and [design feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75239) from our second midpoint review recommended mini review steps and headings to orient Veterans within each section.
+
+Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#toxic-exposure-summary-dont-use-the-table-pattern), we want to avoid tables since [The VADS's table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.  
+
+For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
+
 ### Content updates from CAIA
 
 Referred to [this feedback document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox) to implement copy changes for MVP 
@@ -221,36 +267,6 @@ CAIA wants to avoid using "apply" in this way across va.gov because we often tal
 **From**: "Not sure" 
 **To**: "I'm not sure" throughout and making this the very last option of the lists.
 <br>
-
-### Allowing Veterans to edit andwers in a section
-
-**needs updates**
-
-The design system doesn't currently have a pattern for showing a summary of information within a form flow apart from the summary of all the information a user has entered in the form, which shows right before form submission.
-
-#### Current approach
-![summary-of-toxic-exposure-list-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/2beb90d9-35b7-4840-9ab1-6f01d8a9893c)
-
-The HTML approach is to use headings for each location, like so:
-
-`<h4>Service Dates on or after August 2, 1990</h4>` <br />
-`<h5>Afghanistan</h5>` <br />
-`<p>September 1992 - September 1993</p>` <br />
-`<h5>Iraq</h5>` <br />
-`<p>1994-> 1995</p>` <br />
-`<h5>Saudi Arabia</h5>` <br />
-`<p>I'm not sure of the dates.</p>` <br />
-
-
-#### Other approaches considered
-![summary-of-toxic-exposure-table-approach](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/e089b4aa-7a5b-488c-ae9a-069abaac3d9f)
-
-With the HTML, we also considered using `<ul>` and `<li>` elements, potentially specifying "location:" and "dates served:" with text.
-#### Rationale
-
-Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#toxic-exposure-summary-dont-use-the-table-pattern), we want to avoid tables since [The VADS's table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.  
-
-For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
 
 ## Changes made Post-Midpoint (Fall 2023)
 
