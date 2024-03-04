@@ -25,15 +25,29 @@ We are adding a toxic exposure section to the 526 ez disability benefits claim f
 
 **need to refine: screenshots, clarity on which content updates we are doing in MVP**
 
-For our initial release, we will include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase), as an MVP.
+For our initial release, we will: 
+
+1. include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase)
+2. only update the second "service connection" screen following from the first "service connection" radio button choice
+
+![service connection second screen following first radio button choice](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/53c08f8d-d43d-499f-917a-74be4d5816e8)
+
 
 See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=oJsLDpd2NrXJIAgB-1) and the page under "----------Current Workspace----------" for details.
 
 ### Second Release
 
-After the initial release, there are some content and component updates to implement. Shannon recommended keeping these separate due to scope concerns for the first release.
+After the initial release, there are some content and component updates to implement. This includes:
 
-The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=929-8828&mode=design) in the page under "----------Future Versions----------" has the details. Also see the Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226), which is where the design work came from. It's based on specific content guidance that Katherine Fung provided in response to a CAIA intake request linked in the Zenhub ticket.
+1. Content updates on radio button choices for the first "service connection" screen
+2. Content and component updates on second "service connection" screen following from "service connection" radio button choices 2-4
+3. Content and component updates on second "service connection" screen in the Benefits Delivery at Discharge flow
+
+![second release service connection screens](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/4514293d-89b3-4caa-9601-771fbe6d2a59)
+
+The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=929-8828&mode=design) in the page under "----------Future Versions----------" has the details. 
+
+Also see the Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226), which is where the design work came from. It's based on specific content guidance that Katherine Fung provided in response to a CAIA intake request linked in the Zenhub ticket.
 
 ## Project background
 
@@ -57,7 +71,7 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
 
 ### Scope of content to update
 
-**need to update. Move explanations here, link to MVP and second release sections. Avoid redundancy**
+[@RakshindaAslam](https://github.com/RakshindaAslam) recommended the <a href="#mvp-first-release">MVP scope outlined in this document</a> due to scope concerns for the first release. ([Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1708440601672289?thread_ts=1707932158.968349&cid=C053UDWMH7U))
 
 ### Entry point to toxic exposure questions
 
