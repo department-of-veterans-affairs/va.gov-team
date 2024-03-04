@@ -33,27 +33,27 @@ This document is a summary of our findings.
 
 Artifacts in this review include:
 
-- [526 Shadowing Research] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
-- 526 Medallia Research
+- [526 Shadowing Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
+- [526 Medallia Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/2023-10%20Research%20Findings.md)
 - Technical discovery and ongoing work:
-    * Initial discovery on expiration issues
-    * Expired ITF preventing submission
-    * Technical Spike: Research ability to save 526 form data and create new ITF after expiration
-    * Async solutioning
-    * Research - ITF Experience and Policy Options
-    * Implement Immediate ITF Fix (show current ITF time)
-    * SC | Review ITF messaging
-    * Intent to File in CST
-- Proactive Benefits Research
+    * [Initial discovery on expiration issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56987)
+    * [Expired ITF preventing submission](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60705)
+    * [Technical Spike: Research ability to save 526 form data and create new ITF after expiration](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63533)
+    * [Async solutioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65857)
+    * [Research - ITF Experience and Policy Options](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/62296)
+    * [Implement Immediate ITF Fix (show current ITF time)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63748)
+    * [SC | Review ITF messaging](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/72779)
+    * [Intent to File in CST](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/49151)
+- [Proactive Benefits Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/proactive-benefits/research/2023-11-Outreach%20Exploration/research-findings.md)
 - VA webpage audit
-    * About VA Form 21-0966 (intent to file)
-    * New Digital Intent to File Form (not launched yet)
-    * About VA Form 21P-527EZ (Pension)
-    * About VA Form 21P-527 (Pension evidence)
-    * About VA Form 21P-534EZ (DIC, Survivors Pension, Accrued Benefits)
-    * About VA Form 21P-534 (DIC, Survivors Pension, Accrued Benefits)
-    * About VA Form 21-526EZ (Disability)
-- Recurring Q&A sessions with VBA stakeholders
+    * [About VA Form 21-0966 (intent to file)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?wid=0-1705591102243)
+    * [New Digital Intent to File Form (not launched yet)](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction)
+    * [About VA Form 21P-527EZ (Pension)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?wid=1-1706796869693)
+    * [About VA Form 21P-527 (Pension evidence)](https://www.va.gov/find-forms/about-form-21p-527/)
+    * [About VA Form 21P-534EZ (DIC, Survivors Pension, Accrued Benefits)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?wid=0-1706799900002)
+    * [About VA Form 21P-534 (DIC, Survivors Pension, Accrued Benefits)](https://www.va.gov/find-forms/about-form-21p-534/)
+    * [About VA Form 21-526EZ (Disability)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?wid=0-1707155453500)
+- [Recurring Q&A sessions with VBA stakeholders](https://docs.google.com/document/d/1H9xgYJ-oAj3AWKtnzZxOI3xv_ayQKju03rkc36Emax8/edit#heading=h.wkbkkdt5fl03)
 
 ## What is intent to file?
 
