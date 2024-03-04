@@ -65,7 +65,7 @@ The date the VA receives the intent to file will be used to inform the effective
 
 From conversations with VBA, we’ve learned law changes replaced the informal claim process with the intent to file. “VBA was working to formalize all of the claim submission processes by requiring specific forms and more detailed expression of the claims requested, moving away from the classic ‘we accept claims on napkins’ comment you have likely heard before.” This change also ensured that when a Veteran began an application online this attempt was captured as an official attempt to file a claim and recorded as such. This means that certain forms that don’t yet include this functionality could be considered noncompliant. 
 
-    > An intent to file a claim can be submitted in one of the following three ways: (i) Saved electronic application. When an application otherwise meeting the requirements of this paragraph (b) is electronically initiated and saved in a claims-submission tool within a VA web-based electronic claims application system prior to filing of a complete claim, VA will consider that application to be an intent to file a claim. (See [38 CFR 3.155](https://www.law.cornell.edu/cfr/text/38/3.155))
+An intent to file a claim can be submitted in one of the following three ways: (i) Saved electronic application. When an application otherwise meeting the requirements of this paragraph (b) is electronically initiated and saved in a claims-submission tool within a VA web-based electronic claims application system prior to filing of a complete claim, VA will consider that application to be an intent to file a claim. (See [38 CFR 3.155](https://www.law.cornell.edu/cfr/text/38/3.155))
 
 Open Questions
 
