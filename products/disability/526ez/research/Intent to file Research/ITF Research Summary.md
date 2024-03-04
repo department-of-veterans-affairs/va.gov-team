@@ -4,8 +4,9 @@
 
 Date: 02/20/2024
 
-[Nichole Nicholas] [nichole.nicholas@coforma.io]
-[Julie Pedtke] [julie.pedtke@coforma.io]
+Nichole Nicholas [nichole.nicholas@coforma.io]
+
+Julie Pedtke [julie.pedtke@coforma.io]
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
