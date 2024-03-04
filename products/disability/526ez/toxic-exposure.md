@@ -149,7 +149,7 @@ The [condition name] (for example, "Toxic exposure"), is repeated as a header ac
 
 #### Rationale
 
-CAIA noted that unique headings representing the page title will help many assistive tech users use headings to navigate, and it will indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country]". @Christine Cereca noted it’s good to use a sentence structure like this for consideration of page translation in other languages.
+CAIA noted that unique headings representing the page title will help many assistive tech users use headings to navigate, and it will indicate the content of the page to them. Additionally, we changed the title suggestion from "service location in" to "Service location:[country]". [@christinec-fftc](https://github.com/christinec-fftc) noted it’s good to use a sentence structure like this for consideration of page translation in other languages.
 
 ### Dates on locations pages
 
