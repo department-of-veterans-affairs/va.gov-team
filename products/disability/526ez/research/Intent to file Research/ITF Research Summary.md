@@ -87,10 +87,8 @@ Open Questions
 Open Questions
 
 > - The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency.
-
-    > - How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
-
-    > - How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
+   > - How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
+   > - How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
 
 **526 Medallia Research**
 
