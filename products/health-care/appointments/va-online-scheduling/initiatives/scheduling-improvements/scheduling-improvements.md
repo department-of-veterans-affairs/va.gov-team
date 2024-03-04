@@ -82,6 +82,35 @@ VI. **Patient Appointment Restrictions**
    - We want to restrict patients from being able to schedule an appointment with someone they have never been seen before. We do not want them to be able to see options that they should not been seen at like across the country on OH
 </details>
 
+<details>
+         
+<summary>March 4, 2024</summary>
+Scheduling Configuration:
+- Each facility has its own configuration for scheduling policies for various types of care.
+- Supervisors at facilities can make changes to scheduling options.
+- Policies can be set regarding the number of open appointment requests a veteran can have at a given time.
+- Direct booking and appointment requests can be enabled or disabled based on criteria like “encounter” time frame.
+ 
+Cancellations:
+- Tia is going to chat with program offices to determine the national standard for cancellations.
+- The current system allows for cancellations, but there's a need to consider which types of appointments should be cancellable.
+- The policy around cancellations needs to be looked at.
+- Brad- selectively adding overrides and changing policies for appointments outside standard care types.
+- We need to look into how to manage cancellations based on medical service or appointment type in Oracle Health. 
+
+Patient status:
+- Brad- there are implications determining patient status (new or established) for specific services like amputation.
+- TIA - patient status shouldn't restrict scheduling for certain services.
+
+Appointment Display in Portal:
+- Melissa- the display of appointment details in the portal, specifically regarding provider names or the “with” category might be confusing.  
+- Brad - need to ensure accurate and user-friendly display of appointment details even if it is based on resources, including providers, rooms, or equipment.
+
+Patient friendly names:
+- Tia- we need to standardize patient facing naming conventions. 
+
+</details>
+
 ### Resources
 <details>
          
