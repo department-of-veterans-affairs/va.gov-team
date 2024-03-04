@@ -28,6 +28,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 ### Finding #1
 
 **Most participants thought "Financial Resources" and "Financial Terms" would be helpful**
+
 Participants self-identified as one of 3 groups: "I am currently experiencing financial hardship", "I have experienced financial hardship in the past", or "I have never experienced financial hardship". Most participants in all groups thought the addition of this information would be helpful. 
 
 Three out of the 4 participants who selected "I am currently experiencing financial hardship" on the screener thought this information would be helpful.
