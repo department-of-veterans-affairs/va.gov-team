@@ -23,6 +23,8 @@ We are adding a toxic exposure section to the 526 ez disability benefits claim f
 
 ### MVP First Release
 
+**need to refine: screenshots, clarity on which content updates we are doing in MVP**
+
 For our initial release, we will include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase), as an MVP.
 
 See Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0%3A411&mode=design&t=oJsLDpd2NrXJIAgB-1) and the page under "----------Current Workspace----------" for details.
@@ -49,8 +51,13 @@ See ticket: [Create Toxic Exposure Evaluation Research Questions and Approach #7
 4. Seek feedback from VSRs on real-world usage
    How useful is the toxic exposure data received from the digital form? What might not be useful and could be worth eliminating or formatting differently?
 5. Expand the toxic exposure section to other disability claims (extending beyond new conditions)
+6. Enhance design system to better clarify optional fields with the one question per page approach (comes up with the "I'm not sure" checkbox behavior)
 
 ## Background on decisions (needs to be updated)
+
+### Scope of content to update
+
+**need to update. Move explanations here, link to MVP and second release sections. Avoid redundancy**
 
 ### Entry point to toxic exposure questions
 
@@ -93,7 +100,7 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
  
 <ul>
    <li>Track the order in which a user selects checkboxes and display a more tailored error message with the assumption that their intention is to select the option most recently selected, like "If you want to select 'None of these locations', you'll need to uncheck other locations in this list." <a href="https://dsva.slack.com/archives/C01K37HRUAH/p1704404867063769?thread_ts=1704323164.991569&cid=C01K37HRUAH">per Slack</a> </li>
-   <li>Having "I’m not sure" trigger the validation error that unchecks previously checked locations</li>
+   <li>Having "I’m not sure" dynamically uncheck previously checked options</li>
   <li>Replacing the "I’m not sure" checkbox with copy that instead communicates if they’re not sure, that’s okay.</li>
    <li>A change to the design system to make it more clear with only one question per screen, when a question is optional **(we might still pursue this)**</li>
 </ul>
@@ -108,12 +115,8 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 </li>
    <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
 <li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
-The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. - per [CAIA accessibility review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox)</li>
+The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. - per <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox">CAIA accessibility review feedback</a></li>
 </ul>
-
-
-
-
 
 ### Page titles
 
@@ -213,6 +216,9 @@ Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affa
 For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
 
 ## Changes made Post-Midpoint (Fall 2023)
+
+**need to incorporate this into the "background on decisions" section**
+
 **Midpoint**
 - Entry point was different
   - “Are you claiming any conditions relate to TE” Yes or No
