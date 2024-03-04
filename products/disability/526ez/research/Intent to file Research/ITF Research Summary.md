@@ -103,3 +103,26 @@ Open Questions
 
 - Many Veterans reported reaching out to the Contact Center and still not having their issue resolved. Several Veterans reported long wait times of up to several hours or being transferred multiple times.
 
+Recommendations
+
+> Conduct research with the Contact Center to understand how they troubleshoot intent to file errors and what information they are sharing with Veterans around the intent to file.
+
+**526 Shadowing Research**
+
+- We validated that the intent to file messages was still a blocker for some Veterans starting their claims (interviews took place in December 2023). Three out of five participants received intent to file errors when they started to file, leading Veterans to doubt themselves or VA.
+  
+   - “I guess I did something wrong… This is the part that… makes me stop and start again.” -P12
+     
+   - "Something wrong happened on our end... Welcome to the VA… 50% of the time I get error messages like that. I don't think I'm stupid, I think someone who is older and more feeble than I am would get mad.” -P11
+- Veterans do not understand why they are being blocked by the intent to file error messages—or how to correct them. This makes some doubt if they are taking the appropriate steps towards filing a claim. 
+   - “Maybe if I go get the additional form, I won't get the error message—maybe there is something precursor I should've done. Like maybe I need that [supporting form].” -P11
+
+Open Questions
+
+> During Shadowing Research we noticed the intent to file error in two separate interviews on the same day, hours apart. How long is the intent to file endpoint usually down?
+
+Recommendations
+
+> Allow participants to continue to file even if the intent to file endpoint system is down. 
+> Rethink how we introduce the concept of intent to file to clarify how it relates to past claims and conditions. 
+> Reinforce understanding of intent to file by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
