@@ -135,4 +135,24 @@ Recommendations
    - They also thought that the intent to file was linked to a previous condition, and wouldn’t be appropriate to use for their new claim for different conditions.
       > - “I think [the intent to file] was from my last condition ... that's what I never got responses to. I would think it would let me start a new claim rather than start a new claim based on my intent to file, because I don't even remember what this intent to file… it may have been for [past condition].” -P12
 
+**Proactive Benefits Research**
+
+- While nearly all participants expressed some familiarity with intent to file, most of them seem unaware of the benefits intent to file provides. Even for Veterans who have filed an intent to file in the past, there is still confusion about the purpose, how to do it, and what to expect.
+  
+- A few participants erroneously inferred that the various options laid out for submitting an intent to file or filing would lead to different experiences. For example, despite one participant saying she would ideally want to file online, she got the impression that she would have the benefit of extended time if she decided to file in person rather than online.
+
+Recommendations
+
+> - Focusing on intent to file may be a barrier to action rather than a motivator. In an effort to reduce uncertainty about what to do next, explain the value of starting the claim process as soon as possible, rather than specifically mentioning intent to file itself.
+
+Open Questions
+
+> - We don’t know much about how VSOs interact with Veterans regarding their intent to file, in person or over the phone. Do they complete a paper form, or use SEP? How long does it take for this to get into the system, and what expiration date do they tell the Veteran?
+
+> - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
+
+> - We’re also not sure how the endpoint checks for duplicates if a Veteran submits via multiple channels. As far as we know, if there are multiple intent to files, the earliest date will be used.
+
+
+
 
