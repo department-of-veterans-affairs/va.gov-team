@@ -199,7 +199,47 @@ Recommendations
 
 ---images of va.gov forms here---
 
+- New (not yet launched) intent to file landing page is an improvement and could clarify what happens after an intent to file expires, to make sure Veterans understand that they can still submit a claim after an intent to file expires. 
 
+---images of va.gov forms here---
+
+- VA Platform content guidelines for talking about intent to file on VA.gov are continuously being updated.
+   - The current guidance from the Word List is that almost all instances are lowercase unless referencing the full name of the form.
+      - Like this: Fill out your intent to file form.
+      - Like this: Submit your intent to file.
+
+Open Questions
+
+> - VA.gov has numerous pages with overlapping information. What are the most common pages Veterans visit to look for information on intent to file?
+> - Some Veterans may be submitting multiple claims at one time. Can one intent to file apply across multiple claim types (eg. 526 and Supplemental Claim)? Our current understanding is:
+   > - Intent to file is connected to the first claim that’s submitted. It doesn’t distinguish between claim types.
+   > - If the Veteran submitted a second claim around the same time, it would create a new intent to file if the past one was “used up” by the first claim submission.
+   > - Rare use case, but if the Veteran had a second form in progress, it’s unclear if the system checks when they hit “Continue” button and generates a new ITF then.
+
+Recommendations
+
+> - Update the 534EZ and 534 About web pages to include information on intent to file with a direct link to the intent to file landing page, and ensure it is consistent with 526 and 527EZ.
+> - Update the 526 About page with clarity for Veterans who want to submit an intent to file, but are not ready to start a 526 claim. 
+> - Update the 534, 534EZ, and 527EZ  paper forms to include plain language and a direct link to the intent to file page.
+
+**We don’t know how much Veterans care about their intent to file date after submission of a claim.**
+
+- In discussion with the Decision Review and Benefit Management Tools teams, we learned that effective dates are clear in Veteran decision letters and the rated disability page on VA.gov once awarded, so it’s only while waiting for a decision that the Veteran might need to reference their intent to file date. More research would be required to assess this need.
+
+## Conclusion
+
+The intent to file error message is a known blocker for Veterans and should be resolved to unblock Veterans from submitting their claims even when the intent to file endpoint is down. 
+
+Beyond the error message, Veterans do not have a clear understanding of the potential benefits of intent to file and that it is an optional process that could help maximize their benefits. The purpose of intent to file should be explained more clearly (and consistently) across the forms and related web pages. 
+
+Based on this research review, we believe improving communications around intent to file in a holistic redesign could have the following benefits:
+
+- Encourage Veterans to start their claim process sooner, increasing the benefits they could be eligible to receive
+- Reduce confusion at two key moments in the 526 form: 1) the early steps of the form, and 2) when a Veteran returns to an in-progress claim
+- Reduce Veteran frustration and form abandonment after an intent to file expires
+- Increase overall submission rates
+
+While it was somewhat outside the scope of the research reviewed, we did not find much evidence that the intent to file date is important to Veterans after submission (for example, something that is critical to include on the confirmation page or in the Claim Status Tool). We’d recommend further consultation with teams who have explored the Veteran journey after submission before prioritizing these improvements.
 
 
 
