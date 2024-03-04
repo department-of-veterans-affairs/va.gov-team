@@ -8,6 +8,7 @@ Last updated by @tygindraux: January 9, 2024
 |:--|:--|
 |Your question|[Tell us the reason you’re contacting us?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#tell-us-the-reason-youre-contacting-us)|
 |Pronouns|[Pronouns](#pronouns)|
+|Gender|[Gender](#gender)|
 |Personal information|[Veteran's Service Start Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
 |Personal information|[Veteran's Service End Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
 |Personal information|[Veteran's Claim Number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-claim-number)|
@@ -27,6 +28,21 @@ We recommend removing this field because:
 - The Platform/Governance team has given us feedback that this field is confusing in the context of Ask VA:
 > Brian, Accessibility Lead: "I was a thrown off with the phrasing of the options in the "Tell us the reason" radio buttons. Everything else on the page says "Your question" and "What's your question," then there's this follow-up question that suggests you could be providing something that's not actually a question. It seems like a strange way to present it and might lead to confusion.
 - We heard this field may be important to certain stakeholders, particularly those who were involved in getting `Town Hall` added. However, Kathleen Reavy confirmed with Debi Bevins (Office of the Secretary) that they no longer need the `Town Hall` option.
+
+### Next step
+- We will recommend to the CCB that this field is removed from the form.
+
+## Gender
+This field is currently optional and allows a free-text response. The form asks for gender from submitters and sometimes dependents.
+
+We recommend removing this field because:
+- Veterans didn't understand why VA needed to know their gender identity to answer their question.
+- Most of the Veterans we talked to would choose the “Prefer not to answer” option.
+- 38% of inquiries have gender data (from Nov 2023 to Jan 2024 data). Of these inquiries, MPI provides 99% of the data in CRM. Submitters provide less than 1% of gender data.
+
+View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/pronouns-recommendation.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/recommendation-for-removing-gender.md)).
+
+If we do have to collect pronouns, we would only collect them if the subject of the inquiry or the submitter is a Veteran.
 
 ### Next step
 - We will recommend to the CCB that this field is removed from the form.
