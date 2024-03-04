@@ -13,9 +13,9 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 | Metric| December 2023 | January 2024 | February 2024 | March 2024
 |---|:---:|:---:|:---:|:---:|
-| Number of editors | 539 | 539 | | |
-| % which have logged in in the last 30 days | 17 | 26 | |
-| % which have never logged in | 8 | 8| |
+| Number of editors | 539 | 539 | 554 | |
+| % which have logged in in the last 30 days | 17 | 26 |18 |
+| % which have never logged in | 8 | 8| 10 |
 
 
 ## Vet Center facility stats
@@ -28,33 +28,37 @@ OKR to measure the success of notifications reminding editors to review and upda
 | Number of Vet Center services| 3,741 | |
 
 ## Summary data
-![vet ctr general](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/4769d0cd-917d-420a-bd09-85d4e6a841d8)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/43172968-b354-49f6-9aff-ed7e8795481d)
 
-![vet ctr demographics](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/ab216dd1-28ae-40dc-97b3-48c00ffe0b6a)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/18b11296-36bf-4c3c-89ea-9e36d4b5651b)
 
-![vet ctr average clicks](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c7b65dd1-8fa3-453b-8c2e-207ad8e732eb)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/9e74dc5d-1a8d-4f60-8f87-c216904dc888)
 
-![vet center user behavior](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/3d419928-6bbf-4d7d-9da8-548dbdf5dbc4)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/362ba3cd-6bb5-42a6-94c6-a5325c4d5f92)
+
 
 ### Service views
 
-![feb service views](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c58fe24e-01d1-461c-872e-13c12fa9717f)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/b60ae2de-f8df-4a3e-b74c-7647451edd70)
+
 
 
 ### Other interactions
-![link interactions](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/2c870ca2-0cf4-4a3e-8822-231552a9267d)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/a92f910e-346f-4277-aee9-6da7c9aa4669)
+
 
 ### User surveys
-![experience rating](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c552b14e-6cb5-4f47-8735-16e712232449)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/80de0d83-e6a6-47c9-b683-0ecfd566686c)
+
 
 | Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024
 | --- | :---:| :---:| :---:| :---: | 
-| Total survey responses | 7| 8 | | |
-| 1 star | - | - | |
-| 2 stars	| 2 | 1 | |
-| 3 stars | 1 | 2 | |
-| 4 stars | 4  |2  | |
-| 5 stars |- |1  | |
+| Total survey responses | 7| 8 |5 | |
+| 1 star | - | - | 2 |
+| 2 stars	| 2 | 1 | - |
+| 3 stars | 1 | 2 |-  |
+| 4 stars | 4  |2  |-  |
+| 5 stars |- |1  |3 |
 
 > Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
 > Raw data: [Facilities metrics 2024](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Be0efa151-5e25-49fd-8d4f-8f451a49fb9b%7D&action=editnew)
