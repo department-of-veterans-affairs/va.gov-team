@@ -200,11 +200,11 @@ Recommendations
    - There is no intent to file needed for the [527](https://www.va.gov/find-forms/about-form-21p-527/) non-EZ because Veterans would already have a submitted claim. However, it is confusing to have similar form names that require a different process.
 - Paper forms 534EZ and 527EZ mention intent to file, but the description is not plain language and the link goes to the general forms URL rather than the intent to file page itself.
 
----images of va.gov forms here---
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/Images/image%202.png)
 
 - [New (not yet launched) intent to file landing page](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction) is an improvement and could clarify what happens after an intent to file expires, to make sure Veterans understand that they can still submit a claim after an intent to file expires. 
 
----images of va.gov forms here---
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/Images/image%201.png)
 
 - VA Platform content guidelines for talking about intent to file on VA.gov are continuously being updated.
    - The current guidance from the [Word List](https://design.va.gov/content-style-guide/word-list#i) is that almost all instances are lowercase unless referencing the full name of the form.
