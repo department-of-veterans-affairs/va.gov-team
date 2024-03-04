@@ -23,8 +23,6 @@ We are adding a toxic exposure section to the 526 ez disability benefits claim f
 
 ### MVP First Release
 
-**need to refine: screenshots, clarity on which content updates we are doing in MVP**
-
 For our initial release, we will: 
 
 1. include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase)
