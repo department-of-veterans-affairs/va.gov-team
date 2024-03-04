@@ -124,3 +124,15 @@ Recommendations
 > - Allow participants to continue to file even if the intent to file endpoint system is down. 
 > - Rethink how we introduce the concept of intent to file to clarify how it relates to past claims and conditions. 
 > - Reinforce understanding of intent to file by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
+
+**The various ways Veterans can express their intent to file (and the implications of each) are not clear to Veterans.**
+
+**526 Shadowing Research**
+
+- Only 1 of 5 Veterans interviewed were confused by intent to file, but this participant raised some interesting concerns. While these concerns raised doubt and slowed them down, they were ultimately able to continue and file their claim. 
+   - They were confused by the message saying they already had an intent to file, and hesitated with how to continue to file their claim. They saw the intent to file and starting an application as two separate steps.
+      > - “[The error] says I have to do an intent to file, but I didn't say I wanted to do an intent to file, I wanted to start an application… So because I have an intent to file, does that mean I have to file from the intent to file, I can't start a new claim?” -P12
+   - They also thought that the intent to file was linked to a previous condition, and wouldn’t be appropriate to use for their new claim for different conditions.
+      > - “I think [the intent to file] was from my last condition ... that's what I never got responses to. I would think it would let me start a new claim rather than start a new claim based on my intent to file, because I don't even remember what this intent to file… it may have been for [past condition].” -P12
+
+
