@@ -7,8 +7,6 @@
 
 [link conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/conversation-guide.md)
 
-[link interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/research/exploratory-2024/transcripts)
-
 
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
