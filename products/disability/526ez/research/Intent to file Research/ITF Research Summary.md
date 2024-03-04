@@ -148,9 +148,7 @@ Recommendations
 Open Questions
 
 > - We don’t know much about how VSOs interact with Veterans regarding their intent to file, in person or over the phone. Do they complete a paper form, or use SEP? How long does it take for this to get into the system, and what expiration date do they tell the Veteran?
-
 > - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
-
 > - We’re also not sure how the endpoint checks for duplicates if a Veteran submits via multiple channels. As far as we know, if there are multiple intent to files, the earliest date will be used.
 
 
