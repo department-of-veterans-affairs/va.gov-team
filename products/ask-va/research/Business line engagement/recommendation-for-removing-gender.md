@@ -12,7 +12,7 @@ This decision overrules our previous proposal below, which we'll leave for docum
 
 ## Jump to:
 - [Updated proposal to remove Gender](#updated-proposal-to-remove-gender)
-- [Original proposal to remove Gender](#original-proposal-to-remomve-gender)
+- [Original proposal to remove Gender](#original-proposal-to-remove-gender)
 
 ## Updated proposal to remove Gender
 ### Insights from January 2024 usability testing
