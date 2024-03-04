@@ -46,26 +46,21 @@ Please note that users of Post 9/11 GI Bill benefits are not eligible for this a
 11. My mailing address
 12. My name on file
 13. VA Benefits program name
-14. My education benefits claim number
-15. My mailing address
-16. Direct deposit details
-17. My remaining education benefits
-18. Expiration date of my benefits
-19. Direct deposit alternatives
-20. Contact us
-21. Financial aid award letter
-22. Current month credits
-23. Current month enrollment
-24. Delimiting date
-25. Change address
-26. Add new direct deposit account
-27. Ask A Question
-28. "Verify by phone" phone number
-29. FAQ (Frequently Asked Questions)
-30. Current school name
-31. Current month reimbursement rate
-32. Pending documents
-33. Manage Your VA Debt
+14. My mailing address
+15. My direct deposit details
+16. My remaining education benefits
+17. Expiration date of my benefits
+18. Financial aid award letter
+19. Number of credits currently enrolled
+20. Delimiting date
+21. Change address
+22. Add new direct deposit account
+23. Ask A Question
+24. "Verify by phone" phone number
+25. FAQ (Frequently Asked Questions)
+26. Current month reimbursement rate
+27. Pending documents
+28. Manage Your VA Debt
 
 ##Closing Questions##
 Do you have any additional comments about your education benefits or your experience with the VA? 
