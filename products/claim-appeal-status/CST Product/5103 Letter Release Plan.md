@@ -21,7 +21,7 @@ Desired number of users: 3000, 6000, 9000, 12,000
 
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 - DataDog: ensure that all doc transactions are in fact for 5103 Letters. Note any discrepancies in metadata that would indicate the wrong letter typse are getting pulled into DDL
-- DataDog: No increase in error rates direct caused by addition of this letter type
+- DataDog: No increase in error rates directly caused by addition of this letter type
 
 ### Results:
 
