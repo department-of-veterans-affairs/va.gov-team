@@ -151,6 +151,56 @@ Open Questions
 > - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 > - We’re also not sure how the endpoint checks for duplicates if a Veteran submits via multiple channels. As far as we know, if there are multiple intent to files, the earliest date will be used.
 
+**The intent to file expiration is a concern for Veterans, and not well understood.**
+
+**526 Technical discovery**
+
+- Veterans should be able to continue to file a claim even after an intent to file expires. There were previously errors that prevented this on the 526, but these have since been resolved. (We’re still working to track down all related tickets, but here are a couple: 63533 and 60705)
+- The intent to file expires exactly one year after creation—down to the second. This causes confusion when a change in the Veteran’s timezone might result in the expiration falling on a different date entirely. 
+   - We partially address this pain point by adjusting the intent to file messaging to include the exact expiration time with timezone (see discovery ticket). 
+   - We did some exploration around other possible solutions, such as rounding the expiration time to the nearest day to ensure every Veteran would have at least a year, regardless of time zone. This turned out to be more complex than expected, so was paused in lieu of other priorities. (See alternative solutions ticket).
+- We learned from VBA that Veterans who call in or submit a paper intent to file receive a batch letter in the mail regarding their intent to file.  No other reminders are provided. The “batch letter” informs the Veteran that the VA received the intent to file, and includes the time requirements and forms required to complete the application. Batch letters are automated letters VBA creates and mails without human interaction.
+   - We’re unsure if batch letters include the exact time or just the date.
+- The Benefit Management Tools team has in their backlog to add an intent to file "object" into the Claim Status Tool as a placeholder after the Veteran submits an intent to file but before they finish the claim, which doesn’t exist today. This could be another way for Veterans to track their intent to file expiration date.
+
+**526 Medallia Research**
+
+- Many Veterans were concerned with completing their application by the intent to file expiration date. They expressed this with words like, “My intent to file expires today,” “It has to be in by today,” and after expiration: “My application is now due next year.” See Medallia Synthesis.
+- These Veterans were primarily returning to an in-progress claim, and several mentioned that they were returning to finish uploading documentation or ancillary forms such as 21-0781a. 
+
+**Proactive Benefits Research**
+
+- Misunderstandings about the intent to file timeline may cause some Veterans to act quickly out of stress, while others will wait to gather more information before "starting the clock." 
+   - Many saw it as a one-year deadline to file a claim; some participants took this to mean that they had to rush to file before their claim was seen as invalid, while others said they would wait to file an intent to file until they knew what to expect or had all of their documents to not run out the one-year clock prematurely.
+- There was confusion about how to know what date your intent to file is associated with and how the VA would notify you of that information. "What's not clear is when the start date of a year begins? When I mail it? Will I get a letter back from the VA stating 'you have a year from this date?" - P9
+
+Open Questions
+
+> - Is the intent to file timeline consistent across business lines? Do 527 and 534 claims also expire after one year?
+> - How many Veterans whose intent to file expires come back and complete their claims, vs how many believe that they can no longer submit their claim after the “deadline”?
+
+Recommendations
+
+> - Explain the benefit of getting started immediately in plain language. Communicate that submitting an intent to file for disability benefits online is built into the process and is therefore a low-effort action to take immediately to help maximize monetary benefits. See Proactive Benefits teams’ plain language outreach on Sharepoint.
+> - Clarify that intent to file is NOT a one-year deadline and, if you take longer than a year to submit, you won't lose out on your opportunity to apply for benefits.
+
+**Information on intent to file is inconsistent across forms.**
+
+**VA.gov audit**
+
+- Since the intent to file is built into the digital 526 process, it’s not clear from the About 526 page what a Veteran should do if they’re not ready to file a claim, but want to submit an intent to file. 
+   - The page does not make clear that starting a 526 claim (even if they don’t plan to complete it right away) is the fastest way to create an intent to file, as compared with using the stand-alone intent to file form. 
+- A digital intent to file process is not currently built into the 527 and 534 forms the way it is for 526. To submit an intent to file for these benefits, Veterans would need to use a paper form or phone it in.
+- Intent to file information on VA.gov could be improved:
+   - There is no mention of intent to file on the 534EZ page or the (non-EZ) 534 page.
+   - There is a mention of intent to file on the 527EZ page, where it’s listed under “related forms and instructions.” It’s pretty far down the page and doesn’t stand out as a potential first step for people who are still preparing their documents.  
+   - There is no intent to file needed for the 527 non-EZ because Veterans would already have a submitted claim. However, it is confusing to have similar form names that require a different process.
+- Paper forms 534EZ and 527EZ mention intent to file, but the description is not plain language and the link goes to the general forms URL rather than the intent to file page itself.
+
+---images of va.gov forms here---
+
+
+
 
 
 
