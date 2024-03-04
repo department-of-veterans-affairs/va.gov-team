@@ -86,8 +86,20 @@ Open Questions
 
 Open Questions
 
-> The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency. 
+> The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency.
+
     > How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
+
     > How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
 
+**526 Medallia Research**
+
+- The intent to file error message was one of the top issues we heard about in the Medallia feedback for March 2023. (As far as we know, this error has not been resolved since then.)
+  
+- We saw this error reported on several pages throughout the form, which implies that many of the Veterans reporting the issue had a form in progress and were coming back for another session.
+
+- This error was especially frustrating for Veterans who were close to their intent to file expiration date and worried that they would lose out on a year's worth of benefits.
+   - “My intent to file expires today. I completed my application and was trying to upload my supporting documents but now says your system is down and my application is now due next year. It is still March 7th so why can I not complete my application?” -Medallia Feedback
+
+- Many Veterans reported reaching out to the Contact Center and still not having their issue resolved. Several Veterans reported long wait times of up to several hours or being transferred multiple times.
 
