@@ -11,7 +11,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 ### Results:  
 
- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no If yes, what:
+
 
 ## Phase II: 25% - 100%
 ### Planning 
@@ -23,5 +23,5 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - DataDog: ensure that all doc transactions are in fact for 5103 Letters. Note any discrepancies in metadata that would indicate the wrong letter typse are getting pulled into DDL
 - DataDog: No increase in error rates direct caused by addition of this letter type
 
-
+### Results:
 
