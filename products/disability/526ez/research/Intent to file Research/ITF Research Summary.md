@@ -86,11 +86,11 @@ Open Questions
 
 Open Questions
 
-> The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency.
+> - The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency.
 
-    > How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
+    > - How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
 
-    > How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
+    > - How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
 
 **526 Medallia Research**
 
@@ -105,7 +105,7 @@ Open Questions
 
 Recommendations
 
-> Conduct research with the Contact Center to understand how they troubleshoot intent to file errors and what information they are sharing with Veterans around the intent to file.
+> - Conduct research with the Contact Center to understand how they troubleshoot intent to file errors and what information they are sharing with Veterans around the intent to file.
 
 **526 Shadowing Research**
 
@@ -119,10 +119,10 @@ Recommendations
 
 Open Questions
 
-> During Shadowing Research we noticed the intent to file error in two separate interviews on the same day, hours apart. How long is the intent to file endpoint usually down?
+> - During Shadowing Research we noticed the intent to file error in two separate interviews on the same day, hours apart. How long is the intent to file endpoint usually down?
 
 Recommendations
 
-> Allow participants to continue to file even if the intent to file endpoint system is down. 
-> Rethink how we introduce the concept of intent to file to clarify how it relates to past claims and conditions. 
-> Reinforce understanding of intent to file by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
+> - Allow participants to continue to file even if the intent to file endpoint system is down. 
+> - Rethink how we introduce the concept of intent to file to clarify how it relates to past claims and conditions. 
+> - Reinforce understanding of intent to file by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
