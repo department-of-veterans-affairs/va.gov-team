@@ -13,6 +13,7 @@
 |[VA.gov Profile product guide v8 SRT 02012024.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/14487188/VA.gov.Profile.product.guide.v8.SRT.02012024.docx)|version 8|Feb, 6 2024|[#75099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75099)||
 
 
-
+### Other directories with historic guides
+Some older contact center guides have also been saved in the following locations:
 - [AE Profile Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/product/archive)
 - [Call Center Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center)
