@@ -13,7 +13,7 @@
 
 
 
-This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
+[UX] 10-10EZ - Reg Only: Conducting the HEC working sessions [#72310](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72310)
 
 
 **The goal of this document is:**
@@ -26,10 +26,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
+### Service Connected Registration Reason Session 
 
-**Finding #1**
+**Finding #1 - There is a process in the works to "register" Veterans in VHA when they first apply for a disabilty claim.**
 
 - More details on Finding #1
 - These details could be key words, actions, or test outcomes
@@ -37,7 +37,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 > Quote (if relevant)
 
 
-**Finding #2**
+**Finding #2 - **
 
 - More details on Finding #2
 - These details could be key words, actions, or test outcomes
@@ -62,6 +62,32 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 
 **Finding #5**
+
+- More details on Finding #5
+- These details could be key words, actions, or test outcomes
+
+> Quote (if relevant)
+
+
+### Mental Health Registration Reason Session 
+
+
+**Finding #1**
+
+- More details on Finding #5
+- These details could be key words, actions, or test outcomes
+
+> Quote (if relevant)
+
+
+**Finding #1**
+
+- More details on Finding #5
+- These details could be key words, actions, or test outcomes
+
+> Quote (if relevant)
+>
+> **Finding #1**
 
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
