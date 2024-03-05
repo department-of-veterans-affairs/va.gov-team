@@ -1,0 +1,15 @@
+- VADS website:
+  - [Content style guide](https://design.va.gov/content-style-guide/)
+  - [Forms templates](https://design.va.gov/templates/forms/) and various [patterns](https://design.va.gov/patterns/) and components
+- Storybook (linked from VADS website)
+- VA Forms Library
+- VADS Design Libraries and Resources in Figma — this is a work in progress that will contain:
+  - VADS Component Library
+  - VADS Component Examples
+  - VADS Templates, Patterns, and Forms
+  - Web Annotation Kit
+  - User Flows
+  - VADS Wireframe Library
+- Mock form patterns in staging — this shows patterns in staging and links to:
+  - Corresponding pattern in VADS Templates, Patterns, and Forms
+  - Corresponding code examples in [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/simple-forms/mock-simple-forms-patterns-v3)
