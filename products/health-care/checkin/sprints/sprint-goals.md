@@ -77,7 +77,6 @@ ________________________________________________________________________________
         - ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
         - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
-        - ❗ 🟩 [[FE] Route user to error page when travel feature is disabled ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77566)
         - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
         - ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
         - ❗ 🟩 [[FE] Create E2E tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75711)
@@ -85,6 +84,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [Midpoint Review - Accessibility Feedback - Modernized Check-in, eCheck-in, Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77000)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
+        - ❗ 🟩 [[FE] - Set up travel-claim app in pagerDuty ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77393)
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide 
 - **GOAL: Address Usage Issues**
@@ -95,9 +95,8 @@ ________________________________________________________________________________
         - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - 🟥 [[UX] Pre-Check-in & Day-of Text Messages: Update the Text Messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62099)
-        - 🟦[[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
-        - 🟦[[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
+        - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
+        - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX][Design] SPIKE: Appointment Detail Page UI Discovery ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77232)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
@@ -107,9 +106,10 @@ ________________________________________________________________________________
     - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
     - 🟥 [[UX] [Design] CCreate Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
+    - 🟦 [[BE] Handle Faraday::TimeoutError Exception TravelClaimSubmissionWorker ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77678)
     - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
     - **Sub Goal: Migrate to GA4**
-        - 🟩 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
+        - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77709)
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
