@@ -86,7 +86,8 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
         - ❗ 🟩 [[FE] - Set up travel-claim app in pagerDuty ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77393)
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
-        - ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide 
+        - ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide
+        - ❗ 🟥 Gather feedback from CAIA on content
 - **GOAL: Address Usage Issues**
    - **Sub Goal: Change wording for wait time after checking in**
         - ❗ 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
