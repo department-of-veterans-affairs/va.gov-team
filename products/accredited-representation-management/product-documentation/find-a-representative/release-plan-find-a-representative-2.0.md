@@ -5,7 +5,7 @@
 
 Feature Toggles:
 
-1.  `find_a_representative_enable_api` will be enabled prior to staged rollout
+1.  ~`find_a_representative_enable_api` will be enabled prior to staged rollout~
 2.  `find_a_representative_enable_frontend` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
 
 ### Validation
