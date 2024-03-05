@@ -1,12 +1,12 @@
 # My VA Education and Training Frontend Documentation
-Last updated: April 5, 2023 (updated link destination for "Check your Post-9/11 GI Bill benefits")
+Last updated: February 16, 2024 - added Figma links
 
 ## When to show the ‘Education and training’ section
 We show this section for every LOA3 user.
 
 ## UX Specs
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A331&mode=design&t=WghpiwwCzYuhYyHN-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A763&mode=design&t=WghpiwwCzYuhYyHN-1)
 
 ---
 

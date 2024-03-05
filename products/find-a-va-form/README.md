@@ -47,9 +47,10 @@ Search research indicates that the VA forms page consistently gets high organic 
 #### KPIs
 **Metrics**:
 - Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
-- Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
-**[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
-**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
+- ~~Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329~~ This page is no longer available
+- **[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
+
+  **Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
 **Signal**: are people downloading form applications or starting a new benefit application\
 - Custom Google Analytics Reports (open Google Analytics
    - Ensure that you're in the All VA.gov Website Data [Production] view and then import the below files into your profile.
@@ -100,7 +101,7 @@ The forms endpoint on the Lighthouse Forms API has a rate limit. That limit was 
 
 Rate limit history:
 - 240 requests / min = the orignal rate limit  ([slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1691433561014359?thread_ts=1691430186.980299&cid=CBU0KDSB1), from Kristen Brown)
-- 500/min = New rate limit as of 8/8, after our increase request
+- 500/min = New rate limit as of 8/8/2023, after our increase request
 
 ---
 
@@ -118,15 +119,22 @@ As of 8/1/23:
 |Name|Role|
 |----|----|
 |Dave Conlon	| Find a VA Form Product Owner|
-|Wes Rowe   |Product Manager, Agile 6|
+|Fran Cross   |Product Manager, Agile 6|
 |Jill Adams |Delivery Manager, Agile 6|
 |Daniel Sasser    |Backend engineer, Agile 6|
 |Steve Wirt	| Facilities Team, Forms/Drupal subject matter expert, Civic Actions|
 
 ## VA Forms Contacts
-__VA forms stakeholder working group includes:__
+Within VA, all administrations have an internal process to review & approve forms being published. When approved, forms publishing rolls up through the list of **VA forms stakeholder working group contacts** below, per admin / program. Final forms are mastered in the Forms DB, which is managed by OIT. The VA.gov Drupal CMS migrates form data nightly from the Forms DB. Any corrections must be made upstream in the Forms DB.
+
+### Corrections
+If you discover that a specific form PDF has a problem (dead link, incorrect info, problems being fillable, incorrect metadata, etc.), the correct process to mitigate is: 
+* Reach out to the Forms manager for the administration in question (e.g. VBA, VACO, VHA) by email.
+* cc Dave Conlon, the OCTODE Product Owner of the Forms DB integration into Drupal and VA.gov
+* Provide the link to the form on VA.gov, and or the direct link to the PDF in question, and request that the Forms Manager correct the PDF and upload a new version to the Forms DB, or correct the form metadata, etc.
 
 ### Forms managers
+Forms managers provide an administrative function to manage Forms data entry and final approved PDFs per administration in the Forms DB. 
 |Name|Role re: Forms|
 |----|----|
 |Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
@@ -173,9 +181,6 @@ This list was provided during 2022 Public Websites contract transition. Unclear 
 
 ### Publications Control Officer (PCO)  Contacts by Business Line
 **last updated 11/9/22 by Kayce White <Kayce.White@va.gov>**
-
-Within VA, all administrations have an internal process to review & approve forms being published. When approved, forms publishing rolls up through the following list of contacts, per admin / program.
-
 ![contacts-by-business-line](https://user-images.githubusercontent.com/85581471/200931161-13fe43d6-b1de-4b41-8afe-30714c47b3ec.png)
 
 ---

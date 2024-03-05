@@ -1,8 +1,8 @@
 # Field rules
 
-Last updated by @tygindraux: November 29, 2023
+Last updated by @tygindraux: January 2, 2024
 
-This document is for our design team to communicate field rules to our engineering and product folks.
+This document is for our design team to communicate field rules. The primary audience is engineering and product folks on our team.
 
 **Jump to:**
 - [Gender identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#gender-identity)
@@ -14,6 +14,7 @@ This document is for our design team to communicate field rules to our engineeri
 - [School fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#school-fields)
 - [Medical facility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#medical-facility)
 - [Contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#when-contact-options-are-enableddisabled)
+- [Tell us the reason you're contacting us](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20rules.md#tell-us-the-reason-youre-contacting-us)
 
 ## `Gender identity`
 |If|Then|Unless|
@@ -21,7 +22,6 @@ This document is for our design team to communicate field rules to our engineeri
 |All categories|Require submitter's `Gender identity` in `Chapter 3`||
 
 - Submitter can be the Veteran, a family member, or another third party.
-- **Update 10/23:** We recommend that this field is removed. This document will be updated once the decision is final.
 
 ## `Pronouns`
 |If|Then|Unless|
@@ -38,7 +38,8 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|Relationship to the Veteran = Business relationship|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
-|All other categories|Require Veteran's `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
+|All other categories|Require Veteran's `Social Security Number or Service Number` in `Chapter 3` if |`What's your question about` = `It's a general question`|
+|All other categories; if question is about the family member|Require family member's `Social Security Number or Service Number` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Date of birth`
 |If|Then|Unless|
@@ -48,6 +49,7 @@ This document is for our design team to communicate field rules to our engineeri
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Date of Birth` in `Chapter 3`|`Relationship to the Veteran` = `Business relationship`|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
 |All other categories|Require Veteran's `Date of Birth` in `Chapter 3`|`What's your question about` = `It's a general question`|
+|All other categories; if question is about the family member|Require family member's `Date of Birth` in `Chapter 3`|`What's your question about` = `It's a general question`|
 
 ## `Branch of service`
 |If|Then|Unless|
@@ -62,10 +64,8 @@ This document is for our design team to communicate field rules to our engineeri
 ## School fields
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of residency`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `School facility`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school` or `School facility`||
 |All other categories|Don't include school fields||
 
 ## `Medical facility`
@@ -79,3 +79,7 @@ This document is for our design team to communicate field rules to our engineeri
 
 ## When contact options are enabled/disabled
 * Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
+
+## Tell us the reason you're contacting us
+
+* This field is required. We're currently exploring whether we can recommend it for removal.

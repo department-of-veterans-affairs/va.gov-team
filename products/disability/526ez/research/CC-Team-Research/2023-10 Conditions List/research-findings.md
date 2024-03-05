@@ -1,4 +1,4 @@
-#Conditions List Veteran Research Findings 
+# Conditions List Veteran Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, Contention Classification**
 
@@ -122,25 +122,25 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 1. [Most participants found the component easy to use for entering and saving conditions.](#most-participants-found-the-component-easy-to-use-for-entering-and-saving-conditions)
 
-2. [Participants selected conditions from the autosuggestions most of the time.](#participants-selected-conditions-from-the-autosuggestions-most-of-the-time.)
+2. [Participants selected conditions from the autosuggestions most of the time.](#participants-selected-conditions-from-the-autosuggestions-most-of-the-time)
 
-3. [Some participants faced difficulties finding their conditions in the suggested condition list.](#some-participants-faced-difficulties-finding-their-conditions-in-the-suggested-condition-list)
+3. [Some participants faced difficulties finding their conditions in the suggested condition list.](#some-participants-faced-difficulties-finding-their-conditions-in-the-suggested-conditions-list)
 
-4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search-other-page-and-component-elements-caused-confusion-and-interaction-difficulties.)
+4. [Besides the search, other page and component elements caused confusion and interaction difficulties.](#besides-the-search-other-page-and-component-elements-caused-confusion-and-interaction-difficulties)
 
 5. [Some participants did not realize they could submit free text within the same component that offers autosuggestions.](#some-participants-did-not-realize-they-could-submit-free-text-within-the-same-component-that-offers-autosuggestions)
 
-6. [Most of the time, Veterans know what conditions they have based on what they are experiencing, past medical exams and diagnoses, even if they sometimes forget the exact term. For many Veterans, the bigger challenge is understanding what conditions can be service-connected.](#most-of-the-time-Veterans)
+6. [Most of the time, Veterans know what conditions they have based on what they are experiencing, past medical exams and diagnoses, even if they sometimes forget the exact term. For many Veterans, the bigger challenge is understanding what conditions can be service-connected.](#most-of-the-time-veterans-know-what-conditions-they-have-based-on-what-they-are-experiencing-past-medical-exams-and-diagnoses-even-if-they-sometimes-forget-the-exact-term-for-many-veterans-the-bigger-challenge-is-understanding-what-conditions-can-be-service-connected)
 
-7. [Veterans are concerned about the accuracy of their claim, but the nature and degree of concern varies.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.4rcdxgnbd0ei)
+7. [Veterans are concerned about the accuracy of their claim, but the nature and degree of concern varies.](#veterans-are-concerned-about-the-accuracy-of-their-claim-but-the-nature-and-degree-of-concern-varies)
 
 Additional Insights
 
-8. [Veterans submit disability claims for new conditions at various times in their journey as a Veteran and for various reasons. Relevant support and resources to prepare and submit their claim will depend on these circumstances.](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.7ls2vg9xs8sy)
+8. [Veterans submit disability claims for new conditions at various times in their journey as a Veteran and for various reasons. Relevant support and resources to prepare and submit their claim will depend on these circumstances.](#veterans-submit-disability-claims-for-new-conditions-at-various-times-in-their-journey-as-a-Veteran-and-for-various-reasons-relevant-support-and-resources-to-prepare-and-submit-their-claim-will-depend-on-these-circumstances)
 
-9. [It is not technology that holds Veterans back from submitting disability claims digitally. Veterans who plan to use VSOs in the future (in lieu of submitting online) seek a trusted resource to support them.  ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.ese2zup9obb3)
+9. [It is not technology that holds Veterans back from submitting disability claims digitally. Veterans who plan to use VSOs in the future (in lieu of submitting online) seek a trusted resource to support them.](#it-is-not-technology-that-holds-Veterans-back-from-submitting-disability-claims-digitally-veterans-who-plan-to-use-vsos-in-the-future-in-lieu-of-submitting-online-seek-a-trusted-resource-to-support-them)
 
-10. [Using a VSO for disability claim submission can mean relinquishing control. ](https://docs.google.com/document/d/1f-9T1a-HhlNzEmy9P08BqzT0cDupKrLq0Z2X2s2C3GU/edit#heading=h.1vcdmlsi1dm4)
+10. [Using a VSO for disability claim submission can mean relinquishing control.](#using-a-vso-for-disability-claim-submission-can-mean-relinquishing-control)
 
 
 ## Details of Findings
@@ -237,9 +237,7 @@ Additional Insights
 
 - Some participants used broader terms like "PAC" for PACT Act-related conditions or "Derma" for dermatological conditions, perhaps expecting related conditions to appear or to be able to select the general term. However, the component displays suggestions that most closely match the participant's input string, which might not align with their expectation. 
 
-![](https://lh7-us.googleusercontent.com/gRoeQrD-1iVR5cTjo1i-Ukbl3-bOdRG0mds766hAJCmcS1WgkzDXACg-MdKBPMAxROFi3DyLW3c63RkOfp8UbNe_kDjTZzTcOWpjJz6ywhwKADq6TUMDGgdogNNJ-MUVCEwh6dmNiJHiPJpWi1Bsmic)                  
-
-
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image6.png)                  
 ###### Image 1: Autosuggestions for  “hearing”
 
 ### Besides the search, other page and component elements caused confusion and interaction difficulties. 
@@ -254,9 +252,9 @@ Additional Insights
 
   - One participant misclicked but quickly corrected their selection when they realized the mistake.
 
-- For the most part, participants navigated the left/right/bilateral options for specific conditions without significant issues. However, the suggested list does not organize the terms by body part (i.e., bursitis in knee, bilateral; bursitis in knee, left; bursitis in knee, right)  \[see image 2], so participants had to scroll and read carefully in order to select the right option. 
+- For the most part, participants navigated the left/right/bilateral options for specific conditions without significant issues. However, the suggested list does not organize the terms by body part (i.e., bursitis in knee, bilateral; bursitis in knee, left; bursitis in knee, right), so participants had to scroll and read carefully in order to select the right option. 
 
-![](https://lh7-us.googleusercontent.com/g0H_wQ_pv9k5Y4rUP_YPxQlwoAfw5xbCgXaGP2V1jJJRBq9TWhmrLuUtFqZXu68JrvSZnwlMBvVgNEWvPUUt5F0497UvA8GRmgwq4io1tRnBbYzLH4ryoGBmhtZc5kcsCundX0z67qhqISymfUIiGog)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image5.png)
 
 
 ###### Image 2: Autosuggestions for  “bursitis” 
@@ -539,7 +537,7 @@ Our research identified these reasons for filing, broken out by time period in t
 
 \[Conversation guide]\(https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/conversation-guide.md)
 
-\[Interview transcripts]\(link here)
+\[Interview transcripts]\(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/Session%20Notes)
 
 
 ### Tools used for Synthesis
@@ -555,15 +553,15 @@ Our research identified these reasons for filing, broken out by time period in t
 
 1\. Introductory page
 
-![](https://lh7-us.googleusercontent.com/WjB8f19KyrOEmfQLfAA8NXoRsNQXffW4GEamCGG0Lzf-kA8d1bthCawNIGzk8VKOtRrMbUdbyupFj2saSyiS1YSES7izBORu0uyIHpY09PLP99c5169b7LqULdSxP3kB3IBjZhvZHiH-QSMEXYIVlaw)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image2.png)
 
 2\. Screen for entering conditions to claim
 
-![](https://lh7-us.googleusercontent.com/zsK43Y-JUmIdT2hXkXXuti0kV1gDuSqsqtxF0LUWDCKYu47GJd5L50_rOoSur4CYs2vLcWnht9oo1UKU6QV8cqReUq5L-HyVobd0xq6mIcLA7t4XAUNxpp5sh4ZKvaKEey42YqyZSMqt3mbelCPVHi0)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image3.png)
 
 3\. Example of type ahead functionality 
 
-![](https://lh7-us.googleusercontent.com/UksTCnqZF3_3i01JkCZ5RlMIugXaUZiCIYGfLolr9dx6ifFYFDGeRcUZyzLP9MUt_EM_9CvMD_1jwFJz5xL2vjF8Wtxahtn_Goh-sQzuCY8N1NjLGT0qj6RDatm69fb8oVOGQahESBP2gLRL6c5aR_A)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image4.png)
 
 
 ### [Other supporting documents created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#other-supporting-documents-created)
@@ -715,7 +713,7 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to
 
-[_VA recruitment checker_](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
+[_VA recruitment checker_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image1.png)
 
 This research does not include the perspectives of the following marginalized Veteran groups: 
 
@@ -733,6 +731,6 @@ This research does not include the perspectives of the following marginalized Ve
 
 - User of assistive technology 
 
-![](https://lh7-us.googleusercontent.com/JQmdFB--Pwvs3sBnDKSsD1jL9Hptmt98XcIulvAvqtgZd_B3TNxKRV_-6MPalhXW0YG2l6KaBtDzrECwNYgJ1f_Z3tQ1rvN5aOftvz2X-y59m_5fknCzmDVbFAMgBQTIbS39EjbUoVNvbWjhyPZWXt4)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/images/image1.png)
 
 _\[insert screenshot of completed recruitment checker]_ !\[VA-recruitment-checker]\(link - add image to github folder and link here with .png)

@@ -1,10 +1,8 @@
 # My VA White Card Component Frontend Documentation
-Last updated: October 24, 2023
+Last updated: February 15, 2024
 
 ## UX Specs
 ### White card design for all My VA cards
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/rb3RzvK)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/m1Q51yV)
 
 **Visual specs**
 

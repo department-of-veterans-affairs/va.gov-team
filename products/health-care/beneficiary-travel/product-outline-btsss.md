@@ -1,29 +1,40 @@
 
-# Beneficiary Travel Self-Service System (BTSSS) Product Outline
+# Beneficiary Travel Self-Service System (BTSSS) on VA.gov Product Outline
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+
+VA aims to improve the tooling and accessibility of the beneficiary travel system and experience. As part of our mission to improve Veteran access to care, the existing claim submission systems needs to be integrated more intentionally with VA.gov in order to make it easier for Veterans to find and use this benefit.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+The existing BTSSS system is siloed from other systems and the current VA.gov Veteran experience. Veterans are not able to easily discover, access, authenticate into and complete travel claims using BTSSS due to a complex user experience that was not built using human centered design principles.
+
+Staff travel clerks often have to take manual steps to fix, validate and process claims that were entered erroneously or on paper.
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Able to interact with travel reimbursement functionality directly on VA.gov and VA Flagship mobile app
+- Able to interact travel reimbursement functionality where it is needed by leveraging an API-first approach
+- Enjoy a simple, intuitive experience that meets all VA.gov accessibility, design standards, and performance standards
+
 
 ## Undesired User Outcomes
+
+- Increased usage of the existing Veteran-facing BTSSS portal
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Increase digital travel reimbursement claim submissions
+- Increase travel claim submission accuracy
+- Decrease the number of manually reviewed claims
+
 
 ## Undesired Business Outcomes
+
+- Re-writing the BTSSS backend, business rules, or processing pipelines
+- Creating additional work for travel reimbursement staff
 
 
 ---
@@ -31,22 +42,24 @@
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+- Number of Call Center / Help Desk inquiries about beneficiary claim status
+- Traffic to legacy Travel Claims Portal
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
+- Objective: Improve the usability of VA.gov for beneficiary travel claims
+  - Key result: Increase number of users who access TBD by X%
 
-#### Draft OKRs from OCTO
+- Objective: Improve reporting of beneficiary travel claims digital tools usage
+  - Key result: We are able to track migration progress from the legacy Travel Claims Portal to VA.gov
+  - Key result: We are able to establish baseline metrics for the VA.gov experience
+
+
+<details>
+  <summary>Draft OKRs from OCTO</summary>
+ 
 - Objective: Increase the number of Veterans who are eligible to submit a claim.
   - Key result: Number of valid, payable claims submitted increases by X%
   - Key result: Number of eligible Veterans enrolled is increased by X%
@@ -59,6 +72,7 @@
   - Key result: Claims are submitted during the check in process handling X claims
   - Key result: Claim tools are integrated into va.gov for simple claims handling X claims
 
+</details>
 
 ---
 
@@ -73,9 +87,8 @@
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- MVP - Status of a Claim | [Link to Initiative Brief](./feature-reference/mvp-implementation/)
 
 --- 
 
@@ -100,44 +113,26 @@
 
 ### Key Decisions
 
+See [Decision Log](./decision-log.md)
+
 ---
    
 ## Screenshots
 
 ### Before
 
+Travel Claims Portal - Dashboard
+
+![BTSSS-TCP-Dashboard](https://github.com/laurenernest/va.gov-team/assets/72046525/6d335e38-1139-4986-a754-5bf36e607ee8)
+
+Travel Claims Portal - Appointments List
+
+![BTSSS-TCP-Appointments List](https://github.com/laurenernest/va.gov-team/assets/72046525/6b139471-c8de-4bce-992a-a91e1671cc9d)
+
+
 ### After
 
----
 
-#### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
-
-#### Stakeholders
-
-<details>
- 
 _What offices/departments are critical to make this initiative successful?_
  
 </details>

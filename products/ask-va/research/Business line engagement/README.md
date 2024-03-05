@@ -12,7 +12,7 @@ We need to meet with business lines to determine which fields are required in or
 
 |Business line|Link to folder|
 |:--|:--|
-|Benefits issues outside the U.S.|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20the%20U.S.)|
+|Benefits issues outside the U.S.|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20the%20US)|
 |Burials and memorials|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Burials%20and%20memorials)|
 |Center for Minority Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Minority%20Veterans)|
 |Center for Women Veterans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Women%20Veterans)|

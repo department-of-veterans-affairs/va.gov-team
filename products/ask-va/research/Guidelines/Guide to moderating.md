@@ -1,6 +1,6 @@
-# Moderating research on the Ask VA Integration team
+# Moderating research on the Ask VA Front End team
 
-Last updated by @tygindraux: July 7, 2023
+Last updated by @tygindraux: January 5, 2024
  
 This guide is based on:
 * [VA.gov Platform: Guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
@@ -12,21 +12,22 @@ This guide is based on:
 
 * Review the conversation guide and have it ready.
 * Review the prototype and have it ready.
-* Clear your space, find your headphones and mute distractions, like Slack notifications.
+* Clear your space, find your headphones and mute distractions, like Slack notifications. Be prepared to have your camera on.
 * Sign in to the Perigean Zoom meeting (you will be the host) and change the display name to your first name.
 * Turn on transcriptions by clicking `LIVE TRANSCRIPT` in the bottom toolbar. Then, in the `Live Transcription` section, click `ENABLE`.
 * Open the `#feedback-backchannel` on DSVA Slack. Start a thread, like this:
 
-      P1 - Ask VA, Submit an Inquiry research starts in 10 minutes 🧵
+      P1 - Ask VA: Round 1 research starts in 10 minutes 🧵
 
 * Copy these instructions into the thread:
 
       How to observe this session:
       
-      * Please review [these guidelines](add link) before you join the session.
-      * If you signed up to take notes today, please use this [Mural board](add link).
+      * If you're notetaking, review [these guidelines](add link) before you join.
+      * If you're observing, review [these guidelines](add link) before you join.
+      * Open [this Mural board](add link).
       * Once (if) the participant agrees to have you join, I'll let you in from the Zoom waiting room.
-      * Instead of using the Zoom chat, please use this 🧵.
+      * Use this 🧵 and don't use the Zoom chat. Thanks!
 
 ## At the start of the session
 
@@ -42,8 +43,8 @@ This guide is based on:
 * Continue to provide opportunities for refusal throughout the study. For example, if you’re asking a sensitive question, remind the participant that it is optional.
 * Leave space for the participant to share their questions, reactions and experiences. Silence can be helpful to allow someone time to think.
 * If someone asks you how something works or what happens when they click on something, remember that we're here to learn from them, not to give them advice or onboard them to a new product. It can help to say something like, "I'm wondering, how would you expect it to work?" instead of answering the question.
-* When a participant, particularly a Veteran, shares a tough experience with you, show compassion but avoid unpacking trauma (which, as researchers, we're not prepared to do safely). It often helps to say something like, "I'm so sorry that happened to you" or "that sounds very frustrating," and then redirect back to your script. Remember that keeping to our [scope of practice](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) can help avoid causing additional harm.
-* If you don't know the answer to something you can say somethingm, like, "I'm not sure. But I'll ask Perigean to share a link to the VA's support line, so you can get the right help." It helps to remind the participant of your role and what you can or can't help them with.
+* When a participant, particularly a Veteran, shares a tough experience with you, show compassion but avoid unpacking trauma (which, as researchers, we're not prepared to do safely). It often helps to say something like, "I'm so sorry that happened to you" or "that sounds very frustrating," and artfully redirect back to your script. Remember that keeping to our [scope of practice](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) can help avoid causing additional harm.
+* If you don't know the answer to something you can say something, like, "I'm not sure. But I'll ask Perigean to share a link to the VA's support line, so you can get the right help." It helps to remind the participant of your role and what you can or can't help them with.
 * Keep an eye on the `#feedback-backchannel` in case there are questions you should add.
 
 ### If something goes wrong
@@ -52,8 +53,8 @@ This guide is based on:
 * If a participant appears distressed, take a moment to check in. You can start by offering to move on and skip the question or topic, or suggest taking a short break.
 * If they continue to give signs of distress, follow the emergency exit strategies in the conversation guide.
 * If you find yourself in a session with a participant experiencing a medical or psychological emergency, then you need to follow [this protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Requestingemergencyassistance) to request assistance.
-* As the moderator, it's also important to look after yourself during research. If you no longer feel safe or capable to continue, pause the session by saying "I need to take a moment to set up the next task," and get in touch with Perigean to describe the situation. You should feel empowered to use an exit strategy from the conversation guide as soon as it feels necessary.
-* If there's an incident like this, afterwards, you should follow [this protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Creatingasafespaceforresearchmoderators) and reach out to a lead researcher on your team immediately.
+* As the moderator, it's also important to look after yourself during research. If you no longer feel safe or capable to continue, refer to the guidelines at the end of your conversation guide.
+* If there's an incident like this, then afterwards you should follow [this protocol](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#Researchsafetyandemergencyexitstrategies-Creatingasafespaceforresearchmoderators) and reach out to a lead researcher on your team asap.
 
 ## At the end of the session
 

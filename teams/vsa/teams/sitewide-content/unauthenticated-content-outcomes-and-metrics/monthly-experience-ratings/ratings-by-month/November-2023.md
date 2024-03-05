@@ -2,7 +2,7 @@
 
 ## Related overall scores
 - **Total customer satsifaction score:** 54.3 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 75% "good" experience rating overall (4,830 out of 6,432 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,9 +25,15 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - 
+  - 49% (49 of 99) R&S pages have a 75% or higher "good" score
+  - 33% (33 of 99) R&S pages have a 51% - 74% "good" score
+  - 22% (22 of 99) R&S pages have a 50% or lower "good" score
+  
 - **Breakdown of resources and support scores by 10s:**
- 
+ ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/f75ecfb7-b598-4b0e-a394-9bb56b8c6343)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/14960425-97f4-405d-903a-e40810dc17d1)
+
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
@@ -63,7 +69,7 @@ All pages have ratings of 2 or below.
 5. [DS Logon FAQs](www.va.gov/resources/ds-logon-faqs/) (28% good out of 25 total responses)
 
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/g/personal/randi_hecht_va_gov/EYQNzXLbLiZJsMNwlyTG8LwBYYJsBnji0XMlItH58WYB0w?e=pKUZNS)
 - As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 75% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
   - 22% of pages are scoring at 90% or higher "good"

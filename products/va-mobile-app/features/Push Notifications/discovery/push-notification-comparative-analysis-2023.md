@@ -250,11 +250,11 @@ To help discuss push notifications in a way that better highlights their relevan
 ### How do apps approach asking users to **enable push** notifications?
 
 
-7 apps provided some kind of **specific context about how they’ll use push notifications** before presenting the standard “enable push notifications” modal alert. This context was typically provided as a part of onboarding.
+7 apps provided some kind of **specific context about how they’ll use push notifications** before presenting the standard “enable push notifications” modal alert. This context was typically provided as a part of onboarding. 5 of those apps used a "double request" pattern during onboarding to avoid users disabling notificaitons accidentally or without first seeing value ("double request" = Triggering the opt-in native modal if users agree to enable notifications, and providing "not now" as an option so that the native opt-in modal can be triggered later). 2 used organic discovery of notifications or a demonstration of user intent to trigger the opt-in native modal. 
 
 <img src="screenshots/Walgreens%20enable%20notificaitons.png" width="200" alt="Walgreens - enable push notifications - onboarding"> <img src="screenshots/target%20enable%20notifications.png" width="200" alt="Target - enable push notifications - onboarding"><img src="screenshots/spothero%20enable%20notifications1.PNG" width="200" alt="SpotHero - enable push notifications - organic step 1"><img src="screenshots/spothero%20enable%20notifications2.PNG" width="200" alt="SpotHero - enable push notifications - organic step 2"><img src="screenshots/statefarm%20contextual%20enable%20notifications.PNG" width="200" alt="State Farm - enable push notifications - contextual">
 
-###### L-R: Walgreens and Target give specific examples of situations when they’ll send a push notification within onboarding, Spot Hero and State Farm promote turning push notifications on organically and contextually within a claim.
+###### L-R: Walgreens and Target give specific examples of situations when they’ll send a push notification within onboarding using a "double request" pattern, Spot Hero and State Farm promote turning push notifications on organically and contextually within a claim.
 
 
 ### How do apps approach push notification permissions management **within device settings**?
@@ -276,7 +276,7 @@ Both iOS and Android platforms allow users to turn off all notifications within 
 
 
 1. **Allow users to choose the notifications they’d like to receive:** Giving users fine-grained control over their notifications means that they can indicate which features they want to be allowed to interrupt them, and which they don’t. It also can prevent users from turning off notifications entirely. VA mobile app should do this at feature level because our features are so different each other.
-2. **Provide users with context around how the app will use push notifications before displaying the “enable push notifications” system modal:** Dismissing the system permissions modal at its initial appearance means that users are required to go to device settings to enable them—if it’s unintended, this may result in lower perceived value from the app and a lot of friction to undo. Placement within onboarding and contexual placements (where incentive to neable them is clear) are most successful.
+2. **Provide users with context around how the app will use push notifications, ideally using the "double request" pattern, before displaying the “enable push notifications” system modal:** Dismissing the system permissions modal at its initial appearance means that users are required to go to device settings to enable them—if it’s unintended, this may result in lower perceived value from the app and a lot of friction to undo. Placement within onboarding and contexual placements (where incentive to neable them is clear) are most successful.
 3. **Consider allowing users to manage _all_ digital notification types from VA within the app:** Because it is possible to receive _all_ types of digital communications (email, SMS, push) on a mobile device, managing them from within the app is a natural fit.
 
 #### Push notification content and structure

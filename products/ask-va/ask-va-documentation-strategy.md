@@ -1,4 +1,5 @@
 # Ask VA documentation strategy
+Last updated by @beckyphung on 12/11/2023 
 
 This strategy offers guidelines, not hard-and-fast rules, on where Ask VA integration team documentation lives. We aim to align internally on when and where to work and store documents. 
 Our goal is to work in the open as much as possible to foster knowledge transfer across VA, OCTO, and the public. 
@@ -36,7 +37,7 @@ Here are some document clean-up examples by the team:
   - Keep in Google: [Category, topic and subtopic proposed names](https://docs.google.com/spreadsheets/d/1aCei8pmLBBkWPeDye4YSmUqRkD0yCfTeLEqwdL-329M/edit#gid=0) This document needs frequent updates.
 - Product: 
   - Move to GitHub: [KPIs](https://docs.google.com/document/d/1ZPY_v-sEnRm3eY7DVcmjmPW8CnEY_KQmrmOFBv3cDOs/edit) This document is mostly done and needs minimal collaboration/editing in the future. Added [Moved] to the title. Add a link to the new document in the body of the doc.
-  - Keep in Google: [[Profile Discovery] See profile details on VA.gov](https://docs.google.com/document/d/1J6pEbWgJR6O7owkQWD51GxNNcVE-caedPfuaEJQAAkw/edit#heading=h.b2sahm5lcdeh) This document hasn’t been updated in a while. Key takeaways from this are summarized already in the [Phase 1 MVP- Front-End Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%3A%20Must%20Have%20%2B%20Nice%20to%20Have.md#phase-1-mvp---front-end-redesign) doc in GitHub.
+  - Keep in Google: [[Profile Discovery] See profile details on VA.gov](https://docs.google.com/document/d/1J6pEbWgJR6O7owkQWD51GxNNcVE-caedPfuaEJQAAkw/edit#heading=h.b2sahm5lcdeh) This document hasn’t been updated in a while. Key takeaways from this are summarized already in the [Phase 1 MVP- Front-End Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20MVP%20Must%20Have%20%2B%20Nice%20to%20Have.md#phase-1-mvp---front-end-redesign) doc in GitHub.
 
 ## Documentation hubs
 - [Google Drive - Ask VA Integration](https://drive.google.com/drive/u/0/folders/1cqAU-lG5ULDQzYvMDsIeheKaxnu7VqFP) 
@@ -56,7 +57,10 @@ On the other hand, new contractors may not have access to the VA network for mon
 ### Strategy
 For ease of collaboration, **working documents** belong in Google. Working documents need frequent collaboration via comments and edits.
 
-We’ll move Google documents into SharePoint or GitHub once they’re more complete.
+We’ll move Google documents into SharePoint or GitHub once they’re more complete. If a ticket in Zenhub includes a Google doc, we'll add a task to: 
+- keep the doc in Google,
+- move to the doc to SharePoint, or
+- move the doc to GitHub
 
 ### Examples of working documents
 - Meeting notes

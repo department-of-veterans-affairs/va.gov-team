@@ -2,7 +2,7 @@
 
 ## Quick Started
 
-- Can use any test user that is in MPI and can have appointents made in test VistA 500
+- Can use any test user that is in MPI and can have appointments made in test VistA 500
 - Teams are responsible for their own test data
 
 ## Testing Procedure

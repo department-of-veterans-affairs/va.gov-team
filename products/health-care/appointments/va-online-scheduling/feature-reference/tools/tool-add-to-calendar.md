@@ -12,6 +12,7 @@ Veterans can download an ICS file that lets them add an appointment to their cal
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 - Each appointment must have a downloadable calendar invite.
+- Clicking the add to calendar option downloads an .ics file (iCalendar) with specific appoitnment information. iCalendar files should work for Microsoft Outlook, Google Calendar, and Apple Calendars, but some may require a conversion to .csv 
 
 
 ## Specifications

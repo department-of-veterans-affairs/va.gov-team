@@ -1,12 +1,12 @@
 # Direct Deposit Use Cases
 
-**Last updated:** December 1, 2022
+**Last updated:** February 14, 2024
 
 Direct deposit use case documentation is available in this directory.
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
-- [High-level flow with screenshots](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Vr49MAw) is available in Sketch.
+- [High-level flow](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile-Direct-Deposit?type=design&node-id=0%3A306&mode=design&t=JeBw2hRh9J5QSuL7-1)
 - [Staging test accounts for direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md)
 
 ## Common use cases
@@ -28,6 +28,8 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### Flags 
 - [LOA3 ID.me or Login.gov user tries to update their bank information, but they have a fraud or identity theft flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fraud.md)
+#### Blockecd users 
+[See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
 ### Validation
 - [LOA3 ID.me or Login.gov user tries to update their compensation and pension direct deposit information, and has entered a routing number that can't be matched with a bank](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md#save-error-routing-number-entered-is-invalid-and-cant-be-matched-to-a-bank)

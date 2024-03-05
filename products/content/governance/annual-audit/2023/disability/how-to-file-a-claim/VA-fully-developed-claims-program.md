@@ -19,8 +19,8 @@
 - Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 9.2
+- After edits: 9
 
 - [ ] Backlog ticket for further review created if needed
 
@@ -28,14 +28,15 @@
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:** 
+- **SME** Robert (Matt) Eakman
+- **Date response received:** 12/6/23
 
 ### Responses
 
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
-  - **Response:** 
+  - **Response:**
+  - SME comment: "Under "Are there any risks to using the Fully Developed Claims program?" it states: "Once you start your fully developed claim, you’ll have up to 1 year to complete it. If we approve your claim, you’ll be paid back to the day you started it." As noted above, not sure what this is trying to convey. Maybe an attempt at addressing the ITF date? Once the 526EZ is submitted, NWQ is not going to hold the claim in abeyance for 1 year before making a decision"   We removed the line about having 1 year to submit evidence. We also added a Q&A about intent to file (with the same language that we proposed on the standard claims page).
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
-  - **Response:** 
+  - **Response:**
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
   - **Response:** 

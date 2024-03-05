@@ -102,7 +102,8 @@ The default flow displayed must be as follows and must display  with appropriate
 | FALSE:<br><br>CCM set to No             | FALSE:<br><br>request limit exceeded    | N/A                                                | Message must display to veteran informing request limit met.                                                                                                                                           |
 | FALSE<br><br>CCM set to No              | FALSE<br><br>past appt criteria not met | N/A                                                | Message must display to veteran informing request can’t be submitted because past appointment criteria not met.                                                                                        |
 
-
+Notes:
+1. 12/13/2023 - a Veteran should have the ability to have 1 active request at the Parent and 1 active request at a CBOC but only one care type active overall. Ex - Veteran has active request at Parent for PC, they cannot select the PC care type and enter a request located at a CBOC.
 
 ## Determining community care eligibliity
 - VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  

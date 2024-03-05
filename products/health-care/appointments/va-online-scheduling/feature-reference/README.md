@@ -5,6 +5,8 @@
 
 Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
+[How to update the feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-update-feature-reference.md)
+
 ## Access the Appointments Tool
 
 | Feature | Usage | 
@@ -28,7 +30,7 @@ Booked appointments through VA or CC facilities.
 
 | Feature | Description |
 |---|---|
-| [Data definitions](data-definitions.md) | Explanations of the data VAOS displays in appointment types |
+| [Data definitions](../../appointments-reference/data-reference/data-definitions.mddata-definitions.md) | Explanations of the data VAOS displays in appointment types |
 | [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
 | [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care |
@@ -78,7 +80,7 @@ Tools for Veterans to schedule or request appointments.
 | VA request | [Reason for appointment](./schedule-flow/va-request--reason-for-appointment.md) |
 | VA request | [Preferred modality](./schedule-flow/va-request--preferred-modality.md) |
 | VA request | [Confirm contact information](./schedule-flow/va-request--contact-information.md) |
-| VA request | [Review and submit](./va-request--schedule-flow/va-request--review-and-submit.md) |
+| VA request | [Review and submit](./schedule-flow/va-request--review-and-submit.md) |
 | CC request | [Preferred date](./schedule-flow/cc-request--preferred-date.md) |
 | CC request | [Nearest city](./schedule-flow/cc-request--nearest-city.md) |
 | CC request | [Request a provider](./schedule-flow/cc-request--request-a-provider.md) |

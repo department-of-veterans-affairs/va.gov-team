@@ -7,12 +7,12 @@
 
 # Purpose
 
-The purpose of the quant-qual monthly interpretation process is to **inform the Mobile team’s prioritization with data** so that the team focuses on what most directly and significantly impacts the Veteran experience, avoids prioritizing proven outliers, and knows when gathering more information when necessary. This interpretation alone will not dictate the team’s work, but it will surface data-informed factors for prioritization alongside other considerations. 
+The purpose of the quant-qual monthly interpretation process is **informing the Mobile team’s feature prioritization with data** so that the team focuses on what most directly and significantly impacts the Veteran experience, avoids prioritizing proven outliers, and knows when gathering more information is necessary. This interpretation alone will not dictate the team’s work, but will surface data which should influence prioritization alongside other considerations. 
 
 
 ## Goal outcomes
 
-The Mobile team wants to make data-informed decisions about the substance and prioritization of its work, but no single data source can comprehensively capture Veteran experience with this product. The goals of this monthly collaborative interpretation of data across quantitative and qualitative sources is to:
+The Mobile team wants to make data-informed decisions about the substance and prioritization of its work, but no single data source can comprehensively capture Veteran experience. The goals of monthly collaborative data interpretation, across quantitative and qualitative sources, is to:
 
 1. Validate findings in one data set with other data in order to provide a more robust picture.
 2. Inform and scope follow-up actions based on validated findings.
@@ -22,9 +22,9 @@ The Mobile team wants to make data-informed decisions about the substance and pr
 
 ## Background
 
-App analytics does not capture the full scope of human behavior or experience in using this product. However, it does provide a comprehensive view across all users for the things it can track. App store reviews and other qualitative reporting sources, like Reddit, allow us to learn Veterans’s experience with the app directly from them. However, these reports lack essential metadata points for being able to understand them. Additionally, even when there is a strong theme in app store reviews, that doesn’t necessarily reflect how prevalent the experience is across all users.
+App analytics does not capture the full scope of human behavior or experience in using this product. However, it does provide a comprehensive view across all users for the things it can track. App store reviews and other qualitative reporting sources, like Reddit, allow us to learn about Veterans’ experience with the app directly from them. However, these reports lack essential metadata points for being able to understand them. Additionally, even when there is a strong theme in app store reviews, that doesn’t necessarily reflect how prevalent the experience is across all users.
 
-Sometimes, there are low-hanging fruit explanations to be found by looking at the alternative data source. A collaborative review across data sources is one way to bridge the gap. Over time we’ll want to build in more sources of qualitative data to help us group and size experiences.
+Sometimes, there are low-hanging fruit explanations to be found by looking at the alternative data source. A collaborative review across data sources is one way to bridge the gap. Over time we want to build in more sources of qualitative data to help us group and size experiences.
 
 The team is also moving to a new structure where there will be fewer people taking a wide-angle view of the app on a regular basis as teams become more specialized. This creates a need to find methods that ensure cross-team opportunities are still identified and surfaced.
 

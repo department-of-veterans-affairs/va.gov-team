@@ -1,14 +1,14 @@
 # 2023-08 Terms of use research findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Terms of Use, Core Identity team**
+- Date: September 12, 2023
+- [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0b791bb973acc5ac9bc20d19c5b3c6a89fda09d0/products/identity/Research/2023-07%20Terms%20of%20Use/2023-08%20Terms%20of%20Use%20Research%20Readout.pdf)
+- Researchers
+  - Clayton Zook | clayton.zook@oddball.io
+  - Amanda Porter | ajohnson@clarityinnovates.com
+  - Charlye Tran | charlye@bluetiger.digital
 
-Date: September 12, 2023
 
-- Clayton Zook | clayton.zook@oddball.io
-- Amanda Porter | ajohnson@clarityinnovates.com
-- Charlye Tran | charlye@bluetiger.digital
-
-[Research readout (to come)](link here)
 
 Jump to:
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)

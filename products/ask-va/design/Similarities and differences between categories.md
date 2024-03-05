@@ -1,6 +1,6 @@
 # Similarities and differences between categories
 
-Last updated by @tygindraux: October 26, 2023
+Last updated by @tygindraux: December 12, 2023
 
 This document summarizes patterns in the design of the Ask VA form by calling out similarities and differences between categories. It's intended to be helpful for our engineers as they start building.
 

@@ -62,7 +62,17 @@ These interviews will be scheduled once a pilot clinic:
 ### Length of sessions
 - Session length: 1 hour 
 - Buffer time between sessions: 30 minutes 
-- Maximum Sessions per day: 3	 
+- Maximum Sessions per day: 3
+
+### Research sessions
+- Planned dates of research
+    - Jan. 22, 9 - 4:30 ET
+    - Jan. 23, 10 - 3 ET
+    - Jan. 24, 10 - 3 ET
+    - Jan. 25, 11:30 - 5 ET 
+    - Jan. 26, 10 -3 ET
+    - Jan. 29, 9 - 5 ET
+    - Jan. 30, 10 - 3 ET 
 
 ## Team Roles	
 - Moderator: Kristen McConnell (kristen.mcconnell@va.gov)

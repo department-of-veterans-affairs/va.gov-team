@@ -1,6 +1,6 @@
 # Project outline: Notifications Settings - Default Send Functionality
 
-**Last Updated:** 11/7/23, launch dates and launch stats
+**Last Updated:** 12/5/23, launch dates and launch stats
 
 ### Communications
 
@@ -79,13 +79,9 @@ In order to be able to add email as a channel, we need to do two things: add the
 
 |KPI/metric|Baseline: 1 month pre-launch 9/26-10/24/2023| 25% 10/25-10/30/2023 | 50% 10/31-11/6/2023 | 100% 11/7-11/13/2023 |1 month post-launch to 100% 11/7-12/5/2023| 2 months post-launch to 100% 11/7/2023-1/2/2024|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
-|Percentage of successful retrievals|99.66%|99.43%|99.67%|99.75%|||
-|Percentage of successful saves|99.95%|99.93%|100%|100%|||
+|Percentage of successful retrievals|99.66%|99.43%|99.67%|99.75%|99.73%|99.72%|
+|Percentage of successful saves|99.95%|99.93%|100%|100%|99.79%|99.83%|
 
-**Additional things to consider**
-
-- Is there anyway to glean improved usability through metrics?
-- Is there any way to glean whether we are successfully consuming/displaying default send? 
 
 ## Solution approach
 

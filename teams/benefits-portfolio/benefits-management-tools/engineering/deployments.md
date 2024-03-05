@@ -4,5 +4,5 @@ NOTE: This is all taken from the [platform docs](https://depo-platform-documenta
 | Repo          | Changes in by | Deployment start | Deployment Dashboard                                                                                              |
 | ------------- | ------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
 | vets-website  | 3:00pm ET     | 3:00pm ET        | [Link](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard) |
-| vets-api      | 3:00pm ET     | 3:00pm ET        | [Link](https://deploy-status-dashboard.fly.dev/apps/vets-api/deploy_status)                                       |
-| content-build | 2:00pm ET     | 3:00pm ET        | 
+| vets-api      | 2:30pm ET     | 3:00pm ET        | [Link](https://deploy-status-dashboard.fly.dev/apps/vets-api/deploy_status)                                       |
+| content-build | 2:00pm ET     | 3:00pm ET        | [Link](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard)

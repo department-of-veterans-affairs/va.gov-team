@@ -1,0 +1,1791 @@
+openapi: 3.0.1
+info:
+  title: Millennium Messaging Web Services
+  version: 10.8-SNAPSHOT
+servers:
+- url: "http://[host]/messaging/[authority]/service"
+paths:
+  /{authority}/inbox/messages:
+    get:
+      summary: "Retrieves messages by patient alias. Redirects to /{authority}/patients/{patientId}/inbox/messages."
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required. The authority provided in the URI must match the authority\
+        \ provided in the Authorization request header. Example URI :- http://localhost:8080/messaging/{authority}/service/{authority}/inbox/messages?aliasPoolCd=61598288&patientAlias=TESTINGALIAS1&aliasTypeCd=4168238"
+      operationId: retrieveAsJson
+      parameters:
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: patientAlias
+        in: query
+        description: The alias identifier of the patient whose messages are to be
+          retrieved. This is required and must be non-blank.
+        required: true
+        schema:
+          type: string
+      - name: aliasTypeCd
+        in: query
+        description: The identifier indicating the type of patientAlias. This is required
+          and must represent a valid alias type.
+        required: true
+        schema:
+          type: string
+      - name: aliasPoolCd
+        in: query
+        description: The identifier of the alias pool defining the set of characters
+          and rules which compose the patientAlias. This is required and must represent
+          a valid alias pool.
+        required: true
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be retrieved.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      responses:
+        "303":
+          description: The request successfully returned the URI of the patient's
+            messages.
+          headers:
+            Location:
+              description: "For a valid request this header will indicate the redirected\
+                \ location of the patient's messages in the following pattern: /{authority}/patients/{patientId}/inbox/messages."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: The authority path parameter does not represent an actual authority
+            in the system.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+      deprecated: true
+  /{authority}/outbox/messages:
+    get:
+      summary: "Retrieves outbox messages by patient alias. Redirects to /{authority}/patients/{patientId}/outbox/messages"
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required.The authority provided in the URI must match the authority provided\
+        \ in the Authorization request header.Example URI :- http://localhost:8080/messaging/{authority}/service/{authority}/outbox/messages?aliasPoolCd=61598288&patientAlias=TESTINGALIAS1&aliasTypeCd=4168238"
+      operationId: retrieveBySenderAsJson
+      parameters:
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be retrieved.
+          Must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientAlias
+        in: query
+        description: The alias identifier of the patient whose messages are to be
+          retrieved.  Must be non-blank.
+        required: true
+        schema:
+          type: string
+      - name: aliasTypeCd
+        in: query
+        description: The identifier indicating the type of patientAlias. Must represent
+          a valid alias type.
+        required: true
+        schema:
+          type: string
+      - name: aliasPoolCd
+        in: query
+        description: The identifier of the alias pool defining the set of characters
+          and rules which compose the patientAlias. Must represent a valid alias pool.
+        required: true
+        schema:
+          type: string
+      responses:
+        "303":
+          description: The request successfully returned the URI of the patient's
+            messages.
+          headers:
+            Location:
+              description: "For a valid request this header will indicate the redirected\
+                \ location of the patient's messages in the following pattern: /{authority}/patients/{patientId}/outbox/messages."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: The authority path parameter does not represent an actual authority
+            in the system.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+      deprecated: true
+  /{authority}/patients/{patientId}/inbox/messages:
+    get:
+      summary: The service retrieves messages by patient recipient.
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required. The authority provided in the URI must match the authority\
+        \ provided in the Authorization request header. Example URI:- http://localhost:8080/messaging/{authority}/service/{authority}/patients/7929590/inbox/messages"
+      operationId: retrieveInboxMessagesForRetrievedMessageByRecipientAsJson
+      parameters:
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be retrieved.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose messages are to be retrieved.
+          This path value must be non-blank and represent a valid patient identifier.
+        required: true
+        schema:
+          type: string
+      - name: beginDate
+        in: query
+        description: "The beginning date in the query date range for messages to be\
+          \ retrieved. Must be before the endDate.The ISO 8601 'Combined date and\
+          \ time in UTC' format is used to specify the date and time value, excluding\
+          \ milliseconds."
+        schema:
+          type: string
+          default: 90 days prior to current date/time
+      - name: endDate
+        in: query
+        description: "The ending date in the query date range for messages to be retrieved.\
+          \ Must be after the beginDate.The ISO 8601 'Combined date and time in UTC'\
+          \ format is used to specify the date and time value, excluding milliseconds."
+        schema:
+          type: string
+          default: current date/time
+      - name: statuses
+        in: query
+        description: A comma delimited list containing the statuses of messages to
+          be retrieved.
+        schema:
+          type: string
+          default: "UNREAD, OPEN, ONHOLD"
+          enum:
+          - UNREAD
+          - OPEN
+          - ONHOLD
+          - DELETED
+      - name: types
+        in: query
+        description: A comma delimited list containing the types of messages to be
+          retrieved.
+        schema:
+          type: string
+          default: "MESSAGE, REMINDER"
+          enum:
+          - MESSAGE
+          - REMINDER
+      responses:
+        "200":
+          description: The messages were successfully retrieved.
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Messages'
+        "301":
+          description: The patient identified by the patientId path parameter has
+            been combined.
+          headers:
+            Location:
+              description: "For a valid request this header will indicate that the\
+                \ patient has been combined and in the new location. /{authority}/patients/{patientId}/inbox/messages."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patientId represented by the given pathId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "406":
+          description: The Accept request header value is not one of the media types
+            supported by this resource.The Accept-Charset request header value is
+            not one of the character encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+  /{authority}/patients/{patientId}/inbox/messages/{messageIds}:
+    get:
+      summary: Retrieves inbox messages and reminders by identifier.
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required. The authority provided in the URI must match the authority\
+        \ provided in the Authorization request header. Example URI:- http://localhost:8080/messaging/{authority}/service/{authority}/patients/7929590/inbox/messages/2170961659%3A-6%3A0%3A0,2170961663%3A-6%3A0%3A0?loadReferences=true"
+      operationId: retrieveInboxMessagesByIds
+      parameters:
+      - name: messageIds
+        in: path
+        description: A comma-delimited list of message identifiers to be retrieved.
+        required: true
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be retrieved.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose messages are to be retrieved.
+          This path value must be non-blank and represent a valid patient identifier.
+        required: true
+        schema:
+          type: string
+      - name: loadReferences
+        in: query
+        description: Determines whether reference identifiers should be retrieved
+          and returned or not.
+        schema:
+          type: boolean
+          default: false
+          enum:
+          - true
+          - false
+      responses:
+        "200":
+          description: The messages were successfully retrieved.
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessagesById'
+        "301":
+          description: The patient identified by the patientId path parameter has
+            been combined.
+          headers:
+            Location:
+              description: "For a valid request this header will indicate that the\
+                \ patient has been combined and in the new location. /{authority}/patients/{patientId}/inbox/messages."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patientId represented by the given pathId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "406":
+          description: The Accept request header value is not one of the media types
+            supported by this resource.The Accept-Charset request header value is
+            not one of the character encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+    delete:
+      summary: Deletes inbox messages by identifiers.
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required. The authority provided in the URI must match the authority\
+        \ provided in the Authorization request header. Example URI:- http://localhost:8080/messaging/{authority}/service/{authority}/patients/7929590/inbox/messages/2170961659%3A-6%3A0%3A0,2170961663%3A-6%3A0%3A0?loadReferences=true"
+      operationId: inactivateInboxMessage
+      parameters:
+      - name: messageIds
+        in: path
+        description: A comma-delimited list of message identifiers to be deleted.
+          This path value must be non-blank and represent valid message identifiers.
+        required: true
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be deleted.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose messages are to be deleted.
+          This path value must be non-blank and represent a valid patient identifier.
+        required: true
+        schema:
+          type: string
+      responses:
+        "204":
+          description: The messages were successfully deleted.
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patientId represented by the given pathId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "500":
+          description: "Errors occurred while deleting the messages, causing a failure."
+          content: {}
+  /{authority}/patients/{patientId}/inbox/messages/{messageIds}/status/{status}:
+    put:
+      summary: Updates the status of the messages.
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required. The authority provided in the URI must match the authority\
+        \ provided in the Authorization request header. Example URI:- http://localhost:8080/messaging/{authority}/service/{authority}/patients/7929590/inbox/messages/2170961659%3A-6%3A0%3A0,2170961663%3A-6%3A0%3A0/status/UNREAD"
+      operationId: updateInboxMessageStatus
+      parameters:
+      - name: messageIds
+        in: path
+        description: A comma-delimited list of message identifiers to be updated.
+          This path value must be non-blank and represent valid message identifiers.
+        required: true
+        schema:
+          type: string
+      - name: status
+        in: path
+        description: The status of the messages. This path value must be non-blank.
+        required: true
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be updated.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose messages are to be updated.
+          This path value must be non-blank and represent a valid patient identifier.
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: The messages were successfully updated.
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patientId represented by the given pathId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "409":
+          description: "The message ids provided had versions that did not match the\
+            \ messages in the system, causing a conflict which prevented the messages\
+            \ from being successfully updated."
+          content: {}
+        "500":
+          description: "Errors occurred while updating the messages, causing a failure."
+          content: {}
+  /{authority}/patients/{patientId}/outbox/messages:
+    get:
+      summary: Retrieves messages by patient recipient.
+      description: A user authenticated using the CareAware OAuth implementation is
+        required. The authority provided in the URI must match the authority provided
+        in the Authorization request header.
+      operationId: retrieveOutboxMessagesBySenderAsJson
+      parameters:
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Language to use when internationalizing error messages included
+          in the response
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be retrieved.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose messages are to be retrieved.
+          This path value must be non-blank and represent a valid patient identifier.
+        required: true
+        schema:
+          type: string
+      - name: beginDate
+        in: query
+        description: "The beginning date in the query date range for messages to be\
+          \ retrieved. Must be before the endDate.The ISO 8601 'Combined date and\
+          \ time in UTC' format is used to specify the date and time value, excluding\
+          \ milliseconds."
+        schema:
+          type: string
+          default: 90 days prior to current date/time
+      - name: endDate
+        in: query
+        description: "The ending date in the query date range for messages to be retrieved.\
+          \ Must be after the beginDate.The ISO 8601 'Combined date and time in UTC'\
+          \ format is used to specify the date and time value, excluding milliseconds."
+        schema:
+          type: string
+          default: current date/time
+      - name: statuses
+        in: query
+        description: A comma delimited list containing the statuses of messages to
+          be retrieved.
+        schema:
+          type: string
+          default: "UNREAD, OPEN, ONHOLD"
+          enum:
+          - UNREAD
+          - OPEN
+          - ONHOLD
+          - DELETED
+      - name: types
+        in: query
+        description: A comma delimited list containing the types of messages to be
+          retrieved.
+        schema:
+          type: string
+          default: MESSAGE
+          enum:
+          - MESSAGE
+      responses:
+        "200":
+          description: The messages were successfully retrieved
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Messages'
+        "301":
+          description: The patient identified by the patientId path parameter has
+            been combined.
+          headers:
+            Location:
+              description: "For a valid request this header will indicate that the\
+                \ patient has been combined and in the new location. /{authority}/patients/{patientId}/inbox/messages."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patient represented by the given patientId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "406":
+          description: The Accept request header value is not one of the media types
+            supported by this resource.The Accept-Charset request header value is
+            not one of the character encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+    post:
+      summary: Adds a message to a patient's outbox (sends a message from a patient).
+      description: |+
+        A user authenticated using the CareAware OAuth implementation is required. The authority provided in the URI must match the authority provided in the Authorization request header.
+
+        Posted messages will most likely be stored in a data store that uses a character set of Windows-1252 or Windows-1256. Consumers must ensure that the characters used in the string attributes of the message are compatible with these character sets. If this requirement is not met, there is a chance of data loss when the message is stored.
+
+        If the patient sends a message to an out of office provider , an out of office notification from the provider is sent to the patient's portal account. An atom feed to a publication url may be setup to fire upon a new message (including out of office messaging into the patient's inbox) to allow actions to be taken upon this knowledge (such as an email to an external email account).
+
+        The capability to send messages to a secure email address is available with the following limitation:-
+
+        1. The host Millennium system must have a provisioned e-mail account to represent the patient as a sender.
+
+        2. When an e-mail type of receiver is included as a destination address only one will be allowed as either a Receiver or Carbon Copy Receiver. No other receivers will be allowed.
+
+        3. Un-solicited inbound communication from a secure e-mail address is not supported at this time. It will be rejected by the host system and never reach the patient.
+
+        4. Portal applications should be implemented with the expectation that this is a limited use, one way operation. When the destination address is invalid or unable to handle the message, a bounce-back message is possible when the destination system supports this capability and fully conforms to the e-mail specification. If the destination system hosting the receiver e-mail address does not conform, no indication of destination failure will be possible.
+
+        5. E-mail provides no guarantee that the information reached its destination. As a best practice it is recommended that the patient follow-up with the destination recipient to confirm that the recipient received the message properly.
+
+        Example URI :- http://localhost:8080/messaging/{authority}/service/{authority}/patients/7929590/outbox/messages
+
+      operationId: sendMessageAsJson
+      parameters:
+      - name: Content-Type
+        in: header
+        description: |-
+          The 'charset' parameter of the message contents.
+          The metering event will most likely be stored in a data store that uses a character set of Windows-1252 or Windows-1256. Consumers must ensure that the characters used in the string attributes of the metering event are compatible with these character sets regardless of the charset parameter included in this header. If this requirement is not met, there is a chance of data loss when the metering event is stored.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Language to use when internationalizing error messages included
+          in the response
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's message is to be added.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose message is to be added. This
+          path value must be non-blank and represent a valid patient identifier.The
+          patientId in the URI must match the patientId specified in the entity body
+          of the request.
+        required: true
+        schema:
+          type: string
+      requestBody:
+        description: The message to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SendMessage'
+        required: true
+      responses:
+        "201":
+          description: The given message was added for the specified patient.
+          headers:
+            Location:
+              description: "The location of the created message in following pattern:\
+                \ /{authority}/patients/{patientId}/outbox/messages/{messageId}."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patient represented by the given patientId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "415":
+          description: "The type/subtype in the Content-Type request header was not\
+            \ one of the supported media types.A format other than 'UTF-8', 'UTF-16',\
+            \ 'UTF-16BE', or 'UTF16LE' was provided as the 'charset' parameter in\
+            \ the Content-Type request header."
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+      x-codegen-request-body-name: message
+  /{authority}/patients/{patientId}/outbox/messages/{messageIds}:
+    get:
+      summary: Retrieves sent items for a patient recipient by message identifier.
+      description: |-
+        A user authenticated using the CareAware OAuth implementation is required. The authority provided in the URI must match the authority provided in the Authorization request header.
+
+        Example URI:- http://localhost:8080/messaging/{authority}/service/{authority}/patients/7929590/outbox/messages/2170961745%3A-4%3A0%3A0,2170961747%3A-4%3A0%3A0?loadReferences=true
+      operationId: retrieveOutboxMessagesByIds
+      parameters:
+      - name: messageIds
+        in: path
+        description: A comma-delimited list of message identifiers to be retrieved.
+        required: true
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Language to use when internationalizing error messages included
+          in the response
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the patient's messages are to be retrieved.
+          This path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      - name: patientId
+        in: path
+        description: The identifier of the patient whose messages are to be retrieved.
+          This path value must be non-blank and represent a valid patient identifier.
+        required: true
+        schema:
+          type: string
+      - name: loadReferences
+        in: query
+        description: Determines whether the 'referenceIds' array will be retrieved
+          and returned in the messages in the response.
+        schema:
+          type: string
+          default: "false"
+          enum:
+          - "true"
+          - "false"
+      responses:
+        "200":
+          description: The messages were successfully retrieved
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessagesById'
+        "301":
+          description: The patient identified by the patientId path parameter has
+            been combined.
+          headers:
+            Location:
+              description: "For a valid request this header will indicate that the\
+                \ patient has been combined and in the new location. /{authority}/patients/{patientId}/outbox/messages/{messageIds}."
+              schema:
+                type: string
+          content: {}
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: "The authority path parameter does not represent an actual\
+            \ authority in the system. The patient represented by the given patientId\
+            \ parameter was either: non existent, invalid or inactive."
+          content: {}
+        "406":
+          description: The Accept request header value is not one of the media types
+            supported by this resource.The Accept-Charset request header value is
+            not one of the character encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the messages, causing a failure."
+          content: {}
+  /{authority}/personnel/{personnelIds}/recipient-access:
+    get:
+      summary: Retrieves information used to determine if personnel have access to
+        messaging.
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required.The authority provided in the URI must match the authority provided\
+        \ in the Authorization request header.Example URL : http://localhost:8080/messaging/{authority}/service/{authority}/personnel/{personnelIds}/recipient-access"
+      operationId: retrieveRecipientAccess
+      parameters:
+      - name: personnelIds
+        in: path
+        description: A comma-delimited list of personnel identifiers. This path value
+          must be non-blank and represent valid personnel identifiers.
+        required: true
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the personnel's recipient access is
+          to be retrieved. This path value must be non-blank and represent a valid
+          authority.
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: The recipient access status was successfully retrieved for
+            the given personnel identifiers.
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RecipientAccessStatusByPersonnelId'
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: The authority path parameter does not represent an actual authority
+            in the system. The recipient-access could not be found for the given personnel
+            ids because the personnel ids were malformed.
+          content: {}
+        "406":
+          description: The Accept-Charset request header value is not one of the character
+            encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the recipient access, causing\
+            \ a failure."
+          content: {}
+  /{authority}/pools:
+    get:
+      summary: 'The service supports searching for messaging pools. '
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required.The authority provided in the URI must match the authority provided\
+        \ in the Authorization request header.If the name query parameter is not provided,\
+        \ all pools are retrieved. If a name query parameter is provided, the names\
+        \ are searched in a case-insensitive manner, using a \"starts with\" search\
+        \ algorithm for each name.Example URL : http://localhost:8080/messaging/{authority}/service/{authority}/pools?name=BirthCenterPool"
+      operationId: retrieveByNameAsJson
+      parameters:
+      - name: name
+        in: query
+        description: "The name belonging to the pools to be retrieved. If a name is\
+          \ not provided, all available pools will be retrieved."
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the pools are to be retrieved. This
+          path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: The pools were successfully retrieved.
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PoolsByName'
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: The authority path parameter does not represent an actual authority
+            in the system.
+          content: {}
+        "406":
+          description: The Accept-Charset request header value is not one of the character
+            encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the pools, causing a failure."
+          content: {}
+  /{authority}/pools/{poolIds}:
+    get:
+      summary: 'The service retrieves pools by pool identifier. '
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required.The authority provided in the URI must match the authority provided\
+        \ in the Authorization request header.Example URL : http://localhost:8080/messaging/{authority}/service/{authority}/pools/15730568,15726730"
+      operationId: retrieveByIdAsJson
+      parameters:
+      - name: poolIds
+        in: path
+        description: A comma-delimited list of pool identifiers. This path value must
+          be non-blank and represent valid pool identifiers.
+        required: true
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the pools are to be retrieved. This
+          path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: The pools were successfully retrieved.
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PoolsById'
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: The authority path parameter does not represent an actual authority
+            in the system. No pools were found for the given pool ids.
+          content: {}
+        "406":
+          description: The Accept-Charset request header value is not one of the character
+            encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the pools, causing a failure."
+          content: {}
+  /{authority}/pools/{poolIds}/recipient-access:
+    get:
+      summary: 'The service retrieves information used to determine if a pool has
+        access to messaging. '
+      description: "A user authenticated using the CareAware OAuth implementation\
+        \ is required.The authority provided in the URI must match the authority provided\
+        \ in the Authorization request header.Example URL : http://localhost:8080/messaging/{authority}/service/{authority}/pools/7929565,7929566/recipient-access"
+      operationId: retrieveRecipientAccess
+      parameters:
+      - name: poolIds
+        in: path
+        description: A comma-delimited list of pool identifiers. This path value must
+          be non-blank and represent valid pool identifiers.
+        required: true
+        schema:
+          type: string
+      - name: Accept-Charset
+        in: header
+        description: Accept-Charset header to use when encoding the response data.
+        schema:
+          type: string
+          default: UTF-8
+          enum:
+          - UTF-8
+          - UTF-16
+          - UTF-16BE
+          - UTF-16LE
+      - name: Accept-Language
+        in: header
+        description: Used to internationalize any error messages that may be included
+          in the response.
+        schema:
+          type: string
+      - name: Cerner-Correlation-Id
+        in: header
+        description: Transaction identifier to assist with troubleshooting.
+        schema:
+          type: string
+      - name: authority
+        in: path
+        description: The authority from which the pools are to be retrieved. This
+          path value must be non-blank and represent a valid authority.
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          description: The recipient access status was successfully retrieved for
+            the given pool identifiers.
+          headers:
+            Content-Type:
+              description: "Contains the format in which the response entity is encoded.\
+                \ If not specified in the Accept-Charset request header, the response\
+                \ will be encoded in the 'UTF-8' format."
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RecipientAccessStatusByPoolId'
+        "400":
+          description: The request does not meet the documented requirements.
+          content: {}
+        "401":
+          description: An HTTP authentication challenge was issued or failed.
+          content: {}
+        "403":
+          description: The authority within the URI is not equal to the authority
+            in the Authorization request header.
+          content: {}
+        "404":
+          description: The authority path parameter does not represent an actual authority
+            in the system. The recipient-access could not be found for the given pool
+            ids because the pool ids were malformed.
+          content: {}
+        "406":
+          description: The Accept-Charset request header value is not one of the character
+            encodings supported by this resource.
+          content: {}
+        "500":
+          description: "Errors occurred while retrieving the pools, causing a failure."
+          content: {}
+components:
+  schemas:
+    Attachment:
+      type: object
+      properties:
+        name:
+          type: string
+          description: |
+            The name of the attachment. Supported HTTP methods.
+            GET@(/*): This field will be returned.
+        mediaIdentifier:
+          type: string
+          description: |
+            The media identifier of the attachment. Supported HTTP methods.
+            GET@(/*): This field will be returned.
+        mediaVersion:
+          type: integer
+          description: |
+            The media version of the attachment.Supported HTTP methods.
+            GET@(/*): This field will be returned.
+          format: int32
+      description: Message Attachment
+    EMail:
+      type: object
+      properties:
+        address:
+          type: string
+          description: |-
+            The secure e-mail address. An e-mail address has a length limitation of 256 bytes per RFC 5321 4.5.3.1.3. This is not a requirement, but strongly suggested since destination e-mail servers may reject the communication when the value is longer.
+             Supported HTTP methods.
+            GET@(/*): This field will be returned.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): Must be populated with a valid e-mail address, otherwise, a 400/Bad Request status will be returned.
+      description: E-Mail Address.
+    Message:
+      type: object
+      properties:
+        idUrl:
+          type: string
+          description: |
+            URI of this message. Supported HTTP methods.
+            GET@(/*): This field will be returned.
+        id:
+          type: string
+          description: |
+            The identifier for this message. Supported HTTP methods.
+            GET@(/*): This field will be returned .
+        subject:
+          type: string
+          description: |
+            The subject of the message. Supported HTTP methods.
+            GET: This field will be returned.
+        personSenderId:
+          type: integer
+          description: |
+            The identifier of the person sender of this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: int64
+        personnelSenderId:
+          type: integer
+          description: |
+            The identifier of the personnel sender of this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: int64
+        poolSenderId:
+          type: integer
+          description: |
+            The identifier of the pool sender of this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: int64
+        createDate:
+          type: string
+          description: |
+            The date the message was created. The ISO 8601 'Combined date and time in UTC' format is used to specify the date and time value, excluding milliseconds. Supported HTTP methods.
+            GET: This field will be returned.
+          format: date-time
+        reminderDate:
+          type: string
+          description: |
+            The reminder date of the message. The ISO 8601 'Combined date and time in UTC' format is used to specify the date and time value, excluding milliseconds. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: date-time
+        messageType:
+          type: string
+          description: |
+            The type of the message. Supported HTTP methods.
+            GET: This field will be returned.
+          enum:
+          - MESSAGE
+          - REMINDER
+        priority:
+          type: string
+          description: |
+            The priority of the message. Supported HTTP methods.
+            GET: This field will be returned.
+          enum:
+          - STAT
+          - ROUTINE
+        status:
+          type: string
+          description: |
+            The status of the message. Supported HTTP methods.
+            GET: This field will be returned.
+          enum:
+          - UNREAD
+          - OPENED
+          - ONHOLD
+          - DELETED
+          - UNKNOWN
+        attachments:
+          type: array
+          description: |
+            Array of attachment objects for this message. Supported HTTP methods.
+            GET@(/{authority}/patients/{patientId}/outbox/messages):The field will not be returned.
+            GET@(/{authority}/patients/{patientId}/outbox/messages/{messageIds}): The field will be returned on messages that have attachments.
+            GET@(/{authority}/patients/{patientId}/inbox/messages): The field will be returned on messages that have attachments.
+            GET@(/{authority}/patients/{patientId}/inbox/messages/{messageIds}): The field will be returned on messages that have attachments.
+          items:
+            $ref: '#/components/schemas/Attachment'
+        receivers:
+          type: array
+          description: |
+            Array of receivers for this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          items:
+            $ref: '#/components/schemas/Receiver'
+        ccReceivers:
+          type: array
+          description: |
+            Array of carbon copy receiver objects for this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          items:
+            $ref: '#/components/schemas/Receiver'
+        referenceId:
+          type: string
+          description: |
+            The reference identifier of this message. This identifier will be included in the Message referenceIds array of related messages when this message preceded the related message through links in a conversation. Supported HTTP methods.
+            GET: This field will be returned.
+        emailSender:
+          $ref: '#/components/schemas/EMail'
+        sensitivity:
+          $ref: '#/components/schemas/Sensitivity'
+        responsiblePersonnelId:
+          type: integer
+          description: |
+            The identifier of the personnel used for MU3 Reporting.
+            GET: This field will be returned if available.
+          format: int64
+        patientId:
+          type: integer
+          description: |
+            The identifier of the patient associated to this message. Supported HTTP methods:
+            GET@(/*):This field may be returned.
+          format: int64
+        encounterId:
+          type: integer
+          description: |
+            The identifier of the encounter associated to this message.Supported HTTP methods:
+            GET@(/*):This field may be returned.
+          format: int64
+        text:
+          type: string
+          description: |
+            The text of this message in Rich Text Format. Supported HTTP methods:
+            GET@(/*):This field may be returned. May return the RTF markup as non-standard concatenated RTF blocks when the message is saved to chart. These text blocks are returned separately in the TextSection array.
+        updateDate:
+          type: string
+          description: |
+            Date this message was last updated. The ISO 8601 'Combined date and time in UTC' format is used to specify the date and time value, excluding milliseconds. Supported HTTP methods:
+            GET@(/*):This field will be returned.
+          format: date-time
+        dueDate:
+          type: string
+          description: |
+            The due date of this message. The ISO 8601 'Combined date and time in UTC' format is used to specify the date and time value, excluding milliseconds. Supported HTTP methods:
+            GET@(/*):This field may be returned.
+          format: date-time
+        openUrl:
+          type: string
+          description: |
+            URL for opening this message. Supported HTTP methods:
+            GET@(/*):This field will be returned.
+        deleteUrl:
+          type: string
+          description: |
+            URL for deleting this message. Supported HTTP methods:
+            GET@(/*):This field may be returned.
+        unreadUrl:
+          type: string
+          description: |
+            URL for marking this message as UNREAD. Supported HTTP methods:
+            GET@(/*): This field may be returned.
+        replyUrl:
+          type: string
+          description: |
+            URL for replying to this message. Supported HTTP Methods:
+            GET@(/*): This field may be returned.
+        previousMessageId:
+          type: string
+          description: |
+            Identifier of the previous message in a thread of related messages. Supported HTTP methods:
+            GET@(/*): This field will never be returned.
+        referenceIds:
+          type: array
+          description: |
+            Array of related message reference identifiers which have preceded this message through links in a conversation.The values returned will be in the order in which the conversation has been created, with the first reference indicating the beginning of the conversation.There is no guarantee that any references will be returned. Supported HTTP methods:
+            GET@(/*): This field will be returned on messages that have related messages in a conversation when the loadReferences query parameter specifying that references should be loaded is included.
+          items:
+            type: string
+        resultSetId:
+          type: integer
+          description: |
+            Identifier of the result associated to this message. Supported HTTP Methods:
+            GET@(/*): This field may be returned.
+          format: int64
+        texts:
+          type: array
+          description: |
+            Array of TextSections for this message. The text section array is ordered from latest text block to oldest text block. Supported HTTP Methods:
+            GET@(/*): This field may be returned.
+          items:
+            $ref: '#/components/schemas/Message Text'
+      description: Message representation.
+    Message Text:
+      type: object
+      properties:
+        title:
+          type: string
+          description: |-
+            The title of the message. Supported HTTP methods:
+            GET@(/*):This field will be returned if available.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): Not accepted when adding a message. Otherwise, a 400/Bad Request status will be returned.
+        formatType:
+          type: string
+          description: |-
+            Format of the message text.Supported HTTP methods:
+            GET@(/*):This field will be returned if available and can be any of [RTF,XHTML,Unknown]
+            POST@(/{authority}/patients/{patientId}/outbox/messages): Not accepted when adding a message. Otherwise, a 400/Bad Request status will be returned.
+          enum:
+          - UNKNOWN
+          - XHTML
+          - RTF
+        text:
+          type: string
+          description: |-
+            The text of the message. Supported HTTP methods:
+            GET@(/*): This field will be returned.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): Not accepted when adding a message. Otherwise, a 400/Bad Request status will be returned.
+    MessageLite:
+      type: object
+      properties:
+        idUrl:
+          type: string
+          description: |
+            URI of this message. Supported HTTP methods.
+            GET@(/*): This field will be returned.
+        id:
+          type: string
+          description: |
+            The identifier for this message. Supported HTTP methods.
+            GET@(/*): This field will be returned .
+        subject:
+          type: string
+          description: |
+            The subject of the message. Supported HTTP methods.
+            GET: This field will be returned.
+        personSenderId:
+          type: integer
+          description: |
+            The identifier of the person sender of this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: int64
+        personnelSenderId:
+          type: integer
+          description: |
+            The identifier of the personnel sender of this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: int64
+        poolSenderId:
+          type: integer
+          description: |
+            The identifier of the pool sender of this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: int64
+        createDate:
+          type: string
+          description: |
+            The date the message was created. The ISO 8601 'Combined date and time in UTC' format is used to specify the date and time value, excluding milliseconds. Supported HTTP methods.
+            GET: This field will be returned.
+          format: date-time
+        reminderDate:
+          type: string
+          description: |
+            The reminder date of the message. The ISO 8601 'Combined date and time in UTC' format is used to specify the date and time value, excluding milliseconds. Supported HTTP methods.
+            GET: This field will be returned if available.
+          format: date-time
+        messageType:
+          type: string
+          description: |
+            The type of the message. Supported HTTP methods.
+            GET: This field will be returned.
+          enum:
+          - MESSAGE
+          - REMINDER
+        priority:
+          type: string
+          description: |
+            The priority of the message. Supported HTTP methods.
+            GET: This field will be returned.
+          enum:
+          - STAT
+          - ROUTINE
+        status:
+          type: string
+          description: |
+            The status of the message. Supported HTTP methods.
+            GET: This field will be returned.
+          enum:
+          - UNREAD
+          - OPENED
+          - ONHOLD
+          - DELETED
+          - UNKNOWN
+        attachments:
+          type: array
+          description: |
+            Array of attachment objects for this message. Supported HTTP methods.
+            GET@(/{authority}/patients/{patientId}/outbox/messages):The field will not be returned.
+            GET@(/{authority}/patients/{patientId}/outbox/messages/{messageIds}): The field will be returned on messages that have attachments.
+            GET@(/{authority}/patients/{patientId}/inbox/messages): The field will be returned on messages that have attachments.
+            GET@(/{authority}/patients/{patientId}/inbox/messages/{messageIds}): The field will be returned on messages that have attachments.
+          items:
+            $ref: '#/components/schemas/Attachment'
+        receivers:
+          type: array
+          description: |
+            Array of receivers for this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          items:
+            $ref: '#/components/schemas/Receiver'
+        ccReceivers:
+          type: array
+          description: |
+            Array of carbon copy receiver objects for this message. Supported HTTP methods.
+            GET: This field will be returned if available.
+          items:
+            $ref: '#/components/schemas/Receiver'
+        referenceId:
+          type: string
+          description: |
+            The reference identifier of this message. This identifier will be included in the Message referenceIds array of related messages when this message preceded the related message through links in a conversation. Supported HTTP methods.
+            GET: This field will be returned.
+        emailSender:
+          $ref: '#/components/schemas/EMail'
+        sensitivity:
+          $ref: '#/components/schemas/Sensitivity'
+        responsiblePersonnelId:
+          type: integer
+          description: |
+            The identifier of the personnel used for MU3 Reporting.
+            GET: This field will be returned if available.
+          format: int64
+      description: Light weight message.
+    Messages:
+      type: object
+      properties:
+        messages:
+          type: array
+          description: An array of MessageLite objects. May be empty.
+          items:
+            $ref: '#/components/schemas/MessageLite'
+      description: A collection of messages.
+    MessagesById:
+      type: object
+      properties:
+        messagesById:
+          type: object
+          additionalProperties:
+            $ref: '#/components/schemas/Message'
+          description: An array of Message objects keyed by a message identifier.
+            May be empty.
+      description: JSON representation of an array of Messages by identifier.
+    Pool:
+      type: object
+      properties:
+        id:
+          type: integer
+          format: int64
+        idUrl:
+          type: string
+        name:
+          type: string
+      description: Messaging pool which represents a shared inbox that can be worked
+        by multiple users.
+    PoolsById:
+      type: object
+      properties:
+        poolsById:
+          type: object
+          additionalProperties:
+            $ref: '#/components/schemas/Pool'
+          description: Pool keyed by a id identifier. May be empty.
+      description: Representation of pools by identifier.
+    PoolsByName:
+      type: object
+      properties:
+        poolsByName:
+          type: object
+          additionalProperties:
+            $ref: '#/components/schemas/Pool'
+          description: 'Pool keyed by a string pool name. May be empty. '
+      description: Representation of pools by name.
+    PostAttachment:
+      type: object
+      properties:
+        name:
+          type: string
+          description: |-
+            The name of the attachment. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is required and must be less than 256 characters. Otherwise, a 400/Bad Request status will be returned.
+        mediaIdentifier:
+          type: string
+          description: |-
+            The media identifier of the attachment. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is required and must be less than 256 characters. Otherwise, a 400/Bad Request status will be returned.
+        mediaVersion:
+          type: integer
+          description: |-
+            The media version of the attachment.Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is required and must be a positive integer. Otherwise, a 400/Bad Request status will be returned.
+          format: int32
+      description: Message Attachment
+    PostReceiver:
+      type: object
+      properties:
+        receiverId:
+          type: integer
+          description: |-
+            The identifier of the receiver. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): Must be populated with a non-zero id when the type is PERSONNEL or POOL. Otherwise, a 400/Bad Request status will be returned.
+          format: int64
+        type:
+          type: string
+          description: |-
+            The type of the receiver. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field must be set, and set to PERSONNEL, POOL, or EMAIL. If it is set to any other value, a 400/Bad Request status will be returned.
+          enum:
+          - PERSONNEL
+          - POOL
+          - PERSON
+          - EMAIL
+        email:
+          $ref: '#/components/schemas/EMail'
+      description: Recipient of a message.
+    Receiver:
+      type: object
+      properties:
+        receiverId:
+          type: integer
+          description: |
+            The identifier of the receiver. Supported HTTP methods.
+            GET@(/*): This field will be returned when the type is PERSON, PERSONNEL, or POOL.
+          format: int64
+        type:
+          type: string
+          description: |
+            The type of the receiver. Supported HTTP methods.
+            GET@(/*): This field will be returned.
+          enum:
+          - PERSONNEL
+          - POOL
+          - PERSON
+          - EMAIL
+        status:
+          type: string
+          description: |
+            The status of the receiver. Supported HTTP methods.
+            GET@(/*): This field will be returned.
+          enum:
+          - UNREAD
+          - OPENED
+          - ONHOLD
+          - DELETED
+          - UNKNOWN
+        email:
+          $ref: '#/components/schemas/EMail'
+      description: Recipient of a message.
+    RecipientAccessStatusByPersonnelId:
+      type: object
+      properties:
+        recipientAccessStatusByPersonnelId:
+          type: object
+          additionalProperties:
+            type: string
+            enum:
+            - GRANTED
+            - DENIED_CONFIGURATION
+          description: Recipient access status keyed by a string representing a personnel
+            identifier. May be empty.
+      description: Messaging access status by personnel identifier
+    RecipientAccessStatusByPoolId:
+      type: object
+      properties:
+        recipientAccessStatusByPoolId:
+          type: object
+          additionalProperties:
+            type: string
+            enum:
+            - GRANTED
+            - DENIED_CONFIGURATION
+          description: Strings representing a recipient access status keyed by pool
+            identifier representing a pool identifier. Will contain one item for every
+            poolId in the request.
+      description: Representation of recipient access by pool identifier.
+    SendMessage:
+      type: object
+      properties:
+        patientId:
+          type: integer
+          description: |-
+            The identifier of the patient associated to this message. Supported HTTP methods:
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is required when adding a message.The patient id must be identical to the patient id in the URI. Otherwise, a 400/Bad Request status will be returned.
+          format: int64
+        receivers:
+          type: array
+          description: |-
+            Array of PostReceivers for this message. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): At least one valid receiver or carbon copy receiver is required. If populated, then each receiver must have a receiverId and a type, otherwise, a 400/Bad Request status will be returned.
+          items:
+            $ref: '#/components/schemas/PostReceiver'
+        ccReceivers:
+          type: array
+          description: |-
+            Array of carbon copy receiver objects for this message. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): At least one valid receiver or carbon copy receiver is required. If populated, then each receiver must have a receiverId and a type, otherwise, a 400/Bad Request status will be returned.
+          items:
+            $ref: '#/components/schemas/PostReceiver'
+        previousMessageId:
+          type: string
+          description: |-
+            Identifier of the previous message in a thread of related messages. Supported HTTP methods:
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is optional.If populated, the transaction will attempt to read this previous message in order to properly link the new message to the previous message.If the previous message cannot be read, then a 400/Bad request status will be returned.In addition to linking to the previous message an encounter will be automatically determined when included on the previous message.If no encounter identifier is found, then the message will not include an encounter.
+        text:
+          type: string
+          description: |-
+            The text of this message in Rich Text Format or XHTML. Supported HTTP methods:
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is optional.
+        formatType:
+          type: string
+          description: "The identifier of the format type used for text.\nPOST@(/{authority}/patients/{patientId}/outbox/messages):\
+            \ If provided it must have message format type of XHTML or RTF\nIf set\
+            \ when text is not present, a 400/Bad Request status will be returned.\
+            \ If set to anything other than rtf or xhtml, a 400/Bad Request status\
+            \ will be returned. If set to xhtml with email receivers, a 400 Bad Request\
+            \ status will be returned. "
+          enum:
+          - UNKNOWN
+          - XHTML
+          - RTF
+        subject:
+          type: string
+          description: |-
+            The subject of the message. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field must be non-blank and less than 256 characters otherwise a 400/Bad Request status will be returned.
+        attachments:
+          type: array
+          description: |-
+            Array of PostAttachment objects for this message. Supported HTTP methods.
+            POST@(/{authority}/patients/{patientId}/outbox/messages):The field is optional. If populated, then each PostAttachment must have name, mediaIdentifier, and mediaVersion. Otherwise a 400/Bad Request status will be returned.
+          items:
+            $ref: '#/components/schemas/PostAttachment'
+        sensitivity:
+          $ref: '#/components/schemas/Sensitivity'
+        responsiblePersonnelId:
+          type: integer
+          description: "The identifier of the personnel used for MU3 Reporting.\n\
+            POST@(/{authority}/patients/{patientId}/outbox/messages): Accepted on\
+            \ a new message. For a reply on a previous message the underlying Service\
+            \ will determine the responsible personnel identifier.\nAnd if set for\
+            \ the reply, a 400/Bad Request status will be returned. "
+          format: int64
+      description: Message send by Patient.
+    Sensitivity:
+      type: object
+      properties:
+        portalUserUUIDs:
+          type: array
+          description: |-
+            User ids associated to the patient that may view / interact with the message. Supported HTTP methods.
+            GET@(/*): This field will be returned on messages that have associated portal user ids to limit message access.
+            POST@(/{authority}/patients/{patientId}/outbox/messages): This field is optional.
+          items:
+            type: string
+      description: Message sensitivity restricts access to the message for users having
+        access to patient account.
+x-original-swagger-version: "2.0"

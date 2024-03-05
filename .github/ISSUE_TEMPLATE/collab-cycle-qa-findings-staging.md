@@ -50,10 +50,11 @@ assignees: ''
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
 ---
-### VFS Guidance
 
-- Close the ticket when your Product Owner determines that you have sufficiently met the QA Standards.
-- If your team has additional questions or needs Platform help validating the issue, please comment on the ticket
+### Next Steps for the VFS team
+
+- [ ] **Questions?** For the most timely response, comment on Slack in your team channel tagging `@platform-governance-team-members` with any questions or to get help validating the issue.
+- [ ] **Close the ticket** when your Product Owner determines that you have sufficiently met the QA Standards.
 
 ### Platform directions
 - Update "Issue Title" to be of the form "QA Standards - VFS Team - VFS Product"

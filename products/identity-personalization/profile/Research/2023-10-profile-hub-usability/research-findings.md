@@ -6,7 +6,7 @@ Date: 11/06/2023
 
 Pam Drouin, pamela.drouin@a1msolutions.com
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](https://docs.google.com/presentation/d/1mhwXBpO1xas5kg9Y8jENZAnFpxKMjvdhfOt2kM1wj_A/edit#slide=id.g116ddecbd0a_0_634)
 
 **Jump to:**
 

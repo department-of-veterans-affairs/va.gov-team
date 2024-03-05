@@ -1,6 +1,54 @@
 # BTSSS on VA.gov Sprint Goals
 
-## 12/04/2023 - 12/15/2023
+## 2/11/2024-2/23/2024
+### Goals
+- Continue integration prep, including how auth interacts with integration
+- Share out results from research and determine action items resulting from research readout
+
+### Notes
+
+- Product lead started 2/1/24, currently onboarding
+- Authentication discussions around which solutions will be in place still pending
+- We will be closed for the 2/19 holiday
+
+## 1/29/2024 - 2/9/2024
+### Goals
+- Prep for integration
+- Monitor research progress
+
+### Notes
+- Discussion 1/30/24 between VA.gov and API teams - impact of VA network requirements for integration
+  - Tickets resulting from meeting anticipated to be included in this sprint
+- Product Lead starting 2/1/24
+
+
+## 1/15/2024 - 1/26/2024
+### Goals
+- Finalize research artifacts and scheduling
+
+### Notes
+- Holiday 1/15/2024
+
+## 1/1/2024 - 1/12/2024
+### Goals
+- Prep for research study: research plan draft, conversation guide draft, coordination with Perigean
+- Decision: Assumption for where the status of a claim will display
+
+### Notes
+- Holiday 1/2/2024
+- Collab cycle - partial Research Review (with Shane)
+
+## 12/18/2023 - 12/29/2023
+### Goals
+- Wrap up in progress work
+- Prep for research in the new year
+- Decision: Assumption for where the status of a claim will display
+
+### Notes
+- Limited capacity with Christmas holiday and additional team PTO
+  - Sprint review cancelled for holiday OOO so work will be incorporated in next sprint review
+
+## 12/4/2023 - 12/15/2023
 ### Goals
 - Identify claim experience gaps in effort to:
   - Decide "first feature" for development VA.gov
@@ -11,7 +59,7 @@
 - This sprint is the first sprint of Initiative 2.0 in the overall project timeline
 
 
-## 11/20/2023 - 12/01/2023
+## 11/20/2023 - 12/1/2023
 ### Goals
 - Identify claim experience gaps in effort to:
   - Decide "first feature" for development VA.gov
@@ -24,7 +72,7 @@
 - This sprint is the last sprint of Initiative 1.0 in the overall project timeline
 
 
-## 11/06/2023 - 11/17/2023
+## 11/6/2023 - 11/17/2023
 ### Goals
 - Decide "first feature" for VA.gov
   - Determine partnering teams, if applicable

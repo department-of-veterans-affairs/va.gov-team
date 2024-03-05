@@ -1,32 +1,34 @@
 # Dynamic content in Drupal: Implementation and removal process
 
 ## Goal
-To allow product teams to feature dynamic content as needed for UAT testing and staged rollouts. Then to move content back into Drupal once a product team has completed UAT testing/staged rollout. This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows the sitewide content, accessibility, and IA team to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.
+To allow product teams to feature dynamic content as needed for user acceptance testing (UAT) and staged rollouts. Then to move content back into Drupal once a product team has completed UAT testing/staged rollout. This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows the sitewide content, accessibility, and IA team to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.
+
+## Relevant terms
+
+**Dynamic content:** Content that changes depending on the user's state or a feature toggle. We talk about "dynamic content" in relation to "static content," which is the default type of content in Drupal. 
+
+**React widget:** Content that is dynamic. Developers create a widget in React and provide a code to the CAIA team. 
+
+**Feature toggle** or **flipper:** A feature that the product team uses to control how the dynamic content is displayed. 
+
+
 
 ## How the sitewide content, accessibility, and IA team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
 
-1. The product team works with the sitewide content, accessibility, and IA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content. The teams discuss what content is shown when the feature toggle is on and what content is shown when the feature toggle is off. 
-
-2.	The product team creates a react widget with the dynamic content. The sitewide content, accessibility, and IA team provides this content in the product team's ticket for building the widget. If there needs to be different content in the widget for when the feature toggle is off, sitewide content, accessibility, and IA notes this. The react widget needs to be pushed to production before it's given to the sitewide content, accessibility, and IA team. 
-
-3.	The product team provides the sitewide content, accessibility, and IA team with the react widget code, and the sitewide content, accessibility, and IA team adds the react widget to the Drupal node. This will entail moving some content out of Drupal content blocks. The sitewide content, accessibility, and IA team should ensure that the new page with react widget matches the mockup page that the product team has provided. If there are 2 versions of content, the sitewide content, accessibility, and IA team should make sure they review both sides. At this point the react widget will only be visible on the Drupal preview server and not on staging. 
-
-4.	The product team creates a feature toggle to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools/blob/84d7f6201f7ada7e4167fac82807414c700df75d/packages/documentation/src/pages/platform/tools/feature-toggles.mdx)
-
-5.	The product team launches their product and once they've ensured it is working properly, the sitewide content, accessibility, and IA team publishes the Drupal node with the react widget on it. 
-
-6.	Once the product fully launches to 100% of users, the sitewide content, accessibility, and IA team removes the react widget and puts the content and CTA button back into regular rich text fields within Drupal. 
-
-## Steps to ensuring content moves back into Drupal in a timely manner
-
-1.	When adding the react widget, the sitewide content, accessibility, and IA team PM creates a ticket with an estimated date for widget removal. The product team provides the date based on full launch to 100% of users.
-
-2.	One week prior to the estimated full launch date, the sitewide content, accessibility, and IA team PM confirms the date with the product team and adjusts the timing if needed.
-
-3.	When the product team confirms that the product is launched to 100% of users, the sitewide content, accessibility, and IA team removes the react widget from the Drupal node and adds text and the CTA button back into a rich text field. 
-
-4.	The product team and needed SMEs review and confirm the changes.
-
-5.	The sitewide content, accessibility, and IA team publishes the Drupal node.
-
-6.	The sitewide content, accessibility, and IA team and product team validate that the CTA button on the live, updated page continues to point to the correct place.
+|Owner | Task|
+--|--
+| Product team | Open [Sitewide Content, Accessibility, and IA Intake Form issue ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) to describe the project, and notify team in #sitewide-content-ia with issue link. **Include any timing requirements/goals**, based on full launch to 100% of users. |
+| Sitewide CAIA team & Product team | The product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams discuss what content is shown when the feature toggle is on and what content is shown when the feature toggle is off. |
+| Sitewide CAIA team | Provide final copy via the issue. If different content should appear in the widget when the feature toggle is off, Sitewide CAIA notes this. |
+| Product team | Create a React widget in vets-website for the dynamic content. |
+| Product team | Create a feature toggle (Flipper) to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools/blob/84d7f6201f7ada7e4167fac82807414c700df75d/packages/documentation/src/pages/platform/tools/feature-toggles.mdx) |
+| Product team | Merge vets-website widget code and Feature toggle, & make sure they deploy and Feature toggle is disabled in both Staging and Prod. |
+| Product team | Share the react widget ID with Sitewide CAIA team in the issue. |
+| Sitewide CAIA team | **One week prior to estimated full launch date**, Sitewide Content team confirms date with product team and adjusts timing if needed. |
+| Sitewide CAIA team | Add the react widget ID to the Drupal page, as a React widget content block, and confirm with Product team if the widget should be a CTA or not. This step will entail moving some content out of Drupal content blocks. Sitewide CAIA should ensure that the new page with react widget matches the mockup page that the product team has provided. | 
+| Product team | If the Feature toggle is a boolean, enable the Feature Toggle on Staging for review & signoff before enabling on Prod. If the Feature toggle is for % rollout, monitor during rollout. |
+| Product team | **On launch:** Notify Sitewide CAIA team when product is 100% launched. |
+| Sitewide CAIA team | **On launch:** If the launch is a temporary widget: Once the product fully launches to 100% of users, remove the react widget and put the content and CTA action link back into regular rich text fields within Drupal. Sitewide CAIA team editor reviews and approves changes. |
+| Product team | Product team and SMEs review and confirm changes. |
+| Sitewide CAIA team | Publish page. Sitewide CAIA team and Product team validate that CTA action link on live, updated page continues to point to correct place. |
+| Product team | Deprecate the flipper / remove related code. |

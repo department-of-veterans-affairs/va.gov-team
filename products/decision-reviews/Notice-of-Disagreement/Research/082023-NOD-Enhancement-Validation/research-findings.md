@@ -1,12 +1,12 @@
 # Request a Board Appeal Enhancement Validation
 
 **Office of the CTO - Digital Experience (OCTO-DE), Decision Reviews, Benefits Decision Reviews**
-
 Date: 10/2023
 
 Ruben Sun [ruben@coforma.io](ruben@coforma.io)
 
 **Jump to:**
+
 
 [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/082023-NOD-Enhancement-Validation/research-findings.md#hypotheses-and-conclusions)
 
@@ -104,6 +104,12 @@ Gather feedback surrounding the relevance of usability of proposed enhancements
 - Between the various enhancements proposed (revised instructional page, inclusion of issue details, enhanced navigation, and enhanced review page), which enhancements stand to have the greatest impact in bolstering Veteran confidence with their appeal submission? Why?
 
 ## Hypotheses and Conclusions
+
+### Research Reports
+- [2023.09 NOD Enhancement Validation — OCTO.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13956856/2023.09.NOD.Enhancement.Validation.OCTO.pptx)
+- [2023.09 NOD Enhancement Validation — Internal.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13956855/2023.09.NOD.Enhancement.Validation.Internal.pptx)
+- [2023.09 NOD Enhancement Validation — Forms.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13956854/2023.09.NOD.Enhancement.Validation.Forms.pptx)
+- [NOD Enhancement Validation Task Analysis.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/13956857/NOD.Enhancement.Validation.Task.Analysis.xlsx)
 
 ### **Context and Expectation-Setting Enhancements**
 

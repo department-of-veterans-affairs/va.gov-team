@@ -9,9 +9,7 @@ These pages start all scheduling flows
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/type-of-care`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment`
+URL: `https://va.gov/my-health/appointments/schedule/type-of-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -66,9 +64,7 @@ Find a VA location
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/sleep-care`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care`
+URL: `https://va.gov/my-health/appointments/schedule/sleep-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -101,9 +97,7 @@ This includes an office visit for the diagnosis and treatment of sleep problems,
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/eye-care`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care`
+URL: `https://va.gov/my-health/appointments/schedule/eye-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -136,9 +130,7 @@ You can schedule an appointment with an ophthalmology specialist to diagnose and
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/audiology-care`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/audiology`
+URL: `https://va.gov/my-health/appointments/schedule/audiology-care`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -171,9 +163,7 @@ This includes an office visit for Veterans who already have a hearing aid and ne
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/facility-type`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-facility-type`
+URL: `https://va.gov/my-health/appointments/schedule/facility-type`
 
 Page title: `[Page Header] | Veterans Affairs`
 

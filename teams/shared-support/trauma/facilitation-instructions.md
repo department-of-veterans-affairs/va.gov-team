@@ -1,7 +1,7 @@
 # Facilitation Instructions
-Signed up to facilitate or scribe a small group or event? We got you covered. Thank you for helping us grow our community ✨
+Signed up to facilitate or scribe a Community of Practice meeting? We got you covered. Thank you for helping us grow our community ✨
 
-## Big Meetings
+## Community of Practice meetings
 
 ### Facilitators
 1. [**Review our community guidelines.**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md) 
@@ -12,7 +12,7 @@ Signed up to facilitate or scribe a small group or event? We got you covered. Th
 6. **Remind the group of our community guidelines.** Pick out a couple of guidelines to share and remind the group to (a) give it a read when they have bandwidth and (b) provide feedback and changes at any time.
 7. **Invite new attendees to introduce themselves in [the meeting doc](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit#)** Be sure to say this is completely optional.
 8. **Review the topics of the week** in the order they were added (or by importance).
-9. **Find a facilitator for the next sync, if needed.** Everyone should get an opt-in shot at facilitating the big meeting. If you can’t find someone, you’ll be responsible for running it next time.
+9. **Find a facilitator for the next Community of Practice meeting, if needed.** Everyone should get an opt-in shot at facilitating the big meeting. If you can’t find someone, you’ll be responsible for running it next time.
 10. [**Add yourself to our record of facilitator service.**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) Our meetings are possible thanks to volunteers like you, and we want to publicly thank you for your service! Note: this is 100% optional. 
 
 ### Scribes
@@ -26,9 +26,9 @@ Signed up to facilitate or scribe a small group or event? We got you covered. Th
   - Update the [notes readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/readme.md) with the latest meeting and a link to the notes
   - Email the shared learnings to everyone who is signed up for our big meetings
   - Post the shared learnings to our #trauma-practice channel
-8. **Find a scribe for the next sync.** Everyone should get an opt-in shot at scribing the big meeting. If you can’t find someone, you’ll be responsible for running it next time.
+8. **Find a scribe for the next Community of Practice meeting.** Everyone should get an opt-in shot at scribing the big meeting. If you can’t find someone, you’ll be responsible for running it next time.
 9. [**Add yourself to our record of scribe service.**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma) Our meetings are possible thanks to volunteers like you, and we want to publicly thank you for your service! Note: this is 100% optional. 
 
-## Small groups (work in progress)
-Needs a volunteer
+## Practice Circles
 
+This is a new meeting that is currently led by a person or a small group of people with experience in trauma-informed design, with no public notes taken.

@@ -6,6 +6,11 @@ April 2022: Public Websites products are currently maintained by the [Sitewide P
 
 VA Product Owner = Dave Conlon (@davidconlon)
 
+### Intake
+If you need help with a product listed below, file a [Public websites intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2CFranECross&labels=Public+Websites%2CNeeds+refining&projects=&template=public-websites-intake.yml&title=PW+intake%3A+%3CType+of+Request%3E+from+%3CTeam%3E) and post the link to the team's slack channel, listed below. 
+
+All requests will be refined and planned according to other team priorities, so please make us aware of your timing requirements as soon as you're able, for urgent requests.
+
 ### Slack
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
@@ -17,7 +22,7 @@ VA Product Owner = Dave Conlon (@davidconlon)
 [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
-* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page/engineering)
+* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/engineering)
 * Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
@@ -30,19 +35,20 @@ Monitors for each product are described within product folders. e.g.
 
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
-| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge update wizard](#discharge-update-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
-| [Benefits Detail Page](#benefits-detail-page) | [General VA.gov unauth UI](#general-vagov-unauth-ui) | [Disability rating calculator](#disability-rating-calculator) |
-| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Downtime messaging](#downtime-messaging) |
-| [Events List](#events-list) | [Header / footer injection](#header--footer-injection) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [Event](#event-detail-page) | [Income limits web application](#income-limits-web-application) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
-| [FAQ Page](#faq-page) | [Non-facility Redirects](#non-facility-redirects) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [React widgets use within CMS](#react-widgets-governance) |
-| [Full-width Alert](#full-width-alert) | [On-site search (using search.gov)](#on-site-search-using-searchgov)  | . |
-| [VA.gov Homepage](#vagov-homepage) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets) | . |
-| [Promo Banner](#promo-banner) | [Unauthed React healthcare widgets](#unauthed-react-widgets) |  .  |
-| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) | . |
+| [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge upgrade wizard](#discharge-upgrade-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
+| [Benefits Detail Page](#benefits-detail-page) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Disability rating calculator](#disability-rating-calculator) |
+| [Campaign Landing Pages](#campaign-landing-pages-clp) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging) |
+| [Events List](#events-list) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
+| [Event](#event-detail-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
+| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
+| [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
+| [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
+| [Promo Banner](#promo-banner) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
+| [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
+| [VA Benefits taxonomy](#va-benefits-taxonomy)
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
@@ -50,7 +56,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 * 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
 * 11/2023: [Shadow / dark launches of content](#shadow--dark-launches-of-content) - Transitioned to CMS team for long term ownership. Docs will be removed from this page, TBD a new future home for CMS product docs.
-* 11/2023: [Yellow-ribbon tool](#yellow-ribbon-tool) moved to new IIR team. New docs home TBD.
+* 11/2023: [Yellow-ribbon tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/README.md) moved to new IIR team. 
 
 ---
 
@@ -76,7 +82,7 @@ Benefits hubs / detail pages feature strongly in the VA.gov header (aka the “m
 
 **More info:**
 * A6 program GDrive folder:[ Benefits Hubs](https://drive.google.com/drive/u/1/folders/1nvQwXSxHGqHdN6qgEUte5z2fXyJvRJxH)
-* [2018-2019 Benefit hub optimization effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub) (github)
+* [2018-2019 Benefit hub optimization effort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs) (github)
 * [VFS Product Directory: Benefits Hubs](https://depo-platform-documentation.scrollhelp.site/getting-started/benefits-hubs)
 
 
@@ -292,7 +298,7 @@ aka: Banner, in the CMS
 * [Knowledge Base](https://staging.cms.va.gov/node/34828)
 * Previous docs/ initiatives: 
    * Q42021 notes re: character count / governance, name change to full-width alert: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md) 
-   * Homepage-only banner needed for OPIA (Q1 2021) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) 
+   * Homepage-only banner needed for OPIA (Q1 2021) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md) 
    * Design considerations / use cases (Q2 2020) [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md) 
    * Initial build (Q2 2020): [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert) 
 
@@ -404,6 +410,8 @@ Public Websites team:
 * ES: https://www.va.gov/health-care/how-to-apply-esp/
 * EN: https://www.va.gov/health-care/after-you-apply/
 * ES: https://www.va.gov/health-care/after-you-apply-esp/
+* EN: https://www.va.gov/health-care/eligibility/
+* ES: https://www.va.gov/health-care/eligibility-esp/
 * EN: https://www.va.gov/disability/eligibility/
 * ES: https://www.va.gov/disability/eligibility-esp/
 * EN: https://www.va.gov/disability/how-to-file-claim/
@@ -421,9 +429,27 @@ CAIA documentation for translation widgets / requirements: [https://github.com/d
 * Q3 2022 project: Translation effort from Sitewide Content: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45053) 
 * [VFS Product Directory: Translated Pages](https://depo-platform-documentation.scrollhelp.site/getting-started/translated-pages)
 
+
+# VA Benefits Taxonomy
+https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
+Single source of truth for VA Benefits meta information, used by the Sitewide Content team through VA.gov benefits. 
+
+Taxonomy launched in 2023, in pilot use by CAIA for managing benefits information with intent to expand its use / association with other Benefits content coming from the Drupal CMS. Not yet incorporated in VA.gov frontend. 
+
 ---
 
 # Non-CMS content / products
+
+## Discharge upgrade wizard
+https://www.va.gov/discharge-upgrade-instructions
+
+The discharge upgrade wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview as of 2022. 
+
+Q1 2024 will include an [initiative to rebuild the tool using the DS sub-task pattern](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask), and to modernize content.
+
+**More info:**
+* [Discharge Upgrade wizard product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
+* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
 
 ## Shadow / dark launches of content
 
@@ -435,11 +461,15 @@ Docs will move to a new location, pending outcomes from https://github.com/depar
 Sometimes content generated by the Sitewide Content team, other teams, or just portions of a page may need to “dark launch” meaning: not be available to all site users in production. We have options for how to manage dark launches: 
 
 ### It is **not** currently possible to
-* stage CMS + content-build + vets-website changes on Tugboat. Tugboat only supports CMS + content-build: (#6434)[https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6434] is an open Platform CMS ask to enable this.
-* hide a specific CMS node from robots.txt & the sitemap. Not ticketed, and would/will require custom code.
+* Hide a specific CMS node from robots.txt & the sitemap. Not ticketed, and would/will require custom code.
+* Display a CMS-generated page to a % of users for incremental launch.
 
 ### It IS currently possible to
-#### 1. Use vets-api “Flipper” feature toggles to show / hide page sections or react widgets (vets-website changes)
+
+#### 1. Use Tugboat to preview CMS + content-build + vets-website changes together.
+* In the `/admin/content/deploy` Release Content interface on Tugboat, you can specify a content-build and/or a vets-website branch, to get a full feature preview in Tugboat frontend.
+
+#### 2. Use vets-api “Flipper” feature toggles to show / hide page sections or react widgets (vets-website changes)
 
 - https://api.va.gov/flipper/features – to login: you must have a verified ID.me account using your VA.gov email address (as primary or secondary email) 
 - https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles 
@@ -456,12 +486,12 @@ A good summary of how to flipper: https://github.com/department-of-veterans-affa
 
 Flippers are typically using javascript, and do not require a code deploy to enable / change settings.
 
-#### 2. Write custom vets-website code to control traffic to unauthenticated element / widget
+#### 3. Write custom vets-website code to control traffic to unauthenticated element / widget
 With the release of chatbot, custom code was written to allow % traffic gating for unauthenticated visitors to the chatbot  React widget.
 * Add contact chatbot CTA widget[#20280](https://github.com/department-of-veterans-affairs/vets-website/pull/20280), [PR](https://github.com/department-of-veterans-affairs/vets-website/commit/aeedb0e664c7e265ae8b0ffc9533d5d3108635ad)
 * Render the content to a % of users: [#21363](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21363); [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/20378)
 
-#### 3. Publish a CMS page only to Staging (using EntityQueue) in order to stage CMS + content-build + vets-website for viewing off of VA network
+#### 4. Publish a CMS page only to Staging (using EntityQueue) in order to stage CMS + content-build + vets-website for viewing off of VA network
 Typically, when a CMS page is published, it publishes to production. 
 However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ by using EntityQueue. This is useful to allow previewing a new CMS page that includes a React widget (aka vets-website code), before it reaches production for user acceptance testing (by off-network users) or stakeholder approval. CMS team does not want to get in the habit of having staged nodes that will not publish, so this method should only be used for business cases that warrant it, at Public Websites PO's discretion.
 
@@ -492,7 +522,7 @@ NOTES:
 - BE: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10375
 
 
-#### 4. Use CMS feature flags to show / hide fields or portions of templates in content-build
+#### 5. Use CMS feature flags to show / hide fields or portions of templates in content-build
 - CMS docs https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/interfaces.md#featureflags 
 - Front-end usage docs: https://github.com/department-of-veterans-affairs/vspwiki/blob/master/frontend/pages/platform/tools/feature-toggles.md#testing-cms-feature-toggles 
 
@@ -504,7 +534,7 @@ For example, if a new feature is launching, that calls new fields / exposes new 
 We try to avoid page-specific templates, so for example, we would not advocate controlling launch of content for a single page using this method. This is more a content type level option.
 
 
-#### 5. Use content-build environment checks to publish a static page only to staging
+#### 6. Use content-build environment checks to publish a static page only to staging
 This only applies to static pages, not CMS content. In content-build, we can exclude a static page from production builds.
 
 PW team has done this twice: 
@@ -630,9 +660,8 @@ Facilities team can handle redirects for Facility URLs / content.
 
 **What is:**
 
-Public Websites manages the unauthed version of 5 React Healthcare widgets related to Veteran benefits:
-
-* refill prescription
+Public Websites manages a React application for a CTA widget that appears on 5 Health care tool landing pages: 
+* refill prescriptions
 * make appointment
 * get VA medical records
 * send secure message
@@ -643,20 +672,26 @@ Calls to action on these widgets point users to the Electronic Healthcare Record
 * Oracle Health (formerly Cerner) - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner (at the time) through 2022; migrations on pause as of July 2022. For Veterans who have patient records at an Oracle Health facility, CTAs that point to Oracle Health will also appear and take those users out to Oracle Health's digital platform.
 * MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Oracle Health data is pulled in via APIs.
 
-As other Health care teams are updating these CTAs, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
+As Health care tool teams are updating landing pages or CTA actions to point to MyHealtheVet on VA.gov, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
+
+**Other unauthed react widgets**
+* BTSSS - Epic where it was created: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9157
+* Travel Pay -
+
+Beneficiary travel has its own product team now that should be coordinated with for changes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/README.md
 
 **Governance / Content:**
 
+* [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
+* Epic tracking the plan to transition ownership of the CTA React widget from Public Websites to Health Tools teams: department-of-veterans-affairs/va.gov-cms#16547
 * Content is provided by Sitewide Content team
 * Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
 
 **More info:**
-* A6 program GDrive folder:[ React Widgets](https://drive.google.com/drive/u/1/folders/1BnLFus_BECGARlCfoSKKexaGe7KiLqzo)
 * [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
 * [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
-* **Q2/Q3 2022 project:** Active effort to replace old hard coded data file with Drupal as source of truth for which healthcare records management system is used by a VA medical center system. 
-   * [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github)
-* Oracle Health cutovers have been complex and no additional facilities will move to Oracle Health in 2022. Oracle Health cutovers should resume in 2023.
+* [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github) - to determine which healthcare records management system is used by a VA medical center system 
+* Oracle Health / Cerner cutovers were paused in 2022 and may resume in 2024.
 
 
 ## VA.gov Homepage
@@ -673,9 +708,9 @@ The homepage includes links to key traffic areas of the site. These links are re
 * URL: [https://www.va.gov/](https://www.va.gov/) 
 
 **More info:**
-* Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page
-* A6 program GDrive folder:[ Homepage](https://drive.google.com/drive/u/1/folders/1a-dg6-nWuqNTxO9lds4iqWHo5DxYj_z8)
-* **Q2/Q3 2022 project:**[Homepage redesign iteration:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/home-page-redesign-initiative/README.md#home-page-redesign-iteration) design refresh underway, prototype in staging.  Q3 user testing & will lead to design / build iteration for further testing. 
+* Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page
+* A6 program GDrive folder:[Homepage](https://drive.google.com/drive/u/1/folders/1a-dg6-nWuqNTxO9lds4iqWHo5DxYj_z8)
+* [2022 Homepage redesign iteration:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/initiatives/2022-home-page-redesign-initiative/README.md#home-page-redesign-iteration) design refresh 
    * [[Epic] VA.gov Home page redesign #40845](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40845) 
 * 2022 Top Tasks unmoderated research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md) 
 * 2022 Top Tasks moderated research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md)
@@ -688,47 +723,16 @@ The Veterans Crisis Line is a critical feature of VA.gov. Public Websites suppor
 
 ![3](https://user-images.githubusercontent.com/85581471/186541162-283bd768-1af2-420c-b6ae-ac80047500a3.png)
 
-
-
-## General VA.gov unauth UI
-
-**What is:**
-
-Catch-all for anything else within VA.gov that unauthenticated Veterans / caregivers can access / experience. 
-
-
-## Yellow-ribbon tool
-
-**What is:**
-
-Listing of schools that participate in the Yellow Ribbon program. Data previously stored in CSV is now stored in GIDS
-
-[https://github.com/department-of-veterans-affairs/va.gov-team/issues/4349#issuecomment-570250583](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4349#issuecomment-570250583) 
-
-**Example translated content:**
-* URL: [https://www.va.gov/education/yellow-ribbon-participating-schools/](https://www.va.gov/education/yellow-ribbon-participating-schools/) 
-
-**More info:**
-* Original epic: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/3703](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3703) 
-* CMS work: [https://va-gov.atlassian.net/browse/VAGOV-5974](https://va-gov.atlassian.net/browse/VAGOV-5974) 
-* Use of vets-api to connect to GIDS endpoint for data: 
-   * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/5599](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5599)
-   * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/5608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5608) 
-* [VFS Product Directory: Yellow ribbon tool](https://depo-platform-documentation.scrollhelp.site/getting-started/yellow-ribbon-tool)
-
-
 ---
 
 # Previous PW Projects
 
-Projects the previous PW team worked on, but no work remaining for our team (so far). 
+Projects the previous PW team worked on, that are in maintenance mode to date. 
 
 
 ## Appeal Modernization Process
 
-[https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up) 
-
-
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/AMA-follow-up/AMA%20Follow%20Up%20Product%20Outline.md
 
 * Affected pages: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/7521#issuecomment-611102928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7521#issuecomment-611102928) 
 * 508 defects: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/7647](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7647) 
@@ -736,18 +740,16 @@ Projects the previous PW team worked on, but no work remaining for our team (so 
 
 ## Disability rating calculator
 
-[https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/rated-disabilities) 
-
-## Discharge update wizard
-https://www.va.gov/discharge-upgrade-instructions/questions
-
-The discharge update wizard was written by the Decision Tools team. That team transitioned responsibility to the Search & Discovery Team, which has since become Public Websites purview. 
-
-**More info:**
-* [Discharge Update wizard product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
-* [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
+Product: https://www.va.gov/disability/about-disability-ratings/
+Docs: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/ratings-calculator/README.md (tl;dr: they're empty as of 12/2023)
 
 ## Downtime messaging
+
+When sites or apps go down, there are 2 ways to handle downtime: 
+1. Using formal downtime notifications that can be set up in PagerDuty, if your app has an external API dependency.
+2. Using a full-width banner (CMS content type) that can publish to specific pages in VA.gov.
+
+When using a full-width banner, Public Websites maintains the content type itself. If you are simply publishing a new banner for a downtime, activity should be managed with Sitewide Content, Accessibility, and IA who govern content for individual banners. 
 
 Platform docs: 
 * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/scheduled-downtime-process.md 
@@ -786,13 +788,18 @@ Education: owned by EDU team
 
 Higher-level review: [owned by Benefits team](https://depo-platform-documentation.scrollhelp.site/getting-started/higher-level-review)
 * This url (https://www.va.gov/decision-reviews/higher-level-review/) links to url with actual 1-question, wizard here: https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start
-
+* Product docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review
 
 More info:
-* [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards) 
+* [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards) 
 
 
 ## React widgets use within CMS
+
+Product teams may want to integrate a vets-website React widget into CMS pages. When that's required, product teams work with CAIA regarding content, and integration into content pages. 
+Public Websites helps support the mechanism that allows React widget integration into the CMS pages. (This should probably move to the CMS team someday.)
+
+Sitewide content team documentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md
 
 [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919)
 
@@ -805,9 +812,6 @@ Transformers for specific CMS fields / templates: [https://github.com/department
 
 
 ## Old epics of opportunistic work
-
-
-
 * Site improvements: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/2589](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2589) 
 * CLP leftovers from launch: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4621)
 * Downtime notifications - [https://github.com/department-of-veterans-affairs/va.gov-team/issues/4799](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4799)

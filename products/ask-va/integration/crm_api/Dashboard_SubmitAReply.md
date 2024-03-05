@@ -16,6 +16,7 @@
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|User ICN|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
 
 
 **Body**:
@@ -82,3 +83,7 @@
 </table>
 
 ## Notes
+
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+ 

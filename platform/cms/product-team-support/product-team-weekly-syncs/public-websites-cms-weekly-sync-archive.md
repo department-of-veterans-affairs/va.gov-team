@@ -35,7 +35,7 @@
   * what is the business process to archive, redirect, un-archive, un-redirect, etc. 
   * [How to clone documentation](https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page) 
 * Homepage banner
-  * John has completed a [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) based on experience from July 3
+  * John has completed a [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md) based on experience from July 3
     * Short term: Need to make sure the existing process is shored up and not 
     * Long term: CMS
 * Events

@@ -1,10 +1,11 @@
-Proactive CSP migration research findings
-Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team
-> **Date: 05/31/2023**
-
-Clayton Zook clayton.zook@oddball.io, Amanda Porter ajohnson@clarityinnovates.com, Charlye Tran charlye@bluetiger.digital
-
-> **[Research readout slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e6795e2ecf0ddebf3b35e0d7add08031937db258/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/Proactive%20Migration%20Research%20Readout.pdf)**
+# 2023-04 Proactive CSP migration research findings
+**Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team**
+- Date: May 31, 2023
+- [Research readout slide deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/e6795e2ecf0ddebf3b35e0d7add08031937db258/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/Proactive%20Migration%20Research%20Readout.pdf)
+- Researchers
+   - Clayton Zook clayton.zook@oddball.io
+   - Amanda Porter ajohnson@clarityinnovates.com
+   - Charlye Tran charlye@bluetiger.digital
 
 **Jump to:**
 

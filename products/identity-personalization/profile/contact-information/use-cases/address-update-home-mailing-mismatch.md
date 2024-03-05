@@ -1,11 +1,12 @@
 # Contact information: Home address is updated but does not match Mailing address
-**Last updated:** September 21, 2023
+**Last updated:** February 14, 2024
 
 If a user updates their Home address and it does not match their Mailing address, they will be prompted to review and update their Mailing address. Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
 
 - [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/initiative-brief.md)
 - [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/documentation.md) 
-- User flow and mock-up can be reviewed in the Behavior section of the [mobile canvas](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/32C331B8-812D-46FE-AF7D-DCA63C881713/canvas) (B-7, B-7.1, B-7.2)
+- User flow and mock-up can be reviewed in the Behavior section of the [mobile canvas](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A365&mode=design&t=rqPFqCwnOiocoCbM-1) (B-7, B-7.1, B-7.2)
+
 ## UX
 - Uses the [modal](https://design.va.gov/components/modal) from the VA design system
 - Address change modal is triggered only when an update is made to the home address, and the update does not match the mailing address.
@@ -22,24 +23,20 @@ If a user updates their Home address and it does not match their Mailing address
 
 ### User has updated home address, and mailing address in profile doesn’t match
 - Modal appears showing user two different addresses, asking if mailing should be updated to match home
-- [Desktop mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL2Kvm2)
-- [Mobile mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/My2J4Zb)
+- [Desktop mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1007&mode=design&t=rqPFqCwnOiocoCbM-11)
+- [Mobile mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-605&mode=design&t=rqPFqCwnOiocoCbM-11)
 
 ### Successful update
 - Once the user has made a selection in the modal, they’ll see a confirmation message with a close button.
 - After closing the modal, success alert will display in the relevant sections.
-- [Desktop mock-up, success modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/jgvoJ2z)
-- [Mobile mock-up, success modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/527MKkp)
-- [Desktop mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/zx2qQ2e)
-- [Mobile mock-up, success alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/uuid/317C166F-E508-4490-97EF-EC4FA902748A)
+- [Success modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1024&mode=design&t=fhDeYYDloWNkE2q5-11)
+- [Success alert examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#saving-information) 
 
 ### Save error
 - If the mailing address update can’t be completed, , they’ll see an error message with a close button.
 - After closing the modal, error alert will display in the mailing address section.
-- [Desktop mock-up, error modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kaZqpZo)
-- [Mobile mock-up, error modal](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/VrAWEG8)
-- [Desktop mock-up, error alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/1KEOeG8)
-- [Mobile mock-up, error alert](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/EL7DyKd)
+- [Error modal mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1014&mode=design&t=6iSkKX2l8PqjFaHd-11)
+- [Save error examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#save-error-information-cant-be-saved)
 
 
 ## Codes

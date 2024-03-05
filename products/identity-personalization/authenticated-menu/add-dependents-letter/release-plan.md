@@ -64,25 +64,6 @@ PM and PO will monitor analytics. If the team notices a spike in errors, they wi
 | Launch to 100% | 9/18/2023 | 10/4/2023 |
 
 
-### 1-week results at 100%
-||Results|
-|---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
-
-
-### 1-month results at 100%
-||Results|
-|---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
-
 ## Post-launch Questions 
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 

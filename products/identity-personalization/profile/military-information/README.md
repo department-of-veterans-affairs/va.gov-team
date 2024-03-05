@@ -72,8 +72,8 @@ The following provides a description of the different termination reason codes:
 - "W" Not Applicable
 
 ## Design and UX
-- [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [Mockups and user flow](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=1%3A6319&mode=design&t=99v2c611QVhoppFc-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
-- [User flow on mobile page of Sketch files has u](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/p/D6D40E33-BC4E-4A06-90C7-879C59AD49F4/canvas)
+
 
 ## Frontend 

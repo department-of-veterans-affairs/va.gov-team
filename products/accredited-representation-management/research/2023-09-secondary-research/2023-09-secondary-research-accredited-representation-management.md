@@ -366,14 +366,14 @@ Any questions unable to be answered through Secondary Research are recommended t
 3. Provide **direct and actionable information** on search results so Veterans can select a representative that best suits their needs.
     - **NEW Include when available**; representative specialty, gender, directions, call link, hours of operation, representatives detail page, and results in relation to the Veterans location.
         - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
-        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
         - [2020/05 Power of Attorney and Payment History Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
         - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
         - [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
         - [2019/11 Facility Locator Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
     - Recommend **reducing the size of the map** on the desktop view to make room for more information as users tended to start with the list then refer to the map. Or simply used an external search engine to find facilities.
         - [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
-        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
         - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
         - [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
     - Ensure that **information is correct** and **up to date** to maintain trust with Veterans.
@@ -382,7 +382,7 @@ Any questions unable to be answered through Secondary Research are recommended t
     - If 'No Results' occurs, **provide clear, actionable next steps**.
         - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
     - On mobile, make the map/list tab **easily accessible to users at all times** as users tend to miss it.
-        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
 
 **Veteran Key Finding 3**
 
@@ -488,7 +488,7 @@ There were several questions that I was unable to answer based on secondary rese
   23. [2021/06 HLR Opt-In Legacy Issues](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-06-Higher-Level-Review-Opt-In-Legacy-Issues-with-Claims-Assistants/20210608HLROpt-InLegacyIssuesReport-300621-1251-8.pdf)
   24. [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
   25. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
-  26. [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/mobile-experience/research-findings.md)
+  26. [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
   27. [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
   28. [2020/09 Notice of Disagreement (NOD) SME Interviews](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-09-Notice-of-Disagreement-SME-Interviews-Research-Report)
   29. [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)

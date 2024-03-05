@@ -26,21 +26,22 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 
 ## Overview Checklist
 - Notes
-- [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
-    - [ ] Pre-release Testing
-    - [ ] Review Cases
+- [x] Phase I: Internal Testing and Review
+    - [x] Internal Testing and Review
+    - [x] Pre-release Testing
+    - [x] Review Cases
 - [ ] Phase II: Staged Rollout
-    - [ ] Canary
-    - [ ] Stage A: 1%
-    - [ ] Stage B: 5%
-    - [ ] Stage C: 10%
-    - [ ] Stage D: 25%
+    - [x] Canary
+    - [x] Stage A: 1%
+    - [x] Stage B: 5%
+    - [x] Stage C: 10%
+    - [x] Stage D: 25%
     - [ ] Stage E: 50%
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
 
 ## Notes
+- Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25%
 
 - Potential Risks:
   - If LH breaks or our implementation is wrong, the user might not be able to submit because the translate action happens on the controller side. We would see it right away because we'd see user feedback right away because they wouldn't be able to submit. This is going to be part 2 of our dashboard (the #submit_all_claim dashboard would see that it's failed, and we could look to see if it's the direct_deposit call that's failing.) We'd see it right away because it's part of the foreground controller level rather than in a background job or prefill, etc. Mitigation would depend on the issue. Our only mitigation is our dashboards to see if a controller-level submission is failing. The code doesn't have any exception handling. 
@@ -55,63 +56,55 @@ TODO:
 ### Pre-release Testing
 - [x] Complete pre-launch tasks: N/A
 - [x] Inform Lighthouse about increased traffic for the direct deposit endpoint
-- [ ] Complete manual testing with production credentials in Argo and ensure that our provider and factory are working
-- [ ] Confirm K8 manifest repository has references to correct environment variable paths in AWS Parameter Store (dsvagovcloud)
-- [ ] Create and execute a Testrail test plan
+- [x] Complete manual testing with production credentials in Argo and ensure that our provider and factory are working
+- [x] Confirm K8 manifest repository has references to correct environment variable paths in AWS Parameter Store (dsvagovcloud)
+- [x] Create and execute a Testrail test plan
     - Pre-test link: https://dsvavsp.testrail.io/index.php?/cases/view/52565
     - Canary link: https://dsvavsp.testrail.io/index.php?/cases/view/52579
-- [ ] Complete Review Case below
+- [x] Complete Review Case below
 
 ### Review Cases
-- [ ] Does the existing DataDog monitoring have sufficient coverage?
-- [ ] Have a successful TestRail test plan been executed?
-- [ ] Do we have a point of contact on LH to coordinate with?
-- [ ] Has the team reviewed and timeboxed the release intervals?
-- [ ] Have PO(s) been made aware and approved of the plan? 
+- [x] Does the existing DataDog monitoring have sufficient coverage?
+- [x] Have a successful TestRail test plan been executed?
+- [x] Do we have a point of contact on LH to coordinate with?
+- [x] Has the team reviewed and timeboxed the release intervals?
+- [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/69391
 - Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: PPIU/Direct Deposit](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4?refresh_mode=sliding&from_ts=1700158863442&to_ts=1700162463442&live=true)
-- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles (below list TBD):
     - Robin Garrison, @Robin Garrison
-    - Mike Richard @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
-- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
     - If opting for asynchronous time:
-        - [ ] Note individual scheduled dates and times next to each identified user
-        - [ ] Note testing steps:
-            1. Login to your va.gov account in prod
-            2. Navigate to `va.gov/disability/file-disability-claim-form-21-526ez/start`
-            3. Answer the questions as follows:
-                "Are you on active duty right now?" > "No"
-                "I'm filing a new claim"
-                
-                Alternatively, skip the form by navigating to the "If you know X form is right, click here"
-            4. On the /introduction screen, select "Start the Disability Compensation Application"
-            5. On the first `/veteran-information` screen, please note for us
-                - The current time, date, and timezone
-                - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
-                - The city your browser is making the request from
-              
-            6. Press ‘Continue’
-            7. Under the “Step 1 of 5: Veteran Details” header, there should be a line with your Application ID number
-                - Please note your Application ID for us
-            8. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
-            9. Close your browser and repeat steps 2-4
-            10. On the first `/veteran-information` screen, please note the current time and date
-        - [ ] Record testing steps in TestRail
-        - [ ] Share testing steps with each user
-- [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+        - [x] Note individual scheduled dates and times next to each identified user
+        - [x] Note testing steps
+            - [ ] Make sure your testing steps include recording useful information and when to record them. At a minimum , this is usually:
+                - Their current time, date, and timezone
+                - Whether they have an existing submission, ITF, RDs, etc.
+                - The city your browser is making the request from (useful for helping to identify them in qualitative logs)
+                - An example recording step would be:
+                    10. On the first `/veteran-information` screen, please note the current time and date
+        - [x] Record testing steps in TestRail
+        - [x] Share testing steps with each user
+- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [ ] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
-- [ ] Ensure qualitatively that the feature works as intended for users
+- [x] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
 - [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
+        - We currently do not have a way to block adjudication on volunteer-submitted claims. Therefore, we can't safely have our prod users test submit flows unless they actually have a claim to process (unlikely)
+            - We will move to an RCT pattern to remediate this. This involves using a random selection of our actual users in combination with alerts to catch any errors that might occur
+                - RCT test largely successful
+            - Also looking into a feature-flagged block to adjudication in the submit logic, if possible
+                - Update to add feature flag: https://github.com/department-of-veterans-affairs/vets-api/pull/14901#pullrequestreview-1787286162
+
 
 <br>
 
@@ -152,13 +145,19 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase 
 #### Planning  
-- Date Started:
-- ZH Tracking:
-- Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 0.5%
+- Date Started: 1/4/2024
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/70826
+- Length of time: 3 days
+- Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
 - Anomalies
 - Rollbacks:
+    -       Rollback reason: Window of no traffic recorded, slightly higher overall error rate than expected based on EVSS side
+            Date: 1/5/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [x] Has the issue been resolved?
+            - Found this was due to a calculation error for LH error volume. Composite error volume has not changed
 
 <br>
 
@@ -171,14 +170,20 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 - Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - Anomalies:
+    - AE team noted PPIU activity directing to EVSS via the v0 controller. Notably, we currently don't direct anything through the controller, nor does the AE team. Need to investigate.
+        -  The referrer for these logs is the 526 form, possible we may have missed a controller call.
+        -  Determined not to be caused by our migration, but will investigate separately via the IIR team
+    - Noting a drop in activity on 1/14, checking if there was maintenance or an outage
+        - It appears that activity wasn't entirely blocked as a few requests made it through
 - Rollbacks:
+
 
 <br>
 
 
 ### Stage C: Another moderate ramp up
 #### Planning
-- Date Started:
+- Date Started: Skipped
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64555
 - Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
@@ -191,26 +196,41 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-- Date Started:
+- Date Started: 1/16/24
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64556
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
 - Anomalies:
 - Rollbacks:
+    -       Rollback reason: 
+            Date: 1/17/24
+            Severity/Impact: Medium
+            Ticket(s) created to address:
+            - [x] Has the issue been resolved?
+            - Composite errors rose ~1%, notably with a volume of `#initialize_payment_information Failed to retrieve PPIU data from LighthousePPIUProvider: undefined method `gsub' for nil:NilClass`
+                - Determined not to be caused by our migration; appears to have always been a silent issue. Will investigate separately from rollout
+
 
 <br>
 
 
 ### Stage E: High traffic
 #### Planning
-- Date Started:
+- Date Started: 1/25
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
-- Anomalies
+- Anomalies:
+    - Abnormally high volume of errors (~11%), almost all the known `gsub` error
 - Rollbacks:
+    -       Rollback reason: Though the gsub error occurs for both sides of the migration, the volume this time is concerning. Let's talk to platform and determine what we can do
+            Date: 1/29/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [] Has the issue been resolved?
+                - Determined not to be caused by our migration; appears to have always been a silent issue. Will investigate separately from rollout
 
 <br>
 

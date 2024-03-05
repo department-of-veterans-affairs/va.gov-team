@@ -46,6 +46,20 @@ Also noting from [Slack](https://dsva.slack.com/archives/CUB5X5MGF/p169531758894
 ## Alarming
 As of Oct 2023, Sentry will not email / post to Slack. So: we've set Datadog up to pull in Sentry data, in order to get alarms, e.g. the 3 monitors below.
 
+## Datadog: VA.gov find a form success rate below threshold
+https://vagov.ddog-gov.com/monitors/169456
+What is: 
+* Monitor that checks for 200 (success) responses from the `v0/forms` API endpoint
+* Alarms if success rates fall below 97%
+
+To triage: 
+* Scroll down to Status & History. Click-drag and highlight the red or orange warn/error timeframe, to zoom/highlight it
+* This will modify the date/timestamp in the "UTC" field right above the toolbar. Click in that field to highlight / copy the timeframe for use on other screens. 
+* Go to https://vagov.ddog-gov.com/apm/home?env=eks-prod
+  * Click through to vets-api, paste the timeframe - look for any big picture errors that might indicate vets-api latency is the problem
+  * Go back to APM Home, filter / click through to [Lighthouse Forms](https://vagov.ddog-gov.com/apm/services/lighthouse-forms/operations/rack.request/resources?env=eks-prod&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Ap95%29%2CtopN%3A%215%29%2Cversion%3A%211%29&summary=qson%3A%28data%3A%28visible%3A%21t%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21f%29%2Csublayer%3A%28slot%3A%28layers%3Aservice%29%2Cselected%3Apercentage%29%29%2Cversion%3A%211%29&view=spans&start=1704215278963&end=1704218878963&paused=false), paste the timeframe
+* Check for error states / API response errors / logs
+
 
 ## Datadog: Sentry Forms: Find Forms - Form Detail - onDownloadLink Click Error Monitor
 https://vagov.ddog-gov.com/monitors/165098

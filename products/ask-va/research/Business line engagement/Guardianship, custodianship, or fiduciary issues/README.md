@@ -9,7 +9,6 @@ Guardianship, custodianship, or fiduciary issues
 |Stakeholder|Business area|
 |:--|:--|
 |Jennifer Feuer|P&F (Pension & Fiduciary)|
-|Angelita Taylor|P&F (Pension & Fiduciary)|
 |Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements

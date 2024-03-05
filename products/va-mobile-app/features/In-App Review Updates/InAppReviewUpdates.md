@@ -81,7 +81,8 @@ We would like to prompt veterans to review the app after a number of meaningful 
 
 ## Open Questions
 
-* What do we need to learn before moving forward?
+* How does this one-off 'catch up' effort tie into a more holistic approach to user feedback in/about the app?
+* Can we capture metrics around: 1) what 7 events a user had when prompted, 2) what screen they were on when prompted, and 3) whether they said yes/no to reviewing the app at that point?
 
 #### Proposed list of 'review events' in the app
 Letters

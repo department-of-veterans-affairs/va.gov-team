@@ -49,15 +49,16 @@ Before we start, I have a few things that I want to go over with you:
 - **This entire session should take about 45 - 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.  We may also end sooner than that, and if we have covered everything I want to cover I'd love give your time back to you.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+- **We like to record** to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+
+**Knowing this, are you comfortable if I record my screen and audio as we talk today?  Are you comfortable with it if we share anonymized video clips with our VA colleagues for research purposes?**
+
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
+
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
@@ -74,8 +75,7 @@ Before we start, I have a few things that I want to go over with you:
 
 **3.** What veteran IDs do you currently have?  Which have you had in the past, post - service? Tell me about how you use them.
 
-      - Probe for: What do they use when? For what? What makes them pick a specific card?  How do they describe each    
-      card, its purpose and use?  
+      - Probe for: Do they have license plate? The drivers license? What do they use when? For what? What makes them pick a specific card?  How do they describe each card, its purpose and use?  
 
 **4.** Have you ever submitted for travel reimbursement from the VA?
       - If yes: How did you do so? Online? Kiosk? Mail?  What made you do so?  Why did you pick online/mail/kiosk?
@@ -94,7 +94,7 @@ Before we start, I have a few things that I want to go over with you:
 
 **8.**  Tell me about the last time you used a veteran discount.
       
-      - Why did you want to use it?
+      - What made you decide to try to use it?
       - Where were you?  What was it for?
       - How did you access the discount?  
             - Probe for: 
@@ -117,12 +117,16 @@ Before we start, I have a few things that I want to go over with you:
 
 **11.**  We have talked about how you currently use and access veteran discounts, but if it were up to you, how would you like to access veteran specific discounts? Tell me how you would use and access these discounts.  
 
-**12.**  Where would you expect to find these tools?  Where would you like to access them?  What would you call them?
+**12.**  Where would you expect to find these tools (to access discounts)?  Where would you like to access them?  **What would you call them?
+**
+**13.** What would you expect to find around or associated with these tools? 
 
 _Time permitting_
 
 **13.**  Do you have the VA Health and Benefits mobile app?
       - If yes: When did you notice it? Have you used it? What has your experience been with it been like? 
+
+**14.** Anything else you would like to share about your experience accessing veteran specific discounts that we have not covered?
 
 
 ## Consent to use video clips

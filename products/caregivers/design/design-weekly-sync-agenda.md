@@ -1,5 +1,171 @@
 # Design Weekly Sync Agenda
 
+## 2024-03-04
+Attendees: Angela, Hieu, Jessica, & Katelyn.
+
+- Registration-Only workshop session (Angela): 
+  - Workshop #3 went well with Samantha and Roosevelt (RJ) giving extensive answers. We did not get one question answered but there is a bi-weekly check-in we can use to ask.
+  - The team talked about the unknown timeframe of the wireframe and the journey mapping. We will try to get feedback from the VES team, showing in-progress items.
+- Confirmation Flow Design (Hieu)
+  - A few things to consider: 
+    - The primary focus of the EZR is to update the household financial information. 
+    - The multiple response component we utilized in the EZR MVP is a major factor in keeping the flow as soon as possible. 
+  - Comparison between the EZR  v2 and Confirmation flow screen count is not much different (24 vs 21 screens) when including Military Info, TERA, and EC/NOK. 
+  - Angela notes that the multiple component is better because the Veteran can edit certain information when there are multiple cards.
+  - Design consideration:
+    - The information we surface needs to be a balance between recognized vs recalled. (example: show the Veteran street but not city, state and zip. We would need research to confirm our hypothesis.
+    - Check-in with the Forms team on the Multiple Response component (Matt Dingy, Jeana Clark. The Claim Team may have similar components)
+- Upcoming Research (Jessica):
+  - We should group the TERA research with some outlier, secondary research questions. Things to consider: research on the TERA on EZ vs EZR. 
+- Hint Text (Katelyn)
+  - Katelyn notes multiple redundancy in the content/text (Work vs Job). 
+  - Team talked through multiple possible arrangements, with an option to have only 1 additional information to keep the content to a minimum. 
+  - Team wants to be more proactive with refining and updating the forms. 
+- Ideal state - Explore the ideal state of healthcare enrollment, 
+  - Consider in-person research (all UXers are relatively close to VA facilities).
+  - Consider beyond the scope of form/application (holistic health care journey). 
+
+
+
+## 2024-02-26
+Attendees: Angela, Hieu, & Katelyn.
+
+- Team discuss EZR v2 using mural - Top priority includes Confirmation Flow, Notification, Save-in-progress, Household Income reference, NOK/EC.
+- Team discuss Content Component in Figma - consider creating a variable for the Desktop vs. mobile. 
+- Hint Text - not discussed
+- Team consider doing another sync midweek.
+
+## 2024-02-20
+Attendees: Angela, Hieu, Jessica, Katelyn, & Kristen.
+
+- Hieu updated the EZR Audit works, need to reach UXers to test certain pages.
+- Jessica notes the EZ/EZR FormContent, naming convention standards. We’ll have a main base for the content
+- UX Ticket grooming session
+
+## 2024-02-12
+Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex.
+
+- TERA: The team wants HEC to confirm that TERA information may be passed along to their EHR Records (Clinical Records in VISTA).
+  - Kristen notes that from the MSA side, there are so many 'flags' on the record.
+- Hieu presents graphic screens and page counters for Military Info and TERA on EZR.
+- Registration Only workshop: The team discusses the possible use of chat and calling on people to make the session more interactive.
+
+## 2024-02-05
+Attendees: TBD
+
+- Update on our proposed approach for SiP sections on EZ and EZR:
+    - Component we plan to use is on the [design system site](https://design.va.gov/components/card#claims-status) and is live to 100% of users in the claims status tool
+    - Auth Exp is also looking to implement this component for their Claims and Appeals section
+    - Do we want to consider implementing this solution without formal usability testing? We could still plan to get feedback on it when we do testing
+    - The only caveat is that we'd be using it a little differently than it's used for claims since we're alerting the user to unfinished form content
+
+## 2024-01-29
+Attendees: TBD
+
+- UX Grooming: can we review the UX work spreadsheet and clean it up? It's a bit messy with some icebox work, completed work, etc.
+
+## 2024-01-22
+Attendees: Angela, Hieu, Jessica, Katelyn, (Heather and Kristen for second half)
+
+- Mini UX Refinement Session
+- Opened UX Work Spreadsheet and reviewed items
+- Also reviewed Figma spreadsheet with assignments by page
+
+- When Kristen joined - pivoted to talking about Toxic Exposure questions
+- She will be helping to connect our team with the 526 team
+- Reviewed current status of the draft and flow of questions
+- Outstanding SME questions, esp around short form
+- Wondering how/when to end question flow - if answer yes to one, skip the remaining. Depends on how ES is going to be built, a yes/no boolean value or the details of each individual question?
+
+
+## 2024-01-16
+Attendees: Angela, Hieu, Jessica, Katelyn, Heather, and Kristen.
+
+- Toxic Exposure
+    - We already have the Mural and a PACT Act wizard (check eligible then apply for 10-10).
+    - Kristen mentioned that the OCTO team had some recent related research with Nina synthesizing this week and Kristen will do a first path.
+    - Step 1 is to gather all the information.
+    - There are talks of adding this information to the 526. If that is the case, how can that information be captured so the Veteran does not have to fill out the same information in the 10-10. Is there another backend system that connects this information? Is the Enrollment System ready for this information?
+    - "If the answer is YES for X, does it mean they don't have to answer the following question?" Map the workflow after the initial discovery step.
+    - The veteran wants to be asked the questions again when the definition of Toxic exposure changes.
+- OCTO Presentation
+    - Print PDF to Kristen.
+    - Re-word the text for HEC focused on wanting to stay true to the paperform.
+    - Note that it is a new FORM, step 1 is MVP, with the following steps including Notification workflow.
+- Registration-only Update
+    - Jessica started a rough script, Angela will read it.
+
+
+## 2024-01-08
+Attendees: Angela, Hieu, Jessica, Katelyn, And Heather
+
+- Error Matrix - The team decide that Github would only hold the link while the Mural would have the Source of Truth.
+
+- Team discussed the use of the UX ticket spreadsheet has a place to organize and plan the tickets.
+
+- EZR MVP UAT presentation for HEC
+    - Angela presented the current slide deck.
+    - Team discuss the possible Next Steps to present: EZR V2 including short-form (Recommendation 1), the Review/Sub-task flow (Recommendation 3), and the Post-MVP usability research (recommendation 2). Angela will talk to Alex in regards to the overall priorities, including NoK/EC. And we should include that all of these features will be incrementally released. 
+
+- Team discuss the possibility of presenting the Registration Only work to the OCTO. There were two schools of thought; present sooner to show the struggle with a reluctant stakeholder or present later in hopes of capturing some progress through workshops. 
+
+## 2023-12-18
+Attendees: Angela, Hieu, Jessica, Katelyn, And Kristen
+
+- Figma: The team notes that Multiple Component Card is not yet a Figma Component
+
+- EZR MVP Veteran Testing: Heather is looking for Veterans to test the end-to-end form. We would be looking for lower Priority Group (Veterans that would be required to provide financial information).
+
+- Registration: 
+  - Team discussion potential next steps as we like the hub approach the VES team represented, it aligns with the Veterans’ mental model. 
+  - The difficult part is how to tell that story to the HEC stakeholders. 
+  - Katelyn notes the HEC likes to have visuals to share, perhaps we can create a Journey Map in PDF for them.
+  - Jessica notes the importance of including the HEC folks in some of the process (Veteran’s journey map, study quotes).
+
+- Updated Dependent Flow
+  - Only updating copy in at the Education Expense if the user adds more than a zero in gross annual income.
+  - Flow has to be simplified, no longer a technical burden.
+
+- After the EZR MVP launch
+  - Kristen brought up Facilities API. The drop-down is dated and does not connect with current data. Jessica notes that CareGiver’s facility has similar functionality we can utilize.
+
+
+## 2023-12-11
+Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
+
+- EZR research - Katelyn to reach out to design Platform peeps to get the team on the schedule for end of January to present at the Monday VA design/research/content sync, Hieu to start work on a combo presentation deck (will need to open a ticket for this)
+  
+- EZR research - Alex, we want to present to HEC at some point in January too; future parking lot planning item to chat more
+
+- Dependents verbiage/flow - the flow updates we are in agreement; will work with Aliyah this week to get the reported income content draft created. Noting here to tackle later - in the future see if the income questions on the form can be simplified down to what really impacts health care benefits.
+
+- SIP - more looking into the other teams and what version they have; working on getting CodePen templates setup for testing
+
+- Registration - Need to schedule a research readout for this week first, then a workshop session either next week or after the new year/Holidays. Workshop session  registration next steps and mapping.
+
+- Kristen's comment:
+    - Recommendation: does not have to be limited to the product/team, think of it as a holistic service.
+    - For Registration, what would be the ideal workflow for the Veterans?
+
+
+## 2023-12-04
+Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
+
+
+- EZR research - Katelyn to reach out to design Platform peeps to get the team on the schedule for end of January to present at the Monday VA design/research/content sync, Hieu to start work on a combo presentation deck (will need to open a ticket for this)
+
+- EZR research - Alex, we want to present to HEC at some point in January too; future parking lot planning item to chat more
+
+- Dependents verbiage/flow - the flow updates we are in agreement; will work with Aliyah this week to get the reported income content draft created. Noting here to tackle later - in the future see if the income questions on the form can be simplified down to what really impacts health care benefits.
+
+- SIP - more looking into the other teams and what version they have; working on getting CodePen templates setup for testing
+
+- Registration - Need to schedule a research readout for this week first, then a workshop session either next week or after the new year/Holidays. Workshop session - registration next steps and mapping
+
+
+---
+
+
 ## 2023-12-04
 Attendees: Angela, Hieu, Jessica, Katelyn, Kristen, and Alex
 

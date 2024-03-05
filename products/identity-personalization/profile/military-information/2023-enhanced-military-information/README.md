@@ -1,8 +1,6 @@
 # Initiative outline: Enhanced Military Information
 
-`DRAFT`
-
-**Last Updated: 12/6/2023** updated ToC
+**Last Updated: 2/1/24** Added specifics of the original request
 
 
 ## Table of Contents 
@@ -51,6 +49,20 @@ Expansion of the military information available on VA.gov will focus on the thre
 - Linking to ILER Records
 - Allowing for edits/updates to ILER records
 
+### Original request
+
+These are the details of the original request from Trish Dang and Melissa Rebstock, on behalf of the VA/DoD folks who are working to figure out how we can meet the letter of the law with PACT Act requirements:
+
+1. Expose the following additional data points on VA.gov: 
+  - Dates of deployment and branch(es) of service (note: we already show this)
+  - Units with which the veteran served
+  - Deployment locations, and start/end dates
+  - Military occupational specialties
+  - Training courses
+  - Military awards and decorations
+2. Link to a PDF copy of someone's ILER record.
+3. Provide guidance on how to update the record if it is incomplete. The exact flow for this is still being determined, but MVP is likely providing a number for folks to call.
+Over time, we can work to expand/improve this experience, but this should meet legal requirements so VA is in compliance with the congressional mandates set forth in the 2019 NDAA and PACT Act.
 
 ## MVP 
 The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. 

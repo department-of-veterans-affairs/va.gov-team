@@ -1,542 +1,738 @@
-# Medical Records Requirements
+# Requirements: Medical Records on VA.gov v1.0
 
-## Table of Contents
-- [General](#general)
-- [Vaccines](#vaccines)
-- [Lab and test results](#lab-and-test-results)
-- [Care summaries and notes](#care-summaries-and-notes)
-- [Health conditions](#health-conditions)
-- [Vitals](#vitals)
-- [Allergies](#allergies)
-- [Demographics](#demographics)
-- [DoD Information](#dod-information)
-- [Blue Button Reports](#blue-button-reports)
-- [VA Health Summary Reports](#va-health-summary-reports)
+## Change Log
 
-## General
-### Downloads
-- Whenever a download option is provided, we must provide a file option other than PDF and XML since PDF and XML files are not accessible. The best option to satisfy this requirement is to provide a TXT file.
-- Labeling for the download needs to make it clear which type of file is being downloaded (PDF, TXT, or XML).
-- After a file is downloaded, there should be a "back" button that allows a user to quickly go back to the data selection page in case there's something they forgot to select the first time. 
+| Date           | Changed By       | Description of Change |
+|----------------| ---------------- | ----------------------|
+| 1/2/24       | Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
+|1/2/24        | Coulton Bunney   | Set up structure |
+|1/3/24        | Coulton Bunney   | Updated allergies and vaccines information |
+|1/4/24 | Coulton Bunney | Added key research and data documents|
+|1/9/24 | Coulton Bunney | Added conditions information, Added lab results information|
+|1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
+|2/23/24 | Kaitlin Fink | Added care summaries and notes|
 
-## Vaccines
-**List view**
 
-- A user should be able to see a list of their vaccines ordered chronologically by date (descending). 
-- A user should be able to print and download (PDF and TXT) their entire vaccine record. 
-- Each vaccine entry on the list should include:
-  - Vaccine's name
-  - Date received
-  - Location
-  - Link to details 
+
+## Table of Contents  
+
+- [Overview](#overview)
+- [Phase 0](#phase-0)
+
+## Overview 
+
+This document lays out the requirements for medical records on VA.gov. It is broken out by data domains and phases. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
+
+Medical records v1.0 consists of 6 data domains, as well as a way to download all records and opt into or out of sharing your health data to the Veterans Health Information Exchange. 
+* Allergies and reactions
+* Vaccines
+* Health conditions
+* Vitals
+* Care summaries and notes
+  * Progress notes
+  * Discharge summaries
+* Lab and test results
+  * Lab results (Chem/Hem)
+  * Pathology reports
+  * Microbiology reports
+  * Radiology reports
+* Download all records (fka Blue Button)
+* Medical records settings
+ 
+**Key documents**
+* [VistA -> PHR/MHV mapping document](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/data%20mapping/MHV%20Documentation/MHV_PHR_API_to_FHIR_mapping.xlsx?d=w076667839ced465ca2506582e76618fb&csf=1&web=1&e=DFvMpe)
+* [PHR FHIR mapping IG](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/data%20mapping/MHV%20Documentation/MHV_PHR_API_to_FHIR_mapping.xlsx?d=w076667839ced465ca2506582e76618fb&csf=1&web=1&e=iL2Zld)
+
+## Phase 0
+
+### Medical records general
+
+<details>
+<summary>Landing page requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records`  
+Breadcrumb: No  
+Back button: No
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=6Iwfdn&nav=eyJoIjoiMTc4NzA2MTAwOSJ9).
+
+#### Functionality
+* Provide a link to each of the subsections of medical records
+
+---
+
+</details>
+
+<details>
+<summary>Design decisions</summary>
+
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The product will have a left navigation bar |  The introduction of a second domain necessitates secondary navigation  |
+| There will be three primary pages: A landing page, a list of entries, details about each entry |       |
+| We will initially launch the product with only one domain, allergies. |     |
+| The landing page will be at the URL …/my-health/medical-records/ | | 
+| The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each | We had considered retiring this page post phase 0, but research showed that is is quite useful to help Veterans understand where to find their informaiton. It should not be removed.  |
+| Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
+| For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |\
+| A user will be presented information on the consequences of downloading on a public computer |Many users may download their information on a public computer, and therefore, they should understand the PHI implications of this action.|
+| Health summary, aka CCD, will not be included in the first version of medical records on VA.gov | Research showed that there was a lot of confusion between Blue Button and the Health Summary. There is also signficant overlap between the two documetnation outputs - essentially, Health summary is just a Blue Button report limited to the past 180 days (this needs fact checked) put into the CCD format. To simplify, we received approval from Bresha Lipscomb on March 28, 2023 to not include the ability to download the CCD health summary on the first version of MR on VA.gov. Before health summary is incorporated into MHV, it should be clearly called a continuity of care document, and it should be clearly outlined how and when to use this document compared to downloading all records. This should be considered before moving to Phase 4.| 
+
+</details>
+
+* [Initial discovery sprint report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews/research-findings.md)
+* [Generative research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-11-medical-records-readout.md)
+* [Usability testing report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2023-05-usability-testing-round-1/research-findings.md)
+
+### Allergies and reactions 
+<details>
+<summary>List view requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records/allergies`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=6Iwfdn&nav=eyJoIjoiMTc4NzA2MTAwOSJ9).
+
+* H1 for this page should be `Allergies and reactions`
+* Intro text at top of page that explains what you will find in this section of the medical record
+* Intro text that informs a patient what to do if their information is incorrect
+* Additional info that explains information about printing and downloading allergies information
+* For each allergy in list, include the following information
+  * Allergy or reaction name
+  * Date entered into the record
+
+#### Functionality
+* List should be paginated, with 10 allergies per page
+* For each allergy, a user should be able to click on the first line of the card (Allergy name) to view detailed information about that allergy
+* Ability to download a full list of allergies as a PDF
+   * PDF should include detailed information about each allergy
+* Ability to print all allergies
+   * Print out should include detailed information about each allergy
+---
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+ 
+---
+ 
+#### IA
+URL: `/my-health/medical-records/allergies/allergy_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to allergies`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=1WrhZc&nav=eyJoIjoiMjY5MDA1OTg2In0%3D).
+
+* H1 for this page should be name of the allergy or reaction
+* For each allergy, include the following information
+  * Allergy or reaction name
+  * Date entered into the record
+  * Signs and symptoms (previously called Reaction)
+  * Type of allergy
+  * Location that the allergy was entered into the record
+  * Whether the allergy is observed or historical
+  * Notes entered by the provider
+
+#### Functionality
+* Ability to download details of current allergy as a PDF
+* Ability to print the currently in view details of allergy
+ 
+ ---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The Allergies domain name was updated to Allergies and reactions. | This was a recommendation based on SME feedback. Allergies and reactions captures the full breadth of the data entered into this section of information. Reactions refers to information such as an adverse drug reaction. |
+| The list view will present each allergy in a card format. That card will include both the allergy logged and the date it was entered into the EHR by a provider. | Allergies may not be deduplicated across VistA sites. In order to make sure each card in the list view is unique and therefore accessible, we must include a second identifier. We chose date entered as that second identifier.    |
+| The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
+| We will not include a link to send a SM if allergies info is incorrect. Instead, we will just tell a patient to inform their provider at their next appointment. | Based on feedback from Dr. Josephs, updating allergies information can wait until a patient's next appointment. This is also thought to decrease unecessary SMs.|
+</details>
+
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
+* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=nPAS0M&nav=eyJoIjoiMjExMTI5NTc3MiJ9)
   
-**Details view**  
- - The H1 of the details view should be the name of the vaccine
- - Where possible and clinically permissable, transform text to make a note easier to read.
- - From the top of the page, a user should be able to print the details, or download it as either a PDF or TXT file. 
- - Details shouuld include
-   - Date received
-   - Type and dosage 
-   - Series 
-   - Facility 
-   - Reactions
-   - Comments
+### Vaccines
 
-**Not for first iteration, requires future usability research**
-- A user should be able to sort the list by date received and alphabetically by vaccines name.
-- A user should be able to print and download (PDF and TXT) their vaccines in different ways: 
-  - Multiple entries of the same vaccine
-  - Vaccines that they received in a certain time range
-- A user should be informed when their vaccines are expired or over due. 
+<details>
+<summary>List view requirements</summary>
+ 
+---
 
-## Lab and test results
-**Includes** 
-- Laboratory results
-  - Chemistry/Hematology
-  - Microbiology 
-- Pathology reports
-  - Surgical
-  - Cytology
-  - Microscopy
-- Radiology images and reports 
-- Cardiology images and reports (know as Electrocardiogram (EKG) history)
+#### IA
+URL: `/my-health/medical-records/vaccines`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 
-**List view**
-- At the top of the page, a user should be able to quickly learn about the availability of lab and test results. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
-- A user should be able to see a list of all of their lab and test results, ordered chronologically by date collected. 
-- Each should include:
-  - Category (e.g. Pathology, Microbiology, etc)
-  - Title of the lab result or report (if available)
-  - Date collected
-  - Ordering provider
-- A user should be able to click into each entry to get more details.
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=oF9m6d&nav=eyJoIjoiMjk4MzYxNTUyIn0%3D).
+
+* H1 for this page should be `Vaccines`
+* Intro text at top of page that explains what you will find in this section of the medical record
+* Intro text that informs a patient that reactions to vaccines can be found in the allergies section
+* Additional info that explains what to know about printing and downloading vaccines information
+* For each vaccine in list, include the following information
+  * Vaccine name
+  * Date patient received the vaccine
+
+#### Functionality
+* List should be paginated, with 10 vaccines per page
+* For each vaccine, a user should be able to click on the first line of the card (vaccine name) to view detailed information about that vaccine
+* Ability to download a full list of vaccines as a PDF
+   * PDF should include detailed information about each vaccine
+* Ability to print all vaccines
+   * Print out should include detailed information about each vaccine
+---
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+ 
+---
+
+ 
+#### IA
+URL: `/my-health/medical-records/vaccines/vaccine_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to vaccines`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=21aUvp&nav=eyJoIjoiMjEyMzk5MzE5NyJ9).
+
+* H1 for this page should be name of the vaccine
+* For each vaccine, include the following information
+  * Vaccine name
+  * Date patient received vaccine
+  * Location patient received vaccine
+  * Notes entered by the provider
+
+#### Functionality
+* Ability to download details of current vaccine as a PDF
+* Ability to print the currently in view details of vaccine
+ 
+
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
   
-**Details view**
- - The H1 of the details view should be the lab or test type. 
- - Where possible and clinically permissable, transform text to make a note easier to read.
- - From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
- - Because each category of the labs and tests is different, details view for each entry will also vary: 
-  - Radiology reports
-    - Procedure/test name
-    - Date/time exam performed
-    - Ordering location 
-    - Requesting provider
-    - Reason for study
-    - Performing location 
-    - Clinical history 
-    - Radiologist 
-    - Report
- - Chemistry, Hematology
-    - Lab type (chemistry/hematology)
-    - Lab test (aka name, not always present)
-    - Date/time collected
-    - Tests
-      - Test name
-      - Results
-      - Units
-      - Reference range
-      - Status
-      - Performing location
-      - Interpretation
-    - Specimen
-    - Ordering provider
-    - Ordering location
-    - Collected location
-    - Comments
-    - Perfomring Location
-  - Microbiology
-    - Lab type
-    - Lab test (aka name, not always present)
-    - Date collected
-    - Date completed (not always present)
-    - Results
-    - Site/specimen (not always present)
-    - Ordering provider
-    - Ordering location
-    - Collected location
-  - Pathology reports (surgical pathology) 
-    - Type of report (surgical pathology/cytology) 
-    - Specimen 
-    - Date obtained
-    - Performing location
-    - Date completed 
-    - Report 
-  - EKG (historical exam dates) *BB no longer updates EKG, needs to figure out where we can find the full report
-    - Procedure/test name 
-    - Date/time performed
-    - Ordering location
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The field for reactions will not be displayed as part of the vaccine data in production.                                  | After significant research and review of data, it was determined that CPRS 32b, which removed the reaction field from vaccines, was released Sep 29, 2022 and all sites (except those on Cerner) should have installed it by Dec 16, 2022.  This change made recording reactions as part of the vaccines record obsolete, and as a result, Dr. Josephs recommended that we not display it.  
+| The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
+| The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|
+| The list view will present each vaccine in a card format. That card will include both the vaccine logged and the date it was received as entered into the EHR by a provider. | A user may get the same vaccine yearly, and therefore we need a second identifier to differenitate. Given a user cannot receive the same vaccine on the same day, date received fits the bill. |
+| The following data can be shown to users once verified by KBS and if they are available. They do not need to be included at launch into phase 0: Vaccine series information, Manufacturer, Site (such as left arm), Vaccine status (such as completed) and Lot number. | These are important pieces of data for patients, but have not been shown in MHV in the past. Therefore, we must first verify their accuracy with KBS.|
+| The following field should not be shown to users: CPT code, who administered the code | After discussion, the SMEs determined they were not needed for patient view and may cause confusion. A user would still be able to get this information by asking their provider directly or submitting a full records request.|
+</details>
 
-  - A user should be able to print or download a result/report as either a PDF or TXT file.
-  - When a lab results includes multiple tests, such as a CMP, the tests should be presented as accordions, with one test result per accordion.
-  - If a result does no include mutliple tests, the results should be laid out flat on the page.
-  - When there is reference range included, a user should be able to easily see when their lab result falls above or below the normal range.
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
+* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=okyHLO&nav=eyJoIjoiMTEyNDQyMDU5MSJ9)
 
-**Not for first iteration, requires future usability research**
-  - A user should be able to sort their results in different ways
-    - Chronologically
-    - By location, chronologically
-    - By ordering phyiscian, chronologically
-    - By type, alphabetically
-  - A user should be able filter to find what they are looking for.
-    - A user should be able to filter by result metadata, such as  title, location, ordering physician, or type
+### Health conditions
 
-## Care summaries and notes
-**Includes** 
-  - VA notes
-  - Admission & Discharge summaries 
-  - After visit summaries
-  - Treatment plans
+<details>
+<summary>List view requirements</summary>
 
-**List view**
+---
 
-- At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
-- A user should be able to see a list of all of their notes, ordered chronologically. 
-- Each entry should include the:
-  - Note title
-    - VA note: Note title
-    - Admission & discharge summary: Admission & discharge summary
-    - AVS: After-visit summary
-  - Date (This should be the date that most closely reflects when the patient had their visit or started their hospital stay)
-    - VA note: date of note
-    - Admission & discharge summary: Date of admission
-    - AVS: Visit date  
-  - Location where that note was written
-  - Physician
-    - VA note: signing physician 
-    - A&D: Admitting physician
-    - AVS: Provider
-- A user should be able to click into each entry to get more details.
+#### IA
+URL: `/my-health/medical-records/conditions`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=pYhfj6&nav=eyJoIjoiMTgwNjM2MTY5MiJ9).
+
+* H1 for this page should be `Health conditions`
+* Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold
+* Additional info that explains what to know about printing and downloading health conditions information
+* For each health condition in list, include the following information
+  * Condition name
+  * Date entered into the record
+
+#### Functionality
+* List should be paginated, with 10 health conditions per page
+* For each condition, a user should be able to click on the first line of the card (condition name) to view detailed information about that condition
+* Ability to download a full list of conditions as a PDF
+   * PDF should include detailed information about each conditions
+* Ability to print all conditions
+   * Print out should include detailed information about each condition
+---
+
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/conditions/condition_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to conditions`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=OKyEnB&nav=eyJoIjoiNDIzNzY4MTE0In0%3D).
+
+* H1 for this page should be name of the condition
+* For each condition, include the following information
+  * Condition name
+  * Date condition entered into record
+  * Provider who entered condition into record
+  * Location where condition entered into record
+  * Comments entered by the provider
+
+#### Functionality
+* Ability to download details of current condition as a PDF
+* Ability to print the currently in view details of condition
+ 
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
   
-**Details view**
-- The H1 of the details view should be the title of the note. 
-- Where possible and clinically permissable, transform text to make a note easier to read.
-- From the top of the page, a user should be able to print a note, or download it as either a PDF or TXT file. 
-- Because each category of the labs and tests is different, details view for each entry will also vary: 
-  - VA note
-    - Title (H1)
-    - Date and time
-    - Location
-    - Signed by
-    - Co-signed by
-    - Last updated
-    - Date and time signed
-    - Note
-  - Admission & discharge summary
-    - Title (H1)
-    - Admission date
-    - Location
-    - Admitting physician
-    - Discharge date
-    - Discharge physician
-    - Last updated
-    - Discharge summary
-  - After visit summary
-    - Title
-    - Visit date
-    - Then reflect the AVS as closely as possible - https://github.com/department-of-veterans-affairs/va.gov-team/blob/b62e5725d9033be0aefef60bdd8cac6df28164f3/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/assets/AVS-Sample-White-Redacted.pdf
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|We will call this section of the record health conditions. |This section has been referred to as problem list in the past, but framing as problems is thought to be negative and also not incredibly plain language, as many things could be considered problems, but not all of them are actually health issues that would be logged|
+|We will only show health conditions that have a status of Active. | Health conditions have not always been logged by providers in a consistent manner. Some providers have used health conditions to keep track of possible issues a patient is facing, but are not confirmed. These have been deemed inactive. Seeing these in the list as inactive gives the impression that a patient may have once had this issue when they never did - it was just suspected. Therefore, including inactive could be confusing. Therefore, just like MHV classic, we will only ever show active conditions.|
+|In the list view, each card will show enough information about a health condition to consider that entry unique. We believe name and date entered suffices. | Health conditions may not be deduplicated across VistA sites. Therefore, just name may not be unique.|
+|The following fields will not be shown to users: Clinical status, Date and time condition started, ICD type + code, Verification Status, Date and time condition abated | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
+|The following fields will not be shown to users at first, but may be if verified: Verification Status| SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
 
- **Not for Phase 0, requires future usability research**
-    
-  - A user should be able to sort their notes in different ways
-    - Chronologically
-    - By location, chronologically
-    - By signing physician, chronologically
-  - A user should be able search Notes to find what they are looking for.
-    - A user should be able to search by note metadata, such as note title, signing or co-signing physician, location, or date. 
-    - A user should be able to search for keywords in the body content of a note, such as "high blood pressure" or "back pain." A common use case is finding reference to a specific health condition in order to support something like a disability claim.
-    - Search results should be ordered chronologically, from newest to oldest, and matches should be highlighted. 
-    - The search box can be collapsed to create real estate for the list view of notes. 
+</details>
+
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
+* [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=F548Gc&nav=eyJoIjoiODE5OTM2Njc4In0)
 
 
-## Health conditions
-**List view**
-  - At the top of the page, a user should be able to quickly learn about the availability of notes. For more info, see https://mhv-syst.myhealth.va.gov/mhv-portal-web/blue-button-availability
-  - Users should be able to view a list of their health issues from across all VA facilities
-  - Each entry should include
-    - issue/problem title
-    - date/time it was entered
-    - status of the issue (e.g. active/inactive)
-  - A user should be able to sort their health conditions
-    - Chronologically based on initially entered date
-    - Alphabetically by issue
-    - By status
+### Vitals
 
-**Details view**
-  - Each health issue entry should include:
-    - Issue/problem title
-    - Date/time entered
-    - Status
-    - Location where the issue was entered
-    - Provider's name
-    - Comments
-  - From the top of the page, a user should be able to print and download the entire list so that they can share and communicate their health issues with their health care team
+> [!NOTE]
+> To be completed by Kaitlin Fink
 
-## Vitals
-**Includes**
-  - Blood pressure
-  - Blood sugar
-  - Heart rate
-  - Cholesterol
-  - Body Weight
-  - Height
-  - Pulse Oximetry
-  - Body Temperature
-  - International Normalized Ratio (INR)
-  - Pain
+<details>
+<summary>List view requirements</summary>
+ 
+---
+#### IA
 
-**List view**
+#### Content
 
-- A user should be able to see a list of vital sign categories, listed alphabetically. 
-- Each entry should include
-  - Category name
-  - Latest reading
-  - Date of latest reading
-  - Location of latest reading
-- A user should be able to click into each category to see a historical list of readings
+#### Functionality
+---
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+ 
+---
+#### IA
+
+#### Content
+
+#### Functionality
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
   
-**Details view**
-  - The H1 of the details view should be the category name 
-  - From the details view, a user should be able to see a historical list of readings for that category (chronological order)
-  - Each entry in that list should include
-    - Reading
-    - Date of entry
-    - Location of entry 
-    - Comments
-  - From the top of the page, a user should be able to print a category of readings, or download it as either a PDF or TXT file. 
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+| | |
+</details>
 
+### Care summaries and notes
+Launched to Phase 0 on 2/26/24
 
-## Allergies
-### List view
-- A user should be able to see a list of all of their allergies, ordered chronologically by date entered.
-- A user should be able to click into each entry to learn more details.
-- A user should be able to print or download (PDF or TXT) of the complete allergies list. 
-- Each entry should include:
-  - Allergy name
-  - Date entered
-  - Severity
-
-**Details view**
-  - The H1 of the details view should be title of the allergy
-  - From the top of the page, a user should be able to print or download the details so that they can share and communicate their health issues with their health care team
-  - Each allergy details page should include:
-    - Allergy name
-    - Date entered
-    - Severity
-    - Reaction
-    - VA drug class
-    - Observed/Historical
-    - Location
-    - Comments
-
-## Demographics
-**List view**
-- A user should be able to view their demographics information. 
-- At top of the list, a user should be informed on how they can update their demorgraphics.
-- Demorgaphics have a list of infomration, and should include: 
-  - VA Treating Facility
-  - First name
-  - Middle name
-  - Last name
-  - Religion
-  - Ethnicity
-  - Date of birth
-  - Place of birth
-  - Age
-  - Gender
-  - Marital status
-  - Permanent address and contact information
-  - Eligibility 
-  - Employment
-  - Active insurance
-  - Primary next of kin
-  - Emergency contact
-  - VA guardian
-  - Civil guardian
+<details>
+<summary>List view requirements</summary>
   
-**Details view** 
-- A few of items (permanent address and contact information, eligibility, employment status, insurance company, primary next of kin, emergency contact, VA guardian, and civil guardian) on the list include more information. These items should be presented as accordions so that a user pick and choose what they want to see. Those items should include: 
-  - Permanent address and contact information
-    - Street address
-    - Work phone number
-    - City
-    - State
-    - Zip code
-    - County
-    - Country
-    - Home phone number
-    - Work phone number
-    - Cell phone number
-    - Email address:
-  - Eligibility
-    - Primary eligibility code
-    - Service connected percentage
-  - Employment
-    - Employment Status
-    - Employer Name
-  - Active insurance
-    - Insurance Company
-    - Effective Date
-    - Expiration Date
-    - Group Name
-    - Group Number
-    - Subscriber ID
-    - Subscriber Name
-    - Subscriber Relationship
-  - Primary next of kin 
-    - Name
-    - Street Address
-    - City
-    - State
-    - Zip Code
-    - Home Phone Number
-    - Work Phone Number
-  - Emergency contact
-    - Name 
-    - Street Address 
-    - City 
-    - State 
-    - Zip Code 
-    - Home Phone Number 
-    - Work Phone Number
-  - VA guardian
-    - Name
-    - Street Address
-    - City 
-    - State 
-    - Zip Code 
-    - Home Phone Number 
-    - Work Phone Number 
-  - Civil guardian
-    - Name
-    - Street Address
-    - City
-    - State
-    - Zip Code
-    - Home Phone Number
-    - Work Phone Number
+---
+#### IA
+URL: `/my-health/medical-records/summaries-and-notes`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 
-## DoD Information
-**List view** 
-- A user should be able to see all 9 sections of their DoD information. 
-- This list includes: 
-  - Regular Active Service
-  - Reserve/Guard Association Periods
-  - Reserve/Guard Activation Periods
-  - Deployment Periods
-  - DoD MOS/Occupation Codes
-  - Military/Combat Pay Details
-  - Separation Pay Details
-  - Retirement Periods
-  - DoD Retirement Pay
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=pYhfj6&nav=eyJoIjoiMTgwNjM2MTY5MiJ9).
 
-**Details view** 
-- Each section on the list might include more information. For the sections that include more information, they should be presented as accordions.  
-- Regular Active Service
-  - Service
-  - Begin Date
-  - End Date
-  - Character of Service
-  - Rank
-- Reserve/Guard Association Periods
-  - Service
-  - Begin Date
-  - End Date
-  - Character of Service
-  - Rank
-- Reserve/Guard Activation Periods
-  - Service
-  - Begin Date
-  - End Date
-  - Activated Under (Title 10, 32, etc.)
-- Deployment Periods
-  - Service
-  - Begin Date
-  - End Date
-  - Conflict
-  - Location
-- DoD MOS/Occupation Codes
-  - Service
-  - Begin Date
-  - Enl/Off
-  - Type
-  - Service Occupation Code
-  - DoD Occupation Code
-- Military/Combat Pay Details
-  - Service
-  - Begin Date
-  - End Date
-  - Military Pay Type
-  - Location
-- Separation Pay Details
-  - Service
-  - Begin Date
-  - End Date
-  - Separation Pay Type
-- Retirement Periods
-  - Service
-  - Begin Date
-  - End Date
-  - Retirement Type
-  - Rank
-- DoD Retirement Pay
-  - Service
-  - Begin Date
-  - End Date
-  - Disability Percent
-  - Pay Stat
-  - Termination Reason
-  - Stop Pay Reason
+* H1 for this page should be `Care summaries and notes`
+* Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold
+* For each progress note and consultation note in list, include the following information
+  * Note name
+  * Date entered into the record
+  * Location name
+  * Signed by
+* For each admission and discharge summaries in list, include the following information
+  * Note name
+  * Admitted on date
+  * Location name
+  * Discharged by
+
+#### Functionality
+---
+* List should be paginated, with 10 notes per page in reverse chronological order
+* For each note, a user should be able to click on the first line of the card (note name) to view complete note
+ ---
+
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+
+#### IA
+URL: `/my-health/medical-records/summaries-and-notes/note_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to Care summaries and notes`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/Phase%200%20all%20domains%20except%20lab%20results,%20no%20blue%20button,%20no%20settings%20page.docx?d=wc94f788df7fc4279b0b49a7baa311219&csf=1&web=1&e=OKyEnB&nav=eyJoIjoiNDIzNzY4MTE0In0%3D).
+* Progress and consult notes 
+ * H1 for this page should be note name
+ * Below should include entered on date 
+ * H2 should be details including the following
+   * Location
+   * Signed by
+   * Cosigned by
+   * Date signed
+ * H2 for note with unstrutured note data below
+* Admission and discharge summaries notes
+ * H1 for this page should be note name
+ * Below should include admission date and details about the summary of this page
+ * H2 should be details including the following
+   * Location
+   * Discharged date 
+   * Discharged by
+ * H2 for summary with unstrutured note data below
+
+#### Functionality
+* Ability to download currently in view details of note as a PDF or TXT
+* Ability to print the currently in view details of note
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|We will call this section of the record care summaries and notes. |This section has been referred to as VA Admission and Discharges and VA Notes in Blue Button download on MHV.  This section will include progress notes, admission and discharge summaries and consultation notes. In the future if other note types are determined valuable we will reevalutate if they should be included here.|
+|Notes and admission and discharge summaries can have multiple addenda. Addenda will be presented as part of the original note to which they were added.|We discussed addenda with the SMEs and agreed that they should be treated as they are today in MHV.  When a provider writes an addendum today they are related to the context of the note. The unstructured text of the original progress note includes an alert at the top that says, “This note has addenda” and then the addendum is added to the note.|
+|The following fields will not be shown to users at first on notes, but may be if verified: Status| SMEs gave input that this field may be helpful, if this includes additional values besides completed. But if completed is the only status then it will not be valuable.|
+|The following fields will not be shown to users at first on admission and discharge summaries, but may be if verified: Date signed, Status, Attending physcian | SMEs gave input that status may be helpful, if this includes additional values besides completed. But if completed is the only status then it will not be valuable. Attending physcian will replace “person who discharged the patient” if available, if not we will keep as is.|
+
+</details>
+
+* [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
+* [Subject matter expert review - Progress and consultation notes](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=0oCrbC&nav=eyJoIjoiMTAzNzUwNzk3NSJ9)
+* [Subject matter expert review - Admission and discharge summaries](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=JmbRri&nav=eyJoIjoiNTY4MDE0NDc0In0%3D)
 
 
-## Blue Button Reports
-- We will continue to provide the ability to create and download Blue Button reports as these reports fill different needs for Veterans and contain different information than the Health Summary.
-- Once a Blue Button report has been generated, it can be viewed as a PDF or TXT file within an iframe, downloaded as a PDF or TXT file, or printed.
-- Users must be allowed to select the same types of data to include in their Blue Button report as they are on the MyHealtheVet site today.
-- The page that generates the Blue Button must present the last and most current generated reports, when they were generated, and links to view, print, or download them.
-- We will NOT provide the ability to send a Blue Button report as that capability is provided by Community Care via CCD Direct.
-- On top of the Download My Selected Data page, there should be information that tells a user: 
-  - How to use the VA Blue Button Report [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/BlueButtonUserGuide-OzNR1OlR.pdf)
-  - Learn more about it [link](https://www.myhealth.va.gov/mhv-portal-web/learn-more-bb)
-  - How to protect their personal health information [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
-- On the Download My Selected Data page, there should be two sections, which are select date range and select types of information. 
-  - Select date range
-    - Date range selections (3 months, 6 months, 1 year) 
-    - Start date - End date (calendar selection)
-  - Select types of information 
-    - Select all types of information, **OR:**
-    - Appointments
-      - Future VA appointments
-      - Past VA appointments (limited to past 2 years) 
-      - All of the above
-    - Medications
-      - VA medication history 
-      - Medications and supplements, self-reported
-      - All of the above
-    - Labs abd tests 
-      - VA laboratory results (available 36 hours after verification; COVID-19 results available immediately after receipt by VA)
-      - VA pathology reports (available 36 hours after completion)
-      - VA radiology reports (available 36 hours after completion)
-      - VA EKG historical exam dates (EKG dates are no longer updated. They may continue to view their historical EKG dates)
-      - Lab and tests, self-reported
-      - All of the above
-    - VA electronic health record history and wellness reminders
-      - VA problem list (available 36 hours after entry)
-      - VA care summaries and notes (discharge summary and notes available 36 hours after completion, except C&P notes, C&P is claim exam) 
-      - VA wellness reminders (no longer updated)
-      - All of the above
-    - Allergies 
-      - VA allergies and adverse reactions
-      - Allergies, self-reported
-      - All of the above
-    - Vaccines
-      - VA Vaccines
-      - Vaccines, self-reported
-      - All of the above
-    - Vitals and readings
-      - VA vitals and readings
-      - Vitals and readings, self-reported
-      - All of the above
-    - Self-reported health history 
-      - Medical events, self-reported
-      - Family health history, self-reported
-      - Military health history, self-reported
-      - Treatment facilities, self-reported
-      - Health care providers, self-reported
-      - All of the above
-    - Food and activity journals 
-      - Activity journal, self-reported
-      - Food journal, self-reported
-      - All of the above
-    - Goals
-      - My goals: current goals, self-reported
-      - My goals: completed goals, self-reported
-      - All of the above
-    - Demographics and health insurance 
-      - VA demographics
-      - Demographics, self-reported
-      - Health insurance, self-reported
-      - All of the above
-    - Department of defense information
-      - Department of defense military service information
+### Lab and test results
 
-## VA Health Summary Reports
-- We will continue to provide the ability to create and download Health Summary reports as these reports fill different needs for Veterans and contain different information than Blue Button reports.
-- Once a VA Health Summary has been generated, it can be viewed in the browser as HTML, or downloaded as a PDF or XML file.
-- The page that generates the VA Health Summary must present the last and current generated reports, along with the links to view or download them as above.
-- On the VA Health Summary Download Results page, it should include: 
-  - VA health summary user guide [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/VAHealthSummaryUserGuide.pdf)
-  - Learn more [link](https://www.myhealth.va.gov/mhv-portal-web/health-summary-va-ccd-learn-more)
-  - What's in the VA health summary? [link](https://www.myhealth.va.gov/mhv-portal-web/documents/314545/444506/MyHealtheVetVAHealthSummaryDataAndBusinessRules.pdf)
-  - A list of files that are (not) ready to download: 
-    - File contents
-    - File name
-    - Request date
-    - Status (ready to download / Request being processed)
-    - I want to...(links to view or download in PDF, TXT, XML)
-  - A user should be informed about downloading their VA Health Summary Report: 
-    - - Before a user gets to the download results page, there should be a plain language explaination on what VA Health Summary is and how a user can use it.  
-    - How to protect their information and identity [link](https://www.myhealth.va.gov/mhv-portal-web/protecting-your-personal-health-information)
-    - The information in the health summary can be updated once each dat.
-    - You can cancel download anytime. 
-    - All requests to download are tracked, so they can see these requests in account activity history. 
-  - A back button that allows a user to get back to the previous page.  
+
+<details>
+<summary>List view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+
+> **NOTE**
+> Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be `Lab and test results`
+* Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold on lab results and 14 day delay for pathology results (pathology results simply take longer to come back)
+* Additional info that explains what to know about printing and downloading lab and test information
+* For each result in list, include the following information
+  * Test name
+     *  If specific test name not available, use test category such as Microbiology
+  * Date
+     * Chem/Hem, Microbiology, Pathology: Date specimen was collected
+     * Imaging: Date imaging test was performed
+  * Test category
+     * Chemistry and hematology
+     * Pathology (if not used as test name)
+     * Microbiology (if not used as test name)
+     * X-ray and imaging results (Radiology)
+  * Provider who ordered the lab or test
+
+#### Functionality
+* List should be paginated, with 10 results per page
+* For each result, a user should be able to click on the first line of the card (result name) to view detailed information about that result
+
+---
+</details>
+
+<details>
+<summary>Chem/Hem results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+> **NOTE:** These results may consist of two parts. 
+> 1. Each lab test has “top-level” information that describes the metadata for the test. These are called Cosmic (VistA) or Orderable (OH) tests.
+> 1. Each Cosmic or Orderable test can have one or more structured results, called atomic tests (VistA) or discrete task assays (OH).
+
+* H1 for this page should be the name of the orderable or cosmic test.
+* At the Cosmic/Orderable level, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - Chemistry and hematology
+   * Date and time that the specimen for this test was collected
+   * The location at which the specimen was collected
+   * The provider who ordered the test
+   * The location of the provider who ordered the test
+   * Site or sample tested
+   * Comments entered by the lab
+* Information about understanding your results, presented within an additional info component
+* At the Atomic/Discrete level, include the following information for each result, presented in a card
+   * Test name
+   * Result measurement
+   * Units - _include as part of result measurement_
+   * Flag - _include as part of result measurement_
+   * Reference range
+   * Status
+   * Performing lab location - where the sample was tested/evaluated
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+---
+</details>
+
+<details>
+<summary>Microbiology results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be the name of the microbiology lab test that was run. If name not available, use type of test.
+* For each microbiology result, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - e.g. Surgical pathology _(backup for H1)_
+   * Date and time that the specimen for this test was collected
+   * The location at which the specimen was collected
+   * The provider who ordered the test
+   * The location of the provider who ordered the test
+   * Site or sample tested
+   * Collection sample - e.g. swab
+   * Performing lab location - where the sample was tested/evaluated
+   * Date and time that the sample evaluation was completed
+   * The actual resulting microbiology report - presented in monospaced font to preserve spacing
+   * Information about understanding your results, presented within an additional info component
+
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+---
+</details>
+
+<details>
+<summary>Pathology results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+> 
+> In MHV classic, there is significantly less structured data available for pathology reports. For example, ordering provider and location are not available. As work is done on this category, exploration should be done to understand whether we can get the same set of standardized data fields as chem/hem result and if so, take them to SMEs for approval to include. 
+
+* H1 for this page should be the name of the pathology lab test that was run. If name not available, use type of test.
+* For each pathology result, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - e.g. Surgical pathology _(backup for H1)_
+   * Date and time that the specimen for this test was collected
+   * Performing lab location - where the sample was tested/evaluated
+   * Date and time that the sample evaluation was completed
+   * The actual resulting pathology report - presented in monospaced font to preserve spacing
+   * Information about understanding your results, presented within an additional info component
+
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+---
+</details>
+
+<details>
+<summary>Imaging results - Details view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/labs-and-tests/result_id`  
+Breadcrumb: No  
+Back button: Yes, `< Back to lab and test results`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be the name of the imaging test that was run. If name not available, use type of test.
+* For each imaging result, include the following information
+   * Name of test _(used as H1)_
+   * Type of test - e.g. X-Ray _(backup for H1)_
+   * Date and time of the imaging procedure
+   * Performing location - where the images were taken
+   * Ordering/requesting provider
+   * Reason for study
+   * Clinical history
+   * Radiologist who performed study
+   * The actual resulting imaging report - presented in monospaced font to preserve spacing
+
+#### Functionality
+* Ability to download details of current result as a PDF
+* Ability to print the currently in view details of results
+* Link to MHV Classic to view associated radiology images
+
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|We will combine imaging and lab results into one section. |In [early tree testing studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test/my-health-tree-test-findings.md#details-of-findings), combining these categories worked well.|
+|In the list view, each card will show enough information about a lab result to consider that entry unique. We believe name and date speciment collected suffice.| The same lab or imaging test may be run multiple times.|
+|The following imaging results fields will not be shown to users: ordering location | SMEs felt that the ordering location was not important data and could create confusion alongside performing location.|
+|Lab and test result reports should be shown in monospaced fonts.| SMEs informed us that reports are written up in lab systems in monospaced fonts, and spacing is an important consideration. Therefore, that spacing should be retained when presenting to patients.|
+|For phase 0, we do not need to show radiology images.|Radiology images are stored differently from other medical records data and can be quite large in size. This work is requires separate work than making the other MR data available. Due to the heavier lift, as well as the notion that images are less useful for patients than the report, Dr. J mentioned in PI 10 that this work to move over to VA.gov could be deprioritzed, though needs to be done eventually before Phase 4.|
+</details>
+
+* [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
+* [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
+
+### Download all medical records (Blue Button Reports)
+<details>
+<summary>Requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records/download-all`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+> **NOTE**  
+>  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+
+* H1 for this page should be Download all medical records
+* Intro text at top of page that this is where a user can download all medical record information avialble on MHV on VA.gov in one place. It should also reference that the way this is done is by using VA Blue Button. 
+* Content should explain
+ * Exactly what you is part of the download
+ * What do know before downloading, including how to protect your PHI
+ * What to do if you can't find all of your record
+
+#### Functionality 
+* Ability to download all records available on MHV as a single PDF
+* Ability to download all records available on MHV as a single text file
+* Historical PGHD will be included in the downloaded medical records report. 
+
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|This section will be called Download all medical records, not Blue Button|Research showed that very few popeople recongize and understand exactly what Blue Button is. Therefore, we wanted to make it clear what this part of the application allows you to do. Instead of making Blue Button the H1, refer to Blue Button as the mechanism by which you can download all records. This allows us to clarify for Veterans while also connecting to MHV classic terminology. We also did research, and there are no requirements for using the Blue Button branding other than making sure it is labeled as registered, and it should be a way to download medical data. |
+|At first, only allow for full record downloads.|Classic MHV allows users to select categories and time frames as parameters for downloading your data. To download a specifc category of data, a user should navigate to that section of MHV on VA.gov. THerefore, category selection doesn't make much sense in this new app. However, time frame does, but to limit scope, and because downloading all is required in all versions of the tool, we decided to start there. Consider adding time frame selection in future versions of the app.|
+</details>
+
+* [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
+
+### Medical record settings
+> [!NOTE]
+> The content for opting into and out of VHIE is still undergoing review by the VHIE office as of Jan 11, 2024. Laura Willwerth is leading this effort. 
+
+<details>
+<summary>Requirements</summary>
+
+---
+#### IA
+URL: `/my-health/medical-records/settings`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+
+#### Content
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/MR%20sharing%20settings%20content%20(VHIE).docx?d=wac25c016d3b24e649e0c607ff8cc33f9&csf=1&web=1&e=nfXSFv).
+
+* H1 for this page should be Medical record settings
+* Intro text at top of page that explains what a user can do on this page - opt into and out of medical record sharing, and also link to notification settings
+* There should be two sections
+ * Manage your electronic sharing settings
+  * Content that explains what it means to share your electronic medical record
+  * Content that explains what you will be opting into sharing
+  * Your current setting
+ * Manage your notification settings
+   * Content that explains what settings are
+   * Content that directs you to the VA Profile to update settings
+
+#### Functionality 
+* Ability to opt into or out of sharing with VHIE
+* Link to VA profile to update notification settings
+
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|Medical records settings will be its own page and will primarily be about opting into and out of VHIE|There was a lot of struggle for where to locate this VHIE functionality. There was an attempt to pair it with downloading medical records, but that proved confusing for both IA reasons (what do you call the combined things in a nav option) and even once navigated to, it was unclear why these two things were bundled. Additonally, research showed that callign this page something like "Share your medical records" did not afford nor align with the actual actions taken. Therefore, we landed on settings as the best option.|
+
+</details>
+
+* [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
+* [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/MR%20sharing%20settings%20content%20(VHIE).docx?d=wac25c016d3b24e649e0c607ff8cc33f9&csf=1&web=1&e=nfXSFv)
+
+
+## Phase 1
+
+## Phase 2
+

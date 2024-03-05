@@ -32,7 +32,7 @@ Before we start, I want to mention a couple things:
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult is it to use [BHL or eScreening]?
 - Has the quality of the time you spend with patients improved or worsen due to this process? Why?
 - Have your workflows been affected either positively or negatively? How?
-- Do you feel this process maintains an appropriate level of safety and clinical intergrity? Why?
+- Do you feel this process maintains an appropriate level of safety and clinical integrity? Why?
 - Was your data entry simplified? How?
 - Have you noticed a decrease or increase in the notifications you receive about clinical reminders?
 - Would you agree or disagree with the following statement? Overall clinic reminder burden has been reduced.
@@ -57,7 +57,26 @@ Before we start, I want to mention a couple things:
 - If you could change one thing about setting up [BHL or eScreening], what would it be?
   
 ## Questions for Toxic Exposure Screening (TES) Navigator
-- 
+
+### Involvement with Clinical Reminders Pilot - 3 minutes
+- Are you directly involved in the Clinical Reminders Pilot? How so and to what extent?
+- Were you trained on the escreening or BHL tool? [*Note to moderator-if Yes, move on to "Learning the tool" and "Configurating the tool" sections; if participant answers No, move on to next question.]
+- As a TES Navigator, what training did you receive on evaluating the clinical reminders.
+- Have you received or heard any feedback about the toxic exposure screening from providers or other VA staff? And what are Veterans saying about it?
+
+### Learning the tool - 7 minutes 
+- On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to learn how to configure [BHL or eScreening]?
+- How long did it take you learn to configure the tool?
+- Can you describe your onboarding process?
+- Can you summarize the training that was provided to you?
+- If you could change one thing about onboarding or the training that you received, what would it be?
+
+### Configuring the tool - 10 minutes
+- Can you summarize the steps you had to take to configure the tool?
+- What steps were easy?
+- What challenges did you run into?
+- Has the addition of this tool affected your role either positively or negatively? How?
+- If you could change one thing about setting up [BHL or eScreening], what would it be?
 
 ## Thank-You and Closing - 3 minutes 
 Is there anything else that we haven't talked about that you'd like to share with me?

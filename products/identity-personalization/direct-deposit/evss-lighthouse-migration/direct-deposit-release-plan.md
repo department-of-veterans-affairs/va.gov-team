@@ -188,6 +188,8 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-month results
 
+[See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)
+
 - Number of unique users: [FILL_IN]
 - Post-launch KPI 1 actual: [FILL_IN]
 - Post-launch KPI 2 actual: [FILL_IN]

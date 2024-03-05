@@ -1,5 +1,129 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Jan 18' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submit Migration
+   -  Current state
+   -  Get Steve upto date with discovery done so far and Aurora's diagram
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access?
+   - Not urgent - Steve to look into this
+- Toxic Exposure
+  - Checbox list and loop function not supported by the forms library
+  - How much is significant effort?
+  - Would forms library adopt these changes if we make the change? Potential maintenance problem?
+- Research shareout with stakeholders
+  
+### Date: Jan 11' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submission Migration
+   - Share work in progress for discussion with Lighthouse next week
+     - Diagram
+     - Usecases
+- Prioritization of what's next  
+
+### Date: Jan 4' 2024       
+### Participants: Rakshinda, Austin, Emily, Shannon, Steve 
+### Topics Covered:
+- Submission Polling
+   - Is there an option of asking Lighthouse to change the polling implementation?
+     - Emily, Steve to reach out to Janet, Micheal Harlow on this
+     - Team 1 and 2 to look at options other than polling
+     - Look at best practices for sync responses
+   - Concerns around scalability and questions around "how many times/how often/when do we stop/what then?"
+   - Team 1 is currently in discovery mode for polling solution for 526 submission
+   - Team 1 and 2 to look at all the use cases to see if different components need to be built for back-up submission (batch) or document upload ( different service)
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access? 
+### Date: Dec 21' 2023       
+### Participants: Rakshinda, Austin, Emily, Shannon 
+### Topics Covered:
+- Toxic Exposure
+  - Concern around not offering TE for Claims for Increase in the MVP
+    
+- Polling Block'o'palooza
+  - Polling solution for each pathway for document upload
+  - batch process for 4.2 needs to be done before migration
+  - Document pre-reqs for submit migration - team 2
+  - Block submit canary launch for a polling solution and success response with VBMS ID
+  - Submit, Backup submission , Document Upload, ancillary forms
+    -  What's the time period for polling and receiving actual request response
+    -  Simple Form has already implemented this for Benefits Intake - they handle a package vs 526 claims, documents and forms
+  - Pair Team 1/2 for this development
+    - Start a discovery ticket on polling and display solution
+    - Sam is already involved
+- EVSS sends success, retriable and non-retriable error
+- Austin creating a summary document
+       
+### Date: Dec 14' 2023       
+### Participants: Rakshinda, Austin, Emily, Shannon 
+### Topics Covered:
+
+- 4142 Failures
+  - Approach to determine following?:
+    - "We may want them to actually go both places -- to the efolder AND to central mail. But we'll need to confirm the desired behavior with 
+      david and possibly OBI (office of business integration, who owns the mail portal and mail automation) before implementing."
+      **Notes:**
+      - VBA uses a contractor to reach out for private medical records(PMR)
+      - There is currently automation in place to send out for PMR
+      - Need to figure out the options/details for the desired behavior
+      - Catherine Kane(sp?) in OBI
+      - David/OCTO/OBI to make a decision
+  Document Upload migration
+      - How does polling work today?
+      - How should polling work for 526/other products
+      - Ancillary forms(4142, others?)
+      - Should 526 submission include upload of all documents? Needs discovery
+      - Do we create 781 and upload?
+        - Yes, we think - Austin  
+- Toxic Exposure Questions
+   -   Additional dates for location - send them to 15 B, C, D or E?
+       - Dump in 15E   
+   -   Addition hazard of type "Other" - Only one for MVP?
+   -   Radiobutton captions in column 2 for all radio buttons
+- Shipping code with feature flag off before staging review with Governance team
+
+### Date: Dec 07' 2023       
+### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
+### Topics Covered:
+- 4142 failures
+  - First action is to review past 90 days of failures and get a clean list of unique failures
+  - Open question:
+    - Is order of operation?: 1. Transform data to pass Central Mail regex 2. Reprocess known failures 3. Migrate to Benefits API
+      - Would any 526 submission with a failed 4142 submission block VBA from processing their claim?
+    - Who is contact at Central Mail where we can get current Regex rules?
+    - How should we handle current known failures? Resend throigh central mail once regex fix in place?
+    - Should we / can we identify past 4142 failures prior to 90 days ago?
+   Notes:
+    - 0894 is not in production for 526
+    - 0781 goes through Benefits API
+    - 4142 is the only 516 form going through Mail Automation Portal - Scott confirming
+    - MAS applying Regex for all meta data? Need to confirm
+    - Scott to list all meta data regex patterns he sees 
+    - How are we storing the failures for all forms in benefits portfolio? - Sam (not from Team 2) is looking into it
+       - The error that happened
+       - Information needed to resubmit the form
+- Simple forms for benefits ITF submission
+  - Forms team is digitizing the standalone process to submit an ITF for benefits
+  - In addition to a logged in use case that uses the ITF end point in same manner as 526 they are introducing a new use case where the Veteran can submit an ITF without logging in.
+  - In this case there is a risk that the date of submission will not be the same date used by VBA once it is processed through Central Mail.
+    - Question: can we confirm that we need ITF submission date to = date of submission, not date it is processed through Central Mail?
+- Document user experience during maintenance windows/outages
+    - Identify different types of outages
+    - Start with discovery of UX during code roll and planned maintenance in our control
+  Notes:
+    - Faraday breakers? A system watches for failing APIs and stops calling them
+    - Pager duty EVSS integration
+    - DD - can put in downtime to block monitors to stop alerting during planned maintenance
+      - veterans and monitoring team 
+- Priorities for Team 1
+    - LH Migration 
+    - Toxic Exposure
+    - Other 526 sync with 2022 paper form
+
+- Team 2 is taking watch tower alerting for this sprint
 ### Date: Nov 30' 2023       
 ### Participants: Rakshinda, Austin, Emily, Steve, Shannon 
 ### Topics Covered:

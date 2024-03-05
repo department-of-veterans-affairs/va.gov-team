@@ -4,13 +4,13 @@ Meeting Owner: Jennifer Brown
 Timing: Every second Wednesday 2:35 - 3:15pm 
 
 ---  
-**Demo Sprint 84 11/8/23** 
+**Demo Sprint 85 12/6/23** 
 Agenda
 - Demo Topic(s)
   -  Detox
 
-- Slides - [[Sprint 85 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13591777/Sprint.85.-.VA.Mobile.App.Demo.Slides.pdf))
-- Video - [Sprint 83 - VA Mobile App Demo Recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/demo/2023-11-08%2014.07.10%20Sprint%2083%20Demo.mp4)
+- Slides - Sprint 85 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13591777/Sprint.85.-.VA.Mobile.App.Demo.Slides.pdf
+- Video - [Sprint 85 - VA Mobile App Demo Recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/demo/2023-12-06%2014.07.10%20Sprint%2085%20Demo.mp4)
 ---  
 **Demo Sprint 83 11/8/23** 
 Agenda
@@ -27,9 +27,9 @@ Agenda
 - Demo Topic(s)
   -  Travel Claims in Appointments
 
-- Slides - [[[Sprint 82 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13169450/Sprint.82.-.VA.Mobile.App.Demo.Slides.pdf)
+- Slides - Sprint 82 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/13169450/Sprint.82.-.VA.Mobile.App.Demo.Slides.pd)
 
-- Video - [https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/916b0402-5932-4237-8a78-1933c49e076b]
+- Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/916b0402-5932-4237-8a78-1933c49e076b]
 
 ---  
 **Demo Sprint 81 10/11/23** 
@@ -37,11 +37,10 @@ Agenda
 - Demo Topic(s)
   -  Travel Claims in Appointments
 
-- Slides - [[Sprint 81 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12882981/Sprint.81.-.VA.Mobile.App.Demo.Slides.pdf)
+- Slides - Sprint 81 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12882981/Sprint.81.-.VA.Mobile.App.Demo.Slides.pdf
 
 - Figma diagrams - [[Uploading Travel-Reimbursement-other-areas.pdf…]()
 [Travel-Reimbursement.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12882995/Travel-Reimbursement.pdf)
-
 
 - Video - [(https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/demo)]
   
@@ -53,8 +52,6 @@ Agenda
 
 
 - Slides - [Sprint 80 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12742120/Sprint.80.-.VA.Mobile.App.Demo.Slides.pdf)
-
-
 - Video - (too large to upload)
 
 ---  
@@ -62,8 +59,6 @@ Agenda
 Agenda
 - Demo Topic(s)
   -  Design System: documentation and component progress
-
-
 - Slides - [Sprint 79 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12600941/Sprint.79.-.VA.Mobile.App.Demo.Slides.pdf)
 
 - Video - (too large to upload)
@@ -75,7 +70,6 @@ Agenda
   -  Deep Linking (Stacy and Theo)
   -  Medication Findings/Comparative Analysis (Meko and Lauren)
 
-
 - Slides - [Sprint 78 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12479301/Sprint.78.-.VA.Mobile.App.Demo.Slides.pdf)
 
 - Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/1920e5fe-24f9-4d02-a327-8f81900e42f1
@@ -85,7 +79,6 @@ Agenda
 Agenda
 - Demo Topic(s)
   -  Veteran Status
-
 
 - Slides - [Sprint 77 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12600991/Sprint.77.-.VA.Mobile.App.Demo.Slides.pdf)
 

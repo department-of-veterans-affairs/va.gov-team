@@ -3,7 +3,7 @@ name: Analytics Edge Case Dashboard - Request Template
 about: To request an edge case KPI dashboard on Domo for your product
 title: Analytics edge case KPI dashboard request for [Team]
 labels: analytics-insights, analytics-request, kpi-dashboard
-assignees: michelle-dooley
+assignees: johnny-jesensky-adhoc
 
 ---
 
@@ -11,7 +11,7 @@ assignees: michelle-dooley
 
 ## What this form is for
 
-Use this ticket template to request a new edge case KPI dashboard on Domo for your product. Edge case dashboards are for products that fall outside of the scope of our standardized KPI dashboards (Forms, Content, and Search).
+Use this ticket template to request a new edge case KPI dashboard on Domo for your product. Edge case dashboards are for products that fall outside of the scope of our standardized KPI dashboards [Forms](https://va-gov.domo.com/page/447193050), [Content](https://va-gov.domo.com/page/426422632) and [Search](https://va-gov.domo.com/page/1964748112).
 
 If you are unsure what type of dashboard your product qualifies for, please check the [Eligibility Dashboard](https://va-gov.domo.com/page/1550814739) on Domo.
 

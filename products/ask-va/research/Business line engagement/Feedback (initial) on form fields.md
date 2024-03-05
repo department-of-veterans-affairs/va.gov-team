@@ -49,7 +49,7 @@ We are proposing to remove some fields from the Ask VA form. As part of this pro
   - Technical issues
 > **Takeaway: Confirm whether the Women Veterans business line requires this (for their category and/or for all categories).**
 
-> **Update 10/13: We confirmed that there is a Congressional Mandate which states the requirement to collect data on Gender. This field will remain.**
+> **Update 10/13: We confirmed that there is a Congressional Mandate which states the requirement to collect data on Gender. We will explore this more with the CWV. [Review proposal to remove](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/recommendation-for-removing-gender.md).**
 
 ---
 

@@ -48,12 +48,19 @@ The documentation is to provide definition and clarity as to how we are tracking
 ## Full List  
 | Event Label (custom event name from data layer) | Parameters | Definition |
 |-----|----------|-----|
+vaos-breadcrumb-/my-health-clicked | |
+vaos-breadcrumb-health-care-clicked | |
+vaos-breadcrumb-home-clicked | |
+vaos-breadcrumb-schedule-managed-clicked | |
 vaos-cancel-appointment-submission | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation was attempted
 vaos-cancel-appointment-submission-failed | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission wasn't successful
 vaos-cancel-appointment-submission-successful | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission was successful
 vaos-cancel-booked-clicked |
 vaos-cancel-request-clicked |
 vaos-cc-eligible-yes |
+vaos-cerner-redirect-appointments-landing-page |
+vaos-cerner-redirect-static-landing-page |
+vaos-choose-provider-click
 vaos-community-care-path-started |
 vaos-community-care-provider-selection-page |
 vaos-community-care-submission | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-community-care-preferred-language: "english", vaos-number-of-preferred-providers: 0 }` | User completed the form and a submission was attempted
@@ -77,6 +84,7 @@ vaos-covid19-start-scheduling-button-clicked |
 vaos-covid19-submission | `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | User completed the form and a submission was attempted
 vaos-covid19-submission-failed | `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | Submission wasn't successful
 vaos-covid19-submission-successful | `{ facility-id: "983", flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | Submission was successful
+vaos-direct-confirmation-details-descriptive-back-link |
 vaos-direct-path-started |
 vaos-direct-submission | `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | User completed the form and a submission was attempted
 vaos-direct-submission-failed | { flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission wasn't successful
@@ -87,8 +95,6 @@ vaos-eligibility-direct-no-matching-past-clinics-failed | `{ flow: "direct", hea
 vaos-eligibility-direct-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
 vaos-eligibility-request-exceeded-outstanding-requests-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; reached the limit for appointment requests at this location
 vaos-eligibility-request-past-visits-failed | `{ flow: "request", health-TypeOfCare: "143", health-FacilityID: "984GB"}` | eligibility failed; there has not been a recent visit
-vaos-eligibility-request-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
-vaos-eligibility-supported-facilities-failed | `{ health-TypeOfCare: "Mental health", health-FacilityID: "000XYZ"}` | eligibility failed; faciity failed support check
 vaos-error |
 vaos-facilities-not-listed-click |
 vaos-facilities-not-listed-locator-click |
@@ -101,8 +107,13 @@ vaos-get-past-appointments-started | | When past appointments are fetched
 vaos-get-pending-appointments-failed | | If the request fetch fails
 vaos-get-pending-appointments-retrieved |
 vaos-get-pending-appointments-started | | When requests are fetched
+vaos-new-appointment-list |
 vaos-number-of-items-retrieved | types: `express_care`, `upcoming`, `video_home`, `video_va_facility`, `video_gfe`, `video_atlas`, `video_store_forward` | When a list of items are successfully fetched for the appt list
 vaos-order-position-provider-selection |
+vaos-past-appointment-details-descriptive-back-link |
+vaos-pending-appointment-details-descriptive-back-link |
+vaos-pending-confirmation-details-descriptive-back-link |
+vaos-print-list-clicked |
 vaos-provider-list-paginate |
 vaos-request-current-location-allowed |
 vaos-request-current-location-blocked |
@@ -114,9 +125,9 @@ vaos-request-submission-successful | `{ flow: "va-request", health-ReasonForAppo
 vaos-schedule-another-appointment-button-clicked |
 vaos-schedule-appointment-button-clicked |
 vaos-schedule-covid19-button-clicked |
-vaos-schedule-new-appointment-started |
 vaos-status-past-link-clicked |
 vaos-status-pending-link-clicked |
+vaos-upcoming-appointment-details-descriptive-back-link |
 vaos-update-address-alert-displayed |
 vaos-variant-default-alphabetical |
 vaos-variant-default-distanceFromCurrentLocation |
@@ -157,8 +168,10 @@ VAOS Facility ID |
 | Event Label (custom event name from data layer)| Parameters | Definition |
 | ------------- | ------------- | ------------- |
 nav-tab-clicked | | When a tab is clicked, would've occured on original tab design of appointments list
-vaos-return-to-legacy-link-clicked | `{ typeOfCare: ‘Primary Care’, flow: ‘direct’}` | "Return to legacy VAOS" link clicked
-vaos-past-appointments-legacy-link-clicked |
+vaos-community-care-legacy-provider-page |
+vaos-community-care-preferences-continue |
+vaos-eligibility-request-supported-failed | Not implemented into GA | eligibility failed; Disabled in VATS for this location and type of care
+vaos-eligibility-supported-facilities-failed | `{ health-TypeOfCare: "Mental health", health-FacilityID: "000XYZ"}` | eligibility failed; faciity failed support check
 vaos-express-care-facilities-link-clicked |
 vaos-express-care-path-cancelled |
 vaos-express-care-path-started |
@@ -169,6 +182,11 @@ vaos-express-care-submission-failed |
 vaos-express-care-submission-successful |
 vaos-express-care-switch-to-appointment-flow-clicked |
 vaos-express-care-view-your-appointments-button-clicked |
+vaos-facilities-not-listed-click |
+vaos-int-radio-button-option-click |
+vaos-past-appointments-legacy-link-clicked |
+vaos-return-to-legacy-link-clicked | `{ typeOfCare: ‘Primary Care’, flow: ‘direct’}` | "Return to legacy VAOS" link clicked
+vaos-schedule-new-appointment-started |
 
 
 ### Removed Custom Dimensions/Metrics in Google Analytics

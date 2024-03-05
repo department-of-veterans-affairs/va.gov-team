@@ -10,7 +10,7 @@ The goal is to have the Veteran easily read their healthcare appointments online
 
 ## Outcome Summary
 
-A user can view their appointments details (upcoming, pending, canceled or past) without any confusion and provide value information to the veteran
+A user can view their appointments details (upcoming, pending, canceled or past) without any confusion and provide value information to the Veteran.
 
 **Related/Associated product(s)**
 - None
@@ -48,6 +48,31 @@ A user can view their appointments details (upcoming, pending, canceled or past)
 
 ## Undesired Outcomes
 - A user does not have clear information about their appointment details
+
+## Changes
+
+Restructure layout and cleaned up language to make it easier to scan for information. Also helps align designs between Appointments and Check-in.
+
+Clarify button and links to improve accessibility.
+
+Include more appointment data:
+- Add sections for _type of care_ and _provider_ information so we can show that data in a consistent location when we have it.
+- Add modality and how to attend to all appointment types
+- Change main phone number to clinic phone number when it's available for all appointments.
+- Add clinic location to all VA appointments that the Veteran attends in person.
+
+Merge appointment types that were the same to reduce complexity:
+- GFE and Video appointments.
+- COVID Vaccine and In-person appointments.
+
+Add a link to view after visit summary.
+
+Add a link to verify health care contacts.
+
+Reduce alert noise on past appointments.
+
+Add link to `Schedule new appointment` to all canceled appointments.
+
 
 ## Key Decisions
 - It is preferred that VAOS provides the same value and information of the appointment list similiar to MHV application
@@ -184,8 +209,8 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 <details>
 
 - Team Name: VA Online Scheduling
-- GitHub Label(s): vaos 
-- Slack channel: #vaos-team
+- GitHub Label(s): appointments 
+- Slack channel: #appointments-team
 - Product POCs: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
 
 </details>

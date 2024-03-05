@@ -28,8 +28,8 @@ VA has a responsibility to provide accurate VA facilities and VA services inform
 Similar to most other types of search tools, Veterans should be able to begin a search with the need/service and receive a list of facilities where that service is available, regardless of the "type" of facility. This is especially true for services which are delivered across VA facility types. The Facility Locator can become a VA Facility/Service/Condition Locator once all facilities, services, and conditions are connected in Drupal and/or Facilities API. 
 
 ## Facilities products
-
-[Product documentation index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/product-documentation.md)
+- [Process for reporting inaccurate data in Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#process-for-reporting-inaccurate-data-in-facility-locator)
+- [Product documentation index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/product-documentation.md)
 
 ### Integrated Facilities & Services Data Products
 
@@ -50,7 +50,7 @@ These products provide detailed information about specific VA facilities to help
 - VBA Regional Office facility system product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices) | github label: [Regional office](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Regional%20office)
 
 **Future facilities to modernize**
-- VAMC VHA Mobile | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/initiative-brief.md) | [VSA Mobile Health Clinics UX research and design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md)
+- VAMC VHA Mobile | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/initiative-brief.md) | [VSA Mobile Health Clinics UX research and design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md)
 - NCA National Cemetery facility product | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/cemeteries) | github label: [Cemeteries](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Cemeteries)
 - VBA non-Regional Office facilities | github label: [VBA](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/VBA)
 - Domiciliaries | [product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/domiciliaries) | github label: [Domiciliaries](https://github.com/department-of-veterans-affairs/va.gov-cms/labels/Domiciliaries)
@@ -63,6 +63,7 @@ These products provide detailed information about specific VA facilities to help
 - [VA facility product sitemaps](https://app.mural.co/invitation/mural/departmentofveteransaffairs9999/1674779377050?sender=u2aba00c97ab77c6ec1573123&key=3024f3ae-613d-4244-abf0-844be1f68cca)
 - [VSA Facilities Team transition folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator/product-transition-doc) | March 2022
 - [VSA Facilities Team Research and Design Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md) | March 2022
+- [Data flow and migrations](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-facility.md#data-flow)
 
 ### Related teams & documentation
 

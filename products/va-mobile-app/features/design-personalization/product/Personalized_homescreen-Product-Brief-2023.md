@@ -82,7 +82,7 @@ Subsequent Personalization iterations will _**not**_ be limited to the home scre
 
 ### Metrics
 
-Measures of success are defined by an outcome with associated direct & proxy measurements. Additional details on how measures of success were determined are located [here](https://docs.google.com/document/d/1xa5d114xMp6Ls1x2KR904LUoAQ7tDGKZBiijE8MJRKc/edit)
+Measures of success are defined by an outcome with associated direct & proxy measurements. Additional details on how measures of success were determined are located in the [Data Project Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/data_project_plan.md)
 
 
 

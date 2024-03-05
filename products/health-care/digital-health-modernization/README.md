@@ -15,14 +15,14 @@
 - Stephen Barrs - OCTO Engineer
 - Sara Smith - 508 Accessibility Specialist [Oddball]
 - Lynne Johnson - Delivery Manager
-- Tom Anderson - Product Manager
-- Cara Frissell - Research Lead
+- Wesley Rowe - Product Manager
 - Florence McCafferty - Design Lead
 - Jonathan Nelson - Designer
 - Keith Cheung - Designer
 - Carlos Felix - Technical Architect
-- Eric Voshall - Full stack Developer
+- Daniel Cloud - Full stack Developer
 - Richard Davis - Full stack Developer
+- Jim Zaccardo - Full stack Developer
 - Angela Fowler - Accessibilty Specialist
 - Sara Sterkenburg - Information Architect
 
