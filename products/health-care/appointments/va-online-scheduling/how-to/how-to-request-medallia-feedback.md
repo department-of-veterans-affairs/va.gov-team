@@ -65,6 +65,7 @@ All in one file, on one tab
 ### Medallia Feedback Requests - Q2 2024
 
 | Dates                  | Submitted By | Ticket Link  | Status |
+|------------------------|--------------|--------------|--------|
 | Week 14 Mar 31--Apr 06 | Melissa Lefevre  | []() |  |
 | Week 15 Apr 07--Apr 13 | Melissa Lefevre | []() |  |
 | Week 16 Apr 14--Apr 20 | Melissa Lefevre | []() |  |
