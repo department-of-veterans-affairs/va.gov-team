@@ -27,12 +27,10 @@ This research fits into these points of a Veteran's Journey:
 
 ## **Research Goals**
 
-1. Identify what type of information or signifiers Veterans look for when trying to locate a medication?
-    1. Identify where in a medication experience do they expect to find them?
-2. Identify what Veterans do when they cannot locate a medication?
-3. Identify how research questions 1 and 2 change across device and other use cases?
-    1. Device/modality: mobile vs. desktop (or app)
-    2. Use case: Refilling medications, finding a specific medication, and or any other scenarios Veterans may be experiencing.
+1. Identify how Veterans find a medication in My HealtheVet or VAHB-Mobile.
+2. Identify how Veterans find information on their medication(s).
+3. Identify how Veterans make sense of their medication list(s).
+4. Identify how Veterans' experiences with My HealtheVet/VAHB-Mobile and other websites/apps inform their expectations.
 
 ## **Outcome**
 
@@ -40,13 +38,11 @@ The results of this study will help us determine what is and isn't working for o
 
 ## **Research questions**
 
-1. What do Veterans expect to see on their prescription page?
-2. What kind of information do Veterans usually look for about their prescriptions?
+1. What do Veterans expect to see on their Medications page?
+2. What type of medication information do Veterans seek?
     1. How do they find the information?
-    2. What information do they use to find a prescription?
-3. What do Veterans do if they cannot find a prescription?
-    1. How do they expect old prescriptions to show up?
-    2. If they could search for a prescription, how would they do it?
+3. What do Veterans do if they cannot find a medication?
+ 
 
 ## **Hypothesis**
 
