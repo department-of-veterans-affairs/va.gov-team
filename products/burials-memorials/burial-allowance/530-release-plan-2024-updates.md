@@ -44,6 +44,8 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 | User Type | Flipper Status | Form in Progress | Visible Form | Alert Banner Displayed | Data Migrated |
 |---|---|---|---|---|---|
 | Authenticated Users | Disabled | No | v1 Form | No | No |
+| Authenticated Users | Disabled | Yes, v1 | v1 Form | No | No |
+| Authenticated Users | Disabled | Yes, v2 | v2 Form | No | No |
 | Authenticated Users | Enabled | No | v2 Form | No | No |
 | Authenticated Users | Enabled | Yes, v1 | v2 Form | Yes | Yes |
 | Authenticated Users | Enabled | Yes, v2 | v2 Form | No | No |
