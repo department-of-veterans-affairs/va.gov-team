@@ -18,12 +18,11 @@ Goal: **How might we craft a release plan to test our product "in the wild" at a
 |Phase 2: Canary production testing |3 hours|10 claims| TBD  |
 |Phase 2A: 25% of users |2 days|25% of users (auth and non-auth)|TBD|
 |Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
-|Phase 2C: 95% of users| indefinite | 95% users (auth and non-auth) | TBD |
-|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
+|Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
 Considerations
-- 2D: The number of v1 users with in-progress forms will be monitored to determine how many users have active in-progress forms vs abandoned forms. Suggest looking at the page users are on in the form and if they have any form data saved.
+- Form volume is typically 25 authenticated submissions and 30 unauthenticated submissions per day
 
 ## Overview
 As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md), the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
@@ -33,21 +32,28 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
    - Before full release:
-      - Authenticated Users: Users will complete the old version of the form.
-      - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they will fill out the updated version of the form.
+      - Authenticated Users: Users will complete the old version (v1) of the form.
+      - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form.
    - After 100% release:
-      - Authenticated Users: Users will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form.
-      - Unauthenticated Users: Users will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form.
+      - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the start of the form and see an info alert stating the form has been updated and they may need to fill out additional info. Their v1 data will appear in the v2 form.
+      - Unauthenticated Users: If users are in an active session, they will complete the v2 version of the form. If they leave the active session and return, they will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form -- none of their v1 data will appear in v2 of the form.
 2. Applications Not Started
-   - Authenticated Users: Users will complete the new form.
-   - Unauthenticated Users: Users will complete the new form.
+   - Authenticated Users: Users will complete v2.
+   - Unauthenticated Users: Users will complete v2.
 
+| User Type | Flipper Status | Form in Progress | Visible Form | Alert Banner Displayed | Data Migrated |
+|---|---|---|---|---|---|
+| Authenticated Users | Disabled | N/A | v1 Form | No | No |
+| Authenticated Users | Enabled | Yes (v1) | v2 Form | Yes | Yes |
+| Authenticated Users | Enabled | No | v2 Form | No | No |
+| No-Auth Users (Pre-100% Release) | N/A | N/A | v1 Form | No | No |
+| No-Auth Users (Post-100% Release)| N/A | N/A | v2 Form | No | No |
 
 ### This release will include the following components:
 1. Form field updates on some pages (add new fields, remove old fields)
 2. Form component updates on the pages already receiving form field updates
 3. Accessibility updates on the pages already receiving form field updates
-4. Maybe: Info alert on the form information page letting in-progress users forced into the new version of the form that the form has been updated.
+4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
 5. New confirmation email sent to users confirming their claim submission through VA.gov
 ---
 
