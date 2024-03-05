@@ -93,11 +93,6 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
         - ❗ 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
         - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
-- **GOAL: Make Travel Claims Easier**
-   - **Sub Goal: [MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77664)**
-       - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
-       - 🟥 [[UX] [Design] Create Userflow for MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
-       - 🟥 [[UX] [Design] Create Userflow for adding Check Eligibility Endpoint into eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77669)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟥 [[UX] Pre-Check-in & Day-of Text Messages: Update the Text Messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62099)
@@ -108,10 +103,13 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
+- **GOAL: Discovery**
+    - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
+    - 🟥 [[UX] [Design] CCreate Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
     - **Sub Goal: Migrate to GA4**
-        - 🟥 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel] ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
+        - 🟥 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
         - 🟥 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
