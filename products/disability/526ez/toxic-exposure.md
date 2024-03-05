@@ -252,11 +252,14 @@ There are many sections of toxic exposure questions and loops within each sectio
 
 #### Current approach
 
-![Intermediary summary](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/cf7dc481-f9db-4e0a-be1d-9868c54e11b5)
-
 We present "mini" summary screens at the end of each section (set of locations or hazards), with the ability to edit that section. We also show a heading like "1 of 3: Afghanistan" to assist with orientation within the section.
 
-![dates on locations pages - 3 screens](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/fa4f552c-e473-4bbb-8b21-0ba82cc7e8d0)
+![section-review-1990](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/370c9dae-8453-4d3c-9baf-e1ba53c2cb78)
+
+Another example from a later section in the flow:
+
+![section-review-agent-orange](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/bef2525d-7b31-4f41-b3fd-3cffef433b78)
+
 
 #### Other approaches considered
 - Large summary page at the end - headings for each location
