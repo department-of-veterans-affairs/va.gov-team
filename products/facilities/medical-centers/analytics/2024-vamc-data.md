@@ -13,11 +13,11 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 ## VAMC editor and facility stats
 | Metric | January 2024 | February 2024	| March 2024
 |---|:---:|:---:|:---:|
-| Total # of active editors | 366 | | |
-| Total # of VAMC systems |141 | | |
-| Total # of VAMC facilities | 1,458 | | |
-| Total # of VAMC system health services | 6,550 | | |
-| Total # of VAMC facility health services | 15,856 | | |
+| Total # of active editors | 366 |368 | |
+| Total # of VAMC systems |141 | 141 | |
+| Total # of VAMC facilities | 1,458 |1,461 | |
+| Total # of VAMC system health services | 6,550 |6,559 | |
+| Total # of VAMC facility health services | 15,856 | 15,901 | |
 
 ## Summary data
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/7a4e0e86-10da-4a30-b05a-da7606d36a25)
