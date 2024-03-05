@@ -11,8 +11,11 @@ ________________________________________________________________________________
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**
 - **GOAL: Increase PCI Usage**
+    - **Sub Goals: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
+    - **Sub Goal: Migrate to GA4**
+    - **Sub Goal: Move to New AWS Instance**
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
@@ -29,14 +32,14 @@ ________________________________________________________________________________
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - ❗ 🟩 [[FE] - Set up travel-claim app in pagerDuty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77393)
 - **GOAL: Increase Usage of PCI**    
+    - **Sub Goals: Submit Q1 Translations to the State Department**
+        - 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
-    - ❗ 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)   
-    - **Sub Goal: Create Travel Claims vets-api Library**
-        - 
+        
 ------- END FUTURE / TENTATIVE ------
 </details>
 
@@ -175,7 +178,7 @@ ________________________________________________________________________________
     - 🟥 [[Design] Update margins for auto-layout and apply to Figma frames #75890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75890)
     - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
      - **Sub Goal: DevOps Improvements**
-        - 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+        - 🚧 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 ______________________________________________________________________________________________________________________________________________________
 
 ## 2/7/2024 - 2/18/2024 - LAST SPRINT OF THE BAH CONTRACT
