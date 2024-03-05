@@ -10,4 +10,4 @@ The Drupal CMS automatically creates the URL for a resources and support page fr
 6. When the redirect is live, archive the old node in Drupal. 
 7. The sitemap should be automatically updated and will have removed the old URL, but reach out to Public Websites to confirm.
 
-**Note:** If the old R&S page is high profile or has inaccurate information that could lead to negative consequences for Veterans, consider adding an info alert to the top of the old page while we're waiting for the redirect. The alert could note that the page is out of date, and link people to the new page for updated information. 
+**Note:** If the old R&S page is high profile or has inaccurate information that could lead to negative consequences for Veterans, consider publishing the updated content in the old node but leaving the H1 unchanged. That way the old URL will stay live until the redirect kicks in, but the page content will be accurate.
