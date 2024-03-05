@@ -228,7 +228,7 @@ _\[Click on the link\]_
 
 # **Task 3: Care Summaries and Notes – 10 minutes**
 
-- Let’s say that Jamie saw a doctor in November 2023, and you want to see a note the doctor wrote as part of the visit, please walk through how you would do that on this website.
+- Let’s say that Jamie saw a doctor in March of 2024, and you want to see a note the doctor wrote as part of the visit, please walk through how you would do that on this website.
 
 _\[If they do not find the page or start scrolling through, say\]_
 
@@ -242,7 +242,7 @@ _\[Within details page\]_
 
 - You just said you expected to see (XYZ), how does this match that?
 - _\[If it doesn’t\]_ tell me how.
-- Let's say that Jamie was admitted to the hospital for a brief procedure in September of 2023. Walk me through how you would find the details of that in-patient care.
+- Let's say that Jamie was admitted to the hospital in March of 2024. Walk me through how you would find the details of that in-patient care.
 
 _\[If they find it, ask\]_
 
