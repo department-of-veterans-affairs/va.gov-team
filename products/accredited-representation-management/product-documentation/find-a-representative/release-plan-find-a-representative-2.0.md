@@ -3,9 +3,8 @@
 
 ### Development
 
-Feature Toggles:
-
-1.  `find_a_representative_enabled` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
+Feature Toggle:
+`find_a_representative_enabled` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
 
 ### Validation
 
