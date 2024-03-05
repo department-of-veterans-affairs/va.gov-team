@@ -5,13 +5,12 @@
 
 Feature Toggles:
 
-1.  ~`find_a_representative_enable_api` will be enabled prior to staged rollout~
 2.  `find_a_representative_enabled` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of both our Find a Rep product and it's related entry point on the CAIA landing page
 
 ### Validation
 
 #### Platform Preparation
-- [ ] Are all Collaboration Cycle touchpoints complete?
+- [x] Are all Collaboration Cycle touchpoints complete?
 
 #### Technical Preparation
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
@@ -30,8 +29,10 @@ Feature Toggles:
 - [x] Discuss the pros and cons with releasing our MVP, knowing that the data from OGC has inaccuracies
 
 #### Go/No Go meeting 3/5/2024 at 12:30p ET
-- [ ] review the plan with your DEPO/OCTO representative.
-- [ ] review the release plan with your team.
+- [x] review the plan with your DEPO/OCTO representative.
+- [x] review the release plan with your team.
+
+**Verdict: "Conditional Go" after we're able to resolve the open issue with the csrfToken.**
 
 ***
 
@@ -58,17 +59,17 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 3/5-3/18/2024
-- Limited production access will be controlled through the frontend feature toggle `find_a_representative_enable_frontend` 
+- Rollout date range: 2 weeks, dates TBD
+- Limited production access will be controlled through the frontend feature toggle `find_a_representative_enabled` 
 - Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
 **Go/No Go meeting 3/5/2024 at 12:30p ET**
-1. Stage A: 10% of users on 3/5 (Tuesday)
-2. Stage B: 25% of users on 3/7 (Thursday)
-3. Stage C: 50% of users on 3/11 (Monday)
-4. Stage D: 100% of users on 3/12 - monitor for any issues through 3/18 EOD (Monday)
+1. Stage A: 10% of users on ~3/5 (Tuesday)~ TBD
+2. Stage B: 25% of users on ~3/7 (Thursday)~ TBD
+3. Stage C: 50% of users on ~3/11 (Monday)~ TBD
+4. Stage D: 100% of users on ~3/12 - monitor for any issues through 3/18 EOD (Monday)~ TBD
 
 *** 
 
