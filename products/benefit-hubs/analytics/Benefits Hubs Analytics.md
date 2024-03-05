@@ -4,9 +4,8 @@ Benefits Hubs Analytics
 ## CSAT Scores
 
 
-| Month/Quarter | CSAT Score |
+| Month/Quarter | CSAT Score 
 | --- |:---:|
-
 | Aug 2024 | # |
 | Jul 2024 | # |
 | Jun 2024 | # |
@@ -16,6 +15,8 @@ Benefits Hubs Analytics
 | Mar 2024 | # |
 | Feb 2024 | # |
 | Jan 2024 | # |
+
+
 
 
 
