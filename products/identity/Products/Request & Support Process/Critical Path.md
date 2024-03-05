@@ -3,7 +3,7 @@
 In which we explain each step along the way when a user submits a request to the VA Identity Team
 
 ## 1. Slackbot Invoked By User
-Someone (lets call them the Requestor) goes into the #VSP-Identity Slack channel and invokes our slackbot. (Exactly how this happens is still TBD.)
+Someone (lets call them the Requestor) goes into the #VSP-Identity Slack channel and invokes our slackbot by typing _/help_
 
 ## 2. Initial Bot Response
 Based upon the language used and/or the nature of the query, the Slackbot responds to the initial response.  (What this will be is also TBD, But an example might be to point the user to something previously published that addresses their issue.) The bot also displays a form for the user to fill out.
