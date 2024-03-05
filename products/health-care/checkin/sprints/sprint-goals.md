@@ -54,7 +54,10 @@ ________________________________________________________________________________
     - **Sub Goal: Support Travel for CERNER Sites**
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
+- **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
 - **GOAL: Increase PCI Usage**
+    - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -88,6 +91,10 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
         - ❗ 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
         - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
+- **GOAL: Make Travel Claims Easier**
+   - **Sub Goal: [MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77664)**
+       - 🟥 [[UX] [Design] Create Userflow for MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
+       - 🟥 [[UX] [Design] Create Userflow for adding Check Eligibility Endpoint into eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77669)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟥 [[UX] Pre-Check-in & Day-of Text Messages: Update the Text Messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62099)
@@ -177,7 +184,7 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
     - ✔️ 🟩 [[CHIP][BUG] Resolve emfile errors in pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75182)
     - 🟥 [[Design] Update margins for auto-layout and apply to Figma frames #75890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75890)
-    - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
+    - 🚧 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
      - **Sub Goal: DevOps Improvements**
         - 🚧 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 ______________________________________________________________________________________________________________________________________________________
