@@ -52,9 +52,11 @@ ________________________________________________________________________________
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase PCI Usage**
+    - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
-    - **Sub Goal: Create Travel Claims vets-api Library**
+    - **Sub Goal: Migrate to GA4**
+    - **Sub Goal: Move to New AWS Instance**
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
@@ -93,10 +95,14 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
 - **GOAL: Address Tech Debt**
-    - 🟥 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
+    - **Sub Goal: Migrate to GA4**
+        - 🟥 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel] ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
+        - 🟥 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
+    - **Sub Goal: Move to New AWS Instance**
+        - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
-        - 🟨 [[BE] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+        - 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 
 ------- END FUTURE / TENTATIVE ------
 </details>
