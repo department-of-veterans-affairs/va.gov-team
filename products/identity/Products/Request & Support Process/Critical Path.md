@@ -26,13 +26,12 @@ When the User submits the Form, the following things happen:
 
 ## 6. Ticket is Triaged
 The Identity team looks at the ticket to make sure that it doesn't need to be immediately addressed.  (Note: requests that need to be immediately addressed generally shouldn't go through this process, this is just in case a P1 skips the normal channels.)
-- If it's critical, Step #7 is skipped and the ticket gets immediately assigned. S
+- If it's critical, Step #7 is skipped and the ticket gets immediately assigned. 
 - If not, then the identity team will prioritize it.
+- A Single Point Of Contact (SPOC) from the Identity Team should be established.
 
 ## 7. Ticket is Prioritized
 The Identity Team looks at the ticket, and prioritizes against other requests.
-- A Single Point Of Contact (SPOC) from the Identity Team should be established.
-- The SPOC should reach out to the Requestor via Slack and inform them of the priority of the ticket.
 
 ## 8. Ticket is Assigned
 When the Identity Team determines it is time to work on the ticket, it is then assigned to a member of the the team
@@ -52,7 +51,7 @@ When the Ticket is finshed being worked upon, the SPOC should notify the Request
 
 ## 12. UAT
 If possible, the requestor will do some kind of UAT, and makes the decision whether or not to release into production.
-- If no, then the ticked goets back to **#10 Ticket is Worked On**.
+- If no, then the ticket goets back to **#10 Ticket is Worked On**.
 - If yes, then the Identity team can release the code into production.
 
 ## 13. Code Released into Production
