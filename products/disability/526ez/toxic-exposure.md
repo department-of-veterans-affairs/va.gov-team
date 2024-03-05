@@ -258,7 +258,7 @@ We present "mini" summary screens at the end of each section (set of locations o
 
 Another example from a later section in the flow:
 
-![section-review-agent-orange](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/bef2525d-7b31-4f41-b3fd-3cffef433b78)
+![section-review-agent-orange](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/676d77b9-c699-49a7-8e13-837b04694643)
 
 
 #### Other approaches considered
