@@ -110,8 +110,7 @@ ________________________________________________________________________________
     - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
     - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
     - **Sub Goal: Migrate to GA4**
-        - 🟥 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
-        - 🟥 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
+        - 🟩 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
