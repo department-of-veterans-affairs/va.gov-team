@@ -200,7 +200,7 @@ setInterval(function() {
 }, 10);
 ```
 
-To use this, before starting your test copy and paste the previous code snippet into the browser's console and evaluate it by hitting the "enter" or "return" key. Once it is running it will start to log every HTML element within the DOM that receives focus. 
+To use this, before starting your test copy and paste the previous code snippet into the browser's console and evaluate it by hitting the <kbd>enter</kbd> or <kbd>return</kbd> key. Once it is running it will start to log every HTML element within the DOM that receives focus. 
 
 ### Mobile developer tools
 
