@@ -186,7 +186,7 @@ Currently, alternative input methods aren't well tested. In the future it is rec
 ## Tools and FAQ
 ### Useful tricks 
 
-Many bugs related to screen readers have to do with how focus is being managed. While there are many useful tools for visualizing focus, sometimes it is useful to generate a log of every componenet that receives focus durring a given time. The following code allows you to record just that! 
+Many bugs that manifest when navigating a page with a screen reader have to do with how focus is managed. While there are many useful tools for visualizing focus, sometimes it is useful to generate a log of every componenet that receives focus durring a given time. The following code allows you to record just that! 
 
 ```javascript
 let lastActiveElement;
@@ -200,7 +200,7 @@ setInterval(function() {
 }, 10);
 ```
 
-To use this, before starting your test copy and paste the previous code snippet into the browser's console and evaluate it by hitting the "enter" key. Once it is running it will start to log every HTML element within the DOM that receives focus. 
+To use this, before starting your test copy and paste the previous code snippet into the browser's console and evaluate it by hitting the "enter" or "return" key. Once it is running it will start to log every HTML element within the DOM that receives focus. 
 
 ### Mobile developer tools
 
