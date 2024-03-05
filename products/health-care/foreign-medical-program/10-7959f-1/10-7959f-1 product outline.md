@@ -71,7 +71,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Digital signature with date stamp accepted by FMP team
   - PDF output of completed form with required meta data and unique identifier
   - Integration with PEGA for forms and documents
-  - Authenticated (and unauthenticated?) experience
+  - Authenticated and unauthenticated experience
   - End to end testing with PEGA
 - **Out of scope**:
   - Integration with VES (this will need to be addressed in the future)
@@ -79,6 +79,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Interoperability
   - new list and loop pattern
   - no known address/houseless
+  - LOA1
 - **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
   - Integration with PEGA is still being developed and need better understanding of how files will be handled with this solution (more details [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md))
@@ -98,8 +99,8 @@ Collaboration Cycle
 - [x] [Collab Cycle ticket]https://github.com/department-of-veterans-affairs/va.gov-team/issues/74178
 - [x] Design Intent: 1/29/24
 - [x] [Content, Accessibility and IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74190)
-- [ ] Midpoint: 2/29/24
-- [ ] Research
+- [x] Midpoint: 2/29/24
+- [ ] Research 
 - [ ] Contact Center guide
 - [ ] Analytics
 - [ ] Staging 
@@ -118,8 +119,10 @@ Collaboration Cycle
 ## Solution Narrative
 
 ### Current Status
-- Conversations with stakeholders scheduled through 2/9 were completed.
-- Stakeholder interview analysis complete along with prototype creation.
+- Conversations with stakeholders scheduled through 2/9 completed.
+- Stakeholder interview analysis complete along with prototype creation and research readout.
+- Research into uxpin for usability testing
+  - (Figma has limited capabilities with the license the VA is on, and CodePen requires a heavier lift/coding
 
 Key deliverables:
 - design: 
