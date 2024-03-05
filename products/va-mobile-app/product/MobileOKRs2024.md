@@ -80,6 +80,6 @@ Less input, more output.
 
 Mobile Platform Team-specific OKRs: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/platform/Metrics-and-Goals/Q1-Mobile-Platform-Teams-OKRs.md
 
-Mobile Team
+## Mobile Team
 
-![2024_mobile_teams](https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/e58d233d-1779-4e1f-a883-44200bce7e94)
+![2024 mobile teams](org.png)
