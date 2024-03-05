@@ -3,14 +3,22 @@
 Reference for data that VAOS displays for different appointment types.
 
 
-## VA Booked Appointments
+## General definitions
 
+These data points show up across different appointment types.
 
 ### Appointment Date and Time
 
-The day and time of the appointment. May be in the future or the past. The time displayed is in the facility's time zone.
+The day and time of the appointment. May be in the future or the past. 
 
+## VA Booked Appointments
 
+### Appointment Date and Time
+
+See: `Appointment Date and Time`
+
+**VAOS Notes**
+The time displayed is in the facility's time zone.
 
 ### Instructions: How to Join
 
@@ -78,7 +86,7 @@ The same as clinic name but written so that it will make sense to the patient.
 
 The physical location of the clinic at the facility; for example, the building, floor, and room number.
 
-### Clinic Phone Number
+#### Clinic Phone Number
 
 The phone number for the clinic where the appointment takes place.
 
