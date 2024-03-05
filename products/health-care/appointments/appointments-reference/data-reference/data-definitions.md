@@ -2,44 +2,28 @@
 
 Reference for data that VAOS displays for different appointment types.
 
-## VA Appointments and Requests
+
+## VA Booked Appointments
 
 
-### VA Booked Appointments
-
-
-#### Appointment Date and Time
+### Appointment Date and Time
 
 The day and time of the appointment. May be in the future or the past. The time displayed is in the facility's time zone.
 
-#### Clinic Name
 
-The name of the clinic where the appointment has been scheduled.
 
-##### Patient-friendly Clinic Name
-
-The same as clinic name but written so that it will make sense to the patient.
-
-#### Clinic Location
-
-The physical location of the clinic at the facility; for example, the building, floor, and room number.
-
-#### Facility Phone Number
-
-The main phone number for the facility where the appointment has been scheduled.
-
-#### Instructions: How to Join
+### Instructions: How to Join
 
 Instructions on how to join a telehealth appointment.
 
-#### Instructions: Prepare for Telehealth Visit
+### Instructions: Prepare for Telehealth Visit
 
 VAOS displays these instructions via `comment` field for `home video` and `atlas` appointments. The `comment` field contains instructions passed from Virtual care Manager (VCM). Right now, VAOS only accepts/support 2 types of instructions ('Video Visit Preparation' & 'Medication Review' instructions) due to limitations in the way data is passed to us in that field.Video visit instructions from Virtual Care Manager (VCM) instructions are suppressed if the instructions are any of the following:
   - `Message sent in MyHealtheVet`
   - `Resources Mailed to Patient`
   - `Signup for My HealtheVet  Message` 
 
-##### Video Visit Preparation - Video at home
+#### Video Visit Preparation - Video at home
 
 ```
 Before your appointment:
@@ -55,7 +39,7 @@ To have the best possible video experience, we recommend you:
 
 ```
 
-##### Medication Review - ATLAS
+#### Medication Review - ATLAS
 
 ```
 Medication review
@@ -63,30 +47,59 @@ During your video appointment, your provider will want to review all the medicat
 Please be ready to talk about your medications during your video visit to ensure you're getting the best and safest care possible.
 ```
 
-#### Location Address
+### Location Information
 
-Two-line address for the VA facility or clinic where the appointment is scheduled.
+Information about the facility and clinic where the appointment will take place. 
+
+**VAOS Notes:**
+It's rare, but if the call to the facilities fails, none of the location information will be returned.
 
 #### Location Name
 
-Name of the facility where the appointment is scheduled.
+Name of the VA facility where the appointment is scheduled.
+
+#### Location Address
+
+Two-line address for the VA facility where the appointment is scheduled.
+
+#### Facility Phone Number
+
+The main phone number for the facility where the appointment has been scheduled. This is different from the `clinic phone number`.
+
+#### Clinic Name
+
+The name of the clinic where the appointment has been scheduled.
+
+#### Patient-friendly Clinic Name
+
+The same as clinic name but written so that it will make sense to the patient.
+
+#### Clinic Location
+
+The physical location of the clinic at the facility; for example, the building, floor, and room number.
+
+### Clinic Phone Number
+
+The phone number for the clinic where the appointment takes place.
 
 
-#### Modality/Method of attendance
+### Modality
+
+AKA: `Method of attendance`
 
 How a Veteran will attend an appointment, whether in-person, or through telehealth.
 
 
-#### Provider Name
+### Provider Name
 
 The name of the facility staff who will be seeing/treating the Veteran.
 
 
-#### Type of Care
+### Type of Care
 
 The type of assessment or treatment the Veteran will receive.
 
-VAOS Display Requirements:
+**VAOS Display Requirements:**
 - Type of Care for VA appointments must be set to the `serviceType` **except** when:  
   - `serviceType` is `NULL`, Front End will set type of care to ‘VA appointment’.
   - OR`serviceCategory` is other than `regular`, Front End will set type of care to ‘VA appointment’. 
@@ -94,79 +107,84 @@ VAOS Display Requirements:
 - Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.
 - A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with `type of care = Compensation and pension exam`.    
 
-#### Veteran Reason For Appointment
+### Veteran Reason For Appointment
 
-### VA Requests
+The Veteran-provided description of their needs to be addressed during this appointment.
 
-#### Facility Phone Number
-
-#### Preferred Dates and Times
+## VA Requests
 
 
-#### Preferred Facility Address
+
+### Preferred Dates and Times
+
+
+### Preferred Facility Information
 
 
 #### Preferred Facility Name
 
 
-#### Preferred Modality
+#### Preferred Facility Address
 
 
-#### Type of Care
+#### Preferred Facility Phone Number
 
 
-#### Veteran Contact Information
+### Preferred Modality
 
 
-#### Veteran Reason for Appointment
+### Requested Type of Care
+
+### Veteran Contact Information
 
 
-## Community Care Appointments and Requests
-
-### CC Booked Appointments
+### Veteran Reason for Appointment
 
 
-#### Appointment Date and Time
+## Community Care Booked Appointments
+
+
+### Appointment Date and Time
 
 The day and time of the appointment. May be in the future or the past. The time displayed is in the facility's time zone.
 
-#### Type of Care
+### Type of Care
 
 
-#### Provider Name
+### Provider Name
 
 VAOS Display Requirements:
 - Frontend recieves the HSRM "Service Requested" data in the `practitioners:` field for communicaty care. 
 
-#### Treatment Specialty
+### Treatment Specialty
 
 VAOS Display Requirements:
 - Front End receives the HSRM "Service Requested" data in the `serviceType` for community care.  HSRM "Service Requested" maps to CPRS/CTB Standard Episode of Care field which would be too cryptic for the user. So for now Type of Care is not being displayed for CC appointments and instead provider name is displaying.
 
 
-#### Provider Address
+### Provider Address
 
 
-#### Provider Phone Number
+### Provider Phone Number
 
 
-#### Veteran Reason For Appointment
+### Veteran Reason For Appointment
 
-### CC Requests
+## Community Care Requests
 
-#### Type of Care
-
-
-#### Preferred Provider
+### Type of Care
 
 
-#### Preferred Dates and Times
+### Preferred Provider
 
 
-#### Veteran Reason for Appointment
+### Preferred Dates and Times
 
 
-#### Veteran Contact Information
+### Veteran Reason for Appointment
+
+
+### Veteran Contact Information
 
 
 ## Appointments homepage
