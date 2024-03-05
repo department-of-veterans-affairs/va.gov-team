@@ -93,6 +93,7 @@ ________________________________________________________________________________
         - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Make Travel Claims Easier**
    - **Sub Goal: [MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77664)**
+       - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
        - 🟥 [[UX] [Design] Create Userflow for MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
        - 🟥 [[UX] [Design] Create Userflow for adding Check Eligibility Endpoint into eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77669)
 - **GOAL: Increase Usage of PCI**    
