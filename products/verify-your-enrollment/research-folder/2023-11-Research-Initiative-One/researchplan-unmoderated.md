@@ -78,7 +78,7 @@ OptimalSort will be used for an open card sort to ensure our labeling structure 
 
   
 ### Location
-All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Sketch-based prototype. Participants may be asked to share their screen.
+All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Figma-based prototype. Participants may be asked to share their screen.
 
 ### Research materials
 - [Link to OptimalSort outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/card-sort.md)
