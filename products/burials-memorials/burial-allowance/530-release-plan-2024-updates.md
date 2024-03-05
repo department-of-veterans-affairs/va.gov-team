@@ -43,11 +43,12 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 
 | User Type | Flipper Status | Form in Progress | Visible Form | Alert Banner Displayed | Data Migrated |
 |---|---|---|---|---|---|
-| Authenticated Users | Disabled | N/A | v1 Form | No | No |
-| Authenticated Users | Enabled | Yes (v1) | v2 Form | Yes | Yes |
+| Authenticated Users | Disabled | No | v1 Form | No | No |
 | Authenticated Users | Enabled | No | v2 Form | No | No |
-| No-Auth Users (Pre-100% Release) | N/A | N/A | v1 Form | No | No |
-| No-Auth Users (Post-100% Release)| N/A | N/A | v2 Form | No | No |
+| Authenticated Users | Enabled | Yes, v1 | v2 Form | Yes | Yes |
+| Authenticated Users | Enabled | Yes, v2 | v2 Form | No | No |
+| No-Auth Users (Pre-100% Release) | N/A | No | v1 Form | No | No |
+| No-Auth Users (Post-100% Release)| N/A | No | v2 Form | No | No |
 
 ### This release will include the following components:
 1. Form field updates on some pages (add new fields, remove old fields)
