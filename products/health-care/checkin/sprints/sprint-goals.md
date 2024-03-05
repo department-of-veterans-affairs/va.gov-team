@@ -29,6 +29,7 @@ ________________________________________________________________________________
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
+        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - ❗ 🟩 [[FE] - Set up travel-claim app in pagerDuty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77393)
 - **GOAL: Increase Usage of PCI**    
@@ -74,7 +75,6 @@ ________________________________________________________________________________
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**
         - ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
-        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
         - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
         - ❗ 🟩 [[FE] Route user to error page when travel feature is disabled ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77566)
@@ -107,7 +107,6 @@ ________________________________________________________________________________
     - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
     - 🟥 [[UX] [Design] CCreate Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE] - Fix skipped unit test ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77029)
     - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
     - **Sub Goal: Migrate to GA4**
         - 🟩 [VFS Custom Events for [Modernized Check-in] & [eCheck-in, Pre-Check-in, OH Travel]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77637)
