@@ -89,7 +89,8 @@ The current approach is to keep the "How is your condition related to your servi
 
 Later, we ask if any conditions are related to toxic exposure and list all newly entered conditions in checkboxes. The Veteran can check which, if any, of these conditions are related to toxic exposure.
 
-<img width="280" alt="Screenshot of 'Are any of your conditions related to toxic exxposure?' question, showing a checkbox for each newly entered condition and a final checkbox of 'I am not claiming any conditions related to toxic exposure' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/abee8798-0a25-4627-8150-b76bcbd9142a">
+<img alt="Screenshot of 'Are any of your conditions related to toxic exxposure?' question, showing a checkbox for each newly entered condition and a final checkbox of 'I am not claiming any conditions related to toxic exposure' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/066fb0f1-30df-4ba3-b0cc-e3f3574b7fbd">
+
 
 #### Other approaches considered
 
@@ -97,12 +98,38 @@ We considered adding a radio button indicating toxic exposure to the "How is you
 
 <img width="316" alt="Screenshot of 'How is your condition related to your service?' question - a variation with an additional radio button of 'My condition was caused by toxic exposure during my military service' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/1a72c2b8-c7c9-4cde-b0a2-b813fd8f48d0">
 
+At another point, we had a yes / no question asking if the Veteran would like to answer questions related to toxic exposure.
+
+![would-you-like-to-answer-questions-related-to-toxic-exposure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/91e70c7a-1687-4eed-a6f3-0b616d73c28a)
+
 
 #### Rationale
 
 Keeping these two questions ("How is your condition related to your service?" and "Are any of your conditions related to toxic exposure during your military service?") separate will eventually (when we add the toxic exposure section for all types of disability claims) allow the Veteran to indicate toxic exposure along with any other existing answer for "How is your condition related to your service?". 
 
-If we used the "other approach considered", we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
+If we used the approach with the designated radio button for toxic exposure, we would make toxic exposure mutually exclusive of any of the other service connection options. This would not reflect reality for many cases and would mean that the Veteran would only be able to provide information on follow-up questions related to one of these radio button options.
+
+With the yes / no question asking if the Veteran would like to answer questions related to toxic exposure, we suspected this would be a very confusing question to answer without knowing all the questions that would follow it and what the impact would be of answering versus not answering them. 
+
+### Content of toxic exposure intro question
+
+#### Current approach
+
+<img alt="Screenshot of 'Are any of your conditions related to toxic exxposure?' question, showing a checkbox for each newly entered condition and a final checkbox of 'I am not claiming any conditions related to toxic exposure' " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/066fb0f1-30df-4ba3-b0cc-e3f3574b7fbd">
+
+1. Qustion content ends with "Check any that are related".
+2. We show a "What is toxic exposure?" additional info component above the checkboxes.
+
+#### Other approaches considered
+
+1. Question content used to end in "Check any that apply."
+2. The "What is toxic exposure?" additional info component used to appear below the checkboxes.
+
+#### Rationale
+
+1. CAIA wants to avoid using "apply" in this way across va.gov because we often talk about applying for benefits, so just want to limit using the word "apply" to that use case.
+2. [Accessibility feedback from 2nd midpoint review](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75429) was to place the "What is toxic exposure?" additional info component above the checkboxes "Since the toxic exposure additional info provides definitions that might be needed to know how to answer the question". "whenever possible we should be trying to provide information in the sequence that users need it."
+    - previously, CAIA accessibility feedback, somewhat went against this ([Slack](https://dsva.slack.com/archives/C04KW0B46N5/p1706893979585209?thread_ts=1706545750.653139&cid=C04KW0B46N5)), but the 2nd midpoint review feedback took that into consideration when making the above recommendation.  
 
 ### None of these locations and I'm not sure checkboxes
 
@@ -111,9 +138,9 @@ If we used the "other approach considered", we would make toxic exposure mutuall
 The current approach is to keep "I’m not sure" mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
 They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or "None of these locations" in order to move forward.
 
-![Screen showing a checkbox group of service locations plus "None of these locations" and "I'm not sure". "Lebanon" and "None of these locations" are both checked. There's a displayed error message of "You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/bf22e5d2-9556-436b-b0a9-762e5bea9e6e "Gulf War Locations 3")
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/bf22e5d2-9556-436b-b0a9-762e5bea9e6e" alt="Screen showing a checkbox group of service locations plus 'None of these locations' and 'I'm not sure'. 'Lebanon' and 'None of these locations' are both checked. There's a displayed error message of 'You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."/>
 
-![Screen showing a checkbox group of conditions plus "I am not claiming any conditions related to toxic exposure". "Tinnitus" and "I am not claiming any conditions related to toxic exposure" are both checked. There's a displayed error message of "You selected a condition, and 'I am not claiming any conditions related to toxic exposure'. You'll need to uncheck one of these options to continue."](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/ea2344fb-7ea5-4b9e-bb17-493e60a7dad4 "Conditions")
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/ea2344fb-7ea5-4b9e-bb17-493e60a7dad4" alt="Screen showing a checkbox group of conditions plus 'I am not claiming any conditions related to toxic exposure'. 'Tinnitus' and 'I am not claiming any conditions related to toxic exposure' are both checked. There's a displayed error message of 'You selected a condition, and 'I am not claiming any conditions related to toxic exposure. You'll need to uncheck one of these options to continue.'" />
 
 #### Other approaches considered
  
@@ -122,6 +149,7 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
    <li>Having "I’m not sure" dynamically uncheck previously checked options</li>
   <li>Replacing the "I’m not sure" checkbox with copy that instead communicates if they’re not sure, that’s okay.</li>
    <li>A change to the design system to make it more clear with only one question per screen, when a question is optional **(we might still pursue this)**</li>
+    <li>Content of the checkbox was "Not sure" rather than "I'm not sure"</li>
 </ul>
 
 #### Rationale
@@ -133,8 +161,9 @@ They can select I’m not sure as well as locations. If a Veteran selects None o
 <li>   CAIA rec: We suggest leaving the "Not sure" option in the list, but recommend changing the "Not sure" to "I'm not sure" throughout and making this the very last option of the lists.
 </li>
    <li> **Larger scope:** Whatever the not sure pattern ends up being, it should be repeated across the form. Otherwise this is going to confuse users with multiple patterns throughout</li>
-<li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
+    <li> For not going with I’m not sure triggering an automatic uncheck of other boxes: 
 The proposed pattern - unchecking "Not sure" results in the "From" and "To" fields going back to null - will be very hard to make accessible to users of assistive technology. The field changes will need to be announced. And the more conditional logic on a page, the harder it is to announce properly, and the more confusing it will be for AT users to keep track of. - per <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox">CAIA accessibility review feedback</a></li>
+    <li>Content feedback from CAIA was that "I'm not sure" adds clarity and is more conversational, compared to "Not sure"</li>
 </ul>
 
 ### Page titles
