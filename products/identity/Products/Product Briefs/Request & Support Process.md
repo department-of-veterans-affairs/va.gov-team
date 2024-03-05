@@ -27,7 +27,6 @@ Currently, we have no clearcut and a disjointed/one-off process to field request
 ## What's In Scope: 
 For this first iteration, the focus will be on:
 * Developing the processes as needed to support other teams' requests for feature requests, updates, bug fixes, data requests, etc.
-* Sign-in-Service intake requests and routing to the appropriate persons on the Identity Core team for follow-up action
 * Creating metrics
 
 ## Out of Scope: 
