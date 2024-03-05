@@ -50,7 +50,7 @@ After the initial release, there are more content and component updates to imple
 
 The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=929-8828&mode=design) in the page under "----------Future Versions----------" has the details. 
 
-The Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226) details the content changes.
+The Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226) shows the content feedback.
 
 Note [the background on this scope decision](#scope-of-content-to-update).
 
