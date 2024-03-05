@@ -189,13 +189,12 @@ CAIA noted that unique headings representing the page title will help many assis
 #### Current approach
 
 Have location pages follow the same pattern as hazards.
-So, the user checks which locations apply to them, and we provide the opportunity to give a single time frame per location.
+The user checks which locations apply to them, and we provide the opportunity to give a single time frame per location.
 
 ![dates on locations pages - 3 screens](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/fa4f552c-e473-4bbb-8b21-0ba82cc7e8d0)
 
 
 **Note, we may need to revisit this decision, since it is difficult to implement technically**
-
 
 #### Rationale
 
@@ -204,22 +203,30 @@ Our understanding is that 99% of time, the service records are discoverable by l
 While we expect this solution to add many screens, we think they are likely to be the least confusing overall, and we do have test data that backs this up. We want to amp up the optional message to help people who have a complex service history get through these more easily. Metrics would give us a clear picture on whether we need to walk it back, which could help with discussions with all of our stakeholders.
 
 #### Other Approaches considered
+- Multiple locations selected, one screen for dates entry. 
 
 <img width="532" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/afc742b0-9ffd-42da-8417-5e1d6c7c4e2b">
 
--Multiple locations selected, one screen for dates entry. We haven't tested any approximation of this screen design (two tasks, lots of content, ambiguity on providing date).
+We haven't tested any approximation of this screen design (two tasks, lots of content, ambiguity on providing date).
 
-
+- Y/N question about whether they served in a list of locations, follow up screen shows no locations, just a date entry. 
 
 <img width="642" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/cef72767-6e42-409a-bd9c-ed71817131c2">
 
--Y/N question about whether they served in a list of locations, follow up screen shows no locations, just a date entry. In testing found this to be unhelpful/confusing to veterans who wanted to see the list they were referring to in front of them in order to think about the dates screen. 
+In testing found this to be unhelpful/confusing to veterans who wanted to see the list they were referring to in front of them in order to think about the dates screen.
 
-
-
+- All locations and dates entered on one screen. 
 <img width="166" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/139385562/b396436f-e8c5-471e-a047-12aabbda3417">
 
- -All locations and dates entered on one screen. It's a long list and appears cumbersome, especially on mobile
+It's a long list and appears cumbersome, especially on mobile. This goes against the one task per screen guideline. Having the locations hidden in an additional info comonent makes that content hidden for screen readers. 
+
+Feedback from CAIA: 
+
+"We recommend showing this full list to the user, instead of nesting it in an additional info component as the prototype suggests. Every user will need to see this list in full in order to answer the question."
+
+"The original list is of 23 locations for burn pit exposures and Gulf War locations for undiagnosed illness presumptive conditions, for service periods post 1990 and post 2001. We recommend splitting the original list of 23 locations into shorter lists so that the locations are easier for the Veteran to scan. We’ve updated this question to ask only about presumptive locations for burn pit exposures on or after September 11, 2001. The prototype currently displays the list in an additional information component. We recommend displaying these shorter lists in full, without asking the Veteran to expand a list, instead. Every user will need to review the full list in order to answer the question (as in, the list is not targeted to a specific audience. It’s for everyone), so showing it in full will cut down on clicking"
+
+"If we need the Veteran to provide the dates of potential exposures, I propose asking it this way (allow the Veteran to designate a date range for each chosen option). I know we want to limit the number of screens. I think whether VBA needs Veterans to provide dates for specific hazard exposures. If VBA needs locations too, we can add that to this question."
 
 ### Removal of "service-connected" from radio button choice and removal of "service connected" additional info component 
 
@@ -284,42 +291,3 @@ With the HTML, we also considered using `<ul>` and `<li>` elements, potentially 
 Per [CAIA accessibility guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#toxic-exposure-summary-dont-use-the-table-pattern), we want to avoid tables since [The VADS's table component page](https://design.va.gov/components/table#when-to-consider-something-else) recommends that you "use tables sparingly" and that lists are "generally more accessible on mobile screens." Tables are trickly for assistive technology users to navigate, even if they're coded properly.  
 
 For the HTML, [Sara Smith gave the recommendation in #accessibility-help](https://dsva.slack.com/archives/C8E985R32/p1705154213264839?thread_ts=1704903482.413669&cid=C8E985R32). Headings give enough structure to separate locations from dates. The other approach of specifying "location:" and "dates served:" caused the text to wrap to additional lines on mobile, making it difficult to parse the summary and extending an already long page.
-
-### Content updates from CAIA
-
-Referred to [this feedback document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/Deliverables/Benefits%20Disability%20Experience%20526EZ/202312-design-review.md#conditional-logic-not-sure-checkbox) to implement copy changes for MVP 
-
-#### Instructional text to check conditions 
-**From**: "Are any of your new conditions related to toxic exposure during your military service? Check any that apply." <br>
-**To**: "Are any of your conditions related to toxic exposure during your military service? Check any that are related."<br>
-**Context**: 
-CAIA wants to avoid using "apply" in this way across va.gov because we often talk about applying for benefits, so just want to limit using the word "apply" to that use case.
-<br>
-
-#### "Not sure" option in checkbox lists
-**From**: "Not sure" 
-**To**: "I'm not sure" throughout and making this the very last option of the lists.
-<br>
-
-## Changes made Post-Midpoint (Fall 2023)
-
-**need to incorporate this into the "background on decisions" section**
-
-**Midpoint**
-- Entry point was different
-  - “Are you claiming any conditions relate to TE” Yes or No
-
-#### Locations and Dates
-- Locations and dates were on the same screen, locations were shown in an additional info component. 
-- We had multiple tasks on one screen
-   - Answering yes or no on locations AND entering dates
-   - This solution would make the pages too long, plus it goes against the one task per screen guideline. 
-- Having locations hidden in an additional info component makes that content not upfront for screen readers at first. 
-   - **Feedback from CAIA:** We recommend showing this full list to the user, instead of nesting it in an additional info component as the prototype suggests. Every user will need to see this list in full in order to answer the question.
-- **Recommendations from CAIA post-midpoint about locations:**
-   - The original list is of 23 locations for burn pit exposures and Gulf War locations for undiagnosed illness presumptive conditions, for service periods post 1990 and post 2001. We recommend splitting the original list of 23 locations into shorter lists so that the locations are easier for the Veteran to scan. We’ve updated this question to ask only about presumptive locations for burn pit exposures on or after September 11, 2001. The prototype currently displays the list in an additional information component. We recommend displaying these shorter lists in full, without asking the Veteran to expand a list, instead. Every user will need to review the full list in order to answer the question (as in, the list is not targeted to a specific audience. It’s for everyone), so showing it in full will cut down on clicking
-#### Hazards Screen (Checkbox logic) 
-- Splitting out dates screen per hazards checked
-   - This is where we split hazards screens into hazards list (to be checked) + additional screens for dates.
-   - Recommendation from CAIA: If we need the Veteran to provide the dates of potential exposures, I propose asking it this way. I know we want to limit the number of screens. I think whether VBA needs Veterans to provide dates for specific hazard exposures. If VBA needs locations too, we can add that to this question.
-
