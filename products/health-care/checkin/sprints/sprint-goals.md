@@ -84,10 +84,11 @@ ________________________________________________________________________________
         - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - 🟥 [[UX][Design] SPIKE: Appointment Detail Page UI Discovery ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77232)
         - 🟥 [[UX] Pre-Check-in & Day-of Text Messages: Update the Text Messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62099)
         - 🟦[[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
         - 🟦[[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
+    - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
+        - 🟥 [[UX][Design] SPIKE: Appointment Detail Page UI Discovery ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77232)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
