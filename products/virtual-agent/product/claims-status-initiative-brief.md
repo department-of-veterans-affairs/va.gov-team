@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Claims Status Initiative Brief
 #### Overview
  
 Design and build an updated Disability Claims Status Flow as part of the VA.gov Chatbot. The new Claims Flow will include: Bot can provide a) a definition of the phase, b) a general claim timeline, and/or c) details within the phase (micro-transaction). The bot can direct users to other VA tools (ex. Claims Status Tool, VA.gov pages) where information can be found
