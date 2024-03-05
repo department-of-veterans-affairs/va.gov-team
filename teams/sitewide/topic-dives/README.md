@@ -20,6 +20,11 @@ Please add any potential future topics you would like covered below:
 ### - NGrok
 - @dsasser
 
+### 3/5/24 - ECA module / use for Aging content notifications 
+   - Daniel Sasser
+   - Primarily Drupal: Use of ECA module, how we are configuring it on Public Websites for use to send aging content notifications for Full Width Banners. This was a team-internal primer / demo before the feature shipped. Future topic dive may go into greater detail.
+   - [Video](https://us06web.zoom.us/rec/share/QW-gQ30pdwsEUMU9z3I9p7LPvLKpHgFp_wcRy-6KibDoTmrx_8Zb8z1VtDu_7alA.YadrT7s73_Mylzc3?startTime=1709666432000)  Passcode: UB!4xG?5
+
 ### 10/30/23 - How to make your Content Model Documentation ride with your code.
    - Steve Wirt
    - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code.
