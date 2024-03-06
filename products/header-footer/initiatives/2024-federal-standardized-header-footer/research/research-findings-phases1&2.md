@@ -75,7 +75,7 @@ The Phase 2 CodePen prototype was very similar to the Phase 1 Figma prototypes w
 - Before each research session, the authenticated menu was updated to include the participant's first name
 - Third column of footer changed from "Connect with us" to "News and Media", and the "Careers at VA" link was moved out of it into "More resources"
 - Fewer links in the black federal footer
-- Font was changed to Public Sans
+- Font was changed to Public Sans for page content in Phase 2 (header and footer already had this font in Phase 1)
 
 
 ## Participants
@@ -379,6 +379,7 @@ Some potential recommendations based on the research findings are listed below.
      1. Pages not being read by the JAWS or MAGic screen readers
      1. Spacing and arrangement of columns in the blue footer in desktop
      1. Mobile header menu and search buttons changing name
+     1. Support for inverse/high contrast mode
 1. **Review the content and information architecture of the footer**, as well as mobile header close buttons.
 1. **Share feedback on the two federal USA logos with OFCIO and GSA**.
 
