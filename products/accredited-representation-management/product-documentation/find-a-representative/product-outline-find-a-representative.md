@@ -40,21 +40,23 @@ There is not currently an experience on VA.gov for Veterans to find a representa
         1. Same data points as 1a above
 
 **Search Parameter Usage**
-1. **% of searches where the representative definitions are expanded, broken out by representative type** _How often do users need more information on representative type?_
-2. **% of searches, broken out by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
-3. **Top 10 search cities or postal codes** _What areas are users searching in?_
-4. **% of searches by search radius, broken out by radius options** _What search radius selections are users gravitating towards?_
-5. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_
-6. **Top 10 specified representative names** _What representatives are in high demand?_
-7. **% of searches that do not return results**
-    1. Detail of search parameters that result in no results
+
+1. **% of searches, broken out by representative type** (VSO, Attorney, Claims Agent) _What representative types are users most interested in?_
+2. **Top 10 location queries** _Are users gravitating towards certain locations?_
+3. **% of searches by search radius, broken out by radius options** _What search radius selections are users gravitating towards?_
+4. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_
+5. **Top 10 name queries** _Are users searching for certain representative names?_
 
 **Search Behavior**
 1. **Average number of searches per user** _Do users feel the need to search multiple times?_
-2. **% of contact info clicks, broken out by info type (address, phone and email)** _How do users prefer to contact a representative?_
+5. **% of searches where the user is logged in** 
 3. **% of searches where the user reports outdated information (at least once)** _What percent of users take the initiative to (or are driven to) report outdated information?_
-4. **% of searches where the user continues beyond the first page of results** _Are users feeling the need to go further in search results?_
-5. **% of searches where the user is logged in**
+6. **% of searches that do not return results**
+    1. Detail of search parameters that result in no results
+4. **# of page clicks on each page** _Are users feeling the need to go beyond page 1 in search results?_
+1. **# of clicks on the representative definitions, broken out by representative type** _How often do users need more information on representative type?_
+2. **# of contact info clicks, broken out by info type (address, phone and email)** _How do users prefer to contact a representative?_
+
 
 Data Reporting
 
