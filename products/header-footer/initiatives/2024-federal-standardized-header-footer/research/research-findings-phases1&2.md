@@ -69,8 +69,8 @@ This report will cover Phases 1 and 2 in detail. Phase 3 is covered in the third
 
 The Phase 2 CodePen prototype was very similar to the Phase 1 Figma prototypes with the following differences:
 
-- Coded so accessible to screen readers and screen magnifiers
-- Responsive so automatically adjusted page layout to each participant's device screen size
+- Coded so it was accessible to screen readers and screen magnifiers
+- Responsive page layout so it automatically adjusted to each participant's device screen size
 - USA logo in the header changed slightly and placed on a white background (*vs.* black in phase 1)
 - Before each research session, the authenticated menu was updated to include the participant's first name
 - Third column of footer changed from "Connect with us" to "News and Media", and the "Careers at VA" link was moved out of it into "More resources"
