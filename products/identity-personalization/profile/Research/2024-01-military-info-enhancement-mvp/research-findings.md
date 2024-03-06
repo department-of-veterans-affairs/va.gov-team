@@ -4,7 +4,7 @@
 
 Date: 03/??/2024
 
-[Pam Drouin, Researcher/Designer] [pamela.drouin@a1msolutions.com]
+[Pam Drouin, Researcher/Designer](mailto:pamela.drouin@a1msolutions.com)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -24,7 +24,7 @@ Currently within a veteran’s authenticated Profile, veterans can read minimal 
 
 **Goal 2**: Gather feedback on our team’s proposed design mock-up for enhancing a veteran’s military information section with the data available to us currently (duty status, dates, and military occupation specialties).
 
-The research applies at any stage from Starting Up through Aging.
+The research applies at any stage from `Starting Up` through `Aging`.
 
 ## Research Questions
 
