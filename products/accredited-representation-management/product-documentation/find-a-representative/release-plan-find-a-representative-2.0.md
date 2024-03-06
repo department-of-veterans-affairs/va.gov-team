@@ -17,7 +17,7 @@ Feature Toggle:
 - [x] QA by Michael + ARM team
 - [x] Mapbox is ready for use (frontend)
 - [x] Address Validator in Lighthouse is ready for use (backend)
-- [ ] Any lingering issues that are needed to address prior to rollout?
+- [x] Any lingering issues that are needed to address prior to rollout?
 
 #### Content Preparation
 - [x] New landing page content has been reviewed for accuracy and approved by stakeholders
@@ -58,17 +58,17 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Details
 
-- Rollout date range: 2 weeks, dates TBD
+- Rollout date range: 3/11-3/25
 - Limited production access will be controlled through the frontend feature toggle `find_a_representative_enabled` 
 - Errors will be tracked in Sentry and will trigger a Slack alert to our team channel [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM), to initiate our rollback process (detailed above)
 
 
 ## Staged Rollout Schedule
 **Go/No Go meeting 3/5/2024 at 12:30p ET**
-1. Stage A: 10% of users on ~3/5 (Tuesday)~ TBD
-2. Stage B: 25% of users on ~3/7 (Thursday)~ TBD
-3. Stage C: 50% of users on ~3/11 (Monday)~ TBD
-4. Stage D: 100% of users on ~3/12 - monitor for any issues through 3/18 EOD (Monday)~ TBD
+1. Stage A: 10% of users on 3/11 (Monday)
+2. Stage B: 25% of users on 3/13 (Wednesday)
+3. Stage C: 50% of users on 3/18 (Monday)
+4. Stage D: 100% of users on 3/20 (Wednesday) - monitor for any issues through 3/25 EOD (Monday)
 
 *** 
 
