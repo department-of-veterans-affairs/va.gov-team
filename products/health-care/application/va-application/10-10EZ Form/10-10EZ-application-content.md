@@ -749,6 +749,7 @@ You may also qualify for enhanced eligibility status if you fit one of these des
 [content] 
 You only need to enter one date range. We’ll use this information to find your record.
 
+
 ### Page: Toxic Exposure Operations
 
 #### URL: health-care/apply/application/military-service/operation-support
@@ -787,6 +788,75 @@ You only need to enter one date range. We’ll use this information to find your
 [radio buttons]
 - Yes
 - No
+
+
+
+### Page: Toxic Exposure Other
+
+#### URL: health-care/apply/application/military-service/other-toxic-exposure
+
+[title] Other toxic exposures
+
+[label] Have you been exposed to any of these toxins or hazards? Check any that you’ve been exposed to.
+
+[checkboxes]
+- Air pollutants (like burn pits, sand, oil wells, or sulfur fires)
+- Asbestos
+- Chemicals (like pesticides, herbicides, or contaminated water)
+- Contaminated Water at Camp Lejeune
+- Mustard gas
+- Occupational hazards (jet fuel, industrial solvents, lead, firefighting foams)
+- Radiation
+- SHAD (Shipboard Hazard and Defense)
+- Warfare agents (like nerve agents or chemical and biological weapons)
+- Other toxins or hazards not listed here
+
+
+### Page: Toxic Exposure Other Specify [Conditional Page, if Other selected]
+
+#### URL: health-care/apply/application/military-service/other-toxins-or-hazards
+
+[title h3] Other toxic exposure
+
+[p]You selected that you were exposed to other toxins or hazards.
+
+[link]Learn more about exposures on our Public Health website (opens in new tab)
+[url] https://www.publichealth.va.gov/exposures/index.asp
+
+
+[label] Enter any toxins or hazards you’ve been exposed to
+
+
+
+
+### Page: Toxic Exposure Other Dates [Conditional Page, if any selected]
+
+#### URL: health-care/apply/application/military-service/other-toxic-exposure-dates
+
+
+
+[title h3] Dates of exposure
+[p] Enter any date range when you were exposed to other toxins or hazards. You don’t need to have exact dates.
+
+
+[label] Exposure start date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
+
+[label] Exposure end date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
+
+[additional info component]
+[title] What if I have more than one date range?
+[content] 
+You only need to enter one date range. We’ll use this information to find your record.
+
+
+
+
+
+
   
 ---
 ## Step 4 Household information 
@@ -838,13 +908,14 @@ You only need to enter one date range. We’ll use this information to find your
 
 [p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
 [ul]
-- You’re a former Prisoner of War (POW)
-- You received a Purple Heart
-- You received a Medal of Honor
-- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998
-- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987
-- You served in a location where you had exposure to Agent Orange during the Vietnam War era
-- You served in a location where you had exposure to Agent Orange during the Vietnam War era
+- You’re a former Prisoner of War (POW).
+- You received a Purple Heart.
+- You received a Medal of Honor.
+- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998.
+- You were exposed to toxins or hazards by working with chemicals, pesticides, lead, asbestos, certain paints, nuclear weapons, x-rays, or other toxins. This exposure could have happened while training or serving on active duty, even if you were never deployed.
+- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987.
+- You served in a location where you had exposure to Agent Orange during the Vietnam War era.
+
 
 [END ul]
 [End Additional Info Component]
