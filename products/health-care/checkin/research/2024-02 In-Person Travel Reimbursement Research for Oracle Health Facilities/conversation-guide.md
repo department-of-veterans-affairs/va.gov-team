@@ -20,13 +20,13 @@ Intercept Veterans after checking out of their appointment, which may or may not
 
 - Hello, did you just finish checking out of an appointment?
 
-- If no: No problem. Have a great day!
+- _If no:_ No problem. Have a great day!
 
-- If yes: And do you typically file for travel reimbursement for your medical appointments?
-  - If no: Ok, no problem. Would you like to try filing for travel right now? We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone.
-  - If yes: Great. We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone. Would you like to try it out and file right now?
-    - If yes: Excellent, thank you. If you'd like to stop at any time, just let me know and we can do that.
-    - If no: No problem, have a great day!
+- _If yes:_ And do you typically file for travel reimbursement for your medical appointments?
+  - _If no:_ Ok, no problem. Would you like to try filing for travel right now? We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone.
+  - _If yes:_ Great. We have a new tool for filing a claim that we're testing that allows you to file right now from your smartphone. Would you like to try it out and file right now?
+    - _If yes:_ Excellent, thank you. If you'd like to stop at any time, just let me know and we can do that.
+    - _If no:_ No problem, have a great day!
 
 * * * * *
 
@@ -34,9 +34,9 @@ Intercept Veterans after checking out of their appointment, which may or may not
 
 - Before we start, in exchange for your time today, we are offering a $10 participation check. Are you interested?
 
-- If no: No problem.
+- _If no:_ No problem.
 
-- If yes: Ok, I'll need to get some information from you then.
+- _If yes:_ Ok, I'll need to get some information from you then.
   - Could I get your first and last name and mailing address?
   - Could I get your phone number in case we can't validate your mailing address?
   - Would you like to provide your email address to receive occasional emails from the VA asking if you'd like to participate in research studies?
@@ -50,14 +50,14 @@ Intercept Veterans after checking out of their appointment, which may or may not
 - As I mentioned, we're testing out a new travel reimbursement tool that lets you file a mileage-only claim with your smartphone. Have you heard about this tool before?
   - If yes: How did you learn about it?
 - And have you filed for travel reimbursement on your smartphone before?
-  - If yes: Tell me about that.
+  - _If yes:_ Tell me about that.
 -   Ok, here's the poster that tells you how to start filing your claim. Have you ever noticed this poster before?
 -   Is there anything confusing about the information included in this poster?
 - Ok, go ahead and start, and feel free to think out loud as you go. I will ask you some questions along the way.
   - Is anything confusing about this [poster, step, information, page]?
   - I see you paused there. Could you tell me why that is?
 
-**_Observe:_**
+_Observe:_
 -   Did they have any problems understanding the poster?
 -   Did they have any trouble texting the number?
 -   How long did it take to receive a response from VEText?
@@ -67,12 +67,12 @@ Intercept Veterans after checking out of their appointment, which may or may not
 
 #### Filing the claim
 
-General questions to ask during filing:
+**General questions to ask during filing:**
 - Is anything confusing about this [step, information, page]?
 - I see you paused there. Could you tell me why that is?
 - I see you selected [only one facility]. Why's that?/Tell me more about that.
 
-_**Observe:**_
+_Observe:_
 -   Did they have difficulty with the identity verification?
 -   How long did it take for the first page to load after the identity verification?
 -   Did they have any difficulty with the facilities selection (or single facility) screen?
@@ -89,15 +89,15 @@ _Observe_
 -   What text message response did they receive? 
 -   Did they understand the text message response?
 
-_Once they've filed:_
+**_Once they've filed:_**
 
 -   Thank you! I have a couple of questions for you about that process you just completed:
 
-_If they **didn't** file a travel reimbursement claim:_
+**_If they **didn't** file a travel reimbursement claim:_**
   
 - Why did you choose not to finish filing a claim today?
 
-_If they filed one or more travel reimbursement claims:_
+**_If they filed one or more travel reimbursement claims:_**
 
 - How easy or difficult was it to file your claim using this tool?
   - Which step of the process was most difficult or challenging?
@@ -109,7 +109,7 @@ _If they filed one or more travel reimbursement claims:_
   - If yes: How does this compare to those other methods?
 -   Would you use this tool again?
 
-_If they didn't select all appointments:_
+**_If they didn't select all appointments:_**
 -   Thinking back to how you selected [1, 2, 3] appointment(s). How would you file a claim for your remaining appointments after this?
   
 -   Ok, great. I only have a few more follow-up questions for you. But first, do you have any questions or comments for me about this tool?
