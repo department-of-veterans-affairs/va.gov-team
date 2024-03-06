@@ -1,9 +1,9 @@
 # [SME Registration Working Sessions] Topline Summary
 
 
-- [link Planning board with talking points and notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702079427539/3151e3fa9a7eed55d21d5e39cb981938c5d2484a?sender=uadf1ed7fe7c76f0914967329)
+- [Link to planning board with talking points and notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702079427539/3151e3fa9a7eed55d21d5e39cb981938c5d2484a?sender=uadf1ed7fe7c76f0914967329)
 
-- [link to session boards - interview notes captured](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706634261021/f1e1dafb24abcea144cc5e539f26011254c04d8c?sender=uadf1ed7fe7c76f0914967329)
+- [Link to session boards - interview notes captured](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706634261021/f1e1dafb24abcea144cc5e539f26011254c04d8c?sender=uadf1ed7fe7c76f0914967329)
 
 - **Ticket** [UX] 10-10EZ - Reg Only: Conducting the HEC working sessions [#72310](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72310)
 
@@ -16,7 +16,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  - To make sure everyone who observed the study is in alignment with the perceived findings
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
- - To jump start synthesis by quickly organizing high level themes 
+ - To jumpstart synthesis by quickly organizing high level themes 
 
 - - - 
 
@@ -26,27 +26,28 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Finding #1 - There is a process in the works to "register" Veterans in VHA when they first apply for a disabilty claim.**
 
-- Follow up with HEC stakeholders on knoweldege of timing of this change
+- Follow up with HEC stakeholders on knowldege of timing of this change
 - How will this impact their process / systems?
 - How will this impact Veteran enrollment statuses?
+- Would the VA.gov registration pathway need to account for the service-connected use case when launched?
 
 
 **Finding #2 - Marketplace Insurnce Impact**
 
-- For Veterans with a disability rating over 50%, choosing between Registration or Enrollment impacts them depending on if they also have marketplace insurance.
-- The ACA issue --- if a Veteran has a secondary Marketplace insurance they can lose benefits if they are enrolled (and not registered) in VA health care 
+- For Veterans with a disability rating over 50%, choosing between Registration or Enrollment impacts them depending on if they also have marketplace insurance
+- The ACA issue is if a Veteran has a secondary Marketplace insurance they can lose benefits if they are enrolled (and not registered) in VA health care 
 
-> Due to ACA, Registered can be seen and not impact on the marketplace. If you are Enrolled, you received a stipend due to low income, you’ll get a penalty for Enrollment”
+> "Due to ACA, Registered can be seen and not impact on the marketplace. If you are Enrolled, you received a stipend due to low income, you’ll get a penalty for Enrollment”
 
 
-**Finding #3 - Service Connected Under 50% need to submit financials to enroll**
+**Finding #3 - Service connected under 50% need to submit financials to enroll**
 
-- If 'REGISTERED" does the Veteran need to consent to copays still? and/or provide income info for SC meds??
+- If "REGISTERED" does the Veteran need to consent to copays still? and/or provide income info for SC meds?
   - Yes, but don’t need to do the financial disclosure piece.
 
-> Need financial info to determine how far they want to carry their benefits
+> "We need financial info to determine how far they want to carry their benefits."
 
-> Lots of question on how it impact other insurance and if there are additional cost. Does this affect my medicare?
+> "We get lots of questions [at the call center] on how VA health care impacts other insurance and if there are additional costs. Does this affect my medicare?"
 
 **Ideal State Notes**
 
