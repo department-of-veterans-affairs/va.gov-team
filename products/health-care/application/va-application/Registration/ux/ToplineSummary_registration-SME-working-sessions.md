@@ -22,7 +22,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Summary
 
-### Service Connected 
+### Service-connected 
 
 **Finding #1 - There is a process in the works to "register" Veterans in VHA when they first apply for a disabilty claim.**
 
@@ -32,7 +32,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Would the VA.gov registration pathway need to account for the service-connected use case when launched?
 
 
-**Finding #2 - Marketplace Insurnce Impact**
+**Finding #2 - Marketplace insurance impact**
 
 - For Veterans with a disability rating over 50%, choosing between Registration or Enrollment impacts them depending on if they also have marketplace insurance
 - The ACA issue is if a Veteran has a secondary Marketplace insurance they can lose benefits if they are enrolled (and not registered) in VA health care 
@@ -53,12 +53,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - Ideal state for SC - from disability rating / awards letter - link to accept copay and agreements
 
-> Just ask if they wish to enroll (for service connected group). If they say no, ask if they want an appointment for screening. Then ask what type of appointment they want.
->  let them know, legally, if you registrated you only receive care for your service-connected claims. If you enroll, you get full health services.
+> "Just ask if they wish to enroll (for service connected group). If they say no, ask if they want an appointment for screening. Then ask what type of appointment they want."
 
-> Want a Yes/No and disclosure about copays.(for under 40%)
+>  "Let them know, legally, if you registered, you only receive care for your service-connected claims. If you enroll, you get full health services."
 
-> Did you serve more than 24 months” ; biggest hindrance for them is that the information is not in the system. DOD did not update, VBA did not update.
+> "There should be a Yes/No and disclosure about copays [for under 40%]."
+
+> "Did you serve more than 24 months?” "The biggest hindrance for them is that the information is not in the system. DOD did not update, VBA did not update."
 
 
 ----
@@ -66,18 +67,18 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ### Mental Health
 
-**Finding #1 - Unaware of care available and VA definitions throw Veterans off**
+**Finding #1 - Veterans are unaware of what mental health care is available and VA definitions throw Veterans off**
 
-- Have to meet basic eligibility criteria to register. Can be seen on humanitarian basis if not, will be given resources for community
-- 
+- Veterans have to meet basic eligibility criteria to register
+- They can be seen on humanitarian basis if not and will be given resources for community support
   
-> They have to ask. Can call in and they will ask if they want to register or enroll
+> "They have to ask. They can call in and they will ask if they want to register or enroll."
 
-**Finding #2 - Going through Primary Care can be a pain point**
+**Finding #2 - Having to go through Primary Care can be a pain point**
 
-- Pain point: Have to go through primary care for everything, can't always just get seen for mental health care. Takes a long time
+- Pain point: Veterans have to go through primary care for everything and can't always just get seen for mental health care. This takes extra time to see their PCP first.
 
-> Yes; can be referred directly to mental health care but still need to see a case manager (PCP)
+> "Yes; they can be referred directly to mental health care but still need to see a case manager (PCP). In that appointment they will be assigned to a specialty care group based on their needs."
 
 
 **Finding #3 - Communication and information surfaced. Strategic marketing is important**
@@ -87,8 +88,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 > Quote
 
-**Current pain points**
-- Making sure they have all materials with them; makes 30-45 minutes to complete over the phone
+**Staff pain points**
+- Making sure they have all materials with them when registering can be tough; makes 30-45 minutes to complete over the phone
+- Reaching the Veteran is difficult - communicating, collaborating with other departments, finding homeless Veterans, etc.
 
 **Ideal State Notes**
 
