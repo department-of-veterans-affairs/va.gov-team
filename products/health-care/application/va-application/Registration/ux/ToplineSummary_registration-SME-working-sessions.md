@@ -26,10 +26,9 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Finding #1 - There is a process in the works to "register" Veterans in VHA when they first apply for a disabilty claim.**
 
-- More details on Finding #1
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+- Follow up with HEC stakeholders on knoweldege of timing of this change
+- How will this impact their process / systems?
+- How will this impact Veteran enrollment statuses?
 
 
 **Finding #2 - Marketplace Insurnce Impact**
@@ -42,16 +41,42 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Finding #3 - Service Connected Under 50% need to submit financials to enroll**
 
-- More details on Finding #3
+- If 'REGISTERED" does the Veteran need to consent to copays still? and/or provide income info for SC meds??
+  - Yes, but don’t need to do the financial disclosure piece.
+
 > Need financial info to determine how far they want to carry their benefits
 
+> Lots of question on how it impact other insurance and if there are additional cost. Does this affect my medicare?
 
-**Ideal State Notest**
+**Ideal State Notes**
 
 - Ideal state for SC - from disability rating / awards letter - link to accept copay and agreements
 
+> Just ask if they wish to enroll (for service connected group). If they say no, ask if they want an appointment for screening. Then ask what type of appointment they want.
+>  let them know, legally, if you registrated you only receive care for your service-connected claims. If you enroll, you get full health services.
+
 > Want a Yes/No and disclosure about copays.(for under 40%)
 
+> Did you serve more than 24 months” ; biggest hindrance for them is that the information is not in the system. DOD did not update, VBA did not update.
+
+
+----
 
 
 ### Mental Health
+
+**Finding #1**
+
+
+
+**Finding #2**
+
+
+
+**Finding #3**
+
+
+
+**Ideal State Notes**
+
+
