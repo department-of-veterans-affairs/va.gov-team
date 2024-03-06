@@ -27,6 +27,8 @@ ________________________________________________________________________________
     - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Support Travel for CERNER Sites**  
+        - ❗ 🟩 [[FE][BUG] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
+        - ❗ 🟩 [[FE][BUG] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
@@ -39,8 +41,6 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE][BUG] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
-    - 🟩 [[FE][BUG] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
     - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         
 ------- END FUTURE / TENTATIVE ------
