@@ -158,7 +158,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[FE] [SPIKE] Determine level of effort to refactor the router ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75795)
         - 🚧 ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
         - ✔️ ❗ 🟩 [[FE] - Create travel intro page #75745](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75745)
-        - ✔️ ❗ 🟩 [[FE] - Modify footer component to work with travel-claim app #75749](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75749)
+        - 🚧❗ 🟩 [[FE] - Modify footer component to work with travel-claim app #75749](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75749)
         - ✔️ ❗ 🟩 [[FE] - Create travel-claim success page #75751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75751)
         - ✔️ ❗ 🟩 [[FE] - Create file later page #75796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75796)
         - ✔️ ❗ 🟩 [[FE] Error page scenarios and content #75722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75722)
