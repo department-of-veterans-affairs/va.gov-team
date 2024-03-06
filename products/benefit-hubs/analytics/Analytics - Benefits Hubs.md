@@ -4,7 +4,7 @@
 ## CSAT Scores
 
 
-| Month/Quarter | CSAT Score 
+| Month/Quarter | CSAT Score % 
 | --- |:---:|
 | Aug 2024 | # |
 | Jul 2024 | # |
@@ -13,11 +13,11 @@
 | Apr 2024 | # |
 | Q1 Rollup 2024 | # |
 | Mar 2024 | # |
-| Feb 2024 | # |
-| Jan 2024 | # |
-|Q4 2023 Rollup | # |
-| Dec 2023 | # |
-| Nov 2023 | # |
-| Oct 2023 | # |
+| Feb 2024 | 67.82% |
+| Jan 2024 | 69.12% |
+|Q4 2023 Rollup | 69.01% |
+| Dec 2023 | 68.29% |
+| Nov 2023 | 69.23% |
+| Oct 2023 | 69.35% |
 
 
