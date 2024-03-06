@@ -1,11 +1,11 @@
 # [SME Registration Working Sessions] Topline Summary
 
 
-[link Planning board with talking points and notes]()
+- [link Planning board with talking points and notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702079427539/3151e3fa9a7eed55d21d5e39cb981938c5d2484a?sender=uadf1ed7fe7c76f0914967329)
 
-[link to session boards - interview notes captured]()
+- [link to session boards - interview notes captured](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706634261021/f1e1dafb24abcea144cc5e539f26011254c04d8c?sender=uadf1ed7fe7c76f0914967329)
 
-[UX] 10-10EZ - Reg Only: Conducting the HEC working sessions [#72310](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72310)
+- **Ticket** [UX] 10-10EZ - Reg Only: Conducting the HEC working sessions [#72310](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72310)
 
   
 
@@ -22,6 +22,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Summary
 
+### Service Connected 
 
 **Finding #1 - There is a process in the works to "register" Veterans in VHA when they first apply for a disabilty claim.**
 
@@ -31,33 +32,26 @@ This topline summary is a high level, top of mind summary of trends found in the
 > Quote (if relevant)
 
 
-**Finding #2**
+**Finding #2 - Marketplace Insurnce Impact**
 
-- More details on Finding #2
-- These details could be key words, actions, or test outcomes
+- For Veterans with a disability rating over 50%, choosing between Registration or Enrollment impacts them depending on if they also have marketplace insurance.
+- The ACA issue --- if a Veteran has a secondary Marketplace insurance they can lose benefits if they are enrolled (and not registered) in VA health care 
 
-> Quote (if relevant)
+> Due to ACA, Registered can be seen and not impact on the marketplace. If you are Enrolled, you received a stipend due to low income, you’ll get a penalty for Enrollment”
 
 
-**Finding #3**
+**Finding #3 - Service Connected Under 50% need to submit financials to enroll**
 
 - More details on Finding #3
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+> Need financial info to determine how far they want to carry their benefits
 
 
-**Finding #4**
+**Ideal State Notest**
 
-- More details on Finding #4
-- These details could be key words, actions, or test outcomes
+- Ideal state for SC - from disability rating / awards letter - link to accept copay and agreements
 
-> Quote (if relevant)
+> Want a Yes/No and disclosure about copays.(for under 40%)
 
 
-**Finding #5**
 
-- More details on Finding #5
-- These details could be key words, actions, or test outcomes
-
-> Quote (if relevant)
+### Mental Health
