@@ -45,7 +45,7 @@ Intercept Veterans after checking out of their appointment, which may or may not
 
 ### Filing for a travel claim observations:
 
-#### INITIATING THE CLAIM
+#### 1. INITIATING THE CLAIM
 
 - As I mentioned, we're testing out a new travel reimbursement tool that lets you file a mileage-only claim with your smartphone. Have you heard about this tool before?
   - If yes: How did you learn about it?
@@ -69,7 +69,7 @@ _Observe:_
 -   _How long did it take for VA.gov to load?_
 -   _Did they receive an error message on VA.gov after texting "travel?" If so, which error message._
 
-#### FILING THE CLAIM
+#### 2. FILING THE CLAIM
 
 **General questions to ask during filing:**
 - Is anything confusing about this [step, information, page]?
@@ -86,12 +86,7 @@ _Observe:_
 -   Did they ever think they were done filing prior to completing the process?
 -   How long did it take them to complete the process?
 
-#### AFTER FILING
-
-_Observe_
--   _Did they understand what to do next after submitting their claim? E.g., understanding the status of their travel reimbursement claim._
--   _What text message response did they receive?_ 
--   _Did they understand the text message response?_
+#### 3. AFTER FILING
 
 **_Once they've filed:_**
 
@@ -121,6 +116,11 @@ _Observe_
 -   Thinking back to how you selected [1, 2, 3] appointment(s). How would you file a claim for your remaining appointments after this?
   
 -   Ok, great. I only have a few more follow-up questions for you. But first, do you have any questions or comments for me about this tool?
+
+_Observe_
+-   _Did they understand what to do next after submitting their claim? E.g., understanding the status of their travel reimbursement claim._
+-   _What text message response did they receive?_ 
+-   _Did they understand the text message response?_
 
 * * * * *
 
