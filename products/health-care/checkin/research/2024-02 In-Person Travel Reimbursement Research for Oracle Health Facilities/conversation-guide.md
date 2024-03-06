@@ -6,15 +6,10 @@
 ### Clinic arrival logistics:
 
 Upon arrival at the clinics, take notes on the following:
-
 -   What type of facility?
-
 -   What type of clinic?
-
 -   What does the waiting area look like?
-
 -   Where are the travel posters located?
-
 -   How is the phone (e.g., SMS) and internet service?
 
 * * * * *
