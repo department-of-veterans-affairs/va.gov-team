@@ -6,11 +6,11 @@
 ### Clinic arrival logistics:
 
 Upon arrival at the clinics, take notes on the following:
--   What type of facility?
--   What type of clinic?
--   What does the waiting area look like?
--   Where are the travel posters located?
--   How is the phone (e.g., SMS) and internet service?
+-   _What type of facility?_
+-   _What type of clinic?_
+-   _What does the waiting area look like?_
+-   _Where are the travel posters located?_
+-   _How is the phone (e.g., SMS) and internet service?_
 
 * * * * *
 
@@ -62,12 +62,12 @@ Intercept Veterans after checking out of their appointment, which may or may not
   - I see you paused there. Could you tell me why that is?
 
 _Observe:_
--   Did they have any problems understanding the poster?
--   Did they have any trouble texting the number?
--   How long did it take to receive a response from VEText?
--   What message was returned from VEText?
--   How long did it take for VA.gov to load?
--   Did they receive an error message on VA.gov after texting "travel?" If so, which error message.
+-   _Did they have any problems understanding the poster?_
+-   _Did they have any trouble texting the number?_
+-   _How long did it take to receive a response from VEText?_
+-   _What message was returned from VEText?_
+-   _How long did it take for VA.gov to load?_
+-   _Did they receive an error message on VA.gov after texting "travel?" If so, which error message._
 
 #### FILING THE CLAIM
 
@@ -77,7 +77,7 @@ _Observe:_
 - I see you selected [only one facility]. Why's that?/Tell me more about that.
 
 _Observe:_
--   Did they have difficulty with the identity verification?
+-   _Did they have difficulty with the identity verification?_
 -   How long did it take for the first page to load after the identity verification?
 -   Did they have any difficulty with the facilities selection (or single facility) screen?
 -   If shown multiple facilities, which facilities did they select, and why? 
@@ -89,9 +89,9 @@ _Observe:_
 #### AFTER FILING
 
 _Observe_
--   Did they understand what to do next after submitting their claim? E.g., understanding the status of their travel reimbursement claim.
--   What text message response did they receive? 
--   Did they understand the text message response?
+-   _Did they understand what to do next after submitting their claim? E.g., understanding the status of their travel reimbursement claim._
+-   _What text message response did they receive?_ 
+-   _Did they understand the text message response?_
 
 **_Once they've filed:_**
 
