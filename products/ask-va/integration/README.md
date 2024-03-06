@@ -47,7 +47,7 @@ Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | 🟩 
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟩 | 🟩 | integration | | 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint | 
 Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟨 | ⬜ | development | CRM Actively working this endpoint |  
-Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint | 
+Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟩 | 🟨 | development | VA.gov actively working this endpoint | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint | 
 Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint |
 Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟡 | ⬜ | ready for dev |  | 
@@ -55,7 +55,7 @@ Dashboard | [PUT /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.m
 ~Form~ | ~[GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete |  | 
 ~Form~ | ~[GET /states](lighthouse/Form_States.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete | |  
 ~Form~ | ~[GET /countries](lighthouse/Form_GetCountries.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete | | 
-Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | 🟡 | ready for dev |  | 
+Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | 🟨 | development | VA.gov actively working this endpoint | 
 Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | GI Bill Comparison Tool (GIBCT) | N/A | 🟡 | ready for dev |  | 
 Form | [GET /profile](va_profile/profile_processes.md) from VA | VA Profile | N/A | 🟡 | ready for dev | ?? | 
 
