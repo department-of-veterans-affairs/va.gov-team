@@ -65,18 +65,32 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ### Mental Health
 
-**Finding #1**
+**Finding #1 - Unaware of care available and VA definitions throw Veterans off**
+
+- Have to meet basic eligibility criteria to register. Can be seen on humanitarian basis if not, will be given resources for community
+- 
+  
+> They have to ask. Can call in and they will ask if they want to register or enroll
+
+**Finding #2 - Going through Primary Care can be a pain point**
+
+- Pain point: Have to go through primary care for everything, can't always just get seen for mental health care. Takes a long time
+
+> Yes; can be referred directly to mental health care but still need to see a case manager (PCP)
 
 
+**Finding #3 - Communication and information surfaced. Strategic marketing is important**
 
-**Finding #2**
+- Community news, social media, TV news, billboards, radio...we have to put our information out there
+- More consistent communication - not just in big events like PACT Act
 
+> Quote
 
-
-**Finding #3**
-
-
+**Current pain points**
+- Making sure they have all materials with them; makes 30-45 minutes to complete over the phone
 
 **Ideal State Notes**
 
+> Listing of the provider with their specialty, provider, and even with rating. Having that knowledge of who is available and who isn’t
+> Stagetic marketing; they’ll get their information from friends, family, and neighbor. If we put reading material out there, they can come in with accurate information instead of hearsay. 
 
