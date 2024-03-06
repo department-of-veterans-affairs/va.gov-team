@@ -48,7 +48,7 @@ Intercept Veterans after checking out of their appointment, which may or may not
 #### 1. INITIATING THE CLAIM
 
 - As I mentioned, we're testing out a new travel reimbursement tool that lets you file a mileage-only claim with your smartphone. Have you heard about this tool before?
-  - If yes: How did you learn about it?
+  - _If yes:_ How did you learn about it?
     
 - And have you filed for travel reimbursement on your smartphone before?
   - _If yes:_ Tell me about that.
@@ -108,7 +108,7 @@ _OBSERVE:_
   - What would you change or add to make it easier to understand the status of your claim(s) after filing?
     
 - Have you tried other methods of filing for travel reimbursement?
-  - If yes: How does this compare to those other methods?
+  - _If yes:_ How does this compare to those other methods?
     
 -   Would you use this tool again?
 
