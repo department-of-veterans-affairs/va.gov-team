@@ -3,7 +3,7 @@
 ## Content checks ##
 
 - [ ] Compare translated version against the English version to make sure all the paragraphs are accounted for. Look for any missing headers, sentences, or bullet list items.
-- [ ] If translating a page that is getting frequent updates and we don't have the latest version available, add an alert that explains that. Example: [This COVID alert in Spanish explains that we're awaiting translation.](https://prod.cms.va.gov/admin/content/block/269?destination=/admin/content/alerts)
+- [ ] If translating a page that is getting frequent updates and we don't have the latest version available, add an alert that explains we're awaiting translation. **Example:** [This COVID alert in Spanish](https://prod.cms.va.gov/admin/content/block/269?destination=/admin/content/alerts)
 
 ## Formatting checks ##
 
@@ -16,11 +16,11 @@
 - [ ]    Confirm that links work (aren't broken---no error message) and point to the intended page (you pasted in the correct URL or chose the correct node ID).
 - [ ]    Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to doesn't live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md)
 - [ ]    Check to make sure all links that direct to English pages are noted. For example, the link has [(en inglés)](https://www.va.gov/health/docs/COVID-19-Vaccine-Facts-Womens-Health.pdf) at the end for Spanish pages and [(sa English)](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596) at the end for Tagalog pages.
-- [ ]    Compare links against list of translated pages. Link to translated pages when possible. **Example:** If you're publishing a Spanish page that links to Supplemental Claims, make sure to link to our [Spanish version of Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim-esp/).
+- [ ]    Compare all links against list of translated pages. Link to translated pages when possible. **Example:** If you're publishing a Spanish page that links to Supplemental Claims, make sure to link to our [Spanish version of Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim-esp/).
 - [ ]    Change the URL to match our pattern for translated pages by adding **-esp/** or **-tag/** at the end of the English URL. (Example: /health-care/covid-19-vaccine-esp/vaccine-record-esp/)
 
 ## Post-publish steps ## 
 
 - [ ]    When publishing a new translated page, [add it to our list of translated pages on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/list%20of%20translated%20pages.md)
-- [ ]    Send to the translation manager on OCTO to send the page back to the translation service for QA.
+- [ ]    Confirm with the translation manager on OCTO that the page is ready for QA from the translation service.
 - [ ]    Once the page gets cleared from QA, coordinate with the translation manager on OCTO to get the left nav set up with public websites.
