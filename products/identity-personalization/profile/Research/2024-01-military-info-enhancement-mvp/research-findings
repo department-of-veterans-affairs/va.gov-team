@@ -49,13 +49,14 @@ The Veterans Affairs/Department of Defense Identity Repository (VADIR) database 
 
 </details>
 
-Mental model activity to learn around how veterans conceptualize their history.
+**Mental model activity**: The next section was a short sorting exercise to learn around how veterans conceptualize their history.
 
-Mockup feedback - Last, there was an opportunity to get veteran feedback in order to evaluate the effectiveness of the proposed military information design.
-
-[clean this up ^]
+**Mockup feedback**: Last there was an opportunity to get veteran feedback in order to evaluate the effectiveness of the proposed military information design.
 
 ## Hypotheses and Conclusions
+
+> [!CAUTION]
+> This needs updating:
 
 - We will observe similarities and differences between branches, lengths of service, and rank.
 - We will gain insight into veteran mental models around organizing information.
@@ -63,8 +64,6 @@ Mockup feedback - Last, there was an opportunity to get veteran feedback in orde
 - We may hear feedback that the military information section is too long or has too much content.
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-[add to this ^]
 
 ## Key Findings
 
@@ -358,7 +357,8 @@ Way back when, when we actually put stuff into databases in the Navy, I was part
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+> [!CAUTION]
+> This needs updating:
 
 * Recommendation 1
     * _Supporting evidence_
@@ -367,19 +367,31 @@ _Put together initial recommendations here based on your findings along with sup
 
 ## Next Steps
 
+> [!CAUTION]
+> This needs updating:
+
 _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
+> [!CAUTION]
+> This needs updating:
+
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 ## Appendix
+
+> [!CAUTION]
+> This needs updating:
 
 [Research plan](link here)
 [Conversation guide](link here)
 [Interview transcripts](link here)
 
 ## Tools used for Synthesis
+
+> [!CAUTION]
+> This needs updating:
 
 e.g. mural boards, etc.  
 
@@ -393,6 +405,9 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
+> [!CAUTION]
+> This needs updating:
+
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
@@ -402,6 +417,9 @@ _Complete the demographic info below using information from the Perigean recruit
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
+
+> [!CAUTION]
+> This needs updating:
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
@@ -470,6 +488,9 @@ Disability and Assistive Technology (AT):
 * Captions: x
 
 ## Underserved groups we haven’t talked to 
+
+> [!CAUTION]
+> This needs updating:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
