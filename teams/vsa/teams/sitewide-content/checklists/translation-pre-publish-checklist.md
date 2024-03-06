@@ -24,3 +24,4 @@
 - [ ]    When publishing a new translated page, [add it to our list of translated pages on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/list%20of%20translated%20pages.md)
 - [ ]    Confirm with the translation manager on OCTO that the page is ready for QA from the translation service.
 - [ ]    Once the page gets cleared from QA, coordinate with the translation manager on OCTO to get the left nav set up with public websites.
+- [ ]    If publishing a translated page for the Resources and support section, [add the new article to our Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md).
