@@ -61,7 +61,7 @@ Intercept Veterans after checking out of their appointment, which may or may not
   - Is anything confusing about this [poster, step, information, page]?
   - I see you paused there. Could you tell me why that is?
 
-_Observe:_
+_OBSERVE:_
 -   _Did they have any problems understanding the poster?_
 -   _Did they have any trouble texting the number?_
 -   _How long did it take to receive a response from VEText?_
@@ -76,15 +76,15 @@ _Observe:_
 - I see you paused there. Could you tell me why that is?
 - I see you selected [only one facility]. Why's that?/Tell me more about that.
 
-_Observe:_
+_OBSERVE:_
 -   _Did they have difficulty with the identity verification?_
--   How long did it take for the first page to load after the identity verification?
--   Did they have any difficulty with the facilities selection (or single facility) screen?
--   If shown multiple facilities, which facilities did they select, and why? 
--   Did they answer "No" to any travel reimbursement questions? Why or why not? And, if so, did they find the error pages easy or difficult to understand?
--   Did they successfully submit their claim?
--   Did they ever think they were done filing prior to completing the process?
--   How long did it take them to complete the process?
+-   _How long did it take for the first page to load after the identity verification?_
+-   _Did they have any difficulty with the facilities selection (or single facility) screen?_
+-   _If shown multiple facilities, which facilities did they select, and why?_ 
+-   _Did they answer "No" to any travel reimbursement questions? Why or why not? And, if so, did they find the error pages easy or difficult to understand?_
+-   _Did they successfully submit their claim?_
+-   _Did they ever think they were done filing prior to completing the process?_
+-   _How long did it take them to complete the process?_
 
 #### 3. AFTER FILING
 
@@ -117,7 +117,7 @@ _Observe:_
   
 -   Ok, great. I only have a few more follow-up questions for you. But first, do you have any questions or comments for me about this tool?
 
-_Observe_
+_OBSERVE_
 -   _Did they understand what to do next after submitting their claim? E.g., understanding the status of their travel reimbursement claim._
 -   _What text message response did they receive?_ 
 -   _Did they understand the text message response?_
