@@ -69,6 +69,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 2. Stage B: 25% of users on 3/13 (Wednesday)
 3. Stage C: 50% of users on 3/18 (Monday)
 4. Stage D: 100% of users on 3/20 (Wednesday) - monitor for any issues through 3/25 EOD (Monday)
+   1. On 3/21 (Thursday) CAIA will implement the redirects and search result "best bets", as well as begin updating the entry points
 
 *** 
 
