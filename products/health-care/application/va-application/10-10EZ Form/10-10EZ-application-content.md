@@ -67,16 +67,16 @@ Pages listed below
 [p] Here’s what you’ll need to apply:
 
 [ul]
-- **Social Security numbers** for you, your spouse, and your qualified dependents
-- **Your military discharge information.** If you sign in to apply, we may be able to fill in this information for you. If you don’t sign in to apply, we’ll ask you to upload a copy of your DD214 or other separation documents.**
-- **Insurance cards** for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
+- Social security numbers for you, your spouse (if you're married), and any dependents you may have.
+- Insurance card information for all health insurance companies that cover you. This includes coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer.
 [end ul]
 
-[p] We’ll also ask you for this optional information:
+[p] You can also provide this information:
 
-[ul]
-- **Last year's gross household income** for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
-- **Your deductible expenses for the past year.** These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
+- Your military service history information and details about exposure to toxins or hazards. 
+- A copy of your DD214 or other separation documents. If you sign in to apply, may be able to fill in your military service history information for you. If you don’t sign in to apply, you can upload a copy of your DD214 or other separation documents. 
+- Income information for you, your spouse, or any dependents you may have. This includes income from a job and any other sources.
+- Deductible expenses (expenses that you can subtract from your income) for you and your spouse. These expenses will lower the amount of money we count as income.
 [end ul]
 
 
