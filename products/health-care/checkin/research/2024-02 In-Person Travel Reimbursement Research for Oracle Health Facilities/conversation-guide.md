@@ -86,6 +86,7 @@ _OBSERVE:_
 -   _Did they ever think they were done filing prior to completing the process?_
 -   _How long did it take them to complete the process?_
 
+
 #### 3. AFTER FILING
 
 **_Once they've filed:_**
