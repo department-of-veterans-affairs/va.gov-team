@@ -60,3 +60,46 @@ How might we create a heading structure on pages and forms that help everyone, p
 ### Last updated
 
 3/6/24
+
+***
+
+## Choose the right element: Buttons vs. links
+
+Many people struggle to select the right element when choosing between a button or link. Making the right choice can help make an interface easier to use, especially for people who use assistive technology. Buttons and links are the primary ways users interact with information on a web page. Links are for navigation; buttons are for action.
+
+### Accessibility problem being solved
+
+In general, make links look like links and buttons look like buttons. Designing buttons as buttons and links as links improves usability and accessibility by:
+- setting honest expectations of interaction behavior
+- providing clear signifiers of affordances
+- creating experiences that are consistent with web standards
+
+Assistive technology users rely on proper semantics to access web content. They may choose to navigate by button, or link, depending on what they’re looking for. It’s vital that our content meets users’ expectations - link items, coded as buttons, could make those links hard to find, for example.
+
+### Ideal state
+
+- Buttons are:
+  - Used for actions, including:
+    - Submitting a form
+    - Opening a modal
+    - Changing the state of something (such as “Back / Continue” buttons on a form)
+    - Expanding something (like an accordion)
+  - Created using the [Button component](https://design.va.gov/components/button/) or [Button group component](https://design.va.gov/components/button/button-group), or with [standard semantic HTML button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
+  - Styled to look like buttons and shouldn’t include link signifiers, such as underlines
+- Links are:
+  - Used for navigation:
+    - Navigation bars
+	- Skip links / jump links (such as the On this page component)
+	- Links to internal web pages
+	- Links to external websites (read the [Content style guide](https://design.va.gov/content-style-guide/links#linking-to-external-sites) for additional information)
+    - Links to PDFs, whether static or generated on the fly
+  - Created using the [Link component](https://design.va.gov/components/link/), the [Action link component](https://design.va.gov/components/link/action) if you need extra visual emphasis, or with [standard semantic HTML link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+  - Styled to look like links and shouldn’t include button signifiers, such as borders
+
+### Implementation notes
+
+[Link to flow chart; in progress]
+
+## Further reading
+
+- [Buttons and links (presentation)](https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit?usp=sharing)
