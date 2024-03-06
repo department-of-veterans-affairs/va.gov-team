@@ -36,7 +36,7 @@ General info, notes and miscellaneous
 ### Key Decisions/Findings
 - PEGA integration [decision record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md)
 - 2/7/24 - Our recommendation for the longer term approach is for VBMS and VIS to communicate with each other (and to eliminate need for 10-7959f-1 FMP registration form altogether). For now we will focus on digitizing the form.
-- 3/4/24 - 10-10d usability testing will be done in staging. 10-7959f-1 testing - looking into UXPin (CodePen involves too much coding, Figma licenses are too limited). [Decision matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709218659350/85e1a2c931eafd52734bc66235165d15bf08d582?sender=334959bc-2aad-4cce-a6be-76386587a1e8) for prototypes created by Lois.
+- 3/4/24 - 10-10d usability testing will be done in staging. 10-7959f-1 testing - looking into UXPin (CodePen involves too much coding, Figma licenses are too limited - would require the VA to update, since Figma is new not a lot of precedent for testing). [Decision matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709218659350/85e1a2c931eafd52734bc66235165d15bf08d582?sender=334959bc-2aad-4cce-a6be-76386587a1e8) for prototypes created by Lois.
 
 ### Miscellaneous
 - New list and loop pattern being worked on by VFF team but not ready to use ('classic' will be used in usability testing as well as staging review and production). 
