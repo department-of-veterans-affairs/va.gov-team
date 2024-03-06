@@ -63,7 +63,7 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 ***
 
-## Choose the right element: Buttons vs. links
+## Choose the right element: Buttons vs. links (draft)
 
 Many people struggle to select the right element when choosing between a button or link. Making the right choice can help make an interface easier to use, especially for people who use assistive technology. Buttons and links are the primary ways users interact with information on a web page. Links are for navigation; buttons are for action.
 
