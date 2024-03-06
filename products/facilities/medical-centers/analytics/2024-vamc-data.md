@@ -8,7 +8,9 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 - [Top health services at facility level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-health-services-at-facility-level)
 - [Unique pageviews on required health service pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-required-health-service-pages)
 - [Unique pageviews on other specified pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-other-specified-pages)
-- [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#monthly-satisfaction-scores)
+- [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#satisfaction-scores)
+  - [Experience ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#experience-ratings)
+  - [CSAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#csat)
 
 ## VAMC editor and facility stats
 | Metric | January 2024 | February 2024	| March 2024
@@ -79,13 +81,13 @@ Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/
 | 5 stars |65 | 58|65 | |
 
 ### CSAT
+- Scores are given as an average across all VAMC system sites. Note that locations have a variable number of responses
+- < 25 is considered a low sample size
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/15779958-3cb5-45fa-84d1-0f99354967f9)
+
+
 | CSAT score |  January 2024 | February 2024	| March 2024
 | --- | :---:|:---: |:---:
 | Total # of responses |953 |821| |
-| # of health care system with > 25 responses | 2|0 | | 
-| Overall score | 3.2 | 3.2 | |
-| VA.gov experience | 3.0 |3.1 ||
-| VA.gov understanding | 3.5 | 3.5| |
-| General VA trust | 2.9 |2.9 ||
-| Trust in VA commitment to Veterans | 3.3 |3.3||
-| Ease of understanding | 3.3 |3.3 ||
+| # of health care system with >25 responses (_not considered small sample_) | 2|0 | | 
