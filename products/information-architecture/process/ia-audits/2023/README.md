@@ -9,7 +9,7 @@
 
 ## Audit results
 
-Hub | # of pages audited | # of pages needing corrections 
+Hub | Pages audited | Pages needing corrections 
 --- | --- | ---
 Health care | 67 | 17
 Disability | 62 | 27
