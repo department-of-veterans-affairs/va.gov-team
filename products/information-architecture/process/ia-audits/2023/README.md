@@ -23,7 +23,6 @@ Records |  11 | 3
 **Total** | **394** | **160**
 
 
-
 ### Types of issues found and resolved
 
 - Mismatch between H1 and breadcrumb segment - will require CMS change
