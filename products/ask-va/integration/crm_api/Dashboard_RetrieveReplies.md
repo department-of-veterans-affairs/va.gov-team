@@ -91,9 +91,7 @@
 
 ### Success Result
 
-```
-[Paste from DM here after ensuring no PII is in the response.]
-```
+Example 200 response: [examples/GetCorrespondenceResponse.json](./examples/GetCorrespondenceResponse.json)
 
 ### Postman Screenshot
 
