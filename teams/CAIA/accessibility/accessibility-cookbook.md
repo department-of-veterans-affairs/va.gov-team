@@ -50,6 +50,7 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 ### Resources
 -  [HeadingsMap Chrome extension](https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?pli=1)
+-  [HeadingsMap Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)
 
 ### Further reading
 
@@ -58,4 +59,4 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 ### Last updated
 
-2/27/24
+3/6/24
