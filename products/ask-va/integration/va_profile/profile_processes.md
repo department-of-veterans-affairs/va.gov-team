@@ -20,6 +20,8 @@ No information can be prefilled for unauthenticated users of the AVA Form.
   * Inquiry information can be updated implicitly when the submitter submits their inquiry
 
 ## Identity ID sourcing
+Note: Where the source is VA.gov Profile, we will get data through the api.va.gov/user endpoint through vets-api. [See the outlined process later in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/integration/va_profile/profile_processes.md#pre-defined-process-for-login-and-va-profile-data-retrieval). The source of this data is still technically VA Profile though.
+
 | Prefilled field | Source | Source field | Description |
 |:--|:--|:--:|:--|
 | Submitter CSP UUID | VA.gov Profile - identity | uuid | Generated when a user registers at one of the IDPs |
