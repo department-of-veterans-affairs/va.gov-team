@@ -103,3 +103,4 @@
 | 101 | [Requesting a virtual hearing for a Board Appeal](https://www.va.gov/resources/requesting-a-virtual-hearing-for-a-board-appeal/) | Decision review and appeals | 9/18/2023
 | 102 | [Getting care through the Foreign Medical Program](https://www.va.gov/resources/getting-care-through-the-foreign-medical-program/) | Health care | 11/30/23 |
 | 103 | [How to file a VA Foreign Medical Program claim](https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/) | Health care | 11/30/23 |
+| 104 | [How does multifactor authentication differ from identity verification](https://www.va.gov/resources/how-does-multifactor-authentication-differ-from-identity-verification/) | VA account and profile | 1/17/24 |
