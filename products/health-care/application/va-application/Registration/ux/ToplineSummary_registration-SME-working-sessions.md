@@ -86,8 +86,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - Community news, social media, TV news, billboards, radio...we have to put our information out there
 - More consistent communication - not just in big events like PACT Act
 
-> Quote
-
+>  Stagetic marketing; they’ll get their information from friends, family, and neighbor. If we put reading material out there, they can come in with accurate information instead of hearsay.
 **Staff pain points**
 - Making sure they have all materials with them when registering can be tough; makes 30-45 minutes to complete over the phone
 - Reaching the Veteran is difficult - communicating, collaborating with other departments, finding homeless Veterans, etc.
