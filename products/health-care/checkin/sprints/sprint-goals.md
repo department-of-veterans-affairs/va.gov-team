@@ -53,11 +53,9 @@ ________________________________________________________________________________
 ------- END FUTURE / TENTATIVE ------
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 3/6/2024 - 3/19/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## 3/6/2024 - 3/19/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## 3/6/2024 - 3/19/2024  CURRENT SPRINT
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -124,12 +122,9 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
         - 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
 
-------- END FUTURE / TENTATIVE ------
-</details>
-
 ______________________________________________________________________________________________________________________________________________________
 
-## 2/19/2024 - 3/5/2024  CURRENT SPRINT - FIRST SPRINT OF THE AGILE 6 CIE & APPTS CONTRACT
+## 2/19/2024 - 3/5/2024  FIRST SPRINT OF THE AGILE 6 CIE & APPTS CONTRACT
 #### SPRINT GOALS
 - **GOAL: Onboard New Team Members**
 - **GOAL: Support Production**  
