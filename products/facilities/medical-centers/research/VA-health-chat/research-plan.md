@@ -82,7 +82,6 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 1.
 1.
 1.
-1.
 
 ## Recruitment	
 
@@ -133,3 +132,35 @@ We will finalize key tasks and test set up on Optimal Workshop by March 26, 2023
 ## Appendix A:  Tasks
 
 ## Appendix B: Recruitment email
+Subject: Be part of a new VA online research activity
+
+Hello,
+
+The Department of Veterans Affairs is conducting research to learn how you prefer to communicate with your VA health care providers. We'd like to invite you to take part in an online activity to help improve VA.gov for your fellow Veterans and their families.
+
+Here's what to know about this activity:
+
+We’ll give you a series of tasks and a list of menu options. For each task, we'll ask you to click through the menu options to find the option that you think would have the information you need to complete the task. 
+
+This self-guided activity usually takes about 10 to 15 minutes to complete. You can complete the activity at any time that's convenient for you. You can complete this activity on a smartphone, laptop, or any device with an Internet connection. 
+
+We're not testing your abilities. We're testing changes to our website. If you'd like to take part in this activity, reply to this email. We'll send you a link and a participant code to get started.
+
+Thank you for your interest in VA research.
+
+## Appendix C: Email to recruited participant
+[subject] Start your VA online research activity
+
+Hello,
+
+Thank you for agreeing to take part in this VA online research activity.
+
+This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+
+We won't share any information or feedback linked to your name or other personal details.
+
+Here's your participant code: [Add code]
+
+You'll need to enter this at the start of the activity and after you've completed the last task to receive compensation.
+
+[link] Start the activity now
