@@ -33,7 +33,7 @@ paths:
               schema:
                 type: array
                 items:
-                  $ref: '#/components/schemas/ClaimSummaryDto'
+                  $ref: '#/components/schemas/ClaimSummary'
         '400':
           description: Bad Request
           # some schema for a bad request here
@@ -45,8 +45,15 @@ paths:
           # some schema for a service unavailable
 components:
   schemas:
-    ClaimSummaryDto:
+    ClaimSummary:
       type: object
+      required:
+        - id
+        - claimNumber
+        - claimStatus
+        - appointmentDate
+        - createdOn
+        - modifiedOn
       properties:
         id:
           type: string
