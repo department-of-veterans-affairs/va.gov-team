@@ -24,7 +24,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
     * [We don’t know how much Veterans care about their intent to file date after submission of a claim.](#we-don’t-know-how-much-veterans-care-about-their-intent-to-file-date-after-submission-of-a-claim.)
 - [Conclusion](#conclusion)
 
-## Goals and Methods
+# Goals and Methods
 
 We reviewed past and ongoing research studies and existing pages on the VA website. We documented our work in a [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?sender=uffa03f837f92a7ba90498999) with insights, observations, open questions, and recommendations. Our goals are to:
 - Identify known pain points that Veterans encounter around intent to file, and recommendations for improvement
@@ -55,7 +55,7 @@ Artifacts in this review include:
     * [About VA Form 21-526EZ (Disability)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702916468731/19c22e5ea181ee7c1f49bc13676aab370dc3664b?wid=0-1707155453500)
 - [Recurring Q&A sessions with VBA stakeholders](https://docs.google.com/document/d/1H9xgYJ-oAj3AWKtnzZxOI3xv_ayQKju03rkc36Emax8/edit#heading=h.wkbkkdt5fl03)
 
-## What is intent to file?
+# What is intent to file?
 
 Intent to file sets a potential start date (or effective date) for Veteran benefits by notifying the VA that they plan to file a claim. This can enable the Veteran to receive retroactive payments (payments from the time between when they submitted an intent to file and when the VA approves the claim). The Veteran has one year from the time they submit an intent to file their claim to receive the earliest possible effective date. 
 
@@ -73,11 +73,11 @@ Open Questions
 
 > Currently, VBA does not consider an authenticated user downloading a PDF 526 form as proof of intent to file. Are there use cases like this where it might make sense to expand the definition of what is considered an intent to file?
 
-## Findings & Recommendations
+# Findings & Recommendations
 
-**Veterans are unable to start their 526 (or supplemental) disability claim when the intent to file endpoint is unavailable.**
+## Veterans are unable to start their 526 (or supplemental) disability claim when the intent to file endpoint is unavailable.
 
-**526 Technical discovery**
+### 526 Technical discovery
 
 - Veterans are met with an error message when the system checks the intent to file endpoint and the endpoint is unavailable. The error resolves once the backend system recovers; however, this is not communicated to Veterans, who are directed to call the Contact Center for assistance. 
 
@@ -93,7 +93,7 @@ Open Questions
    > - How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
    > - How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
 
-**526 Medallia Research**
+### 526 Medallia Research
 
 - The intent to file error message was one of the top issues we heard about in the Medallia feedback for March 2023. (As far as we know, this error has not been resolved since then.)
   
@@ -108,7 +108,7 @@ Recommendations
 
 > - Conduct research with the Contact Center to understand how they troubleshoot intent to file errors and what information they are sharing with Veterans around the intent to file.
 
-**526 Shadowing Research**
+### 526 Shadowing Research
 
 - We validated that the intent to file messages was still a blocker for some Veterans starting their claims (interviews took place in December 2023). Three out of five participants received intent to file errors when they started to file, leading Veterans to doubt themselves or VA.
   
@@ -128,9 +128,9 @@ Recommendations
 > - Rethink how we introduce the concept of intent to file to clarify how it relates to past claims and conditions. 
 > - Reinforce understanding of intent to file by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
 
-**The various ways Veterans can express their intent to file (and the implications of each) are not clear to Veterans.**
+## The various ways Veterans can express their intent to file (and the implications of each) are not clear to Veterans.
 
-**526 Shadowing Research**
+### 526 Shadowing Research
 
 - Only 1 of 5 Veterans interviewed were confused by intent to file, but this participant raised some interesting concerns. While these concerns raised doubt and slowed them down, they were ultimately able to continue and file their claim. 
    - They were confused by the message saying they already had an intent to file, and hesitated with how to continue to file their claim. They saw the intent to file and starting an application as two separate steps.
@@ -138,7 +138,7 @@ Recommendations
    - They also thought that the intent to file was linked to a previous condition, and wouldn’t be appropriate to use for their new claim for different conditions.
       > - “I think [the intent to file] was from my last condition ... that's what I never got responses to. I would think it would let me start a new claim rather than start a new claim based on my intent to file, because I don't even remember what this intent to file… it may have been for [past condition].” -P12
 
-**Proactive Benefits Research**
+### Proactive Benefits Research
 
 - While nearly all participants expressed some familiarity with intent to file, most of them seem unaware of the benefits intent to file provides. Even for Veterans who have filed an intent to file in the past, there is still confusion about the purpose, how to do it, and what to expect.
   
@@ -154,9 +154,9 @@ Open Questions
 > - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 > - We’re also not sure how the endpoint checks for duplicates if a Veteran submits via multiple channels. As far as we know, if there are multiple intent to files, the earliest date will be used.
 
-**The intent to file expiration is a concern for Veterans, and not well understood.**
+## The intent to file expiration is a concern for Veterans, and not well understood.
 
-**526 Technical discovery**
+### 526 Technical discovery
 
 - Veterans should be able to continue to file a claim even after an intent to file expires. There were previously errors that prevented this on the 526, but these have since been resolved. (We’re still working to track down all related tickets, but here are a couple: [63533](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63533) and [60705](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60705))
 - The intent to file expires exactly one year after creation—down to the second. This causes confusion when a change in the Veteran’s timezone might result in the expiration falling on a different date entirely. 
@@ -166,12 +166,12 @@ Open Questions
    - We’re unsure if batch letters include the exact time or just the date.
 - The Benefit Management Tools team has in their [backlog](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/49151) to add an intent to file "object" into the Claim Status Tool as a placeholder after the Veteran submits an intent to file but before they finish the claim, which doesn’t exist today. This could be another way for Veterans to track their intent to file expiration date.
 
-**526 Medallia Research**
+### 526 Medallia Research
 
 - Many Veterans were concerned with completing their application by the intent to file expiration date. They expressed this with words like, “My intent to file expires today,” “It has to be in by today,” and after expiration: “My application is now due next year.” See [Medallia Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696525694420/4791b8ce60aeec63df3dc1dee348728050f530b3?sender=udbd39c1bbebb4ec4d7d08829).
 - These Veterans were primarily returning to an in-progress claim, and several mentioned that they were returning to finish uploading documentation or ancillary forms such as 21-0781a. 
 
-**Proactive Benefits Research**
+### Proactive Benefits Research
 
 - Misunderstandings about the intent to file timeline may cause some Veterans to act quickly out of stress, while others will wait to gather more information before "starting the clock." 
    - Many saw it as a one-year deadline to file a claim; some participants took this to mean that they had to rush to file before their claim was seen as invalid, while others said they would wait to file an intent to file until they knew what to expect or had all of their documents to not run out the one-year clock prematurely.
@@ -187,9 +187,9 @@ Recommendations
 > - Explain the benefit of getting started immediately in plain language. Communicate that submitting an intent to file for disability benefits online is built into the process and is therefore a low-effort action to take immediately to help maximize monetary benefits. [See Proactive Benefits teams’ plain language outreach on Sharepoint](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20business/Veteran%20Research/2023-11%20Proactive%20Benefits%20Outreach%20Letter%20Exploration?csf=1&web=1&e=IznH43).
 > - Clarify that intent to file is NOT a one-year deadline and, if you take longer than a year to submit, you won't lose out on your opportunity to apply for benefits.
 
-**Information on intent to file is inconsistent across forms.**
+## Information on intent to file is inconsistent across forms.
 
-**VA.gov audit**
+### VA.gov audit
 
 - Since the intent to file is built into the digital 526 process, it’s not clear from the [About 526](https://www.va.gov/find-forms/about-form-21-526ez/) page what a Veteran should do if they’re not ready to file a claim, but want to submit an intent to file. 
    - The page does not make clear that starting a 526 claim (even if they don’t plan to complete it right away) is the fastest way to create an intent to file, as compared with using the stand-alone intent to file form. 
@@ -225,11 +225,11 @@ Recommendations
 > - Update the 526 About page with clarity for Veterans who want to submit an intent to file, but are not ready to start a 526 claim. 
 > - Update the 534, 534EZ, and 527EZ  paper forms to include plain language and a direct link to the intent to file page.
 
-**We don’t know how much Veterans care about their intent to file date after submission of a claim.**
+## We don’t know how much Veterans care about their intent to file date after submission of a claim.
 
 - In discussion with the Decision Review and Benefit Management Tools teams, we learned that effective dates are clear in Veteran decision letters and the rated disability page on VA.gov once awarded, so it’s only while waiting for a decision that the Veteran might need to reference their intent to file date. More research would be required to assess this need.
 
-## Conclusion
+# Conclusion
 
 The intent to file error message is a known blocker for Veterans and should be resolved to unblock Veterans from submitting their claims even when the intent to file endpoint is down. 
 
