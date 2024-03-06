@@ -74,7 +74,11 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Integrate with CERNER**
     - **Sub Goal: Support Travel for CERNER Sites**
+        - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
+            - Rolled over from last sprint; 1 point left
         - ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
+        - ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
+            - Rolled over from last sprint; 1 point left
         - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
         - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
@@ -154,12 +158,12 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[CHIP] - Create initiateTravelClaim function ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75106)
         - ✔️ ❗ 🟩 [[FE] - Create basic pages and router for travel app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75269)
         - ✔️ ❗ 🟩 [[FE] [SPIKE] Determine level of effort to refactor the router ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75795)
-        - ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
+        - 🚧 ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
         - ✔️ ❗ 🟩 [[FE] - Create travel intro page #75745](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75745)
-        - ❗ 🟩 [[FE] - Modify footer component to work with travel-claim app #75749](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75749)
-        - ❗ 🟩 [[FE] - Create travel-claim success page #75751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75751)
+        - ✔️ ❗ 🟩 [[FE] - Modify footer component to work with travel-claim app #75749](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75749)
+        - ✔️ ❗ 🟩 [[FE] - Create travel-claim success page #75751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75751)
         - ✔️ ❗ 🟩 [[FE] - Create file later page #75796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75796)
-        - ❗ 🟩 [[FE] Error page scenarios and content #75722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75722)
+        - ✔️ ❗ 🟩 [[FE] Error page scenarios and content #75722](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75722)
         - ✔️ ❗ 🟩 [[FE] - Fetch appointment data with mocks #75706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75706)
         - ✔️ ❗ 🟩 [[FE] Create method of checking if patient already filed #75717](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75717)
         - ✔️ ❗ 🟩 [[FE] Fix complete page typos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77315)
@@ -170,9 +174,8 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟦 [[BE] Modify SessionsController param for facility_type and statsd metrics in vets-api to support travel_claims standalone app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75563)
         - ✔️ ❗ 🟦 [[BE] Modify Appointments Identifer Serializer to add IDIPI & appointment type field for OH appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75543)
         - ✔️ ❗ 🟦 [[BE] Modify devops repo for VA Notify template IDs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76208)
-        - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
-        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-            - Pulled into sprint on 3/1
+        - 🚧 ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
+        - ⛔ ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/44210)**
         - ✔️ 🟥 [[Design] Ensure CVT & VVC designs with new accordions are ready for eng handoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77134)
@@ -180,7 +183,7 @@ ________________________________________________________________________________
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
        - ✔️ 🟥 [[UX][Design] Create Design Options for an experimental notification collection pattern ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72101)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
-       - 🟥 [Research] Analyze GA Metrics
+       - ✔️ 🟥 [Research] Analyze GA Metrics
        - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75197)
 - **GOAL: Address Tech Debt**
     - ✔️ 🟩 [[CHIP][BUG] Resolve emfile errors in pre-checkin](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75182)
