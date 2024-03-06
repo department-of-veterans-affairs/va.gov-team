@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ## 3/20/2024 - 4/2/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
 - **GOAL: Support Production**  
-- **GOAL: Integrate with CERNER**
+- **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Support Travel for CERNER Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goals: Submit Q1 Translations to the State Department**
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
-- **GOAL: Integrate with CERNER**
+- **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 ## 3/6/2024 - 3/19/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
 - **GOAL: Support Production**  
-- **GOAL: Integrate with CERNER**
+- **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Support Travel for CERNER Sites**
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
-- **GOAL: Integrate with CERNER**
+- **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Support Travel for CERNER Sites**
         - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
             - Rolled over from last sprint; 1 point left
