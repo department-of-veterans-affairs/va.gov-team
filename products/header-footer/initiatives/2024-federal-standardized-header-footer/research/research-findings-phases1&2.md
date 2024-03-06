@@ -177,12 +177,12 @@ The 9 participants that we talked with each used their assistive technology in d
    
 1. AT p7 (mobile using VoiceOver screen reader on an iPhone) was **confused by the header buttons changing name**: search magnifying glass changed to *X*, and *Menu* changed to *Close*.
    > *"It isn't quite self-evident. You just kind of got to remember that. That's where the search icon used to be, and it is now replaced with just an X" (AT p7).*
-1. AT p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" for her name** (to open the Auth menu). She wondered if it was a button or a menu because they're two different things that you interact with differently. 
+1. AT p1 (desktop using JAWS screen reader) was confused about why the **screen reader said "button menu" in addition to her name** (to open the Auth menu). She wondered if it was a button or a menu because they're two different things that you interact with differently. 
 
 1. AT p10 (desktop using VoiceOver screen reader on an iPad) tried to click on the *Contact us* column header in the blue footer. They **couldn't tell that it wasn't interactive** from what the screen reader said. This same participant also tried clicking on the *Get education benefits* header text on the *VA Benefits and Health Care > Education and training* page.
 
 #### Issues discussed that *didn't* cause difficulty during sessions
-9. AT p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* disappeared, as did the entire USA white logo and seal** in the footer. 
+9. AT p10 (desktop using VoiceOver screen reader on an iPad) changed his accessibility settings during the research session to **inverse/high contrast**. After he did that, the **"A" in the header *USA Government* was no longer visible, as was the entire USA white logo and seal** in the footer. 
 
 1. AT p7 (mobile using VoiceOver screen reader on an iPhone) said that it's **difficult to differentiate a menu from the content underneath** when the menu background is the same color as what it's overlaying. In this way, it's hard for the participant to tell where the menu ends and the content underneath resumes. 
 
@@ -207,7 +207,7 @@ After signing in, **half of the participants (9 of 19) had difficulty finding th
 
   > *"The triangle I didn't really acknowledge that it was a pull down. If you look at the blue [header menu] area, it's more clear to me that they're pulldowns...than over where the search is and where the name is" (AT p9).*
 
-After finding and opening the Auth menu, ALL participants recognized and clicked on *Profile*, which was the correct navigation path. However, 2 participants wondered aloud if they should try *My VA* instead (which didn't work in the prototype).
+After finding and opening the Auth menu, ALL participants recognized and clicked on *Profile*, which was the correct navigation path. However, 2 participants wondered aloud if they should try *My VA* instead (which was not a functional path in the prototype).
 
 ### 4. There was confusion about what constituted the footer and the bottom of the page, due to a long VA footer followed by a shorter federal footer
 
@@ -236,7 +236,7 @@ After finding and opening the Auth menu, ALL participants recognized and clicked
 
 ### 5. More than half of the participants who could see the colored federal USA logo in the header had negative impressions of it; some preferred the white USA logo in the footer
 
-Only 16 of the 19 participants had enough vision that they were able to provide feedback on the USA logos. (The 6 participants were all Veterans or caregivers or family members of Veterans, which isn't a representative sample of all US citizens.)  
+Only 16 of the 19 participants had enough vision that they were able to provide feedback on the USA logos. (The 16 participants were all Veterans or caregivers or family members of Veterans, which isn't a representative sample of all US citizens.)  
 
 **11 of 16 participants were concerned about the colored USA logo in the header** with varying degrees of sentiment: 
    - **Looks fraudulent, fake, or like phishing** (4 participants)
