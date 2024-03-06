@@ -23,3 +23,4 @@
 | [Accessibility at VA](https://www.va.gov/accessibility-at-va-esp) | Spanish | 11/15/23 | 
 | [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation-esp/) | Spanish | 11/16/23 | 
 | [GI Bill and other education benefit eligibility](https://www.va.gov/education/eligibility-esp/) | Spanish | 2/14/24 |
+| [VA Survivors Pension]([https://www.va.gov/education/eligibility-esp/](https://www.va.gov/pension/survivors-pension-esp)https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |
