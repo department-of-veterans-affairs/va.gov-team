@@ -733,20 +733,61 @@ You may also qualify for enhanced eligibility status if you fit one of these des
 
 #### URL: health-care/apply/application/military-service/gulf-war-service-dates
  
-Service dates for Gulf War locations
-Enter any date range you served in a Gulf War location. You don’t need to have exact dates.
+[title h3] Service dates for Gulf War locations
+[p] Enter any date range you served in a Gulf War location. You don’t need to have exact dates.
 
-Service start date
-If you don’t know the exact date, enter your best guess
-Month Year
+[label] Service start date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
 
-Service end date
-If you don’t know the exact date, enter your best guess
-Month Year
+[label] Service end date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
 
 [additional info component]
+[title] What if I have more than one date range?
+[content] 
+You only need to enter one date range. We’ll use this information to find your record.
+
+### Page: Toxic Exposure Operations
+
+#### URL: health-care/apply/application/military-service/operation-support
 
 
+[title h3] Operations
+[label] Were you deployed in support of any of these operations?
+- Enduring Freedom
+- Freedom’s Sentinel
+- Iraqi Freedom
+- New Dawn
+- Inherent Resolve
+- Resolute Support Mission
+
+[radio buttons]
+- Yes
+- No
+
+
+### Page: Toxic Exposure Agent Orange
+
+#### URL: health-care/apply/application/military-service/agent-orange-exposure
+
+[title h3] Agent Orange locations
+
+[label] Did you serve in any of these locations where the military used the herbicide Agent Orange?
+- Cambodia at Mimot or Krek, Kampong Cham Province
+- Guam, American Samoa, or their territorial waters
+- In or near the Korean demilitarized zone
+- Johnston Atoll or on a ship that called at Johnston Atoll
+- Laos
+- Any location where you had contact with C-123 airplanes while serving in the Air Force or the Air Force Reserves
+- A U.S. or Royal Thai military base in Thailand
+- Vietnam or the waters in or off of Vietnam
+
+[radio buttons]
+- Yes
+- No
+  
 ---
 ## Step 4 Household information 
 
