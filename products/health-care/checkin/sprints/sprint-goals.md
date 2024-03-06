@@ -9,10 +9,12 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
 - **GOAL: Increase PCI Usage**
+    - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
     - **Sub Goals: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Discovery**    
 - **GOAL: Address Tech Debt**
     - **Sub Goal: Migrate to GA4**
     - **Sub Goal: Move to New AWS Instance**
@@ -35,11 +37,15 @@ ________________________________________________________________________________
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
 - **GOAL: Increase Usage of PCI**    
+    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - TBD
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
+- **GOAL: Discovery**
+    - TBD
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         
@@ -54,11 +60,9 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
-- **GOAL: Make Travel Claims Easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
