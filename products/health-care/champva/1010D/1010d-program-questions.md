@@ -24,3 +24,14 @@
 |22|New|Sponsor|If death documents are required what are the acceptable document types? |No|Yes||
 |23|New|Applicants| What is the correct term for the Rating Decision for a "Helpless Child"?|No|Yes||
 |24|New|Sponsor|If an applicant wants to upload a birth cert to avoid possible delays would a Social Security card work in place? |No|No||
+
+## Related to 10-7959c
+
+|Number|Complete?|Form Section|Question|Blocking Testing?|Blocking for Production (1=must)|Answer|
+|---|---|---|---|---|---|---|
+|25|NEW|10-7959c|Can we have multiple applicants on the same form submission? ||||
+|26|NEW|10-7959c|If a third party (or anyone other than an applicant on the form) is filling this form out do we need to collect their contact info?||||
+|27|NEW|10-7959c|Will Name DOB and SSN be enough info to identify a person so PA can add info to their “file”?||||
+|28|NEW|10-7959c|The new launch of the digital 1010D form ChampVA enrollment and OHI form are going to come in within the same workflow (unless applicants choose to mail in their cards/ 7959c form). If we plan to pull out the 7959c info from the 1010d to keep it separate, how would that work on the backend now having this info coming in at two separate times? Will that add to the admin side of things?||||
+|29|NEW|10-7959c|To avoid asking redundant questions, causing confusion or displaying overlapping information during the overall experience of enrolling in CHAMPVA (with OHI) would consolidating the 1010D and 7959c forms possible? We will still have a standalone 7959c form to capture any coverage/ address updates. How may we solve this problem to best accommodate the PRA? Can we give 2 control numbers on the intro page if we consolidate. ||||
+
