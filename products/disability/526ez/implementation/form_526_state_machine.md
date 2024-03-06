@@ -10,6 +10,11 @@ We are about to do an audit in cooperation with VBMS to determine the success of
 ### Omissions
 This work *does not* add any transition validation to the state machine.  That would be out of scope for MVP, and dangerous to roll out as it could cause errors in the submission flow.  MVP is to simply add the datapoint, unblocking our audit of VBMS.
 
+#### This is not a replacement for a Global UUID
+This is not a holistic solution for end-to-end tracking. This work simply allows us a persistent, simple, queryable, and non-human-error-prone way to track submission state outside of the normal submission flow, ie remediation.  There is a pretty good chance that this will be replaced in the next year or so with a global UUID for submissions (at least that's the current thinking).
+
+I imagine that once we have a global UUID, or similar iteration, we will be glad to have this data.  It will allow us to quickly identify old submissions that *should* have a global UUID at the time of transition.  Or, maybe this will be sufficient to catalogue everything that *predates* the global UUID.  Either way, we need an immediate solution for tracking our remediation, which is the primary value of this work.
+
 ## Implementation
 ### POSSIBLE LIFECYCLES:
   
@@ -42,7 +47,7 @@ This work *does not* add any transition validation to the state machine.  That w
       - delivered_to_backup > (polling action)
         - rejected_by_backup
 Remedial paths:
-  NOTE: if we are here, something is weird so we will no assumptions about incomming state
+  NOTE: if we are here, something is weird so we will no assumptions about incoming state
   - Happy path
     - any state > (submission action)
       - in_remediation > (polling or manual confirmation action)
@@ -82,7 +87,7 @@ Remedial paths:
 
     # - a submission has been delivered to our backup path
     # - accepts any non-success type state
-    # - MUST accept all the same incomming statuses as fail_backup_delivery
+    # - MUST accept all the same incoming statuses as fail_backup_delivery
     # - requires polling to finalize
     event :deliver_to_backup do
       # TODO: post MVP rule to enforce
@@ -92,7 +97,7 @@ Remedial paths:
 
     # - a submission has failed to be delivered to our backup path
     # - accepts any non-success type state
-    # - MUST accept all the same incomming statuses as fail_backup_delivery
+    # - MUST accept all the same incoming statuses as fail_backup_delivery
     # - requires remediation
     event :fail_backup_delivery do
       # TODO: post MVP rule to enforce
