@@ -7,7 +7,7 @@ Last updated by @tygindraux: March 7, 2024
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
 - [When to enable or disable contact options](#when-to-enable-or-disable-contact-options)
-- [Contact rules by topic](contact-rules-by-topic)
+- [Contact rules by topic](#contact-rules-by-topic)
 
 ## How this pattern works
 
@@ -19,19 +19,19 @@ The confirmation page lets a submitter know how they will be contacted, whether 
 
 This is a summary of when to enable or disable contact options in Ask VA. This list is alphabetized by category name. 
 
-For a complete list, jump to [contact rules by topic](contact-rules-by-topic).
+For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 
 |Category|Rule|
 |:--|:--|
-|`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](contact-rules-by-topic))|
-|`Burials and memorials`|Varies by topic (see [contact rules by topic](contact-rules-by-topic))|
+|`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
+|`Burials and memorials`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Center for Minority Veterans`|Email, phone and US Mail are always `ENABLED`|
 |`Center for Women Veterans`|Email and US mail are always `ENABLED`, phone is always `DISABLED`|
-|`Debt for benefit overpayments and copay bills`|Varies by topic (see [contact rules by topic](contact-rules-by-topic))|
+|`Debt for benefit overpayments and copay bills`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|
 |`DEERS (Defense Enrollment Eligibility Reporting System)`|...|
 |`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
-|`Education benefits and work study`|Varies by topic (see [contact rules by topic](contact-rules-by-topic))|
+|`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|...|
 |`Health care`|...|
 |`Housing assistance and home loans`|...|
