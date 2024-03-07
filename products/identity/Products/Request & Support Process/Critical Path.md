@@ -50,14 +50,17 @@ The Identity Team member (or members, if need be), do the actual work.
  
 ## 11. Ticket is Ready for UAT
 When the Ticket is finshed being worked upon, the SPOC should notify the Requestor that -- if possible -- they should do User Acceptance Testing.
+- NOTE: Not every request is going to need this.
 
 ## 12. UAT
 If possible, the requestor will do some kind of UAT, and makes the decision whether or not to release into production.
 - If no, then the ticket goets back to **#10 Ticket is Worked On**.
 - If yes, then the Identity team can release the code into production.
+- NOTE: Not every request is going to need this.
 
 ## 13. Code Released into Production
 At the Identity Team's discretion, the code released into production.
+- NOTE: Not every request is going to need this.
 
 ## 14. Ticket Closed
 After the code has been released into production, and it is determined that the new code hasn't broken anything, the Identity Team closes the ticket.
