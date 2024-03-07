@@ -1,17 +1,19 @@
 # Request & Support Process Critical Path
 
-In which we explain each step along the way when a user submits a request to the VA Identity Team
+In which we explain each step along the way when a user submits a request to the VA Identity Team.
+
+NOTE Steps #2 & #3 will not be in the MVP
 
 ## 1. Slackbot Invoked By User
 Someone (lets call them the Requestor) goes into the #VSP-Identity Slack channel and invokes our slackbot by typing _/help_
 
-~~## 2. Initial Bot Response~~
+## 2. Initial Bot Response
 Based upon what the user chooses in the slackbot drop-down, the slackbot will respond with a form
 
-~~## 3. Did Initial Response Solve Problem?~~
-~~The Requestor evaluates the initial response, and makes a decision as to whether or not the Slackbot's initial response is sufficient to solve their prolbem.~~ 
-~~- If so, the matter never gets opened~~.
-~~- If not, they fill out the provided form.~~
+## 3. Did Initial Response Solve Problem?
+The Requestor evaluates the initial response, and makes a decision as to whether or not the Slackbot's initial response is sufficient to solve their prolbem.
+- If so, the matter never gets opened.
+- If not, they fill out the provided form.
 
 ## 4. Requestor Fills out Form
 At this point, the Requestor fills out the form provided by the Slackbot, and submits it, creating a new ticket.
