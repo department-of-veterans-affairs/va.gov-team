@@ -287,7 +287,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Ade Ajayi
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ade Ajayi & Anne Costello Kennedy ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
-- Accessibility specialist: CAIA
+- Accessibility specialist: CAIA: evan.burnett@coforma.io, sarah.koomson@oddball.io, sara.smith@oddball.io
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
 - Note-takers: Amelia Hacking (<Amelia.hacking@bylight.com>)
 - Observers: Kay Lawyer ([katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)), Kaitlin Fink ([Kaitlin.Fink@va.gov](mailto:Kaitlin.Fink@va.gov)), Robyn Singleton ([Robyn.singleton@va.gov](mailto:Robyn.singleton@va.gov)), Lexi Wunder (<Alexia.Wunder@bylight.com>)
