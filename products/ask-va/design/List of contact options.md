@@ -2,9 +2,9 @@
 
 Last updated by @beckyphung: March 7, 2024 
 
-March 2024 Update: We're reconfirming if business lines agree to removing US mail as an option. We've started tracking responses below.
+**March 2024 Update**: We're reconfirming if business lines agree to removing US mail as an option. We've started tracking responses below.
 
-December 2023 Update: This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
+**December 2023 Update**: This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
 
 Jump to:
 - [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
