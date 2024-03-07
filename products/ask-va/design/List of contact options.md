@@ -20,7 +20,7 @@ In all scenarios, the confirmation page lets a submitter know how they will be c
 
 ## When to enable or disable contact options
 
-This is a summary of when to enable or disable contact options in Ask VA. For a complete list, jump to [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic).
+This is a summary of when to enable or disable contact options in Ask VA. For a complete list, jump to [contact rules by topic](#march-2024-contact-rules-by-topic).
 
 This list is alphabetized by category name. 
 
