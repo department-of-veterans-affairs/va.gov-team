@@ -60,13 +60,13 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
 ![Screenshot 2023-03-01 at 6 40 51 PM](https://user-images.githubusercontent.com/122128479/222300205-91cd8fcc-f0cb-4f5d-b4ea-81476e2da0d8.png)
 
 3. [How to apply for an adapted housing grant](https://www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/) - Modify
-  - Placement description: Replace link label text so that it refers to the online application rather to eBenefits
+  - Placement description: Replace link label text so that it refers to the online application rather than to eBenefits
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
   - Notes: eBenefits is being sunset in June 2024
  
 4. [Disability housing grants for Veterans](https://www.va.gov/housing-assistance/disability-housing-grants/) - Modify
-  - Placement description: Replace link label text so that it refers to the online application rather to eBenefits
+  - Placement description: Replace link label text so that it refers to the online application rather than to eBenefits
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
   - Notes:
