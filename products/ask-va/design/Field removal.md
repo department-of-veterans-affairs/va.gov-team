@@ -1,7 +1,7 @@
 # Field removal
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 9, 2024
+Last updated by @beckyphung: March 7, 2024
 
 ## List of fields to remove
 |Chapter in Ask VA|Field|
