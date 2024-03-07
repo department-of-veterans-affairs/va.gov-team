@@ -23,23 +23,29 @@ Records |  11 | 3
 **Total** | **394** | **160**
 
 
-### Types of issues found and resolved
+## Findings
 
-- Mismatch between H1 and breadcrumb segment - will require CMS change
-- Syncing link labels with H1
-- Adding missing links to hub page
-- Syncing order of hub page and left nav
-- Removing extraerroneous instances of "VA" in titles to simplify navigation components
-- Improving consistency in structuring and crosslinking of historical rates pages
-- Identified existing URLs that do not meet standards
-- consistency in how we represented labels within and across hubs
+1. Key navigation component links labels (i.e. breadcrumbs, left nav, top nav) have become out of sync with the H1s of pages
+  - Mismatch between H1 and breadcrumb segment - will require CMS change
+  - Link labels out of sync with H1
 
+2. Benefit hub landing pages had missing, mismatched, or out of order links
+  - Links missing on hub page
+  - Order of links on hub page and left nav out of sync
 
-### Identified gaps in standards and guidance
+3. Repetitive labels within nav components
+  - Extraerroneous instances of "VA" in titles and navigation components
+  - Inconsistent structure and crosslinking of historical rates pages
+  - Labels inconsistent within and across benefit hubs
 
-  - Usage of on this page component
+4. Some URLs were not meeting standards
+  - URL became out of sync with H1s
+  - Older vets.gov URLs still haven't been modernized to meet standards
+-
+5. Identified gaps in standards and guidance
+  - Usage of "On this page" component
   - Use of form number in link labels and page titles
-  - Hub page link inclusion and order
+  - Hub page guidance for link inclusion and order
   - Use of "VA" in page titles
 
 
