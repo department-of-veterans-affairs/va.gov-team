@@ -4,9 +4,9 @@
 
 ## Sign-in alerts
 
-- [Unauth version for people who need to sign in to start form](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/content/content-patterns-and-standards/form-standards/alerts.md#unauth-version-for-people-who-need-to-sign-in-to-start-form)  
-- [Unauth version for people who need to sign in AND be verified to start form](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/content/content-patterns-and-standards/form-standards/alerts.md#unauth-version-for-people-who-need-to-sign-in-and-be-verified-to-start-form)  
-- [Auth version to continue form](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/content/content-patterns-and-standards/form-standards/alerts.md#auth-version-to-continue-form)  
+- [Unauth version for people who need to sign in to start form](#unauth-version-for-people-who-need-to-sign-in-to-start-form)  
+- [Unauth version for people who need to sign in AND be verified to start form](#unauth-version-for-people-who-need-to-sign-in-and-be-verified-to-start-form)  
+- [Auth version to continue form](#auth-version-to-continue-form)  
 
 ----------
 
