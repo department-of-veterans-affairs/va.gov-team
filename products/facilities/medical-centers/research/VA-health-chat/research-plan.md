@@ -65,20 +65,31 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 
 **Pre-activity questions**
 1. Which option most accurately describes your relationship to the Veteran in your life?
-  - Spouse, child, or parent of a living Veteran
-  - Surviving spouse, child, or parent of a Veteran
-  - Family caregiver of a Veteran
-  - Non-family caregiver of a Veteran
+  - I'm a Veteran
+  - I'm the family member or caregiver of a Veteran
 
 **Tasks**
+*Cohorts 1-3 (Veterans)*
+1. You want to use chat to make a healthcare appointment at a VA medical center.
+1. You want to call someone to make a healthcare appointment at a VA medical center.
+1. You'd like to refill a prescription by phone.
+1. You'd like to refill a prescription via chat.
+1. You'd like to talk to someone who can help with a non-urgent health question.
+1. You'd like to talk to someone on your health care team about a non-urgent health question. 
+1. You want to talk to a doctor by phone or video about a health problem.
+1.
+1.
+1.
 
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+
+*Cohorts 4-6 (Family members and caregivers)*
+1. You want to use chat to make a healthcare appointment for yourself or a Veteran you care for at a VA medical center.
+1. You want to call someone to make a healthcare appointment for yourself or a Veteran you care for at a VA medical center.
+1. You want to refill a prescription for yourself or a Veteran you care for by phone.
+1. You want to refill a prescription for yourself or a Veteran you care for via chat.
+1. You want to talk to someone who can help with a non-urgent health question.
+1. You want to talk to someone on your (or the Veteran you care for's) health care team about a non-urgent health question. 
+1. You want to talk to a doctor by phone or video about a health problem.
 1.
 1.
 1.
@@ -86,7 +97,7 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 ## Recruitment	
 
 ### Recruitment approach
-We will partner with Perigean to recruit Veteran family members and caregivers. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in a [folder on the sensitive repo](set up and link). We want to have a meeting with Perigean before recruitment begins to make sure there is no confusion with criteria table and screener questions.
+We will partner with Perigean to recruit Veterans, family members, and caregivers. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in a [folder on the sensitive repo](set up and link). We want to have a meeting with Perigean before recruitment begins to make sure there is no confusion with criteria table and screener questions.
 
 Will recruit 6 cohorts of 9 for a total of 54 recruits.  The goal will be to reach at least 40 completes.  The test will remain open for at least 2-3 days after the last invite goes out to give all invited participants a chance to complete the activity. 
 
@@ -95,10 +106,13 @@ Will recruit 6 cohorts of 9 for a total of 54 recruits.  The goal will be to rea
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-- Veteran family member - spouse, dependent, parent
-- Surviving Veteran family member - surviving spouse, surviving child, surviving parent
-- Veteran caregiver - family caregiver, non-family caregiver
+- Veterans
+- Veteran family member or caregiver - spouse, dependent, parent, family caregiver, non-family caregiver
 
+**Secondary criteria (good-to-haves)**
+
+- (use recruitment criteria for underserved demographics)
+- 
 
 ### Proposed cohorts
 - Cohort 1 - Veteran + has visited a VA health care facility in the past 12 months + Female
