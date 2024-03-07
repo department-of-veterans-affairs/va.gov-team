@@ -72,7 +72,9 @@ These were chosen because these are requests that our team unambiguously fulfill
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------:| 
-| |               |
+| Number of requests | On a monthly basis, we track how many requests were fulfilled via the Request & Support tracker| 
+| Percentage of requests | On a monthly basis, we track the percentage of requests that were fulfilled via 
+
 
 
 ## Baseline KPI Values:
