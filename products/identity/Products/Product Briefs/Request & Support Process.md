@@ -63,11 +63,11 @@ These were chosen because these are requests that our team unambiguously fulfill
 
 ## Solution Approach: 
 * We piggyback off of the slackbot developed for the SiS Project and use it to expand the range of requests captured. The slackbot will respond to the _/help_ command in the #vfs-identity channel. For MVP, it will have the following choices:
-- Test User Authentication Help
-- Sign-In Service Integration
-- PR Review Request
-- Data Request
-- Other
+  - Test User Authentication Help
+  - Sign-In Service Integration
+  - PR Review Request
+  - Data Request
+  - Other
 
 We obviously won't worry about Sign-In Service, as that has it's own flow, but "Other" will be useful in determining what choices we want to add next.
 
