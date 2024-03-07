@@ -9,7 +9,8 @@ Last updated by @beckyphung: March 7, 2024
 Jump to:
 - [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
 - [How this pattern works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#how-this-patterns-works)
-- [Contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic)
+- [March 2024 Contact rules by topic](#march-2024-contact-rules-by-topic)
+- [December 2023 Contact rules by topic](#december-2023-contact-rules-by-topic)
 
 ## When to enable or disable contact options
 
