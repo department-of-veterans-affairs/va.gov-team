@@ -11,7 +11,7 @@ The VA Flagship mobile app team believes that bringing personalized content to t
 
 See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) 
 
-### Project Objectives & Goals 
+## Project Objectives & Goals 
 #### [Flagship Mobile App Strategy](https://docs.google.com/presentation/d/1j0rO2HvDwHDTzunG3judC1HXOiWfGNTXVciLAkurpRw/edit#slide=id.g1e78b87c057_0_159)
 - **Vision:** "Each Veteran is connected to the VA services that matter most to them, regardless of device, and without understanding the VA org chart.”
 - **Objective 1:** Veterans will use authenticated services that are highly personalized and valuable.
