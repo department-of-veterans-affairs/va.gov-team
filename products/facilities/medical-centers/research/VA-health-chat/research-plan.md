@@ -24,20 +24,21 @@ Which OCTO priorities does this research support?
 The results of the tree test will help inform optimal placement of health chat and health connect links on VAMC pages.
 
 ### Research questions
-Where do Veterans expect to find each of the methods of communication (VA health chat and VA health connect)? 
-- VA Health Chat
-- VA health connect (24/7 phone)
+1. Where do Veterans expect to find each of the following methods of communication:
+- VA Health Chat?
+- VA health connect (24/7 phone)?
 
-Where do Veterans expect to find instructions for accessing VA health chat? 
+2a. Where do Veterans expect to find instructions for accessing VA health chat?
+2b. Where do Veterans expect to find information about VA health connect?
 
 
 ### Hypothesis
-Most participants will want to access these methods of communication on facility health care pages.
+Most participants will be ablt to identify and locate methods of communication on facility health care pages.
 
 ## Methodology	
 
 ### IA Tree Test (remote, unmoderated)
-Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains XX tasks. For each task, the participant will be asked to locate in the menu tree where they believe a specific task can be completed.
+Using Optimal Workshop, we will conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will be sent a link to a tree test activity that contains [XX] tasks. For each task, the participant will be asked to locate in the menu tree where they believe a specific task can be completed.
 **Test logistics**
 - Participant will be required to enter their unique code at the beginning and end of the activity
 - Tasks will be randomized to reduce order bias
@@ -97,7 +98,7 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 ## Recruitment	
 
 ### Recruitment approach
-We will partner with Perigean to recruit Veterans, family members, and caregivers. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in a [folder on the sensitive repo](set up and link). We want to have a meeting with Perigean before recruitment begins to make sure there is no confusion with criteria table and screener questions.
+We will partner with Perigean to recruit Veterans, family members and caregivers. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in a [folder on the sensitive repo](set up and link). We want to have a meeting with Perigean before recruitment begins to make sure there is no confusion with criteria table and screener questions.
 
 Will recruit 6 cohorts of 9 for a total of 54 recruits.  The goal will be to reach at least 40 completes.  The test will remain open for at least 2-3 days after the last invite goes out to give all invited participants a chance to complete the activity. 
 
