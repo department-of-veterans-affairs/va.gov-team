@@ -8,8 +8,10 @@ Created by the sitewide content team for teams working on digitizing VA forms. T
 ## Sections
 
 - [Overview](#overview)
+- [Labels and errors to standardize](#labels-and-errors-to-standardize)
 - [Upload screens](#upload-screens)
 - [Hint text](#hint-text)
+- [Prefill alerts and updating info](#prefill-alerts-and-updating-info)
 
 ## Overview
 
@@ -18,6 +20,9 @@ Speaking plainly, compassionately, and consistently across VA helps us build tru
 This brief will help forms teams create content that aligns with the VA.gov voice and content standards and that uses consistent language for content that appears in multiple forms. It will also help us all track content decisions so we can all stay aligned from discovery through post-launch iterations. This is a living document. 
 
 [Read our top 10 plain language standards in the VA.gov content style guide for more](https://design.va.gov/content-style-guide/content-principles/plain-language)
+
+## Labels and errors to standardize
+
 
 ## Upload screens
 Form teams are using several different approaches to a file upload pattern. 
@@ -50,7 +55,7 @@ Questions:
 
 - "Why we need this" 
 
-## Prefill alerts and "Know how information is updated" pattern
+## Prefill alerts and updating info
 VADS doesn't currently connect guidance for prefill alerts to the the ["Know how information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern.
 
 **Questions:**
