@@ -25,7 +25,7 @@ _What details are necessary for understanding the specific work or request track
 - [ ] Copyedit
 - [ ] Publish
 - [ ] Alert stakeholder
-
+```
 
 ## Acceptance Criteria
 ```[tasklist]
@@ -33,6 +33,7 @@ _What details are necessary for understanding the specific work or request track
 - [ ] Updated content is live on the site
 - [ ] Product has launched
 - [ ] Feedback has been shared with stakeholders
+```
 
 ## How to configure this issue
 ```[tasklist]
@@ -42,6 +43,7 @@ _What details are necessary for understanding the specific work or request track
 - [ ] **Labeled with Estimate** (level of effort expected for this ticket)
 - [ ] **Assignee name added to each task they will complete (if known)**
 - [ ] **Open date and target date (if known) updated**
+```
 
 ## Ticket Tasks
 _Complete these steps to configure this ticket._
@@ -52,3 +54,4 @@ _Complete these steps to configure this ticket._
 - [ ] Add Opened Date
 - [ ] Add Estimate
 - [ ] Add label(s) for discipline(s) involved in work
+```
