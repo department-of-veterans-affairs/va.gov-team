@@ -1,5 +1,5 @@
 # DRAFT VA Mobile App: Personalized Home Screen Evaluative Research Plan
-March 2024
+February 2024
 
 
 ## Background
