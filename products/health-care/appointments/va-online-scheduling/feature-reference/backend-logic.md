@@ -140,7 +140,7 @@ How the API determines CC eligibility:
    - VistA Request Type = Other than Not avail
    - VistA Next Avail Type = Not indicated toa be next avail
    - VistA PID/Preferred Date of Appointment must be set to the date selected as entered on When do you want to schedule page
-   -  VistA Patient Comments must be set as entered in the comment section on the Choose Reason for Appointment page.
+   - VistA Patient Comments must be set as entered in the comment section on the Choose Reason for Appointment page.
    - VistA Patient Comments must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS.  
    - VistA Clinic wait time 1 must be set to the difference b/w the date the appointment was processed and the date of the appointment
    - VistA Clinic wait time 2 must be set to the difference b/w the preferred date of the appointment (as entered in VAOS on the WHEN DO YOU WANT TO SCHEDULE page) and the date of the appointment.  
@@ -155,14 +155,14 @@ How the API determines CC eligibility:
    - VistA PID/Preferred Date of Appointment must be set to the first date enter as entered on Choose date for appointment
    - VistA Priority must be set to ASAP
    - VistA Modality must be set as entered in VAOS on the Choose a type of appointment page.  
-        - VAOS Office Visit = Face to Face
-        - VAOS Telephone  = Phone Call
-        - VAOS Telehealth = Video
+       - VAOS Office Visit = Face to Face
+       - VAOS Telephone  = Phone Call
+       - VAOS Telehealth = Video
 - VistA Patient Comments must include the following:
-      - Location Selected in VAOS
-      - The second and third date preferences if entered on the Choose an appointment day and time page
-      - Email and phone number.  
-      - Comments must be set as entered on the Choose Reason for Appointment page must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS. 
+    - Location Selected in VAOS
+    - The second and third date preferences if entered on the Choose an appointment day and time page
+    - Email and phone number.
+    - Comments must be set as entered on the Choose Reason for Appointment page must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS. 
 
 ### Community Care Requests in HSRM
 - All community care requests must write the following data to the Health Systems Referral Management System (HSRM)
