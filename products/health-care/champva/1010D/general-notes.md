@@ -29,9 +29,9 @@ General info, notes and miscellaneous
   - new enrollment system that won't be ready until sometime in 2025
   - (dev will begin in spring 2024 and plan to complete in spring 2025)
   - VHA version of VBMS
-- VIS: Veteran Information System
+- VIS: Veteran Information System (VBA system)
 - VISTA: Veterans Health Information Systems and Technology Architecture (VISTA)
-  - instance of CP&E (where eligibility info is stored, service connected conditions); VBA system
+  - instance of CP&E (where eligibility info is stored, service connected conditions)
 
  
 ### Key Decisions/Findings
