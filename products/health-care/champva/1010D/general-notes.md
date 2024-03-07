@@ -37,14 +37,14 @@ General info, notes and miscellaneous
 ### Key Decisions/Findings
 - PEGA integration [decision record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md)
 - 2/7/24 - Recommendation (long term): VBMS and VIS to communicate with each other (and eliminate need for 10-7959f-1 FMP registration form altogether). For now we will focus on digitizing the form.
-- 3/4/24 - Testing: 10-10d will be done in staging. 10-7959f-1 testing - looking into UXPin (CodePen involves too much coding, Figma licenses are too limited - would require the VA to update, since Figma is new not a lot of precedent for testing).
+- 3/7/24 - Testing: 10-10d will be done in staging. 10-7959f-1 testing - user interviews + content to be done with Figma prototype (Looked at UXPin - accessibility concerns, CodePen involves too much coding, Figma is limited - would require VA to update, since Figma is new not a lot of precedent for testing).
   - [Decision matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709218659350/85e1a2c931eafd52734bc66235165d15bf08d582?sender=334959bc-2aad-4cce-a6be-76386587a1e8) for prototypes created by Lois.
 - 3/6/24 - Recommendation: To avoid asking redundancy, confusion or displaying overlapping information during CHAMPVA enrollment (with OHI) we should consolidate 1010D and 7959c. We will still have a standalone 7959c form to capture any coverage/ address updates.
    - Question for CAIA: How may we solve this problem to best accommodate the PRA?
    - A: Per CAIA, we can make the recommendation since we are following the spirit of PRA - reduce burden time on user.
    - (Lois can help us find the contact in legal - this would go through General Council).
    - Can we give 2 control numbers on the intro page if we consolidate?
-   - expiring forms - need to go through form owner (Laura to provide us more info)
+   - expiring forms - need to go through form owner (Laura to provide us more info/point us to slack)
   - additional recommendation for 10-7959c: allow for multiple applicants (improve user experience but handle as separate applications on back end).
 
 ### Miscellaneous
