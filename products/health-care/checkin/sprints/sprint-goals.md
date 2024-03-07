@@ -29,8 +29,8 @@ ________________________________________________________________________________
     - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Support Travel for CERNER Sites**  
-        - ❗ 🟩 [[FE][BUG] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
-        - ❗ 🟩 [[FE][BUG] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
+        - ❗ 🟩 [[FE] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
+        - ❗ 🟩 [[FE] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
@@ -100,7 +100,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
         - ❗ 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
         - ❗ 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
-        - ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
+        - ✔️ ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
@@ -111,7 +111,7 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
 - **GOAL: Discovery**
     - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
-    - 🟥 [[UX] [Design] CCreate Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
+    - 🟥 [[UX] [Design] Create Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
     - 🟦 [[BE] Handle Faraday::TimeoutError Exception TravelClaimSubmissionWorker ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77678)
     - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
