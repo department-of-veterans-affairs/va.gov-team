@@ -1,5 +1,5 @@
 # DRAFT VA Mobile App: Personalized Home Screen Evaluative Research Plan
-February 2024
+March 2024
 
 
 ## Background
@@ -34,14 +34,15 @@ Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc
 **Primary:** 
 * Understand if/how the personalized home screen design impacts participant **comprehension of what the VA mobile app can do** (in general, and for them specifically). ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
 * Understand if/how the personalized home screen design impacts participant **perception of the app’s current and future value**. ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
-
-**Secondary:**
 * **Evaluate the usability of the personalized home screen and category screens** using high-level tasks that the participants will be asked to complete and **determine if any significant usability barriers (including app performance) exist** for participants who use the app with assistive technology vs without assistive technology. 
   * Tasks explore features that appear within the Activities section, About you, and VA resources. This includes:
     * How they’d expect to check the status of a disability claim
     * Find a VA location
-    * Show proof of Veteran status
-	
+    * Show proof of Veteran status  
+
+**Secondary:**
+  * Pilot conducting remote, evaluative research using a live, pre-release build of the app on participants’ mobile devices (including with screenreader users), and improve the instructions and process for that in preparation for future usability studies.
+ 
 **Outside the scope of this study:**
 We will not be evaluating the personalized home screen’s impact on task completion (that will be handled using analytics), the impact on the value of the app to users over time, the usability of features that are surfaced on the home screen, or the personalized home screen’s impact on 
 
@@ -94,9 +95,9 @@ Remote sessions via Zoom
 
 
 #### Research materials
-* Conversation guide
-* Pre-release build of the VA mobile app, distributed via Firebase link
-* Research session sign up sheet
+* [Conversation guide]()
+* [Pre-release build of the VA mobile app, distributed via Firebase link]
+* [Research session sign up sheet]()
 	
 ## Recruitment	
 
@@ -176,17 +177,17 @@ Response options, checkbox list with text box:
 ## Timeline
 
 ### Prepare
-- We would like to request a 15 minute kick-off call with Perigean: before recruiting begins.
-
+* **We would like to request a 15 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-- TBD
-- TBD
-**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready in late March).
-- Pilot participant email: TBD
-- Date and time of pilot session: TBD
+  * TBD
+  * TBD
+
+**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD**).
+- Pilot participant email: **TBD**
+- Date and time of pilot session: **TBD**
 
 ### Research sessions
-* Planned dates of research TBD
+* Planned dates of research: **TBD** (depends on readiness of build from ENG)
 
 ### Length of sessions
 * Sessions will be 45 minutes in length for non-screenreader participants, 60 minutes for screenreader participants.
