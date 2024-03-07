@@ -1,6 +1,6 @@
 # List of contact options
 
-Last updated by @beckyphung: March 6, 2024 
+Last updated by @beckyphung: March 7, 2024 
 
 March 2024 Update: We're reconfirming if business lines agree to removing US mail as an option. We've started tracking responses below.
 
@@ -22,7 +22,7 @@ This list is alphabetized by category name.
 |`Benefits issues outside the U.S.`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|
 |`Burials and memorials`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|Email, phone and US Mail are always `ENABLED`|
 |`Center for Minority Veterans`|Email, phone and US Mail are always `ENABLED`|Email, phone and US Mail are always `ENABLED`|
-|`Center for Women Veterans`|...|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Center for Women Veterans`|Email and US mail are always `ENABLED`, phone is always `DISABLED`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Debt for benefit overpayments and copay bills`|Varies by topic (see [contact rules by topic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#contact-rules-by-topic))|Email, phone and US Mail are always `ENABLED`|
 |`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|Email, phone and US Mail are always `ENABLED`|
 |`DEERS (Defense Enrollment Eligibility Reporting System)`|...|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
@@ -72,7 +72,7 @@ This list is alphabetized by category name.
 |`Burials and memorials`|Memorial items|✅|✅|✖️|
 |`Burials and memorials`|Other|✅|✅|✖️|
 |`Center for Minority Veterans`|Programs and policies|✅|✅|✅|
-|`Center for Women Veterans`|Programs and policies|✅|✖️|✖️|
+|`Center for Women Veterans`|Programs and policies|✅|✖️|✅|
 |`Center for Women Veterans`|General question|✅|✖️|✖️|
 |`Debt for benefit overpayments and copay bills`|School Certifying Officials (SCOs) or other school officials|✅|✅|✖️|
 |`Debt for benefit overpayments and copay bills`|Cemetery debt|✅|✅|✖️|
