@@ -8,4 +8,4 @@
 |4|NEW|10-7959c|The new launch of the digital 1010D form ChampVA enrollment and OHI form are going to come in within the same workflow (unless applicants choose to mail in their cards/ 7959c form). If we plan to pull out the 7959c info from the 1010d to keep it separate, how would that work on the backend now having this info coming in at two separate times? Will that add to the admin side of things? (How does that effect the existing process?)||||
 |5|NEW|10-7959c|Can we have multiple applicants on the same form submission?|||improve front end, same output on back end (separate PDFs per applicant)||||
 
-Recommendation: Consolidate 10-10d and 10-7959c forms. Build a standalone form to capture coverage/address updates.
+Recommendation: Consolidate 10-10d and 10-7959c forms. Build a standalone form to capture coverage/address updates. Next steps: talk to CAIA to determine how to handle.
