@@ -30,8 +30,9 @@ General info, notes and miscellaneous
   - (dev will begin in spring 2024 and plan to complete in spring 2025)
   - VHA version of VBMS
 - VIS: Veteran Information System (VBA system)
-- VISTA: Veterans Health Information Systems and Technology Architecture (VISTA)
   - instance of CP&E (where eligibility info is stored, service connected conditions)
+- VISTA: Veterans Health Information Systems and Technology Architecture (VISTA)
+ 
 
  
 ### Key Decisions/Findings
