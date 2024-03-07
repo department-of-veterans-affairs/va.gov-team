@@ -45,7 +45,7 @@ Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc
   * Pilot conducting remote, evaluative research using a live, pre-release build of the app on participants’ mobile devices (including with screenreader users), and improve the instructions and process for that in preparation for future usability studies.
  
 **Outside the scope of this study:**
-We will not be evaluating the personalized home screen’s impact on task completion (that will be handled using analytics), the impact on the value of the app to users over time, the usability of features that are surfaced on the home screen, or the personalized home screen’s impact on 
+We will not be evaluating the personalized home screen’s impact on task completion (that will be handled using analytics), the impact on the value of the app to users over time, the usability of features that are surfaced on the home screen, or the personalized home screen’s impact on Veteran satisfaction with the amount (time & tasks) they are completing in the VA mobile app.
 
 
 ### Outcome
