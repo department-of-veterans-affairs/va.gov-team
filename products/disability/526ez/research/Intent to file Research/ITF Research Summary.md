@@ -161,6 +161,7 @@ Open Questions
 - The intent to file expires exactly one year after creation—down to the second. This causes confusion when a change in the Veteran’s timezone might result in the expiration falling on a different date entirely. 
    - We partially address this pain point by adjusting the intent to file messaging to include the exact expiration time with timezone ([see discovery ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63748)). 
    - We did some exploration around other possible solutions, such as rounding the expiration time to the nearest day to ensure every Veteran would have at least a year, regardless of time zone. This turned out to be more complex than expected, so was paused in lieu of other priorities. ([See alternative solutions ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/62296)).
+- When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 - We learned from VBA that Veterans who call in or submit a paper intent to file receive a batch letter in the mail regarding their intent to file.  No other reminders are provided. The “batch letter” informs the Veteran that the VA received the intent to file, and includes the time requirements and forms required to complete the application. Batch letters are automated letters VBA creates and mails without human interaction.
    - We’re unsure if batch letters include the exact time or just the date.
 - The Benefit Management Tools team has in their [backlog](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/49151) to add an intent to file "object" into the Claim Status Tool as a placeholder after the Veteran submits an intent to file but before they finish the claim, which doesn’t exist today. This could be another way for Veterans to track their intent to file expiration date.
@@ -180,7 +181,6 @@ Open Questions
 
 > - Does the intent to file timeline need to be consistent across business lines, given that the law specifies on year?
 > - How many Veterans whose intent to file expires come back and complete their claims, vs how many believe that they can no longer submit their claim after the “deadline”?
-> - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 
 Recommendations
 
