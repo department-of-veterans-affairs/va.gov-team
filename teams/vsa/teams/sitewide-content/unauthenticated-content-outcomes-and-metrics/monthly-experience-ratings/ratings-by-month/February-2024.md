@@ -57,6 +57,11 @@ All pages have ratings of 2 or below.
 5. [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (96% good out of 213 total responses)
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1.    
+1. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (36% good out of 262 total responses)
+2. [Privacy and security on VA.gov](www.va.gov/resources/privacy-and-security-on-vagov/) (47% good out of 163 total responses)
+3. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/TOTAL) (17% good out of 134 total responses)
+4. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (43% out of 101 total responses)
+5. [VA debt management](www.va.gov/resources/va-debt-management/) (41% out of 80 total responses)
+
 ## Analysis
 
