@@ -2,7 +2,7 @@
 
 ### Focus of the audit
 
-
+The audit included reviews of of the following aspects for every page included in the left nav of the 9 core Veteran benefit hubs.  
 - URL accuracy, consistency, and compliance to standards
 - Link labels in the top nav, left nav, hub page for consistency and accuracy
 - Breadcrumb accuracy
