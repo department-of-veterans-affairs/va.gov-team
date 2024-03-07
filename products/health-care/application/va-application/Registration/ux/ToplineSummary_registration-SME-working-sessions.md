@@ -81,14 +81,15 @@ This topline summary is a high level, top of mind summary of trends found in the
 > "Yes; they can be referred directly to mental health care but still need to see a case manager (PCP). In that appointment they will be assigned to a specialty care group based on their needs."
 
 
-**Finding #3 - Communication and information surfaced. Strategic marketing is important**
+**Finding #3 - Strategic and consistent marketing is important all the time - not just for large benefit expansions like PACT Act**
 
-- Community news, social media, TV news, billboards, radio...we have to put our information out there
-- More consistent communication - not just in big events like PACT Act
+- Consistent communication across various mediums - Community news, social media, TV news, billboards, radio, etc. - is vital, and not just for big events like PACT Act
+- Veterans get varying information from VA's marketing messages as well as what they hear through word-of-mouth and this causes confusion when they are seeking care
 
->  Stagetic marketing; they’ll get their information from friends, family, and neighbor. If we put reading material out there, they can come in with accurate information instead of hearsay.
+>  " We need more strategic marketing. They'll get their information from friends, family, and neighbors too. If we put reading materials out there, they can come in with accurate information instead of hearsay."
+
 **Staff pain points**
-- Making sure they have all materials with them when registering can be tough; makes 30-45 minutes to complete over the phone
+- Making sure Veterans have all materials with them when registering can be tough; takes 30-45 minutes to complete over the phone
 - Reaching the Veteran is difficult - communicating, collaborating with other departments, finding homeless Veterans, etc.
 
 **Ideal State Notes**
