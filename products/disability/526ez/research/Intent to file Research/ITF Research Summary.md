@@ -151,7 +151,6 @@ Recommendations
 Open Questions
 
 > - We don’t know much about how VSOs interact with Veterans regarding their intent to file, in person or over the phone. Do they complete a paper form, or use SEP? How long does it take for this to get into the system, and what expiration date do they tell the Veteran?
-> - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 > - We’re also not sure how the endpoint checks for duplicates if a Veteran submits via multiple channels. As far as we know, if there are multiple intent to files, the earliest date will be used.
 
 ## The intent to file expiration is a concern for Veterans, and not well understood.
@@ -179,8 +178,9 @@ Open Questions
 
 Open Questions
 
-> - Is the intent to file timeline consistent across business lines? Do 527 and 534 claims also expire after one year?
+> - Does the intent to file timeline need to be consistent across business lines, given that the law specifies on year?
 > - How many Veterans whose intent to file expires come back and complete their claims, vs how many believe that they can no longer submit their claim after the “deadline”?
+> - When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 
 Recommendations
 
