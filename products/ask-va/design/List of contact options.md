@@ -2,15 +2,21 @@
 
 Last updated by @beckyphung: March 7, 2024 
 
-**March 2024 Update**: We're reconfirming if business lines agree to removing US mail as an option. We've started tracking responses below.
+**March 2024 Update**: We've recommended that US mail be removed. We're confirming with business lines and are tracking responses in this document.
 
 **December 2023 Update**: This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)).
 
 Jump to:
-- [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
 - [How this pattern works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#how-this-patterns-works)
+- [When to enable or disable contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md#when-to-enable-or-disable-contact-options)
 - [March 2024 Contact rules by topic](#march-2024-contact-rules-by-topic)
 - [December 2023 Contact rules by topic](#december-2023-contact-rules-by-topic)
+
+## How this pattern works
+
+When a submitter can choose between ≥ 2 contact options, we include a question that asks for their contact preference. When a submitter only has one option for how to be contacted (because of business line rules), we don't ask for their contact preference.
+
+In all scenarios, the confirmation page lets a submitter know how they will be contacted. 
 
 ## When to enable or disable contact options
 
@@ -39,19 +45,8 @@ This list is alphabetized by category name.
 |`Veteran ID Card (VIC)`|...|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Veteran Readiness and Employment`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|Email, phone and US Mail are always `ENABLED`|
 
-## How this pattern works
-
-When a submitter can choose between ≥ 2 contact options, we need to include a question that captures their contact preference. Here's an example from [Ask VA - Sketch - Health care](https://sketch.com/s/6a75d0a2-e484-4f1e-8675-ad5747a1a871). You can also reference this [pattern in the VA.gov design system](https://design.va.gov/patterns/ask-users-for/contact-preferences).
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Contact-preference.png)
-
-When a submitter cannot choose between ≥ 2 contact options, for example, only email is `ENABLED`, this question is omitted from the form.
-
-In all cases, the submission page should let a submitter know how they can expect to be contacted. Here's an example from [Ask VA - Sketch - Education](https://sketch.com/s/7e494761-be10-4aef-a268-a45a02fbc5c3).
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Submission-response-email.png)
-
 ## March 2024 Contact rules by topic
+
 Note: We are still confirming new rules with business lines.
 
 **Important:** Subtopics are not listed here, because they follow the same contact rules as their parent topic.
