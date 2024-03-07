@@ -59,8 +59,19 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
   
 ![Screenshot 2023-03-01 at 6 40 51 PM](https://user-images.githubusercontent.com/122128479/222300205-91cd8fcc-f0cb-4f5d-b4ea-81476e2da0d8.png)
 
+3. [How to apply for an adapted housing grant](https://www.va.gov/housing-assistance/disability-housing-grants/how-to-apply/) - Modify
+  - Placement description: Replace link label text so that it refers to the online application rather to eBenefits
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
+  - Notes: eBenefits is being sunset in June 2024
+ 
+4. [Disability housing grants for Veterans](https://www.va.gov/housing-assistance/disability-housing-grants/) - Modify
+  - Placement description: Replace link label text so that it refers to the online application rather to eBenefits
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
+  - Notes:
 
-3. Housing assistance left nav - Add
+5. Housing assistance left nav - Add
   - Placement description: Under 'Housing grants' as the 2nd option
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
@@ -68,7 +79,7 @@ www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech
  <img width="446" alt="Screenshot 2023-03-01 at 2 52 40 PM" src="https://user-images.githubusercontent.com/122128479/222262424-d2ed2ba0-4b82-4d62-9e59-c1dc83481e7e.png">
 
  
-4. Housing assistance top nav fly out - Add
+6. Housing assistance top nav fly out - Add
   - Placement description: Under 'Get Veterans housing grants' column as the 4th option (bottom)
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555
