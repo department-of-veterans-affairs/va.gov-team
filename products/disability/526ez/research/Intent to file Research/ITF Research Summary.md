@@ -1,4 +1,4 @@
-# Intent to file Research Summary 
+# Intent to File Research Summary 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Benefits and Claims Disability Experience Team 2 (aka team Carbs)**
 
