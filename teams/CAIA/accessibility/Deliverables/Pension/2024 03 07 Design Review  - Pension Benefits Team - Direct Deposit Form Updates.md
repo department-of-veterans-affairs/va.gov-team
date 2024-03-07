@@ -1,22 +1,22 @@
-`WIP`
+> [!CAUTION]
+> This is a work in progress and is not a final design review.
+> Start pending content updates to design, as it will influence the minimizing of conditionals. 
 
 # [Design Review a11y findings]: Pension Team - Pension Benefits Form: Direct Deposit Design Updates
-- **Prototype:**
-    - [Prototype - Figma Option 2](https://www.figma.com/file/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?type=design&node-id=2169-2603&mode=design&t=i2YY7nl3WZ91d3YR-4)
+- **Prototype:** [Figma Option 2](https://www.figma.com/file/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?type=design&node-id=2169-2603&mode=design&t=i2YY7nl3WZ91d3YR-4)
 - **Team Slack Channel:**[#benefits-pension](https://dsva.slack.com/archives/C05MS96P6P2)
 - **CAIA A11y Ticket:** [#77900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77900)
-- **Date of Audit:** `PENDING START - PENDING CONTENT UPDATES` This will influence the minimizing of conditionals.
-
+- **Date of Audit:** `PENDING START`
 
 ## Product team
 
 
 ## Auditor(s)
-- `Evan'
+- Evan
 
 ## Testing Coverage: 
  
-CAIA will review the prototype for accessibility issues and make recommendations to the Debt Resolution Team. 
+CAIA will review the prototype for accessibility issues and make recommendations to the Pension Team. 
  
 ## Prototype
  
