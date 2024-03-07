@@ -16,7 +16,7 @@ As a result of this request, we're adding duty status, military occupation speci
 
 ### Veteran Journey
 
-The research applies at any stage from Starting Up through Aging.
+The research applies at any stage from `Starting Up` through `Aging`.
 
 ---
 
