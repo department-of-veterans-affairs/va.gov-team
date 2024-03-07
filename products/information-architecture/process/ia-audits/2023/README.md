@@ -1,13 +1,14 @@
 # 2023 audit summary
 
 ### Focus of the audit
+
+
 - URL accuracy, consistency, and compliance to standards
 - Link labels in the top nav, left nav, hub page for consistency and accuracy
 - Breadcrumb accuracy
 - Hub page link inclusion and order
 - Left nav link inclusion and order
 
-## Audit results
 
 Hub | Pages audited | Pages needing corrections 
 --- | --- | ---
@@ -23,37 +24,54 @@ Records |  11 | 3
 **Total** | **394** | **160**
 
 
-## Findings
+## Top issues found
 
 1. Key navigation component links labels (i.e. breadcrumbs, left nav, top nav) have become out of sync with the H1s of pages
-    - Mismatch between H1 and breadcrumb segment - will require CMS change
-    - Link labels out of sync with H1
+    - Drupal currently matches the current page segment in the breadcrumb to link label used in the left nav, but the left nav is often a shortened version of the H1, which can ultimately reduce clarity in understanding where you are in the site.  A ticket has been submitted to the CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page.
+    - A few labels used in the top nav and left nav have become out of sync with the H1 of the corresponding landing page due to evolutions in content.  
 
 2. Benefit hub landing pages had missing, mismatched, or out of order links
-    - Links missing on hub page
-    - Order of links on hub page and left nav out of sync
+    - The links on the hub page within the spoke sections do not match the order of the links within the left nav.
+    - There were also a few instances where a link to a newer page was missing from either the hub page or left nav.
 
-3. Repetitive labels within nav components
-    - Extraerroneous instances of "VA" in titles and navigation components
-    - Inconsistent structure and crosslinking of historical rates pages
-    - Labels inconsistent within and across benefit hubs
+3. Repetitive words or inconsistent labels within navigation components
+    - In some instances, a label used for the name of a benefit or task was not consistent between the H1, the left nav, or a hub page link.  An example of this is when there are program abbreviations used or additional descriptors of a benefit or program (i.e. Chapter 31).
+    - Initial launch of the modernized pages on VA.gov focused heavily on SEO in order to quickly build search value and visibility.  That included using additional words or phrases to hit on key search terms. One example was the use of "VA" in titles, which was then repeated in navigation components.  
+    
+4. Inconsistencies where common patterns should be in place
+    - In some areas where there is a common pattern or set of pages, there was inconsistent organization or labeling.  Example of this include how we organized and crosslinked between historical rates pages, as well as how we label links into application pages/flows.
 
-4. Some URLs were not meeting standards
-    - URL became out of sync with H1s
-    - Older vets.gov URLs still haven't been modernized to meet standards
-
-5. Identified gaps in standards and guidance
-    - Usage of "On this page" component
-    - Use of form number in link labels and page titles
-    - Hub page guidance for link inclusion and order
-    - Use of "VA" in page titles
+5. Some URLs were not meeting standards
+    - We still have some pages and tools that were migrated from Vets.gov that do not have modernized URLs that meet our standards or reflect their accurate structure.
+    - Some page URLs have become slightly out of sync with the H1s of the page as the page has evolved.
 
 
-### Additional benefits
+## Standards and documention gaps identified
+
+- Usage of "On this page" component
+- Use of form number in link labels and page titles
+- Hub page guidance for link inclusion and order
+- Use of "VA" in page titles - when it is needed and when it is not
+- Labels used for application entry points (i.e. Apply now, Apply online, etc)
+- Guidance for determining labels for left nav
+
+
+## Recommendations and next steps
+
+1. Work with CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page.
+2. Refine CAIA processes to address navigation component and hub page updates when pages are launched, H1s are changed, or pages are archived.
+3. Establish rubric to define what links should appear on the hub page in each secton.
+4. Work with product teams that have incorrect URL structures on their forms or tools to get them updated to meet standards.
+5. Document new standards and guidance gaps identified.
+6. Make edits as indicated in each audit.
+
+
+## Additional benefits
 
 - Established proces and documentation
 - Learning/education on IA structure, standards in play, and working relationship between content and IA
 - Working in Drupal 
+
 
 
 
