@@ -334,11 +334,6 @@ P14 wanted VA to be a clearinghouse for all military information for similar rea
 I think the va.gov ought to be the clearinghouse for all the military information from all the different branches – the central location or clearinghouse for all of it. Because you have guys that did some time in the Army. Like my brother-in-law was in the National Guard and he went in the Marines. So he ought to be able to go to just one spot and see all of it.[It would be helpful] if for instance, if you need to look back and see a certain time where they were at. Well, [the mockup] doesn't have the dates on it though. I just still think so you're not chasing it over two or three different entities, you know, like in his case, he wouldn't need to go to the Army to look at the National Guard records and then go to the Marines and look at his Marine records. He'd just go to the VA and there they all are.
 
 
-
-
-
-
-
 ## Additional Insights
 
 P3, a subject matter expert on personnel data, shared misgivings about the project, stating that you can’t use VA data to file claims with the VA.
@@ -350,7 +345,6 @@ P3, a subject matter expert on personnel data, shared misgivings about the proje
 Way back when, when we actually put stuff into databases in the Navy, I was part of all of that. So we transferred data off microfilm, microfische and physically entered that in (it was before we had OCR, it was before we had recognition, before we had computers) – it was the big computers in the room. So you'd walk into a room and you'd take this thing and you'd make a copy, so to speak. And then the OCR would read that data. It was so completely early in the system that a `1` and an `l` were always the same. So you had people translating all of that and people manually fat fingering data in and people are fallible… I actually managed the contractors that did that data for the defunct personnel specialists and yeomen, et cetera.
 
 </details>
-
 
 >I've done my claims several times and had them reevaluated, and I would not trust the data set that I was looking at. So I can pull in my military service data with my blue button report and I've looked at those and they're not helpful to me because then I still would have to go verify them. So I can't take that data and rely on it from the VA. I've gotta go to the source. In my case, obviously I'm a bureaucrat. So I’ve got paper on paper on paper. So I was able to put that together rather easily. Most people are going to go back to wherever, St. Louis Records Center or something like that and get their CD, their DVD, their whatever they have. In my case, it was way back when, so I had microfiche. So all of that information has to come from either Army, Navy, Air Force, Marine Corps as opposed to any contractor or subcontractor or the VA for that matter. You can't take the VA data, use the VA data, then file with the VA. That doesn't work because you can't cite somebody to themselves. 
 >So even if it ***was*** a hundred percent accurate… That's only going to be accurate for one snapshot in time. It's going to be accurate for five minutes or one hour or one day or however long that update takes to refresh and repopulate with additional data with updated people that got out of the military today and the effort and energy behind that. You're replicating and duplicating effort for very little reward because you can't reliably know what that is. You can say, well, this is what we've got provided by the Navy. Well then why wouldn't I just go back to the Navy? Because why would I say, hey, the contractor gave me the data that's in my record. Well, where did they get it from? The Navy? Well, why didn't you go to the Navy?
@@ -413,84 +407,74 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-> [!CAUTION]
-> This needs updating:
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **16 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 16 
+* Caregivers: 0
+* Family members of a Veteran: 0  
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 8 
+* Female: 8 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: unknown/not asked
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 16 
+* Tablet: 0 
+* Smart phone: 0 
+* Assistive Technology: 0
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 2
+* 35-44: 4
+* 45-54: 4
+* 55-64: 1
+* 65+: 5
+* Unknown: 0
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 4
+* Master's degree: 4
+* Doctorate degree: 1
+* Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 5
+* Rural: 11
+* Unknown: 0
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 10
+* Black: 3
+* Hispanic: 4
+* Biracial: 0
+* Asian: 3
+* Native: 1
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: unknown
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: unknown
+* Sighted keyboard: 0
+* Captions: unknown
 
 ## Underserved groups we haven’t talked to 
-
-> [!CAUTION]
-> This needs updating:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
