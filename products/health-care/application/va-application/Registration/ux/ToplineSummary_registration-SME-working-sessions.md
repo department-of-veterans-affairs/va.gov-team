@@ -94,6 +94,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 **Ideal State Notes**
 
-> Listing of the provider with their specialty, provider, and even with rating. Having that knowledge of who is available and who isn’t
-> Stagetic marketing; they’ll get their information from friends, family, and neighbor. If we put reading material out there, they can come in with accurate information instead of hearsay. 
+> "It'd be great to have a listing of providers at each VA facility with their specialty and even with ratings. Having that knowledge of who is available and who isn’t would be ideal."
+- RJ noted that the marketing communications from VA aren't always consistent and Veterans also rely on hearsay so they often come in with inaccurate information about how VA health benefits work and what they qualify for
 
