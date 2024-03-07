@@ -32,7 +32,7 @@ General info, notes and miscellaneous
 - VIS: Veteran Information System (VBA system)
   - instance of CP&E (where eligibility info is stored, service connected conditions)
 - VISTA: Veterans Health Information Systems and Technology Architecture (VISTA)
-  - legacy system that will be replaced by VES
+
  
 
  
