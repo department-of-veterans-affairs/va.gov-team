@@ -2,7 +2,7 @@
 
 In which we explain each step along the way when a user submits a request to the VA Identity Team.
 
-NOTE Steps #2 & #3 will not be in the MVP
+NOTE: Steps #2 & #3 will not be in the MVP
 
 ## 1. Slackbot Invoked By User
 Someone (lets call them the Requestor) goes into the #VSP-Identity Slack channel and invokes our slackbot by typing _/help_
