@@ -91,7 +91,7 @@ Measuring the success of the Request & Support process project will be part of t
 
 That said, some initial thoughts on what that project might entail.
 | KPI           | Notes         | 
-| ------------- |:-------------:| 
+| ------------- |:-------------| 
 | Number of requests | On a monthly basis, we track how many requests were fulfilled via the Request & Support | 
 | Percentage of requests | On a monthly basis, we track the percentage of requests that were fulfilled via the Request & Support tracker |
 | Customer Satisfaction | Create a customer satisfaction survey
