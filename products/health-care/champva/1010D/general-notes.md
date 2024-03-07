@@ -42,7 +42,7 @@ General info, notes and miscellaneous
 - 3/7/24 - **10-7959c Recommendation**: To avoid redundancy, confusion and overlapping information during CHAMPVA enrollment (with OHI) we should consolidate 1010D and 7959c. We will still have a standalone 7959c form to capture any coverage/ address updates.
    - Question for CAIA: How may we solve this problem to best accommodate the PRA?
    - A: Per CAIA, we can make the recommendation since we are following the spirit of PRA - reduce burden time on user.
-   - (Lois can help us find the contact in legal - this would go through General Council).
+   - (Lois can help us find the contact in legal - this would go through General Council review).
    - Can we give 2 control numbers on the intro page if we consolidate?
    - expiring forms - need to go through form owner (Laura to provide us more info/point us to slack)
   - additional recommendation for 10-7959c: allow for multiple applicants (improve user experience but handle as separate applications on back end).
