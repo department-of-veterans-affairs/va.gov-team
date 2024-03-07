@@ -24,7 +24,9 @@ The research applies at any stage from Starting Up through Aging.
 
 **Goal 1**: Gain a better understanding of veteran mental models regarding their service occupations in order to inform how we present military information data, depending on data completeness and quality.
 
-**Goal 2**: Gather feedback on our team’s proposed design mock-up for enhancing a veteran’s military information section with the data available to us currently (duty status, dates, and military occupation specialties).
+**Goal 2**: Review data pulled from VADIR with veterans to get a sense of accuracy, completeness, and utility.
+
+**Goal 3**: Gather feedback on our team’s proposed design mock-up for enhancing a veteran’s military information section with the data available to us currently (duty status, dates, and military occupation specialties).
 
 ### Outcome
 
