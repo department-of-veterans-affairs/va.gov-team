@@ -2,7 +2,7 @@
 
 Last updated by @tygindraux: March 7, 2024 
 
-**March 2024 Update**: We've recommended that US mail be removed. We're confirming with business lines and are tracking responses in this document.
+**Update**: We've recommended that US mail be removed. We're currently confirming with business lines and tracking responses in this document.
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
