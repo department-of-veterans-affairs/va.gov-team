@@ -28,12 +28,14 @@ _What details are necessary for understanding the specific work or request track
 
 
 ## Acceptance Criteria
+```[tasklist]
 - [ ] _What will be created or happen as a result of this story? Examples:_
 - [ ] Updated content is live on the site
 - [ ] Product has launched
 - [ ] Feedback has been shared with stakeholders
 
 ## How to configure this issue
+```[tasklist]
 - [ ] **Attach to an Epic** (what body of work is this a part of?)
 - [ ] **Label with Originator/Team** (product team or stakeholder requesting support)
 - [ ] **Labeled with Open Date**
