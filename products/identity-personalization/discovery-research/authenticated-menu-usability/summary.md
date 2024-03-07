@@ -6,7 +6,7 @@ Liz Lantz, Authenticated Experience
 ## Background
 VA.gov is piloting a new design for a standard header later this year, which includes a significant change to the placement of the authenticated menu on mobile: instead of the authenticated menu labeled with the user's name appearing in the upper-right corner of the screen, **it will now be nested under a general “Menu” button which reveals the complete site navigation**. 
 
-The Sitewide team, who is managing the new design, conducted research in parallel on the unauthenticated version of this menu, and our research fulfilled Phase 3 of their work.
+The Sitewide team, who is managing the new design, conducted research in parallel on the unauthenticated version of this menu ([research findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/research-findings-phases1%262.md)), and our research fulfilled Phase 3 of their work.  
 
 This new design coincided with continued expansion work our team planned for this menu. Last year, we observed high engagement with two links we added: Letters and Dependents. We wanted to explore how we could further increase engagement and improve Veteran’s access to their most important tasks.
 
@@ -223,3 +223,4 @@ It’s worth considering adding a site wide min-height to the website if we see 
   - [Protocol 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/conversation-guide-revised-removed-task.md) (revised to eliminate letters task for final participants, since we would talk about letters during prioritization)
 - [Prototype](https://codepen.io/team/VA-gov-Applications/pen/gOEWmPo)
 - [Enjoy HQ analysis](https://app.enjoyhq.com/sh/pj/65e08928-11a9-40c9-bb7e-59611cd83574)
+- Sitewide team phase 2 ([research findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/research-findings-phases1%262.md))
