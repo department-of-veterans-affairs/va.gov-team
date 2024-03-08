@@ -383,9 +383,9 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-[Recruitment Tracker](https://docs.google.com/spreadsheets/d/1Jy6zH_0JVRhNRxTJfvdjOgpZPgKFoS8RIeASEhpamB4/edit#gid=1116550612)
+[Recruitment Tracker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+<img width="751" alt="Screenshot 2024-03-08 at 12 11 13 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79866060/3c7563d6-6b1d-477a-9d3a-2ff7ece7aa29">
 
-<img width="926" alt="Screen Shot 2022-10-13 at 1 19 49 PM" src="https://user-images.githubusercontent.com/92750161/195702178-6526d295-4d2a-44d5-9a4e-c6b4d5340772.png">
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
