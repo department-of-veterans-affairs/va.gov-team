@@ -47,6 +47,7 @@ N/A (as of this writing)
 
 ## Assumptions:
 * That a series of spikes will be created for the engineering team to investigate the questions surrounding service degradation and our response to said service degradation.
+* That we may have other SLO that we need to create as we do the initial series of spike.
 
 ## Solution Approach: 
 * The team uses the spikes to determine the proper course of action when an endpoint becomes unavailable. (Probably all P1, but let's make sure.)
@@ -55,7 +56,7 @@ N/A (as of this writing)
 * We come up the SLO language.
 * We create a monitoring plan.
 * We come up with a publishing schedule.
-  * How did we do against each SLO
+  * How did we do against each SLO in the previous quarter?
 
   
 ## Technical Considerations:
