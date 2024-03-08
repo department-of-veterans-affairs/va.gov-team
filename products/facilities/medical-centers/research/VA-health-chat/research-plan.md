@@ -70,30 +70,27 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
   - I'm the family member or caregiver of a Veteran
 
 **Tasks**
-*Cohorts 1-3 (Veterans)*
-1. You want to use chat to make a healthcare appointment at a VA medical center.
+*Cohorts 1-4 (Veterans; Veteran's spouses and dependents)*
+1. You want to make a healthcare appointment at a VA medical center using online chat.
 1. You want to call someone to make a healthcare appointment at a VA medical center.
-1. You'd like to refill a prescription by phone.
-1. You'd like to refill a prescription via chat.
-1. You'd like to talk to someone who can help with a non-urgent health question.
-1. You'd like to talk to someone on your health care team about a non-urgent health question. 
-1. You want to talk to a doctor by phone or video about a health problem.
+1. You'd like to call someone to refill a prescription.
+1. You'd like to use online chat to refill a prescription.
+1. You'd like to ask a nurse a question about a health concern.
+1. You'd like to ask someone on your health care team about a health concern. 
+1. You want to schedule a phone or video call with a doctor.
 1.
 1.
 1.
 
+*Cohorts 4-6 (Caregivers)*
+1. You want to make a healthcare appointment at a VA medical center using online chat.
+1. You want to call someone to make a healthcare appointment at a VA medical center.
+1. You'd like to call someone to refill a prescription.
+1. You'd like to use online chat to refill a prescription.
+1. You'd like to ask a nurse a question about a health concern.
+1. You'd like to ask someone on your health care team about a health concern. 
+1. You want to schedule a phone or video call with a doctor.
 
-*Cohorts 4-6 (Family members and caregivers)*
-1. You want to use chat to make a healthcare appointment for yourself or a Veteran you care for at a VA medical center.
-1. You want to call someone to make a healthcare appointment for yourself or a Veteran you care for at a VA medical center.
-1. You want to refill a prescription for yourself or a Veteran you care for by phone.
-1. You want to refill a prescription for yourself or a Veteran you care for via chat.
-1. You want to talk to someone who can help with a non-urgent health question.
-1. You want to talk to someone on your (or the Veteran you care for's) health care team about a non-urgent health question. 
-1. You want to talk to a doctor by phone or video about a health problem.
-1.
-1.
-1.
 
 ## Recruitment	
 
@@ -108,7 +105,8 @@ Will recruit 6 cohorts of 9 for a total of 54 recruits.  The goal will be to rea
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 - Veterans
-- Veteran family member or caregiver - spouse, dependent, parent, family caregiver, non-family caregiver
+- Veterans' spouses and dependents
+- Veterans' caregivers 
 
 **Secondary criteria (good-to-haves)**
 
@@ -116,12 +114,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 - 
 
 ### Proposed cohorts
-- Cohort 1 - Veteran + has visited a VA health care facility in the past 12 months + Female
-- Cohort 2 - Veteran + has NOT visited a VA health care facility in the past 12 months + Female
-- Cohort 3 - Veteran + Male
-- Cohort 4 - Caregiver or Family member + has visited a VA health care facility in the past 12 months + Female
-- Cohort 5 - Caregiver or Family member + has not visited a VA health care facility in the past 12 months + Female
-- Cohort 6 - Caregiver or Family member + Male
+- Cohort 1 - Veteran + Female
+- Cohort 2 - Veteran + Male
+- Cohort 3 - Spouse or dependent of a Veteran + Female
+- Cohort 4 - Spouse or dependent of a Veteran + Male
+- Cohort 5 - Caregiver of a Veteran + Female
+- Cohort 6 - Caregiver of a Veteran + Male
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
@@ -141,7 +139,7 @@ We will finalize key tasks and test set up on Optimal Workshop by March 26, 2023
 
 ## Team Roles	
 - Research lead: Alexis Logsdon
-- OCTO project leads: Amanda Klausmeier
+- OCTO project lead: Amanda Klausmeier
 - Research support: TBD
 	
 ## Appendix A:  Tasks
