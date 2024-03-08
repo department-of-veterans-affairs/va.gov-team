@@ -165,7 +165,7 @@ Let’s start with a few questions...
 1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
 
 1. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
-    - *(If **Dophin** screen reader, won't be able to share screen on Zoom)*
+    - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
     - *(if no AT)* Do you sometimes use assistive technology? 
       - If so, what do you use and when? 
         - Would you be willing to start using it now in this session? 
@@ -192,7 +192,7 @@ Let’s start with a few questions...
 Now I'm going to ask you to do some things... 
 
 ### Screen sharing
-*(If **Dophin** screen reader, won't be able to share screen on Zoom, so will need to open the prototype and listen to them and their screen reader while they navigate. Ask them to talk aloud about what's going on.)*
+*(If **Dolphin** screen reader, won't be able to share screen on Zoom, so will need to open the prototype and listen to them and their screen reader while they navigate. Ask them to talk aloud about what's going on.)*
 
 *(If we can't hear the screen reader)* Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
