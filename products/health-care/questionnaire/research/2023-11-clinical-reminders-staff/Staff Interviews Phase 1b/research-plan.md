@@ -19,7 +19,16 @@ Before we start, I want to mention a couple things:
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We just use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly. If we want to quote you directly, we take away any identifying information. Knowing that, are you comfortable if I record my screen and audio as we talk today?
 
-## Questions for Providers (including Nursing Staff)
+## Questions for Providers (including Nursing Staff) using tool from phase 1a . 
+
+- Were you directly involved in the Clinical Reminders Pilot? How so and to what extent?
+- What tool did screening tool did you use during the first phase of this pilot? Was is eScreening or BHL?
+- What was your overall experience using that tool.
+    - Do you recall what you liked about it?
+    - What didn't you like about that tool?
+    - how did your training on this tool differ from the last? Was it different or similar? How so?
+    - Which training process do you prefer, and why?
+
 
 ### Learning the tool - 7 minutes 
 - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to learn how to use [BHL or eScreening]?
@@ -27,6 +36,8 @@ Before we start, I want to mention a couple things:
 - Can you describe your onboarding process?
 - Can you summarize the training that was provided to you?
 - If you could change one thing about onboarding or the training that you received, what would it be?
+- How did this onboarding process differ from the last tool's onbarding?
+
 
 ### Utilizing the tool - 15 minutes
 - Can you walk me through your final process for sending, receiving, and reviewing these questionnaires?
