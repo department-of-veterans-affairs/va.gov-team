@@ -8,11 +8,11 @@
 **On this page:**
 - [User/page flows](#flows)
 - Page structure
-- [URLs and breadcrumbs](#url)
+- URLs and breadcrumbs
 - [Entry points](#nav)
 - Redirects
 - Best Bets
-- [Staged Rollout](#stagedrollout)
+- Staged Rollout
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -26,7 +26,6 @@ No changes to where the page lives
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -53,9 +52,6 @@ No changes to where the page lives
 
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
-
-**[Which static page has the widget, ie the main entry point?]**
 
 
 
