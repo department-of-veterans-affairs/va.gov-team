@@ -59,9 +59,6 @@ The Veterans Affairs/Department of Defense Identity Repository (VADIR) database 
 
 ## Hypotheses and Conclusions
 
-> [!tip]
-> The section below has been updated:
-
 - We will observe similarities and differences between branches, lengths of service, and rank. ***Maybe True:*** This is hard to say, we collected a large amount of data and feedback from veterans, but it is no where near representative of the population across branches.
 - We will gain insight into veteran mental models around organizing information. ***Definitely True:*** We learned that most of the veterans we talked to tended to think about where they were vs what they were doing when asked about their military history.
 - We will gather actionable feedback for making iterations on the design mock-up. ***Definitely True:*** We received a great amount of feedback about what is missing, what could be added, and how a veteran might go about correcting incomplete or inaccurate data.
@@ -183,7 +180,6 @@ Another veteran (P12: Army) also had inaccurate data around their separation as 
 
 #### FINDING 4 
 Regarding `militaryOccupations`: `occupationTypeText` (duty/primary/secondary) wasn’t something most veterans found particularly useful. DoD occupation text coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
-
 
 <details>
 
@@ -376,9 +372,6 @@ Way back when, when we actually put stuff into databases in the Navy, I was part
 
 ## Recommendations
 
-> [!tip]
-> The section below has been updated:
-
 - Recommendation 1: Consider incorporating `periodOfServiceTypeText` (active/reserves/etc.) into veteran profiles. 
 	- All participants reported seeing accurate data, and there seemed to be genuine appreciation in the specificity of service types. 
 	- If incorporating service type, investigate data around the natural guard.
@@ -397,18 +390,12 @@ Way back when, when we actually put stuff into databases in the Navy, I was part
 
 ## Further research needed
 
-> [!tip]
-> The section below has been updated:
-
 - Consider investigating why  `periodOfServiceBeginDate` and `periodOfServiceEndDate` dates are sometimes off by a few days or months. 
 	- This information may still be useful as it was accurate for 10/15 participants.
 - Consider continuing to monitor `deployments` and `deploymentLocations` to see if coverage improves.
 - Consider investigating duty station location data, since locations were the organizing principle for 7 out of 9 participants.
 
 ## Next Steps
-
-> [!tip]
-> The section below has been updated:
 
 Discuss, as a team, which finding (if any) to incorporate into the profile. Determine what further research is worth doing at this time.
 
@@ -506,6 +493,9 @@ Disability and Assistive Technology (AT):
 * Captions: unknown
 
 ## Underserved groups we haven’t talked to 
+
+> [!tip]
+> The section needs updating:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
