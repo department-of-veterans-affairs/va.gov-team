@@ -1,4 +1,7 @@
-I found links to my onboarding tickets for VA.gov stuff, which might be an interesting comparison.  I was also thinking my kid's kindergarden onboarding/orientation materials might be helpful too? If I can find any of those i'll try to add pictures later :). Haven't run into any other kinda relevant onboarding situations irl yet, other than maybe some video game tutorials... I'll jot notes or links here if I stumble across anythinng else!
+Haven't run into many relevant digital onboarding situations irl yet (or if i have i might have skipped them), other than maybe some video game tutorials... I'll jot notes or links here if I stumble across anything else!
+
+So far, these are mostly low-tech onboarding things that sparked a reminder for myself to contribute here.
 
 - VA.gov onboarding ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/68479
 - MyVA Team onboarding ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/68605
+- [Edison Kindergarten Family Handbook 2023-24.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14543439/Edison.Kindergarten.Family.Handbook.2023-24.pdf)
