@@ -78,7 +78,7 @@ OptimalSort will be used for an open card sort to ensure our labeling structure 
 
   
 ### Location
-All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Figma-based prototype. Participants may be asked to share their screen.
+The tests will be conducted online at the participants leisure. Chalkmark users will review a Figma-based prototype. Participants may be asked to share their screen.
 
 ### Research materials
 - [Link to OptimalSort outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/card-sort.md)
@@ -87,7 +87,7 @@ All interviews will be conducted online on mobile or desktop devices via Zoom. U
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this study is Veterans who are currently utilizing the following programs or will be in the future,:
+Our intended audience for this study is Veterans who are currently utilizing the following programs or will be in the future:
 - MGIB-Active Duty (Chapter 30)
 - MGIB Selected Reserve (Chapter 1606)
 - Reserve Educational Assistance Program (REAP, Chapter 1607)
@@ -100,10 +100,11 @@ We will use Perigean to recruit participants. As such, we’d like to schedule a
 We will be utilizing a lean maximum variation strategy for our studies, if possible. 
 
 ### Recruitment criteria
-For unmoderated Chalkmark and OptimalSort tests, we would like 27 participants each, according to the following cohorts (in groups of 9, according to [PRA "Fewer than 10" rule](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)): 
-- Veterans on Active Duty (Chapter 30)
-- Veterans in Selected Reserve (Chapter 1606)
-- Veterans with active award (for any above program) with disabilities
+We would like 18 participants each for Chalkmark and OptimalSort (total of 36), according to the following cohorts (in groups of 9, according to [PRA "Fewer than 10" rule](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)): 
+- Chalkmark - Males currently on active duty
+- Chalkmark - Females currently on active duty
+- OptimalSort - Males _not_ currently on active duty
+- OptimalSort - Females _not_ currently on active duty
 
 **Primary criteria (must-haves)**
 Participants must have an active award for one of the following programs:
@@ -130,8 +131,8 @@ Please note that users of Post 9/11 GI Bill benefits are not eligible for this a
 - Veterans Retraining Assistance Program (VRAP) 
 
 ## Timeline
-- 03/02 - Recruitment and testing begins
-- 03/23 - Testing ends 
+- 03/11 - Recruitment and testing begins
+- 03/30 - Testing ends 
 	
 ## Team Roles		
 Ryan Gray (ryan.gray1@va.gov) will serve as primary researcher and project point of contact for this project. 
