@@ -89,18 +89,6 @@ We will use the findings to:
  
 
 ## Hypotheses and Conclusions
-- The new appointment list will be easy for Veterans with diverse technical abilities, ages, and disabilities to navigate and scan.
-  - TRUE: All participants were able to easily scan the new appointment list. 
-- The new appointment list will provide clear, valuable information to the veteran
-  - TRUE: All participants found the information provided in the new appointment list to be useful and pertinent. 
-- The new modality language and iconography will clearly indicate to Veterans where they will need to attend their appointments.
-  - FALSE: Several Veterans found the modality icon and language confusing.
-- The new details pages will provide clear, valuable information to the veteran
-  - TRUE: All participants found that the new details pages provided useful information. 
-- The new details pages will be easy for Veterans to navigate and scan.
-  - TRUE: All participants were able to navigate the new details pages with ease.
-- The back button (in place of the breadcrumb) will be easy for Veterans to locate and use.
-  - TRUE: Veterans found the back button easily and were able to navigate using it. 
 
 1. Cancelation:
    - Participants will be able to cancel their appointments easily.
