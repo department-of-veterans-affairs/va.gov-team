@@ -68,7 +68,8 @@ N/A (as of this writing)
 ## Assumptions:
 * In order to answer the various things to be determined (you know, all of those things with a "***TBD***") in the actual user stories, a series of spikes have created for the engineering team to investigate the questions surrounding service outages, what we consider service degradation and our responses to those.
   *  NOTE: The spikes are all linked to their associated User Stories (and vice versa).
-* That we may have other SLO that we need to create as we do the initial series of spike.
+* That we may have other SLO that we need to create as we do the initial series of spikes, and the engineering team has opinions on what to monitor.
+
 
 ## Solution Approach: 
 * The team uses the spikes to determine the proper course of action when an endpoint becomes unavailable. (Probably all P1, but let's make sure.)
