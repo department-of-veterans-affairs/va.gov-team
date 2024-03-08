@@ -2,11 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile: Military Information, Authenticated Experience Profile team**
 
-Date: 03/??/2024
+Date: 03/08/2024
 
-[Pam Drouin, Researcher/Designer](mailto:pamela.drouin@a1msolutions.com)
+Pam Drouin, Researcher/Designer | [email](mailto:pamela.drouin@a1msolutions.com)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+_If there’s a deck:_ [Research readout](link here)
 
 **Jump to:**
 
@@ -22,7 +22,9 @@ Currently within a veteran’s authenticated Profile, veterans can read minimal 
 
 **Goal 1**: Gain a better understanding of veteran mental models regarding their service occupations in order to inform how we present military information data, depending on data completeness and quality.
 
-**Goal 2**: Gather feedback on our team’s proposed design mock-up for enhancing a veteran’s military information section with the data available to us currently (duty status, dates, and military occupation specialties).
+**Goal 2**: Review data pulled from VADIR with veterans to get a sense of accuracy, completeness, and utility.
+
+**Goal 3**: Gather feedback on our team’s proposed design mock-up for enhancing a veteran’s military information section with the data available to us currently (duty status, dates, and military occupation specialties).
 
 The research applies at any stage from `Starting Up` through `Aging`.
 
@@ -35,7 +37,9 @@ The research applies at any stage from `Starting Up` through `Aging`.
 
 ## Methodology 
 
-This research study mixes the generative and evaluative methods of interviewing and concept testing.
+We recruited across all 6 branches with a variety of ages and service lengths to get a broad picture of peoples’ histories, military data, and mental models.
+
+This research study mixes the generative and evaluative methods of interviewing and concept testing in order to facilitate our goals.
 
 **Background questions**: The session started with some generative questions around veterans’ service history (with a specific focus on their occupations) and for what reasons they use their military history. 
 
@@ -55,51 +59,57 @@ The Veterans Affairs/Department of Defense Identity Repository (VADIR) database 
 
 ## Hypotheses and Conclusions
 
-> [!CAUTION]
-> This needs updating:
+> [!tip]
+> The section below has been updated:
 
-- We will observe similarities and differences between branches, lengths of service, and rank.
-- We will gain insight into veteran mental models around organizing information.
-- We will gather actionable feedback for making iterations on the design mock-up. 
-- We may hear feedback that the military information section is too long or has too much content.
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+- We will observe similarities and differences between branches, lengths of service, and rank. ***Maybe True:*** This is hard to say, we collected a large amount of data and feedback from veterans, but it is no where near representative of the population across branches.
+- We will gain insight into veteran mental models around organizing information. ***Definitely True:*** We learned that most of the veterans we talked to tended to think about where they were vs what they were doing when asked about their military history.
+- We will gather actionable feedback for making iterations on the design mock-up. ***Definitely True:*** We received a great amount of feedback about what is missing, what could be added, and how a veteran might go about correcting incomplete or inaccurate data.
+- We may hear feedback that the military information section is too long or has too much content. ***Likely True:*** 2 veterans commented on this, though they were in the minority.
 
 ## Key Findings
+
+*Research question: How have veterans used their MOS data?*
 
 1. FINDING ONE: Veterans use their records to acquire promotions while in service, use vocational training transition benefits, apply to jobs after separation, and gain medical/disability benefits. 
 
 2. FINDING TWO: MOS is helpful for correlating medical issues to service, but including location data is likely more helpful to veterans when providing context to health care providers and claims adjudicators.
 
-3. FINDING 3 for `service-episodes`: branches and service types (active/reserves/etc.) were the most reliably accurate data values according to participants. Period of service begin/dates were mostly accurate, but some were wrong by a few months or days. Character of discharge type data values were mostly accurate, expect for a few null values. Narrative reason for separation data values were mostly correct, except for 1 unavailable value and 2 incorrect values according to participants.
+*Research question: How accurate and complete is the data pulled from VADIR?*
 
-4. FINDING 4 for `occupational-specialities`: occupation type (duty/primary/secondary) wasn’t something most veterans found particularly useful. DoD occupation text coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
+3. FINDING 3: Regarding `service-episodes`, `branchOfServiceText` and `periodOfServiceTypeText` (active/reserves/etc.) were the most reliably accurate data values according to participants. `periodOfServiceBeginDate` and `periodOfServiceEndDate` were mostly accurate, but some were wrong by a few months or days. `characterOfDischargeText`  values were mostly accurate, expect for a few null values. `narrativeReasonForSeparationText` were mostly correct, except for 1 unavailable value and 2 incorrect values according to participants.
 
-5. FINDING 5 for `deployments` and `deployment locations`: Dates and missing locations were the biggest issues that the 5/15 veterans saw in their deployment data. There appeared to be duplicate rows for deployments, dates that didn’t match up with participants’ recollections, and missing country data.
+4. FINDING 4: Regarding `militaryOccupations`, `occupationTypeText` (duty/primary/secondary) wasn’t something most veterans found particularly useful. `dodOccupationText` was inconsistent – some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what those values meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
 
-6. FINDING 6 for `academies`: Both available sets of data were accurate.
+5. FINDING 5: Regarding `deployments` and `deploymentLocations`, dates and missing locations were the biggest issues that the 5/15 veterans saw in their deployment data. There appeared to be duplicate rows for deployments, dates that didn’t match up with participants’ recollections, and missing country data.
 
-7. FINDING 7: When doing a mapping activity to help understand how veterans conceptualizing their military history, 7/9 participants thought of their location first, rather than what they were doing (MOS)
+6. FINDING 6: Both available sets of data were accurate for for `academies`.
 
-8. FINDING 8 : Veterans did find value in displaying `active duty` and `inactive reserves` in the Military Information profile section.
+*Research question: How do veterans conceptualize their service history?*
 
-9. FINDING 9 : veterans were mostly fine with `Military Occupational Specialties` as the section heading, however P5 expected to see a personalized heading (AFSC instead of MOS). P9 thought that “Job Title” was generic enough to work for everyone.
+7. FINDING 7: When doing a mapping activity to help understand how veterans conceptualizing their military history, 7/9 participants thought of their location first, rather than what they were doing (MOS).
 
-10. FINDING 10: Two veterans commented on the proof of veteran status card (without facilitator prompting), and both stated their affinity for the card.
+*Research question: How effective is the current design mock-up in displaying MOS?*
 
-11. FINDING 11: A handful of veterans had suggestions for additional information that might be included in user profiles: battlefield promotions and a link to a location finder for getting a veteran ID card in person.
+8. FINDING 8: Veterans did find value in displaying `active duty` and `inactive reserves` in the Military Information profile section mockup.
 
-12. FINDING 12: When asked what information is missing or could be useful to include in their Military Information profile section, veterans offered many suggestions, including awards, dates, rank, deployments and training locations, and unit assignments.
+9. FINDING 9: Veterans were mostly fine with `militaryOccupations` as the section heading, however P5 expected to see a personalized heading (AFSC instead of MOS). P9 thought that “Job Title” was generic enough to work for everyone.
 
-13. FINDING 13: While many veterans noted missing information, there was already an expressed concern about the amount of information, including repetitive or extraneous information.
+10. FINDING 10: 2 veterans commented on the proof of veteran status card (without facilitator prompting), and both stated their affinity for the card.
 
-14. FINDING 14: Only a small number of veterans did notice the additional information component, but most veterans had a clear idea of how they would go about correcting incorrect or incomplete data, should that be the case in their Military Information profile section. 
+11. FINDING 11: A few veterans had suggestions for additional information that might be included in user profiles: 1 suggested battlefield promotions (P13) and another suggested a link to a location finder for getting a veteran ID card in person.
 
-15. FINDING 15: Two participants expressed a strong preference for the VA serving as a one-stop-shop or clearinghouse for records.
+12. FINDING 12: When asked what information is missing or could be useful to include in their Military Information profile section, veterans offered multiple suggestions, including awards, dates, rank, locations (duty station, deployments, training), and unit assignments.
+
+13. FINDING 13: While 9/13 veterans noted missing information in the mockup, a few veterans expressed concern about the amount of information, which included repetitive or extraneous information.
+
+14. FINDING 14: Only a small number of veterans noticed the additional information component, but most veterans had a clear idea of how they would go about correcting incorrect or incomplete data, should that be the case in their Military Information profile section. 
+
+15. FINDING 15: 2 participants expressed a strong preference for the VA serving as a one-stop shop or clearinghouse for records.
 
 ## Details of Findings 
 
-### RQ: How have veterans used their MOS data?
+### *Research question: How have veterans used their MOS data?*
 
 #### FINDING ONE
 Veterans use their records to acquire promotions while in service, use vocational training transition benefits, apply to jobs after separation, and gain medical/disability benefits. 
@@ -123,64 +133,75 @@ When prompted to remark on the lack of locations in the mockup, P8 alluded that 
 
 >I think [including locations] would be even more helpful than [MOS]. I don't know what I was exposed to on my ship or like where I deployed to and, I mean hopefully something doesn't happen to me one day but I definitely hear stories of people like getting cancer from certain things. So I think that would even be more valuable than this. I could see how this ***might*** be helpful. Like, maybe if you have hearing or eye issues and you could like correlate it to wearing communications equipment or something of that nature, or being around radars. But again, does the person reading it or adjudicating your claim understand that? I guess that's the part I'm missing or don't know about.
 
-
-### RQ: How accurate and complete is the data pulled from VADIR?
+### *Research question: How accurate and complete is the data pulled from VADIR?*
 
 We spoke with 16 veterans. P8, who served in the Coast Guard in the 1960s, had no data available whatsoever, so that participant is not reflected in the numbers.
 
 #### FINDING 3 
-For `service-episodes`: branches and service types (active/reserves/etc.) were the most reliably accurate data values according to participants. Period of service begin/dates were mostly accurate, but some were wrong by a few months or days. Character of discharge type data values were mostly accurate, expect for a few null values. Narrative reason for separation data values were mostly correct, except for 1 unavailable value and 2 incorrect values according to participants. The two latter incorrect values are covered below:
+Regarding `militaryServiceEpisodes`, `branchOfServiceText` and `periodOfServiceTypeText` (active/reserves/etc.) were the most reliably accurate data values according to participants. `periodOfServiceBeginDate` and `periodOfServiceEndDate` were mostly accurate, but some were wrong by a few months or days. `characterOfDischargeText` values were mostly accurate, expect for a few null values. `narrativeReasonForSeparationText` were mostly correct, except for 1 unavailable value and 2 incorrect values according to participants. The two latter incorrect values are covered below:
 
 Before walking through the data together, P7 explained their lengthy process for trying to get accurate medical records to support their claim: 
 >When they finally gave me a 20% rating, it took them seven years to give the first check because they said that I owed them severance pay. But when you look on my DD214, I got 0 for servants pay. They haven't gave me back that at all. They haven't gave me back any back pay from my first claims. I've filed multiple times with nothing.
 
-When we reached the `narrative reason for separation text`, P7’s data value was “DISABILITY, SEVERANCE PAY”. P7 reacted strongly to seeing this:
+When we reached the `narrativeReasonForSeparationText`, P7’s data value was “DISABILITY, SEVERANCE PAY”. P7 reacted strongly to seeing this:
 >That is not accurate because again, if you bring up my DD214, I got no severance pay – definitely no severance pay for them to keep thousands of dollars from me. I get nothing! I have my DD214 right here, right now. I can grab it and like read through it and it says “severance pay: none”. And and why would they hold… I mean, it was only like $204 a month, but they held seven years’ worth.
 
-Another veteran (P12: Army) had inaccurate data around their separation as well (regarding a type of Military Policy Violation). They said:
+Another veteran (P12: Army) also had inaccurate data around their separation as well (regarding a type of Military Policy Violation). They said:
 >The narrative reason for separation… is that random? Because that’s not what I got out as. […] Military policy violation? No… I never got in trouble. Ever. 
 
-- `branch of service`
+<details>
+
+<summary>(Expand to view granular amounts)</summary>
+
+- `branchOfServiceText`
 	- 15 of 15 participants had correct branch data, including two participants that served in two branches (Air Force initially, then transfer to Space Force)
-- `service type`
+- `periodOfServiceTypeText`
 	- 15 of 15 participants had correct service type data (active duty/reserves/etc.)
-- `period of service` dates
+- `periodOfServiceBeginDate` and `periodOfServiceEndDate`
 	- 10 of 15 participants had correct service dates
-	- 2 participants (both marine Corps veterans) had service dates that were off by a few days
+	- 2 participants (both Marine Corps veterans) had service dates that were off by a few days
 	- 1 participant (Navy veteran) had service dates that were off by a few months
 	- 1 participant (Air Force veteran) had dates that needed to be flipped to be chronological 
 	- 1 Air Force/Space Force veteran had service dates that were incomplete (likely due to not separating yet)
-- `character of discharge type`
+- `characterOfDischargeText`
 	- 13 of 15 participants had correct discharge types
 	- 2 participants had discharge types that were unavailable (P16, Air Force/Space Force; P10, Marine Corps)
-- `narrative reason for separation text`
+- `narrativeReasonForSeparationText`
 	- 12 of 15 participants had separation reasons that were correct
 	- 1 participant’s separation reason was unavailable (P16, Air Force/Space Force)
 	- 2 participants’ reason was incorrect (P12, Army; P7 Marine Corps)
-- `enlisted service years`
+- `enlistedServiceYears`
 	- 15 participants had incorrect enlisted service years
 		- Some participants showed a value of `99`. According to P17, their years are counted differently than enlisted members and they typically see large numbers, so this may indicate that they were officers.
-- `selected reserves years`
+- `selectedReservesYears`
 	- 10 participants said their reserves data seemed accurate
 	- 3 participant said their reserves data was incorrect
 	- 2 participants had reserves data that was unavailable (null)
 
-#### FINDING 4 
-For `occupational-specialities`: occupation type (duty/primary/secondary) wasn’t something most veterans found particularly useful. DoD occupation text coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
+</details>
 
-- occupation type
-	- Many veterans didn’t talk about occupation type. One veteran (P6: Marine Corps) said that data was meaningful, while another (P5: Air Force) said it was not.
-- dod occupation text
+#### FINDING 4 
+Regarding `militaryOccupations`: `occupationTypeText` (duty/primary/secondary) wasn’t something most veterans found particularly useful. DoD occupation text coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
+
+<details>
+
+<summary>(Expand for granular amounts)</summary>
+
+- `occupationTypeText`
+	- Most veterans didn’t talk about occupation type. One veteran (P6: Marine Corps) said that data was meaningful, while another (P5: Air Force) said it was not.
+- `dodOccupationText`
 	- Most veterans had a mix of no data populated here, or only some data populated. One participant (P5: Air Force) said this was a general description for their MOS. Another participant (P6: Marine Corps) said this is related to the unit they were in, and not related to their MOS. [may need to check this]
-- service specific occupation code/text
+- `serviceSpecificOccupationCode` and `serviceSpecificOccupationText`
 	- Only a handful of veterans said their codes/titles were accurate. 
 	- One participant (P13: Army) said the occupations were actually correspondence courses, and that their dod occupation text was more reflective of their occupation.
 	- Two participants said their occupation history was out of order (P6: Marine Corps; P11: Coast Guard).
-- effective date
+- `effectiveDate`
 	- For most veterans, the effective dates were weird: either off by days, months, or years – or, the dates were inexplicably triggered by something but they couldn’t figure out what. 
 
+</details>
+
 #### FINDING 5 
-For `deployments` and `deployment locations`: Dates and missing locations were the biggest issues that the 5/15 veterans saw in their deployment data. There appeared to be duplicate rows for deployments, dates that didn’t match up with participants’ recollections, and missing country data.
+Regarding `deployments` and `deploymentLocations`, dates and missing locations were the biggest issues that the 5/15 veterans saw in their deployment data. There appeared to be duplicate rows for deployments, dates that didn’t match up with participants’ recollections, and missing country data.
 
 - 9 out of 15 veterans did not deploy, and as such, did not have deployment history to discuss. 1 veteran (P9: Air Force) did deploy, but no data was returned.
 - 5 veterans did have deployment data, and all 5 participants commented on the state of their data. 
@@ -195,30 +216,18 @@ For `academies`: Both available sets of data were accurate.
 
 - Two participants had data that encompassed their academy records, and both data sets were accurate (P4, Navy; P17 Air Force/Space Force)
 
-<details>
-
-<summary>(Expand to view qualitative accuracy count)</summary>
-
-service-episodes
-- `branch of service`: 15/15 accurate 
-- `period of service type` 15/15 accurate 
-- `period of service begin/end dates` 10/15 accurate; 4 were wrong
-- `character of discharge type` 13/15 accurate; 2 had null values
-- `narrative reason for separation text` 12/15 accurate; 1 was unavailable (due to not separating yet); 2 were completely inaccurate 
-- `enlisted service years` 0/15 accurate
-- `selected reserves years` 10/15 accurate
-
-</details>
-
-### RQ: How do veterans conceptualize their service history?
+### *Research question: How do veterans conceptualize their service history?*
 
 Unsurprisingly, veterans had varied conceptualizations when it came to thinking about and explaining their military history. We were able to do a short ranking exercise with 9/16 participant that we spoke with. We presented the participants with 5 stock terms (in randomized order) and invited them to use their own words in describing how they think of their history, with 1 being the top organizing position.
 
 #### FINDING 7
-Counting Duty Station, Unit Assignments, Deployments, Command, and Bootcamp, that’s **7 veterans who tend to think of their location first, rather than what they were doing when conceptualizing their military history**, i.e., their MOS (P17, P5, P9, P10, P14, P1, P2). 
+When doing a mapping activity to help understand how veterans conceptualizing their military history, **7/9 participants** (P17, P5, P9, P10, P14, P1, P2) **thought of their location first, rather than what they were doing (MOS)**. This is due to the fact that Duty Station, Unit Assignments, Deployments, Command, and Bootcamp all serve as examples of significant locations within their military histories.
 
 Military Occupational Specialties (MOS) was in the 1st spot for 3 veterans (P4, P6, P17), the 2nd spot for 1 veteran (P5), and MOS was based in the bottom 3 places for 4 veterans (P2, P10, P14, P9). 
 
+<details>
+
+<summary>(Expand for table of full results)</summary>
 
 | **P#**  | **Branch**        | **1**                                                      | **2**                                   | **3**                                             | **4**                                                      | **5**            | **6**                |
 | ------- | ----------------- | ---------------------------------------------------------- | --------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ---------------- | -------------------- |
@@ -232,10 +241,16 @@ Military Occupational Specialties (MOS) was in the 1st spot for 3 veterans (P4, 
 | **P1**  | Air Force         | Umbrella: Air Force Security Service (one of the Commands) | Locations: Yale Goodfellow AFB in Texas | Permanent: AFB in Japan                           | Deployments                                                |                  |                      |
 | **P2**  | Navy              | Boot camp                                                  | A School                                | Duty Station, Shore duty (AIMD), Unit Assignments | MOS                                                        |                  |                      |
 
-### RQ: How effective is the current design mock-up in displaying MOS?
+</details>
+
+> [!NOTE] add mental-model-activity.png 
+
+![Mental model activity example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/mental-model-activity.png)
+
+### *Research question: How effective is the current design mock-up in displaying MOS?*
 
 #### FINDING 8 
-Veterans did find value in displaying `active duty` and `inactive reserves` in the Military Information profile section.
+Veterans did find value in displaying `active duty` and `inactive reserves` in the Military Information profile section mockup.
 
 3 veterans commented on appreciating the inclusion of this data. P17 specifically said that:
 
@@ -247,7 +262,7 @@ Veterans were mostly fine with `Military Occupational Specialties` as the sectio
 #### FINDING 10
 Two veterans commented on the proof of veteran status card (without facilitator prompting), and both stated their affinity for the card.
 
-P6 immediately linked what they saw on the Military Information profile section page with what they were already familiar with: the VA mobile app.
+P6 immediately mentally linked what they saw on the Military Information profile section page with what they were already familiar with: the VA mobile app.
 
 >I definitely like the ID the veteran's ID card availability. Because you can get it mobile on mobile device. So that, that's great. So that if you don't have it with you and you forget, you can hopefully the internet you can pull it down. Sounds good.
 
@@ -256,7 +271,7 @@ P13 commented on the card right away, however they didn’t get a chance to noti
 >Ooh, I like this. I like the card. I like the fact that you can print it, because I know even us for veterans sometimes we go and look for the letter to show our proof of service, if it's needed for certain things like loans or something like that. And this card helps. Because you can just go here and print out the card. If you need to show proof, you can keep it on you instead of trying to fold a printout of your benefits letter or proof of service letter. So I like this. I like the card. It's small, it's convenient. (P13: Army)
 
 #### FINDING 11
-A handful of veterans had suggestions for additional information that might be included in user profiles: battlefield promotions and a link to a location finder for getting a veteran ID card in person.
+A handful of veterans had suggestions for additional information that might be included in user profiles: one suggested battlefield promotions and another suggested a link to a location finder for getting a veteran ID card in person.
 
 - [battlefield promotion](https://en.wikipedia.org/wiki/Battlefield_promotion) (P13)
 	- “Sometimes… some soldiers have received what they call battlefield promotions, which means they did not go in front of a board, like a formal board. So if, if there's nothing recorded, it sits up to HR for that promotion. There's no record of it.” (P13)
@@ -264,7 +279,7 @@ A handful of veterans had suggestions for additional information that might be i
 	- “I need to get my veteran ID card and I think you get them through the VA – like locally – you go and have your picture taken or something. If there's a link and maybe there is that link there, a link to like where you select your state and then it has a website that says you're in the state of Connecticut, go to this place and get your ID card.”
 
 #### FINDING 12
-When asked what information is missing or could be useful to include in their Military Information profile section, veterans offered many suggestions, including awards, dates, rank, deployments and training locations, and unit assignments.
+When asked what information is missing or could be useful to include in their Military Information profile section, veterans offered multiple suggestions, including awards, dates, rank, deployments and training locations, and unit assignments.
 
 - awards, metals, ribbons
 	- So basically if, without stating too much of where they've been because – and god forbid anything gets hacked or somebody gets into their login information (you don't want to reveal too much) – these are some of the specialized things that you have done and … anything they've won special accommodations, you know, like we've had any medals or something like that. (P7)
@@ -294,9 +309,10 @@ When asked what information is missing or could be useful to include in their Mi
 	- When asked whether anything felt missing on the mockup: “Well, probably the units. Everybody wants to know if you've served on the same bases or vessels or things. And that's kinda how you find your buddies.”
 
 #### FINDING 13
-While many veterans noted missing information, there was already an expressed concern about the amount of information, including repetitive or extraneous information.
+While 9/13 veterans noted missing information in the mockup, a few veterans expressed concern about the amount of information, which included repetitive or extraneous information.
 
 P5’s impression on the lack of dates led to an observation that the job titles listed in the mockup were repetitive.
+
 >I don’t know what you would use the different occupational specialties or AFSC codes [for] because they're not hyperlinked to anything. And typically somebody's job is all gonna be pretty much [be] the same. You know, if you're a a maintainer it's probably just going to be a bunch of maintenance jargon, or if you're an Intel troop, a bunch of intel stuff that’s about the same stuff. But I don't know what you really gain from having the big list of apprenticeship, craftsmanship, journeyman. (P5) 
 
 When asked about what they would expect upon clicking “show details” in the mockup, P13 already anticipated needing a lot of space to accommodate someone’s history.
@@ -333,78 +349,107 @@ P13 saw VA.gov as having potential for being a one-stop shop:
 P14 wanted VA to be a clearinghouse for all military information for similar reasons as P13:
 I think the va.gov ought to be the clearinghouse for all the military information from all the different branches – the central location or clearinghouse for all of it. Because you have guys that did some time in the Army. Like my brother-in-law was in the National Guard and he went in the Marines. So he ought to be able to go to just one spot and see all of it.[It would be helpful] if for instance, if you need to look back and see a certain time where they were at. Well, [the mockup] doesn't have the dates on it though. I just still think so you're not chasing it over two or three different entities, you know, like in his case, he wouldn't need to go to the Army to look at the National Guard records and then go to the Marines and look at his Marine records. He'd just go to the VA and there they all are.
 
+Below: example of one veteran’s feedback (stickies added by the moderator)
+
+> [!NOTE] add mockup-feedback.png
+
+![Mockup feedback example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/mockup-feedback.png)
 
 ## Additional Insights
 
-P3, a subject matter expert on personnel data, shared misgivings about the project, stating that you can’t use VA data to file claims with the VA.
+P3, a subject matter expert on personnel data, shared misgivings about the project, stating a belief that you can’t use VA data to file claims with the VA.
 
 <details>
 
 <summary>(Expand for more details about P3’s expertise)</summary>
 
-Way back when, when we actually put stuff into databases in the Navy, I was part of all of that. So we transferred data off microfilm, microfische and physically entered that in (it was before we had OCR, it was before we had recognition, before we had computers) – it was the big computers in the room. So you'd walk into a room and you'd take this thing and you'd make a copy, so to speak. And then the OCR would read that data. It was so completely early in the system that a `1` and an `l` were always the same. So you had people translating all of that and people manually fat fingering data in and people are fallible… I actually managed the contractors that did that data for the defunct personnel specialists and yeomen, et cetera.
+Way back when, when we actually put stuff into databases in the Navy, I was part of all of that. So we transferred data off microfilm, microfiche and physically entered that in (it was before we had OCR, it was before we had recognition, before we had computers) – it was the big computers in the room. So you'd walk into a room and you'd take this thing and you'd make a copy, so to speak. And then the OCR would read that data. It was so completely early in the system that a `1` and an `l` were always the same. So you had people translating all of that and people manually fat fingering data in and people are fallible… I actually managed the contractors that did that data for the defunct personnel specialists and yeomen, et cetera.
 
 </details>
+
+<details>
+
+<summary>(Expand for more details about P3’s misgivings)</summary>
 
 >I've done my claims several times and had them reevaluated, and I would not trust the data set that I was looking at. So I can pull in my military service data with my blue button report and I've looked at those and they're not helpful to me because then I still would have to go verify them. So I can't take that data and rely on it from the VA. I've gotta go to the source. In my case, obviously I'm a bureaucrat. So I’ve got paper on paper on paper. So I was able to put that together rather easily. Most people are going to go back to wherever, St. Louis Records Center or something like that and get their CD, their DVD, their whatever they have. In my case, it was way back when, so I had microfiche. So all of that information has to come from either Army, Navy, Air Force, Marine Corps as opposed to any contractor or subcontractor or the VA for that matter. You can't take the VA data, use the VA data, then file with the VA. That doesn't work because you can't cite somebody to themselves. 
 >So even if it ***was*** a hundred percent accurate… That's only going to be accurate for one snapshot in time. It's going to be accurate for five minutes or one hour or one day or however long that update takes to refresh and repopulate with additional data with updated people that got out of the military today and the effort and energy behind that. You're replicating and duplicating effort for very little reward because you can't reliably know what that is. You can say, well, this is what we've got provided by the Navy. Well then why wouldn't I just go back to the Navy? Because why would I say, hey, the contractor gave me the data that's in my record. Well, where did they get it from? The Navy? Well, why didn't you go to the Navy?
 
+</details>
+
 ## Recommendations
 
-> [!CAUTION]
-> This needs updating:
+> [!tip]
+> The section below has been updated:
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+- Recommendation 1: Consider incorporating `periodOfServiceTypeText` (active/reserves/etc.) into veteran profiles. 
+	- All participants reported seeing accurate data, and there seemed to be genuine appreciation in the specificity of service types. 
+	- If incorporating service type, investigate data around the natural guard.
 
-## Next Steps
+> [!NOTE] add service type example.png
 
-> [!CAUTION]
-> This needs updating:
+![Service type mockup example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/service%20type%20example.png)
 
-_Next steps here. Include owners if appropriate._
+- Recommendation 2: Consider incorporating `characterOfDischargeText`.
+	- The values were accurate for most participants, expect for a few null values. (Incorporating this data type may require including a key to explain what `null` means.)
+- Recommendation 3: Discuss the viability and utility of including `narrativeReasonForSeparationText`. 
+	- While values were mostly correct for participants, 1 value was unavailable value, and 2 incorrect values were upsetting or confusing to participants. 
+- Recommendation 4: Consider not pursing including `militaryOccupations` in veteran profiles, given the inconsistencies in data coverage and its limited utility. 
+	- Veterans already have records such as branch reports (like the Air Force’s SURF) and DD214 to share with medical providers and the VA. 
+	- The other use case – helping with jobs – may at this point be out of scope for the profile.
 
 ## Further research needed
 
-> [!CAUTION]
-> This needs updating:
+> [!tip]
+> The section below has been updated:
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+- Consider investigating why  `periodOfServiceBeginDate` and `periodOfServiceEndDate` dates are sometimes off by a few days or months. 
+	- This information may still be useful as it was accurate for 10/15 participants.
+- Consider continuing to monitor `deployments` and `deploymentLocations` to see if coverage improves.
+- Consider investigating duty station location data, since locations were the organizing principle for 7 out of 9 participants.
+
+## Next Steps
+
+> [!tip]
+> The section below has been updated:
+
+Discuss, as a team, which finding (if any) to incorporate into the profile. Determine what further research is worth doing at this time.
+
+Team decisions will be recorded here once direction has been determined.
 
 ## Appendix
 
-> [!CAUTION]
-> This needs updating:
+> [!tip]
+> The section below has been updated:
 
-[Research plan](link here)
-[Conversation guide](link here)
-[Interview transcripts](link here)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/conversation-guide.md)
+- Interview transcripts are not available 
+	- Given the amount of personal military history participants shared during each session, we will be destroying transcripts along with video/audio recordings once next steps have been determined.
 
 ## Tools used for Synthesis
 
-> [!CAUTION]
-> This needs updating:
+> [!tip]
+> The section below has been updated:
 
-e.g. mural boards, etc.  
+- Mural
+	- [Interview notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707510070544/62fdd391cb178ce02072fc2f504bdda2d0ccb6bd?sender=uba9bdb782b0d1026e46b0140)
+	- Data walk-through (will be deleted soon since it has some sensitive information)
+- EnjoyHQ for transcribing the audio recording (will be deleted soon since the bulk of the content is around personal military history)
+- Notion database for analyzing data, using sorting/filtering to determine count breakdowns
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+> [!tip]
+> The section below has been updated:
 
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
+- [Figma mockups](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=O9XylTLhhmVzqtOC-1)
 
 ## Secondary research
 
-> [!CAUTION]
-> This needs updating:
+> [!tip]
+> The section below has been updated:
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+2023 [Military Info, Profile Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md)
 
 ## Who we talked to 
 
@@ -475,6 +520,9 @@ Disability and Assistive Technology (AT):
 * Captions: unknown
 
 ## Underserved groups we haven’t talked to 
+
+> [!tip]
+> The section needs updating:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
