@@ -65,8 +65,8 @@ N/A (as of this writing)
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76892)
 
 ## Assumptions:
-* In order to answer the various things to be determined AKA (***TBD***)in the actual user stories, a series of spikes have created for the engineering team to investigate the questions surrounding service outages, service degradation and our responses to those.
-  *  NOTE: The spikes are all linked to their associated User 
+* In order to answer the various things to be determined (you know, all of those things with a "***TBD***") in the actual user stories, a series of spikes have created for the engineering team to investigate the questions surrounding service outages, what we consider service degradation and our responses to those.
+  *  NOTE: The spikes are all linked to their associated User Stories (and vice versa).
 * That we may have other SLO that we need to create as we do the initial series of spike.
 
 ## Solution Approach: 
