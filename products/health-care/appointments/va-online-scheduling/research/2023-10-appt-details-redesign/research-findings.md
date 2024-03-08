@@ -69,24 +69,24 @@ Remote, over Zoom
 
 # Research Materials
 
-For moderated _desktop_ usability test
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-appt-details-redesign/conversation-guide.md)
 
-- [Conversation guide](conversation-guide.md)
-- [Desktop prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
+[Desktop Prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
 
-For moderated _mobile_ usability test
-
-- [Conversation guide](conversation-guide.md)
-- [Mobile prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
-
+[Mobile Prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
 # Hypotheses and Conclusions
 
 ## Outcomes
 We will use the findings to:
-- Finalize designs and update the appointments list. 
-- Decide on next steps for redesigning the details pages.
-- Evaluate usability and value of the appointment list redesign.
+
+1. Make any necessary changes to finalize the appointment details designs.
+2. Make any necessary changes to finalize the new cancellation flow.
+3. Make any necessary changes to finalize the after visit summary entry point.
+   - Relay findings to the after visit summary team
+4. Make any necessary changes to finalize the pre check-in entry point.
+- Relay findings to the Check-in and Profile teams.
+ 
 
 ## Hypotheses and Conclusions
 - The new appointment list will be easy for Veterans with diverse technical abilities, ages, and disabilities to navigate and scan.
@@ -102,13 +102,33 @@ We will use the findings to:
 - The back button (in place of the breadcrumb) will be easy for Veterans to locate and use.
   - TRUE: Veterans found the back button easily and were able to navigate using it. 
 
+1. Cancelation:
+   - Participants will be able to cancel their appointments easily.
+      - TRUE: All participants could easiliy cancel their appointments. 
+2. Details Pages:
+   - Participants will be able to find and understand their appointment information easily.
+      - TRUE: Participants found appointment details information easily. 
+3. CTAs:
+   - On an upcoming appointment details page, participants will find the secondary buttons before finding the join appointment CTA.
+      - FALSE: Participants were able to identify the "join appointment" CTA on open video appointments. 
+4. After Visit Summary
+   - Participants will be able to easily find their after visit summary
+   - TRUE: Participants were able to find their after visit summary easily. 
+5. Pre Check-in
+   - Participants will understand the pre check-in task.
+      - FALSE: Participants found pre check in confusing. 
+   - Participants will be able to easily navigate to health care contacts page.
+      - TRUE: Participant could navigate to health care contacts page
+   - Participants will be able to navigate back to the appointments page.
+      - FALSE: Participants struggled to navigate back to appointments.  
+
 
 # Key Findings
 1. **The appointment details pages were easy to scan and provided the information veterans were looking for.**  
 
-2. **Several participants found the pre check-in task confusing.**
+2. **Participants found the pre check-in task confusing.**
 
-3. **Missing “Join appointment” link on video appointments was frustrating**
+3. **The majority of participants wanted access to the "join appointment" link for video appointments.**
 
 4. **ATLAS appointments were confusing.**
 
@@ -116,11 +136,9 @@ We will use the findings to:
 
 6. **Cancelation flow was simple and straightforward.**
 
-7. **Participants want to be able to reschedule their appointments.**
+7. **After Visit Summary was easy to find and navigate to and from.**
 
-8. **After Visit Summary was easy to find and navigate to and from.**
-
-9. **The empty states were recognized as intended.**
+8. **The empty states were recognized as intended.**
 
 10. **Text beneath the main header describing the appointment is not being read/noticed.**
 
@@ -237,9 +255,14 @@ _"I like that. theres times i want to go back and see what went on in an appoint
 
 Participants were confused and frustrated by the missing data, but still expressed having the necessary information to attend their appointments. 
 
-_"“And I don't know about “provider not available”, why that’d be blank. I'm curious why it doesn’t say what it’s for. Maybe it’s a clinic where they have several providers and whoever’s available they just take the next person.”_
+_“And I don't know about “provider not available”, why that’d be blank. I'm curious why it doesn’t say what it’s for. Maybe it’s a clinic where they have several providers and whoever’s available they just take the next person.”_
 -Participant 2
 
+## 9. Text beneath the main header describing the appointment is not being read/noticed.
+
+Facilitators noticed that participants were scrolling past the subtext that briefly described the appointment. When participants were directed to the text they reported having not seen it and that the information was useful. 
+
+**Recommendation:** Consider increasing the size of subtext font. 
 
 # Additional Insights
 
