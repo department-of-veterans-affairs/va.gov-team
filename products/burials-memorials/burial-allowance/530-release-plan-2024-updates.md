@@ -36,7 +36,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form.
    - After 100% release:
       - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the start of the form and see an info alert stating the form has been updated and they may need to fill out additional info. Their v1 data will appear in the v2 form.
-      - Unauthenticated Users: If users are in an active session, they will complete the v2 version of the form. If they leave the active session and return, they will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form -- none of their v1 data will appear in v2 of the form.
+      - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the start of the form and see an info alert noting that updates have been made. They will start over with the new version of the form -- none of their v1 data will appear in v2 of the form.
 2. Applications Not Started
    - Authenticated Users: Users will complete v2.
    - Unauthenticated Users: Users will complete v2.
