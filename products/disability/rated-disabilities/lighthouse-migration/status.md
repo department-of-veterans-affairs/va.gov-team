@@ -1,5 +1,5 @@
 ## Current Status
-### 03/07/2023
+### 03/07/2024
 
 Met with Lorri Glover and team plus Michael Harlow to discuss disrepancies between `individual_ratings` from Lighthouse and EVSS. I observed cases in production where EVSS and LH were returning ratings with the same `rated_disability_id`, but differing attributes, which is unexpected, as the previous assumption was that as long as the `disability_rating_id`s were the same, that all other attributes would match up as well. One specific case was a rating from EVSS that had no `rating_end_date` (EVSS only returns ratings with `rating_end_dates` that are in the future or null), an effective date in 2001, and a `rating_percentage` of 0, but the rating with the same ID from Lighthouse had a `rating_end_date` in the past, an effective date in 1995, and a `rating_percentage` of 10. Michael Harlow pointed out that the same ratings can have multiple "Disability Evalutations" and that Lighthouse was picking a different evaluation for that disability rating than EVSS was. We discussed the logic that EVSS does in order to derive the disability evalutation that end up in it's final response and what Lighthouse would need to do to emulate that same behavior. They are expecting to release an update the week of 03/11-03/18 to include this new logic
 
