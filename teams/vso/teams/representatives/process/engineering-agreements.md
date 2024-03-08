@@ -4,7 +4,7 @@
 
 This document serves as an agreement among ARF engineers on our collaborative working practices. It will be updated regularly based on feedback from engineering or team retrospectives and on an ad-hoc basis when necessary.
 
-We adhere to the Platform guidelines, [VA Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/), as the core of our agreement, and as such will cite them frequently in our PRs. If there are no Platform guidelines on a important area or we want to extend an area we will add that here.
+We adhere to the Platform guidelines, [VA Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/), as the core of our agreement, and as such will cite them frequently in our PRs. If there are no Platform guidelines on an important area or we want to extend an area we will add that here.
 
 ## Code Guidelines
 
@@ -13,8 +13,8 @@ Acronyms and initialisms should always be all uppercased or all lowercased and a
 
 - camelCase
   - POA Requests --> poaRequests (all lowercase at the beginning of camelcase)
-  - Mock POA Requests --> mockPOARequests (all uppercase for all other situations
-- pascalCase
+  - Mock POA Requests --> mockPOARequests (all uppercase for all other situations)
+- PascalCase
   - POA Requests Widget --> POARequestsWidget
   - Example POA Requests --> ExamplePOARequests
 - kabob-case
