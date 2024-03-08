@@ -1,4 +1,4 @@
-# va.gov Login SLOs
+# va.gov Login SLO
 
 ## Overview: 
 Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into va.gov with the ultimate goal of continuously improving the login process to va.gov. 
