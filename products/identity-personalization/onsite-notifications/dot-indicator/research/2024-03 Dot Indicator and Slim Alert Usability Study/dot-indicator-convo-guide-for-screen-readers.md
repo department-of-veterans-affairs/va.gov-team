@@ -1,9 +1,9 @@
 # Conversation Guide for Authenticated Experience My VA team - Dot Indicator/Slim Alert for Screen Reader Users, March 2024
 
 - [ ] __Make sure Codepen pages are accessible__
-	- [Two dots](https://bit.ly/49Bvi7O)
- 	- [Badge indicator](https://bit.ly/3IgkFLV)
-	- [Slim Alert](https://bit.ly/48lBwHG)
+	- [Two dots](https://bit.ly/3TsleZe)
+ 	- [Badge indicator - AT Specific](https://bit.ly/3wMJtbU)
+	- [Slim Alert](https://bit.ly/4a6B7dk)
 - [ ] __Start a thread in feedback backchannel with a link to observations document and observer instructions__
 - [ ] __Turn on closed captioning in order to use Zoom transcription__
 
@@ -48,7 +48,7 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 ## Research goal: Determine the accessibility implications of the dot or badge indicator - 30-45 minutes
 
 Now to start off, I'm going to send you a weblink to take you to our prototype. Are you okay if I send this in Zoom's chat, or would you prefer to receive it another way, like email? (If they want email, contact Perigean)
-- Alright I'm going to ask you to open the [link I've shared (via the method they prefer)](https://bit.ly/3IeFwyU) and then share your screen with me. Let me know if you need any help doing that.
+- Alright I'm going to ask you to open the [link I've shared (via the method they prefer)](https://bit.ly/3TsleZe) and then share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. By the way, we are using a tool called CodePen for this prototype, so if you hear any mention of it, that's totally normally and nothing to be concerned about. For this exercise, I'm going to ask for you to pretend that you've already signed into your VA account.
 
@@ -62,7 +62,7 @@ Okay great, I can see your screen. By the way, we are using a tool called CodePe
 
 ### Move on to badge indicators
 
-Ok great. I have another [link to share with you](https://bit.ly/3IgkFLV). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
+Ok great. I have another [link to share with you](https://bit.ly/3wMJtbU). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
 
 - Can you navigate the page and tell me what you think as you hear what's on the page.
 
@@ -74,7 +74,7 @@ Ok great. I have another [link to share with you](https://bit.ly/3IgkFLV). This 
 
 ### Move on to slim alert banner
 
-Ok, we have one more weblink to share with you. [Share link](https://bit.ly/48lBwHG). Again, if you need help, we're here to assist. 
+Ok, we have one more weblink to share with you. [Share link](https://bit.ly/4a6B7dk). Again, if you need help, we're here to assist. 
 
 For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. 
 
