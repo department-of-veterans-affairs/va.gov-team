@@ -222,57 +222,68 @@ All participants (13 of 13) reported a positive experience canceling their appoi
 _“Good, it’s idiot proof. I like this. If i say yes cancel it’s gonna have one of those yes i’m sure. But if i accidentally did it no would take me to that previous page.”_
 -Participant 7
 
-## 7. . 
+## 7. After Visit Summary was easy to identify and navigation to and from was simple. 
+
+Most participants (12 of 13) were able to find the "Go to after visit summary" link. 
+
+_"I like that. theres times i want to go back and see what went on in an appointmnet instead of going through my whole medical record to find what im looknug for."_
+-Participant 6
+
+**Note:** 2 participants had a difficult time finding the "past" appointment link in the subnavigation. This could negatively impact Veterans ability to find AVS altogether. 
+
+**Recommendation:** Reconsider sub-navigation size and placement. 
+
+## 8. Empty states were recognized as intended. 
+
+Participants were confused and frustrated by the missing data, but still expressed having the necessary information to attend their appointments. 
+
+_"“And I don't know about “provider not available”, why that’d be blank. I'm curious why it doesn’t say what it’s for. Maybe it’s a clinic where they have several providers and whoever’s available they just take the next person.”_
+-Participant 2
 
 
 # Additional Insights
 
-### 1. The term pending was confusing for some participants.
-Some participants (4 of 10) were unable to locate “pending” appointments without intervention/assistance from the facilitator. After further explanation, they were all able to find the pending appointment, suggesting a discrepancy in naming. When asked how they interpreted the word “pending”, some (2 of 10) participants thought they were upcoming appointments, while one believed a pending appointment would mean an error in scheduling. 
+### 1. Veterans want the ability to reschedule their appointments. 
 
-**Note**: In previous studies, the term “requests” caused confusion for participants. Bother “pending” and “request” are potentially problematic. [Link to github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test/research-findings.md#appointment-requests-continue-to-create-confusion)
+When canceling appointments, several particpants wanted the ability to reschedule the appointment they were canceling without having to go through the entire scheduling process. 
 
-### 2. Need a way to search or sort through past appointments. 
-participants were successful (9 of 10) in finding and clicking on the past appointments link. When asked to locate a specific appointment on the past appointments list, several participants wanted a way to filter or search through those appointments, by various data points. 
+_“Should one of the options be yes, reschedule? That would be valuable because I’m going to forget to schedule another appointment.”_
+-Participant 8
 
-**Note**: The date filter was not included in the test and will need to be added. 
+### 2. The word "Pending" remains confusing.
 
-### 3. Access to secure messaging
-Participants want a way to message their provider at various times throughout the scheduling process, including while managing appointments. . 
-
-### 4. Small text
-At least one participant with low visibility expressed difficulty seeing the links in the details pages.
+Most participants werent sure what "pending" meant.
 
 # Next Steps
 
 The next steps in this process are as follows:
-1. Engineers to build a proof of concept for appointment list designs. 
-2. Update appointment list designs based on findings and recommendations from this study. 
-3. Create a screen-reader usability test using a low-code prototype
-4. Make changes to details page designs based on findings and recommendations from this study.
-5. Further testing on details page usability. 
+1. Remove "personal Healthcare Contacts" from upcoming appointments.
+2. Determine what items are ready to be built and what needs iteration. 
+3. Hand off items that are ready for developers to begin work
+4. Iterate on remaining designs and content
+5. Share finished designs with other teams. 
 
 # Further research needed
 
-All requested demographics were met and no further testing will be needed for this study. Design changes and further testing will be conducted for design change recommendations for details page. 
+All requested demographics were met and no further testing will be needed for this study. 
 
 # Appendix
 
-[Research plan](research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-appt-details-redesign/research-plan.md)
 
-[Conversation guide](conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-appt-details-redesign/conversation-guide.md)
 
 ## Tools used for Synthesis
 
-[Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1663787968917/0350c48a113a036c09499090ae54f1da3e709626?sender=ua4cf5b25fa1f501e76ba9960)
+[FigJam Board](https://www.figma.com/file/ohUcUPpdS2x0Q6uZTb7F9D/Appt.-Details-Synthesis?type=whiteboard&node-id=0%3A1&t=wPGZRaiDNbKqB0tv-1)
 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1BMn0Jwdeg-vjbtBlxKPrVwJrv7VIiA7ddJj1Cp4Gemk/edit#gid=0)
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1EbfxSgLJFV9GnHBjf8uuPkGHGy4A8e5yec6fKqapK3Q/edit#gid=0)
 
 ## Pages and applications used
 
-[Desktop Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1169%3A59522&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1169%3A59522&show-proto-sidebar=1)
+[Desktop Prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
 
-[Mobile Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?page-id=1160%3A65447&node-id=1172%3A81535&viewport=-5700%2C-6043%2C0.24&scaling=min-zoom&starting-point-node-id=1172%3A81535&show-proto-sidebar=1)
+[Mobile Prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
 ## Who we talked to 
 
@@ -280,10 +291,10 @@ All requested demographics were met and no further testing will be needed for th
 
 The primary recruitment criteria was include at least 8 desktop users and at least 8 mobile users. For each of these groups, we asked that at least 1 had a cognitive disability, at least 1 was LGBTQ+ and at least 1 was Native.
 
-We talked to **10 participants.**
+We talked to **13 participants.**
 
 Audience segment:
-* Veterans: 10 
+* Veterans: 13 
 * Caregivers: 0
 * Family members of a Veteran: 0  
 
