@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T15:15:14.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="30nM77eoNvhsj59ugJL-" version="24.0.2" type="google" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-08T15:24:51.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-sArSHLer6cz0xP2yzGT" version="24.0.2" type="google" pages="2">
   <diagram name="Phase 1" id="oOngIdAS6x8Q0bwa8xJY">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,12 +56,12 @@
         <mxCell id="qEEqc8nWSd0095ef1qDG-2" value="VETSAPI Patient Gateway (VPG)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qEEqc8nWSd0095ef1qDG-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEEqc8nWSd0095ef1qDG-2" target="Z_CzR5vbTdwY7DA0skK6-1">
+        <mxCell id="qEEqc8nWSd0095ef1qDG-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEEqc8nWSd0095ef1qDG-2" target="Z_CzR5vbTdwY7DA0skK6-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="455" y="250" as="sourcePoint" />
             <mxPoint x="345" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="335" y="190" />
+              <mxPoint x="335" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YLndUygrDc0ghYW7cuA_-34" value="Cerner site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="280" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YLndUygrDc0ghYW7cuA_-37" value="VistA site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="110" height="30" as="geometry" />
@@ -102,6 +102,15 @@
             <Array as="points">
               <mxPoint x="565" y="550" />
               <mxPoint x="335" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8eSYwJW6OyEI29YMeOQ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEEqc8nWSd0095ef1qDG-2" target="Z_CzR5vbTdwY7DA0skK6-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="215" as="sourcePoint" />
+            <mxPoint x="345" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,12 +164,12 @@
         <mxCell id="yoTL0M5f82izOvwUdTdJ-13" value="VETSAPI Patient Gateway (VPG)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
           <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yoTL0M5f82izOvwUdTdJ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-13" target="yoTL0M5f82izOvwUdTdJ-3" edge="1">
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-13" target="yoTL0M5f82izOvwUdTdJ-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="455" y="250" as="sourcePoint" />
             <mxPoint x="345" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="335" y="190" />
+              <mxPoint x="335" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -189,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yoTL0M5f82izOvwUdTdJ-19" value="Cerner site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
-          <mxGeometry x="275" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="275" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yoTL0M5f82izOvwUdTdJ-20" value="VistA site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
           <mxGeometry x="540" y="210" width="110" height="30" as="geometry" />
@@ -226,6 +235,15 @@
             <Array as="points">
               <mxPoint x="220" y="355" />
               <mxPoint x="220" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALRiFvwkvwG1Xc69zOYI-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-13" target="yoTL0M5f82izOvwUdTdJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="215" as="sourcePoint" />
+            <mxPoint x="345" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
