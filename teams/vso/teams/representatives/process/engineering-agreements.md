@@ -4,11 +4,33 @@
 
 This document serves as an agreement among ARF engineers on our collaborative working practices. It will be updated regularly based on feedback from engineering or team retrospectives and on an ad-hoc basis when necessary.
 
+We adhere to the Platform guidelines, [VA Platform Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/), as the core of our agreement, and as such will cite them frequently in our PRs. If there are no Platform guidelines on an important area or we want to extend an area we will add that here.
+
+## Code Guidelines
+
+### Acronyms and Initialisms in Code
+Acronyms and initialisms should always be all uppercased or all lowercased and always align with javascript case rules. As such to align with javascript case standards, they should be lowercased when at the beginning of camelCase and in all cases of kabob-case or snake_case, and they should be uppercased in all other situations:
+
+- camelCase
+  - POA Requests --> poaRequests (all lowercase at the beginning of camelcase)
+  - Mock POA Requests --> mockPOARequests (all uppercase for all other situations)
+- PascalCase
+  - POA Requests Widget --> POARequestsWidget
+  - Example POA Requests --> ExamplePOARequests
+- kabob-case
+  - POA styling --> poa-styling (all lowercase for kabob-case)
+
+This aligns with the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript?tab=readme-ov-file#naming--Acronyms-and-Initialisms): "23.9 Acronyms and initialisms should always be all uppercased, or all lowercased."
+
+Platform documentation only discusses acronyms in the [context of page content](https://design.va.gov/content-style-guide/abbreviations-and-acronyms): "For acronyms, use the spelled-out term on first mention in body copy with the acronym in parentheses; then the acronym alone on subsequent mentions..."
+
+After discussing with Platform in the vfs-platform-support channel [they said the following](https://dsva.slack.com/archives/CBU0KDSB1/p1709565273517439?thread_ts=1709317801.992969&cid=CBU0KDSB1): "I recommend treating the acronym like an acronym". Which from the context of the tagged thread references our above recommendation.
+
 ## Pull Requests
 
 ### General Guidelines
 
-We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/code-and-build).
+We adhere to the Platform guidelines on PR Best Practices: [VA Platform Developer Docs PR Best Practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/pull-request-best-practices).
 
 ### Draft PRs
 
@@ -29,7 +51,7 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 #### Ownership
 
 - PRs that you initiate are your responsibility until completion.
-- Only modify others' PRs if they explicitly request it or if they've passed ownership to you (e.g., during PTO). This should be an exception, not the norm.
+- Only modify others' PRs if they explicitly request it or if they've passed ownership to you (e.g., during PTO). Modifying others' PRs should be an exception, not the norm.
 - Creating PRs against others' work for significant changes is okay.
 
 ### Commits
@@ -40,7 +62,7 @@ We adhere to the Platform guidelines: [DEPO Platform Documentation](https://depo
 - Remember that concise and efficient work adds more value than perfect wording in commit messages.
 - Ensure each push passes Continuous Integration (CI) tests.
 
-### Zenhub
+## Zenhub
 
 - Use an ARF Engineering ZenHub Template to create every issue.
 - None of the sections in the templates are explicitly labeled as 'required' or 'optional.' Therefore, it is up to the person creating the issue to decide which sections to include.
