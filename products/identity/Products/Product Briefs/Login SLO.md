@@ -89,11 +89,11 @@ N/A (as of this writing)
 
 
 ## Milestones:
-[] Spikes completed.
-[] Initial publishing of SLOs.
-[] First monitoring date.
-[] First publishing date.
-[] Ongoing quarterly monitoring & publishing.
+- [ ] Spikes completed.
+- [ ] Initial publishing of SLOs.
+- [ ] First monitoring date.
+- [ ] First publishing date.
+- [ ] Ongoing quarterly monitoring & publishing.
 
 
 ## Future Scope:
