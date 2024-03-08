@@ -29,3 +29,5 @@ This project transitioned teams in April 2022. It is currently managed by Facili
 - [Research & design hub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md)
 
 
+## Tribal knowledge
+Sometime, let's document these things more formally: 
