@@ -29,7 +29,7 @@ N/A (as of this writing)
 ## Use Cases:
 - As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76838).
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to va.gov, as measured continuously by the _SIS Authorize_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to va.gov, as measured continuously by the _SIS Authorize_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76848)
 - As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SSOe Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76867)
