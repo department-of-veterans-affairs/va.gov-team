@@ -18,8 +18,9 @@ For this first iteration, the focus will be on:
     * Team response when a service degradation is noticed.
 * Creating a monitoring plan to check on service degration.   
 * Publishing the SLOs on a Quarterly basis
-  * To a Github page
-  * To the #vsp-identity slack channel
+  * To a Github page in the [Login SLO folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Login%20SLO).
+  * To the #vsp-identity slack channel?
+    * Maybe other slack channels?
 
 
 ## Out of Scope: (for this iteration)
@@ -46,7 +47,7 @@ N/A (as of this writing)
 - As a Veteran, I should have to wait no longer than ***HOW LONG?*** to get a result when I try to logout from va.gov, as measured continuously by the _SIS Revoke_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***WHAT SHOULD OUR RESPONSE BE?*** [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76892)
 
 ## Assumptions:
-* That a series of spikes will be created for the engineering team to investigate the questions surrounding service degradation and our response to said service degradation.
+* In order to answer the ***HOW LONG?** and ***WHAT SHOULD OUR RESPONSE BE?** questions, a series of spikes have created for the engineering team to investigate the questions surrounding service outages, service degradation and our responses to those. 
 * That we may have other SLO that we need to create as we do the initial series of spike.
 
 ## Solution Approach: 
@@ -88,7 +89,8 @@ N/A (as of this writing)
 
 
 ## Milestones:
-* Launch Date
+* Spikes completed
+* Initial publishing of SLOs
 * First monitoring date
 * First publishing date
 * Ongoing quarterly monitoring & publishing
