@@ -95,4 +95,4 @@ N/A (as of this writing)
 
 
 ## Future Scope:
-* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new SLOs will need to be established and published.
+As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new SLOs will need to be established and published.
