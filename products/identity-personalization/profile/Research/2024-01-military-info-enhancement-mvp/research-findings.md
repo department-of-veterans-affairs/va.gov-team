@@ -149,6 +149,7 @@ When we reached the `narrativeReasonForSeparationText`, P7’s data value was �
 Another veteran (P12: Army) also had inaccurate data around their separation as well (regarding a type of Military Policy Violation). They said:
 >The narrative reason for separation… is that random? Because that’s not what I got out as. […] Military policy violation? No… I never got in trouble. Ever. 
 
+
 <details>
 
 <summary>(Expand to view granular amounts)</summary>
@@ -182,6 +183,7 @@ Another veteran (P12: Army) also had inaccurate data around their separation as 
 
 #### FINDING 4 
 Regarding `militaryOccupations`: `occupationTypeText` (duty/primary/secondary) wasn’t something most veterans found particularly useful. DoD occupation text coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
+
 
 <details>
 
@@ -242,8 +244,6 @@ Military Occupational Specialties (MOS) was in the 1st spot for 3 veterans (P4, 
 | **P2**  | Navy              | Boot camp                                                  | A School                                | Duty Station, Shore duty (AIMD), Unit Assignments | MOS                                                        |                  |                      |
 
 </details>
-
-> [!NOTE] add mental-model-activity.png 
 
 ![Mental model activity example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/mental-model-activity.png)
 
@@ -351,8 +351,6 @@ I think the va.gov ought to be the clearinghouse for all the military informatio
 
 Below: example of one veteran’s feedback (stickies added by the moderator)
 
-> [!NOTE] add mockup-feedback.png
-
 ![Mockup feedback example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/mockup-feedback.png)
 
 ## Additional Insights
@@ -418,18 +416,12 @@ Team decisions will be recorded here once direction has been determined.
 
 ## Appendix
 
-> [!tip]
-> The section below has been updated:
-
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/conversation-guide.md)
 - Interview transcripts are not available 
 	- Given the amount of personal military history participants shared during each session, we will be destroying transcripts along with video/audio recordings once next steps have been determined.
 
 ## Tools used for Synthesis
-
-> [!tip]
-> The section below has been updated:
 
 - Mural
 	- [Interview notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707510070544/62fdd391cb178ce02072fc2f504bdda2d0ccb6bd?sender=uba9bdb782b0d1026e46b0140)
@@ -439,15 +431,9 @@ Team decisions will be recorded here once direction has been determined.
 
 ## Pages and applications used
 
-> [!tip]
-> The section below has been updated:
-
 - [Figma mockups](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=O9XylTLhhmVzqtOC-1)
 
 ## Secondary research
-
-> [!tip]
-> The section below has been updated:
 
 2023 [Military Info, Profile Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md)
 
@@ -520,9 +506,6 @@ Disability and Assistive Technology (AT):
 * Captions: unknown
 
 ## Underserved groups we haven’t talked to 
-
-> [!tip]
-> The section needs updating:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
