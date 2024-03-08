@@ -21,14 +21,14 @@ We primarily used Mobbin.com to review website and app flows in the following ca
 ## Findings Details
 ### Onboarding flows for modern websites and apps typically include multiple sub-flows or steps designed to increase user engagement with each step.
 All the flows we reviewed included at least one of these aspects. Others included all of them, especially sites that have an element of personalization such as Netflix or LinkedIn.
-#### Feature overview to encourage people to sign up for an account
+#### 1. Feature overview to encourage people to sign up for an account
 This was most commonly seen on the homepage of a website. Highlighting or summarizing features was either the focus of the homepage, or in a carousel in the top half of the page.
 
 USAA’s homepage starts with a succinct and actionable list of services they provide, followed by a call to action (CTA) to join.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-usaa-homepage-ctas-cropped.png" alt="screenshot showing USAA’s mobile homepage starts with a succinct and actionable list of services they provide, followed by a call to action or CTA to join." width="500" />
 
-#### Account creation flow
+#### 2. Account creation flow
 Every website and app we reviewed had an account creation flow. The basic account creation process on ID.me or login.gov is not dissimilar to what we saw. Creating an account was a primary goal of many the sites we looked at, especially for sites that provide paid services.
 
 Netflix’s entire homepage is a simple benefit statement with a call to action to start the account creation process.
@@ -40,7 +40,7 @@ The Social Security Administration takes a similar approach to VA.gov with an ac
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-ssa-homepage-ctas.png" alt="screenshot showing Social Security Administration taking a similar approach to VA.gov with an account creation CTA on the upper right side of the homepage." />
 	
 
-#### Profile set up flow
+#### 3. Profile set up flow
 Setting up a profile was an immediate next step after account creation on many of the sites we looked at.  Users were typically asked to provide 2-3 pieces basic information, like name, date of birth, and gender to establish their profile.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-airbnb-create-profile.png" />
@@ -51,7 +51,7 @@ In the screenshot above, Airbnb presents a modal to provide profile information 
 
 In the Quicken screenshot above, we see a direct and simple approach asking for 3 key pieces of information 
 
-#### Asking for additional information to inform personalized recommendations. 
+#### 4. Asking for additional information to inform personalized recommendations. 
 This step almost always had some content explaining why the information was being requested. Oftentimes, the content tied back to the users goals and served as a way for people to learn about what the app or website can do for them.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-linked-in-flow.jpg"  alt="image showing 4 screens from LinkedIn that take the user through a flow to gather personal information to make recommendations." />
@@ -59,12 +59,13 @@ This step almost always had some content explaining why the information was bein
 Some flows, like the LinkedIn screenshot above, included multiple, focused screens to gather a different types of information.
 
 ### We observed some additional welcome steps in onboarding flows on dashboard-type websites, and within mobile apps.
-- A series of welcome screens that highlight specific features or functionality, after an account was created. The VA Mobile App currently has this functionality.
+- A series of welcome screens that highlight specific features or functionality, after an account was created. The VA Mobile App currently has this in a 4 step carousel.
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-va-mobile-app-intro-carousel.png" alt="image showing 4 screens from the VA Mobile App that highlight things a person can do in the app." />
 - Providing users with 2 options for next steps to help them get started using the website or app. These typically focused on the primary offerings of the site and serve as a way to teach people what they can do.
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-user-research-welcome-next-steps.png" alt="image showing 2 options as next steps on the user research welcome screen." />
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-basecamp-welcome-next-steps.png" alt="image showing 2 options as next steps on the Basecamp welcome screen." />
-- A progressive tour of the UI, usually with tooltips and
+- A progressive tour of the user interface, highlighting key features.  Tooltips and a “next” button are a common pattern, as shown in the Mint app below.
+  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-mint-tour.png" alt="image showing a series of 4 screens walking a user through features in the Mint app." />
 
 ### Navigation and other UI elements are minimized for the majority of onboarding steps.
 
@@ -92,4 +93,4 @@ After conducting this review, we identified some opportunities for VA.gov to can
 
 1. Do a better job of succinctly summarizing the benefits of creating a VA.gov account, in an engaging way.  We’re currently pointing people to a long article style page that doesn’t engage in the same way a private sector page does.
 2. Create a variation of sign-in modal that prioritizes creating an account over signing in with an existing one, so we can link to it from any place we have a call to action to create an account (e.g. the homepage).
-3. 
+
