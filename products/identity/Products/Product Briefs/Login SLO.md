@@ -19,7 +19,7 @@ For this first iteration, the focus will be on:
 * Creating a monitoring plan to check on service degration.   
 * Publishing the SLOs on a Quarterly basis
   * To a Github page in the [Login SLO folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Login%20SLO).
-  * To the #vsp-identity slack channel?
+  * To the #vsp-identity slack channel.
     * Maybe other slack channels?
 
 
