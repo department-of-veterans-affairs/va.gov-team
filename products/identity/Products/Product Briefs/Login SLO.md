@@ -53,8 +53,10 @@ N/A (as if this writing)
 * The team uses the spikes to determine what we consider service degradation for the Response Time SLOs.
 * The team uses the spikes to determine the proper course of action to resolve any service degradation for the Response Time SLOs.
 * We come up the SLO language.
-* We come up with a publishing schedule.
 * We create a monitoring plan.
+* We come up with a publishing schedule.
+  * How did we do against each SLO
+
   
 ## Technical Considerations:
 | Issue         | Notes         | 
@@ -71,10 +73,11 @@ N/A (as if this writing)
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------:| 
-| 18 initial SLO are created |               |
-| A monitoring methodology is created & published |               |
-| A publishing schedule is created |               |
-| SLO are published on a regular basis |               |
+| 18 initial SLO are created |  Published in tabular form             |
+| A monitoring methodology is created & published |  Should be a checklist that lives in SLO Github folder            |
+| A publishing schedule is created & published |  Schedule should live in SLO Github folder            |
+| SLO are monitored on a quarterly basis | Will be assigned to engineers, who will have use checklist     |
+| How we are meeting the SLO are published on a quarterly basis | Will be assigned to engineers, who will have use schedule     |
 
 
 ## Baseline KPI Values:
