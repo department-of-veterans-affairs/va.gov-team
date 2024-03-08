@@ -314,81 +314,28 @@ All requested demographics were met and no further testing will be needed for th
 
 The primary recruitment criteria was include at least 8 desktop users and at least 8 mobile users. For each of these groups, we asked that at least 1 had a cognitive disability, at least 1 was LGBTQ+ and at least 1 was Native.
 
-We talked to **13 participants.**
-
-Audience segment:
-* Veterans: 13 
-* Caregivers: 0
-* Family members of a Veteran: 0  
-
-Gender:
-* Male: 4 
-* Female: 6 
-
-LGBTQ+:
-* Transgender: 1 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-* Gay, lesbian, or bisexual: 1
-
-Devices used during study: 
-* Desktop: 5 
-* Tablet: x 
-* Smart phone: 5 
-* Assistive Technology: 0
-
-Age:
-* 25-34: 0
-* 35-44: 3
-* 45-54: 1
-* 55-64: 2
-* 65+: 4
-* Unknown: 0
-
-Education:
-* High school degree or equivalent: 0
-* Some college (no degree): 1
-* Associate's degree, trade certificate or vocational training: 1
-* Bachelor's degree: 6
-* Master's degree: 2
-* Doctorate degree: 0
-* Unknown: 0
-
-Geographic location:
-* Urban: 0
-* Rural: 0
-* Unknown: 0
+| Category              | %       | Target | Study |
+|-----------------------|---------|--------|-------|
+| Veterans              |         |        |       |
+| Age 55-64+           | 50.00%  | 5      | 10    |
+| Cognitive Disability | 50.00%  | 5      | 4     |
+| Mobile user          | 50.00%  | 5      | 3     |
+| Rural                 | 25.00%  | 3      | 2     |
+| No degree            | 25.00%  | 3      | 2     |
+| Other than honorable | 21.00%  | 2      | 0     |
+| Immigrant origin     | 17.00%  | 2      | 0     |
+| Women                | 10.00%  | 1      | 8     |
+| Expat (living abroad)| 0.40%   | 0      | 0     |
 
 
-Race:
-* White: 0
-* Black: 2
-* Hispanic: 1
-* Biracial: 0
-* Asian: 0
-* Native: 0
 
-
-Disability and Assistive Technology (AT):
-* Cognitive: 0
-* AT beginner: 0
-* AT advanced user: 0
-* Desktop screen reader: 5
-* Mobile screen reader: 5
-* Magnification/Zoom: 1
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-* Hearing aids: 0
-* Sighted keyboard: 0
-* Captions: 0
-
-
-## Underserved groups we haven’t talked to 
+ 
 
 [Recruitment Tracker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+
 <img width="751" alt="Screenshot 2024-03-08 at 12 11 13 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/79866060/3c7563d6-6b1d-477a-9d3a-2ff7ece7aa29">
 
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-
-* Cognitive Disability
-* Native
+## Underserved groups we haven’t talked to
+- Immigrant origin
+- Assistive technology users
 
