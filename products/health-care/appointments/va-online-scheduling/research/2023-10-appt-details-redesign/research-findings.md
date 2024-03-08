@@ -312,7 +312,7 @@ All requested demographics were met and no further testing will be needed for th
 
 **Recruitment criteria**
 
-The primary recruitment criteria was include at least 8 desktop users and at least 8 mobile users. For each of these groups, we asked that at least 1 had a cognitive disability, at least 1 was LGBTQ+ and at least 1 was Native.
+The primary recruitment criteria was to include at least 1 Veteran with a cognitive disability, at least 1 LGBTQ+ Veteran and at least 1 Native Veteran.
 
 | Category              | %       | Target | Study |
 |-----------------------|---------|--------|-------|
