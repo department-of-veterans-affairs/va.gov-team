@@ -57,7 +57,8 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 2. Form component updates on the pages already receiving form field updates
 3. Accessibility updates on the pages already receiving form field updates
 4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
-5. New confirmation email sent to users confirming their claim submission through VA.gov
+5. Toggle for inforamtion page to show old vs new form instructions.
+6. New confirmation email sent to users confirming their claim submission through VA.gov
 ---
 
 ## Step 1: Development
