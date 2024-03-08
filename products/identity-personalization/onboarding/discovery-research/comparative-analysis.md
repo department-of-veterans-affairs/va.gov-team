@@ -16,7 +16,7 @@ We primarily used Mobbin.com to review website and app flows in the following ca
 1. Onboarding flows for modern websites and apps typically include one or more steps designed to engage the user to complete a task.
 2. We observed some additional welcome steps in onboarding flows on dashboard-type websites, and within mobile apps.
 3. Navigation and other UI elements are minimized for the majority of onboarding steps.
-4. Almost all aspects of an onboarding flow are an authenticated experience.
+4. Onboarding flows include unauthenticated and authenticated aspects.
 5. There are a common UI patterns used to achieve specific goals in onboarding flows.
 ## Findings Details
 ### Onboarding flows for modern websites and apps typically include multiple sub-flows or steps designed to increase user engagement with each step.
@@ -67,25 +67,31 @@ Some flows, like the LinkedIn screenshot above, included multiple, focused scree
 - A progressive tour of the user interface, highlighting key features.  Tooltips and a “next” button are a common pattern, as shown in the Mint app below.
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-mint-tour.png" alt="image showing a series of 4 screens walking a user through features in the Mint app." />
 
-### Navigation and other UI elements are minimized for the majority of onboarding steps.
+### Navigation and other UI elements are deprioritized for initial onboarding steps.
 
-We noticed that during most onboarding steps, the site navigation was stripped down or removed entirely, and there were very few other elements on the screen. Many screens almost felt like a modal, where the main content was contained and centered with a significant amount of negative space surrounding it.  This is present in nearly all of the examples above.
+We noticed that during account creation, profile setup, and gathering personalization information steps,  navigation was deprioritized.  It was almost always covered by a modal, stripped down, or removed entirely. This can be seen in many of the examples above, as well as in the screenshots from Udemy and Netflix below.
 
-### Almost all aspects of an onboarding flow are an authenticated experience.
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-netflix-personalization-qs.png" alt="image showing a screenshot from Netflix where main navigation is not present." />
 
-**UI patterns**
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-udemy-personalization-qs.png" alt="image showing a screenshot from Udemy where main navigation is not present." />
+
+### Onboarding flows include unauthenticated and authenticated aspects.
+
+- A feature overview, benefit highlights and creating a login are all unauthenticated parts of the flow.
+- Creating a profile, providing personalization information, and a product walk through all happened after a user is authenticated in the sites and apps we reviewed.
+
+
+### There are a common UI patterns used to achieve specific goals in onboarding flows.
+
 - tooltips to highlight features, especially if they’re now
   - sometimes dismissible
   - sometimes have a “next” button to take a person into the new feature
 - Tools like Slack have people use the feature to teach them about the next one. E.g. prompt to send first message, then shows them how to react (or something)
 
-### There are a common UI patterns used to achieve specific goals in onboarding flows.
-### Setting up an account
-
-
-- Many websites walk users through a series of simple screens, with one question per screen, as part of the account set up process. There is typically an explantation to inform the user why this is being asked. The questions serve a couple of purposes:
+- Many websites take a “one thing per page” approach.
+  - They walk users through a series of simple screens, with one question per screen, as part of the account set up process. There is typically an explantation to inform the user why this is being asked. The questions serve a couple of purposes:
   - They help personalize their experience once their account is set up.  The questions typically have content that explains why the information is being asked.  For example, Netflix asking for personal information (dob, gender identity) and 3 movies a person has seen that they liked, to make appropriate recommendations
-  - The questions also teach users about features and tools on the website. LinkedIn asks users to choose “What’s the main thing you want to do?” which teaches new users about three main features/tools on the website.
+  - 
 
 
 ## Opportunities
@@ -93,4 +99,4 @@ After conducting this review, we identified some opportunities for VA.gov to can
 
 1. Do a better job of succinctly summarizing the benefits of creating a VA.gov account, in an engaging way.  We’re currently pointing people to a long article style page that doesn’t engage in the same way a private sector page does.
 2. Create a variation of sign-in modal that prioritizes creating an account over signing in with an existing one, so we can link to it from any place we have a call to action to create an account (e.g. the homepage).
-
+3. 
