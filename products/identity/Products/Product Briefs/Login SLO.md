@@ -53,7 +53,7 @@ N/A (as of this writing)
 * The team uses the spikes to determine the proper course of action when an endpoint becomes unavailable. (Probably all P1, but let's make sure.)
 * The team uses the spikes to determine what we consider service degradation for the Response Time SLOs.
 * The team uses the spikes to determine the proper course of action to resolve any service degradation for the Response Time SLOs.
-* We come up the SLO language.
+* We come up with the SLO language.
 * We create a monitoring plan.
 * We come up with a publishing schedule.
   * How did we do against each SLO in the previous quarter?
