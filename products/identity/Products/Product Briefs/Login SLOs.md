@@ -22,7 +22,7 @@ For this first iteration, the focus will be on:
 
 
 ## Out of Scope: (for this iteration)
-
+N/A (as if this writing)
 
 ## Use Cases:
 - As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed immediately.  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76838).
@@ -48,8 +48,9 @@ For this first iteration, the focus will be on:
 * That a series of spikes will be created for the engineering team to investigate the questions surrounding service degradation and our response to said service degradation.
 
 ## Solution Approach: 
-* We use the spikes to determine what we consider service degradation for the Response Time SLOs.
-* We use the spikes to determine the proper course of action to resolve any service degradation for the Response Time SLOs.
+* The team uses the spikes to determine the proper course of action when an endpoint becomes unavailable. (Probably all P1, but let's make sure.)
+* The team uses the spikes to determine what we consider service degradation for the Response Time SLOs.
+* The team uses the spikes to determine the proper course of action to resolve any service degradation for the Response Time SLOs.
 * We come up the SLO language.
 * We come up with a publishing schedule.
 * We create a monitoring plan.
@@ -57,7 +58,8 @@ For this first iteration, the focus will be on:
 ## Technical Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-| |               |
+| VA Policy |  Is there VA policy surrounding availability & response times?     |
+| Industry Standards |  Are there industry standards surrounding availability & response times?     |
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
