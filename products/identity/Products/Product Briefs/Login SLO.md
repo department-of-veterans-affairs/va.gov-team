@@ -17,7 +17,7 @@ For this first iteration, the focus will be on:
   * Response Time
     * Team response when a service degradation is noticed.
       * Definition of "service degradation" in each case.
-      * Creating a monitoring plan to check on service degration.   
+      * Creating a monitoring plan to check on service degradation.   
 * Publishing the SLOs on a Quarterly basis
   * To a Github page in the [Login SLO folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Login%20SLO).
   * To the #vsp-identity slack channel.
