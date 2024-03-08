@@ -1,3 +1,5 @@
+# OBSOLETE DOCUMENT
+
 # Public Websites Feature Transition Document 
 **VSA team name**
 
