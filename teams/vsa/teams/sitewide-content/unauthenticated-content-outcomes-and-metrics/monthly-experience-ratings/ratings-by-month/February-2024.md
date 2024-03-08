@@ -64,4 +64,14 @@ All pages have ratings of 2 or below.
 5. [VA debt management](www.va.gov/resources/va-debt-management/) (41% out of 80 total responses)
 
 ## Analysis
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20tracking%20February%202024.xlsx?d=w6c064570901f418482886a9a6e9354d8&csf=1&web=1&e=HLQop0)
 
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 75% "good" average rating.
+- Performance isn't as high when broken down to individual pages:
+  - 19% of pages are scoring at 90% or higher "good"
+  - 47% of pages are meeting our goal of 75% or higher "good," while 55% of pages are scoring 70% or higher
+  - 24% of pages are scoring at less than 50% "good," with 7% scoring at less than 10% "good" (though all of these had only 1-2 total responses)
+- PACT-related content continues to perform exceptionally well. The PACT Act page was one of the top-scoring pages with the highest volume of total responses. And the presumptive cancers page has an 88% good rating.
+- Most of the lowest-scoring pages revolve around sign in and identity (including privacy and security), which has known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+- VA debt management has been one of the lowest scoring pages with the highest volume of responses for 3 consecutive months. We should review Medallia survey results to get more information.
+- Contact us and Helpful VA phon numbers are both low-scoring pages. We should review Medallia survey results to determine if it has to do with content on the page or hold times when calling. 
