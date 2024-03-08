@@ -494,7 +494,7 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-> [!tip]
+> [!warning]
 > The section needs updating:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
