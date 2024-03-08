@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 
 ### Dot indicators
 
-Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/49Bvi7O), and then for you to share your screen with me. Let me know if you need any help doing that.
+Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/3TsleZe), and then for you to share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. By the way, if you see anything referring to CodePen while viewing this, it's just a tool we use to create prototypes and nothing out of the ordinary. 
 
@@ -64,7 +64,7 @@ Okay great, I can see your screen. By the way, if you see anything referring to 
 
 ### Move onto badge indicator
 
-Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly/3IeFwyU) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
+Okay, I'm now going to [share with you another link in Zoom chat](https://bit.ly/4anyJ2j) that will take you to another version of this page. Please open it and continue sharing your screen. If you need any assistance with that, just let me know. 
 
 *User shares screen*
 
@@ -79,7 +79,7 @@ How do you think badge with the number in it would disappear?
 
 ### __Move on to slim alert__
 
-Ok, we have one more weblink to share with you. [Share link](https://bit.ly/48lBwHG)
+Ok, we have one more weblink to share with you. [Share link](https://bit.ly/4a6B7dk)
 
 For this final part, I’d like for you to imagine you have recently filed for a new claim for compensation with the VA - you don’t need to be concerned about the other details of the claim for this exercise. 
 
