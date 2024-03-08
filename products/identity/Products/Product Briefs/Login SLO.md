@@ -84,7 +84,7 @@ N/A (as of this writing)
   
 ## Technical Considerations:
 | Issue         | Notes         | 
-| ------------- |:-------------:| 
+| ------------- |:-------------| 
 | VA Policy |  Is there VA policy surrounding availability & response times?     |
 | Industry Standards |  Are there industry standards surrounding availability & response times?     |
 
