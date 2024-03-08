@@ -1,10 +1,11 @@
 # Research Plan for [Health Enrollment Team, 10-10EZ, April 2024] - New Toxic Exposure Usability Study
 
 ## Background
-- Provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty. This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
+- Questions regarding toxic exposure were added to the online 10-10EZ form following the PACT act. This research will test the implementation of those questions within the online form.
+- These questions provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty. This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
+- The 10-10EZ Health care application can be completed both unauthenticated and authenticated. Some information can be prefilled for authenticated users but these new toxic exposure questions are not prefilled.
 
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
 
 [Link to initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/Toxic%20Exposure%20(TERA)%20questions%20-%20Initiative%20Brief.md).
 
