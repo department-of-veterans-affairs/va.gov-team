@@ -1,9 +1,9 @@
-# Updates to Chapter 31 and 36 Online Forms
+# Updates to Online Form Chapter 31
 **STATUS: In progress**
 
 **Team:** Non-disability experience
 
-**IA Request:** [Link to Sitewide Content and IA intake request]
+**IA Request:** [Link to Sitewide Content and IA intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75169)
 
 **On this page:**
 - [User/page flows](#flows)
@@ -20,7 +20,6 @@
 
 Team's [Mural for Ch 31 user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684161597392/5c1f8869cf5d03b792c8b82cf19b39dc26c486c2?sender=u79ee90295fdb006d7f463212)
 
-Team's [Mural for Ch 36 user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691434304975/3f0c405c820c184d21393b3bbd76324a5ee7c677?sender=u79ee90295fdb006d7f463212)
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
@@ -37,7 +36,7 @@ Team's [Mural for Ch 36 user flows](https://app.mural.co/t/departmentofveteransa
   - Placement description: Update link destination so users are routed directly into the form flow
   - Link label: Go to the online tool
   - Link destination: https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900
-  - Notes: Currently, the link directs users to the [How to apply page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/)
+  - Notes: Currently, the link directs users to the [How to apply page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/). Since users are coming to find a VA form with a specific form in mind, I think it would make sense to update the link so they're able to go right into the form flow.
 
 2. **[Veteran Readiness and Employment (Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/)** - Add
   - Placement description: Add a link to the form in the left nav as a child page under "Veteran Readiness and Employment". It will be the 4th option down within the other child pages.
