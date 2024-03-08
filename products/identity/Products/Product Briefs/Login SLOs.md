@@ -51,7 +51,7 @@ For this first iteration, the focus will be on:
 * We use the spikes to determine the proper course of action to resolve any service degradation for the Response Time SLOs.
 * We come up the SLO language.
 * We come up with a publishing schedule.
-* We have engineers monitor
+* We create a monitoring plan.
   
 ## Technical Considerations:
 | Issue         | Notes         | 
@@ -67,9 +67,10 @@ For this first iteration, the focus will be on:
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------:| 
-| SLOs are created |               |
-| A monitoring methodology is created |               |
+| 18 initial SLO are created |               |
+| A monitoring methodology is created & published |               |
 | A publishing schedule is created |               |
+| SLO are published on a regular basis |               |
 
 
 ## Baseline KPI Values:
