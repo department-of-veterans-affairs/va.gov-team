@@ -66,50 +66,28 @@ assignees: 'coforma-terry,sara-amanda'
 
 ###  Testing Schedule
 
-- Please enter the participants who are using assistive technology in table 1, along with the session times. 
-- CAIA A11ys will review the coverage needed, and self-assign, based on a11y availability.
+CAIA A11Ys will be looking for device and AT information. We realize that some of this information will not be available until the day of the session. 
 
-#### Table 1: Participants
+Please toggle and use the following table to enter the following information for each participant: Date and Time, Assistive tech (AT), Device and Operating System, Browser, and Skill level:
+
 
 <details><summary>Toggle to view the AT testing schedule</summary>
 
-P# | Sessions | Time Slots (ET) | CAIA A11ys Available
-------------------|------------------|--------------|--------------
-P# | `MONTH` `DAY`, 2024 |  11 a.m. **_Pilot Session_** | `Eli and Evan`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024 | `Start-End Time` | `TBD- Based on a11y availability`
-P# | `MONTH` `DAY`, 2024| `Start-End Time` | `TBD- Based on a11y availability`
-
-</details>
-
-### Device & AT Combinations
-
-CAIA A11Ys will be looking for device and AT information. We realize that some of this information will not be available until the day of the session. Please toggle and use the following table 2, to enter the following information for each participant: Assistive tech, Skill level, Operating system, Browser and Device Type.
-
-#### Table 2: Technology
-
-<details><summary>Toggle to view the device and AT combinations for each participant.</summary>
-
-**Participant Number** | Date of Research | **Assistive Tech** | **Skill Level** | **Operating System** | **Browser** |**Device Type** |
-|------------------------|------------------|--------------------|-----------------|----------------------|-------------|-------------|
-| _P #_                   | `MONTH` `DAY`, 2024         | Jaws, NVDA, ZoomText, Dragon, etc.  `TBD`        | Novice, Intermediate or Advanced  `TBD`     |  Windows PC or Apple  `TBD`  | Chrome, Safari, Firefox, etc.  `TBD`    | Desktop, Mobile or Tablet `TBD` |
-| _P #_                   | `MONTH` `DAY`, 2024        | Jaws, NVDA, ZoomText, Dragon, etc.  `TBD`        | Novice, Intermediate or Advanced  `TBD`     |  Windows PC or Apple  `TBD`  | Chrome, Safari, Firefox, etc.  `TBD`    | Desktop, Mobile or Tablet `TBD` |
-| _P #_                   | `MONTH` `DAY`, 2024        | Jaws, NVDA, ZoomText, Dragon, etc.  `TBD`        | Novice, Intermediate or Advanced  `TBD`     |  Windows PC or Apple  `TBD`  | Chrome, Safari, Firefox, etc.  `TBD`    | Desktop, Mobile or Tablet `TBD` |
-| _P #_                   | `MONTH` `DAY`, 2024         | Jaws, NVDA, ZoomText, Dragon, etc.  `TBD`        | Novice, Intermediate or Advanced  `TBD`     |  Windows PC or Apple  `TBD`  | Chrome, Safari, Firefox, etc.  `TBD`    | Desktop, Mobile or Tablet `TBD` |
-| _P #_                   | `MONTH` `DAY`, 2024         | Jaws, NVDA, ZoomText, Dragon, etc.  `TBD`        | Novice, Intermediate or Advanced  `TBD`     |  Windows PC or Apple  `TBD`  | Chrome, Safari, Firefox, etc.  `TBD`    | Desktop, Mobile or Tablet `TBD` |
-| _P #_                   | `MONTH` `DAY`, 2024       | Jaws, NVDA, ZoomText, Dragon, etc.  `TBD`        | Novice, Intermediate or Advanced  `TBD`     |  Windows PC or Apple  `TBD`  | Chrome, Safari, Firefox, etc.  `TBD`    | Desktop, Mobile or Tablet `TBD` ||                  |                    |                 |                      |             |         |
+P# | Date and Time (ET) | AT | Device and OS | Browser | Skill | CAIA A11ys Available
+------------------|------------------|--------------|--------------|--------------|--------------|--------------
+P# | #/#/24, #:##-#:## #m | VoiceOver, JAWS, etc `TBD` | Mobile or Desktop; Windows, MacOS, iOS, Android, etc. `TBD` | Safari, Chrome, etc. `TBD` | Novice, Intermediate, Advanced `TBD` | `TBD- Based on a11y availability`
+P# | #/#/24, #:##-#:## #m | VoiceOver, JAWS, etc `TBD` | Mobile or Desktop; Windows, MacOS, iOS, Android, etc. `TBD` | Safari, Chrome, etc. `TBD` | Novice, Intermediate, Advanced `TBD` | `TBD- Based on a11y availability`
+P# | #/#/24, #:##-#:## #m | VoiceOver, JAWS, etc `TBD` | Mobile or Desktop; Windows, MacOS, iOS, Android, etc. `TBD` | Safari, Chrome, etc. `TBD` | Novice, Intermediate, Advanced `TBD` | `TBD- Based on a11y availability`
 
 - **Consideration**: You can also consider asking participants more specific AT and device combinations. 
 - **For instance:** TalkBack on Samsung Galaxy 8, or VoiceOver on iPad with magnification.
 
 </details>
+
+CAIA A11ys will review the coverage needed, and self-assign, based on a11y availability.
+
+
+
 
 ## Supporting artifacts 
 
