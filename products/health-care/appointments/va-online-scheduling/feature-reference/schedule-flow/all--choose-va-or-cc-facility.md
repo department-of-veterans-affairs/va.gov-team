@@ -24,9 +24,9 @@ Veterans are asked to choose where they'd like to receive their care between a V
 
 ## Specifications
 
-[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=160-31731&t=Rk531E1jSdxJnizH-4) 
+[User flow](https://www.figma.com/file/ugE1APC20v8OcArGB2IMQy/Appointments-User-Flows-%7C-Appointments-FE?type=design&node-id=1-3562&mode=design&t=H2qcQg0qhIJUtoOT-4) 
 
-[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2404%3A52946&mode=design&t=UYf6hcbnuK23Qdxf-1)
+[Page template](https://www.figma.com/file/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?type=design&node-id=2403-55303&mode=design)
 
 [Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#choose-va-or-cc-facility:~:text=Choose%20VA%20or%20CC%20facility)
 
