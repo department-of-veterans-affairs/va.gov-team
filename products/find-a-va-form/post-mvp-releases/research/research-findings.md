@@ -409,7 +409,7 @@ Disability and Assistive Technology:
 * AT intermediate: 3
 * AT advanced user: 1
 * Desktop screen reader: 3 (2 JAWS on Windows, 1 VoiceOver on Mac)
-* Mobile screen reader): 1 (VoiceOver on iPad)
+* Mobile screen reader: 1 (VoiceOver on iPad)
 
 
 ## Underserved groups we haven’t talked to 
