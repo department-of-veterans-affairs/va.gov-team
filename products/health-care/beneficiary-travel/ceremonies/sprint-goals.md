@@ -1,6 +1,19 @@
-# BTSSS on VA.gov Sprint Goals
+# BTSSS on VA.gov Sprint Goals 
 
-## 2/11/2024-2/23/2024
+## 3/11/2024 - 3/22/2024
+### Goals
+* Engineering: Develop work on the scaffold that reflects a full flow for the API
+* Design: Develop final designs
+* Research: Finalize research plans
+
+## 2/26/2024 - 3/8/2024
+### Goals 
+* Design: To get consensus around design, look, and feel direction to determine next steps
+* Engineering: Back-end / API portion of the BTSSS team; Have changes ready on the front end (end-to-end flow available for the front end page)
+* Research goal: Study around design proposals
+
+
+## 2/11/2024 - 2/23/2024
 ### Goals
 - Continue integration prep, including how auth interacts with integration
 - Share out results from research and determine action items resulting from research readout
