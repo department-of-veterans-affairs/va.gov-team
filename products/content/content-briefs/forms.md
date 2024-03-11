@@ -54,6 +54,9 @@ Examples of mid-flow **and** end of flow file upload:
 - How to handle optional files
 - When to use "file" vs "document" vs "evidence" vs "records"
 
+- Records and documents turn into evidence when they're attached to a claim
+- 
+
 ## Hint text
 Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
 
