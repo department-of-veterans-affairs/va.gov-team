@@ -63,3 +63,11 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Link to study:** [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md)
 - **Takeaway**: [Relevant finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#participants-were-most-confused-that-two-different-sites-list-their-appointments)
 
+
+### Study name: Ask VA: Submit an inquiry (Round 1)
+- **Team/Researcher:** Ask VA, Tyler Gindraux
+- **Date:** February 2024
+- **Link to study:** [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md)
+- **Takeaway**: Many Veterans shared issues they have with signing in. One participant in particular mentioned being 'kicked out' and having to sign back in, sometimes multiple times in a day:
+
+> "There is never anything that says, 'Remember this device.' There have been times where I've had to log in multiple times during the day and every time I got to wait on that doggone secure access code verification code, whatever you want to call it. I mean, this is a desktop computer. I'm not taking it anywhere. I'm mobility challenged. That kind of stuff, not being able to just click it to sign in. Remember this device."
