@@ -32,11 +32,11 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`DEERS (Defense Enrollment Eligibility Reporting System)`|...|
 |`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
 |`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
-|`Guardianship, custodianship, or fiduciary issues`|...|
+|`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
 |`Health care`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Housing assistance and home loans`|...|
 |`Life insurance`|...|
-|`Pension`|...|
+|`Pension`|Email, phone and US Mail are always `ENABLED`|
 |`Sign in and technical issues`|...|
 |`Survivor benefits`|Email, phone and US Mail are always `ENABLED`|
 |`Veteran ID Card (VIC)`|...|
