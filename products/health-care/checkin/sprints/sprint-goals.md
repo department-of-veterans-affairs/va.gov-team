@@ -54,9 +54,9 @@ ________________________________________________________________________________
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟥 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
-        - TBD
+        - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
-        - TBD
+        - 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
         
 ------- END FUTURE / TENTATIVE ------
 </details>
@@ -95,7 +95,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
         - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
-        - ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
+        - ✔️ ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
         - ❗ 🟩 [[FE] Create E2E tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75711)
         - ❗ 🟩 [Midpoint Review - Accessibility Feedback - Modernized Check-in, eCheck-in, Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77000)
         - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
