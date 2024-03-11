@@ -1,6 +1,6 @@
 # List of contact options
 
-Last updated by @tygindraux: March 7, 2024 
+Last updated by @beckyphung: March 11, 2024
 
 **Update**: We've recommended that US mail be removed. We're currently confirming with business lines and tracking responses in this document.
 
@@ -33,7 +33,7 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
 |`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|...|
-|`Health care`|...|
+|`Health care`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Housing assistance and home loans`|...|
 |`Life insurance`|...|
 |`Pension`|...|
