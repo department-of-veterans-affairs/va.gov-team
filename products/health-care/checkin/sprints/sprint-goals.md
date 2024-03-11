@@ -9,7 +9,8 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
     - **Sub Goals: Submit Q1 Translations to the State Department**
@@ -28,27 +29,34 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟦 [Rotate AWS Keys - March 26, 2025 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+        - ❗ 🟩 [[FE] Change content on ID verification page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78019)
         - ❗ 🟩 [[FE] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
         - ❗ 🟩 [[FE] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
-        - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+        - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites**
+        - TBD
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
     - **Sub Goals: Submit Q1 Translations to the State Department**
-        - 🟪 [[UX] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
+        - 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
-- **GOAL: Discovery**
-    - TBD
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
+    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
+        - 🟥 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
+    - **Sub Goal: Move to New AWS Instance**
+        - TBD
+    - **Sub Goal: DevOps Improvements**
+        - TBD
         
 ------- END FUTURE / TENTATIVE ------
 </details>
