@@ -65,7 +65,7 @@
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
-- Service Blueprint with 45MR and filing BT claim [[Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286) [[Download PDF]](https://github.com/department-of-veterans-affairs/va.gov-team/files/14560897/PCI.Service.Blueprint_2024-03-11_15-32-02.pdf)
+- PCI Service Blueprint with 45MR, filing BT claim and "Are you at the facility?" page [[Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286) [[Download PDF]](https://github.com/department-of-veterans-affairs/va.gov-team/files/14560897/PCI.Service.Blueprint_2024-03-11_15-32-02.pdf) [[Download from SharePoint]](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/Ec8XLnzURmlBkvUn0uGs2xIBs_wvb9M_NrUHMULmwGKvjg?e=ZlSzUL)
 
 #### Priorities, Backlog, Sprints
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
