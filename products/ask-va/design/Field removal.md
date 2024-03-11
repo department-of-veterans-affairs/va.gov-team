@@ -7,8 +7,9 @@ Last updated by @beckyphung: March 8, 2024
 |Chapter in Ask VA|Field|
 |:--|:--|
 |Your question|[Tell us the reason you’re contacting us?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#tell-us-the-reason-youre-contacting-us)|
-|Pronouns|[Pronouns](#pronouns)|
 |Gender|[Gender](#gender)|
+|Pronouns|[Pronouns](#pronouns)|
+|VA employee|[Are you currently a VA employee?](#are-you-currently-a-va-employee)|
 |Personal information|[Veteran's Service Start Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
 |Personal information|[Veteran's Service End Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
 |Personal information|[Veteran's Claim Number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-claim-number)|
@@ -63,7 +64,24 @@ If we do have to collect pronouns, we would only collect them from the subject o
 
 ### Next step
 - We will recommend to the CCB that this field is removed from the form.
-  
+
+## Are you currently a VA employee?
+This field is currently optional, but it has a default prefilled "No" response. It isn't asked for "About Me, the Veteran." It also allows a "Yes" answer. If an inquiry is flagged as a sensitive record because they answered "Yes" to the employee question, then the agent sees a modal that asks them to acknowledge that they're opening sensitive information.
+
+We will remove this field because: 
+- Submitters think the answer to this question affects how agents will respond to them. It also seems irrelevant. See [findings from our research study in January 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md#finding-1-veterans-past-experiences-and-trust-in-va-impacts-how-they-perceive-questions-and-what-information-theyre-comfortable-sharing)
+> 'Are you a VA employee?' Why this is here? [...] Because it means if you're [an] employee, instead of waiting 6 months to get an answer then [they] answer you right away?
+> 
+> I don't know if you're precluded from being seen at the VA if you're an employee there, I don't know. Not sure on that one.
+>
+> I'm trying to get an appointment here for a hearing aid. A hearing test. What does that have to do with whether I work for the VA or not?
+- We don't need this data from submitters. We can pull pull the ICN from our authentication partners. Then MPI (already integrated with PATS-R) will tell CRM if a submitter is an employee. We can display the "Employee" designation for the agent to see and acknowledge.
+- This does not have a negative impact on level of service or reporting. No LoB is using AVA to report on sensitive record access
+- Unauthenticted users do not need to provide this field because we can't verify who the submitter is.
+
+### Next step
+- We will remove this field, and it does not require a vote from the Ask VA Change Control Board. We confirmed this with the Ask VA business team.
+
 ## Veteran's Service Start and End Dates
 These fields are currently optional. They ask for the Veteran's Start and End Dates.
 
