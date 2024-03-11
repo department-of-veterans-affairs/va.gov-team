@@ -68,4 +68,6 @@
 
 ## Example Postman Call
 
+https://dev.integration.d365.va.gov/vagov.lob.ava/api/InquiryStatus?OrganizationName=iris-dev&InquiryNumber=A-20240124-306903
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/c271d6ba-dc8c-4ae8-89cc-2368830525ca)
