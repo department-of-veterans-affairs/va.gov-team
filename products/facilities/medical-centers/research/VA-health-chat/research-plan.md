@@ -65,31 +65,26 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 - Cohort 6 - 
 
 **Pre-activity questions**
-1. Which option most accurately describes your relationship to the Veteran in your life?
+1. Which option most accurately describes you?
   - I'm a Veteran
   - I'm the family member or caregiver of a Veteran
 
 **Tasks**
-*Cohorts 1-4 (Veterans; Veteran's spouses and dependents)*
+*All cohorts (Veterans; Veteran's spouses and dependents; Caregivers)*
 1. You want to make a healthcare appointment at a VA medical center using online chat.
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 1. You want to call someone to make a healthcare appointment at a VA medical center.
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 1. You'd like to call someone to refill a prescription.
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 1. You'd like to use online chat to refill a prescription.
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 1. You'd like to ask a nurse a question about a health concern.
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 1. You'd like to ask someone on your health care team about a health concern. 
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities* 
 1. You want to schedule a phone or video call with a doctor.
-1.
-1.
-1.
-
-*Cohorts 4-6 (Caregivers)*
-1. You want to make a healthcare appointment at a VA medical center using online chat.
-1. You want to call someone to make a healthcare appointment at a VA medical center.
-1. You'd like to call someone to refill a prescription.
-1. You'd like to use online chat to refill a prescription.
-1. You'd like to ask a nurse a question about a health concern.
-1. You'd like to ask someone on your health care team about a health concern. 
-1. You want to schedule a phone or video call with a doctor.
+*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 
 
 ## Recruitment	
