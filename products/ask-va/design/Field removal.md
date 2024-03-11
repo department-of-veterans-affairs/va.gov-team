@@ -1,7 +1,7 @@
 # Field removal
 Ask VA VA.gov Team
 
-Last updated by @beckyphung: March 7, 2024
+Last updated by @beckyphung: March 8, 2024
 
 ## List of fields to remove
 |Chapter in Ask VA|Field|
@@ -70,7 +70,7 @@ These fields are currently optional. They ask for the Veteran's Start and End Da
 We recommend removing these fields because [business lines don't need this information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#claim-number)
 
 ### Next step
-- We will recommend to the CCB that these fields are removed from the form.
+- We will remove these fields. We [confirmed with business lines individually](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information).
 
 ## Veteran's Claim Number
 This field is currently optional. It asks for the Veteran's Claim Number.
@@ -78,4 +78,4 @@ This field is currently optional. It asks for the Veteran's Claim Number.
 We recommend removing this field because [business lines don't need this information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#claim-number)
 
 ### Next step
-- We will recommend to the CCB that this field is removed from the form.
+- We will remove these fields. We [confirmed with business lines individually](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Feedback%20on%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information).
