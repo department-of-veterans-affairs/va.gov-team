@@ -52,7 +52,7 @@ Examples of mid-flow **and** end of flow file upload:
 
 ### Other open questions:
 - How to handle optional files
-- When to use "file" vs "document" vs "evidence"
+- When to use "file" vs "document" vs "evidence" vs "records"
 
 ## Hint text
 Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
