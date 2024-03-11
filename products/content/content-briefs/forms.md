@@ -42,7 +42,8 @@ Examples of mid-flow **and** end of flow file upload:
 
 **Suggested approach to discuss:** 
 - List required documents on the static entry page and form intro page to help people gather what they need before starting the form.
-- Ask for all documents at the end of the form flow. Don't interrupt the form questions with document upload screens.
+- Ask for all documents at the end of the form flow. Don't interrupt the form questions with required document upload screens.
+- If an answer triggers the need for another document, tell the user that we'll ask for that document at the end, but don't require upload until the end.
 - When you ask for documents at the end, dynamically request only the documents each user needs to provide, based on their answers.
 
 ### Question 2: Ask for files dynamically based on answers vs. list all possible files with conditional statements?
@@ -51,7 +52,7 @@ Examples of mid-flow **and** end of flow file upload:
 
 ### Other open questions:
 - How to handle optional files
-- When to use "file" vs "document"
+- When to use "file" vs "document" vs "evidence"
 
 ## Hint text
 Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
