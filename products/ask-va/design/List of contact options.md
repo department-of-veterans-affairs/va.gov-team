@@ -35,8 +35,8 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
 |`Health care`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
-|`Housing assistance and home loans`|...|
-|`Life insurance`|...|
+|`Housing assistance and home loans`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
+|`Life insurance`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Pension`|Email, phone and US Mail are always `ENABLED`|
 |`Sign in and technical issues`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Survivor benefits`|Email, phone and US Mail are always `ENABLED`|
@@ -121,27 +121,27 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Health care`|Prosthetics|✅|✖️|✖️|
 |`Health care`|Women's health services|✅|✅|✖️|
 |`Health care`|Foreign Medical Program|✅|✅|✖️|
-|`Housing assistance and home loans`|Appraisals|✅|✅|✅|
-|`Housing assistance and home loans`|Funding fee refund|✅|✅|✅|
-|`Housing assistance and home loans`|Home Loan Certificate of Eligibility (COE) or Restoration of Entitlement (ROE)|✅|✅|✅|
-|`Housing assistance and home loans`|Help to avoid foreclosure|✅|✅|✅|
-|`Housing assistance and home loans`|Native American Direct Loan (NADL)|✅|✅|✅|
-|`Housing assistance and home loans`|Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants|✅|✅|✅|
-|`Housing assistance and home loans`|Home loan benefits|✅|✅|✅|
-|`Housing assistance and home loans`|Homes for sale by VA|✅|✅|✅|
-|`Housing assistance and home loans`|Property titles and taxes for homes sold by VA|✅|✅|✅|
-|`Life insurance`|Insurance claims|✅|✅|✅|
-|`Life insurance`|Insurance premiums|✅|✅|✅|
-|`Life insurance`|Insurance website issues|✅|✅|✅|
-|`Life insurance`|Accessing your policy online|✅|✅|✅|
-|`Life insurance`|Policy loans|✅|✅|✅|
-|`Life insurance`|Service-Disabled Veterans Life Insurance (S-DVI)|✅|✅|✅|
-|`Life insurance`|Servicemembers’ Group Life Insurance (SGLI)|✅|✅|✅|
-|`Life insurance`|Family Servicemembers’ Group Life Insurance (FSGLI)|✅|✅|✅|
-|`Life insurance`|Veterans’ Group Life Insurance (VGLI)|✅|✅|✅|
-|`Life insurance`|Veterans’ Mortgage Life Insurance (VMLI)|✅|✅|✅|
-|`Life insurance`|Veterans Affairs Life Insurance (VALife)|✅|✅|✅|
-|`Life insurance`|Other|✅|✅|✅|
+|`Housing assistance and home loans`|Appraisals|✅|✅|✖️|
+|`Housing assistance and home loans`|Funding fee refund|✅|✅|✖️|
+|`Housing assistance and home loans`|Home Loan Certificate of Eligibility (COE) or Restoration of Entitlement (ROE)|✅|✅|✖️|
+|`Housing assistance and home loans`|Help to avoid foreclosure|✅|✅|✖️|
+|`Housing assistance and home loans`|Native American Direct Loan (NADL)|✅|✅|✖️|
+|`Housing assistance and home loans`|Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants|✅|✅|✖️|
+|`Housing assistance and home loans`|Home loan benefits|✅|✅|✖️|
+|`Housing assistance and home loans`|Homes for sale by VA|✅|✅|✖️|
+|`Housing assistance and home loans`|Property titles and taxes for homes sold by VA|✅|✅|✖️|
+|`Life insurance`|Insurance claims|✅|✅|✖️|
+|`Life insurance`|Insurance premiums|✅|✅|✖️|
+|`Life insurance`|Insurance website issues|✅|✅|✖️|
+|`Life insurance`|Accessing your policy online|✅|✅|✖️|
+|`Life insurance`|Policy loans|✅|✅|✖️|
+|`Life insurance`|Service-Disabled Veterans Life Insurance (S-DVI)|✅|✅|✖️|
+|`Life insurance`|Servicemembers’ Group Life Insurance (SGLI)|✅|✅|✖️|
+|`Life insurance`|Family Servicemembers’ Group Life Insurance (FSGLI)|✅|✅|✖️|
+|`Life insurance`|Veterans’ Group Life Insurance (VGLI)|✅|✅|✖️|
+|`Life insurance`|Veterans’ Mortgage Life Insurance (VMLI)|✅|✅|✖️|
+|`Life insurance`|Veterans Affairs Life Insurance (VALife)|✅|✅|✖️|
+|`Life insurance`|Other|✅|✅|✖️|
 |`Pension`|Aid and Attendance or Housebound benefits|✅|✅|✅|
 |`Pension`|Direct deposit|✅|✅|✅|
 |`Pension`|How to apply for pension benefits|✅|✅|✅|
