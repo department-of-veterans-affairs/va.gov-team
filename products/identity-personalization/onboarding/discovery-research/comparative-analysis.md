@@ -113,7 +113,7 @@ In this example, Netflix asks the user for personal information for maturity set
 
 By asking a new user to choose a primary goal from 3 options, LinkedIn is teaching them about the 3 main tasks they could complete on the site.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-linked-in-flow-step-3.png"  alt="Screenshot from LinkedIn, asking the user to choose their main goal from 3 items." />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-linked-in-flow-step-3.png"  alt="Screenshot from LinkedIn, asking the user to choose their main goal from 3 items." width="375" />
 
 ## Opportunities
 If further research indicates there are problems a VA.gov onboarding solution can solve, there are some ideas drawn from this analysis that would likely work well to achieve specific goals:
