@@ -27,9 +27,7 @@ A tool for Veterans to schedule and manage their appointments online.
 **Survey URL(s), key term(s), case category or type**
 
 ```
-Keywords (from any URL): appointment, appt, schedule
-
-AND all comments under and including these URLS and all of their sub-URLs:
+All comments under and including these URLS and all of their sub-URLs:
 
 - https://www.va.gov/health-care/schedule-view-va-appointments/
 - https://www.va.gov/my-health/appointments
@@ -45,21 +43,21 @@ All in one file, on one tab
 
 ### Medallia Feedback Requests - Q1 2024
 
-| Dates                 | Submitted By | Ticket | Status |
-| --------------------- | ------------ | ---- | ------ |
-| Week 1 Dec 31–Jan 06  | Peter Russo  | [73165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73165) | Done       |
-| Week 2 Jan 07–Jan 13  | Peter Russo  | [73698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73698) | Done       |
-| Week 3 Jan 14–Jan 20  | Peter Russo  | [74120](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74120) | Done        |
-| Week 4 Jan 21–Jan 27  | Peter Russo  | [74718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74718) | Done        |
-| Week 5 Jan 28–Feb 03  | Peter Russo  | [75305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75305) | Done    |
-| Week 6 Feb 04–Feb 10  |  Peter Russo | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) |  Done      |
-| Week 7 Feb 11–Feb 17  |  Peter Russo            | [76684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76684) | Done       |
-| Week 8 Feb 18–Feb 24  |  Peter Russo            | [77057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77057) | Done |
-| Week 9 Feb 25–Mar 02  |  Peter Russo            | [77550](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77550) | In progress      |
-| Week 10 Mar 03–Mar 09 |  Peter Russo            | []() |        |
-| Week 11 Mar 10–Mar 16 |  Leah De La Costa       | []() |        |
-| Week 12 Mar 17–Mar 23 |  Leah De La Costa       | []() |        |
-| Week 13 Mar 24–Mar 30 |  Leah De La Costa       | []() |        |
+| Dates                 | Submitted By        | Ticket                                                                              | Status      |
+| --------------------- | ------------------- | ----------------------------------------------------------------------------------- | ----------- |
+| Week 1 Dec 31–Jan 06  |  Peter Russo        | [73165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73165) | Done        |
+| Week 2 Jan 07–Jan 13  |  Peter Russo        | [73698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73698) | Done        |
+| Week 3 Jan 14–Jan 20  |  Peter Russo        | [74120](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74120) | Done        |
+| Week 4 Jan 21–Jan 27  |  Peter Russo        | [74718](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74718) | Done        |
+| Week 5 Jan 28–Feb 03  |  Peter Russo        | [75305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75305) | Done        |
+| Week 6 Feb 04–Feb 10  |  Peter Russo        | [75850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75850) | Done        |
+| Week 7 Feb 11–Feb 17  |  Peter Russo        | [76684](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76684) | Done        |
+| Week 8 Feb 18–Feb 24  |  Peter Russo        | [77057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77057) | Done        |
+| Week 9 Feb 25–Mar 02  |  Peter Russo        | [77550](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77550) | Done        |
+| Week 10 Mar 03–Mar 09 |  Peter Russo        | [78030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78030) | In progress |
+| Week 11 Mar 10–Mar 16 |  Leah De La Costa   | []() |        |
+| Week 12 Mar 17–Mar 23 |  Leah De La Costa   | []() |        |
+| Week 13 Mar 24–Mar 30 |  Leah De La Costa   | []() |        |
 
 
 ### Medallia Feedback Requests - Q2 2024
