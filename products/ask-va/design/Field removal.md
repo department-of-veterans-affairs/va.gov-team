@@ -76,8 +76,8 @@ We will remove this field because:
 >
 > I'm trying to get an appointment here for a hearing aid. A hearing test. What does that have to do with whether I work for the VA or not?
 - We don't need this data from submitters. We can pull pull the ICN from our authentication partners. Then MPI (already integrated with PATS-R) will tell CRM if a submitter is an employee. We can display the "Employee" designation for the agent to see and acknowledge.
-- This does not have a negative impact on level of service or reporting. No LoB is using AVA to report on sensitive record access
-- Unauthenticted users do not need to provide this field because we can't verify who the submitter is.
+- This does not have a negative impact on level of service or reporting. No line of business is using Ask VA to report on sensitive record access.
+- Unauthenticted users do not need to provide this field because we can't verify who the submitter is anyway.
 
 ### Next step
 - We will remove this field, and it does not require a vote from the Ask VA Change Control Board. We confirmed this with the Ask VA business team.
