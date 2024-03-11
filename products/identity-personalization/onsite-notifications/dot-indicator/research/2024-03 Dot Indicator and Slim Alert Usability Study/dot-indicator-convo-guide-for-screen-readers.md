@@ -21,7 +21,7 @@
 Thanks for joining us today! My name is Matt. Today we're going to be reviewing some new features being considered for the website VA.gov.
 
 Before we dive into it, could you please verify if you'll be using a screen reader for the session?
-- *If no, switch to [sighted user conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/dot-indicator-convo-guide.md).
+- *If no, switch to [sighted user conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/dot-indicator-convo-guide.md).
 - *If yes, ask:* Okay, what kind of screen reader is it, and what kind of computer are you on?
 
 Okay, got it. Thank you! Before we start, a few things I want to mention:
