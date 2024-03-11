@@ -68,9 +68,9 @@ Great, I can see your screen. For this exercise, I'm going to ask for you to pre
 
 ### Move on to badge indicators
 
-Ok great. I have another [link to share with you](https://bit.ly/3wMJtbU). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
+I have another [link to share with you](https://bit.ly/3wMJtbU). This will take you to a different, slimmed down version of the same page. Again, if you need help, we're here to assist. 
 
-- Can you navigate the page and tell me what you think as you hear what's on the page.
+- Can you navigate the page and tell me what you think as you hear what's on it?
 
 - Which is more helpful for you: hearing the number of items that need your attention versus what you heard before on the previous version of the page, being told when there are updates for you but without specific numbers?
   
