@@ -376,8 +376,6 @@ Way back when, when we actually put stuff into databases in the Navy, I was part
 	- All participants reported seeing accurate data, and there seemed to be genuine appreciation in the specificity of service types. 
 	- If incorporating service type, investigate data around the natural guard.
 
-> [!NOTE] add service type example.png
-
 ![Service type mockup example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/service%20type%20example.png)
 
 - Recommendation 2: Consider incorporating `characterOfDischargeText`.
