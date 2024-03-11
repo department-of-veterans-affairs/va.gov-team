@@ -26,8 +26,8 @@ All pages have ratings of 2 or below.
 
 - **Breakdown of resources and support scores by thirds:**
   - 45% (46 out of 102) R&S pages have a 75% or higher "good" score
-  - 25% (26 out of 102) R&S pages have a 75% or higher "good" score
-  - 30% (30 out of 102) R&S pages have a 75% or higher "good" score
+  - 25% (26 out of 102) R&S pages have a 51% - 74% "good" score
+  - 30% (30 out of 102) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:**
  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/42f073a7-8335-4a27-aca6-cc87cd876e12)
