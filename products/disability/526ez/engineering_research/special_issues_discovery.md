@@ -5,7 +5,7 @@ This document is to consolidate information around the handling of "special issu
 ## Questions
 
  1. Does EVSS set any flashes or special issues based on any logic, or do they just accept flashes & special issues from the submission system ([thread](https://dsva.slack.com/archives/C1VBAHWQL/p1709238467657079))?
-- EVSS does not have any logic on flashes. EVSS does not automatically calculate any special issues. It has to be explicitly specified.
+- EVSS does not have any logic on flashes. EVSS does not automatically calculate any special issues- **except for GWPAH and VDC** (which are derived by EVSS from classification code and calculated contention, then uploaded by them to VBMS). Otherwise, they have to be explicitly specified in the submit request.
 - EVSS accepts the following special issues: 
 	- "ALS"
 	- "GWPAH"
