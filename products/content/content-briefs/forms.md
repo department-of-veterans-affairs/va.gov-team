@@ -36,6 +36,15 @@ Examples of mid-flow **and** end of flow file upload:
 - [1010D CHAMPVA](https://www.figma.com/file/HVQQBvkS9DJlNVehCwva4m/10-10d-Midpoint-Review?type=design&node-id=0-1&mode=design&t=nxuvEX0dZ9CSwBQe-0) asks for all files twice — once mid-flow after related questions, and again at the end of the flow
 - [example] asks for all files at the end
 
+**Research readout from 526 shadow study**
+- Participants didn't have the docs prepared before they started, and said they would want to gather them first.
+- Form didn't let them continue past mid-flow doc upload screens to answer the rest of the questions, and this led to form abandonment.
+
+**Suggested approach to discuss:** 
+- List required documents on the static entry page and form intro page to help people gather what they need before starting the form.
+- Ask for all documents at the end of the form flow. Don't interrupt the form questions with document upload screens.
+- When you ask for documents at the end, dynamically request only the documents each user needs to provide, based on their answers.
+
 **Variation 2:** Asking for files dynamically based on answers vs. listing all possible files with conditional statements
 
 **Variation 3:** Using one-file-per-page upload screens vs. multi-file upload screens
