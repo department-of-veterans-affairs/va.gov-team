@@ -50,6 +50,8 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 To start off, how often do you visit VA.gov? What do you use the website for?
 
+Do you know if you have a disability rating? If so, what is it? 
+
 Okay, now I'm going to send you a weblink to take you to our prototype. We are using a tool called CodePen for this prototype, so if you hear any mention of it, that's totally normally and nothing to be concerned about.
 
 Are you okay if I send this in Zoom's chat, or would you prefer to receive it another way, like email? (If they want email, contact Perigean)
