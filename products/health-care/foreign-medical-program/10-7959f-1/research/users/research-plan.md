@@ -186,7 +186,6 @@ Preference for working hours, but full availability is listed here to accommodat
 
 
 
-* March 15, 2024: 8:00am - 9:00am, 12:45pm - 6pm EST
 * March 18, 2024: 2:00pm - 4:00pm, 8:00pm - 9:00pm EST
 * March 19, 2024: 8:00am - 11:00am, 2:45 - 4:30 pm EST
 * March 20, 2024: 8:00am - 11:00am, 12:00pm - 1:00pm, 4:00pm - 9:00pm EST
@@ -197,6 +196,7 @@ Preference for working hours, but full availability is listed here to accommodat
 * March 27, 2024: 8:00am - 11:00am, 12:00pm - 1:00pm, 5:00pm - 9:00pm EST
 * March 28, 2024: 8:00am - 11:30am EST, 5:00 - 9:00pm EST
 * March 29, 2024: 8:00am - 12:00pm, 12:30pm - 5:00PM EST
+* April 1, 2024: 2:00pm - 5:00pm, 8:00pm - 9:00pm EST
 
 
 ## Team Roles
