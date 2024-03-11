@@ -81,7 +81,7 @@
 **BE**
 - BE support tickets from Tom
 
-#### V3 migration
+#### V3 migration & updates
 - final review of components to ensure no issues with cutoff in March
 
 ### VA.gov Onboarding
@@ -125,8 +125,8 @@
 **BE**
 - BE support tickets from Tom
 
-#### V3 migration
-- ...
+#### V3 migration & updates
+- Audit custom components to see what could be converted to design system components
 
 ### VA.gov Onboarding
 **PM**
@@ -170,8 +170,8 @@
 **BE**
 - BE support tickets from Tom
 
-#### V3 migration
-- ...
+#### V3 migration & updates
+- Do comparison  
 
 ### VA.gov Onboarding
 **PM**
