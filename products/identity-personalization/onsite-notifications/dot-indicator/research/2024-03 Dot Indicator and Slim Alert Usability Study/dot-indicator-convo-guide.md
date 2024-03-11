@@ -38,7 +38,9 @@ Before we start, a few things I want to mention:
 
 ### Dot indicators
 
-Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/3TsleZe), and then for you to share your screen with me. Let me know if you need any help doing that.
+To start off, how often do you visit VA.gov? What do you use the website for?
+
+Okay, now I'm going to send you a weblink to take you to our prototype. Now I'm going to ask you to open the [link I've shared with you in Zoom chat](https://bit.ly/3TsleZe), and then for you to share your screen with me. Let me know if you need any help doing that.
 
 Okay great, I can see your screen. By the way, if you see anything referring to CodePen while viewing this, it's just a tool we use to create prototypes and nothing out of the ordinary. 
 
