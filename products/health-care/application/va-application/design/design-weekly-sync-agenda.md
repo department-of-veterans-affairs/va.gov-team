@@ -1,5 +1,19 @@
 # Design Weekly Sync Agenda
 
+## 2024-03-11
+Attendees: Angela, Hieu, Jessica, & Kristen.
+
+- TERA Mural Board, consider splitting the exposure based on region.
+- Jessica has started the mural board for TERA questions
+- Registration-Only User Journey Mural
+  - Reg vs Enrollment is still an issue
+  - Kristen: consider new patients vs existing patients (only registered at certain sites, this would be extending to new locations) on the map
+  - We’re the lead in understanding lead benefits, other teams are “after registration” such as the appointment section
+  - How much info should show up on MHV landing page vs the Profile.
+  - Ranking of the biggest impact of which concept (we only went on the biggest Reg Only reason).
+  - Kristen wants to see an MVP proposal, ideal if it can incorporate multiple reasons. 
+
+
 ## 2024-03-04
 Attendees: Angela, Hieu, Jessica, & Katelyn.
 
