@@ -8,6 +8,7 @@ Jump to:
 - [How this pattern works](#how-this-patterns-works)
 - [When to enable or disable contact options](#when-to-enable-or-disable-contact-options)
 - [Contact rules by topic](#contact-rules-by-topic)
+- [Reason for keeping US mail](#reason-for-keeping-US-mail)
 
 ## How this pattern works
 
@@ -29,7 +30,7 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Center for Women Veterans`|Email and US mail are always `ENABLED`, phone is always `DISABLED`|
 |`Debt for benefit overpayments and copay bills`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Decision reviews and appeals`|Email, phone and US Mail are always `ENABLED`|
-|`DEERS (Defense Enrollment Eligibility Reporting System)`|...|
+|`DEERS (Defense Enrollment Eligibility Reporting System)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Disability compensation`|Email, phone and US Mail are always `ENABLED`|
 |`Education benefits and work study`|Varies by topic (see [contact rules by topic](#contact-rules-by-topic))|
 |`Guardianship, custodianship, or fiduciary issues`|Email, phone and US Mail are always `ENABLED`|
@@ -37,9 +38,9 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Housing assistance and home loans`|...|
 |`Life insurance`|...|
 |`Pension`|Email, phone and US Mail are always `ENABLED`|
-|`Sign in and technical issues`|...|
+|`Sign in and technical issues`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Survivor benefits`|Email, phone and US Mail are always `ENABLED`|
-|`Veteran ID Card (VIC)`|...|
+|`Veteran ID Card (VIC)`|Email is always `ENABLED`, phone and US Mail are always `DISABLED`|
 |`Veteran Readiness and Employment`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
 
 ### Contact rules by topic
@@ -159,3 +160,27 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Veteran Readiness and Employment`|How to apply|✅|✅|✅|
 |`Veteran Readiness and Employment`|Follow up on application or contact counselor|✅|✅|✅|
 |`Veteran Readiness and Employment`|Other|✅|✅|✅|
+
+### Reason for keeping US mail
+In March 2024, we documented some reasons why the following business lines wanted to keep the US mail option for their category and/or topic.
+
+#### Decision reviews and appeals
+From a sample of data from November 2023 to January 2024, we found that only 2% of inquiries preferred to be contacted by US mail. Of those 2% of inquiries that prefer to be contacted by US mail, 86% of inquiries that refer US mail are submitted under the “Appeals of Denied Claims” category. And of those 86% of inquiries, 96% are submitted under the “Higher-Level Review” topic.
+
+The business line stakeholder explained that sending a response via US mail "allows another avenue to resolve the inquiry and respond." If the submitter selects US mail, the agents curently "add a note to the resolution/resolved portion that states a letter was requested and sent to the Veteran."
+
+#### Pension and Guardianship, custodianship, or fiduciary issues
+Leadership from the Pension & Fiduciary (P&F) team considered the population of claimants they served. The population includes older Veterans, widows/widowers, other vulnerable poulations, etc. They wanted to keep the US mail option in particular for these claimants. 
+
+#### Categories and topics answered by the VBA-All Response Team (ART)  
+This reasoning applies to all categories and topics answered by the VBA-All Response Team (ART) queue. This queue is also known as the National Call Center (NCC) Agents for All Response Team (ART) queue.
+
+These are categories and topics this queue handles: 
+- Benefits issues outside the U.S. (Topic: Disability compensation)
+- Disability compensatin
+- Debt for benefit overpayments and health care copay bills (Topic: Separation pay overpayments)
+- Debt for benefit overpayments and health care copay bills (Topic: Severance pay overpayments)
+- Survivor Benefits;Burials and memorials (Topic: Burial allowance)
+
+The business line stakeholder provided the following reason for keeping US mail:
+> We need to be uniform in response options offered across our business line. To allow return phone calls/emails/letters during 7 million+ annual contacts in the National Contact Centers,  285k+ with our Public Contact Teams, then restrict reply options in 100k inquiries simply because of the mechanism used to ask a question is neither consistent nor customer-centric.
