@@ -35,7 +35,7 @@ Goal 3: Identify pain points that may hinder user’s ability to complete the fo
 
 ### Outcome
 
-These learnings will allow us to evaluate the Medallions digital form and its functionality for future iterations on related forms, such as the application for a Standard Government Headstones or Marker (VA Form 40-1330,) ensuring the design meets VA.gov Design System standards. We hope to provide users with the simplest, and most efficient process when ordering a medallion. Research findings and recommendations will be synthesized to determine what pain points there are for our users, and if there are any blockers to consider.
+These learnings will allow us to evaluate the Medallions digital form and its functionality for future iterations on related forms, such as the application for a Standard Government Headstones or Marker (VA Form 40-1330), ensuring the design meets VA.gov Design System standards. We hope to provide users with the simplest, and most efficient process when ordering a medallion. Research findings and recommendations will be synthesized to determine what pain points there are for our users, and if there are any blockers to consider.
 
 ### Research questions
 
@@ -171,6 +171,3 @@ Please list the people who will be serving in each role. **Include the primary p
 	- Laura Willwerth (l.willwerth@bloomworks.digital)
 	- Aliyah Blackmore (a.blackmore@bloomworks.digital)
 	- Ginger Wilson (ginger.wilson@va.gov)
-
-
-
