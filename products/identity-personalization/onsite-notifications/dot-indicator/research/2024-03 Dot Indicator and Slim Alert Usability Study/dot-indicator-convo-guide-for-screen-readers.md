@@ -57,7 +57,7 @@ Are you okay if I send this in Zoom's chat, or would you prefer to receive it an
 
 Great, I can see your screen. For this exercise, I'm going to ask for you to pretend that you've already signed into your __(or if they dont use the site, "a")__ VA account.
 
-- *Once the full page has loaded* If a user of VA.GOV: So imagining that you've logged in, how would you typically go about navigating the page?
+- *Once the full page has loaded* If a user of VA.gov: So imagining that you've logged in, how would you typically go about navigating the page?
 	- If not a user: So imagining that you've logged in, how do you think you might go about navigating the page to learn more about your status with VA services?
 
 - *Let them navigate down the page however they prefer. If they come across the links with indicators, ask:* What are the screen reader cues telling you about these links? How are you interpreting each of them? *Gauge whether the cues are stopping them in their tracks and seem important or are being ignored*
