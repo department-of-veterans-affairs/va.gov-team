@@ -1,6 +1,6 @@
 # Project outline: VA.gov onboarding (Discovery & Research) 
 
-**Last updated: February 22, 2024 - updated**
+**Last updated: March 11, 2024 - adding links to research docs**
 
 ### Communications
 
@@ -62,8 +62,8 @@ There are other groups and stakeholders who will likely have an interest in our 
 
 |Deliverables| Date completed|
 |------------|-----|
-|Internal research discovery|...|
-|Comparative analysis|...|
+|[Research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md)|2/26/2024|
+|[Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md)|3/11/2024|
 
 ### Key Dates
 
