@@ -1,5 +1,3 @@
-**Note: This document is in draft**
-
 # Unauthenticated page experience ratings: February 2024
 
 ## Related overall scores
@@ -27,7 +25,9 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - 
+  - 47% (48 of 103) R&S pages have a 75% or higher "good" score
+  - 25% (26 of 103) R&S pages have a 51% - 74% "good" score
+  - 28% (29 of 103) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:**
 
