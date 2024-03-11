@@ -107,6 +107,7 @@
 - Review findings from research 
 
 **Research**
+- Conduct study (cont.)
 - Research study synthesis
 
 #### Onsite Notifications 
