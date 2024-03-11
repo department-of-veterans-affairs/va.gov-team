@@ -1,8 +1,6 @@
 # Onboarding comparative analysis
 
-March 11, 2024
-
-Liz Lantz, Authenticated Experience
+`draft`
 
 ## Background
 When Veterans or other potential VA beneficiaries go to VA.gov for the first time, there is not a clear path on how to start interacting with VA. Many organizations in the private sector provide a new user onboarding flow that outlines key capabilities, common actions new users take, steps that similar users take, etc. We conducted a comparative analysis to identify current practices and patterns in onboarding flows, and help inform a potential VA.gov onboarding solution
@@ -15,11 +13,11 @@ We primarily used Mobbin.com to review website and app flows in the following ca
 - Creating an account
 - Browsing tutorial
 ## Findings
-1. Onboarding flows for modern websites and apps typically include one or more steps designed to engage the user to complete a task.
-2. We observed some additional welcome steps in onboarding flows on dashboard-type websites, and within mobile apps.
-3. Navigation and other UI elements are minimized for the majority of onboarding steps.
-4. Onboarding flows include unauthenticated and authenticated aspects.
-5. There are a common UI patterns used to achieve specific goals in onboarding flows.
+1. Onboarding flows for modern websites and apps typically include multiple sub-flows or steps designed to increase user engagement with each step.   ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md#onboarding-flows-for-modern-websites-and-apps-typically-include-multiple-sub-flows-or-steps-designed-to-increase-user-engagement-with-each-step))
+2. We observed some additional welcome steps in onboarding flows on dashboard-type websites, and within mobile apps. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md#we-observed-some-additional-welcome-steps-in-onboarding-flows-on-dashboard-type-websites-and-within-mobile-apps))
+3. Navigation and other UI elements are minimized for the majority of onboarding steps. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md#navigation-and-other-ui-elements-are-deprioritized-for-initial-onboarding-steps))
+4. Onboarding flows include both unauthenticated and authenticated aspects. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md#onboarding-flows-include-both-unauthenticated-and-authenticated-aspects))
+5. There are a common UI patterns used to achieve specific goals in onboarding flows. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md#there-are-a-common-ui-patterns-used-to-achieve-specific-goals-in-onboarding-flows))
 ## Findings Details
 ### Onboarding flows for modern websites and apps typically include multiple sub-flows or steps designed to increase user engagement with each step.
 All the flows we reviewed included at least one of these aspects. Others included all of them, especially sites that have an element of personalization such as Netflix or LinkedIn.
@@ -28,7 +26,7 @@ This was most commonly seen on the homepage of a website. Highlighting or summar
 
 USAA’s homepage starts with a succinct and actionable list of services they provide, followed by a call to action (CTA) to join.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-usaa-homepage-ctas-cropped.png" alt="screenshot showing USAA’s mobile homepage starts with a succinct and actionable list of services they provide, followed by a call to action or CTA to join." width="500" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-usaa-homepage-ctas-cropped.png" alt="screenshot showing USAA’s mobile homepage starts with a succinct and actionable list of services they provide, followed by a call to action or CTA to join." width="375" />
 
 #### 2. Account creation flow
 Every website and app we reviewed had an account creation flow. The basic account creation process on ID.me or login.gov is not dissimilar to what we saw. Creating an account was a primary goal of many the sites we looked at, especially for sites that provide paid services.
