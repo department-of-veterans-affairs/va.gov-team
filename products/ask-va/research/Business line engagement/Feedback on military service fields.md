@@ -57,11 +57,11 @@ At least one of the following, `Social security number` or `Service number`, wil
 
 ### Service start and end dates
 
-**These fields will be removed.** These fields were [indicated as unnecessary by business lines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information).
+**These fields will be removed.** These fields were [indicated as unnecessary by business lines](#when-business-lines-say-they-need-or-dont-need-military-service-information). 
 
 ### Claim number
 
-**This field will be removed.** This field was [indicated as unnecessary by business lines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20military%20service%20fields.md#when-business-lines-say-they-need-or-dont-need-military-service-information).
+**This field will be removed.** This field was [indicated as unnecessary by business lines](#when-business-lines-say-they-need-or-dont-need-military-service-information). 
 
 ### DoD/EDIPI number
 
