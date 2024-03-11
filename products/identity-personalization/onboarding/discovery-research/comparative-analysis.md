@@ -1,6 +1,8 @@
 # Onboarding comparative analysis
 
-`draft`
+March 11, 2024
+
+Liz Lantz, Authenticated Experience
 
 ## Background
 When Veterans or other potential VA beneficiaries go to VA.gov for the first time, there is not a clear path on how to start interacting with VA. Many organizations in the private sector provide a new user onboarding flow that outlines key capabilities, common actions new users take, steps that similar users take, etc. We conducted a comparative analysis to identify current practices and patterns in onboarding flows, and help inform a potential VA.gov onboarding solution
@@ -75,28 +77,65 @@ We noticed that during account creation, profile setup, and gathering personaliz
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-udemy-personalization-qs.png" alt="image showing a screenshot from Udemy where main navigation is not present." />
 
-### Onboarding flows include unauthenticated and authenticated aspects.
+### Onboarding flows include both unauthenticated and authenticated aspects.
 
 - A feature overview, benefit highlights and creating a login are all unauthenticated parts of the flow.
-- Creating a profile, providing personalization information, and a product walk through all happened after a user is authenticated in the sites and apps we reviewed.
-
+- Creating a profile, providing personalization information, and a product tour happen after a user is authenticated.
 
 ### There are a common UI patterns used to achieve specific goals in onboarding flows.
 
-- tooltips to highlight features, especially if they’re now
-  - sometimes dismissible
-  - sometimes have a “next” button to take a person into the new feature
-- Tools like Slack have people use the feature to teach them about the next one. E.g. prompt to send first message, then shows them how to react (or something)
+#### Tooltips and badges are commonly used to highlight new features
+- We noticed a variety of methods a tooltip could be dismissed: 
+  - A close button 
+  - a next button to take a person to the next feature in a tour 
+  - only by interacting with the feature 
+- Some products, like Zoom, use a `new` badge to draw attention to a new feature.
 
-- Many websites take a “one thing per page” approach.
-  - They walk users through a series of simple screens, with one question per screen, as part of the account set up process. There is typically an explantation to inform the user why this is being asked. The questions serve a couple of purposes:
-  - They help personalize their experience once their account is set up.  The questions typically have content that explains why the information is being asked.  For example, Netflix asking for personal information (dob, gender identity) and 3 movies a person has seen that they liked, to make appropriate recommendations
-  - 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-google-analytics-tooltip.png" alt="image showing a large tooltip in Google Analytics highlighting Custom Reports. The tooltip has a close button." />
 
+*Above, Google highlights Custom Reports with a tooltip. The tooltip has a link to learn more, or close button so it can be dismissed by the user.*
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-mint-tour.png" alt="image showing a series of 4 screens walking a user through features in the Mint app." />
+
+*In the example above, the Mint app uses a Next button inside a tooltip to guide the user through the product.*
+        
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-zoom-new-feature-badge.png" alt="image showing a screenshot from Zoom. Three items in the side navigation menu are marked as new with a badge to the right of the menu item." />
+
+*Above, Zoom’s profile uses a badge to highlight new items in their navigation menu.*
+
+#### Many websites take a “one thing per page” approach when asking for profile or personalization information.
+One question per screen is presented to the user as part of the account set up process. There is typically an explantation to inform the user why this is being asked. The questions serve a couple of purposes:
+
+1. They help personalize their experience once their account is set up.  The questions typically have content that explains why the information is being asked.  
+2. They can also teach the user about what the product can do. In LinkedIn’s onboarding flow, they ask the user to choose
+
+In this example, Netflix asks the user for personal information for maturity settings and to serve appropriate ad content. They emphasize that the information will be used in accordance with their privacy statement.
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-netflix-personalization-qs.png" alt="image showing a screenshot from Netflix where main navigation is not present." />
+
+By asking a new user to choose a primary goal from 3 options, LinkedIn is teaching them about the 3 main tasks they could complete on the site.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/comparative-analysis/onboarding/onboarding-linked-in-flow-step-3.png"  alt="Screenshot from LinkedIn, asking the user to choose their main goal from 3 items." />
 
 ## Opportunities
-After conducting this review, we identified some opportunities for VA.gov to can keep in our pockets if further research indicates we need to create an onboarding solution for VA.gov
+If further research indicates there are problems a VA.gov onboarding solution can solve, there are some ideas drawn from this analysis that would likely work well to achieve specific goals:
+
+### Getting people to create an account
 
 1. Do a better job of succinctly summarizing the benefits of creating a VA.gov account, in an engaging way.  We’re currently pointing people to a long article style page that doesn’t engage in the same way a private sector page does.
 2. Create a variation of sign-in modal that prioritizes creating an account over signing in with an existing one, so we can link to it from any place we have a call to action to create an account (e.g. the homepage).
-3. 
+
+### Getting people to create a profile 
+1. Redirect LOA1 users to a dedicated page encouraging them to verify their account any time they sign in.
+2. Drive people through a profile completion flow the first time they successfully log into the site with an LOA3 account
+   - A one thing per page approach would be most aligned with what we see in the private sector
+   - We should clearly explain why we’re asking for the information and how it could help the Veteran to provide it
+
+### Helping people learn about features and benefits of VA.gov once they’re signed in
+1. Create marketing style content highlighting benefits and features of the website, possibly drawing from the mobile team’s work in this area
+2. Develop a tour for My VA, or create a specific part of the site that explains top tools and site features in one place.
+
+## Next steps
+We’ll conduct generative research to better understand what, if any, problems are preventing people from engaging with VA.gov. We’ll specifically want to talk to:
+- People who are leaving the service in the next 6 months
+- People who have left the service within the last year
+- People who have established a relationship and benefits with VA, but have never used VA.gov
