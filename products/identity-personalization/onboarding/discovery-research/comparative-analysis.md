@@ -1,6 +1,8 @@
 # Onboarding comparative analysis
 
-`draft`
+March 11, 2024
+
+Liz Lantz, Authenticated Experience
 
 ## Background
 When Veterans or other potential VA beneficiaries go to VA.gov for the first time, there is not a clear path on how to start interacting with VA. Many organizations in the private sector provide a new user onboarding flow that outlines key capabilities, common actions new users take, steps that similar users take, etc. We conducted a comparative analysis to identify current practices and patterns in onboarding flows, and help inform a potential VA.gov onboarding solution
