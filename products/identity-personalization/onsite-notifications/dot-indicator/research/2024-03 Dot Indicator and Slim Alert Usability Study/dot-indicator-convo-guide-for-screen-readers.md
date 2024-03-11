@@ -34,12 +34,13 @@ Okay, got it. Thank you! Before we start, a few things I want to mention:
 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability; we are testing our work so you cannot do anything wrong here. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the site, it'll be really helpful if you can think out loud as much as possible.
   
-- **We will be using a made up account in a prototype of VA.gov today. It's not going to be your personal account, and the information that you'll navigate through is for testing purposes only.** I'll prompt you with questions once we get started. Does that all sound okay to you?
+- **We will be using a made up account in a prototype of VA.gov today. It's not going to be your personal account, and the information that you'll navigate through is for testing purposes only.** I'll prompt you with some questions once we get started. Does that all sound okay to you?
  
-- **If for any reason and at any time you want to stop the session, please let me know.**
+- **If for any reason and at any time you want to stop the session, please let me know. You don't need to say why, just say you need to go if you need to.**
   
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly and I will pause the recording while you are signing in so we don't capture any of that info.
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
+  - If no: do not record.
 
 *Start recording.*
 
