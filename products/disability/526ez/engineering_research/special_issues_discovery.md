@@ -25,6 +25,7 @@ This document is to consolidate information around the handling of "special issu
 - Vets.gov is currently only sending special issues "POW" and "RRD" (which will soon transition to "EMP" ([thread](https://dsva.slack.com/archives/C1VBAHWQL/p1708023898273619)))
 	- "RRD" (soon to be "EMP") is added to the submit request automatically if pending claims are found for the user
 	- "POW" is added to each condition that the user selects as connected to their POW experience, which ultimately determines the output for 21-526EZ question 16 (column 2) in VBMS
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/3ee576af-f9d9-4a7c-b476-d8938649ba44)
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/5b5534c8-dd2f-4261-91da-8aa2f399e534)
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92405130/0aa0b954-4368-4145-b06c-33e74dc77c7e)
@@ -39,5 +40,39 @@ This document is to consolidate information around the handling of "special issu
 
 ## Scripts
 
-Below are some ruby scripts run in Argo production/staging terminals to determine special issue usage
+Below are some ruby scripts run in Argo production/staging terminals to determine special issue usage. On Production, be very careful not to select too great a date range (no more than 3-7 days). It's still a bit of a fishing expedition in Production, but at least 3 submissions with "POW" special issues were found this way (on 2/21/24). On staging, the sky is (generally) the limit as far as the size of the date range
 
+```ruby
+# builds an array of Form526Submissions containing special issues within a certain datetime range
+
+end_time = DateTime.now - 38.days  # changing this value
+start_time = DateTime.now - 41.days # and this value
+subs = Form526Submission.where(created_at: start_time..end_time)
+found = []
+Form526Submission.find_in_batches(batch_size: 1000, start: subs.first.id, finish: subs.last.id) do |batch|
+  batch.each do |sub|
+    puts sub.id
+    if sub.form['form526']['form526']['disabilities'].any? {|d| d['specialIssues'].present?}
+      found << sub
+      puts "found #{found.count}"
+    end
+  end
+end
+# the "found" array can then be manipulated to display the special issues
+
+
+# loops through SavedClaims containing special issues within a certain datetime range
+
+found_saved_claims_count = 0
+start_date = DateTime.parse('2024-01-01').beginning_of_day
+end_date = DateTime.parse('2024-03-11').end_of_day
+savedClaims = SavedClaim.where(created_at: start_date..end_date, form_id: '21-526EZ-ALLCLAIMS')
+
+savedClaims.each do |sc|
+   puts sc.form.include? 'specialIssues'
+   if sc.form.include? 'specialIssues'
+      form_data = JSON.parse(sc.form)
+      puts form_data
+   end
+end
+```
