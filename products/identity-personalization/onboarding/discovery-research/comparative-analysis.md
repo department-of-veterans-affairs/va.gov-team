@@ -3,7 +3,6 @@
 March 11, 2024
 
 Liz Lantz, Authenticated Experience
-
 ## Background
 When Veterans or other potential VA beneficiaries go to VA.gov for the first time, there is not a clear path on how to start interacting with VA. Many organizations in the private sector provide a new user onboarding flow that outlines key capabilities, common actions new users take, steps that similar users take, etc. We conducted a comparative analysis to identify current practices and patterns in onboarding flows, and help inform a potential VA.gov onboarding solution
 ### Goals
@@ -134,6 +133,8 @@ If further research indicates there are problems a VA.gov onboarding solution ca
 1. Create marketing style content highlighting benefits and features of the website, possibly drawing from the mobile team’s work in this area
 2. Develop a tour for My VA, or create a specific part of the site that explains top tools and site features in one place.
 
+## Further reading
+If we decide to pursue a solution, [this user onboarding teardown article](https://www.useronboard.com/user-onboarding-teardowns/) is a great resource for more ideas.
 ## Next steps
 We’ll conduct generative research to better understand what, if any, problems are preventing people from engaging with VA.gov. We’ll specifically want to talk to:
 - People who are leaving the service in the next 6 months
