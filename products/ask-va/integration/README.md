@@ -38,7 +38,7 @@
 
 ## Status
 
-| Artifact | Endpoint | Source | AVA CRM | AVA FE | Phase | Notes |
+| Artifact | Endpoint | Source | AVA CRM | AVA VA.gov | Phase | Notes |
 |---|---|---|:---:|:---:|---|---|
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | integration |  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | 🟩 | integration |  | 
