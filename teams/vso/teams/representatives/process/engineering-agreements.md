@@ -26,6 +26,34 @@ Platform documentation only discusses acronyms in the [context of page content](
 
 After discussing with Platform in the vfs-platform-support channel [they said the following](https://dsva.slack.com/archives/CBU0KDSB1/p1709565273517439?thread_ts=1709317801.992969&cid=CBU0KDSB1): "I recommend treating the acronym like an acronym". Which from the context of the tagged thread references our above recommendation.
 
+### Testing
+
+#### Unit Tests
+- File name: `fileItsTesting.unit.spec.js(x)`
+- Coverage: Platform recommends unit tests cover at least 75% of code paths. We would like to extend that to 100%.
+- Tools:
+  - React Testing Library: Platform encourages the use of RTL in place of Enzyme. We will follow that recommendation.
+  - Use Sinon for stubs and spies
+  - chai-as-promised: Extends Chai with assertions about promises.
+- File Structure:
+  - All tests will be in the tests directory which is on the root of the application
+  - Within tests the folders match the application directory structure
+- Code Guidelines:
+  - `describe` blocks: Use to organize tests, but avoid nesting deeper than two levels
+  - `it`:
+    - Use active voice.
+    - Describe the behavior in terms very specific to the unit (`it('truncates the address property when it is longer than 15 characters')` instead of `it('shortens the address when the user has a long address')`)
+  - Use React Testing Library's render function when testing components.
+  - Use mockFetch, resetFetch(), mockApiRequest(), mockMultipleApiRequests(), and getLocalStorage()
+- Example unit tests:
+  - The correct number of inputs show up when you render the page.
+  - The correct number of fields display validation errors if you submit without entering any information.
+  - Any conditional logic on the page displays under the correct conditions.
+
+#### E2E Tests
+- VA Forms Library forms should be testing with the form tester
+- Must include accessinility tests, cy.axeCheck(), on all client-side routes
+
 ## Pull Requests
 
 ### General Guidelines
