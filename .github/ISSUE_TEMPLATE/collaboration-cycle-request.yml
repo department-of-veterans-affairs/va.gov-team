@@ -1,7 +1,7 @@
 name: "Collaboration Cycle Request"
 description: "Begin engaging with the Collaboration Cycle."
 title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
-labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
+labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request", "sitewide CAIA"]
 assignees: []
 body:
   - type: markdown
