@@ -22,7 +22,6 @@ This also includes the migration of /submit endpoint to Lighthouse
 - Avoid duplicates (rethink when we clear the in-progress form)
   
 **Out of Scope**
-- 
 
 **Success** 
 
