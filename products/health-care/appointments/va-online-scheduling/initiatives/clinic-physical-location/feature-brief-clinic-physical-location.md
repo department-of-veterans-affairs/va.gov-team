@@ -1,41 +1,17 @@
 
 <!-- markdownlint-disable MD024 -->
-# Release Plan Template
-
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and QA the heck out of it in staging, both critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do.
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
-
-Though issues in production happen, follow this template to minimize the chances and the effects of production issues.
-
-## When to use this release plan
-
-If you answer yes to any of the questions below, you'll need to create a release plan using this template.
-
-- Does the feature you are working on moderately or significantly affect the Veteran experience of the product?
-- Does the feature you are working on change the structure of the underlying data?
-- Does the feature's backend or downstream interactions change?
-- Is this a brand new experience for a Veteran?
-
-The team should develop this plan in parallel with the development of the feature your team is creating.
-
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
+# Feature Summary
+When veterans currently view an appointment online they can only see the clinic name for the appointment, but not the clinic location.  This feature will add the clinic location, if available, to the appointment details so the veteran knows where to go for the appointment.
 
 ---
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
-
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| [va_online_scheduling_physical_location](https://api.va.gov/flipper/features/va_online_scheduling_physical_location) | Toggle to display the physical location of an appointment. |
+
+[Display the Clinic Location information to the user on the appointment details page #69444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69444)
 
 ## Step 2: Validation
 
