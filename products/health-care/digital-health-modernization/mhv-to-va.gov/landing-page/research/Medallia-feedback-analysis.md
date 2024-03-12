@@ -29,6 +29,7 @@ Spanning both surveys
     <td>25</td>
     <td>36</td>
     <td>14</td>
+    <td>33</td>
   </tr>
   <tr>
     <th scope="row">A11 Intercept Survey</th>
