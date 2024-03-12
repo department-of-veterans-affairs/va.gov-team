@@ -11,6 +11,7 @@ Post any DSU updates if you are unable to attend
 ## 🏆 Overarching Goals
 * 🔴 Appointment Cancellation
 * 🟢 Appointment Requests
+  * 🟩 Add support for routing appointment requests to VetsAPI Patient Gateway
 * 🔵 Direct Scheduling
   * 🟦 Support Oracle Health slot search
 * 🟡 Onboarding and Integration
@@ -19,26 +20,25 @@ Post any DSU updates if you are unable to attend
 ## 📋 Previous Sprint Summary:
 In sprint 5 we  developed Caddy scripts that enable the ability to debug VetsAPI and Vets-website locally while connected to local instances of VetsAPI Patient Gateway (VPG) and MAP authentication services.  We also built a VPG endpoint that returns the site Scheduling configurations for a given list of site IDs in support of upstream appointment workflows.   Additionally, we updated VetsAPI to with a feature flag that will allow the appointment workflow to toggle between the existing vaos-service and the new VPG for backend support.
 
-
-
-## 🏆 Sprint Goals
+## 🏆 Sprint Goals and Stories
+🚧 rolled from previous sprint 
 * 🟦  GOAL: Support Oracle Health Slot Search
   * [#78057 Create Oracle Health appointment slot search feature flag](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78057) 
   * [#76083 Search for open appt slot at OH facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/76083)
   *  [CES-220 VPG: Find Cerner appointmet slots](https://issues.mobilehealth.va.gov/browse/CES-220)
 * 🟡 GOAL: Onboarding and Integration
    * [#78061 Document local development process](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78061)
-* 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
+   * 🚧 [#75523 New VFS Team Member Template Jenna Gaze](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/75523)
+* 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
   * [CES-311 VPG: Enable cancellation of VAOS appointments](https://issues.mobilehealth.va.gov/browse/CES-311)
   * [CES-302 VPG: Create facility configuration endpoint](https://issues.mobilehealth.va.gov/browse/CES-302)
   * [CES-315 CES: Support Appointment Search Date Param](https://issues.mobilehealth.va.gov/browse/CES-315)
-
-
+* 🟩 GOAL: Add support for routing appointment requests to VetsAPI Patient Gateway
+  * 🚧 [#77065 Add VPG routing feature flag](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/77065) - in QA check
+  * 🚧[#77066 Implement optional VPG routing](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/77066) - in QA check
 ## ✈️ Planned Releases
 None
 
-## Sprint Tickets for Sprint 6
-🟡 rolled from previous sprint 🆕 new goal
 
 <details>
 <summary>Tickets from previous sprint</summary>
