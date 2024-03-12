@@ -10,7 +10,7 @@ The audit included reviews of of the following aspects for every page included i
 - Left nav link inclusion and order
 
 
-Hub | Pages audited | Pages needing corrections 
+Hub | Pages reviewed | Pages needing corrections 
 --- | --- | ---
 Health care | 67 | 17
 Disability | 62 | 27
