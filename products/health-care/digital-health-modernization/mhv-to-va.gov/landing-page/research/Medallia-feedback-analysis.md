@@ -38,6 +38,7 @@ Spanning both surveys
     <td>14 responses</td>
     <td>21 responses</td>
     <td>12 responses</td>
+    <td>22 responses</td>
   </tr>
   <tr>
     <th scope="row">VFS Feedback Button Survey</th>
@@ -46,6 +47,7 @@ Spanning both surveys
     <td>11 responses</td>
     <td>15 responses</td>
     <td>2 responses</td>
+    <td>11 responses</td>
   </tr>
   <tr>
     <th scope="row">Desktop users</th>
