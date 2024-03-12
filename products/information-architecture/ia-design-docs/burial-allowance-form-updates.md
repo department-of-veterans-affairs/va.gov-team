@@ -33,7 +33,7 @@ Only change to page structure will be the URL.
 
 
 **1) Apply for burial benefits - Existing**
-- URL: www.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530 
+- URL:
 - Notes: We are proposing updating the form URL (currently https://www.va.gov/burials-and-memorials/application/530/introduction) so that it is up to standard. This won't be happenning during this MVP launch so reach out to CAIA once this is on the roadmap so we can submit a backlog ticket or confirm if there already is one to change the URL and to coordinate a redirect.
 
 
