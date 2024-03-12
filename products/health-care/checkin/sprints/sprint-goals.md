@@ -68,10 +68,10 @@ ________________________________________________________________________________
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
-- **GOAL: Address Usage Issues**
+- **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
     - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase PCI Usage**
-    - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
+    - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -103,14 +103,14 @@ ________________________________________________________________________________
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide
         - ❗ 🟥 Gather feedback from CAIA on content
-- **GOAL: Address Usage Issues**
-   - **Sub Goal: Change wording for wait time after checking in**
+- **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
+   - **Sub Goal: Change wording on completion page based on if Veteran has arrived at the facility**
         - ❗ 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
         - ❗ 🟩 [[FE] Update Content on Check-in Completed Page based on answer to "at the facility?" Question](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75939)
         - ✔️ ❗ 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
         - ✔️ ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+    - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX][Design] SPIKE: Appointment Detail Page UI Discovery ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77232)
