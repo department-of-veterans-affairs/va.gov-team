@@ -191,6 +191,7 @@ Other:
     <td>11</td>
     <td>15</td>
     <td>1</td>
+    <td>11</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
@@ -199,6 +200,7 @@ Other:
     <td>9%</td>
     <td>13%</td>
     <td>0%</td>
+     <td> </td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -207,6 +209,7 @@ Other:
     <td>9 users</td>
     <td>9 users</td>
     <td>1 user</td>
+    <td>8 user</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
@@ -215,6 +218,7 @@ Other:
     <td>1 user</td>
     <td>2 users</td>
     <td>none</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
@@ -223,6 +227,8 @@ Other:
     <td>none</td>
     <td>2 users</td>
     <td>none</td>
+    <td>1 user</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
@@ -230,6 +236,7 @@ Other:
     <td>1 user</td>
     <td>none</td>
     <td>1 user</td>
+    <td>none</td>
     <td>none</td>
   </tr>
     <tr>
@@ -239,6 +246,7 @@ Other:
     <td>1 user</td>
     <td>1 user</td>
     <td>none</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Could user complete their task?</th>
