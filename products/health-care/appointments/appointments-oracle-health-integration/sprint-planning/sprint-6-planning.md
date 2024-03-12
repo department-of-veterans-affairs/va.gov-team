@@ -32,6 +32,9 @@ still needs to be merged
 * [#78061 Document local development process](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78061)
 * [#78057 Create Oracle Health appointment slot search feature flag](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78057) 
 * [#76083 Search for open appt slot at OH facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/76083)
+* [CES-311 VPG: Enable cancellation of VAOS appointments](https://issues.mobilehealth.va.gov/browse/CES-311)
+* [CES-302 VPG: Create facility configuration endpoint](https://issues.mobilehealth.va.gov/browse/CES-302)
+* [CES-315 CES: Support Appointment Search Date Param](https://issues.mobilehealth.va.gov/browse/CES-315) 
 
 ## ✈️ Planned Releases
 None
