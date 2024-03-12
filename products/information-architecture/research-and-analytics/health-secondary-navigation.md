@@ -1,4 +1,4 @@
-# Health Portal Integrated Navigation
+# Health Portal Secondary Navigation
 Secondary Navigation Research Report
 
 **On this page:**
