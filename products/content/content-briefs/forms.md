@@ -22,7 +22,7 @@ This brief will help forms teams create content that aligns with the VA.gov voic
 [Read our top 10 plain language standards in the VA.gov content style guide for more](https://design.va.gov/content-style-guide/content-principles/plain-language)
 
 ## Labels and errors to standardize
-
+Sitewide CAIA is creating a list of shared 
 
 ## Upload screens
 Form teams are using several different approaches to a file upload pattern. 
