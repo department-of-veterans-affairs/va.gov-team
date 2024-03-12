@@ -34,9 +34,18 @@ Strike
 | Q4      |                      |                       |                     |                         |
 
 #### Platform Satisfaction
+We send out a survey to our portal and API users quarterly to measure satisfaction
+
+| Quarter | Score |
+|---------|-------|
+| Q1      |       |
+| Q2      |       |
+| Q3      |       |
+| Q4      |       |
 
 #### API Throughput
 Proof of concept performance comparison of v2 and v3 endpoints
+
 |               | Average Response Time | P95 Response Time | Minimum Response Time | Maximum Response Time |
 |---------------|-----------------------|-------------------|-----------------------|-----------------------|
 | V2 email 3750 | 496ms                 | 813ms             | 496ms                 | 2 seconds             |
