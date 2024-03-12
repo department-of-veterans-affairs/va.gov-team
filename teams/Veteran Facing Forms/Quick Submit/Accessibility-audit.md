@@ -11,7 +11,7 @@ In preparation for a usability study using the Quick Submit tool, the Veteran Fa
 This is not a full, comprehensive or complete audit. The auditor only had access to one user flow through the tool (Veteran Family Member) and tested only on one device. All user flows, and all screens and components in each user flow should be tested.  NVDA and JAWS should also be used for further testing.
 
 ## Methods
-Using [VA.gov's foundational accessibility guide](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D), the tests were conducted using a Mac Laptop, with Voice Over, and the Chrome browser. The [Axe Browser Extension](https://www.deque.com/axe/browser-extensions/) supplemented the testing.
+Following VA.gov's foundational accessibility testing template, the tests were conducted using a Mac Laptop, with Voice Over, and the Chrome browser. The [Axe Browser Extension](https://www.deque.com/axe/browser-extensions/) supplemented the testing.
 
 ## Reported findings
 The findings in this report are focused on three areas:
