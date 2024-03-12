@@ -1,4 +1,4 @@
-# Research Plan for Accredited Representative Management, Find a Representative, 03/2024<a id="research-plan-for-accredited-representative-management-find-a-representative-032024"></a>
+# Research Plan for Accredited Representative Management, Find a Representative LIVE User Test, 03/2024
 
 ## Background<a id="background"></a>
 
