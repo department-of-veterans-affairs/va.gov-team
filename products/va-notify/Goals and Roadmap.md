@@ -1,5 +1,176 @@
-# VA Notify: 2023 goals & roadmap
+# VA Notify goals & roadmap
+# 2024
+## 1,000 foot view: Support the 2024 OCTO objectives
 
+In our November 2023 offsite, Charles shared 3 objectives for OCTO for the year: Better experiences, stronger platforms, and empowered people. The VA Notify team will primarily focus on the stronger platforms objective.
+
+Key Results:
+1. Our platforms hit the “elite” level as defined by DORA: Deployment 
+Frequency, Lead Time for Changes, Change Failure Rate, and Time to 
+Restore Service.
+2. Our platforms measure and improve the satisfaction of their internal users.
+3. Our platforms power twice as many interactions compared to last year. 
+4. Access reviews of all systems administered by OCTO are completed every 
+90 days
+
+### Metrics
+WIP - Coming soon!
+
+#### DORA
+Notify
+| Quarter | Deployment Frequency | Lead Time for Changes | Change Failure Rate | Time to Restore Service |
+|---------|----------------------|-----------------------|---------------------|-------------------------|
+| Q1      | Medium               | Medium                | High                | High                    |
+| Q2      |                      |                       |                     |                         |
+| Q3      |                      |                       |                     |                         |
+| Q4      |                      |                       |                     |                         |
+
+Strike
+| Quarter | Deployment Frequency | Lead Time for Changes | Change Failure Rate | Time to Restore Service |
+|---------|----------------------|-----------------------|---------------------|-------------------------|
+| Q1      |                      |                       |                     |                         |
+| Q2      |                      |                       |                     |                         |
+| Q3      |                      |                       |                     |                         |
+| Q4      |                      |                       |                     |                         |
+
+#### Platform Satisfaction
+
+#### Throughput
+Proof of concept performance comparison of v2 and v3
+|               | Average Response Time | P95 Response Time | Minimum Response Time | Maximum Response Time |
+|---------------|-----------------------|-------------------|-----------------------|-----------------------|
+| V2 email 3750 | 496ms                 | 813ms             | 496ms                 | 2 seconds             |
+| V3 email 3750 | 195ms                 | 417ms             | 180ms                 | 2 seconds             |
+
+
+## 500 foot view: VA Notify themes
+- Self Service Portal Capabilities
+- Quality Veteran Experience
+- Platform Capabilities
+- Performance, Monitoring, Maintainability, and Security
+
+See the [2024 Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699298034766/785e43fca1230ba217651aff759f161c7315c1b5?sender=6be1fca1-3e61-4149-969f-f64b2e0db5be) for delivery estimates.
+
+See [Strike Managed Form Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations#launched-form-notifications) for launch dates and notifications on the horizon.
+
+### Notify Team Initiatives
+
+#### Comp and Pen Recurring Payment Notifications
+##### OCTO OKR: Our platforms power twice as many interactions compared to last year
+##### Theme: Quality Veteran Experience
+
+7 million Veterans receive monthly recurring disability/pension payments. VA Notify is building an application to consume payment events from BIP event bus and send SMS notifications to consenting recipients during courtesy daytime hours. The goal is to lower the volume of calls to the call center each month by proactively informing recipients of the status of their payment.
+
+#### Push Broadcast Endpoint
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Platform Capabilities
+
+The Mobile App team wants the ability to send a notification to all subscribed app users for important updates like new features and critical bug fixes.
+
+#### Performance: Caching
+##### OCTO OKR: Our platforms power twice as many interactions compared to last year
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+Reducing redundant database calls for API authentication.
+
+#### Tech Debt: SQLAlchemy Upgrade
+##### OCTO OKR: N/A
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+Keeping the platform easy to maintain and secure. We’re upgrading SQLAlchemy from v1.4.x to the latest 2.x version.
+
+#### Monitoring: Anomaly Detection
+##### OCTO OKR: Our platforms hit the “elite” level as defined by DORA
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+Investigate and implement automated anomaly detection so we can quickly identify issues at scale that could impact our internal users and/or Veterans.
+
+#### Poetry Dependency Management
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+This will reduce manual effort required to maintain package versions and dependencies for the API and make upgrades more consistent and efficient.
+
+#### Scalability: V3 Email and SMS Endpoints
+##### OCTO OKR: Our platforms power twice as many interactions compared to last year
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+Our current email and SMS endpoints (v2) rely on many database validation checks, which slows down client requests and limits our ability to scale effectively. We want to decrease the request time and increase our throughput capacity for requests per second. This will increase performance for individual clients, and allow us to have more parallel requests coming through from multiple clients.
+
+#### VA Profile Phone Validation
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Platform Capabilities
+
+VA Notify wants to utilize VA Profile’s latest phone validation functionality, so the notification platform does not attempt to text phone numbers that are not valid, e.g. a landline. This will eliminate costs for text messages we know will never succeed. It will also provide more visibility into the volume and impact of invalid contact information on notification attempts.
+
+#### MHV: PII/PHI Permission
+##### Theme: Quality Veteran Experience
+
+MyHealtheVet is migrating features to VA.gov and will also be migrating email notifications to VA Notify, like appointment reminders. This use case is authorized to send critical appointment details that indicate what appointment the reminder is for, and location details so they are able to make travel arrangements to get there. However, we must collect Veteran consent to send PII/PHI through unencrypted email to the email on file. VA Profile plans to store this information and VA Notify will need to check this in addition to the communication item (preference) prior to sending the notification.
+
+#### VA Profile Email Bounce Tracking
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Platform Capabilities
+
+VA Profile is interested in receiving bounce data (hard/permanent and soft/temporary) from notification send attempts so they can store Email Validation metadata, similar to the Phone Validation work, which indicates to partners if contact information is likely to be deliverable. However, unlike with phones, there’s not an existing service to look up emails and provide bounce data. VA Notify will need to send information to VA Profile for analysis and storage and VA Profile will need a new endpoint to provide this additional information for those retrieving contact information.
+
+#### Push Notifications
+##### OCTO OKR: N/A
+##### Theme: Platform Capabilities
+
+VA Notify currently partners with VEText to deliver push notifications. We will be migrating push functionality to the Self Service Portal for template management, VA Notify API for delivery, and VA Profile for device registration and push preferences. This will enhance the enterprise systems for notification delivery and profile data, while also freeing up VEText functionality and capacity for critical health projects.
+
+
+### Strike Team Initiatives
+
+#### Email Notifications for Forms
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Quality Veteran Experience
+
+As we look to improve the customer experience, we want to support business lines in sending notifications, whether it be in-progress notifications, submission confirmations or denials, in order to provide clear information and direction to our Veterans and their family and caregivers. In addition to working with business lines to create notifications for their forms, we are also working with the Forms team, in order to support notifications for newly digitized forms. Completed notifications can be found [here for submission confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations) and  [here for in-progress notifications](va.gov-team/products/form confirmations/in-progress-reminders.md at master · department-of-veterans-affairs/va.gov-team · GitHub)
+
+#### Promote to Production Wrap-up
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Self Service Portal Capabilities
+
+Since we have moved toward a Viewer only experience in Production, users can now enter content and/or make changes to content in Staging and then promote that template to Production. This initiative provides more governance and safety measures, in order to limit erroneous changes from becoming live.
+
+#### Contact Us Slack Alert
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Self Service Portal Capabilities
+
+Because our Portal sits behind the network, we cannot always review Contact Us requests in real-time. In order to rectify that, we have implemented a Slack Alert to be sent to our internal team, so that Portal users can receive a faster response to their Contact Us submissions.
+
+#### Roles
+##### OCTO OKR: N/A
+##### Theme: Quality Veteran Experience
+
+As we have implemented Promote to Production and have made Production a Viewer only experience, we need to review and clearly define roles and permissions for both Staging and Production. To that end, we will be refining our current Editor and Viewer roles. We also want to expand upon our self-service capabilities for our users and will be working to define a Service Admin role.
+
+#### Dashboard
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users. 
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. While users can still utilize those for specific use cases, we want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
+
+#### Compliance: Portal V3 Updates
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+In order to align with the industry standard V3 style changes, our team will be updating all of our buttons, breadcrumbs, modals, pagination, alerts and accordions to the updated styles.
+
+#### Ruby Conversion for Template Edit Page
+##### OCTO OKR: Our platforms hit the “elite” level as defined by DORA.
+##### Theme: Performance, Monitoring, Maintainability, and Security
+
+In an effort to better align with app architecture and stay up-to-date with current code standards, our team will be moving from TypeScript to Ruby for our Template Edit Pages for both email and SMS. There will not be a change in functionality or front-end appearance.
+
+#### Action Links
+##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### Theme: Quality Veteran Experience
+
+In order to enhance the user experience in emails, we want to introduce a link indicator (button) style. To support this, we will be updating the formatting key with the markdown symbol that would put the indicator in a notification. 
+
+#2023
 ## 1,000 foot view: Support the 2023 OCTO objectives
 
 In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will support any objective that requires a notification, our primary focus is on the following objectives:
@@ -64,8 +235,8 @@ To support more types of notifications and expand VA onboarding, we are adding f
 
 ### Strike Team
 
-#### Email Confirmation Notifications for Forms
-##### Theme(s): Platform Capabilities
+#### Email Notifications for Forms
+##### Theme(s): Quality Veteran Experience
 
 As we look to improve the customer experience, we want to support business lines in sending notifications to users that have completed their online forms. In addition to working with business lines to create notifications for their forms, we are also working with the Forms team, in order to support notifications for newly digitized forms. Completed notifications can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations).
 
@@ -79,7 +250,7 @@ We know from our users that copying template content from our staging environmen
 #### Whitelist
 ##### Theme(s): Self Service / Governance, Performance, Monitoring, & Security
 
-We want to provide clients the ability to manage their own Whitelists in order to safely test notifications. It will allow business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality but enhanced security as well by reducing client testing delays, which varied from hours to days previously and eliminating all manual effort for internal staff - saving 30 minutes per requested change.
+We want to provide clients the ability to manage their own Whitelists in order to safely test notifications. It will allow business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality but enhanced security as well by reducing client testing delays, which varied from hours to days previously and eliminating all manual effort for internal staff - saving 30 minutes per requested change.
 
 
 #### Personalized Dashboard 
@@ -135,7 +306,7 @@ Some business lines like Comp & Pen and QuickSubmit require an explicit opt-in a
 #### Restart Compensation and Pension Payment Notification Work
 As we wrap up the Twilio status integration work, we have some room to re-engage with the BIA team ingest payment events and trigger disability and pension payment SMS notifications to Veterans.
 
-**Expected launch date**: Dec 2023
+**Not launched in 2023**
 
 #### Performance, Monitoring, Maintainability and Security
 To keep our platform performing at its best, we plan to execute the following:
@@ -166,22 +337,12 @@ We are working with eBenefits, VADIR, and EVSS to migrate their early comm notif
 #### V3 Email and SMS Endpoints
 As notification volume rapidly increases through new notifications, notification growth, and notification migrations, VA Notify is enhancing endpoint performance.
 
-**Expected launch date**: Oct 2023
-
-#### Onsite Notification Enhancements
-As we introduce new onsite notification use cases in partnership with VA.gov, we will enhance the integration to provide valuable, timely information to Veterans.
-
-**Expected launch date**: Nov 2023
+**Not launched in 2023**
 
 #### Continued work on Compensation and Pension Payment Notifications
 We are working to integrate with BIA's event bus to receive payment events and trigger notifications.
 
-**Expected launch date**: Dec 2023
-
-#### VA Profile Phone Validation
-After VA Profile adds this new feature, VA Notify will enhance the existing contact info lookup integration to ensure we are only sending to valid Veteran phone numbers.
-
-**Expected launch date**: Dec 2023
+**Not launched in 2023**
 
 #### Performance, Monitoring, Maintainability and Security
 To keep our platform performing at its best, we plan to execute the following:
@@ -201,26 +362,32 @@ Streamlining the currently cumbersome process of launching notifications from st
 #### Promote to Production (Phase 1) - SSUI - Email for Editors
 Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-**Expected launch date**: September 2023
+**Launched**: September 2023
 
 #### Whitelist (Post-MVP) - SSUI
 Whitelisting functionality allows business lines to limit notification recipients to only approved, trusted email addresses and phone numbers during testing. This not only results in improved notification quality, but enhanced security as well.
 
-**Expected launch date**: September 2023
+**Launched**: October 2023
 
 #### Promote to Production (Phase 3) - SSUI - SMS for Admins
 Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-**Expected launch date**: October 2023
+**Launched**: October 2023
 
 #### Promote to Production (Phase 4) - SSUI - SMS for Editors
 Streamlining the currently cumbersome process of launching notifications from staging to production will greatly reduce manual effort from VA Notify and business lines resulting in significant cost savings over time. It also enables VA Notify and business lines to concentrate more on identifying opportunities to enhance the Veteran online experience and less on teaching and learning how to use tools.
 
-**Expected launch date**: November 2023
+**Launched**: November 2023
 
 ## Deprioritized for 2023
 
 ### Notify Team
+
+#### VA Profile Phone Validation
+After VA Profile adds this new feature, VA Notify will enhance the existing contact info lookup integration to ensure we are only sending to valid Veteran phone numbers.
+
+#### Onsite Notification Enhancements
+As we introduce new onsite notification use cases in partnership with VA.gov, we will enhance the integration to provide valuable, timely information to Veterans.
 
 #### Support for Mass/Bulk Notifications
 
