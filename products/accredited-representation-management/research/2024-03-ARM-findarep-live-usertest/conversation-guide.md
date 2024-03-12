@@ -1,133 +1,261 @@
-# Conversation Guide 
+# Conversation Guide<a id="conversation-guide"></a>
 
-## Moderator logistics
-### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
+## Moderator logistics<a id="moderator-logistics"></a>
 
-- Complete any project-specific setup tasks for this study (List them below)
+### 2-3 days before the session<a id="2-3-days-before-the-session"></a>
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
 
 
-### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
+### Day of the session<a id="day-of-the-session"></a>
+
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
+
 - Mute your Slack notifications.
+
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
-
-### Starting the session
+### Starting the session<a id="starting-the-session"></a>
 
 - In the Attendees section, make sure everyone except the participant is on mute.
+
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+
+- Check your \[screensharing setup] and share permissions for participants.
+
+- When the participant is ready, begin the session with the following intro.
 
 
+#### AT Considerations<a id="at-considerations"></a>
 
-## Intro - 5 minutes
+- Keep closed captions OFF for screen reader sessions.
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-
-Today we're going to talk about [description of your project].
+- Do not interrupt screen readers.
 
 
-Before we start, I have a few things that I want to go over with you:
+## Intro - 5 minutes<a id="intro---5-minutes"></a>
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+**Mobile users/** Thanks for joining us today! My name is Janelle and I’m a researcher working for VA.gov. \[NAME] will be joining us to take notes.
 
-*Start recording.*
+**AT users/** Thanks for joining us today! My name is Janelle and I’m a researcher working for VA.gov. \[NAME] will be joining us to assist with any technology needs today.
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+Before we get started a few things I want to mention:
+
+- **Mobile users/ This session should take about an hour.** We’ll be focusing on your experience searching for a representative, such as a VSO, attorney or claims agent, as well as a new tool on VA.gov.
+
+  - **AT users/ This session should take about an hour and thirty minutes.** We’ll be focusing on your experience searching for a representative, such as a VSO, attorney or claims agent, as well as a new tool on VA.gov.
+
+* **In this session, we want to hear your honest opinions to improve digital tools that better meet yours needs.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.
+
+- **Your participation is completely voluntary.** If for any reason you want to stop, or do not want to answer a question, please let me know. You'll be compensated no matter how much of the session we complete today.
+
+- **During today's interview, we may discuss experiences that have caused serious frustration.** I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. I don’t have any access and can’t impact your benefits in any way, and wanted to provide that transparency up front.
+
+- **Knowing this, I have \[#] teammates who would like to observe our session, but only if you're comfortable.** Would that be okay, or do you prefer to keep the session to just the three of us?
+
+  - If no: Use Slack to kindly ask the observers to leave the Zoom.
+
+  - If yes: Admit observers.
+
+  - Then, ask the observer(s) to give a brief, camera-on introduction, first name and position with VA.gov.
+
+  - Once complete, ask the notetaker and observer(s) to turn off their cameras for the remainder of the session to save bandwidth.
+
+- **Are you ok if I record my screen and audio as we talk today for analysis and reporting purposes?** We like to record to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+
+  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+
+_Start recording._
+
+- **I have started recording.** I'd like to confirm: Do I have permission to record my screen and the audio as we talk today for analysis and reporting purposes?
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 - 10 minutes<a id="warm-up-questions---5---10-minutes"></a>
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. Confirming you are currently looking for a \[representative] for \[benefit]?
 
-## First Task: [TASK NAME] - X minutes
+2. Can you tell me about your experience looking for a \[representative]?
 
-- Step 1
-- Step 2
+   1. Why did you decide to get support from a representative?
 
-### Things to watch for:
+   2. How are you looking for your representative?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+   3. Are you considering any criteria when selecting a representative?
 
-## Second Task: [TASK NAME] - X minutes
+3. Did you consider VA.gov as an option for finding representation? Why or why not?
 
-- Step 1
-- Step 2
+4. Do you use VA.gov?
 
-### Things to watch for:
+   1. _If yes;_ What do you use VA.gov for?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Consent to use video clips
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+   2. _If no;_ What keeps you from using VA.gov?
 
 
-## Thank-You and Closing - X minutes
+### Things to watch for:<a id="things-to-watch-for"></a>
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+- How are Veterans searching for, selecting, and working with representatives?
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+- Are there any high or low points in their experience with representatives?
+
+- Do Veterans consider VA.gov as a way to find representation?
+
+
+## First Task: Navigation - 10 - 15/20 - 25 minutes<a id="first-task-navigation---10---1520---25-minutes"></a>
+
+Thank you for telling me about your experience. We’re going to switch topics to getting feedback on VA.gov.
+
+
+### To get started<a id="to-get-started"></a>
+
+- Open your browser and navigate to VA.gov, or click the link I’ve provided in the chat/text/email.
+
+      * <https://www.va.gov/>
+
+- You will not be asked to sign in, and you are not going to be asked to provide any personal information.
+
+- Keep in mind, we want to hear your thoughts, so say anything top of mind as you go.
+
+
+### Mobile users/ Screenshare prompt and tech support<a id="mobile-users-screenshare-prompt-and-tech-support"></a>
+
+- [iPhone screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+
+- [Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+
+
+### AT users/ Screenshare prompt and tech support<a id="at-users-screenshare-prompt-and-tech-support"></a>
+
+- [Desktop screen readers](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist#Screenreaderchecklist-Desktopscreenreadersdesktop-screen-readers)
+
+- [iOS voiceover](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist#Screenreaderchecklist-iOSVoiceOverios-voiceover)
+
+- [Talkback Android](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-checklist#Screenreaderchecklist-TalkbackAndroidtalkback-android)
+
+_Navigation_
+
+5. Imagine you’ve come to VA.gov to search for representatives (such as a VSO, attorney, or claims agent) in your area that can help you in applying for a VA benefit. Go to where you would expect to find this information.
+
+   1. _Note: If you come to a page where you expect to find this information, stop and let me know and we’ll move to the next question._
+
+   2. Why did you decide to go here?
+
+   3. On a scale of 1 - 5, with 1 being very hard and 5 being very easy, how would you rate the ease of finding this tool?
+
+
+### Things to watch for:<a id="things-to-watch-for-1"></a>
+
+- Can the Veteran successfully navigate to the Find a Representative tool?
+
+- How did the Veteran approach navigating to the Find a Representative tool?
+
+- Were there any challenges encountered during the navigation?
+
+
+## Second Task: Search - 20 - 25/40 - 45 minutes<a id="second-task-search---20---2540---45-minutes"></a>
+
+6. _If participant did not make it to the landing page;_ I’m going to send you a link in chat/text/email to access the next part of our study.
+
+   1. <https://www.va.gov/disability/get-help-filing-claim/> 
+
+[_Get help from an accredited representative_](https://www.va.gov/disability/get-help-filing-claim/) _page_
+
+7. Take a moment to review the page. What are your initial impressions?
+
+8. Any information missing that you’d like to have?
+
+9. Navigate to the ‘Find an accredited representative’ link to continue.
+
+[_Find a Representative_](https://staging.va.gov/get-help-from-accredited-representative/find-rep/)
+
+10. Show how you would search for a representative in your area. If you do not wish to use your location I can provide one.
+
+    1. _Sample ZIP code; 10001, New York, NY_
+
+    2. _Keep in mind, we want to hear your thoughts, so say anything top of mind as you go._
+
+11. What are your thoughts on the search tool?
+
+    1. Is there any information missing you’d like to have?
+
+    2. What are your thoughts on the filter options? Current options include; type of representative, location, search radius, and name.
+
+       1. Are there any other ways you’d like to filter your search?
+
+    3. What are your thoughts on the sort options? Current options include; distance, first and last name.
+
+       1. Are there any other ways you’d like to sort your search?
+
+    4. What are your thoughts on the representative information?
+
+       1. Is there any other information you’d want to know about the representative?
+
+    5. What are your thoughts on the ‘Report outdated information’ feature?
+
+       1. Is that something you can see yourself using?
+
+12. After completing your search, what would your next steps be?
+
+13. Any other thoughts on this page?
+
+
+### Things to watch for:<a id="things-to-watch-for-2"></a>
+
+- Does the user understand the information shown? Special focus on representatives.
+
+- Does the user understand next steps?
+
+- Does the experience match user expectations?
+
+- Does the user have any other criteria they’d like to search from or see about representatives?
+
+
+## Post-Task Interview - 5 minutes<a id="post-task-interview---5-minutes"></a>
+
+17. What are your thoughts on the website we shared with you today?
+
+18. How likely would you use the tool we showed today? Why or why not?
+
+19. Observers, do you have any additional questions?
+
+
+## Thank-You and Closing - 2 minutes<a id="thank-you-and-closing---2-minutes"></a>
+
+We’d love to hear what you think about your overall experience of being scheduled and participating in the research session. Could we have done anything differently/better?
+
+Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. I just want to check once more that you’re still okay about us using your feedback or if you would like to redact anything we discussed today?
+
+Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans, their family, and caregivers you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
 
-##
 
-## Emergency Exit
+## Emergency Exit<a id="emergency-exit"></a>
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+**“I’m sorry to hear you’re \[repeat their words].** Do you feel up to continuing? You’ll be compensated even if we stop early.
 
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+**“I’m sorry to hear you’ve been going through this.** I appreciate your willingness to speak to me today.
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+**“I’m interested to hear more about \[topic].** Are you up for continuing, or would you prefer me to move to the next topic?
+
+**“I don’t have concrete help I can offer, but I do have a hotline number and online resources I can provide.** Before we continue, would you like that information?
+
+- Hotline numbers
+
+  - Crisis: 988 & select 1, or text 838255
+
+  - Benefits Hotline: 800-827-1000
+
+  - Health Benefits Hotline: 800-827-1000
+
+- Online resources
+
+  - <https://www.va.gov/disability/get-help-filing-claim/> 
+
+**“I hear that you’re good to continue. Before we do, let’s take a minute - I’m going to go off video and mute myself & get a glass of water.** Is that okay with you? Sounds good, I’ll be back in \[x minutes].
+
+**“We have covered all the questions I have for you today.** Thank you so much for your time and feedback.
+
+[Emergency exit strategy.](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)
