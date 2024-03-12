@@ -26,15 +26,15 @@ Records |  11 | 3
 
 ## Top issues found
 
-1. Key navigation component links labels (i.e. breadcrumbs, left nav, top nav) have become out of sync with the H1s of pages
+1. Key navigation and link labels (i.e. breadcrumbs, left nav, top nav, hub pages, etc) have become out of sync with the H1s of pages
     - Drupal currently matches the current page segment in the breadcrumb to link label used in the left nav, but the left nav is often a shortened version of the H1, which can ultimately reduce clarity in understanding where you are in the site.  A ticket has been submitted to the CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page.
     - A few labels used in the top nav and left nav have become out of sync with the H1 of the corresponding landing page due to evolutions in content.  
 
-2. Benefit hub landing pages had missing, mismatched, or out of order links
-    - The links on the hub page within the spoke sections do not match the order of the links within the left nav.
-    - There were also a few instances where a link to a newer page was missing from either the hub page or left nav.
+2. Benefit hub landing pages had missing, or out of order links
+    - The links on the hub page within the spoke sections did not match the order of the links within the left nav.
+    - There were a few instances where a link to a newer page was missing from either the hub page or left nav.
 
-3. Repetitive words or inconsistent labels within navigation components
+3. Repetitive words or inconsistent labels within navigation elements
     - In some instances, a label used for the name of a benefit or task was not consistent between the H1, the left nav, or a hub page link.  An example of this is when there are program abbreviations used or additional descriptors of a benefit or program (i.e. Chapter 31).
     - Initial launch of the modernized pages on VA.gov focused heavily on SEO in order to quickly build search value and visibility.  That included using additional words or phrases to hit on key search terms. One example was the use of "VA" in titles, which was then repeated in navigation components.  
     
@@ -45,32 +45,26 @@ Records |  11 | 3
     - We still have some pages and tools that were migrated from Vets.gov that do not have modernized URLs that meet our standards or reflect their accurate structure.
     - Some page URLs have become slightly out of sync with the H1s of the page as the page has evolved.
 
-
-## Standards and documention gaps identified
-
-- Usage of "On this page" component
-- Use of form number in link labels and page titles
-- Hub page guidance for link inclusion and order
-- Use of "VA" in page titles - when it is needed and when it is not
-- Labels used for application entry points (i.e. Apply now, Apply online, etc)
-- Guidance for determining labels for left nav
+6. Standards around some topics were either not clear or had not been created 
+    - Many standards and documention gaps were identified
+      - Usage of "On this page" component
+      - Use of form number in link labels and page titles
+      - Hub page guidance for link inclusion and order
+      - Use of "VA" in page titles - when it is needed and when it is not
+      - Labels used for application entry points (i.e. Apply now, Apply online, etc)
+      - Guidance for determining labels for left nav
 
 
 ## Recommendations and next steps
 
 1. Work with CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page.
 2. Refine CAIA processes to address navigation component and hub page updates when pages are launched, H1s are changed, or pages are archived.
-3. Establish rubric to define what links should appear on the hub page in each secton.
+3. Establish guidance to define what links should appear on the hub page in each secton.
 4. Work with product teams that have incorrect URL structures on their forms or tools to get them updated to meet standards.
-5. Document new standards and guidance gaps identified.
+5. Document new standards and guidance identified as needed and work with Design System team to add them to the VA design system.
 6. Make edits as indicated in each audit.
 
 
-## Additional benefits
-
-- Established proces and documentation
-- Learning/education on IA structure, standards in play, and working relationship between content and IA
-- Working in Drupal 
 
 
 
