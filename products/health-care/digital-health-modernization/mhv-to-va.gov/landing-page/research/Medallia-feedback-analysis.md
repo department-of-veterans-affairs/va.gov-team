@@ -200,7 +200,7 @@ Other:
     <td>9%</td>
     <td>13%</td>
     <td>0%</td>
-     <td> </td>
+     <td>10%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -266,6 +266,9 @@ Other:
     <td>
       <li> No (2 users / 100%)</li>
       <li>Yes (0 users / 0%)</li></td>
+    <td>
+      <li> No (10 users / 90%)</li>
+      <li>Yes (1 users / 10%)</li></td>
   </tr>
 </table>
 
