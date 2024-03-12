@@ -31,15 +31,9 @@ The burial allowance online applications is out of date and so it is being updat
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**1) Apply for burial benefits - Existing**
+- URL: www.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530 
+- Notes: We are proposing updating the form URL (currently https://www.va.gov/burials-and-memorials/application/530/introduction) so that it is up to standards. We will submit a backlog ticket to the team to change the URL and will coordinate that with a redirect.
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -51,13 +45,6 @@ The burial allowance online applications is out of date and so it is being updat
   - Link label: 
   - Link destination: 
   - Notes: 
-
-2. **[Page URL or component name]** - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
- 
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
