@@ -4,14 +4,17 @@
 Notifications about sensitive activities made in a veteran’s account can serve as an early warning sign of unauthorized access or a security breach.
 
 O4 KR 1 for 2024 is to reduce the time to detect fraud by 10%. By notifying veterans of unusual sign ins, they will be alerted to potential fraud and likely find out about it much earlier than they otherwise would. In these notifications, for instances that the veteran doesn’t recognize, we can ask veterans to take immediate steps, such as changing passwords, reviewing account activity, or contacting the VA, in order to secure their accounts and prevent further unauthorized actions. These actions should progress us towards one of our team’s 2024 OKRs - reducing the time to detect fraud.
-Success Metrics
-We need to know some data points before we can understand what success looks like.
-What is our current “time to detect fraud” number? Yes we have this and are measuring this currently
-For veterans whose account has suspected fraudulent activity, how long does it take them, on average, to report this to the VA? We don’t measure this yet (data from Contact Center)
-How long from when we send a notification to when they call in PLUS how long for BDPR to confirm as fraud
-How quickly does the BDPR team find potential fraud?(data needs to be conditional, cases that are fraud that we haven’t caught plus false positives)
-Time to remediation for the event (what parts are in our control? This happens when BDPR tells us they close the case = account data is reverted) time we detect - BDPR ticket close
-What are our goal posts, where do we draw the line? How do we make this as simple as possible for MVP?
+
+## Success Metrics
+
+### Outstanding questions that might help us measure what success looks like
+- We need to know some data points before we can understand what success looks like. 
+- What is our current “time to detect fraud” number? Yes we have this and are measuring this currently - [Data spreadsheet](https://docs.google.com/spreadsheets/d/1JKNTCMRDmgJh5jU--rOicPMqvw0zR00ze2X-VycFmOE/edit#gid=1457434547)
+- For veterans whose account has suspected fraudulent activity, how long does it take them, on average, to report this to the VA? We don’t measure this yet (data from Contact Center)
+- How long from when we send a notification to when they call in PLUS how long for BDPR to confirm as fraud
+- How quickly does the BDPR team find potential fraud?(e.g. data needs to be conditional, cases that are fraud that we haven’t caught plus false positives)
+- Time to remediation for the event (what parts are in our control between the time we detect to BDPR closing ticket? note: ticket close happens when BDPR tells us they close the case in other words all account data is reverted)
+- What are our goal posts, where do we draw the line? How do we make this as simple as possible for MVP?
 
 ## Scope Considerations
 Our MVP is an email alert to a user when their account is signed in by an unusual device or IP
