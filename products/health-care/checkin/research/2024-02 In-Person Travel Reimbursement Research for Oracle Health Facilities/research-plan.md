@@ -5,7 +5,7 @@ In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilit
 
 Veterans who have medical appointments at VA health facilities that use Oracle Health EHR software (formerly CERNER) have a need to be able to file a mileage-only travel reimbursement claim on the day of their appointment. 
 
-While there is a roadmap for including pre-check-in and eCheck-in at facilities using Oracle Health EHR software, the greatest value right now for Veterans and patient tracking at clinics is to offer Veterans the ability to file a mileage-only travel reimbursement claim using VA's Low Risk One Time Authentication (LoROTA) to streamline the "sign in" process for Veterans. 
+The greatest value right now for this consortium of Veterans and patient tracking at clinics is to offer Veterans the ability to file a mileage-only travel reimbursement claim using VA's Low Risk One Time Authentication (LoROTA) to streamline the "sign in" process for Veterans. 
 
 The online travel reimbursement feature for smartphones will be piloted at a VA health facility that's use of Oracle Health is mature. E.g., Portland or Columbus. We will be collaborating with Integrated Veteran Care (IVC) on selecting a pilot facility and scheduling an in-person research visit.
 
