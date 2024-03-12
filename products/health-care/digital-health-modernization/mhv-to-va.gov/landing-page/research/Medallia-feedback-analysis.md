@@ -131,7 +131,7 @@ Spanning both surveys
     <td>3 users</td>
     <td>2 users</td>
     <td>3 users</td>
-    <td>none</td>
+    <td>3 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
